@@ -310,7 +310,7 @@ def build_b():
 
 
 # ---------------------------------------------------------------- D：今日清单
-D_PROG_HTML = '<div id="prog"></div>'
+D_PROG_HTML = '<div id="prog"></div><div class="rf-overlay" id="rfOverlay"><div class="rf-modal"><div class="rf-head"><div class="rf-scn" id="rfScn"></div><div class="rf-meta" id="rfMeta"></div><button class="rf-x" id="rfX">&times;</button></div><div class="rf-body" id="rfBody"></div></div></div>'
 D_PROG_CSS = """
 #prog { font-family: -apple-system, "Segoe UI", "Microsoft YaHei", sans-serif; font-size: 12px; }
 #prog table { width:100%; border-collapse:collapse; }
@@ -325,32 +325,116 @@ D_PROG_CSS = """
 #prog .bar i { position:absolute; left:0; top:0; bottom:0; border-radius:4px; background:#378ADD; }
 #prog .bar i.done { background:#639922; }
 #prog .bar i.doing { background:#EF9F27; }
+#prog .scn-click { cursor:pointer; text-decoration:underline dotted; text-decoration-color:rgba(255,255,255,0.3); text-underline-offset:3px; transition:all .15s; padding:1px 3px; border-radius:3px; }
+#prog .scn-click:hover { color:#378add; text-decoration-color:#378add; background:rgba(55,138,221,0.1); }
+.rf-overlay { position:absolute; inset:0; background:rgba(0,0,0,0.65); display:none; align-items:center; justify-content:center; z-index:100; }
+.rf-overlay.show { display:flex; }
+.rf-modal { background:#1a1d24; border:1px solid #3a3f4b; border-radius:10px; width:90%; max-width:520px; max-height:85%; overflow-y:auto; box-shadow:0 20px 60px rgba(0,0,0,0.5); }
+.rf-head { padding:12px 16px; border-bottom:1px solid #2d313a; display:flex; align-items:flex-start; gap:8px; }
+.rf-scn { font-size:13.5px; font-weight:500; flex:1; color:#e6e8eb; word-break:break-all; }
+.rf-meta { font-size:10.5px; color:#6b7180; margin-top:3px; }
+.rf-x { background:none; border:none; color:#6b7180; font-size:18px; cursor:pointer; padding:1px 5px; border-radius:4px; line-height:1; flex-shrink:0; }
+.rf-x:hover { background:#22262f; color:#e6e8eb; }
+.rf-body { padding:14px 16px; }
+.rf-sec { margin-bottom:14px; }
+.rf-sec-t { font-size:10.5px; color:#6b7180; text-transform:uppercase; letter-spacing:.5px; margin-bottom:7px; display:flex; align-items:center; gap:6px; }
+.rf-sec-t::after { content:""; flex:1; height:1px; background:#2d313a; }
+.rf-g2 { display:grid; grid-template-columns:1fr 1fr; gap:8px; }
+.rf-stat { background:#22262f; border:1px solid #2d313a; border-radius:6px; padding:7px 9px; }
+.rf-stat .k { font-size:10px; color:#6b7180; margin-bottom:2px; }
+.rf-stat .v { font-size:14px; font-weight:500; color:#e6e8eb; font-variant-numeric:tabular-nums; }
+.rf-stat.next .v { color:#8b7cf5; }
+.rf-note { background:#22262f; border:1px solid #2d313a; border-left:3px solid #378add; border-radius:0 6px 6px 0; padding:9px 11px; font-size:12px; line-height:1.6; color:#e6e8eb; min-height:36px; white-space:pre-wrap; }
+.rf-note.empty { color:#6b7180; font-style:italic; border-left-color:#2d313a; }
+.rf-hist { display:flex; flex-direction:column; gap:5px; }
+.rf-hist-i { display:flex; gap:8px; align-items:baseline; font-size:11.5px; }
+.rf-hist-i .d { color:#6b7180; font-size:10.5px; min-width:48px; font-variant-numeric:tabular-nums; }
+.rf-hist-i .t { color:#a8adb8; line-height:1.5; }
+.rf-hist-i.empty .t { color:#6b7180; font-style:italic; }
 """
 D_PROG_JS = r"""
 (function () {
-  var targets = [], counts = {};
-  ((htmlGraphics.data && htmlGraphics.data.series) || []).forEach(function (fr) {
-    (fr.fields || []).forEach(function (f) {
-      // 字符串字段 = 清单行 JSON
+  var frames = (htmlGraphics.data && htmlGraphics.data.series) || [];
+  // frames[0]=A(day_json) [1]=B(count) [2]=C(reflection) [3]=D(today_score) [4]=E(nextline)
+
+  // ---- 1. 从 A 提取清单行 ----
+  var targets = [];
+  if (frames[0]) {
+    (frames[0].fields || []).forEach(function (f) {
       if (f.type === 'string' || f.name === 'Value' || f.name === '_value' || f.name === 'rowJson') {
         (f.values || []).forEach(function (v) {
           if (typeof v !== 'string') return;
           try { var o = JSON.parse(v); if (o && o.scenario) targets.push(o); } catch (e) {}
         });
       }
-      // 数值字段 + scenario 标签 = 当日已打轮数
+    });
+  }
+
+  // ---- 2. 从 B 提取当日轮数 ----
+  var counts = {};
+  if (frames[1]) {
+    (frames[1].fields || []).forEach(function (f) {
       if (f.type === 'number' && f.labels && f.labels.scenario) {
         var vals = f.values || [];
         if (vals.length) counts[f.labels.scenario] = vals[vals.length - 1];
       }
     });
-  });
+  }
+
+  // ---- 3. 从 C 提取感悟（最近7天）----
+  var reflections = {};
+  if (frames[2]) {
+    var tf = null, vf = null, sf = null;
+    (frames[2].fields || []).forEach(function (f) {
+      if (f.type === 'time') tf = f;
+      else if (f.name === '_value' || f.name === 'Value') vf = f;
+      else if (f.name === 'scenario') sf = f;
+    });
+    if (tf && vf && sf) {
+      tf.values.forEach(function (t, i) {
+        var scn = sf.values[i], note = vf.values[i];
+        if (!scn || note == null) return;
+        var d = new Date(t);
+        var ds = d.getFullYear() + '-' + String(d.getMonth() + 1).padStart(2, '0') + '-' + String(d.getDate()).padStart(2, '0');
+        if (!reflections[scn]) reflections[scn] = [];
+        reflections[scn].push({ date: ds, note: String(note) });
+      });
+    }
+  }
+  Object.values(reflections).forEach(function (a) { a.sort(function (x, y) { return y.date.localeCompare(x.date); }); });
+
+  // ---- 4. 从 D 提取当天成绩（score/accuracy max）----
+  var todayScore = {};
+  if (frames[3]) {
+    (frames[3].fields || []).forEach(function (f) {
+      if (f.type !== 'number' || !f.labels || !f.labels.scenario) return;
+      var fld = f.labels._field || f.name;
+      var vals = f.values || [];
+      if (!vals.length) return;
+      if (!todayScore[f.labels.scenario]) todayScore[f.labels.scenario] = {};
+      todayScore[f.labels.scenario][fld] = vals[vals.length - 1];
+    });
+  }
+
+  // ---- 5. 从 E 提取 nextLine ----
+  var nextLines = {};
+  if (frames[4]) {
+    (frames[4].fields || []).forEach(function (f) {
+      if (f.type !== 'number' || !f.labels || !f.labels.scenario) return;
+      var vals = f.values || [];
+      if (!vals.length) return;
+      nextLines[f.labels.scenario] = vals[vals.length - 1];
+    });
+  }
+
+  // ---- 6. 渲染表格 ----
   targets.sort(function (a, b) { return a.order - b.order; });
   var h = '<table><thead><tr><th style="width:32px">#</th><th>场景</th><th style="width:58px">角色</th>' +
           '<th style="width:64px">目标分</th><th style="width:60px">门槛</th>' +
           '<th style="width:88px" class="num">已打 / 要求</th><th style="width:120px">进度</th>' +
           '<th style="width:80px">状态</th></tr></thead><tbody>';
   var doneAll = 0;
+  function escAttr(s) { return String(s).replace(/"/g, '&quot;').replace(/</g, '&lt;'); }
   targets.forEach(function (t) {
     var done = counts[t.scenario] || 0;
     var ratio = Math.min(1, done / t.rounds);
@@ -358,7 +442,9 @@ D_PROG_JS = r"""
     var chip = ratio >= 1 ? 'done' : (ratio > 0 ? 'doing' : 'none');
     var txt = ratio >= 1 ? '已完成' : (ratio > 0 ? '进行中' : '未开始');
     if (ratio >= 1) doneAll++;
-    h += '<tr><td>' + t.order + '</td><td>' + t.scenario + '</td><td>' + t.role + '</td>' +
+    h += '<tr><td>' + t.order + '</td>' +
+         '<td><span class="scn-click" data-scn="' + escAttr(t.scenario) + '">' + t.scenario + '</span></td>' +
+         '<td>' + t.role + '</td>' +
          '<td>' + (t.target_score == null ? '—' : t.target_score) + '</td>' +
          '<td>' + (t.target_acc == null ? '—' : t.target_acc + '%') + '</td>' +
          '<td class="num">' + done + ' / ' + t.rounds + '</td>' +
@@ -368,9 +454,79 @@ D_PROG_JS = r"""
   h += '</tbody></table>';
   h += '<div style="margin-top:8px;font-size:11.5px;color:#8b919c">已完成 ' + doneAll + ' / ' +
        targets.length + ' 条 · 清单日 ' + (targets[0] ? targets[0].run_date : '') +
-       '（' + (targets[0] ? targets[0].daylist + ' · ' + targets[0].label : '') + '）</div>';
+       '（' + (targets[0] ? targets[0].daylist + ' · ' + targets[0].label : '') + '）' +
+       ' · 点击场景名查看感悟</div>';
   var host = htmlGraphics.htmlNode.getElementById('prog') || htmlGraphics.htmlNode;
   host.innerHTML = targets.length ? h : '<div style="color:#9aa0a6;padding:8px">暂无该清单数据（跑 daylist_sync.py）</div>';
+
+  // ---- 7. Modal 弹窗逻辑 ----
+  var overlay = htmlGraphics.htmlNode.getElementById('rfOverlay');
+  var scnEl = htmlGraphics.htmlNode.getElementById('rfScn');
+  var metaEl = htmlGraphics.htmlNode.getElementById('rfMeta');
+  var bodyEl = htmlGraphics.htmlNode.getElementById('rfBody');
+  var xBtn = htmlGraphics.htmlNode.getElementById('rfX');
+
+  function rfClose() { if (overlay) overlay.classList.remove('show'); }
+  if (xBtn) xBtn.onclick = rfClose;
+  if (overlay) {
+    overlay.onclick = function (e) { if (e.target === overlay) rfClose(); };
+  }
+  document.addEventListener('keydown', function (e) { if (e.key === 'Escape') rfClose(); });
+
+  function rfOpen(scn) {
+    if (!overlay) return;
+    var t = targets.find(function (x) { return x.scenario === scn; }) || {};
+    var ts = todayScore[scn] || {};
+    var score = ts.score != null ? Math.round(ts.score * 10) / 10 : '—';
+    var acc = ts.accuracy != null ? (Math.round(ts.accuracy * 10) / 10) + '%' : '—';
+    var tScore = t.target_score != null ? t.target_score : '—';
+    var tAcc = t.target_acc != null ? t.target_acc + '%' : '—';
+    var nl = nextLines[scn] != null ? nextLines[scn] : '—';
+
+    var now = new Date();
+    var todayStr = now.getFullYear() + '-' + String(now.getMonth() + 1).padStart(2, '0') + '-' + String(now.getDate()).padStart(2, '0');
+    var refs = reflections[scn] || [];
+    var todayNote = refs.find(function (r) { return r.date === todayStr; });
+    var history = refs.filter(function (r) { return r.date < todayStr; }).slice(0, 3);
+    while (history.length < 3) history.push({ date: '—', note: '', empty: true });
+
+    scnEl.textContent = scn;
+    metaEl.textContent = (t.role || '—') + ' · ' + (t.daylist || '—') + ' · ' + todayStr;
+
+    var bh = '';
+    bh += '<div class="rf-sec"><div class="rf-sec-t">当天成绩</div><div class="rf-g2">' +
+          '<div class="rf-stat"><div class="k">得分</div><div class="v">' + score + '</div></div>' +
+          '<div class="rf-stat"><div class="k">命中率</div><div class="v">' + acc + '</div></div></div></div>';
+    bh += '<div class="rf-sec"><div class="rf-sec-t">目标对比</div><div class="rf-g2">' +
+          '<div class="rf-stat"><div class="k">目标分</div><div class="v">' + tScore + '</div></div>' +
+          '<div class="rf-stat"><div class="k">命中率门槛</div><div class="v">' + tAcc + '</div></div>' +
+          '<div class="rf-stat next" style="grid-column:1/-1"><div class="k">下一档线</div><div class="v">' + nl + '</div></div></div></div>';
+    bh += '<div class="rf-sec"><div class="rf-sec-t">今日感悟</div>' +
+          '<div class="rf-note' + (todayNote ? '' : ' empty') + '">' +
+          (todayNote ? todayNote.note.replace(/</g, '&lt;') : '暂无感悟 — 练完后在对话中告诉我，我帮你写入') +
+          '</div></div>';
+    bh += '<div class="rf-sec"><div class="rf-sec-t">最近 3 天</div><div class="rf-hist">';
+    history.forEach(function (h) {
+      if (h.empty) {
+        bh += '<div class="rf-hist-i empty"><span class="d">' + h.date + '</span><span class="t">（无感悟）</span></div>';
+      } else {
+        bh += '<div class="rf-hist-i"><span class="d">' + h.date.slice(5) + '</span><span class="t">' + h.note.replace(/</g, '&lt;') + '</span></div>';
+      }
+    });
+    bh += '</div></div>';
+    bodyEl.innerHTML = bh;
+    overlay.classList.add('show');
+  }
+
+  // 事件委托：点击 .scn-click
+  host.addEventListener('click', function (e) {
+    var el = e.target.closest ? e.target.closest('.scn-click') : null;
+    if (!el && e.target.classList && e.target.classList.contains('scn-click')) el = e.target;
+    if (el) {
+      var scn = el.getAttribute('data-scn');
+      if (scn) rfOpen(scn);
+    }
+  });
 })();
 """
 
@@ -671,10 +827,32 @@ def build_d():
                   '  |> filter(fn: (r) => r._measurement == "aim_scenario" and r._field == "score" and r.list == "viscose-s2-easier")\n'
                   '  |> group(columns: ["scenario"]) |> count()')
 
+    # 每日感悟（refId C）：最近 7 天 aim_reflection
+    reflection_flux = ('from(bucket: "aim") |> range(start: -7d, stop: 2d)\n'
+                       '  |> filter(fn: (r) => r._measurement == "aim_reflection" and r._field == "note")\n'
+                       '  |> keep(columns: ["_time", "_value", "scenario", "daylist"])')
+
+    # 当天成绩（refId D）：aim_scenario 当天 score / accuracy 的 max
+    today_score_flux = ('_rd = "${rundate}"\n'
+                        '_cs = if _rd == "" then v.timeRangeStart else time(v: _rd + "T00:00:00+08:00")\n'
+                        '_ce = if _rd == "" then v.timeRangeStop else time(v: _rd + "T23:59:59+08:00")\n'
+                        'from(bucket: "aim")\n'
+                        '  |> range(start: _cs, stop: _ce)\n'
+                        '  |> filter(fn: (r) => r._measurement == "aim_scenario" and (r._field == "score" or r._field == "accuracy") and r.list == "viscose-s2-easier")\n'
+                        '  |> group(columns: ["scenario", "_field"]) |> max()')
+
+    # 下一档线（refId E）：aim_bench_row nextLine
+    nextline_flux = ('from(bucket: "aim") |> range(start: -1d, stop: 2d)\n'
+                     '  |> filter(fn: (r) => r._measurement == "aim_bench_row" and r._field == "nextLine")\n'
+                     '  |> keep(columns: ["_time", "_value", "scenario"]) |> last()')
+
     prog = html_panel(800, "今日清单 · 完成度（要求轮数 vs 已打）", day_json_flux,
                       "数据源：aim_daylist（清单要求）+ aim_scenario（清单日当天实际次数）",
                       D_PROG_HTML, D_PROG_CSS, D_PROG_JS, y=0, h=12)
     prog["targets"].append(target("B", count_flux))
+    prog["targets"].append(target("C", reflection_flux))
+    prog["targets"].append(target("D", today_score_flux))
+    prog["targets"].append(target("E", nextline_flux))
 
     # ① 目标对比总表（单面板，插件不支持重复，所以做成"每行一个场景"的总表）
     all_day_flux = day_json_flux
