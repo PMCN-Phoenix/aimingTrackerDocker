@@ -384,65 +384,6 @@
         "defaults": {},
         "overrides": []
       }
-    },
-    {
-      "id": 610,
-      "type": "gapit-htmlgraphics-panel",
-      "title": "场景达标线总表（9 档格子填色）",
-      "description": "照搬 evxl charts 页：官方 4 大类 / 14 子类分组，每行 9 档达标线；已达档=绿格、下一档=蓝格、未达=灰格；进度条=当前分÷下一档线",
-      "datasource": {
-        "type": "influxdb",
-        "uid": "influxdb-aim"
-      },
-      "gridPos": {
-        "h": 46,
-        "w": 24,
-        "x": 0,
-        "y": 14
-      },
-      "targets": [
-        {
-          "refId": "A",
-          "datasource": {
-            "type": "influxdb",
-            "uid": "influxdb-aim"
-          },
-          "query": "option location = {zone: \"Asia/Shanghai\", offset: 8h}\nfrom(bucket: \"aim\") |> range(start: v.timeRangeStart, stop: v.timeRangeStop) |> filter(fn: (r) => r._measurement == \"aim_bench_row\" and r._field == \"rowJson\") |> last() |> keep(columns: [\"_time\", \"_value\", \"scenario\"])",
-          "hide": false
-        }
-      ],
-      "options": {
-        "html": "<div id=\"bench\"></div>",
-        "css": "\n#bench { font-family: -apple-system, \"Segoe UI\", \"Microsoft YaHei\", sans-serif; font-size: 12px; }\n#bench .lgd { display:flex; gap:16px; flex-wrap:wrap; font-size:11.5px; color:#8b919c; margin:2px 0 10px 2px; }\n#bench .lgd i { display:inline-block; width:14px; height:11px; border-radius:3px; margin-right:5px; vertical-align:-1px; }\n#bench table { width:100%; border-collapse:collapse; table-layout:fixed; }\n#bench th { color:#8b919c; font-weight:400; font-size:11px; padding:4px 5px; text-align:right; white-space:nowrap; }\n#bench th.sc { text-align:left; width:24%; }\n#bench th.pg { width:13%; text-align:left; }\n#bench td { padding:2px 3px; border-top:1px solid rgba(255,255,255,0.06); white-space:nowrap; overflow:hidden; text-overflow:ellipsis; }\n#bench td.sc { text-align:left; color:inherit; }\n#bench td.num { text-align:right; font-variant-numeric:tabular-nums; }\n#bench tr.cat td { padding-top:9px; padding-bottom:4px; font-weight:500; letter-spacing:.5px; font-size:11.5px; border-top:none; }\n#bench tr.sub td { font-size:11px; color:#8b919c; padding-top:4px; padding-bottom:2px; border-top:none; }\n#bench .cell { display:block; padding:4px 5px; border-radius:5px; text-align:right; font-size:11px; font-variant-numeric:tabular-nums; }\n#bench .cell.ach { background:#C0DD97; color:#173404; }\n#bench .cell.cur { background:#B5D4F4; color:#042C53; font-weight:500; }\n#bench .cell.fut { background:rgba(140,140,140,0.16); color:#9aa0a6; }\n#bench .bar { position:relative; height:9px; border-radius:5px; background:rgba(140,140,140,0.22); overflow:hidden; }\n#bench .bar i { position:absolute; left:0; top:0; bottom:0; border-radius:5px; background:#378ADD; }\n#bench .bar i.done { background:#639922; }\n#bench .bar i.warn { background:#EF9F27; }\n#bench .progwrap { display:flex; align-items:center; gap:7px; }\n#bench .progwrap .bar { flex:1; }\n#bench .pct { font-size:10px; color:#8b919c; }\n#bench .tk { font-size:10.5px; color:#8b919c; margin-left:6px; }\n",
-        "onInit": "",
-        "onRender": "\n(function () {\n  var TIERS = ['Lemming','Hare','Ermine','Puffin','Penguin','Fox','Mammoth','Orca','Seal'];\n  function parseRows() {\n    var out = [];\n    var series = (htmlGraphics.data && htmlGraphics.data.series) || [];\n    series.forEach(function (fr) {\n      (fr.fields || []).forEach(function (f) {\n        var isStr = f.type === 'string' || f.name === 'Value' || f.name === '_value' || f.name === 'rowJson';\n        if (!isStr) return;\n        (f.values || []).forEach(function (v) {\n          if (typeof v !== 'string') return;\n          try { out.push(JSON.parse(v)); } catch (e) {}\n        });\n      });\n    });\n    return out;\n  }\n  function num(v) {\n    if (v === null || v === undefined) return '—';\n    var n = Math.round(v * 100) / 100;\n    return n.toLocaleString('en-US');\n  }\n  function build(rows) {\n    rows.sort(function (a, b) { return a.ord - b.ord; });\n    var h = '<div class=\"lgd\">' +\n      '<span><i style=\"background:#C0DD97\"></i>已达档</span>' +\n      '<span><i style=\"background:#B5D4F4\"></i>下一档（要攻的这格）</span>' +\n      '<span><i style=\"background:rgba(140,140,140,0.3)\"></i>未达</span>' +\n      '<span>进度条 = 当前分 ÷ 下一档线</span></div>';\n    h += '<table><thead><tr><th class=\"sc\">SCENARIO</th><th class=\"num\" style=\"width:9%\">SCORE</th>' +\n         '<th class=\"pg\">进度</th>';\n    TIERS.forEach(function (t) { h += '<th>' + t.slice(0, 6).toUpperCase() + '</th>'; });\n    h += '</tr></thead><tbody>';\n    var lastCat = null, lastSub = null;\n    rows.forEach(function (r) {\n      if (r.cat !== lastCat) {\n        h += '<tr class=\"cat\"><td colspan=\"12\">' + r.cat + '</td></tr>';\n        lastCat = r.cat; lastSub = null;\n      }\n      if (r.sub !== lastSub) {\n        var subRows = rows.filter(function (x) { return x.sub === r.sub && x.cat === r.cat; });\n        var sidx = TIERS.indexOf(r.subRank);\n        h += '<tr class=\"sub\"><td colspan=\"2\">' + r.sub + '</td>';\n        h += '<td colspan=\"9\">' + r.subRank +\n             (r.subPct !== null && r.subPct !== undefined ? ' · 进度 +' + r.subPct + '%' : '') +\n             ' <span class=\"tk\">' + subRows.length + ' 个场景</span></td></tr>';\n        lastSub = r.sub;\n      }\n      var nextLine = r.full ? r.targets[TIERS.length - 1] : r.targets[r.achIdx];\n      var ratio = r.full ? 1 : Math.min(1, r.score / nextLine);\n      var cls = r.full || ratio >= 0.95 ? 'done' : (ratio >= 0.85 ? 'warn' : '');\n      h += '<tr><td class=\"sc\" title=\"' + r.scenario + '\">' + r.scenario + '</td>';\n      h += '<td class=\"num\">' + num(r.score) + '<div class=\"pct\">' + r.pct + '% 到下一档</div></td>';\n      h += '<td><div class=\"progwrap\"><div class=\"bar\"><i class=\"' + cls + '\" style=\"width:' +\n           (ratio * 100).toFixed(1) + '%\"></i></div><span class=\"pct\">' +\n           (r.full ? '满' : Math.round(ratio * 100) + '%') + '</span></div></td>';\n      r.targets.forEach(function (t, i) {\n        var c = i < r.achIdx ? 'ach' : (i === r.achIdx ? 'cur' : 'fut');\n        h += '<td><span class=\"cell ' + c + '\">' + num(t) + '</span></td>';\n      });\n      h += '</tr>';\n    });\n    return h + '</tbody></table>';\n  }\n  var rows = parseRows();\n  var host = htmlGraphics.htmlNode.getElementById('bench') || htmlGraphics.htmlNode;\n  host.innerHTML = rows.length ? build(rows) : '<div style=\"color:#9aa0a6;padding:8px\">暂无数据（先跑 bench_rows.py 物化）</div>';\n})();\n",
-        "onpanelupdate": "",
-        "onInitOnResize": false,
-        "panelupdateOnMount": true,
-        "reduceOptions": {
-          "calcs": [
-            "lastNotNull"
-          ],
-          "fields": "",
-          "values": false
-        },
-        "replaceVariables": true,
-        "renderOnMount": true,
-        "dynamicData": false,
-        "dynamicProps": false,
-        "dynamicHtmlGraphics": false,
-        "dynamicFieldDisplayValues": false,
-        "centerAlignContent": "left",
-        "overflow": "visible",
-        "rootCSS": "",
-        "SVGBaseFix": false,
-        "useGrafanaScrollbar": false,
-        "importPanelOptions": []
-      },
-      "fieldConfig": {
-        "defaults": {},
-        "overrides": []
-      }
     }
   ]
 }

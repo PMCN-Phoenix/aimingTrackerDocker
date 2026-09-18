@@ -1,0 +1,91 @@
+﻿<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<title>场景进步对比弹窗 - Demo</title>
+<style>
+* { margin: 0; padding: 0; box-sizing: border-box; }
+body { background: #161719; color: #d8d9da; font-family: -apple-system, "Segoe UI", Roboto, sans-serif; padding: 20px; }
+h2 { font-size: 16px; margin-bottom: 12px; color: #fff; }
+.sub { font-size: 12px; color: #98989d; margin-bottom: 16px; }
+table { width: 100%; border-collapse: collapse; font-size: 13px; }
+th { background: #222428; padding: 8px 10px; text-align: left; font-weight: 600; color: #b8b9bb; }
+td { padding: 8px 10px; border-bottom: 1px solid #2a2c30; }
+.scn-name { color: #5794f2; cursor: pointer; }
+.scn-name:hover { text-decoration: underline; }
+.tier { display: inline-block; padding: 2px 8px; border-radius: 3px; font-size: 11px; font-weight: 600; }
+.tier-lemming { background: #3d3d3d; color: #aaa; }
+.tier-hare { background: #1f4e1f; color: #7fd47f; }
+.tier-ermine { background: #1a3a5c; color: #6db3f2; }
+.tier-puffin { background: #4a2a5c; color: #c98fd4; }
+.rf-overlay { display: none; position: fixed; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0,0,0,.6); z-index: 1000; justify-content: center; align-items: center; }
+.rf-overlay.show { display: flex; }
+.rf-modal { background: #1f2124; border: 1px solid #333; border-radius: 8px; width: 560px; max-width: 95vw; max-height: 90vh; overflow-y: auto; padding: 20px; }
+.rf-title { font-size: 15px; font-weight: 600; color: #fff; margin-bottom: 16px; display: flex; justify-content: space-between; align-items: center; }
+.rf-close { cursor: pointer; color: #98989d; font-size: 18px; }
+.rf-close:hover { color: #fff; }
+.cmp-table { width: 100%; border-collapse: collapse; margin-bottom: 16px; font-size: 13px; }
+.cmp-table th, .cmp-table td { padding: 8px 10px; text-align: center; }
+.cmp-table th { background: #2a2c30; color: #b8b9bb; font-weight: 600; }
+.cmp-table td:first-child { text-align: left; color: #98989d; }
+.up { color: #7fd47f; font-weight: 600; }
+.down { color: #e06c6c; font-weight: 600; }
+.flat { color: #98989d; }
+.tier-up { background: #1f4e1f; color: #7fd47f; padding: 2px 6px; border-radius: 3px; font-size: 11px; }
+.trend-title { font-size: 12px; color: #98989d; margin-bottom: 8px; }
+.trend-wrap { background: #161719; border-radius: 4px; padding: 10px; margin-bottom: 16px; }
+.trend-legend { font-size: 11px; color: #666; margin-top: 4px; text-align: center; }
+.tier-info { font-size: 12px; color: #98989d; line-height: 1.8; }
+.tier-info b { color: #d8d9da; }
+.hint { margin-top: 12px; font-size: 12px; color: #666; }
+</style>
+</head>
+<body>
+<h2>场景达标线总表 — A 看板面板 610</h2>
+<div class="sub">点击场景名查看长期进步趋势（Demo 数据）</div>
+<table>
+<thead><tr><th>#</th><th>场景</th><th>子类别</th><th>当前分</th><th>下一档线</th><th>命中率</th><th>档位</th></tr></thead>
+<tbody id="tbody"></tbody>
+</table>
+<div class="hint">💡 点击蓝色场景名 → 弹出进步对比弹窗</div>
+<div class="rf-overlay" id="overlay" onclick="if(event.target===this)rfClose()">
+<div class="rf-modal">
+<div class="rf-title"><span id="mTitle">场景名</span><span class="rf-close" onclick="rfClose()">×</span></div>
+<div id="mBody"></div>
+</div>
+</div>
+<script>
+var data = {
+"1w2ts reload smallflicks larger": { sub:"FLICK / Micro", tier:"Puffin", prevScore:100, prevAcc:96.2, prevTier:"Puffin", prevDate:"9/16", curScore:89, curAcc:97.8, curTier:"Puffin", curDate:"9/18", nextLine:106, dailyAvg:[{date:"9/16",avg:100,rounds:1},{date:"9/17",avg:84.5,rounds:2},{date:"9/18",avg:89,rounds:2}] },
+"ww5t Voltaic Slightly Larger": { sub:"FLICK / Speed", tier:"Ermine", prevScore:90, prevAcc:95.7, prevTier:"Ermine", prevDate:"9/16", curScore:90.5, curAcc:97.9, curTier:"Ermine", curDate:"9/18", nextLine:97, dailyAvg:[{date:"9/16",avg:90,rounds:1},{date:"9/17",avg:81,rounds:2},{date:"9/18",avg:90.5,rounds:2}] },
+"PGTI Voltaic Easy Smoother": { sub:"CONTROL / Blending", tier:"Hare", prevScore:696, prevAcc:13.8, prevTier:"Lemming", prevDate:"9/16", curScore:861, curAcc:16.1, curTier:"Hare", curDate:"9/18", nextLine:1050, dailyAvg:[{date:"9/16",avg:696,rounds:1},{date:"9/17",avg:801,rounds:3},{date:"9/18",avg:861,rounds:6}] },
+"Air CELESTIAL No UFO Easier": { sub:"CONTROL / Blending", tier:"Hare", prevScore:810.8, prevAcc:37.0, prevTier:"Lemming", prevDate:"9/16", curScore:769.4, curAcc:33.6, curTier:"Hare", curDate:"9/18", nextLine:842, dailyAvg:[{date:"9/16",avg:810.8,rounds:1},{date:"9/17",avg:747.6,rounds:2},{date:"9/18",avg:769.4,rounds:3}] },
+"Pasu Voltaic Reload Easier": { sub:"CLICK / Reading", tier:"Lemming", prevScore:37, prevAcc:60.7, prevTier:"Unranked", prevDate:"9/16", curScore:35.1, curAcc:74.6, curTier:"Lemming", curDate:"9/18", nextLine:46, dailyAvg:[{date:"9/16",avg:37,rounds:1},{date:"9/18",avg:35.1,rounds:7}] },
+"VT Bounceshot Viscose Easier": { sub:"CLICK / Reading", tier:"Hare", prevScore:300, prevAcc:58.8, prevTier:"Lemming", prevDate:"9/16", curScore:347.1, curAcc:71.8, curTier:"Ermine", curDate:"9/18", nextLine:460, dailyAvg:[{date:"9/16",avg:300,rounds:1},{date:"9/18",avg:347.1,rounds:7}] },
+"CatClick Easier": { sub:"CLICK / Reading", tier:"Lemming", prevScore:25, prevAcc:54.3, prevTier:"Unranked", prevDate:"9/16", curScore:31, curAcc:65.9, curTier:"Lemming", curDate:"9/18", nextLine:35, dailyAvg:[{date:"9/16",avg:25,rounds:1},{date:"9/18",avg:31,rounds:6}] }
+};
+function tierClass(t){var m={"Lemming":"tier-lemming","Hare":"tier-hare","Ermine":"tier-ermine","Puffin":"tier-puffin","Unranked":"tier-lemming"};return m[t]||"tier-lemming";}
+function fmt(n){return typeof n==="number"?n.toFixed(1).replace(/\.0$/,""):n;}
+var tbody=document.getElementById("tbody");var i=1;
+Object.keys(data).forEach(function(scn){var d=data[scn];var tr=document.createElement("tr");tr.innerHTML="<td>"+(i++)+"</td><td><span class='scn-name' onclick=\"rfOpen('"+scn.replace(/'/g,"\\'")+"')\">"+scn+"</span></td><td>"+d.sub+"</td><td>"+fmt(d.curScore)+"</td><td>"+fmt(d.nextLine)+"</td><td>"+d.curAcc+"%</td><td><span class='tier "+tierClass(d.tier)+"'>"+d.tier+"</span></td>";tbody.appendChild(tr);});
+function rfOpen(scn){var d=data[scn];document.getElementById("mTitle").textContent=scn;var scoreDiff=d.curScore-d.prevScore;var scorePct=((scoreDiff/d.prevScore)*100).toFixed(1);var accDiff=(d.curAcc-d.prevAcc).toFixed(1);var tierChanged=d.prevTier!==d.curTier;var scoreCls=scoreDiff>0?"up":(scoreDiff<0?"down":"flat");var accCls=accDiff>0?"up":(accDiff<0?"down":"flat");var html="";
+html+="<table class='cmp-table'><tr><th></th><th>"+d.prevDate+" 首测</th><th>"+d.curDate+" 最新日均</th><th>变化</th></tr>";
+html+="<tr><td>平均分</td><td>"+fmt(d.prevScore)+"</td><td>"+fmt(d.curScore)+"</td><td class='"+scoreCls+"'>"+(scoreDiff>=0?"↑":"↓")+" "+Math.abs(scorePct)+"%</td></tr>";
+html+="<tr><td>命中率</td><td>"+d.prevAcc+"%</td><td>"+d.curAcc+"%</td><td class='"+accCls+"'>"+(accDiff>=0?"↑":"↓")+" "+Math.abs(accDiff)+"pp</td></tr>";
+html+="<tr><td>档位</td><td>"+d.prevTier+"</td><td>"+d.curTier+"</td><td>"+(tierChanged?"<span class='tier-up'>↑ 升档</span>":"<span class='flat'>—</span>")+"</td></tr></table>";
+if(d.dailyAvg&&d.dailyAvg.length>1){var w=500,h=120,padL=50,padR=20,padT=20,padB=30;var vals=d.dailyAvg.map(function(p){return p.avg;});var min=Math.min.apply(null,vals),max=Math.max.apply(null,vals);var range=max-min||1;var chartW=w-padL-padR,chartH=h-padT-padB;var stepX=chartW/(d.dailyAvg.length-1);
+var points=d.dailyAvg.map(function(p,idx){var x=padL+idx*stepX;var y=padT+chartH-((p.avg-min)/range)*chartH;return{x:x,y:y,data:p};});
+html+="<div class='trend-title'>每日平均分趋势（按训练日聚合）</div><div class='trend-wrap'><svg width='"+w+"' height='"+h+"'>";
+for(var ly=0;ly<=2;ly++){var yy=padT+chartH*ly/2;var val=max-range*ly/2;html+="<line x1='"+padL+"' y1='"+yy+"' x2='"+(w-padR)+"' y2='"+yy+"' stroke='#2a2c30' stroke-width='1'/><text x='"+(padL-6)+"' y='"+(yy+4)+"' fill='#666' font-size='10' text-anchor='end'>"+fmt(val)+"</text>";}
+var nlY=padT+chartH-((d.nextLine-min)/range)*chartH;if(nlY>=padT&&nlY<=padT+chartH){html+="<line x1='"+padL+"' y1='"+nlY+"' x2='"+(w-padR)+"' y2='"+nlY+"' stroke='#7fd47f' stroke-width='1' stroke-dasharray='4,3'/><text x='"+(w-padR+4)+"' y='"+(nlY+4)+"' fill='#7fd47f' font-size='10'>目标</text>";}
+var polyPts=points.map(function(p){return p.x+","+p.y;});
+html+="<polygon points='"+padL+","+(padT+chartH)+" "+polyPts.join(" ")+" "+(padL+(points.length-1)*stepX)+","+(padT+chartH)+"' fill='rgba(87,148,242,.12)'/>";
+html+="<polyline points='"+polyPts.join(" ")+"' fill='none' stroke='#5794f2' stroke-width='2'/>";
+points.forEach(function(p){var isLast=(p===points[points.length-1]);html+="<circle cx='"+p.x+"' cy='"+p.y+"' r='"+(isLast?4:3)+"' fill='"+(isLast?"#7fd47f":"#5794f2")+"'/>";html+="<text x='"+p.x+"' y='"+(p.y-8)+"' fill='#d8d9da' font-size='11' text-anchor='middle' font-weight='600'>"+fmt(p.data.avg)+"</text>";html+="<text x='"+p.x+"' y='"+(h-8)+"' fill='#98989d' font-size='10' text-anchor='middle'>"+p.data.date+"</text>";});
+html+="</svg><div class='trend-legend'>● 绿点=最新训练日 ｜ 虚线=下一档线目标 ｜ 每点上方数字=当天平均分</div></div>";}
+var gap=((d.nextLine-d.curScore)/d.curScore*100).toFixed(1);var prevGap=((d.nextLine-d.prevScore)/d.prevScore*100).toFixed(1);var narrowed=(prevGap-gap).toFixed(1);
+html+="<div class='tier-info'>下一档线：<b>"+fmt(d.nextLine)+"</b> ｜ 还差：<b>"+gap+"%</b>";if(narrowed>0)html+=" ｜ 较首测收窄了 <b style='color:#7fd47f'>"+narrowed+"pp</b>";html+="</div>";
+document.getElementById("mBody").innerHTML=html;document.getElementById("overlay").classList.add("show");}
+function rfClose(){document.getElementById("overlay").classList.remove("show");}
+</script>
+</body></html>

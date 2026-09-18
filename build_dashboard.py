@@ -94,6 +94,7 @@ def html_panel(pid, title, flux, desc, html, css, js, x=0, y=0, w=24, h=44, flux
 # ---------------------------------------------------------------- B：格子表
 B_TABLE_HTML = '<div id="bench"></div>'
 
+
 B_TABLE_CSS = """
 #bench { font-family: -apple-system, "Segoe UI", "Microsoft YaHei", sans-serif; font-size: 12px; }
 #bench .lgd { display:flex; gap:16px; flex-wrap:wrap; font-size:11.5px; color:#8b919c; margin:2px 0 10px 2px; }
@@ -272,6 +273,13 @@ def build_b():
     rowsq = ('from(bucket: "aim") |> range(start: v.timeRangeStart, stop: v.timeRangeStop) '
              '|> filter(fn: (r) => r._measurement == "aim_bench_row" and r._field == "rowJson") '
              '|> last() |> keep(columns: ["_time", "_value", "scenario"])')
+    history_flux = ('from(bucket: "aim") |> range(start: -30d) '
+                    '|> filter(fn: (r) => r._measurement == "aim_scenario" '
+                    '  and (r._field == "score" or r._field == "accuracy") '
+                    '  and r.list == "viscose-s2-easier") '
+                    '|> keep(columns: ["_time", "_value", "scenario", "_field"]) '
+                    '|> group(columns: ["scenario", "_field"]) '
+                    '|> sort(columns: ["_time"]')
     panels = [
         stat_panel(600, "当前清单档位", meta("lowestSubIdx"),
                    "4 大类 14 子类中最低的那一档（拿 rank 的卡口）",
@@ -286,10 +294,6 @@ def build_b():
                    unit="percent", x=18, y=0),
         html_panel(604, "档位分布", meta("total") + "\n", "每个档位上有多少场景（按场景当前档位统计）",
                    B_DIST_HTML, B_DIST_CSS, B_DIST_JS, y=5, h=9, flux_rows=rowsq),
-        html_panel(610, "场景达标线总表（9 档格子填色）", rowsq,
-                   "照搬 evxl charts 页：官方 4 大类 / 14 子类分组，每行 9 档达标线；"
-                   "已达档=绿格、下一档=蓝格、未达=灰格；进度条=当前分÷下一档线",
-                   B_TABLE_HTML, B_TABLE_CSS, B_TABLE_JS, y=14, h=46),
     ]
     dash = {
         "uid": "viscose-s2-easier", "title": "练枪训练 · Viscose S2 Easier",
@@ -355,78 +359,83 @@ D_PROG_CSS = """
 D_PROG_JS = r"""
 (function () {
   var frames = (htmlGraphics.data && htmlGraphics.data.series) || [];
-  // frames[0]=A(day_json) [1]=B(count) [2]=C(reflection) [3]=D(today_score) [4]=E(nextline)
+  // 不依赖固定索引：refId B 用 group(scenario) 会返回多个 series，导致索引偏移
+  // 通过 field 特征区分：A=字符串JSON / B=数值+labels.scenario(无_field,name=_value) / C=字符串+独立scenario field / D=数值+labels._field / E=数值+name=nextLine
 
-  // ---- 1. 从 A 提取清单行 ----
+  // ---- 1. 提取清单行（refId A：字符串字段，JSON.parse 成功且含 scenario）----
   var targets = [];
-  if (frames[0]) {
-    (frames[0].fields || []).forEach(function (f) {
-      if (f.type === 'string' || f.name === 'Value' || f.name === '_value' || f.name === 'rowJson') {
-        (f.values || []).forEach(function (v) {
-          if (typeof v !== 'string') return;
-          try { var o = JSON.parse(v); if (o && o.scenario) targets.push(o); } catch (e) {}
-        });
-      }
-    });
-  }
-
-  // ---- 2. 从 B 提取当日轮数 ----
-  var counts = {};
-  if (frames[1]) {
-    (frames[1].fields || []).forEach(function (f) {
-      if (f.type === 'number' && f.labels && f.labels.scenario) {
-        var vals = f.values || [];
-        if (vals.length) counts[f.labels.scenario] = vals[vals.length - 1];
-      }
-    });
-  }
-
-  // ---- 3. 从 C 提取感悟（最近7天）----
-  var reflections = {};
-  if (frames[2]) {
-    var tf = null, vf = null, sf = null;
-    (frames[2].fields || []).forEach(function (f) {
-      if (f.type === 'time') tf = f;
-      else if (f.name === '_value' || f.name === 'Value') vf = f;
-      else if (f.name === 'scenario') sf = f;
-    });
-    if (tf && vf && sf) {
-      tf.values.forEach(function (t, i) {
-        var scn = sf.values[i], note = vf.values[i];
-        if (!scn || note == null) return;
-        var d = new Date(t);
-        var ds = d.getFullYear() + '-' + String(d.getMonth() + 1).padStart(2, '0') + '-' + String(d.getDate()).padStart(2, '0');
-        if (!reflections[scn]) reflections[scn] = [];
-        reflections[scn].push({ date: ds, note: String(note) });
+  frames.forEach(function (fr) {
+    (fr.fields || []).forEach(function (f) {
+      if (f.type !== 'string' && f.name !== 'Value' && f.name !== '_value' && f.name !== 'rowJson') return;
+      (f.values || []).forEach(function (v) {
+        if (typeof v !== 'string') return;
+        try { var o = JSON.parse(v); if (o && o.scenario && o.order != null) targets.push(o); } catch (e) {}
       });
-    }
-  }
+    });
+  });
+
+  // ---- 2. 提取当日轮数（refId B：数值+labels.scenario，无 labels._field，name=_value）----
+  var counts = {};
+  frames.forEach(function (fr) {
+    (fr.fields || []).forEach(function (f) {
+      if (f.type !== 'number' || !f.labels || !f.labels.scenario) return;
+      if (f.labels._field) return;  // 排除 refId D（有 _field 标签）
+      if (f.name === 'nextLine') return;  // 排除 refId E（rename 后）
+      var vals = f.values || [];
+      if (vals.length) counts[f.labels.scenario] = vals[vals.length - 1];
+    });
+  });
+
+  // ---- 3. 提取感悟（refId C：frame 有 _time + _value(string) + labels.scenario）----
+  var reflections = {};
+  frames.forEach(function (fr) {
+    var tf = null, vf = null;
+    (fr.fields || []).forEach(function (f) {
+      if (f.type === 'time') tf = f;
+      else if ((f.name === '_value' || f.name === 'Value' || f.name === 'note') && f.type === 'string') vf = f;
+    });
+    if (!tf || !vf) return;
+    var scn = vf.labels && vf.labels.scenario;
+    if (!scn) return; // scenario 在 label 里
+    tf.values.forEach(function (t, i) {
+      var note = vf.values[i];
+      if (note == null) return;
+      // 排除清单行 JSON（refId A）
+      if (typeof note === 'string' && note.charAt(0) === '{') return;
+      var d = new Date(t);
+      var ds = d.getFullYear() + '-' + String(d.getMonth() + 1).padStart(2, '0') + '-' + String(d.getDate()).padStart(2, '0');
+      if (!reflections[scn]) reflections[scn] = [];
+      reflections[scn].push({ date: ds, note: String(note) });
+    });
+  });
   Object.values(reflections).forEach(function (a) { a.sort(function (x, y) { return y.date.localeCompare(x.date); }); });
 
-  // ---- 4. 从 D 提取当天成绩（score/accuracy max）----
+  // ---- 4. 提取当天成绩（refId D：数值 field name=score/accuracy + labels.scenario）----
   var todayScore = {};
-  if (frames[3]) {
-    (frames[3].fields || []).forEach(function (f) {
+  frames.forEach(function (fr) {
+    (fr.fields || []).forEach(function (f) {
       if (f.type !== 'number' || !f.labels || !f.labels.scenario) return;
-      var fld = f.labels._field || f.name;
+      var fld = f.name; // _field 的值在 f.name 里
+      if (fld !== 'score' && fld !== 'accuracy') return;
       var vals = f.values || [];
       if (!vals.length) return;
       if (!todayScore[f.labels.scenario]) todayScore[f.labels.scenario] = {};
       todayScore[f.labels.scenario][fld] = vals[vals.length - 1];
     });
-  }
+  });
 
-  // ---- 5. 从 E 提取 nextLine ----
+  // ---- 5. 提取 nextLine（refId E：数值 field name=nextLine）----
   var nextLines = {};
-  if (frames[4]) {
-    (frames[4].fields || []).forEach(function (f) {
-      if (f.type !== 'number' || !f.labels || !f.labels.scenario) return;
+  frames.forEach(function (fr) {
+    (fr.fields || []).forEach(function (f) {
+      if (f.type !== 'number' || f.name !== 'nextLine') return;
+      var scn = f.labels && f.labels.scenario;
+      if (!scn) return;
       var vals = f.values || [];
       if (!vals.length) return;
-      nextLines[f.labels.scenario] = vals[vals.length - 1];
+      nextLines[scn] = vals[vals.length - 1];
     });
-  }
-
+  });
   // ---- 6. 渲染表格 ----
   targets.sort(function (a, b) { return a.order - b.order; });
   var h = '<table><thead><tr><th style="width:32px">#</th><th>场景</th><th style="width:58px">角色</th>' +
@@ -684,7 +693,7 @@ D_SCENE_JS = r"""
 
 
 # 目标对比总表（单面板：每行一个场景，避免插件不支持重复的问题）
-D_CMP_HTML = '<div id="cmp2"></div>'
+D_CMP_HTML = '<div id="cmp2"></div><div id="cmpOverlay" class="cmp-overlay" onclick="if(event.target===this)cmpClose()"><div class="cmp-modal"><div class="cmp-title"><span id="cmpTitle"></span><span class="cmp-close" onclick="cmpClose()">×</span></div><div id="cmpBody"></div></div></div>'
 D_CMP_CSS = """
 #cmp2 { font-family: -apple-system, "Segoe UI", "Microsoft YaHei", sans-serif; font-size: 12px; }
 #cmp2 table { width:100%; border-collapse:collapse; }
@@ -698,30 +707,201 @@ D_CMP_CSS = """
 #cmp2 .bar i.bad { background:#E24B4A; }
 #cmp2 .rk { font-size:11px; color:#8b919c; margin-bottom:6px; }
 #cmp2 .pill { display:inline-block; font-size:10.5px; padding:1px 6px; border-radius:5px; background:rgba(140,140,140,0.22); color:#c7cbd1; }
+#cmp2 td.sc .scn-click { color:#5794f2; cursor:pointer; }
+#cmp2 td.sc .scn-click:hover { text-decoration:underline; }
+/* Modal */
+.cmp-overlay { display:none; position:fixed; top:0; left:0; width:100%; height:100%; background:rgba(0,0,0,.6); z-index:999; justify-content:center; align-items:center; }
+.cmp-overlay.show { display:flex; }
+.cmp-modal { background:#1f2124; border:1px solid #333; border-radius:8px; width:520px; max-width:95vw; max-height:90vh; overflow-y:auto; padding:20px; }
+.cmp-title { font-size:14px; font-weight:600; color:#fff; margin-bottom:14px; display:flex; justify-content:space-between; align-items:center; }
+.cmp-close { cursor:pointer; color:#98989d; font-size:18px; }
+.cmp-close:hover { color:#fff; }
+.cmp-table { width:100%; border-collapse:collapse; margin-bottom:14px; font-size:12px; }
+.cmp-table th, .cmp-table td { padding:7px 8px; text-align:center; }
+.cmp-table th { background:#2a2c30; color:#b8b9bb; font-weight:600; }
+.cmp-table td:first-child { text-align:left; color:#98989d; }
+.up { color:#7fd47f; font-weight:600; }
+.down { color:#e06c6c; font-weight:600; }
+.flat { color:#98989d; }
+.tier-up { background:#1f4e1f; color:#7fd47f; padding:2px 6px; border-radius:3px; font-size:11px; }
+.trend-title { font-size:11px; color:#98989d; margin-bottom:6px; }
+.trend-wrap { background:#161719; border-radius:4px; padding:8px; margin-bottom:14px; }
+.trend-legend { font-size:10px; color:#666; margin-top:4px; text-align:center; }
+.tier-info { font-size:11px; color:#98989d; line-height:1.8; }
+.tier-info b { color:#d8d9da; }
 """
 D_CMP_JS = r"""
 (function () {
   var items = [], bench = {};
+  var hist = {}; // hist[scenario] = { score: [{t,v}], acc: [{t,v}] }
+
+  // ---- 解析数据 ----
   ((htmlGraphics.data && htmlGraphics.data.series) || []).forEach(function (fr) {
     (fr.fields || []).forEach(function (f) {
-      if (f.type !== 'string' && f.name !== 'Value' && f.name !== '_value' && f.name !== 'rowJson') return;
-      (f.values || []).forEach(function (v) {
-        if (typeof v !== 'string') return;
-        var o = null;
-        try { o = JSON.parse(v); } catch (e) { return; }
-        if (!o || !o.scenario) return;
-        if (o.role) items.push(o); else bench[o.scenario] = o;
-      });
+      // 字符串 JSON（refId A：清单 + bench）
+      if (f.type === 'string' || f.name === 'Value' || f.name === '_value' || f.name === 'rowJson') {
+        (f.values || []).forEach(function (v) {
+          if (typeof v !== 'string') return;
+          var o = null;
+          try { o = JSON.parse(v); } catch (e) { return; }
+          if (!o || !o.scenario) return;
+          if (o.role) items.push(o); else bench[o.scenario] = o;
+        });
+        return;
+      }
+      // 数值历史（refId C：score/accuracy 时间序列）
+      if (f.type !== 'number') return;
+      if (!f.labels || !f.labels.scenario) return;
+      var scn = f.labels.scenario;
+      var field = f.name; // _field 的值在 f.name 里（score/accuracy）
+      if (field !== 'score' && field !== 'accuracy') return;
+      if (!hist[scn]) hist[scn] = { score: [], accuracy: [] };
+      var tfs = null;
+      (fr.fields || []).forEach(function (tf) { if (tf.type === 'time') tfs = tf; });
+      if (!tfs) return;
+      f.values.forEach(function (v, i) { hist[scn][field].push({ t: tfs.values[i], v: v }); });
     });
   });
+
+  // 排序
   items.sort(function (a, b) { return a.order - b.order; });
+  Object.keys(hist).forEach(function (s) {
+    hist[s].score.sort(function (a, b) { return a.t - b.t; });
+    hist[s].accuracy.sort(function (a, b) { return a.t - b.t; });
+  });
+
+  // ---- 每日平均分聚合 ----
+  function dailyAvg(records) {
+    if (!records || !records.length) return [];
+    var byDate = {};
+    records.forEach(function (r) {
+      var d = new Date(r.t);
+      var key = (d.getMonth() + 1) + '/' + d.getDate();
+      if (!byDate[key]) byDate[key] = { sum: 0, count: 0 };
+      byDate[key].sum += r.v;
+      byDate[key].count++;
+    });
+    return Object.keys(byDate).sort(function (a, b) {
+      var pa = a.split('/'), pb = b.split('/');
+      return (parseInt(pa[0]) * 100 + parseInt(pa[1])) - (parseInt(pb[0]) * 100 + parseInt(pb[1]));
+    }).map(function (k) {
+      return { date: k, avg: Math.round(byDate[k].sum / byDate[k].count * 10) / 10, rounds: byDate[k].count };
+    });
+  }
+
+  function num(v) {
+    if (v === null || v === undefined) return '—';
+    var n = Math.round(v * 100) / 100;
+    return n.toLocaleString('en-US');
+  }
+
+  // ---- SVG 折线 ----
+  function drawTrend(daily, nextLine) {
+    if (daily.length < 2) return '';
+    var w = 440, h = 100, padL = 45, padR = 15, padT = 16, padB = 26;
+    var vals = daily.map(function (p) { return p.avg; });
+    var min = Math.min.apply(null, vals), max = Math.max.apply(null, vals);
+    var range = max - min || 1;
+    var cw = w - padL - padR, ch = h - padT - padB;
+    var stepX = cw / (daily.length - 1);
+    var pts = daily.map(function (p, i) {
+      return { x: padL + i * stepX, y: padT + ch - ((p.avg - min) / range) * ch, data: p };
+    });
+    var s = '<div class="trend-title">每日平均分趋势</div><div class="trend-wrap"><svg width="' + w + '" height="' + h + '">';
+    for (var ly = 0; ly <= 2; ly++) {
+      var yy = padT + ch * ly / 2;
+      var val = max - range * ly / 2;
+      s += '<line x1="' + padL + '" y1="' + yy + '" x2="' + (w - padR) + '" y2="' + yy + '" stroke="#2a2c30" stroke-width="1"/>';
+      s += '<text x="' + (padL - 5) + '" y="' + (yy + 3) + '" fill="#666" font-size="9" text-anchor="end">' + num(val) + '</text>';
+    }
+    if (nextLine && nextLine > min && nextLine < max) {
+      var nlY = padT + ch - ((nextLine - min) / range) * ch;
+      s += '<line x1="' + padL + '" y1="' + nlY + '" x2="' + (w - padR) + '" y2="' + nlY + '" stroke="#7fd47f" stroke-width="1" stroke-dasharray="4,3"/>';
+      s += '<text x="' + (w - padR + 3) + '" y="' + (nlY + 3) + '" fill="#7fd47f" font-size="9">目标</text>';
+    }
+    var pp = pts.map(function (p) { return p.x + ',' + p.y; });
+    s += '<polygon points="' + padL + ',' + (padT + ch) + ' ' + pp.join(' ') + ' ' + (padL + (pts.length - 1) * stepX) + ',' + (padT + ch) + '" fill="rgba(87,148,242,.12)"/>';
+    s += '<polyline points="' + pp.join(' ') + '" fill="none" stroke="#5794f2" stroke-width="2"/>';
+    pts.forEach(function (p, i) {
+      var isLast = (i === pts.length - 1);
+      s += '<circle cx="' + p.x + '" cy="' + p.y + '" r="' + (isLast ? 4 : 3) + '" fill="' + (isLast ? '#7fd47f' : '#5794f2') + '"/>';
+      s += '<text x="' + p.x + '" y="' + (p.y - 7) + '" fill="#d8d9da" font-size="10" text-anchor="middle" font-weight="600">' + num(p.data.avg) + '</text>';
+      s += '<text x="' + p.x + '" y="' + (h - 6) + '" fill="#98989d" font-size="9" text-anchor="middle">' + p.data.date + '</text>';
+    });
+    s += '</svg><div class="trend-legend">● 绿点=最新 ｜ 虚线=下一档线</div></div>';
+    return s;
+  }
+
+  // ---- 弹窗 ----
+  function cmpOpen(scn) {
+    var b = bench[scn] || {};
+    var hh = hist[scn];
+    var titleEl = htmlGraphics.htmlNode.getElementById('cmpTitle');
+    var bodyEl = htmlGraphics.htmlNode.getElementById('cmpBody');
+    var overlay = htmlGraphics.htmlNode.getElementById('cmpOverlay');
+    if (!titleEl || !bodyEl || !overlay) return;
+
+    titleEl.textContent = scn;
+    var html = '';
+
+    if (!hh || !hh.score.length) {
+      html = '<div style="color:#98989d;padding:8px">暂无历史数据</div>';
+    } else {
+      var da = dailyAvg(hh.score);
+      var daAcc = dailyAvg(hh.accuracy);
+      var prevS = da[0].avg, curS = da[da.length - 1].avg;
+      var prevA = daAcc.length ? daAcc[0].avg : null;
+      var curA = daAcc.length ? daAcc[daAcc.length - 1].avg : null;
+      var sDiff = curS - prevS;
+      var sPct = prevS ? (sDiff / prevS * 100).toFixed(1) : '0';
+      var aDiff = (prevA !== null && curA !== null) ? (curA - prevA).toFixed(1) : null;
+      var sCls = sDiff > 0 ? 'up' : (sDiff < 0 ? 'down' : 'flat');
+      var aCls = aDiff !== null && parseFloat(aDiff) > 0 ? 'up' : (aDiff !== null && parseFloat(aDiff) < 0 ? 'down' : 'flat');
+
+      html += '<table class="cmp-table">';
+      html += '<tr><th></th><th>' + da[0].date + ' 首测</th><th>' + da[da.length - 1].date + ' 最新</th><th>变化</th></tr>';
+      html += '<tr><td>平均分</td><td>' + num(prevS) + '</td><td>' + num(curS) + '</td>';
+      html += '<td class="' + sCls + '">' + (sDiff >= 0 ? '↑' : '↓') + ' ' + Math.abs(sPct) + '%</td></tr>';
+      if (aDiff !== null) {
+        html += '<tr><td>命中率</td><td>' + prevA + '%</td><td>' + curA + '%</td>';
+        html += '<td class="' + aCls + '">' + (parseFloat(aDiff) >= 0 ? '↑' : '↓') + ' ' + Math.abs(aDiff) + 'pp</td></tr>';
+      }
+      if (b.rank) {
+        html += '<tr><td>档位</td><td>' + (b.prevRank || '—') + '</td><td>' + b.rank + '</td>';
+        html += '<td>' + (b.prevRank && b.prevRank !== b.rank ? '<span class="tier-up">↑ 升档</span>' : '<span class="flat">—</span>') + '</td></tr>';
+      }
+      html += '</table>';
+
+      var nextLine = (b.targets && b.targets.length) ? (b.full ? b.targets[b.targets.length - 1] : b.targets[b.achIdx]) : null;
+      html += drawTrend(da, nextLine);
+
+      if (nextLine && curS) {
+        var gap = ((nextLine - curS) / curS * 100).toFixed(1);
+        var prevGap = ((nextLine - prevS) / prevS * 100).toFixed(1);
+        var narrowed = (prevGap - gap).toFixed(1);
+        html += '<div class="tier-info">下一档线：<b>' + num(nextLine) + '</b> ｜ 还差：<b>' + gap + '%</b>';
+        if (parseFloat(narrowed) > 0) html += ' ｜ 收窄 <b style="color:#7fd47f">' + narrowed + 'pp</b>';
+        html += '</div>';
+      }
+    }
+    bodyEl.innerHTML = html;
+    overlay.classList.add('show');
+  }
+
+  function cmpClose() {
+    var overlay = htmlGraphics.htmlNode.getElementById('cmpOverlay');
+    if (overlay) overlay.classList.remove('show');
+  }
+
+  // ---- 渲染表格 ----
   function bar(ratio) {
     if (ratio == null) return '';
     var cls = ratio >= 1 ? 'done' : (ratio > 0.9 ? 'warn' : 'bad');
     return '<div class="bar"><i class="' + cls + '" style="width:' + (Math.min(1.05, ratio) * 100).toFixed(1) + '%"></i></div>';
   }
+
   var h = '<div class="rk">清单日 ' + (items[0] ? items[0].run_date : '') + ' · ' +
-          (items[0] ? items[0].daylist + ' ' + items[0].label : '') + ' · 共 ' + items.length + ' 条</div>';
+          (items[0] ? items[0].daylist + ' ' + items[0].label : '') + ' · 共 ' + items.length + ' 条 · 点击场景名看进步趋势</div>';
   h += '<table><thead><tr><th style="width:26px">#</th><th>场景</th><th style="width:52px">角色</th>' +
        '<th style="width:66px">目标分</th><th style="width:66px">现状</th><th style="width:110px">达成度</th>' +
        '<th style="width:72px">下一档线</th><th style="width:60px">门槛</th><th style="width:62px">命中率</th>' +
@@ -731,7 +911,7 @@ D_CMP_JS = r"""
     var nextLine = (b.targets && b.targets.length) ? (b.full ? b.targets[b.targets.length - 1] : b.targets[b.achIdx]) : null;
     var rScore = (t.target_score && b.score != null) ? b.score / t.target_score : null;
     var rAcc = (t.target_acc && b.acc != null) ? b.acc / t.target_acc : null;
-    h += '<tr><td>' + t.order + '</td><td>' + t.scenario + '</td><td>' + t.role + '</td>' +
+    h += '<tr><td>' + t.order + '</td><td class="sc"><span class="scn-click" onclick="cmpOpen(\'' + t.scenario.replace(/'/g, "\\'") + '\')">' + t.scenario + '</span></td><td>' + t.role + '</td>' +
          '<td class="num">' + (t.target_score == null ? '—' : t.target_score) + '</td>' +
          '<td class="num">' + (b.score == null ? '—' : b.score) + '</td><td>' + bar(rScore) + '</td>' +
          '<td class="num">' + (nextLine == null ? '—' : nextLine) + '</td>' +
@@ -740,10 +920,13 @@ D_CMP_JS = r"""
          '<td><span class="pill">' + (b.rank || '—') + '</span></td></tr>';
   });
   h += '</tbody></table>';
-  h += '<div class="rk" style="margin-top:6px">达成度：蓝条 = 现状 ÷ 目标；绿=达标、橙=≥90%、红=差距大。' +
-       '下一档线来自榜单（evxl 档位阈值）</div>';
+  h += '<div class="rk" style="margin-top:6px">达成度：蓝条 = 现状 ÷ 目标；绿=达标、橙=≥90%、红=差距大。下一档线来自榜单（evxl 档位阈值）</div>';
   var host = htmlGraphics.htmlNode.getElementById('cmp2') || htmlGraphics.htmlNode;
   host.innerHTML = items.length ? h : '<div style="color:#9aa0a6;padding:8px">该清单暂无数据</div>';
+
+  // 全局暴露
+  window.cmpOpen = cmpOpen;
+  window.cmpClose = cmpClose;
 })();
 """
 
@@ -841,10 +1024,11 @@ def build_d():
                         '  |> filter(fn: (r) => r._measurement == "aim_scenario" and (r._field == "score" or r._field == "accuracy") and r.list == "viscose-s2-easier")\n'
                         '  |> group(columns: ["scenario", "_field"]) |> max()')
 
-    # 下一档线（refId E）：aim_bench_row nextLine
+    # 下一档线（refId E）：aim_bench_row nextLine（rename 为 nextLine 以区分于 count 的 _value）
     nextline_flux = ('from(bucket: "aim") |> range(start: -1d, stop: 2d)\n'
                      '  |> filter(fn: (r) => r._measurement == "aim_bench_row" and r._field == "nextLine")\n'
-                     '  |> keep(columns: ["_time", "_value", "scenario"]) |> last()')
+                     '  |> keep(columns: ["_time", "_value", "scenario"]) |> last()\n'
+                     '  |> rename(columns: {_value: "nextLine"})')
 
     prog = html_panel(800, "今日清单 · 完成度（要求轮数 vs 已打）", day_json_flux,
                       "数据源：aim_daylist（清单要求）+ aim_scenario（清单日当天实际次数）",
@@ -856,12 +1040,20 @@ def build_d():
 
     # ① 目标对比总表（单面板，插件不支持重复，所以做成"每行一个场景"的总表）
     all_day_flux = day_json_flux
+    cmp_history_flux = ('from(bucket: "aim") |> range(start: -30d) '
+                        '|> filter(fn: (r) => r._measurement == "aim_scenario" '
+                        '  and (r._field == "score" or r._field == "accuracy") '
+                        '  and r.list == "viscose-s2-easier") '
+                        '|> keep(columns: ["_time", "_value", "scenario", "_field"]) '
+                        '|> group(columns: ["scenario", "_field"]) '
+                        '|> sort(columns: ["_time"])')
     all_bench_flux = ('from(bucket: "aim") |> range(start: v.timeRangeStart, stop: v.timeRangeStop)\n'
                       '  |> filter(fn: (r) => r._measurement == "aim_bench_row" and r._field == "rowJson")\n'
                       '  |> last() |> keep(columns: ["_time", "_value", "scenario"])')
     cmp_panel = html_panel(810, "今日清单 · 目标对比（清单目标 vs 现状）", all_day_flux,
-                           "每行一个场景：清单目标分 / 下一档线 / 命中率门槛 vs 现状（蓝条=现状÷目标）",
+                           "每行一个场景：清单目标分 / 下一档线 / 命中率门槛 vs 现状（蓝条=现状÷目标）；点击场景名看进步趋势",
                            D_CMP_HTML, D_CMP_CSS, D_CMP_JS, y=12, h=15)
+    cmp_panel["targets"].append(target("C", cmp_history_flux))
     cmp_panel["targets"].append(target("B", all_bench_flux))
 
     # ② 每场景历史曲线（原生 timeseries + 面板重复；插件面板不支持 repeat）
