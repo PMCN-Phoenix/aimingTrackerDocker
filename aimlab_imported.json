@@ -1,0 +1,269 @@
+{
+  "files": {
+    "030d9da1-fc7e-491a-9d9f-22670c9819ad.json": {
+      "task": "Strafetrack",
+      "score": 65979.0,
+      "time_ms": 1785773961654
+    },
+    "0c4e6a44-8e7f-46e4-b765-125490977e57.json": {
+      "task": "Multilinetrace",
+      "score": 6427.0,
+      "time_ms": 1785774239331
+    },
+    "0ecdb2c7-993a-4322-bfdd-5877dcb26a8f.json": {
+      "task": "Sixshot",
+      "score": 72859.0,
+      "time_ms": 1785772850386
+    },
+    "12e1d5dc-e6cb-42ec-bd81-777573a3158b.json": {
+      "task": "Sixshot",
+      "score": 61653.0,
+      "time_ms": 1788853345702
+    },
+    "12fe28d6-09f2-4edf-bdf7-a7d6410c1fbc.json": {
+      "task": "Sixshot",
+      "score": 70880.0,
+      "time_ms": 1786889584244
+    },
+    "1fcccf9f-f7e0-4f8b-a6af-fdcdf010e02a.json": {
+      "task": "Sixshot",
+      "score": 75037.0,
+      "time_ms": 1785773402403
+    },
+    "231c7934-9961-4fdc-ba84-fdc830b690ca.json": {
+      "task": "Sixshot",
+      "score": 69892.0,
+      "time_ms": 1785773682423
+    },
+    "233a814c-44cb-464e-9fe6-6f12d01144c9.json": {
+      "task": "Sixshot",
+      "score": 70144.0,
+      "time_ms": 1788969576485
+    },
+    "26572217-98ab-465f-9cea-ae2667af1fbd.json": {
+      "task": "Sixshot",
+      "score": 69157.0,
+      "time_ms": 1788890141573
+    },
+    "27a2cf54-60fd-458c-87f0-bb9ff3315f65.json": {
+      "task": "Sixshot",
+      "score": 62217.0,
+      "time_ms": 1785950319066
+    },
+    "301d5ae7-a1d7-4431-99f8-162d2fd10dcf.json": {
+      "task": "Sixshot",
+      "score": 75851.0,
+      "time_ms": 1785772784508
+    },
+    "3a39ec7e-aa7c-42f2-8d59-f73a74fefc0b.json": {
+      "task": "Sixshot",
+      "score": 76640.0,
+      "time_ms": 1785773252651
+    },
+    "3d8b8ecd-a21a-495d-b2a3-27b429f5b494.json": {
+      "task": "Strafetrack",
+      "score": 65290.0,
+      "time_ms": 1785950395223
+    },
+    "3e7b5bf5-d53e-4297-bee7-39a26125206f.json": {
+      "task": "Sixshot",
+      "score": 70636.0,
+      "time_ms": 1786800184701
+    },
+    "3faad97a-344a-448b-a2e8-cab4f3bf3ff5.json": {
+      "task": "Multilinetrace",
+      "score": 6344.0,
+      "time_ms": 1785774173601
+    },
+    "4515975d-1558-485e-a6b8-f6f80d0f54b0.json": {
+      "task": "Sixshot",
+      "score": 74461.0,
+      "time_ms": 1785773047653
+    },
+    "49e8eb27-1a50-4d54-8622-911fe6941f2d.json": {
+      "task": "Sixshot",
+      "score": 67504.0,
+      "time_ms": 1786889717418
+    },
+    "4b2b28ee-04ee-4ca8-aa31-5b2dbbcbb3bb.json": {
+      "task": "Sixshot",
+      "score": 72966.0,
+      "time_ms": 1786889650508
+    },
+    "508b51bc-f99e-4a79-890b-4b8227121556.json": {
+      "task": "Sixshot",
+      "score": 56673.0,
+      "time_ms": 1786889450093
+    },
+    "552f213c-3755-40e0-8d34-a02ba9dfc9a5.json": {
+      "task": "Sixshot",
+      "score": 62629.0,
+      "time_ms": 1788889484525
+    },
+    "59e29d7a-466f-4842-b9bb-4ecf782c8fa4.json": {
+      "task": "Sixshot",
+      "score": 76561.0,
+      "time_ms": 1785773187738
+    },
+    "5e1a4cae-f6c8-4a80-96ee-6578d5ab83d1.json": {
+      "task": "Sixshot",
+      "score": 68825.0,
+      "time_ms": 1785772982280
+    },
+    "60f9fedd-639f-4da0-b561-70da18d569f9.json": {
+      "task": "Sixshot",
+      "score": 73308.0,
+      "time_ms": 1788969715272
+    },
+    "68108360-07b8-44ca-9258-7f2ae0658dce.json": {
+      "task": "Sixshot",
+      "score": 74660.0,
+      "time_ms": 1785773551184
+    },
+    "69ec8778-2508-4c1c-8211-d97534ed55dd.json": {
+      "task": "Sixshot",
+      "score": 69920.0,
+      "time_ms": 1785773748986
+    },
+    "6ff3fb9a-4962-4eef-9038-76b8b6fc9d47.json": {
+      "task": "Strafetrack",
+      "score": 76097.0,
+      "time_ms": 1785773893732
+    },
+    "76670ad2-9e10-456c-aaee-64124b66a3ec.json": {
+      "task": "Sixshot",
+      "score": 75666.0,
+      "time_ms": 1788969788622
+    },
+    "7d5f72a8-33e4-44fa-b6c7-2c13141be0df.json": {
+      "task": "Sixshot",
+      "score": 63970.0,
+      "time_ms": 1788889664876
+    },
+    "80c691a9-4631-4654-a632-f558ad7a3b03.json": {
+      "task": "Multilinetrace",
+      "score": 6350.0,
+      "time_ms": 1785774039334
+    },
+    "819384a0-1baa-4dea-82d3-3bbb0c645d7a.json": {
+      "task": "Sixshot",
+      "score": 66701.0,
+      "time_ms": 1788890608736
+    },
+    "88ee0e8c-a322-4854-addf-719f540d9769.json": {
+      "task": "Sixshot",
+      "score": 73354.0,
+      "time_ms": 1788969646703
+    },
+    "97b1ce5c-5c36-40f8-99fc-5c084fd0db9e.json": {
+      "task": "Sixshot",
+      "score": 78652.0,
+      "time_ms": 1788969939793
+    },
+    "98afb9d8-9b13-4aa5-896a-f1e4107c5ca7.json": {
+      "task": "Sixshot",
+      "score": 70743.0,
+      "time_ms": 1785773814694
+    },
+    "a06b96c7-7c5c-43a7-a79f-fc98f8cf8ed1.json": {
+      "task": "Sixshot",
+      "score": 64650.0,
+      "time_ms": 1786889517937
+    },
+    "a7e45169-459b-46aa-8d5c-20daf2956f96.json": {
+      "task": "Sixshot",
+      "score": 73619.0,
+      "time_ms": 1788890534073
+    },
+    "b0bbfb83-9194-41e3-a297-de6a13b41914.json": {
+      "task": "Sixshot",
+      "score": 67972.0,
+      "time_ms": 1788969505331
+    },
+    "b3746b0b-53d1-43fc-a51a-f1c31a33322d.json": {
+      "task": "Multilinetrace",
+      "score": 5893.0,
+      "time_ms": 1785950467402
+    },
+    "b3bb2ae6-2b3a-4990-a502-d09cee4fb57a.json": {
+      "task": "Sixshot",
+      "score": 74657.0,
+      "time_ms": 1785772916165
+    },
+    "c05485ef-ce89-4cae-863f-edd2102df5f8.json": {
+      "task": "Sixshot",
+      "score": 72033.0,
+      "time_ms": 1785773616481
+    },
+    "e69b45d8-dd0e-458b-bf85-f841f457f7c8.json": {
+      "task": "Sixshot",
+      "score": 74853.0,
+      "time_ms": 1785773336989
+    },
+    "eb28ebe0-8ccf-445d-8758-a7af6cb51700.json": {
+      "task": "Multilinetrace",
+      "score": 6672.0,
+      "time_ms": 1785774105990
+    },
+    "edf12117-b3cb-4e9e-bd5b-28af05adf2c5.json": {
+      "task": "Sixshot",
+      "score": 73068.0,
+      "time_ms": 1788969871086
+    },
+    "eec7877f-ecdd-44fe-a4d9-50ff50dbe1ee.json": {
+      "task": "Sixshot",
+      "score": 71354.0,
+      "time_ms": 1786889788541
+    },
+    "f6105ed5-c275-4579-aa26-4bb50142eda1.json": {
+      "task": "Sixshot",
+      "score": 71262.0,
+      "time_ms": 1785773467969
+    },
+    "f786058c-29e3-445e-a4b4-659e7fe748b6.json": {
+      "task": "Sixshot",
+      "score": 60326.0,
+      "time_ms": 1788889349669
+    },
+    "fa4d3412-de9f-43c6-8e8b-36f1a8102706.json": {
+      "task": "Multilinetrace",
+      "score": 6629.0,
+      "time_ms": 1785774306080
+    },
+    "ff26b9ed-a1f9-4b8e-84e7-03840274cdb2.json": {
+      "task": "Sixshot",
+      "score": 69138.0,
+      "time_ms": 1788890342414
+    },
+    "14b2a5b2-2712-4c0a-8406-ccacc5eef009.json": {
+      "task": "Sixshot",
+      "score": 63643.0,
+      "time_ms": 1789056129327
+    },
+    "195e1285-edf8-4a69-a601-32c68a8729f8.json": {
+      "task": "Sixshot",
+      "score": 66470.0,
+      "time_ms": 1789055991632
+    },
+    "62195927-c70b-4165-b0e7-a36dd3ab936f.json": {
+      "task": "Sixshot",
+      "score": 63918.0,
+      "time_ms": 1789055912880
+    },
+    "c39f7e49-c37e-4718-9dc0-8dcaed789801.json": {
+      "task": "Sixshot",
+      "score": 65148.0,
+      "time_ms": 1789056060169
+    },
+    "e5c681e7-4ec9-40ff-96b0-13b8eb7862a9.json": {
+      "task": "Sixshot",
+      "score": 59126.0,
+      "time_ms": 1789055836262
+    },
+    "fe5f99d0-3c4d-4689-8ce9-3242b79c696f.json": {
+      "task": "Sixshot",
+      "score": 65169.0,
+      "time_ms": 1789056196972
+    }
+  }
+}

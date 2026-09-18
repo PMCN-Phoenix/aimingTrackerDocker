@@ -1,0 +1,568 @@
+[
+  {
+    "id": "aim-flow",
+    "type": "tab",
+    "label": "练枪 stats 导入",
+    "disabled": false,
+    "info": "练枪 V2：手动触发从游戏 FPSAimTrainer stats 文件夹导入 12 场景成绩（分数+准确率）到 InfluxDB，Grafana 看板展示"
+  },
+  {
+    "id": "aim-import-http",
+    "type": "http in",
+    "z": "aim-flow",
+    "name": "POST /import-aim",
+    "url": "/import-aim",
+    "method": "post",
+    "upload": false,
+    "swaggerDoc": "",
+    "x": 120,
+    "y": 120,
+    "wires": [
+      [
+        "aim-import-main"
+      ]
+    ]
+  },
+  {
+    "id": "aim-import-main",
+    "type": "function",
+    "z": "aim-flow",
+    "name": "解析 stats 并场次分组",
+    "func": "﻿const fs = global.get('fs');\nconst path = global.get('path');\n\nconst STATS_DIR = '/stats';\nconst STATE_FILE = '/data/imported_files.json';\nconst ALLOWED = [\"Centering 90 Easy+ No Strafes\",\"Air Voltaic Close Long Strafes Very Easy\",\"GP Far Long Strafes Easy\",\"GP Close Long Strafes Easy\",\"B90TI Iron\",\"Smoothbot Iron\",\"Pasu Voltaic Iron\",\"Tamspeed 2bp Iron\",\"Wide Wall 3 Targets TE\",\"1w2t TE Reload\",\"B90T Voltaic Easy Very Slow\",\"patTS Voltaic Iron\"];\nconst CLICK_SCENARIOS = [\"Pasu Voltaic Iron\",\"Tamspeed 2bp Iron\",\"Wide Wall 3 Targets TE\",\"1w2t TE Reload\",\"B90T Voltaic Easy Very Slow\",\"patTS Voltaic Iron\"];\nconst GAP_MS = 3 * 3600 * 1000;\nconst TZ_OFFSET_MS = 8 * 3600 * 1000;\nconst DAY_MS = 24 * 3600 * 1000;\n\nlet state = { files: {} };\ntry {\n    if (fs.existsSync(STATE_FILE)) {\n        state = JSON.parse(fs.readFileSync(STATE_FILE, 'utf8'));\n        if (!state.files) state.files = {};\n    }\n} catch (e) { state = { files: {} }; }\n\nlet files;\ntry {\n    files = fs.readdirSync(STATS_DIR).filter(function (f) { return f.toLowerCase().endsWith('.csv'); });\n} catch (e) {\n    throw new Error('无法访问 stats 目录: ' + e.message);\n}\n\nfunction parseKills(text, time_ms, end_wall_ms) {\n    var re = /^(\\d+),(\\d{2}):(\\d{2}):(\\d{2})\\.(\\d{3}),/gm;\n    var kills = [];\n    var m;\n    while ((m = re.exec(text)) !== null) {\n        var wall = ((+m[2] * 60 + +m[3]) * 60 + +m[4]) * 1000 + (+m[5]);\n        var diff = wall - end_wall_ms;\n        if (diff > 12 * 3600 * 1000) diff -= DAY_MS;\n        kills.push({ time_ms: time_ms + diff });\n    }\n    kills.sort(function (a, b) { return a.time_ms - b.time_ms; });\n    var first = kills.length ? kills[0].time_ms : time_ms;\n    var prev = null;\n    for (var i = 0; i < kills.length; i++) {\n        var interval = prev === null ? 0 : (kills[i].time_ms - prev) / 1000;\n        kills[i].interval = Number(interval.toFixed(3));\n        kills[i].offset = Number(((kills[i].time_ms - first) / 1000).toFixed(3));\n        prev = kills[i].time_ms;\n    }\n    return kills;\n}\n\nfunction parseFile(filename) {\n    var m = filename.match(/^(.*?) - Challenge - (\\d{4})\\.(\\d{2})\\.(\\d{2})-(\\d{2})\\.(\\d{2})\\.(\\d{2}) Stats\\.csv$/);\n    if (!m) { return null; }\n    var scenario = m[1].trim();\n    if (ALLOWED.indexOf(scenario) < 0) { return null; }\n    var time_ms = Date.UTC(+m[2], +m[3] - 1, +m[4], +m[5], +m[6], +m[7]) - TZ_OFFSET_MS;\n    var end_wall_ms = ((+m[5] * 60 + +m[6]) * 60 + +m[7]) * 1000;\n    var text;\n    try { text = fs.readFileSync(path.join(STATS_DIR, filename), 'utf8'); } catch (e) { return null; }\n    var sm = text.match(/^Score:,\\s*([\\d.]+)\\s*$/m);\n    if (!sm) { return null; }\n    var score = parseFloat(sm[1]);\n    var shots = 0, hits = 0, mm;\n    var wre = /^[^,\\r\\n]+,\\d+,\\d+,\\d+(?:\\.\\d+)?,\\d+(?:\\.\\d+)?,\\s*$/gm;\n    while ((mm = wre.exec(text)) !== null) {\n        var p = mm[0].split(',');\n        shots += parseInt(p[1], 10);\n        hits += parseInt(p[2], 10);\n    }\n    var accuracy = shots > 0 ? hits / shots * 100 : 0;\n    var kills = CLICK_SCENARIOS.indexOf(scenario) >= 0 ? parseKills(text, time_ms, end_wall_ms) : [];\n    return { filename: filename, scenario: scenario, time_ms: time_ms, score: score, accuracy: accuracy, kills: kills };\n}\n\nvar newRecs = [], skipped = [];\nfor (var i = 0; i < files.length; i++) {\n    var f = files[i];\n    if (state.files[f]) { skipped.push(f); continue; }\n    var rec = parseFile(f);\n    if (!rec) { continue; }\n    newRecs.push(rec);\n}\n\nvar byScenario = {};\nfor (var j = 0; j < newRecs.length; j++) {\n    var r = newRecs[j];\n    if (!byScenario[r.scenario]) byScenario[r.scenario] = [];\n    byScenario[r.scenario].push(r);\n}\n\nvar points = [], killPoints = [], toSave = {};\nObject.keys(byScenario).forEach(function (scenario) {\n    var recs = byScenario[scenario].slice().sort(function (a, b) { return a.time_ms - b.time_ms; });\n    var lastTime = null, lastSession = null, lastAttempt = 0;\n    var prev = [];\n    Object.keys(state.files).forEach(function (fn) {\n        var e = state.files[fn];\n        if (e.scenario === scenario) prev.push(e);\n    });\n    prev.sort(function (a, b) { return a.time_ms - b.time_ms; });\n    if (prev.length > 0) {\n        var last = prev[prev.length - 1];\n        lastTime = last.time_ms;\n        lastSession = last.session_id;\n        lastAttempt = parseInt(last.attempt_no, 10) || 0;\n    }\n    recs.forEach(function (rec) {\n        if (lastTime !== null && rec.time_ms - lastTime <= GAP_MS) {\n            rec.session_id = lastSession;\n            rec.attempt_no = String(lastAttempt + 1);\n        } else {\n            rec.session_id = 's' + rec.time_ms;\n            rec.attempt_no = '1';\n        }\n        lastTime = rec.time_ms;\n        lastSession = rec.session_id;\n        lastAttempt = parseInt(rec.attempt_no, 10);\n        points.push({\n            measurement: 'aim_scenario',\n            tags: { scenario: rec.scenario, session_id: rec.session_id, attempt_no: rec.attempt_no, source: 'stats' },\n            fields: { score: rec.score, accuracy: Number(rec.accuracy.toFixed(1)) },\n            timestamp: rec.time_ms\n        });\n        toSave[rec.filename] = { scenario: rec.scenario, time_ms: rec.time_ms, session_id: rec.session_id, attempt_no: rec.attempt_no };\n        if (rec.kills && rec.kills.length) {\n            for (var k = 0; k < rec.kills.length; k++) {\n                killPoints.push({\n                    measurement: 'aim_kill',\n                    tags: { scenario: rec.scenario, session_id: rec.session_id, attempt_no: rec.attempt_no, source: 'stats' },\n                    fields: { interval: rec.kills[k].interval, offset: rec.kills[k].offset },\n                    timestamp: rec.kills[k].time_ms\n                });\n            }\n        }\n    });\n});\n\nmsg.payload = points;\nmsg.killPoints = killPoints;\nmsg.importMeta = {\n    scanned: files.length,\n    skipped: skipped.length,\n    imported: points.length,\n    kills: killPoints.length,\n    toSave: toSave,\n    stateFile: STATE_FILE,\n    perScenario: Object.keys(byScenario).reduce(function (acc, k) { acc[k] = byScenario[k].length; return acc; }, {})\n};\nreturn msg;",
+    "outputs": 1,
+    "timeout": "",
+    "noerr": 0,
+    "initialize": "",
+    "finalize": "",
+    "libs": [],
+    "x": 340,
+    "y": 120,
+    "wires": [
+      [
+        "aim-influx-fn"
+      ]
+    ]
+  },
+  {
+    "id": "aim-influx-config",
+    "type": "influxdb",
+    "z": "aim-flow",
+    "name": "InfluxDB 2.x",
+    "influxdbVersion": "2.0",
+    "timeout": "10",
+    "url": "http://aim-influxdb:8086",
+    "rejectUnauthorized": false,
+    "x": 340,
+    "y": 300
+  },
+  {
+    "id": "aim-influx-fn",
+    "type": "function",
+    "z": "aim-flow",
+    "name": "写入 aim_scenario (直接写)",
+    "func": "﻿var influx = global.get('influxClient');\nvar Point = global.get('influxPoint');\nvar writeApi = influx.getWriteApi('aim-org', 'aim', 'ms');\nfunction writeOne(element) {\n    var p = new Point(element.measurement);\n    Object.keys(element.fields).forEach(function (k) {\n        var v = element.fields[k];\n        if (typeof v === 'string') { p.stringField(k, v); }\n        else { p.floatField(k, v); }\n    });\n    if (element.tags) {\n        Object.keys(element.tags).forEach(function (t) { p.tag(t, String(element.tags[t])); });\n    }\n    if (element.timestamp) { p.timestamp(element.timestamp); }\n    writeApi.writePoint(p);\n}\ntry {\n    var arr = (msg.payload || []).concat(msg.killPoints || []);\n    arr.forEach(writeOne);\n} catch (e) {\n    writeApi.dispose();\n    throw new Error('写入失败: ' + e.message);\n}\nreturn writeApi.flush(true).then(function () {\n    writeApi.dispose();\n    return msg;\n}).catch(function (e) {\n    writeApi.dispose();\n    throw new Error('InfluxDB 写入失败: ' + (e.message || e));\n});",
+    "outputs": 1,
+    "timeout": 0,
+    "noerr": 0,
+    "initialize": "",
+    "finalize": "",
+    "libs": [],
+    "x": 560,
+    "y": 120,
+    "wires": [
+      [
+        "aim-import-final"
+      ]
+    ]
+  },
+  {
+    "id": "aim-import-final",
+    "type": "function",
+    "z": "aim-flow",
+    "name": "保存导入记录并响应",
+    "func": "﻿const fs = global.get('fs');\n\nif (msg.influx_error) {\n    throw new Error('InfluxDB 写入失败: ' + (msg.influx_error.errorMessage || msg.influx_error.statusCode || JSON.stringify(msg.influx_error)));\n}\nvar meta = msg.importMeta;\ntry {\n    var state = { files: {} };\n    if (fs.existsSync(meta.stateFile)) {\n        state = JSON.parse(fs.readFileSync(meta.stateFile, 'utf8'));\n        if (!state.files) state.files = {};\n    }\n    Object.assign(state.files, meta.toSave);\n    fs.writeFileSync(meta.stateFile, JSON.stringify(state, null, 2));\n} catch (e) {\n    throw new Error('保存导入记录失败: ' + e.message);\n}\nmsg.payload = JSON.stringify({\n    ok: true,\n    message: '导入完成',\n    scanned: meta.scanned,\n    imported: meta.imported,\n    kills: meta.kills,\n    skipped: meta.skipped,\n    perScenario: meta.perScenario\n});\nmsg.statusCode = 200;\nreturn msg;",
+    "outputs": 1,
+    "timeout": "",
+    "noerr": 0,
+    "initialize": "",
+    "finalize": "",
+    "libs": [],
+    "x": 760,
+    "y": 120,
+    "wires": [
+      [
+        "aim-import-resp"
+      ]
+    ]
+  },
+  {
+    "id": "aim-import-resp",
+    "type": "http response",
+    "z": "aim-flow",
+    "name": "导入响应",
+    "statusCode": "200",
+    "headers": {
+      "content-type": "application/json"
+    },
+    "x": 960,
+    "y": 120,
+    "wires": []
+  },
+  {
+    "id": "aim-ui-http",
+    "type": "http in",
+    "z": "aim-flow",
+    "name": "GET /import-aim-ui",
+    "url": "/import-aim-ui",
+    "method": "get",
+    "upload": false,
+    "swaggerDoc": "",
+    "x": 120,
+    "y": 220,
+    "wires": [
+      [
+        "aim-ui-template"
+      ]
+    ]
+  },
+  {
+    "id": "aim-ui-template",
+    "type": "template",
+    "z": "aim-flow",
+    "name": "导入页面",
+    "field": "payload",
+    "template": "<!DOCTYPE html>\n<html lang=\"zh\">\n<head>\n<meta charset=\"utf-8\">\n<title>练枪数据导入</title>\n<style>\nbody { font-family: \"Microsoft YaHei\", sans-serif; background: #1b1f24; color: #e8eaed; display: flex; align-items: center; justify-content: center; min-height: 100vh; margin: 0; }\n.card { background: #262b33; border-radius: 12px; padding: 32px 40px; text-align: center; box-shadow: 0 8px 30px rgba(0,0,0,.4); max-width: 600px; }\nh1 { font-size: 22px; margin: 0 0 8px; }\np.desc { color: #9aa3af; font-size: 13px; margin: 0 0 24px; line-height: 1.7; }\nbutton { background: #2f81f7; border: none; color: #fff; font-size: 18px; padding: 12px 32px; border-radius: 8px; cursor: pointer; }\nbutton:hover { background: #1f6fd9; }\nbutton:disabled { background: #555; cursor: not-allowed; }\npre { text-align: left; background: #11151a; border-radius: 8px; padding: 12px; font-size: 12px; overflow: auto; margin-top: 16px; min-height: 40px; max-height: 320px; }\n</style>\n</head>\n<body>\n<div class=\"card\">\n  <h1>练枪数据导入</h1>\n  <p class=\"desc\">点击按钮，从游戏 stats 文件夹导入新记录（12 场景）<br>也可用命令行：curl -XPOST http://localhost:1881/import-aim</p>\n  <button id=\"btn\" onclick=\"run()\">导入新记录</button>\n  <pre id=\"out\">等待导入&#8230;</pre>\n</div>\n<script>\nfunction run() {\n  var btn = document.getElementById('btn');\n  var out = document.getElementById('out');\n  btn.disabled = true;\n  out.textContent = '正在导入…';\n  fetch('/import-aim', { method: 'POST' })\n    .then(function (r) { return r.json().then(function (d) { return { status: r.status, body: d }; }); })\n    .then(function (res) {\n      out.textContent = 'HTTP ' + res.status + '\\n' + JSON.stringify(res.body, null, 2);\n    })\n    .catch(function (e) { out.textContent = '请求失败: ' + e; })\n    .finally(function () { btn.disabled = false; });\n}\n</script>\n</body>\n</html>",
+    "format": "html",
+    "syntax": "mustache",
+    "output": "str",
+    "x": 340,
+    "y": 220,
+    "wires": [
+      [
+        "aim-ui-resp"
+      ]
+    ]
+  },
+  {
+    "id": "aim-ui-resp",
+    "type": "http response",
+    "z": "aim-flow",
+    "name": "页面响应",
+    "statusCode": "200",
+    "headers": {
+      "content-type": "text/html; charset=utf-8"
+    },
+    "x": 560,
+    "y": 220,
+    "wires": []
+  },
+  {
+    "id": "aim-import-catch",
+    "type": "catch",
+    "z": "aim-flow",
+    "name": "捕获导入错误",
+    "scope": [
+      "aim-import-main",
+      "aim-influx-fn",
+      "aim-import-final"
+    ],
+    "uncaught": false,
+    "x": 560,
+    "y": 360,
+    "wires": [
+      [
+        "aim-import-err"
+      ]
+    ]
+  },
+  {
+    "id": "aim-import-err",
+    "type": "function",
+    "z": "aim-flow",
+    "name": "错误响应",
+    "func": "\nvar detail = '';\nif (msg.error) {\n    detail = msg.error.message || String(msg.error);\n}\nmsg.payload = JSON.stringify({ ok: false, message: '导入失败', detail: detail });\nmsg.statusCode = 500;\nreturn msg;\n",
+    "outputs": 1,
+    "timeout": "",
+    "noerr": 0,
+    "initialize": "",
+    "finalize": "",
+    "libs": [],
+    "x": 760,
+    "y": 360,
+    "wires": [
+      [
+        "aim-import-resp"
+      ]
+    ]
+  },
+  {
+    "id": "aim-analyze-http",
+    "type": "http in",
+    "z": "aim-flow",
+    "name": "POST /analyze-aim",
+    "url": "/analyze-aim",
+    "method": "post",
+    "upload": false,
+    "swaggerDoc": "",
+    "x": 120,
+    "y": 460,
+    "wires": [
+      [
+        "aim-analyze-main"
+      ]
+    ]
+  },
+  {
+    "id": "aim-analyze-main",
+    "type": "function",
+    "z": "aim-flow",
+    "name": "生成训练分析并写 Markdown",
+    "func": "const fs = global.get('fs');\nconst influx = global.get('influxClient');\nconst Point = global.get('influxPoint');\nconst REPORTS_DIR = '/reports';\nconst BENCH_FILE = '/data/benchmarks.json';\nconst ALLOWED = [\"Centering 90 Easy+ No Strafes\",\"Air Voltaic Close Long Strafes Very Easy\",\"GP Far Long Strafes Easy\",\"GP Close Long Strafes Easy\",\"B90TI Iron\",\"Smoothbot Iron\",\"Pasu Voltaic Iron\",\"Tamspeed 2bp Iron\",\"Wide Wall 3 Targets TE\",\"1w2t TE Reload\",\"B90T Voltaic Easy Very Slow\",\"patTS Voltaic Iron\"];\nconst CLICK = [\"Pasu Voltaic Iron\",\"Tamspeed 2bp Iron\",\"Wide Wall 3 Targets TE\",\"1w2t TE Reload\",\"B90T Voltaic Easy Very Slow\",\"patTS Voltaic Iron\"];\nconst CATEGORY = {\n    \"Centering 90 Easy+ No Strafes\": \"tracking\",\n    \"Air Voltaic Close Long Strafes Very Easy\": \"tracking\",\n    \"GP Far Long Strafes Easy\": \"tracking\",\n    \"GP Close Long Strafes Easy\": \"tracking\",\n    \"B90TI Iron\": \"tracking\",\n    \"Smoothbot Iron\": \"tracking\",\n    \"Pasu Voltaic Iron\": \"clicking\",\n    \"Tamspeed 2bp Iron\": \"clicking\",\n    \"Wide Wall 3 Targets TE\": \"clicking\",\n    \"1w2t TE Reload\": \"clicking\",\n    \"B90T Voltaic Easy Very Slow\": \"switching\",\n    \"patTS Voltaic Iron\": \"switching\"\n};\n\nfunction pad(n) { return String(n).padStart(2, '0'); }\nfunction fmtDate(ms) { var d = new Date(ms); return d.getUTCFullYear() + '-' + pad(d.getUTCMonth() + 1) + '-' + pad(d.getUTCDate()); }\nfunction fmtDateTime(ms) { var d = new Date(ms); return fmtDate(ms) + ' ' + pad(d.getUTCHours()) + ':' + pad(d.getUTCMinutes()); }\nfunction toMs(t) { return t instanceof Date ? t.getTime() : new Date(t).getTime(); }\nfunction round(v, n) { var p = Math.pow(10, n || 1); return Math.round(v * p) / p; }\nfunction mean(arr) { if (!arr.length) return 0; var s = 0; for (var i = 0; i < arr.length; i++) s += arr[i]; return s / arr.length; }\nfunction median(arr) { if (!arr.length) return 0; var a = arr.slice().sort(function (x, y) { return x - y; }); var mid = Math.floor(a.length / 2); return a.length % 2 ? a[mid] : (a[mid - 1] + a[mid]) / 2; }\nfunction loadBench() { try { return JSON.parse(fs.readFileSync(BENCH_FILE, 'utf8')); } catch (e) { return { scenarios: {}, ranks: [] }; } }\n\nasync function collect(flux) { var qa = influx.getQueryApi('aim-org'); return await qa.collectRows(flux); }\n\nfunction dateBounds(dateStr) {\n    var start = Date.parse(dateStr + 'T00:00:00Z');\n    return { start: start, end: start + 86400000, valid: !isNaN(start) };\n}\n\nfunction sameDay(ms, bounds) { return ms >= bounds.start && ms < bounds.end; }\n\nfunction buildScenarioMap(rows) {\n    var map = {};\n    rows.forEach(function (r) {\n        var s = r.scenario, sid = r.session_id, att = r.attempt_no;\n        if (!map[s]) map[s] = { sessions: {} };\n        if (!map[s].sessions[sid]) map[s].sessions[sid] = { time: toMs(r._time), attempts: {} };\n        if (!map[s].sessions[sid].attempts[att]) map[s].sessions[sid].attempts[att] = { time: toMs(r._time) };\n        map[s].sessions[sid].attempts[att][r._field] = r._value;\n    });\n    return map;\n}\n\nfunction buildKillMap(rows) {\n    var map = {};\n    rows.forEach(function (r) {\n        var s = r.scenario, sid = r.session_id, att = r.attempt_no;\n        var t = toMs(r._time);\n        if (!map[s]) map[s] = { sessions: {} };\n        if (!map[s].sessions[sid]) map[s].sessions[sid] = { attempts: {} };\n        if (!map[s].sessions[sid].attempts[att]) map[s].sessions[sid].attempts[att] = [];\n        var arr = map[s].sessions[sid].attempts[att];\n        var found = null;\n        for (var i = 0; i < arr.length; i++) { if (arr[i].time === t) { found = arr[i]; break; } }\n        if (!found) { found = { time: t }; arr.push(found); }\n        found[r._field] = r._value;\n    });\n    return map;\n}\n\nfunction voltaicGrade(score, entry, ranks) {\n    if (!entry || !entry.thresholds) return null;\n    var th = entry.thresholds;\n    var idx = -1;\n    for (var i = 0; i < th.length; i++) { if (score >= th[i]) idx = i; }\n    if (idx < 0) return { rank: 'Below ' + ranks[0], idx: -1, benchmark: entry.benchmark };\n    var name = ranks[idx]; name = name.charAt(0).toUpperCase() + name.slice(1);\n    return { rank: name, idx: idx, benchmark: entry.benchmark };\n}\n\nfunction histGrade(score, histScores) {\n    if (!histScores.length) return { grade: '-', pct: 0 };\n    var below = 0;\n    histScores.forEach(function (x) { if (x <= score) below++; });\n    var pct = below / histScores.length * 100;\n    var grade = pct >= 90 ? 'S' : pct >= 75 ? 'A' : pct >= 50 ? 'B' : pct >= 25 ? 'C' : 'D';\n    return { grade: grade, pct: Math.round(pct) };\n}\n\nfunction describe(scenario, score, acc, volt, hist, cat) {\n    var one = '';\n    if (volt) { one = '参考段位 ' + volt.rank + '，今日得分 ' + round(score, 1) + '。'; }\n    else { one = '个人历史分位 ' + hist.pct + '%，评级 ' + hist.grade + '。'; }\n    var para = '';\n    if (cat === 'tracking') {\n        para = '从 Voltaic tracking 分类看，跟踪类得分主要受平滑度与目标切换损耗影响。' + (acc < 90 ? ' 命中率偏低说明准星在目标边缘抖动较多，更接近 reactive 型瓶颈。' : ' 命中率尚可，但得分提升需要进一步压缩无效位移与重定位损耗。') + ' 本项仅做诊断，不下达具体训练作业，可参考 Aimer7 平滑跟踪的“先稳后快”思路理解当前瓶颈。';\n    } else if (cat === 'clicking') {\n        para = '点击类瓶颈通常分确认速度与命中效率两段。' + (acc < 90 ? ' 命中率说明开枪略快，击发前未完成确认。' : ' 命中率尚可，瓶颈更多在目标间切换节奏与回正。') + ' 这与 Voltaic 社区常说的 flick→confirm→micro-correct 链路一致。';\n    } else {\n        para = '切换类主要看目标获取时间与停驻效率。当前表现说明切换后的停驻稳定性是主要变量，符合 Voltaic switching 分类的常见瓶颈。';\n    }\n    return { one: one, para: para };\n}\n\nfunction paceOf(killsArr) {\n    var arr = killsArr.slice().sort(function (a, b) { return a.offset - b.offset; });\n    var intervals = [];\n    for (var i = 1; i < arr.length; i++) intervals.push(arr[i].interval);\n    var med = median(intervals);\n    var maxOffset = arr.length ? arr[arr.length - 1].offset : 0;\n    var best = { rate: 0, at: 0, count: 0 };\n    var worst = { rate: Infinity, at: 0, count: 0 };\n    for (var i = 0; i < arr.length; i++) {\n        var start = arr[i].offset;\n        if (maxOffset > 10 && start > maxOffset - 10) break;\n        var count = 0;\n        for (var j = i; j < arr.length && arr[j].offset <= start + 10; j++) count++;\n        var rate = count / 10;\n        if (rate > best.rate) best = { rate: round(rate, 2), at: round(start, 1), count: count };\n        if (rate < worst.rate) worst = { rate: round(rate, 2), at: round(start, 1), count: count };\n    }\n    return { kills: arr.length, medianInterval: round(med, 3), best: best, worst: worst };\n}\n\nfunction upsertSection(file, marker, block) {\n    var header = '# 场景优化日志\\n\\n';\n    var text = fs.existsSync(file) ? fs.readFileSync(file, 'utf8') : header;\n    if (!text) text = header;\n    var idx = text.indexOf('\\n## ');\n    while (idx >= 0) {\n        var next = text.indexOf('\\n## ', idx + 4);\n        var end = next < 0 ? text.length : next;\n        var section = text.slice(idx + 1, end);\n        if (section.indexOf(marker) === 0) {\n            text = text.slice(0, idx + 1) + text.slice(end);\n            idx = text.indexOf('\\n## ');\n        } else {\n            idx = end;\n        }\n    }\n    text = text.replace(/\\s+$/, '\\n\\n') + block;\n    fs.writeFileSync(file, text, 'utf8');\n}\n\nreturn (async function () {\n    try {\n        var reqQuery = (msg.req && msg.req.query) || {};\n        var mode = msg.analyzeMode || reqQuery.mode || 'session';\n        var requestedDate = msg.analyzeDate || reqQuery.date || null;\n        var now = Date.now();\n        var targetDate = (requestedDate && /^\\d{4}-\\d{2}-\\d{2}$/.test(String(requestedDate))) ? String(requestedDate) : fmtDate(now);\n        var bounds = dateBounds(targetDate);\n        if (!bounds.valid) throw new Error('日期格式无效，应为 YYYY-MM-DD');\n        var bench = loadBench();\n        var scenarioRows = await collect('from(bucket: \"aim\") |> range(start: -30d) |> filter(fn: (r) => r._measurement == \"aim_scenario\") |> filter(fn: (r) => r._field == \"score\" or r._field == \"accuracy\") |> group()');\n        var killRows = await collect('from(bucket: \"aim\") |> range(start: -30d) |> filter(fn: (r) => r._measurement == \"aim_kill\") |> group()');\n        var scen = buildScenarioMap(scenarioRows);\n        var kills = buildKillMap(killRows);\n        var lines = [];\n        lines.push(mode === 'weekly' ? '## ' + targetDate + ' 周总结' : '## ' + targetDate + ' 训练分析');\n        var summary = {};\n        var total = 0;\n        ALLOWED.forEach(function (scenario) {\n            if (!scen[scenario]) {\n                lines.push('');\n                lines.push('### ' + scenario);\n                lines.push('- 暂无数据');\n                return;\n            }\n            var sessions = scen[scenario].sessions;\n            var sids = Object.keys(sessions);\n            sids.sort(function (a, b) { return sessions[a].time - sessions[b].time; });\n            var daySids = sids.filter(function (sid) { return sameDay(sessions[sid].time, bounds); });\n            if (daySids.length === 0) {\n                lines.push('');\n                lines.push('### ' + scenario);\n                lines.push('- 当日暂无数据');\n                return;\n            }\n            var scores = [], accs = [];\n            daySids.forEach(function (sid) {\n                Object.keys(sessions[sid].attempts).forEach(function (att) {\n                    var a = sessions[sid].attempts[att];\n                    if (typeof a.score === 'number') scores.push(a.score);\n                    if (typeof a.accuracy === 'number') accs.push(a.accuracy);\n                });\n            });\n            var avgScore = mean(scores);\n            var bestScore = scores.length ? Math.max.apply(null, scores) : 0;\n            var avgAcc = mean(accs);\n            var histSids = sids.filter(function (sid) { return sessions[sid].time < bounds.start; });\n            var histScores = [];\n            histSids.forEach(function (sid) {\n                var hs = [];\n                Object.keys(sessions[sid].attempts).forEach(function (att) {\n                    if (typeof sessions[sid].attempts[att].score === 'number') hs.push(sessions[sid].attempts[att].score);\n                });\n                if (hs.length) histScores.push(mean(hs));\n            });\n            var histAvg = mean(histScores);\n            var histBest = histScores.length ? Math.max.apply(null, histScores) : 0;\n            var hist = histGrade(avgScore, histScores);\n            var volt = voltaicGrade(avgScore, bench.scenarios[scenario], bench.ranks);\n            var cat = CATEGORY[scenario] || 'tracking';\n            var txt = describe(scenario, avgScore, avgAcc, volt, hist, cat);\n            lines.push('');\n            lines.push('### ' + scenario);\n            lines.push('- 本次: 得分 ' + round(avgScore, 1) + '（最佳 ' + round(bestScore, 1) + '），命中率 ' + round(avgAcc, 1) + '%');\n            if (volt) lines.push('- Voltaic 参考: ' + volt.rank + '（映射基准 ' + volt.benchmark + '）');\n            lines.push('- 个人历史: 近30天均值 ' + round(histAvg, 1) + '，最佳 ' + round(histBest, 1) + '，今日分位 ' + hist.pct + '%');\n            lines.push('- 评级: ' + (volt ? volt.rank : hist.grade));\n            lines.push('- 点评: ' + txt.one);\n            lines.push('- 分析: ' + txt.para);\n            if (mode === 'weekly' && histAvg > 0) {\n                var change = (avgScore - histAvg) / histAvg * 100;\n                lines.push('- 本周趋势: 较30天均值 ' + (change >= 0 ? '+' : '') + round(change, 1) + '%');\n            }\n            if (CLICK.indexOf(scenario) >= 0 && kills[scenario]) {\n                daySids.forEach(function (sid) {\n                    var katt = kills[scenario].sessions[sid] ? kills[scenario].sessions[sid].attempts : null;\n                    if (!katt) return;\n                    Object.keys(katt).sort(function (a, b) { return parseInt(a, 10) - parseInt(b, 10); }).forEach(function (att) {\n                        if (!katt[att] || !katt[att].length) return;\n                        var p = paceOf(katt[att]);\n                        lines.push('- 速率(第' + att + '次): 击杀 ' + p.kills + '，间隔中位数 ' + p.medianInterval + 's；最快10秒窗 ' + p.best.count + '杀/10s（起始' + p.best.at + 's），最慢10秒窗 ' + p.worst.count + '杀/10s（起始' + p.worst.at + 's）');\n                    });\n                });\n            }\n            summary[scenario] = { avgScore: round(avgScore, 1), accuracy: round(avgAcc, 1), grade: (volt ? volt.rank : hist.grade) };\n            total++;\n        });\n        if (total === 0) {\n            msg.payload = JSON.stringify({ ok: true, message: '目标日期暂无可用数据，请先执行导入', date: targetDate, mode: mode });\n            msg.statusCode = 200;\n            return msg;\n        }\n        var file = mode === 'weekly' ? REPORTS_DIR + '/每周训练总结.md' : REPORTS_DIR + '/场景优化日志.md';\n        var content = lines.join('\\n') + '\\n\\n';\n        if (!fs.existsSync(REPORTS_DIR)) fs.mkdirSync(REPORTS_DIR, { recursive: true });\n        if (mode === 'weekly') {\n            fs.appendFileSync(file, content, 'utf8');\n        } else {\n            upsertSection(file, '## ' + targetDate + ' 训练分析', content);\n        }\n        msg.payload = JSON.stringify({ ok: true, mode: mode, date: targetDate, file: file.replace('/reports/', 'reports/'), scenarios: summary, generatedAt: fmtDateTime(now) });\n        msg.statusCode = 200;\n        return msg;\n    } catch (e) {\n        throw new Error('分析失败: ' + (e && e.message ? e.message : e));\n    }\n})();\n",
+    "outputs": 1,
+    "timeout": "",
+    "noerr": 0,
+    "initialize": "",
+    "finalize": "",
+    "libs": [],
+    "x": 340,
+    "y": 460,
+    "wires": [
+      [
+        "aim-analyze-resp"
+      ]
+    ]
+  },
+  {
+    "id": "aim-analyze-resp",
+    "type": "http response",
+    "z": "aim-flow",
+    "name": "分析响应",
+    "statusCode": "200",
+    "headers": {
+      "content-type": "application/json"
+    },
+    "x": 560,
+    "y": 460,
+    "wires": []
+  },
+  {
+    "id": "aim-analyze-ui-http",
+    "type": "http in",
+    "z": "aim-flow",
+    "name": "GET /analyze-aim-ui",
+    "url": "/analyze-aim-ui",
+    "method": "get",
+    "upload": false,
+    "swaggerDoc": "",
+    "x": 120,
+    "y": 560,
+    "wires": [
+      [
+        "aim-analyze-ui-template"
+      ]
+    ]
+  },
+  {
+    "id": "aim-analyze-ui-template",
+    "type": "template",
+    "z": "aim-flow",
+    "name": "分析页面",
+    "field": "payload",
+    "template": "﻿<!DOCTYPE html>\n<html lang=\"zh\"><head><meta charset=\"utf-8\"><title>训练分析</title><style>\nbody{font-family:\"Microsoft YaHei\",sans-serif;background:#1b1f24;color:#e8eaed;display:flex;align-items:center;justify-content:center;min-height:100vh;margin:0}\n.card{background:#262b33;border-radius:12px;padding:32px 40px;text-align:center;box-shadow:0 8px 30px rgba(0,0,0,.4);max-width:640px}\nh1{font-size:22px;margin:0 0 8px}p.desc{color:#9aa3af;font-size:13px;margin:0 0 24px;line-height:1.7}\nbutton{background:#2f81f7;border:none;color:#fff;font-size:16px;padding:12px 24px;border-radius:8px;cursor:pointer;margin:0 8px}\nbutton:hover{background:#1f6fd9}button:disabled{background:#555;cursor:not-allowed}\npre{text-align:left;background:#11151a;border-radius:8px;padding:12px;font-size:12px;overflow:auto;margin-top:16px;min-height:40px;max-height:320px}\n</style></head><body><div class=\"card\">\n<h1>练枪训练分析</h1>\n<p class=\"desc\">点击按钮生成今日训练分析或周总结，结果写入 reports 目录。<br>命令行：curl -XPOST http://localhost:1881/analyze-aim<br>周总结：curl -XPOST \"http://localhost:1881/analyze-aim?mode=weekly\"</p>\n<button id=\"btn1\" onclick=\"run('')\">生成今日分析</button><button id=\"btn2\" onclick=\"run('?mode=weekly')\">生成周总结</button>\n<pre id=\"out\">等待生成&#8230;</pre>\n</div><script>\nfunction run(mode){var b1=document.getElementById('btn1');var b2=document.getElementById('btn2');var out=document.getElementById('out');b1.disabled=true;b2.disabled=true;out.textContent='正在生成...';fetch('/analyze-aim'+mode,{method:'POST'}).then(function(r){return r.json().then(function(d){return {status:r.status,body:d};});}).then(function(res){out.textContent='HTTP '+res.status+'\\n'+JSON.stringify(res.body,null,2);}).catch(function(e){out.textContent='请求失败: '+e;}).finally(function(){b1.disabled=false;b2.disabled=false;});}\n</script></body></html>",
+    "format": "html",
+    "syntax": "mustache",
+    "output": "str",
+    "x": 340,
+    "y": 560,
+    "wires": [
+      [
+        "aim-analyze-ui-resp"
+      ]
+    ]
+  },
+  {
+    "id": "aim-analyze-ui-resp",
+    "type": "http response",
+    "z": "aim-flow",
+    "name": "分析页面响应",
+    "statusCode": "200",
+    "headers": {
+      "content-type": "text/html; charset=utf-8"
+    },
+    "x": 560,
+    "y": 560,
+    "wires": []
+  },
+  {
+    "id": "aim-weekly-cron",
+    "type": "inject",
+    "z": "aim-flow",
+    "name": "周日 09:00 周总结",
+    "props": [
+      {
+        "p": "payload"
+      },
+      {
+        "p": "analyzeMode",
+        "v": "weekly",
+        "vt": "str"
+      }
+    ],
+    "repeat": "",
+    "crontab": "0 9 * * 0",
+    "once": false,
+    "onceDelay": 0.1,
+    "topic": "",
+    "payload": "",
+    "payloadType": "date",
+    "x": 120,
+    "y": 660,
+    "wires": [
+      [
+        "aim-weekly-main"
+      ]
+    ]
+  },
+  {
+    "id": "aim-weekly-main",
+    "type": "function",
+    "z": "aim-flow",
+    "name": "周总结生成",
+    "func": "﻿const fs = global.get('fs');\nconst influx = global.get('influxClient');\nconst Point = global.get('influxPoint');\nconst REPORTS_DIR = '/reports';\nconst BENCH_FILE = '/data/benchmarks.json';\nconst ALLOWED = [\"Centering 90 Easy+ No Strafes\",\"Air Voltaic Close Long Strafes Very Easy\",\"GP Far Long Strafes Easy\",\"GP Close Long Strafes Easy\",\"B90TI Iron\",\"Smoothbot Iron\",\"Pasu Voltaic Iron\",\"Tamspeed 2bp Iron\",\"Wide Wall 3 Targets TE\",\"1w2t TE Reload\",\"B90T Voltaic Easy Very Slow\",\"patTS Voltaic Iron\"];\nconst CLICK = [\"Pasu Voltaic Iron\",\"Tamspeed 2bp Iron\",\"Wide Wall 3 Targets TE\",\"1w2t TE Reload\",\"B90T Voltaic Easy Very Slow\",\"patTS Voltaic Iron\"];\nconst CATEGORY = {\n    \"Centering 90 Easy+ No Strafes\": \"tracking\",\n    \"Air Voltaic Close Long Strafes Very Easy\": \"tracking\",\n    \"GP Far Long Strafes Easy\": \"tracking\",\n    \"GP Close Long Strafes Easy\": \"tracking\",\n    \"B90TI Iron\": \"tracking\",\n    \"Smoothbot Iron\": \"tracking\",\n    \"Pasu Voltaic Iron\": \"clicking\",\n    \"Tamspeed 2bp Iron\": \"clicking\",\n    \"Wide Wall 3 Targets TE\": \"clicking\",\n    \"1w2t TE Reload\": \"clicking\",\n    \"B90T Voltaic Easy Very Slow\": \"switching\",\n    \"patTS Voltaic Iron\": \"switching\"\n};\n\nfunction pad(n) { return String(n).padStart(2, '0'); }\nfunction fmtDate(ms) { var d = new Date(ms); return d.getUTCFullYear() + '-' + pad(d.getUTCMonth() + 1) + '-' + pad(d.getUTCDate()); }\nfunction fmtDateTime(ms) { var d = new Date(ms); return fmtDate(ms) + ' ' + pad(d.getUTCHours()) + ':' + pad(d.getUTCMinutes()); }\nfunction toMs(t) { return t instanceof Date ? t.getTime() : new Date(t).getTime(); }\nfunction round(v, n) { var p = Math.pow(10, n || 1); return Math.round(v * p) / p; }\nfunction mean(arr) { if (!arr.length) return 0; var s = 0; for (var i = 0; i < arr.length; i++) s += arr[i]; return s / arr.length; }\nfunction median(arr) { if (!arr.length) return 0; var a = arr.slice().sort(function (x, y) { return x - y; }); var mid = Math.floor(a.length / 2); return a.length % 2 ? a[mid] : (a[mid - 1] + a[mid]) / 2; }\nfunction loadBench() { try { return JSON.parse(fs.readFileSync(BENCH_FILE, 'utf8')); } catch (e) { return { scenarios: {}, ranks: [] }; } }\n\nasync function collect(flux) { var qa = influx.getQueryApi('aim-org'); return await qa.collectRows(flux); }\n\nfunction buildScenarioMap(rows) {\n    var map = {};\n    rows.forEach(function (r) {\n        var s = r.scenario, sid = r.session_id, att = r.attempt_no;\n        if (!map[s]) map[s] = { sessions: {} };\n        if (!map[s].sessions[sid]) map[s].sessions[sid] = { time: toMs(r._time), attempts: {} };\n        if (!map[s].sessions[sid].attempts[att]) map[s].sessions[sid].attempts[att] = { time: toMs(r._time) };\n        map[s].sessions[sid].attempts[att][r._field] = r._value;\n    });\n    return map;\n}\n\nfunction buildKillMap(rows) {\n    var map = {};\n    rows.forEach(function (r) {\n        var s = r.scenario, sid = r.session_id, att = r.attempt_no;\n        var t = toMs(r._time);\n        if (!map[s]) map[s] = { sessions: {} };\n        if (!map[s].sessions[sid]) map[s].sessions[sid] = { attempts: {} };\n        if (!map[s].sessions[sid].attempts[att]) map[s].sessions[sid].attempts[att] = [];\n        var arr = map[s].sessions[sid].attempts[att];\n        var found = null;\n        for (var i = 0; i < arr.length; i++) { if (arr[i].time === t) { found = arr[i]; break; } }\n        if (!found) { found = { time: t }; arr.push(found); }\n        found[r._field] = r._value;\n    });\n    return map;\n}\n\nfunction voltaicGrade(score, entry, ranks) {\n    if (!entry || !entry.thresholds) return null;\n    var th = entry.thresholds;\n    var idx = -1;\n    for (var i = 0; i < th.length; i++) { if (score >= th[i]) idx = i; }\n    if (idx < 0) return { rank: 'Below ' + ranks[0], idx: -1, benchmark: entry.benchmark };\n    var name = ranks[idx]; name = name.charAt(0).toUpperCase() + name.slice(1);\n    return { rank: name, idx: idx, benchmark: entry.benchmark };\n}\n\nfunction histGrade(score, histScores) {\n    if (!histScores.length) return { grade: '-', pct: 0 };\n    var below = 0;\n    histScores.forEach(function (x) { if (x <= score) below++; });\n    var pct = below / histScores.length * 100;\n    var grade = pct >= 90 ? 'S' : pct >= 75 ? 'A' : pct >= 50 ? 'B' : pct >= 25 ? 'C' : 'D';\n    return { grade: grade, pct: Math.round(pct) };\n}\n\nfunction describe(scenario, score, acc, volt, hist, cat) {\n    var one = '';\n    if (volt) { one = '参考段位 ' + volt.rank + '，今日得分 ' + round(score, 1) + '。'; }\n    else { one = '个人历史分位 ' + hist.pct + '%，评级 ' + hist.grade + '。'; }\n    var para = '';\n    if (cat === 'tracking') {\n        para = '从 Voltaic tracking 分类看，跟踪类得分主要受平滑度与目标切换损耗影响。' + (acc < 90 ? ' 命中率偏低说明准星在目标边缘抖动较多，更接近 reactive 型瓶颈。' : ' 命中率尚可，但得分提升需要进一步压缩无效位移与重定位损耗。') + ' 本项仅做诊断，不下达具体训练作业，可参考 Aimer7 平滑跟踪的“先稳后快”思路理解当前瓶颈。';\n    } else if (cat === 'clicking') {\n        para = '点击类瓶颈通常分确认速度与命中效率两段。' + (acc < 90 ? ' 命中率说明开枪略快，击发前未完成确认。' : ' 命中率尚可，瓶颈更多在目标间切换节奏与回正。') + ' 这与 Voltaic 社区常说的 flick→confirm→micro-correct 链路一致。';\n    } else {\n        para = '切换类主要看目标获取时间与停驻效率。当前表现说明切换后的停驻稳定性是主要变量，符合 Voltaic switching 分类的常见瓶颈。';\n    }\n    return { one: one, para: para };\n}\n\nfunction paceOf(killsArr) {\n    var arr = killsArr.slice().sort(function (a, b) { return a.offset - b.offset; });\n    var intervals = [];\n    for (var i = 1; i < arr.length; i++) intervals.push(arr[i].interval);\n    var med = median(intervals);\n    var maxOffset = arr.length ? arr[arr.length - 1].offset : 0;\n    var best = { rate: 0, at: 0, count: 0 };\n    var worst = { rate: Infinity, at: 0, count: 0 };\n    for (var i = 0; i < arr.length; i++) {\n        var start = arr[i].offset;\n        if (maxOffset > 10 && start > maxOffset - 10) break;\n        var count = 0;\n        for (var j = i; j < arr.length && arr[j].offset <= start + 10; j++) count++;\n        var rate = count / 10;\n        if (rate > best.rate) best = { rate: round(rate, 2), at: round(start, 1), count: count };\n        if (rate < worst.rate) worst = { rate: round(rate, 2), at: round(start, 1), count: count };\n    }\n    return { kills: arr.length, medianInterval: round(med, 3), best: best, worst: worst };\n}\n\nreturn (async function () {\n    try {\n        var mode = msg.analyzeMode || ((msg.req && msg.req.query && msg.req.query.mode) || 'session');\n        var bench = loadBench();\n        var scenarioRows = await collect('from(bucket: \"aim\") |> range(start: -30d) |> filter(fn: (r) => r._measurement == \"aim_scenario\") |> filter(fn: (r) => r._field == \"score\" or r._field == \"accuracy\") |> group()');\n        var killRows = await collect('from(bucket: \"aim\") |> range(start: -30d) |> filter(fn: (r) => r._measurement == \"aim_kill\") |> group()');\n        var scen = buildScenarioMap(scenarioRows);\n        var kills = buildKillMap(killRows);\n        var now = Date.now();\n        var dateStr = fmtDate(now);\n        var lines = [];\n        lines.push(mode === 'weekly' ? '## ' + dateStr + ' 周总结' : '## ' + dateStr + ' 训练分析');\n        var summary = {};\n        var total = 0;\n        ALLOWED.forEach(function (scenario) {\n            if (!scen[scenario]) {\n                lines.push('');\n                lines.push('### ' + scenario);\n                lines.push('- 暂无数据');\n                return;\n            }\n            var sessions = scen[scenario].sessions;\n            var sids = Object.keys(sessions);\n            sids.sort(function (a, b) { return sessions[a].time - sessions[b].time; });\n            var latestSid = sids[sids.length - 1];\n            var latest = sessions[latestSid];\n            var attNums = Object.keys(latest.attempts).sort(function (a, b) { return parseInt(a, 10) - parseInt(b, 10); });\n            var scores = [], accs = [];\n            attNums.forEach(function (att) {\n                var a = latest.attempts[att];\n                if (typeof a.score === 'number') scores.push(a.score);\n                if (typeof a.accuracy === 'number') accs.push(a.accuracy);\n            });\n            var avgScore = mean(scores);\n            var bestScore = scores.length ? Math.max.apply(null, scores) : 0;\n            var avgAcc = mean(accs);\n            var histScores = [];\n            sids.forEach(function (sid) {\n                var s = sessions[sid];\n                var hs = [];\n                Object.keys(s.attempts).forEach(function (att) {\n                    if (typeof s.attempts[att].score === 'number') hs.push(s.attempts[att].score);\n                });\n                if (hs.length) histScores.push(mean(hs));\n            });\n            var histAvg = mean(histScores);\n            var histBest = histScores.length ? Math.max.apply(null, histScores) : 0;\n            var hist = histGrade(avgScore, histScores);\n            var volt = voltaicGrade(avgScore, bench.scenarios[scenario], bench.ranks);\n            var cat = CATEGORY[scenario] || 'tracking';\n            var txt = describe(scenario, avgScore, avgAcc, volt, hist, cat);\n            lines.push('');\n            lines.push('### ' + scenario);\n            lines.push('- 本次: 得分 ' + round(avgScore, 1) + '（最佳 ' + round(bestScore, 1) + '），命中率 ' + round(avgAcc, 1) + '%');\n            if (volt) lines.push('- Voltaic 参考: ' + volt.rank + '（映射基准 ' + volt.benchmark + '）');\n            lines.push('- 个人历史: 近30天均值 ' + round(histAvg, 1) + '，最佳 ' + round(histBest, 1) + '，今日分位 ' + hist.pct + '%');\n            lines.push('- 评级: ' + (volt ? volt.rank : hist.grade));\n            lines.push('- 点评: ' + txt.one);\n            lines.push('- 分析: ' + txt.para);\n            if (mode === 'weekly' && histAvg > 0) {\n                var change = (avgScore - histAvg) / histAvg * 100;\n                lines.push('- 本周趋势: 较30天均值 ' + (change >= 0 ? '+' : '') + round(change, 1) + '%');\n            }\n            if (CLICK.indexOf(scenario) >= 0 && kills[scenario] && kills[scenario].sessions[latestSid]) {\n                var katt = kills[scenario].sessions[latestSid].attempts;\n                attNums.forEach(function (att) {\n                    if (!katt[att] || !katt[att].length) return;\n                    var p = paceOf(katt[att]);\n                    lines.push('- 速率(第' + att + '次): 击杀 ' + p.kills + '，间隔中位数 ' + p.medianInterval + 's；最快10秒窗 ' + p.best.count + '杀/10s（起始' + p.best.at + 's），最慢10秒窗 ' + p.worst.count + '杀/10s（起始' + p.worst.at + 's）');\n                });\n            }\n            summary[scenario] = { avgScore: round(avgScore, 1), accuracy: round(avgAcc, 1), grade: (volt ? volt.rank : hist.grade) };\n            total++;\n        });\n        if (total === 0) {\n            msg.payload = JSON.stringify({ ok: true, message: '暂无可用数据，请先执行导入', mode: mode });\n            msg.statusCode = 200;\n            return msg;\n        }\n        var file = mode === 'weekly' ? REPORTS_DIR + '/每周训练总结.md' : REPORTS_DIR + '/场景优化日志.md';\n        var content = lines.join('\\n') + '\\n\\n';\n        if (!fs.existsSync(REPORTS_DIR)) fs.mkdirSync(REPORTS_DIR, { recursive: true });\n        fs.appendFileSync(file, content, 'utf8');\n        msg.payload = JSON.stringify({ ok: true, mode: mode, file: file.replace('/reports/', 'reports/'), scenarios: summary, generatedAt: fmtDateTime(now) });\n        msg.statusCode = 200;\n        return msg;\n    } catch (e) {\n        throw new Error('分析失败: ' + (e && e.message ? e.message : e));\n    }\n})();",
+    "outputs": 1,
+    "timeout": "",
+    "noerr": 0,
+    "initialize": "",
+    "finalize": "",
+    "libs": [],
+    "x": 340,
+    "y": 660,
+    "wires": [
+      [
+        "aim-weekly-done"
+      ]
+    ]
+  },
+  {
+    "id": "aim-weekly-done",
+    "type": "debug",
+    "z": "aim-flow",
+    "name": "周总结结果",
+    "active": true,
+    "tosidebar": true,
+    "console": false,
+    "tostatus": false,
+    "complete": "payload",
+    "targetType": "msg",
+    "statusVal": "",
+    "statusType": "auto",
+    "x": 560,
+    "y": 660,
+    "wires": []
+  },
+  {
+    "id": "aim-note-http",
+    "type": "http in",
+    "z": "aim-flow",
+    "name": "POST /add-note",
+    "url": "/add-note",
+    "method": "post",
+    "upload": false,
+    "swaggerDoc": "",
+    "x": 120,
+    "y": 760,
+    "wires": [
+      [
+        "aim-note-main"
+      ]
+    ]
+  },
+  {
+    "id": "aim-note-main",
+    "type": "function",
+    "z": "aim-flow",
+    "name": "写入感悟",
+    "func": "﻿const fs = global.get('fs');\nconst influx = global.get('influxClient');\nconst Point = global.get('influxPoint');\nconst REPORTS_DIR = '/reports';\n\nfunction pad(n) { return String(n).padStart(2, '0'); }\nfunction fmtDate(ms) { var d = new Date(ms); return d.getUTCFullYear() + '-' + pad(d.getUTCMonth() + 1) + '-' + pad(d.getUTCDate()); }\n\nvar body = msg.payload;\nif (typeof body === 'string') {\n    try { body = JSON.parse(body); } catch (e) {}\n}\nvar scenario = (body && body.scenario) ? String(body.scenario).trim() : '综合';\nvar note = (body && body.note) ? String(body.note).trim() : '';\nvar date = (body && body.date) ? String(body.date) : null;\nif (!note) {\n    msg.payload = JSON.stringify({ ok: false, message: '感悟内容不能为空' });\n    msg.statusCode = 400;\n    return msg;\n}\nvar now = Date.now();\nvar day = date || fmtDate(now);\nvar timestamp = date ? new Date(date + 'T00:00:00+08:00').getTime() : now;\nif (isNaN(timestamp)) timestamp = now;\n\nvar writeApi = influx.getWriteApi('aim-org', 'aim', 'ms');\nvar p = new Point('aim_note')\n    .tag('scenario', scenario)\n    .tag('source', 'manual')\n    .stringField('note', note)\n    .timestamp(timestamp);\nwriteApi.writePoint(p);\nreturn writeApi.flush(true).then(function () {\n    writeApi.dispose();\n    var file = REPORTS_DIR + '/训练感悟日志.md';\n    var line = '\\n## ' + day + (scenario !== '综合' ? ' · ' + scenario : '') + '\\n\\n' + note + '\\n';\n    if (!fs.existsSync(REPORTS_DIR)) fs.mkdirSync(REPORTS_DIR, { recursive: true });\n    fs.appendFileSync(file, line, 'utf8');\n    msg.payload = JSON.stringify({ ok: true, message: '感悟已保存', date: day, scenario: scenario });\n    msg.statusCode = 200;\n    return msg;\n}).catch(function (e) {\n    writeApi.dispose();\n    throw new Error('写入失败: ' + (e.message || e));\n});",
+    "outputs": 1,
+    "timeout": "",
+    "noerr": 0,
+    "initialize": "",
+    "finalize": "",
+    "libs": [],
+    "x": 340,
+    "y": 760,
+    "wires": [
+      [
+        "aim-note-resp"
+      ]
+    ]
+  },
+  {
+    "id": "aim-note-resp",
+    "type": "http response",
+    "z": "aim-flow",
+    "name": "感悟响应",
+    "statusCode": "200",
+    "headers": {
+      "content-type": "application/json"
+    },
+    "x": 560,
+    "y": 760,
+    "wires": []
+  },
+  {
+    "id": "aim-note-ui-http",
+    "type": "http in",
+    "z": "aim-flow",
+    "name": "GET /note-ui",
+    "url": "/note-ui",
+    "method": "get",
+    "upload": false,
+    "swaggerDoc": "",
+    "x": 120,
+    "y": 860,
+    "wires": [
+      [
+        "aim-note-ui-template"
+      ]
+    ]
+  },
+  {
+    "id": "aim-note-ui-template",
+    "type": "template",
+    "z": "aim-flow",
+    "name": "感悟页面",
+    "field": "payload",
+    "template": "﻿<!DOCTYPE html>\n<html lang=\"zh\"><head><meta charset=\"utf-8\"><title>训练感悟</title><style>\nbody{font-family:\"Microsoft YaHei\",sans-serif;background:#1b1f24;color:#e8eaed;display:flex;align-items:center;justify-content:center;min-height:100vh;margin:0}\n.card{background:#262b33;border-radius:12px;padding:32px 40px;text-align:center;box-shadow:0 8px 30px rgba(0,0,0,.4);max-width:640px}\nh1{font-size:22px;margin:0 0 8px}p.desc{color:#9aa3af;font-size:13px;margin:0 0 20px;line-height:1.7}\nlabel{display:block;margin:10px 0 4px;text-align:left;color:#cbd2da;font-size:13px}\ninput,select,textarea{width:100%;box-sizing:border-box;background:#11151a;border:1px solid #3a4149;color:#e8eaed;border-radius:6px;padding:8px;font-size:14px}\ntextarea{height:160px;resize:vertical;font-family:inherit}\nbutton{background:#2f81f7;border:none;color:#fff;font-size:16px;padding:10px 26px;border-radius:8px;cursor:pointer;margin-top:16px}\nbutton:hover{background:#1f6fd9}button:disabled{background:#555;cursor:not-allowed}\npre{text-align:left;background:#11151a;border-radius:8px;padding:12px;font-size:12px;overflow:auto;margin-top:14px;min-height:30px}\n</style></head><body><div class=\"card\">\n<h1>训练感悟</h1>\n<p class=\"desc\">把今天的感悟记下来，按日期保存；可关联到某个项目，也可只记日期综合感悟。</p>\n<label>日期</label><input id=\"date\" type=\"date\">\n<label>关联项目（可留空=综合）</label><select id=\"scenario\"><option value=\"综合\">综合</option></select>\n<label>感悟内容</label><textarea id=\"note\" placeholder=\"例如：今天 1w2t 后面手很僵，确认变慢...\"></textarea>\n<button id=\"btn\" onclick=\"submit()\">保存感悟</button>\n<pre id=\"out\">等待保存&#8230;</pre>\n</div><script>\nvar scenarios=['综合','Centering 90 Easy+ No Strafes','Air Voltaic Close Long Strafes Very Easy','GP Far Long Strafes Easy','GP Close Long Strafes Easy','B90TI Iron','Smoothbot Iron','Pasu Voltaic Iron','Tamspeed 2bp Iron','Wide Wall 3 Targets TE','1w2t TE Reload','B90T Voltaic Easy Very Slow','patTS Voltaic Iron'];\nvar sel=document.getElementById('scenario');sel.innerHTML='';scenarios.forEach(function(s){var o=document.createElement('option');o.value=s;o.textContent=s;sel.appendChild(o);});\nvar d=new Date();var dd=d.getFullYear()+'-'+String(d.getMonth()+1).padStart(2,'0')+'-'+String(d.getDate()).padStart(2,'0');document.getElementById('date').value=dd;\nfunction submit(){var btn=document.getElementById('btn');var out=document.getElementById('out');btn.disabled=true;out.textContent='正在保存...';var body={date:document.getElementById('date').value,scenario:document.getElementById('scenario').value,note:document.getElementById('note').value};fetch('/add-note',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify(body)}).then(function(r){return r.json().then(function(x){return {status:r.status,body:x};});}).then(function(res){out.textContent='HTTP '+res.status+'\\n'+JSON.stringify(res.body,null,2);if(res.status===200){document.getElementById('note').value='';}}).catch(function(e){out.textContent='请求失败: '+e;}).finally(function(){btn.disabled=false;});}\n</script></body></html>",
+    "format": "html",
+    "syntax": "mustache",
+    "output": "str",
+    "x": 340,
+    "y": 860,
+    "wires": [
+      [
+        "aim-note-ui-resp"
+      ]
+    ]
+  },
+  {
+    "id": "aim-note-ui-resp",
+    "type": "http response",
+    "z": "aim-flow",
+    "name": "感悟页面响应",
+    "statusCode": "200",
+    "headers": {
+      "content-type": "text/html; charset=utf-8"
+    },
+    "x": 560,
+    "y": 860,
+    "wires": []
+  },
+  {
+    "id": "aim-analyze-catch",
+    "type": "catch",
+    "z": "aim-flow",
+    "name": "分析错误捕获",
+    "scope": [
+      "aim-analyze-main"
+    ],
+    "uncaught": false,
+    "x": 560,
+    "y": 960,
+    "wires": [
+      [
+        "aim-analyze-err"
+      ]
+    ]
+  },
+  {
+    "id": "aim-analyze-err",
+    "type": "function",
+    "z": "aim-flow",
+    "name": "分析错误响应",
+    "func": "﻿var detail = msg.error ? (msg.error.message || String(msg.error)) : '';\nif (msg.res) {\n    msg.payload = JSON.stringify({ ok: false, message: '操作失败', detail: detail });\n    msg.statusCode = 500;\n} else {\n    node.warn('V3 操作失败: ' + detail);\n    msg.payload = { ok: false, detail: detail };\n}\nreturn msg;",
+    "outputs": 1,
+    "timeout": "",
+    "noerr": 0,
+    "initialize": "",
+    "finalize": "",
+    "libs": [],
+    "x": 760,
+    "y": 960,
+    "wires": [
+      [
+        "aim-analyze-resp"
+      ]
+    ]
+  },
+  {
+    "id": "aim-note-catch",
+    "type": "catch",
+    "z": "aim-flow",
+    "name": "感悟错误捕获",
+    "scope": [
+      "aim-note-main"
+    ],
+    "uncaught": false,
+    "x": 560,
+    "y": 1060,
+    "wires": [
+      [
+        "aim-note-err"
+      ]
+    ]
+  },
+  {
+    "id": "aim-note-err",
+    "type": "function",
+    "z": "aim-flow",
+    "name": "感悟错误响应",
+    "func": "﻿var detail = msg.error ? (msg.error.message || String(msg.error)) : '';\nif (msg.res) {\n    msg.payload = JSON.stringify({ ok: false, message: '操作失败', detail: detail });\n    msg.statusCode = 500;\n} else {\n    node.warn('V3 操作失败: ' + detail);\n    msg.payload = { ok: false, detail: detail };\n}\nreturn msg;",
+    "outputs": 1,
+    "timeout": "",
+    "noerr": 0,
+    "initialize": "",
+    "finalize": "",
+    "libs": [],
+    "x": 760,
+    "y": 1060,
+    "wires": [
+      [
+        "aim-note-resp"
+      ]
+    ]
+  },
+  {
+    "id": "aim-weekly-catch",
+    "type": "catch",
+    "z": "aim-flow",
+    "name": "周总结错误捕获",
+    "scope": [
+      "aim-weekly-main"
+    ],
+    "uncaught": false,
+    "x": 560,
+    "y": 1160,
+    "wires": [
+      [
+        "aim-weekly-err"
+      ]
+    ]
+  },
+  {
+    "id": "aim-weekly-err",
+    "type": "function",
+    "z": "aim-flow",
+    "name": "周总结错误日志",
+    "func": "﻿var detail = msg.error ? (msg.error.message || String(msg.error)) : '';\nnode.warn('周总结失败: ' + detail);\nreturn null;",
+    "outputs": 0,
+    "timeout": "",
+    "noerr": 0,
+    "initialize": "",
+    "finalize": "",
+    "libs": [],
+    "x": 760,
+    "y": 1160,
+    "wires": []
+  }
+]

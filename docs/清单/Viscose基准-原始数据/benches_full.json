@@ -1,0 +1,1673 @@
+{
+ "Easier Scenarios": {
+  "playlist_code": "KovaaKsGearingMehLowground",
+  "scenarios": [
+   {
+    "category": "Control Tracking",
+    "sub": "Arm",
+    "scenario": "WhisphereRawControl Larger + Slowed",
+    "targets": {
+     "Lemming": 5500,
+     "Hare": 6700,
+     "Ermine": 7800,
+     "Penguin": 8700,
+     "Fox": 9600,
+     "Mammoth": 10500,
+     "Orca": 11400,
+     "Seal": 12500
+    }
+   },
+   {
+    "category": "Control Tracking",
+    "sub": "Arm",
+    "scenario": "Whisphere 80%",
+    "targets": {
+     "Lemming": 6300,
+     "Hare": 7700,
+     "Ermine": 9000,
+     "Penguin": 10000,
+     "Fox": 11000,
+     "Mammoth": 12000,
+     "Orca": 13000,
+     "Seal": 14500
+    }
+   },
+   {
+    "category": "Control Tracking",
+    "sub": "Arm",
+    "scenario": "Smoothbot Invincible Goated 75%",
+    "targets": {
+     "Lemming": 1800,
+     "Hare": 2250,
+     "Ermine": 2650,
+     "Penguin": 2900,
+     "Fox": 3150,
+     "Mammoth": 3400,
+     "Orca": 3650,
+     "Seal": 4000
+    }
+   },
+   {
+    "category": "Control Tracking",
+    "sub": "Wrist",
+    "scenario": "Leaptrack Goated 60% Larger",
+    "targets": {
+     "Lemming": 850,
+     "Hare": 1200,
+     "Ermine": 1500,
+     "Penguin": 1700,
+     "Fox": 1900,
+     "Mammoth": 2100,
+     "Orca": 2250,
+     "Seal": 2450
+    }
+   },
+   {
+    "category": "Control Tracking",
+    "sub": "Wrist",
+    "scenario": "Controlsphere rAim Easy 90%",
+    "targets": {
+     "Lemming": 6100,
+     "Hare": 6950,
+     "Ermine": 7700,
+     "Penguin": 8400,
+     "Fox": 9100,
+     "Mammoth": 9800,
+     "Orca": 10500,
+     "Seal": 11500
+    }
+   },
+   {
+    "category": "Control Tracking",
+    "sub": "Wrist",
+    "scenario": "VT Controlsphere Intermediate S5 80%",
+    "targets": {
+     "Lemming": 1850,
+     "Hare": 2300,
+     "Ermine": 2700,
+     "Penguin": 3000,
+     "Fox": 3300,
+     "Mammoth": 3600,
+     "Orca": 3850,
+     "Seal": 4100
+    }
+   },
+   {
+    "category": "Control Tracking",
+    "sub": "Fingertip",
+    "scenario": "Air Angelic 4 Voltaic Easy 80% (Good Version)",
+    "targets": {
+     "Lemming": 1050,
+     "Hare": 1600,
+     "Ermine": 2000,
+     "Penguin": 2400,
+     "Fox": 2700,
+     "Mammoth": 3000,
+     "Orca": 3300,
+     "Seal": 3600
+    }
+   },
+   {
+    "category": "Control Tracking",
+    "sub": "Fingertip",
+    "scenario": "Cloverrawcontrol Easy 80% Speed",
+    "targets": {
+     "Lemming": 3900,
+     "Hare": 4550,
+     "Ermine": 5200,
+     "Penguin": 5700,
+     "Fox": 6200,
+     "Mammoth": 6700,
+     "Orca": 7200,
+     "Seal": 7700
+    }
+   },
+   {
+    "category": "Control Tracking",
+    "sub": "Fingertip",
+    "scenario": "Controlsphere Far, Far Larger 90%",
+    "targets": {
+     "Lemming": 7600,
+     "Hare": 8150,
+     "Ermine": 8700,
+     "Penguin": 9200,
+     "Fox": 9800,
+     "Mammoth": 10200,
+     "Orca": 10900,
+     "Seal": 11500
+    }
+   },
+   {
+    "category": "Control Tracking",
+    "sub": "Blending",
+    "scenario": "PGTI Voltaic Easy 80%",
+    "targets": {
+     "Lemming": 350,
+     "Hare": 550,
+     "Ermine": 850,
+     "Penguin": 1100,
+     "Fox": 1350,
+     "Mammoth": 1600,
+     "Orca": 1900,
+     "Seal": 2250
+    }
+   },
+   {
+    "category": "Control Tracking",
+    "sub": "Blending",
+    "scenario": "Air CELESTIAL No UFO Easy Slowed",
+    "targets": {
+     "Lemming": 820,
+     "Hare": 835,
+     "Ermine": 850,
+     "Penguin": 861,
+     "Fox": 870,
+     "Mammoth": 878,
+     "Orca": 884,
+     "Seal": 890
+    }
+   },
+   {
+    "category": "Control Tracking",
+    "sub": "Blending",
+    "scenario": "Whisphere Small & Slow 55%",
+    "targets": {
+     "Lemming": 6000,
+     "Hare": 7500,
+     "Ermine": 9000,
+     "Penguin": 10000,
+     "Fox": 10750,
+     "Mammoth": 11500,
+     "Orca": 12250,
+     "Seal": 13500
+    }
+   },
+   {
+    "category": "Reactive Tracking",
+    "sub": "Control",
+    "scenario": "Air Voltaic Invincible 7 Easy 80%",
+    "targets": {
+     "Lemming": 750,
+     "Hare": 1200,
+     "Ermine": 1600,
+     "Penguin": 1900,
+     "Fox": 2200,
+     "Mammoth": 2500,
+     "Orca": 2800,
+     "Seal": 3200
+    }
+   },
+   {
+    "category": "Reactive Tracking",
+    "sub": "Control",
+    "scenario": "Controlsphere OW Long Strafes 90%",
+    "targets": {
+     "Lemming": 5400,
+     "Hare": 6100,
+     "Ermine": 6700,
+     "Penguin": 7200,
+     "Fox": 7600,
+     "Mammoth": 8000,
+     "Orca": 8300,
+     "Seal": 8700
+    }
+   },
+   {
+    "category": "Reactive Tracking",
+    "sub": "Speed",
+    "scenario": "Flicker Plaza rAim Easy Less Blinks",
+    "targets": {
+     "Lemming": 858,
+     "Hare": 871,
+     "Ermine": 883,
+     "Penguin": 890,
+     "Fox": 895,
+     "Mammoth": 900,
+     "Orca": 904,
+     "Seal": 909
+    }
+   },
+   {
+    "category": "Reactive Tracking",
+    "sub": "Speed",
+    "scenario": "Polarized Hell Easy 40% Slower",
+    "targets": {
+     "Lemming": 750,
+     "Hare": 1100,
+     "Ermine": 1400,
+     "Penguin": 1600,
+     "Fox": 1800,
+     "Mammoth": 2000,
+     "Orca": 2150,
+     "Seal": 2500
+    }
+   },
+   {
+    "category": "Reactive Tracking",
+    "sub": "Reading",
+    "scenario": "Air Pure Intermediate Slower No UFO",
+    "targets": {
+     "Lemming": 860,
+     "Hare": 874,
+     "Ermine": 886,
+     "Penguin": 893,
+     "Fox": 901,
+     "Mammoth": 907,
+     "Orca": 911,
+     "Seal": 916
+    }
+   },
+   {
+    "category": "Reactive Tracking",
+    "sub": "Reading",
+    "scenario": "Air Voltaic Easy Invincible 4 80%",
+    "targets": {
+     "Lemming": 1100,
+     "Hare": 1600,
+     "Ermine": 2100,
+     "Penguin": 2450,
+     "Fox": 2800,
+     "Mammoth": 3150,
+     "Orca": 3400,
+     "Seal": 3800
+    }
+   },
+   {
+    "category": "Flick Tech",
+    "sub": "Speed",
+    "scenario": "Pokeball Frenzy Auto TE Wide",
+    "targets": {
+     "Lemming": 650,
+     "Hare": 950,
+     "Ermine": 1250,
+     "Penguin": 1500,
+     "Fox": 1750,
+     "Mammoth": 2000,
+     "Orca": 2300,
+     "Seal": 2700
+    }
+   },
+   {
+    "category": "Flick Tech",
+    "sub": "Speed",
+    "scenario": "1w3ts Reload Larger",
+    "targets": {
+     "Lemming": 36,
+     "Hare": 43,
+     "Ermine": 50,
+     "Penguin": 58,
+     "Fox": 70,
+     "Mammoth": 82,
+     "Orca": 92,
+     "Seal": 102
+    }
+   },
+   {
+    "category": "Flick Tech",
+    "sub": "Speed",
+    "scenario": "voxTargetSwitch 2 Large",
+    "targets": {
+     "Lemming": 67,
+     "Hare": 78,
+     "Ermine": 87,
+     "Penguin": 95,
+     "Fox": 103,
+     "Mammoth": 110,
+     "Orca": 117,
+     "Seal": 123
+    }
+   },
+   {
+    "category": "Flick Tech",
+    "sub": "Stability",
+    "scenario": "BeanTS Larger",
+    "targets": {
+     "Lemming": 65,
+     "Hare": 78,
+     "Ermine": 90,
+     "Penguin": 100,
+     "Fox": 110,
+     "Mammoth": 120,
+     "Orca": 130,
+     "Seal": 142
+    }
+   },
+   {
+    "category": "Flick Tech",
+    "sub": "Stability",
+    "scenario": "FloatTS Angelic Easy Larger",
+    "targets": {
+     "Lemming": 65,
+     "Hare": 74,
+     "Ermine": 81,
+     "Penguin": 88,
+     "Fox": 95,
+     "Mammoth": 101,
+     "Orca": 106,
+     "Seal": 111
+    }
+   },
+   {
+    "category": "Flick Tech",
+    "sub": "Micro",
+    "scenario": "WaldoTS Novice",
+    "targets": {
+     "Lemming": 65,
+     "Hare": 78,
+     "Ermine": 90,
+     "Penguin": 100,
+     "Fox": 110,
+     "Mammoth": 120,
+     "Orca": 130,
+     "Seal": 140
+    }
+   },
+   {
+    "category": "Flick Tech",
+    "sub": "Micro",
+    "scenario": "devTS Goated NR Static 5Bot",
+    "targets": {
+     "Lemming": 350,
+     "Hare": 400,
+     "Ermine": 450,
+     "Penguin": 500,
+     "Fox": 550,
+     "Mammoth": 600,
+     "Orca": 640,
+     "Seal": 680
+    }
+   },
+   {
+    "category": "Flick Tech",
+    "sub": "Evasive",
+    "scenario": "domiSwitch Easy Slower",
+    "targets": {
+     "Lemming": 3200,
+     "Hare": 3700,
+     "Ermine": 4200,
+     "Penguin": 4600,
+     "Fox": 5000,
+     "Mammoth": 5400,
+     "Orca": 5800,
+     "Seal": 6300
+    }
+   },
+   {
+    "category": "Flick Tech",
+    "sub": "Evasive",
+    "scenario": "tamTargetSwitch Smooth Easy",
+    "targets": {
+     "Lemming": 7,
+     "Hare": 11,
+     "Ermine": 15,
+     "Penguin": 18,
+     "Fox": 21,
+     "Mammoth": 24,
+     "Orca": 26,
+     "Seal": 28
+    }
+   },
+   {
+    "category": "Dynamic Clicking",
+    "sub": "Reading",
+    "scenario": "1wall5targets_pasu slow",
+    "targets": {
+     "Lemming": 76,
+     "Hare": 88,
+     "Ermine": 100,
+     "Penguin": 110,
+     "Fox": 120,
+     "Mammoth": 130,
+     "Orca": 140,
+     "Seal": 150
+    }
+   },
+   {
+    "category": "Dynamic Clicking",
+    "sub": "Reading",
+    "scenario": "B180 Voltaic Easy 92%",
+    "targets": {
+     "Lemming": 26,
+     "Hare": 38,
+     "Ermine": 50,
+     "Penguin": 58,
+     "Fox": 65,
+     "Mammoth": 72,
+     "Orca": 78,
+     "Seal": 87
+    }
+   },
+   {
+    "category": "Dynamic Clicking",
+    "sub": "Reading",
+    "scenario": "Controlsphere Click Easy",
+    "targets": {
+     "Lemming": 15,
+     "Hare": 21,
+     "Ermine": 27,
+     "Penguin": 33,
+     "Fox": 39,
+     "Mammoth": 45,
+     "Orca": 50,
+     "Seal": 55
+    }
+   },
+   {
+    "category": "Dynamic Clicking",
+    "sub": "Precision",
+    "scenario": "Popcorn MV Novice",
+    "targets": {
+     "Lemming": 50,
+     "Hare": 100,
+     "Ermine": 150,
+     "Penguin": 190,
+     "Fox": 230,
+     "Mammoth": 270,
+     "Orca": 300,
+     "Seal": 330
+    }
+   },
+   {
+    "category": "Dynamic Clicking",
+    "sub": "Precision",
+    "scenario": "Pasu Angelic 20% Larger 80% Speed",
+    "targets": {
+     "Lemming": 51,
+     "Hare": 58,
+     "Ermine": 65,
+     "Penguin": 72,
+     "Fox": 78,
+     "Mammoth": 84,
+     "Orca": 90,
+     "Seal": 97
+    }
+   },
+   {
+    "category": "Dynamic Clicking",
+    "sub": "Precision",
+    "scenario": "1w2ts Pasu Perfected Easy",
+    "targets": {
+     "Lemming": 58,
+     "Hare": 69,
+     "Ermine": 80,
+     "Penguin": 87,
+     "Fox": 93,
+     "Mammoth": 99,
+     "Orca": 105,
+     "Seal": 110
+    }
+   },
+   {
+    "category": "Dynamic Clicking",
+    "sub": "Linear",
+    "scenario": "1w3ts Pasu Perfected Micro Goated Larger 80%",
+    "targets": {
+     "Lemming": 600,
+     "Hare": 700,
+     "Ermine": 800,
+     "Penguin": 900,
+     "Fox": 1000,
+     "Mammoth": 1100,
+     "Orca": 1200,
+     "Seal": 1300
+    }
+   },
+   {
+    "category": "Dynamic Clicking",
+    "sub": "Linear",
+    "scenario": "Floating Heads Timing 400% Larger",
+    "targets": {
+     "Lemming": 400,
+     "Hare": 700,
+     "Ermine": 1000,
+     "Penguin": 1350,
+     "Fox": 1700,
+     "Mammoth": 2050,
+     "Orca": 2400,
+     "Seal": 2750
+    }
+   },
+   {
+    "category": "Dynamic Clicking",
+    "sub": "Linear",
+    "scenario": "voxTargetSwitch Click ",
+    "targets": {
+     "Lemming": 49,
+     "Hare": 59,
+     "Ermine": 67,
+     "Penguin": 74,
+     "Fox": 81,
+     "Mammoth": 88,
+     "Orca": 94,
+     "Seal": 100
+    }
+   }
+  ]
+ },
+ "Medium Scenarios": {
+  "playlist_code": "KovaaKsVibratingFlankedLurker",
+  "scenarios": [
+   {
+    "category": "Control Tracking",
+    "sub": "Arm",
+    "scenario": "WhisphereRawControl",
+    "targets": {
+     "Cinnabar": 5300,
+     "Vermillion": 6700,
+     "Saffron": 7600,
+     "Celadon": 8800,
+     "Cerulean": 10000,
+     "Lavender": 10900,
+     "Indigo": 11800,
+     "Fuchsia": 13000,
+     "MissColourz": 12408,
+     "Viscose": 14739
+    }
+   },
+   {
+    "category": "Control Tracking",
+    "sub": "Arm",
+    "scenario": "Whisphere  ",
+    "targets": {
+     "Cinnabar": 5750,
+     "Vermillion": 8250,
+     "Saffron": 10750,
+     "Celadon": 13250,
+     "Cerulean": 15250,
+     "Lavender": 17250,
+     "Indigo": 19250,
+     "Fuchsia": 20500,
+     "MissColourz": 18200,
+     "Viscose": 23410
+    }
+   },
+   {
+    "category": "Control Tracking",
+    "sub": "Arm",
+    "scenario": "Smoothbot Invincible Goated",
+    "targets": {
+     "Cinnabar": 1700,
+     "Vermillion": 2200,
+     "Saffron": 2750,
+     "Celadon": 3250,
+     "Cerulean": 3800,
+     "Lavender": 4300,
+     "Indigo": 4650,
+     "Fuchsia": 5000,
+     "MissColourz": 4320,
+     "Viscose": 5538
+    }
+   },
+   {
+    "category": "Control Tracking",
+    "sub": "Wrist",
+    "scenario": "Leaptrack Goated 75% Slightly Larger",
+    "targets": {
+     "Cinnabar": 1400,
+     "Vermillion": 1750,
+     "Saffron": 2000,
+     "Celadon": 2250,
+     "Cerulean": 2500,
+     "Lavender": 2750,
+     "Indigo": 3000,
+     "Fuchsia": 3275,
+     "MissColourz": 2841,
+     "Viscose": 3472
+    }
+   },
+   {
+    "category": "Control Tracking",
+    "sub": "Wrist",
+    "scenario": "Controlsphere rAim Easy",
+    "targets": {
+     "Cinnabar": 7400,
+     "Vermillion": 8500,
+     "Saffron": 9600,
+     "Celadon": 10700,
+     "Cerulean": 11900,
+     "Lavender": 13100,
+     "Indigo": 14300,
+     "Fuchsia": 15100,
+     "MissColourz": 14598,
+     "Viscose": 15909
+    }
+   },
+   {
+    "category": "Control Tracking",
+    "sub": "Wrist",
+    "scenario": "VT Controlsphere Novice S5 Hard",
+    "targets": {
+     "Cinnabar": 2100,
+     "Vermillion": 2500,
+     "Saffron": 2950,
+     "Celadon": 3250,
+     "Cerulean": 3550,
+     "Lavender": 3800,
+     "Indigo": 4100,
+     "Fuchsia": 4400,
+     "MissColourz": 4218,
+     "Viscose": 4881
+    }
+   },
+   {
+    "category": "Control Tracking",
+    "sub": "Fingertip",
+    "scenario": "Air Angelic 4 Voltaic Easy",
+    "targets": {
+     "Cinnabar": 1900,
+     "Vermillion": 2300,
+     "Saffron": 2650,
+     "Celadon": 3000,
+     "Cerulean": 3400,
+     "Lavender": 3750,
+     "Indigo": 4100,
+     "Fuchsia": 4450,
+     "MissColourz": 4295,
+     "Viscose": 4995
+    }
+   },
+   {
+    "category": "Control Tracking",
+    "sub": "Fingertip",
+    "scenario": "Cloverrawcontrol Easy",
+    "targets": {
+     "Cinnabar": 5000,
+     "Vermillion": 6100,
+     "Saffron": 7000,
+     "Celadon": 8100,
+     "Cerulean": 9200,
+     "Lavender": 10100,
+     "Indigo": 10900,
+     "Fuchsia": 11700,
+     "MissColourz": 12084,
+     "Viscose": 13788
+    }
+   },
+   {
+    "category": "Control Tracking",
+    "sub": "Fingertip",
+    "scenario": "Controlsphere Far Larger",
+    "targets": {
+     "Cinnabar": 7800,
+     "Vermillion": 8600,
+     "Saffron": 9300,
+     "Celadon": 10000,
+     "Cerulean": 10800,
+     "Lavender": 11700,
+     "Indigo": 12700,
+     "Fuchsia": 13600,
+     "MissColourz": 14319,
+     "Viscose": 14823
+    }
+   },
+   {
+    "category": "Control Tracking",
+    "sub": "Blending",
+    "scenario": "PGTI Voltaic Easy",
+    "targets": {
+     "Cinnabar": 800,
+     "Vermillion": 1100,
+     "Saffron": 1400,
+     "Celadon": 1700,
+     "Cerulean": 2000,
+     "Lavender": 2300,
+     "Indigo": 2750,
+     "Fuchsia": 3200,
+     "MissColourz": 2639,
+     "Viscose": 3950
+    }
+   },
+   {
+    "category": "Control Tracking",
+    "sub": "Blending",
+    "scenario": "Air CELESTIAL No UFO Easy",
+    "targets": {
+     "Cinnabar": 825,
+     "Vermillion": 840,
+     "Saffron": 855,
+     "Celadon": 865,
+     "Cerulean": 881,
+     "Lavender": 890,
+     "Indigo": 902,
+     "Fuchsia": 908,
+     "MissColourz": 897,
+     "Viscose": 919.11
+    }
+   },
+   {
+    "category": "Control Tracking",
+    "sub": "Blending",
+    "scenario": "Whisphere Small & Slow 75%",
+    "targets": {
+     "Cinnabar": 5500,
+     "Vermillion": 7500,
+     "Saffron": 9500,
+     "Celadon": 11500,
+     "Cerulean": 13500,
+     "Lavender": 15500,
+     "Indigo": 17500,
+     "Fuchsia": 19000,
+     "MissColourz": 17820,
+     "Viscose": 20300
+    }
+   },
+   {
+    "category": "Reactive Tracking",
+    "sub": "Control",
+    "scenario": "Ground Plaza Sparky v3",
+    "targets": {
+     "Cinnabar": 862,
+     "Vermillion": 872,
+     "Saffron": 882,
+     "Celadon": 888,
+     "Cerulean": 894,
+     "Lavender": 900,
+     "Indigo": 905,
+     "Fuchsia": 909,
+     "MissColourz": 904.3,
+     "Viscose": 916
+    }
+   },
+   {
+    "category": "Reactive Tracking",
+    "sub": "Control",
+    "scenario": "Controlsphere OW",
+    "targets": {
+     "Cinnabar": 4800,
+     "Vermillion": 5700,
+     "Saffron": 6400,
+     "Celadon": 7300,
+     "Cerulean": 8100,
+     "Lavender": 8900,
+     "Indigo": 9800,
+     "Fuchsia": 10500,
+     "MissColourz": 9906,
+     "Viscose": 11670
+    }
+   },
+   {
+    "category": "Reactive Tracking",
+    "sub": "Speed",
+    "scenario": "Flicker Plaza rAim Easy",
+    "targets": {
+     "Cinnabar": 860,
+     "Vermillion": 870,
+     "Saffron": 881,
+     "Celadon": 891,
+     "Cerulean": 900,
+     "Lavender": 908,
+     "Indigo": 913,
+     "Fuchsia": 917,
+     "MissColourz": 910,
+     "Viscose": 928.7
+    }
+   },
+   {
+    "category": "Reactive Tracking",
+    "sub": "Speed",
+    "scenario": "Polarized Hell Easy 20% Slower",
+    "targets": {
+     "Cinnabar": 1600,
+     "Vermillion": 1850,
+     "Saffron": 2100,
+     "Celadon": 2350,
+     "Cerulean": 2600,
+     "Lavender": 2850,
+     "Indigo": 3150,
+     "Fuchsia": 3350,
+     "MissColourz": 2873,
+     "Viscose": 3557
+    }
+   },
+   {
+    "category": "Reactive Tracking",
+    "sub": "Reading",
+    "scenario": "Air Pure Intermediate",
+    "targets": {
+     "Cinnabar": 847,
+     "Vermillion": 862,
+     "Saffron": 876,
+     "Celadon": 886,
+     "Cerulean": 895,
+     "Lavender": 902,
+     "Indigo": 906,
+     "Fuchsia": 910,
+     "MissColourz": 906.25,
+     "Viscose": 922
+    }
+   },
+   {
+    "category": "Reactive Tracking",
+    "sub": "Reading",
+    "scenario": "Air Voltaic Easy Invincible 4",
+    "targets": {
+     "Cinnabar": 1800,
+     "Vermillion": 2150,
+     "Saffron": 2500,
+     "Celadon": 2950,
+     "Cerulean": 3350,
+     "Lavender": 3750,
+     "Indigo": 4150,
+     "Fuchsia": 4450,
+     "MissColourz": 4032,
+     "Viscose": 4918
+    }
+   },
+   {
+    "category": "Flick Tech",
+    "sub": "Speed",
+    "scenario": "Pokeball Frenzy Auto TE Wide",
+    "targets": {
+     "Cinnabar": 1950,
+     "Vermillion": 2250,
+     "Saffron": 2550,
+     "Celadon": 2850,
+     "Cerulean": 3150,
+     "Lavender": 3400,
+     "Indigo": 3600,
+     "Fuchsia": 3800,
+     "MissColourz": 3510,
+     "Viscose": 4560
+    }
+   },
+   {
+    "category": "Flick Tech",
+    "sub": "Speed",
+    "scenario": "1w3ts Reload",
+    "targets": {
+     "Cinnabar": 66,
+     "Vermillion": 76,
+     "Saffron": 86,
+     "Celadon": 96,
+     "Cerulean": 106,
+     "Lavender": 116,
+     "Indigo": 126,
+     "Fuchsia": 135,
+     "MissColourz": 115,
+     "Viscose": 148
+    }
+   },
+   {
+    "category": "Flick Tech",
+    "sub": "Speed",
+    "scenario": "voxTargetSwitch 2",
+    "targets": {
+     "Cinnabar": 78,
+     "Vermillion": 88,
+     "Saffron": 98,
+     "Celadon": 107,
+     "Cerulean": 116,
+     "Lavender": 123,
+     "Indigo": 130,
+     "Fuchsia": 136,
+     "MissColourz": 134,
+     "Viscose": 145.95
+    }
+   },
+   {
+    "category": "Flick Tech",
+    "sub": "Stability",
+    "scenario": "BeanTS",
+    "targets": {
+     "Cinnabar": 88,
+     "Vermillion": 103,
+     "Saffron": 115,
+     "Celadon": 127,
+     "Cerulean": 136,
+     "Lavender": 143,
+     "Indigo": 149,
+     "Fuchsia": 156,
+     "MissColourz": 156,
+     "Viscose": 170.55
+    }
+   },
+   {
+    "category": "Flick Tech",
+    "sub": "Stability",
+    "scenario": "FloatTS Angelic Easy",
+    "targets": {
+     "Cinnabar": 70,
+     "Vermillion": 79,
+     "Saffron": 86,
+     "Celadon": 93,
+     "Cerulean": 100,
+     "Lavender": 107,
+     "Indigo": 115,
+     "Fuchsia": 123,
+     "MissColourz": 124.85,
+     "Viscose": 134
+    }
+   },
+   {
+    "category": "Flick Tech",
+    "sub": "Micro",
+    "scenario": "WaldoTS Intermediate",
+    "targets": {
+     "Cinnabar": 108,
+     "Vermillion": 117,
+     "Saffron": 126,
+     "Celadon": 135,
+     "Cerulean": 144,
+     "Lavender": 153,
+     "Indigo": 162,
+     "Fuchsia": 170,
+     "MissColourz": 173,
+     "Viscose": 179.95
+    }
+   },
+   {
+    "category": "Flick Tech",
+    "sub": "Micro",
+    "scenario": "devTS Goated NR Static 5Bot",
+    "targets": {
+     "Cinnabar": 600,
+     "Vermillion": 650,
+     "Saffron": 705,
+     "Celadon": 760,
+     "Cerulean": 810,
+     "Lavender": 840,
+     "Indigo": 870,
+     "Fuchsia": 900,
+     "MissColourz": 904,
+     "Viscose": 937
+    }
+   },
+   {
+    "category": "Flick Tech",
+    "sub": "Post-flick",
+    "scenario": "domiSwitch Easy",
+    "targets": {
+     "Cinnabar": 4200,
+     "Vermillion": 4700,
+     "Saffron": 5200,
+     "Celadon": 5700,
+     "Cerulean": 6150,
+     "Lavender": 6600,
+     "Indigo": 7100,
+     "Fuchsia": 7600,
+     "MissColourz": 7003,
+     "Viscose": 8206
+    }
+   },
+   {
+    "category": "Flick Tech",
+    "sub": "Post-flick",
+    "scenario": "tamTargetSwitch Smooth Easy",
+    "targets": {
+     "Cinnabar": 22,
+     "Vermillion": 26,
+     "Saffron": 29,
+     "Celadon": 32,
+     "Cerulean": 34,
+     "Lavender": 36,
+     "Indigo": 38,
+     "Fuchsia": 41,
+     "MissColourz": 40,
+     "Viscose": 42
+    }
+   },
+   {
+    "category": "Click Timing",
+    "sub": "Reading",
+    "scenario": "1wall5targets_pasu Reload",
+    "targets": {
+     "Cinnabar": 70,
+     "Vermillion": 85,
+     "Saffron": 100,
+     "Celadon": 115,
+     "Cerulean": 130,
+     "Lavender": 142,
+     "Indigo": 155,
+     "Fuchsia": 165,
+     "MissColourz": 154,
+     "Viscose": 196
+    }
+   },
+   {
+    "category": "Click Timing",
+    "sub": "Reading",
+    "scenario": "VT Bounceshot Intermediate",
+    "targets": {
+     "Cinnabar": 550,
+     "Vermillion": 640,
+     "Saffron": 720,
+     "Celadon": 780,
+     "Cerulean": 850,
+     "Lavender": 900,
+     "Indigo": 980,
+     "Fuchsia": 1060,
+     "MissColourz": 950,
+     "Viscose": 1180
+    }
+   },
+   {
+    "category": "Click Timing",
+    "sub": "Reading",
+    "scenario": "Controlsphere Click",
+    "targets": {
+     "Cinnabar": 27,
+     "Vermillion": 33,
+     "Saffron": 39,
+     "Celadon": 45,
+     "Cerulean": 50,
+     "Lavender": 56,
+     "Indigo": 61,
+     "Fuchsia": 67,
+     "MissColourz": 60,
+     "Viscose": 81
+    }
+   },
+   {
+    "category": "Click Timing",
+    "sub": "Precision",
+    "scenario": "Popcorn MV Intermediate",
+    "targets": {
+     "Cinnabar": 150,
+     "Vermillion": 190,
+     "Saffron": 240,
+     "Celadon": 280,
+     "Cerulean": 330,
+     "Lavender": 380,
+     "Indigo": 430,
+     "Fuchsia": 480,
+     "MissColourz": 400,
+     "Viscose": 610
+    }
+   },
+   {
+    "category": "Click Timing",
+    "sub": "Precision",
+    "scenario": "Pasu Angelic 20% Larger",
+    "targets": {
+     "Cinnabar": 72,
+     "Vermillion": 79,
+     "Saffron": 85,
+     "Celadon": 90,
+     "Cerulean": 96,
+     "Lavender": 103,
+     "Indigo": 110,
+     "Fuchsia": 115,
+     "MissColourz": 106,
+     "Viscose": 137
+    }
+   },
+   {
+    "category": "Click Timing",
+    "sub": "Precision",
+    "scenario": "1w2ts Pasu Perfected",
+    "targets": {
+     "Cinnabar": 60,
+     "Vermillion": 70,
+     "Saffron": 80,
+     "Celadon": 88,
+     "Cerulean": 96,
+     "Lavender": 101,
+     "Indigo": 107,
+     "Fuchsia": 112,
+     "MissColourz": 101,
+     "Viscose": 122
+    }
+   },
+   {
+    "category": "Click Timing",
+    "sub": "Stability",
+    "scenario": "1w3ts Pasu Perfected Micro Goated Larger",
+    "targets": {
+     "Cinnabar": 900,
+     "Vermillion": 1000,
+     "Saffron": 1100,
+     "Celadon": 1200,
+     "Cerulean": 1300,
+     "Lavender": 1400,
+     "Indigo": 1500,
+     "Fuchsia": 1600,
+     "MissColourz": 1494,
+     "Viscose": 1722
+    }
+   },
+   {
+    "category": "Click Timing",
+    "sub": "Stability",
+    "scenario": "Floating Heads Timing 400% Larger",
+    "targets": {
+     "Cinnabar": 1950,
+     "Vermillion": 2300,
+     "Saffron": 2650,
+     "Celadon": 3000,
+     "Cerulean": 3350,
+     "Lavender": 3650,
+     "Indigo": 3900,
+     "Fuchsia": 4200,
+     "MissColourz": 3996,
+     "Viscose": 4896
+    }
+   },
+   {
+    "category": "Click Timing",
+    "sub": "Stability",
+    "scenario": "voxTargetClick 20% Small",
+    "targets": {
+     "Cinnabar": 62,
+     "Vermillion": 72,
+     "Saffron": 80,
+     "Celadon": 87,
+     "Cerulean": 95,
+     "Lavender": 102,
+     "Indigo": 108,
+     "Fuchsia": 116,
+     "MissColourz": 105,
+     "Viscose": 128
+    }
+   }
+  ]
+ },
+ "Hard Scenarios": {
+  "playlist_code": "KovaaKsTrollingFedCallout",
+  "scenarios": [
+   {
+    "category": "Control Tracking",
+    "sub": "Arm",
+    "scenario": "WhisphereRawControl 30% Small",
+    "targets": {
+     "Wool": 7100,
+     "Linen": 7700,
+     "Velvet": 8300,
+     "Chiffon": 8900,
+     "Satin": 9900,
+     "Silk": 11000,
+     "Viscose": 11872
+    }
+   },
+   {
+    "category": "Control Tracking",
+    "sub": "Arm",
+    "scenario": "Whisphere Small & Slow",
+    "targets": {
+     "Wool": 14000,
+     "Linen": 15250,
+     "Velvet": 16500,
+     "Chiffon": 18000,
+     "Satin": 19500,
+     "Silk": 20500,
+     "Viscose": 21490
+    }
+   },
+   {
+    "category": "Control Tracking",
+    "sub": "Arm",
+    "scenario": "SmoothBot Invincible Goated Smaller",
+    "targets": {
+     "Wool": 2700,
+     "Linen": 3200,
+     "Velvet": 3450,
+     "Chiffon": 3850,
+     "Satin": 4200,
+     "Silk": 4450,
+     "Viscose": 4494
+    }
+   },
+   {
+    "category": "Control Tracking",
+    "sub": "Wrist",
+    "scenario": "Leaptrack Goated 80%",
+    "targets": {
+     "Wool": 2500,
+     "Linen": 2625,
+     "Velvet": 2750,
+     "Chiffon": 2850,
+     "Satin": 3000,
+     "Silk": 3200,
+     "Viscose": 3210
+    }
+   },
+   {
+    "category": "Control Tracking",
+    "sub": "Wrist",
+    "scenario": "Controlsphere rAim",
+    "targets": {
+     "Wool": 9100,
+     "Linen": 9850,
+     "Velvet": 10700,
+     "Chiffon": 11300,
+     "Satin": 11900,
+     "Silk": 12350,
+     "Viscose": 12894
+    }
+   },
+   {
+    "category": "Control Tracking",
+    "sub": "Wrist",
+    "scenario": "VT Controlsphere Intermediate Hard",
+    "targets": {
+     "Wool": 2850,
+     "Linen": 3200,
+     "Velvet": 3500,
+     "Chiffon": 3800,
+     "Satin": 4000,
+     "Silk": 4200,
+     "Viscose": 4497
+    }
+   },
+   {
+    "category": "Control Tracking",
+    "sub": "Fingertip",
+    "scenario": "Air Angelic 4 Voltaic",
+    "targets": {
+     "Wool": 3300,
+     "Linen": 3650,
+     "Velvet": 3850,
+     "Chiffon": 4100,
+     "Satin": 4225,
+     "Silk": 4350,
+     "Viscose": 4440
+    }
+   },
+   {
+    "category": "Control Tracking",
+    "sub": "Fingertip",
+    "scenario": "Cloverrawcontrol",
+    "targets": {
+     "Wool": 7000,
+     "Linen": 7650,
+     "Velvet": 8200,
+     "Chiffon": 8650,
+     "Satin": 9200,
+     "Silk": 10100,
+     "Viscose": 10671
+    }
+   },
+   {
+    "category": "Control Tracking",
+    "sub": "Fingertip",
+    "scenario": "Controlsphere Far",
+    "targets": {
+     "Wool": 8600,
+     "Linen": 9200,
+     "Velvet": 9800,
+     "Chiffon": 10600,
+     "Satin": 11200,
+     "Silk": 12000,
+     "Viscose": 12321
+    }
+   },
+   {
+    "category": "Control Tracking",
+    "sub": "Blending",
+    "scenario": "PGTI Voltaic",
+    "targets": {
+     "Wool": 1350,
+     "Linen": 1650,
+     "Velvet": 1900,
+     "Chiffon": 2150,
+     "Satin": 2400,
+     "Silk": 2700,
+     "Viscose": 2801
+    }
+   },
+   {
+    "category": "Control Tracking",
+    "sub": "Blending",
+    "scenario": "Air CELESTIAL",
+    "targets": {
+     "Wool": 867,
+     "Linen": 875,
+     "Velvet": 885,
+     "Chiffon": 890,
+     "Satin": 894,
+     "Silk": 897,
+     "Viscose": 901.5
+    }
+   },
+   {
+    "category": "Control Tracking",
+    "sub": "Blending",
+    "scenario": "Whisphere Extra Small & Slow",
+    "targets": {
+     "Wool": 8500,
+     "Linen": 10300,
+     "Velvet": 11000,
+     "Chiffon": 12500,
+     "Satin": 13500,
+     "Silk": 14500,
+     "Viscose": 15230
+    }
+   },
+   {
+    "category": "Reactive Tracking",
+    "sub": "Control",
+    "scenario": "Ground Plaza Sparky v3 Thin",
+    "targets": {
+     "Wool": 881,
+     "Linen": 886,
+     "Velvet": 891,
+     "Chiffon": 895,
+     "Satin": 898,
+     "Silk": 901,
+     "Viscose": 904
+    }
+   },
+   {
+    "category": "Reactive Tracking",
+    "sub": "Control",
+    "scenario": "Controlsphere OW 150%",
+    "targets": {
+     "Wool": 6900,
+     "Linen": 7600,
+     "Velvet": 8100,
+     "Chiffon": 8525,
+     "Satin": 8950,
+     "Silk": 9500,
+     "Viscose": 9525
+    }
+   },
+   {
+    "category": "Reactive Tracking",
+    "sub": "Speed",
+    "scenario": "Flicker Plaza",
+    "targets": {
+     "Wool": 890,
+     "Linen": 896,
+     "Velvet": 901,
+     "Chiffon": 905,
+     "Satin": 910,
+     "Silk": 914,
+     "Viscose": 916
+    }
+   },
+   {
+    "category": "Reactive Tracking",
+    "sub": "Speed",
+    "scenario": "Polarized Hell 20% Slower",
+    "targets": {
+     "Wool": 2550,
+     "Linen": 2700,
+     "Velvet": 2850,
+     "Chiffon": 3000,
+     "Satin": 3150,
+     "Silk": 3300,
+     "Viscose": 3319
+    }
+   },
+   {
+    "category": "Reactive Tracking",
+    "sub": "Reading",
+    "scenario": "Air Pure",
+    "targets": {
+     "Wool": 884,
+     "Linen": 890,
+     "Velvet": 895,
+     "Chiffon": 900,
+     "Satin": 905,
+     "Silk": 909,
+     "Viscose": 915.5
+    }
+   },
+   {
+    "category": "Reactive Tracking",
+    "sub": "Reading",
+    "scenario": "Air Voltaic Invincible 4",
+    "targets": {
+     "Wool": 2800,
+     "Linen": 3150,
+     "Velvet": 3450,
+     "Chiffon": 3700,
+     "Satin": 3900,
+     "Silk": 4100,
+     "Viscose": 4230
+    }
+   },
+   {
+    "category": "Flick Tech",
+    "sub": "Speed",
+    "scenario": "Pokeball Frenzy Auto TE Wide",
+    "targets": {
+     "Wool": 3550,
+     "Linen": 3725,
+     "Velvet": 3850,
+     "Chiffon": 4000,
+     "Satin": 4100,
+     "Silk": 4200,
+     "Viscose": 4560
+    }
+   },
+   {
+    "category": "Flick Tech",
+    "sub": "Speed",
+    "scenario": "1w2ts Reload",
+    "targets": {
+     "Wool": 106,
+     "Linen": 114,
+     "Velvet": 121,
+     "Chiffon": 127,
+     "Satin": 133,
+     "Silk": 138,
+     "Viscose": 139
+    }
+   },
+   {
+    "category": "Flick Tech",
+    "sub": "Speed",
+    "scenario": "voxTargetSwitch 2 20% Smaller",
+    "targets": {
+     "Wool": 103,
+     "Linen": 111,
+     "Velvet": 116,
+     "Chiffon": 121,
+     "Satin": 127,
+     "Silk": 133,
+     "Viscose": 133.55
+    }
+   },
+   {
+    "category": "Flick Tech",
+    "sub": "Stability",
+    "scenario": "BeanTS 30% Smaller",
+    "targets": {
+     "Wool": 119,
+     "Linen": 127,
+     "Velvet": 134,
+     "Chiffon": 139,
+     "Satin": 143,
+     "Silk": 147,
+     "Viscose": 150
+    }
+   },
+   {
+    "category": "Flick Tech",
+    "sub": "Stability",
+    "scenario": "FloatTS Angelic",
+    "targets": {
+     "Wool": 94,
+     "Linen": 100,
+     "Velvet": 105,
+     "Chiffon": 110,
+     "Satin": 114,
+     "Silk": 118,
+     "Viscose": 122
+    }
+   },
+   {
+    "category": "Flick Tech",
+    "sub": "Micro",
+    "scenario": "WaldoTS",
+    "targets": {
+     "Wool": 145,
+     "Linen": 153,
+     "Velvet": 160,
+     "Chiffon": 166,
+     "Satin": 173,
+     "Silk": 178,
+     "Viscose": 176
+    }
+   },
+   {
+    "category": "Flick Tech",
+    "sub": "Micro",
+    "scenario": "devTS Goated NR Static Small 5Bot",
+    "targets": {
+     "Wool": 750,
+     "Linen": 775,
+     "Velvet": 800,
+     "Chiffon": 825,
+     "Satin": 850,
+     "Silk": 870,
+     "Viscose": 873
+    }
+   },
+   {
+    "category": "Flick Tech",
+    "sub": "Post-flick",
+    "scenario": "domiSwitch",
+    "targets": {
+     "Wool": 5550,
+     "Linen": 5950,
+     "Velvet": 6250,
+     "Chiffon": 6550,
+     "Satin": 6850,
+     "Silk": 7200,
+     "Viscose": 7433
+    }
+   },
+   {
+    "category": "Flick Tech",
+    "sub": "Post-flick",
+    "scenario": "tamTargetSwitch Smooth",
+    "targets": {
+     "Wool": 32,
+     "Linen": 35,
+     "Velvet": 37,
+     "Chiffon": 39,
+     "Satin": 42,
+     "Silk": 45,
+     "Viscose": 45
+    }
+   },
+   {
+    "category": "Dynamic Clicking",
+    "sub": "Reading",
+    "scenario": "Pasu Reload Goated",
+    "targets": {
+     "Wool": 110,
+     "Linen": 120,
+     "Velvet": 130,
+     "Chiffon": 140,
+     "Satin": 150,
+     "Silk": 160,
+     "Viscose": 167
+    }
+   },
+   {
+    "category": "Dynamic Clicking",
+    "sub": "Reading",
+    "scenario": "VT Bounceshot Advanced ",
+    "targets": {
+     "Wool": 730,
+     "Linen": 790,
+     "Velvet": 850,
+     "Chiffon": 910,
+     "Satin": 950,
+     "Silk": 1000,
+     "Viscose": 1010
+    }
+   },
+   {
+    "category": "Dynamic Clicking",
+    "sub": "Reading",
+    "scenario": "Controlsphere Click Smaller",
+    "targets": {
+     "Wool": 39,
+     "Linen": 45,
+     "Velvet": 51,
+     "Chiffon": 56,
+     "Satin": 60,
+     "Silk": 64,
+     "Viscose": 64
+    }
+   },
+   {
+    "category": "Dynamic Clicking",
+    "sub": "Precision",
+    "scenario": "Popcorn MV Advanced",
+    "targets": {
+     "Wool": 290,
+     "Linen": 330,
+     "Velvet": 370,
+     "Chiffon": 420,
+     "Satin": 460,
+     "Silk": 500,
+     "Viscose": 520
+    }
+   },
+   {
+    "category": "Dynamic Clicking",
+    "sub": "Precision",
+    "scenario": "Pasu Angelic",
+    "targets": {
+     "Wool": 87,
+     "Linen": 94,
+     "Velvet": 102,
+     "Chiffon": 110,
+     "Satin": 118,
+     "Silk": 125,
+     "Viscose": 126
+    }
+   },
+   {
+    "category": "Dynamic Clicking",
+    "sub": "Precision",
+    "scenario": "1w2ts Pasu Perfected 30% Smaller",
+    "targets": {
+     "Wool": 75,
+     "Linen": 82,
+     "Velvet": 87,
+     "Chiffon": 93,
+     "Satin": 98,
+     "Silk": 103,
+     "Viscose": 104
+    }
+   },
+   {
+    "category": "Dynamic Clicking",
+    "sub": "Linear",
+    "scenario": "1w3ts Pasu Perfected Micro Goated",
+    "targets": {
+     "Wool": 1100,
+     "Linen": 1200,
+     "Velvet": 1300,
+     "Chiffon": 1400,
+     "Satin": 1500,
+     "Silk": 1560,
+     "Viscose": 1522
+    }
+   },
+   {
+    "category": "Dynamic Clicking",
+    "sub": "Linear",
+    "scenario": "Floating Heads Timing 400% Fixed",
+    "targets": {
+     "Wool": 3200,
+     "Linen": 3484,
+     "Velvet": 3648,
+     "Chiffon": 3848,
+     "Satin": 4048,
+     "Silk": 4248,
+     "Viscose": 4212
+    }
+   },
+   {
+    "category": "Dynamic Clicking",
+    "sub": "Linear",
+    "scenario": "VoxTargetSwitch Click Small",
+    "targets": {
+     "Wool": 90,
+     "Linen": 96,
+     "Velvet": 101,
+     "Chiffon": 106,
+     "Satin": 111,
+     "Silk": 115,
+     "Viscose": 115
+    }
+   }
+  ]
+ }
+}

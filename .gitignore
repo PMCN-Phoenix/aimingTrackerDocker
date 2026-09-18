@@ -1,0 +1,16 @@
+# 数据目录（运行时生成，不入库）
+grafana_data/
+influxdb_data/
+nodered_data/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# 临时文件
+tmp_wapi.js
+*.tmp
+
+# 环境变量
+.env

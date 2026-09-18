@@ -1,0 +1,53 @@
+[package]
+name = "vt-s5-benchmark-tracker"
+version = "0.1.0"
+description = "Voltaic S5 Benchmark Tracker"
+authors = ["EviL"]
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[lib]
+# The `_lib` suffix may seem redundant but it is necessary
+# to make the lib name unique and wouldn't conflict with the bin name.
+# This seems to be only an issue on Windows, see https://github.com/rust-lang/cargo/issues/8519
+name = "vt_s5_benchmark_tracker_lib"
+crate-type = ["staticlib", "cdylib", "rlib"]
+
+[build-dependencies]
+tauri-build = { version = "2.0", features = [] }
+
+[dependencies]
+tauri = { version = "2.2", features = [] }
+tauri-plugin-opener = "2.2"
+serde = { version = "1.0", features = ["derive"] }
+serde_json = "1.0"
+winreg = "0.55.0"
+
+# Development profile - faster compilation, larger size
+[profile.dev]
+opt-level = 0
+debug = true
+debug-assertions = true
+overflow-checks = true
+lto = false
+panic = 'unwind'
+incremental = true
+codegen-units = 256
+rpath = false
+
+# Release profile - optimized for minimum size
+[profile.release]
+opt-level = "z"  # Use "z" instead of "s" for maximum size reduction
+lto = true       # Enable link-time optimization
+codegen-units = 1  # Maximize optimization opportunities
+panic = "abort"  # Remove panic unwinding code
+strip = true     # Remove debug symbols
+debug = false    # No debug information
+debug-assertions = false
+overflow-checks = false
+incremental = false
+rpath = false
+
+[target.'cfg(not(any(target_os = "android", target_os = "ios")))'.dependencies]
+tauri-plugin-window-state = "2"

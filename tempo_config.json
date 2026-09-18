@@ -1,0 +1,16 @@
+{
+  "说明": "单点场景节拍配置（手动记录）。节拍=每分钟出手/拍子数，由用户指定；不提即延续上一次的值。",
+  "accuracy_standard": 95.0,
+  "current": {
+    "Pasu Voltaic Iron": 40,
+    "Tamspeed 2bp Iron": 100,
+    "Wide Wall 3 Targets TE": 100,
+    "1w2t TE Reload": 110
+  },
+  "history": [
+    { "scenario": "Pasu Voltaic Iron", "bpm": 40, "from": "2026-09-13" },
+    { "scenario": "Tamspeed 2bp Iron", "bpm": 100, "from": "2026-09-13" },
+    { "scenario": "Wide Wall 3 Targets TE", "bpm": 100, "from": "2026-09-13" },
+    { "scenario": "1w2t TE Reload", "bpm": 110, "from": "2026-09-13" }
+  ]
+}

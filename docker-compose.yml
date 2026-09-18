@@ -1,0 +1,54 @@
+﻿version: "3.8"
+
+services:
+  influxdb:
+    image: influxdb:2.7
+    container_name: aim-influxdb
+    ports:
+      - "8087:8086"
+    volumes:
+      - ./influxdb_data:/var/lib/influxdb2
+    environment:
+      - DOCKER_INFLUXDB_INIT_MODE=setup
+      - DOCKER_INFLUXDB_INIT_USERNAME=admin
+      - DOCKER_INFLUXDB_INIT_PASSWORD=aim_pass_2026
+      - DOCKER_INFLUXDB_INIT_ORG=aim-org
+      - DOCKER_INFLUXDB_INIT_BUCKET=aim
+      - DOCKER_INFLUXDB_INIT_ADMIN_TOKEN=aim-super-secret-token-2026
+    restart: unless-stopped
+
+  grafana:
+    image: grafana/grafana:10.4.0
+    container_name: aim-grafana
+    ports:
+      - "3001:3000"
+    volumes:
+      - ./grafana_data:/var/lib/grafana
+      - ./grafana/provisioning:/etc/grafana/provisioning:ro
+    environment:
+      - GF_SECURITY_ADMIN_USER=admin
+      - GF_SECURITY_ADMIN_PASSWORD=admin
+      - GF_AUTH_ANONYMOUS_ENABLED=false
+      - TZ=Asia/Shanghai
+      # 注意：不要在这里加 GF_INSTALL_PLUGINS（容器启动时会重新联网下载，404 会导致启动失败/重启循环）。
+      # 面板插件已装在挂载卷 ./grafana_data/plugins，重启/重建容器都会保留：
+      #   gapit-htmlgraphics-panel        → B 看板「9 档格子填色表」自绘面板
+      #   marcusolsson-dynamictext-panel  → 备用（Business Text）
+      #   grafana-polystat-panel          → 备用（热力格）
+      # 若数据卷被清空，手动重装：docker exec aim-grafana grafana-cli plugins install gapit-htmlgraphics-panel && docker restart aim-grafana
+    depends_on:
+      - influxdb
+    restart: unless-stopped
+
+  nodered:
+    image: nodered/node-red:3.1.0
+    container_name: aim-nodered
+    ports:
+      - "1881:1880"
+    volumes:
+      - ./nodered_data:/data
+      - ./reports:/reports
+      - D:/1_game/1_steam/steamapps/common/FPSAimTrainer/FPSAimTrainer/stats:/stats:ro
+    environment:
+      - TZ=Asia/Shanghai
+    restart: unless-stopped

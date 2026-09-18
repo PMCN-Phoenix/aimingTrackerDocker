@@ -1,0 +1,271 @@
+{
+  "说明": "清单定义（唯一事实来源）。sync_lists.py --build 重建，默认同步进 Node-RED flows.json。",
+  "lists": {
+    "voltaic-iron": {
+      "label": "Voltaic Iron",
+      "dashboard": "aim-scenarios-v2",
+      "scenarios": [
+        "Centering 90 Easy+ No Strafes",
+        "Air Voltaic Close Long Strafes Very Easy",
+        "GP Far Long Strafes Easy",
+        "GP Close Long Strafes Easy",
+        "B90TI Iron",
+        "Smoothbot Iron",
+        "Pasu Voltaic Iron",
+        "Tamspeed 2bp Iron",
+        "Wide Wall 3 Targets TE",
+        "1w2t TE Reload",
+        "B90T Voltaic Easy Very Slow",
+        "patTS Voltaic Iron"
+      ],
+      "click": [
+        "Pasu Voltaic Iron",
+        "Tamspeed 2bp Iron",
+        "Wide Wall 3 Targets TE",
+        "1w2t TE Reload",
+        "B90T Voltaic Easy Very Slow",
+        "patTS Voltaic Iron"
+      ],
+      "tempo": {
+        "Pasu Voltaic Iron": 40,
+        "Tamspeed 2bp Iron": 100,
+        "Wide Wall 3 Targets TE": 100,
+        "1w2t TE Reload": 110
+      }
+    },
+    "viscose-s2-easier": {
+      "label": "Viscose S2 Easier",
+      "dashboard": "viscose-s2-easier",
+      "shareCode": "KovaaKsScreamingPulledEgg",
+      "scenarios": [
+        "1w2ts reload smallflicks larger",
+        "ww5t Voltaic Slightly Larger",
+        "PGTI Voltaic Easy Smoother",
+        "Air CELESTIAL No UFO Easier",
+        "Pasu Voltaic Reload Easier",
+        "VT Bounceshot Viscose Easier",
+        "CatClick Easier",
+        "Air Angelic 4 Voltaic Easy 70%",
+        "Smoothsphere Viscose Easier",
+        "Whisphere Viscose Easier",
+        "SmoothBot Perfected Easier",
+        "Leapstrafes Control wobin Easier",
+        "Controlsphere SuperbAim Viscose Easier",
+        "VT Controlsphere Viscose Easier",
+        "cloverRawControl Viscose Easier 50cm",
+        "Flower Easier 50cm",
+        "RawControlSphere Easier",
+        "Ground Plaza Sparky v3 Easy",
+        "Air Spectral Easy 85%",
+        "VT Aether Bot 1 Easier",
+        "Plink Palace Easy Less Blinks",
+        "Air Pure Easier No UFO",
+        "Air Voltaic Invincible 4 Easier",
+        "voxTargetSwitch 2 Large",
+        "aimerz+ Static Switching 6 Bot Slightly Larger",
+        "1w6ts reload v2 20% bigger",
+        "beanTS Larger",
+        "StaticSwitchingVox",
+        "eth Pasu Micro Easier",
+        "waldoTS Novice",
+        "kinTS Voltaic Easy 85%",
+        "domiSwitch Easier",
+        "B180T Voltaic Easy Slower",
+        "1w3ts Pasu Perfected Micro Goated Larger 80%",
+        "Popcorn MV Easier",
+        "skyClick Goated Easier",
+        "VoxTS Click Easier",
+        "VT Floating Heads Viscose Easier",
+        "psalmTS Viscose Click Easier"
+      ],
+      "click": [
+        "1w2ts reload smallflicks larger",
+        "ww5t Voltaic Slightly Larger",
+        "PGTI Voltaic Easy Smoother",
+        "Air CELESTIAL No UFO Easier",
+        "Pasu Voltaic Reload Easier",
+        "VT Bounceshot Viscose Easier",
+        "CatClick Easier",
+        "Air Angelic 4 Voltaic Easy 70%",
+        "Smoothsphere Viscose Easier",
+        "Whisphere Viscose Easier",
+        "SmoothBot Perfected Easier",
+        "Leapstrafes Control wobin Easier",
+        "Controlsphere SuperbAim Viscose Easier",
+        "VT Controlsphere Viscose Easier",
+        "cloverRawControl Viscose Easier 50cm",
+        "Flower Easier 50cm",
+        "RawControlSphere Easier",
+        "Ground Plaza Sparky v3 Easy",
+        "Air Spectral Easy 85%",
+        "VT Aether Bot 1 Easier",
+        "Plink Palace Easy Less Blinks",
+        "Air Pure Easier No UFO",
+        "Air Voltaic Invincible 4 Easier",
+        "voxTargetSwitch 2 Large",
+        "aimerz+ Static Switching 6 Bot Slightly Larger",
+        "1w6ts reload v2 20% bigger",
+        "beanTS Larger",
+        "StaticSwitchingVox",
+        "eth Pasu Micro Easier",
+        "waldoTS Novice",
+        "kinTS Voltaic Easy 85%",
+        "domiSwitch Easier",
+        "B180T Voltaic Easy Slower",
+        "1w3ts Pasu Perfected Micro Goated Larger 80%",
+        "Popcorn MV Easier",
+        "skyClick Goated Easier",
+        "VoxTS Click Easier",
+        "VT Floating Heads Viscose Easier",
+        "psalmTS Viscose Click Easier"
+      ],
+      "tempo": {
+        "Pasu Voltaic Reload Easier": null,
+        "VT Bounceshot Viscose Easier": null,
+        "CatClick Easier": null,
+        "VoxTS Click Easier": null,
+        "skyClick Goated Easier": null,
+        "eth Pasu Micro Easier": null,
+        "psalmTS Viscose Click Easier": null,
+        "Popcorn MV Easier": null,
+        "1w6ts reload v2 20% bigger": null,
+        "1w2ts reload smallflicks larger": null
+      },
+      "groups": {
+        "CONTROL TRACKING": {
+          "Arm": [
+            "Smoothsphere Viscose Easier",
+            "Whisphere Viscose Easier",
+            "SmoothBot Perfected Easier"
+          ],
+          "Wrist": [
+            "Leapstrafes Control wobin Easier",
+            "Controlsphere SuperbAim Viscose Easier",
+            "VT Controlsphere Viscose Easier"
+          ],
+          "Fingertip": [
+            "Air Angelic 4 Voltaic Easy 70%",
+            "cloverRawControl Viscose Easier 50cm",
+            "Flower Easier 50cm"
+          ],
+          "Blending": [
+            "PGTI Voltaic Easy Smoother",
+            "Air CELESTIAL No UFO Easier",
+            "RawControlSphere Easier"
+          ]
+        },
+        "REACTIVE TRACKING": {
+          "Control": [
+            "Ground Plaza Sparky v3 Easy",
+            "Air Spectral Easy 85%"
+          ],
+          "Speed": [
+            "VT Aether Bot 1 Easier",
+            "Plink Palace Easy Less Blinks"
+          ],
+          "Reading": [
+            "Air Pure Easier No UFO",
+            "Air Voltaic Invincible 4 Easier"
+          ]
+        },
+        "FLICK TECH": {
+          "Speed": [
+            "ww5t Voltaic Slightly Larger",
+            "voxTargetSwitch 2 Large",
+            "aimerz+ Static Switching 6 Bot Slightly Larger"
+          ],
+          "Stability": [
+            "1w6ts reload v2 20% bigger",
+            "beanTS Larger",
+            "StaticSwitchingVox"
+          ],
+          "Micro": [
+            "1w2ts reload smallflicks larger",
+            "eth Pasu Micro Easier",
+            "waldoTS Novice"
+          ],
+          "Post-Flick": [
+            "kinTS Voltaic Easy 85%",
+            "domiSwitch Easier",
+            "B180T Voltaic Easy Slower"
+          ]
+        },
+        "CLICK TIMING": {
+          "Reading": [
+            "Pasu Voltaic Reload Easier",
+            "VT Bounceshot Viscose Easier",
+            "CatClick Easier"
+          ],
+          "Precision": [
+            "1w3ts Pasu Perfected Micro Goated Larger 80%",
+            "Popcorn MV Easier",
+            "skyClick Goated Easier"
+          ],
+          "Stability": [
+            "VoxTS Click Easier",
+            "VT Floating Heads Viscose Easier",
+            "psalmTS Viscose Click Easier"
+          ]
+        }
+      },
+      "subrank": {
+        "CONTROL TRACKING|Arm": {
+          "rank": "Hare",
+          "pct": 45
+        },
+        "CONTROL TRACKING|Wrist": {
+          "rank": "Hare",
+          "pct": 23
+        },
+        "CONTROL TRACKING|Fingertip": {
+          "rank": "Ermine",
+          "pct": 39
+        },
+        "CONTROL TRACKING|Blending": {
+          "rank": "Lemming",
+          "pct": 97
+        },
+        "REACTIVE TRACKING|Control": {
+          "rank": "Ermine",
+          "pct": 18
+        },
+        "REACTIVE TRACKING|Speed": {
+          "rank": "Ermine",
+          "pct": 65
+        },
+        "REACTIVE TRACKING|Reading": {
+          "rank": "Ermine",
+          "pct": 11
+        },
+        "FLICK TECH|Speed": {
+          "rank": "Ermine",
+          "pct": 83
+        },
+        "FLICK TECH|Stability": {
+          "rank": "Fox",
+          "pct": 54
+        },
+        "FLICK TECH|Micro": {
+          "rank": "Penguin",
+          "pct": 34
+        },
+        "FLICK TECH|Post-Flick": {
+          "rank": "Penguin",
+          "pct": 5
+        },
+        "CLICK TIMING|Reading": {
+          "rank": "Lemming",
+          "pct": null
+        },
+        "CLICK TIMING|Precision": {
+          "rank": "Puffin",
+          "pct": 7
+        },
+        "CLICK TIMING|Stability": {
+          "rank": "Hare",
+          "pct": 57
+        }
+      }
+    }
+  }
+}

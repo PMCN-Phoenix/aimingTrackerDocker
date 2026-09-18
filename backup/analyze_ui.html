@@ -1,0 +1,16 @@
+﻿<!DOCTYPE html>
+<html lang="zh"><head><meta charset="utf-8"><title>训练分析</title><style>
+body{font-family:"Microsoft YaHei",sans-serif;background:#1b1f24;color:#e8eaed;display:flex;align-items:center;justify-content:center;min-height:100vh;margin:0}
+.card{background:#262b33;border-radius:12px;padding:32px 40px;text-align:center;box-shadow:0 8px 30px rgba(0,0,0,.4);max-width:640px}
+h1{font-size:22px;margin:0 0 8px}p.desc{color:#9aa3af;font-size:13px;margin:0 0 24px;line-height:1.7}
+button{background:#2f81f7;border:none;color:#fff;font-size:16px;padding:12px 24px;border-radius:8px;cursor:pointer;margin:0 8px}
+button:hover{background:#1f6fd9}button:disabled{background:#555;cursor:not-allowed}
+pre{text-align:left;background:#11151a;border-radius:8px;padding:12px;font-size:12px;overflow:auto;margin-top:16px;min-height:40px;max-height:320px}
+</style></head><body><div class="card">
+<h1>练枪训练分析</h1>
+<p class="desc">点击按钮生成今日训练分析或周总结，结果写入 reports 目录。<br>命令行：curl -XPOST http://localhost:1881/analyze-aim<br>周总结：curl -XPOST "http://localhost:1881/analyze-aim?mode=weekly"</p>
+<button id="btn1" onclick="run('')">生成今日分析</button><button id="btn2" onclick="run('?mode=weekly')">生成周总结</button>
+<pre id="out">等待生成&#8230;</pre>
+</div><script>
+function run(mode){var b1=document.getElementById('btn1');var b2=document.getElementById('btn2');var out=document.getElementById('out');b1.disabled=true;b2.disabled=true;out.textContent='正在生成...';fetch('/analyze-aim'+mode,{method:'POST'}).then(function(r){return r.json().then(function(d){return {status:r.status,body:d};});}).then(function(res){out.textContent='HTTP '+res.status+'\n'+JSON.stringify(res.body,null,2);}).catch(function(e){out.textContent='请求失败: '+e;}).finally(function(){b1.disabled=false;b2.disabled=false;});}
+</script></body></html>

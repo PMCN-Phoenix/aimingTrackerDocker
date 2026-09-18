@@ -1,0 +1,404 @@
+﻿{
+  "Novice": {
+    "Clicking": {
+      "Dynamic": {
+        "VT Pasu Novice S5": {
+          "Iron": 555,
+          "Bronze": 660,
+          "Silver": 745,
+          "Gold": 800
+        },
+        "VT Popcorn Novice S5": {
+          "Iron": 390,
+          "Bronze": 500,
+          "Silver": 600,
+          "Gold": 720
+        }
+      },
+      "Static": {
+        "VT 1w4ts Novice S5": {
+          "Iron": 820,
+          "Bronze": 915,
+          "Silver": 1010,
+          "Gold": 1110
+        },
+        "VT ww5t Novice S5": {
+          "Iron": 990,
+          "Bronze": 1090,
+          "Silver": 1190,
+          "Gold": 1290
+        }
+      },
+      "Linear": {
+        "VT Frogtagon Novice S5": {
+          "Iron": 620,
+          "Bronze": 740,
+          "Silver": 850,
+          "Gold": 980
+        },
+        "VT Floating Heads Novice S5": {
+          "Iron": 375,
+          "Bronze": 460,
+          "Silver": 540,
+          "Gold": 640
+        }
+      }
+    },
+    "Tracking": {
+      "Precise": {
+        "VT PGT Novice S5": {
+          "Iron": 1900,
+          "Bronze": 2325,
+          "Silver": 2775,
+          "Gold": 3050
+        },
+        "VT Snake Track Novice S5": {
+          "Iron": 2400,
+          "Bronze": 2750,
+          "Silver": 3125,
+          "Gold": 3425
+        }
+      },
+      "Reactive": {
+        "VT Aether Novice S5": {
+          "Iron": 1525,
+          "Bronze": 1900,
+          "Silver": 2250,
+          "Gold": 2650
+        },
+        "VT Ground Novice S5": {
+          "Iron": 2100,
+          "Bronze": 2500,
+          "Silver": 2825,
+          "Gold": 3100
+        }
+      },
+      "Control": {
+        "VT Raw Control Novice S5": {
+          "Iron": 2125,
+          "Bronze": 2550,
+          "Silver": 2975,
+          "Gold": 3450
+        },
+        "VT Controlsphere Novice S5": {
+          "Iron": 1575,
+          "Bronze": 1950,
+          "Silver": 2400,
+          "Gold": 2900
+        }
+      }
+    },
+    "Switching": {
+      "Speed": {
+        "VT DotTS Novice S5": {
+          "Iron": 845,
+          "Bronze": 940,
+          "Silver": 1030,
+          "Gold": 1090
+        },
+        "VT EddieTS Novice S5": {
+          "Iron": 640,
+          "Bronze": 730,
+          "Silver": 810,
+          "Gold": 890
+        }
+      },
+      "Evasive": {
+        "VT DriftTS Novice S5": {
+          "Iron": 315,
+          "Bronze": 355,
+          "Silver": 390,
+          "Gold": 430
+        },
+        "VT FlyTS Novice S5": {
+          "Iron": 420,
+          "Bronze": 460,
+          "Silver": 500,
+          "Gold": 535
+        }
+      },
+      "Stability": {
+        "VT ControlTS Novice S5": {
+          "Iron": 340,
+          "Bronze": 380,
+          "Silver": 420,
+          "Gold": 450
+        },
+        "VT Penta Bounce Novice S5": {
+          "Iron": 290,
+          "Bronze": 340,
+          "Silver": 390,
+          "Gold": 445
+        }
+      }
+    }
+  },
+  "Intermediate": {
+    "Clicking": {
+      "Dynamic": {
+        "VT Pasu Intermediate S5": {
+          "Platinum": 770,
+          "Diamond": 850,
+          "Jade": 930,
+          "Master": 980
+        },
+        "VT Popcorn Intermediate S5": {
+          "Platinum": 600,
+          "Diamond": 690,
+          "Jade": 780,
+          "Master": 860
+        }
+      },
+      "Static": {
+        "VT 1w3ts Intermediate S5": {
+          "Platinum": 1120,
+          "Diamond": 1220,
+          "Jade": 1300,
+          "Master": 1380
+        },
+        "VT ww5t Intermediate S5": {
+          "Platinum": 1310,
+          "Diamond": 1400,
+          "Jade": 1490,
+          "Master": 1560
+        }
+      },
+      "Linear": {
+        "VT Frogtagon Intermediate S5": {
+          "Platinum": 940,
+          "Diamond": 1040,
+          "Jade": 1140,
+          "Master": 1230
+        },
+        "VT Floating Heads Intermediate S5": {
+          "Platinum": 610,
+          "Diamond": 690,
+          "Jade": 770,
+          "Master": 860
+        }
+      }
+    },
+    "Tracking": {
+      "Precise": {
+        "VT PGT Intermediate S5": {
+          "Platinum": 2275,
+          "Diamond": 2675,
+          "Jade": 3050,
+          "Master": 3325
+        },
+        "VT Snake Track Intermediate S5": {
+          "Platinum": 2800,
+          "Diamond": 3175,
+          "Jade": 3500,
+          "Master": 3750
+        }
+      },
+      "Reactive": {
+        "VT Aether Intermediate S5": {
+          "Platinum": 2175,
+          "Diamond": 2550,
+          "Jade": 2900,
+          "Master": 3175
+        },
+        "VT Ground Intermediate S5": {
+          "Platinum": 2550,
+          "Diamond": 2850,
+          "Jade": 3100,
+          "Master": 3350
+        }
+      },
+      "Control": {
+        "VT Raw Control Intermediate S5": {
+          "Platinum": 2775,
+          "Diamond": 3200,
+          "Jade": 3550,
+          "Master": 3875
+        },
+        "VT Controlsphere Intermediate S5": {
+          "Platinum": 2750,
+          "Diamond": 3175,
+          "Jade": 3525,
+          "Master": 3825
+        }
+      }
+    },
+    "Switching": {
+      "Speed": {
+        "VT DotTS Intermediate S5": {
+          "Platinum": 1110,
+          "Diamond": 1180,
+          "Jade": 1230,
+          "Master": 1280
+        },
+        "VT EddieTS Intermediate S5": {
+          "Platinum": 880,
+          "Diamond": 950,
+          "Jade": 1020,
+          "Master": 1080
+        }
+      },
+      "Evasive": {
+        "VT DriftTS Intermediate S5": {
+          "Platinum": 390,
+          "Diamond": 430,
+          "Jade": 460,
+          "Master": 490
+        },
+        "VT FlyTS Intermediate S5": {
+          "Platinum": 520,
+          "Diamond": 570,
+          "Jade": 610,
+          "Master": 650
+        }
+      },
+      "Stability": {
+        "VT ControlTS Intermediate S5": {
+          "Platinum": 420,
+          "Diamond": 460,
+          "Jade": 485,
+          "Master": 520
+        },
+        "VT Penta Bounce Intermediate S5": {
+          "Platinum": 450,
+          "Diamond": 490,
+          "Jade": 540,
+          "Master": 580
+        }
+      }
+    }
+  },
+  "Advanced": {
+    "Clicking": {
+      "Dynamic": {
+        "VT Pasu Advanced S5": {
+          "Grandmaster": 910,
+          "Nova": 1020,
+          "Astra": 1110,
+          "Celestial": 1240
+        },
+        "VT Popcorn Advanced S5": {
+          "Grandmaster": 680,
+          "Nova": 800,
+          "Astra": 910,
+          "Celestial": 1020
+        }
+      },
+      "Static": {
+        "VT 1w2ts Advanced S5": {
+          "Grandmaster": 1320,
+          "Nova": 1420,
+          "Astra": 1520,
+          "Celestial": 1620
+        },
+        "VT ww5t Advanced S5": {
+          "Grandmaster": 1510,
+          "Nova": 1610,
+          "Astra": 1720,
+          "Celestial": 1860
+        }
+      },
+      "Linear": {
+        "VT Frogtagon Advanced S5": {
+          "Grandmaster": 1090,
+          "Nova": 1220,
+          "Astra": 1360,
+          "Celestial": 1490
+        },
+        "VT Floating Heads Advanced S5": {
+          "Grandmaster": 740,
+          "Nova": 830,
+          "Astra": 920,
+          "Celestial": 1050
+        }
+      }
+    },
+    "Tracking": {
+      "Precise": {
+        "VT PGT Advanced S5": {
+          "Grandmaster": 2750,
+          "Nova": 3175,
+          "Astra": 3625,
+          "Celestial": 4050
+        },
+        "VT Snake Track Advanced S5": {
+          "Grandmaster": 3050,
+          "Nova": 3425,
+          "Astra": 3725,
+          "Celestial": 4050
+        }
+      },
+      "Reactive": {
+        "VT Aether Advanced S5": {
+          "Grandmaster": 2750,
+          "Nova": 3175,
+          "Astra": 3525,
+          "Celestial": 3825
+        },
+        "VT Ground Advanced S5": {
+          "Grandmaster": 2875,
+          "Nova": 3200,
+          "Astra": 3500,
+          "Celestial": 3725
+        }
+      },
+      "Control": {
+        "VT Raw Control Advanced S5": {
+          "Grandmaster": 3150,
+          "Nova": 3550,
+          "Astra": 3875,
+          "Celestial": 4250
+        },
+        "VT Controlsphere Advanced S5": {
+          "Grandmaster": 3100,
+          "Nova": 3475,
+          "Astra": 3800,
+          "Celestial": 4125
+        }
+      }
+    },
+    "Switching": {
+      "Speed": {
+        "VT DotTS Advanced S5": {
+          "Grandmaster": 1280,
+          "Nova": 1360,
+          "Astra": 1420,
+          "Celestial": 1500
+        },
+        "VT EddieTS Advanced S5": {
+          "Grandmaster": 1020,
+          "Nova": 1120,
+          "Astra": 1200,
+          "Celestial": 1280
+        }
+      },
+      "Evasive": {
+        "VT DriftTS Advanced S5": {
+          "Grandmaster": 430,
+          "Nova": 470,
+          "Astra": 510,
+          "Celestial": 540
+        },
+        "VT FlyTS Advanced S5": {
+          "Grandmaster": 540,
+          "Nova": 600,
+          "Astra": 660,
+          "Celestial": 720
+        }
+      },
+      "Stability": {
+        "VT ControlTS Advanced S5": {
+          "Grandmaster": 450,
+          "Nova": 490,
+          "Astra": 520,
+          "Celestial": 550
+        },
+        "VT Penta Bounce Advanced S5": {
+          "Grandmaster": 530,
+          "Nova": 580,
+          "Astra": 630,
+          "Celestial": 670
+        }
+      }
+    }
+  }
+}

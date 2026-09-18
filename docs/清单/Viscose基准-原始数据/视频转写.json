@@ -1,0 +1,740 @@
+{
+ "language": "en",
+ "body": [
+  {
+   "from": 0.0,
+   "to": 3.84,
+   "content": "If you have been active in the aim training community at any point over the past"
+  },
+  {
+   "from": 3.84,
+   "to": 7.92,
+   "content": "four years or so, something like this should be pretty familiar to you."
+  },
+  {
+   "from": 8.56,
+   "to": 12.24,
+   "content": "These are the voltaic benchmarks and going back as far as I can remember,"
+  },
+  {
+   "from": 12.24,
+   "to": 15.68,
+   "content": "these have been considered the default way to test your skill when training."
+  },
+  {
+   "from": 16.4,
+   "to": 19.04,
+   "content": "Over time they have taken on a bit of a different role though,"
+  },
+  {
+   "from": 19.04,
+   "to": 22.32,
+   "content": "with the benchmarks themselves becoming the training tool,"
+  },
+  {
+   "from": 22.32,
+   "to": 24.32,
+   "content": "not just something to test your skill with."
+  },
+  {
+   "from": 25.04,
+   "to": 29.36,
+   "content": "I imagine a lot of you are probably expecting me to say something about how awful that is"
+  },
+  {
+   "from": 29.36,
+   "to": 34.0,
+   "content": "and how grinding the benchmarks is bad for improvement and it certainly can be but"
+  },
+  {
+   "from": 34.0,
+   "to": 35.44,
+   "content": "I don't think it has to be."
+  },
+  {
+   "from": 36.8,
+   "to": 40.8,
+   "content": "The voltaic benchmarks have continued to be iterated upon over the years but"
+  },
+  {
+   "from": 40.8,
+   "to": 44.72,
+   "content": "there was never any question about what they were being designed to do."
+  },
+  {
+   "from": 44.72,
+   "to": 49.28,
+   "content": "They were to test aiming skill in a way that paints the most complete picture possible,"
+  },
+  {
+   "from": 49.28,
+   "to": 51.2,
+   "content": "something that they have become very good at."
+  },
+  {
+   "from": 52.08,
+   "to": 55.76,
+   "content": "Other benchmarks have been made over the years too but in my experience,"
+  },
+  {
+   "from": 55.76,
+   "to": 60.64,
+   "content": "most of them are either structurally identical to voltaic's benchmarks or hyper-focused on a"
+  },
+  {
+   "from": 60.64,
+   "to": 62.32,
+   "content": "specific category."
+  },
+  {
+   "from": 62.32,
+   "to": 66.48,
+   "content": "And that's not to say that all of these are bad or anything but I wanted to try something"
+  },
+  {
+   "from": 66.48,
+   "to": 67.2,
+   "content": "a little different."
+  },
+  {
+   "from": 68.32,
+   "to": 71.92,
+   "content": "These are the viscose benchmarks and the idea they started from was,"
+  },
+  {
+   "from": 71.92,
+   "to": 75.12,
+   "content": "what if a benchmark was designed to be a training tool?"
+  },
+  {
+   "from": 75.92,
+   "to": 80.64,
+   "content": "My goal was to essentially trick people into playing scenarios that are good for practice"
+  },
+  {
+   "from": 80.64,
+   "to": 83.2,
+   "content": "instead of just good for evaluating your own skill level."
+  },
+  {
+   "from": 84.08,
+   "to": 88.64,
+   "content": "What this means is that they might not be as consistent as voltaic's benchmarks or cover"
+  },
+  {
+   "from": 88.64,
+   "to": 93.6,
+   "content": "as many areas of aim but instead they focus on the scenarios and categories that I have"
+  },
+  {
+   "from": 93.6,
+   "to": 97.6,
+   "content": "found the most useful to my own personal aim development no matter the game I'm playing."
+  },
+  {
+   "from": 98.24,
+   "to": 101.84,
+   "content": "The skill targets are slapped on as a motivator but they aren't really the point."
+  },
+  {
+   "from": 102.4,
+   "to": 106.64,
+   "content": "The goal here instead is to develop strong fundamentals and good technique which will"
+  },
+  {
+   "from": 106.64,
+   "to": 108.56,
+   "content": "transfer over to any game."
+  },
+  {
+   "from": 109.52,
+   "to": 114.0,
+   "content": "You can play other game specific training methods on top of using these to benchmark"
+  },
+  {
+   "from": 114.0,
+   "to": 117.68,
+   "content": "if you'd like to as well but I have tried to cover everything here."
+  },
+  {
+   "from": 118.64,
+   "to": 122.0,
+   "content": "If you want to give them a try now there's a link to the spreadsheet in the description."
+  },
+  {
+   "from": 122.0,
+   "to": 124.88,
+   "content": "Go on to file, make a copy and you're good to go."
+  },
+  {
+   "from": 125.52,
+   "to": 129.76,
+   "content": "But I want to address how these actually differ from voltaic's benchmarks and how"
+  },
+  {
+   "from": 129.76,
+   "to": 133.04,
+   "content": "do those differences better facilitate improving your technique."
+  },
+  {
+   "from": 134.0,
+   "to": 138.24,
+   "content": "I think the biggest factor is the categorization of scenarios."
+  },
+  {
+   "from": 138.32,
+   "to": 143.68,
+   "content": "Here are voltaics focusing primarily on the type of aim involved with even numbers of scenarios"
+  },
+  {
+   "from": 143.68,
+   "to": 145.12,
+   "content": "for each type."
+  },
+  {
+   "from": 145.12,
+   "to": 150.56,
+   "content": "The thing is though the main three types of aim are not equally important for in-game translation"
+  },
+  {
+   "from": 150.56,
+   "to": 155.28,
+   "content": "and some very important scenario types like pokeball are entirely absent here"
+  },
+  {
+   "from": 155.28,
+   "to": 159.36,
+   "content": "since they don't really fit into any of these categories"
+  },
+  {
+   "from": 159.36,
+   "to": 163.44,
+   "content": "plus in my opinion target switching is fairly overrepresented."
+  },
+  {
+   "from": 164.16,
+   "to": 168.64,
+   "content": "What I've done instead is distribute the scenarios unevenly based on what I have"
+  },
+  {
+   "from": 168.64,
+   "to": 172.08,
+   "content": "personally found the most useful for in-game translation"
+  },
+  {
+   "from": 172.08,
+   "to": 176.24,
+   "content": "and split those scenarios into more technique focused categories."
+  },
+  {
+   "from": 176.8,
+   "to": 182.32,
+   "content": "So instead of categorizing tasks based on what they are I group them based on what they do."
+  },
+  {
+   "from": 183.12,
+   "to": 185.84,
+   "content": "There is no target switching subcategory anymore."
+  },
+  {
+   "from": 185.84,
+   "to": 190.48,
+   "content": "Those scenarios all fall under flicking technique and are subdivided into which area"
+  },
+  {
+   "from": 190.48,
+   "to": 191.92,
+   "content": "of your flicks they focus on."
+  },
+  {
+   "from": 192.56,
+   "to": 197.52,
+   "content": "Same with control tracking being split into which muscle group the scenario targets."
+  },
+  {
+   "from": 197.52,
+   "to": 200.88,
+   "content": "This both gives you an idea of how to approach each scenario"
+  },
+  {
+   "from": 200.88,
+   "to": 204.72,
+   "content": "as well as what area you're weak at if you are struggling with specific ones."
+  },
+  {
+   "from": 205.36,
+   "to": 210.48,
+   "content": "For example a lower relative score on the fingertip subcategory in control tracking"
+  },
+  {
+   "from": 210.48,
+   "to": 214.08,
+   "content": "doesn't just tell you general info like work on tracking."
+  },
+  {
+   "from": 214.64,
+   "to": 218.96,
+   "content": "It is very specifically a weakness with fine control over small movements"
+  },
+  {
+   "from": 219.04,
+   "to": 222.8,
+   "content": "either with your fingertips or wrists depending on grip and play style."
+  },
+  {
+   "from": 223.6,
+   "to": 227.28,
+   "content": "And while I have designed the benchmarks in a way where grinding the scenarios you"
+  },
+  {
+   "from": 227.28,
+   "to": 230.32,
+   "content": "are weak at will help you address those weaknesses."
+  },
+  {
+   "from": 230.32,
+   "to": 234.8,
+   "content": "If you want to vary your practice more you can pick out extra scenarios to help isolate the issue."
+  },
+  {
+   "from": 235.44,
+   "to": 240.4,
+   "content": "How I like to do this is just by searching for the name of the base scenario to find variants."
+  },
+  {
+   "from": 240.4,
+   "to": 242.48,
+   "content": "For example clover raw control."
+  },
+  {
+   "from": 242.48,
+   "to": 246.64,
+   "content": "Typing that in brings up heaps of versions of the scenario with slight variations like"
+  },
+  {
+   "from": 246.72,
+   "to": 251.76,
+   "content": "slower, faster, larger, adding blinks and each change will help work on different things."
+  },
+  {
+   "from": 252.4,
+   "to": 255.68,
+   "content": "You can also check out other benchmarks on this website that have more narrow"
+  },
+  {
+   "from": 255.68,
+   "to": 259.36,
+   "content": "focuses than mine or look through Vltag's recommended scenario list"
+  },
+  {
+   "from": 259.36,
+   "to": 263.28,
+   "content": "or just playlists other people have made to find scenarios that will help you improve"
+  },
+  {
+   "from": 263.28,
+   "to": 264.64,
+   "content": "the areas you're weakest in."
+  },
+  {
+   "from": 265.76,
+   "to": 270.0,
+   "content": "About playlists though I've heard that a lot of people play these benchmarks as if"
+  },
+  {
+   "from": 270.0,
+   "to": 273.44,
+   "content": "they were one and this isn't something I recommend personally."
+  },
+  {
+   "from": 274.16,
+   "to": 278.8,
+   "content": "You can if you'd like to and I'm sure it is still beneficial but in my opinion the value"
+  },
+  {
+   "from": 278.8,
+   "to": 282.88,
+   "content": "in benchmarks is that they make it easy for you to motivate yourself to push yourself to"
+  },
+  {
+   "from": 282.88,
+   "to": 285.28,
+   "content": "improve category by category."
+  },
+  {
+   "from": 285.84,
+   "to": 289.44,
+   "content": "How I approach every task is a test of optimization."
+  },
+  {
+   "from": 289.44,
+   "to": 295.04,
+   "content": "What am I doing wrong from a technique perspective that this scenario is forcing me to improve at?"
+  },
+  {
+   "from": 295.04,
+   "to": 297.6,
+   "content": "The most recent example for me was passu."
+  },
+  {
+   "from": 297.6,
+   "to": 302.48,
+   "content": "I wasn't leading my shots properly and trying to push my score further forced me to improve my"
+  },
+  {
+   "from": 302.48,
+   "to": 302.96,
+   "content": "technique."
+  },
+  {
+   "from": 303.76,
+   "to": 308.48,
+   "content": "For me this is what makes benchmarks better than playlists and why I chose to make this"
+  },
+  {
+   "from": 308.48,
+   "to": 312.16,
+   "content": "list of scenarios into one instead of just posting it as a playlist."
+  },
+  {
+   "from": 312.8,
+   "to": 317.76,
+   "content": "By encouraging you to look at your score on each scenario, set a goal for yourself and"
+  },
+  {
+   "from": 317.76,
+   "to": 322.24,
+   "content": "figure out what is preventing you technique wise from reaching it is why I think benchmarks have"
+  },
+  {
+   "from": 322.24,
+   "to": 324.72,
+   "content": "become such a good tool to improve."
+  },
+  {
+   "from": 324.72,
+   "to": 329.52,
+   "content": "It prevents you from autopiloting and forces you to actively analyze your own improvement"
+  },
+  {
+   "from": 329.52,
+   "to": 334.72,
+   "content": "which is exactly what I wanted when making these and dictated every decision from some"
+  },
+  {
+   "from": 334.72,
+   "to": 336.88,
+   "content": "category names to rank difficulty."
+  },
+  {
+   "from": 337.6,
+   "to": 342.56,
+   "content": "On that note, the most common question I've been asked about this benchmark is why is x"
+  },
+  {
+   "from": 342.56,
+   "to": 346.0,
+   "content": "ranked so hard if it is on the easier benchmarks?"
+  },
+  {
+   "from": 346.0,
+   "to": 350.0,
+   "content": "A lot of people have told me that fuchsia is way way harder than wool"
+  },
+  {
+   "from": 350.0,
+   "to": 354.72,
+   "content": "even though fuchsia is classified as medium and wool is hard and they are right."
+  },
+  {
+   "from": 355.44,
+   "to": 359.36,
+   "content": "This is an intentional design change from Voltaic and actually something I suggested"
+  },
+  {
+   "from": 359.36,
+   "to": 361.92,
+   "content": "to them during the development of season 5."
+  },
+  {
+   "from": 361.92,
+   "to": 366.32,
+   "content": "I think the best way to think of it is that these terms, easier, medium and hard,"
+  },
+  {
+   "from": 366.32,
+   "to": 371.12,
+   "content": "represent the difficulty of the scenarios included in the benchmarks."
+  },
+  {
+   "from": 371.12,
+   "to": 374.32,
+   "content": "Not this go required for any given rank on those benchmarks."
+  },
+  {
+   "from": 374.88,
+   "to": 379.12,
+   "content": "There will be players here I would consider advanced who can't get to the top rank on the"
+  },
+  {
+   "from": 379.12,
+   "to": 384.08,
+   "content": "medium scenarios here and that isn't just to make these benchmarks really hard for no reason."
+  },
+  {
+   "from": 384.72,
+   "to": 388.8,
+   "content": "The Voltaic benchmarks have had a bit of a problem where the jumps between difficulties"
+  },
+  {
+   "from": 388.8,
+   "to": 392.64,
+   "content": "is so drastic that it feels completely impossible to broach for a lot of people."
+  },
+  {
+   "from": 393.28,
+   "to": 397.44,
+   "content": "When trying to go from master to grandmaster you need to not only get a better score but"
+  },
+  {
+   "from": 397.44,
+   "to": 400.4,
+   "content": "get that score on a significantly harder scenario."
+  },
+  {
+   "from": 400.4,
+   "to": 404.88,
+   "content": "I think this is why master became cited as the cutoff point for when aim trainers lose their"
+  },
+  {
+   "from": 404.88,
+   "to": 407.68,
+   "content": "value even though this isn't true in my opinion."
+  },
+  {
+   "from": 407.68,
+   "to": 412.0,
+   "content": "It's just that the time investment required per rank grows so much after this point"
+  },
+  {
+   "from": 412.0,
+   "to": 415.92,
+   "content": "partially because you have to get those scores on increasingly difficult scenarios."
+  },
+  {
+   "from": 416.56,
+   "to": 420.8,
+   "content": "What I've done to try and alleviate this issue is to have roughly two ranks of overlap"
+  },
+  {
+   "from": 420.8,
+   "to": 422.24,
+   "content": "for each difficulty."
+  },
+  {
+   "from": 422.24,
+   "to": 426.8,
+   "content": "So ordering the ranks in terms of how hard they're supposed to be would look something like this."
+  },
+  {
+   "from": 427.36,
+   "to": 431.12,
+   "content": "This means that while someone is climbing to the higher ranks on the medium scenarios,"
+  },
+  {
+   "from": 431.12,
+   "to": 435.12,
+   "content": "for example, they can try out the harder ones and still have scores to shoot for there."
+  },
+  {
+   "from": 435.76,
+   "to": 439.76,
+   "content": "In my opinion, less challenging scenarios always have their place when aim training no"
+  },
+  {
+   "from": 439.76,
+   "to": 441.2,
+   "content": "matter how good you get."
+  },
+  {
+   "from": 441.2,
+   "to": 445.92,
+   "content": "I think of easiest scenarios as refinement of your technique and harder scenarios as"
+  },
+  {
+   "from": 445.92,
+   "to": 448.08,
+   "content": "a stress test of that technique."
+  },
+  {
+   "from": 448.08,
+   "to": 452.4,
+   "content": "You really should be playing both simultaneously and this isn't something that conventional"
+  },
+  {
+   "from": 452.4,
+   "to": 454.0,
+   "content": "benchmarks encourage."
+  },
+  {
+   "from": 454.0,
+   "to": 458.48,
+   "content": "Once you're done with intermediate on voltaic, you move on to advanced, whereas here it's"
+  },
+  {
+   "from": 458.48,
+   "to": 462.48,
+   "content": "highly encouraged to keep playing the set of benchmarks below the highest set you can get"
+  },
+  {
+   "from": 462.48,
+   "to": 463.52,
+   "content": "scores on."
+  },
+  {
+   "from": 463.52,
+   "to": 467.44,
+   "content": "I'm not too far off so complete on these and I still get a lot of value from playing"
+  },
+  {
+   "from": 467.44,
+   "to": 469.2,
+   "content": "the medium difficulty scenarios."
+  },
+  {
+   "from": 469.92,
+   "to": 474.48,
+   "content": "This is also a part of the reason why there are so many ranks here but not the only reason."
+  },
+  {
+   "from": 475.12,
+   "to": 480.0,
+   "content": "Another goal I had with these was to make starting out on them more approachable than voltaic."
+  },
+  {
+   "from": 480.0,
+   "to": 483.76,
+   "content": "I want most people who are brand new to aim training to be able to get a rank in a couple"
+  },
+  {
+   "from": 483.76,
+   "to": 484.96,
+   "content": "of tries."
+  },
+  {
+   "from": 484.96,
+   "to": 488.96,
+   "content": "This means that there are a lot more ranks on the easiest scenarios than voltaic has and"
+  },
+  {
+   "from": 488.96,
+   "to": 493.28,
+   "content": "since medium overlaps with the easier and harder scenarios there is a bunch of ranks there too."
+  },
+  {
+   "from": 494.08,
+   "to": 498.48,
+   "content": "As for the ranks themselves, I have strayed away from voltaic's contemporary energy system"
+  },
+  {
+   "from": 498.48,
+   "to": 502.72,
+   "content": "and went back to their old system of requiring one score per subcategory to get a rank."
+  },
+  {
+   "from": 503.28,
+   "to": 505.2,
+   "content": "My reasoning for this is twofold."
+  },
+  {
+   "from": 505.2,
+   "to": 509.36,
+   "content": "Making people play a wider range of scenarios will naturally lead to them becoming more"
+  },
+  {
+   "from": 509.36,
+   "to": 513.92,
+   "content": "well rounded and it also allows the individual score targets to be lower for each."
+  },
+  {
+   "from": 514.56,
+   "to": 518.72,
+   "content": "Since you can get a rank in voltaic with only three to four scores in that rank total,"
+  },
+  {
+   "from": 518.72,
+   "to": 521.2,
+   "content": "the individual scores are going to be a grind."
+  },
+  {
+   "from": 521.84,
+   "to": 527.2,
+   "content": "Whereas here, you need at least 14 scores, meaning even if I want fuchsia to be equal"
+  },
+  {
+   "from": 527.2,
+   "to": 532.16,
+   "content": "to voltaic nova as a rank, the fuchsia score targets can be much more reachable which I"
+  },
+  {
+   "from": 532.16,
+   "to": 533.6,
+   "content": "personally find more motivating."
+  },
+  {
+   "from": 534.4,
+   "to": 537.92,
+   "content": "I think that's everything I have to say about the benchmarks themselves but if you'd like"
+  },
+  {
+   "from": 537.92,
+   "to": 542.24,
+   "content": "to know more about how to play each scenario specifically, I'm working on adding these little"
+  },
+  {
+   "from": 542.24,
+   "to": 546.48,
+   "content": "notes to each scenario when you click it with the link to a void as well as a small write up."
+  },
+  {
+   "from": 546.48,
+   "to": 550.64,
+   "content": "And if you want more information, I should have a video up on my second channel by the time this"
+  },
+  {
+   "from": 550.64,
+   "to": 554.88,
+   "content": "goes live talking through similar things with my own and Matty's gameplay to demonstrate"
+  },
+  {
+   "from": 554.88,
+   "to": 556.72,
+   "content": "what proper technique looks like for each."
+  },
+  {
+   "from": 557.28,
+   "to": 560.88,
+   "content": "Also, thank you so much to Pingua5 for making the spreadsheet for this."
+  },
+  {
+   "from": 560.88,
+   "to": 565.76,
+   "content": "A lot of my stupid ideas like bringing back vaults or having a seemingly random number"
+  },
+  {
+   "from": 565.76,
+   "to": 570.4,
+   "content": "of scenarios per some category would not have worked at all using a benchmark template."
+  },
+  {
+   "from": 570.4,
+   "to": 574.64,
+   "content": "And I love the rank names and color scheme which are all Pingu's doing."
+  },
+  {
+   "from": 574.64,
+   "to": 577.92,
+   "content": "Please show them your support in the comments and thanks for watching."
+  }
+ ]
+}

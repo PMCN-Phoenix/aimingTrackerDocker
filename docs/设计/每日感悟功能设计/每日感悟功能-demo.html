@@ -1,0 +1,256 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>每日感悟功能 · Demo</title>
+<style>
+:root{
+  --bg:#0f1115;--panel:#1a1d24;--panel2:#22262f;--line:#2d313a;--line2:#3a3f4b;
+  --ink:#e6e8eb;--ink2:#a8adb8;--ink3:#6b7180;
+  --green:#639922;--green-bg:#1e2d14;--green-line:#3d5e1a;
+  --amber:#ba7517;--amber-bg:#2d2210;--amber-line:#5e4416;
+  --blue:#378add;--blue-bg:#132233;--blue-line:#1e3d5e;
+  --red:#e24b4a;--red-bg:#2d1515;
+  --purple:#8b7cf5;
+}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font-family:-apple-system,"Segoe UI","Microsoft YaHei",system-ui,sans-serif;font-size:13px}
+header{padding:14px 20px;border-bottom:1px solid var(--line);display:flex;align-items:center;gap:12px}
+header h1{font-size:15px;font-weight:500;margin:0}
+header .tag{font-size:11px;color:var(--ink3);background:var(--panel2);padding:3px 8px;border-radius:5px;border:1px solid var(--line)}
+main{padding:20px;max-width:1100px;margin:0 auto}
+.hint{background:var(--blue-bg);border:1px solid var(--blue-line);border-radius:8px;padding:10px 14px;font-size:12px;color:var(--ink2);margin-bottom:16px}
+.hint b{color:var(--blue)}
+.panel{background:var(--panel);border:1px solid var(--line);border-radius:8px;overflow:hidden}
+.panel-title{padding:10px 14px;border-bottom:1px solid var(--line);display:flex;align-items:center;gap:8px;font-size:12.5px;font-weight:500;color:var(--ink2)}
+.panel-title .info{color:var(--ink3);font-weight:400;margin-left:auto;font-size:11px}
+table{width:100%;border-collapse:collapse;font-size:12px}
+th,td{text-align:left;padding:8px 12px;border-bottom:1px solid var(--line);white-space:nowrap}
+th{color:var(--ink3);font-weight:400;font-size:11px;background:var(--panel2)}
+tr:last-child td{border-bottom:none}
+tr:hover td{background:rgba(255,255,255,0.02)}
+td.num{text-align:right;font-variant-numeric:tabular-nums}
+.scn-click{color:var(--ink);cursor:pointer;text-decoration:underline dotted;text-decoration-color:var(--ink3);text-underline-offset:3px;transition:all .15s}
+.scn-click:hover{color:var(--blue);text-decoration-color:var(--blue);background:rgba(55,138,221,0.08);border-radius:4px;padding:2px 4px;margin:-2px -4px}
+.role{font-size:11px;padding:2px 7px;border-radius:4px}
+.role.warm{background:var(--panel2);color:var(--ink3)}
+.gate{background:var(--amber-bg);color:var(--amber);border:1px solid var(--amber-line)}
+.main{background:var(--blue-bg);color:var(--blue);border:1px solid var(--blue-line)}
+.bar-wrap{display:flex;align-items:center;gap:8px;min-width:120px}
+.bar{flex:1;height:7px;background:var(--panel2);border-radius:4px;overflow:hidden}
+.bar i{display:block;height:100%;border-radius:4px}
+.bar i.done{background:var(--green)}
+.bar i.doing{background:var(--amber)}
+.status{font-size:11px;padding:2px 8px;border-radius:4px;font-weight:500}
+.status.done{background:var(--green-bg);color:var(--green);border:1px solid var(--green-line)}
+.status.doing{background:var(--amber-bg);color:var(--amber);border:1px solid var(--amber-line)}
+.panel-footer{padding:8px 14px;border-top:1px solid var(--line);font-size:11px;color:var(--ink3)}
+
+/* Modal */
+.modal-overlay{position:fixed;inset:0;background:rgba(0,0,0,0.6);backdrop-filter:blur(2px);display:none;align-items:center;justify-content:center;z-index:100;padding:20px}
+.modal-overlay.show{display:flex}
+.modal{background:var(--panel);border:1px solid var(--line2);border-radius:10px;width:100%;max-width:520px;max-height:85vh;overflow-y:auto;box-shadow:0 20px 60px rgba(0,0,0,0.5)}
+.modal-header{padding:14px 18px;border-bottom:1px solid var(--line);display:flex;align-items:flex-start;gap:10px}
+.modal-header .scn{font-size:14px;font-weight:500;flex:1}
+.modal-header .meta{font-size:11px;color:var(--ink3);margin-top:4px}
+.modal-close{background:none;border:none;color:var(--ink3);font-size:18px;cursor:pointer;padding:2px 6px;border-radius:4px;line-height:1}
+.modal-close:hover{background:var(--panel2);color:var(--ink)}
+.modal-body{padding:16px 18px}
+.section{margin-bottom:16px}
+.section:last-child{margin-bottom:0}
+.section-title{font-size:11px;color:var(--ink3);text-transform:uppercase;letter-spacing:.5px;margin-bottom:8px;display:flex;align-items:center;gap:6px}
+.section-title::after{content:"";flex:1;height:1px;background:var(--line)}
+.grid2{display:grid;grid-template-columns:1fr 1fr;gap:10px}
+.stat-box{background:var(--panel2);border:1px solid var(--line);border-radius:6px;padding:8px 10px}
+.stat-box .k{font-size:10.5px;color:var(--ink3);margin-bottom:3px}
+.stat-box .v{font-size:15px;font-weight:500;font-variant-numeric:tabular-nums}
+.stat-box .v .unit{font-size:11px;color:var(--ink3);font-weight:400;margin-left:2px}
+.stat-box.next .v{color:var(--purple)}
+.note-box{background:var(--panel2);border:1px solid var(--line);border-left:3px solid var(--blue);border-radius:0 6px 6px 0;padding:10px 12px;font-size:12.5px;line-height:1.6;color:var(--ink);min-height:40px}
+.note-box.empty{color:var(--ink3);font-style:italic;border-left-color:var(--line)}
+.history-list{display:flex;flex-direction:column;gap:6px}
+.history-item{display:flex;gap:10px;align-items:baseline;font-size:12px}
+.history-item .date{color:var(--ink3);font-size:11px;min-width:52px;font-variant-numeric:tabular-nums}
+.history-item .text{color:var(--ink2);line-height:1.5}
+.history-item.empty .text{color:var(--ink3);font-style:italic}
+</style>
+</head>
+<body>
+
+<header>
+  <h1>每日感悟功能 · Demo</h1>
+  <span class="tag">D 看板 · 今日清单</span>
+  <span class="tag">静态原型</span>
+</header>
+
+<main>
+  <div class="hint">
+    <b>交互提示：</b>点击下方表格中带下划线的<b>场景名</b>（如「1w2ts reload smallflicks larger」），会弹出该场景的每日感悟弹窗。试试点击不同场景，有的有感悟，有的没有。
+  </div>
+
+  <div class="panel">
+    <div class="panel-title">
+      今日清单 · 完成度（要求轮数 vs 已打）
+      <span class="info">清单日 2026-09-18 · Day1 · 卡口双攻 · 共 7 条</span>
+    </div>
+    <table>
+      <thead>
+        <tr><th>#</th><th>场景</th><th>角色</th><th>目标分</th><th>门槛</th><th class="num">已打 / 要求</th><th>进度</th><th>状态</th></tr>
+      </thead>
+      <tbody id="tbody"></tbody>
+    </table>
+    <div class="panel-footer">已完成 6 / 7 条</div>
+  </div>
+</main>
+
+<!-- Modal -->
+<div class="modal-overlay" id="modalOverlay">
+  <div class="modal">
+    <div class="modal-header">
+      <div>
+        <div class="scn" id="mScn">场景名</div>
+        <div class="meta" id="mMeta">角色 · Day1 · 2026-09-18</div>
+      </div>
+      <button class="modal-close" onclick="closeModal()">×</button>
+    </div>
+    <div class="modal-body" id="mBody"></div>
+  </div>
+</div>
+
+<script>
+// 模拟数据：Day1 7 条场景
+const rows = [
+  {scn:"1w2ts reload smallflicks larger", role:"热身", roleCls:"warm", target:"—", gate:"—", done:4, req:2, pct:100, status:"done", score:100, acc:96.2, nextLine:106, nextRank:"Puffin→Penguin",
+    note:"今天手感不错，热身阶段就进入状态了。小范围切换跟枪稳，预瞄到位，第一发命中率明显比昨天高。可能是昨天休息得好，手腕不僵。",
+    history:[
+      {date:"09-17",text:"状态一般，有点累，前几发总是慢半拍。"},
+      {date:"09-16",text:"突破了！首次到 Puffin，切换节奏找到了。"},
+      {date:"09-15",text:"",empty:true},
+    ]},
+  {scn:"ww5t Voltaic Slightly Larger", role:"热身", roleCls:"warm", target:"—", gate:"—", done:4, req:2, pct:100, status:"done", score:90, acc:95.7, nextLine:92, nextRank:"Hare→Ermine",
+    note:"",
+    history:[
+      {date:"09-17",text:"",empty:true},
+      {date:"09-16",text:"跟枪比之前稳了，但大范围移动还是丢。"},
+      {date:"09-15",text:"",empty:true},
+    ]},
+  {scn:"PGTI Voltaic Easy Smoother", role:"卡口", roleCls:"gate", target:700, gate:"—", done:6, req:3, pct:100, status:"done", score:931, acc:17.9, nextLine:1050, nextRank:"Hare→Ermine",
+    note:"卡口项今天终于过了 700！之前卡了快一周。关键是把灵敏度降了 0.1，跟枪更贴了，虽然大范围转身慢了一点，但这个场景不需要。",
+    history:[
+      {date:"09-17",text:"差一点，698，就差 2 分，心态有点炸。"},
+      {date:"09-16",text:"685，稳定在 680-700 之间，就是破不了 700。"},
+      {date:"09-15",text:"660，状态不好，手冷。"},
+    ]},
+  {scn:"Air CELESTIAL No UFO Easier", role:"卡口", roleCls:"gate", target:817, gate:"—", done:5, req:3, pct:100, status:"done", score:836.1, acc:42.8, nextLine:842, nextRank:"Lemming→Hare",
+    note:"",
+    history:[
+      {date:"09-17",text:"",empty:true},
+      {date:"09-16",text:"810，离目标 817 就差一点，UFO 阶段总是丢。"},
+      {date:"09-15",text:"",empty:true},
+    ]},
+  {scn:"Pasu Voltaic Reload Easier", role:"主项", roleCls:"main", target:46, gate:"75%", done:7, req:7, pct:100, status:"done", score:40, acc:83.3, nextLine:46, nextRank:"Unranked→Lemming",
+    note:"主项今天达标了！得分 40 虽然离目标 46 还有距离，但命中率 83.3% 过了 75% 的门槛。reload 节奏比之前好，不会因为换弹慌了。",
+    history:[
+      {date:"09-17",text:"38 分，命中率 78%，reload 时总是急。"},
+      {date:"09-16",text:"",empty:true},
+      {date:"09-15",text:"35 分，状态差。"},
+    ]},
+  {scn:"VT Bounceshot Viscose Easier", role:"主项", roleCls:"main", target:380, gate:"75%", done:7, req:7, pct:100, status:"done", score:410, acc:83.7, nextLine:460, nextRank:"Lemming→Hare",
+    note:"弹跳球预判比之前准了，尤其是二次弹。得分 410 超了目标 380，命中率也达标。今天这个项目状态最好。",
+    history:[
+      {date:"09-17",text:"390，二次弹总是预判早了。"},
+      {date:"09-16",text:"",empty:true},
+      {date:"09-15",text:"360，手感差。"},
+    ]},
+  {scn:"CatClick Easier", role:"主项", roleCls:"main", target:35, gate:"75%", done:6, req:9, pct:67, status:"doing", score:33, acc:66, nextLine:35, nextRank:"Unranked→Lemming",
+    note:"",
+    history:[
+      {date:"09-17",text:"",empty:true},
+      {date:"09-16",text:"34，就差 1 分，最后一轮手滑了。"},
+      {date:"09-15",text:"",empty:true},
+    ]},
+];
+
+// 渲染表格
+const tbody = document.getElementById('tbody');
+rows.forEach((r,i) => {
+  const tr = document.createElement('tr');
+  tr.innerHTML = `
+    <td style="color:var(--ink3)">${i+1}</td>
+    <td><span class="scn-click" data-idx="${i}">${r.scn}</span></td>
+    <td><span class="role ${r.roleCls}">${r.role}</span></td>
+    <td class="num" style="color:var(--ink2)">${r.target}</td>
+    <td class="num" style="color:var(--ink2)">${r.gate}</td>
+    <td class="num">${r.done} / ${r.req}</td>
+    <td><div class="bar-wrap"><div class="bar"><i class="${r.status}" style="width:${r.pct}%"></i></div></div></td>
+    <td><span class="status ${r.status}">${r.status==='done'?'已完成':'进行中'}</span></td>
+  `;
+  tbody.appendChild(tr);
+});
+
+// 点击事件
+tbody.addEventListener('click', e => {
+  const el = e.target.closest('.scn-click');
+  if (!el) return;
+  const idx = parseInt(el.dataset.idx);
+  openModal(rows[idx]);
+});
+
+function openModal(r) {
+  document.getElementById('mScn').textContent = r.scn;
+  document.getElementById('mMeta').textContent = `${r.role} · Day1 · 2026-09-18`;
+
+  const noteHtml = r.note
+    ? `<div class="note-box">${r.note}</div>`
+    : `<div class="note-box empty">暂无感悟 — 练完后在对话中告诉我，我帮你写入</div>`;
+
+  const histHtml = r.history.map(h =>
+    h.empty
+      ? `<div class="history-item empty"><span class="date">${h.date}</span><span class="text">（无感悟）</span></div>`
+      : `<div class="history-item"><span class="date">${h.date}</span><span class="text">${h.text}</span></div>`
+  ).join('');
+
+  document.getElementById('mBody').innerHTML = `
+    <div class="section">
+      <div class="section-title">当天成绩</div>
+      <div class="grid2">
+        <div class="stat-box"><div class="k">得分</div><div class="v">${r.score}</div></div>
+        <div class="stat-box"><div class="k">命中率</div><div class="v">${r.acc}<span class="unit">%</span></div></div>
+      </div>
+    </div>
+    <div class="section">
+      <div class="section-title">目标对比</div>
+      <div class="grid2">
+        <div class="stat-box"><div class="k">目标分</div><div class="v">${r.target}</div></div>
+        <div class="stat-box"><div class="k">命中率门槛</div><div class="v">${r.gate}</div></div>
+        <div class="stat-box next" style="grid-column:1/-1"><div class="k">下一档线</div><div class="v">${r.nextLine} <span class="unit">${r.nextRank}</span></div></div>
+      </div>
+    </div>
+    <div class="section">
+      <div class="section-title">今日感悟</div>
+      ${noteHtml}
+    </div>
+    <div class="section">
+      <div class="section-title">最近 3 天</div>
+      <div class="history-list">${histHtml}</div>
+    </div>
+  `;
+  document.getElementById('modalOverlay').classList.add('show');
+}
+
+function closeModal() {
+  document.getElementById('modalOverlay').classList.remove('show');
+}
+
+// 点击遮罩关闭
+document.getElementById('modalOverlay').addEventListener('click', e => {
+  if (e.target.id === 'modalOverlay') closeModal();
+});
+// ESC 关闭
+document.addEventListener('keydown', e => {
+  if (e.key === 'Escape') closeModal();
+});
+</script>
+</body>
+</html>

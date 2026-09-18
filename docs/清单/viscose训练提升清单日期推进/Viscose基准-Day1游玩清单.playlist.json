@@ -1,0 +1,43 @@
+{
+	"playlistName": "Viscose Day1 - 卡口双攻",
+	"playlistId": 900117,
+	"authorSteamId": "76561199835441317",
+	"authorName": "铎克",
+	"scenarioList": [
+		{
+			"scenario_name": "1w2ts reload smallflicks larger",
+			"play_Count": 2
+		},
+		{
+			"scenario_name": "ww5t Voltaic Slightly Larger",
+			"play_Count": 2
+		},
+		{
+			"scenario_name": "PGTI Voltaic Easy Smoother",
+			"play_Count": 3
+		},
+		{
+			"scenario_name": "Air CELESTIAL No UFO Easier",
+			"play_Count": 3
+		},
+		{
+			"scenario_name": "Pasu Voltaic Reload Easier",
+			"play_Count": 7
+		},
+		{
+			"scenario_name": "VT Bounceshot Viscose Easier",
+			"play_Count": 7
+		},
+		{
+			"scenario_name": "CatClick Easier",
+			"play_Count": 9
+		}
+	],
+	"description": "Day1（9/17）：热身手感 → 卡口A Blending（PGTI 696→700）→ 主项 Click Timing/Reading（命中率目标 75%）。关打击音效；每轮后自问\"是平滑贴上还是猛甩再修\"。",
+	"hasOfflineScenarios": false,
+	"hasEdited": true,
+	"shareCode": "",
+	"version": 31,
+	"updated": 1789572681,
+	"isPrivate": false
+}
