@@ -1,6 +1,6 @@
 {
-	"playlistName": "Viscose Day3 - 收割Ermine",
-	"playlistId": 900120,
+	"playlistName": "Viscose Day3 - 攻Fingertip",
+	"playlistId": 900121,
 	"authorSteamId": "76561199835441317",
 	"authorName": "铎克",
 	"scenarioList": [
@@ -13,27 +13,39 @@
 			"play_Count": 2
 		},
 		{
-			"scenario_name": "Whisphere Viscose Easier",
-			"play_Count": 8
+			"scenario_name": "cloverRawControl Viscose Easier 50cm",
+			"play_Count": 3
 		},
 		{
-			"scenario_name": "Air CELESTIAL No UFO Easier",
-			"play_Count": 6
+			"scenario_name": "cloverRawControl Viscose Easier 50cm",
+			"play_Count": 5
+		},
+		{
+			"scenario_name": "Flower Easier 50cm",
+			"play_Count": 4
+		},
+		{
+			"scenario_name": "Popcorn MV Easier",
+			"play_Count": 4
 		},
 		{
 			"scenario_name": "Controlsphere SuperbAim Viscose Easier",
-			"play_Count": 6
+			"play_Count": 4
+		},
+		{
+			"scenario_name": "Air CELESTIAL No UFO Easier",
+			"play_Count": 4
 		},
 		{
 			"scenario_name": "Pasu Voltaic Reload Easier",
-			"play_Count": 7
+			"play_Count": 4
 		}
 	],
-	"description": "Day3（9/20）：收割日——Arm(9400)+Blending(842)最后两个卡口，Wrist冲Puffin(6200)，Pasu维护。关打击音效；Whisphere默念变/减速。疲劳巩固：打完前6条后命中率最低的场景×4。",
+	"description": "Day3（9/21）：攻最弱子类Fingertip——主项=cloverRawControl×8+Flower×4；长期最弱项=Popcorn×4；收尾验收=Controlsphere×4+Air CELESTIAL×4。关打击音效；cloverRawControl前3轮校准不看分；Popcorn只练动作不看分。",
 	"hasOfflineScenarios": false,
 	"hasEdited": true,
 	"shareCode": "",
 	"version": 31,
-	"updated": 1789828800,
+	"updated": 1789915200,
 	"isPrivate": false
 }

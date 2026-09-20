@@ -1,0 +1,39 @@
+{
+	"playlistName": "Viscose Day3 - 收割Ermine",
+	"playlistId": 900120,
+	"authorSteamId": "76561199835441317",
+	"authorName": "铎克",
+	"scenarioList": [
+		{
+			"scenario_name": "1w2ts reload smallflicks larger",
+			"play_Count": 2
+		},
+		{
+			"scenario_name": "ww5t Voltaic Slightly Larger",
+			"play_Count": 2
+		},
+		{
+			"scenario_name": "Whisphere Viscose Easier",
+			"play_Count": 8
+		},
+		{
+			"scenario_name": "Air CELESTIAL No UFO Easier",
+			"play_Count": 6
+		},
+		{
+			"scenario_name": "Controlsphere SuperbAim Viscose Easier",
+			"play_Count": 6
+		},
+		{
+			"scenario_name": "Pasu Voltaic Reload Easier",
+			"play_Count": 7
+		}
+	],
+	"description": "Day3（9/20）：收割日——Arm(9400)+Blending(842)最后两个卡口，Wrist冲Puffin(6200)，Pasu维护。关打击音效；Whisphere默念变/减速。疲劳巩固：打完前6条后命中率最低的场景×4。",
+	"hasOfflineScenarios": false,
+	"hasEdited": true,
+	"shareCode": "",
+	"version": 31,
+	"updated": 1789828800,
+	"isPrivate": false
+}
