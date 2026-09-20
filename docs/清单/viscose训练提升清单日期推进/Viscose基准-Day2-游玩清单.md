@@ -1,5 +1,11 @@
 # Viscose Day2 · 本地游玩清单（9/19）
 
+> ✅ **已执行**：实际于 **2026-09-20 21:00–21:57** 完成（32 轮）→ 结果见 **`Viscose基准-Day2-执行结果.md`**
+> 一句话结果：4 个目标 2 个达标（Controlsphere 6,126 +35% / Pasu 48 达标）；三个卡口仍全部在 Hare，但 **Wrist 只差 74 分、Blending 只差 5.9 分**。
+>
+> ⚠️ **本清单里两条目标线取错了（下方已划正）**：第 4 条写的 `9400` 是 Whisphere 的 **Hare** 线（升 Ermine 实为 **10,300**）；第 5 条写的 `5100` 是 Controlsphere 的 **Hare** 线（升 Ermine 实为 **6,200**）。
+> 第 3 条 `842` 是对的。详见 `Viscose基准-Day2-执行结果.md` §二。
+
 > 基于 Day1（9/18）执行结果动态调整：原处方"卡口 B 复攻"已不需要（Reading 已跳 2 档到 Ermine）
 > 今日目标：**推 Ermine**（Blending + Arm + Wrist 各一格）+ Pasu 维护（提出手数）
 > 生成时间：2026-09-19 ｜ 共 **7 条 / 35 轮 / 约 45 分钟**
@@ -26,8 +32,8 @@
 | 1 | `1w2ts reload smallflicks larger` | ×2 | 热身 | 命中率 100%，纯校准手感 | ☐ |
 | 2 | `ww5t Voltaic Slightly Larger` | ×2 | 热身 | 命中率 97.9%，找回上靶再开火 | ☐ |
 | 3 | `Air CELESTIAL No UFO Easier` | ×4 | **卡口 Blending** | 836.1 → **842**（差 0.7%，几乎白送） | ☐ |
-| 4 | `Whisphere Viscose Easier` | ×8 | **卡口 Arm** | 9000 → **9400**（差 4.3%，降速稳住） | ☐ |
-| 5 | `Controlsphere SuperbAim Viscose Easier` | ×8 | **卡口 Wrist** | 4533 → **5100**（差 11.1%） | ☐ |
+| 4 | `Whisphere Viscose Easier` | ×8 | **卡口 Arm** | ~~9000 → 9400~~ → 实为 **10,300**（~~差 4.3%~~ 差 **14.4%**） | ☐ |
+| 5 | `Controlsphere SuperbAim Viscose Easier` | ×8 | **卡口 Wrist** | ~~4533 → 5100~~ → 实为 **6,200**（差 **36.8%**） | ☐ |
 | 6 | `Pasu Voltaic Reload Easier` | ×7 | **维护** | 保住 80% 命中率，出手数推回 55-60，目标 **46 分** | ☐ |
 | 7 | 今天命中率最低的场景 | ×4 | 疲劳巩固 | 练"累了也稳" | ☐ |
 
@@ -56,14 +62,14 @@ Air CELESTIAL Day1 最佳 836.1，目标 842。打法和 PGTI 一样：**把速�
 > **每一轮都问自己："我刚才是平滑地贴上目标，还是猛地甩过去再修？"**
 > → 是后者：还太快，继续降。
 
-| 场景 | 现在 | 目标 | 需要命中率 |
+| 场景 | 现在 | 目标（**更正后**） | 需要命中率 |
 | --- | --- | --- | --- |
-| Whisphere Viscose Easier | 9000 @ 30.5% | **9400** | 降速到 35%+ |
-| Controlsphere SuperbAim | 4533 @ 25.8% | **5100** | 降速到 30%+ |
+| Whisphere Viscose Easier | 9000 @ 30.5% | **10,300**（~~9400~~） | 降速到 35%+ |
+| Controlsphere SuperbAim | 4533 @ 25.8% | **6,200**（~~5100~~） | 降速到 30%+ |
 
-**为什么选这两个？**
-- Whisphere：Arm 子类里最便宜的升级线（4.3%，比 SmoothBot 的 9.2% 便宜一半）
-- SuperbAim：Wrist 子类里最便宜的升级线（11.1%，比 Leapstrafes 的 16.2% 便宜）
+**为什么选这两个？**（⚠️ 更正后：Whisphere 那条选错了，见文首）
+- Whisphere：~~Arm 子类里最便宜的升级线（4.3%）~~ → 实为 Arm 里**第二贵**（14.4%）；Arm 最便宜是 **SmoothBot Perfected 2,723.5 → 3,000（10.2%）**
+- SuperbAim：Wrist 子类里最便宜的升级线（~~11.1%~~ → 实为 36.8%，但仍优于 Leapstrafes 的 19.3%）
 
 ### 第 6 条（Pasu 维护，约 9 分钟）
 

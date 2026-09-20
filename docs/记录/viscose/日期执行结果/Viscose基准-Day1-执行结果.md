@@ -112,6 +112,13 @@ Bounceshot 和 CatClick 是**出手数不变、命中率大涨 → 分数跟着�
 
 ## 六、下一步：到 Ermine 只差 3 格
 
+> ### ⚠️ 更正（2026-09-20 补）
+> **本节下面的「Arm 备选 Whisphere 9000→9400」和「Wrist 备选 Controlsphere 4533→5100」两行取错线了。**
+> 这两个数字是场景**自己档位的下一档（Hare 线）**，不是子类别升级所需的 **Ermine 线**。
+> 正确数值见 → **`Viscose基准-Day2-执行结果.md` §二**：Whisphere 的 Ermine 线是 **10,300**、Controlsphere 是 **6,200**。
+> 本节表格里 **Air CELESTIAL 842 是正确的**（842 确实就是 Ermine 线）。
+> 该错误已导致 Day2 的两条目标线定错，但结果反而幸运：Controlsphere 实打到 6,126，**离真正的 Ermine 线只差 74 分**。
+
 按判档机制（总档位 = 14 子类里最低那档），**推到 Ermine 只需把这 3 个 Hare 子类各推一格**：
 
 | 子类 | 撑杆场景 | 当前 | 需要 | 差距 |
