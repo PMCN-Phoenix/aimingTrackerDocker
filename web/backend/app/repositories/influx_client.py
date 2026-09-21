@@ -62,5 +62,20 @@ class InfluxDBClient:
         return results
 
 
+    def write(self, line_protocol: str) -> bool:
+        """写入 Line Protocol 数据"""
+        url = f"{self.url}/api/v2/write?org={self.org}&bucket={self.bucket}"
+        req = urllib.request.Request(
+            url,
+            data=line_protocol.encode("utf-8"),
+            method="POST"
+        )
+        req.add_header("Authorization", f"Token {self.token}")
+        req.add_header("Content-Type", "text/plain")
+
+        with urllib.request.urlopen(req, timeout=30) as response:
+            return response.status == 204
+
+
 # 全局客户端实例
 db = InfluxDBClient()

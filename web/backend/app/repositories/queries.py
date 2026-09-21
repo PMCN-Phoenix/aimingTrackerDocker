@@ -107,6 +107,32 @@ from(bucket: "{db.bucket}")
     return result
 
 
+def create_reflection(scenario: str, note: str, daylist: str = None) -> Dict[str, Any]:
+    """新增一条感悟"""
+    import time
+    ts = int(time.time())
+    
+    # 构建 Line Protocol
+    tags = f"scenario={scenario}"
+    if daylist:
+        tags += f",daylist={daylist}"
+    
+    # 转义感悟里的逗号和空格
+    note_escaped = note.replace(',', '\\,').replace(' ', '\\ ')
+    
+    line = f"aim_reflection,{tags} note=\"{note_escaped}\" {ts * 1000000000}"
+    
+    # 写入 InfluxDB
+    db.write(line)
+    
+    return {
+        "scenario": scenario,
+        "note": note,
+        "daylist": daylist,
+        "time": ts
+    }
+
+
 # ==================== aim_daylist 查询 ====================
 
 def get_daylist_rows(daylist: str) -> List[Dict[str, Any]]:

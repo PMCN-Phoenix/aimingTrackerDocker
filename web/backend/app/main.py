@@ -244,3 +244,20 @@ async def get_bench_groups(
         return ApiResponse(code=0, data=data)
     except Exception as e:
         return ApiResponse(code=500, message=str(e))
+
+
+# ==================== 感悟接口 ====================
+
+class ReflectionCreate(BaseModel):
+    scenario: str
+    note: str
+    daylist: Optional[str] = None
+
+@app.post("/api/reflections", response_model=ApiResponse)
+async def create_reflection(reflection: ReflectionCreate):
+    """新增一条感悟"""
+    try:
+        data = queries.create_reflection(reflection.scenario, reflection.note, reflection.daylist)
+        return ApiResponse(code=0, data=data)
+    except Exception as e:
+        return ApiResponse(code=500, message=str(e))
