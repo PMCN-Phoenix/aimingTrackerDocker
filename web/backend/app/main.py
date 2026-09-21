@@ -1,7 +1,10 @@
 # -*- coding: utf-8 -*-
 """FastAPI 后端主程序"""
+import os
 from fastapi import FastAPI, Query
 from fastapi.middleware.cors import CORSMiddleware
+from fastapi.staticfiles import StaticFiles
+from fastapi.responses import FileResponse
 from typing import Optional
 from pydantic import BaseModel
 
@@ -318,3 +321,29 @@ async def get_aimlab_task_history(
         return ApiResponse(code=0, data=data)
     except Exception as e:
         return ApiResponse(code=500, message=str(e))
+
+
+# ==================== 生产模式：前端静态文件服务 ====================
+
+# 前端 dist 目录路径
+frontend_dist = os.path.join(
+    os.path.dirname(os.path.dirname(os.path.dirname(os.path.dirname(__file__)))),
+    "frontend", "dist"
+)
+
+if os.path.exists(frontend_dist):
+    # 挂载静态资源（JS/CSS/图片等）
+    assets_dir = os.path.join(frontend_dist, "assets")
+    if os.path.exists(assets_dir):
+        app.mount("/assets", StaticFiles(directory=assets_dir), name="assets")
+    
+    # SPA 路由：所有非 API 请求都返回 index.html
+    @app.get("/{full_path:path}")
+    async def serve_frontend(full_path: str):
+        # API 请求已经被上面的路由处理了，这里只处理前端路由
+        if full_path.startswith("api/"):
+            return {"detail": "Not Found"}
+        index_path = os.path.join(frontend_dist, "index.html")
+        if os.path.exists(index_path):
+            return FileResponse(index_path)
+        return {"detail": "Frontend not built"}
