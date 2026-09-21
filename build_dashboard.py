@@ -983,8 +983,12 @@ def build_d():
                      '  |> keep(columns: ["_time", "_value", "scenario"]) |> sort(columns: ["_value"])\n'
                      '  |> map(fn: (r) => ({ r with _value: r.scenario })) |> keep(columns: ["_value"])')
     rundate_var_flux = ('from(bucket: "aim") |> range(start: -1y, stop: 2d)\n'
-                        '  |> filter(fn: (r) => r._measurement == "aim_daylist_meta" and r._field == "run_date" and r.daylist == "$day")\n'
+                        '  |> filter(fn: (r) => r._measurement == "aim_daylist_meta" and r._field == "start_ts" and r.daylist == "$day")\n'
                         '  |> keep(columns: ["_time", "_value"])')
+
+    rundate_end_var_flux = ('from(bucket: "aim") |> range(start: -1y, stop: 2d)\n'
+                            '  |> filter(fn: (r) => r._measurement == "aim_daylist_meta" and r._field == "end_ts" and r.daylist == "$day")\n'
+                            '  |> keep(columns: ["_time", "_value"])')
 
     diag = "--diag" in sys.argv
     templating = {"list": [
@@ -994,17 +998,19 @@ def build_d():
         {"name": "scenario", "label": "场景", "type": "query", "datasource": DS, "query": scen_var_flux,
          "refresh": 2, "sort": 0, "hide": 0 if diag else 2, "includeAll": False, "multi": True,
          "options": [], "current": {"selected": True, "text": _SC, "value": _SC}},
-        {"name": "rundate", "label": "清单日", "type": "query", "datasource": DS, "query": rundate_var_flux,
-         "refresh": 2, "sort": 0, "hide": 0 if diag else 2, "includeAll": False, "multi": False,
+        {"name": "rundate", "label": "清单开始", "type": "query", "datasource": DS, "query": rundate_var_flux,
+         "refresh": 2, "sort": 0, "hide": 2, "includeAll": False, "multi": False,
+         "options": [], "current": {}},
+        {"name": "rundate_end", "label": "清单结束", "type": "query", "datasource": DS, "query": rundate_end_var_flux,
+         "refresh": 2, "sort": 0, "hide": 2, "includeAll": False, "multi": False,
          "options": [], "current": {}},
     ]}
 
     day_json_flux = ('from(bucket: "aim") |> range(start: -1y, stop: 2d)\n'
                      '  |> filter(fn: (r) => r._measurement == "aim_daylist" and r._field == "rowJson" and r.daylist == "$day")\n'
                      '  |> keep(columns: ["_time", "_value"])')
-    count_flux = ('_rd = "${rundate}"\n'
-                  '_cs = if _rd == "" then v.timeRangeStart else time(v: _rd + "T00:00:00+08:00")\n'
-                  '_ce = if _rd == "" then v.timeRangeStop else time(v: _rd + "T23:59:59+08:00")\n'
+    count_flux = ('_cs = time(v: int(v: "${rundate}") * 1000000000)\n'
+                  '_ce = time(v: int(v: "${rundate_end}") * 1000000000)\n'
                   'from(bucket: "aim")\n'
                   '  |> range(start: _cs, stop: _ce)\n'
                   '  |> filter(fn: (r) => r._measurement == "aim_scenario" and r._field == "score" and r.list == "viscose-s2-easier")\n'
@@ -1016,9 +1022,8 @@ def build_d():
                        '  |> keep(columns: ["_time", "_value", "scenario", "daylist"])')
 
     # 当天成绩（refId D）：aim_scenario 当天 score / accuracy 的 max
-    today_score_flux = ('_rd = "${rundate}"\n'
-                        '_cs = if _rd == "" then v.timeRangeStart else time(v: _rd + "T00:00:00+08:00")\n'
-                        '_ce = if _rd == "" then v.timeRangeStop else time(v: _rd + "T23:59:59+08:00")\n'
+    today_score_flux = ('_cs = time(v: int(v: "${rundate}") * 1000000000)\n'
+                        '_ce = time(v: int(v: "${rundate_end}") * 1000000000)\n'
                         'from(bucket: "aim")\n'
                         '  |> range(start: _cs, stop: _ce)\n'
                         '  |> filter(fn: (r) => r._measurement == "aim_scenario" and (r._field == "score" or r._field == "accuracy") and r.list == "viscose-s2-easier")\n'

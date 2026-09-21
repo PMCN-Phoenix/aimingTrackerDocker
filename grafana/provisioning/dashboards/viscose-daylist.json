@@ -74,26 +74,30 @@
           "text": [
             "1w2ts reload smallflicks larger",
             "ww5t Voltaic Slightly Larger",
-            "Controlsphere SuperbAim Viscose Easier",
-            "Air CELESTIAL No UFO Easier",
             "PGTI Voltaic Easy Smoother",
+            "Air CELESTIAL No UFO Easier",
             "Whisphere Viscose Easier",
+            "cloverRawControl Viscose Easier 50cm",
+            "Controlsphere SuperbAim Viscose Easier",
+            "Flower Easier 50cm",
             "Pasu Voltaic Reload Easier",
-            "SmoothBot Perfected Easier",
             "VT Bounceshot Viscose Easier",
+            "Popcorn MV Easier",
             "今天命中率最低的场景",
             "CatClick Easier"
           ],
           "value": [
             "1w2ts reload smallflicks larger",
             "ww5t Voltaic Slightly Larger",
-            "Controlsphere SuperbAim Viscose Easier",
-            "Air CELESTIAL No UFO Easier",
             "PGTI Voltaic Easy Smoother",
+            "Air CELESTIAL No UFO Easier",
             "Whisphere Viscose Easier",
+            "cloverRawControl Viscose Easier 50cm",
+            "Controlsphere SuperbAim Viscose Easier",
+            "Flower Easier 50cm",
             "Pasu Voltaic Reload Easier",
-            "SmoothBot Perfected Easier",
             "VT Bounceshot Viscose Easier",
+            "Popcorn MV Easier",
             "今天命中率最低的场景",
             "CatClick Easier"
           ]
@@ -101,13 +105,30 @@
       },
       {
         "name": "rundate",
-        "label": "清单日",
+        "label": "清单开始",
         "type": "query",
         "datasource": {
           "type": "influxdb",
           "uid": "influxdb-aim"
         },
-        "query": "from(bucket: \"aim\") |> range(start: -1y, stop: 2d)\n  |> filter(fn: (r) => r._measurement == \"aim_daylist_meta\" and r._field == \"run_date\" and r.daylist == \"$day\")\n  |> keep(columns: [\"_time\", \"_value\"])",
+        "query": "from(bucket: \"aim\") |> range(start: -1y, stop: 2d)\n  |> filter(fn: (r) => r._measurement == \"aim_daylist_meta\" and r._field == \"start_ts\" and r.daylist == \"$day\")\n  |> keep(columns: [\"_time\", \"_value\"])",
+        "refresh": 2,
+        "sort": 0,
+        "hide": 2,
+        "includeAll": false,
+        "multi": false,
+        "options": [],
+        "current": {}
+      },
+      {
+        "name": "rundate_end",
+        "label": "清单结束",
+        "type": "query",
+        "datasource": {
+          "type": "influxdb",
+          "uid": "influxdb-aim"
+        },
+        "query": "from(bucket: \"aim\") |> range(start: -1y, stop: 2d)\n  |> filter(fn: (r) => r._measurement == \"aim_daylist_meta\" and r._field == \"end_ts\" and r.daylist == \"$day\")\n  |> keep(columns: [\"_time\", \"_value\"])",
         "refresh": 2,
         "sort": 0,
         "hide": 2,
@@ -153,7 +174,7 @@
             "type": "influxdb",
             "uid": "influxdb-aim"
           },
-          "query": "option location = {zone: \"Asia/Shanghai\", offset: 8h}\n_rd = \"${rundate}\"\n_cs = if _rd == \"\" then v.timeRangeStart else time(v: _rd + \"T00:00:00+08:00\")\n_ce = if _rd == \"\" then v.timeRangeStop else time(v: _rd + \"T23:59:59+08:00\")\nfrom(bucket: \"aim\")\n  |> range(start: _cs, stop: _ce)\n  |> filter(fn: (r) => r._measurement == \"aim_scenario\" and r._field == \"score\" and r.list == \"viscose-s2-easier\")\n  |> group(columns: [\"scenario\"]) |> count()",
+          "query": "option location = {zone: \"Asia/Shanghai\", offset: 8h}\n_cs = time(v: int(v: \"${rundate}\") * 1000000000)\n_ce = time(v: int(v: \"${rundate_end}\") * 1000000000)\nfrom(bucket: \"aim\")\n  |> range(start: _cs, stop: _ce)\n  |> filter(fn: (r) => r._measurement == \"aim_scenario\" and r._field == \"score\" and r.list == \"viscose-s2-easier\")\n  |> group(columns: [\"scenario\"]) |> count()",
           "hide": false
         },
         {
@@ -171,7 +192,7 @@
             "type": "influxdb",
             "uid": "influxdb-aim"
           },
-          "query": "option location = {zone: \"Asia/Shanghai\", offset: 8h}\n_rd = \"${rundate}\"\n_cs = if _rd == \"\" then v.timeRangeStart else time(v: _rd + \"T00:00:00+08:00\")\n_ce = if _rd == \"\" then v.timeRangeStop else time(v: _rd + \"T23:59:59+08:00\")\nfrom(bucket: \"aim\")\n  |> range(start: _cs, stop: _ce)\n  |> filter(fn: (r) => r._measurement == \"aim_scenario\" and (r._field == \"score\" or r._field == \"accuracy\") and r.list == \"viscose-s2-easier\")\n  |> group(columns: [\"scenario\", \"_field\"]) |> max()",
+          "query": "option location = {zone: \"Asia/Shanghai\", offset: 8h}\n_cs = time(v: int(v: \"${rundate}\") * 1000000000)\n_ce = time(v: int(v: \"${rundate_end}\") * 1000000000)\nfrom(bucket: \"aim\")\n  |> range(start: _cs, stop: _ce)\n  |> filter(fn: (r) => r._measurement == \"aim_scenario\" and (r._field == \"score\" or r._field == \"accuracy\") and r.list == \"viscose-s2-easier\")\n  |> group(columns: [\"scenario\", \"_field\"]) |> max()",
           "hide": false
         },
         {

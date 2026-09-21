@@ -184,12 +184,19 @@ def main():
     for p in paths:
         d = parse_file(p)
         ov = overrides.get(d["daylist"])
+        # 处理 exec_dates：支持单日字符串或多日列表
         if ov:
-            y, m, dd = (int(x) for x in ov.split("-"))
+            if isinstance(ov, list):
+                exec_dates = ov
+                first = ov[0]
+            else:
+                exec_dates = [ov]
+                first = ov
+            y, m, dd = (int(x) for x in first.split("-"))
             d["run_date"] = datetime.date(y, m, dd)
+        else:
+            exec_dates = [d["run_date"].isoformat()]
         # 时间戳 = 清单生效日 00:00（本地时区）——**必须稳定**，否则重跑会产生重复点位。
-        # 若清单日期是"明天"，该点会落在 Grafana 默认时间范围之外，
-        # 因此看板 D 的默认时间范围设为 now-2d → now+1d（见产品设计文档）。
         ts = int(datetime.datetime(d["run_date"].year, d["run_date"].month, d["run_date"].day,
                                    tzinfo=TZ).timestamp())
         total_rounds = sum(i["rounds"] for i in d["items"])
@@ -203,6 +210,7 @@ def main():
                 fields.append("target_acc=%g" % i["target_acc"])
             # 整行打包成 JSON 字符串（给看板 D 的自绘面板用，避免 tag 列把数据拆成多帧）
             row = {"daylist": d["daylist"], "label": d["label"], "run_date": d["run_date"].isoformat(),
+                   "exec_dates": exec_dates,
                    "order": i["order"], "scenario": i["scenario"], "role": i["role"],
                    "rounds": i["rounds"], "target_score": i["target_score"], "target_acc": i["target_acc"]}
             js = json.dumps(row, ensure_ascii=False).replace("\\", "\\\\").replace('"', '\\"')
@@ -210,9 +218,15 @@ def main():
             lines.append("aim_daylist,daylist=%s,scenario=%s,role=%s %s %d"
                          % (esc(d["daylist"]), esc(i["scenario"]), esc(i["role"]),
                             ",".join(fields), ts))
-        lines.append("aim_daylist_meta,daylist=%s,label=%s items=%d,rounds_total=%d,run_date=\"%s\" %d"
+        # 计算 start_ts 和 end_ts（本地时区，第一天 00:00 到最后一天 23:59:59）
+        first_y, first_m, first_d = (int(x) for x in exec_dates[0].split("-"))
+        last_y, last_m, last_d = (int(x) for x in exec_dates[-1].split("-"))
+        start_ts = int(datetime.datetime(first_y, first_m, first_d, 0, 0, 0, tzinfo=TZ).timestamp())
+        end_ts = int(datetime.datetime(last_y, last_m, last_d, 23, 59, 59, tzinfo=TZ).timestamp())
+        exec_dates_str = ",".join(exec_dates)
+        lines.append("aim_daylist_meta,daylist=%s,label=%s items=%d,rounds_total=%d,run_date=\"%s\",exec_dates=\"%s\",start_ts=%d,end_ts=%d %d"
                      % (esc(d["daylist"]), esc(d["label"]), len(d["items"]), total_rounds,
-                        d["run_date"].isoformat(), ts))
+                        d["run_date"].isoformat(), exec_dates_str, start_ts, end_ts, ts))
 
     if "--list" in sys.argv:
         print(json.dumps(summary, ensure_ascii=False, indent=2))
