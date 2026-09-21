@@ -3,6 +3,7 @@ import { QueryClient, QueryClientProvider } from '@tanstack/react-query'
 import { ConfigProvider, Layout, Menu } from 'antd'
 import DaylistDashboard from './pages/DaylistDashboard'
 import BenchmarkDashboard from './pages/BenchmarkDashboard'
+import AimLabDashboard from './pages/AimLabDashboard'
 import './App.css'
 
 const { Header, Content } = Layout
@@ -47,6 +48,7 @@ function App() {
                 items={[
                   { key: 'daylist', label: <Link to="/daylist/Day3">今日清单</Link> },
                   { key: 'benchmark', label: <Link to="/benchmark">基准总览</Link> },
+                  { key: 'aimlab', label: <Link to="/aimlab">Aim Lab</Link> },
                 ]}
               />
             </Header>
@@ -55,6 +57,7 @@ function App() {
                 <Route path="/" element={<Navigate to="/daylist/Day3" replace />} />
                 <Route path="/daylist/:daylistId" element={<DaylistDashboard />} />
                 <Route path="/benchmark" element={<BenchmarkDashboard />} />
+                <Route path="/aimlab" element={<AimLabDashboard />} />
               </Routes>
             </Content>
           </Layout>
