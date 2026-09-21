@@ -1,0 +1,51 @@
+{
+	"playlistName": "Viscose Day4 - 攻Arm",
+	"playlistId": 900122,
+	"authorSteamId": "76561199835441317",
+	"authorName": "铎克",
+	"scenarioList": [
+		{
+			"scenario_name": "1w2ts reload smallflicks larger",
+			"play_Count": 2
+		},
+		{
+			"scenario_name": "ww5t Voltaic Slightly Larger",
+			"play_Count": 2
+		},
+		{
+			"scenario_name": "SmoothBot Perfected Easier",
+			"play_Count": 3
+		},
+		{
+			"scenario_name": "SmoothBot Perfected Easier",
+			"play_Count": 5
+		},
+		{
+			"scenario_name": "Smoothsphere Viscose Easier",
+			"play_Count": 4
+		},
+		{
+			"scenario_name": "Popcorn MV Easier",
+			"play_Count": 4
+		},
+		{
+			"scenario_name": "Flower Easier 50cm",
+			"play_Count": 4
+		},
+		{
+			"scenario_name": "Pasu Voltaic Reload Easier",
+			"play_Count": 4
+		},
+		{
+			"scenario_name": "Air CELESTIAL No UFO Easier",
+			"play_Count": 1
+		}
+	],
+	"description": "Day4（9/22）：攻最弱子类Arm——主项=SmoothBot×8+Smoothsphere×4；长期最弱项=Popcorn×4；保持=Flower×4；维护=Pasu×4；收尾验收=Air CELESTIAL×1。关打击音效；SmoothBot前3轮校准不看分；Popcorn只练动作不看分。",
+	"hasOfflineScenarios": false,
+	"hasEdited": true,
+	"shareCode": "",
+	"version": 31,
+	"updated": 1790001600,
+	"isPrivate": false
+}
