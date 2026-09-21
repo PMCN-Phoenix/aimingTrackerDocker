@@ -300,3 +300,70 @@ def get_bench_groups(list_name: str = "viscose-s2-easier") -> Dict[str, Any]:
         "rank_distribution": rank_distribution,
         "total": len(scenarios)
     }
+
+
+# ==================== Aim Lab 查询 ====================
+
+def get_aimlab_tasks() -> List[Dict[str, Any]]:
+    """查所有 Aim Lab 任务的最佳成绩"""
+    flux = f'''
+from(bucket: "{db.bucket}")
+  |> range(start: -90d)
+  |> filter(fn: (r) => r._measurement == "aimlab_task")
+  |> filter(fn: (r) => r._field == "score" or r._field == "accuracy")
+  |> keep(columns: ["_time", "_value", "_field", "task"])
+  |> group(columns: ["task", "_field"])
+  |> max()
+'''
+    rows = db.query(flux)
+    
+    # 按任务分组
+    tasks = {}
+    for row in rows:
+        task = row.get("task", "未知")
+        if task not in tasks:
+            tasks[task] = {
+                "task": task,
+                "best_score": None,
+                "best_accuracy": None,
+            }
+        field = row.get("_field")
+        value = row.get("_value")
+        if field == "score":
+            tasks[task]["best_score"] = float(value) if value else None
+        elif field == "accuracy":
+            tasks[task]["best_accuracy"] = float(value) if value else None
+    
+    return list(tasks.values())
+
+
+def get_aimlab_task_history(task: str, days: int = 30) -> List[Dict[str, Any]]:
+    """查某个 Aim Lab 任务的历史成绩"""
+    flux = f'''
+from(bucket: "{db.bucket}")
+  |> range(start: -{days}d)
+  |> filter(fn: (r) => r._measurement == "aimlab_task" and r.task == "{task}")
+  |> filter(fn: (r) => r._field == "score" or r._field == "accuracy")
+  |> keep(columns: ["_time", "_value", "_field", "task"])
+  |> sort(columns: ["_time"])
+'''
+    rows = db.query(flux)
+    
+    # 按时间分组，把 score 和 accuracy 放一起
+    history = {}
+    for row in rows:
+        time = row.get("_time")
+        if time not in history:
+            history[time] = {
+                "time": time,
+                "score": None,
+                "accuracy": None,
+            }
+        field = row.get("_field")
+        value = row.get("_value")
+        if field == "score":
+            history[time]["score"] = float(value) if value else None
+        elif field == "accuracy":
+            history[time]["accuracy"] = float(value) if value else None
+    
+    return list(history.values())

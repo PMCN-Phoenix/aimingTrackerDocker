@@ -53,3 +53,12 @@ export function createReflection(data) {
       return json.data
     })
 }
+
+// Aim Lab 相关
+export function getAimlabTasks() {
+  return request('/aimlab/tasks')
+}
+
+export function getAimlabTaskHistory(task, days = 30) {
+  return request(`/aimlab/tasks/${encodeURIComponent(task)}/history?days=${days}`)
+}

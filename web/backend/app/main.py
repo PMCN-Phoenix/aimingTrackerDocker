@@ -293,3 +293,28 @@ async def update_data():
             return ApiResponse(code=500, message=result.stderr)
     except Exception as e:
         return ApiResponse(code=500, message=str(e))
+
+
+# ==================== Aim Lab 接口 ====================
+
+@app.get("/api/aimlab/tasks", response_model=ApiResponse)
+async def get_aimlab_tasks():
+    """获取所有 Aim Lab 任务列表"""
+    try:
+        data = queries.get_aimlab_tasks()
+        return ApiResponse(code=0, data=data)
+    except Exception as e:
+        return ApiResponse(code=500, message=str(e))
+
+
+@app.get("/api/aimlab/tasks/{task}/history", response_model=ApiResponse)
+async def get_aimlab_task_history(
+    task: str,
+    days: int = Query(30)
+):
+    """获取某个 Aim Lab 任务的历史成绩"""
+    try:
+        data = queries.get_aimlab_task_history(task, days)
+        return ApiResponse(code=0, data=data)
+    except Exception as e:
+        return ApiResponse(code=500, message=str(e))
