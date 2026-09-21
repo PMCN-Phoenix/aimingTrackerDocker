@@ -2,9 +2,10 @@ import { Modal, Spin } from 'antd'
 import { useQuery } from '@tanstack/react-query'
 import { getScenarioPopup } from '../api/client'
 import ReflectionList from './ReflectionList'
+import ReflectionForm from './ReflectionForm'
 import HistoryChart from './HistoryChart'
 
-export default function ScenarioPopup({ scenario, visible, onClose }) {
+export default function ScenarioPopup({ scenario, visible, onClose, daylist }) {
   // 获取弹窗数据
   const { data: popupData, isLoading } = useQuery({
     queryKey: ['scenarioPopup', scenario],
@@ -59,6 +60,8 @@ export default function ScenarioPopup({ scenario, visible, onClose }) {
           <div>
             <h3>历史感悟</h3>
             <ReflectionList reflections={popupData.reflections || []} />
+            {/* 写入感悟 */}
+            <ReflectionForm scenario={scenario} daylist={daylist} />
           </div>
         </div>
       ) : (

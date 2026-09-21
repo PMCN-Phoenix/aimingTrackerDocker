@@ -36,3 +36,20 @@ export function getBenchGroups(list = 'viscose-s2-easier') {
 export function getBenchScenarios(list = 'viscose-s2-easier') {
   return request(`/bench/scenarios?list=${encodeURIComponent(list)}`)
 }
+
+// 感悟相关
+export function createReflection(data) {
+  return fetch(`${BASE_URL}/reflections`, {
+    method: 'POST',
+    headers: {
+      'Content-Type': 'application/json',
+    },
+    body: JSON.stringify(data),
+  }).then(res => res.json())
+    .then(json => {
+      if (json.code !== 0) {
+        throw new Error(json.message || '保存失败')
+      }
+      return json.data
+    })
+}
