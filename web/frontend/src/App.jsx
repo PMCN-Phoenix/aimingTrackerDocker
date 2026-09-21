@@ -4,6 +4,7 @@ import { ConfigProvider, Layout, Menu } from 'antd'
 import DaylistDashboard from './pages/DaylistDashboard'
 import BenchmarkDashboard from './pages/BenchmarkDashboard'
 import AimLabDashboard from './pages/AimLabDashboard'
+import UpdateDataButton from './components/UpdateDataButton'
 import './App.css'
 
 const { Header, Content } = Layout
@@ -51,6 +52,7 @@ function App() {
                   { key: 'aimlab', label: <Link to="/aimlab">Aim Lab</Link> },
                 ]}
               />
+              <UpdateDataButton />
             </Header>
             <Content style={{ padding: '24px', maxWidth: '1400px', width: '100%', margin: '0 auto' }}>
               <Routes>

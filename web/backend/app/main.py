@@ -261,3 +261,35 @@ async def create_reflection(reflection: ReflectionCreate):
         return ApiResponse(code=0, data=data)
     except Exception as e:
         return ApiResponse(code=500, message=str(e))
+
+
+# ==================== 数据更新接口 ====================
+
+@app.post("/api/data/update", response_model=ApiResponse)
+async def update_data():
+    """触发数据更新"""
+    try:
+        import subprocess
+        import os
+        
+        # 项目根目录
+        root_dir = os.path.dirname(os.path.dirname(os.path.dirname(os.path.dirname(__file__))))
+        
+        # 执行更新脚本
+        result = subprocess.run(
+            ["python", "update_all.py"],
+            cwd=root_dir,
+            capture_output=True,
+            text=True,
+            timeout=300
+        )
+        
+        if result.returncode == 0:
+            return ApiResponse(code=0, data={
+                "status": "success",
+                "output": result.stdout
+            })
+        else:
+            return ApiResponse(code=500, message=result.stderr)
+    except Exception as e:
+        return ApiResponse(code=500, message=str(e))
