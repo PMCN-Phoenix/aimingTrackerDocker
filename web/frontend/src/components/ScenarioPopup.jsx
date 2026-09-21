@@ -5,19 +5,13 @@ import ReflectionList from './ReflectionList'
 import ReflectionForm from './ReflectionForm'
 import HistoryChart from './HistoryChart'
 
-export default function ScenarioPopup({ scenario, visible, onClose, daylist }) {
-  // 获取弹窗数据
+export default function ScenarioPopup({ scenario, visible, onClose, daylist, startTs, endTs }) {
+  // 获取弹窗数据（优化版：一个接口拿所有数据）
   const { data: popupData, isLoading } = useQuery({
-    queryKey: ['scenarioPopup', scenario],
-    queryFn: () => getScenarioPopup(scenario, 1789920000, 1790006399),
-    enabled: visible && !!scenario,
-  })
-
-  // 获取历史曲线数据
-  const { data: historyData, isLoading: historyLoading } = useQuery({
-    queryKey: ['scenarioHistory', scenario],
-    queryFn: () => import('../api/client').then(m => m.getScenarioHistory(scenario, 30)),
-    enabled: visible && !!scenario,
+    queryKey: ['scenarioPopup', scenario, startTs, endTs],
+    queryFn: () => getScenarioPopup(scenario, startTs, endTs),
+    enabled: visible && !!scenario && !!startTs && !!endTs,
+    staleTime: 5 * 60 * 1000, // 缓存 5 分钟，第二次打开秒开
   })
 
   return (
@@ -29,7 +23,9 @@ export default function ScenarioPopup({ scenario, visible, onClose, daylist }) {
       width={700}
     >
       {isLoading ? (
-        <Spin />
+        <div style={{ textAlign: 'center', padding: '50px' }}>
+          <Spin size="large" />
+        </div>
       ) : popupData ? (
         <div>
           {/* 当天成绩 */}
@@ -50,9 +46,9 @@ export default function ScenarioPopup({ scenario, visible, onClose, daylist }) {
           <div style={{ marginBottom: '24px' }}>
             <h3>历史趋势（最近30天）</h3>
             <HistoryChart 
-              data={historyData} 
+              data={popupData.history || []} 
               nextLine={popupData.bench?.nextLine}
-              loading={historyLoading}
+              loading={false}
             />
           </div>
 

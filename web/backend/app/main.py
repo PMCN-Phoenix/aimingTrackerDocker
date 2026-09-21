@@ -195,7 +195,7 @@ async def get_scenario_popup(
     end_ts: int = Query(...),
     list: str = Query("viscose-s2-easier")
 ):
-    """获取感悟弹窗的完整数据"""
+    """获取感悟弹窗的完整数据（优化版：合并所有数据到一个接口）"""
     try:
         # 1. 当天成绩
         score = queries.get_scenario_best(scenario, start_ts, end_ts, list)
@@ -206,11 +206,15 @@ async def get_scenario_popup(
         # 3. 历史感悟
         reflections = queries.get_scenario_reflections(scenario, 30)
 
+        # 4. 历史曲线数据（合并到 popup 接口，减少 HTTP 请求）
+        history = queries.get_scenario_history(scenario, 30, list)
+
         data = {
             "scenario": scenario,
             "today_score": score,
             "bench": bench,
-            "reflections": reflections
+            "reflections": reflections,
+            "history": history
         }
         return ApiResponse(code=0, data=data)
     except Exception as e:
