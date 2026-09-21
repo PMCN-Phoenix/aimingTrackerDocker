@@ -218,3 +218,29 @@ async def get_scenario_popup(
 @app.get("/api/health")
 async def health_check():
     return {"status": "ok"}
+
+
+# ==================== 基准总览接口 ====================
+
+@app.get("/api/bench/scenarios", response_model=ApiResponse)
+async def get_bench_scenarios(
+    list: str = Query("viscose-s2-easier")
+):
+    """获取某个清单下所有场景的基准数据"""
+    try:
+        data = queries.get_all_bench_scenarios(list)
+        return ApiResponse(code=0, data=data)
+    except Exception as e:
+        return ApiResponse(code=500, message=str(e))
+
+
+@app.get("/api/bench/groups", response_model=ApiResponse)
+async def get_bench_groups(
+    list: str = Query("viscose-s2-easier")
+):
+    """获取基准总览的分组数据（4 大类 14 子类）"""
+    try:
+        data = queries.get_bench_groups(list)
+        return ApiResponse(code=0, data=data)
+    except Exception as e:
+        return ApiResponse(code=500, message=str(e))

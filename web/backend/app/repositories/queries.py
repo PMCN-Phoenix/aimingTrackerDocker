@@ -202,3 +202,75 @@ from(bucket: "{db.bucket}")
         elif field in ["rank", "sub", "subRank"]:
             result[field] = value
     return result
+
+
+# ==================== 基准总览查询 ====================
+
+def get_all_bench_scenarios(list_name: str = "viscose-s2-easier") -> List[Dict[str, Any]]:
+    """查某个清单下所有场景的基准数据"""
+    flux = f'''
+from(bucket: "{db.bucket}")
+  |> range(start: -30d)
+  |> filter(fn: (r) => r._measurement == "aim_bench_row" and r.list == "{list_name}")
+  |> keep(columns: ["_value", "_field", "scenario", "cat", "sub"])
+'''
+    rows = db.query(flux)
+    # 按场景分组
+    scenarios = {}
+    for row in rows:
+        scenario = row.get("scenario")
+        if scenario not in scenarios:
+            scenarios[scenario] = {
+                "scenario": scenario,
+                "cat": row.get("cat"),
+                "sub": row.get("sub"),
+                "nextLine": None,
+                "pct": None,
+                "gapPct": None,
+                "achIdx": None,
+                "rank": None,
+                "subRank": None
+            }
+        field = row.get("_field")
+        value = row.get("_value")
+        if field in ["nextLine", "pct", "gapPct", "achIdx"]:
+            try:
+                scenarios[scenario][field] = float(value)
+            except:
+                scenarios[scenario][field] = value
+        elif field in ["rank", "subRank"]:
+            try:
+                scenarios[scenario][field] = int(float(value))
+            except:
+                scenarios[scenario][field] = value
+    return list(scenarios.values())
+
+
+def get_bench_groups(list_name: str = "viscose-s2-easier") -> Dict[str, Any]:
+    """查基准总览的分组数据（4 大类 14 子类）"""
+    scenarios = get_all_bench_scenarios(list_name)
+    
+    # 按大类和子类分组
+    groups = {}
+    for scn in scenarios:
+        cat = scn.get("cat", "未分类")
+        sub = scn.get("sub", "未分类")
+        if cat not in groups:
+            groups[cat] = {}
+        if sub not in groups[cat]:
+            groups[cat][sub] = []
+        groups[cat][sub].append(scn)
+    
+    # 计算档位分布
+    rank_distribution = {}
+    for scn in scenarios:
+        rank = scn.get("rank", 0)
+        if rank not in rank_distribution:
+            rank_distribution[rank] = 0
+        rank_distribution[rank] += 1
+    
+    return {
+        "groups": groups,
+        "rank_distribution": rank_distribution,
+        "total": len(scenarios)
+    }
