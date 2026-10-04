@@ -1,0 +1,23 @@
+{
+	"playlistName": "Day6 Extra - VT摸底+冲卡口",
+	"playlistId": 900125,
+	"authorSteamId": "76561199835441317",
+	"authorName": "铎克",
+	"scenarioList": [
+		{
+			"scenario_name": "VT Controlsphere Viscose Easier",
+			"play_Count": 4
+		},
+		{
+			"scenario_name": "Air CELESTIAL No UFO Easier",
+			"play_Count": 2
+		}
+	],
+	"description": "Day6 加练（10/04）：VT Controlsphere 摸底×4（Wrist子类空白项，前2轮校准不看分）+ Air CELESTIAL 冲卡口×2（目标842，Day6打了835差7分，过了Blending子类升档）。",
+	"hasOfflineScenarios": false,
+	"hasEdited": true,
+	"shareCode": "",
+	"version": 31,
+	"updated": 1791083793,
+	"isPrivate": false
+}
