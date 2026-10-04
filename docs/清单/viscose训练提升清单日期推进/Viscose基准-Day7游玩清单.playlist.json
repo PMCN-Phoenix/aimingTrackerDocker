@@ -1,0 +1,55 @@
+{
+	"playlistName": "Viscose Day7 - 攻Wrist",
+	"playlistId": 900125,
+	"authorSteamId": "76561199835441317",
+	"authorName": "铎克",
+	"scenarioList": [
+		{
+			"scenario_name": "1w2ts reload smallflicks larger",
+			"play_Count": 2
+		},
+		{
+			"scenario_name": "ww5t Voltaic Slightly Larger",
+			"play_Count": 2
+		},
+		{
+			"scenario_name": "VT Controlsphere Viscose Easier",
+			"play_Count": 3
+		},
+		{
+			"scenario_name": "VT Controlsphere Viscose Easier",
+			"play_Count": 5
+		},
+		{
+			"scenario_name": "cloverRawControl Viscose Easier 50cm",
+			"play_Count": 4
+		},
+		{
+			"scenario_name": "Popcorn MV Easier",
+			"play_Count": 4
+		},
+		{
+			"scenario_name": "SmoothBot Perfected Easier",
+			"play_Count": 4
+		},
+		{
+			"scenario_name": "Pasu Voltaic Reload Easier",
+			"play_Count": 4
+		},
+		{
+			"scenario_name": "Air CELESTIAL No UFO Easier",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "Controlsphere SuperbAim Viscose Easier",
+			"play_Count": 1
+		}
+	],
+	"description": "Day7（10/05）：攻最弱子类Wrist（VT Controlsphere）——主项=VT Controlsphere×8（前3轮校准不看分，手腕控制+大范围跟踪）；Fingertip巩固=cloverRawControl×4（保住6000+，指尖发力）；Precision巩固=Popcorn×4（目标220，先粗跟枪再看准星定位）；Arm保持=SmoothBot×4；确认感训练=Pasu×4；收尾验收=Air CELESTIAL×1（冲842）+Controlsphere SuperbAim×1（冲6200）。关打击音效。",
+	"hasOfflineScenarios": false,
+	"hasEdited": true,
+	"shareCode": "",
+	"version": 31,
+	"updated": 1791110400,
+	"isPrivate": false
+}
