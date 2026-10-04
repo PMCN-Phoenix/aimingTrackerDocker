@@ -1,0 +1,51 @@
+{
+	"playlistName": "Viscose Day6 - 攻Fingertip",
+	"playlistId": 900124,
+	"authorSteamId": "76561199835441317",
+	"authorName": "铎克",
+	"scenarioList": [
+		{
+			"scenario_name": "1w2ts reload smallflicks larger",
+			"play_Count": 2
+		},
+		{
+			"scenario_name": "ww5t Voltaic Slightly Larger",
+			"play_Count": 2
+		},
+		{
+			"scenario_name": "cloverRawControl Viscose Easier 50cm",
+			"play_Count": 3
+		},
+		{
+			"scenario_name": "cloverRawControl Viscose Easier 50cm",
+			"play_Count": 5
+		},
+		{
+			"scenario_name": "Flower Easier 50cm",
+			"play_Count": 4
+		},
+		{
+			"scenario_name": "SmoothBot Perfected Easier",
+			"play_Count": 4
+		},
+		{
+			"scenario_name": "Pasu Voltaic Reload Easier",
+			"play_Count": 4
+		},
+		{
+			"scenario_name": "Popcorn MV Easier",
+			"play_Count": 4
+		},
+		{
+			"scenario_name": "Air CELESTIAL No UFO Easier",
+			"play_Count": 1
+		}
+	],
+	"description": "Day6（10/04）：攻最弱子类Fingertip（cloverRawControl）——主项=cloverRawControl×8（前3轮校准不看分，指尖发力+大范围RawControl）；长期最弱项=Flower×4（不追分，只练动作：手腕放松、弧线跟踪、不要急停）；Arm保持=SmoothBot×4；确认感训练=Pasu×4；巩固Popcorn=Popcorn×4（先盯目标粗跟枪，再看准星定位）；收尾验收=Air CELESTIAL×1。关打击音效。",
+	"hasOfflineScenarios": false,
+	"hasEdited": true,
+	"shareCode": "",
+	"version": 31,
+	"updated": 1791024000,
+	"isPrivate": false
+}
