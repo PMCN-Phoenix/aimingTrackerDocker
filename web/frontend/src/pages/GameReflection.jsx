@@ -11,7 +11,8 @@ import {
 import dayjs from 'dayjs'
 import {
   getGameReflections, getGameReflectionStats, createGameReflection,
-  updateGameReflection, deleteGameReflection, THEME_CONFIG, GAME_CONFIG
+  updateGameReflection, deleteGameReflection, getWarmupItems,
+  THEME_CONFIG, GAME_CONFIG
 } from '../api/gameReflection'
 
 const { Title, Text, Paragraph } = Typography
@@ -23,6 +24,7 @@ export default function GameReflection() {
   const [selectedTheme, setSelectedTheme] = useState(null)
   const [modalOpen, setModalOpen] = useState(false)
   const [editingId, setEditingId] = useState(null)
+  const [expandedWarmup, setExpandedWarmup] = useState(null)
   const [form] = Form.useForm()
 
   // 获取统计数据
@@ -31,6 +33,13 @@ export default function GameReflection() {
     queryFn: getGameReflectionStats,
   })
   const stats = statsData?.data || {}
+
+  // 获取热身项目列表
+  const { data: warmupData } = useQuery({
+    queryKey: ['warmupItems'],
+    queryFn: getWarmupItems,
+  })
+  const warmupItems = warmupData?.data || []
 
   // 获取感悟列表
   const { data: listData, isLoading } = useQuery({
@@ -163,6 +172,71 @@ export default function GameReflection() {
           </Card>
         </Col>
       </Row>
+
+      {/* 热身项目区域 */}
+      {warmupItems.length > 0 && (
+        <Card
+          title={<span>🔥 热身项目</span>}
+          style={{ marginBottom: 24 }}
+          extra={<Text type="secondary">共 {warmupItems.length} 个项目</Text>}
+        >
+          <Row gutter={[16, 16]}>
+            {warmupItems.map((item) => (
+              <Col span={12} key={item.id}>
+                <Card
+                  size="small"
+                  hoverable
+                  onClick={() => setExpandedWarmup(expandedWarmup === item.id ? null : item.id)}
+                  style={{
+                    borderColor: expandedWarmup === item.id ? '#ef4444' : undefined,
+                    cursor: 'pointer',
+                  }}
+                >
+                  <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
+                    <div>
+                      <Text strong style={{ fontSize: 15 }}>{item.name}</Text>
+                      {item.description && (
+                        <div>
+                          <Text type="secondary" style={{ fontSize: 12 }}>{item.description}</Text>
+                        </div>
+                      )}
+                    </div>
+                    <Space>
+                      <Tag color="orange">{item.type === 'tracking' ? '跟枪' : item.type === 'reaction' ? '反应' : item.type}</Tag>
+                      <Tag color="red">{item.reflections?.length || 0} 条感悟</Tag>
+                    </Space>
+                  </div>
+                  {expandedWarmup === item.id && item.reflections?.length > 0 && (
+                    <div style={{ marginTop: 16, paddingTop: 16, borderTop: '1px solid #f0f0f0' }}>
+                      {item.reflections.map((ref, idx) => (
+                        <div key={ref.id || idx} style={{ marginBottom: idx < item.reflections.length - 1 ? 12 : 0 }}>
+                          <div style={{ display: 'flex', alignItems: 'center', marginBottom: 4 }}>
+                            <Text strong style={{ fontSize: 14, color: '#ef4444' }}>{ref.title}</Text>
+                            <Text type="secondary" style={{ fontSize: 12, marginLeft: 8 }}>📅 {ref.date}</Text>
+                          </div>
+                          <Paragraph style={{ marginBottom: 4, whiteSpace: 'pre-wrap', fontSize: 13 }}>
+                            {ref.content}
+                          </Paragraph>
+                          <Space wrap size={4}>
+                            {(ref.tags || []).map((tag, tagIdx) => (
+                              <Tag key={tagIdx} color="orange" style={{ fontSize: 11 }}>{tag}</Tag>
+                            ))}
+                          </Space>
+                        </div>
+                      ))}
+                    </div>
+                  )}
+                  {expandedWarmup === item.id && (!item.reflections || item.reflections.length === 0) && (
+                    <div style={{ marginTop: 16, paddingTop: 16, borderTop: '1px solid #f0f0f0' }}>
+                      <Text type="secondary">暂无感悟记录</Text>
+                    </div>
+                  )}
+                </Card>
+              </Col>
+            ))}
+          </Row>
+        </Card>
+      )}
 
       {/* 主题筛选 */}
       <Card style={{ marginBottom: 24 }}>
