@@ -72,13 +72,51 @@ async def get_daylist_progress(daylist: str):
 
         # 2. 查元数据（获取时间范围）
         meta = queries.get_daylist_meta(daylist)
-        start_ts = meta.get("start_ts", 0)
-        end_ts = meta.get("end_ts", 0)
 
-        # 3. 查所有场景的轮数
-        rounds_map = queries.get_all_scenarios_rounds(start_ts, end_ts)
+        # 自动计算时间范围：根据 exec_dates（北京时间 UTC+8）
+        exec_dates = meta.get("exec_dates", "")
+        from datetime import datetime, timedelta
 
-        # 4. 组合数据
+        # 注意：Python 进程时区已经是北京时间（UTC+8），
+        # datetime.strptime().timestamp() 返回的就是正确的 UTC 时间戳，不需要再减 8 小时
+
+        if exec_dates:
+            # 解析日期列表
+            dates = [d.strip() for d in exec_dates.split(',') if d.strip()]
+            if dates:
+                # 最早日期的 00:00:00 北京时间
+                first_date = datetime.strptime(dates[0], '%Y-%m-%d')
+                start_ts = int(first_date.timestamp())
+
+                # 最晚日期的 23:59:59 北京时间
+                last_date = datetime.strptime(dates[-1], '%Y-%m-%d')
+                last_dt = last_date + timedelta(days=1) - timedelta(seconds=1)
+                end_ts = int(last_dt.timestamp())
+            else:
+                start_ts = meta.get("start_ts", 0)
+                end_ts = meta.get("end_ts", 0)
+        else:
+            start_ts = meta.get("start_ts", 0)
+            end_ts = meta.get("end_ts", 0)
+
+        # 3. 判断是否是加练清单
+        is_extra = meta.get("type") == "extra"
+        created_at = meta.get("created_at", 0)
+
+        # 4. 查所有场景的轮数
+        if is_extra and created_at:
+            # 加练清单：只统计 created_at 之后的轮数
+            rounds_map = {}
+            for row in rows:
+                scn = row.get("scenario", "")
+                rounds_map[scn] = queries.get_extra_scenario_rounds(
+                    scn, start_ts, end_ts, created_at
+                )
+        else:
+            # 主清单：统计所有轮数
+            rounds_map = queries.get_all_scenarios_rounds(start_ts, end_ts)
+
+        # 5. 组合数据
         result_rows = []
         for row in rows:
             scn = row.get("scenario", "")
@@ -105,11 +143,108 @@ async def get_daylist_progress(daylist: str):
         data = {
             "daylist": daylist,
             "label": meta.get("label", ""),
+            "name": meta.get("name", ""),
+            "type": meta.get("type", "main"),
+            "parent_daylist": meta.get("parent_daylist", ""),
+            "created_at": created_at,
             "run_date": meta.get("run_date", ""),
+            "exec_dates": exec_dates,
+            "start_ts": start_ts,
+            "end_ts": end_ts,
             "items": meta.get("items", len(result_rows)),
             "rounds_total": meta.get("rounds_total", 0),
             "rows": result_rows
         }
+        return ApiResponse(code=0, data=data)
+    except Exception as e:
+        return ApiResponse(code=500, message=str(e))
+
+
+# ==================== 加练清单接口 ====================
+
+@app.get("/api/daylists/{daylist}/extras", response_model=ApiResponse)
+async def get_daylist_extras(daylist: str):
+    """获取某个主清单的所有加练清单"""
+    try:
+        extras = queries.get_daylist_extras(daylist)
+        return ApiResponse(code=0, data=extras)
+    except Exception as e:
+        return ApiResponse(code=500, message=str(e))
+
+
+@app.get("/api/daylists/{daylist}/with-extras", response_model=ApiResponse)
+async def get_daylist_with_extras(daylist: str):
+    """获取主清单 + 所有加练清单的完整数据"""
+    try:
+        # 1. 主清单进度
+        main_response = await get_daylist_progress(daylist)
+        main_data = main_response.data if hasattr(main_response, 'data') else main_response.get('data')
+
+        # 2. 所有加练清单进度
+        extras_meta = queries.get_daylist_extras(daylist)
+        extras_data = []
+        for extra in extras_meta:
+            extra_id = extra.get("daylist")
+            if extra_id:
+                extra_response = await get_daylist_progress(extra_id)
+                extra_data.append(extra_response.data if hasattr(extra_response, 'data') else extra_response.get('data'))
+
+        data = {
+            "main": main_data,
+            "extras": extras_data
+        }
+        return ApiResponse(code=0, data=data)
+    except Exception as e:
+        return ApiResponse(code=500, message=str(e))
+
+
+class ExtraDaylistCreate(BaseModel):
+    parent_daylist: str
+    name: str
+    exec_dates: str
+    items: list
+
+
+@app.post("/api/daylists/extras", response_model=ApiResponse)
+async def create_extra_daylist(extra: ExtraDaylistCreate):
+    """创建加练清单"""
+    try:
+        data = queries.create_extra_daylist(
+            parent_daylist=extra.parent_daylist,
+            name=extra.name,
+            exec_dates=extra.exec_dates,
+            items=extra.items
+        )
+        return ApiResponse(code=0, data=data)
+    except Exception as e:
+        return ApiResponse(code=500, message=str(e))
+
+
+@app.delete("/api/daylists/extras/{extra_id}", response_model=ApiResponse)
+async def delete_extra_daylist(extra_id: str):
+    """删除加练清单"""
+    try:
+        data = queries.delete_extra_daylist(extra_id)
+        return ApiResponse(code=0, data=data)
+    except Exception as e:
+        return ApiResponse(code=500, message=str(e))
+
+
+@app.post("/api/daylists/{daylist}/export-playlist", response_model=ApiResponse)
+async def export_playlist(daylist: str, name: str = Query(None)):
+    """导出清单为 Kovaak's playlist.json 并复制到游戏目录"""
+    try:
+        data = queries.export_playlist_to_kovaaks(daylist, name)
+        return ApiResponse(code=0, data=data)
+    except Exception as e:
+        return ApiResponse(code=500, message=str(e))
+
+
+@app.get("/api/daylists/{daylist}/playlist", response_model=ApiResponse)
+async def get_playlist_json(daylist: str, name: str = Query(None)):
+    """获取清单的 Kovaak's playlist.json 格式数据"""
+    try:
+        data = queries.generate_playlist_json(daylist, name)
         return ApiResponse(code=0, data=data)
     except Exception as e:
         return ApiResponse(code=500, message=str(e))
@@ -265,6 +400,145 @@ async def create_reflection(reflection: ReflectionCreate):
     """新增一条感悟"""
     try:
         data = queries.create_reflection(reflection.scenario, reflection.note, reflection.daylist)
+        return ApiResponse(code=0, data=data)
+    except Exception as e:
+        return ApiResponse(code=500, message=str(e))
+
+
+# ==================== 游戏感悟接口 ====================
+
+from app.models.game_reflection import (
+    GameReflectionCreate, GameReflectionUpdate, WarmupItemCreate
+)
+from app.repositories import game_reflection_repo as gr_repo
+
+
+@app.get("/api/game-reflections", response_model=ApiResponse)
+async def list_game_reflections(
+    theme: Optional[str] = Query(None, description="主题筛选: warmup/aim/move/mind/map/agent/mindset"),
+    game: Optional[str] = Query(None, description="游戏筛选: valorant/apex/cs2"),
+    mode: Optional[str] = Query(None, description="模式筛选"),
+    date: Optional[str] = Query(None, description="日期筛选: YYYY-MM-DD"),
+    date_start: Optional[str] = Query(None, description="开始日期"),
+    date_end: Optional[str] = Query(None, description="结束日期"),
+    tag: Optional[str] = Query(None, description="标签筛选"),
+    warmup_item: Optional[str] = Query(None, description="热身项目筛选"),
+    limit: int = Query(50, ge=1, le=200),
+    offset: int = Query(0, ge=0)
+):
+    """获取游戏感悟列表（支持多维度筛选）"""
+    try:
+        data = gr_repo.list_game_reflections(
+            theme=theme, game=game, mode=mode, date=date,
+            date_start=date_start, date_end=date_end, tag=tag,
+            warmup_item=warmup_item, limit=limit, offset=offset
+        )
+        return ApiResponse(code=0, data=data)
+    except Exception as e:
+        return ApiResponse(code=500, message=str(e))
+
+
+@app.get("/api/game-reflections/stats", response_model=ApiResponse)
+async def get_game_reflection_stats():
+    """获取游戏感悟统计数据"""
+    try:
+        data = gr_repo.get_game_reflection_stats()
+        return ApiResponse(code=0, data=data)
+    except Exception as e:
+        return ApiResponse(code=500, message=str(e))
+
+
+@app.get("/api/game-reflections/{ref_id}", response_model=ApiResponse)
+async def get_game_reflection(ref_id: str):
+    """根据 ID 获取单条游戏感悟"""
+    try:
+        data = gr_repo.get_game_reflection_by_id(ref_id)
+        if not data:
+            return ApiResponse(code=404, message="感悟不存在")
+        return ApiResponse(code=0, data=data)
+    except Exception as e:
+        return ApiResponse(code=500, message=str(e))
+
+
+@app.post("/api/game-reflections", response_model=ApiResponse)
+async def create_game_reflection(reflection: GameReflectionCreate):
+    """创建一条游戏感悟"""
+    try:
+        data = gr_repo.create_game_reflection(
+            title=reflection.title,
+            content=reflection.content,
+            theme=reflection.theme.value,
+            date=reflection.date,
+            game=reflection.game.value,
+            mode=reflection.mode,
+            map_name=reflection.map_name,
+            agent_name=reflection.agent_name,
+            scenario=reflection.scenario,
+            tags=reflection.tags,
+            warmup_item=reflection.warmup_item
+        )
+        return ApiResponse(code=0, data=data)
+    except Exception as e:
+        return ApiResponse(code=500, message=str(e))
+
+
+@app.put("/api/game-reflections/{ref_id}", response_model=ApiResponse)
+async def update_game_reflection(ref_id: str, reflection: GameReflectionUpdate):
+    """更新一条游戏感悟"""
+    try:
+        updates = reflection.dict(exclude_unset=True)
+        if "theme" in updates and updates["theme"]:
+            updates["theme"] = updates["theme"].value
+        if "game" in updates and updates["game"]:
+            updates["game"] = updates["game"].value
+
+        data = gr_repo.update_game_reflection(ref_id, updates)
+        return ApiResponse(code=0, data=data)
+    except Exception as e:
+        return ApiResponse(code=500, message=str(e))
+
+
+@app.delete("/api/game-reflections/{ref_id}", response_model=ApiResponse)
+async def delete_game_reflection(ref_id: str):
+    """删除一条游戏感悟"""
+    try:
+        data = gr_repo.delete_game_reflection(ref_id)
+        return ApiResponse(code=0, data=data)
+    except Exception as e:
+        return ApiResponse(code=500, message=str(e))
+
+
+# ==================== 热身项目接口 ====================
+
+@app.get("/api/warmup-items", response_model=ApiResponse)
+async def list_warmup_items():
+    """获取所有热身项目（含每个项目的感悟）"""
+    try:
+        data = gr_repo.list_warmup_items()
+        return ApiResponse(code=0, data=data)
+    except Exception as e:
+        return ApiResponse(code=500, message=str(e))
+
+
+@app.post("/api/warmup-items", response_model=ApiResponse)
+async def create_warmup_item(item: WarmupItemCreate):
+    """创建一个热身项目"""
+    try:
+        data = gr_repo.create_warmup_item(
+            name=item.name,
+            type=item.type,
+            description=item.description
+        )
+        return ApiResponse(code=0, data=data)
+    except Exception as e:
+        return ApiResponse(code=500, message=str(e))
+
+
+@app.get("/api/warmup-items/{item_name}/reflections", response_model=ApiResponse)
+async def get_warmup_item_reflections(item_name: str):
+    """获取某个热身项目的所有感悟"""
+    try:
+        data = gr_repo.get_warmup_item_reflections(item_name)
         return ApiResponse(code=0, data=data)
     except Exception as e:
         return ApiResponse(code=500, message=str(e))
