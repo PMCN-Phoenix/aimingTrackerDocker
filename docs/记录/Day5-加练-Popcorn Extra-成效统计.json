@@ -1,0 +1,121 @@
+{
+  "extra_id": "Day5-extra-1",
+  "extra_name": "Popcorn Extra - Relax and Apex",
+  "created_at": 1790998434,
+  "created_at_str": "2026-10-03 11:33:54",
+  "date": "2026-10-03",
+  "scenarios": [
+    {
+      "name": "Popcorn MV Easier",
+      "required": 4,
+      "done": 22,
+      "avg_score": 177.27272727272728,
+      "max_score": 260.0,
+      "min_score": 120.0,
+      "rounds": [
+        {
+          "score": 150.0,
+          "time": "2026-10-03T15:02:50Z"
+        },
+        {
+          "score": 200.0,
+          "time": "2026-10-03T15:14:01Z"
+        },
+        {
+          "score": 130.0,
+          "time": "2026-10-03T15:15:03Z"
+        },
+        {
+          "score": 190.0,
+          "time": "2026-10-03T15:16:05Z"
+        },
+        {
+          "score": 260.0,
+          "time": "2026-10-03T15:18:51Z"
+        },
+        {
+          "score": 200.0,
+          "time": "2026-10-03T15:19:53Z"
+        },
+        {
+          "score": 200.0,
+          "time": "2026-10-03T15:20:55Z"
+        },
+        {
+          "score": 140.0,
+          "time": "2026-10-03T15:21:59Z"
+        },
+        {
+          "score": 130.0,
+          "time": "2026-10-03T15:25:17Z"
+        },
+        {
+          "score": 210.0,
+          "time": "2026-10-03T15:26:19Z"
+        },
+        {
+          "score": 200.0,
+          "time": "2026-10-03T15:27:21Z"
+        },
+        {
+          "score": 180.0,
+          "time": "2026-10-03T15:03:52Z"
+        },
+        {
+          "score": 150.0,
+          "time": "2026-10-03T15:28:23Z"
+        },
+        {
+          "score": 130.0,
+          "time": "2026-10-03T15:31:19Z"
+        },
+        {
+          "score": 250.0,
+          "time": "2026-10-03T15:32:21Z"
+        },
+        {
+          "score": 150.0,
+          "time": "2026-10-03T15:04:57Z"
+        },
+        {
+          "score": 210.0,
+          "time": "2026-10-03T15:06:00Z"
+        },
+        {
+          "score": 160.0,
+          "time": "2026-10-03T15:07:39Z"
+        },
+        {
+          "score": 120.0,
+          "time": "2026-10-03T15:08:41Z"
+        },
+        {
+          "score": 160.0,
+          "time": "2026-10-03T15:10:51Z"
+        },
+        {
+          "score": 200.0,
+          "time": "2026-10-03T15:11:53Z"
+        },
+        {
+          "score": 180.0,
+          "time": "2026-10-03T15:12:59Z"
+        }
+      ],
+      "status": "已完成"
+    },
+    {
+      "name": "SmoothBot Perfected Easier",
+      "required": 2,
+      "done": 0,
+      "avg_score": 0,
+      "max_score": 0,
+      "min_score": 0,
+      "rounds": [],
+      "status": "未开始"
+    }
+  ],
+  "total_rounds": 22,
+  "total_required": 6,
+  "overall_avg": 177.27272727272728
+}

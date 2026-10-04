@@ -1,0 +1,711 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>游戏感悟看板 - Demo</title>
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Microsoft YaHei', sans-serif;
+    background: #0f1117;
+    color: #e0e0e0;
+    min-height: 100vh;
+  }
+
+  /* 顶部导航 */
+  .navbar {
+    background: #1a1d27;
+    border-bottom: 1px solid #2a2d3a;
+    padding: 0 24px;
+    display: flex;
+    align-items: center;
+    height: 56px;
+    gap: 8px;
+  }
+  .navbar .logo {
+    font-size: 18px;
+    font-weight: 700;
+    color: #fff;
+    margin-right: 32px;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+  }
+  .navbar .logo .icon { font-size: 22px; }
+  .nav-item {
+    padding: 8px 16px;
+    border-radius: 8px;
+    color: #9ca3af;
+    cursor: pointer;
+    font-size: 14px;
+    transition: all 0.2s;
+  }
+  .nav-item:hover { background: #252836; color: #e0e0e0; }
+  .nav-item.active { background: #3b82f6; color: #fff; font-weight: 600; }
+
+  /* 主内容区 */
+  .main {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 24px;
+  }
+
+  /* 页面标题 */
+  .page-header {
+    margin-bottom: 24px;
+  }
+  .page-header h1 {
+    font-size: 28px;
+    font-weight: 700;
+    color: #fff;
+    margin-bottom: 8px;
+    display: flex;
+    align-items: center;
+    gap: 12px;
+  }
+  .page-header .subtitle {
+    color: #9ca3af;
+    font-size: 14px;
+  }
+
+  /* 筛选栏 */
+  .filter-bar {
+    background: #1a1d27;
+    border: 1px solid #2a2d3a;
+    border-radius: 12px;
+    padding: 16px 20px;
+    margin-bottom: 24px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 16px;
+    align-items: center;
+  }
+  .filter-group {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+  }
+  .filter-label {
+    font-size: 13px;
+    color: #9ca3af;
+    white-space: nowrap;
+  }
+  .filter-select {
+    background: #252836;
+    border: 1px solid #3a3d4a;
+    color: #e0e0e0;
+    padding: 6px 12px;
+    border-radius: 6px;
+    font-size: 13px;
+    cursor: pointer;
+    outline: none;
+  }
+  .filter-select:focus { border-color: #3b82f6; }
+
+  /* 主题标签 */
+  .theme-tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+  }
+  .theme-tag {
+    padding: 5px 12px;
+    border-radius: 20px;
+    font-size: 12px;
+    cursor: pointer;
+    transition: all 0.2s;
+    border: 1px solid transparent;
+  }
+  .theme-tag:hover { transform: translateY(-1px); }
+  .theme-tag.active { font-weight: 600; }
+  .theme-tag.all { background: #374151; color: #d1d5db; }
+  .theme-tag.all.active { background: #6b7280; color: #fff; }
+  .theme-tag.aim { background: rgba(59,130,246,0.15); color: #60a5fa; border-color: rgba(59,130,246,0.3); }
+  .theme-tag.aim.active { background: #3b82f6; color: #fff; }
+  .theme-tag.move { background: rgba(16,185,129,0.15); color: #34d399; border-color: rgba(16,185,129,0.3); }
+  .theme-tag.move.active { background: #10b981; color: #fff; }
+  .theme-tag.mind { background: rgba(168,85,247,0.15); color: #c084fc; border-color: rgba(168,85,247,0.3); }
+  .theme-tag.mind.active { background: #a855f7; color: #fff; }
+  .theme-tag.map { background: rgba(245,158,11,0.15); color: #fbbf24; border-color: rgba(245,158,11,0.3); }
+  .theme-tag.map.active { background: #f59e0b; color: #fff; }
+  .theme-tag.agent { background: rgba(236,72,153,0.15); color: #f472b6; border-color: rgba(236,72,153,0.3); }
+  .theme-tag.agent.active { background: #ec4899; color: #fff; }
+  .theme-tag.mindset { background: rgba(107,114,128,0.2); color: #9ca3af; border-color: rgba(107,114,128,0.3); }
+  .theme-tag.mindset.active { background: #6b7280; color: #fff; }
+  .theme-tag.warmup { background: rgba(239,68,68,0.15); color: #f87171; border-color: rgba(239,68,68,0.3); }
+  .theme-tag.warmup.active { background: #ef4444; color: #fff; }
+
+  /* 统计卡片 */
+  .stats-row {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
+    gap: 16px;
+    margin-bottom: 24px;
+  }
+  .stat-card {
+    background: #1a1d27;
+    border: 1px solid #2a2d3a;
+    border-radius: 12px;
+    padding: 16px 20px;
+  }
+  .stat-card .stat-value {
+    font-size: 28px;
+    font-weight: 700;
+    color: #fff;
+    margin-bottom: 4px;
+  }
+  .stat-card .stat-label {
+    font-size: 12px;
+    color: #9ca3af;
+  }
+
+  /* 感悟分组 */
+  .reflection-group {
+    margin-bottom: 28px;
+  }
+  .group-header {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-bottom: 14px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #2a2d3a;
+  }
+  .group-icon {
+    font-size: 20px;
+  }
+  .group-title {
+    font-size: 18px;
+    font-weight: 600;
+    color: #fff;
+  }
+  .group-count {
+    font-size: 12px;
+    color: #9ca3af;
+    background: #252836;
+    padding: 2px 8px;
+    border-radius: 10px;
+  }
+
+  /* 感悟卡片 */
+  .reflection-card {
+    background: #1a1d27;
+    border: 1px solid #2a2d3a;
+    border-radius: 12px;
+    padding: 18px 20px;
+    margin-bottom: 12px;
+    transition: all 0.2s;
+    border-left: 3px solid transparent;
+  }
+  .reflection-card:hover {
+    border-color: #3a3d4a;
+    transform: translateX(2px);
+  }
+  .reflection-card.aim { border-left-color: #3b82f6; }
+  .reflection-card.move { border-left-color: #10b981; }
+  .reflection-card.mind { border-left-color: #a855f7; }
+  .reflection-card.map { border-left-color: #f59e0b; }
+  .reflection-card.agent { border-left-color: #ec4899; }
+  .reflection-card.mindset { border-left-color: #6b7280; }
+  .reflection-card.warmup { border-left-color: #ef4444; }
+
+  .card-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    margin-bottom: 10px;
+  }
+  .card-title {
+    font-size: 15px;
+    font-weight: 600;
+    color: #fff;
+    margin-bottom: 4px;
+  }
+  .card-meta {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px;
+    align-items: center;
+  }
+  .meta-badge {
+    font-size: 11px;
+    padding: 2px 8px;
+    border-radius: 4px;
+    background: #252836;
+    color: #9ca3af;
+  }
+  .meta-badge.game { background: rgba(59,130,246,0.15); color: #60a5fa; }
+  .meta-badge.mode { background: rgba(16,185,129,0.15); color: #34d399; }
+  .meta-badge.map-name { background: rgba(245,158,11,0.15); color: #fbbf24; }
+  .meta-badge.agent-name { background: rgba(236,72,153,0.15); color: #f472b6; }
+  .meta-badge.date { background: #252836; color: #9ca3af; }
+
+  .card-content {
+    font-size: 14px;
+    line-height: 1.7;
+    color: #d1d5db;
+    margin-bottom: 12px;
+    padding-left: 12px;
+    border-left: 2px solid #3a3d4a;
+  }
+  .card-content p { margin-bottom: 6px; }
+  .card-content p:last-child { margin-bottom: 0; }
+
+  .card-footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  .card-tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px;
+  }
+  .card-tag {
+    font-size: 11px;
+    padding: 2px 8px;
+    border-radius: 4px;
+    background: rgba(59,130,246,0.1);
+    color: #60a5fa;
+  }
+  .card-actions {
+    display: flex;
+    gap: 8px;
+  }
+  .action-btn {
+    font-size: 12px;
+    padding: 4px 10px;
+    border-radius: 6px;
+    background: #252836;
+    color: #9ca3af;
+    cursor: pointer;
+    border: none;
+    transition: all 0.2s;
+  }
+  .action-btn:hover { background: #3a3d4a; color: #e0e0e0; }
+
+  /* 新增按钮 */
+  .add-btn {
+    position: fixed;
+    bottom: 32px;
+    right: 32px;
+    width: 56px;
+    height: 56px;
+    border-radius: 50%;
+    background: #3b82f6;
+    color: #fff;
+    font-size: 28px;
+    border: none;
+    cursor: pointer;
+    box-shadow: 0 4px 20px rgba(59,130,246,0.4);
+    transition: all 0.2s;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .add-btn:hover { transform: scale(1.1); box-shadow: 0 6px 24px rgba(59,130,246,0.5); }
+
+  /* 空状态 */
+  .empty-state {
+    text-align: center;
+    padding: 60px 20px;
+    color: #6b7280;
+  }
+  .empty-state .icon { font-size: 48px; margin-bottom: 16px; }
+  .empty-state .text { font-size: 16px; }
+
+  /* Demo 标记 */
+  .demo-badge {
+    position: fixed;
+    top: 70px;
+    right: 24px;
+    background: rgba(245,158,11,0.2);
+    color: #fbbf24;
+    padding: 6px 14px;
+    border-radius: 20px;
+    font-size: 12px;
+    font-weight: 600;
+    border: 1px solid rgba(245,158,11,0.3);
+    z-index: 100;
+  }
+</style>
+</head>
+<body>
+
+<!-- Demo 标记 -->
+<div class="demo-badge">🔧 Demo 演示版</div>
+
+<!-- 顶部导航 -->
+<nav class="navbar">
+  <div class="logo"><span class="icon">🎯</span> 练枪看板</div>
+  <div class="nav-item">每日练枪</div>
+  <div class="nav-item">基准总览</div>
+  <div class="nav-item">Aim Lab</div>
+  <div class="nav-item active">🎮 游戏感悟</div>
+</nav>
+
+<!-- 主内容 -->
+<div class="main">
+
+  <!-- 页面标题 -->
+  <div class="page-header">
+    <h1>🎮 游戏感悟 <span style="font-size:14px;color:#6b7280;font-weight:400;">记录实战中的灵光一闪</span></h1>
+    <div class="subtitle">不记录成绩，只记录感悟 —— 把每一次对枪、每一次决策的心得沉淀下来</div>
+  </div>
+
+  <!-- 筛选栏 -->
+  <div class="filter-bar">
+    <div class="filter-group">
+      <span class="filter-label">📅 日期</span>
+      <select class="filter-select">
+        <option>全部日期</option>
+        <option selected>2026-10-05</option>
+        <option>2026-10-04</option>
+        <option>2026-10-03</option>
+      </select>
+    </div>
+    <div class="filter-group">
+      <span class="filter-label">🎮 游戏</span>
+      <select class="filter-select">
+        <option selected>Valorant</option>
+        <option>Apex Legends</option>
+        <option>CS2</option>
+      </select>
+    </div>
+    <div class="filter-group">
+      <span class="filter-label">🏆 模式</span>
+      <select class="filter-select">
+        <option selected>全部模式</option>
+        <option>排位/竞技</option>
+        <option>死斗/团队死斗</option>
+        <option>自定义/练枪房</option>
+      </select>
+    </div>
+  </div>
+
+  <!-- 主题标签 -->
+  <div class="theme-tags" style="margin-bottom:20px;">
+    <div class="theme-tag all active" onclick="filterTheme('all')">全部</div>
+    <div class="theme-tag warmup" onclick="filterTheme('warmup')">🔥 热身</div>
+    <div class="theme-tag aim" onclick="filterTheme('aim')">🎯 对枪/瞄准</div>
+    <div class="theme-tag move" onclick="filterTheme('move')">🏃 身法/移动</div>
+    <div class="theme-tag mind" onclick="filterTheme('mind')">🧠 意识/决策</div>
+    <div class="theme-tag map" onclick="filterTheme('map')">🗺️ 地图理解</div>
+    <div class="theme-tag agent" onclick="filterTheme('agent')">🎭 英雄/角色</div>
+    <div class="theme-tag mindset" onclick="filterTheme('mindset')">💡 心态/其他</div>
+  </div>
+
+  <!-- 统计卡片 -->
+  <div class="stats-row">
+    <div class="stat-card">
+      <div class="stat-value">13</div>
+      <div class="stat-label">📝 总感悟数</div>
+    </div>
+    <div class="stat-card">
+      <div class="stat-value">7</div>
+      <div class="stat-label">🎯 今日感悟</div>
+    </div>
+    <div class="stat-card">
+      <div class="stat-value">3</div>
+      <div class="stat-label">🔥 连续记录天数</div>
+    </div>
+    <div class="stat-card">
+      <div class="stat-value">7</div>
+      <div class="stat-label">📂 覆盖主题数</div>
+    </div>
+  </div>
+
+  <!-- 热身 -->
+  <div class="reflection-group" data-theme="warmup">
+    <div class="group-header">
+      <span class="group-icon">🔥</span>
+      <span class="group-title">热身</span>
+      <span class="group-count">2 个项目</span>
+    </div>
+
+    <!-- 热身项目 1 -->
+    <div class="reflection-card warmup">
+      <div class="card-header">
+        <div>
+          <div class="card-title">🎯 靶场平移机器人跟踪定位</div>
+          <div class="card-meta">
+            <span class="meta-badge date">2026-10-05</span>
+            <span class="meta-badge mode">热身项目</span>
+            <span class="meta-badge" style="background:rgba(239,68,68,0.15);color:#f87171;">跟踪定位</span>
+          </div>
+        </div>
+      </div>
+      <div class="card-content">
+        <p><strong>项目说明：</strong>靶场中平移机器人的跟踪定位练习，热身核心项目。</p>
+        <p><strong>感悟：</strong></p>
+        <p>手腕加肘部大调整，手指微调确认。</p>
+        <p>在微调之前，眼睛盯死看清晰准星，余光看人的头，判断方向。</p>
+        <p>手指发力慢慢移动，重合确认定住开火。</p>
+      </div>
+      <div class="card-footer">
+        <div class="card-tags">
+          <span class="card-tag">#手腕肘部</span>
+          <span class="card-tag">#手指微调</span>
+          <span class="card-tag">#眼睛盯准星</span>
+          <span class="card-tag">#余光看头</span>
+          <span class="card-tag">#重合确认</span>
+        </div>
+        <div class="card-actions">
+          <button class="action-btn">✏️ 编辑</button>
+          <button class="action-btn">📋 复制</button>
+        </div>
+      </div>
+    </div>
+
+    <!-- 热身项目 2 -->
+    <div class="reflection-card warmup">
+      <div class="card-header">
+        <div>
+          <div class="card-title">⚡ 靶场平移机器人跟踪定位 - 不死鸟打闪</div>
+          <div class="card-meta">
+            <span class="meta-badge date">2026-10-05</span>
+            <span class="meta-badge mode">热身项目</span>
+            <span class="meta-badge" style="background:rgba(239,68,68,0.15);color:#f87171;">被闪反应</span>
+          </div>
+        </div>
+      </div>
+      <div class="card-content">
+        <p><strong>项目说明：</strong>在平移机器人跟踪定位的基础上，加入不死鸟（Phoenix）闪光，用来练习被闪后的快速反应定位。</p>
+        <p><strong>训练目标：</strong>被闪后快速恢复视力，立刻重新定位目标，锻炼闪光后的反应速度和定位能力。</p>
+        <p><strong>感悟：</strong></p>
+        <p>要眼睛锁死准星。</p>
+        <p>被闪后不要慌，保持准星在原来的位置，视力恢复后立刻继续跟踪。</p>
+      </div>
+      <div class="card-footer">
+        <div class="card-tags">
+          <span class="card-tag">#被闪练习</span>
+          <span class="card-tag">#快速反应</span>
+          <span class="card-tag">#眼睛锁死准星</span>
+          <span class="card-tag">#不死鸟打闪</span>
+        </div>
+        <div class="card-actions">
+          <button class="action-btn">✏️ 编辑</button>
+          <button class="action-btn">📋 复制</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- 对枪/瞄准 -->
+  <div class="reflection-group" data-theme="aim">
+    <div class="group-header">
+      <span class="group-icon">🎯</span>
+      <span class="group-title">对枪/瞄准</span>
+      <span class="group-count">2 条</span>
+    </div>
+
+    <div class="reflection-card aim">
+      <div class="card-header">
+        <div>
+          <div class="card-title">预瞄要放在头部高度，急停后再开枪</div>
+          <div class="card-meta">
+            <span class="meta-badge date">2026-10-05</span>
+            <span class="meta-badge game">Valorant</span>
+            <span class="meta-badge mode">排位</span>
+            <span class="meta-badge map-name">Ascent</span>
+            <span class="meta-badge agent-name">Jett</span>
+          </div>
+        </div>
+      </div>
+      <div class="card-content">
+        <p>中路对枪时，预瞄总是放在胸口位置，敌人拉出来后需要再往上拉才能到头，浪费了 0.2 秒。</p>
+        <p><strong>改进：</strong>预瞄直接放在敌人头部出现的高度（大约在箱子上沿 + 一个头的位置），敌人一拉出来准星就在头附近，只需要微调。</p>
+        <p><strong>急停：</strong>不要边移动边开枪，AD 反方向急停站稳后再开枪，第一发子弹的精准度差很多。</p>
+      </div>
+      <div class="card-footer">
+        <div class="card-tags">
+          <span class="card-tag">#预瞄</span>
+          <span class="card-tag">#急停</span>
+          <span class="card-tag">#头部高度</span>
+        </div>
+        <div class="card-actions">
+          <button class="action-btn">✏️ 编辑</button>
+          <button class="action-btn">📋 复制</button>
+        </div>
+      </div>
+    </div>
+
+    <div class="reflection-card aim">
+      <div class="card-header">
+        <div>
+          <div class="card-title">拉枪用手臂，到位后用手指微调</div>
+          <div class="card-meta">
+            <span class="meta-badge date">2026-10-05</span>
+            <span class="meta-badge game">Valorant</span>
+            <span class="meta-badge mode">死斗</span>
+            <span class="meta-badge map-name">Haven</span>
+            <span class="meta-badge agent-name">Phoenix</span>
+          </div>
+        </div>
+      </div>
+      <div class="card-content">
+        <p>之前拉枪和微调都用手腕，导致大幅度拉枪时手腕不够用，小范围微调时又太粗。</p>
+        <p><strong>改进：</strong>大范围拉枪用手臂（从左到右跨半个屏幕），到位后用手指做最后的微调（1-2 个像素的修正）。</p>
+        <p>就像 Kovaak's 里的 Blending 场景，三个肌肉群无缝切换，实战中也是一样的道理。</p>
+      </div>
+      <div class="card-footer">
+        <div class="card-tags">
+          <span class="card-tag">#拉枪</span>
+          <span class="card-tag">#手指微调</span>
+          <span class="card-tag">#肌肉群切换</span>
+        </div>
+        <div class="card-actions">
+          <button class="action-btn">✏️ 编辑</button>
+          <button class="action-btn">📋 复制</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- 身法/移动 -->
+  <div class="reflection-group" data-theme="move">
+    <div class="group-header">
+      <span class="group-icon">🏃</span>
+      <span class="group-title">身法/移动</span>
+      <span class="group-count">1 条</span>
+    </div>
+
+    <div class="reflection-card move">
+      <div class="card-header">
+        <div>
+          <div class="card-title">摆射 AD 频率不要太快，Peek 先预瞄再拉出身位</div>
+          <div class="card-meta">
+            <span class="meta-badge date">2026-10-05</span>
+            <span class="meta-badge game">Valorant</span>
+            <span class="meta-badge mode">排位</span>
+            <span class="meta-badge map-name">Bind</span>
+            <span class="meta-badge agent-name">Jett</span>
+          </div>
+        </div>
+      </div>
+      <div class="card-content">
+        <p>之前摆射时 AD 按得太快，像小碎步一样，在对面视角里几乎就是原地不动，反而更容易被爆头。</p>
+        <p><strong>改进：</strong>AD 每次按 0.3-0.5 秒，有明显的左右位移，让对手难以瞄准。开枪瞬间停住（急停），开完枪继续移动。</p>
+        <p><strong>Peek：</strong>不要直接拉出去对枪，先在掩体后预瞄敌人可能出现的位置，然后横向拉出身位，准星直接撞上去，而不是拉出去再找敌人。</p>
+      </div>
+      <div class="card-footer">
+        <div class="card-tags">
+          <span class="card-tag">#摆射</span>
+          <span class="card-tag">#Peek</span>
+          <span class="card-tag">#急停</span>
+          <span class="card-tag">#预瞄</span>
+        </div>
+        <div class="card-actions">
+          <button class="action-btn">✏️ 编辑</button>
+          <button class="action-btn">📋 复制</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- 意识/决策 -->
+  <div class="reflection-group" data-theme="mind">
+    <div class="group-header">
+      <span class="group-icon">🧠</span>
+      <span class="group-title">意识/决策</span>
+      <span class="group-count">1 条</span>
+    </div>
+
+    <div class="reflection-card mind">
+      <div class="card-header">
+        <div>
+          <div class="card-title">听声辨位要注意脚步声方向，经济局不要强行起枪</div>
+          <div class="card-meta">
+            <span class="meta-badge date">2026-10-05</span>
+            <span class="meta-badge game">Valorant</span>
+            <span class="meta-badge mode">排位</span>
+            <span class="meta-badge map-name">Ascent</span>
+            <span class="meta-badge agent-name">Omen</span>
+          </div>
+        </div>
+      </div>
+      <div class="card-content">
+        <p><strong>听声辨位：</strong>不要只听"有没有脚步声"，要听脚步声的"方向"和"距离"。左边耳机响就是左边来的，声音大就是近，声音小就是远。可以提前预瞄那个方向。</p>
+        <p><strong>经济管理：</strong>手枪局输了之后，第二把不要强行起步枪+全甲，经济不够就起冲锋枪+半甲，存钱第三把起全装。强行起枪输了会导致经济更崩，连输好几把。</p>
+        <p><strong>回合决策：</strong>打不过就转点，不要在一个点死磕。队友都死了就保枪，不要硬送。</p>
+      </div>
+      <div class="card-footer">
+        <div class="card-tags">
+          <span class="card-tag">#听声辨位</span>
+          <span class="card-tag">#经济管理</span>
+          <span class="card-tag">#回合决策</span>
+        </div>
+        <div class="card-actions">
+          <button class="action-btn">✏️ 编辑</button>
+          <button class="action-btn">📋 复制</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- 心态/其他 -->
+  <div class="reflection-group" data-theme="mindset">
+    <div class="group-header">
+      <span class="group-icon">💡</span>
+      <span class="group-title">心态/其他</span>
+      <span class="group-count">1 条</span>
+    </div>
+
+    <div class="reflection-card mindset">
+      <div class="card-header">
+        <div>
+          <div class="card-title">连败三把就休息，不要"报复性"继续排</div>
+          <div class="card-meta">
+            <span class="meta-badge date">2026-10-05</span>
+            <span class="meta-badge game">Valorant</span>
+            <span class="meta-badge mode">排位</span>
+          </div>
+        </div>
+      </div>
+      <div class="card-content">
+        <p>今天连输三把后心态炸了，继续排又输了两把，掉了一大段分。现在回想，第三把输的时候就应该停下来。</p>
+        <p><strong>改进：</strong>连输两把就强制休息 10 分钟，去喝杯水、走动一下，不要带着情绪继续排。"报复性"排位只会越输越多，心态越打越差。</p>
+        <p>就像练枪打久了会神经疲劳一样，排位连输也会"决策疲劳"，这时候继续打只会做出更差的决策。</p>
+      </div>
+      <div class="card-footer">
+        <div class="card-tags">
+          <span class="card-tag">#心态</span>
+          <span class="card-tag">#连败</span>
+          <span class="card-tag">#休息</span>
+          <span class="card-tag">#决策疲劳</span>
+        </div>
+        <div class="card-actions">
+          <button class="action-btn">✏️ 编辑</button>
+          <button class="action-btn">📋 复制</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+</div>
+
+<!-- 新增按钮 -->
+<button class="add-btn" title="新增感悟">+</button>
+
+<script>
+function filterTheme(theme) {
+  // 更新标签状态
+  document.querySelectorAll('.theme-tag').forEach(tag => {
+    tag.classList.remove('active');
+  });
+  event.target.classList.add('active');
+
+  // 过滤卡片
+  document.querySelectorAll('.reflection-group').forEach(group => {
+    if (theme === 'all' || group.dataset.theme === theme) {
+      group.style.display = 'block';
+    } else {
+      group.style.display = 'none';
+    }
+  });
+}
+</script>
+
+</body>
+</html>

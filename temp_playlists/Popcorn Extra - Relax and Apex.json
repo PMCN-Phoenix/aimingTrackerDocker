@@ -1,0 +1,23 @@
+{
+  "playlistName": "Popcorn Extra - Relax and Apex",
+  "playlistId": 998434,
+  "authorSteamId": "76561199835441317",
+  "authorName": "铎克",
+  "scenarioList": [
+    {
+      "scenario_name": "Popcorn MV Easier",
+      "play_Count": 4
+    },
+    {
+      "scenario_name": "SmoothBot Perfected Easier",
+      "play_Count": 2
+    }
+  ],
+  "description": "Popcorn Extra - Relax and Apex - 共 2 个场景，6 轮",
+  "hasOfflineScenarios": false,
+  "hasEdited": true,
+  "shareCode": "",
+  "version": 31,
+  "updated": 1790998434,
+  "isPrivate": false
+}

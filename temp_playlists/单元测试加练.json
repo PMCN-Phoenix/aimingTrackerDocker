@@ -1,0 +1,19 @@
+{
+  "playlistName": "单元测试加练",
+  "playlistId": 995935,
+  "authorSteamId": "76561199835441317",
+  "authorName": "铎克",
+  "scenarioList": [
+    {
+      "scenario_name": "Popcorn MV Easier",
+      "play_Count": 2
+    }
+  ],
+  "description": "单元测试加练 - 共 1 个场景，2 轮",
+  "hasOfflineScenarios": false,
+  "hasEdited": true,
+  "shareCode": "",
+  "version": 31,
+  "updated": 1790995935,
+  "isPrivate": false
+}

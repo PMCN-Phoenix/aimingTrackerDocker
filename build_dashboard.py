@@ -386,13 +386,13 @@ D_PROG_JS = r"""
     });
   });
 
-  // ---- 3. 提取感悟（refId C：frame 有 _time + _value(string) + labels.scenario）----
+  // ---- 3. 提取感悟（refId C：统一 frame 结构，field name=_value(string) + labels.scenario）----
   var reflections = {};
   frames.forEach(function (fr) {
     var tf = null, vf = null;
     (fr.fields || []).forEach(function (f) {
       if (f.type === 'time') tf = f;
-      else if ((f.name === '_value' || f.name === 'Value' || f.name === 'note') && f.type === 'string') vf = f;
+      else if (f.name === '_value' && f.type === 'string') vf = f;  // 统一用 _value
     });
     if (!tf || !vf) return;
     var scn = vf.labels && vf.labels.scenario;
@@ -410,12 +410,13 @@ D_PROG_JS = r"""
   });
   Object.values(reflections).forEach(function (a) { a.sort(function (x, y) { return y.date.localeCompare(x.date); }); });
 
-  // ---- 4. 提取当天成绩（refId D：数值 field name=score/accuracy + labels.scenario）----
+  // ---- 4. 提取当天成绩（refId D：统一 frame 结构，field name=_value + labels._field + labels.scenario）----
   var todayScore = {};
   frames.forEach(function (fr) {
     (fr.fields || []).forEach(function (f) {
       if (f.type !== 'number' || !f.labels || !f.labels.scenario) return;
-      var fld = f.name; // _field 的值在 f.name 里
+      if (!f.labels._field) return;  // 排除 refId B（count 没有 _field 标签）
+      var fld = f.labels._field;  // _field 的值在 labels 里
       if (fld !== 'score' && fld !== 'accuracy') return;
       var vals = f.values || [];
       if (!vals.length) return;

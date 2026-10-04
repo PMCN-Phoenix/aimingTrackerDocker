@@ -1,0 +1,51 @@
+{
+	"playlistName": "Viscose Day5 - 攻Precision",
+	"playlistId": 900123,
+	"authorSteamId": "76561199835441317",
+	"authorName": "铎克",
+	"scenarioList": [
+		{
+			"scenario_name": "1w2ts reload smallflicks larger",
+			"play_Count": 2
+		},
+		{
+			"scenario_name": "ww5t Voltaic Slightly Larger",
+			"play_Count": 2
+		},
+		{
+			"scenario_name": "Popcorn MV Easier",
+			"play_Count": 3
+		},
+		{
+			"scenario_name": "Popcorn MV Easier",
+			"play_Count": 5
+		},
+		{
+			"scenario_name": "cloverRawControl Viscose Easier 50cm",
+			"play_Count": 4
+		},
+		{
+			"scenario_name": "SmoothBot Perfected Easier",
+			"play_Count": 4
+		},
+		{
+			"scenario_name": "Flower Easier 50cm",
+			"play_Count": 4
+		},
+		{
+			"scenario_name": "Pasu Voltaic Reload Easier",
+			"play_Count": 4
+		},
+		{
+			"scenario_name": "Air CELESTIAL No UFO Easier",
+			"play_Count": 1
+		}
+	],
+	"description": "Day5（10/03）：攻最弱子类Precision（Popcorn）——主项=Popcorn×8；第二主项=cloverRawControl×4；Arm保持=SmoothBot×4；Fingertip保持=Flower×4；维护=Pasu×4；收尾验收=Air CELESTIAL×1。关打击音效；Popcorn前3轮校准不看分，肩部绷紧肩袖发力上下移动；卡手调整手腕到舒适状态。",
+	"hasOfflineScenarios": false,
+	"hasEdited": true,
+	"shareCode": "",
+	"version": 31,
+	"updated": 1790952000,
+	"isPrivate": false
+}

@@ -15,7 +15,7 @@ export default function ReflectionList({ reflections }) {
         <List.Item>
           <div>
             <Text type="secondary" style={{ fontSize: '12px' }}>
-              {new Date(item.time * 1000).toLocaleDateString()}
+              {new Date(item.date).toLocaleDateString()}
             </Text>
             <Paragraph style={{ margin: '4px 0 0 0' }}>
               {item.note}

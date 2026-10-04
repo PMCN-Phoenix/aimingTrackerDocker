@@ -1,5 +1,5 @@
 import { useQuery } from '@tanstack/react-query'
-import { getDaylists, getDaylistProgress, getScenarioPopup, getScenarioHistory } from '../api/client'
+import { getDaylists, getDaylistProgress, getScenarioPopup, getScenarioHistory, getDaylistExtras } from '../api/client'
 
 // 清单列表
 export function useDaylists() {
@@ -15,6 +15,15 @@ export function useDaylistProgress(daylistId) {
   return useQuery({
     queryKey: ['daylistProgress', daylistId],
     queryFn: () => getDaylistProgress(daylistId),
+    staleTime: 60 * 1000, // 1分钟
+  })
+}
+
+// 加练清单列表
+export function useDaylistExtras(daylistId) {
+  return useQuery({
+    queryKey: ['daylistExtras', daylistId],
+    queryFn: () => getDaylistExtras(daylistId),
     staleTime: 60 * 1000, // 1分钟
   })
 }

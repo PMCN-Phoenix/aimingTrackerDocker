@@ -1,0 +1,420 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>加练清单功能 - Demo</title>
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+    background: #1a1a2e;
+    color: #e0e0e0;
+    padding: 20px;
+    min-height: 100vh;
+  }
+  .container { max-width: 1200px; margin: 0 auto; }
+
+  /* 顶部导航 */
+  .header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+    padding: 15px 20px;
+    background: #16213e;
+    border-radius: 10px;
+  }
+  .header h1 { font-size: 20px; color: #00d4ff; }
+  .header .date { color: #888; font-size: 14px; }
+  .header .actions { display: flex; gap: 10px; }
+  .btn {
+    padding: 8px 16px;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+    font-size: 14px;
+    transition: all 0.2s;
+  }
+  .btn-primary { background: #00d4ff; color: #1a1a2e; }
+  .btn-primary:hover { background: #00b8e6; }
+  .btn-secondary { background: #2d3a5a; color: #e0e0e0; }
+  .btn-secondary:hover { background: #3d4a6a; }
+
+  /* 主清单区域 */
+  .section {
+    background: #16213e;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    overflow: hidden;
+  }
+  .section-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px 20px;
+    background: #0f3460;
+    border-bottom: 2px solid #00d4ff;
+  }
+  .section-title {
+    font-size: 18px;
+    font-weight: 600;
+    color: #00d4ff;
+  }
+  .section-title .badge {
+    display: inline-block;
+    padding: 2px 8px;
+    background: #00d4ff;
+    color: #1a1a2e;
+    border-radius: 4px;
+    font-size: 12px;
+    margin-left: 10px;
+  }
+  .section-progress {
+    font-size: 14px;
+    color: #aaa;
+  }
+
+  /* 场景行 */
+  .scenario-list { padding: 10px 0; }
+  .scenario-row {
+    display: flex;
+    align-items: center;
+    padding: 12px 20px;
+    border-bottom: 1px solid #2d3a5a;
+    transition: background 0.2s;
+    cursor: pointer;
+  }
+  .scenario-row:hover { background: #1a2744; }
+  .scenario-row:last-child { border-bottom: none; }
+  .scenario-name {
+    flex: 1;
+    font-size: 14px;
+    color: #e0e0e0;
+  }
+  .scenario-role {
+    width: 80px;
+    font-size: 12px;
+    color: #888;
+  }
+  .scenario-score {
+    width: 100px;
+    text-align: right;
+    font-size: 14px;
+    color: #00d4ff;
+    font-weight: 600;
+  }
+  .scenario-rounds {
+    width: 80px;
+    text-align: center;
+    font-size: 14px;
+  }
+  .scenario-status {
+    width: 60px;
+    text-align: center;
+  }
+  .status-done { color: #4caf50; }
+  .status-doing { color: #ff9800; }
+  .status-pending { color: #666; }
+
+  /* 加练清单区域 */
+  .extra-section .section-header {
+    background: #2d1b4e;
+    border-bottom-color: #b388ff;
+  }
+  .extra-section .section-title { color: #b388ff; }
+  .extra-section .section-title .badge {
+    background: #b388ff;
+    color: #1a1a2e;
+  }
+
+  /* 加练清单卡片 */
+  .extra-card {
+    margin: 15px 20px;
+    background: #1e1a3a;
+    border: 1px solid #4a3a7a;
+    border-radius: 8px;
+    overflow: hidden;
+    transition: all 0.2s;
+  }
+  .extra-card:hover { border-color: #b388ff; }
+  .extra-card-header {
+    display: flex;
+    align-items: center;
+    padding: 12px 15px;
+    background: #2a2050;
+    cursor: pointer;
+    user-select: none;
+  }
+  .extra-card-header:hover { background: #352a60; }
+  .extra-icon {
+    font-size: 18px;
+    margin-right: 10px;
+  }
+  .extra-name {
+    flex: 1;
+    font-size: 15px;
+    font-weight: 600;
+    color: #d1c4e9;
+  }
+  .extra-meta {
+    font-size: 12px;
+    color: #888;
+    margin-right: 15px;
+  }
+  .extra-progress {
+    font-size: 13px;
+    margin-right: 10px;
+  }
+  .extra-progress.done { color: #4caf50; }
+  .extra-progress.doing { color: #ff9800; }
+  .extra-menu {
+    padding: 5px 10px;
+    background: transparent;
+    border: none;
+    color: #888;
+    cursor: pointer;
+    font-size: 18px;
+    border-radius: 4px;
+  }
+  .extra-menu:hover { background: #3d3060; color: #fff; }
+  .extra-toggle {
+    margin-left: 10px;
+    color: #888;
+    font-size: 12px;
+    transition: transform 0.2s;
+  }
+  .extra-card.collapsed .extra-toggle { transform: rotate(-90deg); }
+  .extra-card.collapsed .extra-body { display: none; }
+
+  .extra-body {
+    padding: 10px 0;
+    border-top: 1px solid #3d3060;
+  }
+  .extra-body .scenario-row {
+    padding: 10px 20px;
+    background: transparent;
+  }
+  .extra-body .scenario-row:hover { background: #251d45; }
+
+  /* 新增加练按钮 */
+  .add-extra-btn {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 15px 20px;
+    padding: 15px;
+    background: transparent;
+    border: 2px dashed #4a3a7a;
+    border-radius: 8px;
+    color: #b388ff;
+    cursor: pointer;
+    font-size: 14px;
+    transition: all 0.2s;
+  }
+  .add-extra-btn:hover {
+    border-color: #b388ff;
+    background: #2a2050;
+  }
+  .add-extra-btn .plus {
+    font-size: 20px;
+    margin-right: 8px;
+  }
+
+  /* 分隔线 */
+  .divider {
+    height: 3px;
+    background: linear-gradient(90deg, transparent, #00d4ff, #b388ff, transparent);
+    margin: 25px 0;
+    border: none;
+  }
+
+  /* 说明文字 */
+  .note {
+    margin-top: 20px;
+    padding: 15px;
+    background: #16213e;
+    border-radius: 8px;
+    font-size: 13px;
+    color: #888;
+    line-height: 1.6;
+  }
+  .note strong { color: #00d4ff; }
+</style>
+</head>
+<body>
+<div class="container">
+
+  <!-- 顶部导航 -->
+  <div class="header">
+    <h1>🎯 练枪看板 - Day4</h1>
+    <div class="date">2026-10-02 星期五</div>
+    <div class="actions">
+      <button class="btn btn-secondary">🔄 刷新</button>
+      <button class="btn btn-secondary">⚙️ 设置</button>
+    </div>
+  </div>
+
+  <!-- 主清单区域 -->
+  <div class="section">
+    <div class="section-header">
+      <div class="section-title">
+        📋 Day4 主清单（攻 Arm）
+        <span class="badge">已完成</span>
+      </div>
+      <div class="section-progress">33/29 轮 · 8 个场景</div>
+    </div>
+    <div class="scenario-list">
+      <div class="scenario-row">
+        <div class="scenario-name">1w2ts reload smallflicks larger</div>
+        <div class="scenario-role">热身</div>
+        <div class="scenario-score">87</div>
+        <div class="scenario-rounds">2/2</div>
+        <div class="scenario-status status-done">✅</div>
+      </div>
+      <div class="scenario-row">
+        <div class="scenario-name">ww5t Voltaic Slightly Larger</div>
+        <div class="scenario-role">热身</div>
+        <div class="scenario-score">85</div>
+        <div class="scenario-rounds">2/2</div>
+        <div class="scenario-status status-done">✅</div>
+      </div>
+      <div class="scenario-row">
+        <div class="scenario-name">SmoothBot Perfected Easier</div>
+        <div class="scenario-role">主项</div>
+        <div class="scenario-score">3213</div>
+        <div class="scenario-rounds">8/8</div>
+        <div class="scenario-status status-done">✅</div>
+      </div>
+      <div class="scenario-row">
+        <div class="scenario-name">Smoothsphere Viscose Easier</div>
+        <div class="scenario-role">主项</div>
+        <div class="scenario-score">7809</div>
+        <div class="scenario-rounds">4/4</div>
+        <div class="scenario-status status-done">✅</div>
+      </div>
+      <div class="scenario-row">
+        <div class="scenario-name">Popcorn MV Easier</div>
+        <div class="scenario-role">巩固</div>
+        <div class="scenario-score">170</div>
+        <div class="scenario-rounds">8/4</div>
+        <div class="scenario-status status-done">✅</div>
+      </div>
+      <div class="scenario-row">
+        <div class="scenario-name">Flower Easier 50cm</div>
+        <div class="scenario-role">巩固</div>
+        <div class="scenario-score">1897</div>
+        <div class="scenario-rounds">4/4</div>
+        <div class="scenario-status status-done">✅</div>
+      </div>
+      <div class="scenario-row">
+        <div class="scenario-name">Pasu Voltaic Reload Easier</div>
+        <div class="scenario-role">维护</div>
+        <div class="scenario-score">46</div>
+        <div class="scenario-rounds">4/4</div>
+        <div class="scenario-status status-done">✅</div>
+      </div>
+      <div class="scenario-row">
+        <div class="scenario-name">Air CELESTIAL No UFO Easier</div>
+        <div class="scenario-role">卡口</div>
+        <div class="scenario-score">808</div>
+        <div class="scenario-rounds">1/1</div>
+        <div class="scenario-status status-done">✅</div>
+      </div>
+    </div>
+  </div>
+
+  <!-- 分隔线 -->
+  <hr class="divider">
+
+  <!-- 加练清单区域 -->
+  <div class="section extra-section">
+    <div class="section-header">
+      <div class="section-title">
+        🔥 加练清单（2 个）
+      </div>
+      <div class="section-progress">6/16 轮 · 2 个加练</div>
+    </div>
+
+    <!-- 加练清单 1：已完成 -->
+    <div class="extra-card" id="extra1">
+      <div class="extra-card-header" onclick="toggleCard('extra1')">
+        <span class="extra-icon">📋</span>
+        <span class="extra-name">Popcorn 专项加练</span>
+        <span class="extra-meta">创建于 20:30</span>
+        <span class="extra-progress done">4/4 ✅</span>
+        <button class="extra-menu" onclick="event.stopPropagation(); showMenu('extra1')">⋮</button>
+        <span class="extra-toggle">▼</span>
+      </div>
+      <div class="extra-body">
+        <div class="scenario-row">
+          <div class="scenario-name">Popcorn MV Easier</div>
+          <div class="scenario-role">主攻</div>
+          <div class="scenario-score">230</div>
+          <div class="scenario-rounds">4/4</div>
+          <div class="scenario-status status-done">✅</div>
+        </div>
+      </div>
+    </div>
+
+    <!-- 加练清单 2：进行中 -->
+    <div class="extra-card" id="extra2">
+      <div class="extra-card-header" onclick="toggleCard('extra2')">
+        <span class="extra-icon">📋</span>
+        <span class="extra-name">Arm 巩固加练</span>
+        <span class="extra-meta">创建于 21:15</span>
+        <span class="extra-progress doing">2/8 ⏳</span>
+        <button class="extra-menu" onclick="event.stopPropagation(); showMenu('extra2')">⋮</button>
+        <span class="extra-toggle">▼</span>
+      </div>
+      <div class="extra-body">
+        <div class="scenario-row">
+          <div class="scenario-name">SmoothBot Perfected Easier</div>
+          <div class="scenario-role">巩固</div>
+          <div class="scenario-score">3100</div>
+          <div class="scenario-rounds">2/4</div>
+          <div class="scenario-status status-doing">⏳</div>
+        </div>
+        <div class="scenario-row">
+          <div class="scenario-name">Smoothsphere Viscose Easier</div>
+          <div class="scenario-role">巩固</div>
+          <div class="scenario-score">-</div>
+          <div class="scenario-rounds">0/4</div>
+          <div class="scenario-status status-pending">⬜</div>
+        </div>
+      </div>
+    </div>
+
+    <!-- 新增加练按钮 -->
+    <button class="add-extra-btn" onclick="alert('新增加练清单功能（Demo）')">
+      <span class="plus">+</span>
+      新增加练清单
+    </button>
+
+  </div>
+
+  <!-- 说明 -->
+  <div class="note">
+    <strong>💡 加练清单功能说明：</strong><br>
+    • 每天可以创建<strong>多个</strong>加练清单，每个有自定义名称<br>
+    • 加练清单和主清单格式一致，生成独立的 Kovaak's playlist<br>
+    • 成绩按<strong>创建时间点</strong>自动分配：创建前算主清单，创建后算加练<br>
+    • 主清单完成度<strong>不受影响</strong>（所有轮数都算主清单）<br>
+    • 点击加练清单标题可以折叠/展开场景列表<br>
+    • 点击 ⋮ 可以编辑、导出 playlist、删除加练清单
+  </div>
+
+</div>
+
+<script>
+  function toggleCard(id) {
+    const card = document.getElementById(id);
+    card.classList.toggle('collapsed');
+  }
+
+  function showMenu(id) {
+    alert('加练清单操作菜单（Demo）：\n• 编辑清单\n• 导出 playlist.json\n• 查看详情\n• 删除清单');
+  }
+</script>
+</body>
+</html>

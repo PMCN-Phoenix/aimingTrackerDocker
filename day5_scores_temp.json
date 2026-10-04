@@ -1,0 +1,306 @@
+{
+  "date": "2026-10-03",
+  "scenarios": {
+    "1w2ts reload smallflicks larger": [
+      {
+        "score": 82.0,
+        "accuracy": 0,
+        "timestamp": 1790988441
+      },
+      {
+        "score": 87.0,
+        "accuracy": 0,
+        "timestamp": 1790988503
+      }
+    ],
+    "Air CELESTIAL No UFO Easier": [
+      {
+        "score": 794.375671,
+        "accuracy": 0,
+        "timestamp": 1790992728
+      }
+    ],
+    "cloverRawControl Viscose Easier 50cm": [
+      {
+        "score": 3795.0,
+        "accuracy": 0,
+        "timestamp": 1790991570
+      },
+      {
+        "score": 3996.0,
+        "accuracy": 0,
+        "timestamp": 1790991632
+      },
+      {
+        "score": 4341.0,
+        "accuracy": 0,
+        "timestamp": 1790991702
+      },
+      {
+        "score": 3966.0,
+        "accuracy": 0,
+        "timestamp": 1790991766
+      }
+    ],
+    "Flower Easier 50cm": [
+      {
+        "score": 1326.0,
+        "accuracy": 0,
+        "timestamp": 1790992080
+      },
+      {
+        "score": 1532.0,
+        "accuracy": 0,
+        "timestamp": 1790992142
+      },
+      {
+        "score": 1533.0,
+        "accuracy": 0,
+        "timestamp": 1790992206
+      },
+      {
+        "score": 1370.0,
+        "accuracy": 0,
+        "timestamp": 1790992269
+      }
+    ],
+    "Pasu Voltaic Reload Easier": [
+      {
+        "score": 40.0,
+        "accuracy": 0,
+        "timestamp": 1790992331
+      },
+      {
+        "score": 41.0,
+        "accuracy": 0,
+        "timestamp": 1790992395
+      },
+      {
+        "score": 34.0,
+        "accuracy": 0,
+        "timestamp": 1790992457
+      },
+      {
+        "score": 33.0,
+        "accuracy": 0,
+        "timestamp": 1790992520
+      }
+    ],
+    "Popcorn MV Easier": [
+      {
+        "score": 100.0,
+        "accuracy": 0,
+        "timestamp": 1790988693
+      },
+      {
+        "score": 150.0,
+        "accuracy": 0,
+        "timestamp": 1790988756
+      },
+      {
+        "score": 130.0,
+        "accuracy": 0,
+        "timestamp": 1790988818
+      },
+      {
+        "score": 120.0,
+        "accuracy": 0,
+        "timestamp": 1790988882
+      },
+      {
+        "score": 120.0,
+        "accuracy": 0,
+        "timestamp": 1790988981
+      },
+      {
+        "score": 120.0,
+        "accuracy": 0,
+        "timestamp": 1790989095
+      },
+      {
+        "score": 160.0,
+        "accuracy": 0,
+        "timestamp": 1790989157
+      },
+      {
+        "score": 110.0,
+        "accuracy": 0,
+        "timestamp": 1790989219
+      },
+      {
+        "score": 80.0,
+        "accuracy": 0,
+        "timestamp": 1790989299
+      },
+      {
+        "score": 60.0,
+        "accuracy": 0,
+        "timestamp": 1790989361
+      },
+      {
+        "score": 160.0,
+        "accuracy": 0,
+        "timestamp": 1790989436
+      },
+      {
+        "score": 140.0,
+        "accuracy": 0,
+        "timestamp": 1790989498
+      },
+      {
+        "score": 150.0,
+        "accuracy": 0,
+        "timestamp": 1790989561
+      },
+      {
+        "score": 180.0,
+        "accuracy": 0,
+        "timestamp": 1790989623
+      },
+      {
+        "score": 140.0,
+        "accuracy": 0,
+        "timestamp": 1790989687
+      },
+      {
+        "score": 80.0,
+        "accuracy": 0,
+        "timestamp": 1790989776
+      },
+      {
+        "score": 130.0,
+        "accuracy": 0,
+        "timestamp": 1790989838
+      },
+      {
+        "score": 120.0,
+        "accuracy": 0,
+        "timestamp": 1790989902
+      },
+      {
+        "score": 150.0,
+        "accuracy": 0,
+        "timestamp": 1790989986
+      },
+      {
+        "score": 140.0,
+        "accuracy": 0,
+        "timestamp": 1790990048
+      },
+      {
+        "score": 140.0,
+        "accuracy": 0,
+        "timestamp": 1790990118
+      },
+      {
+        "score": 150.0,
+        "accuracy": 0,
+        "timestamp": 1790990180
+      },
+      {
+        "score": 170.0,
+        "accuracy": 0,
+        "timestamp": 1790990243
+      },
+      {
+        "score": 130.0,
+        "accuracy": 0,
+        "timestamp": 1790990315
+      },
+      {
+        "score": 110.0,
+        "accuracy": 0,
+        "timestamp": 1790990423
+      },
+      {
+        "score": 160.0,
+        "accuracy": 0,
+        "timestamp": 1790990490
+      },
+      {
+        "score": 170.0,
+        "accuracy": 0,
+        "timestamp": 1790990928
+      },
+      {
+        "score": 230.0,
+        "accuracy": 0,
+        "timestamp": 1790990993
+      },
+      {
+        "score": 220.0,
+        "accuracy": 0,
+        "timestamp": 1790991056
+      },
+      {
+        "score": 130.0,
+        "accuracy": 0,
+        "timestamp": 1790991118
+      },
+      {
+        "score": 200.0,
+        "accuracy": 0,
+        "timestamp": 1790991188
+      },
+      {
+        "score": 180.0,
+        "accuracy": 0,
+        "timestamp": 1790991251
+      },
+      {
+        "score": 160.0,
+        "accuracy": 0,
+        "timestamp": 1790991313
+      },
+      {
+        "score": 200.0,
+        "accuracy": 0,
+        "timestamp": 1790991376
+      },
+      {
+        "score": 170.0,
+        "accuracy": 0,
+        "timestamp": 1790991439
+      },
+      {
+        "score": 140.0,
+        "accuracy": 0,
+        "timestamp": 1790991508
+      }
+    ],
+    "SmoothBot Perfected Easier": [
+      {
+        "score": 2754.804688,
+        "accuracy": 0,
+        "timestamp": 1790991829
+      },
+      {
+        "score": 2809.591309,
+        "accuracy": 0,
+        "timestamp": 1790991892
+      },
+      {
+        "score": 3043.08667,
+        "accuracy": 0,
+        "timestamp": 1790991954
+      },
+      {
+        "score": 2941.340088,
+        "accuracy": 0,
+        "timestamp": 1790992017
+      }
+    ],
+    "ww5t Voltaic Slightly Larger": [
+      {
+        "score": 85.0,
+        "accuracy": 0,
+        "timestamp": 1790988566
+      },
+      {
+        "score": 83.0,
+        "accuracy": 0,
+        "timestamp": 1790988629
+      }
+    ]
+  }
+}
