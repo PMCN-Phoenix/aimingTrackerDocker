@@ -4,6 +4,7 @@ import { ConfigProvider, Layout, Menu } from 'antd'
 import DaylistDashboard from './pages/DaylistDashboard'
 import BenchmarkDashboard from './pages/BenchmarkDashboard'
 import AimLabDashboard from './pages/AimLabDashboard'
+import GameReflection from './pages/GameReflection'
 import UpdateDataButton from './components/UpdateDataButton'
 import './App.css'
 
@@ -50,6 +51,7 @@ function App() {
                   { key: 'daylist', label: <Link to="/daylist/Day3">今日清单</Link> },
                   { key: 'benchmark', label: <Link to="/benchmark">基准总览</Link> },
                   { key: 'aimlab', label: <Link to="/aimlab">Aim Lab</Link> },
+                  { key: 'reflection', label: <Link to="/reflection">游戏感悟</Link> },
                 ]}
               />
               <UpdateDataButton />
@@ -60,6 +62,7 @@ function App() {
                 <Route path="/daylist/:daylistId" element={<DaylistDashboard />} />
                 <Route path="/benchmark" element={<BenchmarkDashboard />} />
                 <Route path="/aimlab" element={<AimLabDashboard />} />
+                <Route path="/reflection" element={<GameReflection />} />
               </Routes>
             </Content>
           </Layout>
