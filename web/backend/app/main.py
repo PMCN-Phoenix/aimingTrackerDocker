@@ -411,6 +411,7 @@ from app.models.game_reflection import (
     GameReflectionCreate, GameReflectionUpdate, WarmupItemCreate
 )
 from app.repositories import game_reflection_repo as gr_repo
+from app.services import game_reflection_markdown as md_service
 
 
 @app.get("/api/game-reflections", response_model=ApiResponse)
@@ -462,8 +463,9 @@ async def get_game_reflection(ref_id: str):
 
 @app.post("/api/game-reflections", response_model=ApiResponse)
 async def create_game_reflection(reflection: GameReflectionCreate):
-    """创建一条游戏感悟"""
+    """创建一条游戏感悟（双写：InfluxDB + Markdown）"""
     try:
+        # 1. 写入 InfluxDB
         data = gr_repo.create_game_reflection(
             title=reflection.title,
             content=reflection.content,
@@ -477,6 +479,16 @@ async def create_game_reflection(reflection: GameReflectionCreate):
             tags=reflection.tags,
             warmup_item=reflection.warmup_item
         )
+
+        # 2. 同步到 Markdown（异步，不阻塞主流程）
+        try:
+            full_reflection = gr_repo.get_game_reflection_by_id(data["id"])
+            if full_reflection:
+                md_service.sync_reflection_to_markdown(full_reflection)
+        except Exception as md_error:
+            # Markdown 同步失败不影响主流程
+            print(f"[警告] Markdown 同步失败: {md_error}")
+
         return ApiResponse(code=0, data=data)
     except Exception as e:
         return ApiResponse(code=500, message=str(e))
@@ -484,8 +496,13 @@ async def create_game_reflection(reflection: GameReflectionCreate):
 
 @app.put("/api/game-reflections/{ref_id}", response_model=ApiResponse)
 async def update_game_reflection(ref_id: str, reflection: GameReflectionUpdate):
-    """更新一条游戏感悟"""
+    """更新一条游戏感悟（双写：InfluxDB + Markdown）"""
     try:
+        # 1. 获取旧数据（用于 Markdown 删除）
+        old_data = gr_repo.get_game_reflection_by_id(ref_id)
+        old_date = old_data.get("date", "") if old_data else ""
+
+        # 2. 更新 InfluxDB
         updates = reflection.dict(exclude_unset=True)
         if "theme" in updates and updates["theme"]:
             updates["theme"] = updates["theme"].value
@@ -493,6 +510,20 @@ async def update_game_reflection(ref_id: str, reflection: GameReflectionUpdate):
             updates["game"] = updates["game"].value
 
         data = gr_repo.update_game_reflection(ref_id, updates)
+
+        # 3. 同步到 Markdown
+        try:
+            # 如果日期变了，先从旧日期的 Markdown 删除
+            new_data = gr_repo.get_game_reflection_by_id(ref_id)
+            if new_data:
+                new_date = new_data.get("date", "")
+                if old_date and old_date != new_date:
+                    md_service.delete_reflection_from_markdown(old_date, ref_id)
+                # 同步到新日期的 Markdown
+                md_service.sync_reflection_to_markdown(new_data)
+        except Exception as md_error:
+            print(f"[警告] Markdown 同步失败: {md_error}")
+
         return ApiResponse(code=0, data=data)
     except Exception as e:
         return ApiResponse(code=500, message=str(e))
@@ -500,10 +531,23 @@ async def update_game_reflection(ref_id: str, reflection: GameReflectionUpdate):
 
 @app.delete("/api/game-reflections/{ref_id}", response_model=ApiResponse)
 async def delete_game_reflection(ref_id: str):
-    """删除一条游戏感悟"""
+    """删除一条游戏感悟（双写：InfluxDB + Markdown）"""
     try:
-        data = gr_repo.delete_game_reflection(ref_id)
-        return ApiResponse(code=0, data=data)
+        # 1. 获取数据（用于 Markdown 删除）
+        data = gr_repo.get_game_reflection_by_id(ref_id)
+        date = data.get("date", "") if data else ""
+
+        # 2. 从 InfluxDB 删除
+        result = gr_repo.delete_game_reflection(ref_id)
+
+        # 3. 从 Markdown 删除
+        try:
+            if date:
+                md_service.delete_reflection_from_markdown(date, ref_id)
+        except Exception as md_error:
+            print(f"[警告] Markdown 删除失败: {md_error}")
+
+        return ApiResponse(code=0, data=result)
     except Exception as e:
         return ApiResponse(code=500, message=str(e))
 
@@ -540,6 +584,113 @@ async def get_warmup_item_reflections(item_name: str):
     try:
         data = gr_repo.get_warmup_item_reflections(item_name)
         return ApiResponse(code=0, data=data)
+    except Exception as e:
+        return ApiResponse(code=500, message=str(e))
+
+
+# ==================== Markdown 同步接口 ====================
+
+@app.get("/api/game-reflections/markdown/dates", response_model=ApiResponse)
+async def list_markdown_dates():
+    """列出所有有感悟的 Markdown 日期文件"""
+    try:
+        dates = md_service.list_all_markdown_dates()
+        return ApiResponse(code=0, data={"dates": dates})
+    except Exception as e:
+        return ApiResponse(code=500, message=str(e))
+
+
+@app.get("/api/game-reflections/markdown/{date}", response_model=ApiResponse)
+async def get_markdown_reflections(date: str):
+    """读取指定日期的 Markdown 感悟文件"""
+    try:
+        reflections = md_service.read_date_reflections(date)
+        filepath = md_service.get_markdown_path(date)
+        return ApiResponse(code=0, data={
+            "date": date,
+            "filepath": filepath,
+            "count": len(reflections),
+            "reflections": reflections
+        })
+    except Exception as e:
+        return ApiResponse(code=500, message=str(e))
+
+
+@app.post("/api/game-reflections/markdown/import", response_model=ApiResponse)
+async def import_from_markdown():
+    """从所有 Markdown 文件导入感悟到 InfluxDB"""
+    try:
+        # 1. 读取所有 Markdown 感悟
+        all_reflections = md_service.import_all_from_markdown()
+
+        # 2. 导入到 InfluxDB（跳过已存在的 ID）
+        imported = 0
+        skipped = 0
+        for reflection in all_reflections:
+            ref_id = reflection.get("id", "")
+            if ref_id:
+                # 检查是否已存在
+                existing = gr_repo.get_game_reflection_by_id(ref_id)
+                if existing:
+                    skipped += 1
+                    continue
+
+            # 创建感悟
+            try:
+                gr_repo.create_game_reflection(
+                    title=reflection.get("title", "无标题"),
+                    content=reflection.get("content", ""),
+                    theme=reflection.get("theme", "mindset"),
+                    date=reflection.get("date", ""),
+                    game=reflection.get("game", "valorant"),
+                    mode=reflection.get("mode"),
+                    map_name=reflection.get("map_name"),
+                    agent_name=reflection.get("agent_name"),
+                    scenario=reflection.get("scenario"),
+                    tags=reflection.get("tags"),
+                    warmup_item=reflection.get("warmup_item")
+                )
+                imported += 1
+            except Exception as import_error:
+                print(f"[警告] 导入失败: {import_error}")
+
+        return ApiResponse(code=0, data={
+            "total": len(all_reflections),
+            "imported": imported,
+            "skipped": skipped
+        })
+    except Exception as e:
+        return ApiResponse(code=500, message=str(e))
+
+
+@app.post("/api/game-reflections/markdown/export", response_model=ApiResponse)
+async def export_to_markdown():
+    """将 InfluxDB 中所有感悟导出到 Markdown 文件"""
+    try:
+        # 1. 获取所有感悟
+        result = gr_repo.list_game_reflections(limit=1000)
+        all_reflections = result.get("items", [])
+
+        # 2. 按日期分组
+        date_groups = {}
+        for reflection in all_reflections:
+            date = reflection.get("date", "")
+            if date:
+                if date not in date_groups:
+                    date_groups[date] = []
+                date_groups[date].append(reflection)
+
+        # 3. 写入每个日期的 Markdown 文件
+        exported = 0
+        for date, reflections in date_groups.items():
+            md_service.write_date_reflections(date, reflections)
+            exported += len(reflections)
+
+        return ApiResponse(code=0, data={
+            "total": exported,
+            "dates": len(date_groups),
+            "date_list": sorted(date_groups.keys())
+        })
     except Exception as e:
         return ApiResponse(code=500, message=str(e))
 
