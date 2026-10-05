@@ -1,0 +1,47 @@
+{
+	"playlistName": "Viscose Day8 - 攻Blending",
+	"playlistId": 900126,
+	"authorSteamId": "76561199835441317",
+	"authorName": "铎克",
+	"scenarioList": [
+		{
+			"scenario_name": "1w2ts reload smallflicks larger",
+			"play_Count": 2
+		},
+		{
+			"scenario_name": "ww5t Voltaic Slightly Larger",
+			"play_Count": 2
+		},
+		{
+			"scenario_name": "Air CELESTIAL No UFO Easier",
+			"play_Count": 2
+		},
+		{
+			"scenario_name": "Air CELESTIAL No UFO Easier",
+			"play_Count": 4
+		},
+		{
+			"scenario_name": "Popcorn MV Easier",
+			"play_Count": 4
+		},
+		{
+			"scenario_name": "cloverRawControl Viscose Easier 50cm",
+			"play_Count": 4
+		},
+		{
+			"scenario_name": "SmoothBot Perfected Easier",
+			"play_Count": 4
+		},
+		{
+			"scenario_name": "Controlsphere SuperbAim Viscose Easier",
+			"play_Count": 1
+		}
+	],
+	"description": "Day8（10/06）：攻最弱子类Blending（Air CELESTIAL Reactive技术专项）——用新方法解决变向慢一拍，争取突破842。主项=Air CELESTIAL×6（前2轮校准不看分，练假设不变向+变向了再反应+盯目标不盯准星；后4轮追分目标842）；长期最弱项=Popcorn×4（目标220，先粗跟枪再看准星定位）；Fingertip巩固=cloverRawControl×4（保住6000+，指尖发力）；Arm保持=SmoothBot×4；收尾验收=Controlsphere SuperbAim×1（Wrist卡口验收冲6200）。关打击音效。Air CELESTIAL打疲劳了立刻停，质量>数量。",
+	"hasOfflineScenarios": false,
+	"hasEdited": true,
+	"shareCode": "",
+	"version": 1,
+	"updated": 1759756800,
+	"isPrivate": true
+}
