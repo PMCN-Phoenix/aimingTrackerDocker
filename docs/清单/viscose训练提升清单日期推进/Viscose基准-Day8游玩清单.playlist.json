@@ -13,7 +13,7 @@
 			"play_Count": 2
 		},
 		{
-			"scenario_name": "Air CELESTIAL No UFO Easier",
+			"scenario_name": "Air Voltaic Easy",
 			"play_Count": 2
 		},
 		{
@@ -37,7 +37,7 @@
 			"play_Count": 1
 		}
 	],
-	"description": "Day8（10/06）：攻最弱子类Blending（Air CELESTIAL Reactive技术专项）——用新方法解决变向慢一拍，争取突破842。主项=Air CELESTIAL×6（前2轮校准不看分，练假设不变向+变向了再反应+盯目标不盯准星；后4轮追分目标842）；长期最弱项=Popcorn×4（目标220，先粗跟枪再看准星定位）；Fingertip巩固=cloverRawControl×4（保住6000+，指尖发力）；Arm保持=SmoothBot×4；收尾验收=Controlsphere SuperbAim×1（Wrist卡口验收冲6200）。关打击音效。Air CELESTIAL打疲劳了立刻停，质量>数量。",
+	"description": "Day8（10/06）：攻最弱子类Blending（Reactive技术专项）——用新方法解决变向慢一拍，争取突破842。主项校准=Air Voltaic Easy×2（简单场景练新方法：假设不变向+变向了再反应+盯目标不盯准星）；主项追分=Air CELESTIAL×4（迁移新方法追分目标842）；长期最弱项=Popcorn×4（目标220，先粗跟枪再看准星定位）；Fingertip巩固=cloverRawControl×4（保住6000+，指尖发力）；Arm保持=SmoothBot×4；收尾验收=Controlsphere SuperbAim×1（Wrist卡口验收冲6200）。关打击音效。Air CELESTIAL打疲劳了立刻停，质量>数量。",
 	"hasOfflineScenarios": false,
 	"hasEdited": true,
 	"shareCode": "",
