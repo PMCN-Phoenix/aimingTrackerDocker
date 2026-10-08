@@ -1,8 +1,9 @@
 # VDIM 训练指南（Novice 级别）
 
-> 开始日期：2026-10-13（周一）
+> 开始日期：2026-10-09（周五）
 > 当前级别：Novice（Bronze → Gold）
-> 目标：所有子类过 Gold 线 → 升 Intermediate
+> 目标：所有子类过 Gold 线（Gold Complete）→ 升 Intermediate
+> 起点基准：2026-10-08（37/39 场景已测）
 
 ---
 
@@ -88,6 +89,69 @@
 
 ---
 
+## 三-补充、Gold Complete 进度追踪
+
+### 什么是"子类"
+VDIM 的"子类"指瞄准能力的细分维度。Viscose S2 基准分为 **12 个子类**，每个子类包含 2-6 个场景：
+
+| 子类 | 含义 | 代表场景 |
+| --- | --- | --- |
+| Arm | 手臂大范围控制 | Smoothsphere, Whisphere, SmoothBot |
+| Wrist | 手腕中范围控制 | Controlsphere, Leapstrafes |
+| Fingertip | 手指微调 | cloverRawControl, Air Angelic |
+| Blending | 手臂+手腕混合 | PGTI, Air CELESTIAL, RawControlSphere |
+| Control | 控制稳定性 | Air Spectral, Ground Plaza |
+| Speed | 速度 | ww5t, Plink Palace, VT Aether |
+| Reading | 阅读/预判 | Air Voltaic, Pasu, VT Bounceshot |
+| Stability | 点击稳定性 | StaticSwitchingVox, beanTS, 1w6ts |
+| Micro | 微操/小范围 | 1w2ts, waldoTS, eth Pasu Micro |
+| Evasive | 规避/变向目标 | domiSwitch |
+| Precision | 精度 | Popcorn, 1w3ts Pasu, skyClick |
+| Linear | 线性移动 | Floating Heads, voxTargetSwitch Click |
+
+### 什么是"Gold Complete"
+- Voltaic 排名：Bronze → Silver → **Gold** → Platinum → Diamond → Master → Grandmaster → Astra
+- **Gold Complete** = 所有子类都达到 Gold 级别，没有短板
+- Viscose Easier 档位对应：Gold ≈ **Ermine → Penguin** 水平
+
+### 当前进度（起点基准：2026-10-08）
+
+| 子类 | 当前整体水平 | 是否过 Gold（Ermine+） | 代表场景分数 |
+| --- | --- | --- | --- |
+| Fingertip | 🟢 Fox | ✅ 已过 | cloverRawControl 7842, Air Angelic 4264 |
+| Micro | 🟢 Fox | ✅ 已过 | 1w2ts 108, waldoTS 97 |
+| Arm | 🟡 Penguin | ✅ 已过 | Smoothsphere 9372, SmoothBot 3331 |
+| Blending | 🟡 Penguin | ✅ 已过 | PGTI 1259, Air CELESTIAL 851 |
+| Control | 🟡 Penguin | ✅ 已过 | Ground Plaza 848, Air Spectral 906 |
+| Speed | 🟠 Ermine | ✅ 已过 | ww5t 100, Plink Palace 2077 |
+| Stability | 🟠 Ermine | ✅ 已过 | StaticSwitchingVox 101, beanTS 90 |
+| Precision | 🟠 Ermine | ✅ 已过 | Popcorn 270, 1w3ts 740 |
+| **Wrist** | 🔴 Hare | ❌ **未过** | Controlsphere 5739（差461）, Leapstrafes 1892 |
+| **Reading** | 🔴 Hare | ❌ **未过** | Air Voltaic 2562（差238）, Pasu 50（差2） |
+
+**进度：10/12 子类已过 Gold 线，还差 Wrist 和 Reading 两个子类。**
+
+### 重点突破目标
+
+| 优先级 | 场景 | 当前分数 | Gold 线（Ermine） | 差距 | 子类 |
+| --- | --- | --- | --- | --- | --- |
+| 1 | Controlsphere SuperbAim | 5739 | 6200 | +461 | Wrist |
+| 2 | Air Voltaic Invincible 4 | 2562 | 2800 | +238 | Reading |
+| 3 | Leapstrafes Control | 1892 | 2025 | +133 | Wrist |
+| 4 | eth Pasu Micro | 704 | 775 | +71 | Micro |
+| 5 | RawControlSphere | 6819 | 7400 | +581 | Blending |
+
+### 进度更新记录
+每次基准测试后更新此表：
+
+| 基准日期 | 已过 Gold 子类数 | 未过子类 | 备注 |
+| --- | --- | --- | --- |
+| 2026-10-08（起点） | 10/12 | Wrist, Reading | 刚开始 VDIM |
+| 2026-10-20（第2次） | - | - | 待更新 |
+| 2026-11-03（第4周末） | - | - | 待更新 |
+
+---
+
 ## 四、不涨分可能遇到的问题（排查清单）
 
 如果练了2-4周分数没涨，按以下顺序排查：
@@ -139,19 +203,45 @@
 
 ## 五、第一周执行计划
 
-| 日期 | 事项 | 说明 |
-| --- | --- | --- |
-| **2026-10-09（周四）** | 跑完整基准 | Viscose S2 Easier 所有场景各1次，记录起点分数 |
-| **2026-10-10 ~ 12** | 休息/准备 | 订阅 VDIM Novice S5 playlist，调整设置 |
-| **2026-10-13（周一）** | 正式开始 VDIM | 周一：动态点击 |
-| **2026-10-14（周二）** | 静态点击 | - |
-| **2026-10-15（周三）** | 平滑跟枪 | - |
-| **2026-10-16（周四）** | 反应跟枪 | - |
-| **2026-10-17（周五）** | 速度转火 | - |
-| **2026-10-18（周六）** | 移动瞄准/自由 | - |
-| **2026-10-19（周日）** | 休息 | - |
-| **2026-10-20（周一）** | 第2次基准测试 | 跑完整基准，对比起点，记录进步 |
-| **2026-11-03（周一）** | 第4周末评估 | 第3次基准测试，评估是否能进阶 |
+### 开始方式说明
+
+VDIM 按"周一到周六"设计，每天一个主题，周日休息。你从**周五（10/9）**开始，有两种方式：
+
+- **方式 A（推荐）：按星期几对应主题** — 周五练"速度转火"，周日固定休息，符合 VDIM 官方节奏
+- **方式 B：从 Day 1 开始按顺序练** — 周五练"动态点击"，按顺序练 6 天后休息，休息日不固定在周日
+
+**推荐方式 A**，因为周日固定休息更符合生活节奏，也方便和基准测试时间对齐。
+
+### 详细计划（方式 A：按星期几对应）
+
+| 日期 | 星期 | 训练主题 | Playlist 分享码（S4旧版） | 说明 |
+| --- | --- | --- | --- | --- |
+| 2026-10-08 | 周四 | 起点基准 ✅ | - | 已跑完，37/39 场景 |
+| **2026-10-09** | **周五** | **速度转火** (Speed Switching) | `KovaaKsTaggingAlmightyHip` | **明天开始！先做热身，再做主 playlist** |
+| 2026-10-10 | 周六 | 移动瞄准/自由 | `KovaaKsTimewarpingAngelicAttachment` | 或补弱项（Wrist/Reading） |
+| 2026-10-11 | 周日 | 休息 | - | 恢复，不练 |
+| 2026-10-12 | 周一 | 动态点击 | `KovaaKsStarting10xLoadout` | - |
+| 2026-10-13 | 周二 | 静态点击 | `KovaaKsStrafingAcedDps` | - |
+| 2026-10-14 | 周三 | 平滑跟枪 | `KovaaKsStrikingAfkBm` | - |
+| 2026-10-15 | 周四 | 反应跟枪 | `KovaaKsSwitchingAfkSeason` | - |
+| 2026-10-16 | 周五 | 速度转火 | `KovaaKsTaggingAlmightyHip` | 第二周 |
+| 2026-10-17 | 周六 | 移动瞄准/自由 | `KovaaKsTimewarpingAngelicAttachment` | - |
+| 2026-10-18 | 周日 | 休息 | - | - |
+| 2026-10-19 | 周一 | 动态点击 | `KovaaKsStarting10xLoadout` | - |
+| **2026-10-20** | **周二** | **第2次基准测试** | - | 跑完整基准，对比起点，记录进步 |
+| **2026-11-03** | **周二** | **第4周末评估** | - | 第3次基准测试，评估是否能进阶 |
+
+### 明天（10/9 周五）训练流程
+
+1. **热身 10 分钟**：`KovaaKsChattingThinDeserteagle`（Easy 热身）
+2. **主训练 50-60 分钟**：`KovaaKsTaggingAlmightyHip`（速度转火 Novice）
+   - 在 Kovaak's 主菜单 → Online Playlist → 粘贴分享码 → Subscribe
+   - S5 最新版：游戏内搜索 "VDIM Novice S5" 订阅
+   - 按 playlist 顺序做，不要跳场景
+3. **训练后记录**：
+   - 每个场景的分数（如果有基准场景）
+   - 当天的感悟/发现（写进感悟系统）
+   - 身体状态（手酸/疲劳/状态好）
 
 ---
 
