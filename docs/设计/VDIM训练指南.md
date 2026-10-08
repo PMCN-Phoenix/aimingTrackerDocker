@@ -205,39 +205,39 @@ VDIM 的"子类"指瞄准能力的细分维度。Viscose S2 基准分为 **12 �
 
 ### 开始方式说明
 
-VDIM 按"周一到周六"设计，每天一个主题，周日休息。你从**周五（10/9）**开始，有两种方式：
+你选择了**从"平滑跟枪"开始，依次往后排**的方式。VDIM 原设计顺序是：动态点击→静态点击→平滑跟枪→反应跟枪→速度转火→移动瞄准。你从第 3 个主题（平滑跟枪）开始，练完 6 天后休息 1 天，然后循环。
 
-- **方式 A（推荐）：按星期几对应主题** — 周五练"速度转火"，周日固定休息，符合 VDIM 官方节奏
-- **方式 B：从 Day 1 开始按顺序练** — 周五练"动态点击"，按顺序练 6 天后休息，休息日不固定在周日
+**训练顺序**：平滑跟枪 → 反应跟枪 → 速度转火 → 移动瞄准 → 动态点击 → 静态点击 → 休息 → 循环
 
-**推荐方式 A**，因为周日固定休息更符合生活节奏，也方便和基准测试时间对齐。
-
-### 详细计划（方式 A：按星期几对应）
+### 详细计划
 
 | 日期 | 星期 | 训练主题 | Playlist 分享码（S4旧版） | 说明 |
 | --- | --- | --- | --- | --- |
 | 2026-10-08 | 周四 | 起点基准 ✅ | - | 已跑完，37/39 场景 |
-| **2026-10-09** | **周五** | **速度转火** (Speed Switching) | `KovaaKsTaggingAlmightyHip` | **明天开始！先做热身，再做主 playlist** |
-| 2026-10-10 | 周六 | 移动瞄准/自由 | `KovaaKsTimewarpingAngelicAttachment` | 或补弱项（Wrist/Reading） |
-| 2026-10-11 | 周日 | 休息 | - | 恢复，不练 |
-| 2026-10-12 | 周一 | 动态点击 | `KovaaKsStarting10xLoadout` | - |
-| 2026-10-13 | 周二 | 静态点击 | `KovaaKsStrafingAcedDps` | - |
-| 2026-10-14 | 周三 | 平滑跟枪 | `KovaaKsStrikingAfkBm` | - |
-| 2026-10-15 | 周四 | 反应跟枪 | `KovaaKsSwitchingAfkSeason` | - |
-| 2026-10-16 | 周五 | 速度转火 | `KovaaKsTaggingAlmightyHip` | 第二周 |
-| 2026-10-17 | 周六 | 移动瞄准/自由 | `KovaaKsTimewarpingAngelicAttachment` | - |
-| 2026-10-18 | 周日 | 休息 | - | - |
-| 2026-10-19 | 周一 | 动态点击 | `KovaaKsStarting10xLoadout` | - |
-| **2026-10-20** | **周二** | **第2次基准测试** | - | 跑完整基准，对比起点，记录进步 |
-| **2026-11-03** | **周二** | **第4周末评估** | - | 第3次基准测试，评估是否能进阶 |
+| **2026-10-09** | **周五** | **Day 1：平滑跟枪** (Smooth Tracking) | `KovaaKsStrikingAfkBm` | **明天开始！你的最弱主题，重点练** |
+| 2026-10-10 | 周六 | Day 2：反应跟枪 (Reactive Tracking) | `KovaaKsSwitchingAfkSeason` | 第二弱主题 |
+| 2026-10-11 | 周日 | Day 3：速度转火 (Speed Switching) | `KovaaKsTaggingAlmightyHip` | 最均衡主题 |
+| 2026-10-12 | 周一 | Day 4：移动瞄准/自由 | `KovaaKsTimewarpingAngelicAttachment` | 或补弱项（Wrist/Reading） |
+| 2026-10-13 | 周二 | Day 5：动态点击 (Dynamic Clicking) | `KovaaKsStarting10xLoadout` | - |
+| 2026-10-14 | 周三 | Day 6：静态点击 (Static Clicking) | `KovaaKsStrafingAcedDps` | - |
+| 2026-10-15 | 周四 | 休息 | - | 恢复，不练 |
+| 2026-10-16 | 周五 | 第二周 Day 1：平滑跟枪 | `KovaaKsStrikingAfkBm` | 循环 |
+| 2026-10-17 | 周六 | 第二周 Day 2：反应跟枪 | `KovaaKsSwitchingAfkSeason` | - |
+| 2026-10-18 | 周日 | 第二周 Day 3：速度转火 | `KovaaKsTaggingAlmightyHip` | - |
+| 2026-10-19 | 周一 | 第二周 Day 4：移动瞄准/自由 | `KovaaKsTimewarpingAngelicAttachment` | - |
+| **2026-10-20** | **周二** | **第2次基准测试** | - | 跑完整基准，对比起点，记录进步（代替当天训练） |
+| 2026-10-21 | 周三 | 休息/恢复 | - | 基准后休息 |
+| 2026-10-22 | 周四 | 第三周 Day 1：平滑跟枪 | `KovaaKsStrikingAfkBm` | 继续循环 |
+| **2026-11-05** | **周四** | **第4周末评估** | - | 第3次基准测试，评估是否能进阶 |
 
-### 明天（10/9 周五）训练流程
+### 明天（10/9 周五）训练流程 — Day 1：平滑跟枪
 
 1. **热身 10 分钟**：`KovaaKsChattingThinDeserteagle`（Easy 热身）
-2. **主训练 50-60 分钟**：`KovaaKsTaggingAlmightyHip`（速度转火 Novice）
+2. **主训练 50-60 分钟**：`KovaaKsStrikingAfkBm`（平滑跟枪 Novice）
    - 在 Kovaak's 主菜单 → Online Playlist → 粘贴分享码 → Subscribe
    - S5 最新版：游戏内搜索 "VDIM Novice S5" 订阅
    - 按 playlist 顺序做，不要跳场景
+   - **重点关注**：这是你最弱的主题（Wrist 子类整体 Hare，Whisphere 是唯一的 Lemming），认真体会动作
 3. **训练后记录**：
    - 每个场景的分数（如果有基准场景）
    - 当天的感悟/发现（写进感悟系统）
