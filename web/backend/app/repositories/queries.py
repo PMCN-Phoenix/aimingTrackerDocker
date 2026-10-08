@@ -57,13 +57,16 @@ from(bucket: "{db.bucket}")
 
 
 def get_all_scenarios_rounds(start_ts: int, end_ts: int, list_name: str = "viscose-s2-easier") -> Dict[str, int]:
-    """查某段时间内所有场景的打靶轮数"""
+    """查某段时间内所有场景的打靶轮数（同时查询 aim_scenario 和 kovaak_score）"""
     from datetime import datetime
     
     start_str = datetime.utcfromtimestamp(start_ts).strftime('%Y-%m-%dT%H:%M:%SZ')
     end_str = datetime.utcfromtimestamp(end_ts).strftime('%Y-%m-%dT%H:%M:%SZ')
     
-    flux = f'''
+    result = {}
+    
+    # 1. 查询 aim_scenario（旧数据格式）
+    flux1 = f'''
 from(bucket: "{db.bucket}")
   |> range(start: {start_str}, stop: {end_str})
   |> filter(fn: (r) => r._measurement == "aim_scenario" and r.list == "{list_name}")
@@ -71,12 +74,33 @@ from(bucket: "{db.bucket}")
   |> group(columns: ["scenario"])
   |> count()
 '''
-    rows = db.query(flux)
-    result = {}
-    for row in rows:
-        scenario = row.get("scenario")
-        count = int(float(row.get("_value", 0)))
-        result[scenario] = count
+    try:
+        rows1 = db.query(flux1)
+        for row in rows1:
+            scenario = row.get("scenario")
+            count = int(float(row.get("_value", 0)))
+            result[scenario] = result.get(scenario, 0) + count
+    except Exception as e:
+        print(f"查询 aim_scenario 失败: {e}")
+    
+    # 2. 查询 kovaak_score（新数据格式）
+    flux2 = f'''
+from(bucket: "{db.bucket}")
+  |> range(start: {start_str}, stop: {end_str})
+  |> filter(fn: (r) => r._measurement == "kovaak_score" and r.list == "{list_name}")
+  |> filter(fn: (r) => r._field == "score")
+  |> group(columns: ["scenario"])
+  |> count()
+'''
+    try:
+        rows2 = db.query(flux2)
+        for row in rows2:
+            scenario = row.get("scenario")
+            count = int(float(row.get("_value", 0)))
+            result[scenario] = result.get(scenario, 0) + count
+    except Exception as e:
+        print(f"查询 kovaak_score 失败: {e}")
+    
     return result
 
 
