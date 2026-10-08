@@ -9,6 +9,7 @@ from typing import Optional
 from pydantic import BaseModel
 
 from app.repositories import queries
+from app.repositories import vdim_queries
 
 app = FastAPI(title="练枪看板 API", version="0.1.0")
 
@@ -747,6 +748,118 @@ async def get_aimlab_task_history(
     """获取某个 Aim Lab 任务的历史成绩"""
     try:
         data = queries.get_aimlab_task_history(task, days)
+        return ApiResponse(code=0, data=data)
+    except Exception as e:
+        return ApiResponse(code=500, message=str(e))
+
+
+# ==================== VDIM 训练接口 ====================
+
+class VdimCheckinCreate(BaseModel):
+    date: str
+    note: Optional[str] = None
+
+class VdimScoreCreate(BaseModel):
+    cycle: int
+    day: str
+    scenario: str
+    score: float
+    accuracy: Optional[float] = None
+    date: Optional[str] = None
+
+class VdimImportRequest(BaseModel):
+    cycle: int
+    day: str
+    date: str
+
+
+@app.get("/api/vdim/today", response_model=ApiResponse)
+async def get_vdim_today():
+    """获取今天的 VDIM 训练信息"""
+    try:
+        data = vdim_queries.get_vdim_today()
+        return ApiResponse(code=0, data=data)
+    except Exception as e:
+        return ApiResponse(code=500, message=str(e))
+
+
+@app.get("/api/vdim/day/{cycle}/{day}", response_model=ApiResponse)
+async def get_vdim_day(cycle: int, day: str):
+    """获取某周期某天的 VDIM 完整数据"""
+    try:
+        data = vdim_queries.get_vdim_day(cycle, day)
+        return ApiResponse(code=0, data=data)
+    except Exception as e:
+        return ApiResponse(code=500, message=str(e))
+
+
+@app.get("/api/vdim/overview", response_model=ApiResponse)
+async def get_vdim_overview():
+    """获取 VDIM 顶部概览卡片数据"""
+    try:
+        data = vdim_queries.get_vdim_overview()
+        return ApiResponse(code=0, data=data)
+    except Exception as e:
+        return ApiResponse(code=500, message=str(e))
+
+
+@app.post("/api/vdim/checkin", response_model=ApiResponse)
+async def create_vdim_checkin(checkin: VdimCheckinCreate):
+    """VDIM 训练打卡"""
+    try:
+        data = vdim_queries.create_vdim_checkin(checkin.date, checkin.note)
+        return ApiResponse(code=0, data=data)
+    except Exception as e:
+        return ApiResponse(code=500, message=str(e))
+
+
+@app.post("/api/vdim/score", response_model=ApiResponse)
+async def create_vdim_score(score: VdimScoreCreate):
+    """VDIM 手动补录分数"""
+    try:
+        data = vdim_queries.create_vdim_score(
+            cycle=score.cycle,
+            day=score.day,
+            scenario=score.scenario,
+            score=score.score,
+            accuracy=score.accuracy,
+            date=score.date,
+            source="manual"
+        )
+        return ApiResponse(code=0, data=data)
+    except Exception as e:
+        return ApiResponse(code=500, message=str(e))
+
+
+@app.post("/api/vdim/import", response_model=ApiResponse)
+async def import_vdim_scores(import_req: VdimImportRequest):
+    """从 Kovaak's stats 导入 VDIM 分数"""
+    try:
+        data = vdim_queries.import_vdim_scores_from_stats(
+            cycle=import_req.cycle,
+            day=import_req.day,
+            date=import_req.date
+        )
+        return ApiResponse(code=0, data=data)
+    except Exception as e:
+        return ApiResponse(code=500, message=str(e))
+
+
+@app.get("/api/vdim/playlists", response_model=ApiResponse)
+async def get_vdim_playlists():
+    """获取 VDIM playlist 配置"""
+    try:
+        data = vdim_queries.get_vdim_playlists()
+        return ApiResponse(code=0, data=data)
+    except Exception as e:
+        return ApiResponse(code=500, message=str(e))
+
+
+@app.get("/api/vdim/scenario/{scenario}/history", response_model=ApiResponse)
+async def get_vdim_scenario_history(scenario: str, days: int = Query(30)):
+    """获取某 VDIM 场景的历史分数"""
+    try:
+        data = vdim_queries.get_vdim_scenario_history(scenario, days)
         return ApiResponse(code=0, data=data)
     except Exception as e:
         return ApiResponse(code=500, message=str(e))
