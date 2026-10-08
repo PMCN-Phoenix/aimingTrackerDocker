@@ -114,3 +114,60 @@ export function getAimlabTasks() {
 export function getAimlabTaskHistory(task, days = 30) {
   return request(`/aimlab/tasks/${encodeURIComponent(task)}/history?days=${days}`)
 }
+
+// VDIM 相关
+export function getVdimToday() {
+  return request('/vdim/today')
+}
+
+export function getVdimDay(cycle, day) {
+  return request(`/vdim/day/${cycle}/${encodeURIComponent(day)}`)
+}
+
+export function getVdimOverview() {
+  return request('/vdim/overview')
+}
+
+export function getVdimPlaylists() {
+  return request('/vdim/playlists')
+}
+
+export function getVdimScenarioHistory(scenario, days = 30) {
+  return request(`/vdim/scenario/${encodeURIComponent(scenario)}/history?days=${days}`)
+}
+
+export function createVdimCheckin(date, note = '') {
+  return fetch(`${BASE_URL}/vdim/checkin`, {
+    method: 'POST',
+    headers: { 'Content-Type': 'application/json' },
+    body: JSON.stringify({ date, note }),
+  }).then(res => res.json())
+    .then(json => {
+      if (json.code !== 0) throw new Error(json.message || '打卡失败')
+      return json.data
+    })
+}
+
+export function createVdimScore(data) {
+  return fetch(`${BASE_URL}/vdim/score`, {
+    method: 'POST',
+    headers: { 'Content-Type': 'application/json' },
+    body: JSON.stringify(data),
+  }).then(res => res.json())
+    .then(json => {
+      if (json.code !== 0) throw new Error(json.message || '保存失败')
+      return json.data
+    })
+}
+
+export function importVdimScores(data) {
+  return fetch(`${BASE_URL}/vdim/import`, {
+    method: 'POST',
+    headers: { 'Content-Type': 'application/json' },
+    body: JSON.stringify(data),
+  }).then(res => res.json())
+    .then(json => {
+      if (json.code !== 0) throw new Error(json.message || '导入失败')
+      return json.data
+    })
+}

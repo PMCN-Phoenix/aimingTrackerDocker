@@ -1,5 +1,5 @@
-import { useQuery } from '@tanstack/react-query'
-import { getDaylists, getDaylistProgress, getScenarioPopup, getScenarioHistory, getDaylistExtras } from '../api/client'
+﻿import { useQuery } from '@tanstack/react-query'
+import { getDaylists, getDaylistProgress, getScenarioPopup, getScenarioHistory, getDaylistExtras, getVdimToday, getVdimDay, getVdimOverview, getVdimPlaylists, getVdimScenarioHistory } from '../api/client'
 
 // 清单列表
 export function useDaylists() {
@@ -43,6 +43,49 @@ export function useScenarioHistory(scenario, days = 30, enabled = true) {
   return useQuery({
     queryKey: ['scenarioHistory', scenario, days],
     queryFn: () => getScenarioHistory(scenario, days),
+    enabled: enabled && !!scenario,
+    staleTime: 60 * 1000,
+  })
+}
+
+// VDIM 相关 hooks
+export function useVdimToday() {
+  return useQuery({
+    queryKey: ['vdimToday'],
+    queryFn: getVdimToday,
+    staleTime: 60 * 1000,
+  })
+}
+
+export function useVdimDay(cycle, day) {
+  return useQuery({
+    queryKey: ['vdimDay', cycle, day],
+    queryFn: () => getVdimDay(cycle, day),
+    enabled: !!cycle && !!day,
+    staleTime: 60 * 1000,
+  })
+}
+
+export function useVdimOverview() {
+  return useQuery({
+    queryKey: ['vdimOverview'],
+    queryFn: getVdimOverview,
+    staleTime: 60 * 1000,
+  })
+}
+
+export function useVdimPlaylists() {
+  return useQuery({
+    queryKey: ['vdimPlaylists'],
+    queryFn: getVdimPlaylists,
+    staleTime: 5 * 60 * 1000,
+  })
+}
+
+export function useVdimScenarioHistory(scenario, days = 30, enabled = true) {
+  return useQuery({
+    queryKey: ['vdimScenarioHistory', scenario, days],
+    queryFn: () => getVdimScenarioHistory(scenario, days),
     enabled: enabled && !!scenario,
     staleTime: 60 * 1000,
   })

@@ -5,6 +5,7 @@ import DaylistDashboard from './pages/DaylistDashboard'
 import BenchmarkDashboard from './pages/BenchmarkDashboard'
 import AimLabDashboard from './pages/AimLabDashboard'
 import GameReflection from './pages/GameReflection'
+import VdimDashboard from './pages/VdimDashboard'
 import UpdateDataButton from './components/UpdateDataButton'
 import './App.css'
 
@@ -49,6 +50,7 @@ function App() {
                 style={{ flex: 1 }}
                 items={[
                   { key: 'daylist', label: <Link to="/daylist/Day3">今日清单</Link> },
+                  { key: 'vdim', label: <Link to="/vdim">VDIM训练</Link> },
                   { key: 'benchmark', label: <Link to="/benchmark">基准总览</Link> },
                   { key: 'aimlab', label: <Link to="/aimlab">Aim Lab</Link> },
                   { key: 'reflection', label: <Link to="/reflection">游戏感悟</Link> },
@@ -60,6 +62,7 @@ function App() {
               <Routes>
                 <Route path="/" element={<Navigate to="/daylist/Day3" replace />} />
                 <Route path="/daylist/:daylistId" element={<DaylistDashboard />} />
+                <Route path="/vdim" element={<VdimDashboard />} />
                 <Route path="/benchmark" element={<BenchmarkDashboard />} />
                 <Route path="/aimlab" element={<AimLabDashboard />} />
                 <Route path="/reflection" element={<GameReflection />} />
