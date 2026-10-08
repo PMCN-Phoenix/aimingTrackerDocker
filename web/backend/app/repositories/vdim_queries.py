@@ -179,6 +179,8 @@ def create_vdim_checkin(date: str, note: str = None) -> Dict[str, Any]:
     """训练打卡"""
     cycle, day = vdim_utils.get_cycle_and_day(datetime.strptime(date, "%Y-%m-%d"))
     theme, theme_label = vdim_utils.get_theme_for_day(day)
+    if not theme:
+        theme = "rest"
     checkin_time = int(time.time())
 
     # 构建 Line Protocol
@@ -213,6 +215,8 @@ def create_vdim_score(
 ) -> Dict[str, Any]:
     """手动补录分数"""
     theme, theme_label = vdim_utils.get_theme_for_day(day)
+    if not theme:
+        theme = "rest"
     scenario_type = vdim_utils.get_scenario_type(scenario, day)
 
     # 确定时间戳
