@@ -7,53 +7,68 @@ from .influx_client import db
 # ==================== aim_scenario 查询 ====================
 
 def get_scenario_best(scenario: str, start_ts: int, end_ts: int, list_name: str = "viscose-s2-easier") -> Dict[str, Any]:
-    """查某个场景在某段时间内的最佳成绩（score / accuracy）"""
+    """查某个场景在某段时间内的最佳成绩（score / accuracy），同时查询 aim_scenario 和 kovaak_score"""
     from datetime import datetime
     
-    # 把时间戳转成 RFC3339 格式的时间字符串（UTC）
     start_str = datetime.utcfromtimestamp(start_ts).strftime('%Y-%m-%dT%H:%M:%SZ')
     end_str = datetime.utcfromtimestamp(end_ts).strftime('%Y-%m-%dT%H:%M:%SZ')
     
-    flux = f'''
+    result = {"scenario": scenario, "score": None, "accuracy": None}
+    
+    for measurement in ["aim_scenario", "kovaak_score"]:
+        flux = f'''
 from(bucket: "{db.bucket}")
   |> range(start: {start_str}, stop: {end_str})
-  |> filter(fn: (r) => r._measurement == "aim_scenario" and r.scenario == "{scenario}" and r.list == "{list_name}")
+  |> filter(fn: (r) => r._measurement == "{measurement}" and r.scenario == "{scenario}" and r.list == "{list_name}")
   |> filter(fn: (r) => r._field == "score" or r._field == "accuracy")
   |> keep(columns: ["_time", "_value", "_field", "scenario"])
   |> group(columns: ["scenario", "_field"])
   |> max()
 '''
-    rows = db.query(flux)
-    result = {"scenario": scenario, "score": None, "accuracy": None}
-    for row in rows:
-        field = row.get("_field")
-        value = row.get("_value")
-        if field == "score":
-            result["score"] = float(value) if value else None
-        elif field == "accuracy":
-            result["accuracy"] = float(value) if value else None
+        try:
+            rows = db.query(flux)
+            for row in rows:
+                field = row.get("_field")
+                value = row.get("_value")
+                if field == "score" and value:
+                    val = float(value)
+                    if result["score"] is None or val > result["score"]:
+                        result["score"] = val
+                elif field == "accuracy" and value:
+                    val = float(value)
+                    if result["accuracy"] is None or val > result["accuracy"]:
+                        result["accuracy"] = val
+        except Exception as e:
+            print(f"查询 {measurement} 失败: {e}")
+    
     return result
 
 
 def get_scenario_rounds(scenario: str, start_ts: int, end_ts: int, list_name: str = "viscose-s2-easier") -> int:
-    """查某个场景在某段时间内打了多少轮"""
+    """查某个场景在某段时间内打了多少轮，同时查询 aim_scenario 和 kovaak_score"""
     from datetime import datetime
     
     start_str = datetime.utcfromtimestamp(start_ts).strftime('%Y-%m-%dT%H:%M:%SZ')
     end_str = datetime.utcfromtimestamp(end_ts).strftime('%Y-%m-%dT%H:%M:%SZ')
     
-    flux = f'''
+    total = 0
+    for measurement in ["aim_scenario", "kovaak_score"]:
+        flux = f'''
 from(bucket: "{db.bucket}")
   |> range(start: {start_str}, stop: {end_str})
-  |> filter(fn: (r) => r._measurement == "aim_scenario" and r.scenario == "{scenario}" and r.list == "{list_name}")
+  |> filter(fn: (r) => r._measurement == "{measurement}" and r.scenario == "{scenario}" and r.list == "{list_name}")
   |> filter(fn: (r) => r._field == "score")
   |> group(columns: ["scenario"])
   |> count()
 '''
-    rows = db.query(flux)
-    if rows:
-        return int(float(rows[0].get("_value", 0)))
-    return 0
+        try:
+            rows = db.query(flux)
+            if rows:
+                total += int(float(rows[0].get("_value", 0)))
+        except Exception as e:
+            print(f"查询 {measurement} 失败: {e}")
+    
+    return total
 
 
 def get_all_scenarios_rounds(start_ts: int, end_ts: int, list_name: str = "viscose-s2-easier") -> Dict[str, int]:
@@ -105,22 +120,29 @@ from(bucket: "{db.bucket}")
 
 
 def get_scenario_history(scenario: str, days: int = 30, list_name: str = "viscose-s2-easier") -> List[Dict[str, Any]]:
-    """查某个场景的历史成绩趋势"""
-    flux = f'''
+    """查某个场景的历史成绩趋势，同时查询 aim_scenario 和 kovaak_score"""
+    result = []
+    for measurement in ["aim_scenario", "kovaak_score"]:
+        flux = f'''
 from(bucket: "{db.bucket}")
   |> range(start: -{days}d)
-  |> filter(fn: (r) => r._measurement == "aim_scenario" and r.scenario == "{scenario}" and r.list == "{list_name}")
+  |> filter(fn: (r) => r._measurement == "{measurement}" and r.scenario == "{scenario}" and r.list == "{list_name}")
   |> filter(fn: (r) => r._field == "score")
   |> keep(columns: ["_time", "_value", "scenario"])
 '''
-    rows = db.query(flux)
-    result = []
-    for row in rows:
-        result.append({
-            "time": row.get("_time"),
-            "score": float(row.get("_value", 0)),
-            "scenario": row.get("scenario")
-        })
+        try:
+            rows = db.query(flux)
+            for row in rows:
+                result.append({
+                    "time": row.get("_time"),
+                    "score": float(row.get("_value", 0)),
+                    "scenario": row.get("scenario")
+                })
+        except Exception as e:
+            print(f"查询 {measurement} 失败: {e}")
+    
+    # 按时间排序
+    result.sort(key=lambda x: x.get("time", ""))
     return result
 
 
@@ -374,18 +396,24 @@ def get_extra_scenario_rounds(
     # 转义场景名里的引号
     scenario_escaped = scenario.replace('"', '\\"')
 
-    flux = f'''
+    total = 0
+    for measurement in ["aim_scenario", "kovaak_score"]:
+        flux = f'''
 from(bucket: "{db.bucket}")
   |> range(start: {start_str}, stop: {end_str})
-  |> filter(fn: (r) => r._measurement == "aim_scenario" and r.scenario == "{scenario_escaped}" and r.list == "{list_name}")
+  |> filter(fn: (r) => r._measurement == "{measurement}" and r.scenario == "{scenario_escaped}" and r.list == "{list_name}")
   |> filter(fn: (r) => r._field == "score")
   |> group(columns: ["scenario"])
   |> count()
 '''
-    rows = db.query(flux)
-    if rows:
-        return int(float(rows[0].get("_value", 0)))
-    return 0
+        try:
+            rows = db.query(flux)
+            if rows:
+                total += int(float(rows[0].get("_value", 0)))
+        except Exception as e:
+            print(f"查询 {measurement} 失败: {e}")
+    
+    return total
 
 
 def create_extra_daylist(
