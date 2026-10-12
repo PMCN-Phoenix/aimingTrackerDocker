@@ -1,0 +1,4 @@
+问题编号,日期,训练日,场景名称,问题大类,瞄准子类,问题简述,解决状态,复发次数,文件路径,相关感悟,参考资料
+Q004.1,2026-10-09,VDIM W1D1（平滑跟枪）,tamTargetSwitch Smooth,方向性控制,Switching/Smoothness,鼠标向左移动可稳定匹配速度，向右不行,验证中,1,子问题/Q004.1-tamTargetSwitch方向性控制不对称/README.md,,
+Q004.2,2026-10-09,VDIM W1D1（平滑跟枪）,VT PreciseOrb Intermediate Small,精准度/微调,Precise,大范围轨迹OK但目标太小不能微调到上面,验证中,1,子问题/Q004.2-小目标微调不行/README.md,,
+Q004.3,2026-10-10,VDIM W1D2（反应跟枪）,Midrange Short Strafes Invincible Raspberry Easy,反应跟枪/变向,Reactive,目标高速平滑+减速转向加速时反应不过来,未解决,1,子问题/Q004.3-高速变向反应不过来/README.md,,
