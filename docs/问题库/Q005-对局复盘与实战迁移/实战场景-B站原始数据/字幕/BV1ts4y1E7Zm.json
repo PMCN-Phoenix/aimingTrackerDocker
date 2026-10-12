@@ -1,0 +1,642 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "sync-en-v1.2.0.4-t0.3.c",
+  "body": [
+    {
+      "from": 0.32,
+      "to": 0.56,
+      "sid": 1,
+      "location": 2,
+      "content": "你好"
+    },
+    {
+      "from": 0.56,
+      "to": 2.38,
+      "sid": 2,
+      "location": 2,
+      "content": "YouTube教练Jan在这里"
+    },
+    {
+      "from": 2.38,
+      "to": 2.6,
+      "sid": 3,
+      "location": 2,
+      "content": "和"
+    },
+    {
+      "from": 2.6,
+      "to": 4.019,
+      "sid": 4,
+      "location": 2,
+      "content": "我想给你简要介绍一下"
+    },
+    {
+      "from": 4.019,
+      "to": 6.64,
+      "sid": 5,
+      "location": 2,
+      "content": "在勇敢中被低估的概念"
+    },
+    {
+      "from": 6.64,
+      "to": 10.04,
+      "sid": 6,
+      "location": 2,
+      "content": "我喜欢在这个视频中称之为枪战卫生"
+    },
+    {
+      "from": 10.04,
+      "to": 11.5,
+      "sid": 7,
+      "location": 2,
+      "content": "我要教你如何视频点播"
+    },
+    {
+      "from": 11.5,
+      "to": 13.74,
+      "sid": 8,
+      "location": 2,
+      "content": "正确回顾自己的瞄准决斗"
+    },
+    {
+      "from": 13.74,
+      "to": 16.85,
+      "sid": 9,
+      "location": 2,
+      "content": "很多人喜欢把枪战的失败归咎于瞄准"
+    },
+    {
+      "from": 16.85,
+      "to": 20.89,
+      "sid": 10,
+      "location": 2,
+      "content": "在你匆忙下结论和启动之前，我想提出另一个观点"
+    },
+    {
+      "from": 20.89,
+      "to": 21.74,
+      "sid": 11,
+      "location": 2,
+      "content": "AIM实验室"
+    },
+    {
+      "from": 22.12,
+      "to": 23.3,
+      "sid": 12,
+      "location": 2,
+      "content": "无耻插头"
+    },
+    {
+      "from": 23.3,
+      "to": 26.02,
+      "sid": 13,
+      "location": 2,
+      "content": "我在Twitch上做了大量的免费视频点播评论"
+    },
+    {
+      "from": 26.02,
+      "to": 28.02,
+      "sid": 14,
+      "location": 2,
+      "content": "每天早上电视斜杠一月"
+    },
+    {
+      "from": 28.02,
+      "to": 29.76,
+      "sid": 15,
+      "location": 2,
+      "content": "我不会说我是世界上最好的教练"
+    },
+    {
+      "from": 29.76,
+      "to": 30.92,
+      "sid": 16,
+      "location": 2,
+      "content": "但我非常棒"
+    },
+    {
+      "from": 30.92,
+      "to": 32.96,
+      "sid": 17,
+      "location": 2,
+      "content": "我已经让许多学生进入了光芒四射"
+    },
+    {
+      "from": 32.96,
+      "to": 36.34,
+      "sid": 18,
+      "location": 2,
+      "content": "在我们继续之前，我希望你能出现并和我们一起学习"
+    },
+    {
+      "from": 36.34,
+      "to": 38.64,
+      "sid": 19,
+      "location": 2,
+      "content": "有一个设置，我想确定你已经打开了"
+    },
+    {
+      "from": 38.64,
+      "to": 41.87,
+      "sid": 20,
+      "location": 2,
+      "content": "如果你进入视频设置和状态并向下滚动"
+    },
+    {
+      "from": 41.87,
+      "to": 45.23,
+      "sid": 21,
+      "location": 2,
+      "content": "有一个名为射击错误的设置，并将其设置为同时显示"
+    },
+    {
+      "from": 45.23,
+      "to": 46.25,
+      "sid": 22,
+      "location": 2,
+      "content": "然后关闭设置"
+    },
+    {
+      "from": 46.25,
+      "to": 47.75,
+      "sid": 23,
+      "location": 2,
+      "content": "这个射击失误的作用是"
+    },
+    {
+      "from": 47.75,
+      "to": 49.43,
+      "sid": 24,
+      "location": 2,
+      "content": "你会在上面看到这个图表"
+    },
+    {
+      "from": 49.43,
+      "to": 51.549,
+      "sid": 25,
+      "location": 2,
+      "content": "就在你一动不动地开枪的时候"
+    },
+    {
+      "from": 51.549,
+      "to": 53.269,
+      "sid": 26,
+      "location": 2,
+      "content": "会有这些橙色的条"
+    },
+    {
+      "from": 53.269,
+      "to": 55.8,
+      "sid": 27,
+      "location": 2,
+      "content": "当你进一步进入喷雾时，酒吧变长了"
+    },
+    {
+      "from": 55.8,
+      "to": 56.98,
+      "sid": 28,
+      "location": 2,
+      "content": "如果你碰巧在移动"
+    },
+    {
+      "from": 56.98,
+      "to": 57.68,
+      "sid": 29,
+      "location": 2,
+      "content": "当你开枪的时候"
+    },
+    {
+      "from": 57.68,
+      "to": 59.46,
+      "sid": 30,
+      "location": 2,
+      "content": "公交车上会有蓝色"
+    },
+    {
+      "from": 59.46,
+      "to": 60.46,
+      "sid": 31,
+      "location": 2,
+      "content": "这很重要"
+    },
+    {
+      "from": 60.46,
+      "to": 61.84,
+      "sid": 32,
+      "location": 2,
+      "content": "这会让你知道"
+    },
+    {
+      "from": 61.84,
+      "to": 63.1,
+      "sid": 33,
+      "location": 2,
+      "content": "如果在枪战中"
+    },
+    {
+      "from": 63.1,
+      "to": 63.96,
+      "sid": 34,
+      "location": 2,
+      "content": "你错过了一个镜头"
+    },
+    {
+      "from": 63.96,
+      "to": 65.519,
+      "sid": 35,
+      "location": 2,
+      "content": "因为动作不准确"
+    },
+    {
+      "from": 65.519,
+      "to": 67.84,
+      "sid": 36,
+      "location": 2,
+      "content": "还是因为你没打中"
+    },
+    {
+      "from": 67.84,
+      "to": 71.34,
+      "sid": 37,
+      "location": 2,
+      "content": "所以枪战可以分为四类"
+    },
+    {
+      "from": 71.34,
+      "to": 74.31,
+      "sid": 38,
+      "location": 2,
+      "content": "有零到五米的范围"
+    },
+    {
+      "from": 74.31,
+      "to": 77.14,
+      "sid": 39,
+      "location": 2,
+      "content": "五到十五米的范围"
+    },
+    {
+      "from": 77.4,
+      "to": 79.18,
+      "sid": 40,
+      "location": 2,
+      "content": "十五到三十米范围"
+    },
+    {
+      "from": 79.18,
+      "to": 80.84,
+      "sid": 41,
+      "location": 2,
+      "content": "然后除此之外的任何事情"
+    },
+    {
+      "from": 80.84,
+      "to": 83.57,
+      "sid": 42,
+      "location": 2,
+      "content": "30米以上进行零到五米的枪战"
+    },
+    {
+      "from": 83.57,
+      "to": 86.49,
+      "sid": 43,
+      "location": 2,
+      "content": "我强烈建议你专注于跑枪"
+    },
+    {
+      "from": 86.49,
+      "to": 89.32,
+      "sid": 44,
+      "location": 2,
+      "content": "甚至蹲下喷洒和行走"
+    },
+    {
+      "from": 89.42,
+      "to": 91.259,
+      "sid": 45,
+      "location": 2,
+      "content": "这里有一个演示"
+    },
+    {
+      "from": 96.28,
+      "to": 97.36,
+      "sid": 46,
+      "location": 2,
+      "content": "为了这些枪战"
+    },
+    {
+      "from": 97.36,
+      "to": 100.56,
+      "sid": 47,
+      "location": 2,
+      "content": "关键是你的对手不会在这个范围内打你"
+    },
+    {
+      "from": 100.56,
+      "to": 102.1,
+      "sid": 48,
+      "location": 2,
+      "content": "你的子弹肯定会击中他们"
+    },
+    {
+      "from": 102.1,
+      "to": 104.24,
+      "sid": 49,
+      "location": 2,
+      "content": "即使你在移动，蹲下，喷洒"
+    },
+    {
+      "from": 104.24,
+      "to": 106.66,
+      "sid": 50,
+      "location": 2,
+      "content": "所以更重要的是让自己成为一个更难移动的目标"
+    },
+    {
+      "from": 106.66,
+      "to": 108.759,
+      "sid": 51,
+      "location": 2,
+      "content": "比直接瞄准他们的头"
+    },
+    {
+      "from": 108.92,
+      "to": 110.84,
+      "sid": 52,
+      "location": 2,
+      "content": "在五到十五米的地方进行枪战"
+    },
+    {
+      "from": 110.84,
+      "to": 115.259,
+      "sid": 53,
+      "location": 2,
+      "content": "我们将引入一个新的概念，叫做两个水龙头爆裂和移动"
+    },
+    {
+      "from": 115.259,
+      "to": 116.899,
+      "sid": 54,
+      "location": 2,
+      "content": "为了两个敲击爆裂和移动"
+    },
+    {
+      "from": 116.899,
+      "to": 119.88,
+      "sid": 55,
+      "location": 2,
+      "content": "你只需要射两颗子弹，然后移动，再做一次"
+    },
+    {
+      "from": 119.88,
+      "to": 124.0,
+      "sid": 56,
+      "location": 2,
+      "content": "重要的是，在我们的射击曲线上，准确性没有变化"
+    },
+    {
+      "from": 124.0,
+      "to": 125.94,
+      "sid": 57,
+      "location": 2,
+      "content": "你只看到橙色"
+    },
+    {
+      "from": 128.619,
+      "to": 131.019,
+      "sid": 58,
+      "location": 2,
+      "content": "现在是5到15米范围的枪战"
+    },
+    {
+      "from": 132.019,
+      "to": 133.77,
+      "sid": 59,
+      "location": 2,
+      "content": "我们将从那个技术开始"
+    },
+    {
+      "from": 133.77,
+      "to": 136.07,
+      "sid": 60,
+      "location": 2,
+      "content": "但是一旦我们把一颗子弹"
+    },
+    {
+      "from": 136.07,
+      "to": 137.97,
+      "sid": 61,
+      "location": 2,
+      "content": "进入喷雾就可以了"
+    },
+    {
+      "from": 137.97,
+      "to": 140.19,
+      "sid": 62,
+      "location": 2,
+      "content": "所以让我们假装我错过了我的前两个镜头"
+    },
+    {
+      "from": 140.19,
+      "to": 141.9,
+      "sid": 63,
+      "location": 2,
+      "content": "然后我要把子弹"
+    },
+    {
+      "from": 145.199,
+      "to": 148.059,
+      "sid": 64,
+      "location": 2,
+      "content": "这是良好枪战卫生的证明"
+    },
+    {
+      "from": 148.059,
+      "to": 152.29,
+      "sid": 65,
+      "location": 2,
+      "content": "在中程枪战中进行15到30米的枪战"
+    },
+    {
+      "from": 152.29,
+      "to": 155.33,
+      "sid": 66,
+      "location": 2,
+      "content": "我们真的想瞄准大头照，并完全准确"
+    },
+    {
+      "from": 155.33,
+      "to": 156.79,
+      "sid": 67,
+      "location": 2,
+      "content": "我们不想喷洒"
+    },
+    {
+      "from": 156.79,
+      "to": 159.35,
+      "sid": 68,
+      "location": 2,
+      "content": "所以我们要依靠这两个水龙头爆裂和扫射"
+    },
+    {
+      "from": 159.35,
+      "to": 161.11,
+      "sid": 69,
+      "location": 2,
+      "content": "几乎完全是"
+    },
+    {
+      "from": 161.11,
+      "to": 163.14,
+      "sid": 70,
+      "location": 2,
+      "content": "所以只能瞄准头部"
+    },
+    {
+      "from": 164.919,
+      "to": 167.479,
+      "sid": 71,
+      "location": 2,
+      "content": "我们就知道这场战斗我们有很好的枪战卫生"
+    },
+    {
+      "from": 167.479,
+      "to": 170.139,
+      "sid": 72,
+      "location": 2,
+      "content": "如果我们一次不发射三发以上的子弹"
+    },
+    {
+      "from": 170.139,
+      "to": 173.58,
+      "sid": 73,
+      "location": 2,
+      "content": "我们的镜头之间没有准确性的变化"
+    },
+    {
+      "from": 173.82,
+      "to": 175.42,
+      "sid": 74,
+      "location": 2,
+      "content": "确保你对此有创意"
+    },
+    {
+      "from": 175.42,
+      "to": 177.24,
+      "sid": 75,
+      "location": 2,
+      "content": "不要总是左右摇摆"
+    },
+    {
+      "from": 177.24,
+      "to": 179.98,
+      "sid": 76,
+      "location": 2,
+      "content": "有时连续两次朝同一个方向走"
+    },
+    {
+      "from": 182.82,
+      "to": 184.9,
+      "sid": 77,
+      "location": 2,
+      "content": "然后是超远距离枪战"
+    },
+    {
+      "from": 184.9,
+      "to": 186.74,
+      "sid": 78,
+      "location": 2,
+      "content": "我们还是用我们的两个水龙头爆裂"
+    },
+    {
+      "from": 186.74,
+      "to": 189.79,
+      "sid": 79,
+      "location": 2,
+      "content": "但我们可以选择实现"
+    },
+    {
+      "from": 189.79,
+      "to": 192.94,
+      "sid": 80,
+      "location": 2,
+      "content": "如果感觉比较准的话也可以用单发"
+    },
+    {
+      "from": 197.42,
+      "to": 197.9,
+      "sid": 81,
+      "location": 2,
+      "content": "所有的权利"
+    },
+    {
+      "from": 197.9,
+      "to": 200.42,
+      "sid": 82,
+      "location": 2,
+      "content": "让我们进入死亡竞赛，我会告诉你如何练习这个"
+    },
+    {
+      "from": 200.7,
+      "to": 202.34,
+      "sid": 83,
+      "location": 2,
+      "content": "所以我们现在要进入死亡比赛了"
+    },
+    {
+      "from": 202.34,
+      "to": 205.66,
+      "sid": 84,
+      "location": 2,
+      "content": "我们想在精神上非常清楚对手离我们有多远"
+    },
+    {
+      "from": 205.66,
+      "to": 207.23,
+      "sid": 85,
+      "location": 2,
+      "content": "当我们和他们开始枪战时"
+    },
+    {
+      "from": 209.43,
+      "to": 212.98,
+      "sid": 86,
+      "location": 2,
+      "content": "但我们也需要把它们转化为竞争线索"
+    },
+    {
+      "from": 212.98,
+      "to": 214.8,
+      "sid": 87,
+      "location": 2,
+      "content": "这就是为什么我建议你专注于此"
+    },
+    {
+      "from": 214.8,
+      "to": 217.34,
+      "sid": 88,
+      "location": 2,
+      "content": "在玩排名至少一周的时候"
+    },
+    {
+      "from": 271.52,
+      "to": 272.26,
+      "sid": 89,
+      "location": 2,
+      "content": "游戏玩法"
+    },
+    {
+      "from": 272.26,
+      "to": 275.28,
+      "sid": 90,
+      "location": 2,
+      "content": "抢鸭子才刚刚开始"
+    }
+  ]
+}

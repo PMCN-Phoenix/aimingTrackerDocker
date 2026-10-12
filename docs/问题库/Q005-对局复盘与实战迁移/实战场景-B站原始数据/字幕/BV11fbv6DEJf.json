@@ -1,0 +1,852 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "v1.7.0.4",
+  "body": [
+    {
+      "from": 11.16,
+      "to": 12.98,
+      "sid": 1,
+      "location": 2,
+      "content": "那你说要做到这样的拉枪",
+      "music": 0.0
+    },
+    {
+      "from": 12.98,
+      "to": 13.92,
+      "sid": 2,
+      "location": 2,
+      "content": "我要训练什么呢",
+      "music": 0.0
+    },
+    {
+      "from": 13.92,
+      "to": 14.96,
+      "sid": 3,
+      "location": 2,
+      "content": "我要训练两个东西啊",
+      "music": 0.0
+    },
+    {
+      "from": 14.96,
+      "to": 15.56,
+      "sid": 4,
+      "location": 2,
+      "content": "移动瞄准",
+      "music": 0.0
+    },
+    {
+      "from": 15.56,
+      "to": 17.7,
+      "sid": 5,
+      "location": 2,
+      "content": "我们先练一下同向的怎么去练啊",
+      "music": 0.0
+    },
+    {
+      "from": 17.7,
+      "to": 19.62,
+      "sid": 6,
+      "location": 2,
+      "content": "来比如说我打这边",
+      "music": 0.0
+    },
+    {
+      "from": 19.62,
+      "to": 21.06,
+      "sid": 7,
+      "location": 2,
+      "content": "我按A往左走的同时",
+      "music": 0.0
+    },
+    {
+      "from": 21.06,
+      "to": 22.52,
+      "sid": 8,
+      "location": 2,
+      "content": "我左左手也往左挪",
+      "music": 0.0
+    },
+    {
+      "from": 22.52,
+      "to": 23.54,
+      "sid": 9,
+      "location": 2,
+      "content": "然后走一步小的",
+      "music": 0.0
+    },
+    {
+      "from": 23.54,
+      "to": 24.82,
+      "sid": 10,
+      "location": 2,
+      "content": "然后贴过去走",
+      "music": 0.0
+    },
+    {
+      "from": 24.82,
+      "to": 25.3,
+      "sid": 11,
+      "location": 2,
+      "content": "停",
+      "music": 0.0
+    },
+    {
+      "from": 25.3,
+      "to": 27.6,
+      "sid": 12,
+      "location": 2,
+      "content": "一定要保证急停那一瞬间瞄中哦",
+      "music": 0.0
+    },
+    {
+      "from": 27.6,
+      "to": 28.92,
+      "sid": 13,
+      "location": 2,
+      "content": "你如果说停早了",
+      "music": 0.0
+    },
+    {
+      "from": 28.92,
+      "to": 31.48,
+      "sid": 14,
+      "location": 2,
+      "content": "或者你或者你那个啥停晚了都不行哦",
+      "music": 0.0
+    },
+    {
+      "from": 31.48,
+      "to": 32.8,
+      "sid": 15,
+      "location": 2,
+      "content": "一定是拉过去的一瞬间",
+      "music": 0.0
+    },
+    {
+      "from": 32.8,
+      "to": 34.24,
+      "sid": 16,
+      "location": 2,
+      "content": "然后停住哦",
+      "music": 0.0
+    },
+    {
+      "from": 35.8,
+      "to": 36.88,
+      "sid": 17,
+      "location": 2,
+      "content": "先拉视角啊",
+      "music": 0.0
+    },
+    {
+      "from": 36.88,
+      "to": 37.64,
+      "sid": 18,
+      "location": 2,
+      "content": "先拉视角",
+      "music": 0.0
+    },
+    {
+      "from": 37.64,
+      "to": 38.62,
+      "sid": 19,
+      "location": 2,
+      "content": "拉视角走",
+      "music": 0.0
+    },
+    {
+      "from": 38.62,
+      "to": 39.84,
+      "sid": 20,
+      "location": 2,
+      "content": "拉视角走",
+      "music": 0.0
+    },
+    {
+      "from": 39.84,
+      "to": 41.06,
+      "sid": 21,
+      "location": 2,
+      "content": "拉视角走",
+      "music": 0.0
+    },
+    {
+      "from": 41.06,
+      "to": 43.01,
+      "sid": 22,
+      "location": 2,
+      "content": "打这个也视角拉视角走",
+      "music": 0.0
+    },
+    {
+      "from": 43.01,
+      "to": 44.23,
+      "sid": 23,
+      "location": 2,
+      "content": "拉视角走",
+      "music": 0.0
+    },
+    {
+      "from": 44.23,
+      "to": 45.65,
+      "sid": 24,
+      "location": 2,
+      "content": "好同向的拉视角走",
+      "music": 0.0
+    },
+    {
+      "from": 45.65,
+      "to": 47.7,
+      "sid": 25,
+      "location": 2,
+      "content": "另外一边拉视角走",
+      "music": 0.0
+    },
+    {
+      "from": 47.7,
+      "to": 48.92,
+      "sid": 26,
+      "location": 2,
+      "content": "拉屎要勾",
+      "music": 0.0
+    },
+    {
+      "from": 48.92,
+      "to": 50.06,
+      "sid": 27,
+      "location": 2,
+      "content": "拉屎要钩",
+      "music": 0.0
+    },
+    {
+      "from": 50.06,
+      "to": 51.3,
+      "sid": 28,
+      "location": 2,
+      "content": "拉屎要走",
+      "music": 0.0
+    },
+    {
+      "from": 51.3,
+      "to": 53.06,
+      "sid": 29,
+      "location": 2,
+      "content": "拉屎先拉视角",
+      "music": 0.0
+    },
+    {
+      "from": 53.06,
+      "to": 55.44,
+      "sid": 30,
+      "location": 2,
+      "content": "一定要一定要拉到一瞬间急停开枪哦",
+      "music": 0.0
+    },
+    {
+      "from": 55.44,
+      "to": 56.96,
+      "sid": 31,
+      "location": 2,
+      "content": "过早过晚都都都错",
+      "music": 0.0
+    },
+    {
+      "from": 56.96,
+      "to": 58.7,
+      "sid": 32,
+      "location": 2,
+      "content": "都是不合格的哦",
+      "music": 0.0
+    },
+    {
+      "from": 61.98,
+      "to": 63.14,
+      "sid": 33,
+      "location": 2,
+      "content": "好不好好",
+      "music": 0.0
+    },
+    {
+      "from": 63.14,
+      "to": 64.9,
+      "sid": 34,
+      "location": 2,
+      "content": "第一个铜像的练了啊",
+      "music": 0.0
+    },
+    {
+      "from": 65.22,
+      "to": 66.56,
+      "sid": 35,
+      "location": 2,
+      "content": "练这个没看到人",
+      "music": 0.0
+    },
+    {
+      "from": 66.56,
+      "to": 68.16,
+      "sid": 36,
+      "location": 2,
+      "content": "看到人没瞄准就停了",
+      "music": 0.0
+    },
+    {
+      "from": 68.16,
+      "to": 69.24,
+      "sid": 37,
+      "location": 2,
+      "content": "那你就要练这个哦",
+      "music": 0.0
+    },
+    {
+      "from": 69.24,
+      "to": 70.82,
+      "sid": 38,
+      "location": 2,
+      "content": "你就要练我这个仔细看哦",
+      "music": 0.0
+    },
+    {
+      "from": 70.82,
+      "to": 72.02,
+      "sid": 39,
+      "location": 2,
+      "content": "我再给你们演示一下主播",
+      "music": 0.0
+    },
+    {
+      "from": 72.02,
+      "to": 73.45,
+      "sid": 40,
+      "location": 2,
+      "content": "等下我就不演示了哦",
+      "music": 0.0
+    },
+    {
+      "from": 73.45,
+      "to": 74.85,
+      "sid": 41,
+      "location": 2,
+      "content": "逐帧学习好不好",
+      "music": 0.0
+    },
+    {
+      "from": 76.05,
+      "to": 77.85,
+      "sid": 42,
+      "location": 2,
+      "content": "拉拉枪走",
+      "music": 0.0
+    },
+    {
+      "from": 77.85,
+      "to": 78.97,
+      "sid": 43,
+      "location": 2,
+      "content": "拉枪走",
+      "music": 0.0
+    },
+    {
+      "from": 78.97,
+      "to": 80.08,
+      "sid": 44,
+      "location": 2,
+      "content": "拉枪走",
+      "music": 0.0
+    },
+    {
+      "from": 80.08,
+      "to": 80.76,
+      "sid": 45,
+      "location": 2,
+      "content": "拉枪走",
+      "music": 0.0
+    },
+    {
+      "from": 80.76,
+      "to": 81.44,
+      "sid": 46,
+      "location": 2,
+      "content": "急停开枪",
+      "music": 0.0
+    },
+    {
+      "from": 81.44,
+      "to": 82.0,
+      "sid": 47,
+      "location": 2,
+      "content": "拉枪走",
+      "music": 0.0
+    },
+    {
+      "from": 82.0,
+      "to": 82.44,
+      "sid": 48,
+      "location": 2,
+      "content": "急停开枪",
+      "music": 0.0
+    },
+    {
+      "from": 82.44,
+      "to": 82.92,
+      "sid": 49,
+      "location": 2,
+      "content": "打对面身上",
+      "music": 0.0
+    },
+    {
+      "from": 82.92,
+      "to": 83.32,
+      "sid": 50,
+      "location": 2,
+      "content": "拉枪走",
+      "music": 0.0
+    },
+    {
+      "from": 83.32,
+      "to": 83.96,
+      "sid": 51,
+      "location": 2,
+      "content": "急停开枪",
+      "music": 0.0
+    },
+    {
+      "from": 83.96,
+      "to": 84.6,
+      "sid": 52,
+      "location": 2,
+      "content": "拉枪走",
+      "music": 0.0
+    },
+    {
+      "from": 84.6,
+      "to": 85.18,
+      "sid": 53,
+      "location": 2,
+      "content": "提前开枪",
+      "music": 0.0
+    },
+    {
+      "from": 85.18,
+      "to": 85.8,
+      "sid": 54,
+      "location": 2,
+      "content": "拉枪走",
+      "music": 0.0
+    },
+    {
+      "from": 85.8,
+      "to": 86.42,
+      "sid": 55,
+      "location": 2,
+      "content": "提前开枪",
+      "music": 0.0
+    },
+    {
+      "from": 86.42,
+      "to": 87.08,
+      "sid": 56,
+      "location": 2,
+      "content": "拉枪走",
+      "music": 0.0
+    },
+    {
+      "from": 87.08,
+      "to": 87.62,
+      "sid": 57,
+      "location": 2,
+      "content": "继续开枪",
+      "music": 0.0
+    },
+    {
+      "from": 87.62,
+      "to": 89.03,
+      "sid": 58,
+      "location": 2,
+      "content": "注意力在人身上啊",
+      "music": 0.0
+    },
+    {
+      "from": 89.03,
+      "to": 89.67,
+      "sid": 59,
+      "location": 2,
+      "content": "拿枪走",
+      "music": 0.0
+    },
+    {
+      "from": 89.67,
+      "to": 90.31,
+      "sid": 60,
+      "location": 2,
+      "content": "轻松开枪",
+      "music": 0.0
+    },
+    {
+      "from": 90.31,
+      "to": 90.83,
+      "sid": 61,
+      "location": 2,
+      "content": "拉枪走",
+      "music": 0.0
+    },
+    {
+      "from": 90.83,
+      "to": 91.47,
+      "sid": 62,
+      "location": 2,
+      "content": "提前开枪",
+      "music": 0.0
+    },
+    {
+      "from": 91.47,
+      "to": 92.07,
+      "sid": 63,
+      "location": 2,
+      "content": "拉枪走",
+      "music": 0.0
+    },
+    {
+      "from": 92.07,
+      "to": 93.59,
+      "sid": 64,
+      "location": 2,
+      "content": "直接开枪好",
+      "music": 0.0
+    },
+    {
+      "from": 93.59,
+      "to": 94.35,
+      "sid": 65,
+      "location": 2,
+      "content": "这是第一个后",
+      "music": 0.0
+    },
+    {
+      "from": 94.35,
+      "to": 96.19,
+      "sid": 66,
+      "location": 2,
+      "content": "接下来练反向的啊",
+      "music": 0.0
+    },
+    {
+      "from": 96.83,
+      "to": 99.13,
+      "sid": 67,
+      "location": 2,
+      "content": "拉拉的一瞬间往右走",
+      "music": 0.0
+    },
+    {
+      "from": 99.13,
+      "to": 100.25,
+      "sid": 68,
+      "location": 2,
+      "content": "轻微拉过头",
+      "music": 0.0
+    },
+    {
+      "from": 100.25,
+      "to": 100.85,
+      "sid": 69,
+      "location": 2,
+      "content": "拉过头",
+      "music": 0.0
+    },
+    {
+      "from": 100.85,
+      "to": 101.39,
+      "sid": 70,
+      "location": 2,
+      "content": "反向走",
+      "music": 0.0
+    },
+    {
+      "from": 101.39,
+      "to": 104.37,
+      "sid": 71,
+      "location": 2,
+      "content": "看拉过去反向走是不是刚好贴上去反向走",
+      "music": 0.0
+    },
+    {
+      "from": 104.37,
+      "to": 105.88,
+      "sid": 72,
+      "location": 2,
+      "content": "拉过去反向走",
+      "music": 0.0
+    },
+    {
+      "from": 105.88,
+      "to": 107.0,
+      "sid": 73,
+      "location": 2,
+      "content": "拉拉过去反向走",
+      "music": 0.0
+    },
+    {
+      "from": 107.0,
+      "to": 107.74,
+      "sid": 74,
+      "location": 2,
+      "content": "然后连贯起来",
+      "music": 0.0
+    },
+    {
+      "from": 107.74,
+      "to": 108.42,
+      "sid": 75,
+      "location": 2,
+      "content": "拉反应走",
+      "music": 0.0
+    },
+    {
+      "from": 108.42,
+      "to": 109.36,
+      "sid": 76,
+      "location": 2,
+      "content": "开枪好",
+      "music": 0.0
+    },
+    {
+      "from": 109.36,
+      "to": 112.089,
+      "sid": 77,
+      "location": 2,
+      "content": "然后打打两个都是一样",
+      "music": 0.0
+    },
+    {
+      "from": 112.089,
+      "to": 113.169,
+      "sid": 78,
+      "location": 2,
+      "content": "拉过头反向走",
+      "music": 0.0
+    },
+    {
+      "from": 113.169,
+      "to": 114.109,
+      "sid": 79,
+      "location": 2,
+      "content": "拉过头反向走",
+      "music": 0.0
+    },
+    {
+      "from": 114.109,
+      "to": 115.19,
+      "sid": 80,
+      "location": 2,
+      "content": "拉过头反向走",
+      "music": 0.0
+    },
+    {
+      "from": 115.19,
+      "to": 116.21,
+      "sid": 81,
+      "location": 2,
+      "content": "拉过头反向走",
+      "music": 0.0
+    },
+    {
+      "from": 116.21,
+      "to": 117.11,
+      "sid": 82,
+      "location": 2,
+      "content": "拉过头闪身走",
+      "music": 0.0
+    },
+    {
+      "from": 117.11,
+      "to": 118.03,
+      "sid": 83,
+      "location": 2,
+      "content": "拉过头闪身走",
+      "music": 0.0
+    },
+    {
+      "from": 118.03,
+      "to": 119.05,
+      "sid": 84,
+      "location": 2,
+      "content": "拉过头赶人走",
+      "music": 0.0
+    },
+    {
+      "from": 119.05,
+      "to": 120.01,
+      "sid": 85,
+      "location": 2,
+      "content": "拉过头反向走",
+      "music": 0.0
+    },
+    {
+      "from": 120.01,
+      "to": 120.95,
+      "sid": 86,
+      "location": 2,
+      "content": "拉过头反向走",
+      "music": 0.0
+    },
+    {
+      "from": 120.95,
+      "to": 121.89,
+      "sid": 87,
+      "location": 2,
+      "content": "拉过头转身走",
+      "music": 0.0
+    },
+    {
+      "from": 121.89,
+      "to": 122.83,
+      "sid": 88,
+      "location": 2,
+      "content": "拉过头赶紧走",
+      "music": 0.0
+    },
+    {
+      "from": 122.83,
+      "to": 123.77,
+      "sid": 89,
+      "location": 2,
+      "content": "拉过头赶紧走",
+      "music": 0.0
+    },
+    {
+      "from": 123.77,
+      "to": 126.84,
+      "sid": 90,
+      "location": 2,
+      "content": "打我往前走好不好",
+      "music": 0.0
+    },
+    {
+      "from": 126.84,
+      "to": 129.4,
+      "sid": 91,
+      "location": 2,
+      "content": "然后你把这两个都精通了之后",
+      "music": 0.0
+    },
+    {
+      "from": 129.4,
+      "to": 130.52,
+      "sid": 92,
+      "location": 2,
+      "content": "你现在打这个爆头",
+      "music": 0.0
+    },
+    {
+      "from": 130.52,
+      "to": 132.08,
+      "sid": 93,
+      "location": 2,
+      "content": "你就可以跟主播一样啊",
+      "music": 0.0
+    },
+    {
+      "from": 132.08,
+      "to": 134.18,
+      "sid": 94,
+      "location": 2,
+      "content": "又快又干净好吧",
+      "music": 0.0
+    },
+    {
+      "from": 134.18,
+      "to": 135.1,
+      "sid": 95,
+      "location": 2,
+      "content": "好不好",
+      "music": 0.0
+    },
+    {
+      "from": 135.1,
+      "to": 136.56,
+      "sid": 96,
+      "location": 2,
+      "content": "小哥小姐们",
+      "music": 0.0
+    },
+    {
+      "from": 136.84,
+      "to": 138.54,
+      "sid": 97,
+      "location": 2,
+      "content": "你就去练这两个练",
+      "music": 0.0
+    },
+    {
+      "from": 138.54,
+      "to": 140.28,
+      "sid": 98,
+      "location": 2,
+      "content": "练熟练了之后打这两个boss",
+      "music": 0.0
+    },
+    {
+      "from": 140.28,
+      "to": 141.16,
+      "sid": 99,
+      "location": 2,
+      "content": "打不成这样的效果",
+      "music": 0.0
+    },
+    {
+      "from": 141.16,
+      "to": 142.61,
+      "sid": 100,
+      "location": 2,
+      "content": "你直接回来喷死我",
+      "music": 0.0
+    },
+    {
+      "from": 142.61,
+      "to": 144.83,
+      "sid": 101,
+      "location": 2,
+      "content": "后续有什么问题继续来问我好不好",
+      "music": 0.0
+    },
+    {
+      "from": 144.83,
+      "to": 146.17,
+      "sid": 102,
+      "location": 2,
+      "content": "大家都能看到手啊",
+      "music": 0.0
+    },
+    {
+      "from": 146.17,
+      "to": 146.89,
+      "sid": 103,
+      "location": 2,
+      "content": "具体怎么瞄准",
+      "music": 0.0
+    },
+    {
+      "from": 146.89,
+      "to": 147.65,
+      "sid": 104,
+      "location": 2,
+      "content": "应该都知道了",
+      "music": 0.0
+    },
+    {
+      "from": 147.65,
+      "to": 148.18,
+      "sid": 105,
+      "location": 2,
+      "content": "行不行",
+      "music": 0.0
+    }
+  ]
+}

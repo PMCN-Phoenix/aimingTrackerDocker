@@ -1,0 +1,74 @@
+﻿
+[1/12] BV14QpDzFEUi
+  【无畏契约】超级正经的从枪法到意识全概括教学 | 忍忍的手里剑 | 647s
+  字幕: 284 段
+  ERR: Expecting value: line 1 column 1 (char 0)
+
+[2/12] BV1quQiYPECg
+  最容易且最易训练的急停方式 | jer0423 | 294s
+  字幕: 117 段
+  ERR: Expecting value: line 1 column 1 (char 0)
+
+[3/12] BV1qc411L7MY
+  哪来的“即松即停” | 风华零落 | 82s
+  字幕: 无AI字幕
+  ERR: Expecting value: line 1 column 1 (char 0)
+
+[4/12] BV1ca411w762
+  [skillcap]<瓦罗兰特>移动中穿插射击，细数急停的各项功能 | 麦德o | 699s
+  字幕: 无AI字幕
+  ERR: Expecting value: line 1 column 1 (char 0)
+
+[5/12] BV1XM4m1z7pS
+  开枪必定急停！改个键让你的对枪水平提升百倍！ | 小可爱乱斗 | 53s
+  字幕: 17 段
+  ERR: Expecting value: line 1 column 1 (char 0)
+
+[6/12] BV1GKFvzKEwU
+  【无畏契约VCT公开课】在移动的同时瞄准，在急停的瞬间开枪！ | 电竞科学-瓦 | 191s
+  字幕: 97 段
+  ERR: Expecting value: line 1 column 1 (char 0)
+
+[7/12] BV11fbv6DEJf
+  神三初期训练最多的项目-移动瞄准急停开枪能力 | 成有翰-- | 149s
+  字幕: 105 段
+  ERR: Expecting value: line 1 column 1 (char 0)
+
+[8/12] BV1MY4y1H79Z
+  Valorant最全急停教学，急停的基础与进阶应用讲解 | 大东彦 | 231s
+  字幕: 131 段
+  ERR: Expecting value: line 1 column 1 (char 0)
+
+[9/12] BV1ts4y1E7Zm
+  【Woohoojin】你的移动才是问题的根源 | NAMAST3 | 277s
+  字幕: 90 段
+  ERR: Expecting value: line 1 column 1 (char 0)
+
+[10/12] BV1HUk4BXEdn
+  粉丝投稿第四十二期，钻石三，你开不出枪？是你太早开枪。 | 7ommy_ | 496s
+  字幕: 247 段
+  ERR: Expecting value: line 1 column 1 (char 0)
+
+[11/12] BV11fbv6DE3K
+  无畏契约缓解拉枪开枪太着急 | 成有翰-- | 145s
+  字幕: 65 段
+  ERR: Expecting value: line 1 column 1 (char 0)
+
+[12/12] BV1yX4y1k7H7
+  【中英】不要再像noob一样移动了 pt.1#掌控移动【Valorant/Woo | 红烧黑脸 | 557s
+  字幕: 无AI字幕
+  ERR: Expecting value: line 1 column 1 (char 0)
+
+=== 抓取完成 ===
+  BV14QpDzFEUi: ERR Expecting value: line 1 column 1 (char 0)
+  BV1quQiYPECg: ERR Expecting value: line 1 column 1 (char 0)
+  BV1qc411L7MY: ERR Expecting value: line 1 column 1 (char 0)
+  BV1ca411w762: ERR Expecting value: line 1 column 1 (char 0)
+  BV1XM4m1z7pS: ERR Expecting value: line 1 column 1 (char 0)
+  BV1GKFvzKEwU: ERR Expecting value: line 1 column 1 (char 0)
+  BV11fbv6DEJf: ERR Expecting value: line 1 column 1 (char 0)
+  BV1MY4y1H79Z: ERR Expecting value: line 1 column 1 (char 0)
+  BV1ts4y1E7Zm: ERR Expecting value: line 1 column 1 (char 0)
+  BV1HUk4BXEdn: ERR Expecting value: line 1 column 1 (char 0)
+  BV11fbv6DE3K: ERR Expecting value: line 1 column 1 (char 0)
+  BV1yX4y1k7H7: ERR Expecting value: line 1 column 1 (char 0)

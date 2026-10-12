@@ -1,0 +1,948 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "v1.7.0.4",
+  "body": [
+    {
+      "from": 0.0,
+      "to": 1.56,
+      "sid": 1,
+      "location": 2,
+      "content": "找好了",
+      "music": 0.0
+    },
+    {
+      "from": 5.68,
+      "to": 7.96,
+      "sid": 2,
+      "location": 2,
+      "content": "OK今天讲下激情啊",
+      "music": 0.0
+    },
+    {
+      "from": 8.82,
+      "to": 10.3,
+      "sid": 3,
+      "location": 2,
+      "content": "啧啧讲下急停",
+      "music": 0.0
+    },
+    {
+      "from": 10.3,
+      "to": 14.77,
+      "sid": 4,
+      "location": 2,
+      "content": "今天就是每个人对都有",
+      "music": 0.0
+    },
+    {
+      "from": 14.77,
+      "to": 17.6,
+      "sid": 5,
+      "location": 2,
+      "content": "就是属于自己对于急停这个理解",
+      "music": 0.0
+    },
+    {
+      "from": 17.6,
+      "to": 19.0,
+      "sid": 6,
+      "location": 2,
+      "content": "然后我的理解就是",
+      "music": 0.0
+    },
+    {
+      "from": 19.0,
+      "to": 19.6,
+      "sid": 7,
+      "location": 2,
+      "content": "为什么",
+      "music": 0.0
+    },
+    {
+      "from": 19.6,
+      "to": 23.08,
+      "sid": 8,
+      "location": 2,
+      "content": "我觉得急停对于射击游戏来讲是非常重要的",
+      "music": 0.0
+    },
+    {
+      "from": 23.08,
+      "to": 24.76,
+      "sid": 9,
+      "location": 2,
+      "content": "因为在这个游戏的时候",
+      "music": 0.0
+    },
+    {
+      "from": 24.76,
+      "to": 26.73,
+      "sid": 10,
+      "location": 2,
+      "content": "你移动的时候",
+      "music": 0.0
+    },
+    {
+      "from": 27.63,
+      "to": 32.25,
+      "sid": 11,
+      "location": 2,
+      "content": "移动的时候开枪会大幅度的降低你的精准度",
+      "music": 0.0
+    },
+    {
+      "from": 32.25,
+      "to": 35.11,
+      "sid": 12,
+      "location": 2,
+      "content": "然后只有静止的时候才能保持准",
+      "music": 0.0
+    },
+    {
+      "from": 35.11,
+      "to": 36.694,
+      "sid": 13,
+      "location": 2,
+      "content": "保持那个精准度",
+      "music": 0.0
+    },
+    {
+      "from": 40.24,
+      "to": 43.4,
+      "sid": 14,
+      "location": 2,
+      "content": "然后的话部分高分玩家的核心技巧",
+      "music": 0.0
+    },
+    {
+      "from": 43.4,
+      "to": 46.22,
+      "sid": 15,
+      "location": 2,
+      "content": "就是通过急停瞬间静止并开枪",
+      "music": 0.0
+    },
+    {
+      "from": 46.22,
+      "to": 48.989,
+      "sid": 16,
+      "location": 2,
+      "content": "然后保持最大化的精确度",
+      "music": 0.0
+    },
+    {
+      "from": 49.529,
+      "to": 52.16,
+      "sid": 17,
+      "location": 2,
+      "content": "然后的话大家都会急停",
+      "music": 0.0
+    },
+    {
+      "from": 52.16,
+      "to": 55.04,
+      "sid": 18,
+      "location": 2,
+      "content": "但是的话正确是如何急停呢",
+      "music": 0.0
+    },
+    {
+      "from": 55.04,
+      "to": 57.4,
+      "sid": 19,
+      "location": 2,
+      "content": "当你就是当你按住一个方向键",
+      "music": 0.0
+    },
+    {
+      "from": 57.4,
+      "to": 59.95,
+      "sid": 20,
+      "location": 2,
+      "content": "比如A向左移动的时候",
+      "music": 0.0
+    },
+    {
+      "from": 59.95,
+      "to": 61.67,
+      "sid": 21,
+      "location": 2,
+      "content": "松开方向键的瞬间",
+      "music": 0.0
+    },
+    {
+      "from": 61.67,
+      "to": 62.81,
+      "sid": 22,
+      "location": 2,
+      "content": "按下反方向键",
+      "music": 0.0
+    },
+    {
+      "from": 62.81,
+      "to": 64.67,
+      "sid": 23,
+      "location": 2,
+      "content": "比如像这样",
+      "music": 0.0
+    },
+    {
+      "from": 65.03,
+      "to": 66.21,
+      "sid": 24,
+      "location": 2,
+      "content": "我按D了",
+      "music": 0.0
+    },
+    {
+      "from": 66.21,
+      "to": 70.69,
+      "sid": 25,
+      "location": 2,
+      "content": "就是一个惯性去抵消惯性的同时去开枪",
+      "music": 0.0
+    },
+    {
+      "from": 70.69,
+      "to": 71.43,
+      "sid": 26,
+      "location": 2,
+      "content": "就这样",
+      "music": 0.0
+    },
+    {
+      "from": 71.43,
+      "to": 73.03,
+      "sid": 27,
+      "location": 2,
+      "content": "像这样子",
+      "music": 0.0
+    },
+    {
+      "from": 79.1,
+      "to": 80.66,
+      "sid": 28,
+      "location": 2,
+      "content": "这样子",
+      "music": 0.0
+    },
+    {
+      "from": 82.66,
+      "to": 88.29,
+      "sid": 29,
+      "location": 2,
+      "content": "呃就大家就很很容易理解按住一个方向键向",
+      "music": 0.0
+    },
+    {
+      "from": 88.29,
+      "to": 90.59,
+      "sid": 30,
+      "location": 2,
+      "content": "比如向左移动的时候",
+      "music": 0.0
+    },
+    {
+      "from": 90.59,
+      "to": 91.75,
+      "sid": 31,
+      "location": 2,
+      "content": "松开方向键",
+      "music": 0.0
+    },
+    {
+      "from": 91.75,
+      "to": 93.53,
+      "sid": 32,
+      "location": 2,
+      "content": "同时按下反方向键",
+      "music": 0.0
+    },
+    {
+      "from": 93.53,
+      "to": 95.61,
+      "sid": 33,
+      "location": 2,
+      "content": "右键就是一个抵消惯性嘛",
+      "music": 0.0
+    },
+    {
+      "from": 95.61,
+      "to": 98.16,
+      "sid": 34,
+      "location": 2,
+      "content": "然后同时加上开枪就这么简单",
+      "music": 0.0
+    },
+    {
+      "from": 98.16,
+      "to": 100.759,
+      "sid": 35,
+      "location": 2,
+      "content": "有练习方式的话",
+      "music": 0.0
+    },
+    {
+      "from": 100.759,
+      "to": 103.959,
+      "sid": 36,
+      "location": 2,
+      "content": "我的个人方式是找一堵墙",
+      "music": 0.0
+    },
+    {
+      "from": 103.959,
+      "to": 106.799,
+      "sid": 37,
+      "location": 2,
+      "content": "或者说是一个bot这样子",
+      "music": 0.0
+    },
+    {
+      "from": 108.34,
+      "to": 110.38,
+      "sid": 38,
+      "location": 2,
+      "content": "对都无所谓",
+      "music": 0.0
+    },
+    {
+      "from": 110.38,
+      "to": 113.02,
+      "sid": 39,
+      "location": 2,
+      "content": "其实就是",
+      "music": 0.0
+    },
+    {
+      "from": 114.42,
+      "to": 116.28,
+      "sid": 40,
+      "location": 2,
+      "content": "也是训练场向左",
+      "music": 0.0
+    },
+    {
+      "from": 116.28,
+      "to": 121.9,
+      "sid": 41,
+      "location": 2,
+      "content": "然后或者向左右这样反复这样子开枪急停开枪",
+      "music": 0.0
+    },
+    {
+      "from": 121.9,
+      "to": 123.34,
+      "sid": 42,
+      "location": 2,
+      "content": "急停开枪",
+      "music": 0.0
+    },
+    {
+      "from": 123.34,
+      "to": 124.66,
+      "sid": 43,
+      "location": 2,
+      "content": "急停开枪",
+      "music": 0.0
+    },
+    {
+      "from": 124.66,
+      "to": 126.71,
+      "sid": 44,
+      "location": 2,
+      "content": "不停下来不能开枪啊",
+      "music": 0.0
+    },
+    {
+      "from": 126.71,
+      "to": 128.85,
+      "sid": 45,
+      "location": 2,
+      "content": "不停下来是不能开枪的",
+      "music": 0.0
+    },
+    {
+      "from": 128.85,
+      "to": 131.13,
+      "sid": 46,
+      "location": 2,
+      "content": "一定要保证让自己停下来才能开枪",
+      "music": 0.0
+    },
+    {
+      "from": 131.13,
+      "to": 132.83,
+      "sid": 47,
+      "location": 2,
+      "content": "慢慢速度可以慢很多",
+      "music": 0.0
+    },
+    {
+      "from": 132.83,
+      "to": 134.79,
+      "sid": 48,
+      "location": 2,
+      "content": "但是一定要确保自己是停下来的",
+      "music": 0.0
+    },
+    {
+      "from": 134.79,
+      "to": 136.11,
+      "sid": 49,
+      "location": 2,
+      "content": "这样子",
+      "music": 0.0
+    },
+    {
+      "from": 140.06,
+      "to": 142.02,
+      "sid": 50,
+      "location": 2,
+      "content": "切记一定停下来才能开枪",
+      "music": 0.0
+    },
+    {
+      "from": 142.02,
+      "to": 145.26,
+      "sid": 51,
+      "location": 2,
+      "content": "这是能训练你急停的那个左手的肌肉记忆",
+      "music": 0.0
+    },
+    {
+      "from": 145.26,
+      "to": 148.91,
+      "sid": 52,
+      "location": 2,
+      "content": "因为射击游戏里面左手是比右手要重要很多",
+      "music": 0.0
+    },
+    {
+      "from": 148.91,
+      "to": 151.75,
+      "sid": 53,
+      "location": 2,
+      "content": "一个优秀的就是键盘那边",
+      "music": 0.0
+    },
+    {
+      "from": 151.75,
+      "to": 155.09,
+      "sid": 54,
+      "location": 2,
+      "content": "你的左手用的很好的话",
+      "music": 0.0
+    },
+    {
+      "from": 155.09,
+      "to": 158.36,
+      "sid": 55,
+      "location": 2,
+      "content": "你会变得特别特别厉害",
+      "music": 0.0
+    },
+    {
+      "from": 158.72,
+      "to": 161.88,
+      "sid": 56,
+      "location": 2,
+      "content": "你的移动方式会变得很逆天",
+      "music": 0.0
+    },
+    {
+      "from": 163.26,
+      "to": 166.14,
+      "sid": 57,
+      "location": 2,
+      "content": "你要有自己的移动节奏",
+      "music": 0.0
+    },
+    {
+      "from": 167.62,
+      "to": 169.74,
+      "sid": 58,
+      "location": 2,
+      "content": "不停下来就不能开枪",
+      "music": 0.0
+    },
+    {
+      "from": 170.98,
+      "to": 172.18,
+      "sid": 59,
+      "location": 2,
+      "content": "反不去训练",
+      "music": 0.0
+    },
+    {
+      "from": 172.18,
+      "to": 175.86,
+      "sid": 60,
+      "location": 2,
+      "content": "然后的话我结合上一期视频来说的话",
+      "music": 0.0
+    },
+    {
+      "from": 175.86,
+      "to": 177.14,
+      "sid": 61,
+      "location": 2,
+      "content": "为什么我特别强调一点",
+      "music": 0.0
+    },
+    {
+      "from": 177.14,
+      "to": 179.269,
+      "sid": 62,
+      "location": 2,
+      "content": "就是为什么要大家去训练",
+      "music": 0.0
+    },
+    {
+      "from": 179.269,
+      "to": 182.549,
+      "sid": 63,
+      "location": 2,
+      "content": "那个四发五发压枪打死一个人呢",
+      "music": 0.0
+    },
+    {
+      "from": 182.549,
+      "to": 185.829,
+      "sid": 64,
+      "location": 2,
+      "content": "因为我看很多钻石超凡方向的玩家",
+      "music": 0.0
+    },
+    {
+      "from": 185.829,
+      "to": 189.53,
+      "sid": 65,
+      "location": 2,
+      "content": "都是喜欢这样打身子两发两发",
+      "music": 0.0
+    },
+    {
+      "from": 189.53,
+      "to": 191.64,
+      "sid": 66,
+      "location": 2,
+      "content": "然后停下来停下",
+      "music": 0.0
+    },
+    {
+      "from": 191.64,
+      "to": 192.68,
+      "sid": 67,
+      "location": 2,
+      "content": "同时去复位",
+      "music": 0.0
+    },
+    {
+      "from": 192.68,
+      "to": 194.04,
+      "sid": 68,
+      "location": 2,
+      "content": "为什么要为什么要这样子",
+      "music": 0.0
+    },
+    {
+      "from": 194.04,
+      "to": 195.8,
+      "sid": 69,
+      "location": 2,
+      "content": "我真的不能理解你",
+      "music": 0.0
+    },
+    {
+      "from": 195.8,
+      "to": 197.88,
+      "sid": 70,
+      "location": 2,
+      "content": "你两发就停下来",
+      "music": 0.0
+    },
+    {
+      "from": 197.88,
+      "to": 200.119,
+      "sid": 71,
+      "location": 2,
+      "content": "然后给就在复位",
+      "music": 0.0
+    },
+    {
+      "from": 200.119,
+      "to": 202.239,
+      "sid": 72,
+      "location": 2,
+      "content": "有那么0.0几秒时间让对面去反杀",
+      "music": 0.0
+    },
+    {
+      "from": 202.239,
+      "to": 204.119,
+      "sid": 73,
+      "location": 2,
+      "content": "你这个时间是足可以去反杀你的",
+      "music": 0.0
+    },
+    {
+      "from": 204.119,
+      "to": 205.259,
+      "sid": 74,
+      "location": 2,
+      "content": "为什么要这样做",
+      "music": 0.0
+    },
+    {
+      "from": 205.259,
+      "to": 207.17,
+      "sid": 75,
+      "location": 2,
+      "content": "我不能理解你",
+      "music": 0.0
+    },
+    {
+      "from": 207.17,
+      "to": 209.45,
+      "sid": 76,
+      "location": 2,
+      "content": "就要么就一下子一梭子这样下去",
+      "music": 0.0
+    },
+    {
+      "from": 209.45,
+      "to": 212.44,
+      "sid": 77,
+      "location": 2,
+      "content": "一梭子这样下去就不要停不要停",
+      "music": 0.0
+    },
+    {
+      "from": 212.44,
+      "to": 213.36,
+      "sid": 78,
+      "location": 2,
+      "content": "真的不要停",
+      "music": 0.0
+    },
+    {
+      "from": 213.36,
+      "to": 215.84,
+      "sid": 79,
+      "location": 2,
+      "content": "你不要给对面有有有有人杀你的机会",
+      "music": 0.0
+    },
+    {
+      "from": 215.84,
+      "to": 216.48,
+      "sid": 80,
+      "location": 2,
+      "content": "一定要做",
+      "music": 0.0
+    },
+    {
+      "from": 216.48,
+      "to": 217.36,
+      "sid": 81,
+      "location": 2,
+      "content": "先瞄准再开枪",
+      "music": 0.0
+    },
+    {
+      "from": 217.36,
+      "to": 219.72,
+      "sid": 82,
+      "location": 2,
+      "content": "急停瞄准开枪嘛对吧",
+      "music": 0.0
+    },
+    {
+      "from": 220.94,
+      "to": 224.06,
+      "sid": 83,
+      "location": 2,
+      "content": "然后的话真的是大家一定要去狠",
+      "music": 0.0
+    },
+    {
+      "from": 224.06,
+      "to": 225.16,
+      "sid": 84,
+      "location": 2,
+      "content": "记住重要一点",
+      "music": 0.0
+    },
+    {
+      "from": 225.16,
+      "to": 226.3,
+      "sid": 85,
+      "location": 2,
+      "content": "就是你要么一梭子下去",
+      "music": 0.0
+    },
+    {
+      "from": 226.3,
+      "to": 227.14,
+      "sid": 86,
+      "location": 2,
+      "content": "要么就爆头",
+      "music": 0.0
+    },
+    {
+      "from": 227.14,
+      "to": 228.82,
+      "sid": 87,
+      "location": 2,
+      "content": "瞄准瞄准爆头",
+      "music": 0.0
+    },
+    {
+      "from": 228.82,
+      "to": 231.64,
+      "sid": 88,
+      "location": 2,
+      "content": "要么就一梭子下去压枪",
+      "music": 0.0
+    },
+    {
+      "from": 231.64,
+      "to": 233.64,
+      "sid": 89,
+      "location": 2,
+      "content": "同时你的准心一定是要平",
+      "music": 0.0
+    },
+    {
+      "from": 233.64,
+      "to": 237.16,
+      "sid": 90,
+      "location": 2,
+      "content": "就直线往下拉五发四发",
+      "music": 0.0
+    },
+    {
+      "from": 237.16,
+      "to": 241.54,
+      "sid": 91,
+      "location": 2,
+      "content": "这样子你的压枪节奏啊",
+      "music": 0.0
+    },
+    {
+      "from": 241.54,
+      "to": 242.68,
+      "sid": 92,
+      "location": 2,
+      "content": "对压枪节奏",
+      "music": 0.0
+    },
+    {
+      "from": 242.68,
+      "to": 244.38,
+      "sid": 93,
+      "location": 2,
+      "content": "即使你没有打爆头",
+      "music": 0.0
+    },
+    {
+      "from": 244.38,
+      "to": 248.44,
+      "sid": 94,
+      "location": 2,
+      "content": "你也可以有高效率去击杀对面",
+      "music": 0.0
+    },
+    {
+      "from": 251.2,
+      "to": 252.8,
+      "sid": 95,
+      "location": 2,
+      "content": "对这些视频挺简单的",
+      "music": 0.0
+    },
+    {
+      "from": 252.8,
+      "to": 254.16,
+      "sid": 96,
+      "location": 2,
+      "content": "大家去去反复练习",
+      "music": 0.0
+    },
+    {
+      "from": 254.16,
+      "to": 256.68,
+      "sid": 97,
+      "location": 2,
+      "content": "听我所说的急停瞄准",
+      "music": 0.0
+    },
+    {
+      "from": 256.68,
+      "to": 257.48,
+      "sid": 98,
+      "location": 2,
+      "content": "压枪跟压枪",
+      "music": 0.0
+    },
+    {
+      "from": 257.48,
+      "to": 259.32,
+      "sid": 99,
+      "location": 2,
+      "content": "这人家反复去练习",
+      "music": 0.0
+    },
+    {
+      "from": 259.32,
+      "to": 260.82,
+      "sid": 100,
+      "location": 2,
+      "content": "然后死斗的话",
+      "music": 0.0
+    },
+    {
+      "from": 260.82,
+      "to": 262.08,
+      "sid": 101,
+      "location": 2,
+      "content": "我建议大家也可以",
+      "music": 0.0
+    },
+    {
+      "from": 262.08,
+      "to": 264.01,
+      "sid": 102,
+      "location": 2,
+      "content": "就是战绩差点无所谓",
+      "music": 0.0
+    },
+    {
+      "from": 264.01,
+      "to": 265.61,
+      "sid": 103,
+      "location": 2,
+      "content": "你先停下来再开枪",
+      "music": 0.0
+    },
+    {
+      "from": 265.61,
+      "to": 268.67,
+      "sid": 104,
+      "location": 2,
+      "content": "然后慢慢的感受那个停下来的开枪",
+      "music": 0.0
+    },
+    {
+      "from": 268.67,
+      "to": 271.12,
+      "sid": 105,
+      "location": 2,
+      "content": "那个弹道是怎么样的对吧",
+      "music": 0.0
+    },
+    {
+      "from": 271.12,
+      "to": 272.36,
+      "sid": 106,
+      "location": 2,
+      "content": "然后你再把速度提上去",
+      "music": 0.0
+    },
+    {
+      "from": 272.36,
+      "to": 273.98,
+      "sid": 107,
+      "location": 2,
+      "content": "你你速度速度上去了",
+      "music": 0.0
+    },
+    {
+      "from": 273.98,
+      "to": 274.84,
+      "sid": 108,
+      "location": 2,
+      "content": "准确度上去了",
+      "music": 0.0
+    },
+    {
+      "from": 274.84,
+      "to": 275.72,
+      "sid": 109,
+      "location": 2,
+      "content": "急停OK了",
+      "music": 0.0
+    },
+    {
+      "from": 275.72,
+      "to": 277.1,
+      "sid": 110,
+      "location": 2,
+      "content": "你速度上去去练",
+      "music": 0.0
+    },
+    {
+      "from": 277.1,
+      "to": 279.21,
+      "sid": 111,
+      "location": 2,
+      "content": "去练好吧对吧",
+      "music": 0.0
+    },
+    {
+      "from": 279.21,
+      "to": 280.43,
+      "sid": 112,
+      "location": 2,
+      "content": "训练",
+      "music": 0.0
+    },
+    {
+      "from": 283.56,
+      "to": 285.28,
+      "sid": 113,
+      "location": 2,
+      "content": "但去练都可以呀对吧",
+      "music": 0.0
+    },
+    {
+      "from": 285.28,
+      "to": 286.64,
+      "sid": 114,
+      "location": 2,
+      "content": "你其实从慢慢来嘛",
+      "music": 0.0
+    },
+    {
+      "from": 286.64,
+      "to": 287.9,
+      "sid": 115,
+      "location": 2,
+      "content": "这些都是很基础的东西",
+      "music": 0.0
+    },
+    {
+      "from": 287.9,
+      "to": 290.8,
+      "sid": 116,
+      "location": 2,
+      "content": "所以我特别强调大家去练就基本功",
+      "music": 0.0
+    },
+    {
+      "from": 290.8,
+      "to": 292.58,
+      "sid": 117,
+      "location": 2,
+      "content": "这期先这样",
+      "music": 0.0
+    }
+  ]
+}

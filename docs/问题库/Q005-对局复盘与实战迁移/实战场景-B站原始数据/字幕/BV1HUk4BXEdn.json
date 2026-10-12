@@ -1,0 +1,1988 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "v1.7.0.4",
+  "body": [
+    {
+      "from": 0.1,
+      "to": 1.8,
+      "sid": 1,
+      "location": 2,
+      "content": "粉丝投稿第42期",
+      "music": 0.0
+    },
+    {
+      "from": 1.8,
+      "to": 2.76,
+      "sid": 2,
+      "location": 2,
+      "content": "钻石三",
+      "music": 0.0
+    },
+    {
+      "from": 2.76,
+      "to": 4.02,
+      "sid": 3,
+      "location": 2,
+      "content": "感觉上过超凡以后",
+      "music": 0.0
+    },
+    {
+      "from": 4.02,
+      "to": 5.68,
+      "sid": 4,
+      "location": 2,
+      "content": "自己反而越来越没信心了",
+      "music": 0.0
+    },
+    {
+      "from": 5.68,
+      "to": 6.86,
+      "sid": 5,
+      "location": 2,
+      "content": "明明枪法没问题",
+      "music": 0.0
+    },
+    {
+      "from": 6.86,
+      "to": 8.01,
+      "sid": 6,
+      "location": 2,
+      "content": "却经常开不出枪",
+      "music": 0.0
+    },
+    {
+      "from": 8.01,
+      "to": 10.05,
+      "sid": 7,
+      "location": 2,
+      "content": "这好像是很多人都提过的问题",
+      "music": 0.0
+    },
+    {
+      "from": 10.05,
+      "to": 12.31,
+      "sid": 8,
+      "location": 2,
+      "content": "那么我们就直接来看看是什么情况吧",
+      "music": 0.0
+    },
+    {
+      "from": 12.31,
+      "to": 13.91,
+      "sid": 9,
+      "location": 2,
+      "content": "手枪局就不做讲解了",
+      "music": 0.0
+    },
+    {
+      "from": 13.91,
+      "to": 15.54,
+      "sid": 10,
+      "location": 2,
+      "content": "来看一下你的表现",
+      "music": 0.0
+    },
+    {
+      "from": 15.54,
+      "to": 17.44,
+      "sid": 11,
+      "location": 2,
+      "content": "Drop in a smoke",
+      "music": 0.0
+    },
+    {
+      "from": 22.18,
+      "to": 26.94,
+      "sid": 12,
+      "location": 2,
+      "content": "包点包点里边一个卧槽",
+      "music": 0.0
+    },
+    {
+      "from": 34.4,
+      "to": 35.74,
+      "sid": 13,
+      "location": 2,
+      "content": "唉残了他残了",
+      "music": 0.0
+    },
+    {
+      "from": 35.74,
+      "to": 37.64,
+      "sid": 14,
+      "location": 2,
+      "content": "等下我点我点吸一口",
+      "music": 0.0
+    },
+    {
+      "from": 37.64,
+      "to": 38.92,
+      "sid": 15,
+      "location": 2,
+      "content": "吸进一口",
+      "music": 0.0
+    },
+    {
+      "from": 39.83,
+      "to": 41.09,
+      "sid": 16,
+      "location": 2,
+      "content": "哎我操",
+      "music": 0.0
+    },
+    {
+      "from": 41.09,
+      "to": 43.09,
+      "sid": 17,
+      "location": 2,
+      "content": "我先直接来说重点吧",
+      "music": 0.0
+    },
+    {
+      "from": 43.09,
+      "to": 44.15,
+      "sid": 18,
+      "location": 2,
+      "content": "这里我是没明白",
+      "music": 0.0
+    },
+    {
+      "from": 44.15,
+      "to": 44.79,
+      "sid": 19,
+      "location": 2,
+      "content": "包点技能后",
+      "music": 0.0
+    },
+    {
+      "from": 44.79,
+      "to": 46.23,
+      "sid": 20,
+      "location": 2,
+      "content": "你会给一个这样的隔断",
+      "music": 0.0
+    },
+    {
+      "from": 46.23,
+      "to": 48.25,
+      "sid": 21,
+      "location": 2,
+      "content": "我们先来看看这个烟是什么样的",
+      "music": 0.0
+    },
+    {
+      "from": 48.25,
+      "to": 50.43,
+      "sid": 22,
+      "location": 2,
+      "content": "我能理解为你是想帮包点的RA吗",
+      "music": 0.0
+    },
+    {
+      "from": 50.43,
+      "to": 53.37,
+      "sid": 23,
+      "location": 2,
+      "content": "就是想防止RINA被双拉还是什么原因",
+      "music": 0.0
+    },
+    {
+      "from": 53.37,
+      "to": 55.69,
+      "sid": 24,
+      "location": 2,
+      "content": "但是RANA这里本身是有一个掩体在的",
+      "music": 0.0
+    },
+    {
+      "from": 55.69,
+      "to": 56.49,
+      "sid": 25,
+      "location": 2,
+      "content": "左侧的人",
+      "music": 0.0
+    },
+    {
+      "from": 56.49,
+      "to": 58.51,
+      "sid": 26,
+      "location": 2,
+      "content": "除非贴到近点或者RAINA给身位",
+      "music": 0.0
+    },
+    {
+      "from": 58.51,
+      "to": 59.99,
+      "sid": 27,
+      "location": 2,
+      "content": "不然是打不到瑞纳的",
+      "music": 0.0
+    },
+    {
+      "from": 59.99,
+      "to": 61.83,
+      "sid": 28,
+      "location": 2,
+      "content": "这里瑞娜本身就有拉扯空间",
+      "music": 0.0
+    },
+    {
+      "from": 61.83,
+      "to": 63.47,
+      "sid": 29,
+      "location": 2,
+      "content": "那如果你不是想给到瑞纳",
+      "music": 0.0
+    },
+    {
+      "from": 63.47,
+      "to": 65.03,
+      "sid": 30,
+      "location": 2,
+      "content": "也是想给自己回防用",
+      "music": 0.0
+    },
+    {
+      "from": 65.03,
+      "to": 66.41,
+      "sid": 31,
+      "location": 2,
+      "content": "我就更想不明白了",
+      "music": 0.0
+    },
+    {
+      "from": 66.41,
+      "to": 68.29,
+      "sid": 32,
+      "location": 2,
+      "content": "这是一颗左右两边都漏风的烟",
+      "music": 0.0
+    },
+    {
+      "from": 68.29,
+      "to": 70.93,
+      "sid": 33,
+      "location": 2,
+      "content": "也就是说你第一时间既不能补到包点的枪",
+      "music": 0.0
+    },
+    {
+      "from": 70.93,
+      "to": 72.55,
+      "sid": 34,
+      "location": 2,
+      "content": "也不能看到左侧的人",
+      "music": 0.0
+    },
+    {
+      "from": 72.55,
+      "to": 74.21,
+      "sid": 35,
+      "location": 2,
+      "content": "同时因为两边都有缝",
+      "music": 0.0
+    },
+    {
+      "from": 74.21,
+      "to": 75.87,
+      "sid": 36,
+      "location": 2,
+      "content": "看左看右都不利于发挥",
+      "music": 0.0
+    },
+    {
+      "from": 75.87,
+      "to": 77.17,
+      "sid": 37,
+      "location": 2,
+      "content": "我们要给包点的隔断",
+      "music": 0.0
+    },
+    {
+      "from": 77.17,
+      "to": 79.82,
+      "sid": 38,
+      "location": 2,
+      "content": "应该是给一颗能隔断包点左侧含B大的烟",
+      "music": 0.0
+    },
+    {
+      "from": 79.82,
+      "to": 82.72,
+      "sid": 39,
+      "location": 2,
+      "content": "这个烟不仅可以让la几乎不用担忧左边的敌人",
+      "music": 0.0
+    },
+    {
+      "from": 82.72,
+      "to": 84.1,
+      "sid": 40,
+      "location": 2,
+      "content": "同时在你回防的时候",
+      "music": 0.0
+    },
+    {
+      "from": 84.1,
+      "to": 86.02,
+      "sid": 41,
+      "location": 2,
+      "content": "你还可以和着你的队友形成双枪线",
+      "music": 0.0
+    },
+    {
+      "from": 86.02,
+      "to": 87.08,
+      "sid": 42,
+      "location": 2,
+      "content": "去打包点右侧",
+      "music": 0.0
+    },
+    {
+      "from": 87.08,
+      "to": 88.08,
+      "sid": 43,
+      "location": 2,
+      "content": "而你给的这颗烟",
+      "music": 0.0
+    },
+    {
+      "from": 88.08,
+      "to": 90.52,
+      "sid": 44,
+      "location": 2,
+      "content": "说实话我确实没想明白你的目的是什么",
+      "music": 0.0
+    },
+    {
+      "from": 90.52,
+      "to": 92.23,
+      "sid": 45,
+      "location": 2,
+      "content": "同时后面你也可以看到",
+      "music": 0.0
+    },
+    {
+      "from": 92.23,
+      "to": 93.11,
+      "sid": 46,
+      "location": 2,
+      "content": "因为这颗烟",
+      "music": 0.0
+    },
+    {
+      "from": 93.11,
+      "to": 95.37,
+      "sid": 47,
+      "location": 2,
+      "content": "直接导致你明明有一个信息上的优势",
+      "music": 0.0
+    },
+    {
+      "from": 95.37,
+      "to": 96.65,
+      "sid": 48,
+      "location": 2,
+      "content": "却因为软掩体的存在",
+      "music": 0.0
+    },
+    {
+      "from": 96.65,
+      "to": 97.93,
+      "sid": 49,
+      "location": 2,
+      "content": "根本没法达到解封",
+      "music": 0.0
+    },
+    {
+      "from": 97.93,
+      "to": 99.85,
+      "sid": 50,
+      "location": 2,
+      "content": "再者就是你说你瞄准没问题",
+      "music": 0.0
+    },
+    {
+      "from": 99.85,
+      "to": 101.69,
+      "sid": 51,
+      "location": 2,
+      "content": "关于这一点",
+      "music": 0.0
+    },
+    {
+      "from": 106.139,
+      "to": 108.079,
+      "sid": 52,
+      "location": 2,
+      "content": "唉残了他残了",
+      "music": 0.0
+    },
+    {
+      "from": 108.079,
+      "to": 110.819,
+      "sid": 53,
+      "location": 2,
+      "content": "包点包点吸一口吸吸一口",
+      "music": 0.0
+    },
+    {
+      "from": 111.5,
+      "to": 112.62,
+      "sid": 54,
+      "location": 2,
+      "content": "我实在没法认可",
+      "music": 0.0
+    },
+    {
+      "from": 112.62,
+      "to": 113.94,
+      "sid": 55,
+      "location": 2,
+      "content": "你说的瞄准没问题",
+      "music": 0.0
+    },
+    {
+      "from": 113.94,
+      "to": 115.1,
+      "sid": 56,
+      "location": 2,
+      "content": "你开枪非常急",
+      "music": 0.0
+    },
+    {
+      "from": 115.1,
+      "to": 118.02,
+      "sid": 57,
+      "location": 2,
+      "content": "的确你头线预瞄这些都没什么太大问题",
+      "music": 0.0
+    },
+    {
+      "from": 118.02,
+      "to": 119.36,
+      "sid": 58,
+      "location": 2,
+      "content": "但你知道有多急吗",
+      "music": 0.0
+    },
+    {
+      "from": 119.36,
+      "to": 122.1,
+      "sid": 59,
+      "location": 2,
+      "content": "就是几道生怕别人下一发就直接把你秒了",
+      "music": 0.0
+    },
+    {
+      "from": 122.1,
+      "to": 123.06,
+      "sid": 60,
+      "location": 2,
+      "content": "停也没停住",
+      "music": 0.0
+    },
+    {
+      "from": 123.06,
+      "to": 124.52,
+      "sid": 61,
+      "location": 2,
+      "content": "打几发就要上子弹",
+      "music": 0.0
+    },
+    {
+      "from": 124.52,
+      "to": 126.26,
+      "sid": 62,
+      "location": 2,
+      "content": "残局这种情况剩你一个",
+      "music": 0.0
+    },
+    {
+      "from": 126.26,
+      "to": 127.58,
+      "sid": 63,
+      "location": 2,
+      "content": "你边打边换子弹",
+      "music": 0.0
+    },
+    {
+      "from": 127.58,
+      "to": 129.38,
+      "sid": 64,
+      "location": 2,
+      "content": "你知道会漏多少胎命吗",
+      "music": 0.0
+    },
+    {
+      "from": 129.38,
+      "to": 130.72,
+      "sid": 65,
+      "location": 2,
+      "content": "你哪怕打的没子弹了",
+      "music": 0.0
+    },
+    {
+      "from": 130.72,
+      "to": 131.54,
+      "sid": 66,
+      "location": 2,
+      "content": "地上全是枪",
+      "music": 0.0
+    },
+    {
+      "from": 131.54,
+      "to": 133.5,
+      "sid": 67,
+      "location": 2,
+      "content": "直接换枪都比你这样玩要少很多",
+      "music": 0.0
+    },
+    {
+      "from": 133.5,
+      "to": 134.02,
+      "sid": 68,
+      "location": 2,
+      "content": "Timing",
+      "music": 0.0
+    },
+    {
+      "from": 134.02,
+      "to": 136.6,
+      "sid": 69,
+      "location": 2,
+      "content": "更别说这里你最终明明有三次开枪机会",
+      "music": 0.0
+    },
+    {
+      "from": 136.6,
+      "to": 137.86,
+      "sid": 70,
+      "location": 2,
+      "content": "结果只打了杰方一枪",
+      "music": 0.0
+    },
+    {
+      "from": 137.86,
+      "to": 139.46,
+      "sid": 71,
+      "location": 2,
+      "content": "身体目前第一分看下来",
+      "music": 0.0
+    },
+    {
+      "from": 139.46,
+      "to": 141.759,
+      "sid": 72,
+      "location": 2,
+      "content": "我的评价是对烟位的理解还不够",
+      "music": 0.0
+    },
+    {
+      "from": 141.759,
+      "to": 142.779,
+      "sid": 73,
+      "location": 2,
+      "content": "心态也不稳",
+      "music": 0.0
+    },
+    {
+      "from": 142.779,
+      "to": 145.959,
+      "sid": 74,
+      "location": 2,
+      "content": "我们再看后面现在怎么玩",
+      "music": 0.0
+    },
+    {
+      "from": 149.46,
+      "to": 151.92,
+      "sid": 75,
+      "location": 2,
+      "content": "啊这里我简单一句带过吧",
+      "music": 0.0
+    },
+    {
+      "from": 151.92,
+      "to": 153.22,
+      "sid": 76,
+      "location": 2,
+      "content": "毕竟是ECO局",
+      "music": 0.0
+    },
+    {
+      "from": 153.22,
+      "to": 154.54,
+      "sid": 77,
+      "location": 2,
+      "content": "像这种你还扔了两个人",
+      "music": 0.0
+    },
+    {
+      "from": 154.54,
+      "to": 155.74,
+      "sid": 78,
+      "location": 2,
+      "content": "180度站位",
+      "music": 0.0
+    },
+    {
+      "from": 155.74,
+      "to": 157.1,
+      "sid": 79,
+      "location": 2,
+      "content": "对方还给了烟的时候",
+      "music": 0.0
+    },
+    {
+      "from": 157.1,
+      "to": 159.7,
+      "sid": 80,
+      "location": 2,
+      "content": "你可以开麦喊他说一起钻烟里是标配",
+      "music": 0.0
+    },
+    {
+      "from": 159.7,
+      "to": 161.079,
+      "sid": 81,
+      "location": 2,
+      "content": "你直接跳烟三连发",
+      "music": 0.0
+    },
+    {
+      "from": 161.079,
+      "to": 161.879,
+      "sid": 82,
+      "location": 2,
+      "content": "他是标配",
+      "music": 0.0
+    },
+    {
+      "from": 161.879,
+      "to": 163.579,
+      "sid": 83,
+      "location": 2,
+      "content": "也可以和你一起跳烟三连发",
+      "music": 0.0
+    },
+    {
+      "from": 163.579,
+      "to": 165.47,
+      "sid": 84,
+      "location": 2,
+      "content": "这样也许不会说这一分能赢",
+      "music": 0.0
+    },
+    {
+      "from": 165.47,
+      "to": 166.95,
+      "sid": 85,
+      "location": 2,
+      "content": "但下一次遇到这种情况",
+      "music": 0.0
+    },
+    {
+      "from": 166.95,
+      "to": 168.47,
+      "sid": 86,
+      "location": 2,
+      "content": "你就不会疑惑该怎么办了",
+      "music": 0.0
+    },
+    {
+      "from": 168.47,
+      "to": 171.31,
+      "sid": 87,
+      "location": 2,
+      "content": "当然证明你的专研是没问题的",
+      "music": 0.0
+    },
+    {
+      "from": 173.58,
+      "to": 174.38,
+      "sid": 88,
+      "location": 2,
+      "content": "但也很明显",
+      "music": 0.0
+    },
+    {
+      "from": 174.38,
+      "to": 174.9,
+      "sid": 89,
+      "location": 2,
+      "content": "你能看到",
+      "music": 0.0
+    },
+    {
+      "from": 174.9,
+      "to": 176.68,
+      "sid": 90,
+      "location": 2,
+      "content": "即便你烟尊的也没什么问题",
+      "music": 0.0
+    },
+    {
+      "from": 176.68,
+      "to": 177.9,
+      "sid": 91,
+      "location": 2,
+      "content": "但是没有提前上浪",
+      "music": 0.0
+    },
+    {
+      "from": 177.9,
+      "to": 179.26,
+      "sid": 92,
+      "location": 2,
+      "content": "导致你白给了瑞纳",
+      "music": 0.0
+    },
+    {
+      "from": 179.26,
+      "to": 181.67,
+      "sid": 93,
+      "location": 2,
+      "content": "也去不了干嘛呢",
+      "music": 0.0
+    },
+    {
+      "from": 181.67,
+      "to": 184.41,
+      "sid": 94,
+      "location": 2,
+      "content": "这里客观评价你的动作没问题",
+      "music": 0.0
+    },
+    {
+      "from": 184.41,
+      "to": 186.26,
+      "sid": 95,
+      "location": 2,
+      "content": "但你少了点和队友的沟通",
+      "music": 0.0
+    },
+    {
+      "from": 186.26,
+      "to": 188.0,
+      "sid": 96,
+      "location": 2,
+      "content": "任何细节都关乎你的提升",
+      "music": 0.0
+    },
+    {
+      "from": 188.0,
+      "to": 190.3,
+      "sid": 97,
+      "location": 2,
+      "content": "因为下一次你的队友也许比你会玩",
+      "music": 0.0
+    },
+    {
+      "from": 190.3,
+      "to": 191.79,
+      "sid": 98,
+      "location": 2,
+      "content": "比你更懂应该怎么打",
+      "music": 0.0
+    },
+    {
+      "from": 191.79,
+      "to": 193.11,
+      "sid": 99,
+      "location": 2,
+      "content": "所以为什么不尝试一下",
+      "music": 0.0
+    },
+    {
+      "from": 193.11,
+      "to": 195.42,
+      "sid": 100,
+      "location": 2,
+      "content": "先成为那个更会玩的人",
+      "music": 0.0
+    },
+    {
+      "from": 196.02,
+      "to": 197.66,
+      "sid": 101,
+      "location": 2,
+      "content": "然后是离对方近的点",
+      "music": 0.0
+    },
+    {
+      "from": 197.66,
+      "to": 199.34,
+      "sid": 102,
+      "location": 2,
+      "content": "你还是给了这样一个隔断",
+      "music": 0.0
+    },
+    {
+      "from": 199.34,
+      "to": 200.4,
+      "sid": 103,
+      "location": 2,
+      "content": "我查了一下",
+      "music": 0.0
+    },
+    {
+      "from": 200.4,
+      "to": 202.76,
+      "sid": 104,
+      "location": 2,
+      "content": "有博主教学过B包点的防守隔断",
+      "music": 0.0
+    },
+    {
+      "from": 202.76,
+      "to": 204.0,
+      "sid": 105,
+      "location": 2,
+      "content": "但是经过确认",
+      "music": 0.0
+    },
+    {
+      "from": 204.0,
+      "to": 205.68,
+      "sid": 106,
+      "location": 2,
+      "content": "他们当时发的那个隔断烟",
+      "music": 0.0
+    },
+    {
+      "from": 205.68,
+      "to": 207.4,
+      "sid": 107,
+      "location": 2,
+      "content": "是由税的库改版之前的",
+      "music": 0.0
+    },
+    {
+      "from": 207.4,
+      "to": 209.04,
+      "sid": 108,
+      "location": 2,
+      "content": "然后是包点人都没了",
+      "music": 0.0
+    },
+    {
+      "from": 209.04,
+      "to": 210.47,
+      "sid": 109,
+      "location": 2,
+      "content": "你给的也还是这个烟",
+      "music": 0.0
+    },
+    {
+      "from": 210.47,
+      "to": 211.07,
+      "sid": 110,
+      "location": 2,
+      "content": "人都没了",
+      "music": 0.0
+    },
+    {
+      "from": 211.07,
+      "to": 212.47,
+      "sid": 111,
+      "location": 2,
+      "content": "你给这个隔断干啥呢",
+      "music": 0.0
+    },
+    {
+      "from": 212.47,
+      "to": 214.57,
+      "sid": 112,
+      "location": 2,
+      "content": "这种回防不是有很多烟可以给吗",
+      "music": 0.0
+    },
+    {
+      "from": 214.57,
+      "to": 216.45,
+      "sid": 113,
+      "location": 2,
+      "content": "包点左侧的单向烟可以给吧",
+      "music": 0.0
+    },
+    {
+      "from": 216.45,
+      "to": 218.19,
+      "sid": 114,
+      "location": 2,
+      "content": "包点右侧的烟可以给吧",
+      "music": 0.0
+    },
+    {
+      "from": 218.19,
+      "to": 219.87,
+      "sid": 115,
+      "location": 2,
+      "content": "这里甚至可以给一个单向",
+      "music": 0.0
+    },
+    {
+      "from": 219.87,
+      "to": 222.21,
+      "sid": 116,
+      "location": 2,
+      "content": "再不然就是我前面说的那个包点隔断",
+      "music": 0.0
+    },
+    {
+      "from": 222.21,
+      "to": 223.27,
+      "sid": 117,
+      "location": 2,
+      "content": "你给的这个隔断",
+      "music": 0.0
+    },
+    {
+      "from": 223.27,
+      "to": 225.23,
+      "sid": 118,
+      "location": 2,
+      "content": "我真没想明白作用",
+      "music": 0.0
+    },
+    {
+      "from": 227.64,
+      "to": 230.69,
+      "sid": 119,
+      "location": 2,
+      "content": "然后是这里你的育苗在这里是完全没有章法",
+      "music": 0.0
+    },
+    {
+      "from": 230.69,
+      "to": 233.57,
+      "sid": 120,
+      "location": 2,
+      "content": "典型的象征性预瞄蹲拉瞄的点都是错的",
+      "music": 0.0
+    },
+    {
+      "from": 233.57,
+      "to": 234.73,
+      "sid": 121,
+      "location": 2,
+      "content": "这里你打带奶妈",
+      "music": 0.0
+    },
+    {
+      "from": 234.73,
+      "to": 235.85,
+      "sid": 122,
+      "location": 2,
+      "content": "纯粹是奶妈给机会",
+      "music": 0.0
+    },
+    {
+      "from": 235.85,
+      "to": 237.329,
+      "sid": 123,
+      "location": 2,
+      "content": "外加你自身反应快",
+      "music": 0.0
+    },
+    {
+      "from": 237.329,
+      "to": 240.789,
+      "sid": 124,
+      "location": 2,
+      "content": "至于在后面你这个残局是完全有操作空间的",
+      "music": 0.0
+    },
+    {
+      "from": 240.789,
+      "to": 241.969,
+      "sid": 125,
+      "location": 2,
+      "content": "逐个去排点啊",
+      "music": 0.0
+    },
+    {
+      "from": 241.969,
+      "to": 243.69,
+      "sid": 126,
+      "location": 2,
+      "content": "你说你总是开不出来枪",
+      "music": 0.0
+    },
+    {
+      "from": 243.69,
+      "to": 244.71,
+      "sid": 127,
+      "location": 2,
+      "content": "剩你一个人",
+      "music": 0.0
+    },
+    {
+      "from": 244.71,
+      "to": 245.71,
+      "sid": 128,
+      "location": 2,
+      "content": "你还有一个烟",
+      "music": 0.0
+    },
+    {
+      "from": 245.71,
+      "to": 247.03,
+      "sid": 129,
+      "location": 2,
+      "content": "你位置还是名牌",
+      "music": 0.0
+    },
+    {
+      "from": 247.03,
+      "to": 248.49,
+      "sid": 130,
+      "location": 2,
+      "content": "但你偏偏要去肝啊",
+      "music": 0.0
+    },
+    {
+      "from": 248.49,
+      "to": 249.17,
+      "sid": 131,
+      "location": 2,
+      "content": "为什么啊",
+      "music": 0.0
+    },
+    {
+      "from": 249.17,
+      "to": 250.97,
+      "sid": 132,
+      "location": 2,
+      "content": "兄弟我真没想明白啊",
+      "music": 0.0
+    },
+    {
+      "from": 250.97,
+      "to": 251.77,
+      "sid": 133,
+      "location": 2,
+      "content": "你还有一颗烟",
+      "music": 0.0
+    },
+    {
+      "from": 251.77,
+      "to": 253.39,
+      "sid": 134,
+      "location": 2,
+      "content": "不是完全还有操作空间吗",
+      "music": 0.0
+    },
+    {
+      "from": 253.39,
+      "to": 255.55,
+      "sid": 135,
+      "location": 2,
+      "content": "甚至这里亚星卓还给了你一个易损",
+      "music": 0.0
+    },
+    {
+      "from": 255.55,
+      "to": 257.269,
+      "sid": 136,
+      "location": 2,
+      "content": "到底为什么还要拉出去啊",
+      "music": 0.0
+    },
+    {
+      "from": 257.269,
+      "to": 259.189,
+      "sid": 137,
+      "location": 2,
+      "content": "你拉出去预瞄的点也还是错的",
+      "music": 0.0
+    },
+    {
+      "from": 259.189,
+      "to": 260.409,
+      "sid": 138,
+      "location": 2,
+      "content": "这么常规的位置",
+      "music": 0.0
+    },
+    {
+      "from": 260.409,
+      "to": 261.529,
+      "sid": 139,
+      "location": 2,
+      "content": "两个人站一起",
+      "music": 0.0
+    },
+    {
+      "from": 261.529,
+      "to": 263.13,
+      "sid": 140,
+      "location": 2,
+      "content": "结果预瞄的也不是头线",
+      "music": 0.0
+    },
+    {
+      "from": 263.13,
+      "to": 265.96,
+      "sid": 141,
+      "location": 2,
+      "content": "你的瞄准完全不符合你和我说的没有问题",
+      "music": 0.0
+    },
+    {
+      "from": 265.96,
+      "to": 267.82,
+      "sid": 142,
+      "location": 2,
+      "content": "你但凡在这里冷静一点呢",
+      "music": 0.0
+    },
+    {
+      "from": 267.82,
+      "to": 268.56,
+      "sid": 143,
+      "location": 2,
+      "content": "队友被打掉",
+      "music": 0.0
+    },
+    {
+      "from": 268.56,
+      "to": 269.82,
+      "sid": 144,
+      "location": 2,
+      "content": "你肯定是有信息的",
+      "music": 0.0
+    },
+    {
+      "from": 269.82,
+      "to": 270.9,
+      "sid": 145,
+      "location": 2,
+      "content": "全是信息枪",
+      "music": 0.0
+    },
+    {
+      "from": 270.9,
+      "to": 272.69,
+      "sid": 146,
+      "location": 2,
+      "content": "还有一颗烟协助你的操作",
+      "music": 0.0
+    },
+    {
+      "from": 272.69,
+      "to": 275.39,
+      "sid": 147,
+      "location": 2,
+      "content": "结果这个残局的硬是打成了一个干拉就没了",
+      "music": 0.0
+    },
+    {
+      "from": 275.39,
+      "to": 276.25,
+      "sid": 148,
+      "location": 2,
+      "content": "到底为啥啊",
+      "music": 0.0
+    },
+    {
+      "from": 276.25,
+      "to": 278.539,
+      "sid": 149,
+      "location": 2,
+      "content": "兄弟我确实感受到了你的不自信",
+      "music": 0.0
+    },
+    {
+      "from": 278.539,
+      "to": 279.579,
+      "sid": 150,
+      "location": 2,
+      "content": "生怕再耽搁一下",
+      "music": 0.0
+    },
+    {
+      "from": 279.579,
+      "to": 281.199,
+      "sid": 151,
+      "location": 2,
+      "content": "别人就全扑过来把你秒了",
+      "music": 0.0
+    },
+    {
+      "from": 281.199,
+      "to": 282.69,
+      "sid": 152,
+      "location": 2,
+      "content": "建议你心态先放平",
+      "music": 0.0
+    },
+    {
+      "from": 282.69,
+      "to": 284.61,
+      "sid": 153,
+      "location": 2,
+      "content": "有些对手打不过就是打不过",
+      "music": 0.0
+    },
+    {
+      "from": 284.61,
+      "to": 287.03,
+      "sid": 154,
+      "location": 2,
+      "content": "但有些对手是你明明有击杀能力的",
+      "music": 0.0
+    },
+    {
+      "from": 287.03,
+      "to": 288.85,
+      "sid": 155,
+      "location": 2,
+      "content": "你不要给他们添上滤镜",
+      "music": 0.0
+    },
+    {
+      "from": 288.85,
+      "to": 291.53,
+      "sid": 156,
+      "location": 2,
+      "content": "再然后是这里我先不讲",
+      "music": 0.0
+    },
+    {
+      "from": 298.12,
+      "to": 300.0,
+      "sid": 157,
+      "location": 2,
+      "content": "不是兄弟",
+      "music": 0.0
+    },
+    {
+      "from": 300.0,
+      "to": 301.7,
+      "sid": 158,
+      "location": 2,
+      "content": "到底为什么又是一个大拉啊",
+      "music": 0.0
+    },
+    {
+      "from": 301.7,
+      "to": 303.52,
+      "sid": 159,
+      "location": 2,
+      "content": "你前面其实有拿到信息的片段",
+      "music": 0.0
+    },
+    {
+      "from": 303.52,
+      "to": 304.18,
+      "sid": 160,
+      "location": 2,
+      "content": "我没放",
+      "music": 0.0
+    },
+    {
+      "from": 304.18,
+      "to": 305.76,
+      "sid": 161,
+      "location": 2,
+      "content": "你知道A大肯定不止一个",
+      "music": 0.0
+    },
+    {
+      "from": 305.76,
+      "to": 306.42,
+      "sid": 162,
+      "location": 2,
+      "content": "你是穆迪",
+      "music": 0.0
+    },
+    {
+      "from": 306.42,
+      "to": 307.02,
+      "sid": 163,
+      "location": 2,
+      "content": "不是瑞纳",
+      "music": 0.0
+    },
+    {
+      "from": 307.02,
+      "to": 308.34,
+      "sid": 164,
+      "location": 2,
+      "content": "不是打了一个可以走",
+      "music": 0.0
+    },
+    {
+      "from": 308.34,
+      "to": 309.1,
+      "sid": 165,
+      "location": 2,
+      "content": "你一个大拉",
+      "music": 0.0
+    },
+    {
+      "from": 309.1,
+      "to": 310.22,
+      "sid": 166,
+      "location": 2,
+      "content": "多半也是你打了一个",
+      "music": 0.0
+    },
+    {
+      "from": 310.22,
+      "to": 311.13,
+      "sid": 167,
+      "location": 2,
+      "content": "然后你被捕",
+      "music": 0.0
+    },
+    {
+      "from": 311.13,
+      "to": 313.51,
+      "sid": 168,
+      "location": 2,
+      "content": "尤其是这里黑妹已经看到了你在左边了",
+      "music": 0.0
+    },
+    {
+      "from": 313.51,
+      "to": 315.67,
+      "sid": 169,
+      "location": 2,
+      "content": "他队友也能通过小地图看到你位置",
+      "music": 0.0
+    },
+    {
+      "from": 315.67,
+      "to": 317.22,
+      "sid": 170,
+      "location": 2,
+      "content": "这都是钻石分段了",
+      "music": 0.0
+    },
+    {
+      "from": 317.22,
+      "to": 319.32,
+      "sid": 171,
+      "location": 2,
+      "content": "别人会看小地图是非常正常的",
+      "music": 0.0
+    },
+    {
+      "from": 319.32,
+      "to": 321.52,
+      "sid": 172,
+      "location": 2,
+      "content": "你为什么要在这种位置明牌的情况下",
+      "music": 0.0
+    },
+    {
+      "from": 321.52,
+      "to": 322.7,
+      "sid": 173,
+      "location": 2,
+      "content": "又是一个大拉呢",
+      "music": 0.0
+    },
+    {
+      "from": 322.7,
+      "to": 323.9,
+      "sid": 174,
+      "location": 2,
+      "content": "而且你封烟之后",
+      "music": 0.0
+    },
+    {
+      "from": 323.9,
+      "to": 324.84,
+      "sid": 175,
+      "location": 2,
+      "content": "枪都没端稳",
+      "music": 0.0
+    },
+    {
+      "from": 324.84,
+      "to": 327.1,
+      "sid": 176,
+      "location": 2,
+      "content": "甚至来不及有一个提前预瞄的动作",
+      "music": 0.0
+    },
+    {
+      "from": 327.1,
+      "to": 328.56,
+      "sid": 177,
+      "location": 2,
+      "content": "全靠反应来开枪",
+      "music": 0.0
+    },
+    {
+      "from": 328.56,
+      "to": 329.52,
+      "sid": 178,
+      "location": 2,
+      "content": "影子肯定越打",
+      "music": 0.0
+    },
+    {
+      "from": 329.52,
+      "to": 330.32,
+      "sid": 179,
+      "location": 2,
+      "content": "手感越差啊",
+      "music": 0.0
+    },
+    {
+      "from": 330.32,
+      "to": 333.68,
+      "sid": 180,
+      "location": 2,
+      "content": "兄弟枪打了",
+      "music": 0.0
+    },
+    {
+      "from": 345.9,
+      "to": 346.96,
+      "sid": 181,
+      "location": 2,
+      "content": "全是timing",
+      "music": 0.0
+    },
+    {
+      "from": 346.96,
+      "to": 348.6,
+      "sid": 182,
+      "location": 2,
+      "content": "但这里对方黑妹给了假烟",
+      "music": 0.0
+    },
+    {
+      "from": 348.6,
+      "to": 349.72,
+      "sid": 183,
+      "location": 2,
+      "content": "你没想到也正常",
+      "music": 0.0
+    },
+    {
+      "from": 349.72,
+      "to": 351.4,
+      "sid": 184,
+      "location": 2,
+      "content": "其实你整体的感觉真的很好",
+      "music": 0.0
+    },
+    {
+      "from": 351.4,
+      "to": 353.0,
+      "sid": 185,
+      "location": 2,
+      "content": "总结心态非常急",
+      "music": 0.0
+    },
+    {
+      "from": 353.0,
+      "to": 354.0,
+      "sid": 186,
+      "location": 2,
+      "content": "沉不住气",
+      "music": 0.0
+    },
+    {
+      "from": 354.0,
+      "to": 355.52,
+      "sid": 187,
+      "location": 2,
+      "content": "别人是你拿到你信息了",
+      "music": 0.0
+    },
+    {
+      "from": 355.52,
+      "to": 356.7,
+      "sid": 188,
+      "location": 2,
+      "content": "你也不会当一回事",
+      "music": 0.0
+    },
+    {
+      "from": 356.7,
+      "to": 358.78,
+      "sid": 189,
+      "location": 2,
+      "content": "这个毛病跟前面是一模一样的",
+      "music": 0.0
+    },
+    {
+      "from": 358.78,
+      "to": 360.16,
+      "sid": 190,
+      "location": 2,
+      "content": "纯粹是习惯问题",
+      "music": 0.0
+    },
+    {
+      "from": 360.16,
+      "to": 361.06,
+      "sid": 191,
+      "location": 2,
+      "content": "你想开出枪",
+      "music": 0.0
+    },
+    {
+      "from": 361.06,
+      "to": 362.34,
+      "sid": 192,
+      "location": 2,
+      "content": "首先就得尊重对手",
+      "music": 0.0
+    },
+    {
+      "from": 362.34,
+      "to": 363.62,
+      "sid": 193,
+      "location": 2,
+      "content": "别人拿到了你的信息",
+      "music": 0.0
+    },
+    {
+      "from": 363.62,
+      "to": 364.68,
+      "sid": 194,
+      "location": 2,
+      "content": "自然是有优势",
+      "music": 0.0
+    },
+    {
+      "from": 364.68,
+      "to": 366.74,
+      "sid": 195,
+      "location": 2,
+      "content": "你又何必急于一时半会儿呢",
+      "music": 0.0
+    },
+    {
+      "from": 366.74,
+      "to": 368.81,
+      "sid": 196,
+      "location": 2,
+      "content": "干嘛要把自己的定位定义的很简单",
+      "music": 0.0
+    },
+    {
+      "from": 368.81,
+      "to": 371.29,
+      "sid": 197,
+      "location": 2,
+      "content": "好像塞了一个就赚不塞也不亏呢",
+      "music": 0.0
+    },
+    {
+      "from": 371.29,
+      "to": 373.47,
+      "sid": 198,
+      "location": 2,
+      "content": "难道你认为自己只有这种水平吗",
+      "music": 0.0
+    },
+    {
+      "from": 373.47,
+      "to": 374.99,
+      "sid": 199,
+      "location": 2,
+      "content": "我这里和你强调一下",
+      "music": 0.0
+    },
+    {
+      "from": 374.99,
+      "to": 376.57,
+      "sid": 200,
+      "location": 2,
+      "content": "是你整体给我的感觉",
+      "music": 0.0
+    },
+    {
+      "from": 376.57,
+      "to": 377.57,
+      "sid": 201,
+      "location": 2,
+      "content": "而非这一波",
+      "music": 0.0
+    },
+    {
+      "from": 377.57,
+      "to": 379.17,
+      "sid": 202,
+      "location": 2,
+      "content": "这一波其实是对面的配合",
+      "music": 0.0
+    },
+    {
+      "from": 379.17,
+      "to": 380.53,
+      "sid": 203,
+      "location": 2,
+      "content": "刚好就把你钓上钩了",
+      "music": 0.0
+    },
+    {
+      "from": 380.53,
+      "to": 382.0,
+      "sid": 204,
+      "location": 2,
+      "content": "猎枭射箭哪里位置",
+      "music": 0.0
+    },
+    {
+      "from": 382.0,
+      "to": 383.08,
+      "sid": 205,
+      "location": 2,
+      "content": "黑妹给假烟装",
+      "music": 0.0
+    },
+    {
+      "from": 383.08,
+      "to": 383.96,
+      "sid": 206,
+      "location": 2,
+      "content": "你撤退胎命",
+      "music": 0.0
+    },
+    {
+      "from": 383.96,
+      "to": 386.5,
+      "sid": 207,
+      "location": 2,
+      "content": "硬要说的话是可以给一个中路烟之后再走",
+      "music": 0.0
+    },
+    {
+      "from": 386.5,
+      "to": 388.1,
+      "sid": 208,
+      "location": 2,
+      "content": "毕竟别人内消射箭了",
+      "music": 0.0
+    },
+    {
+      "from": 388.1,
+      "to": 389.87,
+      "sid": 209,
+      "location": 2,
+      "content": "你也可以给一个烟尊重一下",
+      "music": 0.0
+    },
+    {
+      "from": 389.87,
+      "to": 391.83,
+      "sid": 210,
+      "location": 2,
+      "content": "不过这就对你有点吹毛求疵了",
+      "music": 0.0
+    },
+    {
+      "from": 391.83,
+      "to": 393.25,
+      "sid": 211,
+      "location": 2,
+      "content": "我们再看一波吧",
+      "music": 0.0
+    },
+    {
+      "from": 393.25,
+      "to": 395.03,
+      "sid": 212,
+      "location": 2,
+      "content": "先看一波你的击杀吧",
+      "music": 0.0
+    },
+    {
+      "from": 395.03,
+      "to": 398.03,
+      "sid": 213,
+      "location": 2,
+      "content": "避免有观众认为你没有这个段位的水平",
+      "music": 0.0
+    },
+    {
+      "from": 405.28,
+      "to": 407.48,
+      "sid": 214,
+      "location": 2,
+      "content": "",
+      "music": 0.0
+    },
+    {
+      "from": 407.48,
+      "to": 409.54,
+      "sid": 215,
+      "location": 2,
+      "content": "我这三个击杀都挺好的",
+      "music": 0.0
+    },
+    {
+      "from": 409.54,
+      "to": 410.44,
+      "sid": 216,
+      "location": 2,
+      "content": "尤其是第二枪",
+      "music": 0.0
+    },
+    {
+      "from": 410.44,
+      "to": 413.159,
+      "sid": 217,
+      "location": 2,
+      "content": "终于看上去冷静了一些了",
+      "music": 0.0
+    },
+    {
+      "from": 413.159,
+      "to": 418.199,
+      "sid": 218,
+      "location": 2,
+      "content": "你也知道拿到信息之后有一秒动作再拉出去",
+      "music": 0.25268816525031956
+    },
+    {
+      "from": 418.199,
+      "to": 420.439,
+      "sid": 219,
+      "location": 2,
+      "content": "前面咋打这么急呢",
+      "music": 0.0
+    },
+    {
+      "from": 421.819,
+      "to": 423.059,
+      "sid": 220,
+      "location": 2,
+      "content": "后面这种没打过",
+      "music": 0.0
+    },
+    {
+      "from": 423.059,
+      "to": 424.899,
+      "sid": 221,
+      "location": 2,
+      "content": "属于正常残局了",
+      "music": 0.0
+    },
+    {
+      "from": 425.67,
+      "to": 427.43,
+      "sid": 222,
+      "location": 2,
+      "content": "但你还是又开始变慌了",
+      "music": 0.0
+    },
+    {
+      "from": 427.43,
+      "to": 428.71,
+      "sid": 223,
+      "location": 2,
+      "content": "关于冷静瞄准这一点",
+      "music": 0.0
+    },
+    {
+      "from": 428.71,
+      "to": 431.35,
+      "sid": 224,
+      "location": 2,
+      "content": "我非常建议你可以去看一下smoggy的path",
+      "music": 0.0
+    },
+    {
+      "from": 431.35,
+      "to": 434.615,
+      "sid": 225,
+      "location": 2,
+      "content": "最后看一下这里你们的NTECO局",
+      "music": 0.0
+    },
+    {
+      "from": 450.14,
+      "to": 453.24,
+      "sid": 226,
+      "location": 2,
+      "content": "了解那还有一个还有一个人",
+      "music": 0.0
+    },
+    {
+      "from": 458.18,
+      "to": 461.38,
+      "sid": 227,
+      "location": 2,
+      "content": "我只能理解为这里你是想利用长枪打枪械压制",
+      "music": 0.0
+    },
+    {
+      "from": 461.38,
+      "to": 463.97,
+      "sid": 228,
+      "location": 2,
+      "content": "但面对对手已经打掉你们两人的情况下",
+      "music": 0.0
+    },
+    {
+      "from": 463.97,
+      "to": 466.67,
+      "sid": 229,
+      "location": 2,
+      "content": "本身你们这个站位是相对科学还可以玩的",
+      "music": 0.0
+    },
+    {
+      "from": 466.67,
+      "to": 468.87,
+      "sid": 230,
+      "location": 2,
+      "content": "对方有一人绕后其实也非常正常",
+      "music": 0.0
+    },
+    {
+      "from": 468.87,
+      "to": 470.38,
+      "sid": 231,
+      "location": 2,
+      "content": "不过你急于想开枪",
+      "music": 0.0
+    },
+    {
+      "from": 470.38,
+      "to": 472.78,
+      "sid": 232,
+      "location": 2,
+      "content": "让自己本身一个相当有操作空间的位置",
+      "music": 0.0
+    },
+    {
+      "from": 472.78,
+      "to": 474.26,
+      "sid": 233,
+      "location": 2,
+      "content": "直接变成了离掩体的活靶子",
+      "music": 0.0
+    },
+    {
+      "from": 474.26,
+      "to": 474.98,
+      "sid": 234,
+      "location": 2,
+      "content": "给人拉扯",
+      "music": 0.0
+    },
+    {
+      "from": 474.98,
+      "to": 477.27,
+      "sid": 235,
+      "location": 2,
+      "content": "这种情况下可以先看一眼小地图",
+      "music": 0.0
+    },
+    {
+      "from": 477.27,
+      "to": 478.49,
+      "sid": 236,
+      "location": 2,
+      "content": "这位是否科学",
+      "music": 0.0
+    },
+    {
+      "from": 478.49,
+      "to": 480.419,
+      "sid": 237,
+      "location": 2,
+      "content": "如果科学就没必要啦",
+      "music": 0.0
+    },
+    {
+      "from": 480.419,
+      "to": 482.439,
+      "sid": 238,
+      "location": 2,
+      "content": "拉出去其实就很容易给机会",
+      "music": 0.0
+    },
+    {
+      "from": 482.439,
+      "to": 484.079,
+      "sid": 239,
+      "location": 2,
+      "content": "其他的其实没什么可说的",
+      "music": 0.0
+    },
+    {
+      "from": 484.079,
+      "to": 485.359,
+      "sid": 240,
+      "location": 2,
+      "content": "毕竟你有击杀能力",
+      "music": 0.0
+    },
+    {
+      "from": 485.359,
+      "to": 486.979,
+      "sid": 241,
+      "location": 2,
+      "content": "击杀数上来之后也很明显",
+      "music": 0.0
+    },
+    {
+      "from": 486.979,
+      "to": 488.169,
+      "sid": 242,
+      "location": 2,
+      "content": "感觉到你有了自信",
+      "music": 0.0
+    },
+    {
+      "from": 488.169,
+      "to": 489.449,
+      "sid": 243,
+      "location": 2,
+      "content": "前面和你提到的内容",
+      "music": 0.0
+    },
+    {
+      "from": 489.449,
+      "to": 490.849,
+      "sid": 244,
+      "location": 2,
+      "content": "希望能对你起到帮助",
+      "music": 0.0
+    },
+    {
+      "from": 490.849,
+      "to": 492.609,
+      "sid": 245,
+      "location": 2,
+      "content": "那么本期视频就到这里",
+      "music": 0.0
+    },
+    {
+      "from": 492.609,
+      "to": 493.849,
+      "sid": 246,
+      "location": 2,
+      "content": "这里是汤米关注我",
+      "music": 0.0
+    },
+    {
+      "from": 493.849,
+      "to": 495.24,
+      "sid": 247,
+      "location": 2,
+      "content": "学习更多游戏思路",
+      "music": 0.0
+    }
+  ]
+}

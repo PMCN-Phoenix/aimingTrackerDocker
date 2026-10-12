@@ -1,0 +1,148 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "v1.7.0.4",
+  "body": [
+    {
+      "from": 0.08,
+      "to": 3.6,
+      "sid": 1,
+      "location": 2,
+      "content": "今天在撸的时候突然产生了一个大胆的想法",
+      "music": 0.0
+    },
+    {
+      "from": 3.6,
+      "to": 5.75,
+      "sid": 2,
+      "location": 2,
+      "content": "撸啊撸可以按S急停",
+      "music": 0.0
+    },
+    {
+      "from": 5.75,
+      "to": 8.87,
+      "sid": 3,
+      "location": 2,
+      "content": "如果我把瓦的开枪也绑定个急停",
+      "music": 0.0
+    },
+    {
+      "from": 8.87,
+      "to": 11.67,
+      "sid": 4,
+      "location": 2,
+      "content": "那我开枪不就必定急停了吗",
+      "music": 0.0
+    },
+    {
+      "from": 11.67,
+      "to": 14.31,
+      "sid": 5,
+      "location": 2,
+      "content": "于是我马上打开了无畏契约",
+      "music": 0.0
+    },
+    {
+      "from": 14.31,
+      "to": 17.13,
+      "sid": 6,
+      "location": 2,
+      "content": "准备验证一下我的想法",
+      "music": 0.0
+    },
+    {
+      "from": 17.29,
+      "to": 21.45,
+      "sid": 7,
+      "location": 2,
+      "content": "结果发现无畏契约居然没有急停键",
+      "music": 0.0
+    },
+    {
+      "from": 22.86,
+      "to": 25.32,
+      "sid": 8,
+      "location": 2,
+      "content": "在一个急停这么重要的游戏里",
+      "music": 0.0
+    },
+    {
+      "from": 25.32,
+      "to": 26.7,
+      "sid": 9,
+      "location": 2,
+      "content": "居然没有急停键",
+      "music": 0.0
+    },
+    {
+      "from": 26.7,
+      "to": 29.06,
+      "sid": 10,
+      "location": 2,
+      "content": "我失望极了",
+      "music": 0.0
+    },
+    {
+      "from": 29.67,
+      "to": 31.23,
+      "sid": 11,
+      "location": 2,
+      "content": "但转念一想",
+      "music": 0.0
+    },
+    {
+      "from": 31.23,
+      "to": 33.51,
+      "sid": 12,
+      "location": 2,
+      "content": "我们可以开枪绑定后退",
+      "music": 0.0
+    },
+    {
+      "from": 33.51,
+      "to": 35.37,
+      "sid": 13,
+      "location": 2,
+      "content": "这样再往前冲的时候",
+      "music": 0.0
+    },
+    {
+      "from": 35.37,
+      "to": 37.65,
+      "sid": 14,
+      "location": 2,
+      "content": "开枪就必定急停了",
+      "music": 0.0
+    },
+    {
+      "from": 37.65,
+      "to": 39.61,
+      "sid": 15,
+      "location": 2,
+      "content": "就像这样",
+      "music": 0.0
+    },
+    {
+      "from": 44.2,
+      "to": 47.48,
+      "sid": 16,
+      "location": 2,
+      "content": "我简直是个天才",
+      "music": 0.0
+    },
+    {
+      "from": 49.52,
+      "to": 52.42,
+      "sid": 17,
+      "location": 2,
+      "content": "唯一的缺点就是后坐力有点大",
+      "music": 0.0
+    }
+  ]
+}
