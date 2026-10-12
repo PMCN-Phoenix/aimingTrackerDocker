@@ -1,0 +1,3214 @@
+{
+  "bvid": "BV1bfoTBLEP8",
+  "status": "ok lang=ai-zh",
+  "segments": [
+    {
+      "from": 1.74,
+      "to": 2.4,
+      "sid": 1,
+      "location": 2,
+      "content": "前言",
+      "music": 0.0
+    },
+    {
+      "from": 2.4,
+      "to": 5.98,
+      "sid": 2,
+      "location": 2,
+      "content": "本视频不会讨论转火的分类概念和定义",
+      "music": 0.0
+    },
+    {
+      "from": 5.98,
+      "to": 8.58,
+      "sid": 3,
+      "location": 2,
+      "content": "仅探讨在实战中转化能力最强的速度",
+      "music": 0.0
+    },
+    {
+      "from": 8.58,
+      "to": 9.53,
+      "sid": 4,
+      "location": 2,
+      "content": "转火类别",
+      "music": 0.0
+    },
+    {
+      "from": 9.53,
+      "to": 12.99,
+      "sid": 5,
+      "location": 2,
+      "content": "初阶教学的历史中不会出现纯静态项目",
+      "music": 0.0
+    },
+    {
+      "from": 12.99,
+      "to": 15.01,
+      "sid": 6,
+      "location": 2,
+      "content": "所有的训练都涉及到KWAK",
+      "music": 0.0
+    },
+    {
+      "from": 15.01,
+      "to": 16.88,
+      "sid": 7,
+      "location": 2,
+      "content": "不会出现其他练枪软件",
+      "music": 0.0
+    },
+    {
+      "from": 16.88,
+      "to": 19.34,
+      "sid": 8,
+      "location": 2,
+      "content": "还有因为不是一个很严谨的视频",
+      "music": 0.0
+    },
+    {
+      "from": 19.34,
+      "to": 21.36,
+      "sid": 9,
+      "location": 2,
+      "content": "所以是我对着念稿",
+      "music": 0.0
+    },
+    {
+      "from": 23.6,
+      "to": 25.26,
+      "sid": 10,
+      "location": 2,
+      "content": "KWAK中的设置呃",
+      "music": 0.0
+    },
+    {
+      "from": 25.26,
+      "to": 26.259,
+      "sid": 11,
+      "location": 2,
+      "content": "可有可无",
+      "music": 0.0
+    },
+    {
+      "from": 26.259,
+      "to": 28.759,
+      "sid": 12,
+      "location": 2,
+      "content": "景辉介绍一些在转火中有帮助的设置",
+      "music": 0.0
+    },
+    {
+      "from": 28.759,
+      "to": 31.659,
+      "sid": 13,
+      "location": 2,
+      "content": "主题白目标配暗示主题很好看",
+      "music": 0.0
+    },
+    {
+      "from": 31.659,
+      "to": 34.35,
+      "sid": 14,
+      "location": 2,
+      "content": "我自己已经常驻该主题准心",
+      "music": 0.0
+    },
+    {
+      "from": 34.35,
+      "to": 36.09,
+      "sid": 15,
+      "location": 2,
+      "content": "我只是觉得大一点的准心",
+      "music": 0.0
+    },
+    {
+      "from": 36.09,
+      "to": 38.989,
+      "sid": 16,
+      "location": 2,
+      "content": "可以让我不用那么在意微小的失误",
+      "music": 0.0
+    },
+    {
+      "from": 38.989,
+      "to": 42.629,
+      "sid": 17,
+      "location": 2,
+      "content": "音效调音调调节器我觉得很重要的一个设置",
+      "music": 0.0
+    },
+    {
+      "from": 42.629,
+      "to": 44.289,
+      "sid": 18,
+      "location": 2,
+      "content": "可以让我很好的保持节奏感",
+      "music": 0.0
+    },
+    {
+      "from": 44.289,
+      "to": 46.469,
+      "sid": 19,
+      "location": 2,
+      "content": "复活音效建议是打开的",
+      "music": 0.0
+    },
+    {
+      "from": 46.469,
+      "to": 47.75,
+      "sid": 20,
+      "location": 2,
+      "content": "对于视野外目标",
+      "music": 0.0
+    },
+    {
+      "from": 47.75,
+      "to": 49.67,
+      "sid": 21,
+      "location": 2,
+      "content": "那对于视野外的目标很重要",
+      "music": 0.0
+    },
+    {
+      "from": 49.67,
+      "to": 52.33,
+      "sid": 22,
+      "location": 2,
+      "content": "血量显示每一个转换玩家都应该开启",
+      "music": 0.0
+    },
+    {
+      "from": 52.33,
+      "to": 53.61,
+      "sid": 23,
+      "location": 2,
+      "content": "在很多大角度的情况下",
+      "music": 0.0
+    },
+    {
+      "from": 53.61,
+      "to": 55.39,
+      "sid": 24,
+      "location": 2,
+      "content": "很可能视野内是看不到目标的",
+      "music": 0.0
+    },
+    {
+      "from": 55.39,
+      "to": 56.87,
+      "sid": 25,
+      "location": 2,
+      "content": "但是可以看到目标血条",
+      "music": 0.0
+    },
+    {
+      "from": 56.87,
+      "to": 58.26,
+      "sid": 26,
+      "location": 2,
+      "content": "这能帮助更好的定位",
+      "music": 0.0
+    },
+    {
+      "from": 58.26,
+      "to": 62.5,
+      "sid": 27,
+      "location": 2,
+      "content": "以及我认为这会帮助到更好的确更好的确认",
+      "music": 0.0
+    },
+    {
+      "from": 62.5,
+      "to": 63.22,
+      "sid": 28,
+      "location": 2,
+      "content": "很多情况下",
+      "music": 0.0
+    },
+    {
+      "from": 63.22,
+      "to": 65.06,
+      "sid": 29,
+      "location": 2,
+      "content": "我是去看目标的血条确认消失",
+      "music": 0.0
+    },
+    {
+      "from": 65.06,
+      "to": 65.98,
+      "sid": 30,
+      "location": 2,
+      "content": "而不是看准",
+      "music": 0.0
+    },
+    {
+      "from": 65.98,
+      "to": 67.26,
+      "sid": 31,
+      "location": 2,
+      "content": "而不是看击杀音效",
+      "music": 0.0
+    },
+    {
+      "from": 67.26,
+      "to": 68.979,
+      "sid": 32,
+      "location": 2,
+      "content": "或因看目标确认消失",
+      "music": 0.0
+    },
+    {
+      "from": 68.979,
+      "to": 71.139,
+      "sid": 33,
+      "location": 2,
+      "content": "主题和准星均均可从网上下载",
+      "music": 0.0
+    },
+    {
+      "from": 71.139,
+      "to": 72.579,
+      "sid": 34,
+      "location": 2,
+      "content": "我也会在文档放上链接",
+      "music": 0.0
+    },
+    {
+      "from": 72.579,
+      "to": 74.239,
+      "sid": 35,
+      "location": 2,
+      "content": "当然视频剪辑我也会放上",
+      "music": 0.0
+    },
+    {
+      "from": 74.239,
+      "to": 77.259,
+      "sid": 36,
+      "location": 2,
+      "content": "然后我等会进游戏展示一下",
+      "music": 0.0
+    },
+    {
+      "from": 78.41,
+      "to": 81.45,
+      "sid": 37,
+      "location": 2,
+      "content": "按我的推荐调完色之后差不多就是这么个样子",
+      "music": 0.0
+    },
+    {
+      "from": 81.45,
+      "to": 84.05,
+      "sid": 38,
+      "location": 2,
+      "content": "然后准星颜色默认可能不是红色啊",
+      "music": 0.0
+    },
+    {
+      "from": 84.05,
+      "to": 85.93,
+      "sid": 39,
+      "location": 2,
+      "content": "我自己是推荐红色的",
+      "music": 0.0
+    },
+    {
+      "from": 85.93,
+      "to": 88.05,
+      "sid": 40,
+      "location": 2,
+      "content": "然后这个主题就是让目标变白了",
+      "music": 0.0
+    },
+    {
+      "from": 88.05,
+      "to": 90.1,
+      "sid": 41,
+      "location": 2,
+      "content": "然后还是比较暗色一点",
+      "music": 0.0
+    },
+    {
+      "from": 90.42,
+      "to": 95.2,
+      "sid": 42,
+      "location": 2,
+      "content": "然后血条的话是在HUD这里这个设置啊",
+      "music": 0.0
+    },
+    {
+      "from": 95.2,
+      "to": 95.82,
+      "sid": 43,
+      "location": 2,
+      "content": "这个设置",
+      "music": 0.0
+    },
+    {
+      "from": 95.82,
+      "to": 100.92,
+      "sid": 44,
+      "location": 2,
+      "content": "然后打开这个我觉得还是比较影响的吧",
+      "music": 0.0
+    },
+    {
+      "from": 102.8,
+      "to": 104.6,
+      "sid": 45,
+      "location": 2,
+      "content": "我要如何选择灵敏度",
+      "music": 0.0
+    },
+    {
+      "from": 104.6,
+      "to": 105.56,
+      "sid": 46,
+      "location": 2,
+      "content": "Fov",
+      "music": 0.0
+    },
+    {
+      "from": 105.56,
+      "to": 107.84,
+      "sid": 47,
+      "location": 2,
+      "content": "灵敏度在速度转火中尤其重要",
+      "music": 0.0
+    },
+    {
+      "from": 107.84,
+      "to": 108.72,
+      "sid": 48,
+      "location": 2,
+      "content": "新手的情况下",
+      "music": 0.0
+    },
+    {
+      "from": 108.72,
+      "to": 110.36,
+      "sid": 49,
+      "location": 2,
+      "content": "不管你之前是什么cm",
+      "music": 0.0
+    },
+    {
+      "from": 110.36,
+      "to": 112.4,
+      "sid": 50,
+      "location": 2,
+      "content": "我都建议你调成40cm",
+      "music": 0.0
+    },
+    {
+      "from": 112.4,
+      "to": 114.53,
+      "sid": 51,
+      "location": 2,
+      "content": "如果你不是新手就无所谓了",
+      "music": 0.0
+    },
+    {
+      "from": 114.53,
+      "to": 116.55,
+      "sid": 52,
+      "location": 2,
+      "content": "40cm是一个很好的初始值",
+      "music": 0.0
+    },
+    {
+      "from": 116.55,
+      "to": 119.17,
+      "sid": 53,
+      "location": 2,
+      "content": "网上觉得快了可以调到48cm",
+      "music": 0.0
+    },
+    {
+      "from": 119.17,
+      "to": 120.21,
+      "sid": 54,
+      "location": 2,
+      "content": "往下无极限",
+      "music": 0.0
+    },
+    {
+      "from": 120.21,
+      "to": 121.42,
+      "sid": 55,
+      "location": 2,
+      "content": "你能控住的话",
+      "music": 0.0
+    },
+    {
+      "from": 121.42,
+      "to": 123.58,
+      "sid": 56,
+      "location": 2,
+      "content": "但通常只建议调到25cm",
+      "music": 0.0
+    },
+    {
+      "from": 123.58,
+      "to": 125.91,
+      "sid": 57,
+      "location": 2,
+      "content": "这足够应对大部分速度转换场景",
+      "music": 0.0
+    },
+    {
+      "from": 125.91,
+      "to": 126.59,
+      "sid": 58,
+      "location": 2,
+      "content": "实战中",
+      "music": 0.0
+    },
+    {
+      "from": 126.59,
+      "to": 129.35,
+      "sid": 59,
+      "location": 2,
+      "content": "你的转火能力并不会因为改变灵敏度从而作废",
+      "music": 0.0
+    },
+    {
+      "from": 129.35,
+      "to": 130.67,
+      "sid": 60,
+      "location": 2,
+      "content": "40cm的情况下",
+      "music": 0.0
+    },
+    {
+      "from": 130.67,
+      "to": 132.11,
+      "sid": 61,
+      "location": 2,
+      "content": "即使调到60以上",
+      "music": 0.0
+    },
+    {
+      "from": 132.11,
+      "to": 134.83,
+      "sid": 62,
+      "location": 2,
+      "content": "你转火的能力并不会受到改变",
+      "music": 0.0
+    },
+    {
+      "from": 136.8,
+      "to": 139.52,
+      "sid": 63,
+      "location": 2,
+      "content": "FOV什么FOV都是可以的",
+      "music": 0.0
+    },
+    {
+      "from": 139.52,
+      "to": 141.94,
+      "sid": 64,
+      "location": 2,
+      "content": "如果你想要在转火中使用DFOV",
+      "music": 0.0
+    },
+    {
+      "from": 141.94,
+      "to": 144.16,
+      "sid": 65,
+      "location": 2,
+      "content": "在一些场景下我也是推荐的",
+      "music": 0.0
+    },
+    {
+      "from": 144.16,
+      "to": 146.56,
+      "sid": 66,
+      "location": 2,
+      "content": "通常推荐ow125FOV",
+      "music": 0.0
+    },
+    {
+      "from": 146.56,
+      "to": 148.57,
+      "sid": 67,
+      "location": 2,
+      "content": "但也需根据场景选择",
+      "music": 0.0
+    },
+    {
+      "from": 148.57,
+      "to": 150.03,
+      "sid": 68,
+      "location": 2,
+      "content": "有些可能用不到125",
+      "music": 0.0
+    },
+    {
+      "from": 150.03,
+      "to": 153.459,
+      "sid": 69,
+      "location": 2,
+      "content": "像是VO叉ts s这种的就用不到125FOV",
+      "music": 0.0
+    },
+    {
+      "from": 153.459,
+      "to": 155.619,
+      "sid": 70,
+      "location": 2,
+      "content": "很多人可能会对FOV有点疑问",
+      "music": 0.0
+    },
+    {
+      "from": 155.619,
+      "to": 159.63,
+      "sid": 71,
+      "location": 2,
+      "content": "那就是我怎么知道哪些场景要用哪些FOV呢",
+      "music": 0.0
+    },
+    {
+      "from": 159.63,
+      "to": 161.31,
+      "sid": 72,
+      "location": 2,
+      "content": "这一般是新手常见的问题",
+      "music": 0.0
+    },
+    {
+      "from": 161.31,
+      "to": 163.12,
+      "sid": 73,
+      "location": 2,
+      "content": "因为对转火还不够的熟悉",
+      "music": 0.0
+    },
+    {
+      "from": 163.12,
+      "to": 166.5,
+      "sid": 74,
+      "location": 2,
+      "content": "我推荐可以看下榜上前十的FOV参考一下",
+      "music": 0.0
+    },
+    {
+      "from": 166.5,
+      "to": 167.8,
+      "sid": 75,
+      "location": 2,
+      "content": "他们都用125的话",
+      "music": 0.0
+    },
+    {
+      "from": 167.8,
+      "to": 168.85,
+      "sid": 76,
+      "location": 2,
+      "content": "你也用125",
+      "music": 0.0
+    },
+    {
+      "from": 168.85,
+      "to": 169.99,
+      "sid": 77,
+      "location": 2,
+      "content": "但也并不绝对",
+      "music": 0.0
+    },
+    {
+      "from": 169.99,
+      "to": 171.21,
+      "sid": 78,
+      "location": 2,
+      "content": "我还是要说明什么",
+      "music": 0.0
+    },
+    {
+      "from": 171.21,
+      "to": 172.23,
+      "sid": 79,
+      "location": 2,
+      "content": "FOV并不重要",
+      "music": 0.0
+    },
+    {
+      "from": 172.23,
+      "to": 173.09,
+      "sid": 80,
+      "location": 2,
+      "content": "你自己舒服",
+      "music": 0.0
+    },
+    {
+      "from": 173.09,
+      "to": 175.48,
+      "sid": 81,
+      "location": 2,
+      "content": "或者是觉得适合该场景的FOV就可以",
+      "music": 0.0
+    },
+    {
+      "from": 175.48,
+      "to": 176.84,
+      "sid": 82,
+      "location": 2,
+      "content": "那还有些人可能想问",
+      "music": 0.0
+    },
+    {
+      "from": 176.84,
+      "to": 178.42,
+      "sid": 83,
+      "location": 2,
+      "content": "我不想用ow的FOV",
+      "music": 0.0
+    },
+    {
+      "from": 178.42,
+      "to": 181.32,
+      "sid": 84,
+      "location": 2,
+      "content": "我就想用我所玩的游戏的FOV可不可以",
+      "music": 0.0
+    },
+    {
+      "from": 181.32,
+      "to": 183.44,
+      "sid": 85,
+      "location": 2,
+      "content": "在转火中大部分情况是可以的",
+      "music": 0.0
+    },
+    {
+      "from": 183.44,
+      "to": 185.079,
+      "sid": 86,
+      "location": 2,
+      "content": "Apex cover dirty",
+      "music": 0.0
+    },
+    {
+      "from": 185.079,
+      "to": 188.439,
+      "sid": 87,
+      "location": 2,
+      "content": "然后战地CSGO的FOV多行不曲线",
+      "music": 0.0
+    },
+    {
+      "from": 188.439,
+      "to": 190.599,
+      "sid": 88,
+      "location": 2,
+      "content": "转后的FOV选择并没有那么的严苛",
+      "music": 0.0
+    },
+    {
+      "from": 190.599,
+      "to": 193.039,
+      "sid": 89,
+      "location": 2,
+      "content": "所以真的什么都可以",
+      "music": 0.0
+    },
+    {
+      "from": 193.82,
+      "to": 196.28,
+      "sid": 90,
+      "location": 2,
+      "content": "我该如何在KWAK里训练",
+      "music": 0.0
+    },
+    {
+      "from": 196.28,
+      "to": 197.94,
+      "sid": 91,
+      "location": 2,
+      "content": "应该训练哪些项目",
+      "music": 0.0
+    },
+    {
+      "from": 197.94,
+      "to": 200.48,
+      "sid": 92,
+      "location": 2,
+      "content": "然后这里是我的list基础",
+      "music": 0.0
+    },
+    {
+      "from": 200.48,
+      "to": 202.54,
+      "sid": 93,
+      "location": 2,
+      "content": "LINXTRA介绍",
+      "music": 0.0
+    },
+    {
+      "from": 202.54,
+      "to": 205.48,
+      "sid": 94,
+      "location": 2,
+      "content": "通常来讲选择第一个列表是一些简单的项目",
+      "music": 0.0
+    },
+    {
+      "from": 205.48,
+      "to": 206.74,
+      "sid": 95,
+      "location": 2,
+      "content": "打完是20分钟左右",
+      "music": 0.0
+    },
+    {
+      "from": 206.74,
+      "to": 209.76,
+      "sid": 96,
+      "location": 2,
+      "content": "第二个列表是EXTRA就是额外的场景",
+      "music": 0.0
+    },
+    {
+      "from": 209.76,
+      "to": 210.74,
+      "sid": 97,
+      "location": 2,
+      "content": "额外的训练",
+      "music": 0.0
+    },
+    {
+      "from": 210.74,
+      "to": 212.56,
+      "sid": 98,
+      "location": 2,
+      "content": "打完也是20分钟左右",
+      "music": 0.0
+    },
+    {
+      "from": 212.56,
+      "to": 215.28,
+      "sid": 99,
+      "location": 2,
+      "content": "我会我会我会很推荐你去打EXTRA",
+      "music": 0.0
+    },
+    {
+      "from": 215.28,
+      "to": 217.75,
+      "sid": 100,
+      "location": 2,
+      "content": "都是我选择的高质量场景项目介绍",
+      "music": 0.0
+    },
+    {
+      "from": 217.75,
+      "to": 219.79,
+      "sid": 101,
+      "location": 2,
+      "content": "然后这然后项目介绍这边我就不读了",
+      "music": 0.0
+    },
+    {
+      "from": 219.79,
+      "to": 220.49,
+      "sid": 102,
+      "location": 2,
+      "content": "太长了",
+      "music": 0.0
+    },
+    {
+      "from": 220.49,
+      "to": 221.31,
+      "sid": 103,
+      "location": 2,
+      "content": "然后要看的话",
+      "music": 0.0
+    },
+    {
+      "from": 221.31,
+      "to": 222.11,
+      "sid": 104,
+      "location": 2,
+      "content": "可以去我的文档",
+      "music": 0.0
+    },
+    {
+      "from": 222.11,
+      "to": 223.27,
+      "sid": 105,
+      "location": 2,
+      "content": "我只简单过一遍",
+      "music": 0.0
+    },
+    {
+      "from": 223.27,
+      "to": 224.27,
+      "sid": 106,
+      "location": 2,
+      "content": "简单给你们过一遍",
+      "music": 0.0
+    },
+    {
+      "from": 224.27,
+      "to": 226.4,
+      "sid": 107,
+      "location": 2,
+      "content": "你们可以暂停自己看一下一",
+      "music": 0.0
+    },
+    {
+      "from": 226.4,
+      "to": 227.7,
+      "sid": 108,
+      "location": 2,
+      "content": "然后是EXTRA",
+      "music": 0.0
+    },
+    {
+      "from": 227.7,
+      "to": 229.28,
+      "sid": 109,
+      "location": 2,
+      "content": "这些都是我选择的高质量",
+      "music": 0.0
+    },
+    {
+      "from": 229.28,
+      "to": 231.28,
+      "sid": 110,
+      "location": 2,
+      "content": "我觉得比较有用的一些场景",
+      "music": 0.0
+    },
+    {
+      "from": 233.14,
+      "to": 235.82,
+      "sid": 111,
+      "location": 2,
+      "content": "我无脑练list就能成为pro吗",
+      "music": 0.0
+    },
+    {
+      "from": 235.82,
+      "to": 236.46,
+      "sid": 112,
+      "location": 2,
+      "content": "并不能",
+      "music": 0.0
+    },
+    {
+      "from": 236.46,
+      "to": 238.959,
+      "sid": 113,
+      "location": 2,
+      "content": "我也不推荐完全无脑的硬打项目",
+      "music": 0.0
+    },
+    {
+      "from": 238.959,
+      "to": 240.399,
+      "sid": 114,
+      "location": 2,
+      "content": "在每一次打完项目后",
+      "music": 0.0
+    },
+    {
+      "from": 240.399,
+      "to": 242.879,
+      "sid": 115,
+      "location": 2,
+      "content": "都应该去有效的思考自己为什么不能高分",
+      "music": 0.0
+    },
+    {
+      "from": 242.879,
+      "to": 244.879,
+      "sid": 116,
+      "location": 2,
+      "content": "是速度慢了还是没有精准度",
+      "music": 0.0
+    },
+    {
+      "from": 244.879,
+      "to": 246.039,
+      "sid": 117,
+      "location": 2,
+      "content": "又或是没有保持节奏",
+      "music": 0.0
+    },
+    {
+      "from": 246.039,
+      "to": 248.299,
+      "sid": 118,
+      "location": 2,
+      "content": "感觉得自己没有精准度去尝试",
+      "music": 0.0
+    },
+    {
+      "from": 248.299,
+      "to": 249.739,
+      "sid": 119,
+      "location": 2,
+      "content": "放慢速度去提高速度",
+      "music": 0.0
+    },
+    {
+      "from": 249.739,
+      "to": 250.379,
+      "sid": 120,
+      "location": 2,
+      "content": "也是同理",
+      "music": 0.0
+    },
+    {
+      "from": 250.379,
+      "to": 251.459,
+      "sid": 121,
+      "location": 2,
+      "content": "多去尝试",
+      "music": 0.0
+    },
+    {
+      "from": 251.459,
+      "to": 253.619,
+      "sid": 122,
+      "location": 2,
+      "content": "我也并不推荐指导我给的list",
+      "music": 0.0
+    },
+    {
+      "from": 253.619,
+      "to": 255.559,
+      "sid": 123,
+      "location": 2,
+      "content": "因为前言说过不会给静态项目",
+      "music": 0.0
+    },
+    {
+      "from": 255.559,
+      "to": 256.98,
+      "sid": 124,
+      "location": 2,
+      "content": "以及这是初阶教学",
+      "music": 0.0
+    },
+    {
+      "from": 256.98,
+      "to": 259.14,
+      "sid": 125,
+      "location": 2,
+      "content": "很多高质量项目我并没有放上来",
+      "music": 0.0
+    },
+    {
+      "from": 259.14,
+      "to": 261.62,
+      "sid": 126,
+      "location": 2,
+      "content": "总之多去尝试一些项目",
+      "music": 0.0
+    },
+    {
+      "from": 263.07,
+      "to": 265.51,
+      "sid": 127,
+      "location": 2,
+      "content": "我要实战特化型转火怎么速成",
+      "music": 0.0
+    },
+    {
+      "from": 265.51,
+      "to": 267.01,
+      "sid": 128,
+      "location": 2,
+      "content": "转火有没有什么技巧",
+      "music": 0.0
+    },
+    {
+      "from": 267.01,
+      "to": 268.95,
+      "sid": 129,
+      "location": 2,
+      "content": "没有转弯火很难速成",
+      "music": 0.0
+    },
+    {
+      "from": 268.95,
+      "to": 269.53,
+      "sid": 130,
+      "location": 2,
+      "content": "一般来讲",
+      "music": 0.0
+    },
+    {
+      "from": 269.53,
+      "to": 272.18,
+      "sid": 131,
+      "location": 2,
+      "content": "100小时的训练量足以在游戏里成为陀螺",
+      "music": 0.0
+    },
+    {
+      "from": 272.18,
+      "to": 274.02,
+      "sid": 132,
+      "location": 2,
+      "content": "如果是想要实战特化型",
+      "music": 0.0
+    },
+    {
+      "from": 274.02,
+      "to": 276.22,
+      "sid": 133,
+      "location": 2,
+      "content": "我也建议你去加大一点训练量",
+      "music": 0.0
+    },
+    {
+      "from": 276.22,
+      "to": 278.63,
+      "sid": 134,
+      "location": 2,
+      "content": "多在游戏中投入时间去转化能力",
+      "music": 0.0
+    },
+    {
+      "from": 278.63,
+      "to": 280.59,
+      "sid": 135,
+      "location": 2,
+      "content": "在游戏内的实战转火技巧的话",
+      "music": 0.0
+    },
+    {
+      "from": 280.59,
+      "to": 282.05,
+      "sid": 136,
+      "location": 2,
+      "content": "如果初阶教学看的人多",
+      "music": 0.0
+    },
+    {
+      "from": 282.05,
+      "to": 284.03,
+      "sid": 137,
+      "location": 2,
+      "content": "我之后再出视频讲",
+      "music": 0.0
+    },
+    {
+      "from": 285.769,
+      "to": 287.609,
+      "sid": 138,
+      "location": 2,
+      "content": "如何转化到实战",
+      "music": 0.0
+    },
+    {
+      "from": 287.609,
+      "to": 289.329,
+      "sid": 139,
+      "location": 2,
+      "content": "这是一个可以讨论很久的问题",
+      "music": 0.0
+    },
+    {
+      "from": 289.329,
+      "to": 290.659,
+      "sid": 140,
+      "location": 2,
+      "content": "我只简单说几句",
+      "music": 0.0
+    },
+    {
+      "from": 290.659,
+      "to": 291.419,
+      "sid": 141,
+      "location": 2,
+      "content": "一般来讲",
+      "music": 0.0
+    },
+    {
+      "from": 291.419,
+      "to": 292.579,
+      "sid": 142,
+      "location": 2,
+      "content": "三天的训练就能在",
+      "music": 0.0
+    },
+    {
+      "from": 292.579,
+      "to": 294.799,
+      "sid": 143,
+      "location": 2,
+      "content": "很就能很快的在游戏中看到成色",
+      "music": 0.0
+    },
+    {
+      "from": 294.799,
+      "to": 297.179,
+      "sid": 144,
+      "location": 2,
+      "content": "如果是想要成为实战特化型转换选手",
+      "music": 0.0
+    },
+    {
+      "from": 297.179,
+      "to": 298.279,
+      "sid": 145,
+      "location": 2,
+      "content": "一定要去注意自己",
+      "music": 0.0
+    },
+    {
+      "from": 298.279,
+      "to": 300.279,
+      "sid": 146,
+      "location": 2,
+      "content": "在KWAK和游戏里的时长配比",
+      "music": 0.0
+    },
+    {
+      "from": 300.279,
+      "to": 301.98,
+      "sid": 147,
+      "location": 2,
+      "content": "不要让KWAK占了大头",
+      "music": 0.0
+    },
+    {
+      "from": 301.98,
+      "to": 306.14,
+      "sid": 148,
+      "location": 2,
+      "content": "我也很推荐你去在训练完后去实战巩固能力",
+      "music": 0.0
+    },
+    {
+      "from": 307.54,
+      "to": 311.9,
+      "sid": 149,
+      "location": 2,
+      "content": "合理的训练时长一般是推荐基础和额外完整",
+      "music": 0.0
+    },
+    {
+      "from": 311.9,
+      "to": 313.22,
+      "sid": 150,
+      "location": 2,
+      "content": "打完一个小时左右",
+      "music": 0.0
+    },
+    {
+      "from": 313.22,
+      "to": 314.22,
+      "sid": 151,
+      "location": 2,
+      "content": "为了快速的话",
+      "music": 0.0
+    },
+    {
+      "from": 314.22,
+      "to": 315.37,
+      "sid": 152,
+      "location": 2,
+      "content": "可以只打基础",
+      "music": 0.0
+    },
+    {
+      "from": 315.37,
+      "to": 317.31,
+      "sid": 153,
+      "location": 2,
+      "content": "暂定每个场景是打三次",
+      "music": 0.0
+    },
+    {
+      "from": 317.31,
+      "to": 318.37,
+      "sid": 154,
+      "location": 2,
+      "content": "但是为了加练的话",
+      "music": 0.0
+    },
+    {
+      "from": 318.37,
+      "to": 319.77,
+      "sid": 155,
+      "location": 2,
+      "content": "可以每个都打五次",
+      "music": 0.0
+    },
+    {
+      "from": 319.77,
+      "to": 321.81,
+      "sid": 156,
+      "location": 2,
+      "content": "我所推荐的时长是一小时半",
+      "music": 0.0
+    },
+    {
+      "from": 321.81,
+      "to": 323.45,
+      "sid": 157,
+      "location": 2,
+      "content": "即使你想要长时间训练",
+      "music": 0.0
+    },
+    {
+      "from": 323.45,
+      "to": 324.77,
+      "sid": 158,
+      "location": 2,
+      "content": "在能力没有上去之前",
+      "music": 0.0
+    },
+    {
+      "from": 324.77,
+      "to": 326.97,
+      "sid": 159,
+      "location": 2,
+      "content": "我也只推荐你维持在一天四小时的速度",
+      "music": 0.0
+    },
+    {
+      "from": 326.97,
+      "to": 328.14,
+      "sid": 160,
+      "location": 2,
+      "content": "转火训练左右",
+      "music": 0.0
+    },
+    {
+      "from": 328.14,
+      "to": 330.78,
+      "sid": 161,
+      "location": 2,
+      "content": "在网上因为时间的原因状态会下滑",
+      "music": 0.0
+    },
+    {
+      "from": 330.78,
+      "to": 331.9,
+      "sid": 162,
+      "location": 2,
+      "content": "并且因为能力不够",
+      "music": 0.0
+    },
+    {
+      "from": 331.9,
+      "to": 333.79,
+      "sid": 163,
+      "location": 2,
+      "content": "手臂会受到一些问题",
+      "music": 0.0
+    },
+    {
+      "from": 333.79,
+      "to": 335.67,
+      "sid": 164,
+      "location": 2,
+      "content": "在我能力没有上去之前",
+      "music": 0.0
+    },
+    {
+      "from": 335.67,
+      "to": 338.63,
+      "sid": 165,
+      "location": 2,
+      "content": "我差不多就是每次在拼尽全力不休息的情况下",
+      "music": 0.0
+    },
+    {
+      "from": 338.63,
+      "to": 340.29,
+      "sid": 166,
+      "location": 2,
+      "content": "打了四小时的速度转火",
+      "music": 0.0
+    },
+    {
+      "from": 340.29,
+      "to": 342.82,
+      "sid": 167,
+      "location": 2,
+      "content": "导致我的手臂在第二天成功拉伤",
+      "music": 0.0
+    },
+    {
+      "from": 342.82,
+      "to": 344.66,
+      "sid": 168,
+      "location": 2,
+      "content": "一共是拉伤了两次左右",
+      "music": 0.0
+    },
+    {
+      "from": 344.66,
+      "to": 345.62,
+      "sid": 169,
+      "location": 2,
+      "content": "我努力的情况下",
+      "music": 0.0
+    },
+    {
+      "from": 345.62,
+      "to": 347.14,
+      "sid": 170,
+      "location": 2,
+      "content": "顶着手臂拉伤继续练",
+      "music": 0.0
+    },
+    {
+      "from": 347.14,
+      "to": 349.35,
+      "sid": 171,
+      "location": 2,
+      "content": "可是这并没有给我带来什么好处",
+      "music": 0.0
+    },
+    {
+      "from": 349.35,
+      "to": 352.23,
+      "sid": 172,
+      "location": 2,
+      "content": "反而因为拉伤项目的平均分都掉了很多",
+      "music": 0.0
+    },
+    {
+      "from": 352.23,
+      "to": 355.63,
+      "sid": 173,
+      "location": 2,
+      "content": "很明确的一点就是在能力在在能力上去之前",
+      "music": 0.0
+    },
+    {
+      "from": 355.63,
+      "to": 357.37,
+      "sid": 174,
+      "location": 2,
+      "content": "过多的训练是负面作用",
+      "music": 0.0
+    },
+    {
+      "from": 357.37,
+      "to": 360.39,
+      "sid": 175,
+      "location": 2,
+      "content": "我在能力上去后可以进行长时间训练吗",
+      "music": 0.0
+    },
+    {
+      "from": 360.39,
+      "to": 362.85,
+      "sid": 176,
+      "location": 2,
+      "content": "我明确的说可以在能力上去后",
+      "music": 0.0
+    },
+    {
+      "from": 362.85,
+      "to": 364.49,
+      "sid": 177,
+      "location": 2,
+      "content": "长时间训练不再是负担",
+      "music": 0.0
+    },
+    {
+      "from": 364.49,
+      "to": 365.25,
+      "sid": 178,
+      "location": 2,
+      "content": "以我来讲",
+      "music": 0.0
+    },
+    {
+      "from": 365.25,
+      "to": 366.73,
+      "sid": 179,
+      "location": 2,
+      "content": "我在连续进几几天",
+      "music": 0.0
+    },
+    {
+      "from": 366.73,
+      "to": 368.63,
+      "sid": 180,
+      "location": 2,
+      "content": "进行12小时的速度转火训练后",
+      "music": 0.0
+    },
+    {
+      "from": 368.63,
+      "to": 370.75,
+      "sid": 181,
+      "location": 2,
+      "content": "我所遇到的问题只有手臂和肩膀",
+      "music": 0.0
+    },
+    {
+      "from": 370.75,
+      "to": 372.77,
+      "sid": 182,
+      "location": 2,
+      "content": "感觉到明显的累和酸",
+      "music": 0.0
+    },
+    {
+      "from": 372.77,
+      "to": 373.91,
+      "sid": 183,
+      "location": 2,
+      "content": "但如无必要",
+      "music": 0.0
+    },
+    {
+      "from": 373.91,
+      "to": 377.4,
+      "sid": 184,
+      "location": 2,
+      "content": "如人不推荐进行高强度的训练",
+      "music": 0.0
+    },
+    {
+      "from": 377.4,
+      "to": 379.92,
+      "sid": 185,
+      "location": 2,
+      "content": "正常训练量即可",
+      "music": 0.0
+    },
+    {
+      "from": 380.6,
+      "to": 383.1,
+      "sid": 186,
+      "location": 2,
+      "content": "目标选择和路径规划",
+      "music": 0.0
+    },
+    {
+      "from": 383.1,
+      "to": 385.3,
+      "sid": 187,
+      "location": 2,
+      "content": "大家都知道两点之间直线最短",
+      "music": 0.0
+    },
+    {
+      "from": 385.3,
+      "to": 388.27,
+      "sid": 188,
+      "location": 2,
+      "content": "新手在拉枪的时候可能会产生一个低级错误",
+      "music": 0.0
+    },
+    {
+      "from": 388.27,
+      "to": 391.35,
+      "sid": 189,
+      "location": 2,
+      "content": "即反复拉弧线或者是在那里转圈",
+      "music": 0.0
+    },
+    {
+      "from": 391.35,
+      "to": 393.11,
+      "sid": 190,
+      "location": 2,
+      "content": "这通常是极高明的表现",
+      "music": 0.0
+    },
+    {
+      "from": 393.11,
+      "to": 394.659,
+      "sid": 191,
+      "location": 2,
+      "content": "是鼠标控制力的问题",
+      "music": 0.0
+    },
+    {
+      "from": 394.659,
+      "to": 397.219,
+      "sid": 192,
+      "location": 2,
+      "content": "所以实际上我会推荐你去练E或静态",
+      "music": 0.0
+    },
+    {
+      "from": 397.219,
+      "to": 398.219,
+      "sid": 193,
+      "location": 2,
+      "content": "先去打好基础",
+      "music": 0.0
+    },
+    {
+      "from": 398.219,
+      "to": 401.17,
+      "sid": 194,
+      "location": 2,
+      "content": "有一个好的静态基础对于速度转火很重要",
+      "music": 0.0
+    },
+    {
+      "from": 401.17,
+      "to": 403.81,
+      "sid": 195,
+      "location": 2,
+      "content": "很多时候要去注意自己动作的干净度",
+      "music": 0.0
+    },
+    {
+      "from": 403.81,
+      "to": 405.799,
+      "sid": 196,
+      "location": 2,
+      "content": "有没有不该有的多余小动作",
+      "music": 0.0
+    },
+    {
+      "from": 405.799,
+      "to": 407.439,
+      "sid": 197,
+      "location": 2,
+      "content": "在面对多目标的情况下",
+      "music": 0.0
+    },
+    {
+      "from": 407.439,
+      "to": 410.719,
+      "sid": 198,
+      "location": 2,
+      "content": "很多人可能会产生反复的左到右来回拉枪",
+      "music": 0.0
+    },
+    {
+      "from": 410.719,
+      "to": 411.959,
+      "sid": 199,
+      "location": 2,
+      "content": "不去打相邻的目标",
+      "music": 0.0
+    },
+    {
+      "from": 411.959,
+      "to": 412.97,
+      "sid": 200,
+      "location": 2,
+      "content": "观察不过来",
+      "music": 0.0
+    },
+    {
+      "from": 412.97,
+      "to": 414.53,
+      "sid": 201,
+      "location": 2,
+      "content": "实际上这是眼睛的问题",
+      "music": 0.0
+    },
+    {
+      "from": 414.53,
+      "to": 416.29,
+      "sid": 202,
+      "location": 2,
+      "content": "我建议多去训练周边视觉",
+      "music": 0.0
+    },
+    {
+      "from": 416.29,
+      "to": 420.41,
+      "sid": 203,
+      "location": 2,
+      "content": "以及不要残留低血量目标要顺着方向去打哪里",
+      "music": 0.0
+    },
+    {
+      "from": 420.41,
+      "to": 422.33,
+      "sid": 204,
+      "location": 2,
+      "content": "目标多就去哪里",
+      "music": 0.0
+    },
+    {
+      "from": 423.94,
+      "to": 426.52,
+      "sid": 205,
+      "location": 2,
+      "content": "怎么发力速度转火需要速度",
+      "music": 0.0
+    },
+    {
+      "from": 426.52,
+      "to": 428.32,
+      "sid": 206,
+      "location": 2,
+      "content": "但不代表要绝对紧绷手臂",
+      "music": 0.0
+    },
+    {
+      "from": 428.32,
+      "to": 429.36,
+      "sid": 207,
+      "location": 2,
+      "content": "换来绝对速度",
+      "music": 0.0
+    },
+    {
+      "from": 429.36,
+      "to": 431.88,
+      "sid": 208,
+      "location": 2,
+      "content": "很多新手可能会紧绷手臂来换取速度",
+      "music": 0.0
+    },
+    {
+      "from": 431.88,
+      "to": 434.57,
+      "sid": 209,
+      "location": 2,
+      "content": "但是绷紧手臂就意味着你无法微调",
+      "music": 0.0
+    },
+    {
+      "from": 434.57,
+      "to": 436.33,
+      "sid": 210,
+      "location": 2,
+      "content": "转火中的微调是很重要的",
+      "music": 0.0
+    },
+    {
+      "from": 436.33,
+      "to": 437.29,
+      "sid": 211,
+      "location": 2,
+      "content": "即使你是高敏",
+      "music": 0.0
+    },
+    {
+      "from": 437.29,
+      "to": 438.49,
+      "sid": 212,
+      "location": 2,
+      "content": "也无法避免微调",
+      "music": 0.0
+    },
+    {
+      "from": 438.49,
+      "to": 440.53,
+      "sid": 213,
+      "location": 2,
+      "content": "绷紧手臂也会导致难以复位",
+      "music": 0.0
+    },
+    {
+      "from": 440.53,
+      "to": 442.5,
+      "sid": 214,
+      "location": 2,
+      "content": "这两个问题在转火中都是致命的",
+      "music": 0.0
+    },
+    {
+      "from": 442.5,
+      "to": 443.8,
+      "sid": 215,
+      "location": 2,
+      "content": "那到底要怎么发力",
+      "music": 0.0
+    },
+    {
+      "from": 443.8,
+      "to": 446.02,
+      "sid": 216,
+      "location": 2,
+      "content": "我的答案是保持在一个舒适范围内",
+      "music": 0.0
+    },
+    {
+      "from": 446.02,
+      "to": 447.1,
+      "sid": 217,
+      "location": 2,
+      "content": "略微紧绷即可",
+      "music": 0.0
+    },
+    {
+      "from": 447.1,
+      "to": 448.54,
+      "sid": 218,
+      "location": 2,
+      "content": "即在保持灵活性的同时",
+      "music": 0.0
+    },
+    {
+      "from": 448.54,
+      "to": 451.88,
+      "sid": 219,
+      "location": 2,
+      "content": "能让你迅速调动手臂和肩膀力量的范围",
+      "music": 0.0
+    },
+    {
+      "from": 453.8,
+      "to": 456.38,
+      "sid": 220,
+      "location": 2,
+      "content": "怎么复位再打大角度项目",
+      "music": 0.0
+    },
+    {
+      "from": 456.38,
+      "to": 458.5,
+      "sid": 221,
+      "location": 2,
+      "content": "比如tag switch360",
+      "music": 0.0
+    },
+    {
+      "from": 458.5,
+      "to": 461.74,
+      "sid": 222,
+      "location": 2,
+      "content": "不可避免的会遇到手臂已经拉到鼠标垫极限",
+      "music": 0.0
+    },
+    {
+      "from": 461.74,
+      "to": 463.63,
+      "sid": 223,
+      "location": 2,
+      "content": "或是手腕已到达极限",
+      "music": 0.0
+    },
+    {
+      "from": 463.63,
+      "to": 465.97,
+      "sid": 224,
+      "location": 2,
+      "content": "这时候再不复位就会导致两个问题",
+      "music": 0.0
+    },
+    {
+      "from": 465.97,
+      "to": 467.59,
+      "sid": 225,
+      "location": 2,
+      "content": "要么是因为不复位",
+      "music": 0.0
+    },
+    {
+      "from": 467.59,
+      "to": 469.77,
+      "sid": 226,
+      "location": 2,
+      "content": "导致精准度和速度大幅下降",
+      "music": 0.0
+    },
+    {
+      "from": 469.77,
+      "to": 470.88,
+      "sid": 227,
+      "location": 2,
+      "content": "从而拿低分",
+      "music": 0.0
+    },
+    {
+      "from": 470.88,
+      "to": 473.92,
+      "sid": 228,
+      "location": 2,
+      "content": "要么就是打完后手臂不可避免地感到难受",
+      "music": 0.0
+    },
+    {
+      "from": 473.92,
+      "to": 476.0,
+      "sid": 229,
+      "location": 2,
+      "content": "那么该怎么复位呢",
+      "music": 0.0
+    },
+    {
+      "from": 476.0,
+      "to": 477.38,
+      "sid": 230,
+      "location": 2,
+      "content": "长TTK项目中",
+      "music": 0.0
+    },
+    {
+      "from": 477.38,
+      "to": 480.01,
+      "sid": 231,
+      "location": 2,
+      "content": "假设你的手臂或手腕已经到达极限",
+      "music": 0.0
+    },
+    {
+      "from": 480.01,
+      "to": 482.75,
+      "sid": 232,
+      "location": 2,
+      "content": "可以尝试在准星已经命中一个目标",
+      "music": 0.0
+    },
+    {
+      "from": 482.75,
+      "to": 484.67,
+      "sid": 233,
+      "location": 2,
+      "content": "左键不脱离的情况下",
+      "music": 0.0
+    },
+    {
+      "from": 484.67,
+      "to": 487.64,
+      "sid": 234,
+      "location": 2,
+      "content": "去尝试快速抬手给手臂复位呃",
+      "music": 0.0
+    },
+    {
+      "from": 487.64,
+      "to": 490.64,
+      "sid": 235,
+      "location": 2,
+      "content": "确保LLOD调低应用得当的话",
+      "music": 0.0
+    },
+    {
+      "from": 490.64,
+      "to": 492.8,
+      "sid": 236,
+      "location": 2,
+      "content": "不会出现准星脱离目标的情况下",
+      "music": 0.0
+    },
+    {
+      "from": 492.8,
+      "to": 494.44,
+      "sid": 237,
+      "location": 2,
+      "content": "反复进行此操作即可",
+      "music": 0.0
+    },
+    {
+      "from": 494.44,
+      "to": 495.38,
+      "sid": 238,
+      "location": 2,
+      "content": "顺便说一句",
+      "music": 0.0
+    },
+    {
+      "from": 495.38,
+      "to": 496.92,
+      "sid": 239,
+      "location": 2,
+      "content": "短短TTK也行",
+      "music": 0.0
+    },
+    {
+      "from": 496.92,
+      "to": 497.98,
+      "sid": 240,
+      "location": 2,
+      "content": "就是要再快一点",
+      "music": 0.0
+    },
+    {
+      "from": 497.98,
+      "to": 500.36,
+      "sid": 241,
+      "location": 2,
+      "content": "并且最好确保自己的手臂同向",
+      "music": 0.0
+    },
+    {
+      "from": 500.36,
+      "to": 503.95,
+      "sid": 242,
+      "location": 2,
+      "content": "还有目标不算复位技巧的复位技巧",
+      "music": 0.0
+    },
+    {
+      "from": 503.95,
+      "to": 505.41,
+      "sid": 243,
+      "location": 2,
+      "content": "在大目标的情况下",
+      "music": 0.0
+    },
+    {
+      "from": 505.41,
+      "to": 506.99,
+      "sid": 244,
+      "location": 2,
+      "content": "可以依靠复位去拉枪",
+      "music": 0.0
+    },
+    {
+      "from": 506.99,
+      "to": 509.69,
+      "sid": 245,
+      "location": 2,
+      "content": "假设手臂已经移动到鼠标垫左侧啊",
+      "music": 0.0
+    },
+    {
+      "from": 509.69,
+      "to": 511.71,
+      "sid": 246,
+      "location": 2,
+      "content": "右侧同理边缘的情况下",
+      "music": 0.0
+    },
+    {
+      "from": 511.71,
+      "to": 514.21,
+      "sid": 247,
+      "location": 2,
+      "content": "在观察到左侧额手臂的同向",
+      "music": 0.0
+    },
+    {
+      "from": 514.21,
+      "to": 515.869,
+      "sid": 248,
+      "location": 2,
+      "content": "没有目标的情况下",
+      "music": 0.0
+    },
+    {
+      "from": 515.869,
+      "to": 517.349,
+      "sid": 249,
+      "location": 2,
+      "content": "且右侧有目标",
+      "music": 0.0
+    },
+    {
+      "from": 517.349,
+      "to": 519.309,
+      "sid": 250,
+      "location": 2,
+      "content": "可以尝试往右侧正常拉枪",
+      "music": 0.0
+    },
+    {
+      "from": 519.309,
+      "to": 521.709,
+      "sid": 251,
+      "location": 2,
+      "content": "确保每次都是在自己的极限情况下",
+      "music": 0.0
+    },
+    {
+      "from": 521.709,
+      "to": 523.13,
+      "sid": 252,
+      "location": 2,
+      "content": "再去往另一侧拉枪",
+      "music": 0.0
+    },
+    {
+      "from": 523.13,
+      "to": 525.03,
+      "sid": 253,
+      "location": 2,
+      "content": "反复左右拉效率很低",
+      "music": 0.0
+    },
+    {
+      "from": 525.03,
+      "to": 527.329,
+      "sid": 254,
+      "location": 2,
+      "content": "再者是确保自己鼠标传感器",
+      "music": 0.0
+    },
+    {
+      "from": 527.329,
+      "to": 528.929,
+      "sid": 255,
+      "location": 2,
+      "content": "能识别到表面的高度",
+      "music": 0.0
+    },
+    {
+      "from": 528.929,
+      "to": 529.789,
+      "sid": 256,
+      "location": 2,
+      "content": "去排除复位",
+      "music": 0.0
+    },
+    {
+      "from": 529.789,
+      "to": 530.749,
+      "sid": 257,
+      "location": 2,
+      "content": "不要松开左键",
+      "music": 0.0
+    },
+    {
+      "from": 530.749,
+      "to": 531.809,
+      "sid": 258,
+      "location": 2,
+      "content": "拉到目标上",
+      "music": 0.0
+    },
+    {
+      "from": 531.809,
+      "to": 532.949,
+      "sid": 259,
+      "location": 2,
+      "content": "顺便再说一句",
+      "music": 0.0
+    },
+    {
+      "from": 532.949,
+      "to": 535.9,
+      "sid": 260,
+      "location": 2,
+      "content": "两个技巧适用于所有的速度转火项目",
+      "music": 0.0
+    },
+    {
+      "from": 535.9,
+      "to": 537.84,
+      "sid": 261,
+      "location": 2,
+      "content": "正确的复位是很重要的",
+      "music": 0.0
+    },
+    {
+      "from": 537.84,
+      "to": 538.6,
+      "sid": 262,
+      "location": 2,
+      "content": "多去复位",
+      "music": 0.0
+    },
+    {
+      "from": 538.6,
+      "to": 541.28,
+      "sid": 263,
+      "location": 2,
+      "content": "也能练习所谓的复位拉枪",
+      "music": 0.0
+    },
+    {
+      "from": 543.74,
+      "to": 545.08,
+      "sid": 264,
+      "location": 2,
+      "content": "什么是节奏感",
+      "music": 0.0
+    },
+    {
+      "from": 545.08,
+      "to": 547.66,
+      "sid": 265,
+      "location": 2,
+      "content": "我制造的一个词跟流畅度的类似",
+      "music": 0.0
+    },
+    {
+      "from": 547.66,
+      "to": 549.62,
+      "sid": 266,
+      "location": 2,
+      "content": "但其实是一个不同的东西",
+      "music": 0.0
+    },
+    {
+      "from": 549.62,
+      "to": 551.6,
+      "sid": 267,
+      "location": 2,
+      "content": "在前面设置的时候说过",
+      "music": 0.0
+    },
+    {
+      "from": 551.6,
+      "to": 554.819,
+      "sid": 268,
+      "location": 2,
+      "content": "音调调节器可以帮助我更好地保持节奏感",
+      "music": 0.0
+    },
+    {
+      "from": 554.819,
+      "to": 556.499,
+      "sid": 269,
+      "location": 2,
+      "content": "所以如果要训练节奏感",
+      "music": 0.0
+    },
+    {
+      "from": 556.499,
+      "to": 559.22,
+      "sid": 270,
+      "location": 2,
+      "content": "我也推荐开启音调调节器",
+      "music": 0.0
+    },
+    {
+      "from": 559.22,
+      "to": 560.7,
+      "sid": 271,
+      "location": 2,
+      "content": "我所觉得的节奏",
+      "music": 0.0
+    },
+    {
+      "from": 560.7,
+      "to": 564.22,
+      "sid": 272,
+      "location": 2,
+      "content": "我所我所觉得的节奏感是精确快速的",
+      "music": 0.0
+    },
+    {
+      "from": 564.22,
+      "to": 565.76,
+      "sid": 273,
+      "location": 2,
+      "content": "在多目标之间切换",
+      "music": 0.0
+    },
+    {
+      "from": 565.76,
+      "to": 567.78,
+      "sid": 274,
+      "location": 2,
+      "content": "听着跟流畅度很像是吗",
+      "music": 0.0
+    },
+    {
+      "from": 567.78,
+      "to": 570.01,
+      "sid": 275,
+      "location": 2,
+      "content": "但节奏感重要的是精确度",
+      "music": 0.0
+    },
+    {
+      "from": 570.01,
+      "to": 571.15,
+      "sid": 276,
+      "location": 2,
+      "content": "如何训练",
+      "music": 0.0
+    },
+    {
+      "from": 571.15,
+      "to": 573.13,
+      "sid": 277,
+      "location": 2,
+      "content": "在开启音调调节器的情况下",
+      "music": 0.0
+    },
+    {
+      "from": 573.13,
+      "to": 574.85,
+      "sid": 278,
+      "location": 2,
+      "content": "要去保证自己在多目标的情况下",
+      "music": 0.0
+    },
+    {
+      "from": 574.85,
+      "to": 577.26,
+      "sid": 279,
+      "location": 2,
+      "content": "不会让音调从高断掉呃",
+      "music": 0.0
+    },
+    {
+      "from": 577.26,
+      "to": 579.96,
+      "sid": 280,
+      "location": 2,
+      "content": "这个确实是需要你自己去开音格调节器",
+      "music": 0.0
+    },
+    {
+      "from": 579.96,
+      "to": 580.69,
+      "sid": 281,
+      "location": 2,
+      "content": "去玩一下",
+      "music": 0.0
+    },
+    {
+      "from": 580.69,
+      "to": 581.69,
+      "sid": 282,
+      "location": 2,
+      "content": "在很多情况下",
+      "music": 0.0
+    },
+    {
+      "from": 581.69,
+      "to": 582.69,
+      "sid": 283,
+      "location": 2,
+      "content": "可以适当放慢速度",
+      "music": 0.0
+    },
+    {
+      "from": 582.69,
+      "to": 585.81,
+      "sid": 284,
+      "location": 2,
+      "content": "以保证自己不会对目标拉过头来达成精准度",
+      "music": 0.0
+    },
+    {
+      "from": 585.81,
+      "to": 588.29,
+      "sid": 285,
+      "location": 2,
+      "content": "但也要保证自己的速度",
+      "music": 0.0
+    },
+    {
+      "from": 588.29,
+      "to": 589.95,
+      "sid": 286,
+      "location": 2,
+      "content": "即使你有着很高的精准度",
+      "music": 0.0
+    },
+    {
+      "from": 589.95,
+      "to": 591.47,
+      "sid": 287,
+      "location": 2,
+      "content": "但是在没有速度的情况下",
+      "music": 0.0
+    },
+    {
+      "from": 591.47,
+      "to": 592.81,
+      "sid": 288,
+      "location": 2,
+      "content": "这是没有用的",
+      "music": 0.0
+    },
+    {
+      "from": 592.81,
+      "to": 596.19,
+      "sid": 289,
+      "location": 2,
+      "content": "速度的转速度转火一定要有速度",
+      "music": 0.0
+    },
+    {
+      "from": 597.449,
+      "to": 599.389,
+      "sid": 290,
+      "location": 2,
+      "content": "什么是转火中的流畅度",
+      "music": 0.0
+    },
+    {
+      "from": 599.389,
+      "to": 601.969,
+      "sid": 291,
+      "location": 2,
+      "content": "如果你对KWAK的静态点击类别",
+      "music": 0.0
+    },
+    {
+      "from": 601.969,
+      "to": 603.009,
+      "sid": 292,
+      "location": 2,
+      "content": "已经有一定造诣的话",
+      "music": 0.0
+    },
+    {
+      "from": 603.009,
+      "to": 606.2,
+      "sid": 293,
+      "location": 2,
+      "content": "会很快理解转火中的流畅度是通用的",
+      "music": 0.0
+    },
+    {
+      "from": 606.2,
+      "to": 607.96,
+      "sid": 294,
+      "location": 2,
+      "content": "转火中的流畅度极",
+      "music": 0.0
+    },
+    {
+      "from": 607.96,
+      "to": 611.44,
+      "sid": 295,
+      "location": 2,
+      "content": "在相邻的目标之间加速提高自己的切换速度",
+      "music": 0.0
+    },
+    {
+      "from": 611.44,
+      "to": 613.99,
+      "sid": 296,
+      "location": 2,
+      "content": "可能有人无法理解怎么去提速",
+      "music": 0.0
+    },
+    {
+      "from": 613.99,
+      "to": 615.01,
+      "sid": 297,
+      "location": 2,
+      "content": "但我想说的是",
+      "music": 0.0
+    },
+    {
+      "from": 615.01,
+      "to": 616.45,
+      "sid": 298,
+      "location": 2,
+      "content": "提高切换速度",
+      "music": 0.0
+    },
+    {
+      "from": 616.45,
+      "to": 618.69,
+      "sid": 299,
+      "location": 2,
+      "content": "要合理的利用周边视觉",
+      "music": 0.0
+    },
+    {
+      "from": 618.69,
+      "to": 620.9,
+      "sid": 300,
+      "location": 2,
+      "content": "减少在单一目标的停留时间",
+      "music": 0.0
+    },
+    {
+      "from": 620.9,
+      "to": 622.12,
+      "sid": 301,
+      "location": 2,
+      "content": "但你仍要注意",
+      "music": 0.0
+    },
+    {
+      "from": 622.12,
+      "to": 624.069,
+      "sid": 302,
+      "location": 2,
+      "content": "不要残留低血量目标",
+      "music": 0.0
+    },
+    {
+      "from": 624.069,
+      "to": 626.909,
+      "sid": 303,
+      "location": 2,
+      "content": "流畅度在部分时候是跟节奏感通用的",
+      "music": 0.0
+    },
+    {
+      "from": 626.909,
+      "to": 629.309,
+      "sid": 304,
+      "location": 2,
+      "content": "流畅的同时也不要忘记节奏感",
+      "music": 0.0
+    },
+    {
+      "from": 631.14,
+      "to": 632.74,
+      "sid": 305,
+      "location": 2,
+      "content": "什么是周边视觉",
+      "music": 0.0
+    },
+    {
+      "from": 632.74,
+      "to": 635.0,
+      "sid": 306,
+      "location": 2,
+      "content": "虽然小标题是关于周边视觉",
+      "music": 0.0
+    },
+    {
+      "from": 635.0,
+      "to": 637.84,
+      "sid": 307,
+      "location": 2,
+      "content": "但我还会在这里解答关于眼睛的问题",
+      "music": 0.0
+    },
+    {
+      "from": 637.84,
+      "to": 639.579,
+      "sid": 308,
+      "location": 2,
+      "content": "因为这两个是强相关的",
+      "music": 0.0
+    },
+    {
+      "from": 639.579,
+      "to": 640.659,
+      "sid": 309,
+      "location": 2,
+      "content": "周边视觉",
+      "music": 0.0
+    },
+    {
+      "from": 640.659,
+      "to": 641.639,
+      "sid": 310,
+      "location": 2,
+      "content": "顾名思义",
+      "music": 0.0
+    },
+    {
+      "from": 641.639,
+      "to": 643.719,
+      "sid": 311,
+      "location": 2,
+      "content": "如果是对KWAK已经有遭遇意的人",
+      "music": 0.0
+    },
+    {
+      "from": 643.719,
+      "to": 644.7,
+      "sid": 312,
+      "location": 2,
+      "content": "很容易理解",
+      "music": 0.0
+    },
+    {
+      "from": 644.7,
+      "to": 647.32,
+      "sid": 313,
+      "location": 2,
+      "content": "在大部分项目中都要去利用周边视觉",
+      "music": 0.0
+    },
+    {
+      "from": 647.32,
+      "to": 650.1,
+      "sid": 314,
+      "location": 2,
+      "content": "基本意义上就是用余光去观察目标",
+      "music": 0.0
+    },
+    {
+      "from": 650.1,
+      "to": 654.21,
+      "sid": 315,
+      "location": 2,
+      "content": "一定要确保自己的主视野正在自己打的目标上",
+      "music": 0.0
+    },
+    {
+      "from": 654.21,
+      "to": 655.49,
+      "sid": 316,
+      "location": 2,
+      "content": "转火的场景下",
+      "music": 0.0
+    },
+    {
+      "from": 655.49,
+      "to": 657.13,
+      "sid": 317,
+      "location": 2,
+      "content": "目标大多是三目标往上",
+      "music": 0.0
+    },
+    {
+      "from": 657.13,
+      "to": 659.13,
+      "sid": 318,
+      "location": 2,
+      "content": "如果不主动的去使用周边视觉",
+      "music": 0.0
+    },
+    {
+      "from": 659.13,
+      "to": 661.52,
+      "sid": 319,
+      "location": 2,
+      "content": "分数是永远也上不去的",
+      "music": 0.0
+    },
+    {
+      "from": 661.52,
+      "to": 662.48,
+      "sid": 320,
+      "location": 2,
+      "content": "眼镜的使用",
+      "music": 0.0
+    },
+    {
+      "from": 662.48,
+      "to": 663.7,
+      "sid": 321,
+      "location": 2,
+      "content": "不管是在什么场景下",
+      "music": 0.0
+    },
+    {
+      "from": 663.7,
+      "to": 665.58,
+      "sid": 322,
+      "location": 2,
+      "content": "主视野一定不能脱离主目标",
+      "music": 0.0
+    },
+    {
+      "from": 665.58,
+      "to": 667.42,
+      "sid": 323,
+      "location": 2,
+      "content": "不会利用周边视觉的情况下",
+      "music": 0.0
+    },
+    {
+      "from": 667.42,
+      "to": 669.78,
+      "sid": 324,
+      "location": 2,
+      "content": "大多数人可能主目标还没打完",
+      "music": 0.0
+    },
+    {
+      "from": 669.78,
+      "to": 672.28,
+      "sid": 325,
+      "location": 2,
+      "content": "主世界就已经飘到下一个目标上去了",
+      "music": 0.0
+    },
+    {
+      "from": 672.28,
+      "to": 675.02,
+      "sid": 326,
+      "location": 2,
+      "content": "并且在初期还意识到意意识不到",
+      "music": 0.0
+    },
+    {
+      "from": 675.02,
+      "to": 675.819,
+      "sid": 327,
+      "location": 2,
+      "content": "这有问题",
+      "music": 0.0
+    },
+    {
+      "from": 675.819,
+      "to": 676.819,
+      "sid": 328,
+      "location": 2,
+      "content": "事实上来讲",
+      "music": 0.0
+    },
+    {
+      "from": 676.819,
+      "to": 678.459,
+      "sid": 329,
+      "location": 2,
+      "content": "这样很可能会导致主目标缺",
+      "music": 0.0
+    },
+    {
+      "from": 678.459,
+      "to": 680.819,
+      "sid": 330,
+      "location": 2,
+      "content": "因为缺少观察还没打掉的情况下",
+      "music": 0.0
+    },
+    {
+      "from": 680.819,
+      "to": 682.139,
+      "sid": 331,
+      "location": 2,
+      "content": "就拉到下一个目标上了",
+      "music": 0.0
+    },
+    {
+      "from": 682.139,
+      "to": 684.59,
+      "sid": 332,
+      "location": 2,
+      "content": "这对于转火是绝对不应该出现的",
+      "music": 0.0
+    },
+    {
+      "from": 684.59,
+      "to": 687.99,
+      "sid": 333,
+      "location": 2,
+      "content": "简单的总结就是你要注视主目标的情况下",
+      "music": 0.0
+    },
+    {
+      "from": 687.99,
+      "to": 690.78,
+      "sid": 334,
+      "location": 2,
+      "content": "去利用周边视野观察其他的目标",
+      "music": 0.0
+    },
+    {
+      "from": 690.78,
+      "to": 693.56,
+      "sid": 335,
+      "location": 2,
+      "content": "绝对不能再打主目主目标时",
+      "music": 0.0
+    },
+    {
+      "from": 693.56,
+      "to": 695.38,
+      "sid": 336,
+      "location": 2,
+      "content": "让主视野直接飘到其他目标",
+      "music": 0.0
+    },
+    {
+      "from": 695.38,
+      "to": 697.19,
+      "sid": 337,
+      "location": 2,
+      "content": "比如你要打到下一个目标上",
+      "music": 0.0
+    },
+    {
+      "from": 697.19,
+      "to": 698.11,
+      "sid": 338,
+      "location": 2,
+      "content": "多去领悟吧",
+      "music": 0.0
+    },
+    {
+      "from": 698.11,
+      "to": 699.47,
+      "sid": 339,
+      "location": 2,
+      "content": "不能学会周边视觉转",
+      "music": 0.0
+    },
+    {
+      "from": 699.47,
+      "to": 701.43,
+      "sid": 340,
+      "location": 2,
+      "content": "我分数永远永永远都上不去",
+      "music": 0.0
+    },
+    {
+      "from": 701.43,
+      "to": 702.41,
+      "sid": 341,
+      "location": 2,
+      "content": "顺便说一句",
+      "music": 0.0
+    },
+    {
+      "from": 702.41,
+      "to": 703.75,
+      "sid": 342,
+      "location": 2,
+      "content": "周边视觉不是我起的名字",
+      "music": 0.0
+    },
+    {
+      "from": 703.75,
+      "to": 705.75,
+      "sid": 343,
+      "location": 2,
+      "content": "不要因为这个喷我",
+      "music": 0.0
+    },
+    {
+      "from": 707.3,
+      "to": 708.56,
+      "sid": 344,
+      "location": 2,
+      "content": "何为速度",
+      "music": 0.0
+    },
+    {
+      "from": 708.56,
+      "to": 710.74,
+      "sid": 345,
+      "location": 2,
+      "content": "在这里我并不会去定义速度概念",
+      "music": 0.0
+    },
+    {
+      "from": 710.74,
+      "to": 713.02,
+      "sid": 346,
+      "location": 2,
+      "content": "有人可能在看到我之前所述的速度",
+      "music": 0.0
+    },
+    {
+      "from": 713.02,
+      "to": 714.32,
+      "sid": 347,
+      "location": 2,
+      "content": "转火一定要速度",
+      "music": 0.0
+    },
+    {
+      "from": 714.32,
+      "to": 715.62,
+      "sid": 348,
+      "location": 2,
+      "content": "会产生一定的误解",
+      "music": 0.0
+    },
+    {
+      "from": 715.62,
+      "to": 718.34,
+      "sid": 349,
+      "location": 2,
+      "content": "很容易进入为了速度而速度的误区",
+      "music": 0.0
+    },
+    {
+      "from": 718.34,
+      "to": 719.34,
+      "sid": 350,
+      "location": 2,
+      "content": "但在初阶教学",
+      "music": 0.0
+    },
+    {
+      "from": 719.34,
+      "to": 720.04,
+      "sid": 351,
+      "location": 2,
+      "content": "我是这样说",
+      "music": 0.0
+    },
+    {
+      "from": 720.04,
+      "to": 721.58,
+      "sid": 352,
+      "location": 2,
+      "content": "精准度是更加重要的东西",
+      "music": 0.0
+    },
+    {
+      "from": 721.58,
+      "to": 722.58,
+      "sid": 353,
+      "location": 2,
+      "content": "一定要去停稳",
+      "music": 0.0
+    },
+    {
+      "from": 722.58,
+      "to": 723.61,
+      "sid": 354,
+      "location": 2,
+      "content": "确认目标",
+      "music": 0.0
+    },
+    {
+      "from": 723.61,
+      "to": 726.31,
+      "sid": 355,
+      "location": 2,
+      "content": "所有的速度都将建立在能停住之上",
+      "music": 0.0
+    },
+    {
+      "from": 726.31,
+      "to": 728.03,
+      "sid": 356,
+      "location": 2,
+      "content": "我用ECM速度无敌",
+      "music": 0.0
+    },
+    {
+      "from": 728.03,
+      "to": 729.4,
+      "sid": 357,
+      "location": 2,
+      "content": "但是我能停住吗",
+      "music": 0.0
+    },
+    {
+      "from": 729.4,
+      "to": 730.14,
+      "sid": 358,
+      "location": 2,
+      "content": "并不能",
+      "music": 0.0
+    },
+    {
+      "from": 730.14,
+      "to": 731.24,
+      "sid": 359,
+      "location": 2,
+      "content": "我不是数控机床",
+      "music": 0.0
+    },
+    {
+      "from": 731.24,
+      "to": 732.1,
+      "sid": 360,
+      "location": 2,
+      "content": "我停不住",
+      "music": 0.0
+    },
+    {
+      "from": 732.1,
+      "to": 733.92,
+      "sid": 361,
+      "location": 2,
+      "content": "做不到",
+      "music": 0.0
+    },
+    {
+      "from": 734.88,
+      "to": 737.06,
+      "sid": 362,
+      "location": 2,
+      "content": "接下来是关于一些常见的误区",
+      "music": 0.0
+    },
+    {
+      "from": 737.06,
+      "to": 739.22,
+      "sid": 363,
+      "location": 2,
+      "content": "KWAK里的训练转火没有用",
+      "music": 0.0
+    },
+    {
+      "from": 739.22,
+      "to": 741.36,
+      "sid": 364,
+      "location": 2,
+      "content": "不如游戏里开个人机房打靶子",
+      "music": 0.0
+    },
+    {
+      "from": 741.36,
+      "to": 742.62,
+      "sid": 365,
+      "location": 2,
+      "content": "应练错误",
+      "music": 0.0
+    },
+    {
+      "from": 742.62,
+      "to": 743.86,
+      "sid": 366,
+      "location": 2,
+      "content": "错误的有用",
+      "music": 0.0
+    },
+    {
+      "from": 743.86,
+      "to": 746.84,
+      "sid": 367,
+      "location": 2,
+      "content": "KWAK的训练效率十倍于在游戏里硬打硬练",
+      "music": 0.0
+    },
+    {
+      "from": 746.84,
+      "to": 749.55,
+      "sid": 368,
+      "location": 2,
+      "content": "转火要放松的训练错误速度",
+      "music": 0.0
+    },
+    {
+      "from": 749.55,
+      "to": 750.43,
+      "sid": 369,
+      "location": 2,
+      "content": "把速度转火",
+      "music": 0.0
+    },
+    {
+      "from": 750.43,
+      "to": 751.31,
+      "sid": 370,
+      "location": 2,
+      "content": "不管再怎么说",
+      "music": 0.0
+    },
+    {
+      "from": 751.31,
+      "to": 752.47,
+      "sid": 371,
+      "location": 2,
+      "content": "绝对不应该放松",
+      "music": 0.0
+    },
+    {
+      "from": 752.47,
+      "to": 753.83,
+      "sid": 372,
+      "location": 2,
+      "content": "不用力的去练",
+      "music": 0.0
+    },
+    {
+      "from": 753.83,
+      "to": 755.39,
+      "sid": 373,
+      "location": 2,
+      "content": "手臂烂的跟水一样",
+      "music": 0.0
+    },
+    {
+      "from": 755.39,
+      "to": 758.055,
+      "sid": 374,
+      "location": 2,
+      "content": "在什么相应部里都是不行的",
+      "music": 0.0
+    },
+    {
+      "from": 758.68,
+      "to": 761.2,
+      "sid": 375,
+      "location": 2,
+      "content": "初阶中阶和高阶",
+      "music": 0.0
+    },
+    {
+      "from": 761.2,
+      "to": 764.8,
+      "sid": 376,
+      "location": 2,
+      "content": "基本上来讲去对标VT中的未定级到黄金",
+      "music": 0.0
+    },
+    {
+      "from": 764.8,
+      "to": 765.88,
+      "sid": 377,
+      "location": 2,
+      "content": "但即便是出尖",
+      "music": 0.0
+    },
+    {
+      "from": 765.88,
+      "to": 767.88,
+      "sid": 378,
+      "location": 2,
+      "content": "也不代表里面的内容不值得学习",
+      "music": 0.0
+    },
+    {
+      "from": 767.88,
+      "to": 770.32,
+      "sid": 379,
+      "location": 2,
+      "content": "预计中阶会代表会呃",
+      "music": 0.0
+    },
+    {
+      "from": 770.32,
+      "to": 772.54,
+      "sid": 380,
+      "location": 2,
+      "content": "会对标危机中的白金道大师",
+      "music": 0.0
+    },
+    {
+      "from": 772.54,
+      "to": 774.67,
+      "sid": 381,
+      "location": 2,
+      "content": "高阶会对标宗师到星辰",
+      "music": 0.0
+    },
+    {
+      "from": 774.67,
+      "to": 777.24,
+      "sid": 382,
+      "location": 2,
+      "content": "此外中介会大概对标天人",
+      "music": 0.0
+    },
+    {
+      "from": 777.24,
+      "to": 778.36,
+      "sid": 383,
+      "location": 2,
+      "content": "虽然说是这么说",
+      "music": 0.0
+    },
+    {
+      "from": 778.36,
+      "to": 780.62,
+      "sid": 384,
+      "location": 2,
+      "content": "但此教学的中间预计不会出的很快",
+      "music": 0.0
+    },
+    {
+      "from": 780.62,
+      "to": 782.4,
+      "sid": 385,
+      "location": 2,
+      "content": "中间的教学我会着重讲解",
+      "music": 0.0
+    },
+    {
+      "from": 782.4,
+      "to": 783.8,
+      "sid": 386,
+      "location": 2,
+      "content": "因为是一个很重要的等级",
+      "music": 0.0
+    },
+    {
+      "from": 783.8,
+      "to": 786.54,
+      "sid": 387,
+      "location": 2,
+      "content": "预计包括但不限于提速精度",
+      "music": 0.0
+    },
+    {
+      "from": 786.54,
+      "to": 787.22,
+      "sid": 388,
+      "location": 2,
+      "content": "心态",
+      "music": 0.0
+    },
+    {
+      "from": 787.22,
+      "to": 788.84,
+      "sid": 389,
+      "location": 2,
+      "content": "也因本人能力原因",
+      "music": 0.0
+    },
+    {
+      "from": 788.84,
+      "to": 791.46,
+      "sid": 390,
+      "location": 2,
+      "content": "教学大概出的高阶就会断更",
+      "music": 0.0
+    },
+    {
+      "from": 792.66,
+      "to": 795.74,
+      "sid": 391,
+      "location": 2,
+      "content": "余谈初阶分数线会设置的很随意",
+      "music": 0.0
+    },
+    {
+      "from": 795.74,
+      "to": 797.14,
+      "sid": 392,
+      "location": 2,
+      "content": "但这并不是一个严格的基准",
+      "music": 0.0
+    },
+    {
+      "from": 797.14,
+      "to": 798.73,
+      "sid": 393,
+      "location": 2,
+      "content": "往后还有中阶和高阶",
+      "music": 0.0
+    },
+    {
+      "from": 798.73,
+      "to": 800.65,
+      "sid": 394,
+      "location": 2,
+      "content": "如果想要一起编撰转火教学的话",
+      "music": 0.0
+    },
+    {
+      "from": 800.65,
+      "to": 801.37,
+      "sid": 395,
+      "location": 2,
+      "content": "欢迎联系我",
+      "music": 0.0
+    },
+    {
+      "from": 801.37,
+      "to": 803.49,
+      "sid": 396,
+      "location": 2,
+      "content": "最后就是如果有什么速度转火上的问题",
+      "music": 0.0
+    },
+    {
+      "from": 803.49,
+      "to": 804.67,
+      "sid": 397,
+      "location": 2,
+      "content": "欢迎询问我",
+      "music": 0.0
+    },
+    {
+      "from": 804.67,
+      "to": 806.71,
+      "sid": 398,
+      "location": 2,
+      "content": "然后还有就是感谢初稿",
+      "music": 0.0
+    },
+    {
+      "from": 806.71,
+      "to": 807.99,
+      "sid": 399,
+      "location": 2,
+      "content": "我想要成为正义的伙伴",
+      "music": 0.0
+    },
+    {
+      "from": 807.99,
+      "to": 809.33,
+      "sid": 400,
+      "location": 2,
+      "content": "兼修BK大哥哥",
+      "music": 0.0
+    },
+    {
+      "from": 809.33,
+      "to": 811.91,
+      "sid": 401,
+      "location": 2,
+      "content": "感谢塞拉以及木木茶",
+      "music": 0.0
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "bvid": "BV1gjMa6cEwt",
+  "aid": 116879179908644,
+  "title": "24分钟通用基础练枪路线：从定位、转火到跟枪",
+  "owner": "Aimlabs",
+  "total_count": 0,
+  "main_fetched": 2,
+  "sub_fetched": 2,
+  "status": "ok",
+  "comments": [
+    {
+      "rpid": 308485705536,
+      "uname": "乐檬的清秋",
+      "like": 1,
+      "rcount": 2,
+      "message": "您好，为什么我用自适应任务训练的过程中他经常提示我任务已经禁用，而我没有去动他啊",
+      "ctime": 1783502652,
+      "subs": [
+        {
+          "uname": "Aimlabs",
+          "like": 0,
+          "message": "这种情况可能和自适应任务的数据同步、任务状态异常或客户端加载有关，并不一定是您手动操作导致的。可以先尝试：①重启Aimlabs后重新进入自适应任务；②检查网络连接是否稳定；③Steam用户可以尝试验证游戏文件完整性。如果仍然没法解决的话，请前往帮助中心提交工单：https://support.aimlabs.com/hc/en-us/requests/new，并提供一下提示截图/录屏、被禁用的任务名称、出现时间以及设备和系统信息，我们会有技术人员进一步帮您排查~"
+        },
+        {
+          "uname": "殊涵p",
+          "like": 0,
+          "message": "回复 @Aimlabs :手机版能不能加个加速度啊？[大哭][大哭]"
+        }
+      ]
+    },
+    {
+      "rpid": 316031447329,
+      "uname": "殊涵p",
+      "like": 0,
+      "rcount": 0,
+      "message": "手机版能不能加个加速度啊？[大哭][大哭]",
+      "ctime": 1791121391,
+      "subs": []
+    }
+  ]
+}

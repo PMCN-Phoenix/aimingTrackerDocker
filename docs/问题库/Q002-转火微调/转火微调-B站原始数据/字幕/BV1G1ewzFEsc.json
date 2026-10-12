@@ -1,0 +1,1390 @@
+{
+  "bvid": "BV1G1ewzFEsc",
+  "status": "ok lang=ai-zh",
+  "segments": [
+    {
+      "from": 0.0,
+      "to": 2.0,
+      "sid": 1,
+      "location": 2,
+      "content": "还剩一人",
+      "music": 0.0
+    },
+    {
+      "from": 4.8,
+      "to": 9.36,
+      "sid": 2,
+      "location": 2,
+      "content": "我看着一打一打一击制敌人",
+      "music": 0.0
+    },
+    {
+      "from": 10.08,
+      "to": 12.64,
+      "sid": 3,
+      "location": 2,
+      "content": "在瞄准中",
+      "music": 0.0
+    },
+    {
+      "from": 12.64,
+      "to": 15.18,
+      "sid": 4,
+      "location": 2,
+      "content": "疫苗与微调是缺一不可的",
+      "music": 0.0
+    },
+    {
+      "from": 15.18,
+      "to": 17.76,
+      "sid": 5,
+      "location": 2,
+      "content": "上次我的育苗教学广受大家好评",
+      "music": 0.0
+    },
+    {
+      "from": 17.76,
+      "to": 18.92,
+      "sid": 6,
+      "location": 2,
+      "content": "说我讲的细节",
+      "music": 0.0
+    },
+    {
+      "from": 18.92,
+      "to": 21.74,
+      "sid": 7,
+      "location": 2,
+      "content": "那么这次我将展开来讲一讲什么是微调",
+      "music": 0.0
+    },
+    {
+      "from": 21.74,
+      "to": 23.18,
+      "sid": 8,
+      "location": 2,
+      "content": "微调需要注意什么",
+      "music": 0.0
+    },
+    {
+      "from": 23.18,
+      "to": 25.07,
+      "sid": 9,
+      "location": 2,
+      "content": "应该如何正确做出微调",
+      "music": 0.0
+    },
+    {
+      "from": 25.07,
+      "to": 26.01,
+      "sid": 10,
+      "location": 2,
+      "content": "我是四七",
+      "music": 0.0
+    },
+    {
+      "from": 26.01,
+      "to": 29.259,
+      "sid": 11,
+      "location": 2,
+      "content": "希望我的微调教学能让你领悟到苗子的真谛",
+      "music": 0.0
+    },
+    {
+      "from": 29.259,
+      "to": 31.419,
+      "sid": 12,
+      "location": 2,
+      "content": "我将把微调分为两个部分讲",
+      "music": 0.0
+    },
+    {
+      "from": 31.419,
+      "to": 34.57,
+      "sid": 13,
+      "location": 2,
+      "content": "第一部分是训练场练习感受微调",
+      "music": 0.0
+    },
+    {
+      "from": 34.57,
+      "to": 36.63,
+      "sid": 14,
+      "location": 2,
+      "content": "第二部分是实战微调",
+      "music": 0.0
+    },
+    {
+      "from": 36.63,
+      "to": 40.98,
+      "sid": 15,
+      "location": 2,
+      "content": "微调是建立在你有充足的疫苗情况下进行的",
+      "music": 0.0
+    },
+    {
+      "from": 41.38,
+      "to": 43.38,
+      "sid": 16,
+      "location": 2,
+      "content": "首先练习场的微调",
+      "music": 0.0
+    },
+    {
+      "from": 43.38,
+      "to": 44.82,
+      "sid": 17,
+      "location": 2,
+      "content": "我会讲到移动微调",
+      "music": 0.0
+    },
+    {
+      "from": 44.82,
+      "to": 47.739,
+      "sid": 18,
+      "location": 2,
+      "content": "手部微调和一个预判性的微调",
+      "music": 0.0
+    },
+    {
+      "from": 47.739,
+      "to": 51.739,
+      "sid": 19,
+      "location": 2,
+      "content": "那么接下来我们就进入练习场来仔细的讲一讲",
+      "music": 0.0
+    },
+    {
+      "from": 51.739,
+      "to": 55.299,
+      "sid": 20,
+      "location": 2,
+      "content": "这三种微调该如何结合到一起",
+      "music": 0.0
+    },
+    {
+      "from": 62.32,
+      "to": 67.02,
+      "sid": 21,
+      "location": 2,
+      "content": "微调是建立在你有充足的疫苗情况下进行的",
+      "music": 0.0
+    },
+    {
+      "from": 67.02,
+      "to": 71.31,
+      "sid": 22,
+      "location": 2,
+      "content": "首先在练习场中需要先感受你自身手腕的发力",
+      "music": 0.0
+    },
+    {
+      "from": 71.31,
+      "to": 73.01,
+      "sid": 23,
+      "location": 2,
+      "content": "每个人的鼠标灵敏度不同",
+      "music": 0.0
+    },
+    {
+      "from": 73.01,
+      "to": 74.91,
+      "sid": 24,
+      "location": 2,
+      "content": "手腕的发力大小也不同",
+      "music": 0.0
+    },
+    {
+      "from": 74.91,
+      "to": 77.57,
+      "sid": 25,
+      "location": 2,
+      "content": "那么微调有很多种方式",
+      "music": 0.0
+    },
+    {
+      "from": 77.57,
+      "to": 79.21,
+      "sid": 26,
+      "location": 2,
+      "content": "一种是你的手不动",
+      "music": 0.0
+    },
+    {
+      "from": 79.21,
+      "to": 79.93,
+      "sid": 27,
+      "location": 2,
+      "content": "手不动",
+      "music": 0.0
+    },
+    {
+      "from": 79.93,
+      "to": 81.11,
+      "sid": 28,
+      "location": 2,
+      "content": "用你的身体去动",
+      "music": 0.0
+    },
+    {
+      "from": 81.11,
+      "to": 83.78,
+      "sid": 29,
+      "location": 2,
+      "content": "这就是移动移动的微调",
+      "music": 0.0
+    },
+    {
+      "from": 84.02,
+      "to": 86.16,
+      "sid": 30,
+      "location": 2,
+      "content": "当你的身体动了你的准心",
+      "music": 0.0
+    },
+    {
+      "from": 86.16,
+      "to": 88.46,
+      "sid": 31,
+      "location": 2,
+      "content": "哎你的画面也会跟着一起动",
+      "music": 0.0
+    },
+    {
+      "from": 88.46,
+      "to": 91.52,
+      "sid": 32,
+      "location": 2,
+      "content": "然后你看现在我的手是不动的",
+      "music": 0.0
+    },
+    {
+      "from": 91.52,
+      "to": 93.06,
+      "sid": 33,
+      "location": 2,
+      "content": "然后我就ADAD",
+      "music": 0.0
+    },
+    {
+      "from": 93.06,
+      "to": 97.5,
+      "sid": 34,
+      "location": 2,
+      "content": "我的准心就在这个头的左右两边在动啊",
+      "music": 0.0
+    },
+    {
+      "from": 97.5,
+      "to": 99.4,
+      "sid": 35,
+      "location": 2,
+      "content": "我A稍微再按一下A",
+      "music": 0.0
+    },
+    {
+      "from": 99.4,
+      "to": 103.05,
+      "sid": 36,
+      "location": 2,
+      "content": "这个时候这个整形就对准这个机器人的头",
+      "music": 0.0
+    },
+    {
+      "from": 103.05,
+      "to": 106.13,
+      "sid": 37,
+      "location": 2,
+      "content": "这个微调方式叫做移动微调",
+      "music": 0.0
+    },
+    {
+      "from": 106.59,
+      "to": 108.29,
+      "sid": 38,
+      "location": 2,
+      "content": "那么手部微调是什么呢",
+      "music": 0.0
+    },
+    {
+      "from": 108.29,
+      "to": 111.31,
+      "sid": 39,
+      "location": 2,
+      "content": "手部微调就是你的人是不动的啊",
+      "music": 0.0
+    },
+    {
+      "from": 111.31,
+      "to": 113.84,
+      "sid": 40,
+      "location": 2,
+      "content": "然后用你的手去瞄他的头",
+      "music": 0.0
+    },
+    {
+      "from": 113.84,
+      "to": 116.82,
+      "sid": 41,
+      "location": 2,
+      "content": "在他头附近的时候慢慢的调整到他头上",
+      "music": 0.0
+    },
+    {
+      "from": 118.02,
+      "to": 120.02,
+      "sid": 42,
+      "location": 2,
+      "content": "这种叫手部微调",
+      "music": 0.0
+    },
+    {
+      "from": 120.61,
+      "to": 122.41,
+      "sid": 43,
+      "location": 2,
+      "content": "还有一种是预判性微调",
+      "music": 0.0
+    },
+    {
+      "from": 122.41,
+      "to": 126.56,
+      "sid": 44,
+      "location": 2,
+      "content": "预判性微调就是要结合实战实战里",
+      "music": 0.0
+    },
+    {
+      "from": 126.56,
+      "to": 130.96,
+      "sid": 45,
+      "location": 2,
+      "content": "实战里面那些人都是会不规律的移动对吧",
+      "music": 0.0
+    },
+    {
+      "from": 130.96,
+      "to": 132.76,
+      "sid": 46,
+      "location": 2,
+      "content": "如果分段低一点呢",
+      "music": 0.0
+    },
+    {
+      "from": 132.76,
+      "to": 135.66,
+      "sid": 47,
+      "location": 2,
+      "content": "他就是可能就是左右这样摆摆动",
+      "music": 0.0
+    },
+    {
+      "from": 135.66,
+      "to": 140.55,
+      "sid": 48,
+      "location": 2,
+      "content": "然后先把机器人变成移动的机器人",
+      "music": 0.0
+    },
+    {
+      "from": 140.67,
+      "to": 142.93,
+      "sid": 49,
+      "location": 2,
+      "content": "这个时候你看这机器人是移动的",
+      "music": 0.0
+    },
+    {
+      "from": 142.93,
+      "to": 145.41,
+      "sid": 50,
+      "location": 2,
+      "content": "那这个时候你就要有一种预判性的微调",
+      "music": 0.0
+    },
+    {
+      "from": 145.41,
+      "to": 149.01,
+      "sid": 51,
+      "location": 2,
+      "content": "你不能完全的去把准星调整到他头上",
+      "music": 0.0
+    },
+    {
+      "from": 149.01,
+      "to": 150.21,
+      "sid": 52,
+      "location": 2,
+      "content": "那这个时候他又移动了",
+      "music": 0.0
+    },
+    {
+      "from": 150.21,
+      "to": 151.25,
+      "sid": 53,
+      "location": 2,
+      "content": "那你开枪",
+      "music": 0.0
+    },
+    {
+      "from": 151.25,
+      "to": 153.55,
+      "sid": 54,
+      "location": 2,
+      "content": "你开枪的那一发子弹就是不准的",
+      "music": 0.0
+    },
+    {
+      "from": 153.55,
+      "to": 155.97,
+      "sid": 55,
+      "location": 2,
+      "content": "你可以稍微等他过来对吧",
+      "music": 0.0
+    },
+    {
+      "from": 155.97,
+      "to": 158.75,
+      "sid": 56,
+      "location": 2,
+      "content": "预判一下他过来的量",
+      "music": 0.0
+    },
+    {
+      "from": 159.43,
+      "to": 160.45,
+      "sid": 57,
+      "location": 2,
+      "content": "等他过来",
+      "music": 0.0
+    },
+    {
+      "from": 160.45,
+      "to": 162.65,
+      "sid": 58,
+      "location": 2,
+      "content": "就这种就是预判性的微调",
+      "music": 0.0
+    },
+    {
+      "from": 162.65,
+      "to": 164.09,
+      "sid": 59,
+      "location": 2,
+      "content": "你可以调整到他头旁边",
+      "music": 0.0
+    },
+    {
+      "from": 164.09,
+      "to": 165.95,
+      "sid": 60,
+      "location": 2,
+      "content": "然后等他移动过来的一瞬间",
+      "music": 0.0
+    },
+    {
+      "from": 165.95,
+      "to": 168.23,
+      "sid": 61,
+      "location": 2,
+      "content": "那样开枪去打",
+      "music": 0.0
+    },
+    {
+      "from": 168.54,
+      "to": 171.9,
+      "sid": 62,
+      "location": 2,
+      "content": "就从中间截断他的移动",
+      "music": 0.0
+    },
+    {
+      "from": 176.0,
+      "to": 178.63,
+      "sid": 63,
+      "location": 2,
+      "content": "嗯大概就是这样这个意思",
+      "music": 0.0
+    },
+    {
+      "from": 178.63,
+      "to": 179.63,
+      "sid": 64,
+      "location": 2,
+      "content": "那在实战里",
+      "music": 0.0
+    },
+    {
+      "from": 179.63,
+      "to": 184.27,
+      "sid": 65,
+      "location": 2,
+      "content": "你不可能说单一的就把这种啊移动的微调",
+      "music": 0.0
+    },
+    {
+      "from": 184.27,
+      "to": 185.47,
+      "sid": 66,
+      "location": 2,
+      "content": "用手部的微调",
+      "music": 0.0
+    },
+    {
+      "from": 185.47,
+      "to": 188.59,
+      "sid": 67,
+      "location": 2,
+      "content": "还有预判性的这种微调分开来操作",
+      "music": 0.0
+    },
+    {
+      "from": 188.59,
+      "to": 191.57,
+      "sid": 68,
+      "location": 2,
+      "content": "你应该把这三三样给结合在一起",
+      "music": 0.0
+    },
+    {
+      "from": 191.57,
+      "to": 196.22,
+      "sid": 69,
+      "location": 2,
+      "content": "在实战中你可以啊利用移动加上你的鼠标定位",
+      "music": 0.0
+    },
+    {
+      "from": 196.22,
+      "to": 201.18,
+      "sid": 70,
+      "location": 2,
+      "content": "加上你的手部预判性的微调去控制你",
+      "music": 0.0
+    },
+    {
+      "from": 201.54,
+      "to": 204.74,
+      "sid": 71,
+      "location": 2,
+      "content": "提升你自己的一个微调的能力",
+      "music": 0.0
+    },
+    {
+      "from": 209.82,
+      "to": 213.18,
+      "sid": 72,
+      "location": 2,
+      "content": "啊一开始练微调可以怎么练呢",
+      "music": 0.0
+    },
+    {
+      "from": 214.35,
+      "to": 219.11,
+      "sid": 73,
+      "location": 2,
+      "content": "你看另外条可以先把机器人变成固定靶",
+      "music": 0.0
+    },
+    {
+      "from": 220.66,
+      "to": 222.26,
+      "sid": 74,
+      "location": 2,
+      "content": "把机器人变固定吧",
+      "music": 0.0
+    },
+    {
+      "from": 222.26,
+      "to": 223.94,
+      "sid": 75,
+      "location": 2,
+      "content": "然后准心",
+      "music": 0.0
+    },
+    {
+      "from": 224.43,
+      "to": 226.75,
+      "sid": 76,
+      "location": 2,
+      "content": "如果你的准心离敌人很远",
+      "music": 0.0
+    },
+    {
+      "from": 226.75,
+      "to": 229.87,
+      "sid": 77,
+      "location": 2,
+      "content": "我的我的操作是先用手腕啊",
+      "music": 0.0
+    },
+    {
+      "from": 229.87,
+      "to": 235.47,
+      "sid": 78,
+      "location": 2,
+      "content": "我的我的操作是用先用手臂去移动手臂",
+      "music": 0.0
+    },
+    {
+      "from": 235.47,
+      "to": 236.35,
+      "sid": 79,
+      "location": 2,
+      "content": "去移动鼠标",
+      "music": 0.0
+    },
+    {
+      "from": 236.35,
+      "to": 240.15,
+      "sid": 80,
+      "location": 2,
+      "content": "移动到这个机器人旁边头部大概的位置",
+      "music": 0.0
+    },
+    {
+      "from": 240.15,
+      "to": 243.94,
+      "sid": 81,
+      "location": 2,
+      "content": "再用手腕再用手腕去进行一个微调",
+      "music": 0.0
+    },
+    {
+      "from": 243.94,
+      "to": 247.4,
+      "sid": 82,
+      "location": 2,
+      "content": "就用手腕去去瞄准他的头部",
+      "music": 0.0
+    },
+    {
+      "from": 247.4,
+      "to": 249.14,
+      "sid": 83,
+      "location": 2,
+      "content": "就比如我现在准星在他头",
+      "music": 0.0
+    },
+    {
+      "from": 249.14,
+      "to": 250.46,
+      "sid": 84,
+      "location": 2,
+      "content": "左边一点或者右边一点",
+      "music": 0.0
+    },
+    {
+      "from": 250.46,
+      "to": 253.46,
+      "sid": 85,
+      "location": 2,
+      "content": "那我就用手腕手腕稍微动一下",
+      "music": 0.0
+    },
+    {
+      "from": 253.46,
+      "to": 254.46,
+      "sid": 86,
+      "location": 2,
+      "content": "往左边动一下",
+      "music": 0.0
+    },
+    {
+      "from": 254.46,
+      "to": 257.38,
+      "sid": 87,
+      "location": 2,
+      "content": "然后这个时候就瞄准他的头上了",
+      "music": 0.0
+    },
+    {
+      "from": 257.74,
+      "to": 260.78,
+      "sid": 88,
+      "location": 2,
+      "content": "这就是一种这就是微调",
+      "music": 0.0
+    },
+    {
+      "from": 265.84,
+      "to": 267.82,
+      "sid": 89,
+      "location": 2,
+      "content": "先由快到慢",
+      "music": 0.0
+    },
+    {
+      "from": 267.82,
+      "to": 269.16,
+      "sid": 90,
+      "location": 2,
+      "content": "就是微调的操作",
+      "music": 0.0
+    },
+    {
+      "from": 269.16,
+      "to": 272.3,
+      "sid": 91,
+      "location": 2,
+      "content": "就是先移动快的移动到他头旁边",
+      "music": 0.0
+    },
+    {
+      "from": 272.3,
+      "to": 276.36,
+      "sid": 92,
+      "location": 2,
+      "content": "然后再慢下来就快慢开枪了",
+      "music": 0.0
+    },
+    {
+      "from": 276.36,
+      "to": 278.98,
+      "sid": 93,
+      "location": 2,
+      "content": "再我再做的明显一点啊",
+      "music": 0.0
+    },
+    {
+      "from": 278.98,
+      "to": 282.71,
+      "sid": 94,
+      "location": 2,
+      "content": "快快就是说移到他头旁边要快",
+      "music": 0.0
+    },
+    {
+      "from": 282.71,
+      "to": 284.43,
+      "sid": 95,
+      "location": 2,
+      "content": "你在他头旁边之后",
+      "music": 0.0
+    },
+    {
+      "from": 284.43,
+      "to": 285.73,
+      "sid": 96,
+      "location": 2,
+      "content": "然后慢下来",
+      "music": 0.0
+    },
+    {
+      "from": 285.73,
+      "to": 286.87,
+      "sid": 97,
+      "location": 2,
+      "content": "如果不在他头上",
+      "music": 0.0
+    },
+    {
+      "from": 286.87,
+      "to": 287.89,
+      "sid": 98,
+      "location": 2,
+      "content": "你就不要开枪",
+      "music": 0.0
+    },
+    {
+      "from": 287.89,
+      "to": 288.93,
+      "sid": 99,
+      "location": 2,
+      "content": "然后慢下来",
+      "music": 0.0
+    },
+    {
+      "from": 288.93,
+      "to": 290.93,
+      "sid": 100,
+      "location": 2,
+      "content": "准心对准他的头再开枪",
+      "music": 0.0
+    },
+    {
+      "from": 290.93,
+      "to": 293.03,
+      "sid": 101,
+      "location": 2,
+      "content": "这就是一个微调",
+      "music": 0.0
+    },
+    {
+      "from": 294.62,
+      "to": 297.24,
+      "sid": 102,
+      "location": 2,
+      "content": "那平时练习就是可以这样练油快",
+      "music": 0.0
+    },
+    {
+      "from": 297.24,
+      "to": 298.96,
+      "sid": 103,
+      "location": 2,
+      "content": "然后确认在他头上了",
+      "music": 0.0
+    },
+    {
+      "from": 298.96,
+      "to": 299.38,
+      "sid": 104,
+      "location": 2,
+      "content": "没",
+      "music": 0.0
+    },
+    {
+      "from": 299.38,
+      "to": 299.78,
+      "sid": 105,
+      "location": 2,
+      "content": "在他头上",
+      "music": 0.0
+    },
+    {
+      "from": 299.78,
+      "to": 300.82,
+      "sid": 106,
+      "location": 2,
+      "content": "你就调整一下",
+      "music": 0.0
+    },
+    {
+      "from": 300.82,
+      "to": 301.54,
+      "sid": 107,
+      "location": 2,
+      "content": "调整一下手部",
+      "music": 0.0
+    },
+    {
+      "from": 301.54,
+      "to": 303.15,
+      "sid": 108,
+      "location": 2,
+      "content": "或者调整一下你的身子",
+      "music": 0.0
+    },
+    {
+      "from": 303.15,
+      "to": 307.399,
+      "sid": 109,
+      "location": 2,
+      "content": "用用你的身子跟你的手部一起去移动去微调",
+      "music": 0.0
+    },
+    {
+      "from": 307.399,
+      "to": 310.319,
+      "sid": 110,
+      "location": 2,
+      "content": "而不是说就光用身子微调",
+      "music": 0.0
+    },
+    {
+      "from": 310.319,
+      "to": 312.139,
+      "sid": 111,
+      "location": 2,
+      "content": "或者光用手部去微调",
+      "music": 0.0
+    },
+    {
+      "from": 312.139,
+      "to": 315.3,
+      "sid": 112,
+      "location": 2,
+      "content": "这样你在实战中你是打不打不中人的",
+      "music": 0.0
+    },
+    {
+      "from": 316.46,
+      "to": 319.54,
+      "sid": 113,
+      "location": 2,
+      "content": "实战中你调微调的话是打不中人的",
+      "music": 0.0
+    },
+    {
+      "from": 319.54,
+      "to": 320.3,
+      "sid": 114,
+      "location": 2,
+      "content": "实战中",
+      "music": 0.0
+    },
+    {
+      "from": 320.3,
+      "to": 324.04,
+      "sid": 115,
+      "location": 2,
+      "content": "你就是要利用移动跟你的手部的一个左右",
+      "music": 0.0
+    },
+    {
+      "from": 324.04,
+      "to": 326.71,
+      "sid": 116,
+      "location": 2,
+      "content": "左右微调去控制这个准星",
+      "music": 0.0
+    },
+    {
+      "from": 326.71,
+      "to": 329.45,
+      "sid": 117,
+      "location": 2,
+      "content": "让他时刻保持在这个人的头旁边",
+      "music": 0.0
+    },
+    {
+      "from": 329.45,
+      "to": 332.58,
+      "sid": 118,
+      "location": 2,
+      "content": "然后在你开枪对就能打中他的头",
+      "music": 0.0
+    },
+    {
+      "from": 332.98,
+      "to": 334.14,
+      "sid": 119,
+      "location": 2,
+      "content": "还有预判性的微调",
+      "music": 0.0
+    },
+    {
+      "from": 334.14,
+      "to": 336.56,
+      "sid": 120,
+      "location": 2,
+      "content": "就是需要你去多打实战",
+      "music": 0.0
+    },
+    {
+      "from": 336.56,
+      "to": 337.48,
+      "sid": 121,
+      "location": 2,
+      "content": "多打实战",
+      "music": 0.0
+    },
+    {
+      "from": 337.48,
+      "to": 338.8,
+      "sid": 122,
+      "location": 2,
+      "content": "那些人怎么动对吧",
+      "music": 0.0
+    },
+    {
+      "from": 338.8,
+      "to": 341.16,
+      "sid": 123,
+      "location": 2,
+      "content": "你去预判他移动到呃",
+      "music": 0.0
+    },
+    {
+      "from": 341.16,
+      "to": 342.44,
+      "sid": 124,
+      "location": 2,
+      "content": "移动到你的准心里",
+      "music": 0.0
+    },
+    {
+      "from": 342.44,
+      "to": 344.32,
+      "sid": 125,
+      "location": 2,
+      "content": "然后你就可以开枪",
+      "music": 0.0
+    },
+    {
+      "from": 344.32,
+      "to": 347.72,
+      "sid": 126,
+      "location": 2,
+      "content": "就等他自己走到你的准心里来",
+      "music": 0.0
+    },
+    {
+      "from": 351.28,
+      "to": 353.0,
+      "sid": 127,
+      "location": 2,
+      "content": "来吧走起",
+      "music": 0.0
+    },
+    {
+      "from": 353.0,
+      "to": 355.25,
+      "sid": 128,
+      "location": 2,
+      "content": "东西还给我主人",
+      "music": 0.0
+    },
+    {
+      "from": 355.25,
+      "to": 357.19,
+      "sid": 129,
+      "location": 2,
+      "content": "你过瘾了",
+      "music": 0.0
+    },
+    {
+      "from": 357.19,
+      "to": 359.45,
+      "sid": 130,
+      "location": 2,
+      "content": "该轮到我了",
+      "music": 0.0
+    },
+    {
+      "from": 363.6,
+      "to": 365.8,
+      "sid": 131,
+      "location": 2,
+      "content": "还剩一秒",
+      "music": 0.0
+    },
+    {
+      "from": 368.3,
+      "to": 369.84,
+      "sid": 132,
+      "location": 2,
+      "content": "首先看到这个雷纳的眼",
+      "music": 0.0
+    },
+    {
+      "from": 369.84,
+      "to": 373.82,
+      "sid": 133,
+      "location": 2,
+      "content": "我们不应该不应该还直架在这这个门口",
+      "music": 0.0
+    },
+    {
+      "from": 373.82,
+      "to": 376.5,
+      "sid": 134,
+      "location": 2,
+      "content": "我们应该躲到掩体后面",
+      "music": 0.0
+    },
+    {
+      "from": 376.5,
+      "to": 379.06,
+      "sid": 135,
+      "location": 2,
+      "content": "所以说那我们看后面",
+      "music": 0.0
+    },
+    {
+      "from": 380.1,
+      "to": 383.489,
+      "sid": 136,
+      "location": 2,
+      "content": "哎呀妈这个时候我躲在了掩体后面",
+      "music": 0.0
+    },
+    {
+      "from": 383.489,
+      "to": 385.889,
+      "sid": 137,
+      "location": 2,
+      "content": "然后看我的准星放置在哪里",
+      "music": 0.0
+    },
+    {
+      "from": 385.889,
+      "to": 388.749,
+      "sid": 138,
+      "location": 2,
+      "content": "我拉出去这个准星就不需要动",
+      "music": 0.0
+    },
+    {
+      "from": 388.749,
+      "to": 394.99,
+      "sid": 139,
+      "location": 2,
+      "content": "直接按左键就能轻松取得一个击杀走起",
+      "music": 0.0
+    },
+    {
+      "from": 395.31,
+      "to": 396.83,
+      "sid": 140,
+      "location": 2,
+      "content": "这个时候蕾娜",
+      "music": 0.0
+    },
+    {
+      "from": 396.83,
+      "to": 401.39,
+      "sid": 141,
+      "location": 2,
+      "content": "蕾娜就被我像用预瞄这个击杀方式给击杀了",
+      "music": 0.0
+    },
+    {
+      "from": 401.39,
+      "to": 405.74,
+      "sid": 142,
+      "location": 2,
+      "content": "然后接着看左边那个左边那个木碟",
+      "music": 0.0
+    },
+    {
+      "from": 405.74,
+      "to": 407.44,
+      "sid": 143,
+      "location": 2,
+      "content": "由于距离太远",
+      "music": 0.0
+    },
+    {
+      "from": 408.72,
+      "to": 409.64,
+      "sid": 144,
+      "location": 2,
+      "content": "距离太远的话",
+      "music": 0.0
+    },
+    {
+      "from": 409.64,
+      "to": 413.889,
+      "sid": 145,
+      "location": 2,
+      "content": "我就想着用移动去微调我的准心",
+      "music": 0.0
+    },
+    {
+      "from": 413.889,
+      "to": 415.829,
+      "sid": 146,
+      "location": 2,
+      "content": "就微调我的瞄准",
+      "music": 0.0
+    },
+    {
+      "from": 415.829,
+      "to": 418.249,
+      "sid": 147,
+      "location": 2,
+      "content": "这时候我就用移动去瞄准他的头",
+      "music": 0.0
+    },
+    {
+      "from": 418.249,
+      "to": 420.78,
+      "sid": 148,
+      "location": 2,
+      "content": "而不是用准心去瞄准他的头",
+      "music": 0.0
+    },
+    {
+      "from": 421.14,
+      "to": 423.38,
+      "sid": 149,
+      "location": 2,
+      "content": "东西还给我看到没",
+      "music": 0.0
+    },
+    {
+      "from": 423.38,
+      "to": 426.16,
+      "sid": 150,
+      "location": 2,
+      "content": "左右移动ADAD的移动",
+      "music": 0.0
+    },
+    {
+      "from": 426.16,
+      "to": 427.38,
+      "sid": 151,
+      "location": 2,
+      "content": "然后你们再看一下",
+      "music": 0.0
+    },
+    {
+      "from": 427.38,
+      "to": 428.0,
+      "sid": 152,
+      "location": 2,
+      "content": "慢放啊",
+      "music": 0.0
+    },
+    {
+      "from": 428.0,
+      "to": 429.27,
+      "sid": 153,
+      "location": 2,
+      "content": "慢放就是这样",
+      "music": 0.0
+    },
+    {
+      "from": 429.27,
+      "to": 431.81,
+      "sid": 154,
+      "location": 2,
+      "content": "卧槽你过瘾了",
+      "music": 0.35064932787989844
+    },
+    {
+      "from": 431.81,
+      "to": 433.11,
+      "sid": 155,
+      "location": 2,
+      "content": "该轮到我了",
+      "music": 0.0
+    },
+    {
+      "from": 433.11,
+      "to": 434.55,
+      "sid": 156,
+      "location": 2,
+      "content": "往前压",
+      "music": 0.0
+    },
+    {
+      "from": 436.5,
+      "to": 437.86,
+      "sid": 157,
+      "location": 2,
+      "content": "莫迪把他打死之后",
+      "music": 0.0
+    },
+    {
+      "from": 437.86,
+      "to": 440.1,
+      "sid": 158,
+      "location": 2,
+      "content": "我立马进行一个补枪",
+      "music": 0.0
+    },
+    {
+      "from": 441.54,
+      "to": 443.82,
+      "sid": 159,
+      "location": 2,
+      "content": "从这里飞出去飞出去",
+      "music": 0.0
+    },
+    {
+      "from": 443.82,
+      "to": 447.08,
+      "sid": 160,
+      "location": 2,
+      "content": "这个时候就利用到我的手部的一个微调了",
+      "music": 0.0
+    },
+    {
+      "from": 447.08,
+      "to": 449.69,
+      "sid": 161,
+      "location": 2,
+      "content": "我就不会用身体去进行微调了",
+      "music": 0.0
+    },
+    {
+      "from": 449.69,
+      "to": 454.59,
+      "sid": 162,
+      "location": 2,
+      "content": "三个打这个都是用手部的一个微调",
+      "music": 0.0
+    },
+    {
+      "from": 454.59,
+      "to": 456.67,
+      "sid": 163,
+      "location": 2,
+      "content": "你微调只要做的足够快",
+      "music": 0.0
+    },
+    {
+      "from": 456.67,
+      "to": 461.72,
+      "sid": 164,
+      "location": 2,
+      "content": "那么你的击杀效率也就也就足够快",
+      "music": 0.0
+    },
+    {
+      "from": 463.62,
+      "to": 466.72,
+      "sid": 165,
+      "location": 2,
+      "content": "微调需要建立在你学会预瞄的情况下进行",
+      "music": 0.0
+    },
+    {
+      "from": 466.72,
+      "to": 468.28,
+      "sid": 166,
+      "location": 2,
+      "content": "这样才能事半功倍",
+      "music": 0.0
+    },
+    {
+      "from": 468.28,
+      "to": 470.58,
+      "sid": 167,
+      "location": 2,
+      "content": "好的预瞄和好的调微调能力",
+      "music": 0.0
+    },
+    {
+      "from": 470.58,
+      "to": 472.53,
+      "sid": 168,
+      "location": 2,
+      "content": "能使你瞄准更加轻松",
+      "music": 0.0
+    },
+    {
+      "from": 472.57,
+      "to": 476.13,
+      "sid": 169,
+      "location": 2,
+      "content": "那本期微调的讲解教学就结束了",
+      "music": 0.0
+    },
+    {
+      "from": 476.13,
+      "to": 478.99,
+      "sid": 170,
+      "location": 2,
+      "content": "有更多细节方面的问题可以私信我",
+      "music": 0.0
+    },
+    {
+      "from": 478.99,
+      "to": 480.94,
+      "sid": 171,
+      "location": 2,
+      "content": "看到我我都会一一回复的",
+      "music": 0.0
+    },
+    {
+      "from": 480.94,
+      "to": 483.32,
+      "sid": 172,
+      "location": 2,
+      "content": "那么我们下期视频再见啦",
+      "music": 0.0
+    },
+    {
+      "from": 483.32,
+      "to": 484.24,
+      "sid": 173,
+      "location": 2,
+      "content": "拜拜",
+      "music": 0.0
+    }
+  ]
+}

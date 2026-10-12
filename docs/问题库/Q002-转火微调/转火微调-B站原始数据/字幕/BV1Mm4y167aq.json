@@ -1,0 +1,1366 @@
+{
+  "bvid": "BV1Mm4y167aq",
+  "status": "ok lang=ai-zh",
+  "segments": [
+    {
+      "from": 0.6,
+      "to": 1.14,
+      "sid": 1,
+      "location": 2,
+      "content": "哈喽大家好",
+      "music": 0.0
+    },
+    {
+      "from": 1.14,
+      "to": 2.04,
+      "sid": 2,
+      "location": 2,
+      "content": "我是卡子",
+      "music": 0.0
+    },
+    {
+      "from": 2.04,
+      "to": 4.5,
+      "sid": 3,
+      "location": 2,
+      "content": "前两天有小伙伴在评论区以及私信问我",
+      "music": 0.0
+    },
+    {
+      "from": 4.5,
+      "to": 5.96,
+      "sid": 4,
+      "location": 2,
+      "content": "该如何练好微调",
+      "music": 0.0
+    },
+    {
+      "from": 5.96,
+      "to": 7.22,
+      "sid": 5,
+      "location": 2,
+      "content": "承蒙你们的关注",
+      "music": 0.0
+    },
+    {
+      "from": 7.22,
+      "to": 9.08,
+      "sid": 6,
+      "location": 2,
+      "content": "我赶出了这期教学视频",
+      "music": 0.0
+    },
+    {
+      "from": 9.08,
+      "to": 11.72,
+      "sid": 7,
+      "location": 2,
+      "content": "我花了两个月从钻石上到神话二",
+      "music": 0.0
+    },
+    {
+      "from": 11.72,
+      "to": 13.94,
+      "sid": 8,
+      "location": 2,
+      "content": "我的EW9000是170",
+      "music": 0.0
+    },
+    {
+      "from": 13.94,
+      "to": 16.66,
+      "sid": 9,
+      "location": 2,
+      "content": "而RM cw3是2990",
+      "music": 0.0
+    },
+    {
+      "from": 16.66,
+      "to": 18.22,
+      "sid": 10,
+      "location": 2,
+      "content": "作为两个热门项目的前排",
+      "music": 0.0
+    },
+    {
+      "from": 18.22,
+      "to": 20.47,
+      "sid": 11,
+      "location": 2,
+      "content": "我认为我对微调还是有一定理解的",
+      "music": 0.0
+    },
+    {
+      "from": 20.47,
+      "to": 22.81,
+      "sid": 12,
+      "location": 2,
+      "content": "如果你能理解并学习到我所讲的内容",
+      "music": 0.0
+    },
+    {
+      "from": 22.81,
+      "to": 25.1,
+      "sid": 13,
+      "location": 2,
+      "content": "微调与瞄准一定会有所提升",
+      "music": 0.0
+    },
+    {
+      "from": 25.1,
+      "to": 26.78,
+      "sid": 14,
+      "location": 2,
+      "content": "这期视频全是干货",
+      "music": 0.0
+    },
+    {
+      "from": 26.78,
+      "to": 28.58,
+      "sid": 15,
+      "location": 2,
+      "content": "但讲的不止限于瞄准",
+      "music": 0.0
+    },
+    {
+      "from": 28.58,
+      "to": 30.2,
+      "sid": 16,
+      "location": 2,
+      "content": "结尾部分有提到实战",
+      "music": 0.0
+    },
+    {
+      "from": 30.2,
+      "to": 31.64,
+      "sid": 17,
+      "location": 2,
+      "content": "感谢一键三连",
+      "music": 0.0
+    },
+    {
+      "from": 31.64,
+      "to": 32.24,
+      "sid": 18,
+      "location": 2,
+      "content": "好了",
+      "music": 0.0
+    },
+    {
+      "from": 32.24,
+      "to": 32.9,
+      "sid": 19,
+      "location": 2,
+      "content": "废话不多说",
+      "music": 0.0
+    },
+    {
+      "from": 32.9,
+      "to": 34.0,
+      "sid": 20,
+      "location": 2,
+      "content": "开始详解",
+      "music": 0.0
+    },
+    {
+      "from": 34.0,
+      "to": 35.56,
+      "sid": 21,
+      "location": 2,
+      "content": "下面要讲的都是我实践过的",
+      "music": 0.0
+    },
+    {
+      "from": 35.56,
+      "to": 37.24,
+      "sid": 22,
+      "location": 2,
+      "content": "瞄准理论与底层逻辑",
+      "music": 0.0
+    },
+    {
+      "from": 37.24,
+      "to": 38.54,
+      "sid": 23,
+      "location": 2,
+      "content": "可放心食用",
+      "music": 0.0
+    },
+    {
+      "from": 38.54,
+      "to": 40.19,
+      "sid": 24,
+      "location": 2,
+      "content": "瞄准有两种情况",
+      "music": 0.0
+    },
+    {
+      "from": 40.19,
+      "to": 43.64,
+      "sid": 25,
+      "location": 2,
+      "content": "一种是目标位置在聚焦范围内需要微调",
+      "music": 0.0
+    },
+    {
+      "from": 43.64,
+      "to": 45.74,
+      "sid": 26,
+      "location": 2,
+      "content": "另一种是目标位置在余光范围内",
+      "music": 0.0
+    },
+    {
+      "from": 45.74,
+      "to": 47.16,
+      "sid": 27,
+      "location": 2,
+      "content": "需要拉枪架微调",
+      "music": 0.0
+    },
+    {
+      "from": 47.16,
+      "to": 49.98,
+      "sid": 28,
+      "location": 2,
+      "content": "先着重讲讲聚焦范围内的微调",
+      "music": 0.0
+    },
+    {
+      "from": 49.98,
+      "to": 50.7,
+      "sid": 29,
+      "location": 2,
+      "content": "关于微调",
+      "music": 0.0
+    },
+    {
+      "from": 50.7,
+      "to": 53.22,
+      "sid": 30,
+      "location": 2,
+      "content": "我要讲的第一点是眼睛比手先到",
+      "music": 0.0
+    },
+    {
+      "from": 53.22,
+      "to": 56.94,
+      "sid": 31,
+      "location": 2,
+      "content": "也是老生常谈中手眼协调中的一项意思",
+      "music": 0.0
+    },
+    {
+      "from": 56.94,
+      "to": 58.68,
+      "sid": 32,
+      "location": 2,
+      "content": "就是在瞄准特别是微调时",
+      "music": 0.0
+    },
+    {
+      "from": 58.68,
+      "to": 61.17,
+      "sid": 33,
+      "location": 2,
+      "content": "你的眼睛要尽力全程聚焦目标",
+      "music": 0.0
+    },
+    {
+      "from": 61.17,
+      "to": 64.61,
+      "sid": 34,
+      "location": 2,
+      "content": "并且你的目光要比准星先到目标上",
+      "music": 0.0
+    },
+    {
+      "from": 64.61,
+      "to": 66.1,
+      "sid": 35,
+      "location": 2,
+      "content": "这是瞄准的精髓之一",
+      "music": 0.0
+    },
+    {
+      "from": 66.1,
+      "to": 66.76,
+      "sid": 36,
+      "location": 2,
+      "content": "一定要牢记",
+      "music": 0.0
+    },
+    {
+      "from": 66.76,
+      "to": 68.38,
+      "sid": 37,
+      "location": 2,
+      "content": "如果你瞄准中特别是微调时",
+      "music": 0.0
+    },
+    {
+      "from": 68.38,
+      "to": 70.18,
+      "sid": 38,
+      "location": 2,
+      "content": "没有做好准确阅读目标位置",
+      "music": 0.0
+    },
+    {
+      "from": 70.18,
+      "to": 72.06,
+      "sid": 39,
+      "location": 2,
+      "content": "就盲目地移动鼠标",
+      "music": 0.0
+    },
+    {
+      "from": 72.06,
+      "to": 74.88,
+      "sid": 40,
+      "location": 2,
+      "content": "就会出现要么准星超出目标位置很远",
+      "music": 0.0
+    },
+    {
+      "from": 74.88,
+      "to": 77.13,
+      "sid": 41,
+      "location": 2,
+      "content": "要么离目标位置很远的情况",
+      "music": 0.0
+    },
+    {
+      "from": 77.13,
+      "to": 79.98,
+      "sid": 42,
+      "location": 2,
+      "content": "你要做的就是当目标在聚焦范围内时",
+      "music": 0.0
+    },
+    {
+      "from": 79.98,
+      "to": 82.14,
+      "sid": 43,
+      "location": 2,
+      "content": "尽你最快的速度聚焦住目标",
+      "music": 0.0
+    },
+    {
+      "from": 82.14,
+      "to": 84.16,
+      "sid": 44,
+      "location": 2,
+      "content": "使用余光观察准星",
+      "music": 0.0
+    },
+    {
+      "from": 84.16,
+      "to": 85.54,
+      "sid": 45,
+      "location": 2,
+      "content": "在移动准星的过程中",
+      "music": 0.0
+    },
+    {
+      "from": 85.54,
+      "to": 87.34,
+      "sid": 46,
+      "location": 2,
+      "content": "用余光感受准星的速度",
+      "music": 0.0
+    },
+    {
+      "from": 87.34,
+      "to": 90.16,
+      "sid": 47,
+      "location": 2,
+      "content": "控制好发力时准心不要超过目标",
+      "music": 0.0
+    },
+    {
+      "from": 90.16,
+      "to": 93.26,
+      "sid": 48,
+      "location": 2,
+      "content": "从而在准星与目标重合的一瞬间开枪",
+      "music": 0.0
+    },
+    {
+      "from": 93.26,
+      "to": 94.76,
+      "sid": 49,
+      "location": 2,
+      "content": "按下左键的那一刻",
+      "music": 0.0
+    },
+    {
+      "from": 94.76,
+      "to": 97.13,
+      "sid": 50,
+      "location": 2,
+      "content": "在聚焦下一个微调范围内的目标",
+      "music": 0.0
+    },
+    {
+      "from": 97.13,
+      "to": 98.66,
+      "sid": 51,
+      "location": 2,
+      "content": "以此往复而移动",
+      "music": 0.0
+    },
+    {
+      "from": 98.66,
+      "to": 100.94,
+      "sid": 52,
+      "location": 2,
+      "content": "准星的速度与你的熟练度成正比",
+      "music": 0.0
+    },
+    {
+      "from": 100.94,
+      "to": 104.06,
+      "sid": 53,
+      "location": 2,
+      "content": "通过认真阅读目标位置与合理控制发力",
+      "music": 0.0
+    },
+    {
+      "from": 104.06,
+      "to": 107.33,
+      "sid": 54,
+      "location": 2,
+      "content": "慢慢练习就可以提升微调式的速度与准确度",
+      "music": 0.0
+    },
+    {
+      "from": 107.33,
+      "to": 109.28,
+      "sid": 55,
+      "location": 2,
+      "content": "记住不要甩甩",
+      "music": 0.0
+    },
+    {
+      "from": 109.28,
+      "to": 112.1,
+      "sid": 56,
+      "location": 2,
+      "content": "是观察不到准心与目标的相对位置的",
+      "music": 0.0
+    },
+    {
+      "from": 112.1,
+      "to": 115.1,
+      "sid": 57,
+      "location": 2,
+      "content": "而关于抓到准星与目标重合的一瞬间去开枪",
+      "music": 0.0
+    },
+    {
+      "from": 115.1,
+      "to": 118.22,
+      "sid": 58,
+      "location": 2,
+      "content": "大家如果看这格顶分局练枪大佬",
+      "music": 0.0
+    },
+    {
+      "from": 118.22,
+      "to": 119.12,
+      "sid": 59,
+      "location": 2,
+      "content": "他们的第一视角",
+      "music": 0.0
+    },
+    {
+      "from": 119.12,
+      "to": 122.06,
+      "sid": 60,
+      "location": 2,
+      "content": "就会发现他们的确认时间是非常短的",
+      "music": 0.0
+    },
+    {
+      "from": 122.06,
+      "to": 123.68,
+      "sid": 61,
+      "location": 2,
+      "content": "几乎没有确认时间",
+      "music": 0.0
+    },
+    {
+      "from": 123.68,
+      "to": 125.06,
+      "sid": 62,
+      "location": 2,
+      "content": "所以我们想变强",
+      "music": 0.0
+    },
+    {
+      "from": 125.06,
+      "to": 127.56,
+      "sid": 63,
+      "location": 2,
+      "content": "也需要训练来减少我们的确认时间",
+      "music": 0.0
+    },
+    {
+      "from": 127.56,
+      "to": 129.93,
+      "sid": 64,
+      "location": 2,
+      "content": "要做的就是用心聚焦好目标",
+      "music": 0.0
+    },
+    {
+      "from": 129.93,
+      "to": 132.45,
+      "sid": 65,
+      "location": 2,
+      "content": "用余光感受准星的速度与距离",
+      "music": 0.0
+    },
+    {
+      "from": 132.45,
+      "to": 134.0,
+      "sid": 66,
+      "location": 2,
+      "content": "就像是写字一样",
+      "music": 0.0
+    },
+    {
+      "from": 134.0,
+      "to": 135.86,
+      "sid": 67,
+      "location": 2,
+      "content": "鼠标滑到了目标身上",
+      "music": 0.0
+    },
+    {
+      "from": 135.86,
+      "to": 138.0,
+      "sid": 68,
+      "location": 2,
+      "content": "而不是甩到目标身上",
+      "music": 0.0
+    },
+    {
+      "from": 138.0,
+      "to": 140.55,
+      "sid": 69,
+      "location": 2,
+      "content": "在刚刚好重合的那一刻开枪",
+      "music": 0.0
+    },
+    {
+      "from": 140.55,
+      "to": 141.96,
+      "sid": 70,
+      "location": 2,
+      "content": "尽量不要划过头",
+      "music": 0.0
+    },
+    {
+      "from": 143.28,
+      "to": 144.96,
+      "sid": 71,
+      "location": 2,
+      "content": "就算重合型的移动速度很慢",
+      "music": 0.0
+    },
+    {
+      "from": 144.96,
+      "to": 146.06,
+      "sid": 72,
+      "location": 2,
+      "content": "也没有关系",
+      "music": 0.0
+    },
+    {
+      "from": 146.06,
+      "to": 147.68,
+      "sid": 73,
+      "location": 2,
+      "content": "随着熟练度的提升",
+      "music": 0.0
+    },
+    {
+      "from": 147.68,
+      "to": 148.79,
+      "sid": 74,
+      "location": 2,
+      "content": "速度也会提升",
+      "music": 0.0
+    },
+    {
+      "from": 148.79,
+      "to": 150.77,
+      "sid": 75,
+      "location": 2,
+      "content": "但要记住前提是重合",
+      "music": 0.0
+    },
+    {
+      "from": 150.77,
+      "to": 152.12,
+      "sid": 76,
+      "location": 2,
+      "content": "不要移动鼠标后",
+      "music": 0.0
+    },
+    {
+      "from": 152.12,
+      "to": 153.56,
+      "sid": 77,
+      "location": 2,
+      "content": "就想当然的开枪",
+      "music": 0.0
+    },
+    {
+      "from": 153.56,
+      "to": 155.96,
+      "sid": 78,
+      "location": 2,
+      "content": "多去找重合那一刹那的感觉",
+      "music": 0.0
+    },
+    {
+      "from": 155.96,
+      "to": 158.44,
+      "sid": 79,
+      "location": 2,
+      "content": "多去用余光感受准星的速度",
+      "music": 0.0
+    },
+    {
+      "from": 158.44,
+      "to": 161.0,
+      "sid": 80,
+      "location": 2,
+      "content": "让大脑习惯这个过程",
+      "music": 0.0
+    },
+    {
+      "from": 161.0,
+      "to": 164.0,
+      "sid": 81,
+      "location": 2,
+      "content": "这个过程与感觉也会随着熟练度的提升",
+      "music": 0.0
+    },
+    {
+      "from": 164.0,
+      "to": 164.9,
+      "sid": 82,
+      "location": 2,
+      "content": "潜移默化的存在",
+      "music": 0.0
+    },
+    {
+      "from": 164.9,
+      "to": 166.49,
+      "sid": 83,
+      "location": 2,
+      "content": "在我们的下意识的反应里",
+      "music": 0.0
+    },
+    {
+      "from": 166.49,
+      "to": 167.24,
+      "sid": 84,
+      "location": 2,
+      "content": "有时候",
+      "music": 0.0
+    },
+    {
+      "from": 167.24,
+      "to": 167.9,
+      "sid": 85,
+      "location": 2,
+      "content": "下意识的反应",
+      "music": 0.0
+    },
+    {
+      "from": 167.9,
+      "to": 172.02,
+      "sid": 86,
+      "location": 2,
+      "content": "往往比有意识的反应来得更迅速与准确",
+      "music": 0.0
+    },
+    {
+      "from": 172.02,
+      "to": 174.39,
+      "sid": 87,
+      "location": 2,
+      "content": "而当目标出现在余光范围里",
+      "music": 0.0
+    },
+    {
+      "from": 174.39,
+      "to": 177.54,
+      "sid": 88,
+      "location": 2,
+      "content": "也就是说准星与目标的距离较远时",
+      "music": 0.0
+    },
+    {
+      "from": 177.54,
+      "to": 180.82,
+      "sid": 89,
+      "location": 2,
+      "content": "要用余光尽量获取目标的大概位置",
+      "music": 0.0
+    },
+    {
+      "from": 180.82,
+      "to": 182.77,
+      "sid": 90,
+      "location": 2,
+      "content": "然后用力移动准星",
+      "music": 0.0
+    },
+    {
+      "from": 182.77,
+      "to": 185.02,
+      "sid": 91,
+      "location": 2,
+      "content": "随着准星与目标的接近",
+      "music": 0.0
+    },
+    {
+      "from": 185.02,
+      "to": 187.42,
+      "sid": 92,
+      "location": 2,
+      "content": "在移动的过程中尽量聚焦目标",
+      "music": 0.0
+    },
+    {
+      "from": 187.42,
+      "to": 189.4,
+      "sid": 93,
+      "location": 2,
+      "content": "然后重复微调时的步骤",
+      "music": 0.0
+    },
+    {
+      "from": 189.4,
+      "to": 190.57,
+      "sid": 94,
+      "location": 2,
+      "content": "要注意的是",
+      "music": 0.0
+    },
+    {
+      "from": 190.57,
+      "to": 192.22,
+      "sid": 95,
+      "location": 2,
+      "content": "可以在快接近时减速",
+      "music": 0.0
+    },
+    {
+      "from": 192.22,
+      "to": 193.39,
+      "sid": 96,
+      "location": 2,
+      "content": "但不要移过头",
+      "music": 0.0
+    },
+    {
+      "from": 193.39,
+      "to": 195.2,
+      "sid": 97,
+      "location": 2,
+      "content": "我说的用力指的不是甩",
+      "music": 0.0
+    },
+    {
+      "from": 195.2,
+      "to": 196.94,
+      "sid": 98,
+      "location": 2,
+      "content": "而是提高拉枪速度",
+      "music": 0.0
+    },
+    {
+      "from": 196.94,
+      "to": 199.72,
+      "sid": 99,
+      "location": 2,
+      "content": "使目标快速进入我们的微调范围内",
+      "music": 0.0
+    },
+    {
+      "from": 199.72,
+      "to": 201.7,
+      "sid": 100,
+      "location": 2,
+      "content": "然后用微调的方式开枪",
+      "music": 0.0
+    },
+    {
+      "from": 201.7,
+      "to": 204.01,
+      "sid": 101,
+      "location": 2,
+      "content": "最好把整个过程都衔接起来",
+      "music": 0.0
+    },
+    {
+      "from": 204.01,
+      "to": 207.2,
+      "sid": 102,
+      "location": 2,
+      "content": "熟练度的提高会使衔接的过程看起来更加丝滑",
+      "music": 0.0
+    },
+    {
+      "from": 207.2,
+      "to": 208.04,
+      "sid": 103,
+      "location": 2,
+      "content": "扩展一下",
+      "music": 0.0
+    },
+    {
+      "from": 208.04,
+      "to": 210.02,
+      "sid": 104,
+      "location": 2,
+      "content": "我相信热爱FPS的小伙伴",
+      "music": 0.0
+    },
+    {
+      "from": 210.02,
+      "to": 211.46,
+      "sid": 105,
+      "location": 2,
+      "content": "都一定经历过自己的握法",
+      "music": 0.0
+    },
+    {
+      "from": 211.46,
+      "to": 212.66,
+      "sid": 106,
+      "location": 2,
+      "content": "我直接给出结论",
+      "music": 0.0
+    },
+    {
+      "from": 212.66,
+      "to": 213.14,
+      "sid": 107,
+      "location": 2,
+      "content": "放弃他",
+      "music": 0.0
+    },
+    {
+      "from": 213.14,
+      "to": 215.35,
+      "sid": 108,
+      "location": 2,
+      "content": "我我不否认有使用power的高手",
+      "music": 0.0
+    },
+    {
+      "from": 215.35,
+      "to": 216.76,
+      "sid": 109,
+      "location": 2,
+      "content": "但从理论上来讲",
+      "music": 0.0
+    },
+    {
+      "from": 216.76,
+      "to": 219.56,
+      "sid": 110,
+      "location": 2,
+      "content": "瞄准是需要手的各个部位都参与发力的",
+      "music": 0.0
+    },
+    {
+      "from": 219.56,
+      "to": 223.16,
+      "sid": 111,
+      "location": 2,
+      "content": "简单的说就是他我会无形中锁定你的手腕",
+      "music": 0.0
+    },
+    {
+      "from": 223.16,
+      "to": 224.93,
+      "sid": 112,
+      "location": 2,
+      "content": "导致你的手腕不参与瞄准",
+      "music": 0.0
+    },
+    {
+      "from": 224.93,
+      "to": 227.94,
+      "sid": 113,
+      "location": 2,
+      "content": "而手腕的微调是比手臂快和准很多的",
+      "music": 0.0
+    },
+    {
+      "from": 227.94,
+      "to": 229.26,
+      "sid": 114,
+      "location": 2,
+      "content": "就算是手臂流的玩家",
+      "music": 0.0
+    },
+    {
+      "from": 229.26,
+      "to": 231.18,
+      "sid": 115,
+      "location": 2,
+      "content": "他们的手腕也会或多或少的参与瞄准",
+      "music": 0.0
+    },
+    {
+      "from": 231.18,
+      "to": 234.08,
+      "sid": 116,
+      "location": 2,
+      "content": "所以请尽量选择抓握或者指握",
+      "music": 0.0
+    },
+    {
+      "from": 234.08,
+      "to": 237.62,
+      "sid": 117,
+      "location": 2,
+      "content": "我认为去软件里面专项拔高自己的瞄准能力",
+      "music": 0.0
+    },
+    {
+      "from": 237.62,
+      "to": 238.76,
+      "sid": 118,
+      "location": 2,
+      "content": "是十分有用的",
+      "music": 0.0
+    },
+    {
+      "from": 238.76,
+      "to": 239.96,
+      "sid": 119,
+      "location": 2,
+      "content": "但我希望大家明白",
+      "music": 0.0
+    },
+    {
+      "from": 239.96,
+      "to": 242.15,
+      "sid": 120,
+      "location": 2,
+      "content": "瞄准能力只是实战水平的一部分",
+      "music": 0.0
+    },
+    {
+      "from": 242.15,
+      "to": 244.34,
+      "sid": 121,
+      "location": 2,
+      "content": "标注软件分数的魔怔人",
+      "music": 0.0
+    },
+    {
+      "from": 244.34,
+      "to": 246.44,
+      "sid": 122,
+      "location": 2,
+      "content": "心态与状态也是非常重要的",
+      "music": 0.0
+    },
+    {
+      "from": 246.44,
+      "to": 247.79,
+      "sid": 123,
+      "location": 2,
+      "content": "甚至等同于瞄准",
+      "music": 0.0
+    },
+    {
+      "from": 247.79,
+      "to": 249.92,
+      "sid": 124,
+      "location": 2,
+      "content": "想提升就把实战中站着不动",
+      "music": 0.0
+    },
+    {
+      "from": 249.92,
+      "to": 252.34,
+      "sid": 125,
+      "location": 2,
+      "content": "对枪见人就蹲的坏习惯给改掉",
+      "music": 0.0
+    },
+    {
+      "from": 252.34,
+      "to": 254.86,
+      "sid": 126,
+      "location": 2,
+      "content": "否则你的分数打的再高也是没有意义的",
+      "music": 0.0
+    },
+    {
+      "from": 256.959,
+      "to": 257.739,
+      "sid": 127,
+      "location": 2,
+      "content": "在实战里",
+      "music": 0.0
+    },
+    {
+      "from": 257.739,
+      "to": 260.679,
+      "sid": 128,
+      "location": 2,
+      "content": "我们大部分时候都该把注意力只放在目标头上",
+      "music": 0.0
+    },
+    {
+      "from": 260.679,
+      "to": 261.899,
+      "sid": 129,
+      "location": 2,
+      "content": "不要想太多",
+      "music": 0.0
+    },
+    {
+      "from": 261.899,
+      "to": 263.099,
+      "sid": 130,
+      "location": 2,
+      "content": "过多的注意发力",
+      "music": 0.0
+    },
+    {
+      "from": 263.099,
+      "to": 263.849,
+      "sid": 131,
+      "location": 2,
+      "content": "手抖姿势",
+      "music": 0.0
+    },
+    {
+      "from": 263.849,
+      "to": 264.899,
+      "sid": 132,
+      "location": 2,
+      "content": "瞄准的步骤等等",
+      "music": 0.0
+    },
+    {
+      "from": 264.899,
+      "to": 266.48,
+      "sid": 133,
+      "location": 2,
+      "content": "都反而会搅乱我们的大脑",
+      "music": 0.0
+    },
+    {
+      "from": 266.48,
+      "to": 267.38,
+      "sid": 134,
+      "location": 2,
+      "content": "思考的太多",
+      "music": 0.0
+    },
+    {
+      "from": 267.38,
+      "to": 268.97,
+      "sid": 135,
+      "location": 2,
+      "content": "有时候也会成为一种束缚",
+      "music": 0.0
+    },
+    {
+      "from": 268.97,
+      "to": 270.26,
+      "sid": 136,
+      "location": 2,
+      "content": "使自己的精力分散",
+      "music": 0.0
+    },
+    {
+      "from": 270.26,
+      "to": 271.08,
+      "sid": 137,
+      "location": 2,
+      "content": "畏手畏脚",
+      "music": 0.0
+    },
+    {
+      "from": 271.08,
+      "to": 273.09,
+      "sid": 138,
+      "location": 2,
+      "content": "这实际上也是一种精神内耗",
+      "music": 0.0
+    },
+    {
+      "from": 273.09,
+      "to": 275.4,
+      "sid": 139,
+      "location": 2,
+      "content": "瞄准本质上是个手学心动的过程",
+      "music": 0.0
+    },
+    {
+      "from": 275.4,
+      "to": 276.48,
+      "sid": 140,
+      "location": 2,
+      "content": "有点像日记月累",
+      "music": 0.0
+    },
+    {
+      "from": 276.48,
+      "to": 279.02,
+      "sid": 141,
+      "location": 2,
+      "content": "练习后下意识的反应与条件反射",
+      "music": 0.0
+    },
+    {
+      "from": 279.02,
+      "to": 282.2,
+      "sid": 142,
+      "location": 2,
+      "content": "所以不要让太多外在的因素干扰自己的思绪",
+      "music": 0.0
+    },
+    {
+      "from": 282.2,
+      "to": 285.2,
+      "sid": 143,
+      "location": 2,
+      "content": "做到有准星却又似无准星的心流状态",
+      "music": 0.0
+    },
+    {
+      "from": 285.2,
+      "to": 287.21,
+      "sid": 144,
+      "location": 2,
+      "content": "那你就是瞄准大牛了",
+      "music": 0.0
+    },
+    {
+      "from": 287.21,
+      "to": 289.94,
+      "sid": 145,
+      "location": 2,
+      "content": "这些游戏中的枪法pk残局意识",
+      "music": 0.0
+    },
+    {
+      "from": 289.94,
+      "to": 293.2,
+      "sid": 146,
+      "location": 2,
+      "content": "等我打算再上到神话三以后再进行教学",
+      "music": 0.0
+    },
+    {
+      "from": 293.2,
+      "to": 295.12,
+      "sid": 147,
+      "location": 2,
+      "content": "我觉得那对关注我的人更负责",
+      "music": 0.0
+    },
+    {
+      "from": 295.12,
+      "to": 295.9,
+      "sid": 148,
+      "location": 2,
+      "content": "更有意义",
+      "music": 0.0
+    },
+    {
+      "from": 295.9,
+      "to": 296.83,
+      "sid": 149,
+      "location": 2,
+      "content": "自己够强",
+      "music": 0.0
+    },
+    {
+      "from": 296.83,
+      "to": 298.45,
+      "sid": 150,
+      "location": 2,
+      "content": "教学才有说服力",
+      "music": 0.0
+    },
+    {
+      "from": 298.45,
+      "to": 301.14,
+      "sid": 151,
+      "location": 2,
+      "content": "这些内容可能会偏抽象与繁琐",
+      "music": 0.0
+    },
+    {
+      "from": 301.14,
+      "to": 303.24,
+      "sid": 152,
+      "location": 2,
+      "content": "游戏FPS小白可能看不太明白",
+      "music": 0.0
+    },
+    {
+      "from": 303.24,
+      "to": 304.26,
+      "sid": 153,
+      "location": 2,
+      "content": "但没有关系",
+      "music": 0.0
+    },
+    {
+      "from": 304.26,
+      "to": 306.96,
+      "sid": 154,
+      "location": 2,
+      "content": "只要记住我告诉你的概念与细节去练",
+      "music": 0.0
+    },
+    {
+      "from": 306.96,
+      "to": 309.18,
+      "sid": 155,
+      "location": 2,
+      "content": "你就能慢慢明白我所表达的东西",
+      "music": 0.0
+    },
+    {
+      "from": 309.18,
+      "to": 311.62,
+      "sid": 156,
+      "location": 2,
+      "content": "你会在历史中悟明白这些理论",
+      "music": 0.0
+    },
+    {
+      "from": 311.62,
+      "to": 315.04,
+      "sid": 157,
+      "location": 2,
+      "content": "我的初衷是希望大家在练习的过程中少走弯路",
+      "music": 0.0
+    },
+    {
+      "from": 315.04,
+      "to": 318.32,
+      "sid": 158,
+      "location": 2,
+      "content": "因为我自己萌新时也经历过去瞄准圈子里",
+      "music": 0.0
+    },
+    {
+      "from": 318.32,
+      "to": 319.64,
+      "sid": 159,
+      "location": 2,
+      "content": "为那些所谓的大佬游戏",
+      "music": 0.0
+    },
+    {
+      "from": 319.64,
+      "to": 321.56,
+      "sid": 160,
+      "location": 2,
+      "content": "现在看起来很小白的问题",
+      "music": 0.0
+    },
+    {
+      "from": 321.56,
+      "to": 323.27,
+      "sid": 161,
+      "location": 2,
+      "content": "然后被部分人群嘲",
+      "music": 0.0
+    },
+    {
+      "from": 323.27,
+      "to": 325.13,
+      "sid": 162,
+      "location": 2,
+      "content": "我很鄙视那些傲慢的人",
+      "music": 0.0
+    },
+    {
+      "from": 325.13,
+      "to": 326.96,
+      "sid": 163,
+      "location": 2,
+      "content": "不过我估计那些傲慢的人",
+      "music": 0.0
+    },
+    {
+      "from": 326.96,
+      "to": 327.98,
+      "sid": 164,
+      "location": 2,
+      "content": "现在大部分都没有的",
+      "music": 0.0
+    },
+    {
+      "from": 327.98,
+      "to": 329.1,
+      "sid": 165,
+      "location": 2,
+      "content": "断魂分高",
+      "music": 0.0
+    },
+    {
+      "from": 329.1,
+      "to": 331.38,
+      "sid": 166,
+      "location": 2,
+      "content": "大家还有疑问可以在评论区打出来",
+      "music": 0.0
+    },
+    {
+      "from": 331.38,
+      "to": 332.91,
+      "sid": 167,
+      "location": 2,
+      "content": "我看见就会解答",
+      "music": 0.0
+    },
+    {
+      "from": 332.91,
+      "to": 336.48,
+      "sid": 168,
+      "location": 2,
+      "content": "这期视频我花了很久的时间去修改文案",
+      "music": 0.0
+    },
+    {
+      "from": 336.48,
+      "to": 338.37,
+      "sid": 169,
+      "location": 2,
+      "content": "点赞或者关注都是支持",
+      "music": 0.0
+    },
+    {
+      "from": 338.37,
+      "to": 341.16,
+      "sid": 170,
+      "location": 2,
+      "content": "感谢收看我们神话三件",
+      "music": 0.0
+    }
+  ]
+}

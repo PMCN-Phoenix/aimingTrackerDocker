@@ -1,0 +1,1782 @@
+{
+  "bvid": "BV15ZqYBVEEy",
+  "status": "ok lang=ai-zh",
+  "segments": [
+    {
+      "content": "你抓住了吗",
+      "from": 5.78,
+      "location": 2,
+      "music": 0.0,
+      "sid": 1,
+      "to": 7.16
+    },
+    {
+      "content": "让我再回放一遍",
+      "from": 7.16,
+      "location": 2,
+      "music": 0.0,
+      "sid": 2,
+      "to": 8.46
+    },
+    {
+      "content": "为你放慢动作演示",
+      "from": 8.46,
+      "location": 2,
+      "music": 0.0,
+      "sid": 3,
+      "to": 10.18
+    },
+    {
+      "content": "你可能在想玛迪",
+      "from": 11.719,
+      "location": 2,
+      "music": 0.0,
+      "sid": 4,
+      "to": 13.579
+    },
+    {
+      "content": "那只是个过冲操作",
+      "from": 13.579,
+      "location": 2,
+      "music": 0.0,
+      "sid": 5,
+      "to": 15.359
+    },
+    {
+      "content": "是吗",
+      "from": 15.359,
+      "location": 2,
+      "music": 0.0,
+      "sid": 6,
+      "to": 16.159
+    },
+    {
+      "content": "看看我 flick 前目标的移动轨迹",
+      "from": 16.159,
+      "location": 2,
+      "music": 0.0,
+      "sid": 7,
+      "to": 19.65
+    },
+    {
+      "content": "我不认为那是故意的过冲",
+      "from": 19.65,
+      "location": 2,
+      "music": 0.0,
+      "sid": 8,
+      "to": 22.31
+    },
+    {
+      "content": "事实上我知道不是",
+      "from": 22.31,
+      "location": 2,
+      "music": 0.0,
+      "sid": 9,
+      "to": 24.03
+    },
+    {
+      "content": "而在今天的视频中我们将详细讲解这一动作为何有效",
+      "from": 24.03,
+      "location": 2,
+      "music": 0.0,
+      "sid": 10,
+      "to": 28.72
+    },
+    {
+      "content": "以及围绕它的技术为何被严重忽视",
+      "from": 28.72,
+      "location": 2,
+      "music": 0.0,
+      "sid": 11,
+      "to": 32.32
+    },
+    {
+      "content": "是的",
+      "from": 32.32,
+      "location": 2,
+      "music": 0.0,
+      "sid": 12,
+      "to": 32.94
+    },
+    {
+      "content": "我终于要出一期关于闪避的视频了",
+      "from": 32.94,
+      "location": 2,
+      "music": 0.0,
+      "sid": 13,
+      "to": 35.76
+    },
+    {
+      "content": "讲解最被低估且未被充分开发的",
+      "from": 35.76,
+      "location": 2,
+      "music": 0.0,
+      "sid": 14,
+      "to": 38.22
+    },
+    {
+      "content": "瞄准训练子类别",
+      "from": 38.22,
+      "location": 2,
+      "music": 0.0,
+      "sid": 15,
+      "to": 40.37
+    },
+    {
+      "content": "让我们快速开始",
+      "from": 40.37,
+      "location": 2,
+      "music": 0.0,
+      "sid": 16,
+      "to": 41.81
+    },
+    {
+      "content": "并解释刚才展示的动作为何并非失误或糟糕 flick",
+      "from": 41.81,
+      "location": 2,
+      "music": 0.0,
+      "sid": 17,
+      "to": 47.11
+    },
+    {
+      "content": "这个案例的解释相对明显",
+      "from": 47.11,
+      "location": 2,
+      "music": 0.0,
+      "sid": 18,
+      "to": 50.91
+    },
+    {
+      "content": "当你慢放录像时",
+      "from": 50.91,
+      "location": 2,
+      "music": 0.0,
+      "sid": 19,
+      "to": 52.849
+    },
+    {
+      "content": "我 flick 的目标是我屏幕上的唯一选项",
+      "from": 52.849,
+      "location": 2,
+      "music": 0.0,
+      "sid": 20,
+      "to": 57.229
+    },
+    {
+      "content": "除了当时正在追踪的那个目标",
+      "from": 57.229,
+      "location": 2,
+      "music": 0.0,
+      "sid": 21,
+      "to": 60.92
+    },
+    {
+      "content": "这一操作最关键的是周边视野",
+      "from": 60.92,
+      "location": 2,
+      "music": 0.0,
+      "sid": 22,
+      "to": 64.56
+    },
+    {
+      "content": "你可能已经听过我说过很多次",
+      "from": 64.56,
+      "location": 2,
+      "music": 0.0,
+      "sid": 23,
+      "to": 67.18
+    },
+    {
+      "content": "尤其是看过我关于雪莉动态技术的视频",
+      "from": 67.18,
+      "location": 2,
+      "music": 0.0,
+      "sid": 24,
+      "to": 70.72
+    },
+    {
+      "content": "或如何玩过墙 u 技巧",
+      "from": 70.72,
+      "location": 2,
+      "music": 0.0,
+      "sid": 25,
+      "to": 72.4
+    },
+    {
+      "content": "但我必须强调",
+      "from": 72.4,
+      "location": 2,
+      "music": 0.0,
+      "sid": 26,
+      "to": 74.06
+    },
+    {
+      "content": "在闪避目标切换中的重要性",
+      "from": 74.06,
+      "location": 2,
+      "music": 0.0,
+      "sid": 27,
+      "to": 78.07
+    },
+    {
+      "content": "闪避切换是动态点击的姐妹类别",
+      "from": 78.51,
+      "location": 2,
+      "music": 0.0,
+      "sid": 28,
+      "to": 82.45
+    },
+    {
+      "content": "大部分原则和技术都适用两者",
+      "from": 82.45,
+      "location": 2,
+      "music": 0.0,
+      "sid": 29,
+      "to": 86.26
+    },
+    {
+      "content": "唯一区别是闪避场景需要额外追踪",
+      "from": 86.26,
+      "location": 2,
+      "music": 0.0,
+      "sid": 30,
+      "to": 90.53
+    },
+    {
+      "content": "因此从速度切换原则中",
+      "from": 90.53,
+      "location": 2,
+      "music": 0.0,
+      "sid": 31,
+      "to": 93.57
+    },
+    {
+      "content": "这种情况下可以接受过冲",
+      "from": 93.57,
+      "location": 2,
+      "music": 0.0,
+      "sid": 32,
+      "to": 95.87
+    },
+    {
+      "content": "因为我在交叉过程中至少会伤害目标",
+      "from": 95.87,
+      "location": 2,
+      "music": 0.0,
+      "sid": 33,
+      "to": 100.15
+    },
+    {
+      "content": "但这不是我这样操作的原因",
+      "from": 100.15,
+      "location": 2,
+      "music": 0.0,
+      "sid": 34,
+      "to": 103.67
+    },
+    {
+      "content": "况且在这个场景中",
+      "from": 103.67,
+      "location": 2,
+      "music": 0.0,
+      "sid": 35,
+      "to": 105.45
+    },
+    {
+      "content": "时间目标切换控制",
+      "from": 105.45,
+      "location": 2,
+      "music": 0.0,
+      "sid": 36,
+      "to": 106.81
+    },
+    {
+      "content": "具有回血机制",
+      "from": 106.81,
+      "location": 2,
+      "music": 0.0,
+      "sid": 37,
+      "to": 108.59
+    },
+    {
+      "content": "如果你没有流畅追踪，敌人会恢复血量",
+      "from": 108.59,
+      "location": 2,
+      "music": 0.0,
+      "sid": 38,
+      "to": 112.57
+    },
+    {
+      "content": "之所以成功是因为我完全确定敌人会右闪",
+      "from": 112.57,
+      "location": 2,
+      "music": 0.0,
+      "sid": 39,
+      "to": 118.29
+    },
+    {
+      "content": "右边",
+      "from": 118.29,
+      "location": 2,
+      "music": 0.0,
+      "sid": 40,
+      "to": 118.75
+    },
+    {
+      "content": "但当我到达时",
+      "from": 118.75,
+      "location": 2,
+      "music": 0.0,
+      "sid": 41,
+      "to": 121.07
+    },
+    {
+      "content": "但玛迪",
+      "from": 121.23,
+      "location": 2,
+      "music": 0.0,
+      "sid": 42,
+      "to": 122.31
+    },
+    {
+      "content": "为何要故意让自己穿过目标区域",
+      "from": 122.31,
+      "location": 2,
+      "music": 0.0,
+      "sid": 43,
+      "to": 127.43
+    },
+    {
+      "content": "你说得对",
+      "from": 127.43,
+      "location": 2,
+      "music": 0.0,
+      "sid": 44,
+      "to": 128.37
+    },
+    {
+      "content": "完美操作中不应有过冲",
+      "from": 128.37,
+      "location": 2,
+      "music": 0.0,
+      "sid": 45,
+      "to": 131.41
+    },
+    {
+      "content": "但预判 flick 有实际价值",
+      "from": 131.41,
+      "location": 2,
+      "music": 0.0,
+      "sid": 46,
+      "to": 135.69
+    },
+    {
+      "content": "朝目标下次闪避方向移动",
+      "from": 135.69,
+      "location": 2,
+      "music": 0.0,
+      "sid": 47,
+      "to": 138.74
+    },
+    {
+      "content": "正确执行此技巧时",
+      "from": 138.74,
+      "location": 2,
+      "music": 0.0,
+      "sid": 48,
+      "to": 141.38
+    },
+    {
+      "content": "你正逐步与目标同步移动",
+      "from": 141.38,
+      "location": 2,
+      "music": 0.0,
+      "sid": 49,
+      "to": 145.58
+    },
+    {
+      "content": "无需匆忙追击闪避动作",
+      "from": 145.58,
+      "location": 2,
+      "music": 0.0,
+      "sid": 50,
+      "to": 150.37
+    },
+    {
+      "content": "这些术语你应该都很熟悉",
+      "from": 150.85,
+      "location": 2,
+      "music": 0.0,
+      "sid": 51,
+      "to": 153.61
+    },
+    {
+      "content": "这和线性动态点击中的引导射击原理相同",
+      "from": 153.61,
+      "location": 2,
+      "music": 0.0,
+      "sid": 52,
+      "to": 157.6
+    },
+    {
+      "content": "详情请看描述中的视频",
+      "from": 157.6,
+      "location": 2,
+      "music": 0.0,
+      "sid": 53,
+      "to": 159.56
+    },
+    {
+      "content": "如果你想了解更多这方面的工作原理",
+      "from": 159.56,
+      "location": 2,
+      "music": 0.0,
+      "sid": 54,
+      "to": 163.05
+    },
+    {
+      "content": "简而言之",
+      "from": 163.05,
+      "location": 2,
+      "music": 0.0,
+      "sid": 55,
+      "to": 163.75
+    },
+    {
+      "content": "引导射击的核心目的是减少击杀目标所需的运动量或微生物",
+      "from": 163.75,
+      "location": 2,
+      "music": 0.0,
+      "sid": 56,
+      "to": 168.25
+    },
+    {
+      "content": "你需要执行的击杀每个目标的动作",
+      "from": 168.25,
+      "location": 2,
+      "music": 0.0,
+      "sid": 57,
+      "to": 171.27
+    },
+    {
+      "content": "用你的余光预判目标位置",
+      "from": 171.27,
+      "location": 2,
+      "music": 0.0,
+      "sid": 58,
+      "to": 174.11
+    },
+    {
+      "content": "在点击前",
+      "from": 174.11,
+      "location": 2,
+      "music": 0.0,
+      "sid": 59,
+      "to": 175.37
+    },
+    {
+      "content": "当你点击时",
+      "from": 175.37,
+      "location": 2,
+      "music": 0.0,
+      "sid": 60,
+      "to": 176.41
+    },
+    {
+      "content": "不要直接瞄准目标",
+      "from": 176.41,
+      "location": 2,
+      "music": 0.0,
+      "sid": 61,
+      "to": 178.43
+    },
+    {
+      "content": "而是提前一点预判其移动并点击时机",
+      "from": 178.43,
+      "location": 2,
+      "music": 0.0,
+      "sid": 62,
+      "to": 183.68
+    },
+    {
+      "content": "当机器人到达准星时",
+      "from": 183.68,
+      "location": 2,
+      "music": 0.0,
+      "sid": 63,
+      "to": 185.35
+    },
+    {
+      "content": "这样能实现更干净流畅的击杀",
+      "from": 185.35,
+      "location": 2,
+      "music": 0.0,
+      "sid": 64,
+      "to": 188.579
+    },
+    {
+      "content": "这在规避切换中同样适用",
+      "from": 188.579,
+      "location": 2,
+      "music": 0.0,
+      "sid": 65,
+      "to": 191.239
+    },
+    {
+      "content": "但有一些细节需要注意",
+      "from": 191.239,
+      "location": 2,
+      "music": 0.0,
+      "sid": 66,
+      "to": 193.589
+    },
+    {
+      "content": "扩展追踪组件在规避切换中存在独特问题",
+      "from": 193.589,
+      "location": 2,
+      "music": 0.0,
+      "sid": 67,
+      "to": 197.589
+    },
+    {
+      "content": "与速度切换不同",
+      "from": 197.589,
+      "location": 2,
+      "music": 0.0,
+      "sid": 68,
+      "to": 199.35
+    },
+    {
+      "content": "这意味着不能简单复制点击动作并全速移动",
+      "from": 199.35,
+      "location": 2,
+      "music": 0.0,
+      "sid": 69,
+      "to": 203.3
+    },
+    {
+      "content": "否则会导致点击时的晃动",
+      "from": 203.3,
+      "location": 2,
+      "music": 0.0,
+      "sid": 70,
+      "to": 205.98
+    },
+    {
+      "content": "在切换追踪动作时会浪费大量时间",
+      "from": 205.98,
+      "location": 2,
+      "music": 0.0,
+      "sid": 71,
+      "to": 209.92
+    },
+    {
+      "content": "但完全不点击同样浪费时间",
+      "from": 209.92,
+      "location": 2,
+      "music": 0.0,
+      "sid": 72,
+      "to": 212.32
+    },
+    {
+      "content": "尤其是在这种情况下",
+      "from": 212.32,
+      "location": 2,
+      "music": 0.0,
+      "sid": 73,
+      "to": 213.36
+    },
+    {
+      "content": "因为你会失去余光预判的时机窗口",
+      "from": 213.36,
+      "location": 2,
+      "music": 0.0,
+      "sid": 74,
+      "to": 218.19
+    },
+    {
+      "content": "如果仔细想想",
+      "from": 218.19,
+      "location": 2,
+      "music": 0.0,
+      "sid": 75,
+      "to": 219.49
+    },
+    {
+      "content": "这纯粹是张力管理的问题",
+      "from": 219.49,
+      "location": 2,
+      "music": 0.0,
+      "sid": 76,
+      "to": 222.13
+    },
+    {
+      "content": "让我们借用两个原则",
+      "from": 222.13,
+      "location": 2,
+      "music": 0.0,
+      "sid": 77,
+      "to": 223.65
+    },
+    {
+      "content": "一个来自静态点击的新发展，一个来自控制追踪",
+      "from": 223.65,
+      "location": 2,
+      "music": 0.0,
+      "sid": 78,
+      "to": 227.89
+    },
+    {
+      "content": "以zion lo为例",
+      "from": 227.89,
+      "location": 2,
+      "music": 0.0,
+      "sid": 79,
+      "to": 229.21
+    },
+    {
+      "content": "他有一种简单的方法提升动作流畅度",
+      "from": 229.21,
+      "location": 2,
+      "music": 0.0,
+      "sid": 80,
+      "to": 232.03
+    },
+    {
+      "content": "并减少点击末端的晃动",
+      "from": 232.03,
+      "location": 2,
+      "music": 0.0,
+      "sid": 81,
+      "to": 234.84
+    },
+    {
+      "content": "执行初始点击时",
+      "from": 234.84,
+      "location": 2,
+      "music": 0.0,
+      "sid": 82,
+      "to": 236.64
+    },
+    {
+      "content": "需要在开始时施加前臂爆发性张力",
+      "from": 236.64,
+      "location": 2,
+      "music": 0.0,
+      "sid": 83,
+      "to": 240.7
+    },
+    {
+      "content": "然后释放张力或转移到手腕",
+      "from": 240.7,
+      "location": 2,
+      "music": 0.0,
+      "sid": 84,
+      "to": 243.96
+    },
+    {
+      "content": "在接近目标前",
+      "from": 243.96,
+      "location": 2,
+      "music": 0.0,
+      "sid": 85,
+      "to": 246.56
+    },
+    {
+      "content": "修正剩余空间只需微调即可",
+      "from": 246.72,
+      "location": 2,
+      "music": 0.0,
+      "sid": 86,
+      "to": 252.09
+    },
+    {
+      "content": "这能避免过度点击导致的时间和精度损失",
+      "from": 252.09,
+      "location": 2,
+      "music": 0.0,
+      "sid": 87,
+      "to": 255.77
+    },
+    {
+      "content": "通过每次适度点击而非过度",
+      "from": 255.77,
+      "location": 2,
+      "music": 0.0,
+      "sid": 88,
+      "to": 259.45
+    },
+    {
+      "content": "控制追踪的原理在控制球等场景中同样适用",
+      "from": 259.62,
+      "location": 2,
+      "music": 0.0,
+      "sid": 89,
+      "to": 266.09
+    },
+    {
+      "content": "几乎从不进行快速调整或微调点击",
+      "from": 266.09,
+      "location": 2,
+      "music": 0.0,
+      "sid": 90,
+      "to": 270.86
+    },
+    {
+      "content": "不仅可能因过度点击导致巨大分数损失",
+      "from": 270.86,
+      "location": 2,
+      "music": 0.0,
+      "sid": 91,
+      "to": 275.56
+    },
+    {
+      "content": "还会降低对目标移动的感知",
+      "from": 275.56,
+      "location": 2,
+      "music": 0.0,
+      "sid": 92,
+      "to": 279.07
+    },
+    {
+      "content": "这需要大幅减少前臂张力依赖",
+      "from": 279.07,
+      "location": 2,
+      "music": 0.0,
+      "sid": 93,
+      "to": 283.21
+    },
+    {
+      "content": "并不过度反应目标转向",
+      "from": 283.21,
+      "location": 2,
+      "music": 0.0,
+      "sid": 94,
+      "to": 287.299
+    },
+    {
+      "content": "正是这些原因，现代伏打规避切换场景中",
+      "from": 287.299,
+      "location": 2,
+      "music": 0.0,
+      "sid": 95,
+      "to": 292.379
+    },
+    {
+      "content": "点击往往被抑制",
+      "from": 292.379,
+      "location": 2,
+      "music": 0.0,
+      "sid": 96,
+      "to": 294.89
+    },
+    {
+      "content": "但低速过渡足够应对中级水平",
+      "from": 294.89,
+      "location": 2,
+      "music": 0.0,
+      "sid": 97,
+      "to": 299.05
+    },
+    {
+      "content": "你需要开始精准点击和落地",
+      "from": 299.05,
+      "location": 2,
+      "music": 0.0,
+      "sid": 98,
+      "to": 302.15
+    },
+    {
+      "content": "才能在更高层次的技巧中突破",
+      "from": 302.15,
+      "location": 2,
+      "music": 0.0,
+      "sid": 99,
+      "to": 307.979
+    },
+    {
+      "content": "然而",
+      "from": 307.979,
+      "location": 2,
+      "music": 0.0,
+      "sid": 100,
+      "to": 308.399
+    },
+    {
+      "content": "他们最明显且常见的挣扎点在于连招结尾与追踪动作开始之间的过渡",
+      "from": 308.399,
+      "location": 2,
+      "music": 0.0,
+      "sid": 101,
+      "to": 313.379
+    },
+    {
+      "content": "让我们将这一阶段称为钩取阶段",
+      "from": 313.379,
+      "location": 2,
+      "music": 0.0,
+      "sid": 102,
+      "to": 315.53
+    },
+    {
+      "content": "这里需要迅速将准星锁定移动目标",
+      "from": 315.659,
+      "location": 2,
+      "music": 0.0,
+      "sid": 103,
+      "to": 318.72
+    },
+    {
+      "content": "并持续跟随目标以防抖动或目标脱离时出现生硬过渡",
+      "from": 318.72,
+      "location": 2,
+      "music": 0.0,
+      "sid": 104,
+      "to": 322.24
+    },
+    {
+      "content": "这可称为钩取未能干净利落地附着目标",
+      "from": 322.24,
+      "location": 2,
+      "music": 0.0,
+      "sid": 105,
+      "to": 328.63
+    },
+    {
+      "content": "这意味着技术不佳",
+      "from": 328.63,
+      "location": 2,
+      "music": 0.0,
+      "sid": 106,
+      "to": 332.67
+    },
+    {
+      "content": "我们真正讨论的是",
+      "from": 332.67,
+      "location": 2,
+      "music": 0.0,
+      "sid": 107,
+      "to": 334.96
+    },
+    {
+      "content": "确保前臂和手腕",
+      "from": 334.96,
+      "location": 2,
+      "music": 0.0,
+      "sid": 108,
+      "to": 336.6
+    },
+    {
+      "content": "以及指尖在获取过程中不保持僵硬",
+      "from": 336.6,
+      "location": 2,
+      "music": 0.0,
+      "sid": 109,
+      "to": 338.86
+    },
+    {
+      "content": "手臂与手腕的运动不应相互排斥",
+      "from": 338.86,
+      "location": 2,
+      "music": 0.0,
+      "sid": 110,
+      "to": 342.58
+    },
+    {
+      "content": "许多玩家习惯使用僵硬的钩取动作",
+      "from": 342.58,
+      "location": 2,
+      "music": 0.0,
+      "sid": 111,
+      "to": 346.14
+    },
+    {
+      "content": "这意味着很多时候",
+      "from": 346.14,
+      "location": 2,
+      "music": 0.0,
+      "sid": 112,
+      "to": 348.58
+    },
+    {
+      "content": "玩家仅用单一肌群完成所有动作",
+      "from": 348.58,
+      "location": 2,
+      "music": 0.0,
+      "sid": 113,
+      "to": 350.24
+    },
+    {
+      "content": "全程使用手臂瞄准的玩家",
+      "from": 350.24,
+      "location": 2,
+      "music": 0.0,
+      "sid": 114,
+      "to": 354.62
+    },
+    {
+      "content": "将能流畅穿越地图并保持足够连招速度",
+      "from": 354.62,
+      "location": 2,
+      "music": 0.0,
+      "sid": 115,
+      "to": 356.76
+    },
+    {
+      "content": "但会频繁过度连招且微操作不稳",
+      "from": 356.76,
+      "location": 2,
+      "music": 0.0,
+      "sid": 116,
+      "to": 360.32
+    },
+    {
+      "content": "这是因为他们在控制本应由手腕或指尖处理的运动",
+      "from": 360.32,
+      "location": 2,
+      "music": 0.0,
+      "sid": 117,
+      "to": 363.49
+    },
+    {
+      "content": "这些部位负责更小范围的动作",
+      "from": 363.49,
+      "location": 2,
+      "music": 0.0,
+      "sid": 118,
+      "to": 365.73
+    },
+    {
+      "content": "相反",
+      "from": 365.73,
+      "location": 2,
+      "music": 0.0,
+      "sid": 119,
+      "to": 368.63
+    },
+    {
+      "content": "全程使用手腕的玩家会遇到空间管理问题",
+      "from": 368.63,
+      "location": 2,
+      "music": 0.0,
+      "sid": 120,
+      "to": 371.71
+    },
+    {
+      "content": "以及低于最优的连招速度",
+      "from": 371.71,
+      "location": 2,
+      "music": 0.0,
+      "sid": 121,
+      "to": 372.57
+    },
+    {
+      "content": "修复连贯性中断需要深入关注注意力管理",
+      "from": 372.57,
+      "location": 2,
+      "music": 0.0,
+      "sid": 122,
+      "to": 378.65
+    },
+    {
+      "content": "在更复杂的场景中",
+      "from": 379.29,
+      "location": 2,
+      "music": 0.0,
+      "sid": 123,
+      "to": 383.72
+    },
+    {
+      "content": "你需要对远距离目标进行连招",
+      "from": 383.72,
+      "location": 2,
+      "music": 0.0,
+      "sid": 124,
+      "to": 385.46
+    },
+    {
+      "content": "整个流程中无法每次都以相同方式连招",
+      "from": 385.46,
+      "location": 2,
+      "music": 0.0,
+      "sid": 125,
+      "to": 388.22
+    },
+    {
+      "content": "需判断如何融合肌群使用和整体紧张度",
+      "from": 388.22,
+      "location": 2,
+      "music": 0.0,
+      "sid": 126,
+      "to": 393.7
+    },
+    {
+      "content": "必须运用周边视野",
+      "from": 393.7,
+      "location": 2,
+      "music": 0.0,
+      "sid": 127,
+      "to": 398.44
+    },
+    {
+      "content": "这就是规避与动态点击属于同类技能的原因",
+      "from": 398.44,
+      "location": 2,
+      "music": 0.0,
+      "sid": 128,
+      "to": 400.98
+    },
+    {
+      "content": "可以说周边视野在此更重要",
+      "from": 400.98,
+      "location": 2,
+      "music": 0.0,
+      "sid": 129,
+      "to": 405.0
+    },
+    {
+      "content": "因为连招速度或落点判断失误惩罚极重",
+      "from": 405.0,
+      "location": 2,
+      "music": 0.0,
+      "sid": 130,
+      "to": 408.58
+    },
+    {
+      "content": "在动态点击中",
+      "from": 408.58,
+      "location": 2,
+      "music": 0.0,
+      "sid": 131,
+      "to": 413.57
+    },
+    {
+      "content": "只需命中目标一次即可得分",
+      "from": 413.57,
+      "location": 2,
+      "music": 0.0,
+      "sid": 132,
+      "to": 414.65
+    },
+    {
+      "content": "但在规避中",
+      "from": 414.65,
+      "location": 2,
+      "music": 0.0,
+      "sid": 133,
+      "to": 417.91
+    },
+    {
+      "content": "需要预判目标的移动轨迹",
+      "from": 417.91,
+      "location": 2,
+      "music": 0.0,
+      "sid": 134,
+      "to": 418.91
+    },
+    {
+      "content": "若将这些整合起来",
+      "from": 418.91,
+      "location": 2,
+      "music": 0.0,
+      "sid": 135,
+      "to": 422.895
+    },
+    {
+      "content": "这就是正确的紧张度管理",
+      "from": 423.42,
+      "location": 2,
+      "music": 0.0,
+      "sid": 136,
+      "to": 424.82
+    },
+    {
+      "content": "肌群协同增强意识",
+      "from": 424.82,
+      "location": 2,
+      "music": 0.0,
+      "sid": 137,
+      "to": 426.3
+    },
+    {
+      "content": "并主动预判射击时机",
+      "from": 426.3,
+      "location": 2,
+      "music": 0.0,
+      "sid": 138,
+      "to": 428.18
+    },
+    {
+      "content": "我们得到适用于几乎所有目标切换场景的连招框架",
+      "from": 428.18,
+      "location": 2,
+      "music": 0.0,
+      "sid": 139,
+      "to": 431.33
+    },
+    {
+      "content": "在可读性强的运动场景中是培养此框架的最佳场所",
+      "from": 431.33,
+      "location": 2,
+      "music": 0.0,
+      "sid": 140,
+      "to": 436.75
+    },
+    {
+      "content": "由于目标稀疏但极易识别",
+      "from": 436.75,
+      "location": 2,
+      "music": 0.0,
+      "sid": 141,
+      "to": 442.15
+    },
+    {
+      "content": "但目标移动轨迹清晰可见",
+      "from": 442.15,
+      "location": 2,
+      "music": 0.0,
+      "sid": 142,
+      "to": 443.97
+    },
+    {
+      "content": "注意我有意对这些目标进行连招",
+      "from": 443.97,
+      "location": 2,
+      "music": 0.0,
+      "sid": 143,
+      "to": 446.09
+    },
+    {
+      "content": "击中路径而非直接命中",
+      "from": 446.09,
+      "location": 2,
+      "music": 0.0,
+      "sid": 144,
+      "to": 449.39
+    },
+    {
+      "content": "采用动态连招中的相同理念",
+      "from": 449.39,
+      "location": 2,
+      "music": 0.0,
+      "sid": 145,
+      "to": 451.48
+    },
+    {
+      "content": "这些目标通常不会再次改变方向",
+      "from": 451.48,
+      "location": 2,
+      "music": 0.0,
+      "sid": 146,
+      "to": 453.74
+    },
+    {
+      "content": "当我连招至其路径时",
+      "from": 453.74,
+      "location": 2,
+      "music": 0.0,
+      "sid": 147,
+      "to": 458.23
+    },
+    {
+      "content": "我会主动放松肌肉并将紧张感转移至手腕",
+      "from": 458.23,
+      "location": 2,
+      "music": 0.0,
+      "sid": 148,
+      "to": 459.83
+    },
+    {
+      "content": "以支持后续追踪动作",
+      "from": 459.83,
+      "location": 2,
+      "music": 0.0,
+      "sid": 149,
+      "to": 463.95
+    },
+    {
+      "content": "形成完整的获取连招框架",
+      "from": 463.95,
+      "location": 2,
+      "music": 0.0,
+      "sid": 150,
+      "to": 466.09
+    },
+    {
+      "content": "在观看这个视频时",
+      "from": 466.09,
+      "location": 2,
+      "music": 0.0,
+      "sid": 151,
+      "to": 467.63
+    },
+    {
+      "content": "尽量不要看我现在瞄准的目标",
+      "from": 467.63,
+      "location": 2,
+      "music": 0.0,
+      "sid": 152,
+      "to": 470.09
+    },
+    {
+      "content": "而是试着判断我接下来要传递给谁",
+      "from": 470.09,
+      "location": 2,
+      "music": 0.0,
+      "sid": 153,
+      "to": 473.33
+    },
+    {
+      "content": "以及如何接近目标",
+      "from": 473.33,
+      "location": 2,
+      "music": 0.0,
+      "sid": 154,
+      "to": 475.409
+    },
+    {
+      "content": "完成这个练习能让你了解我在这一子类中的打法",
+      "from": 475.409,
+      "location": 2,
+      "music": 0.0,
+      "sid": 155,
+      "to": 479.789
+    },
+    {
+      "content": "如果你能理解我如何选择目标并导航到它们",
+      "from": 479.789,
+      "location": 2,
+      "music": 0.0,
+      "sid": 156,
+      "to": 483.309
+    },
+    {
+      "content": "在我的视频中",
+      "from": 483.309,
+      "location": 2,
+      "music": 0.0,
+      "sid": 157,
+      "to": 484.159
+    },
+    {
+      "content": "试着将同样的逻辑应用到你的视频中",
+      "from": 484.159,
+      "location": 2,
+      "music": 0.0,
+      "sid": 158,
+      "to": 486.819
+    },
+    {
+      "content": "看看是否做出相似决策",
+      "from": 486.819,
+      "location": 2,
+      "music": 0.0,
+      "sid": 159,
+      "to": 489.399
+    },
+    {
+      "content": "练习应用周边视野的最佳场景之一",
+      "from": 490.5,
+      "location": 2,
+      "music": 0.0,
+      "sid": 160,
+      "to": 494.28
+    },
+    {
+      "content": "在躲避场景中是盐区",
+      "from": 494.28,
+      "location": 2,
+      "music": 0.0,
+      "sid": 161,
+      "to": 497.01
+    },
+    {
+      "content": "不是任何速推场景",
+      "from": 497.01,
+      "location": 2,
+      "music": 0.0,
+      "sid": 162,
+      "to": 499.29
+    },
+    {
+      "content": "特别是诗篇速推",
+      "from": 499.29,
+      "location": 2,
+      "music": 0.0,
+      "sid": 163,
+      "to": 501.4
+    },
+    {
+      "content": "如果你还没看过死人教程的盐区部分",
+      "from": 501.4,
+      "location": 2,
+      "music": 0.0,
+      "sid": 164,
+      "to": 503.92
+    },
+    {
+      "content": "关于如何获取Astra",
+      "from": 503.92,
+      "location": 2,
+      "music": 0.0,
+      "sid": 165,
+      "to": 505.95
+    },
+    {
+      "content": "看完这个视频后真的应该去观看",
+      "from": 505.95,
+      "location": 2,
+      "music": 0.0,
+      "sid": 166,
+      "to": 508.65
+    },
+    {
+      "content": "因为这能解释如何正确玩这个地图",
+      "from": 508.65,
+      "location": 2,
+      "music": 0.0,
+      "sid": 167,
+      "to": 512.6
+    },
+    {
+      "content": "本视频中大量技术知识都源于这个教程",
+      "from": 512.6,
+      "location": 2,
+      "music": 0.0,
+      "sid": 168,
+      "to": 517.96
+    },
+    {
+      "content": "部分速推惩罚",
+      "from": 517.96,
+      "location": 2,
+      "music": 0.0,
+      "sid": 169,
+      "to": 519.44
+    },
+    {
+      "content": "糟糕的甩枪技巧和目标优先级错误",
+      "from": 519.44,
+      "location": 2,
+      "music": 0.0,
+      "sid": 170,
+      "to": 522.7
+    },
+    {
+      "content": "在盐区动作越流畅",
+      "from": 522.7,
+      "location": 2,
+      "music": 0.0,
+      "sid": 171,
+      "to": 526.2
+    },
+    {
+      "content": "转移至金速时会感觉越轻松",
+      "from": 526.2,
+      "location": 2,
+      "music": 0.0,
+      "sid": 172,
+      "to": 530.16
+    },
+    {
+      "content": "随着更高的TK和更远地图移动",
+      "from": 530.16,
+      "location": 2,
+      "music": 0.0,
+      "sid": 173,
+      "to": 533.04
+    },
+    {
+      "content": "最终过渡到盐道或角度切换地图",
+      "from": 533.04,
+      "location": 2,
+      "music": 0.0,
+      "sid": 174,
+      "to": 536.34
+    },
+    {
+      "content": "操作流畅度直接影响你的得分",
+      "from": 536.34,
+      "location": 2,
+      "music": 0.0,
+      "sid": 175,
+      "to": 541.12
+    },
+    {
+      "content": "另一种直接提升周边意识的方法是使用稀疏",
+      "from": 541.65,
+      "location": 2,
+      "music": 0.0,
+      "sid": 176,
+      "to": 545.79
+    },
+    {
+      "content": "静态或动态舔屏场景",
+      "from": 545.79,
+      "location": 2,
+      "music": 0.0,
+      "sid": 177,
+      "to": 547.69
+    },
+    {
+      "content": "这些场景通常只有两到一个目标",
+      "from": 547.69,
+      "location": 2,
+      "music": 0.0,
+      "sid": 178,
+      "to": 551.95
+    },
+    {
+      "content": "目标是逐步提升能力",
+      "from": 551.95,
+      "location": 2,
+      "music": 0.0,
+      "sid": 179,
+      "to": 555.77
+    },
+    {
+      "content": "在击杀第一个前预判第二个目标",
+      "from": 555.77,
+      "location": 2,
+      "music": 0.0,
+      "sid": 180,
+      "to": 558.21
+    },
+    {
+      "content": "甚至在击杀第一个前",
+      "from": 558.21,
+      "location": 2,
+      "music": 0.0,
+      "sid": 181,
+      "to": 560.17
+    },
+    {
+      "content": "帮助你找到合适的甩枪速度",
+      "from": 560.17,
+      "location": 2,
+      "music": 0.0,
+      "sid": 182,
+      "to": 562.75
+    },
+    {
+      "content": "避免遮挡对第二目标的感知",
+      "from": 562.75,
+      "location": 2,
+      "music": 0.0,
+      "sid": 183,
+      "to": 566.93
+    },
+    {
+      "content": "当你掌握后",
+      "from": 567.86,
+      "location": 2,
+      "music": 0.0,
+      "sid": 184,
+      "to": 569.02
+    },
+    {
+      "content": "可以尝试简单",
+      "from": 569.02,
+      "location": 2,
+      "music": 0.0,
+      "sid": 185,
+      "to": 570.36
+    },
+    {
+      "content": "躲避场景",
+      "from": 570.36,
+      "location": 2,
+      "music": 0.0,
+      "sid": 186,
+      "to": 571.36
+    },
+    {
+      "content": "比如新稳定性类别中的单一",
+      "from": 571.36,
+      "location": 2,
+      "music": 0.0,
+      "sid": 187,
+      "to": 574.02
+    },
+    {
+      "content": "可预测动作以练习预判甩枪落地",
+      "from": 574.02,
+      "location": 2,
+      "music": 0.0,
+      "sid": 188,
+      "to": 578.15
+    },
+    {
+      "content": "游戏中有很多细微时刻",
+      "from": 578.31,
+      "location": 2,
+      "music": 0.0,
+      "sid": 189,
+      "to": 580.31
+    },
+    {
+      "content": "这些技巧应用得非常好",
+      "from": 580.31,
+      "location": 2,
+      "music": 0.0,
+      "sid": 190,
+      "to": 582.27
+    },
+    {
+      "content": "显然这些时刻是COD或战场的近战",
+      "from": 582.27,
+      "location": 2,
+      "music": 0.0,
+      "sid": 191,
+      "to": 586.27
+    },
+    {
+      "content": "屏幕上有很多目标和动作",
+      "from": 586.27,
+      "location": 2,
+      "music": 0.0,
+      "sid": 192,
+      "to": 589.51
+    },
+    {
+      "content": "将技巧应用到实战的关键",
+      "from": 589.51,
+      "location": 2,
+      "music": 0.0,
+      "sid": 193,
+      "to": 591.81
+    },
+    {
+      "content": "是识别屏幕上的多个目标意图",
+      "from": 591.81,
+      "location": 2,
+      "music": 0.0,
+      "sid": 194,
+      "to": 595.95
+    },
+    {
+      "content": "这一步基本优先级是很多训练玩家忽略的",
+      "from": 595.95,
+      "location": 2,
+      "music": 0.0,
+      "sid": 195,
+      "to": 599.95
+    },
+    {
+      "content": "在转移瞄准到主游戏时",
+      "from": 599.95,
+      "location": 2,
+      "music": 0.0,
+      "sid": 196,
+      "to": 602.68
+    },
+    {
+      "content": "因为它需要理解游戏系统和对手目标",
+      "from": 602.68,
+      "location": 2,
+      "music": 0.0,
+      "sid": 197,
+      "to": 607.78
+    },
+    {
+      "content": "对于某些游戏",
+      "from": 607.78,
+      "location": 2,
+      "music": 0.0,
+      "sid": 198,
+      "to": 608.76
+    },
+    {
+      "content": "可能只需移动到掩体",
+      "from": 608.76,
+      "location": 2,
+      "music": 0.0,
+      "sid": 199,
+      "to": 612.0
+    },
+    {
+      "content": "主要优先级可能是夺取目标或特定位置",
+      "from": 612.0,
+      "location": 2,
+      "music": 0.0,
+      "sid": 200,
+      "to": 616.26
+    },
+    {
+      "content": "一旦确定目标的意图存在移动偏移",
+      "from": 618.06,
+      "location": 2,
+      "music": 0.0,
+      "sid": 201,
+      "to": 621.64
+    },
+    {
+      "content": "你就可以预判其移动轨迹，使你的甩枪命中路径",
+      "from": 621.64,
+      "location": 2,
+      "music": 0.0,
+      "sid": 202,
+      "to": 626.6
+    },
+    {
+      "content": "在移动较为刚性的情况下",
+      "from": 626.6,
+      "location": 2,
+      "music": 0.0,
+      "sid": 203,
+      "to": 628.38
+    },
+    {
+      "content": "比如《守望先锋》中的移动技能",
+      "from": 628.38,
+      "location": 2,
+      "music": 0.0,
+      "sid": 204,
+      "to": 630.64
+    },
+    {
+      "content": "找到并应用这种技巧其实比听起来容易得多",
+      "from": 630.64,
+      "location": 2,
+      "music": 0.0,
+      "sid": 205,
+      "to": 634.88
+    },
+    {
+      "content": "规避切换绝对是最难的",
+      "from": 635.05,
+      "location": 2,
+      "music": 0.0,
+      "sid": 206,
+      "to": 637.81
+    },
+    {
+      "content": "如果不是最难的瞄准训练子类别之一",
+      "from": 637.81,
+      "location": 2,
+      "music": 0.0,
+      "sid": 207,
+      "to": 641.53
+    },
+    {
+      "content": "存在多种变化且对操作要求极高",
+      "from": 641.53,
+      "location": 2,
+      "music": 0.0,
+      "sid": 208,
+      "to": 644.55
+    },
+    {
+      "content": "这也是为什么我将其列为重要训练项目",
+      "from": 644.55,
+      "location": 2,
+      "music": 0.0,
+      "sid": 209,
+      "to": 646.21
+    },
+    {
+      "content": "与动态点击同属高价值瞄准训练类型",
+      "from": 646.21,
+      "location": 2,
+      "music": 0.0,
+      "sid": 210,
+      "to": 649.98
+    },
+    {
+      "content": "希望大家从本视频中收获颇丰",
+      "from": 649.98,
+      "location": 2,
+      "music": 0.0,
+      "sid": 211,
+      "to": 651.74
+    },
+    {
+      "content": "希望",
+      "from": 651.74,
+      "location": 2,
+      "music": 0.0,
+      "sid": 212,
+      "to": 652.28
+    },
+    {
+      "content": "规避TS不再令人恐惧",
+      "from": 652.28,
+      "location": 2,
+      "music": 0.0,
+      "sid": 213,
+      "to": 655.0
+    },
+    {
+      "content": "也不会像视频制作时那样被严重低估",
+      "from": 655.0,
+      "location": 2,
+      "music": 0.0,
+      "sid": 214,
+      "to": 658.86
+    },
+    {
+      "content": "在评论区留下你的问题",
+      "from": 658.86,
+      "location": 2,
+      "music": 0.0,
+      "sid": 215,
+      "to": 660.6
+    },
+    {
+      "content": "或带到我的直播中",
+      "from": 660.6,
+      "location": 2,
+      "music": 0.0,
+      "sid": 216,
+      "to": 661.94
+    },
+    {
+      "content": "在Twitch平台",
+      "from": 661.94,
+      "location": 2,
+      "music": 0.0,
+      "sid": 217,
+      "to": 662.56
+    },
+    {
+      "content": "Tv",
+      "from": 662.56,
+      "location": 2,
+      "music": 0.0,
+      "sid": 218,
+      "to": 662.92
+    },
+    {
+      "content": "Slash maddie",
+      "from": 662.92,
+      "location": 2,
+      "music": 0.0,
+      "sid": 219,
+      "to": 663.54
+    },
+    {
+      "content": "Underscore w和一如既往",
+      "from": 663.54,
+      "location": 2,
+      "music": 0.0,
+      "sid": 220,
+      "to": 665.56
+    },
+    {
+      "content": "快乐",
+      "from": 665.56,
+      "location": 2,
+      "music": 0.0,
+      "sid": 221,
+      "to": 666.2
+    },
+    {
+      "content": "点击",
+      "from": 666.2,
+      "location": 2,
+      "music": 0.0,
+      "sid": 222,
+      "to": 667.18
+    }
+  ]
+}

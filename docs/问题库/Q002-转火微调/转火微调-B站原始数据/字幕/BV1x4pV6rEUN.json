@@ -1,0 +1,22 @@
+{
+  "bvid": "BV1x4pV6rEUN",
+  "status": "ok lang=ai-zh",
+  "segments": [
+    {
+      "from": 17.22,
+      "to": 20.38,
+      "sid": 1,
+      "location": 2,
+      "content": "♪ 啦啦吞下乌拉莎米格 ♪",
+      "music": 0.9999998000000401
+    },
+    {
+      "from": 20.38,
+      "to": 23.72,
+      "sid": 2,
+      "location": 2,
+      "content": "♪ 啦啦吞下投降喵感 ♪",
+      "music": 0.9999999056603862
+    }
+  ]
+}

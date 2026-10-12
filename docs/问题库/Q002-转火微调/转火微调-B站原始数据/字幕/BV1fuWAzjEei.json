@@ -1,0 +1,702 @@
+{
+  "bvid": "BV1fuWAzjEei",
+  "status": "ok lang=ai-zh",
+  "segments": [
+    {
+      "from": 0.0,
+      "to": 3.08,
+      "sid": 1,
+      "location": 2,
+      "content": "我刚刚雷娜在中路光明器已被锁",
+      "music": 0.09448818525637066
+    },
+    {
+      "from": 3.08,
+      "to": 4.56,
+      "sid": 2,
+      "location": 2,
+      "content": "加大招好了",
+      "music": 0.0
+    },
+    {
+      "from": 4.56,
+      "to": 8.08,
+      "sid": 3,
+      "location": 2,
+      "content": "我方还剩一人不够",
+      "music": 0.0
+    },
+    {
+      "from": 8.08,
+      "to": 9.86,
+      "sid": 4,
+      "location": 2,
+      "content": "还不够过瘾了",
+      "music": 0.0
+    },
+    {
+      "from": 9.86,
+      "to": 11.22,
+      "sid": 5,
+      "location": 2,
+      "content": "该轮到我了",
+      "music": 0.0
+    },
+    {
+      "from": 12.26,
+      "to": 14.01,
+      "sid": 6,
+      "location": 2,
+      "content": "♪ Slow it down ♪",
+      "music": 0.9999998611111305
+    },
+    {
+      "from": 14.01,
+      "to": 16.84,
+      "sid": 7,
+      "location": 2,
+      "content": "What do you want from me",
+      "music": 0.19999997777777986
+    },
+    {
+      "from": 17.28,
+      "to": 19.26,
+      "sid": 8,
+      "location": 2,
+      "content": "还剩一名敌人三分",
+      "music": 0.0
+    },
+    {
+      "from": 22.6,
+      "to": 26.33,
+      "sid": 9,
+      "location": 2,
+      "content": "高飞我根本没把握在这",
+      "music": 0.2702702598351256
+    },
+    {
+      "from": 26.33,
+      "to": 27.89,
+      "sid": 10,
+      "location": 2,
+      "content": "我刚才跳下来了",
+      "music": 0.0
+    },
+    {
+      "from": 27.89,
+      "to": 29.91,
+      "sid": 11,
+      "location": 2,
+      "content": "还剩一秒时",
+      "music": 0.214285695153062
+    },
+    {
+      "from": 29.91,
+      "to": 33.45,
+      "sid": 12,
+      "location": 2,
+      "content": "I am not have been the snow",
+      "music": 0.31249990234378466
+    },
+    {
+      "from": 33.45,
+      "to": 35.45,
+      "sid": 13,
+      "location": 2,
+      "content": "Give wait",
+      "music": 0.0
+    },
+    {
+      "from": 35.45,
+      "to": 37.99,
+      "sid": 14,
+      "location": 2,
+      "content": "♪ Oh once upon a time ♪",
+      "music": 0.8926553167991361
+    },
+    {
+      "from": 37.99,
+      "to": 40.55,
+      "sid": 15,
+      "location": 2,
+      "content": "♪ I didn't give them ♪",
+      "music": 0.8509316241657363
+    },
+    {
+      "from": 40.55,
+      "to": 42.8,
+      "sid": 16,
+      "location": 2,
+      "content": "♪ But now ♪",
+      "music": 0.9999998666666845
+    },
+    {
+      "from": 48.229,
+      "to": 49.829,
+      "sid": 17,
+      "location": 2,
+      "content": "我方还剩一人",
+      "music": 0.0
+    },
+    {
+      "from": 49.829,
+      "to": 51.689,
+      "sid": 18,
+      "location": 2,
+      "content": "还剩一名敌人",
+      "music": 0.0
+    },
+    {
+      "from": 51.689,
+      "to": 55.05,
+      "sid": 19,
+      "location": 2,
+      "content": "剩余30秒打40哦",
+      "music": 0.0
+    },
+    {
+      "from": 55.05,
+      "to": 56.959,
+      "sid": 20,
+      "location": 2,
+      "content": "I'm walking in",
+      "music": 0.0
+    },
+    {
+      "from": 57.879,
+      "to": 59.419,
+      "sid": 21,
+      "location": 2,
+      "content": "牛逼兄弟",
+      "music": 0.0
+    },
+    {
+      "from": 60.299,
+      "to": 62.879,
+      "sid": 22,
+      "location": 2,
+      "content": "♪ i'll let you强起来 ♪",
+      "music": 0.9358973759040132
+    },
+    {
+      "from": 62.879,
+      "to": 64.9,
+      "sid": 23,
+      "location": 2,
+      "content": "禁止偷看沙发被打倒了",
+      "music": 0.0
+    },
+    {
+      "from": 64.9,
+      "to": 68.4,
+      "sid": 24,
+      "location": 2,
+      "content": "We were second to fall night",
+      "music": 0.16666665404040498
+    },
+    {
+      "from": 68.4,
+      "to": 70.54,
+      "sid": 25,
+      "location": 2,
+      "content": "Walking around",
+      "music": 0.0
+    },
+    {
+      "from": 73.26,
+      "to": 74.2,
+      "sid": 26,
+      "location": 2,
+      "content": "危机解除",
+      "music": 0.0
+    },
+    {
+      "from": 74.2,
+      "to": 74.9,
+      "sid": 27,
+      "location": 2,
+      "content": "我的大招",
+      "music": 0.0
+    },
+    {
+      "from": 74.9,
+      "to": 76.509,
+      "sid": 28,
+      "location": 2,
+      "content": "好投放烟雾",
+      "music": 0.0
+    },
+    {
+      "from": 76.509,
+      "to": 78.269,
+      "sid": 29,
+      "location": 2,
+      "content": "What do you want from me",
+      "music": 0.6471493609939369
+    },
+    {
+      "from": 80.629,
+      "to": 81.869,
+      "sid": 30,
+      "location": 2,
+      "content": "我还剩一人",
+      "music": 0.0
+    },
+    {
+      "from": 83.309,
+      "to": 84.919,
+      "sid": 31,
+      "location": 2,
+      "content": "别挡我的路",
+      "music": 0.0
+    },
+    {
+      "from": 84.919,
+      "to": 86.999,
+      "sid": 32,
+      "location": 2,
+      "content": "你过瘾了",
+      "music": 0.0
+    },
+    {
+      "from": 86.999,
+      "to": 88.399,
+      "sid": 33,
+      "location": 2,
+      "content": "该轮到我了",
+      "music": 0.0
+    },
+    {
+      "from": 88.399,
+      "to": 89.439,
+      "sid": 34,
+      "location": 2,
+      "content": "解决四",
+      "music": 0.0
+    },
+    {
+      "from": 89.439,
+      "to": 92.119,
+      "sid": 35,
+      "location": 2,
+      "content": "只剩一名敌人哈",
+      "music": 0.0
+    },
+    {
+      "from": 92.119,
+      "to": 93.959,
+      "sid": 36,
+      "location": 2,
+      "content": "小刀",
+      "music": 0.0
+    },
+    {
+      "from": 94.09,
+      "to": 97.259,
+      "sid": 37,
+      "location": 2,
+      "content": "♪ The face your love me ♪",
+      "music": 0.9999999295774697
+    },
+    {
+      "from": 97.339,
+      "to": 99.299,
+      "sid": 38,
+      "location": 2,
+      "content": "哦你好再见",
+      "music": 0.2224281536211101
+    },
+    {
+      "from": 100.739,
+      "to": 101.5,
+      "sid": 39,
+      "location": 2,
+      "content": "妈",
+      "music": 0.0
+    },
+    {
+      "from": 101.5,
+      "to": 105.02,
+      "sid": 40,
+      "location": 2,
+      "content": "♪ At the time when i would let you step away ♪",
+      "music": 0.9090908631772259
+    },
+    {
+      "from": 105.02,
+      "to": 107.44,
+      "sid": 41,
+      "location": 2,
+      "content": "♪ I wouldn't even try ♪",
+      "music": 0.9999999586776878
+    },
+    {
+      "from": 107.44,
+      "to": 110.059,
+      "sid": 42,
+      "location": 2,
+      "content": "but i could你有事吗",
+      "music": 0.24655545710257903
+    },
+    {
+      "from": 110.059,
+      "to": 112.579,
+      "sid": 43,
+      "location": 2,
+      "content": "不爱失去",
+      "music": 0.0
+    },
+    {
+      "from": 112.579,
+      "to": 114.619,
+      "sid": 44,
+      "location": 2,
+      "content": "♪ Give up ♪",
+      "music": 0.998389533270599
+    },
+    {
+      "from": 115.12,
+      "to": 116.24,
+      "sid": 45,
+      "location": 2,
+      "content": "Wait out",
+      "music": 0.0
+    },
+    {
+      "from": 116.24,
+      "to": 117.28,
+      "sid": 46,
+      "location": 2,
+      "content": "这三个",
+      "music": 0.21153844119822443
+    },
+    {
+      "from": 117.28,
+      "to": 119.16,
+      "sid": 47,
+      "location": 2,
+      "content": "We don't leaving",
+      "music": 0.649122750076955
+    },
+    {
+      "from": 119.16,
+      "to": 123.81,
+      "sid": 48,
+      "location": 2,
+      "content": "But i won't let you go down in my world",
+      "music": 0.1841004107070948
+    },
+    {
+      "from": 123.81,
+      "to": 126.83,
+      "sid": 49,
+      "location": 2,
+      "content": "I never for angebe",
+      "music": 0.0
+    },
+    {
+      "from": 126.83,
+      "to": 129.03,
+      "sid": 50,
+      "location": 2,
+      "content": "♪ Just keep coming around ♪",
+      "music": 0.9999999253731399
+    },
+    {
+      "from": 130.11,
+      "to": 130.92,
+      "sid": 51,
+      "location": 2,
+      "content": "♪ Hey ♪",
+      "music": 0.9999995652175804
+    },
+    {
+      "from": 130.995,
+      "to": 132.2,
+      "sid": 52,
+      "location": 2,
+      "content": "好吧",
+      "music": 0.0
+    },
+    {
+      "from": 132.2,
+      "to": 133.72,
+      "sid": 53,
+      "location": 2,
+      "content": "这可太妙了",
+      "music": 0.0
+    },
+    {
+      "from": 133.72,
+      "to": 135.85,
+      "sid": 54,
+      "location": 2,
+      "content": "我的大招好了",
+      "music": 0.0
+    },
+    {
+      "from": 137.13,
+      "to": 138.79,
+      "sid": 55,
+      "location": 2,
+      "content": "SB啊",
+      "music": 0.0
+    },
+    {
+      "from": 138.79,
+      "to": 139.57,
+      "sid": 56,
+      "location": 2,
+      "content": "爆能气",
+      "music": 0.0
+    },
+    {
+      "from": 139.57,
+      "to": 140.29,
+      "sid": 57,
+      "location": 2,
+      "content": "落在中区",
+      "music": 0.0
+    },
+    {
+      "from": 141.33,
+      "to": 142.75,
+      "sid": 58,
+      "location": 2,
+      "content": "我方还剩一人",
+      "music": 0.0
+    },
+    {
+      "from": 142.75,
+      "to": 145.38,
+      "sid": 59,
+      "location": 2,
+      "content": "哎我操不",
+      "music": 0.0
+    },
+    {
+      "from": 145.38,
+      "to": 146.62,
+      "sid": 60,
+      "location": 2,
+      "content": "这我行了",
+      "music": 0.0
+    },
+    {
+      "from": 146.62,
+      "to": 147.02,
+      "sid": 61,
+      "location": 2,
+      "content": "兄弟",
+      "music": 0.0
+    },
+    {
+      "from": 150.22,
+      "to": 152.02,
+      "sid": 62,
+      "location": 2,
+      "content": "不主要我们这我们这不能RU点",
+      "music": 0.0
+    },
+    {
+      "from": 152.02,
+      "to": 153.56,
+      "sid": 63,
+      "location": 2,
+      "content": "因为对面有高手",
+      "music": 0.0
+    },
+    {
+      "from": 156.1,
+      "to": 156.94,
+      "sid": 64,
+      "location": 2,
+      "content": "睡个好觉",
+      "music": 0.0
+    },
+    {
+      "from": 158.66,
+      "to": 159.02,
+      "sid": 65,
+      "location": 2,
+      "content": "♪ Down ♪",
+      "music": 0.9999995833335069
+    },
+    {
+      "from": 160.18,
+      "to": 161.9,
+      "sid": 66,
+      "location": 2,
+      "content": "万能器已部署",
+      "music": 0.0943396137415403
+    },
+    {
+      "from": 162.6,
+      "to": 163.56,
+      "sid": 67,
+      "location": 2,
+      "content": "No",
+      "music": 0.0
+    },
+    {
+      "from": 163.56,
+      "to": 165.959,
+      "sid": 68,
+      "location": 2,
+      "content": "I won't let you down",
+      "music": 0.5833332928240604
+    },
+    {
+      "from": 165.959,
+      "to": 167.739,
+      "sid": 69,
+      "location": 2,
+      "content": "还剩一名敌人",
+      "music": 0.0
+    },
+    {
+      "from": 167.739,
+      "to": 170.239,
+      "sid": 70,
+      "location": 2,
+      "content": "哥们神经技术都落下",
+      "music": 0.06614303157738434
+    },
+    {
+      "from": 170.239,
+      "to": 171.559,
+      "sid": 71,
+      "location": 2,
+      "content": "我这人有个毛",
+      "music": 0.0
+    },
+    {
+      "from": 171.559,
+      "to": 173.92,
+      "sid": 72,
+      "location": 2,
+      "content": "♪ Don't give up ♪",
+      "music": 0.9999998571428776
+    },
+    {
+      "from": 174.16,
+      "to": 175.9,
+      "sid": 73,
+      "location": 2,
+      "content": "♪ Walking it out ♪",
+      "music": 0.9999995833335069
+    },
+    {
+      "from": 175.9,
+      "to": 176.8,
+      "sid": 74,
+      "location": 2,
+      "content": "♪ Please ♪",
+      "music": 0.9999998214286034
+    },
+    {
+      "from": 176.8,
+      "to": 179.14,
+      "sid": 75,
+      "location": 2,
+      "content": "Don't hei",
+      "music": 0.0
+    },
+    {
+      "from": 179.14,
+      "to": 180.86,
+      "sid": 76,
+      "location": 2,
+      "content": "I'll let you down",
+      "music": 0.431372506728167
+    },
+    {
+      "from": 180.86,
+      "to": 182.26,
+      "sid": 77,
+      "location": 2,
+      "content": "Don't hear me",
+      "music": 0.3428570938775499
+    },
+    {
+      "from": 182.26,
+      "to": 183.22,
+      "sid": 78,
+      "location": 2,
+      "content": "♪ That's me me ♪",
+      "music": 0.9999998750000156
+    },
+    {
+      "from": 183.22,
+      "to": 186.13,
+      "sid": 79,
+      "location": 2,
+      "content": "I need a second to breathe",
+      "music": 0.42647055687716984
+    },
+    {
+      "from": 186.13,
+      "to": 188.01,
+      "sid": 80,
+      "location": 2,
+      "content": "♪ Just keep coming me love ♪",
+      "music": 0.9126212706192909
+    },
+    {
+      "from": 188.01,
+      "to": 189.13,
+      "sid": 81,
+      "location": 2,
+      "content": "九八千",
+      "music": 0.0
+    },
+    {
+      "from": 210.31,
+      "to": 214.54,
+      "sid": 82,
+      "location": 2,
+      "content": "爆能器已部署是你的错哦",
+      "music": 0.0
+    },
+    {
+      "from": 224.08,
+      "to": 226.32,
+      "sid": 83,
+      "location": 2,
+      "content": "这么神秘吗",
+      "music": 0.0
+    },
+    {
+      "from": 228.4,
+      "to": 229.85,
+      "sid": 84,
+      "location": 2,
+      "content": "克啊",
+      "music": 0.0
+    },
+    {
+      "from": 229.85,
+      "to": 231.35,
+      "sid": 85,
+      "location": 2,
+      "content": "那好吧啊",
+      "music": 0.0
+    },
+    {
+      "from": 231.35,
+      "to": 232.55,
+      "sid": 86,
+      "location": 2,
+      "content": "这是人啊",
+      "music": 0.0
+    },
+    {
+      "from": 232.55,
+      "to": 234.32,
+      "sid": 87,
+      "location": 2,
+      "content": "我都没怎么使劲儿呢",
+      "music": 0.0
+    }
+  ]
+}

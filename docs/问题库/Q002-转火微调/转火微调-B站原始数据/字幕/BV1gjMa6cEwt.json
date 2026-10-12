@@ -1,0 +1,574 @@
+{
+  "bvid": "BV1gjMa6cEwt",
+  "status": "ok lang=ai-zh",
+  "segments": [
+    {
+      "from": 0.0,
+      "to": 1.32,
+      "sid": 1,
+      "location": 2,
+      "content": "不管你玩什么射击游戏",
+      "music": 0.0
+    },
+    {
+      "from": 1.32,
+      "to": 3.16,
+      "sid": 2,
+      "location": 2,
+      "content": "瞄准的底层能力都是相通的",
+      "music": 0.0
+    },
+    {
+      "from": 3.16,
+      "to": 6.2,
+      "sid": 3,
+      "location": 2,
+      "content": "今天给你这套aim las通用基础瞄准训练路线",
+      "music": 0.0
+    },
+    {
+      "from": 6.2,
+      "to": 7.28,
+      "sid": 4,
+      "location": 2,
+      "content": "不分游戏类型",
+      "music": 0.0
+    },
+    {
+      "from": 7.28,
+      "to": 9.5,
+      "sid": 5,
+      "location": 2,
+      "content": "从新手入门到日常热身都合适",
+      "music": 0.0
+    },
+    {
+      "from": 9.5,
+      "to": 12.91,
+      "sid": 6,
+      "location": 2,
+      "content": "24分钟把三大核心能力全练到这套路线",
+      "music": 0.0
+    },
+    {
+      "from": 12.91,
+      "to": 14.31,
+      "sid": 7,
+      "location": 2,
+      "content": "没有偏向某一款游戏",
+      "music": 0.0
+    },
+    {
+      "from": 14.31,
+      "to": 16.99,
+      "sid": 8,
+      "location": 2,
+      "content": "专门打磨所有FPS需要的基本功",
+      "music": 0.0
+    },
+    {
+      "from": 16.99,
+      "to": 18.55,
+      "sid": 9,
+      "location": 2,
+      "content": "一共分为三大模块",
+      "music": 0.0
+    },
+    {
+      "from": 18.55,
+      "to": 19.35,
+      "sid": 10,
+      "location": 2,
+      "content": "甩枪定位",
+      "music": 0.0
+    },
+    {
+      "from": 19.35,
+      "to": 20.13,
+      "sid": 11,
+      "location": 2,
+      "content": "目标切换",
+      "music": 0.0
+    },
+    {
+      "from": 20.13,
+      "to": 21.03,
+      "sid": 12,
+      "location": 2,
+      "content": "持续跟枪",
+      "music": 0.0
+    },
+    {
+      "from": 21.03,
+      "to": 22.65,
+      "sid": 13,
+      "location": 2,
+      "content": "每个模块从易到难",
+      "music": 0.0
+    },
+    {
+      "from": 22.65,
+      "to": 23.55,
+      "sid": 14,
+      "location": 2,
+      "content": "循序渐进",
+      "music": 0.0
+    },
+    {
+      "from": 23.55,
+      "to": 25.47,
+      "sid": 15,
+      "location": 2,
+      "content": "练完刚好半小时左右",
+      "music": 0.0
+    },
+    {
+      "from": 25.47,
+      "to": 27.31,
+      "sid": 16,
+      "location": 2,
+      "content": "第一部分练甩枪定位",
+      "music": 0.0
+    },
+    {
+      "from": 27.31,
+      "to": 30.549,
+      "sid": 17,
+      "location": 2,
+      "content": "教你快速把准星从A点精准拉到B点",
+      "music": 0.0
+    },
+    {
+      "from": 30.549,
+      "to": 33.749,
+      "sid": 18,
+      "location": 2,
+      "content": "基础甩枪先从大而静止的目标开始",
+      "music": 0.0
+    },
+    {
+      "from": 33.749,
+      "to": 35.249,
+      "sid": 19,
+      "location": 2,
+      "content": "再过渡到移动目标",
+      "music": 0.0
+    },
+    {
+      "from": 35.249,
+      "to": 37.269,
+      "sid": 20,
+      "location": 2,
+      "content": "重点练出手速度和准度",
+      "music": 0.0
+    },
+    {
+      "from": 37.269,
+      "to": 39.379,
+      "sid": 21,
+      "location": 2,
+      "content": "也是整套训练的热身起点",
+      "music": 0.0
+    },
+    {
+      "from": 39.379,
+      "to": 42.399,
+      "sid": 22,
+      "location": 2,
+      "content": "双点开镜射击中等距离固定目标",
+      "music": 0.0
+    },
+    {
+      "from": 42.399,
+      "to": 45.23,
+      "sid": 23,
+      "location": 2,
+      "content": "帮你掌握不同距离下甩枪的基础速度",
+      "music": 0.0
+    },
+    {
+      "from": 45.23,
+      "to": 46.39,
+      "sid": 24,
+      "location": 2,
+      "content": "角度修正",
+      "music": 0.0
+    },
+    {
+      "from": 46.39,
+      "to": 48.21,
+      "sid": 25,
+      "location": 2,
+      "content": "射击目标会小幅走位",
+      "music": 0.0
+    },
+    {
+      "from": 48.21,
+      "to": 50.93,
+      "sid": 26,
+      "location": 2,
+      "content": "要求你先快速定位再做微调修正",
+      "music": 0.0
+    },
+    {
+      "from": 50.93,
+      "to": 53.51,
+      "sid": 27,
+      "location": 2,
+      "content": "养成先到位再校准的好习惯",
+      "music": 0.0
+    },
+    {
+      "from": 53.51,
+      "to": 55.35,
+      "sid": 28,
+      "location": 2,
+      "content": "第二部分练目标切换",
+      "music": 0.0
+    },
+    {
+      "from": 55.35,
+      "to": 57.76,
+      "sid": 29,
+      "location": 2,
+      "content": "模拟实战里连续接敌的情况",
+      "music": 0.0
+    },
+    {
+      "from": 57.76,
+      "to": 58.94,
+      "sid": 30,
+      "location": 2,
+      "content": "基础切换",
+      "music": 0.0
+    },
+    {
+      "from": 58.94,
+      "to": 61.14,
+      "sid": 31,
+      "location": 2,
+      "content": "从四个静止目标到六个左右",
+      "music": 0.0
+    },
+    {
+      "from": 61.14,
+      "to": 61.98,
+      "sid": 32,
+      "location": 2,
+      "content": "平移的目标",
+      "music": 0.0
+    },
+    {
+      "from": 61.98,
+      "to": 64.4,
+      "sid": 33,
+      "location": 2,
+      "content": "先练快再练稳水平",
+      "music": 0.0
+    },
+    {
+      "from": 64.4,
+      "to": 65.92,
+      "sid": 34,
+      "location": 2,
+      "content": "大范围切换目标",
+      "music": 0.0
+    },
+    {
+      "from": 65.92,
+      "to": 67.46,
+      "sid": 35,
+      "location": 2,
+      "content": "在长距离上来回移动",
+      "music": 0.0
+    },
+    {
+      "from": 67.46,
+      "to": 68.46,
+      "sid": 36,
+      "location": 2,
+      "content": "轨迹清晰",
+      "music": 0.0
+    },
+    {
+      "from": 68.46,
+      "to": 69.98,
+      "sid": 37,
+      "location": 2,
+      "content": "帮你扩大动作范围",
+      "music": 0.0
+    },
+    {
+      "from": 69.98,
+      "to": 71.62,
+      "sid": 38,
+      "location": 2,
+      "content": "减少多余修正",
+      "music": 0.0
+    },
+    {
+      "from": 71.62,
+      "to": 72.26,
+      "sid": 39,
+      "location": 2,
+      "content": "可控",
+      "music": 0.0
+    },
+    {
+      "from": 72.26,
+      "to": 74.58,
+      "sid": 40,
+      "location": 2,
+      "content": "动态切换目标轨迹更灵活",
+      "music": 0.0
+    },
+    {
+      "from": 74.58,
+      "to": 75.78,
+      "sid": 41,
+      "location": 2,
+      "content": "而且有回血机制",
+      "music": 0.0
+    },
+    {
+      "from": 75.78,
+      "to": 78.04,
+      "sid": 42,
+      "location": 2,
+      "content": "必须彻底打残才能换下一个",
+      "music": 0.0
+    },
+    {
+      "from": 78.04,
+      "to": 80.06,
+      "sid": 43,
+      "location": 2,
+      "content": "逼着你练稳练完整",
+      "music": 0.0
+    },
+    {
+      "from": 80.06,
+      "to": 82.12,
+      "sid": 44,
+      "location": 2,
+      "content": "最后一部分练持续跟枪",
+      "music": 0.0
+    },
+    {
+      "from": 82.12,
+      "to": 84.47,
+      "sid": 45,
+      "location": 2,
+      "content": "解决目标移动就跟不上的问题",
+      "music": 0.0
+    },
+    {
+      "from": 84.47,
+      "to": 87.75,
+      "sid": 46,
+      "location": 2,
+      "content": "基础跟枪先从平缓移动的目标开始",
+      "music": 0.0
+    },
+    {
+      "from": 87.75,
+      "to": 89.89,
+      "sid": 47,
+      "location": 2,
+      "content": "再到前后左右变向的目标",
+      "music": 0.0
+    },
+    {
+      "from": 89.89,
+      "to": 91.88,
+      "sid": 48,
+      "location": 2,
+      "content": "建立平滑控制的感觉",
+      "music": 0.0
+    },
+    {
+      "from": 91.88,
+      "to": 95.46,
+      "sid": 49,
+      "location": 2,
+      "content": "长距跟枪目标做长距离匀速横移",
+      "music": 0.0
+    },
+    {
+      "from": 95.46,
+      "to": 96.48,
+      "sid": 50,
+      "location": 2,
+      "content": "重点练节奏",
+      "music": 0.0
+    },
+    {
+      "from": 96.48,
+      "to": 97.5,
+      "sid": 51,
+      "location": 2,
+      "content": "不要提前预判",
+      "music": 0.0
+    },
+    {
+      "from": 97.5,
+      "to": 98.77,
+      "sid": 52,
+      "location": 2,
+      "content": "跟着动作走",
+      "music": 0.0
+    },
+    {
+      "from": 98.77,
+      "to": 102.33,
+      "sid": 53,
+      "location": 2,
+      "content": "反应式跟枪目标在固定距离左右来回",
+      "music": 0.0
+    },
+    {
+      "from": 102.33,
+      "to": 103.23,
+      "sid": 54,
+      "location": 2,
+      "content": "轨迹稳定",
+      "music": 0.0
+    },
+    {
+      "from": 103.23,
+      "to": 104.37,
+      "sid": 55,
+      "location": 2,
+      "content": "但方向多变",
+      "music": 0.0
+    },
+    {
+      "from": 104.37,
+      "to": 106.25,
+      "sid": 56,
+      "location": 2,
+      "content": "练的是看动作再反应",
+      "music": 0.0
+    },
+    {
+      "from": 106.25,
+      "to": 107.31,
+      "sid": 57,
+      "location": 2,
+      "content": "避免瞎预判",
+      "music": 0.0
+    },
+    {
+      "from": 107.31,
+      "to": 108.505,
+      "sid": 58,
+      "location": 2,
+      "content": "越跟越歪",
+      "music": 0.0
+    },
+    {
+      "from": 108.539,
+      "to": 110.679,
+      "sid": 59,
+      "location": 2,
+      "content": "整套路线顺序很科学",
+      "music": 0.0
+    },
+    {
+      "from": 110.679,
+      "to": 112.079,
+      "sid": 60,
+      "location": 2,
+      "content": "从热身到精准",
+      "music": 0.0
+    },
+    {
+      "from": 112.079,
+      "to": 113.559,
+      "sid": 61,
+      "location": 2,
+      "content": "从静态到动态",
+      "music": 0.0
+    },
+    {
+      "from": 113.559,
+      "to": 115.77,
+      "sid": 62,
+      "location": 2,
+      "content": "从单一动作到综合运用",
+      "music": 0.0
+    },
+    {
+      "from": 115.77,
+      "to": 117.11,
+      "sid": 63,
+      "location": 2,
+      "content": "新手用它入门",
+      "music": 0.0
+    },
+    {
+      "from": 117.11,
+      "to": 119.46,
+      "sid": 64,
+      "location": 2,
+      "content": "老手用它热身效率都很高",
+      "music": 0.0
+    },
+    {
+      "from": 119.46,
+      "to": 120.5,
+      "sid": 65,
+      "location": 2,
+      "content": "获取方式",
+      "music": 0.0
+    },
+    {
+      "from": 120.5,
+      "to": 122.4,
+      "sid": 66,
+      "location": 2,
+      "content": "打开aim lab创意工坊",
+      "music": 0.0
+    },
+    {
+      "from": 122.4,
+      "to": 123.62,
+      "sid": 67,
+      "location": 2,
+      "content": "搜索aim lab",
+      "music": 0.0
+    },
+    {
+      "from": 123.62,
+      "to": 124.74,
+      "sid": 68,
+      "location": 2,
+      "content": "Aim basis rt",
+      "music": 0.0
+    },
+    {
+      "from": 124.74,
+      "to": 125.83,
+      "sid": 69,
+      "location": 2,
+      "content": "直接订阅即可",
+      "music": 0.0
+    },
+    {
+      "from": 125.83,
+      "to": 127.07,
+      "sid": 70,
+      "location": 2,
+      "content": "或查看评论",
+      "music": 0.0
+    },
+    {
+      "from": 127.07,
+      "to": 128.0,
+      "sid": 71,
+      "location": 2,
+      "content": "置顶链接",
+      "music": 0.0
+    }
+  ]
+}

@@ -1,0 +1,974 @@
+{
+  "bvid": "BV1aXyuYeEc8",
+  "status": "ok lang=ai-zh",
+  "segments": [
+    {
+      "from": 1.76,
+      "to": 3.52,
+      "sid": 1,
+      "location": 2,
+      "content": "如果今天你完全达不到对手的摆设",
+      "music": 0.0
+    },
+    {
+      "from": 3.52,
+      "to": 5.8,
+      "sid": 2,
+      "location": 2,
+      "content": "其实这个会是手指跟微调的问题哦",
+      "music": 0.0
+    },
+    {
+      "from": 5.8,
+      "to": 8.4,
+      "sid": 3,
+      "location": 2,
+      "content": "来我们看我们今天把手每个地方负责的部位",
+      "music": 0.0
+    },
+    {
+      "from": 8.4,
+      "to": 9.7,
+      "sid": 4,
+      "location": 2,
+      "content": "去跟大家做分享",
+      "music": 0.0
+    },
+    {
+      "from": 9.7,
+      "to": 12.56,
+      "sid": 5,
+      "location": 2,
+      "content": "如果一个大部分选手会选择常态模式",
+      "music": 0.0
+    },
+    {
+      "from": 12.56,
+      "to": 13.83,
+      "sid": 6,
+      "location": 2,
+      "content": "会是像这样子",
+      "music": 0.0
+    },
+    {
+      "from": 13.83,
+      "to": 15.85,
+      "sid": 7,
+      "location": 2,
+      "content": "把手臂放在整个鼠标垫上",
+      "music": 0.0
+    },
+    {
+      "from": 15.85,
+      "to": 19.49,
+      "sid": 8,
+      "location": 2,
+      "content": "用整只手去完成在实战中右手的全部分工",
+      "music": 0.0
+    },
+    {
+      "from": 19.49,
+      "to": 21.41,
+      "sid": 9,
+      "location": 2,
+      "content": "那具体上来说有哪些工作呢",
+      "music": 0.0
+    },
+    {
+      "from": 21.41,
+      "to": 22.59,
+      "sid": 10,
+      "location": 2,
+      "content": "一微调",
+      "music": 0.0
+    },
+    {
+      "from": 22.59,
+      "to": 23.81,
+      "sid": 11,
+      "location": 2,
+      "content": "二小定位",
+      "music": 0.0
+    },
+    {
+      "from": 23.81,
+      "to": 24.95,
+      "sid": 12,
+      "location": 2,
+      "content": "三中定位",
+      "music": 0.0
+    },
+    {
+      "from": 24.95,
+      "to": 26.31,
+      "sid": 13,
+      "location": 2,
+      "content": "四大定位",
+      "music": 0.0
+    },
+    {
+      "from": 26.31,
+      "to": 29.259,
+      "sid": 14,
+      "location": 2,
+      "content": "其实这么多的定位说白一点就是距离",
+      "music": 0.0
+    },
+    {
+      "from": 29.259,
+      "to": 31.479,
+      "sid": 15,
+      "location": 2,
+      "content": "距离跟你的出力有什么连接性呢",
+      "music": 0.0
+    },
+    {
+      "from": 31.479,
+      "to": 33.059,
+      "sid": 16,
+      "location": 2,
+      "content": "其实就是你离目标越远",
+      "music": 0.16227179430211133
+    },
+    {
+      "from": 33.059,
+      "to": 33.939,
+      "sid": 17,
+      "location": 2,
+      "content": "出力越大",
+      "music": 0.0
+    },
+    {
+      "from": 33.939,
+      "to": 35.019,
+      "sid": 18,
+      "location": 2,
+      "content": "而离目标越近",
+      "music": 0.0
+    },
+    {
+      "from": 35.019,
+      "to": 36.07,
+      "sid": 19,
+      "location": 2,
+      "content": "出力就越小",
+      "music": 0.0
+    },
+    {
+      "from": 36.07,
+      "to": 37.19,
+      "sid": 20,
+      "location": 2,
+      "content": "而我们在实战中",
+      "music": 0.0
+    },
+    {
+      "from": 37.19,
+      "to": 39.95,
+      "sid": 21,
+      "location": 2,
+      "content": "目的就是永远将准星瞬间自动吸附到",
+      "music": 0.0
+    },
+    {
+      "from": 39.95,
+      "to": 41.27,
+      "sid": 22,
+      "location": 2,
+      "content": "最合理的育苗上",
+      "music": 0.0
+    },
+    {
+      "from": 41.27,
+      "to": 45.32,
+      "sid": 23,
+      "location": 2,
+      "content": "最后透过育苗或微调或定位完成击杀",
+      "music": 0.0
+    },
+    {
+      "from": 45.32,
+      "to": 46.94,
+      "sid": 24,
+      "location": 2,
+      "content": "以这样子的概念来看的话",
+      "music": 0.0
+    },
+    {
+      "from": 46.94,
+      "to": 49.739,
+      "sid": 25,
+      "location": 2,
+      "content": "所有的预瞄跟定位本质上是相同的",
+      "music": 0.0
+    },
+    {
+      "from": 49.739,
+      "to": 51.939,
+      "sid": 26,
+      "location": 2,
+      "content": "也就是说整个瓦关于右手瞄准",
+      "music": 0.0
+    },
+    {
+      "from": 51.939,
+      "to": 53.139,
+      "sid": 27,
+      "location": 2,
+      "content": "整个的核心概念",
+      "music": 0.0
+    },
+    {
+      "from": 53.139,
+      "to": 56.2,
+      "sid": 28,
+      "location": 2,
+      "content": "就是透过发力控制及手的协调性",
+      "music": 0.0
+    },
+    {
+      "from": 56.2,
+      "to": 60.55,
+      "sid": 29,
+      "location": 2,
+      "content": "每一个部位负责不同的区域来达到无限定位",
+      "music": 0.0
+    },
+    {
+      "from": 60.55,
+      "to": 62.25,
+      "sid": 30,
+      "location": 2,
+      "content": "眼睛看着想预瞄的区域",
+      "music": 0.0
+    },
+    {
+      "from": 62.25,
+      "to": 64.19,
+      "sid": 31,
+      "location": 2,
+      "content": "判定跟准星的距离",
+      "music": 0.0
+    },
+    {
+      "from": 64.19,
+      "to": 67.15,
+      "sid": 32,
+      "location": 2,
+      "content": "瞬间去决定出发力大或是小",
+      "music": 0.0
+    },
+    {
+      "from": 67.15,
+      "to": 70.71,
+      "sid": 33,
+      "location": 2,
+      "content": "接着用收紧肌肉的方式啊",
+      "music": 0.0
+    },
+    {
+      "from": 70.71,
+      "to": 71.59,
+      "sid": 34,
+      "location": 2,
+      "content": "收紧手臂肌肉",
+      "music": 0.0
+    },
+    {
+      "from": 71.59,
+      "to": 72.83,
+      "sid": 35,
+      "location": 2,
+      "content": "再捏紧你的手指",
+      "music": 0.0
+    },
+    {
+      "from": 72.83,
+      "to": 73.63,
+      "sid": 36,
+      "location": 2,
+      "content": "做一个制动",
+      "music": 0.0
+    },
+    {
+      "from": 73.63,
+      "to": 75.07,
+      "sid": 37,
+      "location": 2,
+      "content": "将它停在目标上了",
+      "music": 0.0
+    },
+    {
+      "from": 75.07,
+      "to": 76.23,
+      "sid": 38,
+      "location": 2,
+      "content": "接着微微放松",
+      "music": 0.0
+    },
+    {
+      "from": 76.23,
+      "to": 77.99,
+      "sid": 39,
+      "location": 2,
+      "content": "马上来准备下一次的定位",
+      "music": 0.0
+    },
+    {
+      "from": 77.99,
+      "to": 81.39,
+      "sid": 40,
+      "location": 2,
+      "content": "手臂必须去负责转身以及大定位和中定位",
+      "music": 0.0
+    },
+    {
+      "from": 81.39,
+      "to": 82.71,
+      "sid": 41,
+      "location": 2,
+      "content": "手腕则是小定位",
+      "music": 0.0
+    },
+    {
+      "from": 82.71,
+      "to": 84.49,
+      "sid": 42,
+      "location": 2,
+      "content": "手指则是微调",
+      "music": 0.0
+    },
+    {
+      "from": 84.49,
+      "to": 86.39,
+      "sid": 43,
+      "location": 2,
+      "content": "而我自己的手姿势上来说",
+      "music": 0.0
+    },
+    {
+      "from": 86.39,
+      "to": 87.89,
+      "sid": 44,
+      "location": 2,
+      "content": "手臂当成发力支点",
+      "music": 0.0
+    },
+    {
+      "from": 87.89,
+      "to": 89.73,
+      "sid": 45,
+      "location": 2,
+      "content": "手腕悬空连接到手指",
+      "music": 0.0
+    },
+    {
+      "from": 89.73,
+      "to": 92.46,
+      "sid": 46,
+      "location": 2,
+      "content": "刚刚好打通了一个相对支点",
+      "music": 0.0
+    },
+    {
+      "from": 92.46,
+      "to": 94.84,
+      "sid": 47,
+      "location": 2,
+      "content": "手指跟手臂的操纵性就会很好",
+      "music": 0.0
+    },
+    {
+      "from": 94.84,
+      "to": 96.34,
+      "sid": 48,
+      "location": 2,
+      "content": "以这样的理论来说的话",
+      "music": 0.0
+    },
+    {
+      "from": 96.34,
+      "to": 98.979,
+      "sid": 49,
+      "location": 2,
+      "content": "平滑瞄准是个完全没有意义的一件事情",
+      "music": 0.0
+    },
+    {
+      "from": 98.979,
+      "to": 101.379,
+      "sid": 50,
+      "location": 2,
+      "content": "你唯一需要做平滑瞄准的原因",
+      "music": 0.0
+    },
+    {
+      "from": 101.379,
+      "to": 105.41,
+      "sid": 51,
+      "location": 2,
+      "content": "就是你的手对于鼠标的控制制动技术不佳",
+      "music": 0.0
+    },
+    {
+      "from": 105.41,
+      "to": 107.37,
+      "sid": 52,
+      "location": 2,
+      "content": "导致你的定位是很差劲的",
+      "music": 0.0
+    },
+    {
+      "from": 107.37,
+      "to": 110.05,
+      "sid": 53,
+      "location": 2,
+      "content": "结果反而变成了你需要降低自己的移速",
+      "music": 0.0
+    },
+    {
+      "from": 110.05,
+      "to": 112.11,
+      "sid": 54,
+      "location": 2,
+      "content": "使其更好去被控制",
+      "music": 0.0
+    },
+    {
+      "from": 112.11,
+      "to": 114.78,
+      "sid": 55,
+      "location": 2,
+      "content": "除了平滑瞄准没有意义之外",
+      "music": 0.0
+    },
+    {
+      "from": 114.78,
+      "to": 116.82,
+      "sid": 56,
+      "location": 2,
+      "content": "其实很多时候大家打不到摆设的",
+      "music": 0.0
+    },
+    {
+      "from": 116.82,
+      "to": 119.2,
+      "sid": 57,
+      "location": 2,
+      "content": "最大原因就是右手的分工错误了",
+      "music": 0.0
+    },
+    {
+      "from": 119.2,
+      "to": 122.0,
+      "sid": 58,
+      "location": 2,
+      "content": "有些人是没有手指操控这个概念哦",
+      "music": 0.0
+    },
+    {
+      "from": 122.0,
+      "to": 123.1,
+      "sid": 59,
+      "location": 2,
+      "content": "手指操控怎么做",
+      "music": 0.0
+    },
+    {
+      "from": 123.1,
+      "to": 124.36,
+      "sid": 60,
+      "location": 2,
+      "content": "大拇指无名指",
+      "music": 0.0
+    },
+    {
+      "from": 124.36,
+      "to": 125.98,
+      "sid": 61,
+      "location": 2,
+      "content": "小拇指捏住操控",
+      "music": 0.0
+    },
+    {
+      "from": 125.98,
+      "to": 130.079,
+      "sid": 62,
+      "location": 2,
+      "content": "这里是负责操控微调及小定位的最佳填区了",
+      "music": 0.0
+    },
+    {
+      "from": 130.079,
+      "to": 133.139,
+      "sid": 63,
+      "location": 2,
+      "content": "我有一个右手定位速度极快的学生哦",
+      "music": 0.0
+    },
+    {
+      "from": 133.139,
+      "to": 135.149,
+      "sid": 64,
+      "location": 2,
+      "content": "他却连微调都做不好",
+      "music": 0.0
+    },
+    {
+      "from": 135.149,
+      "to": 136.169,
+      "sid": 65,
+      "location": 2,
+      "content": "原因是什么",
+      "music": 0.0
+    },
+    {
+      "from": 136.169,
+      "to": 136.869,
+      "sid": 66,
+      "location": 2,
+      "content": "原因在于",
+      "music": 0.0
+    },
+    {
+      "from": 136.869,
+      "to": 139.109,
+      "sid": 67,
+      "location": 2,
+      "content": "虽然他花了大半个月的时间去练习",
+      "music": 0.0
+    },
+    {
+      "from": 139.109,
+      "to": 140.749,
+      "sid": 68,
+      "location": 2,
+      "content": "但却永远是使用手腕",
+      "music": 0.0
+    },
+    {
+      "from": 140.749,
+      "to": 142.96,
+      "sid": 69,
+      "location": 2,
+      "content": "在负责贴近敌人的这块区域",
+      "music": 0.0
+    },
+    {
+      "from": 142.96,
+      "to": 146.84,
+      "sid": 70,
+      "location": 2,
+      "content": "这会导致他的微调永远都会过头",
+      "music": 0.0
+    },
+    {
+      "from": 146.84,
+      "to": 149.769,
+      "sid": 71,
+      "location": 2,
+      "content": "所以呢他的一次定位永远不会准嘛",
+      "music": 0.0
+    },
+    {
+      "from": 149.769,
+      "to": 151.409,
+      "sid": 72,
+      "location": 2,
+      "content": "最后形成的解决方案就是",
+      "music": 0.0
+    },
+    {
+      "from": 151.409,
+      "to": 153.31,
+      "sid": 73,
+      "location": 2,
+      "content": "他每次应该使用微调的时候",
+      "music": 0.0
+    },
+    {
+      "from": 153.31,
+      "to": 156.57,
+      "sid": 74,
+      "location": 2,
+      "content": "都是使用成了适合小定位的手腕",
+      "music": 0.0
+    },
+    {
+      "from": 156.57,
+      "to": 159.26,
+      "sid": 75,
+      "location": 2,
+      "content": "导致它超出了一个微调的范围",
+      "music": 0.0
+    },
+    {
+      "from": 159.26,
+      "to": 160.56,
+      "sid": 76,
+      "location": 2,
+      "content": "没有办法定位到",
+      "music": 0.0
+    },
+    {
+      "from": 160.56,
+      "to": 163.26,
+      "sid": 77,
+      "location": 2,
+      "content": "然后才将鼠标定位回正",
+      "music": 0.0
+    },
+    {
+      "from": 163.26,
+      "to": 165.02,
+      "sid": 78,
+      "location": 2,
+      "content": "拉稍微刚好远离头线",
+      "music": 0.0
+    },
+    {
+      "from": 165.02,
+      "to": 166.44,
+      "sid": 79,
+      "location": 2,
+      "content": "再做第三次定位",
+      "music": 0.0
+    },
+    {
+      "from": 166.44,
+      "to": 168.84,
+      "sid": 80,
+      "location": 2,
+      "content": "你看你多加上了这次的回正",
+      "music": 0.0
+    },
+    {
+      "from": 168.84,
+      "to": 170.92,
+      "sid": 81,
+      "location": 2,
+      "content": "你是不是就多浪费一次定位",
+      "music": 0.0
+    },
+    {
+      "from": 170.92,
+      "to": 174.22,
+      "sid": 82,
+      "location": 2,
+      "content": "而且本质上你一次定位是永远不可能准的",
+      "music": 0.0
+    },
+    {
+      "from": 174.22,
+      "to": 177.82,
+      "sid": 83,
+      "location": 2,
+      "content": "除非刚刚好你敌敌人的头部就是你的完美天区",
+      "music": 0.0
+    },
+    {
+      "from": 177.82,
+      "to": 179.26,
+      "sid": 84,
+      "location": 2,
+      "content": "这会造成什么后果",
+      "music": 0.0
+    },
+    {
+      "from": 179.26,
+      "to": 181.4,
+      "sid": 85,
+      "location": 2,
+      "content": "也就是说你的预瞄摆的越好",
+      "music": 0.0
+    },
+    {
+      "from": 181.4,
+      "to": 183.78,
+      "sid": 86,
+      "location": 2,
+      "content": "反而会影响你自己的击杀",
+      "music": 0.0
+    },
+    {
+      "from": 183.78,
+      "to": 186.6,
+      "sid": 87,
+      "location": 2,
+      "content": "因为你的头越接近敌人的时候",
+      "music": 0.0
+    },
+    {
+      "from": 186.6,
+      "to": 190.02,
+      "sid": 88,
+      "location": 2,
+      "content": "你反而会因为你的手腕没有一个微调",
+      "music": 0.0
+    },
+    {
+      "from": 190.02,
+      "to": 191.04,
+      "sid": 89,
+      "location": 2,
+      "content": "你不是用手指操控吗",
+      "music": 0.0
+    },
+    {
+      "from": 191.04,
+      "to": 192.98,
+      "sid": 90,
+      "location": 2,
+      "content": "你用手腕你永远都会超过它",
+      "music": 0.0
+    },
+    {
+      "from": 192.98,
+      "to": 195.57,
+      "sid": 91,
+      "location": 2,
+      "content": "你的一次定位根本就不可能达到他",
+      "music": 0.0
+    },
+    {
+      "from": 195.57,
+      "to": 199.01,
+      "sid": 92,
+      "location": 2,
+      "content": "你只有当摆到百分之百准确使用预瞄去杀人",
+      "music": 0.0
+    },
+    {
+      "from": 199.01,
+      "to": 201.94,
+      "sid": 93,
+      "location": 2,
+      "content": "或是刚刚好90分的一个误差",
+      "music": 0.0
+    },
+    {
+      "from": 201.94,
+      "to": 205.34,
+      "sid": 94,
+      "location": 2,
+      "content": "你才能够刚好在一个手腕的田区上去击杀敌人",
+      "music": 0.0
+    },
+    {
+      "from": 206.38,
+      "to": 210.13,
+      "sid": 95,
+      "location": 2,
+      "content": "当你的田区是处于90~99的时候",
+      "music": 0.0
+    },
+    {
+      "from": 210.13,
+      "to": 212.09,
+      "sid": 96,
+      "location": 2,
+      "content": "这些预瞄误差完全都会导致",
+      "music": 0.0
+    },
+    {
+      "from": 212.09,
+      "to": 213.95,
+      "sid": 97,
+      "location": 2,
+      "content": "你的一次定位是永远不可能中的",
+      "music": 0.0
+    },
+    {
+      "from": 213.95,
+      "to": 216.28,
+      "sid": 98,
+      "location": 2,
+      "content": "因为你的动作里面根本就没有微调",
+      "music": 0.0
+    },
+    {
+      "from": 216.28,
+      "to": 219.6,
+      "sid": 99,
+      "location": 2,
+      "content": "那么大B呢自然就是为了做大范围甩动",
+      "music": 0.0
+    },
+    {
+      "from": 219.6,
+      "to": 221.339,
+      "sid": 100,
+      "location": 2,
+      "content": "跟中范围移动了",
+      "music": 0.0
+    },
+    {
+      "from": 221.339,
+      "to": 222.439,
+      "sid": 101,
+      "location": 2,
+      "content": "不管如何",
+      "music": 0.0
+    },
+    {
+      "from": 222.439,
+      "to": 224.679,
+      "sid": 102,
+      "location": 2,
+      "content": "你唯一需要注意的其实就是什么",
+      "music": 0.0
+    },
+    {
+      "from": 224.679,
+      "to": 226.359,
+      "sid": 103,
+      "location": 2,
+      "content": "发力你得用力",
+      "music": 0.0
+    },
+    {
+      "from": 226.359,
+      "to": 227.859,
+      "sid": 104,
+      "location": 2,
+      "content": "你得用最快的速度",
+      "music": 0.0
+    },
+    {
+      "from": 227.859,
+      "to": 230.67,
+      "sid": 105,
+      "location": 2,
+      "content": "达到你希望准星到达的目标点",
+      "music": 0.0
+    },
+    {
+      "from": 230.67,
+      "to": 232.91,
+      "sid": 106,
+      "location": 2,
+      "content": "接着当敌人出现的时候",
+      "music": 0.0
+    },
+    {
+      "from": 232.91,
+      "to": 234.61,
+      "sid": 107,
+      "location": 2,
+      "content": "你是不是就只需要发微微的力",
+      "music": 0.0
+    },
+    {
+      "from": 234.61,
+      "to": 236.829,
+      "sid": 108,
+      "location": 2,
+      "content": "交给前方的手指处理就行了",
+      "music": 0.0
+    },
+    {
+      "from": 236.829,
+      "to": 238.589,
+      "sid": 109,
+      "location": 2,
+      "content": "这套逻辑就形成了完美的",
+      "music": 0.0
+    },
+    {
+      "from": 238.589,
+      "to": 240.369,
+      "sid": 110,
+      "location": 2,
+      "content": "右手瞄准的标准答案哦",
+      "music": 0.0
+    },
+    {
+      "from": 240.369,
+      "to": 242.949,
+      "sid": 111,
+      "location": 2,
+      "content": "我知道大部分的玩家都会在某一方面产生一",
+      "music": 0.0
+    },
+    {
+      "from": 242.949,
+      "to": 243.769,
+      "sid": 112,
+      "location": 2,
+      "content": "部分的偏离",
+      "music": 0.0
+    },
+    {
+      "from": 243.769,
+      "to": 245.51,
+      "sid": 113,
+      "location": 2,
+      "content": "甚至是非常大的偏离",
+      "music": 0.0
+    },
+    {
+      "from": 245.51,
+      "to": 248.31,
+      "sid": 114,
+      "location": 2,
+      "content": "那你需要做的其实就只是说你知道自己的问题",
+      "music": 0.0
+    },
+    {
+      "from": 248.31,
+      "to": 250.27,
+      "sid": 115,
+      "location": 2,
+      "content": "到底距离标准答案有多少",
+      "music": 0.0
+    },
+    {
+      "from": 250.27,
+      "to": 253.34,
+      "sid": 116,
+      "location": 2,
+      "content": "我们再进行修改或强加就好好",
+      "music": 0.0
+    },
+    {
+      "from": 253.34,
+      "to": 254.88,
+      "sid": 117,
+      "location": 2,
+      "content": "我们今天的课上到这里",
+      "music": 0.0
+    },
+    {
+      "from": 254.88,
+      "to": 255.86,
+      "sid": 118,
+      "location": 2,
+      "content": "喜欢我的课",
+      "music": 0.0
+    },
+    {
+      "from": 255.86,
+      "to": 256.8,
+      "sid": 119,
+      "location": 2,
+      "content": "记得帮我留言",
+      "music": 0.0
+    },
+    {
+      "from": 256.8,
+      "to": 257.94,
+      "sid": 120,
+      "location": 2,
+      "content": "写下你的感想",
+      "music": 0.0
+    },
+    {
+      "from": 257.94,
+      "to": 258.94,
+      "sid": 121,
+      "location": 2,
+      "content": "谢谢大家",
+      "music": 0.0
+    }
+  ]
+}

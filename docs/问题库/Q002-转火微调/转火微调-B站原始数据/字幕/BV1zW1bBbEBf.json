@@ -1,0 +1,3246 @@
+{
+  "bvid": "BV1zW1bBbEBf",
+  "status": "ok lang=ai-zh",
+  "segments": [
+    {
+      "content": "YouTube",
+      "from": 0.02,
+      "location": 2,
+      "music": 0.0,
+      "sid": 1,
+      "to": 0.42
+    },
+    {
+      "content": "发生了什么",
+      "from": 0.42,
+      "location": 2,
+      "music": 0.0,
+      "sid": 2,
+      "to": 1.18
+    },
+    {
+      "content": "我叫Corporate Surf",
+      "from": 1.18,
+      "location": 2,
+      "music": 0.0,
+      "sid": 3,
+      "to": 2.3
+    },
+    {
+      "content": "今天我们将推出最具野心的项目之一",
+      "from": 2.3,
+      "location": 2,
+      "music": 0.0,
+      "sid": 4,
+      "to": 5.44
+    },
+    {
+      "content": "这是我们最大的视频之一",
+      "from": 5.44,
+      "location": 2,
+      "music": 0.0,
+      "sid": 5,
+      "to": 7.05
+    },
+    {
+      "content": "今天到目前为止我们正在讨论瞄准提升",
+      "from": 7.05,
+      "location": 2,
+      "music": 0.0,
+      "sid": 6,
+      "to": 11.09
+    },
+    {
+      "content": "如何成为游戏高手",
+      "from": 11.09,
+      "location": 2,
+      "music": 0.0,
+      "sid": 7,
+      "to": 13.53
+    },
+    {
+      "content": "使用瞄准训练器",
+      "from": 13.53,
+      "location": 2,
+      "music": 0.0,
+      "sid": 8,
+      "to": 15.35
+    },
+    {
+      "content": "现在让我们深入探讨",
+      "from": 15.35,
+      "location": 2,
+      "music": 0.0,
+      "sid": 9,
+      "to": 16.65
+    },
+    {
+      "content": "瞄准训练器能实现多种目标",
+      "from": 16.65,
+      "location": 2,
+      "music": 0.0,
+      "sid": 10,
+      "to": 19.83
+    },
+    {
+      "content": "也许你现在在《Apex英雄》中屡战屡败",
+      "from": 19.83,
+      "location": 2,
+      "music": 0.0,
+      "sid": 11,
+      "to": 23.11
+    },
+    {
+      "content": "啊",
+      "from": 23.11,
+      "location": 2,
+      "music": 0.0,
+      "sid": 12,
+      "to": 23.61
+    },
+    {
+      "content": "手柄玩家",
+      "from": 23.61,
+      "location": 2,
+      "music": 0.0,
+      "sid": 13,
+      "to": 24.63
+    },
+    {
+      "content": "他们正在摧毁我",
+      "from": 24.63,
+      "location": 2,
+      "music": 0.0,
+      "sid": 14,
+      "to": 25.75
+    },
+    {
+      "content": "是时候进入瞄准训练了",
+      "from": 25.75,
+      "location": 2,
+      "music": 0.0,
+      "sid": 15,
+      "to": 26.99
+    },
+    {
+      "content": "实验室兄弟",
+      "from": 26.99,
+      "location": 2,
+      "music": 0.0,
+      "sid": 16,
+      "to": 27.71
+    },
+    {
+      "content": "但如果你想成为那样的高手",
+      "from": 27.71,
+      "location": 2,
+      "music": 0.0,
+      "sid": 17,
+      "to": 30.45
+    },
+    {
+      "content": "玛迪",
+      "from": 30.45,
+      "location": 2,
+      "music": 0.0,
+      "sid": 18,
+      "to": 30.99
+    },
+    {
+      "content": "哎呀",
+      "from": 30.99,
+      "location": 2,
+      "music": 0.0,
+      "sid": 19,
+      "to": 31.7
+    },
+    {
+      "content": "如果你想成为绝对传奇",
+      "from": 31.7,
+      "location": 2,
+      "music": 0.0,
+      "sid": 20,
+      "to": 34.54
+    },
+    {
+      "content": "凭借纯粹的机械操作",
+      "from": 34.54,
+      "location": 2,
+      "music": 0.0,
+      "sid": 21,
+      "to": 36.83
+    },
+    {
+      "content": "我来帮你",
+      "from": 36.83,
+      "location": 2,
+      "music": 0.0,
+      "sid": 22,
+      "to": 37.59
+    },
+    {
+      "content": "你来对视频了",
+      "from": 37.59,
+      "location": 2,
+      "music": 0.0,
+      "sid": 23,
+      "to": 38.53
+    },
+    {
+      "content": "我们还将讨论其他内容",
+      "from": 38.53,
+      "location": 2,
+      "music": 0.0,
+      "sid": 24,
+      "to": 40.47
+    },
+    {
+      "content": "除了我们玩的游戏和瞄准训练器",
+      "from": 40.47,
+      "location": 2,
+      "music": 0.0,
+      "sid": 25,
+      "to": 43.269
+    },
+    {
+      "content": "这些依然能帮助你在游戏中",
+      "from": 43.269,
+      "location": 2,
+      "music": 0.0,
+      "sid": 26,
+      "to": 45.67
+    },
+    {
+      "content": "但你也可能点击了这个视频",
+      "from": 45.67,
+      "location": 2,
+      "music": 0.0,
+      "sid": 27,
+      "to": 47.59
+    },
+    {
+      "content": "从未玩过鼠标键盘游戏",
+      "from": 47.59,
+      "location": 2,
+      "music": 0.0,
+      "sid": 28,
+      "to": 51.0
+    },
+    {
+      "content": "也许你甚至没有电脑",
+      "from": 51.0,
+      "location": 2,
+      "music": 0.0,
+      "sid": 29,
+      "to": 53.32
+    },
+    {
+      "content": "你只是出于好奇",
+      "from": 53.32,
+      "location": 2,
+      "music": 0.0,
+      "sid": 30,
+      "to": 54.28
+    },
+    {
+      "content": "什么是瞄准训练",
+      "from": 54.28,
+      "location": 2,
+      "music": 0.0,
+      "sid": 31,
+      "to": 55.67
+    },
+    {
+      "content": "这个视频非常适合你",
+      "from": 55.67,
+      "location": 2,
+      "music": 0.0,
+      "sid": 32,
+      "to": 57.15
+    },
+    {
+      "content": "因为我有一个你可以尝试的计划",
+      "from": 57.15,
+      "location": 2,
+      "music": 0.0,
+      "sid": 33,
+      "to": 59.53
+    },
+    {
+      "content": "而我是谁",
+      "from": 59.53,
+      "location": 2,
+      "music": 0.0,
+      "sid": 34,
+      "to": 60.19
+    },
+    {
+      "content": "我是顶尖的",
+      "from": 60.19,
+      "location": 2,
+      "music": 0.0,
+      "sid": 35,
+      "to": 61.54
+    },
+    {
+      "content": "M训练玩家",
+      "from": 61.54,
+      "location": 2,
+      "music": 0.0,
+      "sid": 36,
+      "to": 62.4
+    },
+    {
+      "content": "我专注于追踪训练",
+      "from": 62.4,
+      "location": 2,
+      "music": 0.0,
+      "sid": 37,
+      "to": 64.34
+    },
+    {
+      "content": "但我保持着科瓦奇的世界纪录",
+      "from": 64.34,
+      "location": 2,
+      "music": 0.0,
+      "sid": 38,
+      "to": 66.67
+    },
+    {
+      "content": "对于这个提升理论",
+      "from": 66.67,
+      "location": 2,
+      "music": 0.0,
+      "sid": 39,
+      "to": 68.19
+    },
+    {
+      "content": "我只需说一点",
+      "from": 68.19,
+      "location": 2,
+      "music": 0.0,
+      "sid": 40,
+      "to": 69.39
+    },
+    {
+      "content": "这是开场免责声明",
+      "from": 69.39,
+      "location": 2,
+      "music": 0.0,
+      "sid": 41,
+      "to": 71.61
+    },
+    {
+      "content": "这是我对你如何使用瞄准训练器的看法",
+      "from": 71.61,
+      "location": 2,
+      "music": 0.0,
+      "sid": 42,
+      "to": 75.759
+    },
+    {
+      "content": "无论你的目标是什么",
+      "from": 75.759,
+      "location": 2,
+      "music": 0.0,
+      "sid": 43,
+      "to": 77.419
+    },
+    {
+      "content": "仅仅因为我是个疯狂的人",
+      "from": 77.419,
+      "location": 2,
+      "music": 0.0,
+      "sid": 44,
+      "to": 79.699
+    },
+    {
+      "content": "在2025年对着麦克风大喊瞄准训练",
+      "from": 79.699,
+      "location": 2,
+      "music": 0.0,
+      "sid": 45,
+      "to": 83.66
+    },
+    {
+      "content": "并不意味着你必须接受我的观点",
+      "from": 83.66,
+      "location": 2,
+      "music": 0.0,
+      "sid": 46,
+      "to": 86.08
+    },
+    {
+      "content": "你可以听到我说的一切",
+      "from": 86.08,
+      "location": 2,
+      "music": 0.0,
+      "sid": 47,
+      "to": 88.1
+    },
+    {
+      "content": "并全部尝试",
+      "from": 88.1,
+      "location": 2,
+      "music": 0.0,
+      "sid": 48,
+      "to": 89.88
+    },
+    {
+      "content": "或者全部不试",
+      "from": 89.88,
+      "location": 2,
+      "music": 0.0,
+      "sid": 49,
+      "to": 91.82
+    },
+    {
+      "content": "我向你提出一个想法",
+      "from": 91.82,
+      "location": 2,
+      "music": 0.0,
+      "sid": 50,
+      "to": 93.86
+    },
+    {
+      "content": "如何使用它完全取决于你",
+      "from": 93.86,
+      "location": 2,
+      "music": 0.0,
+      "sid": 51,
+      "to": 96.52
+    },
+    {
+      "content": "所以对于这个理论",
+      "from": 96.52,
+      "location": 2,
+      "music": 0.0,
+      "sid": 52,
+      "to": 97.84
+    },
+    {
+      "content": "我们将使用伏打基准测试",
+      "from": 97.84,
+      "location": 2,
+      "music": 0.0,
+      "sid": 53,
+      "to": 99.72
+    },
+    {
+      "content": "这些在kovacs和a labs全站有排名",
+      "from": 99.72,
+      "location": 2,
+      "music": 0.0,
+      "sid": 54,
+      "to": 103.569
+    },
+    {
+      "content": "就像任何其他游戏一样",
+      "from": 103.569,
+      "location": 2,
+      "music": 0.0,
+      "sid": 55,
+      "to": 104.589
+    },
+    {
+      "content": "它将从铁牌开始",
+      "from": 104.589,
+      "location": 2,
+      "music": 0.0,
+      "sid": 56,
+      "to": 105.949
+    },
+    {
+      "content": "就像你在valorant中操作一样",
+      "from": 105.949,
+      "location": 2,
+      "music": 0.0,
+      "sid": 57,
+      "to": 107.75
+    },
+    {
+      "content": "有三套训练表",
+      "from": 107.75,
+      "location": 2,
+      "music": 0.0,
+      "sid": 58,
+      "to": 109.37
+    },
+    {
+      "content": "你正在查看的是新手训练表",
+      "from": 109.37,
+      "location": 2,
+      "music": 0.0,
+      "sid": 59,
+      "to": 111.93
+    },
+    {
+      "content": "但还有中级和高级基准",
+      "from": 111.93,
+      "location": 2,
+      "music": 0.0,
+      "sid": 60,
+      "to": 115.06
+    },
+    {
+      "content": "无论你当前技能水平如何",
+      "from": 115.06,
+      "location": 2,
+      "music": 0.0,
+      "sid": 61,
+      "to": 117.16
+    },
+    {
+      "content": "你可以用这些伏打基准提升射击水平",
+      "from": 117.16,
+      "location": 2,
+      "music": 0.0,
+      "sid": 62,
+      "to": 121.52
+    },
+    {
+      "content": "因此这些伏打基准",
+      "from": 121.52,
+      "location": 2,
+      "music": 0.0,
+      "sid": 63,
+      "to": 123.39
+    },
+    {
+      "content": "有三大类别",
+      "from": 123.39,
+      "location": 2,
+      "music": 0.0,
+      "sid": 64,
+      "to": 125.11
+    },
+    {
+      "content": "你可以看到左侧",
+      "from": 125.11,
+      "location": 2,
+      "music": 0.0,
+      "sid": 65,
+      "to": 126.05
+    },
+    {
+      "content": "有点击类",
+      "from": 126.05,
+      "location": 2,
+      "music": 0.0,
+      "sid": 66,
+      "to": 127.09
+    },
+    {
+      "content": "追踪和切换类",
+      "from": 127.09,
+      "location": 2,
+      "music": 0.0,
+      "sid": 67,
+      "to": 128.63
+    },
+    {
+      "content": "然后在右侧",
+      "from": 128.63,
+      "location": 2,
+      "music": 0.0,
+      "sid": 68,
+      "to": 129.59
+    },
+    {
+      "content": "所有这些线条",
+      "from": 129.59,
+      "location": 2,
+      "music": 0.0,
+      "sid": 69,
+      "to": 130.74
+    },
+    {
+      "content": "是我们子类别",
+      "from": 130.74,
+      "location": 2,
+      "music": 0.0,
+      "sid": 70,
+      "to": 132.14
+    },
+    {
+      "content": "这些是大类下的子类",
+      "from": 132.14,
+      "location": 2,
+      "music": 0.0,
+      "sid": 71,
+      "to": 134.54
+    },
+    {
+      "content": "所以动态",
+      "from": 134.54,
+      "location": 2,
+      "music": 0.0,
+      "sid": 72,
+      "to": 135.12
+    },
+    {
+      "content": "静态和线性",
+      "from": 135.12,
+      "location": 2,
+      "music": 0.0,
+      "sid": 73,
+      "to": 136.29
+    },
+    {
+      "content": "这些构成点击类要素",
+      "from": 136.29,
+      "location": 2,
+      "music": 0.0,
+      "sid": 74,
+      "to": 138.43
+    },
+    {
+      "content": "精准",
+      "from": 138.43,
+      "location": 2,
+      "music": 0.0,
+      "sid": 75,
+      "to": 138.93
+    },
+    {
+      "content": "反应和控制",
+      "from": 138.93,
+      "location": 2,
+      "music": 0.0,
+      "sid": 76,
+      "to": 140.01
+    },
+    {
+      "content": "这些是追踪的组成部分",
+      "from": 140.01,
+      "location": 2,
+      "music": 0.0,
+      "sid": 77,
+      "to": 141.81
+    },
+    {
+      "content": "然后是速度",
+      "from": 141.81,
+      "location": 2,
+      "music": 0.0,
+      "sid": 78,
+      "to": 142.69
+    },
+    {
+      "content": "规避",
+      "from": 142.69,
+      "location": 2,
+      "music": 0.0,
+      "sid": 79,
+      "to": 143.37
+    },
+    {
+      "content": "不稳定",
+      "from": 143.37,
+      "location": 2,
+      "music": 0.0,
+      "sid": 80,
+      "to": 144.39
+    },
+    {
+      "content": "这些是切换类要素",
+      "from": 144.39,
+      "location": 2,
+      "music": 0.0,
+      "sid": 81,
+      "to": 147.11
+    },
+    {
+      "content": "我们继续深入核心内容",
+      "from": 147.11,
+      "location": 2,
+      "music": 0.0,
+      "sid": 82,
+      "to": 149.11
+    },
+    {
+      "content": "这个理论的基础就在这里",
+      "from": 149.11,
+      "location": 2,
+      "music": 0.0,
+      "sid": 83,
+      "to": 152.33
+    },
+    {
+      "content": "在左侧",
+      "from": 152.33,
+      "location": 2,
+      "music": 0.0,
+      "sid": 84,
+      "to": 152.95
+    },
+    {
+      "content": "任务完成顺序具有优先级",
+      "from": 152.95,
+      "location": 2,
+      "music": 0.0,
+      "sid": 85,
+      "to": 157.49
+    },
+    {
+      "content": "我建议以追踪作为射击基础",
+      "from": 157.49,
+      "location": 2,
+      "music": 0.0,
+      "sid": 86,
+      "to": 161.81
+    },
+    {
+      "content": "逐步推进切换训练",
+      "from": 161.81,
+      "location": 2,
+      "music": 0.0,
+      "sid": 87,
+      "to": 163.9
+    },
+    {
+      "content": "通过点击确认进度",
+      "from": 163.9,
+      "location": 2,
+      "music": 0.0,
+      "sid": 88,
+      "to": 166.38
+    },
+    {
+      "content": "你将成为最全面且强大的",
+      "from": 166.38,
+      "location": 2,
+      "music": 0.0,
+      "sid": 89,
+      "to": 169.1
+    },
+    {
+      "content": "射手",
+      "from": 169.1,
+      "location": 2,
+      "music": 0.0,
+      "sid": 90,
+      "to": 169.86
+    },
+    {
+      "content": "你可以做到",
+      "from": 169.86,
+      "location": 2,
+      "music": 0.0,
+      "sid": 91,
+      "to": 170.94
+    },
+    {
+      "content": "我说过",
+      "from": 170.94,
+      "location": 2,
+      "music": 0.0,
+      "sid": 92,
+      "to": 171.22
+    },
+    {
+      "content": "这个伏打系统",
+      "from": 171.22,
+      "location": 2,
+      "music": 0.0,
+      "sid": 93,
+      "to": 172.42
+    },
+    {
+      "content": "有等级划分",
+      "from": 172.42,
+      "location": 2,
+      "music": 0.0,
+      "sid": 94,
+      "to": 173.56
+    },
+    {
+      "content": "你将从无排名开始",
+      "from": 173.56,
+      "location": 2,
+      "music": 0.0,
+      "sid": 95,
+      "to": 175.41
+    },
+    {
+      "content": "输入首次成绩后",
+      "from": 175.41,
+      "location": 2,
+      "music": 0.0,
+      "sid": 96,
+      "to": 176.93
+    },
+    {
+      "content": "很可能连铁牌都达不到",
+      "from": 176.93,
+      "location": 2,
+      "music": 0.0,
+      "sid": 97,
+      "to": 179.73
+    },
+    {
+      "content": "也许你会",
+      "from": 179.73,
+      "location": 2,
+      "music": 0.0,
+      "sid": 98,
+      "to": 180.43
+    },
+    {
+      "content": "如果达到的话",
+      "from": 180.43,
+      "location": 2,
+      "music": 0.0,
+      "sid": 99,
+      "to": 181.05
+    },
+    {
+      "content": "那太好了",
+      "from": 181.05,
+      "location": 2,
+      "music": 0.0,
+      "sid": 100,
+      "to": 181.55
+    },
+    {
+      "content": "但你们中很多人刚开始时都是无排名状态",
+      "from": 181.55,
+      "location": 2,
+      "music": 0.0,
+      "sid": 101,
+      "to": 184.32
+    },
+    {
+      "content": "所以对于这一级来说",
+      "from": 184.32,
+      "location": 2,
+      "music": 0.0,
+      "sid": 102,
+      "to": 185.8
+    },
+    {
+      "content": "我建议你们在这里精准追踪左侧进度",
+      "from": 185.8,
+      "location": 2,
+      "music": 0.0,
+      "sid": 103,
+      "to": 189.81
+    },
+    {
+      "content": "然后去获得银牌",
+      "from": 189.81,
+      "location": 2,
+      "music": 0.0,
+      "sid": 104,
+      "to": 191.47
+    },
+    {
+      "content": "接下来控制项目也获得银牌",
+      "from": 191.47,
+      "location": 2,
+      "music": 0.0,
+      "sid": 105,
+      "to": 193.81
+    },
+    {
+      "content": "然后向下切换",
+      "from": 193.81,
+      "location": 2,
+      "music": 0.0,
+      "sid": 106,
+      "to": 195.67
+    },
+    {
+      "content": "获取银牌并点击银牌",
+      "from": 195.67,
+      "location": 2,
+      "music": 0.0,
+      "sid": 107,
+      "to": 198.5
+    },
+    {
+      "content": "直到所有银牌基准完成",
+      "from": 198.5,
+      "location": 2,
+      "music": 0.0,
+      "sid": 108,
+      "to": 202.6
+    },
+    {
+      "content": "所以一级目标是从无排名到完成银牌",
+      "from": 202.6,
+      "location": 2,
+      "music": 0.0,
+      "sid": 109,
+      "to": 207.37
+    },
+    {
+      "content": "当银牌完成之后",
+      "from": 207.37,
+      "location": 2,
+      "music": 0.0,
+      "sid": 110,
+      "to": 208.61
+    },
+    {
+      "content": "我们回到顶部精准操作",
+      "from": 208.61,
+      "location": 2,
+      "music": 0.0,
+      "sid": 111,
+      "to": 210.59
+    },
+    {
+      "content": "从银牌完成到铂金完成",
+      "from": 210.59,
+      "location": 2,
+      "music": 0.0,
+      "sid": 112,
+      "to": 214.09
+    },
+    {
+      "content": "现在我们要完成所有追踪到铂金",
+      "from": 214.09,
+      "location": 2,
+      "music": 0.0,
+      "sid": 113,
+      "to": 216.73
+    },
+    {
+      "content": "然后切换操作到铂金完成",
+      "from": 216.73,
+      "location": 2,
+      "music": 0.0,
+      "sid": 114,
+      "to": 219.13
+    },
+    {
+      "content": "接着点击操作到铂金完成",
+      "from": 219.13,
+      "location": 2,
+      "music": 0.0,
+      "sid": 115,
+      "to": 221.01
+    },
+    {
+      "content": "然后回到顶部进行三级训练",
+      "from": 221.01,
+      "location": 2,
+      "music": 0.0,
+      "sid": 116,
+      "to": 224.09
+    },
+    {
+      "content": "完成翡翠等级训练",
+      "from": 224.09,
+      "location": 2,
+      "music": 0.0,
+      "sid": 117,
+      "to": 225.71
+    },
+    {
+      "content": "按照这个流程",
+      "from": 225.71,
+      "location": 2,
+      "music": 0.0,
+      "sid": 118,
+      "to": 226.95
+    },
+    {
+      "content": "一直做到大师级完成",
+      "from": 226.95,
+      "location": 2,
+      "music": 0.0,
+      "sid": 119,
+      "to": 229.6
+    },
+    {
+      "content": "正如我之前提到的",
+      "from": 229.6,
+      "location": 2,
+      "music": 0.0,
+      "sid": 120,
+      "to": 231.68
+    },
+    {
+      "content": "这些伏打基准有三个阶段",
+      "from": 231.68,
+      "location": 2,
+      "music": 0.0,
+      "sid": 121,
+      "to": 234.96
+    },
+    {
+      "content": "初级、中级和高级",
+      "from": 234.96,
+      "location": 2,
+      "music": 0.0,
+      "sid": 122,
+      "to": 236.68
+    },
+    {
+      "content": "我建议使用这个程序时",
+      "from": 236.68,
+      "location": 2,
+      "music": 0.0,
+      "sid": 123,
+      "to": 239.34
+    },
+    {
+      "content": "甚至不需要玩高级基准",
+      "from": 239.34,
+      "location": 2,
+      "music": 0.0,
+      "sid": 124,
+      "to": 242.5
+    },
+    {
+      "content": "你可能想尝试",
+      "from": 242.5,
+      "location": 2,
+      "music": 0.0,
+      "sid": 125,
+      "to": 243.89
+    },
+    {
+      "content": "完全没问题",
+      "from": 243.89,
+      "location": 2,
+      "music": 0.0,
+      "sid": 126,
+      "to": 245.11
+    },
+    {
+      "content": "如果你决定的话会很有帮助",
+      "from": 245.11,
+      "location": 2,
+      "music": 0.0,
+      "sid": 127,
+      "to": 247.69
+    },
+    {
+      "content": "但我们的结构重点在初级和中级基准",
+      "from": 247.69,
+      "location": 2,
+      "music": 0.0,
+      "sid": 128,
+      "to": 253.21
+    },
+    {
+      "content": "任何人都可以做到",
+      "from": 253.21,
+      "location": 2,
+      "music": 0.0,
+      "sid": 129,
+      "to": 254.35
+    },
+    {
+      "content": "所以我不要多讲这个",
+      "from": 254.35,
+      "location": 2,
+      "music": 0.0,
+      "sid": 130,
+      "to": 255.85
+    },
+    {
+      "content": "但我要特别强调这个例子",
+      "from": 255.85,
+      "location": 2,
+      "music": 0.0,
+      "sid": 131,
+      "to": 257.79
+    },
+    {
+      "content": "以免大家混淆",
+      "from": 257.79,
+      "location": 2,
+      "music": 0.0,
+      "sid": 132,
+      "to": 259.38
+    },
+    {
+      "content": "当你处于一级时",
+      "from": 259.38,
+      "location": 2,
+      "music": 0.0,
+      "sid": 133,
+      "to": 260.58
+    },
+    {
+      "content": "当你是无排名状态时",
+      "from": 260.58,
+      "location": 2,
+      "music": 0.0,
+      "sid": 134,
+      "to": 261.899
+    },
+    {
+      "content": "要完成到银牌等级",
+      "from": 261.899,
+      "location": 2,
+      "music": 0.0,
+      "sid": 135,
+      "to": 263.919
+    },
+    {
+      "content": "从顶部开始精准操作那个第二个",
+      "from": 263.919,
+      "location": 2,
+      "music": 0.0,
+      "sid": 136,
+      "to": 268.039
+    },
+    {
+      "content": "控制项目要在精准银牌后进行",
+      "from": 268.039,
+      "location": 2,
+      "music": 0.0,
+      "sid": 137,
+      "to": 273.51
+    },
+    {
+      "content": "看这里紫色的那个",
+      "from": 273.51,
+      "location": 2,
+      "music": 0.0,
+      "sid": 138,
+      "to": 275.07
+    },
+    {
+      "content": "切换速度要在躲避后进行",
+      "from": 275.07,
+      "location": 2,
+      "music": 0.0,
+      "sid": 139,
+      "to": 279.649
+    },
+    {
+      "content": "上面的是银牌等级",
+      "from": 279.649,
+      "location": 2,
+      "music": 0.0,
+      "sid": 140,
+      "to": 281.529
+    },
+    {
+      "content": "但上面所有都是银牌稳定反应控制精准",
+      "from": 281.529,
+      "location": 2,
+      "music": 0.0,
+      "sid": 141,
+      "to": 287.0
+    },
+    {
+      "content": "现在你们明白我的意思了吗",
+      "from": 287.0,
+      "location": 2,
+      "music": 0.0,
+      "sid": 142,
+      "to": 288.24
+    },
+    {
+      "content": "对吧",
+      "from": 288.24,
+      "location": 2,
+      "music": 0.0,
+      "sid": 143,
+      "to": 288.48
+    },
+    {
+      "content": "为什么要用这种方法",
+      "from": 288.48,
+      "location": 2,
+      "music": 0.0,
+      "sid": 144,
+      "to": 290.28
+    },
+    {
+      "content": "为什么有效",
+      "from": 290.28,
+      "location": 2,
+      "music": 0.0,
+      "sid": 145,
+      "to": 291.64
+    },
+    {
+      "content": "从追踪开始",
+      "from": 291.64,
+      "location": 2,
+      "music": 0.0,
+      "sid": 146,
+      "to": 292.9
+    },
+    {
+      "content": "特别是精准操作",
+      "from": 292.9,
+      "location": 2,
+      "music": 0.0,
+      "sid": 147,
+      "to": 294.4
+    },
+    {
+      "content": "这将培养基础速度匹配",
+      "from": 294.4,
+      "location": 2,
+      "music": 0.0,
+      "sid": 148,
+      "to": 297.44
+    },
+    {
+      "content": "你将学习整体流畅性",
+      "from": 297.44,
+      "location": 2,
+      "music": 0.0,
+      "sid": 149,
+      "to": 299.23
+    },
+    {
+      "content": "同时培养鼠标控制感",
+      "from": 299.23,
+      "location": 2,
+      "music": 0.0,
+      "sid": 150,
+      "to": 301.71
+    },
+    {
+      "content": "这是完成这些事情的最佳类别",
+      "from": 301.71,
+      "location": 2,
+      "music": 0.0,
+      "sid": 151,
+      "to": 303.81
+    },
+    {
+      "content": "然后通过跟踪你建筑的控制来操作",
+      "from": 303.81,
+      "location": 2,
+      "music": 0.0,
+      "sid": 152,
+      "to": 307.64
+    },
+    {
+      "content": "精准追踪在此",
+      "from": 307.64,
+      "location": 2,
+      "music": 0.0,
+      "sid": 153,
+      "to": 309.08
+    },
+    {
+      "content": "现在引入微调修正",
+      "from": 309.08,
+      "location": 2,
+      "music": 0.0,
+      "sid": 154,
+      "to": 311.85
+    },
+    {
+      "content": "接着是反应式追踪",
+      "from": 311.85,
+      "location": 2,
+      "music": 0.0,
+      "sid": 155,
+      "to": 313.46
+    },
+    {
+      "content": "你将接触到更多 erratic 或疯狂的条纹",
+      "from": 313.46,
+      "location": 2,
+      "music": 0.0,
+      "sid": 156,
+      "to": 316.92
+    },
+    {
+      "content": "这也会教你阅读技巧",
+      "from": 316.92,
+      "location": 2,
+      "music": 0.0,
+      "sid": 157,
+      "to": 318.9
+    },
+    {
+      "content": "不",
+      "from": 318.9,
+      "location": 2,
+      "music": 0.0,
+      "sid": 158,
+      "to": 319.3
+    },
+    {
+      "content": "不是如何读书",
+      "from": 319.3,
+      "location": 2,
+      "music": 0.0,
+      "sid": 159,
+      "to": 320.76
+    },
+    {
+      "content": "而是如何读取移动",
+      "from": 320.76,
+      "location": 2,
+      "music": 0.0,
+      "sid": 160,
+      "to": 322.29
+    },
+    {
+      "content": "好的",
+      "from": 322.29,
+      "location": 2,
+      "music": 0.0,
+      "sid": 161,
+      "to": 322.83
+    },
+    {
+      "content": "所以为什么我们要转向切换第二步",
+      "from": 322.83,
+      "location": 2,
+      "music": 0.0,
+      "sid": 162,
+      "to": 324.79
+    },
+    {
+      "content": "嗯",
+      "from": 324.79,
+      "location": 2,
+      "music": 0.0,
+      "sid": 163,
+      "to": 325.23
+    },
+    {
+      "content": "让我们看看稳定性切换",
+      "from": 325.23,
+      "location": 2,
+      "music": 0.0,
+      "sid": 164,
+      "to": 327.08
+    },
+    {
+      "content": "稳定性切换是翻转和修正的简单入门",
+      "from": 327.08,
+      "location": 2,
+      "music": 0.0,
+      "sid": 165,
+      "to": 332.06
+    },
+    {
+      "content": "在非常重的追踪下",
+      "from": 332.06,
+      "location": 2,
+      "music": 0.0,
+      "sid": 166,
+      "to": 334.05
+    },
+    {
+      "content": "我刚才说的关于翻转和修正的内容",
+      "from": 334.05,
+      "location": 2,
+      "music": 0.0,
+      "sid": 167,
+      "to": 337.27
+    },
+    {
+      "content": "这是瞄准训练的基础概念之一",
+      "from": 337.27,
+      "location": 2,
+      "music": 0.0,
+      "sid": 168,
+      "to": 339.63
+    },
+    {
+      "content": "当我们谈论点击时",
+      "from": 339.63,
+      "location": 2,
+      "music": 0.0,
+      "sid": 169,
+      "to": 340.63
+    },
+    {
+      "content": "我们将深入探讨这一点",
+      "from": 340.63,
+      "location": 2,
+      "music": 0.0,
+      "sid": 170,
+      "to": 342.43
+    },
+    {
+      "content": "接下来进行规避切换",
+      "from": 342.43,
+      "location": 2,
+      "music": 0.0,
+      "sid": 171,
+      "to": 344.159
+    },
+    {
+      "content": "这需要更高的节奏控制",
+      "from": 344.159,
+      "location": 2,
+      "music": 0.0,
+      "sid": 172,
+      "to": 346.859
+    },
+    {
+      "content": "你必须稍微快一点",
+      "from": 346.859,
+      "location": 2,
+      "music": 0.0,
+      "sid": 173,
+      "to": 348.62
+    },
+    {
+      "content": "但仍涉及之前建立的追踪机制",
+      "from": 348.62,
+      "location": 2,
+      "music": 0.0,
+      "sid": 174,
+      "to": 352.26
+    },
+    {
+      "content": "然后进入速度切换",
+      "from": 352.26,
+      "location": 2,
+      "music": 0.0,
+      "sid": 175,
+      "to": 353.74
+    },
+    {
+      "content": "这很重要",
+      "from": 353.74,
+      "location": 2,
+      "music": 0.0,
+      "sid": 176,
+      "to": 354.34
+    },
+    {
+      "content": "这里开始变得有趣",
+      "from": 354.34,
+      "location": 2,
+      "music": 0.0,
+      "sid": 177,
+      "to": 355.86
+    },
+    {
+      "content": "这是为点击训练做准备",
+      "from": 355.86,
+      "location": 2,
+      "music": 0.0,
+      "sid": 178,
+      "to": 357.7
+    },
+    {
+      "content": "速度切换会强化我们之前讨论的基础翻转和微调",
+      "from": 357.7,
+      "location": 2,
+      "music": 0.0,
+      "sid": 179,
+      "to": 362.99
+    },
+    {
+      "content": "这是下一类训练的完美铺垫",
+      "from": 362.99,
+      "location": 2,
+      "music": 0.0,
+      "sid": 180,
+      "to": 366.17
+    },
+    {
+      "content": "也就是正确静态点击训练",
+      "from": 366.17,
+      "location": 2,
+      "music": 0.0,
+      "sid": 181,
+      "to": 369.63
+    },
+    {
+      "content": "核心在于翻转和微调",
+      "from": 369.63,
+      "location": 2,
+      "music": 0.0,
+      "sid": 182,
+      "to": 372.45
+    },
+    {
+      "content": "但现在配合点击确认",
+      "from": 372.45,
+      "location": 2,
+      "music": 0.0,
+      "sid": 183,
+      "to": 374.84
+    },
+    {
+      "content": "无论你是否是瞄准训练新手",
+      "from": 374.84,
+      "location": 2,
+      "music": 0.0,
+      "sid": 184,
+      "to": 376.68
+    },
+    {
+      "content": "都需要复习巴尔多的方法",
+      "from": 376.68,
+      "location": 2,
+      "music": 0.0,
+      "sid": 185,
+      "to": 378.78
+    },
+    {
+      "content": "巴托斯（我发音为）",
+      "from": 378.78,
+      "location": 2,
+      "music": 0.0,
+      "sid": 186,
+      "to": 379.96
+    },
+    {
+      "content": "他的名字实际发音是巴尔多",
+      "from": 379.96,
+      "location": 2,
+      "music": 0.0,
+      "sid": 187,
+      "to": 382.2
+    },
+    {
+      "content": "我相信",
+      "from": 382.2,
+      "location": 2,
+      "music": 0.0,
+      "sid": 188,
+      "to": 382.97
+    },
+    {
+      "content": "但他属于瞄准训练",
+      "from": 382.97,
+      "location": 2,
+      "music": 0.0,
+      "sid": 189,
+      "to": 384.35
+    },
+    {
+      "content": "奠基人之一",
+      "from": 384.35,
+      "location": 2,
+      "music": 0.0,
+      "sid": 190,
+      "to": 385.29
+    },
+    {
+      "content": "他曾是静态瞄准的世界纪录保持者",
+      "from": 385.29,
+      "location": 2,
+      "music": 0.0,
+      "sid": 191,
+      "to": 387.77
+    },
+    {
+      "content": "我也在屏幕上添加了马里奥W的视频",
+      "from": 387.77,
+      "location": 2,
+      "music": 0.0,
+      "sid": 192,
+      "to": 390.81
+    },
+    {
+      "content": "如何静态点射",
+      "from": 390.81,
+      "location": 2,
+      "music": 0.0,
+      "sid": 193,
+      "to": 392.22
+    },
+    {
+      "content": "讲解巴尔多方法及点击常见错误",
+      "from": 392.22,
+      "location": 2,
+      "music": 0.0,
+      "sid": 194,
+      "to": 397.68
+    },
+    {
+      "content": "这些内容非常重要",
+      "from": 397.68,
+      "location": 2,
+      "music": 0.0,
+      "sid": 195,
+      "to": 399.04
+    },
+    {
+      "content": "回到当前点击页面",
+      "from": 399.04,
+      "location": 2,
+      "music": 0.0,
+      "sid": 196,
+      "to": 401.2
+    },
+    {
+      "content": "进入线性点击",
+      "from": 401.2,
+      "location": 2,
+      "music": 0.0,
+      "sid": 197,
+      "to": 402.77
+    },
+    {
+      "content": "这是静态点击的简单升级",
+      "from": 402.77,
+      "location": 2,
+      "music": 0.0,
+      "sid": 198,
+      "to": 405.25
+    },
+    {
+      "content": "但需要学习新技能",
+      "from": 405.25,
+      "location": 2,
+      "music": 0.0,
+      "sid": 199,
+      "to": 407.77
+    },
+    {
+      "content": "尽管我们进行到第八步",
+      "from": 407.77,
+      "location": 2,
+      "music": 0.0,
+      "sid": 200,
+      "to": 408.97
+    },
+    {
+      "content": "因为还有一些基础习惯仍然非常重要",
+      "from": 408.97,
+      "location": 2,
+      "music": 0.0,
+      "sid": 201,
+      "to": 412.18
+    },
+    {
+      "content": "当你进行直线点击时",
+      "from": 412.18,
+      "location": 2,
+      "music": 0.0,
+      "sid": 202,
+      "to": 413.78
+    },
+    {
+      "content": "最后，我们将在该计划中训练的最后一项是动态点击",
+      "from": 413.78,
+      "location": 2,
+      "music": 0.0,
+      "sid": 203,
+      "to": 419.07
+    },
+    {
+      "content": "动态点击非常棒",
+      "from": 419.07,
+      "location": 2,
+      "music": 0.0,
+      "sid": 204,
+      "to": 420.62
+    },
+    {
+      "content": "这是我们之前所有训练的集大成",
+      "from": 420.62,
+      "location": 2,
+      "music": 0.0,
+      "sid": 205,
+      "to": 424.42
+    },
+    {
+      "content": "追踪",
+      "from": 424.42,
+      "location": 2,
+      "music": 0.0,
+      "sid": 206,
+      "to": 425.02
+    },
+    {
+      "content": "轻点",
+      "from": 425.02,
+      "location": 2,
+      "music": 0.0,
+      "sid": 207,
+      "to": 425.74
+    },
+    {
+      "content": "修正",
+      "from": 425.74,
+      "location": 2,
+      "music": 0.0,
+      "sid": 208,
+      "to": 426.56
+    },
+    {
+      "content": "节奏控制",
+      "from": 426.56,
+      "location": 2,
+      "music": 0.0,
+      "sid": 209,
+      "to": 427.54
+    },
+    {
+      "content": "所有操作都通过点击确认完成",
+      "from": 427.54,
+      "location": 2,
+      "music": 0.0,
+      "sid": 210,
+      "to": 431.06
+    },
+    {
+      "content": "动态点击非常具有挑战性",
+      "from": 431.06,
+      "location": 2,
+      "music": 0.0,
+      "sid": 211,
+      "to": 433.3
+    },
+    {
+      "content": "不过看看这里",
+      "from": 433.3,
+      "location": 2,
+      "music": 0.0,
+      "sid": 212,
+      "to": 434.64
+    },
+    {
+      "content": "尽管动态点击是最难的部分",
+      "from": 434.64,
+      "location": 2,
+      "music": 0.0,
+      "sid": 213,
+      "to": 437.26
+    },
+    {
+      "content": "在我看来",
+      "from": 437.26,
+      "location": 2,
+      "music": 0.0,
+      "sid": 214,
+      "to": 438.04
+    },
+    {
+      "content": "对于新手来说",
+      "from": 438.04,
+      "location": 2,
+      "music": 0.0,
+      "sid": 215,
+      "to": 439.57
+    },
+    {
+      "content": "这是伏打基准表上的首要项目",
+      "from": 439.57,
+      "location": 2,
+      "music": 0.0,
+      "sid": 216,
+      "to": 442.61
+    },
+    {
+      "content": "你可以认为这很疯狂或没必要",
+      "from": 442.61,
+      "location": 2,
+      "music": 0.0,
+      "sid": 217,
+      "to": 445.17
+    },
+    {
+      "content": "或者这个程序可以不做",
+      "from": 445.17,
+      "location": 2,
+      "music": 0.0,
+      "sid": 218,
+      "to": 447.07
+    },
+    {
+      "content": "但看看这个",
+      "from": 447.07,
+      "location": 2,
+      "music": 0.0,
+      "sid": 219,
+      "to": 448.48
+    },
+    {
+      "content": "新手该如何学习动态点击",
+      "from": 448.48,
+      "location": 2,
+      "music": 0.0,
+      "sid": 220,
+      "to": 451.16
+    },
+    {
+      "content": "如果他们不懂追踪",
+      "from": 451.16,
+      "location": 2,
+      "music": 0.0,
+      "sid": 221,
+      "to": 452.48
+    },
+    {
+      "content": "如果他们不会切换视角",
+      "from": 452.48,
+      "location": 2,
+      "music": 0.0,
+      "sid": 222,
+      "to": 454.38
+    },
+    {
+      "content": "我知道人们适应力强",
+      "from": 454.38,
+      "location": 2,
+      "music": 0.0,
+      "sid": 223,
+      "to": 455.78
+    },
+    {
+      "content": "但如果你想正确进行动态点击",
+      "from": 455.78,
+      "location": 2,
+      "music": 0.0,
+      "sid": 224,
+      "to": 458.04
+    },
+    {
+      "content": "我建议最后做",
+      "from": 458.04,
+      "location": 2,
+      "music": 0.0,
+      "sid": 225,
+      "to": 460.13
+    },
+    {
+      "content": "你现在看到的下一张屏幕",
+      "from": 460.13,
+      "location": 2,
+      "music": 0.0,
+      "sid": 226,
+      "to": 461.77
+    },
+    {
+      "content": "这是真实的",
+      "from": 461.77,
+      "location": 2,
+      "music": 0.0,
+      "sid": 227,
+      "to": 462.43
+    },
+    {
+      "content": "我曾考虑不制作这个幻灯片",
+      "from": 462.43,
+      "location": 2,
+      "music": 0.0,
+      "sid": 228,
+      "to": 464.35
+    },
+    {
+      "content": "但很重要",
+      "from": 464.35,
+      "location": 2,
+      "music": 0.0,
+      "sid": 229,
+      "to": 465.55
+    },
+    {
+      "content": "为什么不采用这种方法",
+      "from": 465.55,
+      "location": 2,
+      "music": 0.0,
+      "sid": 230,
+      "to": 467.21
+    },
+    {
+      "content": "嗯",
+      "from": 467.21,
+      "location": 2,
+      "music": 0.0,
+      "sid": 231,
+      "to": 467.79
+    },
+    {
+      "content": "我可以告诉你哪种人不该尝试这个",
+      "from": 467.79,
+      "location": 2,
+      "music": 0.0,
+      "sid": 232,
+      "to": 471.98
+    },
+    {
+      "content": "如果你是轻易放弃的人",
+      "from": 471.98,
+      "location": 2,
+      "music": 0.0,
+      "sid": 233,
+      "to": 473.5
+    },
+    {
+      "content": "哭",
+      "from": 473.5,
+      "location": 2,
+      "music": 0.0,
+      "sid": 234,
+      "to": 473.96
+    },
+    {
+      "content": "小宝宝",
+      "from": 473.96,
+      "location": 2,
+      "music": 0.0,
+      "sid": 235,
+      "to": 474.62
+    },
+    {
+      "content": "懦夫",
+      "from": 474.62,
+      "location": 2,
+      "music": 0.0,
+      "sid": 236,
+      "to": 477.19
+    },
+    {
+      "content": "这种方法不适合你",
+      "from": 477.71,
+      "location": 2,
+      "music": 0.0,
+      "sid": 237,
+      "to": 479.43
+    },
+    {
+      "content": "如果你连电压表第三低排名都挑战不了",
+      "from": 479.43,
+      "location": 2,
+      "music": 0.0,
+      "sid": 238,
+      "to": 485.83
+    },
+    {
+      "content": "滚开",
+      "from": 485.83,
+      "location": 2,
+      "music": 0.0,
+      "sid": 239,
+      "to": 486.85
+    },
+    {
+      "content": "瞄准",
+      "from": 486.85,
+      "location": 2,
+      "music": 0.0,
+      "sid": 240,
+      "to": 487.39
+    },
+    {
+      "content": "训练师不像我们的常规游戏",
+      "from": 487.39,
+      "location": 2,
+      "music": 0.0,
+      "sid": 241,
+      "to": 489.59
+    },
+    {
+      "content": "没有队友可以推卸责任",
+      "from": 489.59,
+      "location": 2,
+      "music": 0.0,
+      "sid": 242,
+      "to": 491.31
+    },
+    {
+      "content": "没有连接或延迟问题",
+      "from": 491.31,
+      "location": 2,
+      "music": 0.0,
+      "sid": 243,
+      "to": 493.86
+    },
+    {
+      "content": "你唯一需要克服的障碍就是自己",
+      "from": 493.86,
+      "location": 2,
+      "music": 0.0,
+      "sid": 244,
+      "to": 497.24
+    },
+    {
+      "content": "你自我设限的程度",
+      "from": 497.24,
+      "location": 2,
+      "music": 0.0,
+      "sid": 245,
+      "to": 499.08
+    },
+    {
+      "content": "再次强调",
+      "from": 499.08,
+      "location": 2,
+      "music": 0.0,
+      "sid": 246,
+      "to": 499.68
+    },
+    {
+      "content": "有些人会说我不喜欢追踪",
+      "from": 499.68,
+      "location": 2,
+      "music": 0.0,
+      "sid": 247,
+      "to": 502.26
+    },
+    {
+      "content": "我会用这种方法",
+      "from": 502.26,
+      "location": 2,
+      "music": 0.0,
+      "sid": 248,
+      "to": 503.9
+    },
+    {
+      "content": "但我无法获得银级追踪",
+      "from": 503.9,
+      "location": 2,
+      "music": 0.0,
+      "sid": 249,
+      "to": 507.1
+    },
+    {
+      "content": "如果获得银级追踪太难",
+      "from": 507.1,
+      "location": 2,
+      "music": 0.0,
+      "sid": 250,
+      "to": 510.36
+    },
+    {
+      "content": "或者尤其是如果它对你来说太无聊的话",
+      "from": 510.36,
+      "location": 2,
+      "music": 0.0,
+      "sid": 251,
+      "to": 512.82
+    },
+    {
+      "content": "这真是恰如其分的表达",
+      "from": 512.82,
+      "location": 2,
+      "music": 0.0,
+      "sid": 252,
+      "to": 513.84
+    },
+    {
+      "content": "如果获得银牌对你来说太无聊",
+      "from": 513.84,
+      "location": 2,
+      "music": 0.0,
+      "sid": 253,
+      "to": 516.53
+    },
+    {
+      "content": "那就去玩乐高吧",
+      "from": 516.53,
+      "location": 2,
+      "music": 0.0,
+      "sid": 254,
+      "to": 518.35
+    },
+    {
+      "content": "蝙蝠侠兄弟",
+      "from": 518.35,
+      "location": 2,
+      "music": 0.0,
+      "sid": 255,
+      "to": 519.409
+    },
+    {
+      "content": "或者至少尝试不同的方法",
+      "from": 519.409,
+      "location": 2,
+      "music": 0.0,
+      "sid": 256,
+      "to": 521.669
+    },
+    {
+      "content": "这里你可以无限次尝试",
+      "from": 521.669,
+      "location": 2,
+      "music": 0.0,
+      "sid": 257,
+      "to": 523.529
+    },
+    {
+      "content": "没有D级评分",
+      "from": 523.529,
+      "location": 2,
+      "music": 0.0,
+      "sid": 258,
+      "to": 524.889
+    },
+    {
+      "content": "我不在乎",
+      "from": 524.889,
+      "location": 2,
+      "music": 0.0,
+      "sid": 259,
+      "to": 525.489
+    },
+    {
+      "content": "即使需要十周时间",
+      "from": 525.489,
+      "location": 2,
+      "music": 0.0,
+      "sid": 260,
+      "to": 526.74
+    },
+    {
+      "content": "获得银牌追踪没问题",
+      "from": 526.74,
+      "location": 2,
+      "music": 0.0,
+      "sid": 261,
+      "to": 529.22
+    },
+    {
+      "content": "所以这就是很多内容",
+      "from": 529.22,
+      "location": 2,
+      "music": 0.0,
+      "sid": 262,
+      "to": 530.08
+    },
+    {
+      "content": "但我们获得大师级后该做什么",
+      "from": 530.08,
+      "location": 2,
+      "music": 0.0,
+      "sid": 263,
+      "to": 533.339
+    },
+    {
+      "content": "让我向你介绍第一种思路",
+      "from": 533.339,
+      "location": 2,
+      "music": 0.0,
+      "sid": 264,
+      "to": 536.439
+    },
+    {
+      "content": "那就是毕业",
+      "from": 536.439,
+      "location": 2,
+      "music": 0.0,
+      "sid": 265,
+      "to": 538.35
+    },
+    {
+      "content": "离开瞄准训练器只玩你选择的游戏",
+      "from": 538.35,
+      "location": 2,
+      "music": 0.0,
+      "sid": 266,
+      "to": 542.18
+    },
+    {
+      "content": "在离开瞄准训练器之前",
+      "from": 542.18,
+      "location": 2,
+      "music": 0.0,
+      "sid": 267,
+      "to": 543.8
+    },
+    {
+      "content": "建议你练习移动",
+      "from": 543.8,
+      "location": 2,
+      "music": 0.0,
+      "sid": 268,
+      "to": 545.5
+    },
+    {
+      "content": "瞄准",
+      "from": 545.5,
+      "location": 2,
+      "music": 0.0,
+      "sid": 269,
+      "to": 545.94
+    },
+    {
+      "content": "移动或闪避",
+      "from": 545.94,
+      "location": 2,
+      "music": 0.0,
+      "sid": 270,
+      "to": 546.78
+    },
+    {
+      "content": "瞄准是指用鼠标瞄准",
+      "from": 546.78,
+      "location": 2,
+      "music": 0.0,
+      "sid": 271,
+      "to": 548.94
+    },
+    {
+      "content": "同时用键盘移动",
+      "from": 548.94,
+      "location": 2,
+      "music": 0.0,
+      "sid": 272,
+      "to": 551.06
+    },
+    {
+      "content": "这些侧移场景可在科瓦茨和AMLabs找到",
+      "from": 551.06,
+      "location": 2,
+      "music": 0.0,
+      "sid": 273,
+      "to": 553.9
+    },
+    {
+      "content": "也在ABeast上",
+      "from": 553.9,
+      "location": 2,
+      "music": 0.0,
+      "sid": 274,
+      "to": 555.14
+    },
+    {
+      "content": "同样适用",
+      "from": 555.14,
+      "location": 2,
+      "music": 0.0,
+      "sid": 275,
+      "to": 555.72
+    },
+    {
+      "content": "我还没提到Aim Beast",
+      "from": 555.72,
+      "location": 2,
+      "music": 0.0,
+      "sid": 276,
+      "to": 557.3
+    },
+    {
+      "content": "但Aim Beast是最好的训练器之一",
+      "from": 557.3,
+      "location": 2,
+      "music": 0.0,
+      "sid": 277,
+      "to": 559.63
+    },
+    {
+      "content": "如果你要从训练器转向游戏",
+      "from": 559.63,
+      "location": 2,
+      "music": 0.0,
+      "sid": 278,
+      "to": 564.04
+    },
+    {
+      "content": "在Amy's上练习会对你有很大帮助",
+      "from": 564.04,
+      "location": 2,
+      "music": 0.0,
+      "sid": 279,
+      "to": 567.6
+    },
+    {
+      "content": "尽管你优先考虑游戏",
+      "from": 567.6,
+      "location": 2,
+      "music": 0.0,
+      "sid": 280,
+      "to": 569.64
+    },
+    {
+      "content": "建议练习LG对战",
+      "from": 569.64,
+      "location": 2,
+      "music": 0.0,
+      "sid": 281,
+      "to": 571.62
+    },
+    {
+      "content": "一对一光枪对决保持新鲜并提升闪避",
+      "from": 571.62,
+      "location": 2,
+      "music": 0.0,
+      "sid": 282,
+      "to": 576.65
+    },
+    {
+      "content": "与真人对手对战",
+      "from": 576.65,
+      "location": 2,
+      "music": 0.0,
+      "sid": 283,
+      "to": 578.93
+    },
+    {
+      "content": "这些LG光枪对决可在Quake Live进行",
+      "from": 578.93,
+      "location": 2,
+      "music": 0.0,
+      "sid": 284,
+      "to": 582.79
+    },
+    {
+      "content": "这是一款老游戏",
+      "from": 582.79,
+      "location": 2,
+      "music": 0.0,
+      "sid": 285,
+      "to": 583.81
+    },
+    {
+      "content": "此处截图来自Thunderstruck服务器",
+      "from": 583.81,
+      "location": 2,
+      "music": 0.0,
+      "sid": 286,
+      "to": 587.44
+    },
+    {
+      "content": "你可以与顶尖对手进行LG对决",
+      "from": 587.44,
+      "location": 2,
+      "music": 0.0,
+      "sid": 287,
+      "to": 590.4
+    },
+    {
+      "content": "可在Epic游戏商店找到",
+      "from": 594.02,
+      "location": 2,
+      "music": 0.0,
+      "sid": 288,
+      "to": 596.24
+    },
+    {
+      "content": "我指的就是这里",
+      "from": 596.24,
+      "location": 2,
+      "music": 0.0,
+      "sid": 289,
+      "to": 597.52
+    },
+    {
+      "content": "LG对战有自己的社区",
+      "from": 597.52,
+      "location": 2,
+      "music": 0.0,
+      "sid": 290,
+      "to": 599.74
+    },
+    {
+      "content": "训练有自己社区",
+      "from": 599.74,
+      "location": 2,
+      "music": 0.0,
+      "sid": 291,
+      "to": 601.3
+    },
+    {
+      "content": "LG对战有自己的社区",
+      "from": 601.3,
+      "location": 2,
+      "music": 0.0,
+      "sid": 292,
+      "to": 603.06
+    },
+    {
+      "content": "就像任何社区一样",
+      "from": 603.06,
+      "location": 2,
+      "music": 0.0,
+      "sid": 293,
+      "to": 604.32
+    },
+    {
+      "content": "LG快速直播社区也有不良分子",
+      "from": 604.32,
+      "location": 2,
+      "music": 0.0,
+      "sid": 294,
+      "to": 608.239
+    },
+    {
+      "content": "并非所有人都坏",
+      "from": 608.239,
+      "location": 2,
+      "music": 0.0,
+      "sid": 295,
+      "to": 609.399
+    },
+    {
+      "content": "不过",
+      "from": 609.399,
+      "location": 2,
+      "music": 0.0,
+      "sid": 296,
+      "to": 609.679
+    },
+    {
+      "content": "如果你想学习LG对战和闪避",
+      "from": 609.679,
+      "location": 2,
+      "music": 0.0,
+      "sid": 297,
+      "to": 612.15
+    },
+    {
+      "content": "有很多有效方法",
+      "from": 612.15,
+      "location": 2,
+      "music": 0.0,
+      "sid": 298,
+      "to": 613.63
+    },
+    {
+      "content": "所以我仍推荐这个流程",
+      "from": 613.63,
+      "location": 2,
+      "music": 0.0,
+      "sid": 299,
+      "to": 616.63
+    },
+    {
+      "content": "获得大师段位后你可以选择不同的路线",
+      "from": 616.63,
+      "location": 2,
+      "music": 0.0,
+      "sid": 300,
+      "to": 618.69
+    },
+    {
+      "content": "专业化发展会更完善",
+      "from": 618.69,
+      "location": 2,
+      "music": 0.0,
+      "sid": 301,
+      "to": 620.62
+    },
+    {
+      "content": "现在有几种专业化途径",
+      "from": 620.62,
+      "location": 2,
+      "music": 0.0,
+      "sid": 302,
+      "to": 622.66
+    },
+    {
+      "content": "但首要方式是通过你的感知能力",
+      "from": 622.66,
+      "location": 2,
+      "music": 0.0,
+      "sid": 303,
+      "to": 624.72
+    },
+    {
+      "content": "你可以成为高感知神级选手",
+      "from": 624.72,
+      "location": 2,
+      "music": 0.0,
+      "sid": 304,
+      "to": 626.28
+    },
+    {
+      "content": "就像屏幕上的诅咒角色",
+      "from": 626.28,
+      "location": 2,
+      "music": 0.0,
+      "sid": 305,
+      "to": 627.6
+    },
+    {
+      "content": "你在操作时看到的",
+      "from": 627.6,
+      "location": 2,
+      "music": 0.0,
+      "sid": 306,
+      "to": 628.75
+    },
+    {
+      "content": "在瞄准时带有诅咒效果",
+      "from": 628.75,
+      "location": 2,
+      "music": 0.0,
+      "sid": 307,
+      "to": 630.27
+    },
+    {
+      "content": "训练内容在十六厘米三十六度",
+      "from": 630.27,
+      "location": 2,
+      "music": 0.0,
+      "sid": 308,
+      "to": 633.57
+    },
+    {
+      "content": "这是一流的超高速dpi",
+      "from": 633.57,
+      "location": 2,
+      "music": 0.0,
+      "sid": 309,
+      "to": 636.37
+    },
+    {
+      "content": "如果大家了解我们的段位体系",
+      "from": 636.37,
+      "location": 2,
+      "music": 0.0,
+      "sid": 310,
+      "to": 638.07
+    },
+    {
+      "content": "诺瓦是大师段位之后的级别",
+      "from": 638.07,
+      "location": 2,
+      "music": 0.0,
+      "sid": 311,
+      "to": 640.33
+    },
+    {
+      "content": "他连续两个赛季保持这个段位",
+      "from": 640.33,
+      "location": 2,
+      "music": 0.0,
+      "sid": 312,
+      "to": 642.17
+    },
+    {
+      "content": "在如此高速的灵敏度下",
+      "from": 642.17,
+      "location": 2,
+      "music": 0.0,
+      "sid": 313,
+      "to": 644.24
+    },
+    {
+      "content": "你也可以成为低灵敏度职业选手",
+      "from": 644.24,
+      "location": 2,
+      "music": 0.0,
+      "sid": 314,
+      "to": 646.14
+    },
+    {
+      "content": "这属于未被探索的领域",
+      "from": 646.14,
+      "location": 2,
+      "music": 0.0,
+      "sid": 315,
+      "to": 648.94
+    },
+    {
+      "content": "非常依赖个人特质",
+      "from": 648.94,
+      "location": 2,
+      "music": 0.0,
+      "sid": 316,
+      "to": 651.48
+    },
+    {
+      "content": "尽管低灵敏度有缺点",
+      "from": 651.48,
+      "location": 2,
+      "music": 0.0,
+      "sid": 317,
+      "to": 654.47
+    },
+    {
+      "content": "仍值得考虑尝试",
+      "from": 654.47,
+      "location": 2,
+      "music": 0.0,
+      "sid": 318,
+      "to": 655.99
+    },
+    {
+      "content": "如果你有极佳的手感",
+      "from": 655.99,
+      "location": 2,
+      "music": 0.0,
+      "sid": 319,
+      "to": 657.47
+    },
+    {
+      "content": "接下来你可以做的",
+      "from": 657.47,
+      "location": 2,
+      "music": 0.0,
+      "sid": 320,
+      "to": 658.59
+    },
+    {
+      "content": "在专业化方向上专注于类别排名",
+      "from": 658.59,
+      "location": 2,
+      "music": 0.0,
+      "sid": 321,
+      "to": 662.04
+    },
+    {
+      "content": "就像只专注于追踪的玩家",
+      "from": 662.04,
+      "location": 2,
+      "music": 0.0,
+      "sid": 322,
+      "to": 664.88
+    },
+    {
+      "content": "只擅长点击操作的玩家",
+      "from": 664.88,
+      "location": 2,
+      "music": 0.0,
+      "sid": 323,
+      "to": 666.2
+    },
+    {
+      "content": "或只精通切换的玩家",
+      "from": 666.2,
+      "location": 2,
+      "music": 0.0,
+      "sid": 324,
+      "to": 667.78
+    },
+    {
+      "content": "你可以进一步细分成为子类别专家",
+      "from": 667.78,
+      "location": 2,
+      "music": 0.0,
+      "sid": 325,
+      "to": 672.69
+    },
+    {
+      "content": "在我获得大师段位后",
+      "from": 672.69,
+      "location": 2,
+      "music": 0.0,
+      "sid": 326,
+      "to": 674.23
+    },
+    {
+      "content": "我决定专攻追踪技能",
+      "from": 674.23,
+      "location": 2,
+      "music": 0.0,
+      "sid": 327,
+      "to": 676.51
+    },
+    {
+      "content": "随后我又专注于平滑瞄准追踪",
+      "from": 676.51,
+      "location": 2,
+      "music": 0.0,
+      "sid": 328,
+      "to": 680.229
+    },
+    {
+      "content": "我是速度匹配领域的顶尖选手",
+      "from": 680.229,
+      "location": 2,
+      "music": 0.0,
+      "sid": 329,
+      "to": 683.309
+    },
+    {
+      "content": "在水平方向的精准瞄准上",
+      "from": 683.309,
+      "location": 2,
+      "music": 0.0,
+      "sid": 330,
+      "to": 685.57
+    },
+    {
+      "content": "当然总会有比我更强的选手",
+      "from": 685.57,
+      "location": 2,
+      "music": 0.0,
+      "sid": 331,
+      "to": 688.49
+    },
+    {
+      "content": "但我仍在不断进步",
+      "from": 688.49,
+      "location": 2,
+      "music": 0.0,
+      "sid": 332,
+      "to": 689.81
+    },
+    {
+      "content": "并且持续专业化",
+      "from": 689.81,
+      "location": 2,
+      "music": 0.0,
+      "sid": 333,
+      "to": 691.15
+    },
+    {
+      "content": "最后建议的方法是",
+      "from": 691.15,
+      "location": 2,
+      "music": 0.0,
+      "sid": 334,
+      "to": 692.57
+    },
+    {
+      "content": "当然并非适合所有人的是成为专职训练师",
+      "from": 692.57,
+      "location": 2,
+      "music": 0.0,
+      "sid": 335,
+      "to": 696.55
+    },
+    {
+      "content": "相信你可能会觉得意外",
+      "from": 696.55,
+      "location": 2,
+      "music": 0.0,
+      "sid": 336,
+      "to": 697.25
+    },
+    {
+      "content": "市面上有很多训练师资源",
+      "from": 697.25,
+      "location": 2,
+      "music": 0.0,
+      "sid": 337,
+      "to": 699.39
+    },
+    {
+      "content": "这是因为训练瞄准极具吸引力",
+      "from": 699.39,
+      "location": 2,
+      "music": 0.0,
+      "sid": 338,
+      "to": 701.35
+    },
+    {
+      "content": "看着自己不断进步",
+      "from": 701.35,
+      "location": 2,
+      "music": 0.0,
+      "sid": 339,
+      "to": 702.69
+    },
+    {
+      "content": "看到自己的名字",
+      "from": 702.69,
+      "location": 2,
+      "music": 0.0,
+      "sid": 340,
+      "to": 703.37
+    },
+    {
+      "content": "在排行榜上更进一步",
+      "from": 703.37,
+      "location": 2,
+      "music": 0.0,
+      "sid": 341,
+      "to": 704.94
+    },
+    {
+      "content": "融入定期游戏的玩家社群",
+      "from": 704.94,
+      "location": 2,
+      "music": 0.0,
+      "sid": 342,
+      "to": 709.48
+    },
+    {
+      "content": "这非常有趣",
+      "from": 709.48,
+      "location": 2,
+      "music": 0.0,
+      "sid": 343,
+      "to": 710.4
+    },
+    {
+      "content": "当你采用正确方法时",
+      "from": 710.4,
+      "location": 2,
+      "music": 0.0,
+      "sid": 344,
+      "to": 712.12
+    },
+    {
+      "content": "这是一个极健康系统",
+      "from": 712.12,
+      "location": 2,
+      "music": 0.0,
+      "sid": 345,
+      "to": 713.64
+    },
+    {
+      "content": "有时训练师会受批评",
+      "from": 713.64,
+      "location": 2,
+      "music": 0.0,
+      "sid": 346,
+      "to": 715.5
+    },
+    {
+      "content": "因为他们方法不当",
+      "from": 715.5,
+      "location": 2,
+      "music": 0.0,
+      "sid": 347,
+      "to": 717.25
+    },
+    {
+      "content": "但任何社群都有类似情况",
+      "from": 717.25,
+      "location": 2,
+      "music": 0.0,
+      "sid": 348,
+      "to": 718.87
+    },
+    {
+      "content": "如果你对成为专职训练师感兴趣",
+      "from": 718.87,
+      "location": 2,
+      "music": 0.0,
+      "sid": 349,
+      "to": 721.27
+    },
+    {
+      "content": "我建议做一些拉伸运动",
+      "from": 721.27,
+      "location": 2,
+      "music": 0.0,
+      "sid": 350,
+      "to": 723.65
+    },
+    {
+      "content": "记得休息一下",
+      "from": 723.65,
+      "location": 2,
+      "music": 0.0,
+      "sid": 351,
+      "to": 724.75
+    },
+    {
+      "content": "保持自信",
+      "from": 724.75,
+      "location": 2,
+      "music": 0.0,
+      "sid": 352,
+      "to": 725.69
+    },
+    {
+      "content": "但不要有傲慢心态",
+      "from": 725.69,
+      "location": 2,
+      "music": 0.0,
+      "sid": 353,
+      "to": 727.09
+    },
+    {
+      "content": "向他人学习",
+      "from": 727.09,
+      "location": 2,
+      "music": 0.0,
+      "sid": 354,
+      "to": 728.21
+    },
+    {
+      "content": "也要回馈他人",
+      "from": 728.21,
+      "location": 2,
+      "music": 0.0,
+      "sid": 355,
+      "to": 729.93
+    },
+    {
+      "content": "综合这些要点",
+      "from": 729.93,
+      "location": 2,
+      "music": 0.0,
+      "sid": 356,
+      "to": 731.31
+    },
+    {
+      "content": "如果你是瞄准训练者",
+      "from": 731.31,
+      "location": 2,
+      "music": 0.0,
+      "sid": 357,
+      "to": 732.7
+    },
+    {
+      "content": "追求最高段位",
+      "from": 732.7,
+      "location": 2,
+      "music": 0.0,
+      "sid": 358,
+      "to": 733.88
+    },
+    {
+      "content": "训练实验室已推出全新段位系统",
+      "from": 733.88,
+      "location": 2,
+      "music": 0.0,
+      "sid": 359,
+      "to": 736.98
+    },
+    {
+      "content": "新增三个超越大师级的段位",
+      "from": 736.98,
+      "location": 2,
+      "music": 0.0,
+      "sid": 360,
+      "to": 739.7
+    },
+    {
+      "content": "有很多目标可以挑战",
+      "from": 739.7,
+      "location": 2,
+      "music": 0.0,
+      "sid": 361,
+      "to": 742.529
+    },
+    {
+      "content": "我们即将完成这个视频",
+      "from": 742.529,
+      "location": 2,
+      "music": 0.0,
+      "sid": 362,
+      "to": 744.349
+    },
+    {
+      "content": "我为大家推荐一个伏泰基准结构",
+      "from": 744.349,
+      "location": 2,
+      "music": 0.0,
+      "sid": 363,
+      "to": 749.219
+    },
+    {
+      "content": "来展示给大家看",
+      "from": 749.219,
+      "location": 2,
+      "music": 0.0,
+      "sid": 364,
+      "to": 749.999
+    },
+    {
+      "content": "正如你们现在看到的",
+      "from": 749.999,
+      "location": 2,
+      "music": 0.0,
+      "sid": 365,
+      "to": 751.299
+    },
+    {
+      "content": "从这个小窗口",
+      "from": 751.299,
+      "location": 2,
+      "music": 0.0,
+      "sid": 366,
+      "to": 752.119
+    },
+    {
+      "content": "我已经按顺序排列了每个场景",
+      "from": 752.119,
+      "location": 2,
+      "music": 0.0,
+      "sid": 367,
+      "to": 754.459
+    },
+    {
+      "content": "我认为这些是最需要优先训练的",
+      "from": 754.459,
+      "location": 2,
+      "music": 0.0,
+      "sid": 368,
+      "to": 757.14
+    },
+    {
+      "content": "这里有个播放列表代码",
+      "from": 757.14,
+      "location": 2,
+      "music": 0.0,
+      "sid": 369,
+      "to": 758.66
+    },
+    {
+      "content": "我也会在简介和置顶评论中提供",
+      "from": 758.66,
+      "location": 2,
+      "music": 0.0,
+      "sid": 370,
+      "to": 761.5
+    },
+    {
+      "content": "这个流程从新手到中级逐步推进",
+      "from": 761.5,
+      "location": 2,
+      "music": 0.0,
+      "sid": 371,
+      "to": 765.3
+    },
+    {
+      "content": "我想向大家介绍VM",
+      "from": 765.3,
+      "location": 2,
+      "music": 0.0,
+      "sid": 372,
+      "to": 767.52
+    },
+    {
+      "content": "VM是伏泰每日提升方法",
+      "from": 767.52,
+      "location": 2,
+      "music": 0.0,
+      "sid": 373,
+      "to": 770.66
+    },
+    {
+      "content": "VM源自低重力五六",
+      "from": 770.66,
+      "location": 2,
+      "music": 0.0,
+      "sid": 374,
+      "to": 773.32
+    },
+    {
+      "content": "他与四RK合作完成了这个赛季",
+      "from": 773.32,
+      "location": 2,
+      "music": 0.0,
+      "sid": 375,
+      "to": 776.4
+    },
+    {
+      "content": "整合了我们讨论的所有基准测试",
+      "from": 776.4,
+      "location": 2,
+      "music": 0.0,
+      "sid": 376,
+      "to": 780.44
+    },
+    {
+      "content": "并提供辅助任务让训练更轻松",
+      "from": 780.44,
+      "location": 2,
+      "music": 0.0,
+      "sid": 377,
+      "to": 784.37
+    },
+    {
+      "content": "这是一个非常好的计划，强烈推荐",
+      "from": 784.37,
+      "location": 2,
+      "music": 0.0,
+      "sid": 378,
+      "to": 786.95
+    },
+    {
+      "content": "这是我个人主要使用的资源",
+      "from": 786.95,
+      "location": 2,
+      "music": 0.0,
+      "sid": 379,
+      "to": 789.63
+    },
+    {
+      "content": "在晋升段位和达到大师级时",
+      "from": 789.63,
+      "location": 2,
+      "music": 0.0,
+      "sid": 380,
+      "to": 792.03
+    },
+    {
+      "content": "获得大师段位后",
+      "from": 792.03,
+      "location": 2,
+      "music": 0.0,
+      "sid": 381,
+      "to": 792.99
+    },
+    {
+      "content": "我已经达到天界并专注相关领域",
+      "from": 792.99,
+      "location": 2,
+      "music": 0.0,
+      "sid": 382,
+      "to": 796.44
+    },
+    {
+      "content": "我能够做到这一点",
+      "from": 796.44,
+      "location": 2,
+      "music": 0.0,
+      "sid": 383,
+      "to": 798.08
+    },
+    {
+      "content": "多亏了之前训练打下的基础",
+      "from": 798.08,
+      "location": 2,
+      "music": 0.0,
+      "sid": 384,
+      "to": 801.66
+    },
+    {
+      "content": "接下来是VDM",
+      "from": 801.66,
+      "location": 2,
+      "music": 0.0,
+      "sid": 385,
+      "to": 802.92
+    },
+    {
+      "content": "这样大家就能看到",
+      "from": 802.92,
+      "location": 2,
+      "music": 0.0,
+      "sid": 386,
+      "to": 804.14
+    },
+    {
+      "content": "这是一个示例",
+      "from": 804.14,
+      "location": 2,
+      "music": 0.0,
+      "sid": 387,
+      "to": 805.14
+    },
+    {
+      "content": "科瓦奇的播放列表",
+      "from": 805.14,
+      "location": 2,
+      "music": 0.0,
+      "sid": 388,
+      "to": 806.74
+    },
+    {
+      "content": "VM",
+      "from": 806.74,
+      "location": 2,
+      "music": 0.0,
+      "sid": 389,
+      "to": 807.5
+    },
+    {
+      "content": "从精准追踪和蛇形追踪开始",
+      "from": 807.5,
+      "location": 2,
+      "music": 0.0,
+      "sid": 390,
+      "to": 809.72
+    },
+    {
+      "content": "这对所有遵循此方法的人都很关键",
+      "from": 809.72,
+      "location": 2,
+      "music": 0.0,
+      "sid": 391,
+      "to": 813.4
+    },
+    {
+      "content": "我强烈建议",
+      "from": 813.4,
+      "location": 2,
+      "music": 0.0,
+      "sid": 392,
+      "to": 814.86
+    },
+    {
+      "content": "从这个播放列表开始",
+      "from": 814.86,
+      "location": 2,
+      "music": 0.0,
+      "sid": 393,
+      "to": 816.36
+    },
+    {
+      "content": "分享代码也会在简介中",
+      "from": 816.36,
+      "location": 2,
+      "music": 0.0,
+      "sid": 394,
+      "to": 818.9
+    },
+    {
+      "content": "以及置顶评论里",
+      "from": 818.9,
+      "location": 2,
+      "music": 0.0,
+      "sid": 395,
+      "to": 820.26
+    },
+    {
+      "content": "我们到此结束",
+      "from": 820.26,
+      "location": 2,
+      "music": 0.0,
+      "sid": 396,
+      "to": 821.1
+    },
+    {
+      "content": "感谢大家观看，祝好运",
+      "from": 821.1,
+      "location": 2,
+      "music": 0.0,
+      "sid": 397,
+      "to": 823.62
+    },
+    {
+      "content": "大家去擅长自己关心的事",
+      "from": 823.62,
+      "location": 2,
+      "music": 0.0,
+      "sid": 398,
+      "to": 824.94
+    },
+    {
+      "content": "你真正在意的事情",
+      "from": 824.94,
+      "location": 2,
+      "music": 0.0,
+      "sid": 399,
+      "to": 825.62
+    },
+    {
+      "content": "无论是《Apex英雄》还是成为神枪手",
+      "from": 825.62,
+      "location": 2,
+      "music": 0.0,
+      "sid": 400,
+      "to": 828.42
+    },
+    {
+      "content": "训练师马",
+      "from": 828.42,
+      "location": 2,
+      "music": 0.0,
+      "sid": 401,
+      "to": 829.14
+    },
+    {
+      "content": "你们一定行的",
+      "from": 829.14,
+      "location": 2,
+      "music": 0.0,
+      "sid": 402,
+      "to": 830.42
+    },
+    {
+      "content": "所以",
+      "from": 830.42,
+      "location": 2,
+      "music": 0.0,
+      "sid": 403,
+      "to": 830.82
+    },
+    {
+      "content": "感谢大家一直以来的支持",
+      "from": 830.82,
+      "location": 2,
+      "music": 0.0,
+      "sid": 404,
+      "to": 831.9
+    },
+    {
+      "content": "我们下次再见",
+      "from": 831.9,
+      "location": 2,
+      "music": 0.0,
+      "sid": 405,
+      "to": 833.8
+    }
+  ]
+}

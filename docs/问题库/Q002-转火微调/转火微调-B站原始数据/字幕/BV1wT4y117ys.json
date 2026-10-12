@@ -1,0 +1,1678 @@
+{
+  "bvid": "BV1wT4y117ys",
+  "status": "ok lang=ai-zh",
+  "segments": [
+    {
+      "from": 0.24,
+      "to": 0.84,
+      "sid": 1,
+      "location": 2,
+      "content": "各位观众朋友们",
+      "music": 0.0
+    },
+    {
+      "from": 0.84,
+      "to": 1.08,
+      "sid": 2,
+      "location": 2,
+      "content": "大家好",
+      "music": 0.0
+    },
+    {
+      "from": 1.08,
+      "to": 1.56,
+      "sid": 3,
+      "location": 2,
+      "content": "我是东彦",
+      "music": 0.0
+    },
+    {
+      "from": 1.56,
+      "to": 3.989,
+      "sid": 4,
+      "location": 2,
+      "content": "那么今天给大家带来的是一个全新的教学系列",
+      "music": 0.0
+    },
+    {
+      "from": 3.989,
+      "to": 5.609,
+      "sid": 5,
+      "location": 2,
+      "content": "我在之前的瞄准系列教学里",
+      "music": 0.0
+    },
+    {
+      "from": 5.609,
+      "to": 7.8,
+      "sid": 6,
+      "location": 2,
+      "content": "从最基础的瞄准就是静态定位出发",
+      "music": 0.0
+    },
+    {
+      "from": 7.8,
+      "to": 9.78,
+      "sid": 7,
+      "location": 2,
+      "content": "帮助大家纠正了对于瞄准的认知",
+      "music": 0.0
+    },
+    {
+      "from": 9.78,
+      "to": 11.34,
+      "sid": 8,
+      "location": 2,
+      "content": "我现在定位呢在任何游戏里",
+      "music": 0.0
+    },
+    {
+      "from": 11.34,
+      "to": 13.02,
+      "sid": 9,
+      "location": 2,
+      "content": "都是一个很实用的瞄准能力",
+      "music": 0.0
+    },
+    {
+      "from": 13.02,
+      "to": 14.04,
+      "sid": 10,
+      "location": 2,
+      "content": "但是当有了竞赛定位",
+      "music": 0.0
+    },
+    {
+      "from": 14.04,
+      "to": 14.94,
+      "sid": 11,
+      "location": 2,
+      "content": "要代表学项目六",
+      "music": 0.0
+    },
+    {
+      "from": 14.94,
+      "to": 16.82,
+      "sid": 12,
+      "location": 2,
+      "content": "目标设计达到及格的8万分之后",
+      "music": 0.0
+    },
+    {
+      "from": 16.82,
+      "to": 19.22,
+      "sid": 13,
+      "location": 2,
+      "content": "就可以考虑根据自己手游玩游戏的不同",
+      "music": 0.0
+    },
+    {
+      "from": 22.02,
+      "to": 24.54,
+      "sid": 14,
+      "location": 2,
+      "content": "那么除了充当基石的静态定位能力之外",
+      "music": 0.0
+    },
+    {
+      "from": 24.54,
+      "to": 27.21,
+      "sid": 15,
+      "location": 2,
+      "content": "往下细分还有跟枪转火以及动态定位三项",
+      "music": 0.0
+    },
+    {
+      "from": 27.21,
+      "to": 28.88,
+      "sid": 16,
+      "location": 2,
+      "content": "而我们今天要讲的就是转火",
+      "music": 0.0
+    },
+    {
+      "from": 28.88,
+      "to": 29.96,
+      "sid": 17,
+      "location": 2,
+      "content": "转火顾名思义",
+      "music": 0.0
+    },
+    {
+      "from": 29.96,
+      "to": 32.0,
+      "sid": 18,
+      "location": 2,
+      "content": "就是在按住左键持续扫射的过程中",
+      "music": 0.0
+    },
+    {
+      "from": 32.0,
+      "to": 34.76,
+      "sid": 19,
+      "location": 2,
+      "content": "快速并准确的在多个目标中完成切换",
+      "music": 0.0
+    },
+    {
+      "from": 34.76,
+      "to": 36.86,
+      "sid": 20,
+      "location": 2,
+      "content": "那么在战地cod这一类TTK",
+      "music": 0.0
+    },
+    {
+      "from": 36.86,
+      "to": 38.3,
+      "sid": 21,
+      "location": 2,
+      "content": "平均在150ms以上",
+      "music": 0.0
+    },
+    {
+      "from": 38.3,
+      "to": 39.56,
+      "sid": 22,
+      "location": 2,
+      "content": "普遍印象都不致命",
+      "music": 0.0
+    },
+    {
+      "from": 39.56,
+      "to": 41.03,
+      "sid": 23,
+      "location": 2,
+      "content": "效果密度较高的游戏",
+      "music": 0.0
+    },
+    {
+      "from": 41.03,
+      "to": 42.2,
+      "sid": 24,
+      "location": 2,
+      "content": "转火是非常实用",
+      "music": 0.0
+    },
+    {
+      "from": 42.2,
+      "to": 43.78,
+      "sid": 25,
+      "location": 2,
+      "content": "也很具观赏性的种操作",
+      "music": 0.0
+    },
+    {
+      "from": 43.78,
+      "to": 44.56,
+      "sid": 26,
+      "location": 2,
+      "content": "那转火能力呢",
+      "music": 0.0
+    },
+    {
+      "from": 44.56,
+      "to": 46.78,
+      "sid": 27,
+      "location": 2,
+      "content": "对于任何一个想打好战地或者cod的玩家",
+      "music": 0.0
+    },
+    {
+      "from": 46.78,
+      "to": 48.56,
+      "sid": 28,
+      "location": 2,
+      "content": "都可以说是门必修课",
+      "music": 0.0
+    },
+    {
+      "from": 49.2,
+      "to": 50.06,
+      "sid": 29,
+      "location": 2,
+      "content": "众所周知呢",
+      "music": 0.0
+    },
+    {
+      "from": 50.06,
+      "to": 51.38,
+      "sid": 30,
+      "location": 2,
+      "content": "我个人是比较正常转火的",
+      "music": 0.0
+    },
+    {
+      "from": 51.38,
+      "to": 52.22,
+      "sid": 31,
+      "location": 2,
+      "content": "但我的转火能力",
+      "music": 0.0
+    },
+    {
+      "from": 52.22,
+      "to": 53.9,
+      "sid": 32,
+      "location": 2,
+      "content": "基本上都是在游戏里练练练出来的",
+      "music": 0.0
+    },
+    {
+      "from": 53.9,
+      "to": 55.04,
+      "sid": 33,
+      "location": 2,
+      "content": "属于野路子出身",
+      "music": 0.0
+    },
+    {
+      "from": 55.04,
+      "to": 56.54,
+      "sid": 34,
+      "location": 2,
+      "content": "所以在制作这期视频的过程中",
+      "music": 0.0
+    },
+    {
+      "from": 56.54,
+      "to": 59.0,
+      "sid": 35,
+      "location": 2,
+      "content": "我又请来了三位科班练出来的转火高手",
+      "music": 0.0
+    },
+    {
+      "from": 59.0,
+      "to": 60.8,
+      "sid": 36,
+      "location": 2,
+      "content": "以提高本期视频的内容质量",
+      "music": 0.0
+    },
+    {
+      "from": 60.8,
+      "to": 62.54,
+      "sid": 37,
+      "location": 2,
+      "content": "那么在这里先介绍一下这三位",
+      "music": 0.0
+    },
+    {
+      "from": 62.54,
+      "to": 63.5,
+      "sid": 38,
+      "location": 2,
+      "content": "分别是MON",
+      "music": 0.0
+    },
+    {
+      "from": 63.5,
+      "to": 64.76,
+      "sid": 39,
+      "location": 2,
+      "content": "金水以及CCL",
+      "music": 0.0
+    },
+    {
+      "from": 64.76,
+      "to": 67.16,
+      "sid": 40,
+      "location": 2,
+      "content": "然后MON呢是目前全中国cod转火项目",
+      "music": 0.0
+    },
+    {
+      "from": 67.16,
+      "to": 68.32,
+      "sid": 41,
+      "location": 2,
+      "content": "最厉害的玩家之一",
+      "music": 0.0
+    },
+    {
+      "from": 68.32,
+      "to": 69.52,
+      "sid": 42,
+      "location": 2,
+      "content": "在主流的转火项目里",
+      "music": 0.0
+    },
+    {
+      "from": 69.52,
+      "to": 71.65,
+      "sid": 43,
+      "location": 2,
+      "content": "他基本上都是达到了世界前十的水平",
+      "music": 0.0
+    },
+    {
+      "from": 71.65,
+      "to": 73.84,
+      "sid": 44,
+      "location": 2,
+      "content": "我游戏视频里用到了cod转火的电枪",
+      "music": 0.0
+    },
+    {
+      "from": 73.84,
+      "to": 74.94,
+      "sid": 45,
+      "location": 2,
+      "content": "素材就来自于它",
+      "music": 0.0
+    },
+    {
+      "from": 74.94,
+      "to": 77.34,
+      "sid": 46,
+      "location": 2,
+      "content": "而金水则是一位后发生的转火高手",
+      "music": 0.0
+    },
+    {
+      "from": 77.34,
+      "to": 79.26,
+      "sid": 47,
+      "location": 2,
+      "content": "他先前反应速度只有280ms",
+      "music": 0.0
+    },
+    {
+      "from": 79.26,
+      "to": 80.34,
+      "sid": 48,
+      "location": 2,
+      "content": "我俩刚认识的时候",
+      "music": 0.0
+    },
+    {
+      "from": 80.34,
+      "to": 82.08,
+      "sid": 49,
+      "location": 2,
+      "content": "他玩战地44KD才一出头",
+      "music": 0.0
+    },
+    {
+      "from": 82.08,
+      "to": 84.3,
+      "sid": 50,
+      "location": 2,
+      "content": "但是呢他后来经过几百小时给瞄准练习",
+      "music": 0.0
+    },
+    {
+      "from": 84.3,
+      "to": 86.68,
+      "sid": 51,
+      "location": 2,
+      "content": "最终成为了一名知名的CV大陀罗",
+      "music": 0.0
+    },
+    {
+      "from": 86.68,
+      "to": 87.82,
+      "sid": 52,
+      "location": 2,
+      "content": "那么最后呢就是CXL",
+      "music": 0.0
+    },
+    {
+      "from": 87.82,
+      "to": 88.6,
+      "sid": 53,
+      "location": 2,
+      "content": "它是采用金水",
+      "music": 0.0
+    },
+    {
+      "from": 88.6,
+      "to": 90.04,
+      "sid": 54,
+      "location": 2,
+      "content": "那么在经过三个月的转火练习后",
+      "music": 0.0
+    },
+    {
+      "from": 90.04,
+      "to": 92.9,
+      "sid": 55,
+      "location": 2,
+      "content": "目前在多个转火项目中进入了世界前100",
+      "music": 0.0
+    },
+    {
+      "from": 92.9,
+      "to": 93.98,
+      "sid": 56,
+      "location": 2,
+      "content": "那CXL和金水",
+      "music": 0.0
+    },
+    {
+      "from": 93.98,
+      "to": 95.9,
+      "sid": 57,
+      "location": 2,
+      "content": "这两位基本上都是从零基础开始练起的",
+      "music": 0.0
+    },
+    {
+      "from": 95.9,
+      "to": 97.46,
+      "sid": 58,
+      "location": 2,
+      "content": "所以对于转火的认识比较深刻",
+      "music": 0.0
+    },
+    {
+      "from": 97.46,
+      "to": 99.06,
+      "sid": 59,
+      "location": 2,
+      "content": "他们两位也为本期视频提供了",
+      "music": 0.0
+    },
+    {
+      "from": 99.06,
+      "to": 100.41,
+      "sid": 60,
+      "location": 2,
+      "content": "强有力的理论支持",
+      "music": 0.0
+    },
+    {
+      "from": 100.41,
+      "to": 101.58,
+      "sid": 61,
+      "location": 2,
+      "content": "那么按照惯例呢",
+      "music": 0.0
+    },
+    {
+      "from": 101.58,
+      "to": 104.08,
+      "sid": 62,
+      "location": 2,
+      "content": "我们先将转火的瞄准全流程进行拆解",
+      "music": 0.0
+    },
+    {
+      "from": 104.08,
+      "to": 105.76,
+      "sid": 63,
+      "location": 2,
+      "content": "那转火的全过程呢非常直观",
+      "music": 0.0
+    },
+    {
+      "from": 105.76,
+      "to": 107.02,
+      "sid": 64,
+      "location": 2,
+      "content": "就是眼睛捕捉到了敌人",
+      "music": 0.0
+    },
+    {
+      "from": 107.02,
+      "to": 108.64,
+      "sid": 65,
+      "location": 2,
+      "content": "然后我们通过屏幕中心感与空间感",
+      "music": 0.0
+    },
+    {
+      "from": 108.64,
+      "to": 110.32,
+      "sid": 66,
+      "location": 2,
+      "content": "快速的将准星套到人身上",
+      "music": 0.0
+    },
+    {
+      "from": 110.32,
+      "to": 111.64,
+      "sid": 67,
+      "location": 2,
+      "content": "根据目标持续扫射",
+      "music": 0.0
+    },
+    {
+      "from": 111.64,
+      "to": 112.63,
+      "sid": 68,
+      "location": 2,
+      "content": "直到将其锁死",
+      "music": 0.0
+    },
+    {
+      "from": 112.63,
+      "to": 114.7,
+      "sid": 69,
+      "location": 2,
+      "content": "并在多个目标上重复这个过程",
+      "music": 0.0
+    },
+    {
+      "from": 114.7,
+      "to": 116.18,
+      "sid": 70,
+      "location": 2,
+      "content": "那么这种瞄准的就是转火",
+      "music": 0.0
+    },
+    {
+      "from": 116.18,
+      "to": 116.9,
+      "sid": 71,
+      "location": 2,
+      "content": "看到这里",
+      "music": 0.0
+    },
+    {
+      "from": 116.9,
+      "to": 117.86,
+      "sid": 72,
+      "location": 2,
+      "content": "很多人可能就会问",
+      "music": 0.0
+    },
+    {
+      "from": 117.86,
+      "to": 120.42,
+      "sid": 73,
+      "location": 2,
+      "content": "那转火不就是静态定位加跟枪结合吗",
+      "music": 0.0
+    },
+    {
+      "from": 120.42,
+      "to": 122.7,
+      "sid": 74,
+      "location": 2,
+      "content": "但其实就是很多人对于转火的一个误解",
+      "music": 0.0
+    },
+    {
+      "from": 122.7,
+      "to": 124.2,
+      "sid": 75,
+      "location": 2,
+      "content": "那么细心的朋友可能就发现了",
+      "music": 0.0
+    },
+    {
+      "from": 124.2,
+      "to": 125.22,
+      "sid": 76,
+      "location": 2,
+      "content": "我们在讲静态定位的时候",
+      "music": 0.0
+    },
+    {
+      "from": 125.22,
+      "to": 127.84,
+      "sid": 77,
+      "location": 2,
+      "content": "重点强调的在一次定位后用眼睛来进行瞄准",
+      "music": 0.0
+    },
+    {
+      "from": 127.84,
+      "to": 128.59,
+      "sid": 78,
+      "location": 2,
+      "content": "出场反馈",
+      "music": 0.0
+    },
+    {
+      "from": 128.59,
+      "to": 130.6,
+      "sid": 79,
+      "location": 2,
+      "content": "但在转火上并没有提到确认二字",
+      "music": 0.0
+    },
+    {
+      "from": 130.6,
+      "to": 131.74,
+      "sid": 80,
+      "location": 2,
+      "content": "反而使用了屏幕中心感",
+      "music": 0.0
+    },
+    {
+      "from": 131.74,
+      "to": 133.54,
+      "sid": 81,
+      "location": 2,
+      "content": "空间感这两名字进行了替换",
+      "music": 0.0
+    },
+    {
+      "from": 133.54,
+      "to": 134.86,
+      "sid": 82,
+      "location": 2,
+      "content": "那原因也非常简单",
+      "music": 0.0
+    },
+    {
+      "from": 134.86,
+      "to": 137.2,
+      "sid": 83,
+      "location": 2,
+      "content": "在比较吃静态定位的瓦尔兰特这一类游戏里",
+      "music": 0.0
+    },
+    {
+      "from": 137.2,
+      "to": 138.46,
+      "sid": 84,
+      "location": 2,
+      "content": "只要爆头用能一枪死",
+      "music": 0.0
+    },
+    {
+      "from": 138.46,
+      "to": 140.1,
+      "sid": 85,
+      "location": 2,
+      "content": "所以我们要追求极致的精度",
+      "music": 0.0
+    },
+    {
+      "from": 140.1,
+      "to": 142.62,
+      "sid": 86,
+      "location": 2,
+      "content": "我们为了能准确地击中很小的小投模型",
+      "music": 0.0
+    },
+    {
+      "from": 142.62,
+      "to": 144.9,
+      "sid": 87,
+      "location": 2,
+      "content": "所以需要通过确认反弹的过程来提高命中率",
+      "music": 0.0
+    },
+    {
+      "from": 144.9,
+      "to": 147.18,
+      "sid": 88,
+      "location": 2,
+      "content": "但是在比较吃转火的cod和战地中",
+      "music": 0.0
+    },
+    {
+      "from": 147.18,
+      "to": 148.68,
+      "sid": 89,
+      "location": 2,
+      "content": "我们用自动武器爆头啊",
+      "music": 0.0
+    },
+    {
+      "from": 148.68,
+      "to": 149.62,
+      "sid": 90,
+      "location": 2,
+      "content": "也不能一枪毙敌",
+      "music": 0.0
+    },
+    {
+      "from": 149.62,
+      "to": 151.36,
+      "sid": 91,
+      "location": 2,
+      "content": "反而可能会因为刻意追求爆头",
+      "music": 0.0
+    },
+    {
+      "from": 151.36,
+      "to": 152.74,
+      "sid": 92,
+      "location": 2,
+      "content": "而耗费额外的瞄准时间",
+      "music": 0.0
+    },
+    {
+      "from": 152.74,
+      "to": 154.52,
+      "sid": 93,
+      "location": 2,
+      "content": "进而被瞄身子敌人反杀",
+      "music": 0.0
+    },
+    {
+      "from": 154.52,
+      "to": 155.6,
+      "sid": 94,
+      "location": 2,
+      "content": "所以在这一类游戏里",
+      "music": 0.0
+    },
+    {
+      "from": 155.6,
+      "to": 158.0,
+      "sid": 95,
+      "location": 2,
+      "content": "对于瞄准速度的要求高于对精度的要求",
+      "music": 0.0
+    },
+    {
+      "from": 158.0,
+      "to": 159.38,
+      "sid": 96,
+      "location": 2,
+      "content": "我们打深了就可以了",
+      "music": 0.0
+    },
+    {
+      "from": 159.38,
+      "to": 160.76,
+      "sid": 97,
+      "location": 2,
+      "content": "那么身体模型有那么大",
+      "music": 0.0
+    },
+    {
+      "from": 160.76,
+      "to": 163.16,
+      "sid": 98,
+      "location": 2,
+      "content": "自然就可以用比较粗略但更快速的空间感",
+      "music": 0.0
+    },
+    {
+      "from": 163.16,
+      "to": 166.18,
+      "sid": 99,
+      "location": 2,
+      "content": "屏幕中心感来替代眼睛精确的确认反应过程了",
+      "music": 0.0
+    },
+    {
+      "from": 166.18,
+      "to": 168.94,
+      "sid": 100,
+      "location": 2,
+      "content": "那么以金水区的这个拉单杠进行类比",
+      "music": 0.0
+    },
+    {
+      "from": 168.94,
+      "to": 171.91,
+      "sid": 101,
+      "location": 2,
+      "content": "那转火呢不是拉起自身体重一致的重物",
+      "music": 0.0
+    },
+    {
+      "from": 171.91,
+      "to": 173.72,
+      "sid": 102,
+      "location": 2,
+      "content": "反而是拉起自己",
+      "music": 0.0
+    },
+    {
+      "from": 173.72,
+      "to": 175.88,
+      "sid": 103,
+      "location": 2,
+      "content": "那控枪与屏幕中心感是什么呢",
+      "music": 0.0
+    },
+    {
+      "from": 175.88,
+      "to": 177.74,
+      "sid": 104,
+      "location": 2,
+      "content": "我们在瞄准系列教学里的这个眼睛",
+      "music": 0.0
+    },
+    {
+      "from": 177.74,
+      "to": 180.05,
+      "sid": 105,
+      "location": 2,
+      "content": "阅读能力板块中曾经讲过这两种能力",
+      "music": 0.0
+    },
+    {
+      "from": 180.05,
+      "to": 182.18,
+      "sid": 106,
+      "location": 2,
+      "content": "而他们在转火上也是尤为重要的",
+      "music": 0.0
+    },
+    {
+      "from": 182.18,
+      "to": 184.31,
+      "sid": 107,
+      "location": 2,
+      "content": "不管是在转火的实战或者在练枪项目中",
+      "music": 0.0
+    },
+    {
+      "from": 184.31,
+      "to": 185.88,
+      "sid": 108,
+      "location": 2,
+      "content": "我们经常会用到处在360度",
+      "music": 0.0
+    },
+    {
+      "from": 185.88,
+      "to": 186.3,
+      "sid": 109,
+      "location": 2,
+      "content": "全方位",
+      "music": 0.0
+    },
+    {
+      "from": 186.3,
+      "to": 187.38,
+      "sid": 110,
+      "location": 2,
+      "content": "各个角度都有目标",
+      "music": 0.0
+    },
+    {
+      "from": 187.38,
+      "to": 188.1,
+      "sid": 111,
+      "location": 2,
+      "content": "那么这个时候呢",
+      "music": 0.0
+    },
+    {
+      "from": 188.1,
+      "to": 190.56,
+      "sid": 112,
+      "location": 2,
+      "content": "指引我们快速转火的不是具体的距离或者坐标",
+      "music": 0.0
+    },
+    {
+      "from": 190.56,
+      "to": 191.51,
+      "sid": 113,
+      "location": 2,
+      "content": "而是一种方位感",
+      "music": 0.0
+    },
+    {
+      "from": 191.51,
+      "to": 192.65,
+      "sid": 114,
+      "location": 2,
+      "content": "我们要将这种行为CX",
+      "music": 0.0
+    },
+    {
+      "from": 192.65,
+      "to": 194.69,
+      "sid": 115,
+      "location": 2,
+      "content": "从三叠立体空间转换到2D的平面",
+      "music": 0.0
+    },
+    {
+      "from": 194.69,
+      "to": 196.06,
+      "sid": 116,
+      "location": 2,
+      "content": "用鼠标来完成操作",
+      "music": 0.0
+    },
+    {
+      "from": 196.06,
+      "to": 198.0,
+      "sid": 117,
+      "location": 2,
+      "content": "支撑这种操作就是我们的空间感",
+      "music": 0.0
+    },
+    {
+      "from": 198.0,
+      "to": 199.74,
+      "sid": 118,
+      "location": 2,
+      "content": "屏幕中心感则替代了准星",
+      "music": 0.0
+    },
+    {
+      "from": 199.74,
+      "to": 202.71,
+      "sid": 119,
+      "location": 2,
+      "content": "我们可以用它比较粗略的方式来完成定位",
+      "music": 0.0
+    },
+    {
+      "from": 202.71,
+      "to": 203.64,
+      "sid": 120,
+      "location": 2,
+      "content": "或者可以这么说",
+      "music": 0.0
+    },
+    {
+      "from": 203.64,
+      "to": 204.36,
+      "sid": 121,
+      "location": 2,
+      "content": "在期待定位上",
+      "music": 0.0
+    },
+    {
+      "from": 204.36,
+      "to": 206.92,
+      "sid": 122,
+      "location": 2,
+      "content": "我们是将转型精确的移动到敌人头上",
+      "music": 0.0
+    },
+    {
+      "from": 206.92,
+      "to": 207.76,
+      "sid": 123,
+      "location": 2,
+      "content": "而在转火中",
+      "music": 0.0
+    },
+    {
+      "from": 207.76,
+      "to": 209.44,
+      "sid": 124,
+      "location": 2,
+      "content": "我们是将空间额所捕捉的目标",
+      "music": 0.0
+    },
+    {
+      "from": 209.44,
+      "to": 212.02,
+      "sid": 125,
+      "location": 2,
+      "content": "粗略却快速的放入在我们的屏幕中心上",
+      "music": 0.0
+    },
+    {
+      "from": 212.02,
+      "to": 213.7,
+      "sid": 126,
+      "location": 2,
+      "content": "那么经过这一段的理论阐述",
+      "music": 0.0
+    },
+    {
+      "from": 213.7,
+      "to": 216.0,
+      "sid": 127,
+      "location": 2,
+      "content": "我们可以大致明白转火为静态定位的差别",
+      "music": 0.0
+    },
+    {
+      "from": 216.0,
+      "to": 217.92,
+      "sid": 128,
+      "location": 2,
+      "content": "那么在转火这一瞄准技巧上再细分",
+      "music": 0.0
+    },
+    {
+      "from": 217.92,
+      "to": 220.08,
+      "sid": 129,
+      "location": 2,
+      "content": "我们就可以将练习的方向分为转火速度",
+      "music": 0.0
+    },
+    {
+      "from": 220.08,
+      "to": 222.4,
+      "sid": 130,
+      "location": 2,
+      "content": "大角度的一个转火微调效果呃",
+      "music": 0.0
+    },
+    {
+      "from": 222.4,
+      "to": 224.68,
+      "sid": 131,
+      "location": 2,
+      "content": "也就是包含鼠标费的一些内容嗯",
+      "music": 0.0
+    },
+    {
+      "from": 224.68,
+      "to": 226.6,
+      "sid": 132,
+      "location": 2,
+      "content": "还有就是转火定位跟上的衔接",
+      "music": 0.0
+    },
+    {
+      "from": 226.6,
+      "to": 227.8,
+      "sid": 133,
+      "location": 2,
+      "content": "转火是定位的精度",
+      "music": 0.0
+    },
+    {
+      "from": 227.8,
+      "to": 228.98,
+      "sid": 134,
+      "location": 2,
+      "content": "空间感这五大类",
+      "music": 0.0
+    },
+    {
+      "from": 228.98,
+      "to": 231.56,
+      "sid": 135,
+      "location": 2,
+      "content": "那么转火速度与精度这两项很好理解",
+      "music": 0.0
+    },
+    {
+      "from": 231.56,
+      "to": 233.76,
+      "sid": 136,
+      "location": 2,
+      "content": "那么空间刚刚也解释过",
+      "music": 0.0
+    },
+    {
+      "from": 233.76,
+      "to": 236.7,
+      "sid": 137,
+      "location": 2,
+      "content": "那么大角度转火的微调效果是在对视野盲之前",
+      "music": 0.0
+    },
+    {
+      "from": 236.7,
+      "to": 237.6,
+      "sid": 138,
+      "location": 2,
+      "content": "大角度转火的时候",
+      "music": 0.0
+    },
+    {
+      "from": 237.6,
+      "to": 240.42,
+      "sid": 139,
+      "location": 2,
+      "content": "你需要在这个视角高速移动的同时捕捉目标",
+      "music": 0.0
+    },
+    {
+      "from": 240.42,
+      "to": 242.42,
+      "sid": 140,
+      "location": 2,
+      "content": "并在对自己的转火进行一个微调",
+      "music": 0.0
+    },
+    {
+      "from": 242.42,
+      "to": 244.58,
+      "sid": 141,
+      "location": 2,
+      "content": "那么大小的转火呢除了微调效果",
+      "music": 0.0
+    },
+    {
+      "from": 244.58,
+      "to": 246.73,
+      "sid": 142,
+      "location": 2,
+      "content": "还需要考验鼠标费的熟练度",
+      "music": 0.0
+    },
+    {
+      "from": 246.73,
+      "to": 248.53,
+      "sid": 143,
+      "location": 2,
+      "content": "至于转火定位也跟上衔接",
+      "music": 0.0
+    },
+    {
+      "from": 248.53,
+      "to": 250.21,
+      "sid": 144,
+      "location": 2,
+      "content": "就是指你在拉到目标身上之后",
+      "music": 0.0
+    },
+    {
+      "from": 250.21,
+      "to": 251.71,
+      "sid": 145,
+      "location": 2,
+      "content": "还需要用根枪技巧锁住它",
+      "music": 0.0
+    },
+    {
+      "from": 251.71,
+      "to": 253.93,
+      "sid": 146,
+      "location": 2,
+      "content": "我们要从极快速定位衔接到平滑的跟枪",
+      "music": 0.0
+    },
+    {
+      "from": 253.93,
+      "to": 254.9,
+      "sid": 147,
+      "location": 2,
+      "content": "是需要技巧的",
+      "music": 0.0
+    },
+    {
+      "from": 254.9,
+      "to": 257.54,
+      "sid": 148,
+      "location": 2,
+      "content": "在这里我们分门别类的给大家推荐一些项目",
+      "music": 0.0
+    },
+    {
+      "from": 257.54,
+      "to": 259.1,
+      "sid": 149,
+      "location": 2,
+      "content": "那么并不是说大家练转火",
+      "music": 0.0
+    },
+    {
+      "from": 259.1,
+      "to": 260.24,
+      "sid": 150,
+      "location": 2,
+      "content": "指纹这些项目就可以了",
+      "music": 0.0
+    },
+    {
+      "from": 260.24,
+      "to": 261.08,
+      "sid": 151,
+      "location": 2,
+      "content": "大家搜索关键词",
+      "music": 0.0
+    },
+    {
+      "from": 261.08,
+      "to": 261.5,
+      "sid": 152,
+      "location": 2,
+      "content": "Txt",
+      "music": 0.0
+    },
+    {
+      "from": 261.5,
+      "to": 265.24,
+      "sid": 153,
+      "location": 2,
+      "content": "rich或者这个缩写T就能找到很多很有趣的项目",
+      "music": 0.0
+    },
+    {
+      "from": 265.24,
+      "to": 266.89,
+      "sid": 154,
+      "location": 2,
+      "content": "我推荐大家可以多去试一试",
+      "music": 0.0
+    },
+    {
+      "from": 266.89,
+      "to": 269.29,
+      "sid": 155,
+      "location": 2,
+      "content": "在这里列出来的这些项目都只是表针对性",
+      "music": 0.0
+    },
+    {
+      "from": 269.29,
+      "to": 271.86,
+      "sid": 156,
+      "location": 2,
+      "content": "或者说经验证比较有效的一个转火的一些内容",
+      "music": 0.0
+    },
+    {
+      "from": 271.86,
+      "to": 273.0,
+      "sid": 157,
+      "location": 2,
+      "content": "大家可以在这里暂停",
+      "music": 0.0
+    },
+    {
+      "from": 273.0,
+      "to": 275.34,
+      "sid": 158,
+      "location": 2,
+      "content": "将这些项目呢输出到自己的练枪列表里",
+      "music": 0.0
+    },
+    {
+      "from": 275.34,
+      "to": 278.04,
+      "sid": 159,
+      "location": 2,
+      "content": "那么在外设角度上",
+      "music": 0.0
+    },
+    {
+      "from": 278.04,
+      "to": 280.14,
+      "sid": 160,
+      "location": 2,
+      "content": "我也想给热爱转火的玩家一些建议",
+      "music": 0.0
+    },
+    {
+      "from": 280.14,
+      "to": 283.36,
+      "sid": 161,
+      "location": 2,
+      "content": "首先显性转火需要我们在高速转动时的过程中",
+      "music": 0.0
+    },
+    {
+      "from": 283.36,
+      "to": 285.32,
+      "sid": 162,
+      "location": 2,
+      "content": "瞬间捕捉到一些一闪而过的目标",
+      "music": 0.0
+    },
+    {
+      "from": 285.32,
+      "to": 287.36,
+      "sid": 163,
+      "location": 2,
+      "content": "这个对显示器的刷新率有了更高的要求",
+      "music": 0.0
+    },
+    {
+      "from": 287.36,
+      "to": 289.37,
+      "sid": 164,
+      "location": 2,
+      "content": "所以144HZ是最起码的",
+      "music": 0.0
+    },
+    {
+      "from": 289.37,
+      "to": 290.66,
+      "sid": 165,
+      "location": 2,
+      "content": "我使用的是165HZ",
+      "music": 0.0
+    },
+    {
+      "from": 290.66,
+      "to": 293.48,
+      "sid": 166,
+      "location": 2,
+      "content": "IPS面板的明基莫比SCXL10S",
+      "music": 0.0
+    },
+    {
+      "from": 293.48,
+      "to": 296.18,
+      "sid": 167,
+      "location": 2,
+      "content": "相比较以前我使用的tn面板的高刷显示器",
+      "music": 0.0
+    },
+    {
+      "from": 296.18,
+      "to": 297.86,
+      "sid": 168,
+      "location": 2,
+      "content": "在保证低下延迟的前提下",
+      "music": 0.0
+    },
+    {
+      "from": 297.86,
+      "to": 299.84,
+      "sid": 169,
+      "location": 2,
+      "content": "明基这款显示器的色彩调教的很好",
+      "music": 0.0
+    },
+    {
+      "from": 299.84,
+      "to": 301.04,
+      "sid": 170,
+      "location": 2,
+      "content": "那我以前使用的显示器",
+      "music": 0.0
+    },
+    {
+      "from": 301.04,
+      "to": 301.7,
+      "sid": 171,
+      "location": 2,
+      "content": "因为面板的问题",
+      "music": 0.0
+    },
+    {
+      "from": 301.7,
+      "to": 303.2,
+      "sid": 172,
+      "location": 2,
+      "content": "在色彩表现上偏白的",
+      "music": 0.0
+    },
+    {
+      "from": 303.2,
+      "to": 305.06,
+      "sid": 173,
+      "location": 2,
+      "content": "那么以前高强转火三四个小时",
+      "music": 0.0
+    },
+    {
+      "from": 305.06,
+      "to": 306.83,
+      "sid": 174,
+      "location": 2,
+      "content": "我的眼睛就因为干死而流泪",
+      "music": 0.0
+    },
+    {
+      "from": 306.83,
+      "to": 310.1,
+      "sid": 175,
+      "location": 2,
+      "content": "那这款显示器呢配备有BI这个智能调光技术",
+      "music": 0.0
+    },
+    {
+      "from": 310.1,
+      "to": 313.13,
+      "sid": 176,
+      "location": 2,
+      "content": "我们可以随时随着这个呃环境光的变化",
+      "music": 0.0
+    },
+    {
+      "from": 313.13,
+      "to": 315.08,
+      "sid": 177,
+      "location": 2,
+      "content": "来调节屏幕的亮度和色温",
+      "music": 0.0
+    },
+    {
+      "from": 315.08,
+      "to": 317.26,
+      "sid": 178,
+      "location": 2,
+      "content": "所以我使用起来就不会有这种问题",
+      "music": 0.0
+    },
+    {
+      "from": 317.26,
+      "to": 318.82,
+      "sid": 179,
+      "location": 2,
+      "content": "那么人老了",
+      "music": 0.0
+    },
+    {
+      "from": 318.82,
+      "to": 320.38,
+      "sid": 180,
+      "location": 2,
+      "content": "眼睛确实不如以前了啊",
+      "music": 0.0
+    },
+    {
+      "from": 320.38,
+      "to": 322.72,
+      "sid": 181,
+      "location": 2,
+      "content": "然后就是这款显示器自带的泛用性很强的",
+      "music": 0.0
+    },
+    {
+      "from": 322.72,
+      "to": 323.92,
+      "sid": 182,
+      "location": 2,
+      "content": "FPS模式滤镜了",
+      "music": 0.0
+    },
+    {
+      "from": 323.92,
+      "to": 325.48,
+      "sid": 183,
+      "location": 2,
+      "content": "那么这款自带的显示区滤镜",
+      "music": 0.0
+    },
+    {
+      "from": 325.48,
+      "to": 327.4,
+      "sid": 184,
+      "location": 2,
+      "content": "在多游戏内的表现都很不错",
+      "music": 0.0
+    },
+    {
+      "from": 327.4,
+      "to": 328.9,
+      "sid": 185,
+      "location": 2,
+      "content": "在本视频中也提到的",
+      "music": 0.0
+    },
+    {
+      "from": 328.9,
+      "to": 330.82,
+      "sid": 186,
+      "location": 2,
+      "content": "这个cod和战地等需要转火",
+      "music": 0.0
+    },
+    {
+      "from": 330.82,
+      "to": 332.06,
+      "sid": 187,
+      "location": 2,
+      "content": "游戏里表现的也很棒",
+      "music": 0.0
+    },
+    {
+      "from": 332.06,
+      "to": 333.44,
+      "sid": 188,
+      "location": 2,
+      "content": "相比原卡滤镜来说",
+      "music": 0.0
+    },
+    {
+      "from": 333.44,
+      "to": 334.4,
+      "sid": 189,
+      "location": 2,
+      "content": "它不仅操作简单",
+      "music": 0.0
+    },
+    {
+      "from": 334.4,
+      "to": 336.35,
+      "sid": 190,
+      "location": 2,
+      "content": "也避免了丢帧的一个可能",
+      "music": 0.0
+    },
+    {
+      "from": 336.35,
+      "to": 337.4,
+      "sid": 191,
+      "location": 2,
+      "content": "那显示器说完了",
+      "music": 0.0
+    },
+    {
+      "from": 337.4,
+      "to": 338.06,
+      "sid": 192,
+      "location": 2,
+      "content": "他就是鼠标",
+      "music": 0.0
+    },
+    {
+      "from": 338.06,
+      "to": 340.14,
+      "sid": 193,
+      "location": 2,
+      "content": "鼠标位在此前也单独出过一期视频讲过",
+      "music": 0.0
+    },
+    {
+      "from": 340.14,
+      "to": 341.64,
+      "sid": 194,
+      "location": 2,
+      "content": "大致内容还是一样的",
+      "music": 0.0
+    },
+    {
+      "from": 341.64,
+      "to": 342.36,
+      "sid": 195,
+      "location": 2,
+      "content": "只是在转火上",
+      "music": 0.0
+    },
+    {
+      "from": 342.36,
+      "to": 344.16,
+      "sid": 196,
+      "location": 2,
+      "content": "为了更快速的完成鼠标复位",
+      "music": 0.0
+    },
+    {
+      "from": 344.16,
+      "to": 345.92,
+      "sid": 197,
+      "location": 2,
+      "content": "漏值呢一定要调最低",
+      "music": 0.0
+    },
+    {
+      "from": 345.92,
+      "to": 347.84,
+      "sid": 198,
+      "location": 2,
+      "content": "本期视频讲到这里就到尾声了",
+      "music": 0.0
+    },
+    {
+      "from": 347.84,
+      "to": 348.8,
+      "sid": 199,
+      "location": 2,
+      "content": "如果大家有帮助的话",
+      "music": 0.0
+    },
+    {
+      "from": 348.8,
+      "to": 350.47,
+      "sid": 200,
+      "location": 2,
+      "content": "希望大家能三连转发加关注",
+      "music": 0.0
+    },
+    {
+      "from": 350.47,
+      "to": 352.63,
+      "sid": 201,
+      "location": 2,
+      "content": "那么这个视频呢就是瞄准细分能力教程",
+      "music": 0.0
+    },
+    {
+      "from": 352.63,
+      "to": 353.53,
+      "sid": 202,
+      "location": 2,
+      "content": "的开篇之作了",
+      "music": 0.0
+    },
+    {
+      "from": 353.53,
+      "to": 355.289,
+      "sid": 203,
+      "location": 2,
+      "content": "系列的下期视频应该是讲跟枪的",
+      "music": 0.0
+    },
+    {
+      "from": 355.289,
+      "to": 356.429,
+      "sid": 204,
+      "location": 2,
+      "content": "那除了这个系列之外",
+      "music": 0.0
+    },
+    {
+      "from": 356.429,
+      "to": 358.049,
+      "sid": 205,
+      "location": 2,
+      "content": "我会持续更新FS的大货内容",
+      "music": 0.0
+    },
+    {
+      "from": 358.049,
+      "to": 359.609,
+      "sid": 206,
+      "location": 2,
+      "content": "如果你想提高自己的射击游戏评",
+      "music": 0.0
+    },
+    {
+      "from": 359.609,
+      "to": 360.869,
+      "sid": 207,
+      "location": 2,
+      "content": "那不妨点个关注",
+      "music": 0.0
+    },
+    {
+      "from": 360.869,
+      "to": 362.249,
+      "sid": 208,
+      "location": 2,
+      "content": "那本期视频就到这里",
+      "music": 0.0
+    },
+    {
+      "from": 362.249,
+      "to": 363.1,
+      "sid": 209,
+      "location": 2,
+      "content": "我们下期视频再见",
+      "music": 0.0
+    }
+  ]
+}

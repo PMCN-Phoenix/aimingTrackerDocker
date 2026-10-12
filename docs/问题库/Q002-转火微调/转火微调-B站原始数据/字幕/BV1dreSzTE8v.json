@@ -1,0 +1,1590 @@
+{
+  "bvid": "BV1dreSzTE8v",
+  "status": "ok lang=ai-zh",
+  "segments": [
+    {
+      "content": "如果有一种瞄准技巧能够扭转绝望的局面",
+      "from": 0.06,
+      "location": 2,
+      "music": 0.0,
+      "sid": 1,
+      "to": 4.7
+    },
+    {
+      "content": "那必须是切换技能",
+      "from": 4.7,
+      "location": 2,
+      "music": 0.0,
+      "sid": 2,
+      "to": 7.46
+    },
+    {
+      "content": "这里有几个例子",
+      "from": 7.46,
+      "location": 2,
+      "music": 0.0,
+      "sid": 3,
+      "to": 8.94
+    },
+    {
+      "content": "触发纪律时刻需要快速精准的目标优先级判断以最大化操作",
+      "from": 9.94,
+      "location": 2,
+      "music": 0.0,
+      "sid": 4,
+      "to": 15.8
+    },
+    {
+      "content": "大规模团战也是如此",
+      "from": 15.8,
+      "location": 2,
+      "music": 0.0,
+      "sid": 5,
+      "to": 17.96
+    },
+    {
+      "content": "每一单位伤害都至关重要",
+      "from": 17.96,
+      "location": 2,
+      "music": 0.0,
+      "sid": 6,
+      "to": 19.82
+    },
+    {
+      "content": "所以速度与流畅度决定胜负",
+      "from": 19.82,
+      "location": 2,
+      "music": 0.0,
+      "sid": 7,
+      "to": 22.52
+    },
+    {
+      "content": "隔离目标",
+      "from": 22.84,
+      "location": 2,
+      "music": 0.0,
+      "sid": 8,
+      "to": 23.52
+    },
+    {
+      "content": "这个技能在游戏中很难完成",
+      "from": 23.52,
+      "location": 2,
+      "music": 0.0,
+      "sid": 9,
+      "to": 25.75
+    },
+    {
+      "content": "并非每个游戏都像cs",
+      "from": 25.75,
+      "location": 2,
+      "music": 0.0,
+      "sid": 10,
+      "to": 27.67
+    },
+    {
+      "content": "那里有专门训练特定技能的地图，方便查找",
+      "from": 27.67,
+      "location": 2,
+      "music": 0.0,
+      "sid": 11,
+      "to": 32.57
+    },
+    {
+      "content": "比如蒸汽工坊",
+      "from": 32.57,
+      "location": 2,
+      "music": 0.0,
+      "sid": 12,
+      "to": 34.49
+    },
+    {
+      "content": "这时候瞄准训练器可以帮助我们训练和优化技巧",
+      "from": 34.61,
+      "location": 2,
+      "music": 0.0,
+      "sid": 13,
+      "to": 39.2
+    },
+    {
+      "content": "所以当我们需要在游戏中使用时",
+      "from": 39.2,
+      "location": 2,
+      "music": 0.0,
+      "sid": 14,
+      "to": 41.1
+    },
+    {
+      "content": "就能具备锁定目标并击溃对手的信心",
+      "from": 41.1,
+      "location": 2,
+      "music": 0.0,
+      "sid": 15,
+      "to": 44.629
+    },
+    {
+      "content": "切换是所有掌握技能的综合运用",
+      "from": 44.629,
+      "location": 2,
+      "music": 0.0,
+      "sid": 16,
+      "to": 49.109
+    },
+    {
+      "content": "甩枪与追踪",
+      "from": 49.109,
+      "location": 2,
+      "music": 0.0,
+      "sid": 17,
+      "to": 50.29
+    },
+    {
+      "content": "需要全部信心",
+      "from": 50.29,
+      "location": 2,
+      "music": 0.0,
+      "sid": 18,
+      "to": 51.89
+    },
+    {
+      "content": "甩枪的速度与精准度",
+      "from": 51.89,
+      "location": 2,
+      "music": 0.0,
+      "sid": 19,
+      "to": 53.63
+    },
+    {
+      "content": "再加上所有流畅度",
+      "from": 53.63,
+      "location": 2,
+      "music": 0.0,
+      "sid": 20,
+      "to": 55.27
+    },
+    {
+      "content": "追踪的控压与反应力",
+      "from": 55.27,
+      "location": 2,
+      "music": 0.0,
+      "sid": 21,
+      "to": 58.41
+    },
+    {
+      "content": "这些领域都是潜在训练重点",
+      "from": 58.41,
+      "location": 2,
+      "music": 0.0,
+      "sid": 22,
+      "to": 60.99
+    },
+    {
+      "content": "在进行瞄准训练时请记住",
+      "from": 60.99,
+      "location": 2,
+      "music": 0.0,
+      "sid": 23,
+      "to": 64.22
+    },
+    {
+      "content": "学习任何技能都需要选择一到几个重点",
+      "from": 64.22,
+      "location": 2,
+      "music": 0.0,
+      "sid": 24,
+      "to": 69.14
+    },
+    {
+      "content": "注意我难以命中微调操作",
+      "from": 69.14,
+      "location": 2,
+      "music": 0.0,
+      "sid": 25,
+      "to": 71.68
+    },
+    {
+      "content": "可能是微调问题",
+      "from": 71.68,
+      "location": 2,
+      "music": 0.0,
+      "sid": 26,
+      "to": 73.62
+    },
+    {
+      "content": "也可能是动作反应环节的问题",
+      "from": 73.62,
+      "location": 2,
+      "music": 0.0,
+      "sid": 27,
+      "to": 76.72
+    },
+    {
+      "content": "确定这个弱点后",
+      "from": 76.72,
+      "location": 2,
+      "music": 0.0,
+      "sid": 28,
+      "to": 78.78
+    },
+    {
+      "content": "可以找类似场景针对性解决",
+      "from": 78.78,
+      "location": 2,
+      "music": 0.0,
+      "sid": 29,
+      "to": 82.539
+    },
+    {
+      "content": "快速补充一点",
+      "from": 82.899,
+      "location": 2,
+      "music": 0.0,
+      "sid": 30,
+      "to": 83.899
+    },
+    {
+      "content": "专注提升特定技能时",
+      "from": 83.899,
+      "location": 2,
+      "music": 0.0,
+      "sid": 31,
+      "to": 86.11
+    },
+    {
+      "content": "在表现与训练专注间保持平衡很重要",
+      "from": 86.11,
+      "location": 2,
+      "music": 0.0,
+      "sid": 32,
+      "to": 91.36
+    },
+    {
+      "content": "若过度关注修正",
+      "from": 91.36,
+      "location": 2,
+      "music": 0.0,
+      "sid": 33,
+      "to": 93.82
+    },
+    {
+      "content": "操作会受影响",
+      "from": 93.82,
+      "location": 2,
+      "music": 0.0,
+      "sid": 34,
+      "to": 95.4
+    },
+    {
+      "content": "若过度追求表现",
+      "from": 95.4,
+      "location": 2,
+      "music": 0.0,
+      "sid": 35,
+      "to": 97.28
+    },
+    {
+      "content": "技术修正会受影响",
+      "from": 97.28,
+      "location": 2,
+      "music": 0.0,
+      "sid": 36,
+      "to": 99.449
+    },
+    {
+      "content": "训练时想象大脑像体育裁判",
+      "from": 99.449,
+      "location": 2,
+      "music": 0.0,
+      "sid": 37,
+      "to": 104.93
+    },
+    {
+      "content": "观察并引导动作",
+      "from": 104.93,
+      "location": 2,
+      "music": 0.0,
+      "sid": 38,
+      "to": 106.81
+    },
+    {
+      "content": "遵守规则仅在必要时介入",
+      "from": 106.81,
+      "location": 2,
+      "music": 0.0,
+      "sid": 39,
+      "to": 109.94
+    },
+    {
+      "content": "否则不干扰游戏执行",
+      "from": 109.94,
+      "location": 2,
+      "music": 0.0,
+      "sid": 40,
+      "to": 113.1
+    },
+    {
+      "content": "练习时应重点训练哪些内容",
+      "from": 114.62,
+      "location": 2,
+      "music": 0.0,
+      "sid": 41,
+      "to": 116.92
+    },
+    {
+      "content": "切换技能",
+      "from": 116.92,
+      "location": 2,
+      "music": 0.0,
+      "sid": 42,
+      "to": 117.9
+    },
+    {
+      "content": "因其结合了甩枪与追踪",
+      "from": 117.9,
+      "location": 2,
+      "music": 0.0,
+      "sid": 43,
+      "to": 121.44
+    },
+    {
+      "content": "不要忽视基础训练，确保练习这两项",
+      "from": 121.44,
+      "location": 2,
+      "music": 0.0,
+      "sid": 44,
+      "to": 125.42
+    },
+    {
+      "content": "但本次视频聚焦切换",
+      "from": 125.82,
+      "location": 2,
+      "music": 0.0,
+      "sid": 45,
+      "to": 128.0
+    },
+    {
+      "content": "让我们更具体些，用vd场景举例",
+      "from": 128.0,
+      "location": 2,
+      "music": 0.0,
+      "sid": 46,
+      "to": 132.86
+    },
+    {
+      "content": "我喜欢voltaic每日提升方法合集",
+      "from": 133.23,
+      "location": 2,
+      "music": 0.0,
+      "sid": 47,
+      "to": 135.87
+    },
+    {
+      "content": "因为提供多样训练重点",
+      "from": 135.87,
+      "location": 2,
+      "music": 0.0,
+      "sid": 48,
+      "to": 138.68
+    },
+    {
+      "content": "这样更简单",
+      "from": 138.68,
+      "location": 2,
+      "music": 0.0,
+      "sid": 49,
+      "to": 139.84
+    },
+    {
+      "content": "如果你不喜欢无尽搜索场景",
+      "from": 139.84,
+      "location": 2,
+      "music": 0.0,
+      "sid": 50,
+      "to": 143.35
+    },
+    {
+      "content": "在第一个片段中",
+      "from": 143.35,
+      "location": 2,
+      "music": 0.0,
+      "sid": 51,
+      "to": 144.55
+    },
+    {
+      "content": "我完全专注于速度",
+      "from": 144.55,
+      "location": 2,
+      "music": 0.0,
+      "sid": 52,
+      "to": 146.37
+    },
+    {
+      "content": "试图尽可能快地移动",
+      "from": 146.37,
+      "location": 2,
+      "music": 0.0,
+      "sid": 53,
+      "to": 148.01
+    },
+    {
+      "content": "避免过度挥动以保持最高速度",
+      "from": 148.01,
+      "location": 2,
+      "music": 0.0,
+      "sid": 54,
+      "to": 150.89
+    },
+    {
+      "content": "自我约束确保挥动动作从a到b最直接",
+      "from": 150.89,
+      "location": 2,
+      "music": 0.0,
+      "sid": 55,
+      "to": 155.63
+    },
+    {
+      "content": "通过张力管理",
+      "from": 155.63,
+      "location": 2,
+      "music": 0.0,
+      "sid": 56,
+      "to": 156.87
+    },
+    {
+      "content": "这能帮助你在挥动中获得速度",
+      "from": 156.87,
+      "location": 2,
+      "music": 0.0,
+      "sid": 57,
+      "to": 159.649
+    },
+    {
+      "content": "但你需要减速",
+      "from": 159.649,
+      "location": 2,
+      "music": 0.0,
+      "sid": 58,
+      "to": 161.289
+    },
+    {
+      "content": "以便在落地后通过微调或视觉追踪进行控制",
+      "from": 161.289,
+      "location": 2,
+      "music": 0.0,
+      "sid": 59,
+      "to": 166.03
+    },
+    {
+      "content": "锁定你要挥动的目标",
+      "from": 166.03,
+      "location": 2,
+      "music": 0.0,
+      "sid": 60,
+      "to": 168.37
+    },
+    {
+      "content": "在完成第一个目标前立即规划第二个目标",
+      "from": 168.37,
+      "location": 2,
+      "music": 0.0,
+      "sid": 61,
+      "to": 172.32
+    },
+    {
+      "content": "让接下来的线路在脑海中清晰",
+      "from": 172.32,
+      "location": 2,
+      "music": 0.0,
+      "sid": 62,
+      "to": 175.56
+    },
+    {
+      "content": "在接下来的vm场景中击杀目标后没有停顿",
+      "from": 175.56,
+      "location": 2,
+      "music": 0.0,
+      "sid": 63,
+      "to": 181.08
+    },
+    {
+      "content": "我们加入更小的目标和更多移动",
+      "from": 181.08,
+      "location": 2,
+      "music": 0.0,
+      "sid": 64,
+      "to": 183.88
+    },
+    {
+      "content": "前一个场景的所有内容都适用",
+      "from": 183.88,
+      "location": 2,
+      "music": 0.0,
+      "sid": 65,
+      "to": 186.3
+    },
+    {
+      "content": "但更糟糕的张力管理会受到惩罚",
+      "from": 186.3,
+      "location": 2,
+      "music": 0.0,
+      "sid": 66,
+      "to": 189.0
+    },
+    {
+      "content": "由于精度要素",
+      "from": 189.0,
+      "location": 2,
+      "music": 0.0,
+      "sid": 67,
+      "to": 190.64
+    },
+    {
+      "content": "如果挥动出现偏差",
+      "from": 190.64,
+      "location": 2,
+      "music": 0.0,
+      "sid": 68,
+      "to": 192.32
+    },
+    {
+      "content": "张力管理越差",
+      "from": 192.32,
+      "location": 2,
+      "music": 0.0,
+      "sid": 69,
+      "to": 194.14
+    },
+    {
+      "content": "微调和追踪目标就越困难",
+      "from": 194.14,
+      "location": 2,
+      "music": 0.0,
+      "sid": 70,
+      "to": 197.72
+    },
+    {
+      "content": "视觉要素与前一个场景类似",
+      "from": 197.72,
+      "location": 2,
+      "music": 0.0,
+      "sid": 71,
+      "to": 200.74
+    },
+    {
+      "content": "但这次还需跟踪目标移动",
+      "from": 200.74,
+      "location": 2,
+      "music": 0.0,
+      "sid": 72,
+      "to": 205.05
+    },
+    {
+      "content": "因此在挥向光球时",
+      "from": 205.05,
+      "location": 2,
+      "music": 0.0,
+      "sid": 73,
+      "to": 207.65
+    },
+    {
+      "content": "我们正切入其移动路径",
+      "from": 207.65,
+      "location": 2,
+      "music": 0.0,
+      "sid": 74,
+      "to": 210.01
+    },
+    {
+      "content": "与本片段中的情况不同",
+      "from": 210.01,
+      "location": 2,
+      "music": 0.0,
+      "sid": 75,
+      "to": 212.909
+    },
+    {
+      "content": "我难以保持线路的直接性",
+      "from": 212.909,
+      "location": 2,
+      "music": 0.0,
+      "sid": 76,
+      "to": 215.809
+    },
+    {
+      "content": "微调动作稍有偏差",
+      "from": 215.809,
+      "location": 2,
+      "music": 0.0,
+      "sid": 77,
+      "to": 218.0
+    },
+    {
+      "content": "尝试略微减速以强化技术",
+      "from": 218.0,
+      "location": 2,
+      "music": 0.0,
+      "sid": 78,
+      "to": 221.7
+    },
+    {
+      "content": "当你强行追求超出控制的速度时",
+      "from": 221.7,
+      "location": 2,
+      "music": 0.0,
+      "sid": 79,
+      "to": 223.96
+    },
+    {
+      "content": "会失去技术稳定性",
+      "from": 223.96,
+      "location": 2,
+      "music": 0.0,
+      "sid": 80,
+      "to": 225.54
+    },
+    {
+      "content": "我们需在此场景中强化技术",
+      "from": 225.54,
+      "location": 2,
+      "music": 0.0,
+      "sid": 81,
+      "to": 229.9
+    },
+    {
+      "content": "更注重移动要素",
+      "from": 229.9,
+      "location": 2,
+      "music": 0.0,
+      "sid": 82,
+      "to": 231.52
+    },
+    {
+      "content": "观察与反应能力",
+      "from": 231.52,
+      "location": 2,
+      "music": 0.0,
+      "sid": 83,
+      "to": 232.88
+    },
+    {
+      "content": "即使能看清移动路径",
+      "from": 232.88,
+      "location": 2,
+      "music": 0.0,
+      "sid": 84,
+      "to": 235.18
+    },
+    {
+      "content": "在挥向下一个目标时",
+      "from": 235.18,
+      "location": 2,
+      "music": 0.0,
+      "sid": 85,
+      "to": 236.92
+    },
+    {
+      "content": "这些目标频繁改变方向",
+      "from": 236.92,
+      "location": 2,
+      "music": 0.0,
+      "sid": 86,
+      "to": 239.7
+    },
+    {
+      "content": "增加了额外挑战",
+      "from": 239.7,
+      "location": 2,
+      "music": 0.0,
+      "sid": 87,
+      "to": 241.78
+    },
+    {
+      "content": "需即时反应而非预测移动",
+      "from": 241.78,
+      "location": 2,
+      "music": 0.0,
+      "sid": 88,
+      "to": 245.829
+    },
+    {
+      "content": "若过度预测会有所察觉",
+      "from": 245.829,
+      "location": 2,
+      "music": 0.0,
+      "sid": 89,
+      "to": 247.709
+    },
+    {
+      "content": "因为无法及时跟随目标方向变化",
+      "from": 247.709,
+      "location": 2,
+      "music": 0.0,
+      "sid": 90,
+      "to": 252.15
+    },
+    {
+      "content": "此处常有无效鼠标移动",
+      "from": 252.35,
+      "location": 2,
+      "music": 0.0,
+      "sid": 91,
+      "to": 254.95
+    },
+    {
+      "content": "尽量减少无效动作",
+      "from": 254.95,
+      "location": 2,
+      "music": 0.0,
+      "sid": 92,
+      "to": 256.93
+    },
+    {
+      "content": "将准星紧贴目标",
+      "from": 256.93,
+      "location": 2,
+      "music": 0.0,
+      "sid": 93,
+      "to": 259.51
+    },
+    {
+      "content": "这些场景很有趣",
+      "from": 259.729,
+      "location": 2,
+      "music": 0.0,
+      "sid": 94,
+      "to": 261.009
+    },
+    {
+      "content": "因为它迫使我们放慢速度",
+      "from": 261.009,
+      "location": 2,
+      "music": 0.0,
+      "sid": 95,
+      "to": 262.829
+    },
+    {
+      "content": "在快速挥动后执行流畅动作",
+      "from": 262.829,
+      "location": 2,
+      "music": 0.0,
+      "sid": 96,
+      "to": 265.84
+    },
+    {
+      "content": "我有一整段视频讲解流畅性",
+      "from": 265.84,
+      "location": 2,
+      "music": 0.0,
+      "sid": 97,
+      "to": 267.98
+    },
+    {
+      "content": "若想深入了解如何训练此技能",
+      "from": 267.98,
+      "location": 2,
+      "music": 0.0,
+      "sid": 98,
+      "to": 271.36
+    },
+    {
+      "content": "游戏中的紧张局势制造紧迫感",
+      "from": 271.36,
+      "location": 2,
+      "music": 0.0,
+      "sid": 99,
+      "to": 274.57
+    },
+    {
+      "content": "导致我们紧张起来",
+      "from": 274.57,
+      "location": 2,
+      "music": 0.0,
+      "sid": 100,
+      "to": 275.99
+    },
+    {
+      "content": "这会损害我们的控制能力",
+      "from": 275.99,
+      "location": 2,
+      "music": 0.0,
+      "sid": 101,
+      "to": 277.25
+    },
+    {
+      "content": "通过这样的训练方式",
+      "from": 277.25,
+      "location": 2,
+      "music": 0.0,
+      "sid": 102,
+      "to": 278.43
+    },
+    {
+      "content": "我们正在强化正确技巧",
+      "from": 278.43,
+      "location": 2,
+      "music": 0.0,
+      "sid": 103,
+      "to": 280.57
+    },
+    {
+      "content": "这些技巧会在紧张时刻自动接管",
+      "from": 280.57,
+      "location": 2,
+      "music": 0.0,
+      "sid": 104,
+      "to": 282.97
+    },
+    {
+      "content": "这些只是训练切换技能时可以关注的几个例子",
+      "from": 282.97,
+      "location": 2,
+      "music": 0.0,
+      "sid": 105,
+      "to": 287.23
+    },
+    {
+      "content": "最终始终要先提高鼠标操作效率再继续",
+      "from": 287.23,
+      "location": 2,
+      "music": 0.0,
+      "sid": 106,
+      "to": 292.23
+    },
+    {
+      "content": "不过",
+      "from": 292.23,
+      "location": 2,
+      "music": 0.0,
+      "sid": 107,
+      "to": 292.51
+    },
+    {
+      "content": "我想更详细解释一下紧张感",
+      "from": 292.51,
+      "location": 2,
+      "music": 0.0,
+      "sid": 108,
+      "to": 294.57
+    },
+    {
+      "content": "因为它是最重要切换技巧之一",
+      "from": 294.57,
+      "location": 2,
+      "music": 0.0,
+      "sid": 109,
+      "to": 297.929
+    },
+    {
+      "content": "让我们看看matty在飞靶切换中打出的宇宙级分数",
+      "from": 297.929,
+      "location": 2,
+      "music": 0.0,
+      "sid": 110,
+      "to": 302.45
+    },
+    {
+      "content": "当我们追求速度时",
+      "from": 302.45,
+      "location": 2,
+      "music": 0.0,
+      "sid": 111,
+      "to": 303.59
+    },
+    {
+      "content": "会使用更多紧张感",
+      "from": 303.59,
+      "location": 2,
+      "music": 0.0,
+      "sid": 112,
+      "to": 304.99
+    },
+    {
+      "content": "但更多紧张感会牺牲追踪和微调控制",
+      "from": 304.99,
+      "location": 2,
+      "music": 0.0,
+      "sid": 113,
+      "to": 309.22
+    },
+    {
+      "content": "所以matty在平衡这些因素",
+      "from": 309.22,
+      "location": 2,
+      "music": 0.0,
+      "sid": 114,
+      "to": 311.4
+    },
+    {
+      "content": "当目标靠得很近时",
+      "from": 311.4,
+      "location": 2,
+      "music": 0.0,
+      "sid": 115,
+      "to": 313.24
+    },
+    {
+      "content": "他不需要那么多速度",
+      "from": 313.24,
+      "location": 2,
+      "music": 0.0,
+      "sid": 116,
+      "to": 314.94
+    },
+    {
+      "content": "因此使用更少紧张感",
+      "from": 314.94,
+      "location": 2,
+      "music": 0.0,
+      "sid": 117,
+      "to": 317.04
+    },
+    {
+      "content": "便于他更容易调整",
+      "from": 317.04,
+      "location": 2,
+      "music": 0.0,
+      "sid": 118,
+      "to": 318.84
+    },
+    {
+      "content": "matty必须保持高度专注",
+      "from": 319.92,
+      "location": 2,
+      "music": 0.0,
+      "sid": 119,
+      "to": 321.36
+    },
+    {
+      "content": "当目标相距较远时需要快速覆盖距离，接近目标时",
+      "from": 321.36,
+      "location": 2,
+      "music": 0.0,
+      "sid": 120,
+      "to": 326.26
+    },
+    {
+      "content": "matty减少紧张力度以减速",
+      "from": 326.26,
+      "location": 2,
+      "music": 0.0,
+      "sid": 121,
+      "to": 329.32
+    },
+    {
+      "content": "让他落地后有更多控制力",
+      "from": 329.32,
+      "location": 2,
+      "music": 0.0,
+      "sid": 122,
+      "to": 332.1
+    },
+    {
+      "content": "管理技巧在于找到最适合你设备的方案",
+      "from": 332.1,
+      "location": 2,
+      "music": 0.0,
+      "sid": 123,
+      "to": 335.66
+    },
+    {
+      "content": "不同摩擦程度",
+      "from": 335.66,
+      "location": 2,
+      "music": 0.0,
+      "sid": 124,
+      "to": 337.39
+    },
+    {
+      "content": "鼠标重量",
+      "from": 337.39,
+      "location": 2,
+      "music": 0.0,
+      "sid": 125,
+      "to": 338.19
+    },
+    {
+      "content": "灵敏度都会影响你的最佳紧张感",
+      "from": 338.19,
+      "location": 2,
+      "music": 0.0,
+      "sid": 126,
+      "to": 342.37
+    },
+    {
+      "content": "所以坏消息是你必须通过试错自行摸索",
+      "from": 342.37,
+      "location": 2,
+      "music": 0.0,
+      "sid": 127,
+      "to": 347.82
+    },
+    {
+      "content": "我知道你可能在想",
+      "from": 349.62,
+      "location": 2,
+      "music": 0.0,
+      "sid": 128,
+      "to": 351.8
+    },
+    {
+      "content": "我不想磨练瞄准训练器",
+      "from": 351.8,
+      "location": 2,
+      "music": 0.0,
+      "sid": 129,
+      "to": 353.1
+    },
+    {
+      "content": "与其花时间在游戏内瞄准",
+      "from": 353.1,
+      "location": 2,
+      "music": 0.0,
+      "sid": 130,
+      "to": 356.14
+    },
+    {
+      "content": "我说",
+      "from": 356.14,
+      "location": 2,
+      "music": 0.0,
+      "sid": 131,
+      "to": 356.7
+    },
+    {
+      "content": "我们大多高估了训练瞄准器的必要性",
+      "from": 356.7,
+      "location": 2,
+      "music": 0.0,
+      "sid": 132,
+      "to": 360.69
+    },
+    {
+      "content": "别忘了大多数游戏都有大量瞄准空闲时间",
+      "from": 360.69,
+      "location": 2,
+      "music": 0.0,
+      "sid": 133,
+      "to": 364.69
+    },
+    {
+      "content": "而瞄准训练器没有",
+      "from": 364.69,
+      "location": 2,
+      "music": 0.0,
+      "sid": 134,
+      "to": 366.539
+    },
+    {
+      "content": "15分钟游戏训练可能比游戏内时间更高效",
+      "from": 366.539,
+      "location": 2,
+      "music": 0.0,
+      "sid": 135,
+      "to": 368.819
+    },
+    {
+      "content": "瞄准训练量",
+      "from": 368.819,
+      "location": 2,
+      "music": 0.0,
+      "sid": 136,
+      "to": 370.659
+    },
+    {
+      "content": "取决于你的游戏类型",
+      "from": 370.659,
+      "location": 2,
+      "music": 0.0,
+      "sid": 137,
+      "to": 371.81
+    },
+    {
+      "content": "更频繁训练",
+      "from": 371.81,
+      "location": 2,
+      "music": 0.0,
+      "sid": 138,
+      "to": 372.89
+    },
+    {
+      "content": "但总时长更短比更多但更少频繁更好",
+      "from": 372.89,
+      "location": 2,
+      "music": 0.0,
+      "sid": 139,
+      "to": 378.549
+    },
+    {
+      "content": "每日重复的连贯性非常有帮助",
+      "from": 378.549,
+      "location": 2,
+      "music": 0.0,
+      "sid": 140,
+      "to": 383.069
+    },
+    {
+      "content": "我们要把大部分时间用于非计分游戏",
+      "from": 383.46,
+      "location": 2,
+      "music": 0.0,
+      "sid": 141,
+      "to": 386.5
+    },
+    {
+      "content": "因为这是为了改进技巧",
+      "from": 386.5,
+      "location": 2,
+      "music": 0.0,
+      "sid": 142,
+      "to": 389.74
+    },
+    {
+      "content": "当我们追求分数时",
+      "from": 389.74,
+      "location": 2,
+      "music": 0.0,
+      "sid": 143,
+      "to": 391.169
+    },
+    {
+      "content": "技巧表现往往会下降",
+      "from": 391.169,
+      "location": 2,
+      "music": 0.0,
+      "sid": 144,
+      "to": 392.909
+    },
+    {
+      "content": "这违背了我们的目标",
+      "from": 392.909,
+      "location": 2,
+      "music": 0.0,
+      "sid": 145,
+      "to": 395.58
+    },
+    {
+      "content": "计分游戏在想了解当前水平时有用",
+      "from": 395.58,
+      "location": 2,
+      "music": 0.0,
+      "sid": 146,
+      "to": 398.76
+    },
+    {
+      "content": "当我们这样做时",
+      "from": 398.76,
+      "location": 2,
+      "music": 0.0,
+      "sid": 147,
+      "to": 399.76
+    },
+    {
+      "content": "我们摒弃了心理裁判",
+      "from": 399.76,
+      "location": 2,
+      "music": 0.0,
+      "sid": 148,
+      "to": 401.82
+    },
+    {
+      "content": "从而能专注表现",
+      "from": 401.82,
+      "location": 2,
+      "music": 0.0,
+      "sid": 149,
+      "to": 404.27
+    },
+    {
+      "content": "任务难度确实重要",
+      "from": 404.47,
+      "location": 2,
+      "music": 0.0,
+      "sid": 150,
+      "to": 406.77
+    },
+    {
+      "content": "你不想让它太难",
+      "from": 406.77,
+      "location": 2,
+      "music": 0.0,
+      "sid": 151,
+      "to": 408.19
+    },
+    {
+      "content": "当训练技巧感觉不可能时",
+      "from": 408.19,
+      "location": 2,
+      "music": 0.0,
+      "sid": 152,
+      "to": 410.33
+    },
+    {
+      "content": "有时选择更简单的场景是训练的好方法",
+      "from": 410.33,
+      "location": 2,
+      "music": 0.0,
+      "sid": 153,
+      "to": 413.79
+    },
+    {
+      "content": "即使非常舒适",
+      "from": 413.79,
+      "location": 2,
+      "music": 0.0,
+      "sid": 154,
+      "to": 415.29
+    },
+    {
+      "content": "尤其是当你感到疲惫时",
+      "from": 416.49,
+      "location": 2,
+      "music": 0.0,
+      "sid": 155,
+      "to": 418.19
+    },
+    {
+      "content": "更简单的场景允许你降低挑战难度",
+      "from": 418.19,
+      "location": 2,
+      "music": 0.0,
+      "sid": 156,
+      "to": 420.53
+    },
+    {
+      "content": "同时仍专注于强化正确技巧",
+      "from": 420.53,
+      "location": 2,
+      "music": 0.0,
+      "sid": 157,
+      "to": 423.07
+    },
+    {
+      "content": "这类似于举重时减掉重量",
+      "from": 423.07,
+      "location": 2,
+      "music": 0.0,
+      "sid": 158,
+      "to": 425.65
+    },
+    {
+      "content": "因为你希望继续完成次数",
+      "from": 425.65,
+      "location": 2,
+      "music": 0.0,
+      "sid": 159,
+      "to": 427.47
+    },
+    {
+      "content": "但过于疲劳无法增加重量并保持正确技巧",
+      "from": 427.47,
+      "location": 2,
+      "music": 0.0,
+      "sid": 160,
+      "to": 431.169
+    },
+    {
+      "content": "当你观察自己的瞄准",
+      "from": 431.169,
+      "location": 2,
+      "music": 0.0,
+      "sid": 161,
+      "to": 432.849
+    },
+    {
+      "content": "以及他人表现时",
+      "from": 432.849,
+      "location": 2,
+      "music": 0.0,
+      "sid": 162,
+      "to": 433.809
+    },
+    {
+      "content": "你可以评估各类别的质量",
+      "from": 433.809,
+      "location": 2,
+      "music": 0.0,
+      "sid": 163,
+      "to": 437.27
+    },
+    {
+      "content": "你可以看到我的表现",
+      "from": 437.27,
+      "location": 2,
+      "music": 0.0,
+      "sid": 164,
+      "to": 438.89
+    },
+    {
+      "content": "你对直线射击怎么看",
+      "from": 438.89,
+      "location": 2,
+      "music": 0.0,
+      "sid": 165,
+      "to": 440.59
+    },
+    {
+      "content": "击发后的控制力",
+      "from": 440.59,
+      "location": 2,
+      "music": 0.0,
+      "sid": 166,
+      "to": 442.25
+    },
+    {
+      "content": "微调准确性",
+      "from": 442.25,
+      "location": 2,
+      "music": 0.0,
+      "sid": 167,
+      "to": 444.45
+    },
+    {
+      "content": "追踪流畅度",
+      "from": 444.45,
+      "location": 2,
+      "music": 0.0,
+      "sid": 168,
+      "to": 445.89
+    },
+    {
+      "content": "速度",
+      "from": 445.89,
+      "location": 2,
+      "music": 0.0,
+      "sid": 169,
+      "to": 446.65
+    },
+    {
+      "content": "一致性",
+      "from": 446.65,
+      "location": 2,
+      "music": 0.0,
+      "sid": 170,
+      "to": 447.63
+    },
+    {
+      "content": "我是否有某些方向的击发问题",
+      "from": 447.63,
+      "location": 2,
+      "music": 0.0,
+      "sid": 171,
+      "to": 450.32
+    },
+    {
+      "content": "当你开始提出这些问题时",
+      "from": 450.32,
+      "location": 2,
+      "music": 0.0,
+      "sid": 172,
+      "to": 452.12
+    },
+    {
+      "content": "答案会指引你该练习什么",
+      "from": 452.12,
+      "location": 2,
+      "music": 0.0,
+      "sid": 173,
+      "to": 455.16
+    },
+    {
+      "content": "或需要重点改进的关键领域",
+      "from": 455.16,
+      "location": 2,
+      "music": 0.0,
+      "sid": 174,
+      "to": 459.359
+    },
+    {
+      "content": "真的需要花很长时间练习才能达到",
+      "from": 459.359,
+      "location": 2,
+      "music": 0.0,
+      "sid": 175,
+      "to": 463.44
+    },
+    {
+      "content": "达到基准目标的状态",
+      "from": 463.44,
+      "location": 2,
+      "music": 0.0,
+      "sid": 176,
+      "to": 464.6
+    },
+    {
+      "content": "没关系",
+      "from": 464.6,
+      "location": 2,
+      "music": 0.0,
+      "sid": 177,
+      "to": 465.92
+    },
+    {
+      "content": "我更关注游戏中的表现",
+      "from": 465.92,
+      "location": 2,
+      "music": 0.0,
+      "sid": 178,
+      "to": 467.48
+    },
+    {
+      "content": "最终这些基准只是有趣的方式",
+      "from": 467.48,
+      "location": 2,
+      "music": 0.0,
+      "sid": 179,
+      "to": 470.0
+    },
+    {
+      "content": "来追踪我的进步",
+      "from": 470.0,
+      "location": 2,
+      "music": 0.0,
+      "sid": 180,
+      "to": 470.8
+    },
+    {
+      "content": "并为所做的努力感到自豪",
+      "from": 470.8,
+      "location": 2,
+      "music": 0.0,
+      "sid": 181,
+      "to": 472.64
+    },
+    {
+      "content": "当我看到实际游戏中的瞄准表现时",
+      "from": 472.64,
+      "location": 2,
+      "music": 0.0,
+      "sid": 182,
+      "to": 475.0
+    },
+    {
+      "content": "我能看出这不是我的短板",
+      "from": 475.0,
+      "location": 2,
+      "music": 0.0,
+      "sid": 183,
+      "to": 477.89
+    },
+    {
+      "content": "这感觉很好",
+      "from": 478.21,
+      "location": 2,
+      "music": 0.0,
+      "sid": 184,
+      "to": 479.35
+    },
+    {
+      "content": "我知道我经历过",
+      "from": 479.35,
+      "location": 2,
+      "music": 0.0,
+      "sid": 185,
+      "to": 480.53
+    },
+    {
+      "content": "相反的情况，感觉瞄准拖累我",
+      "from": 480.53,
+      "location": 2,
+      "music": 0.0,
+      "sid": 186,
+      "to": 484.39
+    },
+    {
+      "content": "即使你的瞄准拖累你",
+      "from": 484.39,
+      "location": 2,
+      "music": 0.0,
+      "sid": 187,
+      "to": 486.35
+    },
+    {
+      "content": "在某种程度上",
+      "from": 486.35,
+      "location": 2,
+      "music": 0.0,
+      "sid": 188,
+      "to": 487.21
+    },
+    {
+      "content": "针对性练习解决这些问题能避免过度关注",
+      "from": 487.21,
+      "location": 2,
+      "music": 0.0,
+      "sid": 189,
+      "to": 492.13
+    },
+    {
+      "content": "因为训练中已处理过",
+      "from": 492.13,
+      "location": 2,
+      "music": 0.0,
+      "sid": 190,
+      "to": 494.7
+    },
+    {
+      "content": "这不一定能阻止你感到糟糕",
+      "from": 494.9,
+      "location": 2,
+      "music": 0.0,
+      "sid": 191,
+      "to": 496.4
+    },
+    {
+      "content": "如果你觉得自己表现不佳",
+      "from": 496.4,
+      "location": 2,
+      "music": 0.0,
+      "sid": 192,
+      "to": 498.24
+    },
+    {
+      "content": "但会更容易继续前进",
+      "from": 498.24,
+      "location": 2,
+      "music": 0.0,
+      "sid": 193,
+      "to": 500.08
+    },
+    {
+      "content": "正如你所知",
+      "from": 500.08,
+      "location": 2,
+      "music": 0.0,
+      "sid": 194,
+      "to": 500.62
+    },
+    {
+      "content": "没有什么能比这做得更多了",
+      "from": 500.62,
+      "location": 2,
+      "music": 0.0,
+      "sid": 195,
+      "to": 503.42
+    },
+    {
+      "content": "话说回来",
+      "from": 503.42,
+      "location": 2,
+      "music": 0.0,
+      "sid": 196,
+      "to": 503.98
+    },
+    {
+      "content": "希望你们喜欢切换训练",
+      "from": 503.98,
+      "location": 2,
+      "music": 0.0,
+      "sid": 197,
+      "to": 506.02
+    },
+    {
+      "content": "我们下次视频再见",
+      "from": 508.4,
+      "location": 2,
+      "music": 0.0,
+      "sid": 198,
+      "to": 510.26
+    }
+  ]
+}

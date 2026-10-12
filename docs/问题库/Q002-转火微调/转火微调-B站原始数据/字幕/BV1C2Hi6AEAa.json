@@ -1,0 +1,1270 @@
+{
+  "bvid": "BV1C2Hi6AEAa",
+  "status": "ok lang=ai-zh",
+  "segments": [
+    {
+      "from": 0.12,
+      "to": 1.26,
+      "sid": 1,
+      "location": 2,
+      "content": "这是一种微调啊",
+      "music": 0.0
+    },
+    {
+      "from": 1.26,
+      "to": 2.32,
+      "sid": 2,
+      "location": 2,
+      "content": "准时慢慢找头",
+      "music": 0.0
+    },
+    {
+      "from": 2.32,
+      "to": 3.46,
+      "sid": 3,
+      "location": 2,
+      "content": "确认是确认了",
+      "music": 0.0
+    },
+    {
+      "from": 3.46,
+      "to": 5.27,
+      "sid": 4,
+      "location": 2,
+      "content": "但开枪太慢",
+      "music": 0.0
+    },
+    {
+      "from": 5.43,
+      "to": 6.95,
+      "sid": 5,
+      "location": 2,
+      "content": "这也是一种微调",
+      "music": 0.0
+    },
+    {
+      "from": 6.95,
+      "to": 8.09,
+      "sid": 6,
+      "location": 2,
+      "content": "枪开的很快",
+      "music": 0.0
+    },
+    {
+      "from": 8.09,
+      "to": 10.41,
+      "sid": 7,
+      "location": 2,
+      "content": "但却没有处理准星和目标的位置关系",
+      "music": 0.0
+    },
+    {
+      "from": 10.41,
+      "to": 12.39,
+      "sid": 8,
+      "location": 2,
+      "content": "凭感觉开火",
+      "music": 0.0
+    },
+    {
+      "from": 13.14,
+      "to": 17.22,
+      "sid": 9,
+      "location": 2,
+      "content": "而职业选手的微调又准又快又暴力",
+      "music": 0.0
+    },
+    {
+      "from": 17.81,
+      "to": 20.41,
+      "sid": 10,
+      "location": 2,
+      "content": "一个被速度拖住",
+      "music": 0.0
+    },
+    {
+      "from": 20.65,
+      "to": 22.15,
+      "sid": 11,
+      "location": 2,
+      "content": "一个被命中率拖住",
+      "music": 0.0
+    },
+    {
+      "from": 22.15,
+      "to": 24.89,
+      "sid": 12,
+      "location": 2,
+      "content": "那微调怎么练才能兼顾速度和命中率呢",
+      "music": 0.0
+    },
+    {
+      "from": 24.89,
+      "to": 27.13,
+      "sid": 13,
+      "location": 2,
+      "content": "我们先从开枪前的这一瞬间开走",
+      "music": 0.0
+    },
+    {
+      "from": 27.13,
+      "to": 29.15,
+      "sid": 14,
+      "location": 2,
+      "content": "就是我所说的进入窗口",
+      "music": 0.0
+    },
+    {
+      "from": 29.15,
+      "to": 29.63,
+      "sid": 15,
+      "location": 2,
+      "content": "Hello",
+      "music": 0.0
+    },
+    {
+      "from": 29.63,
+      "to": 30.23,
+      "sid": 16,
+      "location": 2,
+      "content": "我是陈耀",
+      "music": 0.0
+    },
+    {
+      "from": 30.23,
+      "to": 31.37,
+      "sid": 17,
+      "location": 2,
+      "content": "这期就讲清楚啊",
+      "music": 0.0
+    },
+    {
+      "from": 31.37,
+      "to": 32.99,
+      "sid": 18,
+      "location": 2,
+      "content": "微调怎么做到又快又准",
+      "music": 0.0
+    },
+    {
+      "from": 32.99,
+      "to": 35.37,
+      "sid": 19,
+      "location": 2,
+      "content": "开枪前怎么看微调怎么发力",
+      "music": 0.0
+    },
+    {
+      "from": 35.37,
+      "to": 38.864,
+      "sid": 20,
+      "location": 2,
+      "content": "以及具体怎么练才能更好的转化到实战里",
+      "music": 0.0
+    },
+    {
+      "from": 38.89,
+      "to": 40.07,
+      "sid": 21,
+      "location": 2,
+      "content": "我们来到靶场",
+      "music": 0.0
+    },
+    {
+      "from": 40.07,
+      "to": 40.99,
+      "sid": 22,
+      "location": 2,
+      "content": "打开中等靶",
+      "music": 0.0
+    },
+    {
+      "from": 40.99,
+      "to": 42.25,
+      "sid": 23,
+      "location": 2,
+      "content": "先拉枪制动",
+      "music": 0.0
+    },
+    {
+      "from": 42.25,
+      "to": 43.129,
+      "sid": 24,
+      "location": 2,
+      "content": "但不开枪",
+      "music": 0.0
+    },
+    {
+      "from": 43.129,
+      "to": 43.869,
+      "sid": 25,
+      "location": 2,
+      "content": "注意啊",
+      "music": 0.0
+    },
+    {
+      "from": 43.869,
+      "to": 45.369,
+      "sid": 26,
+      "location": 2,
+      "content": "准星停下来以后呢",
+      "music": 0.0
+    },
+    {
+      "from": 45.369,
+      "to": 46.749,
+      "sid": 27,
+      "location": 2,
+      "content": "到机器人消失之前",
+      "music": 0.0
+    },
+    {
+      "from": 46.749,
+      "to": 49.92,
+      "sid": 28,
+      "location": 2,
+      "content": "我们会看到这样一个短暂近似静止的画面",
+      "music": 0.0
+    },
+    {
+      "from": 49.92,
+      "to": 51.5,
+      "sid": 29,
+      "location": 2,
+      "content": "准星已经靠近目标了",
+      "music": 0.0
+    },
+    {
+      "from": 51.5,
+      "to": 53.96,
+      "sid": 30,
+      "location": 2,
+      "content": "两者的位置关系比较容易看清",
+      "music": 0.0
+    },
+    {
+      "from": 53.96,
+      "to": 55.6,
+      "sid": 31,
+      "location": 2,
+      "content": "这就是我说的静止窗口",
+      "music": 0.0
+    },
+    {
+      "from": 55.6,
+      "to": 57.739,
+      "sid": 32,
+      "location": 2,
+      "content": "重点不是盯着这个画面一直看啊",
+      "music": 0.0
+    },
+    {
+      "from": 57.739,
+      "to": 60.17,
+      "sid": 33,
+      "location": 2,
+      "content": "而是抓住两个信息点同和准星",
+      "music": 0.0
+    },
+    {
+      "from": 60.17,
+      "to": 62.31,
+      "sid": 34,
+      "location": 2,
+      "content": "并处理好它们的相对位置关系",
+      "music": 0.0
+    },
+    {
+      "from": 62.31,
+      "to": 64.29,
+      "sid": 35,
+      "location": 2,
+      "content": "然后呢根据这个位置关系",
+      "music": 0.0
+    },
+    {
+      "from": 64.29,
+      "to": 65.93,
+      "sid": 36,
+      "location": 2,
+      "content": "直接做一次短距离定位",
+      "music": 0.0
+    },
+    {
+      "from": 65.93,
+      "to": 67.5,
+      "sid": 37,
+      "location": 2,
+      "content": "开火完成微调",
+      "music": 0.0
+    },
+    {
+      "from": 67.5,
+      "to": 68.82,
+      "sid": 38,
+      "location": 2,
+      "content": "再看开头这一种",
+      "music": 0.0
+    },
+    {
+      "from": 68.82,
+      "to": 70.039,
+      "sid": 39,
+      "location": 2,
+      "content": "他也在看目标啊",
+      "music": 0.0
+    },
+    {
+      "from": 70.039,
+      "to": 71.979,
+      "sid": 40,
+      "location": 2,
+      "content": "但准星是在慢慢跟着头走",
+      "music": 0.0
+    },
+    {
+      "from": 71.979,
+      "to": 72.819,
+      "sid": 41,
+      "location": 2,
+      "content": "一边跟啊",
+      "music": 0.0
+    },
+    {
+      "from": 72.819,
+      "to": 73.559,
+      "sid": 42,
+      "location": 2,
+      "content": "一边修",
+      "music": 0.0
+    },
+    {
+      "from": 73.559,
+      "to": 75.679,
+      "sid": 43,
+      "location": 2,
+      "content": "找那个准星和头重合的瞬间",
+      "music": 0.0
+    },
+    {
+      "from": 75.679,
+      "to": 77.27,
+      "sid": 44,
+      "location": 2,
+      "content": "再点击开火",
+      "music": 0.0
+    },
+    {
+      "from": 77.27,
+      "to": 78.95,
+      "sid": 45,
+      "location": 2,
+      "content": "而我们这里要练的是啊",
+      "music": 0.0
+    },
+    {
+      "from": 78.95,
+      "to": 80.83,
+      "sid": 46,
+      "location": 2,
+      "content": "看清准星和头的位置关系",
+      "music": 0.0
+    },
+    {
+      "from": 80.83,
+      "to": 84.15,
+      "sid": 47,
+      "location": 2,
+      "content": "根据这段距离直接完成一次定位开火",
+      "music": 0.0
+    },
+    {
+      "from": 84.15,
+      "to": 85.35,
+      "sid": 48,
+      "location": 2,
+      "content": "刚才为了讲清楚",
+      "music": 0.0
+    },
+    {
+      "from": 85.35,
+      "to": 87.21,
+      "sid": 49,
+      "location": 2,
+      "content": "我们把观察和动作拆开了",
+      "music": 0.12790696930773376
+    },
+    {
+      "from": 87.21,
+      "to": 88.49,
+      "sid": 50,
+      "location": 2,
+      "content": "现在把它们连起来",
+      "music": 0.0
+    },
+    {
+      "from": 88.49,
+      "to": 90.34,
+      "sid": 51,
+      "location": 2,
+      "content": "看一次完整的微调",
+      "music": 0.0
+    },
+    {
+      "from": 90.34,
+      "to": 91.1,
+      "sid": 52,
+      "location": 2,
+      "content": "再慢放",
+      "music": 0.0
+    },
+    {
+      "from": 91.1,
+      "to": 93.08,
+      "sid": 53,
+      "location": 2,
+      "content": "看这一枪准星靠近目标后",
+      "music": 0.0
+    },
+    {
+      "from": 93.08,
+      "to": 95.4,
+      "sid": 54,
+      "location": 2,
+      "content": "根据两者的位置关系稳中微调",
+      "music": 0.0
+    },
+    {
+      "from": 95.4,
+      "to": 96.46,
+      "sid": 55,
+      "location": 2,
+      "content": "我们训练时啊",
+      "music": 0.0
+    },
+    {
+      "from": 96.46,
+      "to": 98.54,
+      "sid": 56,
+      "location": 2,
+      "content": "先用自己能看清做对的节奏",
+      "music": 0.0
+    },
+    {
+      "from": 98.54,
+      "to": 99.7,
+      "sid": 57,
+      "location": 2,
+      "content": "在直线加快",
+      "music": 0.0
+    },
+    {
+      "from": 99.7,
+      "to": 100.83,
+      "sid": 58,
+      "location": 2,
+      "content": "不要一球快啊",
+      "music": 0.0
+    },
+    {
+      "from": 100.83,
+      "to": 102.87,
+      "sid": 59,
+      "location": 2,
+      "content": "就又凭感觉去开枪了",
+      "music": 0.0
+    },
+    {
+      "from": 102.87,
+      "to": 104.27,
+      "sid": 60,
+      "location": 2,
+      "content": "理解了微调的方式",
+      "music": 0.0
+    },
+    {
+      "from": 104.27,
+      "to": 107.15,
+      "sid": 61,
+      "location": 2,
+      "content": "接下来就是要用手把这一下做出来",
+      "music": 0.0
+    },
+    {
+      "from": 107.15,
+      "to": 109.07,
+      "sid": 62,
+      "location": 2,
+      "content": "下面讲第二个重点微调",
+      "music": 0.0
+    },
+    {
+      "from": 109.07,
+      "to": 110.17,
+      "sid": 63,
+      "location": 2,
+      "content": "发力微调",
+      "music": 0.0
+    },
+    {
+      "from": 110.17,
+      "to": 113.45,
+      "sid": 64,
+      "location": 2,
+      "content": "这一下不要只想着食指去把左键点下去",
+      "music": 0.0
+    },
+    {
+      "from": 113.45,
+      "to": 116.88,
+      "sid": 65,
+      "location": 2,
+      "content": "试着找一种用手指抓住或者夹捏鼠标",
+      "music": 0.0
+    },
+    {
+      "from": 116.88,
+      "to": 119.21,
+      "sid": 66,
+      "location": 2,
+      "content": "一步完成微调开火的感觉",
+      "music": 0.0
+    },
+    {
+      "from": 119.21,
+      "to": 119.97,
+      "sid": 67,
+      "location": 2,
+      "content": "注意啊",
+      "music": 0.0
+    },
+    {
+      "from": 119.97,
+      "to": 121.57,
+      "sid": 68,
+      "location": 2,
+      "content": "我说的是动作的感觉",
+      "music": 0.0
+    },
+    {
+      "from": 121.57,
+      "to": 123.61,
+      "sid": 69,
+      "location": 2,
+      "content": "不是让你把鼠标越捏越紧啊",
+      "music": 0.0
+    },
+    {
+      "from": 123.61,
+      "to": 125.97,
+      "sid": 70,
+      "location": 2,
+      "content": "这样主要是想解决两个问题",
+      "music": 0.0
+    },
+    {
+      "from": 125.97,
+      "to": 129.149,
+      "sid": 71,
+      "location": 2,
+      "content": "第一不要把定位和开枪做的太割裂了",
+      "music": 0.0
+    },
+    {
+      "from": 129.149,
+      "to": 130.129,
+      "sid": 72,
+      "location": 2,
+      "content": "先挪到头上",
+      "music": 0.0
+    },
+    {
+      "from": 130.129,
+      "to": 131.389,
+      "sid": 73,
+      "location": 2,
+      "content": "再点击左键开火",
+      "music": 0.0
+    },
+    {
+      "from": 131.389,
+      "to": 132.489,
+      "sid": 74,
+      "location": 2,
+      "content": "我们要练的是呢",
+      "music": 0.0
+    },
+    {
+      "from": 132.489,
+      "to": 135.73,
+      "sid": 75,
+      "location": 2,
+      "content": "把微撩开火变成一个连贯的动作",
+      "music": 0.0
+    },
+    {
+      "from": 136.05,
+      "to": 139.77,
+      "sid": 76,
+      "location": 2,
+      "content": "第二减少了我们在微调期间提前开火的失误",
+      "music": 0.0
+    },
+    {
+      "from": 140.71,
+      "to": 142.19,
+      "sid": 77,
+      "location": 2,
+      "content": "这感觉不用照搬啊",
+      "music": 0.0
+    },
+    {
+      "from": 142.19,
+      "to": 144.47,
+      "sid": 78,
+      "location": 2,
+      "content": "试的时候看动作是不是更顺",
+      "music": 0.0
+    },
+    {
+      "from": 144.47,
+      "to": 146.13,
+      "sid": 79,
+      "location": 2,
+      "content": "提前开枪有没有减少",
+      "music": 0.0
+    },
+    {
+      "from": 146.13,
+      "to": 147.47,
+      "sid": 80,
+      "location": 2,
+      "content": "如果只是握的更紧",
+      "music": 0.0
+    },
+    {
+      "from": 147.47,
+      "to": 148.05,
+      "sid": 81,
+      "location": 2,
+      "content": "更僵呢",
+      "music": 0.0
+    },
+    {
+      "from": 148.05,
+      "to": 150.56,
+      "sid": 82,
+      "location": 2,
+      "content": "就先停下来调整静止窗口",
+      "music": 0.0
+    },
+    {
+      "from": 150.56,
+      "to": 151.96,
+      "sid": 83,
+      "location": 2,
+      "content": "怎么看微调怎么发力",
+      "music": 0.0
+    },
+    {
+      "from": 151.96,
+      "to": 153.02,
+      "sid": 84,
+      "location": 2,
+      "content": "我们都讲过了",
+      "music": 0.0
+    },
+    {
+      "from": 153.02,
+      "to": 157.08,
+      "sid": 85,
+      "location": 2,
+      "content": "接下来我教大家完整的练上一轮上手训练",
+      "music": 0.0
+    },
+    {
+      "from": 157.85,
+      "to": 160.89,
+      "sid": 86,
+      "location": 2,
+      "content": "第一个项目我们使用的是coax里的这个项目",
+      "music": 0.0
+    },
+    {
+      "from": 160.89,
+      "to": 162.37,
+      "sid": 87,
+      "location": 2,
+      "content": "目标数量调成一个",
+      "music": 0.0
+    },
+    {
+      "from": 162.37,
+      "to": 163.85,
+      "sid": 88,
+      "location": 2,
+      "content": "先看一种错误的打法",
+      "music": 0.0
+    },
+    {
+      "from": 163.85,
+      "to": 165.66,
+      "sid": 89,
+      "location": 2,
+      "content": "就像这样缓慢的",
+      "music": 0.0
+    },
+    {
+      "from": 165.66,
+      "to": 168.46,
+      "sid": 90,
+      "location": 2,
+      "content": "完全与眼中持续的画面信息移动整形",
+      "music": 0.13846153313611137
+    },
+    {
+      "from": 168.46,
+      "to": 170.2,
+      "sid": 91,
+      "location": 2,
+      "content": "感觉准星到目标上了",
+      "music": 0.0
+    },
+    {
+      "from": 170.2,
+      "to": 171.78,
+      "sid": 92,
+      "location": 2,
+      "content": "食指点击鼠标开火",
+      "music": 0.0
+    },
+    {
+      "from": 171.78,
+      "to": 173.08,
+      "sid": 93,
+      "location": 2,
+      "content": "至于我们实战中的微调",
+      "music": 0.0
+    },
+    {
+      "from": 173.08,
+      "to": 174.3,
+      "sid": 94,
+      "location": 2,
+      "content": "不是一种瞄准方式",
+      "music": 0.0
+    },
+    {
+      "from": 174.3,
+      "to": 175.42,
+      "sid": 95,
+      "location": 2,
+      "content": "我解释一下",
+      "music": 0.0
+    },
+    {
+      "from": 175.42,
+      "to": 177.08,
+      "sid": 96,
+      "location": 2,
+      "content": "我们本期要练的微调",
+      "music": 0.0
+    },
+    {
+      "from": 177.08,
+      "to": 177.9,
+      "sid": 97,
+      "location": 2,
+      "content": "不是准星",
+      "music": 0.0
+    },
+    {
+      "from": 177.9,
+      "to": 179.22,
+      "sid": 98,
+      "location": 2,
+      "content": "慢慢跟着找重合",
+      "music": 0.0
+    },
+    {
+      "from": 179.22,
+      "to": 181.44,
+      "sid": 99,
+      "location": 2,
+      "content": "微调是需要有一定的速度要求",
+      "music": 0.0
+    },
+    {
+      "from": 181.44,
+      "to": 183.8,
+      "sid": 100,
+      "location": 2,
+      "content": "最终啊应该是接近这种准星",
+      "music": 0.0
+    },
+    {
+      "from": 183.8,
+      "to": 184.86,
+      "sid": 101,
+      "location": 2,
+      "content": "靠近目标后呢",
+      "music": 0.0
+    },
+    {
+      "from": 184.86,
+      "to": 186.94,
+      "sid": 102,
+      "location": 2,
+      "content": "根据静止窗口里的位置关系",
+      "music": 0.0
+    },
+    {
+      "from": 186.94,
+      "to": 189.829,
+      "sid": 103,
+      "location": 2,
+      "content": "完成一次干净的短距离定位开火",
+      "music": 0.0
+    },
+    {
+      "from": 189.829,
+      "to": 192.789,
+      "sid": 104,
+      "location": 2,
+      "content": "当然刚开始不需要直接追求这个速度",
+      "music": 0.0
+    },
+    {
+      "from": 192.789,
+      "to": 193.989,
+      "sid": 105,
+      "location": 2,
+      "content": "你可以先放慢",
+      "music": 0.0
+    },
+    {
+      "from": 193.989,
+      "to": 197.99,
+      "sid": 106,
+      "location": 2,
+      "content": "但是这个慢也是要果断的看清位置关系",
+      "music": 0.0
+    },
+    {
+      "from": 197.99,
+      "to": 199.57,
+      "sid": 107,
+      "location": 2,
+      "content": "一次完成微调开火",
+      "music": 0.0
+    },
+    {
+      "from": 199.57,
+      "to": 202.57,
+      "sid": 108,
+      "location": 2,
+      "content": "而不是边移动边找准镜目标重合啊",
+      "music": 0.0
+    },
+    {
+      "from": 202.57,
+      "to": 204.21,
+      "sid": 109,
+      "location": 2,
+      "content": "训练时还有一个重点",
+      "music": 0.0
+    },
+    {
+      "from": 204.21,
+      "to": 206.85,
+      "sid": 110,
+      "location": 2,
+      "content": "不要只追着画面里的准星移动走",
+      "music": 0.0
+    },
+    {
+      "from": 206.85,
+      "to": 209.97,
+      "sid": 111,
+      "location": 2,
+      "content": "你要感受鼠标以传感器为基准点",
+      "music": 0.0
+    },
+    {
+      "from": 209.97,
+      "to": 212.2,
+      "sid": 112,
+      "location": 2,
+      "content": "实际往哪个方向移动了多远",
+      "music": 0.0
+    },
+    {
+      "from": 212.2,
+      "to": 213.5,
+      "sid": 113,
+      "location": 2,
+      "content": "画面里的准心啊",
+      "music": 0.0
+    },
+    {
+      "from": 213.5,
+      "to": 214.66,
+      "sid": 114,
+      "location": 2,
+      "content": "只是反馈结果",
+      "music": 0.0
+    },
+    {
+      "from": 214.66,
+      "to": 218.06,
+      "sid": 115,
+      "location": 2,
+      "content": "鼠标传感器的移动才是你需要建立的控制感觉",
+      "music": 0.0
+    },
+    {
+      "from": 218.06,
+      "to": 220.12,
+      "sid": 116,
+      "location": 2,
+      "content": "所以刚开始速度可以慢一些",
+      "music": 0.0
+    },
+    {
+      "from": 220.12,
+      "to": 221.3,
+      "sid": 117,
+      "location": 2,
+      "content": "但每次开火前",
+      "music": 0.0
+    },
+    {
+      "from": 221.3,
+      "to": 223.82,
+      "sid": 118,
+      "location": 2,
+      "content": "都要尽量确认自己看好的进入窗口",
+      "music": 0.0
+    },
+    {
+      "from": 223.82,
+      "to": 227.68,
+      "sid": 119,
+      "location": 2,
+      "content": "并且感受一下这一枪鼠标传感器是如何移动的",
+      "music": 0.0
+    },
+    {
+      "from": 227.68,
+      "to": 229.7,
+      "sid": 120,
+      "location": 2,
+      "content": "每一楼呢只检查三件事",
+      "music": 0.0
+    },
+    {
+      "from": 229.7,
+      "to": 231.6,
+      "sid": 121,
+      "location": 2,
+      "content": "第一有没有看好禁止窗口",
+      "music": 0.0
+    },
+    {
+      "from": 231.6,
+      "to": 234.61,
+      "sid": 122,
+      "location": 2,
+      "content": "第二微调开火是不是一步到位的",
+      "music": 0.0
+    },
+    {
+      "from": 234.61,
+      "to": 236.33,
+      "sid": 123,
+      "location": 2,
+      "content": "第三微调开火时",
+      "music": 0.0
+    },
+    {
+      "from": 236.33,
+      "to": 239.21,
+      "sid": 124,
+      "location": 2,
+      "content": "鼠标传感器具体往哪个方向移动了多远",
+      "music": 0.0
+    },
+    {
+      "from": 239.21,
+      "to": 240.94,
+      "sid": 125,
+      "location": 2,
+      "content": "你有没有明确的感受",
+      "music": 0.0
+    },
+    {
+      "from": 240.94,
+      "to": 242.5,
+      "sid": 126,
+      "location": 2,
+      "content": "先不要同时追求速度啊",
+      "music": 0.0
+    },
+    {
+      "from": 242.5,
+      "to": 244.28,
+      "sid": 127,
+      "location": 2,
+      "content": "命中率和最没用的分数",
+      "music": 0.0
+    },
+    {
+      "from": 244.28,
+      "to": 245.7,
+      "sid": 128,
+      "location": 2,
+      "content": "先把动作做清楚",
+      "music": 0.0
+    },
+    {
+      "from": 245.7,
+      "to": 246.899,
+      "sid": 129,
+      "location": 2,
+      "content": "再逐渐加快",
+      "music": 0.0
+    },
+    {
+      "from": 246.899,
+      "to": 249.199,
+      "sid": 130,
+      "location": 2,
+      "content": "看好监视窗口微调开火",
+      "music": 0.0
+    },
+    {
+      "from": 249.199,
+      "to": 251.99,
+      "sid": 131,
+      "location": 2,
+      "content": "看好监视窗口微调开火",
+      "music": 0.0
+    },
+    {
+      "from": 251.99,
+      "to": 254.37,
+      "sid": 132,
+      "location": 2,
+      "content": "接下来轮到你可以先暂停视频",
+      "music": 0.0
+    },
+    {
+      "from": 254.37,
+      "to": 255.57,
+      "sid": 133,
+      "location": 2,
+      "content": "跟着练一轮下来",
+      "music": 0.0
+    },
+    {
+      "from": 255.57,
+      "to": 256.65,
+      "sid": 134,
+      "location": 2,
+      "content": "不要追求速度",
+      "music": 0.0
+    },
+    {
+      "from": 256.65,
+      "to": 258.779,
+      "sid": 135,
+      "location": 2,
+      "content": "记录好上面讲到的三件事",
+      "music": 0.0
+    },
+    {
+      "from": 258.779,
+      "to": 262.139,
+      "sid": 136,
+      "location": 2,
+      "content": "第一个项目做完之后再进入中距离微调训练",
+      "music": 0.0
+    },
+    {
+      "from": 262.139,
+      "to": 263.239,
+      "sid": 137,
+      "location": 2,
+      "content": "第二个项目啊",
+      "music": 0.0
+    },
+    {
+      "from": 263.239,
+      "to": 264.799,
+      "sid": 138,
+      "location": 2,
+      "content": "调地图比例为1.2",
+      "music": 0.0
+    },
+    {
+      "from": 264.799,
+      "to": 269.65,
+      "sid": 139,
+      "location": 2,
+      "content": "目标数量同样设为一个核心的过程不变啊",
+      "music": 0.0
+    },
+    {
+      "from": 269.65,
+      "to": 272.23,
+      "sid": 140,
+      "location": 2,
+      "content": "看好进入窗口完成一次中距离的定位",
+      "music": 0.0
+    },
+    {
+      "from": 272.23,
+      "to": 275.43,
+      "sid": 141,
+      "location": 2,
+      "content": "开火变化呢只是目标距离更远了",
+      "music": 0.0
+    },
+    {
+      "from": 275.43,
+      "to": 277.15,
+      "sid": 142,
+      "location": 2,
+      "content": "准星需要移动的距离更长",
+      "music": 0.0
+    },
+    {
+      "from": 277.15,
+      "to": 278.87,
+      "sid": 143,
+      "location": 2,
+      "content": "所以控制难度会上来",
+      "music": 0.0
+    },
+    {
+      "from": 278.87,
+      "to": 280.73,
+      "sid": 144,
+      "location": 2,
+      "content": "不要因为第一个项目做的顺",
+      "music": 0.0
+    },
+    {
+      "from": 280.73,
+      "to": 282.31,
+      "sid": 145,
+      "location": 2,
+      "content": "就把速度马上拉满",
+      "music": 0.0
+    },
+    {
+      "from": 282.31,
+      "to": 284.31,
+      "sid": 146,
+      "location": 2,
+      "content": "先保持刚才的动作逻辑",
+      "music": 0.0
+    },
+    {
+      "from": 284.31,
+      "to": 287.57,
+      "sid": 147,
+      "location": 2,
+      "content": "再根据自己完成的情况逐渐加快",
+      "music": 0.0
+    },
+    {
+      "from": 287.73,
+      "to": 290.55,
+      "sid": 148,
+      "location": 2,
+      "content": "刚才这个项目呢建议大家先各完成一轮",
+      "music": 0.0
+    },
+    {
+      "from": 290.55,
+      "to": 291.93,
+      "sid": 149,
+      "location": 2,
+      "content": "重点是记录过程",
+      "music": 0.0
+    },
+    {
+      "from": 291.93,
+      "to": 293.76,
+      "sid": 150,
+      "location": 2,
+      "content": "不要只看最后的成绩",
+      "music": 0.0
+    },
+    {
+      "from": 293.76,
+      "to": 295.58,
+      "sid": 151,
+      "location": 2,
+      "content": "我整理了两份配套资料",
+      "music": 0.0
+    },
+    {
+      "from": 295.58,
+      "to": 297.76,
+      "sid": 152,
+      "location": 2,
+      "content": "第一份是练枪软件的设置说明",
+      "music": 0.0
+    },
+    {
+      "from": 297.76,
+      "to": 300.97,
+      "sid": 153,
+      "location": 2,
+      "content": "第二份是本期训练的演示和训练清单",
+      "music": 0.0
+    },
+    {
+      "from": 300.97,
+      "to": 303.91,
+      "sid": 154,
+      "location": 2,
+      "content": "方便你之后自己训练时去做对照",
+      "music": 0.0
+    },
+    {
+      "from": 303.91,
+      "to": 305.77,
+      "sid": 155,
+      "location": 2,
+      "content": "需要资料可以私信微调",
+      "music": 0.0
+    },
+    {
+      "from": 305.77,
+      "to": 306.25,
+      "sid": 156,
+      "location": 2,
+      "content": "零一",
+      "music": 0.0
+    },
+    {
+      "from": 306.25,
+      "to": 307.43,
+      "sid": 157,
+      "location": 2,
+      "content": "这期就到这了",
+      "music": 0.0
+    },
+    {
+      "from": 307.43,
+      "to": 308.78,
+      "sid": 158,
+      "location": 2,
+      "content": "我们下期见喽",
+      "music": 0.0
+    }
+  ]
+}
