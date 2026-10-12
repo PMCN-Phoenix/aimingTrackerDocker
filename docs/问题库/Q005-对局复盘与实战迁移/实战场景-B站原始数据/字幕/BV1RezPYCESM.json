@@ -1,0 +1,2012 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "v1.7.0.4",
+  "body": [
+    {
+      "from": 0.0,
+      "to": 1.0,
+      "sid": 1,
+      "location": 2,
+      "content": "哈喽各位朋友大家好",
+      "music": 0.0
+    },
+    {
+      "from": 1.0,
+      "to": 1.72,
+      "sid": 2,
+      "location": 2,
+      "content": "我是东彦",
+      "music": 0.0
+    },
+    {
+      "from": 1.72,
+      "to": 3.12,
+      "sid": 3,
+      "location": 2,
+      "content": "那么今天给大家带来身位控制",
+      "music": 0.0
+    },
+    {
+      "from": 3.12,
+      "to": 5.0,
+      "sid": 4,
+      "location": 2,
+      "content": "教学的一些进阶点展边啊",
+      "music": 0.0
+    },
+    {
+      "from": 5.0,
+      "to": 6.64,
+      "sid": 5,
+      "location": 2,
+      "content": "那我此前给舰长复盘的时候",
+      "music": 0.0
+    },
+    {
+      "from": 6.64,
+      "to": 6.92,
+      "sid": 6,
+      "location": 2,
+      "content": "发现",
+      "music": 0.0
+    },
+    {
+      "from": 6.92,
+      "to": 8.96,
+      "sid": 7,
+      "location": 2,
+      "content": "有些朋友对于我们之前一直强调的",
+      "music": 0.0
+    },
+    {
+      "from": 8.96,
+      "to": 11.64,
+      "sid": 8,
+      "location": 2,
+      "content": "近大远小这个概念有着教条式的病态追求",
+      "music": 0.0
+    },
+    {
+      "from": 11.64,
+      "to": 14.48,
+      "sid": 9,
+      "location": 2,
+      "content": "但实际上近大远小绝对不是对枪的唯一准则",
+      "music": 0.0
+    },
+    {
+      "from": 14.48,
+      "to": 15.48,
+      "sid": 10,
+      "location": 2,
+      "content": "那么在视频的开头",
+      "music": 0.0
+    },
+    {
+      "from": 15.48,
+      "to": 17.28,
+      "sid": 11,
+      "location": 2,
+      "content": "我们先给一些新手朋友科普一下",
+      "music": 0.0
+    },
+    {
+      "from": 17.28,
+      "to": 18.16,
+      "sid": 12,
+      "location": 2,
+      "content": "近大远小的概念",
+      "music": 0.0
+    },
+    {
+      "from": 18.16,
+      "to": 20.52,
+      "sid": 13,
+      "location": 2,
+      "content": "所谓的近大远小呢就是老生常谈的",
+      "music": 0.0
+    },
+    {
+      "from": 20.52,
+      "to": 22.18,
+      "sid": 14,
+      "location": 2,
+      "content": "双方围绕同掩体进行博弈",
+      "music": 0.0
+    },
+    {
+      "from": 22.18,
+      "to": 25.06,
+      "sid": 15,
+      "location": 2,
+      "content": "离这个掩体越远的人就会率先看到对手优势",
+      "music": 0.0
+    },
+    {
+      "from": 25.06,
+      "to": 27.74,
+      "sid": 16,
+      "location": 2,
+      "content": "相反的离这个掩体越近的人则处于相对劣势",
+      "music": 0.0
+    },
+    {
+      "from": 27.74,
+      "to": 30.18,
+      "sid": 17,
+      "location": 2,
+      "content": "也就是说我们在围绕掩体进行peek的时候",
+      "music": 0.0
+    },
+    {
+      "from": 30.18,
+      "to": 31.78,
+      "sid": 18,
+      "location": 2,
+      "content": "应该尽量与掩体保持一段距离",
+      "music": 0.0
+    },
+    {
+      "from": 31.78,
+      "to": 32.46,
+      "sid": 19,
+      "location": 2,
+      "content": "再进行大浪",
+      "music": 0.0
+    },
+    {
+      "from": 32.46,
+      "to": 34.86,
+      "sid": 20,
+      "location": 2,
+      "content": "但假如你在我直播的时候看过我这奶",
+      "music": 0.0
+    },
+    {
+      "from": 34.86,
+      "to": 35.64,
+      "sid": 21,
+      "location": 2,
+      "content": "还有can比单挑",
+      "music": 0.0
+    },
+    {
+      "from": 35.64,
+      "to": 37.5,
+      "sid": 22,
+      "location": 2,
+      "content": "那你会发现我在于是这张图",
+      "music": 0.0
+    },
+    {
+      "from": 37.5,
+      "to": 38.66,
+      "sid": 23,
+      "location": 2,
+      "content": "PIK这个大箱的时候",
+      "music": 0.0
+    },
+    {
+      "from": 38.66,
+      "to": 40.7,
+      "sid": 24,
+      "location": 2,
+      "content": "更喜欢这样贴墙进行一个蹲浪啊",
+      "music": 0.0
+    },
+    {
+      "from": 40.7,
+      "to": 42.0,
+      "sid": 25,
+      "location": 2,
+      "content": "而且对枪胜率还不低",
+      "music": 0.0
+    },
+    {
+      "from": 42.0,
+      "to": 43.48,
+      "sid": 26,
+      "location": 2,
+      "content": "那么这样对枪的原理在于",
+      "music": 0.0
+    },
+    {
+      "from": 43.48,
+      "to": 46.04,
+      "sid": 27,
+      "location": 2,
+      "content": "当你在俯视角看鱼式大枪这个枪位",
+      "music": 0.0
+    },
+    {
+      "from": 46.04,
+      "to": 48.72,
+      "sid": 28,
+      "location": 2,
+      "content": "你会发现敌人只要站在广角进行直架",
+      "music": 0.0
+    },
+    {
+      "from": 48.72,
+      "to": 50.2,
+      "sid": 29,
+      "location": 2,
+      "content": "只要你是从复活点出发",
+      "music": 0.0
+    },
+    {
+      "from": 50.2,
+      "to": 51.88,
+      "sid": 30,
+      "location": 2,
+      "content": "无论你是尽可能远离大强",
+      "music": 0.0
+    },
+    {
+      "from": 51.88,
+      "to": 53.72,
+      "sid": 31,
+      "location": 2,
+      "content": "去皮还是贴近大将来的大佬",
+      "music": 0.0
+    },
+    {
+      "from": 53.72,
+      "to": 55.84,
+      "sid": 32,
+      "location": 2,
+      "content": "你都处在一个近大远小劣势枪位",
+      "music": 0.0
+    },
+    {
+      "from": 55.84,
+      "to": 58.48,
+      "sid": 33,
+      "location": 2,
+      "content": "那么大家在初中应该学过线速度一定的时候",
+      "music": 0.0
+    },
+    {
+      "from": 58.48,
+      "to": 60.16,
+      "sid": 34,
+      "location": 2,
+      "content": "角速度会与半径成反比的倒数",
+      "music": 0.0
+    },
+    {
+      "from": 60.16,
+      "to": 61.32,
+      "sid": 35,
+      "location": 2,
+      "content": "那么在无畏缺里面",
+      "music": 0.0
+    },
+    {
+      "from": 61.32,
+      "to": 62.36,
+      "sid": 36,
+      "location": 2,
+      "content": "这个道理也是一样的",
+      "music": 0.0
+    },
+    {
+      "from": 62.36,
+      "to": 62.96,
+      "sid": 37,
+      "location": 2,
+      "content": "也就是说",
+      "music": 0.0
+    },
+    {
+      "from": 62.96,
+      "to": 65.04,
+      "sid": 38,
+      "location": 2,
+      "content": "既然你已经处在了劣势枪位了",
+      "music": 0.0
+    },
+    {
+      "from": 65.04,
+      "to": 67.8,
+      "sid": 39,
+      "location": 2,
+      "content": "那不如贴近掩体来换取更大的角速度",
+      "music": 0.0
+    },
+    {
+      "from": 67.8,
+      "to": 70.04,
+      "sid": 40,
+      "location": 2,
+      "content": "那么有可能这段话理解起来会稍微有些抽象",
+      "music": 0.0
+    },
+    {
+      "from": 70.04,
+      "to": 71.06,
+      "sid": 41,
+      "location": 2,
+      "content": "我们展开来讲一下",
+      "music": 0.0
+    },
+    {
+      "from": 71.06,
+      "to": 71.88,
+      "sid": 42,
+      "location": 2,
+      "content": "如画面所示",
+      "music": 0.0
+    },
+    {
+      "from": 71.88,
+      "to": 73.96,
+      "sid": 43,
+      "location": 2,
+      "content": "我们站在距离敌人不同的位置出发",
+      "music": 0.0
+    },
+    {
+      "from": 73.96,
+      "to": 76.42,
+      "sid": 44,
+      "location": 2,
+      "content": "两次都同样以相同速度走一样的路程",
+      "music": 0.0
+    },
+    {
+      "from": 76.42,
+      "to": 78.22,
+      "sid": 45,
+      "location": 2,
+      "content": "你会发现当你离敌人更近的时候",
+      "music": 0.0
+    },
+    {
+      "from": 78.22,
+      "to": 81.14,
+      "sid": 46,
+      "location": 2,
+      "content": "相同时间内你在敌人视角下移动的角度会更大",
+      "music": 0.0
+    },
+    {
+      "from": 81.14,
+      "to": 81.78,
+      "sid": 47,
+      "location": 2,
+      "content": "这也就意味着",
+      "music": 0.0
+    },
+    {
+      "from": 81.78,
+      "to": 84.06,
+      "sid": 48,
+      "location": 2,
+      "content": "你在敌人的显示器上移动的会更快一些",
+      "music": 0.0
+    },
+    {
+      "from": 84.06,
+      "to": 85.12,
+      "sid": 49,
+      "location": 2,
+      "content": "也更不容易被架住",
+      "music": 0.0
+    },
+    {
+      "from": 85.12,
+      "to": 86.0,
+      "sid": 50,
+      "location": 2,
+      "content": "那我们要知道",
+      "music": 0.0
+    },
+    {
+      "from": 86.0,
+      "to": 86.88,
+      "sid": 51,
+      "location": 2,
+      "content": "你在V圈里",
+      "music": 0.0
+    },
+    {
+      "from": 86.88,
+      "to": 89.32,
+      "sid": 52,
+      "location": 2,
+      "content": "总不可能每次都站在视角差优势的情况下",
+      "music": 0.0
+    },
+    {
+      "from": 89.32,
+      "to": 90.4,
+      "sid": 53,
+      "location": 2,
+      "content": "对枪贴墙大拉",
+      "music": 0.0
+    },
+    {
+      "from": 90.4,
+      "to": 91.52,
+      "sid": 54,
+      "location": 2,
+      "content": "换取的较高角速度",
+      "music": 0.0
+    },
+    {
+      "from": 91.52,
+      "to": 93.8,
+      "sid": 55,
+      "location": 2,
+      "content": "配合蹲拉的这样一个规避头线的动作",
+      "music": 0.0
+    },
+    {
+      "from": 93.8,
+      "to": 96.72,
+      "sid": 56,
+      "location": 2,
+      "content": "能让你在视角差关系上已经处在劣势的情况下",
+      "music": 0.0
+    },
+    {
+      "from": 96.72,
+      "to": 98.62,
+      "sid": 57,
+      "location": 2,
+      "content": "尽可能换来更大对枪胜率",
+      "music": 0.0
+    },
+    {
+      "from": 98.62,
+      "to": 100.32,
+      "sid": 58,
+      "location": 2,
+      "content": "大家可以看一下单挑场景下",
+      "music": 0.0
+    },
+    {
+      "from": 100.32,
+      "to": 102.34,
+      "sid": 59,
+      "location": 2,
+      "content": "这样peek所带来的一个帅的视角",
+      "music": 0.0
+    },
+    {
+      "from": 102.34,
+      "to": 104.26,
+      "sid": 60,
+      "location": 2,
+      "content": "想架注确实还是很有难度的",
+      "music": 0.0
+    },
+    {
+      "from": 104.26,
+      "to": 105.02,
+      "sid": 61,
+      "location": 2,
+      "content": "那么在实战里",
+      "music": 0.0
+    },
+    {
+      "from": 105.02,
+      "to": 106.7,
+      "sid": 62,
+      "location": 2,
+      "content": "比如说员工注射的浴室枪位",
+      "music": 0.0
+    },
+    {
+      "from": 106.7,
+      "to": 107.94,
+      "sid": 63,
+      "location": 2,
+      "content": "这样的peek也还是蛮实用的",
+      "music": 0.0
+    },
+    {
+      "from": 107.94,
+      "to": 109.6,
+      "sid": 64,
+      "location": 2,
+      "content": "大家可以看后面上这波演示呃",
+      "music": 0.0
+    },
+    {
+      "from": 109.6,
+      "to": 111.6,
+      "sid": 65,
+      "location": 2,
+      "content": "但是呢贴墙大拉总不可能全是好处",
+      "music": 0.0
+    },
+    {
+      "from": 111.6,
+      "to": 114.12,
+      "sid": 66,
+      "location": 2,
+      "content": "不然我们每次对枪全都贴墙大拉就好了",
+      "music": 0.0
+    },
+    {
+      "from": 114.12,
+      "to": 115.76,
+      "sid": 67,
+      "location": 2,
+      "content": "那么贴墙大拉最大的坏处呢",
+      "music": 0.0
+    },
+    {
+      "from": 115.76,
+      "to": 117.92,
+      "sid": 68,
+      "location": 2,
+      "content": "就是你的身位控制是很难做到精细的",
+      "music": 0.0
+    },
+    {
+      "from": 117.92,
+      "to": 120.08,
+      "sid": 69,
+      "location": 2,
+      "content": "因为它本身就是一种孤注一掷",
+      "music": 0.0
+    },
+    {
+      "from": 120.08,
+      "to": 121.38,
+      "sid": 70,
+      "location": 2,
+      "content": "拉满角速度的大拉",
+      "music": 0.0
+    },
+    {
+      "from": 121.38,
+      "to": 123.06,
+      "sid": 71,
+      "location": 2,
+      "content": "但凡有多个敌人在架着你",
+      "music": 0.0
+    },
+    {
+      "from": 123.06,
+      "to": 124.06,
+      "sid": 72,
+      "location": 2,
+      "content": "那你也就该死了",
+      "music": 0.0
+    },
+    {
+      "from": 124.06,
+      "to": 126.7,
+      "sid": 73,
+      "location": 2,
+      "content": "所以呢贴墙大拉更多是确认敌人大概位置",
+      "music": 0.0
+    },
+    {
+      "from": 126.7,
+      "to": 128.02,
+      "sid": 74,
+      "location": 2,
+      "content": "在局部的一打一情况下",
+      "music": 0.0
+    },
+    {
+      "from": 128.02,
+      "to": 129.419,
+      "sid": 75,
+      "location": 2,
+      "content": "才会采取的一个对枪策略",
+      "music": 0.0
+    },
+    {
+      "from": 129.419,
+      "to": 130.739,
+      "sid": 76,
+      "location": 2,
+      "content": "可是这也并不意味着",
+      "music": 0.0
+    },
+    {
+      "from": 130.739,
+      "to": 132.179,
+      "sid": 77,
+      "location": 2,
+      "content": "在不确定敌人位置的时候",
+      "music": 0.0
+    },
+    {
+      "from": 132.179,
+      "to": 133.64,
+      "sid": 78,
+      "location": 2,
+      "content": "我们不能使用贴墙的技巧",
+      "music": 0.0
+    },
+    {
+      "from": 133.64,
+      "to": 135.6,
+      "sid": 79,
+      "location": 2,
+      "content": "贴墙大拉在特定情况下不好用",
+      "music": 0.0
+    },
+    {
+      "from": 135.6,
+      "to": 137.52,
+      "sid": 80,
+      "location": 2,
+      "content": "但贴墙晃身还是很好用的",
+      "music": 0.0
+    },
+    {
+      "from": 137.52,
+      "to": 139.84,
+      "sid": 81,
+      "location": 2,
+      "content": "因为贴墙的好处说白了就是角速度更快",
+      "music": 0.0
+    },
+    {
+      "from": 139.84,
+      "to": 142.66,
+      "sid": 82,
+      "location": 2,
+      "content": "那你在敌人视角下进出掩体的速度也会更快",
+      "music": 0.0
+    },
+    {
+      "from": 142.66,
+      "to": 143.88,
+      "sid": 83,
+      "location": 2,
+      "content": "如果你贴墙不大了",
+      "music": 0.0
+    },
+    {
+      "from": 143.88,
+      "to": 145.74,
+      "sid": 84,
+      "location": 2,
+      "content": "只露半个身位的晃身拿信息",
+      "music": 0.0
+    },
+    {
+      "from": 145.74,
+      "to": 147.18,
+      "sid": 85,
+      "location": 2,
+      "content": "那敌人也更难架住你",
+      "music": 0.0
+    },
+    {
+      "from": 147.18,
+      "to": 147.92,
+      "sid": 86,
+      "location": 2,
+      "content": "如画面所示",
+      "music": 0.0
+    },
+    {
+      "from": 147.92,
+      "to": 149.6,
+      "sid": 87,
+      "location": 2,
+      "content": "在老版弱之城这个素材里",
+      "music": 0.0
+    },
+    {
+      "from": 149.6,
+      "to": 151.98,
+      "sid": 88,
+      "location": 2,
+      "content": "我们在1V2残局中先拿到了一个击杀",
+      "music": 0.0
+    },
+    {
+      "from": 151.98,
+      "to": 153.62,
+      "sid": 89,
+      "location": 2,
+      "content": "在和第二个敌人博弈的时候",
+      "music": 0.0
+    },
+    {
+      "from": 153.62,
+      "to": 154.78,
+      "sid": 90,
+      "location": 2,
+      "content": "贴紧掩体晃身",
+      "music": 0.0
+    },
+    {
+      "from": 154.78,
+      "to": 155.74,
+      "sid": 91,
+      "location": 2,
+      "content": "提前枪拿信息",
+      "music": 0.0
+    },
+    {
+      "from": 155.74,
+      "to": 158.5,
+      "sid": 92,
+      "location": 2,
+      "content": "这样提前枪有机会以近乎跑歹的形态抽奖",
+      "music": 0.0
+    },
+    {
+      "from": 158.5,
+      "to": 159.5,
+      "sid": 93,
+      "location": 2,
+      "content": "抽到人头宝典",
+      "music": 0.0
+    },
+    {
+      "from": 159.5,
+      "to": 160.29,
+      "sid": 94,
+      "location": 2,
+      "content": "拿到信息",
+      "music": 0.0
+    },
+    {
+      "from": 160.29,
+      "to": 161.75,
+      "sid": 95,
+      "location": 2,
+      "content": "敌人不可能把你架死",
+      "music": 0.0
+    },
+    {
+      "from": 161.75,
+      "to": 163.57,
+      "sid": 96,
+      "location": 2,
+      "content": "那么拿到敌人的具体位置信息之后",
+      "music": 0.0
+    },
+    {
+      "from": 163.57,
+      "to": 164.45,
+      "sid": 97,
+      "location": 2,
+      "content": "我们远离掩体",
+      "music": 0.0
+    },
+    {
+      "from": 164.45,
+      "to": 164.93,
+      "sid": 98,
+      "location": 2,
+      "content": "往右拉",
+      "music": 0.0
+    },
+    {
+      "from": 164.93,
+      "to": 167.53,
+      "sid": 99,
+      "location": 2,
+      "content": "把自己的位置换到了一个在近大远小的关系上",
+      "music": 0.0
+    },
+    {
+      "from": 167.53,
+      "to": 168.66,
+      "sid": 100,
+      "location": 2,
+      "content": "更优势的一个枪位",
+      "music": 0.0
+    },
+    {
+      "from": 168.66,
+      "to": 170.46,
+      "sid": 101,
+      "location": 2,
+      "content": "架枪在获得了最后一个击杀",
+      "music": 0.0
+    },
+    {
+      "from": 170.46,
+      "to": 172.66,
+      "sid": 102,
+      "location": 2,
+      "content": "那么想要做到如此精妙的身位控制",
+      "music": 0.0
+    },
+    {
+      "from": 172.66,
+      "to": 174.56,
+      "sid": 103,
+      "location": 2,
+      "content": "那一款好的键盘是必不可少的",
+      "music": 0.0
+    },
+    {
+      "from": 174.56,
+      "to": 176.0,
+      "sid": 104,
+      "location": 2,
+      "content": "那么这就不得不给大家推荐一下",
+      "music": 0.0
+    },
+    {
+      "from": 176.0,
+      "to": 178.86,
+      "sid": 105,
+      "location": 2,
+      "content": "我目前在使用的这款铝厂的EZ63键盘",
+      "music": 0.0
+    },
+    {
+      "from": 178.86,
+      "to": 180.9,
+      "sid": 106,
+      "location": 2,
+      "content": "那么厂商呢一共给我寄来了两个款式",
+      "music": 0.0
+    },
+    {
+      "from": 180.9,
+      "to": 181.52,
+      "sid": 107,
+      "location": 2,
+      "content": "Ez63",
+      "music": 0.0
+    },
+    {
+      "from": 181.52,
+      "to": 182.58,
+      "sid": 108,
+      "location": 2,
+      "content": "那刚拿到手里",
+      "music": 0.0
+    },
+    {
+      "from": 182.58,
+      "to": 184.9,
+      "sid": 109,
+      "location": 2,
+      "content": "这个赠送的收纳包就挺加印象分的",
+      "music": 0.0
+    },
+    {
+      "from": 184.9,
+      "to": 186.34,
+      "sid": 110,
+      "location": 2,
+      "content": "玩游戏也得有仪式感",
+      "music": 0.0
+    },
+    {
+      "from": 186.34,
+      "to": 189.04,
+      "sid": 111,
+      "location": 2,
+      "content": "那么打开包装能发现两款都是六四配列",
+      "music": 0.0
+    },
+    {
+      "from": 189.04,
+      "to": 190.3,
+      "sid": 112,
+      "location": 2,
+      "content": "专门为PS而生",
+      "music": 0.0
+    },
+    {
+      "from": 190.3,
+      "to": 191.78,
+      "sid": 113,
+      "location": 2,
+      "content": "颜值呢也都是顶中顶的",
+      "music": 0.0
+    },
+    {
+      "from": 191.78,
+      "to": 193.08,
+      "sid": 114,
+      "location": 2,
+      "content": "一个是经典的蓝黑款",
+      "music": 0.0
+    },
+    {
+      "from": 193.08,
+      "to": 194.96,
+      "sid": 115,
+      "location": 2,
+      "content": "有一种这个传统电竞的美感",
+      "music": 0.0
+    },
+    {
+      "from": 194.96,
+      "to": 196.58,
+      "sid": 116,
+      "location": 2,
+      "content": "至于另外一款呢则是定制粉",
+      "music": 0.0
+    },
+    {
+      "from": 196.58,
+      "to": 199.58,
+      "sid": 117,
+      "location": 2,
+      "content": "应该是我目前见过的磁轴键盘里最好看的粉色",
+      "music": 0.0
+    },
+    {
+      "from": 199.58,
+      "to": 201.94,
+      "sid": 118,
+      "location": 2,
+      "content": "那么这款键盘采用了全铝CNC工艺",
+      "music": 0.0
+    },
+    {
+      "from": 201.94,
+      "to": 203.8,
+      "sid": 119,
+      "location": 2,
+      "content": "拿在手里就有一种很高档的感觉",
+      "music": 0.0
+    },
+    {
+      "from": 203.8,
+      "to": 205.4,
+      "sid": 120,
+      "location": 2,
+      "content": "质感拉满手感也很丝滑",
+      "music": 0.0
+    },
+    {
+      "from": 205.4,
+      "to": 208.0,
+      "sid": 121,
+      "location": 2,
+      "content": "EC63的蓝黑款有星轨磁磁玉轴",
+      "music": 0.0
+    },
+    {
+      "from": 208.0,
+      "to": 210.18,
+      "sid": 122,
+      "location": 2,
+      "content": "磁玉轴pro3个版本的轴体可以选",
+      "music": 0.0
+    },
+    {
+      "from": 210.18,
+      "to": 211.1,
+      "sid": 123,
+      "location": 2,
+      "content": "至于粉色款",
+      "music": 0.0
+    },
+    {
+      "from": 211.1,
+      "to": 214.02,
+      "sid": 124,
+      "location": 2,
+      "content": "采用的都是加大龙独家定制的粉色瓷玉轴",
+      "music": 0.0
+    },
+    {
+      "from": 214.02,
+      "to": 215.04,
+      "sid": 125,
+      "location": 2,
+      "content": "pro版本的一个轴体啊",
+      "music": 0.0
+    },
+    {
+      "from": 215.04,
+      "to": 217.92,
+      "sid": 126,
+      "location": 2,
+      "content": "那么同样的EZ63有着真8000HZ回报率",
+      "music": 0.0
+    },
+    {
+      "from": 217.92,
+      "to": 220.52,
+      "sid": 127,
+      "location": 2,
+      "content": "以及最低0.05mm的一个RT性能",
+      "music": 0.0
+    },
+    {
+      "from": 220.52,
+      "to": 222.16,
+      "sid": 128,
+      "location": 2,
+      "content": "在无畏圈里面摆设起来",
+      "music": 0.0
+    },
+    {
+      "from": 222.16,
+      "to": 223.0,
+      "sid": 129,
+      "location": 2,
+      "content": "在对手视角里",
+      "music": 0.0
+    },
+    {
+      "from": 223.0,
+      "to": 224.5,
+      "sid": 130,
+      "location": 2,
+      "content": "你真的是很难被打中的",
+      "music": 0.0
+    },
+    {
+      "from": 224.5,
+      "to": 225.38,
+      "sid": 131,
+      "location": 2,
+      "content": "那么在算法上",
+      "music": 0.0
+    },
+    {
+      "from": 225.38,
+      "to": 227.2,
+      "sid": 132,
+      "location": 2,
+      "content": "EC63采用了mat算法",
+      "music": 0.0
+    },
+    {
+      "from": 227.2,
+      "to": 228.72,
+      "sid": 133,
+      "location": 2,
+      "content": "能做到零段处零死区",
+      "music": 0.0
+    },
+    {
+      "from": 228.72,
+      "to": 231.54,
+      "sid": 134,
+      "location": 2,
+      "content": "在比较极限的RT设置下也能有很美的表现",
+      "music": 0.0
+    },
+    {
+      "from": 231.54,
+      "to": 232.62,
+      "sid": 135,
+      "location": 2,
+      "content": "在实战表现上",
+      "music": 0.0
+    },
+    {
+      "from": 232.62,
+      "to": 234.28,
+      "sid": 136,
+      "location": 2,
+      "content": "大家可以看后面上这一段素材",
+      "music": 0.0
+    },
+    {
+      "from": 234.28,
+      "to": 235.84,
+      "sid": 137,
+      "location": 2,
+      "content": "结合我们刚刚讲过的知识点",
+      "music": 0.0
+    },
+    {
+      "from": 235.84,
+      "to": 237.63,
+      "sid": 138,
+      "location": 2,
+      "content": "打出了最完美的身位控制范例",
+      "music": 0.0
+    },
+    {
+      "from": 237.63,
+      "to": 239.67,
+      "sid": 139,
+      "location": 2,
+      "content": "我们在空岛A区三箱这个地方",
+      "music": 0.0
+    },
+    {
+      "from": 239.67,
+      "to": 240.91,
+      "sid": 140,
+      "location": 2,
+      "content": "面临着一个一打三的残局",
+      "music": 0.0
+    },
+    {
+      "from": 240.91,
+      "to": 242.75,
+      "sid": 141,
+      "location": 2,
+      "content": "我们先抓侧身抓掉猎枭",
+      "music": 0.0
+    },
+    {
+      "from": 242.75,
+      "to": 244.49,
+      "sid": 142,
+      "location": 2,
+      "content": "然后省了贴墙晃身的技巧",
+      "music": 0.0
+    },
+    {
+      "from": 244.49,
+      "to": 245.67,
+      "sid": 143,
+      "location": 2,
+      "content": "锁定雷达位置",
+      "music": 0.0
+    },
+    {
+      "from": 245.67,
+      "to": 247.07,
+      "sid": 144,
+      "location": 2,
+      "content": "在局部一打的情况下",
+      "music": 0.0
+    },
+    {
+      "from": 247.07,
+      "to": 249.27,
+      "sid": 145,
+      "location": 2,
+      "content": "我们想通过大大提枪拿下这个人头",
+      "music": 0.0
+    },
+    {
+      "from": 249.27,
+      "to": 250.07,
+      "sid": 146,
+      "location": 2,
+      "content": "但并未成功",
+      "music": 0.0
+    },
+    {
+      "from": 250.07,
+      "to": 251.83,
+      "sid": 147,
+      "location": 2,
+      "content": "在回到掩体换子的过程中",
+      "music": 0.0
+    },
+    {
+      "from": 251.83,
+      "to": 254.26,
+      "sid": 148,
+      "location": 2,
+      "content": "我们听到了敌方齐乐大脚步过来帮忙了",
+      "music": 0.0
+    },
+    {
+      "from": 254.26,
+      "to": 256.14,
+      "sid": 149,
+      "location": 2,
+      "content": "这意味着我们不再是一打一了",
+      "music": 0.0
+    },
+    {
+      "from": 256.14,
+      "to": 258.8,
+      "sid": 150,
+      "location": 2,
+      "content": "那孤注一掷的贴墙大拉技巧就不好用了",
+      "music": 0.0
+    },
+    {
+      "from": 258.8,
+      "to": 260.459,
+      "sid": 151,
+      "location": 2,
+      "content": "所以我们拉远了和掩体的距离",
+      "music": 0.0
+    },
+    {
+      "from": 260.459,
+      "to": 262.179,
+      "sid": 152,
+      "location": 2,
+      "content": "已借助EZ63极致性能",
+      "music": 0.0
+    },
+    {
+      "from": 262.179,
+      "to": 263.719,
+      "sid": 153,
+      "location": 2,
+      "content": "非常精细的拆分了枪线",
+      "music": 0.0
+    },
+    {
+      "from": 263.719,
+      "to": 264.979,
+      "sid": 154,
+      "location": 2,
+      "content": "先击杀掉了奇洛",
+      "music": 0.0
+    },
+    {
+      "from": 264.979,
+      "to": 266.5,
+      "sid": 155,
+      "location": 2,
+      "content": "在进入一打一局面之后",
+      "music": 0.0
+    },
+    {
+      "from": 266.5,
+      "to": 267.66,
+      "sid": 156,
+      "location": 2,
+      "content": "我们缩到三项掩体后",
+      "music": 0.0
+    },
+    {
+      "from": 267.66,
+      "to": 269.1,
+      "sid": 157,
+      "location": 2,
+      "content": "通过脚步锁定雷纳",
+      "music": 0.0
+    },
+    {
+      "from": 269.1,
+      "to": 269.64,
+      "sid": 158,
+      "location": 2,
+      "content": "在电箱",
+      "music": 0.0
+    },
+    {
+      "from": 269.64,
+      "to": 271.02,
+      "sid": 159,
+      "location": 2,
+      "content": "我们直接一个贴墙大拉",
+      "music": 0.0
+    },
+    {
+      "from": 271.02,
+      "to": 272.14,
+      "sid": 160,
+      "location": 2,
+      "content": "收下了最后一个人头",
+      "music": 0.0
+    },
+    {
+      "from": 272.14,
+      "to": 273.36,
+      "sid": 161,
+      "location": 2,
+      "content": "最合理的peek方式",
+      "music": 0.0
+    },
+    {
+      "from": 273.36,
+      "to": 274.54,
+      "sid": 162,
+      "location": 2,
+      "content": "搭配最顶级的外设",
+      "music": 0.0
+    },
+    {
+      "from": 274.54,
+      "to": 276.18,
+      "sid": 163,
+      "location": 2,
+      "content": "我们打出了最完美的身位控制",
+      "music": 0.0
+    },
+    {
+      "from": 276.18,
+      "to": 276.85,
+      "sid": 164,
+      "location": 2,
+      "content": "一打多啊",
+      "music": 0.0
+    },
+    {
+      "from": 276.85,
+      "to": 279.85,
+      "sid": 165,
+      "location": 2,
+      "content": "那我们讲完反直觉的这个贴墙大拉的技巧",
+      "music": 0.0
+    },
+    {
+      "from": 279.85,
+      "to": 281.65,
+      "sid": 166,
+      "location": 2,
+      "content": "接着讲一下对枪距离和高度差",
+      "music": 0.0
+    },
+    {
+      "from": 281.65,
+      "to": 282.9,
+      "sid": 167,
+      "location": 2,
+      "content": "对于peek产生的影响",
+      "music": 0.0
+    },
+    {
+      "from": 282.9,
+      "to": 285.18,
+      "sid": 168,
+      "location": 2,
+      "content": "在无畏契约这样的追求爆头秒杀",
+      "music": 0.0
+    },
+    {
+      "from": 285.18,
+      "to": 286.34,
+      "sid": 169,
+      "location": 2,
+      "content": "短期A游戏里面",
+      "music": 0.0
+    },
+    {
+      "from": 286.34,
+      "to": 287.12,
+      "sid": 170,
+      "location": 2,
+      "content": "距离越远",
+      "music": 0.0
+    },
+    {
+      "from": 287.12,
+      "to": 289.92,
+      "sid": 171,
+      "location": 2,
+      "content": "意味着敌人脑袋在你显示器上也会看着更小",
+      "music": 0.0
+    },
+    {
+      "from": 289.92,
+      "to": 291.7,
+      "sid": 172,
+      "location": 2,
+      "content": "架起枪来也会更具有难度",
+      "music": 0.0
+    },
+    {
+      "from": 291.7,
+      "to": 294.46,
+      "sid": 173,
+      "location": 2,
+      "content": "再加上架枪所带来的潜在走神可能性",
+      "music": 0.0
+    },
+    {
+      "from": 294.46,
+      "to": 295.4,
+      "sid": 174,
+      "location": 2,
+      "content": "对枪距离越远",
+      "music": 0.0
+    },
+    {
+      "from": 295.4,
+      "to": 296.66,
+      "sid": 175,
+      "location": 2,
+      "content": "架枪方就会更劣势",
+      "music": 0.0
+    },
+    {
+      "from": 296.66,
+      "to": 298.14,
+      "sid": 176,
+      "location": 2,
+      "content": "peek方就会更有优势啊",
+      "music": 0.0
+    },
+    {
+      "from": 298.14,
+      "to": 300.58,
+      "sid": 177,
+      "location": 2,
+      "content": "像森安东港的中国枪位就是一个很好的例子",
+      "music": 0.0
+    },
+    {
+      "from": 300.58,
+      "to": 301.96,
+      "sid": 178,
+      "location": 2,
+      "content": "pk方只要做好预瞄",
+      "music": 0.0
+    },
+    {
+      "from": 301.96,
+      "to": 304.34,
+      "sid": 179,
+      "location": 2,
+      "content": "相比较有架枪方在拉远距离的情况下",
+      "music": 0.0
+    },
+    {
+      "from": 304.34,
+      "to": 305.48,
+      "sid": 180,
+      "location": 2,
+      "content": "其实是更具优势的",
+      "music": 0.0
+    },
+    {
+      "from": 305.48,
+      "to": 307.01,
+      "sid": 181,
+      "location": 2,
+      "content": "然后呢我们讲一下高度差",
+      "music": 0.0
+    },
+    {
+      "from": 307.01,
+      "to": 307.93,
+      "sid": 182,
+      "location": 2,
+      "content": "如画面所示",
+      "music": 0.0
+    },
+    {
+      "from": 307.93,
+      "to": 308.73,
+      "sid": 183,
+      "location": 2,
+      "content": "在平地上",
+      "music": 0.0
+    },
+    {
+      "from": 308.73,
+      "to": 310.09,
+      "sid": 184,
+      "location": 2,
+      "content": "无论敌人怎么peek出来",
+      "music": 0.0
+    },
+    {
+      "from": 310.09,
+      "to": 311.13,
+      "sid": 185,
+      "location": 2,
+      "content": "头线都是固定的",
+      "music": 0.0
+    },
+    {
+      "from": 311.13,
+      "to": 312.57,
+      "sid": 186,
+      "location": 2,
+      "content": "但是在有高低差的地形下",
+      "music": 0.0
+    },
+    {
+      "from": 312.57,
+      "to": 314.37,
+      "sid": 187,
+      "location": 2,
+      "content": "鱼苗的头线就不再是固定的了",
+      "music": 0.0
+    },
+    {
+      "from": 314.37,
+      "to": 315.05,
+      "sid": 188,
+      "location": 2,
+      "content": "你站在这里",
+      "music": 0.0
+    },
+    {
+      "from": 315.05,
+      "to": 316.42,
+      "sid": 189,
+      "location": 2,
+      "content": "敌人如果在广角拉出来",
+      "music": 0.0
+    },
+    {
+      "from": 316.42,
+      "to": 317.52,
+      "sid": 190,
+      "location": 2,
+      "content": "头线就是这样的",
+      "music": 0.0
+    },
+    {
+      "from": 317.52,
+      "to": 317.98,
+      "sid": 191,
+      "location": 2,
+      "content": "相反的",
+      "music": 0.0
+    },
+    {
+      "from": 317.98,
+      "to": 319.3,
+      "sid": 192,
+      "location": 2,
+      "content": "如果敌人从近角拉出来",
+      "music": 0.0
+    },
+    {
+      "from": 319.3,
+      "to": 320.56,
+      "sid": 193,
+      "location": 2,
+      "content": "那头线就是这样的",
+      "music": 0.0
+    },
+    {
+      "from": 320.56,
+      "to": 321.12,
+      "sid": 194,
+      "location": 2,
+      "content": "高度差",
+      "music": 0.0
+    },
+    {
+      "from": 321.12,
+      "to": 322.8,
+      "sid": 195,
+      "location": 2,
+      "content": "会带来预瞄头像一个不固定",
+      "music": 0.0
+    },
+    {
+      "from": 322.8,
+      "to": 324.84,
+      "sid": 196,
+      "location": 2,
+      "content": "我们在很多FS里面会有个概念",
+      "music": 0.0
+    },
+    {
+      "from": 324.84,
+      "to": 326.33,
+      "sid": 197,
+      "location": 2,
+      "content": "就是高打低打什么什么",
+      "music": 0.0
+    },
+    {
+      "from": 326.33,
+      "to": 328.61,
+      "sid": 198,
+      "location": 2,
+      "content": "但这个概念在无畏区里并不绝对",
+      "music": 0.0
+    },
+    {
+      "from": 328.61,
+      "to": 329.37,
+      "sid": 199,
+      "location": 2,
+      "content": "那么高打低",
+      "music": 0.0
+    },
+    {
+      "from": 329.37,
+      "to": 330.93,
+      "sid": 200,
+      "location": 2,
+      "content": "在较长TTK的射击游戏里面",
+      "music": 0.0
+    },
+    {
+      "from": 330.93,
+      "to": 332.05,
+      "sid": 201,
+      "location": 2,
+      "content": "主要的优势就在于",
+      "music": 0.0
+    },
+    {
+      "from": 332.05,
+      "to": 334.17,
+      "sid": 202,
+      "location": 2,
+      "content": "站在高点的人有着peek的主动权",
+      "music": 0.0
+    },
+    {
+      "from": 334.17,
+      "to": 335.97,
+      "sid": 203,
+      "location": 2,
+      "content": "他可以自己把握peek的时机",
+      "music": 0.0
+    },
+    {
+      "from": 335.97,
+      "to": 338.44,
+      "sid": 204,
+      "location": 2,
+      "content": "用多次的peek来磨处在低位的敌人血量",
+      "music": 0.0
+    },
+    {
+      "from": 338.44,
+      "to": 340.6,
+      "sid": 205,
+      "location": 2,
+      "content": "但在无畏契约这样短ta射击游戏里面",
+      "music": 0.0
+    },
+    {
+      "from": 340.6,
+      "to": 342.04,
+      "sid": 206,
+      "location": 2,
+      "content": "击杀敌人只需要一枪头",
+      "music": 0.0
+    },
+    {
+      "from": 342.04,
+      "to": 343.08,
+      "sid": 207,
+      "location": 2,
+      "content": "那在这样的情况下",
+      "music": 0.0
+    },
+    {
+      "from": 343.08,
+      "to": 344.88,
+      "sid": 208,
+      "location": 2,
+      "content": "相比赵云所谓的高打低的优势",
+      "music": 0.0
+    },
+    {
+      "from": 344.88,
+      "to": 346.48,
+      "sid": 209,
+      "location": 2,
+      "content": "反而会使预瞄头线的不固定",
+      "music": 0.0
+    },
+    {
+      "from": 346.48,
+      "to": 347.76,
+      "sid": 210,
+      "location": 2,
+      "content": "会更加影响架枪",
+      "music": 0.0
+    },
+    {
+      "from": 347.76,
+      "to": 349.98,
+      "sid": 211,
+      "location": 2,
+      "content": "那么将上述的两个知识点带到实战里",
+      "music": 0.0
+    },
+    {
+      "from": 349.98,
+      "to": 352.22,
+      "sid": 212,
+      "location": 2,
+      "content": "比较经典的就是UC地库中路台阶",
+      "music": 0.0
+    },
+    {
+      "from": 352.22,
+      "to": 352.78,
+      "sid": 213,
+      "location": 2,
+      "content": "这个枪位",
+      "music": 0.0
+    },
+    {
+      "from": 352.78,
+      "to": 355.58,
+      "sid": 214,
+      "location": 2,
+      "content": "很多少位玩家喜欢在这个枪位上断敌人的回防",
+      "music": 0.0
+    },
+    {
+      "from": 355.58,
+      "to": 356.64,
+      "sid": 215,
+      "location": 2,
+      "content": "就在敌人去打B",
+      "music": 0.0
+    },
+    {
+      "from": 356.64,
+      "to": 359.2,
+      "sid": 216,
+      "location": 2,
+      "content": "你来断这个从A回防B的防守方的时候",
+      "music": 0.0
+    },
+    {
+      "from": 359.2,
+      "to": 359.96,
+      "sid": 217,
+      "location": 2,
+      "content": "是没问题的",
+      "music": 0.0
+    },
+    {
+      "from": 359.96,
+      "to": 361.54,
+      "sid": 218,
+      "location": 2,
+      "content": "因为这算是一个优势的过点位",
+      "music": 0.0
+    },
+    {
+      "from": 361.54,
+      "to": 363.7,
+      "sid": 219,
+      "location": 2,
+      "content": "你站这里很可能会跳过敌人的预瞄顺序",
+      "music": 0.0
+    },
+    {
+      "from": 363.7,
+      "to": 365.34,
+      "sid": 220,
+      "location": 2,
+      "content": "但假如是队友去打",
+      "music": 0.0
+    },
+    {
+      "from": 365.34,
+      "to": 367.98,
+      "sid": 221,
+      "location": 2,
+      "content": "你在断从B往A回防的防守方的情况下",
+      "music": 0.0
+    },
+    {
+      "from": 367.98,
+      "to": 369.62,
+      "sid": 222,
+      "location": 2,
+      "content": "这个位置就不再是一个好位置了",
+      "music": 0.0
+    },
+    {
+      "from": 369.62,
+      "to": 371.74,
+      "sid": 223,
+      "location": 2,
+      "content": "大家会发现这个枪位对枪距离又远",
+      "music": 0.0
+    },
+    {
+      "from": 371.74,
+      "to": 372.659,
+      "sid": 224,
+      "location": 2,
+      "content": "还有高度差",
+      "music": 0.0
+    },
+    {
+      "from": 372.659,
+      "to": 374.359,
+      "sid": 225,
+      "location": 2,
+      "content": "所以架枪难度是很高的",
+      "music": 0.0
+    },
+    {
+      "from": 374.359,
+      "to": 376.059,
+      "sid": 226,
+      "location": 2,
+      "content": "只要回防的人做好预瞄",
+      "music": 0.0
+    },
+    {
+      "from": 376.059,
+      "to": 378.239,
+      "sid": 227,
+      "location": 2,
+      "content": "反而是peek那一方更占优势",
+      "music": 0.0
+    },
+    {
+      "from": 378.239,
+      "to": 380.659,
+      "sid": 228,
+      "location": 2,
+      "content": "所以说想要断从B往A回防的防守方",
+      "music": 0.0
+    },
+    {
+      "from": 380.659,
+      "to": 382.14,
+      "sid": 229,
+      "location": 2,
+      "content": "我更推荐大家站这里",
+      "music": 0.0
+    },
+    {
+      "from": 382.14,
+      "to": 384.08,
+      "sid": 230,
+      "location": 2,
+      "content": "这个位置呢高度差相对比较小",
+      "music": 0.0
+    },
+    {
+      "from": 384.08,
+      "to": 385.22,
+      "sid": 231,
+      "location": 2,
+      "content": "头线也比较固定",
+      "music": 0.0
+    },
+    {
+      "from": 385.22,
+      "to": 386.46,
+      "sid": 232,
+      "location": 2,
+      "content": "而且还算是个飞秒",
+      "music": 0.0
+    },
+    {
+      "from": 386.46,
+      "to": 386.66,
+      "sid": 233,
+      "location": 2,
+      "content": "尾",
+      "music": 0.0
+    },
+    {
+      "from": 386.66,
+      "to": 388.06,
+      "sid": 234,
+      "location": 2,
+      "content": "架起来会更简单一些",
+      "music": 0.0
+    },
+    {
+      "from": 388.06,
+      "to": 388.9,
+      "sid": 235,
+      "location": 2,
+      "content": "那今天视频讲到",
+      "music": 0.0
+    },
+    {
+      "from": 388.9,
+      "to": 389.7,
+      "sid": 236,
+      "location": 2,
+      "content": "这也到了尾声",
+      "music": 0.0
+    },
+    {
+      "from": 389.7,
+      "to": 390.5,
+      "sid": 237,
+      "location": 2,
+      "content": "那么在视频的最后",
+      "music": 0.0
+    },
+    {
+      "from": 390.5,
+      "to": 391.58,
+      "sid": 238,
+      "location": 2,
+      "content": "我们还是得再提一下",
+      "music": 0.0
+    },
+    {
+      "from": 391.58,
+      "to": 394.08,
+      "sid": 239,
+      "location": 2,
+      "content": "我们现在使用的这款铝厂的EZ63键盘",
+      "music": 0.0
+    },
+    {
+      "from": 394.08,
+      "to": 395.32,
+      "sid": 240,
+      "location": 2,
+      "content": "性能上做到了极致的",
+      "music": 0.0
+    },
+    {
+      "from": 395.32,
+      "to": 395.68,
+      "sid": 241,
+      "location": 2,
+      "content": "同时",
+      "music": 0.0
+    },
+    {
+      "from": 395.68,
+      "to": 397.36,
+      "sid": 242,
+      "location": 2,
+      "content": "在质感和颜值上也做到了完美",
+      "music": 0.0
+    },
+    {
+      "from": 397.36,
+      "to": 399.1,
+      "sid": 243,
+      "location": 2,
+      "content": "甚至在键盘的敲击声音上",
+      "music": 0.0
+    },
+    {
+      "from": 399.1,
+      "to": 400.52,
+      "sid": 244,
+      "location": 2,
+      "content": "EZ63也很好听",
+      "music": 0.0
+    },
+    {
+      "from": 400.52,
+      "to": 402.54,
+      "sid": 245,
+      "location": 2,
+      "content": "假如说你对键盘素质有较高的要求",
+      "music": 0.0
+    },
+    {
+      "from": 402.54,
+      "to": 403.78,
+      "sid": 246,
+      "location": 2,
+      "content": "也有相对应的预算",
+      "music": 0.0
+    },
+    {
+      "from": 403.78,
+      "to": 405.96,
+      "sid": 247,
+      "location": 2,
+      "content": "那铝厂的EZ63就是最佳之选",
+      "music": 0.0
+    },
+    {
+      "from": 405.96,
+      "to": 406.82,
+      "sid": 248,
+      "location": 2,
+      "content": "一步到位",
+      "music": 0.0
+    },
+    {
+      "from": 406.82,
+      "to": 408.1,
+      "sid": 249,
+      "location": 2,
+      "content": "那今天视频就到这里",
+      "music": 0.0
+    },
+    {
+      "from": 408.1,
+      "to": 409.48,
+      "sid": 250,
+      "location": 2,
+      "content": "我们下期视频再见",
+      "music": 0.0
+    }
+  ]
+}

@@ -1,0 +1,1180 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "1.5.0",
+  "body": [
+    {
+      "from": 0.12,
+      "to": 0.54,
+      "sid": 1,
+      "location": 2,
+      "content": "来了来了",
+      "music": 0.0
+    },
+    {
+      "from": 0.54,
+      "to": 1.08,
+      "sid": 2,
+      "location": 2,
+      "content": "好兄弟们",
+      "music": 0.0
+    },
+    {
+      "from": 1.08,
+      "to": 2.64,
+      "sid": 3,
+      "location": 2,
+      "content": "在无畏契约国服上线之后",
+      "music": 0.0
+    },
+    {
+      "from": 2.64,
+      "to": 4.8,
+      "sid": 4,
+      "location": 2,
+      "content": "最近入坑无畏契约的好兄弟们越来越多",
+      "music": 0.0
+    },
+    {
+      "from": 4.8,
+      "to": 6.84,
+      "sid": 5,
+      "location": 2,
+      "content": "本期视频是一期无畏契约实战项",
+      "music": 0.0
+    },
+    {
+      "from": 6.84,
+      "to": 8.02,
+      "sid": 6,
+      "location": 2,
+      "content": "的新手进阶攻略",
+      "music": 0.0
+    },
+    {
+      "from": 8.02,
+      "to": 8.74,
+      "sid": 7,
+      "location": 2,
+      "content": "看完本期视频",
+      "music": 0.0
+    },
+    {
+      "from": 8.74,
+      "to": 10.84,
+      "sid": 8,
+      "location": 2,
+      "content": "你将彻底读懂并学会急停",
+      "music": 0.0
+    },
+    {
+      "from": 10.84,
+      "to": 13.36,
+      "sid": 9,
+      "location": 2,
+      "content": "peek预瞄近大远小大拉小拉",
+      "music": 0.0
+    },
+    {
+      "from": 13.36,
+      "to": 13.78,
+      "sid": 10,
+      "location": 2,
+      "content": "无声",
+      "music": 0.0
+    },
+    {
+      "from": 13.78,
+      "to": 15.1,
+      "sid": 11,
+      "location": 2,
+      "content": "peek旋转跳等等",
+      "music": 0.0
+    },
+    {
+      "from": 15.1,
+      "to": 17.32,
+      "sid": 12,
+      "location": 2,
+      "content": "一些在无畏契约中超级实用的技巧",
+      "music": 0.0
+    },
+    {
+      "from": 17.32,
+      "to": 19.72,
+      "sid": 13,
+      "location": 2,
+      "content": "快跟你一起开黑的好兄弟们一起来学吧",
+      "music": 0.0
+    },
+    {
+      "from": 19.72,
+      "to": 20.62,
+      "sid": 14,
+      "location": 2,
+      "content": "首先是急停",
+      "music": 0.0
+    },
+    {
+      "from": 20.62,
+      "to": 21.52,
+      "sid": 15,
+      "location": 2,
+      "content": "在无畏契约中",
+      "music": 0.0
+    },
+    {
+      "from": 21.52,
+      "to": 24.16,
+      "sid": 16,
+      "location": 2,
+      "content": "大部分枪械都是需要先停稳后再开枪",
+      "music": 0.0
+    },
+    {
+      "from": 24.16,
+      "to": 25.72,
+      "sid": 17,
+      "location": 2,
+      "content": "以换取最大的射击精准度",
+      "music": 0.0
+    },
+    {
+      "from": 25.72,
+      "to": 26.68,
+      "sid": 18,
+      "location": 2,
+      "content": "但在无畏契约中",
+      "music": 0.0
+    },
+    {
+      "from": 26.68,
+      "to": 28.1,
+      "sid": 19,
+      "location": 2,
+      "content": "人物的惯性相对较小",
+      "music": 0.0
+    },
+    {
+      "from": 28.1,
+      "to": 30.8,
+      "sid": 20,
+      "location": 2,
+      "content": "就是不太需要像其他传统FPS的游戏那样",
+      "music": 0.0
+    },
+    {
+      "from": 30.8,
+      "to": 32.96,
+      "sid": 21,
+      "location": 2,
+      "content": "按下反方向键来对冲人物惯性",
+      "music": 0.0
+    },
+    {
+      "from": 32.96,
+      "to": 34.1,
+      "sid": 22,
+      "location": 2,
+      "content": "从而做到快速急停",
+      "music": 0.0
+    },
+    {
+      "from": 34.1,
+      "to": 35.0,
+      "sid": 23,
+      "location": 2,
+      "content": "在无畏契约中",
+      "music": 0.0
+    },
+    {
+      "from": 35.0,
+      "to": 37.74,
+      "sid": 24,
+      "location": 2,
+      "content": "我们可以采用松开方向键的方法完成急停",
+      "music": 0.0
+    },
+    {
+      "from": 37.74,
+      "to": 40.8,
+      "sid": 25,
+      "location": 2,
+      "content": "而且这种方法对于没有FPS基础的萌新来说",
+      "music": 0.0
+    },
+    {
+      "from": 40.8,
+      "to": 41.7,
+      "sid": 26,
+      "location": 2,
+      "content": "更加容易上手",
+      "music": 0.0
+    },
+    {
+      "from": 41.7,
+      "to": 43.74,
+      "sid": 27,
+      "location": 2,
+      "content": "但是如果你已经在其他游戏中",
+      "music": 0.0
+    },
+    {
+      "from": 43.74,
+      "to": 45.24,
+      "sid": 28,
+      "location": 2,
+      "content": "习惯了反方向键的急停",
+      "music": 0.0
+    },
+    {
+      "from": 45.24,
+      "to": 46.8,
+      "sid": 29,
+      "location": 2,
+      "content": "也可以继续沿用这个好习惯",
+      "music": 0.0
+    },
+    {
+      "from": 46.8,
+      "to": 49.38,
+      "sid": 30,
+      "location": 2,
+      "content": "因为反方向键急停的上限还是会更高一些",
+      "music": 0.0
+    },
+    {
+      "from": 49.38,
+      "to": 50.62,
+      "sid": 31,
+      "location": 2,
+      "content": "那在讲peek之前",
+      "music": 0.0
+    },
+    {
+      "from": 50.62,
+      "to": 51.64,
+      "sid": 32,
+      "location": 2,
+      "content": "其实无味觉中",
+      "music": 0.0
+    },
+    {
+      "from": 51.64,
+      "to": 54.1,
+      "sid": 33,
+      "location": 2,
+      "content": "有一个是这里超级实用的蹭枪技巧",
+      "music": 0.0
+    },
+    {
+      "from": 54.1,
+      "to": 56.4,
+      "sid": 34,
+      "location": 2,
+      "content": "不分up主可能喜欢称其为摆设",
+      "music": 0.0
+    },
+    {
+      "from": 56.4,
+      "to": 57.12,
+      "sid": 35,
+      "location": 2,
+      "content": "利用蹭枪",
+      "music": 0.0
+    },
+    {
+      "from": 57.12,
+      "to": 59.82,
+      "sid": 36,
+      "location": 2,
+      "content": "我们可以几乎百分百的白嫖到开枪的机会",
+      "music": 0.0
+    },
+    {
+      "from": 59.82,
+      "to": 61.42,
+      "sid": 37,
+      "location": 2,
+      "content": "且敌人还没有还手的",
+      "music": 0.0
+    },
+    {
+      "from": 61.42,
+      "to": 64.6,
+      "sid": 38,
+      "location": 2,
+      "content": "简单来说就是在我们小身位拉出掩体后的瞬间",
+      "music": 0.0
+    },
+    {
+      "from": 64.6,
+      "to": 65.56,
+      "sid": 39,
+      "location": 2,
+      "content": "按下防弹的键",
+      "music": 0.0
+    },
+    {
+      "from": 65.56,
+      "to": 66.72,
+      "sid": 40,
+      "location": 2,
+      "content": "拉回掩体",
+      "music": 0.0
+    },
+    {
+      "from": 66.72,
+      "to": 68.58,
+      "sid": 41,
+      "location": 2,
+      "content": "对于我们移动的方向发生了变化",
+      "music": 0.0
+    },
+    {
+      "from": 68.58,
+      "to": 70.64,
+      "sid": 42,
+      "location": 2,
+      "content": "我们就会受到移动的变相惩罚",
+      "music": 0.0
+    },
+    {
+      "from": 70.64,
+      "to": 72.56,
+      "sid": 43,
+      "location": 2,
+      "content": "此时我们的移速无限趋近于零",
+      "music": 0.0
+    },
+    {
+      "from": 72.56,
+      "to": 74.9,
+      "sid": 44,
+      "location": 2,
+      "content": "利用这零点几秒的移速空档期开枪",
+      "music": 0.0
+    },
+    {
+      "from": 74.9,
+      "to": 76.8,
+      "sid": 45,
+      "location": 2,
+      "content": "我们的担当就是相对稳定的新手",
+      "music": 0.0
+    },
+    {
+      "from": 76.8,
+      "to": 78.42,
+      "sid": 46,
+      "location": 2,
+      "content": "在刚接触蹭向的初期",
+      "music": 0.0
+    },
+    {
+      "from": 78.42,
+      "to": 79.98,
+      "sid": 47,
+      "location": 2,
+      "content": "建议在训练场用奶妈",
+      "music": 0.0
+    },
+    {
+      "from": 79.98,
+      "to": 81.3,
+      "sid": 48,
+      "location": 2,
+      "content": "然后蹭冰墙练习",
+      "music": 0.0
+    },
+    {
+      "from": 81.3,
+      "to": 83.34,
+      "sid": 49,
+      "location": 2,
+      "content": "直至找到无畏屈的蹭蹭节奏即可",
+      "music": 0.0
+    },
+    {
+      "from": 83.34,
+      "to": 84.24,
+      "sid": 50,
+      "location": 2,
+      "content": "然后就是peek",
+      "music": 0.0
+    },
+    {
+      "from": 84.24,
+      "to": 86.7,
+      "sid": 51,
+      "location": 2,
+      "content": "peek指的是我们主动从掩体后拉出身位",
+      "music": 0.0
+    },
+    {
+      "from": 86.7,
+      "to": 87.88,
+      "sid": 52,
+      "location": 2,
+      "content": "来创造设计机会",
+      "music": 0.0
+    },
+    {
+      "from": 87.88,
+      "to": 90.22,
+      "sid": 53,
+      "location": 2,
+      "content": "但实战里一般要结合我们的预瞄来使用",
+      "music": 0.0
+    },
+    {
+      "from": 90.22,
+      "to": 92.2,
+      "sid": 54,
+      "location": 2,
+      "content": "而且为了提高我们对枪的胜率",
+      "music": 0.0
+    },
+    {
+      "from": 92.2,
+      "to": 95.74,
+      "sid": 55,
+      "location": 2,
+      "content": "一般在我们peek时都会尽可能的预瞄点头像",
+      "music": 0.0
+    },
+    {
+      "from": 95.74,
+      "to": 97.24,
+      "sid": 56,
+      "location": 2,
+      "content": "智力也提子其他元小鸡",
+      "music": 0.0
+    },
+    {
+      "from": 97.24,
+      "to": 99.14,
+      "sid": 57,
+      "location": 2,
+      "content": "三元小指的是在同一掩体下",
+      "music": 0.0
+    },
+    {
+      "from": 99.14,
+      "to": 100.64,
+      "sid": 58,
+      "location": 2,
+      "content": "距离掩体较近的一方",
+      "music": 0.0
+    },
+    {
+      "from": 100.64,
+      "to": 103.46,
+      "sid": 59,
+      "location": 2,
+      "content": "会被距离掩体较远的一方所提前发现",
+      "music": 0.0
+    },
+    {
+      "from": 103.46,
+      "to": 104.06,
+      "sid": 60,
+      "location": 2,
+      "content": "实战距离",
+      "music": 0.0
+    },
+    {
+      "from": 104.06,
+      "to": 106.2,
+      "sid": 61,
+      "location": 2,
+      "content": "烟男相对于火男距离掩体较远",
+      "music": 0.0
+    },
+    {
+      "from": 106.2,
+      "to": 107.94,
+      "sid": 62,
+      "location": 2,
+      "content": "所以烟男就是优先发现火男",
+      "music": 0.0
+    },
+    {
+      "from": 107.94,
+      "to": 108.96,
+      "sid": 63,
+      "location": 2,
+      "content": "这就是近大远小",
+      "music": 0.0
+    },
+    {
+      "from": 108.96,
+      "to": 110.64,
+      "sid": 64,
+      "location": 2,
+      "content": "在理解了近大远小的概念后",
+      "music": 0.0
+    },
+    {
+      "from": 110.64,
+      "to": 111.66,
+      "sid": 65,
+      "location": 2,
+      "content": "我们就来分享一下",
+      "music": 0.0
+    },
+    {
+      "from": 111.66,
+      "to": 114.42,
+      "sid": 66,
+      "location": 2,
+      "content": "怎么样peek可以提高我们的peek对枪胜率",
+      "music": 0.0
+    },
+    {
+      "from": 114.42,
+      "to": 115.62,
+      "sid": 67,
+      "location": 2,
+      "content": "上面我们已经提到了",
+      "music": 0.0
+    },
+    {
+      "from": 115.62,
+      "to": 116.34,
+      "sid": 68,
+      "location": 2,
+      "content": "在peek时",
+      "music": 0.0
+    },
+    {
+      "from": 116.34,
+      "to": 117.72,
+      "sid": 69,
+      "location": 2,
+      "content": "我们要结合我们的预瞄",
+      "music": 0.0
+    },
+    {
+      "from": 117.72,
+      "to": 119.8,
+      "sid": 70,
+      "location": 2,
+      "content": "同时还要尽量预瞄到敌人头像",
+      "music": 0.0
+    },
+    {
+      "from": 119.8,
+      "to": 121.9,
+      "sid": 71,
+      "location": 2,
+      "content": "然后就是要利用近大远小的机制",
+      "music": 0.0
+    },
+    {
+      "from": 121.9,
+      "to": 124.96,
+      "sid": 72,
+      "location": 2,
+      "content": "在peek时尽量不要让自己被敌人先发现",
+      "music": 0.0
+    },
+    {
+      "from": 124.96,
+      "to": 127.64,
+      "sid": 73,
+      "location": 2,
+      "content": "如果我们在peek时处在一些特别劣势的位置",
+      "music": 0.0
+    },
+    {
+      "from": 127.64,
+      "to": 130.04,
+      "sid": 74,
+      "location": 2,
+      "content": "尽量不要贴着面前的墙peek",
+      "music": 0.0
+    },
+    {
+      "from": 130.04,
+      "to": 131.18,
+      "sid": 75,
+      "location": 2,
+      "content": "除非你选择大浪",
+      "music": 0.0
+    },
+    {
+      "from": 131.18,
+      "to": 133.2,
+      "sid": 76,
+      "location": 2,
+      "content": "否则你大概率就会被敌人架住",
+      "music": 0.0
+    },
+    {
+      "from": 133.2,
+      "to": 135.24,
+      "sid": 77,
+      "location": 2,
+      "content": "大拉指的是在我们拉出掩体后",
+      "music": 0.0
+    },
+    {
+      "from": 135.24,
+      "to": 136.23,
+      "sid": 78,
+      "location": 2,
+      "content": "依然保持移动",
+      "music": 0.0
+    },
+    {
+      "from": 136.23,
+      "to": 138.54,
+      "sid": 79,
+      "location": 2,
+      "content": "尽量移动到远离敌人预瞄的位置",
+      "music": 0.0
+    },
+    {
+      "from": 138.54,
+      "to": 141.0,
+      "sid": 80,
+      "location": 2,
+      "content": "或者当敌人马枪后再选择开枪",
+      "music": 0.0
+    },
+    {
+      "from": 141.0,
+      "to": 143.34,
+      "sid": 81,
+      "location": 2,
+      "content": "注意当我们在进行大拉的动作时",
+      "music": 0.0
+    },
+    {
+      "from": 143.34,
+      "to": 145.32,
+      "sid": 82,
+      "location": 2,
+      "content": "准心时刻都要放在敌人的头上",
+      "music": 0.0
+    },
+    {
+      "from": 145.32,
+      "to": 148.5,
+      "sid": 83,
+      "location": 2,
+      "content": "这样我们才可以做到停下的瞬间就将敌人秒杀",
+      "music": 0.0
+    },
+    {
+      "from": 148.5,
+      "to": 149.48,
+      "sid": 84,
+      "location": 2,
+      "content": "分享完了大拉",
+      "music": 0.0
+    },
+    {
+      "from": 149.48,
+      "to": 149.9,
+      "sid": 85,
+      "location": 2,
+      "content": "当然了",
+      "music": 0.0
+    },
+    {
+      "from": 149.9,
+      "to": 151.04,
+      "sid": 86,
+      "location": 2,
+      "content": "其实在无畏契约中",
+      "music": 0.0
+    },
+    {
+      "from": 151.04,
+      "to": 152.3,
+      "sid": 87,
+      "location": 2,
+      "content": "还有一种无声小了",
+      "music": 0.0
+    },
+    {
+      "from": 152.3,
+      "to": 154.72,
+      "sid": 88,
+      "location": 2,
+      "content": "部分up主可能喜欢称其为无声peek",
+      "music": 0.0
+    },
+    {
+      "from": 154.72,
+      "to": 157.42,
+      "sid": 89,
+      "location": 2,
+      "content": "无声小拉并不是在进步的状态下拉出掩体",
+      "music": 0.0
+    },
+    {
+      "from": 157.42,
+      "to": 158.62,
+      "sid": 90,
+      "location": 2,
+      "content": "而是利用无畏契约",
+      "music": 0.0
+    },
+    {
+      "from": 158.62,
+      "to": 161.6,
+      "sid": 91,
+      "location": 2,
+      "content": "人物在刚开始移动且未达到最大移速时",
+      "music": 0.0
+    },
+    {
+      "from": 161.6,
+      "to": 162.68,
+      "sid": 92,
+      "location": 2,
+      "content": "不会发出脚步声",
+      "music": 0.0
+    },
+    {
+      "from": 162.68,
+      "to": 164.54,
+      "sid": 93,
+      "location": 2,
+      "content": "还可以有不错移速的特性",
+      "music": 0.0
+    },
+    {
+      "from": 164.54,
+      "to": 166.58,
+      "sid": 94,
+      "location": 2,
+      "content": "从而做到不发出脚步声的前提下",
+      "music": 0.0
+    },
+    {
+      "from": 166.58,
+      "to": 168.34,
+      "sid": 95,
+      "location": 2,
+      "content": "才可以较快的速度拉出岩",
+      "music": 0.0
+    },
+    {
+      "from": 168.34,
+      "to": 170.68,
+      "sid": 96,
+      "location": 2,
+      "content": "好兄弟们在练习无声小乐的初期间",
+      "music": 0.0
+    },
+    {
+      "from": 170.68,
+      "to": 172.72,
+      "sid": 97,
+      "location": 2,
+      "content": "在训练场及死斗里多多尝试",
+      "music": 0.0
+    },
+    {
+      "from": 172.72,
+      "to": 175.18,
+      "sid": 98,
+      "location": 2,
+      "content": "只要能找到无畏契约的人物加速节奏",
+      "music": 0.0
+    },
+    {
+      "from": 175.18,
+      "to": 176.74,
+      "sid": 99,
+      "location": 2,
+      "content": "即可轻松掌握此技巧",
+      "music": 0.0
+    },
+    {
+      "from": 176.74,
+      "to": 177.16,
+      "sid": 100,
+      "location": 2,
+      "content": "当然了",
+      "music": 0.0
+    },
+    {
+      "from": 177.16,
+      "to": 178.24,
+      "sid": 101,
+      "location": 2,
+      "content": "如果实战里出现了",
+      "music": 0.0
+    },
+    {
+      "from": 178.24,
+      "to": 179.62,
+      "sid": 102,
+      "location": 2,
+      "content": "我们需要首爆头延时间",
+      "music": 0.0
+    },
+    {
+      "from": 179.62,
+      "to": 181.48,
+      "sid": 103,
+      "location": 2,
+      "content": "又或者在开局时抢点",
+      "music": 0.0
+    },
+    {
+      "from": 181.48,
+      "to": 183.22,
+      "sid": 104,
+      "location": 2,
+      "content": "又怕对面有大狙在直架",
+      "music": 0.0
+    },
+    {
+      "from": 183.22,
+      "to": 184.82,
+      "sid": 105,
+      "location": 2,
+      "content": "就可以利用到我们的旋转跳了",
+      "music": 0.0
+    },
+    {
+      "from": 184.82,
+      "to": 186.98,
+      "sid": 106,
+      "location": 2,
+      "content": "旋转跳其实就是WA起跳",
+      "music": 0.0
+    },
+    {
+      "from": 186.98,
+      "to": 188.54,
+      "sid": 107,
+      "location": 2,
+      "content": "空中拉回来",
+      "music": 0.0
+    },
+    {
+      "from": 188.54,
+      "to": 191.12,
+      "sid": 108,
+      "location": 2,
+      "content": "或者WD起跳空中AS拉回来",
+      "music": 0.0
+    },
+    {
+      "from": 191.12,
+      "to": 193.34,
+      "sid": 109,
+      "location": 2,
+      "content": "旋转跳其实对于新手来说是比较难的",
+      "music": 0.0
+    },
+    {
+      "from": 193.34,
+      "to": 194.54,
+      "sid": 110,
+      "location": 2,
+      "content": "唯一的方法就是多练",
+      "music": 0.0
+    },
+    {
+      "from": 194.54,
+      "to": 196.34,
+      "sid": 111,
+      "location": 2,
+      "content": "新手在练习时也不要着急",
+      "music": 0.0
+    },
+    {
+      "from": 196.34,
+      "to": 198.62,
+      "sid": 112,
+      "location": 2,
+      "content": "根据我视频里的按键步骤慢慢练习就好",
+      "music": 0.0
+    },
+    {
+      "from": 198.62,
+      "to": 200.03,
+      "sid": 113,
+      "location": 2,
+      "content": "但如果你不会旋转跳",
+      "music": 0.0
+    },
+    {
+      "from": 200.03,
+      "to": 202.88,
+      "sid": 114,
+      "location": 2,
+      "content": "且在实战里还遇到了需要安全拿信息的场景",
+      "music": 0.0
+    },
+    {
+      "from": 202.88,
+      "to": 205.04,
+      "sid": 115,
+      "location": 2,
+      "content": "小身位peek也是一种不错的选择",
+      "music": 0.0
+    },
+    {
+      "from": 205.04,
+      "to": 207.44,
+      "sid": 116,
+      "location": 2,
+      "content": "小身位peek就是在我们小身位拉出掩体后",
+      "music": 0.0
+    },
+    {
+      "from": 207.44,
+      "to": 208.22,
+      "sid": 117,
+      "location": 2,
+      "content": "立即拉回来",
+      "music": 0.0
+    },
+    {
+      "from": 208.22,
+      "to": 209.94,
+      "sid": 118,
+      "location": 2,
+      "content": "相信我小身位拉出去",
+      "music": 0.0
+    },
+    {
+      "from": 209.94,
+      "to": 211.5,
+      "sid": 119,
+      "location": 2,
+      "content": "敌人也是极难将其秒杀的",
+      "music": 0.0
+    },
+    {
+      "from": 211.5,
+      "to": 213.06,
+      "sid": 120,
+      "location": 2,
+      "content": "当然小身位peek的核心灵",
+      "music": 0.0
+    },
+    {
+      "from": 213.06,
+      "to": 214.88,
+      "sid": 121,
+      "location": 2,
+      "content": "就是拉出去的幅度一定要小",
+      "music": 0.0
+    },
+    {
+      "from": 214.88,
+      "to": 217.46,
+      "sid": 122,
+      "location": 2,
+      "content": "实战里实用时一定要注意身位控制好了",
+      "music": 0.0
+    },
+    {
+      "from": 217.46,
+      "to": 219.2,
+      "sid": 123,
+      "location": 2,
+      "content": "本期内容全是干货多了不错",
+      "music": 0.0
+    },
+    {
+      "from": 219.2,
+      "to": 220.82,
+      "sid": 124,
+      "location": 2,
+      "content": "小刘要个关注就是真不过分吧",
+      "music": 0.0
+    },
+    {
+      "from": 220.82,
+      "to": 222.92,
+      "sid": 125,
+      "location": 2,
+      "content": "本期视频主要讲解的是偏进攻向的",
+      "music": 0.0
+    },
+    {
+      "from": 222.92,
+      "to": 224.36,
+      "sid": 126,
+      "location": 2,
+      "content": "一些进阶技巧思路",
+      "music": 0.0
+    },
+    {
+      "from": 224.36,
+      "to": 226.64,
+      "sid": 127,
+      "location": 2,
+      "content": "下期视频小刘将会带来偏防守向的",
+      "music": 0.0
+    },
+    {
+      "from": 226.64,
+      "to": 228.64,
+      "sid": 128,
+      "location": 2,
+      "content": "有关于架点选位的一些思路",
+      "music": 0.0
+    },
+    {
+      "from": 228.64,
+      "to": 230.29,
+      "sid": 129,
+      "location": 2,
+      "content": "视频的最后做一个自我介绍",
+      "music": 0.0
+    },
+    {
+      "from": 230.29,
+      "to": 232.96,
+      "sid": 130,
+      "location": 2,
+      "content": "小刘是一位瓦区教学类的up主兼主播",
+      "music": 0.0
+    },
+    {
+      "from": 232.96,
+      "to": 235.08,
+      "sid": 131,
+      "location": 2,
+      "content": "会在国服正式上映后的这段时间里",
+      "music": 0.0
+    },
+    {
+      "from": 235.08,
+      "to": 238.08,
+      "sid": 132,
+      "location": 2,
+      "content": "尽量做到每天都更新一期攻略教学项的视频",
+      "music": 0.0
+    },
+    {
+      "from": 238.08,
+      "to": 239.94,
+      "sid": 133,
+      "location": 2,
+      "content": "其中包括无畏契约入门攻略",
+      "music": 0.0
+    },
+    {
+      "from": 239.94,
+      "to": 240.68,
+      "sid": 134,
+      "location": 2,
+      "content": "进阶攻略",
+      "music": 0.0
+    },
+    {
+      "from": 240.68,
+      "to": 242.48,
+      "sid": 135,
+      "location": 2,
+      "content": "全武器教学设置四部曲",
+      "music": 0.0
+    },
+    {
+      "from": 242.48,
+      "to": 243.44,
+      "sid": 136,
+      "location": 2,
+      "content": "阵容搭配教学",
+      "music": 0.0
+    },
+    {
+      "from": 243.44,
+      "to": 246.24,
+      "sid": 137,
+      "location": 2,
+      "content": "后面还会有全英雄教学以及猛男练枪指南",
+      "music": 0.0
+    },
+    {
+      "from": 246.24,
+      "to": 247.86,
+      "sid": 138,
+      "location": 2,
+      "content": "并尽量每天都开启直播",
+      "music": 0.0
+    },
+    {
+      "from": 247.86,
+      "to": 249.96,
+      "sid": 139,
+      "location": 2,
+      "content": "用来回答各位我去萌新的各种问题",
+      "music": 0.0
+    },
+    {
+      "from": 249.96,
+      "to": 251.4,
+      "sid": 140,
+      "location": 2,
+      "content": "如果本期视频对你有帮助",
+      "music": 0.0
+    },
+    {
+      "from": 251.4,
+      "to": 253.26,
+      "sid": 141,
+      "location": 2,
+      "content": "请给小刘一个免费的三连加关注",
+      "music": 0.0
+    },
+    {
+      "from": 253.26,
+      "to": 254.52,
+      "sid": 142,
+      "location": 2,
+      "content": "这对小刘真的很重要",
+      "music": 0.0
+    },
+    {
+      "from": 254.52,
+      "to": 256.56,
+      "sid": 143,
+      "location": 2,
+      "content": "最后祝各位好兄弟们国服玩的开心",
+      "music": 0.0
+    },
+    {
+      "from": 256.56,
+      "to": 257.7,
+      "sid": 144,
+      "location": 2,
+      "content": "看好虚空战404",
+      "music": 0.0
+    },
+    {
+      "from": 257.7,
+      "to": 258.72,
+      "sid": 145,
+      "location": 2,
+      "content": "最专业关注我",
+      "music": 0.0
+    },
+    {
+      "from": 258.72,
+      "to": 259.68,
+      "sid": 146,
+      "location": 2,
+      "content": "我们下期再见",
+      "music": 0.0
+    }
+  ]
+}

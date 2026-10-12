@@ -1,0 +1,692 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "v1.7.0.4",
+  "body": [
+    {
+      "from": 0.54,
+      "to": 1.22,
+      "sid": 1,
+      "location": 2,
+      "content": "哈喽哈喽",
+      "music": 0.0
+    },
+    {
+      "from": 1.22,
+      "to": 1.86,
+      "sid": 2,
+      "location": 2,
+      "content": "临时起意",
+      "music": 0.0
+    },
+    {
+      "from": 1.86,
+      "to": 5.96,
+      "sid": 3,
+      "location": 2,
+      "content": "给大家搞一个掩体后劣势对枪技巧的教学视频",
+      "music": 0.0
+    },
+    {
+      "from": 5.96,
+      "to": 7.12,
+      "sid": 4,
+      "location": 2,
+      "content": "都是我的个人理解",
+      "music": 0.0
+    },
+    {
+      "from": 7.12,
+      "to": 8.48,
+      "sid": 5,
+      "location": 2,
+      "content": "但实战中我觉得挺好用的",
+      "music": 0.0
+    },
+    {
+      "from": 8.48,
+      "to": 9.9,
+      "sid": 6,
+      "location": 2,
+      "content": "就分享给你们",
+      "music": 0.0
+    },
+    {
+      "from": 9.9,
+      "to": 11.6,
+      "sid": 7,
+      "location": 2,
+      "content": "我会讲的精简一些",
+      "music": 0.0
+    },
+    {
+      "from": 11.6,
+      "to": 12.98,
+      "sid": 8,
+      "location": 2,
+      "content": "但是游戏玩多了",
+      "music": 0.0
+    },
+    {
+      "from": 12.98,
+      "to": 14.52,
+      "sid": 9,
+      "location": 2,
+      "content": "大伙应该都能听得懂",
+      "music": 0.0
+    },
+    {
+      "from": 14.52,
+      "to": 17.52,
+      "sid": 10,
+      "location": 2,
+      "content": "如果实在有一些基础概念不太理解的话",
+      "music": 0.0
+    },
+    {
+      "from": 17.52,
+      "to": 20.37,
+      "sid": 11,
+      "location": 2,
+      "content": "你们就去看大东彦的教学视频就好了",
+      "music": 0.0
+    },
+    {
+      "from": 20.65,
+      "to": 22.07,
+      "sid": 12,
+      "location": 2,
+      "content": "OK咱们直接开始",
+      "music": 0.0
+    },
+    {
+      "from": 22.07,
+      "to": 23.79,
+      "sid": 13,
+      "location": 2,
+      "content": "什么时候能用到这个技巧呢",
+      "music": 0.0
+    },
+    {
+      "from": 23.79,
+      "to": 26.47,
+      "sid": 14,
+      "location": 2,
+      "content": "就是你在掩体后的劣势枪位",
+      "music": 0.0
+    },
+    {
+      "from": 26.47,
+      "to": 27.83,
+      "sid": 15,
+      "location": 2,
+      "content": "然后对面在直架",
+      "music": 0.0
+    },
+    {
+      "from": 27.83,
+      "to": 29.55,
+      "sid": 16,
+      "location": 2,
+      "content": "你双方都明牌的情况下",
+      "music": 0.0
+    },
+    {
+      "from": 29.55,
+      "to": 32.979,
+      "sid": 17,
+      "location": 2,
+      "content": "你非常肝的直接拉出去容易被磕秒",
+      "music": 0.0
+    },
+    {
+      "from": 32.979,
+      "to": 36.3,
+      "sid": 18,
+      "location": 2,
+      "content": "因此我这边推荐分三步走去对枪",
+      "music": 0.0
+    },
+    {
+      "from": 36.5,
+      "to": 37.46,
+      "sid": 19,
+      "location": 2,
+      "content": "第一步看",
+      "music": 0.0
+    },
+    {
+      "from": 37.46,
+      "to": 39.4,
+      "sid": 20,
+      "location": 2,
+      "content": "为了拿信息确定对面的位置",
+      "music": 0.0
+    },
+    {
+      "from": 39.4,
+      "to": 42.18,
+      "sid": 21,
+      "location": 2,
+      "content": "不管你是AD看还是跳片看",
+      "music": 0.0
+    },
+    {
+      "from": 49.26,
+      "to": 50.22,
+      "sid": 22,
+      "location": 2,
+      "content": "看到人以后",
+      "music": 0.0
+    },
+    {
+      "from": 50.22,
+      "to": 53.02,
+      "sid": 23,
+      "location": 2,
+      "content": "第二步晃目的是干扰对面架枪晃",
+      "music": 0.0
+    },
+    {
+      "from": 53.02,
+      "to": 54.72,
+      "sid": 24,
+      "location": 2,
+      "content": "要结合提前枪给他吃压力",
+      "music": 0.0
+    },
+    {
+      "from": 54.72,
+      "to": 56.519,
+      "sid": 25,
+      "location": 2,
+      "content": "甚至可以对着大概位置穿他",
+      "music": 0.0
+    },
+    {
+      "from": 56.519,
+      "to": 58.499,
+      "sid": 26,
+      "location": 2,
+      "content": "毕竟你在究极劣势的位置",
+      "music": 0.0
+    },
+    {
+      "from": 58.499,
+      "to": 60.489,
+      "sid": 27,
+      "location": 2,
+      "content": "小身位也可能接子弹",
+      "music": 0.0
+    },
+    {
+      "from": 60.809,
+      "to": 63.669,
+      "sid": 28,
+      "location": 2,
+      "content": "然后当对面吃完压力以后",
+      "music": 0.0
+    },
+    {
+      "from": 63.669,
+      "to": 65.449,
+      "sid": 29,
+      "location": 2,
+      "content": "本来预留你大拉身位的架枪",
+      "music": 0.0
+    },
+    {
+      "from": 65.449,
+      "to": 67.34,
+      "sid": 30,
+      "location": 2,
+      "content": "大概率会开始变形",
+      "music": 0.0
+    },
+    {
+      "from": 67.34,
+      "to": 69.18,
+      "sid": 31,
+      "location": 2,
+      "content": "准心贴墙放的那一刻",
+      "music": 0.23809521919880017
+    },
+    {
+      "from": 69.18,
+      "to": 69.94,
+      "sid": 32,
+      "location": 2,
+      "content": "第三步",
+      "music": 0.0
+    },
+    {
+      "from": 69.94,
+      "to": 72.63,
+      "sid": 33,
+      "location": 2,
+      "content": "一个贴墙拉满速度出去",
+      "music": 0.0
+    },
+    {
+      "from": 72.63,
+      "to": 73.69,
+      "sid": 34,
+      "location": 2,
+      "content": "划重点",
+      "music": 0.0
+    },
+    {
+      "from": 73.69,
+      "to": 75.11,
+      "sid": 35,
+      "location": 2,
+      "content": "一定要拉满速度",
+      "music": 0.0
+    },
+    {
+      "from": 75.11,
+      "to": 77.35,
+      "sid": 36,
+      "location": 2,
+      "content": "然后定位微调击杀",
+      "music": 0.0
+    },
+    {
+      "from": 77.35,
+      "to": 81.31,
+      "sid": 37,
+      "location": 2,
+      "content": "还以为补充一点就是不管你在提前枪的过程中",
+      "music": 0.0
+    },
+    {
+      "from": 81.31,
+      "to": 82.91,
+      "sid": 38,
+      "location": 2,
+      "content": "还是最后大拉的阶段",
+      "music": 0.0
+    },
+    {
+      "from": 82.91,
+      "to": 85.37,
+      "sid": 39,
+      "location": 2,
+      "content": "你都是可以配合上你的蹲的",
+      "music": 0.0
+    },
+    {
+      "from": 85.37,
+      "to": 86.95,
+      "sid": 40,
+      "location": 2,
+      "content": "你想站着拉也可以",
+      "music": 0.0
+    },
+    {
+      "from": 86.95,
+      "to": 89.35,
+      "sid": 41,
+      "location": 2,
+      "content": "想蹲拉也可以蹲拉提前枪都是可以的",
+      "music": 0.0
+    },
+    {
+      "from": 89.35,
+      "to": 93.46,
+      "sid": 42,
+      "location": 2,
+      "content": "记住用灵活运用这个蹲键还没完",
+      "music": 0.0
+    },
+    {
+      "from": 93.46,
+      "to": 94.92,
+      "sid": 43,
+      "location": 2,
+      "content": "晃完接大拉是基础",
+      "music": 0.0
+    },
+    {
+      "from": 94.92,
+      "to": 98.24,
+      "sid": 44,
+      "location": 2,
+      "content": "但是一开始有提到那个近大远小的概念",
+      "music": 0.0
+    },
+    {
+      "from": 98.24,
+      "to": 101.6,
+      "sid": 45,
+      "location": 2,
+      "content": "所以你可以晃完以后往前贴墙大拉",
+      "music": 0.0
+    },
+    {
+      "from": 101.6,
+      "to": 104.3,
+      "sid": 46,
+      "location": 2,
+      "content": "也可以往后小身位带预瞄",
+      "music": 0.0
+    },
+    {
+      "from": 104.3,
+      "to": 105.68,
+      "sid": 47,
+      "location": 2,
+      "content": "先开枪",
+      "music": 0.0
+    },
+    {
+      "from": 119.52,
+      "to": 122.04,
+      "sid": 48,
+      "location": 2,
+      "content": "因为你从不同的位置拉出去",
+      "music": 0.0
+    },
+    {
+      "from": 122.04,
+      "to": 123.95,
+      "sid": 49,
+      "location": 2,
+      "content": "在对面的视角看来",
+      "music": 0.0
+    },
+    {
+      "from": 124.19,
+      "to": 126.95,
+      "sid": 50,
+      "location": 2,
+      "content": "速度跟头线都是有略微变化的",
+      "music": 0.0
+    },
+    {
+      "from": 126.95,
+      "to": 130.009,
+      "sid": 51,
+      "location": 2,
+      "content": "这个应该是透视的原因吧",
+      "music": 0.0
+    },
+    {
+      "from": 130.009,
+      "to": 132.769,
+      "sid": 52,
+      "location": 2,
+      "content": "如果有学画画的朋友",
+      "music": 0.0
+    },
+    {
+      "from": 132.769,
+      "to": 134.86,
+      "sid": 53,
+      "location": 2,
+      "content": "应该知道我在说什么吧",
+      "music": 0.0
+    },
+    {
+      "from": 135.26,
+      "to": 138.51,
+      "sid": 54,
+      "location": 2,
+      "content": "所以这就是完整的三步走技巧",
+      "music": 0.0
+    },
+    {
+      "from": 138.51,
+      "to": 140.51,
+      "sid": 55,
+      "location": 2,
+      "content": "以前偶尔刷到过一些教学视频",
+      "music": 0.0
+    },
+    {
+      "from": 140.51,
+      "to": 142.01,
+      "sid": 56,
+      "location": 2,
+      "content": "蛮多都会教大拉",
+      "music": 0.0
+    },
+    {
+      "from": 142.01,
+      "to": 145.589,
+      "sid": 57,
+      "location": 2,
+      "content": "但是感觉不如我这一整套完整流程细节",
+      "music": 0.0
+    },
+    {
+      "from": 145.589,
+      "to": 148.209,
+      "sid": 58,
+      "location": 2,
+      "content": "OK最后就完整过一遍吧",
+      "music": 0.0
+    },
+    {
+      "from": 148.209,
+      "to": 151.509,
+      "sid": 59,
+      "location": 2,
+      "content": "反正就先晃晃着找人晃着",
+      "music": 0.0
+    },
+    {
+      "from": 151.509,
+      "to": 154.669,
+      "sid": 60,
+      "location": 2,
+      "content": "找人可以甩头跳pick啊",
+      "music": 0.0
+    },
+    {
+      "from": 154.669,
+      "to": 155.369,
+      "sid": 61,
+      "location": 2,
+      "content": "打打提前枪",
+      "music": 0.0
+    },
+    {
+      "from": 155.369,
+      "to": 158.249,
+      "sid": 62,
+      "location": 2,
+      "content": "一定要最好就是可以结合让你蹲",
+      "music": 0.0
+    },
+    {
+      "from": 158.249,
+      "to": 160.149,
+      "sid": 63,
+      "location": 2,
+      "content": "这样子不容易不容易吃到对面",
+      "music": 0.0
+    },
+    {
+      "from": 160.149,
+      "to": 162.17,
+      "sid": 64,
+      "location": 2,
+      "content": "不不容易不容易拉出去撞子弹",
+      "music": 0.0
+    },
+    {
+      "from": 162.17,
+      "to": 164.39,
+      "sid": 65,
+      "location": 2,
+      "content": "最后就是画完以后",
+      "music": 0.0
+    },
+    {
+      "from": 164.39,
+      "to": 166.2,
+      "sid": 66,
+      "location": 2,
+      "content": "这",
+      "music": 0.0
+    },
+    {
+      "from": 170.06,
+      "to": 174.66,
+      "sid": 67,
+      "location": 2,
+      "content": "然后直播的时候有人问我那个瞄准啊",
+      "music": 0.0
+    },
+    {
+      "from": 174.66,
+      "to": 177.04,
+      "sid": 68,
+      "location": 2,
+      "content": "问我瞄准瞄准的话",
+      "music": 0.0
+    },
+    {
+      "from": 177.04,
+      "to": 180.04,
+      "sid": 69,
+      "location": 2,
+      "content": "我昨天刷到一个比较好的视频",
+      "music": 0.0
+    },
+    {
+      "from": 180.04,
+      "to": 182.35,
+      "sid": 70,
+      "location": 2,
+      "content": "可以分享给你们",
+      "music": 0.0
+    },
+    {
+      "from": 182.67,
+      "to": 185.13,
+      "sid": 71,
+      "location": 2,
+      "content": "平时挺少看教学视频的",
+      "music": 0.0
+    },
+    {
+      "from": 185.13,
+      "to": 188.69,
+      "sid": 72,
+      "location": 2,
+      "content": "但是那个哥们的视频看了一下确实不错",
+      "music": 0.0
+    },
+    {
+      "from": 188.69,
+      "to": 191.35,
+      "sid": 73,
+      "location": 2,
+      "content": "叫什么时停TT吧",
+      "music": 0.0
+    },
+    {
+      "from": 191.72,
+      "to": 192.92,
+      "sid": 74,
+      "location": 2,
+      "content": "大伙可以去搜一下",
+      "music": 0.0
+    },
+    {
+      "from": 195.44,
+      "to": 198.11,
+      "sid": 75,
+      "location": 2,
+      "content": "那本期视频视频就到这里",
+      "music": 0.0
+    },
+    {
+      "from": 198.11,
+      "to": 199.87,
+      "sid": 76,
+      "location": 2,
+      "content": "以后以后",
+      "music": 0.0
+    },
+    {
+      "from": 199.87,
+      "to": 203.71,
+      "sid": 77,
+      "location": 2,
+      "content": "如果如果大家愿意看这种比较简短的小教嗯",
+      "music": 0.0
+    },
+    {
+      "from": 203.71,
+      "to": 204.87,
+      "sid": 78,
+      "location": 2,
+      "content": "小小技巧的话",
+      "music": 0.0
+    },
+    {
+      "from": 204.87,
+      "to": 206.59,
+      "sid": 79,
+      "location": 2,
+      "content": "后面感觉还可以想一想",
+      "music": 0.0
+    },
+    {
+      "from": 206.59,
+      "to": 209.32,
+      "sid": 80,
+      "location": 2,
+      "content": "或者到时候系统化一点",
+      "music": 0.0
+    },
+    {
+      "from": 209.32,
+      "to": 211.87,
+      "sid": 81,
+      "location": 2,
+      "content": "整点正儿八经的教学也行",
+      "music": 0.0
+    },
+    {
+      "from": 211.87,
+      "to": 213.27,
+      "sid": 82,
+      "location": 2,
+      "content": "那就拜拜",
+      "music": 0.0
+    },
+    {
+      "from": 213.27,
+      "to": 214.39,
+      "sid": 83,
+      "location": 2,
+      "content": "补一句补一句",
+      "music": 0.0
+    },
+    {
+      "from": 214.39,
+      "to": 215.75,
+      "sid": 84,
+      "location": 2,
+      "content": "给春一晚速度杯投票",
+      "music": 0.0
+    },
+    {
+      "from": 215.75,
+      "to": 216.48,
+      "sid": 85,
+      "location": 2,
+      "content": "谢谢喵",
+      "music": 0.0
+    }
+  ]
+}

@@ -1,0 +1,3708 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "eng-1.2.0-Index-johns-pen-lite",
+  "body": [
+    {
+      "content": "亚当",
+      "from": 2.02,
+      "location": 2,
+      "music": 0.0,
+      "sid": 1,
+      "to": 2.34
+    },
+    {
+      "content": "兄弟没人在这儿",
+      "from": 3.82,
+      "location": 2,
+      "music": 0.0,
+      "sid": 2,
+      "to": 4.62
+    },
+    {
+      "content": "他说",
+      "from": 5.66,
+      "location": 2,
+      "music": 0.0,
+      "sid": 3,
+      "to": 5.94
+    },
+    {
+      "content": "可能是巴斯特",
+      "from": 5.94,
+      "location": 2,
+      "music": 0.0,
+      "sid": 4,
+      "to": 8.0
+    },
+    {
+      "content": "我来",
+      "from": 8.72,
+      "location": 2,
+      "music": 0.0,
+      "sid": 5,
+      "to": 10.36
+    },
+    {
+      "content": "五七二一淋浴",
+      "from": 16.0,
+      "location": 2,
+      "music": 0.0,
+      "sid": 6,
+      "to": 19.78
+    },
+    {
+      "content": "三一淋浴",
+      "from": 19.78,
+      "location": 2,
+      "music": 0.0,
+      "sid": 7,
+      "to": 22.49
+    },
+    {
+      "content": "你可能在跳",
+      "from": 22.49,
+      "location": 2,
+      "music": 0.0,
+      "sid": 8,
+      "to": 24.43
+    },
+    {
+      "content": "你可能",
+      "from": 24.43,
+      "location": 2,
+      "music": 0.0,
+      "sid": 9,
+      "to": 26.05
+    },
+    {
+      "content": "你可以",
+      "from": 52.619,
+      "location": 2,
+      "music": 0.0,
+      "sid": 10,
+      "to": 53.939
+    },
+    {
+      "content": "你到达了旅程",
+      "from": 53.939,
+      "location": 2,
+      "music": 0.0,
+      "sid": 11,
+      "to": 54.739
+    },
+    {
+      "content": "或者不",
+      "from": 54.739,
+      "location": 2,
+      "music": 0.0,
+      "sid": 12,
+      "to": 55.659
+    },
+    {
+      "content": "这太",
+      "from": 55.659,
+      "location": 2,
+      "music": 0.0,
+      "sid": 13,
+      "to": 57.659
+    },
+    {
+      "content": "哦又来了",
+      "from": 60.34,
+      "location": 2,
+      "music": 0.0,
+      "sid": 14,
+      "to": 62.5
+    },
+    {
+      "content": "哦",
+      "from": 63.74,
+      "location": 2,
+      "music": 0.0,
+      "sid": 15,
+      "to": 65.02
+    },
+    {
+      "content": "哦哇",
+      "from": 70.58,
+      "location": 2,
+      "music": 0.0,
+      "sid": 16,
+      "to": 71.88
+    },
+    {
+      "content": "哦哇",
+      "from": 71.88,
+      "location": 2,
+      "music": 0.0,
+      "sid": 17,
+      "to": 73.1
+    },
+    {
+      "content": "这就是一天",
+      "from": 74.14,
+      "location": 2,
+      "music": 0.0,
+      "sid": 18,
+      "to": 75.54
+    },
+    {
+      "content": "哦在这儿",
+      "from": 78.53,
+      "location": 2,
+      "music": 0.0,
+      "sid": 19,
+      "to": 80.49
+    },
+    {
+      "content": "就是他",
+      "from": 80.49,
+      "location": 2,
+      "music": 0.0,
+      "sid": 20,
+      "to": 82.05
+    },
+    {
+      "content": "你全搞对了",
+      "from": 87.52,
+      "location": 2,
+      "music": 0.0,
+      "sid": 21,
+      "to": 92.2
+    },
+    {
+      "content": "四三二一",
+      "from": 93.61,
+      "location": 2,
+      "music": 0.0,
+      "sid": 22,
+      "to": 95.89
+    },
+    {
+      "content": "游戏太差了兄弟",
+      "from": 99.56,
+      "location": 2,
+      "music": 0.0,
+      "sid": 23,
+      "to": 100.8
+    },
+    {
+      "content": "我们想要不不不了",
+      "from": 100.8,
+      "location": 2,
+      "music": 0.0,
+      "sid": 24,
+      "to": 105.2
+    },
+    {
+      "content": "好吧",
+      "from": 112.2,
+      "location": 2,
+      "music": 0.0,
+      "sid": 25,
+      "to": 113.16
+    },
+    {
+      "content": "我可以抽点东西",
+      "from": 114.6,
+      "location": 2,
+      "music": 0.0,
+      "sid": 26,
+      "to": 116.0
+    },
+    {
+      "content": "是的",
+      "from": 119.36,
+      "location": 2,
+      "music": 0.0,
+      "sid": 27,
+      "to": 119.84
+    },
+    {
+      "content": "你肯定还在那卡着",
+      "from": 122.0,
+      "location": 2,
+      "music": 0.0,
+      "sid": 28,
+      "to": 125.56
+    },
+    {
+      "content": "音乐",
+      "from": 125.63,
+      "location": 2,
+      "music": 0.9999992857147959,
+      "sid": 29,
+      "to": 127.96
+    },
+    {
+      "content": "换尿布",
+      "from": 136.0,
+      "location": 2,
+      "music": 0.0,
+      "sid": 30,
+      "to": 136.94
+    },
+    {
+      "content": "哦",
+      "from": 136.94,
+      "location": 2,
+      "music": 0.0,
+      "sid": 31,
+      "to": 137.4
+    },
+    {
+      "content": "你保持那个位置",
+      "from": 139.48,
+      "location": 2,
+      "music": 0.0,
+      "sid": 32,
+      "to": 141.36
+    },
+    {
+      "content": "格斗游戏",
+      "from": 155.06,
+      "location": 2,
+      "music": 0.0,
+      "sid": 33,
+      "to": 156.62
+    },
+    {
+      "content": "哇",
+      "from": 164.08,
+      "location": 2,
+      "music": 0.0,
+      "sid": 34,
+      "to": 164.76
+    },
+    {
+      "content": "兄弟",
+      "from": 167.72,
+      "location": 2,
+      "music": 0.0,
+      "sid": 35,
+      "to": 169.06
+    },
+    {
+      "content": "马上到",
+      "from": 172.78,
+      "location": 2,
+      "music": 0.0,
+      "sid": 36,
+      "to": 174.5
+    },
+    {
+      "content": "祝你好运",
+      "from": 177.74,
+      "location": 2,
+      "music": 0.0,
+      "sid": 37,
+      "to": 178.26
+    },
+    {
+      "content": "你顺便说",
+      "from": 179.58,
+      "location": 2,
+      "music": 0.0,
+      "sid": 38,
+      "to": 180.86
+    },
+    {
+      "content": "太疯狂了",
+      "from": 180.86,
+      "location": 2,
+      "music": 0.0,
+      "sid": 39,
+      "to": 181.4
+    },
+    {
+      "content": "是的",
+      "from": 181.4,
+      "location": 2,
+      "music": 0.0,
+      "sid": 40,
+      "to": 181.7
+    },
+    {
+      "content": "那一直都在",
+      "from": 181.7,
+      "location": 2,
+      "music": 0.0,
+      "sid": 41,
+      "to": 183.34
+    },
+    {
+      "content": "她已经被清除了",
+      "from": 184.46,
+      "location": 2,
+      "music": 0.0,
+      "sid": 42,
+      "to": 186.66
+    },
+    {
+      "content": "我以为我在看聊天",
+      "from": 204.4,
+      "location": 2,
+      "music": 0.0,
+      "sid": 43,
+      "to": 206.68
+    },
+    {
+      "content": "刚才在什么",
+      "from": 222.7,
+      "location": 2,
+      "music": 0.0,
+      "sid": 44,
+      "to": 224.22
+    },
+    {
+      "content": "哦",
+      "from": 228.22,
+      "location": 2,
+      "music": 0.0,
+      "sid": 45,
+      "to": 229.54
+    },
+    {
+      "content": "我的天啊",
+      "from": 229.54,
+      "location": 2,
+      "music": 0.0,
+      "sid": 46,
+      "to": 230.5
+    },
+    {
+      "content": "兄弟",
+      "from": 232.86,
+      "location": 2,
+      "music": 0.0,
+      "sid": 47,
+      "to": 235.86
+    },
+    {
+      "content": "一秒都太慢",
+      "from": 237.86,
+      "location": 2,
+      "music": 0.0,
+      "sid": 48,
+      "to": 240.58
+    },
+    {
+      "content": "这运气真好",
+      "from": 244.8,
+      "location": 2,
+      "music": 0.0,
+      "sid": 49,
+      "to": 245.84
+    },
+    {
+      "content": "音乐",
+      "from": 248.04,
+      "location": 2,
+      "music": 0.9999998648648832,
+      "sid": 50,
+      "to": 249.96
+    },
+    {
+      "content": "是的",
+      "from": 251.4,
+      "location": 2,
+      "music": 0.0,
+      "sid": 51,
+      "to": 251.84
+    },
+    {
+      "content": "没有盲区",
+      "from": 251.84,
+      "location": 2,
+      "music": 0.0,
+      "sid": 52,
+      "to": 252.24
+    },
+    {
+      "content": "不要盲射",
+      "from": 252.24,
+      "location": 2,
+      "music": 0.0,
+      "sid": 53,
+      "to": 252.48
+    },
+    {
+      "content": "不要盲射",
+      "from": 252.48,
+      "location": 2,
+      "music": 0.0,
+      "sid": 54,
+      "to": 252.86
+    },
+    {
+      "content": "我撤了",
+      "from": 252.86,
+      "location": 2,
+      "music": 0.0,
+      "sid": 55,
+      "to": 253.28
+    },
+    {
+      "content": "去拿下",
+      "from": 254.36,
+      "location": 2,
+      "music": 0.0,
+      "sid": 56,
+      "to": 256.56
+    },
+    {
+      "content": "那就是你的敌人",
+      "from": 265.44,
+      "location": 2,
+      "music": 0.0,
+      "sid": 57,
+      "to": 269.48
+    },
+    {
+      "content": "任何站立的玩家",
+      "from": 271.17,
+      "location": 2,
+      "music": 0.0,
+      "sid": 58,
+      "to": 275.17
+    },
+    {
+      "content": "哦",
+      "from": 282.16,
+      "location": 2,
+      "music": 0.0,
+      "sid": 59,
+      "to": 282.6
+    },
+    {
+      "content": "我的天啊",
+      "from": 282.6,
+      "location": 2,
+      "music": 0.0,
+      "sid": 60,
+      "to": 283.24
+    },
+    {
+      "content": "我可能",
+      "from": 283.24,
+      "location": 2,
+      "music": 0.0,
+      "sid": 61,
+      "to": 286.36
+    },
+    {
+      "content": "他正朝着572赶来",
+      "from": 288.32,
+      "location": 2,
+      "music": 0.0,
+      "sid": 62,
+      "to": 292.2
+    },
+    {
+      "content": "他处于中路",
+      "from": 292.2,
+      "location": 2,
+      "music": 0.0,
+      "sid": 63,
+      "to": 293.44
+    },
+    {
+      "content": "而且",
+      "from": 295.04,
+      "location": 2,
+      "music": 0.0,
+      "sid": 64,
+      "to": 296.28
+    },
+    {
+      "content": "你",
+      "from": 299.48,
+      "location": 2,
+      "music": 0.0,
+      "sid": 65,
+      "to": 301.08
+    },
+    {
+      "content": "你想",
+      "from": 303.74,
+      "location": 2,
+      "music": 0.0,
+      "sid": 66,
+      "to": 304.3
+    },
+    {
+      "content": "你想让管风琴手出现在那里",
+      "from": 304.3,
+      "location": 2,
+      "music": 0.0,
+      "sid": 67,
+      "to": 308.82
+    },
+    {
+      "content": "哦",
+      "from": 321.1,
+      "location": 2,
+      "music": 0.0,
+      "sid": 68,
+      "to": 321.94
+    },
+    {
+      "content": "别让我太难",
+      "from": 321.94,
+      "location": 2,
+      "music": 0.16666664930557712,
+      "sid": 69,
+      "to": 323.9
+    },
+    {
+      "content": "侧边支援",
+      "from": 343.44,
+      "location": 2,
+      "music": 0.0,
+      "sid": 70,
+      "to": 345.16
+    },
+    {
+      "content": "音乐",
+      "from": 370.48,
+      "location": 2,
+      "music": 0.9999998000000401,
+      "sid": 71,
+      "to": 372.42
+    },
+    {
+      "content": "音乐",
+      "from": 393.6,
+      "location": 2,
+      "music": 0.8780486734086697,
+      "sid": 72,
+      "to": 395.36
+    },
+    {
+      "content": "等待某人",
+      "from": 402.5,
+      "location": 2,
+      "music": 0.0,
+      "sid": 73,
+      "to": 404.5
+    },
+    {
+      "content": "三分钟",
+      "from": 408.64,
+      "location": 2,
+      "music": 0.0,
+      "sid": 74,
+      "to": 410.58
+    },
+    {
+      "content": "不错",
+      "from": 418.3,
+      "location": 2,
+      "music": 0.0,
+      "sid": 75,
+      "to": 418.74
+    },
+    {
+      "content": "对吧",
+      "from": 418.74,
+      "location": 2,
+      "music": 0.0,
+      "sid": 76,
+      "to": 420.72
+    },
+    {
+      "content": "音乐",
+      "from": 420.72,
+      "location": 2,
+      "music": 0.9999997619048185,
+      "sid": 77,
+      "to": 422.19
+    },
+    {
+      "content": "哦最后一人站立的玩家",
+      "from": 422.63,
+      "location": 2,
+      "music": 0.0,
+      "sid": 78,
+      "to": 428.559
+    },
+    {
+      "content": "哇哦",
+      "from": 428.559,
+      "location": 2,
+      "music": 0.0,
+      "sid": 79,
+      "to": 429.039
+    },
+    {
+      "content": "我们输了",
+      "from": 429.039,
+      "location": 2,
+      "music": 0.0,
+      "sid": 80,
+      "to": 429.439
+    },
+    {
+      "content": "击中他40点",
+      "from": 431.359,
+      "location": 2,
+      "music": 0.0,
+      "sid": 81,
+      "to": 431.879
+    },
+    {
+      "content": "你们几个",
+      "from": 431.879,
+      "location": 2,
+      "music": 0.0,
+      "sid": 82,
+      "to": 433.439
+    },
+    {
+      "content": "一个一个来啊",
+      "from": 437.86,
+      "location": 2,
+      "music": 0.0,
+      "sid": 83,
+      "to": 441.6
+    },
+    {
+      "content": "我看向了",
+      "from": 441.6,
+      "location": 2,
+      "music": 0.0,
+      "sid": 84,
+      "to": 442.88
+    },
+    {
+      "content": "这挺好的",
+      "from": 442.88,
+      "location": 2,
+      "music": 0.0,
+      "sid": 85,
+      "to": 443.46
+    },
+    {
+      "content": "我拿到关键技能",
+      "from": 443.46,
+      "location": 2,
+      "music": 0.0,
+      "sid": 86,
+      "to": 444.96
+    },
+    {
+      "content": "非常不振动",
+      "from": 446.12,
+      "location": 2,
+      "music": 0.0,
+      "sid": 87,
+      "to": 448.64
+    },
+    {
+      "content": "哦",
+      "from": 453.58,
+      "location": 2,
+      "music": 0.0,
+      "sid": 88,
+      "to": 453.94
+    },
+    {
+      "content": "这里有绘制",
+      "from": 453.94,
+      "location": 2,
+      "music": 0.0,
+      "sid": 89,
+      "to": 454.6
+    },
+    {
+      "content": "交给我交给我",
+      "from": 454.6,
+      "location": 2,
+      "music": 0.0,
+      "sid": 90,
+      "to": 457.06
+    },
+    {
+      "content": "我的天啊",
+      "from": 457.46,
+      "location": 2,
+      "music": 0.0,
+      "sid": 91,
+      "to": 459.46
+    },
+    {
+      "content": "双关语",
+      "from": 461.98,
+      "location": 2,
+      "music": 0.0,
+      "sid": 92,
+      "to": 463.26
+    },
+    {
+      "content": "顺便说下三重三重",
+      "from": 466.46,
+      "location": 2,
+      "music": 0.0,
+      "sid": 93,
+      "to": 470.66
+    },
+    {
+      "content": "这很酷",
+      "from": 472.82,
+      "location": 2,
+      "music": 0.0,
+      "sid": 94,
+      "to": 473.7
+    },
+    {
+      "content": "我是认真的",
+      "from": 473.7,
+      "location": 2,
+      "music": 0.0,
+      "sid": 95,
+      "to": 475.5
+    },
+    {
+      "content": "哦",
+      "from": 477.36,
+      "location": 2,
+      "music": 0.0,
+      "sid": 96,
+      "to": 477.84
+    },
+    {
+      "content": "我们挺过来了",
+      "from": 477.84,
+      "location": 2,
+      "music": 0.0,
+      "sid": 97,
+      "to": 478.4
+    },
+    {
+      "content": "一个下水道一个完成",
+      "from": 478.4,
+      "location": 2,
+      "music": 0.0,
+      "sid": 98,
+      "to": 482.6
+    },
+    {
+      "content": "有计划在",
+      "from": 494.02,
+      "location": 2,
+      "music": 0.0,
+      "sid": 99,
+      "to": 494.78
+    },
+    {
+      "content": "为了应对",
+      "from": 497.34,
+      "location": 2,
+      "music": 0.0,
+      "sid": 100,
+      "to": 500.18
+    },
+    {
+      "content": "你很厉害",
+      "from": 505.98,
+      "location": 2,
+      "music": 0.0,
+      "sid": 101,
+      "to": 507.74
+    },
+    {
+      "content": "还有三个",
+      "from": 508.84,
+      "location": 2,
+      "music": 0.0,
+      "sid": 102,
+      "to": 509.4
+    },
+    {
+      "content": "还有三个",
+      "from": 509.4,
+      "location": 2,
+      "music": 0.0,
+      "sid": 103,
+      "to": 509.68
+    },
+    {
+      "content": "还有三个",
+      "from": 509.68,
+      "location": 2,
+      "music": 0.0,
+      "sid": 104,
+      "to": 510.0
+    },
+    {
+      "content": "我没看到",
+      "from": 511.24,
+      "location": 2,
+      "music": 0.0,
+      "sid": 105,
+      "to": 512.12
+    },
+    {
+      "content": "我不知道",
+      "from": 512.12,
+      "location": 2,
+      "music": 0.0,
+      "sid": 106,
+      "to": 512.76
+    },
+    {
+      "content": "我没料到会出来",
+      "from": 512.76,
+      "location": 2,
+      "music": 0.0,
+      "sid": 107,
+      "to": 514.12
+    },
+    {
+      "content": "他们出来了",
+      "from": 514.12,
+      "location": 2,
+      "music": 0.0,
+      "sid": 108,
+      "to": 515.52
+    },
+    {
+      "content": "来吧 我的",
+      "from": 517.44,
+      "location": 2,
+      "music": 0.0,
+      "sid": 109,
+      "to": 518.92
+    },
+    {
+      "content": "三二一",
+      "from": 522.439,
+      "location": 2,
+      "music": 0.0,
+      "sid": 110,
+      "to": 524.799
+    },
+    {
+      "content": "我在这里看着 这样就行了",
+      "from": 542.9,
+      "location": 2,
+      "music": 0.0,
+      "sid": 111,
+      "to": 546.42
+    },
+    {
+      "content": "在这里",
+      "from": 550.8,
+      "location": 2,
+      "music": 0.0,
+      "sid": 112,
+      "to": 551.36
+    },
+    {
+      "content": "我们可以跑",
+      "from": 554.48,
+      "location": 2,
+      "music": 0.0,
+      "sid": 113,
+      "to": 555.96
+    },
+    {
+      "content": "我大概说一点三",
+      "from": 558.62,
+      "location": 2,
+      "music": 0.0,
+      "sid": 114,
+      "to": 560.58
+    },
+    {
+      "content": "这取决于黄色",
+      "from": 561.39,
+      "location": 2,
+      "music": 0.0,
+      "sid": 115,
+      "to": 562.47
+    },
+    {
+      "content": "尽管闪烁着",
+      "from": 562.47,
+      "location": 2,
+      "music": 0.0,
+      "sid": 116,
+      "to": 565.55
+    },
+    {
+      "content": "闪烁",
+      "from": 565.55,
+      "location": 2,
+      "music": 0.0,
+      "sid": 117,
+      "to": 565.95
+    },
+    {
+      "content": "走",
+      "from": 565.95,
+      "location": 2,
+      "music": 0.0,
+      "sid": 118,
+      "to": 567.31
+    },
+    {
+      "content": "那个帖子发在我身上吗",
+      "from": 568.9,
+      "location": 2,
+      "music": 0.0,
+      "sid": 119,
+      "to": 572.58
+    },
+    {
+      "content": "该死的金字塔",
+      "from": 572.58,
+      "location": 2,
+      "music": 0.0,
+      "sid": 120,
+      "to": 573.5
+    },
+    {
+      "content": "左边的金字塔",
+      "from": 573.5,
+      "location": 2,
+      "music": 0.0,
+      "sid": 121,
+      "to": 574.69
+    },
+    {
+      "content": "远离我的时间",
+      "from": 575.25,
+      "location": 2,
+      "music": 0.0,
+      "sid": 122,
+      "to": 576.23
+    },
+    {
+      "content": "慢慢来",
+      "from": 576.23,
+      "location": 2,
+      "music": 0.0,
+      "sid": 123,
+      "to": 577.01
+    },
+    {
+      "content": "这不对",
+      "from": 578.45,
+      "location": 2,
+      "music": 0.0,
+      "sid": 124,
+      "to": 579.09
+    },
+    {
+      "content": "所以我不会给你一个",
+      "from": 579.09,
+      "location": 2,
+      "music": 0.0,
+      "sid": 125,
+      "to": 582.73
+    },
+    {
+      "content": "桥下的那个",
+      "from": 585.08,
+      "location": 2,
+      "music": 0.0,
+      "sid": 126,
+      "to": 586.02
+    },
+    {
+      "content": "桥下的那个",
+      "from": 586.02,
+      "location": 2,
+      "music": 0.0,
+      "sid": 127,
+      "to": 586.56
+    },
+    {
+      "content": "你身上一个",
+      "from": 586.56,
+      "location": 2,
+      "music": 0.0,
+      "sid": 128,
+      "to": 590.8
+    },
+    {
+      "content": "我直接起来",
+      "from": 591.86,
+      "location": 2,
+      "music": 0.0,
+      "sid": 129,
+      "to": 595.08
+    },
+    {
+      "content": "在TikTok上",
+      "from": 630.4,
+      "location": 2,
+      "music": 0.0,
+      "sid": 130,
+      "to": 631.04
+    },
+    {
+      "content": "我不在乎",
+      "from": 631.04,
+      "location": 2,
+      "music": 0.0,
+      "sid": 131,
+      "to": 632.28
+    },
+    {
+      "content": "你在哪里",
+      "from": 639.74,
+      "location": 2,
+      "music": 0.0,
+      "sid": 132,
+      "to": 641.42
+    },
+    {
+      "content": "所以短了",
+      "from": 647.2,
+      "location": 2,
+      "music": 0.0,
+      "sid": 133,
+      "to": 648.32
+    },
+    {
+      "content": "停下",
+      "from": 650.32,
+      "location": 2,
+      "music": 0.0,
+      "sid": 134,
+      "to": 651.98
+    },
+    {
+      "content": "上地狱去帮忙",
+      "from": 653.5,
+      "location": 2,
+      "music": 0.0,
+      "sid": 135,
+      "to": 657.1
+    },
+    {
+      "content": "等等",
+      "from": 658.94,
+      "location": 2,
+      "music": 0.0,
+      "sid": 136,
+      "to": 659.94
+    },
+    {
+      "content": "我",
+      "from": 660.94,
+      "location": 2,
+      "music": 0.0,
+      "sid": 137,
+      "to": 661.58
+    },
+    {
+      "content": "吸左边",
+      "from": 663.82,
+      "location": 2,
+      "music": 0.0,
+      "sid": 138,
+      "to": 665.38
+    },
+    {
+      "content": "七天",
+      "from": 670.74,
+      "location": 2,
+      "music": 0.0,
+      "sid": 139,
+      "to": 672.34
+    },
+    {
+      "content": "是的",
+      "from": 674.82,
+      "location": 2,
+      "music": 0.0,
+      "sid": 140,
+      "to": 675.22
+    },
+    {
+      "content": "我",
+      "from": 676.26,
+      "location": 2,
+      "music": 0.0,
+      "sid": 141,
+      "to": 679.52
+    },
+    {
+      "content": "是的",
+      "from": 683.06,
+      "location": 2,
+      "music": 0.0,
+      "sid": 142,
+      "to": 683.9
+    },
+    {
+      "content": "好吧 在箱子里",
+      "from": 685.94,
+      "location": 2,
+      "music": 0.0,
+      "sid": 143,
+      "to": 687.3
+    },
+    {
+      "content": "A",
+      "from": 687.3,
+      "location": 2,
+      "music": 0.0,
+      "sid": 144,
+      "to": 689.29
+    },
+    {
+      "content": "我抽的烟太糟糕了",
+      "from": 690.05,
+      "location": 2,
+      "music": 0.0,
+      "sid": 145,
+      "to": 691.17
+    },
+    {
+      "content": "当你需要禁用它",
+      "from": 691.17,
+      "location": 2,
+      "music": 0.0,
+      "sid": 146,
+      "to": 695.53
+    },
+    {
+      "content": "我觉得可能是侧翼",
+      "from": 696.09,
+      "location": 2,
+      "music": 0.0,
+      "sid": 147,
+      "to": 698.13
+    },
+    {
+      "content": "那也很低",
+      "from": 699.41,
+      "location": 2,
+      "music": 0.0,
+      "sid": 148,
+      "to": 701.01
+    },
+    {
+      "content": "就是这样",
+      "from": 702.13,
+      "location": 2,
+      "music": 0.0,
+      "sid": 149,
+      "to": 702.93
+    },
+    {
+      "content": "他们都上了天堂",
+      "from": 702.93,
+      "location": 2,
+      "music": 0.0,
+      "sid": 150,
+      "to": 708.01
+    },
+    {
+      "content": "八十",
+      "from": 710.98,
+      "location": 2,
+      "music": 0.0,
+      "sid": 151,
+      "to": 711.56
+    },
+    {
+      "content": "八十",
+      "from": 711.56,
+      "location": 2,
+      "music": 0.0,
+      "sid": 152,
+      "to": 711.94
+    },
+    {
+      "content": "八",
+      "from": 713.22,
+      "location": 2,
+      "music": 0.0,
+      "sid": 153,
+      "to": 714.34
+    },
+    {
+      "content": "后侧我无法近身",
+      "from": 732.17,
+      "location": 2,
+      "music": 0.0,
+      "sid": 154,
+      "to": 733.71
+    },
+    {
+      "content": "右边无法靠近",
+      "from": 733.71,
+      "location": 2,
+      "music": 0.0,
+      "sid": 155,
+      "to": 734.53
+    },
+    {
+      "content": "不断攀升",
+      "from": 736.13,
+      "location": 2,
+      "music": 0.0,
+      "sid": 156,
+      "to": 737.07
+    },
+    {
+      "content": "背面",
+      "from": 737.07,
+      "location": 2,
+      "music": 0.0,
+      "sid": 157,
+      "to": 738.29
+    },
+    {
+      "content": "弹出那个",
+      "from": 739.76,
+      "location": 2,
+      "music": 0.0,
+      "sid": 158,
+      "to": 741.32
+    },
+    {
+      "content": "我很快乐",
+      "from": 744.0,
+      "location": 2,
+      "music": 0.0,
+      "sid": 159,
+      "to": 745.26
+    },
+    {
+      "content": "我不",
+      "from": 745.26,
+      "location": 2,
+      "music": 0.0,
+      "sid": 160,
+      "to": 745.82
+    },
+    {
+      "content": "我如此",
+      "from": 745.82,
+      "location": 2,
+      "music": 0.0,
+      "sid": 161,
+      "to": 746.6
+    },
+    {
+      "content": "我的天啊",
+      "from": 746.6,
+      "location": 2,
+      "music": 0.0,
+      "sid": 162,
+      "to": 747.92
+    },
+    {
+      "content": "我的上帝",
+      "from": 747.92,
+      "location": 2,
+      "music": 0.0,
+      "sid": 163,
+      "to": 748.839
+    },
+    {
+      "content": "让我来",
+      "from": 748.839,
+      "location": 2,
+      "music": 0.0,
+      "sid": 164,
+      "to": 749.599
+    },
+    {
+      "content": "让我让我来",
+      "from": 749.599,
+      "location": 2,
+      "music": 0.0,
+      "sid": 165,
+      "to": 750.359
+    },
+    {
+      "content": "让我来",
+      "from": 750.359,
+      "location": 2,
+      "music": 0.0,
+      "sid": 166,
+      "to": 750.999
+    },
+    {
+      "content": "最后幸存者",
+      "from": 752.159,
+      "location": 2,
+      "music": 0.0,
+      "sid": 167,
+      "to": 754.039
+    },
+    {
+      "content": "太棒了兄弟",
+      "from": 756.18,
+      "location": 2,
+      "music": 0.0,
+      "sid": 168,
+      "to": 758.48
+    },
+    {
+      "content": "一件事",
+      "from": 763.2,
+      "location": 2,
+      "music": 0.0,
+      "sid": 169,
+      "to": 764.56
+    },
+    {
+      "content": "角落里",
+      "from": 772.4,
+      "location": 2,
+      "music": 0.0,
+      "sid": 170,
+      "to": 772.96
+    },
+    {
+      "content": "他们准备好了",
+      "from": 774.12,
+      "location": 2,
+      "music": 0.0,
+      "sid": 171,
+      "to": 774.52
+    },
+    {
+      "content": "他们刚才在我这里一分钟就看到我被击倒",
+      "from": 774.52,
+      "location": 2,
+      "music": 0.0,
+      "sid": 172,
+      "to": 779.77
+    },
+    {
+      "content": "再生成一个",
+      "from": 787.06,
+      "location": 2,
+      "music": 0.0,
+      "sid": 173,
+      "to": 788.22
+    },
+    {
+      "content": "一毫米",
+      "from": 788.22,
+      "location": 2,
+      "music": 0.0,
+      "sid": 174,
+      "to": 788.7
+    },
+    {
+      "content": "五十英尺",
+      "from": 790.02,
+      "location": 2,
+      "music": 0.0,
+      "sid": 175,
+      "to": 790.64
+    },
+    {
+      "content": "霓虹灯",
+      "from": 790.64,
+      "location": 2,
+      "music": 0.0,
+      "sid": 176,
+      "to": 792.76
+    },
+    {
+      "content": "你知道的",
+      "from": 794.38,
+      "location": 2,
+      "music": 0.0,
+      "sid": 177,
+      "to": 795.14
+    },
+    {
+      "content": "接下来的下一个",
+      "from": 796.22,
+      "location": 2,
+      "music": 0.0,
+      "sid": 178,
+      "to": 797.9
+    },
+    {
+      "content": "我",
+      "from": 799.44,
+      "location": 2,
+      "music": 0.0,
+      "sid": 179,
+      "to": 801.3
+    },
+    {
+      "content": "P",
+      "from": 801.3,
+      "location": 2,
+      "music": 0.0,
+      "sid": 180,
+      "to": 801.8
+    },
+    {
+      "content": "P",
+      "from": 801.8,
+      "location": 2,
+      "music": 0.0,
+      "sid": 181,
+      "to": 803.86
+    },
+    {
+      "content": "我觉得我不",
+      "from": 805.22,
+      "location": 2,
+      "music": 0.0,
+      "sid": 182,
+      "to": 807.32
+    },
+    {
+      "content": "我的意思是",
+      "from": 807.32,
+      "location": 2,
+      "music": 0.0,
+      "sid": 183,
+      "to": 808.46
+    },
+    {
+      "content": "我要面对它",
+      "from": 809.08,
+      "location": 2,
+      "music": 0.0,
+      "sid": 184,
+      "to": 809.88
+    },
+    {
+      "content": "他太低了",
+      "from": 809.88,
+      "location": 2,
+      "music": 0.0,
+      "sid": 185,
+      "to": 810.52
+    },
+    {
+      "content": "我觉得他",
+      "from": 810.52,
+      "location": 2,
+      "music": 0.0,
+      "sid": 186,
+      "to": 811.44
+    },
+    {
+      "content": "我来了",
+      "from": 811.44,
+      "location": 2,
+      "music": 0.0,
+      "sid": 187,
+      "to": 812.2
+    },
+    {
+      "content": "就这样握住它像所有这些像像",
+      "from": 813.48,
+      "location": 2,
+      "music": 0.0,
+      "sid": 188,
+      "to": 815.16
+    },
+    {
+      "content": "你可以全部返回",
+      "from": 816.64,
+      "location": 2,
+      "music": 0.0,
+      "sid": 189,
+      "to": 817.32
+    },
+    {
+      "content": "就是清晰生成",
+      "from": 817.32,
+      "location": 2,
+      "music": 0.0,
+      "sid": 190,
+      "to": 820.99
+    },
+    {
+      "content": "这可能继续",
+      "from": 820.99,
+      "location": 2,
+      "music": 0.0,
+      "sid": 191,
+      "to": 821.99
+    },
+    {
+      "content": "我们要去",
+      "from": 821.99,
+      "location": 2,
+      "music": 0.0,
+      "sid": 192,
+      "to": 822.59
+    },
+    {
+      "content": "这样就行",
+      "from": 822.59,
+      "location": 2,
+      "music": 0.0,
+      "sid": 193,
+      "to": 823.19
+    },
+    {
+      "content": "你",
+      "from": 823.19,
+      "location": 2,
+      "music": 0.0,
+      "sid": 194,
+      "to": 823.71
+    },
+    {
+      "content": "去我刚才出现的地方",
+      "from": 826.79,
+      "location": 2,
+      "music": 0.0,
+      "sid": 195,
+      "to": 829.37
+    },
+    {
+      "content": "走道",
+      "from": 829.37,
+      "location": 2,
+      "music": 0.0,
+      "sid": 196,
+      "to": 830.515
+    },
+    {
+      "content": "快点",
+      "from": 831.249,
+      "location": 2,
+      "music": 0.0,
+      "sid": 197,
+      "to": 831.929
+    },
+    {
+      "content": "跑出去",
+      "from": 831.929,
+      "location": 2,
+      "music": 0.0,
+      "sid": 198,
+      "to": 833.049
+    },
+    {
+      "content": "可能就是你可能知道",
+      "from": 835.38,
+      "location": 2,
+      "music": 0.0,
+      "sid": 199,
+      "to": 838.02
+    },
+    {
+      "content": "你想停止",
+      "from": 839.66,
+      "location": 2,
+      "music": 0.0,
+      "sid": 200,
+      "to": 841.22
+    },
+    {
+      "content": "在我的烟雾中",
+      "from": 844.46,
+      "location": 2,
+      "music": 0.0,
+      "sid": 201,
+      "to": 845.14
+    },
+    {
+      "content": "在我的走私中",
+      "from": 845.14,
+      "location": 2,
+      "music": 0.0,
+      "sid": 202,
+      "to": 847.16
+    },
+    {
+      "content": "过来这里",
+      "from": 852.38,
+      "location": 2,
+      "music": 0.0,
+      "sid": 203,
+      "to": 852.94
+    },
+    {
+      "content": "过来这里",
+      "from": 854.66,
+      "location": 2,
+      "music": 0.0,
+      "sid": 204,
+      "to": 858.42
+    },
+    {
+      "content": "死人",
+      "from": 861.72,
+      "location": 2,
+      "music": 0.0,
+      "sid": 205,
+      "to": 862.34
+    },
+    {
+      "content": "这可能是给一个人的",
+      "from": 862.34,
+      "location": 2,
+      "music": 0.0,
+      "sid": 206,
+      "to": 863.12
+    },
+    {
+      "content": "你不需要什么",
+      "from": 864.24,
+      "location": 2,
+      "music": 0.0,
+      "sid": 207,
+      "to": 865.68
+    },
+    {
+      "content": "陷阱双倍",
+      "from": 869.12,
+      "location": 2,
+      "music": 0.0,
+      "sid": 208,
+      "to": 870.48
+    },
+    {
+      "content": "我在对抗那个",
+      "from": 875.5,
+      "location": 2,
+      "music": 0.0,
+      "sid": 209,
+      "to": 876.22
+    },
+    {
+      "content": "砰地关上",
+      "from": 878.98,
+      "location": 2,
+      "music": 0.0,
+      "sid": 210,
+      "to": 880.66
+    },
+    {
+      "content": "短路可能",
+      "from": 885.04,
+      "location": 2,
+      "music": 0.0,
+      "sid": 211,
+      "to": 887.28
+    },
+    {
+      "content": "一个主控一个未知",
+      "from": 912.46,
+      "location": 2,
+      "music": 0.09259258401922273,
+      "sid": 212,
+      "to": 914.3
+    },
+    {
+      "content": "哦天啊",
+      "from": 920.34,
+      "location": 2,
+      "music": 0.0,
+      "sid": 213,
+      "to": 921.28
+    },
+    {
+      "content": "四四开",
+      "from": 921.28,
+      "location": 2,
+      "music": 0.0,
+      "sid": 214,
+      "to": 921.86
+    },
+    {
+      "content": "对的",
+      "from": 921.86,
+      "location": 2,
+      "music": 0.0,
+      "sid": 215,
+      "to": 922.06
+    },
+    {
+      "content": "我仍然",
+      "from": 926.46,
+      "location": 2,
+      "music": 0.0,
+      "sid": 216,
+      "to": 927.78
+    },
+    {
+      "content": "我想回去",
+      "from": 932.54,
+      "location": 2,
+      "music": 0.0,
+      "sid": 217,
+      "to": 933.74
+    },
+    {
+      "content": "说五十五威利一号恐惧是",
+      "from": 933.74,
+      "location": 2,
+      "music": 0.0,
+      "sid": 218,
+      "to": 938.02
+    },
+    {
+      "content": "一个窗户",
+      "from": 943.64,
+      "location": 2,
+      "music": 0.0,
+      "sid": 219,
+      "to": 944.96
+    },
+    {
+      "content": "这个窗户是什么",
+      "from": 946.8,
+      "location": 2,
+      "music": 0.0,
+      "sid": 220,
+      "to": 947.36
+    },
+    {
+      "content": "我觉得你该画",
+      "from": 947.36,
+      "location": 2,
+      "music": 0.0,
+      "sid": 221,
+      "to": 948.68
+    },
+    {
+      "content": "真他妈厉害",
+      "from": 954.2,
+      "location": 2,
+      "music": 0.0,
+      "sid": 222,
+      "to": 956.36
+    },
+    {
+      "content": "后方那边应该消失",
+      "from": 958.32,
+      "location": 2,
+      "music": 0.0,
+      "sid": 223,
+      "to": 961.06
+    },
+    {
+      "content": "所以一个回来了",
+      "from": 961.06,
+      "location": 2,
+      "music": 0.0,
+      "sid": 224,
+      "to": 962.16
+    },
+    {
+      "content": "是的",
+      "from": 962.16,
+      "location": 2,
+      "music": 0.0,
+      "sid": 225,
+      "to": 962.46
+    },
+    {
+      "content": "应该出去想想这样",
+      "from": 962.46,
+      "location": 2,
+      "music": 0.0,
+      "sid": 226,
+      "to": 968.68
+    },
+    {
+      "content": "我准备好了",
+      "from": 976.94,
+      "location": 2,
+      "music": 0.0,
+      "sid": 227,
+      "to": 979.28
+    },
+    {
+      "content": "出发出发",
+      "from": 979.28,
+      "location": 2,
+      "music": 0.0,
+      "sid": 228,
+      "to": 980.9
+    },
+    {
+      "content": "站起来",
+      "from": 1001.56,
+      "location": 2,
+      "music": 0.0,
+      "sid": 229,
+      "to": 1002.92
+    },
+    {
+      "content": "下下下下上下上下向右",
+      "from": 1015.18,
+      "location": 2,
+      "music": 0.0,
+      "sid": 230,
+      "to": 1017.66
+    },
+    {
+      "content": "右右右这里现在",
+      "from": 1017.66,
+      "location": 2,
+      "music": 0.0,
+      "sid": 231,
+      "to": 1021.14
+    },
+    {
+      "content": "天堂烟雾消散",
+      "from": 1022.51,
+      "location": 2,
+      "music": 0.0,
+      "sid": 232,
+      "to": 1024.69
+    },
+    {
+      "content": "毒蛇在天堂",
+      "from": 1024.69,
+      "location": 2,
+      "music": 0.0,
+      "sid": 233,
+      "to": 1025.71
+    },
+    {
+      "content": "我们试试看",
+      "from": 1025.71,
+      "location": 2,
+      "music": 0.0,
+      "sid": 234,
+      "to": 1026.97
+    },
+    {
+      "content": "他知道我的",
+      "from": 1026.97,
+      "location": 2,
+      "music": 0.0,
+      "sid": 235,
+      "to": 1027.59
+    },
+    {
+      "content": "这个团队",
+      "from": 1029.43,
+      "location": 2,
+      "music": 0.0,
+      "sid": 236,
+      "to": 1029.85
+    },
+    {
+      "content": "只是团队",
+      "from": 1029.85,
+      "location": 2,
+      "music": 0.0,
+      "sid": 237,
+      "to": 1030.27
+    },
+    {
+      "content": "这个团队",
+      "from": 1030.27,
+      "location": 2,
+      "music": 0.0,
+      "sid": 238,
+      "to": 1031.284
+    },
+    {
+      "content": "我要去",
+      "from": 1033.979,
+      "location": 2,
+      "music": 0.0,
+      "sid": 239,
+      "to": 1034.939
+    },
+    {
+      "content": "会是钩子",
+      "from": 1034.939,
+      "location": 2,
+      "music": 0.0,
+      "sid": 240,
+      "to": 1035.579
+    },
+    {
+      "content": "嗯",
+      "from": 1035.579,
+      "location": 2,
+      "music": 0.0,
+      "sid": 241,
+      "to": 1035.839
+    },
+    {
+      "content": "哦不",
+      "from": 1035.839,
+      "location": 2,
+      "music": 0.0,
+      "sid": 242,
+      "to": 1036.499
+    },
+    {
+      "content": "哦不",
+      "from": 1036.499,
+      "location": 2,
+      "music": 0.0,
+      "sid": 243,
+      "to": 1037.179
+    },
+    {
+      "content": "不该是霓虹色",
+      "from": 1037.179,
+      "location": 2,
+      "music": 0.0,
+      "sid": 244,
+      "to": 1041.359
+    },
+    {
+      "content": "七十八大涨经常会有",
+      "from": 1043.759,
+      "location": 2,
+      "music": 0.0,
+      "sid": 245,
+      "to": 1046.319
+    },
+    {
+      "content": "关于谁",
+      "from": 1048.399,
+      "location": 2,
+      "music": 0.0,
+      "sid": 246,
+      "to": 1049.879
+    },
+    {
+      "content": "走出去",
+      "from": 1051.42,
+      "location": 2,
+      "music": 0.0,
+      "sid": 247,
+      "to": 1053.02
+    },
+    {
+      "content": "我要去中路",
+      "from": 1053.97,
+      "location": 2,
+      "music": 0.0,
+      "sid": 248,
+      "to": 1054.73
+    },
+    {
+      "content": "祝你好运",
+      "from": 1054.73,
+      "location": 2,
+      "music": 0.0,
+      "sid": 249,
+      "to": 1055.97
+    },
+    {
+      "content": "我离开了",
+      "from": 1056.97,
+      "location": 2,
+      "music": 0.0,
+      "sid": 250,
+      "to": 1057.71
+    },
+    {
+      "content": "我不打算下去",
+      "from": 1057.71,
+      "location": 2,
+      "music": 0.0,
+      "sid": 251,
+      "to": 1060.49
+    },
+    {
+      "content": "这不是炸弹",
+      "from": 1061.179,
+      "location": 2,
+      "music": 0.0,
+      "sid": 252,
+      "to": 1062.939
+    },
+    {
+      "content": "当我告诉你",
+      "from": 1062.939,
+      "location": 2,
+      "music": 0.0,
+      "sid": 253,
+      "to": 1064.299
+    },
+    {
+      "content": "我选一",
+      "from": 1064.299,
+      "location": 2,
+      "music": 0.0,
+      "sid": 254,
+      "to": 1067.77
+    },
+    {
+      "content": "哦对啊",
+      "from": 1068.25,
+      "location": 2,
+      "music": 0.0,
+      "sid": 255,
+      "to": 1069.17
+    },
+    {
+      "content": "啊",
+      "from": 1069.17,
+      "location": 2,
+      "music": 0.0,
+      "sid": 256,
+      "to": 1071.73
+    },
+    {
+      "content": "我请客",
+      "from": 1074.28,
+      "location": 2,
+      "music": 0.0,
+      "sid": 257,
+      "to": 1075.08
+    },
+    {
+      "content": "什么靠近了",
+      "from": 1075.08,
+      "location": 2,
+      "music": 0.0,
+      "sid": 258,
+      "to": 1075.4
+    },
+    {
+      "content": "左边",
+      "from": 1075.4,
+      "location": 2,
+      "music": 0.0,
+      "sid": 259,
+      "to": 1076.52
+    },
+    {
+      "content": "我兄弟",
+      "from": 1079.22,
+      "location": 2,
+      "music": 0.4666666355555879,
+      "sid": 260,
+      "to": 1082.7
+    },
+    {
+      "content": "我是说",
+      "from": 1086.14,
+      "location": 2,
+      "music": 0.0,
+      "sid": 261,
+      "to": 1086.56
+    },
+    {
+      "content": "来吧 哈哈哈哈哈哈",
+      "from": 1086.56,
+      "location": 2,
+      "music": 0.0,
+      "sid": 262,
+      "to": 1091.69
+    },
+    {
+      "content": "你会生病的",
+      "from": 1091.69,
+      "location": 2,
+      "music": 0.0,
+      "sid": 263,
+      "to": 1092.77
+    },
+    {
+      "content": "你会生病的",
+      "from": 1092.77,
+      "location": 2,
+      "music": 0.0,
+      "sid": 264,
+      "to": 1094.13
+    },
+    {
+      "content": "一号通道",
+      "from": 1102.02,
+      "location": 2,
+      "music": 0.0,
+      "sid": 265,
+      "to": 1102.74
+    },
+    {
+      "content": "一号通道",
+      "from": 1104.5,
+      "location": 2,
+      "music": 0.0,
+      "sid": 266,
+      "to": 1104.82
+    },
+    {
+      "content": "这边给巴基",
+      "from": 1104.82,
+      "location": 2,
+      "music": 0.0,
+      "sid": 267,
+      "to": 1107.38
+    },
+    {
+      "content": "就是这样",
+      "from": 1112.66,
+      "location": 2,
+      "music": 0.0,
+      "sid": 268,
+      "to": 1113.42
+    },
+    {
+      "content": "隧道里有什么",
+      "from": 1116.74,
+      "location": 2,
+      "music": 0.0,
+      "sid": 269,
+      "to": 1118.73
+    },
+    {
+      "content": "我找到什么都没有",
+      "from": 1119.53,
+      "location": 2,
+      "music": 0.0,
+      "sid": 270,
+      "to": 1123.77
+    },
+    {
+      "content": "最近怎么样",
+      "from": 1125.3,
+      "location": 2,
+      "music": 0.0,
+      "sid": 271,
+      "to": 1125.9
+    },
+    {
+      "content": "我觉得那已经准备好了",
+      "from": 1127.5,
+      "location": 2,
+      "music": 0.0,
+      "sid": 272,
+      "to": 1131.18
+    },
+    {
+      "content": "那是我的",
+      "from": 1132.94,
+      "location": 2,
+      "music": 0.0,
+      "sid": 273,
+      "to": 1133.7
+    },
+    {
+      "content": "他们总在期待全部关闭",
+      "from": 1135.38,
+      "location": 2,
+      "music": 0.0,
+      "sid": 274,
+      "to": 1138.33
+    },
+    {
+      "content": "他们立刻陷入困境",
+      "from": 1138.61,
+      "location": 2,
+      "music": 0.0,
+      "sid": 275,
+      "to": 1139.95
+    },
+    {
+      "content": "哦不",
+      "from": 1139.95,
+      "location": 2,
+      "music": 0.0,
+      "sid": 276,
+      "to": 1140.77
+    },
+    {
+      "content": "我不知道是谁在上面",
+      "from": 1140.77,
+      "location": 2,
+      "music": 0.0,
+      "sid": 277,
+      "to": 1143.69
+    },
+    {
+      "content": "他走上前",
+      "from": 1143.69,
+      "location": 2,
+      "music": 0.0,
+      "sid": 278,
+      "to": 1144.31
+    },
+    {
+      "content": "收到",
+      "from": 1144.31,
+      "location": 2,
+      "music": 0.0,
+      "sid": 279,
+      "to": 1144.75
+    },
+    {
+      "content": "或者b或者b或者b",
+      "from": 1144.75,
+      "location": 2,
+      "music": 0.0,
+      "sid": 280,
+      "to": 1145.85
+    },
+    {
+      "content": "这就是接下来的",
+      "from": 1145.85,
+      "location": 2,
+      "music": 0.0,
+      "sid": 281,
+      "to": 1148.77
+    },
+    {
+      "content": "我来开门",
+      "from": 1148.77,
+      "location": 2,
+      "music": 0.0,
+      "sid": 282,
+      "to": 1149.81
+    },
+    {
+      "content": "Scgate",
+      "from": 1149.81,
+      "location": 2,
+      "music": 0.0,
+      "sid": 283,
+      "to": 1150.31
+    },
+    {
+      "content": "攀爬闸门",
+      "from": 1150.31,
+      "location": 2,
+      "music": 0.0,
+      "sid": 284,
+      "to": 1150.75
+    },
+    {
+      "content": "你的呢",
+      "from": 1152.11,
+      "location": 2,
+      "music": 0.0,
+      "sid": 285,
+      "to": 1153.63
+    },
+    {
+      "content": "我的天啊",
+      "from": 1153.98,
+      "location": 2,
+      "music": 0.0,
+      "sid": 286,
+      "to": 1154.38
+    },
+    {
+      "content": "五号蝰蛇",
+      "from": 1157.26,
+      "location": 2,
+      "music": 0.0,
+      "sid": 287,
+      "to": 1158.18
+    },
+    {
+      "content": "好的",
+      "from": 1158.18,
+      "location": 2,
+      "music": 0.0,
+      "sid": 288,
+      "to": 1159.08
+    },
+    {
+      "content": "你想玩吗",
+      "from": 1164.14,
+      "location": 2,
+      "music": 0.5818181289256434,
+      "sid": 289,
+      "to": 1165.94
+    },
+    {
+      "content": "音乐",
+      "from": 1165.94,
+      "location": 2,
+      "music": 0.9999998717948883,
+      "sid": 290,
+      "to": 1167.16
+    },
+    {
+      "content": "我看到兄弟",
+      "from": 1167.16,
+      "location": 2,
+      "music": 0.0,
+      "sid": 291,
+      "to": 1169.94
+    },
+    {
+      "content": "我可以拿到这个能量球",
+      "from": 1172.36,
+      "location": 2,
+      "music": 0.0,
+      "sid": 292,
+      "to": 1173.68
+    },
+    {
+      "content": "她这里护肘收好",
+      "from": 1173.68,
+      "location": 2,
+      "music": 0.0,
+      "sid": 293,
+      "to": 1177.04
+    },
+    {
+      "content": "她的护肘可能",
+      "from": 1177.04,
+      "location": 2,
+      "music": 0.0,
+      "sid": 294,
+      "to": 1180.2
+    },
+    {
+      "content": "可能不错",
+      "from": 1180.2,
+      "location": 2,
+      "music": 0.0,
+      "sid": 295,
+      "to": 1182.25
+    },
+    {
+      "content": "一个肘击",
+      "from": 1182.25,
+      "location": 2,
+      "music": 0.0,
+      "sid": 296,
+      "to": 1182.73
+    },
+    {
+      "content": "一个肘击冲天",
+      "from": 1182.73,
+      "location": 2,
+      "music": 0.0,
+      "sid": 297,
+      "to": 1185.96
+    },
+    {
+      "content": "你想",
+      "from": 1186.36,
+      "location": 2,
+      "music": 0.0,
+      "sid": 298,
+      "to": 1187.3
+    },
+    {
+      "content": "我可以走出去",
+      "from": 1187.3,
+      "location": 2,
+      "music": 0.0,
+      "sid": 299,
+      "to": 1188.92
+    },
+    {
+      "content": "嚯嚯嚯嚯嚯",
+      "from": 1193.16,
+      "location": 2,
+      "music": 0.0,
+      "sid": 300,
+      "to": 1195.12
+    },
+    {
+      "content": "没事",
+      "from": 1196.52,
+      "location": 2,
+      "music": 0.0,
+      "sid": 301,
+      "to": 1197.68
+    },
+    {
+      "content": "又多了一个 有人说到一百",
+      "from": 1203.2,
+      "location": 2,
+      "music": 0.0,
+      "sid": 302,
+      "to": 1207.16
+    },
+    {
+      "content": "太棒了",
+      "from": 1213.62,
+      "location": 2,
+      "music": 0.0,
+      "sid": 303,
+      "to": 1214.02
+    },
+    {
+      "content": "是的",
+      "from": 1217.62,
+      "location": 2,
+      "music": 0.0,
+      "sid": 304,
+      "to": 1217.86
+    },
+    {
+      "content": "三十三十",
+      "from": 1218.98,
+      "location": 2,
+      "music": 0.0,
+      "sid": 305,
+      "to": 1219.74
+    },
+    {
+      "content": "五秒内降落",
+      "from": 1219.74,
+      "location": 2,
+      "music": 0.0,
+      "sid": 306,
+      "to": 1221.26
+    },
+    {
+      "content": "就像闪电般",
+      "from": 1221.709,
+      "location": 2,
+      "music": 0.0,
+      "sid": 307,
+      "to": 1224.869
+    },
+    {
+      "content": "我就像",
+      "from": 1231.36,
+      "location": 2,
+      "music": 0.0,
+      "sid": 308,
+      "to": 1232.08
+    },
+    {
+      "content": "我们可以",
+      "from": 1232.08,
+      "location": 2,
+      "music": 0.0,
+      "sid": 309,
+      "to": 1232.54
+    },
+    {
+      "content": "哦算了",
+      "from": 1232.54,
+      "location": 2,
+      "music": 0.0,
+      "sid": 310,
+      "to": 1233.4
+    },
+    {
+      "content": "玛莉是个活体炮塔",
+      "from": 1233.4,
+      "location": 2,
+      "music": 0.0,
+      "sid": 311,
+      "to": 1236.44
+    },
+    {
+      "content": "啊",
+      "from": 1251.76,
+      "location": 2,
+      "music": 0.0,
+      "sid": 312,
+      "to": 1252.18
+    },
+    {
+      "content": "我的天啊",
+      "from": 1252.18,
+      "location": 2,
+      "music": 0.0,
+      "sid": 313,
+      "to": 1253.96
+    },
+    {
+      "content": "别害怕",
+      "from": 1257.7,
+      "location": 2,
+      "music": 0.0,
+      "sid": 314,
+      "to": 1259.46
+    },
+    {
+      "content": "我们靠近",
+      "from": 1264.24,
+      "location": 2,
+      "music": 0.0,
+      "sid": 315,
+      "to": 1265.44
+    },
+    {
+      "content": "一处涂鸦跨越跨越",
+      "from": 1268.04,
+      "location": 2,
+      "music": 0.0,
+      "sid": 316,
+      "to": 1269.7
+    },
+    {
+      "content": "该见鬼的",
+      "from": 1269.7,
+      "location": 2,
+      "music": 0.0,
+      "sid": 317,
+      "to": 1271.0
+    },
+    {
+      "content": "在你下面",
+      "from": 1273.0,
+      "location": 2,
+      "music": 0.0,
+      "sid": 318,
+      "to": 1274.08
+    },
+    {
+      "content": "我的天啊",
+      "from": 1274.08,
+      "location": 2,
+      "music": 0.0,
+      "sid": 319,
+      "to": 1275.92
+    },
+    {
+      "content": "这真肮脏",
+      "from": 1275.92,
+      "location": 2,
+      "music": 0.0,
+      "sid": 320,
+      "to": 1278.82
+    },
+    {
+      "content": "我们正在假装",
+      "from": 1278.82,
+      "location": 2,
+      "music": 0.0,
+      "sid": 321,
+      "to": 1280.2
+    },
+    {
+      "content": "是的",
+      "from": 1280.2,
+      "location": 2,
+      "music": 0.0,
+      "sid": 322,
+      "to": 1280.78
+    },
+    {
+      "content": "没错",
+      "from": 1280.78,
+      "location": 2,
+      "music": 0.0,
+      "sid": 323,
+      "to": 1281.26
+    },
+    {
+      "content": "假的",
+      "from": 1283.02,
+      "location": 2,
+      "music": 0.0,
+      "sid": 324,
+      "to": 1283.26
+    },
+    {
+      "content": "什么",
+      "from": 1283.26,
+      "location": 2,
+      "music": 0.0,
+      "sid": 325,
+      "to": 1285.14
+    },
+    {
+      "content": "让我存在",
+      "from": 1289.14,
+      "location": 2,
+      "music": 0.0,
+      "sid": 326,
+      "to": 1291.26
+    },
+    {
+      "content": "对于hp",
+      "from": 1296.84,
+      "location": 2,
+      "music": 0.0,
+      "sid": 327,
+      "to": 1297.64
+    },
+    {
+      "content": "啊",
+      "from": 1298.96,
+      "location": 2,
+      "music": 0.0,
+      "sid": 328,
+      "to": 1299.16
+    },
+    {
+      "content": "我的天啊",
+      "from": 1299.16,
+      "location": 2,
+      "music": 0.0,
+      "sid": 329,
+      "to": 1300.44
+    },
+    {
+      "content": "他在推你的侧翼",
+      "from": 1315.32,
+      "location": 2,
+      "music": 0.0,
+      "sid": 330,
+      "to": 1317.2
+    },
+    {
+      "content": "我过去重生",
+      "from": 1320.82,
+      "location": 2,
+      "music": 0.0,
+      "sid": 331,
+      "to": 1321.58
+    },
+    {
+      "content": "你以为我在发育",
+      "from": 1321.58,
+      "location": 2,
+      "music": 0.0,
+      "sid": 332,
+      "to": 1322.86
+    },
+    {
+      "content": "只有拥有",
+      "from": 1322.86,
+      "location": 2,
+      "music": 0.0,
+      "sid": 333,
+      "to": 1324.46
+    },
+    {
+      "content": "嗯",
+      "from": 1325.64,
+      "location": 2,
+      "music": 0.0,
+      "sid": 334,
+      "to": 1326.06
+    },
+    {
+      "content": "你有72，两个闪光",
+      "from": 1326.06,
+      "location": 2,
+      "music": 0.0,
+      "sid": 335,
+      "to": 1329.14
+    },
+    {
+      "content": "我就知道",
+      "from": 1331.78,
+      "location": 2,
+      "music": 0.0,
+      "sid": 336,
+      "to": 1333.38
+    },
+    {
+      "content": "就在那里",
+      "from": 1343.86,
+      "location": 2,
+      "music": 0.0,
+      "sid": 337,
+      "to": 1345.98
+    },
+    {
+      "content": "你真是太棒了",
+      "from": 1353.14,
+      "location": 2,
+      "music": 0.0,
+      "sid": 338,
+      "to": 1354.46
+    },
+    {
+      "content": "不",
+      "from": 1354.46,
+      "location": 2,
+      "music": 0.0,
+      "sid": 339,
+      "to": 1354.94
+    },
+    {
+      "content": "你简直肮脏",
+      "from": 1354.94,
+      "location": 2,
+      "music": 0.0,
+      "sid": 340,
+      "to": 1355.84
+    },
+    {
+      "content": "我是说",
+      "from": 1355.84,
+      "location": 2,
+      "music": 0.0,
+      "sid": 341,
+      "to": 1356.24
+    },
+    {
+      "content": "种族",
+      "from": 1356.24,
+      "location": 2,
+      "music": 0.0,
+      "sid": 342,
+      "to": 1357.38
+    },
+    {
+      "content": "天空后方一三低四十",
+      "from": 1358.96,
+      "location": 2,
+      "music": 0.0,
+      "sid": 343,
+      "to": 1361.16
+    },
+    {
+      "content": "你真蠢",
+      "from": 1363.52,
+      "location": 2,
+      "music": 0.0,
+      "sid": 344,
+      "to": 1364.88
+    },
+    {
+      "content": "秃头B玩家等等",
+      "from": 1388.34,
+      "location": 2,
+      "music": 0.0,
+      "sid": 345,
+      "to": 1392.48
+    },
+    {
+      "content": "给我二十五二十五百二十五百二十五",
+      "from": 1392.48,
+      "location": 2,
+      "music": 0.0,
+      "sid": 346,
+      "to": 1396.34
+    },
+    {
+      "content": "那是假的",
+      "from": 1396.34,
+      "location": 2,
+      "music": 0.0,
+      "sid": 347,
+      "to": 1397.02
+    },
+    {
+      "content": "对我来说是假的",
+      "from": 1397.02,
+      "location": 2,
+      "music": 0.0,
+      "sid": 348,
+      "to": 1397.6
+    },
+    {
+      "content": "125岁了",
+      "from": 1397.6,
+      "location": 2,
+      "music": 0.0,
+      "sid": 349,
+      "to": 1399.6
+    },
+    {
+      "content": "我觉得他完了",
+      "from": 1399.6,
+      "location": 2,
+      "music": 0.0,
+      "sid": 350,
+      "to": 1400.52
+    },
+    {
+      "content": "各位",
+      "from": 1400.52,
+      "location": 2,
+      "music": 0.0,
+      "sid": 351,
+      "to": 1400.7
+    },
+    {
+      "content": "我们继续吧",
+      "from": 1400.7,
+      "location": 2,
+      "music": 0.0,
+      "sid": 352,
+      "to": 1401.16
+    },
+    {
+      "content": "我们走1-2-5",
+      "from": 1401.16,
+      "location": 2,
+      "music": 0.0,
+      "sid": 353,
+      "to": 1403.9
+    },
+    {
+      "content": "我的屁股不错",
+      "from": 1403.9,
+      "location": 2,
+      "music": 0.0,
+      "sid": 354,
+      "to": 1405.76
+    },
+    {
+      "content": "现在还没痊愈",
+      "from": 1405.76,
+      "location": 2,
+      "music": 0.0,
+      "sid": 355,
+      "to": 1406.58
+    },
+    {
+      "content": "是的",
+      "from": 1406.58,
+      "location": 2,
+      "music": 0.0,
+      "sid": 356,
+      "to": 1406.96
+    },
+    {
+      "content": "是的",
+      "from": 1406.96,
+      "location": 2,
+      "music": 0.0,
+      "sid": 357,
+      "to": 1407.12
+    },
+    {
+      "content": "是的",
+      "from": 1407.12,
+      "location": 2,
+      "music": 0.0,
+      "sid": 358,
+      "to": 1407.24
+    },
+    {
+      "content": "是的",
+      "from": 1407.24,
+      "location": 2,
+      "music": 0.0,
+      "sid": 359,
+      "to": 1407.36
+    },
+    {
+      "content": "是的",
+      "from": 1407.36,
+      "location": 2,
+      "music": 0.0,
+      "sid": 360,
+      "to": 1407.52
+    },
+    {
+      "content": "是的",
+      "from": 1407.52,
+      "location": 2,
+      "music": 0.0,
+      "sid": 361,
+      "to": 1407.64
+    },
+    {
+      "content": "是的",
+      "from": 1407.64,
+      "location": 2,
+      "music": 0.0,
+      "sid": 362,
+      "to": 1407.76
+    },
+    {
+      "content": "是的",
+      "from": 1407.76,
+      "location": 2,
+      "music": 0.0,
+      "sid": 363,
+      "to": 1407.92
+    },
+    {
+      "content": "是的",
+      "from": 1407.92,
+      "location": 2,
+      "music": 0.0,
+      "sid": 364,
+      "to": 1408.04
+    },
+    {
+      "content": "是的",
+      "from": 1408.04,
+      "location": 2,
+      "music": 0.0,
+      "sid": 365,
+      "to": 1408.24
+    },
+    {
+      "content": "是的",
+      "from": 1408.24,
+      "location": 2,
+      "music": 0.0,
+      "sid": 366,
+      "to": 1408.44
+    },
+    {
+      "content": "是的",
+      "from": 1408.44,
+      "location": 2,
+      "music": 0.0,
+      "sid": 367,
+      "to": 1408.68
+    },
+    {
+      "content": "是的",
+      "from": 1408.68,
+      "location": 2,
+      "music": 0.0,
+      "sid": 368,
+      "to": 1411.92
+    },
+    {
+      "content": "他们会把我养大",
+      "from": 1412.59,
+      "location": 2,
+      "music": 0.0,
+      "sid": 369,
+      "to": 1414.43
+    },
+    {
+      "content": "你给了我这个眼神",
+      "from": 1415.88,
+      "location": 2,
+      "music": 0.16981130473485137,
+      "sid": 370,
+      "to": 1419.2
+    },
+    {
+      "content": "我行动缓慢",
+      "from": 1419.2,
+      "location": 2,
+      "music": 0.0,
+      "sid": 371,
+      "to": 1420.72
+    },
+    {
+      "content": "是的",
+      "from": 1424.54,
+      "location": 2,
+      "music": 0.0,
+      "sid": 372,
+      "to": 1426.0
+    },
+    {
+      "content": "你",
+      "from": 1426.0,
+      "location": 2,
+      "music": 0.0,
+      "sid": 373,
+      "to": 1428.87
+    },
+    {
+      "content": "在一场游戏中带你",
+      "from": 1429.55,
+      "location": 2,
+      "music": 0.0,
+      "sid": 374,
+      "to": 1434.82
+    },
+    {
+      "content": "等一下，两人在墙上",
+      "from": 1440.48,
+      "location": 2,
+      "music": 0.0,
+      "sid": 375,
+      "to": 1441.64
+    },
+    {
+      "content": "墙顶",
+      "from": 1441.64,
+      "location": 2,
+      "music": 0.0,
+      "sid": 376,
+      "to": 1442.08
+    },
+    {
+      "content": "但我和我没错",
+      "from": 1442.08,
+      "location": 2,
+      "music": 0.0,
+      "sid": 377,
+      "to": 1446.22
+    },
+    {
+      "content": "哦 yo",
+      "from": 1446.22,
+      "location": 2,
+      "music": 0.0,
+      "sid": 378,
+      "to": 1448.14
+    },
+    {
+      "content": "你裂开了",
+      "from": 1448.14,
+      "location": 2,
+      "music": 0.0,
+      "sid": 379,
+      "to": 1449.42
+    },
+    {
+      "content": "三二一冲冲冲一二我的",
+      "from": 1450.82,
+      "location": 2,
+      "music": 0.0,
+      "sid": 380,
+      "to": 1454.71
+    },
+    {
+      "content": "这就是一边麦克",
+      "from": 1455.03,
+      "location": 2,
+      "music": 0.0,
+      "sid": 381,
+      "to": 1459.92
+    },
+    {
+      "content": "哦搞定一个",
+      "from": 1459.92,
+      "location": 2,
+      "music": 0.0,
+      "sid": 382,
+      "to": 1463.68
+    },
+    {
+      "content": "这是个陷阱",
+      "from": 1473.92,
+      "location": 2,
+      "music": 0.0,
+      "sid": 383,
+      "to": 1474.84
+    },
+    {
+      "content": "就在这里",
+      "from": 1474.84,
+      "location": 2,
+      "music": 0.0,
+      "sid": 384,
+      "to": 1475.4
+    },
+    {
+      "content": "你上钩了",
+      "from": 1475.4,
+      "location": 2,
+      "music": 0.0,
+      "sid": 385,
+      "to": 1476.8
+    },
+    {
+      "content": "谢谢",
+      "from": 1479.76,
+      "location": 2,
+      "music": 0.0,
+      "sid": 386,
+      "to": 1480.24
+    },
+    {
+      "content": "兔子准备就绪",
+      "from": 1480.24,
+      "location": 2,
+      "music": 0.0,
+      "sid": 387,
+      "to": 1481.48
+    },
+    {
+      "content": "不知为何",
+      "from": 1481.48,
+      "location": 2,
+      "music": 0.0,
+      "sid": 388,
+      "to": 1482.1
+    },
+    {
+      "content": "我的警报失效了",
+      "from": 1482.1,
+      "location": 2,
+      "music": 0.0,
+      "sid": 389,
+      "to": 1482.76
+    },
+    {
+      "content": "是的",
+      "from": 1482.76,
+      "location": 2,
+      "music": 0.0,
+      "sid": 390,
+      "to": 1483.08
+    },
+    {
+      "content": "我意识到",
+      "from": 1484.24,
+      "location": 2,
+      "music": 0.0,
+      "sid": 391,
+      "to": 1485.72
+    },
+    {
+      "content": "你太厉害了",
+      "from": 1512.74,
+      "location": 2,
+      "music": 0.0,
+      "sid": 392,
+      "to": 1514.1
+    },
+    {
+      "content": "那是我闪光瞬间",
+      "from": 1515.1,
+      "location": 2,
+      "music": 0.0,
+      "sid": 393,
+      "to": 1517.06
+    },
+    {
+      "content": "冲啊冲啊",
+      "from": 1517.06,
+      "location": 2,
+      "music": 0.0,
+      "sid": 394,
+      "to": 1518.54
+    },
+    {
+      "content": "右边在右边",
+      "from": 1526.7,
+      "location": 2,
+      "music": 0.0,
+      "sid": 395,
+      "to": 1527.66
+    },
+    {
+      "content": "这是你的",
+      "from": 1527.66,
+      "location": 2,
+      "music": 0.0,
+      "sid": 396,
+      "to": 1528.0
+    },
+    {
+      "content": "这是你的1.1分",
+      "from": 1528.0,
+      "location": 2,
+      "music": 0.0,
+      "sid": 397,
+      "to": 1529.3
+    },
+    {
+      "content": "我有东西",
+      "from": 1530.66,
+      "location": 2,
+      "music": 0.0,
+      "sid": 398,
+      "to": 1531.48
+    },
+    {
+      "content": "是的",
+      "from": 1531.48,
+      "location": 2,
+      "music": 0.0,
+      "sid": 399,
+      "to": 1531.98
+    },
+    {
+      "content": "抢占位置",
+      "from": 1531.98,
+      "location": 2,
+      "music": 0.0,
+      "sid": 400,
+      "to": 1533.42
+    },
+    {
+      "content": "真的无法做到",
+      "from": 1534.96,
+      "location": 2,
+      "music": 0.0,
+      "sid": 401,
+      "to": 1536.6
+    },
+    {
+      "content": "这样也行",
+      "from": 1537.8,
+      "location": 2,
+      "music": 0.0,
+      "sid": 402,
+      "to": 1539.76
+    },
+    {
+      "content": "你真不错",
+      "from": 1541.76,
+      "location": 2,
+      "music": 0.0,
+      "sid": 403,
+      "to": 1543.02
+    },
+    {
+      "content": "上来吧",
+      "from": 1543.02,
+      "location": 2,
+      "music": 0.0,
+      "sid": 404,
+      "to": 1547.45
+    },
+    {
+      "content": "我三十秒内没东西",
+      "from": 1550.89,
+      "location": 2,
+      "music": 0.0,
+      "sid": 405,
+      "to": 1553.57
+    },
+    {
+      "content": "四十五",
+      "from": 1553.57,
+      "location": 2,
+      "music": 0.0,
+      "sid": 406,
+      "to": 1553.97
+    },
+    {
+      "content": "你太棒了",
+      "from": 1557.05,
+      "location": 2,
+      "music": 0.0,
+      "sid": 407,
+      "to": 1558.49
+    },
+    {
+      "content": "这变得真实了",
+      "from": 1558.49,
+      "location": 2,
+      "music": 0.0,
+      "sid": 408,
+      "to": 1559.945
+    },
+    {
+      "content": "嗯哼",
+      "from": 1560.68,
+      "location": 2,
+      "music": 0.0,
+      "sid": 409,
+      "to": 1561.56
+    },
+    {
+      "content": "我不知道",
+      "from": 1561.56,
+      "location": 2,
+      "music": 0.0,
+      "sid": 410,
+      "to": 1563.08
+    },
+    {
+      "content": "来我的草坪吧",
+      "from": 1564.25,
+      "location": 2,
+      "music": 0.0,
+      "sid": 411,
+      "to": 1568.57
+    },
+    {
+      "content": "顺便说一下有闪光",
+      "from": 1570.72,
+      "location": 2,
+      "music": 0.0,
+      "sid": 412,
+      "to": 1572.76
+    },
+    {
+      "content": "右边",
+      "from": 1578.96,
+      "location": 2,
+      "music": 0.0,
+      "sid": 413,
+      "to": 1580.36
+    },
+    {
+      "content": "在孩子们面前保护你并共同主导",
+      "from": 1585.24,
+      "location": 2,
+      "music": 0.0,
+      "sid": 414,
+      "to": 1589.14
+    },
+    {
+      "content": "所以这家伙像只吓人的狗",
+      "from": 1589.14,
+      "location": 2,
+      "music": 0.0,
+      "sid": 415,
+      "to": 1591.18
+    },
+    {
+      "content": "这钥匙才是真货",
+      "from": 1591.18,
+      "location": 2,
+      "music": 0.0,
+      "sid": 416,
+      "to": 1592.74
+    },
+    {
+      "content": "天啊",
+      "from": 1592.74,
+      "location": 2,
+      "music": 0.0,
+      "sid": 417,
+      "to": 1594.0
+    },
+    {
+      "content": "要么死了要么把你扔回去",
+      "from": 1594.0,
+      "location": 2,
+      "music": 0.0,
+      "sid": 418,
+      "to": 1597.58
+    },
+    {
+      "content": "是的",
+      "from": 1597.58,
+      "location": 2,
+      "music": 0.0,
+      "sid": 419,
+      "to": 1597.98
+    },
+    {
+      "content": "这正是我需要的",
+      "from": 1597.98,
+      "location": 2,
+      "music": 0.0,
+      "sid": 420,
+      "to": 1598.68
+    },
+    {
+      "content": "别",
+      "from": 1598.68,
+      "location": 2,
+      "music": 0.0,
+      "sid": 421,
+      "to": 1599.02
+    },
+    {
+      "content": "你难道有真正的房间吗",
+      "from": 1599.02,
+      "location": 2,
+      "music": 0.0,
+      "sid": 422,
+      "to": 1601.21
+    },
+    {
+      "content": "我的天啊",
+      "from": 1601.21,
+      "location": 2,
+      "music": 0.0,
+      "sid": 423,
+      "to": 1601.93
+    },
+    {
+      "content": "的",
+      "from": 1603.17,
+      "location": 2,
+      "music": 0.0,
+      "sid": 424,
+      "to": 1603.93
+    },
+    {
+      "content": "需要你帮忙",
+      "from": 1603.93,
+      "location": 2,
+      "music": 0.0,
+      "sid": 425,
+      "to": 1605.69
+    },
+    {
+      "content": "你难道在建他妈的",
+      "from": 1605.69,
+      "location": 2,
+      "music": 0.0,
+      "sid": 426,
+      "to": 1607.93
+    },
+    {
+      "content": "他们都在那边",
+      "from": 1612.3,
+      "location": 2,
+      "music": 0.0,
+      "sid": 427,
+      "to": 1615.42
+    },
+    {
+      "content": "也许不是你的",
+      "from": 1618.3,
+      "location": 2,
+      "music": 0.0,
+      "sid": 428,
+      "to": 1620.7
+    },
+    {
+      "content": "可能吧",
+      "from": 1624.04,
+      "location": 2,
+      "music": 0.0,
+      "sid": 429,
+      "to": 1624.56
+    },
+    {
+      "content": "所以我得到了尊重的房子",
+      "from": 1627.44,
+      "location": 2,
+      "music": 0.0,
+      "sid": 430,
+      "to": 1629.92
+    },
+    {
+      "content": "四十号可能有两个",
+      "from": 1662.52,
+      "location": 2,
+      "music": 0.0,
+      "sid": 431,
+      "to": 1665.68
+    },
+    {
+      "content": "等等一个肘部",
+      "from": 1676.02,
+      "location": 2,
+      "music": 0.0,
+      "sid": 432,
+      "to": 1676.9
+    },
+    {
+      "content": "他们正在分开",
+      "from": 1676.9,
+      "location": 2,
+      "music": 0.0,
+      "sid": 433,
+      "to": 1677.76
+    },
+    {
+      "content": "他们在分你",
+      "from": 1677.76,
+      "location": 2,
+      "music": 0.0,
+      "sid": 434,
+      "to": 1680.24
+    },
+    {
+      "content": "是的关于这个",
+      "from": 1680.24,
+      "location": 2,
+      "music": 0.0,
+      "sid": 435,
+      "to": 1682.02
+    },
+    {
+      "content": "我来了",
+      "from": 1682.42,
+      "location": 2,
+      "music": 0.0,
+      "sid": 436,
+      "to": 1683.24
+    },
+    {
+      "content": "天啊",
+      "from": 1683.24,
+      "location": 2,
+      "music": 0.0,
+      "sid": 437,
+      "to": 1683.78
+    },
+    {
+      "content": "得走了",
+      "from": 1685.7,
+      "location": 2,
+      "music": 0.0,
+      "sid": 438,
+      "to": 1686.94
+    },
+    {
+      "content": "目标已锁定",
+      "from": 1690.16,
+      "location": 2,
+      "music": 0.0,
+      "sid": 439,
+      "to": 1692.3
+    },
+    {
+      "content": "弯腰",
+      "from": 1736.32,
+      "location": 2,
+      "music": 0.0,
+      "sid": 440,
+      "to": 1737.0
+    },
+    {
+      "content": "弯腰",
+      "from": 1737.0,
+      "location": 2,
+      "music": 0.0,
+      "sid": 441,
+      "to": 1737.52
+    },
+    {
+      "content": "我懂啊",
+      "from": 1737.52,
+      "location": 2,
+      "music": 0.0,
+      "sid": 442,
+      "to": 1738.92
+    },
+    {
+      "content": "这太燃了",
+      "from": 1742.56,
+      "location": 2,
+      "music": 0.0,
+      "sid": 443,
+      "to": 1744.24
+    },
+    {
+      "content": "嘿",
+      "from": 1752.96,
+      "location": 2,
+      "music": 0.0,
+      "sid": 444,
+      "to": 1754.22
+    },
+    {
+      "content": "给我一些击杀",
+      "from": 1754.22,
+      "location": 2,
+      "music": 0.0,
+      "sid": 445,
+      "to": 1755.36
+    },
+    {
+      "content": "请",
+      "from": 1755.36,
+      "location": 2,
+      "music": 0.0,
+      "sid": 446,
+      "to": 1756.32
+    },
+    {
+      "content": "这就是地方",
+      "from": 1763.9,
+      "location": 2,
+      "music": 0.0,
+      "sid": 447,
+      "to": 1766.62
+    },
+    {
+      "content": "马上回来",
+      "from": 1772.58,
+      "location": 2,
+      "music": 0.0,
+      "sid": 448,
+      "to": 1774.3
+    },
+    {
+      "content": "这就是击杀",
+      "from": 1795.04,
+      "location": 2,
+      "music": 0.0,
+      "sid": 449,
+      "to": 1795.8
+    },
+    {
+      "content": "哦",
+      "from": 1797.4,
+      "location": 2,
+      "music": 0.0,
+      "sid": 450,
+      "to": 1798.6
+    },
+    {
+      "content": "音乐",
+      "from": 1803.02,
+      "location": 2,
+      "music": 0.9999998750000156,
+      "sid": 451,
+      "to": 1806.3
+    },
+    {
+      "content": "音乐",
+      "from": 1807.72,
+      "location": 2,
+      "music": 0.6428571045919067,
+      "sid": 452,
+      "to": 1812.04
+    },
+    {
+      "content": "再来一次",
+      "from": 1851.48,
+      "location": 2,
+      "music": 0.0,
+      "sid": 453,
+      "to": 1852.76
+    },
+    {
+      "content": "天啊",
+      "from": 1855.28,
+      "location": 2,
+      "music": 0.0,
+      "sid": 454,
+      "to": 1856.4
+    },
+    {
+      "content": "正在挖掘是的",
+      "from": 1860.58,
+      "location": 2,
+      "music": 0.0,
+      "sid": 455,
+      "to": 1862.58
+    },
+    {
+      "content": "是的",
+      "from": 1865.02,
+      "location": 2,
+      "music": 0.0,
+      "sid": 456,
+      "to": 1865.88
+    },
+    {
+      "content": "嘿",
+      "from": 1866.28,
+      "location": 2,
+      "music": 0.0,
+      "sid": 457,
+      "to": 1866.96
+    },
+    {
+      "content": "我爱你",
+      "from": 1866.96,
+      "location": 2,
+      "music": 0.0,
+      "sid": 458,
+      "to": 1867.6
+    },
+    {
+      "content": "你是最棒的 yo",
+      "from": 1867.6,
+      "location": 2,
+      "music": 0.0,
+      "sid": 459,
+      "to": 1868.56
+    },
+    {
+      "content": "我们疯了吗",
+      "from": 1868.56,
+      "location": 2,
+      "music": 0.0,
+      "sid": 460,
+      "to": 1869.68
+    },
+    {
+      "content": "什么 yo",
+      "from": 1869.68,
+      "location": 2,
+      "music": 0.0,
+      "sid": 461,
+      "to": 1871.6
+    },
+    {
+      "content": "我七杀到手了",
+      "from": 1871.6,
+      "location": 2,
+      "music": 0.0,
+      "sid": 462,
+      "to": 1873.06
+    }
+  ]
+}

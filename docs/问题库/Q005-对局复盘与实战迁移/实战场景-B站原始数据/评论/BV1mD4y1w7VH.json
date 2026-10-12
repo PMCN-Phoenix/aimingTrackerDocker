@@ -1,0 +1,62 @@
+[
+  {
+    "message": "穿透后子弹伤害递减吗。",
+    "like": 5,
+    "rcount": 0,
+    "subs": []
+  },
+  {
+    "message": "穿透后伤害呢，是固定衰减还是有影响变量",
+    "like": 4,
+    "rcount": 1,
+    "subs": [
+      {
+        "message": "墙越厚伤害越低",
+        "like": 3
+      }
+    ]
+  },
+  {
+    "message": "穿透力和穿透伤害与射击点和墙体的距离有没有关系",
+    "like": 3,
+    "rcount": 9,
+    "subs": [
+      {
+        "message": "回复 @异托思Sensrey :一样会影响最后的穿透伤害啊   穿透比例不变",
+        "like": 0
+      },
+      {
+        "message": "回复 @跃动核子丶 :那是距离衰减，和穿透没关系，而且很多枪是不随距离衰减的",
+        "like": 0
+      },
+      {
+        "message": "回复 @跃动核子丶 :所以穿透力没关系  穿透伤害有",
+        "like": 0
+      }
+    ]
+  },
+  {
+    "message": "这么专业+严谨的视频怎么没人看！！！",
+    "like": 2,
+    "rcount": 0,
+    "subs": []
+  },
+  {
+    "message": "[打call]",
+    "like": 0,
+    "rcount": 0,
+    "subs": []
+  },
+  {
+    "message": "学到了，感谢up！",
+    "like": 0,
+    "rcount": 0,
+    "subs": []
+  },
+  {
+    "message": "鼓励鼓励",
+    "like": 0,
+    "rcount": 0,
+    "subs": []
+  }
+]

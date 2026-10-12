@@ -1,0 +1,444 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "v1.7.0.4",
+  "body": [
+    {
+      "from": 0.0,
+      "to": 2.77,
+      "sid": 1,
+      "location": 2,
+      "content": "一般情况在面临高低差的这种情况",
+      "music": 0.0
+    },
+    {
+      "from": 2.77,
+      "to": 3.13,
+      "sid": 2,
+      "location": 2,
+      "content": "对不对",
+      "music": 0.0
+    },
+    {
+      "from": 3.13,
+      "to": 4.97,
+      "sid": 3,
+      "location": 2,
+      "content": "楼梯数就是属于一个高低差",
+      "music": 0.0
+    },
+    {
+      "from": 4.97,
+      "to": 7.61,
+      "sid": 4,
+      "location": 2,
+      "content": "那么高低差的前点和后点的一个站位",
+      "music": 0.0
+    },
+    {
+      "from": 7.61,
+      "to": 8.71,
+      "sid": 5,
+      "location": 2,
+      "content": "会改变爆头线",
+      "music": 0.0
+    },
+    {
+      "from": 8.71,
+      "to": 10.84,
+      "sid": 6,
+      "location": 2,
+      "content": "所以你直架高低差这个时间有点太久了",
+      "music": 0.0
+    },
+    {
+      "from": 10.84,
+      "to": 14.04,
+      "sid": 7,
+      "location": 2,
+      "content": "那么我们就不如用快速的一个搜点",
+      "music": 0.0
+    },
+    {
+      "from": 14.04,
+      "to": 15.02,
+      "sid": 8,
+      "location": 2,
+      "content": "然后进到B停",
+      "music": 0.0
+    },
+    {
+      "from": 15.02,
+      "to": 16.4,
+      "sid": 9,
+      "location": 2,
+      "content": "或者是这种逼停前点",
+      "music": 0.0
+    },
+    {
+      "from": 16.4,
+      "to": 16.64,
+      "sid": 10,
+      "location": 2,
+      "content": "对",
+      "music": 0.0
+    },
+    {
+      "from": 16.64,
+      "to": 18.12,
+      "sid": 11,
+      "location": 2,
+      "content": "就这前点的这个位置",
+      "music": 0.0
+    },
+    {
+      "from": 18.12,
+      "to": 20.24,
+      "sid": 12,
+      "location": 2,
+      "content": "避免面临高地这种情况",
+      "music": 0.0
+    },
+    {
+      "from": 20.24,
+      "to": 21.12,
+      "sid": 13,
+      "location": 2,
+      "content": "除非对吧",
+      "music": 0.0
+    },
+    {
+      "from": 21.12,
+      "to": 22.48,
+      "sid": 14,
+      "location": 2,
+      "content": "除非你是高低差",
+      "music": 0.0
+    },
+    {
+      "from": 22.48,
+      "to": 23.76,
+      "sid": 15,
+      "location": 2,
+      "content": "你在高低差这种情况",
+      "music": 0.0
+    },
+    {
+      "from": 23.76,
+      "to": 24.82,
+      "sid": 16,
+      "location": 2,
+      "content": "那么对对方的话",
+      "music": 0.0
+    },
+    {
+      "from": 24.82,
+      "to": 25.6,
+      "sid": 17,
+      "location": 2,
+      "content": "如果在指向你",
+      "music": 0.0
+    },
+    {
+      "from": 25.6,
+      "to": 28.16,
+      "sid": 18,
+      "location": 2,
+      "content": "你可以就是按照我们刚刚说的前点和后点",
+      "music": 0.0
+    },
+    {
+      "from": 28.16,
+      "to": 29.06,
+      "sid": 19,
+      "location": 2,
+      "content": "改变一下站位",
+      "music": 0.0
+    },
+    {
+      "from": 29.06,
+      "to": 29.76,
+      "sid": 20,
+      "location": 2,
+      "content": "改变暴走线",
+      "music": 0.0
+    },
+    {
+      "from": 29.76,
+      "to": 30.44,
+      "sid": 21,
+      "location": 2,
+      "content": "这样拉出来",
+      "music": 0.0
+    },
+    {
+      "from": 30.44,
+      "to": 33.26,
+      "sid": 22,
+      "location": 2,
+      "content": "那对方的话就基本上很难去架得住",
+      "music": 0.0
+    },
+    {
+      "from": 33.26,
+      "to": 34.52,
+      "sid": 23,
+      "location": 2,
+      "content": "我在楼梯这儿",
+      "music": 0.0
+    },
+    {
+      "from": 34.52,
+      "to": 36.87,
+      "sid": 24,
+      "location": 2,
+      "content": "然后你进行一个楼梯的支架好",
+      "music": 0.0
+    },
+    {
+      "from": 36.87,
+      "to": 38.53,
+      "sid": 25,
+      "location": 2,
+      "content": "我会改变我的一个站位",
+      "music": 0.0
+    },
+    {
+      "from": 38.53,
+      "to": 39.81,
+      "sid": 26,
+      "location": 2,
+      "content": "看你是否能记得住",
+      "music": 0.0
+    },
+    {
+      "from": 39.81,
+      "to": 41.47,
+      "sid": 27,
+      "location": 2,
+      "content": "来321",
+      "music": 0.0
+    },
+    {
+      "from": 42.67,
+      "to": 45.01,
+      "sid": 28,
+      "location": 2,
+      "content": "那么这个就是高低差的一些问题",
+      "music": 0.0
+    },
+    {
+      "from": 45.01,
+      "to": 47.58,
+      "sid": 29,
+      "location": 2,
+      "content": "如果我站在有高低差的一些地方",
+      "music": 0.0
+    },
+    {
+      "from": 47.58,
+      "to": 50.52,
+      "sid": 30,
+      "location": 2,
+      "content": "前后的一个站位会改变你视角里面的爆头线",
+      "music": 0.0
+    },
+    {
+      "from": 50.52,
+      "to": 52.7,
+      "sid": 31,
+      "location": 2,
+      "content": "如果你的游戏时长超过300小时",
+      "music": 0.0
+    },
+    {
+      "from": 52.7,
+      "to": 54.54,
+      "sid": 32,
+      "location": 2,
+      "content": "却仍然处于较低的分段",
+      "music": 0.0
+    },
+    {
+      "from": 54.54,
+      "to": 56.1,
+      "sid": 33,
+      "location": 2,
+      "content": "那我和我的职业教练团队",
+      "music": 0.0
+    },
+    {
+      "from": 56.1,
+      "to": 59.18,
+      "sid": 34,
+      "location": 2,
+      "content": "能在较短的时间内帮助你快速高效的提升",
+      "music": 0.0
+    },
+    {
+      "from": 59.18,
+      "to": 59.74,
+      "sid": 35,
+      "location": 2,
+      "content": "我们的学员",
+      "music": 0.0
+    },
+    {
+      "from": 59.74,
+      "to": 62.76,
+      "sid": 36,
+      "location": 2,
+      "content": "平均每人在十周内至少可以提升500分",
+      "music": 0.0
+    },
+    {
+      "from": 62.76,
+      "to": 65.06,
+      "sid": 37,
+      "location": 2,
+      "content": "这些是学员对我们的一些评价",
+      "music": 0.0
+    },
+    {
+      "from": 65.06,
+      "to": 67.08,
+      "sid": 38,
+      "location": 2,
+      "content": "我们提供一对一的私人指导",
+      "music": 0.0
+    },
+    {
+      "from": 67.08,
+      "to": 67.94,
+      "sid": 39,
+      "location": 2,
+      "content": "定制训练等",
+      "music": 0.0
+    },
+    {
+      "from": 67.94,
+      "to": 69.86,
+      "sid": 40,
+      "location": 2,
+      "content": "让你的预瞄身位控制地图",
+      "music": 0.0
+    },
+    {
+      "from": 69.86,
+      "to": 72.21,
+      "sid": 41,
+      "location": 2,
+      "content": "理解游戏思路得到全面提升",
+      "music": 0.0
+    },
+    {
+      "from": 72.21,
+      "to": 73.07,
+      "sid": 42,
+      "location": 2,
+      "content": "好继续",
+      "music": 0.0
+    },
+    {
+      "from": 73.07,
+      "to": 75.47,
+      "sid": 43,
+      "location": 2,
+      "content": "那么首先第一个击杀是没什么问题的",
+      "music": 0.0
+    },
+    {
+      "from": 75.47,
+      "to": 76.71,
+      "sid": 44,
+      "location": 2,
+      "content": "但是好暂停",
+      "music": 0.0
+    },
+    {
+      "from": 76.71,
+      "to": 78.93,
+      "sid": 45,
+      "location": 2,
+      "content": "你现在这个站位等于是面临多象限",
+      "music": 0.0
+    },
+    {
+      "from": 78.93,
+      "to": 81.76,
+      "sid": 46,
+      "location": 2,
+      "content": "而且会在对方的一个预瞄点上",
+      "music": 0.0
+    },
+    {
+      "from": 81.76,
+      "to": 84.4,
+      "sid": 47,
+      "location": 2,
+      "content": "你在中路这个地方已经拿到了一个击杀之后",
+      "music": 0.0
+    },
+    {
+      "from": 84.4,
+      "to": 86.44,
+      "sid": 48,
+      "location": 2,
+      "content": "对方已经拿到了你的准确信息",
+      "music": 0.0
+    },
+    {
+      "from": 86.44,
+      "to": 89.04,
+      "sid": 49,
+      "location": 2,
+      "content": "想必会直接大拉出来预瞄你",
+      "music": 0.0
+    },
+    {
+      "from": 89.04,
+      "to": 92.27,
+      "sid": 50,
+      "location": 2,
+      "content": "那么这个时候你可以往贴左边墙",
+      "music": 0.0
+    },
+    {
+      "from": 92.27,
+      "to": 95.85,
+      "sid": 51,
+      "location": 2,
+      "content": "或者大拉到右边去抓对方一个预瞄timing",
+      "music": 0.0
+    },
+    {
+      "from": 95.85,
+      "to": 98.38,
+      "sid": 52,
+      "location": 2,
+      "content": "对方的一个预瞄点已经不在你当前的位置",
+      "music": 0.0
+    },
+    {
+      "from": 98.38,
+      "to": 100.68,
+      "sid": 53,
+      "location": 2,
+      "content": "现在这个时候也能够以一个简单击杀",
+      "music": 0.0
+    },
+    {
+      "from": 100.68,
+      "to": 102.08,
+      "sid": 54,
+      "location": 2,
+      "content": "把对方击杀掉",
+      "music": 0.0
+    }
+  ]
+}
