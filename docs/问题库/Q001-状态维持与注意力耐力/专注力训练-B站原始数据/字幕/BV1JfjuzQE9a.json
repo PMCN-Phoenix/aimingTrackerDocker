@@ -1,0 +1,1218 @@
+[
+  {
+    "from": 1.34,
+    "to": 1.96,
+    "sid": 1,
+    "location": 2,
+    "content": "你好",
+    "music": 0.0
+  },
+  {
+    "from": 1.96,
+    "to": 3.61,
+    "sid": 2,
+    "location": 2,
+    "content": "我是小易",
+    "music": 0.0
+  },
+  {
+    "from": 4.01,
+    "to": 5.35,
+    "sid": 3,
+    "location": 2,
+    "content": "好久不见",
+    "music": 0.0
+  },
+  {
+    "from": 5.35,
+    "to": 8.29,
+    "sid": 4,
+    "location": 2,
+    "content": "欢迎来到今天的冥想练习",
+    "music": 0.0
+  },
+  {
+    "from": 9.53,
+    "to": 12.219,
+    "sid": 5,
+    "location": 2,
+    "content": "帮助你提升专注力",
+    "music": 0.0
+  },
+  {
+    "from": 12.619,
+    "to": 14.139,
+    "sid": 6,
+    "location": 2,
+    "content": "刚开始的时候",
+    "music": 0.0
+  },
+  {
+    "from": 14.139,
+    "to": 17.599,
+    "sid": 7,
+    "location": 2,
+    "content": "你可能会发现你会时而投入",
+    "music": 0.0
+  },
+  {
+    "from": 17.599,
+    "to": 19.3,
+    "sid": 8,
+    "location": 2,
+    "content": "时而有礼",
+    "music": 0.0
+  },
+  {
+    "from": 19.3,
+    "to": 23.58,
+    "sid": 9,
+    "location": 2,
+    "content": "心思会像一只小鸟一样飞来飞去",
+    "music": 0.0
+  },
+  {
+    "from": 23.58,
+    "to": 25.71,
+    "sid": 10,
+    "location": 2,
+    "content": "这都很正常",
+    "music": 0.0
+  },
+  {
+    "from": 25.99,
+    "to": 31.67,
+    "sid": 11,
+    "location": 2,
+    "content": "慢慢的你会发现聚焦变得越来越容易",
+    "music": 0.0
+  },
+  {
+    "from": 31.67,
+    "to": 34.13,
+    "sid": 12,
+    "location": 2,
+    "content": "就像训练肌肉一样",
+    "music": 0.0
+  },
+  {
+    "from": 34.13,
+    "to": 36.11,
+    "sid": 13,
+    "location": 2,
+    "content": "随着时间的推移",
+    "music": 0.0
+  },
+  {
+    "from": 36.11,
+    "to": 38.61,
+    "sid": 14,
+    "location": 2,
+    "content": "将注意力保持在一处",
+    "music": 0.0
+  },
+  {
+    "from": 38.61,
+    "to": 41.114,
+    "sid": 15,
+    "location": 2,
+    "content": "会变得更加容易",
+    "music": 0.0
+  },
+  {
+    "from": 42.7,
+    "to": 47.39,
+    "sid": 16,
+    "location": 2,
+    "content": "首先让我们给自己一个小小的表扬",
+    "music": 0.0
+  },
+  {
+    "from": 47.67,
+    "to": 52.81,
+    "sid": 17,
+    "location": 2,
+    "content": "因为你今天选择了要照顾自己的内心",
+    "music": 0.0
+  },
+  {
+    "from": 53.33,
+    "to": 58.45,
+    "sid": 18,
+    "location": 2,
+    "content": "现在就让我们找一个让你觉得舒服的姿势",
+    "music": 0.0
+  },
+  {
+    "from": 58.45,
+    "to": 60.39,
+    "sid": 19,
+    "location": 2,
+    "content": "坐下来",
+    "music": 0.0
+  },
+  {
+    "from": 60.83,
+    "to": 62.47,
+    "sid": 20,
+    "location": 2,
+    "content": "可以是沙发上",
+    "music": 0.0
+  },
+  {
+    "from": 63.67,
+    "to": 64.77,
+    "sid": 21,
+    "location": 2,
+    "content": "地板上",
+    "music": 0.0
+  },
+  {
+    "from": 64.77,
+    "to": 68.79,
+    "sid": 22,
+    "location": 2,
+    "content": "或者是你喜欢的任何地方",
+    "music": 0.0
+  },
+  {
+    "from": 69.79,
+    "to": 75.73,
+    "sid": 23,
+    "location": 2,
+    "content": "让后背保持自然挺直那种感觉",
+    "music": 0.0
+  },
+  {
+    "from": 75.73,
+    "to": 78.31,
+    "sid": 24,
+    "location": 2,
+    "content": "就像有一根温柔的线",
+    "music": 0.0
+  },
+  {
+    "from": 78.31,
+    "to": 82.539,
+    "sid": 25,
+    "location": 2,
+    "content": "从你的尾椎一直拉到头顶",
+    "music": 0.0
+  },
+  {
+    "from": 83.019,
+    "to": 87.139,
+    "sid": 26,
+    "location": 2,
+    "content": "这样让你既放松又有支撑",
+    "music": 0.0
+  },
+  {
+    "from": 88.54,
+    "to": 93.65,
+    "sid": 27,
+    "location": 2,
+    "content": "接着把手轻轻地放在大腿或者膝盖上",
+    "music": 0.0
+  },
+  {
+    "from": 94.21,
+    "to": 95.37,
+    "sid": 28,
+    "location": 2,
+    "content": "手心向下",
+    "music": 0.0
+  },
+  {
+    "from": 97.25,
+    "to": 100.81,
+    "sid": 29,
+    "location": 2,
+    "content": "感受着这份安稳的触感",
+    "music": 0.0
+  },
+  {
+    "from": 104.46,
+    "to": 106.06,
+    "sid": 30,
+    "location": 2,
+    "content": "当你准备好这一切",
+    "music": 0.0
+  },
+  {
+    "from": 107.66,
+    "to": 110.86,
+    "sid": 31,
+    "location": 2,
+    "content": "就轻轻地闭上眼睛",
+    "music": 0.0
+  },
+  {
+    "from": 114.4,
+    "to": 116.24,
+    "sid": 32,
+    "location": 2,
+    "content": "让它们自然地合上",
+    "music": 0.0
+  },
+  {
+    "from": 118.0,
+    "to": 120.92,
+    "sid": 33,
+    "location": 2,
+    "content": "仿佛是夜晚的花朵一样",
+    "music": 0.0
+  },
+  {
+    "from": 124.04,
+    "to": 130.56,
+    "sid": 34,
+    "location": 2,
+    "content": "现在让我们把注意力放在你的呼吸上",
+    "music": 0.0
+  },
+  {
+    "from": 133.32,
+    "to": 139.52,
+    "sid": 35,
+    "location": 2,
+    "content": "去感受空气是如何温柔地进入你的身体",
+    "music": 0.0
+  },
+  {
+    "from": 142.76,
+    "to": 148.24,
+    "sid": 36,
+    "location": 2,
+    "content": "让肚子像气球一样轻轻地鼓起来",
+    "music": 0.0
+  },
+  {
+    "from": 149.62,
+    "to": 154.66,
+    "sid": 37,
+    "location": 2,
+    "content": "然后在呼气时又缓缓地收回",
+    "music": 0.0
+  },
+  {
+    "from": 157.96,
+    "to": 160.08,
+    "sid": 38,
+    "location": 2,
+    "content": "不用刻意地调整呼吸",
+    "music": 0.0
+  },
+  {
+    "from": 161.52,
+    "to": 164.4,
+    "sid": 39,
+    "location": 2,
+    "content": "让它自然地流动就好",
+    "music": 0.0
+  },
+  {
+    "from": 172.82,
+    "to": 176.62,
+    "sid": 40,
+    "location": 2,
+    "content": "感受你现在坐着的部位",
+    "music": 0.0
+  },
+  {
+    "from": 178.1,
+    "to": 182.66,
+    "sid": 41,
+    "location": 2,
+    "content": "或许是臀部大腿",
+    "music": 0.0
+  },
+  {
+    "from": 183.55,
+    "to": 187.39,
+    "sid": 42,
+    "location": 2,
+    "content": "与地面或者椅子的接触",
+    "music": 0.0
+  },
+  {
+    "from": 196.6,
+    "to": 203.2,
+    "sid": 43,
+    "location": 2,
+    "content": "这些注意力都是把你锚定在当下的小小的提醒",
+    "music": 0.0
+  },
+  {
+    "from": 208.82,
+    "to": 211.37,
+    "sid": 44,
+    "location": 2,
+    "content": "在接下来的冥想中",
+    "music": 0.0
+  },
+  {
+    "from": 211.81,
+    "to": 217.18,
+    "sid": 45,
+    "location": 2,
+    "content": "你的思绪可能会像顽皮的孩子一样跑开",
+    "music": 0.0
+  },
+  {
+    "from": 217.74,
+    "to": 220.269,
+    "sid": 46,
+    "location": 2,
+    "content": "这也完全没有关系",
+    "music": 0.0
+  },
+  {
+    "from": 220.709,
+    "to": 223.109,
+    "sid": 47,
+    "location": 2,
+    "content": "只是当你注意到这一点的时候",
+    "music": 0.0
+  },
+  {
+    "from": 224.389,
+    "to": 225.949,
+    "sid": 48,
+    "location": 2,
+    "content": "千万不要责备自己",
+    "music": 0.0
+  },
+  {
+    "from": 227.109,
+    "to": 229.815,
+    "sid": 49,
+    "location": 2,
+    "content": "只需要轻轻的微笑",
+    "music": 0.0
+  },
+  {
+    "from": 230.52,
+    "to": 233.72,
+    "sid": 50,
+    "location": 2,
+    "content": "像对待一个走失的小朋友一样",
+    "music": 0.0
+  },
+  {
+    "from": 235.28,
+    "to": 237.95,
+    "sid": 51,
+    "location": 2,
+    "content": "温柔地牵起她的手",
+    "music": 0.0
+  },
+  {
+    "from": 238.43,
+    "to": 244.35,
+    "sid": 52,
+    "location": 2,
+    "content": "带她回到我们的呼吸和此刻的感受当中",
+    "music": 0.0
+  },
+  {
+    "from": 258.24,
+    "to": 263.72,
+    "sid": 53,
+    "location": 2,
+    "content": "现在我想请您用心想象一下",
+    "music": 0.0
+  },
+  {
+    "from": 265.36,
+    "to": 271.76,
+    "sid": 54,
+    "location": 2,
+    "content": "在你面前展开了一片宁静的湖水",
+    "music": 0.0
+  },
+  {
+    "from": 275.32,
+    "to": 277.96,
+    "sid": 55,
+    "location": 2,
+    "content": "这片湖水清澈",
+    "music": 0.0
+  },
+  {
+    "from": 280.04,
+    "to": 281.44,
+    "sid": 56,
+    "location": 2,
+    "content": "静止",
+    "music": 0.0
+  },
+  {
+    "from": 284.52,
+    "to": 287.84,
+    "sid": 57,
+    "location": 2,
+    "content": "阳光在水面上跳跃",
+    "music": 0.0
+  },
+  {
+    "from": 288.52,
+    "to": 293.0,
+    "sid": 58,
+    "location": 2,
+    "content": "就像撒了一层细碎的金粉",
+    "music": 0.0
+  },
+  {
+    "from": 297.76,
+    "to": 304.8,
+    "sid": 59,
+    "location": 2,
+    "content": "这时的你赤脚站在湖边柔软的沙地上",
+    "music": 0.0
+  },
+  {
+    "from": 309.36,
+    "to": 317.33,
+    "sid": 60,
+    "location": 2,
+    "content": "感受着细腻的沙粒在每一个脚趾间的触感",
+    "music": 0.0
+  },
+  {
+    "from": 323.2,
+    "to": 326.72,
+    "sid": 61,
+    "location": 2,
+    "content": "微风轻抚你的脸颊",
+    "music": 0.0
+  },
+  {
+    "from": 331.52,
+    "to": 336.36,
+    "sid": 62,
+    "location": 2,
+    "content": "在这个湖泊上倒映着什么呢",
+    "music": 0.0
+  },
+  {
+    "from": 339.12,
+    "to": 342.48,
+    "sid": 63,
+    "location": 2,
+    "content": "是远处连绵的青山",
+    "music": 0.0
+  },
+  {
+    "from": 344.62,
+    "to": 347.06,
+    "sid": 64,
+    "location": 2,
+    "content": "是周围的树木",
+    "music": 0.0
+  },
+  {
+    "from": 348.86,
+    "to": 352.02,
+    "sid": 65,
+    "location": 2,
+    "content": "还是头顶飘过的白云",
+    "music": 0.0
+  },
+  {
+    "from": 358.1,
+    "to": 362.83,
+    "sid": 66,
+    "location": 2,
+    "content": "试图让这个画面在你的心中",
+    "music": 0.0
+  },
+  {
+    "from": 363.31,
+    "to": 367.11,
+    "sid": 67,
+    "location": 2,
+    "content": "慢慢地变得清晰起来",
+    "music": 0.0
+  },
+  {
+    "from": 385.62,
+    "to": 392.3,
+    "sid": 68,
+    "location": 2,
+    "content": "接下来请您从心底选择一个词语",
+    "music": 0.0
+  },
+  {
+    "from": 393.58,
+    "to": 399.3,
+    "sid": 69,
+    "location": 2,
+    "content": "这个词语将陪伴你完成整个冥想",
+    "music": 0.0
+  },
+  {
+    "from": 400.98,
+    "to": 406.06,
+    "sid": 70,
+    "location": 2,
+    "content": "它可能自然而然地浮现在你的脑海中",
+    "music": 0.0
+  },
+  {
+    "from": 406.93,
+    "to": 411.17,
+    "sid": 71,
+    "location": 2,
+    "content": "这个词也许是宁静",
+    "music": 0.0
+  },
+  {
+    "from": 413.16,
+    "to": 418.2,
+    "sid": 72,
+    "location": 2,
+    "content": "也许是放松专注",
+    "music": 0.0
+  },
+  {
+    "from": 419.6,
+    "to": 424.28,
+    "sid": 73,
+    "location": 2,
+    "content": "或者是任何对你特别有意义的词",
+    "music": 0.0
+  },
+  {
+    "from": 427.46,
+    "to": 430.22,
+    "sid": 74,
+    "location": 2,
+    "content": "它就像是你的小小的灯塔",
+    "music": 0.0
+  },
+  {
+    "from": 431.66,
+    "to": 435.46,
+    "sid": 75,
+    "location": 2,
+    "content": "指引你回到当下的存在",
+    "music": 0.0
+  },
+  {
+    "from": 446.8,
+    "to": 448.36,
+    "sid": 76,
+    "location": 2,
+    "content": "现在",
+    "music": 0.0
+  },
+  {
+    "from": 449.389,
+    "to": 455.149,
+    "sid": 77,
+    "location": 2,
+    "content": "请你看着这个词出现在湖面上",
+    "music": 0.0
+  },
+  {
+    "from": 458.52,
+    "to": 461.96,
+    "sid": 78,
+    "location": 2,
+    "content": "他是怎么样呈现出来的",
+    "music": 0.0
+  },
+  {
+    "from": 464.96,
+    "to": 468.92,
+    "sid": 79,
+    "location": 2,
+    "content": "也许是优雅的手写体",
+    "music": 0.0
+  },
+  {
+    "from": 470.0,
+    "to": 473.08,
+    "sid": 80,
+    "location": 2,
+    "content": "在水面上荡漾着",
+    "music": 0.0
+  },
+  {
+    "from": 474.23,
+    "to": 477.39,
+    "sid": 81,
+    "location": 2,
+    "content": "也许是明亮的霓虹灯",
+    "music": 0.0
+  },
+  {
+    "from": 477.39,
+    "to": 481.5,
+    "sid": 82,
+    "location": 2,
+    "content": "字母在湖面闪烁",
+    "music": 0.0
+  },
+  {
+    "from": 484.16,
+    "to": 488.44,
+    "sid": 83,
+    "location": 2,
+    "content": "或者是由小石子排列而成",
+    "music": 0.0
+  },
+  {
+    "from": 488.44,
+    "to": 492.04,
+    "sid": 84,
+    "location": 2,
+    "content": "安静地躺在湖底",
+    "music": 0.0
+  },
+  {
+    "from": 497.42,
+    "to": 499.62,
+    "sid": 85,
+    "location": 2,
+    "content": "不管你看到的是什么",
+    "music": 0.0
+  },
+  {
+    "from": 501.02,
+    "to": 503.52,
+    "sid": 86,
+    "location": 2,
+    "content": "它们都是完美的",
+    "music": 0.0
+  },
+  {
+    "from": 504.2,
+    "to": 508.56,
+    "sid": 87,
+    "location": 2,
+    "content": "因为这是属于你最独特的体验",
+    "music": 0.0
+  },
+  {
+    "from": 521.4,
+    "to": 522.72,
+    "sid": 88,
+    "location": 2,
+    "content": "从现在开始",
+    "music": 0.0
+  },
+  {
+    "from": 524.48,
+    "to": 532.74,
+    "sid": 89,
+    "location": 2,
+    "content": "让你的全部注意力都轻轻地停息在这个词上",
+    "music": 0.0
+  },
+  {
+    "from": 534.76,
+    "to": 543.13,
+    "sid": 90,
+    "location": 2,
+    "content": "就好像蝴蝶停在花朵上那样轻盈而专注",
+    "music": 0.0
+  },
+  {
+    "from": 546.74,
+    "to": 548.819,
+    "sid": 91,
+    "location": 2,
+    "content": "每一次的呼吸",
+    "music": 0.0
+  },
+  {
+    "from": 549.219,
+    "to": 554.259,
+    "sid": 92,
+    "location": 2,
+    "content": "都让这个词在你的心中变得更加明亮",
+    "music": 0.0
+  },
+  {
+    "from": 555.579,
+    "to": 557.619,
+    "sid": 93,
+    "location": 2,
+    "content": "更加清晰",
+    "music": 0.0
+  },
+  {
+    "from": 586.56,
+    "to": 590.95,
+    "sid": 94,
+    "location": 2,
+    "content": "如果你发现自己的思绪飘走了",
+    "music": 0.0
+  },
+  {
+    "from": 591.31,
+    "to": 595.07,
+    "sid": 95,
+    "location": 2,
+    "content": "也许是想起了今天的待办事项",
+    "music": 0.0
+  },
+  {
+    "from": 596.51,
+    "to": 599.37,
+    "sid": 96,
+    "location": 2,
+    "content": "或者是明天的计划",
+    "music": 0.0
+  },
+  {
+    "from": 599.57,
+    "to": 600.45,
+    "sid": 97,
+    "location": 2,
+    "content": "没关系",
+    "music": 0.0
+  },
+  {
+    "from": 601.89,
+    "to": 604.74,
+    "sid": 98,
+    "location": 2,
+    "content": "轻轻地察觉到这一点",
+    "music": 0.0
+  },
+  {
+    "from": 605.22,
+    "to": 608.3,
+    "sid": 99,
+    "location": 2,
+    "content": "然后像对待老朋友一样",
+    "music": 0.0
+  },
+  {
+    "from": 609.46,
+    "to": 616.43,
+    "sid": 100,
+    "location": 2,
+    "content": "友善的把注意力再次带回到呼吸上",
+    "music": 0.0
+  },
+  {
+    "from": 618.16,
+    "to": 621.76,
+    "sid": 101,
+    "location": 2,
+    "content": "回到身体的感受上",
+    "music": 0.0
+  },
+  {
+    "from": 624.76,
+    "to": 630.6,
+    "sid": 102,
+    "location": 2,
+    "content": "最后回到湖面那个特别的词语",
+    "music": 0.0
+  },
+  {
+    "from": 667.24,
+    "to": 671.72,
+    "sid": 103,
+    "location": 2,
+    "content": "有些人可能刚开始只能专注几秒钟",
+    "music": 0.0
+  },
+  {
+    "from": 672.84,
+    "to": 676.04,
+    "sid": 104,
+    "location": 2,
+    "content": "而有些人可以保持几分钟",
+    "music": 0.0
+  },
+  {
+    "from": 677.03,
+    "to": 679.07,
+    "sid": 105,
+    "location": 2,
+    "content": "无论你是哪种情况",
+    "music": 0.0
+  },
+  {
+    "from": 680.11,
+    "to": 682.2,
+    "sid": 106,
+    "location": 2,
+    "content": "都完全没有问题",
+    "music": 0.0
+  },
+  {
+    "from": 682.44,
+    "to": 686.21,
+    "sid": 107,
+    "location": 2,
+    "content": "就好像学习骑自行车一样",
+    "music": 0.0
+  },
+  {
+    "from": 686.21,
+    "to": 689.81,
+    "sid": 108,
+    "location": 2,
+    "content": "一开始可能会摇摇晃晃",
+    "music": 0.0
+  },
+  {
+    "from": 691.13,
+    "to": 693.61,
+    "sid": 109,
+    "location": 2,
+    "content": "但随着时间的推移",
+    "music": 0.0
+  },
+  {
+    "from": 693.85,
+    "to": 696.61,
+    "sid": 110,
+    "location": 2,
+    "content": "你会变得越来越稳定",
+    "music": 0.0
+  },
+  {
+    "from": 697.61,
+    "to": 700.09,
+    "sid": 111,
+    "location": 2,
+    "content": "越来越自如",
+    "music": 0.0
+  },
+  {
+    "from": 706.56,
+    "to": 710.91,
+    "sid": 112,
+    "location": 2,
+    "content": "当你的思绪确实被打断时",
+    "music": 0.0
+  },
+  {
+    "from": 711.39,
+    "to": 715.11,
+    "sid": 113,
+    "location": 2,
+    "content": "记得对自己温柔一些",
+    "music": 0.0
+  },
+  {
+    "from": 719.34,
+    "to": 721.65,
+    "sid": 114,
+    "location": 2,
+    "content": "不要责怪自己",
+    "music": 0.0
+  },
+  {
+    "from": 722.09,
+    "to": 727.29,
+    "sid": 115,
+    "location": 2,
+    "content": "就像你不会去责怪一朵云飘过天空一样",
+    "music": 0.0
+  },
+  {
+    "from": 728.36,
+    "to": 733.96,
+    "sid": 116,
+    "location": 2,
+    "content": "只要温柔地把注意力带回到湖面上",
+    "music": 0.0
+  },
+  {
+    "from": 733.96,
+    "to": 735.44,
+    "sid": 117,
+    "location": 2,
+    "content": "那个词",
+    "music": 0.0
+  },
+  {
+    "from": 739.88,
+    "to": 745.17,
+    "sid": 118,
+    "location": 2,
+    "content": "现在我想再给你一些安静的时间",
+    "music": 0.0
+  },
+  {
+    "from": 745.69,
+    "to": 750.21,
+    "sid": 119,
+    "location": 2,
+    "content": "让你独自和这一片湖泊",
+    "music": 0.0
+  },
+  {
+    "from": 751.16,
+    "to": 754.76,
+    "sid": 120,
+    "location": 2,
+    "content": "还有对你最特别的词语相处",
+    "music": 0.0
+  },
+  {
+    "from": 790.68,
+    "to": 796.76,
+    "sid": 121,
+    "location": 2,
+    "content": "慢慢地开始唤醒你的身体知觉",
+    "music": 0.0
+  },
+  {
+    "from": 797.79,
+    "to": 801.75,
+    "sid": 122,
+    "location": 2,
+    "content": "先是感受到你的手指",
+    "music": 0.0
+  },
+  {
+    "from": 802.8,
+    "to": 806.0,
+    "sid": 123,
+    "location": 2,
+    "content": "轻轻地动一动它们",
+    "music": 0.0
+  },
+  {
+    "from": 807.7,
+    "to": 812.5,
+    "sid": 124,
+    "location": 2,
+    "content": "感受血液在指尖流动的温暖",
+    "music": 0.0
+  },
+  {
+    "from": 814.5,
+    "to": 818.94,
+    "sid": 125,
+    "location": 2,
+    "content": "然后去感受你的脚趾",
+    "music": 0.0
+  },
+  {
+    "from": 820.38,
+    "to": 825.58,
+    "sid": 126,
+    "location": 2,
+    "content": "轻轻地将它们伸展弯曲",
+    "music": 0.0
+  },
+  {
+    "from": 829.8,
+    "to": 832.04,
+    "sid": 127,
+    "location": 2,
+    "content": "深吸一口气",
+    "music": 0.0
+  },
+  {
+    "from": 833.46,
+    "to": 838.38,
+    "sid": 128,
+    "location": 2,
+    "content": "让这股新鲜的能量流遍全身",
+    "music": 0.0
+  },
+  {
+    "from": 839.429,
+    "to": 842.749,
+    "sid": 129,
+    "location": 2,
+    "content": "然后再缓缓地呼出",
+    "music": 0.0
+  },
+  {
+    "from": 845.82,
+    "to": 847.14,
+    "sid": 130,
+    "location": 2,
+    "content": "再吸一口气",
+    "music": 0.0
+  },
+  {
+    "from": 848.94,
+    "to": 852.47,
+    "sid": 131,
+    "location": 2,
+    "content": "这次让它更深入",
+    "music": 0.0
+  },
+  {
+    "from": 853.27,
+    "to": 855.79,
+    "sid": 132,
+    "location": 2,
+    "content": "带着满满的活力",
+    "music": 0.0
+  },
+  {
+    "from": 856.63,
+    "to": 861.55,
+    "sid": 133,
+    "location": 2,
+    "content": "然后轻轻地完全地呼出",
+    "music": 0.0
+  },
+  {
+    "from": 875.88,
+    "to": 878.04,
+    "sid": 134,
+    "location": 2,
+    "content": "当你感觉准备好了",
+    "music": 0.0
+  },
+  {
+    "from": 879.44,
+    "to": 883.43,
+    "sid": 135,
+    "location": 2,
+    "content": "就可以慢慢地睁开眼睛",
+    "music": 0.0
+  },
+  {
+    "from": 884.23,
+    "to": 888.11,
+    "sid": 136,
+    "location": 2,
+    "content": "让光线柔和地进入",
+    "music": 0.0
+  },
+  {
+    "from": 890.2,
+    "to": 893.2,
+    "sid": 137,
+    "location": 2,
+    "content": "看看周围的世界",
+    "music": 0.0
+  },
+  {
+    "from": 893.82,
+    "to": 901.78,
+    "sid": 138,
+    "location": 2,
+    "content": "也许你会发现它比之前更明亮更清晰了",
+    "music": 0.0
+  },
+  {
+    "from": 904.64,
+    "to": 908.6,
+    "sid": 139,
+    "location": 2,
+    "content": "带着这份宁静和专注",
+    "music": 0.0
+  },
+  {
+    "from": 909.45,
+    "to": 912.45,
+    "sid": 140,
+    "location": 2,
+    "content": "希望你开启美好的一天",
+    "music": 0.0
+  },
+  {
+    "from": 913.44,
+    "to": 914.9,
+    "sid": 141,
+    "location": 2,
+    "content": "但请记住",
+    "music": 0.0
+  },
+  {
+    "from": 914.9,
+    "to": 917.84,
+    "sid": 142,
+    "location": 2,
+    "content": "专注力就像肌肉一样",
+    "music": 0.0
+  },
+  {
+    "from": 918.84,
+    "to": 921.98,
+    "sid": 143,
+    "location": 2,
+    "content": "越练习才会越强大",
+    "music": 0.0
+  },
+  {
+    "from": 922.46,
+    "to": 926.28,
+    "sid": 144,
+    "location": 2,
+    "content": "每当你感到分心或者压力时",
+    "music": 0.0
+  },
+  {
+    "from": 926.64,
+    "to": 929.36,
+    "sid": 145,
+    "location": 2,
+    "content": "都可以回到这个湖边的画面",
+    "music": 0.0
+  },
+  {
+    "from": 930.68,
+    "to": 933.27,
+    "sid": 146,
+    "location": 2,
+    "content": "回到那个特别的词语",
+    "music": 0.0
+  },
+  {
+    "from": 933.71,
+    "to": 936.63,
+    "sid": 147,
+    "location": 2,
+    "content": "找回你的忠心",
+    "music": 0.0
+  },
+  {
+    "from": 941.4,
+    "to": 944.54,
+    "sid": 148,
+    "location": 2,
+    "content": "我为你今天的休息感到骄傲",
+    "music": 0.0
+  },
+  {
+    "from": 944.54,
+    "to": 949.69,
+    "sid": 149,
+    "location": 2,
+    "content": "也感谢你能给自己这一份珍贵的礼物",
+    "music": 0.0
+  },
+  {
+    "from": 949.97,
+    "to": 957.62,
+    "sid": 150,
+    "location": 2,
+    "content": "这一点时间希望你充满平静与喜悦",
+    "music": 0.0
+  },
+  {
+    "from": 958.1,
+    "to": 959.48,
+    "sid": 151,
+    "location": 2,
+    "content": "我是小易",
+    "music": 0.0
+  },
+  {
+    "from": 959.48,
+    "to": 961.08,
+    "sid": 152,
+    "location": 2,
+    "content": "我们下次见",
+    "music": 0.0
+  }
+]

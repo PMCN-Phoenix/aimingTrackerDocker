@@ -1,0 +1,1646 @@
+hey everyone welcome back to the channel
+uh this time we're going to be talking
+about
+a really popular topic that i've seen
+floating around in the aim community
+it's a problem that seems to elude a lot
+of people and that's
+basically how do i apply my aim training
+to the fps game that i'm playing in
+other words
+a lot of people they'll improve their
+aim
+mechanically within kovacs but then when
+they go
+to play their game they still get
+destroyed constantly right
+and this is frustrating because for a
+lot of people myself included
+the entire reason why you get into aim
+training
+is so that you can be successful in fps
+games you know there's still a lot of
+people of course that
+just like to grind kovacs which is
+totally fine there's no
+problem with that but there's also a
+large segment of the population that
+really wants to
+get some direct tangible benefit out of
+it in the fps game that they're playing
+and i mean honestly it's an aim trainer
+uh that's kind of
+one of the main reasons why it exists so
+it seems counterintuitive that you would
+invest all this time into aim training
+and then all of a sudden
+it's not helping you in the game that
+you're playing right this is a difficult
+topic
+to address i'm gonna do the best i can
+in this video there's a lot to
+unpack it's a very complex set of
+characteristics that all
+lead into success inside of fps games
+um and we'll talk about all those in a
+minute the first thing i want to do is
+get on the same page
+about uh describing some common
+terminology
+there's a lot of different ideas
+out there associated with aiming
+different terms and a lot of times
+people use different words
+for the same concepts i've talked about
+this on twitter and
+i really think there needs to be some
+kind of common taxonomy that everybody
+uses
+so there's no question but until that
+exists uh
+here's here's what i mean in this video
+when
+we're talking about these ideas so you
+hear the term mouse control and mouse
+feel quite a lot
+i kind of see them to be the same thing
+one thing that's
+really important to address is in kovacs
+it's you have a hit scan gun and what
+hitscan means is essentially
+it's an instant projectile right there's
+no bullet drop there's no velocity
+associated with it
+what you see is what you get when you
+click your mouse button where your
+crosshair
+is that is where your shot will fire um
+also in covax you know there's perfect
+visibility there's no clutter there's no
+lag
+it's kind of like optimal conditions in
+fact a lot of times people will
+you know i have a video on this but
+people will set up their
+kovacs to make it so that contrast is
+really high and it's easy to see targets
+which
+isn't the case in a lot of fps games all
+that creates a vacuum if if you will
+where you can train optimally to focus
+on your mouse control
+and what i mean when i think of mouse
+control and mouse feel is
+almost thinking like your mouse is an
+extension of your body
+the visual feedback that you get on the
+screen is where your cursor is so
+when you move your mouse a little bit on
+your mouse pad you know where it's going
+to go
+and this is your ability to control
+where it goes on your screen based on
+your mouse movement
+on your mouse pad or hey if you want to
+use a napkin or something
+feel free most times when people are
+talking about kovacs they're saying
+this is entirely centered around
+training your mouse control that's
+that's a big part of it right
+and so the next thing that i'll define
+is what i call raw aim i see other
+people use this term too
+the reason why it's kind of broken out a
+little bit is because there's other
+concepts that aren't
+necessarily directly related to mouse
+control
+but are trainable within an aim trainer
+like kovacs
+such as reading skills and that's your
+ability to
+react to a target changing direction
+particularly
+in what we call reactivity heavy
+scenarios that means
+that the targets are changing direction
+very fast
+uh back and forth and it's hard to keep
+track of where they are
+kovacs helps you helps you train those
+it helps you train smoothness
+target switching speed under flicking
+over flicking your hand eye coordination
+so all of those kind of concepts that
+are ancillary that are related
+to developing our mouse control i can
+roll all that
+into what i'll call raw aim and then
+there is the common term that most
+people know
+uh just game sense game sense is a lot
+of the strategic
+type of elements in fps games that can
+be you know positioning
+awareness communications knowing when to
+rotate
+faking people out you know making plays
+it could be things like you know reload
+management inventory management knowing
+when to push
+knowing when to heal these are really
+game dependent it depends on
+so many different factors if it's team
+based or not for example
+it's gonna depend if it's a br or like a
+battle royale
+or if it's an arcade shooter you know
+there's so many different
+variables that play into it i'm
+definitely not going to be talking about
+game sense
+in this video largely for that reason
+because it's so game dependent it would
+be impossible to cover everything and i
+mean i'm not
+a great fps player yet i don't know if i
+ever will be we'll see so i think
+there's better
+candidates out there that could probably
+cover this topic and the final term that
+i'm gonna go into
+is applied aim and i see a lot of people
+just generically call this aim
+i'm gonna call it applied aim because it
+just
+helps me separate the different types of
+references to aim
+this is the filter that's applied over
+top of your raw
+aim what i talked about before your
+mechanical aim
+it's game dependent and there's usually
+a lot of the same types of
+characteristics that affect your aim
+so some good examples of aim filters
+uh one is visibility um
+this is super variant on the game like i
+said in kovacs
+your visibility is pretty much as
+perfect as it's going to get
+and you control it you control what you
+do get to see what you don't get to see
+how easy it is to see models uh
+depending on the game uh apex legends is
+notorious for this
+the game developers will introduce a lot
+of design decisions that purposefully
+reduce your visibility and this is bad
+for your aim
+because if you can't see your target how
+can you shoot it
+and a lot of times they'll do that to
+make it more fair
+from their perspective if there's newer
+players that
+aren't as good at aiming
+mechanically they feel like they should
+have some way to level the playing field
+against
+people that train their aim all the time
+like i do and this can come in
+a lot of forms this comes in the forms
+of the character models and how they're
+rendered
+and how easy or difficult they are to
+see sometimes games will put
+outlines a light outline around the
+character model so you can see them
+there can be things like smoke bright
+lights like the sun
+gets in your eyes there's washed out
+coloration
+in the terrain that makes it hard to see
+or character models that have kind of
+like camouflage
+type looks going on it can come the form
+of screen shake
+so if you get shot your screen shakes
+and you lose a little bit of your mouse
+control so another filter would be
+ultimates and tactical type abilities
+these are becoming more and more common
+in fps games
+they are often referred to as crutch
+abilities and if you think of a crutch
+is something that you need to help you
+stand up
+it's basically it can be like a comeback
+mechanism if you're in a bad situation
+it helps you recover and this can come
+in the form of things like flashbangs
+stuns you know smoke which i mentioned
+before
+general ways to control movement or
+control and zone enemies out
+so there's a lot of direct and indirect
+ways that this can
+prevent your aim from being effective
+and then there's a really obvious filter
+like gun control which is
+projectile drop recoil control to a
+degree
+time to kill and just kind of knowing
+how long
+it takes to kill enemies all of these
+are
+are factors that are difficult or not
+worth training in aim trainers and we'll
+talk about that a little bit another big
+one is latency
+fps games almost exclusively nowadays
+are played online
+they're very rarely in a land setting
+especially with kovid that
+really eliminated a lot of those
+situations
+and most times when fps games come out
+they don't
+even have a land mode on release so
+without me going into too much detail on
+the individual components that
+affect latency overall like things like
+ping packet loss round trip time
+those things are important but i don't
+want to turn this into like a technical
+you know engineering type video i'd like
+to think of this
+overall as like a data consistency model
+let's say that you have a file sharing
+site you want to give users the ability
+to
+upload data to remove data to change
+data
+if you have you know two people using
+your
+file sharing site one person uploads a
+file
+at 2pm and then four hours later
+somebody else makes a change that file
+that's an easy situation
+you don't really have to think about
+like okay what's gonna happen if a user
+is trying to
+delete the file as soon as it's being
+uploaded if you have a file sharing
+system where there's tens of millions of
+users
+you got people that are putting files on
+there and then
+maybe immediately trying to change those
+files or delete them
+right and so what happens is developers
+have to create
+these logic conditions that decide
+who wins and this is known as a data
+consistency model
+you have to make a decision at its most
+base level if somebody
+writes a file to a file share and then
+somebody else deletes that file at the
+exact same time
+does that file still exist as a
+developer you can make that decision
+of whether it should stay there or
+whether it should go so we apply that
+same concept to fps
+games this is common in a lot of
+scenarios where
+you will see something happening on your
+screen and your opponent isn't seeing
+the same
+thing you will get hit by invisible
+bullets for example or you turn around a
+corner
+and you're still get shot because on
+their screen they're still seeing that
+you're
+you haven't turned the corner yet right
+this is a really important
+concept for people to understand because
+it is a reality of fps gaming
+it's not something that you can control
+it's not going away anytime soon so you
+just have to know it's there and
+understand it
+especially as games get more and more
+complex where there's a lot of people
+playing the game simultaneously
+and the servers and the clients
+depending on
+where the data is being processed they
+have to make decisions
+on what is actually happening at any
+time to render
+the game state and everybody needs to be
+able to see the same game state
+happening
+so there's always going to be some kind
+of misinterpretation
+of what's happening and three key terms
+that are referred to here
+that you'll see a lot if you're in fps
+games at all one
+is called peaking and peaking is
+essentially
+if you're hiding behind a corner and
+then you want to move
+out of the corner to see what's going on
+that's a peak right because
+a lot of times people will if they know
+that there's an enemy on the other side
+of the screen for example on top of a
+building and they're
+like 50 meters away instead of
+continuously sitting there and looking
+at them out in the open
+which is just gonna get you shot they'll
+hide behind a corner and then
+you know peek over to see if they've
+changed places or to get a shot out of
+them
+and this is this leads to a lot of
+situations where you peak and
+the person has just been sitting there
+waiting for you to peek and they just
+shoot you immediately
+as you peek or you get shot when you
+move
+back behind the corner another terminal
+here is pre-aiming
+there's a ads in fps games
+also known as aiming down sights your
+crosshair up essentially at a point
+where you can fire your gun
+that eliminates that little bit of you
+know 50 milliseconds of time that you
+need to actually
+get your gun ready and then there's
+pre-firing which is
+the idea of knowing that your enemy is
+gonna peak or hoping they're gonna peak
+and then shooting bullets you know
+around a corner or
+down a hallway that you know an enemy is
+going to come down so as soon as they
+run into that
+those bullets they're going to take a
+lot of damage right and that leads to
+situations where
+you might immediately turn down a
+hallway and then you'll take
+150 points of damage like immediately
+and then you get
+downed or killed and you're like what
+the hell how could that possibly happen
+you know on your screen you barely saw
+anything hit you and yet you look at the
+kill feet or the death feet and you've
+got shot with like eight or twelve
+bullets probably because they were
+pre-firing you
+and that little bit of latency you know
+150 milliseconds of latency or whatever
+it is
+is enough to create a condition where
+you just get immediately beamed
+there's also some anti-filters and by
+that i mean
+things that seem like they would be aim
+filters
+on top of your raw aim but aren't
+and that would be things like different
+scopes and sensitivities and
+fovs and resolutions so this talked
+about a lot in the aim community i've
+covered it
+in the sensitivity randomizer video the
+idea of muscle memory directly relating
+to the ability for you to memorize
+where your cursor needs to go on screen
+based on how far you move your mouse at
+all
+times is not meaningful there might be
+certain reasons why you would prefer
+different sensitivities or different
+scopes or fovs
+to have better range of motion for
+example with your with your mouse or
+just because it looks
+better for you and more comfortable for
+you but
+it is not a filter in the fact that your
+ability for your raw aim to transfer
+into an fps game that doesn't matter
+right another one i want to talk about
+is sbmm a skill based matchmaking
+and a different idea that a lot of
+people have talked about there's no real
+hard proof that it exists but
+people suspect that it exists and that's
+eom or
+experience optimized matchmaking the
+reason why i list this as an anti-filter
+is because people have a tendency to
+externalize their
+ability to be successful in
+video games and fps games on things that
+they can't control
+sbmm and eom can't be controlled it's it
+exists it's here to stay
+you can argue the morality and whether
+or not
+it's it's a good decision by the game
+developers to have it
+but it's there you're going to be facing
+people that are way better than you
+and it can be frustrating and make you
+want to quit the game you need to figure
+that out yourself
+how to work through that and the ability
+for your raw
+aim to matter in fps games has nothing
+to do with
+the quality of the opponents that you're
+facing
+one of my favorite sayings regardless of
+discipline
+interest hobby is
+the map is not the territory and
+what this means is if you take a map
+a map is a representation of a physical
+thing um in this
+context of map is a representation of
+planet earth you can
+show a map in a lot of different ways
+like you could show
+like google maps and that would help you
+when you're driving
+or walking or biking it's not going to
+help you if you're
+flying a plane because words don't
+really matter
+you could have a territory map that will
+show you where all the lines are drawn
+but it's not going to show you
+elevation if you're trying to hike it's
+basically the idea that models are
+useful and they're necessary to make
+sense of the world
+but they're always going to be a
+representation of reality so if we say
+the map isn't the territory
+said another way the theory isn't what
+it describes
+it's simply a way we choose to interpret
+a certain set of information
+and maps can also be wrong but even if
+they're essentially correct
+they're an abstraction and abstraction
+means that information is lost
+to save space okay cool thanks rid for
+the
+life philosophy lesson what does that
+matter in this context
+and the reason why i bring this up is
+because i see
+so many people that use the kovacs
+benchmarks you know respectfully voltaic
+benchmarks as their models for relative
+aim skill
+and this isn't me [&nbsp;__&nbsp;] on these
+benchmarks i run them
+i encourage people to run them and i'm
+glad they exist in the aim community i
+mean it's a major achievement
+they've been improved massively over
+time too people are constantly thinking
+about how to improve them
+but again the map isn't the territory
+just because you have a certain
+rank in a kovacs benchmark doesn't mean
+that's a representation of your skill
+people often confuse the model with
+reality they invest time and improving
+on aim they think they can just beam
+kids in game
+without having to try you think they
+could just walk into
+any game because they're master diamond
+or whatever
+and then just instigate on my screen i'm
+going to show a video
+of holo i bring apollo a lot because
+he's a big proponent of aim theory he
+spent a lot of time
+thinking about how to improve aim and
+gives great advice on
+aim improvement and he's also really
+honest with his levels
+in aiming and in fps games overall
+and he'll be the first to tell you that
+he's plat in voltaic benchmarks
+now as you're watching this video you're
+probably thinking how
+in the hell is this guy plat and voltaic
+benchmarks
+because his aim is incredibly good
+you know and the opposite can be true
+people can have
+amazing aim gms and then
+in game they look super sloppy so does
+this mean benchmarks are useless
+and there's no point in aim training no
+that's not what i'm getting at
+you just need to recognize what aim
+training is good for and what it's not
+good for
+if you wanted to be good at physical
+combat would you just start trying to
+1v1 everyone irl unless you want to get
+your ass kicked a lot
+you probably want to practice technique
+you know like striking grappling
+blocking there's tons of different
+martial arts out there whose
+job it is to teach you these
+fundamentals so that you can
+practice for a fight bardos uses the
+analogy of
+learning an instrument is like learning
+aim techniques and
+if you think of learning how to micro
+adjust or
+draw straight lines between targets or
+smoothness
+as practicing techniques on a guitar
+like learning
+bar chords strumming finger placement
+you know you're practicing those
+techniques to get better at those
+specific techniques right but extending
+it a little bit
+what if you're in a band you're gonna
+need to practice things like
+timing for the songs that you're in
+knowing if you're
+playing melody songwriting skills those
+specific techniques that you're
+isolating
+and practicing like learning bar chords
+are
+meaningful and they matter because they
+give you better technique to help you
+write
+better songs but you still need to be
+able to write those songs and play those
+songs
+in a band and once you start to climb
+ranks
+and spend a lot of time in kovacs
+particularly focusing on benchmarks
+you'll notice that there's a lot of
+techniques that are needed to get high
+scores and scenarios
+that don't necessarily translate
+one-to-one to in-game fps
+you know it can be things like learning
+the bot patterns like google xyz is a
+big one that people
+need to learn the actual bot pattern
+practicing
+individual bots for longer gauntlet type
+scenarios
+because they're so long three plus
+minutes uh there's a lot of room
+for making mistakes you're never gonna
+be in a situation where an fps game
+where you need to have
+flawless aim for three minutes straight
+the ability to
+reset scenarios over and over again so
+you get that one good run
+it's not that these skills aren't
+meaningful for your aim improvement
+it's just they might not be meaningful
+for
+what you want to succeed in which is to
+be successful
+in fps games just scrolling through
+twitter looking at aimers
+that are in the top leaderboardship
+kovacs almost exclusively all their
+content is centered around them
+getting high scores on leaderboards
+very rarely do you come across people
+that are really good
+in kovacs that are also really good
+in fps games it's not that they don't
+exist it's just you know there's people
+like juicer out there
+tors they are in the minority so why is
+that i think there's
+two main reasons a lot of people just
+like to get high scores on the
+leaderboards and they just like to play
+cobax which is totally fine
+they are not grinding the scenarios and
+the benchmarks
+to get better at fps games they're
+grinding it just
+to get high scores in kovacs the second
+is once you hit a certain point in your
+mouse control development
+you almost hit a crossroads it's do i
+spend all this time getting high scores
+on the benchmarks
+or do i spend the time that i have aim
+training
+to improve in the game that i want to
+improve at
+like there's a lot of things that you
+would do when you're training
+aim scenarios that are going to help you
+in game like moving around a lot that
+aren't going to give you
+high scores what i'm going to talk about
+next which is how to maximize your aim
+training
+effectiveness for fps growth once you
+hit
+a certain ground floor i'll arbitrarily
+say around
+gold complete or platinum in the voltaic
+benchmarks
+you want to focus your attention on your
+in-game specific
+weaknesses by that i mean going back to
+what i
+always talk about which is what are your
+bottlenecks
+look at your bottlenecks in game and see
+what you need to work on
+in your kovacs training that you know
+specifically is something that's
+trainable
+in kovacs that is going to help you get
+better in game and to do that you really
+need to look at your vods
+and see look at these situations where
+you
+know that your limiting factor
+wasn't your game sense your positioning
+but it was specifically because
+you're weak in a certain aim area or if
+improving certain aim mechanics
+would increase your confidence or give
+you more options
+in game you want to stop using your
+benchmarks as your compass for your
+in-game
+improvement don't just say well i'm
+three points away from platinum in this
+scenario
+so i'll just focus on that to get the
+next rank
+um it might be that is your weak area
+according to the benchmarks but that
+doesn't mean that's your weak area
+preventing you from getting better at
+your fps game things like using
+randomizers
+help you a lot because they help
+represent the types of situations that
+you're gonna have in game
+you know if you're playing the same
+scenario 20 30 times in a row
+i mean of course you're gonna get better
+it's good to do those types of things to
+improve
+your techniques that you're trying to
+improve if you're trying to warm up
+for hopping on apex or something you can
+run a playlist in random and you can use
+sensitivity randomizers to help build
+your mouse control you can try
+visualizing the benefits the scenario
+that you're running
+applies to in-game to think about what
+type of situation
+am i weak in and what type of situation
+is this going to benefit me in
+uh thinking of like movement scenarios
+there's ways to gain the movement
+scenarios to get higher scores but that
+doesn't help you get better in the game
+zone for vaude review i'll throw up a
+quick video of me
+in apex uh winning a 1v2
+which isn't the hardest thing in the
+world to do once you get to a certain
+level but still
+something a lot of people struggle to do
+and i want to throw this one up because
+i i win the 1v2 and
+you can see the reason i win it is not
+because of
+my individual aim skill i actually make
+mistakes
+with my aiming and those are the types
+of things that you would want to look
+for when you're reviewing your bots is
+even in your successes look at
+situations where
+you could have done better if your aim
+mechanics were a little bit cleaner it
+reinforces the idea of
+continuous improvement is that you can
+always be better
+always going to be situations where you
+are successful
+but you would have been a little bit
+more successful
+if you work on x y and z and you want to
+focus that
+improvement around those things that are
+specifically weak
+so you're making kind of scientific
+guided
+decisions about how to spend your effort
+you could of course just mindlessly
+grind and then eventually get better but
+if we're talking about optimizing our
+improvement that's what i would suggest
+you do
+so in movement scenarios these become
+really key
+in your development depending on the fps
+game you're playing this
+might be more or less applicable to the
+game
+but learning how to strafe well and
+learning how to
+fire while strafing are really important
+skills that you normally don't get to
+practice
+in kovacs most of the time you're
+sitting still like i said it's hit scan
+weapons
+there's an older guide out there written
+by aimer7
+it's a movement aiming guide and it
+covers a ton of information it's
+it's really detailed and i know a lot of
+people haven't
+read it and a lot of people probably are
+never going to read it because it's a
+lot of aim
+theory i'll i'll provide a link and i
+would suggest reading it
+his he's got recommended scenarios and
+because it's movement aiming
+it's not really something that she can
+get scored on i mean a lot of the
+scenarios are literally just looking at
+a target that's sitting still and you
+could just shoot it
+forever and get a great score but you
+wouldn't be working
+on the skills that you need to get
+better there's a lot more
+options nowadays the power movement
+scenarios are ones that i always bring
+up
+uh apex routine by prg has a lot of good
+movement scenarios in it
+i have a tiny little movement playlist
+that's on my github that i
+like using every now and then i would
+strongly recommend especially if you're
+playing a movement heavy game like apex
+spending a lot of time investing in that
+and it will
+benefit you this is where you would be
+focusing less on the scores that you're
+getting and more
+of what you're getting out of training
+it so that's all the theory about what
+you can do
+to work in kovacs that applies to your
+fps game what about
+in-game itself i'm only going to start
+to scratch the surface here i feel like
+this is probably going to be
+multiple videos to really go into depth
+the first thing i would say is detenting
+and what do i mean by detensing i mean
+trying to hold your mouse as lightly as
+you can
+a lot of people have this problem where
+they over grip their mouse and people
+will
+ask this all the time even to this day
+is it okay
+if i'm gripping my mouse tightly and the
+answer is pretty much always
+no you don't want to be holding on to
+your mouse
+tightly if you can help it and this is
+why i bring it up
+is because if you spend all this time
+detenting in kovacs and then you start
+tensing
+in your fps game because of you know
+difficult situations you know your
+adrenaline's rushing
+it's going to minimize the benefits that
+your game training has for you one hp is
+a great channel that has a lot of
+gamer stretching related videos and one
+of the videos that they talk about is
+having a set point for your posture
+and i would encourage you to think about
+the same thing for your
+mouse grip try to always be conscious of
+how you're
+gripping your mouse and over time
+minimize the amount of times that you're
+over gripping your mouse it's not
+something you'll ever get rid of
+entirely just like you'll never
+have perfect posture always but you
+should try to create a routine an
+internal routine that
+causes you to think about it so that you
+will focus on it at least in that moment
+reduce your your attention one of the
+most common
+problems i see with aimers
+when i'm reading reddit posts and i'm
+watching their vods
+of playing their game and they're like
+what am i doing wrong
+i've been training my aim so much and
+i'm just getting bodied
+over and over again here look at this
+video of me getting killed
+and i look and their hitbox is
+completely exposed
+if you're not familiar with the idea of
+a hitbox basically your character models
+has these
+regions that developers have configured
+can be hit by
+shots right so back in the day it used
+to be really blocky
+and kind of clunky but now it's super
+super configurable where it almost
+exactly
+matches the character model but if
+you're playing an fps game
+and you're just sitting out in the open
+not behind cover
+you're gonna get shot i can't tell you
+how many videos i've seen
+of people that play kovacs a lot
+hundreds of hours
+and they still don't seem to grasp this
+concept and i'm not saying this to be
+demeaning i think it's something a lot
+of people wrestle with but one of the
+most important things that you can do
+in your fps game is to minimize your
+hitbox
+and this is where i think illustration
+is is
+a lot more important so i'm going to go
+over some videos i'm going to talk to
+them now mind you
+that i play apex legend so most of these
+are going to be around apex but the
+ideas will be the same so the first one
+we're going to talk about is somebody
+by the name of e lyric he's a pretty
+prominent
+apex player who is known mostly for his
+movement
+um and the items i'm gonna cover are a
+lot more focused on
+his ability to minimize his hitbox
+and to excessively use cover
+um and i'm gonna kind of talk what i
+mean by that so in this clip you can see
+that he's got
+a position of advantage on an enemy it's
+really an easy kill for him he's he's
+got a long range gun the enemy doesn't
+really know he's there
+and if you look he's still keeping low
+to the ground
+and still head peeking which is
+essentially
+keeping your your hip box really low
+where an enemy from a distance
+can't really see your character model at
+all but you are
+able to shoot them anyway over
+the cover that they're using um and this
+is a common tactic that you'll see for
+any any pro player especially but good
+fps players
+are basically always assuming that
+they're gonna get shot by somebody that
+they're
+if somebody has uh eyes on them that
+they could see where they are
+and that they could get shot at any
+point and you notice what he does then
+after after downing that player he moves
+up on another player that he saw
+and he started to get shot and his
+immediate reaction was
+to move behind a box uh because he saw
+from the direction he was getting shot
+and moved behind a box so that that
+person that was shooting him
+no longer had visibility on him right so
+what what he
+is doing there is a concept called
+zoning
+so essentially what he's doing is he's
+uh
+preventing any other opponents from
+being able to shoot him so that he's
+always taking
+1v1s and this is a really key
+technique that a lot of really great
+players
+use and even if you it takes a long time
+to kind of develop these skill sets and
+it depends on the game depends on a lot
+of different factors
+but just the idea of understanding that
+this is something you should be
+prioritizing
+will help you while you're analyzing
+your gameplay and figuring out what
+you're doing wrong
+and what you should be doing better and
+so you always want to be trying to
+position yourself
+where you're isolating other enemies and
+you're always taking 1v1 so that's why i
+want to point this clip out in
+particular
+he ends up dying he ends up getting
+killed anyway um
+but it it's still the right
+move like he made the right play there
+best case scenario he knew
+where that that person was shooting him
+before he even got shot
+but the fact that he was able to react
+quickly to it um
+you know it's a sign of a good player so
+this next clip that we have
+he is able to determine where the enemy
+team is
+and if you watch his movement here
+he is very specifically staying behind
+cover
+at all times and he's utilizing height
+to his advantage and he's also
+continuing to keep his hitbox as small
+as possible
+head peeking where possible and staying
+on top of cover
+at all times right and and this guy
+again like i said he's known for being a
+movement god and an apex
+you know it's a very movement heavy game
+and you can
+easily win fights just because you're
+moving better
+than your opponent and they have a hard
+time shooting you even with that
+advantage
+he still always prioritizes
+keeping his hitbox low assuming that
+enemies have shots on him
+and trying to prevent taking unnecessary
+damage and isolating and zoning his
+enemies
+that's why i wanted to show this clip in
+particular because
+you know you might think if you're a
+great aimer you could just walk into any
+fight
+and then you're getting shot by two to
+three different people simultaneously
+it doesn't matter how god-like your aim
+is you will die
+you are going to lose that fight great
+players understand this concept and they
+try to prevent those types of situations
+from occurring
+even if they have fantastic aim and
+movement and their mechanics
+are top tier this clip i like picking
+for a couple reasons
+when you're getting into aim training
+and you're still kind of adapting and
+learning an fps
+one of the better approaches to take is
+to pick
+guns and situations that complement your
+aim
+he's got a gun that has a two-time sight
+on it that
+if you've been practicing uh small bots
+and long strafes easy
+shots for you he's got no pressure so
+it's a great
+conditions that he set up which allows
+him to really just
+take advantage of the situation and
+maximize damage without having to worry
+about getting shot himself
+the types of conditions that you want to
+put yourself
+in as much as possible especially when
+you're newer to the game
+and you've been spending a lot of time
+aim training and you're having
+trouble adapting that aim training to
+in-game you know a little bit later on
+in this clip
+you see he's got basically these tiny
+dots you know that he's shooting off in
+the distance
+it's almost impossible to even see that
+they're there you know i mean he's got
+great
+awareness and acute visibility where you
+can see those things
+but i mean if you're practicing you know
+static dots
+and you see an enemy really really far
+away
+and you've got a clicking gun um those
+are great conditions for you
+being able to maximize your damage
+output and not have to worry too much
+about getting damaged yourself and then
+the other key thing that i liked about
+this clip is
+at this moment you can see he becomes
+aware that
+there is somebody who has a shot on him
+that he didn't know about and his
+immediate response instead of trying to
+challenge
+that new enemy is to just back up and
+get out of there
+and that's another key thing is i mean
+this starts to really
+get into the realm of game sense but i
+notice a lot of newer players that are
+good at aim training and have trouble
+transferring this into fps games
+they will try to take every fight
+because they assume i think that
+because their aim is superior or they
+assume it's superior because
+they've been spending time training it
+that they can take those types of
+situation fights
+but again it doesn't really matter how
+good you
+are even if you're one of the best
+players you want to avoid
+taking encounters that you aren't
+prepared for the best thing to do is
+just to kind of reposition
+and then approach the fight differently
+so this next clip we're going to look at
+is by bardos who's pretty well known in
+the aim community
+he holds pretty much all the best
+records for
+clicking scenarios specifically and he's
+also
+a competitive player in ballarat so i
+thought he'd be a great candidate to
+kind of show
+you know aim training as it applies to
+an fps game plus it's a break from apex
+since that's mostly what i talk about
+so in this first uh clip we see
+a great example of the use of one
+holding angles
+and to pre-aiming of course
+you know his his aim plays into a major
+part with his success in this clip but
+i just wanted to give an example of
+again a great aimer who still needs to
+rely
+on positioning holding angles and
+especially
+pre-aiming in order to maximize their
+success and how much damage
+they do to others and how much damage
+they don't take themselves um
+obviously this starts to go into the
+realm of game sense and awareness
+but just showcasing that because i've
+seen a lot of clips
+from aimers who do play valorent that
+make those bad decisions and then think
+that their aim is what's preventing them
+but it's really
+those bad decisions that are what's
+holding them back
+and i like this next clip to show his
+approach
+to a situation where he wasn't exactly
+sure where enemies were
+and instead of just full peeking um
+and just putting his entire hitbox out
+there you can see he slowly approaches
+the angle
+just barely has exposed himself from
+cover
+takes the shots as needed to to win the
+fight this is a crucial
+thing that i see a lot of people do
+poorly
+where they'll go into an unknown
+situation and instead of assessing that
+situation
+they basically assume that they can just
+walk right into it and then take the
+fight
+without knowing what the consequences
+will be
+so what you want to do is whenever
+you're approaching
+a situation that you're not fully aware
+of you need to get intel
+and use that intel to make decisions
+about how you're going to take the fight
+and in this clip it's another great
+example of
+holding angles very precisely
+approaching a situation where you think
+there might be a threat
+rather than just running straight into
+it barely
+exposing your hitbox and making it
+difficult for enemies to shoot you
+while you're still able to shoot them
+right and that's really where
+your superior aim training skills
+can shine because you've given them the
+proper environment that they need to
+flourish that's ultimately what i'm
+trying to get at with these types of
+clips
+so what i wanted to do next since these
+are both valerian
+clips is to follow up with an aim video
+that i saw
+in the community on reddit where
+somebody basically said
+why am i dying so much i'm practicing my
+aim but it's not helping me in game
+so in this first clip you see compared
+to what bartos has done
+in the previous clips i showed you he
+just full peeks
+right so he just goes straight out into
+the middle of the hallway
+somebody walks up to him and he loses
+the fight
+if you're kind of new to fps games you
+might assume that you can
+just go toe to toe with every single
+fight and because you have superior aim
+mechanics in your mind you're going to
+win every fight and that is simply not
+the case
+no matter how good you are you want to
+be practicing those skills
+where you're properly minimizing your
+hitboxes
+and this is even something that a lot of
+people call
+ego peaking and it's it's really just
+putting yourself
+out there especially if you know that
+there's somebody
+who's aimed on you you're so confident
+that you're gonna win the exchange
+that you just let them shoot you
+basically because you're gonna do more
+damage to them than they will
+to you in that same amount of time and
+it's an egotistical thing
+to assume that hence ego peak right i
+don't think i wouldn't really consider
+this an ego peak this is more
+of poor decision making what he wanted
+to do there what he should have done
+there
+is slowly peek around that corner
+especially if you hear footsteps
+take the fight while exposing as little
+of
+his hitboxes as possible and that's
+that's what bardos does and that's what
+other great players do so and in this
+clip it's just another
+phenomenal example of he kills one
+person and then he just
+runs up to that next person and he not
+only did he have a position
+where he was kind of around cover
+but then he explicitly moved out of that
+kind of cover that he had to try to
+finish a fight and those are
+just really really bad decisions that's
+what leads you
+to losing fights even if your aim is
+better
+there's a lot of filters in the game
+that
+prevent your game that you might have in
+kovacs and you know things like nerves
+that might prevent you from translating
+that exact success into the game that's
+why you want to
+put yourself in positions where you're
+always taking advantage
+of your better aim mechanics so this
+next clip i have
+is somebody named fate um who's
+pretty highly regarded in the apex
+community
+again kind of like lyric really well
+known for having
+top tier mechanics and movement you can
+see he's taking a 1v1
+in a position of height and as soon as
+he starts to get shot in this clip
+you can see he is immediately
+running to take cover right so he's got
+more of like a gorilla tactics
+hit and run type strategy and he just
+temporarily exposes his hitbox
+to do a little bit of damage every now
+and then and then
+leaves you could take a lot more damage
+when you're
+exposing your hitbox for any significant
+period of time
+trying to be in and out of an enemy's
+reticle will minimize the amount of
+times that you
+take damage on their end and you don't
+see it on your end
+um this is just one of those things that
+you again this isn't trainable
+in an aim trainer you need to kind of
+learn the feel for it and it's going to
+depend on the fps game
+but you just want to take advantage of
+that and avoid
+taking unnecessary damage just because
+we live in an
+internet connected world where data has
+to transfer
+globally to servers and back and you
+have to render the game state
+and so the the fight progresses and he's
+still
+you know kind of ducking weaving and
+he's keeping his his
+hitbox low and always trying to keep
+track of where the enemy is
+put himself in a position where he can
+do damage to the enemy with the enemy
+not
+able to do damage to him and you'll even
+see here you know he gets in a position
+where he can just
+beam the enemy for 190 damage
+and he does that by constantly moving
+around and kind of preventing him
+from being shootable and it's by design
+right like you might look at that and
+then you're like oh well he got lucky
+you know he's playing against bots but
+this is a strategy the reason why he is
+able to
+get in those types of positions where he
+can just beam someone
+with nearly a full clip without much
+pressure on himself is because he puts
+himself in those positions
+and that's something that you should
+always be thinking about as you're
+trying to improve your own gameplay
+how do i maximize my potential for doing
+damage to enemies and minimize their
+potential for doing damage to me
+so and i want to quickly show this
+little clip of
+uh you know the shotgun exchange this is
+a really common technique that people
+use
+even really newer players where they
+constantly duck in and out of cover
+while using long reload uh
+big damage guns like shotguns again
+showing the power of being able to
+minimize the amount of damage that the
+enemy can do to you
+while also maximizing the damage you can
+do to them
+by just putting yourself in a position
+where
+in between shots because you can't even
+shoot the gun
+why would you leave your hitbox exposed
+while you can't even do anything to the
+enemy in return right so that's what
+people are doing when they're moving in
+and out of cover while they're shooting
+something like a shotgun
+so and i really like this clip for
+showcasing a few different things
+the first being fade gets some initial
+shots
+on on a on a bloodhound and it's a 1v1
+there's nobody else around
+he's low on light he's low on ammo but
+he does some initial shots he sees
+the bloodhound go back behind cover and
+so his next approach
+is to come left where he can
+approach the bloodhound because he knows
+that that bloodhound who is now
+behind a rock isn't going to have
+shots on him right so he's he's
+isolating and zoning he's preventing
+while moving up he's preventing
+that enemy from doing damage to him and
+then once he gets
+into you know close range holding the
+corners and holding the angles
+and waiting for an opportunity to
+do damage to the enemy while also
+preventing damage himself and
+in this case he does it by with some
+with some good movement and kind of
+dancing around
+the obstacle that he has you know which
+is the rock and they're both kind of
+like dancing around it
+but then near the end you see he exposes
+his hitbox for
+too long and he does it because he
+thinks that he can finish the fight
+with the extra bit of damage that he
+thinks the enemy has but
+the enemy actually has more health than
+i think he realizes
+and he takes a couple headshots himself
+and you see he almost loses the fight
+right like he had every advantage for
+the most part
+um and he still almost lost even with
+his superior skills
+uh in mechanics and movement and aim
+you can still lose these types of fights
+even in perfect circumstances
+where you're doing everything right all
+it takes is one little mistake where you
+expose your hitbox too much
+so that's why i think it's so important
+that
+you are putting yourself in constant
+positions of advantage no matter what
+your skill level is because you need to
+learn those concepts and those
+philosophies about how to approach these
+fights
+even when you have godly aim it doesn't
+matter you could still
+have a couple bad seconds of a fight and
+then
+all of a sudden it's over so at this
+point you might be thinking
+okay well these guys are gods uh
+i'm not a god so how does this help me
+so let's look at some of my footage um
+and this maybe will help you get some
+ideas about how to analyze your own
+footage and get better and
+you'll see i don't care like i will put
+out my footage i know that i'm not great
+i'm intermediate and i don't mind people
+seeing my poor game play because i
+want people to benefit from the videos
+and the content that i'm making
+so i picked a couple 1v2s that i took um
+this first one
+i can see both enemies are approaching
+me down the hallway try to get some
+shots on them
+uh before i kind of retreat to cover
+and they slide into my
+my viewpoint and we do a little bit of
+exchange i miss
+my shots the other enemy comes in
+i get some shots on them but you see
+that i'm i'm purposefully
+hugging the wall and they are basically
+full peaking and they're doing it
+because
+they feel like they have an advantage
+they have a 2v1 on me they do have an
+advantage
+um and this is what creates situations
+for you where you can
+actually win fights in uneven
+circumstances because
+enemies will usually get way too cocky
+and
+push way out in the open and do all the
+things wrong like what i've just talked
+about
+in the past few minutes so i even peek a
+little too far out
+but i'm able to to kill one of them and
+then i just hug the quarter
+and i just keep shooting the other one
+who is still again out in the open so
+it's easy shots for me it's harder shots
+for them
+and i win the fight pretty
+straightforward even with
+not great aim like i missed a lot of
+shots there
+um i was still able to take both of them
+out without losing much health at all
+so in this next 1v2 um i i know that i'm
+in a bad situation because my teammate's
+dead
+and i know two of them are still up so
+i'm you can see me kind of
+jiggling back and forth behind cover
+trying to get some shots on them
+and if they're ordinance i get a lucky
+nade and you know i take one of them out
+without even taking any damage myself
+and so what i do is i make a pretty big
+mistake here because
+what i'm doing is i'm making an
+assumption that the enemy
+is still back behind cover and i need a
+push to take advantage
+of this situation because now i have a
+1v1 so it's easier for me to win a 1v1
+than a 2v1
+so both the enemy and i push out in the
+open
+so both of our hitboxes are fully
+exposed and it's basically
+you know an exchange and i miss a lot of
+shots i even
+i talked about this earlier about how i
+miss my shots um
+and that's trainable um so i start to
+take cover
+for a split second i make a decision
+it's like should i heal
+or should i back and again this is more
+like game sense type territory
+but what i do is i know that they're
+gonna push me and i know that if i heal
+i'm just gonna be sitting there trying
+to heal and they're gonna get free shots
+so i see cover ahead of me i quickly try
+to get to cover
+but i also start spraying on them
+as i'm leaving because i know they're
+going to come down and
+i do a lot of damage to them and the
+reason why they lost this fight
+is because they ego challenged the right
+play here would have been for them to
+just kind of like back and heal
+or just back up get a better position
+but instead what they do is
+because in their mind they were thinking
+well this was a 2v1
+my teammate must have done damage to
+them enough
+i can just win this 1v1 and i have the
+advantage but that's not what happened
+um so they're still operating that
+mindset that i can just push this fight
+and win
+and as you can see i mean that's that's
+what gets killed i'm able to just easily
+finish a fight even though i had
+shaky aim there with my reactivity and
+then i win the 2v1
+oh that took a while huh
+so if you made it this far thank you for
+sticking around this is a really complex
+topic
+it's been very difficult for me to make
+i think because
+of the length of this video i want to do
+a nice
+recap of the key takeaways the first one
+being
+your benchmark rank is not equal to your
+in-game skill and we talked about how
+the map is not the territory
+after a certain point climbing ranks and
+getting one percent higher score
+on the scenarios it involves more
+problem-solving skills and
+raw aim mechanics it can be very similar
+to getting
+a degree in a field unrelated to your
+career
+it's just showing that you have the
+discipline talent and tenacity to go
+through with it
+it doesn't necessarily mean it's
+completely useless to have a degree
+in a field other than your career you
+would just need to apply the same type
+of discipline that gets you those
+benchmark scores
+to improving in the fps game that you're
+trying to improve in
+to that end you should prioritize your
+kovacs
+practice around in-game improvement and
+review your vods
+it's a big thing a lot of people don't
+do it just it takes
+only a little bit of time but it's gonna
+help you
+a ton just looking at your mods and
+seeing what you're doing wrong
+you want to think of improving your aim
+mechanics as getting better at your
+instrument
+and improving in-game is like band
+practice
+and finally you want to put yourself in
+situations in game where you can
+maximize your aim
+potential we talked about a lot of
+different
+topics in that regard such as minimizing
+your hitbox
+excessive use of cover isolating and
+zoning your enemies to always take 1v1s
+avoiding ego peaking and ego challenging
+taking advantage of client server
+latency
+pre-aiming pre-firing always putting
+yourself in positions of advantage
+where you can shoot people without
+pressure i hope you were able to get
+something out of this video
+again i apologize for the length it was
+really dense
+and i'm going to try to focus for the
+next few videos on
+less complex kind of higher frequency
+content
+to keep up with all the changes going on
+in the aim community there's a lot of
+stuff going on that i want to cover
+um but if you like this video please
+like and subscribe
+tell your friends tell your parents tell
+your animals and i'll see you next time

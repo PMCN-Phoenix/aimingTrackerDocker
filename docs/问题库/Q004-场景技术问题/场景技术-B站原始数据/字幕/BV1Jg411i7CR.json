@@ -1,0 +1,1692 @@
+{
+  "P1": [
+    {
+      "from": 0.24,
+      "to": 1.08,
+      "sid": 1,
+      "location": 2,
+      "content": "各位朋友大家好",
+      "music": 0.0
+    },
+    {
+      "from": 1.08,
+      "to": 1.74,
+      "sid": 2,
+      "location": 2,
+      "content": "我是东彦",
+      "music": 0.0
+    },
+    {
+      "from": 1.74,
+      "to": 3.42,
+      "sid": 3,
+      "location": 2,
+      "content": "那么先给带来一期瓦伦特的视频",
+      "music": 0.0
+    },
+    {
+      "from": 3.42,
+      "to": 5.97,
+      "sid": 4,
+      "location": 2,
+      "content": "细谈一下在游戏里的瞄准微调应该如何提高",
+      "music": 0.0
+    },
+    {
+      "from": 5.97,
+      "to": 8.37,
+      "sid": 5,
+      "location": 2,
+      "content": "就是我之前在这个参考教学中讲到过的一样",
+      "music": 0.0
+    },
+    {
+      "from": 8.37,
+      "to": 9.99,
+      "sid": 6,
+      "location": 2,
+      "content": "在瓦伦特利微调手上有三种",
+      "music": 0.0
+    },
+    {
+      "from": 9.99,
+      "to": 11.43,
+      "sid": 7,
+      "location": 2,
+      "content": "也就是右手的瞄准微调",
+      "music": 0.0
+    },
+    {
+      "from": 11.43,
+      "to": 13.58,
+      "sid": 8,
+      "location": 2,
+      "content": "左手的移动补偿以及扫射控枪补偿",
+      "music": 0.0
+    },
+    {
+      "from": 13.58,
+      "to": 16.68,
+      "sid": 9,
+      "location": 2,
+      "content": "那么其中呢右手的瞄准微调是中国注重微调的",
+      "music": 0.0
+    },
+    {
+      "from": 16.68,
+      "to": 18.12,
+      "sid": 10,
+      "location": 2,
+      "content": "既是准星不在目标上面",
+      "music": 0.0
+    },
+    {
+      "from": 18.12,
+      "to": 19.38,
+      "sid": 11,
+      "location": 2,
+      "content": "但准星相关的距离很近",
+      "music": 0.0
+    },
+    {
+      "from": 19.38,
+      "to": 21.3,
+      "sid": 12,
+      "location": 2,
+      "content": "需要我们尽快遇到准星文件的相对关系",
+      "music": 0.0
+    },
+    {
+      "from": 21.3,
+      "to": 22.44,
+      "sid": 13,
+      "location": 2,
+      "content": "并通过小费的微调",
+      "music": 0.0
+    },
+    {
+      "from": 22.44,
+      "to": 24.32,
+      "sid": 14,
+      "location": 2,
+      "content": "将准星定到目标头上的一个场景",
+      "music": 0.0
+    },
+    {
+      "from": 24.32,
+      "to": 25.76,
+      "sid": 15,
+      "location": 2,
+      "content": "那关于这方面的练习",
+      "music": 0.0
+    },
+    {
+      "from": 25.76,
+      "to": 27.89,
+      "sid": 16,
+      "location": 2,
+      "content": "我此前呢讲的比较这个概率啊",
+      "music": 0.0
+    },
+    {
+      "from": 27.89,
+      "to": 30.04,
+      "sid": 17,
+      "location": 2,
+      "content": "那今天我们就深入的谈一下这个话题",
+      "music": 0.0
+    },
+    {
+      "from": 30.04,
+      "to": 30.82,
+      "sid": 18,
+      "location": 2,
+      "content": "在视频的开头",
+      "music": 0.0
+    },
+    {
+      "from": 30.82,
+      "to": 31.84,
+      "sid": 19,
+      "location": 2,
+      "content": "我们还是错误一下",
+      "music": 0.0
+    },
+    {
+      "from": 31.84,
+      "to": 32.38,
+      "sid": 20,
+      "location": 2,
+      "content": "没有看过",
+      "music": 0.0
+    },
+    {
+      "from": 32.38,
+      "to": 33.82,
+      "sid": 21,
+      "location": 2,
+      "content": "可能以前的这些视频的新观众",
+      "music": 0.0
+    },
+    {
+      "from": 33.82,
+      "to": 36.64,
+      "sid": 22,
+      "location": 2,
+      "content": "我再提两个老生常谈的微调能这练习方式",
+      "music": 0.0
+    },
+    {
+      "from": 36.64,
+      "to": 39.1,
+      "sid": 23,
+      "location": 2,
+      "content": "首先在练习软件里面有专门的微调战力",
+      "music": 0.0
+    },
+    {
+      "from": 39.1,
+      "to": 41.1,
+      "sid": 24,
+      "location": 2,
+      "content": "练习项目可供我们这个练习啊",
+      "music": 0.0
+    },
+    {
+      "from": 41.1,
+      "to": 42.54,
+      "sid": 25,
+      "location": 2,
+      "content": "QUAK中的romos control",
+      "music": 0.0
+    },
+    {
+      "from": 42.54,
+      "to": 44.76,
+      "sid": 26,
+      "location": 2,
+      "content": "ak three以及in lab中的micro gusha",
+      "music": 0.0
+    },
+    {
+      "from": 44.76,
+      "to": 46.38,
+      "sid": 27,
+      "location": 2,
+      "content": "都有很好的一个练习的效果",
+      "music": 0.0
+    },
+    {
+      "from": 46.38,
+      "to": 47.64,
+      "sid": 28,
+      "location": 2,
+      "content": "那在这些项目的练习中",
+      "music": 0.0
+    },
+    {
+      "from": 47.64,
+      "to": 49.44,
+      "sid": 29,
+      "location": 2,
+      "content": "我们能磨练自己纯粹的瞄准能力",
+      "music": 0.0
+    },
+    {
+      "from": 49.44,
+      "to": 51.42,
+      "sid": 30,
+      "location": 2,
+      "content": "也就是说MIGO那练枪法软件呢",
+      "music": 0.0
+    },
+    {
+      "from": 51.42,
+      "to": 53.4,
+      "sid": 31,
+      "location": 2,
+      "content": "除了瞄准能力与实战枪法之间的关系",
+      "music": 0.0
+    },
+    {
+      "from": 53.4,
+      "to": 54.84,
+      "sid": 32,
+      "location": 2,
+      "content": "我们在瞄准系列教学",
+      "music": 0.0
+    },
+    {
+      "from": 54.84,
+      "to": 56.48,
+      "sid": 33,
+      "location": 2,
+      "content": "S204中也讲的很清楚了",
+      "music": 0.0
+    },
+    {
+      "from": 56.48,
+      "to": 57.74,
+      "sid": 34,
+      "location": 2,
+      "content": "非常推荐大家去看一下",
+      "music": 0.0
+    },
+    {
+      "from": 57.74,
+      "to": 59.24,
+      "sid": 35,
+      "location": 2,
+      "content": "国外链接会在时间下方",
+      "music": 0.0
+    },
+    {
+      "from": 59.24,
+      "to": 60.92,
+      "sid": 36,
+      "location": 2,
+      "content": "那有些朋友呢在练习枪软件里面",
+      "music": 0.0
+    },
+    {
+      "from": 60.92,
+      "to": 62.98,
+      "sid": 37,
+      "location": 2,
+      "content": "练出了比较不错的微调能力",
+      "music": 0.0
+    },
+    {
+      "from": 62.98,
+      "to": 64.3,
+      "sid": 38,
+      "location": 2,
+      "content": "在实战里面用不出来啊",
+      "music": 0.0
+    },
+    {
+      "from": 64.3,
+      "to": 65.92,
+      "sid": 39,
+      "location": 2,
+      "content": "就比如说实战里心里一紧张",
+      "music": 0.0
+    },
+    {
+      "from": 65.92,
+      "to": 67.58,
+      "sid": 40,
+      "location": 2,
+      "content": "可能就会不经过微调就开枪",
+      "music": 0.0
+    },
+    {
+      "from": 67.58,
+      "to": 69.14,
+      "sid": 41,
+      "location": 2,
+      "content": "习惯性的先开枪再瞄准",
+      "music": 0.0
+    },
+    {
+      "from": 69.14,
+      "to": 70.61,
+      "sid": 42,
+      "location": 2,
+      "content": "微调练得再好也用不出来",
+      "music": 0.0
+    },
+    {
+      "from": 70.61,
+      "to": 72.2,
+      "sid": 43,
+      "location": 2,
+      "content": "如果你在实战里有这种现象",
+      "music": 0.0
+    },
+    {
+      "from": 72.2,
+      "to": 74.06,
+      "sid": 44,
+      "location": 2,
+      "content": "那我多次提到过的捍卫者练习",
+      "music": 0.0
+    },
+    {
+      "from": 74.06,
+      "to": 75.4,
+      "sid": 45,
+      "location": 2,
+      "content": "将会极大地帮助到你",
+      "music": 0.0
+    },
+    {
+      "from": 75.4,
+      "to": 76.6,
+      "sid": 46,
+      "location": 2,
+      "content": "我们可以在死斗神",
+      "music": 0.0
+    },
+    {
+      "from": 76.6,
+      "to": 79.3,
+      "sid": 47,
+      "location": 2,
+      "content": "在天梯中只使用神社捍卫者等半自动枪法",
+      "music": 0.0
+    },
+    {
+      "from": 79.3,
+      "to": 81.16,
+      "sid": 48,
+      "location": 2,
+      "content": "而且进行练习能很好的帮助你养成",
+      "music": 0.0
+    },
+    {
+      "from": 81.16,
+      "to": 82.69,
+      "sid": 49,
+      "location": 2,
+      "content": "先瞄准再开枪法习惯",
+      "music": 0.0
+    },
+    {
+      "from": 82.69,
+      "to": 84.1,
+      "sid": 50,
+      "location": 2,
+      "content": "这种练习呢虽然很折磨",
+      "music": 0.0
+    },
+    {
+      "from": 84.1,
+      "to": 86.66,
+      "sid": 51,
+      "location": 2,
+      "content": "但能迅速的将练习翘软件磨练出的微调能力",
+      "music": 0.0
+    },
+    {
+      "from": 86.66,
+      "to": 87.8,
+      "sid": 52,
+      "location": 2,
+      "content": "转换到实战中",
+      "music": 0.0
+    },
+    {
+      "from": 87.8,
+      "to": 90.02,
+      "sid": 53,
+      "location": 2,
+      "content": "另外呢就是我此前一直强调过的",
+      "music": 0.0
+    },
+    {
+      "from": 90.02,
+      "to": 91.98,
+      "sid": 54,
+      "location": 2,
+      "content": "左手的移动对右手瞄准的补偿",
+      "music": 0.0
+    },
+    {
+      "from": 91.98,
+      "to": 93.18,
+      "sid": 55,
+      "location": 2,
+      "content": "即左右手的协调",
+      "music": 0.0
+    },
+    {
+      "from": 93.18,
+      "to": 95.44,
+      "sid": 56,
+      "location": 2,
+      "content": "也是影响实战有微调发挥的重要因素",
+      "music": 0.0
+    },
+    {
+      "from": 95.44,
+      "to": 97.6,
+      "sid": 57,
+      "location": 2,
+      "content": "比如说我们在移动的过程中遭遇了敌人",
+      "music": 0.0
+    },
+    {
+      "from": 97.6,
+      "to": 100.26,
+      "sid": 58,
+      "location": 2,
+      "content": "假如我们目前的准星位于敌人头部右侧",
+      "music": 0.0
+    },
+    {
+      "from": 100.26,
+      "to": 102.42,
+      "sid": 59,
+      "location": 2,
+      "content": "我们既可以在按A向左移动的同时",
+      "music": 0.0
+    },
+    {
+      "from": 102.42,
+      "to": 103.53,
+      "sid": 60,
+      "location": 2,
+      "content": "鼠标向左微调",
+      "music": 0.0
+    },
+    {
+      "from": 103.53,
+      "to": 105.36,
+      "sid": 61,
+      "location": 2,
+      "content": "也可以按D向右移动的同时",
+      "music": 0.0
+    },
+    {
+      "from": 105.36,
+      "to": 107.26,
+      "sid": 62,
+      "location": 2,
+      "content": "以更大幅度往左拉鼠标",
+      "music": 0.0
+    },
+    {
+      "from": 107.26,
+      "to": 109.75,
+      "sid": 63,
+      "location": 2,
+      "content": "最终让移动补偿右手的鼠标完成微调",
+      "music": 0.0
+    },
+    {
+      "from": 109.75,
+      "to": 112.14,
+      "sid": 64,
+      "location": 2,
+      "content": "后面上这几个素材都是比较好的案例",
+      "music": 0.0
+    },
+    {
+      "from": 112.14,
+      "to": 113.88,
+      "sid": 65,
+      "location": 2,
+      "content": "那关于如何练习这种能力",
+      "music": 0.0
+    },
+    {
+      "from": 113.88,
+      "to": 114.6,
+      "sid": 66,
+      "location": 2,
+      "content": "在初级阶段",
+      "music": 0.0
+    },
+    {
+      "from": 114.6,
+      "to": 118.02,
+      "sid": 67,
+      "location": 2,
+      "content": "我推荐大家在靶场里面在保持频繁变向的同时",
+      "music": 0.0
+    },
+    {
+      "from": 118.02,
+      "to": 119.4,
+      "sid": 68,
+      "location": 2,
+      "content": "对这个靶子进行定位",
+      "music": 0.0
+    },
+    {
+      "from": 119.4,
+      "to": 122.34,
+      "sid": 69,
+      "location": 2,
+      "content": "在熟练掌握了移动索敌左右手协调",
+      "music": 0.0
+    },
+    {
+      "from": 122.34,
+      "to": 124.08,
+      "sid": 70,
+      "location": 2,
+      "content": "完成微调这一套流程之后",
+      "music": 0.0
+    },
+    {
+      "from": 124.08,
+      "to": 125.68,
+      "sid": 71,
+      "location": 2,
+      "content": "可以进入更进一步的训练",
+      "music": 0.0
+    },
+    {
+      "from": 125.68,
+      "to": 126.34,
+      "sid": 72,
+      "location": 2,
+      "content": "也就是说",
+      "music": 0.0
+    },
+    {
+      "from": 126.34,
+      "to": 128.98,
+      "sid": 73,
+      "location": 2,
+      "content": "找一个朋友一起进入自定义选择遗落境地",
+      "music": 0.0
+    },
+    {
+      "from": 128.98,
+      "to": 129.979,
+      "sid": 74,
+      "location": 2,
+      "content": "打开密集选项",
+      "music": 0.0
+    },
+    {
+      "from": 129.979,
+      "to": 130.939,
+      "sid": 75,
+      "location": 2,
+      "content": "开启游戏后呢",
+      "music": 0.0
+    },
+    {
+      "from": 130.939,
+      "to": 132.019,
+      "sid": 76,
+      "location": 2,
+      "content": "两个人都选了捷风",
+      "music": 0.0
+    },
+    {
+      "from": 132.019,
+      "to": 132.559,
+      "sid": 77,
+      "location": 2,
+      "content": "进入游戏后",
+      "music": 0.0
+    },
+    {
+      "from": 132.559,
+      "to": 133.579,
+      "sid": 78,
+      "location": 2,
+      "content": "打开ESC的秘籍",
+      "music": 0.0
+    },
+    {
+      "from": 133.579,
+      "to": 134.569,
+      "sid": 79,
+      "location": 2,
+      "content": "打开自动重生",
+      "music": 0.0
+    },
+    {
+      "from": 134.569,
+      "to": 136.159,
+      "sid": 80,
+      "location": 2,
+      "content": "两个人来到C场两侧",
+      "music": 0.0
+    },
+    {
+      "from": 136.159,
+      "to": 138.98,
+      "sid": 81,
+      "location": 2,
+      "content": "往马路中间按C技能封一颗持续四秒的烟雾弹",
+      "music": 0.0
+    },
+    {
+      "from": 138.98,
+      "to": 141.32,
+      "sid": 82,
+      "location": 2,
+      "content": "双方在烟雾弹存在过程中保持移动",
+      "music": 0.0
+    },
+    {
+      "from": 141.32,
+      "to": 142.76,
+      "sid": 83,
+      "location": 2,
+      "content": "在烟雾弹消散一瞬间",
+      "music": 0.0
+    },
+    {
+      "from": 142.76,
+      "to": 144.82,
+      "sid": 84,
+      "location": 2,
+      "content": "尝试以最快的速度这个击杀敌人",
+      "music": 0.0
+    },
+    {
+      "from": 144.82,
+      "to": 146.38,
+      "sid": 85,
+      "location": 2,
+      "content": "通过这样的高频为单挑",
+      "music": 0.0
+    },
+    {
+      "from": 146.38,
+      "to": 149.32,
+      "sid": 86,
+      "location": 2,
+      "content": "我们就能更快更好的掌握左右手的协调能力",
+      "music": 0.0
+    },
+    {
+      "from": 149.32,
+      "to": 151.42,
+      "sid": 87,
+      "location": 2,
+      "content": "在实战中把自微调剂好用出来",
+      "music": 0.0
+    },
+    {
+      "from": 151.42,
+      "to": 152.74,
+      "sid": 88,
+      "location": 2,
+      "content": "那以上这些内容呢",
+      "music": 0.0
+    },
+    {
+      "from": 152.74,
+      "to": 154.9,
+      "sid": 89,
+      "location": 2,
+      "content": "我此前都或多或少的讲过蛮多次的",
+      "music": 0.0
+    },
+    {
+      "from": 154.9,
+      "to": 157.02,
+      "sid": 90,
+      "location": 2,
+      "content": "接下来这些内容是此前没有讲过的",
+      "music": 0.0
+    },
+    {
+      "from": 157.02,
+      "to": 157.68,
+      "sid": 91,
+      "location": 2,
+      "content": "细致化的",
+      "music": 0.0
+    },
+    {
+      "from": 157.68,
+      "to": 161.58,
+      "sid": 92,
+      "location": 2,
+      "content": "而且个人色彩明显的一些这个经验分享",
+      "music": 0.0
+    },
+    {
+      "from": 162.68,
+      "to": 164.66,
+      "sid": 93,
+      "location": 2,
+      "content": "我们先来谈一下握法与发力方式",
+      "music": 0.0
+    },
+    {
+      "from": 164.66,
+      "to": 166.76,
+      "sid": 94,
+      "location": 2,
+      "content": "一般来讲啊才知道奥特射击游戏里会说",
+      "music": 0.0
+    },
+    {
+      "from": 166.76,
+      "to": 168.26,
+      "sid": 95,
+      "location": 2,
+      "content": "握法虽然有理论上的最优解",
+      "music": 0.0
+    },
+    {
+      "from": 168.26,
+      "to": 170.12,
+      "sid": 96,
+      "location": 2,
+      "content": "但在实际应用上还是推荐大家怎么舒服",
+      "music": 0.0
+    },
+    {
+      "from": 170.12,
+      "to": 170.94,
+      "sid": 97,
+      "location": 2,
+      "content": "怎么来的",
+      "music": 0.0
+    },
+    {
+      "from": 170.94,
+      "to": 173.16,
+      "sid": 98,
+      "location": 2,
+      "content": "可是呢在极度强调瞬间的瞄准",
+      "music": 0.0
+    },
+    {
+      "from": 173.16,
+      "to": 174.72,
+      "sid": 99,
+      "location": 2,
+      "content": "微调的瓦兰特这一特定游戏里",
+      "music": 0.0
+    },
+    {
+      "from": 174.72,
+      "to": 176.58,
+      "sid": 100,
+      "location": 2,
+      "content": "有一种握法呢还是最好尽力避免的",
+      "music": 0.0
+    },
+    {
+      "from": 176.58,
+      "to": 177.44,
+      "sid": 101,
+      "location": 2,
+      "content": "那就是趴握",
+      "music": 0.0
+    },
+    {
+      "from": 177.44,
+      "to": 178.1,
+      "sid": 102,
+      "location": 2,
+      "content": "我们要知道",
+      "music": 0.0
+    },
+    {
+      "from": 178.1,
+      "to": 180.8,
+      "sid": 103,
+      "location": 2,
+      "content": "在游戏中瞄准会用到主要个人体发力部位里",
+      "music": 0.0
+    },
+    {
+      "from": 180.8,
+      "to": 183.44,
+      "sid": 104,
+      "location": 2,
+      "content": "对细微操作精度是肩膀远小于手臂",
+      "music": 0.0
+    },
+    {
+      "from": 183.44,
+      "to": 183.92,
+      "sid": 105,
+      "location": 2,
+      "content": "小于手腕",
+      "music": 0.0
+    },
+    {
+      "from": 183.92,
+      "to": 184.82,
+      "sid": 106,
+      "location": 2,
+      "content": "小于手指的",
+      "music": 0.0
+    },
+    {
+      "from": 184.82,
+      "to": 186.5,
+      "sid": 107,
+      "location": 2,
+      "content": "而power意味着你完全放弃了",
+      "music": 0.0
+    },
+    {
+      "from": 186.5,
+      "to": 187.67,
+      "sid": 108,
+      "location": 2,
+      "content": "让手指参与瞄准",
+      "music": 0.0
+    },
+    {
+      "from": 187.67,
+      "to": 189.8,
+      "sid": 109,
+      "location": 2,
+      "content": "我们在此前的瞄准教学中也讲到过",
+      "music": 0.0
+    },
+    {
+      "from": 189.8,
+      "to": 191.0,
+      "sid": 110,
+      "location": 2,
+      "content": "大家习惯说的手腕流",
+      "music": 0.0
+    },
+    {
+      "from": 191.0,
+      "to": 193.39,
+      "sid": 111,
+      "location": 2,
+      "content": "手臂流都只是比较片面不正确的说法",
+      "music": 0.0
+    },
+    {
+      "from": 193.39,
+      "to": 195.13,
+      "sid": 112,
+      "location": 2,
+      "content": "大部分玩家在使用鼠标的时候",
+      "music": 0.0
+    },
+    {
+      "from": 195.13,
+      "to": 196.72,
+      "sid": 113,
+      "location": 2,
+      "content": "都会用到多个部位进行发力",
+      "music": 0.0
+    },
+    {
+      "from": 196.72,
+      "to": 198.7,
+      "sid": 114,
+      "location": 2,
+      "content": "最多只是侧重点的不同而已",
+      "music": 0.0
+    },
+    {
+      "from": 198.7,
+      "to": 200.47,
+      "sid": 115,
+      "location": 2,
+      "content": "完全放弃手指这一部位",
+      "music": 0.0
+    },
+    {
+      "from": 200.47,
+      "to": 202.82,
+      "sid": 116,
+      "location": 2,
+      "content": "对方参与在频繁需要微调的瓦罗兰特里",
+      "music": 0.0
+    },
+    {
+      "from": 202.82,
+      "to": 204.88,
+      "sid": 117,
+      "location": 2,
+      "content": "是有明显的一个先天劣势的",
+      "music": 0.0
+    },
+    {
+      "from": 204.88,
+      "to": 208.3,
+      "sid": 118,
+      "location": 2,
+      "content": "而萨瓦特里呢学会让发力部位中操纵最高手指",
+      "music": 0.0
+    },
+    {
+      "from": 208.3,
+      "to": 210.7,
+      "sid": 119,
+      "location": 2,
+      "content": "参与瞄准是提升微调能力的关键",
+      "music": 0.0
+    },
+    {
+      "from": 210.7,
+      "to": 211.9,
+      "sid": 120,
+      "location": 2,
+      "content": "以我个人的握法为例",
+      "music": 0.0
+    },
+    {
+      "from": 211.9,
+      "to": 213.34,
+      "sid": 121,
+      "location": 2,
+      "content": "我会弯曲食指和中指",
+      "music": 0.0
+    },
+    {
+      "from": 213.34,
+      "to": 215.28,
+      "sid": 122,
+      "location": 2,
+      "content": "分别放置在鼠标的左键和右键",
+      "music": 0.0
+    },
+    {
+      "from": 215.28,
+      "to": 216.9,
+      "sid": 123,
+      "location": 2,
+      "content": "在需要垂直微调场景下",
+      "music": 0.0
+    },
+    {
+      "from": 216.9,
+      "to": 218.94,
+      "sid": 124,
+      "location": 2,
+      "content": "通过食指和中指的不同承度弯曲",
+      "music": 0.0
+    },
+    {
+      "from": 218.94,
+      "to": 220.32,
+      "sid": 125,
+      "location": 2,
+      "content": "来进行垂直方向微调",
+      "music": 0.0
+    },
+    {
+      "from": 220.32,
+      "to": 221.46,
+      "sid": 126,
+      "location": 2,
+      "content": "而在水平方向上",
+      "music": 0.0
+    },
+    {
+      "from": 221.46,
+      "to": 223.77,
+      "sid": 127,
+      "location": 2,
+      "content": "我会以无名指为轴心固定在鼠标垫上",
+      "music": 0.0
+    },
+    {
+      "from": 223.77,
+      "to": 224.76,
+      "sid": 128,
+      "location": 2,
+      "content": "通过无名指",
+      "music": 0.0
+    },
+    {
+      "from": 224.76,
+      "to": 227.46,
+      "sid": 129,
+      "location": 2,
+      "content": "小拇指和大拇指之间的相互运动进行微调",
+      "music": 0.0
+    },
+    {
+      "from": 227.46,
+      "to": 228.96,
+      "sid": 130,
+      "location": 2,
+      "content": "那值得各位注意的一点是",
+      "music": 0.0
+    },
+    {
+      "from": 228.96,
+      "to": 231.81,
+      "sid": 131,
+      "location": 2,
+      "content": "我个人在水平方向上的微调方式是比较极端的",
+      "music": 0.0
+    },
+    {
+      "from": 231.81,
+      "to": 233.28,
+      "sid": 132,
+      "location": 2,
+      "content": "就是因为我的手腕受过伤",
+      "music": 0.0
+    },
+    {
+      "from": 233.28,
+      "to": 235.36,
+      "sid": 133,
+      "location": 2,
+      "content": "所以我的微调更多只用到了这个手指",
+      "music": 0.0
+    },
+    {
+      "from": 235.36,
+      "to": 236.74,
+      "sid": 134,
+      "location": 2,
+      "content": "不推荐大家盲目的学习",
+      "music": 0.0
+    },
+    {
+      "from": 236.74,
+      "to": 237.16,
+      "sid": 135,
+      "location": 2,
+      "content": "这一点",
+      "music": 0.0
+    },
+    {
+      "from": 237.16,
+      "to": 238.96,
+      "sid": 136,
+      "location": 2,
+      "content": "对于更广泛的各位玩家来说",
+      "music": 0.0
+    },
+    {
+      "from": 238.96,
+      "to": 240.7,
+      "sid": 137,
+      "location": 2,
+      "content": "应该是这个手腕和手指两者",
+      "music": 0.0
+    },
+    {
+      "from": 240.7,
+      "to": 242.18,
+      "sid": 138,
+      "location": 2,
+      "content": "共同来参与水平微调",
+      "music": 0.0
+    },
+    {
+      "from": 242.18,
+      "to": 242.9,
+      "sid": 139,
+      "location": 2,
+      "content": "整体而言",
+      "music": 0.0
+    },
+    {
+      "from": 242.9,
+      "to": 245.06,
+      "sid": 140,
+      "location": 2,
+      "content": "让手指参与微调思路肯定是没有问题的",
+      "music": 0.0
+    },
+    {
+      "from": 245.06,
+      "to": 247.22,
+      "sid": 141,
+      "location": 2,
+      "content": "这技能让你在提高微调速度的同时",
+      "music": 0.0
+    },
+    {
+      "from": 247.22,
+      "to": 248.76,
+      "sid": 142,
+      "location": 2,
+      "content": "还能保持更高精度",
+      "music": 0.37681156689772116
+    },
+    {
+      "from": 248.76,
+      "to": 250.38,
+      "sid": 143,
+      "location": 2,
+      "content": "另外我们再来说一些其他的",
+      "music": 0.0
+    },
+    {
+      "from": 250.38,
+      "to": 252.06,
+      "sid": 144,
+      "location": 2,
+      "content": "有助于提高微调大的练习",
+      "music": 0.0
+    },
+    {
+      "from": 252.06,
+      "to": 254.46,
+      "sid": 145,
+      "location": 2,
+      "content": "我们在此前的瞄准系列教学的S201中",
+      "music": 0.0
+    },
+    {
+      "from": 254.46,
+      "to": 257.44,
+      "sid": 146,
+      "location": 2,
+      "content": "讲到过折磨优化尝试的一个提升路径",
+      "music": 0.0
+    },
+    {
+      "from": 257.44,
+      "to": 258.52,
+      "sid": 147,
+      "location": 2,
+      "content": "那有一种尝试",
+      "music": 0.0
+    },
+    {
+      "from": 258.52,
+      "to": 260.32,
+      "sid": 148,
+      "location": 2,
+      "content": "确实有可能对个人的微调能力的进步",
+      "music": 0.0
+    },
+    {
+      "from": 260.32,
+      "to": 261.22,
+      "sid": 149,
+      "location": 2,
+      "content": "有明显的帮助",
+      "music": 0.0
+    },
+    {
+      "from": 261.22,
+      "to": 262.66,
+      "sid": 150,
+      "location": 2,
+      "content": "我看到过一些水友的录像",
+      "music": 0.0
+    },
+    {
+      "from": 262.66,
+      "to": 263.86,
+      "sid": 151,
+      "location": 2,
+      "content": "他们的微调是比较慢的",
+      "music": 0.0
+    },
+    {
+      "from": 263.86,
+      "to": 265.72,
+      "sid": 152,
+      "location": 2,
+      "content": "有些人会称之为惰性瞄准",
+      "music": 0.0
+    },
+    {
+      "from": 265.72,
+      "to": 266.8,
+      "sid": 153,
+      "location": 2,
+      "content": "我觉得是比较形象的",
+      "music": 0.0
+    },
+    {
+      "from": 266.8,
+      "to": 268.32,
+      "sid": 154,
+      "location": 2,
+      "content": "关于如何克服这种问题",
+      "music": 0.0
+    },
+    {
+      "from": 268.32,
+      "to": 270.0,
+      "sid": 155,
+      "location": 2,
+      "content": "个人推荐一种比较偏门的路径",
+      "music": 0.0
+    },
+    {
+      "from": 270.0,
+      "to": 273.08,
+      "sid": 156,
+      "location": 2,
+      "content": "就是随机灵敏度法中的灵敏度降低身形练习",
+      "music": 0.0
+    },
+    {
+      "from": 273.08,
+      "to": 274.64,
+      "sid": 157,
+      "location": 2,
+      "content": "在此前视频中说到过",
+      "music": 0.0
+    },
+    {
+      "from": 274.64,
+      "to": 275.42,
+      "sid": 158,
+      "location": 2,
+      "content": "适应性不同",
+      "music": 0.0
+    },
+    {
+      "from": 275.42,
+      "to": 277.52,
+      "sid": 159,
+      "location": 2,
+      "content": "灵敏度本质就是通过改变自己的发力",
+      "music": 0.0
+    },
+    {
+      "from": 277.52,
+      "to": 280.28,
+      "sid": 160,
+      "location": 2,
+      "content": "来尽量保持原有的一个舒适的一个瞄准速度",
+      "music": 0.05384615177514229
+    },
+    {
+      "from": 280.28,
+      "to": 282.32,
+      "sid": 161,
+      "location": 2,
+      "content": "而合理利用随机灵敏度练习",
+      "music": 0.0
+    },
+    {
+      "from": 282.32,
+      "to": 284.26,
+      "sid": 162,
+      "location": 2,
+      "content": "会有助于你突破这个瞄准瓶颈",
+      "music": 0.0
+    },
+    {
+      "from": 284.26,
+      "to": 286.12,
+      "sid": 163,
+      "location": 2,
+      "content": "在惰性瞄准这个案例中",
+      "music": 0.0
+    },
+    {
+      "from": 286.12,
+      "to": 288.55,
+      "sid": 164,
+      "location": 2,
+      "content": "假如你的常用灵敏度是800dpi乘0.4",
+      "music": 0.0
+    },
+    {
+      "from": 288.55,
+      "to": 291.22,
+      "sid": 165,
+      "location": 2,
+      "content": "你常识性的将灵敏度拉到800dpi乘0.2",
+      "music": 0.0
+    },
+    {
+      "from": 291.22,
+      "to": 291.7,
+      "sid": 166,
+      "location": 2,
+      "content": "打10分钟",
+      "music": 0.0
+    },
+    {
+      "from": 291.7,
+      "to": 292.92,
+      "sid": 167,
+      "location": 2,
+      "content": "Rom control in ra",
+      "music": 0.0
+    },
+    {
+      "from": 292.92,
+      "to": 294.6,
+      "sid": 168,
+      "location": 2,
+      "content": "因为你用了比平常低很多",
+      "music": 0.0
+    },
+    {
+      "from": 294.6,
+      "to": 295.11,
+      "sid": 169,
+      "location": 2,
+      "content": "灵敏度",
+      "music": 0.0
+    },
+    {
+      "from": 295.11,
+      "to": 297.0,
+      "sid": 170,
+      "location": 2,
+      "content": "为了维持自己习惯的瞄准速度",
+      "music": 0.0
+    },
+    {
+      "from": 297.0,
+      "to": 298.72,
+      "sid": 171,
+      "location": 2,
+      "content": "会下意识的加大自己的发力",
+      "music": 0.0
+    },
+    {
+      "from": 298.72,
+      "to": 301.24,
+      "sid": 172,
+      "location": 2,
+      "content": "然后当你再把灵敏度换回这个常用领域的时候",
+      "music": 0.0
+    },
+    {
+      "from": 301.24,
+      "to": 303.52,
+      "sid": 173,
+      "location": 2,
+      "content": "你会发现自己的瞄准速度有明显的突破",
+      "music": 0.0
+    },
+    {
+      "from": 303.52,
+      "to": 304.0,
+      "sid": 174,
+      "location": 2,
+      "content": "相反的",
+      "music": 0.0
+    },
+    {
+      "from": 304.0,
+      "to": 305.14,
+      "sid": 175,
+      "location": 2,
+      "content": "有一些水友在录像中",
+      "music": 0.0
+    },
+    {
+      "from": 305.14,
+      "to": 307.81,
+      "sid": 176,
+      "location": 2,
+      "content": "经常会用超出自己眼睛阅读的极限速度",
+      "music": 0.0
+    },
+    {
+      "from": 307.81,
+      "to": 308.84,
+      "sid": 177,
+      "location": 2,
+      "content": "来进行微调",
+      "music": 0.0
+    },
+    {
+      "from": 308.84,
+      "to": 310.7,
+      "sid": 178,
+      "location": 2,
+      "content": "他对于这种手快于眼的水果来说",
+      "music": 0.0
+    },
+    {
+      "from": 310.7,
+      "to": 312.68,
+      "sid": 179,
+      "location": 2,
+      "content": "可能就需要做提高灵敏度的适应性训练",
+      "music": 0.0
+    },
+    {
+      "from": 312.68,
+      "to": 314.54,
+      "sid": 180,
+      "location": 2,
+      "content": "来学会控制自己的发力了",
+      "music": 0.0
+    },
+    {
+      "from": 314.54,
+      "to": 315.44,
+      "sid": 181,
+      "location": 2,
+      "content": "除此之外呢",
+      "music": 0.0
+    },
+    {
+      "from": 315.44,
+      "to": 317.9,
+      "sid": 182,
+      "location": 2,
+      "content": "我们还可以再借助此前介绍过的ROXL",
+      "music": 0.0
+    },
+    {
+      "from": 317.9,
+      "to": 319.68,
+      "sid": 183,
+      "location": 2,
+      "content": "来找到更适合微调灵敏度",
+      "music": 0.0
+    },
+    {
+      "from": 319.68,
+      "to": 322.38,
+      "sid": 184,
+      "location": 2,
+      "content": "我们在灵敏度教学第二期中给大家介绍了OSU",
+      "music": 0.0
+    },
+    {
+      "from": 322.38,
+      "to": 322.92,
+      "sid": 185,
+      "location": 2,
+      "content": "这个软件",
+      "music": 0.0
+    },
+    {
+      "from": 322.92,
+      "to": 324.8,
+      "sid": 186,
+      "location": 2,
+      "content": "也提到过我们在瓦兰的这一类游戏",
+      "music": 0.0
+    },
+    {
+      "from": 324.8,
+      "to": 325.1,
+      "sid": 187,
+      "location": 2,
+      "content": "动手能",
+      "music": 0.0
+    },
+    {
+      "from": 325.1,
+      "to": 327.68,
+      "sid": 188,
+      "location": 2,
+      "content": "灵敏度一般是在微调精度和转身速度",
+      "music": 0.0
+    },
+    {
+      "from": 327.68,
+      "to": 329.3,
+      "sid": 189,
+      "location": 2,
+      "content": "两者间取到一个妥协值",
+      "music": 0.0
+    },
+    {
+      "from": 329.3,
+      "to": 331.34,
+      "sid": 190,
+      "location": 2,
+      "content": "通过使用ROXL能以不做妥协",
+      "music": 0.0
+    },
+    {
+      "from": 331.34,
+      "to": 334.44,
+      "sid": 191,
+      "location": 2,
+      "content": "灵敏度来兼容高精度微调和快速与转身",
+      "music": 0.0
+    },
+    {
+      "from": 334.44,
+      "to": 337.2,
+      "sid": 192,
+      "location": 2,
+      "content": "那以上呢现在都是直行层面上与可难度的提升",
+      "music": 0.0
+    },
+    {
+      "from": 337.2,
+      "to": 338.82,
+      "sid": 193,
+      "location": 2,
+      "content": "但在直行微调这个动作之前",
+      "music": 0.0
+    },
+    {
+      "from": 338.82,
+      "to": 340.5,
+      "sid": 194,
+      "location": 2,
+      "content": "我们还需要用眼睛越动目标",
+      "music": 0.0
+    },
+    {
+      "from": 340.5,
+      "to": 342.0,
+      "sid": 195,
+      "location": 2,
+      "content": "如果眼睛有能力有缺陷",
+      "music": 0.0
+    },
+    {
+      "from": 342.0,
+      "to": 344.16,
+      "sid": 196,
+      "location": 2,
+      "content": "那你在看到敌人在到鼠标驱动微调",
+      "music": 0.0
+    },
+    {
+      "from": 344.16,
+      "to": 346.53,
+      "sid": 197,
+      "location": 2,
+      "content": "这时间呢会有一个明显延迟",
+      "music": 0.0
+    },
+    {
+      "from": 346.53,
+      "to": 349.23,
+      "sid": 198,
+      "location": 2,
+      "content": "那么眼睛位置能力提升我已经讲过很多次了",
+      "music": 0.0
+    },
+    {
+      "from": 349.23,
+      "to": 351.03,
+      "sid": 199,
+      "location": 2,
+      "content": "例如使用这个visual track的一个训练啊",
+      "music": 0.0
+    },
+    {
+      "from": 351.03,
+      "to": 353.08,
+      "sid": 200,
+      "location": 2,
+      "content": "或者说练习一个动态的二级项目等等",
+      "music": 0.0
+    },
+    {
+      "from": 353.08,
+      "to": 355.12,
+      "sid": 201,
+      "location": 2,
+      "content": "这期视频的观点现在我都放在视频下方",
+      "music": 0.0
+    },
+    {
+      "from": 355.12,
+      "to": 357.22,
+      "sid": 202,
+      "location": 2,
+      "content": "我们这期视频就暂时略过不谈",
+      "music": 0.0
+    },
+    {
+      "from": 357.22,
+      "to": 358.84,
+      "sid": 203,
+      "location": 2,
+      "content": "今天的视频讲到这里也到了尾声",
+      "music": 0.0
+    },
+    {
+      "from": 358.84,
+      "to": 360.4,
+      "sid": 204,
+      "location": 2,
+      "content": "我是一名FPS游戏大up主",
+      "music": 0.0
+    },
+    {
+      "from": 360.4,
+      "to": 362.6,
+      "sid": 205,
+      "location": 2,
+      "content": "目前在重点关注瓦龙的这款游戏",
+      "music": 0.0
+    },
+    {
+      "from": 362.6,
+      "to": 364.52,
+      "sid": 206,
+      "location": 2,
+      "content": "我的目标是让所有观众在到达出来",
+      "music": 0.0
+    },
+    {
+      "from": 364.52,
+      "to": 365.48,
+      "sid": 207,
+      "location": 2,
+      "content": "但是之前都不会产生",
+      "music": 0.0
+    },
+    {
+      "from": 365.48,
+      "to": 366.31,
+      "sid": 208,
+      "location": 2,
+      "content": "但是上瓶颈",
+      "music": 0.0
+    },
+    {
+      "from": 366.31,
+      "to": 367.39,
+      "sid": 209,
+      "location": 2,
+      "content": "如果你想提高自己的话",
+      "music": 0.0
+    },
+    {
+      "from": 367.39,
+      "to": 369.01,
+      "sid": 210,
+      "location": 2,
+      "content": "那水平那不妨点关注我们",
+      "music": 0.0
+    },
+    {
+      "from": 369.01,
+      "to": 369.84,
+      "sid": 211,
+      "location": 2,
+      "content": "下期视频再见",
+      "music": 0.0
+    }
+  ]
+}

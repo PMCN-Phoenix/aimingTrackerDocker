@@ -1,0 +1,2074 @@
+[
+  {
+    "from": 0.04,
+    "to": 0.96,
+    "sid": 1,
+    "location": 2,
+    "content": "嗨小伙伴们",
+    "music": 0.0
+  },
+  {
+    "from": 0.96,
+    "to": 1.68,
+    "sid": 2,
+    "location": 2,
+    "content": "好久不见",
+    "music": 0.0
+  },
+  {
+    "from": 1.68,
+    "to": 3.32,
+    "sid": 3,
+    "location": 2,
+    "content": "在过去的2025年里",
+    "music": 0.0
+  },
+  {
+    "from": 3.32,
+    "to": 5.14,
+    "sid": 4,
+    "location": 2,
+    "content": "我完成了10万多字的书稿",
+    "music": 0.0
+  },
+  {
+    "from": 5.14,
+    "to": 6.859,
+    "sid": 5,
+    "location": 2,
+    "content": "制作了50条中长视频",
+    "music": 0.0
+  },
+  {
+    "from": 6.859,
+    "to": 8.739,
+    "sid": 6,
+    "location": 2,
+    "content": "并且打磨了三门录播课",
+    "music": 0.0
+  },
+  {
+    "from": 8.739,
+    "to": 10.88,
+    "sid": 7,
+    "location": 2,
+    "content": "还主持了多场线下的活动",
+    "music": 0.0
+  },
+  {
+    "from": 10.88,
+    "to": 12.3,
+    "sid": 8,
+    "location": 2,
+    "content": "很多小伙伴可能会好奇",
+    "music": 0.0
+  },
+  {
+    "from": 12.3,
+    "to": 14.18,
+    "sid": 9,
+    "location": 2,
+    "content": "你是怎么做到这么自律的呢",
+    "music": 0.0
+  },
+  {
+    "from": 14.18,
+    "to": 16.44,
+    "sid": 10,
+    "location": 2,
+    "content": "你是不是一天工作几十个小时呢",
+    "music": 0.0
+  },
+  {
+    "from": 16.44,
+    "to": 17.54,
+    "sid": 11,
+    "location": 2,
+    "content": "其实不是的",
+    "music": 0.0
+  },
+  {
+    "from": 17.54,
+    "to": 19.26,
+    "sid": 12,
+    "location": 2,
+    "content": "对于脑力工作者来说",
+    "music": 0.0
+  },
+  {
+    "from": 19.26,
+    "to": 22.46,
+    "sid": 13,
+    "location": 2,
+    "content": "人的脑力集中的时间是非常有限的",
+    "music": 0.0
+  },
+  {
+    "from": 22.46,
+    "to": 24.02,
+    "sid": 14,
+    "location": 2,
+    "content": "哪怕是顶尖的运动员",
+    "music": 0.0
+  },
+  {
+    "from": 24.02,
+    "to": 24.99,
+    "sid": 15,
+    "location": 2,
+    "content": "音乐家",
+    "music": 0.0
+  },
+  {
+    "from": 24.99,
+    "to": 26.07,
+    "sid": 16,
+    "location": 2,
+    "content": "还有科学家",
+    "music": 0.0
+  },
+  {
+    "from": 26.07,
+    "to": 29.88,
+    "sid": 17,
+    "location": 2,
+    "content": "他们一天专注的时间平均也只有四个小时左右",
+    "music": 0.0
+  },
+  {
+    "from": 29.88,
+    "to": 32.22,
+    "sid": 18,
+    "location": 2,
+    "content": "所以我每天高度专注的时间",
+    "music": 0.0
+  },
+  {
+    "from": 32.22,
+    "to": 36.12,
+    "sid": 19,
+    "location": 2,
+    "content": "不算那些吃饭上厕所跑步运动的时间啊",
+    "music": 0.0
+  },
+  {
+    "from": 36.12,
+    "to": 38.92,
+    "sid": 20,
+    "location": 2,
+    "content": "高度专注的时间是4~6个小时",
+    "music": 0.0
+  },
+  {
+    "from": 38.92,
+    "to": 42.42,
+    "sid": 21,
+    "location": 2,
+    "content": "你只要把每天的有限的脑力用在刀刃上",
+    "music": 0.0
+  },
+  {
+    "from": 42.42,
+    "to": 43.4,
+    "sid": 22,
+    "location": 2,
+    "content": "集中精力",
+    "music": 0.0
+  },
+  {
+    "from": 43.4,
+    "to": 46.64,
+    "sid": 23,
+    "location": 2,
+    "content": "像一个激光一样专注做你要做好的事情",
+    "music": 0.0
+  },
+  {
+    "from": 46.64,
+    "to": 48.98,
+    "sid": 24,
+    "location": 2,
+    "content": "你一定会做出一些成果来的",
+    "music": 0.0
+  },
+  {
+    "from": 48.98,
+    "to": 50.42,
+    "sid": 25,
+    "location": 2,
+    "content": "在这个信息大爆炸",
+    "music": 0.0
+  },
+  {
+    "from": 50.42,
+    "to": 52.26,
+    "sid": 26,
+    "location": 2,
+    "content": "注意力被高度掠夺的时代",
+    "music": 0.0
+  },
+  {
+    "from": 52.26,
+    "to": 54.7,
+    "sid": 27,
+    "location": 2,
+    "content": "如果你很难专注做一件事情",
+    "music": 0.0
+  },
+  {
+    "from": 54.7,
+    "to": 55.62,
+    "sid": 28,
+    "location": 2,
+    "content": "沉下心来",
+    "music": 0.0
+  },
+  {
+    "from": 55.62,
+    "to": 58.25,
+    "sid": 29,
+    "location": 2,
+    "content": "那么这个视频可以帮到你",
+    "music": 0.0
+  },
+  {
+    "from": 60.18,
+    "to": 62.58,
+    "sid": 30,
+    "location": 2,
+    "content": "在我们进入到四个具体的方法之前呢",
+    "music": 0.0
+  },
+  {
+    "from": 62.58,
+    "to": 65.58,
+    "sid": 31,
+    "location": 2,
+    "content": "首先我们要明确一个很重要的前提大原则",
+    "music": 0.0
+  },
+  {
+    "from": 65.58,
+    "to": 68.06,
+    "sid": 32,
+    "location": 2,
+    "content": "自律的人不可能靠的是意志力",
+    "music": 0.0
+  },
+  {
+    "from": 68.06,
+    "to": 70.1,
+    "sid": 33,
+    "location": 2,
+    "content": "因为意志力是很容易被消耗掉的",
+    "music": 0.0
+  },
+  {
+    "from": 70.1,
+    "to": 71.56,
+    "sid": 34,
+    "location": 2,
+    "content": "每天也都是不稳定的",
+    "music": 0.0
+  },
+  {
+    "from": 71.56,
+    "to": 76.34,
+    "sid": 35,
+    "location": 2,
+    "content": "而是要靠长期的自然而然水到渠成的习惯系统",
+    "music": 0.0
+  },
+  {
+    "from": 76.34,
+    "to": 77.32,
+    "sid": 36,
+    "location": 2,
+    "content": "真正自律的人",
+    "music": 0.0
+  },
+  {
+    "from": 77.32,
+    "to": 78.8,
+    "sid": 37,
+    "location": 2,
+    "content": "他不会去压抑自己",
+    "music": 0.0
+  },
+  {
+    "from": 78.8,
+    "to": 79.48,
+    "sid": 38,
+    "location": 2,
+    "content": "克制自己",
+    "music": 0.0
+  },
+  {
+    "from": 79.48,
+    "to": 81.44,
+    "sid": 39,
+    "location": 2,
+    "content": "每天跟坏习惯做搏斗",
+    "music": 0.0
+  },
+  {
+    "from": 81.44,
+    "to": 84.72,
+    "sid": 40,
+    "location": 2,
+    "content": "真正的自律从源头上就不会让这个坏习惯发生",
+    "music": 0.0
+  },
+  {
+    "from": 84.72,
+    "to": 87.77,
+    "sid": 41,
+    "location": 2,
+    "content": "因为他的环境都有助于他的好习惯",
+    "music": 0.0
+  },
+  {
+    "from": 87.77,
+    "to": 90.69,
+    "sid": 42,
+    "location": 2,
+    "content": "正因为人每天的大脑精力是有限的",
+    "music": 0.0
+  },
+  {
+    "from": 90.69,
+    "to": 93.66,
+    "sid": 43,
+    "location": 2,
+    "content": "我们更要把有限的资源用到极致",
+    "music": 0.0
+  },
+  {
+    "from": 93.66,
+    "to": 95.24,
+    "sid": 44,
+    "location": 2,
+    "content": "去创造友好的环境",
+    "music": 0.0
+  },
+  {
+    "from": 95.24,
+    "to": 97.98,
+    "sid": 45,
+    "location": 2,
+    "content": "排除减少不必要的干扰",
+    "music": 0.0
+  },
+  {
+    "from": 97.98,
+    "to": 101.41,
+    "sid": 46,
+    "location": 2,
+    "content": "方法一在专注的时候直接人间蒸发",
+    "music": 0.0
+  },
+  {
+    "from": 101.41,
+    "to": 103.95,
+    "sid": 47,
+    "location": 2,
+    "content": "现在人做什么事情都是手机不离手",
+    "music": 0.0
+  },
+  {
+    "from": 103.95,
+    "to": 107.07,
+    "sid": 48,
+    "location": 2,
+    "content": "但是呢当你要做专注的任务的时候",
+    "music": 0.0
+  },
+  {
+    "from": 107.07,
+    "to": 109.5,
+    "sid": 49,
+    "location": 2,
+    "content": "尽量把手机放的远一点",
+    "music": 0.0
+  },
+  {
+    "from": 109.5,
+    "to": 110.8,
+    "sid": 50,
+    "location": 2,
+    "content": "我在深度阅读",
+    "music": 0.0
+  },
+  {
+    "from": 110.8,
+    "to": 112.12,
+    "sid": 51,
+    "location": 2,
+    "content": "或者我在写文章",
+    "music": 0.0
+  },
+  {
+    "from": 112.12,
+    "to": 112.98,
+    "sid": 52,
+    "location": 2,
+    "content": "写书的时候",
+    "music": 0.0
+  },
+  {
+    "from": 112.98,
+    "to": 115.04,
+    "sid": 53,
+    "location": 2,
+    "content": "我会把手机放到隔壁房间",
+    "music": 0.0
+  },
+  {
+    "from": 115.04,
+    "to": 116.68,
+    "sid": 54,
+    "location": 2,
+    "content": "或者说放的离我远一点",
+    "music": 0.0
+  },
+  {
+    "from": 116.68,
+    "to": 118.22,
+    "sid": 55,
+    "location": 2,
+    "content": "开启飞行模式",
+    "music": 0.0
+  },
+  {
+    "from": 118.22,
+    "to": 119.48,
+    "sid": 56,
+    "location": 2,
+    "content": "就是这样的一个状态",
+    "music": 0.0
+  },
+  {
+    "from": 119.48,
+    "to": 121.22,
+    "sid": 57,
+    "location": 2,
+    "content": "哪怕短短的一两个小时",
+    "music": 0.0
+  },
+  {
+    "from": 121.22,
+    "to": 122.84,
+    "sid": 58,
+    "location": 2,
+    "content": "也可以让你排除掉干扰",
+    "music": 0.0
+  },
+  {
+    "from": 122.84,
+    "to": 124.82,
+    "sid": 59,
+    "location": 2,
+    "content": "专心的把手头的事情先完成",
+    "music": 0.0
+  },
+  {
+    "from": 124.82,
+    "to": 126.64,
+    "sid": 60,
+    "location": 2,
+    "content": "Everybody wants a radical improvement",
+    "music": 0.0
+  },
+  {
+    "from": 126.64,
+    "to": 127.81,
+    "sid": 61,
+    "location": 2,
+    "content": "One rapid success",
+    "music": 0.0
+  },
+  {
+    "from": 127.81,
+    "to": 129.77,
+    "sid": 62,
+    "location": 2,
+    "content": "But we failed to realize that small",
+    "music": 0.0
+  },
+  {
+    "from": 129.77,
+    "to": 131.97,
+    "sid": 63,
+    "location": 2,
+    "content": "Habits and little choices are transforming us",
+    "music": 0.0
+  },
+  {
+    "from": 131.97,
+    "to": 132.82,
+    "sid": 64,
+    "location": 2,
+    "content": "Every day already",
+    "music": 0.0
+  },
+  {
+    "from": 132.82,
+    "to": 134.58,
+    "sid": 65,
+    "location": 2,
+    "content": "我个人非常赞同原子习惯",
+    "music": 0.0
+  },
+  {
+    "from": 134.58,
+    "to": 136.5,
+    "sid": 66,
+    "location": 2,
+    "content": "这本书里提到的一个原则就是",
+    "music": 0.0
+  },
+  {
+    "from": 136.5,
+    "to": 138.2,
+    "sid": 67,
+    "location": 2,
+    "content": "给坏习惯增加阻力",
+    "music": 0.0
+  },
+  {
+    "from": 138.2,
+    "to": 140.54,
+    "sid": 68,
+    "location": 2,
+    "content": "让好的习惯变得更加容易",
+    "music": 0.0
+  },
+  {
+    "from": 140.54,
+    "to": 142.74,
+    "sid": 69,
+    "location": 2,
+    "content": "所以你要在你和这个手机",
+    "music": 0.0
+  },
+  {
+    "from": 142.74,
+    "to": 144.54,
+    "sid": 70,
+    "location": 2,
+    "content": "或者其他的信息干扰源之间",
+    "music": 0.0
+  },
+  {
+    "from": 144.54,
+    "to": 147.2,
+    "sid": 71,
+    "location": 2,
+    "content": "创造一个friction摩擦力",
+    "music": 0.0
+  },
+  {
+    "from": 147.2,
+    "to": 148.32,
+    "sid": 72,
+    "location": 2,
+    "content": "那有的朋友会问",
+    "music": 0.0
+  },
+  {
+    "from": 148.32,
+    "to": 150.08,
+    "sid": 73,
+    "location": 2,
+    "content": "那我这些消息应该怎么办呢",
+    "music": 0.0
+  },
+  {
+    "from": 150.08,
+    "to": 151.52,
+    "sid": 74,
+    "location": 2,
+    "content": "我什么时候去回复呢",
+    "music": 0.0
+  },
+  {
+    "from": 151.52,
+    "to": 153.58,
+    "sid": 75,
+    "location": 2,
+    "content": "你可以选一个集中的时间段",
+    "music": 0.0
+  },
+  {
+    "from": 153.58,
+    "to": 156.34,
+    "sid": 76,
+    "location": 2,
+    "content": "在你专注完成之后的某一个时间段",
+    "music": 0.0
+  },
+  {
+    "from": 156.34,
+    "to": 159.14,
+    "sid": 77,
+    "location": 2,
+    "content": "统一去把这些邮件微信给回复了",
+    "music": 0.0
+  },
+  {
+    "from": 159.14,
+    "to": 159.86,
+    "sid": 78,
+    "location": 2,
+    "content": "方法二",
+    "music": 0.0
+  },
+  {
+    "from": 159.86,
+    "to": 163.68,
+    "sid": 79,
+    "location": 2,
+    "content": "在醒来之后的两个小时内完成最有挑战的任务",
+    "music": 0.0
+  },
+  {
+    "from": 163.68,
+    "to": 165.76,
+    "sid": 80,
+    "location": 2,
+    "content": "人一天当中什么时候最清醒呢",
+    "music": 0.0
+  },
+  {
+    "from": 165.76,
+    "to": 167.52,
+    "sid": 81,
+    "location": 2,
+    "content": "就是你醒来之后的两个小时",
+    "music": 0.0
+  },
+  {
+    "from": 167.52,
+    "to": 170.82,
+    "sid": 82,
+    "location": 2,
+    "content": "当然前提就是你前一天晚上睡得挺好的",
+    "music": 0.0
+  },
+  {
+    "from": 170.82,
+    "to": 173.88,
+    "sid": 83,
+    "location": 2,
+    "content": "而且你没有太多的熬夜睡眠债务",
+    "music": 0.0
+  },
+  {
+    "from": 173.88,
+    "to": 175.48,
+    "sid": 84,
+    "location": 2,
+    "content": "大脑睡饱了以后",
+    "music": 0.0
+  },
+  {
+    "from": 175.48,
+    "to": 179.08,
+    "sid": 85,
+    "location": 2,
+    "content": "你醒来后的两个小时是非常高度清醒的",
+    "music": 0.0
+  },
+  {
+    "from": 179.08,
+    "to": 181.26,
+    "sid": 86,
+    "location": 2,
+    "content": "有激光一样的注意力",
+    "music": 0.0
+  },
+  {
+    "from": 181.26,
+    "to": 182.64,
+    "sid": 87,
+    "location": 2,
+    "content": "那你吃完早饭之后",
+    "music": 0.0
+  },
+  {
+    "from": 182.64,
+    "to": 183.66,
+    "sid": 88,
+    "location": 2,
+    "content": "身体有的能量",
+    "music": 0.0
+  },
+  {
+    "from": 183.66,
+    "to": 186.46,
+    "sid": 89,
+    "location": 2,
+    "content": "你就可以开始做那些最具挑战",
+    "music": 0.0
+  },
+  {
+    "from": 186.46,
+    "to": 187.84,
+    "sid": 90,
+    "location": 2,
+    "content": "最消耗脑力",
+    "music": 0.0
+  },
+  {
+    "from": 187.84,
+    "to": 189.54,
+    "sid": 91,
+    "location": 2,
+    "content": "最重要的事物",
+    "music": 0.0
+  },
+  {
+    "from": 189.54,
+    "to": 191.06,
+    "sid": 92,
+    "location": 2,
+    "content": "大家有没有听说过一个概念",
+    "music": 0.0
+  },
+  {
+    "from": 191.06,
+    "to": 192.54,
+    "sid": 93,
+    "location": 2,
+    "content": "叫做decision fatigue",
+    "music": 0.0
+  },
+  {
+    "from": 192.54,
+    "to": 193.58,
+    "sid": 94,
+    "location": 2,
+    "content": "决策疲劳",
+    "music": 0.0
+  },
+  {
+    "from": 193.58,
+    "to": 196.22,
+    "sid": 95,
+    "location": 2,
+    "content": "也就是人一天的脑力资源是有限的",
+    "music": 0.0
+  },
+  {
+    "from": 196.22,
+    "to": 199.72,
+    "sid": 96,
+    "location": 2,
+    "content": "你所能做的高质量的决策也是有限的",
+    "music": 0.0
+  },
+  {
+    "from": 199.72,
+    "to": 200.56,
+    "sid": 97,
+    "location": 2,
+    "content": "而早上起来",
+    "music": 0.0
+  },
+  {
+    "from": 200.56,
+    "to": 202.18,
+    "sid": 98,
+    "location": 2,
+    "content": "如果你把这些胡乱的",
+    "music": 0.0
+  },
+  {
+    "from": 202.18,
+    "to": 204.24,
+    "sid": 99,
+    "location": 2,
+    "content": "杂乱的消息都处理一遍的话",
+    "music": 0.0
+  },
+  {
+    "from": 204.24,
+    "to": 206.82,
+    "sid": 100,
+    "location": 2,
+    "content": "你的大脑的决策资源就已经用光了",
+    "music": 0.0
+  },
+  {
+    "from": 206.82,
+    "to": 209.8,
+    "sid": 101,
+    "location": 2,
+    "content": "所以你到下午五到晚上的时候就会开始摆烂",
+    "music": 0.0
+  },
+  {
+    "from": 209.8,
+    "to": 213.46,
+    "sid": 102,
+    "location": 2,
+    "content": "开始暴饮暴食或者控制不住自己去刷手机",
+    "music": 0.0
+  },
+  {
+    "from": 213.46,
+    "to": 215.96,
+    "sid": 103,
+    "location": 2,
+    "content": "因为你的意志力资源已经用完了",
+    "music": 0.0
+  },
+  {
+    "from": 215.96,
+    "to": 218.66,
+    "sid": 104,
+    "location": 2,
+    "content": "所以尽可能在早上意志力最强的时候",
+    "music": 0.0
+  },
+  {
+    "from": 218.66,
+    "to": 221.16,
+    "sid": 105,
+    "location": 2,
+    "content": "先把那些最重要最精华",
+    "music": 0.0
+  },
+  {
+    "from": 221.16,
+    "to": 223.26,
+    "sid": 106,
+    "location": 2,
+    "content": "最有挑战性的任务完成了",
+    "music": 0.0
+  },
+  {
+    "from": 223.26,
+    "to": 224.4,
+    "sid": 107,
+    "location": 2,
+    "content": "第三个方法",
+    "music": 0.0
+  },
+  {
+    "from": 224.4,
+    "to": 226.11,
+    "sid": 108,
+    "location": 2,
+    "content": "创造心流状态",
+    "music": 0.0
+  },
+  {
+    "from": 226.11,
+    "to": 227.87,
+    "sid": 109,
+    "location": 2,
+    "content": "在上世纪70年代的时候",
+    "music": 0.0
+  },
+  {
+    "from": 227.87,
+    "to": 231.459,
+    "sid": 110,
+    "location": 2,
+    "content": "匈牙利的一位学者提出来了心流状态这个概念",
+    "music": 0.0
+  },
+  {
+    "from": 231.459,
+    "to": 232.859,
+    "sid": 111,
+    "location": 2,
+    "content": "什么是心流呢",
+    "music": 0.0
+  },
+  {
+    "from": 232.859,
+    "to": 236.079,
+    "sid": 112,
+    "location": 2,
+    "content": "就是当你在做一件事情做到极致的时候",
+    "music": 0.0
+  },
+  {
+    "from": 236.079,
+    "to": 237.82,
+    "sid": 113,
+    "location": 2,
+    "content": "你闻全的投入",
+    "music": 0.0
+  },
+  {
+    "from": 237.82,
+    "to": 239.76,
+    "sid": 114,
+    "location": 2,
+    "content": "全身心地享受这个过程",
+    "music": 0.0
+  },
+  {
+    "from": 239.76,
+    "to": 241.28,
+    "sid": 115,
+    "location": 2,
+    "content": "精神能量极高",
+    "music": 0.0
+  },
+  {
+    "from": 241.28,
+    "to": 243.12,
+    "sid": 116,
+    "location": 2,
+    "content": "而且这件事情有一定的挑战",
+    "music": 0.0
+  },
+  {
+    "from": 243.12,
+    "to": 244.68,
+    "sid": 117,
+    "location": 2,
+    "content": "你又很有成就感",
+    "music": 0.0
+  },
+  {
+    "from": 244.68,
+    "to": 246.43,
+    "sid": 118,
+    "location": 2,
+    "content": "这就是心流状态",
+    "music": 0.0
+  },
+  {
+    "from": 246.43,
+    "to": 249.11,
+    "sid": 119,
+    "location": 2,
+    "content": "心流状态的一个重要的前提是什么",
+    "music": 0.0
+  },
+  {
+    "from": 249.11,
+    "to": 251.67,
+    "sid": 120,
+    "location": 2,
+    "content": "首先这些事情对你来说是有意义的",
+    "music": 0.0
+  },
+  {
+    "from": 251.67,
+    "to": 252.82,
+    "sid": 121,
+    "location": 2,
+    "content": "有目标感的",
+    "music": 0.0
+  },
+  {
+    "from": 252.82,
+    "to": 255.34,
+    "sid": 122,
+    "location": 2,
+    "content": "另外呢这件事情有一定的挑战性",
+    "music": 0.0
+  },
+  {
+    "from": 255.34,
+    "to": 256.86,
+    "sid": 123,
+    "location": 2,
+    "content": "它不能太难太难",
+    "music": 0.0
+  },
+  {
+    "from": 256.86,
+    "to": 258.519,
+    "sid": 124,
+    "location": 2,
+    "content": "会让你感到很挫败",
+    "music": 0.0
+  },
+  {
+    "from": 258.519,
+    "to": 259.919,
+    "sid": 125,
+    "location": 2,
+    "content": "它也不能太简单",
+    "music": 0.0
+  },
+  {
+    "from": 259.919,
+    "to": 261.639,
+    "sid": 126,
+    "location": 2,
+    "content": "会让你感到很无聊",
+    "music": 0.0
+  },
+  {
+    "from": 261.639,
+    "to": 264.32,
+    "sid": 127,
+    "location": 2,
+    "content": "所以它的难度就是在你现有的难度上",
+    "music": 0.0
+  },
+  {
+    "from": 264.32,
+    "to": 266.12,
+    "sid": 128,
+    "location": 2,
+    "content": "稍微高那么一点点",
+    "music": 0.0
+  },
+  {
+    "from": 266.12,
+    "to": 268.8,
+    "sid": 129,
+    "location": 2,
+    "content": "这样你就很容易接受这个挑战",
+    "music": 0.0
+  },
+  {
+    "from": 268.8,
+    "to": 271.07,
+    "sid": 130,
+    "location": 2,
+    "content": "进入到全神贯注的状态",
+    "music": 0.0
+  },
+  {
+    "from": 271.07,
+    "to": 273.63,
+    "sid": 131,
+    "location": 2,
+    "content": "第四个方法就是尊重你的大脑",
+    "music": 0.0
+  },
+  {
+    "from": 273.63,
+    "to": 274.45,
+    "sid": 132,
+    "location": 2,
+    "content": "昼夜节律",
+    "music": 0.0
+  },
+  {
+    "from": 274.45,
+    "to": 275.41,
+    "sid": 133,
+    "location": 2,
+    "content": "及时休息",
+    "music": 0.0
+  },
+  {
+    "from": 275.41,
+    "to": 278.11,
+    "sid": 134,
+    "location": 2,
+    "content": "人的大脑不管是醒着的时候还是睡着的时候",
+    "music": 0.0
+  },
+  {
+    "from": 278.11,
+    "to": 279.8,
+    "sid": 135,
+    "location": 2,
+    "content": "都有一个昼夜节律",
+    "music": 0.0
+  },
+  {
+    "from": 279.8,
+    "to": 283.38,
+    "sid": 136,
+    "location": 2,
+    "content": "我们在睡眠过程当中会有深睡眠1.5小时",
+    "music": 0.0
+  },
+  {
+    "from": 283.38,
+    "to": 284.64,
+    "sid": 137,
+    "location": 2,
+    "content": "然后休息一小会儿",
+    "music": 0.0
+  },
+  {
+    "from": 284.64,
+    "to": 285.26,
+    "sid": 138,
+    "location": 2,
+    "content": "浅睡眠",
+    "music": 0.0
+  },
+  {
+    "from": 285.26,
+    "to": 286.82,
+    "sid": 139,
+    "location": 2,
+    "content": "在进入深睡眠的状态",
+    "music": 0.0
+  },
+  {
+    "from": 286.82,
+    "to": 288.0,
+    "sid": 140,
+    "location": 2,
+    "content": "我们醒着的时候",
+    "music": 0.0
+  },
+  {
+    "from": 288.0,
+    "to": 290.0,
+    "sid": 141,
+    "location": 2,
+    "content": "注意力也有类似的周期",
+    "music": 0.0
+  },
+  {
+    "from": 290.0,
+    "to": 292.74,
+    "sid": 142,
+    "location": 2,
+    "content": "就是我们会高度专注1.5个小时左右",
+    "music": 0.0
+  },
+  {
+    "from": 292.74,
+    "to": 294.88,
+    "sid": 143,
+    "location": 2,
+    "content": "然后你的注意力开始涣散一小会儿",
+    "music": 0.0
+  },
+  {
+    "from": 294.88,
+    "to": 297.52,
+    "sid": 144,
+    "location": 2,
+    "content": "然后又进用1.5小时的高度专注",
+    "music": 0.0
+  },
+  {
+    "from": 297.52,
+    "to": 300.26,
+    "sid": 145,
+    "location": 2,
+    "content": "这是人的大脑的客观规律",
+    "music": 0.0
+  },
+  {
+    "from": 300.26,
+    "to": 302.38,
+    "sid": 146,
+    "location": 2,
+    "content": "除非是特别特别聪明啊",
+    "music": 0.0
+  },
+  {
+    "from": 302.38,
+    "to": 303.46,
+    "sid": 147,
+    "location": 2,
+    "content": "脑力特别强的人",
+    "music": 0.0
+  },
+  {
+    "from": 303.46,
+    "to": 305.62,
+    "sid": 148,
+    "location": 2,
+    "content": "能够一次性集中1.5个小时",
+    "music": 0.0
+  },
+  {
+    "from": 305.62,
+    "to": 307.78,
+    "sid": 149,
+    "location": 2,
+    "content": "但是大多数人其实在40分钟",
+    "music": 0.0
+  },
+  {
+    "from": 307.78,
+    "to": 308.58,
+    "sid": 150,
+    "location": 2,
+    "content": "30分钟左右",
+    "music": 0.0
+  },
+  {
+    "from": 308.58,
+    "to": 311.74,
+    "sid": 151,
+    "location": 2,
+    "content": "就会进入到一个注意力急速下滑的阶段",
+    "music": 0.0
+  },
+  {
+    "from": 311.74,
+    "to": 315.13,
+    "sid": 152,
+    "location": 2,
+    "content": "所以你要在下滑之前赶紧去休息",
+    "music": 0.0
+  },
+  {
+    "from": 315.13,
+    "to": 317.33,
+    "sid": 153,
+    "location": 2,
+    "content": "所以一般来说我会给自己掐个表",
+    "music": 0.0
+  },
+  {
+    "from": 317.33,
+    "to": 319.8,
+    "sid": 154,
+    "location": 2,
+    "content": "半个小时之后去休息5分钟",
+    "music": 0.0
+  },
+  {
+    "from": 319.8,
+    "to": 320.66,
+    "sid": 155,
+    "location": 2,
+    "content": "去喝点水",
+    "music": 0.0
+  },
+  {
+    "from": 320.66,
+    "to": 321.84,
+    "sid": 156,
+    "location": 2,
+    "content": "去活动活动身体",
+    "music": 0.0
+  },
+  {
+    "from": 321.84,
+    "to": 322.74,
+    "sid": 157,
+    "location": 2,
+    "content": "上个厕所",
+    "music": 0.0
+  },
+  {
+    "from": 322.74,
+    "to": 323.6,
+    "sid": 158,
+    "location": 2,
+    "content": "及时的休息",
+    "music": 0.0
+  },
+  {
+    "from": 323.6,
+    "to": 326.48,
+    "sid": 159,
+    "location": 2,
+    "content": "可以让你的注意力快速的回到巅峰水准啊",
+    "music": 0.0
+  },
+  {
+    "from": 326.48,
+    "to": 328.04,
+    "sid": 160,
+    "location": 2,
+    "content": "如果你一直坐在那里",
+    "music": 0.0
+  },
+  {
+    "from": 328.04,
+    "to": 328.76,
+    "sid": 161,
+    "location": 2,
+    "content": "三四个小时",
+    "music": 0.0
+  },
+  {
+    "from": 328.76,
+    "to": 330.18,
+    "sid": 162,
+    "location": 2,
+    "content": "五六个小时都不动的话",
+    "music": 0.0
+  },
+  {
+    "from": 330.18,
+    "to": 333.26,
+    "sid": 163,
+    "location": 2,
+    "content": "你的注意力一旦跌入谷底就爬不起来了",
+    "music": 0.0
+  },
+  {
+    "from": 333.26,
+    "to": 334.82,
+    "sid": 164,
+    "location": 2,
+    "content": "抓住你的注意力规律",
+    "music": 0.0
+  },
+  {
+    "from": 334.82,
+    "to": 335.92,
+    "sid": 165,
+    "location": 2,
+    "content": "就像冲浪一样",
+    "music": 0.0
+  },
+  {
+    "from": 335.92,
+    "to": 337.38,
+    "sid": 166,
+    "location": 2,
+    "content": "当浪来的时候",
+    "music": 0.0
+  },
+  {
+    "from": 337.38,
+    "to": 339.34,
+    "sid": 167,
+    "location": 2,
+    "content": "你就站在这个浪尖之上",
+    "music": 0.0
+  },
+  {
+    "from": 339.34,
+    "to": 340.14,
+    "sid": 168,
+    "location": 2,
+    "content": "等它落下",
+    "music": 0.0
+  },
+  {
+    "from": 340.14,
+    "to": 341.14,
+    "sid": 169,
+    "location": 2,
+    "content": "你就去休息",
+    "music": 0.0
+  },
+  {
+    "from": 341.14,
+    "to": 342.12,
+    "sid": 170,
+    "location": 2,
+    "content": "第五个方法",
+    "music": 0.0
+  },
+  {
+    "from": 342.12,
+    "to": 343.98,
+    "sid": 171,
+    "location": 2,
+    "content": "一次只做一件任务",
+    "music": 0.0
+  },
+  {
+    "from": 343.98,
+    "to": 345.78,
+    "sid": 172,
+    "location": 2,
+    "content": "大脑就像限速的宽带",
+    "music": 0.0
+  },
+  {
+    "from": 345.78,
+    "to": 348.7,
+    "sid": 173,
+    "location": 2,
+    "content": "你一次只能在脑袋当中想着三件事情",
+    "music": 0.0
+  },
+  {
+    "from": 348.7,
+    "to": 350.58,
+    "sid": 174,
+    "location": 2,
+    "content": "你不能够把任务排的满满的",
+    "music": 0.0
+  },
+  {
+    "from": 350.58,
+    "to": 351.74,
+    "sid": 175,
+    "location": 2,
+    "content": "不停的反复切换",
+    "music": 0.0
+  },
+  {
+    "from": 351.74,
+    "to": 353.83,
+    "sid": 176,
+    "location": 2,
+    "content": "因为他会带回来switching costs",
+    "music": 0.0
+  },
+  {
+    "from": 353.83,
+    "to": 356.05,
+    "sid": 177,
+    "location": 2,
+    "content": "也就是切换成本人的大脑",
+    "music": 0.0
+  },
+  {
+    "from": 356.05,
+    "to": 357.01,
+    "sid": 178,
+    "location": 2,
+    "content": "一旦切换的话",
+    "music": 0.0
+  },
+  {
+    "from": 357.01,
+    "to": 358.71,
+    "sid": 179,
+    "location": 2,
+    "content": "它会消耗更多的能量",
+    "music": 0.0
+  },
+  {
+    "from": 358.71,
+    "to": 360.94,
+    "sid": 180,
+    "location": 2,
+    "content": "认知资源同时做很多事情",
+    "music": 0.0
+  },
+  {
+    "from": 360.94,
+    "to": 362.64,
+    "sid": 181,
+    "location": 2,
+    "content": "最后全部都做成了烂摊子",
+    "music": 0.0
+  },
+  {
+    "from": 362.64,
+    "to": 364.5,
+    "sid": 182,
+    "location": 2,
+    "content": "还不如一件一件事情",
+    "music": 0.0
+  },
+  {
+    "from": 364.5,
+    "to": 367.58,
+    "sid": 183,
+    "location": 2,
+    "content": "一个一个完成来的效果和准确率更高",
+    "music": 0.0
+  },
+  {
+    "from": 367.58,
+    "to": 370.02,
+    "sid": 184,
+    "location": 2,
+    "content": "如果你很想同时做多件事情",
+    "music": 0.0
+  },
+  {
+    "from": 370.02,
+    "to": 371.52,
+    "sid": 185,
+    "location": 2,
+    "content": "你一定要调整自己的心态",
+    "music": 0.0
+  },
+  {
+    "from": 371.52,
+    "to": 372.44,
+    "sid": 186,
+    "location": 2,
+    "content": "告诉自己",
+    "music": 0.0
+  },
+  {
+    "from": 372.44,
+    "to": 374.16,
+    "sid": 187,
+    "location": 2,
+    "content": "You will not anything",
+    "music": 0.0
+  },
+  {
+    "from": 374.16,
+    "to": 375.82,
+    "sid": 188,
+    "location": 2,
+    "content": "你不会错过任何事情",
+    "music": 0.0
+  },
+  {
+    "from": 375.82,
+    "to": 377.82,
+    "sid": 189,
+    "location": 2,
+    "content": "当你专注在某个任务的时候",
+    "music": 0.0
+  },
+  {
+    "from": 377.82,
+    "to": 380.06,
+    "sid": 190,
+    "location": 2,
+    "content": "不用担心世界正在发生什么",
+    "music": 0.0
+  },
+  {
+    "from": 380.06,
+    "to": 381.38,
+    "sid": 191,
+    "location": 2,
+    "content": "不差那么几分钟",
+    "music": 0.0
+  },
+  {
+    "from": 381.38,
+    "to": 383.86,
+    "sid": 192,
+    "location": 2,
+    "content": "所以一件一件一件的完成",
+    "music": 0.0
+  },
+  {
+    "from": 383.86,
+    "to": 385.86,
+    "sid": 193,
+    "location": 2,
+    "content": "最后都能做完的",
+    "music": 0.0
+  },
+  {
+    "from": 385.86,
+    "to": 387.14,
+    "sid": 194,
+    "location": 2,
+    "content": "综上所述呢",
+    "music": 0.0
+  },
+  {
+    "from": 387.14,
+    "to": 388.86,
+    "sid": 195,
+    "location": 2,
+    "content": "咱们要尊重自己的生理规律",
+    "music": 0.0
+  },
+  {
+    "from": 388.86,
+    "to": 390.06,
+    "sid": 196,
+    "location": 2,
+    "content": "咱们也不要贪多",
+    "music": 0.0
+  },
+  {
+    "from": 390.06,
+    "to": 393.04,
+    "sid": 197,
+    "location": 2,
+    "content": "咱们一天的目标就是4~6个小时的专注",
+    "music": 0.0
+  },
+  {
+    "from": 393.04,
+    "to": 395.54,
+    "sid": 198,
+    "location": 2,
+    "content": "把有限的脑力资源用到极致",
+    "music": 0.0
+  },
+  {
+    "from": 395.54,
+    "to": 396.98,
+    "sid": 199,
+    "location": 2,
+    "content": "你就会产生成果",
+    "music": 0.0
+  },
+  {
+    "from": 396.98,
+    "to": 399.32,
+    "sid": 200,
+    "location": 2,
+    "content": "而你把注意力放在哪些领域",
+    "music": 0.0
+  },
+  {
+    "from": 399.32,
+    "to": 402.82,
+    "sid": 201,
+    "location": 2,
+    "content": "你就会在哪些领域得到极大的正反馈",
+    "music": 0.0
+  },
+  {
+    "from": 405.14,
+    "to": 406.8,
+    "sid": 202,
+    "location": 2,
+    "content": "最后呢我也想补充一点",
+    "music": 0.0
+  },
+  {
+    "from": 406.8,
+    "to": 409.4,
+    "sid": 203,
+    "location": 2,
+    "content": "咱们要在注意力和分心之间找到平衡",
+    "music": 0.0
+  },
+  {
+    "from": 409.4,
+    "to": 412.2,
+    "sid": 204,
+    "location": 2,
+    "content": "咱们现代的工业化社会的价值观",
+    "music": 0.0
+  },
+  {
+    "from": 412.2,
+    "to": 415.16,
+    "sid": 205,
+    "location": 2,
+    "content": "就是高度奖励那些能够长时间专注",
+    "music": 0.0
+  },
+  {
+    "from": 415.16,
+    "to": 418.48,
+    "sid": 206,
+    "location": 2,
+    "content": "向工厂工程师或者科学家一样",
+    "music": 0.0
+  },
+  {
+    "from": 418.48,
+    "to": 421.0,
+    "sid": 207,
+    "location": 2,
+    "content": "长时间专注的这样的能力和状态",
+    "music": 0.0
+  },
+  {
+    "from": 421.0,
+    "to": 424.18,
+    "sid": 208,
+    "location": 2,
+    "content": "但实际上呢我们也需要一定程度的分心",
+    "music": 0.0
+  },
+  {
+    "from": 424.18,
+    "to": 426.93,
+    "sid": 209,
+    "location": 2,
+    "content": "分心是一种在世界当中探索",
+    "music": 0.0
+  },
+  {
+    "from": 426.93,
+    "to": 428.55,
+    "sid": 210,
+    "location": 2,
+    "content": "寻找新的资源的方式",
+    "music": 0.0
+  },
+  {
+    "from": 428.55,
+    "to": 429.65,
+    "sid": 211,
+    "location": 2,
+    "content": "而高度集中的是",
+    "music": 0.0
+  },
+  {
+    "from": 429.65,
+    "to": 432.76,
+    "sid": 212,
+    "location": 2,
+    "content": "你把手头的事情打磨做到极致的方式",
+    "music": 0.0
+  },
+  {
+    "from": 432.76,
+    "to": 434.18,
+    "sid": 213,
+    "location": 2,
+    "content": "两者我们都要有",
+    "music": 0.0
+  },
+  {
+    "from": 434.18,
+    "to": 437.39,
+    "sid": 214,
+    "location": 2,
+    "content": "才会在这个现代的社会当中竞争脱颖而出",
+    "music": 0.0
+  },
+  {
+    "from": 437.39,
+    "to": 439.67,
+    "sid": 215,
+    "location": 2,
+    "content": "我们经常会听到一些高净值人士",
+    "music": 0.0
+  },
+  {
+    "from": 439.67,
+    "to": 441.75,
+    "sid": 216,
+    "location": 2,
+    "content": "比方说扎克伯格或者乔布斯",
+    "music": 0.0
+  },
+  {
+    "from": 441.75,
+    "to": 444.92,
+    "sid": 217,
+    "location": 2,
+    "content": "他说尽量让孩子不接触这些电子设备",
+    "music": 0.0
+  },
+  {
+    "from": 444.92,
+    "to": 445.76,
+    "sid": 218,
+    "location": 2,
+    "content": "这是有道理的",
+    "music": 0.0
+  },
+  {
+    "from": 445.76,
+    "to": 446.88,
+    "sid": 219,
+    "location": 2,
+    "content": "小孩的大脑正在发育",
+    "music": 0.0
+  },
+  {
+    "from": 446.88,
+    "to": 449.16,
+    "sid": 220,
+    "location": 2,
+    "content": "他可能承受不了太高强度的刺激",
+    "music": 0.0
+  },
+  {
+    "from": 449.16,
+    "to": 451.28,
+    "sid": 221,
+    "location": 2,
+    "content": "可能会影响他们的多巴胺奖励系统",
+    "music": 0.0
+  },
+  {
+    "from": 451.28,
+    "to": 452.93,
+    "sid": 222,
+    "location": 2,
+    "content": "但是你有没有想过",
+    "music": 0.0
+  },
+  {
+    "from": 452.93,
+    "to": 455.63,
+    "sid": 223,
+    "location": 2,
+    "content": "其实不同的经济发展阶段的人",
+    "music": 0.0
+  },
+  {
+    "from": 455.63,
+    "to": 458.21,
+    "sid": 224,
+    "location": 2,
+    "content": "采取的信息模式是不一样的",
+    "music": 0.0
+  },
+  {
+    "from": 458.21,
+    "to": 461.15,
+    "sid": 225,
+    "location": 2,
+    "content": "对于已经打下江山的人来说",
+    "music": 0.0
+  },
+  {
+    "from": 461.15,
+    "to": 463.21,
+    "sid": 226,
+    "location": 2,
+    "content": "他已经有大片的土地资源",
+    "music": 0.0
+  },
+  {
+    "from": 463.21,
+    "to": 464.35,
+    "sid": 227,
+    "location": 2,
+    "content": "还有经济资源",
+    "music": 0.0
+  },
+  {
+    "from": 464.35,
+    "to": 467.1,
+    "sid": 228,
+    "location": 2,
+    "content": "他的下一代所做的事情是去守城",
+    "music": 0.0
+  },
+  {
+    "from": 467.1,
+    "to": 469.12,
+    "sid": 229,
+    "location": 2,
+    "content": "不要进行激进的冒险",
+    "music": 0.0
+  },
+  {
+    "from": 469.12,
+    "to": 471.54,
+    "sid": 230,
+    "location": 2,
+    "content": "不要被这些杂乱的噪音扰乱",
+    "music": 0.0
+  },
+  {
+    "from": 471.54,
+    "to": 474.36,
+    "sid": 231,
+    "location": 2,
+    "content": "他们10年20年的战略目标",
+    "music": 0.0
+  },
+  {
+    "from": 474.36,
+    "to": 475.42,
+    "sid": 232,
+    "location": 2,
+    "content": "所以对他们来说",
+    "music": 0.0
+  },
+  {
+    "from": 475.42,
+    "to": 478.22,
+    "sid": 233,
+    "location": 2,
+    "content": "互联网上大多数的消息都是噪音",
+    "music": 0.0
+  },
+  {
+    "from": 478.22,
+    "to": 479.52,
+    "sid": 234,
+    "location": 2,
+    "content": "而且对他们没有帮助",
+    "music": 0.0
+  },
+  {
+    "from": 479.52,
+    "to": 480.82,
+    "sid": 235,
+    "location": 2,
+    "content": "而对于咱们中产",
+    "music": 0.0
+  },
+  {
+    "from": 480.82,
+    "to": 483.48,
+    "sid": 236,
+    "location": 2,
+    "content": "或者说我们非常普通的家庭来说",
+    "music": 0.0
+  },
+  {
+    "from": 483.48,
+    "to": 484.78,
+    "sid": 237,
+    "location": 2,
+    "content": "那你要做的是什么",
+    "music": 0.0
+  },
+  {
+    "from": 484.78,
+    "to": 486.62,
+    "sid": 238,
+    "location": 2,
+    "content": "因为你什么都没有的情况下",
+    "music": 0.0
+  },
+  {
+    "from": 486.62,
+    "to": 489.1,
+    "sid": 239,
+    "location": 2,
+    "content": "你要的是获取更多的优质的信息",
+    "music": 0.0
+  },
+  {
+    "from": 489.1,
+    "to": 492.14,
+    "sid": 240,
+    "location": 2,
+    "content": "去在大量的信息当中筛选出优质的信息",
+    "music": 0.0
+  },
+  {
+    "from": 492.14,
+    "to": 495.18,
+    "sid": 241,
+    "location": 2,
+    "content": "并且用这个信息去创造属于你的资源",
+    "music": 0.0
+  },
+  {
+    "from": 495.18,
+    "to": 498.27,
+    "sid": 242,
+    "location": 2,
+    "content": "专注可以让我们把手头的技能做到极致",
+    "music": 0.0
+  },
+  {
+    "from": 498.27,
+    "to": 499.07,
+    "sid": 243,
+    "location": 2,
+    "content": "但是呢",
+    "music": 0.0
+  },
+  {
+    "from": 499.07,
+    "to": 502.19,
+    "sid": 244,
+    "location": 2,
+    "content": "分心可以一定程度上帮我们寻找新的线索",
+    "music": 0.0
+  },
+  {
+    "from": 502.19,
+    "to": 503.65,
+    "sid": 245,
+    "location": 2,
+    "content": "去找到新的蛋糕",
+    "music": 0.0
+  },
+  {
+    "from": 503.65,
+    "to": 504.39,
+    "sid": 246,
+    "location": 2,
+    "content": "新的猎物",
+    "music": 0.0
+  },
+  {
+    "from": 504.39,
+    "to": 505.87,
+    "sid": 247,
+    "location": 2,
+    "content": "当你什么都没有的时候",
+    "music": 0.0
+  },
+  {
+    "from": 505.87,
+    "to": 507.42,
+    "sid": 248,
+    "location": 2,
+    "content": "你就要耳听四面",
+    "music": 0.0
+  },
+  {
+    "from": 507.42,
+    "to": 508.6,
+    "sid": 249,
+    "location": 2,
+    "content": "眼光八方",
+    "music": 0.0
+  },
+  {
+    "from": 508.6,
+    "to": 510.52,
+    "sid": 250,
+    "location": 2,
+    "content": "你才能够去积累资源",
+    "music": 0.0
+  },
+  {
+    "from": 510.52,
+    "to": 512.34,
+    "sid": 251,
+    "location": 2,
+    "content": "我们要在两者之间找到平衡",
+    "music": 0.0
+  },
+  {
+    "from": 512.34,
+    "to": 514.96,
+    "sid": 252,
+    "location": 2,
+    "content": "既可以沉下心来专注做好一件事情",
+    "music": 0.0
+  },
+  {
+    "from": 514.96,
+    "to": 516.8,
+    "sid": 253,
+    "location": 2,
+    "content": "同时也可以去分心",
+    "music": 0.1807228806793206
+  },
+  {
+    "from": 516.8,
+    "to": 518.3,
+    "sid": 254,
+    "location": 2,
+    "content": "去寻找新的机会",
+    "music": 0.23999998400001016
+  },
+  {
+    "from": 518.3,
+    "to": 519.74,
+    "sid": 255,
+    "location": 2,
+    "content": "赛道好啦",
+    "music": 0.0
+  },
+  {
+    "from": 519.74,
+    "to": 520.66,
+    "sid": 256,
+    "location": 2,
+    "content": "本期视频就到这里",
+    "music": 0.0
+  },
+  {
+    "from": 520.66,
+    "to": 521.58,
+    "sid": 257,
+    "location": 2,
+    "content": "希望对你有帮助哦",
+    "music": 0.0
+  },
+  {
+    "from": 521.58,
+    "to": 522.32,
+    "sid": 258,
+    "location": 2,
+    "content": "我是夏冰雹",
+    "music": 0.0
+  },
+  {
+    "from": 522.32,
+    "to": 523.58,
+    "sid": 259,
+    "location": 2,
+    "content": "咱们下期再见",
+    "music": 0.0
+  }
+]

@@ -1,0 +1,801 @@
+hey guys rid here i've seen a lot of
+videos out there providing individual
+tips for improving their aim
+including some ways to get into aim
+training but i haven't seen a
+comprehensive guide for a beginner
+getting into aim training or somebody
+transitioning to dedicated aim training
+on what the steps are and how to do it
+so that's why i want to make this video
+the idea behind this is sort of like a
+starter pack
+where i'm gonna cover at a high level
+all the components you need to get
+started with aim training
+maybe you recently converted from
+console to pc or like me
+just decided one day to get into
+competitive first person shooters
+because i got a 140
+hertz monitor and i'm like i gotta use
+this thing um and up until now your
+mouse sends is like 16 000 dpi with
+eight cents in game which
+again was me whatever your reasoning is
+my objective
+is for you to get all the information
+you need to get started from this video
+and give you the confidence that this
+information is
+accurate curated and up to date then i'm
+going to provide my sources if you want
+to get into further detail on any
+subject
+[Music]
+so first things first posture and
+ergonomics it's always the first thing
+that people talk about
+and for good reason now i'm not a
+medical expert and there are way better
+guides out there than i can put together
+so i'll just link to guides i suggest in
+the description below but the important
+aspects are
+one adjust your chair so your feet are
+flat on the floor and your back should
+be up against the back of your chair
+when you're training
+if you can't set your feet flat so your
+knees are level with your hips
+it may be necessary to use a stool for
+support you want to adjust your monitors
+so you can look at them
+straight ahead and not side to side or
+up and down i see a lot of people
+post videos on the reddit where it shows
+them looking down this whole time
+and that's how their neck is positioned
+that's a bad long term habit
+your arm should rest at a 90 degree
+angle and most of your arms should be
+able to rest on your desk
+or your chair arm and sometimes your arm
+will float when you're aiming but you
+need to be able to support it
+this is one thing most ergonomics guide
+overlook because they're geared toward
+office productivity workers and not
+gamers
+and we're going to be needing a large
+mouse pad and range of motion to work
+with
+so stretches i normally stretch before
+every aim training session only takes a
+couple
+minutes there's a link in the
+description of which stretches i perform
+it's really going to help reduce your
+chances of injury with something like
+repetitive stress disorder
+i personally have been using pc games
+since three
+maybe even five i started out on
+commodore 64. worked my way up from
+there
+i've been using a mouse for 30 plus
+years
+if you're serious about getting into
+competitive fps
+and serious about your aim training
+don't overlook it
+choosing a mouse first thing you'll need
+to understand your mouse script type
+on screen are the three most common grip
+types to help you understand what your
+current mouse grip is
+the two most common recommended and
+competitive aiming are claw
+and fingertip if you're just starting
+out with a mouse choose one
+of these grip types and stay with it i'm
+fingertip
+i was palm grip for a long time if you
+also been using a mouse for a long time
+in your palm grip
+you should probably get into fingertip
+grip for choosing a mouse
+rocket jump ninja again he has a
+fantastic video that will walk you
+through is using his mouse search it's
+what i use to find my mouse
+to use it you'll have to measure out
+your hand size i suggest following it to
+a t
+so measure your actual hand then input
+the data into the mouse search
+calculator linked in the description
+some commonly recommended mice in the
+aim community are logitech mice like
+cheaper wireless which is super
+expensive but it's really nice
+g203 or the g305 which are lower budget
+versions but similar
+zowie mice glorious model o or o minus
+there's a lot more of course but those
+are some of the most common ones
+generally lighter is better and so is
+higher range of
+motion wireless tech has come a long way
+and pros often use wireless mice so you
+can too if
+you choose a wired mouse just know that
+the cable it comes with may restrict
+your range of movement people often mod
+their wired mouse with paracord which
+makes it stiffer
+and less prone to wear so the cord
+doesn't snag on your pad
+if you don't want to deal with that mess
+just pick a wireless mouse
+if your wireless mouse uses a physical
+battery aimers will often
+replace double a battery with a aaa
+battery instead and then they'll use a
+plastic spacer or tin foil of all things
+to minimize weight as far as mouse feet
+go
+most aimers choose to replace the native
+feet with skates
+it's such a dumb name i hate that name
+it's like there's should there be z's at
+the end i don't know
+i'll provide a link in the description
+of where you can get cheap reliable
+skates
+but wow that's a lot of info isn't it
+look don't worry too much
+your tools won't make you a great aimer
+if you buy a 500
+tennis racket you're not going to become
+roger federer overnight you pick a mouse
+that fits your hand size and grip
+type and then you move on don't get
+stuck on it if you get really into
+aiming later on you can make adjustments
+to your equipment if that becomes your
+bottleneck
+choosing a mouse fat so i'm going to
+provide a link in the description to
+this mousepad resource that hoya put
+together
+noticing a theme yet pretty much
+everything i'm talking about has some
+kind of resource associated with it
+where you can get more detail
+it has a great list of mouse pads with
+ratings on how fast they wear how
+fast or slow they are the main things to
+consider is making sure it's large
+enough for your desk space
+normally you will be running a much
+lower sense than you're probably used to
+right now
+and you're going to need two to three
+feet of death space for your mouse pad
+if you play tracking heavy games like
+apex legends you'll want a faster pad
+if you play a low time to kill games or
+ttk
+like valorent and counter-strike then
+you probably want a slower pad
+like the mouse this is preference and
+like the mouse a good pad won't
+automatically make you a better aimer
+if you just want a reliable pad go with
+the zoe gsr
+se or decanic control when making this
+video mouse pads are hard to find right
+now
+so if you can't find either of these you
+can use a logitech g640 in a pinch i've
+used it i like it it just wears out fast
+they're pretty much always in stock from
+what i've seen so as far as monitors go
+this is very preference based you should
+pick 144 hertz monitor if you can afford
+it
+and be capable of running up to 144 fps
+in your game of choice
+you can still get into fps aiming
+without this but know it's going to be a
+limiting factor especially
+with fast strafes and reactivity make
+sure that your monitor has low input lag
+less than one millisecond and supports
+g-sync and freesync
+like i mentioned in the posture section
+make sure you're able to look at the
+monitor straight on without craning your
+neck
+so you've probably seen stuff on sleeves
+and it starts to really get into
+neckbeard territory but a sleeve does
+help reduce
+friction on the pad especially if you
+sweat a lot or your mouse pad feels
+swampy
+i don't have ac so when it gets really
+hot i sweat
+and i have to use a sleeve and it does
+help i personally i wouldn't get one
+until you realize it becomes a
+bottleneck and your improvement
+you can just get any basic amazon
+compression sleeve like what bikers
+would use
+so finding your sends and mouse
+acceleration
+sensitivity is shortened to sends by
+most people in aim community it's just
+faster to say
+in case you want to sound cool and smart
+and like you know what you're doing just
+say sense
+one of the most common questions new
+aimers have is what sends should i use
+and more often the sends you should use
+is lower than what you think it is
+so before starting this process you
+should disable mouse acceleration which
+is on by default in windows
+if you're pc gaming you're probably
+using windows disable it like this
+you can also go to this video for more
+detail about disabling mouse
+acceleration permanently for all time if
+that's your thing
+you're just gonna have to do some reg
+edit hacks and all sorts of stuff i
+didn't mess with it if you want to it's
+up to you but that said i should point
+out there's a lot more to mouse
+acceleration than simply saying
+it's bad turn it off for now i would
+suggest
+just turning it off but if you want to
+dig deeper in the description i'll link
+to a great article on the subject
+the most popular way to find your sends
+is using the perfect
+sensitivity approximation method or psa
+again there are better guides out there
+so here's a link to a video on how to
+find your sends using the psa method
+it's what i did
+it worked pretty well for me i ended up
+not going with what it suggested but
+most people need some kind of
+third-party confirmation that the sends
+is right
+and so this is an empirical way that you
+can get this information
+if you didn't watch the video basically
+you just want a sense where you're able
+to perform a full 360
+in your game of choice starting from one
+end of the mousepad and swiping all the
+way across to the other end
+using the psa method helps you fine tune
+from there if you want
+uh generally a higher sends will be
+useful for high ttk games that have a
+lot of tracking like apex legends and
+arcade shooters like quake or diabotical
+just came out
+lower sins would be useful for low ttk
+games that focus more on crosshair
+placement and accurate headshots
+like cs and valorem what if you just
+want me to tell you what sends to go
+with
+okay fine you don't want to do the
+research use
+25 to 35 centimeters per 360.
+wait what okay cm per 360 or cm
+rev is a universal way to describe mouse
+sends across
+different games it's a measurement of
+the physical distance your mouse travels
+when
+doing a full 360 degree turn in game
+you can use a calculator like the one i
+link in the description to convert
+between different sensitivities
+for example i use approximately 35 cm or
+rev and in apex legends that translates
+to roughly 1.47 sends in game with 800
+dpi
+okay now i'm bringing dpi into the mix
+just had to throw a wrench in right
+people tend to get really hung up on dpi
+don't overthink it
+400 dpi with 3.0 sends in-game is the
+same as
+800 dpi and 1.5 sends in-game
+that's really all there is to it you can
+set your dpi to 400 or 800 and never
+touch it again there's another reason
+why cm360 is a standard method
+for measuring sends because too many
+variables contribute to in-game sends
+so fov settings fov or field of view
+is essentially the viewing angle that
+you see on screen when you're playing
+fps games the default fov is usually 90
+degrees
+and this is customizable in most modern
+fps games
+it didn't used to be anima fps is a
+great video on the subject but for the
+purposes of the video you should
+understand that a lower
+fov will make it harder to see and track
+closer targets especially fast strafing
+ones
+but easier to see and track long
+distance targets since they will
+appear closer on your screen that said
+the aim community has accepted 103
+fov as a standard so you could start
+there when we talk about aim training
+you can increase this to 110 to 120 for
+target switching scenarios especially
+ones that require 180 or 360 degree
+movement to track targets
+so now you want to choose a name trainer
+well prosper name has a great video
+going into more detail on the subject if
+you really want to get into detail
+but the consensus right now in the aim
+community is just use kovacs fps aim
+trainer
+i do occasionally use ambience as well
+and in my opinion from the software
+perspective it's better optimized with
+more customization
+but right now kovacs still has the most
+useful scenarios
+and once you start getting into routines
+you'll find that ambience just lacks the
+depth and you'll be chasing replacement
+scenarios
+so often so just go with kovacs and
+before we start talking about how to get
+into aim training
+you want to spend some time making sure
+you get consistent fps around the
+maximum refresh rate your monitor
+supports
+so if you have 144hz monitor you want to
+cap your fps around 141 frames
+wait a second aren't more frames always
+better
+good question just like every one of the
+other questions i'm sure you're asking
+yourself
+for reasons other people go into great
+detail the answer is
+it depends you could still experience
+stuttering as fps fluctuates
+inconsistently
+if you experience this problem i
+experience this problem with apex
+you can watch this video on how to get
+ahead of it basically what you want to
+do is download a program called rtss
+and configure it to cap your frame rate
+at the highest fps you can consistently
+achieve
+usually this is recommended just under
+what your refresh rate on your monitor
+is so if you have 144hz monitor you'd
+want to cap it around 141 fps
+then you want to configure your video
+card settings to disable anti-lag
+features like amd anti-lag or nvidia
+ultra low latency
+make sure you have g-sync and freesync
+enabled
+it should be automatic for the most part
+and make sure to set your monitor
+settings to your max monitor refresh
+rate
+this is probably the number one problem
+that people run into when they get 144
+hertz monitors
+is they forget to do this and then two
+years later they realize that they've
+been running 60 hertz the whole time
+don't be one of those people for fps
+games you're playing disable vsync every
+time
+play the game in dedicated fullscreen
+not full screen borderless
+and do not use in-game fps limiters
+after that you should be looking to
+reduce video settings in order to
+achieve the consistent fps you want
+most competitive fps players use the
+lowest video settings possible
+so for kovac specific settings a quick
+note on opening kovacs for the first
+time
+it will take you to the trainer section
+by default which is still in the process
+of being worked and it won't give you
+access to all the scenarios that we're
+going to be doing and talking about in
+the routines
+so it's a great short and sweet video on
+the subject for
+kovac specific settings his name's
+christmas is cancelled on youtube
+but the short version is even though his
+is like a minute and a half so just
+watch the video
+disable most on-screen artifacts such as
+the gun laser
+decals hit markers you want to minimize
+the things that are going to distract
+you from your goals
+which is improving your aim and overall
+mouse feel while starting out it can't
+hurt to replicate your kovac sensitivity
+and fov settings
+to the same of the fps game that you
+want to play but just know
+that you're going to be frequently
+adjusting sends and fib in your aim
+training journey
+your goal would be to improve your
+overall mouse feel and not to memorize
+one-for-one mechanical situations
+so in getting into aim routines there's
+a lot of different aim routines out
+there
+it can be very overwhelming the most
+popular aim guide that most people start
+with is by aimer 7.
+[Music]
+but you will see a lot of pro aimer
+names like zeke
+cowser sdk ins sinai
+so on i would strongly suggest this to
+start out with the sparky fundamental
+aim routines
+sparky is a great community that you can
+join to have a discord
+and they provide a lot of useful
+routines guides benchmarks for improving
+the fundamental routines are broken down
+to different levels
+you'll start with bronze and you can go
+all the way up to ascended if you're a
+god
+you can use the benchmarks and
+spreadsheet i link in the description to
+benchmark yourself and figure out where
+you should start
+but if you're just starting out chances
+are you'll begin with bronze
+you can use the spreadsheet to track
+your progress as you improve
+other guides such as amy7's guide and
+the updated version by thomas
+i believe it's thomas thomas there's
+still great reads for amy philosophy
+but you should still start out with the
+sparky fundamentals until you're able to
+recognize and focus on improving your
+specific weaknesses
+it can't hurt to use those guides this
+video is geared toward
+i'm just starting out tell me what to do
+i would suggest getting into the sparky
+fundamental routines
+using playlists kovacs recently
+introduced shareable playlists which
+makes it easy to set up routines you'll
+often see
+plo files which can be placed into the
+correct folder where covax is installed
+or you can create and edit your own
+playlists export them and share them
+most scenarios are a minute in length
+and most routines will suggest doing
+each scenario for 10 minutes
+so you can set up that playlist to run
+that scenario 10 times
+when starting out i'd suggest just
+running the routines as built but
+there's a method called one by one which
+is gaining popularity
+where you run each scenario one time
+each and run the whole routine multiple
+times in your training session so for
+aim scenario types
+they're divided into four main types
+clicking
+tracking target switching movement anima
+has a great youtube playlist on the
+different types for more detail
+short version clicking refers to static
+removing dots
+popular with low ttk games like valorent
+and cs
+or if you're using snipers tracking is
+keeping your crosshair on a target for
+longer periods of time while they're
+moving
+often changing direction with quick
+reaction games like apex legends
+quake or diabolical they require a lot
+of tracking
+target switching is a combination of
+tracking and clicking skills requiring
+you to quickly hop between multiple
+targets and keep your crosshair on low
+ttk
+targets while they're moving games like
+cod and battlefield or any shooter where
+there's
+a lot of combat situations with a high
+number of targets on screen and you're
+just trying to eliminate them as quickly
+as possible
+that's going to be more like a target
+switching focus scenario
+movement scenarios or any of the above
+three types the only difference being
+you have to move hence movement scenario
+pretty straightforward
+usually gonna be strafing in these types
+of scenarios so kind of ads spamming
+back and forth while eliminating targets
+so how to train correctly for the
+scenario types themselves it's important
+to learn how to properly approach
+each type christmas is cancelled has a
+great youtube series on each type and
+how to do them which i've set up below
+you should check this out it's fantastic
+make sure you read the descriptions in
+the sparky fundamental guide and they
+kind of cover how you should be doing
+the scenarios
+in short for clicking you want to
+smoothly and precisely trace from dot to
+dot
+focus more on accuracy before increasing
+your speed
+the general recommendation is to strive
+for 85 to 95
+accuracy on these scenarios until you
+start focusing on speeding up
+if you try to focus on speed too early
+you will probably develop bad habits
+and is going to cause you to waste
+movement by over undershooting targets
+and micro-adjusting a lot
+start slow try to map out an optimal
+path from target to target
+avoid bad habits like changing targets
+mid-path
+let's say you start to move to one
+target and then change your mind and
+switch to another
+and repeatedly shooting and missing the
+same target basically you want to start
+developing a tempo
+where even if you miss a target you just
+want to go for the next one
+over time your accuracy and speed will
+improve and don't try to force it
+with tracking you want to focus
+intensely on your smoothness
+and not over gripping your mouse your
+hand should be fairly relaxed and you
+will have very shaky aim at first which
+is your goal to improve
+you want to force yourself to not
+predict bot movement when they change
+direction
+ever ever ever and just assume the bot
+will keep going in the same direction
+forever
+then react back when it changes
+direction if you start predicting bot
+movement you're gonna cause
+bottlenecks in your improvement later on
+even if it seems to get you higher
+scores in the short term
+you should generally hold down left
+mouse button instead of gaming the
+scenario for higher accuracy
+don't sell yourself short by looking to
+get high scores
+versus improvement you're only going to
+hurt yourself
+target switching is a combo of tracking
+and clicking so most of the advice for
+tracking and clicking apply
+use your sound cues to help with
+building the pattern of your kill chain
+you always want to know what your next
+target is before your current one is
+dead and swiftly move to eliminate that
+next target
+over time you want to minimize
+overshooting targets so you can
+quickly eliminate them during tracking
+after you flick to the target
+there's no real meaningful advice i can
+give you for movement scenarios since
+the same advice for regular scenarios
+applies
+they'll just be more difficult to pull
+off while you're moving
+the one thing that i will say is don't
+just try to get high scores in the
+movement scenarios but try to replicate
+the same type of movement that you would
+use in game even if it results in
+smaller scores
+that said amor 7 has a great guide on
+improving your strafing overall
+which i'll link to the description below
+some overall advice
+improving your aim training i want to
+make this video short so
+i don't want to spend too much time on
+this but i feel like there's some high
+level wave top topics i should cover
+don't chase high scores or trick the
+system into getting high scores kind of
+what i mentioned before
+your goal is to improve your aim and
+mouse feel
+not get high scores actively focusing on
+reducing your bad habits will net you
+lower scores
+but you will get better faster over time
+it's kind of counterintuitive and it's
+hard to hold yourself accountable
+i promise you that if you focus on this
+you will get better practice
+consistently
+every day if possible an hour daily
+should be enough but if you can't go
+that long then it's better to do less
+amount of each scenario in the routine
+say if you were going to do 10 times for
+the scenario
+do it five times instead instead of
+cutting the routine short
+in other words you want to do the
+complete routine just do less of each
+scenario in the routine
+it's also better to train daily for 30
+minutes instead of every other day for
+an hour
+and don't freak out if your improvement
+in aim training doesn't translate in
+game or you get worse
+in your game of choice this is normal
+and in some cases it's a direct result
+of unlearning bad habits
+you're gonna have bad days bad weeks
+lots of external factors like
+diet exercise stress sleep
+they can all affect your training just
+like any other type of training like if
+you're lifting weights
+expect to make incremental progress over
+time and there's going to be peaks and
+valleys along the way
+isolating and improving problems so as
+you start to improve
+you'll start recognizing where your
+weaknesses and bad habits are
+this is actually what you want to strive
+to be able to do as you're improving
+not just blindly repeating routines over
+and over expecting to eventually get
+better
+blind practice does not make perfect you
+can't expect to just do the same thing
+over and over again and expect different
+results this has to be an active process
+that you're engaged in
+if you really want to improve fast some
+techniques you can use to isolate and
+improve
+include watching bods of your runs and
+watching which mistakes you're making
+look for things like wasted movement you
+might not really know what to look for
+at first
+but just actively looking at your bods
+after you're done training can help you
+with
+understanding what you're doing wrong
+watch videos of great aimers like sparky
+grand masters performing the routines
+and performing the scenarios to ensure
+you're doing them correctly
+generally you just want to actively
+participate in your training and think
+about what you might be doing wrong
+while you're doing the scenarios and
+look to correct them during your
+training
+like if you see that you're over
+flicking a lot you're not smooth
+or you're swooping around while you're
+going from target to target instead of
+directly tracing a line then just
+sit there and focus on getting better at
+that without thinking about getting
+better at your scores
+it'll help you over the long run check
+out guides like sparky's guide on fixing
+specific issues participate in the aim
+community and ask for help
+join the sparky discord join reddit.comr
+fps aim trainer post your vods ask for
+advice
+don't be afraid to put yourself out
+there these communities have common
+objectives to improve aim
+take advantage of it you're always going
+to deal with [&nbsp;__&nbsp;] and people that
+are like oh
+you put 150 hours in and you're still
+bronze you suck
+for every person like that i guarantee
+you there's 10 other people one of which
+is
+me who wants you to get better and want
+you to improve i want to see
+every single one of us in the aim
+training community get better i have
+gained
+a lot from the community and i've
+learned a lot along the way i think it
+only makes sense to help everybody else
+too
+and that's all i have i'm trying to make
+a lot more videos like this in the
+future
+and i'm happy to take feedback on topics
+or how i can just make my videos better
+even if it's make them shorter i try to
+make them
+as succinct and as useful as possible
+and it's
+hard to find that balance between
+providing information
+and making it easy to digest but if i
+missed anything important
+or if you thought that there was a
+better way i could have presented this
+information
+please provide feedback in the comments
+i'm always looking for ideas to improve
+if you have ideas for other videos
+things that you wish you knew or videos
+that you think i should make
+reach out to me i'd love to know that
+but thanks for watching i'll see you
+next time

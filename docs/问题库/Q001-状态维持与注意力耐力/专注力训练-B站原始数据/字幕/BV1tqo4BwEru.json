@@ -1,0 +1,810 @@
+[
+  {
+    "from": 0.12,
+    "to": 3.28,
+    "sid": 1,
+    "location": 2,
+    "content": "今天我们来做一套特别的脑力训练",
+    "music": 0.0
+  },
+  {
+    "from": 3.28,
+    "to": 5.7,
+    "sid": 2,
+    "location": 2,
+    "content": "这些练习能让大脑更健康",
+    "music": 0.0
+  },
+  {
+    "from": 5.7,
+    "to": 6.52,
+    "sid": 3,
+    "location": 2,
+    "content": "更敏锐",
+    "music": 0.0
+  },
+  {
+    "from": 6.52,
+    "to": 8.39,
+    "sid": 4,
+    "location": 2,
+    "content": "注意力更集中",
+    "music": 0.0
+  },
+  {
+    "from": 8.71,
+    "to": 12.9,
+    "sid": 5,
+    "location": 2,
+    "content": "别再提那些老生常谈的呼吸练习或冥想了",
+    "music": 0.0
+  },
+  {
+    "from": 12.9,
+    "to": 14.74,
+    "sid": 6,
+    "location": 2,
+    "content": "这些练习真的很有趣",
+    "music": 0.0
+  },
+  {
+    "from": 14.74,
+    "to": 15.74,
+    "sid": 7,
+    "location": 2,
+    "content": "也很让人享受",
+    "music": 0.0
+  },
+  {
+    "from": 15.74,
+    "to": 19.32,
+    "sid": 8,
+    "location": 2,
+    "content": "是你在空闲时间里真正愿意去做的事情",
+    "music": 0.0
+  },
+  {
+    "from": 19.32,
+    "to": 20.94,
+    "sid": 9,
+    "location": 2,
+    "content": "你现在可能在想",
+    "music": 0.0
+  },
+  {
+    "from": 20.94,
+    "to": 22.86,
+    "sid": 10,
+    "location": 2,
+    "content": "我脑子已经够灵光了",
+    "music": 0.0
+  },
+  {
+    "from": 22.86,
+    "to": 25.0,
+    "sid": 11,
+    "location": 2,
+    "content": "那就用这些练习测试一下",
+    "music": 0.0
+  },
+  {
+    "from": 25.0,
+    "to": 27.84,
+    "sid": 12,
+    "location": 2,
+    "content": "看能不能让它变得更强",
+    "music": 0.0
+  },
+  {
+    "from": 28.24,
+    "to": 32.519,
+    "sid": 13,
+    "location": 2,
+    "content": "第一个练习是高级且有难度的舒尔特表",
+    "music": 0.0
+  },
+  {
+    "from": 32.519,
+    "to": 36.399,
+    "sid": 14,
+    "location": 2,
+    "content": "这个练习完全就是为了挑战大脑而专门设计的",
+    "music": 0.0
+  },
+  {
+    "from": 36.399,
+    "to": 37.759,
+    "sid": 15,
+    "location": 2,
+    "content": "它能提升专注力",
+    "music": 0.0
+  },
+  {
+    "from": 37.759,
+    "to": 38.359,
+    "sid": 16,
+    "location": 2,
+    "content": "处理速度",
+    "music": 0.0
+  },
+  {
+    "from": 38.359,
+    "to": 39.769,
+    "sid": 17,
+    "location": 2,
+    "content": "记忆力和协调性",
+    "music": 0.0
+  },
+  {
+    "from": 39.769,
+    "to": 41.729,
+    "sid": 18,
+    "location": 2,
+    "content": "你会看到一个表格里面",
+    "music": 0.0
+  },
+  {
+    "from": 41.729,
+    "to": 44.58,
+    "sid": 19,
+    "location": 2,
+    "content": "1~36的数字随机排列",
+    "music": 0.0
+  },
+  {
+    "from": 44.58,
+    "to": 46.64,
+    "sid": 20,
+    "location": 2,
+    "content": "从中心注视点开始",
+    "music": 0.0
+  },
+  {
+    "from": 46.64,
+    "to": 49.06,
+    "sid": 21,
+    "location": 2,
+    "content": "按顺序找出所有数字",
+    "music": 0.0
+  },
+  {
+    "from": 49.06,
+    "to": 51.4,
+    "sid": 22,
+    "location": 2,
+    "content": "要在40秒内完成",
+    "music": 0.0
+  },
+  {
+    "from": 51.4,
+    "to": 52.68,
+    "sid": 23,
+    "location": 2,
+    "content": "准备好了吗",
+    "music": 0.0
+  },
+  {
+    "from": 52.68,
+    "to": 56.08,
+    "sid": 24,
+    "location": 2,
+    "content": "123开始",
+    "music": 0.0
+  },
+  {
+    "from": 95.3,
+    "to": 96.92,
+    "sid": 25,
+    "location": 2,
+    "content": "你全找出来了吗",
+    "music": 0.0
+  },
+  {
+    "from": 96.92,
+    "to": 99.12,
+    "sid": 26,
+    "location": 2,
+    "content": "没找全也没关系",
+    "music": 0.0
+  },
+  {
+    "from": 99.12,
+    "to": 100.32,
+    "sid": 27,
+    "location": 2,
+    "content": "多练几次",
+    "music": 0.0
+  },
+  {
+    "from": 100.32,
+    "to": 103.85,
+    "sid": 28,
+    "location": 2,
+    "content": "你的处理速度和周边视觉就会提升",
+    "music": 0.0
+  },
+  {
+    "from": 103.85,
+    "to": 107.59,
+    "sid": 29,
+    "location": 2,
+    "content": "网上或app里有很多舒尔特表练习",
+    "music": 0.0
+  },
+  {
+    "from": 107.59,
+    "to": 110.82,
+    "sid": 30,
+    "location": 2,
+    "content": "在谷歌搜舒尔特表就行",
+    "music": 0.0
+  },
+  {
+    "from": 111.18,
+    "to": 114.09,
+    "sid": 31,
+    "location": 2,
+    "content": "第二个练习彩色文字",
+    "music": 0.0
+  },
+  {
+    "from": 114.29,
+    "to": 115.37,
+    "sid": 32,
+    "location": 2,
+    "content": "在这个练习里",
+    "music": 0.0
+  },
+  {
+    "from": 115.37,
+    "to": 118.43,
+    "sid": 33,
+    "location": 2,
+    "content": "你会看到一些用不同颜色写出来的文字",
+    "music": 0.0
+  },
+  {
+    "from": 118.43,
+    "to": 120.99,
+    "sid": 34,
+    "location": 2,
+    "content": "你要大声说出文字的颜色",
+    "music": 0.0
+  },
+  {
+    "from": 120.99,
+    "to": 123.24,
+    "sid": 35,
+    "location": 2,
+    "content": "而不是读单词本身",
+    "music": 0.0
+  },
+  {
+    "from": 123.24,
+    "to": 126.28,
+    "sid": 36,
+    "location": 2,
+    "content": "比如red这个词用蓝色写",
+    "music": 0.0
+  },
+  {
+    "from": 126.28,
+    "to": 128.06,
+    "sid": 37,
+    "location": 2,
+    "content": "你就要说蓝色",
+    "music": 0.0
+  },
+  {
+    "from": 128.06,
+    "to": 132.74,
+    "sid": 38,
+    "location": 2,
+    "content": "准备321开始",
+    "music": 0.0
+  },
+  {
+    "from": 162.14,
+    "to": 163.52,
+    "sid": 39,
+    "location": 2,
+    "content": "看起来简单",
+    "music": 0.0
+  },
+  {
+    "from": 163.52,
+    "to": 164.26,
+    "sid": 40,
+    "location": 2,
+    "content": "其实很难",
+    "music": 0.0
+  },
+  {
+    "from": 164.26,
+    "to": 165.96,
+    "sid": 41,
+    "location": 2,
+    "content": "它会打破自动阅读习惯",
+    "music": 0.0
+  },
+  {
+    "from": 165.96,
+    "to": 168.4,
+    "sid": 42,
+    "location": 2,
+    "content": "强迫大脑用不同方式处理信息",
+    "music": 0.0
+  },
+  {
+    "from": 168.4,
+    "to": 169.6,
+    "sid": 43,
+    "location": 2,
+    "content": "从而提升记忆力",
+    "music": 0.0
+  },
+  {
+    "from": 169.6,
+    "to": 172.17,
+    "sid": 44,
+    "location": 2,
+    "content": "专注力和多任务处理能力",
+    "music": 0.0
+  },
+  {
+    "from": 172.17,
+    "to": 175.22,
+    "sid": 45,
+    "location": 2,
+    "content": "第三个练习闭眼操作",
+    "music": 0.0
+  },
+  {
+    "from": 175.22,
+    "to": 176.42,
+    "sid": 46,
+    "location": 2,
+    "content": "在这个练习中",
+    "music": 0.0
+  },
+  {
+    "from": 176.42,
+    "to": 179.64,
+    "sid": 47,
+    "location": 2,
+    "content": "请尝试闭上眼睛去做一些简单的日常任务",
+    "music": 0.0
+  },
+  {
+    "from": 179.64,
+    "to": 182.97,
+    "sid": 48,
+    "location": 2,
+    "content": "比如闭眼在纸上写自己的名字",
+    "music": 0.0
+  },
+  {
+    "from": 182.97,
+    "to": 184.51,
+    "sid": 49,
+    "location": 2,
+    "content": "画画圆形",
+    "music": 0.0
+  },
+  {
+    "from": 184.51,
+    "to": 186.78,
+    "sid": 50,
+    "location": 2,
+    "content": "三角形或正方形",
+    "music": 0.0
+  },
+  {
+    "from": 186.78,
+    "to": 189.42,
+    "sid": 51,
+    "location": 2,
+    "content": "甚至在手机上试着打字",
+    "music": 0.0
+  },
+  {
+    "from": 189.42,
+    "to": 192.48,
+    "sid": 52,
+    "location": 2,
+    "content": "现在就可以试试看暂停视频",
+    "music": 0.0
+  },
+  {
+    "from": 192.48,
+    "to": 195.3,
+    "sid": 53,
+    "location": 2,
+    "content": "闭眼在评论区写下你的名字",
+    "music": 0.0
+  },
+  {
+    "from": 195.3,
+    "to": 196.86,
+    "sid": 54,
+    "location": 2,
+    "content": "想加难的话",
+    "music": 0.0
+  },
+  {
+    "from": 196.86,
+    "to": 198.94,
+    "sid": 55,
+    "location": 2,
+    "content": "把姓也一起写上",
+    "music": 0.0
+  },
+  {
+    "from": 198.94,
+    "to": 201.02,
+    "sid": 56,
+    "location": 2,
+    "content": "看看你行不行",
+    "music": 0.0
+  },
+  {
+    "from": 210.3,
+    "to": 212.7,
+    "sid": 57,
+    "location": 2,
+    "content": "这个练习能让大脑保持活跃",
+    "music": 0.0
+  },
+  {
+    "from": 212.7,
+    "to": 214.59,
+    "sid": 58,
+    "location": 2,
+    "content": "加强空间记忆",
+    "music": 0.0
+  },
+  {
+    "from": 214.99,
+    "to": 217.86,
+    "sid": 59,
+    "location": 2,
+    "content": "第四个练习双手协调",
+    "music": 0.0
+  },
+  {
+    "from": 221.54,
+    "to": 224.2,
+    "sid": 60,
+    "location": 2,
+    "content": "右手做出数字二的手势",
+    "music": 0.0
+  },
+  {
+    "from": 224.2,
+    "to": 227.13,
+    "sid": 61,
+    "location": 2,
+    "content": "左手同时做出OK的手势",
+    "music": 0.0
+  },
+  {
+    "from": 227.13,
+    "to": 229.65,
+    "sid": 62,
+    "location": 2,
+    "content": "然后快速交换左手二",
+    "music": 0.0
+  },
+  {
+    "from": 229.65,
+    "to": 235.96,
+    "sid": 63,
+    "location": 2,
+    "content": "右手OK试着在20秒内连续做十次准备",
+    "music": 0.0
+  },
+  {
+    "from": 235.96,
+    "to": 239.38,
+    "sid": 64,
+    "location": 2,
+    "content": "321开始",
+    "music": 0.0
+  },
+  {
+    "from": 258.84,
+    "to": 262.28,
+    "sid": 65,
+    "location": 2,
+    "content": "这个练习可以有效加强大脑和身体之间的连接",
+    "music": 0.0
+  },
+  {
+    "from": 263.48,
+    "to": 264.72,
+    "sid": 66,
+    "location": 2,
+    "content": "第五个练习",
+    "music": 0.0
+  },
+  {
+    "from": 264.72,
+    "to": 266.549,
+    "sid": 67,
+    "location": 2,
+    "content": "非惯用手",
+    "music": 0.0
+  },
+  {
+    "from": 266.949,
+    "to": 269.11,
+    "sid": 68,
+    "location": 2,
+    "content": "简单却非常有效",
+    "music": 0.0
+  },
+  {
+    "from": 269.11,
+    "to": 272.25,
+    "sid": 69,
+    "location": 2,
+    "content": "这次把平时习惯用惯用手完成的任务",
+    "music": 0.0
+  },
+  {
+    "from": 272.25,
+    "to": 274.01,
+    "sid": 70,
+    "location": 2,
+    "content": "改用另一只手来做",
+    "music": 0.0
+  },
+  {
+    "from": 274.01,
+    "to": 277.81,
+    "sid": 71,
+    "location": 2,
+    "content": "比如刷牙写字吃饭",
+    "music": 0.0
+  },
+  {
+    "from": 278.21,
+    "to": 280.61,
+    "sid": 72,
+    "location": 2,
+    "content": "这样能建立新的神经通路",
+    "music": 0.0
+  },
+  {
+    "from": 280.61,
+    "to": 282.85,
+    "sid": 73,
+    "location": 2,
+    "content": "加强脑体沟通",
+    "music": 0.0
+  },
+  {
+    "from": 283.37,
+    "to": 285.07,
+    "sid": 74,
+    "location": 2,
+    "content": "看到这里觉得有用",
+    "music": 0.0
+  },
+  {
+    "from": 285.07,
+    "to": 287.07,
+    "sid": 75,
+    "location": 2,
+    "content": "就用非惯用手点个赞",
+    "music": 0.0
+  },
+  {
+    "from": 287.07,
+    "to": 288.31,
+    "sid": 76,
+    "location": 2,
+    "content": "留个言吧",
+    "music": 0.0
+  },
+  {
+    "from": 288.31,
+    "to": 289.35,
+    "sid": 77,
+    "location": 2,
+    "content": "试试看",
+    "music": 0.0
+  },
+  {
+    "from": 289.35,
+    "to": 290.73,
+    "sid": 78,
+    "location": 2,
+    "content": "难不难",
+    "music": 0.0
+  },
+  {
+    "from": 303.92,
+    "to": 306.04,
+    "sid": 79,
+    "location": 2,
+    "content": "我们总说游戏让人上瘾",
+    "music": 0.0
+  },
+  {
+    "from": 306.04,
+    "to": 307.14,
+    "sid": 80,
+    "location": 2,
+    "content": "但研究表明",
+    "music": 0.0
+  },
+  {
+    "from": 307.14,
+    "to": 311.039,
+    "sid": 81,
+    "location": 2,
+    "content": "挑战智力的游戏可以改善决策能力和记忆力",
+    "music": 0.0
+  },
+  {
+    "from": 311.039,
+    "to": 313.639,
+    "sid": 82,
+    "location": 2,
+    "content": "比如数读国际象棋",
+    "music": 0.0
+  },
+  {
+    "from": 313.639,
+    "to": 314.359,
+    "sid": 83,
+    "location": 2,
+    "content": "谜语",
+    "music": 0.0
+  },
+  {
+    "from": 314.359,
+    "to": 316.28,
+    "sid": 84,
+    "location": 2,
+    "content": "拼图或字谜",
+    "music": 0.0
+  },
+  {
+    "from": 316.28,
+    "to": 319.94,
+    "sid": 85,
+    "location": 2,
+    "content": "而不是像糖果粉碎传奇那样的休闲手游",
+    "music": 0.0
+  },
+  {
+    "from": 319.94,
+    "to": 323.32,
+    "sid": 86,
+    "location": 2,
+    "content": "像LUMASI这样的网站有很多免费训练",
+    "music": 0.0
+  },
+  {
+    "from": 323.32,
+    "to": 325.4,
+    "sid": 87,
+    "location": 2,
+    "content": "可以搜来试试",
+    "music": 0.0
+  },
+  {
+    "from": 325.72,
+    "to": 327.0,
+    "sid": 88,
+    "location": 2,
+    "content": "第七个练习",
+    "music": 0.0
+  },
+  {
+    "from": 327.0,
+    "to": 329.58,
+    "sid": 89,
+    "location": 2,
+    "content": "减少对技术的依赖",
+    "music": 0.0
+  },
+  {
+    "from": 329.74,
+    "to": 333.16,
+    "sid": 90,
+    "location": 2,
+    "content": "最后一点试着减少自己对技术的依赖程度",
+    "music": 0.0
+  },
+  {
+    "from": 333.16,
+    "to": 335.28,
+    "sid": 91,
+    "location": 2,
+    "content": "因为一旦我们过度依赖技术",
+    "music": 0.0
+  },
+  {
+    "from": 335.28,
+    "to": 337.23,
+    "sid": 92,
+    "location": 2,
+    "content": "大脑就会越来越懒",
+    "music": 0.0
+  },
+  {
+    "from": 337.23,
+    "to": 340.25,
+    "sid": 93,
+    "location": 2,
+    "content": "用手动的方式完成一些简单的事情",
+    "music": 0.0
+  },
+  {
+    "from": 340.25,
+    "to": 341.63,
+    "sid": 94,
+    "location": 2,
+    "content": "比如自己记单词",
+    "music": 0.0
+  },
+  {
+    "from": 341.63,
+    "to": 344.81,
+    "sid": 95,
+    "location": 2,
+    "content": "直接心算或者记住电话号码",
+    "music": 0.0
+  },
+  {
+    "from": 344.81,
+    "to": 346.59,
+    "sid": 96,
+    "location": 2,
+    "content": "这样能强化记忆力",
+    "music": 0.0
+  },
+  {
+    "from": 346.59,
+    "to": 347.57,
+    "sid": 97,
+    "location": 2,
+    "content": "让你更独立",
+    "music": 0.0
+  },
+  {
+    "from": 348.65,
+    "to": 350.67,
+    "sid": 98,
+    "location": 2,
+    "content": "也就是说别总写清单",
+    "music": 0.0
+  },
+  {
+    "from": 350.67,
+    "to": 352.89,
+    "sid": 99,
+    "location": 2,
+    "content": "先自己试着记住",
+    "music": 0.0
+  },
+  {
+    "from": 353.19,
+    "to": 356.23,
+    "sid": 100,
+    "location": 2,
+    "content": "如果你想让大脑真正爱上努力这件事",
+    "music": 0.0
+  },
+  {
+    "from": 356.23,
+    "to": 358.74,
+    "sid": 101,
+    "location": 2,
+    "content": "下一步就是去观看这个视频",
+    "music": 0.0
+  }
+]

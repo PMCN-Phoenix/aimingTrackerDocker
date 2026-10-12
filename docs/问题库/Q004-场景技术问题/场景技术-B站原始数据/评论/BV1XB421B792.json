@@ -1,0 +1,3728 @@
+{
+  "info": {
+    "sub": "Q004.1",
+    "note": "外挂一样的转火",
+    "title": "【谈谈瞄准】如何做到外挂一样的转火？这可能是你见过最好的瞄准/转火教程",
+    "owner": "13LacRX",
+    "aid": 1350332162,
+    "cid": 1433730787,
+    "duration": 660,
+    "desc": "13LacRX\n这一期视频费了我很多很多心血，内容几乎是我对于瞄准、转火的毕生所学了（其实有些讲得还是不够细致，如果再细的话，文字就会爆炸的多。。。），打字应该有几千。希望大家不要嫌字多就不看，文字内容是这个视频的精髓。\n\n配乐截取自：\nTouch——Daft Punk\nHorizon——Nujabes\nLuv（sic.）pt 3 Instrumentals——Nujabes\nModal Soul——Nujabes\n\n投的转载（算是做了个小公益？），没有任何收益！魔怔大手子别攻击哥们。。。",
+    "comments": {
+      "count": 316,
+      "comments": [
+        {
+          "uname": "13LacRX",
+          "like": 191,
+          "rcount": 4,
+          "message": "【索引】\n\n1.瞄准的相关理论：——1:19～1:42\n（1）阐述瞄准本质的理论\n（2）个人对于瞄准的认知\n2.【重点】转火中体现了怎样的瞄准：——1:42～2:52\n（1）转火是如何实现的（转火是什么）\n（2）转火的意义（从实用性、观赏性的角度）\n3.怎样做到好的转火/瞄准：\n（1）【重点】部分操作方法/理论（太过基本的有很多教程都讲过了，这里不做赘述）：——2:52～5:34\n一段划屏\n二段划屏\n食指不固定\n手位\n（2）CODM游戏本身性质、玩家自身对于瞄准的影响（包含灵敏度、设备、FOV等）——5:34～6:39\n（3）【重点】练习方法/理论：——6:39～10:47\nCODM游戏内靶场\n匹配模式（也包括僵尸模式）\n练枪软件\n\n相关需要结合观看的视频：\n瞄准理论：BV1P84y1c74W\n手位、指侧划屏：BV1bs4y1w7HG\n基础定位：BV11T411m7nD\n\n最后，因为我粉丝少，流量并不高，各位如果觉得有用请动态转发一下",
+          "subs": [
+            {
+              "uname": "2Ut0mAy0",
+              "like": 6,
+              "message": "一打开就是大东彦[脱单doge]"
+            },
+            {
+              "uname": "ききもらkikimora",
+              "like": 3,
+              "message": "这个游戏里转火的基础是低敏吧，高敏只能做到瞬间拉枪跟枪，中间的动画是连续的效果是差不多的，就是没有固定加速的观赏性。"
+            },
+            {
+              "uname": "屑玩兖",
+              "like": 2,
+              "message": "up，你的教学好像是三指教学\n但我是二指啊[笑哭]"
+            },
+            {
+              "uname": "13LacRX",
+              "like": 5,
+              "message": "回复 @屑玩兖 :提升指数才能提高上限，二指上限太低了，这个教程主要适用于四指及以上，要不然不好操作"
+            }
+          ]
+        },
+        {
+          "uname": "账号已注销",
+          "like": 152,
+          "rcount": 13,
+          "message": "移动设备永远无法达到鼠标指针的精度 从意义上来讲手搓的灵敏度必须很低 手指移动范围大才能进行微调 在长ttk的游戏可以说是手搓不如陀螺仪一根毛 本身移动设备的瞄准逻辑就是极度畸形 范围小 不精确 延迟 有能力不应该执意手游 娱乐即可 专注手游训练无大收益",
+          "subs": [
+            {
+              "uname": "13LacRX",
+              "like": 8,
+              "message": "还真是[笑哭]"
+            },
+            {
+              "uname": "常夏占领世界",
+              "like": 2,
+              "message": "职业呢"
+            },
+            {
+              "uname": "史密斯沃徳杰克曼杰森",
+              "like": 6,
+              "message": "我现在就是平时手搓，陀螺仪微调"
+            },
+            {
+              "uname": "北冥有鸟丶名鹏",
+              "like": 9,
+              "message": "是了，codm比较体现不出来，像pubgm这种不开速度加速，灵敏度一高打几百米的敌人真不好调整"
+            },
+            {
+              "uname": "知世DHYsea",
+              "like": 4,
+              "message": "插一句，低敏创造可能，高敏没有不可能，所以我选择低敏[妙啊]"
+            },
+            {
+              "uname": "永远致力于毁灭全宇宙",
+              "like": 3,
+              "message": "还真是，所以我选择苹果"
+            },
+            {
+              "uname": "账号已注销",
+              "like": 2,
+              "message": "回复 @掌控一切-终极释义 :苹果也是一样的"
+            },
+            {
+              "uname": "永远致力于毁灭全宇宙",
+              "like": 3,
+              "message": "回复 @SR水墨轩-高能英雄 :苹果触控很精细，比安卓更准不是吗"
+            },
+            {
+              "uname": "账号已注销",
+              "like": 2,
+              "message": "回复 @bili_674209264 :iPhone15pm 跟安卓没啥区别 甚至不如红魔那些游戏设备 iPad pro 还好一点"
+            },
+            {
+              "uname": "永远致力于毁灭全宇宙",
+              "like": 2,
+              "message": "回复 @SR水墨轩-高能英雄 :啊这样吗，都说苹果触控好"
+            },
+            {
+              "uname": "Khalil圆小异",
+              "like": 5,
+              "message": "回复 @控制一切-终极释义 :触控延迟很强，采样率一般般"
+            },
+            {
+              "uname": "世间の故事",
+              "like": 2,
+              "message": "苹果滑动触控好"
+            },
+            {
+              "uname": "灣友",
+              "like": 2,
+              "message": "回复 @掌控一切-释义终极 :旗艦機應該都大差不差的"
+            }
+          ]
+        },
+        {
+          "uname": "夜來風葉已鳴廊",
+          "like": 46,
+          "rcount": 3,
+          "message": "我觉得视觉上的目标大小对瞄准影响很大 哪怕是GRP在使用手机关联fov时fov都是拉到最低的",
+          "subs": [
+            {
+              "uname": "13LacRX",
+              "like": 4,
+              "message": "可能吧，我手机打得不多"
+            },
+            {
+              "uname": "13LacRX",
+              "like": 3,
+              "message": "毕竟这一块内容虽然文本众多但是我没有标记为重点[脱单doge]"
+            },
+            {
+              "uname": "鲸鱼座的あお星",
+              "like": 3,
+              "message": "板子+稍高的FOV+关联确实好转火一点。"
+            }
+          ]
+        },
+        {
+          "uname": "迷人羽",
+          "like": 43,
+          "rcount": 18,
+          "message": "手搓瞄准有锯齿感是真的，lcd屏幕尤为明显，大部分手游都没给手搓微调做优化[笑哭]",
+          "subs": [
+            {
+              "uname": "13LacRX",
+              "like": 5,
+              "message": "引用了你的视频，感谢你[喜欢]"
+            },
+            {
+              "uname": "迷人羽",
+              "like": 5,
+              "message": "回复 @13LacRX :等24pro出了，你可以测测oled屏幕的手搓跟手性和微调能力[笑哭]"
+            },
+            {
+              "uname": "13LacRX",
+              "like": 3,
+              "message": "回复 @迷人羽 :pro24之前都是lcd吗"
+            },
+            {
+              "uname": "13LacRX",
+              "like": 3,
+              "message": "回复 @迷人羽 :我是远古pro18[笑哭]"
+            },
+            {
+              "uname": "迷人羽",
+              "like": 3,
+              "message": "回复 @13LacRX :对"
+            },
+            {
+              "uname": "迷人羽",
+              "like": 4,
+              "message": "回复 @13LacRX :我之前用的那台18pro就没锯齿感，可能是屏幕用太久，变薄了[笑哭]"
+            },
+            {
+              "uname": "13LacRX",
+              "like": 3,
+              "message": "回复 @迷人羽 :这啥原理?[思考]"
+            },
+            {
+              "uname": "1ovexy",
+              "like": 2,
+              "message": "我是安卓，去年用的lcd手机，感觉屏幕就是微操不灵敏，滑动一帧拉枪没问题，就是微操不行，每次就差一点点。现在换OLED手机了感觉微操变好了，是因为什么呢"
+            },
+            {
+              "uname": "wQbailoveuiii",
+              "like": 2,
+              "message": "miniled怎么样[思考]"
+            },
+            {
+              "uname": "迷人羽",
+              "like": 3,
+              "message": "回复 @你说我菜那我走 :lcd[笑哭]"
+            },
+            {
+              "uname": "wQbailoveuiii",
+              "like": 2,
+              "message": "回复 @迷人羽 :哎不是LED吗？？"
+            },
+            {
+              "uname": "迷人羽",
+              "like": 3,
+              "message": "回复 @你说我菜那我走 :本质上还是lcd"
+            },
+            {
+              "uname": "wQbailoveuiii",
+              "like": 2,
+              "message": "回复 @迷人羽 :哦哦好吧"
+            },
+            {
+              "uname": "slayer-__",
+              "like": 6,
+              "message": "lcd的屏幕没这么好 我查了许多lcd屏幕的手机 触控率和触控延迟也是挺落后的 本人用了k30 现在是note11tpro 妥妥的lcd党 但是就k30的屏幕触控素质可以和一般的高刷手机比一下 之前去了贴吧搜搜触控率的原因 貌似还和屏幕里面的供应方的工艺和触控芯片（？）有关"
+            },
+            {
+              "uname": "RCW-",
+              "like": 4,
+              "message": "这个高敏打远距离时最明显 准心就一格一格地移动敌人左右横移就打不到了 就像手柄打远距离的时候"
+            }
+          ]
+        },
+        {
+          "uname": "西门赫兰",
+          "like": 29,
+          "rcount": 7,
+          "message": "记得grp说过，要让右手的大拇指解放，有足够的空间去滑屏，就不能给食指太多的压力去管很多按键，这样可以帮助拉枪[模糊小黄豆_咻]",
+          "subs": [
+            {
+              "uname": "西门赫兰",
+              "like": 6,
+              "message": "早期玩手机的时候，确实有这样的困难，到后面换了板子稍微好一点，但是最后还是换了键位。不过键位还是自己习惯的好，尽量不要给食指太大压力就行"
+            },
+            {
+              "uname": "西门赫兰",
+              "like": 5,
+              "message": "6:17的触控延迟解释像我这种手机板子轮流玩的人有最大感触（不过这算瞄准内容吗[doge]）每次离家出去用手机打的时候总会有板子戒断反应，触控延迟很明显😡"
+            },
+            {
+              "uname": "西门赫兰",
+              "like": 8,
+              "message": "总的来说视频内容还是比较多的，比较于22年725，grp和神奈他们联合发布的那期视频的瞄准教学，（我原本以为他们那期视频已经是我看到最好的瞄准教学了，这些质量可以和那个相当，还有@光光的阿蝶蝶 做的那个小合集也挺不错）他们视频更多的是讲述如何去培养手眼协调和设置内如何调整更好的设置来符合自己的瞄准习惯，这期视频体现的更多是如何去训练（例如视频后面的模式建议\n很好视频[极简蓝白_尝一口]"
+            },
+            {
+              "uname": "13LacRX",
+              "like": 3,
+              "message": "是的，思路是一样的"
+            },
+            {
+              "uname": "13LacRX",
+              "like": 4,
+              "message": "回复 @HellandS1MON :那一块不是重点，主要讲的是外物对于瞄准的影响"
+            },
+            {
+              "uname": "13LacRX",
+              "like": 4,
+              "message": "回复 @HellandS1MON :回复 @HellandS1MON :其实如何去训练只占这个视频的重要内容的一半，还有一半重点是各种原理、思路，我希望教给大家的是运用思路、原理（所以有很多篇幅是在推导）自己想想可以怎样改进，所有的方法都只是举例，所有的方法都是对原理、本质的实践[脱单doge]"
+            },
+            {
+              "uname": "翼の似天",
+              "like": 2,
+              "message": "沒錯，但我的手指都很短[笑哭]"
+            }
+          ]
+        },
+        {
+          "uname": "代码_-",
+          "like": 28,
+          "rcount": 5,
+          "message": "搞得我想出一个手机教学🌹",
+          "subs": [
+            {
+              "uname": "13LacRX",
+              "like": 2,
+              "message": "一样的其实"
+            },
+            {
+              "uname": "空洞回声",
+              "like": 2,
+              "message": "出！"
+            },
+            {
+              "uname": "沈塞尚Cezanne",
+              "like": 2,
+              "message": "搞得我想出一个手机教学🌹"
+            },
+            {
+              "uname": "Michael_cloud",
+              "like": 2,
+              "message": "快出[打call]"
+            },
+            {
+              "uname": "Rmtree",
+              "like": 2,
+              "message": "出！"
+            }
+          ]
+        },
+        {
+          "uname": "愔骸",
+          "like": 17,
+          "rcount": 2,
+          "message": "他居然投的转载我哭死",
+          "subs": [
+            {
+              "uname": "愔骸",
+              "like": 3,
+              "message": "回复 @G7RL_ :俺手机屏幕小，再加上230高敏感觉没有太大影响"
+            },
+            {
+              "uname": "R3b1k",
+              "like": 3,
+              "message": "回复 @75athoggua : 牛逼起雾"
+            }
+          ]
+        },
+        {
+          "uname": "百里梦回",
+          "like": 16,
+          "rcount": 0,
+          "message": "分享动态",
+          "subs": []
+        },
+        {
+          "uname": "一加壹等于2",
+          "like": 12,
+          "rcount": 1,
+          "message": "食指不固定这个我也发现了，并且确实对我有巨大帮助，up的视频是我看过最有干货的了，我终于明白你们这些怪物是咋么做到既快又准的了，不过我还是难以想象这真是人类可以做到的操作吗?",
+          "subs": [
+            {
+              "uname": "13LacRX",
+              "like": 2,
+              "message": "时间堆出来的[笑哭]"
+            }
+          ]
+        },
+        {
+          "uname": "Copper六",
+          "like": 11,
+          "rcount": 2,
+          "message": "内容很干货，但太费眼睛了，单一画面字太多了，建议拆分为多章节，一个总体思路，其他的讲细节",
+          "subs": [
+            {
+              "uname": "Bkornblume777",
+              "like": 3,
+              "message": "捉"
+            },
+            {
+              "uname": "Copper六",
+              "like": 2,
+              "message": "回复 @EKInfinity :[偷笑][偷笑][偷笑]"
+            }
+          ]
+        },
+        {
+          "uname": "温温Winnov",
+          "like": 11,
+          "rcount": 1,
+          "message": "还有那个摇杆，就是开镜然后接螃蟹步",
+          "subs": [
+            {
+              "uname": "TyrathamZ",
+              "like": 2,
+              "message": "捉，所以你什么时候更新"
+            }
+          ]
+        },
+        {
+          "uname": "CoSmic_MURP",
+          "like": 10,
+          "rcount": 0,
+          "message": "自己的视频建议投自制，反正收益也不怎么样😋",
+          "subs": []
+        },
+        {
+          "uname": "RAFBKTOH",
+          "like": 9,
+          "rcount": 3,
+          "message": "@墨音MoyVanHerge 怪不得我今天老是马枪，原来都是300灵敏加150距离加速加100fov的错[支持]",
+          "subs": [
+            {
+              "uname": "墨音MoyVanHerge",
+              "like": 2,
+              "message": "我关注的是bgm，这个up太有品了"
+            },
+            {
+              "uname": "13LacRX",
+              "like": 3,
+              "message": "fov上限不是90？"
+            },
+            {
+              "uname": "RAFBKTOH",
+              "like": 2,
+              "message": "回复 @13LacRX :看成持枪视角了，我fov是90"
+            }
+          ]
+        },
+        {
+          "uname": "方方Yoshiki",
+          "like": 8,
+          "rcount": 1,
+          "message": "恭喜🫶🏻",
+          "subs": [
+            {
+              "uname": "Hrinshen-旿",
+              "like": 2,
+              "message": "捉"
+            }
+          ]
+        },
+        {
+          "uname": "无头泉",
+          "like": 7,
+          "rcount": 0,
+          "message": "我一直以为划出式有点奇葩（这是我15岁是悟出来的），因为我觉得他比较准，也不像划入式一样麻烦，我一般只有微调的时候用划入式，只能说遇到同类很兴奋[doge]",
+          "subs": []
+        },
+        {
+          "uname": "0ctober_",
+          "like": 7,
+          "rcount": 0,
+          "message": "理论上如果想要在实战中转火除了本身的瞄准能力，控枪和对游戏弹道理解也多少得有，但前提还是基本功",
+          "subs": []
+        },
+        {
+          "uname": "-J0urney-",
+          "like": 7,
+          "rcount": 2,
+          "message": "好歌品，听哭了[大哭]",
+          "subs": [
+            {
+              "uname": "13LacRX",
+              "like": 3,
+              "message": "可以由此视频入坑爵士[脱单doge]"
+            },
+            {
+              "uname": "-J0urney-",
+              "like": 3,
+              "message": "回复 @13LacRX :已经入了[笑哭]n叔太好听了"
+            }
+          ]
+        },
+        {
+          "uname": "正好我玩使命召唤",
+          "like": 6,
+          "rcount": 1,
+          "message": "想必你已经学会了利用高敏进行外挂一样的转火，那么开始一把紧张刺激的原神吧",
+          "subs": [
+            {
+              "uname": "叫我小东就好114",
+              "like": 2,
+              "message": "收到"
+            }
+          ]
+        },
+        {
+          "uname": "沅沅Zzz7",
+          "like": 6,
+          "rcount": 14,
+          "message": "原来你发过如此高质量的教学，学到了",
+          "subs": [
+            {
+              "uname": "13LacRX",
+              "like": 9,
+              "message": "那个时候刚1000粉没流量[笑哭]，其实理论讲的都还太粗浅了，最近看pc瞄准理论发现了更牛逼的东西"
+            },
+            {
+              "uname": "13LacRX",
+              "like": 4,
+              "message": "BV1SSC9YnEHZ"
+            },
+            {
+              "uname": "沅沅Zzz7",
+              "like": 3,
+              "message": "回复 @TEXHN0LYZE :你发这个的时候我刚入坑可惜当时没刷到，到现在看还能学到好多东西"
+            },
+            {
+              "uname": "沅沅Zzz7",
+              "like": 3,
+              "message": "回复 @TEXHN0LYZE :我看看"
+            },
+            {
+              "uname": "13LacRX",
+              "like": 3,
+              "message": "回复 @沅Zzz :这么短时间就这么吊了，天才啊[笑哭][支持]"
+            },
+            {
+              "uname": "沅沅Zzz7",
+              "like": 3,
+              "message": "回复 @TEXHN0LYZE :赶上好时代了24年各种教学视频太全面了，没怎么自己摸索，各种到处学别人"
+            },
+            {
+              "uname": "FRAWTON",
+              "like": 3,
+              "message": "回复 @TEXHN0LYZE :私密了，看不了了，能讲一下里面说了什么嘛"
+            },
+            {
+              "uname": "13LacRX",
+              "like": 4,
+              "message": "回复 @゙゙゙菲伦 :原片十几分钟，说不清楚的，主题是瞄准的注意力分配等理论[笑哭]"
+            },
+            {
+              "uname": "FRAWTON",
+              "like": 3,
+              "message": "回复 @TEXHN0LYZE :原作者是谁"
+            },
+            {
+              "uname": "13LacRX",
+              "like": 3,
+              "message": "回复 @゙゙゙菲伦 :Phoegazer"
+            },
+            {
+              "uname": "再信一次纯爱",
+              "like": 3,
+              "message": "回复 @TEXHN0LYZE :发出来学习学习[呲牙][呲牙]"
+            },
+            {
+              "uname": "13LacRX",
+              "like": 4,
+              "message": "回复 @itz_花袭人 :被原作者设为仅自己可见了"
+            },
+            {
+              "uname": "G7RL_",
+              "like": 3,
+              "message": "回复 @13LacRX :考古还能有新发现哈哈"
+            },
+            {
+              "uname": "装博一是犯法的",
+              "like": 2,
+              "message": "回复 @XRcaL31 :紫色小球绿色小球训练视野与注意力分配那个吗？"
+            }
+          ]
+        },
+        {
+          "uname": "yamire",
+          "like": 6,
+          "rcount": 1,
+          "message": "手机也能食指不固定瞄准吗",
+          "subs": [
+            {
+              "uname": "13LacRX",
+              "like": 2,
+              "message": "我现如今玩手机就是这样的，原理都一样的"
+            }
+          ]
+        },
+        {
+          "uname": "Ditto0430",
+          "like": 6,
+          "rcount": 1,
+          "message": "想问下up转火过程中击杀第一个目标后是先眼睛捕捉下一个目标还是先一次定位到大概位置还是两者同时进行",
+          "subs": [
+            {
+              "uname": "13LacRX",
+              "like": 4,
+              "message": "目标信息在还没开镜时就知道了，大致要打的位置也就知道了，镜内应该是同时进行吧，看到了拉过去就行了"
+            }
+          ]
+        },
+        {
+          "uname": "安稳丶Tiger",
+          "like": 6,
+          "rcount": 1,
+          "message": "[热词系列_呵呵]平板\n快用手机复刻",
+          "subs": [
+            {
+              "uname": "13LacRX",
+              "like": 3,
+              "message": "复刻不了，我自己手机已经坏了"
+            }
+          ]
+        },
+        {
+          "uname": "只差一步",
+          "like": 6,
+          "rcount": 1,
+          "message": "仿安仔改的键，还能更新吗？",
+          "subs": [
+            {
+              "uname": "13LacRX",
+              "like": 3,
+              "message": "按原理来吧"
+            }
+          ]
+        },
+        {
+          "uname": "slayer-__",
+          "like": 6,
+          "rcount": 8,
+          "message": "食指不固定其实类似于鼠标的纯手腕流 小臂不与手腕摆动的情况下 这时候在鼠标垫上滑动鼠标就画了个弧形 如果不是鼠标设计中心的话 基本很难瞄准到位",
+          "subs": [
+            {
+              "uname": "13LacRX",
+              "like": 3,
+              "message": "其实纯手腕流跟食指不固定还是没法类比的"
+            },
+            {
+              "uname": "slayer-__",
+              "like": 4,
+              "message": "回复 @13LacRX :确实啊 前者重点的是协调来加大瞄准正确性和瞄准空间的 后者的话还需要自己的手指来改变自己的习惯等等 可能共同点都是固定的话能画出弧形把。。"
+            },
+            {
+              "uname": "slayer-__",
+              "like": 3,
+              "message": "回复 @13LacRX :说错了其实是手指固定"
+            },
+            {
+              "uname": "13LacRX",
+              "like": 4,
+              "message": "回复 @peterlol28 :是的，我能想象出来，就是纯纯画弧这种情况对手游玩家来说太理想化了[笑哭]"
+            },
+            {
+              "uname": "LTG落幕",
+              "like": 3,
+              "message": "我也是近段时间才发现的，比起用食指滑动，我直接用手腕还进行拉抢反而跟锁子一样，可惜手机需要握持，不太支持这种玩法或者说我不太习惯[辣眼睛][辣眼睛][辣眼睛]"
+            },
+            {
+              "uname": "slayer-__",
+              "like": 2,
+              "message": "其实的话你可以去买个手指架来打的 但是的话一般的手架例如很塑胶且便宜的话手机横屏根本支撑不了其重量 你可以专门买个贵一点有强硬的底盘和脚架支撑的手机架 这样的话手机就不用握持了"
+            },
+            {
+              "uname": "FRAWTON",
+              "like": 2,
+              "message": "回复 @LTG落幕 :你到底玩手游还是玩端游[笑哭][笑哭]"
+            },
+            {
+              "uname": "LTG落幕",
+              "like": 2,
+              "message": "回复 @゙゙゙菲伦 :嗯哼?都玩来着[思考][妙啊][妙啊]"
+            }
+          ]
+        },
+        {
+          "uname": "羁灞蚊",
+          "like": 5,
+          "rcount": 7,
+          "message": "手指不稳拉枪的时候会回弹或者乱动怎么解决[脱单doge]",
+          "subs": [
+            {
+              "uname": "13LacRX",
+              "like": 3,
+              "message": "说明你手指还没习惯，多练"
+            },
+            {
+              "uname": "羁灞蚊",
+              "like": 3,
+              "message": "回复 @TEXHN0LYZE :简单来说就是欠练是吧，豪德"
+            },
+            {
+              "uname": "13LacRX",
+              "like": 3,
+              "message": "回复 @羁灞蚊 :没适应新操作习惯估计，保持刻意练习直到习以为常不再失误就行了"
+            },
+            {
+              "uname": "羁灞蚊",
+              "like": 3,
+              "message": "回复 @13LacRX :upup我现在练枪的时候大拇指疼是正常现象吗，是不是只要挺过去就好了"
+            },
+            {
+              "uname": "13LacRX",
+              "like": 3,
+              "message": "回复 @羁灞蚊 :身体健康最重要，痛就说明出问题了，找到合适的舒适的方法再继续吧，先休息等到不痛了再说[笑哭]"
+            },
+            {
+              "uname": "羁灞蚊",
+              "like": 3,
+              "message": "回复 @13LacRX :虽说拉枪的时候疼但我感觉到准度明显上来了，现在我拉枪就是手指比较用力不用力打不准，那可能也是我自己问题我找找原因吧（别的up像我问这么多问题都不带鸟我的）"
+            },
+            {
+              "uname": "13LacRX",
+              "like": 6,
+              "message": "回复 @羁灞蚊 :那估计是过渡期到了，我刚开始练习提升时也是很用力的瞄准，质变后渐渐的就发现刻意感和用力感消失了，至于疼痛我几乎没有，你大拇指不是病理性的疼痛的话那估计就是肌肉过度劳累导致的，我还是建议不要过度，一切以健康为重，等到手指恢复了再练吧，这段时间少练一些。至于回答问题，我觉得既然发了教程那就有责任为之负责到底[笑哭][支持]"
+            }
+          ]
+        },
+        {
+          "uname": "6绿色的紫甘蓝5",
+          "like": 5,
+          "rcount": 0,
+          "message": "UP千万别删，我七月份回游来看[脱单doge][脸红][脱单doge]",
+          "subs": []
+        },
+        {
+          "uname": "大怪兽日花",
+          "like": 5,
+          "rcount": 1,
+          "message": "手机二指基本做不到的操作，上版本匹配机制也给我一击已经打算练多指了。。",
+          "subs": [
+            {
+              "uname": "13LacRX",
+              "like": 3,
+              "message": "加油！[脱单doge]"
+            }
+          ]
+        },
+        {
+          "uname": "友利娜娜",
+          "like": 5,
+          "rcount": 0,
+          "message": "最强转火教程 也是最佳瞄准练习 入坑视频",
+          "subs": []
+        },
+        {
+          "uname": "随便了各位",
+          "like": 5,
+          "rcount": 0,
+          "message": "视频里面那个基础定位，二次定位，身法定位的那个视频，一年前看的，就是因为那个视频我才接触战火，一直到现在[笑哭]",
+          "subs": []
+        },
+        {
+          "uname": "花满堵",
+          "like": 5,
+          "rcount": 5,
+          "message": "那个练枪软件哪有啊 up[doge]",
+          "subs": [
+            {
+              "uname": "13LacRX",
+              "like": 3,
+              "message": "哪个"
+            },
+            {
+              "uname": "花满堵",
+              "like": 3,
+              "message": "回复 @13LacRX :就是最后描小球的[doge]"
+            },
+            {
+              "uname": "13LacRX",
+              "like": 2,
+              "message": "回复 @花满堵 :可能只有ios有，你b站搜aimlab看看"
+            },
+            {
+              "uname": "yFEeeer",
+              "like": 3,
+              "message": "回复 @花满堵 :谷歌商店也有"
+            },
+            {
+              "uname": "8bitのアリス",
+              "like": 3,
+              "message": "回复 @13LacRX :安卓也有，搜瞄准实验室可以搜到"
+            }
+          ]
+        },
+        {
+          "uname": "Yk3x",
+          "like": 5,
+          "rcount": 0,
+          "message": "国内少有的转火教程 真的讲的太好了[打call]",
+          "subs": []
+        },
+        {
+          "uname": "神秘狗锋需要技巧",
+          "like": 4,
+          "rcount": 1,
+          "message": "致我认识daft punk 和lucsic的作品[爱心]",
+          "subs": [
+            {
+              "uname": "神秘狗锋需要技巧",
+              "like": 3,
+              "message": "打错了是luvsic[笑哭]"
+            }
+          ]
+        },
+        {
+          "uname": "D7aporiA_",
+          "like": 4,
+          "rcount": 0,
+          "message": "感谢up，看了up的视频感觉吃灵感菇了，现在感觉成pro了，但转火还有点弱，故决定多弥补设备上的差距[少女乐队呐喊动态表情_干饭]",
+          "subs": []
+        },
+        {
+          "uname": "Idjdjdjdjs",
+          "like": 4,
+          "rcount": 2,
+          "message": "名式？[思考]",
+          "subs": [
+            {
+              "uname": "13LacRX",
+              "like": 3,
+              "message": "？？"
+            },
+            {
+              "uname": "Idjdjdjdjs",
+              "like": 3,
+              "message": "回复 @13LacRX :看错了我还以为名式改名打三角洲了[笑哭]"
+            }
+          ]
+        },
+        {
+          "uname": "道具库-爱月夜眠迟",
+          "like": 4,
+          "rcount": 1,
+          "message": "距离加速并不差，速度加速指数增长太快，固定上限太低，距离有固定的恒定，也有速度的上限",
+          "subs": [
+            {
+              "uname": "道具库-爱月夜眠迟",
+              "like": 2,
+              "message": "我也只是听了其他FPS的然后用到这个游戏，其实就手游来说，固定够了，但只有固定，好多现在的背身枪打不出来"
+            }
+          ]
+        },
+        {
+          "uname": "我在風中扯刀灮",
+          "like": 4,
+          "rcount": 1,
+          "message": "抖音刷到了这个包浆的视频 我还以为是啥上古时代的视频",
+          "subs": [
+            {
+              "uname": "13LacRX",
+              "like": 3,
+              "message": "并非上古[汤圆]"
+            }
+          ]
+        },
+        {
+          "uname": "心爱0V0",
+          "like": 4,
+          "rcount": 0,
+          "message": "看了有很多想法，但本人才识浅薄，还需要多观摩几遍",
+          "subs": []
+        },
+        {
+          "uname": "心爱0V0",
+          "like": 4,
+          "rcount": 2,
+          "message": "手机怎么做食指不固定？",
+          "subs": [
+            {
+              "uname": "13LacRX",
+              "like": 5,
+              "message": "同样的道理，手机平板都一样的"
+            },
+            {
+              "uname": "心爱0V0",
+              "like": 3,
+              "message": "回复 @13LacRX :谢谢up"
+            }
+          ]
+        },
+        {
+          "uname": "Linking_Love",
+          "like": 4,
+          "rcount": 1,
+          "message": "pc玩家也受益匪浅呢[来古-注意]",
+          "subs": [
+            {
+              "uname": "13LacRX",
+              "like": 2,
+              "message": "pc玩家能吃更好的。琪露诺，付给泽，大洞眼等等[笑哭]"
+            }
+          ]
+        },
+        {
+          "uname": "若葉睦降臨",
+          "like": 4,
+          "rcount": 0,
+          "message": "@sosryfw 来学",
+          "subs": []
+        },
+        {
+          "uname": "namedcharacter",
+          "like": 4,
+          "rcount": 5,
+          "message": "18Pro好用吗，想入",
+          "subs": [
+            {
+              "uname": "13LacRX",
+              "like": 3,
+              "message": "还行，现在两千多，比较便宜但是已经很老的设备了，不如攒点钱买pro21或者22"
+            },
+            {
+              "uname": "namedcharacter",
+              "like": 4,
+              "message": "回复 @13LacRX :我暑假的钱只够买12.9的18Pro或着11寸的20选哪个好一点"
+            },
+            {
+              "uname": "13LacRX",
+              "like": 3,
+              "message": "回复 @夏日绫音 :18，20跟18除了外观基本没差别，处理器a12z和a12x性能差距就一个核心，性能差不多相同"
+            },
+            {
+              "uname": "namedcharacter",
+              "like": 3,
+              "message": "回复 @13LacRX :那2gb运存影响应该不大吧"
+            },
+            {
+              "uname": "13LacRX",
+              "like": 2,
+              "message": "回复 @夏日绫音 :打codm够了"
+            }
+          ]
+        },
+        {
+          "uname": "Such_a_Rain",
+          "like": 4,
+          "rcount": 1,
+          "message": "我最早看到说肌肉记忆不存在/没用的是G宝，人家大拇指和食指照样锁",
+          "subs": [
+            {
+              "uname": "13LacRX",
+              "like": 2,
+              "message": "是的"
+            }
+          ]
+        },
+        {
+          "uname": "CoSmic_MURP",
+          "like": 4,
+          "rcount": 0,
+          "message": "收藏比点赞还多[视频卫星]",
+          "subs": []
+        },
+        {
+          "uname": "缘分看我揍命运",
+          "like": 4,
+          "rcount": 0,
+          "message": "找到适合最自己灵敏度的前提一定是适应设备 做大量的搓屏练习 因为目前移动设备的采样率真的不高 最要命的是好多安卓手机延迟还高 哪怕你找到的灵敏度是对的 也会因为对屏幕的掌控不够深入而一改在改 如果有一天你练到对你的设备屏幕了如指掌 那么一定你的理解也会提上去 这时候你在结合你的搓屏经验改灵敏度 自然就变锁了 自己的理解比什么都重要",
+          "subs": []
+        },
+        {
+          "uname": "理查德一汪苏泷",
+          "like": 4,
+          "rcount": 0,
+          "message": "我们需要更多转火玩家",
+          "subs": []
+        },
+        {
+          "uname": "壹玖233",
+          "like": 4,
+          "rcount": 5,
+          "message": "为什么只能投一个币呢（？）",
+          "subs": [
+            {
+              "uname": "13LacRX",
+              "like": 4,
+              "message": "投的转载"
+            },
+            {
+              "uname": "壹玖233",
+              "like": 3,
+              "message": "回复 @13LacRX :我知道这一点（）我的意思是 这不是你的原创内容吗 为什么投转载呢（从而导致只能投一个币）"
+            },
+            {
+              "uname": "13LacRX",
+              "like": 5,
+              "message": "回复 @壹玖233 :一是防止有些魔怔人瞎骂，二是做点公益"
+            },
+            {
+              "uname": "13LacRX",
+              "like": 5,
+              "message": "回复 @壹玖233 :三是我没有征求一部分up同意就引用了"
+            },
+            {
+              "uname": "壹玖233",
+              "like": 3,
+              "message": "回复 @13LacRX :了解了：- D（视频真的很不错！）"
+            }
+          ]
+        },
+        {
+          "uname": "啵凹子",
+          "like": 4,
+          "rcount": 3,
+          "message": "板子啊，那没事了",
+          "subs": [
+            {
+              "uname": "方方Yoshiki",
+              "like": 3,
+              "message": "傻子啊，那没事了"
+            },
+            {
+              "uname": "Amamiyaノ",
+              "like": 3,
+              "message": "傻子啊，那没事了"
+            },
+            {
+              "uname": "啵凹子",
+              "like": 3,
+              "message": "额，职业用板子还是傻子，我有点没分清"
+            }
+          ]
+        },
+        {
+          "uname": "Michael_cloud",
+          "like": 4,
+          "rcount": 3,
+          "message": "食指不固定的方式，倘若把开火和开镜一起放在左上角是不是就能直接解决了呢",
+          "subs": [
+            {
+              "uname": "13LacRX",
+              "like": 4,
+              "message": "是的，但是这个键位用的人应该比较少吧，这样给左手的压力就会很大，既要做身法又要开镜和开火[笑哭]，反正原理都一样，右手自由度越高瞄准的上限就越高"
+            },
+            {
+              "uname": "哥布林itz",
+              "like": 2,
+              "message": "其实这个键位就是传统派五指，容易做身法，但在手机上使用时右手拇指瞄准空间小"
+            },
+            {
+              "uname": "ヒシモ宫",
+              "like": 3,
+              "message": "回复 @13LacRX :说真的，我就是[妙啊]"
+            }
+          ]
+        },
+        {
+          "uname": "Yokai9x",
+          "like": 4,
+          "rcount": 3,
+          "message": "关于食指不固定，如果更换键位让右食不负责按住开镜就解决了一大半",
+          "subs": [
+            {
+              "uname": "13LacRX",
+              "like": 3,
+              "message": "右手用于瞄准，反正限制越少越好，但需要考虑稳定性，至于你说的改键位除非把右手只剩下一个大拇指用来划屏否则是不行的[doge]"
+            },
+            {
+              "uname": "Yokai9x",
+              "like": 3,
+              "message": "回复 @13LacRX :我正在试左3右1😂😂😂"
+            },
+            {
+              "uname": "13LacRX",
+              "like": 3,
+              "message": "回复 @Galaxia7Zz :厉害👍"
+            }
+          ]
+        },
+        {
+          "uname": "超级孙火柴",
+          "like": 4,
+          "rcount": 0,
+          "message": "音乐好听 内容纯干货 很难不支持",
+          "subs": []
+        },
+        {
+          "uname": "米兜_",
+          "like": 4,
+          "rcount": 0,
+          "message": "经常性初预瞄准然后就不敢拉了或者是说没反应过来[阿梓_真接受不了]太难",
+          "subs": []
+        },
+        {
+          "uname": "Badba1",
+          "like": 4,
+          "rcount": 1,
+          "message": "整上论文了是吧",
+          "subs": [
+            {
+              "uname": "13LacRX",
+              "like": 4,
+              "message": "这样阐述会严谨、清楚一点[脱单doge]"
+            }
+          ]
+        },
+        {
+          "uname": "G7RL_",
+          "like": 4,
+          "rcount": 1,
+          "message": "有没有用移动轮盘修正瞄准的呢 沙皇之前有提到过 我自己移动轮盘控的不太好这个也间接影响了我的瞄准",
+          "subs": [
+            {
+              "uname": "13LacRX",
+              "like": 5,
+              "message": "这个影响太小了吧，练习成本也不低，我认为还不如直接使用手指，轮盘可以辅助平时对枪时的跟枪（跟着敌人同方向移动），但是这样也导致了敌人更好对你进行瞄准"
+            }
+          ]
+        },
+        {
+          "uname": "本人懒得打字",
+          "like": 4,
+          "rcount": 0,
+          "message": "@Zdh_cici @白给勇者 [doge]",
+          "subs": []
+        },
+        {
+          "uname": "Grenzlinie1909",
+          "like": 4,
+          "rcount": 0,
+          "message": "牛逼哥我太喜欢了",
+          "subs": []
+        },
+        {
+          "uname": "sadwitmyFkstreet",
+          "like": 3,
+          "rcount": 2,
+          "message": "没看懂划出划入有啥区别 不都是重新放回手指划两次吗",
+          "subs": [
+            {
+              "uname": "13LacRX",
+              "like": 4,
+              "message": "划入就是指手指从空中落下接触屏幕后不再离开屏幕\n而划出则是手指从空中落下接触屏幕后再次顺势划出回到空中（就像你翻相册照片时手指的划拉过程）"
+            },
+            {
+              "uname": "sadwitmyFkstreet",
+              "like": 3,
+              "message": "回复 @13LacRX :感谢解答"
+            }
+          ]
+        },
+        {
+          "uname": "剑铸复折",
+          "like": 3,
+          "rcount": 3,
+          "message": "开头那一段音乐好好听，up现在还记得是什么吗[doge]",
+          "subs": [
+            {
+              "uname": "13LacRX",
+              "like": 4,
+              "message": "daft punk的touch"
+            },
+            {
+              "uname": "神秘狗锋需要技巧",
+              "like": 2,
+              "message": "回复 @13LacRX :真的感谢你了13歌品太好了 这个视频算是我各方面的启蒙了 即是codm转火也是daft punk 和nujabes的音乐 thanks for you"
+            },
+            {
+              "uname": "13LacRX",
+              "like": 2,
+              "message": "回复 @神秘狗锋需要技巧 :感谢字词[喜欢]"
+            }
+          ]
+        },
+        {
+          "uname": "一杆大铁枪",
+          "like": 3,
+          "rcount": 0,
+          "message": "给大家省流:虚空教学，不信可看",
+          "subs": []
+        },
+        {
+          "uname": "qjrh7695",
+          "like": 3,
+          "rcount": 1,
+          "message": "主播咋转的180度?2次滑屏吗，为啥看着感觉没有停顿感[大哭]",
+          "subs": [
+            {
+              "uname": "叫我小东就好114",
+              "like": 2,
+              "message": "拉高灵敏度"
+            }
+          ]
+        },
+        {
+          "uname": "C74heng",
+          "like": 3,
+          "rcount": 0,
+          "message": "王朝了，这个视频也是你的啊，歌不错",
+          "subs": []
+        },
+        {
+          "uname": "izunnrzy",
+          "like": 3,
+          "rcount": 0,
+          "message": "撸",
+          "subs": []
+        },
+        {
+          "uname": "D4Jun0714",
+          "like": 3,
+          "rcount": 0,
+          "message": "撸",
+          "subs": []
+        },
+        {
+          "uname": "蚊蚊蚊蚊蚊-",
+          "like": 3,
+          "rcount": 1,
+          "message": "upup我现在有时候看人感觉看不清楚人就是像是在看2d的东西一样，不能精确的把人挑出来，像这种应该怎么练",
+          "subs": [
+            {
+              "uname": "13LacRX",
+              "like": 3,
+              "message": "不知道，我历程没有过这种感觉，有时候我也会看不到静态目标，但看起来跟你这种情况不是一回事"
+            }
+          ]
+        },
+        {
+          "uname": "老丈人667",
+          "like": 3,
+          "rcount": 0,
+          "message": "考古",
+          "subs": []
+        },
+        {
+          "uname": "翼の似天",
+          "like": 3,
+          "rcount": 1,
+          "message": "請問需要做原地不動特意壓彈道的定位嗎？",
+          "subs": [
+            {
+              "uname": "13LacRX",
+              "like": 4,
+              "message": "看你情况，你压不住枪的话可以先这么练压枪，循序渐进反正"
+            }
+          ]
+        },
+        {
+          "uname": "999icE",
+          "like": 3,
+          "rcount": 1,
+          "message": "感谢你的教学，尤其是手指不固定。请问固定加速和速度加速哪个上手更快？（平板）",
+          "subs": [
+            {
+              "uname": "13LacRX",
+              "like": 3,
+              "message": "固定"
+            }
+          ]
+        },
+        {
+          "uname": "华东彦",
+          "like": 3,
+          "rcount": 0,
+          "message": "大神教我扫射转移[给心心][给心心][给心心]",
+          "subs": []
+        },
+        {
+          "uname": "2119QwT",
+          "like": 3,
+          "rcount": 0,
+          "message": "毫无保留的讲解出来，我认为这种行为是高尚的",
+          "subs": []
+        },
+        {
+          "uname": "MK鸡蛋",
+          "like": 3,
+          "rcount": 1,
+          "message": "@Kelley-Stock",
+          "subs": [
+            {
+              "uname": "Kelley-Stock",
+              "like": 3,
+              "message": "早看过了"
+            }
+          ]
+        },
+        {
+          "uname": "silent9r",
+          "like": 3,
+          "rcount": 0,
+          "message": "说句真心话 质量真的超级高 比平时那些高播放了无意义视频好多了[支持]",
+          "subs": []
+        },
+        {
+          "uname": "W_TAsa",
+          "like": 3,
+          "rcount": 0,
+          "message": "家人们[大哭]终于在手游里发现这样的人啦 很好的视频[爱心]",
+          "subs": []
+        },
+        {
+          "uname": "店长夫人",
+          "like": 3,
+          "rcount": 0,
+          "message": "faye[大哭]",
+          "subs": []
+        },
+        {
+          "uname": "Le1Na",
+          "like": 3,
+          "rcount": 0,
+          "message": "666这个入开桂了",
+          "subs": []
+        },
+        {
+          "uname": "吴楔橙",
+          "like": 3,
+          "rcount": 0,
+          "message": "1145点赞，太臭力[doge]",
+          "subs": []
+        },
+        {
+          "uname": "三角洲策划衣架似了",
+          "like": 3,
+          "rcount": 0,
+          "message": "关了吧哥，我害怕[妙啊]",
+          "subs": []
+        },
+        {
+          "uname": "森森SenYuri",
+          "like": 3,
+          "rcount": 0,
+          "message": "好教",
+          "subs": []
+        },
+        {
+          "uname": "阿饭忘睡觉了",
+          "like": 3,
+          "rcount": 0,
+          "message": "今天才看到[白神遥_阿巴阿巴]",
+          "subs": []
+        },
+        {
+          "uname": "风雨吹花落",
+          "like": 3,
+          "rcount": 1,
+          "message": "想菲了",
+          "subs": [
+            {
+              "uname": "13LacRX",
+              "like": 3,
+              "message": "去塑料追寻他的脚步吧（￣▽￣）"
+            }
+          ]
+        },
+        {
+          "uname": "Yuz1baby",
+          "like": 3,
+          "rcount": 0,
+          "message": "非常感谢教学[脸红]解决我一些一直困扰的问题，三连捧上[给心心]",
+          "subs": []
+        },
+        {
+          "uname": "2111119QwT",
+          "like": 3,
+          "rcount": 0,
+          "message": "讲的很好",
+          "subs": []
+        },
+        {
+          "uname": "QZZ1793",
+          "like": 3,
+          "rcount": 0,
+          "message": "确实是帅的😎",
+          "subs": []
+        },
+        {
+          "uname": "b1ueTvT",
+          "like": 3,
+          "rcount": 0,
+          "message": "无敌拉枪1",
+          "subs": []
+        },
+        {
+          "uname": "Ppowe3r",
+          "like": 3,
+          "rcount": 0,
+          "message": "爵士大手",
+          "subs": []
+        },
+        {
+          "uname": "理查德一汪苏泷",
+          "like": 3,
+          "rcount": 0,
+          "message": "好啊",
+          "subs": []
+        },
+        {
+          "uname": "Defiles",
+          "like": 3,
+          "rcount": 0,
+          "message": "我这玩全陀怎么办",
+          "subs": []
+        },
+        {
+          "uname": "bili_89176200514",
+          "like": 3,
+          "rcount": 0,
+          "message": "嗯，很棒的視頻。對於我這種一直在考慮要不要換掉食指開鏡的人有很大幫助。",
+          "subs": []
+        },
+        {
+          "uname": "LilClear",
+          "like": 3,
+          "rcount": 0,
+          "message": "转火让人看得很舒服😌",
+          "subs": []
+        },
+        {
+          "uname": "佳门-爱和存在-思念",
+          "like": 3,
+          "rcount": 2,
+          "message": "我想知道在转火的过程中定位的时候是开火还是不开火，就是当你打完一个目标后转向瞄准另一个目标的这个时间是开火还是不开火麻烦up 帮忙回答一下，蟹蟹[脱单doge][脱单doge][脱单doge]",
+          "subs": [
+            {
+              "uname": "13LacRX",
+              "like": 3,
+              "message": "一般是开火的"
+            },
+            {
+              "uname": "Badba1",
+              "like": 2,
+              "message": "转火就是不断火拉枪"
+            }
+          ]
+        },
+        {
+          "uname": "ShiningLugiel",
+          "like": 3,
+          "rcount": 1,
+          "message": "是不是少了具体的键位教学",
+          "subs": [
+            {
+              "uname": "13LacRX",
+              "like": 3,
+              "message": "按原理来就行了"
+            }
+          ]
+        },
+        {
+          "uname": "海瓣",
+          "like": 3,
+          "rcount": 2,
+          "message": "fps手游适合高敏还是低敏",
+          "subs": [
+            {
+              "uname": "13LacRX",
+              "like": 2,
+              "message": "各有优劣，就codm来说，低敏更吃香"
+            },
+            {
+              "uname": "UID533089288",
+              "like": 2,
+              "message": "普遍来说低些好，方便更精确的瞄人，特别是没辅助瞄准的游戏"
+            }
+          ]
+        },
+        {
+          "uname": "坏猫Re",
+          "like": 3,
+          "rcount": 3,
+          "message": "up想知道更多关于手指不固定",
+          "subs": [
+            {
+              "uname": "13LacRX",
+              "like": 3,
+              "message": "你得问我才能答啊"
+            },
+            {
+              "uname": "坏猫Re",
+              "like": 3,
+              "message": "回复 @13LacRX :怎么玩明白玩一天好懵🫡"
+            },
+            {
+              "uname": "13LacRX",
+              "like": 2,
+              "message": "回复 @坏猫Re :啊？"
+            }
+          ]
+        },
+        {
+          "uname": "1良药苦口",
+          "like": 3,
+          "rcount": 0,
+          "message": "[doge]想象自己是个陀螺",
+          "subs": []
+        },
+        {
+          "uname": "whoslovinu",
+          "like": 3,
+          "rcount": 0,
+          "message": "六指的右手中指开镜算不固定吗",
+          "subs": []
+        },
+        {
+          "uname": "爱媛川",
+          "like": 3,
+          "rcount": 0,
+          "message": "520",
+          "subs": []
+        },
+        {
+          "uname": "账号已注销",
+          "like": 3,
+          "rcount": 0,
+          "message": "省流：很简单，设备（屏幕不断触），指套，练定位和拉枪，打人机，再结合定位和拉枪打人机，姿势一定要正确，然后打真人训练，实战",
+          "subs": []
+        },
+        {
+          "uname": "2Ut0mAy0",
+          "like": 3,
+          "rcount": 0,
+          "message": "什么枪捞的最爽",
+          "subs": []
+        },
+        {
+          "uname": "-无名诗人",
+          "like": 3,
+          "rcount": 0,
+          "message": "眼睛会了，手……",
+          "subs": []
+        },
+        {
+          "uname": "定无数目标",
+          "like": 3,
+          "rcount": 0,
+          "message": "视频看完了，其中食指不固定打破了我的固有思维对我帮助很大，已三连期待更好的作品[打call][打call][打call]",
+          "subs": []
+        },
+        {
+          "uname": "实沉TuT",
+          "like": 3,
+          "rcount": 0,
+          "message": "质量太高了学到了很多三连了[OK]",
+          "subs": []
+        },
+        {
+          "uname": "屑菌类",
+          "like": 3,
+          "rcount": 0,
+          "message": "太强了",
+          "subs": []
+        },
+        {
+          "uname": "X9TN",
+          "like": 3,
+          "rcount": 1,
+          "message": "不玩CODM，但三连",
+          "subs": [
+            {
+              "uname": "13LacRX",
+              "like": 3,
+              "message": "谢谢"
+            }
+          ]
+        },
+        {
+          "uname": "Nappa_",
+          "like": 3,
+          "rcount": 0,
+          "message": "你终于一千粉了[星星眼]",
+          "subs": []
+        },
+        {
+          "uname": "衾弈",
+          "like": 3,
+          "rcount": 2,
+          "message": "@北极星下士A16B3",
+          "subs": [
+            {
+              "uname": "北极星下士A16B3",
+              "like": 3,
+              "message": "[doge]"
+            },
+            {
+              "uname": "北极星下士A16B3",
+              "like": 3,
+              "message": "还得是你[doge][doge][doge]"
+            }
+          ]
+        },
+        {
+          "uname": "野猪屠夫314",
+          "like": 3,
+          "rcount": 0,
+          "message": "很系统很用心的教学，点了",
+          "subs": []
+        },
+        {
+          "uname": "路旁的交错式负重轮",
+          "like": 3,
+          "rcount": 3,
+          "message": "五指，手机，左三右二（左边的食指和中指用来开镜和开火，右边的食指用来做身法，拇指瞄准）感觉右手的食指确实像up说的一样，像轴一样，但是没法离开，想问一下up还有各位有什么解决方法[微笑]，还是说需要改键位？[脱单doge]",
+          "subs": [
+            {
+              "uname": "13LacRX",
+              "like": 5,
+              "message": "改键位吧，左手做身法，右手专注瞄准"
+            },
+            {
+              "uname": "路旁的交错式负重轮",
+              "like": 4,
+              "message": "改了一下，确实右手的瞄准一下干净了不少[星星眼]已经三连了，希望up能多更这样的高质量视频。顺便问一下，有没有做热点教学的想法?[脱单doge]"
+            },
+            {
+              "uname": "13LacRX",
+              "like": 3,
+              "message": "回复 @路旁的交错式负重轮 :没有，我意识不是很强"
+            }
+          ]
+        },
+        {
+          "uname": "泡澡沉睡",
+          "like": 3,
+          "rcount": 0,
+          "message": "终于知道大佬为什么拉的这么快了[笑哭]",
+          "subs": []
+        },
+        {
+          "uname": "2ndsame",
+          "like": 3,
+          "rcount": 1,
+          "message": "这方面的教学是相对匮乏的吧 从这教学的角度就值得三连",
+          "subs": [
+            {
+              "uname": "R3b1k",
+              "like": 2,
+              "message": "CODM圈子都忙魔怔饭圈去了根本没人上升到瞄准角度 反观隔壁和平精英这方面氛围更好"
+            }
+          ]
+        },
+        {
+          "uname": "卿缆棠",
+          "like": 3,
+          "rcount": 1,
+          "message": "@不憨憨的沙雕 呃，你觉得怎么样？",
+          "subs": [
+            {
+              "uname": "暮雨moyo",
+              "like": 2,
+              "message": "我不道哇"
+            }
+          ]
+        },
+        {
+          "uname": "Cons1derUrownArt",
+          "like": 3,
+          "rcount": 0,
+          "message": "无敌了",
+          "subs": []
+        },
+        {
+          "uname": "nsd176",
+          "like": 3,
+          "rcount": 0,
+          "message": "厉害👍",
+          "subs": []
+        },
+        {
+          "uname": "戏川",
+          "like": 3,
+          "rcount": 0,
+          "message": "luv sic",
+          "subs": []
+        },
+        {
+          "uname": "好运の泷",
+          "like": 3,
+          "rcount": 0,
+          "message": "老乡三连了[doge]",
+          "subs": []
+        },
+        {
+          "uname": "Saber的胜利",
+          "like": 3,
+          "rcount": 0,
+          "message": "练习，练习，再练习",
+          "subs": []
+        },
+        {
+          "uname": "2021年1月3日2点18分",
+          "like": 3,
+          "rcount": 0,
+          "message": "如果有个露手的就更好了了。",
+          "subs": []
+        },
+        {
+          "uname": "静霁空浅",
+          "like": 3,
+          "rcount": 1,
+          "message": "nujabes！",
+          "subs": [
+            {
+              "uname": "13LacRX",
+              "like": 2,
+              "message": "是的"
+            }
+          ]
+        },
+        {
+          "uname": "Airzero9",
+          "like": 3,
+          "rcount": 0,
+          "message": "先收藏，以后再练",
+          "subs": []
+        },
+        {
+          "uname": "DarkerThanBIack",
+          "like": 3,
+          "rcount": 0,
+          "message": "这种视频必须三连呀[打call]",
+          "subs": []
+        },
+        {
+          "uname": "账号已注销",
+          "like": 3,
+          "rcount": 0,
+          "message": "支持",
+          "subs": []
+        },
+        {
+          "uname": "不连续存在的美好",
+          "like": 3,
+          "rcount": 0,
+          "message": "瞄准 开火",
+          "subs": []
+        },
+        {
+          "uname": "9764882613629346",
+          "like": 3,
+          "rcount": 0,
+          "message": "对于瞄准有了新的理解，很棒[支持]",
+          "subs": []
+        },
+        {
+          "uname": "白芷zhiii",
+          "like": 3,
+          "rcount": 3,
+          "message": "还有很长的路要走[夏诺雅表情包_QAQ]",
+          "subs": [
+            {
+              "uname": "ten7cake",
+              "like": 2,
+              "message": "现在什么水平了"
+            },
+            {
+              "uname": "白芷zhiii",
+              "like": 2,
+              "message": "回复 @ten7cake :现在转电脑了[doge]"
+            },
+            {
+              "uname": "物相图",
+              "like": 0,
+              "message": "认知是什么项目（思考）"
+            }
+          ]
+        },
+        {
+          "uname": "Fall1nlovewithu",
+          "like": 3,
+          "rcount": 0,
+          "message": "非常好教程[星星眼]学习",
+          "subs": []
+        },
+        {
+          "uname": "黑夜里的一颗流星",
+          "like": 3,
+          "rcount": 0,
+          "message": "[花园Serena2_赞赏][花园Serena2_赞赏][花园Serena2_赞赏]",
+          "subs": []
+        },
+        {
+          "uname": "CoSmic_MURP",
+          "like": 3,
+          "rcount": 0,
+          "message": "这么好的视频值得有收益",
+          "subs": []
+        },
+        {
+          "uname": "MCGG-",
+          "like": 3,
+          "rcount": 0,
+          "message": "支持",
+          "subs": []
+        },
+        {
+          "uname": "绿针",
+          "like": 3,
+          "rcount": 0,
+          "message": "[热词系列_三连]",
+          "subs": []
+        },
+        {
+          "uname": "Re4rainn",
+          "like": 3,
+          "rcount": 0,
+          "message": "学习学习",
+          "subs": []
+        },
+        {
+          "uname": "Man1am",
+          "like": 3,
+          "rcount": 0,
+          "message": "英雄",
+          "subs": []
+        },
+        {
+          "uname": "网友拉顺黑",
+          "like": 3,
+          "rcount": 0,
+          "message": "没人看孩子",
+          "subs": []
+        },
+        {
+          "uname": "Mar2sa_",
+          "like": 3,
+          "rcount": 0,
+          "message": "faye现在玩电脑很高产啊",
+          "subs": []
+        },
+        {
+          "uname": "玲川玖奈",
+          "like": 3,
+          "rcount": 0,
+          "message": "学习学习",
+          "subs": []
+        },
+        {
+          "uname": "神都一直都在下雨",
+          "like": 2,
+          "rcount": 0,
+          "message": "24年看过，26年再来看还是很有观赏性",
+          "subs": []
+        },
+        {
+          "uname": "神秘狗锋需要技巧",
+          "like": 2,
+          "rcount": 1,
+          "message": "常看常新",
+          "subs": [
+            {
+              "uname": "13LacRX",
+              "like": 2,
+              "message": "[汤圆][汤圆]"
+            }
+          ]
+        },
+        {
+          "uname": "无离JJ",
+          "like": 2,
+          "rcount": 0,
+          "message": "@ASJIshsha",
+          "subs": []
+        },
+        {
+          "uname": "wsf15",
+          "like": 2,
+          "rcount": 2,
+          "message": "作者或评论区的大佬，对于转火时左侧滑屏定位不精准有没有什么好点的训练方式（三角洲）？",
+          "subs": [
+            {
+              "uname": "划墙有瘾",
+              "like": 2,
+              "message": "多练没别的办法"
+            },
+            {
+              "uname": "wsf15",
+              "like": 2,
+              "message": "回复 @划墙有瘾 :行"
+            }
+          ]
+        },
+        {
+          "uname": "千年开发部的王小桃",
+          "like": 2,
+          "rcount": 0,
+          "message": "已经认真看了up讲的很详细[脱单doge]",
+          "subs": []
+        },
+        {
+          "uname": "fat_串串正",
+          "like": 2,
+          "rcount": 0,
+          "message": "现在不行了，人机伤害判断变了，人机是先算伤害然后装样子。在高端局一个人机面前活不过4秒3个面前活不过2秒[doge]",
+          "subs": []
+        },
+        {
+          "uname": "Takumiii__",
+          "like": 2,
+          "rcount": 0,
+          "message": "谢谢up！食指不固定那一条给了我很大启发",
+          "subs": []
+        },
+        {
+          "uname": "小鸿top1",
+          "like": 2,
+          "rcount": 0,
+          "message": "up能不能出一期摇杆的视频，我给你10个笔[脱单doge]",
+          "subs": []
+        },
+        {
+          "uname": "精神病羊飞羽",
+          "like": 2,
+          "rcount": 0,
+          "message": "@EP厄普西隆",
+          "subs": []
+        }
+      ]
+    }
+  },
+  "comments": {
+    "count": 316,
+    "comments": [
+      {
+        "uname": "13LacRX",
+        "like": 191,
+        "rcount": 4,
+        "message": "【索引】\n\n1.瞄准的相关理论：——1:19～1:42\n（1）阐述瞄准本质的理论\n（2）个人对于瞄准的认知\n2.【重点】转火中体现了怎样的瞄准：——1:42～2:52\n（1）转火是如何实现的（转火是什么）\n（2）转火的意义（从实用性、观赏性的角度）\n3.怎样做到好的转火/瞄准：\n（1）【重点】部分操作方法/理论（太过基本的有很多教程都讲过了，这里不做赘述）：——2:52～5:34\n一段划屏\n二段划屏\n食指不固定\n手位\n（2）CODM游戏本身性质、玩家自身对于瞄准的影响（包含灵敏度、设备、FOV等）——5:34～6:39\n（3）【重点】练习方法/理论：——6:39～10:47\nCODM游戏内靶场\n匹配模式（也包括僵尸模式）\n练枪软件\n\n相关需要结合观看的视频：\n瞄准理论：BV1P84y1c74W\n手位、指侧划屏：BV1bs4y1w7HG\n基础定位：BV11T411m7nD\n\n最后，因为我粉丝少，流量并不高，各位如果觉得有用请动态转发一下",
+        "subs": [
+          {
+            "uname": "2Ut0mAy0",
+            "like": 6,
+            "message": "一打开就是大东彦[脱单doge]"
+          },
+          {
+            "uname": "ききもらkikimora",
+            "like": 3,
+            "message": "这个游戏里转火的基础是低敏吧，高敏只能做到瞬间拉枪跟枪，中间的动画是连续的效果是差不多的，就是没有固定加速的观赏性。"
+          },
+          {
+            "uname": "屑玩兖",
+            "like": 2,
+            "message": "up，你的教学好像是三指教学\n但我是二指啊[笑哭]"
+          },
+          {
+            "uname": "13LacRX",
+            "like": 5,
+            "message": "回复 @屑玩兖 :提升指数才能提高上限，二指上限太低了，这个教程主要适用于四指及以上，要不然不好操作"
+          }
+        ]
+      },
+      {
+        "uname": "账号已注销",
+        "like": 152,
+        "rcount": 13,
+        "message": "移动设备永远无法达到鼠标指针的精度 从意义上来讲手搓的灵敏度必须很低 手指移动范围大才能进行微调 在长ttk的游戏可以说是手搓不如陀螺仪一根毛 本身移动设备的瞄准逻辑就是极度畸形 范围小 不精确 延迟 有能力不应该执意手游 娱乐即可 专注手游训练无大收益",
+        "subs": [
+          {
+            "uname": "13LacRX",
+            "like": 8,
+            "message": "还真是[笑哭]"
+          },
+          {
+            "uname": "常夏占领世界",
+            "like": 2,
+            "message": "职业呢"
+          },
+          {
+            "uname": "史密斯沃徳杰克曼杰森",
+            "like": 6,
+            "message": "我现在就是平时手搓，陀螺仪微调"
+          },
+          {
+            "uname": "北冥有鸟丶名鹏",
+            "like": 9,
+            "message": "是了，codm比较体现不出来，像pubgm这种不开速度加速，灵敏度一高打几百米的敌人真不好调整"
+          },
+          {
+            "uname": "知世DHYsea",
+            "like": 4,
+            "message": "插一句，低敏创造可能，高敏没有不可能，所以我选择低敏[妙啊]"
+          },
+          {
+            "uname": "永远致力于毁灭全宇宙",
+            "like": 3,
+            "message": "还真是，所以我选择苹果"
+          },
+          {
+            "uname": "账号已注销",
+            "like": 2,
+            "message": "回复 @掌控一切-终极释义 :苹果也是一样的"
+          },
+          {
+            "uname": "永远致力于毁灭全宇宙",
+            "like": 3,
+            "message": "回复 @SR水墨轩-高能英雄 :苹果触控很精细，比安卓更准不是吗"
+          },
+          {
+            "uname": "账号已注销",
+            "like": 2,
+            "message": "回复 @bili_674209264 :iPhone15pm 跟安卓没啥区别 甚至不如红魔那些游戏设备 iPad pro 还好一点"
+          },
+          {
+            "uname": "永远致力于毁灭全宇宙",
+            "like": 2,
+            "message": "回复 @SR水墨轩-高能英雄 :啊这样吗，都说苹果触控好"
+          },
+          {
+            "uname": "Khalil圆小异",
+            "like": 5,
+            "message": "回复 @控制一切-终极释义 :触控延迟很强，采样率一般般"
+          },
+          {
+            "uname": "世间の故事",
+            "like": 2,
+            "message": "苹果滑动触控好"
+          },
+          {
+            "uname": "灣友",
+            "like": 2,
+            "message": "回复 @掌控一切-释义终极 :旗艦機應該都大差不差的"
+          }
+        ]
+      },
+      {
+        "uname": "夜來風葉已鳴廊",
+        "like": 46,
+        "rcount": 3,
+        "message": "我觉得视觉上的目标大小对瞄准影响很大 哪怕是GRP在使用手机关联fov时fov都是拉到最低的",
+        "subs": [
+          {
+            "uname": "13LacRX",
+            "like": 4,
+            "message": "可能吧，我手机打得不多"
+          },
+          {
+            "uname": "13LacRX",
+            "like": 3,
+            "message": "毕竟这一块内容虽然文本众多但是我没有标记为重点[脱单doge]"
+          },
+          {
+            "uname": "鲸鱼座的あお星",
+            "like": 3,
+            "message": "板子+稍高的FOV+关联确实好转火一点。"
+          }
+        ]
+      },
+      {
+        "uname": "迷人羽",
+        "like": 43,
+        "rcount": 18,
+        "message": "手搓瞄准有锯齿感是真的，lcd屏幕尤为明显，大部分手游都没给手搓微调做优化[笑哭]",
+        "subs": [
+          {
+            "uname": "13LacRX",
+            "like": 5,
+            "message": "引用了你的视频，感谢你[喜欢]"
+          },
+          {
+            "uname": "迷人羽",
+            "like": 5,
+            "message": "回复 @13LacRX :等24pro出了，你可以测测oled屏幕的手搓跟手性和微调能力[笑哭]"
+          },
+          {
+            "uname": "13LacRX",
+            "like": 3,
+            "message": "回复 @迷人羽 :pro24之前都是lcd吗"
+          },
+          {
+            "uname": "13LacRX",
+            "like": 3,
+            "message": "回复 @迷人羽 :我是远古pro18[笑哭]"
+          },
+          {
+            "uname": "迷人羽",
+            "like": 3,
+            "message": "回复 @13LacRX :对"
+          },
+          {
+            "uname": "迷人羽",
+            "like": 4,
+            "message": "回复 @13LacRX :我之前用的那台18pro就没锯齿感，可能是屏幕用太久，变薄了[笑哭]"
+          },
+          {
+            "uname": "13LacRX",
+            "like": 3,
+            "message": "回复 @迷人羽 :这啥原理?[思考]"
+          },
+          {
+            "uname": "1ovexy",
+            "like": 2,
+            "message": "我是安卓，去年用的lcd手机，感觉屏幕就是微操不灵敏，滑动一帧拉枪没问题，就是微操不行，每次就差一点点。现在换OLED手机了感觉微操变好了，是因为什么呢"
+          },
+          {
+            "uname": "wQbailoveuiii",
+            "like": 2,
+            "message": "miniled怎么样[思考]"
+          },
+          {
+            "uname": "迷人羽",
+            "like": 3,
+            "message": "回复 @你说我菜那我走 :lcd[笑哭]"
+          },
+          {
+            "uname": "wQbailoveuiii",
+            "like": 2,
+            "message": "回复 @迷人羽 :哎不是LED吗？？"
+          },
+          {
+            "uname": "迷人羽",
+            "like": 3,
+            "message": "回复 @你说我菜那我走 :本质上还是lcd"
+          },
+          {
+            "uname": "wQbailoveuiii",
+            "like": 2,
+            "message": "回复 @迷人羽 :哦哦好吧"
+          },
+          {
+            "uname": "slayer-__",
+            "like": 6,
+            "message": "lcd的屏幕没这么好 我查了许多lcd屏幕的手机 触控率和触控延迟也是挺落后的 本人用了k30 现在是note11tpro 妥妥的lcd党 但是就k30的屏幕触控素质可以和一般的高刷手机比一下 之前去了贴吧搜搜触控率的原因 貌似还和屏幕里面的供应方的工艺和触控芯片（？）有关"
+          },
+          {
+            "uname": "RCW-",
+            "like": 4,
+            "message": "这个高敏打远距离时最明显 准心就一格一格地移动敌人左右横移就打不到了 就像手柄打远距离的时候"
+          }
+        ]
+      },
+      {
+        "uname": "西门赫兰",
+        "like": 29,
+        "rcount": 7,
+        "message": "记得grp说过，要让右手的大拇指解放，有足够的空间去滑屏，就不能给食指太多的压力去管很多按键，这样可以帮助拉枪[模糊小黄豆_咻]",
+        "subs": [
+          {
+            "uname": "西门赫兰",
+            "like": 6,
+            "message": "早期玩手机的时候，确实有这样的困难，到后面换了板子稍微好一点，但是最后还是换了键位。不过键位还是自己习惯的好，尽量不要给食指太大压力就行"
+          },
+          {
+            "uname": "西门赫兰",
+            "like": 5,
+            "message": "6:17的触控延迟解释像我这种手机板子轮流玩的人有最大感触（不过这算瞄准内容吗[doge]）每次离家出去用手机打的时候总会有板子戒断反应，触控延迟很明显😡"
+          },
+          {
+            "uname": "西门赫兰",
+            "like": 8,
+            "message": "总的来说视频内容还是比较多的，比较于22年725，grp和神奈他们联合发布的那期视频的瞄准教学，（我原本以为他们那期视频已经是我看到最好的瞄准教学了，这些质量可以和那个相当，还有@光光的阿蝶蝶 做的那个小合集也挺不错）他们视频更多的是讲述如何去培养手眼协调和设置内如何调整更好的设置来符合自己的瞄准习惯，这期视频体现的更多是如何去训练（例如视频后面的模式建议\n很好视频[极简蓝白_尝一口]"
+          },
+          {
+            "uname": "13LacRX",
+            "like": 3,
+            "message": "是的，思路是一样的"
+          },
+          {
+            "uname": "13LacRX",
+            "like": 4,
+            "message": "回复 @HellandS1MON :那一块不是重点，主要讲的是外物对于瞄准的影响"
+          },
+          {
+            "uname": "13LacRX",
+            "like": 4,
+            "message": "回复 @HellandS1MON :回复 @HellandS1MON :其实如何去训练只占这个视频的重要内容的一半，还有一半重点是各种原理、思路，我希望教给大家的是运用思路、原理（所以有很多篇幅是在推导）自己想想可以怎样改进，所有的方法都只是举例，所有的方法都是对原理、本质的实践[脱单doge]"
+          },
+          {
+            "uname": "翼の似天",
+            "like": 2,
+            "message": "沒錯，但我的手指都很短[笑哭]"
+          }
+        ]
+      },
+      {
+        "uname": "代码_-",
+        "like": 28,
+        "rcount": 5,
+        "message": "搞得我想出一个手机教学🌹",
+        "subs": [
+          {
+            "uname": "13LacRX",
+            "like": 2,
+            "message": "一样的其实"
+          },
+          {
+            "uname": "空洞回声",
+            "like": 2,
+            "message": "出！"
+          },
+          {
+            "uname": "沈塞尚Cezanne",
+            "like": 2,
+            "message": "搞得我想出一个手机教学🌹"
+          },
+          {
+            "uname": "Michael_cloud",
+            "like": 2,
+            "message": "快出[打call]"
+          },
+          {
+            "uname": "Rmtree",
+            "like": 2,
+            "message": "出！"
+          }
+        ]
+      },
+      {
+        "uname": "愔骸",
+        "like": 17,
+        "rcount": 2,
+        "message": "他居然投的转载我哭死",
+        "subs": [
+          {
+            "uname": "愔骸",
+            "like": 3,
+            "message": "回复 @G7RL_ :俺手机屏幕小，再加上230高敏感觉没有太大影响"
+          },
+          {
+            "uname": "R3b1k",
+            "like": 3,
+            "message": "回复 @75athoggua : 牛逼起雾"
+          }
+        ]
+      },
+      {
+        "uname": "百里梦回",
+        "like": 16,
+        "rcount": 0,
+        "message": "分享动态",
+        "subs": []
+      },
+      {
+        "uname": "一加壹等于2",
+        "like": 12,
+        "rcount": 1,
+        "message": "食指不固定这个我也发现了，并且确实对我有巨大帮助，up的视频是我看过最有干货的了，我终于明白你们这些怪物是咋么做到既快又准的了，不过我还是难以想象这真是人类可以做到的操作吗?",
+        "subs": [
+          {
+            "uname": "13LacRX",
+            "like": 2,
+            "message": "时间堆出来的[笑哭]"
+          }
+        ]
+      },
+      {
+        "uname": "Copper六",
+        "like": 11,
+        "rcount": 2,
+        "message": "内容很干货，但太费眼睛了，单一画面字太多了，建议拆分为多章节，一个总体思路，其他的讲细节",
+        "subs": [
+          {
+            "uname": "Bkornblume777",
+            "like": 3,
+            "message": "捉"
+          },
+          {
+            "uname": "Copper六",
+            "like": 2,
+            "message": "回复 @EKInfinity :[偷笑][偷笑][偷笑]"
+          }
+        ]
+      },
+      {
+        "uname": "温温Winnov",
+        "like": 11,
+        "rcount": 1,
+        "message": "还有那个摇杆，就是开镜然后接螃蟹步",
+        "subs": [
+          {
+            "uname": "TyrathamZ",
+            "like": 2,
+            "message": "捉，所以你什么时候更新"
+          }
+        ]
+      },
+      {
+        "uname": "CoSmic_MURP",
+        "like": 10,
+        "rcount": 0,
+        "message": "自己的视频建议投自制，反正收益也不怎么样😋",
+        "subs": []
+      },
+      {
+        "uname": "RAFBKTOH",
+        "like": 9,
+        "rcount": 3,
+        "message": "@墨音MoyVanHerge 怪不得我今天老是马枪，原来都是300灵敏加150距离加速加100fov的错[支持]",
+        "subs": [
+          {
+            "uname": "墨音MoyVanHerge",
+            "like": 2,
+            "message": "我关注的是bgm，这个up太有品了"
+          },
+          {
+            "uname": "13LacRX",
+            "like": 3,
+            "message": "fov上限不是90？"
+          },
+          {
+            "uname": "RAFBKTOH",
+            "like": 2,
+            "message": "回复 @13LacRX :看成持枪视角了，我fov是90"
+          }
+        ]
+      },
+      {
+        "uname": "方方Yoshiki",
+        "like": 8,
+        "rcount": 1,
+        "message": "恭喜🫶🏻",
+        "subs": [
+          {
+            "uname": "Hrinshen-旿",
+            "like": 2,
+            "message": "捉"
+          }
+        ]
+      },
+      {
+        "uname": "无头泉",
+        "like": 7,
+        "rcount": 0,
+        "message": "我一直以为划出式有点奇葩（这是我15岁是悟出来的），因为我觉得他比较准，也不像划入式一样麻烦，我一般只有微调的时候用划入式，只能说遇到同类很兴奋[doge]",
+        "subs": []
+      },
+      {
+        "uname": "0ctober_",
+        "like": 7,
+        "rcount": 0,
+        "message": "理论上如果想要在实战中转火除了本身的瞄准能力，控枪和对游戏弹道理解也多少得有，但前提还是基本功",
+        "subs": []
+      },
+      {
+        "uname": "-J0urney-",
+        "like": 7,
+        "rcount": 2,
+        "message": "好歌品，听哭了[大哭]",
+        "subs": [
+          {
+            "uname": "13LacRX",
+            "like": 3,
+            "message": "可以由此视频入坑爵士[脱单doge]"
+          },
+          {
+            "uname": "-J0urney-",
+            "like": 3,
+            "message": "回复 @13LacRX :已经入了[笑哭]n叔太好听了"
+          }
+        ]
+      },
+      {
+        "uname": "正好我玩使命召唤",
+        "like": 6,
+        "rcount": 1,
+        "message": "想必你已经学会了利用高敏进行外挂一样的转火，那么开始一把紧张刺激的原神吧",
+        "subs": [
+          {
+            "uname": "叫我小东就好114",
+            "like": 2,
+            "message": "收到"
+          }
+        ]
+      },
+      {
+        "uname": "沅沅Zzz7",
+        "like": 6,
+        "rcount": 14,
+        "message": "原来你发过如此高质量的教学，学到了",
+        "subs": [
+          {
+            "uname": "13LacRX",
+            "like": 9,
+            "message": "那个时候刚1000粉没流量[笑哭]，其实理论讲的都还太粗浅了，最近看pc瞄准理论发现了更牛逼的东西"
+          },
+          {
+            "uname": "13LacRX",
+            "like": 4,
+            "message": "BV1SSC9YnEHZ"
+          },
+          {
+            "uname": "沅沅Zzz7",
+            "like": 3,
+            "message": "回复 @TEXHN0LYZE :你发这个的时候我刚入坑可惜当时没刷到，到现在看还能学到好多东西"
+          },
+          {
+            "uname": "沅沅Zzz7",
+            "like": 3,
+            "message": "回复 @TEXHN0LYZE :我看看"
+          },
+          {
+            "uname": "13LacRX",
+            "like": 3,
+            "message": "回复 @沅Zzz :这么短时间就这么吊了，天才啊[笑哭][支持]"
+          },
+          {
+            "uname": "沅沅Zzz7",
+            "like": 3,
+            "message": "回复 @TEXHN0LYZE :赶上好时代了24年各种教学视频太全面了，没怎么自己摸索，各种到处学别人"
+          },
+          {
+            "uname": "FRAWTON",
+            "like": 3,
+            "message": "回复 @TEXHN0LYZE :私密了，看不了了，能讲一下里面说了什么嘛"
+          },
+          {
+            "uname": "13LacRX",
+            "like": 4,
+            "message": "回复 @゙゙゙菲伦 :原片十几分钟，说不清楚的，主题是瞄准的注意力分配等理论[笑哭]"
+          },
+          {
+            "uname": "FRAWTON",
+            "like": 3,
+            "message": "回复 @TEXHN0LYZE :原作者是谁"
+          },
+          {
+            "uname": "13LacRX",
+            "like": 3,
+            "message": "回复 @゙゙゙菲伦 :Phoegazer"
+          },
+          {
+            "uname": "再信一次纯爱",
+            "like": 3,
+            "message": "回复 @TEXHN0LYZE :发出来学习学习[呲牙][呲牙]"
+          },
+          {
+            "uname": "13LacRX",
+            "like": 4,
+            "message": "回复 @itz_花袭人 :被原作者设为仅自己可见了"
+          },
+          {
+            "uname": "G7RL_",
+            "like": 3,
+            "message": "回复 @13LacRX :考古还能有新发现哈哈"
+          },
+          {
+            "uname": "装博一是犯法的",
+            "like": 2,
+            "message": "回复 @XRcaL31 :紫色小球绿色小球训练视野与注意力分配那个吗？"
+          }
+        ]
+      },
+      {
+        "uname": "yamire",
+        "like": 6,
+        "rcount": 1,
+        "message": "手机也能食指不固定瞄准吗",
+        "subs": [
+          {
+            "uname": "13LacRX",
+            "like": 2,
+            "message": "我现如今玩手机就是这样的，原理都一样的"
+          }
+        ]
+      },
+      {
+        "uname": "Ditto0430",
+        "like": 6,
+        "rcount": 1,
+        "message": "想问下up转火过程中击杀第一个目标后是先眼睛捕捉下一个目标还是先一次定位到大概位置还是两者同时进行",
+        "subs": [
+          {
+            "uname": "13LacRX",
+            "like": 4,
+            "message": "目标信息在还没开镜时就知道了，大致要打的位置也就知道了，镜内应该是同时进行吧，看到了拉过去就行了"
+          }
+        ]
+      },
+      {
+        "uname": "安稳丶Tiger",
+        "like": 6,
+        "rcount": 1,
+        "message": "[热词系列_呵呵]平板\n快用手机复刻",
+        "subs": [
+          {
+            "uname": "13LacRX",
+            "like": 3,
+            "message": "复刻不了，我自己手机已经坏了"
+          }
+        ]
+      },
+      {
+        "uname": "只差一步",
+        "like": 6,
+        "rcount": 1,
+        "message": "仿安仔改的键，还能更新吗？",
+        "subs": [
+          {
+            "uname": "13LacRX",
+            "like": 3,
+            "message": "按原理来吧"
+          }
+        ]
+      },
+      {
+        "uname": "slayer-__",
+        "like": 6,
+        "rcount": 8,
+        "message": "食指不固定其实类似于鼠标的纯手腕流 小臂不与手腕摆动的情况下 这时候在鼠标垫上滑动鼠标就画了个弧形 如果不是鼠标设计中心的话 基本很难瞄准到位",
+        "subs": [
+          {
+            "uname": "13LacRX",
+            "like": 3,
+            "message": "其实纯手腕流跟食指不固定还是没法类比的"
+          },
+          {
+            "uname": "slayer-__",
+            "like": 4,
+            "message": "回复 @13LacRX :确实啊 前者重点的是协调来加大瞄准正确性和瞄准空间的 后者的话还需要自己的手指来改变自己的习惯等等 可能共同点都是固定的话能画出弧形把。。"
+          },
+          {
+            "uname": "slayer-__",
+            "like": 3,
+            "message": "回复 @13LacRX :说错了其实是手指固定"
+          },
+          {
+            "uname": "13LacRX",
+            "like": 4,
+            "message": "回复 @peterlol28 :是的，我能想象出来，就是纯纯画弧这种情况对手游玩家来说太理想化了[笑哭]"
+          },
+          {
+            "uname": "LTG落幕",
+            "like": 3,
+            "message": "我也是近段时间才发现的，比起用食指滑动，我直接用手腕还进行拉抢反而跟锁子一样，可惜手机需要握持，不太支持这种玩法或者说我不太习惯[辣眼睛][辣眼睛][辣眼睛]"
+          },
+          {
+            "uname": "slayer-__",
+            "like": 2,
+            "message": "其实的话你可以去买个手指架来打的 但是的话一般的手架例如很塑胶且便宜的话手机横屏根本支撑不了其重量 你可以专门买个贵一点有强硬的底盘和脚架支撑的手机架 这样的话手机就不用握持了"
+          },
+          {
+            "uname": "FRAWTON",
+            "like": 2,
+            "message": "回复 @LTG落幕 :你到底玩手游还是玩端游[笑哭][笑哭]"
+          },
+          {
+            "uname": "LTG落幕",
+            "like": 2,
+            "message": "回复 @゙゙゙菲伦 :嗯哼?都玩来着[思考][妙啊][妙啊]"
+          }
+        ]
+      },
+      {
+        "uname": "羁灞蚊",
+        "like": 5,
+        "rcount": 7,
+        "message": "手指不稳拉枪的时候会回弹或者乱动怎么解决[脱单doge]",
+        "subs": [
+          {
+            "uname": "13LacRX",
+            "like": 3,
+            "message": "说明你手指还没习惯，多练"
+          },
+          {
+            "uname": "羁灞蚊",
+            "like": 3,
+            "message": "回复 @TEXHN0LYZE :简单来说就是欠练是吧，豪德"
+          },
+          {
+            "uname": "13LacRX",
+            "like": 3,
+            "message": "回复 @羁灞蚊 :没适应新操作习惯估计，保持刻意练习直到习以为常不再失误就行了"
+          },
+          {
+            "uname": "羁灞蚊",
+            "like": 3,
+            "message": "回复 @13LacRX :upup我现在练枪的时候大拇指疼是正常现象吗，是不是只要挺过去就好了"
+          },
+          {
+            "uname": "13LacRX",
+            "like": 3,
+            "message": "回复 @羁灞蚊 :身体健康最重要，痛就说明出问题了，找到合适的舒适的方法再继续吧，先休息等到不痛了再说[笑哭]"
+          },
+          {
+            "uname": "羁灞蚊",
+            "like": 3,
+            "message": "回复 @13LacRX :虽说拉枪的时候疼但我感觉到准度明显上来了，现在我拉枪就是手指比较用力不用力打不准，那可能也是我自己问题我找找原因吧（别的up像我问这么多问题都不带鸟我的）"
+          },
+          {
+            "uname": "13LacRX",
+            "like": 6,
+            "message": "回复 @羁灞蚊 :那估计是过渡期到了，我刚开始练习提升时也是很用力的瞄准，质变后渐渐的就发现刻意感和用力感消失了，至于疼痛我几乎没有，你大拇指不是病理性的疼痛的话那估计就是肌肉过度劳累导致的，我还是建议不要过度，一切以健康为重，等到手指恢复了再练吧，这段时间少练一些。至于回答问题，我觉得既然发了教程那就有责任为之负责到底[笑哭][支持]"
+          }
+        ]
+      },
+      {
+        "uname": "6绿色的紫甘蓝5",
+        "like": 5,
+        "rcount": 0,
+        "message": "UP千万别删，我七月份回游来看[脱单doge][脸红][脱单doge]",
+        "subs": []
+      },
+      {
+        "uname": "大怪兽日花",
+        "like": 5,
+        "rcount": 1,
+        "message": "手机二指基本做不到的操作，上版本匹配机制也给我一击已经打算练多指了。。",
+        "subs": [
+          {
+            "uname": "13LacRX",
+            "like": 3,
+            "message": "加油！[脱单doge]"
+          }
+        ]
+      },
+      {
+        "uname": "友利娜娜",
+        "like": 5,
+        "rcount": 0,
+        "message": "最强转火教程 也是最佳瞄准练习 入坑视频",
+        "subs": []
+      },
+      {
+        "uname": "随便了各位",
+        "like": 5,
+        "rcount": 0,
+        "message": "视频里面那个基础定位，二次定位，身法定位的那个视频，一年前看的，就是因为那个视频我才接触战火，一直到现在[笑哭]",
+        "subs": []
+      },
+      {
+        "uname": "花满堵",
+        "like": 5,
+        "rcount": 5,
+        "message": "那个练枪软件哪有啊 up[doge]",
+        "subs": [
+          {
+            "uname": "13LacRX",
+            "like": 3,
+            "message": "哪个"
+          },
+          {
+            "uname": "花满堵",
+            "like": 3,
+            "message": "回复 @13LacRX :就是最后描小球的[doge]"
+          },
+          {
+            "uname": "13LacRX",
+            "like": 2,
+            "message": "回复 @花满堵 :可能只有ios有，你b站搜aimlab看看"
+          },
+          {
+            "uname": "yFEeeer",
+            "like": 3,
+            "message": "回复 @花满堵 :谷歌商店也有"
+          },
+          {
+            "uname": "8bitのアリス",
+            "like": 3,
+            "message": "回复 @13LacRX :安卓也有，搜瞄准实验室可以搜到"
+          }
+        ]
+      },
+      {
+        "uname": "Yk3x",
+        "like": 5,
+        "rcount": 0,
+        "message": "国内少有的转火教程 真的讲的太好了[打call]",
+        "subs": []
+      },
+      {
+        "uname": "神秘狗锋需要技巧",
+        "like": 4,
+        "rcount": 1,
+        "message": "致我认识daft punk 和lucsic的作品[爱心]",
+        "subs": [
+          {
+            "uname": "神秘狗锋需要技巧",
+            "like": 3,
+            "message": "打错了是luvsic[笑哭]"
+          }
+        ]
+      },
+      {
+        "uname": "D7aporiA_",
+        "like": 4,
+        "rcount": 0,
+        "message": "感谢up，看了up的视频感觉吃灵感菇了，现在感觉成pro了，但转火还有点弱，故决定多弥补设备上的差距[少女乐队呐喊动态表情_干饭]",
+        "subs": []
+      },
+      {
+        "uname": "Idjdjdjdjs",
+        "like": 4,
+        "rcount": 2,
+        "message": "名式？[思考]",
+        "subs": [
+          {
+            "uname": "13LacRX",
+            "like": 3,
+            "message": "？？"
+          },
+          {
+            "uname": "Idjdjdjdjs",
+            "like": 3,
+            "message": "回复 @13LacRX :看错了我还以为名式改名打三角洲了[笑哭]"
+          }
+        ]
+      },
+      {
+        "uname": "道具库-爱月夜眠迟",
+        "like": 4,
+        "rcount": 1,
+        "message": "距离加速并不差，速度加速指数增长太快，固定上限太低，距离有固定的恒定，也有速度的上限",
+        "subs": [
+          {
+            "uname": "道具库-爱月夜眠迟",
+            "like": 2,
+            "message": "我也只是听了其他FPS的然后用到这个游戏，其实就手游来说，固定够了，但只有固定，好多现在的背身枪打不出来"
+          }
+        ]
+      },
+      {
+        "uname": "我在風中扯刀灮",
+        "like": 4,
+        "rcount": 1,
+        "message": "抖音刷到了这个包浆的视频 我还以为是啥上古时代的视频",
+        "subs": [
+          {
+            "uname": "13LacRX",
+            "like": 3,
+            "message": "并非上古[汤圆]"
+          }
+        ]
+      },
+      {
+        "uname": "心爱0V0",
+        "like": 4,
+        "rcount": 0,
+        "message": "看了有很多想法，但本人才识浅薄，还需要多观摩几遍",
+        "subs": []
+      },
+      {
+        "uname": "心爱0V0",
+        "like": 4,
+        "rcount": 2,
+        "message": "手机怎么做食指不固定？",
+        "subs": [
+          {
+            "uname": "13LacRX",
+            "like": 5,
+            "message": "同样的道理，手机平板都一样的"
+          },
+          {
+            "uname": "心爱0V0",
+            "like": 3,
+            "message": "回复 @13LacRX :谢谢up"
+          }
+        ]
+      },
+      {
+        "uname": "Linking_Love",
+        "like": 4,
+        "rcount": 1,
+        "message": "pc玩家也受益匪浅呢[来古-注意]",
+        "subs": [
+          {
+            "uname": "13LacRX",
+            "like": 2,
+            "message": "pc玩家能吃更好的。琪露诺，付给泽，大洞眼等等[笑哭]"
+          }
+        ]
+      },
+      {
+        "uname": "若葉睦降臨",
+        "like": 4,
+        "rcount": 0,
+        "message": "@sosryfw 来学",
+        "subs": []
+      },
+      {
+        "uname": "namedcharacter",
+        "like": 4,
+        "rcount": 5,
+        "message": "18Pro好用吗，想入",
+        "subs": [
+          {
+            "uname": "13LacRX",
+            "like": 3,
+            "message": "还行，现在两千多，比较便宜但是已经很老的设备了，不如攒点钱买pro21或者22"
+          },
+          {
+            "uname": "namedcharacter",
+            "like": 4,
+            "message": "回复 @13LacRX :我暑假的钱只够买12.9的18Pro或着11寸的20选哪个好一点"
+          },
+          {
+            "uname": "13LacRX",
+            "like": 3,
+            "message": "回复 @夏日绫音 :18，20跟18除了外观基本没差别，处理器a12z和a12x性能差距就一个核心，性能差不多相同"
+          },
+          {
+            "uname": "namedcharacter",
+            "like": 3,
+            "message": "回复 @13LacRX :那2gb运存影响应该不大吧"
+          },
+          {
+            "uname": "13LacRX",
+            "like": 2,
+            "message": "回复 @夏日绫音 :打codm够了"
+          }
+        ]
+      },
+      {
+        "uname": "Such_a_Rain",
+        "like": 4,
+        "rcount": 1,
+        "message": "我最早看到说肌肉记忆不存在/没用的是G宝，人家大拇指和食指照样锁",
+        "subs": [
+          {
+            "uname": "13LacRX",
+            "like": 2,
+            "message": "是的"
+          }
+        ]
+      },
+      {
+        "uname": "CoSmic_MURP",
+        "like": 4,
+        "rcount": 0,
+        "message": "收藏比点赞还多[视频卫星]",
+        "subs": []
+      },
+      {
+        "uname": "缘分看我揍命运",
+        "like": 4,
+        "rcount": 0,
+        "message": "找到适合最自己灵敏度的前提一定是适应设备 做大量的搓屏练习 因为目前移动设备的采样率真的不高 最要命的是好多安卓手机延迟还高 哪怕你找到的灵敏度是对的 也会因为对屏幕的掌控不够深入而一改在改 如果有一天你练到对你的设备屏幕了如指掌 那么一定你的理解也会提上去 这时候你在结合你的搓屏经验改灵敏度 自然就变锁了 自己的理解比什么都重要",
+        "subs": []
+      },
+      {
+        "uname": "理查德一汪苏泷",
+        "like": 4,
+        "rcount": 0,
+        "message": "我们需要更多转火玩家",
+        "subs": []
+      },
+      {
+        "uname": "壹玖233",
+        "like": 4,
+        "rcount": 5,
+        "message": "为什么只能投一个币呢（？）",
+        "subs": [
+          {
+            "uname": "13LacRX",
+            "like": 4,
+            "message": "投的转载"
+          },
+          {
+            "uname": "壹玖233",
+            "like": 3,
+            "message": "回复 @13LacRX :我知道这一点（）我的意思是 这不是你的原创内容吗 为什么投转载呢（从而导致只能投一个币）"
+          },
+          {
+            "uname": "13LacRX",
+            "like": 5,
+            "message": "回复 @壹玖233 :一是防止有些魔怔人瞎骂，二是做点公益"
+          },
+          {
+            "uname": "13LacRX",
+            "like": 5,
+            "message": "回复 @壹玖233 :三是我没有征求一部分up同意就引用了"
+          },
+          {
+            "uname": "壹玖233",
+            "like": 3,
+            "message": "回复 @13LacRX :了解了：- D（视频真的很不错！）"
+          }
+        ]
+      },
+      {
+        "uname": "啵凹子",
+        "like": 4,
+        "rcount": 3,
+        "message": "板子啊，那没事了",
+        "subs": [
+          {
+            "uname": "方方Yoshiki",
+            "like": 3,
+            "message": "傻子啊，那没事了"
+          },
+          {
+            "uname": "Amamiyaノ",
+            "like": 3,
+            "message": "傻子啊，那没事了"
+          },
+          {
+            "uname": "啵凹子",
+            "like": 3,
+            "message": "额，职业用板子还是傻子，我有点没分清"
+          }
+        ]
+      },
+      {
+        "uname": "Michael_cloud",
+        "like": 4,
+        "rcount": 3,
+        "message": "食指不固定的方式，倘若把开火和开镜一起放在左上角是不是就能直接解决了呢",
+        "subs": [
+          {
+            "uname": "13LacRX",
+            "like": 4,
+            "message": "是的，但是这个键位用的人应该比较少吧，这样给左手的压力就会很大，既要做身法又要开镜和开火[笑哭]，反正原理都一样，右手自由度越高瞄准的上限就越高"
+          },
+          {
+            "uname": "哥布林itz",
+            "like": 2,
+            "message": "其实这个键位就是传统派五指，容易做身法，但在手机上使用时右手拇指瞄准空间小"
+          },
+          {
+            "uname": "ヒシモ宫",
+            "like": 3,
+            "message": "回复 @13LacRX :说真的，我就是[妙啊]"
+          }
+        ]
+      },
+      {
+        "uname": "Yokai9x",
+        "like": 4,
+        "rcount": 3,
+        "message": "关于食指不固定，如果更换键位让右食不负责按住开镜就解决了一大半",
+        "subs": [
+          {
+            "uname": "13LacRX",
+            "like": 3,
+            "message": "右手用于瞄准，反正限制越少越好，但需要考虑稳定性，至于你说的改键位除非把右手只剩下一个大拇指用来划屏否则是不行的[doge]"
+          },
+          {
+            "uname": "Yokai9x",
+            "like": 3,
+            "message": "回复 @13LacRX :我正在试左3右1😂😂😂"
+          },
+          {
+            "uname": "13LacRX",
+            "like": 3,
+            "message": "回复 @Galaxia7Zz :厉害👍"
+          }
+        ]
+      },
+      {
+        "uname": "超级孙火柴",
+        "like": 4,
+        "rcount": 0,
+        "message": "音乐好听 内容纯干货 很难不支持",
+        "subs": []
+      },
+      {
+        "uname": "米兜_",
+        "like": 4,
+        "rcount": 0,
+        "message": "经常性初预瞄准然后就不敢拉了或者是说没反应过来[阿梓_真接受不了]太难",
+        "subs": []
+      },
+      {
+        "uname": "Badba1",
+        "like": 4,
+        "rcount": 1,
+        "message": "整上论文了是吧",
+        "subs": [
+          {
+            "uname": "13LacRX",
+            "like": 4,
+            "message": "这样阐述会严谨、清楚一点[脱单doge]"
+          }
+        ]
+      },
+      {
+        "uname": "G7RL_",
+        "like": 4,
+        "rcount": 1,
+        "message": "有没有用移动轮盘修正瞄准的呢 沙皇之前有提到过 我自己移动轮盘控的不太好这个也间接影响了我的瞄准",
+        "subs": [
+          {
+            "uname": "13LacRX",
+            "like": 5,
+            "message": "这个影响太小了吧，练习成本也不低，我认为还不如直接使用手指，轮盘可以辅助平时对枪时的跟枪（跟着敌人同方向移动），但是这样也导致了敌人更好对你进行瞄准"
+          }
+        ]
+      },
+      {
+        "uname": "本人懒得打字",
+        "like": 4,
+        "rcount": 0,
+        "message": "@Zdh_cici @白给勇者 [doge]",
+        "subs": []
+      },
+      {
+        "uname": "Grenzlinie1909",
+        "like": 4,
+        "rcount": 0,
+        "message": "牛逼哥我太喜欢了",
+        "subs": []
+      },
+      {
+        "uname": "sadwitmyFkstreet",
+        "like": 3,
+        "rcount": 2,
+        "message": "没看懂划出划入有啥区别 不都是重新放回手指划两次吗",
+        "subs": [
+          {
+            "uname": "13LacRX",
+            "like": 4,
+            "message": "划入就是指手指从空中落下接触屏幕后不再离开屏幕\n而划出则是手指从空中落下接触屏幕后再次顺势划出回到空中（就像你翻相册照片时手指的划拉过程）"
+          },
+          {
+            "uname": "sadwitmyFkstreet",
+            "like": 3,
+            "message": "回复 @13LacRX :感谢解答"
+          }
+        ]
+      },
+      {
+        "uname": "剑铸复折",
+        "like": 3,
+        "rcount": 3,
+        "message": "开头那一段音乐好好听，up现在还记得是什么吗[doge]",
+        "subs": [
+          {
+            "uname": "13LacRX",
+            "like": 4,
+            "message": "daft punk的touch"
+          },
+          {
+            "uname": "神秘狗锋需要技巧",
+            "like": 2,
+            "message": "回复 @13LacRX :真的感谢你了13歌品太好了 这个视频算是我各方面的启蒙了 即是codm转火也是daft punk 和nujabes的音乐 thanks for you"
+          },
+          {
+            "uname": "13LacRX",
+            "like": 2,
+            "message": "回复 @神秘狗锋需要技巧 :感谢字词[喜欢]"
+          }
+        ]
+      },
+      {
+        "uname": "一杆大铁枪",
+        "like": 3,
+        "rcount": 0,
+        "message": "给大家省流:虚空教学，不信可看",
+        "subs": []
+      },
+      {
+        "uname": "qjrh7695",
+        "like": 3,
+        "rcount": 1,
+        "message": "主播咋转的180度?2次滑屏吗，为啥看着感觉没有停顿感[大哭]",
+        "subs": [
+          {
+            "uname": "叫我小东就好114",
+            "like": 2,
+            "message": "拉高灵敏度"
+          }
+        ]
+      },
+      {
+        "uname": "C74heng",
+        "like": 3,
+        "rcount": 0,
+        "message": "王朝了，这个视频也是你的啊，歌不错",
+        "subs": []
+      },
+      {
+        "uname": "izunnrzy",
+        "like": 3,
+        "rcount": 0,
+        "message": "撸",
+        "subs": []
+      },
+      {
+        "uname": "D4Jun0714",
+        "like": 3,
+        "rcount": 0,
+        "message": "撸",
+        "subs": []
+      },
+      {
+        "uname": "蚊蚊蚊蚊蚊-",
+        "like": 3,
+        "rcount": 1,
+        "message": "upup我现在有时候看人感觉看不清楚人就是像是在看2d的东西一样，不能精确的把人挑出来，像这种应该怎么练",
+        "subs": [
+          {
+            "uname": "13LacRX",
+            "like": 3,
+            "message": "不知道，我历程没有过这种感觉，有时候我也会看不到静态目标，但看起来跟你这种情况不是一回事"
+          }
+        ]
+      },
+      {
+        "uname": "老丈人667",
+        "like": 3,
+        "rcount": 0,
+        "message": "考古",
+        "subs": []
+      },
+      {
+        "uname": "翼の似天",
+        "like": 3,
+        "rcount": 1,
+        "message": "請問需要做原地不動特意壓彈道的定位嗎？",
+        "subs": [
+          {
+            "uname": "13LacRX",
+            "like": 4,
+            "message": "看你情况，你压不住枪的话可以先这么练压枪，循序渐进反正"
+          }
+        ]
+      },
+      {
+        "uname": "999icE",
+        "like": 3,
+        "rcount": 1,
+        "message": "感谢你的教学，尤其是手指不固定。请问固定加速和速度加速哪个上手更快？（平板）",
+        "subs": [
+          {
+            "uname": "13LacRX",
+            "like": 3,
+            "message": "固定"
+          }
+        ]
+      },
+      {
+        "uname": "华东彦",
+        "like": 3,
+        "rcount": 0,
+        "message": "大神教我扫射转移[给心心][给心心][给心心]",
+        "subs": []
+      },
+      {
+        "uname": "2119QwT",
+        "like": 3,
+        "rcount": 0,
+        "message": "毫无保留的讲解出来，我认为这种行为是高尚的",
+        "subs": []
+      },
+      {
+        "uname": "MK鸡蛋",
+        "like": 3,
+        "rcount": 1,
+        "message": "@Kelley-Stock",
+        "subs": [
+          {
+            "uname": "Kelley-Stock",
+            "like": 3,
+            "message": "早看过了"
+          }
+        ]
+      },
+      {
+        "uname": "silent9r",
+        "like": 3,
+        "rcount": 0,
+        "message": "说句真心话 质量真的超级高 比平时那些高播放了无意义视频好多了[支持]",
+        "subs": []
+      },
+      {
+        "uname": "W_TAsa",
+        "like": 3,
+        "rcount": 0,
+        "message": "家人们[大哭]终于在手游里发现这样的人啦 很好的视频[爱心]",
+        "subs": []
+      },
+      {
+        "uname": "店长夫人",
+        "like": 3,
+        "rcount": 0,
+        "message": "faye[大哭]",
+        "subs": []
+      },
+      {
+        "uname": "Le1Na",
+        "like": 3,
+        "rcount": 0,
+        "message": "666这个入开桂了",
+        "subs": []
+      },
+      {
+        "uname": "吴楔橙",
+        "like": 3,
+        "rcount": 0,
+        "message": "1145点赞，太臭力[doge]",
+        "subs": []
+      },
+      {
+        "uname": "三角洲策划衣架似了",
+        "like": 3,
+        "rcount": 0,
+        "message": "关了吧哥，我害怕[妙啊]",
+        "subs": []
+      },
+      {
+        "uname": "森森SenYuri",
+        "like": 3,
+        "rcount": 0,
+        "message": "好教",
+        "subs": []
+      },
+      {
+        "uname": "阿饭忘睡觉了",
+        "like": 3,
+        "rcount": 0,
+        "message": "今天才看到[白神遥_阿巴阿巴]",
+        "subs": []
+      },
+      {
+        "uname": "风雨吹花落",
+        "like": 3,
+        "rcount": 1,
+        "message": "想菲了",
+        "subs": [
+          {
+            "uname": "13LacRX",
+            "like": 3,
+            "message": "去塑料追寻他的脚步吧（￣▽￣）"
+          }
+        ]
+      },
+      {
+        "uname": "Yuz1baby",
+        "like": 3,
+        "rcount": 0,
+        "message": "非常感谢教学[脸红]解决我一些一直困扰的问题，三连捧上[给心心]",
+        "subs": []
+      },
+      {
+        "uname": "2111119QwT",
+        "like": 3,
+        "rcount": 0,
+        "message": "讲的很好",
+        "subs": []
+      },
+      {
+        "uname": "QZZ1793",
+        "like": 3,
+        "rcount": 0,
+        "message": "确实是帅的😎",
+        "subs": []
+      },
+      {
+        "uname": "b1ueTvT",
+        "like": 3,
+        "rcount": 0,
+        "message": "无敌拉枪1",
+        "subs": []
+      },
+      {
+        "uname": "Ppowe3r",
+        "like": 3,
+        "rcount": 0,
+        "message": "爵士大手",
+        "subs": []
+      },
+      {
+        "uname": "理查德一汪苏泷",
+        "like": 3,
+        "rcount": 0,
+        "message": "好啊",
+        "subs": []
+      },
+      {
+        "uname": "Defiles",
+        "like": 3,
+        "rcount": 0,
+        "message": "我这玩全陀怎么办",
+        "subs": []
+      },
+      {
+        "uname": "bili_89176200514",
+        "like": 3,
+        "rcount": 0,
+        "message": "嗯，很棒的視頻。對於我這種一直在考慮要不要換掉食指開鏡的人有很大幫助。",
+        "subs": []
+      },
+      {
+        "uname": "LilClear",
+        "like": 3,
+        "rcount": 0,
+        "message": "转火让人看得很舒服😌",
+        "subs": []
+      },
+      {
+        "uname": "佳门-爱和存在-思念",
+        "like": 3,
+        "rcount": 2,
+        "message": "我想知道在转火的过程中定位的时候是开火还是不开火，就是当你打完一个目标后转向瞄准另一个目标的这个时间是开火还是不开火麻烦up 帮忙回答一下，蟹蟹[脱单doge][脱单doge][脱单doge]",
+        "subs": [
+          {
+            "uname": "13LacRX",
+            "like": 3,
+            "message": "一般是开火的"
+          },
+          {
+            "uname": "Badba1",
+            "like": 2,
+            "message": "转火就是不断火拉枪"
+          }
+        ]
+      },
+      {
+        "uname": "ShiningLugiel",
+        "like": 3,
+        "rcount": 1,
+        "message": "是不是少了具体的键位教学",
+        "subs": [
+          {
+            "uname": "13LacRX",
+            "like": 3,
+            "message": "按原理来就行了"
+          }
+        ]
+      },
+      {
+        "uname": "海瓣",
+        "like": 3,
+        "rcount": 2,
+        "message": "fps手游适合高敏还是低敏",
+        "subs": [
+          {
+            "uname": "13LacRX",
+            "like": 2,
+            "message": "各有优劣，就codm来说，低敏更吃香"
+          },
+          {
+            "uname": "UID533089288",
+            "like": 2,
+            "message": "普遍来说低些好，方便更精确的瞄人，特别是没辅助瞄准的游戏"
+          }
+        ]
+      },
+      {
+        "uname": "坏猫Re",
+        "like": 3,
+        "rcount": 3,
+        "message": "up想知道更多关于手指不固定",
+        "subs": [
+          {
+            "uname": "13LacRX",
+            "like": 3,
+            "message": "你得问我才能答啊"
+          },
+          {
+            "uname": "坏猫Re",
+            "like": 3,
+            "message": "回复 @13LacRX :怎么玩明白玩一天好懵🫡"
+          },
+          {
+            "uname": "13LacRX",
+            "like": 2,
+            "message": "回复 @坏猫Re :啊？"
+          }
+        ]
+      },
+      {
+        "uname": "1良药苦口",
+        "like": 3,
+        "rcount": 0,
+        "message": "[doge]想象自己是个陀螺",
+        "subs": []
+      },
+      {
+        "uname": "whoslovinu",
+        "like": 3,
+        "rcount": 0,
+        "message": "六指的右手中指开镜算不固定吗",
+        "subs": []
+      },
+      {
+        "uname": "爱媛川",
+        "like": 3,
+        "rcount": 0,
+        "message": "520",
+        "subs": []
+      },
+      {
+        "uname": "账号已注销",
+        "like": 3,
+        "rcount": 0,
+        "message": "省流：很简单，设备（屏幕不断触），指套，练定位和拉枪，打人机，再结合定位和拉枪打人机，姿势一定要正确，然后打真人训练，实战",
+        "subs": []
+      },
+      {
+        "uname": "2Ut0mAy0",
+        "like": 3,
+        "rcount": 0,
+        "message": "什么枪捞的最爽",
+        "subs": []
+      },
+      {
+        "uname": "-无名诗人",
+        "like": 3,
+        "rcount": 0,
+        "message": "眼睛会了，手……",
+        "subs": []
+      },
+      {
+        "uname": "定无数目标",
+        "like": 3,
+        "rcount": 0,
+        "message": "视频看完了，其中食指不固定打破了我的固有思维对我帮助很大，已三连期待更好的作品[打call][打call][打call]",
+        "subs": []
+      },
+      {
+        "uname": "实沉TuT",
+        "like": 3,
+        "rcount": 0,
+        "message": "质量太高了学到了很多三连了[OK]",
+        "subs": []
+      },
+      {
+        "uname": "屑菌类",
+        "like": 3,
+        "rcount": 0,
+        "message": "太强了",
+        "subs": []
+      },
+      {
+        "uname": "X9TN",
+        "like": 3,
+        "rcount": 1,
+        "message": "不玩CODM，但三连",
+        "subs": [
+          {
+            "uname": "13LacRX",
+            "like": 3,
+            "message": "谢谢"
+          }
+        ]
+      },
+      {
+        "uname": "Nappa_",
+        "like": 3,
+        "rcount": 0,
+        "message": "你终于一千粉了[星星眼]",
+        "subs": []
+      },
+      {
+        "uname": "衾弈",
+        "like": 3,
+        "rcount": 2,
+        "message": "@北极星下士A16B3",
+        "subs": [
+          {
+            "uname": "北极星下士A16B3",
+            "like": 3,
+            "message": "[doge]"
+          },
+          {
+            "uname": "北极星下士A16B3",
+            "like": 3,
+            "message": "还得是你[doge][doge][doge]"
+          }
+        ]
+      },
+      {
+        "uname": "野猪屠夫314",
+        "like": 3,
+        "rcount": 0,
+        "message": "很系统很用心的教学，点了",
+        "subs": []
+      },
+      {
+        "uname": "路旁的交错式负重轮",
+        "like": 3,
+        "rcount": 3,
+        "message": "五指，手机，左三右二（左边的食指和中指用来开镜和开火，右边的食指用来做身法，拇指瞄准）感觉右手的食指确实像up说的一样，像轴一样，但是没法离开，想问一下up还有各位有什么解决方法[微笑]，还是说需要改键位？[脱单doge]",
+        "subs": [
+          {
+            "uname": "13LacRX",
+            "like": 5,
+            "message": "改键位吧，左手做身法，右手专注瞄准"
+          },
+          {
+            "uname": "路旁的交错式负重轮",
+            "like": 4,
+            "message": "改了一下，确实右手的瞄准一下干净了不少[星星眼]已经三连了，希望up能多更这样的高质量视频。顺便问一下，有没有做热点教学的想法?[脱单doge]"
+          },
+          {
+            "uname": "13LacRX",
+            "like": 3,
+            "message": "回复 @路旁的交错式负重轮 :没有，我意识不是很强"
+          }
+        ]
+      },
+      {
+        "uname": "泡澡沉睡",
+        "like": 3,
+        "rcount": 0,
+        "message": "终于知道大佬为什么拉的这么快了[笑哭]",
+        "subs": []
+      },
+      {
+        "uname": "2ndsame",
+        "like": 3,
+        "rcount": 1,
+        "message": "这方面的教学是相对匮乏的吧 从这教学的角度就值得三连",
+        "subs": [
+          {
+            "uname": "R3b1k",
+            "like": 2,
+            "message": "CODM圈子都忙魔怔饭圈去了根本没人上升到瞄准角度 反观隔壁和平精英这方面氛围更好"
+          }
+        ]
+      },
+      {
+        "uname": "卿缆棠",
+        "like": 3,
+        "rcount": 1,
+        "message": "@不憨憨的沙雕 呃，你觉得怎么样？",
+        "subs": [
+          {
+            "uname": "暮雨moyo",
+            "like": 2,
+            "message": "我不道哇"
+          }
+        ]
+      },
+      {
+        "uname": "Cons1derUrownArt",
+        "like": 3,
+        "rcount": 0,
+        "message": "无敌了",
+        "subs": []
+      },
+      {
+        "uname": "nsd176",
+        "like": 3,
+        "rcount": 0,
+        "message": "厉害👍",
+        "subs": []
+      },
+      {
+        "uname": "戏川",
+        "like": 3,
+        "rcount": 0,
+        "message": "luv sic",
+        "subs": []
+      },
+      {
+        "uname": "好运の泷",
+        "like": 3,
+        "rcount": 0,
+        "message": "老乡三连了[doge]",
+        "subs": []
+      },
+      {
+        "uname": "Saber的胜利",
+        "like": 3,
+        "rcount": 0,
+        "message": "练习，练习，再练习",
+        "subs": []
+      },
+      {
+        "uname": "2021年1月3日2点18分",
+        "like": 3,
+        "rcount": 0,
+        "message": "如果有个露手的就更好了了。",
+        "subs": []
+      },
+      {
+        "uname": "静霁空浅",
+        "like": 3,
+        "rcount": 1,
+        "message": "nujabes！",
+        "subs": [
+          {
+            "uname": "13LacRX",
+            "like": 2,
+            "message": "是的"
+          }
+        ]
+      },
+      {
+        "uname": "Airzero9",
+        "like": 3,
+        "rcount": 0,
+        "message": "先收藏，以后再练",
+        "subs": []
+      },
+      {
+        "uname": "DarkerThanBIack",
+        "like": 3,
+        "rcount": 0,
+        "message": "这种视频必须三连呀[打call]",
+        "subs": []
+      },
+      {
+        "uname": "账号已注销",
+        "like": 3,
+        "rcount": 0,
+        "message": "支持",
+        "subs": []
+      },
+      {
+        "uname": "不连续存在的美好",
+        "like": 3,
+        "rcount": 0,
+        "message": "瞄准 开火",
+        "subs": []
+      },
+      {
+        "uname": "9764882613629346",
+        "like": 3,
+        "rcount": 0,
+        "message": "对于瞄准有了新的理解，很棒[支持]",
+        "subs": []
+      },
+      {
+        "uname": "白芷zhiii",
+        "like": 3,
+        "rcount": 3,
+        "message": "还有很长的路要走[夏诺雅表情包_QAQ]",
+        "subs": [
+          {
+            "uname": "ten7cake",
+            "like": 2,
+            "message": "现在什么水平了"
+          },
+          {
+            "uname": "白芷zhiii",
+            "like": 2,
+            "message": "回复 @ten7cake :现在转电脑了[doge]"
+          },
+          {
+            "uname": "物相图",
+            "like": 0,
+            "message": "认知是什么项目（思考）"
+          }
+        ]
+      },
+      {
+        "uname": "Fall1nlovewithu",
+        "like": 3,
+        "rcount": 0,
+        "message": "非常好教程[星星眼]学习",
+        "subs": []
+      },
+      {
+        "uname": "黑夜里的一颗流星",
+        "like": 3,
+        "rcount": 0,
+        "message": "[花园Serena2_赞赏][花园Serena2_赞赏][花园Serena2_赞赏]",
+        "subs": []
+      },
+      {
+        "uname": "CoSmic_MURP",
+        "like": 3,
+        "rcount": 0,
+        "message": "这么好的视频值得有收益",
+        "subs": []
+      },
+      {
+        "uname": "MCGG-",
+        "like": 3,
+        "rcount": 0,
+        "message": "支持",
+        "subs": []
+      },
+      {
+        "uname": "绿针",
+        "like": 3,
+        "rcount": 0,
+        "message": "[热词系列_三连]",
+        "subs": []
+      },
+      {
+        "uname": "Re4rainn",
+        "like": 3,
+        "rcount": 0,
+        "message": "学习学习",
+        "subs": []
+      },
+      {
+        "uname": "Man1am",
+        "like": 3,
+        "rcount": 0,
+        "message": "英雄",
+        "subs": []
+      },
+      {
+        "uname": "网友拉顺黑",
+        "like": 3,
+        "rcount": 0,
+        "message": "没人看孩子",
+        "subs": []
+      },
+      {
+        "uname": "Mar2sa_",
+        "like": 3,
+        "rcount": 0,
+        "message": "faye现在玩电脑很高产啊",
+        "subs": []
+      },
+      {
+        "uname": "玲川玖奈",
+        "like": 3,
+        "rcount": 0,
+        "message": "学习学习",
+        "subs": []
+      },
+      {
+        "uname": "神都一直都在下雨",
+        "like": 2,
+        "rcount": 0,
+        "message": "24年看过，26年再来看还是很有观赏性",
+        "subs": []
+      },
+      {
+        "uname": "神秘狗锋需要技巧",
+        "like": 2,
+        "rcount": 1,
+        "message": "常看常新",
+        "subs": [
+          {
+            "uname": "13LacRX",
+            "like": 2,
+            "message": "[汤圆][汤圆]"
+          }
+        ]
+      },
+      {
+        "uname": "无离JJ",
+        "like": 2,
+        "rcount": 0,
+        "message": "@ASJIshsha",
+        "subs": []
+      },
+      {
+        "uname": "wsf15",
+        "like": 2,
+        "rcount": 2,
+        "message": "作者或评论区的大佬，对于转火时左侧滑屏定位不精准有没有什么好点的训练方式（三角洲）？",
+        "subs": [
+          {
+            "uname": "划墙有瘾",
+            "like": 2,
+            "message": "多练没别的办法"
+          },
+          {
+            "uname": "wsf15",
+            "like": 2,
+            "message": "回复 @划墙有瘾 :行"
+          }
+        ]
+      },
+      {
+        "uname": "千年开发部的王小桃",
+        "like": 2,
+        "rcount": 0,
+        "message": "已经认真看了up讲的很详细[脱单doge]",
+        "subs": []
+      },
+      {
+        "uname": "fat_串串正",
+        "like": 2,
+        "rcount": 0,
+        "message": "现在不行了，人机伤害判断变了，人机是先算伤害然后装样子。在高端局一个人机面前活不过4秒3个面前活不过2秒[doge]",
+        "subs": []
+      },
+      {
+        "uname": "Takumiii__",
+        "like": 2,
+        "rcount": 0,
+        "message": "谢谢up！食指不固定那一条给了我很大启发",
+        "subs": []
+      },
+      {
+        "uname": "小鸿top1",
+        "like": 2,
+        "rcount": 0,
+        "message": "up能不能出一期摇杆的视频，我给你10个笔[脱单doge]",
+        "subs": []
+      },
+      {
+        "uname": "精神病羊飞羽",
+        "like": 2,
+        "rcount": 0,
+        "message": "@EP厄普西隆",
+        "subs": []
+      }
+    ]
+  }
+}

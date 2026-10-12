@@ -1,0 +1,1956 @@
+{
+  "P1": [
+    {
+      "from": 0.06,
+      "to": 1.65,
+      "sid": 1,
+      "location": 2,
+      "content": "明月有后面上这样正中吗",
+      "music": 0.0
+    },
+    {
+      "from": 1.65,
+      "to": 2.76,
+      "sid": 2,
+      "location": 2,
+      "content": "练枪练很久了",
+      "music": 0.0
+    },
+    {
+      "from": 2.76,
+      "to": 3.96,
+      "sid": 3,
+      "location": 2,
+      "content": "静态目标一打一个准",
+      "music": 0.0
+    },
+    {
+      "from": 3.96,
+      "to": 4.44,
+      "sid": 4,
+      "location": 2,
+      "content": "一动靶",
+      "music": 0.0
+    },
+    {
+      "from": 4.44,
+      "to": 5.25,
+      "sid": 5,
+      "location": 2,
+      "content": "疯狂把枪",
+      "music": 0.0
+    },
+    {
+      "from": 5.25,
+      "to": 6.48,
+      "sid": 6,
+      "location": 2,
+      "content": "感觉自己定位到了",
+      "music": 0.0
+    },
+    {
+      "from": 6.48,
+      "to": 7.59,
+      "sid": 7,
+      "location": 2,
+      "content": "但就是打不到头",
+      "music": 0.0
+    },
+    {
+      "from": 7.59,
+      "to": 8.25,
+      "sid": 8,
+      "location": 2,
+      "content": "各位观众朋友们",
+      "music": 0.0
+    },
+    {
+      "from": 8.25,
+      "to": 8.43,
+      "sid": 9,
+      "location": 2,
+      "content": "大家好",
+      "music": 0.0
+    },
+    {
+      "from": 8.43,
+      "to": 9.39,
+      "sid": 10,
+      "location": 2,
+      "content": "我是东彦",
+      "music": 0.0
+    },
+    {
+      "from": 9.39,
+      "to": 11.55,
+      "sid": 11,
+      "location": 2,
+      "content": "今天我们用一期视频来帮助大家解决",
+      "music": 0.0
+    },
+    {
+      "from": 11.55,
+      "to": 12.75,
+      "sid": 12,
+      "location": 2,
+      "content": "打不中移动靶的问题",
+      "music": 0.0
+    },
+    {
+      "from": 12.75,
+      "to": 14.19,
+      "sid": 13,
+      "location": 2,
+      "content": "那后面上一直播放的素材",
+      "music": 0.0
+    },
+    {
+      "from": 14.19,
+      "to": 16.59,
+      "sid": 14,
+      "location": 2,
+      "content": "来自我一位舰长提供给我的复盘内容",
+      "music": 0.0
+    },
+    {
+      "from": 16.59,
+      "to": 17.91,
+      "sid": 15,
+      "location": 2,
+      "content": "他练枪练蛮久了",
+      "music": 0.0
+    },
+    {
+      "from": 17.91,
+      "to": 19.65,
+      "sid": 16,
+      "location": 2,
+      "content": "目前的目标都达13万了",
+      "music": 0.0
+    },
+    {
+      "from": 19.65,
+      "to": 22.17,
+      "sid": 17,
+      "location": 2,
+      "content": "已经是一个比较优秀的静态定位水准了",
+      "music": 0.0
+    },
+    {
+      "from": 22.17,
+      "to": 24.39,
+      "sid": 18,
+      "location": 2,
+      "content": "但是在游戏中进行正义死斗的时候",
+      "music": 0.0
+    },
+    {
+      "from": 24.39,
+      "to": 25.41,
+      "sid": 19,
+      "location": 2,
+      "content": "发现特别坐牢",
+      "music": 0.0
+    },
+    {
+      "from": 25.41,
+      "to": 26.49,
+      "sid": 20,
+      "location": 2,
+      "content": "敌人一旦动起来",
+      "music": 0.0
+    },
+    {
+      "from": 26.49,
+      "to": 28.2,
+      "sid": 21,
+      "location": 2,
+      "content": "他也阅读不到敌人运动轨迹",
+      "music": 0.0
+    },
+    {
+      "from": 28.2,
+      "to": 29.37,
+      "sid": 22,
+      "location": 2,
+      "content": "近距离遇敌的时候",
+      "music": 0.0
+    },
+    {
+      "from": 29.37,
+      "to": 30.15,
+      "sid": 23,
+      "location": 2,
+      "content": "眼睛会失焦",
+      "music": 0.0
+    },
+    {
+      "from": 30.15,
+      "to": 31.36,
+      "sid": 24,
+      "location": 2,
+      "content": "感觉看不清敌人",
+      "music": 0.0
+    },
+    {
+      "from": 31.36,
+      "to": 33.28,
+      "sid": 25,
+      "location": 2,
+      "content": "自己的定位总是比别人的移动慢",
+      "music": 0.0
+    },
+    {
+      "from": 33.28,
+      "to": 33.91,
+      "sid": 26,
+      "location": 2,
+      "content": "上一拍",
+      "music": 0.0
+    },
+    {
+      "from": 33.91,
+      "to": 34.66,
+      "sid": 27,
+      "location": 2,
+      "content": "开火的时候",
+      "music": 0.0
+    },
+    {
+      "from": 34.66,
+      "to": 35.92,
+      "sid": 28,
+      "location": 2,
+      "content": "准星所处的位置",
+      "music": 0.0
+    },
+    {
+      "from": 35.92,
+      "to": 38.23,
+      "sid": 29,
+      "location": 2,
+      "content": "总是处在敌人前一秒所在的地方",
+      "music": 0.0
+    },
+    {
+      "from": 38.23,
+      "to": 41.05,
+      "sid": 30,
+      "location": 2,
+      "content": "那我们接下来就拆解一下他所遇到的问题",
+      "music": 0.0
+    },
+    {
+      "from": 41.05,
+      "to": 43.63,
+      "sid": 31,
+      "location": 2,
+      "content": "首先第一个问题也就是敌人一旦动起来",
+      "music": 0.0
+    },
+    {
+      "from": 43.63,
+      "to": 45.5,
+      "sid": 32,
+      "location": 2,
+      "content": "他阅读不到敌人的运动轨迹",
+      "music": 0.0
+    },
+    {
+      "from": 45.5,
+      "to": 48.02,
+      "sid": 33,
+      "location": 2,
+      "content": "我们在之前的瞄准教学第一季中描述过",
+      "music": 0.0
+    },
+    {
+      "from": 48.02,
+      "to": 49.85,
+      "sid": 34,
+      "location": 2,
+      "content": "正确瞄准的简易全过程",
+      "music": 0.0
+    },
+    {
+      "from": 49.85,
+      "to": 51.71,
+      "sid": 35,
+      "location": 2,
+      "content": "很多人可能都听说过很多次了",
+      "music": 0.0
+    },
+    {
+      "from": 51.71,
+      "to": 54.38,
+      "sid": 36,
+      "location": 2,
+      "content": "我们再也没看过过往教学的观众重复一遍",
+      "music": 0.0
+    },
+    {
+      "from": 54.38,
+      "to": 56.03,
+      "sid": 37,
+      "location": 2,
+      "content": "也就是瞄准不是记录记忆",
+      "music": 0.0
+    },
+    {
+      "from": 56.03,
+      "to": 57.03,
+      "sid": 38,
+      "location": 2,
+      "content": "而是手眼协调",
+      "music": 0.0
+    },
+    {
+      "from": 57.03,
+      "to": 59.13,
+      "sid": 39,
+      "location": 2,
+      "content": "当我们用眼睛锁定目标的时候",
+      "music": 0.0
+    },
+    {
+      "from": 59.13,
+      "to": 61.95,
+      "sid": 40,
+      "location": 2,
+      "content": "我们大脑给手下达了一个移动鼠标指令",
+      "music": 0.0
+    },
+    {
+      "from": 61.95,
+      "to": 64.35,
+      "sid": 41,
+      "location": 2,
+      "content": "此时我们的准星会快速接近目标",
+      "music": 0.0
+    },
+    {
+      "from": 64.35,
+      "to": 66.81,
+      "sid": 42,
+      "location": 2,
+      "content": "当我们的眼睛捕捉到快速移动的准星",
+      "music": 0.0
+    },
+    {
+      "from": 66.81,
+      "to": 68.66,
+      "sid": 43,
+      "location": 2,
+      "content": "与瞄准目标即将重合的时候",
+      "music": 0.0
+    },
+    {
+      "from": 68.66,
+      "to": 71.69,
+      "sid": 44,
+      "location": 2,
+      "content": "大脑立即给手下达了一个停止移动的指令",
+      "music": 0.0
+    },
+    {
+      "from": 71.69,
+      "to": 74.54,
+      "sid": 45,
+      "location": 2,
+      "content": "我们的手会开始给鼠标一个反向的加速度",
+      "music": 0.0
+    },
+    {
+      "from": 74.54,
+      "to": 76.88,
+      "sid": 46,
+      "location": 2,
+      "content": "对于这一过程我们称呼为瞄准的确认",
+      "music": 0.0
+    },
+    {
+      "from": 76.88,
+      "to": 79.94,
+      "sid": 47,
+      "location": 2,
+      "content": "而这可以说是瞄准全过程中最重要的一步",
+      "music": 0.0
+    },
+    {
+      "from": 79.94,
+      "to": 82.94,
+      "sid": 48,
+      "location": 2,
+      "content": "在对鼠标的移动进行了一段减速过程之后",
+      "music": 0.0
+    },
+    {
+      "from": 82.94,
+      "to": 84.62,
+      "sid": 49,
+      "location": 2,
+      "content": "当鼠标真正停下的时候啊",
+      "music": 0.0
+    },
+    {
+      "from": 84.62,
+      "to": 86.31,
+      "sid": 50,
+      "location": 2,
+      "content": "准星可能已经偏离目标",
+      "music": 0.0
+    },
+    {
+      "from": 86.31,
+      "to": 88.89,
+      "sid": 51,
+      "location": 2,
+      "content": "这个时候就需要我们进行与上述过程类似的",
+      "music": 0.0
+    },
+    {
+      "from": 88.89,
+      "to": 90.63,
+      "sid": 52,
+      "location": 2,
+      "content": "多次修正来完成瞄准",
+      "music": 0.0
+    },
+    {
+      "from": 90.63,
+      "to": 92.55,
+      "sid": 53,
+      "location": 2,
+      "content": "而这就是一次定位后的二次",
+      "music": 0.0
+    },
+    {
+      "from": 92.55,
+      "to": 94.12,
+      "sid": 54,
+      "location": 2,
+      "content": "三次甚至更多次修正了",
+      "music": 0.0
+    },
+    {
+      "from": 94.12,
+      "to": 95.08,
+      "sid": 55,
+      "location": 2,
+      "content": "流水能力越强",
+      "music": 0.0
+    },
+    {
+      "from": 95.08,
+      "to": 96.28,
+      "sid": 56,
+      "location": 2,
+      "content": "你修正的次数就越少",
+      "music": 0.0
+    },
+    {
+      "from": 96.28,
+      "to": 97.84,
+      "sid": 57,
+      "location": 2,
+      "content": "甚至可能根本就不需要修正",
+      "music": 0.0
+    },
+    {
+      "from": 97.84,
+      "to": 99.4,
+      "sid": 58,
+      "location": 2,
+      "content": "而在这瞄准的全过程中",
+      "music": 0.0
+    },
+    {
+      "from": 99.4,
+      "to": 100.3,
+      "sid": 59,
+      "location": 2,
+      "content": "我们一定要注意",
+      "music": 0.0
+    },
+    {
+      "from": 100.3,
+      "to": 103.3,
+      "sid": 60,
+      "location": 2,
+      "content": "我们眼睛的主要焦点始终是锁在目标上的",
+      "music": 0.0
+    },
+    {
+      "from": 103.3,
+      "to": 104.62,
+      "sid": 61,
+      "location": 2,
+      "content": "准星则是由余光来",
+      "music": 0.0
+    },
+    {
+      "from": 104.66,
+      "to": 105.88,
+      "sid": 62,
+      "location": 2,
+      "content": "如果你搞反了",
+      "music": 0.0
+    },
+    {
+      "from": 105.88,
+      "to": 108.34,
+      "sid": 63,
+      "location": 2,
+      "content": "主次点击的主要焦点集中在准星上",
+      "music": 0.0
+    },
+    {
+      "from": 108.34,
+      "to": 110.64,
+      "sid": 64,
+      "location": 2,
+      "content": "那自然是阅读不好目标的运动轨迹的",
+      "music": 0.0
+    },
+    {
+      "from": 110.64,
+      "to": 113.07,
+      "sid": 65,
+      "location": 2,
+      "content": "如果你还是看不清运动目标的移动轨迹",
+      "music": 0.0
+    },
+    {
+      "from": 113.07,
+      "to": 115.66,
+      "sid": 66,
+      "location": 2,
+      "content": "我建议大家练一些涉及变相的跟枪项目",
+      "music": 0.0
+    },
+    {
+      "from": 115.66,
+      "to": 118.81,
+      "sid": 67,
+      "location": 2,
+      "content": "因为无畏区本质上其实不太适合跟枪瞄准技巧",
+      "music": 0.0
+    },
+    {
+      "from": 118.81,
+      "to": 120.76,
+      "sid": 68,
+      "location": 2,
+      "content": "因为这个项目只是为了提升各位",
+      "music": 0.0
+    },
+    {
+      "from": 120.76,
+      "to": 122.14,
+      "sid": 69,
+      "location": 2,
+      "content": "对动态目标的阅读能力",
+      "music": 0.0
+    },
+    {
+      "from": 122.14,
+      "to": 124.0,
+      "sid": 70,
+      "location": 2,
+      "content": "其实也不需要找太难的项目啊",
+      "music": 0.0
+    },
+    {
+      "from": 124.0,
+      "to": 124.72,
+      "sid": 71,
+      "location": 2,
+      "content": "在游戏中",
+      "music": 0.0
+    },
+    {
+      "from": 124.72,
+      "to": 127.16,
+      "sid": 72,
+      "location": 2,
+      "content": "我们可以用开放靶场的100boss进行训练",
+      "music": 0.0
+    },
+    {
+      "from": 127.16,
+      "to": 128.84,
+      "sid": 73,
+      "location": 2,
+      "content": "我们使用截风这名英雄啊",
+      "music": 0.0
+    },
+    {
+      "from": 128.84,
+      "to": 129.59,
+      "sid": 74,
+      "location": 2,
+      "content": "开启巨刃",
+      "music": 0.0
+    },
+    {
+      "from": 129.59,
+      "to": 131.15,
+      "sid": 75,
+      "location": 2,
+      "content": "不要第一时间击杀boss",
+      "music": 0.0
+    },
+    {
+      "from": 131.15,
+      "to": 132.38,
+      "sid": 76,
+      "location": 2,
+      "content": "等boss动起来啊",
+      "music": 0.0
+    },
+    {
+      "from": 132.38,
+      "to": 133.88,
+      "sid": 77,
+      "location": 2,
+      "content": "在自身保持移动的同时",
+      "music": 0.0
+    },
+    {
+      "from": 133.88,
+      "to": 135.75,
+      "sid": 78,
+      "location": 2,
+      "content": "让准星跟住boss再开火",
+      "music": 0.0
+    },
+    {
+      "from": 135.75,
+      "to": 138.48,
+      "sid": 79,
+      "location": 2,
+      "content": "要点是体验眼睛跟着目标走的感觉",
+      "music": 0.0
+    },
+    {
+      "from": 138.48,
+      "to": 139.59,
+      "sid": 80,
+      "location": 2,
+      "content": "但不得不提的是",
+      "music": 0.0
+    },
+    {
+      "from": 139.59,
+      "to": 141.03,
+      "sid": 81,
+      "location": 2,
+      "content": "在解决这种问题的效率上",
+      "music": 0.0
+    },
+    {
+      "from": 141.03,
+      "to": 143.17,
+      "sid": 82,
+      "location": 2,
+      "content": "还是借助练枪软件会更好一些",
+      "music": 0.0
+    },
+    {
+      "from": 143.17,
+      "to": 145.03,
+      "sid": 83,
+      "location": 2,
+      "content": "画面上这个vt close range",
+      "music": 0.0
+    },
+    {
+      "from": 145.03,
+      "to": 147.019,
+      "sid": 84,
+      "location": 2,
+      "content": "MEDTRACKING就是个不错的项目",
+      "music": 0.0
+    },
+    {
+      "from": 147.019,
+      "to": 149.449,
+      "sid": 85,
+      "location": 2,
+      "content": "大家在steam im lab这个练枪软件中",
+      "music": 0.0
+    },
+    {
+      "from": 149.449,
+      "to": 151.61,
+      "sid": 86,
+      "location": 2,
+      "content": "左下角搜索关键词即可找到",
+      "music": 0.0
+    },
+    {
+      "from": 151.61,
+      "to": 153.05,
+      "sid": 87,
+      "location": 2,
+      "content": "坚持练上几个小时",
+      "music": 0.0
+    },
+    {
+      "from": 153.05,
+      "to": 153.95,
+      "sid": 88,
+      "location": 2,
+      "content": "一般就能找到那种",
+      "music": 0.0
+    },
+    {
+      "from": 153.95,
+      "to": 155.87,
+      "sid": 89,
+      "location": 2,
+      "content": "大部分注意力都跟着目标的运动",
+      "music": 0.0
+    },
+    {
+      "from": 155.87,
+      "to": 158.079,
+      "sid": 90,
+      "location": 2,
+      "content": "而余光看着准星做修正的感觉",
+      "music": 0.0
+    },
+    {
+      "from": 158.079,
+      "to": 159.579,
+      "sid": 91,
+      "location": 2,
+      "content": "分数呢也不用打太高啊",
+      "music": 0.0
+    },
+    {
+      "from": 159.579,
+      "to": 162.07,
+      "sid": 92,
+      "location": 2,
+      "content": "打了2000分在无畏区就算可以了",
+      "music": 0.0
+    },
+    {
+      "from": 162.07,
+      "to": 163.09,
+      "sid": 93,
+      "location": 2,
+      "content": "那第二个问题呢",
+      "music": 0.0
+    },
+    {
+      "from": 163.09,
+      "to": 165.82,
+      "sid": 94,
+      "location": 2,
+      "content": "也就是所谓的定位总是比别人的移动慢上一拍",
+      "music": 0.0
+    },
+    {
+      "from": 165.82,
+      "to": 166.63,
+      "sid": 95,
+      "location": 2,
+      "content": "开火的时候",
+      "music": 0.0
+    },
+    {
+      "from": 166.63,
+      "to": 170.16,
+      "sid": 96,
+      "location": 2,
+      "content": "准星所处的位置总是处在敌人前一秒所在位置",
+      "music": 0.0
+    },
+    {
+      "from": 170.16,
+      "to": 172.8,
+      "sid": 97,
+      "location": 2,
+      "content": "那这个问题频发于一些只练静态定位",
+      "music": 0.0
+    },
+    {
+      "from": 172.8,
+      "to": 174.99,
+      "sid": 98,
+      "location": 2,
+      "content": "根本不练动态定位的玩家身上",
+      "music": 0.0
+    },
+    {
+      "from": 174.99,
+      "to": 175.68,
+      "sid": 99,
+      "location": 2,
+      "content": "虽然无味",
+      "music": 0.0
+    },
+    {
+      "from": 175.68,
+      "to": 178.16,
+      "sid": 100,
+      "location": 2,
+      "content": "缺不像守望先锋一样强调动态定位",
+      "music": 0.0
+    },
+    {
+      "from": 178.16,
+      "to": 180.02,
+      "sid": 101,
+      "location": 2,
+      "content": "但是了解一些动态定义的基本技巧",
+      "music": 0.0
+    },
+    {
+      "from": 180.02,
+      "to": 181.19,
+      "sid": 102,
+      "location": 2,
+      "content": "还是十分必要的",
+      "music": 0.0
+    },
+    {
+      "from": 181.19,
+      "to": 182.66,
+      "sid": 103,
+      "location": 2,
+      "content": "那么为了解决这个问题啊",
+      "music": 0.0
+    },
+    {
+      "from": 182.66,
+      "to": 184.04,
+      "sid": 104,
+      "location": 2,
+      "content": "首先我们要了解一个概念",
+      "music": 0.0
+    },
+    {
+      "from": 184.04,
+      "to": 185.27,
+      "sid": 105,
+      "location": 2,
+      "content": "叫做点击时机",
+      "music": 0.0
+    },
+    {
+      "from": 185.27,
+      "to": 186.42,
+      "sid": 106,
+      "location": 2,
+      "content": "如动画所示",
+      "music": 0.0
+    },
+    {
+      "from": 186.42,
+      "to": 187.92,
+      "sid": 107,
+      "location": 2,
+      "content": "我的准星保持不动",
+      "music": 0.0
+    },
+    {
+      "from": 187.92,
+      "to": 190.56,
+      "sid": 108,
+      "location": 2,
+      "content": "一个小球正在向着准星所在的位置移动",
+      "music": 0.0
+    },
+    {
+      "from": 190.56,
+      "to": 192.96,
+      "sid": 109,
+      "location": 2,
+      "content": "当我们看到准星标完全重合的时候",
+      "music": 0.0
+    },
+    {
+      "from": 192.96,
+      "to": 195.3,
+      "sid": 110,
+      "location": 2,
+      "content": "我们的大脑再给手下达一个停止移动",
+      "music": 0.0
+    },
+    {
+      "from": 195.3,
+      "to": 196.41,
+      "sid": 111,
+      "location": 2,
+      "content": "并开火的指令",
+      "music": 0.0
+    },
+    {
+      "from": 196.41,
+      "to": 197.43,
+      "sid": 112,
+      "location": 2,
+      "content": "如果这样开枪",
+      "music": 0.0
+    },
+    {
+      "from": 197.43,
+      "to": 199.6,
+      "sid": 113,
+      "location": 2,
+      "content": "那往往我们都会射空这发子弹",
+      "music": 0.0
+    },
+    {
+      "from": 199.6,
+      "to": 201.52,
+      "sid": 114,
+      "location": 2,
+      "content": "这是因为从光反射到眼睛",
+      "music": 0.0
+    },
+    {
+      "from": 201.52,
+      "to": 203.62,
+      "sid": 115,
+      "location": 2,
+      "content": "视觉信息经神经网络被大脑接收",
+      "music": 0.0
+    },
+    {
+      "from": 203.62,
+      "to": 204.94,
+      "sid": 116,
+      "location": 2,
+      "content": "大脑在对手下达指令",
+      "music": 0.0
+    },
+    {
+      "from": 204.94,
+      "to": 206.8,
+      "sid": 117,
+      "location": 2,
+      "content": "这一过程是一定存在延迟的",
+      "music": 0.0
+    },
+    {
+      "from": 206.8,
+      "to": 209.68,
+      "sid": 118,
+      "location": 2,
+      "content": "鼠标的输入也会根据设备的不同所在延迟",
+      "music": 0.0
+    },
+    {
+      "from": 209.68,
+      "to": 210.94,
+      "sid": 119,
+      "location": 2,
+      "content": "那正确的做法是",
+      "music": 0.0
+    },
+    {
+      "from": 210.94,
+      "to": 213.34,
+      "sid": 120,
+      "location": 2,
+      "content": "我们应该将这一部分延迟也计算进去",
+      "music": 0.0
+    },
+    {
+      "from": 213.34,
+      "to": 216.11,
+      "sid": 121,
+      "location": 2,
+      "content": "在合适的时期带着预判点击鼠标",
+      "music": 0.0
+    },
+    {
+      "from": 216.11,
+      "to": 218.75,
+      "sid": 122,
+      "location": 2,
+      "content": "上述这些场景其实也被我们称为等枪",
+      "music": 0.0
+    },
+    {
+      "from": 218.75,
+      "to": 221.03,
+      "sid": 123,
+      "location": 2,
+      "content": "也就是我们通过预判敌人运动轨迹",
+      "music": 0.0
+    },
+    {
+      "from": 221.03,
+      "to": 224.2,
+      "sid": 124,
+      "location": 2,
+      "content": "将准星提前放在目标即将经过的路线上",
+      "music": 0.0
+    },
+    {
+      "from": 224.2,
+      "to": 225.64,
+      "sid": 125,
+      "location": 2,
+      "content": "等目标撞上准星",
+      "music": 0.0
+    },
+    {
+      "from": 225.64,
+      "to": 227.47,
+      "sid": 126,
+      "location": 2,
+      "content": "在合适的时机开火的场景",
+      "music": 0.0
+    },
+    {
+      "from": 227.47,
+      "to": 229.709,
+      "sid": 127,
+      "location": 2,
+      "content": "这个技巧在无意却是非常好用的",
+      "music": 0.0
+    },
+    {
+      "from": 229.709,
+      "to": 232.049,
+      "sid": 128,
+      "location": 2,
+      "content": "当对手的移动轨迹比较飘忽不定的时候",
+      "music": 0.0
+    },
+    {
+      "from": 232.049,
+      "to": 235.08,
+      "sid": 129,
+      "location": 2,
+      "content": "活用等枪技巧来降低瞄准难度是最优之选",
+      "music": 0.0
+    },
+    {
+      "from": 235.08,
+      "to": 237.36,
+      "sid": 130,
+      "location": 2,
+      "content": "那很多人在游戏中架不住敌人大拉",
+      "music": 0.0
+    },
+    {
+      "from": 237.36,
+      "to": 239.22,
+      "sid": 131,
+      "location": 2,
+      "content": "排除苗提前量不变的因素啊",
+      "music": 0.0
+    },
+    {
+      "from": 239.22,
+      "to": 242.01,
+      "sid": 132,
+      "location": 2,
+      "content": "很可能就是因为不了解点击时期的概念",
+      "music": 0.0
+    },
+    {
+      "from": 242.01,
+      "to": 244.05,
+      "sid": 133,
+      "location": 2,
+      "content": "在敌人也满速大拉的时候",
+      "music": 0.0
+    },
+    {
+      "from": 244.05,
+      "to": 245.76,
+      "sid": 134,
+      "location": 2,
+      "content": "即使你的预瞄非常的正确",
+      "music": 0.0
+    },
+    {
+      "from": 245.76,
+      "to": 248.76,
+      "sid": 135,
+      "location": 2,
+      "content": "但如果你等眼睛看到准星和点完全重合",
+      "music": 0.0
+    },
+    {
+      "from": 248.76,
+      "to": 250.53,
+      "sid": 136,
+      "location": 2,
+      "content": "再点击鼠标就太晚了",
+      "music": 0.0
+    },
+    {
+      "from": 250.53,
+      "to": 252.67,
+      "sid": 137,
+      "location": 2,
+      "content": "一定要理解点击实际的概念",
+      "music": 0.0
+    },
+    {
+      "from": 252.67,
+      "to": 254.35,
+      "sid": 138,
+      "location": 2,
+      "content": "除了上述的静态准星",
+      "music": 0.0
+    },
+    {
+      "from": 254.35,
+      "to": 256.169,
+      "sid": 139,
+      "location": 2,
+      "content": "等待动态目标撞上来之外",
+      "music": 0.0
+    },
+    {
+      "from": 256.169,
+      "to": 258.689,
+      "sid": 140,
+      "location": 2,
+      "content": "在游戏内更积极也是更常见的瞄准动作",
+      "music": 0.0
+    },
+    {
+      "from": 258.689,
+      "to": 261.24,
+      "sid": 141,
+      "location": 2,
+      "content": "则是我们将运动的准星拉到动态的目标上",
+      "music": 0.0
+    },
+    {
+      "from": 261.24,
+      "to": 264.24,
+      "sid": 142,
+      "location": 2,
+      "content": "此时需要你全神贯注的阅读目标的运动轨迹",
+      "music": 0.0
+    },
+    {
+      "from": 264.24,
+      "to": 265.02,
+      "sid": 143,
+      "location": 2,
+      "content": "进行微调",
+      "music": 0.0
+    },
+    {
+      "from": 265.02,
+      "to": 268.57,
+      "sid": 144,
+      "location": 2,
+      "content": "而刚刚讲过的点击时机依旧会影响瞄准的成败",
+      "music": 0.0
+    },
+    {
+      "from": 268.57,
+      "to": 270.19,
+      "sid": 145,
+      "location": 2,
+      "content": "此外对于动态的目标",
+      "music": 0.0
+    },
+    {
+      "from": 270.19,
+      "to": 272.08,
+      "sid": 146,
+      "location": 2,
+      "content": "我们还可以采用跟枪的技巧",
+      "music": 0.0
+    },
+    {
+      "from": 272.08,
+      "to": 273.52,
+      "sid": 147,
+      "location": 2,
+      "content": "让准星跟着目标",
+      "music": 0.0
+    },
+    {
+      "from": 273.52,
+      "to": 275.32,
+      "sid": 148,
+      "location": 2,
+      "content": "等待一个合适的时机再开火",
+      "music": 0.0
+    },
+    {
+      "from": 275.32,
+      "to": 276.32,
+      "sid": 149,
+      "location": 2,
+      "content": "如画面所示",
+      "music": 0.0
+    },
+    {
+      "from": 276.32,
+      "to": 277.94,
+      "sid": 150,
+      "location": 2,
+      "content": "这种技巧确实能帮助我们",
+      "music": 0.0
+    },
+    {
+      "from": 277.94,
+      "to": 279.56,
+      "sid": 151,
+      "location": 2,
+      "content": "在一些场景中击中目标",
+      "music": 0.0
+    },
+    {
+      "from": 279.56,
+      "to": 280.76,
+      "sid": 152,
+      "location": 2,
+      "content": "但因为耗时过长啊",
+      "music": 0.0
+    },
+    {
+      "from": 280.76,
+      "to": 281.42,
+      "sid": 153,
+      "location": 2,
+      "content": "效率偏低",
+      "music": 0.0
+    },
+    {
+      "from": 281.42,
+      "to": 284.05,
+      "sid": 154,
+      "location": 2,
+      "content": "在无畏缺中短期游戏中是不算实用的",
+      "music": 0.0
+    },
+    {
+      "from": 284.05,
+      "to": 285.43,
+      "sid": 155,
+      "location": 2,
+      "content": "总之我们会发现",
+      "music": 0.0
+    },
+    {
+      "from": 285.43,
+      "to": 286.93,
+      "sid": 156,
+      "location": 2,
+      "content": "相比较于静态定位啊",
+      "music": 0.0
+    },
+    {
+      "from": 286.93,
+      "to": 289.69,
+      "sid": 157,
+      "location": 2,
+      "content": "动态目标定位技巧多出了对动态目标的阅读",
+      "music": 0.0
+    },
+    {
+      "from": 289.69,
+      "to": 292.87,
+      "sid": 158,
+      "location": 2,
+      "content": "等枪点击时机跟枪这些方面的技巧",
+      "music": 0.0
+    },
+    {
+      "from": 292.87,
+      "to": 293.95,
+      "sid": 159,
+      "location": 2,
+      "content": "但又因为无畏",
+      "music": 0.0
+    },
+    {
+      "from": 293.95,
+      "to": 295.57,
+      "sid": 160,
+      "location": 2,
+      "content": "却并不会像守望先锋一样",
+      "music": 0.0
+    },
+    {
+      "from": 295.57,
+      "to": 298.73,
+      "sid": 161,
+      "location": 2,
+      "content": "人物可以非常鬼畜的做变向和加速的动作",
+      "music": 0.0
+    },
+    {
+      "from": 298.73,
+      "to": 301.07,
+      "sid": 162,
+      "location": 2,
+      "content": "精通这些技巧的边际收益不算大",
+      "music": 0.0
+    },
+    {
+      "from": 301.07,
+      "to": 302.99,
+      "sid": 163,
+      "location": 2,
+      "content": "我们打一些偏简单的动作项目",
+      "music": 0.0
+    },
+    {
+      "from": 302.99,
+      "to": 304.56,
+      "sid": 164,
+      "location": 2,
+      "content": "基本掌握这些技巧即可",
+      "music": 0.0
+    },
+    {
+      "from": 304.56,
+      "to": 305.7,
+      "sid": 165,
+      "location": 2,
+      "content": "如画面所示啊",
+      "music": 0.0
+    },
+    {
+      "from": 305.7,
+      "to": 306.72,
+      "sid": 166,
+      "location": 2,
+      "content": "Vt floating dos",
+      "music": 0.0
+    },
+    {
+      "from": 306.72,
+      "to": 308.04,
+      "sid": 167,
+      "location": 2,
+      "content": "Go to the vivt",
+      "music": 0.0
+    },
+    {
+      "from": 308.04,
+      "to": 309.42,
+      "sid": 168,
+      "location": 2,
+      "content": "Wwtarget valued hard",
+      "music": 0.0
+    },
+    {
+      "from": 309.42,
+      "to": 310.52,
+      "sid": 169,
+      "location": 2,
+      "content": "都是不错的项目",
+      "music": 0.0
+    },
+    {
+      "from": 310.52,
+      "to": 313.58,
+      "sid": 170,
+      "location": 2,
+      "content": "大家可以在MV中自行搜索并进行练习",
+      "music": 0.0
+    },
+    {
+      "from": 313.58,
+      "to": 315.08,
+      "sid": 171,
+      "location": 2,
+      "content": "和静态定位项目一样啊",
+      "music": 0.0
+    },
+    {
+      "from": 315.08,
+      "to": 316.76,
+      "sid": 172,
+      "location": 2,
+      "content": "一开始不要盲目追求速度",
+      "music": 0.0
+    },
+    {
+      "from": 316.76,
+      "to": 317.42,
+      "sid": 173,
+      "location": 2,
+      "content": "还是那句话",
+      "music": 0.0
+    },
+    {
+      "from": 317.42,
+      "to": 318.82,
+      "sid": 174,
+      "location": 2,
+      "content": "慢就是稳稳就是快",
+      "music": 0.0
+    },
+    {
+      "from": 318.82,
+      "to": 321.58,
+      "sid": 175,
+      "location": 2,
+      "content": "只有保持低的空枪率才能提高速度啊",
+      "music": 0.0
+    },
+    {
+      "from": 321.58,
+      "to": 324.34,
+      "sid": 176,
+      "location": 2,
+      "content": "那么右手的瞄准能力上有关于动态定位的内容",
+      "music": 0.0
+    },
+    {
+      "from": 324.34,
+      "to": 325.83,
+      "sid": 177,
+      "location": 2,
+      "content": "讲到这里基本上差不多了",
+      "music": 0.0
+    },
+    {
+      "from": 325.83,
+      "to": 328.77,
+      "sid": 178,
+      "location": 2,
+      "content": "当你的手部控制力通过静态的项目得到了夯实",
+      "music": 0.0
+    },
+    {
+      "from": 328.77,
+      "to": 331.02,
+      "sid": 179,
+      "location": 2,
+      "content": "却发现在未区里打了动态的目标",
+      "music": 0.0
+    },
+    {
+      "from": 331.02,
+      "to": 333.39,
+      "sid": 180,
+      "location": 2,
+      "content": "其实很多时候就只是插了一层窗户纸",
+      "music": 0.0
+    },
+    {
+      "from": 333.39,
+      "to": 335.85,
+      "sid": 181,
+      "location": 2,
+      "content": "当然理解了本期视频的一些概念性的内容",
+      "music": 0.0
+    },
+    {
+      "from": 335.85,
+      "to": 337.32,
+      "sid": 182,
+      "location": 2,
+      "content": "并进行相对应的练习",
+      "music": 0.0
+    },
+    {
+      "from": 337.32,
+      "to": 339.659,
+      "sid": 183,
+      "location": 2,
+      "content": "那很快你在游戏里就能得到提高",
+      "music": 0.0
+    },
+    {
+      "from": 339.659,
+      "to": 341.939,
+      "sid": 184,
+      "location": 2,
+      "content": "但无畏区并不是单纯的练枪软件",
+      "music": 0.0
+    },
+    {
+      "from": 341.939,
+      "to": 342.899,
+      "sid": 185,
+      "location": 2,
+      "content": "实战中的枪法",
+      "music": 0.0
+    },
+    {
+      "from": 342.899,
+      "to": 345.06,
+      "sid": 186,
+      "location": 2,
+      "content": "并不是完全由右手的瞄准能力构成的",
+      "music": 0.0
+    },
+    {
+      "from": 345.06,
+      "to": 347.22,
+      "sid": 187,
+      "location": 2,
+      "content": "我们从这位水友的录像上也可以看到",
+      "music": 0.0
+    },
+    {
+      "from": 347.22,
+      "to": 348.84,
+      "sid": 188,
+      "location": 2,
+      "content": "他之所以打不准动态目标",
+      "music": 0.0
+    },
+    {
+      "from": 348.84,
+      "to": 349.62,
+      "sid": 189,
+      "location": 2,
+      "content": "还有一个问题是",
+      "music": 0.0
+    },
+    {
+      "from": 349.62,
+      "to": 352.12,
+      "sid": 190,
+      "location": 2,
+      "content": "他的瞄准和一诺的衔接做的还不够好",
+      "music": 0.0
+    },
+    {
+      "from": 352.12,
+      "to": 355.48,
+      "sid": 191,
+      "location": 2,
+      "content": "理想情况下移动应该时刻的补偿动态的瞄准",
+      "music": 0.0
+    },
+    {
+      "from": 355.48,
+      "to": 357.68,
+      "sid": 192,
+      "location": 2,
+      "content": "在这里我推荐大家做以下两个练习啊",
+      "music": 0.0
+    },
+    {
+      "from": 357.68,
+      "to": 359.06,
+      "sid": 193,
+      "location": 2,
+      "content": "首先是最基础的啊",
+      "music": 0.0
+    },
+    {
+      "from": 359.06,
+      "to": 361.15,
+      "sid": 194,
+      "location": 2,
+      "content": "打开靶场的简单难度30把项目",
+      "music": 0.0
+    },
+    {
+      "from": 361.15,
+      "to": 362.62,
+      "sid": 195,
+      "location": 2,
+      "content": "如果靶子刷新在左侧",
+      "music": 0.0
+    },
+    {
+      "from": 362.62,
+      "to": 363.67,
+      "sid": 196,
+      "location": 2,
+      "content": "就将鼠标拉过",
+      "music": 0.0
+    },
+    {
+      "from": 363.67,
+      "to": 365.38,
+      "sid": 197,
+      "location": 2,
+      "content": "靶子放在靶子左边",
+      "music": 0.0
+    },
+    {
+      "from": 365.38,
+      "to": 366.49,
+      "sid": 198,
+      "location": 2,
+      "content": "在D键移动",
+      "music": 0.0
+    },
+    {
+      "from": 366.49,
+      "to": 367.44,
+      "sid": 199,
+      "location": 2,
+      "content": "但不动鼠标",
+      "music": 0.0
+    },
+    {
+      "from": 367.44,
+      "to": 370.51,
+      "sid": 200,
+      "location": 2,
+      "content": "等准星撞上靶子头部的时候再急停开枪",
+      "music": 0.0
+    },
+    {
+      "from": 370.51,
+      "to": 371.11,
+      "sid": 201,
+      "location": 2,
+      "content": "同样的",
+      "music": 0.0
+    },
+    {
+      "from": 371.11,
+      "to": 372.37,
+      "sid": 202,
+      "location": 2,
+      "content": "如果靶子刷新在右侧",
+      "music": 0.0
+    },
+    {
+      "from": 372.37,
+      "to": 373.81,
+      "sid": 203,
+      "location": 2,
+      "content": "就将准星拉过靶子",
+      "music": 0.0
+    },
+    {
+      "from": 373.81,
+      "to": 374.89,
+      "sid": 204,
+      "location": 2,
+      "content": "放在靶子右边",
+      "music": 0.0
+    },
+    {
+      "from": 374.89,
+      "to": 375.85,
+      "sid": 205,
+      "location": 2,
+      "content": "再按A键移动",
+      "music": 0.0
+    },
+    {
+      "from": 375.85,
+      "to": 376.63,
+      "sid": 206,
+      "location": 2,
+      "content": "但不动鼠标",
+      "music": 0.0
+    },
+    {
+      "from": 376.63,
+      "to": 379.18,
+      "sid": 207,
+      "location": 2,
+      "content": "等准星撞上靶子头部的时候再进行开枪",
+      "music": 0.0
+    },
+    {
+      "from": 379.18,
+      "to": 380.44,
+      "sid": 208,
+      "location": 2,
+      "content": "多这样练习两轮",
+      "music": 0.0
+    },
+    {
+      "from": 380.44,
+      "to": 381.16,
+      "sid": 209,
+      "location": 2,
+      "content": "如果你熟练了",
+      "music": 0.0
+    },
+    {
+      "from": 381.16,
+      "to": 382.24,
+      "sid": 210,
+      "location": 2,
+      "content": "就可以加快速度",
+      "music": 0.0
+    },
+    {
+      "from": 382.24,
+      "to": 384.6,
+      "sid": 211,
+      "location": 2,
+      "content": "还可以将瞄准和移动的过程连贯起来",
+      "music": 0.0
+    },
+    {
+      "from": 384.6,
+      "to": 386.28,
+      "sid": 212,
+      "location": 2,
+      "content": "练完了反向的移动和瞄准",
+      "music": 0.0
+    },
+    {
+      "from": 386.28,
+      "to": 388.89,
+      "sid": 213,
+      "location": 2,
+      "content": "接着我们可以再来练习与移动同向的瞄准",
+      "music": 0.0
+    },
+    {
+      "from": 388.89,
+      "to": 391.98,
+      "sid": 214,
+      "location": 2,
+      "content": "当靶子刷牙左侧我们准星向左移动的同时",
+      "music": 0.0
+    },
+    {
+      "from": 391.98,
+      "to": 392.58,
+      "sid": 215,
+      "location": 2,
+      "content": "按A键",
+      "music": 0.0
+    },
+    {
+      "from": 392.58,
+      "to": 393.89,
+      "sid": 216,
+      "location": 2,
+      "content": "人物也要向左移动",
+      "music": 0.0
+    },
+    {
+      "from": 393.89,
+      "to": 396.92,
+      "sid": 217,
+      "location": 2,
+      "content": "然后在转向与目标重合的时候就急停开枪",
+      "music": 0.0
+    },
+    {
+      "from": 396.92,
+      "to": 397.82,
+      "sid": 218,
+      "location": 2,
+      "content": "反之亦然",
+      "music": 0.0
+    },
+    {
+      "from": 397.82,
+      "to": 399.23,
+      "sid": 219,
+      "location": 2,
+      "content": "通过上述这样的练习",
+      "music": 0.0
+    },
+    {
+      "from": 399.23,
+      "to": 401.39,
+      "sid": 220,
+      "location": 2,
+      "content": "我们能初步体会到瞄准衔接移动",
+      "music": 0.0
+    },
+    {
+      "from": 401.39,
+      "to": 402.96,
+      "sid": 221,
+      "location": 2,
+      "content": "移动补偿瞄准的感觉",
+      "music": 0.0
+    },
+    {
+      "from": 402.96,
+      "to": 404.1,
+      "sid": 222,
+      "location": 2,
+      "content": "再上一层难度啊",
+      "music": 0.0
+    },
+    {
+      "from": 404.1,
+      "to": 406.29,
+      "sid": 223,
+      "location": 2,
+      "content": "我们将三人把项目的难度调为中等",
+      "music": 0.0
+    },
+    {
+      "from": 406.29,
+      "to": 407.4,
+      "sid": 224,
+      "location": 2,
+      "content": "这一次我们要做到",
+      "music": 0.0
+    },
+    {
+      "from": 407.4,
+      "to": 409.14,
+      "sid": 225,
+      "location": 2,
+      "content": "除了开枪那一瞬间要急停之外",
+      "music": 0.0
+    },
+    {
+      "from": 409.14,
+      "to": 410.85,
+      "sid": 226,
+      "location": 2,
+      "content": "我们全程要保持移动",
+      "music": 0.0
+    },
+    {
+      "from": 410.85,
+      "to": 413.73,
+      "sid": 227,
+      "location": 2,
+      "content": "当我们能够轻松地进行上述这两个练习的时候",
+      "music": 0.0
+    },
+    {
+      "from": 413.73,
+      "to": 416.18,
+      "sid": 228,
+      "location": 2,
+      "content": "就是你初步掌握移动补偿瞄准征兆",
+      "music": 0.0
+    },
+    {
+      "from": 416.18,
+      "to": 418.61,
+      "sid": 229,
+      "location": 2,
+      "content": "那这个时候你就可以去死斗里面尝试实现了",
+      "music": 0.0
+    },
+    {
+      "from": 418.61,
+      "to": 421.4,
+      "sid": 230,
+      "location": 2,
+      "content": "我还是非常推荐大家进行只用数位的死斗",
+      "music": 0.0
+    },
+    {
+      "from": 421.4,
+      "to": 422.42,
+      "sid": 231,
+      "location": 2,
+      "content": "通过数位死斗",
+      "music": 0.0
+    },
+    {
+      "from": 422.42,
+      "to": 423.98,
+      "sid": 232,
+      "location": 2,
+      "content": "你也能经常拿第一第二了",
+      "music": 0.0
+    },
+    {
+      "from": 423.98,
+      "to": 425.6,
+      "sid": 233,
+      "location": 2,
+      "content": "那就可以再加点限制器啊",
+      "music": 0.0
+    },
+    {
+      "from": 425.6,
+      "to": 426.29,
+      "sid": 234,
+      "location": 2,
+      "content": "像我一样",
+      "music": 0.0
+    },
+    {
+      "from": 426.29,
+      "to": 428.62,
+      "sid": 235,
+      "location": 2,
+      "content": "每天在天梯之前打两把正义的死斗",
+      "music": 0.0
+    },
+    {
+      "from": 428.62,
+      "to": 430.3,
+      "sid": 236,
+      "location": 2,
+      "content": "使用正义这把枪打死的话",
+      "music": 0.0
+    },
+    {
+      "from": 430.3,
+      "to": 431.8,
+      "sid": 237,
+      "location": 2,
+      "content": "每一枪容错率都是很低的",
+      "music": 0.0
+    },
+    {
+      "from": 431.8,
+      "to": 432.94,
+      "sid": 238,
+      "location": 2,
+      "content": "通过这样的折磨自己",
+      "music": 0.0
+    },
+    {
+      "from": 432.94,
+      "to": 435.28,
+      "sid": 239,
+      "location": 2,
+      "content": "能将你的移动开枪习惯变得更好",
+      "music": 0.0
+    },
+    {
+      "from": 435.28,
+      "to": 437.05,
+      "sid": 240,
+      "location": 2,
+      "content": "那今天视频到这里也到了尾声",
+      "music": 0.0
+    },
+    {
+      "from": 437.05,
+      "to": 439.69,
+      "sid": 241,
+      "location": 2,
+      "content": "我是冬夜会持续产出有关微缺失的内容",
+      "music": 0.0
+    },
+    {
+      "from": 439.69,
+      "to": 441.16,
+      "sid": 242,
+      "location": 2,
+      "content": "如果这期视频对你有帮助",
+      "music": 0.0
+    },
+    {
+      "from": 441.16,
+      "to": 442.12,
+      "sid": 243,
+      "location": 2,
+      "content": "还请点个三连",
+      "music": 0.0
+    },
+    {
+      "from": 442.12,
+      "to": 443.46,
+      "sid": 244,
+      "location": 2,
+      "content": "我们下期视频再见",
+      "music": 0.0
+    }
+  ]
+}

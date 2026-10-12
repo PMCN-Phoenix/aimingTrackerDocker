@@ -1,0 +1,236 @@
+{
+  "P1": [
+    {
+      "from": 0.04,
+      "to": 2.66,
+      "sid": 1,
+      "location": 2,
+      "content": "玩FPS游戏时鼠标总是定位不准",
+      "music": 0.0
+    },
+    {
+      "from": 2.66,
+      "to": 3.42,
+      "sid": 2,
+      "location": 2,
+      "content": "拉枪很飘",
+      "music": 0.0
+    },
+    {
+      "from": 3.42,
+      "to": 4.66,
+      "sid": 3,
+      "location": 2,
+      "content": "不要觉得是自己菜",
+      "music": 0.0
+    },
+    {
+      "from": 4.66,
+      "to": 6.84,
+      "sid": 4,
+      "location": 2,
+      "content": "其实是电脑的鼠标设置没有调对",
+      "music": 0.0
+    },
+    {
+      "from": 6.84,
+      "to": 10.18,
+      "sid": 5,
+      "location": 2,
+      "content": "99%的FPS玩家都必须要关的鼠标加速",
+      "music": 0.0
+    },
+    {
+      "from": 10.18,
+      "to": 11.64,
+      "sid": 6,
+      "location": 2,
+      "content": "今天一个视频教会你",
+      "music": 0.0
+    },
+    {
+      "from": 11.64,
+      "to": 12.72,
+      "sid": 7,
+      "location": 2,
+      "content": "首先回到桌面",
+      "music": 0.0
+    },
+    {
+      "from": 12.72,
+      "to": 15.04,
+      "sid": 8,
+      "location": 2,
+      "content": "点击开始菜单上方的搜索框",
+      "music": 0.0
+    },
+    {
+      "from": 15.04,
+      "to": 16.24,
+      "sid": 9,
+      "location": 2,
+      "content": "输入控制面板",
+      "music": 0.0
+    },
+    {
+      "from": 16.24,
+      "to": 17.53,
+      "sid": 10,
+      "location": 2,
+      "content": "点击第一个选项",
+      "music": 0.0
+    },
+    {
+      "from": 17.53,
+      "to": 19.95,
+      "sid": 11,
+      "location": 2,
+      "content": "弹出的控制面板右上角的查看方式",
+      "music": 0.0
+    },
+    {
+      "from": 19.95,
+      "to": 21.68,
+      "sid": 12,
+      "location": 2,
+      "content": "我们更改成小图标",
+      "music": 0.0
+    },
+    {
+      "from": 21.68,
+      "to": 23.98,
+      "sid": 13,
+      "location": 2,
+      "content": "然后在下方找到鼠标的选项",
+      "music": 0.0
+    },
+    {
+      "from": 23.98,
+      "to": 25.76,
+      "sid": 14,
+      "location": 2,
+      "content": "点击进入新弹出的窗口",
+      "music": 0.0
+    },
+    {
+      "from": 25.76,
+      "to": 27.83,
+      "sid": 15,
+      "location": 2,
+      "content": "我们找到上方的指针选项",
+      "music": 0.0
+    },
+    {
+      "from": 27.83,
+      "to": 30.95,
+      "sid": 16,
+      "location": 2,
+      "content": "移动下边默认的提高指针精准度是打开的",
+      "music": 0.0
+    },
+    {
+      "from": 30.95,
+      "to": 32.41,
+      "sid": 17,
+      "location": 2,
+      "content": "我们一定要取消勾选",
+      "music": 0.0
+    },
+    {
+      "from": 32.41,
+      "to": 33.55,
+      "sid": 18,
+      "location": 2,
+      "content": "然后点击应用",
+      "music": 0.0
+    },
+    {
+      "from": 33.55,
+      "to": 34.46,
+      "sid": 19,
+      "location": 2,
+      "content": "再点击确认",
+      "music": 0.0
+    },
+    {
+      "from": 34.46,
+      "to": 36.6,
+      "sid": 20,
+      "location": 2,
+      "content": "接下来我们返回控制面板首页",
+      "music": 0.0
+    },
+    {
+      "from": 36.6,
+      "to": 37.86,
+      "sid": 21,
+      "location": 2,
+      "content": "找到轻松使用",
+      "music": 0.0
+    },
+    {
+      "from": 37.86,
+      "to": 38.42,
+      "sid": 22,
+      "location": 2,
+      "content": "往下翻",
+      "music": 0.0
+    },
+    {
+      "from": 38.42,
+      "to": 40.32,
+      "sid": 23,
+      "location": 2,
+      "content": "找到使鼠标更易于使用",
+      "music": 0.0
+    },
+    {
+      "from": 40.32,
+      "to": 42.22,
+      "sid": 24,
+      "location": 2,
+      "content": "点击找到中间的设置",
+      "music": 0.0
+    },
+    {
+      "from": 42.22,
+      "to": 47.2,
+      "sid": 25,
+      "location": 2,
+      "content": "鼠标键点击指针速度下方的加速默认是中等",
+      "music": 0.0
+    },
+    {
+      "from": 47.2,
+      "to": 48.82,
+      "sid": 26,
+      "location": 2,
+      "content": "我们直接把它拖到最低",
+      "music": 0.0
+    },
+    {
+      "from": 48.82,
+      "to": 50.28,
+      "sid": 27,
+      "location": 2,
+      "content": "然后点击应用",
+      "music": 0.0
+    },
+    {
+      "from": 50.28,
+      "to": 51.78,
+      "sid": 28,
+      "location": 2,
+      "content": "最后点击确定就可以了",
+      "music": 0.0
+    },
+    {
+      "from": 51.78,
+      "to": 54.1,
+      "sid": 29,
+      "location": 2,
+      "content": "现在我们的鼠标就是非常的流畅丝滑了",
+      "music": 0.0
+    }
+  ]
+}

@@ -1,0 +1,2780 @@
+{
+  "P1": [
+    {
+      "content": "YouTube",
+      "from": 0.14,
+      "location": 2,
+      "music": 0.0,
+      "sid": 1,
+      "to": 0.54
+    },
+    {
+      "content": "最近怎么样",
+      "from": 0.54,
+      "location": 2,
+      "music": 0.0,
+      "sid": 2,
+      "to": 1.18
+    },
+    {
+      "content": "大家好",
+      "from": 1.18,
+      "location": 2,
+      "music": 0.0,
+      "sid": 3,
+      "to": 1.5
+    },
+    {
+      "content": "十二月的午后阳光正好",
+      "from": 1.5,
+      "location": 2,
+      "music": 0.0,
+      "sid": 4,
+      "to": 3.12
+    },
+    {
+      "content": "正在加载科瓦茨配件",
+      "from": 3.12,
+      "location": 2,
+      "music": 0.0,
+      "sid": 5,
+      "to": 4.7
+    },
+    {
+      "content": "今天的话题将围绕手腕隔离展开",
+      "from": 4.7,
+      "location": 2,
+      "music": 0.0,
+      "sid": 6,
+      "to": 8.489
+    },
+    {
+      "content": "从指尖到肩膀的所有部位",
+      "from": 8.489,
+      "location": 2,
+      "music": 0.0,
+      "sid": 7,
+      "to": 12.11
+    },
+    {
+      "content": "我们将讨论一些基础方法",
+      "from": 12.11,
+      "location": 2,
+      "music": 0.0,
+      "sid": 8,
+      "to": 14.33
+    },
+    {
+      "content": "帮助识别瞄准时的使用情况",
+      "from": 14.33,
+      "location": 2,
+      "music": 0.0,
+      "sid": 9,
+      "to": 17.27
+    },
+    {
+      "content": "让我们从指尖开始",
+      "from": 17.27,
+      "location": 2,
+      "music": 0.0,
+      "sid": 10,
+      "to": 19.31
+    },
+    {
+      "content": "现在开始搜索",
+      "from": 19.31,
+      "location": 2,
+      "music": 0.0,
+      "sid": 11,
+      "to": 20.54
+    },
+    {
+      "content": "开启克洛弗原始控制",
+      "from": 20.54,
+      "location": 2,
+      "music": 0.0,
+      "sid": 12,
+      "to": 23.87
+    },
+    {
+      "content": "如果你玩过视觉代码",
+      "from": 23.87,
+      "location": 2,
+      "music": 0.0,
+      "sid": 13,
+      "to": 24.91
+    },
+    {
+      "content": "基准测试",
+      "from": 24.91,
+      "location": 2,
+      "music": 0.0,
+      "sid": 14,
+      "to": 25.55
+    },
+    {
+      "content": "你会知道这属于指尖区域",
+      "from": 25.55,
+      "location": 2,
+      "music": 0.0,
+      "sid": 15,
+      "to": 28.07
+    },
+    {
+      "content": "这个选项",
+      "from": 28.07,
+      "location": 2,
+      "music": 0.0,
+      "sid": 16,
+      "to": 29.21
+    },
+    {
+      "content": "克洛弗岩石控制简易版",
+      "from": 29.21,
+      "location": 2,
+      "music": 0.0,
+      "sid": 17,
+      "to": 30.75
+    },
+    {
+      "content": "80%速度",
+      "from": 30.75,
+      "location": 2,
+      "music": 0.0,
+      "sid": 18,
+      "to": 32.04
+    },
+    {
+      "content": "但特别看主版本克洛弗原始控制",
+      "from": 32.04,
+      "location": 2,
+      "music": 0.0,
+      "sid": 19,
+      "to": 35.92
+    },
+    {
+      "content": "我们可以看到这个场景很酷",
+      "from": 35.92,
+      "location": 2,
+      "music": 0.0,
+      "sid": 20,
+      "to": 39.95
+    },
+    {
+      "content": "你看这个点很小对吧",
+      "from": 39.95,
+      "location": 2,
+      "music": 0.0,
+      "sid": 21,
+      "to": 42.98
+    },
+    {
+      "content": "如果查看当前配置文件",
+      "from": 42.98,
+      "location": 2,
+      "music": 0.0,
+      "sid": 22,
+      "to": 45.72
+    },
+    {
+      "content": "了解这个点的含义",
+      "from": 45.72,
+      "location": 2,
+      "music": 0.0,
+      "sid": 23,
+      "to": 47.42
+    },
+    {
+      "content": "其实并不小",
+      "from": 47.42,
+      "location": 2,
+      "music": 0.0,
+      "sid": 24,
+      "to": 49.38
+    },
+    {
+      "content": "我意思是",
+      "from": 49.38,
+      "location": 2,
+      "music": 0.0,
+      "sid": 25,
+      "to": 49.62
+    },
+    {
+      "content": "它其实不算太小",
+      "from": 49.62,
+      "location": 2,
+      "music": 0.0,
+      "sid": 26,
+      "to": 51.5
+    },
+    {
+      "content": "但为何感觉",
+      "from": 51.5,
+      "location": 2,
+      "music": 0.0,
+      "sid": 27,
+      "to": 53.16
+    },
+    {
+      "content": "这就是我们的视野范围",
+      "from": 53.16,
+      "location": 2,
+      "music": 0.0,
+      "sid": 28,
+      "to": 55.98
+    },
+    {
+      "content": "假设我们调整到类似40度视野",
+      "from": 55.98,
+      "location": 2,
+      "music": 0.0,
+      "sid": 29,
+      "to": 59.92
+    },
+    {
+      "content": "40度视野",
+      "from": 59.92,
+      "location": 2,
+      "music": 0.0,
+      "sid": 30,
+      "to": 61.44
+    },
+    {
+      "content": "观察我们刚修改的视野参数",
+      "from": 61.44,
+      "location": 2,
+      "music": 0.0,
+      "sid": 31,
+      "to": 64.2
+    },
+    {
+      "content": "拉近视角来看",
+      "from": 64.2,
+      "location": 2,
+      "music": 0.0,
+      "sid": 32,
+      "to": 65.88
+    },
+    {
+      "content": "你知道的",
+      "from": 65.88,
+      "location": 2,
+      "music": 0.0,
+      "sid": 33,
+      "to": 66.48
+    },
+    {
+      "content": "边缘处的屏障",
+      "from": 66.48,
+      "location": 2,
+      "music": 0.0,
+      "sid": 34,
+      "to": 68.22
+    },
+    {
+      "content": "可以看到这个点实际比显示的更大",
+      "from": 68.22,
+      "location": 2,
+      "music": 0.0,
+      "sid": 35,
+      "to": 72.47
+    },
+    {
+      "content": "明显比我的准星大很多",
+      "from": 72.47,
+      "location": 2,
+      "music": 0.0,
+      "sid": 36,
+      "to": 75.23
+    },
+    {
+      "content": "追踪起来并不困难",
+      "from": 75.23,
+      "location": 2,
+      "music": 0.0,
+      "sid": 37,
+      "to": 77.19
+    },
+    {
+      "content": "回到主版本远距离视野",
+      "from": 77.19,
+      "location": 2,
+      "music": 0.0,
+      "sid": 38,
+      "to": 80.73
+    },
+    {
+      "content": "你会发现操作更依赖手腕和指尖",
+      "from": 80.73,
+      "location": 2,
+      "music": 0.0,
+      "sid": 39,
+      "to": 85.53
+    },
+    {
+      "content": "当然我也可以用150厘米",
+      "from": 85.53,
+      "location": 2,
+      "music": 0.0,
+      "sid": 40,
+      "to": 92.129
+    },
+    {
+      "content": "这简直太夸张了",
+      "from": 92.129,
+      "location": 2,
+      "music": 0.0,
+      "sid": 41,
+      "to": 94.329
+    },
+    {
+      "content": "所有动作都需靠手臂和肩部",
+      "from": 95.1,
+      "location": 2,
+      "music": 0.0,
+      "sid": 42,
+      "to": 99.34
+    },
+    {
+      "content": "但即便如此我仍用大量手腕",
+      "from": 99.34,
+      "location": 2,
+      "music": 0.0,
+      "sid": 43,
+      "to": 101.9
+    },
+    {
+      "content": "再加上少许指尖",
+      "from": 101.9,
+      "location": 2,
+      "music": 0.0,
+      "sid": 44,
+      "to": 104.26
+    },
+    {
+      "content": "但我们可以在这个区间调节",
+      "from": 104.449,
+      "location": 2,
+      "music": 0.0,
+      "sid": 45,
+      "to": 108.169
+    },
+    {
+      "content": "从7厘米到21厘米",
+      "from": 108.169,
+      "location": 2,
+      "music": 0.0,
+      "sid": 46,
+      "to": 111.21
+    },
+    {
+      "content": "这将帮助我们",
+      "from": 111.37,
+      "location": 2,
+      "music": 0.0,
+      "sid": 47,
+      "to": 112.77
+    },
+    {
+      "content": "尤其融合手腕与指尖动作",
+      "from": 112.77,
+      "location": 2,
+      "music": 0.0,
+      "sid": 48,
+      "to": 116.19
+    },
+    {
+      "content": "并将重点放在指尖上",
+      "from": 116.19,
+      "location": 2,
+      "music": 0.0,
+      "sid": 49,
+      "to": 120.16
+    },
+    {
+      "content": "所以你看",
+      "from": 120.16,
+      "location": 2,
+      "music": 0.0,
+      "sid": 50,
+      "to": 122.22
+    },
+    {
+      "content": "即使从开始就非常困难",
+      "from": 122.22,
+      "location": 2,
+      "music": 0.0,
+      "sid": 51,
+      "to": 124.84
+    },
+    {
+      "content": "你仍然可以在七到二一上玩粘胶基准版本",
+      "from": 124.84,
+      "location": 2,
+      "music": 0.0,
+      "sid": 52,
+      "to": 131.599
+    },
+    {
+      "content": "你可以真正锻炼手指技巧",
+      "from": 131.599,
+      "location": 2,
+      "music": 0.0,
+      "sid": 53,
+      "to": 133.859
+    },
+    {
+      "content": "我不知道为什么我的工作坊加载这么慢",
+      "from": 133.859,
+      "location": 2,
+      "music": 0.0,
+      "sid": 54,
+      "to": 136.66
+    },
+    {
+      "content": "所以你可以看到这个是更慢更大的版本",
+      "from": 136.66,
+      "location": 2,
+      "music": 0.0,
+      "sid": 55,
+      "to": 139.48
+    },
+    {
+      "content": "但最终会实现相同目标，因为我们相距甚远",
+      "from": 139.48,
+      "location": 2,
+      "music": 0.0,
+      "sid": 56,
+      "to": 143.46
+    },
+    {
+      "content": "并且我们正在练习手指与手腕的协调",
+      "from": 143.46,
+      "location": 2,
+      "music": 0.0,
+      "sid": 57,
+      "to": 147.34
+    },
+    {
+      "content": "最后我要说的是",
+      "from": 147.34,
+      "location": 2,
+      "music": 0.0,
+      "sid": 58,
+      "to": 149.2
+    },
+    {
+      "content": "我的瞄准方式",
+      "from": 149.2,
+      "location": 2,
+      "music": 0.0,
+      "sid": 59,
+      "to": 150.94
+    },
+    {
+      "content": "即使我在移动鼠标时",
+      "from": 151.02,
+      "location": 2,
+      "music": 0.0,
+      "sid": 60,
+      "to": 152.42
+    },
+    {
+      "content": "只是轻微移动",
+      "from": 152.42,
+      "location": 2,
+      "music": 0.0,
+      "sid": 61,
+      "to": 153.82
+    },
+    {
+      "content": "我的肩膀",
+      "from": 153.82,
+      "location": 2,
+      "music": 0.0,
+      "sid": 62,
+      "to": 154.76
+    },
+    {
+      "content": "我实际上能感受到这个过程",
+      "from": 154.76,
+      "location": 2,
+      "music": 0.0,
+      "sid": 63,
+      "to": 157.94
+    },
+    {
+      "content": "我能感觉到我的肘部有点动静",
+      "from": 157.94,
+      "location": 2,
+      "music": 0.0,
+      "sid": 64,
+      "to": 160.88
+    },
+    {
+      "content": "我能感受到前臂",
+      "from": 160.88,
+      "location": 2,
+      "music": 0.0,
+      "sid": 65,
+      "to": 162.18
+    },
+    {
+      "content": "尽管大部分力量来自手腕和指尖",
+      "from": 162.18,
+      "location": 2,
+      "music": 0.0,
+      "sid": 66,
+      "to": 165.92
+    },
+    {
+      "content": "你知道其他部位的瞄准也在参与",
+      "from": 165.92,
+      "location": 2,
+      "music": 0.0,
+      "sid": 67,
+      "to": 169.42
+    },
+    {
+      "content": "假设我们要进一步消除这些部分",
+      "from": 169.42,
+      "location": 2,
+      "music": 0.0,
+      "sid": 68,
+      "to": 173.78
+    },
+    {
+      "content": "并真正专注于",
+      "from": 173.78,
+      "location": 2,
+      "music": 0.0,
+      "sid": 69,
+      "to": 176.69
+    },
+    {
+      "content": "特别是我们的指尖",
+      "from": 176.69,
+      "location": 2,
+      "music": 0.0,
+      "sid": 70,
+      "to": 178.63
+    },
+    {
+      "content": "为了进一步隔离指尖动作",
+      "from": 178.63,
+      "location": 2,
+      "music": 0.0,
+      "sid": 71,
+      "to": 181.85
+    },
+    {
+      "content": "我可以将前臂平放在桌面上",
+      "from": 181.85,
+      "location": 2,
+      "music": 0.0,
+      "sid": 72,
+      "to": 185.07
+    },
+    {
+      "content": "这样就能消除",
+      "from": 185.07,
+      "location": 2,
+      "music": 0.0,
+      "sid": 73,
+      "to": 187.42
+    },
+    {
+      "content": "肘部和肩膀的晃动作弊",
+      "from": 187.42,
+      "location": 2,
+      "music": 0.0,
+      "sid": 74,
+      "to": 191.08
+    },
+    {
+      "content": "我稍微向前臂倾斜",
+      "from": 191.08,
+      "location": 2,
+      "music": 0.0,
+      "sid": 75,
+      "to": 194.56
+    },
+    {
+      "content": "但通过固定前臂大部分手臂动作被消除",
+      "from": 194.56,
+      "location": 2,
+      "music": 0.0,
+      "sid": 76,
+      "to": 198.78
+    },
+    {
+      "content": "另一个方法是侧向挤压",
+      "from": 198.78,
+      "location": 2,
+      "music": 0.0,
+      "sid": 77,
+      "to": 202.4
+    },
+    {
+      "content": "如果更紧地挤压鼠标两侧",
+      "from": 202.4,
+      "location": 2,
+      "music": 0.0,
+      "sid": 78,
+      "to": 206.46
+    },
+    {
+      "content": "尤其是用小指和拇指",
+      "from": 206.46,
+      "location": 2,
+      "music": 0.0,
+      "sid": 79,
+      "to": 209.41
+    },
+    {
+      "content": "挤压越紧",
+      "from": 209.41,
+      "location": 2,
+      "music": 0.0,
+      "sid": 80,
+      "to": 210.89
+    },
+    {
+      "content": "手腕的紧张感就越强",
+      "from": 210.89,
+      "location": 2,
+      "music": 0.0,
+      "sid": 81,
+      "to": 212.93
+    },
+    {
+      "content": "手腕会变得更紧绷",
+      "from": 212.93,
+      "location": 2,
+      "music": 0.0,
+      "sid": 82,
+      "to": 215.13
+    },
+    {
+      "content": "抱歉，用紧绷的手腕和固定前臂",
+      "from": 215.13,
+      "location": 2,
+      "music": 0.0,
+      "sid": 83,
+      "to": 219.86
+    },
+    {
+      "content": "会给指尖带来更多压力",
+      "from": 219.86,
+      "location": 2,
+      "music": 0.0,
+      "sid": 84,
+      "to": 225.11
+    },
+    {
+      "content": "因此我可以建立更好的肌肉意识连接",
+      "from": 225.11,
+      "location": 2,
+      "music": 0.0,
+      "sid": 85,
+      "to": 229.17
+    },
+    {
+      "content": "是的",
+      "from": 229.17,
+      "location": 2,
+      "music": 0.0,
+      "sid": 86,
+      "to": 229.83
+    },
+    {
+      "content": "指尖负责完成这些微小调整",
+      "from": 229.83,
+      "location": 2,
+      "music": 0.0,
+      "sid": 87,
+      "to": 236.01
+    },
+    {
+      "content": "啊",
+      "from": 236.01,
+      "location": 2,
+      "music": 0.0,
+      "sid": 88,
+      "to": 236.37
+    },
+    {
+      "content": "我刚完成了一次连击",
+      "from": 236.37,
+      "location": 2,
+      "music": 0.0,
+      "sid": 89,
+      "to": 237.87
+    },
+    {
+      "content": "现在处于二万四千分位",
+      "from": 237.87,
+      "location": 2,
+      "music": 0.0,
+      "sid": 90,
+      "to": 240.84
+    },
+    {
+      "content": "但你可以看到",
+      "from": 242.0,
+      "location": 2,
+      "music": 0.0,
+      "sid": 91,
+      "to": 245.1
+    },
+    {
+      "content": "处理这个场景时",
+      "from": 245.1,
+      "location": 2,
+      "music": 0.0,
+      "sid": 92,
+      "to": 247.48
+    },
+    {
+      "content": "我们可以加强指尖的肌肉意识连接",
+      "from": 247.48,
+      "location": 2,
+      "music": 0.0,
+      "sid": 93,
+      "to": 253.26
+    },
+    {
+      "content": "所以我建议更紧地挤压鼠标两侧",
+      "from": 253.26,
+      "location": 2,
+      "music": 0.0,
+      "sid": 94,
+      "to": 257.52
+    },
+    {
+      "content": "并将前臂固定以减少手臂动作",
+      "from": 257.52,
+      "location": 2,
+      "music": 0.0,
+      "sid": 95,
+      "to": 262.54
+    },
+    {
+      "content": "这样会有所帮助",
+      "from": 262.54,
+      "location": 2,
+      "music": 0.0,
+      "sid": 96,
+      "to": 263.39
+    },
+    {
+      "content": "好的",
+      "from": 263.39,
+      "location": 2,
+      "music": 0.0,
+      "sid": 97,
+      "to": 263.91
+    },
+    {
+      "content": "这番解释有点长",
+      "from": 263.91,
+      "location": 2,
+      "music": 0.0,
+      "sid": 98,
+      "to": 265.91
+    },
+    {
+      "content": "现在谈谈手腕",
+      "from": 265.91,
+      "location": 2,
+      "music": 0.0,
+      "sid": 99,
+      "to": 268.73
+    },
+    {
+      "content": "一个场景",
+      "from": 268.73,
+      "location": 2,
+      "music": 0.0,
+      "sid": 100,
+      "to": 270.33
+    },
+    {
+      "content": "你可能熟悉的是手腕的流畅度",
+      "from": 270.33,
+      "location": 2,
+      "music": 0.0,
+      "sid": 101,
+      "to": 273.68
+    },
+    {
+      "content": "所以如果我没记错的话",
+      "from": 273.68,
+      "location": 2,
+      "music": 0.0,
+      "sid": 102,
+      "to": 275.2
+    },
+    {
+      "content": "平滑手腕的第一个场景来自德文D的电视节目",
+      "from": 275.2,
+      "location": 2,
+      "music": 0.0,
+      "sid": 103,
+      "to": 279.16
+    },
+    {
+      "content": "这个有大约十万玩家",
+      "from": 280.2,
+      "location": 2,
+      "music": 0.0,
+      "sid": 104,
+      "to": 282.57
+    },
+    {
+      "content": "所以如果我们进入这个测试",
+      "from": 282.57,
+      "location": 2,
+      "music": 0.0,
+      "sid": 105,
+      "to": 284.15
+    },
+    {
+      "content": "我们会看到两侧有玻璃屏障",
+      "from": 284.15,
+      "location": 2,
+      "music": 0.0,
+      "sid": 106,
+      "to": 286.85
+    },
+    {
+      "content": "因此中心区域的准确性最为重要",
+      "from": 286.85,
+      "location": 2,
+      "music": 0.0,
+      "sid": 107,
+      "to": 289.65
+    },
+    {
+      "content": "这里中心区域的长距离扫动",
+      "from": 289.65,
+      "location": 2,
+      "music": 0.0,
+      "sid": 108,
+      "to": 293.8
+    },
+    {
+      "content": "但我要指出一点",
+      "from": 293.8,
+      "location": 2,
+      "music": 0.0,
+      "sid": 109,
+      "to": 295.7
+    },
+    {
+      "content": "如果我向上滚动到顶部",
+      "from": 295.7,
+      "location": 2,
+      "music": 0.0,
+      "sid": 110,
+      "to": 297.18
+    },
+    {
+      "content": "然后看看这些分数",
+      "from": 297.18,
+      "location": 2,
+      "music": 0.0,
+      "sid": 111,
+      "to": 299.409
+    },
+    {
+      "content": "很多人在120左右游玩",
+      "from": 299.409,
+      "location": 2,
+      "music": 0.0,
+      "sid": 112,
+      "to": 302.089
+    },
+    {
+      "content": "有些人则在215左右游玩嗯",
+      "from": 302.089,
+      "location": 2,
+      "music": 0.0,
+      "sid": 113,
+      "to": 305.55
+    },
+    {
+      "content": "你知道这就是平滑手腕的场景",
+      "from": 305.55,
+      "location": 2,
+      "music": 0.0,
+      "sid": 114,
+      "to": 308.09
+    },
+    {
+      "content": "但很多人用手臂瞄准",
+      "from": 308.09,
+      "location": 2,
+      "music": 0.0,
+      "sid": 115,
+      "to": 310.97
+    },
+    {
+      "content": "他们的肩膀实际上在作弊这个过程",
+      "from": 310.97,
+      "location": 2,
+      "music": 0.0,
+      "sid": 116,
+      "to": 317.34
+    },
+    {
+      "content": "毕竟这是竞技科瓦斯场景",
+      "from": 317.34,
+      "location": 2,
+      "music": 0.0,
+      "sid": 117,
+      "to": 320.07
+    },
+    {
+      "content": "好的",
+      "from": 320.07,
+      "location": 2,
+      "music": 0.0,
+      "sid": 118,
+      "to": 320.63
+    },
+    {
+      "content": "关于平滑逮捕或Y W",
+      "from": 320.63,
+      "location": 2,
+      "music": 0.0,
+      "sid": 119,
+      "to": 322.81
+    },
+    {
+      "content": "有一些我非常喜欢的变体",
+      "from": 322.81,
+      "location": 2,
+      "music": 0.0,
+      "sid": 120,
+      "to": 324.53
+    },
+    {
+      "content": "这些由罗宾·瓦宾制作",
+      "from": 324.53,
+      "location": 2,
+      "music": 0.0,
+      "sid": 121,
+      "to": 325.83
+    },
+    {
+      "content": "所以如果我们搜索瓦因S Y W",
+      "from": 325.83,
+      "location": 2,
+      "music": 0.0,
+      "sid": 122,
+      "to": 328.05
+    },
+    {
+      "content": "这四个会显示罗宾制作并上传的",
+      "from": 328.05,
+      "location": 2,
+      "music": 0.0,
+      "sid": 123,
+      "to": 331.83
+    },
+    {
+      "content": "为我的TK流程非常巨大",
+      "from": 331.83,
+      "location": 2,
+      "music": 0.0,
+      "sid": 124,
+      "to": 334.07
+    },
+    {
+      "content": "向罗宾致意罗宾",
+      "from": 334.07,
+      "location": 2,
+      "music": 0.0,
+      "sid": 125,
+      "to": 335.27
+    },
+    {
+      "content": "她是科瓦斯上仍在创作的顶尖创作者之一",
+      "from": 335.27,
+      "location": 2,
+      "music": 0.0,
+      "sid": 126,
+      "to": 339.35
+    },
+    {
+      "content": "她发布的所有内容都非常酷",
+      "from": 339.35,
+      "location": 2,
+      "music": 0.0,
+      "sid": 127,
+      "to": 342.03
+    },
+    {
+      "content": "所以对她表示衷心感谢再次感谢",
+      "from": 342.03,
+      "location": 2,
+      "music": 0.0,
+      "sid": 128,
+      "to": 344.77
+    },
+    {
+      "content": "为了这些",
+      "from": 344.77,
+      "location": 2,
+      "music": 0.0,
+      "sid": 129,
+      "to": 346.09
+    },
+    {
+      "content": "但我已经",
+      "from": 346.09,
+      "location": 2,
+      "music": 0.0,
+      "sid": 130,
+      "to": 347.09
+    },
+    {
+      "content": "下载了这些并可以快速查看",
+      "from": 347.09,
+      "location": 2,
+      "music": 0.0,
+      "sid": 131,
+      "to": 351.08
+    },
+    {
+      "content": "可能从我的网络摄像头看不太清楚",
+      "from": 351.08,
+      "location": 2,
+      "music": 0.0,
+      "sid": 132,
+      "to": 353.14
+    },
+    {
+      "content": "但如果我们解压第一个",
+      "from": 353.14,
+      "location": 2,
+      "music": 0.0,
+      "sid": 133,
+      "to": 354.74
+    },
+    {
+      "content": "这是超薄变体",
+      "from": 354.74,
+      "location": 2,
+      "music": 0.0,
+      "sid": 134,
+      "to": 357.01
+    },
+    {
+      "content": "更大版本的超薄",
+      "from": 357.01,
+      "location": 2,
+      "music": 0.0,
+      "sid": 135,
+      "to": 360.29
+    },
+    {
+      "content": "可以看到框半径为6.25非常小",
+      "from": 360.99,
+      "location": 2,
+      "music": 0.0,
+      "sid": 136,
+      "to": 364.8
+    },
+    {
+      "content": "然后看到这个名为四级的",
+      "from": 364.8,
+      "location": 2,
+      "music": 0.0,
+      "sid": 137,
+      "to": 367.44
+    },
+    {
+      "content": "这是常规尺寸的小型变体",
+      "from": 367.44,
+      "location": 2,
+      "music": 0.0,
+      "sid": 138,
+      "to": 372.31
+    },
+    {
+      "content": "但即使是这个小型变体10.5仍大于更薄的大变体",
+      "from": 372.31,
+      "location": 2,
+      "music": 0.0,
+      "sid": 139,
+      "to": 377.61
+    },
+    {
+      "content": "我展示这些的目的是",
+      "from": 377.61,
+      "location": 2,
+      "music": 0.0,
+      "sid": 140,
+      "to": 381.2
+    },
+    {
+      "content": "这四个逐渐减小尺寸",
+      "from": 381.2,
+      "location": 2,
+      "music": 0.0,
+      "sid": 141,
+      "to": 384.4
+    },
+    {
+      "content": "从四级超薄",
+      "from": 384.4,
+      "location": 2,
+      "music": 0.0,
+      "sid": 142,
+      "to": 386.1
+    },
+    {
+      "content": "一直到常规的二级",
+      "from": 386.1,
+      "location": 2,
+      "music": 0.0,
+      "sid": 143,
+      "to": 388.6
+    },
+    {
+      "content": "这些在尺寸上有所不同",
+      "from": 389.64,
+      "location": 2,
+      "music": 0.0,
+      "sid": 144,
+      "to": 391.85
+    },
+    {
+      "content": "你可以看到这个",
+      "from": 391.85,
+      "location": 2,
+      "music": 0.0,
+      "sid": 145,
+      "to": 392.85
+    },
+    {
+      "content": "二级",
+      "from": 392.85,
+      "location": 2,
+      "music": 0.0,
+      "sid": 146,
+      "to": 393.47
+    },
+    {
+      "content": "这里将是大版本",
+      "from": 393.47,
+      "location": 2,
+      "music": 0.0,
+      "sid": 147,
+      "to": 395.23
+    },
+    {
+      "content": "我认为这对提升整体流畅度很有帮助",
+      "from": 395.23,
+      "location": 2,
+      "music": 0.0,
+      "sid": 148,
+      "to": 399.43
+    },
+    {
+      "content": "对紧张或精准度要求较低",
+      "from": 399.43,
+      "location": 2,
+      "music": 0.0,
+      "sid": 149,
+      "to": 403.6
+    },
+    {
+      "content": "这也是练习手腕速度匹配的机会",
+      "from": 403.6,
+      "location": 2,
+      "music": 0.0,
+      "sid": 150,
+      "to": 407.83
+    },
+    {
+      "content": "然后如果我们一直向下到这里第四层",
+      "from": 407.83,
+      "location": 2,
+      "music": 0.0,
+      "sid": 151,
+      "to": 410.51
+    },
+    {
+      "content": "这就像针尖大小",
+      "from": 410.51,
+      "location": 2,
+      "music": 0.0,
+      "sid": 152,
+      "to": 412.619
+    },
+    {
+      "content": "非常微小",
+      "from": 412.619,
+      "location": 2,
+      "music": 0.0,
+      "sid": 153,
+      "to": 413.659
+    },
+    {
+      "content": "所以这里必须格外精准",
+      "from": 414.659,
+      "location": 2,
+      "music": 0.0,
+      "sid": 154,
+      "to": 416.499
+    },
+    {
+      "content": "更加纤薄",
+      "from": 417.579,
+      "location": 2,
+      "music": 0.0,
+      "sid": 155,
+      "to": 418.8
+    },
+    {
+      "content": "就像之前的平滑饮品腕部版本",
+      "from": 418.8,
+      "location": 2,
+      "music": 0.0,
+      "sid": 156,
+      "to": 421.48
+    },
+    {
+      "content": "我们可以练习这个",
+      "from": 421.48,
+      "location": 2,
+      "music": 0.0,
+      "sid": 157,
+      "to": 423.0
+    },
+    {
+      "content": "你知道有人在220档位操作",
+      "from": 423.0,
+      "location": 2,
+      "music": 0.0,
+      "sid": 158,
+      "to": 425.93
+    },
+    {
+      "content": "我们可以在这里练习肩部和手臂瞄准",
+      "from": 425.93,
+      "location": 2,
+      "music": 0.0,
+      "sid": 159,
+      "to": 429.01
+    },
+    {
+      "content": "在220档位操作",
+      "from": 429.01,
+      "location": 2,
+      "music": 0.0,
+      "sid": 160,
+      "to": 430.77
+    },
+    {
+      "content": "比如",
+      "from": 430.77,
+      "location": 2,
+      "music": 0.0,
+      "sid": 161,
+      "to": 431.05
+    },
+    {
+      "content": "保持同步非常疯狂",
+      "from": 431.05,
+      "location": 2,
+      "music": 0.0,
+      "sid": 162,
+      "to": 432.71
+    },
+    {
+      "content": "但你知道自己完全居中",
+      "from": 432.71,
+      "location": 2,
+      "music": 0.0,
+      "sid": 163,
+      "to": 435.62
+    },
+    {
+      "content": "如果你有大鼠标垫",
+      "from": 435.62,
+      "location": 2,
+      "music": 0.0,
+      "sid": 164,
+      "to": 437.01
+    },
+    {
+      "content": "但因为我们想隔离腕部动作",
+      "from": 437.01,
+      "location": 2,
+      "music": 0.0,
+      "sid": 165,
+      "to": 439.47
+    },
+    {
+      "content": "我有个建议",
+      "from": 439.47,
+      "location": 2,
+      "music": 0.0,
+      "sid": 166,
+      "to": 441.01
+    },
+    {
+      "content": "我认为这里可以控制在4-5厘米范围内",
+      "from": 441.01,
+      "location": 2,
+      "music": 0.0,
+      "sid": 167,
+      "to": 444.909
+    },
+    {
+      "content": "接下来就像之前的练习",
+      "from": 444.909,
+      "location": 2,
+      "music": 0.0,
+      "sid": 168,
+      "to": 447.229
+    },
+    {
+      "content": "我们将固定前臂",
+      "from": 447.229,
+      "location": 2,
+      "music": 0.0,
+      "sid": 169,
+      "to": 448.909
+    },
+    {
+      "content": "确保前臂与鼠标垫接触",
+      "from": 448.909,
+      "location": 2,
+      "music": 0.0,
+      "sid": 170,
+      "to": 451.81
+    },
+    {
+      "content": "然后用左手",
+      "from": 451.81,
+      "location": 2,
+      "music": 0.0,
+      "sid": 171,
+      "to": 453.41
+    },
+    {
+      "content": "这次我要你压住前臂顶部",
+      "from": 453.41,
+      "location": 2,
+      "music": 0.0,
+      "sid": 172,
+      "to": 458.14
+    },
+    {
+      "content": "这样只有手腕和指尖在工作",
+      "from": 458.14,
+      "location": 2,
+      "music": 0.0,
+      "sid": 173,
+      "to": 461.92
+    },
+    {
+      "content": "看看我的手腕能弯曲多少",
+      "from": 461.92,
+      "location": 2,
+      "music": 0.0,
+      "sid": 174,
+      "to": 464.02
+    },
+    {
+      "content": "当我这样做时",
+      "from": 464.02,
+      "location": 2,
+      "music": 0.0,
+      "sid": 175,
+      "to": 464.96
+    },
+    {
+      "content": "当我们游戏时",
+      "from": 464.96,
+      "location": 2,
+      "music": 0.0,
+      "sid": 176,
+      "to": 466.5
+    },
+    {
+      "content": "我要你感受手腕的弯曲并完全伸展",
+      "from": 466.5,
+      "location": 2,
+      "music": 0.0,
+      "sid": 177,
+      "to": 471.27
+    },
+    {
+      "content": "全程追踪玻璃轨迹",
+      "from": 471.27,
+      "location": 2,
+      "music": 0.0,
+      "sid": 178,
+      "to": 472.93
+    },
+    {
+      "content": "尽量完成最大活动范围",
+      "from": 472.93,
+      "location": 2,
+      "music": 0.0,
+      "sid": 179,
+      "to": 477.67
+    },
+    {
+      "content": "对我来说",
+      "from": 478.36,
+      "location": 2,
+      "music": 0.0,
+      "sid": 180,
+      "to": 479.28
+    },
+    {
+      "content": "我还有些余力",
+      "from": 479.28,
+      "location": 2,
+      "music": 0.0,
+      "sid": 181,
+      "to": 481.32
+    },
+    {
+      "content": "我可以向任一方向完全伸展",
+      "from": 481.32,
+      "location": 2,
+      "music": 0.0,
+      "sid": 182,
+      "to": 484.11
+    },
+    {
+      "content": "对我来说",
+      "from": 484.11,
+      "location": 2,
+      "music": 0.0,
+      "sid": 183,
+      "to": 484.89
+    },
+    {
+      "content": "尽管我说4-5厘米",
+      "from": 484.89,
+      "location": 2,
+      "music": 0.0,
+      "sid": 184,
+      "to": 486.53
+    },
+    {
+      "content": "我可以以70档位练习",
+      "from": 486.53,
+      "location": 2,
+      "music": 0.0,
+      "sid": 185,
+      "to": 488.41
+    },
+    {
+      "content": "达到相同效果",
+      "from": 488.41,
+      "location": 2,
+      "music": 0.0,
+      "sid": 186,
+      "to": 490.62
+    },
+    {
+      "content": "完全伸展出去",
+      "from": 491.18,
+      "location": 2,
+      "music": 0.0,
+      "sid": 187,
+      "to": 492.38
+    },
+    {
+      "content": "感受到手腕的完全弯曲",
+      "from": 493.38,
+      "location": 2,
+      "music": 0.0,
+      "sid": 188,
+      "to": 495.72
+    },
+    {
+      "content": "让我演示一下",
+      "from": 495.72,
+      "location": 2,
+      "music": 0.0,
+      "sid": 189,
+      "to": 496.8
+    },
+    {
+      "content": "如果不这样做会怎样",
+      "from": 496.8,
+      "location": 2,
+      "music": 0.0,
+      "sid": 190,
+      "to": 498.32
+    },
+    {
+      "content": "假设你想保持前臂固定在这里",
+      "from": 498.32,
+      "location": 2,
+      "music": 0.0,
+      "sid": 191,
+      "to": 501.64
+    },
+    {
+      "content": "对并保持前臂下压",
+      "from": 501.64,
+      "location": 2,
+      "music": 0.0,
+      "sid": 192,
+      "to": 504.64
+    },
+    {
+      "content": "能达到类似效果",
+      "from": 504.96,
+      "location": 2,
+      "music": 0.0,
+      "sid": 193,
+      "to": 507.36
+    },
+    {
+      "content": "但能明显感觉到肩部和手臂在用力",
+      "from": 508.6,
+      "location": 2,
+      "music": 0.0,
+      "sid": 194,
+      "to": 513.86
+    },
+    {
+      "content": "如果不压住前臂顶部",
+      "from": 513.86,
+      "location": 2,
+      "music": 0.0,
+      "sid": 195,
+      "to": 520.279
+    },
+    {
+      "content": "完全隔离手腕几乎不可能",
+      "from": 520.279,
+      "location": 2,
+      "music": 0.0,
+      "sid": 196,
+      "to": 522.49
+    },
+    {
+      "content": "因为手臂会偷懒",
+      "from": 522.49,
+      "location": 2,
+      "music": 0.0,
+      "sid": 197,
+      "to": 524.61
+    },
+    {
+      "content": "好的",
+      "from": 524.61,
+      "location": 2,
+      "music": 0.0,
+      "sid": 198,
+      "to": 524.97
+    },
+    {
+      "content": "最后我要说的",
+      "from": 524.97,
+      "location": 2,
+      "music": 0.0,
+      "sid": 199,
+      "to": 526.33
+    },
+    {
+      "content": "但手腕要非常小心",
+      "from": 526.33,
+      "location": 2,
+      "music": 0.0,
+      "sid": 200,
+      "to": 528.51
+    },
+    {
+      "content": "你的手腕非常纤细",
+      "from": 528.51,
+      "location": 2,
+      "music": 0.0,
+      "sid": 201,
+      "to": 530.05
+    },
+    {
+      "content": "如果手腕受伤了",
+      "from": 530.05,
+      "location": 2,
+      "music": 0.0,
+      "sid": 202,
+      "to": 532.159
+    },
+    {
+      "content": "恢复起来会很困难",
+      "from": 532.159,
+      "location": 2,
+      "music": 0.0,
+      "sid": 203,
+      "to": 533.619
+    },
+    {
+      "content": "所以不要过度使用",
+      "from": 533.619,
+      "location": 2,
+      "music": 0.0,
+      "sid": 204,
+      "to": 535.739
+    },
+    {
+      "content": "听从身体的信号",
+      "from": 535.739,
+      "location": 2,
+      "music": 0.0,
+      "sid": 205,
+      "to": 536.89
+    },
+    {
+      "content": "还有一个叫One HP的YouTube频道",
+      "from": 536.89,
+      "location": 2,
+      "music": 0.0,
+      "sid": 206,
+      "to": 539.85
+    },
+    {
+      "content": "那里有一些增强手腕两侧力量的优秀练习",
+      "from": 539.85,
+      "location": 2,
+      "music": 0.0,
+      "sid": 207,
+      "to": 544.07
+    },
+    {
+      "content": "通过手臂提供支撑",
+      "from": 544.07,
+      "location": 2,
+      "music": 0.0,
+      "sid": 208,
+      "to": 546.88
+    },
+    {
+      "content": "谈到肌肉部分",
+      "from": 546.88,
+      "location": 2,
+      "music": 0.0,
+      "sid": 209,
+      "to": 548.42
+    },
+    {
+      "content": "肌腱部分",
+      "from": 548.42,
+      "location": 2,
+      "music": 0.0,
+      "sid": 210,
+      "to": 549.0
+    },
+    {
+      "content": "你可以",
+      "from": 550.04,
+      "location": 2,
+      "music": 0.0,
+      "sid": 211,
+      "to": 550.93
+    },
+    {
+      "content": "你知道的",
+      "from": 550.93,
+      "location": 2,
+      "music": 0.0,
+      "sid": 212,
+      "to": 551.51
+    },
+    {
+      "content": "打造手腕健康",
+      "from": 551.51,
+      "location": 2,
+      "music": 0.0,
+      "sid": 213,
+      "to": 553.29
+    },
+    {
+      "content": "我强烈建议你要主动维护手腕健康",
+      "from": 553.29,
+      "location": 2,
+      "music": 0.0,
+      "sid": 214,
+      "to": 555.93
+    },
+    {
+      "content": "而不是被动忍受疼痛",
+      "from": 555.93,
+      "location": 2,
+      "music": 0.0,
+      "sid": 215,
+      "to": 557.77
+    },
+    {
+      "content": "真正有意识地",
+      "from": 557.77,
+      "location": 2,
+      "music": 0.0,
+      "sid": 216,
+      "to": 560.62
+    },
+    {
+      "content": "全面支持手腕健康",
+      "from": 560.62,
+      "location": 2,
+      "music": 0.0,
+      "sid": 217,
+      "to": 563.5
+    },
+    {
+      "content": "关于这个场景还有一个要点",
+      "from": 563.5,
+      "location": 2,
+      "music": 0.0,
+      "sid": 218,
+      "to": 564.86
+    },
+    {
+      "content": "在这些长距离划动动作中",
+      "from": 564.86,
+      "location": 2,
+      "music": 0.0,
+      "sid": 219,
+      "to": 568.38
+    },
+    {
+      "content": "需要感受到鼠标侧面的稳固挤压",
+      "from": 568.38,
+      "location": 2,
+      "music": 0.0,
+      "sid": 220,
+      "to": 573.18
+    },
+    {
+      "content": "在这一特定情况",
+      "from": 573.18,
+      "location": 2,
+      "music": 0.0,
+      "sid": 221,
+      "to": 575.04
+    },
+    {
+      "content": "然而",
+      "from": 575.04,
+      "location": 2,
+      "music": 0.0,
+      "sid": 222,
+      "to": 575.56
+    },
+    {
+      "content": "当你更用力捏住鼠标两侧时",
+      "from": 575.56,
+      "location": 2,
+      "music": 0.0,
+      "sid": 223,
+      "to": 578.97
+    },
+    {
+      "content": "会让手腕略显紧张",
+      "from": 578.97,
+      "location": 2,
+      "music": 0.0,
+      "sid": 224,
+      "to": 580.97
+    },
+    {
+      "content": "而在需要完成全范围动作时",
+      "from": 580.97,
+      "location": 2,
+      "music": 0.0,
+      "sid": 225,
+      "to": 584.63
+    },
+    {
+      "content": "这可能是个坏习惯",
+      "from": 584.63,
+      "location": 2,
+      "music": 0.0,
+      "sid": 226,
+      "to": 586.5
+    },
+    {
+      "content": "所以在这个练习中",
+      "from": 586.5,
+      "location": 2,
+      "music": 0.0,
+      "sid": 227,
+      "to": 588.32
+    },
+    {
+      "content": "可以稍微减轻两侧的握力",
+      "from": 588.32,
+      "location": 2,
+      "music": 0.0,
+      "sid": 228,
+      "to": 591.12
+    },
+    {
+      "content": "用其他部位的紧张来补偿",
+      "from": 591.12,
+      "location": 2,
+      "music": 0.0,
+      "sid": 229,
+      "to": 594.44
+    },
+    {
+      "content": "向下施压于鼠标垫",
+      "from": 594.44,
+      "location": 2,
+      "music": 0.0,
+      "sid": 230,
+      "to": 597.079
+    },
+    {
+      "content": "找到最适合自己的平衡点",
+      "from": 597.079,
+      "location": 2,
+      "music": 0.0,
+      "sid": 231,
+      "to": 600.179
+    },
+    {
+      "content": "握力与向下压力之间的平衡",
+      "from": 600.179,
+      "location": 2,
+      "music": 0.0,
+      "sid": 232,
+      "to": 603.83
+    },
+    {
+      "content": "这样才能获得最高精度",
+      "from": 603.83,
+      "location": 2,
+      "music": 0.0,
+      "sid": 233,
+      "to": 606.51
+    },
+    {
+      "content": "同时保持手腕的灵活性并测试设计目标",
+      "from": 606.51,
+      "location": 2,
+      "music": 0.0,
+      "sid": 234,
+      "to": 611.78
+    },
+    {
+      "content": "好的",
+      "from": 611.78,
+      "location": 2,
+      "music": 0.0,
+      "sid": 235,
+      "to": 612.26
+    },
+    {
+      "content": "接下来要讨论的是手臂整体",
+      "from": 612.26,
+      "location": 2,
+      "music": 0.0,
+      "sid": 236,
+      "to": 615.3
+    },
+    {
+      "content": "主要是前臂部分",
+      "from": 615.3,
+      "location": 2,
+      "music": 0.0,
+      "sid": 237,
+      "to": 617.57
+    },
+    {
+      "content": "肘部和肩部稍作提及",
+      "from": 617.57,
+      "location": 2,
+      "music": 0.0,
+      "sid": 238,
+      "to": 619.99
+    },
+    {
+      "content": "我认为一个很好的演示方式",
+      "from": 619.99,
+      "location": 2,
+      "music": 0.0,
+      "sid": 239,
+      "to": 621.99
+    },
+    {
+      "content": "这是PGT中级课程",
+      "from": 621.99,
+      "location": 2,
+      "music": 0.0,
+      "sid": 240,
+      "to": 624.27
+    },
+    {
+      "content": "但编号二号",
+      "from": 624.27,
+      "location": 2,
+      "music": 0.0,
+      "sid": 241,
+      "to": 629.31
+    },
+    {
+      "content": "我们将在60厘米360度场景中播放",
+      "from": 629.31,
+      "location": 2,
+      "music": 0.0,
+      "sid": 242,
+      "to": 630.71
+    },
+    {
+      "content": "加载后我要指出",
+      "from": 630.71,
+      "location": 2,
+      "music": 0.0,
+      "sid": 243,
+      "to": 632.21
+    },
+    {
+      "content": "这里的起跳动作",
+      "from": 632.21,
+      "location": 2,
+      "music": 0.0,
+      "sid": 244,
+      "to": 634.37
+    },
+    {
+      "content": "机器人向下启动的瞬间",
+      "from": 634.37,
+      "location": 2,
+      "music": 0.0,
+      "sid": 245,
+      "to": 637.31
+    },
+    {
+      "content": "感受肩部如何启动动作",
+      "from": 637.31,
+      "location": 2,
+      "music": 0.0,
+      "sid": 246,
+      "to": 643.73
+    },
+    {
+      "content": "体会肩部在此时的爆发性力量",
+      "from": 644.6,
+      "location": 2,
+      "music": 0.0,
+      "sid": 247,
+      "to": 649.44
+    },
+    {
+      "content": "正是肩部在此发力",
+      "from": 649.44,
+      "location": 2,
+      "music": 0.0,
+      "sid": 248,
+      "to": 652.44
+    },
+    {
+      "content": "当箱子下落时",
+      "from": 652.58,
+      "location": 2,
+      "music": 0.0,
+      "sid": 249,
+      "to": 654.51
+    },
+    {
+      "content": "进入弹跳阶段",
+      "from": 654.51,
+      "location": 2,
+      "music": 0.0,
+      "sid": 250,
+      "to": 655.59
+    },
+    {
+      "content": "我们可以感受到这种紧张感",
+      "from": 655.59,
+      "location": 2,
+      "music": 0.0,
+      "sid": 251,
+      "to": 657.01
+    },
+    {
+      "content": "尤其是在这里弹跳产生的时候",
+      "from": 657.01,
+      "location": 2,
+      "music": 0.0,
+      "sid": 252,
+      "to": 659.23
+    },
+    {
+      "content": "让我再演示一遍",
+      "from": 659.23,
+      "location": 2,
+      "music": 0.0,
+      "sid": 253,
+      "to": 660.41
+    },
+    {
+      "content": "当这个从这里弹跳出去时",
+      "from": 660.41,
+      "location": 2,
+      "music": 0.0,
+      "sid": 254,
+      "to": 663.24
+    },
+    {
+      "content": "你能感觉到紧张感传入前臂",
+      "from": 663.24,
+      "location": 2,
+      "music": 0.0,
+      "sid": 255,
+      "to": 666.52
+    },
+    {
+      "content": "所以从肩部向下到前臂",
+      "from": 667.56,
+      "location": 2,
+      "music": 0.0,
+      "sid": 256,
+      "to": 671.45
+    },
+    {
+      "content": "再次这里我们感受到前臂的紧张",
+      "from": 672.05,
+      "location": 2,
+      "music": 0.0,
+      "sid": 257,
+      "to": 676.15
+    },
+    {
+      "content": "然后手腕应该在这里弯曲，当机器人改变方向时",
+      "from": 676.15,
+      "location": 2,
+      "music": 0.0,
+      "sid": 258,
+      "to": 681.21
+    },
+    {
+      "content": "你应该感觉到手腕在弯曲",
+      "from": 681.21,
+      "location": 2,
+      "music": 0.0,
+      "sid": 259,
+      "to": 683.839
+    },
+    {
+      "content": "好的",
+      "from": 683.839,
+      "location": 2,
+      "music": 0.0,
+      "sid": 260,
+      "to": 684.319
+    },
+    {
+      "content": "我只是调整了时间轴",
+      "from": 684.319,
+      "location": 2,
+      "music": 0.0,
+      "sid": 261,
+      "to": 685.459
+    },
+    {
+      "content": "放慢速度以便展示这里",
+      "from": 685.459,
+      "location": 2,
+      "music": 0.0,
+      "sid": 262,
+      "to": 687.679
+    },
+    {
+      "content": "我感到肩部有爆发性的紧张",
+      "from": 687.679,
+      "location": 2,
+      "music": 0.0,
+      "sid": 263,
+      "to": 690.539
+    },
+    {
+      "content": "现在感受前臂的紧张",
+      "from": 690.539,
+      "location": 2,
+      "music": 0.0,
+      "sid": 264,
+      "to": 692.8
+    },
+    {
+      "content": "感受我的手腕",
+      "from": 692.8,
+      "location": 2,
+      "music": 0.0,
+      "sid": 265,
+      "to": 694.34
+    },
+    {
+      "content": "看看摄像头",
+      "from": 694.34,
+      "location": 2,
+      "music": 0.0,
+      "sid": 266,
+      "to": 695.88
+    },
+    {
+      "content": "我的手腕在调整时弯曲了",
+      "from": 695.88,
+      "location": 2,
+      "music": 0.0,
+      "sid": 267,
+      "to": 698.38
+    },
+    {
+      "content": "回到前臂",
+      "from": 698.38,
+      "location": 2,
+      "music": 0.0,
+      "sid": 268,
+      "to": 700.38
+    },
+    {
+      "content": "现在这里开始我又感受到爆发性紧张",
+      "from": 700.7,
+      "location": 2,
+      "music": 0.0,
+      "sid": 269,
+      "to": 703.82
+    },
+    {
+      "content": "从肩部传来",
+      "from": 703.82,
+      "location": 2,
+      "music": 0.0,
+      "sid": 270,
+      "to": 705.3
+    },
+    {
+      "content": "回到前臂",
+      "from": 706.049,
+      "location": 2,
+      "music": 0.0,
+      "sid": 271,
+      "to": 707.769
+    },
+    {
+      "content": "手腕弯曲",
+      "from": 708.809,
+      "location": 2,
+      "music": 0.0,
+      "sid": 272,
+      "to": 709.989
+    },
+    {
+      "content": "所以这里嗯",
+      "from": 709.989,
+      "location": 2,
+      "music": 0.0,
+      "sid": 273,
+      "to": 711.44
+    },
+    {
+      "content": "你知道的",
+      "from": 711.44,
+      "location": 2,
+      "music": 0.0,
+      "sid": 274,
+      "to": 711.8
+    },
+    {
+      "content": "这是半速播放",
+      "from": 711.8,
+      "location": 2,
+      "music": 0.0,
+      "sid": 275,
+      "to": 713.0
+    },
+    {
+      "content": "我可以进一步夸张动作",
+      "from": 713.0,
+      "location": 2,
+      "music": 0.0,
+      "sid": 276,
+      "to": 714.78
+    },
+    {
+      "content": "这就是手臂紧张传递的原理",
+      "from": 714.78,
+      "location": 2,
+      "music": 0.0,
+      "sid": 277,
+      "to": 718.38
+    },
+    {
+      "content": "在像PGT这样的练习中",
+      "from": 718.38,
+      "location": 2,
+      "music": 0.0,
+      "sid": 278,
+      "to": 720.72
+    },
+    {
+      "content": "这是一个精准追踪练习",
+      "from": 720.72,
+      "location": 2,
+      "music": 0.0,
+      "sid": 279,
+      "to": 722.85
+    },
+    {
+      "content": "在60厘米360度范围内",
+      "from": 722.85,
+      "location": 2,
+      "music": 0.0,
+      "sid": 280,
+      "to": 724.91
+    },
+    {
+      "content": "我们将重点强调手臂的每个环节",
+      "from": 724.91,
+      "location": 2,
+      "music": 0.0,
+      "sid": 281,
+      "to": 729.01
+    },
+    {
+      "content": "接下来要讲的是肩部",
+      "from": 729.01,
+      "location": 2,
+      "music": 0.0,
+      "sid": 282,
+      "to": 731.31
+    },
+    {
+      "content": "我们刚讨论了手臂",
+      "from": 731.31,
+      "location": 2,
+      "music": 0.0,
+      "sid": 283,
+      "to": 732.45
+    },
+    {
+      "content": "但肩部起着重要作用",
+      "from": 732.45,
+      "location": 2,
+      "music": 0.0,
+      "sid": 284,
+      "to": 734.69
+    },
+    {
+      "content": "在这些挥动动作中，无论是追踪",
+      "from": 734.69,
+      "location": 2,
+      "music": 0.0,
+      "sid": 285,
+      "to": 739.45
+    },
+    {
+      "content": "还是点击操作",
+      "from": 739.45,
+      "location": 2,
+      "music": 0.0,
+      "sid": 286,
+      "to": 741.43
+    },
+    {
+      "content": "我将手臂纳入画面演示",
+      "from": 741.43,
+      "location": 2,
+      "music": 0.0,
+      "sid": 287,
+      "to": 744.47
+    },
+    {
+      "content": "很快",
+      "from": 744.47,
+      "location": 2,
+      "music": 0.0,
+      "sid": 288,
+      "to": 744.95
+    },
+    {
+      "content": "如果我想移动手臂左右移动而不动肘部",
+      "from": 744.95,
+      "location": 2,
+      "music": 0.0,
+      "sid": 289,
+      "to": 750.18
+    },
+    {
+      "content": "你看左右方向",
+      "from": 750.18,
+      "location": 2,
+      "music": 0.0,
+      "sid": 290,
+      "to": 752.61
+    },
+    {
+      "content": "你能感受到肩部的紧张",
+      "from": 752.61,
+      "location": 2,
+      "music": 0.0,
+      "sid": 291,
+      "to": 755.41
+    },
+    {
+      "content": "以实现这个动作",
+      "from": 755.41,
+      "location": 2,
+      "music": 0.0,
+      "sid": 292,
+      "to": 757.85
+    },
+    {
+      "content": "非常基础",
+      "from": 757.85,
+      "location": 2,
+      "music": 0.0,
+      "sid": 293,
+      "to": 758.73
+    },
+    {
+      "content": "但你知道",
+      "from": 758.73,
+      "location": 2,
+      "music": 0.0,
+      "sid": 294,
+      "to": 759.73
+    },
+    {
+      "content": "如果我不动肘部",
+      "from": 759.73,
+      "location": 2,
+      "music": 0.0,
+      "sid": 295,
+      "to": 761.23
+    },
+    {
+      "content": "肩部负责左右移动",
+      "from": 761.23,
+      "location": 2,
+      "music": 0.0,
+      "sid": 296,
+      "to": 763.75
+    },
+    {
+      "content": "所以这里当我手放在鼠标上",
+      "from": 763.75,
+      "location": 2,
+      "music": 0.0,
+      "sid": 297,
+      "to": 766.02
+    },
+    {
+      "content": "可能前臂接触了垫子",
+      "from": 766.02,
+      "location": 2,
+      "music": 0.0,
+      "sid": 298,
+      "to": 768.26
+    },
+    {
+      "content": "如果我轻轻耸肩",
+      "from": 768.26,
+      "location": 2,
+      "music": 0.0,
+      "sid": 299,
+      "to": 770.77
+    },
+    {
+      "content": "前臂就离开垫子",
+      "from": 770.77,
+      "location": 2,
+      "music": 0.0,
+      "sid": 300,
+      "to": 772.57
+    },
+    {
+      "content": "我的肘部稍微抬高一点",
+      "from": 772.57,
+      "location": 2,
+      "music": 0.0,
+      "sid": 301,
+      "to": 775.01
+    },
+    {
+      "content": "别让你变得胆小",
+      "from": 775.01,
+      "location": 2,
+      "music": 0.0,
+      "sid": 302,
+      "to": 776.17
+    },
+    {
+      "content": "手腕肘部自然摆动不要过度悬停",
+      "from": 776.17,
+      "location": 2,
+      "music": 0.0,
+      "sid": 303,
+      "to": 779.5
+    },
+    {
+      "content": "但适度向左移动肘部也是好的",
+      "from": 779.5,
+      "location": 2,
+      "music": 0.0,
+      "sid": 304,
+      "to": 782.6
+    },
+    {
+      "content": "现在如果我用鼠标向任一方向扫动",
+      "from": 782.6,
+      "location": 2,
+      "music": 0.0,
+      "sid": 305,
+      "to": 785.2
+    },
+    {
+      "content": "仍能感受到肩部的发力",
+      "from": 785.2,
+      "location": 2,
+      "music": 0.0,
+      "sid": 306,
+      "to": 788.57
+    },
+    {
+      "content": "如果我们配合1:10的灵敏度设置",
+      "from": 788.57,
+      "location": 2,
+      "music": 0.0,
+      "sid": 307,
+      "to": 792.24
+    },
+    {
+      "content": "然后玩类似Smooth Bot Intermediate模式",
+      "from": 792.24,
+      "location": 2,
+      "music": 0.0,
+      "sid": 308,
+      "to": 795.7
+    },
+    {
+      "content": "在这里进行长距离扫动操作",
+      "from": 795.7,
+      "location": 2,
+      "music": 0.0,
+      "sid": 309,
+      "to": 799.59
+    },
+    {
+      "content": "可以看到当动作启动时",
+      "from": 799.59,
+      "location": 2,
+      "music": 0.0,
+      "sid": 310,
+      "to": 801.01
+    },
+    {
+      "content": "肩部会出现瞬间紧张感",
+      "from": 801.01,
+      "location": 2,
+      "music": 0.0,
+      "sid": 311,
+      "to": 803.29
+    },
+    {
+      "content": "但随后完成这个动作",
+      "from": 803.29,
+      "location": 2,
+      "music": 0.0,
+      "sid": 312,
+      "to": 806.01
+    },
+    {
+      "content": "主要依靠肩部发力",
+      "from": 806.88,
+      "location": 2,
+      "music": 0.0,
+      "sid": 313,
+      "to": 808.96
+    },
+    {
+      "content": "你仍能感受到瞄准的其他部分",
+      "from": 808.96,
+      "location": 2,
+      "music": 0.0,
+      "sid": 314,
+      "to": 811.16
+    },
+    {
+      "content": "你能感受到手腕在方向变化时的作用",
+      "from": 811.16,
+      "location": 2,
+      "music": 0.0,
+      "sid": 315,
+      "to": 813.26
+    },
+    {
+      "content": "能感受到瞄准动作的每个环节",
+      "from": 813.26,
+      "location": 2,
+      "music": 0.0,
+      "sid": 316,
+      "to": 817.01
+    },
+    {
+      "content": "就像PGT Bot Two一样",
+      "from": 817.01,
+      "location": 2,
+      "music": 0.0,
+      "sid": 317,
+      "to": 819.03
+    },
+    {
+      "content": "但更强调肩部发力",
+      "from": 819.03,
+      "location": 2,
+      "music": 0.0,
+      "sid": 318,
+      "to": 821.61
+    },
+    {
+      "content": "对于这张地图的横扫操作",
+      "from": 821.61,
+      "location": 2,
+      "music": 0.0,
+      "sid": 319,
+      "to": 825.56
+    },
+    {
+      "content": "1:10的灵敏度是个合适范围",
+      "from": 825.56,
+      "location": 2,
+      "music": 0.0,
+      "sid": 320,
+      "to": 828.48
+    },
+    {
+      "content": "适用于某些特定任务",
+      "from": 828.48,
+      "location": 2,
+      "music": 0.0,
+      "sid": 321,
+      "to": 831.36
+    },
+    {
+      "content": "感受身体各部分的协调",
+      "from": 831.4,
+      "location": 2,
+      "music": 0.0,
+      "sid": 322,
+      "to": 833.12
+    },
+    {
+      "content": "理解其运作原理",
+      "from": 834.4,
+      "location": 2,
+      "music": 0.0,
+      "sid": 323,
+      "to": 835.69
+    },
+    {
+      "content": "好的",
+      "from": 835.69,
+      "location": 2,
+      "music": 0.0,
+      "sid": 324,
+      "to": 836.21
+    },
+    {
+      "content": "我们刚刚涵盖了从指尖到肩部的四个肌群",
+      "from": 836.21,
+      "location": 2,
+      "music": 0.0,
+      "sid": 325,
+      "to": 839.53
+    },
+    {
+      "content": "但真正帮助我们的",
+      "from": 839.53,
+      "location": 2,
+      "music": 0.0,
+      "sid": 326,
+      "to": 841.87
+    },
+    {
+      "content": "你知道的",
+      "from": 841.87,
+      "location": 2,
+      "music": 0.0,
+      "sid": 327,
+      "to": 842.63
+    },
+    {
+      "content": "通过实验和感受这些不同肌群的灵敏度设置",
+      "from": 842.63,
+      "location": 2,
+      "music": 0.0,
+      "sid": 328,
+      "to": 848.52
+    },
+    {
+      "content": "以及任务本身",
+      "from": 848.52,
+      "location": 2,
+      "music": 0.0,
+      "sid": 329,
+      "to": 850.829
+    },
+    {
+      "content": "也许我可以在这里玩Smooth Bot Intermediate",
+      "from": 850.829,
+      "location": 2,
+      "music": 0.0,
+      "sid": 330,
+      "to": 854.549
+    },
+    {
+      "content": "比如7CM 360度",
+      "from": 854.549,
+      "location": 2,
+      "music": 0.0,
+      "sid": 331,
+      "to": 857.52
+    },
+    {
+      "content": "当我进行操作时",
+      "from": 857.52,
+      "location": 2,
+      "music": 0.0,
+      "sid": 332,
+      "to": 859.22
+    },
+    {
+      "content": "你会发现主要依赖指尖",
+      "from": 859.22,
+      "location": 2,
+      "music": 0.0,
+      "sid": 333,
+      "to": 861.38
+    },
+    {
+      "content": "尤其是采用指尖握法的话",
+      "from": 861.38,
+      "location": 2,
+      "music": 0.0,
+      "sid": 334,
+      "to": 864.28
+    },
+    {
+      "content": "但玩类似Clover Rock Control这类模式",
+      "from": 864.28,
+      "location": 2,
+      "music": 0.0,
+      "sid": 335,
+      "to": 867.18
+    },
+    {
+      "content": "就能明显感受到细微调整的重要性",
+      "from": 867.18,
+      "location": 2,
+      "music": 0.0,
+      "sid": 336,
+      "to": 871.06
+    },
+    {
+      "content": "在特定灵敏度下操作有帮助",
+      "from": 871.06,
+      "location": 2,
+      "music": 0.0,
+      "sid": 337,
+      "to": 872.94
+    },
+    {
+      "content": "但正确选择操作内容更关键",
+      "from": 872.94,
+      "location": 2,
+      "music": 0.0,
+      "sid": 338,
+      "to": 876.9
+    },
+    {
+      "content": "你明白吗",
+      "from": 876.9,
+      "location": 2,
+      "music": 0.0,
+      "sid": 339,
+      "to": 877.98
+    },
+    {
+      "content": "了解肌肉群如何协同工作",
+      "from": 877.98,
+      "location": 2,
+      "music": 0.0,
+      "sid": 340,
+      "to": 881.8
+    },
+    {
+      "content": "形成一个完整的操作单元",
+      "from": 881.8,
+      "location": 2,
+      "music": 0.0,
+      "sid": 341,
+      "to": 883.77
+    },
+    {
+      "content": "这个视频比我预期的要长很多",
+      "from": 883.77,
+      "location": 2,
+      "music": 0.0,
+      "sid": 342,
+      "to": 887.13
+    },
+    {
+      "content": "但希望内容清晰易懂",
+      "from": 887.13,
+      "location": 2,
+      "music": 0.0,
+      "sid": 343,
+      "to": 888.59
+    },
+    {
+      "content": "希望大家觉得实用并提升技术",
+      "from": 888.59,
+      "location": 2,
+      "music": 0.0,
+      "sid": 344,
+      "to": 892.14
+    },
+    {
+      "content": "感谢大家观看",
+      "from": 892.14,
+      "location": 2,
+      "music": 0.0,
+      "sid": 345,
+      "to": 893.2
+    },
+    {
+      "content": "我们下次再见",
+      "from": 893.2,
+      "location": 2,
+      "music": 0.0,
+      "sid": 346,
+      "to": 894.64
+    },
+    {
+      "content": "和平",
+      "from": 894.64,
+      "location": 2,
+      "music": 0.0,
+      "sid": 347,
+      "to": 895.26
+    }
+  ]
+}

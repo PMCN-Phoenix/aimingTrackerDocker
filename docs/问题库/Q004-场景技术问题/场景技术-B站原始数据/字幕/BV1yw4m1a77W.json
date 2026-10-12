@@ -1,0 +1,200 @@
+{
+  "P1": [
+    {
+      "from": 1.8,
+      "to": 3.56,
+      "sid": 1,
+      "location": 2,
+      "content": "你现在出去的路"
+    },
+    {
+      "from": 7.18,
+      "to": 8.78,
+      "sid": 2,
+      "location": 2,
+      "content": "把手举起来"
+    },
+    {
+      "from": 8.78,
+      "to": 12.74,
+      "sid": 3,
+      "location": 2,
+      "content": "把手举起来"
+    },
+    {
+      "from": 23.62,
+      "to": 28.72,
+      "sid": 4,
+      "location": 2,
+      "content": "把你的手"
+    },
+    {
+      "from": 63.099,
+      "to": 64.858,
+      "sid": 5,
+      "location": 2,
+      "content": "你"
+    },
+    {
+      "from": 68.619,
+      "to": 70.059,
+      "sid": 6,
+      "location": 2,
+      "content": "很疯狂吗"
+    },
+    {
+      "from": 75.12,
+      "to": 76.08,
+      "sid": 7,
+      "location": 2,
+      "content": "表现得像里贾纳"
+    },
+    {
+      "from": 76.08,
+      "to": 77.02,
+      "sid": 8,
+      "location": 2,
+      "content": "你有点戏剧化"
+    },
+    {
+      "from": 77.02,
+      "to": 78.24,
+      "sid": 9,
+      "location": 2,
+      "content": "所以我一直在驾驶舱里"
+    },
+    {
+      "from": 78.24,
+      "to": 78.72,
+      "sid": 10,
+      "location": 2,
+      "content": "我一直在"
+    },
+    {
+      "from": 78.72,
+      "to": 79.14,
+      "sid": 11,
+      "location": 2,
+      "content": "是啊，是啊"
+    },
+    {
+      "from": 79.14,
+      "to": 79.72,
+      "sid": 12,
+      "location": 2,
+      "content": "去吧"
+    },
+    {
+      "from": 79.72,
+      "to": 80.98,
+      "sid": 13,
+      "location": 2,
+      "content": "我只是在戏里打劫"
+    },
+    {
+      "from": 80.98,
+      "to": 81.56,
+      "sid": 14,
+      "location": 2,
+      "content": "Shalike"
+    },
+    {
+      "from": 81.56,
+      "to": 82.02,
+      "sid": 15,
+      "location": 2,
+      "content": "路边人"
+    },
+    {
+      "from": 82.02,
+      "to": 82.9,
+      "sid": 16,
+      "location": 2,
+      "content": "我不接受伤害"
+    },
+    {
+      "from": 82.9,
+      "to": 83.74,
+      "sid": 17,
+      "location": 2,
+      "content": "如此之高"
+    },
+    {
+      "from": 83.74,
+      "to": 85.04,
+      "sid": 18,
+      "location": 2,
+      "content": "所以说"
+    },
+    {
+      "from": 120.62,
+      "to": 123.72,
+      "sid": 19,
+      "location": 2,
+      "content": "我看到这样"
+    },
+    {
+      "from": 140.42,
+      "to": 143.46,
+      "sid": 20,
+      "location": 2,
+      "content": "我现在在想"
+    },
+    {
+      "from": 148.8,
+      "to": 150.64,
+      "sid": 21,
+      "location": 2,
+      "content": "然后你就想着她"
+    },
+    {
+      "from": 150.64,
+      "to": 152.22,
+      "sid": 22,
+      "location": 2,
+      "content": "在她背后"
+    },
+    {
+      "from": 152.22,
+      "to": 153.1,
+      "sid": 23,
+      "location": 2,
+      "content": "全部真相"
+    },
+    {
+      "from": 153.1,
+      "to": 153.56,
+      "sid": 24,
+      "location": 2,
+      "content": "不是吗？"
+    },
+    {
+      "from": 153.56,
+      "to": 156.89,
+      "sid": 25,
+      "location": 2,
+      "content": "我说你像我一样爱她"
+    },
+    {
+      "from": 156.89,
+      "to": 159.74,
+      "sid": 26,
+      "location": 2,
+      "content": "我不想做我自己"
+    },
+    {
+      "from": 180.04,
+      "to": 186.36,
+      "sid": 27,
+      "location": 2,
+      "content": "以我们属于胜利的方式"
+    },
+    {
+      "from": 192.34,
+      "to": 194.2,
+      "sid": 28,
+      "location": 2,
+      "content": "你在那里和"
+    }
+  ]
+}

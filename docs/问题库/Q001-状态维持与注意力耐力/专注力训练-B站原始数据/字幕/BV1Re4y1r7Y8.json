@@ -1,0 +1,1274 @@
+[
+  {
+    "from": 0.52,
+    "to": 1.12,
+    "sid": 1,
+    "location": 2,
+    "content": "Hello",
+    "music": 0.0
+  },
+  {
+    "from": 1.12,
+    "to": 2.05,
+    "sid": 2,
+    "location": 2,
+    "content": "我是范李猿",
+    "music": 0.0
+  },
+  {
+    "from": 2.05,
+    "to": 2.92,
+    "sid": 3,
+    "location": 2,
+    "content": "做过舞蹈演员",
+    "music": 0.0
+  },
+  {
+    "from": 2.92,
+    "to": 4.12,
+    "sid": 4,
+    "location": 2,
+    "content": "也做过运动员",
+    "music": 0.0
+  },
+  {
+    "from": 4.12,
+    "to": 5.86,
+    "sid": 5,
+    "location": 2,
+    "content": "不知道你是否和我一样",
+    "music": 0.0
+  },
+  {
+    "from": 5.86,
+    "to": 8.62,
+    "sid": 6,
+    "location": 2,
+    "content": "有时候在工作和学习中会容易分心",
+    "music": 0.0
+  },
+  {
+    "from": 8.62,
+    "to": 11.44,
+    "sid": 7,
+    "location": 2,
+    "content": "会容易被短视频和游戏所吸引",
+    "music": 0.0
+  },
+  {
+    "from": 11.44,
+    "to": 12.46,
+    "sid": 8,
+    "location": 2,
+    "content": "今天是一期",
+    "music": 0.0
+  },
+  {
+    "from": 12.46,
+    "to": 13.88,
+    "sid": 9,
+    "location": 2,
+    "content": "只需要10分钟的时间",
+    "music": 0.0
+  },
+  {
+    "from": 13.88,
+    "to": 16.04,
+    "sid": 10,
+    "location": 2,
+    "content": "可以在学习和工作的间隙完成",
+    "music": 0.0
+  },
+  {
+    "from": 16.04,
+    "to": 17.48,
+    "sid": 11,
+    "location": 2,
+    "content": "能有效的集中注意力",
+    "music": 0.0
+  },
+  {
+    "from": 17.48,
+    "to": 19.259,
+    "sid": 12,
+    "location": 2,
+    "content": "提升记忆力的零基础冥想",
+    "music": 0.0
+  },
+  {
+    "from": 19.259,
+    "to": 23.2,
+    "sid": 13,
+    "location": 2,
+    "content": "会通过关呼吸数呼吸以及专注的想象",
+    "music": 0.0
+  },
+  {
+    "from": 23.2,
+    "to": 25.15,
+    "sid": 14,
+    "location": 2,
+    "content": "舒缓驱散双眼的疲劳",
+    "music": 0.0
+  },
+  {
+    "from": 25.15,
+    "to": 28.09,
+    "sid": 15,
+    "location": 2,
+    "content": "重新找回那个安定和专注的自己",
+    "music": 0.0
+  },
+  {
+    "from": 28.09,
+    "to": 30.7,
+    "sid": 16,
+    "location": 2,
+    "content": "让我们在高校工作和学习的同时",
+    "music": 0.0
+  },
+  {
+    "from": 30.7,
+    "to": 32.83,
+    "sid": 17,
+    "location": 2,
+    "content": "感受到更多的快乐和动力",
+    "music": 0.0
+  },
+  {
+    "from": 32.83,
+    "to": 34.24,
+    "sid": 18,
+    "location": 2,
+    "content": "无论是坐在座位上",
+    "music": 0.0
+  },
+  {
+    "from": 34.24,
+    "to": 35.29,
+    "sid": 19,
+    "location": 2,
+    "content": "还是躺在床上",
+    "music": 0.0
+  },
+  {
+    "from": 35.29,
+    "to": 37.92,
+    "sid": 20,
+    "location": 2,
+    "content": "又或是站在通勤的地铁或者公交里",
+    "music": 0.0
+  },
+  {
+    "from": 37.92,
+    "to": 41.04,
+    "sid": 21,
+    "location": 2,
+    "content": "你都可以通过音频或者视频的形式使用它",
+    "music": 0.0
+  },
+  {
+    "from": 41.04,
+    "to": 42.86,
+    "sid": 22,
+    "location": 2,
+    "content": "它不会带给你一点点负担",
+    "music": 0.0
+  },
+  {
+    "from": 42.86,
+    "to": 45.35,
+    "sid": 23,
+    "location": 2,
+    "content": "只会是一次松弛的精神旅行",
+    "music": 0.0
+  },
+  {
+    "from": 45.35,
+    "to": 47.9,
+    "sid": 24,
+    "location": 2,
+    "content": "如果你的冥想这个主题感兴趣",
+    "music": 0.0
+  },
+  {
+    "from": 47.9,
+    "to": 50.84,
+    "sid": 25,
+    "location": 2,
+    "content": "也请不要忘了给我一点点点支持",
+    "music": 0.08823529087370309
+  },
+  {
+    "from": 50.84,
+    "to": 52.34,
+    "sid": 26,
+    "location": 2,
+    "content": "本期点赞过3万",
+    "music": 0.0
+  },
+  {
+    "from": 52.34,
+    "to": 53.42,
+    "sid": 27,
+    "location": 2,
+    "content": "我会继续努力制作",
+    "music": 0.0
+  },
+  {
+    "from": 53.42,
+    "to": 54.8,
+    "sid": 28,
+    "location": 2,
+    "content": "像是调节情绪",
+    "music": 0.0
+  },
+  {
+    "from": 54.8,
+    "to": 55.96,
+    "sid": 29,
+    "location": 2,
+    "content": "增加自信",
+    "music": 0.0
+  },
+  {
+    "from": 55.96,
+    "to": 58.66,
+    "sid": 30,
+    "location": 2,
+    "content": "感知力提升以及增加前额等等",
+    "music": 0.0
+  },
+  {
+    "from": 58.66,
+    "to": 60.22,
+    "sid": 31,
+    "location": 2,
+    "content": "全系列的冥想引导",
+    "music": 0.0
+  },
+  {
+    "from": 60.22,
+    "to": 64.31,
+    "sid": 32,
+    "location": 2,
+    "content": "你可以将你想先看到的发在弹幕上来吧",
+    "music": 0.0
+  },
+  {
+    "from": 64.31,
+    "to": 66.11,
+    "sid": 33,
+    "location": 2,
+    "content": "先让我们确定一个姿势",
+    "music": 0.0
+  },
+  {
+    "from": 66.11,
+    "to": 68.72,
+    "sid": 34,
+    "location": 2,
+    "content": "不论是坐站躺",
+    "music": 0.0
+  },
+  {
+    "from": 68.72,
+    "to": 75.5,
+    "sid": 35,
+    "location": 2,
+    "content": "都可以将肩膀向前向上向后舒展开来",
+    "music": 0.0
+  },
+  {
+    "from": 76.76,
+    "to": 78.539,
+    "sid": 36,
+    "location": 2,
+    "content": "将肋骨不收进去",
+    "music": 0.0
+  },
+  {
+    "from": 78.539,
+    "to": 80.879,
+    "sid": 37,
+    "location": 2,
+    "content": "微微地将胸膛挺起来",
+    "music": 0.0
+  },
+  {
+    "from": 80.879,
+    "to": 83.399,
+    "sid": 38,
+    "location": 2,
+    "content": "我们先一起来做两次深呼吸",
+    "music": 0.0
+  },
+  {
+    "from": 84.479,
+    "to": 86.82,
+    "sid": 39,
+    "location": 2,
+    "content": "从鼻子深深地吸",
+    "music": 0.0
+  },
+  {
+    "from": 88.44,
+    "to": 92.12,
+    "sid": 40,
+    "location": 2,
+    "content": "在深深的呼很好",
+    "music": 0.0
+  },
+  {
+    "from": 92.12,
+    "to": 95.84,
+    "sid": 41,
+    "location": 2,
+    "content": "再一次深深的吸气",
+    "music": 0.0
+  },
+  {
+    "from": 97.68,
+    "to": 98.84,
+    "sid": 42,
+    "location": 2,
+    "content": "深深的呼",
+    "music": 0.0
+  },
+  {
+    "from": 100.46,
+    "to": 104.46,
+    "sid": 43,
+    "location": 2,
+    "content": "接下来你可以选择闭上眼或者睁开眼",
+    "music": 0.0
+  },
+  {
+    "from": 104.64,
+    "to": 108.899,
+    "sid": 44,
+    "location": 2,
+    "content": "让我们先按各自自由舒适的节奏去呼吸",
+    "music": 0.0
+  },
+  {
+    "from": 109.88,
+    "to": 114.48,
+    "sid": 45,
+    "location": 2,
+    "content": "我头部的起伏是为了提醒呼吸要有节奏",
+    "music": 0.0
+  },
+  {
+    "from": 114.48,
+    "to": 117.48,
+    "sid": 46,
+    "location": 2,
+    "content": "大家保持不动就好",
+    "music": 0.0
+  },
+  {
+    "from": 121.66,
+    "to": 126.1,
+    "sid": 47,
+    "location": 2,
+    "content": "此刻的你不必强求你的大脑安静下来",
+    "music": 0.0
+  },
+  {
+    "from": 126.1,
+    "to": 128.2,
+    "sid": 48,
+    "location": 2,
+    "content": "让我们花一点时间",
+    "music": 0.0
+  },
+  {
+    "from": 128.2,
+    "to": 130.9,
+    "sid": 49,
+    "location": 2,
+    "content": "让他慢慢平静",
+    "music": 0.0
+  },
+  {
+    "from": 134.32,
+    "to": 136.32,
+    "sid": 50,
+    "location": 2,
+    "content": "去感受你周围的声音吧",
+    "music": 0.2340425407424174
+  },
+  {
+    "from": 137.52,
+    "to": 140.32,
+    "sid": 51,
+    "location": 2,
+    "content": "听到那些存在的声音了吗",
+    "music": 0.11827956353335713
+  },
+  {
+    "from": 140.42,
+    "to": 142.51,
+    "sid": 52,
+    "location": 2,
+    "content": "你不必知道他们是什么",
+    "music": 0.0
+  },
+  {
+    "from": 142.51,
+    "to": 146.02,
+    "sid": 53,
+    "location": 2,
+    "content": "也不必在意他们为什么在这里",
+    "music": 0.0
+  },
+  {
+    "from": 146.24,
+    "to": 148.12,
+    "sid": 54,
+    "location": 2,
+    "content": "只是去注意声音本身",
+    "music": 0.2531645409389547
+  },
+  {
+    "from": 149.44,
+    "to": 150.46,
+    "sid": 55,
+    "location": 2,
+    "content": "远处的声音",
+    "music": 0.0
+  },
+  {
+    "from": 151.66,
+    "to": 153.5,
+    "sid": 56,
+    "location": 2,
+    "content": "近处的声音",
+    "music": 0.0
+  },
+  {
+    "from": 153.9,
+    "to": 155.21,
+    "sid": 57,
+    "location": 2,
+    "content": "感受它们",
+    "music": 0.0
+  },
+  {
+    "from": 155.21,
+    "to": 157.76,
+    "sid": 58,
+    "location": 2,
+    "content": "它们慢慢传入你的耳朵",
+    "music": 0.0
+  },
+  {
+    "from": 157.76,
+    "to": 160.1,
+    "sid": 59,
+    "location": 2,
+    "content": "又慢慢的消失",
+    "music": 0.0
+  },
+  {
+    "from": 161.28,
+    "to": 166.02,
+    "sid": 60,
+    "location": 2,
+    "content": "剩下的是你闲适稳定的呼吸声",
+    "music": 0.0
+  },
+  {
+    "from": 170.94,
+    "to": 172.04,
+    "sid": 61,
+    "location": 2,
+    "content": "慢慢地呼",
+    "music": 0.27272724173552015
+  },
+  {
+    "from": 173.96,
+    "to": 176.12,
+    "sid": 62,
+    "location": 2,
+    "content": "缓缓的吸",
+    "music": 0.999999907407416
+  },
+  {
+    "from": 177.9,
+    "to": 180.05,
+    "sid": 63,
+    "location": 2,
+    "content": "注意到你有一个身体",
+    "music": 0.0
+  },
+  {
+    "from": 180.05,
+    "to": 182.56,
+    "sid": 64,
+    "location": 2,
+    "content": "这个身体正在呼吸",
+    "music": 0.24390242415227936
+  },
+  {
+    "from": 183.44,
+    "to": 185.53,
+    "sid": 65,
+    "location": 2,
+    "content": "你能感受到你的鼻子",
+    "music": 0.0
+  },
+  {
+    "from": 185.53,
+    "to": 187.16,
+    "sid": 66,
+    "location": 2,
+    "content": "你的胸腔",
+    "music": 0.0
+  },
+  {
+    "from": 187.16,
+    "to": 188.57,
+    "sid": 67,
+    "location": 2,
+    "content": "你的腹部",
+    "music": 0.3555555160493773
+  },
+  {
+    "from": 188.57,
+    "to": 193.9,
+    "sid": 68,
+    "location": 2,
+    "content": "甚至你的整个身体正在缓慢的被气体充盈",
+    "music": 0.0
+  },
+  {
+    "from": 194.84,
+    "to": 198.28,
+    "sid": 69,
+    "location": 2,
+    "content": "又缓慢地排出这些气体",
+    "music": 0.0
+  },
+  {
+    "from": 205.31,
+    "to": 209.48,
+    "sid": 70,
+    "location": 2,
+    "content": "很好继续吸气",
+    "music": 0.0
+  },
+  {
+    "from": 211.04,
+    "to": 217.54,
+    "sid": 71,
+    "location": 2,
+    "content": "呼气让我们慢慢感受更多呼吸的细节",
+    "music": 0.19620252543662337
+  },
+  {
+    "from": 218.24,
+    "to": 221.44,
+    "sid": 72,
+    "location": 2,
+    "content": "从吸气到中间的停顿",
+    "music": 0.4215686067858551
+  },
+  {
+    "from": 222.94,
+    "to": 224.88,
+    "sid": 73,
+    "location": 2,
+    "content": "再到呼气",
+    "music": 0.0
+  },
+  {
+    "from": 225.88,
+    "to": 230.7,
+    "sid": 74,
+    "location": 2,
+    "content": "感受空气是温暖的还是凉爽的",
+    "music": 0.0
+  },
+  {
+    "from": 231.299,
+    "to": 234.079,
+    "sid": 75,
+    "location": 2,
+    "content": "是深的还是浅的",
+    "music": 0.0
+  },
+  {
+    "from": 235.519,
+    "to": 239.359,
+    "sid": 76,
+    "location": 2,
+    "content": "是快的还是慢的",
+    "music": 0.0
+  },
+  {
+    "from": 239.9,
+    "to": 251.479,
+    "sid": 77,
+    "location": 2,
+    "content": "就这样继续让感知呼吸成为感知自我的桥梁吧",
+    "music": 0.0
+  },
+  {
+    "from": 252.619,
+    "to": 256.26,
+    "sid": 78,
+    "location": 2,
+    "content": "吸气想象自己吸入的空气",
+    "music": 0.0
+  },
+  {
+    "from": 256.26,
+    "to": 258.82,
+    "sid": 79,
+    "location": 2,
+    "content": "慢慢地进入自己的身体",
+    "music": 0.0
+  },
+  {
+    "from": 259.52,
+    "to": 262.06,
+    "sid": 80,
+    "location": 2,
+    "content": "感受胸腔和腹腔",
+    "music": 0.0
+  },
+  {
+    "from": 262.06,
+    "to": 265.34,
+    "sid": 81,
+    "location": 2,
+    "content": "随着呼吸不断的上升和下降",
+    "music": 0.0
+  },
+  {
+    "from": 267.56,
+    "to": 270.7,
+    "sid": 82,
+    "location": 2,
+    "content": "呼气慢慢地向下",
+    "music": 0.0
+  },
+  {
+    "from": 271.16,
+    "to": 274.78,
+    "sid": 83,
+    "location": 2,
+    "content": "想象到大腿得到小腿",
+    "music": 0.0
+  },
+  {
+    "from": 274.78,
+    "to": 280.0,
+    "sid": 84,
+    "location": 2,
+    "content": "最后到达脚趾去观察它的变化",
+    "music": 0.0
+  },
+  {
+    "from": 292.72,
+    "to": 295.26,
+    "sid": 85,
+    "location": 2,
+    "content": "如果你的思绪飘走了",
+    "music": 0.0
+  },
+  {
+    "from": 295.26,
+    "to": 299.88,
+    "sid": 86,
+    "location": 2,
+    "content": "慢慢地轻轻地将她带回呼吸",
+    "music": 0.0
+  },
+  {
+    "from": 301.16,
+    "to": 303.88,
+    "sid": 87,
+    "location": 2,
+    "content": "不论打乱你的是待会儿的计划",
+    "music": 0.0
+  },
+  {
+    "from": 303.88,
+    "to": 306.52,
+    "sid": 88,
+    "location": 2,
+    "content": "还是此刻的某些感悟",
+    "music": 0.0
+  },
+  {
+    "from": 306.52,
+    "to": 311.14,
+    "sid": 89,
+    "location": 2,
+    "content": "无论你在想什么都没关系",
+    "music": 0.0
+  },
+  {
+    "from": 311.84,
+    "to": 317.77,
+    "sid": 90,
+    "location": 2,
+    "content": "请注意到他意识到这些念头聚焦",
+    "music": 0.0
+  },
+  {
+    "from": 317.77,
+    "to": 320.86,
+    "sid": 91,
+    "location": 2,
+    "content": "但只是在他们之上短暂的停留",
+    "music": 0.0
+  },
+  {
+    "from": 321.32,
+    "to": 323.68,
+    "sid": 92,
+    "location": 2,
+    "content": "接着就可以想象一阵风吹过",
+    "music": 0.0
+  },
+  {
+    "from": 324.76,
+    "to": 329.11,
+    "sid": 93,
+    "location": 2,
+    "content": "随着呼吸以外的一切都被带走",
+    "music": 0.07352940906141388
+  },
+  {
+    "from": 329.7,
+    "to": 333.08,
+    "sid": 94,
+    "location": 2,
+    "content": "思绪轻盈又坚定地回到呼吸上",
+    "music": 0.0
+  },
+  {
+    "from": 335.3,
+    "to": 336.36,
+    "sid": 95,
+    "location": 2,
+    "content": "很好",
+    "music": 0.0
+  },
+  {
+    "from": 336.36,
+    "to": 337.56,
+    "sid": 96,
+    "location": 2,
+    "content": "就像现在这样",
+    "music": 0.0
+  },
+  {
+    "from": 337.56,
+    "to": 340.65,
+    "sid": 97,
+    "location": 2,
+    "content": "不用刻意的集中走神也没关系",
+    "music": 0.0
+  },
+  {
+    "from": 340.65,
+    "to": 343.47,
+    "sid": 98,
+    "location": 2,
+    "content": "只需要注意到自己分神的时刻",
+    "music": 0.0
+  },
+  {
+    "from": 343.47,
+    "to": 346.579,
+    "sid": 99,
+    "location": 2,
+    "content": "在一次一次的让我们回到专注",
+    "music": 0.0
+  },
+  {
+    "from": 348.199,
+    "to": 354.27,
+    "sid": 100,
+    "location": 2,
+    "content": "接着我们将每一次呼气和吸气都用数字来计数",
+    "music": 0.0
+  },
+  {
+    "from": 355.75,
+    "to": 358.78,
+    "sid": 101,
+    "location": 2,
+    "content": "让我们来数1~7的循环",
+    "music": 0.0
+  },
+  {
+    "from": 358.78,
+    "to": 361.06,
+    "sid": 102,
+    "location": 2,
+    "content": "先让我们缓缓地吸一口气",
+    "music": 0.0
+  },
+  {
+    "from": 362.8,
+    "to": 365.54,
+    "sid": 103,
+    "location": 2,
+    "content": "一缓缓的呼气",
+    "music": 0.16279068820983064
+  },
+  {
+    "from": 367.6,
+    "to": 371.22,
+    "sid": 104,
+    "location": 2,
+    "content": "二缓缓地吸气",
+    "music": 0.21917806717958283
+  },
+  {
+    "from": 373.66,
+    "to": 377.16,
+    "sid": 105,
+    "location": 2,
+    "content": "三呼气",
+    "music": 0.9999998958333443
+  },
+  {
+    "from": 379.9,
+    "to": 383.22,
+    "sid": 106,
+    "location": 2,
+    "content": "四吸气",
+    "music": 0.70212758488003
+  },
+  {
+    "from": 385.66,
+    "to": 388.92,
+    "sid": 107,
+    "location": 2,
+    "content": "五呼气",
+    "music": 0.9999998484848716
+  },
+  {
+    "from": 390.8,
+    "to": 392.62,
+    "sid": 108,
+    "location": 2,
+    "content": "六吸气",
+    "music": 0.6078430776624586
+  },
+  {
+    "from": 395.2,
+    "to": 396.74,
+    "sid": 109,
+    "location": 2,
+    "content": "七呼气",
+    "music": 0.0
+  },
+  {
+    "from": 399.92,
+    "to": 401.02,
+    "sid": 110,
+    "location": 2,
+    "content": "很好",
+    "music": 0.0
+  },
+  {
+    "from": 401.02,
+    "to": 402.82,
+    "sid": 111,
+    "location": 2,
+    "content": "让我们再来一次",
+    "music": 0.0
+  },
+  {
+    "from": 402.82,
+    "to": 405.78,
+    "sid": 112,
+    "location": 2,
+    "content": "这次我会作为旁观者消失",
+    "music": 0.3364485824089331
+  },
+  {
+    "from": 406.3,
+    "to": 408.6,
+    "sid": 113,
+    "location": 2,
+    "content": "你需要慢慢的感受自己的呼吸",
+    "music": 0.0
+  },
+  {
+    "from": 409.8,
+    "to": 410.79,
+    "sid": 114,
+    "location": 2,
+    "content": "依靠自己",
+    "music": 0.0
+  },
+  {
+    "from": 410.79,
+    "to": 413.73,
+    "sid": 115,
+    "location": 2,
+    "content": "继续数1~7的循环",
+    "music": 0.0
+  },
+  {
+    "from": 413.73,
+    "to": 414.81,
+    "sid": 116,
+    "location": 2,
+    "content": "深吸一口气",
+    "music": 0.0
+  },
+  {
+    "from": 415.83,
+    "to": 420.76,
+    "sid": 117,
+    "location": 2,
+    "content": "开始吧",
+    "music": 0.0
+  },
+  {
+    "from": 459.56,
+    "to": 464.18,
+    "sid": 118,
+    "location": 2,
+    "content": "数字断掉或是超过七都没关系",
+    "music": 0.0
+  },
+  {
+    "from": 464.18,
+    "to": 466.1,
+    "sid": 119,
+    "location": 2,
+    "content": "温柔地将思绪找回",
+    "music": 0.0
+  },
+  {
+    "from": 467.54,
+    "to": 469.9,
+    "sid": 120,
+    "location": 2,
+    "content": "不需要对自己进行评价",
+    "music": 0.0
+  },
+  {
+    "from": 469.9,
+    "to": 473.82,
+    "sid": 121,
+    "location": 2,
+    "content": "在这里你可以无数次的从头再来",
+    "music": 0.0
+  },
+  {
+    "from": 474.58,
+    "to": 479.1,
+    "sid": 122,
+    "location": 2,
+    "content": "慢慢的多花点时间练习就好",
+    "music": 0.0
+  },
+  {
+    "from": 492.26,
+    "to": 496.06,
+    "sid": 123,
+    "location": 2,
+    "content": "接下来让我们的脑海去创造一个",
+    "music": 0.0
+  },
+  {
+    "from": 496.06,
+    "to": 498.96,
+    "sid": 124,
+    "location": 2,
+    "content": "去想象一个非常专注的人",
+    "music": 0.0
+  },
+  {
+    "from": 499.84,
+    "to": 504.24,
+    "sid": 125,
+    "location": 2,
+    "content": "他全身心地将注意力集中在一件事情上",
+    "music": 0.0
+  },
+  {
+    "from": 509.76,
+    "to": 511.76,
+    "sid": 126,
+    "location": 2,
+    "content": "即使他在一个嘈杂的环境",
+    "music": 0.10752687593940836
+  },
+  {
+    "from": 512.78,
+    "to": 514.659,
+    "sid": 127,
+    "location": 2,
+    "content": "即使受到外力的干扰",
+    "music": 0.0
+  },
+  {
+    "from": 514.659,
+    "to": 516.189,
+    "sid": 128,
+    "location": 2,
+    "content": "也能调整状态",
+    "music": 0.0
+  },
+  {
+    "from": 516.189,
+    "to": 519.339,
+    "sid": 129,
+    "location": 2,
+    "content": "回到他所专注的事情上",
+    "music": 0.08602150075151448
+  },
+  {
+    "from": 522.26,
+    "to": 525.88,
+    "sid": 130,
+    "location": 2,
+    "content": "你在他的身边安静地陪伴着她",
+    "music": 0.0
+  },
+  {
+    "from": 526.9,
+    "to": 531.88,
+    "sid": 131,
+    "location": 2,
+    "content": "慢慢的脑海里你有了和他一样的神情",
+    "music": 0.2885905943426385
+  },
+  {
+    "from": 532.28,
+    "to": 535.24,
+    "sid": 132,
+    "location": 2,
+    "content": "工作以及思维的方式",
+    "music": 0.06249999674479553
+  },
+  {
+    "from": 538.84,
+    "to": 544.94,
+    "sid": 133,
+    "location": 2,
+    "content": "现在你和她变成了一个一样非常专注的人",
+    "music": 0.0
+  },
+  {
+    "from": 548.5,
+    "to": 551.81,
+    "sid": 134,
+    "location": 2,
+    "content": "很好记住这种专注的感觉",
+    "music": 0.04716980909577435
+  },
+  {
+    "from": 559.86,
+    "to": 561.35,
+    "sid": 135,
+    "location": 2,
+    "content": "练习的最后",
+    "music": 0.2962962688614917
+  },
+  {
+    "from": 561.35,
+    "to": 563.8,
+    "sid": 136,
+    "location": 2,
+    "content": "让我们一起深深地吸气",
+    "music": 0.0
+  },
+  {
+    "from": 565.28,
+    "to": 566.8,
+    "sid": 137,
+    "location": 2,
+    "content": "在完全呼吸",
+    "music": 0.4117646756055287
+  },
+  {
+    "from": 568.48,
+    "to": 570.82,
+    "sid": 138,
+    "location": 2,
+    "content": "轻轻地将意识回到身体",
+    "music": 0.0
+  },
+  {
+    "from": 570.82,
+    "to": 572.62,
+    "sid": 139,
+    "location": 2,
+    "content": "缓缓的睁开眼睛",
+    "music": 0.0
+  },
+  {
+    "from": 573.88,
+    "to": 576.48,
+    "sid": 140,
+    "location": 2,
+    "content": "就像新生儿一样环顾一下四周",
+    "music": 0.0
+  },
+  {
+    "from": 576.48,
+    "to": 578.4,
+    "sid": 141,
+    "location": 2,
+    "content": "带着ending和专注",
+    "music": 0.0
+  },
+  {
+    "from": 578.4,
+    "to": 580.26,
+    "sid": 142,
+    "location": 2,
+    "content": "继续我们的生活吧",
+    "music": 0.0
+  },
+  {
+    "from": 582.36,
+    "to": 583.37,
+    "sid": 143,
+    "location": 2,
+    "content": "感觉怎么样",
+    "music": 0.0
+  },
+  {
+    "from": 583.37,
+    "to": 585.47,
+    "sid": 144,
+    "location": 2,
+    "content": "有察觉到自己状态的变化吗",
+    "music": 0.0
+  },
+  {
+    "from": 585.47,
+    "to": 586.16,
+    "sid": 145,
+    "location": 2,
+    "content": "应该也有",
+    "music": 0.0
+  },
+  {
+    "from": 586.16,
+    "to": 588.26,
+    "sid": 146,
+    "location": 2,
+    "content": "在过程中分神又找回来吧",
+    "music": 0.0
+  },
+  {
+    "from": 588.26,
+    "to": 591.44,
+    "sid": 147,
+    "location": 2,
+    "content": "这个过程就是一次又一次对大脑的锻炼",
+    "music": 0.0
+  },
+  {
+    "from": 591.44,
+    "to": 593.27,
+    "sid": 148,
+    "location": 2,
+    "content": "随着你跟练的次数增加",
+    "music": 0.0
+  },
+  {
+    "from": 593.27,
+    "to": 595.13,
+    "sid": 149,
+    "location": 2,
+    "content": "你的注意力会变得越来越强",
+    "music": 0.0
+  },
+  {
+    "from": 595.13,
+    "to": 596.819,
+    "sid": 150,
+    "location": 2,
+    "content": "分神的时间越来越短",
+    "music": 0.0
+  },
+  {
+    "from": 596.819,
+    "to": 599.639,
+    "sid": 151,
+    "location": 2,
+    "content": "在生活中也更加容易全身心的投入",
+    "music": 0.0
+  },
+  {
+    "from": 599.639,
+    "to": 601.079,
+    "sid": 152,
+    "location": 2,
+    "content": "在你正在做的事情上",
+    "music": 0.0
+  },
+  {
+    "from": 601.079,
+    "to": 603.24,
+    "sid": 153,
+    "location": 2,
+    "content": "如果今天的内容对你有帮助",
+    "music": 0.0
+  },
+  {
+    "from": 603.24,
+    "to": 604.62,
+    "sid": 154,
+    "location": 2,
+    "content": "也请帮我点赞",
+    "music": 0.0
+  },
+  {
+    "from": 604.62,
+    "to": 607.92,
+    "sid": 155,
+    "location": 2,
+    "content": "投币收藏以及转发给那些可能需要的朋友",
+    "music": 0.0
+  },
+  {
+    "from": 607.92,
+    "to": 610.14,
+    "sid": 156,
+    "location": 2,
+    "content": "这会是对我很大的帮助",
+    "music": 0.0
+  },
+  {
+    "from": 610.14,
+    "to": 611.43,
+    "sid": 157,
+    "location": 2,
+    "content": "我是范李猿",
+    "music": 0.0
+  },
+  {
+    "from": 611.43,
+    "to": 612.57,
+    "sid": 158,
+    "location": 2,
+    "content": "下次见吧",
+    "music": 0.0
+  },
+  {
+    "from": 612.57,
+    "to": 614.46,
+    "sid": 159,
+    "location": 2,
+    "content": "拜拜",
+    "music": 0.0
+  }
+]

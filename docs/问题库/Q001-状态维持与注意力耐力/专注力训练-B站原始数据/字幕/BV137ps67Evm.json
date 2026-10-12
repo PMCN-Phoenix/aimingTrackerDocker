@@ -1,0 +1,914 @@
+[
+  {
+    "from": 0.16,
+    "to": 2.2,
+    "sid": 1,
+    "location": 2,
+    "content": "志愿者们下载了一款软件",
+    "music": 0.0
+  },
+  {
+    "from": 2.2,
+    "to": 5.1,
+    "sid": 2,
+    "location": 2,
+    "content": "专门记录他们在切换到另一个电脑软件前",
+    "music": 0.0
+  },
+  {
+    "from": 5.1,
+    "to": 8.36,
+    "sid": 3,
+    "location": 2,
+    "content": "能在一个软件上专注待多长时间",
+    "music": 0.0
+  },
+  {
+    "from": 8.36,
+    "to": 9.72,
+    "sid": 4,
+    "location": 2,
+    "content": "结果显示",
+    "music": 0.0
+  },
+  {
+    "from": 9.72,
+    "to": 13.18,
+    "sid": 5,
+    "location": 2,
+    "content": "大家平均只能在一个任务上坚持40秒",
+    "music": 0.0
+  },
+  {
+    "from": 13.18,
+    "to": 14.88,
+    "sid": 6,
+    "location": 2,
+    "content": "而在短短5年前",
+    "music": 0.0
+  },
+  {
+    "from": 14.88,
+    "to": 17.83,
+    "sid": 7,
+    "location": 2,
+    "content": "这个数字还是75秒",
+    "music": 0.0
+  },
+  {
+    "from": 17.83,
+    "to": 19.37,
+    "sid": 8,
+    "location": 2,
+    "content": "这倒不一定意味着",
+    "music": 0.0
+  },
+  {
+    "from": 19.37,
+    "to": 21.71,
+    "sid": 9,
+    "location": 2,
+    "content": "咱们的注意力从根本上变短了",
+    "music": 0.0
+  },
+  {
+    "from": 21.71,
+    "to": 24.689,
+    "sid": 10,
+    "location": 2,
+    "content": "更准确的说是在当今这个时代",
+    "music": 0.0
+  },
+  {
+    "from": 24.689,
+    "to": 28.27,
+    "sid": 11,
+    "location": 2,
+    "content": "有太多东西在瓜分我们的注意力了",
+    "music": 0.0
+  },
+  {
+    "from": 28.27,
+    "to": 33.25,
+    "sid": 12,
+    "location": 2,
+    "content": "这导致不论是工作学习还是做自己喜欢的事",
+    "music": 0.0
+  },
+  {
+    "from": 33.25,
+    "to": 36.81,
+    "sid": 13,
+    "location": 2,
+    "content": "想静下心来专注都变得极其困难",
+    "music": 0.0
+  },
+  {
+    "from": 36.81,
+    "to": 40.55,
+    "sid": 14,
+    "location": 2,
+    "content": "不过好在不论是在线还是离线",
+    "music": 0.0
+  },
+  {
+    "from": 40.55,
+    "to": 42.91,
+    "sid": 15,
+    "location": 2,
+    "content": "我们都有办法来改善并",
+    "music": 0.0
+  },
+  {
+    "from": 42.91,
+    "to": 44.73,
+    "sid": 16,
+    "location": 2,
+    "content": "更好地保护自己的注意力",
+    "music": 0.0
+  },
+  {
+    "from": 44.73,
+    "to": 48.269,
+    "sid": 17,
+    "location": 2,
+    "content": "我们的脑子时刻都在接收海量的外部信息",
+    "music": 0.0
+  },
+  {
+    "from": 48.269,
+    "to": 50.729,
+    "sid": 18,
+    "location": 2,
+    "content": "从感官刺激环境信号",
+    "music": 0.0
+  },
+  {
+    "from": 50.729,
+    "to": 53.14,
+    "sid": 19,
+    "location": 2,
+    "content": "再到脑子里冒出的各种念头",
+    "music": 0.0
+  },
+  {
+    "from": 53.14,
+    "to": 56.12,
+    "sid": 20,
+    "location": 2,
+    "content": "要从这堆乱七八糟的信息里筛出有用的",
+    "music": 0.0
+  },
+  {
+    "from": 56.12,
+    "to": 58.97,
+    "sid": 21,
+    "location": 2,
+    "content": "全靠大脑的多个区域协同配合",
+    "music": 0.0
+  },
+  {
+    "from": 58.97,
+    "to": 62.019,
+    "sid": 22,
+    "location": 2,
+    "content": "前额叶皮层帮我们决定该关注什么",
+    "music": 0.0
+  },
+  {
+    "from": 62.019,
+    "to": 65.239,
+    "sid": 23,
+    "location": 2,
+    "content": "而顶叶皮层则像一把精神上的手电筒",
+    "music": 0.0
+  },
+  {
+    "from": 65.239,
+    "to": 68.319,
+    "sid": 24,
+    "location": 2,
+    "content": "把光照在最重要的高优先级信息上",
+    "music": 0.0
+  },
+  {
+    "from": 68.319,
+    "to": 70.57,
+    "sid": 25,
+    "location": 2,
+    "content": "同时自动忽略其他干扰",
+    "music": 0.0
+  },
+  {
+    "from": 70.57,
+    "to": 72.87,
+    "sid": 26,
+    "location": 2,
+    "content": "保持专注的难点就在于",
+    "music": 0.0
+  },
+  {
+    "from": 72.87,
+    "to": 75.61,
+    "sid": 27,
+    "location": 2,
+    "content": "怎么把这把手电筒的光固定在一个地方",
+    "music": 0.0
+  },
+  {
+    "from": 75.61,
+    "to": 79.86,
+    "sid": 28,
+    "location": 2,
+    "content": "不动大脑其实一直在悄悄监控所有竞争信号",
+    "music": 0.0
+  },
+  {
+    "from": 79.86,
+    "to": 82.42,
+    "sid": 29,
+    "location": 2,
+    "content": "一旦发现任何新鲜意料之外",
+    "music": 0.0
+  },
+  {
+    "from": 82.42,
+    "to": 84.78,
+    "sid": 30,
+    "location": 2,
+    "content": "或者带有强烈情绪色彩的东西",
+    "music": 0.0
+  },
+  {
+    "from": 84.78,
+    "to": 86.26,
+    "sid": 31,
+    "location": 2,
+    "content": "比如敲门声",
+    "music": 0.0
+  },
+  {
+    "from": 86.26,
+    "to": 87.34,
+    "sid": 32,
+    "location": 2,
+    "content": "新通知",
+    "music": 0.0
+  },
+  {
+    "from": 87.34,
+    "to": 89.76,
+    "sid": 33,
+    "location": 2,
+    "content": "甚至是脑海中闪过的一个念头",
+    "music": 0.0
+  },
+  {
+    "from": 89.76,
+    "to": 92.22,
+    "sid": 34,
+    "location": 2,
+    "content": "他就会立马把你的注意力拉过去",
+    "music": 0.0
+  },
+  {
+    "from": 92.22,
+    "to": 95.97,
+    "sid": 35,
+    "location": 2,
+    "content": "这种随时扫描四周并迅速转移注意力的本领",
+    "music": 0.0
+  },
+  {
+    "from": 95.97,
+    "to": 98.92,
+    "sid": 36,
+    "location": 2,
+    "content": "在古代可是人类生存的关键",
+    "music": 0.0
+  },
+  {
+    "from": 98.92,
+    "to": 102.24,
+    "sid": 37,
+    "location": 2,
+    "content": "所以说虽然分心挺让人头疼的",
+    "music": 0.0
+  },
+  {
+    "from": 102.24,
+    "to": 104.8,
+    "sid": 38,
+    "location": 2,
+    "content": "但这其实再正常不过了",
+    "music": 0.0
+  },
+  {
+    "from": 104.8,
+    "to": 108.9,
+    "sid": 39,
+    "location": 2,
+    "content": "此外每个人抵抗干扰的底子也不太一样",
+    "music": 0.0
+  },
+  {
+    "from": 108.9,
+    "to": 112.0,
+    "sid": 40,
+    "location": 2,
+    "content": "这跟基因和脑部结构差异都有关系",
+    "music": 0.0
+  },
+  {
+    "from": 112.0,
+    "to": 114.28,
+    "sid": 41,
+    "location": 2,
+    "content": "但不管你现在的起点如何",
+    "music": 0.0
+  },
+  {
+    "from": 114.28,
+    "to": 116.96,
+    "sid": 42,
+    "location": 2,
+    "content": "都有办法提升自己的专注力",
+    "music": 0.0
+  },
+  {
+    "from": 116.96,
+    "to": 119.08,
+    "sid": 43,
+    "location": 2,
+    "content": "首先难度适中",
+    "music": 0.0
+  },
+  {
+    "from": 119.08,
+    "to": 120.54,
+    "sid": 44,
+    "location": 2,
+    "content": "带点挑战性的任务",
+    "music": 0.0
+  },
+  {
+    "from": 120.54,
+    "to": 122.26,
+    "sid": 45,
+    "location": 2,
+    "content": "最能抓住人的注意力",
+    "music": 0.0
+  },
+  {
+    "from": 122.26,
+    "to": 124.46,
+    "sid": 46,
+    "location": 2,
+    "content": "比如去拼一个图样复杂",
+    "music": 0.0
+  },
+  {
+    "from": 124.46,
+    "to": 126.07,
+    "sid": 47,
+    "location": 2,
+    "content": "难度较高的拼图",
+    "music": 0.0
+  },
+  {
+    "from": 126.07,
+    "to": 128.97,
+    "sid": 48,
+    "location": 2,
+    "content": "你可能比拼简易拼图时更专注",
+    "music": 0.0
+  },
+  {
+    "from": 128.97,
+    "to": 132.36,
+    "sid": 49,
+    "location": 2,
+    "content": "当然咱们不可能总能挑活干",
+    "music": 0.0
+  },
+  {
+    "from": 132.36,
+    "to": 134.28,
+    "sid": 50,
+    "location": 2,
+    "content": "遇到那些不得不做的事",
+    "music": 0.0
+  },
+  {
+    "from": 134.28,
+    "to": 135.92,
+    "sid": 51,
+    "location": 2,
+    "content": "不妨换个心态",
+    "music": 0.0
+  },
+  {
+    "from": 135.92,
+    "to": 137.779,
+    "sid": 52,
+    "location": 2,
+    "content": "觉得集中精神很累",
+    "music": 0.0
+  },
+  {
+    "from": 137.779,
+    "to": 138.939,
+    "sid": 53,
+    "location": 2,
+    "content": "那就对了",
+    "music": 0.0
+  },
+  {
+    "from": 138.939,
+    "to": 142.079,
+    "sid": 54,
+    "location": 2,
+    "content": "因为它本身就是一件消耗体力的事",
+    "music": 0.0
+  },
+  {
+    "from": 142.079,
+    "to": 145.329,
+    "sid": 55,
+    "location": 2,
+    "content": "事实上有研究人员提出过一种理论",
+    "music": 0.0
+  },
+  {
+    "from": 145.329,
+    "to": 148.049,
+    "sid": 56,
+    "location": 2,
+    "content": "认为注意力是一种有限的资源",
+    "music": 0.0
+  },
+  {
+    "from": 148.049,
+    "to": 150.449,
+    "sid": 57,
+    "location": 2,
+    "content": "当你刚开始专注做一件事时",
+    "music": 0.0
+  },
+  {
+    "from": 150.449,
+    "to": 152.15,
+    "sid": 58,
+    "location": 2,
+    "content": "这种资源最充沛",
+    "music": 0.0
+  },
+  {
+    "from": 152.15,
+    "to": 153.55,
+    "sid": 59,
+    "location": 2,
+    "content": "但随着时间推移",
+    "music": 0.0
+  },
+  {
+    "from": 153.55,
+    "to": 154.83,
+    "sid": 60,
+    "location": 2,
+    "content": "它会不断消耗",
+    "music": 0.0
+  },
+  {
+    "from": 154.83,
+    "to": 156.75,
+    "sid": 61,
+    "location": 2,
+    "content": "导致你越来越容易犯错",
+    "music": 0.0
+  },
+  {
+    "from": 156.75,
+    "to": 158.37,
+    "sid": 62,
+    "location": 2,
+    "content": "也更容易分心",
+    "music": 0.0
+  },
+  {
+    "from": 158.37,
+    "to": 159.75,
+    "sid": 63,
+    "location": 2,
+    "content": "而一边多用",
+    "music": 0.0
+  },
+  {
+    "from": 159.75,
+    "to": 160.89,
+    "sid": 64,
+    "location": 2,
+    "content": "一心多用",
+    "music": 0.0
+  },
+  {
+    "from": 160.89,
+    "to": 162.63,
+    "sid": 65,
+    "location": 2,
+    "content": "只会加剧这种消耗",
+    "music": 0.0
+  },
+  {
+    "from": 162.63,
+    "to": 165.34,
+    "sid": 66,
+    "location": 2,
+    "content": "让你存好的注意力迅速枯竭",
+    "music": 0.0
+  },
+  {
+    "from": 165.34,
+    "to": 168.76,
+    "sid": 67,
+    "location": 2,
+    "content": "这就是为什么我们提倡一次只做一件事",
+    "music": 0.0
+  },
+  {
+    "from": 168.76,
+    "to": 171.829,
+    "sid": 68,
+    "location": 2,
+    "content": "并且要主动给自己安排休息时间",
+    "music": 0.0
+  },
+  {
+    "from": 171.829,
+    "to": 173.429,
+    "sid": 69,
+    "location": 2,
+    "content": "研究甚至表明",
+    "music": 0.0
+  },
+  {
+    "from": 173.429,
+    "to": 175.369,
+    "sid": 70,
+    "location": 2,
+    "content": "哪怕只是短暂歇一会儿",
+    "music": 0.0
+  },
+  {
+    "from": 175.369,
+    "to": 176.609,
+    "sid": 71,
+    "location": 2,
+    "content": "跑去吃个零食",
+    "music": 0.0
+  },
+  {
+    "from": 176.609,
+    "to": 178.109,
+    "sid": 72,
+    "location": 2,
+    "content": "或者纯粹发个呆",
+    "music": 0.0
+  },
+  {
+    "from": 178.109,
+    "to": 181.13,
+    "sid": 73,
+    "location": 2,
+    "content": "就能帮你把消耗掉的注意力给补回来",
+    "music": 0.0
+  },
+  {
+    "from": 181.13,
+    "to": 183.25,
+    "sid": 74,
+    "location": 2,
+    "content": "在学习或练习新技能时",
+    "music": 0.0
+  },
+  {
+    "from": 183.25,
+    "to": 185.41,
+    "sid": 75,
+    "location": 2,
+    "content": "这个策略效果格外好",
+    "music": 0.0
+  },
+  {
+    "from": 185.41,
+    "to": 186.91,
+    "sid": 76,
+    "location": 2,
+    "content": "因为在休息期间",
+    "music": 0.0
+  },
+  {
+    "from": 186.91,
+    "to": 190.47,
+    "sid": 77,
+    "location": 2,
+    "content": "大脑会重放你刚刚学到内容的神经活动模式",
+    "music": 0.0
+  },
+  {
+    "from": 190.47,
+    "to": 192.959,
+    "sid": 78,
+    "location": 2,
+    "content": "从而帮你巩固长远记忆",
+    "music": 0.0
+  },
+  {
+    "from": 192.959,
+    "to": 195.159,
+    "sid": 79,
+    "location": 2,
+    "content": "说到学习压力大",
+    "music": 0.0
+  },
+  {
+    "from": 195.159,
+    "to": 197.259,
+    "sid": 80,
+    "location": 2,
+    "content": "没睡够或者心情不好",
+    "music": 0.0
+  },
+  {
+    "from": 197.259,
+    "to": 199.899,
+    "sid": 81,
+    "location": 2,
+    "content": "都会削弱我们抵御外界干扰的能力",
+    "music": 0.0
+  },
+  {
+    "from": 199.899,
+    "to": 202.23,
+    "sid": 82,
+    "location": 2,
+    "content": "因此想做运动",
+    "music": 0.0
+  },
+  {
+    "from": 202.23,
+    "to": 203.49,
+    "sid": 83,
+    "location": 2,
+    "content": "找朋友唠嗑",
+    "music": 0.0
+  },
+  {
+    "from": 203.49,
+    "to": 205.11,
+    "sid": 84,
+    "location": 2,
+    "content": "或者好好睡上一觉",
+    "music": 0.0
+  },
+  {
+    "from": 205.11,
+    "to": 207.01,
+    "sid": 85,
+    "location": 2,
+    "content": "这类能舒缓压力的活动",
+    "music": 0.0
+  },
+  {
+    "from": 207.01,
+    "to": 209.37,
+    "sid": 86,
+    "location": 2,
+    "content": "也能让你更容易集中精力",
+    "music": 0.0
+  },
+  {
+    "from": 209.37,
+    "to": 213.33,
+    "sid": 87,
+    "location": 2,
+    "content": "另外走进大自然还能带来额外的Buff",
+    "music": 0.0
+  },
+  {
+    "from": 213.33,
+    "to": 214.79,
+    "sid": 88,
+    "location": 2,
+    "content": "一项研究发现",
+    "music": 0.0
+  },
+  {
+    "from": 214.79,
+    "to": 216.75,
+    "sid": 89,
+    "location": 2,
+    "content": "同样是散步15分钟",
+    "music": 0.0
+  },
+  {
+    "from": 216.75,
+    "to": 218.11,
+    "sid": 90,
+    "location": 2,
+    "content": "在户外走一圈",
+    "music": 0.0
+  },
+  {
+    "from": 218.11,
+    "to": 220.23,
+    "sid": 91,
+    "location": 2,
+    "content": "对实验室注意力测试任务的提升",
+    "music": 0.0
+  },
+  {
+    "from": 220.23,
+    "to": 222.95,
+    "sid": 92,
+    "location": 2,
+    "content": "效果要明显优于在室内走",
+    "music": 0.0
+  },
+  {
+    "from": 226.15,
+    "to": 229.47,
+    "sid": 93,
+    "location": 2,
+    "content": "这项练习的核心就是活在当下",
+    "music": 0.0
+  },
+  {
+    "from": 229.47,
+    "to": 231.33,
+    "sid": 94,
+    "location": 2,
+    "content": "比如花上12分钟",
+    "music": 0.0
+  },
+  {
+    "from": 231.33,
+    "to": 234.81,
+    "sid": 95,
+    "location": 2,
+    "content": "把全部心思都放在感受自己的呼吸上",
+    "music": 0.0
+  },
+  {
+    "from": 234.81,
+    "to": 238.49,
+    "sid": 96,
+    "location": 2,
+    "content": "坚持下去就能慢慢锻炼你的注意力",
+    "music": 0.0
+  },
+  {
+    "from": 238.49,
+    "to": 241.27,
+    "sid": 97,
+    "location": 2,
+    "content": "不过在你准备出门散步",
+    "music": 0.0
+  },
+  {
+    "from": 241.27,
+    "to": 244.59,
+    "sid": 98,
+    "location": 2,
+    "content": "磕零食或者学习冥想之前",
+    "music": 0.0
+  },
+  {
+    "from": 244.59,
+    "to": 247.399,
+    "sid": 99,
+    "location": 2,
+    "content": "眼下就有一件更容易做到的事",
+    "music": 0.0
+  },
+  {
+    "from": 247.399,
+    "to": 249.959,
+    "sid": 100,
+    "location": 2,
+    "content": "立刻清理掉身边的干扰",
+    "music": 0.0
+  },
+  {
+    "from": 250.239,
+    "to": 253.019,
+    "sid": 101,
+    "location": 2,
+    "content": "想消除所有的干扰确实不可能",
+    "music": 0.0
+  },
+  {
+    "from": 253.019,
+    "to": 255.899,
+    "sid": 102,
+    "location": 2,
+    "content": "毕竟咱们自己浮想联翩的脑子",
+    "music": 0.0
+  },
+  {
+    "from": 255.899,
+    "to": 258.539,
+    "sid": 103,
+    "location": 2,
+    "content": "往往才是最大的罪魁祸首",
+    "music": 0.0
+  },
+  {
+    "from": 258.539,
+    "to": 260.59,
+    "sid": 104,
+    "location": 2,
+    "content": "但最近一项调查估计",
+    "music": 0.0
+  },
+  {
+    "from": 260.59,
+    "to": 263.61,
+    "sid": 105,
+    "location": 2,
+    "content": "美国人现在每天平均要看200次手机",
+    "music": 0.0
+  },
+  {
+    "from": 263.61,
+    "to": 265.69,
+    "sid": 106,
+    "location": 2,
+    "content": "我们屏幕里的那些干扰因素",
+    "music": 0.0
+  },
+  {
+    "from": 265.69,
+    "to": 266.81,
+    "sid": 107,
+    "location": 2,
+    "content": "从设计之初",
+    "music": 0.0
+  },
+  {
+    "from": 266.81,
+    "to": 269.84,
+    "sid": 108,
+    "location": 2,
+    "content": "就是为了抢占并死死抓住你的注意力",
+    "music": 0.0
+  },
+  {
+    "from": 269.84,
+    "to": 272.72,
+    "sid": 109,
+    "location": 2,
+    "content": "所以别对自己太苛刻",
+    "music": 0.0
+  },
+  {
+    "from": 272.72,
+    "to": 276.14,
+    "sid": 110,
+    "location": 2,
+    "content": "虽然我们无法控制所有拽走注意力的因素",
+    "music": 0.0
+  },
+  {
+    "from": 276.14,
+    "to": 277.92,
+    "sid": 111,
+    "location": 2,
+    "content": "但找个安静的环境",
+    "music": 0.0
+  },
+  {
+    "from": 277.92,
+    "to": 279.88,
+    "sid": 112,
+    "location": 2,
+    "content": "关掉不用的网页标签",
+    "music": 0.0
+  },
+  {
+    "from": 279.88,
+    "to": 283.1,
+    "sid": 113,
+    "location": 2,
+    "content": "甚至把某些容易让人上瘾的软件给封禁掉",
+    "music": 0.0
+  },
+  {
+    "from": 283.1,
+    "to": 286.34,
+    "sid": 114,
+    "location": 2,
+    "content": "都能给你的大脑创造最好的专注条件",
+    "music": 0.0
+  }
+]

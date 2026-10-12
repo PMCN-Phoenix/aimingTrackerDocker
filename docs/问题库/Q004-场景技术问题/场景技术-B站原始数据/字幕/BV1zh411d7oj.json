@@ -1,0 +1,716 @@
+{
+  "P1": [
+    {
+      "from": 9.419,
+      "to": 10.969,
+      "sid": 1,
+      "location": 2,
+      "content": "欢迎收看玩透系列",
+      "music": 0.0
+    },
+    {
+      "from": 10.969,
+      "to": 11.72,
+      "sid": 2,
+      "location": 2,
+      "content": "我是aim",
+      "music": 0.0
+    },
+    {
+      "from": 11.72,
+      "to": 15.8,
+      "sid": 3,
+      "location": 2,
+      "content": "今天玩透短片要讲的是纯手臂流的通病与弱势",
+      "music": 0.0
+    },
+    {
+      "from": 15.8,
+      "to": 17.18,
+      "sid": 4,
+      "location": 2,
+      "content": "鼠标的使用方法",
+      "music": 0.0
+    },
+    {
+      "from": 17.18,
+      "to": 18.259,
+      "sid": 5,
+      "location": 2,
+      "content": "大致分为三种",
+      "music": 0.0
+    },
+    {
+      "from": 18.259,
+      "to": 22.13,
+      "sid": 6,
+      "location": 2,
+      "content": "手腕手臂手指每种流派的分支也有很多",
+      "music": 0.0
+    },
+    {
+      "from": 22.13,
+      "to": 23.42,
+      "sid": 7,
+      "location": 2,
+      "content": "大家直接看图吧",
+      "music": 0.0
+    },
+    {
+      "from": 23.42,
+      "to": 24.43,
+      "sid": 8,
+      "location": 2,
+      "content": "我就不讲解了",
+      "music": 0.0
+    },
+    {
+      "from": 24.43,
+      "to": 25.51,
+      "sid": 9,
+      "location": 2,
+      "content": "鼠标的每种握发",
+      "music": 0.0
+    },
+    {
+      "from": 25.51,
+      "to": 26.77,
+      "sid": 10,
+      "location": 2,
+      "content": "本人都亲自使用过",
+      "music": 0.0
+    },
+    {
+      "from": 26.77,
+      "to": 28.18,
+      "sid": 11,
+      "location": 2,
+      "content": "总结积累了不少经验",
+      "music": 0.0
+    },
+    {
+      "from": 28.18,
+      "to": 29.92,
+      "sid": 12,
+      "location": 2,
+      "content": "今天就从手臂流开始讲",
+      "music": 0.0
+    },
+    {
+      "from": 29.92,
+      "to": 32.62,
+      "sid": 13,
+      "location": 2,
+      "content": "绝大部分人都对每种流派对应的灵敏度",
+      "music": 0.0
+    },
+    {
+      "from": 32.62,
+      "to": 33.37,
+      "sid": 14,
+      "location": 2,
+      "content": "有所误解",
+      "music": 0.0
+    },
+    {
+      "from": 33.37,
+      "to": 35.56,
+      "sid": 15,
+      "location": 2,
+      "content": "认为手臂流的灵敏度就应该低",
+      "music": 0.0
+    },
+    {
+      "from": 35.56,
+      "to": 37.33,
+      "sid": 16,
+      "location": 2,
+      "content": "手腕流的灵敏度就应该高",
+      "music": 0.0
+    },
+    {
+      "from": 37.33,
+      "to": 38.84,
+      "sid": 17,
+      "location": 2,
+      "content": "其实这是错误的理解",
+      "music": 0.0
+    },
+    {
+      "from": 38.84,
+      "to": 42.2,
+      "sid": 18,
+      "location": 2,
+      "content": "手腕手臂手指这些流派是鼠标的使用方法",
+      "music": 0.0
+    },
+    {
+      "from": 42.2,
+      "to": 43.56,
+      "sid": 19,
+      "location": 2,
+      "content": "没有绝对的灵敏度",
+      "music": 0.0
+    },
+    {
+      "from": 43.56,
+      "to": 45.6,
+      "sid": 20,
+      "location": 2,
+      "content": "只不过绝大部分的手臂流玩家",
+      "music": 0.0
+    },
+    {
+      "from": 45.6,
+      "to": 47.4,
+      "sid": 21,
+      "location": 2,
+      "content": "使用灵敏度都相对较低",
+      "music": 0.0
+    },
+    {
+      "from": 47.4,
+      "to": 50.58,
+      "sid": 22,
+      "location": 2,
+      "content": "这也就形成了手臂流就应该灵敏度低这一说法",
+      "music": 0.0
+    },
+    {
+      "from": 50.58,
+      "to": 51.96,
+      "sid": 23,
+      "location": 2,
+      "content": "经过我这几个月使用",
+      "music": 0.0
+    },
+    {
+      "from": 51.96,
+      "to": 55.3,
+      "sid": 24,
+      "location": 2,
+      "content": "发现手臂流照样可以使用1600dpi",
+      "music": 0.0
+    },
+    {
+      "from": 55.3,
+      "to": 55.9,
+      "sid": 25,
+      "location": 2,
+      "content": "手腕流",
+      "music": 0.0
+    },
+    {
+      "from": 55.9,
+      "to": 57.85,
+      "sid": 26,
+      "location": 2,
+      "content": "这样可以兼容300dpi",
+      "music": 0.0
+    },
+    {
+      "from": 57.85,
+      "to": 59.3,
+      "sid": 27,
+      "location": 2,
+      "content": "所以得出一个结论",
+      "music": 0.0
+    },
+    {
+      "from": 59.3,
+      "to": 60.98,
+      "sid": 28,
+      "location": 2,
+      "content": "鼠标的握发可以更换",
+      "music": 0.0
+    },
+    {
+      "from": 60.98,
+      "to": 62.72,
+      "sid": 29,
+      "location": 2,
+      "content": "灵敏度取决于个人习惯",
+      "music": 0.0
+    },
+    {
+      "from": 62.72,
+      "to": 64.1,
+      "sid": 30,
+      "location": 2,
+      "content": "灵敏度其实很难实现",
+      "music": 0.0
+    },
+    {
+      "from": 64.1,
+      "to": 64.84,
+      "sid": 31,
+      "location": 2,
+      "content": "习惯一说",
+      "music": 0.0
+    },
+    {
+      "from": 64.84,
+      "to": 67.72,
+      "sid": 32,
+      "location": 2,
+      "content": "在短期内习惯一个灵敏度绝对是不可能的",
+      "music": 0.0
+    },
+    {
+      "from": 67.72,
+      "to": 69.54,
+      "sid": 33,
+      "location": 2,
+      "content": "光适应期就长达一个月",
+      "music": 0.0
+    },
+    {
+      "from": 69.54,
+      "to": 71.88,
+      "sid": 34,
+      "location": 2,
+      "content": "适应了之后还需要通过长期训练",
+      "music": 0.0
+    },
+    {
+      "from": 71.88,
+      "to": 74.42,
+      "sid": 35,
+      "location": 2,
+      "content": "这里的长期不是几个月就能习惯的",
+      "music": 0.0
+    },
+    {
+      "from": 74.42,
+      "to": 76.46,
+      "sid": 36,
+      "location": 2,
+      "content": "估摸着至少也得一年半左右",
+      "music": 0.0
+    },
+    {
+      "from": 76.46,
+      "to": 78.56,
+      "sid": 37,
+      "location": 2,
+      "content": "所以奉劝大家不要随意的尝试",
+      "music": 0.0
+    },
+    {
+      "from": 78.56,
+      "to": 80.15,
+      "sid": 38,
+      "location": 2,
+      "content": "频繁的更换灵敏度",
+      "music": 0.0
+    },
+    {
+      "from": 80.15,
+      "to": 81.22,
+      "sid": 39,
+      "location": 2,
+      "content": "收尾手臂",
+      "music": 0.0
+    },
+    {
+      "from": 81.22,
+      "to": 83.68,
+      "sid": 40,
+      "location": 2,
+      "content": "很多人使用手臂流都不是纯手臂流",
+      "music": 0.0
+    },
+    {
+      "from": 83.68,
+      "to": 85.36,
+      "sid": 41,
+      "location": 2,
+      "content": "大部分人都夹杂着手腕",
+      "music": 0.0
+    },
+    {
+      "from": 85.36,
+      "to": 86.08,
+      "sid": 42,
+      "location": 2,
+      "content": "打个比方",
+      "music": 0.0
+    },
+    {
+      "from": 86.08,
+      "to": 88.0,
+      "sid": 43,
+      "location": 2,
+      "content": "屏幕前这两个目标距离很远",
+      "music": 0.0
+    },
+    {
+      "from": 88.0,
+      "to": 89.62,
+      "sid": 44,
+      "location": 2,
+      "content": "大部分人在瞄准这两个点",
+      "music": 0.0
+    },
+    {
+      "from": 89.62,
+      "to": 92.02,
+      "sid": 45,
+      "location": 2,
+      "content": "都是手腕会呈现弯曲状",
+      "music": 0.0
+    },
+    {
+      "from": 92.02,
+      "to": 93.88,
+      "sid": 46,
+      "location": 2,
+      "content": "只有移动时会带动你的手腕",
+      "music": 0.0
+    },
+    {
+      "from": 93.88,
+      "to": 95.44,
+      "sid": 47,
+      "location": 2,
+      "content": "这都是错误的使用方法",
+      "music": 0.0
+    },
+    {
+      "from": 95.44,
+      "to": 96.28,
+      "sid": 48,
+      "location": 2,
+      "content": "其中很复杂",
+      "music": 0.0
+    },
+    {
+      "from": 96.28,
+      "to": 97.04,
+      "sid": 49,
+      "location": 2,
+      "content": "大家看图",
+      "music": 0.0
+    },
+    {
+      "from": 97.04,
+      "to": 99.08,
+      "sid": 50,
+      "location": 2,
+      "content": "如果你的手腕向右移动",
+      "music": 0.0
+    },
+    {
+      "from": 99.08,
+      "to": 101.16,
+      "sid": 51,
+      "location": 2,
+      "content": "假设你的支撑点在大臂中间",
+      "music": 0.0
+    },
+    {
+      "from": 101.16,
+      "to": 103.08,
+      "sid": 52,
+      "location": 2,
+      "content": "首先你要面临的第一个问题",
+      "music": 0.0
+    },
+    {
+      "from": 103.08,
+      "to": 105.66,
+      "sid": 53,
+      "location": 2,
+      "content": "就是由于你的手腕只能向右小幅度移动",
+      "music": 0.0
+    },
+    {
+      "from": 105.66,
+      "to": 107.22,
+      "sid": 54,
+      "location": 2,
+      "content": "会限制你的拖动距离",
+      "music": 0.0
+    },
+    {
+      "from": 107.22,
+      "to": 108.54,
+      "sid": 55,
+      "location": 2,
+      "content": "如果想大幅度移动",
+      "music": 0.0
+    },
+    {
+      "from": 110.76,
+      "to": 112.2,
+      "sid": 56,
+      "location": 2,
+      "content": "才能实现大幅度移动",
+      "music": 0.0
+    },
+    {
+      "from": 112.2,
+      "to": 113.82,
+      "sid": 57,
+      "location": 2,
+      "content": "此时你的胳膊会变直",
+      "music": 0.0
+    },
+    {
+      "from": 113.82,
+      "to": 115.68,
+      "sid": 58,
+      "location": 2,
+      "content": "然后你要面临的第二个问题",
+      "music": 0.0
+    },
+    {
+      "from": 115.68,
+      "to": 118.02,
+      "sid": 59,
+      "location": 2,
+      "content": "一般情况没有人会带动肩膀",
+      "music": 0.0
+    },
+    {
+      "from": 118.02,
+      "to": 120.14,
+      "sid": 60,
+      "location": 2,
+      "content": "大部分人都是鼠标拖动两次",
+      "music": 0.0
+    },
+    {
+      "from": 120.14,
+      "to": 122.24,
+      "sid": 61,
+      "location": 2,
+      "content": "凡是手臂流夹杂手腕的人",
+      "music": 0.0
+    },
+    {
+      "from": 122.24,
+      "to": 123.92,
+      "sid": 62,
+      "location": 2,
+      "content": "发力点都会集中在手腕",
+      "music": 0.0
+    },
+    {
+      "from": 123.92,
+      "to": 125.66,
+      "sid": 63,
+      "location": 2,
+      "content": "由于你的握发是手臂",
+      "music": 0.0
+    },
+    {
+      "from": 125.66,
+      "to": 128.21,
+      "sid": 64,
+      "location": 2,
+      "content": "你用手腕发力绝对会很难收住",
+      "music": 0.0
+    },
+    {
+      "from": 128.21,
+      "to": 130.31,
+      "sid": 65,
+      "location": 2,
+      "content": "整个控制过程非常繁琐",
+      "music": 0.0
+    },
+    {
+      "from": 130.31,
+      "to": 133.46,
+      "sid": 66,
+      "location": 2,
+      "content": "再加上如果你的手支撑点在大臂中间",
+      "music": 0.0
+    },
+    {
+      "from": 133.46,
+      "to": 135.62,
+      "sid": 67,
+      "location": 2,
+      "content": "你的发力过程会很困难",
+      "music": 0.0
+    },
+    {
+      "from": 135.62,
+      "to": 138.68,
+      "sid": 68,
+      "location": 2,
+      "content": "你要面临的第三个问题就是手部健康问题",
+      "music": 0.0
+    },
+    {
+      "from": 138.68,
+      "to": 140.6,
+      "sid": 69,
+      "location": 2,
+      "content": "你的手腕两端会无力",
+      "music": 0.0
+    },
+    {
+      "from": 140.6,
+      "to": 144.26,
+      "sid": 70,
+      "location": 2,
+      "content": "再加上有的朋友使用鼠标时喜欢大力出奇迹",
+      "music": 0.0
+    },
+    {
+      "from": 144.26,
+      "to": 145.78,
+      "sid": 71,
+      "location": 2,
+      "content": "手腕不受伤就怪了",
+      "music": 0.0
+    },
+    {
+      "from": 145.78,
+      "to": 148.18,
+      "sid": 72,
+      "location": 2,
+      "content": "以下是正确的手臂流使用示意图",
+      "music": 0.0
+    },
+    {
+      "from": 148.18,
+      "to": 151.28,
+      "sid": 73,
+      "location": 2,
+      "content": "首先你的发力点要在二头肌支撑点",
+      "music": 0.0
+    },
+    {
+      "from": 151.28,
+      "to": 153.68,
+      "sid": 74,
+      "location": 2,
+      "content": "尽量在下部的肘部附近发力时",
+      "music": 0.0
+    },
+    {
+      "from": 153.68,
+      "to": 156.14,
+      "sid": 75,
+      "location": 2,
+      "content": "用二头肌带动你的整个手臂移动",
+      "music": 0.0
+    },
+    {
+      "from": 156.14,
+      "to": 158.12,
+      "sid": 76,
+      "location": 2,
+      "content": "鼠标的朝向始终向前方",
+      "music": 0.0
+    },
+    {
+      "from": 158.12,
+      "to": 160.34,
+      "sid": 77,
+      "location": 2,
+      "content": "不要出现向左或向右的情况",
+      "music": 0.0
+    },
+    {
+      "from": 160.34,
+      "to": 161.6,
+      "sid": 78,
+      "location": 2,
+      "content": "如果你还是改不过来",
+      "music": 0.0
+    },
+    {
+      "from": 161.6,
+      "to": 164.92,
+      "sid": 79,
+      "location": 2,
+      "content": "可以尝试手腕稍稍用力固定你的手腕就可以了",
+      "music": 0.0
+    },
+    {
+      "from": 164.92,
+      "to": 166.24,
+      "sid": 80,
+      "location": 2,
+      "content": "如果你做正确了",
+      "music": 0.0
+    },
+    {
+      "from": 166.24,
+      "to": 169.24,
+      "sid": 81,
+      "location": 2,
+      "content": "这样的手臂流既省力又健康又科学",
+      "music": 0.0
+    },
+    {
+      "from": 169.24,
+      "to": 170.18,
+      "sid": 82,
+      "location": 2,
+      "content": "还打得准了",
+      "music": 0.0
+    },
+    {
+      "from": 170.18,
+      "to": 172.64,
+      "sid": 83,
+      "location": 2,
+      "content": "今天的玩透短片到这里就结束了",
+      "music": 0.0
+    },
+    {
+      "from": 172.64,
+      "to": 174.08,
+      "sid": 84,
+      "location": 2,
+      "content": "我们下期长篇节目见",
+      "music": 0.0
+    },
+    {
+      "from": 174.08,
+      "to": 176.28,
+      "sid": 85,
+      "location": 2,
+      "content": "别忘了点赞关注拜拜",
+      "music": 0.0
+    },
+    {
+      "from": 176.28,
+      "to": 181.1,
+      "sid": 86,
+      "location": 2,
+      "content": "I had to bring the money home home that my",
+      "music": 0.9999999606299229
+    },
+    {
+      "from": 181.1,
+      "to": 181.79,
+      "sid": 87,
+      "location": 2,
+      "content": "We are",
+      "music": 0.9999996666667778
+    },
+    {
+      "from": 181.79,
+      "to": 182.66,
+      "sid": 88,
+      "location": 2,
+      "content": "We are",
+      "music": 0.9999997500000625
+    },
+    {
+      "from": 182.66,
+      "to": 186.06,
+      "sid": 89,
+      "location": 2,
+      "content": "I had to bring the money home",
+      "music": 0.9999999295774697
+    }
+  ]
+}

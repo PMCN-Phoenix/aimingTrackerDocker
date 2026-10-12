@@ -1,0 +1,788 @@
+{
+  "P1": [
+    {
+      "from": 7.96,
+      "to": 10.0,
+      "sid": 1,
+      "location": 2,
+      "content": "自己需不需要练习变向",
+      "music": 0.0
+    },
+    {
+      "from": 10.0,
+      "to": 11.47,
+      "sid": 2,
+      "location": 2,
+      "content": "首先你要了解的是",
+      "music": 0.0
+    },
+    {
+      "from": 11.47,
+      "to": 14.56,
+      "sid": 3,
+      "location": 2,
+      "content": "变相的练习给自己带来的作用和影响",
+      "music": 0.0
+    },
+    {
+      "from": 14.56,
+      "to": 15.79,
+      "sid": 4,
+      "location": 2,
+      "content": "到底是什么",
+      "music": 0.0
+    },
+    {
+      "from": 15.79,
+      "to": 18.76,
+      "sid": 5,
+      "location": 2,
+      "content": "或者说抛开某些特殊场景的熟练度",
+      "music": 0.0
+    },
+    {
+      "from": 18.76,
+      "to": 22.16,
+      "sid": 6,
+      "location": 2,
+      "content": "变相对实战的帮助是什么",
+      "music": 0.0
+    },
+    {
+      "from": 23.12,
+      "to": 24.16,
+      "sid": 7,
+      "location": 2,
+      "content": "对于这个问题",
+      "music": 0.0
+    },
+    {
+      "from": 24.16,
+      "to": 25.12,
+      "sid": 8,
+      "location": 2,
+      "content": "我会说",
+      "music": 0.0
+    },
+    {
+      "from": 25.12,
+      "to": 28.84,
+      "sid": 9,
+      "location": 2,
+      "content": "所有变相的本质都是帮助你在跟枪过程中",
+      "music": 0.0
+    },
+    {
+      "from": 28.84,
+      "to": 32.14,
+      "sid": 10,
+      "location": 2,
+      "content": "正确的理解目标较为复杂的运动轨迹",
+      "music": 0.0
+    },
+    {
+      "from": 32.31,
+      "to": 33.33,
+      "sid": 11,
+      "location": 2,
+      "content": "需要注意的是",
+      "music": 0.0
+    },
+    {
+      "from": 33.33,
+      "to": 35.4,
+      "sid": 12,
+      "location": 2,
+      "content": "这里说的是正确的理解",
+      "music": 0.0
+    },
+    {
+      "from": 35.4,
+      "to": 38.67,
+      "sid": 13,
+      "location": 2,
+      "content": "因为你能够自然地通过某种方式去处理",
+      "music": 0.0
+    },
+    {
+      "from": 38.67,
+      "to": 40.37,
+      "sid": 14,
+      "location": 2,
+      "content": "这些运动信息",
+      "music": 0.0
+    },
+    {
+      "from": 40.37,
+      "to": 42.44,
+      "sid": 15,
+      "location": 2,
+      "content": "大家可以试着问问自己",
+      "music": 0.0
+    },
+    {
+      "from": 42.44,
+      "to": 44.81,
+      "sid": 16,
+      "location": 2,
+      "content": "变相讨厌的能力到底是什么",
+      "music": 0.0
+    },
+    {
+      "from": 44.81,
+      "to": 47.03,
+      "sid": 17,
+      "location": 2,
+      "content": "可能有人潜意识中会认为",
+      "music": 0.0
+    },
+    {
+      "from": 47.03,
+      "to": 51.01,
+      "sid": 18,
+      "location": 2,
+      "content": "冰箱只是一些目标比较明显的左右位移场景",
+      "music": 0.0
+    },
+    {
+      "from": 51.01,
+      "to": 53.41,
+      "sid": 19,
+      "location": 2,
+      "content": "表面看上去这并没有错",
+      "music": 0.0
+    },
+    {
+      "from": 53.41,
+      "to": 55.66,
+      "sid": 20,
+      "location": 2,
+      "content": "但作为真枪下的子类别",
+      "music": 0.0
+    },
+    {
+      "from": 55.66,
+      "to": 60.23,
+      "sid": 21,
+      "location": 2,
+      "content": "这就决定了变相之后的平滑才是它的主要内容",
+      "music": 0.0
+    },
+    {
+      "from": 60.23,
+      "to": 63.35,
+      "sid": 22,
+      "location": 2,
+      "content": "或许这样来看待变相会更加合适",
+      "music": 0.0
+    },
+    {
+      "from": 63.35,
+      "to": 67.19,
+      "sid": 23,
+      "location": 2,
+      "content": "如果准星与目标已经出现了不可避免的分离",
+      "music": 0.0
+    },
+    {
+      "from": 67.19,
+      "to": 69.89,
+      "sid": 24,
+      "location": 2,
+      "content": "就说你的准星已经脱离目标了",
+      "music": 0.0
+    },
+    {
+      "from": 69.89,
+      "to": 73.37,
+      "sid": 25,
+      "location": 2,
+      "content": "那么要怎么再次的去平滑的跟随呢",
+      "music": 0.0
+    },
+    {
+      "from": 73.77,
+      "to": 77.21,
+      "sid": 26,
+      "location": 2,
+      "content": "这就很好地解释了目标脱离后的拉枪",
+      "music": 0.0
+    },
+    {
+      "from": 77.21,
+      "to": 79.55,
+      "sid": 27,
+      "location": 2,
+      "content": "是为了之后的平滑部分",
+      "music": 0.0
+    },
+    {
+      "from": 79.55,
+      "to": 81.77,
+      "sid": 28,
+      "location": 2,
+      "content": "而不是为了拉枪而拉枪",
+      "music": 0.0
+    },
+    {
+      "from": 81.77,
+      "to": 85.25,
+      "sid": 29,
+      "location": 2,
+      "content": "所以变相反馈给你的应该是阅读",
+      "music": 0.0
+    },
+    {
+      "from": 85.65,
+      "to": 87.74,
+      "sid": 30,
+      "location": 2,
+      "content": "因为变相中的平滑与否",
+      "music": 0.0
+    },
+    {
+      "from": 87.74,
+      "to": 90.95,
+      "sid": 31,
+      "location": 2,
+      "content": "在极大程度上是取决于阅读能力的",
+      "music": 0.0
+    },
+    {
+      "from": 90.95,
+      "to": 93.88,
+      "sid": 32,
+      "location": 2,
+      "content": "这也应该是你的主要训练目标",
+      "music": 0.0
+    },
+    {
+      "from": 93.88,
+      "to": 97.86,
+      "sid": 33,
+      "location": 2,
+      "content": "或许会问光看见的时候不去扔能有什么意义",
+      "music": 0.0
+    },
+    {
+      "from": 97.86,
+      "to": 100.59,
+      "sid": 34,
+      "location": 2,
+      "content": "那么你需要知道的另一个点是",
+      "music": 0.0
+    },
+    {
+      "from": 100.59,
+      "to": 103.17,
+      "sid": 35,
+      "location": 2,
+      "content": "练枪软件下的所有训练内容",
+      "music": 0.0
+    },
+    {
+      "from": 103.17,
+      "to": 107.11,
+      "sid": 36,
+      "location": 2,
+      "content": "包括你的实战都会训练到的另一个能力",
+      "music": 0.0
+    },
+    {
+      "from": 107.11,
+      "to": 108.4,
+      "sid": 37,
+      "location": 2,
+      "content": "就是手眼协调",
+      "music": 0.0
+    },
+    {
+      "from": 109.48,
+      "to": 110.26,
+      "sid": 38,
+      "location": 2,
+      "content": "打个比方",
+      "music": 0.0
+    },
+    {
+      "from": 110.26,
+      "to": 112.71,
+      "sid": 39,
+      "location": 2,
+      "content": "如果瞄准是一门书面考试",
+      "music": 0.0
+    },
+    {
+      "from": 112.71,
+      "to": 118.29,
+      "sid": 40,
+      "location": 2,
+      "content": "那么阅读就是让你那懒惰的眼睛能够聚焦",
+      "music": 0.0
+    },
+    {
+      "from": 118.29,
+      "to": 119.34,
+      "sid": 41,
+      "location": 2,
+      "content": "去看清楚",
+      "music": 0.0
+    },
+    {
+      "from": 119.34,
+      "to": 120.81,
+      "sid": 42,
+      "location": 2,
+      "content": "去看懂题目",
+      "music": 0.0
+    },
+    {
+      "from": 120.81,
+      "to": 124.24,
+      "sid": 43,
+      "location": 2,
+      "content": "手眼协调则会充当你的解题的过程",
+      "music": 0.0
+    },
+    {
+      "from": 124.24,
+      "to": 126.13,
+      "sid": 44,
+      "location": 2,
+      "content": "但是得注意的一点是",
+      "music": 0.0
+    },
+    {
+      "from": 126.13,
+      "to": 129.22,
+      "sid": 45,
+      "location": 2,
+      "content": "真理的比喻似乎更加贴合实战的需求",
+      "music": 0.0
+    },
+    {
+      "from": 129.22,
+      "to": 131.08,
+      "sid": 46,
+      "location": 2,
+      "content": "他正强调手的动作",
+      "music": 0.0
+    },
+    {
+      "from": 131.08,
+      "to": 132.85,
+      "sid": 47,
+      "location": 2,
+      "content": "但是作为练习场景",
+      "music": 0.0
+    },
+    {
+      "from": 132.85,
+      "to": 134.91,
+      "sid": 48,
+      "location": 2,
+      "content": "应该同时注重于眼睛",
+      "music": 0.0
+    },
+    {
+      "from": 134.91,
+      "to": 137.61,
+      "sid": 49,
+      "location": 2,
+      "content": "因为所有的手部的动作",
+      "music": 0.0
+    },
+    {
+      "from": 137.61,
+      "to": 142.01,
+      "sid": 50,
+      "location": 2,
+      "content": "只是为了达成你能看见的较为理想的目标跟随",
+      "music": 0.0
+    },
+    {
+      "from": 142.01,
+      "to": 144.41,
+      "sid": 51,
+      "location": 2,
+      "content": "而不是单一的去训练手部",
+      "music": 0.0
+    },
+    {
+      "from": 144.41,
+      "to": 147.3,
+      "sid": 52,
+      "location": 2,
+      "content": "针对某种运动模式下的模拟度",
+      "music": 0.0
+    },
+    {
+      "from": 147.3,
+      "to": 148.92,
+      "sid": 53,
+      "location": 2,
+      "content": "你需要记住的是",
+      "music": 0.0
+    },
+    {
+      "from": 148.92,
+      "to": 151.2,
+      "sid": 54,
+      "location": 2,
+      "content": "月度决定了整体的下限",
+      "music": 0.0
+    },
+    {
+      "from": 151.2,
+      "to": 154.41,
+      "sid": 55,
+      "location": 2,
+      "content": "而这种下限的提升对于不同游戏",
+      "music": 0.0
+    },
+    {
+      "from": 154.41,
+      "to": 158.03,
+      "sid": 56,
+      "location": 2,
+      "content": "不同的地图的帮助是显而易见",
+      "music": 0.0
+    },
+    {
+      "from": 158.55,
+      "to": 160.64,
+      "sid": 57,
+      "location": 2,
+      "content": "通常被人忽略的一点是",
+      "music": 0.0
+    },
+    {
+      "from": 160.64,
+      "to": 164.57,
+      "sid": 58,
+      "location": 2,
+      "content": "变相中事业中心和余光的分担作用",
+      "music": 0.0
+    },
+    {
+      "from": 164.57,
+      "to": 165.59,
+      "sid": 59,
+      "location": 2,
+      "content": "针对这一点",
+      "music": 0.0
+    },
+    {
+      "from": 165.59,
+      "to": 170.53,
+      "sid": 60,
+      "location": 2,
+      "content": "可能已经有很多人可以在静态动态传播中使用",
+      "music": 0.0
+    },
+    {
+      "from": 170.53,
+      "to": 175.13,
+      "sid": 61,
+      "location": 2,
+      "content": "同理在变相中也存在着这样的注意力分配技巧",
+      "music": 0.0
+    },
+    {
+      "from": 175.13,
+      "to": 177.41,
+      "sid": 62,
+      "location": 2,
+      "content": "但这也不应该被称为技巧",
+      "music": 0.0
+    },
+    {
+      "from": 177.41,
+      "to": 182.8,
+      "sid": 63,
+      "location": 2,
+      "content": "因为注意力分配始终是训练中的一段视野中心",
+      "music": 0.0
+    },
+    {
+      "from": 182.8,
+      "to": 185.47,
+      "sid": 64,
+      "location": 2,
+      "content": "应该关注拉枪后准星的重合",
+      "music": 0.0
+    },
+    {
+      "from": 185.47,
+      "to": 187.93,
+      "sid": 65,
+      "location": 2,
+      "content": "以及目标的平滑动作",
+      "music": 0.0
+    },
+    {
+      "from": 187.93,
+      "to": 193.24,
+      "sid": 66,
+      "location": 2,
+      "content": "这一行为应该一直持续到目标脱离的最后一程",
+      "music": 0.0
+    },
+    {
+      "from": 193.88,
+      "to": 196.09,
+      "sid": 67,
+      "location": 2,
+      "content": "余光则是关注目标的变相",
+      "music": 0.0
+    },
+    {
+      "from": 196.09,
+      "to": 197.83,
+      "sid": 68,
+      "location": 2,
+      "content": "并对其作出反应",
+      "music": 0.0
+    },
+    {
+      "from": 197.83,
+      "to": 202.32,
+      "sid": 69,
+      "location": 2,
+      "content": "这是一个如何正确的看清楚的简单答案",
+      "music": 0.0
+    },
+    {
+      "from": 203.029,
+      "to": 204.909,
+      "sid": 70,
+      "location": 2,
+      "content": "对于难度偏高的变相",
+      "music": 0.0
+    },
+    {
+      "from": 204.909,
+      "to": 207.789,
+      "sid": 71,
+      "location": 2,
+      "content": "你更应该去关注的是目标变向后",
+      "music": 0.0
+    },
+    {
+      "from": 207.789,
+      "to": 211.345,
+      "sid": 72,
+      "location": 2,
+      "content": "准星再次重合的确认感",
+      "music": 0.0
+    },
+    {
+      "from": 212.9,
+      "to": 217.44,
+      "sid": 73,
+      "location": 2,
+      "content": "目的是区分快速拉枪和之后衔接的平滑过程",
+      "music": 0.0
+    },
+    {
+      "from": 217.44,
+      "to": 220.83,
+      "sid": 74,
+      "location": 2,
+      "content": "尽可能地感受拉枪与平滑过程的不同",
+      "music": 0.0
+    },
+    {
+      "from": 220.83,
+      "to": 223.5,
+      "sid": 75,
+      "location": 2,
+      "content": "能让你更好的做好平滑部分",
+      "music": 0.0
+    },
+    {
+      "from": 223.5,
+      "to": 228.39,
+      "sid": 76,
+      "location": 2,
+      "content": "同时对控制鼠标速度感知也有很大的帮助",
+      "music": 0.0
+    },
+    {
+      "from": 228.85,
+      "to": 231.15,
+      "sid": 77,
+      "location": 2,
+      "content": "这是一个框架性的能力训练",
+      "music": 0.0
+    },
+    {
+      "from": 231.15,
+      "to": 234.7,
+      "sid": 78,
+      "location": 2,
+      "content": "意味着你可以用这种方法去练习任何变相图",
+      "music": 0.0
+    },
+    {
+      "from": 238.21,
+      "to": 242.2,
+      "sid": 79,
+      "location": 2,
+      "content": "同时这也是减少预判的最好方法",
+      "music": 0.0
+    },
+    {
+      "from": 244.78,
+      "to": 248.16,
+      "sid": 80,
+      "location": 2,
+      "content": "变向练习应该达成的效果应该是平衡",
+      "music": 0.0
+    },
+    {
+      "from": 248.16,
+      "to": 251.2,
+      "sid": 81,
+      "location": 2,
+      "content": "变向和平滑所分配的注意力",
+      "music": 0.0
+    },
+    {
+      "from": 251.2,
+      "to": 252.82,
+      "sid": 82,
+      "location": 2,
+      "content": "对于练习而言",
+      "music": 0.0
+    },
+    {
+      "from": 252.82,
+      "to": 256.9,
+      "sid": 83,
+      "location": 2,
+      "content": "即在变向这个大环境中分配尽可能少的注意力",
+      "music": 0.0
+    },
+    {
+      "from": 256.9,
+      "to": 258.6,
+      "sid": 84,
+      "location": 2,
+      "content": "在变相本身上",
+      "music": 0.0
+    },
+    {
+      "from": 258.6,
+      "to": 261.48,
+      "sid": 85,
+      "location": 2,
+      "content": "从而花费更多的精力去做好平滑",
+      "music": 0.0
+    },
+    {
+      "from": 262.56,
+      "to": 266.71,
+      "sid": 86,
+      "location": 2,
+      "content": "也就是之前提到过的细节大于反应",
+      "music": 0.0
+    },
+    {
+      "from": 267.23,
+      "to": 268.24,
+      "sid": 87,
+      "location": 2,
+      "content": "对于这一点",
+      "music": 0.0
+    },
+    {
+      "from": 268.24,
+      "to": 272.72,
+      "sid": 88,
+      "location": 2,
+      "content": "专注平滑与追求反应实际上是不冲突的",
+      "music": 0.0
+    },
+    {
+      "from": 272.72,
+      "to": 275.06,
+      "sid": 89,
+      "location": 2,
+      "content": "相反的是它们相辅相成",
+      "music": 0.0
+    },
+    {
+      "from": 275.06,
+      "to": 277.36,
+      "sid": 90,
+      "location": 2,
+      "content": "并且对于分数来说",
+      "music": 0.0
+    },
+    {
+      "from": 277.36,
+      "to": 280.9,
+      "sid": 91,
+      "location": 2,
+      "content": "你在平滑上丢的分往往比你想象的多",
+      "music": 0.0
+    },
+    {
+      "from": 280.9,
+      "to": 282.91,
+      "sid": 92,
+      "location": 2,
+      "content": "对于还在纠结反应的人",
+      "music": 0.0
+    },
+    {
+      "from": 282.91,
+      "to": 286.02,
+      "sid": 93,
+      "location": 2,
+      "content": "可以试着完整的感受平滑的过程",
+      "music": 0.0
+    },
+    {
+      "from": 286.02,
+      "to": 290.31,
+      "sid": 94,
+      "location": 2,
+      "content": "这能够让你更加容易的发现目标比较大的变化",
+      "music": 0.0
+    },
+    {
+      "from": 290.31,
+      "to": 293.49,
+      "sid": 95,
+      "location": 2,
+      "content": "从而更加灵敏的做出修正",
+      "music": 0.0
+    },
+    {
+      "from": 293.49,
+      "to": 295.41,
+      "sid": 96,
+      "location": 2,
+      "content": "这不是一个真正意义上",
+      "music": 0.0
+    },
+    {
+      "from": 295.41,
+      "to": 297.21,
+      "sid": 97,
+      "location": 2,
+      "content": "可以提高反应上限的方法",
+      "music": 0.0
+    },
+    {
+      "from": 297.21,
+      "to": 300.72,
+      "sid": 98,
+      "location": 2,
+      "content": "但至少可以让你充分发挥出自己的能力",
+      "music": 0.0
+    }
+  ]
+}

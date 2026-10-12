@@ -1,0 +1,1988 @@
+{
+  "P1": [
+    {
+      "from": 0.0,
+      "to": 1.32,
+      "sid": 1,
+      "location": 2,
+      "content": "开始练枪很简单",
+      "music": 0.0
+    },
+    {
+      "from": 1.32,
+      "to": 3.16,
+      "sid": 2,
+      "location": 2,
+      "content": "但真正难的是坚持",
+      "music": 0.0
+    },
+    {
+      "from": 3.16,
+      "to": 5.54,
+      "sid": 3,
+      "location": 2,
+      "content": "至于发现自己到底哪里练错了",
+      "music": 0.0
+    },
+    {
+      "from": 5.54,
+      "to": 7.78,
+      "sid": 4,
+      "location": 2,
+      "content": "很多玩家可能一直都没意识到",
+      "music": 0.0
+    },
+    {
+      "from": 7.78,
+      "to": 10.02,
+      "sid": 5,
+      "location": 2,
+      "content": "所以这期视频我们就来聊聊",
+      "music": 0.0
+    },
+    {
+      "from": 10.02,
+      "to": 12.14,
+      "sid": 6,
+      "location": 2,
+      "content": "练枪时最常见的一些问题",
+      "music": 0.0
+    },
+    {
+      "from": 12.14,
+      "to": 13.72,
+      "sid": 7,
+      "location": 2,
+      "content": "以及应该怎么改",
+      "music": 0.0
+    },
+    {
+      "from": 13.72,
+      "to": 16.74,
+      "sid": 8,
+      "location": 2,
+      "content": "先从大部分玩家都会遇到的问题开始",
+      "music": 0.0
+    },
+    {
+      "from": 16.74,
+      "to": 18.56,
+      "sid": 9,
+      "location": 2,
+      "content": "再看看几个相对少见",
+      "music": 0.0
+    },
+    {
+      "from": 18.56,
+      "to": 21.6,
+      "sid": 10,
+      "location": 2,
+      "content": "但同样可能影响实战表现的问题",
+      "music": 0.0
+    },
+    {
+      "from": 21.6,
+      "to": 23.88,
+      "sid": 11,
+      "location": 2,
+      "content": "一甩枪效率低",
+      "music": 0.0
+    },
+    {
+      "from": 23.88,
+      "to": 27.15,
+      "sid": 12,
+      "location": 2,
+      "content": "第一个常见问题就是甩枪效率低",
+      "music": 0.0
+    },
+    {
+      "from": 27.15,
+      "to": 30.15,
+      "sid": 13,
+      "location": 2,
+      "content": "正常的甩枪路线应该尽可能直接",
+      "music": 0.0
+    },
+    {
+      "from": 30.15,
+      "to": 32.65,
+      "sid": 14,
+      "location": 2,
+      "content": "但如果你的准星经常走弧线",
+      "music": 0.0
+    },
+    {
+      "from": 32.65,
+      "to": 36.98,
+      "sid": 15,
+      "location": 2,
+      "content": "走之字或者中间明显犹豫一下才落到目标上",
+      "music": 0.0
+    },
+    {
+      "from": 36.98,
+      "to": 39.629,
+      "sid": 16,
+      "location": 2,
+      "content": "就说明移动路线不够干净",
+      "music": 0.0
+    },
+    {
+      "from": 39.629,
+      "to": 41.029,
+      "sid": 17,
+      "location": 2,
+      "content": "你可以打开回放",
+      "music": 0.0
+    },
+    {
+      "from": 41.029,
+      "to": 43.369,
+      "sid": 18,
+      "location": 2,
+      "content": "开启准星移动轨迹来检查",
+      "music": 0.0
+    },
+    {
+      "from": 43.369,
+      "to": 46.23,
+      "sid": 19,
+      "location": 2,
+      "content": "也可以练aim laps里的直线跟枪",
+      "music": 0.0
+    },
+    {
+      "from": 46.23,
+      "to": 49.11,
+      "sid": 20,
+      "location": 2,
+      "content": "看看自己用鼠标实际画出来的路线",
+      "music": 0.0
+    },
+    {
+      "from": 49.11,
+      "to": 52.99,
+      "sid": 21,
+      "location": 2,
+      "content": "当然每一次甩枪都做到完美并不现实",
+      "music": 0.09866666403555495
+    },
+    {
+      "from": 52.99,
+      "to": 55.23,
+      "sid": 22,
+      "location": 2,
+      "content": "但路线越干净越直接",
+      "music": 0.033980580874729306
+    },
+    {
+      "from": 55.23,
+      "to": 57.45,
+      "sid": 23,
+      "location": 2,
+      "content": "你就能越快到达目标",
+      "music": 0.2211055165273596
+    },
+    {
+      "from": 57.45,
+      "to": 58.65,
+      "sid": 24,
+      "location": 2,
+      "content": "放到实战里",
+      "music": 0.0
+    },
+    {
+      "from": 58.65,
+      "to": 64.26,
+      "sid": 25,
+      "location": 2,
+      "content": "这一点点时间差有时候就足以决定谁先打中二",
+      "music": 0.0
+    },
+    {
+      "from": 64.26,
+      "to": 65.8,
+      "sid": 26,
+      "location": 2,
+      "content": "发力控制不对",
+      "music": 0.0
+    },
+    {
+      "from": 65.8,
+      "to": 68.06,
+      "sid": 27,
+      "location": 2,
+      "content": "第二个问题是发力控制",
+      "music": 0.0
+    },
+    {
+      "from": 68.06,
+      "to": 70.99,
+      "sid": 28,
+      "location": 2,
+      "content": "这个问题在跟枪时尤其明显",
+      "music": 0.0
+    },
+    {
+      "from": 70.99,
+      "to": 74.39,
+      "sid": 29,
+      "location": 2,
+      "content": "这里的跟枪不只是持续扫射战术",
+      "music": 0.0
+    },
+    {
+      "from": 74.39,
+      "to": 76.59,
+      "sid": 30,
+      "location": 2,
+      "content": "FPS里的轻点搜脚",
+      "music": 0.0
+    },
+    {
+      "from": 76.59,
+      "to": 79.19,
+      "sid": 31,
+      "location": 2,
+      "content": "同样需要连续控制准星",
+      "music": 0.0
+    },
+    {
+      "from": 79.19,
+      "to": 82.41,
+      "sid": 32,
+      "location": 2,
+      "content": "而且发力也不只是握鼠标有多紧",
+      "music": 0.16312056159146762
+    },
+    {
+      "from": 82.41,
+      "to": 85.17,
+      "sid": 33,
+      "location": 2,
+      "content": "大范围移动靠手臂对准目标",
+      "music": 0.0
+    },
+    {
+      "from": 85.17,
+      "to": 86.09,
+      "sid": 34,
+      "location": 2,
+      "content": "靠手腕",
+      "music": 0.0
+    },
+    {
+      "from": 86.09,
+      "to": 88.79,
+      "sid": 35,
+      "location": 2,
+      "content": "最后的小幅修正靠手指",
+      "music": 0.0
+    },
+    {
+      "from": 88.79,
+      "to": 91.59,
+      "sid": 36,
+      "location": 2,
+      "content": "最常见的问题就是过度发力",
+      "music": 0.0
+    },
+    {
+      "from": 91.59,
+      "to": 93.89,
+      "sid": 37,
+      "location": 2,
+      "content": "尤其是鼠标握的太紧",
+      "music": 0.0967741883454698
+    },
+    {
+      "from": 93.89,
+      "to": 95.89,
+      "sid": 38,
+      "location": 2,
+      "content": "你可能会觉得这样更稳",
+      "music": 0.0
+    },
+    {
+      "from": 95.89,
+      "to": 97.91,
+      "sid": 39,
+      "location": 2,
+      "content": "但实际上肌肉会更快",
+      "music": 0.0
+    },
+    {
+      "from": 97.91,
+      "to": 98.74,
+      "sid": 40,
+      "location": 2,
+      "content": "疲劳",
+      "music": 0.0
+    },
+    {
+      "from": 98.74,
+      "to": 100.12,
+      "sid": 41,
+      "location": 2,
+      "content": "一旦开始疲劳",
+      "music": 0.0
+    },
+    {
+      "from": 100.12,
+      "to": 101.7,
+      "sid": 42,
+      "location": 2,
+      "content": "修正就容易变抖",
+      "music": 0.0
+    },
+    {
+      "from": 101.7,
+      "to": 103.6,
+      "sid": 43,
+      "location": 2,
+      "content": "跟枪也会开始飘",
+      "music": 0.0
+    },
+    {
+      "from": 103.6,
+      "to": 105.86,
+      "sid": 44,
+      "location": 2,
+      "content": "而且疲劳会不断累积",
+      "music": 0.0
+    },
+    {
+      "from": 105.86,
+      "to": 108.0,
+      "sid": 45,
+      "location": 2,
+      "content": "连续几波对枪不放松",
+      "music": 0.0
+    },
+    {
+      "from": 108.0,
+      "to": 111.14,
+      "sid": 46,
+      "location": 2,
+      "content": "可能到了第三波手臂就已经累了",
+      "music": 0.0
+    },
+    {
+      "from": 111.14,
+      "to": 113.86,
+      "sid": 47,
+      "location": 2,
+      "content": "当然完全放松也不是答案",
+      "music": 0.0
+    },
+    {
+      "from": 113.86,
+      "to": 115.52,
+      "sid": 48,
+      "location": 2,
+      "content": "如果目标变向时",
+      "music": 0.0
+    },
+    {
+      "from": 115.52,
+      "to": 118.18,
+      "sid": 49,
+      "location": 2,
+      "content": "经常修正过头可能是太紧",
+      "music": 0.0
+    },
+    {
+      "from": 118.18,
+      "to": 120.36,
+      "sid": 50,
+      "location": 2,
+      "content": "如果准星总是落后于目标",
+      "music": 0.0
+    },
+    {
+      "from": 120.36,
+      "to": 122.34,
+      "sid": 51,
+      "location": 2,
+      "content": "就适当增加发力",
+      "music": 0.0
+    },
+    {
+      "from": 122.34,
+      "to": 124.88,
+      "sid": 52,
+      "location": 2,
+      "content": "真正要练的是在移动过程中",
+      "music": 0.0
+    },
+    {
+      "from": 124.88,
+      "to": 127.6,
+      "sid": 53,
+      "location": 2,
+      "content": "察觉自己什么时候开始越来越紧",
+      "music": 0.0
+    },
+    {
+      "from": 127.6,
+      "to": 129.82,
+      "sid": 54,
+      "location": 2,
+      "content": "然后及时放松",
+      "music": 0.0
+    },
+    {
+      "from": 130.24,
+      "to": 133.38,
+      "sid": 55,
+      "location": 2,
+      "content": "三只用手腕或者只用手臂",
+      "music": 0.1416666607638919
+    },
+    {
+      "from": 133.38,
+      "to": 137.73,
+      "sid": 56,
+      "location": 2,
+      "content": "很多玩家会把自己定义成手腕流或者手臂流",
+      "music": 0.0
+    },
+    {
+      "from": 137.73,
+      "to": 140.43,
+      "sid": 57,
+      "location": 2,
+      "content": "有自己更习惯的方式没问题",
+      "music": 0.2368420948753556
+    },
+    {
+      "from": 140.43,
+      "to": 142.55,
+      "sid": 58,
+      "location": 2,
+      "content": "但如果只依赖其中一种",
+      "music": 0.0
+    },
+    {
+      "from": 142.55,
+      "to": 144.31,
+      "sid": 59,
+      "location": 2,
+      "content": "完全忽略其他部位",
+      "music": 0.09467455061097144
+    },
+    {
+      "from": 144.31,
+      "to": 145.8,
+      "sid": 60,
+      "location": 2,
+      "content": "就容易出问题",
+      "music": 0.0
+    },
+    {
+      "from": 145.8,
+      "to": 150.739,
+      "sid": 61,
+      "location": 2,
+      "content": "实际上整条手臂应该一起配合大范围移动",
+      "music": 0.0
+    },
+    {
+      "from": 150.739,
+      "to": 152.059,
+      "sid": 62,
+      "location": 2,
+      "content": "主要靠墙壁",
+      "music": 0.0
+    },
+    {
+      "from": 152.059,
+      "to": 154.999,
+      "sid": 63,
+      "location": 2,
+      "content": "手腕负责把准心带到目标上",
+      "music": 0.36507935059208285
+    },
+    {
+      "from": 154.999,
+      "to": 158.03,
+      "sid": 64,
+      "location": 2,
+      "content": "手指负责最后的小幅修正",
+      "music": 0.0
+    },
+    {
+      "from": 158.03,
+      "to": 161.19,
+      "sid": 65,
+      "location": 2,
+      "content": "如果其中一个部分没有参与其他部分",
+      "music": 0.0
+    },
+    {
+      "from": 161.19,
+      "to": 166.02,
+      "sid": 66,
+      "location": 2,
+      "content": "就只能去补偿大范围移动吃力就重点练前臂",
+      "music": 0.0
+    },
+    {
+      "from": 166.02,
+      "to": 169.7,
+      "sid": 67,
+      "location": 2,
+      "content": "准星很难快速对到目标就练手腕",
+      "music": 0.0
+    },
+    {
+      "from": 169.7,
+      "to": 173.3,
+      "sid": 68,
+      "location": 2,
+      "content": "远距离或者小目标经常打不准则",
+      "music": 0.0
+    },
+    {
+      "from": 173.3,
+      "to": 176.25,
+      "sid": 69,
+      "location": 2,
+      "content": "通常和手指的精细控制有关",
+      "music": 0.08461538136095756
+    },
+    {
+      "from": 176.25,
+      "to": 177.99,
+      "sid": 70,
+      "location": 2,
+      "content": "找到真正的弱项",
+      "music": 0.0
+    },
+    {
+      "from": 177.99,
+      "to": 179.49,
+      "sid": 71,
+      "location": 2,
+      "content": "再针对性训练",
+      "music": 0.0
+    },
+    {
+      "from": 179.49,
+      "to": 183.19,
+      "sid": 72,
+      "location": 2,
+      "content": "比每天重复刷同一套训练方案有效的多",
+      "music": 0.0
+    },
+    {
+      "from": 183.19,
+      "to": 185.26,
+      "sid": 73,
+      "location": 2,
+      "content": "四灵敏度不适合自己",
+      "music": 0.0
+    },
+    {
+      "from": 185.26,
+      "to": 188.3,
+      "sid": 74,
+      "location": 2,
+      "content": "灵敏度的问题不只是简单的太高或者太低",
+      "music": 0.0
+    },
+    {
+      "from": 188.3,
+      "to": 189.88,
+      "sid": 75,
+      "location": 2,
+      "content": "它还要适合你玩的游戏",
+      "music": 0.11111110339506007
+    },
+    {
+      "from": 189.88,
+      "to": 192.84,
+      "sid": 76,
+      "location": 2,
+      "content": "自己的打法以及实际能使用的鼠标空间",
+      "music": 0.06569342825936621
+    },
+    {
+      "from": 192.84,
+      "to": 194.72,
+      "sid": 77,
+      "location": 2,
+      "content": "更高的灵敏度适合更快",
+      "music": 0.0
+    },
+    {
+      "from": 194.72,
+      "to": 196.34,
+      "sid": 78,
+      "location": 2,
+      "content": "更强调反应的场景",
+      "music": 0.0
+    },
+    {
+      "from": 196.34,
+      "to": 200.17,
+      "sid": 79,
+      "location": 2,
+      "content": "更低的灵敏度则能给远距离跟枪带来更多控制",
+      "music": 0.0
+    },
+    {
+      "from": 200.17,
+      "to": 202.03,
+      "sid": 80,
+      "location": 2,
+      "content": "不同游戏的需求也不一样",
+      "music": 0.0
+    },
+    {
+      "from": 202.03,
+      "to": 205.45,
+      "sid": 81,
+      "location": 2,
+      "content": "如果灵敏度已经快到自己很难舒服的控制身体",
+      "music": 0.0
+    },
+    {
+      "from": 205.45,
+      "to": 207.61,
+      "sid": 82,
+      "location": 2,
+      "content": "就会下意识增加发力来补偿",
+      "music": 0.0
+    },
+    {
+      "from": 207.61,
+      "to": 209.99,
+      "sid": 83,
+      "location": 2,
+      "content": "这又会回到前面讲的发力问题",
+      "music": 0.0
+    },
+    {
+      "from": 209.99,
+      "to": 211.29,
+      "sid": 84,
+      "location": 2,
+      "content": "真正的目标是",
+      "music": 0.0
+    },
+    {
+      "from": 211.29,
+      "to": 213.55,
+      "sid": 85,
+      "location": 2,
+      "content": "找到一个自己能够稳定控制的灵敏度",
+      "music": 0.0
+    },
+    {
+      "from": 213.55,
+      "to": 215.089,
+      "sid": 86,
+      "location": 2,
+      "content": "然后坚持使用",
+      "music": 0.0
+    },
+    {
+      "from": 215.089,
+      "to": 217.509,
+      "sid": 87,
+      "location": 2,
+      "content": "如果你每隔几次训练就换一次",
+      "music": 0.0
+    },
+    {
+      "from": 217.509,
+      "to": 220.009,
+      "sid": 88,
+      "location": 2,
+      "content": "一直在寻找所谓更舒服的设置",
+      "music": 0.0
+    },
+    {
+      "from": 220.009,
+      "to": 223.68,
+      "sid": 89,
+      "location": 2,
+      "content": "那频繁换灵敏度这件事本身可能才是问题",
+      "music": 0.0
+    },
+    {
+      "from": 223.68,
+      "to": 225.92,
+      "sid": 90,
+      "location": 2,
+      "content": "关于怎么找适合自己的灵敏度",
+      "music": 0.0
+    },
+    {
+      "from": 225.92,
+      "to": 228.08,
+      "sid": 91,
+      "location": 2,
+      "content": "我们还有一期完整的视频链接",
+      "music": 0.0
+    },
+    {
+      "from": 228.08,
+      "to": 229.61,
+      "sid": 92,
+      "location": 2,
+      "content": "放在简介里",
+      "music": 0.0
+    },
+    {
+      "from": 229.93,
+      "to": 233.29,
+      "sid": 93,
+      "location": 2,
+      "content": "五手腕或者手肘一直固定在桌面上",
+      "music": 0.0
+    },
+    {
+      "from": 233.29,
+      "to": 234.57,
+      "sid": 94,
+      "location": 2,
+      "content": "第五个问题是",
+      "music": 0.0
+    },
+    {
+      "from": 234.57,
+      "to": 237.6,
+      "sid": 95,
+      "location": 2,
+      "content": "把手腕或者手肘一直固定在桌面上",
+      "music": 0.0
+    },
+    {
+      "from": 237.6,
+      "to": 239.56,
+      "sid": 96,
+      "location": 2,
+      "content": "正常搭在桌面上没问题",
+      "music": 0.0
+    },
+    {
+      "from": 239.56,
+      "to": 241.77,
+      "sid": 97,
+      "location": 2,
+      "content": "甚至可以帮助稳定和转动",
+      "music": 0.0
+    },
+    {
+      "from": 241.77,
+      "to": 244.13,
+      "sid": 98,
+      "location": 2,
+      "content": "但如果从头到尾都完全锁死",
+      "music": 0.0
+    },
+    {
+      "from": 244.13,
+      "to": 245.73,
+      "sid": 99,
+      "location": 2,
+      "content": "就会限制活动范围",
+      "music": 0.0
+    },
+    {
+      "from": 245.73,
+      "to": 247.93,
+      "sid": 100,
+      "location": 2,
+      "content": "逼着手臂的其他部分去完成",
+      "music": 0.0
+    },
+    {
+      "from": 247.93,
+      "to": 249.61,
+      "sid": 101,
+      "location": 2,
+      "content": "并不适合他们的动作",
+      "music": 0.0
+    },
+    {
+      "from": 249.61,
+      "to": 251.73,
+      "sid": 102,
+      "location": 2,
+      "content": "玩的时候可以观察一下自己",
+      "music": 0.0
+    },
+    {
+      "from": 251.73,
+      "to": 255.33,
+      "sid": 103,
+      "location": 2,
+      "content": "如果手腕或者手肘已经很长时间完全没动过",
+      "music": 0.0
+    },
+    {
+      "from": 255.33,
+      "to": 256.519,
+      "sid": 104,
+      "location": 2,
+      "content": "就要注意了",
+      "music": 0.0
+    },
+    {
+      "from": 256.519,
+      "to": 259.259,
+      "sid": 105,
+      "location": 2,
+      "content": "这里也不是让你整条手臂一直悬空",
+      "music": 0.0
+    },
+    {
+      "from": 259.259,
+      "to": 261.89,
+      "sid": 106,
+      "location": 2,
+      "content": "而是根据情况使用不同部位",
+      "music": 0.0
+    },
+    {
+      "from": 261.89,
+      "to": 263.31,
+      "sid": 107,
+      "location": 2,
+      "content": "小到中等角度",
+      "music": 0.0
+    },
+    {
+      "from": 263.31,
+      "to": 264.55,
+      "sid": 108,
+      "location": 2,
+      "content": "更多使用手腕",
+      "music": 0.0
+    },
+    {
+      "from": 264.55,
+      "to": 267.88,
+      "sid": 109,
+      "location": 2,
+      "content": "更大范围的奖项则需要手肘参与",
+      "music": 0.10355986719870844
+    },
+    {
+      "from": 267.88,
+      "to": 271.5,
+      "sid": 110,
+      "location": 2,
+      "content": "我明六该甩枪的时候却在慢慢拖",
+      "music": 0.09210526012810857
+    },
+    {
+      "from": 271.5,
+      "to": 273.4,
+      "sid": 111,
+      "location": 2,
+      "content": "有些玩家面对目标时",
+      "music": 0.0
+    },
+    {
+      "from": 273.4,
+      "to": 275.26,
+      "sid": 112,
+      "location": 2,
+      "content": "不会直接完成一次甩枪",
+      "music": 0.0
+    },
+    {
+      "from": 275.26,
+      "to": 278.0,
+      "sid": 113,
+      "location": 2,
+      "content": "而是慢慢把准星拖过去",
+      "music": 0.0
+    },
+    {
+      "from": 278.0,
+      "to": 281.46,
+      "sid": 114,
+      "location": 2,
+      "content": "这种情况通常是因为还不够相信自己的甩枪",
+      "music": 0.06451612695108973
+    },
+    {
+      "from": 281.46,
+      "to": 283.12,
+      "sid": 115,
+      "location": 2,
+      "content": "所以会下意识减速",
+      "music": 0.0
+    },
+    {
+      "from": 283.12,
+      "to": 285.07,
+      "sid": 116,
+      "location": 2,
+      "content": "1.1点挪到目标上",
+      "music": 0.0
+    },
+    {
+      "from": 285.07,
+      "to": 286.15,
+      "sid": 117,
+      "location": 2,
+      "content": "问题是这样",
+      "music": 0.25842693725536087
+    },
+    {
+      "from": 286.15,
+      "to": 286.91,
+      "sid": 118,
+      "location": 2,
+      "content": "不仅更慢",
+      "music": 0.1447368230609532
+    },
+    {
+      "from": 286.91,
+      "to": 289.5,
+      "sid": 119,
+      "location": 2,
+      "content": "而且一旦养成习惯也很难改",
+      "music": 0.0
+    },
+    {
+      "from": 289.5,
+      "to": 290.7,
+      "sid": 120,
+      "location": 2,
+      "content": "针对这个问题",
+      "music": 0.0
+    },
+    {
+      "from": 290.7,
+      "to": 292.24,
+      "sid": 121,
+      "location": 2,
+      "content": "可以练爆发甩枪",
+      "music": 0.0
+    },
+    {
+      "from": 292.24,
+      "to": 293.4,
+      "sid": 122,
+      "location": 2,
+      "content": "First flick",
+      "music": 0.0
+    },
+    {
+      "from": 293.4,
+      "to": 296.14,
+      "sid": 123,
+      "location": 2,
+      "content": "如果你在移动过程中拖动准心",
+      "music": 0.0
+    },
+    {
+      "from": 296.14,
+      "to": 298.0,
+      "sid": 124,
+      "location": 2,
+      "content": "或者路线明显弯曲",
+      "music": 0.0
+    },
+    {
+      "from": 298.0,
+      "to": 299.72,
+      "sid": 125,
+      "location": 2,
+      "content": "它就会判定为失误",
+      "music": 0.0
+    },
+    {
+      "from": 299.72,
+      "to": 302.82,
+      "sid": 126,
+      "location": 2,
+      "content": "这样会逼着你真正完成一次不断的甩枪",
+      "music": 0.0
+    },
+    {
+      "from": 302.82,
+      "to": 306.13,
+      "sid": 127,
+      "location": 2,
+      "content": "而不是慢慢把准心蹭到目标上",
+      "music": 0.0
+    },
+    {
+      "from": 306.41,
+      "to": 308.99,
+      "sid": 128,
+      "location": 2,
+      "content": "七准星还没到就开枪",
+      "music": 0.0
+    },
+    {
+      "from": 308.99,
+      "to": 312.13,
+      "sid": 129,
+      "location": 2,
+      "content": "下一个问题是准星还没真正到位",
+      "music": 0.0
+    },
+    {
+      "from": 312.13,
+      "to": 313.549,
+      "sid": 130,
+      "location": 2,
+      "content": "你就已经开枪了",
+      "music": 0.0
+    },
+    {
+      "from": 313.549,
+      "to": 315.249,
+      "sid": 131,
+      "location": 2,
+      "content": "也就是凭感觉点击",
+      "music": 0.0
+    },
+    {
+      "from": 315.249,
+      "to": 319.03,
+      "sid": 132,
+      "location": 2,
+      "content": "而不是确认准星落到目标上之后再开枪",
+      "music": 0.0
+    },
+    {
+      "from": 319.03,
+      "to": 322.75,
+      "sid": 133,
+      "location": 2,
+      "content": "这样很容易把原本应该命中的枪提前打空",
+      "music": 0.0
+    },
+    {
+      "from": 322.75,
+      "to": 325.05,
+      "sid": 134,
+      "location": 2,
+      "content": "实战里凭本能快速开枪",
+      "music": 0.0
+    },
+    {
+      "from": 325.05,
+      "to": 326.11,
+      "sid": 135,
+      "location": 2,
+      "content": "当然没问题",
+      "music": 0.0
+    },
+    {
+      "from": 326.11,
+      "to": 328.55,
+      "sid": 136,
+      "location": 2,
+      "content": "你不可能每一枪都停下来确认",
+      "music": 0.0
+    },
+    {
+      "from": 328.55,
+      "to": 330.35,
+      "sid": 137,
+      "location": 2,
+      "content": "但在训练里一直这样",
+      "music": 0.0
+    },
+    {
+      "from": 330.35,
+      "to": 333.2,
+      "sid": 138,
+      "location": 2,
+      "content": "很容易长期形成比较差的命中率",
+      "music": 0.0
+    },
+    {
+      "from": 333.2,
+      "to": 336.88,
+      "sid": 139,
+      "location": 2,
+      "content": "面对静态或者移动规律比较容易判断的目标",
+      "music": 0.1428571382189241
+    },
+    {
+      "from": 336.88,
+      "to": 340.22,
+      "sid": 140,
+      "location": 2,
+      "content": "可以先把命中率稳定在85%左右",
+      "music": 0.17880794109908266
+    },
+    {
+      "from": 340.22,
+      "to": 342.01,
+      "sid": 141,
+      "location": 2,
+      "content": "再开始追求速度",
+      "music": 0.36111108603394027
+    },
+    {
+      "from": 342.01,
+      "to": 343.65,
+      "sid": 142,
+      "location": 2,
+      "content": "面对闪避型目标",
+      "music": 0.30434780403278033
+    },
+    {
+      "from": 343.65,
+      "to": 346.9,
+      "sid": 143,
+      "location": 2,
+      "content": "60%左右是一个比较合理的标准",
+      "music": 0.0
+    },
+    {
+      "from": 346.9,
+      "to": 348.44,
+      "sid": 144,
+      "location": 2,
+      "content": "先练稳定命中",
+      "music": 0.10606059802574554
+    },
+    {
+      "from": 348.44,
+      "to": 349.98,
+      "sid": 145,
+      "location": 2,
+      "content": "再练更快的命中",
+      "music": 0.13698629198722906
+    },
+    {
+      "from": 349.98,
+      "to": 350.36,
+      "sid": 146,
+      "location": 2,
+      "content": "八",
+      "music": 0.0
+    },
+    {
+      "from": 350.36,
+      "to": 352.36,
+      "sid": 147,
+      "location": 2,
+      "content": "对目标变向反应过度",
+      "music": 0.0
+    },
+    {
+      "from": 352.36,
+      "to": 353.5,
+      "sid": 148,
+      "location": 2,
+      "content": "跟枪的时候",
+      "music": 0.0
+    },
+    {
+      "from": 353.5,
+      "to": 355.81,
+      "sid": 149,
+      "location": 2,
+      "content": "很多玩家会对目标变相反应过度",
+      "music": 0.0
+    },
+    {
+      "from": 355.81,
+      "to": 358.51,
+      "sid": 150,
+      "location": 2,
+      "content": "目标一变向准星直接甩过头",
+      "music": 0.0
+    },
+    {
+      "from": 358.51,
+      "to": 360.22,
+      "sid": 151,
+      "location": 2,
+      "content": "然后等着目标重新跑回来",
+      "music": 0.0
+    },
+    {
+      "from": 360.22,
+      "to": 362.92,
+      "sid": 152,
+      "location": 2,
+      "content": "如果他在这之前又变了一次方向",
+      "music": 0.0
+    },
+    {
+      "from": 362.92,
+      "to": 364.26,
+      "sid": 153,
+      "location": 2,
+      "content": "你就只能继续追",
+      "music": 0.6140350338565733
+    },
+    {
+      "from": 364.26,
+      "to": 365.46,
+      "sid": 154,
+      "location": 2,
+      "content": "放到实战里",
+      "music": 0.0
+    },
+    {
+      "from": 365.46,
+      "to": 366.89,
+      "sid": 155,
+      "location": 2,
+      "content": "就是更多子弹打空",
+      "music": 0.0
+    },
+    {
+      "from": 366.89,
+      "to": 370.03,
+      "sid": 156,
+      "location": 2,
+      "content": "同时准星离开目标的时间也会更长",
+      "music": 0.0
+    },
+    {
+      "from": 370.03,
+      "to": 371.11,
+      "sid": 157,
+      "location": 2,
+      "content": "解决方法是",
+      "music": 0.0
+    },
+    {
+      "from": 371.11,
+      "to": 374.11,
+      "sid": 158,
+      "location": 2,
+      "content": "与其一直尝试把准星放到目标前面",
+      "music": 0.0
+    },
+    {
+      "from": 374.11,
+      "to": 376.12,
+      "sid": 159,
+      "location": 2,
+      "content": "不如让准星稍微落后一点",
+      "music": 0.0
+    },
+    {
+      "from": 376.12,
+      "to": 377.84,
+      "sid": 160,
+      "location": 2,
+      "content": "听起来可能有点反直觉",
+      "music": 0.0
+    },
+    {
+      "from": 377.84,
+      "to": 380.06,
+      "sid": 161,
+      "location": 2,
+      "content": "但这样目标真正变向的时候",
+      "music": 0.0
+    },
+    {
+      "from": 380.06,
+      "to": 381.66,
+      "sid": 162,
+      "location": 2,
+      "content": "你会有更多反应时间",
+      "music": 0.09210525709833048
+    },
+    {
+      "from": 381.66,
+      "to": 384.15,
+      "sid": 163,
+      "location": 2,
+      "content": "也更容易持续保持在目标上",
+      "music": 0.0
+    },
+    {
+      "from": 384.15,
+      "to": 386.25,
+      "sid": 164,
+      "location": 2,
+      "content": "看到变向以后保持放松",
+      "music": 0.0
+    },
+    {
+      "from": 386.25,
+      "to": 388.27,
+      "sid": 165,
+      "location": 2,
+      "content": "重新匹配目标的移动速度",
+      "music": 0.0
+    },
+    {
+      "from": 388.27,
+      "to": 390.77,
+      "sid": 166,
+      "location": 2,
+      "content": "而不是瞬间甩过去",
+      "music": 0.0
+    },
+    {
+      "from": 391.09,
+      "to": 393.41,
+      "sid": 167,
+      "location": 2,
+      "content": "九练枪没有计划",
+      "music": 0.0
+    },
+    {
+      "from": 393.41,
+      "to": 397.12,
+      "sid": 168,
+      "location": 2,
+      "content": "最后一个比较常见的问题就是练枪没有计划",
+      "music": 0.18589742993917957
+    },
+    {
+      "from": 397.12,
+      "to": 400.28,
+      "sid": 169,
+      "location": 2,
+      "content": "现在越来越多玩家会先做基准测试",
+      "music": 0.0
+    },
+    {
+      "from": 400.28,
+      "to": 403.72,
+      "sid": 170,
+      "location": 2,
+      "content": "或者根据自己的弱项选择对应的训练方案",
+      "music": 0.09677419042664198
+    },
+    {
+      "from": 403.72,
+      "to": 406.48,
+      "sid": 171,
+      "location": 2,
+      "content": "但还是有很多人打开aim lab以后",
+      "music": 0.0
+    },
+    {
+      "from": 406.48,
+      "to": 408.69,
+      "sid": 172,
+      "location": 2,
+      "content": "看到什么项目热门就玩什么",
+      "music": 0.0
+    },
+    {
+      "from": 408.69,
+      "to": 410.57,
+      "sid": 173,
+      "location": 2,
+      "content": "这样当然比完全不练好",
+      "music": 0.0
+    },
+    {
+      "from": 410.57,
+      "to": 411.81,
+      "sid": 174,
+      "location": 2,
+      "content": "但效率并不高",
+      "music": 0.0
+    },
+    {
+      "from": 411.81,
+      "to": 415.28,
+      "sid": 175,
+      "location": 2,
+      "content": "也不一定能很好地迁移到你实际玩的游戏里",
+      "music": 0.0
+    },
+    {
+      "from": 415.28,
+      "to": 417.52,
+      "sid": 176,
+      "location": 2,
+      "content": "如果完全不知道从哪里开始",
+      "music": 0.0
+    },
+    {
+      "from": 417.52,
+      "to": 419.18,
+      "sid": 177,
+      "location": 2,
+      "content": "可以先做基准测试",
+      "music": 0.0
+    },
+    {
+      "from": 419.18,
+      "to": 421.64,
+      "sid": 178,
+      "location": 2,
+      "content": "他会测试多个方面的瞄准能力",
+      "music": 0.0
+    },
+    {
+      "from": 421.64,
+      "to": 424.75,
+      "sid": 179,
+      "location": 2,
+      "content": "让你更清楚自己目前的水平和弱项",
+      "music": 0.0
+    },
+    {
+      "from": 424.75,
+      "to": 426.19,
+      "sid": 180,
+      "location": 2,
+      "content": "关于基准测试",
+      "music": 0.0
+    },
+    {
+      "from": 426.19,
+      "to": 429.58,
+      "sid": 181,
+      "location": 2,
+      "content": "我们也有一期完整教程链接放在下面",
+      "music": 0.0
+    },
+    {
+      "from": 429.58,
+      "to": 432.1,
+      "sid": 182,
+      "location": 2,
+      "content": "以上这些就是比较常见的问题",
+      "music": 0.0
+    },
+    {
+      "from": 432.1,
+      "to": 435.02,
+      "sid": 183,
+      "location": 2,
+      "content": "接下来再看看几个不是每个人都会遇到",
+      "music": 0.0
+    },
+    {
+      "from": 435.02,
+      "to": 437.84,
+      "sid": 184,
+      "location": 2,
+      "content": "但同样可能限制你提升的问题",
+      "music": 0.0
+    },
+    {
+      "from": 437.84,
+      "to": 441.0,
+      "sid": 185,
+      "location": 2,
+      "content": "十训练的时候不给自己压力",
+      "music": 0.0
+    },
+    {
+      "from": 441.0,
+      "to": 444.3,
+      "sid": 186,
+      "location": 2,
+      "content": "第一个是训练的时候完全不给自己压力",
+      "music": 0.0
+    },
+    {
+      "from": 444.3,
+      "to": 446.06,
+      "sid": 187,
+      "location": 2,
+      "content": "比如过度关注动作",
+      "music": 0.0
+    },
+    {
+      "from": 446.06,
+      "to": 447.1,
+      "sid": 188,
+      "location": 2,
+      "content": "不在意分数",
+      "music": 0.0
+    },
+    {
+      "from": 447.1,
+      "to": 450.11,
+      "sid": 189,
+      "location": 2,
+      "content": "或者只是机械地把项目一遍遍打完",
+      "music": 0.0
+    },
+    {
+      "from": 450.11,
+      "to": 451.87,
+      "sid": 190,
+      "location": 2,
+      "content": "虽然训练次数完成了",
+      "music": 0.0
+    },
+    {
+      "from": 451.87,
+      "to": 454.17,
+      "sid": 191,
+      "location": 2,
+      "content": "但如果从来不挑战自己的极限",
+      "music": 0.0
+    },
+    {
+      "from": 454.17,
+      "to": 456.419,
+      "sid": 192,
+      "location": 2,
+      "content": "进步速度一样会变慢",
+      "music": 0.0
+    },
+    {
+      "from": 456.419,
+      "to": 460.18,
+      "sid": 193,
+      "location": 2,
+      "content": "对于静态或者移动规律比较容易判断的目标",
+      "music": 0.0
+    },
+    {
+      "from": 460.18,
+      "to": 461.58,
+      "sid": 194,
+      "location": 2,
+      "content": "如果已经能稳定",
+      "music": 0.0
+    },
+    {
+      "from": 461.58,
+      "to": 463.6,
+      "sid": 195,
+      "location": 2,
+      "content": "达到85%左右的命中率",
+      "music": 0.0
+    },
+    {
+      "from": 463.6,
+      "to": 465.24,
+      "sid": 196,
+      "location": 2,
+      "content": "就可以开始提高速度",
+      "music": 0.0
+    },
+    {
+      "from": 465.24,
+      "to": 468.81,
+      "sid": 197,
+      "location": 2,
+      "content": "面对闪避型目标达到60%左右以后",
+      "music": 0.0
+    },
+    {
+      "from": 468.81,
+      "to": 470.65,
+      "sid": 198,
+      "location": 2,
+      "content": "也可以开始尝试提速",
+      "music": 0.0
+    },
+    {
+      "from": 470.65,
+      "to": 474.29,
+      "sid": 199,
+      "location": 2,
+      "content": "毕竟没有哪个运动员是一直用自己已经完全",
+      "music": 0.0
+    },
+    {
+      "from": 474.29,
+      "to": 475.23,
+      "sid": 200,
+      "location": 2,
+      "content": "适应的速度跑",
+      "music": 0.0
+    },
+    {
+      "from": 475.23,
+      "to": 476.919,
+      "sid": 201,
+      "location": 2,
+      "content": "就能变得越来越快的",
+      "music": 0.0
+    },
+    {
+      "from": 476.919,
+      "to": 478.199,
+      "sid": 202,
+      "location": 2,
+      "content": "想继续提升",
+      "music": 0.0
+    },
+    {
+      "from": 478.199,
+      "to": 479.899,
+      "sid": 203,
+      "location": 2,
+      "content": "就需要挑战自己的上限",
+      "music": 0.5288234983045041
+    },
+    {
+      "from": 479.899,
+      "to": 481.55,
+      "sid": 204,
+      "location": 2,
+      "content": "11反应时间",
+      "music": 0.3231264848407009
+    },
+    {
+      "from": 481.55,
+      "to": 484.21,
+      "sid": 205,
+      "location": 2,
+      "content": "有些时候问题甚至不在瞄准本身",
+      "music": 0.0
+    },
+    {
+      "from": 484.21,
+      "to": 485.78,
+      "sid": 206,
+      "location": 2,
+      "content": "而是在反应时间",
+      "music": 0.09836064767535826
+    },
+    {
+      "from": 485.78,
+      "to": 487.6,
+      "sid": 207,
+      "location": 2,
+      "content": "这里可以分成两个部分",
+      "music": 0.0
+    },
+    {
+      "from": 487.6,
+      "to": 490.78,
+      "sid": 208,
+      "location": 2,
+      "content": "第一个是瞄准反应目标出现以后",
+      "music": 0.0
+    },
+    {
+      "from": 490.78,
+      "to": 493.72,
+      "sid": 209,
+      "location": 2,
+      "content": "你需要多久才开始把准星移向它",
+      "music": 0.0
+    },
+    {
+      "from": 493.72,
+      "to": 495.58,
+      "sid": 210,
+      "location": 2,
+      "content": "第二个是点击反应",
+      "music": 0.21518985979809646
+    },
+    {
+      "from": 495.58,
+      "to": 497.44,
+      "sid": 211,
+      "location": 2,
+      "content": "准星已经到目标上以后",
+      "music": 0.0
+    },
+    {
+      "from": 497.44,
+      "to": 499.38,
+      "sid": 212,
+      "location": 2,
+      "content": "你需要多久才会开枪",
+      "music": 0.5421686420380303
+    },
+    {
+      "from": 499.38,
+      "to": 502.45,
+      "sid": 213,
+      "location": 2,
+      "content": "这两个环节都可能单独成为瓶颈",
+      "music": 0.0
+    },
+    {
+      "from": 502.45,
+      "to": 504.59,
+      "sid": 214,
+      "location": 2,
+      "content": "如果问题出在瞄准反应",
+      "music": 0.0
+    },
+    {
+      "from": 504.59,
+      "to": 506.71,
+      "sid": 215,
+      "location": 2,
+      "content": "可以练单目标反应类项目",
+      "music": 0.0
+    },
+    {
+      "from": 506.71,
+      "to": 508.73,
+      "sid": 216,
+      "location": 2,
+      "content": "比如KA反应射击",
+      "music": 0.29761902990362793
+    },
+    {
+      "from": 508.73,
+      "to": 510.52,
+      "sid": 217,
+      "location": 2,
+      "content": "Ka reflex shot",
+      "music": 0.8906249304198912
+    },
+    {
+      "from": 510.52,
+      "to": 512.62,
+      "sid": 218,
+      "location": 2,
+      "content": "如果是点击时机的问题",
+      "music": 0.0
+    },
+    {
+      "from": 512.62,
+      "to": 515.32,
+      "sid": 219,
+      "location": 2,
+      "content": "可以练无畏契约爆头训练",
+      "music": 0.0
+    },
+    {
+      "from": 515.32,
+      "to": 519.27,
+      "sid": 220,
+      "location": 2,
+      "content": "HEADSHOTVALORANT这类移动点击项目",
+      "music": 0.0
+    },
+    {
+      "from": 519.59,
+      "to": 520.31,
+      "sid": 221,
+      "location": 2,
+      "content": "12",
+      "music": 0.0
+    },
+    {
+      "from": 520.31,
+      "to": 523.48,
+      "sid": 222,
+      "location": 2,
+      "content": "鼠标偏离中心以后控制变差",
+      "music": 0.0
+    },
+    {
+      "from": 523.48,
+      "to": 527.14,
+      "sid": 223,
+      "location": 2,
+      "content": "最后一个问题是鼠标离开鼠标垫中心以后",
+      "music": 0.0
+    },
+    {
+      "from": 527.14,
+      "to": 528.86,
+      "sid": 224,
+      "location": 2,
+      "content": "控制就开始变差",
+      "music": 0.0
+    },
+    {
+      "from": 528.86,
+      "to": 532.02,
+      "sid": 225,
+      "location": 2,
+      "content": "有些玩家没有充分利用整个鼠标空间",
+      "music": 0.0
+    },
+    {
+      "from": 532.02,
+      "to": 535.0,
+      "sid": 226,
+      "location": 2,
+      "content": "还有一些玩家只要鼠标偏离中心比较远",
+      "music": 0.0
+    },
+    {
+      "from": 535.0,
+      "to": 536.84,
+      "sid": 227,
+      "location": 2,
+      "content": "就会明显失去控制",
+      "music": 0.0
+    },
+    {
+      "from": 536.84,
+      "to": 540.15,
+      "sid": 228,
+      "location": 2,
+      "content": "于是只能不停抬起鼠标重新走中",
+      "music": 0.0
+    },
+    {
+      "from": 540.15,
+      "to": 542.85,
+      "sid": 229,
+      "location": 2,
+      "content": "这样会导致实战中的反应延迟",
+      "music": 0.0
+    },
+    {
+      "from": 542.85,
+      "to": 544.47,
+      "sid": 230,
+      "location": 2,
+      "content": "更快的手臂疲劳",
+      "music": 0.0
+    },
+    {
+      "from": 544.47,
+      "to": 547.75,
+      "sid": 231,
+      "location": 2,
+      "content": "以及鼠标垫边缘区域的精准度下降",
+      "music": 0.2835820789708199
+    },
+    {
+      "from": 547.75,
+      "to": 549.13,
+      "sid": 232,
+      "location": 2,
+      "content": "针对这个问题",
+      "music": 0.0
+    },
+    {
+      "from": 549.13,
+      "to": 551.39,
+      "sid": 233,
+      "location": 2,
+      "content": "可以练静态点击射击",
+      "music": 0.0
+    },
+    {
+      "from": 551.39,
+      "to": 553.02,
+      "sid": 234,
+      "location": 2,
+      "content": "Steady quick",
+      "music": 0.0
+    },
+    {
+      "from": 553.02,
+      "to": 554.0,
+      "sid": 235,
+      "location": 2,
+      "content": "训练的时候",
+      "music": 0.0
+    },
+    {
+      "from": 554.0,
+      "to": 557.0,
+      "sid": 236,
+      "location": 2,
+      "content": "尽量让鼠标一直保持和鼠标垫接触",
+      "music": 0.0
+    },
+    {
+      "from": 557.0,
+      "to": 560.02,
+      "sid": 237,
+      "location": 2,
+      "content": "同时练习点击屏幕边缘的目标",
+      "music": 0.05737704682880536
+    },
+    {
+      "from": 560.02,
+      "to": 562.2,
+      "sid": 238,
+      "location": 2,
+      "content": "如果你能打到屏幕边缘",
+      "music": 0.0
+    },
+    {
+      "from": 562.2,
+      "to": 565.84,
+      "sid": 239,
+      "location": 2,
+      "content": "但鼠标本身根本不会移动到鼠标垫边缘附近",
+      "music": 0.0
+    },
+    {
+      "from": 565.84,
+      "to": 567.64,
+      "sid": 240,
+      "location": 2,
+      "content": "可以暂时降低灵敏度",
+      "music": 0.5645160835067082
+    },
+    {
+      "from": 567.64,
+      "to": 570.34,
+      "sid": 241,
+      "location": 2,
+      "content": "让鼠标必须移动更大的距离",
+      "music": 0.6146788708862669
+    },
+    {
+      "from": 570.34,
+      "to": 572.97,
+      "sid": 242,
+      "location": 2,
+      "content": "真正练到这部分控制",
+      "music": 0.0
+    },
+    {
+      "from": 573.29,
+      "to": 575.85,
+      "sid": 243,
+      "location": 2,
+      "content": "以上就是今天要讲的所有问题",
+      "music": 0.0
+    },
+    {
+      "from": 575.85,
+      "to": 578.53,
+      "sid": 244,
+      "location": 2,
+      "content": "如果你还遇到过我们没有提到的情况",
+      "music": 0.0
+    },
+    {
+      "from": 578.53,
+      "to": 580.66,
+      "sid": 245,
+      "location": 2,
+      "content": "欢迎在评论区告诉我们",
+      "music": 0.0
+    },
+    {
+      "from": 580.66,
+      "to": 582.54,
+      "sid": 246,
+      "location": 2,
+      "content": "如果这期内容对你有帮助",
+      "music": 0.0
+    },
+    {
+      "from": 582.54,
+      "to": 584.66,
+      "sid": 247,
+      "location": 2,
+      "content": "欢迎一键三连加关注",
+      "music": 0.0
+    },
+    {
+      "from": 584.66,
+      "to": 586.5,
+      "sid": 248,
+      "location": 2,
+      "content": "我们下期见",
+      "music": 0.0
+    }
+  ]
+}

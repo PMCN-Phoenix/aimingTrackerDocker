@@ -1,0 +1,5202 @@
+[
+  {
+    "from": 0.14,
+    "to": 1.82,
+    "sid": 1,
+    "location": 2,
+    "content": "在办公桌前坐下",
+    "music": 0.0
+  },
+  {
+    "from": 1.82,
+    "to": 4.12,
+    "sid": 2,
+    "location": 2,
+    "content": "本来准备处理一份重要的报告",
+    "music": 0.0
+  },
+  {
+    "from": 4.12,
+    "to": 7.2,
+    "sid": 3,
+    "location": 2,
+    "content": "却在短短10分钟内打开了手机五次",
+    "music": 0.0
+  },
+  {
+    "from": 7.2,
+    "to": 9.14,
+    "sid": 4,
+    "location": 2,
+    "content": "顺手回了两封电子邮件",
+    "music": 0.0
+  },
+  {
+    "from": 9.14,
+    "to": 11.3,
+    "sid": 5,
+    "location": 2,
+    "content": "还浏览了一下社群媒体",
+    "music": 0.0
+  },
+  {
+    "from": 11.3,
+    "to": 12.72,
+    "sid": 6,
+    "location": 2,
+    "content": "等你抬起头时",
+    "music": 0.0
+  },
+  {
+    "from": 12.72,
+    "to": 15.24,
+    "sid": 7,
+    "location": 2,
+    "content": "脑袋已经忘了刚刚真正要做的事",
+    "music": 0.0
+  },
+  {
+    "from": 15.24,
+    "to": 17.62,
+    "sid": 8,
+    "location": 2,
+    "content": "这样的场景并不是偶尔的意外",
+    "music": 0.0
+  },
+  {
+    "from": 17.62,
+    "to": 20.14,
+    "sid": 9,
+    "location": 2,
+    "content": "而是现代人日常生活的一部分",
+    "music": 0.0
+  },
+  {
+    "from": 20.14,
+    "to": 22.8,
+    "sid": 10,
+    "location": 2,
+    "content": "我们以为自己只是小小分心一下",
+    "music": 0.0
+  },
+  {
+    "from": 22.8,
+    "to": 26.97,
+    "sid": 11,
+    "location": 2,
+    "content": "然而这些细碎的中断正慢慢侵蚀我们的专注力",
+    "music": 0.0
+  },
+  {
+    "from": 26.97,
+    "to": 28.17,
+    "sid": 12,
+    "location": 2,
+    "content": "研究显示",
+    "music": 0.0
+  },
+  {
+    "from": 28.17,
+    "to": 32.49,
+    "sid": 13,
+    "location": 2,
+    "content": "20年前人们平均能在荧幕前专注约两分半钟",
+    "music": 0.0
+  },
+  {
+    "from": 32.49,
+    "to": 34.739,
+    "sid": 14,
+    "location": 2,
+    "content": "如今却只剩下47秒",
+    "music": 0.0
+  },
+  {
+    "from": 34.739,
+    "to": 35.579,
+    "sid": 15,
+    "location": 2,
+    "content": "换句话说",
+    "music": 0.0
+  },
+  {
+    "from": 35.579,
+    "to": 37.539,
+    "sid": 16,
+    "location": 2,
+    "content": "我们几乎还没进入状况",
+    "music": 0.0
+  },
+  {
+    "from": 37.539,
+    "to": 39.65,
+    "sid": 17,
+    "location": 2,
+    "content": "就已经被拉走到另一个任务",
+    "music": 0.0
+  },
+  {
+    "from": 39.65,
+    "to": 41.67,
+    "sid": 18,
+    "location": 2,
+    "content": "专注力正在急速萎缩",
+    "music": 0.0
+  },
+  {
+    "from": 41.67,
+    "to": 45.91,
+    "sid": 19,
+    "location": 2,
+    "content": "而我们的生活与工作也因此变得更零散更紧绷",
+    "music": 0.0
+  },
+  {
+    "from": 45.91,
+    "to": 48.13,
+    "sid": 20,
+    "location": 2,
+    "content": "当专注被不断打断",
+    "music": 0.0
+  },
+  {
+    "from": 48.13,
+    "to": 50.05,
+    "sid": 21,
+    "location": 2,
+    "content": "我们付出的不只是时间",
+    "music": 0.0
+  },
+  {
+    "from": 50.05,
+    "to": 52.42,
+    "sid": 22,
+    "location": 2,
+    "content": "还有情绪和健康的代价",
+    "music": 0.0
+  },
+  {
+    "from": 52.42,
+    "to": 55.3,
+    "sid": 23,
+    "location": 2,
+    "content": "这也是gloria Mark在他的新书内",
+    "music": 0.0
+  },
+  {
+    "from": 55.3,
+    "to": 58.41,
+    "sid": 24,
+    "location": 2,
+    "content": "在专注力的节奏中想提醒我们的现象",
+    "music": 0.0
+  },
+  {
+    "from": 58.41,
+    "to": 63.07,
+    "sid": 25,
+    "location": 2,
+    "content": "他是加州大学尔湾分校的资讯学讲座教授",
+    "music": 0.0
+  },
+  {
+    "from": 63.07,
+    "to": 65.65,
+    "sid": 26,
+    "location": 2,
+    "content": "同时拥有心理学博士学位",
+    "music": 0.0
+  },
+  {
+    "from": 65.65,
+    "to": 67.13,
+    "sid": 27,
+    "location": 2,
+    "content": "过去20多年来",
+    "music": 0.0
+  },
+  {
+    "from": 67.13,
+    "to": 71.93,
+    "sid": 28,
+    "location": 2,
+    "content": "他专注于研究科技如何改变我们的专注行为和心理状态",
+    "music": 0.0
+  },
+  {
+    "from": 71.93,
+    "to": 74.37,
+    "sid": 29,
+    "location": 2,
+    "content": "不同于只停留在理论的讨论",
+    "music": 0.0
+  },
+  {
+    "from": 74.37,
+    "to": 79.56,
+    "sid": 30,
+    "location": 2,
+    "content": "他透过实地观察与长期数据收集追踪人们在办公室",
+    "music": 0.0
+  },
+  {
+    "from": 79.56,
+    "to": 82.979,
+    "sid": 31,
+    "location": 2,
+    "content": "家中和日常使用科技时的专注模式",
+    "music": 0.0
+  },
+  {
+    "from": 82.979,
+    "to": 86.959,
+    "sid": 32,
+    "location": 2,
+    "content": "这些研究不仅揭示了我们被数位环境塑造的现实",
+    "music": 0.0
+  },
+  {
+    "from": 86.959,
+    "to": 88.599,
+    "sid": 33,
+    "location": 2,
+    "content": "也提供了具体的方法",
+    "music": 0.0
+  },
+  {
+    "from": 88.599,
+    "to": 91.28,
+    "sid": 34,
+    "location": 2,
+    "content": "帮助我们在混乱中重建专注",
+    "music": 0.0
+  },
+  {
+    "from": 91.28,
+    "to": 94.28,
+    "sid": 35,
+    "location": 2,
+    "content": "这本书并不只是一本谈分心的书",
+    "music": 0.0
+  },
+  {
+    "from": 94.28,
+    "to": 95.94,
+    "sid": 36,
+    "location": 2,
+    "content": "它更像是一面镜子",
+    "music": 0.0
+  },
+  {
+    "from": 95.94,
+    "to": 98.42,
+    "sid": 37,
+    "location": 2,
+    "content": "映照出我们当代的生活方式",
+    "music": 0.0
+  },
+  {
+    "from": 98.42,
+    "to": 101.74,
+    "sid": 38,
+    "location": 2,
+    "content": "gloria Mark透过无数小细节告诉我们",
+    "music": 0.0
+  },
+  {
+    "from": 101.74,
+    "to": 104.44,
+    "sid": 39,
+    "location": 2,
+    "content": "专注并非天生注定会消失",
+    "music": 0.0
+  },
+  {
+    "from": 104.44,
+    "to": 107.09,
+    "sid": 40,
+    "location": 2,
+    "content": "而是需要重新理解与培养",
+    "music": 0.0
+  },
+  {
+    "from": 107.09,
+    "to": 109.35,
+    "sid": 41,
+    "location": 2,
+    "content": "他提出一个引人深思的观点",
+    "music": 0.0
+  },
+  {
+    "from": 109.35,
+    "to": 113.53,
+    "sid": 42,
+    "location": 2,
+    "content": "也许真正决定我们幸福与生产力的不是时间管理",
+    "music": 0.0
+  },
+  {
+    "from": 113.53,
+    "to": 115.95,
+    "sid": 43,
+    "location": 2,
+    "content": "而是如何管理自己的专注力",
+    "music": 0.0
+  },
+  {
+    "from": 115.95,
+    "to": 119.27,
+    "sid": 44,
+    "location": 2,
+    "content": "这正是阅读这本书后最重要的启发",
+    "music": 0.0
+  },
+  {
+    "from": 119.27,
+    "to": 123.59,
+    "sid": 45,
+    "location": 2,
+    "content": "从刚才的故事可以延伸出一个令人惊讶的发现",
+    "music": 0.0
+  },
+  {
+    "from": 123.59,
+    "to": 127.89,
+    "sid": 46,
+    "location": 2,
+    "content": "我们的专注力在短短20年间出现了惊人的下降",
+    "music": 0.0
+  },
+  {
+    "from": 127.89,
+    "to": 129.55,
+    "sid": 47,
+    "location": 2,
+    "content": "研究数据显示",
+    "music": 0.0
+  },
+  {
+    "from": 129.55,
+    "to": 135.41,
+    "sid": 48,
+    "location": 2,
+    "content": "2004年人们在电脑荧幕上平均可以维持大约两分半钟的专注",
+    "music": 0.0
+  },
+  {
+    "from": 135.41,
+    "to": 137.68,
+    "sid": 49,
+    "location": 2,
+    "content": "如今却只剩不到一分钟",
+    "music": 0.0
+  },
+  {
+    "from": 137.68,
+    "to": 141.38,
+    "sid": 50,
+    "location": 2,
+    "content": "这意味著专注力正像沙漏一样快速流失",
+    "music": 0.0
+  },
+  {
+    "from": 141.38,
+    "to": 144.28,
+    "sid": 51,
+    "location": 2,
+    "content": "让人们还没进入最佳状态就被打断",
+    "music": 0.0
+  },
+  {
+    "from": 144.28,
+    "to": 145.48,
+    "sid": 52,
+    "location": 2,
+    "content": "重新开始",
+    "music": 0.0
+  },
+  {
+    "from": 145.48,
+    "to": 147.82,
+    "sid": 53,
+    "location": 2,
+    "content": "这种转变并非自然发生",
+    "music": 0.0
+  },
+  {
+    "from": 147.82,
+    "to": 150.14,
+    "sid": 54,
+    "location": 2,
+    "content": "而是与现代科技密不可分",
+    "music": 0.0
+  },
+  {
+    "from": 150.14,
+    "to": 151.52,
+    "sid": 55,
+    "location": 2,
+    "content": "在数位时代",
+    "music": 0.0
+  },
+  {
+    "from": 151.52,
+    "to": 153.72,
+    "sid": 56,
+    "location": 2,
+    "content": "我们被各种讯息包围",
+    "music": 0.0
+  },
+  {
+    "from": 153.72,
+    "to": 155.44,
+    "sid": 57,
+    "location": 2,
+    "content": "手机的推波提醒",
+    "music": 0.0
+  },
+  {
+    "from": 155.44,
+    "to": 157.22,
+    "sid": 58,
+    "location": 2,
+    "content": "电子邮件的提示声",
+    "music": 0.0
+  },
+  {
+    "from": 157.22,
+    "to": 161.32,
+    "sid": 59,
+    "location": 2,
+    "content": "社群媒体的更新通知都像是一只只敲门的手",
+    "music": 0.0
+  },
+  {
+    "from": 161.32,
+    "to": 163.66,
+    "sid": 60,
+    "location": 2,
+    "content": "不断打断我们原本的思绪",
+    "music": 0.0
+  },
+  {
+    "from": 163.66,
+    "to": 166.94,
+    "sid": 61,
+    "location": 2,
+    "content": "这些看似微小的干扰其实积少成多",
+    "music": 0.0
+  },
+  {
+    "from": 166.94,
+    "to": 170.36,
+    "sid": 62,
+    "location": 2,
+    "content": "当我们一天被打断数十次甚至上百次",
+    "music": 0.0
+  },
+  {
+    "from": 170.36,
+    "to": 173.17,
+    "sid": 63,
+    "location": 2,
+    "content": "每一次转换都消耗了心智资源",
+    "music": 0.0
+  },
+  {
+    "from": 173.17,
+    "to": 174.29,
+    "sid": 64,
+    "location": 2,
+    "content": "作者指出",
+    "music": 0.0
+  },
+  {
+    "from": 174.29,
+    "to": 178.85,
+    "sid": 65,
+    "location": 2,
+    "content": "每一次切换都好比在脑海中的白板上擦掉原本的内容",
+    "music": 0.0
+  },
+  {
+    "from": 178.85,
+    "to": 181.39,
+    "sid": 66,
+    "location": 2,
+    "content": "再重新写上一个新任务的笔记",
+    "music": 0.0
+  },
+  {
+    "from": 181.39,
+    "to": 182.43,
+    "sid": 67,
+    "location": 2,
+    "content": "长期下来",
+    "music": 0.0
+  },
+  {
+    "from": 182.43,
+    "to": 184.29,
+    "sid": 68,
+    "location": 2,
+    "content": "这块白板不仅变得模糊",
+    "music": 0.0
+  },
+  {
+    "from": 184.29,
+    "to": 188.269,
+    "sid": 69,
+    "location": 2,
+    "content": "还让我们需要额外的精力去回想自己刚才做到哪里",
+    "music": 0.0
+  },
+  {
+    "from": 188.269,
+    "to": 191.629,
+    "sid": 70,
+    "location": 2,
+    "content": "这样的切换代价不仅存在于效率层面",
+    "music": 0.0
+  },
+  {
+    "from": 191.629,
+    "to": 194.579,
+    "sid": 71,
+    "location": 2,
+    "content": "也反映在心理与生理状态上",
+    "music": 0.0
+  },
+  {
+    "from": 194.579,
+    "to": 195.579,
+    "sid": 72,
+    "location": 2,
+    "content": "研究发现",
+    "music": 0.0
+  },
+  {
+    "from": 195.579,
+    "to": 198.82,
+    "sid": 73,
+    "location": 2,
+    "content": "持续的注意力转换会造成错误率升高",
+    "music": 0.0
+  },
+  {
+    "from": 198.82,
+    "to": 202.5,
+    "sid": 74,
+    "location": 2,
+    "content": "血压和压力荷尔蒙皮质醇水平也会上升",
+    "music": 0.0
+  },
+  {
+    "from": 202.5,
+    "to": 203.52,
+    "sid": 75,
+    "location": 2,
+    "content": "换句话说",
+    "music": 0.0
+  },
+  {
+    "from": 203.52,
+    "to": 206.8,
+    "sid": 76,
+    "location": 2,
+    "content": "专注力的流失直接转化成身体的负担",
+    "music": 0.0
+  },
+  {
+    "from": 206.8,
+    "to": 210.04,
+    "sid": 77,
+    "location": 2,
+    "content": "当我们以为自己能同时处理更多事情时",
+    "music": 0.0
+  },
+  {
+    "from": 210.04,
+    "to": 213.62,
+    "sid": 78,
+    "location": 2,
+    "content": "实际上却让身心处于过度紧绷的状态",
+    "music": 0.0
+  },
+  {
+    "from": 213.62,
+    "to": 214.78,
+    "sid": 79,
+    "location": 2,
+    "content": "长此以往",
+    "music": 0.0
+  },
+  {
+    "from": 214.78,
+    "to": 218.18,
+    "sid": 80,
+    "location": 2,
+    "content": "焦虑疲倦甚至是倦怠感都会浮现",
+    "music": 0.0
+  },
+  {
+    "from": 218.18,
+    "to": 220.91,
+    "sid": 81,
+    "location": 2,
+    "content": "让人更难在生活中维持稳定节奏",
+    "music": 0.0
+  },
+  {
+    "from": 220.91,
+    "to": 224.17,
+    "sid": 82,
+    "location": 2,
+    "content": "作者曾分享过自己直牙上的鲜明对比",
+    "music": 0.0
+  },
+  {
+    "from": 224.17,
+    "to": 225.53,
+    "sid": 83,
+    "location": 2,
+    "content": "在德国工作时",
+    "music": 0.0
+  },
+  {
+    "from": 225.53,
+    "to": 227.73,
+    "sid": 84,
+    "location": 2,
+    "content": "他的研究环境节奏缓慢",
+    "music": 0.0
+  },
+  {
+    "from": 227.73,
+    "to": 229.9,
+    "sid": 85,
+    "location": 2,
+    "content": "午休时可以悠闲散步",
+    "music": 0.0
+  },
+  {
+    "from": 229.9,
+    "to": 231.78,
+    "sid": 86,
+    "location": 2,
+    "content": "思绪也能逐步沉淀",
+    "music": 0.0
+  },
+  {
+    "from": 231.78,
+    "to": 233.22,
+    "sid": 87,
+    "location": 2,
+    "content": "但当他回到美国",
+    "music": 0.0
+  },
+  {
+    "from": 233.22,
+    "to": 235.08,
+    "sid": 88,
+    "location": 2,
+    "content": "进入数位化的工作场域时",
+    "music": 0.0
+  },
+  {
+    "from": 235.08,
+    "to": 236.48,
+    "sid": 89,
+    "location": 2,
+    "content": "情况完全不同",
+    "music": 0.0
+  },
+  {
+    "from": 236.48,
+    "to": 238.18,
+    "sid": 90,
+    "location": 2,
+    "content": "会议讯息",
+    "music": 0.0
+  },
+  {
+    "from": 238.18,
+    "to": 240.1,
+    "sid": 91,
+    "location": 2,
+    "content": "电子邮件接踵而至",
+    "music": 0.0
+  },
+  {
+    "from": 240.1,
+    "to": 242.42,
+    "sid": 92,
+    "location": 2,
+    "content": "每天的注意力像被强行拉扯",
+    "music": 0.0
+  },
+  {
+    "from": 242.42,
+    "to": 244.57,
+    "sid": 93,
+    "location": 2,
+    "content": "从一个任务跳到另一个任务",
+    "music": 0.0
+  },
+  {
+    "from": 244.57,
+    "to": 247.67,
+    "sid": 94,
+    "location": 2,
+    "content": "他形容那种感觉就像是精神上的鞭打",
+    "music": 0.0
+  },
+  {
+    "from": 247.67,
+    "to": 249.29,
+    "sid": 95,
+    "location": 2,
+    "content": "总是被迫加速",
+    "music": 0.0
+  },
+  {
+    "from": 249.29,
+    "to": 252.65,
+    "sid": 96,
+    "location": 2,
+    "content": "却始终无法真正沉浸在任何一件事里",
+    "music": 0.0
+  },
+  {
+    "from": 252.65,
+    "to": 254.89,
+    "sid": 97,
+    "location": 2,
+    "content": "这段经历让他深刻理解",
+    "music": 0.0
+  },
+  {
+    "from": 254.89,
+    "to": 257.79,
+    "sid": 98,
+    "location": 2,
+    "content": "注意力的下降并不是个人意志薄弱",
+    "music": 0.0
+  },
+  {
+    "from": 257.79,
+    "to": 261.58,
+    "sid": 99,
+    "location": 2,
+    "content": "而是整个工作与生活环境发生了根本变化",
+    "music": 0.0
+  },
+  {
+    "from": 261.58,
+    "to": 263.58,
+    "sid": 100,
+    "location": 2,
+    "content": "这种环境不止影响效率",
+    "music": 0.0
+  },
+  {
+    "from": 263.58,
+    "to": 265.17,
+    "sid": 101,
+    "location": 2,
+    "content": "也塑造了我们的心态",
+    "music": 0.0
+  },
+  {
+    "from": 265.17,
+    "to": 267.31,
+    "sid": 102,
+    "location": 2,
+    "content": "当人们习惯了快速切换",
+    "music": 0.0
+  },
+  {
+    "from": 267.31,
+    "to": 268.81,
+    "sid": 103,
+    "location": 2,
+    "content": "就会逐渐失去耐心",
+    "music": 0.0
+  },
+  {
+    "from": 268.81,
+    "to": 271.07,
+    "sid": 104,
+    "location": 2,
+    "content": "难以承受长时间的专注",
+    "music": 0.0
+  },
+  {
+    "from": 271.07,
+    "to": 274.39,
+    "sid": 105,
+    "location": 2,
+    "content": "许多人在看书时不自觉划开手机",
+    "music": 0.0
+  },
+  {
+    "from": 274.39,
+    "to": 276.79,
+    "sid": 106,
+    "location": 2,
+    "content": "或是在写报告时突然打开网页",
+    "music": 0.0
+  },
+  {
+    "from": 276.79,
+    "to": 278.01,
+    "sid": 107,
+    "location": 2,
+    "content": "搜寻无关的内容",
+    "music": 0.0
+  },
+  {
+    "from": 278.01,
+    "to": 282.14,
+    "sid": 108,
+    "location": 2,
+    "content": "这些都是大脑被训练成依赖频繁刺激的结果",
+    "music": 0.0
+  },
+  {
+    "from": 282.14,
+    "to": 284.02,
+    "sid": 109,
+    "location": 2,
+    "content": "当外界干扰减少时",
+    "music": 0.0
+  },
+  {
+    "from": 284.02,
+    "to": 286.1,
+    "sid": 110,
+    "location": 2,
+    "content": "反而会出现不安与焦躁",
+    "music": 0.0
+  },
+  {
+    "from": 286.1,
+    "to": 288.65,
+    "sid": 111,
+    "location": 2,
+    "content": "于是主动寻找新的分心来源",
+    "music": 0.0
+  },
+  {
+    "from": 288.65,
+    "to": 290.61,
+    "sid": 112,
+    "location": 2,
+    "content": "这种自我打断的习惯",
+    "music": 0.0
+  },
+  {
+    "from": 290.61,
+    "to": 292.87,
+    "sid": 113,
+    "location": 2,
+    "content": "让注意力危机进一步恶化",
+    "music": 0.0
+  },
+  {
+    "from": 292.87,
+    "to": 297.21,
+    "sid": 114,
+    "location": 2,
+    "content": "因此当代的注意力危机并不是单纯的时间管理问题",
+    "music": 0.0
+  },
+  {
+    "from": 297.21,
+    "to": 300.76,
+    "sid": 115,
+    "location": 2,
+    "content": "而是一种深植于科技文化的结构性挑战",
+    "music": 0.0
+  },
+  {
+    "from": 300.76,
+    "to": 303.06,
+    "sid": 116,
+    "location": 2,
+    "content": "若我们持续忽视这种变化",
+    "music": 0.0
+  },
+  {
+    "from": 303.06,
+    "to": 305.47,
+    "sid": 117,
+    "location": 2,
+    "content": "专注力不仅会持续下滑",
+    "music": 0.0
+  },
+  {
+    "from": 305.47,
+    "to": 310.26,
+    "sid": 118,
+    "location": 2,
+    "content": "还会在压力与疲惫中消耗掉我们的幸福感与工作满意度",
+    "music": 0.0
+  },
+  {
+    "from": 310.26,
+    "to": 313.48,
+    "sid": 119,
+    "location": 2,
+    "content": "专注已经成为这个时代最稀缺的资源",
+    "music": 0.0
+  },
+  {
+    "from": 313.48,
+    "to": 317.67,
+    "sid": 120,
+    "location": 2,
+    "content": "而这正是作者在这本书中想要唤醒我们的核心警示",
+    "music": 0.0
+  },
+  {
+    "from": 317.67,
+    "to": 319.78,
+    "sid": 121,
+    "location": 2,
+    "content": "在理解了注意力危机之后",
+    "music": 0.0
+  },
+  {
+    "from": 319.78,
+    "to": 324.4,
+    "sid": 122,
+    "location": 2,
+    "content": "更重要的一点是要明白我们的大脑资源本身就是有限的",
+    "music": 0.0
+  },
+  {
+    "from": 324.4,
+    "to": 326.97,
+    "sid": 123,
+    "location": 2,
+    "content": "作者形容专注力像是一个邮箱",
+    "music": 0.0
+  },
+  {
+    "from": 326.97,
+    "to": 328.15,
+    "sid": 124,
+    "location": 2,
+    "content": "清晨醒来时",
+    "music": 0.0
+  },
+  {
+    "from": 328.15,
+    "to": 329.59,
+    "sid": 125,
+    "location": 2,
+    "content": "邮箱几乎是满的",
+    "music": 0.0
+  },
+  {
+    "from": 329.59,
+    "to": 334.3,
+    "sid": 126,
+    "location": 2,
+    "content": "随住一天中各种任务与干扰出现油量便不断消耗",
+    "music": 0.0
+  },
+  {
+    "from": 334.3,
+    "to": 337.6,
+    "sid": 127,
+    "location": 2,
+    "content": "如果缺乏足够的休息或适当的补充",
+    "music": 0.0
+  },
+  {
+    "from": 337.6,
+    "to": 340.78,
+    "sid": 128,
+    "location": 2,
+    "content": "这个油箱会在中午甚至更早就见底",
+    "music": 0.0
+  },
+  {
+    "from": 340.78,
+    "to": 342.74,
+    "sid": 129,
+    "location": 2,
+    "content": "当注意力油箱耗尽时",
+    "music": 0.0
+  },
+  {
+    "from": 342.74,
+    "to": 345.08,
+    "sid": 130,
+    "location": 2,
+    "content": "我们做任何事都会变得吃力",
+    "music": 0.0
+  },
+  {
+    "from": 345.08,
+    "to": 346.2,
+    "sid": 131,
+    "location": 2,
+    "content": "错误频频",
+    "music": 0.0
+  },
+  {
+    "from": 346.2,
+    "to": 348.0,
+    "sid": 132,
+    "location": 2,
+    "content": "心情也容易浮躁",
+    "music": 0.0
+  },
+  {
+    "from": 348.0,
+    "to": 349.98,
+    "sid": 133,
+    "location": 2,
+    "content": "这并不是因为我们懒散",
+    "music": 0.0
+  },
+  {
+    "from": 349.98,
+    "to": 352.7,
+    "sid": 134,
+    "location": 2,
+    "content": "而是因为大脑的运作需要能量",
+    "music": 0.0
+  },
+  {
+    "from": 352.7,
+    "to": 354.94,
+    "sid": 135,
+    "location": 2,
+    "content": "就像汽车需要燃料一样",
+    "music": 0.0
+  },
+  {
+    "from": 354.94,
+    "to": 356.46,
+    "sid": 136,
+    "location": 2,
+    "content": "在这样的背景下",
+    "music": 0.0
+  },
+  {
+    "from": 356.46,
+    "to": 358.78,
+    "sid": 137,
+    "location": 2,
+    "content": "多功看似是一种解决方式",
+    "music": 0.0
+  },
+  {
+    "from": 358.78,
+    "to": 360.75,
+    "sid": 138,
+    "location": 2,
+    "content": "却其实是一场误会",
+    "music": 0.0
+  },
+  {
+    "from": 360.75,
+    "to": 363.909,
+    "sid": 139,
+    "location": 2,
+    "content": "很多人相信自己能同时处理多件事",
+    "music": 0.0
+  },
+  {
+    "from": 363.909,
+    "to": 365.709,
+    "sid": 140,
+    "location": 2,
+    "content": "并因此感到有效率",
+    "music": 0.0
+  },
+  {
+    "from": 365.709,
+    "to": 367.289,
+    "sid": 141,
+    "location": 2,
+    "content": "然而研究却指出",
+    "music": 0.0
+  },
+  {
+    "from": 367.289,
+    "to": 371.5,
+    "sid": 142,
+    "location": 2,
+    "content": "这种一心多用的状态往往只是快速切换任务的错觉",
+    "music": 0.0
+  },
+  {
+    "from": 371.5,
+    "to": 374.16,
+    "sid": 143,
+    "location": 2,
+    "content": "当我们以为自己一边听线上会议",
+    "music": 0.0
+  },
+  {
+    "from": 374.16,
+    "to": 375.56,
+    "sid": 144,
+    "location": 2,
+    "content": "一边回复讯息",
+    "music": 0.0
+  },
+  {
+    "from": 375.56,
+    "to": 377.51,
+    "sid": 145,
+    "location": 2,
+    "content": "还能同时修改文件时",
+    "music": 0.0
+  },
+  {
+    "from": 377.51,
+    "to": 380.13,
+    "sid": 146,
+    "location": 2,
+    "content": "大脑其实并不是同时进行三件事",
+    "music": 0.0
+  },
+  {
+    "from": 380.13,
+    "to": 382.6,
+    "sid": 147,
+    "location": 2,
+    "content": "而是不断在不同的任务间切换",
+    "music": 0.0
+  },
+  {
+    "from": 382.6,
+    "to": 384.58,
+    "sid": 148,
+    "location": 2,
+    "content": "这种切换并非无成本",
+    "music": 0.0
+  },
+  {
+    "from": 384.58,
+    "to": 388.1,
+    "sid": 149,
+    "location": 2,
+    "content": "它需要大脑每次重新启动与建立上下文",
+    "music": 0.0
+  },
+  {
+    "from": 388.1,
+    "to": 390.659,
+    "sid": 150,
+    "location": 2,
+    "content": "付出的代价远比我们想象的大",
+    "music": 0.0
+  },
+  {
+    "from": 390.659,
+    "to": 393.479,
+    "sid": 151,
+    "location": 2,
+    "content": "作者将这种代价称为切换成本",
+    "music": 0.0
+  },
+  {
+    "from": 393.479,
+    "to": 395.059,
+    "sid": 152,
+    "location": 2,
+    "content": "在实际操作中",
+    "music": 0.0
+  },
+  {
+    "from": 395.059,
+    "to": 397.659,
+    "sid": 153,
+    "location": 2,
+    "content": "当一个人中途被打断去看讯息",
+    "music": 0.0
+  },
+  {
+    "from": 397.659,
+    "to": 399.519,
+    "sid": 154,
+    "location": 2,
+    "content": "再回到原本的文件时",
+    "music": 0.0
+  },
+  {
+    "from": 399.519,
+    "to": 402.259,
+    "sid": 155,
+    "location": 2,
+    "content": "脑中需要花时间回忆刚才的进度",
+    "music": 0.0
+  },
+  {
+    "from": 402.259,
+    "to": 404.07,
+    "sid": 156,
+    "location": 2,
+    "content": "重新唤起相关资讯",
+    "music": 0.0
+  },
+  {
+    "from": 404.07,
+    "to": 407.24,
+    "sid": 157,
+    "location": 2,
+    "content": "甚至要再度建立逻辑脉络",
+    "music": 0.0
+  },
+  {
+    "from": 407.24,
+    "to": 409.76,
+    "sid": 158,
+    "location": 2,
+    "content": "这段过程可能只需几十秒",
+    "music": 0.0
+  },
+  {
+    "from": 409.76,
+    "to": 411.56,
+    "sid": 159,
+    "location": 2,
+    "content": "也可能拉长到数分钟",
+    "music": 0.0
+  },
+  {
+    "from": 411.56,
+    "to": 413.419,
+    "sid": 160,
+    "location": 2,
+    "content": "而在高频率的切换下",
+    "music": 0.0
+  },
+  {
+    "from": 413.419,
+    "to": 417.24,
+    "sid": 161,
+    "location": 2,
+    "content": "这些碎片时间累积起来就是生产力的流失",
+    "music": 0.0
+  },
+  {
+    "from": 417.24,
+    "to": 418.54,
+    "sid": 162,
+    "location": 2,
+    "content": "更严重的是",
+    "music": 0.0
+  },
+  {
+    "from": 418.54,
+    "to": 421.28,
+    "sid": 163,
+    "location": 2,
+    "content": "每一次重启不只消耗了专注力",
+    "music": 0.0
+  },
+  {
+    "from": 421.28,
+    "to": 423.2,
+    "sid": 164,
+    "location": 2,
+    "content": "也让人更容易感到疲倦",
+    "music": 0.0
+  },
+  {
+    "from": 423.2,
+    "to": 426.36,
+    "sid": 165,
+    "location": 2,
+    "content": "长时间的多功带来的不仅是效率下降",
+    "music": 0.0
+  },
+  {
+    "from": 426.36,
+    "to": 429.15,
+    "sid": 166,
+    "location": 2,
+    "content": "还会加速专注油箱的耗损",
+    "music": 0.0
+  },
+  {
+    "from": 429.15,
+    "to": 431.41,
+    "sid": 167,
+    "location": 2,
+    "content": "当大脑被迫快速切换时",
+    "music": 0.0
+  },
+  {
+    "from": 431.41,
+    "to": 433.53,
+    "sid": 168,
+    "location": 2,
+    "content": "会消耗额外的认知资源",
+    "music": 0.0
+  },
+  {
+    "from": 433.53,
+    "to": 435.74,
+    "sid": 169,
+    "location": 2,
+    "content": "导致情绪状态受到影响",
+    "music": 0.0
+  },
+  {
+    "from": 435.74,
+    "to": 438.78,
+    "sid": 170,
+    "location": 2,
+    "content": "许多人在一天结束时感到筋疲力尽",
+    "music": 0.0
+  },
+  {
+    "from": 438.78,
+    "to": 441.94,
+    "sid": 171,
+    "location": 2,
+    "content": "却无法清楚说出自己到底完成了什么",
+    "music": 0.0
+  },
+  {
+    "from": 441.94,
+    "to": 444.37,
+    "sid": 172,
+    "location": 2,
+    "content": "这正是多功的隐性代价",
+    "music": 0.0
+  },
+  {
+    "from": 444.37,
+    "to": 445.49,
+    "sid": 173,
+    "location": 2,
+    "content": "作者认为",
+    "music": 0.0
+  },
+  {
+    "from": 445.49,
+    "to": 448.55,
+    "sid": 174,
+    "location": 2,
+    "content": "这种疲劳感并非纯粹的心理暗示",
+    "music": 0.0
+  },
+  {
+    "from": 448.55,
+    "to": 451.669,
+    "sid": 175,
+    "location": 2,
+    "content": "而是大脑能量被过度抽取的结果",
+    "music": 0.0
+  },
+  {
+    "from": 451.669,
+    "to": 454.26,
+    "sid": 176,
+    "location": 2,
+    "content": "这种状态让人更容易感到焦虑",
+    "music": 0.0
+  },
+  {
+    "from": 454.26,
+    "to": 455.82,
+    "sid": 177,
+    "location": 2,
+    "content": "也更难集中精神",
+    "music": 0.0
+  },
+  {
+    "from": 455.82,
+    "to": 457.46,
+    "sid": 178,
+    "location": 2,
+    "content": "在真正重要的任务上",
+    "music": 0.0
+  },
+  {
+    "from": 457.46,
+    "to": 458.92,
+    "sid": 179,
+    "location": 2,
+    "content": "更令人警惕的是",
+    "music": 0.0
+  },
+  {
+    "from": 458.92,
+    "to": 461.48,
+    "sid": 180,
+    "location": 2,
+    "content": "多功还会增加错误发生的几率",
+    "music": 0.0
+  },
+  {
+    "from": 461.48,
+    "to": 463.46,
+    "sid": 181,
+    "location": 2,
+    "content": "因为在不断切换过程中",
+    "music": 0.0
+  },
+  {
+    "from": 463.46,
+    "to": 465.97,
+    "sid": 182,
+    "location": 2,
+    "content": "大脑对细节的掌握会变得松散",
+    "music": 0.0
+  },
+  {
+    "from": 465.97,
+    "to": 468.59,
+    "sid": 183,
+    "location": 2,
+    "content": "原本简单的任务可能出现疏漏",
+    "music": 0.0
+  },
+  {
+    "from": 468.59,
+    "to": 470.63,
+    "sid": 184,
+    "location": 2,
+    "content": "甚至需要额外时间来修正",
+    "music": 0.0
+  },
+  {
+    "from": 470.63,
+    "to": 472.25,
+    "sid": 185,
+    "location": 2,
+    "content": "形成恶性循环",
+    "music": 0.0
+  },
+  {
+    "from": 472.25,
+    "to": 476.429,
+    "sid": 186,
+    "location": 2,
+    "content": "人们以为自己同时处理多件事是高效能的象征",
+    "music": 0.0
+  },
+  {
+    "from": 476.429,
+    "to": 479.689,
+    "sid": 187,
+    "location": 2,
+    "content": "但结果往往是花更多时间去弥补错误",
+    "music": 0.0
+  },
+  {
+    "from": 479.689,
+    "to": 482.32,
+    "sid": 188,
+    "location": 2,
+    "content": "最后完成的工作品质也下降",
+    "music": 0.0
+  },
+  {
+    "from": 482.32,
+    "to": 484.84,
+    "sid": 189,
+    "location": 2,
+    "content": "这种落差会让人产生挫败感",
+    "music": 0.0
+  },
+  {
+    "from": 484.84,
+    "to": 486.6,
+    "sid": 190,
+    "location": 2,
+    "content": "进一步消耗情绪能量",
+    "music": 0.0
+  },
+  {
+    "from": 486.6,
+    "to": 488.6,
+    "sid": 191,
+    "location": 2,
+    "content": "当专注油箱逐渐耗尽",
+    "music": 0.0
+  },
+  {
+    "from": 488.6,
+    "to": 490.74,
+    "sid": 192,
+    "location": 2,
+    "content": "心理上的负担也随之加重",
+    "music": 0.0
+  },
+  {
+    "from": 490.74,
+    "to": 492.56,
+    "sid": 193,
+    "location": 2,
+    "content": "长期依赖多功的人",
+    "music": 0.0
+  },
+  {
+    "from": 492.56,
+    "to": 494.58,
+    "sid": 194,
+    "location": 2,
+    "content": "常常觉得自己永远做不完",
+    "music": 0.0
+  },
+  {
+    "from": 494.58,
+    "to": 496.09,
+    "sid": 195,
+    "location": 2,
+    "content": "压力不断累积",
+    "music": 0.0
+  },
+  {
+    "from": 496.09,
+    "to": 498.71,
+    "sid": 196,
+    "location": 2,
+    "content": "这种压力不仅体现在精神上",
+    "music": 0.0
+  },
+  {
+    "from": 498.71,
+    "to": 500.85,
+    "sid": 197,
+    "location": 2,
+    "content": "还可能透过身体反应显现",
+    "music": 0.0
+  },
+  {
+    "from": 500.85,
+    "to": 501.95,
+    "sid": 198,
+    "location": 2,
+    "content": "例如头痛",
+    "music": 0.0
+  },
+  {
+    "from": 501.95,
+    "to": 504.84,
+    "sid": 199,
+    "location": 2,
+    "content": "睡眠品质下降或是心跳加快",
+    "music": 0.0
+  },
+  {
+    "from": 504.84,
+    "to": 505.98,
+    "sid": 200,
+    "location": 2,
+    "content": "作者提醒",
+    "music": 0.0
+  },
+  {
+    "from": 505.98,
+    "to": 509.65,
+    "sid": 201,
+    "location": 2,
+    "content": "这些迹象代表多公正悄悄侵蚀我们的健康",
+    "music": 0.0
+  },
+  {
+    "from": 509.65,
+    "to": 511.57,
+    "sid": 202,
+    "location": 2,
+    "content": "看似掌握了更多事情",
+    "music": 0.0
+  },
+  {
+    "from": 511.57,
+    "to": 515.03,
+    "sid": 203,
+    "location": 2,
+    "content": "实际上却失去了最宝贵的专注与安定",
+    "music": 0.0
+  },
+  {
+    "from": 515.03,
+    "to": 518.799,
+    "sid": 204,
+    "location": 2,
+    "content": "因此当代人必须重新审视多功的迷思",
+    "music": 0.0
+  },
+  {
+    "from": 518.799,
+    "to": 521.879,
+    "sid": 205,
+    "location": 2,
+    "content": "所谓的效率并不在于同时分配注意力",
+    "music": 0.0
+  },
+  {
+    "from": 521.879,
+    "to": 526.06,
+    "sid": 206,
+    "location": 2,
+    "content": "而是能否把有限的资源投注在当下最重要的任务上",
+    "music": 0.0
+  },
+  {
+    "from": 526.06,
+    "to": 528.28,
+    "sid": 207,
+    "location": 2,
+    "content": "理解专注力像燃料一样有限",
+    "music": 0.0
+  },
+  {
+    "from": 528.28,
+    "to": 530.31,
+    "sid": 208,
+    "location": 2,
+    "content": "是改变习惯的第一步",
+    "music": 0.0
+  },
+  {
+    "from": 530.31,
+    "to": 531.87,
+    "sid": 209,
+    "location": 2,
+    "content": "唯有意识到这一点",
+    "music": 0.0
+  },
+  {
+    "from": 531.87,
+    "to": 535.21,
+    "sid": 210,
+    "location": 2,
+    "content": "才能避免在无休止的切换中消耗殆尽",
+    "music": 0.0
+  },
+  {
+    "from": 535.21,
+    "to": 537.34,
+    "sid": 211,
+    "location": 2,
+    "content": "并找回真正的掌控感",
+    "music": 0.0
+  },
+  {
+    "from": 537.34,
+    "to": 539.6,
+    "sid": 212,
+    "location": 2,
+    "content": "在讨论了多功的限制之后",
+    "music": 0.0
+  },
+  {
+    "from": 539.6,
+    "to": 542.12,
+    "sid": 213,
+    "location": 2,
+    "content": "我们可以转向另一个重要的面向",
+    "music": 0.0
+  },
+  {
+    "from": 542.12,
+    "to": 543.98,
+    "sid": 214,
+    "location": 2,
+    "content": "那就是专注的节奏",
+    "music": 0.0
+  },
+  {
+    "from": 543.98,
+    "to": 546.9,
+    "sid": 215,
+    "location": 2,
+    "content": "大脑并不是一台能无限运转的机器",
+    "music": 0.0
+  },
+  {
+    "from": 546.9,
+    "to": 550.33,
+    "sid": 216,
+    "location": 2,
+    "content": "而是需要在紧绷与放松之间找到平衡",
+    "music": 0.0
+  },
+  {
+    "from": 550.33,
+    "to": 554.69,
+    "sid": 217,
+    "location": 2,
+    "content": "作家MAYAANGELO曾经提出大脑与小脑的概念",
+    "music": 0.0
+  },
+  {
+    "from": 554.69,
+    "to": 556.69,
+    "sid": 218,
+    "location": 2,
+    "content": "大脑代表深度的创造性",
+    "music": 0.0
+  },
+  {
+    "from": 556.69,
+    "to": 561.03,
+    "sid": 219,
+    "location": 2,
+    "content": "专注用来解决复杂问题或进行负挑战性的思考",
+    "music": 0.0
+  },
+  {
+    "from": 561.03,
+    "to": 564.31,
+    "sid": 220,
+    "location": 2,
+    "content": "小脑则象征日常简单的例行事务",
+    "music": 0.0
+  },
+  {
+    "from": 564.31,
+    "to": 565.86,
+    "sid": 221,
+    "location": 2,
+    "content": "例如整理桌面",
+    "music": 0.0
+  },
+  {
+    "from": 565.86,
+    "to": 566.68,
+    "sid": 222,
+    "location": 2,
+    "content": "折衣服",
+    "music": 0.0
+  },
+  {
+    "from": 566.68,
+    "to": 569.66,
+    "sid": 223,
+    "location": 2,
+    "content": "或完成一些不需过度思考的任务",
+    "music": 0.0
+  },
+  {
+    "from": 569.66,
+    "to": 570.81,
+    "sid": 224,
+    "location": 2,
+    "content": "ANGELLE认为",
+    "music": 0.0
+  },
+  {
+    "from": 570.81,
+    "to": 573.23,
+    "sid": 225,
+    "location": 2,
+    "content": "唯有在两者之间交替切换",
+    "music": 0.0
+  },
+  {
+    "from": 573.23,
+    "to": 576.17,
+    "sid": 226,
+    "location": 2,
+    "content": "我们才能在长期保持生产力的同时",
+    "music": 0.0
+  },
+  {
+    "from": 576.17,
+    "to": 578.18,
+    "sid": 227,
+    "location": 2,
+    "content": "也维持心灵的稳定",
+    "music": 0.0
+  },
+  {
+    "from": 578.18,
+    "to": 580.18,
+    "sid": 228,
+    "location": 2,
+    "content": "作者进一步延伸这个想法",
+    "music": 0.0
+  },
+  {
+    "from": 580.18,
+    "to": 582.26,
+    "sid": 229,
+    "location": 2,
+    "content": "提出了重复性专注的观点",
+    "music": 0.0
+  },
+  {
+    "from": 582.26,
+    "to": 584.44,
+    "sid": 230,
+    "location": 2,
+    "content": "这种专注看似平淡无奇",
+    "music": 0.0
+  },
+  {
+    "from": 584.44,
+    "to": 586.22,
+    "sid": 231,
+    "location": 2,
+    "content": "却有其独特价值",
+    "music": 0.0
+  },
+  {
+    "from": 586.22,
+    "to": 588.9,
+    "sid": 232,
+    "location": 2,
+    "content": "当我们从事重复又简单的活动时",
+    "music": 0.0
+  },
+  {
+    "from": 588.9,
+    "to": 591.18,
+    "sid": 233,
+    "location": 2,
+    "content": "大脑进入一种低耗能模式",
+    "music": 0.0
+  },
+  {
+    "from": 591.18,
+    "to": 592.86,
+    "sid": 234,
+    "location": 2,
+    "content": "不需要消耗太多资源",
+    "music": 0.0
+  },
+  {
+    "from": 592.86,
+    "to": 594.88,
+    "sid": 235,
+    "location": 2,
+    "content": "却能让思绪自然流动",
+    "music": 0.0
+  },
+  {
+    "from": 594.88,
+    "to": 598.08,
+    "sid": 236,
+    "location": 2,
+    "content": "这时候紧张的心智会被舒缓",
+    "music": 0.0
+  },
+  {
+    "from": 598.08,
+    "to": 600.28,
+    "sid": 237,
+    "location": 2,
+    "content": "创造力反而可能悄悄浮现",
+    "music": 0.0
+  },
+  {
+    "from": 600.28,
+    "to": 601.34,
+    "sid": 238,
+    "location": 2,
+    "content": "正因如此",
+    "music": 0.0
+  },
+  {
+    "from": 601.34,
+    "to": 602.82,
+    "sid": 239,
+    "location": 2,
+    "content": "许多人在做家务",
+    "music": 0.0
+  },
+  {
+    "from": 602.82,
+    "to": 604.36,
+    "sid": 240,
+    "location": 2,
+    "content": "散步或编织时",
+    "music": 0.0
+  },
+  {
+    "from": 604.36,
+    "to": 606.61,
+    "sid": 241,
+    "location": 2,
+    "content": "突然冒出解决问题的灵感",
+    "music": 0.0
+  },
+  {
+    "from": 606.61,
+    "to": 610.45,
+    "sid": 242,
+    "location": 2,
+    "content": "这种低度投入的状态不仅能减轻精神疲劳",
+    "music": 0.0
+  },
+  {
+    "from": 610.45,
+    "to": 612.45,
+    "sid": 243,
+    "location": 2,
+    "content": "更能像是一种心理按摩",
+    "music": 0.0
+  },
+  {
+    "from": 612.45,
+    "to": 615.41,
+    "sid": 244,
+    "location": 2,
+    "content": "帮助我们在长时间的专注之后恢复",
+    "music": 0.0
+  },
+  {
+    "from": 615.41,
+    "to": 619.35,
+    "sid": 245,
+    "location": 2,
+    "content": "历史上有许多例子说明了这种切换的重要性",
+    "music": 0.0
+  },
+  {
+    "from": 619.35,
+    "to": 622.27,
+    "sid": 246,
+    "location": 2,
+    "content": "爱因斯坦在研究物理理论之余",
+    "music": 0.0
+  },
+  {
+    "from": 622.27,
+    "to": 623.9,
+    "sid": 247,
+    "location": 2,
+    "content": "经常拉小提琴",
+    "music": 0.0
+  },
+  {
+    "from": 623.9,
+    "to": 625.22,
+    "sid": 248,
+    "location": 2,
+    "content": "对外人而言",
+    "music": 0.0
+  },
+  {
+    "from": 625.22,
+    "to": 627.18,
+    "sid": 249,
+    "location": 2,
+    "content": "这似乎只是一种兴趣",
+    "music": 0.0
+  },
+  {
+    "from": 627.18,
+    "to": 628.64,
+    "sid": 250,
+    "location": 2,
+    "content": "但在他自己看来",
+    "music": 0.0
+  },
+  {
+    "from": 628.64,
+    "to": 630.5,
+    "sid": 251,
+    "location": 2,
+    "content": "音乐是放松的方式",
+    "music": 0.0
+  },
+  {
+    "from": 630.5,
+    "to": 632.66,
+    "sid": 252,
+    "location": 2,
+    "content": "也是触发新思路的契机",
+    "music": 0.0
+  },
+  {
+    "from": 632.66,
+    "to": 637.48,
+    "sid": 253,
+    "location": 2,
+    "content": "同样地许多作家会在写作间隙投入园艺或散步",
+    "music": 0.0
+  },
+  {
+    "from": 637.48,
+    "to": 639.8,
+    "sid": 254,
+    "location": 2,
+    "content": "普鲁斯特在花园里的悠闲散步",
+    "music": 0.0
+  },
+  {
+    "from": 639.8,
+    "to": 643.82,
+    "sid": 255,
+    "location": 2,
+    "content": "让他的大脑有机会从沉重的创作压力中释放",
+    "music": 0.0
+  },
+  {
+    "from": 643.82,
+    "to": 646.33,
+    "sid": 256,
+    "location": 2,
+    "content": "进而让小说情节更自然地浮现",
+    "music": 0.0
+  },
+  {
+    "from": 646.33,
+    "to": 648.53,
+    "sid": 257,
+    "location": 2,
+    "content": "这些行为并非单纯的消遣",
+    "music": 0.0
+  },
+  {
+    "from": 648.53,
+    "to": 650.09,
+    "sid": 258,
+    "location": 2,
+    "content": "而是透过小脑活动",
+    "music": 0.0
+  },
+  {
+    "from": 650.09,
+    "to": 652.03,
+    "sid": 259,
+    "location": 2,
+    "content": "让大脑重新充电的实力",
+    "music": 0.0
+  },
+  {
+    "from": 652.03,
+    "to": 653.51,
+    "sid": 260,
+    "location": 2,
+    "content": "除了活动上的切换",
+    "music": 0.0
+  },
+  {
+    "from": 653.51,
+    "to": 654.39,
+    "sid": 261,
+    "location": 2,
+    "content": "作者也指出",
+    "music": 0.0
+  },
+  {
+    "from": 654.39,
+    "to": 656.61,
+    "sid": 262,
+    "location": 2,
+    "content": "我们的注意力存在自然的节奏",
+    "music": 0.0
+  },
+  {
+    "from": 656.61,
+    "to": 657.71,
+    "sid": 263,
+    "location": 2,
+    "content": "研究显示",
+    "music": 0.0
+  },
+  {
+    "from": 657.71,
+    "to": 663.089,
+    "sid": 264,
+    "location": 2,
+    "content": "大多数人在上午中段与下午中段会有两个专注力的高峰期",
+    "music": 0.0
+  },
+  {
+    "from": 663.089,
+    "to": 666.149,
+    "sid": 265,
+    "location": 2,
+    "content": "这段时间大脑的能量较为充沛",
+    "music": 0.0
+  },
+  {
+    "from": 666.149,
+    "to": 667.209,
+    "sid": 266,
+    "location": 2,
+    "content": "适合处理",
+    "music": 0.0
+  },
+  {
+    "from": 667.209,
+    "to": 668.429,
+    "sid": 267,
+    "location": 2,
+    "content": "需要高度集中",
+    "music": 0.0
+  },
+  {
+    "from": 668.429,
+    "to": 670.859,
+    "sid": 268,
+    "location": 2,
+    "content": "与创意的任务相反地",
+    "music": 0.0
+  },
+  {
+    "from": 670.859,
+    "to": 673.059,
+    "sid": 269,
+    "location": 2,
+    "content": "午餐后或傍晚时分",
+    "music": 0.0
+  },
+  {
+    "from": 673.059,
+    "to": 675.01,
+    "sid": 270,
+    "location": 2,
+    "content": "专注力往往会下降",
+    "music": 0.0
+  },
+  {
+    "from": 675.01,
+    "to": 678.07,
+    "sid": 271,
+    "location": 2,
+    "content": "这时候若勉强进行高难度的工作",
+    "music": 0.0
+  },
+  {
+    "from": 678.07,
+    "to": 679.51,
+    "sid": 272,
+    "location": 2,
+    "content": "不仅效率低下",
+    "music": 0.0
+  },
+  {
+    "from": 679.51,
+    "to": 681.27,
+    "sid": 273,
+    "location": 2,
+    "content": "还容易引发挫折感",
+    "music": 0.0
+  },
+  {
+    "from": 681.27,
+    "to": 682.23,
+    "sid": 274,
+    "location": 2,
+    "content": "与其如此",
+    "music": 0.0
+  },
+  {
+    "from": 682.23,
+    "to": 685.75,
+    "sid": 275,
+    "location": 2,
+    "content": "不如安排一些简单例行或具重复性的任务",
+    "music": 0.0
+  },
+  {
+    "from": 685.75,
+    "to": 688.54,
+    "sid": 276,
+    "location": 2,
+    "content": "让自己在自然的节奏里恢复状态",
+    "music": 0.0
+  },
+  {
+    "from": 688.54,
+    "to": 691.51,
+    "sid": 277,
+    "location": 2,
+    "content": "这些洞见带来非常实用的建议",
+    "music": 0.0
+  },
+  {
+    "from": 691.51,
+    "to": 694.63,
+    "sid": 278,
+    "location": 2,
+    "content": "若我们能够认识自己一天中的专注曲线",
+    "music": 0.0
+  },
+  {
+    "from": 694.63,
+    "to": 697.09,
+    "sid": 279,
+    "location": 2,
+    "content": "并根据这些节奏安排任务",
+    "music": 0.0
+  },
+  {
+    "from": 697.09,
+    "to": 699.52,
+    "sid": 280,
+    "location": 2,
+    "content": "就能最大化注意力的效果",
+    "music": 0.0
+  },
+  {
+    "from": 699.52,
+    "to": 705.189,
+    "sid": 281,
+    "location": 2,
+    "content": "将早晨或下午的专注高峰用来处理创造性或需要深度思考的工作",
+    "music": 0.0
+  },
+  {
+    "from": 705.189,
+    "to": 707.849,
+    "sid": 282,
+    "location": 2,
+    "content": "把低潮时段交给小脑的例行任务",
+    "music": 0.0
+  },
+  {
+    "from": 707.849,
+    "to": 710.2,
+    "sid": 283,
+    "location": 2,
+    "content": "能帮助我们避免无谓的消耗",
+    "music": 0.0
+  },
+  {
+    "from": 710.2,
+    "to": 711.24,
+    "sid": 284,
+    "location": 2,
+    "content": "另一方面",
+    "music": 0.0
+  },
+  {
+    "from": 711.24,
+    "to": 713.46,
+    "sid": 285,
+    "location": 2,
+    "content": "刻意保留一些重复性活动",
+    "music": 0.0
+  },
+  {
+    "from": 713.46,
+    "to": 714.62,
+    "sid": 286,
+    "location": 2,
+    "content": "如泡茶",
+    "music": 0.0
+  },
+  {
+    "from": 714.62,
+    "to": 717.06,
+    "sid": 287,
+    "location": 2,
+    "content": "收拾书桌或简单的散步",
+    "music": 0.0
+  },
+  {
+    "from": 717.06,
+    "to": 718.77,
+    "sid": 288,
+    "location": 2,
+    "content": "不仅能舒缓精神",
+    "music": 0.0
+  },
+  {
+    "from": 718.77,
+    "to": 721.35,
+    "sid": 289,
+    "location": 2,
+    "content": "还能在不经意间激发灵感",
+    "music": 0.0
+  },
+  {
+    "from": 721.35,
+    "to": 723.07,
+    "sid": 290,
+    "location": 2,
+    "content": "专注的节奏提醒我们",
+    "music": 0.0
+  },
+  {
+    "from": 723.07,
+    "to": 726.73,
+    "sid": 291,
+    "location": 2,
+    "content": "持续逼迫自己保持高效率并不现实",
+    "music": 0.0
+  },
+  {
+    "from": 726.73,
+    "to": 730.73,
+    "sid": 292,
+    "location": 2,
+    "content": "真正长久的生产力来自于理解大脑的运作方式",
+    "music": 0.0
+  },
+  {
+    "from": 730.73,
+    "to": 734.43,
+    "sid": 293,
+    "location": 2,
+    "content": "并在大脑与小脑之间找到适度的平衡",
+    "music": 0.0
+  },
+  {
+    "from": 734.43,
+    "to": 736.69,
+    "sid": 294,
+    "location": 2,
+    "content": "当我们懂得利用自然节奏",
+    "music": 0.0
+  },
+  {
+    "from": 736.69,
+    "to": 739.74,
+    "sid": 295,
+    "location": 2,
+    "content": "并适时让自己进入重复性专注",
+    "music": 0.0
+  },
+  {
+    "from": 739.74,
+    "to": 744.6,
+    "sid": 296,
+    "location": 2,
+    "content": "就能在看似矛盾的放松中重拾更深层次的专注与创造力",
+    "music": 0.0
+  },
+  {
+    "from": 744.6,
+    "to": 747.06,
+    "sid": 297,
+    "location": 2,
+    "content": "在理解专注的自然节奏之后",
+    "music": 0.0
+  },
+  {
+    "from": 747.06,
+    "to": 749.569,
+    "sid": 298,
+    "location": 2,
+    "content": "另一个不容忽视的问题就是中断",
+    "music": 0.0
+  },
+  {
+    "from": 749.569,
+    "to": 753.549,
+    "sid": 299,
+    "location": 2,
+    "content": "无论我们多么努力安排高峰时段处理重要工作",
+    "music": 0.0
+  },
+  {
+    "from": 753.549,
+    "to": 756.029,
+    "sid": 300,
+    "location": 2,
+    "content": "外在干扰总会不请自来",
+    "music": 0.0
+  },
+  {
+    "from": 756.029,
+    "to": 757.41,
+    "sid": 301,
+    "location": 2,
+    "content": "手机的震动",
+    "music": 0.0
+  },
+  {
+    "from": 757.41,
+    "to": 759.07,
+    "sid": 302,
+    "location": 2,
+    "content": "电子邮件的提示声",
+    "music": 0.0
+  },
+  {
+    "from": 759.07,
+    "to": 761.41,
+    "sid": 303,
+    "location": 2,
+    "content": "聊天软体的讯息通知物",
+    "music": 0.0
+  },
+  {
+    "from": 761.41,
+    "to": 763.15,
+    "sid": 304,
+    "location": 2,
+    "content": "像是突如其来的敲门声",
+    "music": 0.0
+  },
+  {
+    "from": 763.15,
+    "to": 766.06,
+    "sid": 305,
+    "location": 2,
+    "content": "把我们从专注的状态硬生生拉开",
+    "music": 0.0
+  },
+  {
+    "from": 766.06,
+    "to": 768.58,
+    "sid": 306,
+    "location": 2,
+    "content": "这些外在中断不仅切断了思路",
+    "music": 0.0
+  },
+  {
+    "from": 768.58,
+    "to": 770.92,
+    "sid": 307,
+    "location": 2,
+    "content": "还让我们必须额外耗费心力",
+    "music": 0.0
+  },
+  {
+    "from": 770.92,
+    "to": 772.74,
+    "sid": 308,
+    "location": 2,
+    "content": "重新找回当下的进度",
+    "music": 0.0
+  },
+  {
+    "from": 772.74,
+    "to": 775.09,
+    "sid": 309,
+    "location": 2,
+    "content": "专注力因此被一再稀释",
+    "music": 0.0
+  },
+  {
+    "from": 775.09,
+    "to": 776.85,
+    "sid": 310,
+    "location": 2,
+    "content": "然而作者指出",
+    "music": 0.0
+  },
+  {
+    "from": 776.85,
+    "to": 778.19,
+    "sid": 311,
+    "location": 2,
+    "content": "更令人惊讶的发现",
+    "music": 0.0
+  },
+  {
+    "from": 778.19,
+    "to": 780.89,
+    "sid": 312,
+    "location": 2,
+    "content": "我们自己往往才是最大的干扰来源",
+    "music": 0.0
+  },
+  {
+    "from": 780.89,
+    "to": 782.01,
+    "sid": 313,
+    "location": 2,
+    "content": "研究显示",
+    "music": 0.0
+  },
+  {
+    "from": 782.01,
+    "to": 785.83,
+    "sid": 314,
+    "location": 2,
+    "content": "人们主动中断工作的频率几乎与外部干扰一样高",
+    "music": 0.0
+  },
+  {
+    "from": 785.83,
+    "to": 786.79,
+    "sid": 315,
+    "location": 2,
+    "content": "也就是说",
+    "music": 0.0
+  },
+  {
+    "from": 786.79,
+    "to": 788.91,
+    "sid": 316,
+    "location": 2,
+    "content": "即便没有任何通知或讯息",
+    "music": 0.0
+  },
+  {
+    "from": 788.91,
+    "to": 791.15,
+    "sid": 317,
+    "location": 2,
+    "content": "我们也会不自觉地打开浏览器",
+    "music": 0.0
+  },
+  {
+    "from": 791.15,
+    "to": 793.98,
+    "sid": 318,
+    "location": 2,
+    "content": "滑手机或突然转向另一件事",
+    "music": 0.0
+  },
+  {
+    "from": 793.98,
+    "to": 796.46,
+    "sid": 319,
+    "location": 2,
+    "content": "这些自我中断并不是偶然",
+    "music": 0.0
+  },
+  {
+    "from": 796.46,
+    "to": 799.72,
+    "sid": 320,
+    "location": 2,
+    "content": "而是受到多种心理因素驱动",
+    "music": 0.0
+  },
+  {
+    "from": 799.72,
+    "to": 802.0,
+    "sid": 321,
+    "location": 2,
+    "content": "当任务过Z单调",
+    "music": 0.0
+  },
+  {
+    "from": 802.0,
+    "to": 803.58,
+    "sid": 322,
+    "location": 2,
+    "content": "我们容易感到无聊",
+    "music": 0.0
+  },
+  {
+    "from": 803.58,
+    "to": 804.82,
+    "sid": 323,
+    "location": 2,
+    "content": "当精神疲倦",
+    "music": 0.0
+  },
+  {
+    "from": 804.82,
+    "to": 806.18,
+    "sid": 324,
+    "location": 2,
+    "content": "意志力下降时",
+    "music": 0.0
+  },
+  {
+    "from": 806.18,
+    "to": 808.45,
+    "sid": 325,
+    "location": 2,
+    "content": "就更容易被新鲜事物吸引",
+    "music": 0.0
+  },
+  {
+    "from": 808.45,
+    "to": 809.51,
+    "sid": 326,
+    "location": 2,
+    "content": "久而久之",
+    "music": 0.0
+  },
+  {
+    "from": 809.51,
+    "to": 811.49,
+    "sid": 327,
+    "location": 2,
+    "content": "这些习惯变成一种惯性",
+    "music": 0.0
+  },
+  {
+    "from": 811.49,
+    "to": 814.65,
+    "sid": 328,
+    "location": 2,
+    "content": "让我们在不知不觉中一次次打断自己",
+    "music": 0.0
+  },
+  {
+    "from": 814.65,
+    "to": 815.61,
+    "sid": 329,
+    "location": 2,
+    "content": "作者解释",
+    "music": 0.0
+  },
+  {
+    "from": 815.61,
+    "to": 818.95,
+    "sid": 330,
+    "location": 2,
+    "content": "这种倾向其实是大脑被条件化的结果",
+    "music": 0.0
+  },
+  {
+    "from": 818.95,
+    "to": 821.05,
+    "sid": 331,
+    "location": 2,
+    "content": "当外部的讯息频率降低",
+    "music": 0.0
+  },
+  {
+    "from": 821.05,
+    "to": 824.15,
+    "sid": 332,
+    "location": 2,
+    "content": "人们反而会主动去寻找新的刺激",
+    "music": 0.0
+  },
+  {
+    "from": 824.15,
+    "to": 827.069,
+    "sid": 333,
+    "location": 2,
+    "content": "好像要维持一种固定的中断节奏",
+    "music": 0.0
+  },
+  {
+    "from": 827.069,
+    "to": 828.869,
+    "sid": 334,
+    "location": 2,
+    "content": "他在实验中观察到",
+    "music": 0.0
+  },
+  {
+    "from": 828.869,
+    "to": 830.869,
+    "sid": 335,
+    "location": 2,
+    "content": "如果一小时内通知减少",
+    "music": 0.0
+  },
+  {
+    "from": 830.869,
+    "to": 833.62,
+    "sid": 336,
+    "location": 2,
+    "content": "人们会明显增加自我中断的次数",
+    "music": 0.0
+  },
+  {
+    "from": 833.62,
+    "to": 836.45,
+    "sid": 337,
+    "location": 2,
+    "content": "仿佛大脑已经被训练成习惯干扰",
+    "music": 0.0
+  },
+  {
+    "from": 836.45,
+    "to": 840.63,
+    "sid": 338,
+    "location": 2,
+    "content": "这种模式显示专注力的下降不仅来自科技的设计",
+    "music": 0.0
+  },
+  {
+    "from": 840.63,
+    "to": 843.39,
+    "sid": 339,
+    "location": 2,
+    "content": "还来自我们内心对刺激的渴望",
+    "music": 0.0
+  },
+  {
+    "from": 843.39,
+    "to": 846.69,
+    "sid": 340,
+    "location": 2,
+    "content": "自我中断的后果比外在干扰更为严重",
+    "music": 0.0
+  },
+  {
+    "from": 846.69,
+    "to": 850.01,
+    "sid": 341,
+    "location": 2,
+    "content": "因为我们往往在任务的中途就突然停下",
+    "music": 0.0
+  },
+  {
+    "from": 850.01,
+    "to": 853.05,
+    "sid": 342,
+    "location": 2,
+    "content": "这意味着原本的思路被硬生生打断",
+    "music": 0.0
+  },
+  {
+    "from": 853.05,
+    "to": 855.579,
+    "sid": 343,
+    "location": 2,
+    "content": "重新衔接时难度更高",
+    "music": 0.0
+  },
+  {
+    "from": 855.579,
+    "to": 857.119,
+    "sid": 344,
+    "location": 2,
+    "content": "正如书中提醒的",
+    "music": 0.0
+  },
+  {
+    "from": 857.119,
+    "to": 859.879,
+    "sid": 345,
+    "location": 2,
+    "content": "不要在任务进行到一半时自我打断",
+    "music": 0.0
+  },
+  {
+    "from": 859.879,
+    "to": 863.02,
+    "sid": 346,
+    "location": 2,
+    "content": "因为那样会让你更难重新回到正轨",
+    "music": 0.0
+  },
+  {
+    "from": 863.02,
+    "to": 864.66,
+    "sid": 347,
+    "location": 2,
+    "content": "这不只是警告",
+    "music": 0.0
+  },
+  {
+    "from": 864.66,
+    "to": 867.65,
+    "sid": 348,
+    "location": 2,
+    "content": "更是对我们日常行为的一种写照",
+    "music": 0.0
+  },
+  {
+    "from": 867.65,
+    "to": 871.27,
+    "sid": 349,
+    "location": 2,
+    "content": "每一次中断都像是在脑海里打开一个新的分支",
+    "music": 0.0
+  },
+  {
+    "from": 871.27,
+    "to": 873.05,
+    "sid": 350,
+    "location": 2,
+    "content": "让原本的任务被搁置",
+    "music": 0.0
+  },
+  {
+    "from": 873.05,
+    "to": 875.72,
+    "sid": 351,
+    "location": 2,
+    "content": "最终耗费更多时间才能完成",
+    "music": 0.0
+  },
+  {
+    "from": 875.72,
+    "to": 877.78,
+    "sid": 352,
+    "location": 2,
+    "content": "理解了这些干扰的来源后",
+    "music": 0.0
+  },
+  {
+    "from": 877.78,
+    "to": 880.99,
+    "sid": 353,
+    "location": 2,
+    "content": "作者提出一些实用的方法来减少损耗",
+    "music": 0.0
+  },
+  {
+    "from": 880.99,
+    "to": 884.37,
+    "sid": 354,
+    "location": 2,
+    "content": "第一个关键是选择自然的断点在休息",
+    "music": 0.0
+  },
+  {
+    "from": 884.37,
+    "to": 887.37,
+    "sid": 355,
+    "location": 2,
+    "content": "而不是随意在任务中断停下",
+    "music": 0.0
+  },
+  {
+    "from": 887.37,
+    "to": 888.43,
+    "sid": 356,
+    "location": 2,
+    "content": "举例来说",
+    "music": 0.0
+  },
+  {
+    "from": 888.43,
+    "to": 891.77,
+    "sid": 357,
+    "location": 2,
+    "content": "完成一个段落或寄出一封邮件后再休息",
+    "music": 0.0
+  },
+  {
+    "from": 891.77,
+    "to": 894.61,
+    "sid": 358,
+    "location": 2,
+    "content": "比在思路正要展开时突然停下",
+    "music": 0.0
+  },
+  {
+    "from": 894.61,
+    "to": 896.2,
+    "sid": 359,
+    "location": 2,
+    "content": "更容易回到原轨",
+    "music": 0.0
+  },
+  {
+    "from": 896.2,
+    "to": 901.13,
+    "sid": 360,
+    "location": 2,
+    "content": "其次减少外部干扰的最好方式就是提前管理通知",
+    "music": 0.0
+  },
+  {
+    "from": 901.13,
+    "to": 903.01,
+    "sid": 361,
+    "location": 2,
+    "content": "将不必要的提醒关闭",
+    "music": 0.0
+  },
+  {
+    "from": 903.01,
+    "to": 905.95,
+    "sid": 362,
+    "location": 2,
+    "content": "把即时通讯的提示声暂时静音",
+    "music": 0.0
+  },
+  {
+    "from": 905.95,
+    "to": 909.35,
+    "sid": 363,
+    "location": 2,
+    "content": "可以有效降低大脑被强迫切换的次数",
+    "music": 0.0
+  },
+  {
+    "from": 909.35,
+    "to": 910.95,
+    "sid": 364,
+    "location": 2,
+    "content": "除了控制外部环境",
+    "music": 0.0
+  },
+  {
+    "from": 910.95,
+    "to": 913.51,
+    "sid": 365,
+    "location": 2,
+    "content": "还需要有意识地管理沟通方式",
+    "music": 0.0
+  },
+  {
+    "from": 913.51,
+    "to": 914.53,
+    "sid": 366,
+    "location": 2,
+    "content": "作者认为",
+    "music": 0.0
+  },
+  {
+    "from": 914.53,
+    "to": 918.49,
+    "sid": 367,
+    "location": 2,
+    "content": "将回复讯息或处理电子邮件集中在固定时段",
+    "music": 0.0
+  },
+  {
+    "from": 918.49,
+    "to": 921.18,
+    "sid": 368,
+    "location": 2,
+    "content": "比随时处理更有助于维持专注",
+    "music": 0.0
+  },
+  {
+    "from": 921.18,
+    "to": 923.3,
+    "sid": 369,
+    "location": 2,
+    "content": "这种批次处理的方式",
+    "music": 0.0
+  },
+  {
+    "from": 923.3,
+    "to": 927.12,
+    "sid": 370,
+    "location": 2,
+    "content": "让我们在有限时间内专心应对外部需求",
+    "music": 0.0
+  },
+  {
+    "from": 927.12,
+    "to": 930.079,
+    "sid": 371,
+    "location": 2,
+    "content": "而不至于让他们整天占据注意力",
+    "music": 0.0
+  },
+  {
+    "from": 930.079,
+    "to": 932.539,
+    "sid": 372,
+    "location": 2,
+    "content": "当我们能够主动设定规则",
+    "music": 0.0
+  },
+  {
+    "from": 932.539,
+    "to": 934.779,
+    "sid": 373,
+    "location": 2,
+    "content": "而不是被动接受中断",
+    "music": 0.0
+  },
+  {
+    "from": 934.779,
+    "to": 937.95,
+    "sid": 374,
+    "location": 2,
+    "content": "就能重新掌握专注的主导权",
+    "music": 0.0
+  },
+  {
+    "from": 937.95,
+    "to": 939.45,
+    "sid": 375,
+    "location": 2,
+    "content": "中断无可避免",
+    "music": 0.0
+  },
+  {
+    "from": 939.45,
+    "to": 942.4,
+    "sid": 376,
+    "location": 2,
+    "content": "但透过理解外在与自我制造的差别",
+    "music": 0.0
+  },
+  {
+    "from": 942.4,
+    "to": 944.8,
+    "sid": 377,
+    "location": 2,
+    "content": "并有意识地减少不必要的干扰",
+    "music": 0.0
+  },
+  {
+    "from": 944.8,
+    "to": 948.49,
+    "sid": 378,
+    "location": 2,
+    "content": "我们能更清楚地看见专注力流失的根源",
+    "music": 0.0
+  },
+  {
+    "from": 948.49,
+    "to": 951.31,
+    "sid": 379,
+    "location": 2,
+    "content": "学会在自然的节奏里安排任务",
+    "music": 0.0
+  },
+  {
+    "from": 951.31,
+    "to": 953.33,
+    "sid": 380,
+    "location": 2,
+    "content": "并在正确的时间点休息",
+    "music": 0.0
+  },
+  {
+    "from": 953.33,
+    "to": 955.23,
+    "sid": 381,
+    "location": 2,
+    "content": "不仅能减少切换的代价",
+    "music": 0.0
+  },
+  {
+    "from": 955.23,
+    "to": 958.9,
+    "sid": 382,
+    "location": 2,
+    "content": "也能让我们重新感受到专注带来的流畅感",
+    "music": 0.0
+  },
+  {
+    "from": 958.9,
+    "to": 960.92,
+    "sid": 383,
+    "location": 2,
+    "content": "从中断的现象往下看",
+    "music": 0.0
+  },
+  {
+    "from": 960.92,
+    "to": 961.7,
+    "sid": 384,
+    "location": 2,
+    "content": "可以发现",
+    "music": 0.0
+  },
+  {
+    "from": 961.7,
+    "to": 966.19,
+    "sid": 385,
+    "location": 2,
+    "content": "真正推动这股潮流的力量其实来自科技与文化的结合",
+    "music": 0.0
+  },
+  {
+    "from": 966.19,
+    "to": 969.81,
+    "sid": 386,
+    "location": 2,
+    "content": "网络的设计本身就像是我们大脑的镜像",
+    "music": 0.0
+  },
+  {
+    "from": 969.81,
+    "to": 973.57,
+    "sid": 387,
+    "location": 2,
+    "content": "人类记忆的运作方式是联想式的一个想法",
+    "music": 0.0
+  },
+  {
+    "from": 973.57,
+    "to": 975.26,
+    "sid": 388,
+    "location": 2,
+    "content": "会勾起另一个想法",
+    "music": 0.0
+  },
+  {
+    "from": 975.26,
+    "to": 978.75,
+    "sid": 389,
+    "location": 2,
+    "content": "而超连结正是这种模式的数位化再现",
+    "music": 0.0
+  },
+  {
+    "from": 978.75,
+    "to": 980.53,
+    "sid": 390,
+    "location": 2,
+    "content": "当我们点开一个网页时",
+    "music": 0.0
+  },
+  {
+    "from": 980.53,
+    "to": 982.85,
+    "sid": 391,
+    "location": 2,
+    "content": "总会被页面上的新连接吸引",
+    "music": 0.0
+  },
+  {
+    "from": 982.85,
+    "to": 984.47,
+    "sid": 392,
+    "location": 2,
+    "content": "然后跳到另一个主题",
+    "music": 0.0
+  },
+  {
+    "from": 984.47,
+    "to": 987.42,
+    "sid": 393,
+    "location": 2,
+    "content": "最后甚至完全忘了当初的搜寻目的",
+    "music": 0.0
+  },
+  {
+    "from": 987.42,
+    "to": 989.96,
+    "sid": 394,
+    "location": 2,
+    "content": "这种看似自由探索的模式",
+    "music": 0.0
+  },
+  {
+    "from": 989.96,
+    "to": 992.329,
+    "sid": 395,
+    "location": 2,
+    "content": "实际上让人难以停下脚步",
+    "music": 0.0
+  },
+  {
+    "from": 992.329,
+    "to": 994.889,
+    "sid": 396,
+    "location": 2,
+    "content": "因为每一个点击都在刺激大脑",
+    "music": 0.0
+  },
+  {
+    "from": 994.889,
+    "to": 997.24,
+    "sid": 397,
+    "location": 2,
+    "content": "让我们不断寻求下一个延伸",
+    "music": 0.0
+  },
+  {
+    "from": 997.24,
+    "to": 998.3,
+    "sid": 398,
+    "location": 2,
+    "content": "作者认为",
+    "music": 0.0
+  },
+  {
+    "from": 998.3,
+    "to": 1001.95,
+    "sid": 399,
+    "location": 2,
+    "content": "社群媒体更是将这种特性推向极致",
+    "music": 0.0
+  },
+  {
+    "from": 1001.95,
+    "to": 1005.07,
+    "sid": 400,
+    "location": 2,
+    "content": "他们的演算法并不是随机呈现内容",
+    "music": 0.0
+  },
+  {
+    "from": 1005.07,
+    "to": 1008.3,
+    "sid": 401,
+    "location": 2,
+    "content": "而是精准计算什么最能吸引你的目光",
+    "music": 0.0
+  },
+  {
+    "from": 1008.3,
+    "to": 1012.089,
+    "sid": 402,
+    "location": 2,
+    "content": "每一次按赞或新贴文会带来短暂的快感",
+    "music": 0.0
+  },
+  {
+    "from": 1012.089,
+    "to": 1014.369,
+    "sid": 403,
+    "location": 2,
+    "content": "这种快感来自多巴胺的释放",
+    "music": 0.0
+  },
+  {
+    "from": 1014.369,
+    "to": 1016.409,
+    "sid": 404,
+    "location": 2,
+    "content": "当我们感受到一点愉悦时",
+    "music": 0.0
+  },
+  {
+    "from": 1016.409,
+    "to": 1019.44,
+    "sid": 405,
+    "location": 2,
+    "content": "大脑会渴望再次获得同样的刺激",
+    "music": 0.0
+  },
+  {
+    "from": 1019.44,
+    "to": 1023.44,
+    "sid": 406,
+    "location": 2,
+    "content": "于是我们滑动的动作就成了一种条件反射",
+    "music": 0.0
+  },
+  {
+    "from": 1023.44,
+    "to": 1025.849,
+    "sid": 407,
+    "location": 2,
+    "content": "无意识的追逐下一个更新",
+    "music": 0.0
+  },
+  {
+    "from": 1025.849,
+    "to": 1028.029,
+    "sid": 408,
+    "location": 2,
+    "content": "这不只是单纯的娱乐消遣",
+    "music": 0.0
+  },
+  {
+    "from": 1028.029,
+    "to": 1030.04,
+    "sid": 409,
+    "location": 2,
+    "content": "而是一种心理上的制约",
+    "music": 0.0
+  },
+  {
+    "from": 1030.04,
+    "to": 1033.14,
+    "sid": 410,
+    "location": 2,
+    "content": "逐渐侵蚀我们长时间专注的能力",
+    "music": 0.0
+  },
+  {
+    "from": 1033.14,
+    "to": 1034.82,
+    "sid": 411,
+    "location": 2,
+    "content": "除了科技产品本身",
+    "music": 0.0
+  },
+  {
+    "from": 1034.82,
+    "to": 1037.5,
+    "sid": 412,
+    "location": 2,
+    "content": "广泛的文化也在助长这种趋势",
+    "music": 0.0
+  },
+  {
+    "from": 1037.5,
+    "to": 1041.67,
+    "sid": 413,
+    "location": 2,
+    "content": "电影的平均镜头时长在过去几十年中不断缩短",
+    "music": 0.0
+  },
+  {
+    "from": 1041.67,
+    "to": 1044.67,
+    "sid": 414,
+    "location": 2,
+    "content": "现在往往只有几秒钟就切换一次画面",
+    "music": 0.0
+  },
+  {
+    "from": 1044.67,
+    "to": 1046.39,
+    "sid": 415,
+    "location": 2,
+    "content": "电视广告也越来越短",
+    "music": 0.0
+  },
+  {
+    "from": 1046.39,
+    "to": 1048.49,
+    "sid": 416,
+    "location": 2,
+    "content": "六秒的片段已经成为常态",
+    "music": 0.0
+  },
+  {
+    "from": 1048.49,
+    "to": 1051.23,
+    "sid": 417,
+    "location": 2,
+    "content": "网络上更是讲求快速传递讯息",
+    "music": 0.0
+  },
+  {
+    "from": 1051.23,
+    "to": 1055.21,
+    "sid": 418,
+    "location": 2,
+    "content": "从twitter的字数限制到短语音的爆发式流行",
+    "music": 0.0
+  },
+  {
+    "from": 1055.21,
+    "to": 1059.179,
+    "sid": 419,
+    "location": 2,
+    "content": "都让人习惯于接收高度浓缩的片段式内容",
+    "music": 0.0
+  },
+  {
+    "from": 1059.179,
+    "to": 1062.099,
+    "sid": 420,
+    "location": 2,
+    "content": "当我们每天都浸泡在这样的媒体环境里",
+    "music": 0.0
+  },
+  {
+    "from": 1062.099,
+    "to": 1065.299,
+    "sid": 421,
+    "location": 2,
+    "content": "注意力自然被塑造成只能承受短暂的刺激",
+    "music": 0.0
+  },
+  {
+    "from": 1065.299,
+    "to": 1067.429,
+    "sid": 422,
+    "location": 2,
+    "content": "难以忍受长时间的专注",
+    "music": 0.0
+  },
+  {
+    "from": 1067.429,
+    "to": 1070.929,
+    "sid": 423,
+    "location": 2,
+    "content": "这些趋势不仅仅是反映我们注意力的下降",
+    "music": 0.0
+  },
+  {
+    "from": 1070.929,
+    "to": 1073.55,
+    "sid": 424,
+    "location": 2,
+    "content": "它们同时也在加速这种下降",
+    "music": 0.0
+  },
+  {
+    "from": 1073.55,
+    "to": 1074.67,
+    "sid": 425,
+    "location": 2,
+    "content": "作者指出",
+    "music": 0.0
+  },
+  {
+    "from": 1074.67,
+    "to": 1077.79,
+    "sid": 426,
+    "location": 2,
+    "content": "文化正在不断条件化我们的思维方式",
+    "music": 0.0
+  },
+  {
+    "from": 1077.79,
+    "to": 1080.36,
+    "sid": 427,
+    "location": 2,
+    "content": "让短注意力成为一种常态",
+    "music": 0.0
+  },
+  {
+    "from": 1080.36,
+    "to": 1084.29,
+    "sid": 428,
+    "location": 2,
+    "content": "当所有的内容都被设计成快速消费的形式",
+    "music": 0.0
+  },
+  {
+    "from": 1084.29,
+    "to": 1086.13,
+    "sid": 429,
+    "location": 2,
+    "content": "专注力就不再被鼓励",
+    "music": 0.0
+  },
+  {
+    "from": 1086.13,
+    "to": 1088.69,
+    "sid": 430,
+    "location": 2,
+    "content": "甚至逐渐失去存在的空间",
+    "music": 0.0
+  },
+  {
+    "from": 1088.69,
+    "to": 1092.21,
+    "sid": 431,
+    "location": 2,
+    "content": "这解释了为什么越来越多人在阅读长篇文章",
+    "music": 0.0
+  },
+  {
+    "from": 1092.21,
+    "to": 1095.21,
+    "sid": 432,
+    "location": 2,
+    "content": "或专注于复杂任务时感到焦躁",
+    "music": 0.0
+  },
+  {
+    "from": 1095.21,
+    "to": 1099.28,
+    "sid": 433,
+    "location": 2,
+    "content": "因为他们已经被环境训练成难以维持耐心",
+    "music": 0.0
+  },
+  {
+    "from": 1099.28,
+    "to": 1100.62,
+    "sid": 434,
+    "location": 2,
+    "content": "面对这样的挑战",
+    "music": 0.0
+  },
+  {
+    "from": 1100.62,
+    "to": 1103.36,
+    "sid": 435,
+    "location": 2,
+    "content": "解决方式并不是单靠个人的意志力",
+    "music": 0.0
+  },
+  {
+    "from": 1103.36,
+    "to": 1104.34,
+    "sid": 436,
+    "location": 2,
+    "content": "作者强调",
+    "music": 0.0
+  },
+  {
+    "from": 1104.34,
+    "to": 1105.98,
+    "sid": 437,
+    "location": 2,
+    "content": "除了个人习惯的调整",
+    "music": 0.0
+  },
+  {
+    "from": 1105.98,
+    "to": 1108.79,
+    "sid": 438,
+    "location": 2,
+    "content": "社会层面的制度设计也非常重要",
+    "music": 0.0
+  },
+  {
+    "from": 1108.79,
+    "to": 1111.63,
+    "sid": 439,
+    "location": 2,
+    "content": "部分国家已经实施所谓的窜线权",
+    "music": 0.0
+  },
+  {
+    "from": 1111.63,
+    "to": 1116.45,
+    "sid": 440,
+    "location": 2,
+    "content": "保障员工在下班后不必随时回复电子邮件或讯息",
+    "music": 0.0
+  },
+  {
+    "from": 1116.45,
+    "to": 1119.49,
+    "sid": 441,
+    "location": 2,
+    "content": "让人能在工作之外真正休息",
+    "music": 0.0
+  },
+  {
+    "from": 1119.49,
+    "to": 1122.83,
+    "sid": 442,
+    "location": 2,
+    "content": "这种制度的核心并非单纯减少工作",
+    "music": 0.0
+  },
+  {
+    "from": 1122.83,
+    "to": 1125.47,
+    "sid": 443,
+    "location": 2,
+    "content": "而是承认专注力和休息的价值",
+    "music": 0.0
+  },
+  {
+    "from": 1125.47,
+    "to": 1128.41,
+    "sid": 444,
+    "location": 2,
+    "content": "让人能够在该专注时全心投入",
+    "music": 0.0
+  },
+  {
+    "from": 1128.41,
+    "to": 1130.699,
+    "sid": 445,
+    "location": 2,
+    "content": "在该休息时不必内疚",
+    "music": 0.0
+  },
+  {
+    "from": 1130.699,
+    "to": 1133.219,
+    "sid": 446,
+    "location": 2,
+    "content": "此外企业文化也能发挥作用",
+    "music": 0.0
+  },
+  {
+    "from": 1133.219,
+    "to": 1136.63,
+    "sid": 447,
+    "location": 2,
+    "content": "若一家公司鼓励员工全天候保持在线",
+    "music": 0.0
+  },
+  {
+    "from": 1136.63,
+    "to": 1139.91,
+    "sid": 448,
+    "location": 2,
+    "content": "就等于默认注意力可以被无限制地切割",
+    "music": 0.0
+  },
+  {
+    "from": 1139.91,
+    "to": 1142.57,
+    "sid": 449,
+    "location": 2,
+    "content": "但如果能推行集中处理讯息的政策",
+    "music": 0.0
+  },
+  {
+    "from": 1142.57,
+    "to": 1145.13,
+    "sid": 450,
+    "location": 2,
+    "content": "例如设定特定时段回复邮件",
+    "music": 0.0
+  },
+  {
+    "from": 1145.13,
+    "to": 1147.09,
+    "sid": 451,
+    "location": 2,
+    "content": "或是避免会议过度密集",
+    "music": 0.0
+  },
+  {
+    "from": 1147.09,
+    "to": 1149.55,
+    "sid": 452,
+    "location": 2,
+    "content": "专注的空间就会被重新建立",
+    "music": 0.0
+  },
+  {
+    "from": 1149.55,
+    "to": 1152.07,
+    "sid": 453,
+    "location": 2,
+    "content": "这样的改变不仅能减少分心",
+    "music": 0.0
+  },
+  {
+    "from": 1152.07,
+    "to": 1153.89,
+    "sid": 454,
+    "location": 2,
+    "content": "还能提高工作品质",
+    "music": 0.0
+  },
+  {
+    "from": 1153.89,
+    "to": 1157.49,
+    "sid": 455,
+    "location": 2,
+    "content": "因为员工真正有机会全心处理手上的任务",
+    "music": 0.0
+  },
+  {
+    "from": 1157.49,
+    "to": 1160.55,
+    "sid": 456,
+    "location": 2,
+    "content": "短注意力的文化并非一夕之间形成",
+    "music": 0.0
+  },
+  {
+    "from": 1160.55,
+    "to": 1162.45,
+    "sid": 457,
+    "location": 2,
+    "content": "而是科技设计",
+    "music": 0.0
+  },
+  {
+    "from": 1162.45,
+    "to": 1166.1,
+    "sid": 458,
+    "location": 2,
+    "content": "心理制约与社会环境共同作用的结果",
+    "music": 0.0
+  },
+  {
+    "from": 1166.1,
+    "to": 1167.98,
+    "sid": 459,
+    "location": 2,
+    "content": "理解这些结构性的力量",
+    "music": 0.0
+  },
+  {
+    "from": 1167.98,
+    "to": 1171.14,
+    "sid": 460,
+    "location": 2,
+    "content": "能让我们意识到专注力不只是个人选择",
+    "music": 0.0
+  },
+  {
+    "from": 1171.14,
+    "to": 1173.659,
+    "sid": 461,
+    "location": 2,
+    "content": "而是被整个时代牵动的产物",
+    "music": 0.0
+  },
+  {
+    "from": 1173.659,
+    "to": 1177.179,
+    "sid": 462,
+    "location": 2,
+    "content": "唯有透过个人努力与社会制度的双重调整",
+    "music": 0.0
+  },
+  {
+    "from": 1177.179,
+    "to": 1181.53,
+    "sid": 463,
+    "location": 2,
+    "content": "我们才有可能在这样的环境中重新夺回专注的主导权",
+    "music": 0.0
+  },
+  {
+    "from": 1181.53,
+    "to": 1185.03,
+    "sid": 464,
+    "location": 2,
+    "content": "在看到科技与文化如何推动短注意力之后",
+    "music": 0.0
+  },
+  {
+    "from": 1185.03,
+    "to": 1188.38,
+    "sid": 465,
+    "location": 2,
+    "content": "我们更需要正视它对身心的影响",
+    "music": 0.0
+  },
+  {
+    "from": 1188.38,
+    "to": 1190.54,
+    "sid": 466,
+    "location": 2,
+    "content": "长期处于不断切换的状态",
+    "music": 0.0
+  },
+  {
+    "from": 1190.54,
+    "to": 1192.22,
+    "sid": 467,
+    "location": 2,
+    "content": "大脑并非毫无感觉",
+    "music": 0.0
+  },
+  {
+    "from": 1192.22,
+    "to": 1194.72,
+    "sid": 468,
+    "location": 2,
+    "content": "它会以生理的方式展现压力",
+    "music": 0.0
+  },
+  {
+    "from": 1194.72,
+    "to": 1195.9,
+    "sid": 469,
+    "location": 2,
+    "content": "研究显示",
+    "music": 0.0
+  },
+  {
+    "from": 1195.9,
+    "to": 1198.0,
+    "sid": 470,
+    "location": 2,
+    "content": "当我们频繁中断任务时",
+    "music": 0.0
+  },
+  {
+    "from": 1198.0,
+    "to": 1201.2,
+    "sid": 471,
+    "location": 2,
+    "content": "体内压力荷尔蒙皮质醇会明显升高",
+    "music": 0.0
+  },
+  {
+    "from": 1201.2,
+    "to": 1203.48,
+    "sid": 472,
+    "location": 2,
+    "content": "血压和心跳也会加快",
+    "music": 0.0
+  },
+  {
+    "from": 1203.48,
+    "to": 1208.53,
+    "sid": 473,
+    "location": 2,
+    "content": "这些反应原本是为了应对突发状况而设计的战或逃机制",
+    "music": 0.0
+  },
+  {
+    "from": 1208.53,
+    "to": 1210.65,
+    "sid": 474,
+    "location": 2,
+    "content": "但当它每天被反复启动",
+    "music": 0.0
+  },
+  {
+    "from": 1210.65,
+    "to": 1213.58,
+    "sid": 475,
+    "location": 2,
+    "content": "身体就会进入一种长期紧绷的模式",
+    "music": 0.0
+  },
+  {
+    "from": 1213.58,
+    "to": 1215.46,
+    "sid": 476,
+    "location": 2,
+    "content": "最终使人觉得疲累不堪",
+    "music": 0.0
+  },
+  {
+    "from": 1215.46,
+    "to": 1218.98,
+    "sid": 477,
+    "location": 2,
+    "content": "这种隐性的生理负担往往在我们尚未察觉前",
+    "music": 0.0
+  },
+  {
+    "from": 1218.98,
+    "to": 1220.54,
+    "sid": 478,
+    "location": 2,
+    "content": "就已经悄悄累积",
+    "music": 0.0
+  },
+  {
+    "from": 1220.54,
+    "to": 1221.62,
+    "sid": 479,
+    "location": 2,
+    "content": "作者指出",
+    "music": 0.0
+  },
+  {
+    "from": 1221.62,
+    "to": 1224.29,
+    "sid": 480,
+    "location": 2,
+    "content": "个人的性格差异会放大这些影响",
+    "music": 0.0
+  },
+  {
+    "from": 1224.29,
+    "to": 1227.17,
+    "sid": 481,
+    "location": 2,
+    "content": "冲动型的人较难抵挡即时刺激",
+    "music": 0.0
+  },
+  {
+    "from": 1227.17,
+    "to": 1230.34,
+    "sid": 482,
+    "location": 2,
+    "content": "往往更容易被通知或新的想法吸引",
+    "music": 0.0
+  },
+  {
+    "from": 1230.34,
+    "to": 1232.04,
+    "sid": 483,
+    "location": 2,
+    "content": "焦虑倾向较高的人",
+    "music": 0.0
+  },
+  {
+    "from": 1232.04,
+    "to": 1234.8,
+    "sid": 484,
+    "location": 2,
+    "content": "也因为对外界变化过度敏感",
+    "music": 0.0
+  },
+  {
+    "from": 1234.8,
+    "to": 1236.659,
+    "sid": 485,
+    "location": 2,
+    "content": "注意力更容易被打断",
+    "music": 0.0
+  },
+  {
+    "from": 1236.659,
+    "to": 1238.679,
+    "sid": 486,
+    "location": 2,
+    "content": "这些人并不是缺乏意志",
+    "music": 0.0
+  },
+  {
+    "from": 1238.679,
+    "to": 1241.359,
+    "sid": 487,
+    "location": 2,
+    "content": "而是心理特质使他们更脆弱",
+    "music": 0.0
+  },
+  {
+    "from": 1241.359,
+    "to": 1245.05,
+    "sid": 488,
+    "location": 2,
+    "content": "面对数位环境时承受的压力自然更大",
+    "music": 0.0
+  },
+  {
+    "from": 1245.05,
+    "to": 1246.89,
+    "sid": 489,
+    "location": 2,
+    "content": "若缺乏觉察与调整",
+    "music": 0.0
+  },
+  {
+    "from": 1246.89,
+    "to": 1249.43,
+    "sid": 490,
+    "location": 2,
+    "content": "他们就会陷入更频繁的自我中断",
+    "music": 0.0
+  },
+  {
+    "from": 1249.43,
+    "to": 1252.469,
+    "sid": 491,
+    "location": 2,
+    "content": "让专注力和心情同时受到消耗",
+    "music": 0.0
+  },
+  {
+    "from": 1252.469,
+    "to": 1254.889,
+    "sid": 492,
+    "location": 2,
+    "content": "这些中断不只是降低效率",
+    "music": 0.0
+  },
+  {
+    "from": 1254.889,
+    "to": 1257.07,
+    "sid": 493,
+    "location": 2,
+    "content": "还带来沉重的情绪代价",
+    "music": 0.0
+  },
+  {
+    "from": 1257.07,
+    "to": 1258.97,
+    "sid": 494,
+    "location": 2,
+    "content": "许多人在一天结束时",
+    "music": 0.0
+  },
+  {
+    "from": 1258.97,
+    "to": 1260.77,
+    "sid": 495,
+    "location": 2,
+    "content": "常常感到筋疲力尽",
+    "music": 0.0
+  },
+  {
+    "from": 1260.77,
+    "to": 1263.389,
+    "sid": 496,
+    "location": 2,
+    "content": "却无法具体指出自己完成了什么",
+    "music": 0.0
+  },
+  {
+    "from": 1263.389,
+    "to": 1265.849,
+    "sid": 497,
+    "location": 2,
+    "content": "这种落差容易导致愧疚感",
+    "music": 0.0
+  },
+  {
+    "from": 1265.849,
+    "to": 1267.609,
+    "sid": 498,
+    "location": 2,
+    "content": "好像时间被浪费了",
+    "music": 0.0
+  },
+  {
+    "from": 1267.609,
+    "to": 1269.15,
+    "sid": 499,
+    "location": 2,
+    "content": "却又无力掌控",
+    "music": 0.0
+  },
+  {
+    "from": 1269.15,
+    "to": 1270.15,
+    "sid": 500,
+    "location": 2,
+    "content": "长期下来",
+    "music": 0.0
+  },
+  {
+    "from": 1270.15,
+    "to": 1272.41,
+    "sid": 501,
+    "location": 2,
+    "content": "过度刺激的大脑不仅难以放松",
+    "music": 0.0
+  },
+  {
+    "from": 1272.41,
+    "to": 1274.79,
+    "sid": 502,
+    "location": 2,
+    "content": "还会让人习惯于高频率的分心",
+    "music": 0.0
+  },
+  {
+    "from": 1274.79,
+    "to": 1277.469,
+    "sid": 503,
+    "location": 2,
+    "content": "导致休息时依旧心神不宁",
+    "music": 0.0
+  },
+  {
+    "from": 1277.469,
+    "to": 1279.049,
+    "sid": 504,
+    "location": 2,
+    "content": "即使坐在沙发上",
+    "music": 0.0
+  },
+  {
+    "from": 1279.049,
+    "to": 1280.509,
+    "sid": 505,
+    "location": 2,
+    "content": "脑袋也不停切换",
+    "music": 0.0
+  },
+  {
+    "from": 1280.509,
+    "to": 1282.089,
+    "sid": 506,
+    "location": 2,
+    "content": "想注未读的讯息",
+    "music": 0.0
+  },
+  {
+    "from": 1282.089,
+    "to": 1284.8,
+    "sid": 507,
+    "location": 2,
+    "content": "代办的工作或还没回复的朋友",
+    "music": 0.0
+  },
+  {
+    "from": 1284.8,
+    "to": 1288.76,
+    "sid": 508,
+    "location": 2,
+    "content": "这种过度唤醒的状态让人难以真正恢复能量",
+    "music": 0.0
+  },
+  {
+    "from": 1288.76,
+    "to": 1290.84,
+    "sid": 509,
+    "location": 2,
+    "content": "当分心成为生活常态",
+    "music": 0.0
+  },
+  {
+    "from": 1290.84,
+    "to": 1293.19,
+    "sid": 510,
+    "location": 2,
+    "content": "幸福感自然受到侵蚀",
+    "music": 0.0
+  },
+  {
+    "from": 1293.19,
+    "to": 1297.69,
+    "sid": 511,
+    "location": 2,
+    "content": "快乐的关键往往来自专注于一件事情并完成它的满足感",
+    "music": 0.0
+  },
+  {
+    "from": 1297.69,
+    "to": 1301.37,
+    "sid": 512,
+    "location": 2,
+    "content": "然而被切割的注意力却让这种体验越来越稀少",
+    "music": 0.0
+  },
+  {
+    "from": 1301.37,
+    "to": 1303.69,
+    "sid": 513,
+    "location": 2,
+    "content": "长期缺乏完整专注的时刻",
+    "music": 0.0
+  },
+  {
+    "from": 1303.69,
+    "to": 1305.429,
+    "sid": 514,
+    "location": 2,
+    "content": "会让人觉得生活空洞",
+    "music": 0.0
+  },
+  {
+    "from": 1305.429,
+    "to": 1309.229,
+    "sid": 515,
+    "location": 2,
+    "content": "因为再多任务的完成都伴随注焦躁和疲倦",
+    "music": 0.0
+  },
+  {
+    "from": 1309.229,
+    "to": 1311.17,
+    "sid": 516,
+    "location": 2,
+    "content": "而不是深层的满意",
+    "music": 0.0
+  },
+  {
+    "from": 1311.17,
+    "to": 1312.37,
+    "sid": 517,
+    "location": 2,
+    "content": "这种文化下",
+    "music": 0.0
+  },
+  {
+    "from": 1312.37,
+    "to": 1315.33,
+    "sid": 518,
+    "location": 2,
+    "content": "人们容易将价值感与忙碌绑在一起",
+    "music": 0.0
+  },
+  {
+    "from": 1315.33,
+    "to": 1317.98,
+    "sid": 519,
+    "location": 2,
+    "content": "却忽略了是否真正感受到意义",
+    "music": 0.0
+  },
+  {
+    "from": 1317.98,
+    "to": 1321.44,
+    "sid": 520,
+    "location": 2,
+    "content": "这种错位的追求会逐步削弱心理健康",
+    "music": 0.0
+  },
+  {
+    "from": 1321.44,
+    "to": 1324.54,
+    "sid": 521,
+    "location": 2,
+    "content": "甚至影响长远的人际关系与生活品质",
+    "music": 0.0
+  },
+  {
+    "from": 1324.54,
+    "to": 1326.09,
+    "sid": 522,
+    "location": 2,
+    "content": "然而作者强调",
+    "music": 0.0
+  },
+  {
+    "from": 1326.09,
+    "to": 1327.67,
+    "sid": 523,
+    "location": 2,
+    "content": "我们并非注定如此",
+    "music": 0.0
+  },
+  {
+    "from": 1327.67,
+    "to": 1328.99,
+    "sid": 524,
+    "location": 2,
+    "content": "正如书中所写",
+    "music": 0.0
+  },
+  {
+    "from": 1328.99,
+    "to": 1332.11,
+    "sid": 525,
+    "location": 2,
+    "content": "我们并非注定只能拥有短暂的注意力",
+    "music": 0.0
+  },
+  {
+    "from": 1332.11,
+    "to": 1334.27,
+    "sid": 526,
+    "location": 2,
+    "content": "我们可以改变与科技的关系",
+    "music": 0.0
+  },
+  {
+    "from": 1334.27,
+    "to": 1336.46,
+    "sid": 527,
+    "location": 2,
+    "content": "并推动文化上的转变",
+    "music": 0.0
+  },
+  {
+    "from": 1336.46,
+    "to": 1338.82,
+    "sid": 528,
+    "location": 2,
+    "content": "这句话传递出一种希望",
+    "music": 0.0
+  },
+  {
+    "from": 1338.82,
+    "to": 1339.58,
+    "sid": 529,
+    "location": 2,
+    "content": "提醒我们",
+    "music": 0.0
+  },
+  {
+    "from": 1339.58,
+    "to": 1343.04,
+    "sid": 530,
+    "location": 2,
+    "content": "注意力不是被科技完全掌控的结果",
+    "music": 0.0
+  },
+  {
+    "from": 1343.04,
+    "to": 1345.71,
+    "sid": 531,
+    "location": 2,
+    "content": "而是一种可以重新调整的关系",
+    "music": 0.0
+  },
+  {
+    "from": 1345.71,
+    "to": 1347.65,
+    "sid": 532,
+    "location": 2,
+    "content": "透过更健康的使用习惯",
+    "music": 0.0
+  },
+  {
+    "from": 1347.65,
+    "to": 1350.37,
+    "sid": 533,
+    "location": 2,
+    "content": "并在社会层面推动合适的文化转变",
+    "music": 0.0
+  },
+  {
+    "from": 1350.37,
+    "to": 1352.51,
+    "sid": 534,
+    "location": 2,
+    "content": "我们仍有能力重建专注",
+    "music": 0.0
+  },
+  {
+    "from": 1352.51,
+    "to": 1354.87,
+    "sid": 535,
+    "location": 2,
+    "content": "让身心回到稳定与平衡",
+    "music": 0.0
+  },
+  {
+    "from": 1354.87,
+    "to": 1357.59,
+    "sid": 536,
+    "location": 2,
+    "content": "分心带来的代价或许沉重",
+    "music": 0.0
+  },
+  {
+    "from": 1357.59,
+    "to": 1361.36,
+    "sid": 537,
+    "location": 2,
+    "content": "但它同时也显示出我们迫切需要新的方向",
+    "music": 0.0
+  },
+  {
+    "from": 1361.36,
+    "to": 1364.14,
+    "sid": 538,
+    "location": 2,
+    "content": "只有正视情绪与健康的消耗",
+    "music": 0.0
+  },
+  {
+    "from": 1364.14,
+    "to": 1367.4,
+    "sid": 539,
+    "location": 2,
+    "content": "才能意识到专注力不只是提升效率的工具",
+    "music": 0.0
+  },
+  {
+    "from": 1367.4,
+    "to": 1370.25,
+    "sid": 540,
+    "location": 2,
+    "content": "更是幸福感与长期安康的根基",
+    "music": 0.0
+  },
+  {
+    "from": 1370.25,
+    "to": 1373.93,
+    "sid": 541,
+    "location": 2,
+    "content": "在理解了分心对身心带来的沉重代价之后",
+    "music": 0.0
+  },
+  {
+    "from": 1373.93,
+    "to": 1378.139,
+    "sid": 542,
+    "location": 2,
+    "content": "问题的重点就转向如何实际的重拾专注",
+    "music": 0.0
+  },
+  {
+    "from": 1378.139,
+    "to": 1379.119,
+    "sid": 543,
+    "location": 2,
+    "content": "作者认为",
+    "music": 0.0
+  },
+  {
+    "from": 1379.119,
+    "to": 1380.859,
+    "sid": 544,
+    "location": 2,
+    "content": "我们并非无能为力",
+    "music": 0.0
+  },
+  {
+    "from": 1380.859,
+    "to": 1384.84,
+    "sid": 545,
+    "location": 2,
+    "content": "反而能透过一些具体的行动来重建专注与平衡",
+    "music": 0.0
+  },
+  {
+    "from": 1384.84,
+    "to": 1386.9,
+    "sid": 546,
+    "location": 2,
+    "content": "这些方法不只是小技巧",
+    "music": 0.0
+  },
+  {
+    "from": 1386.9,
+    "to": 1389.17,
+    "sid": 547,
+    "location": 2,
+    "content": "而是一种生活态度的转换",
+    "music": 0.0
+  },
+  {
+    "from": 1389.17,
+    "to": 1392.23,
+    "sid": 548,
+    "location": 2,
+    "content": "首先要学会顺应大脑的自然节奏",
+    "music": 0.0
+  },
+  {
+    "from": 1392.23,
+    "to": 1393.39,
+    "sid": 549,
+    "location": 2,
+    "content": "研究指出",
+    "music": 0.0
+  },
+  {
+    "from": 1393.39,
+    "to": 1397.86,
+    "sid": 550,
+    "location": 2,
+    "content": "大部分人在上午中段和下午中段会有两个专注的高峰期",
+    "music": 0.0
+  },
+  {
+    "from": 1397.86,
+    "to": 1403.07,
+    "sid": 551,
+    "location": 2,
+    "content": "这意味著我们应把需要高度思考或创造力的任务安排在这些时间",
+    "music": 0.0
+  },
+  {
+    "from": 1403.07,
+    "to": 1406.26,
+    "sid": 552,
+    "location": 2,
+    "content": "把琐碎的例行事务留给低谷时段",
+    "music": 0.0
+  },
+  {
+    "from": 1406.26,
+    "to": 1409.16,
+    "sid": 553,
+    "location": 2,
+    "content": "当任务与专注曲线相匹配时",
+    "music": 0.0
+  },
+  {
+    "from": 1409.16,
+    "to": 1411.1,
+    "sid": 554,
+    "location": 2,
+    "content": "大脑能更高效的运作",
+    "music": 0.0
+  },
+  {
+    "from": 1411.1,
+    "to": 1413.449,
+    "sid": 555,
+    "location": 2,
+    "content": "完成的成果也会更有品质",
+    "music": 0.0
+  },
+  {
+    "from": 1413.449,
+    "to": 1414.309,
+    "sid": 556,
+    "location": 2,
+    "content": "相反地",
+    "music": 0.0
+  },
+  {
+    "from": 1414.309,
+    "to": 1415.789,
+    "sid": 557,
+    "location": 2,
+    "content": "若在注意力低落时",
+    "music": 0.0
+  },
+  {
+    "from": 1415.789,
+    "to": 1419.28,
+    "sid": 558,
+    "location": 2,
+    "content": "硬逼自己处理困难的工作效率只会降低",
+    "music": 0.0
+  },
+  {
+    "from": 1419.28,
+    "to": 1420.8,
+    "sid": 559,
+    "location": 2,
+    "content": "挫败感也会增加",
+    "music": 0.0
+  },
+  {
+    "from": 1420.8,
+    "to": 1423.59,
+    "sid": 560,
+    "location": 2,
+    "content": "再来适时的休息是不可或缺的",
+    "music": 0.0
+  },
+  {
+    "from": 1423.59,
+    "to": 1424.99,
+    "sid": 561,
+    "location": 2,
+    "content": "作者特别提到",
+    "music": 0.0
+  },
+  {
+    "from": 1424.99,
+    "to": 1428.13,
+    "sid": 562,
+    "location": 2,
+    "content": "走进大自然是一种强而有力的恢复方式",
+    "music": 0.0
+  },
+  {
+    "from": 1428.13,
+    "to": 1430.47,
+    "sid": 563,
+    "location": 2,
+    "content": "即便只是20分钟的绿地散步",
+    "music": 0.0
+  },
+  {
+    "from": 1430.47,
+    "to": 1432.52,
+    "sid": 564,
+    "location": 2,
+    "content": "也能显著改善专注力",
+    "music": 0.0
+  },
+  {
+    "from": 1432.52,
+    "to": 1433.42,
+    "sid": 565,
+    "location": 2,
+    "content": "原因在于",
+    "music": 0.0
+  },
+  {
+    "from": 1433.42,
+    "to": 1437.64,
+    "sid": 566,
+    "location": 2,
+    "content": "自然环境能让大脑暂时从高压刺激中抽离",
+    "music": 0.0
+  },
+  {
+    "from": 1437.64,
+    "to": 1439.3,
+    "sid": 567,
+    "location": 2,
+    "content": "恢复认知资源",
+    "music": 0.0
+  },
+  {
+    "from": 1439.3,
+    "to": 1441.52,
+    "sid": 568,
+    "location": 2,
+    "content": "这与滑手机或看影片不同",
+    "music": 0.0
+  },
+  {
+    "from": 1441.52,
+    "to": 1443.42,
+    "sid": 569,
+    "location": 2,
+    "content": "后者虽然带来短暂放松",
+    "music": 0.0
+  },
+  {
+    "from": 1443.42,
+    "to": 1445.78,
+    "sid": 570,
+    "location": 2,
+    "content": "但其实仍然在消耗注意力",
+    "music": 0.0
+  },
+  {
+    "from": 1445.78,
+    "to": 1448.46,
+    "sid": 571,
+    "location": 2,
+    "content": "真正的休息是让大脑获得喘息",
+    "music": 0.0
+  },
+  {
+    "from": 1448.46,
+    "to": 1451.43,
+    "sid": 572,
+    "location": 2,
+    "content": "而非用另一种刺激取代睡眠",
+    "music": 0.0
+  },
+  {
+    "from": 1451.43,
+    "to": 1453.11,
+    "sid": 573,
+    "location": 2,
+    "content": "也是维护专注的基础",
+    "music": 0.0
+  },
+  {
+    "from": 1453.11,
+    "to": 1455.24,
+    "sid": 574,
+    "location": 2,
+    "content": "当人累积睡眠不足时",
+    "music": 0.0
+  },
+  {
+    "from": 1455.24,
+    "to": 1457.3,
+    "sid": 575,
+    "location": 2,
+    "content": "注意力邮箱无法被补满",
+    "music": 0.0
+  },
+  {
+    "from": 1457.3,
+    "to": 1460.179,
+    "sid": 576,
+    "location": 2,
+    "content": "哪怕是简单的任务也会感到困难",
+    "music": 0.0
+  },
+  {
+    "from": 1460.179,
+    "to": 1461.279,
+    "sid": 577,
+    "location": 2,
+    "content": "作者认为",
+    "music": 0.0
+  },
+  {
+    "from": 1461.279,
+    "to": 1463.739,
+    "sid": 578,
+    "location": 2,
+    "content": "睡眠不足会放大分心的诱惑",
+    "music": 0.0
+  },
+  {
+    "from": 1463.739,
+    "to": 1465.979,
+    "sid": 579,
+    "location": 2,
+    "content": "因为疲倦让自制力下降",
+    "music": 0.0
+  },
+  {
+    "from": 1465.979,
+    "to": 1468.08,
+    "sid": 580,
+    "location": 2,
+    "content": "更容易被外界干扰吸引",
+    "music": 0.0
+  },
+  {
+    "from": 1468.08,
+    "to": 1471.08,
+    "sid": 581,
+    "location": 2,
+    "content": "稳定而充足的睡眠不仅能恢复能量",
+    "music": 0.0
+  },
+  {
+    "from": 1471.08,
+    "to": 1472.9,
+    "sid": 582,
+    "location": 2,
+    "content": "还能帮助情绪稳定",
+    "music": 0.0
+  },
+  {
+    "from": 1472.9,
+    "to": 1475.76,
+    "sid": 583,
+    "location": 2,
+    "content": "使人更能抵抗碎片化的干扰",
+    "music": 0.0
+  },
+  {
+    "from": 1475.76,
+    "to": 1477.52,
+    "sid": 584,
+    "location": 2,
+    "content": "无了生理层面的调整",
+    "music": 0.0
+  },
+  {
+    "from": 1477.52,
+    "to": 1479.659,
+    "sid": 585,
+    "location": 2,
+    "content": "任务的搭配也十分重要",
+    "music": 0.0
+  },
+  {
+    "from": 1479.659,
+    "to": 1481.459,
+    "sid": 586,
+    "location": 2,
+    "content": "大脑与小脑的交替运用",
+    "music": 0.0
+  },
+  {
+    "from": 1481.459,
+    "to": 1482.899,
+    "sid": 587,
+    "location": 2,
+    "content": "能避免过度消耗",
+    "music": 0.0
+  },
+  {
+    "from": 1482.899,
+    "to": 1485.299,
+    "sid": 588,
+    "location": 2,
+    "content": "当我们完成一段高强度的工作后",
+    "music": 0.0
+  },
+  {
+    "from": 1485.299,
+    "to": 1488.52,
+    "sid": 589,
+    "location": 2,
+    "content": "不妨转向一些重复性或低门槛的活动",
+    "music": 0.0
+  },
+  {
+    "from": 1488.52,
+    "to": 1490.969,
+    "sid": 590,
+    "location": 2,
+    "content": "如收拾桌面或泡一杯茶",
+    "music": 0.0
+  },
+  {
+    "from": 1490.969,
+    "to": 1494.469,
+    "sid": 591,
+    "location": 2,
+    "content": "这些看似不起眼的小动作能让思绪平稳下来",
+    "music": 0.0
+  },
+  {
+    "from": 1494.469,
+    "to": 1496.889,
+    "sid": 592,
+    "location": 2,
+    "content": "并在潜意识里酝酿新的想法",
+    "music": 0.0
+  },
+  {
+    "from": 1496.889,
+    "to": 1499.59,
+    "sid": 593,
+    "location": 2,
+    "content": "这种交替不仅维持了工作节奏",
+    "music": 0.0
+  },
+  {
+    "from": 1499.59,
+    "to": 1502.33,
+    "sid": 594,
+    "location": 2,
+    "content": "也让专注力能长时间保持稳定",
+    "music": 0.0
+  },
+  {
+    "from": 1502.33,
+    "to": 1505.94,
+    "sid": 595,
+    "location": 2,
+    "content": "另一个关键是为自己创造负空间",
+    "music": 0.0
+  },
+  {
+    "from": 1505.94,
+    "to": 1508.8,
+    "sid": 596,
+    "location": 2,
+    "content": "作者借用了日本美学中的余白之美",
+    "music": 0.0
+  },
+  {
+    "from": 1508.8,
+    "to": 1509.58,
+    "sid": 597,
+    "location": 2,
+    "content": "提醒我们",
+    "music": 0.0
+  },
+  {
+    "from": 1509.58,
+    "to": 1511.659,
+    "sid": 598,
+    "location": 2,
+    "content": "不要把行程排的满满的",
+    "music": 0.0
+  },
+  {
+    "from": 1511.659,
+    "to": 1513.679,
+    "sid": 599,
+    "location": 2,
+    "content": "若在一个高耗能的任务后",
+    "music": 0.0
+  },
+  {
+    "from": 1513.679,
+    "to": 1516.319,
+    "sid": 600,
+    "location": 2,
+    "content": "立刻进入下一件同样困难的工作",
+    "music": 0.0
+  },
+  {
+    "from": 1516.319,
+    "to": 1519.55,
+    "sid": 601,
+    "location": 2,
+    "content": "大脑就会因为没有缓冲而迅速枯竭",
+    "music": 0.0
+  },
+  {
+    "from": 1519.55,
+    "to": 1521.97,
+    "sid": 602,
+    "location": 2,
+    "content": "刻意留出五到10分钟的间隔",
+    "music": 0.0
+  },
+  {
+    "from": 1521.97,
+    "to": 1524.41,
+    "sid": 603,
+    "location": 2,
+    "content": "让大脑放空或简单走动",
+    "music": 0.0
+  },
+  {
+    "from": 1524.41,
+    "to": 1526.969,
+    "sid": 604,
+    "location": 2,
+    "content": "反而能让下一段任务更有效率",
+    "music": 0.0
+  },
+  {
+    "from": 1526.969,
+    "to": 1530.929,
+    "sid": 605,
+    "location": 2,
+    "content": "这种看似浪费的空白其实是提高专注的秘密武器",
+    "music": 0.0
+  },
+  {
+    "from": 1530.929,
+    "to": 1533.049,
+    "sid": 606,
+    "location": 2,
+    "content": "除了时间与节奏的管理",
+    "music": 0.0
+  },
+  {
+    "from": 1533.049,
+    "to": 1535.06,
+    "sid": 607,
+    "location": 2,
+    "content": "心态上的觉察同样重要",
+    "music": 0.0
+  },
+  {
+    "from": 1535.06,
+    "to": 1539.04,
+    "sid": 608,
+    "location": 2,
+    "content": "作者建议我们在每次准备打开讯息或滑动荧幕时",
+    "music": 0.0
+  },
+  {
+    "from": 1539.04,
+    "to": 1539.86,
+    "sid": 609,
+    "location": 2,
+    "content": "先停下来",
+    "music": 0.0
+  },
+  {
+    "from": 1539.86,
+    "to": 1542.11,
+    "sid": 610,
+    "location": 2,
+    "content": "问自己为什么要做这件事",
+    "music": 0.0
+  },
+  {
+    "from": 1542.11,
+    "to": 1546.53,
+    "sid": 611,
+    "location": 2,
+    "content": "这个短暂的停顿能让行为从自动化变成有意识的选择",
+    "music": 0.0
+  },
+  {
+    "from": 1546.53,
+    "to": 1548.47,
+    "sid": 612,
+    "location": 2,
+    "content": "如只是因为无聊或疲倦",
+    "music": 0.0
+  },
+  {
+    "from": 1548.47,
+    "to": 1550.01,
+    "sid": 613,
+    "location": 2,
+    "content": "就不必立刻执行",
+    "music": 0.0
+  },
+  {
+    "from": 1550.01,
+    "to": 1552.35,
+    "sid": 614,
+    "location": 2,
+    "content": "反而可以尝试伸展或喝水",
+    "music": 0.0
+  },
+  {
+    "from": 1552.35,
+    "to": 1553.87,
+    "sid": 615,
+    "location": 2,
+    "content": "这种潜思的技巧",
+    "music": 0.0
+  },
+  {
+    "from": 1553.87,
+    "to": 1556.47,
+    "sid": 616,
+    "location": 2,
+    "content": "让我们在面对干扰时更有掌控感",
+    "music": 0.0
+  },
+  {
+    "from": 1556.47,
+    "to": 1558.52,
+    "sid": 617,
+    "location": 2,
+    "content": "而不是被习惯牵住走",
+    "music": 0.0
+  },
+  {
+    "from": 1558.52,
+    "to": 1562.04,
+    "sid": 618,
+    "location": 2,
+    "content": "最后环境与制度的界限也不可忽视",
+    "music": 0.0
+  },
+  {
+    "from": 1562.04,
+    "to": 1563.26,
+    "sid": 619,
+    "location": 2,
+    "content": "在个人层面",
+    "music": 0.0
+  },
+  {
+    "from": 1563.26,
+    "to": 1567.34,
+    "sid": 620,
+    "location": 2,
+    "content": "可以将不必要的通知关闭或设定专注时段",
+    "music": 0.0
+  },
+  {
+    "from": 1567.34,
+    "to": 1569.13,
+    "sid": 621,
+    "location": 2,
+    "content": "让手机保持静音",
+    "music": 0.0
+  },
+  {
+    "from": 1569.13,
+    "to": 1570.45,
+    "sid": 622,
+    "location": 2,
+    "content": "在工作场合",
+    "music": 0.0
+  },
+  {
+    "from": 1570.45,
+    "to": 1573.07,
+    "sid": 623,
+    "location": 2,
+    "content": "若能推动团队共同遵守规则",
+    "music": 0.0
+  },
+  {
+    "from": 1573.07,
+    "to": 1577.04,
+    "sid": 624,
+    "location": 2,
+    "content": "例如固定时段回复邮件或避免晚间讯息",
+    "music": 0.0
+  },
+  {
+    "from": 1577.04,
+    "to": 1579.46,
+    "sid": 625,
+    "location": 2,
+    "content": "就能减少彼此造成的干扰",
+    "music": 0.0
+  },
+  {
+    "from": 1579.46,
+    "to": 1581.22,
+    "sid": 626,
+    "location": 2,
+    "content": "这不仅是个人的责任",
+    "music": 0.0
+  },
+  {
+    "from": 1581.22,
+    "to": 1582.78,
+    "sid": 627,
+    "location": 2,
+    "content": "更是文化的塑造",
+    "music": 0.0
+  },
+  {
+    "from": 1582.78,
+    "to": 1585.36,
+    "sid": 628,
+    "location": 2,
+    "content": "当整个环境承认专注的价值",
+    "music": 0.0
+  },
+  {
+    "from": 1585.36,
+    "to": 1587.929,
+    "sid": 629,
+    "location": 2,
+    "content": "人们才能真正保护自己的注意力",
+    "music": 0.0
+  },
+  {
+    "from": 1587.929,
+    "to": 1589.249,
+    "sid": 630,
+    "location": 2,
+    "content": "读完这本书后",
+    "music": 0.0
+  },
+  {
+    "from": 1589.249,
+    "to": 1590.729,
+    "sid": 631,
+    "location": 2,
+    "content": "我最大的感触是",
+    "music": 0.0
+  },
+  {
+    "from": 1590.729,
+    "to": 1594.0,
+    "sid": 632,
+    "location": 2,
+    "content": "这本书并不是教我们更多的效率技巧",
+    "music": 0.0
+  },
+  {
+    "from": 1594.0,
+    "to": 1595.96,
+    "sid": 633,
+    "location": 2,
+    "content": "而是邀请我们重新思考",
+    "music": 0.0
+  },
+  {
+    "from": 1595.96,
+    "to": 1599.04,
+    "sid": 634,
+    "location": 2,
+    "content": "在高度廉洁的世界里该如何生活",
+    "music": 0.0
+  },
+  {
+    "from": 1599.04,
+    "to": 1601.86,
+    "sid": 635,
+    "location": 2,
+    "content": "专注力的流失并非不可逆转",
+    "music": 0.0
+  },
+  {
+    "from": 1601.86,
+    "to": 1605.82,
+    "sid": 636,
+    "location": 2,
+    "content": "它提醒我们要回到根本去检视生活的节奏",
+    "music": 0.0
+  },
+  {
+    "from": 1605.82,
+    "to": 1608.159,
+    "sid": 637,
+    "location": 2,
+    "content": "心态以及社会的规范",
+    "music": 0.0
+  },
+  {
+    "from": 1608.159,
+    "to": 1609.479,
+    "sid": 638,
+    "location": 2,
+    "content": "作者提供的观点",
+    "music": 0.0
+  },
+  {
+    "from": 1609.479,
+    "to": 1610.359,
+    "sid": 639,
+    "location": 2,
+    "content": "让我意识到",
+    "music": 0.0
+  },
+  {
+    "from": 1610.359,
+    "to": 1613.039,
+    "sid": 640,
+    "location": 2,
+    "content": "专注是一种需要刻意维护的能力",
+    "music": 0.0
+  },
+  {
+    "from": 1613.039,
+    "to": 1615.01,
+    "sid": 641,
+    "location": 2,
+    "content": "而不是自然存在的资源",
+    "music": 0.0
+  },
+  {
+    "from": 1615.01,
+    "to": 1616.07,
+    "sid": 642,
+    "location": 2,
+    "content": "更重要的是",
+    "music": 0.0
+  },
+  {
+    "from": 1616.07,
+    "to": 1617.87,
+    "sid": 643,
+    "location": 2,
+    "content": "这本书传递出希望",
+    "music": 0.0
+  },
+  {
+    "from": 1617.87,
+    "to": 1620.33,
+    "sid": 644,
+    "location": 2,
+    "content": "注意力并没有永远被夺走",
+    "music": 0.0
+  },
+  {
+    "from": 1620.33,
+    "to": 1623.35,
+    "sid": 645,
+    "location": 2,
+    "content": "只要透过有意识的设计与选择",
+    "music": 0.0
+  },
+  {
+    "from": 1623.35,
+    "to": 1625.179,
+    "sid": 646,
+    "location": 2,
+    "content": "我们依然能掌控它",
+    "music": 0.0
+  },
+  {
+    "from": 1625.179,
+    "to": 1627.019,
+    "sid": 647,
+    "location": 2,
+    "content": "真正的平衡与幸福",
+    "music": 0.0
+  },
+  {
+    "from": 1627.019,
+    "to": 1628.479,
+    "sid": 648,
+    "location": 2,
+    "content": "不在于做的更多",
+    "music": 0.0
+  },
+  {
+    "from": 1628.479,
+    "to": 1632.21,
+    "sid": 649,
+    "location": 2,
+    "content": "而在于把有限的精力投注在最重要的事情上",
+    "music": 0.0
+  },
+  {
+    "from": 1632.21,
+    "to": 1638.82,
+    "sid": 650,
+    "location": 2,
+    "content": "这种专注所带来的满足感远比忙碌的充实感更能支撑我们走得长远",
+    "music": 0.0
+  }
+]

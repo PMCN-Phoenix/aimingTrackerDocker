@@ -1,0 +1,1658 @@
+[
+  {
+    "from": 0.04,
+    "to": 0.6,
+    "sid": 1,
+    "location": 2,
+    "content": "Hello",
+    "music": 0.0
+  },
+  {
+    "from": 0.6,
+    "to": 1.68,
+    "sid": 2,
+    "location": 2,
+    "content": "今天过得好吗",
+    "music": 0.0
+  },
+  {
+    "from": 2.76,
+    "to": 4.04,
+    "sid": 3,
+    "location": 2,
+    "content": "我想问你一个问题",
+    "music": 0.0
+  },
+  {
+    "from": 5.12,
+    "to": 7.47,
+    "sid": 4,
+    "location": 2,
+    "content": "你有没有尝试过冥想",
+    "music": 0.0
+  },
+  {
+    "from": 7.67,
+    "to": 9.39,
+    "sid": 5,
+    "location": 2,
+    "content": "然后很快就放弃了",
+    "music": 0.0
+  },
+  {
+    "from": 10.43,
+    "to": 12.829,
+    "sid": 6,
+    "location": 2,
+    "content": "因为坐下的第30秒",
+    "music": 0.0
+  },
+  {
+    "from": 12.949,
+    "to": 15.069,
+    "sid": 7,
+    "location": 2,
+    "content": "脑子里就冒出中午吃什么",
+    "music": 0.0
+  },
+  {
+    "from": 16.109,
+    "to": 17.749,
+    "sid": 8,
+    "location": 2,
+    "content": "然后你开始怀疑自己",
+    "music": 0.0
+  },
+  {
+    "from": 18.869,
+    "to": 20.93,
+    "sid": 9,
+    "location": 2,
+    "content": "为什么别人能放空",
+    "music": 0.0
+  },
+  {
+    "from": 20.93,
+    "to": 22.73,
+    "sid": 10,
+    "location": 2,
+    "content": "我脑子反而更吵了",
+    "music": 0.0
+  },
+  {
+    "from": 23.81,
+    "to": 25.29,
+    "sid": 11,
+    "location": 2,
+    "content": "如果你有过这个经历",
+    "music": 0.0
+  },
+  {
+    "from": 26.33,
+    "to": 28.64,
+    "sid": 12,
+    "location": 2,
+    "content": "我要告诉你一个好消息",
+    "music": 0.0
+  },
+  {
+    "from": 28.64,
+    "to": 29.92,
+    "sid": 13,
+    "location": 2,
+    "content": "那不是失败",
+    "music": 0.0
+  },
+  {
+    "from": 31.08,
+    "to": 33.08,
+    "sid": 14,
+    "location": 2,
+    "content": "那恰恰是正念开始的时刻",
+    "music": 0.0
+  },
+  {
+    "from": 34.24,
+    "to": 38.819,
+    "sid": 15,
+    "location": 2,
+    "content": "今天我们要聊的是正念和冥想到底有什么区别",
+    "music": 0.0
+  },
+  {
+    "from": 39.899,
+    "to": 42.339,
+    "sid": 16,
+    "location": 2,
+    "content": "以及怎样练才不走偏",
+    "music": 0.0
+  },
+  {
+    "from": 42.57,
+    "to": 45.34,
+    "sid": 17,
+    "location": 2,
+    "content": "先说一个很多人搞混的事",
+    "music": 0.0
+  },
+  {
+    "from": 45.62,
+    "to": 47.46,
+    "sid": 18,
+    "location": 2,
+    "content": "冥想是一个很大的框",
+    "music": 0.0
+  },
+  {
+    "from": 48.58,
+    "to": 50.54,
+    "sid": 19,
+    "location": 2,
+    "content": "它是多种心智训练的总称",
+    "music": 0.0
+  },
+  {
+    "from": 51.66,
+    "to": 55.67,
+    "sid": 20,
+    "location": 2,
+    "content": "古今中外几千年发展出非常多的方式",
+    "music": 0.0
+  },
+  {
+    "from": 56.75,
+    "to": 57.75,
+    "sid": 21,
+    "location": 2,
+    "content": "有的为了放松",
+    "music": 0.0
+  },
+  {
+    "from": 58.83,
+    "to": 59.79,
+    "sid": 22,
+    "location": 2,
+    "content": "有的为了专注",
+    "music": 0.0
+  },
+  {
+    "from": 60.87,
+    "to": 62.519,
+    "sid": 23,
+    "location": 2,
+    "content": "有的为了慈悲",
+    "music": 0.0
+  },
+  {
+    "from": 62.799,
+    "to": 64.999,
+    "sid": 24,
+    "location": 2,
+    "content": "正念是其中非常具体的一条",
+    "music": 0.0
+  },
+  {
+    "from": 66.119,
+    "to": 67.879,
+    "sid": 25,
+    "location": 2,
+    "content": "你可以从两个维度理解它",
+    "music": 0.0
+  },
+  {
+    "from": 69.039,
+    "to": 71.39,
+    "sid": 26,
+    "location": 2,
+    "content": "第一个是注意力的方向",
+    "music": 0.0
+  },
+  {
+    "from": 71.39,
+    "to": 73.75,
+    "sid": 27,
+    "location": 2,
+    "content": "正念不要求你把念头清空",
+    "music": 0.0
+  },
+  {
+    "from": 74.87,
+    "to": 75.99,
+    "sid": 28,
+    "location": 2,
+    "content": "请记住这句话",
+    "music": 0.0
+  },
+  {
+    "from": 77.11,
+    "to": 78.89,
+    "sid": 29,
+    "location": 2,
+    "content": "他不要求清空",
+    "music": 0.0
+  },
+  {
+    "from": 79.13,
+    "to": 80.73,
+    "sid": 30,
+    "location": 2,
+    "content": "他要求的只是觉察",
+    "music": 0.0
+  },
+  {
+    "from": 81.85,
+    "to": 84.81,
+    "sid": 31,
+    "location": 2,
+    "content": "也就是你知道自己在想什么",
+    "music": 0.0
+  },
+  {
+    "from": 84.81,
+    "to": 86.29,
+    "sid": 32,
+    "location": 2,
+    "content": "然后不跟着他跑",
+    "music": 0.0
+  },
+  {
+    "from": 87.45,
+    "to": 90.13,
+    "sid": 33,
+    "location": 2,
+    "content": "第二个是态度正念",
+    "music": 0.0
+  },
+  {
+    "from": 90.13,
+    "to": 94.41,
+    "sid": 34,
+    "location": 2,
+    "content": "这个念字拆开是今天的金和心底的心",
+    "music": 0.0
+  },
+  {
+    "from": 95.49,
+    "to": 97.93,
+    "sid": 35,
+    "location": 2,
+    "content": "意思就是此刻这颗心",
+    "music": 0.0
+  },
+  {
+    "from": 97.93,
+    "to": 103.34,
+    "sid": 36,
+    "location": 2,
+    "content": "而那个正确的态度是不评判念头来了",
+    "music": 0.0
+  },
+  {
+    "from": 103.34,
+    "to": 105.46,
+    "sid": 37,
+    "location": 2,
+    "content": "你不给他贴不该想的标签",
+    "music": 0.0
+  },
+  {
+    "from": 106.58,
+    "to": 109.58,
+    "sid": 38,
+    "location": 2,
+    "content": "你只是说哦来了",
+    "music": 0.0
+  },
+  {
+    "from": 110.66,
+    "to": 113.4,
+    "sid": 39,
+    "location": 2,
+    "content": "然后让他过去好",
+    "music": 0.0
+  },
+  {
+    "from": 113.4,
+    "to": 114.94,
+    "sid": 40,
+    "location": 2,
+    "content": "我们把场景铺开",
+    "music": 0.0
+  },
+  {
+    "from": 116.02,
+    "to": 120.27,
+    "sid": 41,
+    "location": 2,
+    "content": "你有没有过身体坐在会议室里",
+    "music": 0.0
+  },
+  {
+    "from": 120.55,
+    "to": 123.23,
+    "sid": 42,
+    "location": 2,
+    "content": "脑子已经跑到明天要交的东西上去",
+    "music": 0.0
+  },
+  {
+    "from": 124.23,
+    "to": 127.9,
+    "sid": 43,
+    "location": 2,
+    "content": "你有没有过守在陪孩子搭积木",
+    "music": 0.0
+  },
+  {
+    "from": 129.02,
+    "to": 131.94,
+    "sid": 44,
+    "location": 2,
+    "content": "心里却在想晚上回哪条消息",
+    "music": 0.0
+  },
+  {
+    "from": 131.94,
+    "to": 136.43,
+    "sid": 45,
+    "location": 2,
+    "content": "你有没有过明明已经躺下了",
+    "music": 0.0
+  },
+  {
+    "from": 136.59,
+    "to": 139.55,
+    "sid": 46,
+    "location": 2,
+    "content": "却在脑子里开完三场并不存在的会",
+    "music": 0.0
+  },
+  {
+    "from": 140.59,
+    "to": 142.66,
+    "sid": 47,
+    "location": 2,
+    "content": "这些都是同一件事",
+    "music": 0.0
+  },
+  {
+    "from": 142.66,
+    "to": 144.66,
+    "sid": 48,
+    "location": 2,
+    "content": "你的注意力不在此刻",
+    "music": 0.0
+  },
+  {
+    "from": 145.74,
+    "to": 150.399,
+    "sid": 49,
+    "location": 2,
+    "content": "而正念训练的就是把他接回来的能力",
+    "music": 0.0
+  },
+  {
+    "from": 150.679,
+    "to": 154.879,
+    "sid": 50,
+    "location": 2,
+    "content": "注意接回来这三个字不是不让他跑开",
+    "music": 0.0
+  },
+  {
+    "from": 155.999,
+    "to": 159.579,
+    "sid": 51,
+    "location": 2,
+    "content": "因为让他跑开本来就不是你能控制的",
+    "music": 0.0
+  },
+  {
+    "from": 159.579,
+    "to": 162.25,
+    "sid": 52,
+    "location": 2,
+    "content": "这是大脑的默认模式",
+    "music": 0.0
+  },
+  {
+    "from": 162.45,
+    "to": 164.97,
+    "sid": 53,
+    "location": 2,
+    "content": "神经科学里叫默认模式网络",
+    "music": 0.0
+  },
+  {
+    "from": 166.05,
+    "to": 167.57,
+    "sid": 54,
+    "location": 2,
+    "content": "只要你没在专心做事",
+    "music": 0.0
+  },
+  {
+    "from": 168.69,
+    "to": 170.56,
+    "sid": 55,
+    "location": 2,
+    "content": "它就会自动开机",
+    "music": 0.0
+  },
+  {
+    "from": 170.8,
+    "to": 172.2,
+    "sid": 56,
+    "location": 2,
+    "content": "负责回忆过去",
+    "music": 0.0
+  },
+  {
+    "from": 173.28,
+    "to": 174.08,
+    "sid": 57,
+    "location": 2,
+    "content": "模拟未来",
+    "music": 0.0
+  },
+  {
+    "from": 175.2,
+    "to": 176.76,
+    "sid": 58,
+    "location": 2,
+    "content": "构建关于自我的叙事",
+    "music": 0.0
+  },
+  {
+    "from": 177.84,
+    "to": 179.649,
+    "sid": 59,
+    "location": 2,
+    "content": "你不能关掉它",
+    "music": 0.0
+  },
+  {
+    "from": 179.889,
+    "to": 185.32,
+    "sid": 60,
+    "location": 2,
+    "content": "你能做的只是发现被带走之后温柔的回来",
+    "music": 0.0
+  },
+  {
+    "from": 185.32,
+    "to": 187.4,
+    "sid": 61,
+    "location": 2,
+    "content": "而发现自己被带走了",
+    "music": 0.0
+  },
+  {
+    "from": 187.4,
+    "to": 189.84,
+    "sid": 62,
+    "location": 2,
+    "content": "这一步就叫做觉察",
+    "music": 0.0
+  },
+  {
+    "from": 191.04,
+    "to": 193.33,
+    "sid": 63,
+    "location": 2,
+    "content": "他不是走神的反面",
+    "music": 0.0
+  },
+  {
+    "from": 193.45,
+    "to": 195.37,
+    "sid": 64,
+    "location": 2,
+    "content": "他是走神之后的那一步",
+    "music": 0.0
+  },
+  {
+    "from": 196.53,
+    "to": 199.14,
+    "sid": 65,
+    "location": 2,
+    "content": "所以回到开头那个画面",
+    "music": 0.0
+  },
+  {
+    "from": 199.14,
+    "to": 200.58,
+    "sid": 66,
+    "location": 2,
+    "content": "你坐下来30秒",
+    "music": 0.0
+  },
+  {
+    "from": 200.58,
+    "to": 201.78,
+    "sid": 67,
+    "location": 2,
+    "content": "想到中午吃什么",
+    "music": 0.0
+  },
+  {
+    "from": 202.86,
+    "to": 205.72,
+    "sid": 68,
+    "location": 2,
+    "content": "然后你意识到哦",
+    "music": 0.0
+  },
+  {
+    "from": 205.72,
+    "to": 207.67,
+    "sid": 69,
+    "location": 2,
+    "content": "我想到吃的了",
+    "music": 0.0
+  },
+  {
+    "from": 207.83,
+    "to": 208.67,
+    "sid": 70,
+    "location": 2,
+    "content": "恭喜你",
+    "music": 0.0
+  },
+  {
+    "from": 209.75,
+    "to": 211.75,
+    "sid": 71,
+    "location": 2,
+    "content": "这一刻你已经在正面了",
+    "music": 0.0
+  },
+  {
+    "from": 212.83,
+    "to": 215.43,
+    "sid": 72,
+    "location": 2,
+    "content": "这是我想纠正的最大误区",
+    "music": 0.0
+  },
+  {
+    "from": 215.71,
+    "to": 218.19,
+    "sid": 73,
+    "location": 2,
+    "content": "很多人以为正念是让念头变少",
+    "music": 0.0
+  },
+  {
+    "from": 219.27,
+    "to": 220.69,
+    "sid": 74,
+    "location": 2,
+    "content": "不是的",
+    "music": 0.0
+  },
+  {
+    "from": 220.85,
+    "to": 223.25,
+    "sid": 75,
+    "location": 2,
+    "content": "正念是让你和念头的关系变了",
+    "music": 0.0
+  },
+  {
+    "from": 224.33,
+    "to": 225.77,
+    "sid": 76,
+    "location": 2,
+    "content": "念头还是那些念头",
+    "music": 0.0
+  },
+  {
+    "from": 226.89,
+    "to": 229.49,
+    "sid": 77,
+    "location": 2,
+    "content": "但你从被他们推着走的人",
+    "music": 0.0
+  },
+  {
+    "from": 229.65,
+    "to": 232.33,
+    "sid": 78,
+    "location": 2,
+    "content": "变成站在旁边看着他们经过的人",
+    "music": 0.0
+  },
+  {
+    "from": 233.41,
+    "to": 234.57,
+    "sid": 79,
+    "location": 2,
+    "content": "这里有理论落点",
+    "music": 0.0
+  },
+  {
+    "from": 235.65,
+    "to": 237.67,
+    "sid": 80,
+    "location": 2,
+    "content": "第一个是乔卡巴金",
+    "music": 0.0
+  },
+  {
+    "from": 237.95,
+    "to": 239.09,
+    "sid": 81,
+    "location": 2,
+    "content": "1979年",
+    "music": 0.0
+  },
+  {
+    "from": 239.09,
+    "to": 243.319,
+    "sid": 82,
+    "location": 2,
+    "content": "他在麻省理工医学中心创立了正念减压",
+    "music": 0.0
+  },
+  {
+    "from": 244.399,
+    "to": 245.759,
+    "sid": 83,
+    "location": 2,
+    "content": "也就是NBS2",
+    "music": 0.0
+  },
+  {
+    "from": 246.839,
+    "to": 250.55,
+    "sid": 84,
+    "location": 2,
+    "content": "他的贡献是把正面从宗教语境里取出来",
+    "music": 0.0
+  },
+  {
+    "from": 250.55,
+    "to": 253.079,
+    "sid": 85,
+    "location": 2,
+    "content": "放进了医院和实验室",
+    "music": 0.0
+  },
+  {
+    "from": 253.079,
+    "to": 254.999,
+    "sid": 86,
+    "location": 2,
+    "content": "从此他可以被研究",
+    "music": 0.0
+  },
+  {
+    "from": 256.119,
+    "to": 257.039,
+    "sid": 87,
+    "location": 2,
+    "content": "可以被量化",
+    "music": 0.0
+  },
+  {
+    "from": 258.159,
+    "to": 260.83,
+    "sid": 88,
+    "location": 2,
+    "content": "后来在抑郁复发这个方向上",
+    "music": 0.0
+  },
+  {
+    "from": 260.99,
+    "to": 263.75,
+    "sid": 89,
+    "location": 2,
+    "content": "牛津的马克威廉姆斯",
+    "music": 0.0
+  },
+  {
+    "from": 264.03,
+    "to": 266.23,
+    "sid": 90,
+    "location": 2,
+    "content": "多伦多的金德尔西格尔",
+    "music": 0.0
+  },
+  {
+    "from": 267.39,
+    "to": 269.95,
+    "sid": 91,
+    "location": 2,
+    "content": "剑桥的约翰蒂斯代尔",
+    "music": 0.0
+  },
+  {
+    "from": 270.23,
+    "to": 272.63,
+    "sid": 92,
+    "location": 2,
+    "content": "三位学者融合了认知疗法",
+    "music": 0.0
+  },
+  {
+    "from": 273.71,
+    "to": 275.43,
+    "sid": 93,
+    "location": 2,
+    "content": "发展出正念认知疗法",
+    "music": 0.0
+  },
+  {
+    "from": 276.47,
+    "to": 278.409,
+    "sid": 94,
+    "location": 2,
+    "content": "也就是NBCD",
+    "music": 0.0
+  },
+  {
+    "from": 278.689,
+    "to": 279.969,
+    "sid": 95,
+    "location": 2,
+    "content": "大量研究显示",
+    "music": 0.0
+  },
+  {
+    "from": 281.049,
+    "to": 283.17,
+    "sid": 96,
+    "location": 2,
+    "content": "对于反复发作的抑郁",
+    "music": 0.0
+  },
+  {
+    "from": 283.49,
+    "to": 286.35,
+    "sid": 97,
+    "location": 2,
+    "content": "它能明显降低复发风险",
+    "music": 0.0
+  },
+  {
+    "from": 286.47,
+    "to": 288.23,
+    "sid": 98,
+    "location": 2,
+    "content": "所以正念不是玄学",
+    "music": 0.0
+  },
+  {
+    "from": 289.35,
+    "to": 291.15,
+    "sid": 99,
+    "location": 2,
+    "content": "它是有证据基础的训练",
+    "music": 0.0
+  },
+  {
+    "from": 292.19,
+    "to": 294.47,
+    "sid": 100,
+    "location": 2,
+    "content": "第二个我要提的是act",
+    "music": 0.0
+  },
+  {
+    "from": 294.47,
+    "to": 296.47,
+    "sid": 101,
+    "location": 2,
+    "content": "也就是接纳承诺疗法",
+    "music": 0.0
+  },
+  {
+    "from": 297.55,
+    "to": 300.36,
+    "sid": 102,
+    "location": 2,
+    "content": "创始人叫史蒂文海斯",
+    "music": 0.0
+  },
+  {
+    "from": 300.6,
+    "to": 303.93,
+    "sid": 103,
+    "location": 2,
+    "content": "里面有个核心概念叫认知解离",
+    "music": 0.0
+  },
+  {
+    "from": 304.21,
+    "to": 309.06,
+    "sid": 104,
+    "location": 2,
+    "content": "意思是你和你的想法之间可以拉开距离",
+    "music": 0.0
+  },
+  {
+    "from": 309.06,
+    "to": 311.02,
+    "sid": 105,
+    "location": 2,
+    "content": "比如我很失败这句话",
+    "music": 0.0
+  },
+  {
+    "from": 312.14,
+    "to": 313.99,
+    "sid": 106,
+    "location": 2,
+    "content": "你可以把它变成",
+    "music": 0.0
+  },
+  {
+    "from": 314.27,
+    "to": 317.51,
+    "sid": 107,
+    "location": 2,
+    "content": "我注意到我现在有一个我很失败的想法",
+    "music": 0.0
+  },
+  {
+    "from": 318.59,
+    "to": 321.159,
+    "sid": 108,
+    "location": 2,
+    "content": "你看只加了一个前缀",
+    "music": 0.0
+  },
+  {
+    "from": 321.319,
+    "to": 322.839,
+    "sid": 109,
+    "location": 2,
+    "content": "分量就不一样了",
+    "music": 0.0
+  },
+  {
+    "from": 323.879,
+    "to": 325.519,
+    "sid": 110,
+    "location": 2,
+    "content": "因为你不再是这个想法",
+    "music": 0.0
+  },
+  {
+    "from": 325.519,
+    "to": 328.739,
+    "sid": 111,
+    "location": 2,
+    "content": "本身你是观察到他的那个人",
+    "music": 0.0
+  },
+  {
+    "from": 329.859,
+    "to": 333.62,
+    "sid": 112,
+    "location": 2,
+    "content": "这个小小的位移会带来巨大的自由",
+    "music": 0.0
+  },
+  {
+    "from": 334.78,
+    "to": 337.14,
+    "sid": 113,
+    "location": 2,
+    "content": "好三个方法",
+    "music": 0.0
+  },
+  {
+    "from": 337.26,
+    "to": 342.79,
+    "sid": 114,
+    "location": 2,
+    "content": "第一个每天3分钟的呼吸锚点不需要更久",
+    "music": 0.0
+  },
+  {
+    "from": 344.03,
+    "to": 347.55,
+    "sid": 115,
+    "location": 2,
+    "content": "3分钟就够找个能坐直的位置",
+    "music": 0.0
+  },
+  {
+    "from": 348.67,
+    "to": 351.57,
+    "sid": 116,
+    "location": 2,
+    "content": "椅子上就可以不必盘腿",
+    "music": 0.0
+  },
+  {
+    "from": 352.73,
+    "to": 354.73,
+    "sid": 117,
+    "location": 2,
+    "content": "然后把注意力放在一个地方",
+    "music": 0.0
+  },
+  {
+    "from": 355.77,
+    "to": 357.83,
+    "sid": 118,
+    "location": 2,
+    "content": "这个地方叫锚点",
+    "music": 0.0
+  },
+  {
+    "from": 357.99,
+    "to": 360.35,
+    "sid": 119,
+    "location": 2,
+    "content": "最简单的锚点是鼻端的感觉",
+    "music": 0.0
+  },
+  {
+    "from": 361.47,
+    "to": 364.83,
+    "sid": 120,
+    "location": 2,
+    "content": "空气进去凉凉的出来温温的",
+    "music": 0.0
+  },
+  {
+    "from": 365.91,
+    "to": 367.27,
+    "sid": 121,
+    "location": 2,
+    "content": "你就盯着这个温差",
+    "music": 0.0
+  },
+  {
+    "from": 368.43,
+    "to": 370.62,
+    "sid": 122,
+    "location": 2,
+    "content": "然后念头一定会来",
+    "music": 0.0
+  },
+  {
+    "from": 370.62,
+    "to": 372.46,
+    "sid": 123,
+    "location": 2,
+    "content": "他可能带你走了十秒",
+    "music": 0.0
+  },
+  {
+    "from": 372.46,
+    "to": 374.86,
+    "sid": 124,
+    "location": 2,
+    "content": "你才发现没关系",
+    "music": 0.0
+  },
+  {
+    "from": 375.98,
+    "to": 378.36,
+    "sid": 125,
+    "location": 2,
+    "content": "发现之后不批评自己",
+    "music": 0.0
+  },
+  {
+    "from": 378.36,
+    "to": 379.36,
+    "sid": 126,
+    "location": 2,
+    "content": "不打分",
+    "music": 0.0
+  },
+  {
+    "from": 380.52,
+    "to": 381.99,
+    "sid": 127,
+    "location": 2,
+    "content": "只是回来",
+    "music": 0.0
+  },
+  {
+    "from": 381.99,
+    "to": 387.03,
+    "sid": 128,
+    "location": 2,
+    "content": "这个走开再回来的循环就是练习的全部内容",
+    "music": 0.0
+  },
+  {
+    "from": 388.11,
+    "to": 390.23,
+    "sid": 129,
+    "location": 2,
+    "content": "你每发现一次走神",
+    "music": 0.0
+  },
+  {
+    "from": 390.47,
+    "to": 392.51,
+    "sid": 130,
+    "location": 2,
+    "content": "就等于把这个动作做了一次",
+    "music": 0.0
+  },
+  {
+    "from": 393.59,
+    "to": 395.62,
+    "sid": 131,
+    "location": 2,
+    "content": "不是走神扣一分",
+    "music": 0.0
+  },
+  {
+    "from": 395.94,
+    "to": 397.18,
+    "sid": 132,
+    "location": 2,
+    "content": "是回来加一分",
+    "music": 0.0
+  },
+  {
+    "from": 398.34,
+    "to": 400.38,
+    "sid": 133,
+    "location": 2,
+    "content": "所以请不要说自己做不到",
+    "music": 0.0
+  },
+  {
+    "from": 401.5,
+    "to": 403.36,
+    "sid": 134,
+    "location": 2,
+    "content": "发现自己走神",
+    "music": 0.0
+  },
+  {
+    "from": 403.6,
+    "to": 406.08,
+    "sid": 135,
+    "location": 2,
+    "content": "就说明这一刻你是清醒的",
+    "music": 0.0
+  },
+  {
+    "from": 407.16,
+    "to": 411.43,
+    "sid": 136,
+    "location": 2,
+    "content": "只有睡着的人不会发现自己走神",
+    "music": 0.0
+  },
+  {
+    "from": 411.67,
+    "to": 412.43,
+    "sid": 137,
+    "location": 2,
+    "content": "第二个",
+    "music": 0.0
+  },
+  {
+    "from": 413.55,
+    "to": 416.09,
+    "sid": 138,
+    "location": 2,
+    "content": "给日常动作贴上标记",
+    "music": 0.0
+  },
+  {
+    "from": 416.09,
+    "to": 418.45,
+    "sid": 139,
+    "location": 2,
+    "content": "这个方法不需要额外留时间",
+    "music": 0.0
+  },
+  {
+    "from": 419.53,
+    "to": 421.46,
+    "sid": 140,
+    "location": 2,
+    "content": "你在刷牙的时候",
+    "music": 0.0
+  },
+  {
+    "from": 421.78,
+    "to": 422.94,
+    "sid": 141,
+    "location": 2,
+    "content": "心里默默的说",
+    "music": 0.0
+  },
+  {
+    "from": 424.14,
+    "to": 428.38,
+    "sid": 142,
+    "location": 2,
+    "content": "抬起牙刷碰到牙齿移动",
+    "music": 0.0
+  },
+  {
+    "from": 429.46,
+    "to": 430.7,
+    "sid": 143,
+    "location": 2,
+    "content": "你会觉得有点蠢",
+    "music": 0.0
+  },
+  {
+    "from": 431.82,
+    "to": 436.53,
+    "sid": 144,
+    "location": 2,
+    "content": "但它的作用是把那些无意识完成的动线",
+    "music": 0.0
+  },
+  {
+    "from": 436.81,
+    "to": 438.53,
+    "sid": 145,
+    "location": 2,
+    "content": "重新拉回意识层面",
+    "music": 0.0
+  },
+  {
+    "from": 439.57,
+    "to": 442.05,
+    "sid": 146,
+    "location": 2,
+    "content": "我建议刚开始的人从洗澡开始",
+    "music": 0.0
+  },
+  {
+    "from": 443.13,
+    "to": 446.104,
+    "sid": 147,
+    "location": 2,
+    "content": "因为水流在皮肤上的触感很明确",
+    "music": 0.0
+  },
+  {
+    "from": 446.399,
+    "to": 447.879,
+    "sid": 148,
+    "location": 2,
+    "content": "很容易成为锚点",
+    "music": 0.0
+  },
+  {
+    "from": 449.079,
+    "to": 450.95,
+    "sid": 149,
+    "location": 2,
+    "content": "水流过肩膀时",
+    "music": 0.0
+  },
+  {
+    "from": 451.27,
+    "to": 453.95,
+    "sid": 150,
+    "location": 2,
+    "content": "心里说一句肩膀",
+    "music": 0.0
+  },
+  {
+    "from": 455.11,
+    "to": 459.28,
+    "sid": 151,
+    "location": 2,
+    "content": "然后说男的非常朴素",
+    "music": 0.0
+  },
+  {
+    "from": 460.36,
+    "to": 465.19,
+    "sid": 152,
+    "location": 2,
+    "content": "但做完之后那段时间你的脑子是安静的",
+    "music": 0.0
+  },
+  {
+    "from": 465.19,
+    "to": 469.53,
+    "sid": 153,
+    "location": 2,
+    "content": "第三个给情绪留30秒",
+    "music": 0.0
+  },
+  {
+    "from": 469.73,
+    "to": 471.73,
+    "sid": 154,
+    "location": 2,
+    "content": "下次有强烈情绪升起来",
+    "music": 0.0
+  },
+  {
+    "from": 472.77,
+    "to": 473.83,
+    "sid": 155,
+    "location": 2,
+    "content": "不管是烦躁",
+    "music": 0.0
+  },
+  {
+    "from": 473.83,
+    "to": 476.19,
+    "sid": 156,
+    "location": 2,
+    "content": "委屈还是愤怒",
+    "music": 0.0
+  },
+  {
+    "from": 476.31,
+    "to": 477.59,
+    "sid": 157,
+    "location": 2,
+    "content": "请别立刻行动",
+    "music": 0.0
+  },
+  {
+    "from": 478.63,
+    "to": 479.95,
+    "sid": 158,
+    "location": 2,
+    "content": "也别立刻压下去",
+    "music": 0.0
+  },
+  {
+    "from": 480.99,
+    "to": 482.909,
+    "sid": 159,
+    "location": 2,
+    "content": "你只做一件事",
+    "music": 0.0
+  },
+  {
+    "from": 483.189,
+    "to": 484.709,
+    "sid": 160,
+    "location": 2,
+    "content": "心里默数30秒",
+    "music": 0.0
+  },
+  {
+    "from": 485.869,
+    "to": 490.86,
+    "sid": 161,
+    "location": 2,
+    "content": "在数的过程中去感觉他在身体哪里使胸口发紧",
+    "music": 0.0
+  },
+  {
+    "from": 492.06,
+    "to": 492.94,
+    "sid": 162,
+    "location": 2,
+    "content": "使喉咙堵住",
+    "music": 0.0
+  },
+  {
+    "from": 494.1,
+    "to": 495.83,
+    "sid": 163,
+    "location": 2,
+    "content": "还是胃里下沉",
+    "music": 0.0
+  },
+  {
+    "from": 496.07,
+    "to": 497.31,
+    "sid": 164,
+    "location": 2,
+    "content": "给他一个位置",
+    "music": 0.0
+  },
+  {
+    "from": 498.39,
+    "to": 499.55,
+    "sid": 165,
+    "location": 2,
+    "content": "给他一个形容词",
+    "music": 0.0
+  },
+  {
+    "from": 500.63,
+    "to": 502.83,
+    "sid": 166,
+    "location": 2,
+    "content": "这一步叫躯体标记",
+    "music": 0.0
+  },
+  {
+    "from": 503.07,
+    "to": 505.79,
+    "sid": 167,
+    "location": 2,
+    "content": "它的作用是把一个铺天盖地的东西",
+    "music": 0.0
+  },
+  {
+    "from": 506.83,
+    "to": 509.19,
+    "sid": 168,
+    "location": 2,
+    "content": "变成一个可以被定位的具体感觉",
+    "music": 0.0
+  },
+  {
+    "from": 510.23,
+    "to": 512.35,
+    "sid": 169,
+    "location": 2,
+    "content": "而一旦他能被定位",
+    "music": 0.0
+  },
+  {
+    "from": 512.59,
+    "to": 514.47,
+    "sid": 170,
+    "location": 2,
+    "content": "他就不再是整个你了",
+    "music": 0.0
+  },
+  {
+    "from": 515.67,
+    "to": 516.55,
+    "sid": 171,
+    "location": 2,
+    "content": "30秒之后",
+    "music": 0.0
+  },
+  {
+    "from": 516.55,
+    "to": 518.65,
+    "sid": 172,
+    "location": 2,
+    "content": "如果你还是想反应",
+    "music": 0.0
+  },
+  {
+    "from": 518.65,
+    "to": 519.73,
+    "sid": 173,
+    "location": 2,
+    "content": "那就去做",
+    "music": 0.0
+  },
+  {
+    "from": 520.85,
+    "to": 525.88,
+    "sid": 174,
+    "location": 2,
+    "content": "但我猜很多时候你会发现已经不需要了",
+    "music": 0.0
+  },
+  {
+    "from": 525.88,
+    "to": 527.76,
+    "sid": 175,
+    "location": 2,
+    "content": "最后我想说一个提醒",
+    "music": 0.0
+  },
+  {
+    "from": 528.8,
+    "to": 531.45,
+    "sid": 176,
+    "location": 2,
+    "content": "也是很多人走偏的地方",
+    "music": 0.0
+  },
+  {
+    "from": 531.57,
+    "to": 534.09,
+    "sid": 177,
+    "location": 2,
+    "content": "正念不是为了让自己的状态变好",
+    "music": 0.0
+  },
+  {
+    "from": 535.17,
+    "to": 538.17,
+    "sid": 178,
+    "location": 2,
+    "content": "如果你带着我要平静的目的去练",
+    "music": 0.0
+  },
+  {
+    "from": 538.45,
+    "to": 539.81,
+    "sid": 179,
+    "location": 2,
+    "content": "一旦没有平静",
+    "music": 0.0
+  },
+  {
+    "from": 540.85,
+    "to": 542.93,
+    "sid": 180,
+    "location": 2,
+    "content": "你就会评判这次练习失败",
+    "music": 0.0
+  },
+  {
+    "from": 544.01,
+    "to": 546.09,
+    "sid": 181,
+    "location": 2,
+    "content": "那就又落回去了",
+    "music": 0.0
+  },
+  {
+    "from": 546.21,
+    "to": 547.69,
+    "sid": 182,
+    "location": 2,
+    "content": "正念练的恰恰是",
+    "music": 0.0
+  },
+  {
+    "from": 548.77,
+    "to": 550.77,
+    "sid": 183,
+    "location": 2,
+    "content": "无论现在什么状态",
+    "music": 0.0
+  },
+  {
+    "from": 550.97,
+    "to": 552.65,
+    "sid": 184,
+    "location": 2,
+    "content": "我都可以和她待一会儿",
+    "music": 0.0
+  },
+  {
+    "from": 553.69,
+    "to": 555.95,
+    "sid": 185,
+    "location": 2,
+    "content": "甚至包括烦躁本身",
+    "music": 0.0
+  },
+  {
+    "from": 556.23,
+    "to": 558.63,
+    "sid": 186,
+    "location": 2,
+    "content": "包括那种我怎么还在想的不耐烦",
+    "music": 0.0
+  },
+  {
+    "from": 559.79,
+    "to": 561.63,
+    "sid": 187,
+    "location": 2,
+    "content": "这些全部是练习的材料",
+    "music": 0.0
+  },
+  {
+    "from": 562.71,
+    "to": 564.51,
+    "sid": 188,
+    "location": 2,
+    "content": "他们不是失败",
+    "music": 0.0
+  },
+  {
+    "from": 564.63,
+    "to": 566.75,
+    "sid": 189,
+    "location": 2,
+    "content": "他们只是此刻正在发生的事",
+    "music": 0.0
+  },
+  {
+    "from": 567.83,
+    "to": 569.85,
+    "sid": 190,
+    "location": 2,
+    "content": "所以请不要用力",
+    "music": 0.0
+  },
+  {
+    "from": 570.13,
+    "to": 571.57,
+    "sid": 191,
+    "location": 2,
+    "content": "正念是一次松手",
+    "music": 0.0
+  },
+  {
+    "from": 572.65,
+    "to": 574.38,
+    "sid": 192,
+    "location": 2,
+    "content": "不是一次用剑",
+    "music": 0.0
+  },
+  {
+    "from": 574.66,
+    "to": 576.14,
+    "sid": 193,
+    "location": 2,
+    "content": "念头可以自由的来",
+    "music": 0.0
+  },
+  {
+    "from": 577.26,
+    "to": 579.09,
+    "sid": 194,
+    "location": 2,
+    "content": "也可以自由的走",
+    "music": 0.0
+  },
+  {
+    "from": 579.33,
+    "to": 580.89,
+    "sid": 195,
+    "location": 2,
+    "content": "而你一直在这里",
+    "music": 0.0
+  },
+  {
+    "from": 581.97,
+    "to": 583.69,
+    "sid": 196,
+    "location": 2,
+    "content": "不需要变成更好的自己",
+    "music": 0.0
+  },
+  {
+    "from": 584.81,
+    "to": 588.22,
+    "sid": 197,
+    "location": 2,
+    "content": "只需要回到此刻的自己好",
+    "music": 0.0
+  },
+  {
+    "from": 588.22,
+    "to": 590.16,
+    "sid": 198,
+    "location": 2,
+    "content": "以上就是今天的内容",
+    "music": 0.0
+  },
+  {
+    "from": 591.24,
+    "to": 593.5,
+    "sid": 199,
+    "location": 2,
+    "content": "如果这期对你有帮助",
+    "music": 0.0
+  },
+  {
+    "from": 593.62,
+    "to": 594.66,
+    "sid": 200,
+    "location": 2,
+    "content": "可以点个赞",
+    "music": 0.0
+  },
+  {
+    "from": 595.74,
+    "to": 597.77,
+    "sid": 201,
+    "location": 2,
+    "content": "也可以收藏起来",
+    "music": 0.0
+  },
+  {
+    "from": 597.77,
+    "to": 602.29,
+    "sid": 202,
+    "location": 2,
+    "content": "下次脑子很吵的时候拿出来看看评论区",
+    "music": 0.0
+  },
+  {
+    "from": 602.29,
+    "to": 603.25,
+    "sid": 203,
+    "location": 2,
+    "content": "欢迎你告诉我",
+    "music": 0.0
+  },
+  {
+    "from": 604.37,
+    "to": 606.54,
+    "sid": 204,
+    "location": 2,
+    "content": "你第一次冥想的时候",
+    "music": 0.0
+  },
+  {
+    "from": 606.78,
+    "to": 609.22,
+    "sid": 205,
+    "location": 2,
+    "content": "脑子里冒出来的第一个念头是什么",
+    "music": 0.0
+  },
+  {
+    "from": 610.3,
+    "to": 611.86,
+    "sid": 206,
+    "location": 2,
+    "content": "我是做心理学内容的",
+    "music": 0.0
+  },
+  {
+    "from": 612.94,
+    "to": 614.12,
+    "sid": 207,
+    "location": 2,
+    "content": "我们下期见",
+    "music": 0.0
+  }
+]

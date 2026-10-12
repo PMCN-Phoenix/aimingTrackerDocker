@@ -1,0 +1,684 @@
+{
+  "P1": [
+    {
+      "from": 0.04,
+      "to": 3.88,
+      "sid": 1,
+      "location": 2,
+      "content": "哎呀你说那些高手准心一甩就能爆头的操作",
+      "music": 0.0
+    },
+    {
+      "from": 3.88,
+      "to": 5.24,
+      "sid": 2,
+      "location": 2,
+      "content": "到底是咋做到的",
+      "music": 0.0
+    },
+    {
+      "from": 5.24,
+      "to": 7.32,
+      "sid": 3,
+      "location": 2,
+      "content": "怎么我练了这么久也打不出来呢",
+      "music": 0.0
+    },
+    {
+      "from": 7.32,
+      "to": 10.67,
+      "sid": 4,
+      "location": 2,
+      "content": "呃嗯你执着于去练这么一个根本不存在的东西",
+      "music": 0.0
+    },
+    {
+      "from": 10.67,
+      "to": 12.07,
+      "sid": 5,
+      "location": 2,
+      "content": "那能练的出来才怪了",
+      "music": 0.0
+    },
+    {
+      "from": 12.07,
+      "to": 13.06,
+      "sid": 6,
+      "location": 2,
+      "content": "这有啥意思",
+      "music": 0.0
+    },
+    {
+      "from": 13.06,
+      "to": 15.9,
+      "sid": 7,
+      "location": 2,
+      "content": "因为你被这种一甩就爆头的假象给骗了呀",
+      "music": 0.0
+    },
+    {
+      "from": 15.9,
+      "to": 19.12,
+      "sid": 8,
+      "location": 2,
+      "content": "你所看到的是一个高手瞄准速度很快的结果",
+      "music": 0.0
+    },
+    {
+      "from": 19.12,
+      "to": 21.12,
+      "sid": 9,
+      "location": 2,
+      "content": "但实际上他们实现这个结果",
+      "music": 0.0
+    },
+    {
+      "from": 21.12,
+      "to": 22.96,
+      "sid": 10,
+      "location": 2,
+      "content": "是经过了两个瞄准步骤的",
+      "music": 0.0
+    },
+    {
+      "from": 22.96,
+      "to": 25.72,
+      "sid": 11,
+      "location": 2,
+      "content": "你现在错误的追求这种一甩就爆头的操作",
+      "music": 0.0
+    },
+    {
+      "from": 25.72,
+      "to": 27.18,
+      "sid": 12,
+      "location": 2,
+      "content": "直接缺少了一半的步骤",
+      "music": 0.0
+    },
+    {
+      "from": 27.18,
+      "to": 29.73,
+      "sid": 13,
+      "location": 2,
+      "content": "那当然练不出同样的结果了啊",
+      "music": 0.0
+    },
+    {
+      "from": 29.73,
+      "to": 31.61,
+      "sid": 14,
+      "location": 2,
+      "content": "那完整的两个步骤是啥",
+      "music": 0.0
+    },
+    {
+      "from": 31.61,
+      "to": 33.67,
+      "sid": 15,
+      "location": 2,
+      "content": "依次瞄准加上微调",
+      "music": 0.0
+    },
+    {
+      "from": 33.67,
+      "to": 35.55,
+      "sid": 16,
+      "location": 2,
+      "content": "可是为啥非得两个步骤呢",
+      "music": 0.0
+    },
+    {
+      "from": 35.55,
+      "to": 38.52,
+      "sid": 17,
+      "location": 2,
+      "content": "因为瞄准的速度和准度是互相矛盾的",
+      "music": 0.0
+    },
+    {
+      "from": 38.52,
+      "to": 39.16,
+      "sid": 18,
+      "location": 2,
+      "content": "没办法",
+      "music": 0.0
+    },
+    {
+      "from": 39.16,
+      "to": 42.04,
+      "sid": 19,
+      "location": 2,
+      "content": "又要又要我们用非常快的速度去移动准星",
+      "music": 0.0
+    },
+    {
+      "from": 42.04,
+      "to": 43.72,
+      "sid": 20,
+      "location": 2,
+      "content": "那精准度就一定会下降",
+      "music": 0.0
+    },
+    {
+      "from": 43.72,
+      "to": 46.6,
+      "sid": 21,
+      "location": 2,
+      "content": "想控制准星很精确的落在自己想要的位置",
+      "music": 0.0
+    },
+    {
+      "from": 46.6,
+      "to": 48.0,
+      "sid": 22,
+      "location": 2,
+      "content": "那就只能慢慢挪",
+      "music": 0.0
+    },
+    {
+      "from": 48.0,
+      "to": 49.52,
+      "sid": 23,
+      "location": 2,
+      "content": "显然两种都不实际",
+      "music": 0.0
+    },
+    {
+      "from": 49.52,
+      "to": 50.36,
+      "sid": 24,
+      "location": 2,
+      "content": "那换个角度想",
+      "music": 0.0
+    },
+    {
+      "from": 50.36,
+      "to": 51.1,
+      "sid": 25,
+      "location": 2,
+      "content": "你就会发现",
+      "music": 0.0
+    },
+    {
+      "from": 51.1,
+      "to": 53.2,
+      "sid": 26,
+      "location": 2,
+      "content": "如果我们没法同时做到快和准",
+      "music": 0.0
+    },
+    {
+      "from": 53.2,
+      "to": 54.72,
+      "sid": 27,
+      "location": 2,
+      "content": "那我把它分成两个步骤来",
+      "music": 0.0
+    },
+    {
+      "from": 54.72,
+      "to": 55.54,
+      "sid": 28,
+      "location": 2,
+      "content": "一个负责快",
+      "music": 0.0
+    },
+    {
+      "from": 55.54,
+      "to": 57.24,
+      "sid": 29,
+      "location": 2,
+      "content": "一个负责准不就行了吗",
+      "music": 0.0
+    },
+    {
+      "from": 57.24,
+      "to": 60.18,
+      "sid": 30,
+      "location": 2,
+      "content": "所以说你应该先做一个尽可能快的一次瞄准",
+      "music": 0.0
+    },
+    {
+      "from": 60.18,
+      "to": 62.68,
+      "sid": 31,
+      "location": 2,
+      "content": "在一瞬间把准星先送到目标附近去",
+      "music": 0.0
+    },
+    {
+      "from": 62.68,
+      "to": 64.819,
+      "sid": 32,
+      "location": 2,
+      "content": "然后再做一个相对慢的微调",
+      "music": 0.0
+    },
+    {
+      "from": 64.819,
+      "to": 66.079,
+      "sid": 33,
+      "location": 2,
+      "content": "细腻的控制准心",
+      "music": 0.0
+    },
+    {
+      "from": 66.079,
+      "to": 67.499,
+      "sid": 34,
+      "location": 2,
+      "content": "最终落到目标脑袋上",
+      "music": 0.0
+    },
+    {
+      "from": 67.499,
+      "to": 69.16,
+      "sid": 35,
+      "location": 2,
+      "content": "因为第一次的预瞄准",
+      "music": 0.0
+    },
+    {
+      "from": 69.16,
+      "to": 71.3,
+      "sid": 36,
+      "location": 2,
+      "content": "已经让准星离目标非常近了",
+      "music": 0.0
+    },
+    {
+      "from": 71.3,
+      "to": 72.56,
+      "sid": 37,
+      "location": 2,
+      "content": "所以即使我们微调时",
+      "music": 0.0
+    },
+    {
+      "from": 72.56,
+      "to": 73.86,
+      "sid": 38,
+      "location": 2,
+      "content": "准星的移动速度很慢",
+      "music": 0.0
+    },
+    {
+      "from": 73.86,
+      "to": 76.38,
+      "sid": 39,
+      "location": 2,
+      "content": "这段路程也只需要花费一点点的时间了",
+      "music": 0.0
+    },
+    {
+      "from": 76.38,
+      "to": 79.7,
+      "sid": 40,
+      "location": 2,
+      "content": "这样才能实现你想要的又快又准的结果",
+      "music": 0.0
+    },
+    {
+      "from": 79.7,
+      "to": 80.6,
+      "sid": 41,
+      "location": 2,
+      "content": "缺水",
+      "music": 0.0
+    },
+    {
+      "from": 80.6,
+      "to": 82.58,
+      "sid": 42,
+      "location": 2,
+      "content": "我之前就是没有做微调",
+      "music": 0.0
+    },
+    {
+      "from": 82.58,
+      "to": 83.96,
+      "sid": 43,
+      "location": 2,
+      "content": "难怪只能甩的快",
+      "music": 0.0
+    },
+    {
+      "from": 83.96,
+      "to": 85.1,
+      "sid": 44,
+      "location": 2,
+      "content": "但根本打不准的",
+      "music": 0.0
+    },
+    {
+      "from": 85.1,
+      "to": 86.44,
+      "sid": 45,
+      "location": 2,
+      "content": "可是还有一个问题",
+      "music": 0.0
+    },
+    {
+      "from": 86.44,
+      "to": 87.56,
+      "sid": 46,
+      "location": 2,
+      "content": "我加入微调之后",
+      "music": 0.0
+    },
+    {
+      "from": 87.56,
+      "to": 88.84,
+      "sid": 47,
+      "location": 2,
+      "content": "虽然能打的准了",
+      "music": 0.0
+    },
+    {
+      "from": 88.84,
+      "to": 90.54,
+      "sid": 48,
+      "location": 2,
+      "content": "但做不到那么快怎么办",
+      "music": 0.0
+    },
+    {
+      "from": 90.54,
+      "to": 91.26,
+      "sid": 49,
+      "location": 2,
+      "content": "很简单",
+      "music": 0.0
+    },
+    {
+      "from": 91.26,
+      "to": 92.34,
+      "sid": 50,
+      "location": 2,
+      "content": "你把步骤做对了",
+      "music": 0.0
+    },
+    {
+      "from": 92.34,
+      "to": 95.34,
+      "sid": 51,
+      "location": 2,
+      "content": "那现在跟高手的差距不就只有速度这一项了吗",
+      "music": 0.0
+    },
+    {
+      "from": 95.34,
+      "to": 97.44,
+      "sid": 52,
+      "location": 2,
+      "content": "然后你再来跟我做下面这两项练习",
+      "music": 0.0
+    },
+    {
+      "from": 97.44,
+      "to": 99.0,
+      "sid": 53,
+      "location": 2,
+      "content": "很快速度也能提升上去了",
+      "music": 0.0
+    },
+    {
+      "from": 99.0,
+      "to": 101.28,
+      "sid": 54,
+      "location": 2,
+      "content": "就跟我刚换了新手机的运行速度一样快",
+      "music": 0.0
+    },
+    {
+      "from": 101.28,
+      "to": 103.28,
+      "sid": 55,
+      "location": 2,
+      "content": "他家买了新的旧的都怎么处理呢",
+      "music": 0.0
+    },
+    {
+      "from": 103.28,
+      "to": 105.96,
+      "sid": 56,
+      "location": 2,
+      "content": "我那台IPHONE13最早转转上门回收了1900多",
+      "music": 0.0
+    },
+    {
+      "from": 105.96,
+      "to": 107.1,
+      "sid": 57,
+      "location": 2,
+      "content": "他们家价格公道",
+      "music": 0.0
+    },
+    {
+      "from": 107.1,
+      "to": 108.02,
+      "sid": 58,
+      "location": 2,
+      "content": "又快又干脆",
+      "music": 0.0
+    },
+    {
+      "from": 108.02,
+      "to": 109.44,
+      "sid": 59,
+      "location": 2,
+      "content": "现在就这不止收手机",
+      "music": 0.0
+    },
+    {
+      "from": 109.44,
+      "to": 110.14,
+      "sid": 60,
+      "location": 2,
+      "content": "借的笔记本",
+      "music": 0.0
+    },
+    {
+      "from": 110.14,
+      "to": 111.32,
+      "sid": 61,
+      "location": 2,
+      "content": "平板这种数码产品",
+      "music": 0.0
+    },
+    {
+      "from": 111.32,
+      "to": 113.78,
+      "sid": 62,
+      "location": 2,
+      "content": "还有主机和显卡之类的电脑设备都能回收",
+      "music": 0.0
+    },
+    {
+      "from": 113.78,
+      "to": 114.9,
+      "sid": 63,
+      "location": 2,
+      "content": "现在打开转转app",
+      "music": 0.0
+    },
+    {
+      "from": 114.9,
+      "to": 116.16,
+      "sid": 64,
+      "location": 2,
+      "content": "搜索11406",
+      "music": 0.0
+    },
+    {
+      "from": 116.16,
+      "to": 117.74,
+      "sid": 65,
+      "location": 2,
+      "content": "领取580元回收红包",
+      "music": 0.0
+    },
+    {
+      "from": 117.74,
+      "to": 118.7,
+      "sid": 66,
+      "location": 2,
+      "content": "趁着救了他之前",
+      "music": 0.0
+    },
+    {
+      "from": 118.7,
+      "to": 120.24,
+      "sid": 67,
+      "location": 2,
+      "content": "赶紧找转转回收就对了",
+      "music": 0.0
+    },
+    {
+      "from": 120.24,
+      "to": 121.1,
+      "sid": 68,
+      "location": 2,
+      "content": "我马上就换",
+      "music": 0.0
+    },
+    {
+      "from": 121.1,
+      "to": 122.3,
+      "sid": 69,
+      "location": 2,
+      "content": "那到底该咋练呢",
+      "music": 0.0
+    },
+    {
+      "from": 124.48,
+      "to": 126.56,
+      "sid": 70,
+      "location": 2,
+      "content": "这个练习中你只考虑两个重点",
+      "music": 0.0
+    },
+    {
+      "from": 126.56,
+      "to": 128.06,
+      "sid": 71,
+      "location": 2,
+      "content": "一是优先保证准度",
+      "music": 0.0
+    },
+    {
+      "from": 128.06,
+      "to": 130.38,
+      "sid": 72,
+      "location": 2,
+      "content": "把命中率控制在95%以上",
+      "music": 0.0
+    },
+    {
+      "from": 130.38,
+      "to": 131.86,
+      "sid": 73,
+      "location": 2,
+      "content": "二是时刻提醒自己",
+      "music": 0.0
+    },
+    {
+      "from": 131.86,
+      "to": 133.42,
+      "sid": 74,
+      "location": 2,
+      "content": "用两步骤来做瞄准",
+      "music": 0.0
+    },
+    {
+      "from": 133.42,
+      "to": 135.98,
+      "sid": 75,
+      "location": 2,
+      "content": "逐渐提升一次瞄准和微调之间的流畅性",
+      "music": 0.0
+    },
+    {
+      "from": 135.98,
+      "to": 138.88,
+      "sid": 76,
+      "location": 2,
+      "content": "建议每天15分钟能到8万分就算良好了",
+      "music": 0.0
+    },
+    {
+      "from": 138.88,
+      "to": 141.54,
+      "sid": 77,
+      "location": 2,
+      "content": "第二个就是m level里的极小六目标项目",
+      "music": 0.0
+    },
+    {
+      "from": 141.54,
+      "to": 144.0,
+      "sid": 78,
+      "location": 2,
+      "content": "这里面一个小球大概是有九个像素点",
+      "music": 0.0
+    },
+    {
+      "from": 144.0,
+      "to": 145.22,
+      "sid": 79,
+      "location": 2,
+      "content": "这大会有点折磨",
+      "music": 0.0
+    },
+    {
+      "from": 145.22,
+      "to": 147.62,
+      "sid": 80,
+      "location": 2,
+      "content": "但可以很好的锻炼你微调的耐心",
+      "music": 0.0
+    },
+    {
+      "from": 147.62,
+      "to": 149.72,
+      "sid": 81,
+      "location": 2,
+      "content": "以及对鼠标极致的操控力",
+      "music": 0.0
+    },
+    {
+      "from": 149.72,
+      "to": 151.88,
+      "sid": 82,
+      "location": 2,
+      "content": "同样每天15分钟再去开一把死斗",
+      "music": 0.0
+    },
+    {
+      "from": 151.88,
+      "to": 155.08,
+      "sid": 83,
+      "location": 2,
+      "content": "你就会发现打cs里的大头变得非常easy了对了",
+      "music": 0.0
+    },
+    {
+      "from": 155.08,
+      "to": 157.459,
+      "sid": 84,
+      "location": 2,
+      "content": "家人们有旧手机记得放转转回收哦",
+      "music": 0.0
+    },
+    {
+      "from": 157.459,
+      "to": 161.14,
+      "sid": 85,
+      "location": 2,
+      "content": "哦我要是早点关注你该多好",
+      "music": 0.0
+    }
+  ]
+}

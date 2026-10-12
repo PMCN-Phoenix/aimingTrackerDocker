@@ -1,0 +1,204 @@
+{
+  "P1": [
+    {
+      "from": 3.12,
+      "to": 4.12,
+      "sid": 1,
+      "location": 2,
+      "content": "跟你一起过",
+      "music": 0.0
+    },
+    {
+      "from": 4.12,
+      "to": 5.32,
+      "sid": 2,
+      "location": 2,
+      "content": "靠近一点了",
+      "music": 0.0
+    },
+    {
+      "from": 5.32,
+      "to": 7.16,
+      "sid": 3,
+      "location": 2,
+      "content": "妈过来一起做饭",
+      "music": 0.0
+    },
+    {
+      "from": 7.16,
+      "to": 9.96,
+      "sid": 4,
+      "location": 2,
+      "content": "就悄悄牵住你的手心",
+      "music": 0.5873015406903533
+    },
+    {
+      "from": 9.96,
+      "to": 12.0,
+      "sid": 5,
+      "location": 2,
+      "content": "泪水倒着才发抖",
+      "music": 0.21126759075580273
+    },
+    {
+      "from": 12.0,
+      "to": 13.36,
+      "sid": 6,
+      "location": 2,
+      "content": "♪ 时间能不 ♪",
+      "music": 0.9999996153847633
+    },
+    {
+      "from": 15.48,
+      "to": 18.56,
+      "sid": 7,
+      "location": 2,
+      "content": "口撒一滴甘醇再下",
+      "music": 0.0
+    },
+    {
+      "from": 18.56,
+      "to": 20.26,
+      "sid": 8,
+      "location": 2,
+      "content": "交警察就该装",
+      "music": 0.19354835587929303
+    },
+    {
+      "from": 20.26,
+      "to": 21.12,
+      "sid": 9,
+      "location": 2,
+      "content": "再拉高",
+      "music": 0.259259211248294
+    },
+    {
+      "from": 21.12,
+      "to": 21.96,
+      "sid": 10,
+      "location": 2,
+      "content": "♪ 别睡吧 ♪",
+      "music": 0.9999975000062499
+    },
+    {
+      "from": 21.96,
+      "to": 26.1,
+      "sid": 11,
+      "location": 2,
+      "content": "你不如意独走耶",
+      "music": 0.0
+    },
+    {
+      "from": 26.1,
+      "to": 27.1,
+      "sid": 12,
+      "location": 2,
+      "content": "想看你夸张",
+      "music": 0.5769229659763546
+    },
+    {
+      "from": 27.1,
+      "to": 28.46,
+      "sid": 13,
+      "location": 2,
+      "content": "特会情话打烦",
+      "music": 0.3962263777144914
+    },
+    {
+      "from": 28.46,
+      "to": 30.3,
+      "sid": 14,
+      "location": 2,
+      "content": "打一个通宵不担心吧",
+      "music": 0.0
+    },
+    {
+      "from": 30.3,
+      "to": 32.88,
+      "sid": 15,
+      "location": 2,
+      "content": "夏天空调离休五鬼当年大口吃冰沙猪",
+      "music": 0.0
+    },
+    {
+      "from": 34.4,
+      "to": 35.28,
+      "sid": 16,
+      "location": 2,
+      "content": "去肝硬患",
+      "music": 0.34090905216942974
+    },
+    {
+      "from": 35.28,
+      "to": 36.89,
+      "sid": 17,
+      "location": 2,
+      "content": "♪ 不用去心打细算 ♪",
+      "music": 0.9999998214286034
+    },
+    {
+      "from": 37.005,
+      "to": 39.43,
+      "sid": 18,
+      "location": 2,
+      "content": "在前一天很美满",
+      "music": 0.6216215376187166
+    },
+    {
+      "from": 39.43,
+      "to": 41.82,
+      "sid": 19,
+      "location": 2,
+      "content": "迷茫的心在被骂",
+      "music": 0.0
+    },
+    {
+      "from": 53.36,
+      "to": 55.1,
+      "sid": 20,
+      "location": 2,
+      "content": "每次和你都认识",
+      "music": 0.0
+    },
+    {
+      "from": 55.1,
+      "to": 57.64,
+      "sid": 21,
+      "location": 2,
+      "content": "包含暗知道我的专一和执着",
+      "music": 0.0
+    },
+    {
+      "from": 57.64,
+      "to": 59.66,
+      "sid": 22,
+      "location": 2,
+      "content": "最后做到不用心动情思",
+      "music": 0.0
+    },
+    {
+      "from": 59.66,
+      "to": 64.84,
+      "sid": 23,
+      "location": 2,
+      "content": "缩成现在S悄悄悄牵住你的伤心",
+      "music": 0.0
+    },
+    {
+      "from": 64.84,
+      "to": 66.86,
+      "sid": 24,
+      "location": 2,
+      "content": "泪水倒着在发抖",
+      "music": 0.3139534701189881
+    },
+    {
+      "from": 66.86,
+      "to": 70.12,
+      "sid": 25,
+      "location": 2,
+      "content": "♪ 这次能不能慢点慢点溜走 ♪",
+      "music": 0.9999999647887337
+    }
+  ]
+}

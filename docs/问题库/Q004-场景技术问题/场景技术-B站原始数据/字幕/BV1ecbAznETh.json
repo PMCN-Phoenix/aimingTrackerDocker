@@ -1,0 +1,628 @@
+{
+  "P1": [
+    {
+      "content": "瞄准社区中最常见的问题之一",
+      "from": 5.9,
+      "location": 2,
+      "music": 0.0,
+      "sid": 1,
+      "to": 9.28
+    },
+    {
+      "content": "是如何解决抖动或颤抖的准星",
+      "from": 9.28,
+      "location": 2,
+      "music": 0.0,
+      "sid": 2,
+      "to": 12.29
+    },
+    {
+      "content": "在本视频中",
+      "from": 12.29,
+      "location": 2,
+      "music": 0.0,
+      "sid": 3,
+      "to": 13.25
+    },
+    {
+      "content": "我们将介绍四个今日可尝试的简单步骤以实现流畅精准的瞄准",
+      "from": 13.25,
+      "location": 2,
+      "music": 0.0,
+      "sid": 4,
+      "to": 18.56
+    },
+    {
+      "content": "第一步是减少摩擦",
+      "from": 18.56,
+      "location": 2,
+      "music": 0.0,
+      "sid": 5,
+      "to": 21.39
+    },
+    {
+      "content": "如果您的手部",
+      "from": 21.39,
+      "location": 2,
+      "music": 0.0,
+      "sid": 6,
+      "to": 22.83
+    },
+    {
+      "content": "手腕或手臂在鼠标垫桌面卡住",
+      "from": 22.83,
+      "location": 2,
+      "music": 0.0,
+      "sid": 7,
+      "to": 25.87
+    },
+    {
+      "content": "您可以尝试几个方法首先",
+      "from": 25.87,
+      "location": 2,
+      "music": 0.0,
+      "sid": 8,
+      "to": 29.37
+    },
+    {
+      "content": "清洗双手",
+      "from": 29.37,
+      "location": 2,
+      "music": 0.0,
+      "sid": 9,
+      "to": 30.37
+    },
+    {
+      "content": "手腕和手臂用肥皂擦干",
+      "from": 30.37,
+      "location": 2,
+      "music": 0.0,
+      "sid": 10,
+      "to": 32.69
+    },
+    {
+      "content": "当感觉速度变慢或再次卡顿时重复此步骤",
+      "from": 32.69,
+      "location": 2,
+      "music": 0.0,
+      "sid": 11,
+      "to": 37.4
+    },
+    {
+      "content": "如果完成此操作后感觉过于灵敏",
+      "from": 37.4,
+      "location": 2,
+      "music": 0.0,
+      "sid": 12,
+      "to": 40.68
+    },
+    {
+      "content": "可以跳过使用肥皂",
+      "from": 40.68,
+      "location": 2,
+      "music": 0.0,
+      "sid": 13,
+      "to": 42.17
+    },
+    {
+      "content": "佩戴运动护腕也能有效减少摩擦",
+      "from": 42.17,
+      "location": 2,
+      "music": 0.0,
+      "sid": 14,
+      "to": 46.47
+    },
+    {
+      "content": "尽管清洗手部和手腕仍是好建议",
+      "from": 46.47,
+      "location": 2,
+      "music": 0.0,
+      "sid": 15,
+      "to": 49.97
+    },
+    {
+      "content": "描述中有关于护臂的视频可供参考",
+      "from": 49.97,
+      "location": 2,
+      "music": 0.0,
+      "sid": 16,
+      "to": 53.45
+    },
+    {
+      "content": "鼠标垫也可能导致抖动准星",
+      "from": 53.45,
+      "location": 2,
+      "music": 0.0,
+      "sid": 17,
+      "to": 57.01
+    },
+    {
+      "content": "尤其是老旧磨损的情况",
+      "from": 57.01,
+      "location": 2,
+      "music": 0.0,
+      "sid": 18,
+      "to": 59.57
+    },
+    {
+      "content": "建议检查",
+      "from": 59.57,
+      "location": 2,
+      "music": 0.0,
+      "sid": 19,
+      "to": 60.25
+    },
+    {
+      "content": "清洁鼠标垫",
+      "from": 60.25,
+      "location": 2,
+      "music": 0.0,
+      "sid": 20,
+      "to": 61.01
+    },
+    {
+      "content": "或直接更换",
+      "from": 61.01,
+      "location": 2,
+      "music": 0.0,
+      "sid": 21,
+      "to": 62.33
+    },
+    {
+      "content": "如果可能的话",
+      "from": 62.33,
+      "location": 2,
+      "music": 0.0,
+      "sid": 22,
+      "to": 62.73
+    },
+    {
+      "content": "第二步是调整鼠标灵敏度",
+      "from": 64.21,
+      "location": 2,
+      "music": 0.0,
+      "sid": 23,
+      "to": 67.169
+    },
+    {
+      "content": "一般来说",
+      "from": 67.169,
+      "location": 2,
+      "music": 0.0,
+      "sid": 24,
+      "to": 68.349
+    },
+    {
+      "content": "高灵敏度更难流畅操作",
+      "from": 68.349,
+      "location": 2,
+      "music": 0.0,
+      "sid": 25,
+      "to": 71.249
+    },
+    {
+      "content": "而低灵敏度更容易控制",
+      "from": 71.249,
+      "location": 2,
+      "music": 0.0,
+      "sid": 26,
+      "to": 74.24
+    },
+    {
+      "content": "即使是像Overwatch的Pine这样的顶尖选手",
+      "from": 74.24,
+      "location": 2,
+      "music": 0.0,
+      "sid": 27,
+      "to": 76.5
+    },
+    {
+      "content": "使用高达18.5厘米/360度的高灵敏度",
+      "from": 76.5,
+      "location": 2,
+      "music": 0.0,
+      "sid": 28,
+      "to": 79.8
+    },
+    {
+      "content": "仍会出现抖动准星",
+      "from": 79.8,
+      "location": 2,
+      "music": 0.0,
+      "sid": 29,
+      "to": 83.33
+    },
+    {
+      "content": "降低灵敏度并不意味着完全解决这个问题",
+      "from": 83.33,
+      "location": 2,
+      "music": 0.0,
+      "sid": 30,
+      "to": 87.57
+    },
+    {
+      "content": "但能帮助彻底避免问题",
+      "from": 87.57,
+      "location": 2,
+      "music": 0.0,
+      "sid": 31,
+      "to": 90.73
+    },
+    {
+      "content": "第三步是专注目标",
+      "from": 91.07,
+      "location": 2,
+      "music": 0.0,
+      "sid": 32,
+      "to": 93.59
+    },
+    {
+      "content": "这一点至关重要",
+      "from": 93.59,
+      "location": 2,
+      "music": 0.0,
+      "sid": 33,
+      "to": 94.85
+    },
+    {
+      "content": "正确执行后",
+      "from": 94.85,
+      "location": 2,
+      "music": 0.0,
+      "sid": 34,
+      "to": 96.03
+    },
+    {
+      "content": "会像顿悟时刻般豁然开朗",
+      "from": 96.03,
+      "location": 2,
+      "music": 0.0,
+      "sid": 35,
+      "to": 100.229
+    },
+    {
+      "content": "注视目标与专注目标有显著区别",
+      "from": 100.229,
+      "location": 2,
+      "music": 0.0,
+      "sid": 36,
+      "to": 105.14
+    },
+    {
+      "content": "比如这台吊扇",
+      "from": 105.14,
+      "location": 2,
+      "music": 0.0,
+      "sid": 37,
+      "to": 106.38
+    },
+    {
+      "content": "举例说明",
+      "from": 106.38,
+      "location": 2,
+      "music": 0.0,
+      "sid": 38,
+      "to": 107.08
+    },
+    {
+      "content": "即使直视叶片也会模糊不清",
+      "from": 107.08,
+      "location": 2,
+      "music": 0.0,
+      "sid": 39,
+      "to": 110.09
+    },
+    {
+      "content": "但若专注单一片叶",
+      "from": 110.09,
+      "location": 2,
+      "music": 0.0,
+      "sid": 40,
+      "to": 112.25
+    },
+    {
+      "content": "就能精准追踪",
+      "from": 112.25,
+      "location": 2,
+      "music": 0.0,
+      "sid": 41,
+      "to": 113.05
+    },
+    {
+      "content": "旋转过程",
+      "from": 113.05,
+      "location": 2,
+      "music": 0.0,
+      "sid": 42,
+      "to": 113.95
+    },
+    {
+      "content": "这就是我们需要的效果",
+      "from": 113.95,
+      "location": 2,
+      "music": 0.0,
+      "sid": 43,
+      "to": 116.539
+    },
+    {
+      "content": "仅仅注视目标",
+      "from": 116.779,
+      "location": 2,
+      "music": 0.0,
+      "sid": 44,
+      "to": 118.379
+    },
+    {
+      "content": "会错过大量速度信息",
+      "from": 118.379,
+      "location": 2,
+      "music": 0.0,
+      "sid": 45,
+      "to": 121.439
+    },
+    {
+      "content": "弹道和其他视觉提示",
+      "from": 121.439,
+      "location": 2,
+      "music": 0.0,
+      "sid": 46,
+      "to": 123.89
+    },
+    {
+      "content": "这会让对手移动显得快速",
+      "from": 123.89,
+      "location": 2,
+      "music": 0.0,
+      "sid": 47,
+      "to": 126.45
+    },
+    {
+      "content": "杂乱难追踪",
+      "from": 126.45,
+      "location": 2,
+      "music": 0.0,
+      "sid": 48,
+      "to": 128.03
+    },
+    {
+      "content": "因此您的准星也会随之杂乱抖动",
+      "from": 128.03,
+      "location": 2,
+      "music": 0.0,
+      "sid": 49,
+      "to": 131.54
+    },
+    {
+      "content": "专注目标本身",
+      "from": 131.54,
+      "location": 2,
+      "music": 0.0,
+      "sid": 50,
+      "to": 132.96
+    },
+    {
+      "content": "会立刻让它感觉移动更缓慢且更可预测",
+      "from": 132.96,
+      "location": 2,
+      "music": 0.0,
+      "sid": 51,
+      "to": 137.04
+    },
+    {
+      "content": "因此",
+      "from": 137.04,
+      "location": 2,
+      "music": 0.0,
+      "sid": 52,
+      "to": 137.92
+    },
+    {
+      "content": "你可以用更精准的瞄准动作进行追踪，动作更加流畅",
+      "from": 137.92,
+      "location": 2,
+      "music": 0.0,
+      "sid": 53,
+      "to": 142.42
+    },
+    {
+      "content": "第四步是通过瞄准训练",
+      "from": 142.42,
+      "location": 2,
+      "music": 0.0,
+      "sid": 54,
+      "to": 144.9
+    },
+    {
+      "content": "有很多不同的方法可以进行训练",
+      "from": 144.9,
+      "location": 2,
+      "music": 0.0,
+      "sid": 55,
+      "to": 147.1
+    },
+    {
+      "content": "我们将介绍一些简单的基础步骤",
+      "from": 147.1,
+      "location": 2,
+      "music": 0.0,
+      "sid": 56,
+      "to": 149.7
+    },
+    {
+      "content": "首先进入kovacs并玩平滑度训练60关",
+      "from": 149.7,
+      "location": 2,
+      "music": 0.0,
+      "sid": 57,
+      "to": 154.04
+    },
+    {
+      "content": "这是一个有预设移动模式的简单场景",
+      "from": 154.04,
+      "location": 2,
+      "music": 0.0,
+      "sid": 58,
+      "to": 157.43
+    },
+    {
+      "content": "因此无需担心反应速度或反应时间",
+      "from": 157.43,
+      "location": 2,
+      "music": 0.0,
+      "sid": 59,
+      "to": 160.39
+    },
+    {
+      "content": "它将纯粹测试你水平追踪目标的能力",
+      "from": 160.39,
+      "location": 2,
+      "music": 0.0,
+      "sid": 60,
+      "to": 164.54
+    },
+    {
+      "content": "不必太在意分数",
+      "from": 164.54,
+      "location": 2,
+      "music": 0.0,
+      "sid": 61,
+      "to": 166.16
+    },
+    {
+      "content": "即使瞄准不稳",
+      "from": 166.16,
+      "location": 2,
+      "music": 0.0,
+      "sid": 62,
+      "to": 167.5
+    },
+    {
+      "content": "也能完美追踪目标",
+      "from": 167.5,
+      "location": 2,
+      "music": 0.0,
+      "sid": 63,
+      "to": 169.13
+    },
+    {
+      "content": "所以尽量平稳地追踪目标",
+      "from": 169.13,
+      "location": 2,
+      "music": 0.0,
+      "sid": 64,
+      "to": 171.97
+    },
+    {
+      "content": "并感受动作是颤抖还是流畅",
+      "from": 171.97,
+      "location": 2,
+      "music": 0.0,
+      "sid": 65,
+      "to": 175.329
+    },
+    {
+      "content": "以找到更多提升平滑度的训练场景",
+      "from": 175.329,
+      "location": 2,
+      "music": 0.0,
+      "sid": 66,
+      "to": 178.909
+    },
+    {
+      "content": "进入在线场景",
+      "from": 178.909,
+      "location": 2,
+      "music": 0.0,
+      "sid": 67,
+      "to": 180.889
+    },
+    {
+      "content": "点击高级搜索",
+      "from": 180.889,
+      "location": 2,
+      "music": 0.0,
+      "sid": 68,
+      "to": 182.459
+    },
+    {
+      "content": "选择追踪",
+      "from": 182.459,
+      "location": 2,
+      "music": 0.0,
+      "sid": 69,
+      "to": 183.379
+    },
+    {
+      "content": "然后选择平滑度",
+      "from": 183.379,
+      "location": 2,
+      "music": 0.0,
+      "sid": 70,
+      "to": 185.02
+    },
+    {
+      "content": "如果你想更精准筛选",
+      "from": 185.02,
+      "location": 2,
+      "music": 0.0,
+      "sid": 71,
+      "to": 187.26
+    },
+    {
+      "content": "只需在搜索栏输入smooth或smoothness",
+      "from": 187.26,
+      "location": 2,
+      "music": 0.0,
+      "sid": 72,
+      "to": 190.08
+    },
+    {
+      "content": "找到专门为这项技能设计的场景",
+      "from": 190.08,
+      "location": 2,
+      "music": 0.0,
+      "sid": 73,
+      "to": 193.63
+    },
+    {
+      "content": "至此我们完成了消除抖动瞄准的四个简单步骤",
+      "from": 193.63,
+      "location": 2,
+      "music": 0.0,
+      "sid": 74,
+      "to": 197.67
+    },
+    {
+      "content": "希望您觉得这个视频有帮助",
+      "from": 197.67,
+      "location": 2,
+      "music": 0.0,
+      "sid": 75,
+      "to": 199.33
+    },
+    {
+      "content": "在评论区告诉我们哪个技巧最适合您",
+      "from": 199.33,
+      "location": 2,
+      "music": 0.0,
+      "sid": 76,
+      "to": 202.69
+    },
+    {
+      "content": "订阅获取更多此类内容",
+      "from": 202.69,
+      "location": 2,
+      "music": 0.0,
+      "sid": 77,
+      "to": 204.63
+    },
+    {
+      "content": "我们下期再见",
+      "from": 204.63,
+      "location": 2,
+      "music": 0.0,
+      "sid": 78,
+      "to": 206.32
+    }
+  ]
+}
