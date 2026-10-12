@@ -1,0 +1,5730 @@
+[
+  {
+    "from": 0.0,
+    "to": 1.28,
+    "sid": 1,
+    "location": 2,
+    "content": "咱们直接来看人体",
+    "music": 0.0
+  },
+  {
+    "from": 1.28,
+    "to": 4.32,
+    "sid": 2,
+    "location": 2,
+    "content": "这台精密机器的内部构造和工作原理",
+    "music": 0.0
+  },
+  {
+    "from": 4.32,
+    "to": 6.48,
+    "sid": 3,
+    "location": 2,
+    "content": "今天要深入探讨的是",
+    "music": 0.0
+  },
+  {
+    "from": 6.48,
+    "to": 8.66,
+    "sid": 4,
+    "location": 2,
+    "content": "支撑我们运动能力的基础系统",
+    "music": 0.0
+  },
+  {
+    "from": 8.66,
+    "to": 10.26,
+    "sid": 5,
+    "location": 2,
+    "content": "特别是肌肉骨骼",
+    "music": 0.0
+  },
+  {
+    "from": 10.26,
+    "to": 10.78,
+    "sid": 6,
+    "location": 2,
+    "content": "神经",
+    "music": 0.0
+  },
+  {
+    "from": 10.78,
+    "to": 15.24,
+    "sid": 7,
+    "location": 2,
+    "content": "肌肉以及心血管和呼吸系统是如何协同工作的",
+    "music": 0.0
+  },
+  {
+    "from": 15.24,
+    "to": 16.36,
+    "sid": 8,
+    "location": 2,
+    "content": "大家想想",
+    "music": 0.0
+  },
+  {
+    "from": 16.36,
+    "to": 19.02,
+    "sid": 9,
+    "location": 2,
+    "content": "无论是百米冲刺还是马拉松长跑",
+    "music": 0.0
+  },
+  {
+    "from": 19.02,
+    "to": 21.24,
+    "sid": 10,
+    "location": 2,
+    "content": "我们身体的每一次有效动作",
+    "music": 0.0
+  },
+  {
+    "from": 21.24,
+    "to": 24.34,
+    "sid": 11,
+    "location": 2,
+    "content": "背后都是一套复杂系统的精密配合",
+    "music": 0.0
+  },
+  {
+    "from": 24.34,
+    "to": 25.9,
+    "sid": 12,
+    "location": 2,
+    "content": "力量从哪里来",
+    "music": 0.0
+  },
+  {
+    "from": 25.9,
+    "to": 28.09,
+    "sid": 13,
+    "location": 2,
+    "content": "主要靠肌肉收缩产生",
+    "music": 0.0
+  },
+  {
+    "from": 28.09,
+    "to": 31.89,
+    "sid": 14,
+    "location": 2,
+    "content": "然后通过骨骼这个杠杆系统把力量传递出去",
+    "music": 0.0
+  },
+  {
+    "from": 31.89,
+    "to": 33.82,
+    "sid": 15,
+    "location": 2,
+    "content": "移动身体或者物体",
+    "music": 0.0
+  },
+  {
+    "from": 33.82,
+    "to": 35.08,
+    "sid": 16,
+    "location": 2,
+    "content": "但这还不够",
+    "music": 0.0
+  },
+  {
+    "from": 35.08,
+    "to": 36.56,
+    "sid": 17,
+    "location": 2,
+    "content": "大脑得发号施令",
+    "music": 0.0
+  },
+  {
+    "from": 36.56,
+    "to": 39.72,
+    "sid": 18,
+    "location": 2,
+    "content": "通过神经系统告诉肌肉该干嘛怎么干",
+    "music": 0.0
+  },
+  {
+    "from": 39.72,
+    "to": 42.16,
+    "sid": 19,
+    "location": 2,
+    "content": "而肌肉干活需要能量吧",
+    "music": 0.0
+  },
+  {
+    "from": 42.16,
+    "to": 42.98,
+    "sid": 20,
+    "location": 2,
+    "content": "氧气",
+    "music": 0.0
+  },
+  {
+    "from": 42.98,
+    "to": 45.52,
+    "sid": 21,
+    "location": 2,
+    "content": "营养物质得靠心血管和呼吸系统",
+    "music": 0.0
+  },
+  {
+    "from": 45.52,
+    "to": 47.18,
+    "sid": 22,
+    "location": 2,
+    "content": "源源不断的输送过来",
+    "music": 0.0
+  },
+  {
+    "from": 47.18,
+    "to": 50.62,
+    "sid": 23,
+    "location": 2,
+    "content": "同时把产生的二氧化碳和代谢废物运走",
+    "music": 0.0
+  },
+  {
+    "from": 50.62,
+    "to": 53.65,
+    "sid": 24,
+    "location": 2,
+    "content": "所以你看一个看似简单的动作",
+    "music": 0.0
+  },
+  {
+    "from": 53.65,
+    "to": 55.45,
+    "sid": 25,
+    "location": 2,
+    "content": "实际上是神经系统",
+    "music": 0.0
+  },
+  {
+    "from": 55.45,
+    "to": 56.81,
+    "sid": 26,
+    "location": 2,
+    "content": "肌肉骨骼系统",
+    "music": 0.0
+  },
+  {
+    "from": 56.81,
+    "to": 60.56,
+    "sid": 27,
+    "location": 2,
+    "content": "心血管系统和呼吸系统共同协作的结果",
+    "music": 0.0
+  },
+  {
+    "from": 60.56,
+    "to": 62.06,
+    "sid": 28,
+    "location": 2,
+    "content": "作为体能教练",
+    "music": 0.0
+  },
+  {
+    "from": 62.06,
+    "to": 64.7,
+    "sid": 29,
+    "location": 2,
+    "content": "咱们不仅要懂每个零件怎么工作",
+    "music": 0.0
+  },
+  {
+    "from": 64.7,
+    "to": 68.35,
+    "sid": 30,
+    "location": 2,
+    "content": "更要明白他们是怎么配合起来完成整体任务的",
+    "music": 0.0
+  },
+  {
+    "from": 68.35,
+    "to": 70.39,
+    "sid": 31,
+    "location": 2,
+    "content": "这样才能科学地训练运动员",
+    "music": 0.0
+  },
+  {
+    "from": 71.39,
+    "to": 71.85,
+    "sid": 32,
+    "location": 2,
+    "content": "好",
+    "music": 0.0
+  },
+  {
+    "from": 71.85,
+    "to": 75.67,
+    "sid": 33,
+    "location": 2,
+    "content": "现在聚焦到运动的硬件基础肌肉骨骼系统",
+    "music": 0.0
+  },
+  {
+    "from": 75.67,
+    "to": 77.33,
+    "sid": 34,
+    "location": 2,
+    "content": "这套系统由骨头",
+    "music": 0.0
+  },
+  {
+    "from": 77.33,
+    "to": 80.23,
+    "sid": 35,
+    "location": 2,
+    "content": "关节肌肉和连接他们的肌腱组成",
+    "music": 0.0
+  },
+  {
+    "from": 80.23,
+    "to": 83.32,
+    "sid": 36,
+    "location": 2,
+    "content": "目标就是让我们能做各种各样的事情",
+    "music": 0.0
+  },
+  {
+    "from": 83.32,
+    "to": 84.82,
+    "sid": 37,
+    "location": 2,
+    "content": "这里有个关键点",
+    "music": 0.0
+  },
+  {
+    "from": 84.82,
+    "to": 87.27,
+    "sid": 38,
+    "location": 2,
+    "content": "肌肉本身只能拉不能推",
+    "music": 0.0
+  },
+  {
+    "from": 87.27,
+    "to": 89.61,
+    "sid": 39,
+    "location": 2,
+    "content": "你想想你推门的时候",
+    "music": 0.0
+  },
+  {
+    "from": 89.61,
+    "to": 91.81,
+    "sid": 40,
+    "location": 2,
+    "content": "其实是你的胸大肌在收缩",
+    "music": 0.0
+  },
+  {
+    "from": 91.81,
+    "to": 93.59,
+    "sid": 41,
+    "location": 2,
+    "content": "把你的肩膀往前拉",
+    "music": 0.0
+  },
+  {
+    "from": 93.59,
+    "to": 95.07,
+    "sid": 42,
+    "location": 2,
+    "content": "从而把门推开",
+    "music": 0.0
+  },
+  {
+    "from": 95.07,
+    "to": 98.02,
+    "sid": 43,
+    "location": 2,
+    "content": "这个力是通过骨骼传递出去的",
+    "music": 0.0
+  },
+  {
+    "from": 98.02,
+    "to": 102.0,
+    "sid": 44,
+    "location": 2,
+    "content": "所以所有的运动不管看起来是推还是拉",
+    "music": 0.0
+  },
+  {
+    "from": 102.0,
+    "to": 104.5,
+    "sid": 45,
+    "location": 2,
+    "content": "本质上都是肌肉在牵拉骨骼",
+    "music": 0.0
+  },
+  {
+    "from": 104.5,
+    "to": 106.1,
+    "sid": 46,
+    "location": 2,
+    "content": "绕着关节转动",
+    "music": 0.0
+  },
+  {
+    "from": 106.1,
+    "to": 107.28,
+    "sid": 47,
+    "location": 2,
+    "content": "理解这一点",
+    "music": 0.0
+  },
+  {
+    "from": 107.28,
+    "to": 109.96,
+    "sid": 48,
+    "location": 2,
+    "content": "对分析动作模式非常有帮助",
+    "music": 0.0
+  },
+  {
+    "from": 109.96,
+    "to": 111.58,
+    "sid": 49,
+    "location": 2,
+    "content": "咱们先看看骨骼",
+    "music": 0.0
+  },
+  {
+    "from": 111.58,
+    "to": 114.12,
+    "sid": 50,
+    "location": 2,
+    "content": "成年人大概有206块骨头",
+    "music": 0.0
+  },
+  {
+    "from": 114.12,
+    "to": 116.66,
+    "sid": 51,
+    "location": 2,
+    "content": "当然具体数字因人而异",
+    "music": 0.0
+  },
+  {
+    "from": 116.66,
+    "to": 119.1,
+    "sid": 52,
+    "location": 2,
+    "content": "这些骨头虽然看起来硬邦邦的",
+    "music": 0.0
+  },
+  {
+    "from": 119.1,
+    "to": 120.46,
+    "sid": 53,
+    "location": 2,
+    "content": "但作用可不小",
+    "music": 0.0
+  },
+  {
+    "from": 120.46,
+    "to": 121.6,
+    "sid": 54,
+    "location": 2,
+    "content": "提供支撑",
+    "music": 0.0
+  },
+  {
+    "from": 121.6,
+    "to": 122.54,
+    "sid": 55,
+    "location": 2,
+    "content": "形成杠杆",
+    "music": 0.0
+  },
+  {
+    "from": 122.54,
+    "to": 124.24,
+    "sid": 56,
+    "location": 2,
+    "content": "保护重要器官",
+    "music": 0.0
+  },
+  {
+    "from": 124.24,
+    "to": 126.48,
+    "sid": 57,
+    "location": 2,
+    "content": "我们可以把它们分成两大类",
+    "music": 0.0
+  },
+  {
+    "from": 126.48,
+    "to": 130.96,
+    "sid": 58,
+    "location": 2,
+    "content": "中轴骨就是支撑身体躯干的那些腹肢骨",
+    "music": 0.0
+  },
+  {
+    "from": 130.96,
+    "to": 132.92,
+    "sid": 59,
+    "location": 2,
+    "content": "就是胳膊腿上的骨头",
+    "music": 0.0
+  },
+  {
+    "from": 132.92,
+    "to": 135.26,
+    "sid": 60,
+    "location": 2,
+    "content": "骨头之间怎么连起来呢",
+    "music": 0.0
+  },
+  {
+    "from": 135.26,
+    "to": 136.66,
+    "sid": 61,
+    "location": 2,
+    "content": "靠的就是关节",
+    "music": 0.0
+  },
+  {
+    "from": 136.66,
+    "to": 138.1,
+    "sid": 62,
+    "location": 2,
+    "content": "关节也分好几种",
+    "music": 0.0
+  },
+  {
+    "from": 138.1,
+    "to": 140.72,
+    "sid": 63,
+    "location": 2,
+    "content": "像颅骨之间的纤维关节几乎不动",
+    "music": 0.0
+  },
+  {
+    "from": 140.72,
+    "to": 142.02,
+    "sid": 64,
+    "location": 2,
+    "content": "椎间盘是软骨",
+    "music": 0.0
+  },
+  {
+    "from": 142.02,
+    "to": 143.72,
+    "sid": 65,
+    "location": 2,
+    "content": "关节活动范围有限",
+    "music": 0.0
+  },
+  {
+    "from": 143.72,
+    "to": 145.02,
+    "sid": 66,
+    "location": 2,
+    "content": "而像肘关节",
+    "music": 0.0
+  },
+  {
+    "from": 145.02,
+    "to": 148.56,
+    "sid": 67,
+    "location": 2,
+    "content": "膝关节这种滑膜关节活动范围就大得多",
+    "music": 0.0
+  },
+  {
+    "from": 148.56,
+    "to": 151.85,
+    "sid": 68,
+    "location": 2,
+    "content": "咱们大部分运动都是在这些地方发生的",
+    "music": 0.0
+  },
+  {
+    "from": 151.85,
+    "to": 154.53,
+    "sid": 69,
+    "location": 2,
+    "content": "滑膜关节特别涉及来减少摩擦",
+    "music": 0.0
+  },
+  {
+    "from": 154.53,
+    "to": 156.55,
+    "sid": 70,
+    "location": 2,
+    "content": "里面有光滑的软骨覆盖",
+    "music": 0.0
+  },
+  {
+    "from": 156.55,
+    "to": 159.019,
+    "sid": 71,
+    "location": 2,
+    "content": "还有充满润滑液的关节囊",
+    "music": 0.0
+  },
+  {
+    "from": 159.019,
+    "to": 161.379,
+    "sid": 72,
+    "location": 2,
+    "content": "根据能绕几个轴转动关节",
+    "music": 0.0
+  },
+  {
+    "from": 161.379,
+    "to": 162.859,
+    "sid": 73,
+    "location": 2,
+    "content": "又可以细分为单轴的",
+    "music": 0.0
+  },
+  {
+    "from": 162.859,
+    "to": 164.039,
+    "sid": 74,
+    "location": 2,
+    "content": "比如肘关节",
+    "music": 0.0
+  },
+  {
+    "from": 164.039,
+    "to": 165.18,
+    "sid": 75,
+    "location": 2,
+    "content": "像门铰链",
+    "music": 0.0
+  },
+  {
+    "from": 165.18,
+    "to": 165.9,
+    "sid": 76,
+    "location": 2,
+    "content": "双轴的",
+    "music": 0.0
+  },
+  {
+    "from": 165.9,
+    "to": 168.08,
+    "sid": 77,
+    "location": 2,
+    "content": "比如腕关节能上下左右动",
+    "music": 0.0
+  },
+  {
+    "from": 168.08,
+    "to": 169.06,
+    "sid": 78,
+    "location": 2,
+    "content": "还有多轴的",
+    "music": 0.0
+  },
+  {
+    "from": 169.06,
+    "to": 172.96,
+    "sid": 79,
+    "location": 2,
+    "content": "比如肩关节能前后左右上下全方位活动",
+    "music": 0.0
+  },
+  {
+    "from": 172.96,
+    "to": 177.0,
+    "sid": 80,
+    "location": 2,
+    "content": "脊柱也是由一块块椎骨和中间的椎间盘组成的",
+    "music": 0.0
+  },
+  {
+    "from": 177.0,
+    "to": 178.72,
+    "sid": 81,
+    "location": 2,
+    "content": "提供了灵活性",
+    "music": 0.0
+  },
+  {
+    "from": 178.72,
+    "to": 181.96,
+    "sid": 82,
+    "location": 2,
+    "content": "很多人关心怎么让自己的骨头更强壮",
+    "music": 0.0
+  },
+  {
+    "from": 181.96,
+    "to": 183.2,
+    "sid": 83,
+    "location": 2,
+    "content": "好消息是",
+    "music": 0.0
+  },
+  {
+    "from": 183.2,
+    "to": 186.32,
+    "sid": 84,
+    "location": 2,
+    "content": "成人的骨骼其实是有一定的适应能力的",
+    "music": 0.0
+  },
+  {
+    "from": 186.32,
+    "to": 189.32,
+    "sid": 85,
+    "location": 2,
+    "content": "哪些因素能让骨头长得更结实呢",
+    "music": 0.0
+  },
+  {
+    "from": 189.32,
+    "to": 192.52,
+    "sid": 86,
+    "location": 2,
+    "content": "主要是那些给骨头施加压力的活动",
+    "music": 0.0
+  },
+  {
+    "from": 192.52,
+    "to": 196.26,
+    "sid": 87,
+    "location": 2,
+    "content": "比如你经常扛重物或者进行抗阻训练",
+    "music": 0.0
+  },
+  {
+    "from": 196.26,
+    "to": 198.75,
+    "sid": 88,
+    "location": 2,
+    "content": "骨头就会感受到更大的负荷",
+    "music": 0.0
+  },
+  {
+    "from": 198.75,
+    "to": 200.45,
+    "sid": 89,
+    "location": 2,
+    "content": "为了应对这种挑战",
+    "music": 0.0
+  },
+  {
+    "from": 200.45,
+    "to": 204.37,
+    "sid": 90,
+    "location": 2,
+    "content": "它会增加骨密度和矿物质含量变得更坚固",
+    "music": 0.0
+  },
+  {
+    "from": 204.37,
+    "to": 207.05,
+    "sid": 91,
+    "location": 2,
+    "content": "还有像体操运动员那种高冲击",
+    "music": 0.0
+  },
+  {
+    "from": 207.05,
+    "to": 208.45,
+    "sid": 92,
+    "location": 2,
+    "content": "高爆发力的动作",
+    "music": 0.0
+  },
+  {
+    "from": 208.45,
+    "to": 210.97,
+    "sid": 93,
+    "location": 2,
+    "content": "或者需要频繁跳跃落地的运动",
+    "music": 0.0
+  },
+  {
+    "from": 210.97,
+    "to": 213.04,
+    "sid": 94,
+    "location": 2,
+    "content": "也能起到类似的效果",
+    "music": 0.0
+  },
+  {
+    "from": 213.04,
+    "to": 215.66,
+    "sid": 95,
+    "location": 2,
+    "content": "当然其他因素也很重要",
+    "music": 0.0
+  },
+  {
+    "from": 215.66,
+    "to": 218.84,
+    "sid": 96,
+    "location": 2,
+    "content": "比如你的中轴骨是不是也在承受压力",
+    "music": 0.0
+  },
+  {
+    "from": 218.84,
+    "to": 221.16,
+    "sid": 97,
+    "location": 2,
+    "content": "以及你施加压力的频率",
+    "music": 0.0
+  },
+  {
+    "from": 221.16,
+    "to": 222.7,
+    "sid": 98,
+    "location": 2,
+    "content": "这里有个关键点",
+    "music": 0.0
+  },
+  {
+    "from": 222.7,
+    "to": 225.1,
+    "sid": 99,
+    "location": 2,
+    "content": "骨骼的适应速度比肌肉慢",
+    "music": 0.0
+  },
+  {
+    "from": 225.1,
+    "to": 226.66,
+    "sid": 100,
+    "location": 2,
+    "content": "这意味着什么",
+    "music": 0.0
+  },
+  {
+    "from": 226.66,
+    "to": 228.78,
+    "sid": 101,
+    "location": 2,
+    "content": "意味着改变你的训练刺激",
+    "music": 0.0
+  },
+  {
+    "from": 228.78,
+    "to": 232.18,
+    "sid": 102,
+    "location": 2,
+    "content": "比如调整强度频率或者动作形式",
+    "music": 0.0
+  },
+  {
+    "from": 232.18,
+    "to": 234.69,
+    "sid": 103,
+    "location": 2,
+    "content": "对于促进骨骼健康非常重要",
+    "music": 0.0
+  },
+  {
+    "from": 234.69,
+    "to": 238.17,
+    "sid": 104,
+    "location": 2,
+    "content": "因为骨骼需要更长时间来响应这些变化",
+    "music": 0.0
+  },
+  {
+    "from": 238.17,
+    "to": 239.47,
+    "sid": 105,
+    "location": 2,
+    "content": "说完了骨骼",
+    "music": 0.0
+  },
+  {
+    "from": 239.47,
+    "to": 241.9,
+    "sid": 106,
+    "location": 2,
+    "content": "我们来看看负责发力的肌肉",
+    "music": 0.0
+  },
+  {
+    "from": 241.9,
+    "to": 245.58,
+    "sid": 107,
+    "location": 2,
+    "content": "骨骼肌顾名思义就是附着在骨骼上",
+    "music": 0.0
+  },
+  {
+    "from": 245.58,
+    "to": 247.76,
+    "sid": 108,
+    "location": 2,
+    "content": "让我们能主动活动的肌肉",
+    "music": 0.0
+  },
+  {
+    "from": 247.76,
+    "to": 249.78,
+    "sid": 109,
+    "location": 2,
+    "content": "没有肌肉附着在骨骼上",
+    "music": 0.0
+  },
+  {
+    "from": 249.78,
+    "to": 251.28,
+    "sid": 110,
+    "location": 2,
+    "content": "并通过肌腱连接",
+    "music": 0.0
+  },
+  {
+    "from": 251.28,
+    "to": 253.64,
+    "sid": 111,
+    "location": 2,
+    "content": "我们就无法产生任何运动",
+    "music": 0.0
+  },
+  {
+    "from": 253.64,
+    "to": 256.56,
+    "sid": 112,
+    "location": 2,
+    "content": "这张图展示了人体主要的骨骼肌群",
+    "music": 0.0
+  },
+  {
+    "from": 256.56,
+    "to": 258.34,
+    "sid": 113,
+    "location": 2,
+    "content": "前面关和后面关",
+    "music": 0.0
+  },
+  {
+    "from": 258.34,
+    "to": 259.84,
+    "sid": 114,
+    "location": 2,
+    "content": "大家可以直观的看到",
+    "music": 0.0
+  },
+  {
+    "from": 259.84,
+    "to": 262.45,
+    "sid": 115,
+    "location": 2,
+    "content": "肌肉是如何分布在整个身体上的",
+    "music": 0.0
+  },
+  {
+    "from": 262.45,
+    "to": 265.77,
+    "sid": 116,
+    "location": 2,
+    "content": "我们从宏观层面看看一块肌肉的结构",
+    "music": 0.0
+  },
+  {
+    "from": 265.77,
+    "to": 268.09,
+    "sid": 117,
+    "location": 2,
+    "content": "它不仅仅是一团肌肉组织",
+    "music": 0.0
+  },
+  {
+    "from": 268.09,
+    "to": 270.13,
+    "sid": 118,
+    "location": 2,
+    "content": "而是一个包含肌肉细胞",
+    "music": 0.0
+  },
+  {
+    "from": 270.13,
+    "to": 271.17,
+    "sid": 119,
+    "location": 2,
+    "content": "结缔组织",
+    "music": 0.0
+  },
+  {
+    "from": 271.17,
+    "to": 273.669,
+    "sid": 120,
+    "location": 2,
+    "content": "神经和血管的完整器官",
+    "music": 0.0
+  },
+  {
+    "from": 273.669,
+    "to": 277.429,
+    "sid": 121,
+    "location": 2,
+    "content": "最外层包裹着一层叫做肌外膜的结缔组织",
+    "music": 0.0
+  },
+  {
+    "from": 277.429,
+    "to": 279.249,
+    "sid": 122,
+    "location": 2,
+    "content": "它把整个肌肉包起来",
+    "music": 0.0
+  },
+  {
+    "from": 279.249,
+    "to": 281.86,
+    "sid": 123,
+    "location": 2,
+    "content": "并且和肌肉两端的肌腱相连",
+    "music": 0.0
+  },
+  {
+    "from": 281.86,
+    "to": 284.0,
+    "sid": 124,
+    "location": 2,
+    "content": "肌腱是致密的结缔组织",
+    "music": 0.0
+  },
+  {
+    "from": 284.0,
+    "to": 287.85,
+    "sid": 125,
+    "location": 2,
+    "content": "它的作用是把肌肉的力量牢固地传递到骨骼上",
+    "music": 0.0
+  },
+  {
+    "from": 287.85,
+    "to": 288.81,
+    "sid": 126,
+    "location": 2,
+    "content": "想想看",
+    "music": 0.0
+  },
+  {
+    "from": 288.81,
+    "to": 290.61,
+    "sid": 127,
+    "location": 2,
+    "content": "如果你的肌腱不够结实",
+    "music": 0.0
+  },
+  {
+    "from": 290.61,
+    "to": 292.81,
+    "sid": 128,
+    "location": 2,
+    "content": "高强度训练时很容易受伤",
+    "music": 0.0
+  },
+  {
+    "from": 292.81,
+    "to": 295.48,
+    "sid": 129,
+    "location": 2,
+    "content": "这就是为什么肌腱炎那么常见",
+    "music": 0.0
+  },
+  {
+    "from": 295.48,
+    "to": 296.88,
+    "sid": 130,
+    "location": 2,
+    "content": "对于四肢肌肉",
+    "music": 0.0
+  },
+  {
+    "from": 296.88,
+    "to": 299.2,
+    "sid": 131,
+    "location": 2,
+    "content": "我们通常说他有两个附着点",
+    "music": 0.0
+  },
+  {
+    "from": 299.2,
+    "to": 301.16,
+    "sid": 132,
+    "location": 2,
+    "content": "靠近躯干的叫近端",
+    "music": 0.0
+  },
+  {
+    "from": 301.16,
+    "to": 303.22,
+    "sid": 133,
+    "location": 2,
+    "content": "远离躯干的叫远端",
+    "music": 0.0
+  },
+  {
+    "from": 303.22,
+    "to": 306.34,
+    "sid": 134,
+    "location": 2,
+    "content": "躯干肌肉也有类似的上下端说法",
+    "music": 0.0
+  },
+  {
+    "from": 306.34,
+    "to": 308.7,
+    "sid": 135,
+    "location": 2,
+    "content": "现在我们把显微镜放大",
+    "music": 0.0
+  },
+  {
+    "from": 308.7,
+    "to": 311.1,
+    "sid": 136,
+    "location": 2,
+    "content": "看看肌肉内部的精细结构",
+    "music": 0.0
+  },
+  {
+    "from": 311.1,
+    "to": 313.64,
+    "sid": 137,
+    "location": 2,
+    "content": "构成肌肉的基本单元是肌纤维",
+    "music": 0.0
+  },
+  {
+    "from": 313.64,
+    "to": 317.18,
+    "sid": 138,
+    "location": 2,
+    "content": "你可以把它想象成一根根长长的圆柱形细胞",
+    "music": 0.0
+  },
+  {
+    "from": 317.18,
+    "to": 319.58,
+    "sid": 139,
+    "location": 2,
+    "content": "直径大概跟头发丝差不多",
+    "music": 0.0
+  },
+  {
+    "from": 319.58,
+    "to": 320.6,
+    "sid": 140,
+    "location": 2,
+    "content": "有趣的是",
+    "music": 0.0
+  },
+  {
+    "from": 320.6,
+    "to": 322.96,
+    "sid": 141,
+    "location": 2,
+    "content": "这些肌纤维通常不止一个细胞核",
+    "music": 0.0
+  },
+  {
+    "from": 322.96,
+    "to": 325.35,
+    "sid": 142,
+    "location": 2,
+    "content": "而是有很多个几百根",
+    "music": 0.0
+  },
+  {
+    "from": 325.35,
+    "to": 327.29,
+    "sid": 143,
+    "location": 2,
+    "content": "这样的肌纤维会聚集成数",
+    "music": 0.0
+  },
+  {
+    "from": 327.29,
+    "to": 328.29,
+    "sid": 144,
+    "location": 2,
+    "content": "形成基数",
+    "music": 0.0
+  },
+  {
+    "from": 328.29,
+    "to": 331.73,
+    "sid": 145,
+    "location": 2,
+    "content": "再由一层叫做基数膜的结缔组织包裹",
+    "music": 0.0
+  },
+  {
+    "from": 331.73,
+    "to": 333.67,
+    "sid": 146,
+    "location": 2,
+    "content": "而每根单独的肌纤维",
+    "music": 0.0
+  },
+  {
+    "from": 333.67,
+    "to": 336.28,
+    "sid": 147,
+    "location": 2,
+    "content": "则被一层更薄的肌内膜包裹",
+    "music": 0.0
+  },
+  {
+    "from": 336.28,
+    "to": 338.52,
+    "sid": 148,
+    "location": 2,
+    "content": "这些不同层级的结缔组织",
+    "music": 0.0
+  },
+  {
+    "from": 338.52,
+    "to": 342.36,
+    "sid": 149,
+    "location": 2,
+    "content": "从最外层的肌外膜到包裹基数的基数膜",
+    "music": 0.0
+  },
+  {
+    "from": 342.36,
+    "to": 345.31,
+    "sid": 150,
+    "location": 2,
+    "content": "再到包裹单根肌纤维的肌内膜",
+    "music": 0.0
+  },
+  {
+    "from": 345.31,
+    "to": 347.55,
+    "sid": 151,
+    "location": 2,
+    "content": "它们可不是简单的填充物",
+    "music": 0.0
+  },
+  {
+    "from": 347.55,
+    "to": 349.549,
+    "sid": 152,
+    "location": 2,
+    "content": "而是有重要作用的",
+    "music": 0.0
+  },
+  {
+    "from": 349.549,
+    "to": 351.089,
+    "sid": 153,
+    "location": 2,
+    "content": "他们像桥梁一样",
+    "music": 0.0
+  },
+  {
+    "from": 351.089,
+    "to": 354.909,
+    "sid": 154,
+    "location": 2,
+    "content": "把肌纤维收缩产生的力量一层层传递下去",
+    "music": 0.0
+  },
+  {
+    "from": 354.909,
+    "to": 357.669,
+    "sid": 155,
+    "location": 2,
+    "content": "最终通过肌腱传导到骨骼上",
+    "music": 0.0
+  },
+  {
+    "from": 357.669,
+    "to": 361.73,
+    "sid": 156,
+    "location": 2,
+    "content": "这张图清晰地展示了这三层结缔组织的关系",
+    "music": 0.0
+  },
+  {
+    "from": 361.73,
+    "to": 364.41,
+    "sid": 157,
+    "location": 2,
+    "content": "肌肉怎么知道什么时候收缩呢",
+    "music": 0.0
+  },
+  {
+    "from": 364.41,
+    "to": 366.47,
+    "sid": 158,
+    "location": 2,
+    "content": "这就得靠神经系统了",
+    "music": 0.0
+  },
+  {
+    "from": 366.47,
+    "to": 368.25,
+    "sid": 159,
+    "location": 2,
+    "content": "大脑皮层发出指令",
+    "music": 0.0
+  },
+  {
+    "from": 368.25,
+    "to": 370.88,
+    "sid": 160,
+    "location": 2,
+    "content": "通过运动神经元传递到肌肉",
+    "music": 0.0
+  },
+  {
+    "from": 370.88,
+    "to": 373.58,
+    "sid": 161,
+    "location": 2,
+    "content": "神经信号到达肌肉纤维的末端",
+    "music": 0.0
+  },
+  {
+    "from": 373.58,
+    "to": 377.35,
+    "sid": 162,
+    "location": 2,
+    "content": "形成一个叫做神经肌肉接头的特殊连接点",
+    "music": 0.0
+  },
+  {
+    "from": 377.35,
+    "to": 380.95,
+    "sid": 163,
+    "location": 2,
+    "content": "一个运动神经元可以控制很多很多条肌纤维",
+    "music": 0.0
+  },
+  {
+    "from": 380.95,
+    "to": 383.179,
+    "sid": 164,
+    "location": 2,
+    "content": "比如几百甚至上千条",
+    "music": 0.0
+  },
+  {
+    "from": 383.179,
+    "to": 386.199,
+    "sid": 165,
+    "location": 2,
+    "content": "所有这些被同一个神经元控制的肌纤维",
+    "music": 0.0
+  },
+  {
+    "from": 386.199,
+    "to": 390.159,
+    "sid": 166,
+    "location": 2,
+    "content": "再加上这个神经元本身就构成了一个运动单位",
+    "music": 0.0
+  },
+  {
+    "from": 390.159,
+    "to": 392.399,
+    "sid": 167,
+    "location": 2,
+    "content": "当这个运动神经元兴奋时",
+    "music": 0.0
+  },
+  {
+    "from": 392.399,
+    "to": 395.7,
+    "sid": 168,
+    "location": 2,
+    "content": "它所支配的所有肌纤维都会同时收缩",
+    "music": 0.0
+  },
+  {
+    "from": 395.7,
+    "to": 398.08,
+    "sid": 169,
+    "location": 2,
+    "content": "这就是所谓的全或无原则",
+    "music": 0.0
+  },
+  {
+    "from": 398.08,
+    "to": 400.02,
+    "sid": 170,
+    "location": 2,
+    "content": "要么整个运动单位收缩",
+    "music": 0.0
+  },
+  {
+    "from": 400.02,
+    "to": 401.14,
+    "sid": 171,
+    "location": 2,
+    "content": "要么就不收缩",
+    "music": 0.0
+  },
+  {
+    "from": 401.14,
+    "to": 402.62,
+    "sid": 172,
+    "location": 2,
+    "content": "没有中间状态",
+    "music": 0.0
+  },
+  {
+    "from": 402.62,
+    "to": 404.86,
+    "sid": 173,
+    "location": 2,
+    "content": "而且不同部位的肌肉",
+    "music": 0.0
+  },
+  {
+    "from": 404.86,
+    "to": 407.39,
+    "sid": 174,
+    "location": 2,
+    "content": "其运动单位的大小差别很大",
+    "music": 0.0
+  },
+  {
+    "from": 407.39,
+    "to": 409.71,
+    "sid": 175,
+    "location": 2,
+    "content": "比如控制眼球转动的眼肌",
+    "music": 0.0
+  },
+  {
+    "from": 409.71,
+    "to": 412.65,
+    "sid": 176,
+    "location": 2,
+    "content": "一个运动单位可能只控制一条肌纤维",
+    "music": 0.0
+  },
+  {
+    "from": 412.65,
+    "to": 415.46,
+    "sid": 177,
+    "location": 2,
+    "content": "这样才能实现极其精准的移动",
+    "music": 0.0
+  },
+  {
+    "from": 415.46,
+    "to": 417.54,
+    "sid": 178,
+    "location": 2,
+    "content": "而像大腿的股四头肌",
+    "music": 0.0
+  },
+  {
+    "from": 417.54,
+    "to": 420.7,
+    "sid": 179,
+    "location": 2,
+    "content": "一个运动单位可能要控制几百条肌纤维",
+    "music": 0.0
+  },
+  {
+    "from": 420.7,
+    "to": 423.44,
+    "sid": 180,
+    "location": 2,
+    "content": "因为他对精度的要求就没那么高",
+    "music": 0.0
+  },
+  {
+    "from": 423.44,
+    "to": 426.76,
+    "sid": 181,
+    "location": 2,
+    "content": "这张图形象地展示了运动单位的构成",
+    "music": 0.0
+  },
+  {
+    "from": 426.76,
+    "to": 429.12,
+    "sid": 182,
+    "location": 2,
+    "content": "我们深入到肌纤维的内部",
+    "music": 0.0
+  },
+  {
+    "from": 429.12,
+    "to": 431.1,
+    "sid": 183,
+    "location": 2,
+    "content": "看看里面到底有什么",
+    "music": 0.0
+  },
+  {
+    "from": 431.1,
+    "to": 433.4,
+    "sid": 184,
+    "location": 2,
+    "content": "肌纤维的细胞质叫做肌浆",
+    "music": 0.0
+  },
+  {
+    "from": 433.4,
+    "to": 435.22,
+    "sid": 185,
+    "location": 2,
+    "content": "里面充满了各种东西",
+    "music": 0.0
+  },
+  {
+    "from": 435.22,
+    "to": 438.11,
+    "sid": 186,
+    "location": 2,
+    "content": "包括储存能量的糖原和脂肪颗粒",
+    "music": 0.0
+  },
+  {
+    "from": 438.11,
+    "to": 439.95,
+    "sid": 187,
+    "location": 2,
+    "content": "还有负责功能的线粒体",
+    "music": 0.0
+  },
+  {
+    "from": 439.95,
+    "to": 442.37,
+    "sid": 188,
+    "location": 2,
+    "content": "和储存钙离子的基质网等等",
+    "music": 0.0
+  },
+  {
+    "from": 442.37,
+    "to": 446.43,
+    "sid": 189,
+    "location": 2,
+    "content": "占据肌浆大部分空间的是数百条细长的结构",
+    "music": 0.0
+  },
+  {
+    "from": 446.43,
+    "to": 448.159,
+    "sid": 190,
+    "location": 2,
+    "content": "叫做肌原纤维",
+    "music": 0.0
+  },
+  {
+    "from": 448.159,
+    "to": 451.379,
+    "sid": 191,
+    "location": 2,
+    "content": "这些肌原纤维才是真正的收缩机器",
+    "music": 0.0
+  },
+  {
+    "from": 451.379,
+    "to": 454.119,
+    "sid": 192,
+    "location": 2,
+    "content": "它们主要由两种蛋白质丝构成",
+    "music": 0.0
+  },
+  {
+    "from": 454.119,
+    "to": 457.23,
+    "sid": 193,
+    "location": 2,
+    "content": "一种是粗的叫肌球蛋白丝",
+    "music": 0.0
+  },
+  {
+    "from": 457.23,
+    "to": 460.48,
+    "sid": 194,
+    "location": 2,
+    "content": "另一种是细的叫肌动蛋白丝",
+    "music": 0.0
+  },
+  {
+    "from": 460.48,
+    "to": 463.16,
+    "sid": 195,
+    "location": 2,
+    "content": "这两种丝就像乐高积木一样",
+    "music": 0.0
+  },
+  {
+    "from": 463.16,
+    "to": 465.4,
+    "sid": 196,
+    "location": 2,
+    "content": "在肌原纤维里排列组合",
+    "music": 0.0
+  },
+  {
+    "from": 465.4,
+    "to": 467.84,
+    "sid": 197,
+    "location": 2,
+    "content": "构成了肌肉收缩的基础",
+    "music": 0.0
+  },
+  {
+    "from": 467.84,
+    "to": 471.02,
+    "sid": 198,
+    "location": 2,
+    "content": "这张图展示了肌纤维内部的主要结构",
+    "music": 0.0
+  },
+  {
+    "from": 471.02,
+    "to": 472.52,
+    "sid": 199,
+    "location": 2,
+    "content": "包括肌原纤维",
+    "music": 0.0
+  },
+  {
+    "from": 472.52,
+    "to": 474.69,
+    "sid": 200,
+    "location": 2,
+    "content": "肌质网和T小管等",
+    "music": 0.0
+  },
+  {
+    "from": 474.69,
+    "to": 478.53,
+    "sid": 201,
+    "location": 2,
+    "content": "肌原纤维是由一个个重复的基本单元组成的",
+    "music": 0.0
+  },
+  {
+    "from": 478.53,
+    "to": 480.61,
+    "sid": 202,
+    "location": 2,
+    "content": "这个单元就叫做肌节",
+    "music": 0.0
+  },
+  {
+    "from": 480.61,
+    "to": 483.85,
+    "sid": 203,
+    "location": 2,
+    "content": "肌节是肌肉收缩的最小功能单位",
+    "music": 0.0
+  },
+  {
+    "from": 483.85,
+    "to": 485.27,
+    "sid": 204,
+    "location": 2,
+    "content": "在一个季节里",
+    "music": 0.0
+  },
+  {
+    "from": 485.27,
+    "to": 487.59,
+    "sid": 205,
+    "location": 2,
+    "content": "你可以看到一些特殊的标记线",
+    "music": 0.0
+  },
+  {
+    "from": 487.59,
+    "to": 491.07,
+    "sid": 206,
+    "location": 2,
+    "content": "Z线在两端是肌动蛋白丝的锚定点",
+    "music": 0.0
+  },
+  {
+    "from": 491.07,
+    "to": 494.76,
+    "sid": 207,
+    "location": 2,
+    "content": "M现在中间连接着粗肌球蛋白丝",
+    "music": 0.0
+  },
+  {
+    "from": 494.76,
+    "to": 499.02,
+    "sid": 208,
+    "location": 2,
+    "content": "在Z线之间只有细肌动蛋白丝的部分叫做I带",
+    "music": 0.0
+  },
+  {
+    "from": 499.02,
+    "to": 501.03,
+    "sid": 209,
+    "location": 2,
+    "content": "所以I带是浅色的",
+    "music": 0.0
+  },
+  {
+    "from": 501.03,
+    "to": 502.73,
+    "sid": 210,
+    "location": 2,
+    "content": "而在整个季节中间",
+    "music": 0.0
+  },
+  {
+    "from": 502.73,
+    "to": 504.31,
+    "sid": 211,
+    "location": 2,
+    "content": "粗细肌丝都存在",
+    "music": 0.0
+  },
+  {
+    "from": 504.31,
+    "to": 506.14,
+    "sid": 212,
+    "location": 2,
+    "content": "形成深色的A带",
+    "music": 0.0
+  },
+  {
+    "from": 506.14,
+    "to": 508.24,
+    "sid": 213,
+    "location": 2,
+    "content": "A带中央只有粗肌丝",
+    "music": 0.0
+  },
+  {
+    "from": 508.24,
+    "to": 509.82,
+    "sid": 214,
+    "location": 2,
+    "content": "这部分叫H区",
+    "music": 0.0
+  },
+  {
+    "from": 509.82,
+    "to": 512.86,
+    "sid": 215,
+    "location": 2,
+    "content": "为什么肌肉会有明暗相间的横纹呢",
+    "music": 0.0
+  },
+  {
+    "from": 512.86,
+    "to": 515.86,
+    "sid": 216,
+    "location": 2,
+    "content": "就是因为这些肌动蛋白和肌球蛋白丝",
+    "music": 0.0
+  },
+  {
+    "from": 515.86,
+    "to": 517.04,
+    "sid": 217,
+    "location": 2,
+    "content": "周期性的排列",
+    "music": 0.0
+  },
+  {
+    "from": 517.04,
+    "to": 519.4,
+    "sid": 218,
+    "location": 2,
+    "content": "形成了这种规律的明暗带",
+    "music": 0.0
+  },
+  {
+    "from": 519.4,
+    "to": 520.92,
+    "sid": 219,
+    "location": 2,
+    "content": "当肌肉收缩时",
+    "music": 0.0
+  },
+  {
+    "from": 520.92,
+    "to": 524.6,
+    "sid": 220,
+    "location": 2,
+    "content": "就是这些细肌丝在粗肌丝之间向中间滑动",
+    "music": 0.0
+  },
+  {
+    "from": 524.6,
+    "to": 526.84,
+    "sid": 221,
+    "location": 2,
+    "content": "导致Z线之间的距离缩短",
+    "music": 0.0
+  },
+  {
+    "from": 526.84,
+    "to": 528.079,
+    "sid": 222,
+    "location": 2,
+    "content": "肌节变短",
+    "music": 0.0
+  },
+  {
+    "from": 528.079,
+    "to": 529.799,
+    "sid": 223,
+    "location": 2,
+    "content": "这张图详细展示了",
+    "music": 0.0
+  },
+  {
+    "from": 529.799,
+    "to": 532.479,
+    "sid": 224,
+    "location": 2,
+    "content": "肌球蛋白和肌动蛋白丝是如何排列",
+    "music": 0.0
+  },
+  {
+    "from": 532.479,
+    "to": 534.589,
+    "sid": 225,
+    "location": 2,
+    "content": "形成肌结和横纹的",
+    "music": 0.0
+  },
+  {
+    "from": 534.589,
+    "to": 537.509,
+    "sid": 226,
+    "location": 2,
+    "content": "肌肉收缩是怎么被精确调控的呢",
+    "music": 0.0
+  },
+  {
+    "from": 537.509,
+    "to": 538.989,
+    "sid": 227,
+    "location": 2,
+    "content": "关键角色来了",
+    "music": 0.0
+  },
+  {
+    "from": 538.989,
+    "to": 540.94,
+    "sid": 228,
+    "location": 2,
+    "content": "钙离子和肌钙蛋白",
+    "music": 0.0
+  },
+  {
+    "from": 540.94,
+    "to": 544.42,
+    "sid": 229,
+    "location": 2,
+    "content": "平时大部分钙离子都乖乖地待在机制网",
+    "music": 0.0
+  },
+  {
+    "from": 544.42,
+    "to": 545.61,
+    "sid": 230,
+    "location": 2,
+    "content": "这个仓库里",
+    "music": 0.0
+  },
+  {
+    "from": 545.61,
+    "to": 547.31,
+    "sid": 231,
+    "location": 2,
+    "content": "当神经信号来了",
+    "music": 0.0
+  },
+  {
+    "from": 547.31,
+    "to": 550.19,
+    "sid": 232,
+    "location": 2,
+    "content": "通过T小管系统会触发肌质网",
+    "music": 0.0
+  },
+  {
+    "from": 550.19,
+    "to": 552.39,
+    "sid": 233,
+    "location": 2,
+    "content": "释放钙离子到肌浆中",
+    "music": 0.0
+  },
+  {
+    "from": 552.39,
+    "to": 554.33,
+    "sid": 234,
+    "location": 2,
+    "content": "这些钙离子就像钥匙",
+    "music": 0.0
+  },
+  {
+    "from": 554.33,
+    "to": 557.11,
+    "sid": 235,
+    "location": 2,
+    "content": "它们会找到并结合到机动蛋白丝上的",
+    "music": 0.0
+  },
+  {
+    "from": 557.11,
+    "to": 560.38,
+    "sid": 236,
+    "location": 2,
+    "content": "一个叫做肌钙蛋白的蛋白质复合体上",
+    "music": 0.0
+  },
+  {
+    "from": 560.38,
+    "to": 562.72,
+    "sid": 237,
+    "location": 2,
+    "content": "肌钙蛋白本身就像一个保安",
+    "music": 0.0
+  },
+  {
+    "from": 562.72,
+    "to": 565.64,
+    "sid": 238,
+    "location": 2,
+    "content": "他还拉着另一个叫原肌球蛋白的分子",
+    "music": 0.0
+  },
+  {
+    "from": 565.64,
+    "to": 569.44,
+    "sid": 239,
+    "location": 2,
+    "content": "堵住了肌动蛋白丝上能让肌球蛋白结合的位点",
+    "music": 0.0
+  },
+  {
+    "from": 569.44,
+    "to": 571.04,
+    "sid": 240,
+    "location": 2,
+    "content": "当钙离子来了",
+    "music": 0.0
+  },
+  {
+    "from": 571.04,
+    "to": 572.78,
+    "sid": 241,
+    "location": 2,
+    "content": "结合到肌钙蛋白上",
+    "music": 0.0
+  },
+  {
+    "from": 572.78,
+    "to": 574.92,
+    "sid": 242,
+    "location": 2,
+    "content": "肌钙蛋白的构象发生变化",
+    "music": 0.0
+  },
+  {
+    "from": 574.92,
+    "to": 576.14,
+    "sid": 243,
+    "location": 2,
+    "content": "保安松了手",
+    "music": 0.0
+  },
+  {
+    "from": 576.14,
+    "to": 578.2,
+    "sid": 244,
+    "location": 2,
+    "content": "原肌球蛋白就被挤开了",
+    "music": 0.0
+  },
+  {
+    "from": 578.2,
+    "to": 579.859,
+    "sid": 245,
+    "location": 2,
+    "content": "露出了结合位点",
+    "music": 0.0
+  },
+  {
+    "from": 579.859,
+    "to": 580.939,
+    "sid": 246,
+    "location": 2,
+    "content": "这样一来",
+    "music": 0.0
+  },
+  {
+    "from": 580.939,
+    "to": 582.619,
+    "sid": 247,
+    "location": 2,
+    "content": "粗肌丝上的肌球蛋白",
+    "music": 0.0
+  },
+  {
+    "from": 582.619,
+    "to": 585.779,
+    "sid": 248,
+    "location": 2,
+    "content": "头部就能顺利的和细肌动蛋白丝结合",
+    "music": 0.0
+  },
+  {
+    "from": 585.779,
+    "to": 588.349,
+    "sid": 249,
+    "location": 2,
+    "content": "准备进行下一步的动力冲程",
+    "music": 0.0
+  },
+  {
+    "from": 588.349,
+    "to": 590.389,
+    "sid": 250,
+    "location": 2,
+    "content": "这个过程就是兴奋收缩",
+    "music": 0.0
+  },
+  {
+    "from": 590.389,
+    "to": 590.909,
+    "sid": 251,
+    "location": 2,
+    "content": "偶联",
+    "music": 0.0
+  },
+  {
+    "from": 590.909,
+    "to": 593.949,
+    "sid": 252,
+    "location": 2,
+    "content": "使肌肉从电信号兴奋转换为机械运动",
+    "music": 0.0
+  },
+  {
+    "from": 593.949,
+    "to": 595.64,
+    "sid": 253,
+    "location": 2,
+    "content": "收缩的关键步骤",
+    "music": 0.0
+  },
+  {
+    "from": 595.64,
+    "to": 598.0,
+    "sid": 254,
+    "location": 2,
+    "content": "现在到了揭晓谜底的时刻",
+    "music": 0.0
+  },
+  {
+    "from": 598.0,
+    "to": 600.0,
+    "sid": 255,
+    "location": 2,
+    "content": "肌肉到底是怎么收缩的",
+    "music": 0.0
+  },
+  {
+    "from": 600.0,
+    "to": 602.93,
+    "sid": 256,
+    "location": 2,
+    "content": "这就是著名的肌丝滑行学说",
+    "music": 0.0
+  },
+  {
+    "from": 602.93,
+    "to": 606.94,
+    "sid": 257,
+    "location": 2,
+    "content": "简单来说就是我们之前提到的细肌丝",
+    "music": 0.0
+  },
+  {
+    "from": 606.94,
+    "to": 609.16,
+    "sid": 258,
+    "location": 2,
+    "content": "在粗肌丝之间向中间滑动",
+    "music": 0.0
+  },
+  {
+    "from": 609.16,
+    "to": 611.9,
+    "sid": 259,
+    "location": 2,
+    "content": "把Z线拉近肌节就缩短了",
+    "music": 0.0
+  },
+  {
+    "from": 611.9,
+    "to": 614.18,
+    "sid": 260,
+    "location": 2,
+    "content": "整个肌肉也就收缩了",
+    "music": 0.0
+  },
+  {
+    "from": 614.18,
+    "to": 616.46,
+    "sid": 261,
+    "location": 2,
+    "content": "这个滑动的动力来自哪里",
+    "music": 0.0
+  },
+  {
+    "from": 616.46,
+    "to": 618.84,
+    "sid": 262,
+    "location": 2,
+    "content": "来自肌球蛋白头部的摆动",
+    "music": 0.0
+  },
+  {
+    "from": 618.84,
+    "to": 621.03,
+    "sid": 263,
+    "location": 2,
+    "content": "我们称之为动力冲程",
+    "music": 0.0
+  },
+  {
+    "from": 621.03,
+    "to": 622.97,
+    "sid": 264,
+    "location": 2,
+    "content": "这个摆动需要能量",
+    "music": 0.0
+  },
+  {
+    "from": 622.97,
+    "to": 625.2,
+    "sid": 265,
+    "location": 2,
+    "content": "能量来源就是ATP",
+    "music": 0.0
+  },
+  {
+    "from": 625.2,
+    "to": 626.94,
+    "sid": 266,
+    "location": 2,
+    "content": "具体过程是这样的",
+    "music": 0.0
+  },
+  {
+    "from": 626.94,
+    "to": 630.16,
+    "sid": 267,
+    "location": 2,
+    "content": "首先AATP被分解给肌球蛋白",
+    "music": 0.0
+  },
+  {
+    "from": 630.16,
+    "to": 631.349,
+    "sid": 268,
+    "location": 2,
+    "content": "头部充能",
+    "music": 0.0
+  },
+  {
+    "from": 631.349,
+    "to": 635.72,
+    "sid": 269,
+    "location": 2,
+    "content": "然后这个充能后的头部去抓住机动蛋白丝",
+    "music": 0.0
+  },
+  {
+    "from": 635.72,
+    "to": 637.88,
+    "sid": 270,
+    "location": 2,
+    "content": "接着头部猛地一拽",
+    "music": 0.0
+  },
+  {
+    "from": 637.88,
+    "to": 639.38,
+    "sid": 271,
+    "location": 2,
+    "content": "完成动力冲程",
+    "music": 0.0
+  },
+  {
+    "from": 639.38,
+    "to": 640.52,
+    "sid": 272,
+    "location": 2,
+    "content": "拉动细肌丝",
+    "music": 0.0
+  },
+  {
+    "from": 640.52,
+    "to": 641.39,
+    "sid": 273,
+    "location": 2,
+    "content": "滑动",
+    "music": 0.0
+  },
+  {
+    "from": 641.39,
+    "to": 643.95,
+    "sid": 274,
+    "location": 2,
+    "content": "最后一个新的ATP分子",
+    "music": 0.0
+  },
+  {
+    "from": 643.95,
+    "to": 646.47,
+    "sid": 275,
+    "location": 2,
+    "content": "来替换掉刚才释放出来的ATP",
+    "music": 0.0
+  },
+  {
+    "from": 646.47,
+    "to": 650.32,
+    "sid": 276,
+    "location": 2,
+    "content": "帮助肌球蛋白头部松开肌动蛋白并复位",
+    "music": 0.0
+  },
+  {
+    "from": 650.32,
+    "to": 651.99,
+    "sid": 277,
+    "location": 2,
+    "content": "准备下一次循环",
+    "music": 0.0
+  },
+  {
+    "from": 651.99,
+    "to": 654.35,
+    "sid": 278,
+    "location": 2,
+    "content": "肌肉能产生多大的力量呢",
+    "music": 0.0
+  },
+  {
+    "from": 654.35,
+    "to": 657.31,
+    "sid": 279,
+    "location": 2,
+    "content": "取决于在同一时间有多少个肌球蛋白",
+    "music": 0.0
+  },
+  {
+    "from": 657.31,
+    "to": 661.19,
+    "sid": 280,
+    "location": 2,
+    "content": "头部成功的和肌动蛋白结合并进行拉拽",
+    "music": 0.0
+  },
+  {
+    "from": 661.19,
+    "to": 664.71,
+    "sid": 281,
+    "location": 2,
+    "content": "这张图形象地展示了肌肉从拉长到收缩",
+    "music": 0.0
+  },
+  {
+    "from": 664.71,
+    "to": 666.29,
+    "sid": 282,
+    "location": 2,
+    "content": "再到完全收缩时",
+    "music": 0.0
+  },
+  {
+    "from": 666.29,
+    "to": 668.62,
+    "sid": 283,
+    "location": 2,
+    "content": "肌结内部结构的变化",
+    "music": 0.0
+  },
+  {
+    "from": 668.62,
+    "to": 671.18,
+    "sid": 284,
+    "location": 2,
+    "content": "我们再把肌肉收缩的步骤捋一遍",
+    "music": 0.0
+  },
+  {
+    "from": 671.18,
+    "to": 672.45,
+    "sid": 285,
+    "location": 2,
+    "content": "加深理解",
+    "music": 0.0
+  },
+  {
+    "from": 672.45,
+    "to": 673.25,
+    "sid": 286,
+    "location": 2,
+    "content": "第一步",
+    "music": 0.0
+  },
+  {
+    "from": 673.25,
+    "to": 675.69,
+    "sid": 287,
+    "location": 2,
+    "content": "AATP被分解给肌球蛋白",
+    "music": 0.0
+  },
+  {
+    "from": 675.69,
+    "to": 679.18,
+    "sid": 288,
+    "location": 2,
+    "content": "头部充能让他准备好去抓肌动蛋白",
+    "music": 0.0
+  },
+  {
+    "from": 679.18,
+    "to": 680.18,
+    "sid": 289,
+    "location": 2,
+    "content": "第二步",
+    "music": 0.0
+  },
+  {
+    "from": 680.18,
+    "to": 683.58,
+    "sid": 290,
+    "location": 2,
+    "content": "头部抓住机动蛋白后发生一个快速的摆动",
+    "music": 0.0
+  },
+  {
+    "from": 683.58,
+    "to": 685.06,
+    "sid": 291,
+    "location": 2,
+    "content": "这就是动力冲程",
+    "music": 0.0
+  },
+  {
+    "from": 685.06,
+    "to": 687.06,
+    "sid": 292,
+    "location": 2,
+    "content": "把细肌丝往中间拉",
+    "music": 0.0
+  },
+  {
+    "from": 687.06,
+    "to": 688.08,
+    "sid": 293,
+    "location": 2,
+    "content": "第三步",
+    "music": 0.0
+  },
+  {
+    "from": 688.08,
+    "to": 692.06,
+    "sid": 294,
+    "location": 2,
+    "content": "击球蛋白头部拉着机动蛋白滑动一小段距离后",
+    "music": 0.0
+  },
+  {
+    "from": 692.06,
+    "to": 693.95,
+    "sid": 295,
+    "location": 2,
+    "content": "ADP被释放出来",
+    "music": 0.0
+  },
+  {
+    "from": 693.95,
+    "to": 694.91,
+    "sid": 296,
+    "location": 2,
+    "content": "第四步",
+    "music": 0.0
+  },
+  {
+    "from": 694.91,
+    "to": 697.53,
+    "sid": 297,
+    "location": 2,
+    "content": "一个新的AATP分子结合上来",
+    "music": 0.0
+  },
+  {
+    "from": 697.53,
+    "to": 700.15,
+    "sid": 298,
+    "location": 2,
+    "content": "这个结合过程有助于肌球蛋白",
+    "music": 0.0
+  },
+  {
+    "from": 700.15,
+    "to": 702.089,
+    "sid": 299,
+    "location": 2,
+    "content": "头部松开肌动蛋白",
+    "music": 0.0
+  },
+  {
+    "from": 702.089,
+    "to": 703.129,
+    "sid": 300,
+    "location": 2,
+    "content": "第五步",
+    "music": 0.0
+  },
+  {
+    "from": 703.129,
+    "to": 704.809,
+    "sid": 301,
+    "location": 2,
+    "content": "新的ATP被水解",
+    "music": 0.0
+  },
+  {
+    "from": 704.809,
+    "to": 705.809,
+    "sid": 302,
+    "location": 2,
+    "content": "头部复位",
+    "music": 0.0
+  },
+  {
+    "from": 705.809,
+    "to": 708.689,
+    "sid": 303,
+    "location": 2,
+    "content": "又可以开始新一轮的抓取拉拽",
+    "music": 0.0
+  },
+  {
+    "from": 708.689,
+    "to": 710.74,
+    "sid": 304,
+    "location": 2,
+    "content": "松开复位的循环",
+    "music": 0.0
+  },
+  {
+    "from": 710.74,
+    "to": 713.46,
+    "sid": 305,
+    "location": 2,
+    "content": "只要钙离子AATP和肌球蛋白",
+    "music": 0.0
+  },
+  {
+    "from": 713.46,
+    "to": 715.34,
+    "sid": 306,
+    "location": 2,
+    "content": "AATP酶都在正常工作",
+    "music": 0.0
+  },
+  {
+    "from": 715.34,
+    "to": 717.26,
+    "sid": 307,
+    "location": 2,
+    "content": "这个循环就能持续进行",
+    "music": 0.0
+  },
+  {
+    "from": 717.26,
+    "to": 719.16,
+    "sid": 308,
+    "location": 2,
+    "content": "肌肉就能持续收缩",
+    "music": 0.0
+  },
+  {
+    "from": 719.16,
+    "to": 720.78,
+    "sid": 309,
+    "location": 2,
+    "content": "什么时候放松呢",
+    "music": 0.0
+  },
+  {
+    "from": 720.78,
+    "to": 722.84,
+    "sid": 310,
+    "location": 2,
+    "content": "当神经信号停止传来",
+    "music": 0.0
+  },
+  {
+    "from": 722.84,
+    "to": 725.079,
+    "sid": 311,
+    "location": 2,
+    "content": "钙离子被回收回机制网",
+    "music": 0.0
+  },
+  {
+    "from": 725.079,
+    "to": 728.779,
+    "sid": 312,
+    "location": 2,
+    "content": "肌动蛋白上的结合位点又被原肌球蛋白盖住",
+    "music": 0.0
+  },
+  {
+    "from": 728.779,
+    "to": 731.319,
+    "sid": 313,
+    "location": 2,
+    "content": "肌球蛋白头部就无法再结合",
+    "music": 0.0
+  },
+  {
+    "from": 731.319,
+    "to": 733.24,
+    "sid": 314,
+    "location": 2,
+    "content": "肌肉就放松了",
+    "music": 0.0
+  },
+  {
+    "from": 733.24,
+    "to": 736.34,
+    "sid": 315,
+    "location": 2,
+    "content": "我们已经知道单个肌纤维是怎么收缩的",
+    "music": 0.0
+  },
+  {
+    "from": 736.34,
+    "to": 739.6,
+    "sid": 316,
+    "location": 2,
+    "content": "那整个肌肉是怎么被激活和控制的呢",
+    "music": 0.0
+  },
+  {
+    "from": 739.6,
+    "to": 741.9,
+    "sid": 317,
+    "location": 2,
+    "content": "运动神经元发出的电信号",
+    "music": 0.0
+  },
+  {
+    "from": 741.9,
+    "to": 745.15,
+    "sid": 318,
+    "location": 2,
+    "content": "也就是动作电位一路跑到肌肉末端",
+    "music": 0.0
+  },
+  {
+    "from": 745.15,
+    "to": 748.43,
+    "sid": 319,
+    "location": 2,
+    "content": "这个电信号本身不能直接让肌肉收缩",
+    "music": 0.0
+  },
+  {
+    "from": 748.43,
+    "to": 752.11,
+    "sid": 320,
+    "location": 2,
+    "content": "它会在神经肌肉接头处释放一种化学信使",
+    "music": 0.0
+  },
+  {
+    "from": 752.11,
+    "to": 754.01,
+    "sid": 321,
+    "location": 2,
+    "content": "叫做乙酰胆碱",
+    "music": 0.0
+  },
+  {
+    "from": 754.01,
+    "to": 757.81,
+    "sid": 322,
+    "location": 2,
+    "content": "乙酰胆碱穿过接头间隙作用于肌纤维膜",
+    "music": 0.0
+  },
+  {
+    "from": 757.81,
+    "to": 759.61,
+    "sid": 323,
+    "location": 2,
+    "content": "引发一个新的动作电位",
+    "music": 0.0
+  },
+  {
+    "from": 759.61,
+    "to": 761.81,
+    "sid": 324,
+    "location": 2,
+    "content": "最终导致肌纤维收缩",
+    "music": 0.0
+  },
+  {
+    "from": 761.81,
+    "to": 764.73,
+    "sid": 325,
+    "location": 2,
+    "content": "记住一个运动单位的所有肌纤维",
+    "music": 0.0
+  },
+  {
+    "from": 764.73,
+    "to": 765.93,
+    "sid": 326,
+    "location": 2,
+    "content": "要么一起收缩",
+    "music": 0.0
+  },
+  {
+    "from": 765.93,
+    "to": 767.43,
+    "sid": 327,
+    "location": 2,
+    "content": "要么一起不收缩",
+    "music": 0.0
+  },
+  {
+    "from": 767.43,
+    "to": 769.56,
+    "sid": 328,
+    "location": 2,
+    "content": "这就是全或无原则",
+    "music": 0.0
+  },
+  {
+    "from": 769.56,
+    "to": 772.38,
+    "sid": 329,
+    "location": 2,
+    "content": "如果神经持续快速的发送信号",
+    "music": 0.0
+  },
+  {
+    "from": 772.38,
+    "to": 773.84,
+    "sid": 330,
+    "location": 2,
+    "content": "会发生什么呢",
+    "music": 0.0
+  },
+  {
+    "from": 773.84,
+    "to": 776.62,
+    "sid": 331,
+    "location": 2,
+    "content": "第一次信号引起一个短暂的收缩",
+    "music": 0.0
+  },
+  {
+    "from": 776.62,
+    "to": 778.12,
+    "sid": 332,
+    "location": 2,
+    "content": "叫单收缩",
+    "music": 0.0
+  },
+  {
+    "from": 778.12,
+    "to": 780.28,
+    "sid": 333,
+    "location": 2,
+    "content": "如果信号很快又来一次",
+    "music": 0.0
+  },
+  {
+    "from": 780.28,
+    "to": 782.4,
+    "sid": 334,
+    "location": 2,
+    "content": "第二次收缩还没完全放松",
+    "music": 0.0
+  },
+  {
+    "from": 782.4,
+    "to": 783.66,
+    "sid": 335,
+    "location": 2,
+    "content": "就会叠加起来",
+    "music": 0.0
+  },
+  {
+    "from": 783.66,
+    "to": 784.74,
+    "sid": 336,
+    "location": 2,
+    "content": "力量变大",
+    "music": 0.0
+  },
+  {
+    "from": 784.74,
+    "to": 786.67,
+    "sid": 337,
+    "location": 2,
+    "content": "这叫不完全强直",
+    "music": 0.0
+  },
+  {
+    "from": 786.67,
+    "to": 788.43,
+    "sid": 338,
+    "location": 2,
+    "content": "如果信号频率更高",
+    "music": 0.0
+  },
+  {
+    "from": 788.43,
+    "to": 790.55,
+    "sid": 339,
+    "location": 2,
+    "content": "两次收缩几乎无缝衔接",
+    "music": 0.0
+  },
+  {
+    "from": 790.55,
+    "to": 793.99,
+    "sid": 340,
+    "location": 2,
+    "content": "看起来就像一个持续的最大力量的收缩",
+    "music": 0.0
+  },
+  {
+    "from": 793.99,
+    "to": 795.81,
+    "sid": 341,
+    "location": 2,
+    "content": "这就是完全强直",
+    "music": 0.0
+  },
+  {
+    "from": 795.81,
+    "to": 797.339,
+    "sid": 342,
+    "location": 2,
+    "content": "我们平时用力",
+    "music": 0.0
+  },
+  {
+    "from": 797.339,
+    "to": 800.259,
+    "sid": 343,
+    "location": 2,
+    "content": "其实就是通过调节神经信号的频率",
+    "music": 0.0
+  },
+  {
+    "from": 800.259,
+    "to": 802.539,
+    "sid": 344,
+    "location": 2,
+    "content": "和募集不同大小的运动单位",
+    "music": 0.0
+  },
+  {
+    "from": 802.539,
+    "to": 805.37,
+    "sid": 345,
+    "location": 2,
+    "content": "来实现力量输出的精细控制的",
+    "music": 0.0
+  },
+  {
+    "from": 805.37,
+    "to": 808.17,
+    "sid": 346,
+    "location": 2,
+    "content": "这张图展示了随着刺激频率的增加",
+    "music": 0.0
+  },
+  {
+    "from": 808.17,
+    "to": 810.75,
+    "sid": 347,
+    "location": 2,
+    "content": "肌肉收缩力是如何从单收缩",
+    "music": 0.0
+  },
+  {
+    "from": 810.75,
+    "to": 813.3,
+    "sid": 348,
+    "location": 2,
+    "content": "逐渐叠加到强直收缩的",
+    "music": 0.0
+  },
+  {
+    "from": 813.3,
+    "to": 817.349,
+    "sid": 349,
+    "location": 2,
+    "content": "现在我们来聊聊肌肉里不同类型的士兵肌纤维",
+    "music": 0.0
+  },
+  {
+    "from": 817.349,
+    "to": 819.269,
+    "sid": 350,
+    "location": 2,
+    "content": "它们可不是千篇一律的",
+    "music": 0.0
+  },
+  {
+    "from": 819.269,
+    "to": 821.009,
+    "sid": 351,
+    "location": 2,
+    "content": "主要可以分为两大类",
+    "music": 0.0
+  },
+  {
+    "from": 821.009,
+    "to": 823.27,
+    "sid": 352,
+    "location": 2,
+    "content": "慢肌纤维和快肌纤维",
+    "music": 0.0
+  },
+  {
+    "from": 823.27,
+    "to": 825.73,
+    "sid": 353,
+    "location": 2,
+    "content": "慢肌纤维也叫I型纤维",
+    "music": 0.0
+  },
+  {
+    "from": 825.73,
+    "to": 827.29,
+    "sid": 354,
+    "location": 2,
+    "content": "特点是收缩比较慢",
+    "music": 0.0
+  },
+  {
+    "from": 827.29,
+    "to": 828.29,
+    "sid": 355,
+    "location": 2,
+    "content": "但特别耐力",
+    "music": 0.0
+  },
+  {
+    "from": 828.29,
+    "to": 829.54,
+    "sid": 356,
+    "location": 2,
+    "content": "不容易疲劳",
+    "music": 0.0
+  },
+  {
+    "from": 829.54,
+    "to": 831.3,
+    "sid": 357,
+    "location": 2,
+    "content": "他们擅长有氧运动",
+    "music": 0.0
+  },
+  {
+    "from": 831.3,
+    "to": 832.2,
+    "sid": 358,
+    "location": 2,
+    "content": "线粒体多",
+    "music": 0.0
+  },
+  {
+    "from": 832.2,
+    "to": 833.5,
+    "sid": 359,
+    "location": 2,
+    "content": "毛细血管丰富",
+    "music": 0.0
+  },
+  {
+    "from": 833.5,
+    "to": 835.02,
+    "sid": 360,
+    "location": 2,
+    "content": "肌红蛋白含量高",
+    "music": 0.0
+  },
+  {
+    "from": 835.02,
+    "to": 836.77,
+    "sid": 361,
+    "location": 2,
+    "content": "所以颜色偏红",
+    "music": 0.0
+  },
+  {
+    "from": 836.77,
+    "to": 839.05,
+    "sid": 362,
+    "location": 2,
+    "content": "快肌纤维也叫I型纤维",
+    "music": 0.0
+  },
+  {
+    "from": 839.05,
+    "to": 840.09,
+    "sid": 363,
+    "location": 2,
+    "content": "正好相反",
+    "music": 0.0
+  },
+  {
+    "from": 840.09,
+    "to": 841.19,
+    "sid": 364,
+    "location": 2,
+    "content": "它们收缩快",
+    "music": 0.0
+  },
+  {
+    "from": 841.19,
+    "to": 841.87,
+    "sid": 365,
+    "location": 2,
+    "content": "力量大",
+    "music": 0.0
+  },
+  {
+    "from": 841.87,
+    "to": 842.65,
+    "sid": 366,
+    "location": 2,
+    "content": "爆发力强",
+    "music": 0.0
+  },
+  {
+    "from": 842.65,
+    "to": 843.73,
+    "sid": 367,
+    "location": 2,
+    "content": "但容易疲劳",
+    "music": 0.0
+  },
+  {
+    "from": 843.73,
+    "to": 845.49,
+    "sid": 368,
+    "location": 2,
+    "content": "主要靠无氧供能",
+    "music": 0.0
+  },
+  {
+    "from": 845.49,
+    "to": 847.03,
+    "sid": 369,
+    "location": 2,
+    "content": "它们的线粒体少",
+    "music": 0.0
+  },
+  {
+    "from": 847.03,
+    "to": 848.65,
+    "sid": 370,
+    "location": 2,
+    "content": "毛细血管相对少",
+    "music": 0.0
+  },
+  {
+    "from": 848.65,
+    "to": 849.89,
+    "sid": 371,
+    "location": 2,
+    "content": "肌红蛋白低",
+    "music": 0.0
+  },
+  {
+    "from": 849.89,
+    "to": 851.5,
+    "sid": 372,
+    "location": 2,
+    "content": "所以颜色偏白",
+    "music": 0.0
+  },
+  {
+    "from": 851.5,
+    "to": 853.86,
+    "sid": 373,
+    "location": 2,
+    "content": "快肌纤维还可以再细分",
+    "music": 0.0
+  },
+  {
+    "from": 853.86,
+    "to": 855.66,
+    "sid": 374,
+    "location": 2,
+    "content": "AI型是中间型",
+    "music": 0.0
+  },
+  {
+    "from": 855.66,
+    "to": 857.3,
+    "sid": 375,
+    "location": 2,
+    "content": "既有一定的有氧能力",
+    "music": 0.0
+  },
+  {
+    "from": 857.3,
+    "to": 858.98,
+    "sid": 376,
+    "location": 2,
+    "content": "也有不错的爆发力",
+    "music": 0.0
+  },
+  {
+    "from": 858.98,
+    "to": 861.96,
+    "sid": 377,
+    "location": 2,
+    "content": "IX型则是纯粹的无氧力量型",
+    "music": 0.0
+  },
+  {
+    "from": 861.96,
+    "to": 863.16,
+    "sid": 378,
+    "location": 2,
+    "content": "爆发力最强",
+    "music": 0.0
+  },
+  {
+    "from": 863.16,
+    "to": 864.53,
+    "sid": 379,
+    "location": 2,
+    "content": "但最易疲劳",
+    "music": 0.0
+  },
+  {
+    "from": 864.53,
+    "to": 868.39,
+    "sid": 380,
+    "location": 2,
+    "content": "一个运动单位里的所有肌纤维都是同一种类型",
+    "music": 0.0
+  },
+  {
+    "from": 868.39,
+    "to": 871.73,
+    "sid": 381,
+    "location": 2,
+    "content": "所以运动单位也分慢肌和快肌",
+    "music": 0.0
+  },
+  {
+    "from": 871.73,
+    "to": 872.77,
+    "sid": 382,
+    "location": 2,
+    "content": "这种分类",
+    "music": 0.0
+  },
+  {
+    "from": 872.77,
+    "to": 876.14,
+    "sid": 383,
+    "location": 2,
+    "content": "直接影响了它们在不同运动中的参与程度",
+    "music": 0.0
+  },
+  {
+    "from": 876.14,
+    "to": 879.42,
+    "sid": 384,
+    "location": 2,
+    "content": "比如长跑运动员I型纤维比例高",
+    "music": 0.0
+  },
+  {
+    "from": 879.42,
+    "to": 882.329,
+    "sid": 385,
+    "location": 2,
+    "content": "短跑运动员I型纤维比例高",
+    "music": 0.0
+  },
+  {
+    "from": 882.329,
+    "to": 885.409,
+    "sid": 386,
+    "location": 2,
+    "content": "这张表总结了这三种主要肌纤维类型的",
+    "music": 0.0
+  },
+  {
+    "from": 885.409,
+    "to": 886.73,
+    "sid": 387,
+    "location": 2,
+    "content": "关键区别",
+    "music": 0.0
+  },
+  {
+    "from": 886.73,
+    "to": 890.74,
+    "sid": 388,
+    "location": 2,
+    "content": "这张表继续对比了三种肌纤维类型的特点",
+    "music": 0.0
+  },
+  {
+    "from": 890.74,
+    "to": 891.82,
+    "sid": 389,
+    "location": 2,
+    "content": "可以看到",
+    "music": 0.0
+  },
+  {
+    "from": 891.82,
+    "to": 895.5,
+    "sid": 390,
+    "location": 2,
+    "content": "爱型慢肌纤维通常由较小的运动神经元支配",
+    "music": 0.0
+  },
+  {
+    "from": 895.5,
+    "to": 896.99,
+    "sid": 391,
+    "location": 2,
+    "content": "更容易被激活",
+    "music": 0.0
+  },
+  {
+    "from": 896.99,
+    "to": 899.97,
+    "sid": 392,
+    "location": 2,
+    "content": "神经传导和肌肉收缩放松都比较慢",
+    "music": 0.0
+  },
+  {
+    "from": 899.97,
+    "to": 901.46,
+    "sid": 393,
+    "location": 2,
+    "content": "但非常耐力",
+    "music": 0.0
+  },
+  {
+    "from": 901.46,
+    "to": 904.34,
+    "sid": 394,
+    "location": 2,
+    "content": "而ii型和ix型快肌纤维",
+    "music": 0.0
+  },
+  {
+    "from": 904.34,
+    "to": 906.54,
+    "sid": 395,
+    "location": 2,
+    "content": "则由较大的运动神经元支配",
+    "music": 0.0
+  },
+  {
+    "from": 906.54,
+    "to": 907.86,
+    "sid": 396,
+    "location": 2,
+    "content": "需要更强的刺激",
+    "music": 0.0
+  },
+  {
+    "from": 907.86,
+    "to": 911.94,
+    "sid": 397,
+    "location": 2,
+    "content": "才能激活神经传导和肌肉收缩放松都比较快",
+    "music": 0.0
+  },
+  {
+    "from": 911.94,
+    "to": 913.38,
+    "sid": 398,
+    "location": 2,
+    "content": "力量和爆发力强",
+    "music": 0.0
+  },
+  {
+    "from": 913.38,
+    "to": 914.65,
+    "sid": 399,
+    "location": 2,
+    "content": "但耐力差",
+    "music": 0.0
+  },
+  {
+    "from": 914.65,
+    "to": 916.19,
+    "sid": 400,
+    "location": 2,
+    "content": "从代谢角度看",
+    "music": 0.0
+  },
+  {
+    "from": 916.19,
+    "to": 918.63,
+    "sid": 401,
+    "location": 2,
+    "content": "I型纤维有氧酶活性最高",
+    "music": 0.0
+  },
+  {
+    "from": 918.63,
+    "to": 920.48,
+    "sid": 402,
+    "location": 2,
+    "content": "无氧酶活性最低",
+    "music": 0.0
+  },
+  {
+    "from": 920.48,
+    "to": 922.64,
+    "sid": 403,
+    "location": 2,
+    "content": "IX型正好相反",
+    "music": 0.0
+  },
+  {
+    "from": 922.64,
+    "to": 925.23,
+    "sid": 404,
+    "location": 2,
+    "content": "II型则介于两者之间",
+    "music": 0.0
+  },
+  {
+    "from": 925.23,
+    "to": 926.57,
+    "sid": 405,
+    "location": 2,
+    "content": "从形态上看",
+    "music": 0.0
+  },
+  {
+    "from": 926.57,
+    "to": 927.99,
+    "sid": 406,
+    "location": 2,
+    "content": "I型纤维最细",
+    "music": 0.0
+  },
+  {
+    "from": 927.99,
+    "to": 929.51,
+    "sid": 407,
+    "location": 2,
+    "content": "ix型最粗",
+    "music": 0.0
+  },
+  {
+    "from": 929.51,
+    "to": 932.01,
+    "sid": 408,
+    "location": 2,
+    "content": "这也反映了它们的功能差异",
+    "music": 0.0
+  },
+  {
+    "from": 932.01,
+    "to": 933.07,
+    "sid": 409,
+    "location": 2,
+    "content": "颜色上",
+    "music": 0.0
+  },
+  {
+    "from": 933.07,
+    "to": 936.329,
+    "sid": 410,
+    "location": 2,
+    "content": "I型纤维因为富含肌红蛋白而呈红色",
+    "music": 0.0
+  },
+  {
+    "from": 936.329,
+    "to": 939.489,
+    "sid": 411,
+    "location": 2,
+    "content": "IX型因为肌红蛋白少而呈白色",
+    "music": 0.0
+  },
+  {
+    "from": 939.489,
+    "to": 941.649,
+    "sid": 412,
+    "location": 2,
+    "content": "ii型则介于两者之间",
+    "music": 0.0
+  },
+  {
+    "from": 941.649,
+    "to": 944.369,
+    "sid": 413,
+    "location": 2,
+    "content": "有时也被称为红白肌纤维",
+    "music": 0.0
+  },
+  {
+    "from": 944.369,
+    "to": 945.929,
+    "sid": 414,
+    "location": 2,
+    "content": "这些细微的差别",
+    "music": 0.0
+  },
+  {
+    "from": 945.929,
+    "to": 947.889,
+    "sid": 415,
+    "location": 2,
+    "content": "决定了它们在不同运动项目中",
+    "music": 0.0
+  },
+  {
+    "from": 947.889,
+    "to": 949.829,
+    "sid": 416,
+    "location": 2,
+    "content": "的优劣和参与程度",
+    "music": 0.0
+  },
+  {
+    "from": 949.829,
+    "to": 952.409,
+    "sid": 417,
+    "location": 2,
+    "content": "一块肌肉是怎么根据任务需求",
+    "music": 0.0
+  },
+  {
+    "from": 952.409,
+    "to": 954.26,
+    "sid": 418,
+    "location": 2,
+    "content": "调整力量输出的呢",
+    "music": 0.0
+  },
+  {
+    "from": 954.26,
+    "to": 955.78,
+    "sid": 419,
+    "location": 2,
+    "content": "主要有两种方式",
+    "music": 0.0
+  },
+  {
+    "from": 955.78,
+    "to": 959.18,
+    "sid": 420,
+    "location": 2,
+    "content": "第一种是改变已经激活的运动单位的收缩频率",
+    "music": 0.0
+  },
+  {
+    "from": 959.18,
+    "to": 961.39,
+    "sid": 421,
+    "location": 2,
+    "content": "就像我们前面说的频率编码",
+    "music": 0.0
+  },
+  {
+    "from": 961.39,
+    "to": 964.97,
+    "sid": 422,
+    "location": 2,
+    "content": "通过让同一个运动单位更快的收缩来增加力量",
+    "music": 0.0
+  },
+  {
+    "from": 964.97,
+    "to": 967.33,
+    "sid": 423,
+    "location": 2,
+    "content": "这在需要精细控制的小肌肉",
+    "music": 0.0
+  },
+  {
+    "from": 967.33,
+    "to": 969.23,
+    "sid": 424,
+    "location": 2,
+    "content": "比如手指头里很重要",
+    "music": 0.0
+  },
+  {
+    "from": 969.23,
+    "to": 971.55,
+    "sid": 425,
+    "location": 2,
+    "content": "第二种方式也是在大肌肉",
+    "music": 0.0
+  },
+  {
+    "from": 971.55,
+    "to": 972.55,
+    "sid": 426,
+    "location": 2,
+    "content": "比如大腿里",
+    "music": 0.0
+  },
+  {
+    "from": 972.55,
+    "to": 976.499,
+    "sid": 427,
+    "location": 2,
+    "content": "更常用的方式是改变被激活的运动单位的数量",
+    "music": 0.0
+  },
+  {
+    "from": 976.499,
+    "to": 979.93,
+    "sid": 428,
+    "location": 2,
+    "content": "也就是募集更多的运动单位来参与工作",
+    "music": 0.0
+  },
+  {
+    "from": 979.93,
+    "to": 982.45,
+    "sid": 429,
+    "location": 2,
+    "content": "那么这些不同类型的运动单位",
+    "music": 0.0
+  },
+  {
+    "from": 982.45,
+    "to": 984.1,
+    "sid": 430,
+    "location": 2,
+    "content": "是怎么被募集的呢",
+    "music": 0.0
+  },
+  {
+    "from": 984.1,
+    "to": 986.46,
+    "sid": 431,
+    "location": 2,
+    "content": "这里有个著名的募集顺序原则",
+    "music": 0.0
+  },
+  {
+    "from": 986.46,
+    "to": 988.06,
+    "sid": 432,
+    "location": 2,
+    "content": "也叫大小原则",
+    "music": 0.0
+  },
+  {
+    "from": 988.06,
+    "to": 991.66,
+    "sid": 433,
+    "location": 2,
+    "content": "身体通常会先激活那些小的慢的耐力",
+    "music": 0.0
+  },
+  {
+    "from": 991.66,
+    "to": 993.42,
+    "sid": 434,
+    "location": 2,
+    "content": "好的I型运动单位",
+    "music": 0.0
+  },
+  {
+    "from": 993.42,
+    "to": 997.0,
+    "sid": 435,
+    "location": 2,
+    "content": "只有当这些小单位的力量不足以满足需求时",
+    "music": 0.0
+  },
+  {
+    "from": 997.0,
+    "to": 999.98,
+    "sid": 436,
+    "location": 2,
+    "content": "才会逐渐开始募集那些大的快的",
+    "music": 0.0
+  },
+  {
+    "from": 999.98,
+    "to": 1002.17,
+    "sid": 437,
+    "location": 2,
+    "content": "力量型的I型运动单位",
+    "music": 0.0
+  },
+  {
+    "from": 1004.63,
+    "to": 1005.61,
+    "sid": 438,
+    "location": 2,
+    "content": "油门到底了",
+    "music": 0.0
+  },
+  {
+    "from": 1005.61,
+    "to": 1006.57,
+    "sid": 439,
+    "location": 2,
+    "content": "再挂高档",
+    "music": 0.0
+  },
+  {
+    "from": 1006.57,
+    "to": 1008.15,
+    "sid": 440,
+    "location": 2,
+    "content": "不同的运动项目",
+    "music": 0.0
+  },
+  {
+    "from": 1008.15,
+    "to": 1011.13,
+    "sid": 441,
+    "location": 2,
+    "content": "对这两种肌纤维的依赖程度也不同",
+    "music": 0.0
+  },
+  {
+    "from": 1011.13,
+    "to": 1013.95,
+    "sid": 442,
+    "location": 2,
+    "content": "比如长跑主要靠爱型纤维撑着",
+    "music": 0.0
+  },
+  {
+    "from": 1013.95,
+    "to": 1016.73,
+    "sid": 443,
+    "location": 2,
+    "content": "短跑冲刺主要靠爱型纤维爆发",
+    "music": 0.0
+  },
+  {
+    "from": 1016.73,
+    "to": 1018.99,
+    "sid": 444,
+    "location": 2,
+    "content": "足球篮球这种混合型运动",
+    "music": 0.0
+  },
+  {
+    "from": 1018.99,
+    "to": 1020.87,
+    "sid": 445,
+    "location": 2,
+    "content": "两种纤维都得使劲儿",
+    "music": 0.0
+  },
+  {
+    "from": 1020.87,
+    "to": 1022.61,
+    "sid": 446,
+    "location": 2,
+    "content": "而且未经训练的人",
+    "music": 0.0
+  },
+  {
+    "from": 1022.61,
+    "to": 1025.43,
+    "sid": 447,
+    "location": 2,
+    "content": "往往很难完全调动起所有的运动单位",
+    "music": 0.0
+  },
+  {
+    "from": 1025.43,
+    "to": 1028.04,
+    "sid": 448,
+    "location": 2,
+    "content": "尤其是那些强大的爱型单位",
+    "music": 0.0
+  },
+  {
+    "from": 1028.04,
+    "to": 1030.9,
+    "sid": 449,
+    "location": 2,
+    "content": "我们平时走路跑步甚至坐着",
+    "music": 0.0
+  },
+  {
+    "from": 1030.9,
+    "to": 1032.68,
+    "sid": 450,
+    "location": 2,
+    "content": "似乎都不需要刻意去想",
+    "music": 0.0
+  },
+  {
+    "from": 1032.68,
+    "to": 1035.349,
+    "sid": 451,
+    "location": 2,
+    "content": "身体各部分的位置和姿势对吧",
+    "music": 0.0
+  },
+  {
+    "from": 1035.349,
+    "to": 1038.199,
+    "sid": 452,
+    "location": 2,
+    "content": "这种感觉就是所谓的本体感觉",
+    "music": 0.0
+  },
+  {
+    "from": 1038.199,
+    "to": 1039.859,
+    "sid": 453,
+    "location": 2,
+    "content": "它是怎么实现的呢",
+    "music": 0.0
+  },
+  {
+    "from": 1039.859,
+    "to": 1042.959,
+    "sid": 454,
+    "location": 2,
+    "content": "靠的是分布在我们关节肌肉和肌腱里的",
+    "music": 0.0
+  },
+  {
+    "from": 1042.959,
+    "to": 1043.979,
+    "sid": 455,
+    "location": 2,
+    "content": "特殊感受器",
+    "music": 0.0
+  },
+  {
+    "from": 1043.979,
+    "to": 1045.929,
+    "sid": 456,
+    "location": 2,
+    "content": "叫做本体感受器",
+    "music": 0.0
+  },
+  {
+    "from": 1045.929,
+    "to": 1048.769,
+    "sid": 457,
+    "location": 2,
+    "content": "这些感受器就像内置的传感器",
+    "music": 0.0
+  },
+  {
+    "from": 1048.769,
+    "to": 1051.109,
+    "sid": 458,
+    "location": 2,
+    "content": "时刻监测着肌肉的长度变化",
+    "music": 0.0
+  },
+  {
+    "from": 1051.109,
+    "to": 1052.029,
+    "sid": 459,
+    "location": 2,
+    "content": "张力大小",
+    "music": 0.0
+  },
+  {
+    "from": 1052.029,
+    "to": 1053.94,
+    "sid": 460,
+    "location": 2,
+    "content": "关节的角度等等信息",
+    "music": 0.0
+  },
+  {
+    "from": 1053.94,
+    "to": 1056.909,
+    "sid": 461,
+    "location": 2,
+    "content": "并把这些信息实时反馈给大脑",
+    "music": 0.0
+  },
+  {
+    "from": 1056.909,
+    "to": 1060.109,
+    "sid": 462,
+    "location": 2,
+    "content": "虽然大部分信息是在我们意识不到的情况下",
+    "music": 0.0
+  },
+  {
+    "from": 1060.109,
+    "to": 1060.829,
+    "sid": 463,
+    "location": 2,
+    "content": "处理的",
+    "music": 0.0
+  },
+  {
+    "from": 1060.829,
+    "to": 1064.11,
+    "sid": 464,
+    "location": 2,
+    "content": "用来帮助我们自动维持平衡协调动作",
+    "music": 0.0
+  },
+  {
+    "from": 1064.11,
+    "to": 1067.09,
+    "sid": 465,
+    "location": 2,
+    "content": "但有一部分信息会上升到意识层面",
+    "music": 0.0
+  },
+  {
+    "from": 1067.09,
+    "to": 1070.94,
+    "sid": 466,
+    "location": 2,
+    "content": "让我们感觉到自己身体的姿势和运动状态",
+    "music": 0.0
+  },
+  {
+    "from": 1070.94,
+    "to": 1071.84,
+    "sid": 467,
+    "location": 2,
+    "content": "可以说",
+    "music": 0.0
+  },
+  {
+    "from": 1071.84,
+    "to": 1075.5,
+    "sid": 468,
+    "location": 2,
+    "content": "本体感觉是我们进行复杂运动和保持身体稳定",
+    "music": 0.0
+  },
+  {
+    "from": 1075.5,
+    "to": 1077.92,
+    "sid": 469,
+    "location": 2,
+    "content": "不可或缺的内部导航系统",
+    "music": 0.0
+  },
+  {
+    "from": 1077.92,
+    "to": 1081.76,
+    "sid": 470,
+    "location": 2,
+    "content": "本体感受器家族里第一个要说的就是肌缩",
+    "music": 0.0
+  },
+  {
+    "from": 1081.76,
+    "to": 1083.38,
+    "sid": 471,
+    "location": 2,
+    "content": "它藏在肌肉内部",
+    "music": 0.0
+  },
+  {
+    "from": 1083.38,
+    "to": 1085.24,
+    "sid": 472,
+    "location": 2,
+    "content": "像个小小的传感器",
+    "music": 0.0
+  },
+  {
+    "from": 1085.24,
+    "to": 1087.76,
+    "sid": 473,
+    "location": 2,
+    "content": "它里面包含了一些特殊的肌纤维",
+    "music": 0.0
+  },
+  {
+    "from": 1087.76,
+    "to": 1089.26,
+    "sid": 474,
+    "location": 2,
+    "content": "叫做梭内肌纤维",
+    "music": 0.0
+  },
+  {
+    "from": 1089.26,
+    "to": 1093.04,
+    "sid": 475,
+    "location": 2,
+    "content": "和正常的负责收缩的缩外肌纤维平行排列",
+    "music": 0.0
+  },
+  {
+    "from": 1093.04,
+    "to": 1094.64,
+    "sid": 476,
+    "location": 2,
+    "content": "激缩的主要功能是",
+    "music": 0.0
+  },
+  {
+    "from": 1094.64,
+    "to": 1097.24,
+    "sid": 477,
+    "location": 2,
+    "content": "感知肌肉被拉长的程度和速度",
+    "music": 0.0
+  },
+  {
+    "from": 1097.24,
+    "to": 1098.86,
+    "sid": 478,
+    "location": 2,
+    "content": "当肌肉被拉伸时",
+    "music": 0.0
+  },
+  {
+    "from": 1098.86,
+    "to": 1101.42,
+    "sid": 479,
+    "location": 2,
+    "content": "里面的梭内肌纤维也会被拉长",
+    "music": 0.0
+  },
+  {
+    "from": 1101.42,
+    "to": 1104.47,
+    "sid": 480,
+    "location": 2,
+    "content": "这就会激活肌缩里的感觉神经元",
+    "music": 0.0
+  },
+  {
+    "from": 1104.47,
+    "to": 1107.37,
+    "sid": 481,
+    "location": 2,
+    "content": "这些神经元会把信号传到脊髓",
+    "music": 0.0
+  },
+  {
+    "from": 1107.37,
+    "to": 1111.6,
+    "sid": 482,
+    "location": 2,
+    "content": "然后和支配同一块肌肉的运动神经元形成连接",
+    "music": 0.0
+  },
+  {
+    "from": 1111.6,
+    "to": 1112.86,
+    "sid": 483,
+    "location": 2,
+    "content": "结果是什么",
+    "music": 0.0
+  },
+  {
+    "from": 1112.86,
+    "to": 1115.2,
+    "sid": 484,
+    "location": 2,
+    "content": "脊髓会让这块肌肉收缩起来",
+    "music": 0.0
+  },
+  {
+    "from": 1115.2,
+    "to": 1116.54,
+    "sid": 485,
+    "location": 2,
+    "content": "对抗这个拉伸",
+    "music": 0.0
+  },
+  {
+    "from": 1116.54,
+    "to": 1119.37,
+    "sid": 486,
+    "location": 2,
+    "content": "这就是一个典型的牵张反射",
+    "music": 0.0
+  },
+  {
+    "from": 1119.37,
+    "to": 1122.46,
+    "sid": 487,
+    "location": 2,
+    "content": "一个非常经典的例子就是膝跳反射",
+    "music": 0.0
+  },
+  {
+    "from": 1122.46,
+    "to": 1124.78,
+    "sid": 488,
+    "location": 2,
+    "content": "医生用小锤敲一下你的膝盖",
+    "music": 0.0
+  },
+  {
+    "from": 1124.78,
+    "to": 1125.34,
+    "sid": 489,
+    "location": 2,
+    "content": "下面",
+    "music": 0.0
+  },
+  {
+    "from": 1125.34,
+    "to": 1126.96,
+    "sid": 490,
+    "location": 2,
+    "content": "髌腱被突然拉长",
+    "music": 0.0
+  },
+  {
+    "from": 1126.96,
+    "to": 1129.06,
+    "sid": 491,
+    "location": 2,
+    "content": "激活了股四头肌里的肌缩",
+    "music": 0.0
+  },
+  {
+    "from": 1129.06,
+    "to": 1131.35,
+    "sid": 492,
+    "location": 2,
+    "content": "导致股四头肌迅速收缩",
+    "music": 0.0
+  },
+  {
+    "from": 1131.35,
+    "to": 1133.15,
+    "sid": 493,
+    "location": 2,
+    "content": "你的腿就弹起来了",
+    "music": 0.0
+  },
+  {
+    "from": 1133.15,
+    "to": 1135.05,
+    "sid": 494,
+    "location": 2,
+    "content": "肌缩就像一个警报器",
+    "music": 0.0
+  },
+  {
+    "from": 1135.05,
+    "to": 1135.67,
+    "sid": 495,
+    "location": 2,
+    "content": "告诉你",
+    "music": 0.0
+  },
+  {
+    "from": 1135.67,
+    "to": 1137.13,
+    "sid": 496,
+    "location": 2,
+    "content": "肌肉被拉的太长了",
+    "music": 0.0
+  },
+  {
+    "from": 1137.13,
+    "to": 1138.88,
+    "sid": 497,
+    "location": 2,
+    "content": "赶紧收缩一下",
+    "music": 0.0
+  },
+  {
+    "from": 1138.88,
+    "to": 1140.02,
+    "sid": 498,
+    "location": 2,
+    "content": "除了激缩",
+    "music": 0.0
+  },
+  {
+    "from": 1140.02,
+    "to": 1143.64,
+    "sid": 499,
+    "location": 2,
+    "content": "还有一个重要的本体感受器叫高尔基腱器",
+    "music": 0.0
+  },
+  {
+    "from": 1143.64,
+    "to": 1145.159,
+    "sid": 500,
+    "location": 2,
+    "content": "也叫GTO",
+    "music": 0.0
+  },
+  {
+    "from": 1145.159,
+    "to": 1147.699,
+    "sid": 501,
+    "location": 2,
+    "content": "它不像肌梭那样藏在肌肉里",
+    "music": 0.0
+  },
+  {
+    "from": 1147.699,
+    "to": 1150.359,
+    "sid": 502,
+    "location": 2,
+    "content": "而是位于肌肉和肌腱连接的地方",
+    "music": 0.0
+  },
+  {
+    "from": 1150.359,
+    "to": 1152.12,
+    "sid": 503,
+    "location": 2,
+    "content": "和肌腱是串联的",
+    "music": 0.0
+  },
+  {
+    "from": 1152.12,
+    "to": 1154.46,
+    "sid": 504,
+    "location": 2,
+    "content": "它的作用正好和肌缩相反",
+    "music": 0.0
+  },
+  {
+    "from": 1154.46,
+    "to": 1157.76,
+    "sid": 505,
+    "location": 2,
+    "content": "它是用来感知肌肉产生的张力大小的",
+    "music": 0.0
+  },
+  {
+    "from": 1157.76,
+    "to": 1160.74,
+    "sid": 506,
+    "location": 2,
+    "content": "当肌肉收缩把肌腱拉的很紧的时候",
+    "music": 0.0
+  },
+  {
+    "from": 1160.74,
+    "to": 1162.76,
+    "sid": 507,
+    "location": 2,
+    "content": "j to就会被激活",
+    "music": 0.0
+  },
+  {
+    "from": 1162.76,
+    "to": 1166.8,
+    "sid": 508,
+    "location": 2,
+    "content": "激活后GTO的感觉神经元会把信号传到脊髓",
+    "music": 0.0
+  },
+  {
+    "from": 1166.8,
+    "to": 1169.63,
+    "sid": 509,
+    "location": 2,
+    "content": "但这次他不是去激活运动神经元",
+    "music": 0.0
+  },
+  {
+    "from": 1169.63,
+    "to": 1172.69,
+    "sid": 510,
+    "location": 2,
+    "content": "而是去激活一个抑制性的中间神经元",
+    "music": 0.0
+  },
+  {
+    "from": 1172.69,
+    "to": 1174.99,
+    "sid": 511,
+    "location": 2,
+    "content": "这个中间神经元再去抑制",
+    "music": 0.0
+  },
+  {
+    "from": 1174.99,
+    "to": 1177.42,
+    "sid": 512,
+    "location": 2,
+    "content": "支配这块肌肉的运动神经元",
+    "music": 0.0
+  },
+  {
+    "from": 1177.42,
+    "to": 1180.3,
+    "sid": 513,
+    "location": 2,
+    "content": "结果就是肌肉的收缩被减弱了",
+    "music": 0.0
+  },
+  {
+    "from": 1180.3,
+    "to": 1181.58,
+    "sid": 514,
+    "location": 2,
+    "content": "张力降低了",
+    "music": 0.0
+  },
+  {
+    "from": 1181.58,
+    "to": 1183.56,
+    "sid": 515,
+    "location": 2,
+    "content": "这就像一个刹车系统",
+    "music": 0.0
+  },
+  {
+    "from": 1183.56,
+    "to": 1186.34,
+    "sid": 516,
+    "location": 2,
+    "content": "防止肌肉过度紧张导致拉伤",
+    "music": 0.0
+  },
+  {
+    "from": 1186.34,
+    "to": 1188.86,
+    "sid": 517,
+    "location": 2,
+    "content": "所以激缩是促进收缩",
+    "music": 0.0
+  },
+  {
+    "from": 1188.86,
+    "to": 1190.98,
+    "sid": 518,
+    "location": 2,
+    "content": "GTO是抑制收缩",
+    "music": 0.0
+  },
+  {
+    "from": 1190.98,
+    "to": 1192.12,
+    "sid": 519,
+    "location": 2,
+    "content": "有趣的是",
+    "music": 0.0
+  },
+  {
+    "from": 1192.12,
+    "to": 1194.28,
+    "sid": 520,
+    "location": 2,
+    "content": "经过高强度阻力训练的人",
+    "music": 0.0
+  },
+  {
+    "from": 1194.28,
+    "to": 1197.94,
+    "sid": 521,
+    "location": 2,
+    "content": "似乎能够更好地克服GTO带来的这种抑制效应",
+    "music": 0.0
+  },
+  {
+    "from": 1197.94,
+    "to": 1200.03,
+    "sid": 522,
+    "location": 2,
+    "content": "从而发挥出更大的力量",
+    "music": 0.0
+  },
+  {
+    "from": 1200.03,
+    "to": 1203.19,
+    "sid": 523,
+    "location": 2,
+    "content": "这可能是训练带来的一种神经适应",
+    "music": 0.0
+  },
+  {
+    "from": 1203.19,
+    "to": 1205.11,
+    "sid": 524,
+    "location": 2,
+    "content": "讲完了肌肉骨骼系统",
+    "music": 0.0
+  },
+  {
+    "from": 1205.11,
+    "to": 1208.69,
+    "sid": 525,
+    "location": 2,
+    "content": "我们来看看为肌肉提供燃料和支持的后勤部队",
+    "music": 0.0
+  },
+  {
+    "from": 1208.69,
+    "to": 1212.31,
+    "sid": 526,
+    "location": 2,
+    "content": "心血管系统它的核心任务就是运输",
+    "music": 0.0
+  },
+  {
+    "from": 1212.31,
+    "to": 1214.55,
+    "sid": 527,
+    "location": 2,
+    "content": "具体来说就是把氧气",
+    "music": 0.0
+  },
+  {
+    "from": 1214.55,
+    "to": 1216.75,
+    "sid": 528,
+    "location": 2,
+    "content": "葡萄糖这些宝贵的营养物质",
+    "music": 0.0
+  },
+  {
+    "from": 1216.75,
+    "to": 1218.55,
+    "sid": 529,
+    "location": 2,
+    "content": "通过血液这个运输车",
+    "music": 0.0
+  },
+  {
+    "from": 1218.55,
+    "to": 1221.65,
+    "sid": 530,
+    "location": 2,
+    "content": "送到全身各个需要能量的细胞那里",
+    "music": 0.0
+  },
+  {
+    "from": 1221.65,
+    "to": 1225.05,
+    "sid": 531,
+    "location": 2,
+    "content": "同时还要把细胞代谢产生的二氧化碳",
+    "music": 0.0
+  },
+  {
+    "from": 1225.05,
+    "to": 1226.82,
+    "sid": 532,
+    "location": 2,
+    "content": "乳酸这些废物运走",
+    "music": 0.0
+  },
+  {
+    "from": 1226.82,
+    "to": 1227.98,
+    "sid": 533,
+    "location": 2,
+    "content": "不仅如此",
+    "music": 0.0
+  },
+  {
+    "from": 1227.98,
+    "to": 1231.54,
+    "sid": 534,
+    "location": 2,
+    "content": "心血管系统还在维持我们体内环境的稳定方面",
+    "music": 0.0
+  },
+  {
+    "from": 1231.54,
+    "to": 1233.05,
+    "sid": 535,
+    "location": 2,
+    "content": "扮演着重要角色",
+    "music": 0.0
+  },
+  {
+    "from": 1233.05,
+    "to": 1234.61,
+    "sid": 536,
+    "location": 2,
+    "content": "比如调节体温",
+    "music": 0.0
+  },
+  {
+    "from": 1234.61,
+    "to": 1236.659,
+    "sid": 537,
+    "location": 2,
+    "content": "维持酸碱平衡等等",
+    "music": 0.0
+  },
+  {
+    "from": 1236.659,
+    "to": 1239.439,
+    "sid": 538,
+    "location": 2,
+    "content": "这个庞大的系统主要包括三个部分",
+    "music": 0.0
+  },
+  {
+    "from": 1239.439,
+    "to": 1241.039,
+    "sid": 539,
+    "location": 2,
+    "content": "负责泵血的心脏",
+    "music": 0.0
+  },
+  {
+    "from": 1241.039,
+    "to": 1243.179,
+    "sid": 540,
+    "location": 2,
+    "content": "负责输送血液的血管网络",
+    "music": 0.0
+  },
+  {
+    "from": 1243.179,
+    "to": 1245.79,
+    "sid": 541,
+    "location": 2,
+    "content": "以及运输血液本身的血液",
+    "music": 0.0
+  },
+  {
+    "from": 1245.79,
+    "to": 1248.85,
+    "sid": 542,
+    "location": 2,
+    "content": "心脏就是我们身体里的那个泵",
+    "music": 0.0
+  },
+  {
+    "from": 1248.85,
+    "to": 1250.67,
+    "sid": 543,
+    "location": 2,
+    "content": "它由四个腔式组成",
+    "music": 0.0
+  },
+  {
+    "from": 1250.67,
+    "to": 1252.17,
+    "sid": 544,
+    "location": 2,
+    "content": "上面两个是心房",
+    "music": 0.0
+  },
+  {
+    "from": 1252.17,
+    "to": 1254.08,
+    "sid": 545,
+    "location": 2,
+    "content": "下面是两个心室",
+    "music": 0.0
+  },
+  {
+    "from": 1254.08,
+    "to": 1256.16,
+    "sid": 546,
+    "location": 2,
+    "content": "心脏的工作很有条理",
+    "music": 0.0
+  },
+  {
+    "from": 1256.16,
+    "to": 1257.92,
+    "sid": 547,
+    "location": 2,
+    "content": "右边的心房和心室",
+    "music": 0.0
+  },
+  {
+    "from": 1257.92,
+    "to": 1260.96,
+    "sid": 548,
+    "location": 2,
+    "content": "负责把缺氧的血液泵到肺部去换气",
+    "music": 0.0
+  },
+  {
+    "from": 1260.96,
+    "to": 1262.56,
+    "sid": 549,
+    "location": 2,
+    "content": "这是肺循环",
+    "music": 0.0
+  },
+  {
+    "from": 1262.56,
+    "to": 1264.34,
+    "sid": 550,
+    "location": 2,
+    "content": "左边的心房和心室",
+    "music": 0.0
+  },
+  {
+    "from": 1264.34,
+    "to": 1267.5,
+    "sid": 551,
+    "location": 2,
+    "content": "则负责把富含氧气的血液泵到全身各处",
+    "music": 0.0
+  },
+  {
+    "from": 1267.5,
+    "to": 1269.0,
+    "sid": 552,
+    "location": 2,
+    "content": "这是体循环",
+    "music": 0.0
+  },
+  {
+    "from": 1269.0,
+    "to": 1271.14,
+    "sid": 553,
+    "location": 2,
+    "content": "为了让血液单向流动",
+    "music": 0.0
+  },
+  {
+    "from": 1271.14,
+    "to": 1273.02,
+    "sid": 554,
+    "location": 2,
+    "content": "心脏里还装了好几扇门",
+    "music": 0.0
+  },
+  {
+    "from": 1273.02,
+    "to": 1274.389,
+    "sid": 555,
+    "location": 2,
+    "content": "也就是瓣膜",
+    "music": 0.0
+  },
+  {
+    "from": 1274.389,
+    "to": 1276.989,
+    "sid": 556,
+    "location": 2,
+    "content": "房室瓣包括三尖瓣和二尖瓣",
+    "music": 0.0
+  },
+  {
+    "from": 1276.989,
+    "to": 1279.65,
+    "sid": 557,
+    "location": 2,
+    "content": "防止血液从心室倒流回心房",
+    "music": 0.0
+  },
+  {
+    "from": 1279.65,
+    "to": 1282.51,
+    "sid": 558,
+    "location": 2,
+    "content": "半月瓣包括主动脉瓣和肺动脉瓣",
+    "music": 0.0
+  },
+  {
+    "from": 1282.51,
+    "to": 1285.139,
+    "sid": 559,
+    "location": 2,
+    "content": "防止血液从动脉倒流回心室",
+    "music": 0.0
+  },
+  {
+    "from": 1285.139,
+    "to": 1286.939,
+    "sid": 560,
+    "location": 2,
+    "content": "这些瓣膜非常聪明",
+    "music": 0.0
+  },
+  {
+    "from": 1286.939,
+    "to": 1289.059,
+    "sid": 561,
+    "location": 2,
+    "content": "他们是被动开启和关闭的",
+    "music": 0.0
+  },
+  {
+    "from": 1289.059,
+    "to": 1291.34,
+    "sid": 562,
+    "location": 2,
+    "content": "完全依靠压力差来工作",
+    "music": 0.0
+  },
+  {
+    "from": 1291.34,
+    "to": 1294.0,
+    "sid": 563,
+    "location": 2,
+    "content": "当心室收缩压力足够大时",
+    "music": 0.0
+  },
+  {
+    "from": 1294.0,
+    "to": 1295.08,
+    "sid": 564,
+    "location": 2,
+    "content": "瓣膜就打开",
+    "music": 0.0
+  },
+  {
+    "from": 1295.08,
+    "to": 1296.81,
+    "sid": 565,
+    "location": 2,
+    "content": "让血液往前走",
+    "music": 0.0
+  },
+  {
+    "from": 1296.81,
+    "to": 1299.51,
+    "sid": 566,
+    "location": 2,
+    "content": "当心室舒张压力降低时",
+    "music": 0.0
+  },
+  {
+    "from": 1299.51,
+    "to": 1300.93,
+    "sid": 567,
+    "location": 2,
+    "content": "瓣膜就自动关闭",
+    "music": 0.0
+  },
+  {
+    "from": 1300.93,
+    "to": 1302.6,
+    "sid": 568,
+    "location": 2,
+    "content": "防止血液倒流",
+    "music": 0.0
+  },
+  {
+    "from": 1302.6,
+    "to": 1305.74,
+    "sid": 569,
+    "location": 2,
+    "content": "这张图清晰地展示了心脏的四个腔室",
+    "music": 0.0
+  },
+  {
+    "from": 1305.74,
+    "to": 1309.139,
+    "sid": 570,
+    "location": 2,
+    "content": "瓣膜以及血液在心脏内的流动路径",
+    "music": 0.0
+  },
+  {
+    "from": 1309.139,
+    "to": 1311.819,
+    "sid": 571,
+    "location": 2,
+    "content": "心脏为什么能有规律的跳动呢",
+    "music": 0.0
+  },
+  {
+    "from": 1311.819,
+    "to": 1314.539,
+    "sid": 572,
+    "location": 2,
+    "content": "靠的是一个专门的电传导系统",
+    "music": 0.0
+  },
+  {
+    "from": 1314.539,
+    "to": 1317.29,
+    "sid": 573,
+    "location": 2,
+    "content": "这个系统就像心脏的指挥中心",
+    "music": 0.0
+  },
+  {
+    "from": 1317.29,
+    "to": 1318.87,
+    "sid": 574,
+    "location": 2,
+    "content": "起搏点是窦房结",
+    "music": 0.0
+  },
+  {
+    "from": 1318.87,
+    "to": 1320.07,
+    "sid": 575,
+    "location": 2,
+    "content": "位于右心房",
+    "music": 0.0
+  },
+  {
+    "from": 1320.07,
+    "to": 1322.97,
+    "sid": 576,
+    "location": 2,
+    "content": "他会自发的有节奏的发放电信号",
+    "music": 0.0
+  },
+  {
+    "from": 1322.97,
+    "to": 1325.62,
+    "sid": 577,
+    "location": 2,
+    "content": "大约每分钟60~80次",
+    "music": 0.0
+  },
+  {
+    "from": 1325.62,
+    "to": 1328.26,
+    "sid": 578,
+    "location": 2,
+    "content": "这个信号通过节间数传到房室",
+    "music": 0.0
+  },
+  {
+    "from": 1328.26,
+    "to": 1331.819,
+    "sid": 579,
+    "location": 2,
+    "content": "结房世杰会稍微延迟一下信号的传递",
+    "music": 0.0
+  },
+  {
+    "from": 1331.819,
+    "to": 1333.439,
+    "sid": 580,
+    "location": 2,
+    "content": "给新房一个时间",
+    "music": 0.0
+  },
+  {
+    "from": 1333.439,
+    "to": 1335.57,
+    "sid": 581,
+    "location": 2,
+    "content": "先把血泵到心室里",
+    "music": 0.0
+  },
+  {
+    "from": 1335.57,
+    "to": 1339.34,
+    "sid": 582,
+    "location": 2,
+    "content": "延迟后的信号通过房室数分成左右数支",
+    "music": 0.0
+  },
+  {
+    "from": 1339.34,
+    "to": 1342.8,
+    "sid": 583,
+    "location": 2,
+    "content": "再通过普肯野纤维快速的传导到新式肌",
+    "music": 0.0
+  },
+  {
+    "from": 1342.8,
+    "to": 1345.56,
+    "sid": 584,
+    "location": 2,
+    "content": "让左右心室几乎同时收缩",
+    "music": 0.0
+  },
+  {
+    "from": 1345.56,
+    "to": 1349.62,
+    "sid": 585,
+    "location": 2,
+    "content": "这样心脏就有了协调一致的收缩和舒张",
+    "music": 0.0
+  },
+  {
+    "from": 1349.62,
+    "to": 1351.98,
+    "sid": 586,
+    "location": 2,
+    "content": "虽然心脏有自己的起搏点",
+    "music": 0.0
+  },
+  {
+    "from": 1351.98,
+    "to": 1355.659,
+    "sid": 587,
+    "location": 2,
+    "content": "但他的节律还会受到自主神经系统的影响",
+    "music": 0.0
+  },
+  {
+    "from": 1355.659,
+    "to": 1358.239,
+    "sid": 588,
+    "location": 2,
+    "content": "交感神经兴奋会让心跳加快",
+    "music": 0.0
+  },
+  {
+    "from": 1358.239,
+    "to": 1359.399,
+    "sid": 589,
+    "location": 2,
+    "content": "力量增强",
+    "music": 0.0
+  },
+  {
+    "from": 1359.399,
+    "to": 1362.82,
+    "sid": 590,
+    "location": 2,
+    "content": "副交感神经兴奋则会让心跳减慢",
+    "music": 0.0
+  },
+  {
+    "from": 1362.82,
+    "to": 1364.7,
+    "sid": 591,
+    "location": 2,
+    "content": "我们去医院做的心电图",
+    "music": 0.0
+  },
+  {
+    "from": 1364.7,
+    "to": 1367.86,
+    "sid": 592,
+    "location": 2,
+    "content": "ECG记录的就是心脏电活动的波形",
+    "music": 0.0
+  },
+  {
+    "from": 1370.72,
+    "to": 1374.51,
+    "sid": 593,
+    "location": 2,
+    "content": "这张图展示了心脏传导系统的具体路径",
+    "music": 0.0
+  },
+  {
+    "from": 1374.51,
+    "to": 1378.35,
+    "sid": 594,
+    "location": 2,
+    "content": "心脏泵出来的血要通过血管系统送到全身",
+    "music": 0.0
+  },
+  {
+    "from": 1378.35,
+    "to": 1379.49,
+    "sid": 595,
+    "location": 2,
+    "content": "再流回心脏",
+    "music": 0.0
+  },
+  {
+    "from": 1379.49,
+    "to": 1381.34,
+    "sid": 596,
+    "location": 2,
+    "content": "形成一个闭合的循环",
+    "music": 0.0
+  },
+  {
+    "from": 1381.34,
+    "to": 1385.0,
+    "sid": 597,
+    "location": 2,
+    "content": "这个血管系统主要包括三类血管动脉",
+    "music": 0.0
+  },
+  {
+    "from": 1385.0,
+    "to": 1388.839,
+    "sid": 598,
+    "location": 2,
+    "content": "毛细血管和静脉动脉是从心脏出发的",
+    "music": 0.0
+  },
+  {
+    "from": 1388.839,
+    "to": 1390.499,
+    "sid": 599,
+    "location": 2,
+    "content": "管壁厚实有弹性",
+    "music": 0.0
+  },
+  {
+    "from": 1390.499,
+    "to": 1392.98,
+    "sid": 600,
+    "location": 2,
+    "content": "因为里面承受着很高的压力",
+    "music": 0.0
+  },
+  {
+    "from": 1392.98,
+    "to": 1396.88,
+    "sid": 601,
+    "location": 2,
+    "content": "小动脉还能调节血流进入毛细血管的量",
+    "music": 0.0
+  },
+  {
+    "from": 1396.88,
+    "to": 1399.2,
+    "sid": 602,
+    "location": 2,
+    "content": "毛细血管是血管系统的末梢",
+    "music": 0.0
+  },
+  {
+    "from": 1399.2,
+    "to": 1400.54,
+    "sid": 603,
+    "location": 2,
+    "content": "数量极其庞大",
+    "music": 0.0
+  },
+  {
+    "from": 1400.54,
+    "to": 1401.68,
+    "sid": 604,
+    "location": 2,
+    "content": "管壁非常薄",
+    "music": 0.0
+  },
+  {
+    "from": 1401.68,
+    "to": 1403.29,
+    "sid": 605,
+    "location": 2,
+    "content": "只有一层细胞厚",
+    "music": 0.0
+  },
+  {
+    "from": 1403.29,
+    "to": 1406.71,
+    "sid": 606,
+    "location": 2,
+    "content": "这是为了方便血液和周围组织进行物质交换",
+    "music": 0.0
+  },
+  {
+    "from": 1406.71,
+    "to": 1407.63,
+    "sid": 607,
+    "location": 2,
+    "content": "比如氧气",
+    "music": 0.0
+  },
+  {
+    "from": 1407.63,
+    "to": 1408.75,
+    "sid": 608,
+    "location": 2,
+    "content": "二氧化碳",
+    "music": 0.0
+  },
+  {
+    "from": 1408.75,
+    "to": 1411.159,
+    "sid": 609,
+    "location": 2,
+    "content": "营养物质和废物的交换",
+    "music": 0.0
+  },
+  {
+    "from": 1411.159,
+    "to": 1414.239,
+    "sid": 610,
+    "location": 2,
+    "content": "静脉是负责把用过的血液收集回来的",
+    "music": 0.0
+  },
+  {
+    "from": 1414.239,
+    "to": 1416.219,
+    "sid": 611,
+    "location": 2,
+    "content": "他们的管壁相对薄一些",
+    "music": 0.0
+  },
+  {
+    "from": 1416.219,
+    "to": 1419.15,
+    "sid": 612,
+    "location": 2,
+    "content": "里面的压力也低得多很多静脉",
+    "music": 0.0
+  },
+  {
+    "from": 1419.15,
+    "to": 1421.55,
+    "sid": 613,
+    "location": 2,
+    "content": "特别是下肢静脉里还有单向阀门",
+    "music": 0.0
+  },
+  {
+    "from": 1421.55,
+    "to": 1423.15,
+    "sid": 614,
+    "location": 2,
+    "content": "防止血液倒流",
+    "music": 0.0
+  },
+  {
+    "from": 1423.15,
+    "to": 1424.39,
+    "sid": 615,
+    "location": 2,
+    "content": "有意思的是",
+    "music": 0.0
+  },
+  {
+    "from": 1424.39,
+    "to": 1427.41,
+    "sid": 616,
+    "location": 2,
+    "content": "虽然动脉和毛细血管里的血量看起来不少",
+    "music": 0.0
+  },
+  {
+    "from": 1427.41,
+    "to": 1430.58,
+    "sid": 617,
+    "location": 2,
+    "content": "但其实静脉系统才是血液的主要储存库",
+    "music": 0.0
+  },
+  {
+    "from": 1430.58,
+    "to": 1431.82,
+    "sid": 618,
+    "location": 2,
+    "content": "静息状态下",
+    "music": 0.0
+  },
+  {
+    "from": 1431.82,
+    "to": 1434.84,
+    "sid": 619,
+    "location": 2,
+    "content": "大约2/3的血液都储存在静脉里",
+    "music": 0.0
+  },
+  {
+    "from": 1434.84,
+    "to": 1436.92,
+    "sid": 620,
+    "location": 2,
+    "content": "这张图展示了动脉和静脉",
+    "music": 0.0
+  },
+  {
+    "from": 1436.92,
+    "to": 1439.6,
+    "sid": 621,
+    "location": 2,
+    "content": "在循环系统中的位置和大致比例",
+    "music": 0.0
+  },
+  {
+    "from": 1439.6,
+    "to": 1442.26,
+    "sid": 622,
+    "location": 2,
+    "content": "最后我们来看看运输的载体",
+    "music": 0.0
+  },
+  {
+    "from": 1442.26,
+    "to": 1446.22,
+    "sid": 623,
+    "location": 2,
+    "content": "血液血液就像一条奔流不息的生命之河",
+    "music": 0.0
+  },
+  {
+    "from": 1446.22,
+    "to": 1448.44,
+    "sid": 624,
+    "location": 2,
+    "content": "承载着无数重要的任务",
+    "music": 0.0
+  },
+  {
+    "from": 1448.44,
+    "to": 1451.62,
+    "sid": 625,
+    "location": 2,
+    "content": "最重要的当然是运输氧气和二氧化碳",
+    "music": 0.0
+  },
+  {
+    "from": 1451.62,
+    "to": 1453.679,
+    "sid": 626,
+    "location": 2,
+    "content": "这是细胞呼吸的基础",
+    "music": 0.0
+  },
+  {
+    "from": 1453.679,
+    "to": 1456.139,
+    "sid": 627,
+    "location": 2,
+    "content": "他还负责运输各种营养物质",
+    "music": 0.0
+  },
+  {
+    "from": 1456.139,
+    "to": 1457.439,
+    "sid": 628,
+    "location": 2,
+    "content": "比如葡萄糖",
+    "music": 0.0
+  },
+  {
+    "from": 1457.439,
+    "to": 1458.199,
+    "sid": 629,
+    "location": 2,
+    "content": "氨基酸",
+    "music": 0.0
+  },
+  {
+    "from": 1458.199,
+    "to": 1460.019,
+    "sid": 630,
+    "location": 2,
+    "content": "脂肪酸以及激素",
+    "music": 0.0
+  },
+  {
+    "from": 1460.019,
+    "to": 1461.42,
+    "sid": 631,
+    "location": 2,
+    "content": "电解质等等",
+    "music": 0.0
+  },
+  {
+    "from": 1461.42,
+    "to": 1464.1,
+    "sid": 632,
+    "location": 2,
+    "content": "此外血液还能帮助调节体温",
+    "music": 0.0
+  },
+  {
+    "from": 1464.1,
+    "to": 1465.58,
+    "sid": 633,
+    "location": 2,
+    "content": "维持酸碱平衡",
+    "music": 0.0
+  },
+  {
+    "from": 1465.58,
+    "to": 1467.82,
+    "sid": 634,
+    "location": 2,
+    "content": "甚至参与免疫防御",
+    "music": 0.0
+  },
+  {
+    "from": 1467.82,
+    "to": 1471.3,
+    "sid": 635,
+    "location": 2,
+    "content": "血液的主要成分包括负责运氧的红细胞",
+    "music": 0.0
+  },
+  {
+    "from": 1471.3,
+    "to": 1473.37,
+    "sid": 636,
+    "location": 2,
+    "content": "里面含有血红蛋白",
+    "music": 0.0
+  },
+  {
+    "from": 1473.37,
+    "to": 1475.29,
+    "sid": 637,
+    "location": 2,
+    "content": "负责免疫的白细胞",
+    "music": 0.0
+  },
+  {
+    "from": 1475.29,
+    "to": 1477.49,
+    "sid": 638,
+    "location": 2,
+    "content": "以及参与凝血的小板",
+    "music": 0.0
+  },
+  {
+    "from": 1477.49,
+    "to": 1479.97,
+    "sid": 639,
+    "location": 2,
+    "content": "所有这些细胞都悬浮在血浆",
+    "music": 0.0
+  },
+  {
+    "from": 1479.97,
+    "to": 1481.389,
+    "sid": 640,
+    "location": 2,
+    "content": "这个液体机制里",
+    "music": 0.0
+  },
+  {
+    "from": 1481.389,
+    "to": 1484.409,
+    "sid": 641,
+    "location": 2,
+    "content": "还有一个非常重要的机制叫做肌肉泵",
+    "music": 0.0
+  },
+  {
+    "from": 1484.409,
+    "to": 1486.05,
+    "sid": 642,
+    "location": 2,
+    "content": "尤其是在下肢",
+    "music": 0.0
+  },
+  {
+    "from": 1486.05,
+    "to": 1487.93,
+    "sid": 643,
+    "location": 2,
+    "content": "当我们走路或跑步时",
+    "music": 0.0
+  },
+  {
+    "from": 1487.93,
+    "to": 1490.31,
+    "sid": 644,
+    "location": 2,
+    "content": "腿部肌肉的收缩会挤压静脉",
+    "music": 0.0
+  },
+  {
+    "from": 1490.31,
+    "to": 1491.81,
+    "sid": 645,
+    "location": 2,
+    "content": "加上静脉瓣的作用",
+    "music": 0.0
+  },
+  {
+    "from": 1491.81,
+    "to": 1493.27,
+    "sid": 646,
+    "location": 2,
+    "content": "就像一个个泵一样",
+    "music": 0.0
+  },
+  {
+    "from": 1493.27,
+    "to": 1495.41,
+    "sid": 647,
+    "location": 2,
+    "content": "把血液有效的推回心脏",
+    "music": 0.0
+  },
+  {
+    "from": 1495.41,
+    "to": 1497.57,
+    "sid": 648,
+    "location": 2,
+    "content": "防止血液在下肢淤积",
+    "music": 0.0
+  },
+  {
+    "from": 1497.57,
+    "to": 1500.81,
+    "sid": 649,
+    "location": 2,
+    "content": "这也是为什么久坐不动后站起来活动一下",
+    "music": 0.0
+  },
+  {
+    "from": 1500.81,
+    "to": 1502.33,
+    "sid": 650,
+    "location": 2,
+    "content": "很重要的原因",
+    "music": 0.0
+  },
+  {
+    "from": 1502.33,
+    "to": 1504.83,
+    "sid": 651,
+    "location": 2,
+    "content": "有了心血管系统输送氧气",
+    "music": 0.0
+  },
+  {
+    "from": 1504.83,
+    "to": 1506.75,
+    "sid": 652,
+    "location": 2,
+    "content": "还得有地方获取氧气",
+    "music": 0.0
+  },
+  {
+    "from": 1506.75,
+    "to": 1509.0,
+    "sid": 653,
+    "location": 2,
+    "content": "这就是呼吸系统的作用了",
+    "music": 0.0
+  },
+  {
+    "from": 1509.0,
+    "to": 1511.34,
+    "sid": 654,
+    "location": 2,
+    "content": "它的核心任务就是气体交换",
+    "music": 0.0
+  },
+  {
+    "from": 1511.34,
+    "to": 1513.32,
+    "sid": 655,
+    "location": 2,
+    "content": "把空气中的氧气吸进来",
+    "music": 0.0
+  },
+  {
+    "from": 1513.32,
+    "to": 1516.02,
+    "sid": 656,
+    "location": 2,
+    "content": "把身体产生的二氧化碳排出去",
+    "music": 0.0
+  },
+  {
+    "from": 1516.02,
+    "to": 1518.16,
+    "sid": 657,
+    "location": 2,
+    "content": "空气首先经过上呼吸道",
+    "music": 0.0
+  },
+  {
+    "from": 1518.16,
+    "to": 1519.68,
+    "sid": 658,
+    "location": 2,
+    "content": "鼻腔咽喉",
+    "music": 0.0
+  },
+  {
+    "from": 1519.68,
+    "to": 1522.22,
+    "sid": 659,
+    "location": 2,
+    "content": "这里会对空气进行初步处理",
+    "music": 0.0
+  },
+  {
+    "from": 1522.22,
+    "to": 1525.21,
+    "sid": 660,
+    "location": 2,
+    "content": "比如加温加湿过滤一下",
+    "music": 0.0
+  },
+  {
+    "from": 1525.21,
+    "to": 1527.31,
+    "sid": 661,
+    "location": 2,
+    "content": "然后空气进入下呼吸道",
+    "music": 0.0
+  },
+  {
+    "from": 1527.31,
+    "to": 1529.61,
+    "sid": 662,
+    "location": 2,
+    "content": "气管支气管越来越细的分支",
+    "music": 0.0
+  },
+  {
+    "from": 1529.61,
+    "to": 1531.27,
+    "sid": 663,
+    "location": 2,
+    "content": "最终到达肺泡",
+    "music": 0.0
+  },
+  {
+    "from": 1531.27,
+    "to": 1533.97,
+    "sid": 664,
+    "location": 2,
+    "content": "肺泡是气体交换发生的场所",
+    "music": 0.0
+  },
+  {
+    "from": 1533.97,
+    "to": 1535.81,
+    "sid": 665,
+    "location": 2,
+    "content": "它们数量极其庞大",
+    "music": 0.0
+  },
+  {
+    "from": 1535.81,
+    "to": 1536.99,
+    "sid": 666,
+    "location": 2,
+    "content": "表面积巨大",
+    "music": 0.0
+  },
+  {
+    "from": 1536.99,
+    "to": 1538.48,
+    "sid": 667,
+    "location": 2,
+    "content": "非常适合交换",
+    "music": 0.0
+  },
+  {
+    "from": 1538.48,
+    "to": 1540.88,
+    "sid": 668,
+    "location": 2,
+    "content": "那么空气是怎么进出肺的呢",
+    "music": 0.0
+  },
+  {
+    "from": 1540.88,
+    "to": 1543.44,
+    "sid": 669,
+    "location": 2,
+    "content": "主要是靠胸腔容积的变化",
+    "music": 0.0
+  },
+  {
+    "from": 1543.44,
+    "to": 1545.94,
+    "sid": 670,
+    "location": 2,
+    "content": "吸气时主要是膈肌收缩",
+    "music": 0.0
+  },
+  {
+    "from": 1545.94,
+    "to": 1547.5,
+    "sid": 671,
+    "location": 2,
+    "content": "胸腔向下扩大",
+    "music": 0.0
+  },
+  {
+    "from": 1547.5,
+    "to": 1548.8,
+    "sid": 672,
+    "location": 2,
+    "content": "肺随之扩张",
+    "music": 0.0
+  },
+  {
+    "from": 1548.8,
+    "to": 1551.34,
+    "sid": 673,
+    "location": 2,
+    "content": "肺内的压力就低于外面的大气压",
+    "music": 0.0
+  },
+  {
+    "from": 1551.34,
+    "to": 1553.199,
+    "sid": 674,
+    "location": 2,
+    "content": "空气就被吸进来了",
+    "music": 0.0
+  },
+  {
+    "from": 1553.199,
+    "to": 1554.959,
+    "sid": 675,
+    "location": 2,
+    "content": "呼气时膈肌放松",
+    "music": 0.0
+  },
+  {
+    "from": 1554.959,
+    "to": 1556.019,
+    "sid": 676,
+    "location": 2,
+    "content": "胸腔回缩",
+    "music": 0.0
+  },
+  {
+    "from": 1556.019,
+    "to": 1557.139,
+    "sid": 677,
+    "location": 2,
+    "content": "肺也回缩",
+    "music": 0.0
+  },
+  {
+    "from": 1557.139,
+    "to": 1558.479,
+    "sid": 678,
+    "location": 2,
+    "content": "肺内压力升高",
+    "music": 0.0
+  },
+  {
+    "from": 1558.479,
+    "to": 1560.09,
+    "sid": 679,
+    "location": 2,
+    "content": "空气就被排出",
+    "music": 0.0
+  },
+  {
+    "from": 1560.09,
+    "to": 1562.09,
+    "sid": 680,
+    "location": 2,
+    "content": "当然用力呼吸时",
+    "music": 0.0
+  },
+  {
+    "from": 1562.09,
+    "to": 1564.11,
+    "sid": 681,
+    "location": 2,
+    "content": "腹肌也会参与进来帮忙",
+    "music": 0.0
+  },
+  {
+    "from": 1564.11,
+    "to": 1568.21,
+    "sid": 682,
+    "location": 2,
+    "content": "整个过程涉及到胸膜腔内压和肺泡压力的变化",
+    "music": 0.0
+  },
+  {
+    "from": 1568.21,
+    "to": 1571.37,
+    "sid": 683,
+    "location": 2,
+    "content": "这张图展示了呼吸系统的整体结构",
+    "music": 0.0
+  },
+  {
+    "from": 1571.37,
+    "to": 1574.71,
+    "sid": 684,
+    "location": 2,
+    "content": "气体是怎么在肺泡和血液之间交换的呢",
+    "music": 0.0
+  },
+  {
+    "from": 1574.71,
+    "to": 1577.13,
+    "sid": 685,
+    "location": 2,
+    "content": "靠的是一个非常基础的物理过程",
+    "music": 0.0
+  },
+  {
+    "from": 1577.13,
+    "to": 1578.32,
+    "sid": 686,
+    "location": 2,
+    "content": "叫做扩散",
+    "music": 0.0
+  },
+  {
+    "from": 1578.32,
+    "to": 1581.76,
+    "sid": 687,
+    "location": 2,
+    "content": "简单来说就是分子总是从浓度高的地方",
+    "music": 0.0
+  },
+  {
+    "from": 1581.76,
+    "to": 1583.34,
+    "sid": 688,
+    "location": 2,
+    "content": "往浓度低的地方跑",
+    "music": 0.0
+  },
+  {
+    "from": 1583.34,
+    "to": 1585.12,
+    "sid": 689,
+    "location": 2,
+    "content": "这是一种随机的运动",
+    "music": 0.0
+  },
+  {
+    "from": 1585.12,
+    "to": 1586.76,
+    "sid": 690,
+    "location": 2,
+    "content": "不需要额外的能量",
+    "music": 0.0
+  },
+  {
+    "from": 1586.76,
+    "to": 1589.08,
+    "sid": 691,
+    "location": 2,
+    "content": "在肺泡和毛细血管之间",
+    "music": 0.0
+  },
+  {
+    "from": 1589.08,
+    "to": 1591.42,
+    "sid": 692,
+    "location": 2,
+    "content": "氧气的分压在肺泡里比较高",
+    "music": 0.0
+  },
+  {
+    "from": 1591.42,
+    "to": 1593.11,
+    "sid": 693,
+    "location": 2,
+    "content": "而在血液里比较低",
+    "music": 0.0
+  },
+  {
+    "from": 1593.11,
+    "to": 1596.29,
+    "sid": 694,
+    "location": 2,
+    "content": "所以氧气会从肺泡扩散到血液里",
+    "music": 0.0
+  },
+  {
+    "from": 1596.29,
+    "to": 1599.89,
+    "sid": 695,
+    "location": 2,
+    "content": "反过来二氧化碳的分压在血液里比较高",
+    "music": 0.0
+  },
+  {
+    "from": 1599.89,
+    "to": 1601.719,
+    "sid": 696,
+    "location": 2,
+    "content": "而在肺泡里比较低",
+    "music": 0.0
+  },
+  {
+    "from": 1601.719,
+    "to": 1604.799,
+    "sid": 697,
+    "location": 2,
+    "content": "所以二氧化碳会从血液扩散到肺泡里",
+    "music": 0.0
+  },
+  {
+    "from": 1604.799,
+    "to": 1606.54,
+    "sid": 698,
+    "location": 2,
+    "content": "然后被呼出体外",
+    "music": 0.0
+  },
+  {
+    "from": 1606.54,
+    "to": 1608.62,
+    "sid": 699,
+    "location": 2,
+    "content": "这个交换过程非常高效",
+    "music": 0.0
+  },
+  {
+    "from": 1608.62,
+    "to": 1611.66,
+    "sid": 700,
+    "location": 2,
+    "content": "因为肺泡和毛细血管的接触面积巨大",
+    "music": 0.0
+  },
+  {
+    "from": 1611.66,
+    "to": 1614.449,
+    "sid": 701,
+    "location": 2,
+    "content": "而且两者之间的距离非常非常近",
+    "music": 0.0
+  },
+  {
+    "from": 1614.449,
+    "to": 1617.489,
+    "sid": 702,
+    "location": 2,
+    "content": "所以气体交换几乎是瞬间完成的",
+    "music": 0.0
+  },
+  {
+    "from": 1617.489,
+    "to": 1621.09,
+    "sid": 703,
+    "location": 2,
+    "content": "这个分压差就是驱动气体交换的动力",
+    "music": 0.0
+  },
+  {
+    "from": 1621.09,
+    "to": 1622.97,
+    "sid": 704,
+    "location": 2,
+    "content": "今天我们深入探讨了",
+    "music": 0.0
+  },
+  {
+    "from": 1622.97,
+    "to": 1625.21,
+    "sid": 705,
+    "location": 2,
+    "content": "人体运动和生理功能的基础",
+    "music": 0.0
+  },
+  {
+    "from": 1625.21,
+    "to": 1629.5,
+    "sid": 706,
+    "location": 2,
+    "content": "从肌肉骨骼系统的宏观结构到微观的肌丝滑行",
+    "music": 0.0
+  },
+  {
+    "from": 1629.5,
+    "to": 1631.76,
+    "sid": 707,
+    "location": 2,
+    "content": "再到神经肌肉的精细调控",
+    "music": 0.0
+  },
+  {
+    "from": 1631.76,
+    "to": 1635.58,
+    "sid": 708,
+    "location": 2,
+    "content": "以及为这一切提供支持的心血管和呼吸系统",
+    "music": 0.0
+  },
+  {
+    "from": 1635.58,
+    "to": 1638.14,
+    "sid": 709,
+    "location": 2,
+    "content": "理解这些系统的结构和功能",
+    "music": 0.0
+  },
+  {
+    "from": 1638.14,
+    "to": 1640.429,
+    "sid": 710,
+    "location": 2,
+    "content": "特别是他们如何协同工作",
+    "music": 0.0
+  },
+  {
+    "from": 1640.429,
+    "to": 1642.229,
+    "sid": 711,
+    "location": 2,
+    "content": "对于我们作为体能教练",
+    "music": 0.0
+  },
+  {
+    "from": 1642.229,
+    "to": 1645.33,
+    "sid": 712,
+    "location": 2,
+    "content": "制定科学有效的训练计划至关重要",
+    "music": 0.0
+  },
+  {
+    "from": 1645.33,
+    "to": 1646.73,
+    "sid": 713,
+    "location": 2,
+    "content": "希望今天的讲解",
+    "music": 0.0
+  },
+  {
+    "from": 1646.73,
+    "to": 1649.97,
+    "sid": 714,
+    "location": 2,
+    "content": "能让大家对这些基础知识有更深的理解",
+    "music": 0.0
+  },
+  {
+    "from": 1649.97,
+    "to": 1652.43,
+    "sid": 715,
+    "location": 2,
+    "content": "最后我们来看几道练习题",
+    "music": 0.0
+  },
+  {
+    "from": 1652.43,
+    "to": 1654.14,
+    "sid": 716,
+    "location": 2,
+    "content": "巩固一下今天的内容",
+    "music": 0.0
+  }
+]

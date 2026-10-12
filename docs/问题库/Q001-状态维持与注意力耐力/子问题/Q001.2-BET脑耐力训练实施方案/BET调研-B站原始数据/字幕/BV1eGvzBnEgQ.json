@@ -1,0 +1,1434 @@
+[
+  {
+    "content": "如果我说你的智商并非固定不变",
+    "from": 0.04,
+    "location": 2,
+    "music": 0.0,
+    "sid": 1,
+    "to": 2.92
+  },
+  {
+    "content": "不是在十八岁",
+    "from": 2.92,
+    "location": 2,
+    "music": 0.0,
+    "sid": 2,
+    "to": 4.279
+  },
+  {
+    "content": "也不是在二十五岁",
+    "from": 4.279,
+    "location": 2,
+    "music": 0.0,
+    "sid": 3,
+    "to": 5.619
+  },
+  {
+    "content": "甚至五十年后依然如此",
+    "from": 5.619,
+    "location": 2,
+    "music": 0.0,
+    "sid": 4,
+    "to": 8.01
+  },
+  {
+    "content": "我们被告知智力是遗传的",
+    "from": 8.01,
+    "location": 2,
+    "music": 0.0,
+    "sid": 5,
+    "to": 10.47
+  },
+  {
+    "content": "与生俱来的特质",
+    "from": 10.47,
+    "location": 2,
+    "music": 0.0,
+    "sid": 6,
+    "to": 12.05
+  },
+  {
+    "content": "无法改变的特质",
+    "from": 12.05,
+    "location": 2,
+    "music": 0.0,
+    "sid": 7,
+    "to": 13.77
+  },
+  {
+    "content": "但历史上最聪明的人讲述着不同故事",
+    "from": 13.77,
+    "location": 2,
+    "music": 0.0,
+    "sid": 8,
+    "to": 16.91
+  },
+  {
+    "content": "爱因斯坦童年时被认为反应迟钝",
+    "from": 16.91,
+    "location": 2,
+    "music": 0.0,
+    "sid": 9,
+    "to": 20.07
+  },
+  {
+    "content": "他的老师认为他缺乏智力",
+    "from": 20.07,
+    "location": 2,
+    "music": 0.0,
+    "sid": 10,
+    "to": 22.71
+  },
+  {
+    "content": "查尔斯",
+    "from": 22.71,
+    "location": 2,
+    "music": 0.0,
+    "sid": 11,
+    "to": 23.25
+  },
+  {
+    "content": "达尔文是个讨厌背诵的普通学生",
+    "from": 23.25,
+    "location": 2,
+    "music": 0.0,
+    "sid": 12,
+    "to": 26.71
+  },
+  {
+    "content": "爱迪生曾被学校开除",
+    "from": 26.71,
+    "location": 2,
+    "music": 0.0,
+    "sid": 13,
+    "to": 29.21
+  },
+  {
+    "content": "被判定为无法教导",
+    "from": 29.21,
+    "location": 2,
+    "music": 0.0,
+    "sid": 14,
+    "to": 31.21
+  },
+  {
+    "content": "然而这些人重塑了人类的思维方式",
+    "from": 31.21,
+    "location": 2,
+    "music": 0.0,
+    "sid": 15,
+    "to": 34.69
+  },
+  {
+    "content": "所以发生了什么变化",
+    "from": 34.69,
+    "location": 2,
+    "music": 0.0,
+    "sid": 16,
+    "to": 36.09
+  },
+  {
+    "content": "不是他们的基因",
+    "from": 36.09,
+    "location": 2,
+    "music": 0.0,
+    "sid": 17,
+    "to": 37.43
+  },
+  {
+    "content": "不是他们的学校",
+    "from": 37.43,
+    "location": 2,
+    "music": 0.0,
+    "sid": 18,
+    "to": 38.67
+  },
+  {
+    "content": "是他们的习惯改变了",
+    "from": 38.67,
+    "location": 2,
+    "music": 0.0,
+    "sid": 19,
+    "to": 40.21
+  },
+  {
+    "content": "改变了大脑的工作方式",
+    "from": 40.21,
+    "location": 2,
+    "music": 0.0,
+    "sid": 20,
+    "to": 42.57
+  },
+  {
+    "content": "我将展示研究证实能提升智力的习惯",
+    "from": 42.57,
+    "location": 2,
+    "music": 0.0,
+    "sid": 21,
+    "to": 46.65
+  },
+  {
+    "content": "以及历史上伟人们如何运用这些习惯",
+    "from": 46.65,
+    "location": 2,
+    "music": 0.0,
+    "sid": 22,
+    "to": 49.55
+  },
+  {
+    "content": "在神经科学解释之前很久",
+    "from": 49.55,
+    "location": 2,
+    "music": 0.0,
+    "sid": 23,
+    "to": 56.3
+  },
+  {
+    "content": "大多数人认为智力增长来自摄入更多信息",
+    "from": 56.3,
+    "location": 2,
+    "music": 0.0,
+    "sid": 24,
+    "to": 60.88
+  },
+  {
+    "content": "更多播客",
+    "from": 60.88,
+    "location": 2,
+    "music": 0.0,
+    "sid": 25,
+    "to": 62.11
+  },
+  {
+    "content": "更多资讯",
+    "from": 62.11,
+    "location": 2,
+    "music": 0.0,
+    "sid": 26,
+    "to": 63.29
+  },
+  {
+    "content": "但神经科学研究显示相反",
+    "from": 63.29,
+    "location": 2,
+    "music": 0.0,
+    "sid": 27,
+    "to": 65.99
+  },
+  {
+    "content": "你的大脑会变得更聪明",
+    "from": 65.99,
+    "location": 2,
+    "music": 0.0,
+    "sid": 28,
+    "to": 67.79
+  },
+  {
+    "content": "当被迫进行无输入思考时",
+    "from": 67.79,
+    "location": 2,
+    "music": 0.0,
+    "sid": 29,
+    "to": 70.09
+  },
+  {
+    "content": "这会激活默认模式网络",
+    "from": 70.09,
+    "location": 2,
+    "music": 0.0,
+    "sid": 30,
+    "to": 73.33
+  },
+  {
+    "content": "负责抽象思维的系统",
+    "from": 73.33,
+    "location": 2,
+    "music": 0.0,
+    "sid": 31,
+    "to": 77.05
+  },
+  {
+    "content": "顿悟",
+    "from": 77.05,
+    "location": 2,
+    "music": 0.0,
+    "sid": 32,
+    "to": 78.19
+  },
+  {
+    "content": "长期推理",
+    "from": 78.19,
+    "location": 2,
+    "music": 0.0,
+    "sid": 33,
+    "to": 79.75
+  },
+  {
+    "content": "创造力",
+    "from": 79.75,
+    "location": 2,
+    "music": 0.0,
+    "sid": 34,
+    "to": 81.33
+  },
+  {
+    "content": "爱因斯坦曾进行思想实验",
+    "from": 81.49,
+    "location": 2,
+    "music": 0.0,
+    "sid": 35,
+    "to": 84.65
+  },
+  {
+    "content": "他并不总是计算",
+    "from": 84.65,
+    "location": 2,
+    "music": 0.0,
+    "sid": 36,
+    "to": 86.35
+  },
+  {
+    "content": "而是想象会发生什么",
+    "from": 86.35,
+    "location": 2,
+    "music": 0.0,
+    "sid": 37,
+    "to": 88.21
+  },
+  {
+    "content": "如果我追逐一束光",
+    "from": 88.21,
+    "location": 2,
+    "music": 0.0,
+    "sid": 38,
+    "to": 89.85
+  },
+  {
+    "content": "如果引力弯曲空间会怎样",
+    "from": 89.85,
+    "location": 2,
+    "music": 0.0,
+    "sid": 39,
+    "to": 92.23
+  },
+  {
+    "content": "他会独自漫步数小时",
+    "from": 92.23,
+    "location": 2,
+    "music": 0.0,
+    "sid": 40,
+    "to": 94.27
+  },
+  {
+    "content": "没有书籍",
+    "from": 94.27,
+    "location": 2,
+    "music": 0.0,
+    "sid": 41,
+    "to": 95.19
+  },
+  {
+    "content": "没有笔记",
+    "from": 95.19,
+    "location": 2,
+    "music": 0.0,
+    "sid": 42,
+    "to": 96.03
+  },
+  {
+    "content": "纯粹的思考",
+    "from": 96.03,
+    "location": 2,
+    "music": 0.0,
+    "sid": 43,
+    "to": 97.93
+  },
+  {
+    "content": "现代研究表明定期进行无干扰思考的人在解决问题能力上更高",
+    "from": 98.09,
+    "location": 2,
+    "music": 0.0,
+    "sid": 44,
+    "to": 105.02
+  },
+  {
+    "content": "战略推理和创造力方面更优",
+    "from": 105.02,
+    "location": 2,
+    "music": 0.0,
+    "sid": 45,
+    "to": 108.3
+  },
+  {
+    "content": "聪明的习惯",
+    "from": 108.3,
+    "location": 2,
+    "music": 0.0,
+    "sid": 46,
+    "to": 109.36
+  },
+  {
+    "content": "每日思考漫步",
+    "from": 109.36,
+    "location": 2,
+    "music": 0.0,
+    "sid": 47,
+    "to": 110.8
+  },
+  {
+    "content": "不带手机",
+    "from": 110.8,
+    "location": 2,
+    "music": 0.0,
+    "sid": 48,
+    "to": 111.6
+  },
+  {
+    "content": "不听音乐",
+    "from": 111.6,
+    "location": 2,
+    "music": 0.0,
+    "sid": 49,
+    "to": 112.5
+  },
+  {
+    "content": "最初不接收任何输入",
+    "from": 112.5,
+    "location": 2,
+    "music": 0.0,
+    "sid": 50,
+    "to": 114.25
+  },
+  {
+    "content": "感觉很无聊",
+    "from": 114.25,
+    "location": 2,
+    "music": 0.0,
+    "sid": 51,
+    "to": 115.27
+  },
+  {
+    "content": "然后不舒服",
+    "from": 115.27,
+    "location": 2,
+    "music": 0.0,
+    "sid": 52,
+    "to": 116.57
+  },
+  {
+    "content": "然后有启发性",
+    "from": 116.57,
+    "location": 2,
+    "music": 0.0,
+    "sid": 53,
+    "to": 118.539
+  },
+  {
+    "content": "那种不适感",
+    "from": 118.539,
+    "location": 2,
+    "music": 0.0,
+    "sid": 54,
+    "to": 119.959
+  },
+  {
+    "content": "这就是智力在成长",
+    "from": 119.959,
+    "location": 2,
+    "music": 0.0,
+    "sid": 55,
+    "to": 123.22
+  },
+  {
+    "content": "先经历两次挣扎再求助",
+    "from": 123.22,
+    "location": 2,
+    "music": 0.0,
+    "sid": 56,
+    "to": 125.32
+  },
+  {
+    "content": "高智商的人不会急于给出答案",
+    "from": 125.32,
+    "location": 2,
+    "music": 0.0,
+    "sid": 57,
+    "to": 128.28
+  },
+  {
+    "content": "他们会延迟帮助",
+    "from": 128.28,
+    "location": 2,
+    "music": 0.0,
+    "sid": 58,
+    "to": 129.88
+  },
+  {
+    "content": "心理学家称之为建设性挣扎",
+    "from": 129.88,
+    "location": 2,
+    "music": 0.0,
+    "sid": 59,
+    "to": 132.74
+  },
+  {
+    "content": "大脑在尝试时会变得更强大",
+    "from": 132.74,
+    "location": 2,
+    "music": 0.0,
+    "sid": 60,
+    "to": 134.94
+  },
+  {
+    "content": "失败了",
+    "from": 134.94,
+    "location": 2,
+    "music": 0.0,
+    "sid": 61,
+    "to": 135.62
+  },
+  {
+    "content": "调整后重新尝试",
+    "from": 135.62,
+    "location": 2,
+    "music": 0.0,
+    "sid": 62,
+    "to": 137.78
+  },
+  {
+    "content": "本杰明·富兰克林就是这样训练自己的",
+    "from": 137.78,
+    "location": 2,
+    "music": 0.0,
+    "sid": 63,
+    "to": 140.43
+  },
+  {
+    "content": "他会阅读一篇文章",
+    "from": 140.43,
+    "location": 2,
+    "music": 0.0,
+    "sid": 64,
+    "to": 141.87
+  },
+  {
+    "content": "然后收起来",
+    "from": 141.87,
+    "location": 2,
+    "music": 0.0,
+    "sid": 65,
+    "to": 142.69
+  },
+  {
+    "content": "接着试着凭记忆重写",
+    "from": 142.69,
+    "location": 2,
+    "music": 0.0,
+    "sid": 66,
+    "to": 144.81
+  },
+  {
+    "content": "只有在挣扎之后",
+    "from": 144.81,
+    "location": 2,
+    "music": 0.0,
+    "sid": 67,
+    "to": 146.31
+  },
+  {
+    "content": "才会与原文对比",
+    "from": 146.31,
+    "location": 2,
+    "music": 0.0,
+    "sid": 68,
+    "to": 148.49
+  },
+  {
+    "content": "这迫使大脑提取信息",
+    "from": 148.49,
+    "location": 2,
+    "music": 0.0,
+    "sid": 69,
+    "to": 151.47
+  },
+  {
+    "content": "重新组织",
+    "from": 151.47,
+    "location": 2,
+    "music": 0.0,
+    "sid": 70,
+    "to": 152.61
+  },
+  {
+    "content": "精炼内容",
+    "from": 152.61,
+    "location": 2,
+    "music": 0.0,
+    "sid": 71,
+    "to": 153.51
+  },
+  {
+    "content": "现代脑成像显示，挣扎激活的神经通路比被动解释更深层",
+    "from": 153.51,
+    "location": 2,
+    "music": 0.0,
+    "sid": 72,
+    "to": 160.399
+  },
+  {
+    "content": "这就是即时解决方案为何显得高效",
+    "from": 160.399,
+    "location": 2,
+    "music": 0.0,
+    "sid": 73,
+    "to": 163.779
+  },
+  {
+    "content": "但很快从记忆中消失",
+    "from": 163.779,
+    "location": 2,
+    "music": 0.0,
+    "sid": 74,
+    "to": 165.699
+  },
+  {
+    "content": "在求助前养成最佳习惯",
+    "from": 165.699,
+    "location": 2,
+    "music": 0.0,
+    "sid": 75,
+    "to": 168.779
+  },
+  {
+    "content": "你最好的答案",
+    "from": 168.779,
+    "location": 2,
+    "music": 0.0,
+    "sid": 76,
+    "to": 169.739
+  },
+  {
+    "content": "即使答案错误",
+    "from": 169.739,
+    "location": 2,
+    "music": 0.0,
+    "sid": 77,
+    "to": 171.179
+  },
+  {
+    "content": "挣扎不代表低智商",
+    "from": 171.179,
+    "location": 2,
+    "music": 0.0,
+    "sid": 78,
+    "to": 173.599
+  },
+  {
+    "content": "这是构建智力的习惯机制",
+    "from": 173.599,
+    "location": 2,
+    "music": 0.0,
+    "sid": 79,
+    "to": 176.36
+  },
+  {
+    "content": "三写作用于思考而非记录",
+    "from": 176.36,
+    "location": 2,
+    "music": 0.0,
+    "sid": 80,
+    "to": 179.49
+  },
+  {
+    "content": "大多数人写作是为了存贮信息",
+    "from": 179.49,
+    "location": 2,
+    "music": 0.0,
+    "sid": 81,
+    "to": 181.75
+  },
+  {
+    "content": "聪明人写作是为了理清思路",
+    "from": 181.75,
+    "location": 2,
+    "music": 0.0,
+    "sid": 82,
+    "to": 184.19
+  },
+  {
+    "content": "达芬奇从不写文章",
+    "from": 184.19,
+    "location": 2,
+    "music": 0.0,
+    "sid": 83,
+    "to": 186.67
+  },
+  {
+    "content": "他写问题",
+    "from": 186.67,
+    "location": 2,
+    "music": 0.0,
+    "sid": 84,
+    "to": 187.93
+  },
+  {
+    "content": "图表",
+    "from": 187.93,
+    "location": 2,
+    "music": 0.0,
+    "sid": 85,
+    "to": 189.03
+  },
+  {
+    "content": "片段",
+    "from": 189.03,
+    "location": 2,
+    "music": 0.0,
+    "sid": 86,
+    "to": 189.89
+  },
+  {
+    "content": "矛盾点",
+    "from": 189.89,
+    "location": 2,
+    "music": 0.0,
+    "sid": 87,
+    "to": 191.06
+  },
+  {
+    "content": "他的笔记毫无条理",
+    "from": 191.06,
+    "location": 2,
+    "music": 0.0,
+    "sid": 88,
+    "to": 192.86
+  },
+  {
+    "content": "充满活力",
+    "from": 192.86,
+    "location": 2,
+    "music": 0.0,
+    "sid": 89,
+    "to": 194.36
+  },
+  {
+    "content": "写作迫使大脑放慢速度",
+    "from": 194.36,
+    "location": 2,
+    "music": 0.0,
+    "sid": 90,
+    "to": 197.7
+  },
+  {
+    "content": "发现漏洞",
+    "from": 197.7,
+    "location": 2,
+    "music": 0.0,
+    "sid": 91,
+    "to": 199.04
+  },
+  {
+    "content": "将模糊想法",
+    "from": 199.04,
+    "location": 2,
+    "music": 0.0,
+    "sid": 92,
+    "to": 200.52
+  },
+  {
+    "content": "变得精准",
+    "from": 200.52,
+    "location": 2,
+    "music": 0.0,
+    "sid": 93,
+    "to": 201.27
+  },
+  {
+    "content": "普林斯顿和UCLA的研究表明",
+    "from": 201.27,
+    "location": 2,
+    "music": 0.0,
+    "sid": 94,
+    "to": 205.68
+  },
+  {
+    "content": "手写写作在概念理解上远超打字或阅读",
+    "from": 205.68,
+    "location": 2,
+    "music": 0.0,
+    "sid": 95,
+    "to": 209.6
+  },
+  {
+    "content": "因为写作让思维可视化",
+    "from": 209.6,
+    "location": 2,
+    "music": 0.0,
+    "sid": 96,
+    "to": 212.829
+  },
+  {
+    "content": "聪明习惯",
+    "from": 212.829,
+    "location": 2,
+    "music": 0.0,
+    "sid": 97,
+    "to": 213.909
+  },
+  {
+    "content": "每日思维日记",
+    "from": 213.909,
+    "location": 2,
+    "music": 0.0,
+    "sid": 98,
+    "to": 215.749
+  },
+  {
+    "content": "不是记录今日所做",
+    "from": 215.749,
+    "location": 2,
+    "music": 0.0,
+    "sid": 99,
+    "to": 217.909
+  },
+  {
+    "content": "而是真正理解的内容",
+    "from": 217.909,
+    "location": 2,
+    "music": 0.0,
+    "sid": 100,
+    "to": 220.79
+  },
+  {
+    "content": "让我感到困惑的是",
+    "from": 220.79,
+    "location": 2,
+    "music": 0.0,
+    "sid": 101,
+    "to": 222.399
+  },
+  {
+    "content": "那种未完成的想法",
+    "from": 222.399,
+    "location": 2,
+    "music": 0.0,
+    "sid": 102,
+    "to": 223.999
+  },
+  {
+    "content": "思想被检验的地方，智慧便生长",
+    "from": 225.119,
+    "location": 2,
+    "music": 0.0,
+    "sid": 103,
+    "to": 227.279
+  },
+  {
+    "content": "不是习惯的堆砌",
+    "from": 227.279,
+    "location": 2,
+    "music": 0.0,
+    "sid": 104,
+    "to": 228.799
+  },
+  {
+    "content": "四个思维模型构建法",
+    "from": 228.799,
+    "location": 2,
+    "music": 0.0,
+    "sid": 105,
+    "to": 231.329
+  },
+  {
+    "content": "高",
+    "from": 231.329,
+    "location": 2,
+    "music": 0.0,
+    "sid": 106,
+    "to": 231.929
+  },
+  {
+    "content": "智商个体",
+    "from": 231.929,
+    "location": 2,
+    "music": 0.0,
+    "sid": 107,
+    "to": 233.029
+  },
+  {
+    "content": "他们不仅掌握事实",
+    "from": 233.029,
+    "location": 2,
+    "music": 0.0,
+    "sid": 108,
+    "to": 234.409
+  },
+  {
+    "content": "更能理解系统运作",
+    "from": 234.409,
+    "location": 2,
+    "music": 0.0,
+    "sid": 109,
+    "to": 236.269
+  },
+  {
+    "content": "查理·芒格称之为思维模型的网格",
+    "from": 236.269,
+    "location": 2,
+    "music": 0.0,
+    "sid": 110,
+    "to": 240.579
+  },
+  {
+    "content": "物理学教授因果关系",
+    "from": 240.579,
+    "location": 2,
+    "music": 0.0,
+    "sid": 111,
+    "to": 242.699
+  },
+  {
+    "content": "生物学教授适应机制",
+    "from": 242.699,
+    "location": 2,
+    "music": 0.0,
+    "sid": 112,
+    "to": 244.939
+  },
+  {
+    "content": "心理学教授认知偏差",
+    "from": 244.939,
+    "location": 2,
+    "music": 0.0,
+    "sid": 113,
+    "to": 247.019
+  },
+  {
+    "content": "经济学",
+    "from": 247.019,
+    "location": 2,
+    "music": 0.0,
+    "sid": 114,
+    "to": 247.679
+  },
+  {
+    "content": "教授激励机制",
+    "from": 247.679,
+    "location": 2,
+    "music": 0.0,
+    "sid": 115,
+    "to": 249.05
+  },
+  {
+    "content": "当大脑跨领域学习时",
+    "from": 249.05,
+    "location": 2,
+    "music": 0.0,
+    "sid": 116,
+    "to": 251.19
+  },
+  {
+    "content": "便具备灵活性",
+    "from": 251.19,
+    "location": 2,
+    "music": 0.0,
+    "sid": 117,
+    "to": 252.65
+  },
+  {
+    "content": "这被称为迁移智能",
+    "from": 252.65,
+    "location": 2,
+    "music": 0.0,
+    "sid": 118,
+    "to": 255.15
+  },
+  {
+    "content": "在新情境中应用知识的能力",
+    "from": 255.15,
+    "location": 2,
+    "music": 0.0,
+    "sid": 119,
+    "to": 258.29
+  },
+  {
+    "content": "这就是通才主导历史的原因",
+    "from": 258.29,
+    "location": 2,
+    "music": 0.0,
+    "sid": 120,
+    "to": 261.07
+  },
+  {
+    "content": "亚里士多德、达芬奇、歌德",
+    "from": 261.07,
+    "location": 2,
+    "music": 0.0,
+    "sid": 121,
+    "to": 264.42
+  },
+  {
+    "content": "现代研究证实跨域学习者展现更高流体智力",
+    "from": 264.42,
+    "location": 2,
+    "music": 0.0,
+    "sid": 122,
+    "to": 269.74
+  },
+  {
+    "content": "在新情境中推理的能力",
+    "from": 269.74,
+    "location": 2,
+    "music": 0.0,
+    "sid": 123,
+    "to": 273.32
+  },
+  {
+    "content": "每周智能习惯",
+    "from": 273.56,
+    "location": 2,
+    "music": 0.0,
+    "sid": 124,
+    "to": 275.83
+  },
+  {
+    "content": "每周学习一个跨领域概念",
+    "from": 275.83,
+    "location": 2,
+    "music": 0.0,
+    "sid": 125,
+    "to": 278.59
+  },
+  {
+    "content": "不是浅层理解",
+    "from": 278.59,
+    "location": 2,
+    "music": 0.0,
+    "sid": 126,
+    "to": 281.06
+  },
+  {
+    "content": "当想法开始连接时大脑变得更聪明",
+    "from": 281.06,
+    "location": 2,
+    "music": 0.0,
+    "sid": 127,
+    "to": 284.58
+  },
+  {
+    "content": "五项刻意记忆训练记忆与智力密不可分",
+    "from": 284.58,
+    "location": 2,
+    "music": 0.0,
+    "sid": 128,
+    "to": 289.24
+  },
+  {
+    "content": "它是基础",
+    "from": 289.24,
+    "location": 2,
+    "music": 0.0,
+    "sid": 129,
+    "to": 290.72
+  },
+  {
+    "content": "尼古拉·特斯拉能完整可视化机器",
+    "from": 290.72,
+    "location": 2,
+    "music": 0.0,
+    "sid": 130,
+    "to": 293.419
+  },
+  {
+    "content": "在脑海中旋转测试",
+    "from": 293.419,
+    "location": 2,
+    "music": 0.0,
+    "sid": 131,
+    "to": 296.679
+  },
+  {
+    "content": "古代学者刻意训练记忆",
+    "from": 296.679,
+    "location": 2,
+    "music": 0.0,
+    "sid": 132,
+    "to": 299.539
+  },
+  {
+    "content": "因为他们明白敏锐的记忆能加速",
+    "from": 299.539,
+    "location": 2,
+    "music": 0.0,
+    "sid": 133,
+    "to": 302.94
+  },
+  {
+    "content": "主动回忆等推理技巧",
+    "from": 302.94,
+    "location": 2,
+    "music": 0.0,
+    "sid": 134,
+    "to": 306.4
+  },
+  {
+    "content": "间隔",
+    "from": 306.4,
+    "location": 2,
+    "music": 0.0,
+    "sid": 135,
+    "to": 307.1
+  },
+  {
+    "content": "重复",
+    "from": 307.1,
+    "location": 2,
+    "music": 0.0,
+    "sid": 136,
+    "to": 307.84
+  },
+  {
+    "content": "可视化",
+    "from": 307.84,
+    "location": 2,
+    "music": 0.0,
+    "sid": 137,
+    "to": 309.35
+  },
+  {
+    "content": "不要只是存储信息",
+    "from": 309.35,
+    "location": 2,
+    "music": 0.0,
+    "sid": 138,
+    "to": 311.17
+  },
+  {
+    "content": "它们重组神经网络",
+    "from": 311.17,
+    "location": 2,
+    "music": 0.0,
+    "sid": 139,
+    "to": 313.539
+  },
+  {
+    "content": "MRI研究显示记忆",
+    "from": 313.539,
+    "location": 2,
+    "music": 0.0,
+    "sid": 140,
+    "to": 315.879
+  },
+  {
+    "content": "训练者大脑连接更密集高效",
+    "from": 315.879,
+    "location": 2,
+    "music": 0.0,
+    "sid": 141,
+    "to": 320.0
+  },
+  {
+    "content": "智能习惯先回忆后复习",
+    "from": 320.0,
+    "location": 2,
+    "music": 0.0,
+    "sid": 142,
+    "to": 323.0
+  },
+  {
+    "content": "无笔记解释概念",
+    "from": 323.0,
+    "location": 2,
+    "music": 0.0,
+    "sid": 143,
+    "to": 324.98
+  },
+  {
+    "content": "教授所学内容",
+    "from": 324.98,
+    "location": 2,
+    "music": 0.0,
+    "sid": 144,
+    "to": 326.37
+  },
+  {
+    "content": "记忆并非天赋",
+    "from": 326.37,
+    "location": 2,
+    "music": 0.0,
+    "sid": 145,
+    "to": 328.03
+  },
+  {
+    "content": "它是可训练的技能习惯",
+    "from": 328.03,
+    "location": 2,
+    "music": 0.0,
+    "sid": 146,
+    "to": 330.79
+  },
+  {
+    "content": "六项保护认知能量",
+    "from": 330.79,
+    "location": 2,
+    "music": 0.0,
+    "sid": 147,
+    "to": 333.58
+  },
+  {
+    "content": "聪明人不会整天思考",
+    "from": 333.58,
+    "location": 2,
+    "music": 0.0,
+    "sid": 148,
+    "to": 335.72
+  },
+  {
+    "content": "只在大脑最佳状态时思考",
+    "from": 335.72,
+    "location": 2,
+    "music": 0.0,
+    "sid": 149,
+    "to": 338.02
+  },
+  {
+    "content": "达尔文每天专注工作4-5小时",
+    "from": 338.02,
+    "location": 2,
+    "music": 0.0,
+    "sid": 150,
+    "to": 341.96
+  },
+  {
+    "content": "剩下的时间都在行走和休息",
+    "from": 341.96,
+    "location": 2,
+    "music": 0.0,
+    "sid": 151,
+    "to": 344.34
+  },
+  {
+    "content": "反映慢性压力",
+    "from": 344.34,
+    "location": 2,
+    "music": 0.0,
+    "sid": 152,
+    "to": 346.35
+  },
+  {
+    "content": "睡眠剥夺和持续刺激损害执行功能",
+    "from": 346.35,
+    "location": 2,
+    "music": 0.0,
+    "sid": 153,
+    "to": 350.45
+  },
+  {
+    "content": "智商的核心组成部分之一",
+    "from": 350.45,
+    "location": 2,
+    "music": 0.0,
+    "sid": 154,
+    "to": 353.09
+  },
+  {
+    "content": "大脑不会在忙碌中升级",
+    "from": 353.09,
+    "location": 2,
+    "music": 0.0,
+    "sid": 155,
+    "to": 355.55
+  },
+  {
+    "content": "升级发生在恢复期",
+    "from": 355.55,
+    "location": 2,
+    "music": 0.0,
+    "sid": 156,
+    "to": 357.659
+  },
+  {
+    "content": "智能习惯 深度睡眠",
+    "from": 357.659,
+    "location": 2,
+    "music": 0.0,
+    "sid": 157,
+    "to": 359.539
+  },
+  {
+    "content": "每日运动",
+    "from": 359.539,
+    "location": 2,
+    "music": 0.0,
+    "sid": 158,
+    "to": 360.399
+  },
+  {
+    "content": "获取阳光",
+    "from": 360.399,
+    "location": 2,
+    "music": 0.0,
+    "sid": 159,
+    "to": 361.559
+  },
+  {
+    "content": "允许无聊",
+    "from": 361.559,
+    "location": 2,
+    "music": 0.0,
+    "sid": 160,
+    "to": 362.699
+  },
+  {
+    "content": "无聊并非软弱",
+    "from": 362.699,
+    "location": 2,
+    "music": 0.0,
+    "sid": 161,
+    "to": 364.379
+  },
+  {
+    "content": "这是认知恢复",
+    "from": 364.379,
+    "location": 2,
+    "music": 0.0,
+    "sid": 162,
+    "to": 366.32
+  },
+  {
+    "content": "关闭智能是一个系统",
+    "from": 366.32,
+    "location": 2,
+    "music": 0.0,
+    "sid": 163,
+    "to": 369.2
+  },
+  {
+    "content": "真相在此",
+    "from": 369.2,
+    "location": 2,
+    "music": 0.0,
+    "sid": 164,
+    "to": 370.669
+  },
+  {
+    "content": "智商不会通过",
+    "from": 370.669,
+    "location": 2,
+    "music": 0.0,
+    "sid": 165,
+    "to": 372.629
+  },
+  {
+    "content": "捷径提升",
+    "from": 372.629,
+    "location": 2,
+    "music": 0.0,
+    "sid": 166,
+    "to": 373.149
+  },
+  {
+    "content": "而是通过习惯提升",
+    "from": 373.149,
+    "location": 2,
+    "music": 0.0,
+    "sid": 167,
+    "to": 374.78
+  },
+  {
+    "content": "历史上最聪明的人从未追逐智商",
+    "from": 374.78,
+    "location": 2,
+    "music": 0.0,
+    "sid": 168,
+    "to": 377.72
+  },
+  {
+    "content": "他们构建了让智商成长的系统",
+    "from": 377.72,
+    "location": 2,
+    "music": 0.0,
+    "sid": 169,
+    "to": 380.82
+  },
+  {
+    "content": "如果你想更清晰思考",
+    "from": 380.82,
+    "location": 2,
+    "music": 0.0,
+    "sid": 170,
+    "to": 382.34
+  },
+  {
+    "content": "学习更快",
+    "from": 382.34,
+    "location": 2,
+    "music": 0.0,
+    "sid": 171,
+    "to": 383.26
+  },
+  {
+    "content": "并打造更强心智",
+    "from": 383.26,
+    "location": 2,
+    "music": 0.0,
+    "sid": 172,
+    "to": 385.29
+  },
+  {
+    "content": "从习惯开始",
+    "from": 385.29,
+    "location": 2,
+    "music": 0.0,
+    "sid": 173,
+    "to": 386.47
+  },
+  {
+    "content": "而非信息",
+    "from": 386.47,
+    "location": 2,
+    "music": 0.0,
+    "sid": 174,
+    "to": 387.79
+  },
+  {
+    "content": "如果这个视频改变了你对智商的认知",
+    "from": 387.79,
+    "location": 2,
+    "music": 0.0,
+    "sid": 175,
+    "to": 391.08
+  },
+  {
+    "content": "分享给仍相信智商固定的人",
+    "from": 391.08,
+    "location": 2,
+    "music": 0.0,
+    "sid": 176,
+    "to": 394.58
+  },
+  {
+    "content": "订阅获取更多科学思维",
+    "from": 394.58,
+    "location": 2,
+    "music": 0.0,
+    "sid": 177,
+    "to": 397.2
+  },
+  {
+    "content": "学习",
+    "from": 397.2,
+    "location": 2,
+    "music": 0.0,
+    "sid": 178,
+    "to": 397.78
+  },
+  {
+    "content": "与心智成长",
+    "from": 397.78,
+    "location": 2,
+    "music": 0.0,
+    "sid": 179,
+    "to": 399.32
+  }
+]

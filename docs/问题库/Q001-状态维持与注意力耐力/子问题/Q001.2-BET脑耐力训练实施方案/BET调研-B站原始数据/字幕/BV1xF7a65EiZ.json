@@ -1,0 +1,2322 @@
+[
+  {
+    "content": "大家好，我是马克",
+    "from": 0.08,
+    "location": 2,
+    "music": 0.0,
+    "sid": 1,
+    "to": 0.86
+  },
+  {
+    "content": "所以我尝试每天盯着一面墙",
+    "from": 0.86,
+    "location": 2,
+    "music": 0.0,
+    "sid": 2,
+    "to": 2.12
+  },
+  {
+    "content": "连续三十天每天如此，看看专注力会有什么变化",
+    "from": 2.12,
+    "location": 2,
+    "music": 0.0,
+    "sid": 3,
+    "to": 5.08
+  },
+  {
+    "content": "每天进入深度工作区前",
+    "from": 5.08,
+    "location": 2,
+    "music": 0.0,
+    "sid": 4,
+    "to": 7.66
+  },
+  {
+    "content": "我需要完成当天最重要的纪律性工作",
+    "from": 7.66,
+    "location": 2,
+    "music": 0.0,
+    "sid": 5,
+    "to": 10.64
+  },
+  {
+    "content": "我会坐到椅子上",
+    "from": 10.64,
+    "location": 2,
+    "music": 0.0,
+    "sid": 6,
+    "to": 11.66
+  },
+  {
+    "content": "直接盯着一面墙",
+    "from": 11.66,
+    "location": 2,
+    "music": 0.0,
+    "sid": 7,
+    "to": 13.04
+  },
+  {
+    "content": "不带手机",
+    "from": 13.04,
+    "location": 2,
+    "music": 0.0,
+    "sid": 8,
+    "to": 14.14
+  },
+  {
+    "content": "不准备食物",
+    "from": 14.14,
+    "location": 2,
+    "music": 0.0,
+    "sid": 9,
+    "to": 15.08
+  },
+  {
+    "content": "房间里几乎没阳光",
+    "from": 15.08,
+    "location": 2,
+    "music": 0.0,
+    "sid": 10,
+    "to": 17.18
+  },
+  {
+    "content": "只有我和一面墙",
+    "from": 17.18,
+    "location": 2,
+    "music": 0.0,
+    "sid": 11,
+    "to": 18.66
+  },
+  {
+    "content": "但完成这个挑战后",
+    "from": 18.66,
+    "location": 2,
+    "music": 0.0,
+    "sid": 12,
+    "to": 19.96
+  },
+  {
+    "content": "我可以肯定这是提升专注力的高杠杆方法之一",
+    "from": 19.96,
+    "location": 2,
+    "music": 0.0,
+    "sid": 13,
+    "to": 22.94
+  },
+  {
+    "content": "但首先我要回答问题",
+    "from": 22.94,
+    "location": 2,
+    "music": 0.0,
+    "sid": 14,
+    "to": 23.82
+  },
+  {
+    "content": "为什么我做这件事",
+    "from": 23.82,
+    "location": 2,
+    "music": 0.0,
+    "sid": 15,
+    "to": 25.5
+  },
+  {
+    "content": "因为显然这是为了提升专注力",
+    "from": 25.5,
+    "location": 2,
+    "music": 0.0,
+    "sid": 16,
+    "to": 27.18
+  },
+  {
+    "content": "但为什么要盯着墙",
+    "from": 27.18,
+    "location": 2,
+    "music": 0.0,
+    "sid": 17,
+    "to": 28.58
+  },
+  {
+    "content": "事实上",
+    "from": 28.58,
+    "location": 2,
+    "music": 0.0,
+    "sid": 18,
+    "to": 30.48
+  },
+  {
+    "content": "现在YouTube上的大多数视频",
+    "from": 30.48,
+    "location": 2,
+    "music": 0.0,
+    "sid": 19,
+    "to": 31.44
+  },
+  {
+    "content": "都属于我所说的多巴胺垃圾",
+    "from": 31.44,
+    "location": 2,
+    "music": 0.0,
+    "sid": 20,
+    "to": 34.1
+  },
+  {
+    "content": "这些人对多巴胺在大脑中的运作机制",
+    "from": 34.1,
+    "location": 2,
+    "music": 0.0,
+    "sid": 21,
+    "to": 37.57
+  },
+  {
+    "content": "了解得非常肤浅",
+    "from": 37.57,
+    "location": 2,
+    "music": 0.0,
+    "sid": 22,
+    "to": 40.91
+  },
+  {
+    "content": "他们教你做多巴胺断食",
+    "from": 40.91,
+    "location": 2,
+    "music": 0.0,
+    "sid": 23,
+    "to": 43.28
+  },
+  {
+    "content": "但事实上这不是真实存在的",
+    "from": 43.28,
+    "location": 2,
+    "music": 0.0,
+    "sid": 24,
+    "to": 46.28
+  },
+  {
+    "content": "甚至发明这个术语的人",
+    "from": 46.28,
+    "location": 2,
+    "music": 0.0,
+    "sid": 25,
+    "to": 48.62
+  },
+  {
+    "content": "都说过从未打算这样使用",
+    "from": 48.62,
+    "location": 2,
+    "music": 0.0,
+    "sid": 26,
+    "to": 51.67
+  },
+  {
+    "content": "实际上不可能从大脑中清除神经递质",
+    "from": 51.67,
+    "location": 2,
+    "music": 0.0,
+    "sid": 27,
+    "to": 54.37
+  },
+  {
+    "content": "所以大多数视频要么是",
+    "from": 54.37,
+    "location": 2,
+    "music": 0.0,
+    "sid": 28,
+    "to": 59.24
+  },
+  {
+    "content": "第一类多巴胺垃圾的再包装",
+    "from": 59.24,
+    "location": 2,
+    "music": 0.0,
+    "sid": 29,
+    "to": 63.24
+  },
+  {
+    "content": "要么是带有疯狂 hype 的视频",
+    "from": 63.24,
+    "location": 2,
+    "music": 0.0,
+    "sid": 30,
+    "to": 67.22
+  },
+  {
+    "content": "里面有大卫古根海姆",
+    "from": 67.22,
+    "location": 2,
+    "music": 0.0,
+    "sid": 31,
+    "to": 68.84
+  },
+  {
+    "content": "告诉你不够努力",
+    "from": 68.84,
+    "location": 2,
+    "music": 0.0,
+    "sid": 32,
+    "to": 70.52
+  },
+  {
+    "content": "全是意志力问题",
+    "from": 70.52,
+    "location": 2,
+    "music": 0.0,
+    "sid": 33,
+    "to": 74.49
+  },
+  {
+    "content": "但问题在于大多数人其实没有自律问题",
+    "from": 74.49,
+    "location": 2,
+    "music": 0.0,
+    "sid": 34,
+    "to": 77.66
+  },
+  {
+    "content": "你真正需要解决的是刺激问题",
+    "from": 77.66,
+    "location": 2,
+    "music": 0.0,
+    "sid": 35,
+    "to": 78.86
+  },
+  {
+    "content": "让我解释一下",
+    "from": 78.86,
+    "location": 2,
+    "music": 0.0,
+    "sid": 36,
+    "to": 82.0
+  },
+  {
+    "content": "大脑擅长学习任何事物",
+    "from": 82.0,
+    "location": 2,
+    "music": 0.0,
+    "sid": 37,
+    "to": 83.66
+  },
+  {
+    "content": "重复活动后",
+    "from": 83.66,
+    "location": 2,
+    "music": 0.0,
+    "sid": 38,
+    "to": 87.68
+  },
+  {
+    "content": "大脑会通过髓鞘化过程变得熟练",
+    "from": 87.68,
+    "location": 2,
+    "music": 0.0,
+    "sid": 39,
+    "to": 89.34
+  },
+  {
+    "content": "如图所示",
+    "from": 89.34,
+    "location": 2,
+    "music": 0.0,
+    "sid": 40,
+    "to": 91.12
+  },
+  {
+    "content": "神经元连接时",
+    "from": 91.12,
+    "location": 2,
+    "music": 0.0,
+    "sid": 41,
+    "to": 93.18
+  },
+  {
+    "content": "会有髓鞘包裹",
+    "from": 93.18,
+    "location": 2,
+    "music": 0.0,
+    "sid": 42,
+    "to": 95.26
+  },
+  {
+    "content": "这是信号传递更快的",
+    "from": 95.26,
+    "location": 2,
+    "music": 0.0,
+    "sid": 43,
+    "to": 96.66
+  },
+  {
+    "content": "换句话说",
+    "from": 96.66,
+    "location": 2,
+    "music": 0.0,
+    "sid": 44,
+    "to": 100.56
+  },
+  {
+    "content": "越训练大脑特定刺激",
+    "from": 100.56,
+    "location": 2,
+    "music": 0.0,
+    "sid": 45,
+    "to": 103.22
+  },
+  {
+    "content": "大脑处理该过程的能力越强",
+    "from": 103.22,
+    "location": 2,
+    "music": 0.0,
+    "sid": 46,
+    "to": 103.76
+  },
+  {
+    "content": "髓鞘化过程本身",
+    "from": 103.76,
+    "location": 2,
+    "music": 0.0,
+    "sid": 47,
+    "to": 107.44
+  },
+  {
+    "content": "并没有问题",
+    "from": 107.44,
+    "location": 2,
+    "music": 0.0,
+    "sid": 48,
+    "to": 107.96
+  },
+  {
+    "content": "真正的问题在于训练内容",
+    "from": 107.96,
+    "location": 2,
+    "music": 0.0,
+    "sid": 49,
+    "to": 111.2
+  },
+  {
+    "content": "现在核心机制就是我提出这个想法的原因",
+    "from": 111.2,
+    "location": 2,
+    "music": 0.0,
+    "sid": 50,
+    "to": 114.12
+  },
+  {
+    "content": "首先提到的是",
+    "from": 114.12,
+    "location": 2,
+    "music": 0.0,
+    "sid": 51,
+    "to": 115.26
+  },
+  {
+    "content": "我知道你的大脑就是一个巨大的比较机器",
+    "from": 115.26,
+    "location": 2,
+    "music": 0.0,
+    "sid": 52,
+    "to": 118.82
+  },
+  {
+    "content": "它并不一定为任何事物赋予客观价值",
+    "from": 118.82,
+    "location": 2,
+    "music": 0.0,
+    "sid": 53,
+    "to": 122.42
+  },
+  {
+    "content": "一切都被相互比较",
+    "from": 122.42,
+    "location": 2,
+    "music": 0.0,
+    "sid": 54,
+    "to": 124.98
+  },
+  {
+    "content": "例如",
+    "from": 124.98,
+    "location": 2,
+    "music": 0.0,
+    "sid": 55,
+    "to": 125.54
+  },
+  {
+    "content": "如果我给大脑的唯一刺激就是进行深度工作",
+    "from": 125.54,
+    "location": 2,
+    "music": 0.0,
+    "sid": 56,
+    "to": 129.67
+  },
+  {
+    "content": "外出锻炼对大脑来说",
+    "from": 129.67,
+    "location": 2,
+    "music": 0.0,
+    "sid": 57,
+    "to": 131.89
+  },
+  {
+    "content": "这就是它所知道的一切，就像",
+    "from": 131.89,
+    "location": 2,
+    "music": 0.0,
+    "sid": 58,
+    "to": 134.11
+  },
+  {
+    "content": "如果我只做刷屏",
+    "from": 134.11,
+    "location": 2,
+    "music": 0.0,
+    "sid": 59,
+    "to": 135.65
+  },
+  {
+    "content": "滴答声",
+    "from": 135.65,
+    "location": 2,
+    "music": 0.0,
+    "sid": 60,
+    "to": 136.21
+  },
+  {
+    "content": "点餐外卖整天玩视频游戏",
+    "from": 136.21,
+    "location": 2,
+    "music": 0.0,
+    "sid": 61,
+    "to": 138.48
+  },
+  {
+    "content": "这就是大脑所了解的",
+    "from": 138.48,
+    "location": 2,
+    "music": 0.0,
+    "sid": 62,
+    "to": 140.06
+  },
+  {
+    "content": "问题在于大多数人都",
+    "from": 140.06,
+    "location": 2,
+    "music": 0.0,
+    "sid": 63,
+    "to": 141.5
+  },
+  {
+    "content": "你工作的方式是在出发前",
+    "from": 141.5,
+    "location": 2,
+    "music": 0.0,
+    "sid": 64,
+    "to": 143.7
+  },
+  {
+    "content": "先完成最重要的工作",
+    "from": 143.7,
+    "location": 2,
+    "music": 0.0,
+    "sid": 65,
+    "to": 144.72
+  },
+  {
+    "content": "假设你在学习",
+    "from": 144.72,
+    "location": 2,
+    "music": 0.0,
+    "sid": 66,
+    "to": 145.52
+  },
+  {
+    "content": "为考试做准备",
+    "from": 145.52,
+    "location": 2,
+    "music": 0.0,
+    "sid": 67,
+    "to": 146.52
+  },
+  {
+    "content": "如果你在刷手机",
+    "from": 146.52,
+    "location": 2,
+    "music": 0.0,
+    "sid": 68,
+    "to": 149.54
+  },
+  {
+    "content": "就会不断获得多巴胺刺激",
+    "from": 149.54,
+    "location": 2,
+    "music": 0.0,
+    "sid": 69,
+    "to": 153.2
+  },
+  {
+    "content": "这就是你大脑当前的状态",
+    "from": 153.2,
+    "location": 2,
+    "music": 0.0,
+    "sid": 70,
+    "to": 154.78
+  },
+  {
+    "content": "它没什么可比较的",
+    "from": 154.78,
+    "location": 2,
+    "music": 0.0,
+    "sid": 71,
+    "to": 156.56
+  },
+  {
+    "content": "至少在开始工作前的短期内",
+    "from": 156.56,
+    "location": 2,
+    "music": 0.0,
+    "sid": 72,
+    "to": 159.0
+  },
+  {
+    "content": "而你需要完成的深度工作极其枯燥",
+    "from": 159.0,
+    "location": 2,
+    "music": 0.0,
+    "sid": 73,
+    "to": 162.94
+  },
+  {
+    "content": "仍然缺乏刺激",
+    "from": 162.94,
+    "location": 2,
+    "music": 0.0,
+    "sid": 74,
+    "to": 164.32
+  },
+  {
+    "content": "这就是为什么它对你来说如此困难",
+    "from": 164.32,
+    "location": 2,
+    "music": 0.0,
+    "sid": 75,
+    "to": 166.48
+  },
+  {
+    "content": "第一步开始行动",
+    "from": 166.48,
+    "location": 2,
+    "music": 0.0,
+    "sid": 76,
+    "to": 167.4
+  },
+  {
+    "content": "第二步完成你计划的工作",
+    "from": 167.4,
+    "location": 2,
+    "music": 0.0,
+    "sid": 77,
+    "to": 170.86
+  },
+  {
+    "content": "正如我之前所说",
+    "from": 170.86,
+    "location": 2,
+    "music": 0.0,
+    "sid": 78,
+    "to": 171.38
+  },
+  {
+    "content": "在开场部分",
+    "from": 171.38,
+    "location": 2,
+    "music": 0.0,
+    "sid": 79,
+    "to": 172.02
+  },
+  {
+    "content": "大多数多巴胺知识被完全误解",
+    "from": 172.02,
+    "location": 2,
+    "music": 0.0,
+    "sid": 80,
+    "to": 174.4
+  },
+  {
+    "content": "或至少被错误表述",
+    "from": 174.4,
+    "location": 2,
+    "music": 0.0,
+    "sid": 81,
+    "to": 176.08
+  },
+  {
+    "content": "大脑中的多巴胺神经元有两种非常不同的用途",
+    "from": 176.08,
+    "location": 2,
+    "music": 0.0,
+    "sid": 82,
+    "to": 180.7
+  },
+  {
+    "content": "而大多数人很少谈论这一点",
+    "from": 180.7,
+    "location": 2,
+    "music": 0.0,
+    "sid": 83,
+    "to": 182.72
+  },
+  {
+    "content": "第一种被称为相位多巴胺",
+    "from": 182.72,
+    "location": 2,
+    "music": 0.0,
+    "sid": 84,
+    "to": 185.64
+  },
+  {
+    "content": "这就是",
+    "from": 185.64,
+    "location": 2,
+    "music": 0.0,
+    "sid": 85,
+    "to": 187.0
+  },
+  {
+    "content": "这就是你的刷屏滴答声",
+    "from": 187.0,
+    "location": 2,
+    "music": 0.0,
+    "sid": 86,
+    "to": 188.96
+  },
+  {
+    "content": "这就是你的观看玉米",
+    "from": 188.96,
+    "location": 2,
+    "music": 0.0,
+    "sid": 87,
+    "to": 190.16
+  },
+  {
+    "content": "这就是你的使用",
+    "from": 190.16,
+    "location": 2,
+    "music": 0.0,
+    "sid": 88,
+    "to": 191.74
+  },
+  {
+    "content": "这才是真正刺激多巴胺的因素",
+    "from": 191.74,
+    "location": 2,
+    "music": 0.0,
+    "sid": 89,
+    "to": 194.04
+  },
+  {
+    "content": "这也是导致注意力被劫持的主要问题",
+    "from": 194.04,
+    "location": 2,
+    "music": 0.0,
+    "sid": 90,
+    "to": 197.6
+  },
+  {
+    "content": "它快速而尖锐",
+    "from": 197.6,
+    "location": 2,
+    "music": 0.0,
+    "sid": 91,
+    "to": 198.87
+  },
+  {
+    "content": "通常与新鲜感相关",
+    "from": 198.87,
+    "location": 2,
+    "music": 0.0,
+    "sid": 92,
+    "to": 201.13
+  },
+  {
+    "content": "每次刷Instagram短视频时",
+    "from": 201.13,
+    "location": 2,
+    "music": 0.0,
+    "sid": 93,
+    "to": 203.269
+  },
+  {
+    "content": "每个视频都是新的",
+    "from": 203.269,
+    "location": 2,
+    "music": 0.0,
+    "sid": 94,
+    "to": 204.549
+  },
+  {
+    "content": "在五到十分钟内几乎不会重复看到相同内容",
+    "from": 204.549,
+    "location": 2,
+    "music": 0.0,
+    "sid": 95,
+    "to": 208.969
+  },
+  {
+    "content": "这也是社交媒体如此上瘾的原因",
+    "from": 208.969,
+    "location": 2,
+    "music": 0.0,
+    "sid": 96,
+    "to": 211.32
+  },
+  {
+    "content": "因为这些不可预测的奖励更具刺激性",
+    "from": 211.32,
+    "location": 2,
+    "music": 0.0,
+    "sid": 97,
+    "to": 215.3
+  },
+  {
+    "content": "比可预测的事物更强烈",
+    "from": 215.3,
+    "location": 2,
+    "music": 0.0,
+    "sid": 98,
+    "to": 216.86
+  },
+  {
+    "content": "比如吃高饱腹感食物时的多巴胺释放",
+    "from": 216.86,
+    "location": 2,
+    "music": 0.0,
+    "sid": 99,
+    "to": 220.64
+  },
+  {
+    "content": "另一种被称为基线多巴胺",
+    "from": 220.64,
+    "location": 2,
+    "music": 0.0,
+    "sid": 100,
+    "to": 223.38
+  },
+  {
+    "content": "完全相反的相位",
+    "from": 223.38,
+    "location": 2,
+    "music": 0.0,
+    "sid": 101,
+    "to": 225.02
+  },
+  {
+    "content": "持续多巴胺是你的动机基线",
+    "from": 225.02,
+    "location": 2,
+    "music": 0.0,
+    "sid": 102,
+    "to": 228.02
+  },
+  {
+    "content": "这是大脑的基础水平",
+    "from": 228.02,
+    "location": 2,
+    "music": 0.0,
+    "sid": 103,
+    "to": 229.82
+  },
+  {
+    "content": "为特定目标投入能量的准备状态",
+    "from": 229.82,
+    "location": 2,
+    "music": 0.0,
+    "sid": 104,
+    "to": 233.18
+  },
+  {
+    "content": "这不是一个峰值",
+    "from": 233.18,
+    "location": 2,
+    "music": 0.0,
+    "sid": 105,
+    "to": 234.14
+  },
+  {
+    "content": "而是一个设定值",
+    "from": 234.14,
+    "location": 2,
+    "music": 0.0,
+    "sid": 106,
+    "to": 235.12
+  },
+  {
+    "content": "这就是基线水平",
+    "from": 235.12,
+    "location": 2,
+    "music": 0.0,
+    "sid": 107,
+    "to": 236.1
+  },
+  {
+    "content": "现在你可以调整这个基线",
+    "from": 236.1,
+    "location": 2,
+    "music": 0.0,
+    "sid": 108,
+    "to": 237.86
+  },
+  {
+    "content": "但无论如何它现在就是一个基线水平，为了更好地解释这个概念",
+    "from": 237.86,
+    "location": 2,
+    "music": 0.0,
+    "sid": 109,
+    "to": 241.34
+  },
+  {
+    "content": "让我展示一下",
+    "from": 241.34,
+    "location": 2,
+    "music": 0.0,
+    "sid": 110,
+    "to": 242.36
+  },
+  {
+    "content": "例如",
+    "from": 242.36,
+    "location": 2,
+    "music": 0.0,
+    "sid": 111,
+    "to": 243.19
+  },
+  {
+    "content": "滚动浏览",
+    "from": 243.19,
+    "location": 2,
+    "music": 0.0,
+    "sid": 112,
+    "to": 243.79
+  },
+  {
+    "content": "滴",
+    "from": 243.79,
+    "location": 2,
+    "music": 0.0,
+    "sid": 113,
+    "to": 244.27
+  },
+  {
+    "content": "答",
+    "from": 244.27,
+    "location": 2,
+    "music": 0.0,
+    "sid": 114,
+    "to": 244.55
+  },
+  {
+    "content": "灾难",
+    "from": 244.55,
+    "location": 2,
+    "music": 0.0,
+    "sid": 115,
+    "to": 244.83
+  },
+  {
+    "content": "滚动浏览对这两种活动的影响",
+    "from": 244.83,
+    "location": 2,
+    "music": 0.0,
+    "sid": 116,
+    "to": 247.49
+  },
+  {
+    "content": "说到多巴胺",
+    "from": 247.49,
+    "location": 2,
+    "music": 0.0,
+    "sid": 117,
+    "to": 248.55
+  },
+  {
+    "content": "现在看顶部这里",
+    "from": 248.55,
+    "location": 2,
+    "music": 0.0,
+    "sid": 118,
+    "to": 249.51
+  },
+  {
+    "content": "我们有相位活动",
+    "from": 249.51,
+    "location": 2,
+    "music": 0.0,
+    "sid": 119,
+    "to": 250.65
+  },
+  {
+    "content": "可以看到强烈的",
+    "from": 250.65,
+    "location": 2,
+    "music": 0.0,
+    "sid": 120,
+    "to": 252.06
+  },
+  {
+    "content": "迅速上升又急剧下降",
+    "from": 252.06,
+    "location": 2,
+    "music": 0.0,
+    "sid": 121,
+    "to": 253.4
+  },
+  {
+    "content": "而持续基线会随时间下降",
+    "from": 253.4,
+    "location": 2,
+    "music": 0.0,
+    "sid": 122,
+    "to": 257.08
+  },
+  {
+    "content": "你不希望持续基线下降",
+    "from": 257.08,
+    "location": 2,
+    "music": 0.0,
+    "sid": 123,
+    "to": 258.96
+  },
+  {
+    "content": "你希望看到这个保持稳定",
+    "from": 258.96,
+    "location": 2,
+    "music": 0.0,
+    "sid": 124,
+    "to": 261.13
+  },
+  {
+    "content": "甚至上升",
+    "from": 261.13,
+    "location": 2,
+    "music": 0.0,
+    "sid": 125,
+    "to": 262.29
+  },
+  {
+    "content": "将持续水平视为多巴胺能量储备",
+    "from": 262.29,
+    "location": 2,
+    "music": 0.0,
+    "sid": 126,
+    "to": 266.89
+  },
+  {
+    "content": "所以相位活动就像手机通知",
+    "from": 266.89,
+    "location": 2,
+    "music": 0.0,
+    "sid": 127,
+    "to": 271.03
+  },
+  {
+    "content": "每次触发都会轻微消耗电量",
+    "from": 271.03,
+    "location": 2,
+    "music": 0.0,
+    "sid": 128,
+    "to": 273.92
+  },
+  {
+    "content": "如果你不断点亮屏幕",
+    "from": 273.92,
+    "location": 2,
+    "music": 0.0,
+    "sid": 129,
+    "to": 276.02
+  },
+  {
+    "content": "自然电量会逐渐耗尽",
+    "from": 276.02,
+    "location": 2,
+    "music": 0.0,
+    "sid": 130,
+    "to": 279.16
+  },
+  {
+    "content": "事实上如果增加更多",
+    "from": 279.16,
+    "location": 2,
+    "music": 0.0,
+    "sid": 131,
+    "to": 280.6
+  },
+  {
+    "content": "这里出现强烈的相位多巴胺峰值",
+    "from": 280.6,
+    "location": 2,
+    "music": 0.0,
+    "sid": 132,
+    "to": 283.04
+  },
+  {
+    "content": "可以看到电量随时间大幅下降",
+    "from": 283.04,
+    "location": 2,
+    "music": 0.0,
+    "sid": 133,
+    "to": 285.98
+  },
+  {
+    "content": "甚至低于执行深度工作的阈值",
+    "from": 285.98,
+    "location": 2,
+    "music": 0.0,
+    "sid": 134,
+    "to": 288.26
+  },
+  {
+    "content": "让你难以感到刺激",
+    "from": 288.26,
+    "location": 2,
+    "music": 0.0,
+    "sid": 135,
+    "to": 290.24
+  },
+  {
+    "content": "然后你达到这种状态",
+    "from": 290.24,
+    "location": 2,
+    "music": 0.0,
+    "sid": 136,
+    "to": 291.44
+  },
+  {
+    "content": "电池几乎耗尽",
+    "from": 291.44,
+    "location": 2,
+    "music": 0.0,
+    "sid": 137,
+    "to": 292.78
+  },
+  {
+    "content": "感觉如此艰难",
+    "from": 292.78,
+    "location": 2,
+    "music": 0.0,
+    "sid": 138,
+    "to": 294.46
+  },
+  {
+    "content": "仅仅开始执行大脑较难处理的任务",
+    "from": 294.46,
+    "location": 2,
+    "music": 0.0,
+    "sid": 139,
+    "to": 296.76
+  },
+  {
+    "content": "当你需要开始做稍微困难的事情时",
+    "from": 296.76,
+    "location": 2,
+    "music": 0.0,
+    "sid": 140,
+    "to": 301.28
+  },
+  {
+    "content": "需要明确说明",
+    "from": 301.28,
+    "location": 2,
+    "music": 0.0,
+    "sid": 141,
+    "to": 302.36
+  },
+  {
+    "content": "解决方法并非多巴胺断食",
+    "from": 302.36,
+    "location": 2,
+    "music": 0.0,
+    "sid": 142,
+    "to": 305.24
+  },
+  {
+    "content": "我们都知道那些断食任何东西的人",
+    "from": 305.24,
+    "location": 2,
+    "music": 0.0,
+    "sid": 143,
+    "to": 307.56
+  },
+  {
+    "content": "通常最终回到原来的老路",
+    "from": 307.56,
+    "location": 2,
+    "music": 0.0,
+    "sid": 144,
+    "to": 310.64
+  },
+  {
+    "content": "我最终开始每天盯着墙壁来解决这个问题",
+    "from": 310.64,
+    "location": 2,
+    "music": 0.0,
+    "sid": 145,
+    "to": 314.76
+  },
+  {
+    "content": "因为我清楚这不是突然停止就能解决的",
+    "from": 314.76,
+    "location": 2,
+    "music": 0.0,
+    "sid": 146,
+    "to": 317.88
+  },
+  {
+    "content": "完全停止一切",
+    "from": 317.88,
+    "location": 2,
+    "music": 0.0,
+    "sid": 147,
+    "to": 318.3
+  },
+  {
+    "content": "因为我知道自己会再次复发",
+    "from": 318.3,
+    "location": 2,
+    "music": 0.0,
+    "sid": 148,
+    "to": 320.68
+  },
+  {
+    "content": "回到之前的那些活动",
+    "from": 320.68,
+    "location": 2,
+    "music": 0.0,
+    "sid": 149,
+    "to": 322.84
+  },
+  {
+    "content": "但如果我们看看盯着墙壁的行为",
+    "from": 322.84,
+    "location": 2,
+    "music": 0.0,
+    "sid": 150,
+    "to": 324.88
+  },
+  {
+    "content": "你可以清楚看到它有多么截然不同",
+    "from": 324.88,
+    "location": 2,
+    "music": 0.0,
+    "sid": 151,
+    "to": 327.28
+  },
+  {
+    "content": "在相位活动方面",
+    "from": 327.28,
+    "location": 2,
+    "music": 0.0,
+    "sid": 152,
+    "to": 328.6
+  },
+  {
+    "content": "非常稳定",
+    "from": 328.6,
+    "location": 2,
+    "music": 0.0,
+    "sid": 153,
+    "to": 329.6
+  },
+  {
+    "content": "而你的基线水平异常高",
+    "from": 329.6,
+    "location": 2,
+    "music": 0.0,
+    "sid": 154,
+    "to": 331.62
+  },
+  {
+    "content": "这意味着你始终电量充沛",
+    "from": 331.62,
+    "location": 2,
+    "music": 0.0,
+    "sid": 155,
+    "to": 333.4
+  },
+  {
+    "content": "这意味着完成最重要的工作感觉轻松",
+    "from": 333.4,
+    "location": 2,
+    "music": 0.0,
+    "sid": 156,
+    "to": 336.92
+  },
+  {
+    "content": "不仅如此",
+    "from": 336.92,
+    "location": 2,
+    "music": 0.0,
+    "sid": 157,
+    "to": 337.74
+  },
+  {
+    "content": "完成之后",
+    "from": 337.74,
+    "location": 2,
+    "music": 0.0,
+    "sid": 158,
+    "to": 339.06
+  },
+  {
+    "content": "你会真正感到自我满足",
+    "from": 339.06,
+    "location": 2,
+    "music": 0.0,
+    "sid": 159,
+    "to": 340.76
+  },
+  {
+    "content": "不会感到那种疲惫感",
+    "from": 340.76,
+    "location": 2,
+    "music": 0.0,
+    "sid": 160,
+    "to": 342.56
+  },
+  {
+    "content": "那种反激励的感觉",
+    "from": 342.56,
+    "location": 2,
+    "music": 0.0,
+    "sid": 161,
+    "to": 344.44
+  },
+  {
+    "content": "当你完全不想做任何事",
+    "from": 344.44,
+    "location": 2,
+    "music": 0.0,
+    "sid": 162,
+    "to": 345.88
+  },
+  {
+    "content": "你会开始自责",
+    "from": 345.88,
+    "location": 2,
+    "music": 0.0,
+    "sid": 163,
+    "to": 348.4
+  },
+  {
+    "content": "而做出改变后这些都不会发生",
+    "from": 348.4,
+    "location": 2,
+    "music": 0.0,
+    "sid": 164,
+    "to": 351.64
+  },
+  {
+    "content": "这就是实际发生的变化",
+    "from": 351.64,
+    "location": 2,
+    "music": 0.0,
+    "sid": 165,
+    "to": 353.84
+  },
+  {
+    "content": "首先是",
+    "from": 353.84,
+    "location": 2,
+    "music": 0.0,
+    "sid": 166,
+    "to": 354.46
+  },
+  {
+    "content": "它替换了所有那些疯狂的尖峰",
+    "from": 354.46,
+    "location": 2,
+    "music": 0.0,
+    "sid": 167,
+    "to": 357.18
+  },
+  {
+    "content": "将相位多巴胺活动转为基线多巴胺活动",
+    "from": 357.18,
+    "location": 2,
+    "music": 0.0,
+    "sid": 168,
+    "to": 361.22
+  },
+  {
+    "content": "想象你的大脑像一个待办列表",
+    "from": 361.22,
+    "location": 2,
+    "music": 0.0,
+    "sid": 169,
+    "to": 364.22
+  },
+  {
+    "content": "我有时真的觉得我的大脑像一个LLM",
+    "from": 364.22,
+    "location": 2,
+    "music": 0.0,
+    "sid": 170,
+    "to": 367.64
+  },
+  {
+    "content": "像一个AI工具",
+    "from": 367.64,
+    "location": 2,
+    "music": 0.0,
+    "sid": 171,
+    "to": 368.42
+  },
+  {
+    "content": "最近的信息会是最容易记住的内容",
+    "from": 368.42,
+    "location": 2,
+    "music": 0.0,
+    "sid": 172,
+    "to": 372.1
+  },
+  {
+    "content": "记住十年前的事比五分钟前难得多",
+    "from": 372.1,
+    "location": 2,
+    "music": 0.0,
+    "sid": 173,
+    "to": 375.68
+  },
+  {
+    "content": "当然",
+    "from": 375.68,
+    "location": 2,
+    "music": 0.0,
+    "sid": 174,
+    "to": 376.16
+  },
+  {
+    "content": "我必须确保在最重要的工作前",
+    "from": 376.16,
+    "location": 2,
+    "music": 0.0,
+    "sid": 175,
+    "to": 379.42
+  },
+  {
+    "content": "不应出现高强度的相位活动",
+    "from": 379.42,
+    "location": 2,
+    "music": 0.0,
+    "sid": 176,
+    "to": 383.12
+  },
+  {
+    "content": "应保持基线多巴胺活动",
+    "from": 383.12,
+    "location": 2,
+    "music": 0.0,
+    "sid": 177,
+    "to": 385.26
+  },
+  {
+    "content": "这就是我现在盯着墙的原因",
+    "from": 385.26,
+    "location": 2,
+    "music": 0.0,
+    "sid": 178,
+    "to": 387.9
+  },
+  {
+    "content": "第二点",
+    "from": 387.9,
+    "location": 2,
+    "music": 0.0,
+    "sid": 179,
+    "to": 388.44
+  },
+  {
+    "content": "你还能获得额外的奇妙好处",
+    "from": 388.44,
+    "location": 2,
+    "music": 0.0,
+    "sid": 180,
+    "to": 393.32
+  },
+  {
+    "content": "比如盯着墙壁时",
+    "from": 393.32,
+    "location": 2,
+    "music": 0.0,
+    "sid": 181,
+    "to": 396.66
+  },
+  {
+    "content": "会激活大脑中的默认模式网络",
+    "from": 396.66,
+    "location": 2,
+    "music": 0.0,
+    "sid": 182,
+    "to": 399.94
+  },
+  {
+    "content": "即DN网络",
+    "from": 399.94,
+    "location": 2,
+    "music": 0.0,
+    "sid": 183,
+    "to": 402.41
+  },
+  {
+    "content": "这是大脑在外部刺激减少时激活的网络",
+    "from": 402.41,
+    "location": 2,
+    "music": 0.0,
+    "sid": 184,
+    "to": 407.01
+  },
+  {
+    "content": "停止工作时",
+    "from": 407.01,
+    "location": 2,
+    "music": 0.0,
+    "sid": 185,
+    "to": 408.2
+  },
+  {
+    "content": "大脑不会自动关闭",
+    "from": 408.2,
+    "location": 2,
+    "music": 0.0,
+    "sid": 186,
+    "to": 410.28
+  },
+  {
+    "content": "仍在运转",
+    "from": 410.28,
+    "location": 2,
+    "music": 0.0,
+    "sid": 187,
+    "to": 411.04
+  },
+  {
+    "content": "只是以不同方式运作",
+    "from": 411.04,
+    "location": 2,
+    "music": 0.0,
+    "sid": 188,
+    "to": 412.72
+  },
+  {
+    "content": "刺激水平通常较低",
+    "from": 412.72,
+    "location": 2,
+    "music": 0.0,
+    "sid": 189,
+    "to": 415.4
+  },
+  {
+    "content": "但这是大脑进行精彩",
+    "from": 415.4,
+    "location": 2,
+    "music": 0.0,
+    "sid": 190,
+    "to": 418.02
+  },
+  {
+    "content": "幕后活动的时刻",
+    "from": 418.02,
+    "location": 2,
+    "music": 0.0,
+    "sid": 191,
+    "to": 419.82
+  },
+  {
+    "content": "比如内部思考",
+    "from": 419.82,
+    "location": 2,
+    "music": 0.0,
+    "sid": 192,
+    "to": 421.11
+  },
+  {
+    "content": "自我反思",
+    "from": 421.11,
+    "location": 2,
+    "music": 0.0,
+    "sid": 193,
+    "to": 422.11
+  },
+  {
+    "content": "可能进行抽离式问题解决",
+    "from": 422.11,
+    "location": 2,
+    "music": 0.0,
+    "sid": 194,
+    "to": 424.47
+  },
+  {
+    "content": "就像",
+    "from": 424.47,
+    "location": 2,
+    "music": 0.0,
+    "sid": 195,
+    "to": 424.91
+  },
+  {
+    "content": "当你独处时",
+    "from": 424.91,
+    "location": 2,
+    "music": 0.0,
+    "sid": 196,
+    "to": 427.23
+  },
+  {
+    "content": "没有手机",
+    "from": 427.23,
+    "location": 2,
+    "music": 0.0,
+    "sid": 197,
+    "to": 427.95
+  },
+  {
+    "content": "没有音乐",
+    "from": 427.95,
+    "location": 2,
+    "music": 0.0,
+    "sid": 198,
+    "to": 428.45
+  },
+  {
+    "content": "没有刺激",
+    "from": 428.45,
+    "location": 2,
+    "music": 0.0,
+    "sid": 199,
+    "to": 429.49
+  },
+  {
+    "content": "你是否意识到自己开始反思人生",
+    "from": 429.49,
+    "location": 2,
+    "music": 0.0,
+    "sid": 200,
+    "to": 432.95
+  },
+  {
+    "content": "就像质疑所有你的选择",
+    "from": 432.95,
+    "location": 2,
+    "music": 0.0,
+    "sid": 201,
+    "to": 434.29
+  },
+  {
+    "content": "这就是该见鬼的",
+    "from": 434.29,
+    "location": 2,
+    "music": 0.0,
+    "sid": 202,
+    "to": 435.76
+  },
+  {
+    "content": "实际上",
+    "from": 435.76,
+    "location": 2,
+    "music": 0.0,
+    "sid": 203,
+    "to": 436.38
+  },
+  {
+    "content": "这就是当你真正盯着墙看会发生的事",
+    "from": 436.38,
+    "location": 2,
+    "music": 0.0,
+    "sid": 204,
+    "to": 438.68
+  },
+  {
+    "content": "就在你要连续三十天深度工作之前",
+    "from": 438.68,
+    "location": 2,
+    "music": 0.0,
+    "sid": 205,
+    "to": 441.04
+  },
+  {
+    "content": "让我明确一点",
+    "from": 441.04,
+    "location": 2,
+    "music": 0.0,
+    "sid": 206,
+    "to": 442.24
+  },
+  {
+    "content": "盯着墙的目标不是进入某种超然冥想状态",
+    "from": 442.24,
+    "location": 2,
+    "music": 0.0,
+    "sid": 207,
+    "to": 447.03
+  },
+  {
+    "content": "冥想很棒",
+    "from": 447.03,
+    "location": 2,
+    "music": 0.0,
+    "sid": 208,
+    "to": 447.95
+  },
+  {
+    "content": "我认为地球上大多数人应该多做这个",
+    "from": 447.95,
+    "location": 2,
+    "music": 0.0,
+    "sid": 209,
+    "to": 451.12
+  },
+  {
+    "content": "太棒了",
+    "from": 451.12,
+    "location": 2,
+    "music": 0.0,
+    "sid": 210,
+    "to": 451.48
+  },
+  {
+    "content": "净收益",
+    "from": 451.48,
+    "location": 2,
+    "music": 0.0,
+    "sid": 211,
+    "to": 452.16
+  },
+  {
+    "content": "但这里的目标只是要明确的是减少对刺激的依赖",
+    "from": 452.16,
+    "location": 2,
+    "music": 0.0,
+    "sid": 212,
+    "to": 457.36
+  },
+  {
+    "content": "开始做困难的事",
+    "from": 457.36,
+    "location": 2,
+    "music": 0.0,
+    "sid": 213,
+    "to": 459.3
+  },
+  {
+    "content": "大多数人真正的问题",
+    "from": 459.3,
+    "location": 2,
+    "music": 0.0,
+    "sid": 214,
+    "to": 461.04
+  },
+  {
+    "content": "在于刺激基线与真实工作提供的刺激之间的差距",
+    "from": 461.04,
+    "location": 2,
+    "music": 0.0,
+    "sid": 215,
+    "to": 465.6
+  },
+  {
+    "content": "已经变得如此之大",
+    "from": 465.6,
+    "location": 2,
+    "music": 0.0,
+    "sid": 216,
+    "to": 466.93
+  },
+  {
+    "content": "以至于真正开始会感到困难",
+    "from": 466.93,
+    "location": 2,
+    "music": 0.0,
+    "sid": 217,
+    "to": 469.53
+  },
+  {
+    "content": "现在",
+    "from": 469.53,
+    "location": 2,
+    "music": 0.0,
+    "sid": 218,
+    "to": 469.95
+  },
+  {
+    "content": "这就是如何高效执行这个策略的方法",
+    "from": 469.95,
+    "location": 2,
+    "music": 0.0,
+    "sid": 219,
+    "to": 473.79
+  },
+  {
+    "content": "别毫无理由地傻站着看墙",
+    "from": 473.79,
+    "location": 2,
+    "music": 0.0,
+    "sid": 220,
+    "to": 476.69
+  },
+  {
+    "content": "我要你承诺至少三十天",
+    "from": 476.69,
+    "location": 2,
+    "music": 0.0,
+    "sid": 221,
+    "to": 479.42
+  },
+  {
+    "content": "多巴胺研究表明要实现有意义改变",
+    "from": 479.42,
+    "location": 2,
+    "music": 0.0,
+    "sid": 222,
+    "to": 482.92
+  },
+  {
+    "content": "通常第一周就会看到变化",
+    "from": 482.92,
+    "location": 2,
+    "music": 0.0,
+    "sid": 223,
+    "to": 484.76
+  },
+  {
+    "content": "但真正重置系统需要几周时间",
+    "from": 484.76,
+    "location": 2,
+    "music": 0.0,
+    "sid": 224,
+    "to": 487.24
+  },
+  {
+    "content": "如果明白的话",
+    "from": 487.24,
+    "location": 2,
+    "music": 0.0,
+    "sid": 225,
+    "to": 487.96
+  },
+  {
+    "content": "更重要的是重置你对接下来每天二十分钟刺激的对比",
+    "from": 487.96,
+    "location": 2,
+    "music": 0.0,
+    "sid": 226,
+    "to": 493.63
+  },
+  {
+    "content": "不要早上一开始就做",
+    "from": 493.63,
+    "location": 2,
+    "music": 0.0,
+    "sid": 227,
+    "to": 495.09
+  },
+  {
+    "content": "除非你直接醒来立即工作",
+    "from": 495.09,
+    "location": 2,
+    "music": 0.0,
+    "sid": 228,
+    "to": 497.32
+  },
+  {
+    "content": "你应该在最重要的深度工作前做",
+    "from": 497.32,
+    "location": 2,
+    "music": 0.0,
+    "sid": 229,
+    "to": 500.5
+  },
+  {
+    "content": "这引出第三条规则",
+    "from": 500.5,
+    "location": 2,
+    "music": 0.0,
+    "sid": 230,
+    "to": 502.0
+  },
+  {
+    "content": "必须是高内省处理任务",
+    "from": 502.0,
+    "location": 2,
+    "music": 0.0,
+    "sid": 231,
+    "to": 505.18
+  },
+  {
+    "content": "无论是写作",
+    "from": 505.18,
+    "location": 2,
+    "music": 0.0,
+    "sid": 232,
+    "to": 506.46
+  },
+  {
+    "content": "学习",
+    "from": 506.46,
+    "location": 2,
+    "music": 0.0,
+    "sid": 233,
+    "to": 506.92
+  },
+  {
+    "content": "解决问题",
+    "from": 506.92,
+    "location": 2,
+    "music": 0.0,
+    "sid": 234,
+    "to": 507.7
+  },
+  {
+    "content": "你实际主动用脑创造和使用的任何时间",
+    "from": 507.7,
+    "location": 2,
+    "music": 0.0,
+    "sid": 235,
+    "to": 511.64
+  },
+  {
+    "content": "正是你应该使用这个策略的时候",
+    "from": 511.64,
+    "location": 2,
+    "music": 0.0,
+    "sid": 236,
+    "to": 514.069
+  },
+  {
+    "content": "先调整预期",
+    "from": 514.069,
+    "location": 2,
+    "music": 0.0,
+    "sid": 237,
+    "to": 515.469
+  },
+  {
+    "content": "一开始会很痛苦",
+    "from": 515.469,
+    "location": 2,
+    "music": 0.0,
+    "sid": 238,
+    "to": 517.549
+  },
+  {
+    "content": "会感觉极其无聊",
+    "from": 517.549,
+    "location": 2,
+    "music": 0.0,
+    "sid": 239,
+    "to": 519.42
+  },
+  {
+    "content": "会极其不舒服",
+    "from": 519.42,
+    "location": 2,
+    "music": 0.0,
+    "sid": 240,
+    "to": 521.76
+  },
+  {
+    "content": "但不适感说明这有效了",
+    "from": 521.76,
+    "location": 2,
+    "music": 0.0,
+    "sid": 241,
+    "to": 525.34
+  },
+  {
+    "content": "我们都清楚专注是减法游戏",
+    "from": 525.34,
+    "location": 2,
+    "music": 0.0,
+    "sid": 242,
+    "to": 528.61
+  },
+  {
+    "content": "不是加法",
+    "from": 528.61,
+    "location": 2,
+    "music": 0.0,
+    "sid": 243,
+    "to": 529.45
+  },
+  {
+    "content": "所以我们正在减去",
+    "from": 529.45,
+    "location": 2,
+    "music": 0.0,
+    "sid": 244,
+    "to": 531.73
+  },
+  {
+    "content": "不必要的刺激",
+    "from": 531.73,
+    "location": 2,
+    "music": 0.0,
+    "sid": 245,
+    "to": 533.19
+  },
+  {
+    "content": "让真正工作变得极具刺激性",
+    "from": 533.19,
+    "location": 2,
+    "music": 0.0,
+    "sid": 246,
+    "to": 536.15
+  },
+  {
+    "content": "现在",
+    "from": 536.15,
+    "location": 2,
+    "music": 0.0,
+    "sid": 247,
+    "to": 536.45
+  },
+  {
+    "content": "最后一点",
+    "from": 536.45,
+    "location": 2,
+    "music": 0.0,
+    "sid": 248,
+    "to": 537.46
+  },
+  {
+    "content": "不一定和盯着墙相关",
+    "from": 537.46,
+    "location": 2,
+    "music": 0.0,
+    "sid": 249,
+    "to": 539.46
+  },
+  {
+    "content": "但若想持续有效非常重要",
+    "from": 539.46,
+    "location": 2,
+    "music": 0.0,
+    "sid": 250,
+    "to": 542.48
+  },
+  {
+    "content": "大多数人完成他们的",
+    "from": 542.48,
+    "location": 2,
+    "music": 0.0,
+    "sid": 251,
+    "to": 544.35
+  },
+  {
+    "content": "你知道他们的一般工作",
+    "from": 544.35,
+    "location": 2,
+    "music": 0.0,
+    "sid": 252,
+    "to": 545.47
+  },
+  {
+    "content": "他们做了什么",
+    "from": 545.47,
+    "location": 2,
+    "music": 0.0,
+    "sid": 253,
+    "to": 546.07
+  },
+  {
+    "content": "他们从办公桌前离开",
+    "from": 546.07,
+    "location": 2,
+    "music": 0.0,
+    "sid": 254,
+    "to": 546.91
+  },
+  {
+    "content": "然后走出房间",
+    "from": 546.91,
+    "location": 2,
+    "music": 0.0,
+    "sid": 255,
+    "to": 547.67
+  },
+  {
+    "content": "接着立刻拿起手机这会破坏",
+    "from": 547.67,
+    "location": 2,
+    "music": 0.0,
+    "sid": 256,
+    "to": 549.9
+  },
+  {
+    "content": "你刚刚投入大量精力的工作",
+    "from": 549.9,
+    "location": 2,
+    "music": 0.0,
+    "sid": 257,
+    "to": 552.74
+  },
+  {
+    "content": "好的",
+    "from": 552.74,
+    "location": 2,
+    "music": 0.0,
+    "sid": 258,
+    "to": 553.06
+  },
+  {
+    "content": "这就是我所说的虚假休息",
+    "from": 553.06,
+    "location": 2,
+    "music": 0.0,
+    "sid": 259,
+    "to": 554.66
+  },
+  {
+    "content": "虚假休息并非真正的休息",
+    "from": 554.66,
+    "location": 2,
+    "music": 0.0,
+    "sid": 260,
+    "to": 556.68
+  },
+  {
+    "content": "只是另一种刺激形式",
+    "from": 556.68,
+    "location": 2,
+    "music": 0.0,
+    "sid": 261,
+    "to": 558.92
+  },
+  {
+    "content": "比如刷手机算不上休息",
+    "from": 558.92,
+    "location": 2,
+    "music": 0.0,
+    "sid": 262,
+    "to": 560.34
+  },
+  {
+    "content": "发短信算不上休息",
+    "from": 560.34,
+    "location": 2,
+    "music": 0.0,
+    "sid": 263,
+    "to": 561.8
+  },
+  {
+    "content": "看YouTube也算不上休息",
+    "from": 561.8,
+    "location": 2,
+    "music": 0.0,
+    "sid": 264,
+    "to": 562.94
+  },
+  {
+    "content": "这些只是新的输入形式",
+    "from": 562.94,
+    "location": 2,
+    "music": 0.0,
+    "sid": 265,
+    "to": 564.58
+  },
+  {
+    "content": "新的刺激形式",
+    "from": 564.58,
+    "location": 2,
+    "music": 0.0,
+    "sid": 266,
+    "to": 565.78
+  },
+  {
+    "content": "而大脑仍在处理信息",
+    "from": 565.78,
+    "location": 2,
+    "music": 0.0,
+    "sid": 267,
+    "to": 567.4
+  },
+  {
+    "content": "仍在反应",
+    "from": 567.4,
+    "location": 2,
+    "music": 0.0,
+    "sid": 268,
+    "to": 568.62
+  },
+  {
+    "content": "仍在运行条件反射循环",
+    "from": 568.62,
+    "location": 2,
+    "music": 0.0,
+    "sid": 269,
+    "to": 570.46
+  },
+  {
+    "content": "唯一改变的是内容",
+    "from": 570.46,
+    "location": 2,
+    "music": 0.0,
+    "sid": 270,
+    "to": 572.26
+  },
+  {
+    "content": "为了彻底完成这个循环",
+    "from": 572.26,
+    "location": 2,
+    "music": 0.0,
+    "sid": 271,
+    "to": 574.66
+  },
+  {
+    "content": "并真正形成持久的习惯让下次深度工作更轻松",
+    "from": 574.66,
+    "location": 2,
+    "music": 0.0,
+    "sid": 272,
+    "to": 579.1
+  },
+  {
+    "content": "必须关闭这个习惯循环",
+    "from": 579.1,
+    "location": 2,
+    "music": 0.0,
+    "sid": 273,
+    "to": 581.06
+  },
+  {
+    "content": "不是通过使用手机",
+    "from": 581.06,
+    "location": 2,
+    "music": 0.0,
+    "sid": 274,
+    "to": 582.34
+  },
+  {
+    "content": "而是做能缓慢持续释放多巴胺的事",
+    "from": 582.34,
+    "location": 2,
+    "music": 0.0,
+    "sid": 275,
+    "to": 586.5
+  },
+  {
+    "content": "例如",
+    "from": 586.5,
+    "location": 2,
+    "music": 0.0,
+    "sid": 276,
+    "to": 587.08
+  },
+  {
+    "content": "去散步",
+    "from": 587.08,
+    "location": 2,
+    "music": 0.0,
+    "sid": 277,
+    "to": 588.02
+  },
+  {
+    "content": "吃健康食物",
+    "from": 588.02,
+    "location": 2,
+    "music": 0.0,
+    "sid": 278,
+    "to": 588.74
+  },
+  {
+    "content": "做不会立即激增多巴胺的事",
+    "from": 588.74,
+    "location": 2,
+    "music": 0.0,
+    "sid": 279,
+    "to": 591.62
+  },
+  {
+    "content": "我想你们大概知道什么有效什么无效了",
+    "from": 591.62,
+    "location": 2,
+    "music": 0.0,
+    "sid": 280,
+    "to": 595.3
+  },
+  {
+    "content": "如果你喜欢这段视频内容",
+    "from": 595.3,
+    "location": 2,
+    "music": 0.0,
+    "sid": 281,
+    "to": 597.04
+  },
+  {
+    "content": "这只是更大视频中的一小部分",
+    "from": 597.04,
+    "location": 2,
+    "music": 0.0,
+    "sid": 282,
+    "to": 600.14
+  },
+  {
+    "content": "我整理的完整专注力协议",
+    "from": 600.14,
+    "location": 2,
+    "music": 0.0,
+    "sid": 283,
+    "to": 603.38
+  },
+  {
+    "content": "如果你想观看那个视频",
+    "from": 603.38,
+    "location": 2,
+    "music": 0.0,
+    "sid": 284,
+    "to": 604.48
+  },
+  {
+    "content": "我会留下链接",
+    "from": 604.48,
+    "location": 2,
+    "music": 0.0,
+    "sid": 285,
+    "to": 605.44
+  },
+  {
+    "content": "屏幕某处会有提示",
+    "from": 605.44,
+    "location": 2,
+    "music": 0.0,
+    "sid": 286,
+    "to": 606.26
+  },
+  {
+    "content": "除此之外各位",
+    "from": 606.26,
+    "location": 2,
+    "music": 0.0,
+    "sid": 287,
+    "to": 606.94
+  },
+  {
+    "content": "非常感谢观看",
+    "from": 606.94,
+    "location": 2,
+    "music": 0.0,
+    "sid": 288,
+    "to": 607.94
+  },
+  {
+    "content": "我们下次再见",
+    "from": 607.94,
+    "location": 2,
+    "music": 0.0,
+    "sid": 289,
+    "to": 609.12
+  },
+  {
+    "content": "祝好",
+    "from": 609.12,
+    "location": 2,
+    "music": 0.0,
+    "sid": 290,
+    "to": 609.64
+  }
+]

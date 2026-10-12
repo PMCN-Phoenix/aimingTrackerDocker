@@ -1,0 +1,4218 @@
+[
+  {
+    "from": 2.68,
+    "to": 3.1,
+    "sid": 1,
+    "location": 2,
+    "content": "大家好",
+    "music": 0.0
+  },
+  {
+    "from": 3.1,
+    "to": 4.3,
+    "sid": 2,
+    "location": 2,
+    "content": "我是布鲁卡尼诺",
+    "music": 0.0
+  },
+  {
+    "from": 4.3,
+    "to": 5.68,
+    "sid": 3,
+    "location": 2,
+    "content": "我们在上一期提出了",
+    "music": 0.0
+  },
+  {
+    "from": 5.68,
+    "to": 8.14,
+    "sid": 4,
+    "location": 2,
+    "content": "手速公式以及发力技巧的重要性",
+    "music": 0.0
+  },
+  {
+    "from": 8.14,
+    "to": 9.92,
+    "sid": 5,
+    "location": 2,
+    "content": "与前桌子等发力技巧",
+    "music": 0.0
+  },
+  {
+    "from": 9.92,
+    "to": 13.58,
+    "sid": 6,
+    "location": 2,
+    "content": "那么这一期我们来着重探讨公式中的肌肉耐力",
+    "music": 0.0
+  },
+  {
+    "from": 13.58,
+    "to": 15.47,
+    "sid": 7,
+    "location": 2,
+    "content": "相信大家在打音游的时候",
+    "music": 0.0
+  },
+  {
+    "from": 15.47,
+    "to": 18.83,
+    "sid": 8,
+    "location": 2,
+    "content": "尤其是打超出自己手速舒适圈的谱面时",
+    "music": 0.0
+  },
+  {
+    "from": 18.83,
+    "to": 20.45,
+    "sid": 9,
+    "location": 2,
+    "content": "都经历过小臂酸痛",
+    "music": 0.0
+  },
+  {
+    "from": 20.45,
+    "to": 23.78,
+    "sid": 10,
+    "location": 2,
+    "content": "那么打音游时使用到的小臂肌肉是哪一部分呢",
+    "music": 0.0
+  },
+  {
+    "from": 23.78,
+    "to": 26.33,
+    "sid": 11,
+    "location": 2,
+    "content": "我们该如何正确训练音游底力呢",
+    "music": 0.0
+  },
+  {
+    "from": 26.33,
+    "to": 28.41,
+    "sid": 12,
+    "location": 2,
+    "content": "真的只是play more就可以吗",
+    "music": 0.0
+  },
+  {
+    "from": 28.41,
+    "to": 29.79,
+    "sid": 13,
+    "location": 2,
+    "content": "肌肉耐力这件事",
+    "music": 0.0
+  },
+  {
+    "from": 29.79,
+    "to": 32.64,
+    "sid": 14,
+    "location": 2,
+    "content": "他或许比我们想的要更复杂一些",
+    "music": 0.0
+  },
+  {
+    "from": 32.64,
+    "to": 35.91,
+    "sid": 15,
+    "location": 2,
+    "content": "首先在深入讲解实际练习方法之前",
+    "music": 0.0
+  },
+  {
+    "from": 35.91,
+    "to": 38.92,
+    "sid": 16,
+    "location": 2,
+    "content": "让我们先来了解一些必要的前置知识点",
+    "music": 0.0
+  },
+  {
+    "from": 38.92,
+    "to": 41.5,
+    "sid": 17,
+    "location": 2,
+    "content": "这些知识将帮助我们更好的理解",
+    "music": 0.0
+  },
+  {
+    "from": 41.5,
+    "to": 42.85,
+    "sid": 18,
+    "location": 2,
+    "content": "即将要进行的训练",
+    "music": 0.0
+  },
+  {
+    "from": 42.85,
+    "to": 44.38,
+    "sid": 19,
+    "location": 2,
+    "content": "因为了解背后的原理",
+    "music": 0.0
+  },
+  {
+    "from": 44.38,
+    "to": 47.59,
+    "sid": 20,
+    "location": 2,
+    "content": "能在一定程度上增加我们训练时的自信心",
+    "music": 0.0
+  },
+  {
+    "from": 47.59,
+    "to": 49.93,
+    "sid": 21,
+    "location": 2,
+    "content": "明白为什么某个动作或者方法",
+    "music": 0.0
+  },
+  {
+    "from": 49.93,
+    "to": 52.49,
+    "sid": 22,
+    "location": 2,
+    "content": "有效知道自己是走在正确的道路上",
+    "music": 0.0
+  },
+  {
+    "from": 52.49,
+    "to": 54.17,
+    "sid": 23,
+    "location": 2,
+    "content": "这无疑是非常宝贵的",
+    "music": 0.0
+  },
+  {
+    "from": 54.17,
+    "to": 55.13,
+    "sid": 24,
+    "location": 2,
+    "content": "就像这两句话",
+    "music": 0.0
+  },
+  {
+    "from": 55.13,
+    "to": 55.97,
+    "sid": 25,
+    "location": 2,
+    "content": "你只管努力",
+    "music": 0.0
+  },
+  {
+    "from": 55.97,
+    "to": 57.12,
+    "sid": 26,
+    "location": 2,
+    "content": "剩下的交给时间",
+    "music": 0.0
+  },
+  {
+    "from": 57.12,
+    "to": 59.94,
+    "sid": 27,
+    "location": 2,
+    "content": "你只管依据科学原理朝着正确的方向努力",
+    "music": 0.0
+  },
+  {
+    "from": 59.94,
+    "to": 60.96,
+    "sid": 28,
+    "location": 2,
+    "content": "剩下的交给时间",
+    "music": 0.0
+  },
+  {
+    "from": 60.96,
+    "to": 61.5,
+    "sid": 29,
+    "location": 2,
+    "content": "无疑",
+    "music": 0.0
+  },
+  {
+    "from": 61.5,
+    "to": 64.74,
+    "sid": 30,
+    "location": 2,
+    "content": "第二句话有着更好的激励效果",
+    "music": 0.0
+  },
+  {
+    "from": 65.549,
+    "to": 67.669,
+    "sid": 31,
+    "location": 2,
+    "content": "我们的小臂肌肉主要由一类",
+    "music": 0.0
+  },
+  {
+    "from": 67.669,
+    "to": 69.95,
+    "sid": 32,
+    "location": 2,
+    "content": "2A类和2X类肌肉组成",
+    "music": 0.0
+  },
+  {
+    "from": 69.95,
+    "to": 71.57,
+    "sid": 33,
+    "location": 2,
+    "content": "一和2A是红的",
+    "music": 0.0
+  },
+  {
+    "from": 71.57,
+    "to": 73.13,
+    "sid": 34,
+    "location": 2,
+    "content": "所以统称为红肌纤维",
+    "music": 0.0
+  },
+  {
+    "from": 73.13,
+    "to": 74.33,
+    "sid": 35,
+    "location": 2,
+    "content": "2X是白的",
+    "music": 0.0
+  },
+  {
+    "from": 74.33,
+    "to": 75.6,
+    "sid": 36,
+    "location": 2,
+    "content": "所以叫它白肌纤维",
+    "music": 0.0
+  },
+  {
+    "from": 75.6,
+    "to": 77.7,
+    "sid": 37,
+    "location": 2,
+    "content": "这三种肌肉提供的力的大小",
+    "music": 0.0
+  },
+  {
+    "from": 77.7,
+    "to": 78.42,
+    "sid": 38,
+    "location": 2,
+    "content": "一类较低",
+    "music": 0.0
+  },
+  {
+    "from": 78.42,
+    "to": 79.08,
+    "sid": 39,
+    "location": 2,
+    "content": "二类较高",
+    "music": 0.0
+  },
+  {
+    "from": 79.08,
+    "to": 79.98,
+    "sid": 40,
+    "location": 2,
+    "content": "2X最高",
+    "music": 0.0
+  },
+  {
+    "from": 79.98,
+    "to": 82.68,
+    "sid": 41,
+    "location": 2,
+    "content": "而他们的抗疲劳能力则为一类最强",
+    "music": 0.0
+  },
+  {
+    "from": 82.68,
+    "to": 83.7,
+    "sid": 42,
+    "location": 2,
+    "content": "2A较强",
+    "music": 0.0
+  },
+  {
+    "from": 83.7,
+    "to": 84.86,
+    "sid": 43,
+    "location": 2,
+    "content": "2X极弱",
+    "music": 0.0
+  },
+  {
+    "from": 84.86,
+    "to": 85.7,
+    "sid": 44,
+    "location": 2,
+    "content": "这是因为",
+    "music": 0.0
+  },
+  {
+    "from": 85.7,
+    "to": 89.33,
+    "sid": 45,
+    "location": 2,
+    "content": "他们呼吸方式和代谢废物排出速度的差异",
+    "music": 0.0
+  },
+  {
+    "from": 89.33,
+    "to": 90.8,
+    "sid": 46,
+    "location": 2,
+    "content": "一类进行有氧呼吸",
+    "music": 0.0
+  },
+  {
+    "from": 90.8,
+    "to": 91.789,
+    "sid": 47,
+    "location": 2,
+    "content": "不产生乳酸",
+    "music": 0.0
+  },
+  {
+    "from": 91.789,
+    "to": 93.889,
+    "sid": 48,
+    "location": 2,
+    "content": "2A则是有氧和无氧混合",
+    "music": 0.0
+  },
+  {
+    "from": 93.889,
+    "to": 95.149,
+    "sid": 49,
+    "location": 2,
+    "content": "产生少量乳酸",
+    "music": 0.0
+  },
+  {
+    "from": 95.149,
+    "to": 97.68,
+    "sid": 50,
+    "location": 2,
+    "content": "同时代谢废物排出速度也较快",
+    "music": 0.0
+  },
+  {
+    "from": 97.68,
+    "to": 100.92,
+    "sid": 51,
+    "location": 2,
+    "content": "而白肌也就是2X主要进行无氧呼吸",
+    "music": 0.0
+  },
+  {
+    "from": 100.92,
+    "to": 102.03,
+    "sid": 52,
+    "location": 2,
+    "content": "产生大量乳酸",
+    "music": 0.0
+  },
+  {
+    "from": 102.03,
+    "to": 103.89,
+    "sid": 53,
+    "location": 2,
+    "content": "代谢废物排出速度慢",
+    "music": 0.0
+  },
+  {
+    "from": 103.89,
+    "to": 104.98,
+    "sid": 54,
+    "location": 2,
+    "content": "更容易堆积",
+    "music": 0.0
+  },
+  {
+    "from": 104.98,
+    "to": 106.66,
+    "sid": 55,
+    "location": 2,
+    "content": "因此ea提供持久力",
+    "music": 0.0
+  },
+  {
+    "from": 106.66,
+    "to": 107.98,
+    "sid": 56,
+    "location": 2,
+    "content": "长时间少量的力",
+    "music": 0.0
+  },
+  {
+    "from": 107.98,
+    "to": 109.48,
+    "sid": 57,
+    "location": 2,
+    "content": "2X提供爆发力",
+    "music": 0.0
+  },
+  {
+    "from": 109.48,
+    "to": 110.68,
+    "sid": 58,
+    "location": 2,
+    "content": "短时间大量的力",
+    "music": 0.0
+  },
+  {
+    "from": 110.68,
+    "to": 112.51,
+    "sid": 59,
+    "location": 2,
+    "content": "而RA则介于两者之间",
+    "music": 0.0
+  },
+  {
+    "from": 112.51,
+    "to": 113.35,
+    "sid": 60,
+    "location": 2,
+    "content": "除此之外",
+    "music": 0.0
+  },
+  {
+    "from": 113.35,
+    "to": 115.39,
+    "sid": 61,
+    "location": 2,
+    "content": "宏基体积小且不容易练大",
+    "music": 0.0
+  },
+  {
+    "from": 115.39,
+    "to": 117.509,
+    "sid": 62,
+    "location": 2,
+    "content": "白肌体积大且更容易练大",
+    "music": 0.0
+  },
+  {
+    "from": 117.509,
+    "to": 120.269,
+    "sid": 63,
+    "location": 2,
+    "content": "而且练白肌后肌将也会一起变大",
+    "music": 0.0
+  },
+  {
+    "from": 120.269,
+    "to": 124.02,
+    "sid": 64,
+    "location": 2,
+    "content": "而这些种类的肌肉调度则遵循亨尼曼尺寸原则",
+    "music": 0.0
+  },
+  {
+    "from": 124.02,
+    "to": 125.31,
+    "sid": 65,
+    "location": 2,
+    "content": "图中的坐标系",
+    "music": 0.0
+  },
+  {
+    "from": 125.31,
+    "to": 127.23,
+    "sid": 66,
+    "location": 2,
+    "content": "Y轴是肌肉提供的力",
+    "music": 0.0
+  },
+  {
+    "from": 127.23,
+    "to": 129.51,
+    "sid": 67,
+    "location": 2,
+    "content": "X轴是肌肉调度的百分比",
+    "music": 0.0
+  },
+  {
+    "from": 129.51,
+    "to": 130.74,
+    "sid": 68,
+    "location": 2,
+    "content": "有蓄力较少时",
+    "music": 0.0
+  },
+  {
+    "from": 130.74,
+    "to": 133.43,
+    "sid": 69,
+    "location": 2,
+    "content": "调度一类肌肉力继续提高后",
+    "music": 0.0
+  },
+  {
+    "from": 133.43,
+    "to": 135.9,
+    "sid": 70,
+    "location": 2,
+    "content": "开始调动2A最后则是2X",
+    "music": 0.0
+  },
+  {
+    "from": 135.9,
+    "to": 138.9,
+    "sid": 71,
+    "location": 2,
+    "content": "把这个坐标系因牛化后会更好理解",
+    "music": 0.0
+  },
+  {
+    "from": 138.9,
+    "to": 140.64,
+    "sid": 72,
+    "location": 2,
+    "content": "Y轴是谱面bpm",
+    "music": 0.0
+  },
+  {
+    "from": 140.64,
+    "to": 142.65,
+    "sid": 73,
+    "location": 2,
+    "content": "也就是一个比例的衡量标准",
+    "music": 0.0
+  },
+  {
+    "from": 142.65,
+    "to": 144.3,
+    "sid": 74,
+    "location": 2,
+    "content": "X轴是肌肉调度",
+    "music": 0.0
+  },
+  {
+    "from": 144.3,
+    "to": 146.16,
+    "sid": 75,
+    "location": 2,
+    "content": "我们把之前的肌肉调度顺序",
+    "music": 0.0
+  },
+  {
+    "from": 146.16,
+    "to": 148.02,
+    "sid": 76,
+    "location": 2,
+    "content": "对应到Y轴的bpm划分上",
+    "music": 0.0
+  },
+  {
+    "from": 148.02,
+    "to": 150.06,
+    "sid": 77,
+    "location": 2,
+    "content": "在一开始只调度一类G60",
+    "music": 0.0
+  },
+  {
+    "from": 150.06,
+    "to": 150.84,
+    "sid": 78,
+    "location": 2,
+    "content": "这个bpm",
+    "music": 0.0
+  },
+  {
+    "from": 150.84,
+    "to": 152.58,
+    "sid": 79,
+    "location": 2,
+    "content": "比方说0~180bpm",
+    "music": 0.0
+  },
+  {
+    "from": 152.58,
+    "to": 156.24,
+    "sid": 80,
+    "location": 2,
+    "content": "就是我们可以几乎无限大的bpm bpm继续提升",
+    "music": 0.0
+  },
+  {
+    "from": 156.24,
+    "to": 157.8,
+    "sid": 81,
+    "location": 2,
+    "content": "比如180到240",
+    "music": 0.0
+  },
+  {
+    "from": 157.8,
+    "to": 160.08,
+    "sid": 82,
+    "location": 2,
+    "content": "开始调动2A涉及无氧呼吸",
+    "music": 0.0
+  },
+  {
+    "from": 160.08,
+    "to": 161.76,
+    "sid": 83,
+    "location": 2,
+    "content": "这个bpm我们也能打",
+    "music": 0.0
+  },
+  {
+    "from": 161.76,
+    "to": 163.62,
+    "sid": 84,
+    "location": 2,
+    "content": "但是一段时间之后就会疲劳",
+    "music": 0.0
+  },
+  {
+    "from": 163.62,
+    "to": 165.12,
+    "sid": 85,
+    "location": 2,
+    "content": "如果bpm继续提高",
+    "music": 0.0
+  },
+  {
+    "from": 165.12,
+    "to": 167.55,
+    "sid": 86,
+    "location": 2,
+    "content": "就会调动2X进行无氧呼吸",
+    "music": 0.0
+  },
+  {
+    "from": 167.55,
+    "to": 171.91,
+    "sid": 87,
+    "location": 2,
+    "content": "产生大量乳酸堆积在肌肉表现迅速下降",
+    "music": 0.0
+  },
+  {
+    "from": 171.91,
+    "to": 173.71,
+    "sid": 88,
+    "location": 2,
+    "content": "这个bpm也就是我们的爆发",
+    "music": 0.0
+  },
+  {
+    "from": 173.71,
+    "to": 174.43,
+    "sid": 89,
+    "location": 2,
+    "content": "Bpm",
+    "music": 0.0
+  },
+  {
+    "from": 174.43,
+    "to": 175.99,
+    "sid": 90,
+    "location": 2,
+    "content": "这个图像也可以解释",
+    "music": 0.0
+  },
+  {
+    "from": 175.99,
+    "to": 178.24,
+    "sid": 91,
+    "location": 2,
+    "content": "肌肉强度提升对音游的影响",
+    "music": 0.0
+  },
+  {
+    "from": 178.24,
+    "to": 180.64,
+    "sid": 92,
+    "location": 2,
+    "content": "图中的曲线在肌肉强度提升后",
+    "music": 0.0
+  },
+  {
+    "from": 180.64,
+    "to": 182.77,
+    "sid": 93,
+    "location": 2,
+    "content": "同等肌肉调度会提供更强的力",
+    "music": 0.0
+  },
+  {
+    "from": 182.77,
+    "to": 183.95,
+    "sid": 94,
+    "location": 2,
+    "content": "曲线会上移",
+    "music": 0.0
+  },
+  {
+    "from": 183.95,
+    "to": 185.93,
+    "sid": 95,
+    "location": 2,
+    "content": "原来调动一类只能打180",
+    "music": 0.0
+  },
+  {
+    "from": 185.93,
+    "to": 187.49,
+    "sid": 96,
+    "location": 2,
+    "content": "但是在肌肉强度提升后",
+    "music": 0.0
+  },
+  {
+    "from": 187.49,
+    "to": 189.87,
+    "sid": 97,
+    "location": 2,
+    "content": "一类提供的力足以打更高的bpm",
+    "music": 0.0
+  },
+  {
+    "from": 189.87,
+    "to": 192.81,
+    "sid": 98,
+    "location": 2,
+    "content": "而原来需要2X才能达到250bpm",
+    "music": 0.0
+  },
+  {
+    "from": 192.81,
+    "to": 194.38,
+    "sid": 99,
+    "location": 2,
+    "content": "现在用2A就可以打",
+    "music": 0.0
+  },
+  {
+    "from": 194.38,
+    "to": 197.44,
+    "sid": 100,
+    "location": 2,
+    "content": "而2A的抗疲劳能力远强于2X",
+    "music": 0.0
+  },
+  {
+    "from": 197.44,
+    "to": 199.33,
+    "sid": 101,
+    "location": 2,
+    "content": "我们能打的时间也就更长",
+    "music": 0.0
+  },
+  {
+    "from": 199.33,
+    "to": 201.01,
+    "sid": 102,
+    "location": 2,
+    "content": "也就是耐力得到了提升",
+    "music": 0.0
+  },
+  {
+    "from": 201.01,
+    "to": 201.88,
+    "sid": 103,
+    "location": 2,
+    "content": "以此类推",
+    "music": 0.0
+  },
+  {
+    "from": 201.88,
+    "to": 205.86,
+    "sid": 104,
+    "location": 2,
+    "content": "实际上大部分人的小臂2X肌肉占比很低",
+    "music": 0.0
+  },
+  {
+    "from": 205.86,
+    "to": 208.08,
+    "sid": 105,
+    "location": 2,
+    "content": "所以我们结合实例着重分析",
+    "music": 0.0
+  },
+  {
+    "from": 208.08,
+    "to": 210.86,
+    "sid": 106,
+    "location": 2,
+    "content": "2A负责bpm内提升的过程",
+    "music": 0.0
+  },
+  {
+    "from": 210.86,
+    "to": 212.6,
+    "sid": 107,
+    "location": 2,
+    "content": "假设我们有100单位",
+    "music": 0.0
+  },
+  {
+    "from": 212.6,
+    "to": 214.04,
+    "sid": 108,
+    "location": 2,
+    "content": "期限为30单位",
+    "music": 0.0
+  },
+  {
+    "from": 214.04,
+    "to": 214.94,
+    "sid": 109,
+    "location": 2,
+    "content": "一类60单位",
+    "music": 0.0
+  },
+  {
+    "from": 214.94,
+    "to": 217.24,
+    "sid": 110,
+    "location": 2,
+    "content": "二类和十单位的2X之前",
+    "music": 0.0
+  },
+  {
+    "from": 217.24,
+    "to": 219.46,
+    "sid": 111,
+    "location": 2,
+    "content": "在打210bpm跑道图时",
+    "music": 0.0
+  },
+  {
+    "from": 219.46,
+    "to": 220.53,
+    "sid": 112,
+    "location": 2,
+    "content": "打了一分钟后",
+    "music": 0.0
+  },
+  {
+    "from": 220.53,
+    "to": 221.85,
+    "sid": 113,
+    "location": 2,
+    "content": "肌肉就会开始绷紧",
+    "music": 0.0
+  },
+  {
+    "from": 221.85,
+    "to": 222.72,
+    "sid": 114,
+    "location": 2,
+    "content": "影响发挥",
+    "music": 0.0
+  },
+  {
+    "from": 222.72,
+    "to": 224.73,
+    "sid": 115,
+    "location": 2,
+    "content": "假设这个时候210bpm",
+    "music": 0.0
+  },
+  {
+    "from": 224.73,
+    "to": 227.31,
+    "sid": 116,
+    "location": 2,
+    "content": "需要调动的肌肉为30单位的一和",
+    "music": 0.0
+  },
+  {
+    "from": 227.31,
+    "to": 228.48,
+    "sid": 117,
+    "location": 2,
+    "content": "30单位的2A",
+    "music": 0.0
+  },
+  {
+    "from": 228.48,
+    "to": 231.48,
+    "sid": 118,
+    "location": 2,
+    "content": "其中一类有氧呼吸不产生乳酸",
+    "music": 0.0
+  },
+  {
+    "from": 231.48,
+    "to": 233.82,
+    "sid": 119,
+    "location": 2,
+    "content": "假如2A有氧和无氧混合",
+    "music": 0.0
+  },
+  {
+    "from": 233.82,
+    "to": 237.42,
+    "sid": 120,
+    "location": 2,
+    "content": "假设每分钟每单位2A产生一单位的乳酸",
+    "music": 0.0
+  },
+  {
+    "from": 237.42,
+    "to": 241.21,
+    "sid": 121,
+    "location": 2,
+    "content": "一分钟30单位2A产生30单位的乳酸",
+    "music": 0.0
+  },
+  {
+    "from": 241.21,
+    "to": 243.8,
+    "sid": 122,
+    "location": 2,
+    "content": "这就是我小B开始绷紧的阈值",
+    "music": 0.0
+  },
+  {
+    "from": 243.8,
+    "to": 246.44,
+    "sid": 123,
+    "location": 2,
+    "content": "而在通过肌肉锻炼和技巧提升",
+    "music": 0.0
+  },
+  {
+    "from": 246.44,
+    "to": 248.6,
+    "sid": 124,
+    "location": 2,
+    "content": "使底力曲线向上平移之后",
+    "music": 0.0
+  },
+  {
+    "from": 248.6,
+    "to": 250.53,
+    "sid": 125,
+    "location": 2,
+    "content": "同样是210bpm",
+    "music": 0.0
+  },
+  {
+    "from": 250.53,
+    "to": 252.45,
+    "sid": 126,
+    "location": 2,
+    "content": "现在可能只需要30单位",
+    "music": 0.0
+  },
+  {
+    "from": 252.45,
+    "to": 254.16,
+    "sid": 127,
+    "location": 2,
+    "content": "一和十单位的2A",
+    "music": 0.0
+  },
+  {
+    "from": 254.16,
+    "to": 256.65,
+    "sid": 128,
+    "location": 2,
+    "content": "而十单位的2A在运作3分钟后",
+    "music": 0.0
+  },
+  {
+    "from": 256.65,
+    "to": 258.419,
+    "sid": 129,
+    "location": 2,
+    "content": "才会产生30点乳酸",
+    "music": 0.0
+  },
+  {
+    "from": 258.419,
+    "to": 260.399,
+    "sid": 130,
+    "location": 2,
+    "content": "达到使肌肉绷紧的阈值",
+    "music": 0.0
+  },
+  {
+    "from": 260.399,
+    "to": 262.919,
+    "sid": 131,
+    "location": 2,
+    "content": "这就是我们210bpm耐力",
+    "music": 0.0
+  },
+  {
+    "from": 262.919,
+    "to": 264.719,
+    "sid": 132,
+    "location": 2,
+    "content": "从一分钟提到3分钟",
+    "music": 0.0
+  },
+  {
+    "from": 264.719,
+    "to": 266.01,
+    "sid": 133,
+    "location": 2,
+    "content": "这个过程的原理",
+    "music": 0.0
+  },
+  {
+    "from": 266.01,
+    "to": 269.85,
+    "sid": 134,
+    "location": 2,
+    "content": "当然实际上肌肉疲劳是一个复杂的生理现象",
+    "music": 0.0
+  },
+  {
+    "from": 269.85,
+    "to": 271.98,
+    "sid": 135,
+    "location": 2,
+    "content": "不仅仅是乳酸堆积这么简单",
+    "music": 0.0
+  },
+  {
+    "from": 271.98,
+    "to": 274.74,
+    "sid": 136,
+    "location": 2,
+    "content": "这里用乳酸作为疲劳程度的衡量",
+    "music": 0.0
+  },
+  {
+    "from": 274.74,
+    "to": 275.94,
+    "sid": 137,
+    "location": 2,
+    "content": "是为了说明问题",
+    "music": 0.0
+  },
+  {
+    "from": 275.94,
+    "to": 278.0,
+    "sid": 138,
+    "location": 2,
+    "content": "方便大家更好地理解这个过程",
+    "music": 0.0
+  },
+  {
+    "from": 278.0,
+    "to": 280.1,
+    "sid": 139,
+    "location": 2,
+    "content": "同时我对这个过程还有两种猜想",
+    "music": 0.0
+  },
+  {
+    "from": 280.1,
+    "to": 281.24,
+    "sid": 140,
+    "location": 2,
+    "content": "大伙可以暂停看一下",
+    "music": 0.0
+  },
+  {
+    "from": 281.24,
+    "to": 282.679,
+    "sid": 141,
+    "location": 2,
+    "content": "这里就不细讲了",
+    "music": 0.0
+  },
+  {
+    "from": 282.679,
+    "to": 283.699,
+    "sid": 142,
+    "location": 2,
+    "content": "除此之外",
+    "music": 0.0
+  },
+  {
+    "from": 283.699,
+    "to": 286.699,
+    "sid": 143,
+    "location": 2,
+    "content": "发力技巧能使我们更有效率的使用肌肉",
+    "music": 0.0
+  },
+  {
+    "from": 286.699,
+    "to": 287.599,
+    "sid": 144,
+    "location": 2,
+    "content": "体现到坐标系里",
+    "music": 0.0
+  },
+  {
+    "from": 287.599,
+    "to": 288.85,
+    "sid": 145,
+    "location": 2,
+    "content": "也是曲线的上移",
+    "music": 0.0
+  },
+  {
+    "from": 288.85,
+    "to": 292.51,
+    "sid": 146,
+    "location": 2,
+    "content": "而通过提升肌肉耐力和优化发力技巧",
+    "music": 0.0
+  },
+  {
+    "from": 292.51,
+    "to": 293.78,
+    "sid": 147,
+    "location": 2,
+    "content": "使曲线上移",
+    "music": 0.0
+  },
+  {
+    "from": 293.78,
+    "to": 296.45,
+    "sid": 148,
+    "location": 2,
+    "content": "我们的爆发和耐力都得到了提升",
+    "music": 0.0
+  },
+  {
+    "from": 296.45,
+    "to": 299.58,
+    "sid": 149,
+    "location": 2,
+    "content": "而这就是因有底力提升的基本原理",
+    "music": 0.0
+  },
+  {
+    "from": 299.58,
+    "to": 302.82,
+    "sid": 150,
+    "location": 2,
+    "content": "这足以证明肌肉强度对应有底力的重要性",
+    "music": 0.0
+  },
+  {
+    "from": 302.82,
+    "to": 305.58,
+    "sid": 151,
+    "location": 2,
+    "content": "而手速大神KHZ推荐的手部运动",
+    "music": 0.0
+  },
+  {
+    "from": 305.58,
+    "to": 308.57,
+    "sid": 152,
+    "location": 2,
+    "content": "本质上也是小臂肌肉的练习",
+    "music": 0.0
+  },
+  {
+    "from": 309.09,
+    "to": 309.83,
+    "sid": 153,
+    "location": 2,
+    "content": "看到这里",
+    "music": 0.0
+  },
+  {
+    "from": 309.83,
+    "to": 311.54,
+    "sid": 154,
+    "location": 2,
+    "content": "我们在思考一个问题",
+    "music": 0.0
+  },
+  {
+    "from": 311.54,
+    "to": 314.33,
+    "sid": 155,
+    "location": 2,
+    "content": "因有顶级手速玩家打图时",
+    "music": 0.0
+  },
+  {
+    "from": 314.33,
+    "to": 316.02,
+    "sid": 156,
+    "location": 2,
+    "content": "主要用的是哪种肌肉呢",
+    "music": 0.0
+  },
+  {
+    "from": 316.02,
+    "to": 318.36,
+    "sid": 157,
+    "location": 2,
+    "content": "比如说我们点开ZLIES的直播记录",
+    "music": 0.0
+  },
+  {
+    "from": 318.36,
+    "to": 322.52,
+    "sid": 158,
+    "location": 2,
+    "content": "可以看到他经常连续几个小时高强度打手速图",
+    "music": 0.0
+  },
+  {
+    "from": 322.52,
+    "to": 324.38,
+    "sid": 159,
+    "location": 2,
+    "content": "而其他许多top也是一样",
+    "music": 0.0
+  },
+  {
+    "from": 324.38,
+    "to": 326.48,
+    "sid": 160,
+    "location": 2,
+    "content": "可以高强度打好多小时",
+    "music": 0.0
+  },
+  {
+    "from": 326.48,
+    "to": 328.22,
+    "sid": 161,
+    "location": 2,
+    "content": "而2X虽然力大",
+    "music": 0.0
+  },
+  {
+    "from": 328.22,
+    "to": 332.12,
+    "sid": 162,
+    "location": 2,
+    "content": "但产生的大量乳酸堆积会迅速影响肌肉发挥",
+    "music": 0.0
+  },
+  {
+    "from": 332.12,
+    "to": 333.51,
+    "sid": 163,
+    "location": 2,
+    "content": "造成表现下降",
+    "music": 0.0
+  },
+  {
+    "from": 333.51,
+    "to": 338.03,
+    "sid": 164,
+    "location": 2,
+    "content": "这明显与top高强度大数小时这一事实冲突",
+    "music": 0.0
+  },
+  {
+    "from": 338.03,
+    "to": 338.69,
+    "sid": 165,
+    "location": 2,
+    "content": "除此之外",
+    "music": 0.0
+  },
+  {
+    "from": 338.69,
+    "to": 339.95,
+    "sid": 166,
+    "location": 2,
+    "content": "我们之前也提到",
+    "music": 0.0
+  },
+  {
+    "from": 339.95,
+    "to": 341.98,
+    "sid": 167,
+    "location": 2,
+    "content": "宏基体积小不容易练大",
+    "music": 0.0
+  },
+  {
+    "from": 341.98,
+    "to": 344.44,
+    "sid": 168,
+    "location": 2,
+    "content": "而白机和机枪则更容易练大",
+    "music": 0.0
+  },
+  {
+    "from": 344.44,
+    "to": 346.9,
+    "sid": 169,
+    "location": 2,
+    "content": "这一点也与上一期提到的大部分手速",
+    "music": 0.0
+  },
+  {
+    "from": 346.9,
+    "to": 349.99,
+    "sid": 170,
+    "location": 2,
+    "content": "top的小臂并不会比普通人粗很多",
+    "music": 0.0
+  },
+  {
+    "from": 349.99,
+    "to": 351.69,
+    "sid": 171,
+    "location": 2,
+    "content": "这一事实冲突",
+    "music": 0.0
+  },
+  {
+    "from": 351.72,
+    "to": 353.1,
+    "sid": 172,
+    "location": 2,
+    "content": "综上所述",
+    "music": 0.0
+  },
+  {
+    "from": 353.1,
+    "to": 355.86,
+    "sid": 173,
+    "location": 2,
+    "content": "top玩家打图时主要运用的是宏基",
+    "music": 0.0
+  },
+  {
+    "from": 355.86,
+    "to": 358.46,
+    "sid": 174,
+    "location": 2,
+    "content": "也就是一和2A",
+    "music": 0.0
+  },
+  {
+    "from": 360.58,
+    "to": 364.35,
+    "sid": 175,
+    "location": 2,
+    "content": "现在我们音游玩家要练习的肌肉也就很明显了",
+    "music": 0.0
+  },
+  {
+    "from": 364.35,
+    "to": 366.96,
+    "sid": 176,
+    "location": 2,
+    "content": "要专注于对红肌纤维的肌肉",
+    "music": 0.0
+  },
+  {
+    "from": 366.96,
+    "to": 368.95,
+    "sid": 177,
+    "location": 2,
+    "content": "强度与肌肉耐力的练习",
+    "music": 0.0
+  },
+  {
+    "from": 368.95,
+    "to": 371.23,
+    "sid": 178,
+    "location": 2,
+    "content": "而关于该如何练习宏基",
+    "music": 0.0
+  },
+  {
+    "from": 371.23,
+    "to": 372.94,
+    "sid": 179,
+    "location": 2,
+    "content": "我们也需要一些科学依据",
+    "music": 0.0
+  },
+  {
+    "from": 372.94,
+    "to": 374.29,
+    "sid": 180,
+    "location": 2,
+    "content": "但我们并不是科学频道",
+    "music": 0.0
+  },
+  {
+    "from": 374.29,
+    "to": 375.86,
+    "sid": 181,
+    "location": 2,
+    "content": "所以这里直接说结论",
+    "music": 0.0
+  },
+  {
+    "from": 375.86,
+    "to": 377.33,
+    "sid": 182,
+    "location": 2,
+    "content": "不管怎么练",
+    "music": 0.0
+  },
+  {
+    "from": 377.33,
+    "to": 379.93,
+    "sid": 183,
+    "location": 2,
+    "content": "多次低重量还是少次高重量",
+    "music": 0.0
+  },
+  {
+    "from": 379.93,
+    "to": 382.71,
+    "sid": 184,
+    "location": 2,
+    "content": "红白肌纤维都会一起增长",
+    "music": 0.0
+  },
+  {
+    "from": 382.71,
+    "to": 383.31,
+    "sid": 185,
+    "location": 2,
+    "content": "也就是说",
+    "music": 0.0
+  },
+  {
+    "from": 383.31,
+    "to": 385.89,
+    "sid": 186,
+    "location": 2,
+    "content": "不管是红肌为主还是白肌为主的运动",
+    "music": 0.0
+  },
+  {
+    "from": 385.89,
+    "to": 387.81,
+    "sid": 187,
+    "location": 2,
+    "content": "两种纤维都会一起生长",
+    "music": 0.0
+  },
+  {
+    "from": 387.81,
+    "to": 393.0,
+    "sid": 188,
+    "location": 2,
+    "content": "但是训练方式会决定对应肌肉的红白纤维比例",
+    "music": 0.0
+  },
+  {
+    "from": 393.0,
+    "to": 393.69,
+    "sid": 189,
+    "location": 2,
+    "content": "没错",
+    "music": 0.0
+  },
+  {
+    "from": 393.69,
+    "to": 395.58,
+    "sid": 190,
+    "location": 2,
+    "content": "肌肉里的红白纤维比例",
+    "music": 0.0
+  },
+  {
+    "from": 395.58,
+    "to": 398.76,
+    "sid": 191,
+    "location": 2,
+    "content": "是可以通过后天训练来改变的",
+    "music": 0.0
+  },
+  {
+    "from": 398.76,
+    "to": 403.789,
+    "sid": 192,
+    "location": 2,
+    "content": "具体来说是耐力训练能使2X和2A转换到一",
+    "music": 0.0
+  },
+  {
+    "from": 403.789,
+    "to": 407.479,
+    "sid": 193,
+    "location": 2,
+    "content": "实际上这与之前top小臂不粗理论是相符的",
+    "music": 0.0
+  },
+  {
+    "from": 407.479,
+    "to": 410.37,
+    "sid": 194,
+    "location": 2,
+    "content": "如果小臂肌肉红肌纤维占比高",
+    "music": 0.0
+  },
+  {
+    "from": 410.37,
+    "to": 412.11,
+    "sid": 195,
+    "location": 2,
+    "content": "即使红白一起增长",
+    "music": 0.0
+  },
+  {
+    "from": 412.11,
+    "to": 413.79,
+    "sid": 196,
+    "location": 2,
+    "content": "总体积也不会变得特别大",
+    "music": 0.0
+  },
+  {
+    "from": 413.79,
+    "to": 416.62,
+    "sid": 197,
+    "location": 2,
+    "content": "而2X和2A转换到一的这个过程",
+    "music": 0.0
+  },
+  {
+    "from": 416.62,
+    "to": 418.84,
+    "sid": 198,
+    "location": 2,
+    "content": "体现到之前的音游比例坐标系里",
+    "music": 0.0
+  },
+  {
+    "from": 418.84,
+    "to": 422.5,
+    "sid": 199,
+    "location": 2,
+    "content": "则是本来由二负责的区域变成了由一负责",
+    "music": 0.0
+  },
+  {
+    "from": 422.5,
+    "to": 425.52,
+    "sid": 200,
+    "location": 2,
+    "content": "而肌肉耐力也就这样得到了进一步的提升",
+    "music": 0.0
+  },
+  {
+    "from": 425.52,
+    "to": 426.36,
+    "sid": 201,
+    "location": 2,
+    "content": "知道这一点后",
+    "music": 0.0
+  },
+  {
+    "from": 426.36,
+    "to": 428.67,
+    "sid": 202,
+    "location": 2,
+    "content": "我们该如何进行针对性的训练呢",
+    "music": 0.0
+  },
+  {
+    "from": 428.67,
+    "to": 431.46,
+    "sid": 203,
+    "location": 2,
+    "content": "我们将其分为串内功夫和串外功夫",
+    "music": 0.0
+  },
+  {
+    "from": 431.46,
+    "to": 433.02,
+    "sid": 204,
+    "location": 2,
+    "content": "也就是游戏内和游戏外",
+    "music": 0.0
+  },
+  {
+    "from": 433.02,
+    "to": 434.46,
+    "sid": 205,
+    "location": 2,
+    "content": "接下来我们来探讨",
+    "music": 0.0
+  },
+  {
+    "from": 434.46,
+    "to": 437.19,
+    "sid": 206,
+    "location": 2,
+    "content": "这两种训练方法的优缺点与具体操作",
+    "music": 0.0
+  },
+  {
+    "from": 437.19,
+    "to": 438.86,
+    "sid": 207,
+    "location": 2,
+    "content": "首先是游戏内",
+    "music": 0.0
+  },
+  {
+    "from": 438.86,
+    "to": 440.0,
+    "sid": 208,
+    "location": 2,
+    "content": "游戏内训练",
+    "music": 0.0
+  },
+  {
+    "from": 440.0,
+    "to": 443.409,
+    "sid": 209,
+    "location": 2,
+    "content": "最重要的一点就是不要被bpm和星宿欺骗",
+    "music": 0.0
+  },
+  {
+    "from": 443.409,
+    "to": 445.149,
+    "sid": 210,
+    "location": 2,
+    "content": "虽然在上面的比例坐标系里面",
+    "music": 0.0
+  },
+  {
+    "from": 445.149,
+    "to": 447.219,
+    "sid": 211,
+    "location": 2,
+    "content": "我们假设谱面排列密度不变",
+    "music": 0.0
+  },
+  {
+    "from": 447.219,
+    "to": 449.949,
+    "sid": 212,
+    "location": 2,
+    "content": "但实际上一张谱面对耐力的要求",
+    "music": 0.0
+  },
+  {
+    "from": 449.949,
+    "to": 452.159,
+    "sid": 213,
+    "location": 2,
+    "content": "很大程度由排列密度决定",
+    "music": 0.0
+  },
+  {
+    "from": 452.159,
+    "to": 453.329,
+    "sid": 214,
+    "location": 2,
+    "content": "比如这张图",
+    "music": 0.0
+  },
+  {
+    "from": 453.329,
+    "to": 456.94,
+    "sid": 215,
+    "location": 2,
+    "content": "虽然dd后只有231bpm6.99星",
+    "music": 0.0
+  },
+  {
+    "from": 456.94,
+    "to": 458.5,
+    "sid": 216,
+    "location": 2,
+    "content": "但排列密度很高",
+    "music": 0.0
+  },
+  {
+    "from": 458.5,
+    "to": 460.42,
+    "sid": 217,
+    "location": 2,
+    "content": "而且在串里还夹着的贴纸",
+    "music": 0.0
+  },
+  {
+    "from": 460.42,
+    "to": 463.39,
+    "sid": 218,
+    "location": 2,
+    "content": "对贴纸和连打耐力都有很高的要求",
+    "music": 0.0
+  },
+  {
+    "from": 463.39,
+    "to": 464.23,
+    "sid": 219,
+    "location": 2,
+    "content": "仙术不高",
+    "music": 0.0
+  },
+  {
+    "from": 464.23,
+    "to": 466.18,
+    "sid": 220,
+    "location": 2,
+    "content": "也是因为这张图基本没有移动",
+    "music": 0.0
+  },
+  {
+    "from": 466.18,
+    "to": 468.22,
+    "sid": 221,
+    "location": 2,
+    "content": "这种图就很适合我们练耐力",
+    "music": 0.0
+  },
+  {
+    "from": 468.22,
+    "to": 469.36,
+    "sid": 222,
+    "location": 2,
+    "content": "而第二张图",
+    "music": 0.0
+  },
+  {
+    "from": 469.36,
+    "to": 472.85,
+    "sid": 223,
+    "location": 2,
+    "content": "虽然DT后是263DPM有8.26星",
+    "music": 0.0
+  },
+  {
+    "from": 472.85,
+    "to": 475.55,
+    "sid": 224,
+    "location": 2,
+    "content": "但这一整张图只有副歌部分是困难的",
+    "music": 0.0
+  },
+  {
+    "from": 475.55,
+    "to": 477.23,
+    "sid": 225,
+    "location": 2,
+    "content": "而且单点最多只有十个星",
+    "music": 0.0
+  },
+  {
+    "from": 477.23,
+    "to": 477.59,
+    "sid": 226,
+    "location": 2,
+    "content": "数高",
+    "music": 0.0
+  },
+  {
+    "from": 477.59,
+    "to": 479.87,
+    "sid": 227,
+    "location": 2,
+    "content": "也是因为移动和耐力完全无关",
+    "music": 0.0
+  },
+  {
+    "from": 479.87,
+    "to": 481.76,
+    "sid": 228,
+    "location": 2,
+    "content": "因此根本没有办法练耐力",
+    "music": 0.0
+  },
+  {
+    "from": 481.76,
+    "to": 484.4,
+    "sid": 229,
+    "location": 2,
+    "content": "而这张homo sun215bpm",
+    "music": 0.0
+  },
+  {
+    "from": 484.4,
+    "to": 485.52,
+    "sid": 230,
+    "location": 2,
+    "content": "7.87星",
+    "music": 0.0
+  },
+  {
+    "from": 485.52,
+    "to": 488.87,
+    "sid": 231,
+    "location": 2,
+    "content": "虽然对切纸耐力和长沙耐力要求很高",
+    "music": 0.0
+  },
+  {
+    "from": 488.87,
+    "to": 490.91,
+    "sid": 232,
+    "location": 2,
+    "content": "但实际上它的很大一部分难度",
+    "music": 0.0
+  },
+  {
+    "from": 490.91,
+    "to": 492.32,
+    "sid": 233,
+    "location": 2,
+    "content": "也在flow和读图上",
+    "music": 0.0
+  },
+  {
+    "from": 492.32,
+    "to": 494.09,
+    "sid": 234,
+    "location": 2,
+    "content": "后面这个长串既有拆分",
+    "music": 0.0
+  },
+  {
+    "from": 494.09,
+    "to": 494.98,
+    "sid": 235,
+    "location": 2,
+    "content": "也有变句",
+    "music": 0.0
+  },
+  {
+    "from": 494.98,
+    "to": 497.68,
+    "sid": 236,
+    "location": 2,
+    "content": "设想你FC了215bpm的长传练习",
+    "music": 0.0
+  },
+  {
+    "from": 497.68,
+    "to": 499.54,
+    "sid": 237,
+    "location": 2,
+    "content": "兴冲冲的想拿homo sam试试刀",
+    "music": 0.0
+  },
+  {
+    "from": 499.54,
+    "to": 500.89,
+    "sid": 238,
+    "location": 2,
+    "content": "结果长传还是寄了",
+    "music": 0.0
+  },
+  {
+    "from": 500.89,
+    "to": 502.0,
+    "sid": 239,
+    "location": 2,
+    "content": "就会感觉受到打击",
+    "music": 0.0
+  },
+  {
+    "from": 502.0,
+    "to": 502.83,
+    "sid": 240,
+    "location": 2,
+    "content": "感觉白练了",
+    "music": 0.0
+  },
+  {
+    "from": 502.83,
+    "to": 504.63,
+    "sid": 241,
+    "location": 2,
+    "content": "这种难点不只是耐力",
+    "music": 0.0
+  },
+  {
+    "from": 504.63,
+    "to": 507.57,
+    "sid": 242,
+    "location": 2,
+    "content": "或者说是练到的能力不只是耐力的图",
+    "music": 0.0
+  },
+  {
+    "from": 507.57,
+    "to": 509.26,
+    "sid": 243,
+    "location": 2,
+    "content": "很难一口吃一个胖子",
+    "music": 0.0
+  },
+  {
+    "from": 509.26,
+    "to": 512.26,
+    "sid": 244,
+    "location": 2,
+    "content": "在其他能力足够前也不适合练习",
+    "music": 0.0
+  },
+  {
+    "from": 512.26,
+    "to": 514.3,
+    "sid": 245,
+    "location": 2,
+    "content": "实际上肌肉耐力足够后",
+    "music": 0.0
+  },
+  {
+    "from": 514.3,
+    "to": 516.789,
+    "sid": 246,
+    "location": 2,
+    "content": "打不了这张图的原因是读图与flow",
+    "music": 0.0
+  },
+  {
+    "from": 516.789,
+    "to": 520.749,
+    "sid": 247,
+    "location": 2,
+    "content": "那么游戏内最适合练习长串肌肉耐力的谱面",
+    "music": 0.0
+  },
+  {
+    "from": 520.749,
+    "to": 521.859,
+    "sid": 248,
+    "location": 2,
+    "content": "究竟是什么呢",
+    "music": 0.0
+  },
+  {
+    "from": 521.859,
+    "to": 525.489,
+    "sid": 249,
+    "location": 2,
+    "content": "我的推荐是结合下面这两条来进行混合练习",
+    "music": 0.0
+  },
+  {
+    "from": 525.489,
+    "to": 527.51,
+    "sid": 250,
+    "location": 2,
+    "content": "第一大道至简",
+    "music": 0.0
+  },
+  {
+    "from": 527.51,
+    "to": 530.33,
+    "sid": 251,
+    "location": 2,
+    "content": "最适合OSU长串耐力的练习",
+    "music": 0.0
+  },
+  {
+    "from": 530.33,
+    "to": 532.71,
+    "sid": 252,
+    "location": 2,
+    "content": "实际上就是长串练习图",
+    "music": 0.0
+  },
+  {
+    "from": 532.71,
+    "to": 536.819,
+    "sid": 253,
+    "location": 2,
+    "content": "就是这种几乎没有移动的原地按上千下的谱面",
+    "music": 0.0
+  },
+  {
+    "from": 536.819,
+    "to": 538.559,
+    "sid": 254,
+    "location": 2,
+    "content": "目前OSU圈的一些玩家",
+    "music": 0.0
+  },
+  {
+    "from": 538.559,
+    "to": 540.239,
+    "sid": 255,
+    "location": 2,
+    "content": "实际上对长传图有些歧视",
+    "music": 0.0
+  },
+  {
+    "from": 540.239,
+    "to": 542.45,
+    "sid": 256,
+    "location": 2,
+    "content": "认为实战中根本打不到这么长的串",
+    "music": 0.0
+  },
+  {
+    "from": 542.45,
+    "to": 544.91,
+    "sid": 257,
+    "location": 2,
+    "content": "但实际上有许多手速top玩家",
+    "music": 0.0
+  },
+  {
+    "from": 544.91,
+    "to": 546.65,
+    "sid": 258,
+    "location": 2,
+    "content": "比如说kh z zis wait",
+    "music": 0.0
+  },
+  {
+    "from": 546.65,
+    "to": 547.07,
+    "sid": 259,
+    "location": 2,
+    "content": "Wwf",
+    "music": 0.0
+  },
+  {
+    "from": 547.07,
+    "to": 549.0,
+    "sid": 260,
+    "location": 2,
+    "content": "没拉米都是要打长传图的",
+    "music": 0.0
+  },
+  {
+    "from": 549.0,
+    "to": 552.6,
+    "sid": 261,
+    "location": 2,
+    "content": "而澳大利亚天赋地用两年900多个小时",
+    "music": 0.0
+  },
+  {
+    "from": 552.6,
+    "to": 553.14,
+    "sid": 262,
+    "location": 2,
+    "content": "游玩时间",
+    "music": 0.0
+  },
+  {
+    "from": 553.14,
+    "to": 555.06,
+    "sid": 263,
+    "location": 2,
+    "content": "达到全球top50的cs2",
+    "music": 0.0
+  },
+  {
+    "from": 555.06,
+    "to": 556.5,
+    "sid": 264,
+    "location": 2,
+    "content": "要练长传图的",
+    "music": 0.0
+  },
+  {
+    "from": 556.5,
+    "to": 557.82,
+    "sid": 265,
+    "location": 2,
+    "content": "在他的游玩历史上",
+    "music": 0.0
+  },
+  {
+    "from": 557.82,
+    "to": 560.67,
+    "sid": 266,
+    "location": 2,
+    "content": "可以看到很多跑道图都打了上百PC",
+    "music": 0.0
+  },
+  {
+    "from": 560.67,
+    "to": 564.52,
+    "sid": 267,
+    "location": 2,
+    "content": "这种图完美符合了我们对耐力练习的一切定义",
+    "music": 0.0
+  },
+  {
+    "from": 564.52,
+    "to": 566.02,
+    "sid": 268,
+    "location": 2,
+    "content": "也就是多次数",
+    "music": 0.0
+  },
+  {
+    "from": 566.02,
+    "to": 569.74,
+    "sid": 269,
+    "location": 2,
+    "content": "少重量推荐大家先找到自己能无限打的bpm",
+    "music": 0.0
+  },
+  {
+    "from": 569.74,
+    "to": 571.28,
+    "sid": 270,
+    "location": 2,
+    "content": "然后逐渐提升bpm",
+    "music": 0.0
+  },
+  {
+    "from": 571.28,
+    "to": 573.5,
+    "sid": 271,
+    "location": 2,
+    "content": "一开始长串图入门会比较难",
+    "music": 0.0
+  },
+  {
+    "from": 573.5,
+    "to": 575.15,
+    "sid": 272,
+    "location": 2,
+    "content": "d bpm也很难打好",
+    "music": 0.0
+  },
+  {
+    "from": 575.15,
+    "to": 576.32,
+    "sid": 273,
+    "location": 2,
+    "content": "但逐渐适应后",
+    "music": 0.0
+  },
+  {
+    "from": 576.32,
+    "to": 579.19,
+    "sid": 274,
+    "location": 2,
+    "content": "你会发现自己的手速有一个整体的提升",
+    "music": 0.0
+  },
+  {
+    "from": 579.19,
+    "to": 582.19,
+    "sid": 275,
+    "location": 2,
+    "content": "其实就是肌肉耐力提升了之前比例",
+    "music": 0.0
+  },
+  {
+    "from": 582.19,
+    "to": 584.31,
+    "sid": 276,
+    "location": 2,
+    "content": "坐标系里的曲线往上提了",
+    "music": 0.0
+  },
+  {
+    "from": 584.31,
+    "to": 585.15,
+    "sid": 277,
+    "location": 2,
+    "content": "除此之外",
+    "music": 0.0
+  },
+  {
+    "from": 585.15,
+    "to": 588.089,
+    "sid": 278,
+    "location": 2,
+    "content": "在练习跑道图的时候也要适当注意ACC",
+    "music": 0.0
+  },
+  {
+    "from": 588.089,
+    "to": 590.489,
+    "sid": 279,
+    "location": 2,
+    "content": "因为实战中的串是有间距的",
+    "music": 0.0
+  },
+  {
+    "from": 590.489,
+    "to": 591.809,
+    "sid": 280,
+    "location": 2,
+    "content": "而间距会缩小",
+    "music": 0.0
+  },
+  {
+    "from": 591.809,
+    "to": 593.599,
+    "sid": 281,
+    "location": 2,
+    "content": "打击的时机窗口",
+    "music": 0.0
+  },
+  {
+    "from": 593.599,
+    "to": 596.029,
+    "sid": 282,
+    "location": 2,
+    "content": "再考虑到跑道图的OD都不高",
+    "music": 0.0
+  },
+  {
+    "from": 596.029,
+    "to": 598.08,
+    "sid": 283,
+    "location": 2,
+    "content": "需要达到一个比较高的ACC",
+    "music": 0.0
+  },
+  {
+    "from": 598.08,
+    "to": 600.36,
+    "sid": 284,
+    "location": 2,
+    "content": "才有应用到间距串上的意义",
+    "music": 0.0
+  },
+  {
+    "from": 600.36,
+    "to": 603.42,
+    "sid": 285,
+    "location": 2,
+    "content": "而现在很多pp串图都是OD9.5以上",
+    "music": 0.0
+  },
+  {
+    "from": 603.42,
+    "to": 605.93,
+    "sid": 286,
+    "location": 2,
+    "content": "甚至OD10BT串甚至会更高",
+    "music": 0.0
+  },
+  {
+    "from": 605.93,
+    "to": 608.9,
+    "sid": 287,
+    "location": 2,
+    "content": "想要刷pp就更要打高跑道图的ACC",
+    "music": 0.0
+  },
+  {
+    "from": 608.9,
+    "to": 611.3,
+    "sid": 288,
+    "location": 2,
+    "content": "甚至要改高跑道图的OD去练",
+    "music": 0.0
+  },
+  {
+    "from": 611.3,
+    "to": 614.42,
+    "sid": 289,
+    "location": 2,
+    "content": "当然这是在有了足够耐力为基础后才能实现的",
+    "music": 0.0
+  },
+  {
+    "from": 614.42,
+    "to": 615.17,
+    "sid": 290,
+    "location": 2,
+    "content": "进阶点",
+    "music": 0.0
+  },
+  {
+    "from": 615.17,
+    "to": 618.42,
+    "sid": 291,
+    "location": 2,
+    "content": "但在练习时也要充分重视这个问题",
+    "music": 0.0
+  },
+  {
+    "from": 618.76,
+    "to": 623.06,
+    "sid": 292,
+    "location": 2,
+    "content": "第二点则是适应中高bpm打中短串图",
+    "music": 0.0
+  },
+  {
+    "from": 623.06,
+    "to": 626.99,
+    "sid": 293,
+    "location": 2,
+    "content": "这个bpm应该是接近2A和2X的临界点",
+    "music": 0.0
+  },
+  {
+    "from": 626.99,
+    "to": 629.21,
+    "sid": 294,
+    "location": 2,
+    "content": "因为能最大限度地调用2A",
+    "music": 0.0
+  },
+  {
+    "from": 629.21,
+    "to": 630.86,
+    "sid": 295,
+    "location": 2,
+    "content": "所以练习效率也会提升",
+    "music": 0.0
+  },
+  {
+    "from": 630.86,
+    "to": 634.46,
+    "sid": 296,
+    "location": 2,
+    "content": "但由于大量使用2A肌肉疲劳的速度也会变快",
+    "music": 0.0
+  },
+  {
+    "from": 634.46,
+    "to": 635.47,
+    "sid": 297,
+    "location": 2,
+    "content": "按不了太多下",
+    "music": 0.0
+  },
+  {
+    "from": 635.47,
+    "to": 637.12,
+    "sid": 298,
+    "location": 2,
+    "content": "推荐的谱面则是这种图",
+    "music": 0.0
+  },
+  {
+    "from": 637.12,
+    "to": 640.15,
+    "sid": 299,
+    "location": 2,
+    "content": "按32下就有一个同等长度时间的小休息",
+    "music": 0.0
+  },
+  {
+    "from": 640.15,
+    "to": 641.53,
+    "sid": 300,
+    "location": 2,
+    "content": "然后继续32下",
+    "music": 0.0
+  },
+  {
+    "from": 641.53,
+    "to": 643.22,
+    "sid": 301,
+    "location": 2,
+    "content": "完美符合我们的需求",
+    "music": 0.0
+  },
+  {
+    "from": 643.22,
+    "to": 646.91,
+    "sid": 302,
+    "location": 2,
+    "content": "这种方法也可以逐渐让我们适应高bpm发力",
+    "music": 0.0
+  },
+  {
+    "from": 646.91,
+    "to": 649.58,
+    "sid": 303,
+    "location": 2,
+    "content": "随着肌肉强度和技巧适用度的提升",
+    "music": 0.0
+  },
+  {
+    "from": 649.58,
+    "to": 652.67,
+    "sid": 304,
+    "location": 2,
+    "content": "慢慢的把32个串变成永动",
+    "music": 0.0
+  },
+  {
+    "from": 652.67,
+    "to": 655.22,
+    "sid": 305,
+    "location": 2,
+    "content": "当然这两种图只是一个例子",
+    "music": 0.0
+  },
+  {
+    "from": 655.22,
+    "to": 658.26,
+    "sid": 306,
+    "location": 2,
+    "content": "实际练习可以按照这个标准来找图练习",
+    "music": 0.0
+  },
+  {
+    "from": 658.26,
+    "to": 662.25,
+    "sid": 307,
+    "location": 2,
+    "content": "注重单个串的连续数量和谱面的整体密度",
+    "music": 0.0
+  },
+  {
+    "from": 662.25,
+    "to": 664.33,
+    "sid": 308,
+    "location": 2,
+    "content": "难点主要在耐力上的图",
+    "music": 0.0
+  },
+  {
+    "from": 664.33,
+    "to": 667.0,
+    "sid": 309,
+    "location": 2,
+    "content": "再结合渐进练习的原则即可",
+    "music": 0.0
+  },
+  {
+    "from": 667.0,
+    "to": 670.42,
+    "sid": 310,
+    "location": 2,
+    "content": "但实际上游戏内练习是有很多弊端的",
+    "music": 0.0
+  },
+  {
+    "from": 670.42,
+    "to": 671.88,
+    "sid": 311,
+    "location": 2,
+    "content": "第一就是心态",
+    "music": 0.0
+  },
+  {
+    "from": 671.88,
+    "to": 673.71,
+    "sid": 312,
+    "location": 2,
+    "content": "我们之前提到的三张图啊",
+    "music": 0.0
+  },
+  {
+    "from": 673.71,
+    "to": 675.06,
+    "sid": 313,
+    "location": 2,
+    "content": "第一张和第三张",
+    "music": 0.0
+  },
+  {
+    "from": 675.06,
+    "to": 677.09,
+    "sid": 314,
+    "location": 2,
+    "content": "这种容易因为耐力不够",
+    "music": 0.0
+  },
+  {
+    "from": 677.09,
+    "to": 679.31,
+    "sid": 315,
+    "location": 2,
+    "content": "或者其他能力不足而导致气馁",
+    "music": 0.0
+  },
+  {
+    "from": 679.31,
+    "to": 682.87,
+    "sid": 316,
+    "location": 2,
+    "content": "而第二张或者说是我们擅长的喜欢打的谱面",
+    "music": 0.0
+  },
+  {
+    "from": 682.87,
+    "to": 685.21,
+    "sid": 317,
+    "location": 2,
+    "content": "他可能根本就练不到肌肉耐力",
+    "music": 0.0
+  },
+  {
+    "from": 685.21,
+    "to": 686.65,
+    "sid": 318,
+    "location": 2,
+    "content": "但是因为自己擅长这方面",
+    "music": 0.0
+  },
+  {
+    "from": 686.65,
+    "to": 687.8,
+    "sid": 319,
+    "location": 2,
+    "content": "所以打起来就很爽",
+    "music": 0.0
+  },
+  {
+    "from": 687.8,
+    "to": 688.82,
+    "sid": 320,
+    "location": 2,
+    "content": "我自己就是这样",
+    "music": 0.0
+  },
+  {
+    "from": 688.82,
+    "to": 690.14,
+    "sid": 321,
+    "location": 2,
+    "content": "本来打算练肌肉耐力",
+    "music": 0.0
+  },
+  {
+    "from": 690.14,
+    "to": 691.4,
+    "sid": 322,
+    "location": 2,
+    "content": "结果练到一半感觉无聊",
+    "music": 0.0
+  },
+  {
+    "from": 691.4,
+    "to": 693.54,
+    "sid": 323,
+    "location": 2,
+    "content": "想着打PC切指爆发爽一爽",
+    "music": 0.0
+  },
+  {
+    "from": 693.54,
+    "to": 695.76,
+    "sid": 324,
+    "location": 2,
+    "content": "结果那一天之后基本就一直打这种图了",
+    "music": 0.0
+  },
+  {
+    "from": 695.76,
+    "to": 698.16,
+    "sid": 325,
+    "location": 2,
+    "content": "完全忘记了要练习肌肉耐力的这个目标",
+    "music": 0.0
+  },
+  {
+    "from": 698.16,
+    "to": 700.14,
+    "sid": 326,
+    "location": 2,
+    "content": "这也是为什么我的贴纸和aim",
+    "music": 0.0
+  },
+  {
+    "from": 700.14,
+    "to": 701.77,
+    "sid": 327,
+    "location": 2,
+    "content": "要比长传持续的强",
+    "music": 0.0
+  },
+  {
+    "from": 701.77,
+    "to": 704.29,
+    "sid": 328,
+    "location": 2,
+    "content": "就是长串基本不成长的那种强",
+    "music": 0.0
+  },
+  {
+    "from": 704.29,
+    "to": 707.9,
+    "sid": 329,
+    "location": 2,
+    "content": "第二则是打游戏练到的肌肉范围非常有限",
+    "music": 0.0
+  },
+  {
+    "from": 707.9,
+    "to": 711.39,
+    "sid": 330,
+    "location": 2,
+    "content": "我们打游戏时发力的只有一小部分小肌肉",
+    "music": 0.0
+  },
+  {
+    "from": 711.39,
+    "to": 714.21,
+    "sid": 331,
+    "location": 2,
+    "content": "比如说EXTENSORTORIUM和extenor car派",
+    "music": 0.0
+  },
+  {
+    "from": 714.21,
+    "to": 716.66,
+    "sid": 332,
+    "location": 2,
+    "content": "不就像CPU配显卡",
+    "music": 0.0
+  },
+  {
+    "from": 716.66,
+    "to": 719.84,
+    "sid": 333,
+    "location": 2,
+    "content": "一个烂CPU不能发挥顶级显卡的全部性能",
+    "music": 0.0
+  },
+  {
+    "from": 719.84,
+    "to": 721.13,
+    "sid": 334,
+    "location": 2,
+    "content": "肌肉之间也是一样",
+    "music": 0.0
+  },
+  {
+    "from": 721.13,
+    "to": 724.66,
+    "sid": 335,
+    "location": 2,
+    "content": "打游戏练到的肌肉会被没有练到的肌肉限制",
+    "music": 0.0
+  },
+  {
+    "from": 724.66,
+    "to": 727.25,
+    "sid": 336,
+    "location": 2,
+    "content": "导致提升速度变得很慢",
+    "music": 0.0
+  },
+  {
+    "from": 727.25,
+    "to": 728.78,
+    "sid": 337,
+    "location": 2,
+    "content": "第三点则是磨损",
+    "music": 0.0
+  },
+  {
+    "from": 728.78,
+    "to": 730.43,
+    "sid": 338,
+    "location": 2,
+    "content": "我们之前提到的练习",
+    "music": 0.0
+  },
+  {
+    "from": 730.43,
+    "to": 734.63,
+    "sid": 339,
+    "location": 2,
+    "content": "比正常打图的按键次数和按键频率要高很多",
+    "music": 0.0
+  },
+  {
+    "from": 734.63,
+    "to": 735.2,
+    "sid": 340,
+    "location": 2,
+    "content": "很多",
+    "music": 0.0
+  },
+  {
+    "from": 735.2,
+    "to": 737.63,
+    "sid": 341,
+    "location": 2,
+    "content": "对骨关节的伤害也会更加严重",
+    "music": 0.0
+  },
+  {
+    "from": 737.63,
+    "to": 739.13,
+    "sid": 342,
+    "location": 2,
+    "content": "而且不只是左手",
+    "music": 0.0
+  },
+  {
+    "from": 739.13,
+    "to": 740.42,
+    "sid": 343,
+    "location": 2,
+    "content": "右手长时间握笔",
+    "music": 0.0
+  },
+  {
+    "from": 740.42,
+    "to": 741.98,
+    "sid": 344,
+    "location": 2,
+    "content": "也会对关节造成压迫",
+    "music": 0.0
+  },
+  {
+    "from": 741.98,
+    "to": 743.839,
+    "sid": 345,
+    "location": 2,
+    "content": "时间长了也会造成伤害",
+    "music": 0.0
+  },
+  {
+    "from": 743.839,
+    "to": 744.979,
+    "sid": 346,
+    "location": 2,
+    "content": "除了这三点",
+    "music": 0.0
+  },
+  {
+    "from": 744.979,
+    "to": 747.559,
+    "sid": 347,
+    "location": 2,
+    "content": "游戏内练肌肉耐力还有效率低下",
+    "music": 0.0
+  },
+  {
+    "from": 747.559,
+    "to": 749.059,
+    "sid": 348,
+    "location": 2,
+    "content": "需要长时间热手",
+    "music": 0.0
+  },
+  {
+    "from": 749.059,
+    "to": 751.22,
+    "sid": 349,
+    "location": 2,
+    "content": "精神与肉体状态不稳定",
+    "music": 0.0
+  },
+  {
+    "from": 751.22,
+    "to": 754.43,
+    "sid": 350,
+    "location": 2,
+    "content": "设备与环境限制等各种因素",
+    "music": 0.0
+  },
+  {
+    "from": 754.43,
+    "to": 756.66,
+    "sid": 351,
+    "location": 2,
+    "content": "因此两耳不闻窗外事",
+    "music": 0.0
+  },
+  {
+    "from": 756.66,
+    "to": 759.21,
+    "sid": 352,
+    "location": 2,
+    "content": "一心只打圣贤串是不可取的",
+    "music": 0.0
+  },
+  {
+    "from": 759.21,
+    "to": 761.88,
+    "sid": 353,
+    "location": 2,
+    "content": "我们真正需要的是在窗外下功夫",
+    "music": 0.0
+  },
+  {
+    "from": 761.88,
+    "to": 763.91,
+    "sid": 354,
+    "location": 2,
+    "content": "进行额外的肌肉练习",
+    "music": 0.0
+  },
+  {
+    "from": 763.91,
+    "to": 766.07,
+    "sid": 355,
+    "location": 2,
+    "content": "如果欲学串功夫",
+    "music": 0.0
+  },
+  {
+    "from": 766.07,
+    "to": 767.03,
+    "sid": 356,
+    "location": 2,
+    "content": "在串外",
+    "music": 0.0
+  },
+  {
+    "from": 767.03,
+    "to": 768.56,
+    "sid": 357,
+    "location": 2,
+    "content": "就像之前所说的",
+    "music": 0.0
+  },
+  {
+    "from": 768.56,
+    "to": 770.75,
+    "sid": 358,
+    "location": 2,
+    "content": "针对阴影的肌肉练习要注重升级",
+    "music": 0.0
+  },
+  {
+    "from": 770.75,
+    "to": 772.61,
+    "sid": 359,
+    "location": 2,
+    "content": "也就是手背侧的小臂肌肉",
+    "music": 0.0
+  },
+  {
+    "from": 772.61,
+    "to": 775.13,
+    "sid": 360,
+    "location": 2,
+    "content": "但也不能忽视屈肌的练习",
+    "music": 0.0
+  },
+  {
+    "from": 775.13,
+    "to": 777.31,
+    "sid": 361,
+    "location": 2,
+    "content": "也就是掌心侧的小臂肌肉",
+    "music": 0.0
+  },
+  {
+    "from": 777.31,
+    "to": 780.49,
+    "sid": 362,
+    "location": 2,
+    "content": "借助健身房器材进行小臂各个部分的训练",
+    "music": 0.0
+  },
+  {
+    "from": 780.49,
+    "to": 781.68,
+    "sid": 363,
+    "location": 2,
+    "content": "网上的视频有很多",
+    "music": 0.0
+  },
+  {
+    "from": 781.68,
+    "to": 783.3,
+    "sid": 364,
+    "location": 2,
+    "content": "我也搜集了一些比较优质的",
+    "music": 0.0
+  },
+  {
+    "from": 783.3,
+    "to": 784.08,
+    "sid": 365,
+    "location": 2,
+    "content": "放到简介里",
+    "music": 0.0
+  },
+  {
+    "from": 784.08,
+    "to": 785.19,
+    "sid": 366,
+    "location": 2,
+    "content": "有需要可以自取",
+    "music": 0.0
+  },
+  {
+    "from": 785.19,
+    "to": 788.49,
+    "sid": 367,
+    "location": 2,
+    "content": "但考虑到不是每个人都愿意经常去健身房",
+    "music": 0.0
+  },
+  {
+    "from": 788.49,
+    "to": 791.55,
+    "sid": 368,
+    "location": 2,
+    "content": "因此我在这里为大家推荐一个超低成本",
+    "music": 0.0
+  },
+  {
+    "from": 791.55,
+    "to": 794.46,
+    "sid": 369,
+    "location": 2,
+    "content": "在家就能做的音游底力训练神器",
+    "music": 0.0
+  },
+  {
+    "from": 794.46,
+    "to": 795.63,
+    "sid": 370,
+    "location": 2,
+    "content": "千金卷",
+    "music": 0.0
+  },
+  {
+    "from": 795.63,
+    "to": 796.83,
+    "sid": 371,
+    "location": 2,
+    "content": "只需一根棍儿",
+    "music": 0.0
+  },
+  {
+    "from": 796.83,
+    "to": 797.55,
+    "sid": 372,
+    "location": 2,
+    "content": "比如擀面杖",
+    "music": 0.0
+  },
+  {
+    "from": 797.55,
+    "to": 799.89,
+    "sid": 373,
+    "location": 2,
+    "content": "一根长度和强度足够的绳子",
+    "music": 0.0
+  },
+  {
+    "from": 799.89,
+    "to": 801.579,
+    "sid": 374,
+    "location": 2,
+    "content": "比如麻绳以及重物",
+    "music": 0.0
+  },
+  {
+    "from": 801.579,
+    "to": 804.87,
+    "sid": 375,
+    "location": 2,
+    "content": "推荐4L装的饮用水即可轻松制作",
+    "music": 0.0
+  },
+  {
+    "from": 804.87,
+    "to": 806.58,
+    "sid": 376,
+    "location": 2,
+    "content": "首先把绳子的一端",
+    "music": 0.0
+  },
+  {
+    "from": 806.58,
+    "to": 810.81,
+    "sid": 377,
+    "location": 2,
+    "content": "一圈一圈的从中间缠绕到棍子上",
+    "music": 0.0
+  },
+  {
+    "from": 817.3,
+    "to": 819.39,
+    "sid": 378,
+    "location": 2,
+    "content": "直到可以支撑一定的重量",
+    "music": 0.0
+  },
+  {
+    "from": 819.39,
+    "to": 821.64,
+    "sid": 379,
+    "location": 2,
+    "content": "如果绳子和棍子都很光滑",
+    "music": 0.0
+  },
+  {
+    "from": 821.64,
+    "to": 823.52,
+    "sid": 380,
+    "location": 2,
+    "content": "可以在棍子上打一个钉子",
+    "music": 0.0
+  },
+  {
+    "from": 823.52,
+    "to": 825.5,
+    "sid": 381,
+    "location": 2,
+    "content": "把绳子在钉子上打结后",
+    "music": 0.0
+  },
+  {
+    "from": 825.5,
+    "to": 826.91,
+    "sid": 382,
+    "location": 2,
+    "content": "再缠绕在棍子上",
+    "music": 0.0
+  },
+  {
+    "from": 826.91,
+    "to": 831.02,
+    "sid": 383,
+    "location": 2,
+    "content": "这之后把绳子的另一端系到重物上",
+    "music": 0.0
+  },
+  {
+    "from": 831.74,
+    "to": 834.05,
+    "sid": 384,
+    "location": 2,
+    "content": "千斤卷就做好了",
+    "music": 0.0
+  },
+  {
+    "from": 834.33,
+    "to": 838.06,
+    "sid": 385,
+    "location": 2,
+    "content": "练习时双手握紧棍子两侧往上卷即可",
+    "music": 0.0
+  },
+  {
+    "from": 838.06,
+    "to": 839.14,
+    "sid": 386,
+    "location": 2,
+    "content": "掌心向下",
+    "music": 0.0
+  },
+  {
+    "from": 839.14,
+    "to": 841.42,
+    "sid": 387,
+    "location": 2,
+    "content": "手腕向上用力时用到的就是伸肌",
+    "music": 0.0
+  },
+  {
+    "from": 841.42,
+    "to": 844.27,
+    "sid": 388,
+    "location": 2,
+    "content": "也就是绳子在身外侧向上卷",
+    "music": 0.0
+  },
+  {
+    "from": 844.27,
+    "to": 846.55,
+    "sid": 389,
+    "location": 2,
+    "content": "手腕向下用力则会练到屈肌",
+    "music": 0.0
+  },
+  {
+    "from": 847.69,
+    "to": 850.18,
+    "sid": 390,
+    "location": 2,
+    "content": "也就是绳子在身内侧练习时",
+    "music": 0.0
+  },
+  {
+    "from": 850.18,
+    "to": 851.41,
+    "sid": 391,
+    "location": 2,
+    "content": "根据音游的需求",
+    "music": 0.0
+  },
+  {
+    "from": 851.41,
+    "to": 853.12,
+    "sid": 392,
+    "location": 2,
+    "content": "屈肌和伸肌的练习比例",
+    "music": 0.0
+  },
+  {
+    "from": 855.01,
+    "to": 857.849,
+    "sid": 393,
+    "location": 2,
+    "content": "练的时候也可以经常调整手腕的角度",
+    "music": 0.0
+  },
+  {
+    "from": 857.849,
+    "to": 860.91,
+    "sid": 394,
+    "location": 2,
+    "content": "从而练到更多部分的肌肉",
+    "music": 0.0
+  },
+  {
+    "from": 861.31,
+    "to": 862.17,
+    "sid": 395,
+    "location": 2,
+    "content": "除此之外",
+    "music": 0.0
+  },
+  {
+    "from": 862.17,
+    "to": 864.48,
+    "sid": 396,
+    "location": 2,
+    "content": "肱桡肌不能通过手腕屈伸练习",
+    "music": 0.0
+  },
+  {
+    "from": 864.48,
+    "to": 867.569,
+    "sid": 397,
+    "location": 2,
+    "content": "所以需要额外添加针对肱桡肌的力量练习",
+    "music": 0.0
+  },
+  {
+    "from": 867.569,
+    "to": 869.009,
+    "sid": 398,
+    "location": 2,
+    "content": "在做千斤卷的时候",
+    "music": 0.0
+  },
+  {
+    "from": 869.009,
+    "to": 870.449,
+    "sid": 399,
+    "location": 2,
+    "content": "也应该让小臂抬起",
+    "music": 0.0
+  },
+  {
+    "from": 870.449,
+    "to": 872.829,
+    "sid": 400,
+    "location": 2,
+    "content": "对肱桡肌持续的施加压力",
+    "music": 0.0
+  },
+  {
+    "from": 872.829,
+    "to": 875.529,
+    "sid": 401,
+    "location": 2,
+    "content": "做的时候注意不要让整个手腕都伸直",
+    "music": 0.0
+  },
+  {
+    "from": 875.529,
+    "to": 876.669,
+    "sid": 402,
+    "location": 2,
+    "content": "这样的话比起小臂",
+    "music": 0.0
+  },
+  {
+    "from": 876.669,
+    "to": 879.52,
+    "sid": 403,
+    "location": 2,
+    "content": "你的其他肌肉会受到更大的压力",
+    "music": 0.0
+  },
+  {
+    "from": 879.8,
+    "to": 881.38,
+    "sid": 404,
+    "location": 2,
+    "content": "重量和组数的选择",
+    "music": 0.0
+  },
+  {
+    "from": 881.38,
+    "to": 883.78,
+    "sid": 405,
+    "location": 2,
+    "content": "也要遵循耐力训练为主的原则",
+    "music": 0.0
+  },
+  {
+    "from": 883.78,
+    "to": 885.55,
+    "sid": 406,
+    "location": 2,
+    "content": "推荐大家可以边做边看番",
+    "music": 0.0
+  },
+  {
+    "from": 885.55,
+    "to": 886.3,
+    "sid": 407,
+    "location": 2,
+    "content": "看所有剧情",
+    "music": 0.0
+  },
+  {
+    "from": 886.3,
+    "to": 888.459,
+    "sid": 408,
+    "location": 2,
+    "content": "推高组间休息也不要太长",
+    "music": 0.0
+  },
+  {
+    "from": 888.459,
+    "to": 890.439,
+    "sid": 409,
+    "location": 2,
+    "content": "卷上去卷下来为一组休息",
+    "music": 0.0
+  },
+  {
+    "from": 890.439,
+    "to": 891.849,
+    "sid": 410,
+    "location": 2,
+    "content": "不要超过15秒",
+    "music": 0.0
+  },
+  {
+    "from": 891.849,
+    "to": 894.939,
+    "sid": 411,
+    "location": 2,
+    "content": "一次训练呢大概在20分钟到半个小时左右",
+    "music": 0.0
+  },
+  {
+    "from": 894.939,
+    "to": 898.1,
+    "sid": 412,
+    "location": 2,
+    "content": "这个时间段是基于音游游玩时长来决定的",
+    "music": 0.0
+  },
+  {
+    "from": 898.1,
+    "to": 899.78,
+    "sid": 413,
+    "location": 2,
+    "content": "一般玩音游热身完毕",
+    "music": 0.0
+  },
+  {
+    "from": 899.78,
+    "to": 902.0,
+    "sid": 414,
+    "location": 2,
+    "content": "肌肉和精神状态最好的一段时间",
+    "music": 0.0
+  },
+  {
+    "from": 902.0,
+    "to": 903.27,
+    "sid": 415,
+    "location": 2,
+    "content": "大概就是半个小时",
+    "music": 0.0
+  },
+  {
+    "from": 903.27,
+    "to": 905.52,
+    "sid": 416,
+    "location": 2,
+    "content": "我们基于这个时间选择重量",
+    "music": 0.0
+  },
+  {
+    "from": 905.52,
+    "to": 907.17,
+    "sid": 417,
+    "location": 2,
+    "content": "如果半个小时前就力竭了",
+    "music": 0.0
+  },
+  {
+    "from": 907.17,
+    "to": 909.0,
+    "sid": 418,
+    "location": 2,
+    "content": "证明需要适当的减少重量",
+    "music": 0.0
+  },
+  {
+    "from": 909.0,
+    "to": 909.99,
+    "sid": 419,
+    "location": 2,
+    "content": "感觉很轻松",
+    "music": 0.0
+  },
+  {
+    "from": 909.99,
+    "to": 911.5,
+    "sid": 420,
+    "location": 2,
+    "content": "就要适当的增加重量",
+    "music": 0.0
+  },
+  {
+    "from": 911.5,
+    "to": 912.76,
+    "sid": 421,
+    "location": 2,
+    "content": "是否训练到力竭",
+    "music": 0.0
+  },
+  {
+    "from": 912.76,
+    "to": 915.1,
+    "sid": 422,
+    "location": 2,
+    "content": "则需要根据自己的情况进行选择",
+    "music": 0.0
+  },
+  {
+    "from": 915.1,
+    "to": 917.43,
+    "sid": 423,
+    "location": 2,
+    "content": "倒立结可以增加精神耐力",
+    "music": 0.0
+  },
+  {
+    "from": 917.43,
+    "to": 918.6,
+    "sid": 424,
+    "location": 2,
+    "content": "突破肌肉瓶颈",
+    "music": 0.0
+  },
+  {
+    "from": 918.6,
+    "to": 920.61,
+    "sid": 425,
+    "location": 2,
+    "content": "但之后也需要更长的恢复时间",
+    "music": 0.0
+  },
+  {
+    "from": 920.61,
+    "to": 921.85,
+    "sid": 426,
+    "location": 2,
+    "content": "影响训练进程",
+    "music": 0.0
+  },
+  {
+    "from": 921.85,
+    "to": 923.17,
+    "sid": 427,
+    "location": 2,
+    "content": "游戏外的肌肉练习",
+    "music": 0.0
+  },
+  {
+    "from": 923.17,
+    "to": 925.6,
+    "sid": 428,
+    "location": 2,
+    "content": "就没有游戏内的那么多缺点和限制",
+    "music": 0.0
+  },
+  {
+    "from": 925.6,
+    "to": 927.68,
+    "sid": 429,
+    "location": 2,
+    "content": "必须注意合理安排训练日程",
+    "music": 0.0
+  },
+  {
+    "from": 927.68,
+    "to": 931.14,
+    "sid": 430,
+    "location": 2,
+    "content": "给肌肉充分的休息时间以及注重耐力练习即可",
+    "music": 0.0
+  },
+  {
+    "from": 931.14,
+    "to": 931.92,
+    "sid": 431,
+    "location": 2,
+    "content": "但实际上",
+    "music": 0.0
+  },
+  {
+    "from": 931.92,
+    "to": 934.83,
+    "sid": 432,
+    "location": 2,
+    "content": "游戏外的肌肉练习是练不到游戏发力技巧的",
+    "music": 0.0
+  },
+  {
+    "from": 934.83,
+    "to": 938.04,
+    "sid": 433,
+    "location": 2,
+    "content": "但上期视频我们也不断强调发力技巧的重要性",
+    "music": 0.0
+  },
+  {
+    "from": 938.04,
+    "to": 941.4,
+    "sid": 434,
+    "location": 2,
+    "content": "技巧可以让我们更有效率地使用利器体现到底",
+    "music": 0.0
+  },
+  {
+    "from": 941.4,
+    "to": 943.59,
+    "sid": 435,
+    "location": 2,
+    "content": "立坐标系里则是曲线的上移",
+    "music": 0.0
+  },
+  {
+    "from": 943.59,
+    "to": 947.07,
+    "sid": 436,
+    "location": 2,
+    "content": "实际打图需要考虑的读图单点和连打的切换",
+    "music": 0.0
+  },
+  {
+    "from": 947.07,
+    "to": 948.93,
+    "sid": 437,
+    "location": 2,
+    "content": "各种奇数连偶数联的切换",
+    "music": 0.0
+  },
+  {
+    "from": 948.93,
+    "to": 950.31,
+    "sid": 438,
+    "location": 2,
+    "content": "长城的发力技巧等",
+    "music": 0.0
+  },
+  {
+    "from": 950.31,
+    "to": 952.65,
+    "sid": 439,
+    "location": 2,
+    "content": "这些都是只能在游戏里练习的",
+    "music": 0.0
+  },
+  {
+    "from": 952.65,
+    "to": 954.21,
+    "sid": 440,
+    "location": 2,
+    "content": "就像是枪和弹药",
+    "music": 0.0
+  },
+  {
+    "from": 954.21,
+    "to": 957.63,
+    "sid": 441,
+    "location": 2,
+    "content": "弹药的质量和数量就是我们肌肉的强度和耐力",
+    "music": 0.0
+  },
+  {
+    "from": 957.63,
+    "to": 959.24,
+    "sid": 442,
+    "location": 2,
+    "content": "枪的状态则是技巧",
+    "music": 0.0
+  },
+  {
+    "from": 959.24,
+    "to": 961.34,
+    "sid": 443,
+    "location": 2,
+    "content": "就算是有再多优质的子弹",
+    "music": 0.0
+  },
+  {
+    "from": 961.34,
+    "to": 963.74,
+    "sid": 444,
+    "location": 2,
+    "content": "没有一把好枪也是射不出高伤害的",
+    "music": 0.0
+  },
+  {
+    "from": 963.74,
+    "to": 965.48,
+    "sid": 445,
+    "location": 2,
+    "content": "只有枪也磨练好了",
+    "music": 0.0
+  },
+  {
+    "from": 965.48,
+    "to": 968.55,
+    "sid": 446,
+    "location": 2,
+    "content": "才能把我们的耐力狠狠地注入到谱面里",
+    "music": 0.0
+  },
+  {
+    "from": 968.55,
+    "to": 972.93,
+    "sid": 447,
+    "location": 2,
+    "content": "因此最佳的音游练习方案就是在游戏里练技巧",
+    "music": 0.0
+  },
+  {
+    "from": 972.93,
+    "to": 974.579,
+    "sid": 448,
+    "location": 2,
+    "content": "在游戏外练肌肉",
+    "music": 0.0
+  },
+  {
+    "from": 974.579,
+    "to": 977.909,
+    "sid": 449,
+    "location": 2,
+    "content": "在游戏里当然还是要打长串图和32爆发的",
+    "music": 0.0
+  },
+  {
+    "from": 977.909,
+    "to": 982.019,
+    "sid": 450,
+    "location": 2,
+    "content": "但目的则主要是寻找和磨练发力技巧",
+    "music": 0.0
+  },
+  {
+    "from": 983.8,
+    "to": 988.14,
+    "sid": 451,
+    "location": 2,
+    "content": "本期视频将人体学知识和肌肉纤维类型领域",
+    "music": 0.0
+  },
+  {
+    "from": 988.14,
+    "to": 990.339,
+    "sid": 452,
+    "location": 2,
+    "content": "目前的研究应用到音游上",
+    "music": 0.0
+  },
+  {
+    "from": 990.339,
+    "to": 992.649,
+    "sid": 453,
+    "location": 2,
+    "content": "得出了音游底力底层原理图",
+    "music": 0.0
+  },
+  {
+    "from": 992.649,
+    "to": 994.96,
+    "sid": 454,
+    "location": 2,
+    "content": "同时以耐力训练为核心",
+    "music": 0.0
+  },
+  {
+    "from": 994.96,
+    "to": 997.87,
+    "sid": 455,
+    "location": 2,
+    "content": "设计了游戏内和游戏外的训练方针",
+    "music": 0.0
+  },
+  {
+    "from": 997.87,
+    "to": 1000.0,
+    "sid": 456,
+    "location": 2,
+    "content": "最后得出了游戏内练技巧",
+    "music": 0.0
+  },
+  {
+    "from": 1000.0,
+    "to": 1003.36,
+    "sid": 457,
+    "location": 2,
+    "content": "游戏外练肌肉这一音游最佳训练方案",
+    "music": 0.0
+  },
+  {
+    "from": 1003.36,
+    "to": 1005.4,
+    "sid": 458,
+    "location": 2,
+    "content": "之前提到的游戏内练习的缺点",
+    "music": 0.0
+  },
+  {
+    "from": 1005.4,
+    "to": 1007.38,
+    "sid": 459,
+    "location": 2,
+    "content": "也都是我亲身踩过的坑",
+    "music": 0.0
+  },
+  {
+    "from": 1007.38,
+    "to": 1009.66,
+    "sid": 460,
+    "location": 2,
+    "content": "之前在游戏里练肌肉耐力的时候",
+    "music": 0.0
+  },
+  {
+    "from": 1009.66,
+    "to": 1011.13,
+    "sid": 461,
+    "location": 2,
+    "content": "经常会坚持不下去",
+    "music": 0.0
+  },
+  {
+    "from": 1011.13,
+    "to": 1012.66,
+    "sid": 462,
+    "location": 2,
+    "content": "打到一半就会去打爽吐",
+    "music": 0.0
+  },
+  {
+    "from": 1012.66,
+    "to": 1013.68,
+    "sid": 463,
+    "location": 2,
+    "content": "而且收获也甚为",
+    "music": 0.0
+  },
+  {
+    "from": 1013.68,
+    "to": 1014.34,
+    "sid": 464,
+    "location": 2,
+    "content": "不仅如此",
+    "music": 0.0
+  },
+  {
+    "from": 1014.34,
+    "to": 1015.29,
+    "sid": 465,
+    "location": 2,
+    "content": "还受伤了",
+    "music": 0.0
+  },
+  {
+    "from": 1015.29,
+    "to": 1016.19,
+    "sid": 466,
+    "location": 2,
+    "content": "时至今日",
+    "music": 0.0
+  },
+  {
+    "from": 1016.19,
+    "to": 1017.57,
+    "sid": 467,
+    "location": 2,
+    "content": "我的右手依然带伤",
+    "music": 0.0
+  },
+  {
+    "from": 1017.57,
+    "to": 1019.25,
+    "sid": 468,
+    "location": 2,
+    "content": "甚至握笔写字都会疼",
+    "music": 0.0
+  },
+  {
+    "from": 1019.25,
+    "to": 1021.14,
+    "sid": 469,
+    "location": 2,
+    "content": "也曾经经历过绝望",
+    "music": 0.0
+  },
+  {
+    "from": 1021.14,
+    "to": 1025.29,
+    "sid": 470,
+    "location": 2,
+    "content": "觉得自己这辈子OSU水平是不是就到这了呢",
+    "music": 0.0
+  },
+  {
+    "from": 1025.29,
+    "to": 1030.159,
+    "sid": 471,
+    "location": 2,
+    "content": "但这两个月通过结合技巧改变和千斤卷的练习",
+    "music": 0.0
+  },
+  {
+    "from": 1030.159,
+    "to": 1033.599,
+    "sid": 472,
+    "location": 2,
+    "content": "我成功地达到了一个之前想都不敢想的高度",
+    "music": 0.0
+  },
+  {
+    "from": 1033.599,
+    "to": 1037.229,
+    "sid": 473,
+    "location": 2,
+    "content": "虽然和专攻手速的玩家差距还很大很大",
+    "music": 0.0
+  },
+  {
+    "from": 1037.229,
+    "to": 1038.699,
+    "sid": 474,
+    "location": 2,
+    "content": "但比起之前的自己",
+    "music": 0.0
+  },
+  {
+    "from": 1038.699,
+    "to": 1040.56,
+    "sid": 475,
+    "location": 2,
+    "content": "我已经进步了太多太多",
+    "music": 0.0
+  },
+  {
+    "from": 1040.56,
+    "to": 1043.26,
+    "sid": 476,
+    "location": 2,
+    "content": "本期视频的制作耗费了大量的精力",
+    "music": 0.0
+  },
+  {
+    "from": 1043.26,
+    "to": 1045.24,
+    "sid": 477,
+    "location": 2,
+    "content": "作为一个非医学专业的学生",
+    "music": 0.0
+  },
+  {
+    "from": 1045.24,
+    "to": 1047.15,
+    "sid": 478,
+    "location": 2,
+    "content": "从零开始学习这些知识",
+    "music": 0.0
+  },
+  {
+    "from": 1047.15,
+    "to": 1050.12,
+    "sid": 479,
+    "location": 2,
+    "content": "寻找并学习相关领域最新的研究",
+    "music": 0.0
+  },
+  {
+    "from": 1050.12,
+    "to": 1053.66,
+    "sid": 480,
+    "location": 2,
+    "content": "本期视频的文案也随着我理论学习的逐渐深入",
+    "music": 0.0
+  },
+  {
+    "from": 1053.66,
+    "to": 1054.59,
+    "sid": 481,
+    "location": 2,
+    "content": "一改再改",
+    "music": 0.0
+  },
+  {
+    "from": 1054.59,
+    "to": 1056.42,
+    "sid": 482,
+    "location": 2,
+    "content": "再到后期的素材收集",
+    "music": 0.0
+  },
+  {
+    "from": 1056.42,
+    "to": 1060.2,
+    "sid": 483,
+    "location": 2,
+    "content": "剪辑配音董浩时至少在40小时以上",
+    "music": 0.0
+  },
+  {
+    "from": 1060.2,
+    "to": 1061.22,
+    "sid": 484,
+    "location": 2,
+    "content": "实属不易",
+    "music": 0.0
+  },
+  {
+    "from": 1061.22,
+    "to": 1063.23,
+    "sid": 485,
+    "location": 2,
+    "content": "如果本期视频有帮助到你",
+    "music": 0.0
+  },
+  {
+    "from": 1063.23,
+    "to": 1065.09,
+    "sid": 486,
+    "location": 2,
+    "content": "希望可以点个三连支持一下",
+    "music": 0.0
+  },
+  {
+    "from": 1065.09,
+    "to": 1066.64,
+    "sid": 487,
+    "location": 2,
+    "content": "谢谢我是布鲁卡尼罗",
+    "music": 0.0
+  },
+  {
+    "from": 1066.64,
+    "to": 1067.3,
+    "sid": 488,
+    "location": 2,
+    "content": "也是一个OS",
+    "music": 0.0
+  },
+  {
+    "from": 1067.3,
+    "to": 1068.98,
+    "sid": 489,
+    "location": 2,
+    "content": "游玩时长1000小时以上",
+    "music": 0.0
+  },
+  {
+    "from": 1068.98,
+    "to": 1071.42,
+    "sid": 490,
+    "location": 2,
+    "content": "曾经达到过全球三位数的OS玩家",
+    "music": 0.0
+  },
+  {
+    "from": 1071.42,
+    "to": 1073.7,
+    "sid": 491,
+    "location": 2,
+    "content": "以后也会制作更多像本期一样",
+    "music": 0.0
+  },
+  {
+    "from": 1073.7,
+    "to": 1076.07,
+    "sid": 492,
+    "location": 2,
+    "content": "把科学理论结合音游经验",
+    "music": 0.0
+  },
+  {
+    "from": 1076.07,
+    "to": 1078.26,
+    "sid": 493,
+    "location": 2,
+    "content": "应用到音游领域上的视频",
+    "music": 0.0
+  },
+  {
+    "from": 1078.26,
+    "to": 1080.84,
+    "sid": 494,
+    "location": 2,
+    "content": "以及更加多元化的音游内容",
+    "music": 0.0
+  },
+  {
+    "from": 1080.84,
+    "to": 1082.46,
+    "sid": 495,
+    "location": 2,
+    "content": "如果大家感兴趣的话",
+    "music": 0.0
+  },
+  {
+    "from": 1082.46,
+    "to": 1084.08,
+    "sid": 496,
+    "location": 2,
+    "content": "请不要忘记订阅本频道",
+    "music": 0.0
+  },
+  {
+    "from": 1084.08,
+    "to": 1086.42,
+    "sid": 497,
+    "location": 2,
+    "content": "这样就不会错过任何精彩更新",
+    "music": 0.0
+  },
+  {
+    "from": 1086.42,
+    "to": 1090.429,
+    "sid": 498,
+    "location": 2,
+    "content": "您的支持是我们不断前进和创新的重要动力",
+    "music": 0.0
+  },
+  {
+    "from": 1090.429,
+    "to": 1092.169,
+    "sid": 499,
+    "location": 2,
+    "content": "特别鸣谢恋老师",
+    "music": 0.0
+  },
+  {
+    "from": 1092.169,
+    "to": 1096.09,
+    "sid": 500,
+    "location": 2,
+    "content": "本期视频也是在练老师的大力帮助下得以完成",
+    "music": 0.0
+  },
+  {
+    "from": 1096.09,
+    "to": 1098.73,
+    "sid": 501,
+    "location": 2,
+    "content": "练老师用自己深刻的游戏理解",
+    "music": 0.0
+  },
+  {
+    "from": 1098.73,
+    "to": 1102.26,
+    "sid": 502,
+    "location": 2,
+    "content": "以及对国内外顶尖赛事与玩家的分析经验",
+    "music": 0.0
+  },
+  {
+    "from": 1102.26,
+    "to": 1104.24,
+    "sid": 503,
+    "location": 2,
+    "content": "对视频文案进行了修正",
+    "music": 0.0
+  },
+  {
+    "from": 1104.24,
+    "to": 1106.01,
+    "sid": 504,
+    "location": 2,
+    "content": "也提供了许多论据",
+    "music": 0.0
+  },
+  {
+    "from": 1106.01,
+    "to": 1108.73,
+    "sid": 505,
+    "location": 2,
+    "content": "让视频变得更加充实与完善",
+    "music": 0.0
+  },
+  {
+    "from": 1108.73,
+    "to": 1110.35,
+    "sid": 506,
+    "location": 2,
+    "content": "这里是他的B站账号",
+    "music": 0.0
+  },
+  {
+    "from": 1110.35,
+    "to": 1112.09,
+    "sid": 507,
+    "location": 2,
+    "content": "希望大家多多关注",
+    "music": 0.0
+  },
+  {
+    "from": 1112.09,
+    "to": 1114.41,
+    "sid": 508,
+    "location": 2,
+    "content": "冰冻三尺非一日之寒",
+    "music": 0.0
+  },
+  {
+    "from": 1114.41,
+    "to": 1117.98,
+    "sid": 509,
+    "location": 2,
+    "content": "无论是精湛技艺的魔力还是肌肉力量的增强",
+    "music": 0.0
+  },
+  {
+    "from": 1117.98,
+    "to": 1119.72,
+    "sid": 510,
+    "location": 2,
+    "content": "都是一个漫长的过程",
+    "music": 0.0
+  },
+  {
+    "from": 1119.72,
+    "to": 1121.84,
+    "sid": 511,
+    "location": 2,
+    "content": "尤其是肌肉纤维的转变",
+    "music": 0.0
+  },
+  {
+    "from": 1121.84,
+    "to": 1124.39,
+    "sid": 512,
+    "location": 2,
+    "content": "其微妙变化更是难以察觉",
+    "music": 0.0
+  },
+  {
+    "from": 1124.39,
+    "to": 1127.87,
+    "sid": 513,
+    "location": 2,
+    "content": "本期视频旨在为大家提供一个明确的努力方向",
+    "music": 0.0
+  },
+  {
+    "from": 1127.87,
+    "to": 1130.78,
+    "sid": 514,
+    "location": 2,
+    "content": "认识到肌肉练习和技巧的重要性",
+    "music": 0.0
+  },
+  {
+    "from": 1130.78,
+    "to": 1132.76,
+    "sid": 515,
+    "location": 2,
+    "content": "找到提升手速的正确路径",
+    "music": 0.0
+  },
+  {
+    "from": 1132.76,
+    "to": 1134.47,
+    "sid": 516,
+    "location": 2,
+    "content": "让我们以此为契机",
+    "music": 0.0
+  },
+  {
+    "from": 1134.47,
+    "to": 1139.43,
+    "sid": 517,
+    "location": 2,
+    "content": "将每一次训练都视为向着手速巅峰迈进的一步",
+    "music": 0.0
+  },
+  {
+    "from": 1139.43,
+    "to": 1142.58,
+    "sid": 518,
+    "location": 2,
+    "content": "虽然这一步可能微小且不易察觉",
+    "music": 0.0
+  },
+  {
+    "from": 1142.58,
+    "to": 1145.25,
+    "sid": 519,
+    "location": 2,
+    "content": "但正是这些不断积累的",
+    "music": 0.0
+  },
+  {
+    "from": 1145.25,
+    "to": 1148.32,
+    "sid": 520,
+    "location": 2,
+    "content": "一步一步构建了通向巅峰的大道",
+    "music": 0.0
+  },
+  {
+    "from": 1148.32,
+    "to": 1150.93,
+    "sid": 521,
+    "location": 2,
+    "content": "最后感谢您的耐心与时间",
+    "music": 0.0
+  },
+  {
+    "from": 1150.93,
+    "to": 1154.11,
+    "sid": 522,
+    "location": 2,
+    "content": "愿每一位追求手速巅峰的玩家",
+    "music": 0.0
+  },
+  {
+    "from": 1154.11,
+    "to": 1156.08,
+    "sid": 523,
+    "location": 2,
+    "content": "都能实现自己的目标",
+    "music": 0.0
+  },
+  {
+    "from": 1156.08,
+    "to": 1159.57,
+    "sid": 524,
+    "location": 2,
+    "content": "在这条充满挑战与奖赏的手速之旅上",
+    "music": 0.0
+  },
+  {
+    "from": 1159.57,
+    "to": 1161.37,
+    "sid": 525,
+    "location": 2,
+    "content": "愿我们都能不断进步",
+    "music": 0.0
+  },
+  {
+    "from": 1161.37,
+    "to": 1167.22,
+    "sid": 526,
+    "location": 2,
+    "content": "超越自我",
+    "music": 0.6762589765884867
+  },
+  {
+    "from": 1167.44,
+    "to": 1168.32,
+    "sid": 527,
+    "location": 2,
+    "content": "卡拉",
+    "music": 0.9999998333333612
+  }
+]

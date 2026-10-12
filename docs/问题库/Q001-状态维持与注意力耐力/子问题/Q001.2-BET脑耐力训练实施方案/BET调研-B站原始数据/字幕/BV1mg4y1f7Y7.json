@@ -1,0 +1,4458 @@
+[
+  {
+    "from": 0.32,
+    "to": 0.8,
+    "sid": 1,
+    "location": 2,
+    "content": "大家好",
+    "music": 0.0
+  },
+  {
+    "from": 0.8,
+    "to": 2.15,
+    "sid": 2,
+    "location": 2,
+    "content": "我是仰望尾纪云",
+    "music": 0.0
+  },
+  {
+    "from": 2.15,
+    "to": 3.97,
+    "sid": 3,
+    "location": 2,
+    "content": "上次有同学评论说",
+    "music": 0.0
+  },
+  {
+    "from": 3.97,
+    "to": 6.46,
+    "sid": 4,
+    "location": 2,
+    "content": "力量训练增肌原理到处都有讲",
+    "music": 0.0
+  },
+  {
+    "from": 6.46,
+    "to": 8.95,
+    "sid": 5,
+    "location": 2,
+    "content": "但是有氧耐力训练的底层原理",
+    "music": 0.0
+  },
+  {
+    "from": 8.95,
+    "to": 10.39,
+    "sid": 6,
+    "location": 2,
+    "content": "好像很少有人讲到",
+    "music": 0.0
+  },
+  {
+    "from": 10.39,
+    "to": 11.62,
+    "sid": 7,
+    "location": 2,
+    "content": "希望我讲一下",
+    "music": 0.0
+  },
+  {
+    "from": 11.62,
+    "to": 14.38,
+    "sid": 8,
+    "location": 2,
+    "content": "那么今天呢我就跟大家讲一讲有氧能力",
+    "music": 0.0
+  },
+  {
+    "from": 14.38,
+    "to": 16.64,
+    "sid": 9,
+    "location": 2,
+    "content": "心肺功能提升的底层逻辑",
+    "music": 0.0
+  },
+  {
+    "from": 16.64,
+    "to": 18.08,
+    "sid": 10,
+    "location": 2,
+    "content": "当然今天也会讲讲",
+    "music": 0.0
+  },
+  {
+    "from": 18.08,
+    "to": 20.66,
+    "sid": 11,
+    "location": 2,
+    "content": "有氧训练到底应该怎么去科学训练",
+    "music": 0.0
+  },
+  {
+    "from": 20.66,
+    "to": 21.98,
+    "sid": 12,
+    "location": 2,
+    "content": "今天是超长篇",
+    "music": 0.0
+  },
+  {
+    "from": 21.98,
+    "to": 22.73,
+    "sid": 13,
+    "location": 2,
+    "content": "内容很足",
+    "music": 0.0
+  },
+  {
+    "from": 22.73,
+    "to": 23.75,
+    "sid": 14,
+    "location": 2,
+    "content": "当然也很干",
+    "music": 0.0
+  },
+  {
+    "from": 23.75,
+    "to": 27.2,
+    "sid": 15,
+    "location": 2,
+    "content": "不过呢会尽可能的把内容讲得通俗好懂",
+    "music": 0.0
+  },
+  {
+    "from": 27.2,
+    "to": 29.52,
+    "sid": 16,
+    "location": 2,
+    "content": "大家认真看一定会有很多收获",
+    "music": 0.0
+  },
+  {
+    "from": 29.64,
+    "to": 32.34,
+    "sid": 17,
+    "location": 2,
+    "content": "首先大家习惯上把有氧能力",
+    "music": 0.0
+  },
+  {
+    "from": 32.34,
+    "to": 34.62,
+    "sid": 18,
+    "location": 2,
+    "content": "心肺能力这两个概念等同起来",
+    "music": 0.0
+  },
+  {
+    "from": 34.62,
+    "to": 35.82,
+    "sid": 19,
+    "location": 2,
+    "content": "有氧就是心肺",
+    "music": 0.0
+  },
+  {
+    "from": 35.82,
+    "to": 36.87,
+    "sid": 20,
+    "location": 2,
+    "content": "心肺就是有氧",
+    "music": 0.0
+  },
+  {
+    "from": 36.87,
+    "to": 38.72,
+    "sid": 21,
+    "location": 2,
+    "content": "严格来说那是不对的",
+    "music": 0.0
+  },
+  {
+    "from": 38.72,
+    "to": 42.41,
+    "sid": 22,
+    "location": 2,
+    "content": "有氧能力跟心肺能力其实是一个包含的关系",
+    "music": 0.0
+  },
+  {
+    "from": 42.41,
+    "to": 44.66,
+    "sid": 23,
+    "location": 2,
+    "content": "有氧能力包含心肺功能",
+    "music": 0.0
+  },
+  {
+    "from": 44.66,
+    "to": 47.9,
+    "sid": 24,
+    "location": 2,
+    "content": "心肺功能是有氧能力的一个组成部分",
+    "music": 0.0
+  },
+  {
+    "from": 48.04,
+    "to": 50.59,
+    "sid": 25,
+    "location": 2,
+    "content": "比如我们就拿封面这个人来做比方",
+    "music": 0.0
+  },
+  {
+    "from": 50.59,
+    "to": 52.8,
+    "sid": 26,
+    "location": 2,
+    "content": "假如这个人是个马拉松运动员",
+    "music": 0.0
+  },
+  {
+    "from": 52.8,
+    "to": 55.2,
+    "sid": 27,
+    "location": 2,
+    "content": "跑马拉松当然是考验有氧耐力",
+    "music": 0.0
+  },
+  {
+    "from": 55.2,
+    "to": 58.08,
+    "sid": 28,
+    "location": 2,
+    "content": "那么它的耐力的好坏取决于什么呢",
+    "music": 0.0
+  },
+  {
+    "from": 58.08,
+    "to": 59.419,
+    "sid": 29,
+    "location": 2,
+    "content": "主要是两大因素",
+    "music": 0.0
+  },
+  {
+    "from": 59.58,
+    "to": 62.16,
+    "sid": 30,
+    "location": 2,
+    "content": "跑马拉松肯定要用腿来跑",
+    "music": 0.0
+  },
+  {
+    "from": 62.16,
+    "to": 62.76,
+    "sid": 31,
+    "location": 2,
+    "content": "腿",
+    "music": 0.0
+  },
+  {
+    "from": 62.76,
+    "to": 66.119,
+    "sid": 32,
+    "location": 2,
+    "content": "能跑步是因为腿部的肌肉可以持续的收缩",
+    "music": 0.0
+  },
+  {
+    "from": 66.28,
+    "to": 68.5,
+    "sid": 33,
+    "location": 2,
+    "content": "所以有氧耐力的第一个决定因素",
+    "music": 0.0
+  },
+  {
+    "from": 68.5,
+    "to": 69.88,
+    "sid": 34,
+    "location": 2,
+    "content": "就是肌肉的耐力",
+    "music": 0.0
+  },
+  {
+    "from": 69.88,
+    "to": 72.7,
+    "sid": 35,
+    "location": 2,
+    "content": "你要是肌肉收缩不了多长时间就疲劳了",
+    "music": 0.0
+  },
+  {
+    "from": 72.7,
+    "to": 74.119,
+    "sid": 36,
+    "location": 2,
+    "content": "那你耐力肯定不行",
+    "music": 0.0
+  },
+  {
+    "from": 74.26,
+    "to": 76.54,
+    "sid": 37,
+    "location": 2,
+    "content": "也就是说你心肺的功能再好",
+    "music": 0.0
+  },
+  {
+    "from": 76.54,
+    "to": 78.7,
+    "sid": 38,
+    "location": 2,
+    "content": "还是需要用肌肉去产生耐力",
+    "music": 0.0
+  },
+  {
+    "from": 78.7,
+    "to": 80.28,
+    "sid": 39,
+    "location": 2,
+    "content": "跟肌肉是分不开的",
+    "music": 0.0
+  },
+  {
+    "from": 80.52,
+    "to": 82.98,
+    "sid": 40,
+    "location": 2,
+    "content": "但是我们肌肉收缩是需要氧气的",
+    "music": 0.0
+  },
+  {
+    "from": 82.98,
+    "to": 84.0,
+    "sid": 41,
+    "location": 2,
+    "content": "有氧耐力吗",
+    "music": 0.0
+  },
+  {
+    "from": 84.0,
+    "to": 87.759,
+    "sid": 42,
+    "location": 2,
+    "content": "肌肉主要是通过氧气来代谢提供能量",
+    "music": 0.0
+  },
+  {
+    "from": 87.759,
+    "to": 89.859,
+    "sid": 43,
+    "location": 2,
+    "content": "那肌肉的氧气从哪来呢",
+    "music": 0.0
+  },
+  {
+    "from": 89.859,
+    "to": 92.229,
+    "sid": 44,
+    "location": 2,
+    "content": "就是靠血液把它输送过来",
+    "music": 0.0
+  },
+  {
+    "from": 92.229,
+    "to": 93.65,
+    "sid": 45,
+    "location": 2,
+    "content": "肺部气体交换",
+    "music": 0.0
+  },
+  {
+    "from": 93.65,
+    "to": 95.27,
+    "sid": 46,
+    "location": 2,
+    "content": "让血液富含氧气",
+    "music": 0.0
+  },
+  {
+    "from": 95.27,
+    "to": 98.21,
+    "sid": 47,
+    "location": 2,
+    "content": "心脏把富含氧气的血液输送给肌肉",
+    "music": 0.0
+  },
+  {
+    "from": 98.21,
+    "to": 99.71,
+    "sid": 48,
+    "location": 2,
+    "content": "这样肌肉就有了氧气",
+    "music": 0.0
+  },
+  {
+    "from": 99.71,
+    "to": 101.82,
+    "sid": 49,
+    "location": 2,
+    "content": "才能输出更多更好的耐力",
+    "music": 0.0
+  },
+  {
+    "from": 101.82,
+    "to": 105.759,
+    "sid": 50,
+    "location": 2,
+    "content": "这是有氧耐力的第二个决定因素就是心肺功能",
+    "music": 0.0
+  },
+  {
+    "from": 106.06,
+    "to": 108.04,
+    "sid": 51,
+    "location": 2,
+    "content": "有氧能力的肌肉因素",
+    "music": 0.0
+  },
+  {
+    "from": 108.04,
+    "to": 109.96,
+    "sid": 52,
+    "location": 2,
+    "content": "我们一般叫外周因素",
+    "music": 0.0
+  },
+  {
+    "from": 109.96,
+    "to": 112.4,
+    "sid": 53,
+    "location": 2,
+    "content": "肌肉在外面外周很好理解",
+    "music": 0.0
+  },
+  {
+    "from": 112.4,
+    "to": 114.38,
+    "sid": 54,
+    "location": 2,
+    "content": "而有氧耐力的心肺因素",
+    "music": 0.0
+  },
+  {
+    "from": 114.38,
+    "to": 116.12,
+    "sid": 55,
+    "location": 2,
+    "content": "我们一般叫中央因素",
+    "music": 0.0
+  },
+  {
+    "from": 116.12,
+    "to": 117.39,
+    "sid": 56,
+    "location": 2,
+    "content": "这也很好理解",
+    "music": 0.0
+  },
+  {
+    "from": 117.39,
+    "to": 120.9,
+    "sid": 57,
+    "location": 2,
+    "content": "所以我刚才说心肺功能是有氧能力的一部分",
+    "music": 0.0
+  },
+  {
+    "from": 120.9,
+    "to": 122.67,
+    "sid": 58,
+    "location": 2,
+    "content": "它不等同于有氧能力",
+    "music": 0.0
+  },
+  {
+    "from": 122.67,
+    "to": 124.76,
+    "sid": 59,
+    "location": 2,
+    "content": "我们来看耐力项目",
+    "music": 0.0
+  },
+  {
+    "from": 124.76,
+    "to": 125.9,
+    "sid": 60,
+    "location": 2,
+    "content": "运动员的运动表现",
+    "music": 0.0
+  },
+  {
+    "from": 125.9,
+    "to": 128.24,
+    "sid": 61,
+    "location": 2,
+    "content": "最终取决于其肌肉有氧氧化",
+    "music": 0.0
+  },
+  {
+    "from": 128.24,
+    "to": 130.779,
+    "sid": 62,
+    "location": 2,
+    "content": "糖原和脂肪产生ATP的最大速率",
+    "music": 0.0
+  },
+  {
+    "from": 130.779,
+    "to": 134.199,
+    "sid": 63,
+    "location": 2,
+    "content": "这个速率取决于将氧气输送到线粒体的速度",
+    "music": 0.0
+  },
+  {
+    "from": 134.199,
+    "to": 138.63,
+    "sid": 64,
+    "location": 2,
+    "content": "和线粒体酶推动这些反应通路通路的速率",
+    "music": 0.0
+  },
+  {
+    "from": 138.63,
+    "to": 142.22,
+    "sid": 65,
+    "location": 2,
+    "content": "养输出速率是运动员新输出量和分配制",
+    "music": 0.0
+  },
+  {
+    "from": 142.22,
+    "to": 143.72,
+    "sid": 66,
+    "location": 2,
+    "content": "肌肉血流量",
+    "music": 0.0
+  },
+  {
+    "from": 143.72,
+    "to": 145.25,
+    "sid": 67,
+    "location": 2,
+    "content": "也就是中央因素",
+    "music": 0.0
+  },
+  {
+    "from": 145.25,
+    "to": 147.56,
+    "sid": 68,
+    "location": 2,
+    "content": "就是我们的心肺功能的功能",
+    "music": 0.0
+  },
+  {
+    "from": 147.56,
+    "to": 150.17,
+    "sid": 69,
+    "location": 2,
+    "content": "反应和氧摄取利用率",
+    "music": 0.0
+  },
+  {
+    "from": 150.17,
+    "to": 153.26,
+    "sid": 70,
+    "location": 2,
+    "content": "是肌肉毛细血管化和线粒体酶",
+    "music": 0.0
+  },
+  {
+    "from": 153.26,
+    "to": 154.88,
+    "sid": 71,
+    "location": 2,
+    "content": "动力学的作用表现",
+    "music": 0.0
+  },
+  {
+    "from": 154.88,
+    "to": 157.48,
+    "sid": 72,
+    "location": 2,
+    "content": "这就是Y轴因素是肌肉的因素",
+    "music": 0.0
+  },
+  {
+    "from": 157.64,
+    "to": 159.23,
+    "sid": 73,
+    "location": 2,
+    "content": "好我们现在知道了",
+    "music": 0.0
+  },
+  {
+    "from": 159.23,
+    "to": 160.48,
+    "sid": 74,
+    "location": 2,
+    "content": "有氧能力",
+    "music": 0.0
+  },
+  {
+    "from": 161.88,
+    "to": 168.019,
+    "sid": 75,
+    "location": 2,
+    "content": "就是中央心肺因素和外周肌肉因素",
+    "music": 0.0
+  },
+  {
+    "from": 168.019,
+    "to": 170.04,
+    "sid": 76,
+    "location": 2,
+    "content": "两者来决定的",
+    "music": 0.0
+  },
+  {
+    "from": 170.16,
+    "to": 171.72,
+    "sid": 77,
+    "location": 2,
+    "content": "你要提高有氧能力",
+    "music": 0.0
+  },
+  {
+    "from": 171.72,
+    "to": 173.34,
+    "sid": 78,
+    "location": 2,
+    "content": "核心就是这两条路",
+    "music": 0.0
+  },
+  {
+    "from": 173.34,
+    "to": 176.17,
+    "sid": 79,
+    "location": 2,
+    "content": "去训练中央心肺和外出肌肉",
+    "music": 0.0
+  },
+  {
+    "from": 176.17,
+    "to": 177.31,
+    "sid": 80,
+    "location": 2,
+    "content": "训练中药心肺",
+    "music": 0.0
+  },
+  {
+    "from": 177.31,
+    "to": 180.65,
+    "sid": 81,
+    "location": 2,
+    "content": "说到底就让心肺给肌肉多提供氧气",
+    "music": 0.0
+  },
+  {
+    "from": 180.65,
+    "to": 181.25,
+    "sid": 82,
+    "location": 2,
+    "content": "训练",
+    "music": 0.0
+  },
+  {
+    "from": 181.25,
+    "to": 181.85,
+    "sid": 83,
+    "location": 2,
+    "content": "外出肌肉",
+    "music": 0.0
+  },
+  {
+    "from": 181.85,
+    "to": 185.27,
+    "sid": 84,
+    "location": 2,
+    "content": "说到底就让肌肉能更多地利用心肺",
+    "music": 0.0
+  },
+  {
+    "from": 185.27,
+    "to": 186.61,
+    "sid": 85,
+    "location": 2,
+    "content": "提供来的氧气",
+    "music": 0.0
+  },
+  {
+    "from": 186.61,
+    "to": 187.51,
+    "sid": 86,
+    "location": 2,
+    "content": "反过来说",
+    "music": 0.0
+  },
+  {
+    "from": 187.51,
+    "to": 188.95,
+    "sid": 87,
+    "location": 2,
+    "content": "我们通过训练有氧能力",
+    "music": 0.0
+  },
+  {
+    "from": 188.95,
+    "to": 190.27,
+    "sid": 88,
+    "location": 2,
+    "content": "提高了底层逻辑",
+    "music": 0.0
+  },
+  {
+    "from": 190.27,
+    "to": 193.9,
+    "sid": 89,
+    "location": 2,
+    "content": "就是因为重要因素和外周因素能力得到了提高",
+    "music": 0.0
+  },
+  {
+    "from": 193.92,
+    "to": 194.76,
+    "sid": 90,
+    "location": 2,
+    "content": "接下来呢",
+    "music": 0.0
+  },
+  {
+    "from": 194.76,
+    "to": 197.64,
+    "sid": 91,
+    "location": 2,
+    "content": "我分别把重要因素和Y轴因素详细讲一下",
+    "music": 0.0
+  },
+  {
+    "from": 197.64,
+    "to": 200.4,
+    "sid": 92,
+    "location": 2,
+    "content": "然后讲一讲应该怎么样科学训练",
+    "music": 0.0
+  },
+  {
+    "from": 200.4,
+    "to": 202.57,
+    "sid": 93,
+    "location": 2,
+    "content": "有氧能力的重要因素和排除因素",
+    "music": 0.0
+  },
+  {
+    "from": 202.57,
+    "to": 205.78,
+    "sid": 94,
+    "location": 2,
+    "content": "因为有些同学训练有氧呢方法上心率也是没底",
+    "music": 0.0
+  },
+  {
+    "from": 205.78,
+    "to": 207.25,
+    "sid": 95,
+    "location": 2,
+    "content": "也是在胡乱的训练",
+    "music": 0.0
+  },
+  {
+    "from": 207.25,
+    "to": 210.419,
+    "sid": 96,
+    "location": 2,
+    "content": "所以咱们这期内容不仅回答为什么的问题",
+    "music": 0.0
+  },
+  {
+    "from": 210.419,
+    "to": 212.88,
+    "sid": 97,
+    "location": 2,
+    "content": "也要回答怎么办的问题好",
+    "music": 0.0
+  },
+  {
+    "from": 212.88,
+    "to": 214.02,
+    "sid": 98,
+    "location": 2,
+    "content": "首先看中央因素",
+    "music": 0.0
+  },
+  {
+    "from": 214.02,
+    "to": 215.07,
+    "sid": 99,
+    "location": 2,
+    "content": "我们刚才说了",
+    "music": 0.0
+  },
+  {
+    "from": 215.07,
+    "to": 216.48,
+    "sid": 100,
+    "location": 2,
+    "content": "想要提高有氧能力",
+    "music": 0.0
+  },
+  {
+    "from": 216.48,
+    "to": 217.5,
+    "sid": 101,
+    "location": 2,
+    "content": "中央心肺因素",
+    "music": 0.0
+  },
+  {
+    "from": 223.73,
+    "to": 226.3,
+    "sid": 102,
+    "location": 2,
+    "content": "我们看对运动员来说",
+    "music": 0.0
+  },
+  {
+    "from": 226.3,
+    "to": 228.49,
+    "sid": 103,
+    "location": 2,
+    "content": "心脏容积和总血容量的增加",
+    "music": 0.0
+  },
+  {
+    "from": 228.49,
+    "to": 232.9,
+    "sid": 104,
+    "location": 2,
+    "content": "这两个因素是两个最重要的中央适应性的表现",
+    "music": 0.0
+  },
+  {
+    "from": 236.799,
+    "to": 240.13,
+    "sid": 105,
+    "location": 2,
+    "content": "提升耐力的中央心肺因素就是要做两件事",
+    "music": 0.0
+  },
+  {
+    "from": 240.13,
+    "to": 242.77,
+    "sid": 106,
+    "location": 2,
+    "content": "第一件事就是提升心脏容积",
+    "music": 0.0
+  },
+  {
+    "from": 242.77,
+    "to": 247.48,
+    "sid": 107,
+    "location": 2,
+    "content": "其实呢更准确的说应该是提高美国输出量",
+    "music": 0.0
+  },
+  {
+    "from": 249.98,
+    "to": 251.68,
+    "sid": 108,
+    "location": 2,
+    "content": "梳理呢心脏溶剂用的不好",
+    "music": 0.0
+  },
+  {
+    "from": 251.68,
+    "to": 254.62,
+    "sid": 109,
+    "location": 2,
+    "content": "每波输出量就是我们心脏每一次搏动",
+    "music": 0.0
+  },
+  {
+    "from": 254.62,
+    "to": 256.62,
+    "sid": 110,
+    "location": 2,
+    "content": "能给身体蹦出多少血液",
+    "music": 0.0
+  },
+  {
+    "from": 256.62,
+    "to": 258.24,
+    "sid": 111,
+    "location": 2,
+    "content": "提升耐力的专业因素",
+    "music": 0.0
+  },
+  {
+    "from": 258.24,
+    "to": 261.16,
+    "sid": 112,
+    "location": 2,
+    "content": "第二件事就是提升总血容量",
+    "music": 0.0
+  },
+  {
+    "from": 261.36,
+    "to": 263.58,
+    "sid": 113,
+    "location": 2,
+    "content": "让我们身体有更多的血液",
+    "music": 0.0
+  },
+  {
+    "from": 263.58,
+    "to": 265.08,
+    "sid": 114,
+    "location": 2,
+    "content": "这个也好理解",
+    "music": 0.0
+  },
+  {
+    "from": 265.159,
+    "to": 266.659,
+    "sid": 115,
+    "location": 2,
+    "content": "美国输出量提高",
+    "music": 0.0
+  },
+  {
+    "from": 266.659,
+    "to": 269.479,
+    "sid": 116,
+    "location": 2,
+    "content": "心脏每次搏动能给肌肉蹦出更多血",
+    "music": 0.0
+  },
+  {
+    "from": 269.479,
+    "to": 271.53,
+    "sid": 117,
+    "location": 2,
+    "content": "更多血就等于更多氧气",
+    "music": 0.0
+  },
+  {
+    "from": 271.53,
+    "to": 273.03,
+    "sid": 118,
+    "location": 2,
+    "content": "因为我们正常情况下",
+    "music": 0.0
+  },
+  {
+    "from": 273.03,
+    "to": 275.43,
+    "sid": 119,
+    "location": 2,
+    "content": "血液里有氧溶氧量是有限的",
+    "music": 0.0
+  },
+  {
+    "from": 275.43,
+    "to": 277.05,
+    "sid": 120,
+    "location": 2,
+    "content": "想要多输送氧气",
+    "music": 0.0
+  },
+  {
+    "from": 277.05,
+    "to": 279.1,
+    "sid": 121,
+    "location": 2,
+    "content": "就要多靠输送血液",
+    "music": 0.0
+  },
+  {
+    "from": 279.3,
+    "to": 281.19,
+    "sid": 122,
+    "location": 2,
+    "content": "那么总血容量增加",
+    "music": 0.0
+  },
+  {
+    "from": 281.19,
+    "to": 283.98,
+    "sid": 123,
+    "location": 2,
+    "content": "让我们有更多的可以容纳氧气的血液",
+    "music": 0.0
+  },
+  {
+    "from": 283.98,
+    "to": 287.98,
+    "sid": 124,
+    "location": 2,
+    "content": "当然也更有利于提高肌肉的有氧耐力",
+    "music": 0.0
+  },
+  {
+    "from": 288.32,
+    "to": 290.15,
+    "sid": 125,
+    "location": 2,
+    "content": "所以大家要注意这个逻辑",
+    "music": 0.0
+  },
+  {
+    "from": 290.15,
+    "to": 294.12,
+    "sid": 126,
+    "location": 2,
+    "content": "有氧耐力核心是中央心肺因素和外周肌肉因素",
+    "music": 0.0
+  },
+  {
+    "from": 294.12,
+    "to": 298.8,
+    "sid": 127,
+    "location": 2,
+    "content": "中央心肺因素的核心是美波输出量和总血量好",
+    "music": 0.0
+  },
+  {
+    "from": 298.8,
+    "to": 300.87,
+    "sid": 128,
+    "location": 2,
+    "content": "然后我们按这个逻辑再继续看",
+    "music": 0.0
+  },
+  {
+    "from": 300.87,
+    "to": 303.829,
+    "sid": 129,
+    "location": 2,
+    "content": "怎么提高美波输出量和总血量好",
+    "music": 0.0
+  },
+  {
+    "from": 303.829,
+    "to": 306.289,
+    "sid": 130,
+    "location": 2,
+    "content": "我们先说怎么提高美国输出量",
+    "music": 0.0
+  },
+  {
+    "from": 306.289,
+    "to": 308.149,
+    "sid": 131,
+    "location": 2,
+    "content": "不过呢想讲清这个问题",
+    "music": 0.0
+  },
+  {
+    "from": 308.149,
+    "to": 311.809,
+    "sid": 132,
+    "location": 2,
+    "content": "我们要先看一看我们的心脏大致是怎么工作的",
+    "music": 0.0
+  },
+  {
+    "from": 311.809,
+    "to": 312.75,
+    "sid": 133,
+    "location": 2,
+    "content": "我们看这个图",
+    "music": 0.0
+  },
+  {
+    "from": 312.75,
+    "to": 314.55,
+    "sid": 134,
+    "location": 2,
+    "content": "这个呢是我们的血液循环",
+    "music": 0.0
+  },
+  {
+    "from": 314.55,
+    "to": 317.07,
+    "sid": 135,
+    "location": 2,
+    "content": "红色的代表富含氧气的动脉血",
+    "music": 0.0
+  },
+  {
+    "from": 317.07,
+    "to": 319.56,
+    "sid": 136,
+    "location": 2,
+    "content": "蓝色代表缺乏氧气的静脉血",
+    "music": 0.0
+  },
+  {
+    "from": 319.56,
+    "to": 321.96,
+    "sid": 137,
+    "location": 2,
+    "content": "我们看我们的心脏大致是怎么工作的",
+    "music": 0.0
+  },
+  {
+    "from": 321.96,
+    "to": 323.44,
+    "sid": 138,
+    "location": 2,
+    "content": "这个是左心室",
+    "music": 0.0
+  },
+  {
+    "from": 323.44,
+    "to": 328.039,
+    "sid": 139,
+    "location": 2,
+    "content": "左心室把富含氧气的动脉血液挤压到全身",
+    "music": 0.0
+  },
+  {
+    "from": 328.039,
+    "to": 329.359,
+    "sid": 140,
+    "location": 2,
+    "content": "给内脏器官",
+    "music": 0.0
+  },
+  {
+    "from": 329.359,
+    "to": 330.95,
+    "sid": 141,
+    "location": 2,
+    "content": "还有肌肉提供氧气",
+    "music": 0.0
+  },
+  {
+    "from": 330.95,
+    "to": 332.45,
+    "sid": 142,
+    "location": 2,
+    "content": "氧气用完了",
+    "music": 0.0
+  },
+  {
+    "from": 332.45,
+    "to": 336.17,
+    "sid": 143,
+    "location": 2,
+    "content": "富含氧气的血液再变成蓝色的缺氧血",
+    "music": 0.0
+  },
+  {
+    "from": 336.17,
+    "to": 339.14,
+    "sid": 144,
+    "location": 2,
+    "content": "那么在肺部进行气体交换",
+    "music": 0.0
+  },
+  {
+    "from": 339.14,
+    "to": 340.58,
+    "sid": 145,
+    "location": 2,
+    "content": "再变成富阳穴",
+    "music": 0.0
+  },
+  {
+    "from": 340.58,
+    "to": 342.75,
+    "sid": 146,
+    "location": 2,
+    "content": "再回到左心室区",
+    "music": 0.0
+  },
+  {
+    "from": 342.75,
+    "to": 346.35,
+    "sid": 147,
+    "location": 2,
+    "content": "左心室再把富含氧气的血液泵到全身",
+    "music": 0.0
+  },
+  {
+    "from": 346.35,
+    "to": 347.1,
+    "sid": 148,
+    "location": 2,
+    "content": "供应氧气",
+    "music": 0.0
+  },
+  {
+    "from": 347.1,
+    "to": 348.72,
+    "sid": 149,
+    "location": 2,
+    "content": "就这样来回循环",
+    "music": 0.0
+  },
+  {
+    "from": 348.72,
+    "to": 350.1,
+    "sid": 150,
+    "location": 2,
+    "content": "当然这是简单说",
+    "music": 0.0
+  },
+  {
+    "from": 350.1,
+    "to": 351.0,
+    "sid": 151,
+    "location": 2,
+    "content": "为了大家好理解",
+    "music": 0.0
+  },
+  {
+    "from": 351.0,
+    "to": 352.89,
+    "sid": 152,
+    "location": 2,
+    "content": "我们重点只说了左心室",
+    "music": 0.0
+  },
+  {
+    "from": 352.89,
+    "to": 354.62,
+    "sid": 153,
+    "location": 2,
+    "content": "没有说左右心房",
+    "music": 0.0
+  },
+  {
+    "from": 354.82,
+    "to": 357.13,
+    "sid": 154,
+    "location": 2,
+    "content": "那么这个时候我们再把问题简化一下",
+    "music": 0.0
+  },
+  {
+    "from": 357.13,
+    "to": 359.39,
+    "sid": 155,
+    "location": 2,
+    "content": "大家看一看左右心室",
+    "music": 0.0
+  },
+  {
+    "from": 359.39,
+    "to": 362.69,
+    "sid": 156,
+    "location": 2,
+    "content": "那么哪个部分是给肌肉输出氧气的关系",
+    "music": 0.0
+  },
+  {
+    "from": 362.69,
+    "to": 364.22,
+    "sid": 157,
+    "location": 2,
+    "content": "最直接相关的",
+    "music": 0.0
+  },
+  {
+    "from": 364.22,
+    "to": 366.21,
+    "sid": 158,
+    "location": 2,
+    "content": "那么很显然就是左心室",
+    "music": 0.0
+  },
+  {
+    "from": 366.21,
+    "to": 367.92,
+    "sid": 159,
+    "location": 2,
+    "content": "因为左心室是富含",
+    "music": 0.0
+  },
+  {
+    "from": 367.92,
+    "to": 372.92,
+    "sid": 160,
+    "location": 2,
+    "content": "是负责把富含氧气的血液直接的泵给肌肉的",
+    "music": 0.0
+  },
+  {
+    "from": 373.06,
+    "to": 376.12,
+    "sid": 161,
+    "location": 2,
+    "content": "所以呢我们运动生理学呢一般关注心肺能力",
+    "music": 0.0
+  },
+  {
+    "from": 376.12,
+    "to": 378.11,
+    "sid": 162,
+    "location": 2,
+    "content": "重点就是关注左心室",
+    "music": 0.0
+  },
+  {
+    "from": 378.11,
+    "to": 380.72,
+    "sid": 163,
+    "location": 2,
+    "content": "我们的讲解能把重点放在左心室",
+    "music": 0.0
+  },
+  {
+    "from": 380.72,
+    "to": 382.1,
+    "sid": 164,
+    "location": 2,
+    "content": "这样问题更简化",
+    "music": 0.0
+  },
+  {
+    "from": 382.1,
+    "to": 383.159,
+    "sid": 165,
+    "location": 2,
+    "content": "更好理解",
+    "music": 0.0
+  },
+  {
+    "from": 383.159,
+    "to": 387.479,
+    "sid": 166,
+    "location": 2,
+    "content": "所以呢现在的逻辑就是怎么提高美国输出量呢",
+    "music": 0.0
+  },
+  {
+    "from": 387.479,
+    "to": 390.449,
+    "sid": 167,
+    "location": 2,
+    "content": "那么就是提高左心室的美国输出量",
+    "music": 0.0
+  },
+  {
+    "from": 390.449,
+    "to": 392.26,
+    "sid": 168,
+    "location": 2,
+    "content": "这个地方呢加一个左字",
+    "music": 0.0
+  },
+  {
+    "from": 392.659,
+    "to": 394.999,
+    "sid": 169,
+    "location": 2,
+    "content": "具体怎么提高的方法就是两个",
+    "music": 0.0
+  },
+  {
+    "from": 394.999,
+    "to": 397.72,
+    "sid": 170,
+    "location": 2,
+    "content": "一个是让左心室的容积更大",
+    "music": 0.0
+  },
+  {
+    "from": 397.74,
+    "to": 401.28,
+    "sid": 171,
+    "location": 2,
+    "content": "另外呢就让左心室的心壁增厚",
+    "music": 0.0
+  },
+  {
+    "from": 401.28,
+    "to": 403.76,
+    "sid": 172,
+    "location": 2,
+    "content": "心壁的厚度好",
+    "music": 0.0
+  },
+  {
+    "from": 403.76,
+    "to": 404.6,
+    "sid": 173,
+    "location": 2,
+    "content": "我们来看",
+    "music": 0.0
+  },
+  {
+    "from": 406.48,
+    "to": 408.81,
+    "sid": 174,
+    "location": 2,
+    "content": "左心室因为指导大部分工作",
+    "music": 0.0
+  },
+  {
+    "from": 408.81,
+    "to": 412.72,
+    "sid": 175,
+    "location": 2,
+    "content": "因此反应与耐力训练的适应也最明显",
+    "music": 0.0
+  },
+  {
+    "from": 414.1,
+    "to": 417.15,
+    "sid": 176,
+    "location": 2,
+    "content": "左心室腔的大小会随着耐力训练而增大",
+    "music": 0.0
+  },
+  {
+    "from": 417.15,
+    "to": 421.98,
+    "sid": 177,
+    "location": 2,
+    "content": "这将会增加左心室的充血量",
+    "music": 0.0
+  },
+  {
+    "from": 421.98,
+    "to": 423.51,
+    "sid": 178,
+    "location": 2,
+    "content": "而增加新输出量",
+    "music": 0.0
+  },
+  {
+    "from": 423.51,
+    "to": 425.22,
+    "sid": 179,
+    "location": 2,
+    "content": "也就是说耐力训练后",
+    "music": 0.0
+  },
+  {
+    "from": 425.22,
+    "to": 427.08,
+    "sid": 180,
+    "location": 2,
+    "content": "左心室的容量增大了",
+    "music": 0.0
+  },
+  {
+    "from": 427.08,
+    "to": 428.67,
+    "sid": 181,
+    "location": 2,
+    "content": "就可以提高每波输出量",
+    "music": 0.0
+  },
+  {
+    "from": 428.67,
+    "to": 430.58,
+    "sid": 182,
+    "location": 2,
+    "content": "那么新输出量就提高了",
+    "music": 0.0
+  },
+  {
+    "from": 430.78,
+    "to": 433.54,
+    "sid": 183,
+    "location": 2,
+    "content": "接下来再看原本",
+    "music": 0.0
+  },
+  {
+    "from": 433.54,
+    "to": 435.82,
+    "sid": 184,
+    "location": 2,
+    "content": "假设耐力训练引起左心室的变化",
+    "music": 0.0
+  },
+  {
+    "from": 435.82,
+    "to": 437.86,
+    "sid": 185,
+    "location": 2,
+    "content": "只会反映在左心室的空间",
+    "music": 0.0
+  },
+  {
+    "from": 437.86,
+    "to": 439.2,
+    "sid": 186,
+    "location": 2,
+    "content": "然而研究显示",
+    "music": 0.0
+  },
+  {
+    "from": 439.2,
+    "to": 443.56,
+    "sid": 187,
+    "location": 2,
+    "content": "新式心肌壁的厚度也会随着耐力训练而增加",
+    "music": 0.0
+  },
+  {
+    "from": 443.76,
+    "to": 446.97,
+    "sid": 188,
+    "location": 2,
+    "content": "耐力训练不但让左心室的容量增大",
+    "music": 0.0
+  },
+  {
+    "from": 446.97,
+    "to": 449.01,
+    "sid": 189,
+    "location": 2,
+    "content": "左心室壁的厚度也增加了",
+    "music": 0.0
+  },
+  {
+    "from": 449.01,
+    "to": 451.93,
+    "sid": 190,
+    "location": 2,
+    "content": "这就是我们熟悉的运动性心脏肥大",
+    "music": 0.0
+  },
+  {
+    "from": 451.93,
+    "to": 453.58,
+    "sid": 191,
+    "location": 2,
+    "content": "但是大家可能会有疑问",
+    "music": 0.0
+  },
+  {
+    "from": 453.58,
+    "to": 455.35,
+    "sid": 192,
+    "location": 2,
+    "content": "因为左心室的容积增大",
+    "music": 0.0
+  },
+  {
+    "from": 455.35,
+    "to": 458.83,
+    "sid": 193,
+    "location": 2,
+    "content": "能增大每次左心室搏动的时候输出的血液量",
+    "music": 0.0
+  },
+  {
+    "from": 458.83,
+    "to": 459.86,
+    "sid": 194,
+    "location": 2,
+    "content": "这个好理解",
+    "music": 0.0
+  },
+  {
+    "from": 459.96,
+    "to": 461.28,
+    "sid": 195,
+    "location": 2,
+    "content": "左心室更大了",
+    "music": 0.0
+  },
+  {
+    "from": 461.28,
+    "to": 463.71,
+    "sid": 196,
+    "location": 2,
+    "content": "每次搏动的输出的血呢当然更多了",
+    "music": 0.0
+  },
+  {
+    "from": 463.71,
+    "to": 465.78,
+    "sid": 197,
+    "location": 2,
+    "content": "但是左心室的壁增厚",
+    "music": 0.0
+  },
+  {
+    "from": 465.78,
+    "to": 469.1,
+    "sid": 198,
+    "location": 2,
+    "content": "为什么也能增大左心室的美波输出量呢",
+    "music": 0.0
+  },
+  {
+    "from": 469.18,
+    "to": 472.48,
+    "sid": 199,
+    "location": 2,
+    "content": "这是因为我们左心室每次搏动",
+    "music": 0.0
+  },
+  {
+    "from": 472.48,
+    "to": 475.66,
+    "sid": 200,
+    "location": 2,
+    "content": "不是把里面的所有血液都搏动出去了",
+    "music": 0.0
+  },
+  {
+    "from": 475.66,
+    "to": 477.14,
+    "sid": 201,
+    "location": 2,
+    "content": "他没有这个能力",
+    "music": 0.0
+  },
+  {
+    "from": 477.14,
+    "to": 480.77,
+    "sid": 202,
+    "location": 2,
+    "content": "而是呢每次都会留一部分血液来做新势力",
+    "music": 0.0
+  },
+  {
+    "from": 480.77,
+    "to": 483.29,
+    "sid": 203,
+    "location": 2,
+    "content": "所以呢左心室的壁如果更厚",
+    "music": 0.0
+  },
+  {
+    "from": 483.29,
+    "to": 485.169,
+    "sid": 204,
+    "location": 2,
+    "content": "左心室的搏动更有力",
+    "music": 0.0
+  },
+  {
+    "from": 485.169,
+    "to": 488.829,
+    "sid": 205,
+    "location": 2,
+    "content": "他就能每次把左心室演的血液呢蹦的更彻底",
+    "music": 0.0
+  },
+  {
+    "from": 488.829,
+    "to": 489.729,
+    "sid": 206,
+    "location": 2,
+    "content": "留的更少",
+    "music": 0.0
+  },
+  {
+    "from": 489.729,
+    "to": 491.0,
+    "sid": 207,
+    "location": 2,
+    "content": "蹦出去更多",
+    "music": 0.0
+  },
+  {
+    "from": 491.0,
+    "to": 493.38,
+    "sid": 208,
+    "location": 2,
+    "content": "这当然又提高了美国输出量",
+    "music": 0.0
+  },
+  {
+    "from": 493.76,
+    "to": 495.11,
+    "sid": 209,
+    "location": 2,
+    "content": "孙氏是这样",
+    "music": 0.0
+  },
+  {
+    "from": 495.11,
+    "to": 497.48,
+    "sid": 210,
+    "location": 2,
+    "content": "她一舒张血液进来",
+    "music": 0.0
+  },
+  {
+    "from": 497.48,
+    "to": 500.23,
+    "sid": 211,
+    "location": 2,
+    "content": "然后他一收缩把血液挤出去",
+    "music": 0.0
+  },
+  {
+    "from": 500.23,
+    "to": 502.99,
+    "sid": 212,
+    "location": 2,
+    "content": "所以呢我们说提高新式容积",
+    "music": 0.0
+  },
+  {
+    "from": 502.99,
+    "to": 506.11,
+    "sid": 213,
+    "location": 2,
+    "content": "也就是提高新式的舒张末期容积",
+    "music": 0.0
+  },
+  {
+    "from": 506.11,
+    "to": 507.43,
+    "sid": 214,
+    "location": 2,
+    "content": "也叫前负荷",
+    "music": 0.0
+  },
+  {
+    "from": 507.43,
+    "to": 510.25,
+    "sid": 215,
+    "location": 2,
+    "content": "就是舒张到再不能舒张的程度",
+    "music": 0.0
+  },
+  {
+    "from": 510.25,
+    "to": 511.18,
+    "sid": 216,
+    "location": 2,
+    "content": "舒张末期了",
+    "music": 0.0
+  },
+  {
+    "from": 511.18,
+    "to": 512.32,
+    "sid": 217,
+    "location": 2,
+    "content": "装装满了",
+    "music": 0.0
+  },
+  {
+    "from": 512.32,
+    "to": 513.5,
+    "sid": 218,
+    "location": 2,
+    "content": "能装多少血",
+    "music": 0.0
+  },
+  {
+    "from": 513.88,
+    "to": 517.06,
+    "sid": 219,
+    "location": 2,
+    "content": "而接下来呢心肺收缩把血挤出去",
+    "music": 0.0
+  },
+  {
+    "from": 517.06,
+    "to": 518.98,
+    "sid": 220,
+    "location": 2,
+    "content": "它收缩到不能再收缩了",
+    "music": 0.0
+  },
+  {
+    "from": 518.98,
+    "to": 523.15,
+    "sid": 221,
+    "location": 2,
+    "content": "这个时候呢心肺的容积叫收缩末期容积",
+    "music": 0.0
+  },
+  {
+    "from": 523.15,
+    "to": 525.46,
+    "sid": 222,
+    "location": 2,
+    "content": "这个容器就是先是把血液挤出去",
+    "music": 0.0
+  },
+  {
+    "from": 525.46,
+    "to": 527.339,
+    "sid": 223,
+    "location": 2,
+    "content": "还能看剩下多少量",
+    "music": 0.0
+  },
+  {
+    "from": 527.42,
+    "to": 530.96,
+    "sid": 224,
+    "location": 2,
+    "content": "新视频增厚就会降低收缩末期容积",
+    "music": 0.0
+  },
+  {
+    "from": 530.96,
+    "to": 533.88,
+    "sid": 225,
+    "location": 2,
+    "content": "让新视频的血液被挤得更干净",
+    "music": 0.0
+  },
+  {
+    "from": 534.06,
+    "to": 537.87,
+    "sid": 226,
+    "location": 2,
+    "content": "所以美国输出量其实等于舒张末期容积",
+    "music": 0.0
+  },
+  {
+    "from": 537.87,
+    "to": 539.939,
+    "sid": 227,
+    "location": 2,
+    "content": "减去收缩末期容积",
+    "music": 0.0
+  },
+  {
+    "from": 540.12,
+    "to": 541.68,
+    "sid": 228,
+    "location": 2,
+    "content": "新式的容积越大",
+    "music": 0.0
+  },
+  {
+    "from": 541.68,
+    "to": 542.7,
+    "sid": 229,
+    "location": 2,
+    "content": "心脏比越厚",
+    "music": 0.0
+  },
+  {
+    "from": 542.7,
+    "to": 545.36,
+    "sid": 230,
+    "location": 2,
+    "content": "美国输出量就越多好",
+    "music": 0.0
+  },
+  {
+    "from": 545.36,
+    "to": 547.28,
+    "sid": 231,
+    "location": 2,
+    "content": "现在呢就到怎么训练的问题上了",
+    "music": 0.0
+  },
+  {
+    "from": 547.28,
+    "to": 550.01,
+    "sid": 232,
+    "location": 2,
+    "content": "我们现在知道提高左心室的美国输出量",
+    "music": 0.0
+  },
+  {
+    "from": 550.01,
+    "to": 551.59,
+    "sid": 233,
+    "location": 2,
+    "content": "核心途径就两条",
+    "music": 0.0
+  },
+  {
+    "from": 551.59,
+    "to": 555.43,
+    "sid": 234,
+    "location": 2,
+    "content": "提高左心室的容积和左心室的心壁厚度",
+    "music": 0.0
+  },
+  {
+    "from": 555.43,
+    "to": 557.65,
+    "sid": 235,
+    "location": 2,
+    "content": "那么怎么能达到这两个目的呢",
+    "music": 0.0
+  },
+  {
+    "from": 557.65,
+    "to": 558.92,
+    "sid": 236,
+    "location": 2,
+    "content": "我们看这个图",
+    "music": 0.0
+  },
+  {
+    "from": 560.8,
+    "to": 563.76,
+    "sid": 237,
+    "location": 2,
+    "content": "这个是在做强度递增的耐力训练的时候",
+    "music": 0.0
+  },
+  {
+    "from": 563.76,
+    "to": 565.17,
+    "sid": 238,
+    "location": 2,
+    "content": "心室容积的变化",
+    "music": 0.0
+  },
+  {
+    "from": 565.17,
+    "to": 567.589,
+    "sid": 239,
+    "location": 2,
+    "content": "我们能看到训练强度逐渐提高",
+    "music": 0.0
+  },
+  {
+    "from": 567.589,
+    "to": 569.839,
+    "sid": 240,
+    "location": 2,
+    "content": "心肺的容积逐渐增大",
+    "music": 0.0
+  },
+  {
+    "from": 569.839,
+    "to": 573.73,
+    "sid": 241,
+    "location": 2,
+    "content": "这个逐渐增大使心脏为了泵更多血出去",
+    "music": 0.0
+  },
+  {
+    "from": 573.73,
+    "to": 576.13,
+    "sid": 242,
+    "location": 2,
+    "content": "但在但在这个过程当中",
+    "music": 0.0
+  },
+  {
+    "from": 576.13,
+    "to": 578.77,
+    "sid": 243,
+    "location": 2,
+    "content": "他就训练了心脏之后的结果呢",
+    "music": 0.0
+  },
+  {
+    "from": 578.77,
+    "to": 580.359,
+    "sid": 244,
+    "location": 2,
+    "content": "心脏的容积就会增大",
+    "music": 0.0
+  },
+  {
+    "from": 580.48,
+    "to": 582.55,
+    "sid": 245,
+    "location": 2,
+    "content": "当我们看这个曲线",
+    "music": 0.0
+  },
+  {
+    "from": 582.55,
+    "to": 584.26,
+    "sid": 246,
+    "location": 2,
+    "content": "当强度达到这个地方",
+    "music": 0.0
+  },
+  {
+    "from": 584.26,
+    "to": 585.82,
+    "sid": 247,
+    "location": 2,
+    "content": "大概70%到70%",
+    "music": 0.0
+  },
+  {
+    "from": 585.82,
+    "to": 587.199,
+    "sid": 248,
+    "location": 2,
+    "content": "最大摄氧量的时候",
+    "music": 0.0
+  },
+  {
+    "from": 587.2,
+    "to": 588.91,
+    "sid": 249,
+    "location": 2,
+    "content": "他再提高强度",
+    "music": 0.0
+  },
+  {
+    "from": 588.91,
+    "to": 592.09,
+    "sid": 250,
+    "location": 2,
+    "content": "左心室的容积增大幅度就减小了",
+    "music": 0.0
+  },
+  {
+    "from": 592.09,
+    "to": 593.4,
+    "sid": 251,
+    "location": 2,
+    "content": "变得平缓了",
+    "music": 0.0
+  },
+  {
+    "from": 593.52,
+    "to": 595.56,
+    "sid": 252,
+    "location": 2,
+    "content": "也就是说70%到75%",
+    "music": 0.0
+  },
+  {
+    "from": 595.56,
+    "to": 597.36,
+    "sid": 253,
+    "location": 2,
+    "content": "最大摄氧量以上的强度",
+    "music": 0.0
+  },
+  {
+    "from": 597.36,
+    "to": 600.85,
+    "sid": 254,
+    "location": 2,
+    "content": "对新式的容积训练效果呢就比较缓慢了",
+    "music": 0.0
+  },
+  {
+    "from": 600.85,
+    "to": 604.51,
+    "sid": 255,
+    "location": 2,
+    "content": "所以呢70%到75%最大摄氧量",
+    "music": 0.0
+  },
+  {
+    "from": 604.51,
+    "to": 606.13,
+    "sid": 256,
+    "location": 2,
+    "content": "这个强度的耐力训练",
+    "music": 0.0
+  },
+  {
+    "from": 606.13,
+    "to": 610.27,
+    "sid": 257,
+    "location": 2,
+    "content": "它就是提高左心室容积最好的训练强度",
+    "music": 0.0
+  },
+  {
+    "from": 610.27,
+    "to": 611.8,
+    "sid": 258,
+    "location": 2,
+    "content": "强度如果再高",
+    "music": 0.0
+  },
+  {
+    "from": 611.8,
+    "to": 614.29,
+    "sid": 259,
+    "location": 2,
+    "content": "心室容积呢当然还会增大一些",
+    "music": 0.0
+  },
+  {
+    "from": 614.29,
+    "to": 617.099,
+    "sid": 260,
+    "location": 2,
+    "content": "但训练强度的提高呢提高的不多",
+    "music": 0.0
+  },
+  {
+    "from": 617.42,
+    "to": 619.88,
+    "sid": 261,
+    "location": 2,
+    "content": "但是又因为强度提高了",
+    "music": 0.0
+  },
+  {
+    "from": 619.88,
+    "to": 622.22,
+    "sid": 262,
+    "location": 2,
+    "content": "训练者能耐受的训练量就降低了",
+    "music": 0.0
+  },
+  {
+    "from": 622.22,
+    "to": 625.49,
+    "sid": 263,
+    "location": 2,
+    "content": "所以总的有效的训练时间就变小了",
+    "music": 0.0
+  },
+  {
+    "from": 625.49,
+    "to": 626.68,
+    "sid": 264,
+    "location": 2,
+    "content": "这样不划算",
+    "music": 0.0
+  },
+  {
+    "from": 626.68,
+    "to": 630.15,
+    "sid": 265,
+    "location": 2,
+    "content": "我们看虽然运动强度从70%",
+    "music": 0.0
+  },
+  {
+    "from": 630.15,
+    "to": 632.1,
+    "sid": 266,
+    "location": 2,
+    "content": "最大摄氧量增加到100%",
+    "music": 0.0
+  },
+  {
+    "from": 632.1,
+    "to": 633.06,
+    "sid": 267,
+    "location": 2,
+    "content": "这个过程中",
+    "music": 0.0
+  },
+  {
+    "from": 633.06,
+    "to": 636.0,
+    "sid": 268,
+    "location": 2,
+    "content": "新式的舒张末期容积呢仍然在增加",
+    "music": 0.0
+  },
+  {
+    "from": 636.16,
+    "to": 640.509,
+    "sid": 269,
+    "location": 2,
+    "content": "但是这个反应的平坦期最大运动强度时",
+    "music": 0.0
+  },
+  {
+    "from": 640.509,
+    "to": 642.249,
+    "sid": 270,
+    "location": 2,
+    "content": "千张刺激的幅度大小",
+    "music": 0.0
+  },
+  {
+    "from": 642.249,
+    "to": 644.469,
+    "sid": 271,
+    "location": 2,
+    "content": "并没有70%或70%",
+    "music": 0.0
+  },
+  {
+    "from": 644.469,
+    "to": 646.64,
+    "sid": 272,
+    "location": 2,
+    "content": "最大产量强度产生的刺激大",
+    "music": 0.0
+  },
+  {
+    "from": 646.74,
+    "to": 650.46,
+    "sid": 273,
+    "location": 2,
+    "content": "也就是说呢超过了70%到75",
+    "music": 0.0
+  },
+  {
+    "from": 650.46,
+    "to": 652.819,
+    "sid": 274,
+    "location": 2,
+    "content": "训练效果的提升就一般了",
+    "music": 0.0
+  },
+  {
+    "from": 653.24,
+    "to": 654.38,
+    "sid": 275,
+    "location": 2,
+    "content": "由此可见",
+    "music": 0.0
+  },
+  {
+    "from": 654.38,
+    "to": 656.42,
+    "sid": 276,
+    "location": 2,
+    "content": "延长70%到75%",
+    "music": 0.0
+  },
+  {
+    "from": 656.42,
+    "to": 658.4,
+    "sid": 277,
+    "location": 2,
+    "content": "强度的持续运动时间",
+    "music": 0.0
+  },
+  {
+    "from": 658.4,
+    "to": 662.079,
+    "sid": 278,
+    "location": 2,
+    "content": "是增加新式内容题最有效的训练方法",
+    "music": 0.0
+  },
+  {
+    "from": 662.32,
+    "to": 665.17,
+    "sid": 279,
+    "location": 2,
+    "content": "这是说提升新室内容积的训练",
+    "music": 0.0
+  },
+  {
+    "from": 665.17,
+    "to": 667.48,
+    "sid": 280,
+    "location": 2,
+    "content": "那么左心室壁的厚度怎么训练呢",
+    "music": 0.0
+  },
+  {
+    "from": 667.48,
+    "to": 668.62,
+    "sid": 281,
+    "location": 2,
+    "content": "因为原理比较复杂",
+    "music": 0.0
+  },
+  {
+    "from": 668.62,
+    "to": 669.58,
+    "sid": 282,
+    "location": 2,
+    "content": "我们就讲了",
+    "music": 0.0
+  },
+  {
+    "from": 669.58,
+    "to": 671.12,
+    "sid": 283,
+    "location": 2,
+    "content": "我们直接看结论",
+    "music": 0.0
+  },
+  {
+    "from": 671.52,
+    "to": 673.14,
+    "sid": 284,
+    "location": 2,
+    "content": "对于耐力运动员来说",
+    "music": 0.0
+  },
+  {
+    "from": 673.14,
+    "to": 675.66,
+    "sid": 285,
+    "location": 2,
+    "content": "70%到75%强度的持续运动",
+    "music": 0.0
+  },
+  {
+    "from": 675.66,
+    "to": 679.83,
+    "sid": 286,
+    "location": 2,
+    "content": "也是刺激心脏壁厚度增厚的最有效的训练方法",
+    "music": 0.0
+  },
+  {
+    "from": 679.83,
+    "to": 682.939,
+    "sid": 287,
+    "location": 2,
+    "content": "诶更新式的容积训练方法是一样的",
+    "music": 0.0
+  },
+  {
+    "from": 682.98,
+    "to": 685.65,
+    "sid": 288,
+    "location": 2,
+    "content": "所以呢这条线我们就有结论了",
+    "music": 0.0
+  },
+  {
+    "from": 685.65,
+    "to": 687.579,
+    "sid": 289,
+    "location": 2,
+    "content": "这个逻辑大家一定要理顺",
+    "music": 0.0
+  },
+  {
+    "from": 687.76,
+    "to": 690.79,
+    "sid": 290,
+    "location": 2,
+    "content": "耐力训练核心是中央因素和外周因素",
+    "music": 0.0
+  },
+  {
+    "from": 690.79,
+    "to": 694.46,
+    "sid": 291,
+    "location": 2,
+    "content": "中央因素的核心是美国输出量和总血容量",
+    "music": 0.0
+  },
+  {
+    "from": 694.46,
+    "to": 696.26,
+    "sid": 292,
+    "location": 2,
+    "content": "美波输出量这一块",
+    "music": 0.0
+  },
+  {
+    "from": 696.26,
+    "to": 699.76,
+    "sid": 293,
+    "location": 2,
+    "content": "核心就是左心室壁的容积和左心室壁的厚度",
+    "music": 0.0
+  },
+  {
+    "from": 699.76,
+    "to": 702.85,
+    "sid": 294,
+    "location": 2,
+    "content": "而这两个因素的训练方式呢都是一样的",
+    "music": 0.0
+  },
+  {
+    "from": 702.85,
+    "to": 705.699,
+    "sid": 295,
+    "location": 2,
+    "content": "就是70%到75%",
+    "music": 0.0
+  },
+  {
+    "from": 705.82,
+    "to": 709.99,
+    "sid": 296,
+    "location": 2,
+    "content": "最大摄氧量的持续的耐力训练时间越长越好",
+    "music": 0.0
+  },
+  {
+    "from": 709.99,
+    "to": 714.04,
+    "sid": 297,
+    "location": 2,
+    "content": "训练时间在能接受能恢复的情况下尽量延长",
+    "music": 0.0
+  },
+  {
+    "from": 714.7,
+    "to": 716.16,
+    "sid": 298,
+    "location": 2,
+    "content": "那当然肯定有同学问",
+    "music": 0.0
+  },
+  {
+    "from": 716.16,
+    "to": 717.54,
+    "sid": 299,
+    "location": 2,
+    "content": "70%到75%",
+    "music": 0.0
+  },
+  {
+    "from": 717.54,
+    "to": 720.72,
+    "sid": 300,
+    "location": 2,
+    "content": "摄氧量的强度到底是多大强度呢",
+    "music": 0.0
+  },
+  {
+    "from": 720.72,
+    "to": 722.97,
+    "sid": 301,
+    "location": 2,
+    "content": "这里呢我给大家一个心率公式",
+    "music": 0.0
+  },
+  {
+    "from": 722.97,
+    "to": 727.84,
+    "sid": 302,
+    "location": 2,
+    "content": "就是最大心率减去安静心律乘以摄氧量的比例",
+    "music": 0.0
+  },
+  {
+    "from": 727.84,
+    "to": 729.4,
+    "sid": 303,
+    "location": 2,
+    "content": "加上按键心率",
+    "music": 0.0
+  },
+  {
+    "from": 730.12,
+    "to": 731.21,
+    "sid": 304,
+    "location": 2,
+    "content": "举个例子",
+    "music": 0.0
+  },
+  {
+    "from": 731.21,
+    "to": 733.34,
+    "sid": 305,
+    "location": 2,
+    "content": "如果你的安静心律是60",
+    "music": 0.0
+  },
+  {
+    "from": 733.34,
+    "to": 734.66,
+    "sid": 306,
+    "location": 2,
+    "content": "最大心率是180",
+    "music": 0.0
+  },
+  {
+    "from": 734.66,
+    "to": 736.31,
+    "sid": 307,
+    "location": 2,
+    "content": "那你要用75%",
+    "music": 0.0
+  },
+  {
+    "from": 736.31,
+    "to": 738.069,
+    "sid": 308,
+    "location": 2,
+    "content": "最大摄氧量的强度来训练",
+    "music": 0.0
+  },
+  {
+    "from": 738.069,
+    "to": 739.689,
+    "sid": 309,
+    "location": 2,
+    "content": "那就是让你训练的时候",
+    "music": 0.0
+  },
+  {
+    "from": 739.689,
+    "to": 742.25,
+    "sid": 310,
+    "location": 2,
+    "content": "心率达到150就可以了",
+    "music": 0.0
+  },
+  {
+    "from": 742.25,
+    "to": 744.56,
+    "sid": 311,
+    "location": 2,
+    "content": "也就是说180-60",
+    "music": 0.0
+  },
+  {
+    "from": 744.56,
+    "to": 746.33,
+    "sid": 312,
+    "location": 2,
+    "content": "括号乘0.75",
+    "music": 0.0
+  },
+  {
+    "from": 746.33,
+    "to": 748.87,
+    "sid": 313,
+    "location": 2,
+    "content": "再加上六十一百五的心率",
+    "music": 0.0
+  },
+  {
+    "from": 748.87,
+    "to": 751.76,
+    "sid": 314,
+    "location": 2,
+    "content": "对应的就是75%最大摄氧量的强度",
+    "music": 0.0
+  },
+  {
+    "from": 752.06,
+    "to": 753.98,
+    "sid": 315,
+    "location": 2,
+    "content": "那么至于最大心率怎么计算",
+    "music": 0.0
+  },
+  {
+    "from": 753.98,
+    "to": 755.12,
+    "sid": 316,
+    "location": 2,
+    "content": "网上方法有很多",
+    "music": 0.0
+  },
+  {
+    "from": 755.12,
+    "to": 756.25,
+    "sid": 317,
+    "location": 2,
+    "content": "大家可以搜一下",
+    "music": 0.0
+  },
+  {
+    "from": 756.25,
+    "to": 757.96,
+    "sid": 318,
+    "location": 2,
+    "content": "当然呢最后需要强调",
+    "music": 0.0
+  },
+  {
+    "from": 757.96,
+    "to": 760.14,
+    "sid": 319,
+    "location": 2,
+    "content": "这说的是理想的训练方法",
+    "music": 0.0
+  },
+  {
+    "from": 760.14,
+    "to": 761.88,
+    "sid": 320,
+    "location": 2,
+    "content": "具体要你自己去训练",
+    "music": 0.0
+  },
+  {
+    "from": 761.88,
+    "to": 762.84,
+    "sid": 321,
+    "location": 2,
+    "content": "一定要循序渐进",
+    "music": 0.0
+  },
+  {
+    "from": 762.84,
+    "to": 763.41,
+    "sid": 322,
+    "location": 2,
+    "content": "慢慢来",
+    "music": 0.0
+  },
+  {
+    "from": 763.41,
+    "to": 764.76,
+    "sid": 323,
+    "location": 2,
+    "content": "要注意训练安全",
+    "music": 0.0
+  },
+  {
+    "from": 764.76,
+    "to": 767.14,
+    "sid": 324,
+    "location": 2,
+    "content": "不要上来就上强度好",
+    "music": 0.0
+  },
+  {
+    "from": 767.14,
+    "to": 769.3,
+    "sid": 325,
+    "location": 2,
+    "content": "那中央因素还有一个总血量呢",
+    "music": 0.0
+  },
+  {
+    "from": 769.3,
+    "to": 770.74,
+    "sid": 326,
+    "location": 2,
+    "content": "这个总血量怎么训练呢",
+    "music": 0.0
+  },
+  {
+    "from": 770.74,
+    "to": 771.67,
+    "sid": 327,
+    "location": 2,
+    "content": "这个也很简单",
+    "music": 0.0
+  },
+  {
+    "from": 771.67,
+    "to": 773.06,
+    "sid": 328,
+    "location": 2,
+    "content": "我们直接给结论",
+    "music": 0.0
+  },
+  {
+    "from": 773.06,
+    "to": 777.5,
+    "sid": 329,
+    "location": 2,
+    "content": "pet和长时间的中等强度以上的强度的持续",
+    "music": 0.0
+  },
+  {
+    "from": 777.5,
+    "to": 779.75,
+    "sid": 330,
+    "location": 2,
+    "content": "有氧耐力训练就能提高总血量",
+    "music": 0.0
+  },
+  {
+    "from": 779.75,
+    "to": 780.579,
+    "sid": 331,
+    "location": 2,
+    "content": "我们看",
+    "music": 0.0
+  },
+  {
+    "from": 782.02,
+    "to": 783.81,
+    "sid": 332,
+    "location": 2,
+    "content": "因此高强度间歇训练",
+    "music": 0.0
+  },
+  {
+    "from": 783.81,
+    "to": 787.02,
+    "sid": 333,
+    "location": 2,
+    "content": "就是hit和长时间持续性的耐力训练",
+    "music": 0.0
+  },
+  {
+    "from": 787.02,
+    "to": 789.26,
+    "sid": 334,
+    "location": 2,
+    "content": "均能让血浆量有所增加",
+    "music": 0.0
+  },
+  {
+    "from": 789.54,
+    "to": 791.94,
+    "sid": 335,
+    "location": 2,
+    "content": "好最后呢大家再看一遍这个逻辑",
+    "music": 0.0
+  },
+  {
+    "from": 791.94,
+    "to": 793.05,
+    "sid": 336,
+    "location": 2,
+    "content": "耐力训练的逻辑",
+    "music": 0.0
+  },
+  {
+    "from": 793.05,
+    "to": 795.87,
+    "sid": 337,
+    "location": 2,
+    "content": "在中央部分最终指向的训练方法",
+    "music": 0.0
+  },
+  {
+    "from": 795.87,
+    "to": 798.29,
+    "sid": 338,
+    "location": 2,
+    "content": "就是一个70%到75%",
+    "music": 0.0
+  },
+  {
+    "from": 798.29,
+    "to": 799.94,
+    "sid": 339,
+    "location": 2,
+    "content": "最大摄氧量的训练方法",
+    "music": 0.0
+  },
+  {
+    "from": 799.94,
+    "to": 804.46,
+    "sid": 340,
+    "location": 2,
+    "content": "有氧耐力训练持续时间越长越好好",
+    "music": 0.0
+  },
+  {
+    "from": 804.46,
+    "to": 807.1,
+    "sid": 341,
+    "location": 2,
+    "content": "然后我们来看耐力训练的外周肌肉因素",
+    "music": 0.0
+  },
+  {
+    "from": 807.1,
+    "to": 809.47,
+    "sid": 342,
+    "location": 2,
+    "content": "也就是有氧能力的肌肉方面的因素",
+    "music": 0.0
+  },
+  {
+    "from": 809.47,
+    "to": 810.61,
+    "sid": 343,
+    "location": 2,
+    "content": "肌肉方面的因素",
+    "music": 0.0
+  },
+  {
+    "from": 810.61,
+    "to": 811.39,
+    "sid": 344,
+    "location": 2,
+    "content": "我们刚才讲了",
+    "music": 0.0
+  },
+  {
+    "from": 811.39,
+    "to": 814.62,
+    "sid": 345,
+    "location": 2,
+    "content": "说到底就是看肌肉利用氧气的能力",
+    "music": 0.0
+  },
+  {
+    "from": 814.62,
+    "to": 816.48,
+    "sid": 346,
+    "location": 2,
+    "content": "你的心脏的能力很强",
+    "music": 0.0
+  },
+  {
+    "from": 816.48,
+    "to": 818.1,
+    "sid": 347,
+    "location": 2,
+    "content": "能给肌肉提供大量氧气",
+    "music": 0.0
+  },
+  {
+    "from": 818.1,
+    "to": 819.72,
+    "sid": 348,
+    "location": 2,
+    "content": "但是肌肉如果利用不了",
+    "music": 0.0
+  },
+  {
+    "from": 819.72,
+    "to": 820.76,
+    "sid": 349,
+    "location": 2,
+    "content": "那也是白搭",
+    "music": 0.0
+  },
+  {
+    "from": 820.78,
+    "to": 824.62,
+    "sid": 350,
+    "location": 2,
+    "content": "那怎么才能让肌肉利用更多氧气产生能量呢",
+    "music": 0.0
+  },
+  {
+    "from": 824.62,
+    "to": 826.15,
+    "sid": 351,
+    "location": 2,
+    "content": "有这么几个方面的因素",
+    "music": 0.0
+  },
+  {
+    "from": 826.15,
+    "to": 827.5,
+    "sid": 352,
+    "location": 2,
+    "content": "我们捡重要的说",
+    "music": 0.0
+  },
+  {
+    "from": 827.5,
+    "to": 830.46,
+    "sid": 353,
+    "location": 2,
+    "content": "我们看这是有氧耐力的肌肉的适应",
+    "music": 0.0
+  },
+  {
+    "from": 830.46,
+    "to": 834.6,
+    "sid": 354,
+    "location": 2,
+    "content": "首先有氧训练的最重要的适应之一",
+    "music": 0.0
+  },
+  {
+    "from": 834.6,
+    "to": 838.35,
+    "sid": 355,
+    "location": 2,
+    "content": "是增加每一根肌纤维周围的毛细血管的数量",
+    "music": 0.0
+  },
+  {
+    "from": 838.35,
+    "to": 839.959,
+    "sid": 356,
+    "location": 2,
+    "content": "毛细血管数量",
+    "music": 0.0
+  },
+  {
+    "from": 840.06,
+    "to": 841.92,
+    "sid": 357,
+    "location": 2,
+    "content": "毛细血管的密度如果提高",
+    "music": 0.0
+  },
+  {
+    "from": 841.92,
+    "to": 843.3,
+    "sid": 358,
+    "location": 2,
+    "content": "那进入肌肉的血液",
+    "music": 0.0
+  },
+  {
+    "from": 843.3,
+    "to": 845.87,
+    "sid": 359,
+    "location": 2,
+    "content": "就能更好地输送到每一根肌纤维里",
+    "music": 0.0
+  },
+  {
+    "from": 845.87,
+    "to": 849.17,
+    "sid": 360,
+    "location": 2,
+    "content": "给肌纤维提供更多氧气能量的供应",
+    "music": 0.0
+  },
+  {
+    "from": 849.17,
+    "to": 851.62,
+    "sid": 361,
+    "location": 2,
+    "content": "当然代谢产物呢也能更好的排出去",
+    "music": 0.0
+  },
+  {
+    "from": 851.62,
+    "to": 854.839,
+    "sid": 362,
+    "location": 2,
+    "content": "这样就有利于提升肌肉的有氧运动能力",
+    "music": 0.0
+  },
+  {
+    "from": 855.3,
+    "to": 857.4,
+    "sid": 363,
+    "location": 2,
+    "content": "另外呢线粒体功能",
+    "music": 0.0
+  },
+  {
+    "from": 857.4,
+    "to": 860.6,
+    "sid": 364,
+    "location": 2,
+    "content": "我们看有氧氧化能力的产生",
+    "music": 0.0
+  },
+  {
+    "from": 860.6,
+    "to": 862.31,
+    "sid": 365,
+    "location": 2,
+    "content": "是在线粒体中进行的",
+    "music": 0.0
+  },
+  {
+    "from": 862.31,
+    "to": 866.16,
+    "sid": 366,
+    "location": 2,
+    "content": "无疑的有氧训练也会导致线粒体功能的改变",
+    "music": 0.0
+  },
+  {
+    "from": 866.16,
+    "to": 869.42,
+    "sid": 367,
+    "location": 2,
+    "content": "也就是促进肌肉制造ATP的能力",
+    "music": 0.0
+  },
+  {
+    "from": 869.64,
+    "to": 872.88,
+    "sid": 368,
+    "location": 2,
+    "content": "我们肌肉在有氧代谢产生能力的地方呢",
+    "music": 0.0
+  },
+  {
+    "from": 872.88,
+    "to": 874.95,
+    "sid": 369,
+    "location": 2,
+    "content": "就是肌肉细胞的线粒体力",
+    "music": 0.0
+  },
+  {
+    "from": 874.95,
+    "to": 877.95,
+    "sid": 370,
+    "location": 2,
+    "content": "所以呢线粒体可以说是有氧能力的马达",
+    "music": 0.0
+  },
+  {
+    "from": 877.95,
+    "to": 880.16,
+    "sid": 371,
+    "location": 2,
+    "content": "那对有氧能力当然很重要",
+    "music": 0.0
+  },
+  {
+    "from": 880.62,
+    "to": 882.6,
+    "sid": 372,
+    "location": 2,
+    "content": "我们看有一篇研究",
+    "music": 0.0
+  },
+  {
+    "from": 882.6,
+    "to": 884.88,
+    "sid": 373,
+    "location": 2,
+    "content": "以大鼠进行27周的耐力训练",
+    "music": 0.0
+  },
+  {
+    "from": 884.88,
+    "to": 888.319,
+    "sid": 374,
+    "location": 2,
+    "content": "结果发现线粒体的实际数量增加了15%",
+    "music": 0.0
+  },
+  {
+    "from": 888.319,
+    "to": 889.699,
+    "sid": 375,
+    "location": 2,
+    "content": "在整个训练区间",
+    "music": 0.0
+  },
+  {
+    "from": 889.699,
+    "to": 893.069,
+    "sid": 376,
+    "location": 2,
+    "content": "线粒体的平均体积也增加了大概35%",
+    "music": 0.0
+  },
+  {
+    "from": 893.069,
+    "to": 896.459,
+    "sid": 377,
+    "location": 2,
+    "content": "这个呢虽然是一篇动物研究",
+    "music": 0.0
+  },
+  {
+    "from": 896.459,
+    "to": 898.64,
+    "sid": 378,
+    "location": 2,
+    "content": "但是呢结论方面是有共识的",
+    "music": 0.0
+  },
+  {
+    "from": 898.64,
+    "to": 900.77,
+    "sid": 379,
+    "location": 2,
+    "content": "这就是有氧训练的典型反应",
+    "music": 0.0
+  },
+  {
+    "from": 900.77,
+    "to": 903.23,
+    "sid": 380,
+    "location": 2,
+    "content": "就是线粒体体积密度增加",
+    "music": 0.0
+  },
+  {
+    "from": 903.23,
+    "to": 904.4,
+    "sid": 381,
+    "location": 2,
+    "content": "线粒体更多",
+    "music": 0.0
+  },
+  {
+    "from": 904.4,
+    "to": 905.39,
+    "sid": 382,
+    "location": 2,
+    "content": "线粒体更大",
+    "music": 0.0
+  },
+  {
+    "from": 905.39,
+    "to": 907.439,
+    "sid": 383,
+    "location": 2,
+    "content": "这样呢能提高有氧耐力",
+    "music": 0.0
+  },
+  {
+    "from": 907.64,
+    "to": 910.579,
+    "sid": 384,
+    "location": 2,
+    "content": "还有呢就是有氧氧化酶的变化",
+    "music": 0.0
+  },
+  {
+    "from": 911.44,
+    "to": 912.6,
+    "sid": 385,
+    "location": 2,
+    "content": "氧化酵素",
+    "music": 0.0
+  },
+  {
+    "from": 912.6,
+    "to": 914.97,
+    "sid": 386,
+    "location": 2,
+    "content": "台湾的书呢酵素就是酶",
+    "music": 0.0
+  },
+  {
+    "from": 914.97,
+    "to": 918.63,
+    "sid": 387,
+    "location": 2,
+    "content": "有氧氧化酶是催化有氧代谢用的",
+    "music": 0.0
+  },
+  {
+    "from": 918.63,
+    "to": 921.42,
+    "sid": 388,
+    "location": 2,
+    "content": "相当于有氧能力的启动剂和助燃剂",
+    "music": 0.0
+  },
+  {
+    "from": 921.42,
+    "to": 922.95,
+    "sid": 389,
+    "location": 2,
+    "content": "当然也非常重要",
+    "music": 0.0
+  },
+  {
+    "from": 922.95,
+    "to": 925.56,
+    "sid": 390,
+    "location": 2,
+    "content": "我们看图11杠11",
+    "music": 0.0
+  },
+  {
+    "from": 925.56,
+    "to": 928.5,
+    "sid": 391,
+    "location": 2,
+    "content": "这是普通人慢跑爱好者",
+    "music": 0.0
+  },
+  {
+    "from": 928.5,
+    "to": 930.27,
+    "sid": 392,
+    "location": 2,
+    "content": "马拉松选手三类人群",
+    "music": 0.0
+  },
+  {
+    "from": 930.27,
+    "to": 932.91,
+    "sid": 393,
+    "location": 2,
+    "content": "他们两种最重要的有氧化酶",
+    "music": 0.0
+  },
+  {
+    "from": 932.91,
+    "to": 936.42,
+    "sid": 394,
+    "location": 2,
+    "content": "琥珀酸脱氢酶和柠檬酸合成酶的活性",
+    "music": 0.0
+  },
+  {
+    "from": 936.54,
+    "to": 937.71,
+    "sid": 395,
+    "location": 2,
+    "content": "很显然",
+    "music": 0.0
+  },
+  {
+    "from": 937.71,
+    "to": 939.57,
+    "sid": 396,
+    "location": 2,
+    "content": "有氧能力越强的人",
+    "music": 0.0
+  },
+  {
+    "from": 939.57,
+    "to": 942.859,
+    "sid": 397,
+    "location": 2,
+    "content": "重要的有氧氧化酶的活性也就越高",
+    "music": 0.0
+  },
+  {
+    "from": 943.6,
+    "to": 947.31,
+    "sid": 398,
+    "location": 2,
+    "content": "所以呢耐力有氧训练的肌肉外周因素呢",
+    "music": 0.0
+  },
+  {
+    "from": 947.31,
+    "to": 950.62,
+    "sid": 399,
+    "location": 2,
+    "content": "就是希望促使肌肉发生这些",
+    "music": 0.0
+  },
+  {
+    "from": 950.62,
+    "to": 953.71,
+    "sid": 400,
+    "location": 2,
+    "content": "能够让肌肉提升有氧能力的变化",
+    "music": 0.0
+  },
+  {
+    "from": 953.71,
+    "to": 957.319,
+    "sid": 401,
+    "location": 2,
+    "content": "这些变化就是毛细血管密度增大",
+    "music": 0.0
+  },
+  {
+    "from": 958.12,
+    "to": 960.12,
+    "sid": 402,
+    "location": 2,
+    "content": "线粒体的体积和密度增加",
+    "music": 0.0
+  },
+  {
+    "from": 961.38,
+    "to": 963.76,
+    "sid": 403,
+    "location": 2,
+    "content": "有氧氧化酶的活性增加",
+    "music": 0.0
+  },
+  {
+    "from": 963.82,
+    "to": 964.72,
+    "sid": 404,
+    "location": 2,
+    "content": "这样呢",
+    "music": 0.0
+  },
+  {
+    "from": 964.72,
+    "to": 970.24,
+    "sid": 405,
+    "location": 2,
+    "content": "肌肉就能提升更多的摄取氧气和通过氧化",
+    "music": 0.0
+  },
+  {
+    "from": 970.24,
+    "to": 971.9,
+    "sid": 406,
+    "location": 2,
+    "content": "提供ATP的能力",
+    "music": 0.0
+  },
+  {
+    "from": 972.08,
+    "to": 974.42,
+    "sid": 407,
+    "location": 2,
+    "content": "那怎么来提高肌肉的这些能力呢",
+    "music": 0.0
+  },
+  {
+    "from": 974.42,
+    "to": 975.219,
+    "sid": 408,
+    "location": 2,
+    "content": "我们看",
+    "music": 0.0
+  },
+  {
+    "from": 977.78,
+    "to": 979.96,
+    "sid": 409,
+    "location": 2,
+    "content": "与大多数中央因素不同的是",
+    "music": 0.0
+  },
+  {
+    "from": 979.96,
+    "to": 981.94,
+    "sid": 410,
+    "location": 2,
+    "content": "Y轴因素需要高强度运动刺激",
+    "music": 0.0
+  },
+  {
+    "from": 981.94,
+    "to": 984.22,
+    "sid": 411,
+    "location": 2,
+    "content": "才能使肌肉水平发生视频的反应",
+    "music": 0.0
+  },
+  {
+    "from": 984.22,
+    "to": 986.48,
+    "sid": 412,
+    "location": 2,
+    "content": "需要高强度刺激",
+    "music": 0.0
+  },
+  {
+    "from": 986.48,
+    "to": 988.64,
+    "sid": 413,
+    "location": 2,
+    "content": "时间也是一个重要的因素",
+    "music": 0.0
+  },
+  {
+    "from": 988.76,
+    "to": 992.06,
+    "sid": 414,
+    "location": 2,
+    "content": "所以最有效的训练方式是间歇性的重复",
+    "music": 0.0
+  },
+  {
+    "from": 992.06,
+    "to": 994.75,
+    "sid": 415,
+    "location": 2,
+    "content": "进行100%最大摄氧量强度的运动",
+    "music": 0.0
+  },
+  {
+    "from": 994.75,
+    "to": 998.32,
+    "sid": 416,
+    "location": 2,
+    "content": "所以呢提高这些因素方法也很统一",
+    "music": 0.0
+  },
+  {
+    "from": 998.32,
+    "to": 1000.75,
+    "sid": 417,
+    "location": 2,
+    "content": "就是高强度间歇性运动",
+    "music": 0.0
+  },
+  {
+    "from": 1000.75,
+    "to": 1003.88,
+    "sid": 418,
+    "location": 2,
+    "content": "高强度的部分能达到100%最大摄氧量",
+    "music": 0.0
+  },
+  {
+    "from": 1003.88,
+    "to": 1005.14,
+    "sid": 419,
+    "location": 2,
+    "content": "强度再高的话",
+    "music": 0.0
+  },
+  {
+    "from": 1005.14,
+    "to": 1006.07,
+    "sid": 420,
+    "location": 2,
+    "content": "意义也不大了",
+    "music": 0.0
+  },
+  {
+    "from": 1006.07,
+    "to": 1008.26,
+    "sid": 421,
+    "location": 2,
+    "content": "不能够更好的提高这些能力",
+    "music": 0.0
+  },
+  {
+    "from": 1008.26,
+    "to": 1009.73,
+    "sid": 422,
+    "location": 2,
+    "content": "但是因为强度高了",
+    "music": 0.0
+  },
+  {
+    "from": 1009.73,
+    "to": 1011.74,
+    "sid": 423,
+    "location": 2,
+    "content": "人耐受训练的效果偏差",
+    "music": 0.0
+  },
+  {
+    "from": 1011.74,
+    "to": 1014.26,
+    "sid": 424,
+    "location": 2,
+    "content": "整体有效的训练时间就变短了",
+    "music": 0.0
+  },
+  {
+    "from": 1015.88,
+    "to": 1016.97,
+    "sid": 425,
+    "location": 2,
+    "content": "综上所述",
+    "music": 0.0
+  },
+  {
+    "from": 1016.97,
+    "to": 1020.39,
+    "sid": 426,
+    "location": 2,
+    "content": "100%最大摄氧量的强度的间歇性训练",
+    "music": 0.0
+  },
+  {
+    "from": 1020.39,
+    "to": 1023.51,
+    "sid": 427,
+    "location": 2,
+    "content": "是刺激线粒体有氧氧化酶适应性变化",
+    "music": 0.0
+  },
+  {
+    "from": 1023.51,
+    "to": 1023.93,
+    "sid": 428,
+    "location": 2,
+    "content": "以及",
+    "music": 0.0
+  },
+  {
+    "from": 1023.93,
+    "to": 1027.339,
+    "sid": 429,
+    "location": 2,
+    "content": "增加肌肉毛细血管密度的最有效的训练方式",
+    "music": 0.0
+  },
+  {
+    "from": 1027.5,
+    "to": 1029.81,
+    "sid": 430,
+    "location": 2,
+    "content": "该强度下运动两到3分钟后",
+    "music": 0.0
+  },
+  {
+    "from": 1029.81,
+    "to": 1031.61,
+    "sid": 431,
+    "location": 2,
+    "content": "间歇两到3分钟的恢复",
+    "music": 0.0
+  },
+  {
+    "from": 1031.61,
+    "to": 1032.6,
+    "sid": 432,
+    "location": 2,
+    "content": "如此重复",
+    "music": 0.0
+  },
+  {
+    "from": 1032.6,
+    "to": 1035.899,
+    "sid": 433,
+    "location": 2,
+    "content": "可以有效的延长刺激的总时间",
+    "music": 0.0
+  },
+  {
+    "from": 1036.34,
+    "to": 1039.46,
+    "sid": 434,
+    "location": 2,
+    "content": "那么100%最大摄氧量的强度是多大呢",
+    "music": 0.0
+  },
+  {
+    "from": 1039.46,
+    "to": 1040.9,
+    "sid": 435,
+    "location": 2,
+    "content": "用心率来衡量",
+    "music": 0.0
+  },
+  {
+    "from": 1040.9,
+    "to": 1042.41,
+    "sid": 436,
+    "location": 2,
+    "content": "就是你的最大心率",
+    "music": 0.0
+  },
+  {
+    "from": 1042.41,
+    "to": 1045.05,
+    "sid": 437,
+    "location": 2,
+    "content": "所以呢训练Y轴肌肉耐力",
+    "music": 0.0
+  },
+  {
+    "from": 1045.05,
+    "to": 1049.82,
+    "sid": 438,
+    "location": 2,
+    "content": "最有效的方法就是用你的最大心率来做heat",
+    "music": 0.0
+  },
+  {
+    "from": 1050.36,
+    "to": 1053.79,
+    "sid": 439,
+    "location": 2,
+    "content": "最大心率运动两到3分钟之后呢",
+    "music": 0.0
+  },
+  {
+    "from": 1053.79,
+    "to": 1055.26,
+    "sid": 440,
+    "location": 2,
+    "content": "低强度运动几分钟",
+    "music": 0.0
+  },
+  {
+    "from": 1055.26,
+    "to": 1057.02,
+    "sid": 441,
+    "location": 2,
+    "content": "让你的心率再降下来",
+    "music": 0.0
+  },
+  {
+    "from": 1057.02,
+    "to": 1058.34,
+    "sid": 442,
+    "location": 2,
+    "content": "降到什么程度呢",
+    "music": 0.0
+  },
+  {
+    "from": 1058.34,
+    "to": 1060.29,
+    "sid": 443,
+    "location": 2,
+    "content": "要低于60%",
+    "music": 0.0
+  },
+  {
+    "from": 1060.29,
+    "to": 1061.07,
+    "sid": 444,
+    "location": 2,
+    "content": "最大心率",
+    "music": 0.0
+  },
+  {
+    "from": 1061.07,
+    "to": 1062.4,
+    "sid": 445,
+    "location": 2,
+    "content": "大家记住这个数据",
+    "music": 0.0
+  },
+  {
+    "from": 1062.4,
+    "to": 1064.77,
+    "sid": 446,
+    "location": 2,
+    "content": "然后呢再做高强度的训练",
+    "music": 0.0
+  },
+  {
+    "from": 1064.77,
+    "to": 1065.7,
+    "sid": 447,
+    "location": 2,
+    "content": "提高心率",
+    "music": 0.0
+  },
+  {
+    "from": 1065.7,
+    "to": 1067.659,
+    "sid": 448,
+    "location": 2,
+    "content": "这样循环的练几轮",
+    "music": 0.0
+  },
+  {
+    "from": 1067.88,
+    "to": 1070.46,
+    "sid": 449,
+    "location": 2,
+    "content": "至于每次训练具体训练多少轮",
+    "music": 0.0
+  },
+  {
+    "from": 1070.46,
+    "to": 1071.84,
+    "sid": 450,
+    "location": 2,
+    "content": "每周训练多少次",
+    "music": 0.0
+  },
+  {
+    "from": 1071.84,
+    "to": 1074.93,
+    "sid": 451,
+    "location": 2,
+    "content": "取决于你的耐受能力和你的肌肉恢复程度",
+    "music": 0.0
+  },
+  {
+    "from": 1074.93,
+    "to": 1077.139,
+    "sid": 452,
+    "location": 2,
+    "content": "还有你的鸡汤圆的恢复期",
+    "music": 0.0
+  },
+  {
+    "from": 1077.2,
+    "to": 1079.06,
+    "sid": 453,
+    "location": 2,
+    "content": "总的训练量如果太大",
+    "music": 0.0
+  },
+  {
+    "from": 1079.06,
+    "to": 1080.96,
+    "sid": 454,
+    "location": 2,
+    "content": "可能会出现过度训练",
+    "music": 0.0
+  },
+  {
+    "from": 1080.96,
+    "to": 1083.66,
+    "sid": 455,
+    "location": 2,
+    "content": "而且因为这种训练的肌糖原消耗非常大",
+    "music": 0.0
+  },
+  {
+    "from": 1083.66,
+    "to": 1086.95,
+    "sid": 456,
+    "location": 2,
+    "content": "所以呢如果你上次训练鸡汤圆还没恢复",
+    "music": 0.0
+  },
+  {
+    "from": 1086.95,
+    "to": 1088.24,
+    "sid": 457,
+    "location": 2,
+    "content": "又安排了一次训练",
+    "music": 0.0
+  },
+  {
+    "from": 1088.24,
+    "to": 1089.29,
+    "sid": 458,
+    "location": 2,
+    "content": "训练频率太高",
+    "music": 0.0
+  },
+  {
+    "from": 1089.29,
+    "to": 1091.26,
+    "sid": 459,
+    "location": 2,
+    "content": "那训练效果就会受影响",
+    "music": 0.0
+  },
+  {
+    "from": 1091.5,
+    "to": 1094.35,
+    "sid": 460,
+    "location": 2,
+    "content": "好我再梳理一下今天讲的逻辑",
+    "music": 0.0
+  },
+  {
+    "from": 1094.35,
+    "to": 1098.01,
+    "sid": 461,
+    "location": 2,
+    "content": "有氧耐力包括中央心肺因素和外周肌肉因素",
+    "music": 0.0
+  },
+  {
+    "from": 1098.01,
+    "to": 1100.86,
+    "sid": 462,
+    "location": 2,
+    "content": "而中央心肺因素最核心的是美国输出量",
+    "music": 0.0
+  },
+  {
+    "from": 1100.86,
+    "to": 1102.26,
+    "sid": 463,
+    "location": 2,
+    "content": "还有总血容量",
+    "music": 0.0
+  },
+  {
+    "from": 1102.26,
+    "to": 1106.79,
+    "sid": 464,
+    "location": 2,
+    "content": "美波输出量的核心因素是心智容积和新式货币",
+    "music": 0.0
+  },
+  {
+    "from": 1106.79,
+    "to": 1108.28,
+    "sid": 465,
+    "location": 2,
+    "content": "新视频的厚度",
+    "music": 0.0
+  },
+  {
+    "from": 1108.28,
+    "to": 1111.4,
+    "sid": 466,
+    "location": 2,
+    "content": "那么怎么训练新式容积和新势壁的厚度呢",
+    "music": 0.0
+  },
+  {
+    "from": 1111.4,
+    "to": 1113.26,
+    "sid": 467,
+    "location": 2,
+    "content": "就是用70%到75%",
+    "music": 0.0
+  },
+  {
+    "from": 1113.26,
+    "to": 1116.67,
+    "sid": 468,
+    "location": 2,
+    "content": "最大摄氧量的强度的持续性耐力训练",
+    "music": 0.0
+  },
+  {
+    "from": 1116.67,
+    "to": 1118.7,
+    "sid": 469,
+    "location": 2,
+    "content": "总的时间越长越好",
+    "music": 0.0
+  },
+  {
+    "from": 1118.82,
+    "to": 1121.04,
+    "sid": 470,
+    "location": 2,
+    "content": "那么怎么训练总血容量呢",
+    "music": 0.0
+  },
+  {
+    "from": 1121.04,
+    "to": 1123.86,
+    "sid": 471,
+    "location": 2,
+    "content": "是用heat和持续性的有氧训练",
+    "music": 0.0
+  },
+  {
+    "from": 1123.86,
+    "to": 1126.26,
+    "sid": 472,
+    "location": 2,
+    "content": "强度要在中等或者中等以上",
+    "music": 0.0
+  },
+  {
+    "from": 1126.68,
+    "to": 1128.36,
+    "sid": 473,
+    "location": 2,
+    "content": "内外周因素怎么训练",
+    "music": 0.0
+  },
+  {
+    "from": 1128.36,
+    "to": 1130.4,
+    "sid": 474,
+    "location": 2,
+    "content": "内外周因素改变呢",
+    "music": 0.0
+  },
+  {
+    "from": 1130.4,
+    "to": 1132.14,
+    "sid": 475,
+    "location": 2,
+    "content": "重要是毛细血管密度",
+    "music": 0.0
+  },
+  {
+    "from": 1132.14,
+    "to": 1133.58,
+    "sid": 476,
+    "location": 2,
+    "content": "心率的体积和数量",
+    "music": 0.0
+  },
+  {
+    "from": 1133.58,
+    "to": 1136.5,
+    "sid": 477,
+    "location": 2,
+    "content": "还有有氧氧化酶的活性提高",
+    "music": 0.0
+  },
+  {
+    "from": 1136.5,
+    "to": 1138.54,
+    "sid": 478,
+    "location": 2,
+    "content": "他们三者的方法都是一样的",
+    "music": 0.0
+  },
+  {
+    "from": 1138.54,
+    "to": 1140.25,
+    "sid": 479,
+    "location": 2,
+    "content": "就是高强度接轻易运动",
+    "music": 0.0
+  },
+  {
+    "from": 1140.25,
+    "to": 1142.2,
+    "sid": 480,
+    "location": 2,
+    "content": "最大强度要达到100%",
+    "music": 0.0
+  },
+  {
+    "from": 1142.2,
+    "to": 1144.3,
+    "sid": 481,
+    "location": 2,
+    "content": "最大摄氧量好",
+    "music": 0.0
+  },
+  {
+    "from": 1144.3,
+    "to": 1145.92,
+    "sid": 482,
+    "location": 2,
+    "content": "我们现在把肌肉的耐力",
+    "music": 0.0
+  },
+  {
+    "from": 1145.92,
+    "to": 1148.26,
+    "sid": 483,
+    "location": 2,
+    "content": "能力的底层逻辑和核心的训练方法",
+    "music": 0.0
+  },
+  {
+    "from": 1148.26,
+    "to": 1150.28,
+    "sid": 484,
+    "location": 2,
+    "content": "都尽量的通俗易懂地讲了一遍",
+    "music": 0.0
+  },
+  {
+    "from": 1150.28,
+    "to": 1151.86,
+    "sid": 485,
+    "location": 2,
+    "content": "但是大家能看到",
+    "music": 0.0
+  },
+  {
+    "from": 1151.86,
+    "to": 1155.04,
+    "sid": 486,
+    "location": 2,
+    "content": "耐力训练的中央因素和Y轴因素",
+    "music": 0.0
+  },
+  {
+    "from": 1155.04,
+    "to": 1157.61,
+    "sid": 487,
+    "location": 2,
+    "content": "他的训练方式是不完全一样的",
+    "music": 0.0
+  },
+  {
+    "from": 1157.61,
+    "to": 1159.71,
+    "sid": 488,
+    "location": 2,
+    "content": "主要的手段有70%到70",
+    "music": 0.0
+  },
+  {
+    "from": 1159.71,
+    "to": 1161.42,
+    "sid": 489,
+    "location": 2,
+    "content": "最大摄氧量的耐力训练",
+    "music": 0.0
+  },
+  {
+    "from": 1161.42,
+    "to": 1162.34,
+    "sid": 490,
+    "location": 2,
+    "content": "持续的",
+    "music": 0.0
+  },
+  {
+    "from": 1162.34,
+    "to": 1165.16,
+    "sid": 491,
+    "location": 2,
+    "content": "还有呢100%最大强度的高强度",
+    "music": 0.0
+  },
+  {
+    "from": 1165.16,
+    "to": 1166.31,
+    "sid": 492,
+    "location": 2,
+    "content": "间歇性训练",
+    "music": 0.0
+  },
+  {
+    "from": 1166.31,
+    "to": 1169.46,
+    "sid": 493,
+    "location": 2,
+    "content": "而且呢耐力训练的中央因素和外周因素",
+    "music": 0.0
+  },
+  {
+    "from": 1169.46,
+    "to": 1171.86,
+    "sid": 494,
+    "location": 2,
+    "content": "它见效的时间也不一样",
+    "music": 0.0
+  },
+  {
+    "from": 1171.86,
+    "to": 1173.93,
+    "sid": 495,
+    "location": 2,
+    "content": "外周因素见效一般更快",
+    "music": 0.0
+  },
+  {
+    "from": 1173.93,
+    "to": 1176.06,
+    "sid": 496,
+    "location": 2,
+    "content": "训练之后很快就能得到提高",
+    "music": 0.0
+  },
+  {
+    "from": 1176.06,
+    "to": 1178.62,
+    "sid": 497,
+    "location": 2,
+    "content": "但中央因素一般更慢一些",
+    "music": 0.0
+  },
+  {
+    "from": 1178.66,
+    "to": 1179.44,
+    "sid": 498,
+    "location": 2,
+    "content": "这样的话",
+    "music": 0.0
+  },
+  {
+    "from": 1179.44,
+    "to": 1182.72,
+    "sid": 499,
+    "location": 2,
+    "content": "这两种训练效果最终要在时间上能对得上才行",
+    "music": 0.0
+  },
+  {
+    "from": 1183.0,
+    "to": 1185.82,
+    "sid": 500,
+    "location": 2,
+    "content": "另外呢适当的做一些肌肉的力量训练",
+    "music": 0.0
+  },
+  {
+    "from": 1185.82,
+    "to": 1188.13,
+    "sid": 501,
+    "location": 2,
+    "content": "也能提高肌肉有氧耐力",
+    "music": 0.0
+  },
+  {
+    "from": 1188.13,
+    "to": 1189.2,
+    "sid": 502,
+    "location": 2,
+    "content": "我们来看",
+    "music": 0.0
+  },
+  {
+    "from": 1189.66,
+    "to": 1195.04,
+    "sid": 503,
+    "location": 2,
+    "content": "这是力量训练对后续耐力运动表现的直接影响",
+    "music": 0.0
+  },
+  {
+    "from": 1195.68,
+    "to": 1197.5,
+    "sid": 504,
+    "location": 2,
+    "content": "越来越多的文献表明",
+    "music": 0.0
+  },
+  {
+    "from": 1197.5,
+    "to": 1199.42,
+    "sid": 505,
+    "location": 2,
+    "content": "在渐进式耐力训练计划中",
+    "music": 0.0
+  },
+  {
+    "from": 1199.42,
+    "to": 1201.32,
+    "sid": 506,
+    "location": 2,
+    "content": "加入力量训练是有好处的",
+    "music": 0.0
+  },
+  {
+    "from": 1201.32,
+    "to": 1203.63,
+    "sid": 507,
+    "location": 2,
+    "content": "力量训练可以提高耐力水平",
+    "music": 0.0
+  },
+  {
+    "from": 1203.63,
+    "to": 1206.9,
+    "sid": 508,
+    "location": 2,
+    "content": "机制可能是肌纤维类型的目击发生变化",
+    "music": 0.0
+  },
+  {
+    "from": 1206.9,
+    "to": 1208.55,
+    "sid": 509,
+    "location": 2,
+    "content": "肌肉收缩力量增强",
+    "music": 0.0
+  },
+  {
+    "from": 1208.55,
+    "to": 1210.47,
+    "sid": 510,
+    "location": 2,
+    "content": "RX型肌纤维比例减少",
+    "music": 0.0
+  },
+  {
+    "from": 1210.47,
+    "to": 1212.99,
+    "sid": 511,
+    "location": 2,
+    "content": "以及肌肉表情像耐力疲",
+    "music": 0.0
+  },
+  {
+    "from": 1212.99,
+    "to": 1213.86,
+    "sid": 512,
+    "location": 2,
+    "content": "耐力疲劳",
+    "music": 0.0
+  },
+  {
+    "from": 1213.86,
+    "to": 1217.45,
+    "sid": 513,
+    "location": 2,
+    "content": "而且具有爆发力的性转变有好处",
+    "music": 0.0
+  },
+  {
+    "from": 1217.45,
+    "to": 1221.08,
+    "sid": 514,
+    "location": 2,
+    "content": "但是虽然教练员因被鼓励",
+    "music": 0.0
+  },
+  {
+    "from": 1221.08,
+    "to": 1223.03,
+    "sid": 515,
+    "location": 2,
+    "content": "对耐力运动员安排力量训练",
+    "music": 0.0
+  },
+  {
+    "from": 1223.03,
+    "to": 1225.16,
+    "sid": 516,
+    "location": 2,
+    "content": "但是如果每一种训练方式之间",
+    "music": 0.0
+  },
+  {
+    "from": 1225.16,
+    "to": 1227.22,
+    "sid": 517,
+    "location": 2,
+    "content": "没有安排合理的恢复期",
+    "music": 0.0
+  },
+  {
+    "from": 1227.3,
+    "to": 1231.44,
+    "sid": 518,
+    "location": 2,
+    "content": "那么力量训练则会导致疲劳的残余存在",
+    "music": 0.0
+  },
+  {
+    "from": 1231.44,
+    "to": 1234.5,
+    "sid": 519,
+    "location": 2,
+    "content": "并且随后对耐力训练中达到最佳运动表现",
+    "music": 0.0
+  },
+  {
+    "from": 1234.5,
+    "to": 1236.04,
+    "sid": 520,
+    "location": 2,
+    "content": "产生负面影响",
+    "music": 0.0
+  },
+  {
+    "from": 1236.16,
+    "to": 1239.85,
+    "sid": 521,
+    "location": 2,
+    "content": "所以说呢力量训练对耐力训练有好处",
+    "music": 0.0
+  },
+  {
+    "from": 1239.85,
+    "to": 1241.5,
+    "sid": 522,
+    "location": 2,
+    "content": "但是如果安排多了",
+    "music": 0.0
+  },
+  {
+    "from": 1241.5,
+    "to": 1242.7,
+    "sid": 523,
+    "location": 2,
+    "content": "安排的不合理",
+    "music": 0.0
+  },
+  {
+    "from": 1242.7,
+    "to": 1244.32,
+    "sid": 524,
+    "location": 2,
+    "content": "反而会起到反作用",
+    "music": 0.0
+  },
+  {
+    "from": 1244.78,
+    "to": 1247.3,
+    "sid": 525,
+    "location": 2,
+    "content": "那这么多这么复杂的训练方式",
+    "music": 0.0
+  },
+  {
+    "from": 1247.3,
+    "to": 1250.46,
+    "sid": 526,
+    "location": 2,
+    "content": "当然不可能同时训练身体无法恢复",
+    "music": 0.0
+  },
+  {
+    "from": 1250.46,
+    "to": 1253.91,
+    "sid": 527,
+    "location": 2,
+    "content": "这就涉及到一个周期性训练的问题",
+    "music": 0.0
+  },
+  {
+    "from": 1253.91,
+    "to": 1256.52,
+    "sid": 528,
+    "location": 2,
+    "content": "这几类训练都该怎么具体安排",
+    "music": 0.0
+  },
+  {
+    "from": 1256.52,
+    "to": 1258.35,
+    "sid": 529,
+    "location": 2,
+    "content": "各自的周期是什么",
+    "music": 0.0
+  },
+  {
+    "from": 1258.35,
+    "to": 1259.07,
+    "sid": 530,
+    "location": 2,
+    "content": "先练哪个",
+    "music": 0.0
+  },
+  {
+    "from": 1259.07,
+    "to": 1260.12,
+    "sid": 531,
+    "location": 2,
+    "content": "后练哪个",
+    "music": 0.0
+  },
+  {
+    "from": 1260.44,
+    "to": 1263.74,
+    "sid": 532,
+    "location": 2,
+    "content": "而且这个周期的安排呢又取决于你的训练目的",
+    "music": 0.0
+  },
+  {
+    "from": 1263.74,
+    "to": 1265.42,
+    "sid": 533,
+    "location": 2,
+    "content": "比如说如果你不比赛",
+    "music": 0.0
+  },
+  {
+    "from": 1265.42,
+    "to": 1266.47,
+    "sid": 534,
+    "location": 2,
+    "content": "那简单一些",
+    "music": 0.0
+  },
+  {
+    "from": 1266.47,
+    "to": 1268.57,
+    "sid": 535,
+    "location": 2,
+    "content": "但是如果你要参加比赛",
+    "music": 0.0
+  },
+  {
+    "from": 1268.57,
+    "to": 1271.21,
+    "sid": 536,
+    "location": 2,
+    "content": "比如你年底要比个马拉松",
+    "music": 0.0
+  },
+  {
+    "from": 1271.21,
+    "to": 1273.64,
+    "sid": 537,
+    "location": 2,
+    "content": "那你就必须让身体的有氧能力",
+    "music": 0.0
+  },
+  {
+    "from": 1273.64,
+    "to": 1276.34,
+    "sid": 538,
+    "location": 2,
+    "content": "在比赛的时候刚好达到最高",
+    "music": 0.0
+  },
+  {
+    "from": 1276.4,
+    "to": 1278.32,
+    "sid": 539,
+    "location": 2,
+    "content": "那么你从什么时候开始训练",
+    "music": 0.0
+  },
+  {
+    "from": 1278.32,
+    "to": 1280.81,
+    "sid": 540,
+    "location": 2,
+    "content": "怎么安排中央和外周训练的周期",
+    "music": 0.0
+  },
+  {
+    "from": 1280.81,
+    "to": 1282.4,
+    "sid": 541,
+    "location": 2,
+    "content": "怎么搭配力量训练",
+    "music": 0.0
+  },
+  {
+    "from": 1282.4,
+    "to": 1284.7,
+    "sid": 542,
+    "location": 2,
+    "content": "这个都有一套科学的方法",
+    "music": 0.0
+  },
+  {
+    "from": 1284.9,
+    "to": 1287.0,
+    "sid": 543,
+    "location": 2,
+    "content": "咱们这一期呢篇幅有限",
+    "music": 0.0
+  },
+  {
+    "from": 1287.0,
+    "to": 1289.28,
+    "sid": 544,
+    "location": 2,
+    "content": "对于耐力训练的具体安排和周期",
+    "music": 0.0
+  },
+  {
+    "from": 1289.28,
+    "to": 1290.3,
+    "sid": 545,
+    "location": 2,
+    "content": "训练方法呢",
+    "music": 0.0
+  },
+  {
+    "from": 1290.3,
+    "to": 1291.79,
+    "sid": 546,
+    "location": 2,
+    "content": "我们放到之后讲",
+    "music": 0.0
+  },
+  {
+    "from": 1291.79,
+    "to": 1294.97,
+    "sid": 547,
+    "location": 2,
+    "content": "如果说这一期内容大家比较感兴趣的话",
+    "music": 0.0
+  },
+  {
+    "from": 1294.97,
+    "to": 1296.23,
+    "sid": 548,
+    "location": 2,
+    "content": "一定多跟我互动",
+    "music": 0.0
+  },
+  {
+    "from": 1296.23,
+    "to": 1299.159,
+    "sid": 549,
+    "location": 2,
+    "content": "这样的话我如果看感兴趣的同学多",
+    "music": 0.0
+  },
+  {
+    "from": 1299.159,
+    "to": 1300.119,
+    "sid": 550,
+    "location": 2,
+    "content": "我就安排就讲",
+    "music": 0.0
+  },
+  {
+    "from": 1300.119,
+    "to": 1303.089,
+    "sid": 551,
+    "location": 2,
+    "content": "下一期讲讲耐力训练的周期训练",
+    "music": 0.0
+  },
+  {
+    "from": 1303.089,
+    "to": 1306.449,
+    "sid": 552,
+    "location": 2,
+    "content": "因为咱们的粉丝呢主要是讲力量训练的",
+    "music": 0.0
+  },
+  {
+    "from": 1306.449,
+    "to": 1307.079,
+    "sid": 553,
+    "location": 2,
+    "content": "耐力训练",
+    "music": 0.0
+  },
+  {
+    "from": 1307.079,
+    "to": 1308.36,
+    "sid": 554,
+    "location": 2,
+    "content": "粉丝可能不多",
+    "music": 0.0
+  },
+  {
+    "from": 1308.46,
+    "to": 1309.12,
+    "sid": 555,
+    "location": 2,
+    "content": "好了",
+    "music": 0.0
+  },
+  {
+    "from": 1309.12,
+    "to": 1310.41,
+    "sid": 556,
+    "location": 2,
+    "content": "我是仰望美纪云",
+    "music": 0.0
+  },
+  {
+    "from": 1310.41,
+    "to": 1311.34,
+    "sid": 557,
+    "location": 2,
+    "content": "我们下周再见",
+    "music": 0.0
+  }
+]

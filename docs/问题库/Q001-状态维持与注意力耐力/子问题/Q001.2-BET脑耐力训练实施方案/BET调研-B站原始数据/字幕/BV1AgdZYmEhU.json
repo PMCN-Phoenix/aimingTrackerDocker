@@ -1,0 +1,1026 @@
+[
+  {
+    "from": 0.3,
+    "to": 1.74,
+    "sid": 1,
+    "location": 2,
+    "content": "当我们打开教材的时候",
+    "music": 0.0
+  },
+  {
+    "from": 1.74,
+    "to": 4.3,
+    "sid": 2,
+    "location": 2,
+    "content": "我们常常被各种陌生的概念吓退",
+    "music": 0.0
+  },
+  {
+    "from": 4.3,
+    "to": 5.0,
+    "sid": 3,
+    "location": 2,
+    "content": "教材",
+    "music": 0.0
+  },
+  {
+    "from": 5.0,
+    "to": 8.1,
+    "sid": 4,
+    "location": 2,
+    "content": "经常用一个陌生的概念解释另一个陌生的概念",
+    "music": 0.0
+  },
+  {
+    "from": 8.1,
+    "to": 10.809,
+    "sid": 5,
+    "location": 2,
+    "content": "这给我们带来不少学习的负担",
+    "music": 0.0
+  },
+  {
+    "from": 10.809,
+    "to": 12.269,
+    "sid": 6,
+    "location": 2,
+    "content": "那么在AI时代",
+    "music": 0.0
+  },
+  {
+    "from": 12.269,
+    "to": 15.37,
+    "sid": 7,
+    "location": 2,
+    "content": "我们用什么方法可以学得更快更轻松",
+    "music": 0.0
+  },
+  {
+    "from": 15.37,
+    "to": 19.19,
+    "sid": 8,
+    "location": 2,
+    "content": "今天我们运用认知负荷理论的一个核心观点",
+    "music": 0.0
+  },
+  {
+    "from": 19.19,
+    "to": 20.99,
+    "sid": 9,
+    "location": 2,
+    "content": "加三个使用AI的技巧",
+    "music": 0.0
+  },
+  {
+    "from": 20.99,
+    "to": 24.32,
+    "sid": 10,
+    "location": 2,
+    "content": "帮我们更快更好地学习新的知识",
+    "music": 0.0
+  },
+  {
+    "from": 24.32,
+    "to": 27.27,
+    "sid": 11,
+    "location": 2,
+    "content": "认知负荷理论的一个核心观点是",
+    "music": 0.0
+  },
+  {
+    "from": 27.27,
+    "to": 28.31,
+    "sid": 12,
+    "location": 2,
+    "content": "人力的工作",
+    "music": 0.0
+  },
+  {
+    "from": 28.31,
+    "to": 29.61,
+    "sid": 13,
+    "location": 2,
+    "content": "记忆容量是有限的",
+    "music": 0.0
+  },
+  {
+    "from": 29.61,
+    "to": 33.34,
+    "sid": 14,
+    "location": 2,
+    "content": "通常我们只能处理5~9个信息单元",
+    "music": 0.0
+  },
+  {
+    "from": 33.34,
+    "to": 34.94,
+    "sid": 15,
+    "location": 2,
+    "content": "超过这么多信息单元时",
+    "music": 0.0
+  },
+  {
+    "from": 34.94,
+    "to": 37.0,
+    "sid": 16,
+    "location": 2,
+    "content": "我们就无法去理解",
+    "music": 0.0
+  },
+  {
+    "from": 37.36,
+    "to": 40.86,
+    "sid": 17,
+    "location": 2,
+    "content": "所以当你面对这十多个信息单元的时候",
+    "music": 0.0
+  },
+  {
+    "from": 40.86,
+    "to": 42.58,
+    "sid": 18,
+    "location": 2,
+    "content": "你无法同时去处理",
+    "music": 0.0
+  },
+  {
+    "from": 42.58,
+    "to": 47.1,
+    "sid": 19,
+    "location": 2,
+    "content": "你只能是关注其中的一部分去处理它",
+    "music": 0.0
+  },
+  {
+    "from": 48.19,
+    "to": 51.71,
+    "sid": 20,
+    "location": 2,
+    "content": "当正面如果只有一个未知的概念时",
+    "music": 0.0
+  },
+  {
+    "from": 51.71,
+    "to": 54.37,
+    "sid": 21,
+    "location": 2,
+    "content": "你可以用其他概念去解释这个未知概念",
+    "music": 0.0
+  },
+  {
+    "from": 54.37,
+    "to": 55.95,
+    "sid": 22,
+    "location": 2,
+    "content": "然后就产生了理解",
+    "music": 0.0
+  },
+  {
+    "from": 55.95,
+    "to": 59.17,
+    "sid": 23,
+    "location": 2,
+    "content": "但是当这个里面如果有多个概念",
+    "music": 0.0
+  },
+  {
+    "from": 59.17,
+    "to": 60.39,
+    "sid": 24,
+    "location": 2,
+    "content": "你不知道的时候",
+    "music": 0.0
+  },
+  {
+    "from": 60.39,
+    "to": 63.07,
+    "sid": 25,
+    "location": 2,
+    "content": "那么你就会产生很大的疑惑",
+    "music": 0.0
+  },
+  {
+    "from": 63.66,
+    "to": 66.94,
+    "sid": 26,
+    "location": 2,
+    "content": "然后你的头脑可能就会感觉信息量爆炸",
+    "music": 0.0
+  },
+  {
+    "from": 66.94,
+    "to": 69.18,
+    "sid": 27,
+    "location": 2,
+    "content": "无法接受现有的教材",
+    "music": 0.0
+  },
+  {
+    "from": 69.18,
+    "to": 71.229,
+    "sid": 28,
+    "location": 2,
+    "content": "一个比较大的问题是",
+    "music": 0.0
+  },
+  {
+    "from": 71.229,
+    "to": 73.789,
+    "sid": 29,
+    "location": 2,
+    "content": "他会在一个章节里面引入太多的",
+    "music": 0.0
+  },
+  {
+    "from": 73.789,
+    "to": 74.909,
+    "sid": 30,
+    "location": 2,
+    "content": "我们未知的概念",
+    "music": 0.0
+  },
+  {
+    "from": 74.909,
+    "to": 78.03,
+    "sid": 31,
+    "location": 2,
+    "content": "这使得我们的认知负荷变得极大",
+    "music": 0.0
+  },
+  {
+    "from": 78.15,
+    "to": 79.91,
+    "sid": 32,
+    "location": 2,
+    "content": "如果按照认知复合的理论",
+    "music": 0.0
+  },
+  {
+    "from": 79.91,
+    "to": 82.83,
+    "sid": 33,
+    "location": 2,
+    "content": "其实我们应该逐个去引入单一的",
+    "music": 0.0
+  },
+  {
+    "from": 82.83,
+    "to": 84.21,
+    "sid": 34,
+    "location": 2,
+    "content": "我们布置的概念",
+    "music": 0.0
+  },
+  {
+    "from": 84.21,
+    "to": 87.61,
+    "sid": 35,
+    "location": 2,
+    "content": "这样能减少我们的理解负担",
+    "music": 0.0
+  },
+  {
+    "from": 87.61,
+    "to": 91.81,
+    "sid": 36,
+    "location": 2,
+    "content": "这样一个接一个的去引入新的概念",
+    "music": 0.0
+  },
+  {
+    "from": 92.05,
+    "to": 95.28,
+    "sid": 37,
+    "location": 2,
+    "content": "使得我们整个的理解变得更加顺畅",
+    "music": 0.0
+  },
+  {
+    "from": 95.28,
+    "to": 96.48,
+    "sid": 38,
+    "location": 2,
+    "content": "然而不幸的是",
+    "music": 0.0
+  },
+  {
+    "from": 96.48,
+    "to": 99.08,
+    "sid": 39,
+    "location": 2,
+    "content": "我们现在的大多数教材的编写手法",
+    "music": 0.0
+  },
+  {
+    "from": 99.08,
+    "to": 101.62,
+    "sid": 40,
+    "location": 2,
+    "content": "是一个使用手册式的编写手法",
+    "music": 0.0
+  },
+  {
+    "from": 101.62,
+    "to": 102.98,
+    "sid": 41,
+    "location": 2,
+    "content": "它很全",
+    "music": 0.0
+  },
+  {
+    "from": 102.98,
+    "to": 104.82,
+    "sid": 42,
+    "location": 2,
+    "content": "概念也很多",
+    "music": 0.0
+  },
+  {
+    "from": 104.82,
+    "to": 107.46,
+    "sid": 43,
+    "location": 2,
+    "content": "但是它不符合我们的认知流程",
+    "music": 0.0
+  },
+  {
+    "from": 107.46,
+    "to": 111.36,
+    "sid": 44,
+    "location": 2,
+    "content": "这使得我们学起来变得异常的困难",
+    "music": 0.0
+  },
+  {
+    "from": 111.52,
+    "to": 112.76,
+    "sid": 45,
+    "location": 2,
+    "content": "有了AI之后",
+    "music": 0.0
+  },
+  {
+    "from": 112.76,
+    "to": 116.02,
+    "sid": 46,
+    "location": 2,
+    "content": "我们就可以用AI来写出简单易懂的教程",
+    "music": 0.0
+  },
+  {
+    "from": 116.02,
+    "to": 119.92,
+    "sid": 47,
+    "location": 2,
+    "content": "这里我让AI写一个认知负荷理论的教程",
+    "music": 0.0
+  },
+  {
+    "from": 119.92,
+    "to": 121.68,
+    "sid": 48,
+    "location": 2,
+    "content": "他会根据我的要求",
+    "music": 0.0
+  },
+  {
+    "from": 121.68,
+    "to": 123.6,
+    "sid": 49,
+    "location": 2,
+    "content": "采用简单易懂",
+    "music": 0.0
+  },
+  {
+    "from": 123.6,
+    "to": 128.24,
+    "sid": 50,
+    "location": 2,
+    "content": "多用生活化例子的语言风格来写这个教程",
+    "music": 0.0
+  },
+  {
+    "from": 128.85,
+    "to": 130.83,
+    "sid": 51,
+    "location": 2,
+    "content": "他先列出文章大纲",
+    "music": 0.0
+  },
+  {
+    "from": 130.83,
+    "to": 135.35,
+    "sid": 52,
+    "location": 2,
+    "content": "你可以看到他是根据高中生的实际需求来写",
+    "music": 0.0
+  },
+  {
+    "from": 135.35,
+    "to": 139.03,
+    "sid": 53,
+    "location": 2,
+    "content": "这个教程你还可以让他写一个",
+    "music": 0.0
+  },
+  {
+    "from": 139.03,
+    "to": 142.17,
+    "sid": 54,
+    "location": 2,
+    "content": "net点JS的编程入门教程",
+    "music": 0.0
+  },
+  {
+    "from": 143.099,
+    "to": 146.259,
+    "sid": 55,
+    "location": 2,
+    "content": "这个教程让你一步一步搭建环境",
+    "music": 0.0
+  },
+  {
+    "from": 146.259,
+    "to": 148.379,
+    "sid": 56,
+    "location": 2,
+    "content": "让你了解项目的目录结构",
+    "music": 0.0
+  },
+  {
+    "from": 149.699,
+    "to": 151.859,
+    "sid": 57,
+    "location": 2,
+    "content": "还有直接的代码示例",
+    "music": 0.0
+  },
+  {
+    "from": 152.31,
+    "to": 154.87,
+    "sid": 58,
+    "location": 2,
+    "content": "总之非常的简单易懂",
+    "music": 0.0
+  },
+  {
+    "from": 155.849,
+    "to": 159.049,
+    "sid": 59,
+    "location": 2,
+    "content": "当然你可以用它来解释哲学概念",
+    "music": 0.0
+  },
+  {
+    "from": 159.79,
+    "to": 161.69,
+    "sid": 60,
+    "location": 2,
+    "content": "比如恬淡虚无",
+    "music": 0.0
+  },
+  {
+    "from": 161.69,
+    "to": 162.69,
+    "sid": 61,
+    "location": 2,
+    "content": "精神内守",
+    "music": 0.0
+  },
+  {
+    "from": 162.69,
+    "to": 164.81,
+    "sid": 62,
+    "location": 2,
+    "content": "这个非常有趣的哲学概念",
+    "music": 0.0
+  },
+  {
+    "from": 164.81,
+    "to": 168.13,
+    "sid": 63,
+    "location": 2,
+    "content": "推荐大家也可以去了解一下",
+    "music": 0.0
+  },
+  {
+    "from": 168.25,
+    "to": 169.97,
+    "sid": 64,
+    "location": 2,
+    "content": "提示词的核心有两点",
+    "music": 0.0
+  },
+  {
+    "from": 169.97,
+    "to": 172.67,
+    "sid": 65,
+    "location": 2,
+    "content": "第一个是4万字的篇幅",
+    "music": 0.0
+  },
+  {
+    "from": 172.67,
+    "to": 175.39,
+    "sid": 66,
+    "location": 2,
+    "content": "这个篇幅可以是三到5万子",
+    "music": 0.0
+  },
+  {
+    "from": 175.39,
+    "to": 176.97,
+    "sid": 67,
+    "location": 2,
+    "content": "之所以要这么多文字",
+    "music": 0.0
+  },
+  {
+    "from": 176.97,
+    "to": 181.01,
+    "sid": 68,
+    "location": 2,
+    "content": "是为了让AI可以系统性的去介绍一个主题",
+    "music": 0.0
+  },
+  {
+    "from": 181.29,
+    "to": 184.97,
+    "sid": 69,
+    "location": 2,
+    "content": "同时因为他的语言要更加的详实",
+    "music": 0.0
+  },
+  {
+    "from": 184.97,
+    "to": 186.59,
+    "sid": 70,
+    "location": 2,
+    "content": "所以如果篇幅太少",
+    "music": 0.0
+  },
+  {
+    "from": 186.59,
+    "to": 187.41,
+    "sid": 71,
+    "location": 2,
+    "content": "只有1000字",
+    "music": 0.0
+  },
+  {
+    "from": 187.41,
+    "to": 189.73,
+    "sid": 72,
+    "location": 2,
+    "content": "那么他可能会用一个非常精炼的语言",
+    "music": 0.0
+  },
+  {
+    "from": 189.73,
+    "to": 190.67,
+    "sid": 73,
+    "location": 2,
+    "content": "来向你描述",
+    "music": 0.0
+  },
+  {
+    "from": 190.67,
+    "to": 193.99,
+    "sid": 74,
+    "location": 2,
+    "content": "这个时候可能不利于你的理解",
+    "music": 0.0
+  },
+  {
+    "from": 193.99,
+    "to": 196.01,
+    "sid": 75,
+    "location": 2,
+    "content": "第二个是在语言风格上",
+    "music": 0.0
+  },
+  {
+    "from": 196.01,
+    "to": 198.18,
+    "sid": 76,
+    "location": 2,
+    "content": "我们要求简单易懂",
+    "music": 0.0
+  },
+  {
+    "from": 198.18,
+    "to": 201.58,
+    "sid": 77,
+    "location": 2,
+    "content": "你可以约定用高中生或者初中生能懂",
+    "music": 0.0
+  },
+  {
+    "from": 201.58,
+    "to": 205.38,
+    "sid": 78,
+    "location": 2,
+    "content": "根据你的具体情况来做详细的要求",
+    "music": 0.0
+  },
+  {
+    "from": 205.539,
+    "to": 206.979,
+    "sid": 79,
+    "location": 2,
+    "content": "在模型选择上",
+    "music": 0.0
+  },
+  {
+    "from": 206.979,
+    "to": 210.619,
+    "sid": 80,
+    "location": 2,
+    "content": "我推荐GEMINI的20年的flash thinking",
+    "music": 0.0
+  },
+  {
+    "from": 210.619,
+    "to": 213.699,
+    "sid": 81,
+    "location": 2,
+    "content": "他的语言比较通俗易懂",
+    "music": 0.0
+  },
+  {
+    "from": 214.2,
+    "to": 217.55,
+    "sid": 82,
+    "location": 2,
+    "content": "这里也可以使用豆包等一些其他的模型",
+    "music": 0.0
+  },
+  {
+    "from": 217.55,
+    "to": 219.35,
+    "sid": 83,
+    "location": 2,
+    "content": "我对比多个模型",
+    "music": 0.0
+  },
+  {
+    "from": 219.35,
+    "to": 221.57,
+    "sid": 84,
+    "location": 2,
+    "content": "在语言通促性易懂上面",
+    "music": 0.0
+  },
+  {
+    "from": 221.57,
+    "to": 224.43,
+    "sid": 85,
+    "location": 2,
+    "content": "谷歌的GPI做的是最好的",
+    "music": 0.0
+  },
+  {
+    "from": 225.21,
+    "to": 227.61,
+    "sid": 86,
+    "location": 2,
+    "content": "第二个技巧是开两个窗口",
+    "music": 0.0
+  },
+  {
+    "from": 227.61,
+    "to": 230.95,
+    "sid": 87,
+    "location": 2,
+    "content": "左边窗口是显示我们的4万字教程",
+    "music": 0.0
+  },
+  {
+    "from": 230.95,
+    "to": 233.82,
+    "sid": 88,
+    "location": 2,
+    "content": "右边窗口我们来提问",
+    "music": 0.0
+  },
+  {
+    "from": 234.22,
+    "to": 238.53,
+    "sid": 89,
+    "location": 2,
+    "content": "毕竟有些知识它本身的知识复杂度是比较高的",
+    "music": 0.0
+  },
+  {
+    "from": 238.53,
+    "to": 241.83,
+    "sid": 90,
+    "location": 2,
+    "content": "它的概念之间是相互有层级关系的",
+    "music": 0.0
+  },
+  {
+    "from": 241.83,
+    "to": 243.97,
+    "sid": 91,
+    "location": 2,
+    "content": "这个你很难跳过这种层级",
+    "music": 0.0
+  },
+  {
+    "from": 243.97,
+    "to": 246.78,
+    "sid": 92,
+    "location": 2,
+    "content": "所以在阅读时你会产生各种疑问",
+    "music": 0.0
+  },
+  {
+    "from": 246.78,
+    "to": 248.92,
+    "sid": 93,
+    "location": 2,
+    "content": "那么在右边单独开一个窗口",
+    "music": 0.0
+  },
+  {
+    "from": 248.92,
+    "to": 252.03,
+    "sid": 94,
+    "location": 2,
+    "content": "就可以问AI帮我们解答这些疑问",
+    "music": 0.0
+  },
+  {
+    "from": 252.47,
+    "to": 255.31,
+    "sid": 95,
+    "location": 2,
+    "content": "例如这里提到视觉空间模板这个概念",
+    "music": 0.0
+  },
+  {
+    "from": 255.31,
+    "to": 256.79,
+    "sid": 96,
+    "location": 2,
+    "content": "我觉得他挺有意思",
+    "music": 0.0
+  },
+  {
+    "from": 256.79,
+    "to": 258.03,
+    "sid": 97,
+    "location": 2,
+    "content": "但我也不理解",
+    "music": 0.0
+  },
+  {
+    "from": 258.03,
+    "to": 260.98,
+    "sid": 98,
+    "location": 2,
+    "content": "所以我就让他再具体解释一下",
+    "music": 0.0
+  },
+  {
+    "from": 260.98,
+    "to": 263.22,
+    "sid": 99,
+    "location": 2,
+    "content": "之所以强调开两个窗口的原因",
+    "music": 0.0
+  },
+  {
+    "from": 263.22,
+    "to": 265.32,
+    "sid": 100,
+    "location": 2,
+    "content": "是当我们去滚动窗口",
+    "music": 0.0
+  },
+  {
+    "from": 265.32,
+    "to": 267.669,
+    "sid": 101,
+    "location": 2,
+    "content": "然后去在最下面来提问",
+    "music": 0.0
+  },
+  {
+    "from": 267.669,
+    "to": 268.749,
+    "sid": 102,
+    "location": 2,
+    "content": "提问完之后",
+    "music": 0.0
+  },
+  {
+    "from": 268.749,
+    "to": 269.869,
+    "sid": 103,
+    "location": 2,
+    "content": "我们又在滚动上来",
+    "music": 0.0
+  },
+  {
+    "from": 269.869,
+    "to": 273.44,
+    "sid": 104,
+    "location": 2,
+    "content": "去查找我们的原来阅读的位置的时候",
+    "music": 0.0
+  },
+  {
+    "from": 273.44,
+    "to": 275.66,
+    "sid": 105,
+    "location": 2,
+    "content": "我们的工作记忆就会被打断",
+    "music": 0.0
+  },
+  {
+    "from": 275.66,
+    "to": 277.0,
+    "sid": 106,
+    "location": 2,
+    "content": "切换成新的任务",
+    "music": 0.0
+  },
+  {
+    "from": 277.0,
+    "to": 278.22,
+    "sid": 107,
+    "location": 2,
+    "content": "然后又切换回去",
+    "music": 0.0
+  },
+  {
+    "from": 278.22,
+    "to": 281.02,
+    "sid": 108,
+    "location": 2,
+    "content": "这个时候就增加了我们的认知负担",
+    "music": 0.0
+  },
+  {
+    "from": 281.02,
+    "to": 284.9,
+    "sid": 109,
+    "location": 2,
+    "content": "所以当我们把左边的教程保持不动",
+    "music": 0.0
+  },
+  {
+    "from": 284.9,
+    "to": 286.32,
+    "sid": 110,
+    "location": 2,
+    "content": "在右边提问的时候",
+    "music": 0.0
+  },
+  {
+    "from": 286.32,
+    "to": 289.62,
+    "sid": 111,
+    "location": 2,
+    "content": "我们的认知负荷要降低很多",
+    "music": 0.0
+  },
+  {
+    "from": 293.32,
+    "to": 296.46,
+    "sid": 112,
+    "location": 2,
+    "content": "最后的一个技巧是我们让AI举例",
+    "music": 0.0
+  },
+  {
+    "from": 296.46,
+    "to": 298.22,
+    "sid": 113,
+    "location": 2,
+    "content": "使得我们新学的知识",
+    "music": 0.0
+  },
+  {
+    "from": 298.22,
+    "to": 300.96,
+    "sid": 114,
+    "location": 2,
+    "content": "与我们已有的知识产生链接",
+    "music": 0.0
+  },
+  {
+    "from": 301.79,
+    "to": 304.87,
+    "sid": 115,
+    "location": 2,
+    "content": "当我们只有将信息的孤岛与我们已有的知识",
+    "music": 0.0
+  },
+  {
+    "from": 304.87,
+    "to": 306.03,
+    "sid": 116,
+    "location": 2,
+    "content": "产生联系的时候",
+    "music": 0.0
+  },
+  {
+    "from": 306.03,
+    "to": 309.25,
+    "sid": 117,
+    "location": 2,
+    "content": "我们才能在我们的实际的日常使用过程中",
+    "music": 0.0
+  },
+  {
+    "from": 309.25,
+    "to": 312.169,
+    "sid": 118,
+    "location": 2,
+    "content": "我们去想起这些信息并且使用",
+    "music": 0.0
+  },
+  {
+    "from": 312.169,
+    "to": 314.309,
+    "sid": 119,
+    "location": 2,
+    "content": "否则它就只能是一个信息孤岛",
+    "music": 0.0
+  },
+  {
+    "from": 314.309,
+    "to": 317.59,
+    "sid": 120,
+    "location": 2,
+    "content": "永远也不会被我们去检索和使用",
+    "music": 0.0
+  },
+  {
+    "from": 317.59,
+    "to": 319.07,
+    "sid": 121,
+    "location": 2,
+    "content": "通常我们通过一些案例",
+    "music": 0.0
+  },
+  {
+    "from": 319.07,
+    "to": 320.21,
+    "sid": 122,
+    "location": 2,
+    "content": "让我们新学的知识",
+    "music": 0.0
+  },
+  {
+    "from": 320.21,
+    "to": 323.39,
+    "sid": 123,
+    "location": 2,
+    "content": "与我们已有的经验产生实际的联系",
+    "music": 0.0
+  },
+  {
+    "from": 323.8,
+    "to": 326.58,
+    "sid": 124,
+    "location": 2,
+    "content": "当然还有很多减少认知负荷的案例",
+    "music": 0.0
+  },
+  {
+    "from": 326.58,
+    "to": 328.7,
+    "sid": 125,
+    "location": 2,
+    "content": "这里只分享这三个技巧",
+    "music": 0.0
+  },
+  {
+    "from": 328.7,
+    "to": 330.86,
+    "sid": 126,
+    "location": 2,
+    "content": "欢迎大家自己去探索",
+    "music": 0.0
+  },
+  {
+    "from": 330.86,
+    "to": 332.52,
+    "sid": 127,
+    "location": 2,
+    "content": "欢迎关注我的频道",
+    "music": 0.0
+  },
+  {
+    "from": 332.52,
+    "to": 336.66,
+    "sid": 128,
+    "location": 2,
+    "content": "我将继续和大家一起用好AI提升自己",
+    "music": 0.0
+  }
+]

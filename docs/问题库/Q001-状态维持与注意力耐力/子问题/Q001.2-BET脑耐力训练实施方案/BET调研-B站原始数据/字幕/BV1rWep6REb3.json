@@ -1,0 +1,2402 @@
+[
+  {
+    "from": 0.04,
+    "to": 3.34,
+    "sid": 1,
+    "location": 2,
+    "content": "大多数人需要三个月才能搞懂一个新学科",
+    "music": 0.0
+  },
+  {
+    "from": 3.34,
+    "to": 5.86,
+    "sid": 2,
+    "location": 2,
+    "content": "牛津学生七天就能掌握一个新课题",
+    "music": 0.0
+  },
+  {
+    "from": 5.86,
+    "to": 8.22,
+    "sid": 3,
+    "location": 2,
+    "content": "然后面对面为一个世界级专家辩护",
+    "music": 0.0
+  },
+  {
+    "from": 8.22,
+    "to": 10.46,
+    "sid": 4,
+    "location": 2,
+    "content": "而对方会攻击他们说的每一句话",
+    "music": 0.0
+  },
+  {
+    "from": 10.46,
+    "to": 11.99,
+    "sid": 5,
+    "location": 2,
+    "content": "他们并不比你聪明",
+    "music": 0.0
+  },
+  {
+    "from": 11.99,
+    "to": 15.07,
+    "sid": 6,
+    "location": 2,
+    "content": "他们只是用了三个学校永远不会教的狠招",
+    "music": 0.0
+  },
+  {
+    "from": 15.07,
+    "to": 17.55,
+    "sid": 7,
+    "location": 2,
+    "content": "第三个大多数人听了都会想",
+    "music": 0.0
+  },
+  {
+    "from": 17.55,
+    "to": 19.63,
+    "sid": 8,
+    "location": 2,
+    "content": "这是我听过最蠢的建议",
+    "music": 0.0
+  },
+  {
+    "from": 19.63,
+    "to": 23.13,
+    "sid": 9,
+    "location": 2,
+    "content": "然后他们一试学习速度就超过了身边所有朋友",
+    "music": 0.0
+  },
+  {
+    "from": 23.13,
+    "to": 24.28,
+    "sid": 10,
+    "location": 2,
+    "content": "先说第一个",
+    "music": 0.0
+  },
+  {
+    "from": 24.28,
+    "to": 25.8,
+    "sid": 11,
+    "location": 2,
+    "content": "大多数人错在这里",
+    "music": 0.0
+  },
+  {
+    "from": 25.8,
+    "to": 27.94,
+    "sid": 12,
+    "location": 2,
+    "content": "他们照着大纲学第一章",
+    "music": 0.0
+  },
+  {
+    "from": 27.94,
+    "to": 29.0,
+    "sid": 13,
+    "location": 2,
+    "content": "然后第二章",
+    "music": 0.0
+  },
+  {
+    "from": 29.0,
+    "to": 31.27,
+    "sid": 14,
+    "location": 2,
+    "content": "然后第三章全部覆盖",
+    "music": 0.0
+  },
+  {
+    "from": 31.27,
+    "to": 32.53,
+    "sid": 15,
+    "location": 2,
+    "content": "把课程学完",
+    "music": 0.0
+  },
+  {
+    "from": 32.53,
+    "to": 35.05,
+    "sid": 16,
+    "location": 2,
+    "content": "以为理解会在某个地方自然出现",
+    "music": 0.0
+  },
+  {
+    "from": 35.05,
+    "to": 37.82,
+    "sid": 17,
+    "location": 2,
+    "content": "并不会覆盖式学习不等于理解",
+    "music": 0.0
+  },
+  {
+    "from": 37.82,
+    "to": 39.42,
+    "sid": 18,
+    "location": 2,
+    "content": "你可以翻完整本教材",
+    "music": 0.0
+  },
+  {
+    "from": 39.42,
+    "to": 41.82,
+    "sid": 19,
+    "location": 2,
+    "content": "却连其中一个观点都无法为他辩护",
+    "music": 0.0
+  },
+  {
+    "from": 41.82,
+    "to": 43.8,
+    "sid": 20,
+    "location": 2,
+    "content": "牛津学生不是照着大纲学",
+    "music": 0.0
+  },
+  {
+    "from": 43.8,
+    "to": 45.58,
+    "sid": 21,
+    "location": 2,
+    "content": "而是照着截止日期学",
+    "music": 0.0
+  },
+  {
+    "from": 45.58,
+    "to": 47.0,
+    "sid": 22,
+    "location": 2,
+    "content": "这叫导师制",
+    "music": 0.0
+  },
+  {
+    "from": 47.0,
+    "to": 48.44,
+    "sid": 23,
+    "location": 2,
+    "content": "他是这样运作的",
+    "music": 0.0
+  },
+  {
+    "from": 48.44,
+    "to": 50.38,
+    "sid": 24,
+    "location": 2,
+    "content": "每周学生拿到一个问题",
+    "music": 0.0
+  },
+  {
+    "from": 50.38,
+    "to": 51.34,
+    "sid": 25,
+    "location": 2,
+    "content": "不是一个课题",
+    "music": 0.0
+  },
+  {
+    "from": 51.34,
+    "to": 52.379,
+    "sid": 26,
+    "location": 2,
+    "content": "是一个问题",
+    "music": 0.0
+  },
+  {
+    "from": 52.379,
+    "to": 54.319,
+    "sid": 27,
+    "location": 2,
+    "content": "法国大革命是不可避免的吗",
+    "music": 0.0
+  },
+  {
+    "from": 54.319,
+    "to": 55.759,
+    "sid": 28,
+    "location": 2,
+    "content": "自由意志存在吗",
+    "music": 0.0
+  },
+  {
+    "from": 55.759,
+    "to": 58.269,
+    "sid": 29,
+    "location": 2,
+    "content": "工业革命让工人变得更富有了吗",
+    "music": 0.0
+  },
+  {
+    "from": 58.269,
+    "to": 59.949,
+    "sid": 30,
+    "location": 2,
+    "content": "问题在任何阅读开始之前",
+    "music": 0.0
+  },
+  {
+    "from": 59.949,
+    "to": 61.429,
+    "sid": 31,
+    "location": 2,
+    "content": "就已经选定再读一遍",
+    "music": 0.0
+  },
+  {
+    "from": 61.429,
+    "to": 61.969,
+    "sid": 32,
+    "location": 2,
+    "content": "这句话",
+    "music": 0.0
+  },
+  {
+    "from": 61.969,
+    "to": 63.069,
+    "sid": 33,
+    "location": 2,
+    "content": "问题先来",
+    "music": 0.0
+  },
+  {
+    "from": 63.069,
+    "to": 64.409,
+    "sid": 34,
+    "location": 2,
+    "content": "阅读在后",
+    "music": 0.0
+  },
+  {
+    "from": 64.409,
+    "to": 66.05,
+    "sid": 35,
+    "location": 2,
+    "content": "为什么顺序很重要",
+    "music": 0.0
+  },
+  {
+    "from": 66.05,
+    "to": 68.9,
+    "sid": 36,
+    "location": 2,
+    "content": "因为一个问题会把你的大脑变成狩猎型大脑",
+    "music": 0.0
+  },
+  {
+    "from": 68.9,
+    "to": 70.58,
+    "sid": 37,
+    "location": 2,
+    "content": "当你知道自己在找什么时",
+    "music": 0.0
+  },
+  {
+    "from": 70.58,
+    "to": 71.78,
+    "sid": 38,
+    "location": 2,
+    "content": "每一页要么有用",
+    "music": 0.0
+  },
+  {
+    "from": 71.78,
+    "to": 72.48,
+    "sid": 39,
+    "location": 2,
+    "content": "要么没用",
+    "music": 0.0
+  },
+  {
+    "from": 72.48,
+    "to": 73.7,
+    "sid": 40,
+    "location": 2,
+    "content": "你不再被动吸收",
+    "music": 0.0
+  },
+  {
+    "from": 73.7,
+    "to": 75.08,
+    "sid": 41,
+    "location": 2,
+    "content": "你开始主动搜寻",
+    "music": 0.0
+  },
+  {
+    "from": 75.08,
+    "to": 77.479,
+    "sid": 42,
+    "location": 2,
+    "content": "筛选会自然发生到周末",
+    "music": 0.0
+  },
+  {
+    "from": 77.479,
+    "to": 79.519,
+    "sid": 43,
+    "location": 2,
+    "content": "学生必须交出一份交付成果",
+    "music": 0.0
+  },
+  {
+    "from": 79.519,
+    "to": 80.219,
+    "sid": 44,
+    "location": 2,
+    "content": "不是笔记",
+    "music": 0.0
+  },
+  {
+    "from": 80.219,
+    "to": 80.979,
+    "sid": 45,
+    "location": 2,
+    "content": "不是划线",
+    "music": 0.0
+  },
+  {
+    "from": 80.979,
+    "to": 81.779,
+    "sid": 46,
+    "location": 2,
+    "content": "不是摘要",
+    "music": 0.0
+  },
+  {
+    "from": 81.779,
+    "to": 83.36,
+    "sid": 47,
+    "location": 2,
+    "content": "而是一篇成文的论证",
+    "music": 0.0
+  },
+  {
+    "from": 83.36,
+    "to": 84.36,
+    "sid": 48,
+    "location": 2,
+    "content": "大约2000字",
+    "music": 0.0
+  },
+  {
+    "from": 84.36,
+    "to": 86.26,
+    "sid": 49,
+    "location": 2,
+    "content": "提出一个立场并为之辩护",
+    "music": 0.0
+  },
+  {
+    "from": 86.26,
+    "to": 87.699,
+    "sid": 50,
+    "location": 2,
+    "content": "然后就是那个房间",
+    "music": 0.0
+  },
+  {
+    "from": 87.699,
+    "to": 89.179,
+    "sid": 51,
+    "location": 2,
+    "content": "学生坐在导师对面",
+    "music": 0.0
+  },
+  {
+    "from": 89.179,
+    "to": 91.439,
+    "sid": 52,
+    "location": 2,
+    "content": "而导师往往是这个具体问题上",
+    "music": 0.0
+  },
+  {
+    "from": 91.439,
+    "to": 93.53,
+    "sid": 53,
+    "location": 2,
+    "content": "人在市的最顶尖专家之一",
+    "music": 0.0
+  },
+  {
+    "from": 93.53,
+    "to": 95.53,
+    "sid": 54,
+    "location": 2,
+    "content": "学生大声读出自己的论证",
+    "music": 0.0
+  },
+  {
+    "from": 95.53,
+    "to": 97.21,
+    "sid": 55,
+    "location": 2,
+    "content": "专家则逐行拆解",
+    "music": 0.0
+  },
+  {
+    "from": 97.21,
+    "to": 98.89,
+    "sid": 56,
+    "location": 2,
+    "content": "你为什么相信这一点",
+    "music": 0.0
+  },
+  {
+    "from": 98.89,
+    "to": 100.19,
+    "sid": 57,
+    "location": 2,
+    "content": "反正怎么解释",
+    "music": 0.0
+  },
+  {
+    "from": 100.19,
+    "to": 102.37,
+    "sid": 58,
+    "location": 2,
+    "content": "为这个主张辩护一小时",
+    "music": 0.0
+  },
+  {
+    "from": 102.37,
+    "to": 103.29,
+    "sid": 59,
+    "location": 2,
+    "content": "无处躲藏",
+    "music": 0.0
+  },
+  {
+    "from": 103.29,
+    "to": 105.289,
+    "sid": 60,
+    "location": 2,
+    "content": "也没有小组可以隐身其中",
+    "music": 0.0
+  },
+  {
+    "from": 105.289,
+    "to": 107.389,
+    "sid": 61,
+    "location": 2,
+    "content": "但这里有个所有人都忽略的地方",
+    "music": 0.0
+  },
+  {
+    "from": 107.389,
+    "to": 109.71,
+    "sid": 62,
+    "location": 2,
+    "content": "每周的论文不打分NN",
+    "music": 0.0
+  },
+  {
+    "from": 109.71,
+    "to": 111.71,
+    "sid": 63,
+    "location": 2,
+    "content": "而且牛津也没有学期考试",
+    "music": 0.0
+  },
+  {
+    "from": 111.71,
+    "to": 113.65,
+    "sid": 64,
+    "location": 2,
+    "content": "每学期初有一次模拟试卷",
+    "music": 0.0
+  },
+  {
+    "from": 113.65,
+    "to": 115.79,
+    "sid": 65,
+    "location": 2,
+    "content": "叫学期初摸底考也不计分",
+    "music": 0.0
+  },
+  {
+    "from": 115.79,
+    "to": 118.73,
+    "sid": 66,
+    "location": 2,
+    "content": "真正的考试要到最后一年的最后几周才来",
+    "music": 0.0
+  },
+  {
+    "from": 118.73,
+    "to": 120.86,
+    "sid": 67,
+    "location": 2,
+    "content": "而那些考试决定整个学位",
+    "music": 0.0
+  },
+  {
+    "from": 120.86,
+    "to": 123.44,
+    "sid": 68,
+    "location": 2,
+    "content": "所以整整3年学生可以每周都错",
+    "music": 0.0
+  },
+  {
+    "from": 123.44,
+    "to": 125.02,
+    "sid": 69,
+    "location": 2,
+    "content": "而且不用付出任何代价",
+    "music": 0.0
+  },
+  {
+    "from": 125.02,
+    "to": 126.24,
+    "sid": 70,
+    "location": 2,
+    "content": "这不是缺陷",
+    "music": 0.0
+  },
+  {
+    "from": 126.24,
+    "to": 127.53,
+    "sid": 71,
+    "location": 2,
+    "content": "这才是引擎",
+    "music": 0.0
+  },
+  {
+    "from": 127.53,
+    "to": 128.87,
+    "sid": 72,
+    "location": 2,
+    "content": "犯错没有成本",
+    "music": 0.0
+  },
+  {
+    "from": 128.87,
+    "to": 130.93,
+    "sid": 73,
+    "location": 2,
+    "content": "所以学生会选择真实的立场",
+    "music": 0.0
+  },
+  {
+    "from": 130.93,
+    "to": 132.579,
+    "sid": 74,
+    "location": 2,
+    "content": "而不是安全的立场",
+    "music": 0.0
+  },
+  {
+    "from": 132.579,
+    "to": 135.439,
+    "sid": 75,
+    "location": 2,
+    "content": "而一个在周四被彻底击垮的真实立场",
+    "music": 0.0
+  },
+  {
+    "from": 135.439,
+    "to": 137.519,
+    "sid": 76,
+    "location": 2,
+    "content": "比一个月的笔记更有价值",
+    "music": 0.0
+  },
+  {
+    "from": 137.519,
+    "to": 138.919,
+    "sid": 77,
+    "location": 2,
+    "content": "学生走出来的时候",
+    "music": 0.0
+  },
+  {
+    "from": 138.919,
+    "to": 141.039,
+    "sid": 78,
+    "location": 2,
+    "content": "清楚知道自己思路断在哪里",
+    "music": 0.0
+  },
+  {
+    "from": 141.039,
+    "to": 143.059,
+    "sid": 79,
+    "location": 2,
+    "content": "每七天被纠正一次",
+    "music": 0.0
+  },
+  {
+    "from": 143.059,
+    "to": 145.37,
+    "sid": 80,
+    "location": 2,
+    "content": "升级一次你的版本",
+    "music": 0.0
+  },
+  {
+    "from": 145.37,
+    "to": 147.05,
+    "sid": 81,
+    "location": 2,
+    "content": "周一在读任何东西之前",
+    "music": 0.0
+  },
+  {
+    "from": 147.05,
+    "to": 148.209,
+    "sid": 82,
+    "location": 2,
+    "content": "先挑一个问题",
+    "music": 0.0
+  },
+  {
+    "from": 148.209,
+    "to": 150.049,
+    "sid": 83,
+    "location": 2,
+    "content": "要挑一个你能为之论证的问题",
+    "music": 0.0
+  },
+  {
+    "from": 150.049,
+    "to": 151.749,
+    "sid": 84,
+    "location": 2,
+    "content": "不是一个可以随便浏览的话题",
+    "music": 0.0
+  },
+  {
+    "from": 151.749,
+    "to": 153.129,
+    "sid": 85,
+    "location": 2,
+    "content": "比如不要选营养",
+    "music": 0.0
+  },
+  {
+    "from": 153.129,
+    "to": 154.209,
+    "sid": 86,
+    "location": 2,
+    "content": "要选早餐",
+    "music": 0.0
+  },
+  {
+    "from": 154.209,
+    "to": 156.43,
+    "sid": 87,
+    "location": 2,
+    "content": "真的是一天中最重要的一餐吗",
+    "music": 0.0
+  },
+  {
+    "from": 156.43,
+    "to": 158.09,
+    "sid": 88,
+    "location": 2,
+    "content": "设一个截止日期",
+    "music": 0.0
+  },
+  {
+    "from": 158.09,
+    "to": 160.58,
+    "sid": 89,
+    "location": 2,
+    "content": "周五写一页纸回答这个问题",
+    "music": 0.0
+  },
+  {
+    "from": 160.58,
+    "to": 161.92,
+    "sid": 90,
+    "location": 2,
+    "content": "并为答案辩护",
+    "music": 0.0
+  },
+  {
+    "from": 161.92,
+    "to": 164.0,
+    "sid": 91,
+    "location": 2,
+    "content": "然后拿给一个会反驳你的人",
+    "music": 0.0
+  },
+  {
+    "from": 164.0,
+    "to": 165.49,
+    "sid": 92,
+    "location": 2,
+    "content": "看朋友论坛",
+    "music": 0.0
+  },
+  {
+    "from": 165.49,
+    "to": 168.39,
+    "sid": 93,
+    "location": 2,
+    "content": "或者你让他攻击这篇东西的AI",
+    "music": 0.0
+  },
+  {
+    "from": 168.39,
+    "to": 169.49,
+    "sid": 94,
+    "location": 2,
+    "content": "关键在这",
+    "music": 0.0
+  },
+  {
+    "from": 169.49,
+    "to": 172.0,
+    "sid": 95,
+    "location": 2,
+    "content": "待截止日期的问题会催生学习",
+    "music": 0.0
+  },
+  {
+    "from": 172.0,
+    "to": 173.24,
+    "sid": 96,
+    "location": 2,
+    "content": "带时间表的大纲",
+    "music": 0.0
+  },
+  {
+    "from": 173.24,
+    "to": 174.92,
+    "sid": 97,
+    "location": 2,
+    "content": "只会催生覆盖式学习",
+    "music": 0.0
+  },
+  {
+    "from": 174.92,
+    "to": 175.9,
+    "sid": 98,
+    "location": 2,
+    "content": "先挑问题",
+    "music": 0.0
+  },
+  {
+    "from": 175.9,
+    "to": 177.96,
+    "sid": 99,
+    "location": 2,
+    "content": "把做出一份论证当作终点线",
+    "music": 0.0
+  },
+  {
+    "from": 177.96,
+    "to": 179.04,
+    "sid": 100,
+    "location": 2,
+    "content": "而不是记笔记",
+    "music": 0.0
+  },
+  {
+    "from": 179.04,
+    "to": 180.14,
+    "sid": 101,
+    "location": 2,
+    "content": "这是第一个方法",
+    "music": 0.0
+  },
+  {
+    "from": 180.14,
+    "to": 181.3,
+    "sid": 102,
+    "location": 2,
+    "content": "但里面有个陷阱",
+    "music": 0.0
+  },
+  {
+    "from": 181.3,
+    "to": 183.76,
+    "sid": 103,
+    "location": 2,
+    "content": "大多数人抓住问题就立刻开始回答",
+    "music": 0.0
+  },
+  {
+    "from": 183.76,
+    "to": 185.88,
+    "sid": 104,
+    "location": 2,
+    "content": "而这恰恰会造就一个自信",
+    "music": 0.0
+  },
+  {
+    "from": 185.88,
+    "to": 186.48,
+    "sid": 105,
+    "location": 2,
+    "content": "文笔好",
+    "music": 0.0
+  },
+  {
+    "from": 186.48,
+    "to": 188.18,
+    "sid": 106,
+    "location": 2,
+    "content": "但完全空洞的论证",
+    "music": 0.0
+  },
+  {
+    "from": 188.18,
+    "to": 189.94,
+    "sid": 107,
+    "location": 2,
+    "content": "牛津对这点有对策",
+    "music": 0.0
+  },
+  {
+    "from": 189.94,
+    "to": 192.24,
+    "sid": 108,
+    "location": 2,
+    "content": "学校教给你的是这样读题",
+    "music": 0.0
+  },
+  {
+    "from": 192.24,
+    "to": 194.21,
+    "sid": 109,
+    "location": 2,
+    "content": "答题答得快",
+    "music": 0.0
+  },
+  {
+    "from": 194.21,
+    "to": 195.07,
+    "sid": 110,
+    "location": 2,
+    "content": "显得聪明",
+    "music": 0.0
+  },
+  {
+    "from": 195.07,
+    "to": 196.51,
+    "sid": 111,
+    "location": 2,
+    "content": "先举手的人赢",
+    "music": 0.0
+  },
+  {
+    "from": 196.51,
+    "to": 198.11,
+    "sid": 112,
+    "location": 2,
+    "content": "牛津学生反着来",
+    "music": 0.0
+  },
+  {
+    "from": 198.11,
+    "to": 200.19,
+    "sid": 113,
+    "location": 2,
+    "content": "他们头一个小时专门攻击问题",
+    "music": 0.0
+  },
+  {
+    "from": 202.85,
+    "to": 204.07,
+    "sid": 114,
+    "location": 2,
+    "content": "这种问题举例",
+    "music": 0.0
+  },
+  {
+    "from": 204.07,
+    "to": 206.99,
+    "sid": 115,
+    "location": 2,
+    "content": "大多数人会开始罗列关于拿破仑的事实",
+    "music": 0.0
+  },
+  {
+    "from": 206.99,
+    "to": 207.97,
+    "sid": 116,
+    "location": 2,
+    "content": "打赢的战役",
+    "music": 0.0
+  },
+  {
+    "from": 207.97,
+    "to": 209.99,
+    "sid": 117,
+    "location": 2,
+    "content": "通过的法律建立的帝国",
+    "music": 0.0
+  },
+  {
+    "from": 209.99,
+    "to": 212.37,
+    "sid": 118,
+    "location": 2,
+    "content": "牛津的学生会在第二个词就停下来",
+    "music": 0.0
+  },
+  {
+    "from": 212.37,
+    "to": 214.81,
+    "sid": 119,
+    "location": 2,
+    "content": "伟大这里的伟大是什么意思",
+    "music": 0.0
+  },
+  {
+    "from": 214.81,
+    "to": 217.839,
+    "sid": 120,
+    "location": 2,
+    "content": "是指有效有道德还是有历史重要性",
+    "music": 0.0
+  },
+  {
+    "from": 217.839,
+    "to": 219.199,
+    "sid": 121,
+    "location": 2,
+    "content": "因为在每一种定义下",
+    "music": 0.0
+  },
+  {
+    "from": 219.199,
+    "to": 220.719,
+    "sid": 122,
+    "location": 2,
+    "content": "拿破仑都是不同的答案",
+    "music": 0.0
+  },
+  {
+    "from": 220.719,
+    "to": 221.899,
+    "sid": 123,
+    "location": 2,
+    "content": "有效yes",
+    "music": 0.0
+  },
+  {
+    "from": 221.899,
+    "to": 222.98,
+    "sid": 124,
+    "location": 2,
+    "content": "有道德",
+    "music": 0.0
+  },
+  {
+    "from": 222.98,
+    "to": 224.3,
+    "sid": 125,
+    "location": 2,
+    "content": "那可就不好说了",
+    "music": 0.0
+  },
+  {
+    "from": 224.3,
+    "to": 227.02,
+    "sid": 126,
+    "location": 2,
+    "content": "然后是下一个词领袖什么的",
+    "music": 0.0
+  },
+  {
+    "from": 227.02,
+    "to": 229.6,
+    "sid": 127,
+    "location": 2,
+    "content": "领袖军队的国家的",
+    "music": 0.0
+  },
+  {
+    "from": 229.6,
+    "to": 230.98,
+    "sid": 128,
+    "location": 2,
+    "content": "还是某种理念的",
+    "music": 0.0
+  },
+  {
+    "from": 230.98,
+    "to": 234.82,
+    "sid": 129,
+    "location": 2,
+    "content": "每一个称重词都要由你用自己的话先下定义",
+    "music": 0.0
+  },
+  {
+    "from": 234.82,
+    "to": 237.83,
+    "sid": 130,
+    "location": 2,
+    "content": "然后才能让任何事实进入文章",
+    "music": 0.0
+  },
+  {
+    "from": 237.83,
+    "to": 239.53,
+    "sid": 131,
+    "location": 2,
+    "content": "这听起来像是在拖延",
+    "music": 0.0
+  },
+  {
+    "from": 239.53,
+    "to": 240.71,
+    "sid": 132,
+    "location": 2,
+    "content": "恰恰相反",
+    "music": 0.0
+  },
+  {
+    "from": 240.71,
+    "to": 241.78,
+    "sid": 133,
+    "location": 2,
+    "content": "原因如下",
+    "music": 0.0
+  },
+  {
+    "from": 241.78,
+    "to": 243.92,
+    "sid": 134,
+    "location": 2,
+    "content": "每个问题都藏着一个隐藏假设",
+    "music": 0.0
+  },
+  {
+    "from": 245.74,
+    "to": 248.36,
+    "sid": 135,
+    "location": 2,
+    "content": "预设了伟大是某种单一的东西",
+    "music": 0.0
+  },
+  {
+    "from": 248.36,
+    "to": 249.62,
+    "sid": 136,
+    "location": 2,
+    "content": "领袖要么有",
+    "music": 0.0
+  },
+  {
+    "from": 249.62,
+    "to": 250.36,
+    "sid": 137,
+    "location": 2,
+    "content": "要么没有",
+    "music": 0.0
+  },
+  {
+    "from": 250.36,
+    "to": 252.05,
+    "sid": 138,
+    "location": 2,
+    "content": "也许这本身就是错的",
+    "music": 0.0
+  },
+  {
+    "from": 252.05,
+    "to": 253.47,
+    "sid": 139,
+    "location": 2,
+    "content": "也许他打仗很厉害",
+    "music": 0.0
+  },
+  {
+    "from": 253.47,
+    "to": 255.21,
+    "sid": 140,
+    "location": 2,
+    "content": "治理和平却一塌糊涂",
+    "music": 0.0
+  },
+  {
+    "from": 255.21,
+    "to": 257.11,
+    "sid": 141,
+    "location": 2,
+    "content": "那这个问题本身就站不住脚",
+    "music": 0.0
+  },
+  {
+    "from": 257.11,
+    "to": 258.91,
+    "sid": 142,
+    "location": 2,
+    "content": "把隐藏假设摆到明面上",
+    "music": 0.0
+  },
+  {
+    "from": 258.91,
+    "to": 260.65,
+    "sid": 143,
+    "location": 2,
+    "content": "你才会发现底下真正的问题",
+    "music": 0.0
+  },
+  {
+    "from": 260.65,
+    "to": 261.67,
+    "sid": 144,
+    "location": 2,
+    "content": "谁能定义词语",
+    "music": 0.0
+  },
+  {
+    "from": 261.67,
+    "to": 263.169,
+    "sid": 145,
+    "location": 2,
+    "content": "谁就掌握了答案",
+    "music": 0.0
+  },
+  {
+    "from": 263.169,
+    "to": 264.289,
+    "sid": 146,
+    "location": 2,
+    "content": "在导师课上",
+    "music": 0.0
+  },
+  {
+    "from": 264.289,
+    "to": 265.069,
+    "sid": 147,
+    "location": 2,
+    "content": "在辩论中",
+    "music": 0.0
+  },
+  {
+    "from": 265.069,
+    "to": 266.769,
+    "sid": 148,
+    "location": 2,
+    "content": "在会议室里无一例外",
+    "music": 0.0
+  },
+  {
+    "from": 266.769,
+    "to": 268.169,
+    "sid": 149,
+    "location": 2,
+    "content": "而让人不舒服的地方",
+    "music": 0.0
+  },
+  {
+    "from": 268.169,
+    "to": 270.009,
+    "sid": 150,
+    "location": 2,
+    "content": "在这里没有定义的词语",
+    "music": 0.0
+  },
+  {
+    "from": 270.009,
+    "to": 272.18,
+    "sid": 151,
+    "location": 2,
+    "content": "就是虚假理解滋生的地方",
+    "music": 0.0
+  },
+  {
+    "from": 272.18,
+    "to": 275.58,
+    "sid": 152,
+    "location": 2,
+    "content": "你可以就经济意识或创新侃侃而谈",
+    "music": 0.0
+  },
+  {
+    "from": 275.58,
+    "to": 278.2,
+    "sid": 153,
+    "location": 2,
+    "content": "10分钟却连一个追问都接不住",
+    "music": 0.0
+  },
+  {
+    "from": 278.2,
+    "to": 280.55,
+    "sid": 154,
+    "location": 2,
+    "content": "因为你从未定义过那个词",
+    "music": 0.0
+  },
+  {
+    "from": 280.55,
+    "to": 281.67,
+    "sid": 155,
+    "location": 2,
+    "content": "你是借来的",
+    "music": 0.0
+  },
+  {
+    "from": 281.67,
+    "to": 282.91,
+    "sid": 156,
+    "location": 2,
+    "content": "听起来像知识",
+    "music": 0.0
+  },
+  {
+    "from": 282.91,
+    "to": 285.039,
+    "sid": 157,
+    "location": 2,
+    "content": "直到有人问你到底是什么意思",
+    "music": 0.0
+  },
+  {
+    "from": 285.039,
+    "to": 287.799,
+    "sid": 158,
+    "location": 2,
+    "content": "一旦你强迫自己去定义一个词",
+    "music": 0.0
+  },
+  {
+    "from": 287.799,
+    "to": 289.999,
+    "sid": 159,
+    "location": 2,
+    "content": "立刻就能发现自己到底懂不懂",
+    "music": 0.0
+  },
+  {
+    "from": 289.999,
+    "to": 292.219,
+    "sid": 160,
+    "location": 2,
+    "content": "所以导师开门见山的是问题",
+    "music": 0.0
+  },
+  {
+    "from": 292.219,
+    "to": 293.24,
+    "sid": 161,
+    "location": 2,
+    "content": "而不是答案",
+    "music": 0.0
+  },
+  {
+    "from": 293.24,
+    "to": 295.84,
+    "sid": 162,
+    "location": 2,
+    "content": "开始之前你说的正义是什么意思",
+    "music": 0.0
+  },
+  {
+    "from": 295.84,
+    "to": 299.14,
+    "sid": 163,
+    "location": 2,
+    "content": "那间屋子里的沉默终结过很多自信满满的论文",
+    "music": 0.0
+  },
+  {
+    "from": 299.14,
+    "to": 301.09,
+    "sid": 164,
+    "location": 2,
+    "content": "你的版本拿到问题",
+    "music": 0.0
+  },
+  {
+    "from": 301.09,
+    "to": 302.96,
+    "sid": 165,
+    "location": 2,
+    "content": "挑出最关键的三个词",
+    "music": 0.0
+  },
+  {
+    "from": 302.96,
+    "to": 305.86,
+    "sid": 166,
+    "location": 2,
+    "content": "在纸上用自己的话给每个词下定义",
+    "music": 0.0
+  },
+  {
+    "from": 305.86,
+    "to": 306.8,
+    "sid": 167,
+    "location": 2,
+    "content": "不查字典",
+    "music": 0.0
+  },
+  {
+    "from": 306.8,
+    "to": 307.84,
+    "sid": 168,
+    "location": 2,
+    "content": "不搜谷歌",
+    "music": 0.0
+  },
+  {
+    "from": 307.84,
+    "to": 309.2,
+    "sid": 169,
+    "location": 2,
+    "content": "如果你写不出定义",
+    "music": 0.0
+  },
+  {
+    "from": 309.2,
+    "to": 311.44,
+    "sid": 170,
+    "location": 2,
+    "content": "那就是你其实并不真正理解的词",
+    "music": 0.0
+  },
+  {
+    "from": 311.44,
+    "to": 313.58,
+    "sid": 171,
+    "location": 2,
+    "content": "然后在你回答任何内容之前",
+    "music": 0.0
+  },
+  {
+    "from": 313.58,
+    "to": 314.62,
+    "sid": 172,
+    "location": 2,
+    "content": "先写下这个问题",
+    "music": 0.0
+  },
+  {
+    "from": 314.62,
+    "to": 315.85,
+    "sid": 173,
+    "location": 2,
+    "content": "默认了什么前提",
+    "music": 0.0
+  },
+  {
+    "from": 315.85,
+    "to": 316.87,
+    "sid": 174,
+    "location": 2,
+    "content": "做到这一点",
+    "music": 0.0
+  },
+  {
+    "from": 316.87,
+    "to": 318.31,
+    "sid": 175,
+    "location": 2,
+    "content": "问题通常就变了",
+    "music": 0.0
+  },
+  {
+    "from": 318.31,
+    "to": 320.85,
+    "sid": 176,
+    "location": 2,
+    "content": "你最终回答的是一个更锋利的版本",
+    "music": 0.0
+  },
+  {
+    "from": 320.85,
+    "to": 324.159,
+    "sid": 177,
+    "location": 2,
+    "content": "没人能从你自己没检查过的角度攻击你的答案",
+    "music": 0.0
+  },
+  {
+    "from": 324.159,
+    "to": 325.299,
+    "sid": 178,
+    "location": 2,
+    "content": "关键在这里",
+    "music": 0.0
+  },
+  {
+    "from": 325.299,
+    "to": 327.819,
+    "sid": 179,
+    "location": 2,
+    "content": "永远不要回答一个你没拆解过的问题",
+    "music": 0.0
+  },
+  {
+    "from": 327.819,
+    "to": 329.28,
+    "sid": 180,
+    "location": 2,
+    "content": "定义那些词",
+    "music": 0.0
+  },
+  {
+    "from": 329.28,
+    "to": 330.68,
+    "sid": 181,
+    "location": 2,
+    "content": "暴露那个假设",
+    "music": 0.0
+  },
+  {
+    "from": 330.68,
+    "to": 331.72,
+    "sid": 182,
+    "location": 2,
+    "content": "然后再回答",
+    "music": 0.0
+  },
+  {
+    "from": 331.72,
+    "to": 334.38,
+    "sid": 183,
+    "location": 2,
+    "content": "现在你有了截止日期和一个被拆解过的问题",
+    "music": 0.0
+  },
+  {
+    "from": 334.38,
+    "to": 335.6,
+    "sid": 184,
+    "location": 2,
+    "content": "但还有个麻烦",
+    "music": 0.0
+  },
+  {
+    "from": 335.6,
+    "to": 339.91,
+    "sid": 185,
+    "location": 2,
+    "content": "阅读书目十本书七天时间不可能完成",
+    "music": 0.0
+  },
+  {
+    "from": 339.91,
+    "to": 341.27,
+    "sid": 186,
+    "location": 2,
+    "content": "而这正是关键所在",
+    "music": 0.0
+  },
+  {
+    "from": 341.27,
+    "to": 342.95,
+    "sid": 187,
+    "location": 2,
+    "content": "学校教给你的是这样一套",
+    "music": 0.0
+  },
+  {
+    "from": 342.95,
+    "to": 343.93,
+    "sid": 188,
+    "location": 2,
+    "content": "把书读完",
+    "music": 0.0
+  },
+  {
+    "from": 343.93,
+    "to": 345.21,
+    "sid": 189,
+    "location": 2,
+    "content": "每一页都要读",
+    "music": 0.0
+  },
+  {
+    "from": 345.21,
+    "to": 346.79,
+    "sid": 190,
+    "location": 2,
+    "content": "跳读就是作弊",
+    "music": 0.0
+  },
+  {
+    "from": 346.79,
+    "to": 348.35,
+    "sid": 191,
+    "location": 2,
+    "content": "读完才算本事",
+    "music": 0.0
+  },
+  {
+    "from": 348.35,
+    "to": 351.44,
+    "sid": 192,
+    "location": 2,
+    "content": "牛津偏偏让读完变成不可能",
+    "music": 0.0
+  },
+  {
+    "from": 351.44,
+    "to": 353.68,
+    "sid": 193,
+    "location": 2,
+    "content": "一周的阅读书目可以列上十本书",
+    "music": 0.0
+  },
+  {
+    "from": 353.68,
+    "to": 354.8,
+    "sid": 194,
+    "location": 2,
+    "content": "外加一摞论文",
+    "music": 0.0
+  },
+  {
+    "from": 354.8,
+    "to": 357.29,
+    "sid": 195,
+    "location": 2,
+    "content": "世上没有一个人能在七天内全部读完",
+    "music": 0.0
+  },
+  {
+    "from": 357.29,
+    "to": 359.83,
+    "sid": 196,
+    "location": 2,
+    "content": "每个学生在第一周都会学到同一课",
+    "music": 0.0
+  },
+  {
+    "from": 359.83,
+    "to": 361.95,
+    "sid": 197,
+    "location": 2,
+    "content": "别再为了读完而读",
+    "music": 0.0
+  },
+  {
+    "from": 361.95,
+    "to": 363.67,
+    "sid": 198,
+    "location": 2,
+    "content": "开始为了立场而读",
+    "music": 0.0
+  },
+  {
+    "from": 363.67,
+    "to": 365.22,
+    "sid": 199,
+    "location": 2,
+    "content": "具体是这样运作的",
+    "music": 0.0
+  },
+  {
+    "from": 365.22,
+    "to": 367.82,
+    "sid": 200,
+    "location": 2,
+    "content": "每个严肃的作者都在主张某种观点",
+    "music": 0.0
+  },
+  {
+    "from": 367.82,
+    "to": 370.38,
+    "sid": 201,
+    "location": 2,
+    "content": "一个核心论点坐在书的中心",
+    "music": 0.0
+  },
+  {
+    "from": 370.38,
+    "to": 373.34,
+    "sid": 202,
+    "location": 2,
+    "content": "300页的论据层层包裹在他周围",
+    "music": 0.0
+  },
+  {
+    "from": 373.34,
+    "to": 376.13,
+    "sid": 203,
+    "location": 2,
+    "content": "牛津学生要列举的就是这个论点",
+    "music": 0.0
+  },
+  {
+    "from": 376.13,
+    "to": 377.57,
+    "sid": 204,
+    "location": 2,
+    "content": "绪论结论",
+    "music": 0.0
+  },
+  {
+    "from": 377.57,
+    "to": 379.7,
+    "sid": 205,
+    "location": 2,
+    "content": "关键章节的手段和末端",
+    "music": 0.0
+  },
+  {
+    "from": 379.7,
+    "to": 381.82,
+    "sid": 206,
+    "location": 2,
+    "content": "这位作者到底在说什么",
+    "music": 0.0
+  },
+  {
+    "from": 381.82,
+    "to": 382.74,
+    "sid": 207,
+    "location": 2,
+    "content": "把他找出来",
+    "music": 0.0
+  },
+  {
+    "from": 382.74,
+    "to": 384.08,
+    "sid": 208,
+    "location": 2,
+    "content": "用一句话写下来",
+    "music": 0.0
+  },
+  {
+    "from": 384.08,
+    "to": 385.08,
+    "sid": 209,
+    "location": 2,
+    "content": "然后走人",
+    "music": 0.0
+  },
+  {
+    "from": 385.08,
+    "to": 387.06,
+    "sid": 210,
+    "location": 2,
+    "content": "一本书就变成了一个立场",
+    "music": 0.0
+  },
+  {
+    "from": 387.06,
+    "to": 388.86,
+    "sid": 211,
+    "location": 2,
+    "content": "十本书变成十个立场",
+    "music": 0.0
+  },
+  {
+    "from": 388.86,
+    "to": 390.36,
+    "sid": 212,
+    "location": 2,
+    "content": "一周不可能完成的阅读",
+    "music": 0.0
+  },
+  {
+    "from": 390.36,
+    "to": 392.56,
+    "sid": 213,
+    "location": 2,
+    "content": "就压缩成了几个专注的小时",
+    "music": 0.0
+  },
+  {
+    "from": 392.56,
+    "to": 394.87,
+    "sid": 214,
+    "location": 2,
+    "content": "可这难道不是浅尝辄止吗",
+    "music": 0.0
+  },
+  {
+    "from": 394.87,
+    "to": 396.73,
+    "sid": 215,
+    "location": 2,
+    "content": "这就是让他变深刻的诀窍",
+    "music": 0.0
+  },
+  {
+    "from": 396.73,
+    "to": 399.49,
+    "sid": 216,
+    "location": 2,
+    "content": "阅读书目是故意让作者们互相矛盾的",
+    "music": 0.0
+  },
+  {
+    "from": 399.49,
+    "to": 402.72,
+    "sid": 217,
+    "location": 2,
+    "content": "作者A说工业革命让工人过得更好",
+    "music": 0.0
+  },
+  {
+    "from": 402.72,
+    "to": 404.62,
+    "sid": 218,
+    "location": 2,
+    "content": "B说压垮了工人",
+    "music": 0.0
+  },
+  {
+    "from": 404.62,
+    "to": 407.6,
+    "sid": 219,
+    "location": 2,
+    "content": "作者C说前两位都亮错了东西",
+    "music": 0.0
+  },
+  {
+    "from": 407.6,
+    "to": 409.26,
+    "sid": 220,
+    "location": 2,
+    "content": "他们不可能全对",
+    "music": 0.0
+  },
+  {
+    "from": 409.26,
+    "to": 410.2,
+    "sid": 221,
+    "location": 2,
+    "content": "于是学生",
+    "music": 0.0
+  },
+  {
+    "from": 410.2,
+    "to": 413.22,
+    "sid": 222,
+    "location": 2,
+    "content": "就有了一个读再多书也解决不了的问题",
+    "music": 0.0
+  },
+  {
+    "from": 413.22,
+    "to": 414.66,
+    "sid": 223,
+    "location": 2,
+    "content": "总得有人来裁决",
+    "music": 0.0
+  },
+  {
+    "from": 414.66,
+    "to": 416.21,
+    "sid": 224,
+    "location": 2,
+    "content": "哪边的证据更强",
+    "music": 0.0
+  },
+  {
+    "from": 416.21,
+    "to": 418.05,
+    "sid": 225,
+    "location": 2,
+    "content": "哪个作者在隐瞒什么",
+    "music": 0.0
+  },
+  {
+    "from": 418.05,
+    "to": 420.0,
+    "sid": 226,
+    "location": 2,
+    "content": "每个论证在哪里站不住脚",
+    "music": 0.0
+  },
+  {
+    "from": 420.0,
+    "to": 422.02,
+    "sid": 227,
+    "location": 2,
+    "content": "这种判断力才是真正的技能",
+    "music": 0.0
+  },
+  {
+    "from": 422.02,
+    "to": 424.04,
+    "sid": 228,
+    "location": 2,
+    "content": "不是记住作者A说了什么",
+    "music": 0.0
+  },
+  {
+    "from": 424.04,
+    "to": 425.929,
+    "sid": 229,
+    "location": 2,
+    "content": "而是判断作者A对不对",
+    "music": 0.0
+  },
+  {
+    "from": 425.929,
+    "to": 427.729,
+    "sid": 230,
+    "location": 2,
+    "content": "学校训练的是复述",
+    "music": 0.0
+  },
+  {
+    "from": 427.729,
+    "to": 429.229,
+    "sid": 231,
+    "location": 2,
+    "content": "这里训练的是裁决",
+    "music": 0.0
+  },
+  {
+    "from": 429.229,
+    "to": 431.149,
+    "sid": 232,
+    "location": 2,
+    "content": "而裁决跟总结不一样",
+    "music": 0.0
+  },
+  {
+    "from": 431.149,
+    "to": 432.489,
+    "sid": 233,
+    "location": 2,
+    "content": "它是属于你自己的",
+    "music": 0.0
+  },
+  {
+    "from": 432.489,
+    "to": 434.039,
+    "sid": 234,
+    "location": 2,
+    "content": "没人能直接递给你",
+    "music": 0.0
+  },
+  {
+    "from": 434.039,
+    "to": 435.979,
+    "sid": 235,
+    "location": 2,
+    "content": "你必须自己把它建起来",
+    "music": 0.0
+  },
+  {
+    "from": 435.979,
+    "to": 438.599,
+    "sid": 236,
+    "location": 2,
+    "content": "而建造的过程才是真正教会你的部分",
+    "music": 0.0
+  },
+  {
+    "from": 438.599,
+    "to": 440.059,
+    "sid": 237,
+    "location": 2,
+    "content": "然后是最后一招",
+    "music": 0.0
+  },
+  {
+    "from": 440.059,
+    "to": 441.679,
+    "sid": 238,
+    "location": 2,
+    "content": "听起来很蠢的那招",
+    "music": 0.0
+  },
+  {
+    "from": 441.679,
+    "to": 443.399,
+    "sid": 239,
+    "location": 2,
+    "content": "学生刚选出了赢家",
+    "music": 0.0
+  },
+  {
+    "from": 443.399,
+    "to": 445.219,
+    "sid": 240,
+    "location": 2,
+    "content": "现在在论文写完之前",
+    "music": 0.0
+  },
+  {
+    "from": 445.219,
+    "to": 447.75,
+    "sid": 241,
+    "location": 2,
+    "content": "他们必须为自己刚说错的那一方辩护",
+    "music": 0.0
+  },
+  {
+    "from": 447.75,
+    "to": 448.83,
+    "sid": 242,
+    "location": 2,
+    "content": "不是弱化版",
+    "music": 0.0
+  },
+  {
+    "from": 448.83,
+    "to": 449.89,
+    "sid": 243,
+    "location": 2,
+    "content": "而是最强版",
+    "music": 0.0
+  },
+  {
+    "from": 449.89,
+    "to": 452.7,
+    "sid": 244,
+    "location": 2,
+    "content": "是他最聪明的支持者会提出的论证",
+    "music": 0.0
+  },
+  {
+    "from": 452.7,
+    "to": 454.1,
+    "sid": 245,
+    "location": 2,
+    "content": "而在导师课上",
+    "music": 0.0
+  },
+  {
+    "from": 454.1,
+    "to": 456.28,
+    "sid": 246,
+    "location": 2,
+    "content": "导师让他们当场大声说出来",
+    "music": 0.0
+  },
+  {
+    "from": 456.28,
+    "to": 456.89,
+    "sid": 247,
+    "location": 2,
+    "content": "Good",
+    "music": 0.0
+  },
+  {
+    "from": 456.89,
+    "to": 458.45,
+    "sid": 248,
+    "location": 2,
+    "content": "现在为反方辩护",
+    "music": 0.0
+  },
+  {
+    "from": 458.45,
+    "to": 459.69,
+    "sid": 249,
+    "location": 2,
+    "content": "这听起来像惩罚",
+    "music": 0.0
+  },
+  {
+    "from": 459.69,
+    "to": 460.61,
+    "sid": 250,
+    "location": 2,
+    "content": "这是一场考验",
+    "music": 0.0
+  },
+  {
+    "from": 460.61,
+    "to": 462.33,
+    "sid": 251,
+    "location": 2,
+    "content": "因为如果你不能为自己的答案",
+    "music": 0.0
+  },
+  {
+    "from": 462.33,
+    "to": 463.79,
+    "sid": 252,
+    "location": 2,
+    "content": "构建最强有力的反驳",
+    "music": 0.0
+  },
+  {
+    "from": 463.79,
+    "to": 465.61,
+    "sid": 253,
+    "location": 2,
+    "content": "你只理解了这个话题的一半",
+    "music": 0.0
+  },
+  {
+    "from": 465.61,
+    "to": 466.73,
+    "sid": 254,
+    "location": 2,
+    "content": "你自己那一半",
+    "music": 0.0
+  },
+  {
+    "from": 466.73,
+    "to": 470.23,
+    "sid": 255,
+    "location": 2,
+    "content": "而你跳过的那一半正是导师会攻击的那一半",
+    "music": 0.0
+  },
+  {
+    "from": 470.23,
+    "to": 473.47,
+    "sid": 256,
+    "location": 2,
+    "content": "你的版本拿你正在学的任何问题来试",
+    "music": 0.0
+  },
+  {
+    "from": 473.47,
+    "to": 476.159,
+    "sid": 257,
+    "location": 2,
+    "content": "找两三个有意相互矛盾的来源",
+    "music": 0.0
+  },
+  {
+    "from": 476.159,
+    "to": 478.999,
+    "sid": 258,
+    "location": 2,
+    "content": "三个观点一致的来源只是同一个来源",
+    "music": 0.0
+  },
+  {
+    "from": 478.999,
+    "to": 480.019,
+    "sid": 259,
+    "location": 2,
+    "content": "重复三遍",
+    "music": 0.0
+  },
+  {
+    "from": 480.019,
+    "to": 482.2,
+    "sid": 260,
+    "location": 2,
+    "content": "用一句话提炼每个立场",
+    "music": 0.0
+  },
+  {
+    "from": 482.2,
+    "to": 483.6,
+    "sid": 261,
+    "location": 2,
+    "content": "写下你的裁决",
+    "music": 0.0
+  },
+  {
+    "from": 483.6,
+    "to": 485.12,
+    "sid": 262,
+    "location": 2,
+    "content": "谁对为什么",
+    "music": 0.0
+  },
+  {
+    "from": 485.12,
+    "to": 486.48,
+    "sid": 263,
+    "location": 2,
+    "content": "然后切换立场",
+    "music": 0.0
+  },
+  {
+    "from": 486.48,
+    "to": 488.56,
+    "sid": 264,
+    "location": 2,
+    "content": "为你刚刚否定的那个立场",
+    "music": 0.0
+  },
+  {
+    "from": 488.56,
+    "to": 491.17,
+    "sid": 265,
+    "location": 2,
+    "content": "写出你能写出的最好段落",
+    "music": 0.0
+  },
+  {
+    "from": 491.17,
+    "to": 492.79,
+    "sid": 266,
+    "location": 2,
+    "content": "写得足够有说服力",
+    "music": 0.0
+  },
+  {
+    "from": 492.79,
+    "to": 495.35,
+    "sid": 267,
+    "location": 2,
+    "content": "让陌生人看不出你到底站在哪一边",
+    "music": 0.0
+  },
+  {
+    "from": 495.35,
+    "to": 498.47,
+    "sid": 268,
+    "location": 2,
+    "content": "关键在于不要为了读完而读",
+    "music": 0.0
+  },
+  {
+    "from": 498.47,
+    "to": 500.33,
+    "sid": 269,
+    "location": 2,
+    "content": "要为收集立场而度",
+    "music": 0.0
+  },
+  {
+    "from": 500.33,
+    "to": 501.25,
+    "sid": 270,
+    "location": 2,
+    "content": "逼他们交锋",
+    "music": 0.0
+  },
+  {
+    "from": 501.25,
+    "to": 502.99,
+    "sid": 271,
+    "location": 2,
+    "content": "再裁决谁是赢家",
+    "music": 0.0
+  },
+  {
+    "from": 502.99,
+    "to": 505.19,
+    "sid": 272,
+    "location": 2,
+    "content": "然后为输家全力辩护",
+    "music": 0.0
+  },
+  {
+    "from": 505.19,
+    "to": 506.65,
+    "sid": 273,
+    "location": 2,
+    "content": "一次做到这一点",
+    "music": 0.0
+  },
+  {
+    "from": 506.65,
+    "to": 509.43,
+    "sid": 274,
+    "location": 2,
+    "content": "一周的收获胜过一学期的覆盖式学习",
+    "music": 0.0
+  },
+  {
+    "from": 509.43,
+    "to": 511.37,
+    "sid": 275,
+    "location": 2,
+    "content": "这就是牛津学习机器",
+    "music": 0.0
+  },
+  {
+    "from": 511.37,
+    "to": 513.51,
+    "sid": 276,
+    "location": 2,
+    "content": "先选好问题再开始读",
+    "music": 0.0
+  },
+  {
+    "from": 513.51,
+    "to": 515.74,
+    "sid": 277,
+    "location": 2,
+    "content": "先拆解问题再回答问题",
+    "music": 0.0
+  },
+  {
+    "from": 515.74,
+    "to": 516.7,
+    "sid": 278,
+    "location": 2,
+    "content": "收集立场",
+    "music": 0.0
+  },
+  {
+    "from": 516.7,
+    "to": 517.74,
+    "sid": 279,
+    "location": 2,
+    "content": "让他们交锋",
+    "music": 0.0
+  },
+  {
+    "from": 517.74,
+    "to": 519.72,
+    "sid": 280,
+    "location": 2,
+    "content": "在为你打败的那一方辩护",
+    "music": 0.0
+  },
+  {
+    "from": 519.72,
+    "to": 520.94,
+    "sid": 281,
+    "location": 2,
+    "content": "三招一周",
+    "music": 0.0
+  },
+  {
+    "from": 520.94,
+    "to": 524.51,
+    "sid": 282,
+    "location": 2,
+    "content": "你就能在上周易患一无所知的话题上站稳脚跟",
+    "music": 0.0
+  },
+  {
+    "from": 524.51,
+    "to": 525.35,
+    "sid": 283,
+    "location": 2,
+    "content": "但得诚实",
+    "music": 0.0
+  },
+  {
+    "from": 525.35,
+    "to": 527.27,
+    "sid": 284,
+    "location": 2,
+    "content": "面对这台机器真正构建的东西",
+    "music": 0.0
+  },
+  {
+    "from": 527.27,
+    "to": 530.54,
+    "sid": 285,
+    "location": 2,
+    "content": "它构建的是理解论证判断力",
+    "music": 0.0
+  },
+  {
+    "from": 530.54,
+    "to": 531.36,
+    "sid": 286,
+    "location": 2,
+    "content": "在几天",
+    "music": 0.0
+  },
+  {
+    "from": 531.36,
+    "to": 532.72,
+    "sid": 287,
+    "location": 2,
+    "content": "而不是几个月内",
+    "music": 0.0
+  },
+  {
+    "from": 532.72,
+    "to": 535.7,
+    "sid": 288,
+    "location": 2,
+    "content": "对几乎任何事情清晰思考的能力",
+    "music": 0.0
+  },
+  {
+    "from": 535.7,
+    "to": 537.44,
+    "sid": 289,
+    "location": 2,
+    "content": "他不构建实操能力",
+    "music": 0.0
+  },
+  {
+    "from": 537.44,
+    "to": 540.58,
+    "sid": 290,
+    "location": 2,
+    "content": "你没法用写论文的方式学会说一门新语言",
+    "music": 0.0
+  },
+  {
+    "from": 540.58,
+    "to": 542.7,
+    "sid": 291,
+    "location": 2,
+    "content": "弹钢琴或挥出一记重拳",
+    "music": 0.0
+  },
+  {
+    "from": 542.7,
+    "to": 544.42,
+    "sid": 292,
+    "location": 2,
+    "content": "技能不在论证里",
+    "music": 0.0
+  },
+  {
+    "from": 544.42,
+    "to": 545.8,
+    "sid": 293,
+    "location": 2,
+    "content": "他们活在你的手上",
+    "music": 0.0
+  },
+  {
+    "from": 545.8,
+    "to": 547.8,
+    "sid": 294,
+    "location": 2,
+    "content": "而手只认一种学习方式",
+    "music": 0.0
+  },
+  {
+    "from": 547.8,
+    "to": 550.17,
+    "sid": 295,
+    "location": 2,
+    "content": "没人比日本人把这台机器造的更精",
+    "music": 0.0
+  },
+  {
+    "from": 550.17,
+    "to": 552.05,
+    "sid": 296,
+    "location": 2,
+    "content": "所以我做了这期视频拆解",
+    "music": 0.0
+  },
+  {
+    "from": 552.05,
+    "to": 554.25,
+    "sid": 297,
+    "location": 2,
+    "content": "他们如何把重复变成精通",
+    "music": 0.0
+  },
+  {
+    "from": 554.25,
+    "to": 555.73,
+    "sid": 298,
+    "location": 2,
+    "content": "以及为什么他们的方法",
+    "music": 0.0
+  },
+  {
+    "from": 555.73,
+    "to": 557.65,
+    "sid": 299,
+    "location": 2,
+    "content": "能让技能几乎变成自动反应",
+    "music": 0.0
+  },
+  {
+    "from": 557.65,
+    "to": 558.76,
+    "sid": 300,
+    "location": 2,
+    "content": "下期就看他",
+    "music": 0.0
+  }
+]

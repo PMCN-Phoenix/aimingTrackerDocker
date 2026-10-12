@@ -1,0 +1,402 @@
+[
+  {
+    "from": 0.22,
+    "to": 1.12,
+    "sid": 1,
+    "location": 2,
+    "content": "soup效应",
+    "music": 0.0
+  },
+  {
+    "from": 1.12,
+    "to": 3.71,
+    "sid": 2,
+    "location": 2,
+    "content": "吉斯特鲁普效应在心理学中",
+    "music": 0.0
+  },
+  {
+    "from": 3.71,
+    "to": 5.3,
+    "sid": 3,
+    "location": 2,
+    "content": "只由于优势反应的干扰",
+    "music": 0.0
+  },
+  {
+    "from": 5.3,
+    "to": 6.65,
+    "sid": 4,
+    "location": 2,
+    "content": "个体难以迅速准确",
+    "music": 0.0
+  },
+  {
+    "from": 6.65,
+    "to": 8.9,
+    "sid": 5,
+    "location": 2,
+    "content": "对非优势刺激做出反应的现象",
+    "music": 0.0
+  },
+  {
+    "from": 8.9,
+    "to": 10.31,
+    "sid": 6,
+    "location": 2,
+    "content": "常见的实验范式",
+    "music": 0.0
+  },
+  {
+    "from": 10.31,
+    "to": 13.46,
+    "sid": 7,
+    "location": 2,
+    "content": "举例实验一斯特鲁普的文字soup效应",
+    "music": 0.0
+  },
+  {
+    "from": 13.46,
+    "to": 15.23,
+    "sid": 8,
+    "location": 2,
+    "content": "给贝是呈现一些单词",
+    "music": 0.0
+  },
+  {
+    "from": 15.23,
+    "to": 17.42,
+    "sid": 9,
+    "location": 2,
+    "content": "有些单词的含义和颜色相同",
+    "music": 0.0
+  },
+  {
+    "from": 17.42,
+    "to": 19.61,
+    "sid": 10,
+    "location": 2,
+    "content": "有些单词含义则与颜色不同",
+    "music": 0.0
+  },
+  {
+    "from": 19.61,
+    "to": 22.76,
+    "sid": 11,
+    "location": 2,
+    "content": "此外还设置了对照组中性的一些单词",
+    "music": 0.0
+  },
+  {
+    "from": 22.76,
+    "to": 25.6,
+    "sid": 12,
+    "location": 2,
+    "content": "如蓝色的蓝字和绿色的红字",
+    "music": 0.0
+  },
+  {
+    "from": 25.6,
+    "to": 27.85,
+    "sid": 13,
+    "location": 2,
+    "content": "以及对照组黑色的苹果等等",
+    "music": 0.0
+  },
+  {
+    "from": 27.85,
+    "to": 30.19,
+    "sid": 14,
+    "location": 2,
+    "content": "实验要求背是包含单词的颜色",
+    "music": 0.0
+  },
+  {
+    "from": 30.19,
+    "to": 31.5,
+    "sid": 15,
+    "location": 2,
+    "content": "或者读出该单词",
+    "music": 0.0
+  },
+  {
+    "from": 31.5,
+    "to": 34.14,
+    "sid": 16,
+    "location": 2,
+    "content": "结果发现自己和颜色一致时",
+    "music": 0.0
+  },
+  {
+    "from": 34.14,
+    "to": 37.38,
+    "sid": 17,
+    "location": 2,
+    "content": "被试报告的速度要快于中性单词的报告速度",
+    "music": 0.0
+  },
+  {
+    "from": 37.38,
+    "to": 39.18,
+    "sid": 18,
+    "location": 2,
+    "content": "而自缢于颜色不一致时",
+    "music": 0.0
+  },
+  {
+    "from": 39.18,
+    "to": 40.53,
+    "sid": 19,
+    "location": 2,
+    "content": "被视的反应变慢",
+    "music": 0.0
+  },
+  {
+    "from": 40.53,
+    "to": 42.16,
+    "sid": 20,
+    "location": 2,
+    "content": "其发生了SP效应",
+    "music": 0.0
+  },
+  {
+    "from": 42.16,
+    "to": 45.31,
+    "sid": 21,
+    "location": 2,
+    "content": "实验二马赛尔的rap启动实验",
+    "music": 0.0
+  },
+  {
+    "from": 45.31,
+    "to": 47.29,
+    "sid": 22,
+    "location": 2,
+    "content": "先给贝是呈现一个启动词",
+    "music": 0.0
+  },
+  {
+    "from": 47.29,
+    "to": 47.86,
+    "sid": 23,
+    "location": 2,
+    "content": "如红",
+    "music": 0.0
+  },
+  {
+    "from": 47.86,
+    "to": 49.3,
+    "sid": 24,
+    "location": 2,
+    "content": "马上再呈现一个色块",
+    "music": 0.0
+  },
+  {
+    "from": 49.3,
+    "to": 50.0,
+    "sid": 25,
+    "location": 2,
+    "content": "如绿色",
+    "music": 0.0
+  },
+  {
+    "from": 50.0,
+    "to": 52.13,
+    "sid": 26,
+    "location": 2,
+    "content": "让贝斯快速报告色块的颜色",
+    "music": 0.0
+  },
+  {
+    "from": 52.13,
+    "to": 54.22,
+    "sid": 27,
+    "location": 2,
+    "content": "启动词与色块颜色可以一致",
+    "music": 0.0
+  },
+  {
+    "from": 54.22,
+    "to": 55.54,
+    "sid": 28,
+    "location": 2,
+    "content": "也可以不一致",
+    "music": 0.0
+  },
+  {
+    "from": 55.54,
+    "to": 56.74,
+    "sid": 29,
+    "location": 2,
+    "content": "研究发现",
+    "music": 0.0
+  },
+  {
+    "from": 56.74,
+    "to": 59.41,
+    "sid": 30,
+    "location": 2,
+    "content": "启动词意思和热色块颜色一致时",
+    "music": 0.0
+  },
+  {
+    "from": 59.41,
+    "to": 61.0,
+    "sid": 31,
+    "location": 2,
+    "content": "被试的报告速度快",
+    "music": 0.0
+  },
+  {
+    "from": 61.0,
+    "to": 62.56,
+    "sid": 32,
+    "location": 2,
+    "content": "当二者不一致时",
+    "music": 0.08196720639613138
+  },
+  {
+    "from": 62.56,
+    "to": 64.36,
+    "sid": 33,
+    "location": 2,
+    "content": "被试的反应就变慢了",
+    "music": 0.0
+  },
+  {
+    "from": 64.36,
+    "to": 66.28,
+    "sid": 34,
+    "location": 2,
+    "content": "在觉察和不觉察的情况下",
+    "music": 0.0
+  },
+  {
+    "from": 66.28,
+    "to": 67.93,
+    "sid": 35,
+    "location": 2,
+    "content": "都产生了soup效应",
+    "music": 0.0
+  },
+  {
+    "from": 67.93,
+    "to": 70.03,
+    "sid": 36,
+    "location": 2,
+    "content": "即背式对启动词没有觉察",
+    "music": 0.0
+  },
+  {
+    "from": 70.03,
+    "to": 71.92,
+    "sid": 37,
+    "location": 2,
+    "content": "启动效应也仍然存在",
+    "music": 0.0
+  },
+  {
+    "from": 71.92,
+    "to": 75.26,
+    "sid": 38,
+    "location": 2,
+    "content": "实验三实验性分离的soup启动实验",
+    "music": 0.0
+  },
+  {
+    "from": 75.26,
+    "to": 78.36,
+    "sid": 39,
+    "location": 2,
+    "content": "希斯曼和梅里科尔改进了马赛尔的启动实验",
+    "music": 0.0
+  },
+  {
+    "from": 78.36,
+    "to": 81.81,
+    "sid": 40,
+    "location": 2,
+    "content": "通过操纵启动词和色块颜色一致的出现频率",
+    "music": 0.0
+  },
+  {
+    "from": 81.81,
+    "to": 85.039,
+    "sid": 41,
+    "location": 2,
+    "content": "获得了觉察和无觉察条件下的实验性分离",
+    "music": 0.0
+  },
+  {
+    "from": 85.039,
+    "to": 86.389,
+    "sid": 42,
+    "location": 2,
+    "content": "实验结果得出",
+    "music": 0.0
+  },
+  {
+    "from": 86.389,
+    "to": 87.769,
+    "sid": 43,
+    "location": 2,
+    "content": "在觉察条件下",
+    "music": 0.0
+  },
+  {
+    "from": 87.769,
+    "to": 90.82,
+    "sid": 44,
+    "location": 2,
+    "content": "随着启动词与色块一致出现的频率越高",
+    "music": 0.0
+  },
+  {
+    "from": 90.82,
+    "to": 92.41,
+    "sid": 45,
+    "location": 2,
+    "content": "soup启动效应越强",
+    "music": 0.0
+  },
+  {
+    "from": 92.41,
+    "to": 93.85,
+    "sid": 46,
+    "location": 2,
+    "content": "在不一致情况下",
+    "music": 0.0
+  },
+  {
+    "from": 93.85,
+    "to": 95.4,
+    "sid": 47,
+    "location": 2,
+    "content": "反应时间明显拉长",
+    "music": 0.0
+  },
+  {
+    "from": 95.4,
+    "to": 96.69,
+    "sid": 48,
+    "location": 2,
+    "content": "出现频率效应",
+    "music": 0.0
+  },
+  {
+    "from": 96.69,
+    "to": 98.44,
+    "sid": 49,
+    "location": 2,
+    "content": "而在无觉察条件下",
+    "music": 0.0
+  },
+  {
+    "from": 98.44,
+    "to": 102.88,
+    "sid": 50,
+    "location": 2,
+    "content": "soup启动效应不受一致实验频率的影响",
+    "music": 0.24561402790602244
+  }
+]

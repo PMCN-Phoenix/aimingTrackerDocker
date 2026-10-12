@@ -1,0 +1,2938 @@
+[
+  {
+    "from": 0.12,
+    "to": 1.44,
+    "sid": 1,
+    "location": 2,
+    "content": "同学们大家下午好啊",
+    "music": 0.0
+  },
+  {
+    "from": 1.44,
+    "to": 3.72,
+    "sid": 2,
+    "location": 2,
+    "content": "今天我给大家介绍这篇文献啊",
+    "music": 0.0
+  },
+  {
+    "from": 3.72,
+    "to": 6.36,
+    "sid": 3,
+    "location": 2,
+    "content": "文献的题目就叫做数学能力的改善",
+    "music": 0.0
+  },
+  {
+    "from": 6.36,
+    "to": 8.23,
+    "sid": 4,
+    "location": 2,
+    "content": "针对工作进行训练的语言分析",
+    "music": 0.0
+  },
+  {
+    "from": 8.23,
+    "to": 9.58,
+    "sid": 5,
+    "location": 2,
+    "content": "好播放一下",
+    "music": 0.0
+  },
+  {
+    "from": 13.64,
+    "to": 15.64,
+    "sid": 6,
+    "location": 2,
+    "content": "呃我为什么会选择这篇文献呢",
+    "music": 0.0
+  },
+  {
+    "from": 15.64,
+    "to": 18.58,
+    "sid": 7,
+    "location": 2,
+    "content": "因为我之前在网上看到有人说就是啊",
+    "music": 0.0
+  },
+  {
+    "from": 18.58,
+    "to": 19.51,
+    "sid": 8,
+    "location": 2,
+    "content": "我数学学不好",
+    "music": 0.0
+  },
+  {
+    "from": 19.51,
+    "to": 20.5,
+    "sid": 9,
+    "location": 2,
+    "content": "只会死背呃",
+    "music": 0.0
+  },
+  {
+    "from": 20.5,
+    "to": 22.26,
+    "sid": 10,
+    "location": 2,
+    "content": "还有人就说哦我数学不好",
+    "music": 0.0
+  },
+  {
+    "from": 22.26,
+    "to": 23.16,
+    "sid": 11,
+    "location": 2,
+    "content": "只能选文科",
+    "music": 0.0
+  },
+  {
+    "from": 23.16,
+    "to": 23.88,
+    "sid": 12,
+    "location": 2,
+    "content": "考不好大学",
+    "music": 0.0
+  },
+  {
+    "from": 23.88,
+    "to": 25.02,
+    "sid": 13,
+    "location": 2,
+    "content": "那我就在想嗯",
+    "music": 0.0
+  },
+  {
+    "from": 25.02,
+    "to": 27.84,
+    "sid": 14,
+    "location": 2,
+    "content": "造成一些学生数学学习困难的原因是什么呢",
+    "music": 0.0
+  },
+  {
+    "from": 27.84,
+    "to": 29.46,
+    "sid": 15,
+    "location": 2,
+    "content": "那带着这样的一个疑惑啊",
+    "music": 0.0
+  },
+  {
+    "from": 29.46,
+    "to": 30.66,
+    "sid": 16,
+    "location": 2,
+    "content": "我就看了这篇文献",
+    "music": 0.0
+  },
+  {
+    "from": 31.259,
+    "to": 33.719,
+    "sid": 17,
+    "location": 2,
+    "content": "这篇文献呢它是一个综述类的文献",
+    "music": 0.0
+  },
+  {
+    "from": 33.719,
+    "to": 35.279,
+    "sid": 18,
+    "location": 2,
+    "content": "发表在心理科学进展中",
+    "music": 0.0
+  },
+  {
+    "from": 35.279,
+    "to": 37.919,
+    "sid": 19,
+    "location": 2,
+    "content": "复合的影响因子是2.877啊",
+    "music": 0.0
+  },
+  {
+    "from": 37.919,
+    "to": 38.879,
+    "sid": 20,
+    "location": 2,
+    "content": "在这篇文献中",
+    "music": 0.0
+  },
+  {
+    "from": 38.879,
+    "to": 39.78,
+    "sid": 21,
+    "location": 2,
+    "content": "他就指出",
+    "music": 0.0
+  },
+  {
+    "from": 39.78,
+    "to": 41.7,
+    "sid": 22,
+    "location": 2,
+    "content": "而造成数学学习困难的",
+    "music": 0.0
+  },
+  {
+    "from": 41.7,
+    "to": 44.599,
+    "sid": 23,
+    "location": 2,
+    "content": "可能原因是工作记忆训练的缺陷",
+    "music": 0.0
+  },
+  {
+    "from": 45.9,
+    "to": 47.94,
+    "sid": 24,
+    "location": 2,
+    "content": "就是以往有研究",
+    "music": 0.0
+  },
+  {
+    "from": 47.94,
+    "to": 48.69,
+    "sid": 25,
+    "location": 2,
+    "content": "他证实",
+    "music": 0.0
+  },
+  {
+    "from": 48.69,
+    "to": 52.94,
+    "sid": 26,
+    "location": 2,
+    "content": "工作记忆在数学能力的发展中具有一定的作用",
+    "music": 0.0
+  },
+  {
+    "from": 52.94,
+    "to": 53.78,
+    "sid": 27,
+    "location": 2,
+    "content": "然后就是因此",
+    "music": 0.0
+  },
+  {
+    "from": 53.78,
+    "to": 56.6,
+    "sid": 28,
+    "location": 2,
+    "content": "这个工作机训练对数学能力的提升和改善效果",
+    "music": 0.0
+  },
+  {
+    "from": 56.6,
+    "to": 57.83,
+    "sid": 29,
+    "location": 2,
+    "content": "就成为关注的热点",
+    "music": 0.0
+  },
+  {
+    "from": 57.83,
+    "to": 59.27,
+    "sid": 30,
+    "location": 2,
+    "content": "但是呢以往的实证研究",
+    "music": 0.0
+  },
+  {
+    "from": 59.27,
+    "to": 61.71,
+    "sid": 31,
+    "location": 2,
+    "content": "它只从数学能力的单个维度去研究",
+    "music": 0.0
+  },
+  {
+    "from": 61.71,
+    "to": 63.06,
+    "sid": 32,
+    "location": 2,
+    "content": "没有做一个系统的概括",
+    "music": 0.0
+  },
+  {
+    "from": 63.06,
+    "to": 63.87,
+    "sid": 33,
+    "location": 2,
+    "content": "那这个综述",
+    "music": 0.0
+  },
+  {
+    "from": 63.87,
+    "to": 66.67,
+    "sid": 34,
+    "location": 2,
+    "content": "它首先他介绍了一系列的工作记忆训练的范式",
+    "music": 0.0
+  },
+  {
+    "from": 66.67,
+    "to": 68.5,
+    "sid": 35,
+    "location": 2,
+    "content": "然后他利用一个原分析的方法",
+    "music": 0.0
+  },
+  {
+    "from": 68.5,
+    "to": 70.15,
+    "sid": 36,
+    "location": 2,
+    "content": "去系统的概括和探讨",
+    "music": 0.0
+  },
+  {
+    "from": 70.15,
+    "to": 72.48,
+    "sid": 37,
+    "location": 2,
+    "content": "工作记训练对数学能力的提升作用",
+    "music": 0.0
+  },
+  {
+    "from": 72.48,
+    "to": 72.9,
+    "sid": 38,
+    "location": 2,
+    "content": "然后呢",
+    "music": 0.0
+  },
+  {
+    "from": 72.9,
+    "to": 76.1,
+    "sid": 39,
+    "location": 2,
+    "content": "他还分析了就是影响这个训练效果的可能因素",
+    "music": 0.0
+  },
+  {
+    "from": 77.72,
+    "to": 80.26,
+    "sid": 40,
+    "location": 2,
+    "content": "呃接下来作者他就介绍了一些相关的概念",
+    "music": 0.0
+  },
+  {
+    "from": 80.26,
+    "to": 81.94,
+    "sid": 41,
+    "location": 2,
+    "content": "我们看一下这个数学能力啊",
+    "music": 0.0
+  },
+  {
+    "from": 81.94,
+    "to": 84.99,
+    "sid": 42,
+    "location": 2,
+    "content": "作文中他就指出数学能力它包括数量关系",
+    "music": 0.0
+  },
+  {
+    "from": 84.99,
+    "to": 86.76,
+    "sid": 43,
+    "location": 2,
+    "content": "空间计算问题解决等",
+    "music": 0.0
+  },
+  {
+    "from": 86.76,
+    "to": 89.07,
+    "sid": 44,
+    "location": 2,
+    "content": "呃文中他把这个数学能力分为三个维度",
+    "music": 0.0
+  },
+  {
+    "from": 89.07,
+    "to": 91.59,
+    "sid": 45,
+    "location": 2,
+    "content": "分别是数运算和数学推理",
+    "music": 0.0
+  },
+  {
+    "from": 91.59,
+    "to": 94.32,
+    "sid": 46,
+    "location": 2,
+    "content": "数感它指的是心理表征和操作数字",
+    "music": 0.0
+  },
+  {
+    "from": 94.32,
+    "to": 95.46,
+    "sid": 47,
+    "location": 2,
+    "content": "数量的一些能力啊",
+    "music": 0.0
+  },
+  {
+    "from": 95.46,
+    "to": 96.6,
+    "sid": 48,
+    "location": 2,
+    "content": "比如就包括数数啊",
+    "music": 0.0
+  },
+  {
+    "from": 96.6,
+    "to": 97.38,
+    "sid": 49,
+    "location": 2,
+    "content": "数量区分",
+    "music": 0.0
+  },
+  {
+    "from": 97.38,
+    "to": 98.34,
+    "sid": 50,
+    "location": 2,
+    "content": "数字估计等等",
+    "music": 0.0
+  },
+  {
+    "from": 98.34,
+    "to": 99.36,
+    "sid": 51,
+    "location": 2,
+    "content": "这些运算",
+    "music": 0.0
+  },
+  {
+    "from": 99.36,
+    "to": 101.82,
+    "sid": 52,
+    "location": 2,
+    "content": "它是指执行计算的一些能力啊",
+    "music": 0.0
+  },
+  {
+    "from": 101.82,
+    "to": 102.42,
+    "sid": 53,
+    "location": 2,
+    "content": "数学推理",
+    "music": 0.0
+  },
+  {
+    "from": 102.42,
+    "to": 104.32,
+    "sid": 54,
+    "location": 2,
+    "content": "它是指对数量关系进行分",
+    "music": 0.0
+  },
+  {
+    "from": 104.32,
+    "to": 105.91,
+    "sid": 55,
+    "location": 2,
+    "content": "析与解决问题的这个能力",
+    "music": 0.0
+  },
+  {
+    "from": 106.21,
+    "to": 108.19,
+    "sid": 56,
+    "location": 2,
+    "content": "文中它就是从数感",
+    "music": 0.0
+  },
+  {
+    "from": 108.19,
+    "to": 111.41,
+    "sid": 57,
+    "location": 2,
+    "content": "运算和数学推理这三个方面去综述工作机",
+    "music": 0.0
+  },
+  {
+    "from": 111.41,
+    "to": 113.33,
+    "sid": 58,
+    "location": 2,
+    "content": "训练对数学能力的影响",
+    "music": 0.0
+  },
+  {
+    "from": 113.33,
+    "to": 115.19,
+    "sid": 59,
+    "location": 2,
+    "content": "那什么是工作机训练",
+    "music": 0.0
+  },
+  {
+    "from": 115.19,
+    "to": 117.92,
+    "sid": 60,
+    "location": 2,
+    "content": "那我们看一下就是呃工作机是什么",
+    "music": 0.0
+  },
+  {
+    "from": 117.92,
+    "to": 118.64,
+    "sid": 61,
+    "location": 2,
+    "content": "工作机",
+    "music": 0.0
+  },
+  {
+    "from": 118.64,
+    "to": 121.97,
+    "sid": 62,
+    "location": 2,
+    "content": "它是一个就是在信息加工过程中容量有限的",
+    "music": 0.0
+  },
+  {
+    "from": 121.97,
+    "to": 124.33,
+    "sid": 63,
+    "location": 2,
+    "content": "就是呃一边加工一边存储的啊",
+    "music": 0.0
+  },
+  {
+    "from": 124.33,
+    "to": 126.49,
+    "sid": 64,
+    "location": 2,
+    "content": "记忆就是人们在认知过程中",
+    "music": 0.0
+  },
+  {
+    "from": 126.49,
+    "to": 129.49,
+    "sid": 65,
+    "location": 2,
+    "content": "他需要从这个常识记忆中去把信息提取出来",
+    "music": 0.0
+  },
+  {
+    "from": 129.49,
+    "to": 129.97,
+    "sid": 66,
+    "location": 2,
+    "content": "呃",
+    "music": 0.0
+  },
+  {
+    "from": 129.97,
+    "to": 132.04,
+    "sid": 67,
+    "location": 2,
+    "content": "这部分信息利用完之后又返回到尝试记中",
+    "music": 0.0
+  },
+  {
+    "from": 132.04,
+    "to": 133.45,
+    "sid": 68,
+    "location": 2,
+    "content": "那这些信息它被提取出来",
+    "music": 0.0
+  },
+  {
+    "from": 133.45,
+    "to": 134.29,
+    "sid": 69,
+    "location": 2,
+    "content": "处于一个活动的状态",
+    "music": 0.0
+  },
+  {
+    "from": 134.29,
+    "to": 135.34,
+    "sid": 70,
+    "location": 2,
+    "content": "这就是工作机",
+    "music": 0.0
+  },
+  {
+    "from": 135.34,
+    "to": 137.74,
+    "sid": 71,
+    "location": 2,
+    "content": "巴德利的呢又将工作记分为四个成分",
+    "music": 0.0
+  },
+  {
+    "from": 137.74,
+    "to": 140.26,
+    "sid": 72,
+    "location": 2,
+    "content": "分别是中央执行系统视觉化了",
+    "music": 0.0
+  },
+  {
+    "from": 140.26,
+    "to": 141.55,
+    "sid": 73,
+    "location": 2,
+    "content": "也就是视觉空间模板",
+    "music": 0.0
+  },
+  {
+    "from": 141.55,
+    "to": 143.56,
+    "sid": 74,
+    "location": 2,
+    "content": "情景缓冲器和云环路啊",
+    "music": 0.0
+  },
+  {
+    "from": 143.56,
+    "to": 144.43,
+    "sid": 75,
+    "location": 2,
+    "content": "这四个成分",
+    "music": 0.0
+  },
+  {
+    "from": 144.43,
+    "to": 145.93,
+    "sid": 76,
+    "location": 2,
+    "content": "其中呢视觉空间模板",
+    "music": 0.0
+  },
+  {
+    "from": 145.93,
+    "to": 149.48,
+    "sid": 77,
+    "location": 2,
+    "content": "它主要用来处理与以视觉空间相关的一些信息",
+    "music": 0.0
+  },
+  {
+    "from": 149.48,
+    "to": 152.66,
+    "sid": 78,
+    "location": 2,
+    "content": "语音环路它用来处理以语音为基础的信息啊",
+    "music": 0.0
+  },
+  {
+    "from": 152.66,
+    "to": 154.48,
+    "sid": 79,
+    "location": 2,
+    "content": "情景缓冲期它与情节剂相关",
+    "music": 0.0
+  },
+  {
+    "from": 154.48,
+    "to": 155.44,
+    "sid": 80,
+    "location": 2,
+    "content": "中央执行系统",
+    "music": 0.0
+  },
+  {
+    "from": 155.44,
+    "to": 157.24,
+    "sid": 81,
+    "location": 2,
+    "content": "它是工作记忆最重要的一个成分啊",
+    "music": 0.0
+  },
+  {
+    "from": 157.24,
+    "to": 159.79,
+    "sid": 82,
+    "location": 2,
+    "content": "具体可以细分为刷新转换意志啊",
+    "music": 0.0
+  },
+  {
+    "from": 159.79,
+    "to": 162.37,
+    "sid": 83,
+    "location": 2,
+    "content": "呃他主要是负责一些注意资源的选择啊",
+    "music": 0.0
+  },
+  {
+    "from": 162.37,
+    "to": 164.14,
+    "sid": 84,
+    "location": 2,
+    "content": "转换分配等等",
+    "music": 0.0
+  },
+  {
+    "from": 164.14,
+    "to": 167.54,
+    "sid": 85,
+    "location": 2,
+    "content": "嗯就是文中他指数就是工作记忆的",
+    "music": 0.0
+  },
+  {
+    "from": 167.54,
+    "to": 168.68,
+    "sid": 86,
+    "location": 2,
+    "content": "它的这个各个成分",
+    "music": 0.0
+  },
+  {
+    "from": 168.68,
+    "to": 171.5,
+    "sid": 87,
+    "location": 2,
+    "content": "它在数学任务中是发挥一定作用的啊",
+    "music": 0.0
+  },
+  {
+    "from": 171.5,
+    "to": 173.6,
+    "sid": 88,
+    "location": 2,
+    "content": "比如说我们在分析数学题干时",
+    "music": 0.0
+  },
+  {
+    "from": 173.6,
+    "to": 176.15,
+    "sid": 89,
+    "location": 2,
+    "content": "言语的理解和获得就要用到这个语音环路",
+    "music": 0.0
+  },
+  {
+    "from": 176.66,
+    "to": 179.29,
+    "sid": 90,
+    "location": 2,
+    "content": "我们在做一些手指数数的一些问题的时候",
+    "music": 0.0
+  },
+  {
+    "from": 179.29,
+    "to": 181.11,
+    "sid": 91,
+    "location": 2,
+    "content": "也需要视觉空间模板的参与",
+    "music": 0.0
+  },
+  {
+    "from": 181.11,
+    "to": 183.09,
+    "sid": 92,
+    "location": 2,
+    "content": "一些运算的一些问题",
+    "music": 0.0
+  },
+  {
+    "from": 183.09,
+    "to": 185.24,
+    "sid": 93,
+    "location": 2,
+    "content": "比如说我们在做加法运算啊",
+    "music": 0.0
+  },
+  {
+    "from": 185.359,
+    "to": 186.079,
+    "sid": 94,
+    "location": 2,
+    "content": "举个例子",
+    "music": 0.0
+  },
+  {
+    "from": 186.079,
+    "to": 188.449,
+    "sid": 95,
+    "location": 2,
+    "content": "比如说啊29+34",
+    "music": 0.0
+  },
+  {
+    "from": 188.449,
+    "to": 190.82,
+    "sid": 96,
+    "location": 2,
+    "content": "这个两位数加两位数哦",
+    "music": 0.0
+  },
+  {
+    "from": 190.82,
+    "to": 192.77,
+    "sid": 97,
+    "location": 2,
+    "content": "我们就是从各位加起",
+    "music": 0.0
+  },
+  {
+    "from": 192.77,
+    "to": 194.0,
+    "sid": 98,
+    "location": 2,
+    "content": "9+4=13",
+    "music": 0.0
+  },
+  {
+    "from": 194.0,
+    "to": 195.26,
+    "sid": 99,
+    "location": 2,
+    "content": "满十进一啊",
+    "music": 0.0
+  },
+  {
+    "from": 195.26,
+    "to": 197.0,
+    "sid": 100,
+    "location": 2,
+    "content": "这个进位的一需要保持",
+    "music": 0.0
+  },
+  {
+    "from": 197.0,
+    "to": 198.44,
+    "sid": 101,
+    "location": 2,
+    "content": "然后再做十位数的运算",
+    "music": 0.0
+  },
+  {
+    "from": 198.44,
+    "to": 200.3,
+    "sid": 102,
+    "location": 2,
+    "content": "2+3+1=6",
+    "music": 0.0
+  },
+  {
+    "from": 200.3,
+    "to": 203.44,
+    "sid": 103,
+    "location": 2,
+    "content": "这个时候就是要把这个定位上来的一个提取",
+    "music": 0.0
+  },
+  {
+    "from": 203.44,
+    "to": 205.0,
+    "sid": 104,
+    "location": 2,
+    "content": "那这个信息的一个保持和提取",
+    "music": 0.0
+  },
+  {
+    "from": 205.0,
+    "to": 206.74,
+    "sid": 105,
+    "location": 2,
+    "content": "就要用到中央执行系统啊",
+    "music": 0.0
+  },
+  {
+    "from": 206.74,
+    "to": 207.34,
+    "sid": 106,
+    "location": 2,
+    "content": "除此之外呢",
+    "music": 0.0
+  },
+  {
+    "from": 209.42,
+    "to": 211.16,
+    "sid": 107,
+    "location": 2,
+    "content": "排除一些无关信息的干扰啊",
+    "music": 0.0
+  },
+  {
+    "from": 211.16,
+    "to": 212.13,
+    "sid": 108,
+    "location": 2,
+    "content": "再做一些运算",
+    "music": 0.0
+  },
+  {
+    "from": 212.13,
+    "to": 214.89,
+    "sid": 109,
+    "location": 2,
+    "content": "比如说加减乘除不同预算策略的这个转换",
+    "music": 0.0
+  },
+  {
+    "from": 214.89,
+    "to": 216.22,
+    "sid": 110,
+    "location": 2,
+    "content": "也是需要中央执行系统",
+    "music": 0.0
+  },
+  {
+    "from": 216.22,
+    "to": 218.08,
+    "sid": 111,
+    "location": 2,
+    "content": "那既然工作机各个成分",
+    "music": 0.0
+  },
+  {
+    "from": 218.08,
+    "to": 220.15,
+    "sid": 112,
+    "location": 2,
+    "content": "在数学任务中发挥一定的作用",
+    "music": 0.0
+  },
+  {
+    "from": 220.15,
+    "to": 223.2,
+    "sid": 113,
+    "location": 2,
+    "content": "那我们就可以通过训练工作机的这个各个成分",
+    "music": 0.0
+  },
+  {
+    "from": 223.2,
+    "to": 225.18,
+    "sid": 114,
+    "location": 2,
+    "content": "去提高个体的工作机容量",
+    "music": 0.0
+  },
+  {
+    "from": 225.18,
+    "to": 226.64,
+    "sid": 115,
+    "location": 2,
+    "content": "和这个资源的使用效率",
+    "music": 0.0
+  },
+  {
+    "from": 226.64,
+    "to": 227.99,
+    "sid": 116,
+    "location": 2,
+    "content": "产生牵引效应",
+    "music": 0.0
+  },
+  {
+    "from": 227.99,
+    "to": 230.54,
+    "sid": 117,
+    "location": 2,
+    "content": "从而间接地提高数学能力",
+    "music": 0.0
+  },
+  {
+    "from": 230.54,
+    "to": 233.14,
+    "sid": 118,
+    "location": 2,
+    "content": "接下来文章就是呃",
+    "music": 0.0
+  },
+  {
+    "from": 233.14,
+    "to": 235.24,
+    "sid": 119,
+    "location": 2,
+    "content": "给大家介绍这个工作记忆",
+    "music": 0.0
+  },
+  {
+    "from": 240.97,
+    "to": 243.25,
+    "sid": 120,
+    "location": 2,
+    "content": "单成分单一成分的这些任务呃",
+    "music": 0.0
+  },
+  {
+    "from": 243.25,
+    "to": 244.84,
+    "sid": 121,
+    "location": 2,
+    "content": "作者他就介绍这五种任务",
+    "music": 0.0
+  },
+  {
+    "from": 244.84,
+    "to": 248.52,
+    "sid": 122,
+    "location": 2,
+    "content": "其中这个c w m s也就是catch graduation",
+    "music": 0.0
+  },
+  {
+    "from": 248.52,
+    "to": 249.72,
+    "sid": 123,
+    "location": 2,
+    "content": "working memories ban",
+    "music": 0.0
+  },
+  {
+    "from": 249.72,
+    "to": 251.28,
+    "sid": 124,
+    "location": 2,
+    "content": "翻译过来就是分类工作记",
+    "music": 0.0
+  },
+  {
+    "from": 251.28,
+    "to": 251.85,
+    "sid": 125,
+    "location": 2,
+    "content": "广东人",
+    "music": 0.0
+  },
+  {
+    "from": 251.85,
+    "to": 254.64,
+    "sid": 126,
+    "location": 2,
+    "content": "它主要是用来训练工作记的语音回落成分",
+    "music": 0.0
+  },
+  {
+    "from": 254.64,
+    "to": 258.78,
+    "sid": 127,
+    "location": 2,
+    "content": "这个任务它是欧one out翻译过来就是找不同任务",
+    "music": 0.0
+  },
+  {
+    "from": 258.78,
+    "to": 260.34,
+    "sid": 128,
+    "location": 2,
+    "content": "它和这个cmg m任务",
+    "music": 0.0
+  },
+  {
+    "from": 260.34,
+    "to": 262.62,
+    "sid": 129,
+    "location": 2,
+    "content": "它是用来训练工作机的视觉空间模板",
+    "music": 0.0
+  },
+  {
+    "from": 262.62,
+    "to": 263.72,
+    "sid": 130,
+    "location": 2,
+    "content": "这个成分嗯",
+    "music": 0.0
+  },
+  {
+    "from": 263.72,
+    "to": 266.54,
+    "sid": 131,
+    "location": 2,
+    "content": "还有呢就是这个im它叫做running memory",
+    "music": 0.0
+  },
+  {
+    "from": 266.54,
+    "to": 267.92,
+    "sid": 132,
+    "location": 2,
+    "content": "就是活动记忆任务",
+    "music": 0.0
+  },
+  {
+    "from": 267.92,
+    "to": 269.3,
+    "sid": 133,
+    "location": 2,
+    "content": "以和这个nbc用",
+    "music": 0.0
+  },
+  {
+    "from": 269.3,
+    "to": 271.38,
+    "sid": 134,
+    "location": 2,
+    "content": "他们两个是训练工作机刷新成分",
+    "music": 0.0
+  },
+  {
+    "from": 273.3,
+    "to": 275.7,
+    "sid": 135,
+    "location": 2,
+    "content": "它主要是用来训练语音回路和视觉空间模板",
+    "music": 0.0
+  },
+  {
+    "from": 275.7,
+    "to": 276.75,
+    "sid": 136,
+    "location": 2,
+    "content": "这两个成分啊",
+    "music": 0.0
+  },
+  {
+    "from": 276.75,
+    "to": 279.97,
+    "sid": 137,
+    "location": 2,
+    "content": "就是还就具体包括这个cos i m和cfm q m",
+    "music": 0.0
+  },
+  {
+    "from": 279.97,
+    "to": 283.09,
+    "sid": 138,
+    "location": 2,
+    "content": "而这个gm gm它就是jungle memory",
+    "music": 0.0
+  },
+  {
+    "from": 283.09,
+    "to": 285.02,
+    "sid": 139,
+    "location": 2,
+    "content": "就是翻译过来就是同理任务嗯",
+    "music": 0.0
+  },
+  {
+    "from": 285.02,
+    "to": 287.03,
+    "sid": 140,
+    "location": 2,
+    "content": "那在具体操作过程中呢",
+    "music": 0.0
+  },
+  {
+    "from": 287.03,
+    "to": 290.67,
+    "sid": 141,
+    "location": 2,
+    "content": "这个比较常用的就是这个n dl和这个啊",
+    "music": 0.0
+  },
+  {
+    "from": 290.67,
+    "to": 291.54,
+    "sid": 142,
+    "location": 2,
+    "content": "从零级任务",
+    "music": 0.0
+  },
+  {
+    "from": 291.54,
+    "to": 294.21,
+    "sid": 143,
+    "location": 2,
+    "content": "其他任务他更多是以结合的方式进行的啊",
+    "music": 0.0
+  },
+  {
+    "from": 294.21,
+    "to": 296.24,
+    "sid": 144,
+    "location": 2,
+    "content": "那其之前呢我对这些啊",
+    "music": 0.0
+  },
+  {
+    "from": 296.24,
+    "to": 297.74,
+    "sid": 145,
+    "location": 2,
+    "content": "实验范式是没有很了解的",
+    "music": 0.0
+  },
+  {
+    "from": 297.74,
+    "to": 298.94,
+    "sid": 146,
+    "location": 2,
+    "content": "那通过阅读这些文献的",
+    "music": 0.0
+  },
+  {
+    "from": 298.94,
+    "to": 300.38,
+    "sid": 147,
+    "location": 2,
+    "content": "我就弄明白就行了",
+    "music": 0.0
+  },
+  {
+    "from": 300.38,
+    "to": 301.58,
+    "sid": 148,
+    "location": 2,
+    "content": "然后我想跟大家分享一下",
+    "music": 0.0
+  },
+  {
+    "from": 301.58,
+    "to": 304.27,
+    "sid": 149,
+    "location": 2,
+    "content": "这两个nbc和丛林记忆任务",
+    "music": 0.0
+  },
+  {
+    "from": 304.27,
+    "to": 306.34,
+    "sid": 150,
+    "location": 2,
+    "content": "我想就是在以后我的实验设计中",
+    "music": 0.0
+  },
+  {
+    "from": 306.34,
+    "to": 307.45,
+    "sid": 151,
+    "location": 2,
+    "content": "也可能会用到啊",
+    "music": 0.0
+  },
+  {
+    "from": 307.45,
+    "to": 308.65,
+    "sid": 152,
+    "location": 2,
+    "content": "这也是我的收获之一啊",
+    "music": 0.0
+  },
+  {
+    "from": 308.65,
+    "to": 311.23,
+    "sid": 153,
+    "location": 2,
+    "content": "我们看一下这个nbloom他是怎么做的",
+    "music": 0.0
+  },
+  {
+    "from": 311.23,
+    "to": 314.32,
+    "sid": 154,
+    "location": 2,
+    "content": "作者他就是他觉得是这个双人mac的五",
+    "music": 0.0
+  },
+  {
+    "from": 314.32,
+    "to": 316.96,
+    "sid": 155,
+    "location": 2,
+    "content": "它是类似于一个升级版吧",
+    "music": 0.0
+  },
+  {
+    "from": 316.96,
+    "to": 318.16,
+    "sid": 156,
+    "location": 2,
+    "content": "嗯他是怎么做的呢",
+    "music": 0.0
+  },
+  {
+    "from": 318.16,
+    "to": 321.64,
+    "sid": 157,
+    "location": 2,
+    "content": "它是呃同时呈现一个视觉刺激和听觉刺激",
+    "music": 0.0
+  },
+  {
+    "from": 321.64,
+    "to": 325.39,
+    "sid": 158,
+    "location": 2,
+    "content": "就要求必是他同时完成听觉任务和视觉任务哦",
+    "music": 0.0
+  },
+  {
+    "from": 325.39,
+    "to": 328.51,
+    "sid": 159,
+    "location": 2,
+    "content": "那我拿一个就是双two back任务举例嗯",
+    "music": 0.0
+  },
+  {
+    "from": 328.51,
+    "to": 330.99,
+    "sid": 160,
+    "location": 2,
+    "content": "就是在双q bug任务这个视觉任务中",
+    "music": 0.0
+  },
+  {
+    "from": 330.99,
+    "to": 333.89,
+    "sid": 161,
+    "location": 2,
+    "content": "他会在屏幕中首先呈现一个白色的加号注释点",
+    "music": 0.0
+  },
+  {
+    "from": 333.89,
+    "to": 335.99,
+    "sid": 162,
+    "location": 2,
+    "content": "然后在屏幕中央的八个方位",
+    "music": 0.0
+  },
+  {
+    "from": 335.99,
+    "to": 338.03,
+    "sid": 163,
+    "location": 2,
+    "content": "它随机呈现不同的这个小方块",
+    "music": 0.0
+  },
+  {
+    "from": 338.03,
+    "to": 338.69,
+    "sid": 164,
+    "location": 2,
+    "content": "它的要求背",
+    "music": 0.0
+  },
+  {
+    "from": 338.69,
+    "to": 341.18,
+    "sid": 165,
+    "location": 2,
+    "content": "是他记住第一次和第二次方块出现的位置",
+    "music": 0.0
+  },
+  {
+    "from": 341.18,
+    "to": 342.38,
+    "sid": 166,
+    "location": 2,
+    "content": "这个时候是不做按键反应",
+    "music": 0.0
+  },
+  {
+    "from": 342.38,
+    "to": 344.66,
+    "sid": 167,
+    "location": 2,
+    "content": "然后判断第三次方块出现的位置",
+    "music": 0.0
+  },
+  {
+    "from": 344.66,
+    "to": 347.12,
+    "sid": 168,
+    "location": 2,
+    "content": "和这个第一次的方块出现位置是否一致",
+    "music": 0.0
+  },
+  {
+    "from": 347.12,
+    "to": 348.94,
+    "sid": 169,
+    "location": 2,
+    "content": "如果一致就按a键啊",
+    "music": 0.0
+  },
+  {
+    "from": 348.94,
+    "to": 351.379,
+    "sid": 170,
+    "location": 2,
+    "content": "接着再判断第四四这个方块的位置",
+    "music": 0.0
+  },
+  {
+    "from": 351.379,
+    "to": 353.119,
+    "sid": 171,
+    "location": 2,
+    "content": "和第二次方块的位置是否一致一致",
+    "music": 0.0
+  },
+  {
+    "from": 353.119,
+    "to": 354.6,
+    "sid": 172,
+    "location": 2,
+    "content": "按a键也就以此类推",
+    "music": 0.0
+  },
+  {
+    "from": 354.92,
+    "to": 358.61,
+    "sid": 173,
+    "location": 2,
+    "content": "而听觉的目中就是它同时呈现听觉语音要求",
+    "music": 0.0
+  },
+  {
+    "from": 358.61,
+    "to": 359.15,
+    "sid": 174,
+    "location": 2,
+    "content": "背式判断",
+    "music": 0.0
+  },
+  {
+    "from": 359.15,
+    "to": 361.61,
+    "sid": 175,
+    "location": 2,
+    "content": "就是当前听到的字母和前面间隔",
+    "music": 0.0
+  },
+  {
+    "from": 361.61,
+    "to": 362.45,
+    "sid": 176,
+    "location": 2,
+    "content": "一个字母是否一样",
+    "music": 0.0
+  },
+  {
+    "from": 362.45,
+    "to": 363.71,
+    "sid": 177,
+    "location": 2,
+    "content": "也就是判断第三个字母",
+    "music": 0.0
+  },
+  {
+    "from": 363.71,
+    "to": 365.16,
+    "sid": 178,
+    "location": 2,
+    "content": "和第一个字母是否一样啊",
+    "music": 0.0
+  },
+  {
+    "from": 365.16,
+    "to": 366.66,
+    "sid": 179,
+    "location": 2,
+    "content": "第四个字母和第二个字母是否一样",
+    "music": 0.0
+  },
+  {
+    "from": 366.66,
+    "to": 367.56,
+    "sid": 180,
+    "location": 2,
+    "content": "以此类推啊",
+    "music": 0.0
+  },
+  {
+    "from": 367.56,
+    "to": 369.53,
+    "sid": 181,
+    "location": 2,
+    "content": "一样的时候就按l键嗯",
+    "music": 0.0
+  },
+  {
+    "from": 369.53,
+    "to": 370.91,
+    "sid": 182,
+    "location": 2,
+    "content": "成绩的在这个任务中",
+    "music": 0.0
+  },
+  {
+    "from": 370.91,
+    "to": 373.55,
+    "sid": 183,
+    "location": 2,
+    "content": "成绩的指标就是正确率和反应时呃",
+    "music": 0.0
+  },
+  {
+    "from": 373.55,
+    "to": 374.51,
+    "sid": 184,
+    "location": 2,
+    "content": "这个双方back的",
+    "music": 0.0
+  },
+  {
+    "from": 374.51,
+    "to": 377.7,
+    "sid": 185,
+    "location": 2,
+    "content": "它主要是用来训练工作记忆中的刷新成分",
+    "music": 0.0
+  },
+  {
+    "from": 377.7,
+    "to": 380.98,
+    "sid": 186,
+    "location": 2,
+    "content": "就是提高个体的刷新能力啊",
+    "music": 0.0
+  },
+  {
+    "from": 380.98,
+    "to": 383.26,
+    "sid": 187,
+    "location": 2,
+    "content": "接下来讲一讲这个丛林记忆任务",
+    "music": 0.0
+  },
+  {
+    "from": 383.26,
+    "to": 385.12,
+    "sid": 188,
+    "location": 2,
+    "content": "丛林记忆任务它主要是用来训练工作",
+    "music": 0.0
+  },
+  {
+    "from": 385.12,
+    "to": 386.11,
+    "sid": 189,
+    "location": 2,
+    "content": "记的是呃",
+    "music": 0.0
+  },
+  {
+    "from": 386.11,
+    "to": 388.51,
+    "sid": 190,
+    "location": 2,
+    "content": "语音回路和视觉空间模板这两个成分嗯",
+    "music": 0.0
+  },
+  {
+    "from": 388.51,
+    "to": 389.71,
+    "sid": 191,
+    "location": 2,
+    "content": "它包括三个任务",
+    "music": 0.0
+  },
+  {
+    "from": 389.71,
+    "to": 390.97,
+    "sid": 192,
+    "location": 2,
+    "content": "第一个任务是矩阵任务",
+    "music": 0.0
+  },
+  {
+    "from": 390.97,
+    "to": 393.22,
+    "sid": 193,
+    "location": 2,
+    "content": "就是在这个矩阵中他呈现字母",
+    "music": 0.0
+  },
+  {
+    "from": 393.22,
+    "to": 396.2,
+    "sid": 194,
+    "location": 2,
+    "content": "然后要求被试去记住这个目标字母的位置",
+    "music": 0.0
+  },
+  {
+    "from": 396.2,
+    "to": 398.0,
+    "sid": 195,
+    "location": 2,
+    "content": "第二个任务是字母旋转任务",
+    "music": 0.0
+  },
+  {
+    "from": 398.0,
+    "to": 399.23,
+    "sid": 196,
+    "location": 2,
+    "content": "它会呈现两个字母",
+    "music": 0.0
+  },
+  {
+    "from": 399.23,
+    "to": 400.76,
+    "sid": 197,
+    "location": 2,
+    "content": "其中的一个字母被旋转啊",
+    "music": 0.0
+  },
+  {
+    "from": 400.76,
+    "to": 402.92,
+    "sid": 198,
+    "location": 2,
+    "content": "要求被试它记住这个旋转的角度",
+    "music": 0.0
+  },
+  {
+    "from": 402.92,
+    "to": 404.6,
+    "sid": 199,
+    "location": 2,
+    "content": "然后一系列字母呈现结束后呢",
+    "music": 0.0
+  },
+  {
+    "from": 404.6,
+    "to": 406.7,
+    "sid": 200,
+    "location": 2,
+    "content": "要求便是按照顺序去回忆啊",
+    "music": 0.0
+  },
+  {
+    "from": 406.7,
+    "to": 407.909,
+    "sid": 201,
+    "location": 2,
+    "content": "字母的旋转角度",
+    "music": 0.0
+  },
+  {
+    "from": 407.909,
+    "to": 410.249,
+    "sid": 202,
+    "location": 2,
+    "content": "第三个是计算广度的任务",
+    "music": 0.0
+  },
+  {
+    "from": 410.249,
+    "to": 412.529,
+    "sid": 203,
+    "location": 2,
+    "content": "他就是要求被试去解决一些运算问题",
+    "music": 0.0
+  },
+  {
+    "from": 412.529,
+    "to": 413.939,
+    "sid": 204,
+    "location": 2,
+    "content": "比如说这个3+6等于几啊",
+    "music": 0.0
+  },
+  {
+    "from": 413.939,
+    "to": 416.48,
+    "sid": 205,
+    "location": 2,
+    "content": "然后他这个任务它的难度会逐渐增大",
+    "music": 0.0
+  },
+  {
+    "from": 416.9,
+    "to": 419.75,
+    "sid": 206,
+    "location": 2,
+    "content": "嗯总而言之就是这些实验任务",
+    "music": 0.0
+  },
+  {
+    "from": 419.75,
+    "to": 420.59,
+    "sid": 207,
+    "location": 2,
+    "content": "它的一个大致思路",
+    "music": 0.0
+  },
+  {
+    "from": 420.59,
+    "to": 423.23,
+    "sid": 208,
+    "location": 2,
+    "content": "就是通过训练工作机的三个成分",
+    "music": 0.0
+  },
+  {
+    "from": 423.23,
+    "to": 424.25,
+    "sid": 209,
+    "location": 2,
+    "content": "或者是多个成分",
+    "music": 0.0
+  },
+  {
+    "from": 424.25,
+    "to": 426.16,
+    "sid": 210,
+    "location": 2,
+    "content": "去提高个体的这个一般的认知能力",
+    "music": 0.0
+  },
+  {
+    "from": 426.16,
+    "to": 428.26,
+    "sid": 211,
+    "location": 2,
+    "content": "而产生牵引效应",
+    "music": 0.0
+  },
+  {
+    "from": 428.26,
+    "to": 430.34,
+    "sid": 212,
+    "location": 2,
+    "content": "从而间接地去提高数学能力",
+    "music": 0.0
+  },
+  {
+    "from": 431.42,
+    "to": 435.2,
+    "sid": 213,
+    "location": 2,
+    "content": "然后接下来作者就开始系统地去综综述工作机",
+    "music": 0.0
+  },
+  {
+    "from": 435.2,
+    "to": 437.24,
+    "sid": 214,
+    "location": 2,
+    "content": "训练对数学能力的原本期嗯",
+    "music": 0.0
+  },
+  {
+    "from": 437.24,
+    "to": 438.83,
+    "sid": 215,
+    "location": 2,
+    "content": "在研究化方法部分啊",
+    "music": 0.0
+  },
+  {
+    "from": 438.83,
+    "to": 441.86,
+    "sid": 216,
+    "location": 2,
+    "content": "他作者他利用了这个comprehensive mental analysis",
+    "music": 0.0
+  },
+  {
+    "from": 441.86,
+    "to": 443.18,
+    "sid": 217,
+    "location": 2,
+    "content": "他进行原分析啊",
+    "music": 0.0
+  },
+  {
+    "from": 443.18,
+    "to": 446.03,
+    "sid": 218,
+    "location": 2,
+    "content": "采用这个cos记忆作为像样的指标",
+    "music": 0.0
+  },
+  {
+    "from": 446.03,
+    "to": 448.43,
+    "sid": 219,
+    "location": 2,
+    "content": "其中就是0.8为大效力量啊",
+    "music": 0.0
+  },
+  {
+    "from": 448.43,
+    "to": 450.59,
+    "sid": 220,
+    "location": 2,
+    "content": "cod等于0.50是中等向量啊",
+    "music": 0.0
+  },
+  {
+    "from": 450.59,
+    "to": 452.21,
+    "sid": 221,
+    "location": 2,
+    "content": "cod 0.2是为小效",
+    "music": 0.0
+  },
+  {
+    "from": 452.21,
+    "to": 454.12,
+    "sid": 222,
+    "location": 2,
+    "content": "像小的效应量嗯",
+    "music": 0.0
+  },
+  {
+    "from": 454.12,
+    "to": 456.28,
+    "sid": 223,
+    "location": 2,
+    "content": "其实之前我对原分析这一块是比较空白的",
+    "music": 0.0
+  },
+  {
+    "from": 456.28,
+    "to": 457.54,
+    "sid": 224,
+    "location": 2,
+    "content": "然后通过阅读这篇文献",
+    "music": 0.0
+  },
+  {
+    "from": 457.54,
+    "to": 459.04,
+    "sid": 225,
+    "location": 2,
+    "content": "然后查阅了一些资料啊",
+    "music": 0.0
+  },
+  {
+    "from": 459.04,
+    "to": 460.54,
+    "sid": 226,
+    "location": 2,
+    "content": "我就明白这个原分析",
+    "music": 0.0
+  },
+  {
+    "from": 460.54,
+    "to": 463.51,
+    "sid": 227,
+    "location": 2,
+    "content": "它其实就是一种用定量的方法去总结概括",
+    "music": 0.0
+  },
+  {
+    "from": 463.51,
+    "to": 464.92,
+    "sid": 228,
+    "location": 2,
+    "content": "总结已有的研究结果",
+    "music": 0.0
+  },
+  {
+    "from": 464.92,
+    "to": 467.539,
+    "sid": 229,
+    "location": 2,
+    "content": "它类似于一个定量的一个系统的综述",
+    "music": 0.0
+  },
+  {
+    "from": 467.539,
+    "to": 469.88,
+    "sid": 230,
+    "location": 2,
+    "content": "但是它与传统的这个综述是有区别的",
+    "music": 0.0
+  },
+  {
+    "from": 469.88,
+    "to": 472.82,
+    "sid": 231,
+    "location": 2,
+    "content": "相比传统的综述它在这个文献检索的时候",
+    "music": 0.0
+  },
+  {
+    "from": 472.82,
+    "to": 475.8,
+    "sid": 232,
+    "location": 2,
+    "content": "它具有更加系统明确的检索的标准",
+    "music": 0.0
+  },
+  {
+    "from": 476.16,
+    "to": 477.93,
+    "sid": 233,
+    "location": 2,
+    "content": "人分析它可以整合大量的信息",
+    "music": 0.0
+  },
+  {
+    "from": 477.93,
+    "to": 480.45,
+    "sid": 234,
+    "location": 2,
+    "content": "并且能够尽量的去综合业务的研究",
+    "music": 0.0
+  },
+  {
+    "from": 480.45,
+    "to": 482.31,
+    "sid": 235,
+    "location": 2,
+    "content": "还会可以解决一些争议的问题",
+    "music": 0.0
+  },
+  {
+    "from": 482.31,
+    "to": 483.909,
+    "sid": 236,
+    "location": 2,
+    "content": "并且他还会去呃",
+    "music": 0.0
+  },
+  {
+    "from": 483.909,
+    "to": 485.919,
+    "sid": 237,
+    "location": 2,
+    "content": "探究一些影响不一致的可能因素",
+    "music": 0.0
+  },
+  {
+    "from": 485.919,
+    "to": 487.269,
+    "sid": 238,
+    "location": 2,
+    "content": "由此由此也可以看出",
+    "music": 0.0
+  },
+  {
+    "from": 487.269,
+    "to": 487.989,
+    "sid": 239,
+    "location": 2,
+    "content": "他这个原分析",
+    "music": 0.0
+  },
+  {
+    "from": 487.989,
+    "to": 491.11,
+    "sid": 240,
+    "location": 2,
+    "content": "他在那个筛选和考虑问题时都更加的全面",
+    "music": 0.0
+  },
+  {
+    "from": 491.11,
+    "to": 492.82,
+    "sid": 241,
+    "location": 2,
+    "content": "因此这个方法应用的比较多",
+    "music": 0.0
+  },
+  {
+    "from": 492.82,
+    "to": 494.02,
+    "sid": 242,
+    "location": 2,
+    "content": "也比较精确",
+    "music": 0.0
+  },
+  {
+    "from": 494.18,
+    "to": 496.52,
+    "sid": 243,
+    "location": 2,
+    "content": "接下来作者他就开始检索文献啊",
+    "music": 0.0
+  },
+  {
+    "from": 496.52,
+    "to": 497.57,
+    "sid": 244,
+    "location": 2,
+    "content": "在检索文献时呢",
+    "music": 0.0
+  },
+  {
+    "from": 497.57,
+    "to": 499.16,
+    "sid": 245,
+    "location": 2,
+    "content": "呃作者他啊",
+    "music": 0.0
+  },
+  {
+    "from": 499.16,
+    "to": 502.46,
+    "sid": 246,
+    "location": 2,
+    "content": "对200年到2016年发的文章进行检索",
+    "music": 0.0
+  },
+  {
+    "from": 502.46,
+    "to": 504.5,
+    "sid": 247,
+    "location": 2,
+    "content": "检索的关键词就是working memory",
+    "music": 0.0
+  },
+  {
+    "from": 504.5,
+    "to": 505.64,
+    "sid": 248,
+    "location": 2,
+    "content": "training of math",
+    "music": 0.0
+  },
+  {
+    "from": 505.64,
+    "to": 507.619,
+    "sid": 249,
+    "location": 2,
+    "content": "arithmetic calculation啊",
+    "music": 0.0
+  },
+  {
+    "from": 507.619,
+    "to": 509.329,
+    "sid": 250,
+    "location": 2,
+    "content": "number sense and reason这些关键词",
+    "music": 0.0
+  },
+  {
+    "from": 509.329,
+    "to": 511.429,
+    "sid": 251,
+    "location": 2,
+    "content": "然后作者还他进行了一个回溯的检索",
+    "music": 0.0
+  },
+  {
+    "from": 511.429,
+    "to": 512.749,
+    "sid": 252,
+    "location": 2,
+    "content": "就是为了避免一个文件",
+    "music": 0.0
+  },
+  {
+    "from": 512.749,
+    "to": 514.559,
+    "sid": 253,
+    "location": 2,
+    "content": "然后再去掉一些重复的文献",
+    "music": 0.0
+  },
+  {
+    "from": 514.559,
+    "to": 517.139,
+    "sid": 254,
+    "location": 2,
+    "content": "排除一些就是不是工作经训练相关的啊",
+    "music": 0.0
+  },
+  {
+    "from": 517.139,
+    "to": 518.519,
+    "sid": 255,
+    "location": 2,
+    "content": "没有测量数改运算",
+    "music": 0.0
+  },
+  {
+    "from": 518.519,
+    "to": 520.33,
+    "sid": 256,
+    "location": 2,
+    "content": "数学推理能力这方面的啊",
+    "music": 0.0
+  },
+  {
+    "from": 520.33,
+    "to": 522.55,
+    "sid": 257,
+    "location": 2,
+    "content": "一些没有报告计算向量所需实验数据",
+    "music": 0.0
+  },
+  {
+    "from": 522.55,
+    "to": 525.37,
+    "sid": 258,
+    "location": 2,
+    "content": "这些无关文件之后最终有23篇啊",
+    "music": 0.0
+  },
+  {
+    "from": 525.37,
+    "to": 526.4,
+    "sid": 259,
+    "location": 2,
+    "content": "纳入原分析",
+    "music": 0.0
+  },
+  {
+    "from": 528.14,
+    "to": 530.14,
+    "sid": 260,
+    "location": 2,
+    "content": "呃然后呢作者他还分析了",
+    "music": 0.0
+  },
+  {
+    "from": 530.14,
+    "to": 533.7,
+    "sid": 261,
+    "location": 2,
+    "content": "就是影响训练效果的一个因素就是调节变量啊",
+    "music": 0.0
+  },
+  {
+    "from": 533.7,
+    "to": 535.62,
+    "sid": 262,
+    "location": 2,
+    "content": "调节变量具体就包括被试的年龄啊",
+    "music": 0.0
+  },
+  {
+    "from": 535.62,
+    "to": 536.82,
+    "sid": 263,
+    "location": 2,
+    "content": "被试的类型啊",
+    "music": 0.0
+  },
+  {
+    "from": 536.82,
+    "to": 537.56,
+    "sid": 264,
+    "location": 2,
+    "content": "事业目标",
+    "music": 0.0
+  },
+  {
+    "from": 537.56,
+    "to": 538.34,
+    "sid": 265,
+    "location": 2,
+    "content": "任务类型",
+    "music": 0.0
+  },
+  {
+    "from": 538.34,
+    "to": 539.36,
+    "sid": 266,
+    "location": 2,
+    "content": "还有一些训练强度",
+    "music": 0.0
+  },
+  {
+    "from": 539.36,
+    "to": 539.96,
+    "sid": 267,
+    "location": 2,
+    "content": "训练频率",
+    "music": 0.0
+  },
+  {
+    "from": 539.96,
+    "to": 540.98,
+    "sid": 268,
+    "location": 2,
+    "content": "训练时长等等",
+    "music": 0.0
+  },
+  {
+    "from": 540.98,
+    "to": 543.579,
+    "sid": 269,
+    "location": 2,
+    "content": "这些作者呢他参照已有的编码方式",
+    "music": 0.0
+  },
+  {
+    "from": 543.579,
+    "to": 545.079,
+    "sid": 270,
+    "location": 2,
+    "content": "就是将这个调节变量进行编码",
+    "music": 0.0
+  },
+  {
+    "from": 545.079,
+    "to": 545.739,
+    "sid": 271,
+    "location": 2,
+    "content": "它是一种编码的呢",
+    "music": 0.0
+  },
+  {
+    "from": 545.739,
+    "to": 546.579,
+    "sid": 272,
+    "location": 2,
+    "content": "就是举个例子",
+    "music": 0.0
+  },
+  {
+    "from": 546.579,
+    "to": 547.839,
+    "sid": 273,
+    "location": 2,
+    "content": "比如说这个背饰年龄",
+    "music": 0.0
+  },
+  {
+    "from": 547.839,
+    "to": 550.419,
+    "sid": 274,
+    "location": 2,
+    "content": "他把这个呃贝是年龄低于十岁的",
+    "music": 0.0
+  },
+  {
+    "from": 550.419,
+    "to": 552.34,
+    "sid": 275,
+    "location": 2,
+    "content": "就编码为年幼儿童啊",
+    "music": 0.0
+  },
+  {
+    "from": 552.34,
+    "to": 554.26,
+    "sid": 276,
+    "location": 2,
+    "content": "年被试年龄为11~18岁的",
+    "music": 0.0
+  },
+  {
+    "from": 554.26,
+    "to": 555.94,
+    "sid": 277,
+    "location": 2,
+    "content": "就是儿童高于18岁的",
+    "music": 0.0
+  },
+  {
+    "from": 555.94,
+    "to": 558.52,
+    "sid": 278,
+    "location": 2,
+    "content": "被试就是成本这么一个编码啊",
+    "music": 0.0
+  },
+  {
+    "from": 558.52,
+    "to": 561.94,
+    "sid": 279,
+    "location": 2,
+    "content": "然后最后呢作者就开始从数学能力这三个方面",
+    "music": 0.0
+  },
+  {
+    "from": 561.94,
+    "to": 563.38,
+    "sid": 280,
+    "location": 2,
+    "content": "就是之前提过数改呃",
+    "music": 0.0
+  },
+  {
+    "from": 563.38,
+    "to": 564.7,
+    "sid": 281,
+    "location": 2,
+    "content": "计算推理这三个层面",
+    "music": 0.0
+  },
+  {
+    "from": 564.7,
+    "to": 566.44,
+    "sid": 282,
+    "location": 2,
+    "content": "他开始分别去中速工作",
+    "music": 0.0
+  },
+  {
+    "from": 566.44,
+    "to": 568.37,
+    "sid": 283,
+    "location": 2,
+    "content": "进训练对数学能力的影响嗯",
+    "music": 0.0
+  },
+  {
+    "from": 568.37,
+    "to": 569.93,
+    "sid": 284,
+    "location": 2,
+    "content": "首先我们看一下这个工作机训练",
+    "music": 0.0
+  },
+  {
+    "from": 569.93,
+    "to": 571.85,
+    "sid": 285,
+    "location": 2,
+    "content": "对数感能力的影响究竟如何",
+    "music": 0.0
+  },
+  {
+    "from": 571.85,
+    "to": 574.25,
+    "sid": 286,
+    "location": 2,
+    "content": "嗯作者他分析了就是以前的一些文件",
+    "music": 0.0
+  },
+  {
+    "from": 574.25,
+    "to": 575.89,
+    "sid": 287,
+    "location": 2,
+    "content": "然后通过原分析",
+    "music": 0.0
+  },
+  {
+    "from": 575.89,
+    "to": 579.22,
+    "sid": 288,
+    "location": 2,
+    "content": "你发现工作机训练它能够有效的改善触感能力",
+    "music": 0.0
+  },
+  {
+    "from": 579.22,
+    "to": 582.13,
+    "sid": 289,
+    "location": 2,
+    "content": "就是从表中可以看到这个cocond的0.51",
+    "music": 0.0
+  },
+  {
+    "from": 582.13,
+    "to": 583.25,
+    "sid": 290,
+    "location": 2,
+    "content": "销量中等",
+    "music": 0.0
+  },
+  {
+    "from": 583.25,
+    "to": 585.9,
+    "sid": 291,
+    "location": 2,
+    "content": "然后在分析调节变量时就发现啊",
+    "music": 0.0
+  },
+  {
+    "from": 585.9,
+    "to": 588.96,
+    "sid": 292,
+    "location": 2,
+    "content": "这个调节变量对数感能力的训练效果没有影响",
+    "music": 0.0
+  },
+  {
+    "from": 588.96,
+    "to": 591.06,
+    "sid": 293,
+    "location": 2,
+    "content": "嗯这是作者呈现的第一个结果啊",
+    "music": 0.0
+  },
+  {
+    "from": 591.06,
+    "to": 592.26,
+    "sid": 294,
+    "location": 2,
+    "content": "接下来我们看一下啊",
+    "music": 0.0
+  },
+  {
+    "from": 592.26,
+    "to": 593.04,
+    "sid": 295,
+    "location": 2,
+    "content": "第二个",
+    "music": 0.0
+  },
+  {
+    "from": 594.48,
+    "to": 597.86,
+    "sid": 296,
+    "location": 2,
+    "content": "第二个是工作计训练对数学运算能力的影响",
+    "music": 0.0
+  },
+  {
+    "from": 597.86,
+    "to": 599.96,
+    "sid": 297,
+    "location": 2,
+    "content": "就是经过作者就发现就是工作计训练",
+    "music": 0.0
+  },
+  {
+    "from": 599.96,
+    "to": 602.14,
+    "sid": 298,
+    "location": 2,
+    "content": "他无法有效地改善运算能力",
+    "music": 0.0
+  },
+  {
+    "from": 602.14,
+    "to": 604.61,
+    "sid": 299,
+    "location": 2,
+    "content": "cocd值只有0.04呃",
+    "music": 0.0
+  },
+  {
+    "from": 604.61,
+    "to": 606.77,
+    "sid": 300,
+    "location": 2,
+    "content": "而且发现就是调节力量对运算能力的训练",
+    "music": 0.0
+  },
+  {
+    "from": 606.77,
+    "to": 608.15,
+    "sid": 301,
+    "location": 2,
+    "content": "效果也是没有影响的",
+    "music": 0.0
+  },
+  {
+    "from": 608.15,
+    "to": 609.5,
+    "sid": 302,
+    "location": 2,
+    "content": "最后我们看一下",
+    "music": 0.0
+  },
+  {
+    "from": 610.14,
+    "to": 612.72,
+    "sid": 303,
+    "location": 2,
+    "content": "工作机训练对推理能力的影响啊",
+    "music": 0.0
+  },
+  {
+    "from": 612.72,
+    "to": 614.67,
+    "sid": 304,
+    "location": 2,
+    "content": "作者也发现就是工作机训练",
+    "music": 0.0
+  },
+  {
+    "from": 614.67,
+    "to": 616.8,
+    "sid": 305,
+    "location": 2,
+    "content": "无法改善数学推理能力呃",
+    "music": 0.0
+  },
+  {
+    "from": 616.8,
+    "to": 618.0,
+    "sid": 306,
+    "location": 2,
+    "content": "然后分析调节变量的时候",
+    "music": 0.0
+  },
+  {
+    "from": 618.0,
+    "to": 619.64,
+    "sid": 307,
+    "location": 2,
+    "content": "他就发现这个训练目标",
+    "music": 0.0
+  },
+  {
+    "from": 619.64,
+    "to": 621.47,
+    "sid": 308,
+    "location": 2,
+    "content": "它会影响推理能力的改善效果",
+    "music": 0.0
+  },
+  {
+    "from": 621.47,
+    "to": 622.88,
+    "sid": 309,
+    "location": 2,
+    "content": "从这个表中就可以看到",
+    "music": 0.0
+  },
+  {
+    "from": 622.88,
+    "to": 624.32,
+    "sid": 310,
+    "location": 2,
+    "content": "多目标这个训练效果",
+    "music": 0.0
+  },
+  {
+    "from": 624.32,
+    "to": 626.42,
+    "sid": 311,
+    "location": 2,
+    "content": "它比这个单一目标的训练效果要差",
+    "music": 0.0
+  },
+  {
+    "from": 626.46,
+    "to": 629.67,
+    "sid": 312,
+    "location": 2,
+    "content": "但是其他的变量对训练效果啊没有影响",
+    "music": 0.0
+  },
+  {
+    "from": 629.67,
+    "to": 631.77,
+    "sid": 313,
+    "location": 2,
+    "content": "综上就可以得出呃",
+    "music": 0.0
+  },
+  {
+    "from": 631.77,
+    "to": 635.029,
+    "sid": 314,
+    "location": 2,
+    "content": "以下结论就是工作机训练它对数感有改善作用",
+    "music": 0.0
+  },
+  {
+    "from": 635.029,
+    "to": 637.069,
+    "sid": 315,
+    "location": 2,
+    "content": "但是对数学运算和数学推理能力",
+    "music": 0.0
+  },
+  {
+    "from": 637.069,
+    "to": 638.209,
+    "sid": 316,
+    "location": 2,
+    "content": "没有提到作用啊",
+    "music": 0.0
+  },
+  {
+    "from": 638.209,
+    "to": 639.409,
+    "sid": 317,
+    "location": 2,
+    "content": "还发现就是训练目标",
+    "music": 0.0
+  },
+  {
+    "from": 639.409,
+    "to": 641.72,
+    "sid": 318,
+    "location": 2,
+    "content": "可能会影响数学推理能力的改善效果",
+    "music": 0.0
+  },
+  {
+    "from": 641.72,
+    "to": 643.52,
+    "sid": 319,
+    "location": 2,
+    "content": "最后呢作者在讨论部分还指出",
+    "music": 0.0
+  },
+  {
+    "from": 643.52,
+    "to": 644.63,
+    "sid": 320,
+    "location": 2,
+    "content": "就是由于数量有限",
+    "music": 0.0
+  },
+  {
+    "from": 644.63,
+    "to": 646.49,
+    "sid": 321,
+    "location": 2,
+    "content": "这个结论还需要谨慎的看待",
+    "music": 0.0
+  },
+  {
+    "from": 646.49,
+    "to": 648.55,
+    "sid": 322,
+    "location": 2,
+    "content": "未来还需要更多的研究探讨",
+    "music": 0.0
+  },
+  {
+    "from": 648.55,
+    "to": 649.45,
+    "sid": 323,
+    "location": 2,
+    "content": "作者还指出",
+    "music": 0.0
+  },
+  {
+    "from": 649.45,
+    "to": 651.79,
+    "sid": 324,
+    "location": 2,
+    "content": "这个工作技训练对数感能力其改善作用",
+    "music": 0.0
+  },
+  {
+    "from": 651.79,
+    "to": 653.56,
+    "sid": 325,
+    "location": 2,
+    "content": "这个背后的脑机制是还不清楚的",
+    "music": 0.0
+  },
+  {
+    "from": 653.56,
+    "to": 655.599,
+    "sid": 326,
+    "location": 2,
+    "content": "可以值得深入的探讨",
+    "music": 0.0
+  },
+  {
+    "from": 657.06,
+    "to": 658.94,
+    "sid": 327,
+    "location": 2,
+    "content": "嗯嗯就是阅读完这篇文献后",
+    "music": 0.0
+  },
+  {
+    "from": 658.94,
+    "to": 660.32,
+    "sid": 328,
+    "location": 2,
+    "content": "我收获挺大的",
+    "music": 0.0
+  },
+  {
+    "from": 660.32,
+    "to": 662.34,
+    "sid": 329,
+    "location": 2,
+    "content": "我的学习收获就可以分为三点啊",
+    "music": 0.0
+  },
+  {
+    "from": 662.34,
+    "to": 664.8,
+    "sid": 330,
+    "location": 2,
+    "content": "第一点就是我看到作者他全面而客观的",
+    "music": 0.0
+  },
+  {
+    "from": 664.8,
+    "to": 666.49,
+    "sid": 331,
+    "location": 2,
+    "content": "他梳理了当前领域内的观念",
+    "music": 0.0
+  },
+  {
+    "from": 666.49,
+    "to": 668.23,
+    "sid": 332,
+    "location": 2,
+    "content": "他对一些相反的",
+    "music": 0.0
+  },
+  {
+    "from": 668.23,
+    "to": 671.079,
+    "sid": 333,
+    "location": 2,
+    "content": "还有一些不显著的结果都进行了汇报",
+    "music": 0.0
+  },
+  {
+    "from": 671.079,
+    "to": 672.639,
+    "sid": 334,
+    "location": 2,
+    "content": "并且他对这个前人研究结果",
+    "music": 0.0
+  },
+  {
+    "from": 672.639,
+    "to": 674.919,
+    "sid": 335,
+    "location": 2,
+    "content": "矛盾不一致的地方也进行了讨论",
+    "music": 0.0
+  },
+  {
+    "from": 674.919,
+    "to": 676.659,
+    "sid": 336,
+    "location": 2,
+    "content": "就让我比较清楚的了解到",
+    "music": 0.0
+  },
+  {
+    "from": 676.659,
+    "to": 680.079,
+    "sid": 337,
+    "location": 2,
+    "content": "就是有关数学能力这方面前人的研究进展",
+    "music": 0.0
+  },
+  {
+    "from": 680.16,
+    "to": 681.78,
+    "sid": 338,
+    "location": 2,
+    "content": "第二点就是弱者",
+    "music": 0.0
+  },
+  {
+    "from": 681.78,
+    "to": 683.88,
+    "sid": 339,
+    "location": 2,
+    "content": "他对于前人的观点不仅有总结",
+    "music": 0.0
+  },
+  {
+    "from": 683.88,
+    "to": 684.9,
+    "sid": 340,
+    "location": 2,
+    "content": "还有自己的评述",
+    "music": 0.0
+  },
+  {
+    "from": 684.9,
+    "to": 688.92,
+    "sid": 341,
+    "location": 2,
+    "content": "嗯他在成就是呈现一些前人观点之后哦",
+    "music": 0.0
+  },
+  {
+    "from": 688.92,
+    "to": 690.42,
+    "sid": 342,
+    "location": 2,
+    "content": "他通过原分析就发现",
+    "music": 0.0
+  },
+  {
+    "from": 690.42,
+    "to": 691.14,
+    "sid": 343,
+    "location": 2,
+    "content": "工作地训练",
+    "music": 0.0
+  },
+  {
+    "from": 691.14,
+    "to": 693.96,
+    "sid": 344,
+    "location": 2,
+    "content": "只对只能有效改善数学能力的数感部分",
+    "music": 0.0
+  },
+  {
+    "from": 693.96,
+    "to": 695.85,
+    "sid": 345,
+    "location": 2,
+    "content": "然后还指出就是数量有限",
+    "music": 0.0
+  },
+  {
+    "from": 695.85,
+    "to": 697.2,
+    "sid": 346,
+    "location": 2,
+    "content": "结果要谨慎看待",
+    "music": 0.0
+  },
+  {
+    "from": 697.2,
+    "to": 698.4,
+    "sid": 347,
+    "location": 2,
+    "content": "并且他还指出",
+    "music": 0.0
+  },
+  {
+    "from": 698.4,
+    "to": 701.29,
+    "sid": 348,
+    "location": 2,
+    "content": "就是可以从工作这训练对数感能力及改善作用",
+    "music": 0.0
+  },
+  {
+    "from": 701.29,
+    "to": 703.51,
+    "sid": 349,
+    "location": 2,
+    "content": "这个背后背后的脑机制为切入口之后",
+    "music": 0.0
+  },
+  {
+    "from": 703.51,
+    "to": 706.19,
+    "sid": 350,
+    "location": 2,
+    "content": "就可以寻找一些神经影像学的一些证据",
+    "music": 0.0
+  },
+  {
+    "from": 706.19,
+    "to": 707.39,
+    "sid": 351,
+    "location": 2,
+    "content": "那这一点给到我的启发",
+    "music": 0.0
+  },
+  {
+    "from": 707.39,
+    "to": 710.27,
+    "sid": 352,
+    "location": 2,
+    "content": "就是啊以后在写文献综述时啊",
+    "music": 0.0
+  },
+  {
+    "from": 710.27,
+    "to": 711.92,
+    "sid": 353,
+    "location": 2,
+    "content": "不能仅仅是文献的堆砌",
+    "music": 0.0
+  },
+  {
+    "from": 711.92,
+    "to": 713.99,
+    "sid": 354,
+    "location": 2,
+    "content": "就是在总结一些文献观点之后",
+    "music": 0.0
+  },
+  {
+    "from": 713.99,
+    "to": 715.48,
+    "sid": 355,
+    "location": 2,
+    "content": "也要有自己的一个评述",
+    "music": 0.0
+  },
+  {
+    "from": 715.48,
+    "to": 718.93,
+    "sid": 356,
+    "location": 2,
+    "content": "第三点就是作者他研究展望是具体可行的",
+    "music": 0.0
+  },
+  {
+    "from": 719.29,
+    "to": 720.88,
+    "sid": 357,
+    "location": 2,
+    "content": "文中他得出一个结论",
+    "music": 0.0
+  },
+  {
+    "from": 720.88,
+    "to": 723.089,
+    "sid": 358,
+    "location": 2,
+    "content": "就是训练目标能够影响训练效果",
+    "music": 0.0
+  },
+  {
+    "from": 723.089,
+    "to": 724.139,
+    "sid": 359,
+    "location": 2,
+    "content": "那在展望部分",
+    "music": 0.0
+  },
+  {
+    "from": 724.139,
+    "to": 724.889,
+    "sid": 360,
+    "location": 2,
+    "content": "他就指出",
+    "music": 0.0
+  },
+  {
+    "from": 724.889,
+    "to": 726.089,
+    "sid": 361,
+    "location": 2,
+    "content": "就是今后的实践研究",
+    "music": 0.0
+  },
+  {
+    "from": 726.089,
+    "to": 728.039,
+    "sid": 362,
+    "location": 2,
+    "content": "可以探讨不同目标的训练方式",
+    "music": 0.0
+  },
+  {
+    "from": 728.039,
+    "to": 730.8,
+    "sid": 363,
+    "location": 2,
+    "content": "对于提高数学能力究竟存在哪些不同的影响",
+    "music": 0.0
+  },
+  {
+    "from": 730.8,
+    "to": 732.82,
+    "sid": 364,
+    "location": 2,
+    "content": "那这个是比较具体可行的啊",
+    "music": 0.0
+  },
+  {
+    "from": 732.82,
+    "to": 733.78,
+    "sid": 365,
+    "location": 2,
+    "content": "这一点点到我的启发",
+    "music": 0.0
+  },
+  {
+    "from": 733.78,
+    "to": 737.02,
+    "sid": 366,
+    "location": 2,
+    "content": "就是在写文献综述的展望部分",
+    "music": 0.0
+  },
+  {
+    "from": 737.02,
+    "to": 738.12,
+    "sid": 367,
+    "location": 2,
+    "content": "就是不要讲他空",
+    "music": 0.0
+  }
+]

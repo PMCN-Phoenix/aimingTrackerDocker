@@ -1,0 +1,6674 @@
+[
+  {
+    "from": 0.0,
+    "to": 2.16,
+    "sid": 1,
+    "location": 2,
+    "content": "到了这把年纪才看到这样的课程设计",
+    "music": 0.0
+  },
+  {
+    "from": 2.16,
+    "to": 3.87,
+    "sid": 2,
+    "location": 2,
+    "content": "让我多少有些感慨啊",
+    "music": 0.0
+  },
+  {
+    "from": 3.87,
+    "to": 5.76,
+    "sid": 3,
+    "location": 2,
+    "content": "如果当年遇到了这样的数学老师",
+    "music": 0.0
+  },
+  {
+    "from": 5.76,
+    "to": 8.86,
+    "sid": 4,
+    "location": 2,
+    "content": "这个世界上可能会多一个理工男",
+    "music": 0.0
+  },
+  {
+    "from": 9.08,
+    "to": 11.02,
+    "sid": 5,
+    "location": 2,
+    "content": "这个章节的主题是理解",
+    "music": 0.0
+  },
+  {
+    "from": 11.02,
+    "to": 14.16,
+    "sid": 6,
+    "location": 2,
+    "content": "我们要回答的问题是深度理解是如何达成的",
+    "music": 0.0
+  },
+  {
+    "from": 14.16,
+    "to": 16.44,
+    "sid": 7,
+    "location": 2,
+    "content": "如何比别人想得更深一些",
+    "music": 0.0
+  },
+  {
+    "from": 16.44,
+    "to": 19.77,
+    "sid": 8,
+    "location": 2,
+    "content": "我们都知道深度理解是深度创作的前提",
+    "music": 0.0
+  },
+  {
+    "from": 19.77,
+    "to": 21.21,
+    "sid": 9,
+    "location": 2,
+    "content": "要回答这个问题啊",
+    "music": 0.0
+  },
+  {
+    "from": 21.21,
+    "to": 23.67,
+    "sid": 10,
+    "location": 2,
+    "content": "我们需要先关注一个更为基本的问题",
+    "music": 0.0
+  },
+  {
+    "from": 23.67,
+    "to": 25.4,
+    "sid": 11,
+    "location": 2,
+    "content": "就是什么是理解",
+    "music": 0.0
+  },
+  {
+    "from": 25.4,
+    "to": 27.68,
+    "sid": 12,
+    "location": 2,
+    "content": "当我们理解或者是不理解的时候",
+    "music": 0.0
+  },
+  {
+    "from": 27.68,
+    "to": 28.52,
+    "sid": 13,
+    "location": 2,
+    "content": "我们的心智",
+    "music": 0.0
+  },
+  {
+    "from": 28.52,
+    "to": 31.39,
+    "sid": 14,
+    "location": 2,
+    "content": "我们的大脑里面究竟发生了什么事情呃",
+    "music": 0.0
+  },
+  {
+    "from": 31.39,
+    "to": 32.53,
+    "sid": 15,
+    "location": 2,
+    "content": "要探究这个问题",
+    "music": 0.0
+  },
+  {
+    "from": 32.53,
+    "to": 33.19,
+    "sid": 16,
+    "location": 2,
+    "content": "在我看来",
+    "music": 0.0
+  },
+  {
+    "from": 33.19,
+    "to": 38.11,
+    "sid": 17,
+    "location": 2,
+    "content": "最佳的路径就是搞清楚记忆和理解之间的关系",
+    "music": 0.0
+  },
+  {
+    "from": 39.88,
+    "to": 41.94,
+    "sid": 18,
+    "location": 2,
+    "content": "在上一章节我们讲到的记忆",
+    "music": 0.0
+  },
+  {
+    "from": 41.94,
+    "to": 43.98,
+    "sid": 19,
+    "location": 2,
+    "content": "我们都知道理解不等于记忆",
+    "music": 0.0
+  },
+  {
+    "from": 43.98,
+    "to": 46.57,
+    "sid": 20,
+    "location": 2,
+    "content": "但理解是以记忆为基础的",
+    "music": 0.0
+  },
+  {
+    "from": 46.57,
+    "to": 49.87,
+    "sid": 21,
+    "location": 2,
+    "content": "本章的全部内容就基于这个命题展开",
+    "music": 0.0
+  },
+  {
+    "from": 49.87,
+    "to": 50.77,
+    "sid": 22,
+    "location": 2,
+    "content": "理解不等于记忆",
+    "music": 0.0
+  },
+  {
+    "from": 50.77,
+    "to": 53.02,
+    "sid": 23,
+    "location": 2,
+    "content": "是因为它多出来的一些东西对吗",
+    "music": 0.0
+  },
+  {
+    "from": 53.02,
+    "to": 57.0,
+    "sid": 24,
+    "location": 2,
+    "content": "understanding的字面意思是站在什么什么之下",
+    "music": 0.0
+  },
+  {
+    "from": 57.0,
+    "to": 59.88,
+    "sid": 25,
+    "location": 2,
+    "content": "但是根据词源学的是在古英语中",
+    "music": 0.0
+  },
+  {
+    "from": 59.88,
+    "to": 62.349,
+    "sid": 26,
+    "location": 2,
+    "content": "是在什么什么之中或之间的意思",
+    "music": 0.0
+  },
+  {
+    "from": 62.349,
+    "to": 66.489,
+    "sid": 27,
+    "location": 2,
+    "content": "所以understanding它就意味着我们身处事物之中",
+    "music": 0.0
+  },
+  {
+    "from": 66.489,
+    "to": 69.44,
+    "sid": 28,
+    "location": 2,
+    "content": "或者事物之间在中文里面理就是道",
+    "music": 0.0
+  },
+  {
+    "from": 69.44,
+    "to": 72.53,
+    "sid": 29,
+    "location": 2,
+    "content": "理解呢它有牛有刀有角",
+    "music": 0.0
+  },
+  {
+    "from": 72.53,
+    "to": 75.1,
+    "sid": 30,
+    "location": 2,
+    "content": "指的就是庖丁解牛的那样的剖析",
+    "music": 0.0
+  },
+  {
+    "from": 75.1,
+    "to": 78.73,
+    "sid": 31,
+    "location": 2,
+    "content": "所以理解就是顺着脉理或条理进行深入的剖析",
+    "music": 0.0
+  },
+  {
+    "from": 78.73,
+    "to": 80.62,
+    "sid": 32,
+    "location": 2,
+    "content": "我们之所以要进入事物之中",
+    "music": 0.0
+  },
+  {
+    "from": 80.62,
+    "to": 82.19,
+    "sid": 33,
+    "location": 2,
+    "content": "事物之间进行剖析",
+    "music": 0.0
+  },
+  {
+    "from": 82.19,
+    "to": 84.17,
+    "sid": 34,
+    "location": 2,
+    "content": "最终是为了得到某个东西",
+    "music": 0.0
+  },
+  {
+    "from": 84.17,
+    "to": 85.99,
+    "sid": 35,
+    "location": 2,
+    "content": "这个东西其实就是意义",
+    "music": 0.0
+  },
+  {
+    "from": 85.99,
+    "to": 89.17,
+    "sid": 36,
+    "location": 2,
+    "content": "意义就是理解比记忆多出来的部分",
+    "music": 0.0
+  },
+  {
+    "from": 89.17,
+    "to": 91.27,
+    "sid": 37,
+    "location": 2,
+    "content": "我们听到一个词并不领会他的意涵",
+    "music": 0.0
+  },
+  {
+    "from": 91.27,
+    "to": 92.71,
+    "sid": 38,
+    "location": 2,
+    "content": "我们听到了一番话",
+    "music": 0.0
+  },
+  {
+    "from": 92.71,
+    "to": 94.87,
+    "sid": 39,
+    "location": 2,
+    "content": "也不清楚他到底解释了一件什么事情",
+    "music": 0.0
+  },
+  {
+    "from": 94.87,
+    "to": 97.35,
+    "sid": 40,
+    "location": 2,
+    "content": "我们看到一个数学的公式公式",
+    "music": 0.0
+  },
+  {
+    "from": 97.35,
+    "to": 100.08,
+    "sid": 41,
+    "location": 2,
+    "content": "然后我们清楚每一个符号代表什么",
+    "music": 0.0
+  },
+  {
+    "from": 100.08,
+    "to": 100.95,
+    "sid": 42,
+    "location": 2,
+    "content": "但是一组合起来",
+    "music": 0.0
+  },
+  {
+    "from": 100.95,
+    "to": 103.26,
+    "sid": 43,
+    "location": 2,
+    "content": "我们就不知道这个运算意味着什么了",
+    "music": 0.0
+  },
+  {
+    "from": 103.26,
+    "to": 107.63,
+    "sid": 44,
+    "location": 2,
+    "content": "所以我们必须对这些材料进行更为复杂的加工",
+    "music": 0.0
+  },
+  {
+    "from": 107.63,
+    "to": 110.69,
+    "sid": 45,
+    "location": 2,
+    "content": "才能够获得那些多出来的意涵啊",
+    "music": 0.0
+  },
+  {
+    "from": 110.69,
+    "to": 111.41,
+    "sid": 46,
+    "location": 2,
+    "content": "意象啊",
+    "music": 0.0
+  },
+  {
+    "from": 111.41,
+    "to": 112.01,
+    "sid": 47,
+    "location": 2,
+    "content": "意义啊",
+    "music": 0.0
+  },
+  {
+    "from": 112.01,
+    "to": 112.67,
+    "sid": 48,
+    "location": 2,
+    "content": "解释啊",
+    "music": 0.0
+  },
+  {
+    "from": 112.67,
+    "to": 115.13,
+    "sid": 49,
+    "location": 2,
+    "content": "这些东西我们必须先成立一个基本事实",
+    "music": 0.0
+  },
+  {
+    "from": 115.13,
+    "to": 116.6,
+    "sid": 50,
+    "location": 2,
+    "content": "就是面对一个复杂的对象",
+    "music": 0.0
+  },
+  {
+    "from": 116.6,
+    "to": 118.73,
+    "sid": 51,
+    "location": 2,
+    "content": "我们之所以没有办法达成理解",
+    "music": 0.0
+  },
+  {
+    "from": 118.73,
+    "to": 122.71,
+    "sid": 52,
+    "location": 2,
+    "content": "一个很基础性的原因就是我们的脑子不够用",
+    "music": 0.0
+  },
+  {
+    "from": 122.71,
+    "to": 124.93,
+    "sid": 53,
+    "location": 2,
+    "content": "更准确的说是我们的工作记忆",
+    "music": 0.0
+  },
+  {
+    "from": 124.93,
+    "to": 127.18,
+    "sid": 54,
+    "location": 2,
+    "content": "没有办法应对那些更为复杂的加工",
+    "music": 0.0
+  },
+  {
+    "from": 127.18,
+    "to": 130.46,
+    "sid": 55,
+    "location": 2,
+    "content": "下面这一段赫伯特西蒙的对知识的经典定义",
+    "music": 0.0
+  },
+  {
+    "from": 130.46,
+    "to": 132.14,
+    "sid": 56,
+    "location": 2,
+    "content": "经常被我用来说明",
+    "music": 0.0
+  },
+  {
+    "from": 132.14,
+    "to": 134.66,
+    "sid": 57,
+    "location": 2,
+    "content": "工作记忆不足导致的理解困难",
+    "music": 0.0
+  },
+  {
+    "from": 134.66,
+    "to": 135.92,
+    "sid": 58,
+    "location": 2,
+    "content": "他说知识的使命",
+    "music": 0.0
+  },
+  {
+    "from": 135.92,
+    "to": 138.62,
+    "sid": 59,
+    "location": 2,
+    "content": "就是从所有的逻辑可能性种类之中",
+    "music": 0.0
+  },
+  {
+    "from": 138.62,
+    "to": 141.95,
+    "sid": 60,
+    "location": 2,
+    "content": "选出一个其经验可能性较为有限的子类",
+    "music": 0.0
+  },
+  {
+    "from": 141.95,
+    "to": 145.04,
+    "sid": 61,
+    "location": 2,
+    "content": "从而在描述可能性的各变量之间",
+    "music": 0.0
+  },
+  {
+    "from": 145.04,
+    "to": 146.589,
+    "sid": 62,
+    "location": 2,
+    "content": "建立一定的功能联系",
+    "music": 0.0
+  },
+  {
+    "from": 146.589,
+    "to": 147.729,
+    "sid": 63,
+    "location": 2,
+    "content": "知识的最终目的",
+    "music": 0.0
+  },
+  {
+    "from": 147.729,
+    "to": 150.609,
+    "sid": 64,
+    "location": 2,
+    "content": "也是确定过去和现在的已知事实",
+    "music": 0.0
+  },
+  {
+    "from": 150.609,
+    "to": 152.32,
+    "sid": 65,
+    "location": 2,
+    "content": "与将来的事实之间的关系",
+    "music": 0.0
+  },
+  {
+    "from": 152.32,
+    "to": 155.2,
+    "sid": 66,
+    "location": 2,
+    "content": "从而由当前状况产生的唯一一种可能性",
+    "music": 0.0
+  },
+  {
+    "from": 155.2,
+    "to": 156.82,
+    "sid": 67,
+    "location": 2,
+    "content": "在背景知识不足的情况下",
+    "music": 0.0
+  },
+  {
+    "from": 156.82,
+    "to": 159.07,
+    "sid": 68,
+    "location": 2,
+    "content": "很难一次性完全听懂他在说什么",
+    "music": 0.0
+  },
+  {
+    "from": 159.07,
+    "to": 162.479,
+    "sid": 69,
+    "location": 2,
+    "content": "你得知道所有逻辑可能性的种类是什么意思",
+    "music": 0.0
+  },
+  {
+    "from": 162.479,
+    "to": 163.829,
+    "sid": 70,
+    "location": 2,
+    "content": "还要知道啊",
+    "music": 0.0
+  },
+  {
+    "from": 163.829,
+    "to": 165.239,
+    "sid": 71,
+    "location": 2,
+    "content": "经验可能性较为有限",
+    "music": 0.0
+  },
+  {
+    "from": 165.239,
+    "to": 166.19,
+    "sid": 72,
+    "location": 2,
+    "content": "责任是什么意思",
+    "music": 0.0
+  },
+  {
+    "from": 166.19,
+    "to": 170.27,
+    "sid": 73,
+    "location": 2,
+    "content": "同时还要理解在前者之中选出后者意味着什么",
+    "music": 0.0
+  },
+  {
+    "from": 170.27,
+    "to": 171.71,
+    "sid": 74,
+    "location": 2,
+    "content": "为什么选出后者了",
+    "music": 0.0
+  },
+  {
+    "from": 171.71,
+    "to": 174.7,
+    "sid": 75,
+    "location": 2,
+    "content": "就能在描述可能性的各变量之间",
+    "music": 0.0
+  },
+  {
+    "from": 174.7,
+    "to": 176.41,
+    "sid": 76,
+    "location": 2,
+    "content": "建立一定的功能联系",
+    "music": 0.0
+  },
+  {
+    "from": 176.41,
+    "to": 178.98,
+    "sid": 77,
+    "location": 2,
+    "content": "功能联系又是一种什么样的联系",
+    "music": 0.0
+  },
+  {
+    "from": 178.98,
+    "to": 180.99,
+    "sid": 78,
+    "location": 2,
+    "content": "在我们形成理解的时候",
+    "music": 0.0
+  },
+  {
+    "from": 180.99,
+    "to": 182.91,
+    "sid": 79,
+    "location": 2,
+    "content": "所有的相关要素",
+    "music": 0.0
+  },
+  {
+    "from": 182.91,
+    "to": 186.12,
+    "sid": 80,
+    "location": 2,
+    "content": "都需要被我们带进工作记忆之中进行加工",
+    "music": 0.0
+  },
+  {
+    "from": 186.12,
+    "to": 188.56,
+    "sid": 81,
+    "location": 2,
+    "content": "但是工作记忆是有限的呀",
+    "music": 0.0
+  },
+  {
+    "from": 188.56,
+    "to": 189.79,
+    "sid": 82,
+    "location": 2,
+    "content": "有一种说法是",
+    "music": 0.0
+  },
+  {
+    "from": 189.79,
+    "to": 193.66,
+    "sid": 83,
+    "location": 2,
+    "content": "我们只能同时处理七个左右的认知组块",
+    "music": 0.0
+  },
+  {
+    "from": 193.66,
+    "to": 196.65,
+    "sid": 84,
+    "location": 2,
+    "content": "后来的研究发现这个说法还是乐观了一点",
+    "music": 0.0
+  },
+  {
+    "from": 196.65,
+    "to": 198.03,
+    "sid": 85,
+    "location": 2,
+    "content": "可能只有四个左右",
+    "music": 0.0
+  },
+  {
+    "from": 198.03,
+    "to": 200.25,
+    "sid": 86,
+    "location": 2,
+    "content": "当一个经验对象所包含的元素过多",
+    "music": 0.0
+  },
+  {
+    "from": 200.25,
+    "to": 202.829,
+    "sid": 87,
+    "location": 2,
+    "content": "或者元素之间的交互过于复杂的时候",
+    "music": 0.0
+  },
+  {
+    "from": 202.829,
+    "to": 205.769,
+    "sid": 88,
+    "location": 2,
+    "content": "他就会超出我们的工作记忆容量的限制",
+    "music": 0.0
+  },
+  {
+    "from": 205.769,
+    "to": 207.2,
+    "sid": 89,
+    "location": 2,
+    "content": "我们就会懵掉",
+    "music": 0.0
+  },
+  {
+    "from": 207.2,
+    "to": 209.09,
+    "sid": 90,
+    "location": 2,
+    "content": "所以接下来我们要问",
+    "music": 0.0
+  },
+  {
+    "from": 209.09,
+    "to": 211.04,
+    "sid": 91,
+    "location": 2,
+    "content": "既然大家的硬件水平都差不多",
+    "music": 0.0
+  },
+  {
+    "from": 211.04,
+    "to": 212.18,
+    "sid": 92,
+    "location": 2,
+    "content": "要么是七个",
+    "music": 0.0
+  },
+  {
+    "from": 212.18,
+    "to": 213.5,
+    "sid": 93,
+    "location": 2,
+    "content": "要么是四个",
+    "music": 0.0
+  },
+  {
+    "from": 213.5,
+    "to": 216.5,
+    "sid": 94,
+    "location": 2,
+    "content": "那为什么有些领域的高手和专家",
+    "music": 0.0
+  },
+  {
+    "from": 216.5,
+    "to": 219.05,
+    "sid": 95,
+    "location": 2,
+    "content": "他们能想清楚更复杂的事情呢",
+    "music": 0.0
+  },
+  {
+    "from": 219.05,
+    "to": 223.12,
+    "sid": 96,
+    "location": 2,
+    "content": "就大脑之所以能够理解更复杂的事物",
+    "music": 0.0
+  },
+  {
+    "from": 223.12,
+    "to": 225.97,
+    "sid": 97,
+    "location": 2,
+    "content": "是因为我们有常识记忆药",
+    "music": 0.0
+  },
+  {
+    "from": 225.97,
+    "to": 227.14,
+    "sid": 98,
+    "location": 2,
+    "content": "就谈论记忆的时候",
+    "music": 0.0
+  },
+  {
+    "from": 227.14,
+    "to": 230.39,
+    "sid": 99,
+    "location": 2,
+    "content": "我们更关注于常识记忆的建构",
+    "music": 0.0
+  },
+  {
+    "from": 230.39,
+    "to": 232.46,
+    "sid": 100,
+    "location": 2,
+    "content": "但是谈论理解的时候",
+    "music": 0.0
+  },
+  {
+    "from": 232.46,
+    "to": 237.95,
+    "sid": 101,
+    "location": 2,
+    "content": "我们就要关注工作记忆和常识记忆之间的协同",
+    "music": 0.0
+  },
+  {
+    "from": 237.95,
+    "to": 239.33,
+    "sid": 102,
+    "location": 2,
+    "content": "的一个工作机制了",
+    "music": 0.0
+  },
+  {
+    "from": 239.33,
+    "to": 240.32,
+    "sid": 103,
+    "location": 2,
+    "content": "这个很重要",
+    "music": 0.0
+  },
+  {
+    "from": 240.32,
+    "to": 244.09,
+    "sid": 104,
+    "location": 2,
+    "content": "就当一个认知对象与常识记忆中的相关内容",
+    "music": 0.0
+  },
+  {
+    "from": 244.09,
+    "to": 245.08,
+    "sid": 105,
+    "location": 2,
+    "content": "关联起来的时候",
+    "music": 0.0
+  },
+  {
+    "from": 245.08,
+    "to": 247.96,
+    "sid": 106,
+    "location": 2,
+    "content": "他就会激活一个更大的认知组块",
+    "music": 0.0
+  },
+  {
+    "from": 247.96,
+    "to": 249.54,
+    "sid": 107,
+    "location": 2,
+    "content": "它包含了更多的信息",
+    "music": 0.0
+  },
+  {
+    "from": 249.54,
+    "to": 251.94,
+    "sid": 108,
+    "location": 2,
+    "content": "但占用的工作记忆的负荷",
+    "music": 0.0
+  },
+  {
+    "from": 251.94,
+    "to": 254.06,
+    "sid": 109,
+    "location": 2,
+    "content": "其实和小组块是类似的",
+    "music": 0.0
+  },
+  {
+    "from": 254.06,
+    "to": 254.66,
+    "sid": 110,
+    "location": 2,
+    "content": "举个例子啊",
+    "music": 0.0
+  },
+  {
+    "from": 254.66,
+    "to": 255.83,
+    "sid": 111,
+    "location": 2,
+    "content": "在我女儿眼中",
+    "music": 0.0
+  },
+  {
+    "from": 255.83,
+    "to": 257.66,
+    "sid": 112,
+    "location": 2,
+    "content": "木是一个非常复杂",
+    "music": 0.0
+  },
+  {
+    "from": 257.66,
+    "to": 259.22,
+    "sid": 113,
+    "location": 2,
+    "content": "就是三点水加一个木头的",
+    "music": 0.0
+  },
+  {
+    "from": 259.22,
+    "to": 260.98,
+    "sid": 114,
+    "location": 2,
+    "content": "木是一个非常复杂的字符",
+    "music": 0.0
+  },
+  {
+    "from": 260.98,
+    "to": 261.94,
+    "sid": 115,
+    "location": 2,
+    "content": "还有三个点",
+    "music": 0.0
+  },
+  {
+    "from": 261.94,
+    "to": 263.02,
+    "sid": 116,
+    "location": 2,
+    "content": "有一横一竖",
+    "music": 0.0
+  },
+  {
+    "from": 263.02,
+    "to": 263.74,
+    "sid": 117,
+    "location": 2,
+    "content": "一撇一捺",
+    "music": 0.0
+  },
+  {
+    "from": 263.74,
+    "to": 266.26,
+    "sid": 118,
+    "location": 2,
+    "content": "它需要同时处理七个图像单位",
+    "music": 0.0
+  },
+  {
+    "from": 266.26,
+    "to": 267.34,
+    "sid": 119,
+    "location": 2,
+    "content": "记住它们的相对位置",
+    "music": 0.0
+  },
+  {
+    "from": 267.34,
+    "to": 269.24,
+    "sid": 120,
+    "location": 2,
+    "content": "才能把这个字记住",
+    "music": 0.0
+  },
+  {
+    "from": 269.24,
+    "to": 271.67,
+    "sid": 121,
+    "location": 2,
+    "content": "这是3~5岁才能做到的事情",
+    "music": 0.0
+  },
+  {
+    "from": 271.67,
+    "to": 272.96,
+    "sid": 122,
+    "location": 2,
+    "content": "要亲手写下",
+    "music": 0.0
+  },
+  {
+    "from": 272.96,
+    "to": 275.18,
+    "sid": 123,
+    "location": 2,
+    "content": "它就需要等到5~7岁了",
+    "music": 0.0
+  },
+  {
+    "from": 275.18,
+    "to": 276.32,
+    "sid": 124,
+    "location": 2,
+    "content": "但是在这个过程中",
+    "music": 0.0
+  },
+  {
+    "from": 276.32,
+    "to": 279.66,
+    "sid": 125,
+    "location": 2,
+    "content": "他会把这个偏旁部首的概念建立起来",
+    "music": 0.0
+  },
+  {
+    "from": 279.66,
+    "to": 282.39,
+    "sid": 126,
+    "location": 2,
+    "content": "把三个点打包成三点水",
+    "music": 0.0
+  },
+  {
+    "from": 282.39,
+    "to": 285.959,
+    "sid": 127,
+    "location": 2,
+    "content": "把特定组合的这个横竖撇捺打包成木子",
+    "music": 0.0
+  },
+  {
+    "from": 285.959,
+    "to": 289.499,
+    "sid": 128,
+    "location": 2,
+    "content": "这种将小元素打包成大组块的过程",
+    "music": 0.0
+  },
+  {
+    "from": 289.499,
+    "to": 290.82,
+    "sid": 129,
+    "location": 2,
+    "content": "被称为组块化",
+    "music": 0.0
+  },
+  {
+    "from": 290.82,
+    "to": 293.6,
+    "sid": 130,
+    "location": 2,
+    "content": "最终对于成年的人来说呃",
+    "music": 0.0
+  },
+  {
+    "from": 293.6,
+    "to": 297.23,
+    "sid": 131,
+    "location": 2,
+    "content": "记忆和辨识这个木子只会占用极少",
+    "music": 0.0
+  },
+  {
+    "from": 297.23,
+    "to": 299.65,
+    "sid": 132,
+    "location": 2,
+    "content": "几乎可以忽略不计的认知的复合",
+    "music": 0.0
+  },
+  {
+    "from": 299.65,
+    "to": 302.41,
+    "sid": 133,
+    "location": 2,
+    "content": "所以在我们的常识记忆中",
+    "music": 0.0
+  },
+  {
+    "from": 302.41,
+    "to": 304.89,
+    "sid": 134,
+    "location": 2,
+    "content": "类似于三点水这样的组块",
+    "music": 0.0
+  },
+  {
+    "from": 304.89,
+    "to": 308.21,
+    "sid": 135,
+    "location": 2,
+    "content": "能使我们模块化的处理大量的琐碎信息",
+    "music": 0.0
+  },
+  {
+    "from": 308.21,
+    "to": 311.69,
+    "sid": 136,
+    "location": 2,
+    "content": "让我们的大脑的能在大脑性能不变的情况下",
+    "music": 0.0
+  },
+  {
+    "from": 311.69,
+    "to": 313.96,
+    "sid": 137,
+    "location": 2,
+    "content": "处理更多的复杂的认知事物",
+    "music": 0.0
+  },
+  {
+    "from": 313.96,
+    "to": 317.08,
+    "sid": 138,
+    "location": 2,
+    "content": "这个说法不仅接受了成人与孩童的认知差距",
+    "music": 0.0
+  },
+  {
+    "from": 317.08,
+    "to": 320.97,
+    "sid": 139,
+    "location": 2,
+    "content": "也揭示了新手专家和新手的认知差距",
+    "music": 0.0
+  },
+  {
+    "from": 323.91,
+    "to": 324.39,
+    "sid": 140,
+    "location": 2,
+    "content": "他认为",
+    "music": 0.0
+  },
+  {
+    "from": 324.39,
+    "to": 325.44,
+    "sid": 141,
+    "location": 2,
+    "content": "刻意练习的目标",
+    "music": 0.0
+  },
+  {
+    "from": 325.44,
+    "to": 327.99,
+    "sid": 142,
+    "location": 2,
+    "content": "就是将与完成任务有关的心理表征",
+    "music": 0.0
+  },
+  {
+    "from": 327.99,
+    "to": 329.67,
+    "sid": 143,
+    "location": 2,
+    "content": "保存在常识记忆中",
+    "music": 0.0
+  },
+  {
+    "from": 329.67,
+    "to": 330.45,
+    "sid": 144,
+    "location": 2,
+    "content": "他写道",
+    "music": 0.0
+  },
+  {
+    "from": 330.45,
+    "to": 333.1,
+    "sid": 145,
+    "location": 2,
+    "content": "这些表征是信息预先存在的模式",
+    "music": 0.0
+  },
+  {
+    "from": 333.1,
+    "to": 333.88,
+    "sid": 146,
+    "location": 2,
+    "content": "比如事实",
+    "music": 0.0
+  },
+  {
+    "from": 333.88,
+    "to": 334.24,
+    "sid": 147,
+    "location": 2,
+    "content": "图片",
+    "music": 0.0
+  },
+  {
+    "from": 334.24,
+    "to": 335.32,
+    "sid": 148,
+    "location": 2,
+    "content": "规则关系等等",
+    "music": 0.0
+  },
+  {
+    "from": 335.32,
+    "to": 337.3,
+    "sid": 149,
+    "location": 2,
+    "content": "这些模式保存在常识记忆中",
+    "music": 0.0
+  },
+  {
+    "from": 337.3,
+    "to": 340.82,
+    "sid": 150,
+    "location": 2,
+    "content": "可以用于有效且快速的顺应某些类型的局面",
+    "music": 0.0
+  },
+  {
+    "from": 340.82,
+    "to": 342.53,
+    "sid": 151,
+    "location": 2,
+    "content": "对于所有的心理表征",
+    "music": 0.0
+  },
+  {
+    "from": 342.53,
+    "to": 343.85,
+    "sid": 152,
+    "location": 2,
+    "content": "有一点是相同的",
+    "music": 0.0
+  },
+  {
+    "from": 343.85,
+    "to": 345.88,
+    "sid": 153,
+    "location": 2,
+    "content": "尽管短时记忆存在局限",
+    "music": 0.0
+  },
+  {
+    "from": 345.88,
+    "to": 349.33,
+    "sid": 154,
+    "location": 2,
+    "content": "但它使人们可以迅速地处理大量的信息",
+    "music": 0.0
+  },
+  {
+    "from": 349.33,
+    "to": 349.96,
+    "sid": 155,
+    "location": 2,
+    "content": "事实上",
+    "music": 0.0
+  },
+  {
+    "from": 349.96,
+    "to": 351.76,
+    "sid": 156,
+    "location": 2,
+    "content": "人们可以把心理表征定义为",
+    "music": 0.0
+  },
+  {
+    "from": 351.76,
+    "to": 353.73,
+    "sid": 157,
+    "location": 2,
+    "content": "一个概念式的结构设计",
+    "music": 0.0
+  },
+  {
+    "from": 353.73,
+    "to": 357.2,
+    "sid": 158,
+    "location": 2,
+    "content": "用于回避短实际施加在心理加工上的一般局限",
+    "music": 0.0
+  },
+  {
+    "from": 357.2,
+    "to": 359.0,
+    "sid": 159,
+    "location": 2,
+    "content": "埃里克森的老师前面提到过的",
+    "music": 0.0
+  },
+  {
+    "from": 359.0,
+    "to": 360.41,
+    "sid": 160,
+    "location": 2,
+    "content": "西蒙曾做过一项研究",
+    "music": 0.0
+  },
+  {
+    "from": 360.41,
+    "to": 360.86,
+    "sid": 161,
+    "location": 2,
+    "content": "他发现",
+    "music": 0.0
+  },
+  {
+    "from": 360.86,
+    "to": 363.62,
+    "sid": 162,
+    "location": 2,
+    "content": "象棋新手和象棋高手的工作技艺都是差不多的",
+    "music": 0.0
+  },
+  {
+    "from": 363.62,
+    "to": 365.02,
+    "sid": 163,
+    "location": 2,
+    "content": "一盘随意摆放的棋局",
+    "music": 0.0
+  },
+  {
+    "from": 365.02,
+    "to": 367.48,
+    "sid": 164,
+    "location": 2,
+    "content": "两者都只能记住两三个棋子的位置",
+    "music": 0.0
+  },
+  {
+    "from": 367.48,
+    "to": 369.52,
+    "sid": 165,
+    "location": 2,
+    "content": "但如果是一个正在对弈的棋局的话",
+    "music": 0.0
+  },
+  {
+    "from": 369.52,
+    "to": 370.58,
+    "sid": 166,
+    "location": 2,
+    "content": "情况就不同了",
+    "music": 0.0
+  },
+  {
+    "from": 370.58,
+    "to": 372.62,
+    "sid": 167,
+    "location": 2,
+    "content": "新手依然只能记住两三个",
+    "music": 0.0
+  },
+  {
+    "from": 372.62,
+    "to": 375.59,
+    "sid": 168,
+    "location": 2,
+    "content": "但高手则能回忆起2/3的棋子的位置",
+    "music": 0.0
+  },
+  {
+    "from": 375.59,
+    "to": 376.66,
+    "sid": 169,
+    "location": 2,
+    "content": "差别就在于",
+    "music": 0.0
+  },
+  {
+    "from": 376.66,
+    "to": 378.4,
+    "sid": 170,
+    "location": 2,
+    "content": "高手通过长时间的打谱",
+    "music": 0.0
+  },
+  {
+    "from": 378.4,
+    "to": 380.98,
+    "sid": 171,
+    "location": 2,
+    "content": "在长时记忆中建立了很多大组块结构",
+    "music": 0.0
+  },
+  {
+    "from": 380.98,
+    "to": 383.7,
+    "sid": 172,
+    "location": 2,
+    "content": "它们可以被轻松地调入工作记忆中进行处理",
+    "music": 0.0
+  },
+  {
+    "from": 383.7,
+    "to": 384.6,
+    "sid": 173,
+    "location": 2,
+    "content": "换句话说",
+    "music": 0.0
+  },
+  {
+    "from": 384.6,
+    "to": 387.82,
+    "sid": 174,
+    "location": 2,
+    "content": "他们能够迅速地识别棋局中的模式和规律",
+    "music": 0.0
+  },
+  {
+    "from": 387.82,
+    "to": 389.14,
+    "sid": 175,
+    "location": 2,
+    "content": "新手当然吓不过他们",
+    "music": 0.0
+  },
+  {
+    "from": 389.14,
+    "to": 390.34,
+    "sid": 176,
+    "location": 2,
+    "content": "一学习理论的提出者",
+    "music": 0.0
+  },
+  {
+    "from": 390.34,
+    "to": 392.92,
+    "sid": 177,
+    "location": 2,
+    "content": "奥苏贝尔曾经说过一个很著名的论断",
+    "music": 0.0
+  },
+  {
+    "from": 392.92,
+    "to": 393.34,
+    "sid": 178,
+    "location": 2,
+    "content": "他说",
+    "music": 0.0
+  },
+  {
+    "from": 393.34,
+    "to": 395.14,
+    "sid": 179,
+    "location": 2,
+    "content": "假如让我把全部教育心理学",
+    "music": 0.0
+  },
+  {
+    "from": 395.14,
+    "to": 396.94,
+    "sid": 180,
+    "location": 2,
+    "content": "仅仅归结为一条原理的话",
+    "music": 0.0
+  },
+  {
+    "from": 396.94,
+    "to": 398.58,
+    "sid": 181,
+    "location": 2,
+    "content": "那么我将一言蔽之",
+    "music": 0.0
+  },
+  {
+    "from": 398.58,
+    "to": 401.22,
+    "sid": 182,
+    "location": 2,
+    "content": "影响学习的唯一重要因素",
+    "music": 0.0
+  },
+  {
+    "from": 401.22,
+    "to": 403.49,
+    "sid": 183,
+    "location": 2,
+    "content": "就是学习者已经知道了什么",
+    "music": 0.0
+  },
+  {
+    "from": 403.49,
+    "to": 404.69,
+    "sid": 184,
+    "location": 2,
+    "content": "要探明这一点",
+    "music": 0.0
+  },
+  {
+    "from": 404.69,
+    "to": 406.19,
+    "sid": 185,
+    "location": 2,
+    "content": "并据此进行教学",
+    "music": 0.0
+  },
+  {
+    "from": 406.19,
+    "to": 409.86,
+    "sid": 186,
+    "location": 2,
+    "content": "他把学生的前肢是置于了非常重要的位置",
+    "music": 0.0
+  },
+  {
+    "from": 409.86,
+    "to": 411.6,
+    "sid": 187,
+    "location": 2,
+    "content": "就常识记忆中的组块",
+    "music": 0.0
+  },
+  {
+    "from": 411.6,
+    "to": 413.22,
+    "sid": 188,
+    "location": 2,
+    "content": "其实就是这些前知识",
+    "music": 0.0
+  },
+  {
+    "from": 413.22,
+    "to": 414.96,
+    "sid": 189,
+    "location": 2,
+    "content": "相比于孩童和新手",
+    "music": 0.0
+  },
+  {
+    "from": 414.96,
+    "to": 415.86,
+    "sid": 190,
+    "location": 2,
+    "content": "成年人",
+    "music": 0.0
+  },
+  {
+    "from": 415.86,
+    "to": 420.36,
+    "sid": 191,
+    "location": 2,
+    "content": "专家和高手的脑子里面有更多的潜知识啊",
+    "music": 0.0
+  },
+  {
+    "from": 420.36,
+    "to": 421.92,
+    "sid": 192,
+    "location": 2,
+    "content": "通过调用这些潜知识",
+    "music": 0.0
+  },
+  {
+    "from": 421.92,
+    "to": 424.68,
+    "sid": 193,
+    "location": 2,
+    "content": "他们只需要用很少的工作记忆资源",
+    "music": 0.0
+  },
+  {
+    "from": 424.68,
+    "to": 427.289,
+    "sid": 194,
+    "location": 2,
+    "content": "就可以处理非常复杂的信息",
+    "music": 0.0
+  },
+  {
+    "from": 427.289,
+    "to": 430.349,
+    "sid": 195,
+    "location": 2,
+    "content": "外部世界的信息是无限的对吗",
+    "music": 0.0
+  },
+  {
+    "from": 430.349,
+    "to": 432.779,
+    "sid": 196,
+    "location": 2,
+    "content": "其实感官能接收到的信息量",
+    "music": 0.0
+  },
+  {
+    "from": 432.779,
+    "to": 434.51,
+    "sid": 197,
+    "location": 2,
+    "content": "也比我们想象的多得多",
+    "music": 0.0
+  },
+  {
+    "from": 434.51,
+    "to": 438.4,
+    "sid": 198,
+    "location": 2,
+    "content": "我们的常识记忆呢其实也是无限可以扩展的",
+    "music": 0.0
+  },
+  {
+    "from": 438.4,
+    "to": 442.48,
+    "sid": 199,
+    "location": 2,
+    "content": "所以我们的工作记忆就成了整个理解链路上的",
+    "music": 0.0
+  },
+  {
+    "from": 442.48,
+    "to": 443.86,
+    "sid": 200,
+    "location": 2,
+    "content": "几乎是唯一的瓶颈",
+    "music": 0.0
+  },
+  {
+    "from": 443.86,
+    "to": 444.88,
+    "sid": 201,
+    "location": 2,
+    "content": "我们有时候想不通",
+    "music": 0.0
+  },
+  {
+    "from": 444.88,
+    "to": 445.89,
+    "sid": 202,
+    "location": 2,
+    "content": "有时候搞不懂",
+    "music": 0.0
+  },
+  {
+    "from": 445.89,
+    "to": 446.67,
+    "sid": 203,
+    "location": 2,
+    "content": "必须承认",
+    "music": 0.0
+  },
+  {
+    "from": 446.67,
+    "to": 448.41,
+    "sid": 204,
+    "location": 2,
+    "content": "有一部分原因是因为有些问题",
+    "music": 0.0
+  },
+  {
+    "from": 448.41,
+    "to": 449.97,
+    "sid": 205,
+    "location": 2,
+    "content": "它本身是没有答案的",
+    "music": 0.0
+  },
+  {
+    "from": 449.97,
+    "to": 450.27,
+    "sid": 206,
+    "location": 2,
+    "content": "对吗",
+    "music": 0.0
+  },
+  {
+    "from": 450.27,
+    "to": 451.17,
+    "sid": 207,
+    "location": 2,
+    "content": "他们是猎狗问题",
+    "music": 0.0
+  },
+  {
+    "from": 451.17,
+    "to": 452.48,
+    "sid": 208,
+    "location": 2,
+    "content": "比如人生意义",
+    "music": 0.0
+  },
+  {
+    "from": 452.48,
+    "to": 453.92,
+    "sid": 209,
+    "location": 2,
+    "content": "世界的本质是什么",
+    "music": 0.0
+  },
+  {
+    "from": 453.92,
+    "to": 455.06,
+    "sid": 210,
+    "location": 2,
+    "content": "电车难题啊",
+    "music": 0.0
+  },
+  {
+    "from": 455.06,
+    "to": 456.419,
+    "sid": 211,
+    "location": 2,
+    "content": "什么是爱情啊",
+    "music": 0.0
+  },
+  {
+    "from": 456.419,
+    "to": 459.119,
+    "sid": 212,
+    "location": 2,
+    "content": "而这些问题的复杂性来自于现象",
+    "music": 0.0
+  },
+  {
+    "from": 459.119,
+    "to": 462.839,
+    "sid": 213,
+    "location": 2,
+    "content": "世界的丰富性和我们语言思维和理性的局限性",
+    "music": 0.0
+  },
+  {
+    "from": 462.839,
+    "to": 465.93,
+    "sid": 214,
+    "location": 2,
+    "content": "就生而为人必然是困惑于此的",
+    "music": 0.0
+  },
+  {
+    "from": 465.93,
+    "to": 468.24,
+    "sid": 215,
+    "location": 2,
+    "content": "但是还有一些问题它完全是量够的",
+    "music": 0.0
+  },
+  {
+    "from": 468.24,
+    "to": 470.77,
+    "sid": 216,
+    "location": 2,
+    "content": "比如解一道困难的数学方程",
+    "music": 0.0
+  },
+  {
+    "from": 470.77,
+    "to": 472.27,
+    "sid": 217,
+    "location": 2,
+    "content": "理解一篇专业的文章",
+    "music": 0.0
+  },
+  {
+    "from": 472.27,
+    "to": 473.86,
+    "sid": 218,
+    "location": 2,
+    "content": "说清楚一件一件复杂的事情",
+    "music": 0.0
+  },
+  {
+    "from": 473.86,
+    "to": 476.669,
+    "sid": 219,
+    "location": 2,
+    "content": "我们之所以难以胜任这些事情",
+    "music": 0.0
+  },
+  {
+    "from": 476.669,
+    "to": 480.15,
+    "sid": 220,
+    "location": 2,
+    "content": "很大程度上是因为我们缺乏丰富的结构",
+    "music": 0.0
+  },
+  {
+    "from": 480.15,
+    "to": 482.37,
+    "sid": 221,
+    "location": 2,
+    "content": "清晰的常识记忆来接应我们",
+    "music": 0.0
+  },
+  {
+    "from": 482.37,
+    "to": 483.87,
+    "sid": 222,
+    "location": 2,
+    "content": "去处理这些复杂的信息",
+    "music": 0.0
+  },
+  {
+    "from": 483.87,
+    "to": 487.42,
+    "sid": 223,
+    "location": 2,
+    "content": "因此我们也无法在工作记忆中来操作",
+    "music": 0.0
+  },
+  {
+    "from": 487.42,
+    "to": 489.58,
+    "sid": 224,
+    "location": 2,
+    "content": "足够多的思维元素",
+    "music": 0.0
+  },
+  {
+    "from": 489.58,
+    "to": 490.72,
+    "sid": 225,
+    "location": 2,
+    "content": "很明显",
+    "music": 0.0
+  },
+  {
+    "from": 490.72,
+    "to": 492.58,
+    "sid": 226,
+    "location": 2,
+    "content": "相比于前一类问题",
+    "music": 0.0
+  },
+  {
+    "from": 492.58,
+    "to": 494.33,
+    "sid": 227,
+    "location": 2,
+    "content": "就是人生意义的困惑",
+    "music": 0.0
+  },
+  {
+    "from": 494.33,
+    "to": 495.95,
+    "sid": 228,
+    "location": 2,
+    "content": "后一种状况",
+    "music": 0.0
+  },
+  {
+    "from": 495.95,
+    "to": 499.94,
+    "sid": 229,
+    "location": 2,
+    "content": "后一种困难其实更加的现实和紧迫",
+    "music": 0.0
+  },
+  {
+    "from": 499.94,
+    "to": 501.59,
+    "sid": 230,
+    "location": 2,
+    "content": "怎么解决呢",
+    "music": 0.0
+  },
+  {
+    "from": 501.59,
+    "to": 503.88,
+    "sid": 231,
+    "location": 2,
+    "content": "啊基于工作记忆的限制",
+    "music": 0.0
+  },
+  {
+    "from": 503.88,
+    "to": 505.23,
+    "sid": 232,
+    "location": 2,
+    "content": "导致了理解困难啊",
+    "music": 0.0
+  },
+  {
+    "from": 505.23,
+    "to": 507.14,
+    "sid": 233,
+    "location": 2,
+    "content": "学者们创造了一套理论",
+    "music": 0.0
+  },
+  {
+    "from": 507.14,
+    "to": 509.06,
+    "sid": 234,
+    "location": 2,
+    "content": "叫做认知符合理论",
+    "music": 0.0
+  },
+  {
+    "from": 509.06,
+    "to": 510.8,
+    "sid": 235,
+    "location": 2,
+    "content": "这个理论创始人john斯韦勒说",
+    "music": 0.0
+  },
+  {
+    "from": 510.8,
+    "to": 513.92,
+    "sid": 236,
+    "location": 2,
+    "content": "教学的主要功能是改变长期记忆的内容",
+    "music": 0.0
+  },
+  {
+    "from": 513.92,
+    "to": 517.34,
+    "sid": 237,
+    "location": 2,
+    "content": "一旦改变了这些信息就可以转移到工作记忆中",
+    "music": 0.0
+  },
+  {
+    "from": 517.34,
+    "to": 520.16,
+    "sid": 238,
+    "location": 2,
+    "content": "从而改变学习者在特定环境中的功能",
+    "music": 0.0
+  },
+  {
+    "from": 520.16,
+    "to": 521.96,
+    "sid": 239,
+    "location": 2,
+    "content": "他们可以从印刷品中获得意义",
+    "music": 0.0
+  },
+  {
+    "from": 521.96,
+    "to": 524.6,
+    "sid": 240,
+    "location": 2,
+    "content": "而其他人只能看到表面上随机的曲线",
+    "music": 0.0
+  },
+  {
+    "from": 524.6,
+    "to": 526.16,
+    "sid": 241,
+    "location": 2,
+    "content": "他们可以立即轻松地解决",
+    "music": 0.0
+  },
+  {
+    "from": 526.16,
+    "to": 528.7,
+    "sid": 242,
+    "location": 2,
+    "content": "其他人认为极其复杂的数学问题",
+    "music": 0.0
+  },
+  {
+    "from": 528.7,
+    "to": 529.36,
+    "sid": 243,
+    "location": 2,
+    "content": "总的来说",
+    "music": 0.0
+  },
+  {
+    "from": 529.36,
+    "to": 532.72,
+    "sid": 244,
+    "location": 2,
+    "content": "原本毫无意义和难以理解的东西可以变得明显",
+    "music": 0.0
+  },
+  {
+    "from": 532.72,
+    "to": 534.13,
+    "sid": 245,
+    "location": 2,
+    "content": "常规和自动化",
+    "music": 0.0
+  },
+  {
+    "from": 534.13,
+    "to": 537.43,
+    "sid": 246,
+    "location": 2,
+    "content": "促进这个过程就是认知符合理论的主要功能",
+    "music": 0.0
+  },
+  {
+    "from": 537.43,
+    "to": 539.17,
+    "sid": 247,
+    "location": 2,
+    "content": "如果我们可以用奥卡姆剃刀原则",
+    "music": 0.0
+  },
+  {
+    "from": 539.17,
+    "to": 540.64,
+    "sid": 248,
+    "location": 2,
+    "content": "解释所有的教育学理论",
+    "music": 0.0
+  },
+  {
+    "from": 540.64,
+    "to": 541.36,
+    "sid": 249,
+    "location": 2,
+    "content": "那么你会发现",
+    "music": 0.0
+  },
+  {
+    "from": 541.36,
+    "to": 543.4,
+    "sid": 250,
+    "location": 2,
+    "content": "七八十%的理论都会因为繁琐",
+    "music": 0.0
+  },
+  {
+    "from": 543.4,
+    "to": 544.819,
+    "sid": 251,
+    "location": 2,
+    "content": "垄断而被剔除掉",
+    "music": 0.0
+  },
+  {
+    "from": 544.819,
+    "to": 546.229,
+    "sid": 252,
+    "location": 2,
+    "content": "剩下的理论中啊",
+    "music": 0.0
+  },
+  {
+    "from": 546.229,
+    "to": 548.179,
+    "sid": 253,
+    "location": 2,
+    "content": "一定会有认知符合理论的位置",
+    "music": 0.0
+  },
+  {
+    "from": 548.179,
+    "to": 550.039,
+    "sid": 254,
+    "location": 2,
+    "content": "因为它是我见过的最简洁",
+    "music": 0.0
+  },
+  {
+    "from": 550.039,
+    "to": 551.94,
+    "sid": 255,
+    "location": 2,
+    "content": "最有效的教育理论之一",
+    "music": 0.0
+  },
+  {
+    "from": 551.94,
+    "to": 554.22,
+    "sid": 256,
+    "location": 2,
+    "content": "研究者在这个理论框架下",
+    "music": 0.0
+  },
+  {
+    "from": 554.22,
+    "to": 559.38,
+    "sid": 257,
+    "location": 2,
+    "content": "提炼出了相当多非常有用的教学策略",
+    "music": 0.0
+  },
+  {
+    "from": 560.98,
+    "to": 562.92,
+    "sid": 258,
+    "location": 2,
+    "content": "在正式介绍这些策略之前",
+    "music": 0.0
+  },
+  {
+    "from": 562.92,
+    "to": 564.18,
+    "sid": 259,
+    "location": 2,
+    "content": "我们必须先熟悉一个概念",
+    "music": 0.0
+  },
+  {
+    "from": 564.18,
+    "to": 565.32,
+    "sid": 260,
+    "location": 2,
+    "content": "叫元素交互性",
+    "music": 0.0
+  },
+  {
+    "from": 565.32,
+    "to": 566.76,
+    "sid": 261,
+    "location": 2,
+    "content": "指的是我们学习任务中",
+    "music": 0.0
+  },
+  {
+    "from": 566.76,
+    "to": 569.99,
+    "sid": 262,
+    "location": 2,
+    "content": "各个信息元素之间的相互关联性",
+    "music": 0.0
+  },
+  {
+    "from": 569.99,
+    "to": 572.87,
+    "sid": 263,
+    "location": 2,
+    "content": "这个是认知复合理论中的一个核心概念啊",
+    "music": 0.0
+  },
+  {
+    "from": 572.87,
+    "to": 575.72,
+    "sid": 264,
+    "location": 2,
+    "content": "如果一个学习任务中的信息元素之间",
+    "music": 0.0
+  },
+  {
+    "from": 575.72,
+    "to": 578.46,
+    "sid": 265,
+    "location": 2,
+    "content": "是彼此相对独立的",
+    "music": 0.0
+  },
+  {
+    "from": 578.46,
+    "to": 580.44,
+    "sid": 266,
+    "location": 2,
+    "content": "那么它的元素交互性就比较低",
+    "music": 0.0
+  },
+  {
+    "from": 580.44,
+    "to": 581.79,
+    "sid": 267,
+    "location": 2,
+    "content": "比如我们背单词的时候",
+    "music": 0.0
+  },
+  {
+    "from": 581.79,
+    "to": 584.34,
+    "sid": 268,
+    "location": 2,
+    "content": "我们可以相对孤立的记忆每个单词",
+    "music": 0.0
+  },
+  {
+    "from": 584.34,
+    "to": 586.5,
+    "sid": 269,
+    "location": 2,
+    "content": "他们之间彼此相对的独立",
+    "music": 0.0
+  },
+  {
+    "from": 586.5,
+    "to": 589.56,
+    "sid": 270,
+    "location": 2,
+    "content": "没有很强的这个依存和交互关系",
+    "music": 0.0
+  },
+  {
+    "from": 589.56,
+    "to": 591.72,
+    "sid": 271,
+    "location": 2,
+    "content": "我们也可以用类似的方式去记忆",
+    "music": 0.0
+  },
+  {
+    "from": 591.72,
+    "to": 592.68,
+    "sid": 272,
+    "location": 2,
+    "content": "去学习乘法",
+    "music": 0.0
+  },
+  {
+    "from": 592.68,
+    "to": 593.72,
+    "sid": 273,
+    "location": 2,
+    "content": "乘法口诀表",
+    "music": 0.0
+  },
+  {
+    "from": 593.72,
+    "to": 595.1,
+    "sid": 274,
+    "location": 2,
+    "content": "元素周期表",
+    "music": 0.0
+  },
+  {
+    "from": 595.1,
+    "to": 597.37,
+    "sid": 275,
+    "location": 2,
+    "content": "这个历史朝代等等",
+    "music": 0.0
+  },
+  {
+    "from": 597.37,
+    "to": 598.45,
+    "sid": 276,
+    "location": 2,
+    "content": "这些学习元素",
+    "music": 0.0
+  },
+  {
+    "from": 598.45,
+    "to": 601.87,
+    "sid": 277,
+    "location": 2,
+    "content": "都能在不与其他或者很少与其他元素",
+    "music": 0.0
+  },
+  {
+    "from": 601.87,
+    "to": 604.59,
+    "sid": 278,
+    "location": 2,
+    "content": "发生交互的情况下被我们理解和记忆",
+    "music": 0.0
+  },
+  {
+    "from": 604.59,
+    "to": 605.52,
+    "sid": 279,
+    "location": 2,
+    "content": "相反",
+    "music": 0.0
+  },
+  {
+    "from": 605.52,
+    "to": 608.54,
+    "sid": 280,
+    "location": 2,
+    "content": "如果这些元素之间有很强的",
+    "music": 0.0
+  },
+  {
+    "from": 608.54,
+    "to": 610.97,
+    "sid": 281,
+    "location": 2,
+    "content": "相互的依存和依赖关系的话",
+    "music": 0.0
+  },
+  {
+    "from": 610.97,
+    "to": 615.08,
+    "sid": 282,
+    "location": 2,
+    "content": "那么这个学习材料的啊元素交互性就会非常高",
+    "music": 0.0
+  },
+  {
+    "from": 615.08,
+    "to": 616.86,
+    "sid": 283,
+    "location": 2,
+    "content": "比如我们在写作的时候",
+    "music": 0.0
+  },
+  {
+    "from": 616.86,
+    "to": 618.6,
+    "sid": 284,
+    "location": 2,
+    "content": "每个词的意思的微妙差别",
+    "music": 0.0
+  },
+  {
+    "from": 618.6,
+    "to": 620.88,
+    "sid": 285,
+    "location": 2,
+    "content": "都会导致整个语境的变化对吗",
+    "music": 0.0
+  },
+  {
+    "from": 620.88,
+    "to": 622.32,
+    "sid": 286,
+    "location": 2,
+    "content": "我们解数学方程的时候",
+    "music": 0.0
+  },
+  {
+    "from": 622.32,
+    "to": 627.29,
+    "sid": 287,
+    "location": 2,
+    "content": "每个数字和每个运算符都与全部的要素有关",
+    "music": 0.0
+  },
+  {
+    "from": 627.29,
+    "to": 628.97,
+    "sid": 288,
+    "location": 2,
+    "content": "我们在做阅读理解的时候",
+    "music": 0.0
+  },
+  {
+    "from": 628.97,
+    "to": 631.909,
+    "sid": 289,
+    "location": 2,
+    "content": "关键的字词段落的意义",
+    "music": 0.0
+  },
+  {
+    "from": 631.909,
+    "to": 634.789,
+    "sid": 290,
+    "location": 2,
+    "content": "需要在整个文章的脉络中被把握",
+    "music": 0.0
+  },
+  {
+    "from": 634.789,
+    "to": 638.23,
+    "sid": 291,
+    "location": 2,
+    "content": "有一些长篇小说里面充满了拗口的",
+    "music": 0.0
+  },
+  {
+    "from": 638.23,
+    "to": 640.67,
+    "sid": 292,
+    "location": 2,
+    "content": "这个人民和复杂人物关系",
+    "music": 0.0
+  },
+  {
+    "from": 640.67,
+    "to": 642.71,
+    "sid": 293,
+    "location": 2,
+    "content": "逼得我们需要给人物起外号",
+    "music": 0.0
+  },
+  {
+    "from": 642.71,
+    "to": 645.26,
+    "sid": 294,
+    "location": 2,
+    "content": "画关系图才能知道他们说了一件什么事情",
+    "music": 0.0
+  },
+  {
+    "from": 645.26,
+    "to": 647.25,
+    "sid": 295,
+    "location": 2,
+    "content": "所以元素交互性越高",
+    "music": 0.0
+  },
+  {
+    "from": 647.25,
+    "to": 650.49,
+    "sid": 296,
+    "location": 2,
+    "content": "处理这些信息所需要的认知负荷就越大",
+    "music": 0.0
+  },
+  {
+    "from": 650.49,
+    "to": 652.35,
+    "sid": 297,
+    "location": 2,
+    "content": "对我们的工作记忆的挑战就越大",
+    "music": 0.0
+  },
+  {
+    "from": 652.35,
+    "to": 653.14,
+    "sid": 298,
+    "location": 2,
+    "content": "一般会认为",
+    "music": 0.0
+  },
+  {
+    "from": 653.14,
+    "to": 656.08,
+    "sid": 299,
+    "location": 2,
+    "content": "前一类学习材料是可以通过机械记忆去处理的",
+    "music": 0.0
+  },
+  {
+    "from": 656.08,
+    "to": 659.68,
+    "sid": 300,
+    "location": 2,
+    "content": "而后一类学习材料则要求我们进行领会和理解",
+    "music": 0.0
+  },
+  {
+    "from": 659.68,
+    "to": 660.22,
+    "sid": 301,
+    "location": 2,
+    "content": "对吗",
+    "music": 0.0
+  },
+  {
+    "from": 660.22,
+    "to": 662.68,
+    "sid": 302,
+    "location": 2,
+    "content": "但是在认知符合理论的视角来看",
+    "music": 0.0
+  },
+  {
+    "from": 662.68,
+    "to": 664.18,
+    "sid": 303,
+    "location": 2,
+    "content": "在我们今天的主题下",
+    "music": 0.0
+  },
+  {
+    "from": 664.18,
+    "to": 667.81,
+    "sid": 304,
+    "location": 2,
+    "content": "后一种情况要处理的依然是记忆的问题",
+    "music": 0.0
+  },
+  {
+    "from": 667.81,
+    "to": 668.92,
+    "sid": 305,
+    "location": 2,
+    "content": "区别就在于",
+    "music": 0.0
+  },
+  {
+    "from": 668.92,
+    "to": 672.4,
+    "sid": 306,
+    "location": 2,
+    "content": "我们需要依靠常识机中的大组块",
+    "music": 0.0
+  },
+  {
+    "from": 672.4,
+    "to": 675.76,
+    "sid": 307,
+    "location": 2,
+    "content": "来应对元素交互性导致的那种复杂性",
+    "music": 0.0
+  },
+  {
+    "from": 675.76,
+    "to": 677.45,
+    "sid": 308,
+    "location": 2,
+    "content": "就是再复杂的问题",
+    "music": 0.0
+  },
+  {
+    "from": 677.45,
+    "to": 680.0,
+    "sid": 309,
+    "location": 2,
+    "content": "只要它在逻辑上是有解的",
+    "music": 0.0
+  },
+  {
+    "from": 680.0,
+    "to": 681.71,
+    "sid": 310,
+    "location": 2,
+    "content": "那么他就和小孩子",
+    "music": 0.0
+  },
+  {
+    "from": 681.71,
+    "to": 684.59,
+    "sid": 311,
+    "location": 2,
+    "content": "把离散的三个墨水点处理成三点水",
+    "music": 0.0
+  },
+  {
+    "from": 684.59,
+    "to": 686.03,
+    "sid": 312,
+    "location": 2,
+    "content": "没有本质区别",
+    "music": 0.0
+  },
+  {
+    "from": 686.03,
+    "to": 687.1,
+    "sid": 313,
+    "location": 2,
+    "content": "听清楚了吗",
+    "music": 0.0
+  },
+  {
+    "from": 687.1,
+    "to": 690.28,
+    "sid": 314,
+    "location": 2,
+    "content": "唯一的差异就是复杂性的差异",
+    "music": 0.0
+  },
+  {
+    "from": 690.28,
+    "to": 693.23,
+    "sid": 315,
+    "location": 2,
+    "content": "确切的说是元素交互性强弱的差异",
+    "music": 0.0
+  },
+  {
+    "from": 693.23,
+    "to": 696.32,
+    "sid": 316,
+    "location": 2,
+    "content": "就元素交互性是我们感知到的",
+    "music": 0.0
+  },
+  {
+    "from": 696.32,
+    "to": 697.94,
+    "sid": 317,
+    "location": 2,
+    "content": "复杂性的根本来源",
+    "music": 0.0
+  },
+  {
+    "from": 697.94,
+    "to": 701.17,
+    "sid": 318,
+    "location": 2,
+    "content": "也是我们困惑的来源重要来源",
+    "music": 0.0
+  },
+  {
+    "from": 701.17,
+    "to": 703.21,
+    "sid": 319,
+    "location": 2,
+    "content": "下面我们介绍三个具有代表性的优化",
+    "music": 0.0
+  },
+  {
+    "from": 703.21,
+    "to": 704.17,
+    "sid": 320,
+    "location": 2,
+    "content": "认知符合的策略",
+    "music": 0.0
+  },
+  {
+    "from": 704.17,
+    "to": 706.35,
+    "sid": 321,
+    "location": 2,
+    "content": "第一个策略叫去除冗余",
+    "music": 0.0
+  },
+  {
+    "from": 706.35,
+    "to": 709.89,
+    "sid": 322,
+    "location": 2,
+    "content": "具体来说就是去除学习材料中的多余的元素",
+    "music": 0.0
+  },
+  {
+    "from": 709.89,
+    "to": 712.969,
+    "sid": 323,
+    "location": 2,
+    "content": "交互性来达到减少认知负荷的目的",
+    "music": 0.0
+  },
+  {
+    "from": 712.969,
+    "to": 714.86,
+    "sid": 324,
+    "location": 2,
+    "content": "下面这项研究非常能说明问题",
+    "music": 0.0
+  },
+  {
+    "from": 714.86,
+    "to": 716.78,
+    "sid": 325,
+    "location": 2,
+    "content": "研究者在悉尼的一所小学中",
+    "music": 0.0
+  },
+  {
+    "from": 716.78,
+    "to": 718.82,
+    "sid": 326,
+    "location": 2,
+    "content": "随机选取了30名小学生",
+    "music": 0.0
+  },
+  {
+    "from": 718.82,
+    "to": 720.02,
+    "sid": 327,
+    "location": 2,
+    "content": "把他们分成两组",
+    "music": 0.0
+  },
+  {
+    "from": 720.02,
+    "to": 722.68,
+    "sid": 328,
+    "location": 2,
+    "content": "两组人都需要按照说明书完成一个折纸任务",
+    "music": 0.0
+  },
+  {
+    "from": 722.68,
+    "to": 724.6,
+    "sid": 329,
+    "location": 2,
+    "content": "其中一组人得到的是这样的一份",
+    "music": 0.0
+  },
+  {
+    "from": 724.6,
+    "to": 725.92,
+    "sid": 330,
+    "location": 2,
+    "content": "图文并茂的说明书",
+    "music": 0.0
+  },
+  {
+    "from": 725.92,
+    "to": 728.86,
+    "sid": 331,
+    "location": 2,
+    "content": "而另一组人得到的是只有右侧图片示意的版本",
+    "music": 0.0
+  },
+  {
+    "from": 728.86,
+    "to": 729.64,
+    "sid": 332,
+    "location": 2,
+    "content": "研究者发现",
+    "music": 0.0
+  },
+  {
+    "from": 729.64,
+    "to": 731.42,
+    "sid": 333,
+    "location": 2,
+    "content": "得到完整说明书的小组",
+    "music": 0.0
+  },
+  {
+    "from": 731.42,
+    "to": 734.84,
+    "sid": 334,
+    "location": 2,
+    "content": "也就是冗余格式小组的学习表现明显更差",
+    "music": 0.0
+  },
+  {
+    "from": 734.84,
+    "to": 735.68,
+    "sid": 335,
+    "location": 2,
+    "content": "在练习阶段",
+    "music": 0.0
+  },
+  {
+    "from": 735.68,
+    "to": 737.96,
+    "sid": 336,
+    "location": 2,
+    "content": "只有33%的学生完成了折纸任务",
+    "music": 0.0
+  },
+  {
+    "from": 737.96,
+    "to": 740.88,
+    "sid": 337,
+    "location": 2,
+    "content": "而图形格式小组的完成率则高达66%",
+    "music": 0.0
+  },
+  {
+    "from": 740.88,
+    "to": 742.86,
+    "sid": 338,
+    "location": 2,
+    "content": "后面的测试阶段差距依然明显",
+    "music": 0.0
+  },
+  {
+    "from": 742.86,
+    "to": 745.62,
+    "sid": 339,
+    "location": 2,
+    "content": "冗余格式小组的完成率只有26.7%",
+    "music": 0.0
+  },
+  {
+    "from": 745.62,
+    "to": 747.54,
+    "sid": 340,
+    "location": 2,
+    "content": "而图形格式组则有60%",
+    "music": 0.0
+  },
+  {
+    "from": 747.54,
+    "to": 748.62,
+    "sid": 341,
+    "location": 2,
+    "content": "研究人员还发现",
+    "music": 0.0
+  },
+  {
+    "from": 748.62,
+    "to": 750.84,
+    "sid": 342,
+    "location": 2,
+    "content": "图形格式组的学生犯错更少",
+    "music": 0.0
+  },
+  {
+    "from": 750.84,
+    "to": 753.52,
+    "sid": 343,
+    "location": 2,
+    "content": "有一半的学生在零错误的情况下完成了测试",
+    "music": 0.0
+  },
+  {
+    "from": 753.52,
+    "to": 754.9,
+    "sid": 344,
+    "location": 2,
+    "content": "而冗余格式组",
+    "music": 0.0
+  },
+  {
+    "from": 754.9,
+    "to": 756.76,
+    "sid": 345,
+    "location": 2,
+    "content": "只有1/5的学生能做到这一点",
+    "music": 0.0
+  },
+  {
+    "from": 756.76,
+    "to": 758.97,
+    "sid": 346,
+    "location": 2,
+    "content": "说明书上的文字信息就是冗余设计",
+    "music": 0.0
+  },
+  {
+    "from": 758.97,
+    "to": 762.09,
+    "sid": 347,
+    "location": 2,
+    "content": "理解这些文字需要占用学生的工作记忆空间",
+    "music": 0.0
+  },
+  {
+    "from": 762.09,
+    "to": 765.32,
+    "sid": 348,
+    "location": 2,
+    "content": "导致学生只能用剩下的工作记忆空间来处理",
+    "music": 0.0
+  },
+  {
+    "from": 765.32,
+    "to": 766.34,
+    "sid": 349,
+    "location": 2,
+    "content": "图形认知任务",
+    "music": 0.0
+  },
+  {
+    "from": 766.34,
+    "to": 767.03,
+    "sid": 350,
+    "location": 2,
+    "content": "相比之下",
+    "music": 0.0
+  },
+  {
+    "from": 767.03,
+    "to": 769.52,
+    "sid": 351,
+    "location": 2,
+    "content": "那些只拿到了图形说明书的学生",
+    "music": 0.0
+  },
+  {
+    "from": 769.52,
+    "to": 772.89,
+    "sid": 352,
+    "location": 2,
+    "content": "则可以用全部的认知资源来理解图形",
+    "music": 0.0
+  },
+  {
+    "from": 772.89,
+    "to": 776.4,
+    "sid": 353,
+    "location": 2,
+    "content": "这让我想起了宜家家具的说明组装说明书",
+    "music": 0.0
+  },
+  {
+    "from": 776.4,
+    "to": 777.63,
+    "sid": 354,
+    "location": 2,
+    "content": "我这人很疑惑",
+    "music": 0.0
+  },
+  {
+    "from": 777.63,
+    "to": 779.37,
+    "sid": 355,
+    "location": 2,
+    "content": "为什么上面一个字都没有",
+    "music": 0.0
+  },
+  {
+    "from": 779.37,
+    "to": 783.43,
+    "sid": 356,
+    "location": 2,
+    "content": "是不是全球化公司为了解决这个吧",
+    "music": 0.0
+  },
+  {
+    "from": 783.43,
+    "to": 784.36,
+    "sid": 357,
+    "location": 2,
+    "content": "节省成本",
+    "music": 0.0
+  },
+  {
+    "from": 784.36,
+    "to": 786.61,
+    "sid": 358,
+    "location": 2,
+    "content": "不希望做各种语言版本的说明书",
+    "music": 0.0
+  },
+  {
+    "from": 786.61,
+    "to": 788.11,
+    "sid": 359,
+    "location": 2,
+    "content": "后来自己拼装过家具",
+    "music": 0.0
+  },
+  {
+    "from": 788.11,
+    "to": 792.05,
+    "sid": 360,
+    "location": 2,
+    "content": "才发现这个说明书已经写得非常清楚和明白了",
+    "music": 0.0
+  },
+  {
+    "from": 792.05,
+    "to": 794.27,
+    "sid": 361,
+    "location": 2,
+    "content": "根本不需要看安装视频",
+    "music": 0.0
+  },
+  {
+    "from": 794.27,
+    "to": 797.53,
+    "sid": 362,
+    "location": 2,
+    "content": "堪称认知符合优化的这个典范",
+    "music": 0.0
+  },
+  {
+    "from": 797.53,
+    "to": 799.92,
+    "sid": 363,
+    "location": 2,
+    "content": "而更常见的安装说明书是这个样子的",
+    "music": 0.0
+  },
+  {
+    "from": 799.92,
+    "to": 800.82,
+    "sid": 364,
+    "location": 2,
+    "content": "我有些搞不懂",
+    "music": 0.0
+  },
+  {
+    "from": 800.82,
+    "to": 803.37,
+    "sid": 365,
+    "location": 2,
+    "content": "我为什么需要知道这个玩意叫小巧铁",
+    "music": 0.0
+  },
+  {
+    "from": 803.37,
+    "to": 805.02,
+    "sid": 366,
+    "location": 2,
+    "content": "然后我们屏住呼吸看这句话",
+    "music": 0.0
+  },
+  {
+    "from": 805.02,
+    "to": 809.72,
+    "sid": 367,
+    "location": 2,
+    "content": "将所有板上面的白色塑料圆孔拧上螺丝杆",
+    "music": 0.0
+  },
+  {
+    "from": 809.72,
+    "to": 812.84,
+    "sid": 368,
+    "location": 2,
+    "content": "A带组装使用在右板六安装导轨",
+    "music": 0.0
+  },
+  {
+    "from": 812.84,
+    "to": 817.14,
+    "sid": 369,
+    "location": 2,
+    "content": "J1使板材上面的黑色准线贯穿导轨中",
+    "music": 0.0
+  },
+  {
+    "from": 817.14,
+    "to": 818.16,
+    "sid": 370,
+    "location": 2,
+    "content": "新的圆孔",
+    "music": 0.0
+  },
+  {
+    "from": 818.16,
+    "to": 822.24,
+    "sid": 371,
+    "location": 2,
+    "content": "导轨最前端和最后端的圆孔各固定一颗螺丝",
+    "music": 0.0
+  },
+  {
+    "from": 822.24,
+    "to": 823.14,
+    "sid": 372,
+    "location": 2,
+    "content": "即可发现没有",
+    "music": 0.0
+  },
+  {
+    "from": 823.14,
+    "to": 825.47,
+    "sid": 373,
+    "location": 2,
+    "content": "这是极其繁琐的元素交汇",
+    "music": 0.0
+  },
+  {
+    "from": 825.47,
+    "to": 826.85,
+    "sid": 374,
+    "location": 2,
+    "content": "当我读到那段话的时候",
+    "music": 0.0
+  },
+  {
+    "from": 826.85,
+    "to": 828.11,
+    "sid": 375,
+    "location": 2,
+    "content": "我的脑袋是蒙圈的",
+    "music": 0.0
+  },
+  {
+    "from": 828.11,
+    "to": 829.43,
+    "sid": 376,
+    "location": 2,
+    "content": "我的心态是爆炸的",
+    "music": 0.0
+  },
+  {
+    "from": 829.43,
+    "to": 831.32,
+    "sid": 377,
+    "location": 2,
+    "content": "我眼前这一堆配件",
+    "music": 0.0
+  },
+  {
+    "from": 831.32,
+    "to": 833.57,
+    "sid": 378,
+    "location": 2,
+    "content": "这堆工具已经让我很头大了",
+    "music": 0.0
+  },
+  {
+    "from": 833.57,
+    "to": 835.01,
+    "sid": 379,
+    "location": 2,
+    "content": "我哪里还有多余的工作记忆",
+    "music": 0.0
+  },
+  {
+    "from": 835.01,
+    "to": 836.51,
+    "sid": 380,
+    "location": 2,
+    "content": "来处理这些复杂的信息",
+    "music": 0.0
+  },
+  {
+    "from": 836.51,
+    "to": 838.61,
+    "sid": 381,
+    "location": 2,
+    "content": "让我们回到最开始的那个折纸实验",
+    "music": 0.0
+  },
+  {
+    "from": 838.61,
+    "to": 840.48,
+    "sid": 382,
+    "location": 2,
+    "content": "研究者在最后一项实验中",
+    "music": 0.0
+  },
+  {
+    "from": 840.48,
+    "to": 843.36,
+    "sid": 383,
+    "location": 2,
+    "content": "制作一个几乎是零设计冗余的说明书方案",
+    "music": 0.0
+  },
+  {
+    "from": 843.36,
+    "to": 846.45,
+    "sid": 384,
+    "location": 2,
+    "content": "他试图把学习材料中的元素交互性降到最低",
+    "music": 0.0
+  },
+  {
+    "from": 846.45,
+    "to": 848.4,
+    "sid": 385,
+    "location": 2,
+    "content": "这个方案非常有智慧",
+    "music": 0.0
+  },
+  {
+    "from": 848.4,
+    "to": 851.22,
+    "sid": 386,
+    "location": 2,
+    "content": "他将说明书和工作材料合二为一了",
+    "music": 0.0
+  },
+  {
+    "from": 851.22,
+    "to": 854.16,
+    "sid": 387,
+    "location": 2,
+    "content": "学生得到的是这样一张纸板",
+    "music": 0.0
+  },
+  {
+    "from": 854.16,
+    "to": 856.36,
+    "sid": 388,
+    "location": 2,
+    "content": "上面印刷了图形指示",
+    "music": 0.0
+  },
+  {
+    "from": 856.36,
+    "to": 858.43,
+    "sid": 389,
+    "location": 2,
+    "content": "你可以直接在上面进行折叠",
+    "music": 0.0
+  },
+  {
+    "from": 858.43,
+    "to": 860.47,
+    "sid": 390,
+    "location": 2,
+    "content": "研究者把这个方案称之为叫",
+    "music": 0.0
+  },
+  {
+    "from": 860.47,
+    "to": 862.21,
+    "sid": 391,
+    "location": 2,
+    "content": "嵌入指令式的格式啊",
+    "music": 0.0
+  },
+  {
+    "from": 862.21,
+    "to": 865.13,
+    "sid": 392,
+    "location": 2,
+    "content": "我愿称之为叫知行合一格式",
+    "music": 0.0
+  },
+  {
+    "from": 865.13,
+    "to": 867.32,
+    "sid": 393,
+    "location": 2,
+    "content": "然后研究人员又将学生分成三组",
+    "music": 0.0
+  },
+  {
+    "from": 867.32,
+    "to": 868.76,
+    "sid": 394,
+    "location": 2,
+    "content": "分别是冗余格式组",
+    "music": 0.0
+  },
+  {
+    "from": 868.76,
+    "to": 871.339,
+    "sid": 395,
+    "location": 2,
+    "content": "图形格式组和这个嵌入指令格式组",
+    "music": 0.0
+  },
+  {
+    "from": 871.339,
+    "to": 872.719,
+    "sid": 396,
+    "location": 2,
+    "content": "结果可想而知",
+    "music": 0.0
+  },
+  {
+    "from": 872.719,
+    "to": 874.639,
+    "sid": 397,
+    "location": 2,
+    "content": "完成率分别是40%",
+    "music": 0.0
+  },
+  {
+    "from": 874.639,
+    "to": 876.979,
+    "sid": 398,
+    "location": 2,
+    "content": "60%和90%",
+    "music": 0.0
+  },
+  {
+    "from": 876.979,
+    "to": 879.52,
+    "sid": 399,
+    "location": 2,
+    "content": "有时候我们不得不感叹",
+    "music": 0.0
+  },
+  {
+    "from": 879.52,
+    "to": 881.02,
+    "sid": 400,
+    "location": 2,
+    "content": "就没有笨学生",
+    "music": 0.0
+  },
+  {
+    "from": 881.02,
+    "to": 882.1,
+    "sid": 401,
+    "location": 2,
+    "content": "没有笨用户",
+    "music": 0.0
+  },
+  {
+    "from": 882.1,
+    "to": 884.68,
+    "sid": 402,
+    "location": 2,
+    "content": "只有蓝老师和懒设计",
+    "music": 0.0
+  },
+  {
+    "from": 884.68,
+    "to": 886.24,
+    "sid": 403,
+    "location": 2,
+    "content": "接下来第二个策略叫分割",
+    "music": 0.0
+  },
+  {
+    "from": 886.24,
+    "to": 887.2,
+    "sid": 404,
+    "location": 2,
+    "content": "刚刚还在集成",
+    "music": 0.0
+  },
+  {
+    "from": 887.2,
+    "to": 888.0,
+    "sid": 405,
+    "location": 2,
+    "content": "在嵌入",
+    "music": 0.0
+  },
+  {
+    "from": 888.0,
+    "to": 889.83,
+    "sid": 406,
+    "location": 2,
+    "content": "现在就要分割了对吗",
+    "music": 0.0
+  },
+  {
+    "from": 889.83,
+    "to": 892.38,
+    "sid": 407,
+    "location": 2,
+    "content": "因为认知符合理论区分了两种认知符合",
+    "music": 0.0
+  },
+  {
+    "from": 892.38,
+    "to": 896.19,
+    "sid": 408,
+    "location": 2,
+    "content": "一种是外部认知符合指的是信息组织的格式啊",
+    "music": 0.0
+  },
+  {
+    "from": 896.19,
+    "to": 897.69,
+    "sid": 409,
+    "location": 2,
+    "content": "或者是学习环境啊",
+    "music": 0.0
+  },
+  {
+    "from": 897.69,
+    "to": 899.39,
+    "sid": 410,
+    "location": 2,
+    "content": "这些外部因素导致的复合",
+    "music": 0.0
+  },
+  {
+    "from": 899.39,
+    "to": 902.99,
+    "sid": 411,
+    "location": 2,
+    "content": "前面的例子中那些冗余设计就是外部认知复合",
+    "music": 0.0
+  },
+  {
+    "from": 902.99,
+    "to": 905.63,
+    "sid": 412,
+    "location": 2,
+    "content": "外部认知负荷是可以通过课程设计",
+    "music": 0.0
+  },
+  {
+    "from": 905.63,
+    "to": 907.55,
+    "sid": 413,
+    "location": 2,
+    "content": "尽可能减少或者消除的",
+    "music": 0.0
+  },
+  {
+    "from": 907.55,
+    "to": 908.87,
+    "sid": 414,
+    "location": 2,
+    "content": "另一种是内在认知负荷",
+    "music": 0.0
+  },
+  {
+    "from": 908.87,
+    "to": 913.32,
+    "sid": 415,
+    "location": 2,
+    "content": "指的是信息结构本身的复杂性导致的认知负荷",
+    "music": 0.0
+  },
+  {
+    "from": 913.32,
+    "to": 916.5,
+    "sid": 416,
+    "location": 2,
+    "content": "有些知识它本身就是有很强的元素交互性",
+    "music": 0.0
+  },
+  {
+    "from": 916.5,
+    "to": 920.31,
+    "sid": 417,
+    "location": 2,
+    "content": "比如数学中的各种复杂的公式和定理",
+    "music": 0.0
+  },
+  {
+    "from": 920.31,
+    "to": 921.78,
+    "sid": 418,
+    "location": 2,
+    "content": "长篇文章写作",
+    "music": 0.0
+  },
+  {
+    "from": 921.78,
+    "to": 923.51,
+    "sid": 419,
+    "location": 2,
+    "content": "你需要考虑到各种因素",
+    "music": 0.0
+  },
+  {
+    "from": 923.51,
+    "to": 926.849,
+    "sid": 420,
+    "location": 2,
+    "content": "你哪怕是学会跳一支比较复杂的舞对吗",
+    "music": 0.0
+  },
+  {
+    "from": 926.849,
+    "to": 930.449,
+    "sid": 421,
+    "location": 2,
+    "content": "学会他们都需要我们消耗大量的认知资源",
+    "music": 0.0
+  },
+  {
+    "from": 930.449,
+    "to": 931.889,
+    "sid": 422,
+    "location": 2,
+    "content": "这种内在的复杂性",
+    "music": 0.0
+  },
+  {
+    "from": 931.889,
+    "to": 935.36,
+    "sid": 423,
+    "location": 2,
+    "content": "是没有办法通过呈现方式的优化",
+    "music": 0.0
+  },
+  {
+    "from": 935.36,
+    "to": 937.91,
+    "sid": 424,
+    "location": 2,
+    "content": "或者是学习环境的调整来消除的",
+    "music": 0.0
+  },
+  {
+    "from": 937.91,
+    "to": 940.44,
+    "sid": 425,
+    "location": 2,
+    "content": "我们只能将其分割分割",
+    "music": 0.0
+  },
+  {
+    "from": 940.44,
+    "to": 942.62,
+    "sid": 426,
+    "location": 2,
+    "content": "就是把复杂的任务拆分开来",
+    "music": 0.0
+  },
+  {
+    "from": 942.62,
+    "to": 945.02,
+    "sid": 427,
+    "location": 2,
+    "content": "先学那些元素交互性较弱的任务",
+    "music": 0.0
+  },
+  {
+    "from": 945.02,
+    "to": 947.12,
+    "sid": 428,
+    "location": 2,
+    "content": "再学那些元素交互性较强的任务",
+    "music": 0.0
+  },
+  {
+    "from": 947.12,
+    "to": 949.16,
+    "sid": 429,
+    "location": 2,
+    "content": "类似于我们常说的循序渐进",
+    "music": 0.0
+  },
+  {
+    "from": 949.16,
+    "to": 952.76,
+    "sid": 430,
+    "location": 2,
+    "content": "循序渐进的难点在于我们该选什么序",
+    "music": 0.0
+  },
+  {
+    "from": 952.76,
+    "to": 955.07,
+    "sid": 431,
+    "location": 2,
+    "content": "以什么样的方式来见此推进",
+    "music": 0.0
+  },
+  {
+    "from": 955.07,
+    "to": 958.549,
+    "sid": 432,
+    "location": 2,
+    "content": "是非常考验教育者的这个技巧和智慧啊",
+    "music": 0.0
+  },
+  {
+    "from": 958.549,
+    "to": 961.039,
+    "sid": 433,
+    "location": 2,
+    "content": "所以分割策略是认知复合理论下",
+    "music": 0.0
+  },
+  {
+    "from": 961.039,
+    "to": 962.79,
+    "sid": 434,
+    "location": 2,
+    "content": "最为重要的学习策略",
+    "music": 0.0
+  },
+  {
+    "from": 962.79,
+    "to": 964.35,
+    "sid": 435,
+    "location": 2,
+    "content": "我们会重点介绍",
+    "music": 0.0
+  },
+  {
+    "from": 964.35,
+    "to": 967.25,
+    "sid": 436,
+    "location": 2,
+    "content": "我们先看一个写作教学的例子",
+    "music": 0.0
+  },
+  {
+    "from": 967.25,
+    "to": 969.5,
+    "sid": 437,
+    "location": 2,
+    "content": "前段时间啊一个亲戚向我抱怨",
+    "music": 0.0
+  },
+  {
+    "from": 969.5,
+    "to": 971.54,
+    "sid": 438,
+    "location": 2,
+    "content": "现在的小学课程安排不合理",
+    "music": 0.0
+  },
+  {
+    "from": 971.54,
+    "to": 974.319,
+    "sid": 439,
+    "location": 2,
+    "content": "12年级的时候语文课没有教过写作",
+    "music": 0.0
+  },
+  {
+    "from": 974.319,
+    "to": 975.399,
+    "sid": 440,
+    "location": 2,
+    "content": "第3年级的时候",
+    "music": 0.0
+  },
+  {
+    "from": 975.399,
+    "to": 977.739,
+    "sid": 441,
+    "location": 2,
+    "content": "却突然要求学生写200字的作文",
+    "music": 0.0
+  },
+  {
+    "from": 977.739,
+    "to": 979.69,
+    "sid": 442,
+    "location": 2,
+    "content": "我的小外甥一脸懵逼",
+    "music": 0.0
+  },
+  {
+    "from": 979.69,
+    "to": 982.36,
+    "sid": 443,
+    "location": 2,
+    "content": "那个时候我刚好在研究认知符合理论",
+    "music": 0.0
+  },
+  {
+    "from": 982.36,
+    "to": 983.59,
+    "sid": 444,
+    "location": 2,
+    "content": "看过相关的案例",
+    "music": 0.0
+  },
+  {
+    "from": 983.59,
+    "to": 985.27,
+    "sid": 445,
+    "location": 2,
+    "content": "我就给他支招啊",
+    "music": 0.0
+  },
+  {
+    "from": 985.27,
+    "to": 987.199,
+    "sid": 446,
+    "location": 2,
+    "content": "我说小外甥会造句吧",
+    "music": 0.0
+  },
+  {
+    "from": 987.199,
+    "to": 988.579,
+    "sid": 447,
+    "location": 2,
+    "content": "啊会造句",
+    "music": 0.0
+  },
+  {
+    "from": 988.579,
+    "to": 989.659,
+    "sid": 448,
+    "location": 2,
+    "content": "其实就会写作文",
+    "music": 0.0
+  },
+  {
+    "from": 989.659,
+    "to": 991.729,
+    "sid": 449,
+    "location": 2,
+    "content": "具体来说就是你要有一个主题句",
+    "music": 0.0
+  },
+  {
+    "from": 991.729,
+    "to": 993.079,
+    "sid": 450,
+    "location": 2,
+    "content": "主题句像一个种子",
+    "music": 0.0
+  },
+  {
+    "from": 993.079,
+    "to": 994.88,
+    "sid": 451,
+    "location": 2,
+    "content": "它能扩展出一篇文章",
+    "music": 0.0
+  },
+  {
+    "from": 994.88,
+    "to": 997.19,
+    "sid": 452,
+    "location": 2,
+    "content": "比如他随口说了一句",
+    "music": 0.0
+  },
+  {
+    "from": 997.19,
+    "to": 998.36,
+    "sid": 453,
+    "location": 2,
+    "content": "今天出去玩了",
+    "music": 0.0
+  },
+  {
+    "from": 998.36,
+    "to": 999.14,
+    "sid": 454,
+    "location": 2,
+    "content": "我很高兴",
+    "music": 0.0
+  },
+  {
+    "from": 999.14,
+    "to": 1002.73,
+    "sid": 455,
+    "location": 2,
+    "content": "那么你要问他今天是哪一年的几月几号",
+    "music": 0.0
+  },
+  {
+    "from": 1002.73,
+    "to": 1004.38,
+    "sid": 456,
+    "location": 2,
+    "content": "什么季节对吧",
+    "music": 0.0
+  },
+  {
+    "from": 1004.38,
+    "to": 1005.76,
+    "sid": 457,
+    "location": 2,
+    "content": "天气好不好",
+    "music": 0.0
+  },
+  {
+    "from": 1005.76,
+    "to": 1009.5,
+    "sid": 458,
+    "location": 2,
+    "content": "然后出去是去哪里玩呃",
+    "music": 0.0
+  },
+  {
+    "from": 1009.5,
+    "to": 1010.7,
+    "sid": 459,
+    "location": 2,
+    "content": "从哪里出发的",
+    "music": 0.0
+  },
+  {
+    "from": 1010.7,
+    "to": 1012.32,
+    "sid": 460,
+    "location": 2,
+    "content": "坐什么交通工具去的",
+    "music": 0.0
+  },
+  {
+    "from": 1012.32,
+    "to": 1015.2,
+    "sid": 461,
+    "location": 2,
+    "content": "一路上我们看到了什么样的风景",
+    "music": 0.0
+  },
+  {
+    "from": 1015.2,
+    "to": 1016.34,
+    "sid": 462,
+    "location": 2,
+    "content": "玩玩了什么",
+    "music": 0.0
+  },
+  {
+    "from": 1016.34,
+    "to": 1017.18,
+    "sid": 463,
+    "location": 2,
+    "content": "和谁玩的",
+    "music": 0.0
+  },
+  {
+    "from": 1017.18,
+    "to": 1018.14,
+    "sid": 464,
+    "location": 2,
+    "content": "怎么玩的",
+    "music": 0.0
+  },
+  {
+    "from": 1018.14,
+    "to": 1020.42,
+    "sid": 465,
+    "location": 2,
+    "content": "很高兴是发生了什么事情",
+    "music": 0.0
+  },
+  {
+    "from": 1020.42,
+    "to": 1021.35,
+    "sid": 466,
+    "location": 2,
+    "content": "让你很高兴",
+    "music": 0.0
+  },
+  {
+    "from": 1021.35,
+    "to": 1023.22,
+    "sid": 467,
+    "location": 2,
+    "content": "高兴是一种什么样的感觉",
+    "music": 0.0
+  },
+  {
+    "from": 1023.22,
+    "to": 1023.94,
+    "sid": 468,
+    "location": 2,
+    "content": "除了高兴",
+    "music": 0.0
+  },
+  {
+    "from": 1023.94,
+    "to": 1025.26,
+    "sid": 469,
+    "location": 2,
+    "content": "你还有别的感受吗",
+    "music": 0.0
+  },
+  {
+    "from": 1025.26,
+    "to": 1026.76,
+    "sid": 470,
+    "location": 2,
+    "content": "就让他一个一个回答",
+    "music": 0.0
+  },
+  {
+    "from": 1026.76,
+    "to": 1029.349,
+    "sid": 471,
+    "location": 2,
+    "content": "每一个小问题都能引出一组句子",
+    "music": 0.0
+  },
+  {
+    "from": 1029.349,
+    "to": 1031.809,
+    "sid": 472,
+    "location": 2,
+    "content": "最后只需要把这些句子组成段落",
+    "music": 0.0
+  },
+  {
+    "from": 1031.809,
+    "to": 1034.54,
+    "sid": 473,
+    "location": 2,
+    "content": "一篇小作文就完成了",
+    "music": 0.0
+  },
+  {
+    "from": 1034.54,
+    "to": 1037.87,
+    "sid": 474,
+    "location": 2,
+    "content": "由于每一个问题都是基于他给出的基本句子",
+    "music": 0.0
+  },
+  {
+    "from": 1037.87,
+    "to": 1040.09,
+    "sid": 475,
+    "location": 2,
+    "content": "中的单位来发问的",
+    "music": 0.0
+  },
+  {
+    "from": 1040.09,
+    "to": 1042.819,
+    "sid": 476,
+    "location": 2,
+    "content": "所以都对应着他的具体经验",
+    "music": 0.0
+  },
+  {
+    "from": 1042.819,
+    "to": 1045.549,
+    "sid": 477,
+    "location": 2,
+    "content": "对他来说是相对容易回答的",
+    "music": 0.0
+  },
+  {
+    "from": 1045.549,
+    "to": 1048.02,
+    "sid": 478,
+    "location": 2,
+    "content": "小朋友也许会写出这样的文章",
+    "music": 0.0
+  },
+  {
+    "from": 1048.02,
+    "to": 1048.74,
+    "sid": 479,
+    "location": 2,
+    "content": "你会说",
+    "music": 0.0
+  },
+  {
+    "from": 1048.74,
+    "to": 1050.21,
+    "sid": 480,
+    "location": 2,
+    "content": "这不就是流水账吗",
+    "music": 0.0
+  },
+  {
+    "from": 1050.21,
+    "to": 1052.37,
+    "sid": 481,
+    "location": 2,
+    "content": "一开始写流水账没有任何问题",
+    "music": 0.0
+  },
+  {
+    "from": 1052.37,
+    "to": 1054.28,
+    "sid": 482,
+    "location": 2,
+    "content": "先让思维流动起来",
+    "music": 0.0
+  },
+  {
+    "from": 1054.28,
+    "to": 1056.41,
+    "sid": 483,
+    "location": 2,
+    "content": "总有机会激起灵感的浪花",
+    "music": 0.0
+  },
+  {
+    "from": 1056.41,
+    "to": 1057.16,
+    "sid": 484,
+    "location": 2,
+    "content": "相比之下",
+    "music": 0.0
+  },
+  {
+    "from": 1057.16,
+    "to": 1059.32,
+    "sid": 485,
+    "location": 2,
+    "content": "让孩子直接写一篇200字的文章",
+    "music": 0.0
+  },
+  {
+    "from": 1059.32,
+    "to": 1060.22,
+    "sid": 486,
+    "location": 2,
+    "content": "其实是很过分的",
+    "music": 0.0
+  },
+  {
+    "from": 1060.22,
+    "to": 1062.09,
+    "sid": 487,
+    "location": 2,
+    "content": "要求词句怎么搭配呀",
+    "music": 0.0
+  },
+  {
+    "from": 1062.09,
+    "to": 1063.4,
+    "sid": 488,
+    "location": 2,
+    "content": "情感怎么抒发呀",
+    "music": 0.0
+  },
+  {
+    "from": 1063.4,
+    "to": 1065.08,
+    "sid": 489,
+    "location": 2,
+    "content": "有什么主题要表达呀",
+    "music": 0.0
+  },
+  {
+    "from": 1065.08,
+    "to": 1066.4,
+    "sid": 490,
+    "location": 2,
+    "content": "某个字怎么写呀",
+    "music": 0.0
+  },
+  {
+    "from": 1066.4,
+    "to": 1068.05,
+    "sid": 491,
+    "location": 2,
+    "content": "标点符号是怎么用的呀",
+    "music": 0.0
+  },
+  {
+    "from": 1068.05,
+    "to": 1070.69,
+    "sid": 492,
+    "location": 2,
+    "content": "就孩子的脑子里面千头万绪",
+    "music": 0.0
+  },
+  {
+    "from": 1070.69,
+    "to": 1072.64,
+    "sid": 493,
+    "location": 2,
+    "content": "根本不知道该怎么说起",
+    "music": 0.0
+  },
+  {
+    "from": 1072.64,
+    "to": 1075.82,
+    "sid": 494,
+    "location": 2,
+    "content": "前面这个例子就是典型的分割策略",
+    "music": 0.0
+  },
+  {
+    "from": 1075.82,
+    "to": 1079.85,
+    "sid": 495,
+    "location": 2,
+    "content": "这里我们用到的是句子扩展和句子合并的方法",
+    "music": 0.0
+  },
+  {
+    "from": 1079.85,
+    "to": 1081.92,
+    "sid": 496,
+    "location": 2,
+    "content": "这个是写作教学中最强大的策略",
+    "music": 0.0
+  },
+  {
+    "from": 1081.92,
+    "to": 1084.46,
+    "sid": 497,
+    "location": 2,
+    "content": "也是学习语法的最有效的方式之一",
+    "music": 0.0
+  },
+  {
+    "from": 1084.46,
+    "to": 1086.11,
+    "sid": 498,
+    "location": 2,
+    "content": "我们学习外语法的时候",
+    "music": 0.0
+  },
+  {
+    "from": 1086.11,
+    "to": 1090.36,
+    "sid": 499,
+    "location": 2,
+    "content": "也可以先创建一个主谓宾格式的这个基本句式",
+    "music": 0.0
+  },
+  {
+    "from": 1090.36,
+    "to": 1091.5,
+    "sid": 500,
+    "location": 2,
+    "content": "比如我吃了一个苹果",
+    "music": 0.0
+  },
+  {
+    "from": 1091.5,
+    "to": 1093.0,
+    "sid": 501,
+    "location": 2,
+    "content": "然后一步一步进行扩写",
+    "music": 0.0
+  },
+  {
+    "from": 1093.0,
+    "to": 1094.44,
+    "sid": 502,
+    "location": 2,
+    "content": "先加入时间对吧",
+    "music": 0.0
+  },
+  {
+    "from": 1094.44,
+    "to": 1095.52,
+    "sid": 503,
+    "location": 2,
+    "content": "昨天我吃了一个苹果",
+    "music": 0.0
+  },
+  {
+    "from": 1095.52,
+    "to": 1096.22,
+    "sid": 504,
+    "location": 2,
+    "content": "再加入地点",
+    "music": 0.0
+  },
+  {
+    "from": 1096.22,
+    "to": 1098.56,
+    "sid": 505,
+    "location": 2,
+    "content": "昨天我在公园吃了一个苹果之后",
+    "music": 0.0
+  },
+  {
+    "from": 1098.56,
+    "to": 1099.67,
+    "sid": 506,
+    "location": 2,
+    "content": "添加食物的细节",
+    "music": 0.0
+  },
+  {
+    "from": 1099.67,
+    "to": 1102.32,
+    "sid": 507,
+    "location": 2,
+    "content": "昨天我在公园吃了一个多汁的红苹果",
+    "music": 0.0
+  },
+  {
+    "from": 1102.32,
+    "to": 1103.64,
+    "sid": 508,
+    "location": 2,
+    "content": "然后添加主观感受",
+    "music": 0.0
+  },
+  {
+    "from": 1103.64,
+    "to": 1105.98,
+    "sid": 509,
+    "location": 2,
+    "content": "昨天我在公园吃了一个多汁的红苹果之后",
+    "music": 0.0
+  },
+  {
+    "from": 1105.98,
+    "to": 1106.84,
+    "sid": 510,
+    "location": 2,
+    "content": "感觉很满足",
+    "music": 0.0
+  },
+  {
+    "from": 1106.84,
+    "to": 1109.0,
+    "sid": 511,
+    "location": 2,
+    "content": "甚至加入一些富有想象力的细节",
+    "music": 0.0
+  },
+  {
+    "from": 1109.0,
+    "to": 1112.16,
+    "sid": 512,
+    "location": 2,
+    "content": "我发现了苹果核里面有一个彩虹色的毛毛虫",
+    "music": 0.0
+  },
+  {
+    "from": 1112.16,
+    "to": 1114.08,
+    "sid": 513,
+    "location": 2,
+    "content": "直到把它扩展成完整的段落",
+    "music": 0.0
+  },
+  {
+    "from": 1114.08,
+    "to": 1114.8,
+    "sid": 514,
+    "location": 2,
+    "content": "在整个过程中",
+    "music": 0.0
+  },
+  {
+    "from": 1114.8,
+    "to": 1116.99,
+    "sid": 515,
+    "location": 2,
+    "content": "我们会逐步理解主谓宾结构",
+    "music": 0.0
+  },
+  {
+    "from": 1116.99,
+    "to": 1117.92,
+    "sid": 516,
+    "location": 2,
+    "content": "时间地点",
+    "music": 0.0
+  },
+  {
+    "from": 1117.92,
+    "to": 1118.94,
+    "sid": 517,
+    "location": 2,
+    "content": "状语的使用",
+    "music": 0.0
+  },
+  {
+    "from": 1118.94,
+    "to": 1120.06,
+    "sid": 518,
+    "location": 2,
+    "content": "形容词的使用",
+    "music": 0.0
+  },
+  {
+    "from": 1120.06,
+    "to": 1121.74,
+    "sid": 519,
+    "location": 2,
+    "content": "构造复合句等等知识点",
+    "music": 0.0
+  },
+  {
+    "from": 1121.74,
+    "to": 1124.59,
+    "sid": 520,
+    "location": 2,
+    "content": "下面是另一个关于写作教学的精彩案例",
+    "music": 0.0
+  },
+  {
+    "from": 1124.59,
+    "to": 1126.48,
+    "sid": 521,
+    "location": 2,
+    "content": "历史老师往往会要求我们回答",
+    "music": 0.0
+  },
+  {
+    "from": 1126.48,
+    "to": 1128.06,
+    "sid": 522,
+    "location": 2,
+    "content": "类似于下面这些问题",
+    "music": 0.0
+  },
+  {
+    "from": 1128.06,
+    "to": 1129.68,
+    "sid": 523,
+    "location": 2,
+    "content": "为什么工业革命很重要",
+    "music": 0.0
+  },
+  {
+    "from": 1131.24,
+    "to": 1134.65,
+    "sid": 524,
+    "location": 2,
+    "content": "为什么西方能发展出现代科学等等等等",
+    "music": 0.0
+  },
+  {
+    "from": 1134.65,
+    "to": 1136.679,
+    "sid": 525,
+    "location": 2,
+    "content": "要知道这些都不是好问题",
+    "music": 0.0
+  },
+  {
+    "from": 1136.679,
+    "to": 1139.019,
+    "sid": 526,
+    "location": 2,
+    "content": "认知复合理论的学者提醒我们啊",
+    "music": 0.0
+  },
+  {
+    "from": 1139.019,
+    "to": 1141.239,
+    "sid": 527,
+    "location": 2,
+    "content": "尤其是在教学的早期阶段",
+    "music": 0.0
+  },
+  {
+    "from": 1141.239,
+    "to": 1144.17,
+    "sid": 528,
+    "location": 2,
+    "content": "要非常警惕以外打头的问题",
+    "music": 0.0
+  },
+  {
+    "from": 1144.17,
+    "to": 1146.66,
+    "sid": 529,
+    "location": 2,
+    "content": "因为他们会因为过于开放",
+    "music": 0.0
+  },
+  {
+    "from": 1146.66,
+    "to": 1149.39,
+    "sid": 530,
+    "location": 2,
+    "content": "导致我们的学生认知过载",
+    "music": 0.0
+  },
+  {
+    "from": 1149.39,
+    "to": 1153.46,
+    "sid": 531,
+    "location": 2,
+    "content": "比回答问题更好的方式是直接扩展句子",
+    "music": 0.0
+  },
+  {
+    "from": 1153.46,
+    "to": 1154.66,
+    "sid": 532,
+    "location": 2,
+    "content": "有点像刚刚一样",
+    "music": 0.0
+  },
+  {
+    "from": 1154.66,
+    "to": 1155.49,
+    "sid": 533,
+    "location": 2,
+    "content": "扩展句子",
+    "music": 0.0
+  },
+  {
+    "from": 1155.49,
+    "to": 1157.71,
+    "sid": 534,
+    "location": 2,
+    "content": "就引导学生用特定的连接词",
+    "music": 0.0
+  },
+  {
+    "from": 1157.71,
+    "to": 1159.48,
+    "sid": 535,
+    "location": 2,
+    "content": "来完成一个残缺的句子",
+    "music": 0.0
+  },
+  {
+    "from": 1159.48,
+    "to": 1160.65,
+    "sid": 536,
+    "location": 2,
+    "content": "比如是这样的题目",
+    "music": 0.0
+  },
+  {
+    "from": 1160.65,
+    "to": 1161.73,
+    "sid": 537,
+    "location": 2,
+    "content": "请完成下面的句子",
+    "music": 0.0
+  },
+  {
+    "from": 1161.73,
+    "to": 1163.0,
+    "sid": 538,
+    "location": 2,
+    "content": "在工业革命之前",
+    "music": 0.0
+  },
+  {
+    "from": 1163.0,
+    "to": 1164.77,
+    "sid": 539,
+    "location": 2,
+    "content": "括号在工业革命之后",
+    "music": 0.0
+  },
+  {
+    "from": 1164.77,
+    "to": 1165.94,
+    "sid": 540,
+    "location": 2,
+    "content": "工业革命很重要",
+    "music": 0.0
+  },
+  {
+    "from": 1165.94,
+    "to": 1167.5,
+    "sid": 541,
+    "location": 2,
+    "content": "因为工业革命很重要",
+    "music": 0.0
+  },
+  {
+    "from": 1167.5,
+    "to": 1169.31,
+    "sid": 542,
+    "location": 2,
+    "content": "所以工业革命很重要",
+    "music": 0.0
+  },
+  {
+    "from": 1169.31,
+    "to": 1171.35,
+    "sid": 543,
+    "location": 2,
+    "content": "但是学生可能会给出这样的回答",
+    "music": 0.0
+  },
+  {
+    "from": 1171.35,
+    "to": 1172.24,
+    "sid": 544,
+    "location": 2,
+    "content": "在工业革命之前",
+    "music": 0.0
+  },
+  {
+    "from": 1172.24,
+    "to": 1175.24,
+    "sid": 545,
+    "location": 2,
+    "content": "人们主要依赖农业和手工业生产物品",
+    "music": 0.0
+  },
+  {
+    "from": 1175.24,
+    "to": 1176.26,
+    "sid": 546,
+    "location": 2,
+    "content": "在工业革命之后",
+    "music": 0.0
+  },
+  {
+    "from": 1176.26,
+    "to": 1178.54,
+    "sid": 547,
+    "location": 2,
+    "content": "机械生产和大规模生产成了主流",
+    "music": 0.0
+  },
+  {
+    "from": 1178.54,
+    "to": 1179.74,
+    "sid": 548,
+    "location": 2,
+    "content": "工业革命很重要",
+    "music": 0.0
+  },
+  {
+    "from": 1179.74,
+    "to": 1181.48,
+    "sid": 549,
+    "location": 2,
+    "content": "因为它标志着人类社会",
+    "music": 0.0
+  },
+  {
+    "from": 1181.48,
+    "to": 1184.4,
+    "sid": 550,
+    "location": 2,
+    "content": "从农业社会转向了工业社会的重大转变",
+    "music": 0.0
+  },
+  {
+    "from": 1184.4,
+    "to": 1185.42,
+    "sid": 551,
+    "location": 2,
+    "content": "各位我们很重要",
+    "music": 0.0
+  },
+  {
+    "from": 1185.42,
+    "to": 1187.46,
+    "sid": 552,
+    "location": 2,
+    "content": "所以我们现在可以享受到许多",
+    "music": 0.0
+  },
+  {
+    "from": 1187.46,
+    "to": 1189.27,
+    "sid": 553,
+    "location": 2,
+    "content": "由此产生的便利和进步",
+    "music": 0.0
+  },
+  {
+    "from": 1189.27,
+    "to": 1190.47,
+    "sid": 554,
+    "location": 2,
+    "content": "工业革命很重要",
+    "music": 0.0
+  },
+  {
+    "from": 1190.47,
+    "to": 1192.28,
+    "sid": 555,
+    "location": 2,
+    "content": "但是它带来了很多问题",
+    "music": 0.0
+  },
+  {
+    "from": 1192.28,
+    "to": 1194.68,
+    "sid": 556,
+    "location": 2,
+    "content": "例如环境污染和劳动力的剥削",
+    "music": 0.0
+  },
+  {
+    "from": 1194.68,
+    "to": 1196.72,
+    "sid": 557,
+    "location": 2,
+    "content": "通过准确的熟练地使用连词",
+    "music": 0.0
+  },
+  {
+    "from": 1196.72,
+    "to": 1199.7,
+    "sid": 558,
+    "location": 2,
+    "content": "学生能够更加精准的调有限的认知资源",
+    "music": 0.0
+  },
+  {
+    "from": 1199.7,
+    "to": 1201.05,
+    "sid": 559,
+    "location": 2,
+    "content": "来处理特定的信息",
+    "music": 0.0
+  },
+  {
+    "from": 1201.05,
+    "to": 1203.12,
+    "sid": 560,
+    "location": 2,
+    "content": "避免被无关主旨的信息干扰",
+    "music": 0.0
+  },
+  {
+    "from": 1203.12,
+    "to": 1204.47,
+    "sid": 561,
+    "location": 2,
+    "content": "这就是一种分割策略",
+    "music": 0.0
+  },
+  {
+    "from": 1204.47,
+    "to": 1205.88,
+    "sid": 562,
+    "location": 2,
+    "content": "后面只要稍加引导学生",
+    "music": 0.0
+  },
+  {
+    "from": 1205.88,
+    "to": 1209.1,
+    "sid": 563,
+    "location": 2,
+    "content": "就可以将这些句子合并成一个完整的文字段落",
+    "music": 0.0
+  },
+  {
+    "from": 1209.1,
+    "to": 1212.1,
+    "sid": 564,
+    "location": 2,
+    "content": "这种提问方式能让学生在理解历史世界的同时",
+    "music": 0.0
+  },
+  {
+    "from": 1212.1,
+    "to": 1214.16,
+    "sid": 565,
+    "location": 2,
+    "content": "提高语言组织和表达能力",
+    "music": 0.0
+  },
+  {
+    "from": 1214.16,
+    "to": 1215.66,
+    "sid": 566,
+    "location": 2,
+    "content": "更为重要的是什么",
+    "music": 0.0
+  },
+  {
+    "from": 1215.66,
+    "to": 1218.24,
+    "sid": 567,
+    "location": 2,
+    "content": "就是提高语言组织和表达的能力",
+    "music": 0.0
+  },
+  {
+    "from": 1218.24,
+    "to": 1220.64,
+    "sid": 568,
+    "location": 2,
+    "content": "本质上就是在增强我们的理解能力",
+    "music": 0.0
+  },
+  {
+    "from": 1220.64,
+    "to": 1223.49,
+    "sid": 569,
+    "location": 2,
+    "content": "我们知道语言是思维内容的载体对吗",
+    "music": 0.0
+  },
+  {
+    "from": 1223.49,
+    "to": 1225.59,
+    "sid": 570,
+    "location": 2,
+    "content": "所以句子与文章的构造能力",
+    "music": 0.0
+  },
+  {
+    "from": 1225.59,
+    "to": 1228.23,
+    "sid": 571,
+    "location": 2,
+    "content": "其实与我们的记忆和理解能力相辅相成",
+    "music": 0.0
+  },
+  {
+    "from": 1228.23,
+    "to": 1230.679,
+    "sid": 572,
+    "location": 2,
+    "content": "因为我们能更有效的去组织信息了",
+    "music": 0.0
+  },
+  {
+    "from": 1230.679,
+    "to": 1234.339,
+    "sid": 573,
+    "location": 2,
+    "content": "所以在语言表达和写作里面发展的早期",
+    "music": 0.0
+  },
+  {
+    "from": 1234.339,
+    "to": 1236.259,
+    "sid": 574,
+    "location": 2,
+    "content": "我们就需要有足够多的脚手架",
+    "music": 0.0
+  },
+  {
+    "from": 1236.259,
+    "to": 1238.57,
+    "sid": 575,
+    "location": 2,
+    "content": "来帮我们获得一个这样的能力",
+    "music": 0.0
+  },
+  {
+    "from": 1238.57,
+    "to": 1240.61,
+    "sid": 576,
+    "location": 2,
+    "content": "还有一个很有智慧的设定是什么",
+    "music": 0.0
+  },
+  {
+    "from": 1240.61,
+    "to": 1242.76,
+    "sid": 577,
+    "location": 2,
+    "content": "就是练习中需要完成的句子",
+    "music": 0.0
+  },
+  {
+    "from": 1242.76,
+    "to": 1245.04,
+    "sid": 578,
+    "location": 2,
+    "content": "一定来自于学生正在学习的学科",
+    "music": 0.0
+  },
+  {
+    "from": 1245.04,
+    "to": 1246.24,
+    "sid": 579,
+    "location": 2,
+    "content": "比如这里的历史课",
+    "music": 0.0
+  },
+  {
+    "from": 1246.24,
+    "to": 1248.72,
+    "sid": 580,
+    "location": 2,
+    "content": "你最好正在学习工业革命",
+    "music": 0.0
+  },
+  {
+    "from": 1248.72,
+    "to": 1251.75,
+    "sid": 581,
+    "location": 2,
+    "content": "这样我们就不用花费额外的精力来考虑",
+    "music": 0.0
+  },
+  {
+    "from": 1251.75,
+    "to": 1252.44,
+    "sid": 582,
+    "location": 2,
+    "content": "写什么了",
+    "music": 0.0
+  },
+  {
+    "from": 1252.44,
+    "to": 1255.47,
+    "sid": 583,
+    "location": 2,
+    "content": "就能腾出更多的认知资源来关注怎么写",
+    "music": 0.0
+  },
+  {
+    "from": 1255.47,
+    "to": 1256.85,
+    "sid": 584,
+    "location": 2,
+    "content": "利用既有的材料啊",
+    "music": 0.0
+  },
+  {
+    "from": 1256.85,
+    "to": 1260.17,
+    "sid": 585,
+    "location": 2,
+    "content": "我们可以降低我们的呃这个技能",
+    "music": 0.0
+  },
+  {
+    "from": 1260.17,
+    "to": 1261.91,
+    "sid": 586,
+    "location": 2,
+    "content": "习得时的这个认知负载",
+    "music": 0.0
+  },
+  {
+    "from": 1261.91,
+    "to": 1263.17,
+    "sid": 587,
+    "location": 2,
+    "content": "到最到后面",
+    "music": 0.0
+  },
+  {
+    "from": 1263.17,
+    "to": 1266.05,
+    "sid": 588,
+    "location": 2,
+    "content": "我们的写作技能足够娴熟",
+    "music": 0.0
+  },
+  {
+    "from": 1266.05,
+    "to": 1267.97,
+    "sid": 589,
+    "location": 2,
+    "content": "以至于能够自动执行的时候",
+    "music": 0.0
+  },
+  {
+    "from": 1267.97,
+    "to": 1270.13,
+    "sid": 590,
+    "location": 2,
+    "content": "我们自然会有更多的工作记忆",
+    "music": 0.0
+  },
+  {
+    "from": 1270.13,
+    "to": 1271.75,
+    "sid": 591,
+    "location": 2,
+    "content": "来构思怎么写内容",
+    "music": 0.0
+  },
+  {
+    "from": 1271.75,
+    "to": 1274.29,
+    "sid": 592,
+    "location": 2,
+    "content": "哪些内容需要写这部分的精彩案例",
+    "music": 0.0
+  },
+  {
+    "from": 1274.29,
+    "to": 1274.59,
+    "sid": 593,
+    "location": 2,
+    "content": "部分",
+    "music": 0.0
+  },
+  {
+    "from": 1274.59,
+    "to": 1274.95,
+    "sid": 594,
+    "location": 2,
+    "content": "借鉴",
+    "music": 0.0
+  },
+  {
+    "from": 1274.95,
+    "to": 1278.12,
+    "sid": 595,
+    "location": 2,
+    "content": "改编自朱迪斯霍奇曼和娜塔莉韦克斯勒的著作",
+    "music": 0.0
+  },
+  {
+    "from": 1278.12,
+    "to": 1278.9,
+    "sid": 596,
+    "location": 2,
+    "content": "写作革命",
+    "music": 0.0
+  },
+  {
+    "from": 1278.9,
+    "to": 1281.9,
+    "sid": 597,
+    "location": 2,
+    "content": "一本与认知符合理论思想高度契合的写作教材",
+    "music": 0.0
+  },
+  {
+    "from": 1281.9,
+    "to": 1283.46,
+    "sid": 598,
+    "location": 2,
+    "content": "有兴趣的朋友可以深入阅读",
+    "music": 0.0
+  },
+  {
+    "from": 1283.46,
+    "to": 1285.32,
+    "sid": 599,
+    "location": 2,
+    "content": "我们再来看看一个数学教学的例子",
+    "music": 0.0
+  },
+  {
+    "from": 1285.32,
+    "to": 1286.82,
+    "sid": 600,
+    "location": 2,
+    "content": "这个例子来自于数学乐",
+    "music": 0.0
+  },
+  {
+    "from": 1286.82,
+    "to": 1288.74,
+    "sid": 601,
+    "location": 2,
+    "content": "一个非常优秀的数学教学网站",
+    "music": 0.0
+  },
+  {
+    "from": 1288.74,
+    "to": 1289.34,
+    "sid": 602,
+    "location": 2,
+    "content": "它的特点是",
+    "music": 0.0
+  },
+  {
+    "from": 1289.34,
+    "to": 1292.02,
+    "sid": 603,
+    "location": 2,
+    "content": "教学内容充分考虑了学习者的接受能力",
+    "music": 0.0
+  },
+  {
+    "from": 1292.02,
+    "to": 1293.16,
+    "sid": 604,
+    "location": 2,
+    "content": "完美符合认知",
+    "music": 0.0
+  },
+  {
+    "from": 1293.16,
+    "to": 1294.18,
+    "sid": 605,
+    "location": 2,
+    "content": "符合理论的原则",
+    "music": 0.0
+  },
+  {
+    "from": 1296.22,
+    "to": 1298.38,
+    "sid": 606,
+    "location": 2,
+    "content": "按照分割策略教程可能是这样的",
+    "music": 0.0
+  },
+  {
+    "from": 1298.38,
+    "to": 1300.24,
+    "sid": 607,
+    "location": 2,
+    "content": "初始问题是一个谜题",
+    "music": 0.0
+  },
+  {
+    "from": 1300.24,
+    "to": 1301.68,
+    "sid": 608,
+    "location": 2,
+    "content": "什么数字不见了",
+    "music": 0.0
+  },
+  {
+    "from": 1301.68,
+    "to": 1303.96,
+    "sid": 609,
+    "location": 2,
+    "content": "这是一个非常有智慧的设问啊",
+    "music": 0.0
+  },
+  {
+    "from": 1303.96,
+    "to": 1306.6,
+    "sid": 610,
+    "location": 2,
+    "content": "第一是因为它符合我们对事物的具象理解",
+    "music": 0.0
+  },
+  {
+    "from": 1306.6,
+    "to": 1307.48,
+    "sid": 611,
+    "location": 2,
+    "content": "一个东西不见了",
+    "music": 0.0
+  },
+  {
+    "from": 1307.48,
+    "to": 1309.52,
+    "sid": 612,
+    "location": 2,
+    "content": "第二是他关联了学生的前知识",
+    "music": 0.0
+  },
+  {
+    "from": 1309.52,
+    "to": 1310.24,
+    "sid": 613,
+    "location": 2,
+    "content": "因为在此前",
+    "music": 0.0
+  },
+  {
+    "from": 1310.24,
+    "to": 1313.0,
+    "sid": 614,
+    "location": 2,
+    "content": "学生一般都进行过在等式中填空的练习",
+    "music": 0.0
+  },
+  {
+    "from": 1313.0,
+    "to": 1315.64,
+    "sid": 615,
+    "location": 2,
+    "content": "所以这是一个认知负荷非常低的问题",
+    "music": 0.0
+  },
+  {
+    "from": 1315.64,
+    "to": 1318.4,
+    "sid": 616,
+    "location": 2,
+    "content": "接下来教程花了一点篇幅向学习者解释",
+    "music": 0.0
+  },
+  {
+    "from": 1318.4,
+    "to": 1320.74,
+    "sid": 617,
+    "location": 2,
+    "content": "为什么要用X来替代未知数",
+    "music": 0.0
+  },
+  {
+    "from": 1320.74,
+    "to": 1321.76,
+    "sid": 618,
+    "location": 2,
+    "content": "而不用空格",
+    "music": 0.0
+  },
+  {
+    "from": 1321.76,
+    "to": 1322.78,
+    "sid": 619,
+    "location": 2,
+    "content": "一个东西不见了",
+    "music": 0.0
+  },
+  {
+    "from": 1322.78,
+    "to": 1324.08,
+    "sid": 620,
+    "location": 2,
+    "content": "理应留下一个空缺",
+    "music": 0.0
+  },
+  {
+    "from": 1324.08,
+    "to": 1326.72,
+    "sid": 621,
+    "location": 2,
+    "content": "因此空缺才应该是等式中的基本元素",
+    "music": 0.0
+  },
+  {
+    "from": 1326.72,
+    "to": 1327.86,
+    "sid": 622,
+    "location": 2,
+    "content": "但教程告诉我们",
+    "music": 0.0
+  },
+  {
+    "from": 1327.86,
+    "to": 1330.4,
+    "sid": 623,
+    "location": 2,
+    "content": "由于空缺用语言表述起来不够方便",
+    "music": 0.0
+  },
+  {
+    "from": 1330.4,
+    "to": 1332.32,
+    "sid": 624,
+    "location": 2,
+    "content": "因此我们用一个符号来替代",
+    "music": 0.0
+  },
+  {
+    "from": 1332.32,
+    "to": 1334.54,
+    "sid": 625,
+    "location": 2,
+    "content": "由此代数的概念就建立起来了",
+    "music": 0.0
+  },
+  {
+    "from": 1334.54,
+    "to": 1336.06,
+    "sid": 626,
+    "location": 2,
+    "content": "这个解释非常关键啊",
+    "music": 0.0
+  },
+  {
+    "from": 1336.06,
+    "to": 1337.74,
+    "sid": 627,
+    "location": 2,
+    "content": "它是代数具备的意义",
+    "music": 0.0
+  },
+  {
+    "from": 1337.74,
+    "to": 1339.42,
+    "sid": 628,
+    "location": 2,
+    "content": "我们知道代数的意义就在于",
+    "music": 0.0
+  },
+  {
+    "from": 1339.42,
+    "to": 1341.01,
+    "sid": 629,
+    "location": 2,
+    "content": "为了发现未知的事物",
+    "music": 0.0
+  },
+  {
+    "from": 1341.01,
+    "to": 1343.62,
+    "sid": 630,
+    "location": 2,
+    "content": "我们必须先用一个符号来代表它",
+    "music": 0.0
+  },
+  {
+    "from": 1343.62,
+    "to": 1345.3,
+    "sid": 631,
+    "location": 2,
+    "content": "使整个表达式成立",
+    "music": 0.0
+  },
+  {
+    "from": 1345.3,
+    "to": 1348.03,
+    "sid": 632,
+    "location": 2,
+    "content": "以方便我们在上面展开更为精密的推理",
+    "music": 0.0
+  },
+  {
+    "from": 1348.03,
+    "to": 1351.26,
+    "sid": 633,
+    "location": 2,
+    "content": "随后教程将新知识以前知识做了关键区分",
+    "music": 0.0
+  },
+  {
+    "from": 1351.26,
+    "to": 1353.24,
+    "sid": 634,
+    "location": 2,
+    "content": "由于我们用X替代了空格",
+    "music": 0.0
+  },
+  {
+    "from": 1353.24,
+    "to": 1355.22,
+    "sid": 635,
+    "location": 2,
+    "content": "于是我们不能直接得出六这个答案",
+    "music": 0.0
+  },
+  {
+    "from": 1355.22,
+    "to": 1356.08,
+    "sid": 636,
+    "location": 2,
+    "content": "把空填上",
+    "music": 0.0
+  },
+  {
+    "from": 1356.08,
+    "to": 1357.88,
+    "sid": 637,
+    "location": 2,
+    "content": "而是应该思考移除什么",
+    "music": 0.0
+  },
+  {
+    "from": 1357.88,
+    "to": 1359.8,
+    "sid": 638,
+    "location": 2,
+    "content": "把等式变成X等于多少",
+    "music": 0.0
+  },
+  {
+    "from": 1359.8,
+    "to": 1361.33,
+    "sid": 639,
+    "location": 2,
+    "content": "接下来自然是移除的方法",
+    "music": 0.0
+  },
+  {
+    "from": 1361.33,
+    "to": 1363.0,
+    "sid": 640,
+    "location": 2,
+    "content": "我们要进行反向的运算",
+    "music": 0.0
+  },
+  {
+    "from": 1363.0,
+    "to": 1364.68,
+    "sid": 641,
+    "location": 2,
+    "content": "而且每一边都要这样做",
+    "music": 0.0
+  },
+  {
+    "from": 1364.68,
+    "to": 1366.84,
+    "sid": 642,
+    "location": 2,
+    "content": "比如我们需要移除等号左边的二",
+    "music": 0.0
+  },
+  {
+    "from": 1366.84,
+    "to": 1368.13,
+    "sid": 643,
+    "location": 2,
+    "content": "我们就需要加上二",
+    "music": 0.0
+  },
+  {
+    "from": 1368.13,
+    "to": 1369.36,
+    "sid": 644,
+    "location": 2,
+    "content": "如果你左边加上了二",
+    "music": 0.0
+  },
+  {
+    "from": 1369.36,
+    "to": 1370.47,
+    "sid": 645,
+    "location": 2,
+    "content": "右边也要加上二",
+    "music": 0.0
+  },
+  {
+    "from": 1370.47,
+    "to": 1371.64,
+    "sid": 646,
+    "location": 2,
+    "content": "至于为什么要这样做",
+    "music": 0.0
+  },
+  {
+    "from": 1371.64,
+    "to": 1374.4,
+    "sid": 647,
+    "location": 2,
+    "content": "是因为我们要保持等号两边的平衡",
+    "music": 0.0
+  },
+  {
+    "from": 1374.4,
+    "to": 1377.08,
+    "sid": 648,
+    "location": 2,
+    "content": "当学习者在天平上操作两次之后",
+    "music": 0.0
+  },
+  {
+    "from": 1377.08,
+    "to": 1379.96,
+    "sid": 649,
+    "location": 2,
+    "content": "会非常直观地理解等候与平衡的关系",
+    "music": 0.0
+  },
+  {
+    "from": 1379.96,
+    "to": 1382.06,
+    "sid": 650,
+    "location": 2,
+    "content": "接着学习者会马上被要求",
+    "music": 0.0
+  },
+  {
+    "from": 1382.06,
+    "to": 1384.84,
+    "sid": 651,
+    "location": 2,
+    "content": "解析到与教学案例非常相似的问题",
+    "music": 0.0
+  },
+  {
+    "from": 1384.84,
+    "to": 1386.16,
+    "sid": 652,
+    "location": 2,
+    "content": "一旦学生答对了",
+    "music": 0.0
+  },
+  {
+    "from": 1386.16,
+    "to": 1387.0,
+    "sid": 653,
+    "location": 2,
+    "content": "他就算入门了",
+    "music": 0.0
+  },
+  {
+    "from": 1387.0,
+    "to": 1388.86,
+    "sid": 654,
+    "location": 2,
+    "content": "这真的是非常优秀的教学案例",
+    "music": 0.0
+  },
+  {
+    "from": 1388.86,
+    "to": 1390.42,
+    "sid": 655,
+    "location": 2,
+    "content": "仅仅用前三步就做到了",
+    "music": 0.0
+  },
+  {
+    "from": 1390.42,
+    "to": 1391.65,
+    "sid": 656,
+    "location": 2,
+    "content": "一关联前知识",
+    "music": 0.0
+  },
+  {
+    "from": 1391.65,
+    "to": 1393.84,
+    "sid": 657,
+    "location": 2,
+    "content": "二为学习内容赋予意义",
+    "music": 0.0
+  },
+  {
+    "from": 1393.84,
+    "to": 1396.58,
+    "sid": 658,
+    "location": 2,
+    "content": "三对新旧知识做出关键区分",
+    "music": 0.0
+  },
+  {
+    "from": 1396.58,
+    "to": 1397.99,
+    "sid": 659,
+    "location": 2,
+    "content": "但是在实际的教学中",
+    "music": 0.0
+  },
+  {
+    "from": 1397.99,
+    "to": 1399.91,
+    "sid": 660,
+    "location": 2,
+    "content": "这三部常常被我们的数学老师",
+    "music": 0.0
+  },
+  {
+    "from": 1399.91,
+    "to": 1401.17,
+    "sid": 661,
+    "location": 2,
+    "content": "合并成一个类似的问题",
+    "music": 0.0
+  },
+  {
+    "from": 1401.17,
+    "to": 1403.12,
+    "sid": 662,
+    "location": 2,
+    "content": "就是现在我们有一个等式",
+    "music": 0.0
+  },
+  {
+    "from": 1403.12,
+    "to": 1404.65,
+    "sid": 663,
+    "location": 2,
+    "content": "其中X代表未知数",
+    "music": 0.0
+  },
+  {
+    "from": 1404.65,
+    "to": 1406.24,
+    "sid": 664,
+    "location": 2,
+    "content": "其中X代表未知数",
+    "music": 0.0
+  },
+  {
+    "from": 1406.24,
+    "to": 1408.4,
+    "sid": 665,
+    "location": 2,
+    "content": "我们如何知道X等于多少呢",
+    "music": 0.0
+  },
+  {
+    "from": 1408.4,
+    "to": 1409.24,
+    "sid": 666,
+    "location": 2,
+    "content": "现在我们知道了",
+    "music": 0.0
+  },
+  {
+    "from": 1409.24,
+    "to": 1412.0,
+    "sid": 667,
+    "location": 2,
+    "content": "在这个教室看起来非常简单直白的问题",
+    "music": 0.0
+  },
+  {
+    "from": 1412.0,
+    "to": 1413.6,
+    "sid": 668,
+    "location": 2,
+    "content": "其实充满了知识的诅咒",
+    "music": 0.0
+  },
+  {
+    "from": 1413.6,
+    "to": 1415.82,
+    "sid": 669,
+    "location": 2,
+    "content": "到了这把年纪才看到这样的课程设计",
+    "music": 0.0
+  },
+  {
+    "from": 1415.82,
+    "to": 1417.52,
+    "sid": 670,
+    "location": 2,
+    "content": "让我多少有些感慨啊",
+    "music": 0.0
+  },
+  {
+    "from": 1417.52,
+    "to": 1419.38,
+    "sid": 671,
+    "location": 2,
+    "content": "如果当年遇到了这样的数学老师",
+    "music": 0.0
+  },
+  {
+    "from": 1419.38,
+    "to": 1421.78,
+    "sid": 672,
+    "location": 2,
+    "content": "这个世界上可能会多一个理工男啊",
+    "music": 0.0
+  },
+  {
+    "from": 1421.78,
+    "to": 1424.98,
+    "sid": 673,
+    "location": 2,
+    "content": "数学课的这个案例还揭示了一个重点",
+    "music": 0.0
+  },
+  {
+    "from": 1424.98,
+    "to": 1428.97,
+    "sid": 674,
+    "location": 2,
+    "content": "就是对教学视力和相似问题的恰当使用",
+    "music": 0.0
+  },
+  {
+    "from": 1428.97,
+    "to": 1430.86,
+    "sid": 675,
+    "location": 2,
+    "content": "由此我们可以引出认知",
+    "music": 0.0
+  },
+  {
+    "from": 1430.86,
+    "to": 1435.39,
+    "sid": 676,
+    "location": 2,
+    "content": "符合理论的第三个重要的学习策略叫交替实力",
+    "music": 0.0
+  },
+  {
+    "from": 1435.39,
+    "to": 1438.51,
+    "sid": 677,
+    "location": 2,
+    "content": "所以说学习例子和解决问题的最有效的方法",
+    "music": 0.0
+  },
+  {
+    "from": 1438.51,
+    "to": 1440.36,
+    "sid": 678,
+    "location": 2,
+    "content": "就是先呈现一个解答的事例",
+    "music": 0.0
+  },
+  {
+    "from": 1440.36,
+    "to": 1443.24,
+    "sid": 679,
+    "location": 2,
+    "content": "然后立即要求学生解决一个类似的问题",
+    "music": 0.0
+  },
+  {
+    "from": 1443.24,
+    "to": 1445.28,
+    "sid": 680,
+    "location": 2,
+    "content": "我们都知道举例子是非常重要的",
+    "music": 0.0
+  },
+  {
+    "from": 1445.28,
+    "to": 1447.71,
+    "sid": 681,
+    "location": 2,
+    "content": "但如何通过例子达到最好的学习效果呢",
+    "music": 0.0
+  },
+  {
+    "from": 1447.71,
+    "to": 1449.76,
+    "sid": 682,
+    "location": 2,
+    "content": "关键就在于举完例子之后",
+    "music": 0.0
+  },
+  {
+    "from": 1449.76,
+    "to": 1451.14,
+    "sid": 683,
+    "location": 2,
+    "content": "我们要马上进行练习",
+    "music": 0.0
+  },
+  {
+    "from": 1451.14,
+    "to": 1454.96,
+    "sid": 684,
+    "location": 2,
+    "content": "而且这个练习的内容要和例子的内容高度相似",
+    "music": 0.0
+  },
+  {
+    "from": 1454.96,
+    "to": 1456.61,
+    "sid": 685,
+    "location": 2,
+    "content": "尽可能地减少变量",
+    "music": 0.0
+  },
+  {
+    "from": 1456.61,
+    "to": 1459.63,
+    "sid": 686,
+    "location": 2,
+    "content": "防止因为变量过多导致学生认知过载",
+    "music": 0.0
+  },
+  {
+    "from": 1459.63,
+    "to": 1460.92,
+    "sid": 687,
+    "location": 2,
+    "content": "按照这样的原则",
+    "music": 0.0
+  },
+  {
+    "from": 1460.92,
+    "to": 1462.45,
+    "sid": 688,
+    "location": 2,
+    "content": "在变化学习内容之后",
+    "music": 0.0
+  },
+  {
+    "from": 1462.45,
+    "to": 1464.47,
+    "sid": 689,
+    "location": 2,
+    "content": "继续提供相似的问题",
+    "music": 0.0
+  },
+  {
+    "from": 1464.47,
+    "to": 1466.57,
+    "sid": 690,
+    "location": 2,
+    "content": "然后以死步步为营",
+    "music": 0.0
+  },
+  {
+    "from": 1466.57,
+    "to": 1467.41,
+    "sid": 691,
+    "location": 2,
+    "content": "稳步推进",
+    "music": 0.0
+  },
+  {
+    "from": 1467.41,
+    "to": 1468.64,
+    "sid": 692,
+    "location": 2,
+    "content": "比如在语法学习中",
+    "music": 0.0
+  },
+  {
+    "from": 1468.64,
+    "to": 1471.08,
+    "sid": 693,
+    "location": 2,
+    "content": "如果教学案例是时间状语的使用",
+    "music": 0.0
+  },
+  {
+    "from": 1471.08,
+    "to": 1474.08,
+    "sid": 694,
+    "location": 2,
+    "content": "那么对应的练习就是多种时间状语的搭配",
+    "music": 0.0
+  },
+  {
+    "from": 1474.08,
+    "to": 1475.76,
+    "sid": 695,
+    "location": 2,
+    "content": "而不要同时学习地点状语",
+    "music": 0.0
+  },
+  {
+    "from": 1475.76,
+    "to": 1477.46,
+    "sid": 696,
+    "location": 2,
+    "content": "形容词等其他的知识点",
+    "music": 0.0
+  },
+  {
+    "from": 1477.46,
+    "to": 1478.06,
+    "sid": 697,
+    "location": 2,
+    "content": "教学实力",
+    "music": 0.0
+  },
+  {
+    "from": 1478.06,
+    "to": 1480.04,
+    "sid": 698,
+    "location": 2,
+    "content": "如果是昨天我吃了一个苹果",
+    "music": 0.0
+  },
+  {
+    "from": 1480.04,
+    "to": 1482.14,
+    "sid": 699,
+    "location": 2,
+    "content": "那相似的问就应该是让学生写",
+    "music": 0.0
+  },
+  {
+    "from": 1482.14,
+    "to": 1485.8,
+    "sid": 700,
+    "location": 2,
+    "content": "早上昨天晚上刚刚半个小时之前",
+    "music": 0.0
+  },
+  {
+    "from": 1485.8,
+    "to": 1486.6,
+    "sid": 701,
+    "location": 2,
+    "content": "我吃了一个苹果",
+    "music": 0.0
+  },
+  {
+    "from": 1486.6,
+    "to": 1488.22,
+    "sid": 702,
+    "location": 2,
+    "content": "然后再逐步变化形式",
+    "music": 0.0
+  },
+  {
+    "from": 1488.22,
+    "to": 1489.66,
+    "sid": 703,
+    "location": 2,
+    "content": "把时间状语放在后面",
+    "music": 0.0
+  },
+  {
+    "from": 1489.66,
+    "to": 1490.62,
+    "sid": 704,
+    "location": 2,
+    "content": "最后再讲清楚",
+    "music": 0.0
+  },
+  {
+    "from": 1490.62,
+    "to": 1493.86,
+    "sid": 705,
+    "location": 2,
+    "content": "先时间后动作和先动作后时间细微区别",
+    "music": 0.0
+  },
+  {
+    "from": 1493.86,
+    "to": 1495.54,
+    "sid": 706,
+    "location": 2,
+    "content": "事后再使用这样的教学实例",
+    "music": 0.0
+  },
+  {
+    "from": 1495.54,
+    "to": 1497.19,
+    "sid": 707,
+    "location": 2,
+    "content": "加相似问题的组织方式",
+    "music": 0.0
+  },
+  {
+    "from": 1497.19,
+    "to": 1498.69,
+    "sid": 708,
+    "location": 2,
+    "content": "逐步的学习地点状语",
+    "music": 0.0
+  },
+  {
+    "from": 1498.69,
+    "to": 1500.67,
+    "sid": 709,
+    "location": 2,
+    "content": "形容词复合句等其他知识点",
+    "music": 0.0
+  },
+  {
+    "from": 1500.67,
+    "to": 1501.84,
+    "sid": 710,
+    "location": 2,
+    "content": "又比如数学课上",
+    "music": 0.0
+  },
+  {
+    "from": 1501.84,
+    "to": 1503.43,
+    "sid": 711,
+    "location": 2,
+    "content": "老师在课堂上教会学生",
+    "music": 0.0
+  },
+  {
+    "from": 1503.43,
+    "to": 1505.76,
+    "sid": 712,
+    "location": 2,
+    "content": "解3X减六等于12的解法",
+    "music": 0.0
+  },
+  {
+    "from": 1505.76,
+    "to": 1506.12,
+    "sid": 713,
+    "location": 2,
+    "content": "之后",
+    "music": 0.0
+  },
+  {
+    "from": 1506.12,
+    "to": 1509.14,
+    "sid": 714,
+    "location": 2,
+    "content": "应该马上让学生自己来减2X减四等于十",
+    "music": 0.0
+  },
+  {
+    "from": 1509.14,
+    "to": 1511.9,
+    "sid": 715,
+    "location": 2,
+    "content": "这构成了第一组教学实例和相似问题",
+    "music": 0.0
+  },
+  {
+    "from": 1511.9,
+    "to": 1514.62,
+    "sid": 716,
+    "location": 2,
+    "content": "第二组教学实例可以是3X加六等于12",
+    "music": 0.0
+  },
+  {
+    "from": 1514.62,
+    "to": 1516.36,
+    "sid": 717,
+    "location": 2,
+    "content": "需要学生解答的相似问题",
+    "music": 0.0
+  },
+  {
+    "from": 1516.36,
+    "to": 1518.16,
+    "sid": 718,
+    "location": 2,
+    "content": "则可以是2X加四等于十",
+    "music": 0.0
+  },
+  {
+    "from": 1518.16,
+    "to": 1520.98,
+    "sid": 719,
+    "location": 2,
+    "content": "第一组中教学实力和相似问题之间的区别",
+    "music": 0.0
+  },
+  {
+    "from": 1520.98,
+    "to": 1522.22,
+    "sid": 720,
+    "location": 2,
+    "content": "只是数值的变化",
+    "music": 0.0
+  },
+  {
+    "from": 1522.22,
+    "to": 1525.46,
+    "sid": 721,
+    "location": 2,
+    "content": "从第一组到第二组则是从减法变成加法",
+    "music": 0.0
+  },
+  {
+    "from": 1525.46,
+    "to": 1526.15,
+    "sid": 722,
+    "location": 2,
+    "content": "以此类推",
+    "music": 0.0
+  },
+  {
+    "from": 1526.15,
+    "to": 1526.9,
+    "sid": 723,
+    "location": 2,
+    "content": "第三组相比",
+    "music": 0.0
+  },
+  {
+    "from": 1526.9,
+    "to": 1530.32,
+    "sid": 724,
+    "location": 2,
+    "content": "第二组可能就是把从等号的左边挪到右边",
+    "music": 0.0
+  },
+  {
+    "from": 1530.32,
+    "to": 1532.06,
+    "sid": 725,
+    "location": 2,
+    "content": "再逐步加入方程的图形化",
+    "music": 0.0
+  },
+  {
+    "from": 1532.06,
+    "to": 1533.44,
+    "sid": 726,
+    "location": 2,
+    "content": "把等式变成不等式",
+    "music": 0.0
+  },
+  {
+    "from": 1533.44,
+    "to": 1534.4,
+    "sid": 727,
+    "location": 2,
+    "content": "从一元变成二元",
+    "music": 0.0
+  },
+  {
+    "from": 1534.4,
+    "to": 1535.58,
+    "sid": 728,
+    "location": 2,
+    "content": "从一次变成二次",
+    "music": 0.0
+  },
+  {
+    "from": 1535.58,
+    "to": 1536.3,
+    "sid": 729,
+    "location": 2,
+    "content": "理想状态下",
+    "music": 0.0
+  },
+  {
+    "from": 1536.3,
+    "to": 1538.64,
+    "sid": 730,
+    "location": 2,
+    "content": "我们可以穷尽方程的所有组合形式",
+    "music": 0.0
+  },
+  {
+    "from": 1538.64,
+    "to": 1541.43,
+    "sid": 731,
+    "location": 2,
+    "content": "这才是不让任何一个孩子掉队的循序渐进",
+    "music": 0.0
+  },
+  {
+    "from": 1541.43,
+    "to": 1543.06,
+    "sid": 732,
+    "location": 2,
+    "content": "在90年代的一项研究中",
+    "music": 0.0
+  },
+  {
+    "from": 1543.06,
+    "to": 1545.19,
+    "sid": 733,
+    "location": 2,
+    "content": "在完成一个物理知识的教学之后",
+    "music": 0.0
+  },
+  {
+    "from": 1545.19,
+    "to": 1546.36,
+    "sid": 734,
+    "location": 2,
+    "content": "学生被分成两组",
+    "music": 0.0
+  },
+  {
+    "from": 1546.36,
+    "to": 1548.84,
+    "sid": 735,
+    "location": 2,
+    "content": "对照组需要完成十个家庭作业问题",
+    "music": 0.0
+  },
+  {
+    "from": 1548.84,
+    "to": 1550.58,
+    "sid": 736,
+    "location": 2,
+    "content": "由五对相似的问题组成",
+    "music": 0.0
+  },
+  {
+    "from": 1550.58,
+    "to": 1553.98,
+    "sid": 737,
+    "location": 2,
+    "content": "交替实力组则需要完成五个有讲解实例的问题",
+    "music": 0.0
+  },
+  {
+    "from": 1553.98,
+    "to": 1555.36,
+    "sid": 738,
+    "location": 2,
+    "content": "之后的测试结果如下",
+    "music": 0.0
+  },
+  {
+    "from": 1555.36,
+    "to": 1557.16,
+    "sid": 739,
+    "location": 2,
+    "content": "完成交替实力作业的学生的",
+    "music": 0.0
+  },
+  {
+    "from": 1557.16,
+    "to": 1560.4,
+    "sid": 740,
+    "location": 2,
+    "content": "正确率明显要高于完成普通家庭作业的学生",
+    "music": 0.0
+  },
+  {
+    "from": 1560.4,
+    "to": 1561.96,
+    "sid": 741,
+    "location": 2,
+    "content": "虽然前者只练习了五个问题",
+    "music": 0.0
+  },
+  {
+    "from": 1561.96,
+    "to": 1563.22,
+    "sid": 742,
+    "location": 2,
+    "content": "而后者练习了十个",
+    "music": 0.0
+  },
+  {
+    "from": 1563.22,
+    "to": 1565.33,
+    "sid": 743,
+    "location": 2,
+    "content": "还记得当年刷过的那些作业题吗",
+    "music": 0.0
+  },
+  {
+    "from": 1565.33,
+    "to": 1567.67,
+    "sid": 744,
+    "location": 2,
+    "content": "就老师在课堂上讲解了一些原理",
+    "music": 0.0
+  },
+  {
+    "from": 1567.67,
+    "to": 1569.53,
+    "sid": 745,
+    "location": 2,
+    "content": "完成了几个实例演示之后呢",
+    "music": 0.0
+  },
+  {
+    "from": 1569.53,
+    "to": 1572.95,
+    "sid": 746,
+    "location": 2,
+    "content": "就丢给我们一堆有的各种题型变化的练习题",
+    "music": 0.0
+  },
+  {
+    "from": 1572.95,
+    "to": 1574.55,
+    "sid": 747,
+    "location": 2,
+    "content": "那些悟性好的学生",
+    "music": 0.0
+  },
+  {
+    "from": 1574.55,
+    "to": 1575.09,
+    "sid": 748,
+    "location": 2,
+    "content": "对不起",
+    "music": 0.0
+  },
+  {
+    "from": 1575.09,
+    "to": 1575.99,
+    "sid": 749,
+    "location": 2,
+    "content": "这里要换个说法",
+    "music": 0.0
+  },
+  {
+    "from": 1575.99,
+    "to": 1578.6,
+    "sid": 750,
+    "location": 2,
+    "content": "就是那些前知识足够扎实",
+    "music": 0.0
+  },
+  {
+    "from": 1578.6,
+    "to": 1580.46,
+    "sid": 751,
+    "location": 2,
+    "content": "因此能跟上老师的思路",
+    "music": 0.0
+  },
+  {
+    "from": 1580.46,
+    "to": 1584.449,
+    "sid": 752,
+    "location": 2,
+    "content": "进而有富裕的认知复合来应对题型变化的学生",
+    "music": 0.0
+  },
+  {
+    "from": 1584.449,
+    "to": 1588.709,
+    "sid": 753,
+    "location": 2,
+    "content": "他们得以顺利地完成了作业以及后续的考试",
+    "music": 0.0
+  },
+  {
+    "from": 1588.709,
+    "to": 1591.139,
+    "sid": 754,
+    "location": 2,
+    "content": "那些因为脑子不够用",
+    "music": 0.0
+  },
+  {
+    "from": 1591.139,
+    "to": 1593.43,
+    "sid": 755,
+    "location": 2,
+    "content": "没有跟上思路的学生则很容易掉队",
+    "music": 0.0
+  },
+  {
+    "from": 1593.43,
+    "to": 1595.47,
+    "sid": 756,
+    "location": 2,
+    "content": "类似的课程和作业设计啊",
+    "music": 0.0
+  },
+  {
+    "from": 1595.47,
+    "to": 1597.57,
+    "sid": 757,
+    "location": 2,
+    "content": "能够确保学生在每个阶段",
+    "music": 0.0
+  },
+  {
+    "from": 1597.57,
+    "to": 1599.76,
+    "sid": 758,
+    "location": 2,
+    "content": "都不会因为认知过载而蒙掉",
+    "music": 0.0
+  },
+  {
+    "from": 1599.76,
+    "to": 1603.019,
+    "sid": 759,
+    "location": 2,
+    "content": "避免学生因为这个无法胜任感到挫败",
+    "music": 0.0
+  },
+  {
+    "from": 1603.019,
+    "to": 1606.79,
+    "sid": 760,
+    "location": 2,
+    "content": "进而陷入自我怀疑的那种恶性循环",
+    "music": 0.0
+  },
+  {
+    "from": 1606.79,
+    "to": 1608.77,
+    "sid": 761,
+    "location": 2,
+    "content": "今天才知道这些方法和思路",
+    "music": 0.0
+  },
+  {
+    "from": 1608.77,
+    "to": 1610.27,
+    "sid": 762,
+    "location": 2,
+    "content": "作为曾经的学生",
+    "music": 0.0
+  },
+  {
+    "from": 1610.27,
+    "to": 1611.8,
+    "sid": 763,
+    "location": 2,
+    "content": "我是有些遗憾的",
+    "music": 0.0
+  },
+  {
+    "from": 1611.8,
+    "to": 1614.25,
+    "sid": 764,
+    "location": 2,
+    "content": "但是作为一个家长",
+    "music": 0.0
+  },
+  {
+    "from": 1614.25,
+    "to": 1618.57,
+    "sid": 765,
+    "location": 2,
+    "content": "我对未来孩子的学习其实充满了信心和期待",
+    "music": 0.0
+  },
+  {
+    "from": 1618.57,
+    "to": 1623.02,
+    "sid": 766,
+    "location": 2,
+    "content": "总之复杂性来自于元素之间的什么交互",
+    "music": 0.0
+  },
+  {
+    "from": 1623.02,
+    "to": 1626.86,
+    "sid": 767,
+    "location": 2,
+    "content": "我们可以通过对学习材料的设计来巧妙地简化",
+    "music": 0.0
+  },
+  {
+    "from": 1626.86,
+    "to": 1627.81,
+    "sid": 768,
+    "location": 2,
+    "content": "这种交互性",
+    "music": 0.0
+  },
+  {
+    "from": 1627.81,
+    "to": 1631.64,
+    "sid": 769,
+    "location": 2,
+    "content": "是学习材料按照一种我们易于接受的方式",
+    "music": 0.0
+  },
+  {
+    "from": 1631.64,
+    "to": 1632.63,
+    "sid": 770,
+    "location": 2,
+    "content": "呈现在我们面前",
+    "music": 0.0
+  },
+  {
+    "from": 1632.63,
+    "to": 1634.91,
+    "sid": 771,
+    "location": 2,
+    "content": "我们给AI一个教学实例",
+    "music": 0.0
+  },
+  {
+    "from": 1634.91,
+    "to": 1637.5,
+    "sid": 772,
+    "location": 2,
+    "content": "让AI为我们编写相似的问题",
+    "music": 0.0
+  },
+  {
+    "from": 1637.5,
+    "to": 1637.92,
+    "sid": 773,
+    "location": 2,
+    "content": "同样的",
+    "music": 0.0
+  },
+  {
+    "from": 1637.92,
+    "to": 1640.14,
+    "sid": 774,
+    "location": 2,
+    "content": "我先详细的告诉他交替实力的思路",
+    "music": 0.0
+  },
+  {
+    "from": 1640.14,
+    "to": 1641.1,
+    "sid": 775,
+    "location": 2,
+    "content": "让他扮演教师",
+    "music": 0.0
+  },
+  {
+    "from": 1641.1,
+    "to": 1643.92,
+    "sid": 776,
+    "location": 2,
+    "content": "教授我主动语态转化为被动语态这个知识点",
+    "music": 0.0
+  },
+  {
+    "from": 1643.92,
+    "to": 1646.48,
+    "sid": 777,
+    "location": 2,
+    "content": "并且要求他提供概念解释",
+    "music": 0.0
+  },
+  {
+    "from": 1646.48,
+    "to": 1647.77,
+    "sid": 778,
+    "location": 2,
+    "content": "学习意义",
+    "music": 0.0
+  },
+  {
+    "from": 1647.77,
+    "to": 1649.69,
+    "sid": 779,
+    "location": 2,
+    "content": "实力以及实例解析",
+    "music": 0.0
+  },
+  {
+    "from": 1649.69,
+    "to": 1651.68,
+    "sid": 780,
+    "location": 2,
+    "content": "然后给出三个相似的问题",
+    "music": 0.0
+  },
+  {
+    "from": 1651.68,
+    "to": 1652.34,
+    "sid": 781,
+    "location": 2,
+    "content": "让我练习",
+    "music": 0.0
+  },
+  {
+    "from": 1652.34,
+    "to": 1653.54,
+    "sid": 782,
+    "location": 2,
+    "content": "他生成了这样的内容",
+    "music": 0.0
+  },
+  {
+    "from": 1653.54,
+    "to": 1654.02,
+    "sid": 783,
+    "location": 2,
+    "content": "概念解释",
+    "music": 0.0
+  },
+  {
+    "from": 1654.02,
+    "to": 1656.48,
+    "sid": 784,
+    "location": 2,
+    "content": "主动语态是指行为主体是动作的执行者",
+    "music": 0.0
+  },
+  {
+    "from": 1656.48,
+    "to": 1658.08,
+    "sid": 785,
+    "location": 2,
+    "content": "而被动语态是行为的主体",
+    "music": 0.0
+  },
+  {
+    "from": 1658.08,
+    "to": 1659.13,
+    "sid": 786,
+    "location": 2,
+    "content": "是动作的接受者",
+    "music": 0.0
+  },
+  {
+    "from": 1659.13,
+    "to": 1660.9,
+    "sid": 787,
+    "location": 2,
+    "content": "学习的意义他们非常重要",
+    "music": 0.0
+  },
+  {
+    "from": 1660.9,
+    "to": 1663.52,
+    "sid": 788,
+    "location": 2,
+    "content": "可以帮助我们从不同的角度描述同一件事情",
+    "music": 0.0
+  },
+  {
+    "from": 1663.52,
+    "to": 1665.74,
+    "sid": 789,
+    "location": 2,
+    "content": "使我们的表述更加准确和多样化",
+    "music": 0.0
+  },
+  {
+    "from": 1665.74,
+    "to": 1666.76,
+    "sid": 790,
+    "location": 2,
+    "content": "然后给出一个实例",
+    "music": 0.0
+  },
+  {
+    "from": 1666.76,
+    "to": 1669.94,
+    "sid": 791,
+    "location": 2,
+    "content": "并在实例中非常清晰的标注出来的主谓宾结构",
+    "music": 0.0
+  },
+  {
+    "from": 1669.94,
+    "to": 1671.44,
+    "sid": 792,
+    "location": 2,
+    "content": "然后呢对实例进行了讲解",
+    "music": 0.0
+  },
+  {
+    "from": 1671.44,
+    "to": 1673.12,
+    "sid": 793,
+    "location": 2,
+    "content": "告诉我转换成被动语态时",
+    "music": 0.0
+  },
+  {
+    "from": 1673.12,
+    "to": 1675.38,
+    "sid": 794,
+    "location": 2,
+    "content": "我们要将行为的接受者放在句子的开头",
+    "music": 0.0
+  },
+  {
+    "from": 1675.38,
+    "to": 1677.27,
+    "sid": 795,
+    "location": 2,
+    "content": "然后添加适当形式的be动词",
+    "music": 0.0
+  },
+  {
+    "from": 1677.27,
+    "to": 1679.58,
+    "sid": 796,
+    "location": 2,
+    "content": "接着要添加动词的过去分词形式",
+    "music": 0.0
+  },
+  {
+    "from": 1679.58,
+    "to": 1681.26,
+    "sid": 797,
+    "location": 2,
+    "content": "最后添加百合行动执行者",
+    "music": 0.0
+  },
+  {
+    "from": 1681.26,
+    "to": 1682.88,
+    "sid": 798,
+    "location": 2,
+    "content": "你会发现每一个知识点的讲解",
+    "music": 0.0
+  },
+  {
+    "from": 1682.88,
+    "to": 1684.38,
+    "sid": 799,
+    "location": 2,
+    "content": "都会对应实例中的元素",
+    "music": 0.0
+  },
+  {
+    "from": 1684.38,
+    "to": 1686.42,
+    "sid": 800,
+    "location": 2,
+    "content": "然后还贴心的给出了具体步骤",
+    "music": 0.0
+  },
+  {
+    "from": 1686.42,
+    "to": 1688.16,
+    "sid": 801,
+    "location": 2,
+    "content": "并问出了三个相似问题",
+    "music": 0.0
+  },
+  {
+    "from": 1688.16,
+    "to": 1689.66,
+    "sid": 802,
+    "location": 2,
+    "content": "随后我分别完成了三道题",
+    "music": 0.0
+  },
+  {
+    "from": 1689.66,
+    "to": 1690.74,
+    "sid": 803,
+    "location": 2,
+    "content": "在前两道题中",
+    "music": 0.0
+  },
+  {
+    "from": 1690.74,
+    "to": 1692.0,
+    "sid": 804,
+    "location": 2,
+    "content": "我故意给出错误答案",
+    "music": 0.0
+  },
+  {
+    "from": 1692.0,
+    "to": 1694.1,
+    "sid": 805,
+    "location": 2,
+    "content": "比如第一题中我动词的过去分词",
+    "music": 0.0
+  },
+  {
+    "from": 1694.1,
+    "to": 1696.92,
+    "sid": 806,
+    "location": 2,
+    "content": "第二题中我故意把be动词换成了复数形式",
+    "music": 0.0
+  },
+  {
+    "from": 1696.92,
+    "to": 1698.96,
+    "sid": 807,
+    "location": 2,
+    "content": "他都非常细致的给予了纠正",
+    "music": 0.0
+  },
+  {
+    "from": 1698.96,
+    "to": 1701.24,
+    "sid": 808,
+    "location": 2,
+    "content": "而且都是先夸奖再指出问题",
+    "music": 0.0
+  },
+  {
+    "from": 1701.24,
+    "to": 1702.32,
+    "sid": 809,
+    "location": 2,
+    "content": "表现得非常好",
+    "music": 0.0
+  },
+  {
+    "from": 1702.32,
+    "to": 1704.06,
+    "sid": 810,
+    "location": 2,
+    "content": "第三道题我要给正确答案了吧",
+    "music": 0.0
+  },
+  {
+    "from": 1704.06,
+    "to": 1705.68,
+    "sid": 811,
+    "location": 2,
+    "content": "结果他发现我拼错单词了",
+    "music": 0.0
+  },
+  {
+    "from": 1705.68,
+    "to": 1709.04,
+    "sid": 812,
+    "location": 2,
+    "content": "这样的博学友善且富有耐心的智能家教啊",
+    "music": 0.0
+  },
+  {
+    "from": 1709.04,
+    "to": 1710.93,
+    "sid": 813,
+    "location": 2,
+    "content": "在过去是不可想象的",
+    "music": 0.0
+  },
+  {
+    "from": 1710.93,
+    "to": 1712.54,
+    "sid": 814,
+    "location": 2,
+    "content": "普林斯顿大学的一位教授",
+    "music": 0.0
+  },
+  {
+    "from": 1712.54,
+    "to": 1716.3,
+    "sid": 815,
+    "location": 2,
+    "content": "在2018年提出了职业AI暴露指数这个概念",
+    "music": 0.0
+  },
+  {
+    "from": 1716.3,
+    "to": 1719.0,
+    "sid": 816,
+    "location": 2,
+    "content": "他将AI技术与人类的技能关联起来",
+    "music": 0.0
+  },
+  {
+    "from": 1719.0,
+    "to": 1722.0,
+    "sid": 817,
+    "location": 2,
+    "content": "考察各个职业在AI技术发展中的暴露程度",
+    "music": 0.0
+  },
+  {
+    "from": 1722.0,
+    "to": 1723.02,
+    "sid": 818,
+    "location": 2,
+    "content": "也就是危险程度",
+    "music": 0.0
+  },
+  {
+    "from": 1723.02,
+    "to": 1725.15,
+    "sid": 819,
+    "location": 2,
+    "content": "排名靠前的主要是遗传病咨询师",
+    "music": 0.0
+  },
+  {
+    "from": 1725.15,
+    "to": 1726.71,
+    "sid": 820,
+    "location": 2,
+    "content": "财务审核是精算师",
+    "music": 0.0
+  },
+  {
+    "from": 1726.71,
+    "to": 1727.37,
+    "sid": 821,
+    "location": 2,
+    "content": "审计员",
+    "music": 0.0
+  },
+  {
+    "from": 1727.37,
+    "to": 1728.33,
+    "sid": 822,
+    "location": 2,
+    "content": "他们的共同点是",
+    "music": 0.0
+  },
+  {
+    "from": 1728.33,
+    "to": 1731.32,
+    "sid": 823,
+    "location": 2,
+    "content": "工作内容涉及到大量的数据分析和处理",
+    "music": 0.0
+  },
+  {
+    "from": 1731.32,
+    "to": 1734.08,
+    "sid": 824,
+    "location": 2,
+    "content": "这些都是AI技术发展的相对成熟的领域",
+    "music": 0.0
+  },
+  {
+    "from": 1734.08,
+    "to": 1735.28,
+    "sid": 825,
+    "location": 2,
+    "content": "但仅仅过了两年",
+    "music": 0.0
+  },
+  {
+    "from": 1736.78,
+    "to": 1737.74,
+    "sid": 826,
+    "location": 2,
+    "content": "大约模型出现",
+    "music": 0.0
+  },
+  {
+    "from": 1737.74,
+    "to": 1740.08,
+    "sid": 827,
+    "location": 2,
+    "content": "这个榜单的构成发生了巨大的变化",
+    "music": 0.0
+  },
+  {
+    "from": 1740.08,
+    "to": 1742.94,
+    "sid": 828,
+    "location": 2,
+    "content": "各个学科的教师立即成为了高危人群",
+    "music": 0.0
+  },
+  {
+    "from": 1742.94,
+    "to": 1745.88,
+    "sid": 829,
+    "location": 2,
+    "content": "而两年前的榜单还只有历史老师在列",
+    "music": 0.0
+  },
+  {
+    "from": 1745.88,
+    "to": 1746.96,
+    "sid": 830,
+    "location": 2,
+    "content": "在未来大语言模型",
+    "music": 0.0
+  },
+  {
+    "from": 1746.96,
+    "to": 1750.49,
+    "sid": 831,
+    "location": 2,
+    "content": "AI一定是我们能接触到的综合能力最强的老师",
+    "music": 0.0
+  },
+  {
+    "from": 1750.49,
+    "to": 1753.37,
+    "sid": 832,
+    "location": 2,
+    "content": "没有任何人类老师可以与之匹敌",
+    "music": 0.0
+  },
+  {
+    "from": 1753.37,
+    "to": 1756.99,
+    "sid": 833,
+    "location": 2,
+    "content": "而且所有人只要掌握方法",
+    "music": 0.0
+  },
+  {
+    "from": 1756.99,
+    "to": 1760.14,
+    "sid": 834,
+    "location": 2,
+    "content": "人人都可以成为超级自学者",
+    "music": 0.0
+  }
+]

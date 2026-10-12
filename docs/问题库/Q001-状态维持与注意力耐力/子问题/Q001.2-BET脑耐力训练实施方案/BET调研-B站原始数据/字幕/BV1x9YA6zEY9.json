@@ -1,0 +1,1722 @@
+[
+  {
+    "from": 0.0,
+    "to": 2.04,
+    "sid": 1,
+    "location": 2,
+    "content": "当人们跟我说你想太多了的时候",
+    "music": 0.0
+  },
+  {
+    "from": 2.04,
+    "to": 2.84,
+    "sid": 2,
+    "location": 2,
+    "content": "我总是说不",
+    "music": 0.0
+  },
+  {
+    "from": 2.84,
+    "to": 4.08,
+    "sid": 3,
+    "location": 2,
+    "content": "我只是想了正常的量",
+    "music": 0.0
+  },
+  {
+    "from": 4.08,
+    "to": 5.36,
+    "sid": 4,
+    "location": 2,
+    "content": "我只是不擅长这个",
+    "music": 0.0
+  },
+  {
+    "from": 5.36,
+    "to": 5.84,
+    "sid": 5,
+    "location": 2,
+    "content": "说实话",
+    "music": 0.0
+  },
+  {
+    "from": 5.84,
+    "to": 7.38,
+    "sid": 6,
+    "location": 2,
+    "content": "我觉得我们大多数人都是这样",
+    "music": 0.0
+  },
+  {
+    "from": 7.38,
+    "to": 8.56,
+    "sid": 7,
+    "location": 2,
+    "content": "我们不是想太多",
+    "music": 0.0
+  },
+  {
+    "from": 8.56,
+    "to": 10.34,
+    "sid": 8,
+    "location": 2,
+    "content": "我们就是没能清晰思考",
+    "music": 0.0
+  },
+  {
+    "from": 10.34,
+    "to": 11.76,
+    "sid": 9,
+    "location": 2,
+    "content": "但有少数人能看到",
+    "music": 0.0
+  },
+  {
+    "from": 11.76,
+    "to": 13.76,
+    "sid": 10,
+    "location": 2,
+    "content": "他们看见了其他人错过的东西",
+    "music": 0.0
+  },
+  {
+    "from": 13.76,
+    "to": 15.5,
+    "sid": 11,
+    "location": 2,
+    "content": "在第二次世界大战期间",
+    "music": 0.0
+  },
+  {
+    "from": 15.5,
+    "to": 18.91,
+    "sid": 12,
+    "location": 2,
+    "content": "美军研究了那些完成任务返航的轰炸机",
+    "music": 0.0
+  },
+  {
+    "from": 18.91,
+    "to": 21.27,
+    "sid": 13,
+    "location": 2,
+    "content": "弹孔大多在机翼和机尾",
+    "music": 0.0
+  },
+  {
+    "from": 21.27,
+    "to": 22.67,
+    "sid": 14,
+    "location": 2,
+    "content": "所以计划很简单",
+    "music": 0.0
+  },
+  {
+    "from": 22.67,
+    "to": 24.92,
+    "sid": 15,
+    "location": 2,
+    "content": "给机翼和机尾加装装甲",
+    "music": 0.0
+  },
+  {
+    "from": 24.92,
+    "to": 27.98,
+    "sid": 16,
+    "location": 2,
+    "content": "然后一位名叫亚伯拉罕瓦尔德的数学家",
+    "music": 0.0
+  },
+  {
+    "from": 27.98,
+    "to": 29.8,
+    "sid": 17,
+    "location": 2,
+    "content": "看着同样的飞机说不",
+    "music": 0.0
+  },
+  {
+    "from": 29.8,
+    "to": 32.66,
+    "sid": 18,
+    "location": 2,
+    "content": "我们应该把装甲架在没有弹孔的地方",
+    "music": 0.0
+  },
+  {
+    "from": 32.66,
+    "to": 35.36,
+    "sid": 19,
+    "location": 2,
+    "content": "因为那些位置中弹的飞机都没能飞回来",
+    "music": 0.0
+  },
+  {
+    "from": 35.36,
+    "to": 37.56,
+    "sid": 20,
+    "location": 2,
+    "content": "其他人看到的都是同样的返航飞机",
+    "music": 0.0
+  },
+  {
+    "from": 37.56,
+    "to": 39.16,
+    "sid": 21,
+    "location": 2,
+    "content": "为什么只有他看出了问题",
+    "music": 0.0
+  },
+  {
+    "from": 39.16,
+    "to": 40.34,
+    "sid": 22,
+    "location": 2,
+    "content": "他真是个天才",
+    "music": 0.0
+  },
+  {
+    "from": 40.34,
+    "to": 41.84,
+    "sid": 23,
+    "location": 2,
+    "content": "还是脑子里做的那件事",
+    "music": 0.0
+  },
+  {
+    "from": 41.84,
+    "to": 42.84,
+    "sid": 24,
+    "location": 2,
+    "content": "你也可以学会",
+    "music": 0.0
+  },
+  {
+    "from": 42.84,
+    "to": 44.22,
+    "sid": 25,
+    "location": 2,
+    "content": "而如果你学会了",
+    "music": 0.0
+  },
+  {
+    "from": 44.22,
+    "to": 46.64,
+    "sid": 26,
+    "location": 2,
+    "content": "你会开始在自己生活中看到哪些",
+    "music": 0.0
+  },
+  {
+    "from": 46.64,
+    "to": 48.26,
+    "sid": 27,
+    "location": 2,
+    "content": "你一直错过的东西",
+    "music": 0.0
+  },
+  {
+    "from": 48.26,
+    "to": 49.92,
+    "sid": 28,
+    "location": 2,
+    "content": "所以让我们一探究竟",
+    "music": 0.0
+  },
+  {
+    "from": 49.92,
+    "to": 51.82,
+    "sid": 29,
+    "location": 2,
+    "content": "瓦尔德看的不是弹孔",
+    "music": 0.0
+  },
+  {
+    "from": 51.82,
+    "to": 53.92,
+    "sid": 30,
+    "location": 2,
+    "content": "他看的是那些不在场的飞机",
+    "music": 0.0
+  },
+  {
+    "from": 53.92,
+    "to": 56.269,
+    "sid": 31,
+    "location": 2,
+    "content": "机场上的每架飞机都飞回来了",
+    "music": 0.0
+  },
+  {
+    "from": 56.269,
+    "to": 58.029,
+    "sid": 32,
+    "location": 2,
+    "content": "所以上面的每一个弹孔",
+    "music": 0.0
+  },
+  {
+    "from": 58.029,
+    "to": 59.989,
+    "sid": 33,
+    "location": 2,
+    "content": "都是飞机能扛过去的弹孔",
+    "music": 0.0
+  },
+  {
+    "from": 59.989,
+    "to": 62.169,
+    "sid": 34,
+    "location": 2,
+    "content": "机翼和机尾满是弹孔",
+    "music": 0.0
+  },
+  {
+    "from": 62.169,
+    "to": 64.879,
+    "sid": 35,
+    "location": 2,
+    "content": "因为飞机这些部位中弹后还能继续飞",
+    "music": 0.0
+  },
+  {
+    "from": 64.879,
+    "to": 66.419,
+    "sid": 36,
+    "location": 2,
+    "content": "引擎几乎完好无损",
+    "music": 0.0
+  },
+  {
+    "from": 66.419,
+    "to": 68.059,
+    "sid": 37,
+    "location": 2,
+    "content": "不是因为没人击中引擎",
+    "music": 0.0
+  },
+  {
+    "from": 68.059,
+    "to": 71.179,
+    "sid": 38,
+    "location": 2,
+    "content": "而是因为引擎被击中的飞机再也没能返航",
+    "music": 0.0
+  },
+  {
+    "from": 71.179,
+    "to": 74.36,
+    "sid": 39,
+    "location": 2,
+    "content": "被统计到将军们研究着眼前的飞机",
+    "music": 0.0
+  },
+  {
+    "from": 74.36,
+    "to": 76.98,
+    "sid": 40,
+    "location": 2,
+    "content": "瓦尔德问的是那些不在他面前的飞机",
+    "music": 0.0
+  },
+  {
+    "from": 76.98,
+    "to": 78.42,
+    "sid": 41,
+    "location": 2,
+    "content": "整个诀窍就在这里",
+    "music": 0.0
+  },
+  {
+    "from": 78.42,
+    "to": 79.52,
+    "sid": 42,
+    "location": 2,
+    "content": "而且你可以学会",
+    "music": 0.0
+  },
+  {
+    "from": 79.52,
+    "to": 80.6,
+    "sid": 43,
+    "location": 2,
+    "content": "这是个问题",
+    "music": 0.0
+  },
+  {
+    "from": 80.6,
+    "to": 81.96,
+    "sid": 44,
+    "location": 2,
+    "content": "我没看到的是什么",
+    "music": 0.0
+  },
+  {
+    "from": 81.96,
+    "to": 83.33,
+    "sid": 45,
+    "location": 2,
+    "content": "为什么我没看到",
+    "music": 0.0
+  },
+  {
+    "from": 83.33,
+    "to": 85.59,
+    "sid": 46,
+    "location": 2,
+    "content": "而且你不需要一场战争来联系",
+    "music": 0.0
+  },
+  {
+    "from": 85.59,
+    "to": 86.87,
+    "sid": 47,
+    "location": 2,
+    "content": "你需要三个问题",
+    "music": 0.0
+  },
+  {
+    "from": 86.87,
+    "to": 89.24,
+    "sid": 48,
+    "location": 2,
+    "content": "这三个问题在一家咖啡店就能用上",
+    "music": 0.0
+  },
+  {
+    "from": 89.24,
+    "to": 90.76,
+    "sid": 49,
+    "location": 2,
+    "content": "想象你开了一家咖啡店",
+    "music": 0.0
+  },
+  {
+    "from": 90.76,
+    "to": 92.82,
+    "sid": 50,
+    "location": 2,
+    "content": "一个柜台前面有台收音机",
+    "music": 0.0
+  },
+  {
+    "from": 92.82,
+    "to": 93.98,
+    "sid": 51,
+    "location": 2,
+    "content": "顾客在那付款",
+    "music": 0.0
+  },
+  {
+    "from": 93.98,
+    "to": 95.2,
+    "sid": 52,
+    "location": 2,
+    "content": "后面有台咖啡机",
+    "music": 0.0
+  },
+  {
+    "from": 95.2,
+    "to": 96.97,
+    "sid": 53,
+    "location": 2,
+    "content": "一个人负责做所有饮品",
+    "music": 0.0
+  },
+  {
+    "from": 96.97,
+    "to": 99.09,
+    "sid": 54,
+    "location": 2,
+    "content": "每天早上队伍都排到门口",
+    "music": 0.0
+  },
+  {
+    "from": 99.09,
+    "to": 101.02,
+    "sid": 55,
+    "location": 2,
+    "content": "顾客抱怨等待时间太长",
+    "music": 0.0
+  },
+  {
+    "from": 101.02,
+    "to": 102.24,
+    "sid": 56,
+    "location": 2,
+    "content": "你看到排队的人",
+    "music": 0.0
+  },
+  {
+    "from": 102.24,
+    "to": 103.86,
+    "sid": 57,
+    "location": 2,
+    "content": "看到收银台前只有一个人",
+    "music": 0.0
+  },
+  {
+    "from": 103.86,
+    "to": 105.37,
+    "sid": 58,
+    "location": 2,
+    "content": "答案似乎显而易见",
+    "music": 0.0
+  },
+  {
+    "from": 105.37,
+    "to": 106.79,
+    "sid": 59,
+    "location": 2,
+    "content": "你又雇了一个收银员",
+    "music": 0.0
+  },
+  {
+    "from": 106.79,
+    "to": 107.69,
+    "sid": 60,
+    "location": 2,
+    "content": "他管用",
+    "music": 0.0
+  },
+  {
+    "from": 107.69,
+    "to": 108.43,
+    "sid": 61,
+    "location": 2,
+    "content": "算是吧",
+    "music": 0.0
+  },
+  {
+    "from": 108.43,
+    "to": 109.67,
+    "sid": 62,
+    "location": 2,
+    "content": "顾客付钱更快",
+    "music": 0.0
+  },
+  {
+    "from": 109.67,
+    "to": 111.53,
+    "sid": 63,
+    "location": 2,
+    "content": "于是他们走到柜台另一端",
+    "music": 0.0
+  },
+  {
+    "from": 111.53,
+    "to": 112.13,
+    "sid": 64,
+    "location": 2,
+    "content": "改在那里",
+    "music": 0.0
+  },
+  {
+    "from": 112.13,
+    "to": 113.92,
+    "sid": 65,
+    "location": 2,
+    "content": "等咖啡机前的那个人",
+    "music": 0.0
+  },
+  {
+    "from": 113.92,
+    "to": 115.7,
+    "sid": 66,
+    "location": 2,
+    "content": "已经在以最快速度做饮料了",
+    "music": 0.0
+  },
+  {
+    "from": 115.7,
+    "to": 117.26,
+    "sid": 67,
+    "location": 2,
+    "content": "现在订单来的更快了",
+    "music": 0.0
+  },
+  {
+    "from": 117.26,
+    "to": 118.06,
+    "sid": 68,
+    "location": 2,
+    "content": "咖啡不会",
+    "music": 0.0
+  },
+  {
+    "from": 118.06,
+    "to": 120.03,
+    "sid": 69,
+    "location": 2,
+    "content": "你已经为多一名收银员付了钱",
+    "music": 0.0
+  },
+  {
+    "from": 120.03,
+    "to": 121.75,
+    "sid": 70,
+    "location": 2,
+    "content": "顾客有了个不一样的站位",
+    "music": 0.0
+  },
+  {
+    "from": 121.75,
+    "to": 123.919,
+    "sid": 71,
+    "location": 2,
+    "content": "错误发生在你雇人之前",
+    "music": 0.0
+  },
+  {
+    "from": 123.919,
+    "to": 125.319,
+    "sid": 72,
+    "location": 2,
+    "content": "你看着长长的队伍",
+    "music": 0.0
+  },
+  {
+    "from": 125.319,
+    "to": 127.019,
+    "sid": 73,
+    "location": 2,
+    "content": "就断定他为什么排这么长",
+    "music": 0.0
+  },
+  {
+    "from": 127.019,
+    "to": 127.919,
+    "sid": 74,
+    "location": 2,
+    "content": "顾客在等",
+    "music": 0.0
+  },
+  {
+    "from": 127.919,
+    "to": 129.019,
+    "sid": 75,
+    "location": 2,
+    "content": "是你看到的",
+    "music": 0.0
+  },
+  {
+    "from": 129.019,
+    "to": 130.479,
+    "sid": 76,
+    "location": 2,
+    "content": "我们需要另一位收银员",
+    "music": 0.0
+  },
+  {
+    "from": 130.479,
+    "to": 132.079,
+    "sid": 77,
+    "location": 2,
+    "content": "只是你对原因的猜测",
+    "music": 0.0
+  },
+  {
+    "from": 132.079,
+    "to": 134.519,
+    "sid": 78,
+    "location": 2,
+    "content": "那两件事感觉就像同一个念头",
+    "music": 0.0
+  },
+  {
+    "from": 134.519,
+    "to": 135.599,
+    "sid": 79,
+    "location": 2,
+    "content": "他们是两个",
+    "music": 0.0
+  },
+  {
+    "from": 135.599,
+    "to": 138.19,
+    "sid": 80,
+    "location": 2,
+    "content": "所以第一个问题是我实际知道什么",
+    "music": 0.0
+  },
+  {
+    "from": 138.19,
+    "to": 139.93,
+    "sid": 81,
+    "location": 2,
+    "content": "在修理任何东西之前",
+    "music": 0.0
+  },
+  {
+    "from": 139.93,
+    "to": 143.04,
+    "sid": 82,
+    "location": 2,
+    "content": "先站在店里观察顾客站在哪里",
+    "music": 0.0
+  },
+  {
+    "from": 143.04,
+    "to": 144.5,
+    "sid": 83,
+    "location": 2,
+    "content": "他们点过餐了吗",
+    "music": 0.0
+  },
+  {
+    "from": 144.5,
+    "to": 145.76,
+    "sid": 84,
+    "location": 2,
+    "content": "他们付过钱了吗",
+    "music": 0.0
+  },
+  {
+    "from": 145.76,
+    "to": 148.1,
+    "sid": 85,
+    "location": 2,
+    "content": "他们是不是拿着小票在等咖啡",
+    "music": 0.0
+  },
+  {
+    "from": 148.1,
+    "to": 151.02,
+    "sid": 86,
+    "location": 2,
+    "content": "这家店里大多数在等的人已经付过钱了",
+    "music": 0.0
+  },
+  {
+    "from": 151.02,
+    "to": 153.079,
+    "sid": 87,
+    "location": 2,
+    "content": "他们在等那个在机器旁边的人",
+    "music": 0.0
+  },
+  {
+    "from": 153.079,
+    "to": 154.959,
+    "sid": 88,
+    "location": 2,
+    "content": "现在你知道了等待在哪里",
+    "music": 0.0
+  },
+  {
+    "from": 154.959,
+    "to": 156.979,
+    "sid": 89,
+    "location": 2,
+    "content": "但你仍然不知道该怎么处理它",
+    "music": 0.0
+  },
+  {
+    "from": 156.979,
+    "to": 158.239,
+    "sid": 90,
+    "location": 2,
+    "content": "你的第一个解决方案",
+    "music": 0.0
+  },
+  {
+    "from": 158.239,
+    "to": 159.239,
+    "sid": 91,
+    "location": 2,
+    "content": "假设付款更快",
+    "music": 0.0
+  },
+  {
+    "from": 159.239,
+    "to": 160.9,
+    "sid": 92,
+    "location": 2,
+    "content": "就意味着等待时间更短",
+    "music": 0.0
+  },
+  {
+    "from": 160.9,
+    "to": 161.6,
+    "sid": 93,
+    "location": 2,
+    "content": "没有",
+    "music": 0.0
+  },
+  {
+    "from": 161.6,
+    "to": 163.92,
+    "sid": 94,
+    "location": 2,
+    "content": "因为付款从来都不是最慢的环节",
+    "music": 0.0
+  },
+  {
+    "from": 163.92,
+    "to": 166.62,
+    "sid": 95,
+    "location": 2,
+    "content": "做咖啡就是这就是那个模式",
+    "music": 0.0
+  },
+  {
+    "from": 166.62,
+    "to": 168.92,
+    "sid": 96,
+    "location": 2,
+    "content": "我们解决一个问题上最显眼的部分",
+    "music": 0.0
+  },
+  {
+    "from": 168.92,
+    "to": 170.26,
+    "sid": 97,
+    "location": 2,
+    "content": "就把它当成问题的",
+    "music": 0.0
+  },
+  {
+    "from": 170.26,
+    "to": 172.03,
+    "sid": 98,
+    "location": 2,
+    "content": "全部收银台钱的队伍",
+    "music": 0.0
+  },
+  {
+    "from": 172.03,
+    "to": 175.05,
+    "sid": 99,
+    "location": 2,
+    "content": "一眼就能看到操作机器的人排在队伍后面",
+    "music": 0.0
+  },
+  {
+    "from": 175.05,
+    "to": 176.09,
+    "sid": 100,
+    "location": 2,
+    "content": "所以没人看见",
+    "music": 0.0
+  },
+  {
+    "from": 176.09,
+    "to": 177.5,
+    "sid": 101,
+    "location": 2,
+    "content": "所以第二个问题是",
+    "music": 0.0
+  },
+  {
+    "from": 177.5,
+    "to": 180.72,
+    "sid": 102,
+    "location": 2,
+    "content": "我在假设什么去找站在机器旁的那个人",
+    "music": 0.0
+  },
+  {
+    "from": 180.72,
+    "to": 183.11,
+    "sid": 103,
+    "location": 2,
+    "content": "问问他们高峰期什么让他们慢下来",
+    "music": 0.0
+  },
+  {
+    "from": 183.11,
+    "to": 184.89,
+    "sid": 104,
+    "location": 2,
+    "content": "看他们做十倍饮品",
+    "music": 0.0
+  },
+  {
+    "from": 184.89,
+    "to": 186.69,
+    "sid": 105,
+    "location": 2,
+    "content": "找到耗时最长的那部分",
+    "music": 0.0
+  },
+  {
+    "from": 186.69,
+    "to": 187.63,
+    "sid": 106,
+    "location": 2,
+    "content": "假如他们告诉你",
+    "music": 0.0
+  },
+  {
+    "from": 187.63,
+    "to": 188.93,
+    "sid": 107,
+    "location": 2,
+    "content": "饮料本身没问题",
+    "music": 0.0
+  },
+  {
+    "from": 188.93,
+    "to": 191.83,
+    "sid": 108,
+    "location": 2,
+    "content": "问题在于高峰期他们要一边看订单",
+    "music": 0.0
+  },
+  {
+    "from": 191.83,
+    "to": 192.45,
+    "sid": 109,
+    "location": 2,
+    "content": "打奶泡",
+    "music": 0.0
+  },
+  {
+    "from": 192.45,
+    "to": 193.579,
+    "sid": 110,
+    "location": 2,
+    "content": "一边递杯子",
+    "music": 0.0
+  },
+  {
+    "from": 193.579,
+    "to": 195.079,
+    "sid": 111,
+    "location": 2,
+    "content": "所有事情同时进行",
+    "music": 0.0
+  },
+  {
+    "from": 195.079,
+    "to": 196.279,
+    "sid": 112,
+    "location": 2,
+    "content": "机器前多一双手",
+    "music": 0.0
+  },
+  {
+    "from": 196.279,
+    "to": 198.04,
+    "sid": 113,
+    "location": 2,
+    "content": "他们就能专心做咖啡了",
+    "music": 0.0
+  },
+  {
+    "from": 198.04,
+    "to": 200.0,
+    "sid": 114,
+    "location": 2,
+    "content": "现在你的猜测更靠谱了",
+    "music": 0.0
+  },
+  {
+    "from": 200.0,
+    "to": 201.52,
+    "sid": 115,
+    "location": 2,
+    "content": "这仍然只是一个猜测",
+    "music": 0.0
+  },
+  {
+    "from": 201.52,
+    "to": 203.48,
+    "sid": 116,
+    "location": 2,
+    "content": "你已经犯过一次这个错误了",
+    "music": 0.0
+  },
+  {
+    "from": 203.48,
+    "to": 204.56,
+    "sid": 117,
+    "location": 2,
+    "content": "一个合理的想法",
+    "music": 0.0
+  },
+  {
+    "from": 204.56,
+    "to": 205.84,
+    "sid": 118,
+    "location": 2,
+    "content": "还没经过任何人验证",
+    "music": 0.0
+  },
+  {
+    "from": 205.84,
+    "to": 207.12,
+    "sid": 119,
+    "location": 2,
+    "content": "就变成了决定",
+    "music": 0.0
+  },
+  {
+    "from": 207.12,
+    "to": 210.54,
+    "sid": 120,
+    "location": 2,
+    "content": "所以这一次把你预期会发生的事情大声说出来",
+    "music": 0.0
+  },
+  {
+    "from": 210.54,
+    "to": 212.26,
+    "sid": 121,
+    "location": 2,
+    "content": "如果再有一个人来做饮品",
+    "music": 0.0
+  },
+  {
+    "from": 212.26,
+    "to": 214.61,
+    "sid": 122,
+    "location": 2,
+    "content": "顾客应该能更快拿到咖啡",
+    "music": 0.0
+  },
+  {
+    "from": 214.61,
+    "to": 216.37,
+    "sid": 123,
+    "location": 2,
+    "content": "这是一句你可以验证的话",
+    "music": 0.0
+  },
+  {
+    "from": 216.37,
+    "to": 218.13,
+    "sid": 124,
+    "location": 2,
+    "content": "挑一个忙碌的早晨",
+    "music": 0.0
+  },
+  {
+    "from": 218.13,
+    "to": 220.579,
+    "sid": 125,
+    "location": 2,
+    "content": "在机器旁安排第二个经过培训的人",
+    "music": 0.0
+  },
+  {
+    "from": 220.579,
+    "to": 221.8,
+    "sid": 126,
+    "location": 2,
+    "content": "其他什么都不改",
+    "music": 0.0
+  },
+  {
+    "from": 221.8,
+    "to": 224.34,
+    "sid": 127,
+    "location": 2,
+    "content": "然后计时你真正在意的那件事",
+    "music": 0.0
+  },
+  {
+    "from": 224.34,
+    "to": 227.34,
+    "sid": 128,
+    "location": 2,
+    "content": "整个等待过程从排队到拿到咖啡",
+    "music": 0.0
+  },
+  {
+    "from": 227.34,
+    "to": 229.73,
+    "sid": 129,
+    "location": 2,
+    "content": "拿它和一个普通忙碌的早晨比一比",
+    "music": 0.0
+  },
+  {
+    "from": 229.73,
+    "to": 231.61,
+    "sid": 130,
+    "location": 2,
+    "content": "如果顾客能更快拿到咖啡",
+    "music": 0.0
+  },
+  {
+    "from": 231.61,
+    "to": 233.56,
+    "sid": 131,
+    "location": 2,
+    "content": "高峰期就保留第二个人",
+    "music": 0.0
+  },
+  {
+    "from": 233.56,
+    "to": 234.34,
+    "sid": 132,
+    "location": 2,
+    "content": "如果不行",
+    "music": 0.0
+  },
+  {
+    "from": 234.34,
+    "to": 237.26,
+    "sid": 133,
+    "location": 2,
+    "content": "你已经用比再雇一个人更低的成本学到了东西",
+    "music": 0.0
+  },
+  {
+    "from": 237.26,
+    "to": 238.4,
+    "sid": 134,
+    "location": 2,
+    "content": "你的猜测错了",
+    "music": 0.0
+  },
+  {
+    "from": 238.4,
+    "to": 239.96,
+    "sid": 135,
+    "location": 2,
+    "content": "于是你回去再看一遍",
+    "music": 0.0
+  },
+  {
+    "from": 239.96,
+    "to": 240.96,
+    "sid": 136,
+    "location": 2,
+    "content": "不管怎样",
+    "music": 0.0
+  },
+  {
+    "from": 240.96,
+    "to": 243.02,
+    "sid": 137,
+    "location": 2,
+    "content": "你都比那个因为队伍看起来长",
+    "music": 0.0
+  },
+  {
+    "from": 243.02,
+    "to": 245.07,
+    "sid": 138,
+    "location": 2,
+    "content": "就雇了收银员的店主强",
+    "music": 0.0
+  },
+  {
+    "from": 245.07,
+    "to": 248.15,
+    "sid": 139,
+    "location": 2,
+    "content": "这就是思考问题和验证问题之间的区别",
+    "music": 0.0
+  },
+  {
+    "from": 248.15,
+    "to": 250.39,
+    "sid": 140,
+    "location": 2,
+    "content": "你不需要在脑子里把整间店都解决掉",
+    "music": 0.0
+  },
+  {
+    "from": 250.39,
+    "to": 252.959,
+    "sid": 141,
+    "location": 2,
+    "content": "你需要一件可以在周五前验证的事",
+    "music": 0.0
+  },
+  {
+    "from": 252.959,
+    "to": 254.199,
+    "sid": 142,
+    "location": 2,
+    "content": "你可能没有咖啡店",
+    "music": 0.0
+  },
+  {
+    "from": 254.199,
+    "to": 256.459,
+    "sid": 143,
+    "location": 2,
+    "content": "但这三个问题适用于任何事情",
+    "music": 0.0
+  },
+  {
+    "from": 256.459,
+    "to": 258.82,
+    "sid": 144,
+    "location": 2,
+    "content": "尤其适合那些你反复纠结的问题",
+    "music": 0.0
+  },
+  {
+    "from": 258.82,
+    "to": 260.3,
+    "sid": 145,
+    "location": 2,
+    "content": "比如说你拿回一份考卷",
+    "music": 0.0
+  },
+  {
+    "from": 260.3,
+    "to": 261.26,
+    "sid": 146,
+    "location": 2,
+    "content": "得了58分",
+    "music": 0.0
+  },
+  {
+    "from": 261.26,
+    "to": 262.34,
+    "sid": 147,
+    "location": 2,
+    "content": "我这门课很差",
+    "music": 0.0
+  },
+  {
+    "from": 262.34,
+    "to": 263.38,
+    "sid": 148,
+    "location": 2,
+    "content": "只是你的猜测",
+    "music": 0.0
+  },
+  {
+    "from": 263.38,
+    "to": 264.72,
+    "sid": 149,
+    "location": 2,
+    "content": "你实际知道什么",
+    "music": 0.0
+  },
+  {
+    "from": 264.72,
+    "to": 266.65,
+    "sid": 150,
+    "location": 2,
+    "content": "你知道自己丢了哪些分",
+    "music": 0.0
+  },
+  {
+    "from": 266.65,
+    "to": 268.14,
+    "sid": 151,
+    "location": 2,
+    "content": "你在假设什么",
+    "music": 0.0
+  },
+  {
+    "from": 268.14,
+    "to": 270.96,
+    "sid": 152,
+    "location": 2,
+    "content": "那是因为你没理解内容才导致他们被击落",
+    "music": 0.0
+  },
+  {
+    "from": 270.96,
+    "to": 272.34,
+    "sid": 153,
+    "location": 2,
+    "content": "所以去看看那篇论文",
+    "music": 0.0
+  },
+  {
+    "from": 272.34,
+    "to": 275.2,
+    "sid": 154,
+    "location": 2,
+    "content": "也许你输掉最近四局是因为时间不够了",
+    "music": 0.0
+  },
+  {
+    "from": 275.2,
+    "to": 276.24,
+    "sid": 155,
+    "location": 2,
+    "content": "也许你懂方法",
+    "music": 0.0
+  },
+  {
+    "from": 276.24,
+    "to": 277.82,
+    "sid": 156,
+    "location": 2,
+    "content": "却看错了题目问的是什么",
+    "music": 0.0
+  },
+  {
+    "from": 277.82,
+    "to": 279.76,
+    "sid": 157,
+    "location": 2,
+    "content": "每一种都是不同的解决办法",
+    "music": 0.0
+  },
+  {
+    "from": 279.76,
+    "to": 280.78,
+    "sid": 158,
+    "location": 2,
+    "content": "你如何验证",
+    "music": 0.0
+  },
+  {
+    "from": 280.78,
+    "to": 282.88,
+    "sid": 159,
+    "location": 2,
+    "content": "挑一个下一轮测试改掉它",
+    "music": 0.0
+  },
+  {
+    "from": 282.88,
+    "to": 284.15,
+    "sid": 160,
+    "location": 2,
+    "content": "看分数会不会动",
+    "music": 0.0
+  },
+  {
+    "from": 284.15,
+    "to": 285.83,
+    "sid": 161,
+    "location": 2,
+    "content": "或者有人没回你的消息",
+    "music": 0.0
+  },
+  {
+    "from": 285.83,
+    "to": 286.87,
+    "sid": 162,
+    "location": 2,
+    "content": "你知道什么",
+    "music": 0.0
+  },
+  {
+    "from": 286.87,
+    "to": 289.36,
+    "sid": 163,
+    "location": 2,
+    "content": "两天没回复你的猜测呢",
+    "music": 0.0
+  },
+  {
+    "from": 289.36,
+    "to": 290.62,
+    "sid": 164,
+    "location": 2,
+    "content": "他们对你很不爽",
+    "music": 0.0
+  },
+  {
+    "from": 290.62,
+    "to": 292.16,
+    "sid": 165,
+    "location": 2,
+    "content": "还有别的可能解释吗",
+    "music": 0.0
+  },
+  {
+    "from": 292.16,
+    "to": 293.02,
+    "sid": 166,
+    "location": 2,
+    "content": "他们很忙",
+    "music": 0.0
+  },
+  {
+    "from": 293.02,
+    "to": 293.96,
+    "sid": 167,
+    "location": 2,
+    "content": "他们忘了",
+    "music": 0.0
+  },
+  {
+    "from": 293.96,
+    "to": 295.5,
+    "sid": 168,
+    "location": 2,
+    "content": "他们不知道该说什么",
+    "music": 0.0
+  },
+  {
+    "from": 295.5,
+    "to": 296.71,
+    "sid": 169,
+    "location": 2,
+    "content": "你如何验证",
+    "music": 0.0
+  },
+  {
+    "from": 296.71,
+    "to": 298.27,
+    "sid": 170,
+    "location": 2,
+    "content": "发一条简短的跟进消息",
+    "music": 0.0
+  },
+  {
+    "from": 298.27,
+    "to": 299.37,
+    "sid": 171,
+    "location": 2,
+    "content": "把你需要的东西说清楚",
+    "music": 0.0
+  },
+  {
+    "from": 299.37,
+    "to": 302.28,
+    "sid": 172,
+    "location": 2,
+    "content": "你不需要在行动之前就断定他们的感受",
+    "music": 0.0
+  },
+  {
+    "from": 302.28,
+    "to": 304.28,
+    "sid": 173,
+    "location": 2,
+    "content": "这两个是很快就能想到的例子",
+    "music": 0.0
+  },
+  {
+    "from": 304.28,
+    "to": 306.35,
+    "sid": 174,
+    "location": 2,
+    "content": "频道会员还有更多类似内容",
+    "music": 0.0
+  },
+  {
+    "from": 306.35,
+    "to": 309.13,
+    "sid": 175,
+    "location": 2,
+    "content": "我会在那里深入讲解如何实际运用",
+    "music": 0.0
+  },
+  {
+    "from": 309.13,
+    "to": 311.47,
+    "sid": 176,
+    "location": 2,
+    "content": "你在这些视频中学到的东西",
+    "music": 0.0
+  },
+  {
+    "from": 311.47,
+    "to": 314.27,
+    "sid": 177,
+    "location": 2,
+    "content": "你的支持也帮助我继续制作这些视频",
+    "music": 0.0
+  },
+  {
+    "from": 314.27,
+    "to": 315.41,
+    "sid": 178,
+    "location": 2,
+    "content": "想加入的话",
+    "music": 0.0
+  },
+  {
+    "from": 315.41,
+    "to": 317.3,
+    "sid": 179,
+    "location": 2,
+    "content": "点一下加入就行",
+    "music": 0.0
+  },
+  {
+    "from": 317.3,
+    "to": 318.16,
+    "sid": 180,
+    "location": 2,
+    "content": "回到机场",
+    "music": 0.0
+  },
+  {
+    "from": 318.16,
+    "to": 321.26,
+    "sid": 181,
+    "location": 2,
+    "content": "瓦尔德能检查的飞机都是已经活着飞回来的",
+    "music": 0.0
+  },
+  {
+    "from": 321.26,
+    "to": 322.46,
+    "sid": 182,
+    "location": 2,
+    "content": "在店里收银",
+    "music": 0.0
+  },
+  {
+    "from": 322.46,
+    "to": 325.39,
+    "sid": 183,
+    "location": 2,
+    "content": "泰钱较短的队伍掩盖了咖啡机旁的等待",
+    "music": 0.0
+  },
+  {
+    "from": 325.39,
+    "to": 327.47,
+    "sid": 184,
+    "location": 2,
+    "content": "而未回复的消息告诉你的",
+    "music": 0.0
+  },
+  {
+    "from": 327.47,
+    "to": 328.57,
+    "sid": 185,
+    "location": 2,
+    "content": "关于对方的信息",
+    "music": 0.0
+  },
+  {
+    "from": 328.57,
+    "to": 330.81,
+    "sid": 186,
+    "location": 2,
+    "content": "还不如你的第一反应告诉你的多",
+    "music": 0.0
+  },
+  {
+    "from": 330.81,
+    "to": 331.79,
+    "sid": 187,
+    "location": 2,
+    "content": "同样的错误",
+    "music": 0.0
+  },
+  {
+    "from": 331.79,
+    "to": 332.87,
+    "sid": 188,
+    "location": 2,
+    "content": "三种规模",
+    "music": 0.0
+  },
+  {
+    "from": 332.87,
+    "to": 334.23,
+    "sid": 189,
+    "location": 2,
+    "content": "你看到了一部分证据",
+    "music": 0.0
+  },
+  {
+    "from": 334.23,
+    "to": 335.59,
+    "sid": 190,
+    "location": 2,
+    "content": "就构建出一个解释",
+    "music": 0.0
+  },
+  {
+    "from": 335.59,
+    "to": 337.05,
+    "sid": 191,
+    "location": 2,
+    "content": "还像已经验证过一样",
+    "music": 0.0
+  },
+  {
+    "from": 337.05,
+    "to": 338.12,
+    "sid": 192,
+    "location": 2,
+    "content": "照着他行动",
+    "music": 0.0
+  },
+  {
+    "from": 338.12,
+    "to": 340.7,
+    "sid": 193,
+    "location": 2,
+    "content": "王尔德并没有比将军们想的更用力",
+    "music": 0.0
+  },
+  {
+    "from": 340.7,
+    "to": 342.7,
+    "sid": 194,
+    "location": 2,
+    "content": "他只问了一个他们忽略的问题",
+    "music": 0.0
+  },
+  {
+    "from": 342.7,
+    "to": 345.07,
+    "sid": 195,
+    "location": 2,
+    "content": "这就是这里所说的少想的意思",
+    "music": 0.0
+  },
+  {
+    "from": 345.07,
+    "to": 346.67,
+    "sid": 196,
+    "location": 2,
+    "content": "少花时间维护猜测",
+    "music": 0.0
+  },
+  {
+    "from": 346.67,
+    "to": 348.39,
+    "sid": 197,
+    "location": 2,
+    "content": "多去做一件可以验证的事",
+    "music": 0.0
+  },
+  {
+    "from": 348.39,
+    "to": 350.659,
+    "sid": 198,
+    "location": 2,
+    "content": "那就挑一件你反复纠结的事儿",
+    "music": 0.0
+  },
+  {
+    "from": 350.659,
+    "to": 352.539,
+    "sid": 199,
+    "location": 2,
+    "content": "写下你知道发生了什么",
+    "music": 0.0
+  },
+  {
+    "from": 352.539,
+    "to": 354.779,
+    "sid": 200,
+    "location": 2,
+    "content": "写下你认为导致这件事的原因",
+    "music": 0.0
+  },
+  {
+    "from": 354.779,
+    "to": 356.88,
+    "sid": 201,
+    "location": 2,
+    "content": "然后选一件你可以验证的事儿",
+    "music": 0.0
+  },
+  {
+    "from": 356.88,
+    "to": 359.0,
+    "sid": 202,
+    "location": 2,
+    "content": "在你再花一个小时琢磨之前",
+    "music": 0.0
+  },
+  {
+    "from": 359.0,
+    "to": 360.18,
+    "sid": 203,
+    "location": 2,
+    "content": "先验证的一件事",
+    "music": 0.0
+  },
+  {
+    "from": 360.18,
+    "to": 361.38,
+    "sid": 204,
+    "location": 2,
+    "content": "但问题来了",
+    "music": 0.0
+  },
+  {
+    "from": 361.38,
+    "to": 363.48,
+    "sid": 205,
+    "location": 2,
+    "content": "清晰的思考只是成功的一半",
+    "music": 0.0
+  },
+  {
+    "from": 363.48,
+    "to": 365.7,
+    "sid": 206,
+    "location": 2,
+    "content": "他让你看到自己漏掉了什么",
+    "music": 0.0
+  },
+  {
+    "from": 365.7,
+    "to": 367.24,
+    "sid": 207,
+    "location": 2,
+    "content": "他不会把这个交给你",
+    "music": 0.0
+  },
+  {
+    "from": 367.24,
+    "to": 369.36,
+    "sid": 208,
+    "location": 2,
+    "content": "你可以完美的问出这三个问题",
+    "music": 0.0
+  },
+  {
+    "from": 369.36,
+    "to": 371.78,
+    "sid": 209,
+    "location": 2,
+    "content": "却仍然是房间里学的最慢的人",
+    "music": 0.0
+  },
+  {
+    "from": 371.78,
+    "to": 373.92,
+    "sid": 210,
+    "location": 2,
+    "content": "哈佛的学生比任何人都学得快",
+    "music": 0.0
+  },
+  {
+    "from": 373.92,
+    "to": 375.81,
+    "sid": 211,
+    "location": 2,
+    "content": "这并非因为他们更聪明",
+    "music": 0.0
+  },
+  {
+    "from": 375.81,
+    "to": 377.53,
+    "sid": 212,
+    "location": 2,
+    "content": "所以我才做了这期视频",
+    "music": 0.0
+  },
+  {
+    "from": 377.53,
+    "to": 378.87,
+    "sid": 213,
+    "location": 2,
+    "content": "把方法拆给你看",
+    "music": 0.0
+  },
+  {
+    "from": 378.87,
+    "to": 381.97,
+    "sid": 214,
+    "location": 2,
+    "content": "所以你现在看到的这些东西你也能学的很快",
+    "music": 0.0
+  },
+  {
+    "from": 381.97,
+    "to": 383.1,
+    "sid": 215,
+    "location": 2,
+    "content": "下期再看",
+    "music": 0.0
+  }
+]
