@@ -1,0 +1,721 @@
+{
+  "bvid": "BV1T3he6QEwd",
+  "title": "只需3个练习 掌握定位 微调的确认感",
+  "owner": "畅想tc",
+  "duration": 190,
+  "lan": "ai-zh",
+  "body": [
+    {
+      "from": 0.12,
+      "to": 0.68,
+      "sid": 1,
+      "location": 2,
+      "content": "同一个人",
+      "music": 0.0
+    },
+    {
+      "from": 0.68,
+      "to": 2.96,
+      "sid": 2,
+      "location": 2,
+      "content": "这是顿悟后的瞄准视角",
+      "music": 0.0
+    },
+    {
+      "from": 6.76,
+      "to": 8.74,
+      "sid": 3,
+      "location": 2,
+      "content": "这是动物前的瞄准视角",
+      "music": 0.0
+    },
+    {
+      "from": 8.74,
+      "to": 9.92,
+      "sid": 4,
+      "location": 2,
+      "content": "卡啦卡啦",
+      "music": 0.0
+    },
+    {
+      "from": 9.92,
+      "to": 12.91,
+      "sid": 5,
+      "location": 2,
+      "content": "好在瞄准难度基本相同的情况下",
+      "music": 0.0
+    },
+    {
+      "from": 12.91,
+      "to": 14.27,
+      "sid": 6,
+      "location": 2,
+      "content": "后者到底差在哪",
+      "music": 0.0
+    },
+    {
+      "from": 14.27,
+      "to": 14.67,
+      "sid": 7,
+      "location": 2,
+      "content": "很简单",
+      "music": 0.0
+    },
+    {
+      "from": 14.67,
+      "to": 15.11,
+      "sid": 8,
+      "location": 2,
+      "content": "一个字",
+      "music": 0.0
+    },
+    {
+      "from": 15.11,
+      "to": 16.11,
+      "sid": 9,
+      "location": 2,
+      "content": "瞄准无确认",
+      "music": 0.0
+    },
+    {
+      "from": 16.11,
+      "to": 17.71,
+      "sid": 10,
+      "location": 2,
+      "content": "欢迎到策划TC1对一教学",
+      "music": 0.0
+    },
+    {
+      "from": 17.71,
+      "to": 19.64,
+      "sid": 11,
+      "location": 2,
+      "content": "首先我们来解是什么",
+      "music": 0.0
+    },
+    {
+      "from": 19.64,
+      "to": 21.06,
+      "sid": 12,
+      "location": 2,
+      "content": "是准确的瞄准确认感",
+      "music": 0.0
+    },
+    {
+      "from": 21.06,
+      "to": 24.68,
+      "sid": 13,
+      "location": 2,
+      "content": "一般我们把准星拉到附近的过程叫做定位",
+      "music": 0.0
+    },
+    {
+      "from": 24.68,
+      "to": 26.82,
+      "sid": 14,
+      "location": 2,
+      "content": "定位有误差后在小范围的波动",
+      "music": 0.0
+    },
+    {
+      "from": 26.82,
+      "to": 27.92,
+      "sid": 15,
+      "location": 2,
+      "content": "准星叫做微调",
+      "music": 0.0
+    },
+    {
+      "from": 27.92,
+      "to": 29.54,
+      "sid": 16,
+      "location": 2,
+      "content": "而整个定位微调中",
+      "music": 0.0
+    },
+    {
+      "from": 29.54,
+      "to": 32.189,
+      "sid": 17,
+      "location": 2,
+      "content": "持续判断准星是否和头部重合",
+      "music": 0.0
+    },
+    {
+      "from": 32.189,
+      "to": 35.469,
+      "sid": 18,
+      "location": 2,
+      "content": "确认基本重合后开枪的过程就叫瞄准确认",
+      "music": 0.0
+    },
+    {
+      "from": 35.469,
+      "to": 37.149,
+      "sid": 19,
+      "location": 2,
+      "content": "所以在这里你应该发现",
+      "music": 0.0
+    },
+    {
+      "from": 37.149,
+      "to": 40.92,
+      "sid": 20,
+      "location": 2,
+      "content": "瞄准确认并不是只作用于定位或微调",
+      "music": 0.0
+    },
+    {
+      "from": 40.92,
+      "to": 44.2,
+      "sid": 21,
+      "location": 2,
+      "content": "而是辅助两者只不过是确认的内容有区别",
+      "music": 0.0
+    },
+    {
+      "from": 44.2,
+      "to": 45.64,
+      "sid": 22,
+      "location": 2,
+      "content": "定位中的确确认是",
+      "music": 0.0
+    },
+    {
+      "from": 45.64,
+      "to": 48.7,
+      "sid": 23,
+      "location": 2,
+      "content": "当我们用较快的拉枪速度定位敌方时",
+      "music": 0.0
+    },
+    {
+      "from": 48.7,
+      "to": 51.6,
+      "sid": 24,
+      "location": 2,
+      "content": "先确认准本身跟敌方头部的距离差多少",
+      "music": 0.0
+    },
+    {
+      "from": 51.6,
+      "to": 54.36,
+      "sid": 25,
+      "location": 2,
+      "content": "一旦较近则说明属于较低的瞄准难度",
+      "music": 0.0
+    },
+    {
+      "from": 54.36,
+      "to": 56.88,
+      "sid": 26,
+      "location": 2,
+      "content": "微调中的确认是在上一步之后",
+      "music": 0.0
+    },
+    {
+      "from": 56.88,
+      "to": 60.84,
+      "sid": 27,
+      "location": 2,
+      "content": "用更精准的拖动来确认准星和头部是否重合",
+      "music": 0.0
+    },
+    {
+      "from": 60.84,
+      "to": 63.08,
+      "sid": 28,
+      "location": 2,
+      "content": "抓住重合的时机执行开枪操作",
+      "music": 0.0
+    },
+    {
+      "from": 63.08,
+      "to": 65.32,
+      "sid": 29,
+      "location": 2,
+      "content": "大家熟知的高分主播职业",
+      "music": 0.0
+    },
+    {
+      "from": 65.32,
+      "to": 68.92,
+      "sid": 30,
+      "location": 2,
+      "content": "因为手念的确认感就会把过程压缩到极致",
+      "music": 0.0
+    },
+    {
+      "from": 68.92,
+      "to": 70.54,
+      "sid": 31,
+      "location": 2,
+      "content": "所以瞄准就会很快",
+      "music": 0.0
+    },
+    {
+      "from": 70.54,
+      "to": 72.66,
+      "sid": 32,
+      "location": 2,
+      "content": "但很多正常玩家为了快",
+      "music": 0.0
+    },
+    {
+      "from": 72.66,
+      "to": 74.58,
+      "sid": 33,
+      "location": 2,
+      "content": "会下意识跳过确认的过程",
+      "music": 0.0
+    },
+    {
+      "from": 74.58,
+      "to": 76.68,
+      "sid": 34,
+      "location": 2,
+      "content": "也就是看到人就是开枪",
+      "music": 0.0
+    },
+    {
+      "from": 76.68,
+      "to": 78.02,
+      "sid": 35,
+      "location": 2,
+      "content": "没有看准镜的位置",
+      "music": 0.0
+    },
+    {
+      "from": 78.02,
+      "to": 81.28,
+      "sid": 36,
+      "location": 2,
+      "content": "这也是为什么总能看到两个人互相摆设",
+      "music": 0.0
+    },
+    {
+      "from": 81.28,
+      "to": 83.94,
+      "sid": 37,
+      "location": 2,
+      "content": "但是都打不动的情况就是没有确认",
+      "music": 0.0
+    },
+    {
+      "from": 83.94,
+      "to": 85.18,
+      "sid": 38,
+      "location": 2,
+      "content": "所以针对这种情况",
+      "music": 0.0
+    },
+    {
+      "from": 85.18,
+      "to": 87.94,
+      "sid": 39,
+      "location": 2,
+      "content": "给大家一套从定位到微调的综合性练习",
+      "music": 0.0
+    },
+    {
+      "from": 87.94,
+      "to": 88.86,
+      "sid": 40,
+      "location": 2,
+      "content": "每天18分钟",
+      "music": 0.0
+    },
+    {
+      "from": 88.86,
+      "to": 91.76,
+      "sid": 41,
+      "location": 2,
+      "content": "一周就能获得超凡级的震感",
+      "music": 0.0
+    },
+    {
+      "from": 91.76,
+      "to": 93.36,
+      "sid": 42,
+      "location": 2,
+      "content": "首先是赌定位训练",
+      "music": 0.0
+    },
+    {
+      "from": 93.36,
+      "to": 95.1,
+      "sid": 43,
+      "location": 2,
+      "content": "把机器人的数量调成五",
+      "music": 0.0
+    },
+    {
+      "from": 95.1,
+      "to": 97.62,
+      "sid": 44,
+      "location": 2,
+      "content": "用截风的凌空技能来到房梁",
+      "music": 0.0
+    },
+    {
+      "from": 97.62,
+      "to": 99.34,
+      "sid": 45,
+      "location": 2,
+      "content": "把boss的头部都当做小球",
+      "music": 0.0
+    },
+    {
+      "from": 99.34,
+      "to": 100.94,
+      "sid": 46,
+      "location": 2,
+      "content": "眼睛聚焦小球的同时",
+      "music": 0.0
+    },
+    {
+      "from": 100.94,
+      "to": 103.78,
+      "sid": 47,
+      "location": 2,
+      "content": "只用最精准的一发飞镖带确认感激打",
+      "music": 0.0
+    },
+    {
+      "from": 103.78,
+      "to": 104.94,
+      "sid": 48,
+      "location": 2,
+      "content": "每击打一个boss后",
+      "music": 0.0
+    },
+    {
+      "from": 104.94,
+      "to": 105.98,
+      "sid": 49,
+      "location": 2,
+      "content": "眼睛快速聚焦",
+      "music": 0.0
+    },
+    {
+      "from": 105.98,
+      "to": 108.66,
+      "sid": 50,
+      "location": 2,
+      "content": "下一个确保手眼协调进行瞄准",
+      "music": 0.0
+    },
+    {
+      "from": 108.66,
+      "to": 111.22,
+      "sid": 51,
+      "location": 2,
+      "content": "这一步需保证8分钟的练习时长",
+      "music": 0.0
+    },
+    {
+      "from": 111.22,
+      "to": 113.44,
+      "sid": 52,
+      "location": 2,
+      "content": "如果你游戏时长超过220个小时",
+      "music": 0.0
+    },
+    {
+      "from": 113.44,
+      "to": 115.62,
+      "sid": 53,
+      "location": 2,
+      "content": "却仍挣扎在较低分段上场",
+      "music": 0.0
+    },
+    {
+      "from": 115.62,
+      "to": 118.1,
+      "sid": 54,
+      "location": 2,
+      "content": "DC拥有由VR认证的职业选手及教练",
+      "music": 0.0
+    },
+    {
+      "from": 118.1,
+      "to": 119.22,
+      "sid": 55,
+      "location": 2,
+      "content": "组成的专业团队",
+      "music": 0.0
+    },
+    {
+      "from": 119.22,
+      "to": 121.44,
+      "sid": 56,
+      "location": 2,
+      "content": "以帮助上万名学员取得段位提升",
+      "music": 0.0
+    },
+    {
+      "from": 121.44,
+      "to": 124.26,
+      "sid": 57,
+      "location": 2,
+      "content": "我们将为您提供一对一定制化训练与指导",
+      "music": 0.0
+    },
+    {
+      "from": 124.26,
+      "to": 126.46,
+      "sid": 58,
+      "location": 2,
+      "content": "祝你快速达到理想段位",
+      "music": 0.0
+    },
+    {
+      "from": 126.46,
+      "to": 128.44,
+      "sid": 59,
+      "location": 2,
+      "content": "其次是主微调确认训练",
+      "music": 0.0
+    },
+    {
+      "from": 128.44,
+      "to": 129.58,
+      "sid": 60,
+      "location": 2,
+      "content": "来到这个斜坡上",
+      "music": 0.0
+    },
+    {
+      "from": 129.58,
+      "to": 130.18,
+      "sid": 61,
+      "location": 2,
+      "content": "左右摆设",
+      "music": 0.0
+    },
+    {
+      "from": 130.18,
+      "to": 132.48,
+      "sid": 62,
+      "location": 2,
+      "content": "因为斜坡会导致你的准心上下移动",
+      "music": 0.0
+    },
+    {
+      "from": 132.48,
+      "to": 133.56,
+      "sid": 63,
+      "location": 2,
+      "content": "那想要打boss",
+      "music": 0.0
+    },
+    {
+      "from": 133.56,
+      "to": 136.7,
+      "sid": 64,
+      "location": 2,
+      "content": "就必须强制在开枪前都必须进行微调",
+      "music": 0.0
+    },
+    {
+      "from": 136.7,
+      "to": 140.62,
+      "sid": 65,
+      "location": 2,
+      "content": "每天8分钟很快就会养成时刻微调确认习惯",
+      "music": 0.0
+    },
+    {
+      "from": 140.62,
+      "to": 142.62,
+      "sid": 66,
+      "location": 2,
+      "content": "最后则是综合性确认练习",
+      "music": 0.0
+    },
+    {
+      "from": 142.62,
+      "to": 144.86,
+      "sid": 67,
+      "location": 2,
+      "content": "在这一步你需要进行侧面100bot",
+      "music": 0.0
+    },
+    {
+      "from": 144.86,
+      "to": 147.28,
+      "sid": 68,
+      "location": 2,
+      "content": "在靶场左侧和右侧各进行两次",
+      "music": 0.0
+    },
+    {
+      "from": 147.28,
+      "to": 149.58,
+      "sid": 69,
+      "location": 2,
+      "content": "把训练一二串联起来",
+      "music": 0.0
+    },
+    {
+      "from": 149.58,
+      "to": 152.52,
+      "sid": 70,
+      "location": 2,
+      "content": "也就是先用较快的速度定位到bot附近",
+      "music": 0.0
+    },
+    {
+      "from": 152.52,
+      "to": 153.66,
+      "sid": 71,
+      "location": 2,
+      "content": "再精确微调",
+      "music": 0.0
+    },
+    {
+      "from": 153.66,
+      "to": 156.44,
+      "sid": 72,
+      "location": 2,
+      "content": "确保100个中90个都是爆头",
+      "music": 0.0
+    },
+    {
+      "from": 156.44,
+      "to": 157.44,
+      "sid": 73,
+      "location": 2,
+      "content": "一次击杀即可",
+      "music": 0.0
+    },
+    {
+      "from": 157.44,
+      "to": 158.28,
+      "sid": 74,
+      "location": 2,
+      "content": "一开始要慢",
+      "music": 0.0
+    },
+    {
+      "from": 158.28,
+      "to": 159.36,
+      "sid": 75,
+      "location": 2,
+      "content": "先保证精准度",
+      "music": 0.0
+    },
+    {
+      "from": 159.36,
+      "to": 160.72,
+      "sid": 76,
+      "location": 2,
+      "content": "熟练之后再慢慢加快",
+      "music": 0.0
+    },
+    {
+      "from": 160.72,
+      "to": 163.0,
+      "sid": 77,
+      "location": 2,
+      "content": "这是我给大家做的瞄准水平参考",
+      "music": 0.0
+    },
+    {
+      "from": 163.0,
+      "to": 164.38,
+      "sid": 78,
+      "location": 2,
+      "content": "大家可以通过该表",
+      "music": 0.0
+    },
+    {
+      "from": 164.38,
+      "to": 167.56,
+      "sid": 79,
+      "location": 2,
+      "content": "直观看出自己距离梦想段位的纯瞄准水平",
+      "music": 0.0
+    },
+    {
+      "from": 167.56,
+      "to": 168.5,
+      "sid": 80,
+      "location": 2,
+      "content": "还差多少",
+      "music": 0.0
+    },
+    {
+      "from": 168.5,
+      "to": 169.84,
+      "sid": 81,
+      "location": 2,
+      "content": "最后再讲一个重点",
+      "music": 0.0
+    },
+    {
+      "from": 169.84,
+      "to": 172.58,
+      "sid": 82,
+      "location": 2,
+      "content": "所有练习在一开始要求速度",
+      "music": 0.0
+    },
+    {
+      "from": 172.58,
+      "to": 174.3,
+      "sid": 83,
+      "location": 2,
+      "content": "侧面100打200秒都没事",
+      "music": 0.0
+    },
+    {
+      "from": 174.3,
+      "to": 177.16,
+      "sid": 84,
+      "location": 2,
+      "content": "你要的一定是确认的感觉",
+      "music": 0.0
+    },
+    {
+      "from": 177.16,
+      "to": 178.7,
+      "sid": 85,
+      "location": 2,
+      "content": "改掉错误的甩枪习惯",
+      "music": 0.0
+    },
+    {
+      "from": 178.7,
+      "to": 181.32,
+      "sid": 86,
+      "location": 2,
+      "content": "只有把这种有一有二的瞄准习惯",
+      "music": 0.0
+    },
+    {
+      "from": 181.32,
+      "to": 182.74,
+      "sid": 87,
+      "location": 2,
+      "content": "持续带入每一次击杀",
+      "music": 0.0
+    },
+    {
+      "from": 182.74,
+      "to": 185.74,
+      "sid": 88,
+      "location": 2,
+      "content": "才能真正做到高质量且稳定的进步",
+      "music": 0.0
+    },
+    {
+      "from": 185.74,
+      "to": 188.88,
+      "sid": 89,
+      "location": 2,
+      "content": "那么你的段位是一定会有巨大的提升的",
+      "music": 0.0
+    }
+  ]
+}

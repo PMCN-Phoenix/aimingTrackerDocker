@@ -1,0 +1,1681 @@
+{
+  "bvid": "BV1pQuN6LEwd",
+  "title": "手腕流还是手臂流？用一个训练找准你的有效瞄准范围",
+  "owner": "Aimlabs",
+  "duration": 533,
+  "lan": "ai-zh",
+  "body": [
+    {
+      "content": "你好",
+      "from": 0.04,
+      "location": 2,
+      "music": 0.0,
+      "sid": 1,
+      "to": 0.34
+    },
+    {
+      "content": "我是你的FPS教练",
+      "from": 0.34,
+      "location": 2,
+      "music": 0.0,
+      "sid": 2,
+      "to": 1.44
+    },
+    {
+      "content": "罗恩·兰博·金",
+      "from": 1.44,
+      "location": 2,
+      "music": 0.0,
+      "sid": 3,
+      "to": 2.36
+    },
+    {
+      "content": "在这段视频中",
+      "from": 2.36,
+      "location": 2,
+      "music": 0.0,
+      "sid": 4,
+      "to": 3.18
+    },
+    {
+      "content": "这是一个基础技能，我认为你应该掌握",
+      "from": 10.19,
+      "location": 2,
+      "music": 0.0,
+      "sid": 5,
+      "to": 12.91
+    },
+    {
+      "content": "无论你的技能水平或玩的是什么FPS游戏",
+      "from": 12.91,
+      "location": 2,
+      "music": 0.0,
+      "sid": 6,
+      "to": 15.77
+    },
+    {
+      "content": "如果你进行这项训练",
+      "from": 15.77,
+      "location": 2,
+      "music": 0.0,
+      "sid": 7,
+      "to": 16.91
+    },
+    {
+      "content": "我保证能帮助你提升稳定性",
+      "from": 16.91,
+      "location": 2,
+      "music": 0.0,
+      "sid": 8,
+      "to": 18.85
+    },
+    {
+      "content": "甚至能帮你找到并优化灵敏度",
+      "from": 18.85,
+      "location": 2,
+      "music": 0.0,
+      "sid": 9,
+      "to": 21.76
+    },
+    {
+      "content": "并变得更加精准，命中更多头部",
+      "from": 21.76,
+      "location": 2,
+      "music": 0.0,
+      "sid": 10,
+      "to": 24.2
+    },
+    {
+      "content": "所以不多说了",
+      "from": 24.2,
+      "location": 2,
+      "music": 0.0,
+      "sid": 11,
+      "to": 25.48
+    },
+    {
+      "content": "让我打开Aim Lab",
+      "from": 25.48,
+      "location": 2,
+      "music": 0.0,
+      "sid": 12,
+      "to": 27.14
+    },
+    {
+      "content": "然后我会展示如何访问并引导你",
+      "from": 27.14,
+      "location": 2,
+      "music": 0.0,
+      "sid": 13,
+      "to": 29.2
+    },
+    {
+      "content": "如何正确进行这项训练",
+      "from": 29.2,
+      "location": 2,
+      "music": 0.0,
+      "sid": 14,
+      "to": 31.54
+    },
+    {
+      "content": "打开Aim Lab后",
+      "from": 31.54,
+      "location": 2,
+      "music": 0.0,
+      "sid": 15,
+      "to": 33.52
+    },
+    {
+      "content": "前往顶部菜单的Custom选项，然后Workshop，接着在场景中",
+      "from": 33.52,
+      "location": 2,
+      "music": 0.0,
+      "sid": 16,
+      "to": 38.71
+    },
+    {
+      "content": "我们搜索Pivot Point Training",
+      "from": 38.71,
+      "location": 2,
+      "music": 0.0,
+      "sid": 17,
+      "to": 41.29
+    },
+    {
+      "content": "这里会显示任务Pivot Point Training",
+      "from": 41.29,
+      "location": 2,
+      "music": 0.0,
+      "sid": 18,
+      "to": 44.47
+    },
+    {
+      "content": "如我之前所说，这里有四个不同训练区域在四个角落",
+      "from": 44.47,
+      "location": 2,
+      "music": 0.0,
+      "sid": 19,
+      "to": 47.83
+    },
+    {
+      "content": "你会看到墙上的数字，表示距离",
+      "from": 47.83,
+      "location": 2,
+      "music": 0.0,
+      "sid": 20,
+      "to": 51.19
+    },
+    {
+      "content": "所以你可以训练",
+      "from": 51.19,
+      "location": 2,
+      "music": 0.0,
+      "sid": 21,
+      "to": 52.47
+    },
+    {
+      "content": "通过判断这些线条的距离来确定与墙的距离",
+      "from": 52.47,
+      "location": 2,
+      "music": 0.0,
+      "sid": 22,
+      "to": 57.57
+    },
+    {
+      "content": "好的",
+      "from": 57.57,
+      "location": 2,
+      "music": 0.0,
+      "sid": 23,
+      "to": 57.87
+    },
+    {
+      "content": "首先我们需要确定最大灵敏度范围",
+      "from": 57.87,
+      "location": 2,
+      "music": 0.0,
+      "sid": 24,
+      "to": 64.21
+    },
+    {
+      "content": "当手腕向左右弯曲时",
+      "from": 64.21,
+      "location": 2,
+      "music": 0.0,
+      "sid": 25,
+      "to": 66.59
+    },
+    {
+      "content": "例如",
+      "from": 66.59,
+      "location": 2,
+      "music": 0.0,
+      "sid": 26,
+      "to": 67.41
+    },
+    {
+      "content": "如果我以这里八号位置为中心，对准中间点",
+      "from": 67.41,
+      "location": 2,
+      "music": 0.0,
+      "sid": 27,
+      "to": 71.91
+    },
+    {
+      "content": "我要射击这个中间点，甚至在开枪前",
+      "from": 71.91,
+      "location": 2,
+      "music": 0.0,
+      "sid": 28,
+      "to": 75.87
+    },
+    {
+      "content": "只需观察从中心点移动时准星能移动多远",
+      "from": 75.87,
+      "location": 2,
+      "music": 0.0,
+      "sid": 29,
+      "to": 81.44
+    },
+    {
+      "content": "手腕处于中立位置",
+      "from": 81.44,
+      "location": 2,
+      "music": 0.0,
+      "sid": 30,
+      "to": 83.62
+    },
+    {
+      "content": "然后将手腕向右最大弯曲再回到中立",
+      "from": 83.62,
+      "location": 2,
+      "music": 0.0,
+      "sid": 31,
+      "to": 88.34
+    },
+    {
+      "content": "接着向左弯曲手腕",
+      "from": 88.34,
+      "location": 2,
+      "music": 0.0,
+      "sid": 32,
+      "to": 90.2
+    },
+    {
+      "content": "你会看到准星移动的距离",
+      "from": 90.2,
+      "location": 2,
+      "music": 0.0,
+      "sid": 33,
+      "to": 92.19
+    },
+    {
+      "content": "根据我的灵敏度",
+      "from": 92.19,
+      "location": 2,
+      "music": 0.0,
+      "sid": 34,
+      "to": 93.91
+    },
+    {
+      "content": "可以看到我稍微超出了这些线条",
+      "from": 93.91,
+      "location": 2,
+      "music": 0.0,
+      "sid": 35,
+      "to": 97.23
+    },
+    {
+      "content": "所以我需要稍微后退一点",
+      "from": 97.23,
+      "location": 2,
+      "music": 0.0,
+      "sid": 36,
+      "to": 99.87
+    },
+    {
+      "content": "现在要确保手腕左右弯曲时",
+      "from": 99.87,
+      "location": 2,
+      "music": 0.0,
+      "sid": 37,
+      "to": 104.05
+    },
+    {
+      "content": "正好击中该区域的边线",
+      "from": 104.05,
+      "location": 2,
+      "music": 0.0,
+      "sid": 38,
+      "to": 107.35
+    },
+    {
+      "content": "如你所见",
+      "from": 107.35,
+      "location": 2,
+      "music": 0.0,
+      "sid": 39,
+      "to": 108.92
+    },
+    {
+      "content": "我有九到十号",
+      "from": 108.92,
+      "location": 2,
+      "music": 0.0,
+      "sid": 40,
+      "to": 111.54
+    },
+    {
+      "content": "快速展示我的设置",
+      "from": 111.54,
+      "location": 2,
+      "music": 0.0,
+      "sid": 41,
+      "to": 113.42
+    },
+    {
+      "content": "设置在CS",
+      "from": 113.42,
+      "location": 2,
+      "music": 0.0,
+      "sid": 42,
+      "to": 116.02
+    },
+    {
+      "content": "选择《CS:GO》",
+      "from": 116.02,
+      "location": 2,
+      "music": 0.0,
+      "sid": 43,
+      "to": 117.92
+    },
+    {
+      "content": "四DPI对应0.7灵敏度",
+      "from": 117.92,
+      "location": 2,
+      "music": 0.0,
+      "sid": 44,
+      "to": 120.4
+    },
+    {
+      "content": "五点五灵敏度",
+      "from": 120.4,
+      "location": 2,
+      "music": 0.0,
+      "sid": 45,
+      "to": 121.3
+    },
+    {
+      "content": "让你了解我的配置",
+      "from": 121.3,
+      "location": 2,
+      "music": 0.0,
+      "sid": 46,
+      "to": 123.08
+    },
+    {
+      "content": "对我而言",
+      "from": 123.08,
+      "location": 2,
+      "music": 0.0,
+      "sid": 47,
+      "to": 124.66
+    },
+    {
+      "content": "如果我要练习从中间点转向",
+      "from": 124.66,
+      "location": 2,
+      "music": 0.0,
+      "sid": 48,
+      "to": 127.88
+    },
+    {
+      "content": "对",
+      "from": 127.88,
+      "location": 2,
+      "music": 0.0,
+      "sid": 49,
+      "to": 128.24
+    },
+    {
+      "content": "所以如果你看向摄像头",
+      "from": 128.24,
+      "location": 2,
+      "music": 0.0,
+      "sid": 50,
+      "to": 129.66
+    },
+    {
+      "content": "我正在做的只是左右弯曲手腕",
+      "from": 129.66,
+      "location": 2,
+      "music": 0.0,
+      "sid": 51,
+      "to": 132.9
+    },
+    {
+      "content": "我只是在旋转",
+      "from": 132.9,
+      "location": 2,
+      "music": 0.0,
+      "sid": 52,
+      "to": 134.34
+    },
+    {
+      "content": "我没有移动手腕",
+      "from": 134.34,
+      "location": 2,
+      "music": 0.0,
+      "sid": 53,
+      "to": 136.61
+    },
+    {
+      "content": "所以这只是练习这个任务的两种方法",
+      "from": 136.61,
+      "location": 2,
+      "music": 0.0,
+      "sid": 54,
+      "to": 139.39
+    },
+    {
+      "content": "一种是手腕，另一种是前臂",
+      "from": 139.39,
+      "location": 2,
+      "music": 0.0,
+      "sid": 55,
+      "to": 141.29
+    },
+    {
+      "content": "稍后我会展示给你们看",
+      "from": 141.29,
+      "location": 2,
+      "music": 0.0,
+      "sid": 56,
+      "to": 142.49
+    },
+    {
+      "content": "此时手腕是固定的，我只是在旋转",
+      "from": 142.49,
+      "location": 2,
+      "music": 0.0,
+      "sid": 57,
+      "to": 146.0
+    },
+    {
+      "content": "我要射击中间的目标",
+      "from": 146.0,
+      "location": 2,
+      "music": 0.0,
+      "sid": 58,
+      "to": 147.38
+    },
+    {
+      "content": "然后你会看到目标随机生成",
+      "from": 147.38,
+      "location": 2,
+      "music": 0.0,
+      "sid": 59,
+      "to": 150.08
+    },
+    {
+      "content": "在左右两侧的某个位置",
+      "from": 150.08,
+      "location": 2,
+      "music": 0.0,
+      "sid": 60,
+      "to": 151.97
+    },
+    {
+      "content": "我想让你们练习的一种方法",
+      "from": 151.97,
+      "location": 2,
+      "music": 0.0,
+      "sid": 61,
+      "to": 153.69
+    },
+    {
+      "content": "当你射击目标时",
+      "from": 153.69,
+      "location": 2,
+      "music": 0.0,
+      "sid": 62,
+      "to": 156.25
+    },
+    {
+      "content": "然后反应并射击目标",
+      "from": 156.25,
+      "location": 2,
+      "music": 0.0,
+      "sid": 63,
+      "to": 158.49
+    },
+    {
+      "content": "我之前做的一点",
+      "from": 158.49,
+      "location": 2,
+      "music": 0.0,
+      "sid": 64,
+      "to": 159.85
+    },
+    {
+      "content": "我有点抢在前面射击",
+      "from": 159.85,
+      "location": 2,
+      "music": 0.0,
+      "sid": 65,
+      "to": 162.2
+    },
+    {
+      "content": "在我实际视觉确认目标生成方向前就移动了",
+      "from": 162.2,
+      "location": 2,
+      "music": 0.0,
+      "sid": 66,
+      "to": 166.47
+    },
+    {
+      "content": "你可以看到点击中心目标",
+      "from": 166.47,
+      "location": 2,
+      "music": 0.0,
+      "sid": 67,
+      "to": 169.23
+    },
+    {
+      "content": "快速甩动并左右最大限度弯曲手腕",
+      "from": 169.23,
+      "location": 2,
+      "music": 0.0,
+      "sid": 68,
+      "to": 173.48
+    },
+    {
+      "content": "我需要提醒你们一点",
+      "from": 173.48,
+      "location": 2,
+      "music": 0.0,
+      "sid": 69,
+      "to": 175.02
+    },
+    {
+      "content": "不要一直将手腕完全向右压",
+      "from": 175.02,
+      "location": 2,
+      "music": 0.0,
+      "sid": 70,
+      "to": 180.54
+    },
+    {
+      "content": "持续这样",
+      "from": 180.54,
+      "location": 2,
+      "music": 0.0,
+      "sid": 71,
+      "to": 181.36
+    },
+    {
+      "content": "好的",
+      "from": 181.36,
+      "location": 2,
+      "music": 0.0,
+      "sid": 72,
+      "to": 181.82
+    },
+    {
+      "content": "所以要给自己留一点活动空间",
+      "from": 181.82,
+      "location": 2,
+      "music": 0.0,
+      "sid": 73,
+      "to": 183.92
+    },
+    {
+      "content": "如果你这样做",
+      "from": 183.92,
+      "location": 2,
+      "music": 0.0,
+      "sid": 74,
+      "to": 184.68
+    },
+    {
+      "content": "肯定会导致前臂紧张",
+      "from": 184.68,
+      "location": 2,
+      "music": 0.0,
+      "sid": 75,
+      "to": 187.66
+    },
+    {
+      "content": "这能帮助你意识到",
+      "from": 187.66,
+      "location": 2,
+      "music": 0.0,
+      "sid": 76,
+      "to": 189.48
+    },
+    {
+      "content": "我的准星左右偏移的可能性或能力",
+      "from": 189.48,
+      "location": 2,
+      "music": 0.0,
+      "sid": 77,
+      "to": 193.18
+    },
+    {
+      "content": "当手腕左右弯曲时",
+      "from": 193.18,
+      "location": 2,
+      "music": 0.0,
+      "sid": 78,
+      "to": 194.63
+    },
+    {
+      "content": "但你不希望离墙太近",
+      "from": 194.63,
+      "location": 2,
+      "music": 0.0,
+      "sid": 79,
+      "to": 198.7
+    },
+    {
+      "content": "导致完全向右压",
+      "from": 198.7,
+      "location": 2,
+      "music": 0.0,
+      "sid": 80,
+      "to": 200.62
+    },
+    {
+      "content": "你会感到这种紧张",
+      "from": 200.62,
+      "location": 2,
+      "music": 0.0,
+      "sid": 81,
+      "to": 201.74
+    },
+    {
+      "content": "给自己留一点空间",
+      "from": 201.74,
+      "location": 2,
+      "music": 0.0,
+      "sid": 82,
+      "to": 203.66
+    },
+    {
+      "content": "你可以这样做",
+      "from": 203.66,
+      "location": 2,
+      "music": 0.0,
+      "sid": 83,
+      "to": 204.46
+    },
+    {
+      "content": "就是稍微后退一点",
+      "from": 204.46,
+      "location": 2,
+      "music": 0.0,
+      "sid": 84,
+      "to": 206.08
+    },
+    {
+      "content": "现在技术上",
+      "from": 206.08,
+      "location": 2,
+      "music": 0.0,
+      "sid": 85,
+      "to": 206.98
+    },
+    {
+      "content": "如果我最大限度向左弯曲手腕",
+      "from": 206.98,
+      "location": 2,
+      "music": 0.0,
+      "sid": 86,
+      "to": 209.14
+    },
+    {
+      "content": "会超出范围",
+      "from": 209.14,
+      "location": 2,
+      "music": 0.0,
+      "sid": 87,
+      "to": 210.5
+    },
+    {
+      "content": "所以给自己留一点余量避免紧张",
+      "from": 210.5,
+      "location": 2,
+      "music": 0.0,
+      "sid": 88,
+      "to": 214.24
+    },
+    {
+      "content": "这是很好的学习方法",
+      "from": 214.24,
+      "location": 2,
+      "music": 0.0,
+      "sid": 89,
+      "to": 216.3
+    },
+    {
+      "content": "你知道我的准星在x轴上的移动范围",
+      "from": 216.3,
+      "location": 2,
+      "music": 0.0,
+      "sid": 90,
+      "to": 219.92
+    },
+    {
+      "content": "当手腕左右弯曲时",
+      "from": 219.92,
+      "location": 2,
+      "music": 0.0,
+      "sid": 91,
+      "to": 221.92
+    },
+    {
+      "content": "然后可以练习不同范围",
+      "from": 221.92,
+      "location": 2,
+      "music": 0.0,
+      "sid": 92,
+      "to": 224.12
+    },
+    {
+      "content": "比如",
+      "from": 224.12,
+      "location": 2,
+      "music": 0.0,
+      "sid": 93,
+      "to": 224.4
+    },
+    {
+      "content": "如果你想提高灵敏度",
+      "from": 224.4,
+      "location": 2,
+      "music": 0.0,
+      "sid": 94,
+      "to": 226.76
+    },
+    {
+      "content": "比如我有一个超高灵敏度墙",
+      "from": 226.76,
+      "location": 2,
+      "music": 0.0,
+      "sid": 95,
+      "to": 229.71
+    },
+    {
+      "content": "我可以更大幅度左右弯曲手腕",
+      "from": 229.71,
+      "location": 2,
+      "music": 0.0,
+      "sid": 96,
+      "to": 233.63
+    },
+    {
+      "content": "可以自行实验",
+      "from": 233.63,
+      "location": 2,
+      "music": 0.0,
+      "sid": 97,
+      "to": 235.62
+    },
+    {
+      "content": "这样你始终清楚",
+      "from": 235.62,
+      "location": 2,
+      "music": 0.0,
+      "sid": 98,
+      "to": 237.38
+    },
+    {
+      "content": "好的",
+      "from": 237.38,
+      "location": 2,
+      "music": 0.0,
+      "sid": 99,
+      "to": 237.52
+    },
+    {
+      "content": "如果我左右摆动手腕",
+      "from": 237.52,
+      "location": 2,
+      "music": 0.0,
+      "sid": 100,
+      "to": 239.12
+    },
+    {
+      "content": "它总是会瞄准这个角度",
+      "from": 239.12,
+      "location": 2,
+      "music": 0.0,
+      "sid": 101,
+      "to": 240.84
+    },
+    {
+      "content": "然后你会有一个工作区域",
+      "from": 240.84,
+      "location": 2,
+      "music": 0.0,
+      "sid": 102,
+      "to": 243.81
+    },
+    {
+      "content": "或者你会有一个这样的锥形范围，你总能在这个范围内不精准地瞄准",
+      "from": 243.81,
+      "location": 2,
+      "music": 0.0,
+      "sid": 103,
+      "to": 248.11
+    },
+    {
+      "content": "所以",
+      "from": 248.11,
+      "location": 2,
+      "music": 0.0,
+      "sid": 104,
+      "to": 248.47
+    },
+    {
+      "content": "在我们实验并熟练左右转动后",
+      "from": 248.47,
+      "location": 2,
+      "music": 0.0,
+      "sid": 105,
+      "to": 253.13
+    },
+    {
+      "content": "用我们的手腕",
+      "from": 253.13,
+      "location": 2,
+      "music": 0.0,
+      "sid": 106,
+      "to": 253.87
+    },
+    {
+      "content": "你可以用手臂做同样的动作",
+      "from": 253.87,
+      "location": 2,
+      "music": 0.0,
+      "sid": 107,
+      "to": 255.8
+    },
+    {
+      "content": "我的意思是，我们要固定锚点并转动",
+      "from": 255.8,
+      "location": 2,
+      "music": 0.0,
+      "sid": 108,
+      "to": 259.36
+    },
+    {
+      "content": "将前臂贴在桌面上",
+      "from": 259.36,
+      "location": 2,
+      "music": 0.0,
+      "sid": 109,
+      "to": 261.64
+    },
+    {
+      "content": "正如我的前臂交界处所示",
+      "from": 261.64,
+      "location": 2,
+      "music": 0.0,
+      "sid": 110,
+      "to": 263.909
+    },
+    {
+      "content": "现在我们可以练习了",
+      "from": 263.909,
+      "location": 2,
+      "music": 0.0,
+      "sid": 111,
+      "to": 265.269
+    },
+    {
+      "content": "如果你是手臂型",
+      "from": 265.269,
+      "location": 2,
+      "music": 0.0,
+      "sid": 112,
+      "to": 266.209
+    },
+    {
+      "content": "阿默",
+      "from": 266.209,
+      "location": 2,
+      "music": 0.0,
+      "sid": 113,
+      "to": 266.789
+    },
+    {
+      "content": "你可以从这个点转动并减少手腕动作",
+      "from": 266.789,
+      "location": 2,
+      "music": 0.0,
+      "sid": 114,
+      "to": 272.019
+    },
+    {
+      "content": "刚开始你应该尽量保持手腕僵直",
+      "from": 272.019,
+      "location": 2,
+      "music": 0.0,
+      "sid": 115,
+      "to": 276.63
+    },
+    {
+      "content": "所以不用手腕",
+      "from": 276.63,
+      "location": 2,
+      "music": 0.0,
+      "sid": 116,
+      "to": 277.55
+    },
+    {
+      "content": "只练习手臂转动",
+      "from": 277.55,
+      "location": 2,
+      "music": 0.0,
+      "sid": 117,
+      "to": 279.4
+    },
+    {
+      "content": "这是手臂型阿默",
+      "from": 279.4,
+      "location": 2,
+      "music": 0.0,
+      "sid": 118,
+      "to": 281.0
+    },
+    {
+      "content": "我来演示几个例子",
+      "from": 281.0,
+      "location": 2,
+      "music": 0.0,
+      "sid": 119,
+      "to": 283.36
+    },
+    {
+      "content": "现在我的手腕完全锁定",
+      "from": 283.47,
+      "location": 2,
+      "music": 0.0,
+      "sid": 120,
+      "to": 286.17
+    },
+    {
+      "content": "现在我从锚定点转动",
+      "from": 286.17,
+      "location": 2,
+      "music": 0.0,
+      "sid": 121,
+      "to": 289.25
+    },
+    {
+      "content": "从前臂在",
+      "from": 289.25,
+      "location": 2,
+      "music": 0.0,
+      "sid": 122,
+      "to": 291.57
+    },
+    {
+      "content": "呃",
+      "from": 291.57,
+      "location": 2,
+      "music": 0.0,
+      "sid": 123,
+      "to": 291.97
+    },
+    {
+      "content": "现在放在桌面上",
+      "from": 291.97,
+      "location": 2,
+      "music": 0.0,
+      "sid": 124,
+      "to": 293.03
+    },
+    {
+      "content": "如果我们适应了这一点",
+      "from": 293.03,
+      "location": 2,
+      "music": 0.0,
+      "sid": 125,
+      "to": 295.07
+    },
+    {
+      "content": "并确定了左右侧的弱点",
+      "from": 295.07,
+      "location": 2,
+      "music": 0.0,
+      "sid": 126,
+      "to": 299.21
+    },
+    {
+      "content": "可能需要调整的",
+      "from": 299.21,
+      "location": 2,
+      "music": 0.0,
+      "sid": 127,
+      "to": 302.43
+    },
+    {
+      "content": "可能是前臂位置和锚点",
+      "from": 302.43,
+      "location": 2,
+      "music": 0.0,
+      "sid": 128,
+      "to": 305.46
+    },
+    {
+      "content": "现在我们进入需要强化的区域",
+      "from": 305.46,
+      "location": 2,
+      "music": 0.0,
+      "sid": 129,
+      "to": 308.48
+    },
+    {
+      "content": "在有效瞄准范围内",
+      "from": 308.48,
+      "location": 2,
+      "music": 0.0,
+      "sid": 130,
+      "to": 310.0
+    },
+    {
+      "content": "所有工作区或我们的锥形范围",
+      "from": 310.0,
+      "location": 2,
+      "music": 0.0,
+      "sid": 131,
+      "to": 312.98
+    },
+    {
+      "content": "好的",
+      "from": 312.98,
+      "location": 2,
+      "music": 0.0,
+      "sid": 132,
+      "to": 313.28
+    },
+    {
+      "content": "之前我处于九点位置",
+      "from": 313.28,
+      "location": 2,
+      "music": 0.0,
+      "sid": 133,
+      "to": 316.84
+    },
+    {
+      "content": "五到十点",
+      "from": 316.84,
+      "location": 2,
+      "music": 0.0,
+      "sid": 134,
+      "to": 318.02
+    },
+    {
+      "content": "这是我的最大手腕范围",
+      "from": 318.02,
+      "location": 2,
+      "music": 0.0,
+      "sid": 135,
+      "to": 320.12
+    },
+    {
+      "content": "记住，接下来我们要做的是",
+      "from": 320.12,
+      "location": 2,
+      "music": 0.0,
+      "sid": 136,
+      "to": 321.86
+    },
+    {
+      "content": "现在只需练习在这个工作区内瞄准",
+      "from": 321.86,
+      "location": 2,
+      "music": 0.0,
+      "sid": 137,
+      "to": 326.01
+    },
+    {
+      "content": "同样的概念，当你看到下一个目标出现",
+      "from": 326.05,
+      "location": 2,
+      "music": 0.0,
+      "sid": 138,
+      "to": 329.67
+    },
+    {
+      "content": "然后反应并射击",
+      "from": 329.67,
+      "location": 2,
+      "music": 0.0,
+      "sid": 139,
+      "to": 331.83
+    },
+    {
+      "content": "所以不要射击",
+      "from": 331.83,
+      "location": 2,
+      "music": 0.0,
+      "sid": 140,
+      "to": 333.78
+    },
+    {
+      "content": "然后提前移动准星",
+      "from": 333.78,
+      "location": 2,
+      "music": 0.0,
+      "sid": 141,
+      "to": 335.24
+    },
+    {
+      "content": "我们现在要做的是快速精准的甩枪动作",
+      "from": 335.24,
+      "location": 2,
+      "music": 0.0,
+      "sid": 142,
+      "to": 337.44
+    },
+    {
+      "content": "并练习适应最大转动范围内的瞄准",
+      "from": 337.44,
+      "location": 2,
+      "music": 0.0,
+      "sid": 143,
+      "to": 341.25
+    },
+    {
+      "content": "好的",
+      "from": 341.25,
+      "location": 2,
+      "music": 0.0,
+      "sid": 144,
+      "to": 346.429
+    },
+    {
+      "content": "同样的概念，现在要切换到手臂",
+      "from": 346.429,
+      "location": 2,
+      "music": 0.0,
+      "sid": 145,
+      "to": 347.089
+    },
+    {
+      "content": "如果你是手臂型",
+      "from": 347.089,
+      "location": 2,
+      "music": 0.0,
+      "sid": 146,
+      "to": 349.529
+    },
+    {
+      "content": "阿默",
+      "from": 349.529,
+      "location": 2,
+      "music": 0.0,
+      "sid": 147,
+      "to": 350.429
+    },
+    {
+      "content": "阿默",
+      "from": 350.429,
+      "location": 2,
+      "music": 0.0,
+      "sid": 148,
+      "to": 351.5
+    },
+    {
+      "content": "接下来我们将进入xy轴部分",
+      "from": 351.78,
+      "location": 2,
+      "music": 0.0,
+      "sid": 149,
+      "to": 354.96
+    },
+    {
+      "content": "现在我们的左右摆动已经就位",
+      "from": 354.96,
+      "location": 2,
+      "music": 0.0,
+      "sid": 150,
+      "to": 358.67
+    },
+    {
+      "content": "x轴我们将结合垂直和水平移动",
+      "from": 358.67,
+      "location": 2,
+      "music": 0.0,
+      "sid": 151,
+      "to": 363.929
+    },
+    {
+      "content": "我们现在回到数值九点五的位置",
+      "from": 363.929,
+      "location": 2,
+      "music": 0.0,
+      "sid": 152,
+      "to": 366.92
+    },
+    {
+      "content": "左右距离保持相同",
+      "from": 366.92,
+      "location": 2,
+      "music": 0.0,
+      "sid": 153,
+      "to": 369.94
+    },
+    {
+      "content": "如果我向左右转动手腕",
+      "from": 369.94,
+      "location": 2,
+      "music": 0.0,
+      "sid": 154,
+      "to": 371.86
+    },
+    {
+      "content": "会碰到边缘",
+      "from": 371.86,
+      "location": 2,
+      "music": 0.0,
+      "sid": 155,
+      "to": 373.18
+    },
+    {
+      "content": "现在这将变得非常困难",
+      "from": 373.18,
+      "location": 2,
+      "music": 0.0,
+      "sid": 156,
+      "to": 375.48
+    },
+    {
+      "content": "因为我们需要在垂直轴上瞄准并结合x轴",
+      "from": 375.48,
+      "location": 2,
+      "music": 0.0,
+      "sid": 157,
+      "to": 381.3
+    },
+    {
+      "content": "任何时候需要垂直向上或向下瞄准",
+      "from": 381.3,
+      "location": 2,
+      "music": 0.0,
+      "sid": 158,
+      "to": 384.55
+    },
+    {
+      "content": "必须移动前臂和肘部靠近或远离身体",
+      "from": 384.55,
+      "location": 2,
+      "music": 0.0,
+      "sid": 159,
+      "to": 390.02
+    },
+    {
+      "content": "这很困难因为这是自然动作",
+      "from": 390.02,
+      "location": 2,
+      "music": 0.0,
+      "sid": 160,
+      "to": 393.76
+    },
+    {
+      "content": "左右摆动",
+      "from": 393.76,
+      "location": 2,
+      "music": 0.0,
+      "sid": 161,
+      "to": 395.29
+    },
+    {
+      "content": "但上下移动需要你",
+      "from": 395.29,
+      "location": 2,
+      "music": 0.0,
+      "sid": 162,
+      "to": 398.19
+    },
+    {
+      "content": "这里有很多动作",
+      "from": 398.19,
+      "location": 2,
+      "music": 0.0,
+      "sid": 163,
+      "to": 399.61
+    },
+    {
+      "content": "更多移动",
+      "from": 399.61,
+      "location": 2,
+      "music": 0.0,
+      "sid": 164,
+      "to": 400.55
+    },
+    {
+      "content": "同样概念我们将练习摆动和最大x轴",
+      "from": 400.55,
+      "location": 2,
+      "music": 0.0,
+      "sid": 165,
+      "to": 406.32
+    },
+    {
+      "content": "但现在加入垂直移动",
+      "from": 406.32,
+      "location": 2,
+      "music": 0.0,
+      "sid": 166,
+      "to": 408.32
+    },
+    {
+      "content": "同样概念这里有两种方法",
+      "from": 409.36,
+      "location": 2,
+      "music": 0.0,
+      "sid": 167,
+      "to": 412.14
+    },
+    {
+      "content": "你可以更多使用手腕",
+      "from": 412.14,
+      "location": 2,
+      "music": 0.0,
+      "sid": 168,
+      "to": 414.75
+    },
+    {
+      "content": "在移动前臂击中垂直位置时",
+      "from": 414.75,
+      "location": 2,
+      "music": 0.0,
+      "sid": 169,
+      "to": 418.26
+    },
+    {
+      "content": "可以弯曲手腕调整高度",
+      "from": 418.26,
+      "location": 2,
+      "music": 0.0,
+      "sid": 170,
+      "to": 421.28
+    },
+    {
+      "content": "第二种方法与之前相同只需保持稳定",
+      "from": 421.28,
+      "location": 2,
+      "music": 0.0,
+      "sid": 171,
+      "to": 425.54
+    },
+    {
+      "content": "这里我没有手腕动作",
+      "from": 425.54,
+      "location": 2,
+      "music": 0.0,
+      "sid": 172,
+      "to": 428.12
+    },
+    {
+      "content": "只是整体移动手臂",
+      "from": 428.12,
+      "location": 2,
+      "music": 0.0,
+      "sid": 173,
+      "to": 430.34
+    },
+    {
+      "content": "建议练习两种方式",
+      "from": 430.34,
+      "location": 2,
+      "music": 0.0,
+      "sid": 174,
+      "to": 432.86
+    },
+    {
+      "content": "以便适应手感并了解自身能力",
+      "from": 432.86,
+      "location": 2,
+      "music": 0.0,
+      "sid": 175,
+      "to": 437.16
+    },
+    {
+      "content": "找到更舒适的方式",
+      "from": 437.16,
+      "location": 2,
+      "music": 0.0,
+      "sid": 176,
+      "to": 439.52
+    },
+    {
+      "content": "对",
+      "from": 439.52,
+      "location": 2,
+      "music": 0.0,
+      "sid": 177,
+      "to": 440.12
+    },
+    {
+      "content": "这就是x轴部分",
+      "from": 440.12,
+      "location": 2,
+      "music": 0.0,
+      "sid": 178,
+      "to": 442.49
+    },
+    {
+      "content": "现在我们将进入另一个xy轴",
+      "from": 442.49,
+      "location": 2,
+      "music": 0.0,
+      "sid": 179,
+      "to": 445.25
+    },
+    {
+      "content": "相同概念设置到九点五",
+      "from": 445.25,
+      "location": 2,
+      "music": 0.0,
+      "sid": 180,
+      "to": 448.05
+    },
+    {
+      "content": "目标现在会在这个框内生成",
+      "from": 448.05,
+      "location": 2,
+      "music": 0.0,
+      "sid": 181,
+      "to": 452.26
+    },
+    {
+      "content": "就像那边的房间一样",
+      "from": 452.26,
+      "location": 2,
+      "music": 0.0,
+      "sid": 182,
+      "to": 454.1
+    },
+    {
+      "content": "我们将强化在摆动点范围内的瞄准",
+      "from": 454.1,
+      "location": 2,
+      "music": 0.0,
+      "sid": 183,
+      "to": 458.159
+    },
+    {
+      "content": "或摆动点区域",
+      "from": 458.159,
+      "location": 2,
+      "music": 0.0,
+      "sid": 184,
+      "to": 459.579
+    },
+    {
+      "content": "好了",
+      "from": 459.579,
+      "location": 2,
+      "music": 0.0,
+      "sid": 185,
+      "to": 460.139
+    },
+    {
+      "content": "如果你能掌握这个",
+      "from": 460.139,
+      "location": 2,
+      "music": 0.0,
+      "sid": 186,
+      "to": 461.599
+    },
+    {
+      "content": "并在摆动和工作区内精准瞄准",
+      "from": 461.599,
+      "location": 2,
+      "music": 0.0,
+      "sid": 187,
+      "to": 466.86
+    },
+    {
+      "content": "这里是90%战斗的发生区域",
+      "from": 466.86,
+      "location": 2,
+      "music": 0.0,
+      "sid": 188,
+      "to": 469.56
+    },
+    {
+      "content": "你会更稳定命中更多头部",
+      "from": 469.56,
+      "location": 2,
+      "music": 0.0,
+      "sid": 189,
+      "to": 472.45
+    },
+    {
+      "content": "并获得更多游戏控制",
+      "from": 472.45,
+      "location": 2,
+      "music": 0.0,
+      "sid": 190,
+      "to": 474.65
+    },
+    {
+      "content": "当然有时需要超出窗口瞄准",
+      "from": 474.65,
+      "location": 2,
+      "music": 0.0,
+      "sid": 191,
+      "to": 477.83
+    },
+    {
+      "content": "这取决于你的游戏风格",
+      "from": 477.83,
+      "location": 2,
+      "music": 0.0,
+      "sid": 192,
+      "to": 480.63
+    },
+    {
+      "content": "如果你是新手需要",
+      "from": 480.63,
+      "location": 2,
+      "music": 0.0,
+      "sid": 193,
+      "to": 484.37
+    },
+    {
+      "content": "你知道",
+      "from": 484.37,
+      "location": 2,
+      "music": 0.0,
+      "sid": 194,
+      "to": 484.97
+    },
+    {
+      "content": "快速清理交叉火力并需要大范围瞄准",
+      "from": 484.97,
+      "location": 2,
+      "music": 0.0,
+      "sid": 195,
+      "to": 490.51
+    },
+    {
+      "content": "显然需要更高灵敏度",
+      "from": 490.51,
+      "location": 2,
+      "music": 0.0,
+      "sid": 196,
+      "to": 492.549
+    },
+    {
+      "content": "如果你是狙击手或远距离玩家",
+      "from": 492.549,
+      "location": 2,
+      "music": 0.0,
+      "sid": 197,
+      "to": 495.109
+    },
+    {
+      "content": "喜欢慢速远距离作战",
+      "from": 495.109,
+      "location": 2,
+      "music": 0.0,
+      "sid": 198,
+      "to": 496.87
+    },
+    {
+      "content": "而你可能已经回到了第十五名",
+      "from": 496.87,
+      "location": 2,
+      "music": 0.0,
+      "sid": 199,
+      "to": 499.25
+    },
+    {
+      "content": "因为你的视野范围更小",
+      "from": 499.25,
+      "location": 2,
+      "music": 0.0,
+      "sid": 200,
+      "to": 501.31
+    },
+    {
+      "content": "所以你需要自己弄清楚",
+      "from": 501.31,
+      "location": 2,
+      "music": 0.0,
+      "sid": 201,
+      "to": 503.57
+    },
+    {
+      "content": "将你的灵敏度与操作区域或视野匹配",
+      "from": 503.57,
+      "location": 2,
+      "music": 0.0,
+      "sid": 202,
+      "to": 507.07
+    },
+    {
+      "content": "然后用这个任务来帮助你在其中精准定位",
+      "from": 507.07,
+      "location": 2,
+      "music": 0.0,
+      "sid": 203,
+      "to": 510.87
+    },
+    {
+      "content": "通过学习如何掌握并从轴心点进行瞄准，好吧",
+      "from": 510.87,
+      "location": 2,
+      "music": 0.0,
+      "sid": 204,
+      "to": 514.94
+    },
+    {
+      "content": "这就是本期视频的全部内容",
+      "from": 514.94,
+      "location": 2,
+      "music": 0.0,
+      "sid": 205,
+      "to": 515.88
+    },
+    {
+      "content": "感谢观看，希望这个任务",
+      "from": 515.88,
+      "location": 2,
+      "music": 0.0,
+      "sid": 206,
+      "to": 518.12
+    },
+    {
+      "content": "以及本期视频对你有帮助，如果你在游戏中有任何问题",
+      "from": 518.12,
+      "location": 2,
+      "music": 0.0,
+      "sid": 207,
+      "to": 521.02
+    },
+    {
+      "content": "请在下方评论区留言",
+      "from": 521.02,
+      "location": 2,
+      "music": 0.0,
+      "sid": 208,
+      "to": 522.82
+    },
+    {
+      "content": "如果觉得有帮助请点赞并订阅以获取最新动态",
+      "from": 522.82,
+      "location": 2,
+      "music": 0.0,
+      "sid": 209,
+      "to": 526.38
+    }
+  ]
+}
