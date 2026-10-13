@@ -1,0 +1,26 @@
+Reddit抓取统计 - 静步前压包带斜角架枪
+================================
+抓取时间: 2026-10-13
+关键词: 12个（VALORANT 5 + VALORANTCompetitive 4 + AgentAcademy 3）
+通道: Devvit菜单触发（通道A）
+
+帖子总数: 188
+评论总数: 825
+有评论的帖子: 183
+
+子版块分布:
+  r/ValorantCompetitive: 67篇
+  r/AgentAcademy: 66篇
+  r/VALORANT: 55篇
+
+Top 10 高赞帖子:
+  [14767分] The Current OP Meta is a Result of all of Valorant's Combined Flaws.
+  [10945分] If Your Sage Doesn't Res You, Screaming Into Your Mic Won't Help.
+  [9534分] The importance of crosshair placement, why you're doing it wrong, and 
+  [9253分] Viper Ascent B Site One Way Execute
+  [8832分] Why Reyna's Leer is the best non-ultimate ability in the game, and how
+  [8550分] A new (?) cheeky Sova dart spot on Split B Site for attacking/defendin
+  [7220分] Vision Cones are broken in this game, we need a fix
+  [6952分] New Split B Site Sage Off-Angle and One Way Walls Tutorial
+  [6755分] The best player i have ever played with was 5/18
+  [6104分] Common terminology - for people who didn't play CS
