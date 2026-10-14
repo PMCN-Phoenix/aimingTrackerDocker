@@ -1,0 +1,2522 @@
+[
+ {
+  "from": 0.04,
+  "to": 1.36,
+  "sid": 1,
+  "location": 2,
+  "content": "为什么大家总说无畏契约",
+  "music": 0.0
+ },
+ {
+  "from": 1.36,
+  "to": 2.72,
+  "sid": 2,
+  "location": 2,
+  "content": "是最让人感到焦虑的游戏",
+  "music": 0.0
+ },
+ {
+  "from": 2.72,
+  "to": 3.0,
+  "sid": 3,
+  "location": 2,
+  "content": "Hello",
+  "music": 0.0
+ },
+ {
+  "from": 3.0,
+  "to": 3.16,
+  "sid": 4,
+  "location": 2,
+  "content": "大家好",
+  "music": 0.0
+ },
+ {
+  "from": 3.16,
+  "to": 4.08,
+  "sid": 5,
+  "location": 2,
+  "content": "我叫疾风扳机",
+  "music": 0.0
+ },
+ {
+  "from": 4.08,
+  "to": 5.96,
+  "sid": 6,
+  "location": 2,
+  "content": "在开始之前依然先叠个甲本",
+  "music": 0.0
+ },
+ {
+  "from": 5.96,
+  "to": 6.96,
+  "sid": 7,
+  "location": 2,
+  "content": "守望先锋国服前50",
+  "music": 0.0
+ },
+ {
+  "from": 6.96,
+  "to": 9.36,
+  "sid": 8,
+  "location": 2,
+  "content": "apex底线猎杀手无畏切服能亚服前50",
+  "music": 0.0
+ },
+ {
+  "from": 9.36,
+  "to": 11.88,
+  "sid": 9,
+  "location": 2,
+  "content": "国服前20等多个游戏都上过顶峰段位",
+  "music": 0.0
+ },
+ {
+  "from": 11.88,
+  "to": 14.24,
+  "sid": 10,
+  "location": 2,
+  "content": "本期视频将带你用科学角度来解析",
+  "music": 0.0
+ },
+ {
+  "from": 14.24,
+  "to": 16.2,
+  "sid": 11,
+  "location": 2,
+  "content": "并解决你玩瓦机焦虑的问题",
+  "music": 0.0
+ },
+ {
+  "from": 16.2,
+  "to": 17.6,
+  "sid": 12,
+  "location": 2,
+  "content": "首先从弹道上来讲",
+  "music": 0.0
+ },
+ {
+  "from": 17.6,
+  "to": 19.36,
+  "sid": 13,
+  "location": 2,
+  "content": "无畏缺这个游戏弹道是随机的",
+  "music": 0.0
+ },
+ {
+  "from": 19.36,
+  "to": 20.68,
+  "sid": 14,
+  "location": 2,
+  "content": "前几发能够保持精准",
+  "music": 0.0
+ },
+ {
+  "from": 20.68,
+  "to": 22.36,
+  "sid": 15,
+  "location": 2,
+  "content": "但是一旦前几发没做到击杀",
+  "music": 0.0
+ },
+ {
+  "from": 22.36,
+  "to": 23.48,
+  "sid": 16,
+  "location": 2,
+  "content": "后面就纯靠运气了",
+  "music": 0.0
+ },
+ {
+  "from": 23.48,
+  "to": 26.07,
+  "sid": 17,
+  "location": 2,
+  "content": "但是这句话意思并不是说泼水就一定不好",
+  "music": 0.0
+ },
+ {
+  "from": 26.07,
+  "to": 26.97,
+  "sid": 18,
+  "location": 2,
+  "content": "我举个例子",
+  "music": 0.0
+ },
+ {
+  "from": 26.97,
+  "to": 29.15,
+  "sid": 19,
+  "location": 2,
+  "content": "你前几枪已经明显的感觉到已经打残了",
+  "music": 0.0
+ },
+ {
+  "from": 29.15,
+  "to": 30.63,
+  "sid": 20,
+  "location": 2,
+  "content": "比如说你打120对吧",
+  "music": 0.0
+ },
+ {
+  "from": 30.63,
+  "to": 31.52,
+  "sid": 21,
+  "location": 2,
+  "content": "差一枪就死",
+  "music": 0.0
+ },
+ {
+  "from": 31.52,
+  "to": 33.14,
+  "sid": 22,
+  "location": 2,
+  "content": "那后面你肯定是可以继续泼水",
+  "music": 0.0
+ },
+ {
+  "from": 33.14,
+  "to": 33.76,
+  "sid": 23,
+  "location": 2,
+  "content": "预判弹道",
+  "music": 0.0
+ },
+ {
+  "from": 33.76,
+  "to": 35.12,
+  "sid": 24,
+  "location": 2,
+  "content": "就没有必要重新开火",
+  "music": 0.0
+ },
+ {
+  "from": 35.12,
+  "to": 35.86,
+  "sid": 25,
+  "location": 2,
+  "content": "但问题在于",
+  "music": 0.0
+ },
+ {
+  "from": 35.86,
+  "to": 36.7,
+  "sid": 26,
+  "location": 2,
+  "content": "当你玩的越久",
+  "music": 0.0
+ },
+ {
+  "from": 36.7,
+  "to": 37.32,
+  "sid": 27,
+  "location": 2,
+  "content": "分段越高",
+  "music": 0.0
+ },
+ {
+  "from": 37.32,
+  "to": 38.58,
+  "sid": 28,
+  "location": 2,
+  "content": "玩家水平也会越高",
+  "music": 0.0
+ },
+ {
+  "from": 38.58,
+  "to": 40.94,
+  "sid": 29,
+  "location": 2,
+  "content": "玩家之间的对枪胜负就在于谁开枪快",
+  "music": 0.0
+ },
+ {
+  "from": 40.94,
+  "to": 41.94,
+  "sid": 30,
+  "location": 2,
+  "content": "谁前几发准",
+  "music": 0.0
+ },
+ {
+  "from": 41.94,
+  "to": 44.18,
+  "sid": 31,
+  "location": 2,
+  "content": "但是任何人都无法做到百发百中的枪法",
+  "music": 0.0
+ },
+ {
+  "from": 44.18,
+  "to": 45.14,
+  "sid": 32,
+  "location": 2,
+  "content": "你可以通过练枪",
+  "music": 0.0
+ },
+ {
+  "from": 45.14,
+  "to": 47.2,
+  "sid": 33,
+  "location": 2,
+  "content": "以及一些别的方式来提升自己的状态",
+  "music": 0.0
+ },
+ {
+  "from": 47.2,
+  "to": 48.72,
+  "sid": 34,
+  "location": 2,
+  "content": "从而让自己的命中率提升",
+  "music": 0.0
+ },
+ {
+  "from": 48.72,
+  "to": 50.84,
+  "sid": 35,
+  "location": 2,
+  "content": "但这个数值绝对不可能是100%",
+  "music": 0.0
+ },
+ {
+  "from": 50.84,
+  "to": 52.64,
+  "sid": 36,
+  "location": 2,
+  "content": "同时也并不是说你练枪越久",
+  "music": 0.0
+ },
+ {
+  "from": 52.64,
+  "to": 53.72,
+  "sid": 37,
+  "location": 2,
+  "content": "你的命中率也会越高",
+  "music": 0.0
+ },
+ {
+  "from": 53.72,
+  "to": 54.48,
+  "sid": 38,
+  "location": 2,
+  "content": "能否命中",
+  "music": 0.0
+ },
+ {
+  "from": 54.48,
+  "to": 55.52,
+  "sid": 39,
+  "location": 2,
+  "content": "随着分段变高",
+  "music": 0.0
+ },
+ {
+  "from": 55.52,
+  "to": 57.52,
+  "sid": 40,
+  "location": 2,
+  "content": "对手的枪法也会越稳定精准",
+  "music": 0.0
+ },
+ {
+  "from": 57.52,
+  "to": 59.12,
+  "sid": 41,
+  "location": 2,
+  "content": "身位控制和选位也会更好",
+  "music": 0.0
+ },
+ {
+  "from": 59.12,
+  "to": 60.36,
+  "sid": 42,
+  "location": 2,
+  "content": "也取决于别对手的水平",
+  "music": 0.0
+ },
+ {
+  "from": 60.36,
+  "to": 61.66,
+  "sid": 43,
+  "location": 2,
+  "content": "比起机械化的去练枪",
+  "music": 0.0
+ },
+ {
+  "from": 61.66,
+  "to": 63.64,
+  "sid": 44,
+  "location": 2,
+  "content": "去学习如何控制自己的身位和选位",
+  "music": 0.0
+ },
+ {
+  "from": 63.64,
+  "to": 64.56,
+  "sid": 45,
+  "location": 2,
+  "content": "收益会更高一点",
+  "music": 0.0
+ },
+ {
+  "from": 64.56,
+  "to": 65.62,
+  "sid": 46,
+  "location": 2,
+  "content": "第二点是概率学",
+  "music": 0.0
+ },
+ {
+  "from": 65.62,
+  "to": 67.8,
+  "sid": 47,
+  "location": 2,
+  "content": "如果你想保持一个稳定的KD和胜率",
+  "music": 0.0
+ },
+ {
+  "from": 67.8,
+  "to": 69.98,
+  "sid": 48,
+  "location": 2,
+  "content": "那么你需要做的就是多做胜率高的事情",
+  "music": 0.0
+ },
+ {
+  "from": 69.98,
+  "to": 70.76,
+  "sid": 49,
+  "location": 2,
+  "content": "举个例子",
+  "music": 0.0
+ },
+ {
+  "from": 70.76,
+  "to": 72.18,
+  "sid": 50,
+  "location": 2,
+  "content": "很多人在ECO局输掉之后",
+  "music": 0.0
+ },
+ {
+  "from": 72.18,
+  "to": 73.22,
+  "sid": 51,
+  "location": 2,
+  "content": "选择起裸甲正义",
+  "music": 0.0
+ },
+ {
+  "from": 73.22,
+  "to": 74.7,
+  "sid": 52,
+  "location": 2,
+  "content": "但是因为双方武器悬殊",
+  "music": 0.0
+ },
+ {
+  "from": 74.7,
+  "to": 75.46,
+  "sid": 53,
+  "location": 2,
+  "content": "你起正义",
+  "music": 0.0
+ },
+ {
+  "from": 75.46,
+  "to": 77.42,
+  "sid": 54,
+  "location": 2,
+  "content": "除非近距一枪头或者三枪身子",
+  "music": 0.0
+ },
+ {
+  "from": 77.42,
+  "to": 78.82,
+  "sid": 55,
+  "location": 2,
+  "content": "但对面可能起个莽侠鸟",
+  "music": 0.0
+ },
+ {
+  "from": 78.82,
+  "to": 80.0,
+  "sid": 56,
+  "location": 2,
+  "content": "狙一枪身子你就死了",
+  "music": 0.0
+ },
+ {
+  "from": 80.0,
+  "to": 80.94,
+  "sid": 57,
+  "location": 2,
+  "content": "而且狙能开镜",
+  "music": 0.0
+ },
+ {
+  "from": 80.94,
+  "to": 81.98,
+  "sid": 58,
+  "location": 2,
+  "content": "减少瞄准的难度",
+  "music": 0.0
+ },
+ {
+  "from": 81.98,
+  "to": 83.28,
+  "sid": 59,
+  "location": 2,
+  "content": "这个就是概率问题",
+  "music": 0.0
+ },
+ {
+  "from": 83.28,
+  "to": 85.789,
+  "sid": 60,
+  "location": 2,
+  "content": "而EQ局本身想要翻盘概率就很小",
+  "music": 0.0
+ },
+ {
+  "from": 85.789,
+  "to": 88.529,
+  "sid": 61,
+  "location": 2,
+  "content": "我说这个不代表说一口局起正义就是错的",
+  "music": 0.0
+ },
+ {
+  "from": 88.529,
+  "to": 90.02,
+  "sid": 62,
+  "location": 2,
+  "content": "在使用一些有容错的英雄",
+  "music": 0.0
+ },
+ {
+  "from": 90.02,
+  "to": 93.12,
+  "sid": 63,
+  "location": 2,
+  "content": "比如截提换能钱包这种可以打免费枪的",
+  "music": 0.0
+ },
+ {
+  "from": 93.12,
+  "to": 95.1,
+  "sid": 64,
+  "location": 2,
+  "content": "可以根据当场的手感自行判断",
+  "music": 0.0
+ },
+ {
+  "from": 95.1,
+  "to": 97.03,
+  "sid": 65,
+  "location": 2,
+  "content": "起不起赌也是游戏的一环",
+  "music": 0.0
+ },
+ {
+  "from": 97.03,
+  "to": 98.75,
+  "sid": 66,
+  "location": 2,
+  "content": "接下来我要说的只是一些思路",
+  "music": 0.0
+ },
+ {
+  "from": 98.75,
+  "to": 100.03,
+  "sid": 67,
+  "location": 2,
+  "content": "希望大家能举一反三",
+  "music": 0.0
+ },
+ {
+  "from": 100.03,
+  "to": 101.71,
+  "sid": 68,
+  "location": 2,
+  "content": "在防守方一口局输入的时候",
+  "music": 0.0
+ },
+ {
+  "from": 101.71,
+  "to": 102.35,
+  "sid": 69,
+  "location": 2,
+  "content": "起喷子",
+  "music": 0.0
+ },
+ {
+  "from": 102.35,
+  "to": 104.009,
+  "sid": 70,
+  "location": 2,
+  "content": "近距离情况下比正义好用",
+  "music": 0.0
+ },
+ {
+  "from": 104.009,
+  "to": 105.409,
+  "sid": 71,
+  "location": 2,
+  "content": "在对方经济不到3900",
+  "music": 0.0
+ },
+ {
+  "from": 105.409,
+  "to": 106.689,
+  "sid": 72,
+  "location": 2,
+  "content": "或者推测对方要买道具",
+  "music": 0.0
+ },
+ {
+  "from": 106.689,
+  "to": 107.789,
+  "sid": 73,
+  "location": 2,
+  "content": "无法起全甲的时候",
+  "music": 0.0
+ },
+ {
+  "from": 107.789,
+  "to": 109.069,
+  "sid": 74,
+  "location": 2,
+  "content": "骑马甲或者大狙",
+  "music": 0.0
+ },
+ {
+  "from": 109.069,
+  "to": 112.56,
+  "sid": 75,
+  "location": 2,
+  "content": "瞄准难度会比常规长枪幻影狂徒要简单很多",
+  "music": 0.0
+ },
+ {
+  "from": 112.56,
+  "to": 114.3,
+  "sid": 76,
+  "location": 2,
+  "content": "使用ISO的时候有大的情况",
+  "music": 0.0
+ },
+ {
+  "from": 114.3,
+  "to": 117.7,
+  "sid": 77,
+  "location": 2,
+  "content": "尽量去抓对面的狙喷子手枪之类的英雄",
+  "music": 0.0
+ },
+ {
+  "from": 117.7,
+  "to": 120.46,
+  "sid": 78,
+  "location": 2,
+  "content": "OK现在大家也明白这些情况的核心要点",
+  "music": 0.0
+ },
+ {
+  "from": 120.46,
+  "to": 122.1,
+  "sid": 79,
+  "location": 2,
+  "content": "就是要给自己创造优势条件",
+  "music": 0.0
+ },
+ {
+  "from": 122.1,
+  "to": 123.48,
+  "sid": 80,
+  "location": 2,
+  "content": "不要去想着公平对枪",
+  "music": 0.0
+ },
+ {
+  "from": 123.48,
+  "to": 125.35,
+  "sid": 81,
+  "location": 2,
+  "content": "公平对枪就是概率五五开",
+  "music": 0.0
+ },
+ {
+  "from": 125.35,
+  "to": 127.59,
+  "sid": 82,
+  "location": 2,
+  "content": "胜率在50%及以下的情况下",
+  "music": 0.0
+ },
+ {
+  "from": 127.59,
+  "to": 128.5,
+  "sid": 83,
+  "location": 2,
+  "content": "就是在赌博",
+  "music": 0.0
+ },
+ {
+  "from": 128.5,
+  "to": 129.18,
+  "sid": 84,
+  "location": 2,
+  "content": "既然是赌博",
+  "music": 0.0
+ },
+ {
+  "from": 129.18,
+  "to": 130.28,
+  "sid": 85,
+  "location": 2,
+  "content": "自己的状态不稳定",
+  "music": 0.0
+ },
+ {
+  "from": 130.28,
+  "to": 131.36,
+  "sid": 86,
+  "location": 2,
+  "content": "那就是必然的事情了",
+  "music": 0.0
+ },
+ {
+  "from": 131.36,
+  "to": 133.2,
+  "sid": 87,
+  "location": 2,
+  "content": "所以我推荐大家多起难度低的枪",
+  "music": 0.0
+ },
+ {
+  "from": 133.2,
+  "to": 134.18,
+  "sid": 88,
+  "location": 2,
+  "content": "多打简单的枪",
+  "music": 0.0
+ },
+ {
+  "from": 134.18,
+  "to": 135.72,
+  "sid": 89,
+  "location": 2,
+  "content": "多去做简单的事情",
+  "music": 0.0
+ },
+ {
+  "from": 135.72,
+  "to": 138.0,
+  "sid": 90,
+  "location": 2,
+  "content": "那么第三点就是无畏契约是个团队游戏",
+  "music": 0.0
+ },
+ {
+  "from": 138.0,
+  "to": 139.74,
+  "sid": 91,
+  "location": 2,
+  "content": "如何评判你的角色是否正确",
+  "music": 0.0
+ },
+ {
+  "from": 139.74,
+  "to": 141.64,
+  "sid": 92,
+  "location": 2,
+  "content": "这也要看你的队伍什么意思呢",
+  "music": 0.0
+ },
+ {
+  "from": 141.64,
+  "to": 142.46,
+  "sid": 93,
+  "location": 2,
+  "content": "我做个比方",
+  "music": 0.0
+ },
+ {
+  "from": 142.46,
+  "to": 144.76,
+  "sid": 94,
+  "location": 2,
+  "content": "当你选出一突杰提霓虹之类的",
+  "music": 0.0
+ },
+ {
+  "from": 144.76,
+  "to": 145.8,
+  "sid": 95,
+  "location": 2,
+  "content": "你进攻的主要任务",
+  "music": 0.0
+ },
+ {
+  "from": 145.8,
+  "to": 148.28,
+  "sid": 96,
+  "location": 2,
+  "content": "普遍来说就是近点为队伍拉出枪线对吧",
+  "music": 0.0
+ },
+ {
+  "from": 148.28,
+  "to": 150.24,
+  "sid": 97,
+  "location": 2,
+  "content": "但是如果说队友的道具给的不好",
+  "music": 0.0
+ },
+ {
+  "from": 150.24,
+  "to": 151.47,
+  "sid": 98,
+  "location": 2,
+  "content": "一突进去就是送",
+  "music": 0.0
+ },
+ {
+  "from": 151.47,
+  "to": 152.95,
+  "sid": 99,
+  "location": 2,
+  "content": "即使沟通过后也做不好",
+  "music": 0.0
+ },
+ {
+  "from": 152.95,
+  "to": 154.79,
+  "sid": 100,
+  "location": 2,
+  "content": "那为什么我要白白送手刹进去呢",
+  "music": 0.0
+ },
+ {
+  "from": 154.79,
+  "to": 155.32,
+  "sid": 101,
+  "location": 2,
+  "content": "对不对",
+  "music": 0.0
+ },
+ {
+  "from": 155.32,
+  "to": 157.22,
+  "sid": 102,
+  "location": 2,
+  "content": "那就做末刃去尝试拿人数优势",
+  "music": 0.0
+ },
+ {
+  "from": 157.22,
+  "to": 159.4,
+  "sid": 103,
+  "location": 2,
+  "content": "并不是说我玩阶梯我就一定要近点",
+  "music": 0.0
+ },
+ {
+  "from": 159.4,
+  "to": 159.92,
+  "sid": 104,
+  "location": 2,
+  "content": "我不近点",
+  "music": 0.0
+ },
+ {
+  "from": 159.92,
+  "to": 160.68,
+  "sid": 105,
+  "location": 2,
+  "content": "我就是留着",
+  "music": 0.0
+ },
+ {
+  "from": 160.68,
+  "to": 161.4,
+  "sid": 106,
+  "location": 2,
+  "content": "只要能赢",
+  "music": 0.0
+ },
+ {
+  "from": 161.4,
+  "to": 162.48,
+  "sid": 107,
+  "location": 2,
+  "content": "那就是一种战术",
+  "music": 0.0
+ },
+ {
+  "from": 162.48,
+  "to": 164.48,
+  "sid": 108,
+  "location": 2,
+  "content": "所以任何角色都没有对错之分",
+  "music": 0.0
+ },
+ {
+  "from": 164.48,
+  "to": 166.38,
+  "sid": 109,
+  "location": 2,
+  "content": "看情况选择合适的对策",
+  "music": 0.0
+ },
+ {
+  "from": 166.38,
+  "to": 167.06,
+  "sid": 110,
+  "location": 2,
+  "content": "我也明白",
+  "music": 0.0
+ },
+ {
+  "from": 167.06,
+  "to": 168.78,
+  "sid": 111,
+  "location": 2,
+  "content": "很多人玩游戏的时候会受他人的影响",
+  "music": 0.0
+ },
+ {
+  "from": 168.78,
+  "to": 170.14,
+  "sid": 112,
+  "location": 2,
+  "content": "有时候自己明明做的是对的",
+  "music": 0.0
+ },
+ {
+  "from": 170.14,
+  "to": 171.52,
+  "sid": 113,
+  "location": 2,
+  "content": "但是队友却说你是错的",
+  "music": 0.0
+ },
+ {
+  "from": 171.52,
+  "to": 173.16,
+  "sid": 114,
+  "location": 2,
+  "content": "这个时候大家就会陷入自我怀疑",
+  "music": 0.0
+ },
+ {
+  "from": 173.16,
+  "to": 174.78,
+  "sid": 115,
+  "location": 2,
+  "content": "但是我要告诉大家的一点是",
+  "music": 0.0
+ },
+ {
+  "from": 174.78,
+  "to": 176.81,
+  "sid": 116,
+  "location": 2,
+  "content": "每个人都会有阿斯帕斯康康",
+  "music": 0.0
+ },
+ {
+  "from": 176.81,
+  "to": 178.51,
+  "sid": 117,
+  "location": 2,
+  "content": "甚至是以玩思路著称的NAS",
+  "music": 0.0
+ },
+ {
+  "from": 178.51,
+  "to": 180.11,
+  "sid": 118,
+  "location": 2,
+  "content": "在天梯中也会被别人骂",
+  "music": 0.0
+ },
+ {
+  "from": 180.11,
+  "to": 183.06,
+  "sid": 119,
+  "location": 2,
+  "content": "其本质只是人们无法互相理解罢了",
+  "music": 0.0
+ },
+ {
+  "from": 183.06,
+  "to": 184.9,
+  "sid": 120,
+  "location": 2,
+  "content": "所以他人的想法真的无足轻重",
+  "music": 0.0
+ },
+ {
+  "from": 184.9,
+  "to": 186.34,
+  "sid": 121,
+  "location": 2,
+  "content": "你只需要做你自己就好了",
+  "music": 0.0
+ },
+ {
+  "from": 186.34,
+  "to": 187.84,
+  "sid": 122,
+  "location": 2,
+  "content": "去想队友为什么会这样说",
+  "music": 0.0
+ },
+ {
+  "from": 187.84,
+  "to": 189.3,
+  "sid": 123,
+  "location": 2,
+  "content": "在和自己的思路碰撞过后",
+  "music": 0.0
+ },
+ {
+  "from": 189.3,
+  "to": 190.42,
+  "sid": 124,
+  "location": 2,
+  "content": "看有没有更好的方法",
+  "music": 0.0
+ },
+ {
+  "from": 190.42,
+  "to": 192.06,
+  "sid": 125,
+  "location": 2,
+  "content": "这才是真正的强者该做的事情",
+  "music": 0.0
+ },
+ {
+  "from": 194.18,
+  "to": 196.86,
+  "sid": 126,
+  "location": 2,
+  "content": "同时也引出了视频的第四点公式化教学",
+  "music": 0.0
+ },
+ {
+  "from": 196.86,
+  "to": 199.28,
+  "sid": 127,
+  "location": 2,
+  "content": "在一开始接触这款游戏不知道怎么玩的时候",
+  "music": 0.0
+ },
+ {
+  "from": 199.28,
+  "to": 201.38,
+  "sid": 128,
+  "location": 2,
+  "content": "大家去网上搜各式各样的教学",
+  "music": 0.0
+ },
+ {
+  "from": 201.38,
+  "to": 202.9,
+  "sid": 129,
+  "location": 2,
+  "content": "其中有确实讲的好的",
+  "music": 0.0
+ },
+ {
+  "from": 202.9,
+  "to": 204.49,
+  "sid": 130,
+  "location": 2,
+  "content": "但也有很多乱讲的",
+  "music": 0.0
+ },
+ {
+  "from": 204.49,
+  "to": 206.83,
+  "sid": 131,
+  "location": 2,
+  "content": "现在网上大部分教学都偏向于公式化",
+  "music": 0.0
+ },
+ {
+  "from": 206.83,
+  "to": 207.69,
+  "sid": 132,
+  "location": 2,
+  "content": "比如说公式化",
+  "music": 0.0
+ },
+ {
+  "from": 207.69,
+  "to": 208.41,
+  "sid": 133,
+  "location": 2,
+  "content": "经典公式化",
+  "music": 0.0
+ },
+ {
+  "from": 208.41,
+  "to": 208.83,
+  "sid": 134,
+  "location": 2,
+  "content": "扔道具",
+  "music": 0.0
+ },
+ {
+  "from": 208.83,
+  "to": 210.49,
+  "sid": 135,
+  "location": 2,
+  "content": "公式化移动之类的尝试",
+  "music": 0.0
+ },
+ {
+  "from": 210.49,
+  "to": 212.9,
+  "sid": 136,
+  "location": 2,
+  "content": "告诉你们学会这个就可以掌握游戏",
+  "music": 0.0
+ },
+ {
+  "from": 212.9,
+  "to": 214.42,
+  "sid": 137,
+  "location": 2,
+  "content": "这类视频通常有个共识",
+  "music": 0.0
+ },
+ {
+  "from": 214.42,
+  "to": 215.94,
+  "sid": 138,
+  "location": 2,
+  "content": "那就是简单易学",
+  "music": 0.0
+ },
+ {
+  "from": 215.94,
+  "to": 217.25,
+  "sid": 139,
+  "location": 2,
+  "content": "低付出高回报",
+  "music": 0.0
+ },
+ {
+  "from": 217.25,
+  "to": 218.65,
+  "sid": 140,
+  "location": 2,
+  "content": "根据现在流量推送机制",
+  "music": 0.0
+ },
+ {
+  "from": 218.65,
+  "to": 220.23,
+  "sid": 141,
+  "location": 2,
+  "content": "这类视频的流量都会很不错",
+  "music": 0.0
+ },
+ {
+  "from": 220.23,
+  "to": 222.61,
+  "sid": 142,
+  "location": 2,
+  "content": "也会让更多新手玩家看到之后陷入进去",
+  "music": 0.0
+ },
+ {
+  "from": 222.61,
+  "to": 224.17,
+  "sid": 143,
+  "location": 2,
+  "content": "而不明所以的观众看了视频",
+  "music": 0.0
+ },
+ {
+  "from": 224.17,
+  "to": 227.12,
+  "sid": 144,
+  "location": 2,
+  "content": "感觉好像有那么一点点道理就运用到游戏上面",
+  "music": 0.0
+ },
+ {
+  "from": 227.12,
+  "to": 229.48,
+  "sid": 145,
+  "location": 2,
+  "content": "最后发现并不能如愿以偿去陷入了焦虑",
+  "music": 0.0
+ },
+ {
+  "from": 229.48,
+  "to": 232.28,
+  "sid": 146,
+  "location": 2,
+  "content": "也有部分人会说哎我学了什么公式化",
+  "music": 0.0
+ },
+ {
+  "from": 232.28,
+  "to": 233.459,
+  "sid": 147,
+  "location": 2,
+  "content": "庆典就是有用",
+  "music": 0.0
+ },
+ {
+  "from": 233.459,
+  "to": 234.699,
+  "sid": 148,
+  "location": 2,
+  "content": "当你说出这句话的时候",
+  "music": 0.0
+ },
+ {
+  "from": 234.699,
+  "to": 236.379,
+  "sid": 149,
+  "location": 2,
+  "content": "我就用零秒钟猜出你什么段位",
+  "music": 0.0
+ },
+ {
+  "from": 236.379,
+  "to": 238.179,
+  "sid": 150,
+  "location": 2,
+  "content": "如果一直用一种方式的近点",
+  "music": 0.0
+ },
+ {
+  "from": 238.179,
+  "to": 239.059,
+  "sid": 151,
+  "location": 2,
+  "content": "还能每次成功",
+  "music": 0.0
+ },
+ {
+  "from": 239.059,
+  "to": 239.859,
+  "sid": 152,
+  "location": 2,
+  "content": "不是你蠢",
+  "music": 0.0
+ },
+ {
+  "from": 239.859,
+  "to": 240.67,
+  "sid": 153,
+  "location": 2,
+  "content": "就是对面蠢",
+  "music": 0.0
+ },
+ {
+  "from": 240.67,
+  "to": 242.55,
+  "sid": 154,
+  "location": 2,
+  "content": "那这样的话你都不需要什么公式化了",
+  "music": 0.0
+ },
+ {
+  "from": 242.55,
+  "to": 243.85,
+  "sid": 155,
+  "location": 2,
+  "content": "你怎么样都可以进点了",
+  "music": 0.0
+ },
+ {
+  "from": 243.85,
+  "to": 245.11,
+  "sid": 156,
+  "location": 2,
+  "content": "以及一些移动教学",
+  "music": 0.0
+ },
+ {
+  "from": 245.11,
+  "to": 246.07,
+  "sid": 157,
+  "location": 2,
+  "content": "我已经骂过很多次了",
+  "music": 0.0
+ },
+ {
+  "from": 246.07,
+  "to": 247.1,
+  "sid": 158,
+  "location": 2,
+  "content": "我这里就不多说了",
+  "music": 0.0
+ },
+ {
+  "from": 247.1,
+  "to": 248.78,
+  "sid": 159,
+  "location": 2,
+  "content": "这也是为什么我一直在跟大家强调",
+  "music": 0.0
+ },
+ {
+  "from": 251.42,
+  "to": 252.62,
+  "sid": 160,
+  "location": 2,
+  "content": "在学习这些教学的时候",
+  "music": 0.0
+ },
+ {
+  "from": 252.62,
+  "to": 253.94,
+  "sid": 161,
+  "location": 2,
+  "content": "我认为只能当做参考",
+  "music": 0.0
+ },
+ {
+  "from": 253.94,
+  "to": 254.92,
+  "sid": 162,
+  "location": 2,
+  "content": "而不能当做答案",
+  "music": 0.0
+ },
+ {
+  "from": 254.92,
+  "to": 256.88,
+  "sid": 163,
+  "location": 2,
+  "content": "我的很多点位也是在网上学来的",
+  "music": 0.0
+ },
+ {
+  "from": 256.88,
+  "to": 258.52,
+  "sid": 164,
+  "location": 2,
+  "content": "但是我会去思考什么样的点位",
+  "music": 0.0
+ },
+ {
+  "from": 258.52,
+  "to": 259.71,
+  "sid": 165,
+  "location": 2,
+  "content": "适合什么样的情景",
+  "music": 0.0
+ },
+ {
+  "from": 259.71,
+  "to": 261.97,
+  "sid": 166,
+  "location": 2,
+  "content": "比如我解题进攻C点有几种方式",
+  "music": 0.0
+ },
+ {
+  "from": 261.97,
+  "to": 264.15,
+  "sid": 167,
+  "location": 2,
+  "content": "我会根据对面的落位习惯和信息",
+  "music": 0.0
+ },
+ {
+  "from": 264.15,
+  "to": 265.59,
+  "sid": 168,
+  "location": 2,
+  "content": "来使用不同的方式进点",
+  "music": 0.0
+ },
+ {
+  "from": 265.59,
+  "to": 267.83,
+  "sid": 169,
+  "location": 2,
+  "content": "而不是只用一种怎样去学习",
+  "music": 0.0
+ },
+ {
+  "from": 267.83,
+  "to": 268.71,
+  "sid": 170,
+  "location": 2,
+  "content": "也是一种学问",
+  "music": 0.0
+ },
+ {
+  "from": 268.71,
+  "to": 269.47,
+  "sid": 171,
+  "location": 2,
+  "content": "我推荐的话",
+  "music": 0.0
+ },
+ {
+  "from": 269.47,
+  "to": 272.05,
+  "sid": 172,
+  "location": 2,
+  "content": "大家去看看高手的POV直播录像就好了",
+  "music": 0.0
+ },
+ {
+  "from": 272.05,
+  "to": 273.35,
+  "sid": 173,
+  "location": 2,
+  "content": "去思考他是怎么移动的",
+  "music": 0.0
+ },
+ {
+  "from": 273.35,
+  "to": 274.17,
+  "sid": 174,
+  "location": 2,
+  "content": "怎么开枪的",
+  "music": 0.0
+ },
+ {
+  "from": 274.17,
+  "to": 275.55,
+  "sid": 175,
+  "location": 2,
+  "content": "为什么要这样做等等",
+  "music": 0.0
+ },
+ {
+  "from": 275.55,
+  "to": 277.59,
+  "sid": 176,
+  "location": 2,
+  "content": "不要只是看他怎么做击杀的",
+  "music": 0.0
+ },
+ {
+  "from": 277.59,
+  "to": 278.87,
+  "sid": 177,
+  "location": 2,
+  "content": "也要看他为什么会死",
+  "music": 0.0
+ },
+ {
+  "from": 278.87,
+  "to": 279.87,
+  "sid": 178,
+  "location": 2,
+  "content": "多去思考",
+  "music": 0.0
+ },
+ {
+  "from": 279.87,
+  "to": 280.79,
+  "sid": 179,
+  "location": 2,
+  "content": "如果看不懂的话",
+  "music": 0.0
+ },
+ {
+  "from": 280.79,
+  "to": 281.51,
+  "sid": 180,
+  "location": 2,
+  "content": "也可以尝试看看",
+  "music": 0.0
+ },
+ {
+  "from": 281.51,
+  "to": 283.7,
+  "sid": 181,
+  "location": 2,
+  "content": "有些呃文字解析的PUV",
+  "music": 0.0
+ },
+ {
+  "from": 283.7,
+  "to": 285.52,
+  "sid": 182,
+  "location": 2,
+  "content": "也可以找比你厉害的人帮你复盘",
+  "music": 0.0
+ },
+ {
+  "from": 285.52,
+  "to": 286.52,
+  "sid": 183,
+  "location": 2,
+  "content": "直接找出问题所在",
+  "music": 0.0
+ },
+ {
+  "from": 286.52,
+  "to": 287.72,
+  "sid": 184,
+  "location": 2,
+  "content": "第五点是身体状态",
+  "music": 0.0
+ },
+ {
+  "from": 287.72,
+  "to": 289.2,
+  "sid": 185,
+  "location": 2,
+  "content": "你每天自身状态都不一样",
+  "music": 0.0
+ },
+ {
+  "from": 289.2,
+  "to": 290.48,
+  "sid": 186,
+  "location": 2,
+  "content": "可能是睡的时间不够",
+  "music": 0.0
+ },
+ {
+  "from": 290.48,
+  "to": 291.48,
+  "sid": 187,
+  "location": 2,
+  "content": "睡眠质量不够",
+  "music": 0.0
+ },
+ {
+  "from": 291.48,
+  "to": 292.66,
+  "sid": 188,
+  "location": 2,
+  "content": "摄入的营养不够",
+  "music": 0.0
+ },
+ {
+  "from": 292.66,
+  "to": 294.23,
+  "sid": 189,
+  "location": 2,
+  "content": "或者摄入过多的营养",
+  "music": 0.0
+ },
+ {
+  "from": 294.23,
+  "to": 296.07,
+  "sid": 190,
+  "location": 2,
+  "content": "又或者是不是奖励了等等因素",
+  "music": 0.0
+ },
+ {
+  "from": 296.07,
+  "to": 298.22,
+  "sid": 191,
+  "location": 2,
+  "content": "都有可能让自身的状态起伏不定",
+  "music": 0.0
+ },
+ {
+  "from": 298.22,
+  "to": 300.82,
+  "sid": 192,
+  "location": 2,
+  "content": "首先我们以睡眠的问题来展开聊聊",
+  "music": 0.0
+ },
+ {
+  "from": 300.82,
+  "to": 301.9,
+  "sid": 193,
+  "location": 2,
+  "content": "睡眠非常重要",
+  "music": 0.0
+ },
+ {
+  "from": 301.9,
+  "to": 302.74,
+  "sid": 194,
+  "location": 2,
+  "content": "如果没有好的睡眠",
+  "music": 0.0
+ },
+ {
+  "from": 302.74,
+  "to": 303.78,
+  "sid": 195,
+  "location": 2,
+  "content": "第二天会反应下降",
+  "music": 0.0
+ },
+ {
+  "from": 303.78,
+  "to": 304.46,
+  "sid": 196,
+  "location": 2,
+  "content": "出现脑雾",
+  "music": 0.0
+ },
+ {
+  "from": 304.46,
+  "to": 306.049,
+  "sid": 197,
+  "location": 2,
+  "content": "没有精神疲劳等等",
+  "music": 0.0
+ },
+ {
+  "from": 306.049,
+  "to": 307.369,
+  "sid": 198,
+  "location": 2,
+  "content": "那么为了保持好睡眠",
+  "music": 0.0
+ },
+ {
+  "from": 307.369,
+  "to": 309.2,
+  "sid": 199,
+  "location": 2,
+  "content": "我用我个人的经验来帮助大家",
+  "music": 0.0
+ },
+ {
+  "from": 309.2,
+  "to": 310.38,
+  "sid": 200,
+  "location": 2,
+  "content": "一多去晒太阳",
+  "music": 0.0
+ },
+ {
+  "from": 310.38,
+  "to": 311.8,
+  "sid": 201,
+  "location": 2,
+  "content": "晒太阳能补充维生素D",
+  "music": 0.0
+ },
+ {
+  "from": 311.8,
+  "to": 313.72,
+  "sid": 202,
+  "location": 2,
+  "content": "并且能有助于睡眠质量的提升",
+  "music": 0.0
+ },
+ {
+  "from": 313.72,
+  "to": 315.94,
+  "sid": 203,
+  "location": 2,
+  "content": "睡眠质量提升也能带动睾酮的生成",
+  "music": 0.0
+ },
+ {
+  "from": 315.94,
+  "to": 319.24,
+  "sid": 204,
+  "location": 2,
+  "content": "后续我会讲在平时时间可以适当锻炼",
+  "music": 0.0
+ },
+ {
+  "from": 319.24,
+  "to": 320.86,
+  "sid": 205,
+  "location": 2,
+  "content": "我目前是多数有氧为主",
+  "music": 0.0
+ },
+ {
+  "from": 320.86,
+  "to": 322.88,
+  "sid": 206,
+  "location": 2,
+  "content": "关于有氧对游戏表现的提升",
+  "music": 0.0
+ },
+ {
+  "from": 322.88,
+  "to": 323.72,
+  "sid": 207,
+  "location": 2,
+  "content": "之前已经讲过了",
+  "music": 0.0
+ },
+ {
+  "from": 323.72,
+  "to": 324.82,
+  "sid": 208,
+  "location": 2,
+  "content": "这里我就不多讲了",
+  "music": 0.0
+ },
+ {
+  "from": 324.82,
+  "to": 326.53,
+  "sid": 209,
+  "location": 2,
+  "content": "有兴趣的可以翻翻之前的视频",
+  "music": 0.0
+ },
+ {
+  "from": 326.53,
+  "to": 328.81,
+  "sid": 210,
+  "location": 2,
+  "content": "多做有氧也能提高睡眠质量",
+  "music": 0.0
+ },
+ {
+  "from": 328.81,
+  "to": 330.95,
+  "sid": 211,
+  "location": 2,
+  "content": "三睡前可以适当吃点鸡蛋",
+  "music": 0.0
+ },
+ {
+  "from": 330.95,
+  "to": 332.05,
+  "sid": 212,
+  "location": 2,
+  "content": "蛋黄就是胆固醇",
+  "music": 0.0
+ },
+ {
+  "from": 332.05,
+  "to": 333.35,
+  "sid": 213,
+  "location": 2,
+  "content": "不要妖魔化胆固醇",
+  "music": 0.0
+ },
+ {
+  "from": 333.35,
+  "to": 335.21,
+  "sid": 214,
+  "location": 2,
+  "content": "胆固醇可以接受阳光照射",
+  "music": 0.0
+ },
+ {
+  "from": 335.21,
+  "to": 337.51,
+  "sid": 215,
+  "location": 2,
+  "content": "然后合成维生素D也能促搞",
+  "music": 0.0
+ },
+ {
+  "from": 337.51,
+  "to": 339.07,
+  "sid": 216,
+  "location": 2,
+  "content": "四计划自己的睡眠时间",
+  "music": 0.0
+ },
+ {
+  "from": 339.07,
+  "to": 340.11,
+  "sid": 217,
+  "location": 2,
+  "content": "比如我要两点钟睡觉",
+  "music": 0.0
+ },
+ {
+  "from": 340.11,
+  "to": 340.87,
+  "sid": 218,
+  "location": 2,
+  "content": "十点钟起",
+  "music": 0.0
+ },
+ {
+  "from": 340.87,
+  "to": 341.77,
+  "sid": 219,
+  "location": 2,
+  "content": "11点钟起",
+  "music": 0.0
+ },
+ {
+  "from": 341.77,
+  "to": 343.07,
+  "sid": 220,
+  "location": 2,
+  "content": "那我就要在12:30",
+  "music": 0.0
+ },
+ {
+  "from": 343.07,
+  "to": 344.97,
+  "sid": 221,
+  "location": 2,
+  "content": "或者说一点钟就躺在床上",
+  "music": 0.0
+ },
+ {
+  "from": 344.97,
+  "to": 347.41,
+  "sid": 222,
+  "location": 2,
+  "content": "我说让大家不要玩手机也不现实",
+  "music": 0.0
+ },
+ {
+  "from": 347.41,
+  "to": 349.33,
+  "sid": 223,
+  "location": 2,
+  "content": "但是尽量躺床上越早越好",
+  "music": 0.0
+ },
+ {
+  "from": 349.33,
+  "to": 350.919,
+  "sid": 224,
+  "location": 2,
+  "content": "让身体准备就绪睡觉",
+  "music": 0.0
+ },
+ {
+  "from": 350.919,
+  "to": 352.999,
+  "sid": 225,
+  "location": 2,
+  "content": "睾酮也同样会影响你的游戏水平",
+  "music": 0.0
+ },
+ {
+  "from": 352.999,
+  "to": 354.639,
+  "sid": 226,
+  "location": 2,
+  "content": "高睾酮能让男性更加自信",
+  "music": 0.0
+ },
+ {
+  "from": 354.639,
+  "to": 355.839,
+  "sid": 227,
+  "location": 2,
+  "content": "面对压力不怯场",
+  "music": 0.0
+ },
+ {
+  "from": 355.839,
+  "to": 356.519,
+  "sid": 228,
+  "location": 2,
+  "content": "更加专注",
+  "music": 0.0
+ },
+ {
+  "from": 356.519,
+  "to": 358.72,
+  "sid": 229,
+  "location": 2,
+  "content": "以及对思维的方式有更大更多的解",
+  "music": 0.0
+ },
+ {
+  "from": 358.72,
+  "to": 360.38,
+  "sid": 230,
+  "location": 2,
+  "content": "这些都是成为高手的必要条件",
+  "music": 0.0
+ },
+ {
+  "from": 360.38,
+  "to": 362.22,
+  "sid": 231,
+  "location": 2,
+  "content": "并不是说高睾酮一定是高手",
+  "music": 0.0
+ },
+ {
+  "from": 362.22,
+  "to": 364.32,
+  "sid": 232,
+  "location": 2,
+  "content": "但是高睾酮想成为高手一定要简单",
+  "music": 0.0
+ },
+ {
+  "from": 364.32,
+  "to": 364.84,
+  "sid": 233,
+  "location": 2,
+  "content": "很多",
+  "music": 0.0
+ },
+ {
+  "from": 364.84,
+  "to": 366.78,
+  "sid": 234,
+  "location": 2,
+  "content": "关于睾酮对游戏表现的影响",
+  "music": 0.0
+ },
+ {
+  "from": 366.78,
+  "to": 368.66,
+  "sid": 235,
+  "location": 2,
+  "content": "评论区或者弹幕应该明白这一点",
+  "music": 0.0
+ },
+ {
+  "from": 368.66,
+  "to": 370.98,
+  "sid": 236,
+  "location": 2,
+  "content": "对照自己睾酮低和睾酮高的游戏表现",
+  "music": 0.0
+ },
+ {
+  "from": 370.98,
+  "to": 372.06,
+  "sid": 237,
+  "location": 2,
+  "content": "你自己试试就好了",
+  "music": 0.0
+ },
+ {
+  "from": 372.06,
+  "to": 373.26,
+  "sid": 238,
+  "location": 2,
+  "content": "如果想要提高睾酮",
+  "music": 0.0
+ },
+ {
+  "from": 373.26,
+  "to": 374.32,
+  "sid": 239,
+  "location": 2,
+  "content": "除了上述的方式",
+  "music": 0.0
+ },
+ {
+  "from": 374.32,
+  "to": 376.5,
+  "sid": 240,
+  "location": 2,
+  "content": "平时还可以多补充含锌的食物",
+  "music": 0.0
+ },
+ {
+  "from": 376.5,
+  "to": 377.78,
+  "sid": 241,
+  "location": 2,
+  "content": "后续如果大家感兴趣的话",
+  "music": 0.0
+ },
+ {
+  "from": 377.78,
+  "to": 379.62,
+  "sid": 242,
+  "location": 2,
+  "content": "我会出一期关于补剂的视频",
+  "music": 0.0
+ },
+ {
+  "from": 379.62,
+  "to": 381.78,
+  "sid": 243,
+  "location": 2,
+  "content": "以及大家最关心的关于奖励的事",
+  "music": 0.0
+ },
+ {
+  "from": 381.78,
+  "to": 383.82,
+  "sid": 244,
+  "location": 2,
+  "content": "你的睾酮水平在戒掉奖励过后",
+  "music": 0.0
+ },
+ {
+  "from": 383.82,
+  "to": 385.22,
+  "sid": 245,
+  "location": 2,
+  "content": "一周左右会来到峰值",
+  "music": 0.0
+ },
+ {
+  "from": 385.22,
+  "to": 386.04,
+  "sid": 246,
+  "location": 2,
+  "content": "到了峰值",
+  "music": 0.0
+ },
+ {
+  "from": 386.04,
+  "to": 387.59,
+  "sid": 247,
+  "location": 2,
+  "content": "随后再不会生长了",
+  "music": 0.0
+ },
+ {
+  "from": 387.59,
+  "to": 388.39,
+  "sid": 248,
+  "location": 2,
+  "content": "我的论点是",
+  "music": 0.0
+ },
+ {
+  "from": 388.39,
+  "to": 389.39,
+  "sid": 249,
+  "location": 2,
+  "content": "你想奖励就奖励",
+  "music": 0.0
+ },
+ {
+  "from": 389.39,
+  "to": 390.99,
+  "sid": 250,
+  "location": 2,
+  "content": "适当奖励也能缓解压力",
+  "music": 0.0
+ },
+ {
+  "from": 390.99,
+  "to": 391.97,
+  "sid": 251,
+  "location": 2,
+  "content": "消除皮质醇",
+  "music": 0.0
+ },
+ {
+  "from": 391.97,
+  "to": 393.07,
+  "sid": 252,
+  "location": 2,
+  "content": "增加睡眠质量",
+  "music": 0.0
+ },
+ {
+  "from": 393.07,
+  "to": 395.34,
+  "sid": 253,
+  "location": 2,
+  "content": "只要不是把奖励当饭吃就好了",
+  "music": 0.0
+ },
+ {
+  "from": 395.34,
+  "to": 397.06,
+  "sid": 254,
+  "location": 2,
+  "content": "第六点是眼睛的休息",
+  "music": 0.0
+ },
+ {
+  "from": 397.06,
+  "to": 398.58,
+  "sid": 255,
+  "location": 2,
+  "content": "很多人没有注意到的点在于",
+  "music": 0.0
+ },
+ {
+  "from": 398.58,
+  "to": 399.58,
+  "sid": 256,
+  "location": 2,
+  "content": "长期玩游戏",
+  "music": 0.0
+ },
+ {
+  "from": 399.58,
+  "to": 400.74,
+  "sid": 257,
+  "location": 2,
+  "content": "眼睛一直盯着屏幕",
+  "music": 0.0
+ },
+ {
+  "from": 400.74,
+  "to": 401.36,
+  "sid": 258,
+  "location": 2,
+  "content": "会眼疲劳",
+  "music": 0.0
+ },
+ {
+  "from": 401.36,
+  "to": 402.64,
+  "sid": 259,
+  "location": 2,
+  "content": "从而使得无法对焦",
+  "music": 0.0
+ },
+ {
+  "from": 402.64,
+  "to": 404.84,
+  "sid": 260,
+  "location": 2,
+  "content": "对反应和瞄准都会有影响的",
+  "music": 0.0
+ },
+ {
+  "from": 404.84,
+  "to": 406.32,
+  "sid": 261,
+  "location": 2,
+  "content": "这个时候如果还想继续玩",
+  "music": 0.0
+ },
+ {
+  "from": 406.32,
+  "to": 407.7,
+  "sid": 262,
+  "location": 2,
+  "content": "可以试着滴点眼药水",
+  "music": 0.0
+ },
+ {
+  "from": 407.7,
+  "to": 408.9,
+  "sid": 263,
+  "location": 2,
+  "content": "比如说玻璃酸钠",
+  "music": 0.0
+ },
+ {
+  "from": 408.9,
+  "to": 410.08,
+  "sid": 264,
+  "location": 2,
+  "content": "如果不想滴眼药水",
+  "music": 0.0
+ },
+ {
+  "from": 410.08,
+  "to": 411.14,
+  "sid": 265,
+  "location": 2,
+  "content": "可以试着多打哈欠",
+  "music": 0.0
+ },
+ {
+  "from": 411.14,
+  "to": 412.08,
+  "sid": 266,
+  "location": 2,
+  "content": "促进眼泪生成",
+  "music": 0.0
+ },
+ {
+  "from": 412.08,
+  "to": 414.9,
+  "sid": 267,
+  "location": 2,
+  "content": "自己的眼泪效果是大于眼药水的人工泪液的",
+  "music": 0.0
+ },
+ {
+  "from": 414.9,
+  "to": 416.34,
+  "sid": 268,
+  "location": 2,
+  "content": "但是一般来说累了就休息",
+  "music": 0.0
+ },
+ {
+  "from": 416.34,
+  "to": 416.78,
+  "sid": 269,
+  "location": 2,
+  "content": "眼睛好了",
+  "music": 0.0
+ },
+ {
+  "from": 416.78,
+  "to": 417.52,
+  "sid": 270,
+  "location": 2,
+  "content": "不要再打了",
+  "music": 0.0
+ },
+ {
+  "from": 417.52,
+  "to": 418.96,
+  "sid": 271,
+  "location": 2,
+  "content": "休息眼睛也有两种方式",
+  "music": 0.0
+ },
+ {
+  "from": 418.96,
+  "to": 419.78,
+  "sid": 272,
+  "location": 2,
+  "content": "一种是远眺",
+  "music": 0.0
+ },
+ {
+  "from": 419.78,
+  "to": 421.08,
+  "sid": 273,
+  "location": 2,
+  "content": "第二种是闭眼休息",
+  "music": 0.0
+ },
+ {
+  "from": 421.08,
+  "to": 423.44,
+  "sid": 274,
+  "location": 2,
+  "content": "其中远眺的休息效果是大于闭眼的",
+  "music": 0.0
+ },
+ {
+  "from": 423.44,
+  "to": 426.36,
+  "sid": 275,
+  "location": 2,
+  "content": "我推荐大家在早上起来的时候出门接收下太阳",
+  "music": 0.0
+ },
+ {
+  "from": 426.36,
+  "to": 427.94,
+  "sid": 276,
+  "location": 2,
+  "content": "对眼睛也是非常有好处的",
+  "music": 0.0
+ },
+ {
+  "from": 427.94,
+  "to": 429.62,
+  "sid": 277,
+  "location": 2,
+  "content": "也能起到防止近视的作用",
+  "music": 0.0
+ },
+ {
+  "from": 429.62,
+  "to": 430.909,
+  "sid": 278,
+  "location": 2,
+  "content": "第七点心态",
+  "music": 0.0
+ },
+ {
+  "from": 430.909,
+  "to": 432.069,
+  "sid": 279,
+  "location": 2,
+  "content": "这是我最近的截图",
+  "music": 0.0
+ },
+ {
+  "from": 432.069,
+  "to": 433.769,
+  "sid": 280,
+  "location": 2,
+  "content": "一天从神话二上到赋能",
+  "music": 0.0
+ },
+ {
+  "from": 433.769,
+  "to": 434.869,
+  "sid": 281,
+  "location": 2,
+  "content": "这也是我的截图",
+  "music": 0.0
+ },
+ {
+  "from": 434.869,
+  "to": 435.389,
+  "sid": 282,
+  "location": 2,
+  "content": "输了一天",
+  "music": 0.0
+ },
+ {
+  "from": 435.389,
+  "to": 436.63,
+  "sid": 283,
+  "location": 2,
+  "content": "而且基本上没C过",
+  "music": 0.0
+ },
+ {
+  "from": 436.63,
+  "to": 437.79,
+  "sid": 284,
+  "location": 2,
+  "content": "但是我接受了",
+  "music": 0.0
+ },
+ {
+  "from": 437.79,
+  "to": 439.27,
+  "sid": 285,
+  "location": 2,
+  "content": "因为我知道我能一路连胜",
+  "music": 0.0
+ },
+ {
+  "from": 439.27,
+  "to": 440.31,
+  "sid": 286,
+  "location": 2,
+  "content": "是因为我很想赢",
+  "music": 0.0
+ },
+ {
+  "from": 440.31,
+  "to": 441.06,
+  "sid": 287,
+  "location": 2,
+  "content": "很想赢",
+  "music": 0.0
+ },
+ {
+  "from": 441.06,
+  "to": 442.54,
+  "sid": 288,
+  "location": 2,
+  "content": "我也知道我输一天没C",
+  "music": 0.0
+ },
+ {
+  "from": 442.54,
+  "to": 444.2,
+  "sid": 289,
+  "location": 2,
+  "content": "是因为我内心是不想赢的",
+  "music": 0.0
+ },
+ {
+  "from": 444.2,
+  "to": 446.18,
+  "sid": 290,
+  "location": 2,
+  "content": "有的时候因为要直播或者要打单子",
+  "music": 0.0
+ },
+ {
+  "from": 446.18,
+  "to": 447.46,
+  "sid": 291,
+  "location": 2,
+  "content": "我会让我自己高度专注",
+  "music": 0.0
+ },
+ {
+  "from": 447.46,
+  "to": 448.9,
+  "sid": 292,
+  "location": 2,
+  "content": "但有的时候我就想放松一下",
+  "music": 0.0
+ },
+ {
+  "from": 448.9,
+  "to": 449.68,
+  "sid": 293,
+  "location": 2,
+  "content": "没有那么想赢",
+  "music": 0.0
+ },
+ {
+  "from": 449.68,
+  "to": 451.66,
+  "sid": 294,
+  "location": 2,
+  "content": "所以得到这样的结果也是应该的",
+  "music": 0.0
+ },
+ {
+  "from": 451.66,
+  "to": 453.46,
+  "sid": 295,
+  "location": 2,
+  "content": "无畏削是个很随机的游戏",
+  "music": 0.0
+ },
+ {
+  "from": 453.46,
+  "to": 455.28,
+  "sid": 296,
+  "location": 2,
+  "content": "不仅自己的状态会影响数据",
+  "music": 0.0
+ },
+ {
+  "from": 455.28,
+  "to": 457.92,
+  "sid": 297,
+  "location": 2,
+  "content": "队友对面以及一些无法控制的变量等等",
+  "music": 0.0
+ },
+ {
+  "from": 457.92,
+  "to": 458.73,
+  "sid": 298,
+  "location": 2,
+  "content": "也会",
+  "music": 0.0
+ },
+ {
+  "from": 458.73,
+  "to": 460.97,
+  "sid": 299,
+  "location": 2,
+  "content": "这也是为什么大家都觉得玩瓦很累",
+  "music": 0.0
+ },
+ {
+  "from": 460.97,
+  "to": 461.63,
+  "sid": 300,
+  "location": 2,
+  "content": "很焦虑",
+  "music": 0.0
+ },
+ {
+  "from": 461.63,
+  "to": 463.09,
+  "sid": 301,
+  "location": 2,
+  "content": "不仅需要保持高专注",
+  "music": 0.0
+ },
+ {
+  "from": 463.09,
+  "to": 464.7,
+  "sid": 302,
+  "location": 2,
+  "content": "还要懂得如何去玩游戏",
+  "music": 0.0
+ },
+ {
+  "from": 464.7,
+  "to": 465.62,
+  "sid": 303,
+  "location": 2,
+  "content": "这期视频的主题",
+  "music": 0.0
+ },
+ {
+  "from": 465.62,
+  "to": 467.7,
+  "sid": 304,
+  "location": 2,
+  "content": "也希望大家少管无法改变的变量",
+  "music": 0.0
+ },
+ {
+  "from": 467.7,
+  "to": 469.14,
+  "sid": 305,
+  "location": 2,
+  "content": "去改变能改变的",
+  "music": 0.0
+ },
+ {
+  "from": 469.14,
+  "to": 472.14,
+  "sid": 306,
+  "location": 2,
+  "content": "这样就能极大提升状态的稳定性和减少焦虑",
+  "music": 0.0
+ },
+ {
+  "from": 472.14,
+  "to": 473.62,
+  "sid": 307,
+  "location": 2,
+  "content": "谁都会有状态不好的时候",
+  "music": 0.0
+ },
+ {
+  "from": 473.62,
+  "to": 474.42,
+  "sid": 308,
+  "location": 2,
+  "content": "每当这个时候",
+  "music": 0.0
+ },
+ {
+  "from": 474.42,
+  "to": 477.04,
+  "sid": 309,
+  "location": 2,
+  "content": "其实最好的解决方式就是去散散步跟休息",
+  "music": 0.0
+ },
+ {
+  "from": 477.04,
+  "to": 478.82,
+  "sid": 310,
+  "location": 2,
+  "content": "少给自己压力好了",
+  "music": 0.0
+ },
+ {
+  "from": 478.82,
+  "to": 480.06,
+  "sid": 311,
+  "location": 2,
+  "content": "本期视频就到此结束了",
+  "music": 0.0
+ },
+ {
+  "from": 480.06,
+  "to": 481.7,
+  "sid": 312,
+  "location": 2,
+  "content": "喜欢的话不妨一键三连",
+  "music": 0.0
+ },
+ {
+  "from": 481.7,
+  "to": 482.66,
+  "sid": 313,
+  "location": 2,
+  "content": "点点关注我们",
+  "music": 0.0
+ },
+ {
+  "from": 482.66,
+  "to": 486.37,
+  "sid": 314,
+  "location": 2,
+  "content": "下期视频见拜拜",
+  "music": 0.5333333111111184
+ },
+ {
+  "from": 486.69,
+  "to": 489.38,
+  "sid": 315,
+  "location": 2,
+  "content": "总拿你和lady is the mo",
+  "music": 0.9999999568965536
+ }
+]

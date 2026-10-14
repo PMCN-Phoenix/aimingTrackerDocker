@@ -1,0 +1,698 @@
+[
+ {
+  "from": 0.1,
+  "to": 0.7,
+  "sid": 1,
+  "location": 2,
+  "content": "我",
+  "music": 0.0
+ },
+ {
+  "from": 0.7,
+  "to": 3.989,
+  "sid": 2,
+  "location": 2,
+  "content": "我感我感觉换了要开大抓二楼了",
+  "music": 0.0
+ },
+ {
+  "from": 4.469,
+  "to": 5.029,
+  "sid": 3,
+  "location": 2,
+  "content": "别放",
+  "music": 0.0
+ },
+ {
+  "from": 5.029,
+  "to": 8.069,
+  "sid": 4,
+  "location": 2,
+  "content": "那我站一楼",
+  "music": 0.0
+ },
+ {
+  "from": 11.28,
+  "to": 14.68,
+  "sid": 5,
+  "location": 2,
+  "content": "一吸一闪一灭",
+  "music": 0.0
+ },
+ {
+  "from": 22.54,
+  "to": 23.96,
+  "sid": 6,
+  "location": 2,
+  "content": "A大枪吧",
+  "music": 0.0
+ },
+ {
+  "from": 23.96,
+  "to": 25.78,
+  "sid": 7,
+  "location": 2,
+  "content": "我被拔了",
+  "music": 0.0
+ },
+ {
+  "from": 42.11,
+  "to": 44.48,
+  "sid": 8,
+  "location": 2,
+  "content": "你是天命",
+  "music": 0.0
+ },
+ {
+  "from": 49.3,
+  "to": 53.8,
+  "sid": 9,
+  "location": 2,
+  "content": "安静season消灭工程师",
+  "music": 0.499999980158731
+ },
+ {
+  "from": 53.8,
+  "to": 55.82,
+  "sid": 10,
+  "location": 2,
+  "content": "谁人飞",
+  "music": 0.31428569183673843
+ },
+ {
+  "from": 56.38,
+  "to": 58.82,
+  "sid": 11,
+  "location": 2,
+  "content": "剩一名敌人A暴击",
+  "music": 0.0
+ },
+ {
+  "from": 58.82,
+  "to": 59.58,
+  "sid": 12,
+  "location": 2,
+  "content": "落在A区",
+  "music": 0.0
+ },
+ {
+  "from": 61.46,
+  "to": 64.58,
+  "sid": 13,
+  "location": 2,
+  "content": "使劲把他闪光背下",
+  "music": 0.0
+ },
+ {
+  "from": 68.3,
+  "to": 70.4,
+  "sid": 14,
+  "location": 2,
+  "content": "你过瘾了",
+  "music": 0.4117646655132656
+ },
+ {
+  "from": 70.4,
+  "to": 71.46,
+  "sid": 15,
+  "location": 2,
+  "content": "新手雷别打",
+  "music": 0.0
+ },
+ {
+  "from": 71.46,
+  "to": 75.24,
+  "sid": 16,
+  "location": 2,
+  "content": "别打过来过来",
+  "music": 0.0
+ },
+ {
+  "from": 76.3,
+  "to": 77.38,
+  "sid": 17,
+  "location": 2,
+  "content": "这我来治疗",
+  "music": 0.41304343336485394
+ },
+ {
+  "from": 77.38,
+  "to": 80.98,
+  "sid": 18,
+  "location": 2,
+  "content": "你标点标点标点标点一点",
+  "music": 0.09999999500000097
+ },
+ {
+  "from": 80.98,
+  "to": 85.44,
+  "sid": 19,
+  "location": 2,
+  "content": "正在我方塔高1~1起狂欢",
+  "music": 0.0
+ },
+ {
+  "from": 85.44,
+  "to": 87.52,
+  "sid": 20,
+  "location": 2,
+  "content": "人没这么脆弱",
+  "music": 0.11363635072315041
+ },
+ {
+  "from": 87.52,
+  "to": 88.59,
+  "sid": 21,
+  "location": 2,
+  "content": "喂",
+  "music": 0.0
+ },
+ {
+  "from": 89.11,
+  "to": 90.23,
+  "sid": 22,
+  "location": 2,
+  "content": "别挡我的路",
+  "music": 0.0
+ },
+ {
+  "from": 90.23,
+  "to": 93.789,
+  "sid": 23,
+  "location": 2,
+  "content": "屏障生成A大打A了",
+  "music": 0.0
+ },
+ {
+  "from": 93.789,
+  "to": 97.369,
+  "sid": 24,
+  "location": 2,
+  "content": "中暑给打A的话",
+  "music": 0.17580576911653886
+ },
+ {
+  "from": 97.369,
+  "to": 98.389,
+  "sid": 25,
+  "location": 2,
+  "content": "给这也打心",
+  "music": 0.0
+ },
+ {
+  "from": 98.389,
+  "to": 100.009,
+  "sid": 26,
+  "location": 2,
+  "content": "手雷也打了一个80",
+  "music": 0.0
+ },
+ {
+  "from": 100.009,
+  "to": 101.949,
+  "sid": 27,
+  "location": 2,
+  "content": "少了个80",
+  "music": 0.0
+ },
+ {
+  "from": 102.28,
+  "to": 103.16,
+  "sid": 28,
+  "location": 2,
+  "content": "安全扫描",
+  "music": 0.0
+ },
+ {
+  "from": 103.16,
+  "to": 104.2,
+  "sid": 29,
+  "location": 2,
+  "content": "前方有没有烟",
+  "music": 0.0
+ },
+ {
+  "from": 104.2,
+  "to": 106.16,
+  "sid": 30,
+  "location": 2,
+  "content": "没有烟起飞",
+  "music": 0.0
+ },
+ {
+  "from": 106.16,
+  "to": 108.32,
+  "sid": 31,
+  "location": 2,
+  "content": "请大家逃窜",
+  "music": 0.0
+ },
+ {
+  "from": 108.93,
+  "to": 110.13,
+  "sid": 32,
+  "location": 2,
+  "content": "要后防后防",
+  "music": 0.0
+ },
+ {
+  "from": 110.13,
+  "to": 111.69,
+  "sid": 33,
+  "location": 2,
+  "content": "还有一个后方一个BC连一个",
+  "music": 0.0
+ },
+ {
+  "from": 111.69,
+  "to": 113.77,
+  "sid": 34,
+  "location": 2,
+  "content": "后方一个BC连一",
+  "music": 0.0
+ },
+ {
+  "from": 116.3,
+  "to": 121.2,
+  "sid": 35,
+  "location": 2,
+  "content": "发现敌人天上飞机命不凡",
+  "music": 0.0
+ },
+ {
+  "from": 123.12,
+  "to": 127.66,
+  "sid": 36,
+  "location": 2,
+  "content": "See that girl will go through my veins",
+  "music": 0.6403508491074221
+ },
+ {
+  "from": 127.66,
+  "to": 130.139,
+  "sid": 37,
+  "location": 2,
+  "content": "I will make this",
+  "music": 0.27777775205762284
+ },
+ {
+  "from": 130.249,
+  "to": 132.419,
+  "sid": 38,
+  "location": 2,
+  "content": "还剩一名敌人",
+  "music": 0.0
+ },
+ {
+  "from": 132.419,
+  "to": 133.839,
+  "sid": 39,
+  "location": 2,
+  "content": "剩余十秒",
+  "music": 0.0
+ },
+ {
+  "from": 133.839,
+  "to": 135.82,
+  "sid": 40,
+  "location": 2,
+  "content": "好像爆能起飞",
+  "music": 0.0
+ },
+ {
+  "from": 135.82,
+  "to": 138.42,
+  "sid": 41,
+  "location": 2,
+  "content": "敌人已标记蒙蔽他们",
+  "music": 0.0
+ },
+ {
+  "from": 138.42,
+  "to": 139.44,
+  "sid": 42,
+  "location": 2,
+  "content": "多出淹没区",
+  "music": 0.43137250672817906
+ },
+ {
+  "from": 139.44,
+  "to": 141.71,
+  "sid": 43,
+  "location": 2,
+  "content": "猎人先做支援",
+  "music": 0.44444440917108363
+ },
+ {
+  "from": 141.71,
+  "to": 143.39,
+  "sid": 44,
+  "location": 2,
+  "content": "我的手",
+  "music": 0.0
+ },
+ {
+  "from": 143.39,
+  "to": 145.27,
+  "sid": 45,
+  "location": 2,
+  "content": "万一万一失",
+  "music": 0.07792207286220641
+ },
+ {
+  "from": 145.27,
+  "to": 149.8,
+  "sid": 46,
+  "location": 2,
+  "content": "二楼注意扫描前方网卡了",
+  "music": 0.08910890647974722
+ },
+ {
+  "from": 149.8,
+  "to": 152.27,
+  "sid": 47,
+  "location": 2,
+  "content": "兄弟神奇技巧啊",
+  "music": 0.17910446424594184
+ },
+ {
+  "from": 152.395,
+  "to": 155.55,
+  "sid": 48,
+  "location": 2,
+  "content": "暗智者才配生存",
+  "music": 0.0
+ },
+ {
+  "from": 155.55,
+  "to": 156.63,
+  "sid": 49,
+  "location": 2,
+  "content": "写击剑",
+  "music": 0.0
+ },
+ {
+  "from": 156.63,
+  "to": 158.73,
+  "sid": 50,
+  "location": 2,
+  "content": "我网卡了啊",
+  "music": 0.0
+ },
+ {
+  "from": 158.73,
+  "to": 160.15,
+  "sid": 51,
+  "location": 2,
+  "content": "一分屁股来了",
+  "music": 0.0
+ },
+ {
+  "from": 160.15,
+  "to": 165.52,
+  "sid": 52,
+  "location": 2,
+  "content": "哎我操二楼A区剩一名敌人E了",
+  "music": 0.0
+ },
+ {
+  "from": 165.52,
+  "to": 166.36,
+  "sid": 53,
+  "location": 2,
+  "content": "别急别急别急别急",
+  "music": 0.0
+ },
+ {
+  "from": 166.36,
+  "to": 167.12,
+  "sid": 54,
+  "location": 2,
+  "content": "我们俩都一一",
+  "music": 0.0
+ },
+ {
+  "from": 167.12,
+  "to": 169.72,
+  "sid": 55,
+  "location": 2,
+  "content": "我都因为下午还可以换人",
+  "music": 0.0
+ },
+ {
+  "from": 169.72,
+  "to": 171.55,
+  "sid": 56,
+  "location": 2,
+  "content": "对面的协同一般做的不好",
+  "music": 0.0
+ },
+ {
+  "from": 171.55,
+  "to": 173.5,
+  "sid": 57,
+  "location": 2,
+  "content": "Forgive me for la",
+  "music": 0.9999998571428776
+ },
+ {
+  "from": 174.98,
+  "to": 176.98,
+  "sid": 58,
+  "location": 2,
+  "content": "唉好像好像我马了",
+  "music": 0.0
+ },
+ {
+  "from": 176.98,
+  "to": 178.7,
+  "sid": 59,
+  "location": 2,
+  "content": "打一枪走哎",
+  "music": 0.0
+ },
+ {
+  "from": 178.7,
+  "to": 180.34,
+  "sid": 60,
+  "location": 2,
+  "content": "走走走走都走都走走吧",
+  "music": 0.0
+ },
+ {
+  "from": 180.34,
+  "to": 182.02,
+  "sid": 61,
+  "location": 2,
+  "content": "走吧走吧走吧走吧",
+  "music": 0.0
+ },
+ {
+  "from": 182.02,
+  "to": 185.15,
+  "sid": 62,
+  "location": 2,
+  "content": "炸药包投放烟雾",
+  "music": 0.34042551380715225
+ },
+ {
+  "from": 185.67,
+  "to": 187.39,
+  "sid": 63,
+  "location": 2,
+  "content": "别呀别呀别呀",
+  "music": 0.0
+ },
+ {
+  "from": 187.39,
+  "to": 189.49,
+  "sid": 64,
+  "location": 2,
+  "content": "还有还有你跳屁股一波呗",
+  "music": 0.0
+ },
+ {
+  "from": 189.49,
+  "to": 192.92,
+  "sid": 65,
+  "location": 2,
+  "content": "还在窗口哼",
+  "music": 0.0
+ },
+ {
+  "from": 192.92,
+  "to": 195.7,
+  "sid": 66,
+  "location": 2,
+  "content": "哎梦蝶一会就死了",
+  "music": 0.0
+ },
+ {
+  "from": 196.38,
+  "to": 198.1,
+  "sid": 67,
+  "location": 2,
+  "content": "剩一名敌人漂亮",
+  "music": 0.0
+ },
+ {
+  "from": 198.1,
+  "to": 200.82,
+  "sid": 68,
+  "location": 2,
+  "content": "刚才在VIP好像跳起来了",
+  "music": 0.0
+ },
+ {
+  "from": 200.82,
+  "to": 201.34,
+  "sid": 69,
+  "location": 2,
+  "content": "漂亮",
+  "music": 0.0
+ },
+ {
+  "from": 201.34,
+  "to": 204.25,
+  "sid": 70,
+  "location": 2,
+  "content": "这枪这么吊吗",
+  "music": 0.0
+ },
+ {
+  "from": 204.25,
+  "to": 205.71,
+  "sid": 71,
+  "location": 2,
+  "content": "你好",
+  "music": 0.0
+ },
+ {
+  "from": 205.71,
+  "to": 210.47,
+  "sid": 72,
+  "location": 2,
+  "content": "一起狂欢大能得到我",
+  "music": 0.0
+ },
+ {
+  "from": 210.47,
+  "to": 214.59,
+  "sid": 73,
+  "location": 2,
+  "content": "别把手下阿波没清了",
+  "music": 0.0
+ },
+ {
+  "from": 214.59,
+  "to": 217.74,
+  "sid": 74,
+  "location": 2,
+  "content": "蒙蔽了剑击剑",
+  "music": 0.0
+ },
+ {
+  "from": 219.82,
+  "to": 221.14,
+  "sid": 75,
+  "location": 2,
+  "content": "起飞",
+  "music": 0.0
+ },
+ {
+  "from": 226.42,
+  "to": 228.8,
+  "sid": 76,
+  "location": 2,
+  "content": "还剩一名敌人好枪",
+  "music": 0.0
+ },
+ {
+  "from": 228.8,
+  "to": 229.92,
+  "sid": 77,
+  "location": 2,
+  "content": "A兵倒下",
+  "music": 0.0
+ },
+ {
+  "from": 229.92,
+  "to": 231.94,
+  "sid": 78,
+  "location": 2,
+  "content": "牛逼倒地倒地",
+  "music": 0.0
+ },
+ {
+  "from": 233.14,
+  "to": 235.3,
+  "sid": 79,
+  "location": 2,
+  "content": "快快快给烟关",
+  "music": 0.0
+ },
+ {
+  "from": 235.3,
+  "to": 237.26,
+  "sid": 80,
+  "location": 2,
+  "content": "当心手雷",
+  "music": 0.0
+ },
+ {
+  "from": 242.44,
+  "to": 248.36,
+  "sid": 81,
+  "location": 2,
+  "content": "要进了要进了进了进了隔断隔断没隔断中路",
+  "music": 0.0
+ },
+ {
+  "from": 250.36,
+  "to": 252.44,
+  "sid": 82,
+  "location": 2,
+  "content": "啊拉不出来",
+  "music": 0.0
+ },
+ {
+  "from": 252.44,
+  "to": 254.94,
+  "sid": 83,
+  "location": 2,
+  "content": "我滴两个落在B区",
+  "music": 0.0
+ },
+ {
+  "from": 254.94,
+  "to": 256.72,
+  "sid": 84,
+  "location": 2,
+  "content": "快点了快点了",
+  "music": 0.0
+ },
+ {
+  "from": 256.88,
+  "to": 258.24,
+  "sid": 85,
+  "location": 2,
+  "content": "好加油加油加油",
+  "music": 0.0
+ },
+ {
+  "from": 258.24,
+  "to": 260.28,
+  "sid": 86,
+  "location": 2,
+  "content": "你不知道我这波在干嘛",
+  "music": 0.0
+ },
+ {
+  "from": 260.28,
+  "to": 260.94,
+  "sid": 87,
+  "location": 2,
+  "content": "",
+  "music": 0.0
+ }
+]

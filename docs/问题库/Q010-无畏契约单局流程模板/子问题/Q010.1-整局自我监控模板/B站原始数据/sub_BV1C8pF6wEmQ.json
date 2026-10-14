@@ -1,0 +1,3898 @@
+[
+ {
+  "from": 0.84,
+  "to": 1.16,
+  "sid": 1,
+  "location": 2,
+  "content": "大家好",
+  "music": 0.0
+ },
+ {
+  "from": 1.16,
+  "to": 2.18,
+  "sid": 2,
+  "location": 2,
+  "content": "我是修可",
+  "music": 0.0
+ },
+ {
+  "from": 2.18,
+  "to": 4.36,
+  "sid": 3,
+  "location": 2,
+  "content": "上一期的人讲解无畏契约的内容",
+  "music": 0.0
+ },
+ {
+  "from": 4.36,
+  "to": 6.34,
+  "sid": 4,
+  "location": 2,
+  "content": "我们更新了排位赛的本质",
+  "music": 0.0
+ },
+ {
+  "from": 6.34,
+  "to": 10.16,
+  "sid": 5,
+  "location": 2,
+  "content": "那我们今天就来讲这个无畏契约上分的本质",
+  "music": 0.0
+ },
+ {
+  "from": 10.71,
+  "to": 12.55,
+  "sid": 6,
+  "location": 2,
+  "content": "当然这不是一期杂谈啊",
+  "music": 0.0
+ },
+ {
+  "from": 12.55,
+  "to": 15.11,
+  "sid": 7,
+  "location": 2,
+  "content": "我会用一个位置啊",
+  "music": 0.0
+ },
+ {
+  "from": 15.11,
+  "to": 19.09,
+  "sid": 8,
+  "location": 2,
+  "content": "校尉的这个位置来跟他讲这个上分啊",
+  "music": 0.0
+ },
+ {
+  "from": 19.09,
+  "to": 19.93,
+  "sid": 9,
+  "location": 2,
+  "content": "上不上得了",
+  "music": 0.0
+ },
+ {
+  "from": 19.93,
+  "to": 21.74,
+  "sid": 10,
+  "location": 2,
+  "content": "或者说怎么样打上分",
+  "music": 0.0
+ },
+ {
+  "from": 21.74,
+  "to": 22.44,
+  "sid": 11,
+  "location": 2,
+  "content": "对不对",
+  "music": 0.0
+ },
+ {
+  "from": 22.44,
+  "to": 24.06,
+  "sid": 12,
+  "location": 2,
+  "content": "那首先上分的本质啊",
+  "music": 0.0
+ },
+ {
+  "from": 24.06,
+  "to": 26.5,
+  "sid": 13,
+  "location": 2,
+  "content": "上分的本质是你比对手强",
+  "music": 0.0
+ },
+ {
+  "from": 26.5,
+  "to": 30.39,
+  "sid": 14,
+  "location": 2,
+  "content": "你就能在通过场数积累之后上了分",
+  "music": 0.0
+ },
+ {
+  "from": 30.39,
+  "to": 33.15,
+  "sid": 15,
+  "location": 2,
+  "content": "那你怎么样比对手强呢",
+  "music": 0.0
+ },
+ {
+  "from": 33.15,
+  "to": 34.849,
+  "sid": 16,
+  "location": 2,
+  "content": "嗯对不对",
+  "music": 0.0
+ },
+ {
+  "from": 34.849,
+  "to": 36.249,
+  "sid": 17,
+  "location": 2,
+  "content": "你怎么样比队友强呢",
+  "music": 0.0
+ },
+ {
+  "from": 36.249,
+  "to": 37.649,
+  "sid": 18,
+  "location": 2,
+  "content": "第一你的天赋比他高",
+  "music": 0.0
+ },
+ {
+  "from": 37.649,
+  "to": 39.349,
+  "sid": 19,
+  "location": 2,
+  "content": "你要你堆场次堆上去",
+  "music": 0.0
+ },
+ {
+  "from": 39.349,
+  "to": 41.729,
+  "sid": 20,
+  "location": 2,
+  "content": "然后堆场次是怎么实现天赋的",
+  "music": 0.0
+ },
+ {
+  "from": 41.729,
+  "to": 43.59,
+  "sid": 21,
+  "location": 2,
+  "content": "是你通过堆场次的时候",
+  "music": 0.0
+ },
+ {
+  "from": 43.59,
+  "to": 47.28,
+  "sid": 22,
+  "location": 2,
+  "content": "去逐步发现自己在同段位对局中自己犯的失误",
+  "music": 0.0
+ },
+ {
+  "from": 47.28,
+  "to": 48.54,
+  "sid": 23,
+  "location": 2,
+  "content": "对手的问题",
+  "music": 0.0
+ },
+ {
+  "from": 48.54,
+  "to": 49.0,
+  "sid": 24,
+  "location": 2,
+  "content": "对不对",
+  "music": 0.0
+ },
+ {
+  "from": 49.0,
+  "to": 49.56,
+  "sid": 25,
+  "location": 2,
+  "content": "这是第一点",
+  "music": 0.0
+ },
+ {
+  "from": 49.56,
+  "to": 53.22,
+  "sid": 26,
+  "location": 2,
+  "content": "第二点是你通过瞄准训练增强了瞄准能力对吧",
+  "music": 0.0
+ },
+ {
+  "from": 53.22,
+  "to": 57.15,
+  "sid": 27,
+  "location": 2,
+  "content": "因为你要么就是瞄准比对方强对吧",
+  "music": 0.0
+ },
+ {
+  "from": 57.15,
+  "to": 57.99,
+  "sid": 28,
+  "location": 2,
+  "content": "瞄准比对方强",
+  "music": 0.0
+ },
+ {
+  "from": 57.99,
+  "to": 60.01,
+  "sid": 29,
+  "location": 2,
+  "content": "要么就是思路比对方强",
+  "music": 0.0
+ },
+ {
+  "from": 60.25,
+  "to": 62.33,
+  "sid": 30,
+  "location": 2,
+  "content": "你总得有一个比对方强",
+  "music": 0.0
+ },
+ {
+  "from": 62.33,
+  "to": 65.69,
+  "sid": 31,
+  "location": 2,
+  "content": "然后这个长这个墙还盖盖过你的短处对吧",
+  "music": 0.0
+ },
+ {
+  "from": 65.69,
+  "to": 66.49,
+  "sid": 32,
+  "location": 2,
+  "content": "扬长避短了",
+  "music": 0.0
+ },
+ {
+  "from": 66.49,
+  "to": 68.81,
+  "sid": 33,
+  "location": 2,
+  "content": "你才能在这个对局中carry",
+  "music": 0.0
+ },
+ {
+  "from": 68.81,
+  "to": 70.69,
+  "sid": 34,
+  "location": 2,
+  "content": "然后获胜后上分对不对",
+  "music": 0.0
+ },
+ {
+  "from": 70.69,
+  "to": 72.99,
+  "sid": 35,
+  "location": 2,
+  "content": "那OK你总得有个比队友强",
+  "music": 0.0
+ },
+ {
+  "from": 72.99,
+  "to": 74.13,
+  "sid": 36,
+  "location": 2,
+  "content": "那瞄准一大一",
+  "music": 0.0
+ },
+ {
+  "from": 74.13,
+  "to": 74.73,
+  "sid": 37,
+  "location": 2,
+  "content": "提到瞄准",
+  "music": 0.0
+ },
+ {
+  "from": 74.73,
+  "to": 76.69,
+  "sid": 38,
+  "location": 2,
+  "content": "其实大家很很很少人去练的",
+  "music": 0.0
+ },
+ {
+  "from": 76.69,
+  "to": 77.699,
+  "sid": 39,
+  "location": 2,
+  "content": "你能明白吗",
+  "music": 0.0
+ },
+ {
+  "from": 77.699,
+  "to": 80.35,
+  "sid": 40,
+  "location": 2,
+  "content": "包括我前面我带了那么多学生",
+  "music": 0.0
+ },
+ {
+  "from": 80.35,
+  "to": 83.23,
+  "sid": 41,
+  "location": 2,
+  "content": "真的愿意每天去练或练够时间的很少",
+  "music": 0.0
+ },
+ {
+  "from": 83.23,
+  "to": 83.55,
+  "sid": 42,
+  "location": 2,
+  "content": "很少",
+  "music": 0.0
+ },
+ {
+  "from": 83.55,
+  "to": 85.15,
+  "sid": 43,
+  "location": 2,
+  "content": "大家更更愿意什么",
+  "music": 0.0
+ },
+ {
+  "from": 85.15,
+  "to": 86.59,
+  "sid": 44,
+  "location": 2,
+  "content": "更愿意游玩这个游戏",
+  "music": 0.0
+ },
+ {
+  "from": 86.59,
+  "to": 88.009,
+  "sid": 45,
+  "location": 2,
+  "content": "而不是更愿意去练",
+  "music": 0.0
+ },
+ {
+  "from": 88.009,
+  "to": 91.729,
+  "sid": 46,
+  "location": 2,
+  "content": "因为大家本来就只是想把一个游戏玩的变强",
+  "music": 0.0
+ },
+ {
+  "from": 91.729,
+  "to": 94.209,
+  "sid": 47,
+  "location": 2,
+  "content": "而不是说想把它当做一个事业",
+  "music": 0.0
+ },
+ {
+  "from": 94.209,
+  "to": 95.329,
+  "sid": 48,
+  "location": 2,
+  "content": "一个事情去搞",
+  "music": 0.0
+ },
+ {
+  "from": 95.329,
+  "to": 97.18,
+  "sid": 49,
+  "location": 2,
+  "content": "所以大家不会呃",
+  "music": 0.0
+ },
+ {
+  "from": 97.18,
+  "to": 99.88,
+  "sid": 50,
+  "location": 2,
+  "content": "大家一定会一定会以人性的角度来说",
+  "music": 0.0
+ },
+ {
+  "from": 99.88,
+  "to": 101.08,
+  "sid": 51,
+  "location": 2,
+  "content": "一定会选这个轻松的",
+  "music": 0.0
+ },
+ {
+  "from": 101.08,
+  "to": 103.27,
+  "sid": 52,
+  "location": 2,
+  "content": "就是说他他希望在游玩之中",
+  "music": 0.0
+ },
+ {
+  "from": 103.27,
+  "to": 105.11,
+  "sid": 53,
+  "location": 2,
+  "content": "游玩之中去锻炼自己",
+  "music": 0.0
+ },
+ {
+  "from": 105.11,
+  "to": 106.47,
+  "sid": 54,
+  "location": 2,
+  "content": "那游玩之中锻炼自己",
+  "music": 0.0
+ },
+ {
+  "from": 106.47,
+  "to": 108.25,
+  "sid": 55,
+  "location": 2,
+  "content": "我们跟我们也说了",
+  "music": 0.0
+ },
+ {
+  "from": 108.25,
+  "to": 109.57,
+  "sid": 56,
+  "location": 2,
+  "content": "游完之后断裂子",
+  "music": 0.0
+ },
+ {
+  "from": 109.57,
+  "to": 111.71,
+  "sid": 57,
+  "location": 2,
+  "content": "OK你有进行反思吗",
+  "music": 0.0
+ },
+ {
+  "from": 111.71,
+  "to": 112.53,
+  "sid": 58,
+  "location": 2,
+  "content": "对不对",
+  "music": 0.0
+ },
+ {
+  "from": 112.53,
+  "to": 115.5,
+  "sid": 59,
+  "location": 2,
+  "content": "那你能发现对手问题或自己对手的问题吗",
+  "music": 0.0
+ },
+ {
+  "from": 115.5,
+  "to": 117.22,
+  "sid": 60,
+  "location": 2,
+  "content": "和对自己的问题嘛",
+  "music": 0.0
+ },
+ {
+  "from": 117.22,
+  "to": 117.68,
+  "sid": 61,
+  "location": 2,
+  "content": "对不对",
+  "music": 0.0
+ },
+ {
+  "from": 117.68,
+  "to": 118.86,
+  "sid": 62,
+  "location": 2,
+  "content": "如果这个你做不到",
+  "music": 0.0
+ },
+ {
+  "from": 118.86,
+  "to": 120.02,
+  "sid": 63,
+  "location": 2,
+  "content": "然后你每一把打完之后",
+  "music": 0.0
+ },
+ {
+  "from": 120.02,
+  "to": 120.82,
+  "sid": 64,
+  "location": 2,
+  "content": "你开第二把",
+  "music": 0.0
+ },
+ {
+  "from": 120.82,
+  "to": 124.299,
+  "sid": 65,
+  "location": 2,
+  "content": "那是不是本质上那个对局就只是一个对局",
+  "music": 0.0
+ },
+ {
+  "from": 124.299,
+  "to": 126.959,
+  "sid": 66,
+  "location": 2,
+  "content": "他对你个人的成长并没有任何的帮助",
+  "music": 0.0
+ },
+ {
+  "from": 128.079,
+  "to": 129.54,
+  "sid": 67,
+  "location": 2,
+  "content": "大家能理解到这个事情吗",
+  "music": 0.0
+ },
+ {
+  "from": 129.54,
+  "to": 130.04,
+  "sid": 68,
+  "location": 2,
+  "content": "对吧",
+  "music": 0.0
+ },
+ {
+  "from": 130.04,
+  "to": 131.1,
+  "sid": 69,
+  "location": 2,
+  "content": "那讲完这个之后",
+  "music": 0.0
+ },
+ {
+  "from": 131.1,
+  "to": 132.92,
+  "sid": 70,
+  "location": 2,
+  "content": "OK你发现卧槽好像是这样哦",
+  "music": 0.0
+ },
+ {
+  "from": 132.92,
+  "to": 134.66,
+  "sid": 71,
+  "location": 2,
+  "content": "那那就说有些人说啊",
+  "music": 0.0
+ },
+ {
+  "from": 134.66,
+  "to": 137.38,
+  "sid": 72,
+  "location": 2,
+  "content": "浴池我去看了POV",
+  "music": 0.0
+ },
+ {
+  "from": 137.66,
+  "to": 139.08,
+  "sid": 73,
+  "location": 2,
+  "content": "学了别人的打法",
+  "music": 0.0
+ },
+ {
+  "from": 139.08,
+  "to": 142.859,
+  "sid": 74,
+  "location": 2,
+  "content": "第二点我又怎么去排位carry呢",
+  "music": 0.0
+ },
+ {
+  "from": 142.859,
+  "to": 143.339,
+  "sid": 75,
+  "location": 2,
+  "content": "对不对",
+  "music": 0.0
+ },
+ {
+  "from": 143.339,
+  "to": 144.059,
+  "sid": 76,
+  "location": 2,
+  "content": "我有我有",
+  "music": 0.0
+ },
+ {
+  "from": 144.059,
+  "to": 145.559,
+  "sid": 77,
+  "location": 2,
+  "content": "我看了PLV知道怎么玩",
+  "music": 0.0
+ },
+ {
+  "from": 145.559,
+  "to": 146.719,
+  "sid": 78,
+  "location": 2,
+  "content": "我又没枪法",
+  "music": 0.0
+ },
+ {
+  "from": 146.719,
+  "to": 150.56,
+  "sid": 79,
+  "location": 2,
+  "content": "为什么我没有办法像你边打边教那样子",
+  "music": 0.0
+ },
+ {
+  "from": 150.88,
+  "to": 154.96,
+  "sid": 80,
+  "location": 2,
+  "content": "去针对性的就说啊对手怎么怎么样",
+  "music": 0.0
+ },
+ {
+  "from": 154.96,
+  "to": 156.85,
+  "sid": 81,
+  "location": 2,
+  "content": "之后我去哐哐哐哐打",
+  "music": 0.0
+ },
+ {
+  "from": 156.85,
+  "to": 159.39,
+  "sid": 82,
+  "location": 2,
+  "content": "或者说我像你边打边教里面那样",
+  "music": 0.0
+ },
+ {
+  "from": 159.39,
+  "to": 160.69,
+  "sid": 83,
+  "location": 2,
+  "content": "展现那么有压制性",
+  "music": 0.0
+ },
+ {
+  "from": 160.69,
+  "to": 164.64,
+  "sid": 84,
+  "location": 2,
+  "content": "那么灵活呢啊是因为有两个事情",
+  "music": 0.0
+ },
+ {
+  "from": 164.64,
+  "to": 166.76,
+  "sid": 85,
+  "location": 2,
+  "content": "第一个是对手变了花样",
+  "music": 0.0
+ },
+ {
+  "from": 166.76,
+  "to": 167.92,
+  "sid": 86,
+  "location": 2,
+  "content": "我更能知道",
+  "music": 0.0
+ },
+ {
+  "from": 167.92,
+  "to": 171.01,
+  "sid": 87,
+  "location": 2,
+  "content": "因为我在以对方的角度来说",
+  "music": 0.0
+ },
+ {
+  "from": 171.01,
+  "to": 173.95,
+  "sid": 88,
+  "location": 2,
+  "content": "他他面对的是一个枪法不怎么样",
+  "music": 0.0
+ },
+ {
+  "from": 173.95,
+  "to": 176.01,
+  "sid": 89,
+  "location": 2,
+  "content": "枪法可能只比他强一点点",
+  "music": 0.0
+ },
+ {
+  "from": 176.01,
+  "to": 177.49,
+  "sid": 90,
+  "location": 2,
+  "content": "但是游戏经验啊",
+  "music": 0.0
+ },
+ {
+  "from": 177.49,
+  "to": 178.25,
+  "sid": 91,
+  "location": 2,
+  "content": "他要做什么事情",
+  "music": 0.0
+ },
+ {
+  "from": 178.25,
+  "to": 179.81,
+  "sid": 92,
+  "location": 2,
+  "content": "完全被我洞悉的一个人",
+  "music": 0.0
+ },
+ {
+  "from": 179.81,
+  "to": 180.84,
+  "sid": 93,
+  "location": 2,
+  "content": "这是第一点",
+  "music": 0.0
+ },
+ {
+  "from": 180.84,
+  "to": 182.68,
+  "sid": 94,
+  "location": 2,
+  "content": "第二点是他的破绽",
+  "music": 0.0
+ },
+ {
+  "from": 182.68,
+  "to": 183.52,
+  "sid": 95,
+  "location": 2,
+  "content": "他不知道的",
+  "music": 0.0
+ },
+ {
+  "from": 183.52,
+  "to": 185.8,
+  "sid": 96,
+  "location": 2,
+  "content": "他的破绽我完全知道我的破绽",
+  "music": 0.0
+ },
+ {
+  "from": 185.8,
+  "to": 186.6,
+  "sid": 97,
+  "location": 2,
+  "content": "我有什么破绽",
+  "music": 0.0
+ },
+ {
+  "from": 186.6,
+  "to": 187.68,
+  "sid": 98,
+  "location": 2,
+  "content": "他完全不知道",
+  "music": 0.0
+ },
+ {
+  "from": 187.68,
+  "to": 189.84,
+  "sid": 99,
+  "location": 2,
+  "content": "那就有不对等信息优势了",
+  "music": 0.0
+ },
+ {
+  "from": 189.84,
+  "to": 191.88,
+  "sid": 100,
+  "location": 2,
+  "content": "相当于他在我面前是透明的",
+  "music": 0.0
+ },
+ {
+  "from": 191.88,
+  "to": 195.89,
+  "sid": 101,
+  "location": 2,
+  "content": "但是我在他面前不是那么边打边教的核心",
+  "music": 0.0
+ },
+ {
+  "from": 195.89,
+  "to": 197.27,
+  "sid": 102,
+  "location": 2,
+  "content": "我跟那么多是边打边教",
+  "music": 0.0
+ },
+ {
+  "from": 197.27,
+  "to": 198.93,
+  "sid": 103,
+  "location": 2,
+  "content": "核心核心什么啊",
+  "music": 0.0
+ },
+ {
+  "from": 198.93,
+  "to": 201.27,
+  "sid": 104,
+  "location": 2,
+  "content": "核心就是一点只有一点",
+  "music": 0.0
+ },
+ {
+  "from": 201.27,
+  "to": 203.65,
+  "sid": 105,
+  "location": 2,
+  "content": "打排位我们就打那一局",
+  "music": 0.0
+ },
+ {
+  "from": 203.65,
+  "to": 206.09,
+  "sid": 106,
+  "location": 2,
+  "content": "我们通过那一局对手的行为逻辑",
+  "music": 0.0
+ },
+ {
+  "from": 206.09,
+  "to": 206.97,
+  "sid": 107,
+  "location": 2,
+  "content": "找出他的漏洞",
+  "music": 0.0
+ },
+ {
+  "from": 206.97,
+  "to": 209.63,
+  "sid": 108,
+  "location": 2,
+  "content": "然后针对性的去打去上分",
+  "music": 0.0
+ },
+ {
+  "from": 209.75,
+  "to": 212.47,
+  "sid": 109,
+  "location": 2,
+  "content": "大家可能会说新手朋友做不到",
+  "music": 0.0
+ },
+ {
+  "from": 212.47,
+  "to": 214.23,
+  "sid": 110,
+  "location": 2,
+  "content": "新手朋友做不到",
+  "music": 0.0
+ },
+ {
+  "from": 214.23,
+  "to": 216.19,
+  "sid": 111,
+  "location": 2,
+  "content": "是不是新手朋友肯定做不到",
+  "music": 0.0
+ },
+ {
+  "from": 216.19,
+  "to": 218.39,
+  "sid": 112,
+  "location": 2,
+  "content": "但是如果你卡在这个段位很久了",
+  "music": 0.0
+ },
+ {
+  "from": 218.39,
+  "to": 219.19,
+  "sid": 113,
+  "location": 2,
+  "content": "你一定做得到",
+  "music": 0.0
+ },
+ {
+  "from": 219.19,
+  "to": 219.86,
+  "sid": 114,
+  "location": 2,
+  "content": "为什么",
+  "music": 0.0
+ },
+ {
+  "from": 219.86,
+  "to": 222.38,
+  "sid": 115,
+  "location": 2,
+  "content": "因为每一把跟你游玩的对手",
+  "music": 0.0
+ },
+ {
+  "from": 222.38,
+  "to": 223.62,
+  "sid": 116,
+  "location": 2,
+  "content": "他的段位差不多",
+  "music": 0.0
+ },
+ {
+  "from": 223.62,
+  "to": 224.82,
+  "sid": 117,
+  "location": 2,
+  "content": "他的实力差不多",
+  "music": 0.0
+ },
+ {
+  "from": 224.82,
+  "to": 227.0,
+  "sid": 118,
+  "location": 2,
+  "content": "他犯的错误也一定差不多",
+  "music": 0.0
+ },
+ {
+  "from": 227.0,
+  "to": 229.3,
+  "sid": 119,
+  "location": 2,
+  "content": "给大家讲一下我我我的例子吧",
+  "music": 0.0
+ },
+ {
+  "from": 229.3,
+  "to": 230.649,
+  "sid": 120,
+  "location": 2,
+  "content": "我打撸啊撸",
+  "music": 0.0
+ },
+ {
+  "from": 230.649,
+  "to": 231.769,
+  "sid": 121,
+  "location": 2,
+  "content": "我原来是白银",
+  "music": 0.0
+ },
+ {
+  "from": 231.769,
+  "to": 233.289,
+  "sid": 122,
+  "location": 2,
+  "content": "因为我基本没怎么玩英雄联盟",
+  "music": 0.0
+ },
+ {
+  "from": 233.289,
+  "to": 234.929,
+  "sid": 123,
+  "location": 2,
+  "content": "我打中单的时候我是白银",
+  "music": 0.0
+ },
+ {
+  "from": 234.929,
+  "to": 238.53,
+  "sid": 124,
+  "location": 2,
+  "content": "然后呢啊最近不是出了个翡翠吗",
+  "music": 0.0
+ },
+ {
+  "from": 238.53,
+  "to": 239.93,
+  "sid": 125,
+  "location": 2,
+  "content": "我一开始白银对线",
+  "music": 0.0
+ },
+ {
+  "from": 239.93,
+  "to": 240.41,
+  "sid": 126,
+  "location": 2,
+  "content": "我打不过",
+  "music": 0.0
+ },
+ {
+  "from": 240.41,
+  "to": 241.37,
+  "sid": 127,
+  "location": 2,
+  "content": "我就去看啊",
+  "music": 0.0
+ },
+ {
+  "from": 241.37,
+  "to": 244.61,
+  "sid": 128,
+  "location": 2,
+  "content": "看那些高手那些小代他怎么去炸翡翠的啊",
+  "music": 0.0
+ },
+ {
+  "from": 244.61,
+  "to": 247.54,
+  "sid": 129,
+  "location": 2,
+  "content": "这个这个虽然不提倡这个炸鱼代练啊",
+  "music": 0.0
+ },
+ {
+  "from": 247.54,
+  "to": 249.829,
+  "sid": 130,
+  "location": 2,
+  "content": "但是我看这小子怎么炸翡翠的",
+  "music": 0.0
+ },
+ {
+  "from": 249.829,
+  "to": 250.849,
+  "sid": 131,
+  "location": 2,
+  "content": "我就一看",
+  "music": 0.0
+ },
+ {
+  "from": 250.849,
+  "to": 253.349,
+  "sid": 132,
+  "location": 2,
+  "content": "卧槽翡翠这些人打了这么多破绽吗",
+  "music": 0.0
+ },
+ {
+  "from": 253.349,
+  "to": 254.549,
+  "sid": 133,
+  "location": 2,
+  "content": "听听过他讲对不对",
+  "music": 0.0
+ },
+ {
+  "from": 254.549,
+  "to": 255.349,
+  "sid": 134,
+  "location": 2,
+  "content": "然后我发现",
+  "music": 0.0
+ },
+ {
+  "from": 255.349,
+  "to": 256.549,
+  "sid": 135,
+  "location": 2,
+  "content": "然后我自己在兑现的时候",
+  "music": 0.0
+ },
+ {
+  "from": 256.549,
+  "to": 259.49,
+  "sid": 136,
+  "location": 2,
+  "content": "我发现哎我去我的对手也有这种破绽",
+  "music": 0.0
+ },
+ {
+  "from": 259.49,
+  "to": 260.93,
+  "sid": 137,
+  "location": 2,
+  "content": "又抓着那个破绽狠狠的打",
+  "music": 0.0
+ },
+ {
+  "from": 260.93,
+  "to": 261.69,
+  "sid": 138,
+  "location": 2,
+  "content": "我就上分了",
+  "music": 0.0
+ },
+ {
+  "from": 261.69,
+  "to": 262.89,
+  "sid": 139,
+  "location": 2,
+  "content": "就这样打赢了对线",
+  "music": 0.0
+ },
+ {
+  "from": 262.89,
+  "to": 265.72,
+  "sid": 140,
+  "location": 2,
+  "content": "所以说你在排位赛之中啊",
+  "music": 0.0
+ },
+ {
+  "from": 265.72,
+  "to": 267.04,
+  "sid": 141,
+  "location": 2,
+  "content": "你要赢那一把排位赛",
+  "music": 0.0
+ },
+ {
+  "from": 267.04,
+  "to": 268.96,
+  "sid": 142,
+  "location": 2,
+  "content": "你的本质是找对方的破绽啊",
+  "music": 0.0
+ },
+ {
+  "from": 268.96,
+  "to": 271.19,
+  "sid": 143,
+  "location": 2,
+  "content": "这个是这个无畏契约的本质",
+  "music": 0.0
+ },
+ {
+  "from": 271.19,
+  "to": 273.01,
+  "sid": 144,
+  "location": 2,
+  "content": "无谓契约本质就是一个博弈论啊",
+  "music": 0.0
+ },
+ {
+  "from": 273.01,
+  "to": 275.89,
+  "sid": 145,
+  "location": 2,
+  "content": "就是说对枪通过对枪的博弈论啊",
+  "music": 0.0
+ },
+ {
+  "from": 276.09,
+  "to": 277.89,
+  "sid": 146,
+  "location": 2,
+  "content": "如果通过对长时间博弈论啊",
+  "music": 0.0
+ },
+ {
+  "from": 277.89,
+  "to": 279.69,
+  "sid": 147,
+  "location": 2,
+  "content": "那我们为什么开篇要说少位呢",
+  "music": 0.0
+ },
+ {
+  "from": 279.69,
+  "to": 285.28,
+  "sid": 148,
+  "location": 2,
+  "content": "比如说啊比如说年检包就不是这个啊",
+  "music": 0.0
+ },
+ {
+  "from": 285.28,
+  "to": 288.66,
+  "sid": 149,
+  "location": 2,
+  "content": "三分你钱包要么去单摸B",
+  "music": 0.0
+ },
+ {
+  "from": 288.66,
+  "to": 290.76,
+  "sid": 150,
+  "location": 2,
+  "content": "要么去跟队友打团打A对吧",
+  "music": 0.0
+ },
+ {
+  "from": 290.76,
+  "to": 291.52,
+  "sid": 151,
+  "location": 2,
+  "content": "假如队友抢A大",
+  "music": 0.0
+ },
+ {
+  "from": 291.52,
+  "to": 293.27,
+  "sid": 152,
+  "location": 2,
+  "content": "要么去单摸C那么好",
+  "music": 0.0
+ },
+ {
+  "from": 293.27,
+  "to": 294.57,
+  "sid": 153,
+  "location": 2,
+  "content": "我现在告我现在问你",
+  "music": 0.0
+ },
+ {
+  "from": 294.57,
+  "to": 296.51,
+  "sid": 154,
+  "location": 2,
+  "content": "假如你的水平没有这个保安高",
+  "music": 0.0
+ },
+ {
+  "from": 296.51,
+  "to": 298.87,
+  "sid": 155,
+  "location": 2,
+  "content": "你你跟他1V胜率不高",
+  "music": 0.0
+ },
+ {
+  "from": 298.87,
+  "to": 301.1,
+  "sid": 156,
+  "location": 2,
+  "content": "你是不是没办法去当摩西",
+  "music": 0.0
+ },
+ {
+  "from": 301.1,
+  "to": 303.32,
+  "sid": 157,
+  "location": 2,
+  "content": "因为对于保安的最优解来说",
+  "music": 0.0
+ },
+ {
+  "from": 303.32,
+  "to": 304.32,
+  "sid": 158,
+  "location": 2,
+  "content": "他比你水平高",
+  "music": 0.0
+ },
+ {
+  "from": 304.32,
+  "to": 305.12,
+  "sid": 159,
+  "location": 2,
+  "content": "他把你杀了",
+  "music": 0.0
+ },
+ {
+  "from": 305.12,
+  "to": 307.74,
+  "sid": 160,
+  "location": 2,
+  "content": "他就能走到这个位置去控制你整个C",
+  "music": 0.0
+ },
+ {
+  "from": 307.74,
+  "to": 309.28,
+  "sid": 161,
+  "location": 2,
+  "content": "那对于这个保安来说",
+  "music": 0.0
+ },
+ {
+  "from": 309.28,
+  "to": 311.54,
+  "sid": 162,
+  "location": 2,
+  "content": "他的作点什么是把你杀掉",
+  "music": 0.0
+ },
+ {
+  "from": 311.54,
+  "to": 312.56,
+  "sid": 163,
+  "location": 2,
+  "content": "而且他不死",
+  "music": 0.0
+ },
+ {
+  "from": 312.56,
+  "to": 316.98,
+  "sid": 164,
+  "location": 2,
+  "content": "那一打一来说就是他最理想的状态",
+  "music": 0.0
+ },
+ {
+  "from": 317.979,
+  "to": 318.699,
+  "sid": 165,
+  "location": 2,
+  "content": "对不对",
+  "music": 0.0
+ },
+ {
+  "from": 318.699,
+  "to": 320.619,
+  "sid": 166,
+  "location": 2,
+  "content": "那这又要分析了",
+  "music": 0.0
+ },
+ {
+  "from": 320.619,
+  "to": 323.539,
+  "sid": 167,
+  "location": 2,
+  "content": "那假如他的队友会会被秒爆炸",
+  "music": 0.0
+ },
+ {
+  "from": 323.539,
+  "to": 324.68,
+  "sid": 168,
+  "location": 2,
+  "content": "会秒爆炸",
+  "music": 0.0
+ },
+ {
+  "from": 324.68,
+  "to": 327.08,
+  "sid": 169,
+  "location": 2,
+  "content": "那是不是你没有必要去跟他打V1",
+  "music": 0.0
+ },
+ {
+  "from": 327.08,
+  "to": 328.68,
+  "sid": 170,
+  "location": 2,
+  "content": "而且他一定要跟你打1V",
+  "music": 0.0
+ },
+ {
+  "from": 328.68,
+  "to": 329.16,
+  "sid": 171,
+  "location": 2,
+  "content": "为什么",
+  "music": 0.0
+ },
+ {
+  "from": 329.16,
+  "to": 330.52,
+  "sid": 172,
+  "location": 2,
+  "content": "因为他跟你打赢了1V",
+  "music": 0.0
+ },
+ {
+  "from": 330.52,
+  "to": 332.629,
+  "sid": 173,
+  "location": 2,
+  "content": "他可以多个转点的机会啊",
+  "music": 0.0
+ },
+ {
+  "from": 332.629,
+  "to": 335.6,
+  "sid": 174,
+  "location": 2,
+  "content": "多条枪线多一线躲一下胜利的",
+  "music": 0.0
+ },
+ {
+  "from": 335.6,
+  "to": 337.54,
+  "sid": 175,
+  "location": 2,
+  "content": "可那个几率吧",
+  "music": 0.0
+ },
+ {
+  "from": 337.54,
+  "to": 338.6,
+  "sid": 176,
+  "location": 2,
+  "content": "如果他直接回防",
+  "music": 0.0
+ },
+ {
+  "from": 338.6,
+  "to": 339.97,
+  "sid": 177,
+  "location": 2,
+  "content": "他就没有办法赢",
+  "music": 0.0
+ },
+ {
+  "from": 339.97,
+  "to": 340.79,
+  "sid": 178,
+  "location": 2,
+  "content": "对不对",
+  "music": 0.0
+ },
+ {
+  "from": 340.79,
+  "to": 342.21,
+  "sid": 179,
+  "location": 2,
+  "content": "因为他每把都打第一回翻了",
+  "music": 0.0
+ },
+ {
+  "from": 342.21,
+  "to": 342.87,
+  "sid": 180,
+  "location": 2,
+  "content": "没有办法赢",
+  "music": 0.0
+ },
+ {
+  "from": 342.87,
+  "to": 345.819,
+  "sid": 181,
+  "location": 2,
+  "content": "所以他这边他的水平越强",
+  "music": 0.0
+ },
+ {
+  "from": 345.819,
+  "to": 347.759,
+  "sid": 182,
+  "location": 2,
+  "content": "且他的队友越垃圾",
+  "music": 0.0
+ },
+ {
+  "from": 347.759,
+  "to": 351.77,
+  "sid": 183,
+  "location": 2,
+  "content": "他必须点对点把你打掉的这个渴望啊啊",
+  "music": 0.0
+ },
+ {
+  "from": 351.77,
+  "to": 353.91,
+  "sid": 184,
+  "location": 2,
+  "content": "这个必要性就会越大",
+  "music": 0.0
+ },
+ {
+  "from": 353.91,
+  "to": 358.93,
+  "sid": 185,
+  "location": 2,
+  "content": "那相反假如你的对手越垃圾进不去",
+  "music": 0.0
+ },
+ {
+  "from": 358.93,
+  "to": 361.87,
+  "sid": 186,
+  "location": 2,
+  "content": "那他的他的实力越垃圾",
+  "music": 0.0
+ },
+ {
+  "from": 361.87,
+  "to": 365.23,
+  "sid": 187,
+  "location": 2,
+  "content": "那你必须点对点把他打掉的必要性就更强",
+  "music": 0.0
+ },
+ {
+  "from": 365.23,
+  "to": 367.23,
+  "sid": 188,
+  "location": 2,
+  "content": "因为只有这样你才能赢这把游戏",
+  "music": 0.0
+ },
+ {
+  "from": 367.23,
+  "to": 369.93,
+  "sid": 189,
+  "location": 2,
+  "content": "不然你队友那里波波死B也进不去",
+  "music": 0.0
+ },
+ {
+  "from": 369.93,
+  "to": 370.53,
+  "sid": 190,
+  "location": 2,
+  "content": "C也进不去",
+  "music": 0.0
+ },
+ {
+  "from": 370.53,
+  "to": 371.21,
+  "sid": 191,
+  "location": 2,
+  "content": "C被控住了",
+  "music": 0.0
+ },
+ {
+  "from": 371.21,
+  "to": 371.71,
+  "sid": 192,
+  "location": 2,
+  "content": "对不对",
+  "music": 0.0
+ },
+ {
+  "from": 371.71,
+  "to": 372.93,
+  "sid": 193,
+  "location": 2,
+  "content": "那OK那是不是",
+  "music": 0.0
+ },
+ {
+  "from": 372.93,
+  "to": 374.55,
+  "sid": 194,
+  "location": 2,
+  "content": "首先我们确认这个必要性",
+  "music": 0.0
+ },
+ {
+  "from": 374.55,
+  "to": 375.94,
+  "sid": 195,
+  "location": 2,
+  "content": "单挑的必要性",
+  "music": 0.0
+ },
+ {
+  "from": 375.94,
+  "to": 378.84,
+  "sid": 196,
+  "location": 2,
+  "content": "我们又来讲这个单挑实战能不能实现",
+  "music": 0.0
+ },
+ {
+  "from": 378.84,
+  "to": 379.94,
+  "sid": 197,
+  "location": 2,
+  "content": "你去摸它",
+  "music": 0.0
+ },
+ {
+  "from": 379.94,
+  "to": 380.7,
+  "sid": 198,
+  "location": 2,
+  "content": "假如你俩五开",
+  "music": 0.0
+ },
+ {
+  "from": 380.7,
+  "to": 381.38,
+  "sid": 199,
+  "location": 2,
+  "content": "你去摸它",
+  "music": 0.0
+ },
+ {
+  "from": 381.38,
+  "to": 382.18,
+  "sid": 200,
+  "location": 2,
+  "content": "它躲一个位置",
+  "music": 0.0
+ },
+ {
+  "from": 382.18,
+  "to": 383.31,
+  "sid": 201,
+  "location": 2,
+  "content": "把你阴了",
+  "music": 0.0
+ },
+ {
+  "from": 383.31,
+  "to": 384.91,
+  "sid": 202,
+  "location": 2,
+  "content": "那你是不是得不偿失",
+  "music": 0.0
+ },
+ {
+  "from": 384.91,
+  "to": 386.99,
+  "sid": 203,
+  "location": 2,
+  "content": "那他压出来",
+  "music": 0.0
+ },
+ {
+  "from": 386.99,
+  "to": 388.47,
+  "sid": 204,
+  "location": 2,
+  "content": "你躲一个位置把他阴了",
+  "music": 0.0
+ },
+ {
+  "from": 388.47,
+  "to": 389.57,
+  "sid": 205,
+  "location": 2,
+  "content": "他是不是得不偿失",
+  "music": 0.0
+ },
+ {
+  "from": 389.57,
+  "to": 392.37,
+  "sid": 206,
+  "location": 2,
+  "content": "那最好结果是不是就是他守着这个口",
+  "music": 0.0
+ },
+ {
+  "from": 392.37,
+  "to": 393.31,
+  "sid": 207,
+  "location": 2,
+  "content": "你守着这个口",
+  "music": 0.0
+ },
+ {
+  "from": 393.31,
+  "to": 394.59,
+  "sid": 208,
+  "location": 2,
+  "content": "那彼此互不相让",
+  "music": 0.0
+ },
+ {
+  "from": 394.59,
+  "to": 395.87,
+  "sid": 209,
+  "location": 2,
+  "content": "这中间作为缓冲地带",
+  "music": 0.0
+ },
+ {
+  "from": 395.87,
+  "to": 396.44,
+  "sid": 210,
+  "location": 2,
+  "content": "对不对",
+  "music": 0.0
+ },
+ {
+  "from": 396.44,
+  "to": 398.46,
+  "sid": 211,
+  "location": 2,
+  "content": "是不是最好结果就是这样子",
+  "music": 0.0
+ },
+ {
+  "from": 398.46,
+  "to": 400.32,
+  "sid": 212,
+  "location": 2,
+  "content": "那很多时候打排位",
+  "music": 0.0
+ },
+ {
+  "from": 400.32,
+  "to": 403.98,
+  "sid": 213,
+  "location": 2,
+  "content": "我们会默认形成这个最好的最好的结果",
+  "music": 0.0
+ },
+ {
+  "from": 403.98,
+  "to": 405.38,
+  "sid": 214,
+  "location": 2,
+  "content": "或者说最平庸的结果",
+  "music": 0.0
+ },
+ {
+  "from": 405.38,
+  "to": 406.34,
+  "sid": 215,
+  "location": 2,
+  "content": "就两个水平差不多",
+  "music": 0.0
+ },
+ {
+  "from": 406.34,
+  "to": 407.76,
+  "sid": 216,
+  "location": 2,
+  "content": "两个人都拿对方没办法",
+  "music": 0.0
+ },
+ {
+  "from": 407.76,
+  "to": 409.77,
+  "sid": 217,
+  "location": 2,
+  "content": "但如果你想上分你",
+  "music": 0.0
+ },
+ {
+  "from": 409.77,
+  "to": 411.05,
+  "sid": 218,
+  "location": 2,
+  "content": "你作作为这个少尉来说",
+  "music": 0.0
+ },
+ {
+  "from": 411.05,
+  "to": 411.69,
+  "sid": 219,
+  "location": 2,
+  "content": "你想上分",
+  "music": 0.0
+ },
+ {
+  "from": 411.69,
+  "to": 413.45,
+  "sid": 220,
+  "location": 2,
+  "content": "你是不是必须首先得比他强",
+  "music": 0.0
+ },
+ {
+  "from": 413.45,
+  "to": 414.37,
+  "sid": 221,
+  "location": 2,
+  "content": "第二得找到他破绽",
+  "music": 0.0
+ },
+ {
+  "from": 414.37,
+  "to": 415.73,
+  "sid": 222,
+  "location": 2,
+  "content": "把他杀掉",
+  "music": 0.0
+ },
+ {
+  "from": 416.06,
+  "to": 418.46,
+  "sid": 223,
+  "location": 2,
+  "content": "这就是边打边教的意义",
+  "music": 0.0
+ },
+ {
+  "from": 418.46,
+  "to": 419.3,
+  "sid": 224,
+  "location": 2,
+  "content": "你们知道吗",
+  "music": 0.0
+ },
+ {
+  "from": 419.3,
+  "to": 420.9,
+  "sid": 225,
+  "location": 2,
+  "content": "这就是你变强意义",
+  "music": 0.0
+ },
+ {
+  "from": 420.9,
+  "to": 422.86,
+  "sid": 226,
+  "location": 2,
+  "content": "这就是你为什么打牌又能上分的意义",
+  "music": 0.0
+ },
+ {
+  "from": 422.86,
+  "to": 424.4,
+  "sid": 227,
+  "location": 2,
+  "content": "如果你只是在这里看着他",
+  "music": 0.0
+ },
+ {
+  "from": 424.4,
+  "to": 425.24,
+  "sid": 228,
+  "location": 2,
+  "content": "这里看着他",
+  "music": 0.0
+ },
+ {
+  "from": 425.24,
+  "to": 426.3,
+  "sid": 229,
+  "location": 2,
+  "content": "你拿他没办法",
+  "music": 0.0
+ },
+ {
+  "from": 426.3,
+  "to": 430.289,
+  "sid": 230,
+  "location": 2,
+  "content": "那我们影响游戏对局到哪里到哪里",
+  "music": 0.0
+ },
+ {
+  "from": 430.289,
+  "to": 432.149,
+  "sid": 231,
+  "location": 2,
+  "content": "回到队友身上",
+  "music": 0.0
+ },
+ {
+  "from": 432.149,
+  "to": 433.409,
+  "sid": 232,
+  "location": 2,
+  "content": "那队友爆炸了",
+  "music": 0.0
+ },
+ {
+  "from": 433.409,
+  "to": 434.029,
+  "sid": 233,
+  "location": 2,
+  "content": "你能玩吗",
+  "music": 0.0
+ },
+ {
+  "from": 434.029,
+  "to": 434.769,
+  "sid": 234,
+  "location": 2,
+  "content": "你很难玩",
+  "music": 0.0
+ },
+ {
+  "from": 434.769,
+  "to": 437.429,
+  "sid": 235,
+  "location": 2,
+  "content": "你几乎左右不了输赢",
+  "music": 0.0
+ },
+ {
+  "from": 437.429,
+  "to": 441.74,
+  "sid": 236,
+  "location": 2,
+  "content": "几乎啊几乎嗯大家有没有恍然大悟说哦",
+  "music": 0.0
+ },
+ {
+  "from": 441.74,
+  "to": 444.2,
+  "sid": 237,
+  "location": 2,
+  "content": "那我少尉是不是必须要跟这里去",
+  "music": 0.0
+ },
+ {
+  "from": 444.2,
+  "to": 444.44,
+  "sid": 238,
+  "location": 2,
+  "content": "哎",
+  "music": 0.0
+ },
+ {
+  "from": 444.44,
+  "to": 446.56,
+  "sid": 239,
+  "location": 2,
+  "content": "也不是只要对手很强",
+  "music": 0.0
+ },
+ {
+  "from": 446.56,
+  "to": 447.68,
+  "sid": 240,
+  "location": 2,
+  "content": "不是队友很强",
+  "music": 0.0
+ },
+ {
+  "from": 447.68,
+  "to": 448.83,
+  "sid": 241,
+  "location": 2,
+  "content": "对手很弱",
+  "music": 0.0
+ },
+ {
+  "from": 448.83,
+  "to": 450.31,
+  "sid": 242,
+  "location": 2,
+  "content": "队友波波拱进去",
+  "music": 0.0
+ },
+ {
+  "from": 450.31,
+  "to": 452.07,
+  "sid": 243,
+  "location": 2,
+  "content": "你是不是把钱压守好了",
+  "music": 0.0
+ },
+ {
+  "from": 452.07,
+  "to": 453.49,
+  "sid": 244,
+  "location": 2,
+  "content": "跟在队友屁股后面啊",
+  "music": 0.0
+ },
+ {
+  "from": 453.49,
+  "to": 454.87,
+  "sid": 245,
+  "location": 2,
+  "content": "架一架枪是不是也赢了",
+  "music": 0.0
+ },
+ {
+  "from": 454.87,
+  "to": 456.03,
+  "sid": 246,
+  "location": 2,
+  "content": "跟队友进去补补枪",
+  "music": 0.0
+ },
+ {
+  "from": 456.03,
+  "to": 457.4,
+  "sid": 247,
+  "location": 2,
+  "content": "架一下屁股也赢了",
+  "music": 0.0
+ },
+ {
+  "from": 457.4,
+  "to": 458.68,
+  "sid": 248,
+  "location": 2,
+  "content": "不让对面对面压出来",
+  "music": 0.0
+ },
+ {
+  "from": 458.68,
+  "to": 459.56,
+  "sid": 249,
+  "location": 2,
+  "content": "是不是就是指责",
+  "music": 0.0
+ },
+ {
+  "from": 459.56,
+  "to": 461.52,
+  "sid": 250,
+  "location": 2,
+  "content": "然后然后再施舍的时候过去帮队友",
+  "music": 0.0
+ },
+ {
+  "from": 462.6,
+  "to": 463.65,
+  "sid": 251,
+  "location": 2,
+  "content": "那对不对",
+  "music": 0.0
+ },
+ {
+  "from": 463.65,
+  "to": 467.19,
+  "sid": 252,
+  "location": 2,
+  "content": "那假如啊对手队友差不多强",
+  "music": 0.0
+ },
+ {
+  "from": 467.19,
+  "to": 471.31,
+  "sid": 253,
+  "location": 2,
+  "content": "那那博弈是不是来到地图控制啊",
+  "music": 0.0
+ },
+ {
+  "from": 471.31,
+  "to": 472.35,
+  "sid": 254,
+  "location": 2,
+  "content": "压进去这一种",
+  "music": 0.0
+ },
+ {
+  "from": 472.35,
+  "to": 473.17,
+  "sid": 255,
+  "location": 2,
+  "content": "对不对",
+  "music": 0.0
+ },
+ {
+  "from": 473.17,
+  "to": 475.49,
+  "sid": 256,
+  "location": 2,
+  "content": "那为什么说围棋本质是什么",
+  "music": 0.0
+ },
+ {
+  "from": 475.49,
+  "to": 479.3,
+  "sid": 257,
+  "location": 2,
+  "content": "本质就是你看打打比赛的时候",
+  "music": 0.0
+ },
+ {
+  "from": 479.3,
+  "to": 481.74,
+  "sid": 258,
+  "location": 2,
+  "content": "那两边那个少尉很少有点对单",
+  "music": 0.0
+ },
+ {
+  "from": 481.74,
+  "to": 485.37,
+  "sid": 259,
+  "location": 2,
+  "content": "突破的都得队友那边坐着压力给了压力",
+  "music": 0.0
+ },
+ {
+  "from": 485.37,
+  "to": 486.27,
+  "sid": 260,
+  "location": 2,
+  "content": "引起人走动",
+  "music": 0.0
+ },
+ {
+  "from": 486.27,
+  "to": 487.83,
+  "sid": 261,
+  "location": 2,
+  "content": "收到信息之后再单摸",
+  "music": 0.0
+ },
+ {
+  "from": 487.83,
+  "to": 489.15,
+  "sid": 262,
+  "location": 2,
+  "content": "他很少有上来哇",
+  "music": 0.0
+ },
+ {
+  "from": 489.15,
+  "to": 491.03,
+  "sid": 263,
+  "location": 2,
+  "content": "康纳把对面稍微秒的对吧",
+  "music": 0.0
+ },
+ {
+  "from": 491.03,
+  "to": 492.99,
+  "sid": 264,
+  "location": 2,
+  "content": "基本都互有输赢互杀",
+  "music": 0.0
+ },
+ {
+  "from": 492.99,
+  "to": 494.51,
+  "sid": 265,
+  "location": 2,
+  "content": "那假如有一方死了",
+  "music": 0.0
+ },
+ {
+  "from": 494.51,
+  "to": 495.51,
+  "sid": 266,
+  "location": 2,
+  "content": "尤其是这种莲花古人",
+  "music": 0.0
+ },
+ {
+  "from": 495.51,
+  "to": 497.01,
+  "sid": 267,
+  "location": 2,
+  "content": "这大头有一方死了",
+  "music": 0.0
+ },
+ {
+  "from": 497.01,
+  "to": 498.41,
+  "sid": 268,
+  "location": 2,
+  "content": "那掉的图人就很多",
+  "music": 0.0
+ },
+ {
+  "from": 498.41,
+  "to": 503.01,
+  "sid": 269,
+  "location": 2,
+  "content": "所以更多时候咳单走做默认的校尉或自由人",
+  "music": 0.0
+ },
+ {
+  "from": 503.01,
+  "to": 504.35,
+  "sid": 270,
+  "location": 2,
+  "content": "他更多时候他要干嘛",
+  "music": 0.0
+ },
+ {
+  "from": 504.35,
+  "to": 505.45,
+  "sid": 271,
+  "location": 2,
+  "content": "他要保命",
+  "music": 0.0
+ },
+ {
+  "from": 505.45,
+  "to": 506.61,
+  "sid": 272,
+  "location": 2,
+  "content": "保命是为了干嘛",
+  "music": 0.0
+ },
+ {
+  "from": 506.61,
+  "to": 507.39,
+  "sid": 273,
+  "location": 2,
+  "content": "保图权",
+  "music": 0.0
+ },
+ {
+  "from": 507.39,
+  "to": 507.85,
+  "sid": 274,
+  "location": 2,
+  "content": "对不对",
+  "music": 0.0
+ },
+ {
+  "from": 507.85,
+  "to": 509.28,
+  "sid": 275,
+  "location": 2,
+  "content": "保命是为了保图权",
+  "music": 0.0
+ },
+ {
+  "from": 509.28,
+  "to": 510.84,
+  "sid": 276,
+  "location": 2,
+  "content": "图悬是博弈的基础",
+  "music": 0.0
+ },
+ {
+  "from": 510.84,
+  "to": 512.28,
+  "sid": 277,
+  "location": 2,
+  "content": "就是说你有更多图学",
+  "music": 0.0
+ },
+ {
+  "from": 512.28,
+  "to": 513.68,
+  "sid": 278,
+  "location": 2,
+  "content": "你更容易猜到对手打哪",
+  "music": 0.0
+ },
+ {
+  "from": 513.68,
+  "to": 516.25,
+  "sid": 279,
+  "location": 2,
+  "content": "对手能换的打的点就更少",
+  "music": 0.0
+ },
+ {
+  "from": 516.25,
+  "to": 517.81,
+  "sid": 280,
+  "location": 2,
+  "content": "你们的防守力量就更强",
+  "music": 0.0
+ },
+ {
+  "from": 517.81,
+  "to": 519.789,
+  "sid": 281,
+  "location": 2,
+  "content": "或者进攻力量更强",
+  "music": 0.0
+ },
+ {
+  "from": 520.069,
+  "to": 521.429,
+  "sid": 282,
+  "location": 2,
+  "content": "你们说是不是",
+  "music": 0.0
+ },
+ {
+  "from": 521.429,
+  "to": 523.289,
+  "sid": 283,
+  "location": 2,
+  "content": "那这就不会切的本质啊",
+  "music": 0.0
+ },
+ {
+  "from": 523.289,
+  "to": 524.91,
+  "sid": 284,
+  "location": 2,
+  "content": "那你的本质就是说",
+  "music": 0.0
+ },
+ {
+  "from": 524.91,
+  "to": 528.29,
+  "sid": 285,
+  "location": 2,
+  "content": "你就是要去分析队友与对手的关系",
+  "music": 0.0
+ },
+ {
+  "from": 528.29,
+  "to": 529.77,
+  "sid": 286,
+  "location": 2,
+  "content": "队友还啊",
+  "music": 0.0
+ },
+ {
+  "from": 529.77,
+  "to": 531.23,
+  "sid": 287,
+  "location": 2,
+  "content": "我们我们来到另一个位置啊",
+  "music": 0.0
+ },
+ {
+  "from": 531.23,
+  "to": 533.8,
+  "sid": 288,
+  "location": 2,
+  "content": "就比如说先锋位啊",
+  "music": 0.0
+ },
+ {
+  "from": 533.8,
+  "to": 535.1,
+  "sid": 289,
+  "location": 2,
+  "content": "我随便选一张吧",
+  "music": 0.0
+ },
+ {
+  "from": 535.1,
+  "to": 536.78,
+  "sid": 290,
+  "location": 2,
+  "content": "你们跟对手差不多",
+  "music": 0.0
+ },
+ {
+  "from": 536.78,
+  "to": 539.349,
+  "sid": 291,
+  "location": 2,
+  "content": "但是你们的上位比对面吊的多",
+  "music": 0.0
+ },
+ {
+  "from": 539.349,
+  "to": 541.249,
+  "sid": 292,
+  "location": 2,
+  "content": "而且你们的少尉知道去摸它",
+  "music": 0.0
+ },
+ {
+  "from": 541.249,
+  "to": 543.229,
+  "sid": 293,
+  "location": 2,
+  "content": "那你们波波真是给了压力之后",
+  "music": 0.0
+ },
+ {
+  "from": 543.229,
+  "to": 545.549,
+  "sid": 294,
+  "location": 2,
+  "content": "等这个我们家钱包把对面把他杀了之后",
+  "music": 0.0
+ },
+ {
+  "from": 545.549,
+  "to": 546.469,
+  "sid": 295,
+  "location": 2,
+  "content": "静息是不是就行",
+  "music": 0.0
+ },
+ {
+  "from": 546.469,
+  "to": 547.909,
+  "sid": 296,
+  "location": 2,
+  "content": "或者说这钱包摸别的点",
+  "music": 0.0
+ },
+ {
+  "from": 547.909,
+  "to": 548.91,
+  "sid": 297,
+  "location": 2,
+  "content": "因为他会摸",
+  "music": 0.0
+ },
+ {
+  "from": 548.91,
+  "to": 549.61,
+  "sid": 298,
+  "location": 2,
+  "content": "对不对",
+  "music": 0.0
+ },
+ {
+  "from": 549.61,
+  "to": 553.11,
+  "sid": 299,
+  "location": 2,
+  "content": "那你说卧槽浴池我是个黄金白金",
+  "music": 0.0
+ },
+ {
+  "from": 553.11,
+  "to": 554.849,
+  "sid": 300,
+  "location": 2,
+  "content": "我上不去分啊",
+  "music": 0.0
+ },
+ {
+  "from": 555.089,
+  "to": 556.809,
+  "sid": 301,
+  "location": 2,
+  "content": "那队友都不会玩",
+  "music": 0.0
+ },
+ {
+  "from": 556.809,
+  "to": 557.789,
+  "sid": 302,
+  "location": 2,
+  "content": "我怎么上分啊",
+  "music": 0.0
+ },
+ {
+  "from": 557.789,
+  "to": 560.369,
+  "sid": 303,
+  "location": 2,
+  "content": "那是不是你只能去做你自己能力范围",
+  "music": 0.0
+ },
+ {
+  "from": 560.369,
+  "to": 562.389,
+  "sid": 304,
+  "location": 2,
+  "content": "你只能做到自己好",
+  "music": 0.0
+ },
+ {
+  "from": 562.389,
+  "to": 563.569,
+  "sid": 305,
+  "location": 2,
+  "content": "就说OK的地方",
+  "music": 0.0
+ },
+ {
+  "from": 563.569,
+  "to": 564.37,
+  "sid": 306,
+  "location": 2,
+  "content": "对的地方",
+  "music": 0.0
+ },
+ {
+  "from": 564.37,
+  "to": 568.42,
+  "sid": 307,
+  "location": 2,
+  "content": "其实为什么我们说有时候又说公式化有用",
+  "music": 0.0
+ },
+ {
+  "from": 568.42,
+  "to": 571.4,
+  "sid": 308,
+  "location": 2,
+  "content": "有时候又说啊实际分析有用",
+  "music": 0.0
+ },
+ {
+  "from": 571.4,
+  "to": 572.38,
+  "sid": 309,
+  "location": 2,
+  "content": "其实都有用",
+  "music": 0.0
+ },
+ {
+  "from": 572.38,
+  "to": 574.3,
+  "sid": 310,
+  "location": 2,
+  "content": "只是实际分析肯定更有用",
+  "music": 0.0
+ },
+ {
+  "from": 574.3,
+  "to": 577.27,
+  "sid": 311,
+  "location": 2,
+  "content": "因为假如说啊假如说一把游戏",
+  "music": 0.0
+ },
+ {
+  "from": 577.27,
+  "to": 578.53,
+  "sid": 312,
+  "location": 2,
+  "content": "这个是最标准的",
+  "music": 0.0
+ },
+ {
+  "from": 578.53,
+  "to": 579.81,
+  "sid": 313,
+  "location": 2,
+  "content": "我们说的标准打法",
+  "music": 0.0
+ },
+ {
+  "from": 579.81,
+  "to": 580.33,
+  "sid": 314,
+  "location": 2,
+  "content": "对不对",
+  "music": 0.0
+ },
+ {
+  "from": 580.33,
+  "to": 582.7,
+  "sid": 315,
+  "location": 2,
+  "content": "这是啊过于激进好吧",
+  "music": 0.0
+ },
+ {
+  "from": 585.64,
+  "to": 589.78,
+  "sid": 316,
+  "location": 2,
+  "content": "那对手没有办法保持在最中间的",
+  "music": 0.0
+ },
+ {
+  "from": 589.78,
+  "to": 592.68,
+  "sid": 317,
+  "location": 2,
+  "content": "他一定是处于过度防守与过度激进",
+  "music": 0.0
+ },
+ {
+  "from": 592.68,
+  "to": 594.12,
+  "sid": 318,
+  "location": 2,
+  "content": "这两个状态里面对吧",
+  "music": 0.0
+ },
+ {
+  "from": 594.12,
+  "to": 594.92,
+  "sid": 319,
+  "location": 2,
+  "content": "左右摇摆",
+  "music": 0.0
+ },
+ {
+  "from": 594.92,
+  "to": 597.28,
+  "sid": 320,
+  "location": 2,
+  "content": "那你只需要找到他是过度激进之后",
+  "music": 0.0
+ },
+ {
+  "from": 597.28,
+  "to": 598.08,
+  "sid": 321,
+  "location": 2,
+  "content": "你去断他",
+  "music": 0.0
+ },
+ {
+  "from": 598.08,
+  "to": 599.32,
+  "sid": 322,
+  "location": 2,
+  "content": "他是过度防守之后",
+  "music": 0.0
+ },
+ {
+  "from": 599.32,
+  "to": 600.77,
+  "sid": 323,
+  "location": 2,
+  "content": "你去侵占他图权",
+  "music": 0.0
+ },
+ {
+  "from": 600.77,
+  "to": 602.49,
+  "sid": 324,
+  "location": 2,
+  "content": "你根据它是过度极限",
+  "music": 0.0
+ },
+ {
+  "from": 602.49,
+  "to": 602.97,
+  "sid": 325,
+  "location": 2,
+  "content": "过度防守",
+  "music": 0.0
+ },
+ {
+  "from": 602.97,
+  "to": 604.27,
+  "sid": 326,
+  "location": 2,
+  "content": "你去调整你的玩法",
+  "music": 0.0
+ },
+ {
+  "from": 604.27,
+  "to": 605.15,
+  "sid": 327,
+  "location": 2,
+  "content": "然后呢",
+  "music": 0.0
+ },
+ {
+  "from": 605.15,
+  "to": 606.75,
+  "sid": 328,
+  "location": 2,
+  "content": "然后你去做相应的事情",
+  "music": 0.0
+ },
+ {
+  "from": 606.75,
+  "to": 608.15,
+  "sid": 329,
+  "location": 2,
+  "content": "比如说这个人他过度防守",
+  "music": 0.0
+ },
+ {
+  "from": 608.15,
+  "to": 609.59,
+  "sid": 330,
+  "location": 2,
+  "content": "他过度防守是到什么情况",
+  "music": 0.0
+ },
+ {
+  "from": 609.59,
+  "to": 611.67,
+  "sid": 331,
+  "location": 2,
+  "content": "他站这里是不是和他站这里",
+  "music": 0.0
+ },
+ {
+  "from": 611.67,
+  "to": 613.79,
+  "sid": 332,
+  "location": 2,
+  "content": "站这里完全缩包点",
+  "music": 0.0
+ },
+ {
+  "from": 613.79,
+  "to": 614.31,
+  "sid": 333,
+  "location": 2,
+  "content": "他不出来",
+  "music": 0.0
+ },
+ {
+  "from": 614.31,
+  "to": 615.79,
+  "sid": 334,
+  "location": 2,
+  "content": "看他是不是过度防守",
+  "music": 0.0
+ },
+ {
+  "from": 615.79,
+  "to": 616.35,
+  "sid": 335,
+  "location": 2,
+  "content": "对不对",
+  "music": 0.0
+ },
+ {
+  "from": 616.35,
+  "to": 617.75,
+  "sid": 336,
+  "location": 2,
+  "content": "那你是不是可以把那半线一打",
+  "music": 0.0
+ },
+ {
+  "from": 617.75,
+  "to": 618.53,
+  "sid": 337,
+  "location": 2,
+  "content": "先往里面涌",
+  "music": 0.0
+ },
+ {
+  "from": 618.53,
+  "to": 620.31,
+  "sid": 338,
+  "location": 2,
+  "content": "有稍额点放这里",
+  "music": 0.0
+ },
+ {
+  "from": 620.31,
+  "to": 621.27,
+  "sid": 339,
+  "location": 2,
+  "content": "他如果有什么反应",
+  "music": 0.0
+ },
+ {
+  "from": 621.27,
+  "to": 622.78,
+  "sid": 340,
+  "location": 2,
+  "content": "当道具过来",
+  "music": 0.0
+ },
+ {
+  "from": 622.78,
+  "to": 623.64,
+  "sid": 341,
+  "location": 2,
+  "content": "你踢回来",
+  "music": 0.0
+ },
+ {
+  "from": 623.64,
+  "to": 624.06,
+  "sid": 342,
+  "location": 2,
+  "content": "如果没有",
+  "music": 0.0
+ },
+ {
+  "from": 624.06,
+  "to": 625.76,
+  "sid": 343,
+  "location": 2,
+  "content": "反正道具你就跟他对着白毒的",
+  "music": 0.0
+ },
+ {
+  "from": 625.76,
+  "to": 626.62,
+  "sid": 344,
+  "location": 2,
+  "content": "如果过度激进",
+  "music": 0.0
+ },
+ {
+  "from": 626.62,
+  "to": 627.86,
+  "sid": 345,
+  "location": 2,
+  "content": "他一个保安站这个位置",
+  "music": 0.0
+ },
+ {
+  "from": 627.86,
+  "to": 629.14,
+  "sid": 346,
+  "location": 2,
+  "content": "你是可以让队友铁皮震了",
+  "music": 0.0
+ },
+ {
+  "from": 629.14,
+  "to": 630.62,
+  "sid": 347,
+  "location": 2,
+  "content": "他直接抓他",
+  "music": 0.0
+ },
+ {
+  "from": 631.44,
+  "to": 633.96,
+  "sid": 348,
+  "location": 2,
+  "content": "那如果那如果他站这里",
+  "music": 0.0
+ },
+ {
+  "from": 633.96,
+  "to": 636.2,
+  "sid": 349,
+  "location": 2,
+  "content": "他站这里他没有被铁臂震",
+  "music": 0.0
+ },
+ {
+  "from": 636.2,
+  "to": 637.71,
+  "sid": 350,
+  "location": 2,
+  "content": "没有被什么东西抓",
+  "music": 0.0
+ },
+ {
+  "from": 637.71,
+  "to": 639.85,
+  "sid": 351,
+  "location": 2,
+  "content": "没有东西惩罚他这个过度激进",
+  "music": 0.0
+ },
+ {
+  "from": 639.85,
+  "to": 642.99,
+  "sid": 352,
+  "location": 2,
+  "content": "那他这过度激进是不是就得到了奖激进的奖励",
+  "music": 0.0
+ },
+ {
+  "from": 642.99,
+  "to": 646.19,
+  "sid": 353,
+  "location": 2,
+  "content": "那如果他这过度防守没有被东西惩罚",
+  "music": 0.0
+ },
+ {
+  "from": 646.19,
+  "to": 647.97,
+  "sid": 354,
+  "location": 2,
+  "content": "那他是不是在这里",
+  "music": 0.0
+ },
+ {
+  "from": 647.97,
+  "to": 649.17,
+  "sid": 355,
+  "location": 2,
+  "content": "就是说他过度防守",
+  "music": 0.0
+ },
+ {
+  "from": 649.17,
+  "to": 650.05,
+  "sid": 356,
+  "location": 2,
+  "content": "他躲躲的很",
+  "music": 0.0
+ },
+ {
+  "from": 650.05,
+  "to": 651.45,
+  "sid": 357,
+  "location": 2,
+  "content": "后面他该控图就有控",
+  "music": 0.0
+ },
+ {
+  "from": 651.45,
+  "to": 652.75,
+  "sid": 358,
+  "location": 2,
+  "content": "比如说他可以干嘛",
+  "music": 0.0
+ },
+ {
+  "from": 652.75,
+  "to": 653.69,
+  "sid": 359,
+  "location": 2,
+  "content": "他可以这根慢线",
+  "music": 0.0
+ },
+ {
+  "from": 653.69,
+  "to": 654.34,
+  "sid": 360,
+  "location": 2,
+  "content": "这一根慢线",
+  "music": 0.0
+ },
+ {
+  "from": 654.34,
+  "to": 656.92,
+  "sid": 361,
+  "location": 2,
+  "content": "然后这个图权他拿这个摄像头去看",
+  "music": 0.0
+ },
+ {
+  "from": 656.92,
+  "to": 658.06,
+  "sid": 362,
+  "location": 2,
+  "content": "然后这里没人的时候",
+  "music": 0.0
+ },
+ {
+  "from": 658.06,
+  "to": 659.14,
+  "sid": 363,
+  "location": 2,
+  "content": "他其实可以干嘛",
+  "music": 0.0
+ },
+ {
+  "from": 659.14,
+  "to": 660.3,
+  "sid": 364,
+  "location": 2,
+  "content": "他其实可以走的",
+  "music": 0.0
+ },
+ {
+  "from": 660.3,
+  "to": 660.54,
+  "sid": 365,
+  "location": 2,
+  "content": "对不对",
+  "music": 0.0
+ },
+ {
+  "from": 660.54,
+  "to": 661.38,
+  "sid": 366,
+  "location": 2,
+  "content": "他不需要站在这里",
+  "music": 0.0
+ },
+ {
+  "from": 661.38,
+  "to": 662.26,
+  "sid": 367,
+  "location": 2,
+  "content": "他站在还站在这",
+  "music": 0.0
+ },
+ {
+  "from": 662.26,
+  "to": 663.19,
+  "sid": 368,
+  "location": 2,
+  "content": "是不是过度防守",
+  "music": 0.0
+ },
+ {
+  "from": 663.19,
+  "to": 663.67,
+  "sid": 369,
+  "location": 2,
+  "content": "对不对",
+  "music": 0.0
+ },
+ {
+  "from": 663.67,
+  "to": 664.43,
+  "sid": 370,
+  "location": 2,
+  "content": "因为这个点不需要",
+  "music": 0.0
+ },
+ {
+  "from": 664.43,
+  "to": 665.45,
+  "sid": 371,
+  "location": 2,
+  "content": "他这没看到人",
+  "music": 0.0
+ },
+ {
+  "from": 665.45,
+  "to": 666.71,
+  "sid": 372,
+  "location": 2,
+  "content": "他本来可以站在这里",
+  "music": 0.0
+ },
+ {
+  "from": 666.71,
+  "to": 667.43,
+  "sid": 373,
+  "location": 2,
+  "content": "B点有难",
+  "music": 0.0
+ },
+ {
+  "from": 667.43,
+  "to": 670.15,
+  "sid": 374,
+  "location": 2,
+  "content": "他就把C点摄像头看到人被被打",
+  "music": 0.0
+ },
+ {
+  "from": 670.15,
+  "to": 670.95,
+  "sid": 375,
+  "location": 2,
+  "content": "他可以立马回防",
+  "music": 0.0
+ },
+ {
+  "from": 670.95,
+  "to": 671.27,
+  "sid": 376,
+  "location": 2,
+  "content": "是不是",
+  "music": 0.0
+ },
+ {
+  "from": 671.27,
+  "to": 671.99,
+  "sid": 377,
+  "location": 2,
+  "content": "但他还在这里",
+  "music": 0.0
+ },
+ {
+  "from": 671.99,
+  "to": 673.02,
+  "sid": 378,
+  "location": 2,
+  "content": "他是不是过度防守",
+  "music": 0.0
+ },
+ {
+  "from": 673.02,
+  "to": 674.66,
+  "sid": 379,
+  "location": 2,
+  "content": "但如果他这个时候过度防守",
+  "music": 0.0
+ },
+ {
+  "from": 674.66,
+  "to": 675.86,
+  "sid": 380,
+  "location": 2,
+  "content": "你们还在打他C点",
+  "music": 0.0
+ },
+ {
+  "from": 675.86,
+  "to": 679.13,
+  "sid": 381,
+  "location": 2,
+  "content": "是不是他的过度防守没有被惩罚对吧",
+  "music": 0.0
+ },
+ {
+  "from": 679.13,
+  "to": 681.27,
+  "sid": 382,
+  "location": 2,
+  "content": "他反而因为购物方式得到了奖励",
+  "music": 0.0
+ },
+ {
+  "from": 681.27,
+  "to": 683.87,
+  "sid": 383,
+  "location": 2,
+  "content": "那是不是这样子会更难打",
+  "music": 0.0
+ },
+ {
+  "from": 683.87,
+  "to": 685.19,
+  "sid": 384,
+  "location": 2,
+  "content": "大家能听明白吗",
+  "music": 0.0
+ },
+ {
+  "from": 685.19,
+  "to": 687.56,
+  "sid": 385,
+  "location": 2,
+  "content": "大家能听听明白这个事情吗",
+  "music": 0.0
+ },
+ {
+  "from": 687.56,
+  "to": 691.32,
+  "sid": 386,
+  "location": 2,
+  "content": "所以说你要做的你要做的排位上分是干嘛",
+  "music": 0.0
+ },
+ {
+  "from": 691.32,
+  "to": 694.62,
+  "sid": 387,
+  "location": 2,
+  "content": "是明白你这个标准打法该干嘛",
+  "music": 0.0
+ },
+ {
+  "from": 694.62,
+  "to": 695.62,
+  "sid": 388,
+  "location": 2,
+  "content": "一个标准打法",
+  "music": 0.0
+ },
+ {
+  "from": 695.62,
+  "to": 696.9,
+  "sid": 389,
+  "location": 2,
+  "content": "标准打法是不是站中间",
+  "music": 0.0
+ },
+ {
+  "from": 696.9,
+  "to": 697.26,
+  "sid": 390,
+  "location": 2,
+  "content": "对不对",
+  "music": 0.0
+ },
+ {
+  "from": 697.26,
+  "to": 697.94,
+  "sid": 391,
+  "location": 2,
+  "content": "站中间",
+  "music": 0.0
+ },
+ {
+  "from": 697.94,
+  "to": 699.84,
+  "sid": 392,
+  "location": 2,
+  "content": "因为直接去这边",
+  "music": 0.0
+ },
+ {
+  "from": 699.84,
+  "to": 702.74,
+  "sid": 393,
+  "location": 2,
+  "content": "直接去B或去前面都有直接被杀",
+  "music": 0.0
+ },
+ {
+  "from": 702.74,
+  "to": 704.06,
+  "sid": 394,
+  "location": 2,
+  "content": "然后C点掉了的风险",
+  "music": 0.0
+ },
+ {
+  "from": 704.06,
+  "to": 706.7,
+  "sid": 395,
+  "location": 2,
+  "content": "但你站在C包点里面是不是就是过度防守",
+  "music": 0.0
+ },
+ {
+  "from": 706.7,
+  "to": 708.08,
+  "sid": 396,
+  "location": 2,
+  "content": "因为是希望你暂时没人",
+  "music": 0.0
+ },
+ {
+  "from": 708.08,
+  "to": 711.58,
+  "sid": 397,
+  "location": 2,
+  "content": "所以站在这个BC连中间是标准的",
+  "music": 0.0
+ },
+ {
+  "from": 711.58,
+  "to": 713.36,
+  "sid": 398,
+  "location": 2,
+  "content": "我们说标准比较理想化的",
+  "music": 0.0
+ },
+ {
+  "from": 713.36,
+  "to": 714.8,
+  "sid": 399,
+  "location": 2,
+  "content": "左可左可右",
+  "music": 0.0
+ },
+ {
+  "from": 714.8,
+  "to": 716.72,
+  "sid": 400,
+  "location": 2,
+  "content": "但他如果站这里或站这里都是",
+  "music": 0.0
+ },
+ {
+  "from": 716.72,
+  "to": 718.16,
+  "sid": 401,
+  "location": 2,
+  "content": "就是就是两个极端",
+  "music": 0.0
+ },
+ {
+  "from": 718.16,
+  "to": 719.48,
+  "sid": 402,
+  "location": 2,
+  "content": "两个极端的情况下",
+  "music": 0.0
+ },
+ {
+  "from": 719.48,
+  "to": 722.16,
+  "sid": 403,
+  "location": 2,
+  "content": "是不是就会或者说他不占这",
+  "music": 0.0
+ },
+ {
+  "from": 722.16,
+  "to": 723.08,
+  "sid": 404,
+  "location": 2,
+  "content": "它压到这来",
+  "music": 0.0
+ },
+ {
+  "from": 723.08,
+  "to": 724.12,
+  "sid": 405,
+  "location": 2,
+  "content": "是不是都是两个极端",
+  "music": 0.0
+ },
+ {
+  "from": 724.12,
+  "to": 728.55,
+  "sid": 406,
+  "location": 2,
+  "content": "两个极端都都是会被有风险有收益的",
+  "music": 0.0
+ },
+ {
+  "from": 728.55,
+  "to": 731.81,
+  "sid": 407,
+  "location": 2,
+  "content": "那就是说你如果判断你的对手",
+  "music": 0.0
+ },
+ {
+  "from": 731.81,
+  "to": 734.07,
+  "sid": 408,
+  "location": 2,
+  "content": "他他没有他",
+  "music": 0.0
+ },
+ {
+  "from": 734.07,
+  "to": 735.31,
+  "sid": 409,
+  "location": 2,
+  "content": "你的对手是过于防",
+  "music": 0.0
+ },
+ {
+  "from": 735.31,
+  "to": 736.11,
+  "sid": 410,
+  "location": 2,
+  "content": "比如说你是这个保安",
+  "music": 0.0
+ },
+ {
+  "from": 736.11,
+  "to": 736.87,
+  "sid": 411,
+  "location": 2,
+  "content": "你他你的视角",
+  "music": 0.0
+ },
+ {
+  "from": 736.87,
+  "to": 738.21,
+  "sid": 412,
+  "location": 2,
+  "content": "你对手过过度防守",
+  "music": 0.0
+ },
+ {
+  "from": 738.21,
+  "to": 740.12,
+  "sid": 413,
+  "location": 2,
+  "content": "对那个那个钱包他不激进",
+  "music": 0.0
+ },
+ {
+  "from": 740.12,
+  "to": 740.92,
+  "sid": 414,
+  "location": 2,
+  "content": "他不控图",
+  "music": 0.0
+ },
+ {
+  "from": 740.92,
+  "to": 741.76,
+  "sid": 415,
+  "location": 2,
+  "content": "他不拿图权",
+  "music": 0.0
+ },
+ {
+  "from": 741.76,
+  "to": 742.52,
+  "sid": 416,
+  "location": 2,
+  "content": "他不单摸",
+  "music": 0.0
+ },
+ {
+  "from": 742.52,
+  "to": 743.8,
+  "sid": 417,
+  "location": 2,
+  "content": "他只会跟着队友一起打",
+  "music": 0.0
+ },
+ {
+  "from": 743.8,
+  "to": 744.88,
+  "sid": 418,
+  "location": 2,
+  "content": "那他是不是过度防守",
+  "music": 0.0
+ },
+ {
+  "from": 744.88,
+  "to": 747.25,
+  "sid": 419,
+  "location": 2,
+  "content": "你是不是你这个想法是可以在这个位置",
+  "music": 0.0
+ },
+ {
+  "from": 747.25,
+  "to": 748.01,
+  "sid": 420,
+  "location": 2,
+  "content": "对不对",
+  "music": 0.0
+ },
+ {
+  "from": 748.01,
+  "to": 751.65,
+  "sid": 421,
+  "location": 2,
+  "content": "你用过度激进去克了他的过度防守",
+  "music": 0.0
+ },
+ {
+  "from": 753.28,
+  "to": 754.96,
+  "sid": 422,
+  "location": 2,
+  "content": "或者说他过度防守",
+  "music": 0.0
+ },
+ {
+  "from": 754.96,
+  "to": 756.02,
+  "sid": 423,
+  "location": 2,
+  "content": "他同时还不控图",
+  "music": 0.0
+ },
+ {
+  "from": 756.02,
+  "to": 757.1,
+  "sid": 424,
+  "location": 2,
+  "content": "你用他的破绽",
+  "music": 0.0
+ },
+ {
+  "from": 757.1,
+  "to": 758.24,
+  "sid": 425,
+  "location": 2,
+  "content": "你找到了他的破绽",
+  "music": 0.0
+ },
+ {
+  "from": 758.24,
+  "to": 759.8,
+  "sid": 426,
+  "location": 2,
+  "content": "你你采取过度激进",
+  "music": 0.0
+ },
+ {
+  "from": 759.8,
+  "to": 761.67,
+  "sid": 427,
+  "location": 2,
+  "content": "得到独得到图权的奖励",
+  "music": 0.0
+ },
+ {
+  "from": 761.67,
+  "to": 762.87,
+  "sid": 428,
+  "location": 2,
+  "content": "你更好地做了决策",
+  "music": 0.0
+ },
+ {
+  "from": 763.87,
+  "to": 764.84,
+  "sid": 429,
+  "location": 2,
+  "content": "是不是这个道理",
+  "music": 0.0
+ },
+ {
+  "from": 764.84,
+  "to": 766.28,
+  "sid": 430,
+  "location": 2,
+  "content": "那本质是不是这样",
+  "music": 0.0
+ },
+ {
+  "from": 766.28,
+  "to": 769.76,
+  "sid": 431,
+  "location": 2,
+  "content": "假如对手对方跟对手是两个水平差不多的人",
+  "music": 0.0
+ },
+ {
+  "from": 769.76,
+  "to": 770.92,
+  "sid": 432,
+  "location": 2,
+  "content": "你拿都拿",
+  "music": 0.0
+ },
+ {
+  "from": 770.92,
+  "to": 771.64,
+  "sid": 433,
+  "location": 2,
+  "content": "对方没办法",
+  "music": 0.0
+ },
+ {
+  "from": 771.64,
+  "to": 773.32,
+  "sid": 434,
+  "location": 2,
+  "content": "就只能尬着",
+  "music": 0.0
+ },
+ {
+  "from": 773.51,
+  "to": 775.71,
+  "sid": 435,
+  "location": 2,
+  "content": "所以说为什么说边打边教",
+  "music": 0.0
+ },
+ {
+  "from": 775.71,
+  "to": 776.45,
+  "sid": 436,
+  "location": 2,
+  "content": "有些人说啊",
+  "music": 0.0
+ },
+ {
+  "from": 776.45,
+  "to": 778.01,
+  "sid": 437,
+  "location": 2,
+  "content": "你怎么不打神话局",
+  "music": 0.0
+ },
+ {
+  "from": 778.01,
+  "to": 779.19,
+  "sid": 438,
+  "location": 2,
+  "content": "叽哩嘎啦叽哩嘎啦",
+  "music": 0.0
+ },
+ {
+  "from": 779.19,
+  "to": 783.43,
+  "sid": 439,
+  "location": 2,
+  "content": "因为神话局对手跟我的实力差不了多少",
+  "music": 0.0
+ },
+ {
+  "from": 783.43,
+  "to": 787.74,
+  "sid": 440,
+  "location": 2,
+  "content": "我没有办法通过自身做的对的事情或调整之后",
+  "music": 0.0
+ },
+ {
+  "from": 787.74,
+  "to": 789.34,
+  "sid": 441,
+  "location": 2,
+  "content": "取得了更大的效果",
+  "music": 0.0
+ },
+ {
+  "from": 789.34,
+  "to": 789.82,
+  "sid": 442,
+  "location": 2,
+  "content": "为什么",
+  "music": 0.0
+ },
+ {
+  "from": 789.82,
+  "to": 791.48,
+  "sid": 443,
+  "location": 2,
+  "content": "因为实力差不多",
+  "music": 0.0
+ },
+ {
+  "from": 791.48,
+  "to": 792.36,
+  "sid": 444,
+  "location": 2,
+  "content": "能明白吗",
+  "music": 0.0
+ },
+ {
+  "from": 792.36,
+  "to": 793.28,
+  "sid": 445,
+  "location": 2,
+  "content": "因为时间差不多",
+  "music": 0.0
+ },
+ {
+  "from": 793.28,
+  "to": 796.72,
+  "sid": 446,
+  "location": 2,
+  "content": "所以我没有办法体现我临场调整对于这个局势",
+  "music": 0.0
+ },
+ {
+  "from": 796.72,
+  "to": 798.75,
+  "sid": 447,
+  "location": 2,
+  "content": "对于这个东西的影响效果",
+  "music": 0.0
+ },
+ {
+  "from": 798.75,
+  "to": 800.59,
+  "sid": 448,
+  "location": 2,
+  "content": "同时打神话局出不了素材",
+  "music": 0.0
+ },
+ {
+  "from": 800.59,
+  "to": 801.27,
+  "sid": 449,
+  "location": 2,
+  "content": "很难出素材",
+  "music": 0.0
+ },
+ {
+  "from": 801.27,
+  "to": 802.67,
+  "sid": 450,
+  "location": 2,
+  "content": "打十把出一两把",
+  "music": 0.0
+ },
+ {
+  "from": 802.67,
+  "to": 805.07,
+  "sid": 451,
+  "location": 2,
+  "content": "但是打钻石小伙伴很容易出素材",
+  "music": 0.0
+ },
+ {
+  "from": 805.07,
+  "to": 806.91,
+  "sid": 452,
+  "location": 2,
+  "content": "所以为什么一堆人说我是啊",
+  "music": 0.0
+ },
+ {
+  "from": 806.91,
+  "to": 808.63,
+  "sid": 453,
+  "location": 2,
+  "content": "什么炸鱼教学技力高了啊",
+  "music": 0.0
+ },
+ {
+  "from": 808.63,
+  "to": 809.35,
+  "sid": 454,
+  "location": 2,
+  "content": "随便你们吧",
+  "music": 0.0
+ },
+ {
+  "from": 809.35,
+  "to": 810.31,
+  "sid": 455,
+  "location": 2,
+  "content": "随便你们怎么说吧",
+  "music": 0.0
+ },
+ {
+  "from": 810.31,
+  "to": 810.85,
+  "sid": 456,
+  "location": 2,
+  "content": "对不对",
+  "music": 0.0
+ },
+ {
+  "from": 810.85,
+  "to": 813.519,
+  "sid": 457,
+  "location": 2,
+  "content": "总反正总有人学到东西的",
+  "music": 0.0
+ },
+ {
+  "from": 813.519,
+  "to": 815.399,
+  "sid": 458,
+  "location": 2,
+  "content": "我之前之前还有个人上浮呢",
+  "music": 0.0
+ },
+ {
+  "from": 815.399,
+  "to": 817.359,
+  "sid": 459,
+  "location": 2,
+  "content": "艾特我说看我变哪比较开智对吧",
+  "music": 0.0
+ },
+ {
+  "from": 817.359,
+  "to": 818.479,
+  "sid": 460,
+  "location": 2,
+  "content": "总有人学到东西的",
+  "music": 0.0
+ },
+ {
+  "from": 818.479,
+  "to": 819.519,
+  "sid": 461,
+  "location": 2,
+  "content": "但总有人只会杠啊",
+  "music": 0.0
+ },
+ {
+  "from": 819.519,
+  "to": 820.349,
+  "sid": 462,
+  "location": 2,
+  "content": "无所谓的",
+  "music": 0.0
+ },
+ {
+  "from": 820.349,
+  "to": 821.269,
+  "sid": 463,
+  "location": 2,
+  "content": "对不对",
+  "music": 0.0
+ },
+ {
+  "from": 821.269,
+  "to": 823.109,
+  "sid": 464,
+  "location": 2,
+  "content": "所以你们要理解这个东西啊",
+  "music": 0.0
+ },
+ {
+  "from": 823.109,
+  "to": 825.349,
+  "sid": 465,
+  "location": 2,
+  "content": "然后这个视频最后也要说一件事情",
+  "music": 0.0
+ },
+ {
+  "from": 825.349,
+  "to": 826.229,
+  "sid": 466,
+  "location": 2,
+  "content": "就是预售小卡",
+  "music": 0.0
+ },
+ {
+  "from": 826.229,
+  "to": 828.01,
+  "sid": 467,
+  "location": 2,
+  "content": "现在啊第一陪玩代练",
+  "music": 0.0
+ },
+ {
+  "from": 828.01,
+  "to": 829.17,
+  "sid": 468,
+  "location": 2,
+  "content": "第二复盘啊",
+  "music": 0.0
+ },
+ {
+  "from": 829.17,
+  "to": 829.77,
+  "sid": 469,
+  "location": 2,
+  "content": "都不接了",
+  "music": 0.0
+ },
+ {
+  "from": 829.77,
+  "to": 830.41,
+  "sid": 470,
+  "location": 2,
+  "content": "咱们都不接",
+  "music": 0.0
+ },
+ {
+  "from": 830.41,
+  "to": 831.95,
+  "sid": 471,
+  "location": 2,
+  "content": "身体不好养养身体啊",
+  "music": 0.0
+ },
+ {
+  "from": 831.95,
+  "to": 832.75,
+  "sid": 472,
+  "location": 2,
+  "content": "大家会说啊",
+  "music": 0.0
+ },
+ {
+  "from": 832.75,
+  "to": 833.91,
+  "sid": 473,
+  "location": 2,
+  "content": "那那没有没有",
+  "music": 0.0
+ },
+ {
+  "from": 833.91,
+  "to": 836.31,
+  "sid": 474,
+  "location": 2,
+  "content": "我要看要要找谁复盘什么啊",
+  "music": 0.0
+ },
+ {
+  "from": 836.31,
+  "to": 837.19,
+  "sid": 475,
+  "location": 2,
+  "content": "随便了随便了",
+  "music": 0.0
+ },
+ {
+  "from": 837.19,
+  "to": 841.18,
+  "sid": 476,
+  "location": 2,
+  "content": "你们你们就是反正当时我开复盘的时候",
+  "music": 0.0
+ },
+ {
+  "from": 841.18,
+  "to": 842.82,
+  "sid": 477,
+  "location": 2,
+  "content": "就是挺多人来的",
+  "music": 0.0
+ },
+ {
+  "from": 842.82,
+  "to": 843.8,
+  "sid": 478,
+  "location": 2,
+  "content": "感谢你们啊",
+  "music": 0.0
+ },
+ {
+  "from": 843.8,
+  "to": 844.7,
+  "sid": 479,
+  "location": 2,
+  "content": "这个随便啦",
+  "music": 0.0
+ },
+ {
+  "from": 844.7,
+  "to": 847.67,
+  "sid": 480,
+  "location": 2,
+  "content": "不是说就是呃我不点评或不推荐",
+  "music": 0.0
+ },
+ {
+  "from": 847.67,
+  "to": 850.07,
+  "sid": 481,
+  "location": 2,
+  "content": "因为这个做复盘的同行太多了",
+  "music": 0.0
+ },
+ {
+  "from": 851.27,
+  "to": 853.51,
+  "sid": 482,
+  "location": 2,
+  "content": "得罪人咳",
+  "music": 0.0
+ },
+ {
+  "from": 853.51,
+  "to": 855.11,
+  "sid": 483,
+  "location": 2,
+  "content": "然后大概就是这样子",
+  "music": 0.0
+ },
+ {
+  "from": 855.11,
+  "to": 855.93,
+  "sid": 484,
+  "location": 2,
+  "content": "大概就是这样子",
+  "music": 0.0
+ },
+ {
+  "from": 855.93,
+  "to": 859.09,
+  "sid": 485,
+  "location": 2,
+  "content": "然后希望各位能领悟到这个事情呃",
+  "music": 0.0
+ },
+ {
+  "from": 859.09,
+  "to": 861.71,
+  "sid": 486,
+  "location": 2,
+  "content": "一定是干嘛先变强后打排位啊",
+  "music": 0.0
+ },
+ {
+  "from": 861.71,
+  "to": 865.22,
+  "sid": 487,
+  "location": 2,
+  "content": "然后呢找到对面的破绽去进攻",
+  "music": 0.0
+ }
+]

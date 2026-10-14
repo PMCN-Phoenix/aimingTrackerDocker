@@ -1,0 +1,1666 @@
+[
+ {
+  "from": 0.44,
+  "to": 1.07,
+  "sid": 1,
+  "location": 2,
+  "content": "大家好",
+  "music": 0.0
+ },
+ {
+  "from": 1.07,
+  "to": 2.42,
+  "sid": 2,
+  "location": 2,
+  "content": "我是翔哥",
+  "music": 0.0
+ },
+ {
+  "from": 2.42,
+  "to": 4.34,
+  "sid": 3,
+  "location": 2,
+  "content": "今天来给大家说一下",
+  "music": 0.0
+ },
+ {
+  "from": 4.34,
+  "to": 8.54,
+  "sid": 4,
+  "location": 2,
+  "content": "游戏中能够最快速提升对战意识的东西",
+  "music": 0.0
+ },
+ {
+  "from": 8.54,
+  "to": 10.31,
+  "sid": 5,
+  "location": 2,
+  "content": "就是这个小地图",
+  "music": 0.0
+ },
+ {
+  "from": 10.31,
+  "to": 12.34,
+  "sid": 6,
+  "location": 2,
+  "content": "我们经常会听到队友说",
+  "music": 0.0
+ },
+ {
+  "from": 12.34,
+  "to": 14.44,
+  "sid": 7,
+  "location": 2,
+  "content": "你能不能看一下小地图啊",
+  "music": 0.0
+ },
+ {
+  "from": 15.46,
+  "to": 18.38,
+  "sid": 8,
+  "location": 2,
+  "content": "啊新手呢经常会忽略小地图",
+  "music": 0.0
+ },
+ {
+  "from": 18.38,
+  "to": 20.96,
+  "sid": 9,
+  "location": 2,
+  "content": "或者不知道什么时候去看小地图",
+  "music": 0.0
+ },
+ {
+  "from": 20.96,
+  "to": 24.66,
+  "sid": 10,
+  "location": 2,
+  "content": "这期视频呢我会分别介绍小地图的机制",
+  "music": 0.0
+ },
+ {
+  "from": 24.66,
+  "to": 28.08,
+  "sid": 11,
+  "location": 2,
+  "content": "看小地图的时机以及实战的讲解",
+  "music": 0.0
+ },
+ {
+  "from": 28.08,
+  "to": 31.11,
+  "sid": 12,
+  "location": 2,
+  "content": "让大家更加详细的了解小地图",
+  "music": 0.0
+ },
+ {
+  "from": 31.11,
+  "to": 33.33,
+  "sid": 13,
+  "location": 2,
+  "content": "所以呢这期视频可能会有点长",
+  "music": 0.0
+ },
+ {
+  "from": 33.33,
+  "to": 35.23,
+  "sid": 14,
+  "location": 2,
+  "content": "希望大家可以耐心的看完",
+  "music": 0.0
+ },
+ {
+  "from": 35.23,
+  "to": 38.56,
+  "sid": 15,
+  "location": 2,
+  "content": "首先我们来先说一下无畏契约",
+  "music": 0.0
+ },
+ {
+  "from": 38.56,
+  "to": 40.64,
+  "sid": 16,
+  "location": 2,
+  "content": "游戏小地图的一些机制",
+  "music": 0.0
+ },
+ {
+  "from": 40.64,
+  "to": 42.41,
+  "sid": 17,
+  "location": 2,
+  "content": "无畏契约小地图的机制",
+  "music": 0.0
+ },
+ {
+  "from": 42.41,
+  "to": 43.61,
+  "sid": 18,
+  "location": 2,
+  "content": "我觉得是非常好",
+  "music": 0.0
+ },
+ {
+  "from": 43.61,
+  "to": 47.489,
+  "sid": 19,
+  "location": 2,
+  "content": "第一小地图是可以设置看到全图",
+  "music": 0.0
+ },
+ {
+  "from": 47.489,
+  "to": 49.349,
+  "sid": 20,
+  "location": 2,
+  "content": "也可以设置固定视角",
+  "music": 0.0
+ },
+ {
+  "from": 49.349,
+  "to": 51.1,
+  "sid": 21,
+  "location": 2,
+  "content": "或者随着视角转动",
+  "music": 0.0
+ },
+ {
+  "from": 51.1,
+  "to": 52.24,
+  "sid": 22,
+  "location": 2,
+  "content": "这个怎么设置呢",
+  "music": 0.0
+ },
+ {
+  "from": 52.24,
+  "to": 53.95,
+  "sid": 23,
+  "location": 2,
+  "content": "大家可以自己去搜索一下",
+  "music": 0.0
+ },
+ {
+  "from": 53.95,
+  "to": 55.63,
+  "sid": 24,
+  "location": 2,
+  "content": "我就不多赘述了",
+  "music": 0.0
+ },
+ {
+  "from": 55.63,
+  "to": 60.0,
+  "sid": 25,
+  "location": 2,
+  "content": "第二无畏契约的小地图是全队共享事业的",
+  "music": 0.0
+ },
+ {
+  "from": 60.0,
+  "to": 61.86,
+  "sid": 26,
+  "location": 2,
+  "content": "就是说队友看到的信息",
+  "music": 0.0
+ },
+ {
+  "from": 61.86,
+  "to": 65.19,
+  "sid": 27,
+  "location": 2,
+  "content": "在你的小地图地图上面是全部都有显示的",
+  "music": 0.0
+ },
+ {
+  "from": 65.19,
+  "to": 69.72,
+  "sid": 28,
+  "location": 2,
+  "content": "第三你视野内所看到的人物和技能",
+  "music": 0.0
+ },
+ {
+  "from": 69.72,
+  "to": 72.12,
+  "sid": 29,
+  "location": 2,
+  "content": "都会在小地图上显示",
+  "music": 0.0
+ },
+ {
+  "from": 72.12,
+  "to": 74.72,
+  "sid": 30,
+  "location": 2,
+  "content": "这一点呢会延伸出来一些小技巧",
+  "music": 0.0
+ },
+ {
+  "from": 74.72,
+  "to": 76.25,
+  "sid": 31,
+  "location": 2,
+  "content": "这个我们到后面再说",
+  "music": 0.0
+ },
+ {
+  "from": 76.25,
+  "to": 78.62,
+  "sid": 32,
+  "location": 2,
+  "content": "在了解了小地图的机制之后",
+  "music": 0.0
+ },
+ {
+  "from": 78.62,
+  "to": 81.43,
+  "sid": 33,
+  "location": 2,
+  "content": "我们来说一下该在什么时候看小地图",
+  "music": 0.0
+ },
+ {
+  "from": 81.43,
+  "to": 83.83,
+  "sid": 34,
+  "location": 2,
+  "content": "新手们都会有这样的疑惑",
+  "music": 0.0
+ },
+ {
+  "from": 83.83,
+  "to": 85.81,
+  "sid": 35,
+  "location": 2,
+  "content": "就是虽然我有两只眼",
+  "music": 0.0
+ },
+ {
+  "from": 85.81,
+  "to": 87.62,
+  "sid": 36,
+  "location": 2,
+  "content": "但是我只有一个脑子啊",
+  "music": 0.0
+ },
+ {
+  "from": 87.62,
+  "to": 89.69,
+  "sid": 37,
+  "location": 2,
+  "content": "我怎么可能一边盯着准星",
+  "music": 0.0
+ },
+ {
+  "from": 89.69,
+  "to": 91.24,
+  "sid": 38,
+  "location": 2,
+  "content": "又一边看小地图呢",
+  "music": 0.0
+ },
+ {
+  "from": 91.24,
+  "to": 94.15,
+  "sid": 39,
+  "location": 2,
+  "content": "那么高水平的玩家是怎么做到的呢",
+  "music": 0.0
+ },
+ {
+  "from": 94.15,
+  "to": 96.46,
+  "sid": 40,
+  "location": 2,
+  "content": "放心他们也是只有一个脑子",
+  "music": 0.0
+ },
+ {
+  "from": 96.46,
+  "to": 98.86,
+  "sid": 41,
+  "location": 2,
+  "content": "就是我们在刚开始学车的时候",
+  "music": 0.0
+ },
+ {
+  "from": 98.86,
+  "to": 100.57,
+  "sid": 42,
+  "location": 2,
+  "content": "教练会这样跟我们说啊",
+  "music": 0.0
+ },
+ {
+  "from": 103.24,
+  "to": 105.1,
+  "sid": 43,
+  "location": 2,
+  "content": "就把脚放到刹车上面",
+  "music": 0.0
+ },
+ {
+  "from": 105.1,
+  "to": 107.74,
+  "sid": 44,
+  "location": 2,
+  "content": "不论踩不踩刹车都要放在上面",
+  "music": 0.0
+ },
+ {
+  "from": 107.74,
+  "to": 109.72,
+  "sid": 45,
+  "location": 2,
+  "content": "看小地图也是一样的道理",
+  "music": 0.0
+ },
+ {
+  "from": 109.72,
+  "to": 111.76,
+  "sid": 46,
+  "location": 2,
+  "content": "当你的注意力不需要全部",
+  "music": 0.0
+ },
+ {
+  "from": 111.76,
+  "to": 114.08,
+  "sid": 47,
+  "location": 2,
+  "content": "集中在准准星上面的时候",
+  "music": 0.0
+ },
+ {
+  "from": 114.08,
+  "to": 117.36,
+  "sid": 48,
+  "location": 2,
+  "content": "那么就把所有的注意力都放在小地图上面",
+  "music": 0.0
+ },
+ {
+  "from": 117.36,
+  "to": 120.34,
+  "sid": 49,
+  "location": 2,
+  "content": "接下来我们进入几段实战的视角",
+  "music": 0.0
+ },
+ {
+  "from": 120.34,
+  "to": 124.27,
+  "sid": 50,
+  "location": 2,
+  "content": "让大家更加详细的了解什么时候该看小地图",
+  "music": 0.0
+ },
+ {
+  "from": 124.27,
+  "to": 126.26,
+  "sid": 51,
+  "location": 2,
+  "content": "为了让大家看得更清晰",
+  "music": 0.0
+ },
+ {
+  "from": 126.26,
+  "to": 129.26,
+  "sid": 52,
+  "location": 2,
+  "content": "我会在看小地图的时候呢做画面模糊",
+  "music": 0.0
+ },
+ {
+  "from": 129.26,
+  "to": 131.96,
+  "sid": 53,
+  "location": 2,
+  "content": "开局我作为烟位给的烟",
+  "music": 0.0
+ },
+ {
+  "from": 131.96,
+  "to": 134.36,
+  "sid": 54,
+  "location": 2,
+  "content": "我的两名队友守在我的前面",
+  "music": 0.0
+ },
+ {
+  "from": 134.36,
+  "to": 135.92,
+  "sid": 55,
+  "location": 2,
+  "content": "我们需要一直看点",
+  "music": 0.0
+ },
+ {
+  "from": 135.92,
+  "to": 138.05,
+  "sid": 56,
+  "location": 2,
+  "content": "我就盯着小地图拿信息",
+  "music": 0.0
+ },
+ {
+  "from": 138.05,
+  "to": 139.94,
+  "sid": 57,
+  "location": 2,
+  "content": "然后这时候听到对面盖可开",
+  "music": 0.0
+ },
+ {
+  "from": 139.94,
+  "to": 144.02,
+  "sid": 58,
+  "location": 2,
+  "content": "大地图上也显示大在B脸上回防B",
+  "music": 0.0
+ },
+ {
+  "from": 144.02,
+  "to": 145.34,
+  "sid": 59,
+  "location": 2,
+  "content": "在回家的路上呢",
+  "music": 0.0
+ },
+ {
+  "from": 145.34,
+  "to": 146.66,
+  "sid": 60,
+  "location": 2,
+  "content": "家里是绝对安全的",
+  "music": 0.0
+ },
+ {
+  "from": 146.66,
+  "to": 148.25,
+  "sid": 61,
+  "location": 2,
+  "content": "所以全程盯着小地图",
+  "music": 0.0
+ },
+ {
+  "from": 148.25,
+  "to": 149.48,
+  "sid": 62,
+  "location": 2,
+  "content": "补了逼的烟之后",
+  "music": 0.0
+ },
+ {
+  "from": 149.48,
+  "to": 150.41,
+  "sid": 63,
+  "location": 2,
+  "content": "欧盟开大",
+  "music": 0.0
+ },
+ {
+  "from": 150.41,
+  "to": 152.76,
+  "sid": 64,
+  "location": 2,
+  "content": "因为担心他会传到家里面",
+  "music": 0.0
+ },
+ {
+  "from": 152.76,
+  "to": 155.22,
+  "sid": 65,
+  "location": 2,
+  "content": "我作为家里唯一一个在家里的人",
+  "music": 0.0
+ },
+ {
+  "from": 155.22,
+  "to": 156.8,
+  "sid": 66,
+  "location": 2,
+  "content": "就要搜干净家里的点",
+  "music": 0.0
+ },
+ {
+  "from": 156.8,
+  "to": 161.72,
+  "sid": 67,
+  "location": 2,
+  "content": "这时候在A的队友报点对面坐传送门去A",
+  "music": 0.0
+ },
+ {
+  "from": 161.72,
+  "to": 163.88,
+  "sid": 68,
+  "location": 2,
+  "content": "我又赶快回防A点",
+  "music": 0.0
+ },
+ {
+  "from": 163.88,
+  "to": 166.97,
+  "sid": 69,
+  "location": 2,
+  "content": "这里呢在回防路上确定眼前没人之后",
+  "music": 0.0
+ },
+ {
+  "from": 166.97,
+  "to": 168.26,
+  "sid": 70,
+  "location": 2,
+  "content": "瞟了一眼小地图",
+  "music": 0.0
+ },
+ {
+  "from": 168.26,
+  "to": 170.03,
+  "sid": 71,
+  "location": 2,
+  "content": "确认一下对面人员位置",
+  "music": 0.0
+ },
+ {
+  "from": 170.03,
+  "to": 171.08,
+  "sid": 72,
+  "location": 2,
+  "content": "确认位置之后",
+  "music": 0.0
+ },
+ {
+  "from": 171.08,
+  "to": 172.95,
+  "sid": 73,
+  "location": 2,
+  "content": "赶快拉出来给队友补枪",
+  "music": 0.0
+ },
+ {
+  "from": 172.95,
+  "to": 175.71,
+  "sid": 74,
+  "location": 2,
+  "content": "补枪过程中注意力肯定都在准星上",
+  "music": 0.0
+ },
+ {
+  "from": 175.71,
+  "to": 179.06,
+  "sid": 75,
+  "location": 2,
+  "content": "打完人之后后撤到有掩体的地方换弹",
+  "music": 0.0
+ },
+ {
+  "from": 179.06,
+  "to": 180.74,
+  "sid": 76,
+  "location": 2,
+  "content": "这时候再看一下小地图",
+  "music": 0.0
+ },
+ {
+  "from": 180.74,
+  "to": 181.7,
+  "sid": 77,
+  "location": 2,
+  "content": "找一下另外两个人",
+  "music": 0.0
+ },
+ {
+  "from": 181.7,
+  "to": 183.38,
+  "sid": 78,
+  "location": 2,
+  "content": "正好看到保安也在报点",
+  "music": 0.0
+ },
+ {
+  "from": 183.38,
+  "to": 184.74,
+  "sid": 79,
+  "location": 2,
+  "content": "再上去补掉",
+  "music": 0.0
+ },
+ {
+  "from": 184.74,
+  "to": 186.69,
+  "sid": 80,
+  "location": 2,
+  "content": "最后一个人不确定位置",
+  "music": 0.0
+ },
+ {
+  "from": 186.69,
+  "to": 188.22,
+  "sid": 81,
+  "location": 2,
+  "content": "但是我们有人数优势",
+  "music": 0.0
+ },
+ {
+  "from": 188.22,
+  "to": 190.32,
+  "sid": 82,
+  "location": 2,
+  "content": "找个有掩体的地方先拆包",
+  "music": 0.0
+ },
+ {
+  "from": 190.32,
+  "to": 191.46,
+  "sid": 83,
+  "location": 2,
+  "content": "吸引他出来",
+  "music": 0.0
+ },
+ {
+  "from": 191.46,
+  "to": 193.68,
+  "sid": 84,
+  "location": 2,
+  "content": "拆包的过程中一直盯着小地图",
+  "music": 0.0
+ },
+ {
+  "from": 193.68,
+  "to": 194.58,
+  "sid": 85,
+  "location": 2,
+  "content": "随时补枪",
+  "music": 0.0
+ },
+ {
+  "from": 194.58,
+  "to": 195.48,
+  "sid": 86,
+  "location": 2,
+  "content": "拆完包之后",
+  "music": 0.0
+ },
+ {
+  "from": 195.48,
+  "to": 198.87,
+  "sid": 87,
+  "location": 2,
+  "content": "刚好在小地图上看到他在我们家拉出来打掉",
+  "music": 0.0
+ },
+ {
+  "from": 198.87,
+  "to": 199.83,
+  "sid": 88,
+  "location": 2,
+  "content": "这一局",
+  "music": 0.0
+ },
+ {
+  "from": 199.83,
+  "to": 201.77,
+  "sid": 89,
+  "location": 2,
+  "content": "开局我们主播B点",
+  "music": 0.0
+ },
+ {
+  "from": 201.77,
+  "to": 203.05,
+  "sid": 90,
+  "location": 2,
+  "content": "我去看屁股",
+  "music": 0.0
+ },
+ {
+  "from": 203.05,
+  "to": 205.72,
+  "sid": 91,
+  "location": 2,
+  "content": "因为对面前压没有那么快",
+  "music": 0.0
+ },
+ {
+  "from": 205.72,
+  "to": 207.73,
+  "sid": 92,
+  "location": 2,
+  "content": "然后我们也没有听到脚步声",
+  "music": 0.0
+ },
+ {
+  "from": 207.73,
+  "to": 209.44,
+  "sid": 93,
+  "location": 2,
+  "content": "也没有听到技能的声音",
+  "music": 0.0
+ },
+ {
+  "from": 209.44,
+  "to": 211.57,
+  "sid": 94,
+  "location": 2,
+  "content": "所以一直盯着小地图拿信息",
+  "music": 0.0
+ },
+ {
+  "from": 211.57,
+  "to": 212.68,
+  "sid": 95,
+  "location": 2,
+  "content": "稍微压了一会儿",
+  "music": 0.0
+ },
+ {
+  "from": 212.68,
+  "to": 214.81,
+  "sid": 96,
+  "location": 2,
+  "content": "到了对面可以静步摸过来的时间",
+  "music": 0.0
+ },
+ {
+  "from": 214.81,
+  "to": 216.36,
+  "sid": 97,
+  "location": 2,
+  "content": "就拉出去看一下",
+  "music": 0.0
+ },
+ {
+  "from": 216.36,
+  "to": 217.56,
+  "sid": 98,
+  "location": 2,
+  "content": "在小pk的时候呢",
+  "music": 0.0
+ },
+ {
+  "from": 217.56,
+  "to": 219.12,
+  "sid": 99,
+  "location": 2,
+  "content": "我们不用一直pk",
+  "music": 0.0
+ },
+ {
+  "from": 219.12,
+  "to": 220.2,
+  "sid": 100,
+  "location": 2,
+  "content": "可以pick几下",
+  "music": 0.0
+ },
+ {
+  "from": 220.2,
+  "to": 222.56,
+  "sid": 101,
+  "location": 2,
+  "content": "就回掩体看一眼小地图",
+  "music": 0.0
+ },
+ {
+  "from": 222.56,
+  "to": 225.08,
+  "sid": 102,
+  "location": 2,
+  "content": "这个时候看到我队友被打掉的信息",
+  "music": 0.0
+ },
+ {
+  "from": 225.08,
+  "to": 226.16,
+  "sid": 103,
+  "location": 2,
+  "content": "知道对面不会走",
+  "music": 0.0
+ },
+ {
+  "from": 226.16,
+  "to": 228.84,
+  "sid": 104,
+  "location": 2,
+  "content": "这里队友呢也已经进到了B报点",
+  "music": 0.0
+ },
+ {
+  "from": 228.84,
+  "to": 230.579,
+  "sid": 105,
+  "location": 2,
+  "content": "赶快大脚步去报点",
+  "music": 0.0
+ },
+ {
+  "from": 230.579,
+  "to": 233.729,
+  "sid": 106,
+  "location": 2,
+  "content": "回去路上只有经过中路的时候会有危险",
+  "music": 0.0
+ },
+ {
+  "from": 233.729,
+  "to": 234.599,
+  "sid": 107,
+  "location": 2,
+  "content": "需要看一下",
+  "music": 0.0
+ },
+ {
+  "from": 234.599,
+  "to": 236.579,
+  "sid": 108,
+  "location": 2,
+  "content": "其他的时候都盯着小地图",
+  "music": 0.0
+ },
+ {
+  "from": 236.579,
+  "to": 238.979,
+  "sid": 109,
+  "location": 2,
+  "content": "到B大的时候看到蝰蛇位置",
+  "music": 0.0
+ },
+ {
+  "from": 238.979,
+  "to": 240.899,
+  "sid": 110,
+  "location": 2,
+  "content": "此时斯凯的位置是位置的",
+  "music": 0.0
+ },
+ {
+  "from": 240.899,
+  "to": 243.16,
+  "sid": 111,
+  "location": 2,
+  "content": "需要静步摸一下",
+  "music": 0.0
+ },
+ {
+  "from": 246.68,
+  "to": 248.26,
+  "sid": 112,
+  "location": 2,
+  "content": "看到吊人信息",
+  "music": 0.0
+ },
+ {
+  "from": 248.26,
+  "to": 249.96,
+  "sid": 113,
+  "location": 2,
+  "content": "再看一眼小地图",
+  "music": 0.0
+ },
+ {
+  "from": 249.96,
+  "to": 251.34,
+  "sid": 114,
+  "location": 2,
+  "content": "确认蝰蛇位置",
+  "music": 0.0
+ },
+ {
+  "from": 251.34,
+  "to": 252.39,
+  "sid": 115,
+  "location": 2,
+  "content": "拉出去打掉",
+  "music": 0.0
+ },
+ {
+  "from": 252.39,
+  "to": 254.64,
+  "sid": 116,
+  "location": 2,
+  "content": "打掉以后再看一下小地图",
+  "music": 0.0
+ },
+ {
+  "from": 254.64,
+  "to": 256.48,
+  "sid": 117,
+  "location": 2,
+  "content": "确认一下包的位置",
+  "music": 0.0
+ },
+ {
+  "from": 256.48,
+  "to": 259.54,
+  "sid": 118,
+  "location": 2,
+  "content": "因为雷兹刚刚是在他们家A点位置打掉",
+  "music": 0.0
+ },
+ {
+  "from": 259.54,
+  "to": 260.47,
+  "sid": 119,
+  "location": 2,
+  "content": "我们家的霓虹",
+  "music": 0.0
+ },
+ {
+  "from": 260.47,
+  "to": 262.409,
+  "sid": 120,
+  "location": 2,
+  "content": "而且我们的包是掉在了后点",
+  "music": 0.0
+ },
+ {
+  "from": 262.409,
+  "to": 264.869,
+  "sid": 121,
+  "location": 2,
+  "content": "所以雷兹大概率是在这附近",
+  "music": 0.0
+ },
+ {
+  "from": 264.869,
+  "to": 265.949,
+  "sid": 122,
+  "location": 2,
+  "content": "队友报点",
+  "music": 0.0
+ },
+ {
+  "from": 265.949,
+  "to": 266.909,
+  "sid": 123,
+  "location": 2,
+  "content": "雷兹是残血",
+  "music": 0.0
+ },
+ {
+  "from": 266.909,
+  "to": 268.829,
+  "sid": 124,
+  "location": 2,
+  "content": "一枪死就没有换弹",
+  "music": 0.0
+ },
+ {
+  "from": 268.829,
+  "to": 270.22,
+  "sid": 125,
+  "location": 2,
+  "content": "暴露我们的具体位置",
+  "music": 0.0
+ },
+ {
+  "from": 270.22,
+  "to": 272.56,
+  "sid": 126,
+  "location": 2,
+  "content": "静步慢摸过去打掉下包",
+  "music": 0.0
+ },
+ {
+  "from": 272.56,
+  "to": 273.28,
+  "sid": 127,
+  "location": 2,
+  "content": "拿300块",
+  "music": 0.0
+ },
+ {
+  "from": 274.36,
+  "to": 278.91,
+  "sid": 128,
+  "location": 2,
+  "content": "开局我们指挥做了静步慢摸B市场的战术",
+  "music": 0.0
+ },
+ {
+  "from": 278.91,
+  "to": 280.3,
+  "sid": 129,
+  "location": 2,
+  "content": "我去主播B大",
+  "music": 0.0
+ },
+ {
+  "from": 280.3,
+  "to": 281.5,
+  "sid": 130,
+  "location": 2,
+  "content": "因为只有我一个人",
+  "music": 0.0
+ },
+ {
+  "from": 281.5,
+  "to": 284.74,
+  "sid": 131,
+  "location": 2,
+  "content": "且我带包就没有大脚步进静步架点",
+  "music": 0.0
+ },
+ {
+  "from": 284.74,
+  "to": 287.62,
+  "sid": 132,
+  "location": 2,
+  "content": "防止对面前压过有掩体的地方时",
+  "music": 0.0
+ },
+ {
+  "from": 287.62,
+  "to": 288.48,
+  "sid": 133,
+  "location": 2,
+  "content": "看小地图",
+  "music": 0.0
+ },
+ {
+  "from": 288.48,
+  "to": 289.86,
+  "sid": 134,
+  "location": 2,
+  "content": "看一下队友到哪里",
+  "music": 0.0
+ },
+ {
+  "from": 289.86,
+  "to": 290.94,
+  "sid": 135,
+  "location": 2,
+  "content": "拉出来架点",
+  "music": 0.0
+ },
+ {
+  "from": 290.94,
+  "to": 293.28,
+  "sid": 136,
+  "location": 2,
+  "content": "看到对面蝰蛇给烟回掩体",
+  "music": 0.0
+ },
+ {
+  "from": 293.28,
+  "to": 294.36,
+  "sid": 137,
+  "location": 2,
+  "content": "看一眼小地图",
+  "music": 0.0
+ },
+ {
+  "from": 294.36,
+  "to": 296.0,
+  "sid": 138,
+  "location": 2,
+  "content": "看一下队友到哪了",
+  "music": 0.0
+ },
+ {
+  "from": 296.0,
+  "to": 297.32,
+  "sid": 139,
+  "location": 2,
+  "content": "再拉出来架点",
+  "music": 0.0
+ },
+ {
+  "from": 297.32,
+  "to": 299.54,
+  "sid": 140,
+  "location": 2,
+  "content": "看到队友已经把蝰蛇打掉",
+  "music": 0.0
+ },
+ {
+  "from": 299.54,
+  "to": 300.5,
+  "sid": 141,
+  "location": 2,
+  "content": "且已经近点",
+  "music": 0.0
+ },
+ {
+  "from": 300.5,
+  "to": 302.0,
+  "sid": 142,
+  "location": 2,
+  "content": "就直接大脚步跟进",
+  "music": 0.0
+ },
+ {
+  "from": 302.0,
+  "to": 305.919,
+  "sid": 143,
+  "location": 2,
+  "content": "做同步是队友是从市场进的报点",
+  "music": 0.0
+ },
+ {
+  "from": 305.919,
+  "to": 308.049,
+  "sid": 144,
+  "location": 2,
+  "content": "所以只用架后报点位置",
+  "music": 0.0
+ },
+ {
+  "from": 308.049,
+  "to": 312.29,
+  "sid": 145,
+  "location": 2,
+  "content": "确认安全后下市场和B大包下包时盯着小地图",
+  "music": 0.0
+ },
+ {
+  "from": 312.29,
+  "to": 314.84,
+  "sid": 146,
+  "location": 2,
+  "content": "掌握队友动态和对面人员信息",
+  "music": 0.0
+ },
+ {
+  "from": 314.84,
+  "to": 316.88,
+  "sid": 147,
+  "location": 2,
+  "content": "下包后给市场分享",
+  "music": 0.0
+ },
+ {
+  "from": 316.88,
+  "to": 317.96,
+  "sid": 148,
+  "location": 2,
+  "content": "再看小地图",
+  "music": 0.0
+ },
+ {
+  "from": 317.96,
+  "to": 319.88,
+  "sid": 149,
+  "location": 2,
+  "content": "队友的防守部署情况",
+  "music": 0.0
+ },
+ {
+  "from": 319.88,
+  "to": 321.46,
+  "sid": 150,
+  "location": 2,
+  "content": "对面的回防路线",
+  "music": 0.0
+ },
+ {
+  "from": 321.46,
+  "to": 324.31,
+  "sid": 151,
+  "location": 2,
+  "content": "此时只能是从他们家和我们家",
+  "music": 0.0
+ },
+ {
+  "from": 324.31,
+  "to": 326.44,
+  "sid": 152,
+  "location": 2,
+  "content": "因为队友都在防他们家位置",
+  "music": 0.0
+ },
+ {
+  "from": 326.44,
+  "to": 329.06,
+  "sid": 153,
+  "location": 2,
+  "content": "所以我们去放自己家位置",
+  "music": 0.0
+ },
+ {
+  "from": 329.06,
+  "to": 331.76,
+  "sid": 154,
+  "location": 2,
+  "content": "通过这三个实战解析",
+  "music": 0.0
+ },
+ {
+  "from": 331.76,
+  "to": 335.28,
+  "sid": 155,
+  "location": 2,
+  "content": "大家应该大概了解该在什么时候看小地图",
+  "music": 0.0
+ },
+ {
+  "from": 335.28,
+  "to": 337.32,
+  "sid": 156,
+  "location": 2,
+  "content": "如果还有不清楚的",
+  "music": 0.0
+ },
+ {
+  "from": 337.32,
+  "to": 340.84,
+  "sid": 157,
+  "location": 2,
+  "content": "我再总结几个看小地图的情况",
+  "music": 0.0
+ },
+ {
+  "from": 340.84,
+  "to": 344.9,
+  "sid": 158,
+  "location": 2,
+  "content": "第一当你的队友打掉人或者被打掉的时候",
+  "music": 0.0
+ },
+ {
+  "from": 344.9,
+  "to": 346.1,
+  "sid": 159,
+  "location": 2,
+  "content": "需要看小地图",
+  "music": 0.0
+ },
+ {
+  "from": 346.1,
+  "to": 347.96,
+  "sid": 160,
+  "location": 2,
+  "content": "掌握对面人员情况",
+  "music": 0.0
+ },
+ {
+  "from": 347.96,
+  "to": 351.77,
+  "sid": 161,
+  "location": 2,
+  "content": "第二当你处在完全安全的位置的时候",
+  "music": 0.0
+ },
+ {
+  "from": 351.77,
+  "to": 353.03,
+  "sid": 162,
+  "location": 2,
+  "content": "需要看小地图",
+  "music": 0.0
+ },
+ {
+  "from": 353.03,
+  "to": 356.34,
+  "sid": 163,
+  "location": 2,
+  "content": "拿对面人员信息给队友报点也好",
+  "music": 0.0
+ },
+ {
+  "from": 356.34,
+  "to": 357.72,
+  "sid": 164,
+  "location": 2,
+  "content": "做下一步的打算",
+  "music": 0.0
+ },
+ {
+  "from": 357.72,
+  "to": 360.7,
+  "sid": 165,
+  "location": 2,
+  "content": "第三当你下包或者拆包",
+  "music": 0.0
+ },
+ {
+  "from": 360.7,
+  "to": 362.41,
+  "sid": 166,
+  "location": 2,
+  "content": "且有队友在附近时",
+  "music": 0.0
+ },
+ {
+  "from": 362.41,
+  "to": 363.7,
+  "sid": 167,
+  "location": 2,
+  "content": "需要看小地图",
+  "music": 0.0
+ },
+ {
+  "from": 363.7,
+  "to": 365.36,
+  "sid": 168,
+  "location": 2,
+  "content": "掌握你附近的情况",
+  "music": 0.0
+ },
+ {
+  "from": 365.36,
+  "to": 367.1,
+  "sid": 169,
+  "location": 2,
+  "content": "你只盯着你的准心的话",
+  "music": 0.0
+ },
+ {
+  "from": 367.1,
+  "to": 368.93,
+  "sid": 170,
+  "location": 2,
+  "content": "只能看到你面前的情况",
+  "music": 0.0
+ },
+ {
+  "from": 368.93,
+  "to": 371.93,
+  "sid": 171,
+  "location": 2,
+  "content": "第四当你架点或者搜点时",
+  "music": 0.0
+ },
+ {
+  "from": 371.93,
+  "to": 374.12,
+  "sid": 172,
+  "location": 2,
+  "content": "需要偶尔瞥一眼小地图",
+  "music": 0.0
+ },
+ {
+  "from": 374.12,
+  "to": 375.32,
+  "sid": 173,
+  "location": 2,
+  "content": "掌握信息",
+  "music": 0.0
+ },
+ {
+  "from": 375.32,
+  "to": 381.3,
+  "sid": 174,
+  "location": 2,
+  "content": "大家可以先遵循这几点做看小地图的练习",
+  "music": 0.0
+ },
+ {
+  "from": 381.3,
+  "to": 384.03,
+  "sid": 175,
+  "location": 2,
+  "content": "当你能够熟练地看小地图之后",
+  "music": 0.0
+ },
+ {
+  "from": 384.03,
+  "to": 385.56,
+  "sid": 176,
+  "location": 2,
+  "content": "可以做更进阶的",
+  "music": 0.0
+ },
+ {
+  "from": 385.56,
+  "to": 387.24,
+  "sid": 177,
+  "location": 2,
+  "content": "那就是眼中无图",
+  "music": 0.0
+ },
+ {
+  "from": 387.24,
+  "to": 388.35,
+  "sid": 178,
+  "location": 2,
+  "content": "心中有图",
+  "music": 0.0
+ },
+ {
+  "from": 388.35,
+  "to": 389.9,
+  "sid": 179,
+  "location": 2,
+  "content": "此乃最高境界",
+  "music": 0.0
+ },
+ {
+  "from": 389.9,
+  "to": 392.72,
+  "sid": 180,
+  "location": 2,
+  "content": "脑子里掌握着全场所有的情况",
+  "music": 0.0
+ },
+ {
+  "from": 392.72,
+  "to": 395.88,
+  "sid": 181,
+  "location": 2,
+  "content": "通过信息的收集整理推算",
+  "music": 0.0
+ },
+ {
+  "from": 395.88,
+  "to": 399.09,
+  "sid": 182,
+  "location": 2,
+  "content": "我们可知道对面人员的技能和位置情况",
+  "music": 0.0
+ },
+ {
+  "from": 399.09,
+  "to": 401.91,
+  "sid": 183,
+  "location": 2,
+  "content": "这个时候你的意识就已经达标了",
+  "music": 0.0
+ },
+ {
+  "from": 401.91,
+  "to": 403.84,
+  "sid": 184,
+  "location": 2,
+  "content": "这时候你就可以说你的队友了",
+  "music": 0.0
+ },
+ {
+  "from": 403.84,
+  "to": 405.88,
+  "sid": 185,
+  "location": 2,
+  "content": "你能不能看一眼小地图",
+  "music": 0.0
+ },
+ {
+  "from": 405.88,
+  "to": 407.26,
+  "sid": 186,
+  "location": 2,
+  "content": "在视频的最后呢",
+  "music": 0.0
+ },
+ {
+  "from": 407.26,
+  "to": 410.65,
+  "sid": 187,
+  "location": 2,
+  "content": "给大家分享几个小地图的实用小技巧",
+  "music": 0.0
+ },
+ {
+  "from": 410.65,
+  "to": 413.5,
+  "sid": 188,
+  "location": 2,
+  "content": "第一个呢是瑞纳的眼和Q的刀",
+  "music": 0.0
+ },
+ {
+  "from": 413.5,
+  "to": 416.19,
+  "sid": 189,
+  "location": 2,
+  "content": "就只要你能听到这个技能的声音",
+  "music": 0.0
+ },
+ {
+  "from": 416.19,
+  "to": 418.65,
+  "sid": 190,
+  "location": 2,
+  "content": "小地图就能看到技能的位置",
+  "music": 0.0
+ },
+ {
+  "from": 418.65,
+  "to": 422.1,
+  "sid": 191,
+  "location": 2,
+  "content": "通过这个位置可知他们人员位置情况",
+  "music": 0.0
+ },
+ {
+  "from": 422.1,
+  "to": 424.32,
+  "sid": 192,
+  "location": 2,
+  "content": "第二个是保安的摄像头",
+  "music": 0.0
+ },
+ {
+  "from": 424.32,
+  "to": 426.84,
+  "sid": 193,
+  "location": 2,
+  "content": "有时候位置会藏的比较隐蔽",
+  "music": 0.0
+ },
+ {
+  "from": 426.84,
+  "to": 427.86,
+  "sid": 194,
+  "location": 2,
+  "content": "我们找不到",
+  "music": 0.0
+ },
+ {
+  "from": 427.86,
+  "to": 429.52,
+  "sid": 195,
+  "location": 2,
+  "content": "可以通过小地图去找",
+  "music": 0.0
+ },
+ {
+  "from": 429.52,
+  "to": 432.13,
+  "sid": 196,
+  "location": 2,
+  "content": "只要你的视野范围内出现了摄像头",
+  "music": 0.0
+ },
+ {
+  "from": 432.13,
+  "to": 433.93,
+  "sid": 197,
+  "location": 2,
+  "content": "小地图上就会显示出来",
+  "music": 0.0
+ },
+ {
+  "from": 433.93,
+  "to": 436.27,
+  "sid": 198,
+  "location": 2,
+  "content": "然后找到那面墙再仔细搜索",
+  "music": 0.0
+ },
+ {
+  "from": 436.27,
+  "to": 439.59,
+  "sid": 199,
+  "location": 2,
+  "content": "第三个是当我们加一条线拿信息时候",
+  "music": 0.0
+ },
+ {
+  "from": 439.59,
+  "to": 442.74,
+  "sid": 200,
+  "location": 2,
+  "content": "准星视角可能看不清对面有几个人是谁",
+  "music": 0.0
+ },
+ {
+  "from": 442.74,
+  "to": 446.37,
+  "sid": 201,
+  "location": 2,
+  "content": "这个时候我们可以看小地图会更清楚好了",
+  "music": 0.0
+ },
+ {
+  "from": 446.37,
+  "to": 448.88,
+  "sid": 202,
+  "location": 2,
+  "content": "今天的视频分享就到这里了",
+  "music": 0.0
+ },
+ {
+  "from": 448.88,
+  "to": 450.92,
+  "sid": 203,
+  "location": 2,
+  "content": "上一期视频有一点热度",
+  "music": 0.0
+ },
+ {
+  "from": 450.92,
+  "to": 453.08,
+  "sid": 204,
+  "location": 2,
+  "content": "让我也有了更新下去的动力",
+  "music": 0.0
+ },
+ {
+  "from": 453.08,
+  "to": 456.05,
+  "sid": 205,
+  "location": 2,
+  "content": "大家可以在评论区告诉我想看什么样的内容",
+  "music": 0.0
+ },
+ {
+  "from": 456.05,
+  "to": 457.43,
+  "sid": 206,
+  "location": 2,
+  "content": "我也会及时更新",
+  "music": 0.0
+ },
+ {
+  "from": 457.43,
+  "to": 459.08,
+  "sid": 207,
+  "location": 2,
+  "content": "感谢大家的支持",
+  "music": 0.0
+ },
+ {
+  "from": 459.08,
+  "to": 461.9,
+  "sid": 208,
+  "location": 2,
+  "content": "最后不要忘记一键三连哦",
+  "music": 0.06185566691465876
+ }
+]
