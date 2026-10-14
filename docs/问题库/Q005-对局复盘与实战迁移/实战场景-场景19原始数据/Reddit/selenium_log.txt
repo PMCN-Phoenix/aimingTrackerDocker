@@ -1,0 +1,31 @@
+﻿[open] w051jz VALORANT
+    score=? title= cmts=0
+[open] j2zwht VALORANT
+    score=? title= cmts=0
+[open] sr0kvu VALORANT
+    score=? title= cmts=0
+[open] 1dqg87b VALORANT
+    score=? title= cmts=0
+[open] oiqtt8 VALORANT
+    score=? title= cmts=0
+[open] w2tfhm VALORANT
+    score=? title= cmts=0
+[open] xi09mp VALORANT
+    score=? title= cmts=0
+[open] 13m2kqi VALORANT
+    score=? title= cmts=0
+[open] v8ou9l VALORANT
+    score=? title= cmts=0
+[open] qlldt7 VALORANT
+    score=? title= cmts=0
+[open] yia93e VALORANT
+    score=? title= cmts=0
+[open] lw29ai VALORANT
+    score=? title= cmts=0
+[open] n4rg1j VALORANT
+    score=? title= cmts=0
+[open] j0f4v8 AgentAcademy
+    score=? title= cmts=0
+[open] vrg8er AgentAcademy
+    score=? title= cmts=0
+DONE

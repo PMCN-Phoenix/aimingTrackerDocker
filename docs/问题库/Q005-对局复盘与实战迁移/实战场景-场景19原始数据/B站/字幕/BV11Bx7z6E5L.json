@@ -1,0 +1,1890 @@
+{
+  "bvid": "BV11Bx7z6E5L",
+  "lan": "ai-zh",
+  "title": "有人枪法好，有人道具好，我们只有心态好。",
+  "owner": "城北徐公-瓦",
+  "duration": 480,
+  "cid": 32875810538,
+  "body": [
+    {
+      "from": 0.08,
+      "to": 0.96,
+      "sid": 1,
+      "location": 2,
+      "content": "打完这局之后",
+      "music": 0.0
+    },
+    {
+      "from": 0.96,
+      "to": 2.34,
+      "sid": 2,
+      "location": 2,
+      "content": "我就一直在想",
+      "music": 0.0
+    },
+    {
+      "from": 2.34,
+      "to": 4.64,
+      "sid": 3,
+      "location": 2,
+      "content": "究竟匹配系统是怎么做到",
+      "music": 0.0
+    },
+    {
+      "from": 4.64,
+      "to": 6.86,
+      "sid": 4,
+      "location": 2,
+      "content": "把我们五个精英匹在一起的",
+      "music": 0.0
+    },
+    {
+      "from": 6.86,
+      "to": 8.34,
+      "sid": 5,
+      "location": 2,
+      "content": "而打开话匣子",
+      "music": 0.0
+    },
+    {
+      "from": 8.34,
+      "to": 11.17,
+      "sid": 6,
+      "location": 2,
+      "content": "往往只需要一波精彩的残局",
+      "music": 0.0
+    },
+    {
+      "from": 11.17,
+      "to": 12.89,
+      "sid": 7,
+      "location": 2,
+      "content": "废了废了还是我",
+      "music": 0.0
+    },
+    {
+      "from": 15.21,
+      "to": 17.25,
+      "sid": 8,
+      "location": 2,
+      "content": "好剩余30秒",
+      "music": 0.0
+    },
+    {
+      "from": 20.6,
+      "to": 24.04,
+      "sid": 9,
+      "location": 2,
+      "content": "哎呀我敲我不换",
+      "music": 0.0
+    },
+    {
+      "from": 24.04,
+      "to": 26.92,
+      "sid": 10,
+      "location": 2,
+      "content": "我应该不换枪的",
+      "music": 0.0
+    },
+    {
+      "from": 27.12,
+      "to": 29.52,
+      "sid": 11,
+      "location": 2,
+      "content": "嗯嗯我妈小馋猫",
+      "music": 0.0
+    },
+    {
+      "from": 29.52,
+      "to": 30.0,
+      "sid": 12,
+      "location": 2,
+      "content": "卧槽",
+      "music": 0.0
+    },
+    {
+      "from": 30.0,
+      "to": 31.4,
+      "sid": 13,
+      "location": 2,
+      "content": "我贪他的皮肤好看",
+      "music": 0.0
+    },
+    {
+      "from": 32.59,
+      "to": 34.47,
+      "sid": 14,
+      "location": 2,
+      "content": "被队友调侃之后",
+      "music": 0.0
+    },
+    {
+      "from": 34.47,
+      "to": 36.43,
+      "sid": 15,
+      "location": 2,
+      "content": "为了证明我不是混子",
+      "music": 0.0
+    },
+    {
+      "from": 36.43,
+      "to": 37.83,
+      "sid": 16,
+      "location": 2,
+      "content": "我起了一把喷子",
+      "music": 0.0
+    },
+    {
+      "from": 37.83,
+      "to": 39.31,
+      "sid": 17,
+      "location": 2,
+      "content": "别说我不给面子",
+      "music": 0.0
+    },
+    {
+      "from": 39.31,
+      "to": 41.65,
+      "sid": 18,
+      "location": 2,
+      "content": "我要把对面打成孙子",
+      "music": 0.0
+    },
+    {
+      "from": 41.65,
+      "to": 44.48,
+      "sid": 19,
+      "location": 2,
+      "content": "我丢瞬爆王丢",
+      "music": 0.0
+    },
+    {
+      "from": 44.48,
+      "to": 46.68,
+      "sid": 20,
+      "location": 2,
+      "content": "如果我不是队伍里的大哥",
+      "music": 0.0
+    },
+    {
+      "from": 46.68,
+      "to": 48.08,
+      "sid": 21,
+      "location": 2,
+      "content": "那又能是谁呢",
+      "music": 0.0
+    },
+    {
+      "from": 48.08,
+      "to": 49.84,
+      "sid": 22,
+      "location": 2,
+      "content": "总不能是瑞娜吧",
+      "music": 0.0
+    },
+    {
+      "from": 49.84,
+      "to": 53.09,
+      "sid": 23,
+      "location": 2,
+      "content": "攻击敌人二楼哇",
+      "music": 0.0
+    },
+    {
+      "from": 53.09,
+      "to": 53.73,
+      "sid": 24,
+      "location": 2,
+      "content": "好香啊",
+      "music": 0.0
+    },
+    {
+      "from": 53.73,
+      "to": 54.31,
+      "sid": 25,
+      "location": 2,
+      "content": "兄弟",
+      "music": 0.0
+    },
+    {
+      "from": 54.31,
+      "to": 56.97,
+      "sid": 26,
+      "location": 2,
+      "content": "当我以为已经找到队伍的大哥时",
+      "music": 0.0
+    },
+    {
+      "from": 56.97,
+      "to": 58.47,
+      "sid": 27,
+      "location": 2,
+      "content": "没想到还有高手",
+      "music": 0.0
+    },
+    {
+      "from": 58.47,
+      "to": 59.73,
+      "sid": 28,
+      "location": 2,
+      "content": "我现在很生气",
+      "music": 0.0
+    },
+    {
+      "from": 59.73,
+      "to": 60.83,
+      "sid": 29,
+      "location": 2,
+      "content": "你知道吗",
+      "music": 0.0
+    },
+    {
+      "from": 60.83,
+      "to": 62.89,
+      "sid": 30,
+      "location": 2,
+      "content": "怎么说我我靠",
+      "music": 0.0
+    },
+    {
+      "from": 62.89,
+      "to": 65.47,
+      "sid": 31,
+      "location": 2,
+      "content": "我刚刚上抖音被骗了",
+      "music": 0.0
+    },
+    {
+      "from": 65.47,
+      "to": 67.95,
+      "sid": 32,
+      "location": 2,
+      "content": "这可恶的主播",
+      "music": 0.0
+    },
+    {
+      "from": 68.53,
+      "to": 70.81,
+      "sid": 33,
+      "location": 2,
+      "content": "呵呵骗我给他刷墨镜",
+      "music": 0.0
+    },
+    {
+      "from": 70.81,
+      "to": 72.45,
+      "sid": 34,
+      "location": 2,
+      "content": "结果他不带我",
+      "music": 0.0
+    },
+    {
+      "from": 75.6,
+      "to": 76.96,
+      "sid": 35,
+      "location": 2,
+      "content": "然后我我真的",
+      "music": 0.0
+    },
+    {
+      "from": 76.96,
+      "to": 80.16,
+      "sid": 36,
+      "location": 2,
+      "content": "我硬生生从早上十点多等到11点多",
+      "music": 0.0
+    },
+    {
+      "from": 80.16,
+      "to": 82.07,
+      "sid": 37,
+      "location": 2,
+      "content": "然后我自己开了",
+      "music": 0.0
+    },
+    {
+      "from": 82.31,
+      "to": 82.87,
+      "sid": 38,
+      "location": 2,
+      "content": "没事",
+      "music": 0.0
+    },
+    {
+      "from": 82.87,
+      "to": 84.99,
+      "sid": 39,
+      "location": 2,
+      "content": "兄弟我们五个很强",
+      "music": 0.0
+    },
+    {
+      "from": 86.27,
+      "to": 86.95,
+      "sid": 40,
+      "location": 2,
+      "content": "不行",
+      "music": 0.0
+    },
+    {
+      "from": 86.95,
+      "to": 88.15,
+      "sid": 41,
+      "location": 2,
+      "content": "兄弟等我老了",
+      "music": 0.0
+    },
+    {
+      "from": 88.15,
+      "to": 89.31,
+      "sid": 42,
+      "location": 2,
+      "content": "我一定找你卖保险",
+      "music": 0.0
+    },
+    {
+      "from": 89.31,
+      "to": 90.53,
+      "sid": 43,
+      "location": 2,
+      "content": "不难看出",
+      "music": 0.0
+    },
+    {
+      "from": 90.53,
+      "to": 92.75,
+      "sid": 44,
+      "location": 2,
+      "content": "这是一场群英荟萃的对局",
+      "music": 0.0
+    },
+    {
+      "from": 92.75,
+      "to": 95.68,
+      "sid": 45,
+      "location": 2,
+      "content": "但想要组成一支训练有素的队伍",
+      "music": 0.0
+    },
+    {
+      "from": 95.68,
+      "to": 99.18,
+      "sid": 46,
+      "location": 2,
+      "content": "仅凭瑞纳和斯凯这两条精英是不够的",
+      "music": 0.0
+    },
+    {
+      "from": 99.18,
+      "to": 101.94,
+      "sid": 47,
+      "location": 2,
+      "content": "还差一个急躁的马和稳健的牛",
+      "music": 0.0
+    },
+    {
+      "from": 101.94,
+      "to": 102.78,
+      "sid": 48,
+      "location": 2,
+      "content": "怕他个吊啊",
+      "music": 0.0
+    },
+    {
+      "from": 102.78,
+      "to": 103.98,
+      "sid": 49,
+      "location": 2,
+      "content": "兄弟冲",
+      "music": 0.0
+    },
+    {
+      "from": 105.13,
+      "to": 106.01,
+      "sid": 50,
+      "location": 2,
+      "content": "黑雾没弹人",
+      "music": 0.0
+    },
+    {
+      "from": 106.01,
+      "to": 106.65,
+      "sid": 51,
+      "location": 2,
+      "content": "黑雾没弹人",
+      "music": 0.0
+    },
+    {
+      "from": 106.65,
+      "to": 107.21,
+      "sid": 52,
+      "location": 2,
+      "content": "帮我架一下",
+      "music": 0.0
+    },
+    {
+      "from": 107.21,
+      "to": 107.69,
+      "sid": 53,
+      "location": 2,
+      "content": "帮我架一下",
+      "music": 0.0
+    },
+    {
+      "from": 107.69,
+      "to": 110.87,
+      "sid": 54,
+      "location": 2,
+      "content": "我下我下有人刚刚有人来给你炸",
+      "music": 0.0
+    },
+    {
+      "from": 110.87,
+      "to": 111.87,
+      "sid": 55,
+      "location": 2,
+      "content": "非常稳",
+      "music": 0.0
+    },
+    {
+      "from": 111.87,
+      "to": 115.22,
+      "sid": 56,
+      "location": 2,
+      "content": "武器已部署五大三燃烧弹要出吗",
+      "music": 0.12537313058587743
+    },
+    {
+      "from": 115.22,
+      "to": 116.1,
+      "sid": 57,
+      "location": 2,
+      "content": "没事别着急",
+      "music": 0.0
+    },
+    {
+      "from": 116.1,
+      "to": 116.58,
+      "sid": 58,
+      "location": 2,
+      "content": "不说了",
+      "music": 0.0
+    },
+    {
+      "from": 116.58,
+      "to": 118.14,
+      "sid": 59,
+      "location": 2,
+      "content": "不说不说不说不说不说",
+      "music": 0.0
+    },
+    {
+      "from": 118.14,
+      "to": 118.7,
+      "sid": 60,
+      "location": 2,
+      "content": "没人看",
+      "music": 0.0
+    },
+    {
+      "from": 118.7,
+      "to": 119.98,
+      "sid": 61,
+      "location": 2,
+      "content": "我非常",
+      "music": 0.0
+    },
+    {
+      "from": 119.98,
+      "to": 123.74,
+      "sid": 62,
+      "location": 2,
+      "content": "这个位置屁股有人有人有人到了",
+      "music": 0.0
+    },
+    {
+      "from": 123.74,
+      "to": 127.72,
+      "sid": 63,
+      "location": 2,
+      "content": "有一个就没了啊",
+      "music": 0.0
+    },
+    {
+      "from": 127.72,
+      "to": 131.0,
+      "sid": 64,
+      "location": 2,
+      "content": "A区有敌人黑屋黑屋啊",
+      "music": 0.0
+    },
+    {
+      "from": 131.0,
+      "to": 134.31,
+      "sid": 65,
+      "location": 2,
+      "content": "我们还真就像牛马一样被对面一脚踢飞",
+      "music": 0.0
+    },
+    {
+      "from": 134.31,
+      "to": 136.05,
+      "sid": 66,
+      "location": 2,
+      "content": "但在我们大哥眼里",
+      "music": 0.0
+    },
+    {
+      "from": 136.05,
+      "to": 137.47,
+      "sid": 67,
+      "location": 2,
+      "content": "对面也是牛马",
+      "music": 0.0
+    },
+    {
+      "from": 137.47,
+      "to": 138.03,
+      "sid": 68,
+      "location": 2,
+      "content": "交AK了",
+      "music": 0.0
+    },
+    {
+      "from": 138.03,
+      "to": 138.65,
+      "sid": 69,
+      "location": 2,
+      "content": "交AK了",
+      "music": 0.0
+    },
+    {
+      "from": 138.65,
+      "to": 140.55,
+      "sid": 70,
+      "location": 2,
+      "content": "飞鹰出击有害有害",
+      "music": 0.0
+    },
+    {
+      "from": 140.55,
+      "to": 141.31,
+      "sid": 71,
+      "location": 2,
+      "content": "上架上架了",
+      "music": 0.0
+    },
+    {
+      "from": 141.31,
+      "to": 141.71,
+      "sid": 72,
+      "location": 2,
+      "content": "上架了",
+      "music": 0.0
+    },
+    {
+      "from": 141.71,
+      "to": 143.3,
+      "sid": 73,
+      "location": 2,
+      "content": "我方还剩一人",
+      "music": 0.0
+    },
+    {
+      "from": 143.3,
+      "to": 144.96,
+      "sid": 74,
+      "location": 2,
+      "content": "还剩一名敌人",
+      "music": 0.0
+    },
+    {
+      "from": 144.96,
+      "to": 146.94,
+      "sid": 75,
+      "location": 2,
+      "content": "呜矿枪里面",
+      "music": 0.0
+    },
+    {
+      "from": 146.94,
+      "to": 148.18,
+      "sid": 76,
+      "location": 2,
+      "content": "你是瓜",
+      "music": 0.0
+    },
+    {
+      "from": 152.33,
+      "to": 153.49,
+      "sid": 77,
+      "location": 2,
+      "content": "不好哦",
+      "music": 0.0
+    },
+    {
+      "from": 153.49,
+      "to": 154.69,
+      "sid": 78,
+      "location": 2,
+      "content": "赢了nice啊",
+      "music": 0.0
+    },
+    {
+      "from": 155.69,
+      "to": 156.41,
+      "sid": 79,
+      "location": 2,
+      "content": "这么帅吗",
+      "music": 0.0
+    },
+    {
+      "from": 156.41,
+      "to": 157.97,
+      "sid": 80,
+      "location": 2,
+      "content": "兄弟兜里的蛇哇",
+      "music": 0.0
+    },
+    {
+      "from": 157.97,
+      "to": 158.63,
+      "sid": 81,
+      "location": 2,
+      "content": "这么帅",
+      "music": 0.0
+    },
+    {
+      "from": 158.63,
+      "to": 159.41,
+      "sid": 82,
+      "location": 2,
+      "content": "我操瑞娜",
+      "music": 0.0
+    },
+    {
+      "from": 159.41,
+      "to": 160.49,
+      "sid": 83,
+      "location": 2,
+      "content": "你这太帅了",
+      "music": 0.0
+    },
+    {
+      "from": 160.49,
+      "to": 162.63,
+      "sid": 84,
+      "location": 2,
+      "content": "兄弟卧槽",
+      "music": 0.0
+    },
+    {
+      "from": 162.63,
+      "to": 164.27,
+      "sid": 85,
+      "location": 2,
+      "content": "你这树里玩的跟挂一样",
+      "music": 0.0
+    },
+    {
+      "from": 165.67,
+      "to": 166.87,
+      "sid": 86,
+      "location": 2,
+      "content": "现在知道挂吗",
+      "music": 0.0
+    },
+    {
+      "from": 166.87,
+      "to": 168.09,
+      "sid": 87,
+      "location": 2,
+      "content": "现在知道给打码",
+      "music": 0.0
+    },
+    {
+      "from": 168.09,
+      "to": 169.43,
+      "sid": 88,
+      "location": 2,
+      "content": "刷墨镜",
+      "music": 0.0
+    },
+    {
+      "from": 169.78,
+      "to": 170.78,
+      "sid": 89,
+      "location": 2,
+      "content": "给你刷墨镜",
+      "music": 0.0
+    },
+    {
+      "from": 170.78,
+      "to": 171.86,
+      "sid": 90,
+      "location": 2,
+      "content": "兄弟给谁刷墨镜",
+      "music": 0.0
+    },
+    {
+      "from": 171.86,
+      "to": 172.38,
+      "sid": 91,
+      "location": 2,
+      "content": "知道了吧",
+      "music": 0.0
+    },
+    {
+      "from": 172.38,
+      "to": 173.86,
+      "sid": 92,
+      "location": 2,
+      "content": "兄弟哈哈",
+      "music": 0.0
+    },
+    {
+      "from": 173.86,
+      "to": 174.78,
+      "sid": 93,
+      "location": 2,
+      "content": "OKOK对了",
+      "music": 0.0
+    },
+    {
+      "from": 174.78,
+      "to": 175.82,
+      "sid": 94,
+      "location": 2,
+      "content": "我给你刷墨镜",
+      "music": 0.0
+    },
+    {
+      "from": 175.82,
+      "to": 176.74,
+      "sid": 95,
+      "location": 2,
+      "content": "你让我老了",
+      "music": 0.0
+    },
+    {
+      "from": 176.74,
+      "to": 178.09,
+      "sid": 96,
+      "location": 2,
+      "content": "给你卖个毛线就行",
+      "music": 0.0
+    },
+    {
+      "from": 178.09,
+      "to": 180.21,
+      "sid": 97,
+      "location": 2,
+      "content": "后来我们连输了好多局",
+      "music": 0.0
+    },
+    {
+      "from": 180.21,
+      "to": 182.27,
+      "sid": 98,
+      "location": 2,
+      "content": "但我们依然保持激情",
+      "music": 0.0
+    },
+    {
+      "from": 182.27,
+      "to": 183.21,
+      "sid": 99,
+      "location": 2,
+      "content": "有火有火",
+      "music": 0.0
+    },
+    {
+      "from": 183.21,
+      "to": 184.56,
+      "sid": 100,
+      "location": 2,
+      "content": "兄弟兄弟哦",
+      "music": 0.0
+    },
+    {
+      "from": 184.88,
+      "to": 187.66,
+      "sid": 101,
+      "location": 2,
+      "content": "哇这个火烫不烫烫不烫",
+      "music": 0.0
+    },
+    {
+      "from": 187.66,
+      "to": 189.18,
+      "sid": 102,
+      "location": 2,
+      "content": "别急别急没事",
+      "music": 0.0
+    },
+    {
+      "from": 189.18,
+      "to": 190.98,
+      "sid": 103,
+      "location": 2,
+      "content": "兄弟狗子先上好吗",
+      "music": 0.0
+    },
+    {
+      "from": 190.98,
+      "to": 192.04,
+      "sid": 104,
+      "location": 2,
+      "content": "狗子先上",
+      "music": 0.0
+    },
+    {
+      "from": 192.04,
+      "to": 195.78,
+      "sid": 105,
+      "location": 2,
+      "content": "OKOK我感觉他们真的是来打仗的",
+      "music": 0.0
+    },
+    {
+      "from": 195.78,
+      "to": 199.86,
+      "sid": 106,
+      "location": 2,
+      "content": "这时我已经觉得这局游戏无论最后胜利与否",
+      "music": 0.0
+    },
+    {
+      "from": 199.86,
+      "to": 201.76,
+      "sid": 107,
+      "location": 2,
+      "content": "都是一场尽兴的比赛",
+      "music": 0.0
+    },
+    {
+      "from": 201.76,
+      "to": 203.18,
+      "sid": 108,
+      "location": 2,
+      "content": "特别是杰峰哥",
+      "music": 0.0
+    },
+    {
+      "from": 203.18,
+      "to": 205.64,
+      "sid": 109,
+      "location": 2,
+      "content": "他给的反馈真是太高级了",
+      "music": 0.0
+    },
+    {
+      "from": 205.64,
+      "to": 208.019,
+      "sid": 110,
+      "location": 2,
+      "content": "对治疗哪有口奶粉兄弟的哇",
+      "music": 0.0
+    },
+    {
+      "from": 208.019,
+      "to": 209.779,
+      "sid": 111,
+      "location": 2,
+      "content": "可惜在实力面前",
+      "music": 0.0
+    },
+    {
+      "from": 209.779,
+      "to": 212.18,
+      "sid": 112,
+      "location": 2,
+      "content": "我们的激情好像不值一提",
+      "music": 0.0
+    },
+    {
+      "from": 212.18,
+      "to": 214.18,
+      "sid": 113,
+      "location": 2,
+      "content": "我们依然是一分都拿不到",
+      "music": 0.0
+    },
+    {
+      "from": 214.18,
+      "to": 216.3,
+      "sid": 114,
+      "location": 2,
+      "content": "比起对面突然变强",
+      "music": 0.0
+    },
+    {
+      "from": 216.3,
+      "to": 217.8,
+      "sid": 115,
+      "location": 2,
+      "content": "更让我疑惑的是",
+      "music": 0.0
+    },
+    {
+      "from": 217.8,
+      "to": 219.09,
+      "sid": 116,
+      "location": 2,
+      "content": "我怎么变唐了",
+      "music": 0.0
+    },
+    {
+      "from": 219.09,
+      "to": 220.97,
+      "sid": 117,
+      "location": 2,
+      "content": "我决定证明一下自己",
+      "music": 0.0
+    },
+    {
+      "from": 220.97,
+      "to": 221.81,
+      "sid": 118,
+      "location": 2,
+      "content": "我可以答应",
+      "music": 0.0
+    },
+    {
+      "from": 224.33,
+      "to": 225.65,
+      "sid": 119,
+      "location": 2,
+      "content": "好强",
+      "music": 0.0
+    },
+    {
+      "from": 226.34,
+      "to": 227.34,
+      "sid": 120,
+      "location": 2,
+      "content": "他命不好",
+      "music": 0.0
+    },
+    {
+      "from": 227.34,
+      "to": 228.86,
+      "sid": 121,
+      "location": 2,
+      "content": "这次不算给个闪",
+      "music": 0.0
+    },
+    {
+      "from": 228.86,
+      "to": 229.58,
+      "sid": 122,
+      "location": 2,
+      "content": "给了给个爆",
+      "music": 0.0
+    },
+    {
+      "from": 229.58,
+      "to": 230.52,
+      "sid": 123,
+      "location": 2,
+      "content": "能爆闪吗",
+      "music": 0.0
+    },
+    {
+      "from": 230.52,
+      "to": 232.74,
+      "sid": 124,
+      "location": 2,
+      "content": "没了被二打一了",
+      "music": 0.0
+    },
+    {
+      "from": 232.74,
+      "to": 233.98,
+      "sid": 125,
+      "location": 2,
+      "content": "这次不算三枪",
+      "music": 0.0
+    },
+    {
+      "from": 233.98,
+      "to": 234.34,
+      "sid": 126,
+      "location": 2,
+      "content": "有三枪",
+      "music": 0.0
+    },
+    {
+      "from": 234.34,
+      "to": 237.55,
+      "sid": 127,
+      "location": 2,
+      "content": "有枪械力士",
+      "music": 0.0
+    },
+    {
+      "from": 237.55,
+      "to": 239.25,
+      "sid": 128,
+      "location": 2,
+      "content": "这次不算借我一个",
+      "music": 0.0
+    },
+    {
+      "from": 240.49,
+      "to": 243.94,
+      "sid": 129,
+      "location": 2,
+      "content": "这这这这这这这天火降临",
+      "music": 0.16611295129192905
+    },
+    {
+      "from": 244.22,
+      "to": 245.22,
+      "sid": 130,
+      "location": 2,
+      "content": "公平对决",
+      "music": 0.0
+    },
+    {
+      "from": 245.22,
+      "to": 248.29,
+      "sid": 131,
+      "location": 2,
+      "content": "这次可以不算不算被偷背身了",
+      "music": 0.0
+    },
+    {
+      "from": 248.29,
+      "to": 252.67,
+      "sid": 132,
+      "location": 2,
+      "content": "这几波下来让我更加确信我并没有变糖",
+      "music": 0.0
+    },
+    {
+      "from": 252.67,
+      "to": 255.519,
+      "sid": 133,
+      "location": 2,
+      "content": "坏消息是对面大比分领先",
+      "music": 0.0
+    },
+    {
+      "from": 255.519,
+      "to": 257.6,
+      "sid": 134,
+      "location": 2,
+      "content": "好消息是比分是三比九",
+      "music": 0.0
+    },
+    {
+      "from": 257.6,
+      "to": 259.72,
+      "sid": 135,
+      "location": 2,
+      "content": "伴随着手枪局的获胜",
+      "music": 0.0
+    },
+    {
+      "from": 259.72,
+      "to": 263.78,
+      "sid": 136,
+      "location": 2,
+      "content": "我隐约能感觉到三九必翻的魔咒将会生效",
+      "music": 0.0
+    },
+    {
+      "from": 263.78,
+      "to": 264.6,
+      "sid": 137,
+      "location": 2,
+      "content": "赢了不起",
+      "music": 0.0
+    },
+    {
+      "from": 264.6,
+      "to": 265.32,
+      "sid": 138,
+      "location": 2,
+      "content": "枪等于没赢",
+      "music": 0.0
+    },
+    {
+      "from": 265.32,
+      "to": 267.6,
+      "sid": 139,
+      "location": 2,
+      "content": "兄弟在等",
+      "music": 0.0
+    },
+    {
+      "from": 268.94,
+      "to": 270.42,
+      "sid": 140,
+      "location": 2,
+      "content": "赢了不起枪等于没赢吗",
+      "music": 0.0
+    },
+    {
+      "from": 270.42,
+      "to": 271.7,
+      "sid": 141,
+      "location": 2,
+      "content": "行我跟他爆了",
+      "music": 0.0
+    },
+    {
+      "from": 271.7,
+      "to": 275.54,
+      "sid": 142,
+      "location": 2,
+      "content": "不是不是起AK这个意思哈哈必须遏制他们",
+      "music": 0.0
+    },
+    {
+      "from": 275.54,
+      "to": 277.9,
+      "sid": 143,
+      "location": 2,
+      "content": "哈哈没事没事",
+      "music": 0.0
+    },
+    {
+      "from": 278.09,
+      "to": 280.99,
+      "sid": 144,
+      "location": 2,
+      "content": "枪械优势能拉平实力的差距",
+      "music": 0.0
+    },
+    {
+      "from": 280.99,
+      "to": 283.35,
+      "sid": 145,
+      "location": 2,
+      "content": "现在我有1600的冲锋枪",
+      "music": 0.0
+    },
+    {
+      "from": 283.35,
+      "to": 286.22,
+      "sid": 146,
+      "location": 2,
+      "content": "岂是对面几百块的玩具枪能比的",
+      "music": 0.0
+    },
+    {
+      "from": 286.22,
+      "to": 288.42,
+      "sid": 147,
+      "location": 2,
+      "content": "斧头帮大哥在黑屋睡觉",
+      "music": 0.0
+    },
+    {
+      "from": 288.42,
+      "to": 289.92,
+      "sid": 148,
+      "location": 2,
+      "content": "哪个不怕死的",
+      "music": 0.0
+    },
+    {
+      "from": 289.92,
+      "to": 291.66,
+      "sid": 149,
+      "location": 2,
+      "content": "向前一步",
+      "music": 0.0
+    },
+    {
+      "from": 292.469,
+      "to": 294.449,
+      "sid": 150,
+      "location": 2,
+      "content": "其实我是故意没打过的",
+      "music": 0.0
+    },
+    {
+      "from": 294.449,
+      "to": 296.689,
+      "sid": 151,
+      "location": 2,
+      "content": "这样既能让对面放松警惕",
+      "music": 0.0
+    },
+    {
+      "from": 296.689,
+      "to": 298.189,
+      "sid": 152,
+      "location": 2,
+      "content": "误以为我很菜",
+      "music": 0.0
+    },
+    {
+      "from": 298.189,
+      "to": 300.09,
+      "sid": 153,
+      "location": 2,
+      "content": "然后就会露出破绽",
+      "music": 0.0
+    },
+    {
+      "from": 300.09,
+      "to": 300.89,
+      "sid": 154,
+      "location": 2,
+      "content": "更关键是",
+      "music": 0.0
+    },
+    {
+      "from": 300.89,
+      "to": 305.01,
+      "sid": 155,
+      "location": 2,
+      "content": "我这把翰林也能名正言顺的到大哥瑞娜手里",
+      "music": 0.0
+    },
+    {
+      "from": 305.01,
+      "to": 308.799,
+      "sid": 156,
+      "location": 2,
+      "content": "一切都是我部的局军师教我教我正义了",
+      "music": 0.0
+    },
+    {
+      "from": 308.799,
+      "to": 311.57,
+      "sid": 157,
+      "location": 2,
+      "content": "兄弟防住他们气球",
+      "music": 0.0
+    },
+    {
+      "from": 311.57,
+      "to": 312.41,
+      "sid": 158,
+      "location": 2,
+      "content": "刚刚气球",
+      "music": 0.0
+    },
+    {
+      "from": 312.41,
+      "to": 315.41,
+      "sid": 159,
+      "location": 2,
+      "content": "我靠喂喂好球",
+      "music": 0.0
+    },
+    {
+      "from": 315.41,
+      "to": 316.05,
+      "sid": 160,
+      "location": 2,
+      "content": "Nice",
+      "music": 0.0
+    },
+    {
+      "from": 316.05,
+      "to": 317.01,
+      "sid": 161,
+      "location": 2,
+      "content": "牛逼朝天的人",
+      "music": 0.0
+    },
+    {
+      "from": 317.01,
+      "to": 318.84,
+      "sid": 162,
+      "location": 2,
+      "content": "一我们连拿三分",
+      "music": 0.0
+    },
+    {
+      "from": 318.84,
+      "to": 321.06,
+      "sid": 163,
+      "location": 2,
+      "content": "一切都在往好的方向发展",
+      "music": 0.0
+    },
+    {
+      "from": 321.06,
+      "to": 322.58,
+      "sid": 164,
+      "location": 2,
+      "content": "只要没人给机会",
+      "music": 0.0
+    },
+    {
+      "from": 322.58,
+      "to": 323.62,
+      "sid": 165,
+      "location": 2,
+      "content": "没事没事",
+      "music": 0.0
+    },
+    {
+      "from": 323.62,
+      "to": 325.02,
+      "sid": 166,
+      "location": 2,
+      "content": "我起奥丁了",
+      "music": 0.0
+    },
+    {
+      "from": 325.02,
+      "to": 327.82,
+      "sid": 167,
+      "location": 2,
+      "content": "任何邪恶都将被我绳之以法",
+      "music": 0.0
+    },
+    {
+      "from": 327.82,
+      "to": 329.24,
+      "sid": 168,
+      "location": 2,
+      "content": "他前面给选吗",
+      "music": 0.0
+    },
+    {
+      "from": 329.24,
+      "to": 331.14,
+      "sid": 169,
+      "location": 2,
+      "content": "不给给标的",
+      "music": 0.0
+    },
+    {
+      "from": 331.14,
+      "to": 332.14,
+      "sid": 170,
+      "location": 2,
+      "content": "不给给黑屋的",
+      "music": 0.0
+    },
+    {
+      "from": 332.14,
+      "to": 333.1,
+      "sid": 171,
+      "location": 2,
+      "content": "那我直接压到这",
+      "music": 0.0
+    },
+    {
+      "from": 333.1,
+      "to": 333.82,
+      "sid": 172,
+      "location": 2,
+      "content": "我直接压到这",
+      "music": 0.0
+    },
+    {
+      "from": 333.82,
+      "to": 334.38,
+      "sid": 173,
+      "location": 2,
+      "content": "我直接压到这",
+      "music": 0.0
+    },
+    {
+      "from": 334.38,
+      "to": 334.9,
+      "sid": 174,
+      "location": 2,
+      "content": "你帮我架一下",
+      "music": 0.0
+    },
+    {
+      "from": 334.9,
+      "to": 335.66,
+      "sid": 175,
+      "location": 2,
+      "content": "右边OK",
+      "music": 0.0
+    },
+    {
+      "from": 335.66,
+      "to": 336.5,
+      "sid": 176,
+      "location": 2,
+      "content": "你抽1000回来",
+      "music": 0.0
+    },
+    {
+      "from": 336.5,
+      "to": 337.58,
+      "sid": 177,
+      "location": 2,
+      "content": "兄弟你放心",
+      "music": 0.0
+    },
+    {
+      "from": 337.58,
+      "to": 338.659,
+      "sid": 178,
+      "location": 2,
+      "content": "架你的大狙吧",
+      "music": 0.0
+    },
+    {
+      "from": 338.659,
+      "to": 342.019,
+      "sid": 179,
+      "location": 2,
+      "content": "我坚挺的大奥丁会在后面顶你",
+      "music": 0.0
+    },
+    {
+      "from": 347.36,
+      "to": 348.94,
+      "sid": 180,
+      "location": 2,
+      "content": "爆能器落在A区",
+      "music": 0.0
+    },
+    {
+      "from": 348.94,
+      "to": 350.1,
+      "sid": 181,
+      "location": 2,
+      "content": "黑狗探一下没事",
+      "music": 0.0
+    },
+    {
+      "from": 350.1,
+      "to": 350.76,
+      "sid": 182,
+      "location": 2,
+      "content": "黑狗探一下",
+      "music": 0.0
+    },
+    {
+      "from": 350.76,
+      "to": 353.12,
+      "sid": 183,
+      "location": 2,
+      "content": "外面B大没人",
+      "music": 0.0
+    },
+    {
+      "from": 353.12,
+      "to": 354.14,
+      "sid": 184,
+      "location": 2,
+      "content": "完了完了",
+      "music": 0.0
+    },
+    {
+      "from": 354.14,
+      "to": 355.1,
+      "sid": 185,
+      "location": 2,
+      "content": "我换个子弹",
+      "music": 0.0
+    },
+    {
+      "from": 355.1,
+      "to": 356.3,
+      "sid": 186,
+      "location": 2,
+      "content": "你怎么躺下了",
+      "music": 0.0
+    },
+    {
+      "from": 356.3,
+      "to": 357.62,
+      "sid": 187,
+      "location": 2,
+      "content": "你很喜欢睡觉吗",
+      "music": 0.0
+    },
+    {
+      "from": 357.62,
+      "to": 358.86,
+      "sid": 188,
+      "location": 2,
+      "content": "我来",
+      "music": 0.0
+    },
+    {
+      "from": 360.44,
+      "to": 363.08,
+      "sid": 189,
+      "location": 2,
+      "content": "嘿嘿我也喜欢",
+      "music": 0.0
+    },
+    {
+      "from": 367.18,
+      "to": 368.54,
+      "sid": 190,
+      "location": 2,
+      "content": "可惜可惜我的武器",
+      "music": 0.0
+    },
+    {
+      "from": 368.54,
+      "to": 370.18,
+      "sid": 191,
+      "location": 2,
+      "content": "可惜没事没事慢慢打",
+      "music": 0.0
+    },
+    {
+      "from": 370.18,
+      "to": 370.86,
+      "sid": 192,
+      "location": 2,
+      "content": "打到这里",
+      "music": 0.0
+    },
+    {
+      "from": 370.86,
+      "to": 371.88,
+      "sid": 193,
+      "location": 2,
+      "content": "我突然想起",
+      "music": 0.0
+    },
+    {
+      "from": 371.88,
+      "to": 374.65,
+      "sid": 194,
+      "location": 2,
+      "content": "经常会看到有人说对局顺风",
+      "music": 0.0
+    },
+    {
+      "from": 374.65,
+      "to": 376.64,
+      "sid": 195,
+      "location": 2,
+      "content": "才会有这样友好的交流",
+      "music": 0.0
+    },
+    {
+      "from": 376.64,
+      "to": 378.32,
+      "sid": 196,
+      "location": 2,
+      "content": "其实主要还是看人",
+      "music": 0.0
+    },
+    {
+      "from": 378.32,
+      "to": 380.48,
+      "sid": 197,
+      "location": 2,
+      "content": "虽说打排位都是为了上分",
+      "music": 0.0
+    },
+    {
+      "from": 380.48,
+      "to": 384.06,
+      "sid": 198,
+      "location": 2,
+      "content": "但往往能影响我们游戏体验的是这个过程",
+      "music": 0.0
+    },
+    {
+      "from": 384.06,
+      "to": 385.81,
+      "sid": 199,
+      "location": 2,
+      "content": "在这样的对局氛围里",
+      "music": 0.0
+    },
+    {
+      "from": 385.81,
+      "to": 387.45,
+      "sid": 200,
+      "location": 2,
+      "content": "没有了大奥丁",
+      "music": 0.0
+    },
+    {
+      "from": 387.45,
+      "to": 388.87,
+      "sid": 201,
+      "location": 2,
+      "content": "拿着个小战神",
+      "music": 0.0
+    },
+    {
+      "from": 388.87,
+      "to": 391.61,
+      "sid": 202,
+      "location": 2,
+      "content": "我一样打的很开心",
+      "music": 0.0
+    },
+    {
+      "from": 393.42,
+      "to": 395.82,
+      "sid": 203,
+      "location": 2,
+      "content": "烟男是不",
+      "music": 0.0
+    },
+    {
+      "from": 399.22,
+      "to": 402.74,
+      "sid": 204,
+      "location": 2,
+      "content": "哈哈哈哈草",
+      "music": 0.0
+    },
+    {
+      "from": 410.02,
+      "to": 411.74,
+      "sid": 205,
+      "location": 2,
+      "content": "还剩一名敌人哎",
+      "music": 0.0
+    },
+    {
+      "from": 411.74,
+      "to": 413.66,
+      "sid": 206,
+      "location": 2,
+      "content": "门口门口门口门口黑口哎呀",
+      "music": 0.0
+    },
+    {
+      "from": 413.66,
+      "to": 414.1,
+      "sid": 207,
+      "location": 2,
+      "content": "没办法了",
+      "music": 0.0
+    },
+    {
+      "from": 414.1,
+      "to": 414.76,
+      "sid": 208,
+      "location": 2,
+      "content": "走吧别急",
+      "music": 0.0
+    },
+    {
+      "from": 414.76,
+      "to": 416.38,
+      "sid": 209,
+      "location": 2,
+      "content": "再次拿起我的奥丁",
+      "music": 0.0
+    },
+    {
+      "from": 416.38,
+      "to": 418.68,
+      "sid": 210,
+      "location": 2,
+      "content": "面对来势汹汹的各种大招",
+      "music": 0.0
+    },
+    {
+      "from": 418.68,
+      "to": 420.66,
+      "sid": 211,
+      "location": 2,
+      "content": "我决定先避其锋芒",
+      "music": 0.0
+    },
+    {
+      "from": 420.66,
+      "to": 423.669,
+      "sid": 212,
+      "location": 2,
+      "content": "只有一个不知情的宝宝在迎难而上",
+      "music": 0.0
+    },
+    {
+      "from": 423.669,
+      "to": 425.649,
+      "sid": 213,
+      "location": 2,
+      "content": "对面雷兹也是放烟花",
+      "music": 0.0
+    },
+    {
+      "from": 425.649,
+      "to": 426.569,
+      "sid": 214,
+      "location": 2,
+      "content": "热情招待",
+      "music": 0.0
+    },
+    {
+      "from": 426.569,
+      "to": 428.13,
+      "sid": 215,
+      "location": 2,
+      "content": "浴室外没人哦",
+      "music": 0.0
+    },
+    {
+      "from": 428.13,
+      "to": 429.49,
+      "sid": 216,
+      "location": 2,
+      "content": "礼尚往来",
+      "music": 0.0
+    },
+    {
+      "from": 429.49,
+      "to": 433.17,
+      "sid": 217,
+      "location": 2,
+      "content": "我们当然也要让对面感受到我们的热情",
+      "music": 0.0
+    },
+    {
+      "from": 433.46,
+      "to": 435.1,
+      "sid": 218,
+      "location": 2,
+      "content": "天火降临",
+      "music": 0.0
+    },
+    {
+      "from": 435.1,
+      "to": 436.1,
+      "sid": 219,
+      "location": 2,
+      "content": "大功告成",
+      "music": 0.0
+    },
+    {
+      "from": 436.1,
+      "to": 438.79,
+      "sid": 220,
+      "location": 2,
+      "content": "我的大招已灰飞烟灭",
+      "music": 0.0
+    },
+    {
+      "from": 438.79,
+      "to": 441.09,
+      "sid": 221,
+      "location": 2,
+      "content": "好的我就这样一枪没开",
+      "music": 0.0
+    },
+    {
+      "from": 441.09,
+      "to": 442.39,
+      "sid": 222,
+      "location": 2,
+      "content": "赢下了这一回合",
+      "music": 0.0
+    },
+    {
+      "from": 442.39,
+      "to": 445.409,
+      "sid": 223,
+      "location": 2,
+      "content": "但结局不会因为我们的坚守而改变",
+      "music": 0.0
+    },
+    {
+      "from": 445.409,
+      "to": 448.129,
+      "sid": 224,
+      "location": 2,
+      "content": "我们也不会因败北而互相埋怨",
+      "music": 0.0
+    },
+    {
+      "from": 448.129,
+      "to": 450.95,
+      "sid": 225,
+      "location": 2,
+      "content": "谁都知道游戏还能开下一局",
+      "music": 0.0
+    },
+    {
+      "from": 450.95,
+      "to": 453.11,
+      "sid": 226,
+      "location": 2,
+      "content": "而我们的今天不会重来",
+      "music": 0.0
+    },
+    {
+      "from": 453.11,
+      "to": 455.71,
+      "sid": 227,
+      "location": 2,
+      "content": "啊啊",
+      "music": 0.0
+    },
+    {
+      "from": 459.73,
+      "to": 460.85,
+      "sid": 228,
+      "location": 2,
+      "content": "Sometimes i",
+      "music": 0.9999998148148492
+    },
+    {
+      "from": 460.85,
+      "to": 461.77,
+      "sid": 229,
+      "location": 2,
+      "content": "又有一个",
+      "music": 0.0
+    },
+    {
+      "from": 461.77,
+      "to": 463.67,
+      "sid": 230,
+      "location": 2,
+      "content": "我方还剩一人",
+      "music": 0.0
+    },
+    {
+      "from": 463.67,
+      "to": 466.62,
+      "sid": 231,
+      "location": 2,
+      "content": "我靠咱们这被打爆了",
+      "music": 0.0
+    },
+    {
+      "from": 467.64,
+      "to": 470.26,
+      "sid": 232,
+      "location": 2,
+      "content": "啊可惜可惜了没事可惜",
+      "music": 0.20192306721524636
+    },
+    {
+      "from": 470.26,
+      "to": 471.48,
+      "sid": 233,
+      "location": 2,
+      "content": "攻方获胜",
+      "music": 0.0
+    },
+    {
+      "from": 471.48,
+      "to": 472.28,
+      "sid": 234,
+      "location": 2,
+      "content": "牛逼了",
+      "music": 0.0
+    },
+    {
+      "from": 472.28,
+      "to": 472.8,
+      "sid": 235,
+      "location": 2,
+      "content": "可",
+      "music": 0.0
+    }
+  ]
+}

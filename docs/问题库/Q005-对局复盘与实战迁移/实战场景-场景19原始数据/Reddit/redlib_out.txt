@@ -1,0 +1,5 @@
+﻿https://redlib.catsarch.com FAIL HTTPError HTTP Error 429: Too Many Requests
+https://redlib.perennialte.ch FAIL HTTPError HTTP Error 403: Forbidden
+https://safereddit.com OK len= 4349 score-ish: []
+https://r.opnxng.com OK len= 7159 score-ish: []
+https://redlib.privacyredirect.com OK len= 25512 score-ish: []

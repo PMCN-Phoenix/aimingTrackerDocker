@@ -1,0 +1,9 @@
+﻿[search] r/VALORANT :: scared to push
+    retry0: URLError <urlopen error EOF occurred in violation of protocol (_ssl.c:992)>
+    429 rate-limited, sleep 90s
+    429 rate-limited, sleep 90s
+    -> 0 entries
+[search] r/VALORANT :: fear of peeking
+    retry0: URLError <urlopen error [Errno 2] No such file or directory>
+    retry1: URLError <urlopen error [Errno 2] No such file or directory>
+    429 rate-limited, sleep 90s

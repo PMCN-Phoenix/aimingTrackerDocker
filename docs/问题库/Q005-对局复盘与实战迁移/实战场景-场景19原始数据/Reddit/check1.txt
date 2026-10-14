@@ -1,0 +1,6 @@
+﻿posts: 15
+keys: ['id', 'subreddit', 'url', 'title', 'body', 'author', 'comments']
+title: Why is Everyone Afraid to Push Sites?
+body head: Genuine question from someone who played CSGO for 7 years at MGE level. Why do my teammates in valorant refuse to push smokes or into sites? No one seems to understand entry fragging and that you don’t need to be a duelist to do it. Is it just my rank or is this a common issue? (I’m also well aware 
+n comments: 13
+first comment: everyone is scared and hard baiting until about immo 1 and even then it's still an issue. anyone who says otherwise its just copium
