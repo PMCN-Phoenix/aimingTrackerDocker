@@ -1,0 +1,2411 @@
+{
+  "queries": [
+    {
+      "tag": "A1-单局流程",
+      "keyword": "无畏契约 排位 一回合 思路 流程",
+      "fetched": 30,
+      "new": 30
+    },
+    {
+      "tag": "A2-决策体系",
+      "keyword": "无畏契约 比赛 决策 打还是撤",
+      "fetched": 30,
+      "new": 27
+    },
+    {
+      "tag": "A3-清单模板",
+      "keyword": "无畏契约 上分 清单 步骤",
+      "fetched": 30,
+      "new": 27
+    },
+    {
+      "tag": "B1-意识决策",
+      "keyword": "无畏契约 意识 教学 信息获取",
+      "fetched": 30,
+      "new": 19
+    },
+    {
+      "tag": "B2-身位peek",
+      "keyword": "无畏契约 身位控制 peek 预瞄",
+      "fetched": 30,
+      "new": 30
+    },
+    {
+      "tag": "B3-经济道具",
+      "keyword": "无畏契约 经济管理 道具 使用",
+      "fetched": 30,
+      "new": 20
+    },
+    {
+      "tag": "C1-进点流程",
+      "keyword": "无畏契约 进点 流程 防守",
+      "fetched": 30,
+      "new": 21
+    },
+    {
+      "tag": "C2-残局回防",
+      "keyword": "无畏契约 残局 处理 1v1",
+      "fetched": 30,
+      "new": 27
+    },
+    {
+      "tag": "C3-知名UP主",
+      "keyword": "大东彦 无畏契约",
+      "fetched": 30,
+      "new": 22
+    }
+  ],
+  "videos": [
+    {
+      "bvid": "BV1FaM86GEzd",
+      "title": "对局迷茫乱打？90%是没节奏思路，看完直接提升大局观",
+      "author": "夜里的青山无畏契约",
+      "play": 66744,
+      "duration": "43:18",
+      "pubdate": 1783415486,
+      "description": "",
+      "from_kw": "A1-单局流程",
+      "also_in": [
+        "A3-清单模板"
+      ]
+    },
+    {
+      "bvid": "BV15eUVBEEh3",
+      "title": "[中配]Valorant变强秘籍：打出炸鱼塘的感觉！ - rooney",
+      "author": "L6-2",
+      "play": 47693,
+      "duration": "10:58",
+      "pubdate": 1763721419,
+      "description": "原标题：How to get SO good at Valorant it feels like Smurfing\n作者：rooney\n原链接：https://www.youtube.com/watch?v=4YVzdmynzko\n上传日期：2025-09-19\n\n简介：大家好，我是Rooney！这段视频我分享了让你在Valorant里迅速变强、打出炸鱼塘效果的三个秘诀。我本人两个月内达到了不朽3，每个赛季都打进前1000名，同时兼顾学业和实习。我总结了三个方法：精通瞄准技巧（不要过度复杂化，通过练习掌握",
+      "from_kw": "A1-单局流程",
+      "also_in": [
+        "B3-经济道具"
+      ]
+    },
+    {
+      "bvid": "BV1erWw6xECn",
+      "title": "【whzy】给无畏契约单排一突玩家最好的教学视频！捷风单排648ACS！486的每回合平均伤害！满分答卷！",
+      "author": "雪山上的香蕉树",
+      "play": 39369,
+      "duration": "13:48",
+      "pubdate": 1791878823,
+      "description": "2026.  10 13 15点场\n\n定期更新瓦碧（前队友/好兄弟）精彩有趣的对局和切片求 点点免费的赞 谢谢喵\n\nwhzy：https://space.bilibili.com/355071645\nwhzy直播间：https://live.bilibili.com/25277646",
+      "from_kw": "A1-单局流程",
+      "also_in": [
+        "A3-清单模板"
+      ]
+    },
+    {
+      "bvid": "BV1w8CgYjE3u",
+      "title": "【登神长阶】：玩一突迷信公式化进点犹如画地为牢",
+      "author": "浴池Yucca",
+      "play": 108736,
+      "duration": "15:50",
+      "pubdate": 1734928321,
+      "description": "等我写完论文暴更好吗\n把你们想看的留在评论区",
+      "from_kw": "A1-单局流程",
+      "also_in": [
+        "C1-进点流程"
+      ]
+    },
+    {
+      "bvid": "BV1F1JhzQEEZ",
+      "title": "东彦超长复盘课堂，细节满满，一个半小时量大管饱",
+      "author": "不会枪的lansir",
+      "play": 137675,
+      "duration": "84:24",
+      "pubdate": 1747757802,
+      "description": "",
+      "from_kw": "A1-单局流程",
+      "also_in": [
+        "B1-意识决策",
+        "C3-知名UP主"
+      ]
+    },
+    {
+      "bvid": "BV1YN6FBnE3K",
+      "title": "3秒进点的一突,我到最后了还是没适应他的进点速度和前压速度",
+      "author": "鱼鱼猫Ccb",
+      "play": 901215,
+      "duration": "6:39",
+      "pubdate": 1769678480,
+      "description": "当你看到这个视频，说明该吃饭了\n制作不易 希望大家支持\n感谢观看 看完请写出观后感",
+      "from_kw": "A1-单局流程",
+      "also_in": [
+        "C1-进点流程"
+      ]
+    },
+    {
+      "bvid": "BV1eqHGzwEo5",
+      "title": "多智近妖！被赋能哥质疑作弊的残局思路讲解！",
+      "author": "Ys秀一丶",
+      "play": 273026,
+      "duration": "7:31",
+      "pubdate": 1759490227,
+      "description": "中间有些突兀是因为掐了一段广子，是在隔壁平台接的。\n我就想着不让咱b站的哥们也看广告了，掐了所以有点突兀的感觉，多多见谅。\n最近创作激励砍了，变成任务形式，迫于生活以后可能会多接广了，\n而且为了完成激励任务可能会在视频里要硬币什么的了，希望大家理解。",
+      "from_kw": "A1-单局流程",
+      "also_in": [
+        "C2-残局回防"
+      ]
+    },
+    {
+      "bvid": "BV1bUWw6DECf",
+      "title": "无畏契约大局意识干货｜排位图控点转点攻防思路全拆解（上）  无畏契约",
+      "author": "哔哩呆头鹅",
+      "play": 42,
+      "duration": "5:33",
+      "pubdate": 1791877953,
+      "description": "",
+      "from_kw": "A1-单局流程"
+    },
+    {
+      "bvid": "BV1kS7wzBEhw",
+      "title": "无畏契约里意识站位到底有多重要？依旧每日10分钟超长实用干货思路细节讲解，每天一个小细节，学会轻松上神话",
+      "author": "Rn王中王",
+      "play": 89404,
+      "duration": "9:33",
+      "pubdate": 1748676731,
+      "description": "",
+      "from_kw": "A1-单局流程",
+      "also_in": [
+        "B1-意识决策",
+        "C1-进点流程"
+      ]
+    },
+    {
+      "bvid": "BV1MXNRzPEMu",
+      "title": "什么是临场决策？做好每一个决策可以大幅提高回合胜率？神话三教你如何做好每一个临场决策",
+      "author": "阿橙子zzZ",
+      "play": 5907,
+      "duration": "9:47",
+      "pubdate": 1750392000,
+      "description": "",
+      "from_kw": "A1-单局流程",
+      "also_in": [
+        "A2-决策体系"
+      ]
+    },
+    {
+      "bvid": "BV1TCwJeAEDs",
+      "title": "【无畏契约】地图观必学技巧！临界点是什么？攻守方基本思路！残局大方向！│VALORANT│职业选手亲自教你玩│乖儿子",
+      "author": "乖兒子GoodSon",
+      "play": 16769,
+      "duration": "21:55",
+      "pubdate": 1737107820,
+      "description": "",
+      "from_kw": "A1-单局流程",
+      "also_in": [
+        "B1-意识决策"
+      ]
+    },
+    {
+      "bvid": "BV1TSby6UED9",
+      "title": "【GenG T3xture】选位教科书 最值得学习的决斗！天枢云阙Summit 捷风Jett 无畏契约第一视角分析 POV 排位教科书",
+      "author": "森仔Bro",
+      "play": 120574,
+      "duration": "26:52",
+      "pubdate": 1786796529,
+      "description": "为爱发电 大家多多三连支持一下，感谢大家！\n本局准星0;s;1;P;u;000000FF;h;0;0l;3;0v;3;0o;2;0a;1;0f;0;1b;0;S;o;0.7\n分辨率1920 1080\n灵敏度800 0.45",
+      "from_kw": "A1-单局流程"
+    },
+    {
+      "bvid": "BV1nJpq6eE6R",
+      "title": "游戏理解以及思路具体讲解，让你对你的段位分析全然不一样",
+      "author": "平凡的一突",
+      "play": 684,
+      "duration": "11:0",
+      "pubdate": 1791897124,
+      "description": "-",
+      "from_kw": "A1-单局流程"
+    },
+    {
+      "bvid": "BV1ZLJ5zTEs4",
+      "title": "什么是临场决策？做好每一个决策甚至不用正面对枪？神话三教你如何做好每一个决策",
+      "author": "阿橙子zzZ",
+      "play": 60146,
+      "duration": "14:40",
+      "pubdate": 1747886400,
+      "description": "做好每一个临场决策可以大大提高胜率！！",
+      "from_kw": "A1-单局流程",
+      "also_in": [
+        "A2-决策体系",
+        "C1-进点流程"
+      ]
+    },
+    {
+      "bvid": "BV13Spr68Ebg",
+      "title": "如何在神话局”炸鱼&quot;？来看看顶尖Reyna玩家的排位思路【第九十九期】",
+      "author": "绿泡泡Reyna",
+      "play": 25117,
+      "duration": "2:30",
+      "pubdate": 1791950416,
+      "description": "爹们三连一下！",
+      "from_kw": "A1-单局流程"
+    },
+    {
+      "bvid": "BV1v1Gw6YE8J",
+      "title": "中三段用了直接轻松上分？无畏契约保下限对枪打法！",
+      "author": "星瀞萧宇",
+      "play": 163702,
+      "duration": "2:41",
+      "pubdate": 1785487687,
+      "description": "星瀞萧宇の小窝 815195384\n想一起玩游戏的可以加一下群哦~",
+      "from_kw": "A1-单局流程"
+    },
+    {
+      "bvid": "BV1SmHk6dEja",
+      "title": "【Haeyoday】我是如何凭借操作实现1打5的 | 36杀赋能第一芮娜第一视角与思路解析",
+      "author": "艾锐克斯",
+      "play": 2404,
+      "duration": "13:49",
+      "pubdate": 1791370533,
+      "description": "原标题：How I&#x27;m Able To 1v5 With My Mechanics | 36 Kills Radiant #1 Reyna VOD + Thought Process\n链接：https://www.youtube.com/watch?v=vEINOGJumak&amp;t=408s\n作者：Haeyoday\n\n灵敏度：8600x0.1 + Raw Accel（让体感变为8600x0.2）\n鼠标：万灵Max\n鼠标垫：Clustrs玻璃垫（定制图案）\n键盘：万灵 幻63\n耳机：万灵 幻耳机\n显示器：25",
+      "from_kw": "A1-单局流程"
+    },
+    {
+      "bvid": "BV182ZTB7Eco",
+      "title": "【Haeyoday】这就是我几乎从不输掉对枪的原因丨无畏契约2026教学",
+      "author": "艾锐克斯",
+      "play": 117291,
+      "duration": "31:14",
+      "pubdate": 1771233758,
+      "description": "原标题：This Is Why I Almost Never Lose Duels | VALORANT Visual Guide 2026\n链接：https://www.youtube.com/watch?v=SWNZF9_nO5Y&amp;t=649s\n作者：Haeyoday\n\n灵敏度：8600x0.1 + Raw Accel\n鼠标：万灵Max\n鼠标垫：Clustrs玻璃垫\n键盘：最近是八宝60HE+ZOOM64壳子\n耳机：万灵 幻耳机\n显示器：2566x+\n\n如果你需要他的更多详细设置或他的最新设置，麻烦看",
+      "from_kw": "A1-单局流程",
+      "also_in": [
+        "B1-意识决策",
+        "C1-进点流程"
+      ]
+    },
+    {
+      "bvid": "BV1evZtBLEFA",
+      "title": "《如何用阴间选位上分》神赋局排位思路速成！",
+      "author": "安君Nice",
+      "play": 197179,
+      "duration": "5:37",
+      "pubdate": 1771161605,
+      "description": "要过年拉兄弟们！",
+      "from_kw": "A1-单局流程"
+    },
+    {
+      "bvid": "BV1pGUVBaEXK",
+      "title": "【无畏契约】决策全错 黄铂中三段最值得看的一集",
+      "author": "柯然KeRanny",
+      "play": 94107,
+      "duration": "15:24",
+      "pubdate": 1763954587,
+      "description": "",
+      "from_kw": "A1-单局流程",
+      "also_in": [
+        "A2-决策体系"
+      ]
+    },
+    {
+      "bvid": "BV11Zpt62E1k",
+      "title": "【Haeyoday】这就是我对枪反应最快的原因 | 无畏契约2026教学指南",
+      "author": "艾锐克斯",
+      "play": 9049,
+      "duration": "61:7",
+      "pubdate": 1791552934,
+      "description": "原标题：This Is Why I’m The Fastest in Gunfights | VALORANT Mechanics Visual Guide 2026\n链接：https://www.youtube.com/watch?v=2Y-TQwpkmpI&amp;t=1s\n作者：Haeyoday\n\n灵敏度：8600x0.1 + Raw Accel（让体感变为8600x0.2）\n鼠标：万灵Max\n鼠标垫：Clustrs玻璃垫（定制图案）\n键盘：万灵 幻63\n耳机：万灵 幻耳机\n显示器：2566x+ 400Hz",
+      "from_kw": "A1-单局流程",
+      "also_in": [
+        "A3-清单模板"
+      ]
+    },
+    {
+      "bvid": "BV1whiFBfEvn",
+      "title": "【无畏契约】看完意识拉满！防守每一秒都有答案！",
+      "author": "signedworld",
+      "play": 84200,
+      "duration": "11:55",
+      "pubdate": 1767348467,
+      "description": "",
+      "from_kw": "A1-单局流程",
+      "also_in": [
+        "B1-意识决策",
+        "C1-进点流程"
+      ]
+    },
+    {
+      "bvid": "BV1hKovBxE7v",
+      "title": "【无畏契约】全网最权威无畏契约个人系统性变强指南1.0——上交校队出品",
+      "author": "奥古斯丁Auu",
+      "play": 36936,
+      "duration": "6:4",
+      "pubdate": 1777213993,
+      "description": "分享三个如何变强的方法论，第一次做视频，创作不易，如果有人看的话后续会继续更新关于无畏契约个人变强和队伍赛训的一些思路",
+      "from_kw": "A1-单局流程",
+      "also_in": [
+        "B1-意识决策",
+        "C3-知名UP主"
+      ]
+    },
+    {
+      "bvid": "BV1wfhe6SEZ3",
+      "title": "无畏契约也能玩献祭流？前期一直白给，最后竟是全队第一？！",
+      "author": "爱鱼小鸟",
+      "play": 127340,
+      "duration": "7:21",
+      "pubdate": 1789963200,
+      "description": "这算鸡爪流还是献祭流O.o?\n喜欢这期视频的话不要忘记点赞和关注哦，点赞过1k火速更新下一期！拜托啦这对我真的很重要！！！\n\n暮蝶@赵赵_zRrrryyy",
+      "from_kw": "A1-单局流程"
+    },
+    {
+      "bvid": "BV1Ln6ZBxE4e",
+      "title": "【中英熟肉】6 分钟永久拯救你的瞄准！！！（Valorant）",
+      "author": "VEI_J",
+      "play": 47970,
+      "duration": "5:27",
+      "pubdate": 1768135797,
+      "description": "https://youtu.be/IKYnbxX8ujk?list=LL\n时间轴：\n00:00 开场\n00:10 每次对枪中最重要的目标是什么？\n00:32 如何缩短击杀所需时间（TTK）？\n00:46 如何让你的瞄准更快？\n00:58 为什么准星放置如此重要？\n01:47 开枪时机\n02:47 张力控制\n03:37 使用 Aimlabs 提升瞄准速度\n04:00 如何提高爆头率？\n04:31 向 Primmie 学习\n作者@ KgProz",
+      "from_kw": "A1-单局流程"
+    },
+    {
+      "bvid": "BV1XgQ6BbEVh",
+      "title": "点蹲和回拉让我速通无畏契约",
+      "author": "双鱼座",
+      "play": 70212,
+      "duration": "3:5",
+      "pubdate": 1774369881,
+      "description": "我有抑郁症",
+      "from_kw": "A1-单局流程"
+    },
+    {
+      "bvid": "BV1J94y1e7GH",
+      "title": "段位越低操作越有趣?",
+      "author": "鲁迅养鸡-v-",
+      "play": 135030,
+      "duration": "4:12",
+      "pubdate": 1690893787,
+      "description": "",
+      "from_kw": "A1-单局流程"
+    },
+    {
+      "bvid": "BV1CeRQBpELc",
+      "title": "打排位没思路？看完大局观提升500%！！无畏契约最细战术教学",
+      "author": "iCey_0411",
+      "play": 14401,
+      "duration": "5:6",
+      "pubdate": 1778314022,
+      "description": "直播免费复盘，有其他想看内容可以直接评论或私信留言。视频制作不易，如果觉得视频对你有帮助可以点赞或关注，谢谢大家！",
+      "from_kw": "A1-单局流程"
+    },
+    {
+      "bvid": "BV1UV4y1k76r",
+      "title": "【中英】你开枪可能太急了【Valorant/Sondo301】",
+      "author": "红烧黑脸",
+      "play": 604297,
+      "duration": "7:57",
+      "pubdate": 1683195313,
+      "description": "https://www.youtube.com/watch?v=VevPdrrcbaE\n原标题：Shoot slower, like an Immortal in Valorant…No BS\n作者频道@Sondo301：https://www.youtube.com/@sondo301_\n\n星号*标注的句子存在听译过程中听不清等问题，因个人水平有限，字幕仅供学习交流使用，有错误请指出",
+      "from_kw": "A1-单局流程"
+    },
+    {
+      "bvid": "BV1gGDRBhEGo",
+      "title": "【Haeyoday】我如何拿下90%的对枪丨无畏契约2026教学",
+      "author": "艾锐克斯",
+      "play": 48789,
+      "duration": "58:54",
+      "pubdate": 1776019745,
+      "description": "爆肝烤肉，别问为什么，我知道你们想看\n提的问题我就不翻译了，我觉得没啥必要，完全没啥影响\n\n原标题：How I Win 90% of My Gunfights | VALORANT Visual Guide 2026\n链接：https://www.youtube.com/watch?v=WdA19uMjzy8&amp;t=3293s\n作者：Haeyoday\n\n灵敏度：8600x0.1 + Raw Accel\n鼠标：万灵Max\n鼠标垫：Clustrs玻璃垫\n键盘：最近是八宝60HE+ZOOM64壳子\n耳机：万灵 幻",
+      "from_kw": "A1-单局流程"
+    },
+    {
+      "bvid": "BV1wTiue2E6r",
+      "title": "[无畏契约] 对局势有清晰的定位和判断后再做决策 -帮你突破瓶颈-第五期",
+      "author": "暗辰の薄明",
+      "play": 24822,
+      "duration": "6:46",
+      "pubdate": 1722596400,
+      "description": "写文案的时候，发现有关判断决策的内容难免空泛，想要具体讨论，但很难仅用一期视频的时长来解决，考虑之后在单独做一期来详细讨论。\n如果有什么问题欢迎私信我，或者进主页联系~",
+      "from_kw": "A2-决策体系"
+    },
+    {
+      "bvid": "BV1EjS7BuEZy",
+      "title": "【无畏契约demo复盘】决策全错 最有帮助中三段决策最脑溢xue的一集",
+      "author": "柯然KeRanny",
+      "play": 113795,
+      "duration": "18:25",
+      "pubdate": 1764311991,
+      "description": "",
+      "from_kw": "A2-决策体系"
+    },
+    {
+      "bvid": "BV15x4y187Ru",
+      "title": "【无畏契约】想上分就要必看的一场比赛！",
+      "author": "约德尔大人",
+      "play": 267863,
+      "duration": "8:43",
+      "pubdate": 1718528520,
+      "description": "喜欢视频的话一定要记得给我三连哦！\n\n记得上JD搜索【英特尔14代酷睿HX】",
+      "from_kw": "A2-决策体系"
+    },
+    {
+      "bvid": "BV1DVrhBuEd6",
+      "title": "当黑铁打神话定级赛会发生什么",
+      "author": "旺仔库库糖",
+      "play": 1630857,
+      "duration": "18:59",
+      "pubdate": 1768210050,
+      "description": "不提倡模仿，纯属偶然分享，不好的评论会拉黑删除，感谢大家友好讨论理性批判",
+      "from_kw": "A2-决策体系",
+      "also_in": [
+        "C2-残局回防"
+      ]
+    },
+    {
+      "bvid": "BV1iTbCzBEZo",
+      "title": "【无畏契约】上分必看！无畏契约最好用的常规战术！",
+      "author": "约德尔大人",
+      "play": 318336,
+      "duration": "8:16",
+      "pubdate": 1753360086,
+      "description": "喜欢视频记得一键三连哦！",
+      "from_kw": "A2-决策体系",
+      "also_in": [
+        "C1-进点流程"
+      ]
+    },
+    {
+      "bvid": "BV1i4tVzJEvZ",
+      "title": "枪法与思路结合的实战决策与击杀秀",
+      "author": "想当世界第二捷风",
+      "play": 18209,
+      "duration": "4:11",
+      "pubdate": 1754366400,
+      "description": "谢谢观看，祝你们天天开心。",
+      "from_kw": "A2-决策体系"
+    },
+    {
+      "bvid": "BV17C4y1Z7ur",
+      "title": "【无畏契约】一个神话VS五个黑铁",
+      "author": "棋白棋白",
+      "play": 798966,
+      "duration": "5:12",
+      "pubdate": 1696429014,
+      "description": "【无畏契约】一个神话VS五个黑铁",
+      "from_kw": "A2-决策体系"
+    },
+    {
+      "bvid": "BV1FrvDBcEqR",
+      "title": "白银被忽悠去打超凡局",
+      "author": "泥巴zz",
+      "play": 320691,
+      "duration": "20:41",
+      "pubdate": 1767270115,
+      "description": "每晚8点直播\n\n直播间链接：https://b23.tv/Vs81KSQ\n\n\n我知道我很菜我知道我很菜我知道我很菜我知道我很菜我知道我很菜我知道我很菜我知道我很菜我知道我很菜我知道我很菜我知道我很菜我知道我很菜我知道我很菜我知道我很菜我知道我很菜我知道我很菜我知道我很菜我知道我很菜我知道我很菜我知道我很菜我知道我很菜我知道我很菜我知道我很菜我知道我很菜我知道我很菜我知道我很菜我知道我很菜我知道我很菜我知道我很菜我知道我很菜我知道我很菜我知道我很菜我知道我很菜我知道我很菜我知道我很菜我知道我很菜我知道我很菜",
+      "from_kw": "A2-决策体系"
+    },
+    {
+      "bvid": "BV1suvbBkELz",
+      "title": "无畏契约的设计，就是压榨你的注意力。【游戏设计】",
+      "author": "天生欠扁",
+      "play": 843295,
+      "duration": "5:28",
+      "pubdate": 1767070200,
+      "description": "这就是瓦，一款全新形态的高压锅！\n\nBGM:\nSi Tu Vois Ma Mere",
+      "from_kw": "A2-决策体系"
+    },
+    {
+      "bvid": "BV1SnKg6cEoW",
+      "title": "找五个瓦手神超小孩VS端瓦铂钻选手，高端局还是全糖？第一届【星羽杯】对抗赛！",
+      "author": "时星羽-xy",
+      "play": 151620,
+      "duration": "13:5",
+      "pubdate": 1784183619,
+      "description": "斥巨资之巨制！一定要点赞投币呀！",
+      "from_kw": "A2-决策体系"
+    },
+    {
+      "bvid": "BV1dMBtBNEfy",
+      "title": "锐评无畏契约气人队友从夯到拉排名",
+      "author": "曼波啵波波啵",
+      "play": 106621,
+      "duration": "7:59",
+      "pubdate": 1766411785,
+      "description": "",
+      "from_kw": "A2-决策体系"
+    },
+    {
+      "bvid": "BV1QS2XBQEtj",
+      "title": "锐评无畏契约决斗从夯到拉排名",
+      "author": "曼波啵波波啵",
+      "play": 280140,
+      "duration": "3:43",
+      "pubdate": 1765020379,
+      "description": "",
+      "from_kw": "A2-决策体系"
+    },
+    {
+      "bvid": "BV1sp5jzkEan",
+      "title": "找两个赋能solo，分别告诉对方是黄金",
+      "author": "寒夜无畏契约",
+      "play": 1186802,
+      "duration": "5:4",
+      "pubdate": 1744977311,
+      "description": "找两个赋能solo，分别告诉对方是黄金，会发生什么有趣的事情呢",
+      "from_kw": "A2-决策体系",
+      "also_in": [
+        "C2-残局回防"
+      ]
+    },
+    {
+      "bvid": "BV1BVFszDESX",
+      "title": "找五个反炸鱼 告诉他们对面是炸鱼哥 但实际上是赋能",
+      "author": "是猫小酱",
+      "play": 2605275,
+      "duration": "23:0",
+      "pubdate": 1770462351,
+      "description": "找五个反炸鱼 告诉他们对面是炸鱼哥 但实际上是赋能",
+      "from_kw": "A2-决策体系"
+    },
+    {
+      "bvid": "BV1KF411S7sN",
+      "title": "新手进攻没有思路？3分钟学会无畏契约所有进攻战术！",
+      "author": "威尼斯_VNS",
+      "play": 189780,
+      "duration": "3:20",
+      "pubdate": 1695290025,
+      "description": "推荐经常翻出来看，温故知新^ ^",
+      "from_kw": "A2-决策体系"
+    },
+    {
+      "bvid": "BV1dM411G7nj",
+      "title": "挑战只用刀上黄金！[Jollztv][无畏契约]",
+      "author": "-巴斯与光年-",
+      "play": 248288,
+      "duration": "12:24",
+      "pubdate": 1682918784,
+      "description": "https://www.youtube.com/watch?v=IqH128bZAaE\n\nsource:@Jollztv\nhttps://www.youtube.com/@Jollztv\n\n🔴 Want more Jollz content? Check out the other channels! 🔴\n🎮 Gaming ➡    / jollztvgaming  \n🎥 Vlogs ➡    / jollztvvlogs  \n🤣 React ➡   / jollztvreacts  \n⏭ VODs ➡ ",
+      "from_kw": "A2-决策体系"
+    },
+    {
+      "bvid": "BV1xyRqBJExw",
+      "title": "赋能炸钻超神话第一视角",
+      "author": "无畏契约春天",
+      "play": 253893,
+      "duration": "6:49",
+      "pubdate": 1777923324,
+      "description": "-",
+      "from_kw": "A2-决策体系"
+    },
+    {
+      "bvid": "BV1sGnmzGEJE",
+      "title": "为什么女生瓦瘾这么大？",
+      "author": "曜丸电竞俱乐部",
+      "play": 1643634,
+      "duration": "1:37",
+      "pubdate": 1759248393,
+      "description": "但是很多女生就不一样，她们打匹配一天都能打十几个小时。哪怕就一直打极速模式，她们也能打个通宵。",
+      "from_kw": "A2-决策体系"
+    },
+    {
+      "bvid": "BV13w411T73z",
+      "title": "[中文字幕]如何做出更好决策",
+      "author": "nblfps",
+      "play": 12372,
+      "duration": "21:17",
+      "pubdate": 1699423584,
+      "description": "https://www.youtube.com/watch?v=Aku4VdHnqDg",
+      "from_kw": "A2-决策体系"
+    },
+    {
+      "bvid": "BV1dqq2Y9EAV",
+      "title": "康康全程标配乱斗，对面被打急了鞭康康的尸！",
+      "author": "ZmJJKK频道",
+      "play": 546654,
+      "duration": "4:31",
+      "pubdate": 1733907900,
+      "description": "",
+      "from_kw": "A2-决策体系"
+    },
+    {
+      "bvid": "BV1Mw411k7FE",
+      "title": "解开为什么每次你走出去就被秒的疑惑",
+      "author": "蚊香侠s",
+      "play": 324954,
+      "duration": "2:1",
+      "pubdate": 1697041404,
+      "description": "视频偏向于新手 高手可以不看 有什么说错或者需要补充 欢迎留言讨论交流学习",
+      "from_kw": "A2-决策体系"
+    },
+    {
+      "bvid": "BV1aHm9B9EpX",
+      "title": "新手 下三 必犯得9个典型坏习惯 改完必定摆脱下三段",
+      "author": "畅想tc",
+      "play": 597547,
+      "duration": "4:4",
+      "pubdate": 1765618804,
+      "description": "",
+      "from_kw": "A2-决策体系"
+    },
+    {
+      "bvid": "BV14HXjBoEDV",
+      "title": "全网最干！有枪无脑直接过载？前游戏策划一个视频讲明白决策的底层逻辑【白羊说点咩#13】",
+      "author": "白羊座的白羊嗷",
+      "play": 26642,
+      "duration": "8:21",
+      "pubdate": 1774706528,
+      "description": "新赛季都要加油啊！！！有需要复盘的同学私信我！\n感谢万粉，加速更新中！\n可以在这条视频或万粉读评论的动态留下你想知道的，万粉读评论视频马上端上来！\n\n赋能小登认可的意识篇BV1W4HTzeELF\n信息篇BV18FkkBrEWF\n\n下一期执行篇！很快端上来！兄弟们来点三连吧！我什么都会做的！\n\n喜欢本期视频的可以一键三连多多支持！！！\n欢迎大家给视频提建议，不管是形式内容还是封面标题，可以私信的方式b站联系我\n希望能帮助更多的想上分的同学！！！速速加入开黑唠嗑企鹅群：772780798\n==========",
+      "from_kw": "A2-决策体系"
+    },
+    {
+      "bvid": "BV1fkjJzVEjc",
+      "title": "瓦4v5挑战：4赋能vs5个lol博主！哪边会赢？【无畏契约手游】",
+      "author": "布锅锅",
+      "play": 993934,
+      "duration": "31:37",
+      "pubdate": 1748059200,
+      "description": "大东彦、夜莲、舟舟子、小凌这4个人均赋能组成的无畏契约队vs打5个爱打瓦的lol博主，哪边会赢？",
+      "from_kw": "A2-决策体系"
+    },
+    {
+      "bvid": "BV1ByjHzSEwT",
+      "title": "【cxy】惊天1比13！赋能第一黄金局被碾压！波波被秒根本开不出枪来",
+      "author": "我很帅但又很温柔",
+      "play": 213200,
+      "duration": "8:29",
+      "pubdate": 1748020427,
+      "description": "黄金还真没你想得那么简单！",
+      "from_kw": "A2-决策体系"
+    },
+    {
+      "bvid": "BV1b4B6YwEm4",
+      "title": "【无畏契约免费复盘】犹豫就会败北，学会果断决策",
+      "author": "Lucky丶倒霉蛋",
+      "play": 26196,
+      "duration": "36:16",
+      "pubdate": 1732363200,
+      "description": "喜欢本系列视频的可以一键三连多多支持\n免费复盘关注b站置顶动态（百分之一百的免费）\n如果有帮到您也可以给主播充充电（回血）\n祝愿观看本期视频的所有小伙伴天天愉快\n顺风顺水顺财神，万事顺意，万事顺利\n希望大家都能上到自己想上的段位\n记得有空来看直播喵(●&#x27;◡&#x27;●)\n最后的最后，欢迎大家给视频提建议，不管是形式内容还是封面标题，可以私信的方式b站联系我\n一起把这个系列的视频做的更完善，帮助更多的小伙伴们",
+      "from_kw": "A2-决策体系"
+    },
+    {
+      "bvid": "BV1Htk5BUEsE",
+      "title": "包哥撞车美服赋能第一mooda，强者的战场，谁更胜一筹？",
+      "author": "TZのAharen",
+      "play": 281567,
+      "duration": "17:20",
+      "pubdate": 1768868025,
+      "description": "视频为自剪，有部分删减\n\n视频链接:https://youtu.be/szl_sVoQfXg?si=DV1A7JJqy6PXZEXs",
+      "from_kw": "A2-决策体系"
+    },
+    {
+      "bvid": "BV1xsp36NE7L",
+      "title": "练枪焚诀！巨实用，包上分，练了就会有提升！",
+      "author": "柯然KeRanny",
+      "play": 27237,
+      "duration": "19:54",
+      "pubdate": 1791684000,
+      "description": "",
+      "from_kw": "A3-清单模板",
+      "also_in": [
+        "C3-知名UP主"
+      ]
+    },
+    {
+      "bvid": "BV1Xcpt6REgB",
+      "title": "硕士打法 轻松上分",
+      "author": "卡了魏colorway",
+      "play": 104270,
+      "duration": "6:42",
+      "pubdate": 1791531509,
+      "description": "-",
+      "from_kw": "A3-清单模板",
+      "also_in": [
+        "B3-经济道具"
+      ]
+    },
+    {
+      "bvid": "BV1Fytx6jE8M",
+      "title": "无畏契约入坑/上分指南！从白银到神话的经验之谈",
+      "author": "秋忆i",
+      "play": 71973,
+      "duration": "13:52",
+      "pubdate": 1788149375,
+      "description": "",
+      "from_kw": "A3-清单模板"
+    },
+    {
+      "bvid": "BV1zgpJ62EiD",
+      "title": "像我这样练，一周见效！",
+      "author": "莺若_无畏契约",
+      "play": 9060,
+      "duration": "5:14",
+      "pubdate": 1791708232,
+      "description": "",
+      "from_kw": "A3-清单模板",
+      "also_in": [
+        "B3-经济道具"
+      ]
+    },
+    {
+      "bvid": "BV12bhd6UE54",
+      "title": "什么是本质高手的瞄准习惯？",
+      "author": "电坤小子嘿嘿",
+      "play": 75852,
+      "duration": "1:43",
+      "pubdate": 1790440181,
+      "description": "",
+      "from_kw": "A3-清单模板",
+      "also_in": [
+        "B3-经济道具"
+      ]
+    },
+    {
+      "bvid": "BV1nQp962ENx",
+      "title": "给绿泡泡Reyna的深度调整和效果展示",
+      "author": "-克礼无明-",
+      "play": 68332,
+      "duration": "6:30",
+      "pubdate": 1791797885,
+      "description": "本质高手",
+      "from_kw": "A3-清单模板",
+      "also_in": [
+        "B3-经济道具",
+        "C3-知名UP主"
+      ]
+    },
+    {
+      "bvid": "BV1v76kBGEPZ",
+      "title": "【Liquid nAts】保安队长的顶级理解 幽邃地窟Abyss零Cypher打法解析 无畏契约职业选手POV第一视角解析",
+      "author": "圣诞ChristmasLdw",
+      "play": 36325,
+      "duration": "85:48",
+      "pubdate": 1769826902,
+      "description": "这个视频肝了好久好久！希望大家来个三连爱你哦！如果看完觉得有帮助的话也欢迎分享给你的朋友！\n本期视频非常推荐大家观看，四场对局素材做一起，认真看完你的游戏理解肯定有很大提升！\n保安的道具很简单，但是更重要的是思路，开头是基础教学，高手们可以直接跳过到16:18\nLiquid nAts是很多职业选手的启蒙老师，这个视频一定能让你学到很多！\n---------------------------------\n分辨率1280*960\n鼠标灵敏度是800*0.49\n鼠标准心代码是：0;P;c;1;o;1;f;0;",
+      "from_kw": "A3-清单模板",
+      "also_in": [
+        "B1-意识决策",
+        "B3-经济道具"
+      ]
+    },
+    {
+      "bvid": "BV1aupu6qEuD",
+      "title": "[神话杂谈]为什么我上到神话就没那么热衷瓦？/上分，练枪经验分享",
+      "author": "腐烂的豌豆",
+      "play": 190063,
+      "duration": "6:35",
+      "pubdate": 1791345867,
+      "description": "如果想做的事情不敢去想象的话，那一定很难发生。\n过去豌豆刚玩游戏还处于下三分段，每天打瓦娱乐放松，直到开始接触雷兹，热衷于那种炸弹跳快速位移把对手打败的爽感，结果慢慢的从白银到黄金，黄金再到钻石一。当下一赛季定级赛开始排到上赛季超凡甚至是神话时，上上三段的梦就开始了。",
+      "from_kw": "A3-清单模板"
+    },
+    {
+      "bvid": "BV1Yqpx6pE2y",
+      "title": "如何在神话局”炸鱼&quot;？来看看顶尖Reyna玩家的排位思路【第九十八期】",
+      "author": "绿泡泡Reyna",
+      "play": 40563,
+      "duration": "2:48",
+      "pubdate": 1791777600,
+      "description": "爹们三连一下！",
+      "from_kw": "A3-清单模板"
+    },
+    {
+      "bvid": "BV1XwHW6yEZd",
+      "title": "《瞄准焦虑症》",
+      "author": "煎饼郭子-无畏契约",
+      "play": 540569,
+      "duration": "0:53",
+      "pubdate": 1791166256,
+      "description": "-",
+      "from_kw": "A3-清单模板"
+    },
+    {
+      "bvid": "BV1dkpR6rEoY",
+      "title": "无畏契约新赛季段位怎么继承？神话以上分数变化一次讲清楚",
+      "author": "泽坤-无畏契约代陪",
+      "play": 10820,
+      "duration": "1:28",
+      "pubdate": 1791817224,
+      "description": "-",
+      "from_kw": "A3-清单模板"
+    },
+    {
+      "bvid": "BV1bSYx66Eqh",
+      "title": "向内求修炼心态",
+      "author": "05的风-无畏契约",
+      "play": 21088,
+      "duration": "1:52",
+      "pubdate": 1788955200,
+      "description": "玩捷风我必须前压狠狠的打信息差喵喵喵",
+      "from_kw": "A3-清单模板"
+    },
+    {
+      "bvid": "BV152aA6nErx",
+      "title": "【中英熟肉】单排几十次赋能教练：瓦罗兰特快速上分的5个核心意识",
+      "author": "VEI_J",
+      "play": 7356,
+      "duration": "8:30",
+      "pubdate": 1790235393,
+      "description": "https://youtu.be/FkB9c8P9qTc\n作者@ root",
+      "from_kw": "A3-清单模板",
+      "also_in": [
+        "B1-意识决策"
+      ]
+    },
+    {
+      "bvid": "BV1W3hX6eEPR",
+      "title": "【瓦黄金复盘】 基本功太烂的黄金 习惯很差 把基础打好了再谈别的",
+      "author": "CrazyBanana2002",
+      "play": 1477,
+      "duration": "7:52",
+      "pubdate": 1790407736,
+      "description": "免费复盘看动态 多多三联谢谢",
+      "from_kw": "A3-清单模板"
+    },
+    {
+      "bvid": "BV1Hk4y1E7MU",
+      "title": "【如何成为更稳定的玩家！】Valorant稳定上分的诀窍",
+      "author": "大大卷爱打valorant",
+      "play": 46916,
+      "duration": "16:2",
+      "pubdate": 1683011376,
+      "description": "https://www.youtube.com/watch?v=rzs6l0oXkbU&amp;ab_channel=CHARLATAN%7CRadiantCoach\n字幕自制，请勿搬运",
+      "from_kw": "A3-清单模板"
+    },
+    {
+      "bvid": "BV13dZVBvEMi",
+      "title": "为什么说“免费枪”是上赋能必备的思路",
+      "author": "无畏契约sherry",
+      "play": 1018905,
+      "duration": "6:9",
+      "pubdate": 1771301221,
+      "description": "",
+      "from_kw": "A3-清单模板",
+      "also_in": [
+        "B3-经济道具",
+        "C1-进点流程"
+      ]
+    },
+    {
+      "bvid": "BV12YpB6CEM7",
+      "title": "『灰林』确认能力是打好无畏契约的关键能力（中）【林复盘#134】",
+      "author": "灰色的林丶",
+      "play": 1110,
+      "duration": "11:45",
+      "pubdate": 1791917429,
+      "description": "连麦复 复盘不用上舰 群里有\n复盘细则群：521063844 \n求关注TAT\n来投一枚硬币\n祝你欢天喜地\n来投两枚硬币\n手留余香茉莉\n感谢你们硬币\n使我更有动力\n给我充足打气",
+      "from_kw": "A3-清单模板",
+      "also_in": [
+        "B3-经济道具"
+      ]
+    },
+    {
+      "bvid": "BV1PxcXzgEFX",
+      "title": "【中配】无畏契约：从本命英雄看你是什么样的人 - MrLowlander",
+      "author": "黑纹白斑马",
+      "play": 149163,
+      "duration": "8:35",
+      "pubdate": 1773149333,
+      "description": "原视频：What Your Main Valorant Agent Says About You\n原作者：MrLowlander\n发布日期：2025-09-08\n视频链接：https://www.youtube.com/watch?v=5o7t49vJ_Nc\n\n✨ 想看英文原声？请关注 @英文白斑马\n\n00:00 雷兹玩家分析\n分析雷兹（Raze）玩家速攻、快节奏的游戏风格特点。\n\n00:08 芮娜玩家分析\n探讨芮娜（Reyna）玩家追求击杀、不喜思考技能且偶尔伴随毒辣作风的特征。\n\n00:35 铁臂玩家",
+      "from_kw": "A3-清单模板",
+      "also_in": [
+        "B1-意识决策"
+      ]
+    },
+    {
+      "bvid": "BV1HBqHB4Eox",
+      "title": "“架枪宝典”上分路上练枪的一本通，当你看过一千遍以上primmie的架枪，你就会发现这个世界上没有架不住的点",
+      "author": "汉堡-无畏契约-",
+      "play": 32053,
+      "duration": "8:17",
+      "pubdate": 1766060460,
+      "description": "",
+      "from_kw": "A3-清单模板"
+    },
+    {
+      "bvid": "BV1YDHt6tEB5",
+      "title": "【熟肉】从黑铁到辐能，每个段位都有一手。nAts 思维模式课 #19",
+      "author": "Nero_Bruce",
+      "play": 15994,
+      "duration": "8:15",
+      "pubdate": 1791220338,
+      "description": "源地址：https://www.youtube.com/watch?v=aqoFKQk6h8Y&amp;t=1s\n源标题：One Small (But Underrated) Tip for Every Rank in VALORANT: The nAts Mindset #19\n发布时间：2026年10月5日\n大家好\n今天我来给大家一些在每个段位都可以学习的一个技巧\n关于我：\n我叫 Ayaz “nAts” Akhmetshin，是 Team Liquid 的《无畏契约》职业选手。我的主力特工是保安和蝰蛇。我玩这",
+      "from_kw": "A3-清单模板",
+      "also_in": [
+        "B1-意识决策"
+      ]
+    },
+    {
+      "bvid": "BV1NhHX6EEqv",
+      "title": "2分钟烟哨残局教学，看完直接赋能(10)",
+      "author": "是Z1r0不是猪卤肉",
+      "play": 12142,
+      "duration": "2:43",
+      "pubdate": 1791516600,
+      "description": "",
+      "from_kw": "A3-清单模板"
+    },
+    {
+      "bvid": "BV1QWPLzdEug",
+      "title": "【熟肉】谁在看我洗澡？",
+      "author": "吃葡萄不吐瓜子皮i",
+      "play": 208110,
+      "duration": "2:25",
+      "pubdate": 1772450259,
+      "description": "转自：https://www.youtube.com/watch?v=jxvuRkeBKl4\n日期：2026年3月1日\n作者：김유전@kimyujeon\n\n如有侵权，请联系我",
+      "from_kw": "A3-清单模板",
+      "also_in": [
+        "B1-意识决策",
+        "B3-经济道具"
+      ]
+    },
+    {
+      "bvid": "BV1ippd65EYs",
+      "title": "这不是一期教学视频，但我希望刷到的各位能学会交流，学会尊重队友(带有情绪输出，慎点)",
+      "author": "是Z1r0不是猪卤肉",
+      "play": 6566,
+      "duration": "7:58",
+      "pubdate": 1791815908,
+      "description": "",
+      "from_kw": "A3-清单模板"
+    },
+    {
+      "bvid": "BV183CGYKEZL",
+      "title": "自动扳机是如何养成  教你赋能第一primmie为何能成为提前枪直架大王的秘密",
+      "author": "电坤小子嘿嘿",
+      "play": 158243,
+      "duration": "5:14",
+      "pubdate": 1734944870,
+      "description": "各位观众老爷们的三连是对我的最大支持！",
+      "from_kw": "A3-清单模板"
+    },
+    {
+      "bvid": "BV1sfHH6ZE35",
+      "title": "想上神话赋能 先把这四项有效乱斗练好!",
+      "author": "畅想tc",
+      "play": 18577,
+      "duration": "2:27",
+      "pubdate": 1791190800,
+      "description": "",
+      "from_kw": "A3-清单模板"
+    },
+    {
+      "bvid": "BV1xm421g78W",
+      "title": "在入坑无畏契约后实战中你需要知道的几个小细节【无畏契约】",
+      "author": "Renai_",
+      "play": 71447,
+      "duration": "8:12",
+      "pubdate": 1721088000,
+      "description": "",
+      "from_kw": "A3-清单模板"
+    },
+    {
+      "bvid": "BV1XDTv66Ekj",
+      "title": "三分钟 成为本质高手",
+      "author": "05的风-无畏契约",
+      "play": 45392,
+      "duration": "2:34",
+      "pubdate": 1782907200,
+      "description": "玩捷风我必须前压狠狠的打信息差喵喵喵",
+      "from_kw": "A3-清单模板"
+    },
+    {
+      "bvid": "BV18FkkBrEWF",
+      "title": "全网最细！或许你从未真正拿到过信息！前游戏策划一个视频讲明白信息获取的底层逻辑 【白羊说点咩#12】",
+      "author": "白羊座的白羊嗷",
+      "play": 37859,
+      "duration": "11:10",
+      "pubdate": 1762868922,
+      "description": "第12期白羊说点咩来了~有需要复盘的同学看动态置顶哦～\n感冒了，听起来闷闷的，有什么意见真的提出来我真的会请你们喝奶茶的，拜托了\n\n喜欢本期视频的可以一键三连多多支持！！！速速加入开黑交流粉丝群：772780798\n欢迎大家给视频提建议，不管是形式内容还是封面标题，可以私信的方式b站联系我\n建议采取有一杯奶茶哦~\n希望能帮助更多的想上分的同学！！！",
+      "from_kw": "B1-意识决策"
+    },
+    {
+      "bvid": "BV1rXpk6jExz",
+      "title": "无畏契约先锋位道具思路与实战解析合集",
+      "author": "鉞丶",
+      "play": 1252,
+      "duration": "9:1",
+      "pubdate": 1791935529,
+      "description": "九分钟，感谢观看",
+      "from_kw": "B1-意识决策",
+      "also_in": [
+        "B3-经济道具"
+      ]
+    },
+    {
+      "bvid": "BV1YibHzuEyv",
+      "title": "全网首发！《独立思考》第二期-信息收集",
+      "author": "M4CLUB-无畏契约",
+      "play": 5204,
+      "duration": "12:8",
+      "pubdate": 1755235969,
+      "description": "",
+      "from_kw": "B1-意识决策"
+    },
+    {
+      "bvid": "BV15Mpp61E8v",
+      "title": "『灰林』这个视频一定能帮你顿悟（上）【林复盘#134】",
+      "author": "灰色的林丶",
+      "play": 1719,
+      "duration": "20:56",
+      "pubdate": 1791770400,
+      "description": "对新手与下三收效极佳\n连麦复 复盘不用上舰 群里有\n复盘细则群：521063844 \n求关注TAT\n来投一枚硬币\n祝你欢天喜地\n来投两枚硬币\n手留余香茉莉\n感谢你们硬币\n使我更有动力\n给我充足打气",
+      "from_kw": "B1-意识决策"
+    },
+    {
+      "bvid": "BV1JYP6e7EcM",
+      "title": "[掌瓦分析团]Vitality指挥Sayf教你valorant的底层逻辑",
+      "author": "nblfps",
+      "play": 25009,
+      "duration": "9:44",
+      "pubdate": 1738716362,
+      "description": "https://www.youtube.com/watch?v=GCFe_ap22e0\nTwo Door Cinema Club - Undercover Martyn\nGorillaz - Feel Good Inc.\nUsher - DJ Got Us Fallin&#x27; In Love ft. Pitbull",
+      "from_kw": "B1-意识决策"
+    },
+    {
+      "bvid": "BV1inLczQEbi",
+      "title": "知道你实战拉胯，一个视频训练你的信息收集能力！",
+      "author": "老马-Apex",
+      "play": 8102,
+      "duration": "2:56",
+      "pubdate": 1745159400,
+      "description": "希望大家喜欢~~\nbgm：China-X",
+      "from_kw": "B1-意识决策"
+    },
+    {
+      "bvid": "BV1BtMA6FEfv",
+      "title": "如何正确提升意识",
+      "author": "诚哥电竞-无畏契约",
+      "play": 27840,
+      "duration": "5:29",
+      "pubdate": 1783157176,
+      "description": "",
+      "from_kw": "B1-意识决策"
+    },
+    {
+      "bvid": "BV1rt421w7wB",
+      "title": "【纯干货】5分钟理解意识 手把手教你构建rank核心行为逻辑  国服rank实录",
+      "author": "风险偏好丶",
+      "play": 136305,
+      "duration": "5:24",
+      "pubdate": 1714098819,
+      "description": "阳了以后又要重新复健，打的很少，导致上分之路实在是很平淡，于是把素材攒起来做了一期意识相关的视频。因为感觉大部分跟意识相关的视频都是讲残局的，但是很多人问题不是残局打不明白，希望这期视频可以帮助到想要提高意识的人，如果有帮助可以点赞+关注支持一下up，谢谢。\n五一最迟五一过后就会开直播 打国/港服尚博勒rank 有兴趣欢迎来直播间支持 同时在考虑有偿接看demo 有需要可以私信讨论",
+      "from_kw": "B1-意识决策"
+    },
+    {
+      "bvid": "BV1W4HTzeELF",
+      "title": "全网最干！枪法很好但赢不了？可能是意识出了问题！前游戏策划一个视频讲明白意识的底层逻辑【白羊说点咩#11】",
+      "author": "白羊座的白羊嗷",
+      "play": 188812,
+      "duration": "13:39",
+      "pubdate": 1759416161,
+      "description": "第11期白羊说点咩来了~有需要复盘的同学看动态置顶哦～\n最最最干的一期来了，看懂这期视频，上神话绝对没问题，我都可以“混”上去，你凭什么不行？\n多多关注自己枪法以外的内容，很多时候你的枪法真的够用了！\n\n喜欢本期视频的可以一键三连多多支持！！！速速加入开黑交流粉丝群：772780798\n欢迎大家给视频提建议，不管是形式内容还是封面标题，可以私信的方式b站联系我\n建议采取有一杯奶茶哦~\n希望能帮助更多的想上分的同学！！！",
+      "from_kw": "B1-意识决策"
+    },
+    {
+      "bvid": "BV1AcCuYjEGY",
+      "title": "【中英熟肉】这个46分钟的视频涵盖了valorant中的每个机制技巧！（新手必看）",
+      "author": "VEI_J",
+      "play": 76969,
+      "duration": "46:46",
+      "pubdate": 1734911733,
+      "description": "花了我一个周末！看得开心\n纯爱好，一个人翻译，不足之处请谅解，可以评论区指出^-^\n支持请点赞关注哦,有条件充电就更好了🤤\nThis Valorant guide will cover every Valorant mechanic that you need to know. I&#x27;ll be breaking down the components of aim and movement, then combining them to show you how Radiant players gain ",
+      "from_kw": "B1-意识决策"
+    },
+    {
+      "bvid": "BV1E2Hr6BEEf",
+      "title": "基础底层意识【无畏契约】",
+      "author": "麻薯-无畏契约",
+      "play": 929,
+      "duration": "5:14",
+      "pubdate": 1791089948,
+      "description": "",
+      "from_kw": "B1-意识决策"
+    },
+    {
+      "bvid": "BV1WFTwz2EG8",
+      "title": "【简翻】如何真正提升你的游戏意识",
+      "author": "网友呜小呜",
+      "play": 2761,
+      "duration": "8:5",
+      "pubdate": 1750989705,
+      "description": "",
+      "from_kw": "B1-意识决策"
+    },
+    {
+      "bvid": "BV1NLhi6oEeY",
+      "title": "我花3分钟总结了十几个上百万播放的瞄准教程",
+      "author": "马枪大王_VALORANT",
+      "play": 15548,
+      "duration": "3:40",
+      "pubdate": 1789981800,
+      "description": "",
+      "from_kw": "B1-意识决策",
+      "also_in": [
+        "C1-进点流程"
+      ]
+    },
+    {
+      "bvid": "BV1NzKx6PEgj",
+      "title": "7分钟让你从零开始学会拿信息",
+      "author": "dy旭的无畏契约",
+      "play": 938,
+      "duration": "6:26",
+      "pubdate": 1784596800,
+      "description": "",
+      "from_kw": "B1-意识决策"
+    },
+    {
+      "bvid": "BV1aSH6e7EhS",
+      "title": "【从0学指挥00】绪论：你是否需要看这个系列？",
+      "author": "六時の雨",
+      "play": 47421,
+      "duration": "4:47",
+      "pubdate": 1725238028,
+      "description": "伟大的第一步",
+      "from_kw": "B1-意识决策"
+    },
+    {
+      "bvid": "BV1Ck34zZEGC",
+      "title": "无畏契约意识细节的重要性！依旧每日7分钟思路细节讲解，每天一个小细节，学会轻松上神话",
+      "author": "Rn王中王",
+      "play": 7365,
+      "duration": "7:2",
+      "pubdate": 1751466566,
+      "description": "",
+      "from_kw": "B1-意识决策"
+    },
+    {
+      "bvid": "BV1LDPRzrEhC",
+      "title": "【茄子瓦学/基础篇/第四章/信息阅读】",
+      "author": "茄子基拉",
+      "play": 36221,
+      "duration": "6:18",
+      "pubdate": 1773126000,
+      "description": "评论区roll一把AG标配！\n看完长脑子，从底层逻辑教会你打瓦；下篇预告：基础篇全系列超详细讲解。所有实战画面均为演绎，演示作用≠实战情况，只是为了帮大家理清一些游戏概念。都是基础操作和理论，不要拿实战的复杂情况来杠，更进阶的东西以后进阶篇会出。\n信息阅读是无畏契约核心中的核心，该怎么打，不该怎么打，怎么打才能赢，怎么打就会输，几乎所有的问题都能用这四个字解决。",
+      "from_kw": "B1-意识决策"
+    },
+    {
+      "bvid": "BV1PPCdBgEpD",
+      "title": "解析DDY的选位之后，我上到了神话三！杀不到人你回来喷我！",
+      "author": "白羊座的白羊嗷",
+      "play": 104393,
+      "duration": "5:0",
+      "pubdate": 1763300006,
+      "description": "感谢@大东彦  老师开源，真的很好用，孩子已经偷到神三了(\n不过已经忘记当时切片讲的是什么了。\n短短一期视频，弄了老半天，评论区抽三杯奶茶哦！！！\n\n喜欢本期视频的可以一键三连多多支持！！！速速加入开黑交流粉丝群：772780798\n欢迎大家给视频提建议，不管是形式内容还是封面标题，可以私信的方式b站联系我\n建议采取有一杯奶茶哦~\n希望能帮助更多的想上分的同学！！！",
+      "from_kw": "B1-意识决策",
+      "also_in": [
+        "C3-知名UP主"
+      ]
+    },
+    {
+      "bvid": "BV18EHj6DEB9",
+      "title": "从夜戮入手 分析VCTCN的图权理解是如何逐渐落后于外赛区 以及长达六分钟的纯粹爽喷——【焦点芳谈】第十四期",
+      "author": "撷芳er",
+      "play": 214916,
+      "duration": "22:40",
+      "pubdate": 1791106218,
+      "description": "满纸荒唐言，一把辛酸泪",
+      "from_kw": "B1-意识决策"
+    },
+    {
+      "bvid": "BV1pSZWBJEqQ",
+      "title": "身位控制终极指南",
+      "author": "懒虫Sleepyhead",
+      "play": 311202,
+      "duration": "9:45",
+      "pubdate": 1771151400,
+      "description": "一份新年礼物——身位控制终极指南 送给大家\n这里是懒虫 我是一名致力于体系化教学的博主\n帮助你进一步提升游戏功底，提升游戏理解！\n让你在游戏里的一切变得得心应手\n希望能够帮助到仍然在游戏的你！感谢你的支持\n特别鸣谢视频制作团队，灵魂人物\n@D34thEnjoyer\n给我所有的帮助，给我信任和支持！\nfor one love！",
+      "from_kw": "B2-身位peek"
+    },
+    {
+      "bvid": "BV1TAcoewEQU",
+      "title": "【无畏契约寒假班】从0到神话第4集：学会预瞄和走路",
+      "author": "Subei无畏契约教学",
+      "play": 355701,
+      "duration": "15:13",
+      "pubdate": 1737129225,
+      "description": "【无畏契约寒假班】从0到神话第4集",
+      "from_kw": "B2-身位peek"
+    },
+    {
+      "bvid": "BV1yCs5eTEJC",
+      "title": "【无畏契约】ZmjjKK 预瞄技巧及死斗练枪教学",
+      "author": "卓威ZOWIE",
+      "play": 425249,
+      "duration": "4:17",
+      "pubdate": 1724659131,
+      "description": "在本期的卓威电竞大讲堂中，康康将为大家分享日常死斗练枪的技巧，帮助大家在训练中提升枪法～\n恭喜EDG创造CN无畏契约历史，夺得2024全球大赛冠军！康康选手凭借自己赛场中精彩的表现也赢得了总决赛MVP！\n关注卓威电竞大讲堂，每期更新专业的教学内容～",
+      "from_kw": "B2-身位peek"
+    },
+    {
+      "bvid": "BV1CBtU6UEMp",
+      "title": "无畏契约跑图流程-预瞄-身位控制-拉地速",
+      "author": "成有翰--",
+      "play": 15665,
+      "duration": "8:24",
+      "pubdate": 1788408000,
+      "description": "",
+      "from_kw": "B2-身位peek"
+    },
+    {
+      "bvid": "BV11CnnzKE1g",
+      "title": "无畏契约新手必学身法——走peek 跳peek 旋转跳peek",
+      "author": "Jacky_Chen",
+      "play": 164715,
+      "duration": "7:7",
+      "pubdate": 1758974212,
+      "description": "",
+      "from_kw": "B2-身位peek"
+    },
+    {
+      "bvid": "BV1hk4y197N1",
+      "title": "新手教学 你真的学会预瞄了吗 新手预瞄常出现的问题",
+      "author": "翔哥又困了",
+      "play": 184651,
+      "duration": "9:12",
+      "pubdate": 1704769200,
+      "description": "",
+      "from_kw": "B2-身位peek"
+    },
+    {
+      "bvid": "BV1kW42197rc",
+      "title": "95%玩家忽视的身位控制问题！公式化掌握身位控制！",
+      "author": "真好甜甜",
+      "play": 493385,
+      "duration": "5:24",
+      "pubdate": 1721654718,
+      "description": "拥有地图熟悉度与枪位熟悉度结合公式就能不断获得更好的身位控制，公式始终都是公式，希望大家利用公式结合更多理解，慢慢获得自己的理解。公式是为了保持大家的下限，本期视频可能是1.0 后续会出我进军神3的身位控制心得，2.0进阶内容。\n瓦资讯推荐UP主@狙击少女-瓦妹",
+      "from_kw": "B2-身位peek"
+    },
+    {
+      "bvid": "BV1EthLzMEKw",
+      "title": "【大东彦】到底怎么大拉怎么peek？预瞄要学会回拉留递速空间！怎么选择枪位？不要随波逐流跟着按w进，要想想怎么杀人怎么去对枪",
+      "author": "anno大笨蛋",
+      "play": 156341,
+      "duration": "20:6",
+      "pubdate": 1754238901,
+      "description": "如果你觉得视频还不错的话希望能收到你的点赞和关注嘿嘿！谢谢啦！\n因为主视角是欧门大家在冰箱都不怎么玩，所以截取了一些我觉得比较有用和枪法意识基本功相关的片段！如果想全程大伙可以看彦神的录播！\n\n大东彦：\nhttps://space.bilibili.com/179877838\nhttps://live.bilibili.com/5236391",
+      "from_kw": "B2-身位peek"
+    },
+    {
+      "bvid": "BV1Mm4y1771E",
+      "title": "全是干货！5分钟大幅度提高你的对枪水平！【瓦罗兰特/无畏契约/Valorant】",
+      "author": "徐桑",
+      "play": 2296139,
+      "duration": "5:59",
+      "pubdate": 1689658525,
+      "description": "学到东西的话，麻烦关注三连点一点咯，现在关注你就是老粉辣！",
+      "from_kw": "B2-身位peek"
+    },
+    {
+      "bvid": "BV1SBhpzCEfq",
+      "title": "【隐世修所】 预瞄全流程教学",
+      "author": "好家伙不演了",
+      "play": 71993,
+      "duration": "17:44",
+      "pubdate": 1754125200,
+      "description": "",
+      "from_kw": "B2-身位peek"
+    },
+    {
+      "bvid": "BV1B5Y76YENb",
+      "title": "【GenG T3xture】职业最好基本功 展示预瞄！天枢云阙Summit 尚勃勒Chamber钱包 无畏契约第一视角分析 POV 排位教科书",
+      "author": "森仔Bro",
+      "play": 49095,
+      "duration": "31:22",
+      "pubdate": 1789126129,
+      "description": "为爱发电 大家多多三连支持一下，感谢大家！\n本局准星0;s;1;P;u;000000FF;h;0;0l;3;0v;3;0o;2;0a;1;0f;0;1b;0;S;o;0.7\n分辨率1920 1080\n灵敏度800 0.45",
+      "from_kw": "B2-身位peek"
+    },
+    {
+      "bvid": "BV1fd4y1R7kd",
+      "title": "无畏契约所有Peek方式汇总，学会因地制宜的使用Peek！",
+      "author": "大东彦",
+      "play": 429546,
+      "duration": "5:58",
+      "pubdate": 1661392800,
+      "description": "相关游戏：Valorant\n新教学视频，视频里讲了3种基础peek与3种进阶peek的使用方式和应用场景。\n【Valorant教学系列】\n\n新手入坑：\n\nhttps://www.bilibili.com/video/BV1hL4y1b773\n\nhttps://www.bilibili.com/video/BV11S4y1s7wW\n\n \n\n枪法提升：\n\n总论：https://www.bilibili.com/video/BV1SU4y1r7x1\n\n预瞄和Peek：https://www.bilibili.c",
+      "from_kw": "B2-身位peek"
+    },
+    {
+      "bvid": "BV1r23fzLE3t",
+      "title": "架枪与拉枪？你想知道的冥驹细节都在这里",
+      "author": "結月真冬_Mafuyu",
+      "play": 135827,
+      "duration": "22:19",
+      "pubdate": 1751796000,
+      "description": "经验不足与些许粗制滥造请见谅\nBGM:BV1q6o7YZEbF",
+      "from_kw": "B2-身位peek"
+    },
+    {
+      "bvid": "BV1bi421h7KD",
+      "title": "CS2 身位控制-用16分钟的视频让你完全了解什么是身位控制",
+      "author": "CSGO干拉小子",
+      "play": 147021,
+      "duration": "15:32",
+      "pubdate": 1723549762,
+      "description": "花了我14天才制作完成  期间有很多晚上因为要做这个视频夜不能寐  头疼  终于做完了",
+      "from_kw": "B2-身位peek"
+    },
+    {
+      "bvid": "BV1JDVEzMEsA",
+      "title": "Meteor 核心特点分解|点蹲|蹲peek|预瞄|定位|绕后|无畏契约",
+      "author": "少侠出发了",
+      "play": 42369,
+      "duration": "11:13",
+      "pubdate": 1746249284,
+      "description": "DPI：800 * 0.3\n分辨率：1920*1080\n准星代码：0;s;1;P;o;1;d;1;f;0;0t;4;0l;1;0o;0;0a;1;0f;0;1b;0;S;c;0;o;1\nwooting代码\na37d67bc28e3199f337f54ff89ba78c2216f",
+      "from_kw": "B2-身位peek"
+    },
+    {
+      "bvid": "BV16xhm6UEC2",
+      "title": "我们用网页复刻了无畏契约 只为了让大家更好练枪",
+      "author": "是Ethan不是伊森",
+      "play": 351134,
+      "duration": "3:6",
+      "pubdate": 1790359966,
+      "description": "网站：miaozhun.pro\n我们花了很多精力时间和金钱做了很久的项目\n目前bug和需要优化的点还是很多的 需要大家在体验后给我们反馈\n网站由我们爱收徒和封神榜的制作者一只睡羊Rick制作 他是真正的Goat\n我负责项目搭建 UI 体验优化和宣发\n其他地图的预瞄/架枪/接人项目还在制作中\n目前的更新频率按天来计算\n有什么问题欢迎来群反馈！",
+      "from_kw": "B2-身位peek"
+    },
+    {
+      "bvid": "BV1zZoQB9EAB",
+      "title": "极致预瞄 纯净瞄准 干爽走路  什么是大基本功身位控制？预好这一枪，舒适一整天！",
+      "author": "JesseMcRae",
+      "play": 270265,
+      "duration": "6:24",
+      "pubdate": 1777114538,
+      "description": "素材均来自大号匹配排位内战",
+      "from_kw": "B2-身位peek"
+    },
+    {
+      "bvid": "BV1zUjY6iEzs",
+      "title": "中文互联网最好的瞄准教学",
+      "author": "时停tt",
+      "play": 1710133,
+      "duration": "12:59",
+      "pubdate": 1781814589,
+      "description": "休学两年后，我做出了真正的毕业设计",
+      "from_kw": "B2-身位peek"
+    },
+    {
+      "bvid": "BV15Z421L7LX",
+      "title": "到底什么是身位控制?为什么说速度控制是核心要点！",
+      "author": "大东彦",
+      "play": 441132,
+      "duration": "6:9",
+      "pubdate": 1724392689,
+      "description": "有很多观众朋友问过我什么是身位控制，身位控制不只是字面上的掩体利用和枪线拆分，还会涉及很多细节上的横移速度控制，今天我们就来稍微展开讲一讲",
+      "from_kw": "B2-身位peek",
+      "also_in": [
+        "C3-知名UP主"
+      ]
+    },
+    {
+      "bvid": "BV1FUJM63Exc",
+      "title": "一个视频教会你无畏契约需要全部预瞄技巧！",
+      "author": "killerpan",
+      "play": 13806,
+      "duration": "24:18",
+      "pubdate": 1781496506,
+      "description": "很多人在游戏过程中一直卡在下分段上不去，今天一期视频告诉你目前跟高手的差距以及该正确利用时间练习的东西，希望大家最少的时间上到自己所想的分段！",
+      "from_kw": "B2-身位peek"
+    },
+    {
+      "bvid": "BV1r4MazYEzR",
+      "title": "老六必学！全地图歇逼位大全，最阴险的选位",
+      "author": "大东彦",
+      "play": 343752,
+      "duration": "9:45",
+      "pubdate": 1750132800,
+      "description": "今天给大家带来一期选位教学，来给大家介绍一下无畏契约里的一些可供防守方选择的阴险歇逼位，用起来也是很实用啊",
+      "from_kw": "B2-身位peek"
+    },
+    {
+      "bvid": "BV1Zb4y1L75N",
+      "title": "最全面的预瞄教学！无畏契约全地图预瞄流程演示（上）",
+      "author": "大东彦",
+      "play": 647820,
+      "duration": "8:57",
+      "pubdate": 1702012124,
+      "description": "相关游戏：无畏契约\n有很多水友之前反馈都想看的全地图干摸预瞄全流程演示教学，真得来看看吧(●&#x27;◡&#x27;●)",
+      "from_kw": "B2-身位peek",
+      "also_in": [
+        "C3-知名UP主"
+      ]
+    },
+    {
+      "bvid": "BV1zg411K7KG",
+      "title": "【转载】Valorant基础 ENVY yay的预瞄和peek教学",
+      "author": "希望你别急",
+      "play": 31687,
+      "duration": "20:41",
+      "pubdate": 1636604627,
+      "description": "转自https://www.youtube.com/watch?v=2rUpglPIlQE\n很多朋友求，我干脆从油管搬过来了，从4分钟开始讲，机翻",
+      "from_kw": "B2-身位peek"
+    },
+    {
+      "bvid": "BV1Jk4y1c7bU",
+      "title": "【无畏课堂】如何精准击败与预瞄，从而成为无畏契约高手",
+      "author": "无畏契约",
+      "play": 148971,
+      "duration": "3:29",
+      "pubdate": 1695382345,
+      "description": "无畏契约中英雄们虽然有着丰富的技能种类，但大多时候仍是以建立对枪优势为主，因此提升枪法是重中之重！\n\n在本期无畏课堂中和瓦酷酷一起学习“精准击败”与“预瞄”的相关知识，快速成长为无畏契约高手！\n\n下载链接前往：\nhttps://val.qq.com/download.html?adtag=bl",
+      "from_kw": "B2-身位peek"
+    },
+    {
+      "bvid": "BV1LD87zTEgr",
+      "title": "三角洲顶护高手养成计划之身位控制与预瞄一个视频真正走进高手世界！",
+      "author": "超限数",
+      "play": 408369,
+      "duration": "8:37",
+      "pubdate": 1753684200,
+      "description": "",
+      "from_kw": "B2-身位peek"
+    },
+    {
+      "bvid": "BV1jRqZBHEZ6",
+      "title": "身位控制焚决来了！",
+      "author": "电坤小子嘿嘿",
+      "play": 546900,
+      "duration": "2:31",
+      "pubdate": 1766137743,
+      "description": "三连催更——————————",
+      "from_kw": "B2-身位peek"
+    },
+    {
+      "bvid": "BV1BZeNzmEtd",
+      "title": "（黄金三一绝）如果你peek老是被接 那么请看这期复盘【林复盘】",
+      "author": "灰色的林丶",
+      "play": 22875,
+      "duration": "34:19",
+      "pubdate": 1755639016,
+      "description": "观众唠嗑群：521063844\n求关注TAT\n来投一枚硬币\n祝你欢天喜地\n来投两枚硬币\n手留余香茉莉\n感谢你们硬币\n使我更有动力\n给我充足打气",
+      "from_kw": "B2-身位peek"
+    },
+    {
+      "bvid": "BV1dkdgBfEKx",
+      "title": "【无畏契约手游】神话以下必看焚诀！预瞄，移动，选位一次讲透让你胜率大增！",
+      "author": "野猪君GOODIN",
+      "play": 36505,
+      "duration": "12:18",
+      "pubdate": 1778225803,
+      "description": "学再多花哨的技巧，模仿再多的点位和设置，都不如学会理解游戏逻辑。你以为你缺的是天赋，其实缺的是思考。想要快速提升，只要你搞明白了预瞄+选位+移动，只要你不去打职业，有个正常的反应速度，在瓦手里打聪明一点你就能超过70%的玩家",
+      "from_kw": "B2-身位peek"
+    },
+    {
+      "bvid": "BV1mtSRBxEk6",
+      "title": "最通俗易懂的走路、预瞄、准星摆放教学",
+      "author": "Zander_0416",
+      "play": 105934,
+      "duration": "13:53",
+      "pubdate": 1775422634,
+      "description": "个人见解，玻璃心，别骂，求求了",
+      "from_kw": "B2-身位peek"
+    },
+    {
+      "bvid": "BV1JK42117MU",
+      "title": "《无畏契约》关于peek与身位控制，你又知道多少，你是否会灵活运用！",
+      "author": "电竞讲师青柠",
+      "play": 30152,
+      "duration": "1:16",
+      "pubdate": 1706702835,
+      "description": "-",
+      "from_kw": "B2-身位peek"
+    },
+    {
+      "bvid": "BV17g7XzME2D",
+      "title": "无畏契约经济究竟如何运转？该怎样才能做到经济最大化",
+      "author": "不会空大的时雨",
+      "play": 105985,
+      "duration": "5:51",
+      "pubdate": 1748921400,
+      "description": "你一定要知道的无畏契约经济模式的运转",
+      "from_kw": "B3-经济道具"
+    },
+    {
+      "bvid": "BV1bs4y1N71U",
+      "title": "无畏契约经济系统详解，什么时候该买什么枪？！",
+      "author": "大东彦",
+      "play": 478521,
+      "duration": "7:35",
+      "pubdate": 1680677400,
+      "description": "相关游戏：无畏契约\n出一期视频解决一下很多新手疑惑的什么时候该起什么枪，怎样攒钱等问题，算是Valorant经济系统详解了。\n新手入坑：\nBV1hL4y1b773\nBV11S4y1s7wW\n\n新手基础知识：\n如何走路： BV1kD4y1p72N\n预瞄与选位：BV1fY411X75W\n\n枪法提升：\n上分学习路径总结：BV1RM4y1d7C9\n枪法总论：BV1SU4y1r7x1\nPeek总论：BV1fd4y1R7kd\n预瞄和Peek：BV1tq4y1A7yA\n预瞄和架枪：BV1Fu411R78T\n进阶急停：B",
+      "from_kw": "B3-经济道具"
+    },
+    {
+      "bvid": "BV18zoCYsEAm",
+      "title": "先锋位 进阶教学 拒绝道具公式化 拒绝无效道具 一个视频学会道具思路",
+      "author": "翔哥又困了",
+      "play": 43410,
+      "duration": "11:3",
+      "pubdate": 1742783300,
+      "description": "",
+      "from_kw": "B3-经济道具"
+    },
+    {
+      "bvid": "BV1rchv67Em7",
+      "title": "《无畏契约》经济学：让每一分钱都替你赢回合。nAts 思维模式课 #18",
+      "author": "Nero_Bruce",
+      "play": 10000,
+      "duration": "11:15",
+      "pubdate": 1789957139,
+      "description": "源地址：https://www.youtube.com/watch?v=7CO3o7DHWw4&amp;t=73s\n源标题：The Complete VALORANT Economy Guide (2026): The nAts Mindset #18\n发布时间：2026年9月21日\n大家好\n今天我来给大家讲讲在2026年，我们在无畏契约里应该怎样做好经济管理。\n关于我：\n我叫 Ayaz “nAts” Akhmetshin，是 Team Liquid 的《无畏契约》职业选手。我的主力特工是保安和蝰蛇。我玩这款游戏",
+      "from_kw": "B3-经济道具"
+    },
+    {
+      "bvid": "BV1vutZ68Eeb",
+      "title": "起枪还是起道具？七分钟教会你无畏契约各种场景下的经济分配！中下三段必看！",
+      "author": "星瀞萧宇",
+      "play": 17728,
+      "duration": "7:1",
+      "pubdate": 1788429456,
+      "description": "星瀞萧宇の小窝 815195384\n想一起玩游戏的可以加一下群哦~",
+      "from_kw": "B3-经济道具"
+    },
+    {
+      "bvid": "BV14TbQ6hEHi",
+      "title": "【零枪法钻超】先锋位到底如何用道具辅助跑位37",
+      "author": "予卿以丹青",
+      "play": 1214,
+      "duration": "2:25",
+      "pubdate": 1787475600,
+      "description": "",
+      "from_kw": "B3-经济道具"
+    },
+    {
+      "bvid": "BV1ZnYg65EYf",
+      "title": "道具的思路解析，用道具理解游戏",
+      "author": "夜里的青山无畏契约",
+      "play": 366,
+      "duration": "10:0",
+      "pubdate": 1789065055,
+      "description": "",
+      "from_kw": "B3-经济道具"
+    },
+    {
+      "bvid": "BV1aFHk6fEUb",
+      "title": "当你觉得vctcn没希望时，不如看看Simon的KO，CN最强最无可替代的道具位！",
+      "author": "小K看电竞",
+      "play": 89368,
+      "duration": "2:56",
+      "pubdate": 1791084497,
+      "description": "CN最强最无可替代的道具位！Simon和Smoggy撞车局，双视角感受下Simon的恐怖压制力！",
+      "from_kw": "B3-经济道具"
+    },
+    {
+      "bvid": "BV16eeP6NEsT",
+      "title": "区域划分和道具使用的部分联动",
+      "author": "夜里的青山无畏契约",
+      "play": 311,
+      "duration": "15:12",
+      "pubdate": 1789561096,
+      "description": "",
+      "from_kw": "B3-经济道具"
+    },
+    {
+      "bvid": "BV1rtad6VEBB",
+      "title": "架枪老走神？职业都在用的注意力训练！",
+      "author": "电坤小子嘿嘿",
+      "play": 17532,
+      "duration": "1:59",
+      "pubdate": 1790744095,
+      "description": "舒尔特方格：https://toolonline.net/shult-grid\n眼睛注意力训练：BV1c2421M75L",
+      "from_kw": "B3-经济道具"
+    },
+    {
+      "bvid": "BV1sMet63EGu",
+      "title": "我给无畏契约写了一个“合法外挂”！",
+      "author": "Jack-Cui",
+      "play": 542533,
+      "duration": "1:55",
+      "pubdate": 1789806900,
+      "description": "我会先从评论区选几位内测玩家，帮忙测试，测试都没有问题之后，会保证在十一之前发出来，可以先点个收藏，国庆一起打瓦上分！",
+      "from_kw": "B3-经济道具"
+    },
+    {
+      "bvid": "BV1m3a96jEYi",
+      "title": "【钻石 猎枭】一个复盘教你玩会日落A包抗点，钻石猎枭却媲美神话，做好道具管理很快就能变强",
+      "author": "装x王_1",
+      "play": 5813,
+      "duration": "19:56",
+      "pubdate": 1790738258,
+      "description": "-",
+      "from_kw": "B3-经济道具"
+    },
+    {
+      "bvid": "BV1zAAUzxEH4",
+      "title": "【Horcus】包哥讲述为什么不打瓦职业",
+      "author": "钱包的传送锚点",
+      "play": 686753,
+      "duration": "8:56",
+      "pubdate": 1772161271,
+      "description": "",
+      "from_kw": "B3-经济道具"
+    },
+    {
+      "bvid": "BV1M9ah6JEuj",
+      "title": "看了昨晚EDG的道具协同，才发现Simon的道具谁也替代不了！",
+      "author": "小K看电竞",
+      "play": 98989,
+      "duration": "2:59",
+      "pubdate": 1790524622,
+      "description": "看了昨晚EDG的道具协同，才发现Simon的道具谁也替代不了！",
+      "from_kw": "B3-经济道具"
+    },
+    {
+      "bvid": "BV1mkt36nE8u",
+      "title": "两分钟顿悟不一样的确认感！",
+      "author": "电坤小子嘿嘿",
+      "play": 99785,
+      "duration": "1:55",
+      "pubdate": 1788253011,
+      "description": "",
+      "from_kw": "B3-经济道具"
+    },
+    {
+      "bvid": "BV1gDLz6iEMy",
+      "title": "【免费复盘】青铜一 练枪为什么没效果因为根本还没学会玩游戏",
+      "author": "般K驾到",
+      "play": 48851,
+      "duration": "37:56",
+      "pubdate": 1779195600,
+      "description": "目前复盘是没有收费的，神话及以下都可以看只需把你要复盘的对局个人的操作视角和段位时长问题准备好（最好附带瓦助手个人数据）上传视频到B站后@我，我会每周做成一条复盘视频发到我的B站（如果没有就鸽了，强烈建议带着自己的问题来找答案这样能更好帮助大家）",
+      "from_kw": "B3-经济道具"
+    },
+    {
+      "bvid": "BV1ULHv6vExP",
+      "title": "这个视频会让你爱上保安7.0【灵活运用道具是门必修课，保安玩家必看】",
+      "author": "云屋qvq",
+      "play": 94562,
+      "duration": "5:14",
+      "pubdate": 1791025005,
+      "description": "祝大家国庆快乐！！喜欢本期视频的观众老爷请一定要一键三连！感谢喵！！",
+      "from_kw": "B3-经济道具"
+    },
+    {
+      "bvid": "BV12dg66pEfB",
+      "title": "【瓦解答】手枪局输赢后前四分到底该怎么起枪，如何分配经济（精华）",
+      "author": "般K驾到",
+      "play": 22682,
+      "duration": "7:17",
+      "pubdate": 1784714400,
+      "description": "这位职业选手目前依旧现役活跃一级联赛，为了避免节奏就不说选手ID了，希望大家多多关注支持。",
+      "from_kw": "B3-经济道具"
+    },
+    {
+      "bvid": "BV1wpijBuEUu",
+      "title": "2分钟教你最合理的开枪方式 最高效率的击杀方式",
+      "author": "畅想tc",
+      "play": 78258,
+      "duration": "2:13",
+      "pubdate": 1767517262,
+      "description": "",
+      "from_kw": "B3-经济道具"
+    },
+    {
+      "bvid": "BV1KzHo6bEaJ",
+      "title": "【武将枪决】如何正确使用骇灵",
+      "author": "虞姬电竞-无畏契约",
+      "play": 92598,
+      "duration": "2:19",
+      "pubdate": 1791257400,
+      "description": "一条视频教会你如何正确使用骇灵",
+      "from_kw": "B3-经济道具"
+    },
+    {
+      "bvid": "BV1ti9EYzEMi",
+      "title": "无畏契约十天速成超凡，第九课：防守",
+      "author": "王霸训练营王霸电竞",
+      "play": 123588,
+      "duration": "6:58",
+      "pubdate": 1741063924,
+      "description": "",
+      "from_kw": "C1-进点流程"
+    },
+    {
+      "bvid": "BV1H19EYYEZu",
+      "title": "无畏契约十天速成超凡，第八课：进点",
+      "author": "王霸训练营王霸电竞",
+      "play": 534591,
+      "duration": "8:44",
+      "pubdate": 1741063933,
+      "description": "",
+      "from_kw": "C1-进点流程"
+    },
+    {
+      "bvid": "BV1UDcNz2Eey",
+      "title": "怎么才能化解五人冲点的守点压力？【ValoRAT】",
+      "author": "ValorantClub",
+      "play": 23253,
+      "duration": "7:58",
+      "pubdate": 1770586736,
+      "description": "本家：https://www.youtube.com/watch?v=mNi_Poe0bNg\n\n这个很有干货！！所以对面rush很快就封延长烟来保后点对吗（*",
+      "from_kw": "C1-进点流程"
+    },
+    {
+      "bvid": "BV1U34y1P7fD",
+      "title": "新手教学 防守六点基本准则 让你的防守固如金汤",
+      "author": "翔哥又困了",
+      "play": 103151,
+      "duration": "7:22",
+      "pubdate": 1695308041,
+      "description": "",
+      "from_kw": "C1-进点流程"
+    },
+    {
+      "bvid": "BV1YxWA6xEJb",
+      "title": "【防守思维】一个如何守住五个人进攻的包点   无畏契约",
+      "author": "樱野小记",
+      "play": 104,
+      "duration": "2:12",
+      "pubdate": 1791876008,
+      "description": "",
+      "from_kw": "C1-进点流程"
+    },
+    {
+      "bvid": "BV1oJXsBcEPT",
+      "title": "【中英熟肉】为什么你应该学Brawk的瞄准方式，而不是Demon1的...(Valorant)",
+      "author": "VEI_J",
+      "play": 101817,
+      "duration": "11:11",
+      "pubdate": 1774523900,
+      "description": "https://youtu.be/t4s70_5nKRE?list=LL\n在这期视频里，我和教练Raymon将聊聊——为什么一味模仿炫酷的瞄准风格，可能正是让你一直卡段的根本原因。这份Valorant瞄准指南将帮助你理解如何用游戏意识来提升瞄准水平。为此，我们将以Demon1和Brawk为例，带你深度拆解。\n作者@ Konpeki",
+      "from_kw": "C1-进点流程"
+    },
+    {
+      "bvid": "BV1ASjt6hEQY",
+      "title": "胎教无畏契约莲花古城枪位选位解析",
+      "author": "成有翰--",
+      "play": 65853,
+      "duration": "9:22",
+      "pubdate": 1782032602,
+      "description": "",
+      "from_kw": "C1-进点流程"
+    },
+    {
+      "bvid": "BV1wNhx69EDQ",
+      "title": "🤣🔫预瞄之神大东彦 开枪前顶赋🔫🤣",
+      "author": "是River不是Rival",
+      "play": 205721,
+      "duration": "5:45",
+      "pubdate": 1790147732,
+      "description": "关注River喵 喜欢请一键三连谢谢喵\n大东彦：\nhttps://space.bilibili.com/179877838\nhttps://live.bilibili.com/5236391",
+      "from_kw": "C1-进点流程",
+      "also_in": [
+        "C3-知名UP主"
+      ]
+    },
+    {
+      "bvid": "BV1REYP6HEyW",
+      "title": "一直来回转点被拉扯崩盘怎么办？一期视频讲明白地图底层逻辑！",
+      "author": "小卷林-无畏契约教学",
+      "play": 2156,
+      "duration": "3:47",
+      "pubdate": 1790829505,
+      "description": "一直来回转点被拉扯崩盘怎么办？一期视频讲明白地图底层逻辑！",
+      "from_kw": "C1-进点流程"
+    },
+    {
+      "bvid": "BV1b7vqBuEr6",
+      "title": "康康死斗练狙太像外挂，死斗玩狙，你以为你是康康？",
+      "author": "倾风染雨",
+      "play": 433817,
+      "duration": "5:48",
+      "pubdate": 1766880005,
+      "description": "",
+      "from_kw": "C1-进点流程"
+    },
+    {
+      "bvid": "BV11B4cz8EYw",
+      "title": "为什么说无畏契约是最难走路的游戏？一期视频进阶你的走路",
+      "author": "零伍六_",
+      "play": 87538,
+      "duration": "2:32",
+      "pubdate": 1760173258,
+      "description": "",
+      "from_kw": "C1-进点流程"
+    },
+    {
+      "bvid": "BV12u5K6hETv",
+      "title": "三分钟进点教学",
+      "author": "05的风-无畏契约",
+      "play": 35493,
+      "duration": "3:6",
+      "pubdate": 1778587200,
+      "description": "玩捷风我必须前压狠狠的打信息差喵喵喵",
+      "from_kw": "C1-进点流程"
+    },
+    {
+      "bvid": "BV1REbBzRE7Q",
+      "title": "70%超凡都没真正掌握？一个视频颠覆你对瓦瞄准基本功的理解！【瓦瞄准修炼秘籍3】",
+      "author": "晨曜cheyo",
+      "play": 306838,
+      "duration": "5:33",
+      "pubdate": 1755145170,
+      "description": "课程比较精炼，挺难的，边看边练，方便吸收，点个关注不迷路哦！\n下一期开始就是实战进阶部分啦，认真学习的同学一定要打好前三期的基础哦！\n第一期在这里：\nhttps://www.bilibili.com/video/BV1xKuuzkEAa/\n第二期在这里：\nhttps://www.bilibili.com/video/BV1hF8EzcErs/",
+      "from_kw": "C1-进点流程"
+    },
+    {
+      "bvid": "BV1BXpQ6MEhM",
+      "title": "【Mandark】赋能幻棱的最强组合技骚操作？&quot;我的幻棱熟练度已到达第10级&quot;！！",
+      "author": "ZHK无畏契约",
+      "play": 1223,
+      "duration": "11:39",
+      "pubdate": 1791779964,
+      "description": "https://www.youtube.com/watch?v=Lo-7m50xrDY&amp;t=57s\n各位义父义母们求一键三连求关注求充电谢谢！",
+      "from_kw": "C1-进点流程"
+    },
+    {
+      "bvid": "BV1Vg2dYqEj1",
+      "title": "【登神瓦课】#6 不知道自己该干什么架哪里？一个视频告诉你游戏里不同时间都该干嘛？",
+      "author": "好家伙不演了",
+      "play": 43106,
+      "duration": "19:29",
+      "pubdate": 1728979663,
+      "description": "",
+      "from_kw": "C1-进点流程"
+    },
+    {
+      "bvid": "BV1UGoxBbEJg",
+      "title": "【防守决斗】一个视频让你打开清晰头脑",
+      "author": "zzz舟舟子zzz",
+      "play": 25492,
+      "duration": "12:3",
+      "pubdate": 1776850200,
+      "description": "",
+      "from_kw": "C1-进点流程"
+    },
+    {
+      "bvid": "BV1bYtN6PEAn",
+      "title": "【无畏契约】“我虽然不是天赋异禀 但我足够努力”",
+      "author": "DavezZ_",
+      "play": 31823,
+      "duration": "3:7",
+      "pubdate": 1787970600,
+      "description": "【Valorant无畏契约】\n\n1600×0.175\n\n分辨率：1920x1080\n\nBGM : 暗叫 - きくお",
+      "from_kw": "C1-进点流程"
+    },
+    {
+      "bvid": "BV1CZen6XER9",
+      "title": "免费私教：无畏契约的攻防博弈逻辑和地图理解思路",
+      "author": "夜里的青山无畏契约",
+      "play": 1315,
+      "duration": "37:46",
+      "pubdate": 1789463076,
+      "description": "",
+      "from_kw": "C1-进点流程"
+    },
+    {
+      "bvid": "BV1Bk4y157u3",
+      "title": "【无畏契约全网最强进攻基本公式】十分钟带你捋顺各个位置下的进攻思路（心血制作，全是干货）",
+      "author": "龟龟叁叁",
+      "play": 360559,
+      "duration": "10:9",
+      "pubdate": 1689829681,
+      "description": "这期视频如果都没人三连\n那我真的黔驴技穷了\n做的我嗓子都哑了\n下一期更蝰蛇微风岛屿",
+      "from_kw": "C1-进点流程"
+    },
+    {
+      "bvid": "BV1RjK7e2EJy",
+      "title": "【登神瓦课】#16 三种基本防守思路，大幅提升你的防守胜率",
+      "author": "好家伙不演了",
+      "play": 20829,
+      "duration": "11:32",
+      "pubdate": 1739440800,
+      "description": "",
+      "from_kw": "C1-进点流程"
+    },
+    {
+      "bvid": "BV1NDhR61E34",
+      "title": "不会单摸建议不单摸：青三保安复盘",
+      "author": "镜观君",
+      "play": 42220,
+      "duration": "8:1",
+      "pubdate": 1790417839,
+      "description": "",
+      "from_kw": "C1-进点流程"
+    },
+    {
+      "bvid": "BV1vQ6XYJEdK",
+      "title": "【高分天梯精讲】用思路+残局处理摧毁超凡神话局",
+      "author": "柯然KeRanny",
+      "play": 89016,
+      "duration": "14:45",
+      "pubdate": 1735705313,
+      "description": "新的一年 柯然祝大家新年快乐\n喜欢的可以一键三连哦～\n每日一言：\n这辈子只要活得尽兴，那就不亏",
+      "from_kw": "C2-残局回防"
+    },
+    {
+      "bvid": "BV1MG4y1w7WB",
+      "title": "5分钟教你成为残局大师①，瓦罗兰特必看的残局教学，双塔迷城公式化残局1V3详解！",
+      "author": "大东彦",
+      "play": 88183,
+      "duration": "4:29",
+      "pubdate": 1673920800,
+      "description": "相关游戏：Valorant\n      今天给大家带来一个Valorant的新教学系列，在本系列教学里面我们会分析一些残局片段，教大家如何处理残局。今天这期是一个来自直播的1V3双塔迷城1V3残局。\n【往期教学】\n新手入坑：\nBV1hL4y1b773\nBV11S4y1s7wW\n\n枪法提升：\n枪法总论：BV1SU4y1r7x1\nPeek总论：BV1fd4y1R7kd\n预瞄和Peek：BV1tq4y1A7yA\n预瞄和架枪：BV1Fu411R78T\n进阶急停：BV1MY4y1H79Z\n对枪策略：BV1fr4y1",
+      "from_kw": "C2-残局回防"
+    },
+    {
+      "bvid": "BV1hzKn6ZEBD",
+      "title": "无畏契约赛事中最疯狂时刻！残局1V5翻盘神迹合集！",
+      "author": "NEVERM1ND_",
+      "play": 197295,
+      "duration": "23:48",
+      "pubdate": 1784274405,
+      "description": "你的三连，是我剪辑的最大动力！感谢支持！\n游戏群:863489762\n\n✔视频BGM如下：\nBGM：Fearless Pt. II\nBGM：Fearless \nBGM：Fast &amp; Furious 歌手: KIIXSHI / SAY3AM / Kartezz\nBGM：Broken Trust 歌手: SAY3AM / Staarz\nBGM：PASSO FUNK  歌手: Lunak\nBGM：Awareness  歌手: MoonDeity\nBGM：Niten Doraku 歌手: Sprnova",
+      "from_kw": "C2-残局回防"
+    },
+    {
+      "bvid": "BV1pdHQ6GEGr",
+      "title": "VALORANT历史上的残局1v5",
+      "author": "video_clips",
+      "play": 237,
+      "duration": "4:7",
+      "pubdate": 1791444018,
+      "description": "-",
+      "from_kw": "C2-残局回防"
+    },
+    {
+      "bvid": "BV1C7GRzkEUV",
+      "title": "赋能神话残局纯享",
+      "author": "WSIG_Ye",
+      "play": 298185,
+      "duration": "6:49",
+      "pubdate": 1745995215,
+      "description": "天天开心",
+      "from_kw": "C2-残局回防"
+    },
+    {
+      "bvid": "BV1Mj8fzrEfm",
+      "title": "盘点无畏契约赛事中那些不可能完成的1v5残局",
+      "author": "阿和燃剪6",
+      "play": 110206,
+      "duration": "4:47",
+      "pubdate": 1753838824,
+      "description": "-",
+      "from_kw": "C2-残局回防"
+    },
+    {
+      "bvid": "BV1Rs3K6zEMN",
+      "title": "看完这集上号思路拉满了有感觉吗",
+      "author": "P1odx912",
+      "play": 828505,
+      "duration": "6:29",
+      "pubdate": 1784953800,
+      "description": "思路这一块",
+      "from_kw": "C2-残局回防"
+    },
+    {
+      "bvid": "BV1F2Wc6PE3v",
+      "title": "【残局top5】“来自神赋局的1v5残局处理”",
+      "author": "_流年c",
+      "play": 1685,
+      "duration": "2:6",
+      "pubdate": 1791968400,
+      "description": "",
+      "from_kw": "C2-残局回防"
+    },
+    {
+      "bvid": "BV1CUgn64E5H",
+      "title": "【夜露专精】1v1绝境残局顶级夜露如何处理",
+      "author": "溪上行水",
+      "play": 1994,
+      "duration": "2:36",
+      "pubdate": 1786603960,
+      "description": "-",
+      "from_kw": "C2-残局回防"
+    },
+    {
+      "bvid": "BV1cH4y1175f",
+      "title": "【无畏契约残局】如何灵活处理信息拆解1v3残局 #01",
+      "author": "Weirdo桃花岛主",
+      "play": 25667,
+      "duration": "6:57",
+      "pubdate": 1701080339,
+      "description": "✔一键三连！点点关注！拜托拜托！\n✔直播在Douyu:11637620（时间10:00-20:00）每天都直播无畏契约顶端局教学局，有问必答\n✔需要demo复盘可以私信我哟~！\n✔会持续更新无畏契约顶端局思路教学视频~大家可以在评论区一起交流~",
+      "from_kw": "C2-残局回防"
+    },
+    {
+      "bvid": "BV18CMv6uEBj",
+      "title": "一期视频告诉你瓦手普通玩家如何处理一打多",
+      "author": "风安安安安",
+      "play": 102617,
+      "duration": "3:1",
+      "pubdate": 1783494582,
+      "description": "灵敏度键位准星移步主页动态置顶 第一次尝试这种风格 如果有做的不好的地方请多指教",
+      "from_kw": "C2-残局回防"
+    },
+    {
+      "bvid": "BV1KA4m1F7nx",
+      "title": "康康残局极限1v5",
+      "author": "Valorant最后一束光",
+      "play": 931953,
+      "duration": "1:42",
+      "pubdate": 1708920000,
+      "description": "风格借鉴@绯村_权 ",
+      "from_kw": "C2-残局回防"
+    },
+    {
+      "bvid": "BV1BnAfz9EmQ",
+      "title": "【无畏契约】一打五残局纯享",
+      "author": "我是西奥L",
+      "play": 17674,
+      "duration": "5:15",
+      "pubdate": 1772545382,
+      "description": "喜欢我的视频请一定不要吝啬你的三连，爱你爱你\nBGM1：magnolia\nBGM2：Flowers (feat. Nori)",
+      "from_kw": "C2-残局回防"
+    },
+    {
+      "bvid": "BV1oaV7zhEBP",
+      "title": "最近比较满意的一个1v5残局原声",
+      "author": "yd3689",
+      "play": 576290,
+      "duration": "1:48",
+      "pubdate": 1746233497,
+      "description": "育苗还得练:D",
+      "from_kw": "C2-残局回防"
+    },
+    {
+      "bvid": "BV1p8dYBTE3e",
+      "title": "在4杀后终于迎来了我的1v1残局…",
+      "author": "七七四十九77QAQ",
+      "play": 181208,
+      "duration": "4:15",
+      "pubdate": 1776340305,
+      "description": "为！母！则！刚！",
+      "from_kw": "C2-残局回防"
+    },
+    {
+      "bvid": "BV13YYY6vEfh",
+      "title": "【残局top3】“来自神话赋能的残局1v5处理！”",
+      "author": "_流年c",
+      "play": 47641,
+      "duration": "1:27",
+      "pubdate": 1789268692,
+      "description": "",
+      "from_kw": "C2-残局回防"
+    },
+    {
+      "bvid": "BV15Z42187Tw",
+      "title": "[无畏契约] 从开局到残局如何处理信息？-帮你突破瓶颈-第四期",
+      "author": "暗辰の薄明",
+      "play": 72348,
+      "duration": "6:53",
+      "pubdate": 1711010707,
+      "description": "准备阶段要注意什么，开局要注意什么，混乱的场景中如何获取信息，残局什么是关键信息？\n本视频将一一揭晓。\n如果有什么问题欢迎私信我，或者进主页联系~",
+      "from_kw": "C2-残局回防"
+    },
+    {
+      "bvid": "BV1FH4y1V7So",
+      "title": "【瓦的杂谈教学】为什么有的人的残局看两秒就知道输定了",
+      "author": "KiddoJioJio",
+      "play": 223960,
+      "duration": "8:16",
+      "pubdate": 1714301636,
+      "description": "欢迎讨论补充！喜欢的话点个赞吧，感谢支持！！！",
+      "from_kw": "C2-残局回防"
+    },
+    {
+      "bvid": "BV1LGHn63EsV",
+      "title": "残局赢下的那一刻 肾上腺素的飙升 颤抖不止的手 队友的欢呼 让你不得不承认 你做到了#valorant #无畏契约 #残局 #1v5",
+      "author": "汽修-二班_李石清",
+      "play": 1657,
+      "duration": "0:57",
+      "pubdate": 1791160746,
+      "description": "-",
+      "from_kw": "C2-残局回防"
+    },
+    {
+      "bvid": "BV1rHRCBbEdZ",
+      "title": "康康玩国服斗牛1v1  仅拿两分惨被吊打 对面的准度把康康看傻了：nb 我服了 被降维打击了！",
+      "author": "Go瓦电竞",
+      "play": 53594,
+      "duration": "5:11",
+      "pubdate": 1777969335,
+      "description": "",
+      "from_kw": "C2-残局回防"
+    },
+    {
+      "bvid": "BV1TbvNzaE8m",
+      "title": "和好友1v1单挑竟如此简单！你会了吗？",
+      "author": "三角洲威虫撩雯日记",
+      "play": 22938,
+      "duration": "0:39",
+      "pubdate": 1756208469,
+      "description": "瓦手和好友1V1单挑教程！玩家通过自定义游戏设置开启单挑房并选择地图和英雄。",
+      "from_kw": "C2-残局回防"
+    },
+    {
+      "bvid": "BV1CN9nYBEBc",
+      "title": "一个世界级残局究竟隐藏了多少细节？球球vsMeteor顶级1v1残局，学会劣势角度的所有解法",
+      "author": "小卷林-无畏契约教学",
+      "play": 394928,
+      "duration": "2:27",
+      "pubdate": 1741086613,
+      "description": "无畏契约枪法教学",
+      "from_kw": "C2-残局回防"
+    },
+    {
+      "bvid": "BV1RFfKBXEVH",
+      "title": "让你没手感的朋友来看",
+      "author": "七鹊无畏契约手游",
+      "play": 1520532,
+      "duration": "9:57",
+      "pubdate": 1771812484,
+      "description": "",
+      "from_kw": "C2-残局回防"
+    },
+    {
+      "bvid": "BV1VAp86AE8n",
+      "title": "1V1残局处理",
+      "author": "游戏梦境师",
+      "play": 0,
+      "duration": "3:21",
+      "pubdate": 1791555000,
+      "description": "-",
+      "from_kw": "C2-残局回防"
+    },
+    {
+      "bvid": "BV1fypi6tEHo",
+      "title": "看他打残局一点也不烧心!",
+      "author": "P1odx912",
+      "play": 31588,
+      "duration": "5:28",
+      "pubdate": 1791941400,
+      "description": "嗯 要稳",
+      "from_kw": "C2-残局回防"
+    },
+    {
+      "bvid": "BV1KZRpB5EYV",
+      "title": "【无畏契约】封神名场面合集：30分钟看完VCT震撼世界的神仙1V5",
+      "author": "siwen008",
+      "play": 422571,
+      "duration": "30:15",
+      "pubdate": 1778029544,
+      "description": "点赞+关注是更新的动力\n感谢观看 ❤️❤️❤️❤️\n觉得内容有趣的话，可以点赞和关注支持一下~",
+      "from_kw": "C2-残局回防"
+    },
+    {
+      "bvid": "BV1uFKn6xEjQ",
+      "title": "《无畏契约》残局处理终极指南：1V1到1V5的决策逻辑",
+      "author": "游戏梦境师",
+      "play": 8,
+      "duration": "2:56",
+      "pubdate": 1784282564,
+      "description": "-",
+      "from_kw": "C2-残局回防"
+    },
+    {
+      "bvid": "BV1La4y1F7AL",
+      "title": "【无畏契约】全网最全面的枪法教学，0基础与进阶玩家全适用！",
+      "author": "大东彦",
+      "play": 2379396,
+      "duration": "17:40",
+      "pubdate": 1688616609,
+      "description": "相关游戏：无畏契约\n趁着B站视频机制改革的东风，本期视频会以总时长18分钟的长视频形式，体系化的总结以往的所有枪法提升视频的精华部分，一站式的帮助大家提升在游戏内的对枪胜率。我还会讲到很多我以前限于篇幅，省略没讲的小细节，而且每个板块至少都会介绍2种以上的具体练习方法，甚至可以说你在无畏契约里提升实战枪法只需要看这样一期视频就完全足够了！\n【往期教学】\n新手入坑：\nBV1hL4y1b773\nBV11S4y1s7wW\n\n新手基础知识：\n如何走路： BV1kD4y1p72N\n预瞄与选位：BV1fY411X75",
+      "from_kw": "C3-知名UP主"
+    },
+    {
+      "bvid": "BV1fXph62ECU",
+      "title": "不是T1太强，而是PRX太懦？被心魔吓死惨遭惊天翻盘，PRX再次梦碎冠军赛",
+      "author": "大东彦",
+      "play": 227482,
+      "duration": "8:38",
+      "pubdate": 1791588025,
+      "description": "不是T1太强，而是PRX太懦？被心魔吓死惨遭惊天翻盘，PRX再次梦碎冠军赛",
+      "from_kw": "C3-知名UP主"
+    },
+    {
+      "bvid": "BV1x3JCzYELk",
+      "title": "为什么说你在无畏契约里连走路都没学会?进阶玩家一定要看的基本功教学!",
+      "author": "大东彦",
+      "play": 583200,
+      "duration": "7:58",
+      "pubdate": 1758686400,
+      "description": "相关游戏：无畏契约\n总结了一些无畏契约里你学会走路必须要懂的一些概念，包括如果你要按W，或者放脚步，你要优化你的路线提高生存率等",
+      "from_kw": "C3-知名UP主"
+    },
+    {
+      "bvid": "BV1vMtd6pEPw",
+      "title": "【大东彦】445分暮蝶暴力炸神话第一视角POV精剪纯净流",
+      "author": "就梅梅花",
+      "play": 28801,
+      "duration": "13:36",
+      "pubdate": 1788431408,
+      "description": "冷藏猪肉\n点准星：0;s;1;P;o;1;d;1;0l;2;0o;0;0a;1;0f;0;1t;0;1l;0;1o;0;1a;0;1m;0;1f;0;S;s;0.6;o;1\n上传了ai字幕，不想要字幕可以自行关掉\n关注大东彦喵，关注大东彦谢谢喵！\n给我五个赞\n@大东彦  \n@春意挽",
+      "from_kw": "C3-知名UP主"
+    },
+    {
+      "bvid": "BV1EL6ZBfEtG",
+      "title": "大东彦教手把手你如何上分！双号很重要！情绪管理！收手！以及如何渡劫？",
+      "author": "anno大笨蛋",
+      "play": 232210,
+      "duration": "11:13",
+      "pubdate": 1768133588,
+      "description": "如果你觉得视频还不错的话希望能收到你的点赞和关注嘿嘿！谢谢啦！\n\n大东彦：\nhttps://space.bilibili.com/179877838\nhttps://live.bilibili.com/5236391",
+      "from_kw": "C3-知名UP主"
+    },
+    {
+      "bvid": "BV1qqqPBPEBa",
+      "title": "【大东彦】半步赋能向大东彦请教！价值2k的复盘！盐海矿镇 暮蝶",
+      "author": "anno大笨蛋",
+      "play": 241045,
+      "duration": "29:40",
+      "pubdate": 1767711048,
+      "description": "如果你觉得视频还不错的话希望能收到你的点赞和关注嘿嘿！谢谢啦！\n\n大东彦：\nhttps://space.bilibili.com/179877838\nhttps://live.bilibili.com/5236391",
+      "from_kw": "C3-知名UP主"
+    },
+    {
+      "bvid": "BV1694y1u7ar",
+      "title": "【无畏契约】为什么打不到移动的敌人？5分钟让你成为移动靶高手",
+      "author": "大东彦",
+      "play": 986560,
+      "duration": "7:24",
+      "pubdate": 1704961215,
+      "description": "相关游戏：无畏契约\n这期视频我们来讲一下很多观众都遇到过的，练枪练了很久，静态目标打的很准，但移动靶一个都打不到的情境。",
+      "from_kw": "C3-知名UP主"
+    },
+    {
+      "bvid": "BV1hJ4m157d4",
+      "title": "舔狗and公主病？大东彦国服神话局遇沸羊羊火男全程高能对线！",
+      "author": "因你故事而在",
+      "play": 844904,
+      "duration": "19:32",
+      "pubdate": 1712260665,
+      "description": "全程高能对线的一集，这就是国服的环境啊你们有没有这样的无畏契约啊！",
+      "from_kw": "C3-知名UP主"
+    },
+    {
+      "bvid": "BV1nHpq6AEAg",
+      "title": "【大东彦】10月13日直播部分录播-弹幕版",
+      "author": "大东彦的录播机",
+      "play": 1871,
+      "duration": "232:33",
+      "pubdate": 1791897280,
+      "description": "ddy：https://live.bilibili.com/5236391\n有问题可联系我删除。",
+      "from_kw": "C3-知名UP主"
+    },
+    {
+      "bvid": "BV1TitXz2EvJ",
+      "title": "【大东彦】昊哲的走路导师！在无畏契约有两个送死方法，一个是按W一个是放脚步",
+      "author": "不会枪的lansir",
+      "play": 141437,
+      "duration": "11:19",
+      "pubdate": 1754963115,
+      "description": "大东彦\nhttps://live.bilibili.com/5236391\nhttps://space.bilibili.com/179877838\n还有教学也会放在这个合集里，如果你觉得视频不错的话不妨点个关注吧！",
+      "from_kw": "C3-知名UP主"
+    },
+    {
+      "bvid": "BV1w2aR6GEfY",
+      "title": "【中字烤肉】马大nb：分享完整枪法教学",
+      "author": "siwen008",
+      "play": 40303,
+      "duration": "8:44",
+      "pubdate": 1790754250,
+      "description": "https://www.youtube.com/watch?v=eLI0Csg58wE&amp;t=1s\n作者：ZOWIE Esports\n感谢观看 ❤️❤️❤️❤️\n如果你觉得视频翻译的还不错的话希望能收到你的一键三连，谢谢啦！ \n因为个人翻译和校对，如果有漏译、错译的地方欢迎指出和讨论",
+      "from_kw": "C3-知名UP主"
+    },
+    {
+      "bvid": "BV1NgP1eBExq",
+      "title": "无畏契约身法大全，你必须知道的实战身法!",
+      "author": "大东彦",
+      "play": 742617,
+      "duration": "9:3",
+      "pubdate": 1738756800,
+      "description": "把我知道的一些实战比较好用的身法整理了一下，比如幽邃地窟无声下悬崖，裂变峡谷无声下高低差这种，还有通过技巧能跳上一下本来跳不上去的位置",
+      "from_kw": "C3-知名UP主"
+    },
+    {
+      "bvid": "BV15B4RzFELZ",
+      "title": "大东彦——你的瞄准peek医生，超长复盘助你健康成长",
+      "author": "不会枪的lansir",
+      "play": 59806,
+      "duration": "131:52",
+      "pubdate": 1754412151,
+      "description": "",
+      "from_kw": "C3-知名UP主"
+    },
+    {
+      "bvid": "BV1GNtMzFET4",
+      "title": "【大东彦】彦的复盘，最会走路的男人，W键终结者",
+      "author": "不会枪的lansir",
+      "play": 70297,
+      "duration": "47:7",
+      "pubdate": 1754282053,
+      "description": "",
+      "from_kw": "C3-知名UP主"
+    },
+    {
+      "bvid": "BV1GjHX6ZETZ",
+      "title": "看了一年大东彦只学会扣掉W和贴墙大拉",
+      "author": "柑橘栀子花u",
+      "play": 17955,
+      "duration": "2:20",
+      "pubdate": 1791471986,
+      "description": "",
+      "from_kw": "C3-知名UP主"
+    },
+    {
+      "bvid": "BV1SwHQ6EEYT",
+      "title": "【绿泡泡Reyna】玩大东彦的预瞄训练！练完回来直接空摘JETT！兄弟们练枪是对的！",
+      "author": "三屿aaa",
+      "play": 53390,
+      "duration": "1:9",
+      "pubdate": 1791452734,
+      "description": "网站是[ 是Ethan不是伊森] 做的",
+      "from_kw": "C3-知名UP主"
+    },
+    {
+      "bvid": "BV1h4421Z77z",
+      "title": "【无畏契约免费复盘】练不好基本功说明智商有问题",
+      "author": "神话教练十二晏",
+      "play": 411307,
+      "duration": "27:42",
+      "pubdate": 1723173600,
+      "description": "",
+      "from_kw": "C3-知名UP主"
+    },
+    {
+      "bvid": "BV1EwiUYYEmw",
+      "title": "【大东彦】怎么让自己去影响战局，让胜负掌握在自己的手里！枪法包含了很多东西，混的分是会还回去的",
+      "author": "anno大笨蛋",
+      "play": 83064,
+      "duration": "9:21",
+      "pubdate": 1733324909,
+      "description": "如果你觉得视频还不错的话希望能收到你的点赞和关注嘿嘿！红豆泥阿里嘎多！\n\n大东彦：\nhttps://space.bilibili.com/179877838\nhttps://live.bilibili.com/5236391",
+      "from_kw": "C3-知名UP主"
+    },
+    {
+      "bvid": "BV1kD4y1p72N",
+      "title": "新手必看！无畏契约的对枪强度真的不高，新手容易被爆头是因为你的走位太憨",
+      "author": "大东彦",
+      "play": 1276638,
+      "duration": "5:33",
+      "pubdate": 1673333792,
+      "description": "相关游戏：Valorant\n新手入坑的新系列，会总结20个左右的新手上手时会犯得普遍性错误，本期视频里面我们降到了4个需要新手朋友注意的问题，主要集中在如何正确的走路这件事情上。\n【往期教学】\n新手入坑：\nBV1hL4y1b773\nBV11S4y1s7wW\n\n枪法提升：\n枪法总论：BV1SU4y1r7x1\nPeek总论：BV1fd4y1R7kd\n预瞄和Peek：BV1tq4y1A7yA\n预瞄和架枪：BV1Fu411R78T\n进阶急停：BV1MY4y1H79Z\n对枪策略：BV1fr4y1i7LB\n灵敏度与准",
+      "from_kw": "C3-知名UP主"
+    },
+    {
+      "bvid": "BV1yKMY6dEq6",
+      "title": "大东彦复盘教学，队伍中期如何默认，怎么用多层次打法做铺垫爆弹",
+      "author": "往来0-0",
+      "play": 3433,
+      "duration": "13:34",
+      "pubdate": 1783458173,
+      "description": "-",
+      "from_kw": "C3-知名UP主"
+    },
+    {
+      "bvid": "BV1VC4y1S7Zg",
+      "title": "五帧的无畏契约真能玩吗？从五帧开始，每杀一人增加五帧",
+      "author": "大东彦",
+      "play": 379800,
+      "duration": "13:21",
+      "pubdate": 1699710944,
+      "description": "相关游戏：无畏契约\n搞点整活得！五帧挑战！从五帧开始，每杀一人增加5帧，看看最后能到多少帧！",
+      "from_kw": "C3-知名UP主"
+    },
+    {
+      "bvid": "BV1C2Hi6AEAa",
+      "title": "微调一快就空，一慢就被秒？观察、发力、训练一次讲清【无畏契约】",
+      "author": "晨曜cheyo",
+      "play": 114993,
+      "duration": "5:11",
+      "pubdate": 1791038061,
+      "description": "微调一快就空，一慢就来不及，到底怎么训练？\n本期从我所说的「静止窗口」讲起，结合靶场、手部示范和 Kovaak’s 训练，带你练习：\n① 理解并看好”静止窗口“；\n② 流畅的一步完成微调开火；\n③ 进行两个训练项目练习，并分析自己的问题。\n先用自己能看清、做清楚的节奏，再逐渐加快。发力方式不用照搬，训练时结合自己的感受调整。\n\n本期配套资料\n• 练枪软件设置说明\n• 微调训练演示与训练清单\n公开资料：私信【微调01】\n社群活动会在群公告中说明，自愿参加。\n\n提升咨询\n如果练过后仍不清楚自己的问题，希望了解",
+      "from_kw": "C3-知名UP主"
+    }
+  ]
+}

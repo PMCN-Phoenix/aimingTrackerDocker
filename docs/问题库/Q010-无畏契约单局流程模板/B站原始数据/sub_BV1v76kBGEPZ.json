@@ -1,0 +1,7522 @@
+[
+ {
+  "from": 10.48,
+  "to": 11.0,
+  "sid": 1,
+  "location": 2,
+  "content": "哈喽大家好",
+  "music": 0.0
+ },
+ {
+  "from": 11.0,
+  "to": 11.74,
+  "sid": 2,
+  "location": 2,
+  "content": "我是圣诞",
+  "music": 0.0
+ },
+ {
+  "from": 11.74,
+  "to": 13.9,
+  "sid": 3,
+  "location": 2,
+  "content": "最近很久没有跟这个长视频了",
+  "music": 0.0
+ },
+ {
+  "from": 13.9,
+  "to": 16.22,
+  "sid": 4,
+  "location": 2,
+  "content": "但是这期视频非常推荐大家观看",
+  "music": 0.0
+ },
+ {
+  "from": 16.22,
+  "to": 18.87,
+  "sid": 5,
+  "location": 2,
+  "content": "素材取自nest的三场地库",
+  "music": 0.0
+ },
+ {
+  "from": 18.87,
+  "to": 19.63,
+  "sid": 6,
+  "location": 2,
+  "content": "保安对局",
+  "music": 0.0
+ },
+ {
+  "from": 19.63,
+  "to": 21.67,
+  "sid": 7,
+  "location": 2,
+  "content": "A点B点中路进攻",
+  "music": 0.0
+ },
+ {
+  "from": 21.67,
+  "to": 23.01,
+  "sid": 8,
+  "location": 2,
+  "content": "防守单摸抱团",
+  "music": 0.0
+ },
+ {
+  "from": 23.01,
+  "to": 24.37,
+  "sid": 9,
+  "location": 2,
+  "content": "先单摸再抱团",
+  "music": 0.0
+ },
+ {
+  "from": 24.37,
+  "to": 25.6,
+  "sid": 10,
+  "location": 2,
+  "content": "各种打法都有",
+  "music": 0.0
+ },
+ {
+  "from": 25.6,
+  "to": 27.16,
+  "sid": 11,
+  "location": 2,
+  "content": "即使你不玩保安",
+  "music": 0.0
+ },
+ {
+  "from": 27.16,
+  "to": 28.78,
+  "sid": 12,
+  "location": 2,
+  "content": "也强烈推荐看这期视频",
+  "music": 0.0
+ },
+ {
+  "from": 28.78,
+  "to": 30.58,
+  "sid": 13,
+  "location": 2,
+  "content": "不单单是学习怎么玩保安",
+  "music": 0.0
+ },
+ {
+  "from": 30.58,
+  "to": 32.32,
+  "sid": 14,
+  "location": 2,
+  "content": "更是学习怎么玩无畏契约",
+  "music": 0.0
+ },
+ {
+  "from": 32.32,
+  "to": 35.29,
+  "sid": 15,
+  "location": 2,
+  "content": "这个游戏有其他想学习的英雄或者地图",
+  "music": 0.0
+ },
+ {
+  "from": 35.29,
+  "to": 37.45,
+  "sid": 16,
+  "location": 2,
+  "content": "也可以从主页看看这几个视频",
+  "music": 0.0
+ },
+ {
+  "from": 37.45,
+  "to": 39.69,
+  "sid": 17,
+  "location": 2,
+  "content": "想直接看PUB的可以跳转到这里",
+  "music": 0.0
+ },
+ {
+  "from": 39.69,
+  "to": 43.45,
+  "sid": 18,
+  "location": 2,
+  "content": "首先给大家介绍一下防守的道具部署啊",
+  "music": 0.0
+ },
+ {
+  "from": 43.45,
+  "to": 44.25,
+  "sid": 19,
+  "location": 2,
+  "content": "非常常规",
+  "music": 0.0
+ },
+ {
+  "from": 44.25,
+  "to": 45.77,
+  "sid": 20,
+  "location": 2,
+  "content": "但是也有不同的应对方法",
+  "music": 0.0
+ },
+ {
+  "from": 45.77,
+  "to": 46.92,
+  "sid": 21,
+  "location": 2,
+  "content": "首先我们来说A点",
+  "music": 0.0
+ },
+ {
+  "from": 46.92,
+  "to": 49.42,
+  "sid": 22,
+  "location": 2,
+  "content": "这个摄像头都是要在二楼去放",
+  "music": 0.0
+ },
+ {
+  "from": 49.42,
+  "to": 50.94,
+  "sid": 23,
+  "location": 2,
+  "content": "因为你人站的越高",
+  "music": 0.0
+ },
+ {
+  "from": 50.94,
+  "to": 53.0,
+  "sid": 24,
+  "location": 2,
+  "content": "这个摄像头可以放的高度",
+  "music": 0.0
+ },
+ {
+  "from": 53.0,
+  "to": 54.24,
+  "sid": 25,
+  "location": 2,
+  "content": "也就极限高度也就越高",
+  "music": 0.0
+ },
+ {
+  "from": 54.24,
+  "to": 55.89,
+  "sid": 26,
+  "location": 2,
+  "content": "可以放这里呃",
+  "music": 0.0
+ },
+ {
+  "from": 55.89,
+  "to": 57.1,
+  "sid": 27,
+  "location": 2,
+  "content": "也可以往这里放",
+  "music": 0.0
+ },
+ {
+  "from": 57.1,
+  "to": 59.44,
+  "sid": 28,
+  "location": 2,
+  "content": "那这个呢就是看包点嘛对吧",
+  "music": 0.0
+ },
+ {
+  "from": 59.44,
+  "to": 61.46,
+  "sid": 29,
+  "location": 2,
+  "content": "而且你看在敌方视角",
+  "music": 0.0
+ },
+ {
+  "from": 61.46,
+  "to": 63.18,
+  "sid": 30,
+  "location": 2,
+  "content": "他进来之后要打这个摄像头",
+  "music": 0.0
+ },
+ {
+  "from": 63.18,
+  "to": 64.48,
+  "sid": 31,
+  "location": 2,
+  "content": "需要这样抬头去打",
+  "music": 0.0
+ },
+ {
+  "from": 64.48,
+  "to": 66.68,
+  "sid": 32,
+  "location": 2,
+  "content": "也就是说他在第一时间近点的时候",
+  "music": 0.0
+ },
+ {
+  "from": 66.68,
+  "to": 68.6,
+  "sid": 33,
+  "location": 2,
+  "content": "是不可能这样子转头去打的",
+  "music": 0.0
+ },
+ {
+  "from": 68.6,
+  "to": 71.15,
+  "sid": 34,
+  "location": 2,
+  "content": "他只有在后面才可以打到他",
+  "music": 0.0
+ },
+ {
+  "from": 71.15,
+  "to": 74.71,
+  "sid": 35,
+  "location": 2,
+  "content": "另一种方式呢就是放到中间这个地方",
+  "music": 0.0
+ },
+ {
+  "from": 74.71,
+  "to": 76.07,
+  "sid": 36,
+  "location": 2,
+  "content": "那这里就是方便",
+  "music": 0.0
+ },
+ {
+  "from": 76.07,
+  "to": 78.15,
+  "sid": 37,
+  "location": 2,
+  "content": "我们可以拿到这个A大的信息嘛",
+  "music": 0.0
+ },
+ {
+  "from": 78.15,
+  "to": 79.88,
+  "sid": 38,
+  "location": 2,
+  "content": "就像有的时候呃",
+  "music": 0.0
+ },
+ {
+  "from": 79.88,
+  "to": 81.2,
+  "sid": 39,
+  "location": 2,
+  "content": "敌方就喜欢开局在那打",
+  "music": 0.0
+ },
+ {
+  "from": 81.2,
+  "to": 82.46,
+  "sid": 40,
+  "location": 2,
+  "content": "默认磨磨唧唧的",
+  "music": 0.0
+ },
+ {
+  "from": 82.46,
+  "to": 85.64,
+  "sid": 41,
+  "location": 2,
+  "content": "那我们有的时候在中路去开局抢中",
+  "music": 0.0
+ },
+ {
+  "from": 85.64,
+  "to": 87.68,
+  "sid": 42,
+  "location": 2,
+  "content": "那偶尔看一下这里有没有人在单摸",
+  "music": 0.0
+ },
+ {
+  "from": 87.68,
+  "to": 88.28,
+  "sid": 43,
+  "location": 2,
+  "content": "有人在单摸",
+  "music": 0.0
+ },
+ {
+  "from": 88.28,
+  "to": 89.98,
+  "sid": 44,
+  "location": 2,
+  "content": "我们再回头来看这里就好了",
+  "music": 0.0
+ },
+ {
+  "from": 89.98,
+  "to": 92.66,
+  "sid": 45,
+  "location": 2,
+  "content": "那半线呢主要就还是老的几根",
+  "music": 0.0
+ },
+ {
+  "from": 92.66,
+  "to": 93.9,
+  "sid": 46,
+  "location": 2,
+  "content": "我都先给大家放出来",
+  "music": 0.0
+ },
+ {
+  "from": 93.9,
+  "to": 96.06,
+  "sid": 47,
+  "location": 2,
+  "content": "等会儿再讲一下怎么用呃",
+  "music": 0.0
+ },
+ {
+  "from": 96.06,
+  "to": 99.76,
+  "sid": 48,
+  "location": 2,
+  "content": "这个正面的这个门这里基本上都不放了",
+  "music": 0.0
+ },
+ {
+  "from": 99.76,
+  "to": 100.8,
+  "sid": 49,
+  "location": 2,
+  "content": "因为大家其实都知道",
+  "music": 0.0
+ },
+ {
+  "from": 100.8,
+  "to": 102.88,
+  "sid": 50,
+  "location": 2,
+  "content": "而且很容易就敌方知道你在的话",
+  "music": 0.0
+ },
+ {
+  "from": 102.88,
+  "to": 105.27,
+  "sid": 51,
+  "location": 2,
+  "content": "就会呃有警惕心嘛",
+  "music": 0.0
+ },
+ {
+  "from": 105.27,
+  "to": 108.81,
+  "sid": 52,
+  "location": 2,
+  "content": "然后nice在这场对局里面呢是放了一根这个线啊",
+  "music": 0.0
+ },
+ {
+  "from": 108.81,
+  "to": 111.45,
+  "sid": 53,
+  "location": 2,
+  "content": "这个呢就是比如说进攻方",
+  "music": 0.0
+ },
+ {
+  "from": 111.45,
+  "to": 114.47,
+  "sid": 54,
+  "location": 2,
+  "content": "常规来说要进打的时候都会跳上来",
+  "music": 0.0
+ },
+ {
+  "from": 114.47,
+  "to": 116.27,
+  "sid": 55,
+  "location": 2,
+  "content": "然后去打这个后包点嘛",
+  "music": 0.0
+ },
+ {
+  "from": 116.27,
+  "to": 118.05,
+  "sid": 56,
+  "location": 2,
+  "content": "所以他的半线就特地放高一点",
+  "music": 0.0
+ },
+ {
+  "from": 118.05,
+  "to": 120.15,
+  "sid": 57,
+  "location": 2,
+  "content": "有的时候你还可以放这啊",
+  "music": 0.0
+ },
+ {
+  "from": 120.15,
+  "to": 121.71,
+  "sid": 58,
+  "location": 2,
+  "content": "就是为了让别人踩上来的时候",
+  "music": 0.0
+ },
+ {
+  "from": 121.71,
+  "to": 124.59,
+  "sid": 59,
+  "location": 2,
+  "content": "就直接他没注意就踩上来之后",
+  "music": 0.0
+ },
+ {
+  "from": 124.59,
+  "to": 125.81,
+  "sid": 60,
+  "location": 2,
+  "content": "你在二楼就可以混这个烟",
+  "music": 0.0
+ },
+ {
+  "from": 125.81,
+  "to": 127.47,
+  "sid": 61,
+  "location": 2,
+  "content": "所以这个烟是放这个半线",
+  "music": 0.0
+ },
+ {
+  "from": 127.47,
+  "to": 128.81,
+  "sid": 62,
+  "location": 2,
+  "content": "是放到这里的",
+  "music": 0.0
+ },
+ {
+  "from": 128.81,
+  "to": 132.49,
+  "sid": 63,
+  "location": 2,
+  "content": "然后这边呢就是说大家呃进攻的时候",
+  "music": 0.0
+ },
+ {
+  "from": 132.49,
+  "to": 133.05,
+  "sid": 64,
+  "location": 2,
+  "content": "这样走过来",
+  "music": 0.0
+ },
+ {
+  "from": 133.05,
+  "to": 134.23,
+  "sid": 65,
+  "location": 2,
+  "content": "直接往前走嘛对吧",
+  "music": 0.0
+ },
+ {
+  "from": 134.23,
+  "to": 135.53,
+  "sid": 66,
+  "location": 2,
+  "content": "那这样办了之后",
+  "music": 0.0
+ },
+ {
+  "from": 135.53,
+  "to": 137.93,
+  "sid": 67,
+  "location": 2,
+  "content": "是不是就可以看到这个半线的源头",
+  "music": 0.0
+ },
+ {
+  "from": 137.93,
+  "to": 138.93,
+  "sid": 68,
+  "location": 2,
+  "content": "他就可以很轻松打掉",
+  "music": 0.0
+ },
+ {
+  "from": 138.93,
+  "to": 140.13,
+  "sid": 69,
+  "location": 2,
+  "content": "所以他会在这里再放个烟",
+  "music": 0.0
+ },
+ {
+  "from": 140.13,
+  "to": 140.87,
+  "sid": 70,
+  "location": 2,
+  "content": "再放个烟",
+  "music": 0.0
+ },
+ {
+  "from": 140.87,
+  "to": 144.33,
+  "sid": 71,
+  "location": 2,
+  "content": "那这个烟一起就会容易把这个给他给遮住",
+  "music": 0.0
+ },
+ {
+  "from": 144.33,
+  "to": 145.43,
+  "sid": 72,
+  "location": 2,
+  "content": "他敌方就不好打",
+  "music": 0.0
+ },
+ {
+  "from": 145.43,
+  "to": 146.87,
+  "sid": 73,
+  "location": 2,
+  "content": "我们在二楼这里也可以混",
+  "music": 0.0
+ },
+ {
+  "from": 146.87,
+  "to": 148.01,
+  "sid": 74,
+  "location": 2,
+  "content": "这个被绊倒的人",
+  "music": 0.0
+ },
+ {
+  "from": 148.01,
+  "to": 149.97,
+  "sid": 75,
+  "location": 2,
+  "content": "然后这里呢有隔断烟",
+  "music": 0.0
+ },
+ {
+  "from": 149.97,
+  "to": 153.49,
+  "sid": 76,
+  "location": 2,
+  "content": "以及说就放到这个高台上面的",
+  "music": 0.0
+ },
+ {
+  "from": 153.49,
+  "to": 156.05,
+  "sid": 77,
+  "location": 2,
+  "content": "给大家看一下这个烟的效果啊",
+  "music": 0.0
+ },
+ {
+  "from": 156.05,
+  "to": 157.669,
+  "sid": 78,
+  "location": 2,
+  "content": "首先是这边启动",
+  "music": 0.0
+ },
+ {
+  "from": 157.669,
+  "to": 160.569,
+  "sid": 79,
+  "location": 2,
+  "content": "你看这个烟其实是可以把它挡住的",
+  "music": 0.0
+ },
+ {
+  "from": 160.569,
+  "to": 162.589,
+  "sid": 80,
+  "location": 2,
+  "content": "就是敌方走进来之后",
+  "music": 0.0
+ },
+ {
+  "from": 162.589,
+  "to": 163.909,
+  "sid": 81,
+  "location": 2,
+  "content": "被这个烟棒就是看不到他",
+  "music": 0.0
+ },
+ {
+  "from": 163.909,
+  "to": 166.789,
+  "sid": 82,
+  "location": 2,
+  "content": "那大家就不要说随手一扔就扔成这样啊",
+  "music": 0.0
+ },
+ {
+  "from": 166.789,
+  "to": 168.28,
+  "sid": 83,
+  "location": 2,
+  "content": "这样有的时候就能看到他",
+  "music": 0.0
+ },
+ {
+  "from": 168.28,
+  "to": 171.04,
+  "sid": 84,
+  "location": 2,
+  "content": "这个就稍微往中间塞一塞就行",
+  "music": 0.0
+ },
+ {
+  "from": 171.04,
+  "to": 172.14,
+  "sid": 85,
+  "location": 2,
+  "content": "因为它是放不满的嘛",
+  "music": 0.0
+ },
+ {
+  "from": 172.14,
+  "to": 173.54,
+  "sid": 86,
+  "location": 2,
+  "content": "你就放中间就可以了",
+  "music": 0.0
+ },
+ {
+  "from": 173.54,
+  "to": 176.34,
+  "sid": 87,
+  "location": 2,
+  "content": "然后像这个这个呢就是做隔断",
+  "music": 0.0
+ },
+ {
+  "from": 176.34,
+  "to": 179.45,
+  "sid": 88,
+  "location": 2,
+  "content": "因为他像解体什么一突会扔烟袋鼠",
+  "music": 0.0
+ },
+ {
+  "from": 179.45,
+  "to": 181.23,
+  "sid": 89,
+  "location": 2,
+  "content": "往这里飞一飞一倍半",
+  "music": 0.0
+ },
+ {
+  "from": 181.23,
+  "to": 182.57,
+  "sid": 90,
+  "location": 2,
+  "content": "那这也看不见啊",
+  "music": 0.0
+ },
+ {
+  "from": 182.57,
+  "to": 183.61,
+  "sid": 91,
+  "location": 2,
+  "content": "我们在这里可以打队友",
+  "music": 0.0
+ },
+ {
+  "from": 183.61,
+  "to": 184.23,
+  "sid": 92,
+  "location": 2,
+  "content": "也可以打",
+  "music": 0.0
+ },
+ {
+  "from": 184.23,
+  "to": 187.7,
+  "sid": 93,
+  "location": 2,
+  "content": "而而且像你这个隔断烟一扔对吧",
+  "music": 0.0
+ },
+ {
+  "from": 187.7,
+  "to": 190.46,
+  "sid": 94,
+  "location": 2,
+  "content": "我们这后包点的人就可以这样拉出来",
+  "music": 0.0
+ },
+ {
+  "from": 190.46,
+  "to": 192.93,
+  "sid": 95,
+  "location": 2,
+  "content": "然后再集结去打这个包点的人",
+  "music": 0.0
+ },
+ {
+  "from": 192.93,
+  "to": 195.63,
+  "sid": 96,
+  "location": 2,
+  "content": "或者说你第二时间再开这个这个烟",
+  "music": 0.0
+ },
+ {
+  "from": 195.63,
+  "to": 196.95,
+  "sid": 97,
+  "location": 2,
+  "content": "就这里有人在低包",
+  "music": 0.0
+ },
+ {
+  "from": 196.95,
+  "to": 197.93,
+  "sid": 98,
+  "location": 2,
+  "content": "你弄这个烟",
+  "music": 0.0
+ },
+ {
+  "from": 197.93,
+  "to": 199.93,
+  "sid": 99,
+  "location": 2,
+  "content": "然后再跳下去去打这边的人啊",
+  "music": 0.0
+ },
+ {
+  "from": 199.93,
+  "to": 201.579,
+  "sid": 100,
+  "location": 2,
+  "content": "就隔断右边的这个枪线嘛",
+  "music": 0.0
+ },
+ {
+  "from": 201.579,
+  "to": 205.62,
+  "sid": 101,
+  "location": 2,
+  "content": "然后这个的启动就是唉哟差点掉下去了",
+  "music": 0.0
+ },
+ {
+  "from": 205.62,
+  "to": 208.94,
+  "sid": 102,
+  "location": 2,
+  "content": "这个呢就是盖在这个包点上面",
+  "music": 0.0
+ },
+ {
+  "from": 208.94,
+  "to": 210.02,
+  "sid": 103,
+  "location": 2,
+  "content": "因为它要延伸嘛",
+  "music": 0.0
+ },
+ {
+  "from": 210.02,
+  "to": 211.7,
+  "sid": 104,
+  "location": 2,
+  "content": "那敌方的压力其实是很大",
+  "music": 0.0
+ },
+ {
+  "from": 211.7,
+  "to": 215.88,
+  "sid": 105,
+  "location": 2,
+  "content": "因为你看到这个这块区域就有这么大一个岩",
+  "music": 0.0
+ },
+ {
+  "from": 215.88,
+  "to": 217.99,
+  "sid": 106,
+  "location": 2,
+  "content": "他其实就很怕你这里有人",
+  "music": 0.0
+ },
+ {
+  "from": 217.99,
+  "to": 219.95,
+  "sid": 107,
+  "location": 2,
+  "content": "主要呢就是这样的打法",
+  "music": 0.0
+ },
+ {
+  "from": 219.95,
+  "to": 223.21,
+  "sid": 108,
+  "location": 2,
+  "content": "大家具体可以去看他在对局中的应对",
+  "music": 0.0
+ },
+ {
+  "from": 223.21,
+  "to": 226.31,
+  "sid": 109,
+  "location": 2,
+  "content": "一般呢都是守二楼或者守这个后果脸型",
+  "music": 0.0
+ },
+ {
+  "from": 226.31,
+  "to": 228.23,
+  "sid": 110,
+  "location": 2,
+  "content": "然后这个地方会被敌方封烟嘛",
+  "music": 0.0
+ },
+ {
+  "from": 228.23,
+  "to": 228.63,
+  "sid": 111,
+  "location": 2,
+  "content": "对不对",
+  "music": 0.0
+ },
+ {
+  "from": 228.63,
+  "to": 229.63,
+  "sid": 112,
+  "location": 2,
+  "content": "所以我们就会站在这",
+  "music": 0.0
+ },
+ {
+  "from": 229.63,
+  "to": 230.95,
+  "sid": 113,
+  "location": 2,
+  "content": "然后看这个摄像头",
+  "music": 0.0
+ },
+ {
+  "from": 230.95,
+  "to": 231.87,
+  "sid": 114,
+  "location": 2,
+  "content": "摄像摄像头很高",
+  "music": 0.0
+ },
+ {
+  "from": 231.87,
+  "to": 232.59,
+  "sid": 115,
+  "location": 2,
+  "content": "敌方走进来",
+  "music": 0.0
+ },
+ {
+  "from": 232.59,
+  "to": 234.28,
+  "sid": 116,
+  "location": 2,
+  "content": "我们其实都是能看到这里有个烟",
+  "music": 0.0
+ },
+ {
+  "from": 234.28,
+  "to": 236.04,
+  "sid": 117,
+  "location": 2,
+  "content": "然后他比如说解体一带血",
+  "music": 0.0
+ },
+ {
+  "from": 236.04,
+  "to": 237.08,
+  "sid": 118,
+  "location": 2,
+  "content": "我马上起这个烟",
+  "music": 0.0
+ },
+ {
+  "from": 237.08,
+  "to": 240.66,
+  "sid": 119,
+  "location": 2,
+  "content": "那他如果被这个半岛马上缩回来去混这个烟",
+  "music": 0.0
+ },
+ {
+  "from": 240.66,
+  "to": 242.26,
+  "sid": 120,
+  "location": 2,
+  "content": "如果说被打掉了",
+  "music": 0.0
+ },
+ {
+  "from": 242.26,
+  "to": 243.0,
+  "sid": 121,
+  "location": 2,
+  "content": "或者说怎么样",
+  "music": 0.0
+ },
+ {
+  "from": 243.0,
+  "to": 244.1,
+  "sid": 122,
+  "location": 2,
+  "content": "或者说这里有人走进来",
+  "music": 0.0
+ },
+ {
+  "from": 244.1,
+  "to": 245.1,
+  "sid": 123,
+  "location": 2,
+  "content": "也就起这个烟",
+  "music": 0.0
+ },
+ {
+  "from": 245.1,
+  "to": 247.62,
+  "sid": 124,
+  "location": 2,
+  "content": "然后假设比如说我们现在就打完了",
+  "music": 0.0
+ },
+ {
+  "from": 247.62,
+  "to": 248.08,
+  "sid": 125,
+  "location": 2,
+  "content": "对不对",
+  "music": 0.0
+ },
+ {
+  "from": 248.08,
+  "to": 250.4,
+  "sid": 126,
+  "location": 2,
+  "content": "半线被敌方电电箭也电掉了",
+  "music": 0.0
+ },
+ {
+  "from": 250.4,
+  "to": 251.38,
+  "sid": 127,
+  "location": 2,
+  "content": "然后烟也没了",
+  "music": 0.0
+ },
+ {
+  "from": 251.38,
+  "to": 252.4,
+  "sid": 128,
+  "location": 2,
+  "content": "那我们就再缩回来",
+  "music": 0.0
+ },
+ {
+  "from": 252.4,
+  "to": 253.12,
+  "sid": 129,
+  "location": 2,
+  "content": "然后再看看",
+  "music": 0.0
+ },
+ {
+  "from": 253.12,
+  "to": 254.96,
+  "sid": 130,
+  "location": 2,
+  "content": "比如说这里有人在下包标一下",
+  "music": 0.0
+ },
+ {
+  "from": 254.96,
+  "to": 256.35,
+  "sid": 131,
+  "location": 2,
+  "content": "然后得得当啊",
+  "music": 0.0
+ },
+ {
+  "from": 256.35,
+  "to": 257.47,
+  "sid": 132,
+  "location": 2,
+  "content": "这样打都是可以的",
+  "music": 0.0
+ },
+ {
+  "from": 257.47,
+  "to": 258.15,
+  "sid": 133,
+  "location": 2,
+  "content": "但是大家要注意",
+  "music": 0.0
+ },
+ {
+  "from": 258.15,
+  "to": 259.7,
+  "sid": 134,
+  "location": 2,
+  "content": "就是这个烟可能会散啊",
+  "music": 0.0
+ },
+ {
+  "from": 259.7,
+  "to": 261.9,
+  "sid": 135,
+  "location": 2,
+  "content": "但大家不要站在烟里的时候看摄像头",
+  "music": 0.0
+ },
+ {
+  "from": 261.9,
+  "to": 262.82,
+  "sid": 136,
+  "location": 2,
+  "content": "然后发现这个烟散了",
+  "music": 0.0
+ },
+ {
+  "from": 262.82,
+  "to": 263.98,
+  "sid": 137,
+  "location": 2,
+  "content": "自己被打死了啊",
+  "music": 0.0
+ },
+ {
+  "from": 263.98,
+  "to": 264.74,
+  "sid": 138,
+  "location": 2,
+  "content": "这种情况下呢",
+  "music": 0.0
+ },
+ {
+  "from": 264.74,
+  "to": 265.84,
+  "sid": 139,
+  "location": 2,
+  "content": "如果你手里还有烟",
+  "music": 0.0
+ },
+ {
+  "from": 265.84,
+  "to": 267.08,
+  "sid": 140,
+  "location": 2,
+  "content": "我们可以再续个烟",
+  "music": 0.0
+ },
+ {
+  "from": 267.08,
+  "to": 270.16,
+  "sid": 141,
+  "location": 2,
+  "content": "也包括说我们在从B点往A打回防的时候",
+  "music": 0.0
+ },
+ {
+  "from": 270.16,
+  "to": 271.26,
+  "sid": 142,
+  "location": 2,
+  "content": "可以扔这种高音",
+  "music": 0.0
+ },
+ {
+  "from": 271.26,
+  "to": 272.44,
+  "sid": 143,
+  "location": 2,
+  "content": "然后再跳下来",
+  "music": 0.0
+ },
+ {
+  "from": 272.44,
+  "to": 273.73,
+  "sid": 144,
+  "location": 2,
+  "content": "然后再出来",
+  "music": 0.0
+ },
+ {
+  "from": 273.73,
+  "to": 275.49,
+  "sid": 145,
+  "location": 2,
+  "content": "然后这里有个精英跳啊",
+  "music": 0.0
+ },
+ {
+  "from": 275.49,
+  "to": 276.13,
+  "sid": 146,
+  "location": 2,
+  "content": "精英挂绳索",
+  "music": 0.0
+ },
+ {
+  "from": 276.13,
+  "to": 278.13,
+  "sid": 147,
+  "location": 2,
+  "content": "之前霓虹厅那一期就讲的很详细",
+  "music": 0.0
+ },
+ {
+  "from": 278.13,
+  "to": 279.07,
+  "sid": 148,
+  "location": 2,
+  "content": "这里再讲一遍",
+  "music": 0.0
+ },
+ {
+  "from": 279.07,
+  "to": 281.39,
+  "sid": 149,
+  "location": 2,
+  "content": "按F可以挂绳和脱离绳子",
+  "music": 0.0
+ },
+ {
+  "from": 281.39,
+  "to": 283.19,
+  "sid": 150,
+  "location": 2,
+  "content": "但是有一段僵直和延迟",
+  "music": 0.0
+ },
+ {
+  "from": 283.19,
+  "to": 284.87,
+  "sid": 151,
+  "location": 2,
+  "content": "所以我们用F来挂绳",
+  "music": 0.0
+ },
+ {
+  "from": 284.87,
+  "to": 287.21,
+  "sid": 152,
+  "location": 2,
+  "content": "用空格来离开绳子",
+  "music": 0.0
+ },
+ {
+  "from": 287.21,
+  "to": 290.49,
+  "sid": 153,
+  "location": 2,
+  "content": "我们常规落地会有一个很重的脚步",
+  "music": 0.0
+ },
+ {
+  "from": 290.81,
+  "to": 292.29,
+  "sid": 154,
+  "location": 2,
+  "content": "快速静一下绳索",
+  "music": 0.0
+ },
+ {
+  "from": 292.29,
+  "to": 295.55,
+  "sid": 155,
+  "location": 2,
+  "content": "就是按住shift在快落地的时候按F挂绳",
+  "music": 0.0
+ },
+ {
+  "from": 295.55,
+  "to": 297.36,
+  "sid": 156,
+  "location": 2,
+  "content": "然后再按空格快速落地",
+  "music": 0.0
+ },
+ {
+  "from": 297.36,
+  "to": 298.22,
+  "sid": 157,
+  "location": 2,
+  "content": "速度更快",
+  "music": 0.0
+ },
+ {
+  "from": 298.22,
+  "to": 299.15,
+  "sid": 158,
+  "location": 2,
+  "content": "且没有声音",
+  "music": 0.0
+ },
+ {
+  "from": 299.15,
+  "to": 301.03,
+  "sid": 159,
+  "location": 2,
+  "content": "但是有时候因为我们速度过快",
+  "music": 0.0
+ },
+ {
+  "from": 301.03,
+  "to": 302.79,
+  "sid": 160,
+  "location": 2,
+  "content": "导致人往前飘了一段距离",
+  "music": 0.0
+ },
+ {
+  "from": 302.79,
+  "to": 304.07,
+  "sid": 161,
+  "location": 2,
+  "content": "再挂绳就会有声音",
+  "music": 0.0
+ },
+ {
+  "from": 304.07,
+  "to": 305.63,
+  "sid": 162,
+  "location": 2,
+  "content": "所以在人踏空的时候",
+  "music": 0.0
+ },
+ {
+  "from": 305.63,
+  "to": 308.26,
+  "sid": 163,
+  "location": 2,
+  "content": "按一下S减速再挂绳就不会有声音了",
+  "music": 0.0
+ },
+ {
+  "from": 308.26,
+  "to": 310.46,
+  "sid": 164,
+  "location": 2,
+  "content": "我们起跳挂绳的时候也是同理",
+  "music": 0.0
+ },
+ {
+  "from": 310.46,
+  "to": 311.9,
+  "sid": 165,
+  "location": 2,
+  "content": "按住shift跳跃",
+  "music": 0.0
+ },
+ {
+  "from": 311.9,
+  "to": 313.62,
+  "sid": 166,
+  "location": 2,
+  "content": "挂绳之前按S减速",
+  "music": 0.0
+ },
+ {
+  "from": 313.62,
+  "to": 314.56,
+  "sid": 167,
+  "location": 2,
+  "content": "再按F挂绳",
+  "music": 0.0
+ },
+ {
+  "from": 314.56,
+  "to": 316.45,
+  "sid": 168,
+  "location": 2,
+  "content": "这样就可以更快的往上跳",
+  "music": 0.0
+ },
+ {
+  "from": 316.45,
+  "to": 318.17,
+  "sid": 169,
+  "location": 2,
+  "content": "然后B点也是一样啊",
+  "music": 0.0
+ },
+ {
+  "from": 318.17,
+  "to": 319.89,
+  "sid": 170,
+  "location": 2,
+  "content": "大家出来都是走这个二楼",
+  "music": 0.0
+ },
+ {
+  "from": 319.89,
+  "to": 322.17,
+  "sid": 171,
+  "location": 2,
+  "content": "因为走这里你放的摄像头高嘛",
+  "music": 0.0
+ },
+ {
+  "from": 322.17,
+  "to": 325.05,
+  "sid": 172,
+  "location": 2,
+  "content": "就包括说这个摄像头也高啊",
+  "music": 0.0
+ },
+ {
+  "from": 325.05,
+  "to": 327.45,
+  "sid": 173,
+  "location": 2,
+  "content": "然后它一般呢就是放在这儿",
+  "music": 0.0
+ },
+ {
+  "from": 329.25,
+  "to": 330.23,
+  "sid": 174,
+  "location": 2,
+  "content": "这个放这里",
+  "music": 0.0
+ },
+ {
+  "from": 330.23,
+  "to": 331.47,
+  "sid": 175,
+  "location": 2,
+  "content": "那放这儿的时候呢",
+  "music": 0.0
+ },
+ {
+  "from": 331.47,
+  "to": 332.91,
+  "sid": 176,
+  "location": 2,
+  "content": "是能看到B大河",
+  "music": 0.0
+ },
+ {
+  "from": 332.91,
+  "to": 334.79,
+  "sid": 177,
+  "location": 2,
+  "content": "看到这个高台都是能看到的啊",
+  "music": 0.0
+ },
+ {
+  "from": 334.79,
+  "to": 336.58,
+  "sid": 178,
+  "location": 2,
+  "content": "这个它固定的像没有变化",
+  "music": 0.0
+ },
+ {
+  "from": 336.58,
+  "to": 338.5,
+  "sid": 179,
+  "location": 2,
+  "content": "B点的半仙不止就两套",
+  "music": 0.0
+ },
+ {
+  "from": 338.5,
+  "to": 340.02,
+  "sid": 180,
+  "location": 2,
+  "content": "一套是这个最古老的",
+  "music": 0.0
+ },
+ {
+  "from": 340.02,
+  "to": 343.28,
+  "sid": 181,
+  "location": 2,
+  "content": "就是呃入口半线这里一根",
+  "music": 0.0
+ },
+ {
+  "from": 343.28,
+  "to": 346.31,
+  "sid": 182,
+  "location": 2,
+  "content": "然后这里一根就连到这的啊",
+  "music": 0.0
+ },
+ {
+  "from": 346.31,
+  "to": 347.73,
+  "sid": 183,
+  "location": 2,
+  "content": "就是两边过来",
+  "music": 0.0
+ },
+ {
+  "from": 347.73,
+  "to": 348.83,
+  "sid": 184,
+  "location": 2,
+  "content": "那这里放个烟",
+  "music": 0.0
+ },
+ {
+  "from": 348.83,
+  "to": 349.87,
+  "sid": 185,
+  "location": 2,
+  "content": "这里放个烟",
+  "music": 0.0
+ },
+ {
+  "from": 349.87,
+  "to": 353.03,
+  "sid": 186,
+  "location": 2,
+  "content": "这种就是防敌方冲点的时候啊",
+  "music": 0.0
+ },
+ {
+  "from": 353.03,
+  "to": 354.19,
+  "sid": 187,
+  "location": 2,
+  "content": "包括说他这一跳上来",
+  "music": 0.0
+ },
+ {
+  "from": 354.19,
+  "to": 357.22,
+  "sid": 188,
+  "location": 2,
+  "content": "然后他人的站位呢就是站在这个地方啊",
+  "music": 0.0
+ },
+ {
+  "from": 357.22,
+  "to": 358.04,
+  "sid": 189,
+  "location": 2,
+  "content": "然后看摄像头",
+  "music": 0.0
+ },
+ {
+  "from": 358.04,
+  "to": 359.54,
+  "sid": 190,
+  "location": 2,
+  "content": "我们站在这里是安全的",
+  "music": 0.0
+ },
+ {
+  "from": 359.54,
+  "to": 361.02,
+  "sid": 191,
+  "location": 2,
+  "content": "如果说敌方打了对吧",
+  "music": 0.0
+ },
+ {
+  "from": 361.02,
+  "to": 361.98,
+  "sid": 192,
+  "location": 2,
+  "content": "我就起烟起烟",
+  "music": 0.0
+ },
+ {
+  "from": 361.98,
+  "to": 363.78,
+  "sid": 193,
+  "location": 2,
+  "content": "然后在这里接人",
+  "music": 0.0
+ },
+ {
+  "from": 364.94,
+  "to": 367.34,
+  "sid": 194,
+  "location": 2,
+  "content": "啊这一套大家要注意的点是什么",
+  "music": 0.0
+ },
+ {
+  "from": 367.34,
+  "to": 369.42,
+  "sid": 195,
+  "location": 2,
+  "content": "就是我们站这里现在改版了",
+  "music": 0.0
+ },
+ {
+  "from": 369.42,
+  "to": 370.14,
+  "sid": 196,
+  "location": 2,
+  "content": "有个凹槽",
+  "music": 0.0
+ },
+ {
+  "from": 370.14,
+  "to": 372.02,
+  "sid": 197,
+  "location": 2,
+  "content": "这个探测箭射这的",
+  "music": 0.0
+ },
+ {
+  "from": 372.02,
+  "to": 373.3,
+  "sid": 198,
+  "location": 2,
+  "content": "我基本上照不到我们",
+  "music": 0.0
+ },
+ {
+  "from": 373.3,
+  "to": 377.01,
+  "sid": 199,
+  "location": 2,
+  "content": "但是呢比如说他星坠给这里点了个阵啊",
+  "music": 0.0
+ },
+ {
+  "from": 377.01,
+  "to": 379.05,
+  "sid": 200,
+  "location": 2,
+  "content": "或者说有太湖什么把这里铺满了",
+  "music": 0.0
+ },
+ {
+  "from": 379.05,
+  "to": 380.25,
+  "sid": 201,
+  "location": 2,
+  "content": "或者有铁壁",
+  "music": 0.0
+ },
+ {
+  "from": 380.25,
+  "to": 382.73,
+  "sid": 202,
+  "location": 2,
+  "content": "或者有夜路开大招来找你",
+  "music": 0.0
+ },
+ {
+  "from": 382.73,
+  "to": 386.81,
+  "sid": 203,
+  "location": 2,
+  "content": "或者换人开大招来覆盖你的情况下",
+  "music": 0.0
+ },
+ {
+  "from": 386.81,
+  "to": 389.03,
+  "sid": 204,
+  "location": 2,
+  "content": "我们这里是不是就必死啊",
+  "music": 0.0
+ },
+ {
+  "from": 389.03,
+  "to": 389.87,
+  "sid": 205,
+  "location": 2,
+  "content": "所以这个要注意点",
+  "music": 0.0
+ },
+ {
+  "from": 389.87,
+  "to": 392.02,
+  "sid": 206,
+  "location": 2,
+  "content": "他一般只是在手枪局这样玩",
+  "music": 0.0
+ },
+ {
+  "from": 392.02,
+  "to": 394.18,
+  "sid": 207,
+  "location": 2,
+  "content": "就是他会在这里挂在这啊",
+  "music": 0.0
+ },
+ {
+  "from": 394.18,
+  "to": 395.58,
+  "sid": 208,
+  "location": 2,
+  "content": "因为敌方道具也没有那么多嘛",
+  "music": 0.0
+ },
+ {
+  "from": 395.58,
+  "to": 397.56,
+  "sid": 209,
+  "location": 2,
+  "content": "然后人也直接飞飞这里之后",
+  "music": 0.0
+ },
+ {
+  "from": 397.56,
+  "to": 399.58,
+  "sid": 210,
+  "location": 2,
+  "content": "他就直接啊起这个烟",
+  "music": 0.0
+ },
+ {
+  "from": 399.58,
+  "to": 400.66,
+  "sid": 211,
+  "location": 2,
+  "content": "然后在这打架",
+  "music": 0.0
+ },
+ {
+  "from": 400.66,
+  "to": 404.96,
+  "sid": 212,
+  "location": 2,
+  "content": "那假设说大家就前点也守不住啊",
+  "music": 0.0
+ },
+ {
+  "from": 404.96,
+  "to": 406.04,
+  "sid": 213,
+  "location": 2,
+  "content": "或者说他办了之后",
+  "music": 0.0
+ },
+ {
+  "from": 406.04,
+  "to": 406.92,
+  "sid": 214,
+  "location": 2,
+  "content": "就人就躲在这里",
+  "music": 0.0
+ },
+ {
+  "from": 406.92,
+  "to": 407.92,
+  "sid": 215,
+  "location": 2,
+  "content": "你也打不到啊",
+  "music": 0.0
+ },
+ {
+  "from": 407.92,
+  "to": 411.27,
+  "sid": 216,
+  "location": 2,
+  "content": "那我可以再把这个半线往后延延到这啊",
+  "music": 0.0
+ },
+ {
+  "from": 411.27,
+  "to": 413.96,
+  "sid": 217,
+  "location": 2,
+  "content": "烟也对应的往后放囚笼啊",
+  "music": 0.0
+ },
+ {
+  "from": 413.96,
+  "to": 415.0,
+  "sid": 218,
+  "location": 2,
+  "content": "就守这里啊",
+  "music": 0.0
+ },
+ {
+  "from": 415.0,
+  "to": 416.36,
+  "sid": 219,
+  "location": 2,
+  "content": "然后这个也一样啊",
+  "music": 0.0
+ },
+ {
+  "from": 416.36,
+  "to": 418.16,
+  "sid": 220,
+  "location": 2,
+  "content": "就是我们呃随机应变啊",
+  "music": 0.0
+ },
+ {
+  "from": 418.16,
+  "to": 419.42,
+  "sid": 221,
+  "location": 2,
+  "content": "可以往后挪",
+  "music": 0.0
+ },
+ {
+  "from": 419.42,
+  "to": 421.14,
+  "sid": 222,
+  "location": 2,
+  "content": "但这个思路都是一样",
+  "music": 0.0
+ },
+ {
+  "from": 421.14,
+  "to": 422.78,
+  "sid": 223,
+  "location": 2,
+  "content": "就是防正面的敌人嘛",
+  "music": 0.0
+ },
+ {
+  "from": 422.78,
+  "to": 425.14,
+  "sid": 224,
+  "location": 2,
+  "content": "那像我们刚才说的那种情况怎么办",
+  "music": 0.0
+ },
+ {
+  "from": 425.14,
+  "to": 427.34,
+  "sid": 225,
+  "location": 2,
+  "content": "就是说我在包点会吃对面很多技能",
+  "music": 0.0
+ },
+ {
+  "from": 427.34,
+  "to": 428.98,
+  "sid": 226,
+  "location": 2,
+  "content": "那那次他有一种打法呢",
+  "music": 0.0
+ },
+ {
+  "from": 428.98,
+  "to": 432.34,
+  "sid": 227,
+  "location": 2,
+  "content": "就是我们把这个悬崖这一侧全部都不要掉啊",
+  "music": 0.0
+ },
+ {
+  "from": 432.34,
+  "to": 433.88,
+  "sid": 228,
+  "location": 2,
+  "content": "就是我把悬崖放给他",
+  "music": 0.0
+ },
+ {
+  "from": 433.88,
+  "to": 435.0,
+  "sid": 229,
+  "location": 2,
+  "content": "让他去下包",
+  "music": 0.0
+ },
+ {
+  "from": 435.0,
+  "to": 438.46,
+  "sid": 230,
+  "location": 2,
+  "content": "因为就算你呃就我们如果不守悬崖",
+  "music": 0.0
+ },
+ {
+  "from": 438.46,
+  "to": 439.6,
+  "sid": 231,
+  "location": 2,
+  "content": "就是不站在这里的话",
+  "music": 0.0
+ },
+ {
+  "from": 439.6,
+  "to": 441.9,
+  "sid": 232,
+  "location": 2,
+  "content": "就算这里有敌人被半线绊倒",
+  "music": 0.0
+ },
+ {
+  "from": 441.9,
+  "to": 442.82,
+  "sid": 233,
+  "location": 2,
+  "content": "没补不上枪",
+  "music": 0.0
+ },
+ {
+  "from": 442.82,
+  "to": 443.1,
+  "sid": 234,
+  "location": 2,
+  "content": "对不对",
+  "music": 0.0
+ },
+ {
+  "from": 443.1,
+  "to": 444.6,
+  "sid": 235,
+  "location": 2,
+  "content": "所以这里我们就不放道具",
+  "music": 0.0
+ },
+ {
+  "from": 444.6,
+  "to": 448.11,
+  "sid": 236,
+  "location": 2,
+  "content": "那主要就是守左边这一侧啊",
+  "music": 0.0
+ },
+ {
+  "from": 448.11,
+  "to": 449.04,
+  "sid": 237,
+  "location": 2,
+  "content": "比如说放这",
+  "music": 0.0
+ },
+ {
+  "from": 449.04,
+  "to": 452.08,
+  "sid": 238,
+  "location": 2,
+  "content": "或者说等屏幕屏障落下之后放这",
+  "music": 0.0
+ },
+ {
+  "from": 452.08,
+  "to": 454.48,
+  "sid": 239,
+  "location": 2,
+  "content": "因为你之前都是放在这儿或者放在这嘛",
+  "music": 0.0
+ },
+ {
+  "from": 454.48,
+  "to": 456.409,
+  "sid": 240,
+  "location": 2,
+  "content": "所以敌人可能往前走的时候",
+  "music": 0.0
+ },
+ {
+  "from": 456.409,
+  "to": 458.369,
+  "sid": 241,
+  "location": 2,
+  "content": "他就会觉得你的半仙在这儿啊",
+  "music": 0.0
+ },
+ {
+  "from": 458.369,
+  "to": 458.969,
+  "sid": 242,
+  "location": 2,
+  "content": "他就往前冲",
+  "music": 0.0
+ },
+ {
+  "from": 458.969,
+  "to": 459.789,
+  "sid": 243,
+  "location": 2,
+  "content": "就会这里绊倒",
+  "music": 0.0
+ },
+ {
+  "from": 459.789,
+  "to": 462.669,
+  "sid": 244,
+  "location": 2,
+  "content": "然后相对应的烟呢是放这个高台",
+  "music": 0.0
+ },
+ {
+  "from": 462.669,
+  "to": 464.599,
+  "sid": 245,
+  "location": 2,
+  "content": "以及我们要跳过去",
+  "music": 0.0
+ },
+ {
+  "from": 464.599,
+  "to": 467.299,
+  "sid": 246,
+  "location": 2,
+  "content": "然后把烟扔在这个台子上啊",
+  "music": 0.0
+ },
+ {
+  "from": 467.299,
+  "to": 468.659,
+  "sid": 247,
+  "location": 2,
+  "content": "我们就只需要瞄着这里",
+  "music": 0.0
+ },
+ {
+  "from": 468.659,
+  "to": 471.26,
+  "sid": 248,
+  "location": 2,
+  "content": "然后跳扔就可以了啊",
+  "music": 0.0
+ },
+ {
+  "from": 471.26,
+  "to": 473.1,
+  "sid": 249,
+  "location": 2,
+  "content": "然后这个烟呢呃",
+  "music": 0.0
+ },
+ {
+  "from": 473.1,
+  "to": 476.8,
+  "sid": 250,
+  "location": 2,
+  "content": "我这里扔的还是比较靠近外面的",
+  "music": 0.0
+ },
+ {
+  "from": 476.8,
+  "to": 480.54,
+  "sid": 251,
+  "location": 2,
+  "content": "大家就是自定义里稍微练一练就好了啊",
+  "music": 0.0
+ },
+ {
+  "from": 480.54,
+  "to": 481.18,
+  "sid": 252,
+  "location": 2,
+  "content": "就可以扔的",
+  "music": 0.0
+ },
+ {
+  "from": 481.18,
+  "to": 482.18,
+  "sid": 253,
+  "location": 2,
+  "content": "再靠这边一点",
+  "music": 0.0
+ },
+ {
+  "from": 482.18,
+  "to": 484.58,
+  "sid": 254,
+  "location": 2,
+  "content": "然后给大家看一下",
+  "music": 0.0
+ },
+ {
+  "from": 484.61,
+  "to": 487.01,
+  "sid": 255,
+  "location": 2,
+  "content": "给给大家看一下这两个烟的效果",
+  "music": 0.0
+ },
+ {
+  "from": 488.05,
+  "to": 489.17,
+  "sid": 256,
+  "location": 2,
+  "content": "囚笼啊",
+  "music": 0.0
+ },
+ {
+  "from": 489.17,
+  "to": 493.11,
+  "sid": 257,
+  "location": 2,
+  "content": "就是因为有这个呃延伸的作用嘛",
+  "music": 0.0
+ },
+ {
+  "from": 493.11,
+  "to": 495.27,
+  "sid": 258,
+  "location": 2,
+  "content": "所以我们如果说从二楼走出来的时候",
+  "music": 0.0
+ },
+ {
+  "from": 495.27,
+  "to": 497.14,
+  "sid": 259,
+  "location": 2,
+  "content": "也不会被这个高台打",
+  "music": 0.0
+ },
+ {
+  "from": 497.14,
+  "to": 500.76,
+  "sid": 260,
+  "location": 2,
+  "content": "那队友只需要在这个包点起一个隔断烟",
+  "music": 0.0
+ },
+ {
+  "from": 500.76,
+  "to": 502.01,
+  "sid": 261,
+  "location": 2,
+  "content": "或者说B大烟",
+  "music": 0.0
+ },
+ {
+  "from": 502.01,
+  "to": 504.89,
+  "sid": 262,
+  "location": 2,
+  "content": "那这样配合我们的这这个延伸烟",
+  "music": 0.0
+ },
+ {
+  "from": 504.89,
+  "to": 507.79,
+  "sid": 263,
+  "location": 2,
+  "content": "我们就可以很轻松的从二楼走出来去打包点",
+  "music": 0.0
+ },
+ {
+  "from": 507.79,
+  "to": 509.289,
+  "sid": 264,
+  "location": 2,
+  "content": "或者说打回防什么的",
+  "music": 0.0
+ },
+ {
+  "from": 509.289,
+  "to": 510.689,
+  "sid": 265,
+  "location": 2,
+  "content": "这就是他的另一种打法",
+  "music": 0.0
+ },
+ {
+  "from": 510.689,
+  "to": 513.339,
+  "sid": 266,
+  "location": 2,
+  "content": "那这第二套完整的打法就是摄像头",
+  "music": 0.0
+ },
+ {
+  "from": 513.339,
+  "to": 515.699,
+  "sid": 267,
+  "location": 2,
+  "content": "然后两根靠左边的半线",
+  "music": 0.0
+ },
+ {
+  "from": 515.699,
+  "to": 517.039,
+  "sid": 268,
+  "location": 2,
+  "content": "右边悬崖完全放掉",
+  "music": 0.0
+ },
+ {
+  "from": 517.039,
+  "to": 519.18,
+  "sid": 269,
+  "location": 2,
+  "content": "然后这两个高台的烟",
+  "music": 0.0
+ },
+ {
+  "from": 519.18,
+  "to": 521.34,
+  "sid": 270,
+  "location": 2,
+  "content": "然后他自己是放完这个烟之后",
+  "music": 0.0
+ },
+ {
+  "from": 521.34,
+  "to": 522.56,
+  "sid": 271,
+  "location": 2,
+  "content": "是要这样绕一圈",
+  "music": 0.0
+ },
+ {
+  "from": 522.56,
+  "to": 525.51,
+  "sid": 272,
+  "location": 2,
+  "content": "走到这个二楼这里躲着啊",
+  "music": 0.0
+ },
+ {
+  "from": 525.51,
+  "to": 526.11,
+  "sid": 273,
+  "location": 2,
+  "content": "因为这样的话",
+  "music": 0.0
+ },
+ {
+  "from": 526.11,
+  "to": 527.15,
+  "sid": 274,
+  "location": 2,
+  "content": "敌方就是就算有",
+  "music": 0.0
+ },
+ {
+  "from": 527.15,
+  "to": 528.59,
+  "sid": 275,
+  "location": 2,
+  "content": "我们刚才说那么一大堆道具对吧",
+  "music": 0.0
+ },
+ {
+  "from": 528.59,
+  "to": 529.27,
+  "sid": 276,
+  "location": 2,
+  "content": "他都铺这里",
+  "music": 0.0
+ },
+ {
+  "from": 529.27,
+  "to": 530.53,
+  "sid": 277,
+  "location": 2,
+  "content": "但我们没有受关系",
+  "music": 0.0
+ },
+ {
+  "from": 530.53,
+  "to": 533.01,
+  "sid": 278,
+  "location": 2,
+  "content": "就跟亚海寻城知道KO有大招",
+  "music": 0.0
+ },
+ {
+  "from": 533.01,
+  "to": 534.88,
+  "sid": 279,
+  "location": 2,
+  "content": "我们就放了半仙就走一样",
+  "music": 0.0
+ },
+ {
+  "from": 534.88,
+  "to": 536.28,
+  "sid": 280,
+  "location": 2,
+  "content": "然后就看这个摄像头",
+  "music": 0.0
+ },
+ {
+  "from": 536.28,
+  "to": 536.76,
+  "sid": 281,
+  "location": 2,
+  "content": "有人来了",
+  "music": 0.0
+ },
+ {
+  "from": 536.76,
+  "to": 537.92,
+  "sid": 282,
+  "location": 2,
+  "content": "叫队友封烟一封烟",
+  "music": 0.0
+ },
+ {
+  "from": 537.92,
+  "to": 539.6,
+  "sid": 283,
+  "location": 2,
+  "content": "然后敌方这里也会封个烟对吧",
+  "music": 0.0
+ },
+ {
+  "from": 539.6,
+  "to": 540.32,
+  "sid": 284,
+  "location": 2,
+  "content": "他一封烟",
+  "music": 0.0
+ },
+ {
+  "from": 540.32,
+  "to": 541.25,
+  "sid": 285,
+  "location": 2,
+  "content": "我们往前走",
+  "music": 0.0
+ },
+ {
+  "from": 541.25,
+  "to": 544.46,
+  "sid": 286,
+  "location": 2,
+  "content": "然后随时准备混这两个半仙",
+  "music": 0.0
+ },
+ {
+  "from": 544.46,
+  "to": 546.9,
+  "sid": 287,
+  "location": 2,
+  "content": "那假设说没有碰到半线",
+  "music": 0.0
+ },
+ {
+  "from": 546.9,
+  "to": 547.96,
+  "sid": 288,
+  "location": 2,
+  "content": "然后你听到这里有人",
+  "music": 0.0
+ },
+ {
+  "from": 547.96,
+  "to": 549.3,
+  "sid": 289,
+  "location": 2,
+  "content": "我就可以起这两个烟",
+  "music": 0.0
+ },
+ {
+  "from": 549.3,
+  "to": 551.42,
+  "sid": 290,
+  "location": 2,
+  "content": "然后外面走这里是有一点点角度",
+  "music": 0.0
+ },
+ {
+  "from": 551.42,
+  "to": 551.9,
+  "sid": 291,
+  "location": 2,
+  "content": "但没关系",
+  "music": 0.0
+ },
+ {
+  "from": 551.9,
+  "to": 553.06,
+  "sid": 292,
+  "location": 2,
+  "content": "你看我这样走过来就不会",
+  "music": 0.0
+ },
+ {
+  "from": 553.06,
+  "to": 555.24,
+  "sid": 293,
+  "location": 2,
+  "content": "这不会被敌方看到了啊",
+  "music": 0.0
+ },
+ {
+  "from": 555.24,
+  "to": 556.5,
+  "sid": 294,
+  "location": 2,
+  "content": "所以这个其实是安全的",
+  "music": 0.0
+ },
+ {
+  "from": 556.5,
+  "to": 558.0,
+  "sid": 295,
+  "location": 2,
+  "content": "我们这样走出来的时候",
+  "music": 0.0
+ },
+ {
+  "from": 558.0,
+  "to": 560.4,
+  "sid": 296,
+  "location": 2,
+  "content": "全部都是预瞄这个位置啊",
+  "music": 0.0
+ },
+ {
+  "from": 560.4,
+  "to": 561.6,
+  "sid": 297,
+  "location": 2,
+  "content": "这样走过来之后",
+  "music": 0.0
+ },
+ {
+  "from": 561.6,
+  "to": 562.84,
+  "sid": 298,
+  "location": 2,
+  "content": "敌方会在这里下包吗",
+  "music": 0.0
+ },
+ {
+  "from": 562.84,
+  "to": 563.32,
+  "sid": 299,
+  "location": 2,
+  "content": "或者什么的",
+  "music": 0.0
+ },
+ {
+  "from": 563.32,
+  "to": 565.16,
+  "sid": 300,
+  "location": 2,
+  "content": "你可以让星坠也再点个阵啊",
+  "music": 0.0
+ },
+ {
+  "from": 565.16,
+  "to": 568.22,
+  "sid": 301,
+  "location": 2,
+  "content": "以及包括说像这里再给个悬崖烟",
+  "music": 0.0
+ },
+ {
+  "from": 568.22,
+  "to": 571.54,
+  "sid": 302,
+  "location": 2,
+  "content": "或者说这里给个单向烟囚笼启动啊",
+  "music": 0.0
+ },
+ {
+  "from": 571.54,
+  "to": 572.62,
+  "sid": 303,
+  "location": 2,
+  "content": "这样我们走出来打的时候",
+  "music": 0.0
+ },
+ {
+  "from": 572.62,
+  "to": 574.88,
+  "sid": 304,
+  "location": 2,
+  "content": "就可以比较轻松的打这一块的敌人",
+  "music": 0.0
+ },
+ {
+  "from": 574.88,
+  "to": 576.18,
+  "sid": 305,
+  "location": 2,
+  "content": "而且呢给大家看看",
+  "music": 0.0
+ },
+ {
+  "from": 576.18,
+  "to": 578.24,
+  "sid": 306,
+  "location": 2,
+  "content": "就是进攻方他来悬崖之后",
+  "music": 0.0
+ },
+ {
+  "from": 578.24,
+  "to": 580.8,
+  "sid": 307,
+  "location": 2,
+  "content": "他的第一反应是预瞄这里的啊",
+  "music": 0.0
+ },
+ {
+  "from": 580.8,
+  "to": 584.42,
+  "sid": 308,
+  "location": 2,
+  "content": "就是预瞄这个出二楼的出烟点",
+  "music": 0.0
+ },
+ {
+  "from": 584.42,
+  "to": 587.6,
+  "sid": 309,
+  "location": 2,
+  "content": "但是我们的人会走到这里",
+  "music": 0.0
+ },
+ {
+  "from": 587.96,
+  "to": 590.64,
+  "sid": 310,
+  "location": 2,
+  "content": "我要给大家看一下这个位置",
+  "music": 0.0
+ },
+ {
+  "from": 592.48,
+  "to": 594.44,
+  "sid": 311,
+  "location": 2,
+  "content": "啊就是在这看到吗",
+  "music": 0.0
+ },
+ {
+  "from": 594.44,
+  "to": 596.28,
+  "sid": 312,
+  "location": 2,
+  "content": "就会被这个板子挡住",
+  "music": 0.0
+ },
+ {
+  "from": 596.28,
+  "to": 597.66,
+  "sid": 313,
+  "location": 2,
+  "content": "但是我们可以看到他的脚",
+  "music": 0.0
+ },
+ {
+  "from": 597.66,
+  "to": 600.32,
+  "sid": 314,
+  "location": 2,
+  "content": "所以在进攻方的角度来说",
+  "music": 0.0
+ },
+ {
+  "from": 600.32,
+  "to": 602.51,
+  "sid": 315,
+  "location": 2,
+  "content": "他很多时候是看不到我们",
+  "music": 0.0
+ },
+ {
+  "from": 602.51,
+  "to": 604.41,
+  "sid": 316,
+  "location": 2,
+  "content": "或者说他的预瞄不在我们这",
+  "music": 0.0
+ },
+ {
+  "from": 604.41,
+  "to": 606.15,
+  "sid": 317,
+  "location": 2,
+  "content": "但我们的预瞄就是很明确",
+  "music": 0.0
+ },
+ {
+  "from": 606.15,
+  "to": 606.83,
+  "sid": 318,
+  "location": 2,
+  "content": "就是在这里",
+  "music": 0.0
+ },
+ {
+  "from": 606.83,
+  "to": 608.689,
+  "sid": 319,
+  "location": 2,
+  "content": "敌方的头以及走过来之后",
+  "music": 0.0
+ },
+ {
+  "from": 608.689,
+  "to": 610.529,
+  "sid": 320,
+  "location": 2,
+  "content": "就是预瞄这一块位置啊",
+  "music": 0.0
+ },
+ {
+  "from": 610.529,
+  "to": 612.289,
+  "sid": 321,
+  "location": 2,
+  "content": "所以我们的对象是有很大的优势的",
+  "music": 0.0
+ },
+ {
+  "from": 612.289,
+  "to": 615.17,
+  "sid": 322,
+  "location": 2,
+  "content": "这个也是大家主要看PUB的实战啊",
+  "music": 0.0
+ },
+ {
+  "from": 615.17,
+  "to": 616.09,
+  "sid": 323,
+  "location": 2,
+  "content": "他怎么去运用",
+  "music": 0.0
+ },
+ {
+  "from": 616.09,
+  "to": 618.21,
+  "sid": 324,
+  "location": 2,
+  "content": "你也可以去尝试一下防守",
+  "music": 0.0
+ },
+ {
+  "from": 618.21,
+  "to": 619.33,
+  "sid": 325,
+  "location": 2,
+  "content": "要跟大家强调的一点",
+  "music": 0.0
+ },
+ {
+  "from": 619.33,
+  "to": 621.13,
+  "sid": 326,
+  "location": 2,
+  "content": "就是很多朋友玩的时候",
+  "music": 0.0
+ },
+ {
+  "from": 621.13,
+  "to": 624.2,
+  "sid": 327,
+  "location": 2,
+  "content": "比如说呃我不是就在这样喝茶了对吧",
+  "music": 0.0
+ },
+ {
+  "from": 624.2,
+  "to": 626.1,
+  "sid": 328,
+  "location": 2,
+  "content": "然后我就在这坐坐一整天",
+  "music": 0.0
+ },
+ {
+  "from": 626.1,
+  "to": 627.36,
+  "sid": 329,
+  "location": 2,
+  "content": "坐了一整天之后呢",
+  "music": 0.0
+ },
+ {
+  "from": 627.36,
+  "to": 629.6,
+  "sid": 330,
+  "location": 2,
+  "content": "A点的队友乓乓乓乓乓全倒了",
+  "music": 0.0
+ },
+ {
+  "from": 629.6,
+  "to": 630.88,
+  "sid": 331,
+  "location": 2,
+  "content": "然后我方仅剩一人",
+  "music": 0.0
+ },
+ {
+  "from": 630.88,
+  "to": 631.849,
+  "sid": 332,
+  "location": 2,
+  "content": "然后你在这走",
+  "music": 0.0
+ },
+ {
+  "from": 631.849,
+  "to": 633.08,
+  "sid": 333,
+  "location": 2,
+  "content": "然后收回来",
+  "music": 0.0
+ },
+ {
+  "from": 633.08,
+  "to": 634.16,
+  "sid": 334,
+  "location": 2,
+  "content": "然后说哎呀",
+  "music": 0.0
+ },
+ {
+  "from": 634.16,
+  "to": 635.24,
+  "sid": 335,
+  "location": 2,
+  "content": "我又开始回防一打",
+  "music": 0.0
+ },
+ {
+  "from": 635.24,
+  "to": 636.16,
+  "sid": 336,
+  "location": 2,
+  "content": "补什么刷机",
+  "music": 0.0
+ },
+ {
+  "from": 636.16,
+  "to": 638.16,
+  "sid": 337,
+  "location": 2,
+  "content": "但大家要想到的一点是什么",
+  "music": 0.0
+ },
+ {
+  "from": 638.16,
+  "to": 640.64,
+  "sid": 338,
+  "location": 2,
+  "content": "就是我们作为少尉有一个优势呢",
+  "music": 0.0
+ },
+ {
+  "from": 640.64,
+  "to": 644.9,
+  "sid": 339,
+  "location": 2,
+  "content": "就是我们这个道具相当于是团队第六人",
+  "music": 0.0
+ },
+ {
+  "from": 644.9,
+  "to": 648.16,
+  "sid": 340,
+  "location": 2,
+  "content": "也就是说我们道具都放完了",
+  "music": 0.0
+ },
+ {
+  "from": 648.16,
+  "to": 649.52,
+  "sid": 341,
+  "location": 2,
+  "content": "比如说前面放了道具",
+  "music": 0.0
+ },
+ {
+  "from": 649.52,
+  "to": 650.92,
+  "sid": 342,
+  "location": 2,
+  "content": "或者说有个摄像头摆在这",
+  "music": 0.0
+ },
+ {
+  "from": 650.92,
+  "to": 653.52,
+  "sid": 343,
+  "location": 2,
+  "content": "那我们就算本体不在这个B点",
+  "music": 0.0
+ },
+ {
+  "from": 653.52,
+  "to": 655.45,
+  "sid": 344,
+  "location": 2,
+  "content": "我是不是也可以拿摄像头拿信息",
+  "music": 0.0
+ },
+ {
+  "from": 655.45,
+  "to": 656.29,
+  "sid": 345,
+  "location": 2,
+  "content": "那我现在是不是",
+  "music": 0.0
+ },
+ {
+  "from": 656.29,
+  "to": 658.64,
+  "sid": 346,
+  "location": 2,
+  "content": "相当于就已经把这一块土都控住了",
+  "music": 0.0
+ },
+ {
+  "from": 658.64,
+  "to": 660.14,
+  "sid": 347,
+  "location": 2,
+  "content": "那中路打的很欢",
+  "music": 0.0
+ },
+ {
+  "from": 660.14,
+  "to": 661.16,
+  "sid": 348,
+  "location": 2,
+  "content": "我的队友也在中路",
+  "music": 0.0
+ },
+ {
+  "from": 661.16,
+  "to": 664.07,
+  "sid": 349,
+  "location": 2,
+  "content": "我是不是就可以出去跟队友一起打架啊",
+  "music": 0.0
+ },
+ {
+  "from": 664.07,
+  "to": 665.03,
+  "sid": 350,
+  "location": 2,
+  "content": "来这帮帮棒",
+  "music": 0.0
+ },
+ {
+  "from": 665.03,
+  "to": 665.83,
+  "sid": 351,
+  "location": 2,
+  "content": "或者来这帮帮棒",
+  "music": 0.0
+ },
+ {
+  "from": 665.83,
+  "to": 669.34,
+  "sid": 352,
+  "location": 2,
+  "content": "或者说他在对局里有的时候会压到这个位置啊",
+  "music": 0.0
+ },
+ {
+  "from": 669.34,
+  "to": 670.02,
+  "sid": 353,
+  "location": 2,
+  "content": "然后卡在这",
+  "music": 0.0
+ },
+ {
+  "from": 670.02,
+  "to": 671.3,
+  "sid": 354,
+  "location": 2,
+  "content": "然后偶尔看一下这个摄像头",
+  "music": 0.0
+ },
+ {
+  "from": 671.3,
+  "to": 672.2,
+  "sid": 355,
+  "location": 2,
+  "content": "发现B也没人",
+  "music": 0.0
+ },
+ {
+  "from": 672.2,
+  "to": 673.76,
+  "sid": 356,
+  "location": 2,
+  "content": "然后自己再来这里空中",
+  "music": 0.0
+ },
+ {
+  "from": 673.76,
+  "to": 674.62,
+  "sid": 357,
+  "location": 2,
+  "content": "那这样",
+  "music": 0.0
+ },
+ {
+  "from": 674.62,
+  "to": 678.68,
+  "sid": 358,
+  "location": 2,
+  "content": "你看啊队友视角是不是我们把B点控住了",
+  "music": 0.0
+ },
+ {
+  "from": 678.68,
+  "to": 680.18,
+  "sid": 359,
+  "location": 2,
+  "content": "然后我们本体又在中路",
+  "music": 0.0
+ },
+ {
+  "from": 680.18,
+  "to": 681.79,
+  "sid": 360,
+  "location": 2,
+  "content": "知道没有没有没有压",
+  "music": 0.0
+ },
+ {
+  "from": 681.79,
+  "to": 684.69,
+  "sid": 361,
+  "location": 2,
+  "content": "那队友是不是就可以完全的安心的",
+  "music": 0.0
+ },
+ {
+  "from": 684.69,
+  "to": 686.92,
+  "sid": 362,
+  "location": 2,
+  "content": "就是在A这里跟敌人打架",
+  "music": 0.0
+ },
+ {
+  "from": 686.92,
+  "to": 688.52,
+  "sid": 363,
+  "location": 2,
+  "content": "或者说我们这样信息拿完",
+  "music": 0.0
+ },
+ {
+  "from": 688.52,
+  "to": 690.68,
+  "sid": 364,
+  "location": 2,
+  "content": "是不是敌方其实人就在这一块啊",
+  "music": 0.0
+ },
+ {
+  "from": 690.68,
+  "to": 692.95,
+  "sid": 365,
+  "location": 2,
+  "content": "这就是一个优秀的少尉",
+  "music": 0.0
+ },
+ {
+  "from": 692.95,
+  "to": 695.83,
+  "sid": 366,
+  "location": 2,
+  "content": "他可以做到更多的事情来帮助团队建立优势",
+  "music": 0.0
+ },
+ {
+  "from": 695.83,
+  "to": 697.56,
+  "sid": 367,
+  "location": 2,
+  "content": "所以大家有的时候就是说",
+  "music": 0.0
+ },
+ {
+  "from": 697.56,
+  "to": 698.84,
+  "sid": 368,
+  "location": 2,
+  "content": "敌方如果没有打你这个点",
+  "music": 0.0
+ },
+ {
+  "from": 698.84,
+  "to": 700.6,
+  "sid": 369,
+  "location": 2,
+  "content": "你可以用道具去守点",
+  "music": 0.0
+ },
+ {
+  "from": 700.6,
+  "to": 702.2,
+  "sid": 370,
+  "location": 2,
+  "content": "然后自己本体出来打架",
+  "music": 0.0
+ },
+ {
+  "from": 702.2,
+  "to": 704.44,
+  "sid": 371,
+  "location": 2,
+  "content": "这样你打架的频率也更高",
+  "music": 0.0
+ },
+ {
+  "from": 704.44,
+  "to": 705.76,
+  "sid": 372,
+  "location": 2,
+  "content": "你的手感保持也更好",
+  "music": 0.0
+ },
+ {
+  "from": 705.76,
+  "to": 708.3,
+  "sid": 373,
+  "location": 2,
+  "content": "也不会经常出现我方仅剩一人的情况",
+  "music": 0.0
+ },
+ {
+  "from": 708.3,
+  "to": 710.76,
+  "sid": 374,
+  "location": 2,
+  "content": "这个是所有有信息的少尉都通用的一点",
+  "music": 0.0
+ },
+ {
+  "from": 710.76,
+  "to": 711.5,
+  "sid": 375,
+  "location": 2,
+  "content": "具体思路",
+  "music": 0.0
+ },
+ {
+  "from": 711.5,
+  "to": 714.14,
+  "sid": 376,
+  "location": 2,
+  "content": "大家可以等下看POV的时候学习啊",
+  "music": 0.0
+ },
+ {
+  "from": 714.14,
+  "to": 715.61,
+  "sid": 377,
+  "location": 2,
+  "content": "接下来讲进攻啊",
+  "music": 0.0
+ },
+ {
+  "from": 715.61,
+  "to": 716.61,
+  "sid": 378,
+  "location": 2,
+  "content": "进攻最重要的一点呢",
+  "music": 0.0
+ },
+ {
+  "from": 716.61,
+  "to": 719.55,
+  "sid": 379,
+  "location": 2,
+  "content": "就是要放一根这个A点的防前压半线",
+  "music": 0.0
+ },
+ {
+  "from": 719.55,
+  "to": 720.61,
+  "sid": 380,
+  "location": 2,
+  "content": "以及防绕后半线",
+  "music": 0.0
+ },
+ {
+  "from": 720.61,
+  "to": 723.47,
+  "sid": 381,
+  "location": 2,
+  "content": "那我们不能放的太靠这边啊",
+  "music": 0.0
+ },
+ {
+  "from": 723.47,
+  "to": 724.73,
+  "sid": 382,
+  "location": 2,
+  "content": "因为这里有个箱子",
+  "music": 0.0
+ },
+ {
+  "from": 724.73,
+  "to": 727.67,
+  "sid": 383,
+  "location": 2,
+  "content": "比如说霓虹可能呃加速跳就跳过来",
+  "music": 0.0
+ },
+ {
+  "from": 727.67,
+  "to": 729.17,
+  "sid": 384,
+  "location": 2,
+  "content": "包括说像杰风",
+  "music": 0.0
+ },
+ {
+  "from": 729.17,
+  "to": 731.13,
+  "sid": 385,
+  "location": 2,
+  "content": "他有飘的技能就会飘过来啊",
+  "music": 0.0
+ },
+ {
+  "from": 731.13,
+  "to": 733.65,
+  "sid": 386,
+  "location": 2,
+  "content": "所以我们就是靠的稍微靠这边一点点即可",
+  "music": 0.0
+ },
+ {
+  "from": 733.65,
+  "to": 736.53,
+  "sid": 387,
+  "location": 2,
+  "content": "但你有的时候比如说我放的太靠这边",
+  "music": 0.0
+ },
+ {
+  "from": 736.53,
+  "to": 739.11,
+  "sid": 388,
+  "location": 2,
+  "content": "那敌人是不是来这里就可以看到这儿啊",
+  "music": 0.0
+ },
+ {
+  "from": 739.11,
+  "to": 741.03,
+  "sid": 389,
+  "location": 2,
+  "content": "包括说看到我们这个高台这里啊",
+  "music": 0.0
+ },
+ {
+  "from": 741.03,
+  "to": 742.43,
+  "sid": 390,
+  "location": 2,
+  "content": "所以我们就是放到中间这里",
+  "music": 0.0
+ },
+ {
+  "from": 742.43,
+  "to": 744.88,
+  "sid": 391,
+  "location": 2,
+  "content": "那他在这里的时候打不到我们中的人",
+  "music": 0.0
+ },
+ {
+  "from": 744.88,
+  "to": 746.1,
+  "sid": 392,
+  "location": 2,
+  "content": "他只有把这个打了",
+  "music": 0.0
+ },
+ {
+  "from": 746.1,
+  "to": 746.84,
+  "sid": 393,
+  "location": 2,
+  "content": "然后才能过来",
+  "music": 0.0
+ },
+ {
+  "from": 746.84,
+  "to": 747.96,
+  "sid": 394,
+  "location": 2,
+  "content": "那你已经拿到信息了",
+  "music": 0.0
+ },
+ {
+  "from": 747.96,
+  "to": 750.02,
+  "sid": 395,
+  "location": 2,
+  "content": "虽然有也只有一秒钟之差",
+  "music": 0.0
+ },
+ {
+  "from": 750.02,
+  "to": 751.2,
+  "sid": 396,
+  "location": 2,
+  "content": "但这个还挺关键的",
+  "music": 0.0
+ },
+ {
+  "from": 751.2,
+  "to": 754.22,
+  "sid": 397,
+  "location": 2,
+  "content": "进攻的打法呢就没有办法一句话两句话来概括",
+  "music": 0.0
+ },
+ {
+  "from": 754.22,
+  "to": 758.76,
+  "sid": 398,
+  "location": 2,
+  "content": "大就是尽量多去看POV以及看POV中他的打法",
+  "music": 0.0
+ },
+ {
+  "from": 758.76,
+  "to": 760.44,
+  "sid": 399,
+  "location": 2,
+  "content": "去思考他为什么这么做",
+  "music": 0.0
+ },
+ {
+  "from": 760.44,
+  "to": 761.6,
+  "sid": 400,
+  "location": 2,
+  "content": "不要固定思维",
+  "music": 0.0
+ },
+ {
+  "from": 761.6,
+  "to": 762.96,
+  "sid": 401,
+  "location": 2,
+  "content": "觉得我是少尉",
+  "music": 0.0
+ },
+ {
+  "from": 762.96,
+  "to": 763.66,
+  "sid": 402,
+  "location": 2,
+  "content": "我必须单摸",
+  "music": 0.0
+ },
+ {
+  "from": 763.66,
+  "to": 766.8,
+  "sid": 403,
+  "location": 2,
+  "content": "或者说你开做了默认来控图之后",
+  "music": 0.0
+ },
+ {
+  "from": 766.8,
+  "to": 768.28,
+  "sid": 404,
+  "location": 2,
+  "content": "比如说我跟队友四一分推嘛对吧",
+  "music": 0.0
+ },
+ {
+  "from": 768.28,
+  "to": 770.2,
+  "sid": 405,
+  "location": 2,
+  "content": "他四个人走这我一个人走这",
+  "music": 0.0
+ },
+ {
+  "from": 770.2,
+  "to": 771.64,
+  "sid": 406,
+  "location": 2,
+  "content": "然后你就作为一个上位",
+  "music": 0.0
+ },
+ {
+  "from": 771.64,
+  "to": 775.53,
+  "sid": 407,
+  "location": 2,
+  "content": "我就必须要啊往前推往前推推推推到他家里面",
+  "music": 0.0
+ },
+ {
+  "from": 775.53,
+  "to": 777.8,
+  "sid": 408,
+  "location": 2,
+  "content": "或者说呃就必须要渗透",
+  "music": 0.0
+ },
+ {
+  "from": 777.8,
+  "to": 779.16,
+  "sid": 409,
+  "location": 2,
+  "content": "然后你走到一半死了",
+  "music": 0.0
+ },
+ {
+  "from": 779.16,
+  "to": 781.44,
+  "sid": 410,
+  "location": 2,
+  "content": "或者说摸半天队友正面死完了",
+  "music": 0.0
+ },
+ {
+  "from": 781.44,
+  "to": 782.28,
+  "sid": 411,
+  "location": 2,
+  "content": "然后你就紧急绕后",
+  "music": 0.0
+ },
+ {
+  "from": 782.28,
+  "to": 783.08,
+  "sid": 412,
+  "location": 2,
+  "content": "然后又输了",
+  "music": 0.0
+ },
+ {
+  "from": 783.08,
+  "to": 785.32,
+  "sid": 413,
+  "location": 2,
+  "content": "就好比他这一回合吧",
+  "music": 0.0
+ },
+ {
+  "from": 785.32,
+  "to": 788.06,
+  "sid": 414,
+  "location": 2,
+  "content": "他开局来中路就在这架狙嘛",
+  "music": 0.0
+ },
+ {
+  "from": 788.06,
+  "to": 791.0,
+  "sid": 415,
+  "location": 2,
+  "content": "然后队友在A点其实打的很凶",
+  "music": 0.0
+ },
+ {
+  "from": 791.0,
+  "to": 792.94,
+  "sid": 416,
+  "location": 2,
+  "content": "还可以知道A2楼还有个猎枭",
+  "music": 0.0
+ },
+ {
+  "from": 792.94,
+  "to": 794.66,
+  "sid": 417,
+  "location": 2,
+  "content": "那剩下一个镜面",
+  "music": 0.0
+ },
+ {
+  "from": 794.66,
+  "to": 796.54,
+  "sid": 418,
+  "location": 2,
+  "content": "一个牧蝶都打成这样了",
+  "music": 0.0
+ },
+ {
+  "from": 796.54,
+  "to": 797.5,
+  "sid": 419,
+  "location": 2,
+  "content": "中路也没看到人",
+  "music": 0.0
+ },
+ {
+  "from": 797.5,
+  "to": 799.22,
+  "sid": 420,
+  "location": 2,
+  "content": "你觉得敌方现在在什么位置",
+  "music": 0.0
+ },
+ {
+  "from": 799.22,
+  "to": 800.26,
+  "sid": 421,
+  "location": 2,
+  "content": "要么B前压",
+  "music": 0.0
+ },
+ {
+  "from": 800.26,
+  "to": 801.64,
+  "sid": 422,
+  "location": 2,
+  "content": "要么走CD回防对吧",
+  "music": 0.0
+ },
+ {
+  "from": 801.64,
+  "to": 803.349,
+  "sid": 423,
+  "location": 2,
+  "content": "那你在这里架枪也没有意义",
+  "music": 0.0
+ },
+ {
+  "from": 803.349,
+  "to": 804.029,
+  "sid": 424,
+  "location": 2,
+  "content": "往前摸",
+  "music": 0.0
+ },
+ {
+  "from": 804.029,
+  "to": 804.989,
+  "sid": 425,
+  "location": 2,
+  "content": "你也害怕进步",
+  "music": 0.0
+ },
+ {
+  "from": 804.989,
+  "to": 805.629,
+  "sid": 426,
+  "location": 2,
+  "content": "你又太慢",
+  "music": 0.0
+ },
+ {
+  "from": 805.629,
+  "to": 807.109,
+  "sid": 427,
+  "location": 2,
+  "content": "那就干脆直接回到正面",
+  "music": 0.0
+ },
+ {
+  "from": 807.109,
+  "to": 808.469,
+  "sid": 428,
+  "location": 2,
+  "content": "和队友一起打架就好了",
+  "music": 0.0
+ },
+ {
+  "from": 808.469,
+  "to": 810.15,
+  "sid": 429,
+  "location": 2,
+  "content": "没有什么关系的",
+  "music": 0.0
+ },
+ {
+  "from": 810.31,
+  "to": 811.85,
+  "sid": 430,
+  "location": 2,
+  "content": "One enemy remaining",
+  "music": 0.0
+ },
+ {
+  "from": 811.85,
+  "to": 812.43,
+  "sid": 431,
+  "location": 2,
+  "content": "Oh",
+  "music": 0.0
+ },
+ {
+  "from": 814.71,
+  "to": 816.02,
+  "sid": 432,
+  "location": 2,
+  "content": "That's a golf",
+  "music": 0.0
+ },
+ {
+  "from": 817.22,
+  "to": 818.62,
+  "sid": 433,
+  "location": 2,
+  "content": "还有一个需要提示的点",
+  "music": 0.0
+ },
+ {
+  "from": 818.62,
+  "to": 820.86,
+  "sid": 434,
+  "location": 2,
+  "content": "就是很多人玩少尉的时候",
+  "music": 0.0
+ },
+ {
+  "from": 820.86,
+  "to": 822.44,
+  "sid": 435,
+  "location": 2,
+  "content": "他就开局放完这个道具之后",
+  "music": 0.0
+ },
+ {
+  "from": 822.44,
+  "to": 825.15,
+  "sid": 436,
+  "location": 2,
+  "content": "就不知道后续该怎么办的啊",
+  "music": 0.0
+ },
+ {
+  "from": 825.15,
+  "to": 825.95,
+  "sid": 437,
+  "location": 2,
+  "content": "有的好一点",
+  "music": 0.0
+ },
+ {
+  "from": 825.95,
+  "to": 829.12,
+  "sid": 438,
+  "location": 2,
+  "content": "可能在这里会放个摄像头啊",
+  "music": 0.0
+ },
+ {
+  "from": 829.12,
+  "to": 830.04,
+  "sid": 439,
+  "location": 2,
+  "content": "我在这放个摄像头",
+  "music": 0.0
+ },
+ {
+  "from": 830.04,
+  "to": 832.34,
+  "sid": 440,
+  "location": 2,
+  "content": "然后看看敌方A有没有前压对吧",
+  "music": 0.0
+ },
+ {
+  "from": 832.34,
+  "to": 834.54,
+  "sid": 441,
+  "location": 2,
+  "content": "然后放完之后也不收回来",
+  "music": 0.0
+ },
+ {
+  "from": 834.54,
+  "to": 836.78,
+  "sid": 442,
+  "location": 2,
+  "content": "然后你就忘了自己有这个技能了",
+  "music": 0.0
+ },
+ {
+  "from": 836.78,
+  "to": 840.08,
+  "sid": 443,
+  "location": 2,
+  "content": "大家都知道你不单单有半线啊",
+  "music": 0.0
+ },
+ {
+  "from": 840.08,
+  "to": 841.24,
+  "sid": 444,
+  "location": 2,
+  "content": "你还有两根半线",
+  "music": 0.0
+ },
+ {
+  "from": 841.24,
+  "to": 842.62,
+  "sid": 445,
+  "location": 2,
+  "content": "两个烟以及摄像头",
+  "music": 0.0
+ },
+ {
+  "from": 842.62,
+  "to": 844.089,
+  "sid": 446,
+  "location": 2,
+  "content": "摄像头还能回回收",
+  "music": 0.0
+ },
+ {
+  "from": 844.089,
+  "to": 848.449,
+  "sid": 447,
+  "location": 2,
+  "content": "那你的烟可以来帮助队友往前推进啊",
+  "music": 0.0
+ },
+ {
+  "from": 848.449,
+  "to": 849.829,
+  "sid": 448,
+  "location": 2,
+  "content": "你看这样可以直接推",
+  "music": 0.0
+ },
+ {
+  "from": 849.829,
+  "to": 851.589,
+  "sid": 449,
+  "location": 2,
+  "content": "然后你的半线呢也可以",
+  "music": 0.0
+ },
+ {
+  "from": 851.589,
+  "to": 852.989,
+  "sid": 450,
+  "location": 2,
+  "content": "比如说我这里下完包了",
+  "music": 0.0
+ },
+ {
+  "from": 852.989,
+  "to": 853.469,
+  "sid": 451,
+  "location": 2,
+  "content": "对不对",
+  "music": 0.0
+ },
+ {
+  "from": 853.469,
+  "to": 855.149,
+  "sid": 452,
+  "location": 2,
+  "content": "那我就再放一根这样的线",
+  "music": 0.0
+ },
+ {
+  "from": 855.149,
+  "to": 856.8,
+  "sid": 453,
+  "location": 2,
+  "content": "然后在这里盖个烟",
+  "music": 0.0
+ },
+ {
+  "from": 856.8,
+  "to": 857.92,
+  "sid": 454,
+  "location": 2,
+  "content": "那我在这守包的时候",
+  "music": 0.0
+ },
+ {
+  "from": 857.92,
+  "to": 858.96,
+  "sid": 455,
+  "location": 2,
+  "content": "是不是敌人要过来",
+  "music": 0.0
+ },
+ {
+  "from": 858.96,
+  "to": 859.8,
+  "sid": 456,
+  "location": 2,
+  "content": "我就直接起烟",
+  "music": 0.0
+ },
+ {
+  "from": 859.8,
+  "to": 862.32,
+  "sid": 457,
+  "location": 2,
+  "content": "那他是不是就更难去拆我们的包对吧",
+  "music": 0.0
+ },
+ {
+  "from": 862.32,
+  "to": 864.86,
+  "sid": 458,
+  "location": 2,
+  "content": "以及像现在很多情况下",
+  "music": 0.0
+ },
+ {
+  "from": 864.86,
+  "to": 866.58,
+  "sid": 459,
+  "location": 2,
+  "content": "大家对局里面都是牧蝶",
+  "music": 0.0
+ },
+ {
+  "from": 866.58,
+  "to": 868.26,
+  "sid": 460,
+  "location": 2,
+  "content": "牧蝶烟的持续时间又短",
+  "music": 0.0
+ },
+ {
+  "from": 868.26,
+  "to": 871.1,
+  "sid": 461,
+  "location": 2,
+  "content": "然后对方猎枭会射这个探测箭",
+  "music": 0.0
+ },
+ {
+  "from": 871.1,
+  "to": 873.259,
+  "sid": 462,
+  "location": 2,
+  "content": "然后星坠会点个吸",
+  "music": 0.0
+ },
+ {
+  "from": 873.259,
+  "to": 875.179,
+  "sid": 463,
+  "location": 2,
+  "content": "或者说有什么火啊之类的技能",
+  "music": 0.0
+ },
+ {
+  "from": 875.179,
+  "to": 875.639,
+  "sid": 464,
+  "location": 2,
+  "content": "拖一拖",
+  "music": 0.0
+ },
+ {
+  "from": 875.639,
+  "to": 876.779,
+  "sid": 465,
+  "location": 2,
+  "content": "你在进点下包的时候",
+  "music": 0.0
+ },
+ {
+  "from": 876.779,
+  "to": 877.899,
+  "sid": 466,
+  "location": 2,
+  "content": "这个烟是不是就散了",
+  "music": 0.0
+ },
+ {
+  "from": 877.899,
+  "to": 879.059,
+  "sid": 467,
+  "location": 2,
+  "content": "那作为保安",
+  "music": 0.0
+ },
+ {
+  "from": 879.059,
+  "to": 883.08,
+  "sid": 468,
+  "location": 2,
+  "content": "我们就可以在这里帮忙续一个这个二楼的烟啊",
+  "music": 0.0
+ },
+ {
+  "from": 883.08,
+  "to": 884.28,
+  "sid": 469,
+  "location": 2,
+  "content": "当然这个烟有点难扔啊",
+  "music": 0.0
+ },
+ {
+  "from": 884.28,
+  "to": 886.12,
+  "sid": 470,
+  "location": 2,
+  "content": "大家就是看这个这个会有缝",
+  "music": 0.0
+ },
+ {
+  "from": 886.12,
+  "to": 888.21,
+  "sid": 471,
+  "location": 2,
+  "content": "那他可能就这样走出来去打",
+  "music": 0.0
+ },
+ {
+  "from": 888.21,
+  "to": 893.46,
+  "sid": 472,
+  "location": 2,
+  "content": "大家就要知道我是能够啧囚笼启动啊",
+  "music": 0.0
+ },
+ {
+  "from": 893.46,
+  "to": 894.52,
+  "sid": 473,
+  "location": 2,
+  "content": "这这个比较难",
+  "music": 0.0
+ },
+ {
+  "from": 894.52,
+  "to": 896.22,
+  "sid": 474,
+  "location": 2,
+  "content": "我自己不是专门玩保安的",
+  "music": 0.0
+ },
+ {
+  "from": 896.22,
+  "to": 898.8,
+  "sid": 475,
+  "location": 2,
+  "content": "但是大家知道就是呃玩保安",
+  "music": 0.0
+ },
+ {
+  "from": 898.8,
+  "to": 899.6,
+  "sid": 476,
+  "location": 2,
+  "content": "你可以续烟",
+  "music": 0.0
+ },
+ {
+  "from": 899.6,
+  "to": 903.04,
+  "sid": 477,
+  "location": 2,
+  "content": "也包括说像这个后面可以给个烟啊",
+  "music": 0.0
+ },
+ {
+  "from": 903.04,
+  "to": 904.56,
+  "sid": 478,
+  "location": 2,
+  "content": "然后在这里再挂个半线什么的",
+  "music": 0.0
+ },
+ {
+  "from": 904.56,
+  "to": 905.45,
+  "sid": 479,
+  "location": 2,
+  "content": "可以拿信息",
+  "music": 0.0
+ },
+ {
+  "from": 905.45,
+  "to": 906.37,
+  "sid": 480,
+  "location": 2,
+  "content": "那大家一定要知道",
+  "music": 0.0
+ },
+ {
+  "from": 906.37,
+  "to": 908.27,
+  "sid": 481,
+  "location": 2,
+  "content": "我后面还是有非常多的技能的",
+  "music": 0.0
+ },
+ {
+  "from": 908.27,
+  "to": 909.69,
+  "sid": 482,
+  "location": 2,
+  "content": "以及nice的一个打法",
+  "music": 0.0
+ },
+ {
+  "from": 909.69,
+  "to": 911.62,
+  "sid": 483,
+  "location": 2,
+  "content": "就是当他有大招的时候",
+  "music": 0.0
+ },
+ {
+  "from": 911.62,
+  "to": 914.02,
+  "sid": 484,
+  "location": 2,
+  "content": "他就会偏向于跟队友去打团",
+  "music": 0.0
+ },
+ {
+  "from": 914.02,
+  "to": 917.02,
+  "sid": 485,
+  "location": 2,
+  "content": "因为这样就不需要你一个人去单摸",
+  "music": 0.0
+ },
+ {
+  "from": 917.02,
+  "to": 917.58,
+  "sid": 486,
+  "location": 2,
+  "content": "拿到击杀",
+  "music": 0.0
+ },
+ {
+  "from": 917.58,
+  "to": 918.42,
+  "sid": 487,
+  "location": 2,
+  "content": "然后再开大",
+  "music": 0.0
+ },
+ {
+  "from": 918.42,
+  "to": 920.47,
+  "sid": 488,
+  "location": 2,
+  "content": "你只要跟着队友去打架",
+  "music": 0.0
+ },
+ {
+  "from": 920.47,
+  "to": 921.75,
+  "sid": 489,
+  "location": 2,
+  "content": "然后队友拿到击杀",
+  "music": 0.0
+ },
+ {
+  "from": 921.75,
+  "to": 923.19,
+  "sid": 490,
+  "location": 2,
+  "content": "你直接开大招即可",
+  "music": 0.0
+ },
+ {
+  "from": 923.19,
+  "to": 926.38,
+  "sid": 491,
+  "location": 2,
+  "content": "总之呢大家就是多看视频或者多看直播去学",
+  "music": 0.0
+ },
+ {
+  "from": 926.38,
+  "to": 928.06,
+  "sid": 492,
+  "location": 2,
+  "content": "看多了你经验就多了",
+  "music": 0.0
+ },
+ {
+  "from": 928.06,
+  "to": 930.28,
+  "sid": 493,
+  "location": 2,
+  "content": "遇到对应的情况就能做出对应的操作",
+  "music": 0.0
+ },
+ {
+  "from": 930.28,
+  "to": 933.12,
+  "sid": 494,
+  "location": 2,
+  "content": "这一期视频呢是三场对局合一嘛",
+  "music": 0.0
+ },
+ {
+  "from": 933.12,
+  "to": 936.17,
+  "sid": 495,
+  "location": 2,
+  "content": "我为了大家观看的顺序可以顺一点",
+  "music": 0.0
+ },
+ {
+  "from": 936.17,
+  "to": 939.61,
+  "sid": 496,
+  "location": 2,
+  "content": "我就是把呃类似的打法做到了一起啊",
+  "music": 0.0
+ },
+ {
+  "from": 939.61,
+  "to": 943.71,
+  "sid": 497,
+  "location": 2,
+  "content": "就可能呃连着的几个回合不是同一场对局",
+  "music": 0.0
+ },
+ {
+  "from": 943.71,
+  "to": 944.77,
+  "sid": 498,
+  "location": 2,
+  "content": "不是相同的英雄",
+  "music": 0.0
+ },
+ {
+  "from": 944.77,
+  "to": 946.09,
+  "sid": 499,
+  "location": 2,
+  "content": "但他的打法都很类似",
+  "music": 0.0
+ },
+ {
+  "from": 946.09,
+  "to": 948.92,
+  "sid": 500,
+  "location": 2,
+  "content": "比如说都是用烟往前扑往里面进",
+  "music": 0.0
+ },
+ {
+  "from": 948.92,
+  "to": 949.8,
+  "sid": 501,
+  "location": 2,
+  "content": "帮队友打补枪",
+  "music": 0.0
+ },
+ {
+  "from": 949.8,
+  "to": 951.64,
+  "sid": 502,
+  "location": 2,
+  "content": "或者说在中路先单挂",
+  "music": 0.0
+ },
+ {
+  "from": 951.64,
+  "to": 952.52,
+  "sid": 503,
+  "location": 2,
+  "content": "然后再转移",
+  "music": 0.0
+ },
+ {
+  "from": 952.52,
+  "to": 954.39,
+  "sid": 504,
+  "location": 2,
+  "content": "或者说防守的时候呃",
+  "music": 0.0
+ },
+ {
+  "from": 954.39,
+  "to": 955.87,
+  "sid": 505,
+  "location": 2,
+  "content": "怎么去守这个包点",
+  "music": 0.0
+ },
+ {
+  "from": 955.87,
+  "to": 958.49,
+  "sid": 506,
+  "location": 2,
+  "content": "就是我给大家展示的是打法",
+  "music": 0.0
+ },
+ {
+  "from": 958.49,
+  "to": 960.21,
+  "sid": 507,
+  "location": 2,
+  "content": "就大家不要太固定思路",
+  "music": 0.0
+ },
+ {
+  "from": 960.21,
+  "to": 962.5,
+  "sid": 508,
+  "location": 2,
+  "content": "就说我上一回合是ECO局",
+  "music": 0.0
+ },
+ {
+  "from": 962.5,
+  "to": 963.7,
+  "sid": 509,
+  "location": 2,
+  "content": "结果这回合怎么还是EO局",
+  "music": 0.0
+ },
+ {
+  "from": 963.7,
+  "to": 964.62,
+  "sid": 510,
+  "location": 2,
+  "content": "或者说我上一回有枪",
+  "music": 0.0
+ },
+ {
+  "from": 964.62,
+  "to": 965.46,
+  "sid": 511,
+  "location": 2,
+  "content": "这回又突然EO了",
+  "music": 0.0
+ },
+ {
+  "from": 965.46,
+  "to": 969.44,
+  "sid": 512,
+  "location": 2,
+  "content": "这种不同的英雄也有不同的灵活应对就好",
+  "music": 0.0
+ },
+ {
+  "from": 969.44,
+  "to": 971.04,
+  "sid": 513,
+  "location": 2,
+  "content": "如果大家有什么问题呢",
+  "music": 0.0
+ },
+ {
+  "from": 971.04,
+  "to": 973.06,
+  "sid": 514,
+  "location": 2,
+  "content": "也可以在评论区或者弹幕发出",
+  "music": 0.0
+ },
+ {
+  "from": 973.06,
+  "to": 975.02,
+  "sid": 515,
+  "location": 2,
+  "content": "如果你觉得这期视频对你有帮助的话",
+  "music": 0.0
+ },
+ {
+  "from": 975.02,
+  "to": 976.24,
+  "sid": 516,
+  "location": 2,
+  "content": "也欢迎分享给你的朋友",
+  "music": 0.0
+ },
+ {
+  "from": 976.24,
+  "to": 977.26,
+  "sid": 517,
+  "location": 2,
+  "content": "感谢大家的支持",
+  "music": 0.0
+ },
+ {
+  "from": 977.26,
+  "to": 978.28,
+  "sid": 518,
+  "location": 2,
+  "content": "祝大家游戏愉快",
+  "music": 0.0
+ },
+ {
+  "from": 978.28,
+  "to": 980.26,
+  "sid": 519,
+  "location": 2,
+  "content": "Thanks",
+  "music": 0.0
+ },
+ {
+  "from": 982.26,
+  "to": 984.64,
+  "sid": 520,
+  "location": 2,
+  "content": "You always wake up on notification of the stream",
+  "music": 0.0
+ },
+ {
+  "from": 984.64,
+  "to": 986.89,
+  "sid": 521,
+  "location": 2,
+  "content": "Oh wow",
+  "music": 0.0
+ },
+ {
+  "from": 987.61,
+  "to": 988.09,
+  "sid": 522,
+  "location": 2,
+  "content": "Like",
+  "music": 0.0
+ },
+ {
+  "from": 988.09,
+  "to": 992.92,
+  "sid": 523,
+  "location": 2,
+  "content": "What's the set up u this goes here",
+  "music": 0.0
+ },
+ {
+  "from": 992.92,
+  "to": 993.94,
+  "sid": 524,
+  "location": 2,
+  "content": "Let's go there",
+  "music": 0.0
+ },
+ {
+  "from": 993.94,
+  "to": 994.6,
+  "sid": 525,
+  "location": 2,
+  "content": "Hello",
+  "music": 0.0
+ },
+ {
+  "from": 994.6,
+  "to": 995.12,
+  "sid": 526,
+  "location": 2,
+  "content": "Hello",
+  "music": 0.0
+ },
+ {
+  "from": 995.12,
+  "to": 996.08,
+  "sid": 527,
+  "location": 2,
+  "content": "I think this is",
+  "music": 0.0
+ },
+ {
+  "from": 997.64,
+  "to": 999.04,
+  "sid": 528,
+  "location": 2,
+  "content": "I'm",
+  "music": 0.0
+ },
+ {
+  "from": 1007.0,
+  "to": 1008.08,
+  "sid": 529,
+  "location": 2,
+  "content": "I must wait a moment",
+  "music": 0.0
+ },
+ {
+  "from": 1009.84,
+  "to": 1011.2,
+  "sid": 530,
+  "location": 2,
+  "content": "Cage three",
+  "music": 0.0
+ },
+ {
+  "from": 1022.98,
+  "to": 1026.12,
+  "sid": 531,
+  "location": 2,
+  "content": "Nice spike down b",
+  "music": 0.0
+ },
+ {
+  "from": 1026.12,
+  "to": 1033.94,
+  "sid": 532,
+  "location": 2,
+  "content": "It's tb fresh flash",
+  "music": 0.0
+ },
+ {
+  "from": 1034.78,
+  "to": 1036.38,
+  "sid": 533,
+  "location": 2,
+  "content": "One enemy remaining",
+  "music": 0.0
+ },
+ {
+  "from": 1039.46,
+  "to": 1040.66,
+  "sid": 534,
+  "location": 2,
+  "content": "牛肉",
+  "music": 0.0
+ },
+ {
+  "from": 1044.12,
+  "to": 1045.52,
+  "sid": 535,
+  "location": 2,
+  "content": "Why you have okay",
+  "music": 0.0
+ },
+ {
+  "from": 1045.52,
+  "to": 1047.18,
+  "sid": 536,
+  "location": 2,
+  "content": "Why you have meds",
+  "music": 0.0
+ },
+ {
+  "from": 1047.18,
+  "to": 1047.76,
+  "sid": 537,
+  "location": 2,
+  "content": "Okay",
+  "music": 0.0
+ },
+ {
+  "from": 1047.76,
+  "to": 1051.7,
+  "sid": 538,
+  "location": 2,
+  "content": "I'm playing to reveing this smoked",
+  "music": 0.0
+ },
+ {
+  "from": 1055.14,
+  "to": 1057.86,
+  "sid": 539,
+  "location": 2,
+  "content": "I don't see anyone met fake pressure",
+  "music": 0.0
+ },
+ {
+  "from": 1057.86,
+  "to": 1058.74,
+  "sid": 540,
+  "location": 2,
+  "content": "Take pressure",
+  "music": 0.0
+ },
+ {
+  "from": 1058.74,
+  "to": 1060.3,
+  "sid": 541,
+  "location": 2,
+  "content": "Careful be",
+  "music": 0.0
+ },
+ {
+  "from": 1061.54,
+  "to": 1062.52,
+  "sid": 542,
+  "location": 2,
+  "content": "They are running",
+  "music": 0.0
+ },
+ {
+  "from": 1062.52,
+  "to": 1065.22,
+  "sid": 543,
+  "location": 2,
+  "content": "Amen hemy god",
+  "music": 0.0
+ },
+ {
+  "from": 1068.02,
+  "to": 1070.27,
+  "sid": 544,
+  "location": 2,
+  "content": "To be it's",
+  "music": 0.0
+ },
+ {
+  "from": 1071.79,
+  "to": 1073.37,
+  "sid": 545,
+  "location": 2,
+  "content": "Your flaready one thing",
+  "music": 0.0
+ },
+ {
+  "from": 1073.37,
+  "to": 1074.87,
+  "sid": 546,
+  "location": 2,
+  "content": "One thing",
+  "music": 0.0
+ },
+ {
+  "from": 1076.09,
+  "to": 1076.89,
+  "sid": 547,
+  "location": 2,
+  "content": "Can you food",
+  "music": 0.0
+ },
+ {
+  "from": 1076.89,
+  "to": 1079.15,
+  "sid": 548,
+  "location": 2,
+  "content": "I think when the service is late only to one side",
+  "music": 0.0
+ },
+ {
+  "from": 1079.15,
+  "to": 1080.31,
+  "sid": 549,
+  "location": 2,
+  "content": "oh mei没有",
+  "music": 0.0
+ },
+ {
+  "from": 1080.31,
+  "to": 1082.42,
+  "sid": 550,
+  "location": 2,
+  "content": "I'm gonna give it",
+  "music": 0.0
+ },
+ {
+  "from": 1085.5,
+  "to": 1088.89,
+  "sid": 551,
+  "location": 2,
+  "content": "Three out of five with me",
+  "music": 0.0
+ },
+ {
+  "from": 1088.89,
+  "to": 1091.25,
+  "sid": 552,
+  "location": 2,
+  "content": "What me do it one enemy remaining",
+  "music": 0.0
+ },
+ {
+  "from": 1091.25,
+  "to": 1091.97,
+  "sid": 553,
+  "location": 2,
+  "content": "Got this",
+  "music": 0.0
+ },
+ {
+  "from": 1091.97,
+  "to": 1093.13,
+  "sid": 554,
+  "location": 2,
+  "content": "Got the sh",
+  "music": 0.0
+ },
+ {
+  "from": 1099.44,
+  "to": 1101.14,
+  "sid": 555,
+  "location": 2,
+  "content": "Oh this is my spot",
+  "music": 0.0
+ },
+ {
+  "from": 1101.14,
+  "to": 1103.1,
+  "sid": 556,
+  "location": 2,
+  "content": "That's quite spicy ver to smoter",
+  "music": 0.0
+ },
+ {
+  "from": 1103.1,
+  "to": 1103.6,
+  "sid": 557,
+  "location": 2,
+  "content": "Spices",
+  "music": 0.0
+ },
+ {
+  "from": 1103.6,
+  "to": 1105.12,
+  "sid": 558,
+  "location": 2,
+  "content": "Spicy bda",
+  "music": 0.0
+ },
+ {
+  "from": 1105.12,
+  "to": 1106.9,
+  "sid": 559,
+  "location": 2,
+  "content": "You up by duke",
+  "music": 0.0
+ },
+ {
+  "from": 1117.14,
+  "to": 1118.18,
+  "sid": 560,
+  "location": 2,
+  "content": "The bus go",
+  "music": 0.0
+ },
+ {
+  "from": 1118.18,
+  "to": 1122.03,
+  "sid": 561,
+  "location": 2,
+  "content": "Let the qu all that i build the garbage",
+  "music": 0.0
+ },
+ {
+  "from": 1122.03,
+  "to": 1126.55,
+  "sid": 562,
+  "location": 2,
+  "content": "Vistamp is so playable to being ro",
+  "music": 0.0
+ },
+ {
+  "from": 1130.04,
+  "to": 1131.8,
+  "sid": 563,
+  "location": 2,
+  "content": "干here",
+  "music": 0.0
+ },
+ {
+  "from": 1134.8,
+  "to": 1139.24,
+  "sid": 564,
+  "location": 2,
+  "content": "哎呀is there is someone fighting one enemy",
+  "music": 0.0
+ },
+ {
+  "from": 1139.24,
+  "to": 1140.98,
+  "sid": 565,
+  "location": 2,
+  "content": "Remaining",
+  "music": 0.0
+ },
+ {
+  "from": 1142.46,
+  "to": 1143.22,
+  "sid": 566,
+  "location": 2,
+  "content": "My thanks",
+  "music": 0.0
+ },
+ {
+  "from": 1144.3,
+  "to": 1145.38,
+  "sid": 567,
+  "location": 2,
+  "content": "This is a nice spot",
+  "music": 0.0
+ },
+ {
+  "from": 1145.38,
+  "to": 1147.2,
+  "sid": 568,
+  "location": 2,
+  "content": "But they don't even proper peaks",
+  "music": 0.0
+ },
+ {
+  "from": 1147.2,
+  "to": 1148.12,
+  "sid": 569,
+  "location": 2,
+  "content": "Eo flesh",
+  "music": 0.0
+ },
+ {
+  "from": 1148.12,
+  "to": 1149.06,
+  "sid": 570,
+  "location": 2,
+  "content": "Almost peaks",
+  "music": 0.0
+ },
+ {
+  "from": 1149.06,
+  "to": 1152.04,
+  "sid": 571,
+  "location": 2,
+  "content": "This should do let's go here",
+  "music": 0.0
+ },
+ {
+  "from": 1152.04,
+  "to": 1153.81,
+  "sid": 572,
+  "location": 2,
+  "content": "That's what the",
+  "music": 0.0
+ },
+ {
+  "from": 1159.52,
+  "to": 1161.66,
+  "sid": 573,
+  "location": 2,
+  "content": "You want to play",
+  "music": 0.0
+ },
+ {
+  "from": 1161.66,
+  "to": 1165.6,
+  "sid": 574,
+  "location": 2,
+  "content": "Let's play something",
+  "music": 0.0
+ },
+ {
+  "from": 1166.59,
+  "to": 1167.67,
+  "sid": 575,
+  "location": 2,
+  "content": "I hold me",
+  "music": 0.0
+ },
+ {
+  "from": 1167.67,
+  "to": 1170.39,
+  "sid": 576,
+  "location": 2,
+  "content": "What you come taken out",
+  "music": 0.0
+ },
+ {
+  "from": 1171.26,
+  "to": 1173.5,
+  "sid": 577,
+  "location": 2,
+  "content": "What i mean the bugwent",
+  "music": 0.0
+ },
+ {
+  "from": 1173.5,
+  "to": 1175.7,
+  "sid": 578,
+  "location": 2,
+  "content": "Yes up",
+  "music": 0.0
+ },
+ {
+  "from": 1199.12,
+  "to": 1203.16,
+  "sid": 579,
+  "location": 2,
+  "content": "Caravans want to orbit running be",
+  "music": 0.0
+ },
+ {
+  "from": 1223.16,
+  "to": 1224.4,
+  "sid": 580,
+  "location": 2,
+  "content": "We have double dimension",
+  "music": 0.0
+ },
+ {
+  "from": 1224.4,
+  "to": 1225.48,
+  "sid": 581,
+  "location": 2,
+  "content": "So much",
+  "music": 0.0
+ },
+ {
+  "from": 1243.02,
+  "to": 1244.86,
+  "sid": 582,
+  "location": 2,
+  "content": "Enemy amy",
+  "music": 0.0
+ },
+ {
+  "from": 1244.86,
+  "to": 1246.3,
+  "sid": 583,
+  "location": 2,
+  "content": "Last monuh",
+  "music": 0.0
+ },
+ {
+  "from": 1246.3,
+  "to": 1246.74,
+  "sid": 584,
+  "location": 2,
+  "content": "Just stay with",
+  "music": 0.0
+ },
+ {
+  "from": 1246.74,
+  "to": 1247.34,
+  "sid": 585,
+  "location": 2,
+  "content": "I have camera",
+  "music": 0.0
+ },
+ {
+  "from": 1247.34,
+  "to": 1247.7,
+  "sid": 586,
+  "location": 2,
+  "content": "Don't play",
+  "music": 0.0
+ },
+ {
+  "from": 1247.7,
+  "to": 1248.46,
+  "sid": 587,
+  "location": 2,
+  "content": "Okay",
+  "music": 0.0
+ },
+ {
+  "from": 1250.06,
+  "to": 1251.56,
+  "sid": 588,
+  "location": 2,
+  "content": "I'll play this way",
+  "music": 0.0
+ },
+ {
+  "from": 1261.12,
+  "to": 1265.24,
+  "sid": 589,
+  "location": 2,
+  "content": "Right here got a call back on on the window",
+  "music": 0.0
+ },
+ {
+  "from": 1265.24,
+  "to": 1271.32,
+  "sid": 590,
+  "location": 2,
+  "content": "Tag that pink cos b vb mob",
+  "music": 0.0
+ },
+ {
+  "from": 1271.72,
+  "to": 1272.32,
+  "sid": 591,
+  "location": 2,
+  "content": "Get me",
+  "music": 0.0
+ },
+ {
+  "from": 1272.32,
+  "to": 1272.74,
+  "sid": 592,
+  "location": 2,
+  "content": "Though",
+  "music": 0.0
+ },
+ {
+  "from": 1272.74,
+  "to": 1273.22,
+  "sid": 593,
+  "location": 2,
+  "content": "Yeah",
+  "music": 0.0
+ },
+ {
+  "from": 1273.22,
+  "to": 1275.06,
+  "sid": 594,
+  "location": 2,
+  "content": "Take it",
+  "music": 0.0
+ },
+ {
+  "from": 1278.76,
+  "to": 1282.13,
+  "sid": 595,
+  "location": 2,
+  "content": "Spike down b three out five",
+  "music": 0.0
+ },
+ {
+  "from": 1283.17,
+  "to": 1283.77,
+  "sid": 596,
+  "location": 2,
+  "content": "On the right",
+  "music": 0.0
+ },
+ {
+  "from": 1283.77,
+  "to": 1284.13,
+  "sid": 597,
+  "location": 2,
+  "content": "On the right",
+  "music": 0.0
+ },
+ {
+  "from": 1284.13,
+  "to": 1285.07,
+  "sid": 598,
+  "location": 2,
+  "content": "On the right one",
+  "music": 0.0
+ },
+ {
+  "from": 1285.07,
+  "to": 1287.77,
+  "sid": 599,
+  "location": 2,
+  "content": "Enemy remaining",
+  "music": 0.0
+ },
+ {
+  "from": 1302.72,
+  "to": 1304.52,
+  "sid": 600,
+  "location": 2,
+  "content": "啊对面包的打",
+  "music": 0.0
+ },
+ {
+  "from": 1305.76,
+  "to": 1307.88,
+  "sid": 601,
+  "location": 2,
+  "content": "对面有个标",
+  "music": 0.0
+ },
+ {
+  "from": 1317.83,
+  "to": 1319.23,
+  "sid": 602,
+  "location": 2,
+  "content": "That goes there",
+  "music": 0.0
+ },
+ {
+  "from": 1319.23,
+  "to": 1322.13,
+  "sid": 603,
+  "location": 2,
+  "content": "This goes here inch",
+  "music": 0.0
+ },
+ {
+  "from": 1322.13,
+  "to": 1323.15,
+  "sid": 604,
+  "location": 2,
+  "content": "Oh this",
+  "music": 0.0
+ },
+ {
+  "from": 1323.15,
+  "to": 1323.49,
+  "sid": 605,
+  "location": 2,
+  "content": "Yes",
+  "music": 0.0
+ },
+ {
+  "from": 1323.49,
+  "to": 1325.35,
+  "sid": 606,
+  "location": 2,
+  "content": "This should do",
+  "music": 0.0
+ },
+ {
+  "from": 1331.18,
+  "to": 1334.02,
+  "sid": 607,
+  "location": 2,
+  "content": "Uh my chat translated that user on lated it",
+  "music": 0.0
+ },
+ {
+  "from": 1334.02,
+  "to": 1335.98,
+  "sid": 608,
+  "location": 2,
+  "content": "Correct by someone's me",
+  "music": 0.0
+ },
+ {
+  "from": 1346.98,
+  "to": 1347.46,
+  "sid": 609,
+  "location": 2,
+  "content": "Come on",
+  "music": 0.0
+ },
+ {
+  "from": 1347.46,
+  "to": 1349.38,
+  "sid": 610,
+  "location": 2,
+  "content": "I take him out",
+  "music": 0.0
+ },
+ {
+  "from": 1360.38,
+  "to": 1364.62,
+  "sid": 611,
+  "location": 2,
+  "content": "You may have just lived like of those love comiution",
+  "music": 0.0
+ },
+ {
+  "from": 1364.62,
+  "to": 1365.9,
+  "sid": 612,
+  "location": 2,
+  "content": "Can you hear the teammates",
+  "music": 0.0
+ },
+ {
+  "from": 1365.9,
+  "to": 1366.96,
+  "sid": 613,
+  "location": 2,
+  "content": "Actually",
+  "music": 0.0
+ },
+ {
+  "from": 1366.96,
+  "to": 1368.12,
+  "sid": 614,
+  "location": 2,
+  "content": "Well",
+  "music": 0.0
+ },
+ {
+  "from": 1368.12,
+  "to": 1369.04,
+  "sid": 615,
+  "location": 2,
+  "content": "So well",
+  "music": 0.0
+ },
+ {
+  "from": 1369.04,
+  "to": 1369.72,
+  "sid": 616,
+  "location": 2,
+  "content": "You hear the game",
+  "music": 0.0
+ },
+ {
+  "from": 1369.72,
+  "to": 1372.16,
+  "sid": 617,
+  "location": 2,
+  "content": "You don't hear the teammates",
+  "music": 0.0
+ },
+ {
+  "from": 1385.48,
+  "to": 1388.02,
+  "sid": 618,
+  "location": 2,
+  "content": "Spike planted",
+  "music": 0.0
+ },
+ {
+  "from": 1393.8,
+  "to": 1396.96,
+  "sid": 619,
+  "location": 2,
+  "content": "Last player standing one enemy",
+  "music": 0.0
+ },
+ {
+  "from": 1396.96,
+  "to": 1399.66,
+  "sid": 620,
+  "location": 2,
+  "content": "Remaining yours",
+  "music": 0.0
+ },
+ {
+  "from": 1402.4,
+  "to": 1404.82,
+  "sid": 621,
+  "location": 2,
+  "content": "We don t here come on",
+  "music": 0.0
+ },
+ {
+  "from": 1410.62,
+  "to": 1411.54,
+  "sid": 622,
+  "location": 2,
+  "content": "The wrong microphone",
+  "music": 0.0
+ },
+ {
+  "from": 1411.54,
+  "to": 1414.1,
+  "sid": 623,
+  "location": 2,
+  "content": "Oh but they can't be when i don't not be",
+  "music": 0.0
+ },
+ {
+  "from": 1414.1,
+  "to": 1414.74,
+  "sid": 624,
+  "location": 2,
+  "content": "It's okay",
+  "music": 0.0
+ },
+ {
+  "from": 1414.74,
+  "to": 1415.18,
+  "sid": 625,
+  "location": 2,
+  "content": "It's okay",
+  "music": 0.0
+ },
+ {
+  "from": 1415.18,
+  "to": 1417.6,
+  "sid": 626,
+  "location": 2,
+  "content": "Mi come on",
+  "music": 0.0
+ },
+ {
+  "from": 1417.6,
+  "to": 1418.28,
+  "sid": 627,
+  "location": 2,
+  "content": "Let's go",
+  "music": 0.0
+ },
+ {
+  "from": 1420.28,
+  "to": 1422.12,
+  "sid": 628,
+  "location": 2,
+  "content": "Flash",
+  "music": 0.0
+ },
+ {
+  "from": 1423.04,
+  "to": 1425.72,
+  "sid": 629,
+  "location": 2,
+  "content": "Three eight or one one",
+  "music": 0.0
+ },
+ {
+  "from": 1425.72,
+  "to": 1426.9,
+  "sid": 630,
+  "location": 2,
+  "content": "Non wow",
+  "music": 0.0
+ },
+ {
+  "from": 1426.9,
+  "to": 1427.4,
+  "sid": 631,
+  "location": 2,
+  "content": "Wow",
+  "music": 0.0
+ },
+ {
+  "from": 1427.4,
+  "to": 1427.6,
+  "sid": 632,
+  "location": 2,
+  "content": "Wow",
+  "music": 0.0
+ },
+ {
+  "from": 1427.6,
+  "to": 1427.8,
+  "sid": 633,
+  "location": 2,
+  "content": "Wow",
+  "music": 0.0
+ },
+ {
+  "from": 1427.8,
+  "to": 1428.0,
+  "sid": 634,
+  "location": 2,
+  "content": "Wow",
+  "music": 0.0
+ },
+ {
+  "from": 1428.0,
+  "to": 1429.76,
+  "sid": 635,
+  "location": 2,
+  "content": "Wow",
+  "music": 0.0
+ },
+ {
+  "from": 1441.0,
+  "to": 1442.08,
+  "sid": 636,
+  "location": 2,
+  "content": "Can you smoke uh",
+  "music": 0.0
+ },
+ {
+  "from": 1442.08,
+  "to": 1446.76,
+  "sid": 637,
+  "location": 2,
+  "content": "Amen first stores be one five four",
+  "music": 0.0
+ },
+ {
+  "from": 1447.0,
+  "to": 1448.52,
+  "sid": 638,
+  "location": 2,
+  "content": "They found my wife",
+  "music": 0.0
+ },
+ {
+  "from": 1448.52,
+  "to": 1451.04,
+  "sid": 639,
+  "location": 2,
+  "content": "Hhhh",
+  "music": 0.0
+ },
+ {
+  "from": 1451.56,
+  "to": 1452.04,
+  "sid": 640,
+  "location": 2,
+  "content": "Mother",
+  "music": 0.0
+ },
+ {
+  "from": 1452.04,
+  "to": 1452.28,
+  "sid": 641,
+  "location": 2,
+  "content": "Bush",
+  "music": 0.0
+ },
+ {
+  "from": 1452.28,
+  "to": 1452.88,
+  "sid": 642,
+  "location": 2,
+  "content": "Stering your arts",
+  "music": 0.0
+ },
+ {
+  "from": 1452.88,
+  "to": 1456.96,
+  "sid": 643,
+  "location": 2,
+  "content": "Or no to treat the partial spite",
+  "music": 0.0
+ },
+ {
+  "from": 1456.96,
+  "to": 1460.6,
+  "sid": 644,
+  "location": 2,
+  "content": "Check that goes there",
+  "music": 0.0
+ },
+ {
+  "from": 1463.3,
+  "to": 1463.86,
+  "sid": 645,
+  "location": 2,
+  "content": "Yes",
+  "music": 0.0
+ },
+ {
+  "from": 1463.86,
+  "to": 1467.08,
+  "sid": 646,
+  "location": 2,
+  "content": "This should do this goes here",
+  "music": 0.0
+ },
+ {
+  "from": 1467.08,
+  "to": 1470.02,
+  "sid": 647,
+  "location": 2,
+  "content": "Oh this is a nice spot",
+  "music": 0.0
+ },
+ {
+  "from": 1471.76,
+  "to": 1474.02,
+  "sid": 648,
+  "location": 2,
+  "content": "Ustart sourthey start",
+  "music": 0.0
+ },
+ {
+  "from": 1474.02,
+  "to": 1474.6,
+  "sid": 649,
+  "location": 2,
+  "content": "We start",
+  "music": 0.0
+ },
+ {
+  "from": 1474.6,
+  "to": 1475.52,
+  "sid": 650,
+  "location": 2,
+  "content": "Can you put the smoke",
+  "music": 0.0
+ },
+ {
+  "from": 1475.52,
+  "to": 1477.96,
+  "sid": 651,
+  "location": 2,
+  "content": "Instantly here someone",
+  "music": 0.0
+ },
+ {
+  "from": 1479.08,
+  "to": 1482.12,
+  "sid": 652,
+  "location": 2,
+  "content": "Looks like be taken out",
+  "music": 0.0
+ },
+ {
+  "from": 1488.01,
+  "to": 1488.73,
+  "sid": 653,
+  "location": 2,
+  "content": "Ah",
+  "music": 0.0
+ },
+ {
+  "from": 1490.05,
+  "to": 1492.61,
+  "sid": 654,
+  "location": 2,
+  "content": "But then oh this is",
+  "music": 0.0
+ },
+ {
+  "from": 1492.61,
+  "to": 1494.31,
+  "sid": 655,
+  "location": 2,
+  "content": "My spot",
+  "music": 0.0
+ },
+ {
+  "from": 1494.95,
+  "to": 1496.07,
+  "sid": 656,
+  "location": 2,
+  "content": "This goes here",
+  "music": 0.0
+ },
+ {
+  "from": 1496.07,
+  "to": 1496.69,
+  "sid": 657,
+  "location": 2,
+  "content": "Yes",
+  "music": 0.0
+ },
+ {
+  "from": 1496.69,
+  "to": 1500.589,
+  "sid": 658,
+  "location": 2,
+  "content": "This should do that goes there newslow",
+  "music": 0.0
+ },
+ {
+  "from": 1500.589,
+  "to": 1501.769,
+  "sid": 659,
+  "location": 2,
+  "content": "What the camp",
+  "music": 0.0
+ },
+ {
+  "from": 1501.769,
+  "to": 1502.929,
+  "sid": 660,
+  "location": 2,
+  "content": "I'll i'll start heaven",
+  "music": 0.0
+ },
+ {
+  "from": 1502.929,
+  "to": 1503.129,
+  "sid": 661,
+  "location": 2,
+  "content": "Okay",
+  "music": 0.0
+ },
+ {
+  "from": 1503.129,
+  "to": 1504.629,
+  "sid": 662,
+  "location": 2,
+  "content": "And i'll in the flood",
+  "music": 0.0
+ },
+ {
+  "from": 1504.629,
+  "to": 1507.18,
+  "sid": 663,
+  "location": 2,
+  "content": "Stepping be heavy",
+  "music": 0.0
+ },
+ {
+  "from": 1508.18,
+  "to": 1512.1,
+  "sid": 664,
+  "location": 2,
+  "content": "Happy bi found my wire",
+  "music": 0.0
+ },
+ {
+  "from": 1512.1,
+  "to": 1514.54,
+  "sid": 665,
+  "location": 2,
+  "content": "Rap miagain",
+  "music": 0.0
+ },
+ {
+  "from": 1515.8,
+  "to": 1519.03,
+  "sid": 666,
+  "location": 2,
+  "content": "Up in this monu",
+  "music": 0.0
+ },
+ {
+  "from": 1519.59,
+  "to": 1520.83,
+  "sid": 667,
+  "location": 2,
+  "content": "Spike down",
+  "music": 0.0
+ },
+ {
+  "from": 1520.83,
+  "to": 1523.5,
+  "sid": 668,
+  "location": 2,
+  "content": "I push myth",
+  "music": 0.0
+ },
+ {
+  "from": 1525.3,
+  "to": 1526.3,
+  "sid": 669,
+  "location": 2,
+  "content": "Who's next",
+  "music": 0.0
+ },
+ {
+  "from": 1526.3,
+  "to": 1528.52,
+  "sid": 670,
+  "location": 2,
+  "content": "Are you in me uh",
+  "music": 0.0
+ },
+ {
+  "from": 1528.52,
+  "to": 1529.24,
+  "sid": 671,
+  "location": 2,
+  "content": "No no",
+  "music": 0.0
+ },
+ {
+  "from": 1529.24,
+  "to": 1529.46,
+  "sid": 672,
+  "location": 2,
+  "content": "Nothing",
+  "music": 0.0
+ },
+ {
+  "from": 1529.46,
+  "to": 1530.56,
+  "sid": 673,
+  "location": 2,
+  "content": "Nothing is just you to go",
+  "music": 0.0
+ },
+ {
+  "from": 1530.56,
+  "to": 1531.14,
+  "sid": 674,
+  "location": 2,
+  "content": "Go say",
+  "music": 0.0
+ },
+ {
+  "from": 1531.14,
+  "to": 1532.72,
+  "sid": 675,
+  "location": 2,
+  "content": "Stay stay jet",
+  "music": 0.0
+ },
+ {
+  "from": 1532.72,
+  "to": 1534.38,
+  "sid": 676,
+  "location": 2,
+  "content": "Only jet for now",
+  "music": 0.0
+ },
+ {
+  "from": 1534.38,
+  "to": 1534.9,
+  "sid": 677,
+  "location": 2,
+  "content": "Yeah",
+  "music": 0.0
+ },
+ {
+  "from": 1534.9,
+  "to": 1536.22,
+  "sid": 678,
+  "location": 2,
+  "content": "That's it some also",
+  "music": 0.0
+ },
+ {
+  "from": 1540.38,
+  "to": 1542.78,
+  "sid": 679,
+  "location": 2,
+  "content": "I know somewhere there",
+  "music": 0.0
+ },
+ {
+  "from": 1550.57,
+  "to": 1556.93,
+  "sid": 680,
+  "location": 2,
+  "content": "I'm on three two one more",
+  "music": 0.0
+ },
+ {
+  "from": 1557.93,
+  "to": 1560.69,
+  "sid": 681,
+  "location": 2,
+  "content": "Maybe over here minus",
+  "music": 0.0
+ },
+ {
+  "from": 1560.69,
+  "to": 1561.25,
+  "sid": 682,
+  "location": 2,
+  "content": "Sixty four",
+  "music": 0.0
+ },
+ {
+  "from": 1562.41,
+  "to": 1562.65,
+  "sid": 683,
+  "location": 2,
+  "content": "Wait",
+  "music": 0.0
+ },
+ {
+  "from": 1562.65,
+  "to": 1564.66,
+  "sid": 684,
+  "location": 2,
+  "content": "wait for so over高",
+  "music": 0.0
+ },
+ {
+  "from": 1564.66,
+  "to": 1565.98,
+  "sid": 685,
+  "location": 2,
+  "content": "One enemy",
+  "music": 0.0
+ },
+ {
+  "from": 1565.98,
+  "to": 1567.4,
+  "sid": 686,
+  "location": 2,
+  "content": "Oh he shows you",
+  "music": 0.0
+ },
+ {
+  "from": 1567.4,
+  "to": 1568.08,
+  "sid": 687,
+  "location": 2,
+  "content": "No more",
+  "music": 0.0
+ },
+ {
+  "from": 1576.22,
+  "to": 1576.78,
+  "sid": 688,
+  "location": 2,
+  "content": "Yes",
+  "music": 0.0
+ },
+ {
+  "from": 1576.78,
+  "to": 1577.5,
+  "sid": 689,
+  "location": 2,
+  "content": "This all",
+  "music": 0.0
+ },
+ {
+  "from": 1577.5,
+  "to": 1578.74,
+  "sid": 690,
+  "location": 2,
+  "content": "This is a nice spot",
+  "music": 0.0
+ },
+ {
+  "from": 1578.74,
+  "to": 1580.49,
+  "sid": 691,
+  "location": 2,
+  "content": "Where are you go there",
+  "music": 0.0
+ },
+ {
+  "from": 1580.49,
+  "to": 1583.05,
+  "sid": 692,
+  "location": 2,
+  "content": "They they for now",
+  "music": 0.0
+ },
+ {
+  "from": 1583.05,
+  "to": 1584.85,
+  "sid": 693,
+  "location": 2,
+  "content": "They didn't ever proit",
+  "music": 0.0
+ },
+ {
+  "from": 1584.85,
+  "to": 1588.19,
+  "sid": 694,
+  "location": 2,
+  "content": "But on me it can be actually issue for my drops",
+  "music": 0.0
+ },
+ {
+  "from": 1588.19,
+  "to": 1589.91,
+  "sid": 695,
+  "location": 2,
+  "content": "Not another step",
+  "music": 0.0
+ },
+ {
+  "from": 1591.47,
+  "to": 1593.11,
+  "sid": 696,
+  "location": 2,
+  "content": "报废了",
+  "music": 0.0
+ },
+ {
+  "from": 1594.229,
+  "to": 1596.509,
+  "sid": 697,
+  "location": 2,
+  "content": "拜拜smoke",
+  "music": 0.0
+ },
+ {
+  "from": 1596.509,
+  "to": 1598.05,
+  "sid": 698,
+  "location": 2,
+  "content": "Smoke",
+  "music": 0.0
+ },
+ {
+  "from": 1627.46,
+  "to": 1628.18,
+  "sid": 699,
+  "location": 2,
+  "content": "Nice",
+  "music": 0.0
+ },
+ {
+  "from": 1629.9,
+  "to": 1631.38,
+  "sid": 700,
+  "location": 2,
+  "content": "我不接",
+  "music": 0.0
+ },
+ {
+  "from": 1631.97,
+  "to": 1633.17,
+  "sid": 701,
+  "location": 2,
+  "content": "This goes here",
+  "music": 0.0
+ },
+ {
+  "from": 1633.17,
+  "to": 1633.85,
+  "sid": 702,
+  "location": 2,
+  "content": "Yes",
+  "music": 0.0
+ },
+ {
+  "from": 1633.85,
+  "to": 1635.97,
+  "sid": 703,
+  "location": 2,
+  "content": "This should that goes there",
+  "music": 0.0
+ },
+ {
+  "from": 1636.88,
+  "to": 1637.4,
+  "sid": 704,
+  "location": 2,
+  "content": "Ah",
+  "music": 0.0
+ },
+ {
+  "from": 1637.4,
+  "to": 1639.32,
+  "sid": 705,
+  "location": 2,
+  "content": "This is my spot this goes here",
+  "music": 0.0
+ },
+ {
+  "from": 1640.68,
+  "to": 1641.04,
+  "sid": 706,
+  "location": 2,
+  "content": "Yes",
+  "music": 0.0
+ },
+ {
+  "from": 1641.04,
+  "to": 1643.8,
+  "sid": 707,
+  "location": 2,
+  "content": "This should do there",
+  "music": 0.0
+ },
+ {
+  "from": 1644.68,
+  "to": 1649.62,
+  "sid": 708,
+  "location": 2,
+  "content": "Why i tried to push mad ram",
+  "music": 0.0
+ },
+ {
+  "from": 1650.22,
+  "to": 1652.389,
+  "sid": 709,
+  "location": 2,
+  "content": "Then you do more kid",
+  "music": 0.0
+ },
+ {
+  "from": 1652.709,
+  "to": 1654.169,
+  "sid": 710,
+  "location": 2,
+  "content": "And can you draw middle",
+  "music": 0.0
+ },
+ {
+  "from": 1654.169,
+  "to": 1659.69,
+  "sid": 711,
+  "location": 2,
+  "content": "I break it to trip by ubb is one of",
+  "music": 0.0
+ },
+ {
+  "from": 1661.09,
+  "to": 1662.45,
+  "sid": 712,
+  "location": 2,
+  "content": "We we should fight for me",
+  "music": 0.0
+ },
+ {
+  "from": 1662.45,
+  "to": 1662.77,
+  "sid": 713,
+  "location": 2,
+  "content": "Yeah",
+  "music": 0.0
+ },
+ {
+  "from": 1664.09,
+  "to": 1665.09,
+  "sid": 714,
+  "location": 2,
+  "content": "We're in a big vrain",
+  "music": 0.0
+ },
+ {
+  "from": 1665.09,
+  "to": 1666.85,
+  "sid": 715,
+  "location": 2,
+  "content": "Not bring v",
+  "music": 0.0
+ },
+ {
+  "from": 1668.88,
+  "to": 1670.72,
+  "sid": 716,
+  "location": 2,
+  "content": "One more or below you below you",
+  "music": 0.0
+ },
+ {
+  "from": 1670.72,
+  "to": 1672.88,
+  "sid": 717,
+  "location": 2,
+  "content": "I can flush you through the match more",
+  "music": 0.0
+ },
+ {
+  "from": 1672.88,
+  "to": 1674.92,
+  "sid": 718,
+  "location": 2,
+  "content": "And everyone ash",
+  "music": 0.0
+ },
+ {
+  "from": 1676.24,
+  "to": 1676.6,
+  "sid": 719,
+  "location": 2,
+  "content": "Yes",
+  "music": 0.0
+ },
+ {
+  "from": 1676.6,
+  "to": 1677.76,
+  "sid": 720,
+  "location": 2,
+  "content": "This should do",
+  "music": 0.0
+ },
+ {
+  "from": 1681.08,
+  "to": 1683.04,
+  "sid": 721,
+  "location": 2,
+  "content": "For here",
+  "music": 0.0
+ },
+ {
+  "from": 1693.32,
+  "to": 1695.12,
+  "sid": 722,
+  "location": 2,
+  "content": "Talk down my timate",
+  "music": 0.0
+ },
+ {
+  "from": 1695.12,
+  "to": 1695.72,
+  "sid": 723,
+  "location": 2,
+  "content": "Ready",
+  "music": 0.0
+ },
+ {
+  "from": 1695.72,
+  "to": 1698.62,
+  "sid": 724,
+  "location": 2,
+  "content": "What the one be one",
+  "music": 0.0
+ },
+ {
+  "from": 1698.62,
+  "to": 1702.12,
+  "sid": 725,
+  "location": 2,
+  "content": "Where is everyone hiding",
+  "music": 0.0
+ },
+ {
+  "from": 1703.58,
+  "to": 1706.88,
+  "sid": 726,
+  "location": 2,
+  "content": "Take off profei pup nife here",
+  "music": 0.0
+ },
+ {
+  "from": 1706.88,
+  "to": 1709.18,
+  "sid": 727,
+  "location": 2,
+  "content": "And they picked me after all what",
+  "music": 0.0
+ },
+ {
+  "from": 1711.24,
+  "to": 1712.8,
+  "sid": 728,
+  "location": 2,
+  "content": "Right here",
+  "music": 0.0
+ },
+ {
+  "from": 1714.86,
+  "to": 1715.9,
+  "sid": 729,
+  "location": 2,
+  "content": "Taking game in",
+  "music": 0.0
+ },
+ {
+  "from": 1718.9,
+  "to": 1721.69,
+  "sid": 730,
+  "location": 2,
+  "content": "Window window are you",
+  "music": 0.0
+ },
+ {
+  "from": 1721.69,
+  "to": 1722.33,
+  "sid": 731,
+  "location": 2,
+  "content": "You can right",
+  "music": 0.0
+ },
+ {
+  "from": 1723.41,
+  "to": 1724.69,
+  "sid": 732,
+  "location": 2,
+  "content": "There right to",
+  "music": 0.0
+ },
+ {
+  "from": 1726.43,
+  "to": 1728.83,
+  "sid": 733,
+  "location": 2,
+  "content": "There aina might be proving",
+  "music": 0.0
+ },
+ {
+  "from": 1728.83,
+  "to": 1729.99,
+  "sid": 734,
+  "location": 2,
+  "content": "What can you gave him",
+  "music": 0.0
+ },
+ {
+  "from": 1729.99,
+  "to": 1733.679,
+  "sid": 735,
+  "location": 2,
+  "content": "Arena low up found my wire",
+  "music": 0.0
+ },
+ {
+  "from": 1733.679,
+  "to": 1734.639,
+  "sid": 736,
+  "location": 2,
+  "content": "Gardon",
+  "music": 0.0
+ },
+ {
+  "from": 1734.639,
+  "to": 1735.079,
+  "sid": 737,
+  "location": 2,
+  "content": "Bon",
+  "music": 0.0
+ },
+ {
+  "from": 1735.079,
+  "to": 1737.159,
+  "sid": 738,
+  "location": 2,
+  "content": "Errolego",
+  "music": 0.0
+ },
+ {
+  "from": 1737.159,
+  "to": 1738.959,
+  "sid": 739,
+  "location": 2,
+  "content": "I'm gonna be",
+  "music": 0.0
+ },
+ {
+  "from": 1742.04,
+  "to": 1743.6,
+  "sid": 740,
+  "location": 2,
+  "content": "Could be outside on",
+  "music": 0.0
+ },
+ {
+  "from": 1743.6,
+  "to": 1744.0,
+  "sid": 741,
+  "location": 2,
+  "content": "Yeah",
+  "music": 0.0
+ },
+ {
+  "from": 1744.0,
+  "to": 1745.6,
+  "sid": 742,
+  "location": 2,
+  "content": "Running",
+  "music": 0.0
+ },
+ {
+  "from": 1755.66,
+  "to": 1761.96,
+  "sid": 743,
+  "location": 2,
+  "content": "No step i wanna be there is a garden in nest",
+  "music": 0.0
+ },
+ {
+  "from": 1768.14,
+  "to": 1777.07,
+  "sid": 744,
+  "location": 2,
+  "content": "What made them to be thirty three minu",
+  "music": 0.0
+ },
+ {
+  "from": 1777.81,
+  "to": 1778.41,
+  "sid": 745,
+  "location": 2,
+  "content": "艾森",
+  "music": 0.0
+ },
+ {
+  "from": 1781.05,
+  "to": 1783.47,
+  "sid": 746,
+  "location": 2,
+  "content": "Nice buff",
+  "music": 0.0
+ },
+ {
+  "from": 1783.47,
+  "to": 1786.02,
+  "sid": 747,
+  "location": 2,
+  "content": "放刀放刀放刀放刀放刀",
+  "music": 0.0
+ },
+ {
+  "from": 1799.18,
+  "to": 1800.14,
+  "sid": 748,
+  "location": 2,
+  "content": "I said the way",
+  "music": 0.0
+ },
+ {
+  "from": 1800.14,
+  "to": 1801.38,
+  "sid": 749,
+  "location": 2,
+  "content": "The way",
+  "music": 0.0
+ },
+ {
+  "from": 1802.44,
+  "to": 1803.04,
+  "sid": 750,
+  "location": 2,
+  "content": "Go go",
+  "music": 0.0
+ },
+ {
+  "from": 1803.04,
+  "to": 1803.72,
+  "sid": 751,
+  "location": 2,
+  "content": "Let's go",
+  "music": 0.0
+ },
+ {
+  "from": 1803.72,
+  "to": 1806.1,
+  "sid": 752,
+  "location": 2,
+  "content": "What's your eyes all right",
+  "music": 0.0
+ },
+ {
+  "from": 1806.1,
+  "to": 1806.44,
+  "sid": 753,
+  "location": 2,
+  "content": "Ok",
+  "music": 0.0
+ },
+ {
+  "from": 1806.44,
+  "to": 1807.99,
+  "sid": 754,
+  "location": 2,
+  "content": "What's your eyes",
+  "music": 0.0
+ },
+ {
+  "from": 1823.19,
+  "to": 1824.27,
+  "sid": 755,
+  "location": 2,
+  "content": "Oh yeah",
+  "music": 0.0
+ },
+ {
+  "from": 1824.27,
+  "to": 1824.71,
+  "sid": 756,
+  "location": 2,
+  "content": "Yeah",
+  "music": 0.0
+ },
+ {
+  "from": 1824.71,
+  "to": 1826.87,
+  "sid": 757,
+  "location": 2,
+  "content": "What the shot from me",
+  "music": 0.0
+ },
+ {
+  "from": 1829.23,
+  "to": 1832.81,
+  "sid": 758,
+  "location": 2,
+  "content": "I don't know let it",
+  "music": 0.0
+ },
+ {
+  "from": 1832.81,
+  "to": 1833.83,
+  "sid": 759,
+  "location": 2,
+  "content": "Let me run first",
+  "music": 0.0
+ },
+ {
+  "from": 1833.83,
+  "to": 1835.89,
+  "sid": 760,
+  "location": 2,
+  "content": "Because i need to pick my sandwich",
+  "music": 0.0
+ },
+ {
+  "from": 1837.09,
+  "to": 1838.53,
+  "sid": 761,
+  "location": 2,
+  "content": "Look",
+  "music": 0.0
+ },
+ {
+  "from": 1851.99,
+  "to": 1854.02,
+  "sid": 762,
+  "location": 2,
+  "content": "Shock darling",
+  "music": 0.0
+ },
+ {
+  "from": 1858.26,
+  "to": 1861.52,
+  "sid": 763,
+  "location": 2,
+  "content": "Spike down a one one",
+  "music": 0.0
+ },
+ {
+  "from": 1861.52,
+  "to": 1864.38,
+  "sid": 764,
+  "location": 2,
+  "content": "Can you run first one and revefrom me",
+  "music": 0.0
+ },
+ {
+  "from": 1864.38,
+  "to": 1865.82,
+  "sid": 765,
+  "location": 2,
+  "content": "How is everyone feeling today",
+  "music": 0.0
+ },
+ {
+  "from": 1865.82,
+  "to": 1867.07,
+  "sid": 766,
+  "location": 2,
+  "content": "From zero to ten",
+  "music": 0.0
+ },
+ {
+  "from": 1867.64,
+  "to": 1868.04,
+  "sid": 767,
+  "location": 2,
+  "content": "Okay",
+  "music": 0.0
+ },
+ {
+  "from": 1868.04,
+  "to": 1869.6,
+  "sid": 768,
+  "location": 2,
+  "content": "Chat next round",
+  "music": 0.0
+ },
+ {
+  "from": 1869.6,
+  "to": 1871.08,
+  "sid": 769,
+  "location": 2,
+  "content": "I'll put camera on cama",
+  "music": 0.0
+ },
+ {
+  "from": 1871.08,
+  "to": 1874.11,
+  "sid": 770,
+  "location": 2,
+  "content": "And we'll for you been my cafe",
+  "music": 0.0
+ },
+ {
+  "from": 1875.11,
+  "to": 1878.31,
+  "sid": 771,
+  "location": 2,
+  "content": "Don't speak like my",
+  "music": 0.0
+ },
+ {
+  "from": 1879.83,
+  "to": 1882.67,
+  "sid": 772,
+  "location": 2,
+  "content": "嘟嘟猫玩吗",
+  "music": 0.0
+ },
+ {
+  "from": 1884.22,
+  "to": 1885.86,
+  "sid": 773,
+  "location": 2,
+  "content": "I have been",
+  "music": 0.0
+ },
+ {
+  "from": 1898.12,
+  "to": 1898.88,
+  "sid": 774,
+  "location": 2,
+  "content": "Reloading",
+  "music": 0.0
+ },
+ {
+  "from": 1900.84,
+  "to": 1903.64,
+  "sid": 775,
+  "location": 2,
+  "content": "I thought that alone is shooting me",
+  "music": 0.0
+ },
+ {
+  "from": 1905.24,
+  "to": 1907.76,
+  "sid": 776,
+  "location": 2,
+  "content": "Ha one and one boxset",
+  "music": 0.0
+ },
+ {
+  "from": 1910.36,
+  "to": 1910.6,
+  "sid": 777,
+  "location": 2,
+  "content": "Wait",
+  "music": 0.0
+ },
+ {
+  "from": 1910.6,
+  "to": 1910.8,
+  "sid": 778,
+  "location": 2,
+  "content": "Wait",
+  "music": 0.0
+ },
+ {
+  "from": 1910.8,
+  "to": 1912.5,
+  "sid": 779,
+  "location": 2,
+  "content": "Wait to have time",
+  "music": 0.0
+ },
+ {
+  "from": 1918.02,
+  "to": 1922.06,
+  "sid": 780,
+  "location": 2,
+  "content": "There for you cannot see one enemy",
+  "music": 0.0
+ },
+ {
+  "from": 1922.06,
+  "to": 1923.84,
+  "sid": 781,
+  "location": 2,
+  "content": "Remaining",
+  "music": 0.0
+ },
+ {
+  "from": 1924.64,
+  "to": 1926.2,
+  "sid": 782,
+  "location": 2,
+  "content": "I'm not right",
+  "music": 0.0
+ },
+ {
+  "from": 1928.98,
+  "to": 1933.12,
+  "sid": 783,
+  "location": 2,
+  "content": "No you know what to see that loser",
+  "music": 0.0
+ },
+ {
+  "from": 1934.14,
+  "to": 1936.1,
+  "sid": 784,
+  "location": 2,
+  "content": "Big one two one is street",
+  "music": 0.0
+ },
+ {
+  "from": 1938.78,
+  "to": 1940.98,
+  "sid": 785,
+  "location": 2,
+  "content": "I have already",
+  "music": 0.0
+ },
+ {
+  "from": 1955.81,
+  "to": 1957.51,
+  "sid": 786,
+  "location": 2,
+  "content": "In flash",
+  "music": 0.0
+ },
+ {
+  "from": 1957.51,
+  "to": 1959.55,
+  "sid": 787,
+  "location": 2,
+  "content": "I flash breaking down",
+  "music": 0.0
+ },
+ {
+  "from": 1975.84,
+  "to": 1976.72,
+  "sid": 788,
+  "location": 2,
+  "content": "Where is one",
+  "music": 0.0
+ },
+ {
+  "from": 1976.72,
+  "to": 1979.4,
+  "sid": 789,
+  "location": 2,
+  "content": "The hole",
+  "music": 0.0
+ },
+ {
+  "from": 1980.76,
+  "to": 1981.2,
+  "sid": 790,
+  "location": 2,
+  "content": "Yeah",
+  "music": 0.0
+ },
+ {
+  "from": 1981.2,
+  "to": 1983.2,
+  "sid": 791,
+  "location": 2,
+  "content": "I'm in game by the way",
+  "music": 0.0
+ },
+ {
+  "from": 1984.76,
+  "to": 1985.76,
+  "sid": 792,
+  "location": 2,
+  "content": "走了走了走了",
+  "music": 0.0
+ },
+ {
+  "from": 1985.76,
+  "to": 1986.8,
+  "sid": 793,
+  "location": 2,
+  "content": "这算run run run了",
+  "music": 0.0
+ },
+ {
+  "from": 1986.8,
+  "to": 1988.0,
+  "sid": 794,
+  "location": 2,
+  "content": "这个",
+  "music": 0.0
+ },
+ {
+  "from": 1989.25,
+  "to": 1989.69,
+  "sid": 795,
+  "location": 2,
+  "content": "Head",
+  "music": 0.0
+ },
+ {
+  "from": 1991.69,
+  "to": 1992.59,
+  "sid": 796,
+  "location": 2,
+  "content": "Cage trigger",
+  "music": 0.0
+ },
+ {
+  "from": 1992.59,
+  "to": 1994.77,
+  "sid": 797,
+  "location": 2,
+  "content": "Cage trigger",
+  "music": 0.0
+ },
+ {
+  "from": 1996.01,
+  "to": 2001.159,
+  "sid": 798,
+  "location": 2,
+  "content": "It is my eyes are better than yours",
+  "music": 0.0
+ },
+ {
+  "from": 2001.159,
+  "to": 2003.079,
+  "sid": 799,
+  "location": 2,
+  "content": "要多多对",
+  "music": 0.0
+ },
+ {
+  "from": 2003.079,
+  "to": 2004.479,
+  "sid": 800,
+  "location": 2,
+  "content": "这边没",
+  "music": 0.0
+ },
+ {
+  "from": 2026.94,
+  "to": 2027.5,
+  "sid": 801,
+  "location": 2,
+  "content": "I sue",
+  "music": 0.0
+ },
+ {
+  "from": 2027.5,
+  "to": 2027.66,
+  "sid": 802,
+  "location": 2,
+  "content": "Thanks",
+  "music": 0.0
+ },
+ {
+  "from": 2027.66,
+  "to": 2028.82,
+  "sid": 803,
+  "location": 2,
+  "content": "So much for seventemonths",
+  "music": 0.0
+ },
+ {
+  "from": 2028.82,
+  "to": 2030.58,
+  "sid": 804,
+  "location": 2,
+  "content": "One second",
+  "music": 0.0
+ },
+ {
+  "from": 2035.08,
+  "to": 2037.68,
+  "sid": 805,
+  "location": 2,
+  "content": "You like planted",
+  "music": 0.0
+ },
+ {
+  "from": 2045.78,
+  "to": 2047.58,
+  "sid": 806,
+  "location": 2,
+  "content": "And let me say it again",
+  "music": 0.0
+ },
+ {
+  "from": 2050.12,
+  "to": 2050.52,
+  "sid": 807,
+  "location": 2,
+  "content": "Okay",
+  "music": 0.0
+ },
+ {
+  "from": 2050.52,
+  "to": 2051.26,
+  "sid": 808,
+  "location": 2,
+  "content": "Daily check",
+  "music": 0.0
+ },
+ {
+  "from": 2051.26,
+  "to": 2052.3,
+  "sid": 809,
+  "location": 2,
+  "content": "I think everyone is doing",
+  "music": 0.0
+ },
+ {
+  "from": 2052.3,
+  "to": 2052.56,
+  "sid": 810,
+  "location": 2,
+  "content": "Okay",
+  "music": 0.0
+ },
+ {
+  "from": 2052.56,
+  "to": 2053.24,
+  "sid": 811,
+  "location": 2,
+  "content": "For to them",
+  "music": 0.0
+ },
+ {
+  "from": 2053.24,
+  "to": 2055.19,
+  "sid": 812,
+  "location": 2,
+  "content": "That's time",
+  "music": 0.0
+ },
+ {
+  "from": 2064.57,
+  "to": 2066.55,
+  "sid": 813,
+  "location": 2,
+  "content": "I'm not si think it's running",
+  "music": 0.0
+ },
+ {
+  "from": 2066.55,
+  "to": 2070.02,
+  "sid": 814,
+  "location": 2,
+  "content": "So we have to go go go",
+  "music": 0.0
+ },
+ {
+  "from": 2070.02,
+  "to": 2071.3,
+  "sid": 815,
+  "location": 2,
+  "content": "Don't even compliment",
+  "music": 0.0
+ },
+ {
+  "from": 2071.3,
+  "to": 2072.6,
+  "sid": 816,
+  "location": 2,
+  "content": "You look spike",
+  "music": 0.0
+ },
+ {
+  "from": 2072.6,
+  "to": 2073.86,
+  "sid": 817,
+  "location": 2,
+  "content": "No no",
+  "music": 0.0
+ },
+ {
+  "from": 2073.86,
+  "to": 2076.54,
+  "sid": 818,
+  "location": 2,
+  "content": "But playing on the",
+  "music": 0.0
+ },
+ {
+  "from": 2076.62,
+  "to": 2079.14,
+  "sid": 819,
+  "location": 2,
+  "content": "嗯嗯玩玩碎",
+  "music": 0.0
+ },
+ {
+  "from": 2079.909,
+  "to": 2082.629,
+  "sid": 820,
+  "location": 2,
+  "content": "Are you speaking me last player",
+  "music": 0.0
+ },
+ {
+  "from": 2082.629,
+  "to": 2083.409,
+  "sid": 821,
+  "location": 2,
+  "content": "Standing",
+  "music": 0.0
+ },
+ {
+  "from": 2083.409,
+  "to": 2086.0,
+  "sid": 822,
+  "location": 2,
+  "content": "Spike down be",
+  "music": 0.0
+ },
+ {
+  "from": 2100.64,
+  "to": 2102.04,
+  "sid": 823,
+  "location": 2,
+  "content": "看就不看就会抖一下",
+  "music": 0.0
+ },
+ {
+  "from": 2102.04,
+  "to": 2103.52,
+  "sid": 824,
+  "location": 2,
+  "content": "Ste",
+  "music": 0.0
+ },
+ {
+  "from": 2107.32,
+  "to": 2109.54,
+  "sid": 825,
+  "location": 2,
+  "content": "Cage triggered",
+  "music": 0.0
+ },
+ {
+  "from": 2115.58,
+  "to": 2121.26,
+  "sid": 826,
+  "location": 2,
+  "content": "I have planted the spike they found my everything",
+  "music": 0.0
+ },
+ {
+  "from": 2123.92,
+  "to": 2126.24,
+  "sid": 827,
+  "location": 2,
+  "content": "See all the one makes me",
+  "music": 0.0
+ },
+ {
+  "from": 2133.97,
+  "to": 2135.05,
+  "sid": 828,
+  "location": 2,
+  "content": "I must wait a moment",
+  "music": 0.0
+ },
+ {
+  "from": 2136.85,
+  "to": 2138.98,
+  "sid": 829,
+  "location": 2,
+  "content": "That's sola",
+  "music": 0.0
+ },
+ {
+  "from": 2159.52,
+  "to": 2161.04,
+  "sid": 830,
+  "location": 2,
+  "content": "Not i me",
+  "music": 0.0
+ },
+ {
+  "from": 2163.24,
+  "to": 2164.54,
+  "sid": 831,
+  "location": 2,
+  "content": "Gui with dash",
+  "music": 0.0
+ },
+ {
+  "from": 2164.54,
+  "to": 2165.96,
+  "sid": 832,
+  "location": 2,
+  "content": "Stop someone in my go",
+  "music": 0.0
+ },
+ {
+  "from": 2165.96,
+  "to": 2166.5,
+  "sid": 833,
+  "location": 2,
+  "content": "Okay",
+  "music": 0.0
+ },
+ {
+  "from": 2166.5,
+  "to": 2167.46,
+  "sid": 834,
+  "location": 2,
+  "content": "Right",
+  "music": 0.0
+ },
+ {
+  "from": 2167.46,
+  "to": 2168.84,
+  "sid": 835,
+  "location": 2,
+  "content": "Where i go",
+  "music": 0.0
+ },
+ {
+  "from": 2185.52,
+  "to": 2188.2,
+  "sid": 836,
+  "location": 2,
+  "content": "My time so we have a smoke on heaven",
+  "music": 0.0
+ },
+ {
+  "from": 2188.2,
+  "to": 2190.24,
+  "sid": 837,
+  "location": 2,
+  "content": "They can speak through they",
+  "music": 0.0
+ },
+ {
+  "from": 2190.24,
+  "to": 2192.1,
+  "sid": 838,
+  "location": 2,
+  "content": "Can let you walk through the heaven",
+  "music": 0.0
+ },
+ {
+  "from": 2192.1,
+  "to": 2194.19,
+  "sid": 839,
+  "location": 2,
+  "content": "One hiding",
+  "music": 0.0
+ },
+ {
+  "from": 2196.74,
+  "to": 2199.88,
+  "sid": 840,
+  "location": 2,
+  "content": "one enemy remaining哦",
+  "music": 0.0
+ },
+ {
+  "from": 2200.94,
+  "to": 2203.74,
+  "sid": 841,
+  "location": 2,
+  "content": "Let's just golf for nice",
+  "music": 0.0
+ },
+ {
+  "from": 2203.74,
+  "to": 2205.52,
+  "sid": 842,
+  "location": 2,
+  "content": "White clean",
+  "music": 0.0
+ },
+ {
+  "from": 2226.68,
+  "to": 2228.76,
+  "sid": 843,
+  "location": 2,
+  "content": "Can you guys say life",
+  "music": 0.0
+ },
+ {
+  "from": 2238.21,
+  "to": 2241.85,
+  "sid": 844,
+  "location": 2,
+  "content": "I have the spike scanning ahead",
+  "music": 0.0
+ },
+ {
+  "from": 2243.88,
+  "to": 2247.779,
+  "sid": 845,
+  "location": 2,
+  "content": "Oh how i blind doshadow travelling",
+  "music": 0.0
+ },
+ {
+  "from": 2255.92,
+  "to": 2257.28,
+  "sid": 846,
+  "location": 2,
+  "content": "哇哦",
+  "music": 0.0
+ },
+ {
+  "from": 2266.22,
+  "to": 2266.98,
+  "sid": 847,
+  "location": 2,
+  "content": "Can you tap",
+  "music": 0.0
+ },
+ {
+  "from": 2266.98,
+  "to": 2268.02,
+  "sid": 848,
+  "location": 2,
+  "content": "My backside",
+  "music": 0.0
+ },
+ {
+  "from": 2268.02,
+  "to": 2269.58,
+  "sid": 849,
+  "location": 2,
+  "content": "I'm back",
+  "music": 0.0
+ },
+ {
+  "from": 2269.58,
+  "to": 2271.1,
+  "sid": 850,
+  "location": 2,
+  "content": "But don't",
+  "music": 0.0
+ },
+ {
+  "from": 2273.24,
+  "to": 2275.5,
+  "sid": 851,
+  "location": 2,
+  "content": "They flash from back on bon",
+  "music": 0.0
+ },
+ {
+  "from": 2275.94,
+  "to": 2280.9,
+  "sid": 852,
+  "location": 2,
+  "content": "Max spike down a enemy down",
+  "music": 0.0
+ },
+ {
+  "from": 2300.87,
+  "to": 2304.53,
+  "sid": 853,
+  "location": 2,
+  "content": "Our spike carrier is killed or fight down mid",
+  "music": 0.0
+ },
+ {
+  "from": 2304.53,
+  "to": 2307.62,
+  "sid": 854,
+  "location": 2,
+  "content": "I have sp",
+  "music": 0.0
+ },
+ {
+  "from": 2307.78,
+  "to": 2309.06,
+  "sid": 855,
+  "location": 2,
+  "content": "Can you take the dp to us",
+  "music": 0.0
+ },
+ {
+  "from": 2309.06,
+  "to": 2311.18,
+  "sid": 856,
+  "location": 2,
+  "content": "Alone alan take dp to us",
+  "music": 0.0
+ },
+ {
+  "from": 2311.53,
+  "to": 2312.73,
+  "sid": 857,
+  "location": 2,
+  "content": "Watch them",
+  "music": 0.0
+ },
+ {
+  "from": 2312.73,
+  "to": 2318.23,
+  "sid": 858,
+  "location": 2,
+  "content": "And we hot for me the holi have one smoke",
+  "music": 0.0
+ },
+ {
+  "from": 2318.23,
+  "to": 2319.72,
+  "sid": 859,
+  "location": 2,
+  "content": "One was was",
+  "music": 0.0
+ },
+ {
+  "from": 2328.33,
+  "to": 2330.19,
+  "sid": 860,
+  "location": 2,
+  "content": "Ha ha ha ha give me up",
+  "music": 0.0
+ },
+ {
+  "from": 2330.19,
+  "to": 2330.55,
+  "sid": 861,
+  "location": 2,
+  "content": "Okay",
+  "music": 0.0
+ },
+ {
+  "from": 2330.55,
+  "to": 2332.84,
+  "sid": 862,
+  "location": 2,
+  "content": "I can't he is heaven",
+  "music": 0.0
+ },
+ {
+  "from": 2332.84,
+  "to": 2333.16,
+  "sid": 863,
+  "location": 2,
+  "content": "Heaven",
+  "music": 0.0
+ },
+ {
+  "from": 2333.16,
+  "to": 2333.68,
+  "sid": 864,
+  "location": 2,
+  "content": "Heaven",
+  "music": 0.0
+ },
+ {
+  "from": 2333.68,
+  "to": 2338.0,
+  "sid": 865,
+  "location": 2,
+  "content": "Where is everyone high cage trigger",
+  "music": 0.0
+ },
+ {
+  "from": 2340.22,
+  "to": 2341.4,
+  "sid": 866,
+  "location": 2,
+  "content": "One hp",
+  "music": 0.0
+ },
+ {
+  "from": 2341.4,
+  "to": 2342.06,
+  "sid": 867,
+  "location": 2,
+  "content": "One ten",
+  "music": 0.0
+ },
+ {
+  "from": 2342.06,
+  "to": 2343.5,
+  "sid": 868,
+  "location": 2,
+  "content": "One ten",
+  "music": 0.0
+ },
+ {
+  "from": 2345.8,
+  "to": 2347.94,
+  "sid": 869,
+  "location": 2,
+  "content": "What can jump",
+  "music": 0.0
+ },
+ {
+  "from": 2347.94,
+  "to": 2348.56,
+  "sid": 870,
+  "location": 2,
+  "content": "Okay",
+  "music": 0.0
+ },
+ {
+  "from": 2348.56,
+  "to": 2349.34,
+  "sid": 871,
+  "location": 2,
+  "content": "Uh",
+  "music": 0.0
+ },
+ {
+  "from": 2349.34,
+  "to": 2350.36,
+  "sid": 872,
+  "location": 2,
+  "content": "Let let me do the trap",
+  "music": 0.0
+ },
+ {
+  "from": 2350.36,
+  "to": 2351.04,
+  "sid": 873,
+  "location": 2,
+  "content": "And i'll come to you",
+  "music": 0.0
+ },
+ {
+  "from": 2351.04,
+  "to": 2352.48,
+  "sid": 874,
+  "location": 2,
+  "content": "Guys stu",
+  "music": 0.0
+ },
+ {
+  "from": 2363.18,
+  "to": 2364.7,
+  "sid": 875,
+  "location": 2,
+  "content": "Where is the revealed",
+  "music": 0.0
+ },
+ {
+  "from": 2367.02,
+  "to": 2371.2,
+  "sid": 876,
+  "location": 2,
+  "content": "Enemies down one enemy remain",
+  "music": 0.0
+ },
+ {
+  "from": 2371.2,
+  "to": 2373.48,
+  "sid": 877,
+  "location": 2,
+  "content": "But very very",
+  "music": 0.0
+ },
+ {
+  "from": 2373.48,
+  "to": 2375.68,
+  "sid": 878,
+  "location": 2,
+  "content": "I got one tap one enemy remain",
+  "music": 0.0
+ },
+ {
+  "from": 2375.68,
+  "to": 2377.04,
+  "sid": 879,
+  "location": 2,
+  "content": "The cage careful fright",
+  "music": 0.0
+ },
+ {
+  "from": 2377.04,
+  "to": 2378.27,
+  "sid": 880,
+  "location": 2,
+  "content": "Now get for f",
+  "music": 0.0
+ },
+ {
+  "from": 2378.27,
+  "to": 2382.19,
+  "sid": 881,
+  "location": 2,
+  "content": "I was not that i get w write aim",
+  "music": 0.0
+ },
+ {
+  "from": 2382.19,
+  "to": 2382.87,
+  "sid": 882,
+  "location": 2,
+  "content": "Oh wait",
+  "music": 0.0
+ },
+ {
+  "from": 2382.87,
+  "to": 2383.31,
+  "sid": 883,
+  "location": 2,
+  "content": "Youtube chat",
+  "music": 0.0
+ },
+ {
+  "from": 2383.31,
+  "to": 2384.87,
+  "sid": 884,
+  "location": 2,
+  "content": "You also writing a m youtube chat",
+  "music": 0.0
+ },
+ {
+  "from": 2384.87,
+  "to": 2386.23,
+  "sid": 885,
+  "location": 2,
+  "content": "You can just check my youtube",
+  "music": 0.0
+ },
+ {
+  "from": 2386.23,
+  "to": 2388.43,
+  "sid": 886,
+  "location": 2,
+  "content": "Outtaxi after the page",
+  "music": 0.0
+ },
+ {
+  "from": 2388.43,
+  "to": 2389.19,
+  "sid": 887,
+  "location": 2,
+  "content": "Actually",
+  "music": 0.0
+ },
+ {
+  "from": 2389.19,
+  "to": 2391.31,
+  "sid": 888,
+  "location": 2,
+  "content": "I need to add for my",
+  "music": 0.0
+ },
+ {
+  "from": 2391.75,
+  "to": 2394.73,
+  "sid": 889,
+  "location": 2,
+  "content": "And for my youtube ball also nice",
+  "music": 0.0
+ },
+ {
+  "from": 2394.73,
+  "to": 2396.47,
+  "sid": 890,
+  "location": 2,
+  "content": "Which have white people on youtube",
+  "music": 0.0
+ },
+ {
+  "from": 2396.47,
+  "to": 2398.51,
+  "sid": 891,
+  "location": 2,
+  "content": "Done like my stream",
+  "music": 0.0
+ },
+ {
+  "from": 2408.559,
+  "to": 2409.559,
+  "sid": 892,
+  "location": 2,
+  "content": "Go go go go",
+  "music": 0.0
+ },
+ {
+  "from": 2409.559,
+  "to": 2409.959,
+  "sid": 893,
+  "location": 2,
+  "content": "Just go",
+  "music": 0.0
+ },
+ {
+  "from": 2409.959,
+  "to": 2411.079,
+  "sid": 894,
+  "location": 2,
+  "content": "Just go",
+  "music": 0.0
+ },
+ {
+  "from": 2413.54,
+  "to": 2416.58,
+  "sid": 895,
+  "location": 2,
+  "content": "Foolish like that nice",
+  "music": 0.0
+ },
+ {
+  "from": 2416.58,
+  "to": 2416.7,
+  "sid": 896,
+  "location": 2,
+  "content": "One",
+  "music": 0.0
+ },
+ {
+  "from": 2416.7,
+  "to": 2418.78,
+  "sid": 897,
+  "location": 2,
+  "content": "Nice to everyone",
+  "music": 0.0
+ },
+ {
+  "from": 2418.78,
+  "to": 2420.7,
+  "sid": 898,
+  "location": 2,
+  "content": "Hiding",
+  "music": 0.0
+ },
+ {
+  "from": 2431.25,
+  "to": 2431.77,
+  "sid": 899,
+  "location": 2,
+  "content": "Let me",
+  "music": 0.0
+ },
+ {
+  "from": 2431.77,
+  "to": 2432.81,
+  "sid": 900,
+  "location": 2,
+  "content": "Let me put camera",
+  "music": 0.0
+ },
+ {
+  "from": 2432.81,
+  "to": 2433.13,
+  "sid": 901,
+  "location": 2,
+  "content": "Then",
+  "music": 0.0
+ },
+ {
+  "from": 2433.13,
+  "to": 2433.49,
+  "sid": 902,
+  "location": 2,
+  "content": "Okay",
+  "music": 0.0
+ },
+ {
+  "from": 2433.49,
+  "to": 2436.29,
+  "sid": 903,
+  "location": 2,
+  "content": "Go we go over dunk from here",
+  "music": 0.0
+ },
+ {
+  "from": 2436.29,
+  "to": 2437.73,
+  "sid": 904,
+  "location": 2,
+  "content": "I just old base of drunk",
+  "music": 0.0
+ },
+ {
+  "from": 2437.73,
+  "to": 2438.63,
+  "sid": 905,
+  "location": 2,
+  "content": "Okay",
+  "music": 0.0
+ },
+ {
+  "from": 2438.63,
+  "to": 2440.53,
+  "sid": 906,
+  "location": 2,
+  "content": "But there's no one",
+  "music": 0.0
+ },
+ {
+  "from": 2441.32,
+  "to": 2442.76,
+  "sid": 907,
+  "location": 2,
+  "content": "Don't smoke heaven for a",
+  "music": 0.0
+ },
+ {
+  "from": 2442.76,
+  "to": 2443.8,
+  "sid": 908,
+  "location": 2,
+  "content": "Maybe will smoke",
+  "music": 0.0
+ },
+ {
+  "from": 2443.8,
+  "to": 2445.84,
+  "sid": 909,
+  "location": 2,
+  "content": "Will be heaven",
+  "music": 0.0
+ },
+ {
+  "from": 2450.74,
+  "to": 2452.8,
+  "sid": 910,
+  "location": 2,
+  "content": "Obscuring vision and fall back here",
+  "music": 0.0
+ },
+ {
+  "from": 2452.8,
+  "to": 2453.72,
+  "sid": 911,
+  "location": 2,
+  "content": "Get ahead",
+  "music": 0.0
+ },
+ {
+  "from": 2453.72,
+  "to": 2455.7,
+  "sid": 912,
+  "location": 2,
+  "content": "Then backside one",
+  "music": 0.0
+ },
+ {
+  "from": 2455.7,
+  "to": 2457.22,
+  "sid": 913,
+  "location": 2,
+  "content": "Got in the fu",
+  "music": 0.0
+ },
+ {
+  "from": 2457.89,
+  "to": 2460.13,
+  "sid": 914,
+  "location": 2,
+  "content": "玩hp修包",
+  "music": 0.0
+ },
+ {
+  "from": 2460.87,
+  "to": 2463.67,
+  "sid": 915,
+  "location": 2,
+  "content": "So i want steven go fcity",
+  "music": 0.0
+ },
+ {
+  "from": 2463.67,
+  "to": 2464.19,
+  "sid": 916,
+  "location": 2,
+  "content": "Go fcity",
+  "music": 0.0
+ },
+ {
+  "from": 2464.19,
+  "to": 2465.67,
+  "sid": 917,
+  "location": 2,
+  "content": "I should go with him",
+  "music": 0.0
+ },
+ {
+  "from": 2471.749,
+  "to": 2473.349,
+  "sid": 918,
+  "location": 2,
+  "content": "Almost where is it",
+  "music": 0.0
+ },
+ {
+  "from": 2473.349,
+  "to": 2477.24,
+  "sid": 919,
+  "location": 2,
+  "content": "Where is just sit",
+  "music": 0.0
+ },
+ {
+  "from": 2478.0,
+  "to": 2480.7,
+  "sid": 920,
+  "location": 2,
+  "content": "哦吼不错不错",
+  "music": 0.0
+ },
+ {
+  "from": 2490.64,
+  "to": 2492.7,
+  "sid": 921,
+  "location": 2,
+  "content": "Do you heaven",
+  "music": 0.0
+ },
+ {
+  "from": 2506.01,
+  "to": 2511.41,
+  "sid": 922,
+  "location": 2,
+  "content": "One enemy remaining right sorder mon",
+  "music": 0.0
+ },
+ {
+  "from": 2511.77,
+  "to": 2515.67,
+  "sid": 923,
+  "location": 2,
+  "content": "I didn't plfirst",
+  "music": 0.0
+ },
+ {
+  "from": 2515.67,
+  "to": 2516.81,
+  "sid": 924,
+  "location": 2,
+  "content": "Much should be twenty five",
+  "music": 0.0
+ },
+ {
+  "from": 2516.81,
+  "to": 2517.29,
+  "sid": 925,
+  "location": 2,
+  "content": "Yeah",
+  "music": 0.0
+ },
+ {
+  "from": 2518.29,
+  "to": 2519.57,
+  "sid": 926,
+  "location": 2,
+  "content": "Right",
+  "music": 0.0
+ },
+ {
+  "from": 2521.02,
+  "to": 2522.14,
+  "sid": 927,
+  "location": 2,
+  "content": "Slowing them down",
+  "music": 0.0
+ },
+ {
+  "from": 2523.34,
+  "to": 2524.88,
+  "sid": 928,
+  "location": 2,
+  "content": "No pk",
+  "music": 0.0
+ },
+ {
+  "from": 2536.73,
+  "to": 2539.21,
+  "sid": 929,
+  "location": 2,
+  "content": "Cage trigger",
+  "music": 0.0
+ },
+ {
+  "from": 2548.94,
+  "to": 2549.68,
+  "sid": 930,
+  "location": 2,
+  "content": "One day",
+  "music": 0.0
+ },
+ {
+  "from": 2549.68,
+  "to": 2550.54,
+  "sid": 931,
+  "location": 2,
+  "content": "The best thing",
+  "music": 0.0
+ },
+ {
+  "from": 2551.94,
+  "to": 2556.54,
+  "sid": 932,
+  "location": 2,
+  "content": "One enemy rema nice",
+  "music": 0.0
+ },
+ {
+  "from": 2556.54,
+  "to": 2558.54,
+  "sid": 933,
+  "location": 2,
+  "content": "What the blade",
+  "music": 0.0
+ },
+ {
+  "from": 2558.58,
+  "to": 2559.98,
+  "sid": 934,
+  "location": 2,
+  "content": "My ultimate is ready",
+  "music": 0.0
+ },
+ {
+  "from": 2559.98,
+  "to": 2561.52,
+  "sid": 935,
+  "location": 2,
+  "content": "I wish you fall off them up",
+  "music": 0.0
+ },
+ {
+  "from": 2561.52,
+  "to": 2562.34,
+  "sid": 936,
+  "location": 2,
+  "content": "I was thinking",
+  "music": 0.0
+ },
+ {
+  "from": 2562.34,
+  "to": 2565.83,
+  "sid": 937,
+  "location": 2,
+  "content": "I will ha ha ha ha ha backpack",
+  "music": 0.0
+ },
+ {
+  "from": 2565.83,
+  "to": 2567.49,
+  "sid": 938,
+  "location": 2,
+  "content": "You are hoping i will",
+  "music": 0.0
+ },
+ {
+  "from": 2567.49,
+  "to": 2568.15,
+  "sid": 939,
+  "location": 2,
+  "content": "Yeah",
+  "music": 0.0
+ },
+ {
+  "from": 2568.15,
+  "to": 2570.24,
+  "sid": 940,
+  "location": 2,
+  "content": "Why are you such a",
+  "music": 0.0
+ }
+]

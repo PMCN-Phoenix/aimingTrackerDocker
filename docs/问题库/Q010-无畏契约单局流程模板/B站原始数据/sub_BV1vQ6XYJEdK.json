@@ -1,0 +1,3602 @@
+[
+ {
+  "from": 0.08,
+  "to": 1.58,
+  "sid": 1,
+  "location": 2,
+  "content": "从铂金一路到神话",
+  "music": 0.0
+ },
+ {
+  "from": 1.58,
+  "to": 2.48,
+  "sid": 2,
+  "location": 2,
+  "content": "感慨很多",
+  "music": 0.0
+ },
+ {
+  "from": 2.48,
+  "to": 5.8,
+  "sid": 3,
+  "location": 2,
+  "content": "同时也看到许多小伙伴们在游戏整体思路",
+  "music": 0.0
+ },
+ {
+  "from": 5.8,
+  "to": 9.16,
+  "sid": 4,
+  "location": 2,
+  "content": "以及残局的处理都有很大的潜力",
+  "music": 0.0
+ },
+ {
+  "from": 9.24,
+  "to": 10.78,
+  "sid": 5,
+  "location": 2,
+  "content": "本期视频开始",
+  "music": 0.0
+ },
+ {
+  "from": 10.78,
+  "to": 14.02,
+  "sid": 6,
+  "location": 2,
+  "content": "我将讲解自己在神话局的游戏思路",
+  "music": 0.0
+ },
+ {
+  "from": 14.02,
+  "to": 16.18,
+  "sid": 7,
+  "location": 2,
+  "content": "从而尽可能的帮助到大家",
+  "music": 0.0
+ },
+ {
+  "from": 16.18,
+  "to": 16.84,
+  "sid": 8,
+  "location": 2,
+  "content": "蒙蔽他们",
+  "music": 0.0
+ },
+ {
+  "from": 16.84,
+  "to": 19.96,
+  "sid": 9,
+  "location": 2,
+  "content": "今天给大家带来的是瑞纳隐士修锁",
+  "music": 0.0
+ },
+ {
+  "from": 19.96,
+  "to": 21.74,
+  "sid": 10,
+  "location": 2,
+  "content": "游戏图录的讲解",
+  "music": 0.0
+ },
+ {
+  "from": 21.74,
+  "to": 22.94,
+  "sid": 11,
+  "location": 2,
+  "content": "众所周知",
+  "music": 0.0
+ },
+ {
+  "from": 22.94,
+  "to": 24.72,
+  "sid": 12,
+  "location": 2,
+  "content": "隐士修所地形复杂",
+  "music": 0.0
+ },
+ {
+  "from": 24.72,
+  "to": 27.49,
+  "sid": 13,
+  "location": 2,
+  "content": "有许多老六以及交叉枪位",
+  "music": 0.0
+ },
+ {
+  "from": 27.49,
+  "to": 32.53,
+  "sid": 14,
+  "location": 2,
+  "content": "在本场神话局里取得了33个人头的成绩",
+  "music": 0.0
+ },
+ {
+  "from": 32.53,
+  "to": 34.95,
+  "sid": 15,
+  "location": 2,
+  "content": "主要想给大家看一下游戏思路",
+  "music": 0.0
+ },
+ {
+  "from": 34.95,
+  "to": 36.85,
+  "sid": 16,
+  "location": 2,
+  "content": "希望其中能有帮助到大家的",
+  "music": 0.0
+ },
+ {
+  "from": 36.85,
+  "to": 40.03,
+  "sid": 17,
+  "location": 2,
+  "content": "部分手枪局选择在A小前顶打",
+  "music": 0.0
+ },
+ {
+  "from": 40.03,
+  "to": 41.02,
+  "sid": 18,
+  "location": 2,
+  "content": "观察也挺多的",
+  "music": 0.0
+ },
+ {
+  "from": 41.02,
+  "to": 43.02,
+  "sid": 19,
+  "location": 2,
+  "content": "这时候听到许多对方叫声",
+  "music": 0.0
+ },
+ {
+  "from": 43.02,
+  "to": 44.16,
+  "sid": 20,
+  "location": 2,
+  "content": "即使喊队友回防",
+  "music": 0.0
+ },
+ {
+  "from": 44.16,
+  "to": 45.22,
+  "sid": 21,
+  "location": 2,
+  "content": "同时不要恋战",
+  "music": 0.0
+ },
+ {
+  "from": 45.22,
+  "to": 45.96,
+  "sid": 22,
+  "location": 2,
+  "content": "退回包点",
+  "music": 0.0
+ },
+ {
+  "from": 45.96,
+  "to": 48.14,
+  "sid": 23,
+  "location": 2,
+  "content": "利用地形进行防守",
+  "music": 0.12087911423741066
+ },
+ {
+  "from": 48.239,
+  "to": 51.159,
+  "sid": 24,
+  "location": 2,
+  "content": "这时候对方瑞娜打野接风干",
+  "music": 0.0
+ },
+ {
+  "from": 51.159,
+  "to": 52.879,
+  "sid": 25,
+  "location": 2,
+  "content": "要及时避开A大枪线",
+  "music": 0.0
+ },
+ {
+  "from": 52.879,
+  "to": 56.239,
+  "sid": 26,
+  "location": 2,
+  "content": "选择AB连接站位的目的是保证自己不被打",
+  "music": 0.0
+ },
+ {
+  "from": 56.239,
+  "to": 61.83,
+  "sid": 27,
+  "location": 2,
+  "content": "侧身狼一看对方包点站位等待哦",
+  "music": 0.0
+ },
+ {
+  "from": 61.83,
+  "to": 63.73,
+  "sid": 28,
+  "location": 2,
+  "content": "一扣局我们选择起狂怒",
+  "music": 0.0
+ },
+ {
+  "from": 63.73,
+  "to": 66.71,
+  "sid": 29,
+  "location": 2,
+  "content": "贴近点防守A小狂怒的优点是稳定连发",
+  "music": 0.0
+ },
+ {
+  "from": 66.71,
+  "to": 68.25,
+  "sid": 30,
+  "location": 2,
+  "content": "可以有效避免枪械劣势",
+  "music": 0.0
+ },
+ {
+  "from": 68.25,
+  "to": 69.75,
+  "sid": 31,
+  "location": 2,
+  "content": "贴墙听对方A大没动静",
+  "music": 0.0
+ },
+ {
+  "from": 69.75,
+  "to": 72.47,
+  "sid": 32,
+  "location": 2,
+  "content": "及时补防B和C好C了C了",
+  "music": 0.0
+ },
+ {
+  "from": 73.51,
+  "to": 74.51,
+  "sid": 33,
+  "location": 2,
+  "content": "由于C点开口",
+  "music": 0.0
+ },
+ {
+  "from": 74.51,
+  "to": 77.15,
+  "sid": 34,
+  "location": 2,
+  "content": "狂怒的优点是近战选择占领车库",
+  "music": 0.0
+ },
+ {
+  "from": 77.15,
+  "to": 79.55,
+  "sid": 35,
+  "location": 2,
+  "content": "以图进一步蚕食对方控制权",
+  "music": 0.0
+ },
+ {
+  "from": 79.55,
+  "to": 81.71,
+  "sid": 36,
+  "location": 2,
+  "content": "这里没看到窗口下有人以为干净",
+  "music": 0.0
+ },
+ {
+  "from": 81.71,
+  "to": 82.57,
+  "sid": 37,
+  "location": 2,
+  "content": "但有一个老六",
+  "music": 0.0
+ },
+ {
+  "from": 82.57,
+  "to": 85.65,
+  "sid": 38,
+  "location": 2,
+  "content": "还好对方枪法不走近",
+  "music": 0.0
+ },
+ {
+  "from": 86.37,
+  "to": 89.41,
+  "sid": 39,
+  "location": 2,
+  "content": "哎哇福利局",
+  "music": 0.0
+ },
+ {
+  "from": 89.41,
+  "to": 91.43,
+  "sid": 40,
+  "location": 2,
+  "content": "为避免对方枪械劣势突进包点",
+  "music": 0.0
+ },
+ {
+  "from": 91.43,
+  "to": 92.51,
+  "sid": 41,
+  "location": 2,
+  "content": "拉近交火距离",
+  "music": 0.0
+ },
+ {
+  "from": 92.51,
+  "to": 94.24,
+  "sid": 42,
+  "location": 2,
+  "content": "继续选择前压A小",
+  "music": 0.0
+ },
+ {
+  "from": 94.24,
+  "to": 96.26,
+  "sid": 43,
+  "location": 2,
+  "content": "但KO的标探测到我们位置",
+  "music": 0.0
+ },
+ {
+  "from": 96.26,
+  "to": 98.88,
+  "sid": 44,
+  "location": 2,
+  "content": "避免对方提前枪回退包点防守",
+  "music": 0.0
+ },
+ {
+  "from": 98.88,
+  "to": 100.78,
+  "sid": 45,
+  "location": 2,
+  "content": "知道对方A大进攻动向",
+  "music": 0.0
+ },
+ {
+  "from": 100.78,
+  "to": 101.8,
+  "sid": 46,
+  "location": 2,
+  "content": "选择拐角位置",
+  "music": 0.0
+ },
+ {
+  "from": 101.8,
+  "to": 103.52,
+  "sid": 47,
+  "location": 2,
+  "content": "将A大和A小枪线拉成直线",
+  "music": 0.0
+ },
+ {
+  "from": 103.52,
+  "to": 105.91,
+  "sid": 48,
+  "location": 2,
+  "content": "避免对方形成交叉火力",
+  "music": 0.0
+ },
+ {
+  "from": 106.27,
+  "to": 107.51,
+  "sid": 49,
+  "location": 2,
+  "content": "这里其实翻枪了",
+  "music": 0.0
+ },
+ {
+  "from": 107.51,
+  "to": 109.41,
+  "sid": 50,
+  "location": 2,
+  "content": "应该打掉一个直接拉野换位之战",
+  "music": 0.0
+ },
+ {
+  "from": 109.41,
+  "to": 110.96,
+  "sid": 51,
+  "location": 2,
+  "content": "避免掉枪",
+  "music": 0.0
+ },
+ {
+  "from": 111.2,
+  "to": 113.04,
+  "sid": 52,
+  "location": 2,
+  "content": "听到对方瑞达拉移换位置",
+  "music": 0.0
+ },
+ {
+  "from": 113.04,
+  "to": 114.06,
+  "sid": 53,
+  "location": 2,
+  "content": "无法进行补枪",
+  "music": 0.0
+ },
+ {
+  "from": 114.06,
+  "to": 115.06,
+  "sid": 54,
+  "location": 2,
+  "content": "及时清理包点",
+  "music": 0.0
+ },
+ {
+  "from": 115.06,
+  "to": 116.04,
+  "sid": 55,
+  "location": 2,
+  "content": "如果有人的话",
+  "music": 0.0
+ },
+ {
+  "from": 116.04,
+  "to": 118.11,
+  "sid": 56,
+  "location": 2,
+  "content": "是一个绝佳的2B机会",
+  "music": 0.0
+ },
+ {
+  "from": 118.11,
+  "to": 119.31,
+  "sid": 57,
+  "location": 2,
+  "content": "但可惜没人",
+  "music": 0.0
+ },
+ {
+  "from": 119.31,
+  "to": 122.77,
+  "sid": 58,
+  "location": 2,
+  "content": "剩下的也都一次被队友打掉",
+  "music": 0.0
+ },
+ {
+  "from": 123.41,
+  "to": 124.89,
+  "sid": 59,
+  "location": 2,
+  "content": "牛逼长枪局",
+  "music": 0.0
+ },
+ {
+  "from": 124.89,
+  "to": 127.13,
+  "sid": 60,
+  "location": 2,
+  "content": "继续选择A小开大前压拿信息",
+  "music": 0.0
+ },
+ {
+  "from": 127.13,
+  "to": 129.07,
+  "sid": 61,
+  "location": 2,
+  "content": "利用大招优势取得人头后",
+  "music": 0.0
+ },
+ {
+  "from": 129.07,
+  "to": 130.47,
+  "sid": 62,
+  "location": 2,
+  "content": "可以拉一回撤",
+  "music": 0.0
+ },
+ {
+  "from": 130.47,
+  "to": 132.07,
+  "sid": 63,
+  "location": 2,
+  "content": "RPICK后没看到对方",
+  "music": 0.0
+ },
+ {
+  "from": 132.07,
+  "to": 133.71,
+  "sid": 64,
+  "location": 2,
+  "content": "此时听见中路脚步很多",
+  "music": 0.0
+ },
+ {
+  "from": 133.71,
+  "to": 134.45,
+  "sid": 65,
+  "location": 2,
+  "content": "及时报点",
+  "music": 0.0
+ },
+ {
+  "from": 134.45,
+  "to": 135.27,
+  "sid": 66,
+  "location": 2,
+  "content": "让队友预防",
+  "music": 0.0
+ },
+ {
+  "from": 135.27,
+  "to": 138.15,
+  "sid": 67,
+  "location": 2,
+  "content": "同时选择前压进行反包围",
+  "music": 0.0
+ },
+ {
+  "from": 138.32,
+  "to": 142.72,
+  "sid": 68,
+  "location": 2,
+  "content": "嗯听见对方下包进行一个常规位的穿着",
+  "music": 0.0
+ },
+ {
+  "from": 142.72,
+  "to": 144.0,
+  "sid": 69,
+  "location": 2,
+  "content": "爆能器已部署",
+  "music": 0.0
+ },
+ {
+  "from": 144.0,
+  "to": 147.0,
+  "sid": 70,
+  "location": 2,
+  "content": "此时通过小地图我们可以看到队友已经站住",
+  "music": 0.0
+ },
+ {
+  "from": 147.0,
+  "to": 148.18,
+  "sid": 71,
+  "location": 2,
+  "content": "AB连和BC连",
+  "music": 0.0
+ },
+ {
+  "from": 148.18,
+  "to": 150.1,
+  "sid": 72,
+  "location": 2,
+  "content": "确定对方均在包点",
+  "music": 0.0
+ },
+ {
+  "from": 150.1,
+  "to": 152.86,
+  "sid": 73,
+  "location": 2,
+  "content": "这时候中路一定要先进行进攻态势",
+  "music": 0.0
+ },
+ {
+  "from": 152.86,
+  "to": 155.16,
+  "sid": 74,
+  "location": 2,
+  "content": "因为AB连和BC连各只有队友一人",
+  "music": 0.0
+ },
+ {
+  "from": 155.16,
+  "to": 156.46,
+  "sid": 75,
+  "location": 2,
+  "content": "要减轻队友压力",
+  "music": 0.0
+ },
+ {
+  "from": 156.46,
+  "to": 159.18,
+  "sid": 76,
+  "location": 2,
+  "content": "此时人数劣势已经判断对方全在包点",
+  "music": 0.0
+ },
+ {
+  "from": 159.18,
+  "to": 160.9,
+  "sid": 77,
+  "location": 2,
+  "content": "包点的任何位置都可能有对方",
+  "music": 0.0
+ },
+ {
+  "from": 160.9,
+  "to": 162.98,
+  "sid": 78,
+  "location": 2,
+  "content": "B门两边的位置要格外小心",
+  "music": 0.0
+ },
+ {
+  "from": 162.98,
+  "to": 164.3,
+  "sid": 79,
+  "location": 2,
+  "content": "打掉露点的瑞纳",
+  "music": 0.0
+ },
+ {
+  "from": 164.3,
+  "to": 165.74,
+  "sid": 80,
+  "location": 2,
+  "content": "及时拉一获取信息",
+  "music": 0.0
+ },
+ {
+  "from": 165.74,
+  "to": 168.46,
+  "sid": 81,
+  "location": 2,
+  "content": "注意搜右手解放AB连队友",
+  "music": 0.0
+ },
+ {
+  "from": 168.46,
+  "to": 169.68,
+  "sid": 82,
+  "location": 2,
+  "content": "左手没有补枪",
+  "music": 0.0
+ },
+ {
+  "from": 169.68,
+  "to": 171.66,
+  "sid": 83,
+  "location": 2,
+  "content": "大致判断对方没有站位",
+  "music": 0.0
+ },
+ {
+  "from": 171.66,
+  "to": 173.14,
+  "sid": 84,
+  "location": 2,
+  "content": "此时KO被打掉",
+  "music": 0.0
+ },
+ {
+  "from": 173.14,
+  "to": 174.34,
+  "sid": 85,
+  "location": 2,
+  "content": "穆蝶从来没有路",
+  "music": 0.0
+ },
+ {
+  "from": 174.34,
+  "to": 175.44,
+  "sid": 86,
+  "location": 2,
+  "content": "要仔细搜干净",
+  "music": 0.0
+ },
+ {
+  "from": 175.44,
+  "to": 179.81,
+  "sid": 87,
+  "location": 2,
+  "content": "防止老六继续选择A小前压拿信息",
+  "music": 0.0
+ },
+ {
+  "from": 179.81,
+  "to": 181.41,
+  "sid": 88,
+  "location": 2,
+  "content": "此时A大并没有动静",
+  "music": 0.0
+ },
+ {
+  "from": 181.41,
+  "to": 181.81,
+  "sid": 89,
+  "location": 2,
+  "content": "到C了",
+  "music": 0.0
+ },
+ {
+  "from": 181.81,
+  "to": 182.21,
+  "sid": 90,
+  "location": 2,
+  "content": "到C了",
+  "music": 0.0
+ },
+ {
+  "from": 182.21,
+  "to": 184.209,
+  "sid": 91,
+  "location": 2,
+  "content": "炸标判断对方进攻C点",
+  "music": 0.0
+ },
+ {
+  "from": 184.209,
+  "to": 186.049,
+  "sid": 92,
+  "location": 2,
+  "content": "由于后续没用C点动向",
+  "music": 0.0
+ },
+ {
+  "from": 186.049,
+  "to": 187.149,
+  "sid": 93,
+  "location": 2,
+  "content": "判断对方转点",
+  "music": 0.0
+ },
+ {
+  "from": 187.149,
+  "to": 189.049,
+  "sid": 94,
+  "location": 2,
+  "content": "此时一定要有个假想敌上位",
+  "music": 0.0
+ },
+ {
+  "from": 189.049,
+  "to": 191.65,
+  "sid": 95,
+  "location": 2,
+  "content": "在控中路把眼遮挡对方视野",
+  "music": 0.0
+ },
+ {
+  "from": 191.65,
+  "to": 192.89,
+  "sid": 96,
+  "location": 2,
+  "content": "获取中路枪位",
+  "music": 0.0
+ },
+ {
+  "from": 192.89,
+  "to": 195.3,
+  "sid": 97,
+  "location": 2,
+  "content": "为对方中路迟迟没有动向",
+  "music": 0.13664595424560627
+ },
+ {
+  "from": 195.3,
+  "to": 198.88,
+  "sid": 98,
+  "location": 2,
+  "content": "A但一直没有信息猜测对方进攻A点进行回防",
+  "music": 0.0
+ },
+ {
+  "from": 198.88,
+  "to": 201.48,
+  "sid": 99,
+  "location": 2,
+  "content": "此时KO在车库打掉队友保安信息位",
+  "music": 0.0
+ },
+ {
+  "from": 201.48,
+  "to": 202.04,
+  "sid": 100,
+  "location": 2,
+  "content": "一般不会单摸",
+  "music": 0.0
+ },
+ {
+  "from": 202.04,
+  "to": 202.32,
+  "sid": 101,
+  "location": 2,
+  "content": "对方",
+  "music": 0.0
+ },
+ {
+  "from": 202.32,
+  "to": 203.24,
+  "sid": 102,
+  "location": 2,
+  "content": "极大可能进攻地方",
+  "music": 0.0
+ },
+ {
+  "from": 203.24,
+  "to": 206.88,
+  "sid": 103,
+  "location": 2,
+  "content": "对方封烟直接混枪还不能用",
+  "music": 0.0
+ },
+ {
+  "from": 207.16,
+  "to": 208.4,
+  "sid": 104,
+  "location": 2,
+  "content": "终于过瘾了",
+  "music": 0.0
+ },
+ {
+  "from": 208.4,
+  "to": 210.06,
+  "sid": 105,
+  "location": 2,
+  "content": "爆能气落在B区被闪",
+  "music": 0.0
+ },
+ {
+  "from": 210.06,
+  "to": 211.3,
+  "sid": 106,
+  "location": 2,
+  "content": "及时被来了枪位",
+  "music": 0.0
+ },
+ {
+  "from": 211.3,
+  "to": 212.26,
+  "sid": 107,
+  "location": 2,
+  "content": "队友被打掉",
+  "music": 0.0
+ },
+ {
+  "from": 212.26,
+  "to": 214.39,
+  "sid": 108,
+  "location": 2,
+  "content": "要及时进行攻击",
+  "music": 0.0
+ },
+ {
+  "from": 214.39,
+  "to": 216.79,
+  "sid": 109,
+  "location": 2,
+  "content": "卡哇我方还剩一人哇",
+  "music": 0.0
+ },
+ {
+  "from": 216.79,
+  "to": 217.63,
+  "sid": 110,
+  "location": 2,
+  "content": "真没打过啊",
+  "music": 0.0
+ },
+ {
+  "from": 217.63,
+  "to": 219.45,
+  "sid": 111,
+  "location": 2,
+  "content": "本回合队友结封",
+  "music": 0.0
+ },
+ {
+  "from": 219.45,
+  "to": 220.99,
+  "sid": 112,
+  "location": 2,
+  "content": "选择中路前顶",
+  "music": 0.0
+ },
+ {
+  "from": 220.99,
+  "to": 223.615,
+  "sid": 113,
+  "location": 2,
+  "content": "帮队友架住VIP去",
+  "music": 0.0
+ },
+ {
+  "from": 224.29,
+  "to": 226.69,
+  "sid": 114,
+  "location": 2,
+  "content": "此时对方C大Rush及时回防",
+  "music": 0.0
+ },
+ {
+  "from": 226.69,
+  "to": 227.61,
+  "sid": 115,
+  "location": 2,
+  "content": "打两个眼",
+  "music": 0.0
+ },
+ {
+  "from": 227.61,
+  "to": 229.75,
+  "sid": 116,
+  "location": 2,
+  "content": "阻碍对方进入包后便尝试进攻",
+  "music": 0.0
+ },
+ {
+  "from": 229.75,
+  "to": 231.13,
+  "sid": 117,
+  "location": 2,
+  "content": "但队友包点没有犯人",
+  "music": 0.0
+ },
+ {
+  "from": 231.13,
+  "to": 232.68,
+  "sid": 118,
+  "location": 2,
+  "content": "只能循序渐进",
+  "music": 0.0
+ },
+ {
+  "from": 232.68,
+  "to": 234.96,
+  "sid": 119,
+  "location": 2,
+  "content": "one two go进入2V4环节",
+  "music": 0.2571428387754999
+ },
+ {
+  "from": 234.96,
+  "to": 235.72,
+  "sid": 120,
+  "location": 2,
+  "content": "难度较低",
+  "music": 0.0
+ },
+ {
+  "from": 235.72,
+  "to": 237.54,
+  "sid": 121,
+  "location": 2,
+  "content": "有保枪断枪想法",
+  "music": 0.0
+ },
+ {
+  "from": 237.54,
+  "to": 239.84,
+  "sid": 122,
+  "location": 2,
+  "content": "对方弱点给机会啊",
+  "music": 0.0
+ },
+ {
+  "from": 239.84,
+  "to": 241.76,
+  "sid": 123,
+  "location": 2,
+  "content": "此时队友又打掉一个",
+  "music": 0.0
+ },
+ {
+  "from": 241.76,
+  "to": 242.94,
+  "sid": 124,
+  "location": 2,
+  "content": "距离爆炸时间还早",
+  "music": 0.0
+ },
+ {
+  "from": 242.94,
+  "to": 245.66,
+  "sid": 125,
+  "location": 2,
+  "content": "有希望拿下尝试进攻队友被打掉",
+  "music": 0.0
+ },
+ {
+  "from": 245.66,
+  "to": 246.84,
+  "sid": 126,
+  "location": 2,
+  "content": "交流对方战法",
+  "music": 0.0
+ },
+ {
+  "from": 246.84,
+  "to": 248.78,
+  "sid": 127,
+  "location": 2,
+  "content": "但可惜幻影远距离劣势",
+  "music": 0.0
+ },
+ {
+  "from": 248.78,
+  "to": 250.66,
+  "sid": 128,
+  "location": 2,
+  "content": "上一回合中路尝试到机会",
+  "music": 0.0
+ },
+ {
+  "from": 250.66,
+  "to": 252.56,
+  "sid": 129,
+  "location": 2,
+  "content": "本回合继续在中路寻找优势",
+  "music": 0.0
+ },
+ {
+  "from": 252.56,
+  "to": 254.46,
+  "sid": 130,
+  "location": 2,
+  "content": "但对方双拉尝试失败",
+  "music": 0.0
+ },
+ {
+  "from": 254.46,
+  "to": 256.3,
+  "sid": 131,
+  "location": 2,
+  "content": "继续在A小前压拿信息",
+  "music": 0.0
+ },
+ {
+  "from": 256.3,
+  "to": 258.0,
+  "sid": 132,
+  "location": 2,
+  "content": "尽量获取人数优势",
+  "music": 0.0
+ },
+ {
+  "from": 259.36,
+  "to": 261.12,
+  "sid": 133,
+  "location": 2,
+  "content": "KOA小大标暴露信息",
+  "music": 0.0
+ },
+ {
+  "from": 261.12,
+  "to": 262.51,
+  "sid": 134,
+  "location": 2,
+  "content": "退后架枪",
+  "music": 0.0
+ },
+ {
+  "from": 262.51,
+  "to": 264.51,
+  "sid": 135,
+  "location": 2,
+  "content": "此时队友欧盟交流",
+  "music": 0.0
+ },
+ {
+  "from": 264.51,
+  "to": 266.71,
+  "sid": 136,
+  "location": 2,
+  "content": "准备配合推黑反清A小",
+  "music": 0.0
+ },
+ {
+  "from": 266.71,
+  "to": 270.4,
+  "sid": 137,
+  "location": 2,
+  "content": "但当时错意以为让自己当钩子",
+  "music": 0.0
+ },
+ {
+  "from": 270.4,
+  "to": 274.409,
+  "sid": 138,
+  "location": 2,
+  "content": "于是翠守A大澳门单独反清失败",
+  "music": 0.0
+ },
+ {
+  "from": 274.409,
+  "to": 276.009,
+  "sid": 139,
+  "location": 2,
+  "content": "对方齐了大招",
+  "music": 0.0
+ },
+ {
+  "from": 276.009,
+  "to": 277.289,
+  "sid": 140,
+  "location": 2,
+  "content": "逼迫自己站位",
+  "music": 0.0
+ },
+ {
+  "from": 277.289,
+  "to": 279.969,
+  "sid": 141,
+  "location": 2,
+  "content": "同时A小失手导致被包围",
+  "music": 0.0
+ },
+ {
+  "from": 279.969,
+  "to": 281.789,
+  "sid": 142,
+  "location": 2,
+  "content": "事后理解没交流好",
+  "music": 0.0
+ },
+ {
+  "from": 281.789,
+  "to": 282.61,
+  "sid": 143,
+  "location": 2,
+  "content": "请A小",
+  "music": 0.0
+ },
+ {
+  "from": 282.61,
+  "to": 286.27,
+  "sid": 144,
+  "location": 2,
+  "content": "我以为你啊",
+  "music": 0.0
+ },
+ {
+  "from": 286.27,
+  "to": 287.81,
+  "sid": 145,
+  "location": 2,
+  "content": "我听到你推黑的时候",
+  "music": 0.0
+ },
+ {
+  "from": 287.81,
+  "to": 289.09,
+  "sid": 146,
+  "location": 2,
+  "content": "我才知道你啥意思",
+  "music": 0.0
+ },
+ {
+  "from": 289.09,
+  "to": 294.339,
+  "sid": 147,
+  "location": 2,
+  "content": "我的我的的继续选择A小前压获取信息",
+  "music": 0.0
+ },
+ {
+  "from": 294.339,
+  "to": 296.299,
+  "sid": 148,
+  "location": 2,
+  "content": "REPEEK没有发现对方踪迹",
+  "music": 0.0
+ },
+ {
+  "from": 296.299,
+  "to": 297.379,
+  "sid": 149,
+  "location": 2,
+  "content": "C点K有达标",
+  "music": 0.0
+ },
+ {
+  "from": 297.379,
+  "to": 299.54,
+  "sid": 150,
+  "location": 2,
+  "content": "回方C点赶赴战场",
+  "music": 0.0
+ },
+ {
+  "from": 299.54,
+  "to": 300.28,
+  "sid": 151,
+  "location": 2,
+  "content": "但战斗结束",
+  "music": 0.0
+ },
+ {
+  "from": 300.28,
+  "to": 302.4,
+  "sid": 152,
+  "location": 2,
+  "content": "此时穆迪和奇乐没有出现过",
+  "music": 0.0
+ },
+ {
+  "from": 302.4,
+  "to": 305.0,
+  "sid": 153,
+  "location": 2,
+  "content": "由于是警家回防中路失去信息很久",
+  "music": 0.0
+ },
+ {
+  "from": 305.0,
+  "to": 308.31,
+  "sid": 154,
+  "location": 2,
+  "content": "对方很有可能单魔选择一个非预瞄位",
+  "music": 0.0
+ },
+ {
+  "from": 308.31,
+  "to": 309.45,
+  "sid": 155,
+  "location": 2,
+  "content": "由于是3V1",
+  "music": 0.0
+ },
+ {
+  "from": 309.45,
+  "to": 310.47,
+  "sid": 156,
+  "location": 2,
+  "content": "没必要出去寻找",
+  "music": 0.0
+ },
+ {
+  "from": 310.47,
+  "to": 311.78,
+  "sid": 157,
+  "location": 2,
+  "content": "给1V1机会",
+  "music": 0.0
+ },
+ {
+  "from": 311.78,
+  "to": 313.34,
+  "sid": 158,
+  "location": 2,
+  "content": "队友在车库被打掉",
+  "music": 0.0
+ },
+ {
+  "from": 313.34,
+  "to": 316.11,
+  "sid": 159,
+  "location": 2,
+  "content": "及时补位DC连减轻保安压力",
+  "music": 0.0
+ },
+ {
+  "from": 316.11,
+  "to": 318.27,
+  "sid": 160,
+  "location": 2,
+  "content": "此时兰博想起自身位置暴露",
+  "music": 0.0
+ },
+ {
+  "from": 318.27,
+  "to": 319.03,
+  "sid": 161,
+  "location": 2,
+  "content": "要及时换位",
+  "music": 0.0
+ },
+ {
+  "from": 319.03,
+  "to": 319.77,
+  "sid": 162,
+  "location": 2,
+  "content": "保持神秘",
+  "music": 0.0
+ },
+ {
+  "from": 319.77,
+  "to": 320.89,
+  "sid": 163,
+  "location": 2,
+  "content": "确定齐乐在车库",
+  "music": 0.0
+ },
+ {
+  "from": 320.89,
+  "to": 324.05,
+  "sid": 164,
+  "location": 2,
+  "content": "从中路反清车库过去时间很长",
+  "music": 0.0
+ },
+ {
+  "from": 324.05,
+  "to": 328.59,
+  "sid": 165,
+  "location": 2,
+  "content": "存在对方反摸可能保一边推车库被抓",
+  "music": 0.06516290563501247
+ },
+ {
+  "from": 328.59,
+  "to": 330.51,
+  "sid": 166,
+  "location": 2,
+  "content": "timing还好没有枪",
+  "music": 0.0
+ },
+ {
+  "from": 332.11,
+  "to": 333.75,
+  "sid": 167,
+  "location": 2,
+  "content": "上回合前压A小失败",
+  "music": 0.0
+ },
+ {
+  "from": 333.75,
+  "to": 337.51,
+  "sid": 168,
+  "location": 2,
+  "content": "这局ANTIECHO选择从车库尝试寻找机会",
+  "music": 0.1194029815103532
+ },
+ {
+  "from": 338.23,
+  "to": 339.79,
+  "sid": 169,
+  "location": 2,
+  "content": "听见中路人多",
+  "music": 0.0
+ },
+ {
+  "from": 339.79,
+  "to": 341.17,
+  "sid": 170,
+  "location": 2,
+  "content": "不弹墙回撤",
+  "music": 0.0
+ },
+ {
+  "from": 341.17,
+  "to": 343.57,
+  "sid": 171,
+  "location": 2,
+  "content": "防守包点REPEEK没看到人",
+  "music": 0.0
+ },
+ {
+  "from": 343.57,
+  "to": 345.41,
+  "sid": 172,
+  "location": 2,
+  "content": "大概率进攻中路与队友交流",
+  "music": 0.0
+ },
+ {
+  "from": 345.41,
+  "to": 348.65,
+  "sid": 173,
+  "location": 2,
+  "content": "进入房进车库搜他枪位没及时赶到",
+  "music": 0.0
+ },
+ {
+  "from": 348.65,
+  "to": 349.71,
+  "sid": 174,
+  "location": 2,
+  "content": "但要及时补枪",
+  "music": 0.0
+ },
+ {
+  "from": 349.71,
+  "to": 351.13,
+  "sid": 175,
+  "location": 2,
+  "content": "拉一回撤包点防守",
+  "music": 0.0
+ },
+ {
+  "from": 351.13,
+  "to": 353.419,
+  "sid": 176,
+  "location": 2,
+  "content": "利用包点地形进行阻击",
+  "music": 0.0
+ },
+ {
+  "from": 353.419,
+  "to": 357.119,
+  "sid": 177,
+  "location": 2,
+  "content": "地上打眼拉枪打观察没看到车库",
+  "music": 0.0
+ },
+ {
+  "from": 357.119,
+  "to": 357.899,
+  "sid": 178,
+  "location": 2,
+  "content": "对方可能错",
+  "music": 0.0
+ },
+ {
+  "from": 357.899,
+  "to": 359.939,
+  "sid": 179,
+  "location": 2,
+  "content": "还没及时看另一侧身",
+  "music": 0.0
+ },
+ {
+  "from": 359.939,
+  "to": 362.539,
+  "sid": 180,
+  "location": 2,
+  "content": "稳住枪还好收下",
+  "music": 0.0
+ },
+ {
+  "from": 362.539,
+  "to": 363.539,
+  "sid": 181,
+  "location": 2,
+  "content": "上回合人多",
+  "music": 0.0
+ },
+ {
+  "from": 363.539,
+  "to": 365.459,
+  "sid": 182,
+  "location": 2,
+  "content": "本回合打野拉车库遮挡对方视野",
+  "music": 0.0
+ },
+ {
+  "from": 365.459,
+  "to": 366.799,
+  "sid": 183,
+  "location": 2,
+  "content": "看是否能抽免费枪",
+  "music": 0.0
+ },
+ {
+  "from": 366.799,
+  "to": 370.159,
+  "sid": 184,
+  "location": 2,
+  "content": "中路没看到对方A大打野并发标大概率Rush",
+  "music": 0.0
+ },
+ {
+  "from": 370.159,
+  "to": 371.51,
+  "sid": 185,
+  "location": 2,
+  "content": "及时回防A点",
+  "music": 0.0
+ },
+ {
+  "from": 371.51,
+  "to": 373.19,
+  "sid": 186,
+  "location": 2,
+  "content": "中路要小心对方哨位断",
+  "music": 0.0
+ },
+ {
+  "from": 373.19,
+  "to": 374.25,
+  "sid": 187,
+  "location": 2,
+  "content": "别挡我的路",
+  "music": 0.0
+ },
+ {
+  "from": 374.25,
+  "to": 376.07,
+  "sid": 188,
+  "location": 2,
+  "content": "对方齐乐开大选择去二楼",
+  "music": 0.0
+ },
+ {
+  "from": 376.07,
+  "to": 376.55,
+  "sid": 189,
+  "location": 2,
+  "content": "没有大招",
+  "music": 0.0
+ },
+ {
+  "from": 376.55,
+  "to": 377.35,
+  "sid": 190,
+  "location": 2,
+  "content": "覆盖位置",
+  "music": 0.0
+ },
+ {
+  "from": 377.35,
+  "to": 378.27,
+  "sid": 191,
+  "location": 2,
+  "content": "大招结束",
+  "music": 0.0
+ },
+ {
+  "from": 378.27,
+  "to": 380.09,
+  "sid": 192,
+  "location": 2,
+  "content": "此时大概率对方会架二楼",
+  "music": 0.0
+ },
+ {
+  "from": 380.09,
+  "to": 381.79,
+  "sid": 193,
+  "location": 2,
+  "content": "小心架枪KO",
+  "music": 0.0
+ },
+ {
+  "from": 381.79,
+  "to": 383.64,
+  "sid": 194,
+  "location": 2,
+  "content": "丢雷回撤开大寻找机会",
+  "music": 0.0
+ },
+ {
+  "from": 383.64,
+  "to": 384.6,
+  "sid": 195,
+  "location": 2,
+  "content": "队友在AB连",
+  "music": 0.0
+ },
+ {
+  "from": 384.6,
+  "to": 385.44,
+  "sid": 196,
+  "location": 2,
+  "content": "在二楼打野",
+  "music": 0.0
+ },
+ {
+  "from": 385.44,
+  "to": 386.88,
+  "sid": 197,
+  "location": 2,
+  "content": "可以有效遮挡对方视野",
+  "music": 0.0
+ },
+ {
+  "from": 386.88,
+  "to": 387.78,
+  "sid": 198,
+  "location": 2,
+  "content": "从二楼跳出",
+  "music": 0.0
+ },
+ {
+  "from": 387.78,
+  "to": 389.04,
+  "sid": 199,
+  "location": 2,
+  "content": "帮助队友拉枪线",
+  "music": 0.0
+ },
+ {
+  "from": 389.04,
+  "to": 391.4,
+  "sid": 200,
+  "location": 2,
+  "content": "此时直到对方站位提前枪手奖励",
+  "music": 0.0
+ },
+ {
+  "from": 391.4,
+  "to": 393.16,
+  "sid": 201,
+  "location": 2,
+  "content": "换位置还剩一名敌人",
+  "music": 0.0
+ },
+ {
+  "from": 393.16,
+  "to": 394.24,
+  "sid": 202,
+  "location": 2,
+  "content": "对方结风开大",
+  "music": 0.0
+ },
+ {
+  "from": 394.24,
+  "to": 395.62,
+  "sid": 203,
+  "location": 2,
+  "content": "小心避开提前枪",
+  "music": 0.0
+ },
+ {
+  "from": 395.62,
+  "to": 397.44,
+  "sid": 204,
+  "location": 2,
+  "content": "找对方位置开了许多枪",
+  "music": 0.0
+ },
+ {
+  "from": 397.44,
+  "to": 398.48,
+  "sid": 205,
+  "location": 2,
+  "content": "对方并没有拉出",
+  "music": 0.0
+ },
+ {
+  "from": 398.48,
+  "to": 402.589,
+  "sid": 206,
+  "location": 2,
+  "content": "很可能想从另一边打我们射手手枪局胜利后",
+  "music": 0.0
+ },
+ {
+  "from": 402.589,
+  "to": 405.489,
+  "sid": 207,
+  "location": 2,
+  "content": "我们喜害灵拉近交火距离",
+  "music": 0.0
+ },
+ {
+  "from": 405.489,
+  "to": 409.0,
+  "sid": 208,
+  "location": 2,
+  "content": "紧跟杰风进行打眼补枪",
+  "music": 0.0
+ },
+ {
+  "from": 409.0,
+  "to": 410.28,
+  "sid": 209,
+  "location": 2,
+  "content": "对方瑞纳拉一回包",
+  "music": 0.0
+ },
+ {
+  "from": 410.28,
+  "to": 410.82,
+  "sid": 210,
+  "location": 2,
+  "content": "点这个烟",
+  "music": 0.0
+ },
+ {
+  "from": 410.82,
+  "to": 411.4,
+  "sid": 211,
+  "location": 2,
+  "content": "再一扣局",
+  "music": 0.0
+ },
+ {
+  "from": 411.4,
+  "to": 414.419,
+  "sid": 212,
+  "location": 2,
+  "content": "很容易有对方混烟喷子进行常规混枪",
+  "music": 0.0
+ },
+ {
+  "from": 414.419,
+  "to": 416.099,
+  "sid": 213,
+  "location": 2,
+  "content": "第一个眼打的没有必要",
+  "music": 0.0
+ },
+ {
+  "from": 416.099,
+  "to": 417.419,
+  "sid": 214,
+  "location": 2,
+  "content": "第二个眼是准备混烟",
+  "music": 0.0
+ },
+ {
+  "from": 417.419,
+  "to": 418.619,
+  "sid": 215,
+  "location": 2,
+  "content": "击杀烟雾里的对方",
+  "music": 0.0
+ },
+ {
+  "from": 418.619,
+  "to": 421.499,
+  "sid": 216,
+  "location": 2,
+  "content": "防止对方后续进行补枪补枪",
+  "music": 0.0
+ },
+ {
+  "from": 421.88,
+  "to": 423.28,
+  "sid": 217,
+  "location": 2,
+  "content": "此时见打B打B友",
+  "music": 0.0
+ },
+ {
+  "from": 423.28,
+  "to": 424.2,
+  "sid": 218,
+  "location": 2,
+  "content": "在包点加上瑞纳",
+  "music": 0.0
+ },
+ {
+  "from": 424.2,
+  "to": 428.93,
+  "sid": 219,
+  "location": 2,
+  "content": "至少两个都及时进行很多的很多的分析",
+  "music": 0.0
+ },
+ {
+  "from": 428.93,
+  "to": 434.45,
+  "sid": 220,
+  "location": 2,
+  "content": "对方站位A的B点安全带C",
+  "music": 0.0
+ },
+ {
+  "from": 435.53,
+  "to": 436.53,
+  "sid": 221,
+  "location": 2,
+  "content": "队友打掉齐了",
+  "music": 0.0
+ },
+ {
+  "from": 436.53,
+  "to": 438.29,
+  "sid": 222,
+  "location": 2,
+  "content": "已知KO在A包点出现",
+  "music": 0.0
+ },
+ {
+  "from": 438.29,
+  "to": 440.57,
+  "sid": 223,
+  "location": 2,
+  "content": "很有可能在AB连位置",
+  "music": 0.3190476038548802
+ },
+ {
+  "from": 441.25,
+  "to": 442.97,
+  "sid": 224,
+  "location": 2,
+  "content": "队友是侦查舰ab连",
+  "music": 0.0
+ },
+ {
+  "from": 442.97,
+  "to": 444.89,
+  "sid": 225,
+  "location": 2,
+  "content": "没有对方信息说明对方绕后",
+  "music": 0.0
+ },
+ {
+  "from": 444.89,
+  "to": 448.29,
+  "sid": 226,
+  "location": 2,
+  "content": "因为EQ举报手枪没有任何意义",
+  "music": 0.1628664442063051
+ },
+ {
+  "from": 448.69,
+  "to": 453.63,
+  "sid": 227,
+  "location": 2,
+  "content": "侦查到在VIP位置远距离用手枪对枪啊",
+  "music": 0.0
+ },
+ {
+  "from": 453.63,
+  "to": 457.23,
+  "sid": 228,
+  "location": 2,
+  "content": "我们在这就队友杰风",
+  "music": 0.28571426170469755
+ },
+ {
+  "from": 457.23,
+  "to": 459.67,
+  "sid": 229,
+  "location": 2,
+  "content": "选择中路Rush b打野进行掩护",
+  "music": 0.0
+ },
+ {
+  "from": 459.67,
+  "to": 462.21,
+  "sid": 230,
+  "location": 2,
+  "content": "补枪封锁视野",
+  "music": 0.13740456966378423
+ },
+ {
+  "from": 462.21,
+  "to": 464.405,
+  "sid": 231,
+  "location": 2,
+  "content": "必须有敌人在",
+  "music": 0.19298243921209296
+ },
+ {
+  "from": 465.52,
+  "to": 470.06,
+  "sid": 232,
+  "location": 2,
+  "content": "还不能用迅速解决战牛逼",
+  "music": 0.0
+ },
+ {
+  "from": 470.42,
+  "to": 472.22,
+  "sid": 233,
+  "location": 2,
+  "content": "上回合Rush c获得胜利",
+  "music": 0.0
+ },
+ {
+  "from": 472.22,
+  "to": 474.4,
+  "sid": 234,
+  "location": 2,
+  "content": "这回合选择在A尝试机会",
+  "music": 0.0
+ },
+ {
+  "from": 474.4,
+  "to": 478.23,
+  "sid": 235,
+  "location": 2,
+  "content": "A区有第一时间没有补上枪",
+  "music": 0.0
+ },
+ {
+  "from": 478.23,
+  "to": 480.95,
+  "sid": 236,
+  "location": 2,
+  "content": "打野重新获取枪位",
+  "music": 0.0
+ },
+ {
+  "from": 481.71,
+  "to": 483.59,
+  "sid": 237,
+  "location": 2,
+  "content": "常规位混枪没有收获",
+  "music": 0.0
+ },
+ {
+  "from": 483.59,
+  "to": 485.25,
+  "sid": 238,
+  "location": 2,
+  "content": "A点名具截风被打掉",
+  "music": 0.0
+ },
+ {
+  "from": 485.25,
+  "to": 486.84,
+  "sid": 239,
+  "location": 2,
+  "content": "缺少突进包点的能力",
+  "music": 0.0
+ },
+ {
+  "from": 486.84,
+  "to": 488.48,
+  "sid": 240,
+  "location": 2,
+  "content": "避免默认被明狙抽掉",
+  "music": 0.0
+ },
+ {
+  "from": 488.48,
+  "to": 490.32,
+  "sid": 241,
+  "location": 2,
+  "content": "人头重新控制中路",
+  "music": 0.0
+ },
+ {
+  "from": 490.32,
+  "to": 491.85,
+  "sid": 242,
+  "location": 2,
+  "content": "循序而渐进",
+  "music": 0.0
+ },
+ {
+  "from": 491.85,
+  "to": 493.45,
+  "sid": 243,
+  "location": 2,
+  "content": "随大保安摸进包点",
+  "music": 0.0
+ },
+ {
+  "from": 493.45,
+  "to": 494.37,
+  "sid": 244,
+  "location": 2,
+  "content": "打掉车库小鸡",
+  "music": 0.0
+ },
+ {
+  "from": 494.37,
+  "to": 496.05,
+  "sid": 245,
+  "location": 2,
+  "content": "让对方第一时间注意车库",
+  "music": 0.0
+ },
+ {
+  "from": 496.05,
+  "to": 498.159,
+  "sid": 246,
+  "location": 2,
+  "content": "减轻四点保安压力",
+  "music": 0.0
+ },
+ {
+  "from": 498.559,
+  "to": 499.639,
+  "sid": 247,
+  "location": 2,
+  "content": "打眼进入车库",
+  "music": 0.0
+ },
+ {
+  "from": 499.639,
+  "to": 501.799,
+  "sid": 248,
+  "location": 2,
+  "content": "防止门后或者窗口有人打侧身",
+  "music": 0.0
+ },
+ {
+  "from": 503.239,
+  "to": 505.26,
+  "sid": 249,
+  "location": 2,
+  "content": "完了确定死点",
+  "music": 0.0
+ },
+ {
+  "from": 505.26,
+  "to": 506.62,
+  "sid": 250,
+  "location": 2,
+  "content": "齐乐控制警家方向",
+  "music": 0.0
+ },
+ {
+  "from": 506.62,
+  "to": 508.84,
+  "sid": 251,
+  "location": 2,
+  "content": "确保对方不会突烟后再徐图其乐",
+  "music": 0.0
+ },
+ {
+  "from": 508.84,
+  "to": 511.81,
+  "sid": 252,
+  "location": 2,
+  "content": "但可惜KO丢顺闪出烟决策失败",
+  "music": 0.0
+ },
+ {
+  "from": 511.81,
+  "to": 514.43,
+  "sid": 253,
+  "location": 2,
+  "content": "上回合对方A大直架明狙",
+  "music": 0.0
+ },
+ {
+  "from": 514.43,
+  "to": 515.53,
+  "sid": 254,
+  "location": 2,
+  "content": "为避免掉枪",
+  "music": 0.0
+ },
+ {
+  "from": 515.53,
+  "to": 517.07,
+  "sid": 255,
+  "location": 2,
+  "content": "选择控其发点",
+  "music": 0.0
+ },
+ {
+  "from": 517.07,
+  "to": 521.145,
+  "sid": 256,
+  "location": 2,
+  "content": "狙狙A大狙A大狙直点大狙狙要小心避",
+  "music": 0.0
+ },
+ {
+  "from": 521.68,
+  "to": 524.66,
+  "sid": 257,
+  "location": 2,
+  "content": "此时队友已经对C点形成合围之势",
+  "music": 0.0
+ },
+ {
+  "from": 524.66,
+  "to": 525.4,
+  "sid": 258,
+  "location": 2,
+  "content": "及时补位",
+  "music": 0.0
+ },
+ {
+  "from": 525.4,
+  "to": 526.36,
+  "sid": 259,
+  "location": 2,
+  "content": "打野在烟里",
+  "music": 0.0
+ },
+ {
+  "from": 526.36,
+  "to": 527.9,
+  "sid": 260,
+  "location": 2,
+  "content": "就在烟里",
+  "music": 0.0
+ },
+ {
+  "from": 529.9,
+  "to": 531.52,
+  "sid": 261,
+  "location": 2,
+  "content": "下吧下吧",
+  "music": 0.0
+ },
+ {
+  "from": 531.52,
+  "to": 532.54,
+  "sid": 262,
+  "location": 2,
+  "content": "避开车库",
+  "music": 0.0
+ },
+ {
+  "from": 532.54,
+  "to": 534.04,
+  "sid": 263,
+  "location": 2,
+  "content": "枪线架仅加过点",
+  "music": 0.0
+ },
+ {
+  "from": 534.04,
+  "to": 536.59,
+  "sid": 264,
+  "location": 2,
+  "content": "还剩一名敌人锁定瑞纳",
+  "music": 0.0
+ },
+ {
+  "from": 536.59,
+  "to": 537.81,
+  "sid": 265,
+  "location": 2,
+  "content": "在警家听队友报点",
+  "music": 0.0
+ },
+ {
+  "from": 537.81,
+  "to": 539.89,
+  "sid": 266,
+  "location": 2,
+  "content": "及时进行换位",
+  "music": 0.024038460382743994
+ },
+ {
+  "from": 543.49,
+  "to": 544.27,
+  "sid": 267,
+  "location": 2,
+  "content": "牛逼啊",
+  "music": 0.0
+ },
+ {
+  "from": 544.27,
+  "to": 545.45,
+  "sid": 268,
+  "location": 2,
+  "content": "直到对方名居活跃",
+  "music": 0.0
+ },
+ {
+  "from": 545.45,
+  "to": 547.97,
+  "sid": 269,
+  "location": 2,
+  "content": "选择B点Rush VIP打野遮挡对方视野",
+  "music": 0.0
+ },
+ {
+  "from": 547.97,
+  "to": 548.57,
+  "sid": 270,
+  "location": 2,
+  "content": "及时跟进",
+  "music": 0.0
+ },
+ {
+  "from": 548.57,
+  "to": 549.57,
+  "sid": 271,
+  "location": 2,
+  "content": "前锋进行补枪",
+  "music": 0.0
+ },
+ {
+  "from": 549.57,
+  "to": 552.5,
+  "sid": 272,
+  "location": 2,
+  "content": "打野有狙解封",
+  "music": 0.0
+ },
+ {
+  "from": 552.5,
+  "to": 553.92,
+  "sid": 273,
+  "location": 2,
+  "content": "DH要及时补包点眼",
+  "music": 0.0
+ },
+ {
+  "from": 553.92,
+  "to": 555.38,
+  "sid": 274,
+  "location": 2,
+  "content": "减轻结风突进压力",
+  "music": 0.0
+ },
+ {
+  "from": 556.42,
+  "to": 557.68,
+  "sid": 275,
+  "location": 2,
+  "content": "混烟青必死",
+  "music": 0.0
+ },
+ {
+  "from": 557.68,
+  "to": 561.65,
+  "sid": 276,
+  "location": 2,
+  "content": "连包点木板后要搜查干净",
+  "music": 0.0
+ },
+ {
+  "from": 561.65,
+  "to": 562.67,
+  "sid": 277,
+  "location": 2,
+  "content": "避免路必须来一个",
+  "music": 0.0
+ },
+ {
+  "from": 562.67,
+  "to": 563.83,
+  "sid": 278,
+  "location": 2,
+  "content": "必须来一个BC连",
+  "music": 0.0
+ },
+ {
+  "from": 563.83,
+  "to": 564.97,
+  "sid": 279,
+  "location": 2,
+  "content": "有对方集压",
+  "music": 0.0
+ },
+ {
+  "from": 564.97,
+  "to": 565.75,
+  "sid": 280,
+  "location": 2,
+  "content": "防止路",
+  "music": 0.0
+ },
+ {
+  "from": 565.75,
+  "to": 569.4,
+  "sid": 281,
+  "location": 2,
+  "content": "还有这里自己补位失误",
+  "music": 0.0
+ },
+ {
+  "from": 569.4,
+  "to": 570.36,
+  "sid": 282,
+  "location": 2,
+  "content": "应该直架BC连",
+  "music": 0.0
+ },
+ {
+  "from": 570.36,
+  "to": 571.64,
+  "sid": 283,
+  "location": 2,
+  "content": "防止猎枭被偷侧身",
+  "music": 0.0
+ },
+ {
+  "from": 571.64,
+  "to": 573.28,
+  "sid": 284,
+  "location": 2,
+  "content": "导致自己架枪非常难",
+  "music": 0.0
+ },
+ {
+  "from": 573.28,
+  "to": 574.92,
+  "sid": 285,
+  "location": 2,
+  "content": "开局中路打野遮挡视野",
+  "music": 0.0
+ },
+ {
+  "from": 574.92,
+  "to": 576.38,
+  "sid": 286,
+  "location": 2,
+  "content": "录像回放觉得没必要打",
+  "music": 0.0
+ },
+ {
+  "from": 576.38,
+  "to": 577.8,
+  "sid": 287,
+  "location": 2,
+  "content": "如果对方中路有人打野",
+  "music": 0.0
+ },
+ {
+  "from": 577.8,
+  "to": 578.6,
+  "sid": 288,
+  "location": 2,
+  "content": "没人出的话",
+  "music": 0.0
+ },
+ {
+  "from": 578.6,
+  "to": 580.26,
+  "sid": 289,
+  "location": 2,
+  "content": "很容易让对方以为是佯攻",
+  "music": 0.0
+ },
+ {
+  "from": 580.26,
+  "to": 583.24,
+  "sid": 290,
+  "location": 2,
+  "content": "从而MOVIIIA点名局选择逐步打眼",
+  "music": 0.0
+ },
+ {
+  "from": 583.24,
+  "to": 584.24,
+  "sid": 291,
+  "location": 2,
+  "content": "开飞机轻一脚",
+  "music": 0.0
+ },
+ {
+  "from": 584.24,
+  "to": 585.92,
+  "sid": 292,
+  "location": 2,
+  "content": "进一步获取图纸",
+  "music": 0.0
+ },
+ {
+  "from": 585.92,
+  "to": 589.8,
+  "sid": 293,
+  "location": 2,
+  "content": "开飞机开A小打眼开飞机动静很大",
+  "music": 0.0
+ },
+ {
+  "from": 589.8,
+  "to": 591.34,
+  "sid": 294,
+  "location": 2,
+  "content": "对方很可能回防A点",
+  "music": 0.0
+ },
+ {
+  "from": 591.34,
+  "to": 592.38,
+  "sid": 295,
+  "location": 2,
+  "content": "站住A小后",
+  "music": 0.0
+ },
+ {
+  "from": 592.38,
+  "to": 594.04,
+  "sid": 296,
+  "location": 2,
+  "content": "喊队友狙啊狙啊",
+  "music": 0.0
+ },
+ {
+  "from": 594.04,
+  "to": 595.23,
+  "sid": 297,
+  "location": 2,
+  "content": "上不去上不去啊",
+  "music": 0.0
+ },
+ {
+  "from": 595.23,
+  "to": 596.33,
+  "sid": 298,
+  "location": 2,
+  "content": "保安摸B点",
+  "music": 0.0
+ },
+ {
+  "from": 596.33,
+  "to": 597.33,
+  "sid": 299,
+  "location": 2,
+  "content": "此时要清理车库",
+  "music": 0.0
+ },
+ {
+  "from": 597.33,
+  "to": 598.59,
+  "sid": 300,
+  "location": 2,
+  "content": "减轻中路保安压力",
+  "music": 0.0
+ },
+ {
+  "from": 598.59,
+  "to": 601.07,
+  "sid": 301,
+  "location": 2,
+  "content": "让BC连对手防守车库",
+  "music": 0.0
+ },
+ {
+  "from": 601.47,
+  "to": 603.27,
+  "sid": 302,
+  "location": 2,
+  "content": "此时保安顺利近点清零",
+  "music": 0.0
+ },
+ {
+  "from": 603.27,
+  "to": 605.15,
+  "sid": 303,
+  "location": 2,
+  "content": "BC连对C点已形成合围之势",
+  "music": 0.0
+ },
+ {
+  "from": 605.15,
+  "to": 606.99,
+  "sid": 304,
+  "location": 2,
+  "content": "这时候要车库要快抢B点",
+  "music": 0.0
+ },
+ {
+  "from": 606.99,
+  "to": 608.85,
+  "sid": 305,
+  "location": 2,
+  "content": "以防对方迅速转点牛逼",
+  "music": 0.0
+ },
+ {
+  "from": 608.85,
+  "to": 611.23,
+  "sid": 306,
+  "location": 2,
+  "content": "剩余30秒下C点顺",
+  "music": 0.0
+ },
+ {
+  "from": 611.23,
+  "to": 612.13,
+  "sid": 307,
+  "location": 2,
+  "content": "没有狙的不用找",
+  "music": 0.0
+ },
+ {
+  "from": 612.13,
+  "to": 613.59,
+  "sid": 308,
+  "location": 2,
+  "content": "此时人数优势没必要狙",
+  "music": 0.0
+ },
+ {
+  "from": 613.59,
+  "to": 614.07,
+  "sid": 309,
+  "location": 2,
+  "content": "有狙的",
+  "music": 0.0
+ },
+ {
+  "from": 614.07,
+  "to": 615.98,
+  "sid": 310,
+  "location": 2,
+  "content": "对方稳稳站点是制胜法宝",
+  "music": 0.0
+ },
+ {
+  "from": 615.98,
+  "to": 617.44,
+  "sid": 311,
+  "location": 2,
+  "content": "但队友被一次打掉",
+  "music": 0.0
+ },
+ {
+  "from": 617.44,
+  "to": 619.98,
+  "sid": 312,
+  "location": 2,
+  "content": "只能配合队友强推一轮到我了",
+  "music": 0.0
+ },
+ {
+  "from": 619.98,
+  "to": 621.06,
+  "sid": 313,
+  "location": 2,
+  "content": "马枪输掉",
+  "music": 0.0
+ },
+ {
+  "from": 621.06,
+  "to": 623.4,
+  "sid": 314,
+  "location": 2,
+  "content": "本回合兄弟们稳赢的局",
+  "music": 0.0
+ },
+ {
+  "from": 623.4,
+  "to": 625.06,
+  "sid": 315,
+  "location": 2,
+  "content": "一定要把握住机会",
+  "music": 0.0
+ },
+ {
+  "from": 625.06,
+  "to": 625.94,
+  "sid": 316,
+  "location": 2,
+  "content": "占住包点",
+  "music": 0.0
+ },
+ {
+  "from": 625.94,
+  "to": 627.24,
+  "sid": 317,
+  "location": 2,
+  "content": "形成交叉枪位",
+  "music": 0.0
+ },
+ {
+  "from": 627.24,
+  "to": 628.36,
+  "sid": 318,
+  "location": 2,
+  "content": "及时补枪",
+  "music": 0.0
+ },
+ {
+  "from": 628.36,
+  "to": 630.82,
+  "sid": 319,
+  "location": 2,
+  "content": "机会是可遇而不可求的",
+  "music": 0.0
+ },
+ {
+  "from": 630.82,
+  "to": 633.02,
+  "sid": 320,
+  "location": 2,
+  "content": "输掉的回合不用再抱怨",
+  "music": 0.0
+ },
+ {
+  "from": 633.02,
+  "to": 634.36,
+  "sid": 321,
+  "location": 2,
+  "content": "没有任何意义",
+  "music": 0.0
+ },
+ {
+  "from": 634.36,
+  "to": 635.46,
+  "sid": 322,
+  "location": 2,
+  "content": "给队友压力",
+  "music": 0.0
+ },
+ {
+  "from": 635.46,
+  "to": 637.62,
+  "sid": 323,
+  "location": 2,
+  "content": "反而会让队友增大失误",
+  "music": 0.0
+ },
+ {
+  "from": 637.62,
+  "to": 639.64,
+  "sid": 324,
+  "location": 2,
+  "content": "几安静做自己就好",
+  "music": 0.0
+ },
+ {
+  "from": 639.64,
+  "to": 641.02,
+  "sid": 325,
+  "location": 2,
+  "content": "没血杰他没血",
+  "music": 0.0
+ },
+ {
+  "from": 641.02,
+  "to": 643.72,
+  "sid": 326,
+  "location": 2,
+  "content": "本回合A大打眼遮挡名局视野架A小",
+  "music": 0.0
+ },
+ {
+  "from": 643.72,
+  "to": 644.9,
+  "sid": 327,
+  "location": 2,
+  "content": "防止前压拿信息",
+  "music": 0.0
+ },
+ {
+  "from": 644.9,
+  "to": 645.74,
+  "sid": 328,
+  "location": 2,
+  "content": "这T没写了",
+  "music": 0.0
+ },
+ {
+  "from": 645.74,
+  "to": 647.96,
+  "sid": 329,
+  "location": 2,
+  "content": "关键两个A两多和队友交流",
+  "music": 0.0
+ },
+ {
+  "from": 647.96,
+  "to": 649.08,
+  "sid": 330,
+  "location": 2,
+  "content": "换取信息",
+  "music": 0.0
+ },
+ {
+  "from": 649.08,
+  "to": 650.4,
+  "sid": 331,
+  "location": 2,
+  "content": "减轻心理压力",
+  "music": 0.0
+ },
+ {
+  "from": 651.84,
+  "to": 653.0,
+  "sid": 332,
+  "location": 2,
+  "content": "此时杰封为大单摸",
+  "music": 0.0
+ },
+ {
+  "from": 653.0,
+  "to": 653.8,
+  "sid": 333,
+  "location": 2,
+  "content": "要清理一小",
+  "music": 0.0
+ },
+ {
+  "from": 653.8,
+  "to": 655.2,
+  "sid": 334,
+  "location": 2,
+  "content": "减轻队友压力",
+  "music": 0.0
+ },
+ {
+  "from": 655.2,
+  "to": 656.34,
+  "sid": 335,
+  "location": 2,
+  "content": "杰风被打掉",
+  "music": 0.0
+ },
+ {
+  "from": 656.34,
+  "to": 659.6,
+  "sid": 336,
+  "location": 2,
+  "content": "听到对方有人回防A点CDA小近点完成后",
+  "music": 0.0
+ },
+ {
+  "from": 659.6,
+  "to": 661.3,
+  "sid": 337,
+  "location": 2,
+  "content": "找队友中路汇合进行补枪",
+  "music": 0.0
+ },
+ {
+  "from": 661.3,
+  "to": 662.339,
+  "sid": 338,
+  "location": 2,
+  "content": "防止掉人",
+  "music": 0.0
+ },
+ {
+  "from": 662.339,
+  "to": 665.139,
+  "sid": 339,
+  "location": 2,
+  "content": "从保安开大视野中可以看到C点空虚",
+  "music": 0.0
+ },
+ {
+  "from": 665.139,
+  "to": 666.339,
+  "sid": 340,
+  "location": 2,
+  "content": "C点被保安占住",
+  "music": 0.0
+ },
+ {
+  "from": 666.339,
+  "to": 667.89,
+  "sid": 341,
+  "location": 2,
+  "content": "及时转点",
+  "music": 0.0
+ },
+ {
+  "from": 668.37,
+  "to": 670.47,
+  "sid": 342,
+  "location": 2,
+  "content": "这里猎枭带包在中路被架住",
+  "music": 0.0
+ },
+ {
+  "from": 670.47,
+  "to": 672.87,
+  "sid": 343,
+  "location": 2,
+  "content": "帮助队友架住另一边枪线减轻压力",
+  "music": 0.0
+ },
+ {
+  "from": 672.87,
+  "to": 676.72,
+  "sid": 344,
+  "location": 2,
+  "content": "从而配合C点猎枭拉比点是错误决策最优解",
+  "music": 0.0
+ },
+ {
+  "from": 676.72,
+  "to": 677.86,
+  "sid": 345,
+  "location": 2,
+  "content": "但是及时想去",
+  "music": 0.0
+ },
+ {
+  "from": 677.86,
+  "to": 680.1,
+  "sid": 346,
+  "location": 2,
+  "content": "不要在未知的地方落在中区",
+  "music": 0.0
+ },
+ {
+  "from": 680.1,
+  "to": 681.82,
+  "sid": 347,
+  "location": 2,
+  "content": "这里保安占领BC连",
+  "music": 0.0
+ },
+ {
+  "from": 681.82,
+  "to": 682.94,
+  "sid": 348,
+  "location": 2,
+  "content": "要下一个警家包",
+  "music": 0.0
+ },
+ {
+  "from": 682.94,
+  "to": 684.78,
+  "sid": 349,
+  "location": 2,
+  "content": "让队友方便pick下包位",
+  "music": 0.0
+ },
+ {
+  "from": 684.78,
+  "to": 687.4,
+  "sid": 350,
+  "location": 2,
+  "content": "五人同时开麦交流的感觉太棒了",
+  "music": 0.0
+ },
+ {
+  "from": 687.4,
+  "to": 688.76,
+  "sid": 351,
+  "location": 2,
+  "content": "下完包后打野",
+  "music": 0.0
+ },
+ {
+  "from": 688.76,
+  "to": 691.04,
+  "sid": 352,
+  "location": 2,
+  "content": "防止车库路抬命拉出",
+  "music": 0.0
+ },
+ {
+  "from": 691.04,
+  "to": 692.32,
+  "sid": 353,
+  "location": 2,
+  "content": "发现没人后",
+  "music": 0.0
+ },
+ {
+  "from": 692.32,
+  "to": 693.8,
+  "sid": 354,
+  "location": 2,
+  "content": "及时与队友汇合",
+  "music": 0.0
+ },
+ {
+  "from": 693.8,
+  "to": 694.88,
+  "sid": 355,
+  "location": 2,
+  "content": "配合补枪",
+  "music": 0.0
+ },
+ {
+  "from": 694.88,
+  "to": 697.64,
+  "sid": 356,
+  "location": 2,
+  "content": "防止出现1V1情况",
+  "music": 0.0
+ },
+ {
+  "from": 698.43,
+  "to": 699.77,
+  "sid": 357,
+  "location": 2,
+  "content": "放大招",
+  "music": 0.0
+ },
+ {
+  "from": 699.77,
+  "to": 701.61,
+  "sid": 358,
+  "location": 2,
+  "content": "本回合准备静音接触",
+  "music": 0.0
+ },
+ {
+  "from": 701.61,
+  "to": 703.91,
+  "sid": 359,
+  "location": 2,
+  "content": "为大道近点bush包点打眼",
+  "music": 0.0
+ },
+ {
+  "from": 703.91,
+  "to": 705.33,
+  "sid": 360,
+  "location": 2,
+  "content": "防止狙直架",
+  "music": 0.0
+ },
+ {
+  "from": 705.33,
+  "to": 706.91,
+  "sid": 361,
+  "location": 2,
+  "content": "各个点位要搜查干净",
+  "music": 0.0
+ },
+ {
+  "from": 706.91,
+  "to": 708.69,
+  "sid": 362,
+  "location": 2,
+  "content": "防止被偷背身",
+  "music": 0.0
+ },
+ {
+  "from": 708.69,
+  "to": 710.85,
+  "sid": 363,
+  "location": 2,
+  "content": "I want you to see that",
+  "music": 0.6285713687075258
+ },
+ {
+  "from": 710.85,
+  "to": 712.33,
+  "sid": 364,
+  "location": 2,
+  "content": "这时听见小鸡声音",
+  "music": 0.0
+ },
+ {
+  "from": 712.33,
+  "to": 714.13,
+  "sid": 365,
+  "location": 2,
+  "content": "大概懂得稍微单防了一点",
+  "music": 0.0
+ },
+ {
+  "from": 714.13,
+  "to": 718.43,
+  "sid": 366,
+  "location": 2,
+  "content": "开飞机Rush打野及时跟进枪",
+  "music": 0.0
+ },
+ {
+  "from": 718.43,
+  "to": 719.43,
+  "sid": 367,
+  "location": 2,
+  "content": "快跑吧",
+  "music": 0.0
+ },
+ {
+  "from": 719.43,
+  "to": 723.1,
+  "sid": 368,
+  "location": 2,
+  "content": "看到了一备的力量",
+  "music": 0.062499997558582744
+ },
+ {
+  "from": 723.1,
+  "to": 724.1,
+  "sid": 369,
+  "location": 2,
+  "content": "别了",
+  "music": 0.0
+ },
+ {
+  "from": 724.1,
+  "to": 727.06,
+  "sid": 370,
+  "location": 2,
+  "content": "根据查标轨迹指导KO在二楼",
+  "music": 0.0
+ },
+ {
+  "from": 727.06,
+  "to": 728.88,
+  "sid": 371,
+  "location": 2,
+  "content": "利用尸体圆盘做掩护",
+  "music": 0.0
+ },
+ {
+  "from": 728.88,
+  "to": 730.24,
+  "sid": 372,
+  "location": 2,
+  "content": "直向二楼收下",
+  "music": 0.0
+ },
+ {
+  "from": 730.24,
+  "to": 732.41,
+  "sid": 373,
+  "location": 2,
+  "content": "KO掉了位置暴露后",
+  "music": 0.0
+ },
+ {
+  "from": 732.41,
+  "to": 733.21,
+  "sid": 374,
+  "location": 2,
+  "content": "及时换位",
+  "music": 0.0
+ },
+ {
+  "from": 733.21,
+  "to": 735.17,
+  "sid": 375,
+  "location": 2,
+  "content": "被抢队友被打掉",
+  "music": 0.0
+ },
+ {
+  "from": 735.17,
+  "to": 736.11,
+  "sid": 376,
+  "location": 2,
+  "content": "及时进行补枪",
+  "music": 0.0
+ },
+ {
+  "from": 736.11,
+  "to": 737.97,
+  "sid": 377,
+  "location": 2,
+  "content": "保证人数优势",
+  "music": 0.0
+ },
+ {
+  "from": 738.349,
+  "to": 739.909,
+  "sid": 378,
+  "location": 2,
+  "content": "还剩一名敌人",
+  "music": 0.0
+ },
+ {
+  "from": 739.909,
+  "to": 741.23,
+  "sid": 379,
+  "location": 2,
+  "content": "二倒二倒",
+  "music": 0.0
+ },
+ {
+  "from": 741.95,
+  "to": 744.15,
+  "sid": 380,
+  "location": 2,
+  "content": "本回合分停车库打掉车库",
+  "music": 0.0
+ },
+ {
+  "from": 744.15,
+  "to": 745.39,
+  "sid": 381,
+  "location": 2,
+  "content": "小鸡让对方丢失",
+  "music": 0.0
+ },
+ {
+  "from": 745.39,
+  "to": 747.48,
+  "sid": 382,
+  "location": 2,
+  "content": "车库信息里有一个车库",
+  "music": 0.0
+ },
+ {
+  "from": 747.48,
+  "to": 749.74,
+  "sid": 383,
+  "location": 2,
+  "content": "看到对方车库一人欧门推飞",
+  "music": 0.0
+ },
+ {
+  "from": 749.74,
+  "to": 750.44,
+  "sid": 384,
+  "location": 2,
+  "content": "及时补枪",
+  "music": 0.0
+ },
+ {
+  "from": 750.44,
+  "to": 754.43,
+  "sid": 385,
+  "location": 2,
+  "content": "抓人或是人数优势瞬闪被成功成功成功回合",
+  "music": 0.0
+ },
+ {
+  "from": 754.43,
+  "to": 755.75,
+  "sid": 386,
+  "location": 2,
+  "content": "你去下一下吧",
+  "music": 0.0
+ },
+ {
+  "from": 755.75,
+  "to": 756.15,
+  "sid": 387,
+  "location": 2,
+  "content": "你下一枪",
+  "music": 0.0
+ },
+ {
+  "from": 756.15,
+  "to": 757.09,
+  "sid": 388,
+  "location": 2,
+  "content": "你死了",
+  "music": 0.0
+ },
+ {
+  "from": 757.09,
+  "to": 758.25,
+  "sid": 389,
+  "location": 2,
+  "content": "你就来临",
+  "music": 0.0
+ },
+ {
+  "from": 758.25,
+  "to": 759.93,
+  "sid": 390,
+  "location": 2,
+  "content": "上回合抓谁点失败",
+  "music": 0.0
+ },
+ {
+  "from": 759.93,
+  "to": 761.61,
+  "sid": 391,
+  "location": 2,
+  "content": "比赛进入加时沟通交流",
+  "music": 0.0
+ },
+ {
+  "from": 761.61,
+  "to": 763.57,
+  "sid": 392,
+  "location": 2,
+  "content": "C大前压打非常规",
+  "music": 0.0
+ },
+ {
+  "from": 763.57,
+  "to": 765.09,
+  "sid": 393,
+  "location": 2,
+  "content": "你往前摸吧",
+  "music": 0.0
+ },
+ {
+  "from": 765.09,
+  "to": 766.01,
+  "sid": 394,
+  "location": 2,
+  "content": "我到中段",
+  "music": 0.0
+ },
+ {
+  "from": 766.01,
+  "to": 767.29,
+  "sid": 395,
+  "location": 2,
+  "content": "我到中段",
+  "music": 0.0
+ },
+ {
+  "from": 769.85,
+  "to": 771.03,
+  "sid": 396,
+  "location": 2,
+  "content": "风中残",
+  "music": 0.0
+ },
+ {
+  "from": 771.03,
+  "to": 773.4,
+  "sid": 397,
+  "location": 2,
+  "content": "没人我就压过去了",
+  "music": 0.0
+ },
+ {
+  "from": 774.32,
+  "to": 777.3,
+  "sid": 398,
+  "location": 2,
+  "content": "C大近点没听到对方脚步前压",
+  "music": 0.0
+ },
+ {
+  "from": 777.3,
+  "to": 778.32,
+  "sid": 399,
+  "location": 2,
+  "content": "获取信息",
+  "music": 0.0
+ },
+ {
+  "from": 779.68,
+  "to": 783.24,
+  "sid": 400,
+  "location": 2,
+  "content": "对方抓谁点依次被队友收下",
+  "music": 0.0
+ },
+ {
+  "from": 783.489,
+  "to": 787.329,
+  "sid": 401,
+  "location": 2,
+  "content": "选择C点Rush打野及时跟进补枪其乐",
+  "music": 0.0
+ },
+ {
+  "from": 787.329,
+  "to": 790.269,
+  "sid": 402,
+  "location": 2,
+  "content": "单方C点利用人数优势获取包",
+  "music": 0.0
+ },
+ {
+  "from": 790.269,
+  "to": 792.83,
+  "sid": 403,
+  "location": 2,
+  "content": "点上无烟占住包",
+  "music": 0.0
+ },
+ {
+  "from": 792.83,
+  "to": 793.87,
+  "sid": 404,
+  "location": 2,
+  "content": "后点获取图卷",
+  "music": 0.0
+ },
+ {
+  "from": 796.11,
+  "to": 797.66,
+  "sid": 405,
+  "location": 2,
+  "content": "起不事后看录像",
+  "music": 0.3148147856653152
+ },
+ {
+  "from": 797.66,
+  "to": 799.36,
+  "sid": 406,
+  "location": 2,
+  "content": "觉得词典并不适合守包站位",
+  "music": 0.0
+ },
+ {
+  "from": 799.36,
+  "to": 801.14,
+  "sid": 407,
+  "location": 2,
+  "content": "与队友很难形成交叉站位",
+  "music": 0.0
+ },
+ {
+  "from": 801.14,
+  "to": 803.31,
+  "sid": 408,
+  "location": 2,
+  "content": "还疯狂吃到单人手",
+  "music": 0.0
+ },
+ {
+  "from": 803.31,
+  "to": 804.31,
+  "sid": 409,
+  "location": 2,
+  "content": "似要具有灵活性",
+  "music": 0.0
+ },
+ {
+  "from": 804.31,
+  "to": 805.73,
+  "sid": 410,
+  "location": 2,
+  "content": "主打侦查不掉人就好",
+  "music": 0.0
+ },
+ {
+  "from": 805.73,
+  "to": 807.69,
+  "sid": 411,
+  "location": 2,
+  "content": "能换到人就是很大的优势",
+  "music": 0.0
+ },
+ {
+  "from": 807.69,
+  "to": 812.83,
+  "sid": 412,
+  "location": 2,
+  "content": "搞不及时打野回撤包点对方截封进攻车库",
+  "music": 0.0
+ },
+ {
+  "from": 812.83,
+  "to": 815.49,
+  "sid": 413,
+  "location": 2,
+  "content": "观察C大是否有人防止自身被包围",
+  "music": 0.0
+ },
+ {
+  "from": 815.49,
+  "to": 816.39,
+  "sid": 414,
+  "location": 2,
+  "content": "陷入被动",
+  "music": 0.0
+ },
+ {
+  "from": 816.39,
+  "to": 818.26,
+  "sid": 415,
+  "location": 2,
+  "content": "打掉其乐说明最大单摸",
+  "music": 0.0
+ },
+ {
+  "from": 818.26,
+  "to": 819.88,
+  "sid": 416,
+  "location": 2,
+  "content": "本来想去C大中段防守",
+  "music": 0.0
+ },
+ {
+  "from": 819.88,
+  "to": 821.62,
+  "sid": 417,
+  "location": 2,
+  "content": "突然想到杰风失去信息",
+  "music": 0.0
+ },
+ {
+  "from": 821.62,
+  "to": 824.66,
+  "sid": 418,
+  "location": 2,
+  "content": "很可能从车库摸警家听到杰风dash包点",
+  "music": 0.0
+ },
+ {
+  "from": 824.66,
+  "to": 826.74,
+  "sid": 419,
+  "location": 2,
+  "content": "找杰风单挑",
+  "music": 0.06578946935596679
+ },
+ {
+  "from": 827.81,
+  "to": 829.11,
+  "sid": 420,
+  "location": 2,
+  "content": "警家后续没有补枪",
+  "music": 0.0
+ },
+ {
+  "from": 829.11,
+  "to": 832.17,
+  "sid": 421,
+  "location": 2,
+  "content": "对方很可能进攻车库夹击包点",
+  "music": 0.19930069233212835
+ },
+ {
+  "from": 832.95,
+  "to": 834.329,
+  "sid": 422,
+  "location": 2,
+  "content": "Without trying",
+  "music": 0.8493149521487541
+ },
+ {
+  "from": 835.369,
+  "to": 837.249,
+  "sid": 423,
+  "location": 2,
+  "content": "打掉KO后向包点移动",
+  "music": 0.0
+ },
+ {
+  "from": 837.249,
+  "to": 837.649,
+  "sid": 424,
+  "location": 2,
+  "content": "换位",
+  "music": 0.0
+ },
+ {
+  "from": 837.649,
+  "to": 839.009,
+  "sid": 425,
+  "location": 2,
+  "content": "防止路侧身开ING",
+  "music": 0.0
+ },
+ {
+  "from": 839.009,
+  "to": 839.849,
+  "sid": 426,
+  "location": 2,
+  "content": "此时2V2",
+  "music": 0.0
+ },
+ {
+  "from": 839.849,
+  "to": 841.169,
+  "sid": 427,
+  "location": 2,
+  "content": "对方很有可能抱团车库",
+  "music": 0.0
+ },
+ {
+  "from": 841.169,
+  "to": 844.08,
+  "sid": 428,
+  "location": 2,
+  "content": "注意警家车库赛点选择架",
+  "music": 0.0
+ },
+ {
+  "from": 844.08,
+  "to": 844.7,
+  "sid": 429,
+  "location": 2,
+  "content": "默认控图",
+  "music": 0.0
+ },
+ {
+  "from": 844.7,
+  "to": 848.069,
+  "sid": 430,
+  "location": 2,
+  "content": "防止A小A大前顶大眼A大取得枪位",
+  "music": 0.0
+ },
+ {
+  "from": 848.069,
+  "to": 849.589,
+  "sid": 431,
+  "location": 2,
+  "content": "打掉A小前压杰风",
+  "music": 0.0
+ },
+ {
+  "from": 849.589,
+  "to": 850.989,
+  "sid": 432,
+  "location": 2,
+  "content": "及时占领A小近点",
+  "music": 0.0
+ },
+ {
+  "from": 850.989,
+  "to": 851.949,
+  "sid": 433,
+  "location": 2,
+  "content": "别急别急别急",
+  "music": 0.0
+ },
+ {
+  "from": 851.949,
+  "to": 853.749,
+  "sid": 434,
+  "location": 2,
+  "content": "此时喊队友从A点起飞",
+  "music": 0.0
+ },
+ {
+  "from": 853.749,
+  "to": 855.649,
+  "sid": 435,
+  "location": 2,
+  "content": "是因为赛点局在对方掉人情况下",
+  "music": 0.0
+ },
+ {
+  "from": 855.649,
+  "to": 856.74,
+  "sid": 436,
+  "location": 2,
+  "content": "绝对是第一时间回",
+  "music": 0.0
+ },
+ {
+  "from": 856.74,
+  "to": 858.42,
+  "sid": 437,
+  "location": 2,
+  "content": "此时队友太过分散",
+  "music": 0.0
+ },
+ {
+  "from": 858.42,
+  "to": 859.98,
+  "sid": 438,
+  "location": 2,
+  "content": "集合后对方反而集中一点",
+  "music": 0.0
+ },
+ {
+  "from": 859.98,
+  "to": 862.4,
+  "sid": 439,
+  "location": 2,
+  "content": "此时转点是最好选择",
+  "music": 0.0
+ },
+ {
+  "from": 862.88,
+  "to": 864.48,
+  "sid": 440,
+  "location": 2,
+  "content": "队友打掉C大前压瑞纳",
+  "music": 0.0
+ },
+ {
+  "from": 864.48,
+  "to": 865.52,
+  "sid": 441,
+  "location": 2,
+  "content": "代表C点空虚",
+  "music": 0.0
+ },
+ {
+  "from": 865.52,
+  "to": 868.0,
+  "sid": 442,
+  "location": 2,
+  "content": "及时占领C点",
+  "music": 0.0
+ },
+ {
+  "from": 871.34,
+  "to": 872.38,
+  "sid": 443,
+  "location": 2,
+  "content": "杀吧杀吧",
+  "music": 0.0
+ },
+ {
+  "from": 872.38,
+  "to": 874.46,
+  "sid": 444,
+  "location": 2,
+  "content": "此时C点图全完全占下",
+  "music": 0.0
+ },
+ {
+  "from": 874.46,
+  "to": 875.74,
+  "sid": 445,
+  "location": 2,
+  "content": "只有C大无人看守",
+  "music": 0.0
+ },
+ {
+  "from": 875.74,
+  "to": 876.5,
+  "sid": 446,
+  "location": 2,
+  "content": "占领C大",
+  "music": 0.0
+ },
+ {
+  "from": 876.5,
+  "to": 878.02,
+  "sid": 447,
+  "location": 2,
+  "content": "防止对方绕后",
+  "music": 0.0
+ },
+ {
+  "from": 878.02,
+  "to": 880.76,
+  "sid": 448,
+  "location": 2,
+  "content": "对手依次被拿下人头取得最终胜利",
+  "music": 0.0
+ },
+ {
+  "from": 880.76,
+  "to": 883.24,
+  "sid": 449,
+  "location": 2,
+  "content": "喜欢的点个关注和一键三连哦",
+  "music": 0.0
+ },
+ {
+  "from": 883.24,
+  "to": 884.66,
+  "sid": 450,
+  "location": 2,
+  "content": "下期更精彩",
+  "music": 0.0
+ }
+]

@@ -1,0 +1,2018 @@
+[
+ {
+  "from": 0.14,
+  "to": 0.8,
+  "sid": 1,
+  "location": 2,
+  "content": "各位老师们大家好",
+  "music": 0.0
+ },
+ {
+  "from": 0.8,
+  "to": 1.34,
+  "sid": 2,
+  "location": 2,
+  "content": "我是东彦",
+  "music": 0.0
+ },
+ {
+  "from": 1.34,
+  "to": 3.08,
+  "sid": 3,
+  "location": 2,
+  "content": "那么现在要带来一期瓦剌的教学视频",
+  "music": 0.0
+ },
+ {
+  "from": 3.08,
+  "to": 5.06,
+  "sid": 4,
+  "location": 2,
+  "content": "本期视频我们讲解下瓦伦的经济系统",
+  "music": 0.0
+ },
+ {
+  "from": 5.06,
+  "to": 5.9,
+  "sid": 5,
+  "location": 2,
+  "content": "那首先我们要知道",
+  "music": 0.0
+ },
+ {
+  "from": 5.9,
+  "to": 7.88,
+  "sid": 6,
+  "location": 2,
+  "content": "在瓦伦特里按B键打开购买菜单",
+  "music": 0.0
+ },
+ {
+  "from": 7.88,
+  "to": 8.96,
+  "sid": 7,
+  "location": 2,
+  "content": "在购买菜单左上角",
+  "music": 0.0
+ },
+ {
+  "from": 8.96,
+  "to": 10.64,
+  "sid": 8,
+  "location": 2,
+  "content": "可以看到当前回合所用的金钱",
+  "music": 0.0
+ },
+ {
+  "from": 10.64,
+  "to": 12.7,
+  "sid": 9,
+  "location": 2,
+  "content": "以及下回合所用的最消极的金钱",
+  "music": 0.0
+ },
+ {
+  "from": 12.7,
+  "to": 14.98,
+  "sid": 10,
+  "location": 2,
+  "content": "此时我也关注到几个关键武器的一个金额",
+  "music": 0.0
+ },
+ {
+  "from": 14.98,
+  "to": 17.78,
+  "sid": 11,
+  "location": 2,
+  "content": "即幻象与暴徒两把主战武器的2900元",
+  "music": 0.0
+ },
+ {
+  "from": 17.78,
+  "to": 18.44,
+  "sid": 12,
+  "location": 2,
+  "content": "冲锋枪",
+  "music": 0.0
+ },
+ {
+  "from": 18.44,
+  "to": 19.46,
+  "sid": 13,
+  "location": 2,
+  "content": "恶灵的1600元",
+  "music": 0.0
+ },
+ {
+  "from": 19.46,
+  "to": 20.36,
+  "sid": 14,
+  "location": 2,
+  "content": "以400元的小展",
+  "music": 0.0
+ },
+ {
+  "from": 20.36,
+  "to": 22.62,
+  "sid": 15,
+  "location": 2,
+  "content": "1000元的大甲组成的2900+400",
+  "music": 0.0
+ },
+ {
+  "from": 22.62,
+  "to": 23.46,
+  "sid": 16,
+  "location": 2,
+  "content": "在3300元",
+  "music": 0.0
+ },
+ {
+  "from": 23.46,
+  "to": 25.62,
+  "sid": 17,
+  "location": 2,
+  "content": "2900加这个1000~3900元",
+  "music": 0.0
+ },
+ {
+  "from": 25.62,
+  "to": 27.0,
+  "sid": 18,
+  "location": 2,
+  "content": "1600+400的2000元",
+  "music": 0.0
+ },
+ {
+  "from": 27.0,
+  "to": 28.06,
+  "sid": 19,
+  "location": 2,
+  "content": "这几个关键数据",
+  "music": 0.0
+ },
+ {
+  "from": 28.06,
+  "to": 30.67,
+  "sid": 20,
+  "location": 2,
+  "content": "这几个数据在接下来的视频中会被频繁提到",
+  "music": 0.0
+ },
+ {
+  "from": 30.67,
+  "to": 32.02,
+  "sid": 21,
+  "location": 2,
+  "content": "另外一些重要的经济数据",
+  "music": 0.0
+ },
+ {
+  "from": 32.02,
+  "to": 33.08,
+  "sid": 22,
+  "location": 2,
+  "content": "大家可以了解一下",
+  "music": 0.0
+ },
+ {
+  "from": 33.08,
+  "to": 34.34,
+  "sid": 23,
+  "location": 2,
+  "content": "在瓦兰特第一回合",
+  "music": 0.0
+ },
+ {
+  "from": 34.34,
+  "to": 35.72,
+  "sid": 24,
+  "location": 2,
+  "content": "双方初始有800元",
+  "music": 0.0
+ },
+ {
+  "from": 35.72,
+  "to": 37.76,
+  "sid": 25,
+  "location": 2,
+  "content": "用任意武器或技能击杀一名敌人",
+  "music": 0.0
+ },
+ {
+  "from": 37.76,
+  "to": 38.54,
+  "sid": 26,
+  "location": 2,
+  "content": "加200元",
+  "music": 0.0
+ },
+ {
+  "from": 38.54,
+  "to": 39.32,
+  "sid": 27,
+  "location": 2,
+  "content": "成功下包",
+  "music": 0.0
+ },
+ {
+  "from": 39.32,
+  "to": 40.76,
+  "sid": 28,
+  "location": 2,
+  "content": "进攻方全体加300元",
+  "music": 0.0
+ },
+ {
+  "from": 40.76,
+  "to": 42.14,
+  "sid": 29,
+  "location": 2,
+  "content": "胜利回合加3000元",
+  "music": 0.0
+ },
+ {
+  "from": 42.14,
+  "to": 43.34,
+  "sid": 30,
+  "location": 2,
+  "content": "失败加1900元",
+  "music": 0.0
+ },
+ {
+  "from": 43.34,
+  "to": 44.76,
+  "sid": 31,
+  "location": 2,
+  "content": "有连败补偿机制",
+  "music": 0.0
+ },
+ {
+  "from": 44.76,
+  "to": 47.22,
+  "sid": 32,
+  "location": 2,
+  "content": "连败一次呢加个500元的一个连败补偿",
+  "music": 0.0
+ },
+ {
+  "from": 47.22,
+  "to": 49.32,
+  "sid": 33,
+  "location": 2,
+  "content": "连败奖励最多可以叠到2900元",
+  "music": 0.0
+ },
+ {
+  "from": 49.32,
+  "to": 50.34,
+  "sid": 34,
+  "location": 2,
+  "content": "无论攻守保枪",
+  "music": 0.0
+ },
+ {
+  "from": 50.34,
+  "to": 53.0,
+  "sid": 35,
+  "location": 2,
+  "content": "保到下一回合都只会有1000元的保值奖励",
+  "music": 0.0
+ },
+ {
+  "from": 53.0,
+  "to": 54.83,
+  "sid": 36,
+  "location": 2,
+  "content": "那接着我们需要了解这个概念",
+  "music": 0.0
+ },
+ {
+  "from": 54.83,
+  "to": 56.0,
+  "sid": 37,
+  "location": 2,
+  "content": "需要提前说明是",
+  "music": 0.0
+ },
+ {
+  "from": 56.0,
+  "to": 56.84,
+  "sid": 38,
+  "location": 2,
+  "content": "在本视频中",
+  "music": 0.0
+ },
+ {
+  "from": 56.84,
+  "to": 57.98,
+  "sid": 39,
+  "location": 2,
+  "content": "长枪带指步枪",
+  "music": 0.0
+ },
+ {
+  "from": 57.98,
+  "to": 59.84,
+  "sid": 40,
+  "location": 2,
+  "content": "奥丁与大狙三者的一个统称",
+  "music": 0.0
+ },
+ {
+  "from": 59.84,
+  "to": 61.58,
+  "sid": 41,
+  "location": 2,
+  "content": "主战长枪特指暴徒与幻象",
+  "music": 0.0
+ },
+ {
+  "from": 61.58,
+  "to": 64.58,
+  "sid": 42,
+  "location": 2,
+  "content": "而非主战长枪则只带这个斗牛犬与捍卫者短枪",
+  "music": 0.0
+ },
+ {
+  "from": 64.58,
+  "to": 65.88,
+  "sid": 43,
+  "location": 2,
+  "content": "带着冲锋枪与霰弹枪",
+  "music": 0.0
+ },
+ {
+  "from": 65.88,
+  "to": 66.48,
+  "sid": 44,
+  "location": 2,
+  "content": "那游戏中",
+  "music": 0.0
+ },
+ {
+  "from": 66.48,
+  "to": 68.94,
+  "sid": 45,
+  "location": 2,
+  "content": "按tab可以看到双方十个人在本回合开始前",
+  "music": 0.0
+ },
+ {
+  "from": 68.94,
+  "to": 69.84,
+  "sid": 46,
+  "location": 2,
+  "content": "所有的金钱啊",
+  "music": 0.0
+ },
+ {
+  "from": 69.84,
+  "to": 72.78,
+  "sid": 47,
+  "location": 2,
+  "content": "那么首先是手枪局是指这个每半场的第一回合",
+  "music": 0.0
+ },
+ {
+  "from": 72.78,
+  "to": 74.34,
+  "sid": 48,
+  "location": 2,
+  "content": "双方初始经济只有800元",
+  "music": 0.0
+ },
+ {
+  "from": 76.96,
+  "to": 80.2,
+  "sid": 49,
+  "location": 2,
+  "content": "然后长枪局是指这个己方和对方都可以起出",
+  "music": 0.0
+ },
+ {
+  "from": 80.2,
+  "to": 81.34,
+  "sid": 50,
+  "location": 2,
+  "content": "保底的小甲加长枪",
+  "music": 0.0
+ },
+ {
+  "from": 81.34,
+  "to": 81.98,
+  "sid": 51,
+  "location": 2,
+  "content": "那个回合",
+  "music": 0.0
+ },
+ {
+  "from": 81.98,
+  "to": 84.89,
+  "sid": 52,
+  "location": 2,
+  "content": "即双方多数人都拥有3300万以上的经济",
+  "music": 0.0
+ },
+ {
+  "from": 84.89,
+  "to": 87.98,
+  "sid": 53,
+  "location": 2,
+  "content": "然后是ECO局是指己方处在这个经济劣势",
+  "music": 0.0
+ },
+ {
+  "from": 88.96,
+  "to": 91.18,
+  "sid": 54,
+  "location": 2,
+  "content": "己方多数成员都选择购买这个",
+  "music": 0.0
+ },
+ {
+  "from": 91.18,
+  "to": 92.77,
+  "sid": 55,
+  "location": 2,
+  "content": "总价值低于千元的装备",
+  "music": 0.0
+ },
+ {
+  "from": 95.009,
+  "to": 97.409,
+  "sid": 56,
+  "location": 2,
+  "content": "那ECO局中比较特殊的一种购买策略是纯E",
+  "music": 0.0
+ },
+ {
+  "from": 97.409,
+  "to": 98.489,
+  "sid": 57,
+  "location": 2,
+  "content": "也就是什么都不买",
+  "music": 0.0
+ },
+ {
+  "from": 98.489,
+  "to": 100.74,
+  "sid": 58,
+  "location": 2,
+  "content": "靠五甲加知识手枪来打这一回合",
+  "music": 0.0
+ },
+ {
+  "from": 100.74,
+  "to": 102.24,
+  "sid": 59,
+  "location": 2,
+  "content": "再然后呢就是半起局",
+  "music": 0.0
+ },
+ {
+  "from": 102.24,
+  "to": 103.62,
+  "sid": 60,
+  "location": 2,
+  "content": "是指己方处在经济劣势",
+  "music": 0.0
+ },
+ {
+  "from": 104.46,
+  "to": 107.22,
+  "sid": 61,
+  "location": 2,
+  "content": "己方多数成员购买了价值高于1000元装备",
+  "music": 0.0
+ },
+ {
+  "from": 110.36,
+  "to": 111.92,
+  "sid": 62,
+  "location": 2,
+  "content": "接着呢就是强起局",
+  "music": 0.0
+ },
+ {
+  "from": 111.92,
+  "to": 113.24,
+  "sid": 63,
+  "location": 2,
+  "content": "是指己方每天起长枪",
+  "music": 0.0
+ },
+ {
+  "from": 113.24,
+  "to": 114.64,
+  "sid": 64,
+  "location": 2,
+  "content": "且经济形势劣于敌人",
+  "music": 0.0
+ },
+ {
+  "from": 114.64,
+  "to": 116.38,
+  "sid": 65,
+  "location": 2,
+  "content": "但依旧选择这个强行购买",
+  "music": 0.0
+ },
+ {
+  "from": 116.38,
+  "to": 117.34,
+  "sid": 66,
+  "location": 2,
+  "content": "当前经济局势下",
+  "music": 0.0
+ },
+ {
+  "from": 117.34,
+  "to": 119.44,
+  "sid": 67,
+  "location": 2,
+  "content": "最好装备把钱花光来寻求翻盘",
+  "music": 0.0
+ },
+ {
+  "from": 119.44,
+  "to": 121.1,
+  "sid": 68,
+  "location": 2,
+  "content": "不给下一回合刘禅一个策略",
+  "music": 0.0
+ },
+ {
+  "from": 124.13,
+  "to": 125.54,
+  "sid": 69,
+  "location": 2,
+  "content": "而对方在本回合采取了",
+  "music": 0.0
+ },
+ {
+  "from": 127.88,
+  "to": 130.34,
+  "sid": 70,
+  "location": 2,
+  "content": "那基本的数据和概念提前讲明白了",
+  "music": 0.0
+ },
+ {
+  "from": 130.34,
+  "to": 132.92,
+  "sid": 71,
+  "location": 2,
+  "content": "我们接下来按照这个游戏中回合发生的顺序",
+  "music": 0.0
+ },
+ {
+  "from": 132.92,
+  "to": 134.98,
+  "sid": 72,
+  "location": 2,
+  "content": "来给大家讲一下瓦罗兰特经济系统一个演变",
+  "music": 0.0
+ },
+ {
+  "from": 135.98,
+  "to": 137.14,
+  "sid": 73,
+  "location": 2,
+  "content": "首先是每半场",
+  "music": 0.0
+ },
+ {
+  "from": 137.14,
+  "to": 138.48,
+  "sid": 74,
+  "location": 2,
+  "content": "第一回合就是手枪局",
+  "music": 0.0
+ },
+ {
+  "from": 138.48,
+  "to": 140.46,
+  "sid": 75,
+  "location": 2,
+  "content": "手枪局双方的初始经济为800元",
+  "music": 0.0
+ },
+ {
+  "from": 140.46,
+  "to": 142.329,
+  "sid": 76,
+  "location": 2,
+  "content": "每种英雄的购买策略会略有不同",
+  "music": 0.0
+ },
+ {
+  "from": 142.329,
+  "to": 143.649,
+  "sid": 77,
+  "location": 2,
+  "content": "对于贤者铁臂",
+  "music": 0.0
+ },
+ {
+  "from": 143.649,
+  "to": 145.449,
+  "sid": 78,
+  "location": 2,
+  "content": "这种拥有手枪局关键技能的英雄来说",
+  "music": 0.0
+ },
+ {
+  "from": 145.449,
+  "to": 147.84,
+  "sid": 79,
+  "location": 2,
+  "content": "必然会采取这个买官的技能大小奖",
+  "music": 0.0
+ },
+ {
+  "from": 149.37,
+  "to": 151.02,
+  "sid": 80,
+  "location": 2,
+  "content": "甚至有可能连小贾都不买啊",
+  "music": 0.0
+ },
+ {
+  "from": 151.02,
+  "to": 152.42,
+  "sid": 81,
+  "location": 2,
+  "content": "直接把这个全技能买满",
+  "music": 0.0
+ },
+ {
+  "from": 152.42,
+  "to": 154.46,
+  "sid": 82,
+  "location": 2,
+  "content": "而对于大部分决斗者以及免费的一技能",
+  "music": 0.0
+ },
+ {
+  "from": 154.46,
+  "to": 154.88,
+  "sid": 83,
+  "location": 2,
+  "content": "才是关键",
+  "music": 0.0
+ },
+ {
+  "from": 154.88,
+  "to": 157.44,
+  "sid": 84,
+  "location": 2,
+  "content": "技能列销黑梦蝰蛇等这些英雄来说",
+  "music": 0.0
+ },
+ {
+  "from": 157.44,
+  "to": 159.82,
+  "sid": 85,
+  "location": 2,
+  "content": "手枪局一般会采取买一到两个硬技能",
+  "music": 0.0
+ },
+ {
+  "from": 159.82,
+  "to": 161.83,
+  "sid": 86,
+  "location": 2,
+  "content": "在购买鬼灭或者狂试的一个策略",
+  "music": 0.0
+ },
+ {
+  "from": 161.83,
+  "to": 162.88,
+  "sid": 87,
+  "location": 2,
+  "content": "而在一些大型地图",
+  "music": 0.0
+ },
+ {
+  "from": 162.88,
+  "to": 164.83,
+  "sid": 88,
+  "location": 2,
+  "content": "例如森寒冬港或者微风岛屿当中",
+  "music": 0.0
+ },
+ {
+  "from": 164.83,
+  "to": 166.72,
+  "sid": 89,
+  "location": 2,
+  "content": "这些英雄甚至会采取不买技能",
+  "music": 0.0
+ },
+ {
+  "from": 166.72,
+  "to": 168.28,
+  "sid": 90,
+  "location": 2,
+  "content": "直接买神射的一个策略哈",
+  "music": 0.0
+ },
+ {
+  "from": 168.28,
+  "to": 170.86,
+  "sid": 91,
+  "location": 2,
+  "content": "那手枪局胜利方会有保底的3000元奖励",
+  "music": 0.0
+ },
+ {
+  "from": 170.86,
+  "to": 171.7,
+  "sid": 92,
+  "location": 2,
+  "content": "基本上可以认为",
+  "music": 0.0
+ },
+ {
+  "from": 171.7,
+  "to": 174.32,
+  "sid": 93,
+  "location": 2,
+  "content": "胜利方在第二局能购买全技能加小甲",
+  "music": 0.0
+ },
+ {
+  "from": 174.32,
+  "to": 175.25,
+  "sid": 94,
+  "location": 2,
+  "content": "加飞左轮长枪",
+  "music": 0.0
+ },
+ {
+  "from": 175.25,
+  "to": 178.86,
+  "sid": 95,
+  "location": 2,
+  "content": "亦或者是全技能加大甲加短枪一个套餐",
+  "music": 0.0
+ },
+ {
+  "from": 178.86,
+  "to": 181.14,
+  "sid": 96,
+  "location": 2,
+  "content": "那手枪局胜利方击杀特多一到两个乘务员",
+  "music": 0.0
+ },
+ {
+  "from": 181.14,
+  "to": 182.7,
+  "sid": 97,
+  "location": 2,
+  "content": "甚至有机会可以买到小甲",
+  "music": 0.0
+ },
+ {
+  "from": 182.7,
+  "to": 184.2,
+  "sid": 98,
+  "location": 2,
+  "content": "加左轮长枪和3300元",
+  "music": 0.0
+ },
+ {
+  "from": 184.2,
+  "to": 185.22,
+  "sid": 99,
+  "location": 2,
+  "content": "在极少数情况下",
+  "music": 0.0
+ },
+ {
+  "from": 185.22,
+  "to": 186.98,
+  "sid": 100,
+  "location": 2,
+  "content": "如果有人手枪局杀的人足够多",
+  "music": 0.0
+ },
+ {
+  "from": 186.98,
+  "to": 189.08,
+  "sid": 101,
+  "location": 2,
+  "content": "还会有机会能凑够这个大奖",
+  "music": 0.0
+ },
+ {
+  "from": 189.08,
+  "to": 191.03,
+  "sid": 102,
+  "location": 2,
+  "content": "加主战长枪一个3900元",
+  "music": 0.0
+ },
+ {
+  "from": 191.03,
+  "to": 192.26,
+  "sid": 103,
+  "location": 2,
+  "content": "而与此相对的手枪局",
+  "music": 0.0
+ },
+ {
+  "from": 192.26,
+  "to": 194.56,
+  "sid": 104,
+  "location": 2,
+  "content": "胜利方在第二局只有1900元的奖金",
+  "music": 0.0
+ },
+ {
+  "from": 194.56,
+  "to": 195.94,
+  "sid": 105,
+  "location": 2,
+  "content": "因此手枪局势地方",
+  "music": 0.0
+ },
+ {
+  "from": 195.94,
+  "to": 197.86,
+  "sid": 106,
+  "location": 2,
+  "content": "在第二回合通常会采取ECO策略",
+  "music": 0.0
+ },
+ {
+  "from": 197.86,
+  "to": 200.02,
+  "sid": 107,
+  "location": 2,
+  "content": "而且ECO龙王纯E对于手枪局势地方",
+  "music": 0.0
+ },
+ {
+  "from": 200.02,
+  "to": 200.94,
+  "sid": 108,
+  "location": 2,
+  "content": "其实是更合理的",
+  "music": 0.0
+ },
+ {
+  "from": 200.94,
+  "to": 203.76,
+  "sid": 109,
+  "location": 2,
+  "content": "因为势力方在第二局在选择一或大前提下",
+  "music": 0.0
+ },
+ {
+  "from": 205.38,
+  "to": 206.28,
+  "sid": 110,
+  "location": 2,
+  "content": "出于枪械劣势",
+  "music": 0.0
+ },
+ {
+  "from": 206.28,
+  "to": 207.24,
+  "sid": 111,
+  "location": 2,
+  "content": "大概率还是会出道",
+  "music": 0.0
+ },
+ {
+  "from": 207.24,
+  "to": 208.68,
+  "sid": 112,
+  "location": 2,
+  "content": "这一局到了第三回合",
+  "music": 0.0
+ },
+ {
+  "from": 208.68,
+  "to": 211.44,
+  "sid": 113,
+  "location": 2,
+  "content": "两局战败奖金加连败补偿叠在一起",
+  "music": 0.0
+ },
+ {
+  "from": 211.44,
+  "to": 213.84,
+  "sid": 114,
+  "location": 2,
+  "content": "只有1900×2加5万4300元",
+  "music": 0.0
+ },
+ {
+  "from": 213.84,
+  "to": 216.24,
+  "sid": 115,
+  "location": 2,
+  "content": "孤儿如手枪局视频防第二局不选择纯E",
+  "music": 0.0
+ },
+ {
+  "from": 216.24,
+  "to": 219.38,
+  "sid": 116,
+  "location": 2,
+  "content": "而是选择花一点钱去购买左轮一类的平行枪械",
+  "music": 0.0
+ },
+ {
+  "from": 219.38,
+  "to": 220.4,
+  "sid": 117,
+  "location": 2,
+  "content": "那攒一把钱之后",
+  "music": 0.0
+ },
+ {
+  "from": 220.4,
+  "to": 223.26,
+  "sid": 118,
+  "location": 2,
+  "content": "第三回合也大概率买不起大甲架转长枪",
+  "music": 0.0
+ },
+ {
+  "from": 223.26,
+  "to": 224.4,
+  "sid": 119,
+  "location": 2,
+  "content": "那如上文所述",
+  "music": 0.0
+ },
+ {
+  "from": 224.4,
+  "to": 225.81,
+  "sid": 120,
+  "location": 2,
+  "content": "在天界中的绝大分对局中",
+  "music": 0.0
+ },
+ {
+  "from": 225.81,
+  "to": 228.54,
+  "sid": 121,
+  "location": 2,
+  "content": "手枪局势地方在第二回合都会采取异后期策略",
+  "music": 0.0
+ },
+ {
+  "from": 228.54,
+  "to": 231.3,
+  "sid": 122,
+  "location": 2,
+  "content": "因此手枪局胜利方第二回合打的就是NT1口气",
+  "music": 0.0
+ },
+ {
+  "from": 231.3,
+  "to": 231.66,
+  "sid": 123,
+  "location": 2,
+  "content": "手枪",
+  "music": 0.0
+ },
+ {
+  "from": 231.66,
+  "to": 232.44,
+  "sid": 124,
+  "location": 2,
+  "content": "局局中成功胜",
+  "music": 0.0
+ },
+ {
+  "from": 232.44,
+  "to": 233.76,
+  "sid": 125,
+  "location": 2,
+  "content": "换了一到两名胜利方队友",
+  "music": 0.0
+ },
+ {
+  "from": 233.76,
+  "to": 235.72,
+  "sid": 126,
+  "location": 2,
+  "content": "可以选择继续沿用这个手枪局手枪",
+  "music": 0.0
+ },
+ {
+  "from": 237.28,
+  "to": 238.66,
+  "sid": 127,
+  "location": 2,
+  "content": "以保证第二回合胜利",
+  "music": 0.0
+ },
+ {
+  "from": 238.66,
+  "to": 239.56,
+  "sid": 128,
+  "location": 2,
+  "content": "如果没有发生意外",
+  "music": 0.0
+ },
+ {
+  "from": 239.56,
+  "to": 241.06,
+  "sid": 129,
+  "location": 2,
+  "content": "手枪局的胜利方在顺利拿下",
+  "music": 0.0
+ },
+ {
+  "from": 241.06,
+  "to": 243.06,
+  "sid": 130,
+  "location": 2,
+  "content": "本应拿下这个NT口决胜利之后",
+  "music": 0.0
+ },
+ {
+  "from": 243.06,
+  "to": 244.8,
+  "sid": 131,
+  "location": 2,
+  "content": "第三回合就像他们奖励局",
+  "music": 0.0
+ },
+ {
+  "from": 244.8,
+  "to": 246.06,
+  "sid": 132,
+  "location": 2,
+  "content": "为什么要奖励局呢",
+  "music": 0.0
+ },
+ {
+  "from": 246.06,
+  "to": 248.46,
+  "sid": 133,
+  "location": 2,
+  "content": "因为手枪局和胜利方在拿下NT后局之后",
+  "music": 0.0
+ },
+ {
+  "from": 248.46,
+  "to": 249.66,
+  "sid": 134,
+  "location": 2,
+  "content": "第三回合肯定是长枪",
+  "music": 0.0
+ },
+ {
+  "from": 249.66,
+  "to": 251.48,
+  "sid": 135,
+  "location": 2,
+  "content": "后期的甚至根本没有长枪",
+  "music": 0.0
+ },
+ {
+  "from": 251.48,
+  "to": 253.64,
+  "sid": 136,
+  "location": 2,
+  "content": "而手枪局室外方在攒了一把钱之后",
+  "music": 0.0
+ },
+ {
+  "from": 253.64,
+  "to": 255.41,
+  "sid": 137,
+  "location": 2,
+  "content": "将会在第三回合起除吧长枪",
+  "music": 0.0
+ },
+ {
+  "from": 255.41,
+  "to": 256.16,
+  "sid": 138,
+  "location": 2,
+  "content": "那这样的话",
+  "music": 0.0
+ },
+ {
+  "from": 256.16,
+  "to": 258.74,
+  "sid": 139,
+  "location": 2,
+  "content": "这个手枪局胜利方在第三回合是枪械劣势的",
+  "music": 0.0
+ },
+ {
+  "from": 258.74,
+  "to": 260.409,
+  "sid": 140,
+  "location": 2,
+  "content": "那奖励局的胜率就不高了",
+  "music": 0.0
+ },
+ {
+  "from": 260.409,
+  "to": 262.329,
+  "sid": 141,
+  "location": 2,
+  "content": "如果己方挥出色赢下这一局",
+  "music": 0.0
+ },
+ {
+  "from": 262.329,
+  "to": 263.769,
+  "sid": 142,
+  "location": 2,
+  "content": "那己方建议将直接起飞",
+  "music": 0.0
+ },
+ {
+  "from": 263.769,
+  "to": 265.629,
+  "sid": 143,
+  "location": 2,
+  "content": "而即使己方输掉了第三回合",
+  "music": 0.0
+ },
+ {
+  "from": 265.629,
+  "to": 267.129,
+  "sid": 144,
+  "location": 2,
+  "content": "因为下一回合依旧能起长枪",
+  "music": 0.0
+ },
+ {
+  "from": 267.129,
+  "to": 269.82,
+  "sid": 145,
+  "location": 2,
+  "content": "所以无伤大雅沃尔本回合被称为奖励局",
+  "music": 0.0
+ },
+ {
+  "from": 269.82,
+  "to": 270.96,
+  "sid": 146,
+  "location": 2,
+  "content": "首要目的不是胜利",
+  "music": 0.0
+ },
+ {
+  "from": 270.96,
+  "to": 272.58,
+  "sid": 147,
+  "location": 2,
+  "content": "而是打掉敌方几把长枪",
+  "music": 0.0
+ },
+ {
+  "from": 272.58,
+  "to": 273.6,
+  "sid": 148,
+  "location": 2,
+  "content": "就算可以",
+  "music": 0.0
+ },
+ {
+  "from": 273.6,
+  "to": 276.18,
+  "sid": 149,
+  "location": 2,
+  "content": "如果此前第二回合NTECO局有人不幸阵亡",
+  "music": 0.0
+ },
+ {
+  "from": 276.18,
+  "to": 277.56,
+  "sid": 150,
+  "location": 2,
+  "content": "在奖励局中应该选择半",
+  "music": 0.0
+ },
+ {
+  "from": 277.56,
+  "to": 280.08,
+  "sid": 151,
+  "location": 2,
+  "content": "且策略也就是买一些例如小甲加左轮",
+  "music": 0.0
+ },
+ {
+  "from": 280.08,
+  "to": 281.96,
+  "sid": 152,
+  "location": 2,
+  "content": "或者说这个小假刺针一类平行枪械",
+  "music": 0.0
+ },
+ {
+  "from": 281.96,
+  "to": 283.28,
+  "sid": 153,
+  "location": 2,
+  "content": "以确保第四回合",
+  "music": 0.0
+ },
+ {
+  "from": 285.53,
+  "to": 287.58,
+  "sid": 154,
+  "location": 2,
+  "content": "那与此相对的手枪局的失败方",
+  "music": 0.0
+ },
+ {
+  "from": 287.58,
+  "to": 289.65,
+  "sid": 155,
+  "location": 2,
+  "content": "在第三回合应该要尽力拿下这一局",
+  "music": 0.0
+ },
+ {
+  "from": 289.65,
+  "to": 291.93,
+  "sid": 156,
+  "location": 2,
+  "content": "普陀己方在第四回合还需要再一口一把",
+  "music": 0.0
+ },
+ {
+  "from": 291.93,
+  "to": 294.4,
+  "sid": 157,
+  "location": 2,
+  "content": "大概率会面对一个四连败的一个天崩开局",
+  "music": 0.0
+ },
+ {
+  "from": 294.4,
+  "to": 295.42,
+  "sid": 158,
+  "location": 2,
+  "content": "同时还需要注意的是",
+  "music": 0.0
+ },
+ {
+  "from": 295.42,
+  "to": 296.92,
+  "sid": 159,
+  "location": 2,
+  "content": "手枪局的失败方的第三人的奖励",
+  "music": 0.0
+ },
+ {
+  "from": 296.92,
+  "to": 297.88,
+  "sid": 160,
+  "location": 2,
+  "content": "就是获得了胜利",
+  "music": 0.0
+ },
+ {
+  "from": 297.88,
+  "to": 299.08,
+  "sid": 161,
+  "location": 2,
+  "content": "但如果有人阵亡的话",
+  "music": 0.0
+ },
+ {
+  "from": 299.08,
+  "to": 300.54,
+  "sid": 162,
+  "location": 2,
+  "content": "这个是在地图位的长枪局",
+  "music": 0.0
+ },
+ {
+  "from": 300.54,
+  "to": 303.12,
+  "sid": 163,
+  "location": 2,
+  "content": "大概率连轻甲加主战武器都是买不起的",
+  "music": 0.0
+ },
+ {
+  "from": 303.12,
+  "to": 304.32,
+  "sid": 164,
+  "location": 2,
+  "content": "因此手枪局失败方",
+  "music": 0.0
+ },
+ {
+  "from": 304.32,
+  "to": 306.94,
+  "sid": 165,
+  "location": 2,
+  "content": "则奖励局要尽可能以最小代价来获得胜利",
+  "music": 0.0
+ },
+ {
+  "from": 306.94,
+  "to": 308.02,
+  "sid": 166,
+  "location": 2,
+  "content": "如果手枪局失败方",
+  "music": 0.0
+ },
+ {
+  "from": 308.02,
+  "to": 310.48,
+  "sid": 167,
+  "location": 2,
+  "content": "利用枪械优势拿下了第三回合奖励局的胜利",
+  "music": 0.0
+ },
+ {
+  "from": 310.48,
+  "to": 312.24,
+  "sid": 168,
+  "location": 2,
+  "content": "那就会来到第四局长枪局",
+  "music": 0.0
+ },
+ {
+  "from": 312.24,
+  "to": 313.5,
+  "sid": 169,
+  "location": 2,
+  "content": "那这一局呢没有什么好说的",
+  "music": 0.0
+ },
+ {
+  "from": 313.5,
+  "to": 314.94,
+  "sid": 170,
+  "location": 2,
+  "content": "就是双方把钱花光",
+  "music": 0.0
+ },
+ {
+  "from": 314.94,
+  "to": 316.59,
+  "sid": 171,
+  "location": 2,
+  "content": "买预算线下自由枪械",
+  "music": 0.0
+ },
+ {
+  "from": 316.59,
+  "to": 319.26,
+  "sid": 172,
+  "location": 2,
+  "content": "那第四局失败的一方将会在第五局迎来ECO局",
+  "music": 0.0
+ },
+ {
+  "from": 319.26,
+  "to": 321.6,
+  "sid": 173,
+  "location": 2,
+  "content": "那此刻经济局势的演变就没有什么好说的",
+  "music": 0.0
+ },
+ {
+  "from": 321.6,
+  "to": 323.22,
+  "sid": 174,
+  "location": 2,
+  "content": "如果己方多数人有钱起长枪",
+  "music": 0.0
+ },
+ {
+  "from": 323.22,
+  "to": 324.12,
+  "sid": 175,
+  "location": 2,
+  "content": "那就是长枪局",
+  "music": 0.0
+ },
+ {
+  "from": 324.12,
+  "to": 325.2,
+  "sid": 176,
+  "location": 2,
+  "content": "若回合持续失利",
+  "music": 0.0
+ },
+ {
+  "from": 325.2,
+  "to": 326.64,
+  "sid": 177,
+  "location": 2,
+  "content": "导致己方没有先起长枪",
+  "music": 0.0
+ },
+ {
+  "from": 326.64,
+  "to": 327.7,
+  "sid": 178,
+  "location": 2,
+  "content": "那就来到了ECO局",
+  "music": 0.0
+ },
+ {
+  "from": 327.7,
+  "to": 329.5,
+  "sid": 179,
+  "location": 2,
+  "content": "那瓦伦特呢与隔壁cs go不同",
+  "music": 0.0
+ },
+ {
+  "from": 329.5,
+  "to": 331.42,
+  "sid": 180,
+  "location": 2,
+  "content": "基本上不会出现连续两把的局面",
+  "music": 0.0
+ },
+ {
+  "from": 331.42,
+  "to": 333.73,
+  "sid": 181,
+  "location": 2,
+  "content": "基本上只要选择纯E攒一把钱",
+  "music": 0.0
+ },
+ {
+  "from": 336.58,
+  "to": 337.6,
+  "sid": 182,
+  "location": 2,
+  "content": "那以上是在天梯中",
+  "music": 0.0
+ },
+ {
+  "from": 337.6,
+  "to": 339.44,
+  "sid": 183,
+  "location": 2,
+  "content": "最常见的经济局面的一个演变",
+  "music": 0.0
+ },
+ {
+  "from": 339.44,
+  "to": 341.06,
+  "sid": 184,
+  "location": 2,
+  "content": "总结一下就是手枪局的胜利方",
+  "music": 0.0
+ },
+ {
+  "from": 341.06,
+  "to": 343.26,
+  "sid": 185,
+  "location": 2,
+  "content": "大概率会率先获得前两回合的胜利",
+  "music": 0.0
+ },
+ {
+  "from": 343.26,
+  "to": 344.67,
+  "sid": 186,
+  "location": 2,
+  "content": "那比分会来到二比零",
+  "music": 0.0
+ },
+ {
+  "from": 344.67,
+  "to": 346.8,
+  "sid": 187,
+  "location": 2,
+  "content": "手枪局失败方会在第三回合的奖励局",
+  "music": 0.0
+ },
+ {
+  "from": 346.8,
+  "to": 347.88,
+  "sid": 188,
+  "location": 2,
+  "content": "拥有这个强起优势",
+  "music": 0.0
+ },
+ {
+  "from": 347.88,
+  "to": 349.7,
+  "sid": 189,
+  "location": 2,
+  "content": "大概率能获得该回合的胜利",
+  "music": 0.0
+ },
+ {
+  "from": 349.7,
+  "to": 350.81,
+  "sid": 190,
+  "location": 2,
+  "content": "比赛会来到二比一",
+  "music": 0.0
+ },
+ {
+  "from": 350.81,
+  "to": 352.64,
+  "sid": 191,
+  "location": 2,
+  "content": "那地图由长枪局以后的比分变化",
+  "music": 0.0
+ },
+ {
+  "from": 352.64,
+  "to": 354.62,
+  "sid": 192,
+  "location": 2,
+  "content": "就根据自身表现而定了",
+  "music": 0.0
+ },
+ {
+  "from": 354.62,
+  "to": 355.64,
+  "sid": 193,
+  "location": 2,
+  "content": "那除此之外呢",
+  "music": 0.0
+ },
+ {
+  "from": 355.64,
+  "to": 358.4,
+  "sid": 194,
+  "location": 2,
+  "content": "还有一种经济局面的演变形式也是值得一讲的",
+  "music": 0.0
+ },
+ {
+  "from": 358.4,
+  "to": 359.84,
+  "sid": 195,
+  "location": 2,
+  "content": "也就是手枪局的失败方",
+  "music": 0.0
+ },
+ {
+  "from": 359.84,
+  "to": 361.28,
+  "sid": 196,
+  "location": 2,
+  "content": "可以在第二局中选择强起",
+  "music": 0.0
+ },
+ {
+  "from": 361.28,
+  "to": 362.12,
+  "sid": 197,
+  "location": 2,
+  "content": "把钱花光",
+  "music": 0.0
+ },
+ {
+  "from": 362.12,
+  "to": 364.04,
+  "sid": 198,
+  "location": 2,
+  "content": "买一些小假恶灵或者小甲刺针",
+  "music": 0.0
+ },
+ {
+  "from": 364.04,
+  "to": 365.57,
+  "sid": 199,
+  "location": 2,
+  "content": "抱团冲刺来寻求翻盘",
+  "music": 0.0
+ },
+ {
+  "from": 365.57,
+  "to": 368.03,
+  "sid": 200,
+  "location": 2,
+  "content": "那一般呢是这个进攻方在手枪局下了包",
+  "music": 0.0
+ },
+ {
+  "from": 368.03,
+  "to": 369.53,
+  "sid": 201,
+  "location": 2,
+  "content": "但输了那会有回合失败",
+  "music": 0.0
+ },
+ {
+  "from": 369.53,
+  "to": 371.03,
+  "sid": 202,
+  "location": 2,
+  "content": "1900加上下包300",
+  "music": 0.0
+ },
+ {
+  "from": 371.03,
+  "to": 372.71,
+  "sid": 203,
+  "location": 2,
+  "content": "等于2200元的保底奖金",
+  "music": 0.0
+ },
+ {
+  "from": 372.71,
+  "to": 373.78,
+  "sid": 204,
+  "location": 2,
+  "content": "以工资强起",
+  "music": 0.0
+ },
+ {
+  "from": 373.78,
+  "to": 374.8,
+  "sid": 205,
+  "location": 2,
+  "content": "如果敌人也就手枪",
+  "music": 0.0
+ },
+ {
+  "from": 374.8,
+  "to": 375.88,
+  "sid": 206,
+  "location": 2,
+  "content": "觉得胜利方比较贪",
+  "music": 0.0
+ },
+ {
+  "from": 377.2,
+  "to": 378.9,
+  "sid": 207,
+  "location": 2,
+  "content": "而沿用上一盒剩下的手枪",
+  "music": 0.0
+ },
+ {
+  "from": 378.9,
+  "to": 380.94,
+  "sid": 208,
+  "location": 2,
+  "content": "那甚至可以在第二回合强起局的强起上",
+  "music": 0.0
+ },
+ {
+  "from": 380.94,
+  "to": 381.68,
+  "sid": 209,
+  "location": 2,
+  "content": "领先对手",
+  "music": 0.0
+ },
+ {
+  "from": 381.68,
+  "to": 383.42,
+  "sid": 210,
+  "location": 2,
+  "content": "这也是为什么我之前强调了",
+  "music": 0.0
+ },
+ {
+  "from": 383.42,
+  "to": 383.78,
+  "sid": 211,
+  "location": 2,
+  "content": "手枪局",
+  "music": 0.0
+ },
+ {
+  "from": 383.78,
+  "to": 384.14,
+  "sid": 212,
+  "location": 2,
+  "content": "胜利方",
+  "music": 0.0
+ },
+ {
+  "from": 384.14,
+  "to": 385.46,
+  "sid": 213,
+  "location": 2,
+  "content": "在第二回合最多只有两个人",
+  "music": 0.0
+ },
+ {
+  "from": 385.46,
+  "to": 386.54,
+  "sid": 214,
+  "location": 2,
+  "content": "可以选择沿用手枪局",
+  "music": 0.0
+ },
+ {
+  "from": 386.54,
+  "to": 387.4,
+  "sid": 215,
+  "location": 2,
+  "content": "对他手枪",
+  "music": 0.0
+ },
+ {
+  "from": 387.4,
+  "to": 390.44,
+  "sid": 216,
+  "location": 2,
+  "content": "其余人一定要起枪来防止对方强起翻盘",
+  "music": 0.0
+ },
+ {
+  "from": 390.44,
+  "to": 392.18,
+  "sid": 217,
+  "location": 2,
+  "content": "那如果苍野局翻盘成功",
+  "music": 0.0
+ },
+ {
+  "from": 392.18,
+  "to": 393.7,
+  "sid": 218,
+  "location": 2,
+  "content": "比分会被扳平到一比一",
+  "music": 0.0
+ },
+ {
+  "from": 393.7,
+  "to": 395.86,
+  "sid": 219,
+  "location": 2,
+  "content": "手枪局胜利方在第三回合就要选择ECO",
+  "music": 0.0
+ },
+ {
+  "from": 395.86,
+  "to": 398.2,
+  "sid": 220,
+  "location": 2,
+  "content": "那手枪局失败方就会迎来一局这个NTECO",
+  "music": 0.0
+ },
+ {
+  "from": 398.2,
+  "to": 399.46,
+  "sid": 221,
+  "location": 2,
+  "content": "如果强起局翻盘失败",
+  "music": 0.0
+ },
+ {
+  "from": 399.46,
+  "to": 401.9,
+  "sid": 222,
+  "location": 2,
+  "content": "那手枪局失败方在第三回合就要选择半起",
+  "music": 0.0
+ },
+ {
+  "from": 401.9,
+  "to": 404.54,
+  "sid": 223,
+  "location": 2,
+  "content": "可以选择买小雅加刺针这种比较便宜的组合",
+  "music": 0.0
+ },
+ {
+  "from": 404.54,
+  "to": 406.48,
+  "sid": 224,
+  "location": 2,
+  "content": "下回合再攒钱起大长枪",
+  "music": 0.0
+ },
+ {
+  "from": 406.48,
+  "to": 408.82,
+  "sid": 225,
+  "location": 2,
+  "content": "起码保证地图回合是一个长枪局",
+  "music": 0.0
+ },
+ {
+  "from": 408.82,
+  "to": 410.5,
+  "sid": 226,
+  "location": 2,
+  "content": "如果手枪局胜利方在第二回合",
+  "music": 0.0
+ },
+ {
+  "from": 410.5,
+  "to": 412.06,
+  "sid": 227,
+  "location": 2,
+  "content": "对方强起翻盘失败的局面下",
+  "music": 0.0
+ },
+ {
+  "from": 412.06,
+  "to": 412.74,
+  "sid": 228,
+  "location": 2,
+  "content": "有人阵亡",
+  "music": 0.0
+ },
+ {
+  "from": 412.74,
+  "to": 413.94,
+  "sid": 229,
+  "location": 2,
+  "content": "因为对方翻盘失败了",
+  "music": 0.0
+ },
+ {
+  "from": 413.94,
+  "to": 416.22,
+  "sid": 230,
+  "location": 2,
+  "content": "第三回合对方还是只有钱去办起",
+  "music": 0.0
+ },
+ {
+  "from": 416.22,
+  "to": 417.63,
+  "sid": 231,
+  "location": 2,
+  "content": "己方仍保持经济优势",
+  "music": 0.0
+ },
+ {
+  "from": 417.63,
+  "to": 419.64,
+  "sid": 232,
+  "location": 2,
+  "content": "所以第三回合这个也要把钱花光",
+  "music": 0.0
+ },
+ {
+  "from": 419.64,
+  "to": 420.78,
+  "sid": 233,
+  "location": 2,
+  "content": "保证拿下这一回合",
+  "music": 0.0
+ },
+ {
+  "from": 420.78,
+  "to": 422.0,
+  "sid": 234,
+  "location": 2,
+  "content": "让比分来到一个三比零",
+  "music": 0.0
+ },
+ {
+  "from": 422.0,
+  "to": 422.72,
+  "sid": 235,
+  "location": 2,
+  "content": "那如画面所示",
+  "music": 0.0
+ },
+ {
+  "from": 422.72,
+  "to": 424.88,
+  "sid": 236,
+  "location": 2,
+  "content": "这就是瓦罗兰特前四回合的经济变局",
+  "music": 0.0
+ },
+ {
+  "from": 424.88,
+  "to": 425.86,
+  "sid": 237,
+  "location": 2,
+  "content": "水常规的策略",
+  "music": 0.0
+ },
+ {
+  "from": 425.86,
+  "to": 427.75,
+  "sid": 238,
+  "location": 2,
+  "content": "大家可以在此处暂停复习一下",
+  "music": 0.0
+ },
+ {
+  "from": 427.75,
+  "to": 429.44,
+  "sid": 239,
+  "location": 2,
+  "content": "那视频讲到这里也到了尾声",
+  "music": 0.0
+ },
+ {
+  "from": 429.44,
+  "to": 430.64,
+  "sid": 240,
+  "location": 2,
+  "content": "那今天视频就带到这里",
+  "music": 0.0
+ },
+ {
+  "from": 430.64,
+  "to": 432.14,
+  "sid": 241,
+  "location": 2,
+  "content": "我是一名FPS cs游戏大up主",
+  "music": 0.0
+ },
+ {
+  "from": 432.14,
+  "to": 433.96,
+  "sid": 242,
+  "location": 2,
+  "content": "目前在重点关注我的这款游戏",
+  "music": 0.0
+ },
+ {
+  "from": 433.96,
+  "to": 435.34,
+  "sid": 243,
+  "location": 2,
+  "content": "在此后段位会持续更新",
+  "music": 0.0
+ },
+ {
+  "from": 435.34,
+  "to": 437.47,
+  "sid": 244,
+  "location": 2,
+  "content": "为瓦兰特的中文互联网自己体系化教学",
+  "music": 0.0
+ },
+ {
+  "from": 437.47,
+  "to": 439.66,
+  "sid": 245,
+  "location": 2,
+  "content": "最终目的是让所有观众在打手枪弹之前",
+  "music": 0.0
+ },
+ {
+  "from": 439.66,
+  "to": 440.62,
+  "sid": 246,
+  "location": 2,
+  "content": "都不要扔上平静",
+  "music": 0.0
+ },
+ {
+  "from": 440.62,
+  "to": 442.48,
+  "sid": 247,
+  "location": 2,
+  "content": "如果你还想进一步了解更多的内容",
+  "music": 0.0
+ },
+ {
+  "from": 442.48,
+  "to": 444.28,
+  "sid": 248,
+  "location": 2,
+  "content": "就可以去本视频的简介和这个评论区",
+  "music": 0.0
+ },
+ {
+  "from": 444.28,
+  "to": 445.28,
+  "sid": 249,
+  "location": 2,
+  "content": "找一些官网教学",
+  "music": 0.0
+ },
+ {
+  "from": 445.28,
+  "to": 446.96,
+  "sid": 250,
+  "location": 2,
+  "content": "如果你想提高自己在玩的特别水平",
+  "music": 0.0
+ },
+ {
+  "from": 446.96,
+  "to": 447.98,
+  "sid": 251,
+  "location": 2,
+  "content": "那不方便关注我们",
+  "music": 0.0
+ },
+ {
+  "from": 447.98,
+  "to": 449.84,
+  "sid": 252,
+  "location": 2,
+  "content": "下期视频再见",
+  "music": 0.0
+ }
+]

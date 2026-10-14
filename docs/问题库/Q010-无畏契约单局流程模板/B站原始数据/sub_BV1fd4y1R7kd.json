@@ -1,0 +1,1642 @@
+[
+ {
+  "from": 0.12,
+  "to": 0.84,
+  "sid": 1,
+  "location": 2,
+  "content": "各位观众们大家好",
+  "music": 0.0
+ },
+ {
+  "from": 0.84,
+  "to": 1.62,
+  "sid": 2,
+  "location": 2,
+  "content": "我是东彦",
+  "music": 0.0
+ },
+ {
+  "from": 1.62,
+  "to": 3.54,
+  "sid": 3,
+  "location": 2,
+  "content": "那么建议要带来我雷赛pk教学",
+  "music": 0.0
+ },
+ {
+  "from": 3.54,
+  "to": 4.38,
+  "sid": 4,
+  "location": 2,
+  "content": "在本期视频内",
+  "music": 0.0
+ },
+ {
+  "from": 4.38,
+  "to": 7.13,
+  "sid": 5,
+  "location": 2,
+  "content": "我们会总结这个游戏内所有基础机的pk方式",
+  "music": 0.0
+ },
+ {
+  "from": 7.13,
+  "to": 8.51,
+  "sid": 6,
+  "location": 2,
+  "content": "在观看本期视频之前呢",
+  "music": 0.0
+ },
+ {
+  "from": 8.51,
+  "to": 9.95,
+  "sid": 7,
+  "location": 2,
+  "content": "需要配合一些前置的知识",
+  "music": 0.0
+ },
+ {
+  "from": 9.95,
+  "to": 12.23,
+  "sid": 8,
+  "location": 2,
+  "content": "因此我推荐大家观看我的这个预瞄教学",
+  "music": 0.0
+ },
+ {
+  "from": 12.23,
+  "to": 13.61,
+  "sid": 9,
+  "location": 2,
+  "content": "关于您在本视频下方",
+  "music": 0.0
+ },
+ {
+  "from": 13.61,
+  "to": 14.57,
+  "sid": 10,
+  "location": 2,
+  "content": "我们需要明白",
+  "music": 0.0
+ },
+ {
+  "from": 14.57,
+  "to": 16.79,
+  "sid": 11,
+  "location": 2,
+  "content": "学会更好P的出发点是为了让敌人架不住",
+  "music": 0.0
+ },
+ {
+  "from": 16.79,
+  "to": 19.07,
+  "sid": 12,
+  "location": 2,
+  "content": "我们游戏没有深入玩过瓦伦特的玩家",
+  "music": 0.0
+ },
+ {
+  "from": 19.07,
+  "to": 21.93,
+  "sid": 13,
+  "location": 2,
+  "content": "会觉得网上的架枪难度要比CSGO这个小很多",
+  "music": 0.0
+ },
+ {
+  "from": 21.93,
+  "to": 23.49,
+  "sid": 14,
+  "location": 2,
+  "content": "但这并不是正确认识",
+  "music": 0.0
+ },
+ {
+  "from": 23.49,
+  "to": 25.68,
+  "sid": 15,
+  "location": 2,
+  "content": "瓦洛兰特里的人物的绝对速度虽然较慢",
+  "music": 0.0
+ },
+ {
+  "from": 25.68,
+  "to": 27.75,
+  "sid": 16,
+  "location": 2,
+  "content": "但人物的HITBOX要比CSGO小很多",
+  "music": 0.0
+ },
+ {
+  "from": 27.75,
+  "to": 29.36,
+  "sid": 17,
+  "location": 2,
+  "content": "而且变相速度要比CSGO快",
+  "music": 0.0
+ },
+ {
+  "from": 29.36,
+  "to": 30.44,
+  "sid": 18,
+  "location": 2,
+  "content": "再加上瓦洛兰特里",
+  "music": 0.0
+ },
+ {
+  "from": 30.44,
+  "to": 32.81,
+  "sid": 19,
+  "location": 2,
+  "content": "我们用控枪来补偿电竞的难度比CSGO高",
+  "music": 0.0
+ },
+ {
+  "from": 32.81,
+  "to": 35.26,
+  "sid": 20,
+  "location": 2,
+  "content": "瓦洛兰特的架枪难度是绝对不低的",
+  "music": 0.0
+ },
+ {
+  "from": 35.26,
+  "to": 37.66,
+  "sid": 21,
+  "location": 2,
+  "content": "如果我们将游戏中的人物头部冲向城",
+  "music": 0.0
+ },
+ {
+  "from": 37.66,
+  "to": 39.04,
+  "sid": 22,
+  "location": 2,
+  "content": "练枪软件里的动态定位",
+  "music": 0.0
+ },
+ {
+  "from": 39.04,
+  "to": 40.0,
+  "sid": 23,
+  "location": 2,
+  "content": "相比的小球",
+  "music": 0.0
+ },
+ {
+  "from": 40.0,
+  "to": 42.4,
+  "sid": 24,
+  "location": 2,
+  "content": "我们可以将CSGO理解成目标移动的更快",
+  "music": 0.0
+ },
+ {
+  "from": 42.4,
+  "to": 44.14,
+  "sid": 25,
+  "location": 2,
+  "content": "但目标较大的动态定位项目",
+  "music": 0.0
+ },
+ {
+  "from": 44.14,
+  "to": 46.6,
+  "sid": 26,
+  "location": 2,
+  "content": "而瓦伦特可以抽象成目标绝对速度慢",
+  "music": 0.0
+ },
+ {
+  "from": 46.6,
+  "to": 48.92,
+  "sid": 27,
+  "location": 2,
+  "content": "但变相更频繁且目标较小的项目",
+  "music": 0.0
+ },
+ {
+  "from": 48.92,
+  "to": 50.18,
+  "sid": 28,
+  "location": 2,
+  "content": "所以说在瓦伦特里",
+  "music": 0.0
+ },
+ {
+  "from": 50.18,
+  "to": 52.49,
+  "sid": 29,
+  "location": 2,
+  "content": "速度是我们在pk的时候最值得依赖的工具",
+  "music": 0.0
+ },
+ {
+  "from": 52.49,
+  "to": 54.82,
+  "sid": 30,
+  "location": 2,
+  "content": "最大速度配合上较小的人物模型",
+  "music": 0.0
+ },
+ {
+  "from": 54.82,
+  "to": 57.79,
+  "sid": 31,
+  "location": 2,
+  "content": "再配合上这个皮卡VT架枪放是很难架住的",
+  "music": 0.0
+ },
+ {
+  "from": 57.79,
+  "to": 58.9,
+  "sid": 32,
+  "location": 2,
+  "content": "那么在视频的开头",
+  "music": 0.0
+ },
+ {
+  "from": 58.9,
+  "to": 61.12,
+  "sid": 33,
+  "location": 2,
+  "content": "我们需要梳理一下瓦伦特的移动机制",
+  "music": 0.0
+ },
+ {
+  "from": 61.12,
+  "to": 62.5,
+  "sid": 34,
+  "location": 2,
+  "content": "在按住shift静步的时候",
+  "music": 0.0
+ },
+ {
+  "from": 62.5,
+  "to": 64.15,
+  "sid": 35,
+  "location": 2,
+  "content": "我们的人物移速是非常慢的",
+  "music": 0.0
+ },
+ {
+  "from": 64.15,
+  "to": 65.56,
+  "sid": 36,
+  "location": 2,
+  "content": "那松开shift进行移动",
+  "music": 0.0
+ },
+ {
+  "from": 65.56,
+  "to": 67.88,
+  "sid": 37,
+  "location": 2,
+  "content": "人物移速会从零慢慢加速到一个阈值",
+  "music": 0.0
+ },
+ {
+  "from": 67.88,
+  "to": 68.84,
+  "sid": 38,
+  "location": 2,
+  "content": "达到这个阈值之后",
+  "music": 0.0
+ },
+ {
+  "from": 68.84,
+  "to": 70.73,
+  "sid": 39,
+  "location": 2,
+  "content": "我们的人物移动就会发出脚步声",
+  "music": 0.0
+ },
+ {
+  "from": 70.73,
+  "to": 73.16,
+  "sid": 40,
+  "location": 2,
+  "content": "所以呢我们可以将瓦伦特的战力情况的pk",
+  "music": 0.0
+ },
+ {
+  "from": 73.16,
+  "to": 75.039,
+  "sid": 41,
+  "location": 2,
+  "content": "根据速度与脚步声分为三个阶段",
+  "music": 0.0
+ },
+ {
+  "from": 75.039,
+  "to": 76.359,
+  "sid": 42,
+  "location": 2,
+  "content": "几静步没有脚步声",
+  "music": 0.0
+ },
+ {
+  "from": 76.359,
+  "to": 78.219,
+  "sid": 43,
+  "location": 2,
+  "content": "最小速度pk没有脚步声",
+  "music": 0.0
+ },
+ {
+  "from": 78.219,
+  "to": 78.999,
+  "sid": 44,
+  "location": 2,
+  "content": "带有较大速度",
+  "music": 0.0
+ },
+ {
+  "from": 78.999,
+  "to": 81.42,
+  "sid": 45,
+  "location": 2,
+  "content": "pk有脚步声的最大速度pk3档",
+  "music": 0.0
+ },
+ {
+  "from": 81.42,
+  "to": 84.5,
+  "sid": 46,
+  "location": 2,
+  "content": "这也引出了瓦兰特里三种最长的匹配方式",
+  "music": 0.0
+ },
+ {
+  "from": 84.5,
+  "to": 86.18,
+  "sid": 47,
+  "location": 2,
+  "content": "首先是静步静步",
+  "music": 0.0
+ },
+ {
+  "from": 86.18,
+  "to": 88.46,
+  "sid": 48,
+  "location": 2,
+  "content": "在pk任何角度的时候都是最愚蠢的行为",
+  "music": 0.0
+ },
+ {
+  "from": 88.46,
+  "to": 91.28,
+  "sid": 49,
+  "location": 2,
+  "content": "我们只应该在无声向前干部的时候按shift",
+  "music": 0.0
+ },
+ {
+  "from": 91.28,
+  "to": 93.8,
+  "sid": 50,
+  "location": 2,
+  "content": "或者说在十分确定某个角度没有人的情况下",
+  "music": 0.0
+ },
+ {
+  "from": 93.8,
+  "to": 94.64,
+  "sid": 51,
+  "location": 2,
+  "content": "再按shift",
+  "music": 0.0
+ },
+ {
+  "from": 94.64,
+  "to": 97.04,
+  "sid": 52,
+  "location": 2,
+  "content": "那么在横拉探查任何可能有人架枪了",
+  "music": 0.0
+ },
+ {
+  "from": 97.04,
+  "to": 98.12,
+  "sid": 53,
+  "location": 2,
+  "content": "常规预瞄角度的时候",
+  "music": 0.0
+ },
+ {
+  "from": 98.12,
+  "to": 100.24,
+  "sid": 54,
+  "location": 2,
+  "content": "落选择静步则相当于是送死",
+  "music": 0.0
+ },
+ {
+  "from": 100.24,
+  "to": 101.56,
+  "sid": 55,
+  "location": 2,
+  "content": "因为失去了速度的pk",
+  "music": 0.0
+ },
+ {
+  "from": 101.56,
+  "to": 103.36,
+  "sid": 56,
+  "location": 2,
+  "content": "对于架枪方来说太容易架住了",
+  "music": 0.0
+ },
+ {
+  "from": 103.36,
+  "to": 104.53,
+  "sid": 57,
+  "location": 2,
+  "content": "而对于新手来说",
+  "music": 0.0
+ },
+ {
+  "from": 104.53,
+  "to": 106.48,
+  "sid": 58,
+  "location": 2,
+  "content": "按死shift所带来的虚假安全感",
+  "music": 0.0
+ },
+ {
+  "from": 106.48,
+  "to": 108.0,
+  "sid": 59,
+  "location": 2,
+  "content": "是必须要克服的一关",
+  "music": 0.0
+ },
+ {
+  "from": 108.0,
+  "to": 109.14,
+  "sid": 60,
+  "location": 2,
+  "content": "然后是没有脚步",
+  "music": 0.0
+ },
+ {
+  "from": 109.14,
+  "to": 110.58,
+  "sid": 61,
+  "location": 2,
+  "content": "声带有较大速度pk",
+  "music": 0.0
+ },
+ {
+  "from": 110.58,
+  "to": 111.84,
+  "sid": 62,
+  "location": 2,
+  "content": "我们在前面讲到过",
+  "music": 0.0
+ },
+ {
+  "from": 111.84,
+  "to": 113.04,
+  "sid": 63,
+  "location": 2,
+  "content": "松开shift进行移动",
+  "music": 0.0
+ },
+ {
+  "from": 113.04,
+  "to": 115.12,
+  "sid": 64,
+  "location": 2,
+  "content": "人物的移速会从零加速一个阈值",
+  "music": 0.0
+ },
+ {
+  "from": 115.12,
+  "to": 116.5,
+  "sid": 65,
+  "location": 2,
+  "content": "在没到达这个位置之前呢",
+  "music": 0.0
+ },
+ {
+  "from": 116.5,
+  "to": 117.46,
+  "sid": 66,
+  "location": 2,
+  "content": "不会发出脚步声",
+  "music": 0.0
+ },
+ {
+  "from": 117.46,
+  "to": 119.26,
+  "sid": 67,
+  "location": 2,
+  "content": "这种pk速度回落是脚步声",
+  "music": 0.0
+ },
+ {
+  "from": 119.26,
+  "to": 120.74,
+  "sid": 68,
+  "location": 2,
+  "content": "移动速度还要比静步更快",
+  "music": 0.0
+ },
+ {
+  "from": 120.74,
+  "to": 122.18,
+  "sid": 69,
+  "location": 2,
+  "content": "主要常见于两种情况",
+  "music": 0.0
+ },
+ {
+  "from": 122.18,
+  "to": 123.98,
+  "sid": 70,
+  "location": 2,
+  "content": "一是我们的静音干某某点位",
+  "music": 0.0
+ },
+ {
+  "from": 123.98,
+  "to": 125.12,
+  "sid": 71,
+  "location": 2,
+  "content": "敌人不知道我们的信息",
+  "music": 0.0
+ },
+ {
+  "from": 125.12,
+  "to": 126.56,
+  "sid": 72,
+  "location": 2,
+  "content": "但需要我们横拉探查",
+  "music": 0.0
+ },
+ {
+  "from": 126.56,
+  "to": 127.94,
+  "sid": 73,
+  "location": 2,
+  "content": "某可能有人架枪角度的时候",
+  "music": 0.0
+ },
+ {
+  "from": 127.94,
+  "to": 130.16,
+  "sid": 74,
+  "location": 2,
+  "content": "因为我们要兼顾不漏信息与浙大移动速度",
+  "music": 0.0
+ },
+ {
+  "from": 130.16,
+  "to": 131.98,
+  "sid": 75,
+  "location": 2,
+  "content": "两者就会选择这种pk方式",
+  "music": 0.0
+ },
+ {
+  "from": 131.98,
+  "to": 134.32,
+  "sid": 76,
+  "location": 2,
+  "content": "二是敌人知道我们的大致位置信息",
+  "music": 0.0
+ },
+ {
+  "from": 134.32,
+  "to": 137.14,
+  "sid": 77,
+  "location": 2,
+  "content": "但是我们处在这个较为优势的枪位角度上",
+  "music": 0.0
+ },
+ {
+  "from": 137.14,
+  "to": 138.46,
+  "sid": 78,
+  "location": 2,
+  "content": "优势给予了我们可以一个角度",
+  "music": 0.0
+ },
+ {
+  "from": 138.46,
+  "to": 140.08,
+  "sid": 79,
+  "location": 2,
+  "content": "一个角度pk选择余地",
+  "music": 0.0
+ },
+ {
+  "from": 140.08,
+  "to": 141.28,
+  "sid": 80,
+  "location": 2,
+  "content": "至于什么是优势枪位呢",
+  "music": 0.0
+ },
+ {
+  "from": 141.28,
+  "to": 142.54,
+  "sid": 81,
+  "location": 2,
+  "content": "我在育苗教学里面讲过",
+  "music": 0.0
+ },
+ {
+  "from": 142.54,
+  "to": 144.04,
+  "sid": 82,
+  "location": 2,
+  "content": "还是推荐大家去看一下",
+  "music": 0.0
+ },
+ {
+  "from": 144.04,
+  "to": 145.0,
+  "sid": 83,
+  "location": 2,
+  "content": "对于新手而言",
+  "music": 0.0
+ },
+ {
+  "from": 145.0,
+  "to": 146.56,
+  "sid": 84,
+  "location": 2,
+  "content": "你需要熟练掌握多长位移",
+  "music": 0.0
+ },
+ {
+  "from": 146.56,
+  "to": 147.82,
+  "sid": 85,
+  "location": 2,
+  "content": "才会技能不露出脚步声",
+  "music": 0.0
+ },
+ {
+  "from": 147.82,
+  "to": 150.04,
+  "sid": 86,
+  "location": 2,
+  "content": "还能以较大速度进行P的容错空间",
+  "music": 0.0
+ },
+ {
+  "from": 150.04,
+  "to": 152.26,
+  "sid": 87,
+  "location": 2,
+  "content": "最后呢则是由脚步声最大速度pk",
+  "music": 0.0
+ },
+ {
+  "from": 152.26,
+  "to": 154.32,
+  "sid": 88,
+  "location": 2,
+  "content": "这种pk呢同样常见有两种情况",
+  "music": 0.0
+ },
+ {
+  "from": 154.32,
+  "to": 156.81,
+  "sid": 89,
+  "location": 2,
+  "content": "一是我们在抱团提速进攻某个距离的时候",
+  "music": 0.0
+ },
+ {
+  "from": 156.81,
+  "to": 158.94,
+  "sid": 90,
+  "location": 2,
+  "content": "因为我们不在乎是否给对方漏信息",
+  "music": 0.0
+ },
+ {
+  "from": 158.94,
+  "to": 160.66,
+  "sid": 91,
+  "location": 2,
+  "content": "所以就会以最大速度进行横拉",
+  "music": 0.0
+ },
+ {
+  "from": 160.66,
+  "to": 162.52,
+  "sid": 92,
+  "location": 2,
+  "content": "但既然是以最大速度进行pk",
+  "music": 0.0
+ },
+ {
+  "from": 162.52,
+  "to": 164.769,
+  "sid": 93,
+  "location": 2,
+  "content": "需要我们一秒的角度变化会非常剧烈",
+  "music": 0.0
+ },
+ {
+  "from": 164.769,
+  "to": 167.289,
+  "sid": 94,
+  "location": 2,
+  "content": "我们要配合移动来迅速地改变用好角度",
+  "music": 0.0
+ },
+ {
+  "from": 167.289,
+  "to": 169.03,
+  "sid": 95,
+  "location": 2,
+  "content": "这是一种pk练习难点",
+  "music": 0.0
+ },
+ {
+  "from": 169.03,
+  "to": 170.47,
+  "sid": 96,
+  "location": 2,
+  "content": "那么第二种情况是",
+  "music": 0.0
+ },
+ {
+  "from": 170.47,
+  "to": 172.21,
+  "sid": 97,
+  "location": 2,
+  "content": "我们被迫从一个劣势枪位进行pk",
+  "music": 0.0
+ },
+ {
+  "from": 172.21,
+  "to": 173.47,
+  "sid": 98,
+  "location": 2,
+  "content": "因为角度上不占优势",
+  "music": 0.0
+ },
+ {
+  "from": 173.47,
+  "to": 176.74,
+  "sid": 99,
+  "location": 2,
+  "content": "就只能以最大速度来尽可能挽回角度上劣势",
+  "music": 0.0
+ },
+ {
+  "from": 176.74,
+  "to": 179.8,
+  "sid": 100,
+  "location": 2,
+  "content": "那么以上三种就是游戏中最常规的pk方式",
+  "music": 0.0
+ },
+ {
+  "from": 179.8,
+  "to": 180.76,
+  "sid": 101,
+  "location": 2,
+  "content": "具体选择哪种呢",
+  "music": 0.0
+ },
+ {
+  "from": 180.76,
+  "to": 183.28,
+  "sid": 102,
+  "location": 2,
+  "content": "主要取决于我们要不要漏信息以及所处的角度",
+  "music": 0.0
+ },
+ {
+  "from": 183.28,
+  "to": 184.8,
+  "sid": 103,
+  "location": 2,
+  "content": "优劣量因素值得考量",
+  "music": 0.0
+ },
+ {
+  "from": 184.8,
+  "to": 186.96,
+  "sid": 104,
+  "location": 2,
+  "content": "更具体的在实战中的pk方式的选择",
+  "music": 0.0
+ },
+ {
+  "from": 186.96,
+  "to": 189.3,
+  "sid": 105,
+  "location": 2,
+  "content": "可以参考我此前对枪策略选择教学",
+  "music": 0.0
+ },
+ {
+  "from": 189.3,
+  "to": 191.22,
+  "sid": 106,
+  "location": 2,
+  "content": "关键链接同样会在视频下方",
+  "music": 0.0
+ },
+ {
+  "from": 191.22,
+  "to": 192.96,
+  "sid": 107,
+  "location": 2,
+  "content": "除了上述的三种pk之外",
+  "music": 0.0
+ },
+ {
+  "from": 192.96,
+  "to": 194.88,
+  "sid": 108,
+  "location": 2,
+  "content": "被锁死在劣势枪位被迫pk",
+  "music": 0.0
+ },
+ {
+  "from": 194.88,
+  "to": 196.86,
+  "sid": 109,
+  "location": 2,
+  "content": "还有三种更积极的pk方式",
+  "music": 0.0
+ },
+ {
+  "from": 196.86,
+  "to": 199.44,
+  "sid": 110,
+  "location": 2,
+  "content": "那么第一种呢就是小时也不露头的多次晃身",
+  "music": 0.0
+ },
+ {
+  "from": 199.44,
+  "to": 200.88,
+  "sid": 111,
+  "location": 2,
+  "content": "再配合CP的一次大拉",
+  "music": 0.0
+ },
+ {
+  "from": 200.88,
+  "to": 202.53,
+  "sid": 112,
+  "location": 2,
+  "content": "那受害者视角大概是这样的",
+  "music": 0.0
+ },
+ {
+  "from": 202.53,
+  "to": 204.54,
+  "sid": 113,
+  "location": 2,
+  "content": "主要练习难点在于声音控制",
+  "music": 0.0
+ },
+ {
+  "from": 204.54,
+  "to": 206.82,
+  "sid": 114,
+  "location": 2,
+  "content": "那么第二种呢则是瓦兰特克斯提前枪",
+  "music": 0.0
+ },
+ {
+  "from": 206.82,
+  "to": 207.78,
+  "sid": 115,
+  "location": 2,
+  "content": "在瓦兰特中",
+  "music": 0.0
+ },
+ {
+  "from": 207.78,
+  "to": 210.54,
+  "sid": 116,
+  "location": 2,
+  "content": "这个移动的扩散是与这个移动速率正相关的",
+  "music": 0.0
+ },
+ {
+  "from": 210.54,
+  "to": 213.16,
+  "sid": 117,
+  "location": 2,
+  "content": "而人物在移动中变现会导致速度下降",
+  "music": 0.0
+ },
+ {
+  "from": 213.16,
+  "to": 214.66,
+  "sid": 118,
+  "location": 2,
+  "content": "人物变相导致速度下降",
+  "music": 0.0
+ },
+ {
+  "from": 214.66,
+  "to": 216.28,
+  "sid": 119,
+  "location": 2,
+  "content": "就会带来近似急停的效果",
+  "music": 0.0
+ },
+ {
+  "from": 216.28,
+  "to": 218.32,
+  "sid": 120,
+  "location": 2,
+  "content": "大家可以把它理解成出掩体的瞬间",
+  "music": 0.0
+ },
+ {
+  "from": 218.32,
+  "to": 220.92,
+  "sid": 121,
+  "location": 2,
+  "content": "立马在开枪的同时按反方向键再跑回掩体",
+  "music": 0.0
+ },
+ {
+  "from": 220.92,
+  "to": 222.72,
+  "sid": 122,
+  "location": 2,
+  "content": "虽然这种操作近似于跑打",
+  "music": 0.0
+ },
+ {
+  "from": 222.72,
+  "to": 225.21,
+  "sid": 123,
+  "location": 2,
+  "content": "但射出的子弹进攻在火的时候都是蛮高的",
+  "music": 0.0
+ },
+ {
+  "from": 225.21,
+  "to": 226.8,
+  "sid": 124,
+  "location": 2,
+  "content": "这种pk方式的练习难点在于",
+  "music": 0.0
+ },
+ {
+  "from": 226.8,
+  "to": 228.42,
+  "sid": 125,
+  "location": 2,
+  "content": "他没有给你拉出掩体进行瞄准",
+  "music": 0.0
+ },
+ {
+  "from": 228.42,
+  "to": 231.44,
+  "sid": 126,
+  "location": 2,
+  "content": "时间主要依靠位的预瞄和运气两个因素的影响",
+  "music": 0.0
+ },
+ {
+  "from": 231.44,
+  "to": 233.96,
+  "sid": 127,
+  "location": 2,
+  "content": "那第三种呢则是瓦洛兰特色超级大拉",
+  "music": 0.0
+ },
+ {
+  "from": 233.96,
+  "to": 235.46,
+  "sid": 128,
+  "location": 2,
+  "content": "也就是我们常说的popping sin",
+  "music": 0.0
+ },
+ {
+  "from": 235.46,
+  "to": 238.0,
+  "sid": 129,
+  "location": 2,
+  "content": "popping sun是指我们在以最大速度拉出掩体后",
+  "music": 0.0
+ },
+ {
+  "from": 238.0,
+  "to": 239.56,
+  "sid": 130,
+  "location": 2,
+  "content": "即使准星瞄到敌人头部",
+  "music": 0.0
+ },
+ {
+  "from": 239.56,
+  "to": 240.49,
+  "sid": 131,
+  "location": 2,
+  "content": "也会松开方向键",
+  "music": 0.0
+ },
+ {
+  "from": 240.49,
+  "to": 241.42,
+  "sid": 132,
+  "location": 2,
+  "content": "多走两步",
+  "music": 0.0
+ },
+ {
+  "from": 241.42,
+  "to": 243.16,
+  "sid": 133,
+  "location": 2,
+  "content": "晃开敌人弹道之后再射击",
+  "music": 0.0
+ },
+ {
+  "from": 243.16,
+  "to": 245.38,
+  "sid": 134,
+  "location": 2,
+  "content": "这种pk呢建立于瓦兰特是一个人物",
+  "music": 0.0
+ },
+ {
+  "from": 245.38,
+  "to": 246.22,
+  "sid": 135,
+  "location": 2,
+  "content": "希特斯很小",
+  "music": 0.0
+ },
+ {
+  "from": 246.22,
+  "to": 248.52,
+  "sid": 136,
+  "location": 2,
+  "content": "所以一弹道控枪不够稳定游戏机制之上",
+  "music": 0.0
+ },
+ {
+  "from": 248.52,
+  "to": 250.92,
+  "sid": 137,
+  "location": 2,
+  "content": "因为他是国外主播popping的成名绝技",
+  "music": 0.0
+ },
+ {
+  "from": 250.92,
+  "to": 252.22,
+  "sid": 138,
+  "location": 2,
+  "content": "所以我们叫他popping spring",
+  "music": 0.0
+ },
+ {
+  "from": 252.22,
+  "to": 253.06,
+  "sid": 139,
+  "location": 2,
+  "content": "这种peek呢",
+  "music": 0.0
+ },
+ {
+  "from": 253.06,
+  "to": 255.34,
+  "sid": 140,
+  "location": 2,
+  "content": "因为算是一种被逼入极度劣势枪位之后",
+  "music": 0.0
+ },
+ {
+  "from": 255.34,
+  "to": 256.93,
+  "sid": 141,
+  "location": 2,
+  "content": "仅限于1V1情下的赌博",
+  "music": 0.0
+ },
+ {
+  "from": 256.93,
+  "to": 258.279,
+  "sid": 142,
+  "location": 2,
+  "content": "使用场景很受限",
+  "music": 0.0
+ },
+ {
+  "from": 258.279,
+  "to": 259.779,
+  "sid": 143,
+  "location": 2,
+  "content": "所以练习上其实没有什么难点",
+  "music": 0.0
+ },
+ {
+  "from": 259.779,
+  "to": 262.46,
+  "sid": 144,
+  "location": 2,
+  "content": "主要考验的是你在实战中敢不敢赌这么一下",
+  "music": 0.0
+ },
+ {
+  "from": 262.46,
+  "to": 264.02,
+  "sid": 145,
+  "location": 2,
+  "content": "我们在拉船员跳的移动呢",
+  "music": 0.0
+ },
+ {
+  "from": 264.02,
+  "to": 265.01,
+  "sid": 146,
+  "location": 2,
+  "content": "并不会就此结束",
+  "music": 0.0
+ },
+ {
+  "from": 265.01,
+  "to": 266.54,
+  "sid": 147,
+  "location": 2,
+  "content": "进行第一轮射击之后呢",
+  "music": 0.0
+ },
+ {
+  "from": 266.54,
+  "to": 269.4,
+  "sid": 148,
+  "location": 2,
+  "content": "有时还需要穿插更多移动来衔接下一轮射击",
+  "music": 0.0
+ },
+ {
+  "from": 269.4,
+  "to": 270.3,
+  "sid": 149,
+  "location": 2,
+  "content": "我再说一遍",
+  "music": 0.0
+ },
+ {
+  "from": 270.3,
+  "to": 271.86,
+  "sid": 150,
+  "location": 2,
+  "content": "瓦洛兰特是一个人游戏的boss",
+  "music": 0.0
+ },
+ {
+  "from": 271.86,
+  "to": 272.88,
+  "sid": 151,
+  "location": 2,
+  "content": "要比CSGO小很多",
+  "music": 0.0
+ },
+ {
+  "from": 272.88,
+  "to": 274.52,
+  "sid": 152,
+  "location": 2,
+  "content": "而且变向速度要比CSGO快",
+  "music": 0.0
+ },
+ {
+  "from": 274.52,
+  "to": 276.26,
+  "sid": 153,
+  "location": 2,
+  "content": "用控枪来补偿定位的难度",
+  "music": 0.0
+ },
+ {
+  "from": 276.26,
+  "to": 277.49,
+  "sid": 154,
+  "location": 2,
+  "content": "比CSGO更高的游戏",
+  "music": 0.0
+ },
+ {
+  "from": 277.49,
+  "to": 278.84,
+  "sid": 155,
+  "location": 2,
+  "content": "除了近距离交战之外",
+  "music": 0.0
+ },
+ {
+  "from": 278.84,
+  "to": 280.46,
+  "sid": 156,
+  "location": 2,
+  "content": "PIVE出掩体之后站着不动",
+  "music": 0.0
+ },
+ {
+  "from": 280.46,
+  "to": 281.8,
+  "sid": 157,
+  "location": 2,
+  "content": "左键收益并不高",
+  "music": 0.0
+ },
+ {
+  "from": 281.8,
+  "to": 282.82,
+  "sid": 158,
+  "location": 2,
+  "content": "如画面所示",
+  "music": 0.0
+ },
+ {
+  "from": 282.82,
+  "to": 284.38,
+  "sid": 159,
+  "location": 2,
+  "content": "我们可以通过进行一轮射击",
+  "music": 0.0
+ },
+ {
+  "from": 284.38,
+  "to": 286.12,
+  "sid": 160,
+  "location": 2,
+  "content": "再移动一两步来晃开敌人枪线",
+  "music": 0.0
+ },
+ {
+  "from": 286.12,
+  "to": 287.86,
+  "sid": 161,
+  "location": 2,
+  "content": "然后进行下一轮射击的射击方式",
+  "music": 0.0
+ },
+ {
+  "from": 287.86,
+  "to": 289.06,
+  "sid": 162,
+  "location": 2,
+  "content": "与敌人进行交战",
+  "music": 0.0
+ },
+ {
+  "from": 289.06,
+  "to": 290.14,
+  "sid": 163,
+  "location": 2,
+  "content": "使用这种射击方式",
+  "music": 0.0
+ },
+ {
+  "from": 290.14,
+  "to": 292.06,
+  "sid": 164,
+  "location": 2,
+  "content": "如果你的瞄准移动的结合做的足够好",
+  "music": 0.0
+ },
+ {
+  "from": 292.06,
+  "to": 293.98,
+  "sid": 165,
+  "location": 2,
+  "content": "甚至可以轻松做到正面一打多",
+  "music": 0.0
+ },
+ {
+  "from": 293.98,
+  "to": 296.14,
+  "sid": 166,
+  "location": 2,
+  "content": "这也就引出了我们在PEK出连体后",
+  "music": 0.0
+ },
+ {
+  "from": 296.14,
+  "to": 296.86,
+  "sid": 167,
+  "location": 2,
+  "content": "是否要蹲下来",
+  "music": 0.0
+ },
+ {
+  "from": 296.86,
+  "to": 298.6,
+  "sid": 168,
+  "location": 2,
+  "content": "曲式考量了上述的一切",
+  "music": 0.0
+ },
+ {
+  "from": 298.6,
+  "to": 300.36,
+  "sid": 169,
+  "location": 2,
+  "content": "pk都可以配合下蹲这个动作",
+  "music": 0.0
+ },
+ {
+  "from": 300.36,
+  "to": 301.98,
+  "sid": 170,
+  "location": 2,
+  "content": "下蹲的坏处是显而易见的",
+  "music": 0.0
+ },
+ {
+  "from": 301.98,
+  "to": 303.12,
+  "sid": 171,
+  "location": 2,
+  "content": "因为下蹲会失去速度",
+  "music": 0.0
+ },
+ {
+  "from": 303.12,
+  "to": 304.86,
+  "sid": 172,
+  "location": 2,
+  "content": "你也就失去了在拉出掩体后",
+  "music": 0.0
+ },
+ {
+  "from": 304.86,
+  "to": 307.16,
+  "sid": 173,
+  "location": 2,
+  "content": "在设计间隔穿插移动的调整空间",
+  "music": 0.0
+ },
+ {
+  "from": 307.16,
+  "to": 307.94,
+  "sid": 174,
+  "location": 2,
+  "content": "相对的好处",
+  "music": 0.0
+ },
+ {
+  "from": 307.94,
+  "to": 310.64,
+  "sid": 175,
+  "location": 2,
+  "content": "就是你可以改变头线高度来避开潜在疫苗",
+  "music": 0.0
+ },
+ {
+  "from": 310.64,
+  "to": 312.16,
+  "sid": 176,
+  "location": 2,
+  "content": "也更有利于你控枪",
+  "music": 0.0
+ },
+ {
+  "from": 312.16,
+  "to": 313.9,
+  "sid": 177,
+  "location": 2,
+  "content": "所以假如你拉出INTEL的交战中",
+  "music": 0.0
+ },
+ {
+  "from": 313.9,
+  "to": 315.43,
+  "sid": 178,
+  "location": 2,
+  "content": "近距离的且是局部1V1",
+  "music": 0.0
+ },
+ {
+  "from": 315.43,
+  "to": 317.82,
+  "sid": 179,
+  "location": 2,
+  "content": "那配合下蹲动作的一个pk是合理的选择",
+  "music": 0.0
+ },
+ {
+  "from": 317.82,
+  "to": 318.36,
+  "sid": 180,
+  "location": 2,
+  "content": "相反的",
+  "music": 0.0
+ },
+ {
+  "from": 318.36,
+  "to": 320.16,
+  "sid": 181,
+  "location": 2,
+  "content": "如果拉出原跳的交战是远距离的",
+  "music": 0.0
+ },
+ {
+  "from": 320.16,
+  "to": 321.51,
+  "sid": 182,
+  "location": 2,
+  "content": "且大概率是一对多的前进",
+  "music": 0.0
+ },
+ {
+  "from": 321.51,
+  "to": 324.02,
+  "sid": 183,
+  "location": 2,
+  "content": "那就不应该在pk的时候配合下蹲",
+  "music": 0.0
+ },
+ {
+  "from": 324.02,
+  "to": 325.22,
+  "sid": 184,
+  "location": 2,
+  "content": "我们在这期视频里面",
+  "music": 0.0
+ },
+ {
+  "from": 325.22,
+  "to": 327.2,
+  "sid": 185,
+  "location": 2,
+  "content": "总结了瓦兰特里的所有pg类型与对应的",
+  "music": 0.0
+ },
+ {
+  "from": 327.2,
+  "to": 327.92,
+  "sid": 186,
+  "location": 2,
+  "content": "使用场景",
+  "music": 0.0
+ },
+ {
+  "from": 327.92,
+  "to": 330.22,
+  "sid": 187,
+  "location": 2,
+  "content": "希望大家在实战中也能做到融会贯通",
+  "music": 0.0
+ },
+ {
+  "from": 330.22,
+  "to": 331.0,
+  "sid": 188,
+  "location": 2,
+  "content": "更具体的内容",
+  "music": 0.0
+ },
+ {
+  "from": 331.0,
+  "to": 333.01,
+  "sid": 189,
+  "location": 2,
+  "content": "大家还可以看我对枪策略选择教学",
+  "music": 0.0
+ },
+ {
+  "from": 333.01,
+  "to": 334.3,
+  "sid": 190,
+  "location": 2,
+  "content": "如果夹带一点私货的话",
+  "music": 0.0
+ },
+ {
+  "from": 334.3,
+  "to": 335.4,
+  "sid": 191,
+  "location": 2,
+  "content": "我想再强调一次",
+  "music": 0.0
+ },
+ {
+  "from": 335.4,
+  "to": 337.86,
+  "sid": 192,
+  "location": 2,
+  "content": "速度是我们在玩的这里进行pk动作的时候",
+  "music": 0.0
+ },
+ {
+  "from": 337.86,
+  "to": 339.12,
+  "sid": 193,
+  "location": 2,
+  "content": "最值得依赖的工具",
+  "music": 0.0
+ },
+ {
+  "from": 339.12,
+  "to": 341.4,
+  "sid": 194,
+  "location": 2,
+  "content": "自信的大拉配合上极致的瞄准微调",
+  "music": 0.0
+ },
+ {
+  "from": 341.4,
+  "to": 342.54,
+  "sid": 195,
+  "location": 2,
+  "content": "足以赢下天梯中绝望",
+  "music": 0.0
+ },
+ {
+  "from": 342.54,
+  "to": 343.32,
+  "sid": 196,
+  "location": 2,
+  "content": "而是对枪",
+  "music": 0.1714285469387883
+ },
+ {
+  "from": 343.32,
+  "to": 344.58,
+  "sid": 197,
+  "location": 2,
+  "content": "那本期视频讲到这里",
+  "music": 0.0
+ },
+ {
+  "from": 344.58,
+  "to": 345.3,
+  "sid": 198,
+  "location": 2,
+  "content": "基本到了尾声",
+  "music": 0.0
+ },
+ {
+  "from": 345.3,
+  "to": 346.68,
+  "sid": 199,
+  "location": 2,
+  "content": "我在此后也会持续更新",
+  "music": 0.0
+ },
+ {
+  "from": 346.68,
+  "to": 348.99,
+  "sid": 200,
+  "location": 2,
+  "content": "我也玩了特有中文互联网最体系化的哲学内容",
+  "music": 0.0
+ },
+ {
+  "from": 348.99,
+  "to": 351.18,
+  "sid": 201,
+  "location": 2,
+  "content": "最终目的是让所有观众在到达小黑蛋之前",
+  "music": 0.0
+ },
+ {
+  "from": 351.18,
+  "to": 352.409,
+  "sid": 202,
+  "location": 2,
+  "content": "都不会人声的平静",
+  "music": 0.0
+ },
+ {
+  "from": 352.409,
+  "to": 354.329,
+  "sid": 203,
+  "location": 2,
+  "content": "如果你想提高自己在瓦伦特的游戏水平",
+  "music": 0.0
+ },
+ {
+  "from": 354.329,
+  "to": 355.169,
+  "sid": 204,
+  "location": 2,
+  "content": "那不妨点个关注",
+  "music": 0.0
+ },
+ {
+  "from": 355.169,
+  "to": 356.26,
+  "sid": 205,
+  "location": 2,
+  "content": "我们下期视频再见",
+  "music": 0.0
+ }
+]

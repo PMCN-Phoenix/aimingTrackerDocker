@@ -1,0 +1,2874 @@
+[
+ {
+  "from": 0.08,
+  "to": 0.88,
+  "sid": 1,
+  "location": 2,
+  "content": "哈喽大家好",
+  "music": 0.0
+ },
+ {
+  "from": 0.88,
+  "to": 1.62,
+  "sid": 2,
+  "location": 2,
+  "content": "我是翔哥",
+  "music": 0.0
+ },
+ {
+  "from": 1.62,
+  "to": 3.9,
+  "sid": 3,
+  "location": 2,
+  "content": "今天我们来聊一下先锋位的道具思路",
+  "music": 0.0
+ },
+ {
+  "from": 3.9,
+  "to": 5.52,
+  "sid": 4,
+  "location": 2,
+  "content": "和游戏中常出现的问题",
+  "music": 0.0
+ },
+ {
+  "from": 5.52,
+  "to": 8.42,
+  "sid": 5,
+  "location": 2,
+  "content": "很多兄弟们玩先锋位从网上学一堆lap",
+  "music": 0.0
+ },
+ {
+  "from": 8.42,
+  "to": 9.54,
+  "sid": 6,
+  "location": 2,
+  "content": "也不管队友在哪",
+  "music": 0.0
+ },
+ {
+  "from": 9.54,
+  "to": 12.82,
+  "sid": 7,
+  "location": 2,
+  "content": "也不管地图控制权上来就给拿一堆无用信息",
+  "music": 0.0
+ },
+ {
+  "from": 12.82,
+  "to": 14.16,
+  "sid": 8,
+  "location": 2,
+  "content": "要么手上一堆道具",
+  "music": 0.0
+ },
+ {
+  "from": 14.16,
+  "to": 16.7,
+  "sid": 9,
+  "location": 2,
+  "content": "见到人先把道具全打完就干拉对枪",
+  "music": 0.0
+ },
+ {
+  "from": 16.7,
+  "to": 19.08,
+  "sid": 10,
+  "location": 2,
+  "content": "感觉道具在手上不打不舒服",
+  "music": 0.0
+ },
+ {
+  "from": 19.08,
+  "to": 22.3,
+  "sid": 11,
+  "location": 2,
+  "content": "能把先锋位也玩的公公又事事先锋位",
+  "music": 0.0
+ },
+ {
+  "from": 22.3,
+  "to": 24.32,
+  "sid": 12,
+  "location": 2,
+  "content": "作为队内最重要的辅助位",
+  "music": 0.0
+ },
+ {
+  "from": 24.32,
+  "to": 27.38,
+  "sid": 13,
+  "location": 2,
+  "content": "每一个道具释放都应该有思路和逻辑的",
+  "music": 0.0
+ },
+ {
+  "from": 27.38,
+  "to": 30.04,
+  "sid": 14,
+  "location": 2,
+  "content": "所以这期的重点就是要拒绝公式化",
+  "music": 0.0
+ },
+ {
+  "from": 30.04,
+  "to": 31.28,
+  "sid": 15,
+  "location": 2,
+  "content": "拒绝无效道具",
+  "music": 0.0
+ },
+ {
+  "from": 31.28,
+  "to": 33.8,
+  "sid": 16,
+  "location": 2,
+  "content": "我也是这两天看了几个水友的POV",
+  "music": 0.0
+ },
+ {
+  "from": 33.8,
+  "to": 35.24,
+  "sid": 17,
+  "location": 2,
+  "content": "给我看的快脑淤血了",
+  "music": 0.0
+ },
+ {
+  "from": 35.24,
+  "to": 36.24,
+  "sid": 18,
+  "location": 2,
+  "content": "实在忍不了",
+  "music": 0.0
+ },
+ {
+  "from": 36.24,
+  "to": 38.78,
+  "sid": 19,
+  "location": 2,
+  "content": "今天就借用这个PUV做这期视频",
+  "music": 0.0
+ },
+ {
+  "from": 38.78,
+  "to": 39.9,
+  "sid": 20,
+  "location": 2,
+  "content": "都是黄白金啊",
+  "music": 0.0
+ },
+ {
+  "from": 39.9,
+  "to": 42.16,
+  "sid": 21,
+  "location": 2,
+  "content": "也是这个游戏人数最多的段位",
+  "music": 0.0
+ },
+ {
+  "from": 42.16,
+  "to": 42.94,
+  "sid": 22,
+  "location": 2,
+  "content": "先声明一下",
+  "music": 0.0
+ },
+ {
+  "from": 42.94,
+  "to": 44.68,
+  "sid": 23,
+  "location": 2,
+  "content": "用PUV是经过水友同意的",
+  "music": 0.0
+ },
+ {
+  "from": 44.68,
+  "to": 46.0,
+  "sid": 24,
+  "location": 2,
+  "content": "水友段位是白金",
+  "music": 0.0
+ },
+ {
+  "from": 46.0,
+  "to": 47.04,
+  "sid": 25,
+  "location": 2,
+  "content": "既然是说问题",
+  "music": 0.0
+ },
+ {
+  "from": 47.04,
+  "to": 48.96,
+  "sid": 26,
+  "location": 2,
+  "content": "我肯定都捡一些很扛的操作",
+  "music": 0.0
+ },
+ {
+  "from": 48.96,
+  "to": 50.52,
+  "sid": 27,
+  "location": 2,
+  "content": "各位看官嘴下留情",
+  "music": 0.0
+ },
+ {
+  "from": 50.52,
+  "to": 51.56,
+  "sid": 28,
+  "location": 2,
+  "content": "喷喷我就算了",
+  "music": 0.0
+ },
+ {
+  "from": 51.56,
+  "to": 52.36,
+  "sid": 29,
+  "location": 2,
+  "content": "别攻击水友",
+  "music": 0.0
+ },
+ {
+  "from": 52.36,
+  "to": 53.32,
+  "sid": 30,
+  "location": 2,
+  "content": "视频中的五杀",
+  "music": 0.0
+ },
+ {
+  "from": 53.32,
+  "to": 55.65,
+  "sid": 31,
+  "location": 2,
+  "content": "也是水友这场打出来的精彩操作啊",
+  "music": 0.0
+ },
+ {
+  "from": 55.65,
+  "to": 56.77,
+  "sid": 32,
+  "location": 2,
+  "content": "枪法是在线的",
+  "music": 0.0
+ },
+ {
+  "from": 56.77,
+  "to": 58.29,
+  "sid": 33,
+  "location": 2,
+  "content": "不过是思路出了些小问题",
+  "music": 0.0
+ },
+ {
+  "from": 58.29,
+  "to": 60.39,
+  "sid": 34,
+  "location": 2,
+  "content": "所以不要再质疑水友段位的问题了",
+  "music": 0.0
+ },
+ {
+  "from": 60.39,
+  "to": 62.56,
+  "sid": 35,
+  "location": 2,
+  "content": "先锋位可细分为两个位置啊",
+  "music": 0.0
+ },
+ {
+  "from": 62.56,
+  "to": 64.76,
+  "sid": 36,
+  "location": 2,
+  "content": "一个是猎枭黑梦为主的信息位",
+  "music": 0.0
+ },
+ {
+  "from": 64.76,
+  "to": 66.5,
+  "sid": 37,
+  "location": 2,
+  "content": "一个是以铁臂为主的道具位",
+  "music": 0.0
+ },
+ {
+  "from": 66.5,
+  "to": 67.7,
+  "sid": 38,
+  "location": 2,
+  "content": "我们先说信息位啊",
+  "music": 0.0
+ },
+ {
+  "from": 67.7,
+  "to": 69.74,
+  "sid": 39,
+  "location": 2,
+  "content": "很多兄弟们不论进攻防守",
+  "music": 0.0
+ },
+ {
+  "from": 69.74,
+  "to": 72.62,
+  "sid": 40,
+  "location": 2,
+  "content": "都会开局就丢出一个获取信息的道具",
+  "music": 0.0
+ },
+ {
+  "from": 72.62,
+  "to": 74.48,
+  "sid": 41,
+  "location": 2,
+  "content": "其实很多道具是浪费了的",
+  "music": 0.0
+ },
+ {
+  "from": 74.48,
+  "to": 76.54,
+  "sid": 42,
+  "location": 2,
+  "content": "尽管很多是获取到信息了",
+  "music": 0.0
+ },
+ {
+  "from": 76.54,
+  "to": 78.12,
+  "sid": 43,
+  "location": 2,
+  "content": "但是要么是重复信息",
+  "music": 0.0
+ },
+ {
+  "from": 78.12,
+  "to": 79.32,
+  "sid": 44,
+  "location": 2,
+  "content": "要么是无效信息",
+  "music": 0.0
+ },
+ {
+  "from": 79.32,
+  "to": 81.8,
+  "sid": 45,
+  "location": 2,
+  "content": "我们来看POV在防守方手枪局",
+  "music": 0.0
+ },
+ {
+  "from": 81.8,
+  "to": 84.1,
+  "sid": 46,
+  "location": 2,
+  "content": "谁有猎枭到B大给探测键",
+  "music": 0.0
+ },
+ {
+  "from": 84.1,
+  "to": 85.4,
+  "sid": 47,
+  "location": 2,
+  "content": "这个就是无效道具",
+  "music": 0.0
+ },
+ {
+  "from": 85.4,
+  "to": 87.1,
+  "sid": 48,
+  "location": 2,
+  "content": "这也是兄弟们经常给的剑",
+  "music": 0.0
+ },
+ {
+  "from": 87.1,
+  "to": 89.26,
+  "sid": 49,
+  "location": 2,
+  "content": "光幕一落下来就打个探测键",
+  "music": 0.0
+ },
+ {
+  "from": 89.26,
+  "to": 90.54,
+  "sid": 50,
+  "location": 2,
+  "content": "其实是毫无意义的",
+  "music": 0.0
+ },
+ {
+  "from": 90.54,
+  "to": 93.02,
+  "sid": 51,
+  "location": 2,
+  "content": "我们常规站位A大给个单向烟站",
+  "music": 0.0
+ },
+ {
+  "from": 93.02,
+  "to": 95.36,
+  "sid": 52,
+  "location": 2,
+  "content": "前点小道也能听到A大的脚步声",
+  "music": 0.0
+ },
+ {
+  "from": 95.36,
+  "to": 97.88,
+  "sid": 53,
+  "location": 2,
+  "content": "B点打提速也是能听到脚步声的",
+  "music": 0.0
+ },
+ {
+  "from": 97.88,
+  "to": 100.48,
+  "sid": 54,
+  "location": 2,
+  "content": "或者我们的少尉保安会给个前脸摄像头",
+  "music": 0.0
+ },
+ {
+  "from": 100.48,
+  "to": 102.16,
+  "sid": 55,
+  "location": 2,
+  "content": "或者其乐的前脸小鸡",
+  "music": 0.0
+ },
+ {
+  "from": 102.16,
+  "to": 103.78,
+  "sid": 56,
+  "location": 2,
+  "content": "哪怕是这一局的维斯",
+  "music": 0.0
+ },
+ {
+  "from": 103.78,
+  "to": 104.78,
+  "sid": 57,
+  "location": 2,
+  "content": "虽然没有信息",
+  "music": 0.0
+ },
+ {
+  "from": 104.78,
+  "to": 105.5,
+  "sid": 58,
+  "location": 2,
+  "content": "但是有钱",
+  "music": 0.0
+ },
+ {
+  "from": 105.5,
+  "to": 107.64,
+  "sid": 59,
+  "location": 2,
+  "content": "我们不需要担心对面打提速",
+  "music": 0.0
+ },
+ {
+  "from": 107.64,
+  "to": 109.48,
+  "sid": 60,
+  "location": 2,
+  "content": "既然我们可以通过脚步声",
+  "music": 0.0
+ },
+ {
+  "from": 109.48,
+  "to": 111.34,
+  "sid": 61,
+  "location": 2,
+  "content": "和其他道具来获取信息",
+  "music": 0.0
+ },
+ {
+  "from": 111.34,
+  "to": 113.88,
+  "sid": 62,
+  "location": 2,
+  "content": "那为什么还要打这个探测键呢",
+  "music": 0.0
+ },
+ {
+  "from": 113.88,
+  "to": 116.46,
+  "sid": 63,
+  "location": 2,
+  "content": "对面打A我们留个剑打回防不好吗",
+  "music": 0.0
+ },
+ {
+  "from": 116.46,
+  "to": 118.98,
+  "sid": 64,
+  "location": 2,
+  "content": "对面打B等墙起来把一头接住",
+  "music": 0.0
+ },
+ {
+  "from": 118.98,
+  "to": 119.78,
+  "sid": 65,
+  "location": 2,
+  "content": "再给个键",
+  "music": 0.0
+ },
+ {
+  "from": 119.78,
+  "to": 121.26,
+  "sid": 66,
+  "location": 2,
+  "content": "拿外面的信息不好吗",
+  "music": 0.0
+ },
+ {
+  "from": 121.26,
+  "to": 123.58,
+  "sid": 67,
+  "location": 2,
+  "content": "AB两点的前点键什么时候给呢",
+  "music": 0.0
+ },
+ {
+  "from": 123.58,
+  "to": 125.44,
+  "sid": 68,
+  "location": 2,
+  "content": "这在我们开局四五秒钟",
+  "music": 0.0
+ },
+ {
+  "from": 125.44,
+  "to": 128.66,
+  "sid": 69,
+  "location": 2,
+  "content": "所有的队友都没有获取到信息的情况下",
+  "music": 0.0
+ },
+ {
+  "from": 128.66,
+  "to": 131.02,
+  "sid": 70,
+  "location": 2,
+  "content": "这说明对面可能在打精英接触",
+  "music": 0.0
+ },
+ {
+  "from": 131.02,
+  "to": 132.76,
+  "sid": 71,
+  "location": 2,
+  "content": "或者在打默认或者在架点",
+  "music": 0.0
+ },
+ {
+  "from": 132.76,
+  "to": 134.88,
+  "sid": 72,
+  "location": 2,
+  "content": "那需要我们打个剑出去拿信息",
+  "music": 0.0
+ },
+ {
+  "from": 134.88,
+  "to": 136.64,
+  "sid": 73,
+  "location": 2,
+  "content": "及时调整我们的防守站位",
+  "music": 0.0
+ },
+ {
+  "from": 136.64,
+  "to": 139.04,
+  "sid": 74,
+  "location": 2,
+  "content": "如果我们一定要在开局就给个剑的话",
+  "music": 0.0
+ },
+ {
+  "from": 139.04,
+  "to": 140.46,
+  "sid": 75,
+  "location": 2,
+  "content": "那也应该是给中路建",
+  "music": 0.0
+ },
+ {
+  "from": 140.46,
+  "to": 142.44,
+  "sid": 76,
+  "location": 2,
+  "content": "因为中路获取信息的手段",
+  "music": 0.0
+ },
+ {
+  "from": 142.44,
+  "to": 144.66,
+  "sid": 77,
+  "location": 2,
+  "content": "只有靠队友的支架或者peek",
+  "music": 0.0
+ },
+ {
+  "from": 144.66,
+  "to": 145.78,
+  "sid": 78,
+  "location": 2,
+  "content": "这存在风险性",
+  "music": 0.0
+ },
+ {
+  "from": 145.78,
+  "to": 149.28,
+  "sid": 79,
+  "location": 2,
+  "content": "既然ab两点都有获取前点信息的方法",
+  "music": 0.0
+ },
+ {
+  "from": 149.28,
+  "to": 151.38,
+  "sid": 80,
+  "location": 2,
+  "content": "那我们就要获取中路的信息",
+  "music": 0.0
+ },
+ {
+  "from": 151.38,
+  "to": 153.68,
+  "sid": 81,
+  "location": 2,
+  "content": "防止对面打中类似的道具呢",
+  "music": 0.0
+ },
+ {
+  "from": 153.68,
+  "to": 156.38,
+  "sid": 82,
+  "location": 2,
+  "content": "还有深海明珠的防守A前脸眼",
+  "music": 0.0
+ },
+ {
+  "from": 156.38,
+  "to": 157.12,
+  "sid": 83,
+  "location": 2,
+  "content": "这个位置",
+  "music": 0.0
+ },
+ {
+  "from": 157.12,
+  "to": 160.38,
+  "sid": 84,
+  "location": 2,
+  "content": "同样在小道和A大都可以听到脚步声的",
+  "music": 0.0
+ },
+ {
+  "from": 160.38,
+  "to": 163.34,
+  "sid": 85,
+  "location": 2,
+  "content": "以及森寒东港的防守A前练剑",
+  "music": 0.0
+ },
+ {
+  "from": 163.34,
+  "to": 165.82,
+  "sid": 86,
+  "location": 2,
+  "content": "虽然我们在包点听不到A大的脚步声",
+  "music": 0.0
+ },
+ {
+  "from": 165.82,
+  "to": 169.52,
+  "sid": 87,
+  "location": 2,
+  "content": "但是A点进攻方进包点需要排的点很多",
+  "music": 0.0
+ },
+ {
+  "from": 169.52,
+  "to": 170.94,
+  "sid": 88,
+  "location": 2,
+  "content": "战略纵深很长",
+  "music": 0.0
+ },
+ {
+  "from": 170.94,
+  "to": 174.3,
+  "sid": 89,
+  "location": 2,
+  "content": "我们在包点可以拖延很长的时间等待回防",
+  "music": 0.0
+ },
+ {
+  "from": 174.3,
+  "to": 177.0,
+  "sid": 90,
+  "location": 2,
+  "content": "相比较于在开局给这些无效道具",
+  "music": 0.0
+ },
+ {
+  "from": 177.0,
+  "to": 180.56,
+  "sid": 91,
+  "location": 2,
+  "content": "倒不如把枪拿着帮队友打对面的道具",
+  "music": 0.0
+ },
+ {
+  "from": 180.56,
+  "to": 182.7,
+  "sid": 92,
+  "location": 2,
+  "content": "再接一手队友保护他的安全",
+  "music": 0.0
+ },
+ {
+  "from": 182.7,
+  "to": 184.44,
+  "sid": 93,
+  "location": 2,
+  "content": "我们既然是信息位道具",
+  "music": 0.0
+ },
+ {
+  "from": 184.44,
+  "to": 187.04,
+  "sid": 94,
+  "location": 2,
+  "content": "就应该在所有人都获取不到信息的时候",
+  "music": 0.0
+ },
+ {
+  "from": 187.04,
+  "to": 189.78,
+  "sid": 95,
+  "location": 2,
+  "content": "再给拿有效信息才是我们该做的事情",
+  "music": 0.0
+ },
+ {
+  "from": 189.78,
+  "to": 190.94,
+  "sid": 96,
+  "location": 2,
+  "content": "那肯定有兄弟们要说",
+  "music": 0.0
+ },
+ {
+  "from": 190.94,
+  "to": 193.1,
+  "sid": 97,
+  "location": 2,
+  "content": "我在A大或者B大听不到脚步怎么办",
+  "music": 0.0
+ },
+ {
+  "from": 193.1,
+  "to": 196.68,
+  "sid": 98,
+  "location": 2,
+  "content": "那给大家推荐我正在用的这款EPZG10",
+  "music": 0.0
+ },
+ {
+  "from": 196.68,
+  "to": 198.24,
+  "sid": 99,
+  "location": 2,
+  "content": "幻彩龙游戏耳机",
+  "music": 0.0
+ },
+ {
+  "from": 198.24,
+  "to": 199.62,
+  "sid": 100,
+  "location": 2,
+  "content": "入耳式有线耳机",
+  "music": 0.0
+ },
+ {
+  "from": 199.62,
+  "to": 202.24,
+  "sid": 101,
+  "location": 2,
+  "content": "再也不用担心佩戴耳机破坏发型",
+  "music": 0.0
+ },
+ {
+  "from": 202.24,
+  "to": 203.18,
+  "sid": 102,
+  "location": 2,
+  "content": "告别耳机头",
+  "music": 0.0
+ },
+ {
+  "from": 203.18,
+  "to": 206.94,
+  "sid": 103,
+  "location": 2,
+  "content": "EPZ计时针对FPS玩家做了专项调音",
+  "music": 0.0
+ },
+ {
+  "from": 206.94,
+  "to": 209.0,
+  "sid": 104,
+  "location": 2,
+  "content": "同时软件还可以自定义调音",
+  "music": 0.0
+ },
+ {
+  "from": 209.0,
+  "to": 211.14,
+  "sid": 105,
+  "location": 2,
+  "content": "在游戏中脚步异常清晰",
+  "music": 0.0
+ },
+ {
+  "from": 211.14,
+  "to": 212.74,
+  "sid": 106,
+  "location": 2,
+  "content": "定位也非常的精准",
+  "music": 0.0
+ },
+ {
+  "from": 212.74,
+  "to": 215.34,
+  "sid": 107,
+  "location": 2,
+  "content": "用这款耳机再也不用担心听错脚步",
+  "music": 0.0
+ },
+ {
+  "from": 215.34,
+  "to": 216.68,
+  "sid": 108,
+  "location": 2,
+  "content": "也不怕隔着一道墙",
+  "music": 0.0
+ },
+ {
+  "from": 216.68,
+  "to": 218.22,
+  "sid": 109,
+  "location": 2,
+  "content": "分不清脚步位置的问题",
+  "music": 0.0
+ },
+ {
+  "from": 218.22,
+  "to": 219.98,
+  "sid": 110,
+  "location": 2,
+  "content": "同时隔音效果也很好",
+  "music": 0.0
+ },
+ {
+  "from": 219.98,
+  "to": 222.78,
+  "sid": 111,
+  "location": 2,
+  "content": "在宿舍打游戏也不需要担心室友吵闹",
+  "music": 0.0
+ },
+ {
+  "from": 222.78,
+  "to": 223.98,
+  "sid": 112,
+  "location": 2,
+  "content": "影响你听脚步",
+  "music": 0.0
+ },
+ {
+  "from": 223.98,
+  "to": 225.7,
+  "sid": 113,
+  "location": 2,
+  "content": "一个耳机的品质高低",
+  "music": 0.0
+ },
+ {
+  "from": 225.7,
+  "to": 227.02,
+  "sid": 114,
+  "location": 2,
+  "content": "最重要的就是音质",
+  "music": 0.0
+ },
+ {
+  "from": 227.02,
+  "to": 229.0,
+  "sid": 115,
+  "location": 2,
+  "content": "游戏耳机给再多的配置",
+  "music": 0.0
+ },
+ {
+  "from": 229.0,
+  "to": 229.88,
+  "sid": 116,
+  "location": 2,
+  "content": "再多的调音",
+  "music": 0.0
+ },
+ {
+  "from": 229.88,
+  "to": 231.0,
+  "sid": 117,
+  "location": 2,
+  "content": "如果音质不行",
+  "music": 0.0
+ },
+ {
+  "from": 231.0,
+  "to": 232.96,
+  "sid": 118,
+  "location": 2,
+  "content": "那听起来也像是盖了几层纱",
+  "music": 0.0
+ },
+ {
+  "from": 232.96,
+  "to": 234.82,
+  "sid": 119,
+  "location": 2,
+  "content": "我虽然不是HIFI发烧友",
+  "music": 0.0
+ },
+ {
+  "from": 234.82,
+  "to": 236.9,
+  "sid": 120,
+  "location": 2,
+  "content": "但是对耳机的音质要求也很高",
+  "music": 0.0
+ },
+ {
+  "from": 236.9,
+  "to": 238.84,
+  "sid": 121,
+  "location": 2,
+  "content": "各大大牌的啊基本都有",
+  "music": 0.0
+ },
+ {
+  "from": 238.84,
+  "to": 241.48,
+  "sid": 122,
+  "location": 2,
+  "content": "这款耳机的音质绝对不输其他大牌",
+  "music": 0.0
+ },
+ {
+  "from": 241.48,
+  "to": 243.66,
+  "sid": 123,
+  "location": 2,
+  "content": "我到手就拿来听了一下午的歌",
+  "music": 0.0
+ },
+ {
+  "from": 243.66,
+  "to": 244.64,
+  "sid": 124,
+  "location": 2,
+  "content": "直接爱不释手",
+  "music": 0.0
+ },
+ {
+  "from": 244.64,
+  "to": 246.64,
+  "sid": 125,
+  "location": 2,
+  "content": "听歌看剧打游戏的不二之选",
+  "music": 0.0
+ },
+ {
+  "from": 246.64,
+  "to": 249.38,
+  "sid": 126,
+  "location": 2,
+  "content": "EPZ计时还搭配了降噪麦克风",
+  "music": 0.0
+ },
+ {
+  "from": 249.38,
+  "to": 252.48,
+  "sid": 127,
+  "location": 2,
+  "content": "解决了大多数入耳式耳机没有麦克风的烦恼",
+  "music": 0.0
+ },
+ {
+  "from": 252.48,
+  "to": 254.9,
+  "sid": 128,
+  "location": 2,
+  "content": "耳机还是3D1打印树脂腔体",
+  "music": 0.0
+ },
+ {
+  "from": 254.9,
+  "to": 256.46,
+  "sid": 129,
+  "location": 2,
+  "content": "我每天佩戴十来个小时",
+  "music": 0.0
+ },
+ {
+  "from": 256.46,
+  "to": 257.66,
+  "sid": 130,
+  "location": 2,
+  "content": "也没有不舒适感",
+  "music": 0.0
+ },
+ {
+  "from": 257.66,
+  "to": 260.0,
+  "sid": 131,
+  "location": 2,
+  "content": "同时这款耳机还可以拔插换线",
+  "music": 0.0
+ },
+ {
+  "from": 260.0,
+  "to": 261.26,
+  "sid": 132,
+  "location": 2,
+  "content": "转换为蓝牙耳机",
+  "music": 0.0
+ },
+ {
+  "from": 261.26,
+  "to": 263.02,
+  "sid": 133,
+  "location": 2,
+  "content": "最最最最重要的是",
+  "music": 0.0
+ },
+ {
+  "from": 263.02,
+  "to": 264.16,
+  "sid": 134,
+  "location": 2,
+  "content": "这么好的一款耳机",
+  "music": 0.0
+ },
+ {
+  "from": 264.16,
+  "to": 265.34,
+  "sid": 135,
+  "location": 2,
+  "content": "只要200多",
+  "music": 0.0
+ },
+ {
+  "from": 265.34,
+  "to": 266.4,
+  "sid": 136,
+  "location": 2,
+  "content": "性价比拉满",
+  "music": 0.0
+ },
+ {
+  "from": 266.4,
+  "to": 267.86,
+  "sid": 137,
+  "location": 2,
+  "content": "第一次这么认真打广告",
+  "music": 0.0
+ },
+ {
+  "from": 267.86,
+  "to": 269.26,
+  "sid": 138,
+  "location": 2,
+  "content": "因为这个耳机真的好用",
+  "music": 0.0
+ },
+ {
+  "from": 269.26,
+  "to": 272.1,
+  "sid": 139,
+  "location": 2,
+  "content": "兄弟们赶快点击评论区的链接下单吧",
+  "music": 0.0
+ },
+ {
+  "from": 272.1,
+  "to": 274.68,
+  "sid": 140,
+  "location": 2,
+  "content": "这是在防守方开局就给的无效道具",
+  "music": 0.0
+ },
+ {
+  "from": 274.68,
+  "to": 276.48,
+  "sid": 141,
+  "location": 2,
+  "content": "我们再说对局中的道具",
+  "music": 0.0
+ },
+ {
+  "from": 276.48,
+  "to": 279.76,
+  "sid": 142,
+  "location": 2,
+  "content": "黄白经常出现的问题是为了给道具而给道具",
+  "music": 0.0
+ },
+ {
+  "from": 279.76,
+  "to": 280.54,
+  "sid": 143,
+  "location": 2,
+  "content": "不看小地图",
+  "music": 0.0
+ },
+ {
+  "from": 280.54,
+  "to": 281.5,
+  "sid": 144,
+  "location": 2,
+  "content": "不看队友位置",
+  "music": 0.0
+ },
+ {
+  "from": 281.5,
+  "to": 283.08,
+  "sid": 145,
+  "location": 2,
+  "content": "不看对面人员的位置",
+  "music": 0.0
+ },
+ {
+  "from": 283.08,
+  "to": 284.8,
+  "sid": 146,
+  "location": 2,
+  "content": "不管队友是否在前点",
+  "music": 0.0
+ },
+ {
+  "from": 284.8,
+  "to": 286.28,
+  "sid": 147,
+  "location": 2,
+  "content": "不管自己所处的环境",
+  "music": 0.0
+ },
+ {
+  "from": 286.28,
+  "to": 287.0,
+  "sid": 148,
+  "location": 2,
+  "content": "也不沟通",
+  "music": 0.0
+ },
+ {
+  "from": 287.0,
+  "to": 288.32,
+  "sid": 149,
+  "location": 2,
+  "content": "让队友给自己加",
+  "music": 0.0
+ },
+ {
+  "from": 288.32,
+  "to": 289.72,
+  "sid": 150,
+  "location": 2,
+  "content": "也不帮队友架上去",
+  "music": 0.0
+ },
+ {
+  "from": 289.72,
+  "to": 290.72,
+  "sid": 151,
+  "location": 2,
+  "content": "就哐哐一顿",
+  "music": 0.0
+ },
+ {
+  "from": 290.72,
+  "to": 293.72,
+  "sid": 152,
+  "location": 2,
+  "content": "道具的放视频中的道具全是以上的情况",
+  "music": 0.0
+ },
+ {
+  "from": 293.72,
+  "to": 295.42,
+  "sid": 153,
+  "location": 2,
+  "content": "我们细看一下这一小局啊",
+  "music": 0.0
+ },
+ {
+  "from": 295.42,
+  "to": 297.08,
+  "sid": 154,
+  "location": 2,
+  "content": "开局给A大探测键",
+  "music": 0.0
+ },
+ {
+  "from": 297.08,
+  "to": 298.34,
+  "sid": 155,
+  "location": 2,
+  "content": "杰森接住火男",
+  "music": 0.0
+ },
+ {
+  "from": 298.34,
+  "to": 300.2,
+  "sid": 156,
+  "location": 2,
+  "content": "对面欧盟开大被找到",
+  "music": 0.0
+ },
+ {
+  "from": 300.2,
+  "to": 301.92,
+  "sid": 157,
+  "location": 2,
+  "content": "对面意图打A杰风",
+  "music": 0.0
+ },
+ {
+  "from": 301.92,
+  "to": 303.82,
+  "sid": 158,
+  "location": 2,
+  "content": "队友还在前年顶猎枭",
+  "music": 0.0
+ },
+ {
+  "from": 303.82,
+  "to": 305.08,
+  "sid": 159,
+  "location": 2,
+  "content": "却在箱子后开飞机",
+  "music": 0.0
+ },
+ {
+  "from": 305.08,
+  "to": 305.56,
+  "sid": 160,
+  "location": 2,
+  "content": "没错",
+  "music": 0.0
+ },
+ {
+  "from": 305.56,
+  "to": 306.68,
+  "sid": 161,
+  "location": 2,
+  "content": "自己是非常安全的",
+  "music": 0.0
+ },
+ {
+  "from": 306.68,
+  "to": 309.02,
+  "sid": 162,
+  "location": 2,
+  "content": "但是浪费了这么长的飞机行程",
+  "music": 0.0
+ },
+ {
+  "from": 309.02,
+  "to": 310.42,
+  "sid": 163,
+  "location": 2,
+  "content": "杰夫如果被打掉",
+  "music": 0.0
+ },
+ {
+  "from": 310.42,
+  "to": 312.2,
+  "sid": 164,
+  "location": 2,
+  "content": "就是白给也补不上枪",
+  "music": 0.0
+ },
+ {
+  "from": 312.2,
+  "to": 313.74,
+  "sid": 165,
+  "location": 2,
+  "content": "这时候如果要打道具",
+  "music": 0.0
+ },
+ {
+  "from": 313.74,
+  "to": 315.46,
+  "sid": 166,
+  "location": 2,
+  "content": "也是给A大两个雷击剑",
+  "music": 0.0
+ },
+ {
+  "from": 315.46,
+  "to": 317.02,
+  "sid": 167,
+  "location": 2,
+  "content": "阻断对面进点节奏",
+  "music": 0.0
+ },
+ {
+  "from": 317.02,
+  "to": 319.7,
+  "sid": 168,
+  "location": 2,
+  "content": "要不就上去和杰夫一起钻研接",
+  "music": 0.0
+ },
+ {
+  "from": 319.7,
+  "to": 321.14,
+  "sid": 169,
+  "location": 2,
+  "content": "要么就和杰夫沟通",
+  "music": 0.0
+ },
+ {
+  "from": 321.14,
+  "to": 321.86,
+  "sid": 170,
+  "location": 2,
+  "content": "让他回来",
+  "music": 0.0
+ },
+ {
+  "from": 321.86,
+  "to": 324.06,
+  "sid": 171,
+  "location": 2,
+  "content": "如果外面过了好几秒钟都没动静",
+  "music": 0.0
+ },
+ {
+  "from": 324.06,
+  "to": 326.64,
+  "sid": 172,
+  "location": 2,
+  "content": "再找个安全的位置给小飞机拿信息",
+  "music": 0.0
+ },
+ {
+  "from": 326.64,
+  "to": 329.12,
+  "sid": 173,
+  "location": 2,
+  "content": "现在给的这个小飞机就纯浪费",
+  "music": 0.0
+ },
+ {
+  "from": 329.12,
+  "to": 330.04,
+  "sid": 174,
+  "location": 2,
+  "content": "飞机飞过去",
+  "music": 0.0
+ },
+ {
+  "from": 330.04,
+  "to": 331.56,
+  "sid": 175,
+  "location": 2,
+  "content": "欧盟被单摸的保安打掉",
+  "music": 0.0
+ },
+ {
+  "from": 331.56,
+  "to": 334.18,
+  "sid": 176,
+  "location": 2,
+  "content": "转头架小道B点维斯的强触发",
+  "music": 0.0
+ },
+ {
+  "from": 334.18,
+  "to": 336.8,
+  "sid": 177,
+  "location": 2,
+  "content": "意识到对面转点打B4人回防",
+  "music": 0.0
+ },
+ {
+  "from": 336.8,
+  "to": 337.56,
+  "sid": 178,
+  "location": 2,
+  "content": "在一分钟",
+  "music": 0.0
+ },
+ {
+  "from": 337.56,
+  "to": 339.96,
+  "sid": 179,
+  "location": 2,
+  "content": "这里就是所有队友都没有信息的时候",
+  "music": 0.0
+ },
+ {
+  "from": 339.96,
+  "to": 342.08,
+  "sid": 180,
+  "location": 2,
+  "content": "四个人的地图控制权小得可怜",
+  "music": 0.0
+ },
+ {
+  "from": 342.08,
+  "to": 344.34,
+  "sid": 181,
+  "location": 2,
+  "content": "如果开局没有浪费那个小飞机",
+  "music": 0.0
+ },
+ {
+  "from": 344.34,
+  "to": 345.9,
+  "sid": 182,
+  "location": 2,
+  "content": "去找小道的两个队友",
+  "music": 0.0
+ },
+ {
+  "from": 345.9,
+  "to": 349.3,
+  "sid": 183,
+  "location": 2,
+  "content": "给小飞机清小道和中路能获取大量的信息",
+  "music": 0.0
+ },
+ {
+  "from": 349.3,
+  "to": 351.36,
+  "sid": 184,
+  "location": 2,
+  "content": "能重新获得中路控制权",
+  "music": 0.0
+ },
+ {
+  "from": 351.36,
+  "to": 352.26,
+  "sid": 185,
+  "location": 2,
+  "content": "当下的情况",
+  "music": 0.0
+ },
+ {
+  "from": 352.26,
+  "to": 354.28,
+  "sid": 186,
+  "location": 2,
+  "content": "对面打B的可能性会更高",
+  "music": 0.0
+ },
+ {
+  "from": 354.28,
+  "to": 356.4,
+  "sid": 187,
+  "location": 2,
+  "content": "但是如果获得中路控制权",
+  "music": 0.0
+ },
+ {
+  "from": 356.4,
+  "to": 357.6,
+  "sid": 188,
+  "location": 2,
+  "content": "不论对面打哪里",
+  "music": 0.0
+ },
+ {
+  "from": 357.6,
+  "to": 359.1,
+  "sid": 189,
+  "location": 2,
+  "content": "我们都可以第一时间回防",
+  "music": 0.0
+ },
+ {
+  "from": 359.1,
+  "to": 361.64,
+  "sid": 190,
+  "location": 2,
+  "content": "后续队友在小道换掉一人保安",
+  "music": 0.0
+ },
+ {
+  "from": 361.64,
+  "to": 362.76,
+  "sid": 191,
+  "location": 2,
+  "content": "摸到家里被打掉",
+  "music": 0.0
+ },
+ {
+  "from": 362.76,
+  "to": 364.52,
+  "sid": 192,
+  "location": 2,
+  "content": "维斯被中路的猎枭打掉",
+  "music": 0.0
+ },
+ {
+  "from": 364.52,
+  "to": 365.8,
+  "sid": 193,
+  "location": 2,
+  "content": "这里再给探测箭",
+  "music": 0.0
+ },
+ {
+  "from": 365.8,
+  "to": 367.38,
+  "sid": 194,
+  "location": 2,
+  "content": "就是明显的不看小地图",
+  "music": 0.0
+ },
+ {
+  "from": 367.38,
+  "to": 369.46,
+  "sid": 195,
+  "location": 2,
+  "content": "这就是为了放道具而放道具",
+  "music": 0.0
+ },
+ {
+  "from": 369.46,
+  "to": 371.38,
+  "sid": 196,
+  "location": 2,
+  "content": "明明已经有了对面的位置信息",
+  "music": 0.0
+ },
+ {
+  "from": 371.38,
+  "to": 372.84,
+  "sid": 197,
+  "location": 2,
+  "content": "应该第一时间去找队友",
+  "music": 0.0
+ },
+ {
+  "from": 372.84,
+  "to": 374.74,
+  "sid": 198,
+  "location": 2,
+  "content": "结果不出意外地输掉这局",
+  "music": 0.0
+ },
+ {
+  "from": 374.74,
+  "to": 376.94,
+  "sid": 199,
+  "location": 2,
+  "content": "如果后面残局有探测箭",
+  "music": 0.0
+ },
+ {
+  "from": 376.94,
+  "to": 379.06,
+  "sid": 200,
+  "location": 2,
+  "content": "就不需要在前点浪费这么多时间",
+  "music": 0.0
+ },
+ {
+  "from": 379.06,
+  "to": 380.92,
+  "sid": 201,
+  "location": 2,
+  "content": "残局获胜的可能性会更高",
+  "music": 0.0
+ },
+ {
+  "from": 380.92,
+  "to": 383.18,
+  "sid": 202,
+  "location": 2,
+  "content": "我们在面对对面打默认的情况",
+  "music": 0.0
+ },
+ {
+  "from": 383.18,
+  "to": 385.92,
+  "sid": 203,
+  "location": 2,
+  "content": "先锋和哨位的技能会非常重要",
+  "music": 0.0
+ },
+ {
+  "from": 385.92,
+  "to": 388.28,
+  "sid": 204,
+  "location": 2,
+  "content": "要根据队友的站位和地图控制权",
+  "music": 0.0
+ },
+ {
+  "from": 388.28,
+  "to": 390.28,
+  "sid": 205,
+  "location": 2,
+  "content": "去决定把道具给到哪里",
+  "music": 0.0
+ },
+ {
+  "from": 390.28,
+  "to": 393.3,
+  "sid": 206,
+  "location": 2,
+  "content": "而不是很随意的就给明明自家有先锋位",
+  "music": 0.0
+ },
+ {
+  "from": 393.3,
+  "to": 394.7,
+  "sid": 207,
+  "location": 2,
+  "content": "却打得像无头苍蝇",
+  "music": 0.0
+ },
+ {
+  "from": 394.7,
+  "to": 396.92,
+  "sid": 208,
+  "location": 2,
+  "content": "还有的兄弟是另一种极端道具",
+  "music": 0.0
+ },
+ {
+  "from": 396.92,
+  "to": 398.92,
+  "sid": 209,
+  "location": 2,
+  "content": "捏在手上比自己的命还重要",
+  "music": 0.0
+ },
+ {
+  "from": 398.92,
+  "to": 401.12,
+  "sid": 210,
+  "location": 2,
+  "content": "就是不愿意给就喜欢干拉对枪",
+  "music": 0.0
+ },
+ {
+  "from": 401.12,
+  "to": 401.92,
+  "sid": 211,
+  "location": 2,
+  "content": "情愿自己死",
+  "music": 0.0
+ },
+ {
+  "from": 401.92,
+  "to": 403.36,
+  "sid": 212,
+  "location": 2,
+  "content": "也不愿意浪费道具啊",
+  "music": 0.0
+ },
+ {
+  "from": 403.36,
+  "to": 404.34,
+  "sid": 213,
+  "location": 2,
+  "content": "这也是不对的啊",
+  "music": 0.0
+ },
+ {
+  "from": 404.34,
+  "to": 405.78,
+  "sid": 214,
+  "location": 2,
+  "content": "我们接着说进攻方",
+  "music": 0.0
+ },
+ {
+  "from": 405.78,
+  "to": 407.56,
+  "sid": 215,
+  "location": 2,
+  "content": "大家看这个场景是否眼熟",
+  "music": 0.0
+ },
+ {
+  "from": 407.56,
+  "to": 411.28,
+  "sid": 216,
+  "location": 2,
+  "content": "开局你在后面射拉up干拉A大前点迎面而来",
+  "music": 0.0
+ },
+ {
+  "from": 411.28,
+  "to": 411.8,
+  "sid": 217,
+  "location": 2,
+  "content": "一个闪",
+  "music": 0.0
+ },
+ {
+  "from": 411.8,
+  "to": 412.94,
+  "sid": 218,
+  "location": 2,
+  "content": "脚下踩着一个火",
+  "music": 0.0
+ },
+ {
+  "from": 412.94,
+  "to": 414.08,
+  "sid": 219,
+  "location": 2,
+  "content": "还没近点就掉了",
+  "music": 0.0
+ },
+ {
+  "from": 414.08,
+  "to": 417.03,
+  "sid": 220,
+  "location": 2,
+  "content": "俩对面还拿到你们五个人都在A大的信息",
+  "music": 0.0
+ },
+ {
+  "from": 417.03,
+  "to": 417.79,
+  "sid": 221,
+  "location": 2,
+  "content": "赚麻了",
+  "music": 0.0
+ },
+ {
+  "from": 417.79,
+  "to": 419.48,
+  "sid": 222,
+  "location": 2,
+  "content": "这不仅仅是先锋位的问题",
+  "music": 0.0
+ },
+ {
+  "from": 419.48,
+  "to": 422.56,
+  "sid": 223,
+  "location": 2,
+  "content": "基本黄白金甚至到钻石都意识不到这个问题",
+  "music": 0.0
+ },
+ {
+  "from": 422.56,
+  "to": 423.86,
+  "sid": 224,
+  "location": 2,
+  "content": "如何处理前点",
+  "music": 0.0
+ },
+ {
+  "from": 423.86,
+  "to": 427.28,
+  "sid": 225,
+  "location": 2,
+  "content": "这个问题是在意识上最能体现段位差距的",
+  "music": 0.0
+ },
+ {
+  "from": 427.28,
+  "to": 428.02,
+  "sid": 226,
+  "location": 2,
+  "content": "超凡神话",
+  "music": 0.0
+ },
+ {
+  "from": 428.02,
+  "to": 430.34,
+  "sid": 227,
+  "location": 2,
+  "content": "炸鱼最喜欢要个A大单向烟结风",
+  "music": 0.0
+ },
+ {
+  "from": 430.34,
+  "to": 431.68,
+  "sid": 228,
+  "location": 2,
+  "content": "瑞娜过来狂收人头",
+  "music": 0.0
+ },
+ {
+  "from": 431.68,
+  "to": 433.96,
+  "sid": 229,
+  "location": 2,
+  "content": "或者拿个火男耍给闪收人头",
+  "music": 0.0
+ },
+ {
+  "from": 433.96,
+  "to": 436.0,
+  "sid": 230,
+  "location": 2,
+  "content": "因为这个段位根本不知道",
+  "music": 0.0
+ },
+ {
+  "from": 436.0,
+  "to": 438.0,
+  "sid": 231,
+  "location": 2,
+  "content": "在前点给道具全是干拉",
+  "music": 0.0
+ },
+ {
+  "from": 438.0,
+  "to": 439.72,
+  "sid": 232,
+  "location": 2,
+  "content": "为什么要在这里说这个问题呢",
+  "music": 0.0
+ },
+ {
+  "from": 439.72,
+  "to": 442.52,
+  "sid": 233,
+  "location": 2,
+  "content": "先锋位在进攻方给道具的逻辑",
+  "music": 0.0
+ },
+ {
+  "from": 442.52,
+  "to": 444.22,
+  "sid": 234,
+  "location": 2,
+  "content": "除了和队友沟通之外",
+  "music": 0.0
+ },
+ {
+  "from": 444.22,
+  "to": 446.66,
+  "sid": 235,
+  "location": 2,
+  "content": "最重要的是有逐步推进的思路",
+  "music": 0.0
+ },
+ {
+  "from": 446.66,
+  "to": 448.82,
+  "sid": 236,
+  "location": 2,
+  "content": "你要先想着怎么把前点占了",
+  "music": 0.0
+ },
+ {
+  "from": 448.82,
+  "to": 449.86,
+  "sid": 237,
+  "location": 2,
+  "content": "再想怎么近点",
+  "music": 0.0
+ },
+ {
+  "from": 449.86,
+  "to": 451.02,
+  "sid": 238,
+  "location": 2,
+  "content": "再想怎么守包",
+  "music": 0.0
+ },
+ {
+  "from": 451.02,
+  "to": 452.78,
+  "sid": 239,
+  "location": 2,
+  "content": "如果第一步都无法完成",
+  "music": 0.0
+ },
+ {
+  "from": 452.78,
+  "to": 454.98,
+  "sid": 240,
+  "location": 2,
+  "content": "你学再多的line up又有什么用呢",
+  "music": 0.0
+ },
+ {
+  "from": 454.98,
+  "to": 456.98,
+  "sid": 241,
+  "location": 2,
+  "content": "探测出来包点防守人的站位",
+  "music": 0.0
+ },
+ {
+  "from": 456.98,
+  "to": 457.94,
+  "sid": 242,
+  "location": 2,
+  "content": "队友都死完了",
+  "music": 0.0
+ },
+ {
+  "from": 457.94,
+  "to": 460.3,
+  "sid": 243,
+  "location": 2,
+  "content": "那这个道具不是就成了无效道具",
+  "music": 0.0
+ },
+ {
+  "from": 460.3,
+  "to": 463.72,
+  "sid": 244,
+  "location": 2,
+  "content": "只要看到对面有火男或者A大挂了单向烟",
+  "music": 0.0
+ },
+ {
+  "from": 463.72,
+  "to": 465.54,
+  "sid": 245,
+  "location": 2,
+  "content": "我们就要给到相应的尊重",
+  "music": 0.0
+ },
+ {
+  "from": 465.54,
+  "to": 467.48,
+  "sid": 246,
+  "location": 2,
+  "content": "猎枭给小飞机拿位置信息",
+  "music": 0.0
+ },
+ {
+  "from": 467.48,
+  "to": 469.42,
+  "sid": 247,
+  "location": 2,
+  "content": "欧盟给黑杰伦直接上去抓",
+  "music": 0.0
+ },
+ {
+  "from": 469.42,
+  "to": 470.94,
+  "sid": 248,
+  "location": 2,
+  "content": "虽然我们给了很多道具",
+  "music": 0.0
+ },
+ {
+  "from": 470.94,
+  "to": 472.28,
+  "sid": 249,
+  "location": 2,
+  "content": "但是也拿到了首杀",
+  "music": 0.0
+ },
+ {
+  "from": 472.28,
+  "to": 474.28,
+  "sid": 250,
+  "location": 2,
+  "content": "近点难度降低了一大半",
+  "music": 0.0
+ },
+ {
+  "from": 474.28,
+  "to": 476.96,
+  "sid": 251,
+  "location": 2,
+  "content": "不要老想着把道具都留给进包点",
+  "music": 0.0
+ },
+ {
+  "from": 476.96,
+  "to": 479.68,
+  "sid": 252,
+  "location": 2,
+  "content": "也不要因为A大占了个火男被套路了",
+  "music": 0.0
+ },
+ {
+  "from": 479.68,
+  "to": 481.5,
+  "sid": 253,
+  "location": 2,
+  "content": "两回合就再也不看A大了",
+  "music": 0.0
+ },
+ {
+  "from": 481.5,
+  "to": 483.28,
+  "sid": 254,
+  "location": 2,
+  "content": "仿佛这张图没有A大一样",
+  "music": 0.0
+ },
+ {
+  "from": 483.28,
+  "to": 484.26,
+  "sid": 255,
+  "location": 2,
+  "content": "类似的点位",
+  "music": 0.0
+ },
+ {
+  "from": 484.26,
+  "to": 486.56,
+  "sid": 256,
+  "location": 2,
+  "content": "还有霓虹丁的A大火男套餐",
+  "music": 0.0
+ },
+ {
+  "from": 486.56,
+  "to": 488.62,
+  "sid": 257,
+  "location": 2,
+  "content": "深海明珠的A大火男套餐",
+  "music": 0.0
+ },
+ {
+  "from": 488.62,
+  "to": 490.84,
+  "sid": 258,
+  "location": 2,
+  "content": "在进攻方先锋位的第二个问题",
+  "music": 0.0
+ },
+ {
+  "from": 490.84,
+  "to": 494.24,
+  "sid": 259,
+  "location": 2,
+  "content": "太过执着于蓝牙或每次都给同样的蓝啊",
+  "music": 0.0
+ },
+ {
+  "from": 494.24,
+  "to": 496.72,
+  "sid": 260,
+  "location": 2,
+  "content": "探测键的落点永远都是一样的",
+  "music": 0.0
+ },
+ {
+  "from": 496.72,
+  "to": 500.54,
+  "sid": 261,
+  "location": 2,
+  "content": "POV里这回合就是A大前点已经推进去了",
+  "music": 0.0
+ },
+ {
+  "from": 500.54,
+  "to": 502.34,
+  "sid": 262,
+  "location": 2,
+  "content": "保安的半线也点了",
+  "music": 0.0
+ },
+ {
+  "from": 502.34,
+  "to": 505.3,
+  "sid": 263,
+  "location": 2,
+  "content": "猎枭竟然还要回A大找男up秒点",
+  "music": 0.0
+ },
+ {
+  "from": 505.3,
+  "to": 507.38,
+  "sid": 264,
+  "location": 2,
+  "content": "这个b line up就非放不可",
+  "music": 0.0
+ },
+ {
+  "from": 507.38,
+  "to": 508.86,
+  "sid": 265,
+  "location": 2,
+  "content": "你随便往墙上打个键",
+  "music": 0.0
+ },
+ {
+  "from": 508.86,
+  "to": 510.12,
+  "sid": 266,
+  "location": 2,
+  "content": "他就探索不出人了嘛",
+  "music": 0.0
+ },
+ {
+  "from": 510.12,
+  "to": 512.58,
+  "sid": 267,
+  "location": 2,
+  "content": "这个line up不还是打到这个墙上吗",
+  "music": 0.0
+ },
+ {
+  "from": 512.58,
+  "to": 513.34,
+  "sid": 268,
+  "location": 2,
+  "content": "随便打个剑",
+  "music": 0.0
+ },
+ {
+  "from": 513.34,
+  "to": 514.38,
+  "sid": 269,
+  "location": 2,
+  "content": "近点给队友补枪",
+  "music": 0.0
+ },
+ {
+  "from": 514.38,
+  "to": 515.2,
+  "sid": 270,
+  "location": 2,
+  "content": "他不香吗",
+  "music": 0.0
+ },
+ {
+  "from": 515.2,
+  "to": 516.78,
+  "sid": 271,
+  "location": 2,
+  "content": "我们给道具的逻辑啊",
+  "music": 0.0
+ },
+ {
+  "from": 516.78,
+  "to": 518.56,
+  "sid": 272,
+  "location": 2,
+  "content": "及时性永远是排第一位的",
+  "music": 0.0
+ },
+ {
+  "from": 518.56,
+  "to": 520.36,
+  "sid": 273,
+  "location": 2,
+  "content": "就是要在队友要近点的时候",
+  "music": 0.0
+ },
+ {
+  "from": 520.36,
+  "to": 522.33,
+  "sid": 274,
+  "location": 2,
+  "content": "你需要第一时间给到队友信息",
+  "music": 0.0
+ },
+ {
+  "from": 522.33,
+  "to": 524.55,
+  "sid": 275,
+  "location": 2,
+  "content": "其次就是要在给完道具之后",
+  "music": 0.0
+ },
+ {
+  "from": 524.55,
+  "to": 526.27,
+  "sid": 276,
+  "location": 2,
+  "content": "能第一时间给队友补枪",
+  "music": 0.0
+ },
+ {
+  "from": 526.27,
+  "to": 528.53,
+  "sid": 277,
+  "location": 2,
+  "content": "补枪的重要性不需要我再赘述了吧",
+  "music": 0.0
+ },
+ {
+  "from": 528.53,
+  "to": 530.14,
+  "sid": 278,
+  "location": 2,
+  "content": "不要觉得啊我是是清风位",
+  "music": 0.0
+ },
+ {
+  "from": 530.14,
+  "to": 531.52,
+  "sid": 279,
+  "location": 2,
+  "content": "我把道具打完就行了",
+  "music": 0.0
+ },
+ {
+  "from": 531.52,
+  "to": 533.24,
+  "sid": 280,
+  "location": 2,
+  "content": "近点补枪是一突二突的事",
+  "music": 0.0
+ },
+ {
+  "from": 533.24,
+  "to": 535.06,
+  "sid": 281,
+  "location": 2,
+  "content": "你的道具给完烟位",
+  "music": 0.0
+ },
+ {
+  "from": 535.06,
+  "to": 535.72,
+  "sid": 282,
+  "location": 2,
+  "content": "给完烟",
+  "music": 0.0
+ },
+ {
+  "from": 535.72,
+  "to": 536.8,
+  "sid": 283,
+  "location": 2,
+  "content": "那都是二秃啊",
+  "music": 0.0
+ },
+ {
+  "from": 536.8,
+  "to": 540.12,
+  "sid": 284,
+  "location": 2,
+  "content": "那2P是需要学有很多好的点位确实很有用",
+  "music": 0.0
+ },
+ {
+  "from": 540.12,
+  "to": 542.08,
+  "sid": 285,
+  "location": 2,
+  "content": "但是他只是给到辅助作用",
+  "music": 0.0
+ },
+ {
+  "from": 542.08,
+  "to": 543.76,
+  "sid": 286,
+  "location": 2,
+  "content": "要先有好的游戏思路",
+  "music": 0.0
+ },
+ {
+  "from": 543.76,
+  "to": 546.52,
+  "sid": 287,
+  "location": 2,
+  "content": "再配合好的line up才能发挥它的作用",
+  "music": 0.0
+ },
+ {
+  "from": 546.52,
+  "to": 549.5,
+  "sid": 288,
+  "location": 2,
+  "content": "如果每次都给同一个键落点被对面抓到",
+  "music": 0.0
+ },
+ {
+  "from": 549.5,
+  "to": 551.02,
+  "sid": 289,
+  "location": 2,
+  "content": "那也就成了无效道具",
+  "music": 0.0
+ },
+ {
+  "from": 551.02,
+  "to": 552.44,
+  "sid": 290,
+  "location": 2,
+  "content": "再说第三个问题啊",
+  "music": 0.0
+ },
+ {
+  "from": 552.44,
+  "to": 554.08,
+  "sid": 291,
+  "location": 2,
+  "content": "打默认给无效道具",
+  "music": 0.0
+ },
+ {
+  "from": 554.08,
+  "to": 555.14,
+  "sid": 292,
+  "location": 2,
+  "content": "和防守方一样",
+  "music": 0.0
+ },
+ {
+  "from": 555.14,
+  "to": 557.78,
+  "sid": 293,
+  "location": 2,
+  "content": "玩猎枭开局不把探测箭打出去",
+  "music": 0.0
+ },
+ {
+  "from": 557.78,
+  "to": 558.44,
+  "sid": 294,
+  "location": 2,
+  "content": "心难受",
+  "music": 0.0
+ },
+ {
+  "from": 558.44,
+  "to": 560.98,
+  "sid": 295,
+  "location": 2,
+  "content": "喜欢早用早CD对面防守站位",
+  "music": 0.0
+ },
+ {
+  "from": 560.98,
+  "to": 563.58,
+  "sid": 296,
+  "location": 2,
+  "content": "哪怕打到神话赋能也A1个小道",
+  "music": 0.0
+ },
+ {
+  "from": 563.58,
+  "to": 564.74,
+  "sid": 297,
+  "location": 2,
+  "content": "一个中一个B1个",
+  "music": 0.0
+ },
+ {
+  "from": 564.74,
+  "to": 565.9,
+  "sid": 298,
+  "location": 2,
+  "content": "剩下一个不知道在哪",
+  "music": 0.0
+ },
+ {
+  "from": 565.9,
+  "to": 568.66,
+  "sid": 299,
+  "location": 2,
+  "content": "你开局给个中路剑或者市场剑有什么意义呢",
+  "music": 0.0
+ },
+ {
+  "from": 568.66,
+  "to": 570.1,
+  "sid": 300,
+  "location": 2,
+  "content": "又没有队友去抓他",
+  "music": 0.0
+ },
+ {
+  "from": 570.1,
+  "to": 570.78,
+  "sid": 301,
+  "location": 2,
+  "content": "你离那么远",
+  "music": 0.0
+ },
+ {
+  "from": 570.78,
+  "to": 571.7,
+  "sid": 302,
+  "location": 2,
+  "content": "也不可能去抓",
+  "music": 0.0
+ },
+ {
+  "from": 571.7,
+  "to": 572.46,
+  "sid": 303,
+  "location": 2,
+  "content": "不打这个键",
+  "music": 0.0
+ },
+ {
+  "from": 572.46,
+  "to": 574.06,
+  "sid": 304,
+  "location": 2,
+  "content": "难道就不知道中路有人了吗",
+  "music": 0.0
+ },
+ {
+  "from": 574.06,
+  "to": 575.34,
+  "sid": 305,
+  "location": 2,
+  "content": "如果你不从中路走",
+  "music": 0.0
+ },
+ {
+  "from": 575.34,
+  "to": 577.78,
+  "sid": 306,
+  "location": 2,
+  "content": "他具体在中路哪个位置和你有关系吗",
+  "music": 0.0
+ },
+ {
+  "from": 577.78,
+  "to": 579.42,
+  "sid": 307,
+  "location": 2,
+  "content": "如果有队友要去排点",
+  "music": 0.0
+ },
+ {
+  "from": 579.42,
+  "to": 580.62,
+  "sid": 308,
+  "location": 2,
+  "content": "你给个剑拿信息",
+  "music": 0.0
+ },
+ {
+  "from": 580.62,
+  "to": 581.54,
+  "sid": 309,
+  "location": 2,
+  "content": "让队友去抓",
+  "music": 0.0
+ },
+ {
+  "from": 581.54,
+  "to": 582.94,
+  "sid": 310,
+  "location": 2,
+  "content": "哪怕没探测到人",
+  "music": 0.0
+ },
+ {
+  "from": 582.94,
+  "to": 584.86,
+  "sid": 311,
+  "location": 2,
+  "content": "队友也可以少排很多的点",
+  "music": 0.0
+ },
+ {
+  "from": 584.86,
+  "to": 586.42,
+  "sid": 312,
+  "location": 2,
+  "content": "这个剑呢就是有意义的",
+  "music": 0.0
+ },
+ {
+  "from": 586.42,
+  "to": 588.88,
+  "sid": 313,
+  "location": 2,
+  "content": "这期视频啊都在说信息的先锋位",
+  "music": 0.0
+ },
+ {
+  "from": 588.88,
+  "to": 590.04,
+  "sid": 314,
+  "location": 2,
+  "content": "主要是个人觉得",
+  "music": 0.0
+ },
+ {
+  "from": 590.04,
+  "to": 592.64,
+  "sid": 315,
+  "location": 2,
+  "content": "信息位对玩家的整体思路要求更高",
+  "music": 0.0
+ },
+ {
+  "from": 592.64,
+  "to": 595.24,
+  "sid": 316,
+  "location": 2,
+  "content": "也需要有好的信息收集和判断能力",
+  "music": 0.0
+ },
+ {
+  "from": 595.24,
+  "to": 596.62,
+  "sid": 317,
+  "location": 2,
+  "content": "因为篇幅的原因啊",
+  "music": 0.0
+ },
+ {
+  "from": 596.62,
+  "to": 598.42,
+  "sid": 318,
+  "location": 2,
+  "content": "道具位只能放在下个视频",
+  "music": 0.0
+ },
+ {
+  "from": 598.42,
+  "to": 599.42,
+  "sid": 319,
+  "location": 2,
+  "content": "点赞过2000",
+  "music": 0.0
+ },
+ {
+  "from": 599.42,
+  "to": 600.7,
+  "sid": 320,
+  "location": 2,
+  "content": "马上爆肝道具位",
+  "music": 0.0
+ },
+ {
+  "from": 600.7,
+  "to": 601.7,
+  "sid": 321,
+  "location": 2,
+  "content": "最后说点废话",
+  "music": 0.0
+ },
+ {
+  "from": 601.7,
+  "to": 603.76,
+  "sid": 322,
+  "location": 2,
+  "content": "我在之前做我稍微弹幕的视频",
+  "music": 0.0
+ },
+ {
+  "from": 603.76,
+  "to": 604.92,
+  "sid": 323,
+  "location": 2,
+  "content": "有评论和弹幕说啊",
+  "music": 0.0
+ },
+ {
+  "from": 604.92,
+  "to": 606.94,
+  "sid": 324,
+  "location": 2,
+  "content": "我开局十秒钟就只剩我一个人",
+  "music": 0.0
+ },
+ {
+  "from": 606.94,
+  "to": 607.84,
+  "sid": 325,
+  "location": 2,
+  "content": "根本没法摸",
+  "music": 0.0
+ },
+ {
+  "from": 607.84,
+  "to": 609.66,
+  "sid": 326,
+  "location": 2,
+  "content": "在隔断烟的这视频里呢",
+  "music": 0.0
+ },
+ {
+  "from": 609.66,
+  "to": 611.06,
+  "sid": 327,
+  "location": 2,
+  "content": "又说我给了隔断烟",
+  "music": 0.0
+ },
+ {
+  "from": 611.06,
+  "to": 611.94,
+  "sid": 328,
+  "location": 2,
+  "content": "队友就要骂我",
+  "music": 0.0
+ },
+ {
+  "from": 611.94,
+  "to": 612.56,
+  "sid": 329,
+  "location": 2,
+  "content": "这什么烟",
+  "music": 0.0
+ },
+ {
+  "from": 612.56,
+  "to": 613.88,
+  "sid": 330,
+  "location": 2,
+  "content": "我烟稍微慢一点",
+  "music": 0.0
+ },
+ {
+  "from": 613.88,
+  "to": 615.68,
+  "sid": 331,
+  "location": 2,
+  "content": "队友要骂我盲猜一手啊",
+  "music": 0.0
+ },
+ {
+  "from": 615.68,
+  "to": 617.04,
+  "sid": 332,
+  "location": 2,
+  "content": "这期视频肯定会有人说",
+  "music": 0.0
+ },
+ {
+  "from": 617.04,
+  "to": 618.92,
+  "sid": 333,
+  "location": 2,
+  "content": "我道具还没给一突就死了",
+  "music": 0.0
+ },
+ {
+  "from": 618.92,
+  "to": 620.4,
+  "sid": 334,
+  "location": 2,
+  "content": "或者我道具给完一突",
+  "music": 0.0
+ },
+ {
+  "from": 620.4,
+  "to": 621.56,
+  "sid": 335,
+  "location": 2,
+  "content": "诺在外面不敢进",
+  "music": 0.0
+ },
+ {
+  "from": 621.56,
+  "to": 623.1,
+  "sid": 336,
+  "location": 2,
+  "content": "你们真该凑在一块打一局",
+  "music": 0.0
+ },
+ {
+  "from": 623.1,
+  "to": 624.82,
+  "sid": 337,
+  "location": 2,
+  "content": "我很想知道到底是谁的问题",
+  "music": 0.0
+ },
+ {
+  "from": 624.82,
+  "to": 627.56,
+  "sid": 338,
+  "location": 2,
+  "content": "我相信以上的情况都是小概率事件",
+  "music": 0.0
+ },
+ {
+  "from": 627.56,
+  "to": 630.28,
+  "sid": 339,
+  "location": 2,
+  "content": "我不信你打几百个小时都是这种逆天队友",
+  "music": 0.0
+ },
+ {
+  "from": 630.28,
+  "to": 631.76,
+  "sid": 340,
+  "location": 2,
+  "content": "我不相信你就没躺赢过",
+  "music": 0.0
+ },
+ {
+  "from": 631.76,
+  "to": 633.94,
+  "sid": 341,
+  "location": 2,
+  "content": "我更不相信你整局都没犯过错",
+  "music": 0.0
+ },
+ {
+  "from": 633.94,
+  "to": 636.36,
+  "sid": 342,
+  "location": 2,
+  "content": "说这些只想让大家多找找自己的问题",
+  "music": 0.0
+ },
+ {
+  "from": 636.36,
+  "to": 637.56,
+  "sid": 343,
+  "location": 2,
+  "content": "把自己的事情做好",
+  "music": 0.0
+ },
+ {
+  "from": 637.56,
+  "to": 639.22,
+  "sid": 344,
+  "location": 2,
+  "content": "不要老是去纠结队友的问题",
+  "music": 0.0
+ },
+ {
+  "from": 639.22,
+  "to": 641.14,
+  "sid": 345,
+  "location": 2,
+  "content": "只要每个人把自己的事情做好",
+  "music": 0.0
+ },
+ {
+  "from": 641.14,
+  "to": 642.8,
+  "sid": 346,
+  "location": 2,
+  "content": "这个游戏想赢就很简单",
+  "music": 0.0
+ },
+ {
+  "from": 642.8,
+  "to": 644.96,
+  "sid": 347,
+  "location": 2,
+  "content": "虽然偶尔会有炸鱼和逆天队友",
+  "music": 0.0
+ },
+ {
+  "from": 644.96,
+  "to": 647.08,
+  "sid": 348,
+  "location": 2,
+  "content": "但是只要你的枪法和思路是在线的",
+  "music": 0.0
+ },
+ {
+  "from": 647.08,
+  "to": 648.4,
+  "sid": 349,
+  "location": 2,
+  "content": "肯定是稳定上分的",
+  "music": 0.0
+ },
+ {
+  "from": 648.4,
+  "to": 650.32,
+  "sid": 350,
+  "location": 2,
+  "content": "要不那些代练的都别吃饭了",
+  "music": 0.0
+ },
+ {
+  "from": 650.32,
+  "to": 652.24,
+  "sid": 351,
+  "location": 2,
+  "content": "与其花时间纠结队友的问题",
+  "music": 0.0
+ },
+ {
+  "from": 652.24,
+  "to": 654.98,
+  "sid": 352,
+  "location": 2,
+  "content": "不如用这时间多想想自己的道具思路",
+  "music": 0.0
+ },
+ {
+  "from": 654.98,
+  "to": 655.86,
+  "sid": 353,
+  "location": 2,
+  "content": "对枪站位",
+  "music": 0.0
+ },
+ {
+  "from": 655.86,
+  "to": 656.68,
+  "sid": 354,
+  "location": 2,
+  "content": "最后啊",
+  "music": 0.0
+ },
+ {
+  "from": 656.68,
+  "to": 658.16,
+  "sid": 355,
+  "location": 2,
+  "content": "这耳机真的挺好用的",
+  "music": 0.0
+ },
+ {
+  "from": 658.16,
+  "to": 658.48,
+  "sid": 356,
+  "location": 2,
+  "content": "好了",
+  "music": 0.0
+ },
+ {
+  "from": 658.48,
+  "to": 659.76,
+  "sid": 357,
+  "location": 2,
+  "content": "这期视频就到这里了",
+  "music": 0.0
+ },
+ {
+  "from": 659.76,
+  "to": 661.4,
+  "sid": 358,
+  "location": 2,
+  "content": "大家不要忘记一键三连哦",
+  "music": 0.0
+ },
+ {
+  "from": 661.4,
+  "to": 662.44,
+  "sid": 359,
+  "location": 2,
+  "content": "我们下次再见",
+  "music": 0.0
+ }
+]

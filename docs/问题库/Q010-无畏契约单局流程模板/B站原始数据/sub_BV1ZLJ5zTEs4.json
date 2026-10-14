@@ -1,0 +1,3498 @@
+[
+ {
+  "from": 0.04,
+  "to": 2.37,
+  "sid": 1,
+  "location": 2,
+  "content": "这期要讲的是对局中的临场决策",
+  "music": 0.0
+ },
+ {
+  "from": 2.37,
+  "to": 4.69,
+  "sid": 2,
+  "location": 2,
+  "content": "对局中只要你的每个决策做的够好",
+  "music": 0.0
+ },
+ {
+  "from": 4.69,
+  "to": 6.29,
+  "sid": 3,
+  "location": 2,
+  "content": "你的回合胜率就越高",
+  "music": 0.0
+ },
+ {
+  "from": 6.29,
+  "to": 8.53,
+  "sid": 4,
+  "location": 2,
+  "content": "你做的每个决策只要越快越正确",
+  "music": 0.0
+ },
+ {
+  "from": 8.53,
+  "to": 10.24,
+  "sid": 5,
+  "location": 2,
+  "content": "你的对枪胜率就会越高",
+  "music": 0.0
+ },
+ {
+  "from": 10.24,
+  "to": 13.46,
+  "sid": 6,
+  "location": 2,
+  "content": "还有另一种说法叫做抓胎命好了",
+  "music": 0.0
+ },
+ {
+  "from": 13.46,
+  "to": 14.12,
+  "sid": 7,
+  "location": 2,
+  "content": "废话不说",
+  "music": 0.0
+ },
+ {
+  "from": 14.12,
+  "to": 15.02,
+  "sid": 8,
+  "location": 2,
+  "content": "直接开始讲解",
+  "music": 0.0
+ },
+ {
+  "from": 15.02,
+  "to": 16.86,
+  "sid": 9,
+  "location": 2,
+  "content": "就他一个就他一个",
+  "music": 0.0
+ },
+ {
+  "from": 19.82,
+  "to": 21.38,
+  "sid": 10,
+  "location": 2,
+  "content": "爆能器已部署",
+  "music": 0.0
+ },
+ {
+  "from": 21.38,
+  "to": 23.58,
+  "sid": 11,
+  "location": 2,
+  "content": "还剩一名敌人干掉三个",
+  "music": 0.0
+ },
+ {
+  "from": 23.58,
+  "to": 25.58,
+  "sid": 12,
+  "location": 2,
+  "content": "为什么这波我能顶着三个人的包点",
+  "music": 0.0
+ },
+ {
+  "from": 25.58,
+  "to": 27.02,
+  "sid": 13,
+  "location": 2,
+  "content": "加上出烟劣势的情况下",
+  "music": 0.0
+ },
+ {
+  "from": 27.02,
+  "to": 28.08,
+  "sid": 14,
+  "location": 2,
+  "content": "还能完成三杀",
+  "music": 0.0
+ },
+ {
+  "from": 28.08,
+  "to": 29.98,
+  "sid": 15,
+  "location": 2,
+  "content": "接下来可能有观众要说了",
+  "music": 0.0
+ },
+ {
+  "from": 29.98,
+  "to": 31.689,
+  "sid": 16,
+  "location": 2,
+  "content": "我有这枪法我也行",
+  "music": 0.0
+ },
+ {
+  "from": 31.689,
+  "to": 32.849,
+  "sid": 17,
+  "location": 2,
+  "content": "但果真如此吗",
+  "music": 0.0
+ },
+ {
+  "from": 32.849,
+  "to": 33.569,
+  "sid": 18,
+  "location": 2,
+  "content": "除了枪法外",
+  "music": 0.0
+ },
+ {
+  "from": 33.569,
+  "to": 34.969,
+  "sid": 19,
+  "location": 2,
+  "content": "我们还忽视了什么",
+  "music": 0.0
+ },
+ {
+  "from": 34.969,
+  "to": 36.68,
+  "sid": 20,
+  "location": 2,
+  "content": "仔细听呀",
+  "music": 0.0
+ },
+ {
+  "from": 36.68,
+  "to": 39.0,
+  "sid": 21,
+  "location": 2,
+  "content": "我们用外左手一个",
+  "music": 0.0
+ },
+ {
+  "from": 39.0,
+  "to": 39.86,
+  "sid": 22,
+  "location": 2,
+  "content": "右手两个",
+  "music": 0.0
+ },
+ {
+  "from": 39.86,
+  "to": 42.34,
+  "sid": 23,
+  "location": 2,
+  "content": "在已知包点所有人大致站位的情况下",
+  "music": 0.0
+ },
+ {
+  "from": 42.34,
+  "to": 43.32,
+  "sid": 24,
+  "location": 2,
+  "content": "我们应当先解决",
+  "music": 0.0
+ },
+ {
+  "from": 43.32,
+  "to": 45.7,
+  "sid": 25,
+  "location": 2,
+  "content": "对我们威胁最大的那个右手的两个人",
+  "music": 0.0
+ },
+ {
+  "from": 45.7,
+  "to": 47.23,
+  "sid": 26,
+  "location": 2,
+  "content": "大概率是架警家的",
+  "music": 0.0
+ },
+ {
+  "from": 47.23,
+  "to": 49.27,
+  "sid": 27,
+  "location": 2,
+  "content": "所以对我们威胁最大的显而易见",
+  "music": 0.0
+ },
+ {
+  "from": 49.27,
+  "to": 50.89,
+  "sid": 28,
+  "location": 2,
+  "content": "肯定是我们着手的敌人了",
+  "music": 0.0
+ },
+ {
+  "from": 50.89,
+  "to": 53.11,
+  "sid": 29,
+  "location": 2,
+  "content": "因为他是可以看到我们车库烟的",
+  "music": 0.0
+ },
+ {
+  "from": 53.11,
+  "to": 54.11,
+  "sid": 30,
+  "location": 2,
+  "content": "所以我们出烟",
+  "music": 0.0
+ },
+ {
+  "from": 54.11,
+  "to": 56.63,
+  "sid": 31,
+  "location": 2,
+  "content": "第一时间最应该解决的是我们左手的敌人",
+  "music": 0.0
+ },
+ {
+  "from": 56.63,
+  "to": 59.92,
+  "sid": 32,
+  "location": 2,
+  "content": "我爆能器已部署",
+  "music": 0.0
+ },
+ {
+  "from": 59.92,
+  "to": 61.18,
+  "sid": 33,
+  "location": 2,
+  "content": "还剩一名敌人",
+  "music": 0.0
+ },
+ {
+  "from": 61.18,
+  "to": 62.0,
+  "sid": 34,
+  "location": 2,
+  "content": "干掉三个",
+  "music": 0.0
+ },
+ {
+  "from": 62.0,
+  "to": 63.82,
+  "sid": 35,
+  "location": 2,
+  "content": "我能在短时间内收集信息",
+  "music": 0.0
+ },
+ {
+  "from": 63.82,
+  "to": 66.08,
+  "sid": 36,
+  "location": 2,
+  "content": "然后迅速的做出当前问题的解法",
+  "music": 0.0
+ },
+ {
+  "from": 66.08,
+  "to": 67.48,
+  "sid": 37,
+  "location": 2,
+  "content": "这就是一个好的决策",
+  "music": 0.0
+ },
+ {
+  "from": 68.52,
+  "to": 69.68,
+  "sid": 38,
+  "location": 2,
+  "content": "来到下一场",
+  "music": 0.0
+ },
+ {
+  "from": 69.68,
+  "to": 71.76,
+  "sid": 39,
+  "location": 2,
+  "content": "这次是一个残局",
+  "music": 0.0
+ },
+ {
+  "from": 72.16,
+  "to": 72.8,
+  "sid": 40,
+  "location": 2,
+  "content": "要给呀",
+  "music": 0.0
+ },
+ {
+  "from": 74.84,
+  "to": 75.68,
+  "sid": 41,
+  "location": 2,
+  "content": "因为我够神秘",
+  "music": 0.0
+ },
+ {
+  "from": 75.68,
+  "to": 77.62,
+  "sid": 42,
+  "location": 2,
+  "content": "敌方三人并不知道我的信息",
+  "music": 0.0
+ },
+ {
+  "from": 77.62,
+  "to": 78.42,
+  "sid": 43,
+  "location": 2,
+  "content": "场上残局",
+  "music": 0.0
+ },
+ {
+  "from": 78.42,
+  "to": 79.58,
+  "sid": 44,
+  "location": 2,
+  "content": "我方人数劣势",
+  "music": 0.0
+ },
+ {
+  "from": 79.58,
+  "to": 80.42,
+  "sid": 45,
+  "location": 2,
+  "content": "面对残局",
+  "music": 0.0
+ },
+ {
+  "from": 80.42,
+  "to": 81.42,
+  "sid": 46,
+  "location": 2,
+  "content": "我们越是人数劣势",
+  "music": 0.0
+ },
+ {
+  "from": 81.42,
+  "to": 83.1,
+  "sid": 47,
+  "location": 2,
+  "content": "越的寻找机会扳回劣势",
+  "music": 0.0
+ },
+ {
+  "from": 83.1,
+  "to": 84.18,
+  "sid": 48,
+  "location": 2,
+  "content": "当我看到这颗烟",
+  "music": 0.0
+ },
+ {
+  "from": 84.18,
+  "to": 86.18,
+  "sid": 49,
+  "location": 2,
+  "content": "我就知道我的机会来了",
+  "music": 0.0
+ },
+ {
+  "from": 88.76,
+  "to": 89.58,
+  "sid": 50,
+  "location": 2,
+  "content": "等等",
+  "music": 0.0
+ },
+ {
+  "from": 89.58,
+  "to": 92.32,
+  "sid": 51,
+  "location": 2,
+  "content": "你是不是以为我会利用架烟优势偷掉几个人",
+  "music": 0.0
+ },
+ {
+  "from": 92.32,
+  "to": 93.63,
+  "sid": 52,
+  "location": 2,
+  "content": "搬回人数列的事",
+  "music": 0.0
+ },
+ {
+  "from": 93.63,
+  "to": 95.63,
+  "sid": 53,
+  "location": 2,
+  "content": "如果你仅仅只想到了这里",
+  "music": 0.0
+ },
+ {
+  "from": 95.63,
+  "to": 97.43,
+  "sid": 54,
+  "location": 2,
+  "content": "那这场残局的结尾大概率是",
+  "music": 0.0
+ },
+ {
+  "from": 97.43,
+  "to": 98.75,
+  "sid": 55,
+  "location": 2,
+  "content": "你换掉一个或者两个",
+  "music": 0.0
+ },
+ {
+  "from": 98.75,
+  "to": 100.95,
+  "sid": 56,
+  "location": 2,
+  "content": "然后让你的队友1V1或是1V2",
+  "music": 0.0
+ },
+ {
+  "from": 100.95,
+  "to": 102.75,
+  "sid": 57,
+  "location": 2,
+  "content": "你要知道你们都是同等段位的人",
+  "music": 0.0
+ },
+ {
+  "from": 102.75,
+  "to": 103.67,
+  "sid": 58,
+  "location": 2,
+  "content": "你能想到的地方",
+  "music": 0.0
+ },
+ {
+  "from": 103.67,
+  "to": 105.21,
+  "sid": 59,
+  "location": 2,
+  "content": "对面大概率也会想到",
+  "music": 0.0
+ },
+ {
+  "from": 105.21,
+  "to": 106.59,
+  "sid": 60,
+  "location": 2,
+  "content": "而你得站在第三层",
+  "music": 0.0
+ },
+ {
+  "from": 106.59,
+  "to": 109.45,
+  "sid": 61,
+  "location": 2,
+  "content": "才能更稳的拿下这回合的胜利啊",
+  "music": 0.0
+ },
+ {
+  "from": 109.45,
+  "to": 111.37,
+  "sid": 62,
+  "location": 2,
+  "content": "你们快跑吧",
+  "music": 0.0
+ },
+ {
+  "from": 115.64,
+  "to": 118.68,
+  "sid": 63,
+  "location": 2,
+  "content": "干掉一个刺激六剑大招好了",
+  "music": 0.0
+ },
+ {
+  "from": 118.68,
+  "to": 120.84,
+  "sid": 64,
+  "location": 2,
+  "content": "开大开大开大抓一下",
+  "music": 0.0
+ },
+ {
+  "from": 121.4,
+  "to": 122.98,
+  "sid": 65,
+  "location": 2,
+  "content": "我方还剩一人",
+  "music": 0.0
+ },
+ {
+  "from": 122.98,
+  "to": 125.3,
+  "sid": 66,
+  "location": 2,
+  "content": "鼠标甩不过来了",
+  "music": 0.0
+ },
+ {
+  "from": 126.46,
+  "to": 129.38,
+  "sid": 67,
+  "location": 2,
+  "content": "这是我的决斗",
+  "music": 0.0
+ },
+ {
+  "from": 133.54,
+  "to": 136.08,
+  "sid": 68,
+  "location": 2,
+  "content": "这有大招诶",
+  "music": 0.0
+ },
+ {
+  "from": 136.08,
+  "to": 137.94,
+  "sid": 69,
+  "location": 2,
+  "content": "好看到这颗烟的时候",
+  "music": 0.0
+ },
+ {
+  "from": 137.94,
+  "to": 140.74,
+  "sid": 70,
+  "location": 2,
+  "content": "你就要清楚队友给的这颗烟是警家靠外的",
+  "music": 0.0
+ },
+ {
+  "from": 140.74,
+  "to": 141.9,
+  "sid": 71,
+  "location": 2,
+  "content": "这并不是切边烟",
+  "music": 0.0
+ },
+ {
+  "from": 141.9,
+  "to": 144.87,
+  "sid": 72,
+  "location": 2,
+  "content": "所以这颗烟的外面是有空间给我们当掩体的",
+  "music": 0.0
+ },
+ {
+  "from": 144.87,
+  "to": 146.63,
+  "sid": 73,
+  "location": 2,
+  "content": "如果你想稳稳的拿下这个残局",
+  "music": 0.0
+ },
+ {
+  "from": 146.63,
+  "to": 148.31,
+  "sid": 74,
+  "location": 2,
+  "content": "你就得在看到这颗烟的时候",
+  "music": 0.0
+ },
+ {
+  "from": 148.31,
+  "to": 151.07,
+  "sid": 75,
+  "location": 2,
+  "content": "迅速地想到第二层甚至两层以上的解法",
+  "music": 0.0
+ },
+ {
+  "from": 151.07,
+  "to": 153.37,
+  "sid": 76,
+  "location": 2,
+  "content": "能在短时间内想到更稳的解法",
+  "music": 0.0
+ },
+ {
+  "from": 153.37,
+  "to": 155.11,
+  "sid": 77,
+  "location": 2,
+  "content": "这就是一个好的临场决策",
+  "music": 0.0
+ },
+ {
+  "from": 155.11,
+  "to": 156.25,
+  "sid": 78,
+  "location": 2,
+  "content": "这把是一场残局",
+  "music": 0.0
+ },
+ {
+  "from": 156.25,
+  "to": 157.85,
+  "sid": 79,
+  "location": 2,
+  "content": "对枪决策",
+  "music": 0.0
+ },
+ {
+  "from": 161.4,
+  "to": 162.48,
+  "sid": 80,
+  "location": 2,
+  "content": "队友进点下包",
+  "music": 0.0
+ },
+ {
+  "from": 162.48,
+  "to": 165.8,
+  "sid": 81,
+  "location": 2,
+  "content": "我们不用跟着进仓线拉开是更好的选择",
+  "music": 0.0
+ },
+ {
+  "from": 166.58,
+  "to": 167.98,
+  "sid": 82,
+  "location": 2,
+  "content": "我方还剩一人",
+  "music": 0.0
+ },
+ {
+  "from": 167.98,
+  "to": 170.87,
+  "sid": 83,
+  "location": 2,
+  "content": "目标在哪报能气落在C区",
+  "music": 0.0
+ },
+ {
+  "from": 171.39,
+  "to": 172.59,
+  "sid": 84,
+  "location": 2,
+  "content": "此时知道柱子一人",
+  "music": 0.0
+ },
+ {
+  "from": 172.59,
+  "to": 173.89,
+  "sid": 85,
+  "location": 2,
+  "content": "但他不选择拉我们",
+  "music": 0.0
+ },
+ {
+  "from": 173.89,
+  "to": 176.13,
+  "sid": 86,
+  "location": 2,
+  "content": "所以他肯定是在等队友一起双拉",
+  "music": 0.0
+ },
+ {
+  "from": 176.13,
+  "to": 177.79,
+  "sid": 87,
+  "location": 2,
+  "content": "我们朝瀑布开两枪再回来",
+  "music": 0.0
+ },
+ {
+  "from": 177.79,
+  "to": 178.63,
+  "sid": 88,
+  "location": 2,
+  "content": "把蕾娜骗出来",
+  "music": 0.0
+ },
+ {
+  "from": 178.63,
+  "to": 179.83,
+  "sid": 89,
+  "location": 2,
+  "content": "1v1",
+  "music": 0.0
+ },
+ {
+  "from": 183.54,
+  "to": 185.28,
+  "sid": 90,
+  "location": 2,
+  "content": "还剩一名敌人",
+  "music": 0.0
+ },
+ {
+  "from": 185.28,
+  "to": 186.5,
+  "sid": 91,
+  "location": 2,
+  "content": "剩余30秒",
+  "music": 0.0
+ },
+ {
+  "from": 186.5,
+  "to": 187.66,
+  "sid": 92,
+  "location": 2,
+  "content": "因为对面并没有补枪",
+  "music": 0.0
+ },
+ {
+  "from": 187.66,
+  "to": 189.8,
+  "sid": 93,
+  "location": 2,
+  "content": "所以我们优先选择看C位",
+  "music": 0.0
+ },
+ {
+  "from": 189.8,
+  "to": 192.6,
+  "sid": 94,
+  "location": 2,
+  "content": "到这里可以确定大概率是警家来的",
+  "music": 0.0
+ },
+ {
+  "from": 192.6,
+  "to": 194.56,
+  "sid": 95,
+  "location": 2,
+  "content": "跳起来拿信息",
+  "music": 0.0
+ },
+ {
+  "from": 203.339,
+  "to": 204.259,
+  "sid": 96,
+  "location": 2,
+  "content": "来到下一场",
+  "music": 0.0
+ },
+ {
+  "from": 204.259,
+  "to": 206.219,
+  "sid": 97,
+  "location": 2,
+  "content": "如果你想开局帮助队友拿到优势",
+  "music": 0.0
+ },
+ {
+  "from": 206.219,
+  "to": 207.659,
+  "sid": 98,
+  "location": 2,
+  "content": "除了开局制定战术外",
+  "music": 0.0
+ },
+ {
+  "from": 207.659,
+  "to": 210.84,
+  "sid": 99,
+  "location": 2,
+  "content": "你还得了解对方的打法习惯和收集场上的信息",
+  "music": 0.0
+ },
+ {
+  "from": 210.84,
+  "to": 212.56,
+  "sid": 100,
+  "location": 2,
+  "content": "从战绩面板我们可以知道",
+  "music": 0.0
+ },
+ {
+  "from": 212.56,
+  "to": 214.16,
+  "sid": 101,
+  "location": 2,
+  "content": "虽然对面有两个人没钱",
+  "music": 0.0
+ },
+ {
+  "from": 214.16,
+  "to": 217.22,
+  "sid": 102,
+  "location": 2,
+  "content": "但是剩下三人都可以骑上半甲长枪加道具",
+  "music": 0.0
+ },
+ {
+  "from": 217.22,
+  "to": 219.32,
+  "sid": 103,
+  "location": 2,
+  "content": "此时我们要注意到对面前方的大招",
+  "music": 0.0
+ },
+ {
+  "from": 219.32,
+  "to": 220.579,
+  "sid": 104,
+  "location": 2,
+  "content": "就差一个能量点",
+  "music": 0.0
+ },
+ {
+  "from": 220.579,
+  "to": 222.379,
+  "sid": 105,
+  "location": 2,
+  "content": "加上对面三个人可以起枪",
+  "music": 0.0
+ },
+ {
+  "from": 222.379,
+  "to": 224.279,
+  "sid": 106,
+  "location": 2,
+  "content": "所以这把对面几乎会选择强袭",
+  "music": 0.0
+ },
+ {
+  "from": 224.279,
+  "to": 226.99,
+  "sid": 107,
+  "location": 2,
+  "content": "我们知道解封要吸球就可以埋伏他一手",
+  "music": 0.0
+ },
+ {
+  "from": 226.99,
+  "to": 228.23,
+  "sid": 108,
+  "location": 2,
+  "content": "因为敌方是强器",
+  "music": 0.0
+ },
+ {
+  "from": 228.23,
+  "to": 229.45,
+  "sid": 109,
+  "location": 2,
+  "content": "加上E突并没有钱",
+  "music": 0.0
+ },
+ {
+  "from": 229.45,
+  "to": 232.07,
+  "sid": 110,
+  "location": 2,
+  "content": "所以解封只能选择来CC外的这颗能量点",
+  "music": 0.0
+ },
+ {
+  "from": 233.19,
+  "to": 235.15,
+  "sid": 111,
+  "location": 2,
+  "content": "我去我去抓一下",
+  "music": 0.0
+ },
+ {
+  "from": 237.36,
+  "to": 238.2,
+  "sid": 112,
+  "location": 2,
+  "content": "没枪没枪",
+  "music": 0.0
+ },
+ {
+  "from": 238.2,
+  "to": 241.38,
+  "sid": 113,
+  "location": 2,
+  "content": "怎么在C这里有些许失误",
+  "music": 0.0
+ },
+ {
+  "from": 241.38,
+  "to": 242.34,
+  "sid": 114,
+  "location": 2,
+  "content": "请不要在意",
+  "music": 0.0
+ },
+ {
+  "from": 242.34,
+  "to": 243.78,
+  "sid": 115,
+  "location": 2,
+  "content": "投放蜂群手雷",
+  "music": 0.0
+ },
+ {
+  "from": 243.78,
+  "to": 245.74,
+  "sid": 116,
+  "location": 2,
+  "content": "激活蜂群手雷",
+  "music": 0.0
+ },
+ {
+  "from": 247.6,
+  "to": 249.08,
+  "sid": 117,
+  "location": 2,
+  "content": "投放蜂群手雷",
+  "music": 0.0
+ },
+ {
+  "from": 249.08,
+  "to": 250.56,
+  "sid": 118,
+  "location": 2,
+  "content": "激活蜂群手雷",
+  "music": 0.0
+ },
+ {
+  "from": 250.56,
+  "to": 252.16,
+  "sid": 119,
+  "location": 2,
+  "content": "在对枪和即将对枪时",
+  "music": 0.0
+ },
+ {
+  "from": 252.16,
+  "to": 253.24,
+  "sid": 120,
+  "location": 2,
+  "content": "如果你暴露了你的位置",
+  "music": 0.0
+ },
+ {
+  "from": 253.24,
+  "to": 254.97,
+  "sid": 121,
+  "location": 2,
+  "content": "那么最好迅速的换一个身位",
+  "music": 0.0
+ },
+ {
+  "from": 254.97,
+  "to": 256.53,
+  "sid": 122,
+  "location": 2,
+  "content": "所以在你看到这颗烟的时候",
+  "music": 0.0
+ },
+ {
+  "from": 256.53,
+  "to": 259.6,
+  "sid": 123,
+  "location": 2,
+  "content": "你就得立马知道你必须得动起来",
+  "music": 0.0
+ },
+ {
+  "from": 261.82,
+  "to": 263.86,
+  "sid": 124,
+  "location": 2,
+  "content": "搞定一个我的大招好了",
+  "music": 0.0
+ },
+ {
+  "from": 263.86,
+  "to": 264.7,
+  "sid": 125,
+  "location": 2,
+  "content": "两个废掉了",
+  "music": 0.0
+ },
+ {
+  "from": 264.7,
+  "to": 265.58,
+  "sid": 126,
+  "location": 2,
+  "content": "来到下一场",
+  "music": 0.0
+ },
+ {
+  "from": 265.58,
+  "to": 267.06,
+  "sid": 127,
+  "location": 2,
+  "content": "这回合我方选择的是开局",
+  "music": 0.0
+ },
+ {
+  "from": 267.06,
+  "to": 268.88,
+  "sid": 128,
+  "location": 2,
+  "content": "先控中再看情况哦",
+  "music": 0.0
+ },
+ {
+  "from": 268.88,
+  "to": 270.08,
+  "sid": 129,
+  "location": 2,
+  "content": "我是架点防前压位",
+  "music": 0.0
+ },
+ {
+  "from": 270.08,
+  "to": 270.78,
+  "sid": 130,
+  "location": 2,
+  "content": "没事没事",
+  "music": 0.0
+ },
+ {
+  "from": 270.78,
+  "to": 273.04,
+  "sid": 131,
+  "location": 2,
+  "content": "原谅我架了开局的时间",
+  "music": 0.0
+ },
+ {
+  "from": 273.04,
+  "to": 273.88,
+  "sid": 132,
+  "location": 2,
+  "content": "中路也给了压力",
+  "music": 0.0
+ },
+ {
+  "from": 273.88,
+  "to": 275.36,
+  "sid": 133,
+  "location": 2,
+  "content": "所以现在我们得往前推",
+  "music": 0.0
+ },
+ {
+  "from": 275.36,
+  "to": 276.59,
+  "sid": 134,
+  "location": 2,
+  "content": "禁止开",
+  "music": 0.0
+ },
+ {
+  "from": 276.59,
+  "to": 278.83,
+  "sid": 135,
+  "location": 2,
+  "content": "你的使命还没结束",
+  "music": 0.0
+ },
+ {
+  "from": 278.83,
+  "to": 281.45,
+  "sid": 136,
+  "location": 2,
+  "content": "菲尼克有些我错过什么吧",
+  "music": 0.0
+ },
+ {
+  "from": 281.45,
+  "to": 285.62,
+  "sid": 137,
+  "location": 2,
+  "content": "我找到烟里个烟里烟爆炸就是艺术",
+  "music": 0.0
+ },
+ {
+  "from": 285.62,
+  "to": 287.18,
+  "sid": 138,
+  "location": 2,
+  "content": "有奶我给我自己奶",
+  "music": 0.0
+ },
+ {
+  "from": 287.18,
+  "to": 288.96,
+  "sid": 139,
+  "location": 2,
+  "content": "看到这里可能有小伙伴要问",
+  "music": 0.0
+ },
+ {
+  "from": 288.96,
+  "to": 289.9,
+  "sid": 140,
+  "location": 2,
+  "content": "为什么你又是吹到",
+  "music": 0.0
+ },
+ {
+  "from": 289.9,
+  "to": 290.7,
+  "sid": 141,
+  "location": 2,
+  "content": "又是不做疫苗的",
+  "music": 0.0
+ },
+ {
+  "from": 290.7,
+  "to": 291.26,
+  "sid": 142,
+  "location": 2,
+  "content": "就走进来了",
+  "music": 0.0
+ },
+ {
+  "from": 291.26,
+  "to": 292.26,
+  "sid": 143,
+  "location": 2,
+  "content": "你开柜了是吧",
+  "music": 0.0
+ },
+ {
+  "from": 292.26,
+  "to": 293.97,
+  "sid": 144,
+  "location": 2,
+  "content": "诶此言差矣",
+  "music": 0.0
+ },
+ {
+  "from": 293.97,
+  "to": 295.33,
+  "sid": 145,
+  "location": 2,
+  "content": "不知道你们注意到没有",
+  "music": 0.0
+ },
+ {
+  "from": 295.33,
+  "to": 296.41,
+  "sid": 146,
+  "location": 2,
+  "content": "在我往前走的时候",
+  "music": 0.0
+ },
+ {
+  "from": 296.41,
+  "to": 298.57,
+  "sid": 147,
+  "location": 2,
+  "content": "小地图上显示了B2楼有两个敌人",
+  "music": 0.0
+ },
+ {
+  "from": 298.57,
+  "to": 300.21,
+  "sid": 148,
+  "location": 2,
+  "content": "当你拿到了这个信息的时候",
+  "music": 0.0
+ },
+ {
+  "from": 300.21,
+  "to": 302.08,
+  "sid": 149,
+  "location": 2,
+  "content": "你就要知道什么",
+  "music": 0.0
+ },
+ {
+  "from": 302.56,
+  "to": 304.04,
+  "sid": 150,
+  "location": 2,
+  "content": "刚刚说对面五避开的",
+  "music": 0.0
+ },
+ {
+  "from": 304.04,
+  "to": 305.78,
+  "sid": 151,
+  "location": 2,
+  "content": "你给我站出来",
+  "music": 0.0
+ },
+ {
+  "from": 306.26,
+  "to": 308.18,
+  "sid": 152,
+  "location": 2,
+  "content": "当你知道对面B2楼有两个人",
+  "music": 0.0
+ },
+ {
+  "from": 308.18,
+  "to": 309.82,
+  "sid": 153,
+  "location": 2,
+  "content": "那么B包点大概率是空的",
+  "music": 0.0
+ },
+ {
+  "from": 309.82,
+  "to": 312.18,
+  "sid": 154,
+  "location": 2,
+  "content": "我们有了信息就得立马做出相对的决策",
+  "music": 0.0
+ },
+ {
+  "from": 312.18,
+  "to": 314.26,
+  "sid": 155,
+  "location": 2,
+  "content": "这样就能够做到对面的timing hello",
+  "music": 0.0
+ },
+ {
+  "from": 314.26,
+  "to": 315.02,
+  "sid": 156,
+  "location": 2,
+  "content": "我来治疗",
+  "music": 0.0
+ },
+ {
+  "from": 315.02,
+  "to": 315.94,
+  "sid": 157,
+  "location": 2,
+  "content": "有奶他有奶",
+  "music": 0.0
+ },
+ {
+  "from": 315.94,
+  "to": 316.46,
+  "sid": 158,
+  "location": 2,
+  "content": "摸进来了",
+  "music": 0.0
+ },
+ {
+  "from": 316.46,
+  "to": 317.1,
+  "sid": 159,
+  "location": 2,
+  "content": "我摸进来了",
+  "music": 0.0
+ },
+ {
+  "from": 318.26,
+  "to": 321.83,
+  "sid": 160,
+  "location": 2,
+  "content": "我有多打B打B打B打B打B",
+  "music": 0.0
+ },
+ {
+  "from": 321.83,
+  "to": 323.09,
+  "sid": 161,
+  "location": 2,
+  "content": "我们偷掉敌方一人",
+  "music": 0.0
+ },
+ {
+  "from": 323.09,
+  "to": 324.97,
+  "sid": 162,
+  "location": 2,
+  "content": "现在应该做的是稳住优势的局面",
+  "music": 0.0
+ },
+ {
+  "from": 324.97,
+  "to": 326.45,
+  "sid": 163,
+  "location": 2,
+  "content": "不要去浪封杀二楼烟",
+  "music": 0.0
+ },
+ {
+  "from": 326.45,
+  "to": 328.64,
+  "sid": 164,
+  "location": 2,
+  "content": "掩护队友近点下包铺开枪线",
+  "music": 0.0
+ },
+ {
+  "from": 328.64,
+  "to": 329.56,
+  "sid": 165,
+  "location": 2,
+  "content": "枪线铺开",
+  "music": 0.0
+ },
+ {
+  "from": 329.56,
+  "to": 330.44,
+  "sid": 166,
+  "location": 2,
+  "content": "加上人数优势",
+  "music": 0.0
+ },
+ {
+  "from": 330.44,
+  "to": 332.51,
+  "sid": 167,
+  "location": 2,
+  "content": "这回合也是自然而然的赢下",
+  "music": 0.0
+ },
+ {
+  "from": 332.51,
+  "to": 333.91,
+  "sid": 168,
+  "location": 2,
+  "content": "剩下的不过多展示",
+  "music": 0.0
+ },
+ {
+  "from": 333.91,
+  "to": 334.71,
+  "sid": 169,
+  "location": 2,
+  "content": "直接下一场",
+  "music": 0.0
+ },
+ {
+  "from": 334.71,
+  "to": 336.75,
+  "sid": 170,
+  "location": 2,
+  "content": "这回还我们得知对方转点转的很快",
+  "music": 0.0
+ },
+ {
+  "from": 336.75,
+  "to": 338.11,
+  "sid": 171,
+  "location": 2,
+  "content": "所以我们选择给B点压力",
+  "music": 0.0
+ },
+ {
+  "from": 338.11,
+  "to": 339.15,
+  "sid": 172,
+  "location": 2,
+  "content": "让钢索去单摸",
+  "music": 0.0
+ },
+ {
+  "from": 339.15,
+  "to": 341.59,
+  "sid": 173,
+  "location": 2,
+  "content": "而我们依旧是防前压位",
+  "music": 0.0
+ },
+ {
+  "from": 346.03,
+  "to": 347.43,
+  "sid": 174,
+  "location": 2,
+  "content": "仔细听A包的两个人",
+  "music": 0.0
+ },
+ {
+  "from": 347.43,
+  "to": 348.87,
+  "sid": 175,
+  "location": 2,
+  "content": "一个已经放脚步回去",
+  "music": 0.0
+ },
+ {
+  "from": 348.87,
+  "to": 350.23,
+  "sid": 176,
+  "location": 2,
+  "content": "而另一个人漏了一声",
+  "music": 0.0
+ },
+ {
+  "from": 350.23,
+  "to": 351.33,
+  "sid": 177,
+  "location": 2,
+  "content": "但后续没声音了",
+  "music": 0.0
+ },
+ {
+  "from": 351.33,
+  "to": 352.15,
+  "sid": 178,
+  "location": 2,
+  "content": "有了这个信息",
+  "music": 0.0
+ },
+ {
+  "from": 352.15,
+  "to": 354.49,
+  "sid": 179,
+  "location": 2,
+  "content": "我们就要明白对面A回防了一或两个",
+  "music": 0.0
+ },
+ {
+  "from": 354.49,
+  "to": 356.97,
+  "sid": 180,
+  "location": 2,
+  "content": "而留下来的那个人声音是在黑屋子时",
+  "music": 0.0
+ },
+ {
+  "from": 356.97,
+  "to": 357.81,
+  "sid": 181,
+  "location": 2,
+  "content": "我们需要做什么",
+  "music": 0.0
+ },
+ {
+  "from": 357.81,
+  "to": 359.25,
+  "sid": 182,
+  "location": 2,
+  "content": "已经显而易见诶",
+  "music": 0.0
+ },
+ {
+  "from": 359.25,
+  "to": 360.85,
+  "sid": 183,
+  "location": 2,
+  "content": "保安在B",
+  "music": 0.0
+ },
+ {
+  "from": 366.46,
+  "to": 367.54,
+  "sid": 184,
+  "location": 2,
+  "content": "不急着去找她",
+  "music": 0.0
+ },
+ {
+  "from": 367.54,
+  "to": 367.94,
+  "sid": 185,
+  "location": 2,
+  "content": "先要嫁",
+  "music": 0.0
+ },
+ {
+  "from": 367.94,
+  "to": 370.85,
+  "sid": 186,
+  "location": 2,
+  "content": "也会防止他peek拿信息的timing",
+  "music": 0.0
+ },
+ {
+  "from": 371.57,
+  "to": 372.29,
+  "sid": 187,
+  "location": 2,
+  "content": "笛鸣完",
+  "music": 0.0
+ },
+ {
+  "from": 372.29,
+  "to": 374.69,
+  "sid": 188,
+  "location": 2,
+  "content": "我们只需要耐心往前推",
+  "music": 0.0
+ },
+ {
+  "from": 375.38,
+  "to": 380.07,
+  "sid": 189,
+  "location": 2,
+  "content": "你真是哎我蒙蔽他们",
+  "music": 0.0
+ },
+ {
+  "from": 381.39,
+  "to": 384.89,
+  "sid": 190,
+  "location": 2,
+  "content": "后续我们无伤转点也是轻松拿下回合胜利",
+  "music": 0.0
+ },
+ {
+  "from": 384.89,
+  "to": 387.07,
+  "sid": 191,
+  "location": 2,
+  "content": "这一场依旧是一个残局决策",
+  "music": 0.0
+ },
+ {
+  "from": 387.07,
+  "to": 388.41,
+  "sid": 192,
+  "location": 2,
+  "content": "敌方封烟不好补枪",
+  "music": 0.0
+ },
+ {
+  "from": 388.41,
+  "to": 389.09,
+  "sid": 193,
+  "location": 2,
+  "content": "果断给技能",
+  "music": 0.0
+ },
+ {
+  "from": 389.09,
+  "to": 391.13,
+  "sid": 194,
+  "location": 2,
+  "content": "帮助队友击溃他们",
+  "music": 0.0
+ },
+ {
+  "from": 391.13,
+  "to": 393.51,
+  "sid": 195,
+  "location": 2,
+  "content": "我方还剩一完了马了卧槽",
+  "music": 0.0
+ },
+ {
+  "from": 393.51,
+  "to": 395.05,
+  "sid": 196,
+  "location": 2,
+  "content": "此时可能又有观众要说了",
+  "music": 0.0
+ },
+ {
+  "from": 395.05,
+  "to": 396.21,
+  "sid": 197,
+  "location": 2,
+  "content": "一打二加上暴露位置",
+  "music": 0.0
+ },
+ {
+  "from": 396.21,
+  "to": 397.05,
+  "sid": 198,
+  "location": 2,
+  "content": "这个残局你能赢",
+  "music": 0.0
+ },
+ {
+  "from": 397.05,
+  "to": 397.67,
+  "sid": 199,
+  "location": 2,
+  "content": "我吃啊",
+  "music": 0.0
+ },
+ {
+  "from": 397.67,
+  "to": 399.36,
+  "sid": 200,
+  "location": 2,
+  "content": "诶你先别急",
+  "music": 0.0
+ },
+ {
+  "from": 399.36,
+  "to": 402.32,
+  "sid": 201,
+  "location": 2,
+  "content": "这烟等待敌方犯错扳回劣势",
+  "music": 0.0
+ },
+ {
+  "from": 404.5,
+  "to": 405.97,
+  "sid": 202,
+  "location": 2,
+  "content": "听见这个脚步了吗",
+  "music": 0.0
+ },
+ {
+  "from": 405.97,
+  "to": 407.33,
+  "sid": 203,
+  "location": 2,
+  "content": "如果你听见了这个脚步",
+  "music": 0.0
+ },
+ {
+  "from": 407.33,
+  "to": 408.49,
+  "sid": 204,
+  "location": 2,
+  "content": "那么你就得立刻反应过来",
+  "music": 0.0
+ },
+ {
+  "from": 408.49,
+  "to": 409.93,
+  "sid": 205,
+  "location": 2,
+  "content": "这是一个1V1的好机会",
+  "music": 0.0
+ },
+ {
+  "from": 409.93,
+  "to": 411.05,
+  "sid": 206,
+  "location": 2,
+  "content": "想赢下这场残局",
+  "music": 0.0
+ },
+ {
+  "from": 411.05,
+  "to": 413.01,
+  "sid": 207,
+  "location": 2,
+  "content": "首先你就必须得拿下这个1V1",
+  "music": 0.0
+ },
+ {
+  "from": 413.01,
+  "to": 414.87,
+  "sid": 208,
+  "location": 2,
+  "content": "这样你才有赢的可能",
+  "music": 0.0
+ },
+ {
+  "from": 414.87,
+  "to": 416.35,
+  "sid": 209,
+  "location": 2,
+  "content": "还剩一名小兵",
+  "music": 0.0
+ },
+ {
+  "from": 416.35,
+  "to": 417.95,
+  "sid": 210,
+  "location": 2,
+  "content": "打完了我们立刻回烟保活",
+  "music": 0.0
+ },
+ {
+  "from": 417.95,
+  "to": 419.81,
+  "sid": 211,
+  "location": 2,
+  "content": "还记不记得我刚刚说过什么",
+  "music": 0.0
+ },
+ {
+  "from": 419.81,
+  "to": 420.73,
+  "sid": 212,
+  "location": 2,
+  "content": "想赢下残局",
+  "music": 0.0
+ },
+ {
+  "from": 420.73,
+  "to": 422.92,
+  "sid": 213,
+  "location": 2,
+  "content": "你就必须得站在第二层或者两层以上",
+  "music": 0.0
+ },
+ {
+  "from": 422.92,
+  "to": 424.28,
+  "sid": 214,
+  "location": 2,
+  "content": "我们打完人禁烟齐乐",
+  "music": 0.0
+ },
+ {
+  "from": 424.28,
+  "to": 425.4,
+  "sid": 215,
+  "location": 2,
+  "content": "是不是一定会架烟",
+  "music": 0.0
+ },
+ {
+  "from": 425.4,
+  "to": 426.48,
+  "sid": 216,
+  "location": 2,
+  "content": "其乐架烟这么久",
+  "music": 0.0
+ },
+ {
+  "from": 426.48,
+  "to": 427.16,
+  "sid": 217,
+  "location": 2,
+  "content": "我们还不出来",
+  "music": 0.0
+ },
+ {
+  "from": 427.16,
+  "to": 428.75,
+  "sid": 218,
+  "location": 2,
+  "content": "他是不是就得加另一边",
+  "music": 0.0
+ },
+ {
+  "from": 428.75,
+  "to": 430.79,
+  "sid": 219,
+  "location": 2,
+  "content": "防止我们从另一边出的timing",
+  "music": 0.0
+ },
+ {
+  "from": 430.79,
+  "to": 432.51,
+  "sid": 220,
+  "location": 2,
+  "content": "那么他转身去架另一侧的时候",
+  "music": 0.0
+ },
+ {
+  "from": 432.51,
+  "to": 434.57,
+  "sid": 221,
+  "location": 2,
+  "content": "是不是也是我们可以抓住的timing呢",
+  "music": 0.0
+ },
+ {
+  "from": 434.57,
+  "to": 435.23,
+  "sid": 222,
+  "location": 2,
+  "content": "不着急",
+  "music": 0.0
+ },
+ {
+  "from": 435.23,
+  "to": 436.32,
+  "sid": 223,
+  "location": 2,
+  "content": "他没在",
+  "music": 0.0
+ },
+ {
+  "from": 436.92,
+  "to": 437.76,
+  "sid": 224,
+  "location": 2,
+  "content": "好了啊",
+  "music": 0.0
+ },
+ {
+  "from": 437.76,
+  "to": 439.16,
+  "sid": 225,
+  "location": 2,
+  "content": "牛逼牛逼牛逼",
+  "music": 0.0
+ },
+ {
+  "from": 439.16,
+  "to": 440.44,
+  "sid": 226,
+  "location": 2,
+  "content": "打了赢下这个残局",
+  "music": 0.0
+ },
+ {
+  "from": 440.44,
+  "to": 443.2,
+  "sid": 227,
+  "location": 2,
+  "content": "你就得做到听到脚步的一瞬间就要做出决策",
+  "music": 0.0
+ },
+ {
+  "from": 443.2,
+  "to": 444.08,
+  "sid": 228,
+  "location": 2,
+  "content": "拉出去1V1",
+  "music": 0.0
+ },
+ {
+  "from": 444.08,
+  "to": 446.0,
+  "sid": 229,
+  "location": 2,
+  "content": "并且在后续跟奇瑞的1V1中",
+  "music": 0.0
+ },
+ {
+  "from": 446.0,
+  "to": 448.3,
+  "sid": 230,
+  "location": 2,
+  "content": "我们依旧要站在第二层去跟对方玩脑子",
+  "music": 0.0
+ },
+ {
+  "from": 448.3,
+  "to": 449.56,
+  "sid": 231,
+  "location": 2,
+  "content": "这就是我开头提到的",
+  "music": 0.0
+ },
+ {
+  "from": 449.56,
+  "to": 451.44,
+  "sid": 232,
+  "location": 2,
+  "content": "尽可能又快又稳的做出决策",
+  "music": 0.0
+ },
+ {
+  "from": 451.44,
+  "to": 452.48,
+  "sid": 233,
+  "location": 2,
+  "content": "What the",
+  "music": 0.0
+ },
+ {
+  "from": 452.48,
+  "to": 453.86,
+  "sid": 234,
+  "location": 2,
+  "content": "依旧是一场残局的决策",
+  "music": 0.0
+ },
+ {
+  "from": 453.86,
+  "to": 456.92,
+  "sid": 235,
+  "location": 2,
+  "content": "过点烟这一把我们夜路充当弹幕位",
+  "music": 0.0
+ },
+ {
+  "from": 456.92,
+  "to": 459.7,
+  "sid": 236,
+  "location": 2,
+  "content": "好枪好枪好枪好枪",
+  "music": 0.0
+ },
+ {
+  "from": 459.7,
+  "to": 461.04,
+  "sid": 237,
+  "location": 2,
+  "content": "我进去开飞机吧",
+  "music": 0.0
+ },
+ {
+  "from": 461.04,
+  "to": 461.7,
+  "sid": 238,
+  "location": 2,
+  "content": "等我一下",
+  "music": 0.0
+ },
+ {
+  "from": 461.7,
+  "to": 466.24,
+  "sid": 239,
+  "location": 2,
+  "content": "我来我的单向烟",
+  "music": 0.0
+ },
+ {
+  "from": 466.72,
+  "to": 467.64,
+  "sid": 240,
+  "location": 2,
+  "content": "看到这个帘子",
+  "music": 0.0
+ },
+ {
+  "from": 467.64,
+  "to": 468.28,
+  "sid": 241,
+  "location": 2,
+  "content": "我们就要知道",
+  "music": 0.0
+ },
+ {
+  "from": 468.28,
+  "to": 469.4,
+  "sid": 242,
+  "location": 2,
+  "content": "只要这个烟墙还在",
+  "music": 0.0
+ },
+ {
+  "from": 469.4,
+  "to": 471.26,
+  "sid": 243,
+  "location": 2,
+  "content": "我们就可以直接往厨房摸",
+  "music": 0.0
+ },
+ {
+  "from": 471.26,
+  "to": 472.76,
+  "sid": 244,
+  "location": 2,
+  "content": "对面奎蛇看到了我们",
+  "music": 0.0
+ },
+ {
+  "from": 472.76,
+  "to": 473.56,
+  "sid": 245,
+  "location": 2,
+  "content": "我们暴露了位置",
+  "music": 0.0
+ },
+ {
+  "from": 473.56,
+  "to": 474.92,
+  "sid": 246,
+  "location": 2,
+  "content": "所以要提防对面骑车架",
+  "music": 0.0
+ },
+ {
+  "from": 474.92,
+  "to": 476.3,
+  "sid": 247,
+  "location": 2,
+  "content": "我们",
+  "music": 0.17187498657224723
+ },
+ {
+  "from": 478.15,
+  "to": 479.07,
+  "sid": 248,
+  "location": 2,
+  "content": "打掉了齐了",
+  "music": 0.0
+ },
+ {
+  "from": 479.07,
+  "to": 479.87,
+  "sid": 249,
+  "location": 2,
+  "content": "我们直接替走",
+  "music": 0.0
+ },
+ {
+  "from": 479.87,
+  "to": 480.39,
+  "sid": 250,
+  "location": 2,
+  "content": "换个位置",
+  "music": 0.0
+ },
+ {
+  "from": 480.39,
+  "to": 481.23,
+  "sid": 251,
+  "location": 2,
+  "content": "保持神秘",
+  "music": 0.0
+ },
+ {
+  "from": 481.23,
+  "to": 483.99,
+  "sid": 252,
+  "location": 2,
+  "content": "A区两个",
+  "music": 0.0
+ },
+ {
+  "from": 487.16,
+  "to": 488.64,
+  "sid": 253,
+  "location": 2,
+  "content": "依旧要记得我说的残局",
+  "music": 0.0
+ },
+ {
+  "from": 488.64,
+  "to": 490.58,
+  "sid": 254,
+  "location": 2,
+  "content": "人数劣势就要勇于去找机会",
+  "music": 0.0
+ },
+ {
+  "from": 490.58,
+  "to": 491.44,
+  "sid": 255,
+  "location": 2,
+  "content": "我们有点神秘",
+  "music": 0.0
+ },
+ {
+  "from": 491.44,
+  "to": 494.58,
+  "sid": 256,
+  "location": 2,
+  "content": "所以去尝试能不能抓到一些timing",
+  "music": 0.0
+ },
+ {
+  "from": 497.36,
+  "to": 498.44,
+  "sid": 257,
+  "location": 2,
+  "content": "既然位置暴露",
+  "music": 0.0
+ },
+ {
+  "from": 498.44,
+  "to": 499.48,
+  "sid": 258,
+  "location": 2,
+  "content": "并且我们残血",
+  "music": 0.0
+ },
+ {
+  "from": 499.48,
+  "to": 501.32,
+  "sid": 259,
+  "location": 2,
+  "content": "那么就没必要继续对枪",
+  "music": 0.0
+ },
+ {
+  "from": 501.32,
+  "to": 502.48,
+  "sid": 260,
+  "location": 2,
+  "content": "现在应该保活",
+  "music": 0.0
+ },
+ {
+  "from": 502.48,
+  "to": 504.44,
+  "sid": 261,
+  "location": 2,
+  "content": "去找下一个机会",
+  "music": 0.0
+ },
+ {
+  "from": 504.72,
+  "to": 505.52,
+  "sid": 262,
+  "location": 2,
+  "content": "听见脚步",
+  "music": 0.0
+ },
+ {
+  "from": 505.52,
+  "to": 506.48,
+  "sid": 263,
+  "location": 2,
+  "content": "知道有人来叫我们",
+  "music": 0.0
+ },
+ {
+  "from": 506.48,
+  "to": 507.4,
+  "sid": 264,
+  "location": 2,
+  "content": "我们继续换位置",
+  "music": 0.0
+ },
+ {
+  "from": 507.4,
+  "to": 508.68,
+  "sid": 265,
+  "location": 2,
+  "content": "找机会",
+  "music": 0.0
+ },
+ {
+  "from": 512.52,
+  "to": 513.4,
+  "sid": 266,
+  "location": 2,
+  "content": "我们是残血",
+  "music": 0.0
+ },
+ {
+  "from": 513.4,
+  "to": 513.76,
+  "sid": 267,
+  "location": 2,
+  "content": "不要他",
+  "music": 0.0
+ },
+ {
+  "from": 513.76,
+  "to": 514.44,
+  "sid": 268,
+  "location": 2,
+  "content": "还是那句话",
+  "music": 0.0
+ },
+ {
+  "from": 514.44,
+  "to": 515.3,
+  "sid": 269,
+  "location": 2,
+  "content": "保活找机会",
+  "music": 0.0
+ },
+ {
+  "from": 515.3,
+  "to": 516.4,
+  "sid": 270,
+  "location": 2,
+  "content": "又过去站着了",
+  "music": 0.0
+ },
+ {
+  "from": 516.4,
+  "to": 517.68,
+  "sid": 271,
+  "location": 2,
+  "content": "你看下",
+  "music": 0.0
+ },
+ {
+  "from": 521.24,
+  "to": 522.74,
+  "sid": 272,
+  "location": 2,
+  "content": "剩余30秒",
+  "music": 0.0
+ },
+ {
+  "from": 522.74,
+  "to": 524.72,
+  "sid": 273,
+  "location": 2,
+  "content": "我方还剩一人",
+  "music": 0.0
+ },
+ {
+  "from": 524.72,
+  "to": 529.05,
+  "sid": 274,
+  "location": 2,
+  "content": "暴龙气落在B区位置暴露",
+  "music": 0.0
+ },
+ {
+  "from": 529.05,
+  "to": 530.819,
+  "sid": 275,
+  "location": 2,
+  "content": "继续换位寻找机会",
+  "music": 0.0
+ },
+ {
+  "from": 530.819,
+  "to": 532.019,
+  "sid": 276,
+  "location": 2,
+  "content": "这里蕾娜犯错",
+  "music": 0.0
+ },
+ {
+  "from": 532.019,
+  "to": 532.779,
+  "sid": 277,
+  "location": 2,
+  "content": "大脚步告诉我",
+  "music": 0.0
+ },
+ {
+  "from": 532.779,
+  "to": 533.459,
+  "sid": 278,
+  "location": 2,
+  "content": "他在架二楼",
+  "music": 0.0
+ },
+ {
+  "from": 533.459,
+  "to": 535.159,
+  "sid": 279,
+  "location": 2,
+  "content": "我们抓住机会预瞄打掉",
+  "music": 0.0
+ },
+ {
+  "from": 535.159,
+  "to": 536.019,
+  "sid": 280,
+  "location": 2,
+  "content": "留个锚点",
+  "music": 0.0
+ },
+ {
+  "from": 536.019,
+  "to": 536.859,
+  "sid": 281,
+  "location": 2,
+  "content": "在二楼下完包",
+  "music": 0.0
+ },
+ {
+  "from": 536.859,
+  "to": 539.35,
+  "sid": 282,
+  "location": 2,
+  "content": "可以直接开大上来拿信息",
+  "music": 0.0
+ },
+ {
+  "from": 541.38,
+  "to": 547.98,
+  "sid": 283,
+  "location": 2,
+  "content": "剩余十秒还在下一步交给我",
+  "music": 0.0
+ },
+ {
+  "from": 554.96,
+  "to": 556.08,
+  "sid": 284,
+  "location": 2,
+  "content": "二楼解除大招",
+  "music": 0.0
+ },
+ {
+  "from": 556.08,
+  "to": 556.72,
+  "sid": 285,
+  "location": 2,
+  "content": "再跳下去",
+  "music": 0.0
+ },
+ {
+  "from": 556.72,
+  "to": 558.32,
+  "sid": 286,
+  "location": 2,
+  "content": "换位迷惑对手",
+  "music": 0.12121211202944286
+ },
+ {
+  "from": 559.65,
+  "to": 560.57,
+  "sid": 287,
+  "location": 2,
+  "content": "我们是残血",
+  "music": 0.0
+ },
+ {
+  "from": 560.57,
+  "to": 561.73,
+  "sid": 288,
+  "location": 2,
+  "content": "就不要去科厢静音",
+  "music": 0.0
+ },
+ {
+  "from": 561.73,
+  "to": 562.77,
+  "sid": 289,
+  "location": 2,
+  "content": "在包点跟对方前",
+  "music": 0.0
+ },
+ {
+  "from": 562.77,
+  "to": 565.01,
+  "sid": 290,
+  "location": 2,
+  "content": "王绕柱是更好的选择",
+  "music": 0.0
+ },
+ {
+  "from": 568.18,
+  "to": 569.66,
+  "sid": 291,
+  "location": 2,
+  "content": "这么久还没来二楼下",
+  "music": 0.0
+ },
+ {
+  "from": 569.66,
+  "to": 570.98,
+  "sid": 292,
+  "location": 2,
+  "content": "那么大概率是绕另一边",
+  "music": 0.0
+ },
+ {
+  "from": 570.98,
+  "to": 574.42,
+  "sid": 293,
+  "location": 2,
+  "content": "所以我们直接去二楼下继续捞低包",
+  "music": 0.0
+ },
+ {
+  "from": 574.42,
+  "to": 574.86,
+  "sid": 294,
+  "location": 2,
+  "content": "不用急",
+  "music": 0.0
+ },
+ {
+  "from": 574.86,
+  "to": 575.58,
+  "sid": 295,
+  "location": 2,
+  "content": "拆包要七秒",
+  "music": 0.0
+ },
+ {
+  "from": 575.58,
+  "to": 576.34,
+  "sid": 296,
+  "location": 2,
+  "content": "我们做好瞄准",
+  "music": 0.0
+ },
+ {
+  "from": 576.34,
+  "to": 578.06,
+  "sid": 297,
+  "location": 2,
+  "content": "慢慢推过去",
+  "music": 0.0
+ },
+ {
+  "from": 579.5,
+  "to": 580.74,
+  "sid": 298,
+  "location": 2,
+  "content": "尽量做好每个决策",
+  "music": 0.0
+ },
+ {
+  "from": 580.74,
+  "to": 581.34,
+  "sid": 299,
+  "location": 2,
+  "content": "赢下残局",
+  "music": 0.0
+ },
+ {
+  "from": 582.7,
+  "to": 586.34,
+  "sid": 300,
+  "location": 2,
+  "content": "跟神开局架缝收购路费",
+  "music": 0.0
+ },
+ {
+  "from": 586.82,
+  "to": 588.38,
+  "sid": 301,
+  "location": 2,
+  "content": "A大A大A大好多好多",
+  "music": 0.0
+ },
+ {
+  "from": 588.38,
+  "to": 589.06,
+  "sid": 302,
+  "location": 2,
+  "content": "足够自信",
+  "music": 0.0
+ },
+ {
+  "from": 589.06,
+  "to": 589.78,
+  "sid": 303,
+  "location": 2,
+  "content": "所以做好疫苗",
+  "music": 0.0
+ },
+ {
+  "from": 589.78,
+  "to": 590.5,
+  "sid": 304,
+  "location": 2,
+  "content": "慢慢往外推",
+  "music": 0.0
+ },
+ {
+  "from": 590.5,
+  "to": 592.44,
+  "sid": 305,
+  "location": 2,
+  "content": "获取更多地图控制权和信息",
+  "music": 0.0
+ },
+ {
+  "from": 592.44,
+  "to": 593.93,
+  "sid": 306,
+  "location": 2,
+  "content": "没进没进",
+  "music": 0.0
+ },
+ {
+  "from": 594.33,
+  "to": 595.57,
+  "sid": 307,
+  "location": 2,
+  "content": "下一个是谁",
+  "music": 0.0
+ },
+ {
+  "from": 595.57,
+  "to": 598.649,
+  "sid": 308,
+  "location": 2,
+  "content": "王82要烟吗",
+  "music": 0.0
+ },
+ {
+  "from": 598.649,
+  "to": 602.049,
+  "sid": 309,
+  "location": 2,
+  "content": "兄弟A小有太欧门开大",
+  "music": 0.0
+ },
+ {
+  "from": 602.049,
+  "to": 603.74,
+  "sid": 310,
+  "location": 2,
+  "content": "我们放脚步提速",
+  "music": 0.0
+ },
+ {
+  "from": 604.18,
+  "to": 605.42,
+  "sid": 311,
+  "location": 2,
+  "content": "不知道去哪了啊",
+  "music": 0.0
+ },
+ {
+  "from": 605.42,
+  "to": 606.46,
+  "sid": 312,
+  "location": 2,
+  "content": "取消了取消了取消了",
+  "music": 0.0
+ },
+ {
+  "from": 609.06,
+  "to": 611.47,
+  "sid": 313,
+  "location": 2,
+  "content": "A小提的听见中原保安摄像头",
+  "music": 0.0
+ },
+ {
+  "from": 611.47,
+  "to": 612.27,
+  "sid": 314,
+  "location": 2,
+  "content": "我们保持神秘",
+  "music": 0.0
+ },
+ {
+  "from": 612.27,
+  "to": 613.59,
+  "sid": 315,
+  "location": 2,
+  "content": "继续拿信息回我",
+  "music": 0.0
+ },
+ {
+  "from": 613.59,
+  "to": 615.48,
+  "sid": 316,
+  "location": 2,
+  "content": "有枪的走了走了",
+  "music": 0.0
+ },
+ {
+  "from": 615.48,
+  "to": 617.9,
+  "sid": 317,
+  "location": 2,
+  "content": "虽然我们开局高风险的选择了前压",
+  "music": 0.0
+ },
+ {
+  "from": 617.9,
+  "to": 620.46,
+  "sid": 318,
+  "location": 2,
+  "content": "但是现在就是我们高回报的时刻",
+  "music": 0.0
+ },
+ {
+  "from": 620.46,
+  "to": 621.74,
+  "sid": 319,
+  "location": 2,
+  "content": "我们有了全图信息",
+  "music": 0.0
+ },
+ {
+  "from": 621.74,
+  "to": 622.66,
+  "sid": 320,
+  "location": 2,
+  "content": "加上还能打对方",
+  "music": 0.0
+ },
+ {
+  "from": 622.66,
+  "to": 623.3,
+  "sid": 321,
+  "location": 2,
+  "content": "出其不意",
+  "music": 0.0
+ },
+ {
+  "from": 624.5,
+  "to": 625.82,
+  "sid": 322,
+  "location": 2,
+  "content": "暴龙气落在B区",
+  "music": 0.0
+ },
+ {
+  "from": 625.82,
+  "to": 627.16,
+  "sid": 323,
+  "location": 2,
+  "content": "蒙蔽他们",
+  "music": 0.0
+ },
+ {
+  "from": 627.16,
+  "to": 628.88,
+  "sid": 324,
+  "location": 2,
+  "content": "蒙蔽他们",
+  "music": 0.0
+ },
+ {
+  "from": 629.2,
+  "to": 632.24,
+  "sid": 325,
+  "location": 2,
+  "content": "追一点上来人就等解除的前一秒往反方向移动",
+  "music": 0.0
+ },
+ {
+  "from": 632.24,
+  "to": 633.58,
+  "sid": 326,
+  "location": 2,
+  "content": "增加对方瞄准难度",
+  "music": 0.0
+ },
+ {
+  "from": 633.58,
+  "to": 635.24,
+  "sid": 327,
+  "location": 2,
+  "content": "存储信息加上在线的枪法",
+  "music": 0.0
+ },
+ {
+  "from": 635.24,
+  "to": 636.88,
+  "sid": 328,
+  "location": 2,
+  "content": "不知道这回合怎么输",
+  "music": 0.0
+ },
+ {
+  "from": 636.88,
+  "to": 639.16,
+  "sid": 329,
+  "location": 2,
+  "content": "依旧是神经学士了哎",
+  "music": 0.0
+ },
+ {
+  "from": 639.16,
+  "to": 642.98,
+  "sid": 330,
+  "location": 2,
+  "content": "抄了抄下来了哎",
+  "music": 0.0
+ },
+ {
+  "from": 644.8,
+  "to": 645.36,
+  "sid": 331,
+  "location": 2,
+  "content": "1v2",
+  "music": 0.0
+ },
+ {
+  "from": 645.36,
+  "to": 645.8,
+  "sid": 332,
+  "location": 2,
+  "content": "一个包点",
+  "music": 0.0
+ },
+ {
+  "from": 645.8,
+  "to": 646.28,
+  "sid": 333,
+  "location": 2,
+  "content": "一个二楼",
+  "music": 0.0
+ },
+ {
+  "from": 646.28,
+  "to": 646.84,
+  "sid": 334,
+  "location": 2,
+  "content": "想赢",
+  "music": 0.0
+ },
+ {
+  "from": 646.84,
+  "to": 648.7,
+  "sid": 335,
+  "location": 2,
+  "content": "首先得解决当前的局面",
+  "music": 0.0
+ },
+ {
+  "from": 648.7,
+  "to": 649.68,
+  "sid": 336,
+  "location": 2,
+  "content": "前方在换弹",
+  "music": 0.0
+ },
+ {
+  "from": 649.68,
+  "to": 650.64,
+  "sid": 337,
+  "location": 2,
+  "content": "此时你也没有子弹",
+  "music": 0.0
+ },
+ {
+  "from": 650.64,
+  "to": 652.56,
+  "sid": 338,
+  "location": 2,
+  "content": "你会做出什么决策",
+  "music": 0.0
+ },
+ {
+  "from": 653.9,
+  "to": 655.94,
+  "sid": 339,
+  "location": 2,
+  "content": "还剩一人",
+  "music": 0.0
+ },
+ {
+  "from": 657.6,
+  "to": 659.22,
+  "sid": 340,
+  "location": 2,
+  "content": "还剩一名敌人",
+  "music": 0.0
+ },
+ {
+  "from": 659.22,
+  "to": 661.6,
+  "sid": 341,
+  "location": 2,
+  "content": "残的残的",
+  "music": 0.0
+ },
+ {
+  "from": 666.369,
+  "to": 667.289,
+  "sid": 342,
+  "location": 2,
+  "content": "还是那句话",
+  "music": 0.0
+ },
+ {
+  "from": 667.289,
+  "to": 667.969,
+  "sid": 343,
+  "location": 2,
+  "content": "想赢残局",
+  "music": 0.0
+ },
+ {
+  "from": 667.969,
+  "to": 670.089,
+  "sid": 344,
+  "location": 2,
+  "content": "你就得站在第二层或者两层网上",
+  "music": 0.0
+ },
+ {
+  "from": 670.089,
+  "to": 670.929,
+  "sid": 345,
+  "location": 2,
+  "content": "对于我来说",
+  "music": 0.0
+ },
+ {
+  "from": 670.929,
+  "to": 672.369,
+  "sid": 346,
+  "location": 2,
+  "content": "比起当下换弹暴露位置",
+  "music": 0.0
+ },
+ {
+  "from": 672.369,
+  "to": 675.51,
+  "sid": 347,
+  "location": 2,
+  "content": "然后跟前锋1V1不如利用捷风换弹的timing",
+  "music": 0.0
+ },
+ {
+  "from": 675.51,
+  "to": 676.95,
+  "sid": 348,
+  "location": 2,
+  "content": "从而去换一个更神秘的选位",
+  "music": 0.0
+ },
+ {
+  "from": 676.95,
+  "to": 678.63,
+  "sid": 349,
+  "location": 2,
+  "content": "从而打劫放一个出其不意",
+  "music": 0.0
+ },
+ {
+  "from": 678.63,
+  "to": 680.55,
+  "sid": 350,
+  "location": 2,
+  "content": "还剩一人",
+  "music": 0.0
+ },
+ {
+  "from": 682.34,
+  "to": 684.01,
+  "sid": 351,
+  "location": 2,
+  "content": "还剩一名敌人",
+  "music": 0.0
+ },
+ {
+  "from": 684.01,
+  "to": 685.01,
+  "sid": 352,
+  "location": 2,
+  "content": "残了残了",
+  "music": 0.0
+ },
+ {
+  "from": 685.01,
+  "to": 685.89,
+  "sid": 353,
+  "location": 2,
+  "content": "我们打完解封",
+  "music": 0.0
+ },
+ {
+  "from": 685.89,
+  "to": 688.01,
+  "sid": 354,
+  "location": 2,
+  "content": "故意给一个往暴走的脚步给一觉听",
+  "music": 0.0
+ },
+ {
+  "from": 688.01,
+  "to": 688.81,
+  "sid": 355,
+  "location": 2,
+  "content": "迫于压力",
+  "music": 0.0
+ },
+ {
+  "from": 688.81,
+  "to": 690.99,
+  "sid": 356,
+  "location": 2,
+  "content": "大部分人会选择停下拆包来架枪",
+  "music": 0.0
+ },
+ {
+  "from": 690.99,
+  "to": 692.97,
+  "sid": 357,
+  "location": 2,
+  "content": "只有高手会真拆",
+  "music": 0.0
+ },
+ {
+  "from": 698.54,
+  "to": 699.5,
+  "sid": 358,
+  "location": 2,
+  "content": "手枪局输了",
+  "music": 0.0
+ },
+ {
+  "from": 699.5,
+  "to": 701.9,
+  "sid": 359,
+  "location": 2,
+  "content": "我们强行莽侠打对方出其不意",
+  "music": 0.0
+ },
+ {
+  "from": 701.9,
+  "to": 704.1,
+  "sid": 360,
+  "location": 2,
+  "content": "既然我们选择了强行莽侠",
+  "music": 0.0
+ },
+ {
+  "from": 704.1,
+  "to": 705.86,
+  "sid": 361,
+  "location": 2,
+  "content": "那我们就要勇于抓住机会",
+  "music": 0.0
+ },
+ {
+  "from": 707.66,
+  "to": 708.38,
+  "sid": 362,
+  "location": 2,
+  "content": "封一颗隔断",
+  "music": 0.0
+ },
+ {
+  "from": 708.38,
+  "to": 710.38,
+  "sid": 363,
+  "location": 2,
+  "content": "帮助队友升级枪械",
+  "music": 0.0
+ },
+ {
+  "from": 712.12,
+  "to": 713.92,
+  "sid": 364,
+  "location": 2,
+  "content": "火球对面聊全子弹不多",
+  "music": 0.0
+ },
+ {
+  "from": 713.92,
+  "to": 714.8,
+  "sid": 365,
+  "location": 2,
+  "content": "加上我们是莽侠",
+  "music": 0.0
+ },
+ {
+  "from": 714.8,
+  "to": 715.74,
+  "sid": 366,
+  "location": 2,
+  "content": "还是那句话",
+  "music": 0.0
+ },
+ {
+  "from": 715.74,
+  "to": 716.88,
+  "sid": 367,
+  "location": 2,
+  "content": "既然冒险强行",
+  "music": 0.0
+ },
+ {
+  "from": 716.88,
+  "to": 718.96,
+  "sid": 368,
+  "location": 2,
+  "content": "那就要勇于去抓机会",
+  "music": 0.0
+ },
+ {
+  "from": 721.44,
+  "to": 723.28,
+  "sid": 369,
+  "location": 2,
+  "content": "禁止螺旋子弹不多",
+  "music": 0.0
+ },
+ {
+  "from": 723.28,
+  "to": 725.88,
+  "sid": 370,
+  "location": 2,
+  "content": "这个距离标配的三连发足以打死对面",
+  "music": 0.0
+ },
+ {
+  "from": 725.88,
+  "to": 727.12,
+  "sid": 371,
+  "location": 2,
+  "content": "还能抓一个对手",
+  "music": 0.0
+ },
+ {
+  "from": 727.12,
+  "to": 728.28,
+  "sid": 372,
+  "location": 2,
+  "content": "封烟有安全的胎命",
+  "music": 0.0
+ },
+ {
+  "from": 728.28,
+  "to": 730.369,
+  "sid": 373,
+  "location": 2,
+  "content": "所以我们继续往前推进",
+  "music": 0.0
+ },
+ {
+  "from": 737.1,
+  "to": 739.38,
+  "sid": 374,
+  "location": 2,
+  "content": "过来我把二楼墙封了",
+  "music": 0.0
+ },
+ {
+  "from": 739.38,
+  "to": 743.1,
+  "sid": 375,
+  "location": 2,
+  "content": "我方地图准备消灭了",
+  "music": 0.0
+ },
+ {
+  "from": 743.959,
+  "to": 745.359,
+  "sid": 376,
+  "location": 2,
+  "content": "对面被镇以为稳杀",
+  "music": 0.0
+ },
+ {
+  "from": 745.359,
+  "to": 748.279,
+  "sid": 377,
+  "location": 2,
+  "content": "想去捡包什么",
+  "music": 0.0
+ },
+ {
+  "from": 750.22,
+  "to": 751.96,
+  "sid": 378,
+  "location": 2,
+  "content": "解决四个",
+  "music": 0.0
+ },
+ {
+  "from": 751.96,
+  "to": 752.86,
+  "sid": 379,
+  "location": 2,
+  "content": "因为这个一绝",
+  "music": 0.0
+ },
+ {
+  "from": 752.86,
+  "to": 754.42,
+  "sid": 380,
+  "location": 2,
+  "content": "从而耽误了下包的时间",
+  "music": 0.0
+ },
+ {
+  "from": 754.42,
+  "to": 756.06,
+  "sid": 381,
+  "location": 2,
+  "content": "对面回防差不多快到了",
+  "music": 0.0
+ },
+ {
+  "from": 756.06,
+  "to": 758.34,
+  "sid": 382,
+  "location": 2,
+  "content": "所以我们选择假地骗对面",
+  "music": 0.0
+ },
+ {
+  "from": 759.42,
+  "to": 761.1,
+  "sid": 383,
+  "location": 2,
+  "content": "此时的答案已经很清晰了",
+  "music": 0.0
+ },
+ {
+  "from": 761.1,
+  "to": 763.18,
+  "sid": 384,
+  "location": 2,
+  "content": "很大概率是在二楼",
+  "music": 0.0
+ },
+ {
+  "from": 765.2,
+  "to": 766.58,
+  "sid": 385,
+  "location": 2,
+  "content": "畏惧我吧",
+  "music": 0.0
+ },
+ {
+  "from": 766.58,
+  "to": 768.31,
+  "sid": 386,
+  "location": 2,
+  "content": "凡人",
+  "music": 0.0
+ },
+ {
+  "from": 769.51,
+  "to": 770.99,
+  "sid": 387,
+  "location": 2,
+  "content": "别挡我的路",
+  "music": 0.0
+ },
+ {
+  "from": 770.99,
+  "to": 771.99,
+  "sid": 388,
+  "location": 2,
+  "content": "队友爆一多",
+  "music": 0.0
+ },
+ {
+  "from": 771.99,
+  "to": 774.71,
+  "sid": 389,
+  "location": 2,
+  "content": "我们及时给烟",
+  "music": 0.0
+ },
+ {
+  "from": 778.79,
+  "to": 781.19,
+  "sid": 390,
+  "location": 2,
+  "content": "B站还有人帮一下一炸",
+  "music": 0.0
+ },
+ {
+  "from": 781.61,
+  "to": 782.49,
+  "sid": 391,
+  "location": 2,
+  "content": "被队友坑了",
+  "music": 0.0
+ },
+ {
+  "from": 782.49,
+  "to": 784.35,
+  "sid": 392,
+  "location": 2,
+  "content": "对面是打B的",
+  "music": 0.0
+ },
+ {
+  "from": 784.35,
+  "to": 786.37,
+  "sid": 393,
+  "location": 2,
+  "content": "此时队友回防BB小友兰博",
+  "music": 0.0
+ },
+ {
+  "from": 786.37,
+  "to": 789.03,
+  "sid": 394,
+  "location": 2,
+  "content": "我们A小如果守后点一致获取信息太晚",
+  "music": 0.0
+ },
+ {
+  "from": 789.03,
+  "to": 791.27,
+  "sid": 395,
+  "location": 2,
+  "content": "知道对面打A队友也来不及回防",
+  "music": 0.0
+ },
+ {
+  "from": 791.27,
+  "to": 792.87,
+  "sid": 396,
+  "location": 2,
+  "content": "而是后点太容易被预瞄",
+  "music": 0.0
+ },
+ {
+  "from": 792.87,
+  "to": 795.87,
+  "sid": 397,
+  "location": 2,
+  "content": "因为对面大部队在B大中路大概率只有一个单",
+  "music": 0.0
+ },
+ {
+  "from": 795.87,
+  "to": 796.69,
+  "sid": 398,
+  "location": 2,
+  "content": "摸齐了",
+  "music": 0.0
+ },
+ {
+  "from": 796.69,
+  "to": 798.45,
+  "sid": 399,
+  "location": 2,
+  "content": "所以我们选择前压去CB位",
+  "music": 0.0
+ },
+ {
+  "from": 798.45,
+  "to": 800.69,
+  "sid": 400,
+  "location": 2,
+  "content": "提高一V1的对枪胜率",
+  "music": 0.0
+ },
+ {
+  "from": 802.16,
+  "to": 804.56,
+  "sid": 401,
+  "location": 2,
+  "content": "听见机师叫我们立刻做出决策",
+  "music": 0.0
+ },
+ {
+  "from": 804.56,
+  "to": 807.18,
+  "sid": 402,
+  "location": 2,
+  "content": "要出去去",
+  "music": 0.0
+ },
+ {
+  "from": 807.18,
+  "to": 809.56,
+  "sid": 403,
+  "location": 2,
+  "content": "他们家听见了对面正点的脚步",
+  "music": 0.0
+ },
+ {
+  "from": 809.56,
+  "to": 810.44,
+  "sid": 404,
+  "location": 2,
+  "content": "因为选择了前压",
+  "music": 0.0
+ },
+ {
+  "from": 810.44,
+  "to": 812.25,
+  "sid": 405,
+  "location": 2,
+  "content": "所以我们才抓住了这些机会",
+  "music": 0.0
+ },
+ {
+  "from": 812.25,
+  "to": 813.85,
+  "sid": 406,
+  "location": 2,
+  "content": "这就是高风险高回报",
+  "music": 0.0
+ },
+ {
+  "from": 813.85,
+  "to": 815.33,
+  "sid": 407,
+  "location": 2,
+  "content": "这只是我的个人打法风格",
+  "music": 0.0
+ },
+ {
+  "from": 815.33,
+  "to": 817.39,
+  "sid": 408,
+  "location": 2,
+  "content": "大家也可以选择稳着打",
+  "music": 0.0
+ },
+ {
+  "from": 817.99,
+  "to": 821.83,
+  "sid": 409,
+  "location": 2,
+  "content": "下一个剩一名敌人A大A在这一把我们没钱",
+  "music": 0.0
+ },
+ {
+  "from": 821.83,
+  "to": 824.07,
+  "sid": 410,
+  "location": 2,
+  "content": "对面选择拉萨霓虹金",
+  "music": 0.0
+ },
+ {
+  "from": 824.07,
+  "to": 825.15,
+  "sid": 411,
+  "location": 2,
+  "content": "这张图防守1co",
+  "music": 0.0
+ },
+ {
+  "from": 825.15,
+  "to": 825.67,
+  "sid": 412,
+  "location": 2,
+  "content": "比起左轮",
+  "music": 0.0
+ },
+ {
+  "from": 825.67,
+  "to": 828.71,
+  "sid": 413,
+  "location": 2,
+  "content": "我更喜欢起喷子投放烟幕",
+  "music": 0.0
+ },
+ {
+  "from": 828.71,
+  "to": 829.61,
+  "sid": 414,
+  "location": 2,
+  "content": "听到脚步",
+  "music": 0.0
+ },
+ {
+  "from": 829.61,
+  "to": 830.13,
+  "sid": 415,
+  "location": 2,
+  "content": "二楼盖烟",
+  "music": 0.0
+ },
+ {
+  "from": 830.13,
+  "to": 831.93,
+  "sid": 416,
+  "location": 2,
+  "content": "我们直接钻烟",
+  "music": 0.0
+ },
+ {
+  "from": 833.12,
+  "to": 834.44,
+  "sid": 417,
+  "location": 2,
+  "content": "听到对面一直混烟",
+  "music": 0.0
+ },
+ {
+  "from": 834.44,
+  "to": 836.74,
+  "sid": 418,
+  "location": 2,
+  "content": "我们就要选择去抓对面换弹的拍面",
+  "music": 0.0
+ },
+ {
+  "from": 836.74,
+  "to": 839.829,
+  "sid": 419,
+  "location": 2,
+  "content": "而不是继续傻傻的等着对面禁烟送",
+  "music": 0.0
+ },
+ {
+  "from": 839.829,
+  "to": 841.309,
+  "sid": 420,
+  "location": 2,
+  "content": "我就没总结来说",
+  "music": 0.0
+ },
+ {
+  "from": 841.309,
+  "to": 843.229,
+  "sid": 421,
+  "location": 2,
+  "content": "一个好的角色不仅仅需要足够稳",
+  "music": 0.0
+ },
+ {
+  "from": 843.229,
+  "to": 844.17,
+  "sid": 422,
+  "location": 2,
+  "content": "足够正确",
+  "music": 0.0
+ },
+ {
+  "from": 844.17,
+  "to": 845.41,
+  "sid": 423,
+  "location": 2,
+  "content": "因为临场的原因",
+  "music": 0.0
+ },
+ {
+  "from": 845.41,
+  "to": 847.15,
+  "sid": 424,
+  "location": 2,
+  "content": "你做决策的速度还要够快",
+  "music": 0.0
+ },
+ {
+  "from": 847.15,
+  "to": 848.53,
+  "sid": 425,
+  "location": 2,
+  "content": "只有打到又快又稳",
+  "music": 0.0
+ },
+ {
+  "from": 848.53,
+  "to": 849.37,
+  "sid": 426,
+  "location": 2,
+  "content": "这才是好的决策",
+  "music": 0.0
+ },
+ {
+  "from": 849.37,
+  "to": 851.78,
+  "sid": 427,
+  "location": 2,
+  "content": "你的回合胜率也会大大提高",
+  "music": 0.0
+ },
+ {
+  "from": 852.14,
+  "to": 854.18,
+  "sid": 428,
+  "location": 2,
+  "content": "最后给大家再分享一个SHAB位置",
+  "music": 0.0
+ },
+ {
+  "from": 854.18,
+  "to": 855.92,
+  "sid": 429,
+  "location": 2,
+  "content": "但也是高风险高回报",
+  "music": 0.0
+ },
+ {
+  "from": 855.92,
+  "to": 858.54,
+  "sid": 430,
+  "location": 2,
+  "content": "记住站这个位置就不要给车库的半线了",
+  "music": 0.0
+ },
+ {
+  "from": 858.54,
+  "to": 861.41,
+  "sid": 431,
+  "location": 2,
+  "content": "因为对面打半线的时候容易把你搜出来",
+  "music": 0.0
+ },
+ {
+  "from": 868.72,
+  "to": 870.06,
+  "sid": 432,
+  "location": 2,
+  "content": "别显摆了",
+  "music": 0.0
+ },
+ {
+  "from": 870.06,
+  "to": 872.24,
+  "sid": 433,
+  "location": 2,
+  "content": "我少了一个眼线好了",
+  "music": 0.0
+ },
+ {
+  "from": 872.24,
+  "to": 873.98,
+  "sid": 434,
+  "location": 2,
+  "content": "本期教学到这就结束了",
+  "music": 0.0
+ },
+ {
+  "from": 873.98,
+  "to": 874.98,
+  "sid": 435,
+  "location": 2,
+  "content": "感谢大家的观看",
+  "music": 0.0
+ },
+ {
+  "from": 874.98,
+  "to": 875.82,
+  "sid": 436,
+  "location": 2,
+  "content": "我们下期再见吧",
+  "music": 0.0
+ },
+ {
+  "from": 875.82,
+  "to": 878.58,
+  "sid": 437,
+  "location": 2,
+  "content": "B区还剩一名敌人",
+  "music": 0.0
+ }
+]
