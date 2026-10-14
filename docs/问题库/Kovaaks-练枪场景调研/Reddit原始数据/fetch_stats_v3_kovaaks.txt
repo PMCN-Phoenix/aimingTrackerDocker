@@ -1,0 +1,16 @@
+Kovaaks 练枪场景调研 - Reddit 抓取统计（两轮合并）
+生成时间: 2026-10-14
+数据源: devvit-dev.log（菜单触发批量搜索 + 每帖 top5 评论）
+主题: 5 个练枪场景问题（XY Tracking Dodge / Pasu Track Dodge / PSGS 急停 / 移动定位 / Mirror-AntiMirror）
+覆盖 subreddit: r/FPSAimTrainer / r/KovaaKs / r/Voltaic / r/VALORANT
+
+去重帖子数: 187
+评论总数: 855
+带评论的帖子数: 185
+每帖平均评论(仅带评论帖): 4.62
+
+注意: 第一轮带引号关键词（如 "Pasu Track Dodge"）在 Devvit searchPosts 下返回 0 结果（2026-10-14 实测），
+      第二轮已去引号补抓，本文件为两轮合并去重后结果。
+
+帖子字段: id/title/author/score/comments/permalink/url/createdAt/body(2500字截断)
+评论字段: postId/id/author/score/createdAt/body(300字预览)
