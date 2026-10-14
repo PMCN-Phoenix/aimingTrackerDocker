@@ -1,0 +1,5106 @@
+[
+ {
+  "from": 0.12,
+  "to": 0.3,
+  "sid": 1,
+  "location": 2,
+  "content": "Hello",
+  "music": 0.0
+ },
+ {
+  "from": 0.3,
+  "to": 0.48,
+  "sid": 2,
+  "location": 2,
+  "content": "大家好",
+  "music": 0.0
+ },
+ {
+  "from": 0.48,
+  "to": 1.38,
+  "sid": 3,
+  "location": 2,
+  "content": "我是莲子啊",
+  "music": 0.0
+ },
+ {
+  "from": 1.38,
+  "to": 3.6,
+  "sid": 4,
+  "location": 2,
+  "content": "然后今天给大家带来一期JETT视频",
+  "music": 0.0
+ },
+ {
+  "from": 3.6,
+  "to": 5.22,
+  "sid": 5,
+  "location": 2,
+  "content": "特工的全地图",
+  "music": 0.0
+ },
+ {
+  "from": 5.22,
+  "to": 7.35,
+  "sid": 6,
+  "location": 2,
+  "content": "全dash的点位的教学",
+  "music": 0.0
+ },
+ {
+  "from": 7.35,
+  "to": 9.33,
+  "sid": 7,
+  "location": 2,
+  "content": "然后首先声明啊",
+  "music": 0.0
+ },
+ {
+  "from": 9.33,
+  "to": 12.959,
+  "sid": 8,
+  "location": 2,
+  "content": "不是每一种路线适用于所有情况的",
+  "music": 0.0
+ },
+ {
+  "from": 12.959,
+  "to": 15.509,
+  "sid": 9,
+  "location": 2,
+  "content": "大家在实战中要看着去选择",
+  "music": 0.0
+ },
+ {
+  "from": 15.509,
+  "to": 19.53,
+  "sid": 10,
+  "location": 2,
+  "content": "然后呢部分细节和部分点位是我自己研发的",
+  "music": 0.0
+ },
+ {
+  "from": 19.53,
+  "to": 23.58,
+  "sid": 11,
+  "location": 2,
+  "content": "大家可以在实战中根据不同的情况去使用啊",
+  "music": 0.0
+ },
+ {
+  "from": 23.58,
+  "to": 26.66,
+  "sid": 12,
+  "location": 2,
+  "content": "希望这个这个视频能给大家带来一些帮助",
+  "music": 0.0
+ },
+ {
+  "from": 26.66,
+  "to": 28.13,
+  "sid": 13,
+  "location": 2,
+  "content": "请大家一键三连",
+  "music": 0.0
+ },
+ {
+  "from": 28.13,
+  "to": 28.7,
+  "sid": 14,
+  "location": 2,
+  "content": "谢谢",
+  "music": 0.0
+ },
+ {
+  "from": 28.7,
+  "to": 32.09,
+  "sid": 15,
+  "location": 2,
+  "content": "首先第一张地图意境空岛A点",
+  "music": 0.0
+ },
+ {
+  "from": 32.09,
+  "to": 35.64,
+  "sid": 16,
+  "location": 2,
+  "content": "第一个点位把烟点在这个位置",
+  "music": 0.0
+ },
+ {
+  "from": 35.64,
+  "to": 37.98,
+  "sid": 17,
+  "location": 2,
+  "content": "然后摇头晃脑左右看",
+  "music": 0.0
+ },
+ {
+  "from": 37.98,
+  "to": 39.9,
+  "sid": 18,
+  "location": 2,
+  "content": "进来之后可以往后退",
+  "music": 0.0
+ },
+ {
+  "from": 39.9,
+  "to": 42.099,
+  "sid": 19,
+  "location": 2,
+  "content": "再回头去看小道",
+  "music": 0.0
+ },
+ {
+  "from": 42.78,
+  "to": 44.75,
+  "sid": 20,
+  "location": 2,
+  "content": "第二个点位呢就比较常规",
+  "music": 0.0
+ },
+ {
+  "from": 44.75,
+  "to": 46.97,
+  "sid": 21,
+  "location": 2,
+  "content": "是这个黑枪上点烟",
+  "music": 0.0
+ },
+ {
+  "from": 46.97,
+  "to": 48.53,
+  "sid": 22,
+  "location": 2,
+  "content": "看得长按",
+  "music": 0.0
+ },
+ {
+  "from": 48.53,
+  "to": 49.849,
+  "sid": 23,
+  "location": 2,
+  "content": "直接飞过来",
+  "music": 0.0
+ },
+ {
+  "from": 49.849,
+  "to": 53.239,
+  "sid": 24,
+  "location": 2,
+  "content": "然后呢这个位置有技能可以再点颗烟",
+  "music": 0.0
+ },
+ {
+  "from": 53.239,
+  "to": 55.12,
+  "sid": 25,
+  "location": 2,
+  "content": "往二楼去找人自爆",
+  "music": 0.0
+ },
+ {
+  "from": 55.18,
+  "to": 58.0,
+  "sid": 26,
+  "location": 2,
+  "content": "你退可以往脚下塞颗烟",
+  "music": 0.0
+ },
+ {
+  "from": 58.0,
+  "to": 60.43,
+  "sid": 27,
+  "location": 2,
+  "content": "跳下来也是找人自爆",
+  "music": 0.0
+ },
+ {
+  "from": 60.43,
+  "to": 62.5,
+  "sid": 28,
+  "location": 2,
+  "content": "一般来讲我们在进点之后",
+  "music": 0.0
+ },
+ {
+  "from": 62.5,
+  "to": 65.78,
+  "sid": 29,
+  "location": 2,
+  "content": "队友会放出信心型的一些技能",
+  "music": 0.0
+ },
+ {
+  "from": 65.78,
+  "to": 66.86,
+  "sid": 30,
+  "location": 2,
+  "content": "比如书法的进点啊",
+  "music": 0.0
+ },
+ {
+  "from": 66.86,
+  "to": 68.3,
+  "sid": 31,
+  "location": 2,
+  "content": "非得演这种东西",
+  "music": 0.0
+ },
+ {
+  "from": 68.3,
+  "to": 71.82,
+  "sid": 32,
+  "location": 2,
+  "content": "我们一般来讲可以在上面这个烟里等队友技能",
+  "music": 0.0
+ },
+ {
+  "from": 71.82,
+  "to": 72.96,
+  "sid": 33,
+  "location": 2,
+  "content": "看看能不能炸到人",
+  "music": 0.0
+ },
+ {
+  "from": 72.96,
+  "to": 75.54,
+  "sid": 34,
+  "location": 2,
+  "content": "队友的这个探照型技能和闪光弹一起出来",
+  "music": 0.0
+ },
+ {
+  "from": 75.54,
+  "to": 77.03,
+  "sid": 35,
+  "location": 2,
+  "content": "大概率还是能找到人的",
+  "music": 0.0
+ },
+ {
+  "from": 77.03,
+  "to": 79.31,
+  "sid": 36,
+  "location": 2,
+  "content": "如果你觉得自己在这上面不安全的话",
+  "music": 0.0
+ },
+ {
+  "from": 79.31,
+  "to": 80.51,
+  "sid": 37,
+  "location": 2,
+  "content": "你可以再点位",
+  "music": 0.0
+ },
+ {
+  "from": 80.51,
+  "to": 81.95,
+  "sid": 38,
+  "location": 2,
+  "content": "把自己完全藏在里面",
+  "music": 0.0
+ },
+ {
+  "from": 81.95,
+  "to": 83.16,
+  "sid": 39,
+  "location": 2,
+  "content": "当一只乌龟",
+  "music": 0.0
+ },
+ {
+  "from": 85.2,
+  "to": 87.62,
+  "sid": 40,
+  "location": 2,
+  "content": "第三个点位就有难度了",
+  "music": 0.0
+ },
+ {
+  "from": 87.62,
+  "to": 89.54,
+  "sid": 41,
+  "location": 2,
+  "content": "然后我这波操作的前提是",
+  "music": 0.0
+ },
+ {
+  "from": 89.54,
+  "to": 91.86,
+  "sid": 42,
+  "location": 2,
+  "content": "这个小道和二楼没有封上烟的",
+  "music": 0.0
+ },
+ {
+  "from": 91.86,
+  "to": 93.3,
+  "sid": 43,
+  "location": 2,
+  "content": "如果说你们在实战中",
+  "music": 0.0
+ },
+ {
+  "from": 93.3,
+  "to": 95.08,
+  "sid": 44,
+  "location": 2,
+  "content": "这个二楼和小道已经封上烟了",
+  "music": 0.0
+ },
+ {
+  "from": 95.08,
+  "to": 97.12,
+  "sid": 45,
+  "location": 2,
+  "content": "那我刚刚点的那第二颗烟雾弹",
+  "music": 0.0
+ },
+ {
+  "from": 97.12,
+  "to": 98.11,
+  "sid": 46,
+  "location": 2,
+  "content": "大家就不用点了",
+  "music": 0.0
+ },
+ {
+  "from": 98.11,
+  "to": 100.9,
+  "sid": 47,
+  "location": 2,
+  "content": "首先我们第一颗烟点在这里",
+  "music": 0.0
+ },
+ {
+  "from": 104.5,
+  "to": 108.16,
+  "sid": 48,
+  "location": 2,
+  "content": "这样走这颗烟会点在小道",
+  "music": 0.0
+ },
+ {
+  "from": 108.34,
+  "to": 111.13,
+  "sid": 49,
+  "location": 2,
+  "content": "如果说我们这个小道和二楼没有烟的话",
+  "music": 0.0
+ },
+ {
+  "from": 111.13,
+  "to": 111.76,
+  "sid": 50,
+  "location": 2,
+  "content": "有烟的话",
+  "music": 0.0
+ },
+ {
+  "from": 111.76,
+  "to": 113.2,
+  "sid": 51,
+  "location": 2,
+  "content": "大家可以忽视我那个烟",
+  "music": 0.0
+ },
+ {
+  "from": 113.2,
+  "to": 115.45,
+  "sid": 52,
+  "location": 2,
+  "content": "就是你在飞行的过程中看也没有人嘛",
+  "music": 0.0
+ },
+ {
+  "from": 115.45,
+  "to": 116.92,
+  "sid": 53,
+  "location": 2,
+  "content": "有人就再点一颗烟",
+  "music": 0.0
+ },
+ {
+  "from": 116.92,
+  "to": 117.28,
+  "sid": 54,
+  "location": 2,
+  "content": "没有人",
+  "music": 0.0
+ },
+ {
+  "from": 117.28,
+  "to": 119.61,
+  "sid": 55,
+  "location": 2,
+  "content": "我们就把刚把刚刚那个第二颗烟给忽视了",
+  "music": 0.0
+ },
+ {
+  "from": 119.61,
+  "to": 123.89,
+  "sid": 56,
+  "location": 2,
+  "content": "然后我们直接去这个很强的进点往里过",
+  "music": 0.0
+ },
+ {
+  "from": 123.89,
+  "to": 127.04,
+  "sid": 57,
+  "location": 2,
+  "content": "难点就在于你dash的时候",
+  "music": 0.0
+ },
+ {
+  "from": 127.04,
+  "to": 128.0,
+  "sid": 58,
+  "location": 2,
+  "content": "你要左边看一眼",
+  "music": 0.0
+ },
+ {
+  "from": 128.0,
+  "to": 128.78,
+  "sid": 59,
+  "location": 2,
+  "content": "右边看一眼",
+  "music": 0.0
+ },
+ {
+  "from": 128.78,
+  "to": 130.82,
+  "sid": 60,
+  "location": 2,
+  "content": "把进点清一清啊",
+  "music": 0.0
+ },
+ {
+  "from": 130.82,
+  "to": 133.42,
+  "sid": 61,
+  "location": 2,
+  "content": "如果说你们家已经有那种技能型道具",
+  "music": 0.0
+ },
+ {
+  "from": 133.42,
+  "to": 134.86,
+  "sid": 62,
+  "location": 2,
+  "content": "提前把这个点清掉了",
+  "music": 0.0
+ },
+ {
+  "from": 134.86,
+  "to": 136.06,
+  "sid": 63,
+  "location": 2,
+  "content": "那就当我没说",
+  "music": 0.0
+ },
+ {
+  "from": 136.06,
+  "to": 138.46,
+  "sid": 64,
+  "location": 2,
+  "content": "那么我们就来到空岛的B点",
+  "music": 0.0
+ },
+ {
+  "from": 138.46,
+  "to": 141.0,
+  "sid": 65,
+  "location": 2,
+  "content": "首先第一个最基础的开关位",
+  "music": 0.0
+ },
+ {
+  "from": 141.0,
+  "to": 142.26,
+  "sid": 66,
+  "location": 2,
+  "content": "我们直接点燃",
+  "music": 0.0
+ },
+ {
+  "from": 142.26,
+  "to": 144.64,
+  "sid": 67,
+  "location": 2,
+  "content": "同样也要左右扭头看",
+  "music": 0.0
+ },
+ {
+  "from": 144.64,
+  "to": 147.58,
+  "sid": 68,
+  "location": 2,
+  "content": "开完之后门一关任务完成",
+  "music": 0.0
+ },
+ {
+  "from": 148.8,
+  "to": 151.37,
+  "sid": 69,
+  "location": 2,
+  "content": "因为正常这个两边都是有烟的嘛",
+  "music": 0.0
+ },
+ {
+  "from": 151.37,
+  "to": 155.6,
+  "sid": 70,
+  "location": 2,
+  "content": "这个ct和这个market第二种也不难",
+  "music": 0.0
+ },
+ {
+  "from": 155.6,
+  "to": 157.1,
+  "sid": 71,
+  "location": 2,
+  "content": "也相对来说比较简单",
+  "music": 0.0
+ },
+ {
+  "from": 157.1,
+  "to": 159.95,
+  "sid": 72,
+  "location": 2,
+  "content": "就是在名字的中转点一颗烟往点里飞",
+  "music": 0.0
+ },
+ {
+  "from": 159.95,
+  "to": 164.84,
+  "sid": 73,
+  "location": 2,
+  "content": "我们开主播给烟空格加Q直接飞进点内",
+  "music": 0.0
+ },
+ {
+  "from": 165.019,
+  "to": 167.899,
+  "sid": 74,
+  "location": 2,
+  "content": "当然这一套你要搭配队友的闪光一起进",
+  "music": 0.0
+ },
+ {
+  "from": 167.899,
+  "to": 169.309,
+  "sid": 75,
+  "location": 2,
+  "content": "你不要干不拉几的",
+  "music": 0.0
+ },
+ {
+  "from": 169.309,
+  "to": 170.299,
+  "sid": 76,
+  "location": 2,
+  "content": "自己往里面进",
+  "music": 0.0
+ },
+ {
+  "from": 170.299,
+  "to": 174.04,
+  "sid": 77,
+  "location": 2,
+  "content": "就容易变成送人头的一天天降礼物",
+  "music": 0.0
+ },
+ {
+  "from": 174.04,
+  "to": 176.71,
+  "sid": 78,
+  "location": 2,
+  "content": "说我们一口说费克杰特过来送把枪",
+  "music": 0.0
+ },
+ {
+  "from": 176.71,
+  "to": 178.03,
+  "sid": 79,
+  "location": 2,
+  "content": "哎那就有意思了",
+  "music": 0.0
+ },
+ {
+  "from": 178.03,
+  "to": 180.22,
+  "sid": 80,
+  "location": 2,
+  "content": "第三种常见于ECO局",
+  "music": 0.0
+ },
+ {
+  "from": 180.22,
+  "to": 182.05,
+  "sid": 81,
+  "location": 2,
+  "content": "你看看我现在是没钱的",
+  "music": 0.0
+ },
+ {
+  "from": 182.05,
+  "to": 183.1,
+  "sid": 82,
+  "location": 2,
+  "content": "我就一把短管",
+  "music": 0.0
+ },
+ {
+  "from": 183.1,
+  "to": 185.58,
+  "sid": 83,
+  "location": 2,
+  "content": "然后大家看我的连贯连贯操作",
+  "music": 0.0
+ },
+ {
+  "from": 190.46,
+  "to": 193.94,
+  "sid": 84,
+  "location": 2,
+  "content": "来抓后面这个贴墙的人",
+  "music": 0.0
+ },
+ {
+  "from": 193.94,
+  "to": 195.89,
+  "sid": 85,
+  "location": 2,
+  "content": "抓到了就是牛逼啊",
+  "music": 0.0
+ },
+ {
+  "from": 195.89,
+  "to": 198.32,
+  "sid": 86,
+  "location": 2,
+  "content": "如果说对方在船坞里面",
+  "music": 0.0
+ },
+ {
+  "from": 198.32,
+  "to": 200.15,
+  "sid": 87,
+  "location": 2,
+  "content": "或者说在远点看着你的话",
+  "music": 0.0
+ },
+ {
+  "from": 200.15,
+  "to": 201.6,
+  "sid": 88,
+  "location": 2,
+  "content": "你飞过来的话",
+  "music": 0.0
+ },
+ {
+  "from": 203.44,
+  "to": 204.63,
+  "sid": 89,
+  "location": 2,
+  "content": "会像一个小丑",
+  "music": 0.0
+ },
+ {
+  "from": 204.63,
+  "to": 209.46,
+  "sid": 90,
+  "location": 2,
+  "content": "所以这种东西你得观察对手的习性来使用精髓",
+  "music": 0.0
+ },
+ {
+  "from": 209.46,
+  "to": 211.65,
+  "sid": 91,
+  "location": 2,
+  "content": "就是往门上点根烟",
+  "music": 0.0
+ },
+ {
+  "from": 211.65,
+  "to": 214.1,
+  "sid": 92,
+  "location": 2,
+  "content": "然后飞飞机来抓他",
+  "music": 0.0
+ },
+ {
+  "from": 214.459,
+  "to": 216.589,
+  "sid": 93,
+  "location": 2,
+  "content": "你看这颗烟点完之后",
+  "music": 0.0
+ },
+ {
+  "from": 216.589,
+  "to": 220.159,
+  "sid": 94,
+  "location": 2,
+  "content": "蹲在这个箱子边边的人什么都看不到",
+  "music": 0.0
+ },
+ {
+  "from": 220.159,
+  "to": 221.899,
+  "sid": 95,
+  "location": 2,
+  "content": "他只能看到一个杰特从天而降",
+  "music": 0.0
+ },
+ {
+  "from": 221.899,
+  "to": 223.0,
+  "sid": 96,
+  "location": 2,
+  "content": "把他喷掉了",
+  "music": 0.0
+ },
+ {
+  "from": 223.0,
+  "to": 225.04,
+  "sid": 97,
+  "location": 2,
+  "content": "第二张图莲花古城",
+  "music": 0.0
+ },
+ {
+  "from": 225.04,
+  "to": 227.54,
+  "sid": 98,
+  "location": 2,
+  "content": "首先我们走到A点",
+  "music": 0.0
+ },
+ {
+  "from": 227.54,
+  "to": 230.23,
+  "sid": 99,
+  "location": 2,
+  "content": "这个呢和其他的不太一样",
+  "music": 0.0
+ },
+ {
+  "from": 230.23,
+  "to": 231.61,
+  "sid": 100,
+  "location": 2,
+  "content": "首先烟点在这里",
+  "music": 0.0
+ },
+ {
+  "from": 231.61,
+  "to": 233.59,
+  "sid": 101,
+  "location": 2,
+  "content": "然后呢我们要用EQ",
+  "music": 0.0
+ },
+ {
+  "from": 233.59,
+  "to": 236.17,
+  "sid": 102,
+  "location": 2,
+  "content": "而不是之前常用的QE",
+  "music": 0.0
+ },
+ {
+  "from": 236.17,
+  "to": 237.81,
+  "sid": 103,
+  "location": 2,
+  "content": "你看我点烟EQ",
+  "music": 0.0
+ },
+ {
+  "from": 237.81,
+  "to": 242.82,
+  "sid": 104,
+  "location": 2,
+  "content": "你看过程中我可以看到对手的位置",
+  "music": 0.0
+ },
+ {
+  "from": 242.82,
+  "to": 245.82,
+  "sid": 105,
+  "location": 2,
+  "content": "我可以在这过程中做更多的观测",
+  "music": 0.0
+ },
+ {
+  "from": 245.82,
+  "to": 246.63,
+  "sid": 106,
+  "location": 2,
+  "content": "做EQ的话",
+  "music": 0.0
+ },
+ {
+  "from": 246.63,
+  "to": 249.0,
+  "sid": 107,
+  "location": 2,
+  "content": "因为首先我们这里有个大石柱子啊",
+  "music": 0.0
+ },
+ {
+  "from": 249.0,
+  "to": 250.74,
+  "sid": 108,
+  "location": 2,
+  "content": "我们自己本人是非常安全的",
+  "music": 0.0
+ },
+ {
+  "from": 250.74,
+  "to": 251.839,
+  "sid": 109,
+  "location": 2,
+  "content": "是不会被打到的",
+  "music": 0.0
+ },
+ {
+  "from": 251.839,
+  "to": 254.719,
+  "sid": 110,
+  "location": 2,
+  "content": "所以说用EQ可以在空中多停留一会儿",
+  "music": 0.0
+ },
+ {
+  "from": 254.719,
+  "to": 257.23,
+  "sid": 111,
+  "location": 2,
+  "content": "你看这样大家就清晰了吧",
+  "music": 0.0
+ },
+ {
+  "from": 257.23,
+  "to": 260.47,
+  "sid": 112,
+  "location": 2,
+  "content": "能多看到一点点位的这个信息",
+  "music": 0.0
+ },
+ {
+  "from": 260.47,
+  "to": 263.34,
+  "sid": 113,
+  "location": 2,
+  "content": "这是A点进攻的第一个啊",
+  "music": 0.0
+ },
+ {
+  "from": 263.34,
+  "to": 265.38,
+  "sid": 114,
+  "location": 2,
+  "content": "莲花古城是一张比较特殊的地图啊",
+  "music": 0.0
+ },
+ {
+  "from": 265.38,
+  "to": 267.54,
+  "sid": 115,
+  "location": 2,
+  "content": "A点除了进攻方有dash以外",
+  "music": 0.0
+ },
+ {
+  "from": 267.54,
+  "to": 268.74,
+  "sid": 116,
+  "location": 2,
+  "content": "防守方也是有的",
+  "music": 0.0
+ },
+ {
+  "from": 268.74,
+  "to": 269.94,
+  "sid": 117,
+  "location": 2,
+  "content": "参照物是这个黑球",
+  "music": 0.0
+ },
+ {
+  "from": 269.94,
+  "to": 271.02,
+  "sid": 118,
+  "location": 2,
+  "content": "到了黑球之后",
+  "music": 0.0
+ },
+ {
+  "from": 271.02,
+  "to": 273.65,
+  "sid": 119,
+  "location": 2,
+  "content": "我们按空格加Q同时起飞",
+  "music": 0.0
+ },
+ {
+  "from": 273.65,
+  "to": 274.82,
+  "sid": 120,
+  "location": 2,
+  "content": "在空中长按空格",
+  "music": 0.0
+ },
+ {
+  "from": 274.82,
+  "to": 277.97,
+  "sid": 121,
+  "location": 2,
+  "content": "用我们一技能往这个位置去突进就OK了",
+  "music": 0.0
+ },
+ {
+  "from": 277.97,
+  "to": 279.17,
+  "sid": 122,
+  "location": 2,
+  "content": "我们完整的演练一遍",
+  "music": 0.0
+ },
+ {
+  "from": 279.17,
+  "to": 283.02,
+  "sid": 123,
+  "location": 2,
+  "content": "先点烟空中探险信息飞飞过来",
+  "music": 0.0
+ },
+ {
+  "from": 283.02,
+  "to": 284.64,
+  "sid": 124,
+  "location": 2,
+  "content": "OK等队友的闪光爆",
+  "music": 0.0
+ },
+ {
+  "from": 284.64,
+  "to": 288.18,
+  "sid": 125,
+  "location": 2,
+  "content": "或者说信息型的道具到我们出来抓人就OK了",
+  "music": 0.0
+ },
+ {
+  "from": 288.18,
+  "to": 291.48,
+  "sid": 126,
+  "location": 2,
+  "content": "还有莲花古城A点的这个太普通的",
+  "music": 0.0
+ },
+ {
+  "from": 291.48,
+  "to": 292.14,
+  "sid": 127,
+  "location": 2,
+  "content": "我就不讲了",
+  "music": 0.0
+ },
+ {
+  "from": 292.14,
+  "to": 295.6,
+  "sid": 128,
+  "location": 2,
+  "content": "我来讲一个稍微特殊一点的回防能用得上的",
+  "music": 0.0
+ },
+ {
+  "from": 295.6,
+  "to": 297.67,
+  "sid": 129,
+  "location": 2,
+  "content": "首先我们把烟点在这个位置",
+  "music": 0.0
+ },
+ {
+  "from": 297.67,
+  "to": 300.84,
+  "sid": 130,
+  "location": 2,
+  "content": "然后直接朝向上飞就可以了",
+  "music": 0.0
+ },
+ {
+  "from": 302.58,
+  "to": 304.73,
+  "sid": 131,
+  "location": 2,
+  "content": "这个呢我们来看一下实战效果",
+  "music": 0.0
+ },
+ {
+  "from": 304.73,
+  "to": 308.93,
+  "sid": 132,
+  "location": 2,
+  "content": "蓝烟你在这里对手的视角就是这个样子的",
+  "music": 0.0
+ },
+ {
+  "from": 308.93,
+  "to": 310.7,
+  "sid": 133,
+  "location": 2,
+  "content": "在远处基本看不到",
+  "music": 0.0
+ },
+ {
+  "from": 310.7,
+  "to": 312.47,
+  "sid": 134,
+  "location": 2,
+  "content": "这个呢它是有局限性的",
+  "music": 0.0
+ },
+ {
+  "from": 312.47,
+  "to": 314.84,
+  "sid": 135,
+  "location": 2,
+  "content": "比如进点站个人有个人站在这里",
+  "music": 0.0
+ },
+ {
+  "from": 314.84,
+  "to": 316.2,
+  "sid": 136,
+  "location": 2,
+  "content": "你就不能这样飞",
+  "music": 0.0
+ },
+ {
+  "from": 316.599,
+  "to": 318.41,
+  "sid": 137,
+  "location": 2,
+  "content": "因为会被看到啊",
+  "music": 0.0
+ },
+ {
+  "from": 318.41,
+  "to": 321.65,
+  "sid": 138,
+  "location": 2,
+  "content": "当然如果对手在稍微远一点点位置",
+  "music": 0.0
+ },
+ {
+  "from": 321.65,
+  "to": 323.14,
+  "sid": 139,
+  "location": 2,
+  "content": "这个其实还是挺好用的",
+  "music": 0.0
+ },
+ {
+  "from": 323.14,
+  "to": 325.27,
+  "sid": 140,
+  "location": 2,
+  "content": "到这里基本上就看不见了",
+  "music": 0.0
+ },
+ {
+  "from": 325.27,
+  "to": 329.33,
+  "sid": 141,
+  "location": 2,
+  "content": "因为我们的终极落点会落在这个位置嗯",
+  "music": 0.0
+ },
+ {
+  "from": 329.33,
+  "to": 330.92,
+  "sid": 142,
+  "location": 2,
+  "content": "看情况使用吧",
+  "music": 0.0
+ },
+ {
+  "from": 330.92,
+  "to": 332.97,
+  "sid": 143,
+  "location": 2,
+  "content": "有的时候用一下会有奇效",
+  "music": 0.0
+ },
+ {
+  "from": 332.97,
+  "to": 335.55,
+  "sid": 144,
+  "location": 2,
+  "content": "那我们现在来讲一下这个莲花古城的B点啊",
+  "music": 0.0
+ },
+ {
+  "from": 335.55,
+  "to": 336.81,
+  "sid": 145,
+  "location": 2,
+  "content": "首先B点比较特殊",
+  "music": 0.0
+ },
+ {
+  "from": 336.81,
+  "to": 338.72,
+  "sid": 146,
+  "location": 2,
+  "content": "是第一B点进点的时候",
+  "music": 0.0
+ },
+ {
+  "from": 338.72,
+  "to": 341.51,
+  "sid": 147,
+  "location": 2,
+  "content": "不一定需要用到这个电视这个东西",
+  "music": 0.0
+ },
+ {
+  "from": 341.51,
+  "to": 343.46,
+  "sid": 148,
+  "location": 2,
+  "content": "然后点位比较固定",
+  "music": 0.0
+ },
+ {
+  "from": 343.46,
+  "to": 345.32,
+  "sid": 149,
+  "location": 2,
+  "content": "最常规的就是往面前点一颗烟",
+  "music": 0.0
+ },
+ {
+  "from": 345.32,
+  "to": 346.31,
+  "sid": 150,
+  "location": 2,
+  "content": "然后往侧面飞",
+  "music": 0.0
+ },
+ {
+  "from": 346.31,
+  "to": 347.0,
+  "sid": 151,
+  "location": 2,
+  "content": "飞完之后",
+  "music": 0.0
+ },
+ {
+  "from": 347.0,
+  "to": 351.37,
+  "sid": 152,
+  "location": 2,
+  "content": "A出去看一下有没有人或者人在哪来找一找嗯",
+  "music": 0.0
+ },
+ {
+  "from": 351.37,
+  "to": 353.05,
+  "sid": 153,
+  "location": 2,
+  "content": "我比较推荐一种打法",
+  "music": 0.0
+ },
+ {
+  "from": 353.05,
+  "to": 355.03,
+  "sid": 154,
+  "location": 2,
+  "content": "就是比如说你在一些可能",
+  "music": 0.0
+ },
+ {
+  "from": 355.03,
+  "to": 357.01,
+  "sid": 155,
+  "location": 2,
+  "content": "道具储备不是非常充裕的时候",
+  "music": 0.0
+ },
+ {
+  "from": 357.01,
+  "to": 358.62,
+  "sid": 156,
+  "location": 2,
+  "content": "或者说你没有钱啊",
+  "music": 0.0
+ },
+ {
+  "from": 358.62,
+  "to": 359.76,
+  "sid": 157,
+  "location": 2,
+  "content": "你是一个小短管",
+  "music": 0.0
+ },
+ {
+  "from": 359.76,
+  "to": 360.84,
+  "sid": 158,
+  "location": 2,
+  "content": "或者说是个小喷子的时候",
+  "music": 0.0
+ },
+ {
+  "from": 360.84,
+  "to": 361.84,
+  "sid": 159,
+  "location": 2,
+  "content": "你可以这样玩",
+  "music": 0.0
+ },
+ {
+  "from": 361.84,
+  "to": 363.04,
+  "sid": 160,
+  "location": 2,
+  "content": "首先我们开助攻",
+  "music": 0.0
+ },
+ {
+  "from": 363.04,
+  "to": 365.769,
+  "sid": 161,
+  "location": 2,
+  "content": "然后烟往墙上一点点个单向QE起来",
+  "music": 0.0
+ },
+ {
+  "from": 365.769,
+  "to": 366.519,
+  "sid": 162,
+  "location": 2,
+  "content": "控一下高度",
+  "music": 0.0
+ },
+ {
+  "from": 366.519,
+  "to": 367.149,
+  "sid": 163,
+  "location": 2,
+  "content": "往前飞",
+  "music": 0.0
+ },
+ {
+  "from": 367.149,
+  "to": 368.679,
+  "sid": 164,
+  "location": 2,
+  "content": "飞到进点之后再点一颗烟",
+  "music": 0.0
+ },
+ {
+  "from": 368.679,
+  "to": 369.009,
+  "sid": 165,
+  "location": 2,
+  "content": "火",
+  "music": 0.0
+ },
+ {
+  "from": 369.009,
+  "to": 369.969,
+  "sid": 166,
+  "location": 2,
+  "content": "人可以钻烟",
+  "music": 0.0
+ },
+ {
+  "from": 369.969,
+  "to": 371.019,
+  "sid": 167,
+  "location": 2,
+  "content": "也可以在烟边",
+  "music": 0.0
+ },
+ {
+  "from": 371.019,
+  "to": 372.489,
+  "sid": 168,
+  "location": 2,
+  "content": "我也可以从烟里面钻出去",
+  "music": 0.0
+ },
+ {
+  "from": 372.489,
+  "to": 374.16,
+  "sid": 169,
+  "location": 2,
+  "content": "跟对手自爆啊",
+  "music": 0.0
+ },
+ {
+  "from": 374.16,
+  "to": 376.93,
+  "sid": 170,
+  "location": 2,
+  "content": "这个打法是我比较推荐的",
+  "music": 0.0
+ },
+ {
+  "from": 376.93,
+  "to": 379.9,
+  "sid": 171,
+  "location": 2,
+  "content": "因为B点本来dash点位就没多少嘛",
+  "music": 0.0
+ },
+ {
+  "from": 379.9,
+  "to": 381.46,
+  "sid": 172,
+  "location": 2,
+  "content": "就给大家提供一个思路吧",
+  "music": 0.0
+ },
+ {
+  "from": 381.46,
+  "to": 382.87,
+  "sid": 173,
+  "location": 2,
+  "content": "可以像我这样飞",
+  "music": 0.0
+ },
+ {
+  "from": 382.87,
+  "to": 386.23,
+  "sid": 174,
+  "location": 2,
+  "content": "具体操作细节就是呃拐角点个烟",
+  "music": 0.0
+ },
+ {
+  "from": 386.23,
+  "to": 387.13,
+  "sid": 175,
+  "location": 2,
+  "content": "把他吸在墙上",
+  "music": 0.0
+ },
+ {
+  "from": 387.13,
+  "to": 388.9,
+  "sid": 176,
+  "location": 2,
+  "content": "你看覆盖的还是比较满的",
+  "music": 0.0
+ },
+ {
+  "from": 388.9,
+  "to": 392.08,
+  "sid": 177,
+  "location": 2,
+  "content": "然后Q技能不要按空格就直接Q飞",
+  "music": 0.0
+ },
+ {
+  "from": 392.08,
+  "to": 394.97,
+  "sid": 178,
+  "location": 2,
+  "content": "然后用空格滑翔控一下高度",
+  "music": 0.0
+ },
+ {
+  "from": 394.97,
+  "to": 396.5,
+  "sid": 179,
+  "location": 2,
+  "content": "让你飞的不那么高",
+  "music": 0.0
+ },
+ {
+  "from": 396.5,
+  "to": 400.13,
+  "sid": 180,
+  "location": 2,
+  "content": "然后飞进去大概连贯起来",
+  "music": 0.0
+ },
+ {
+  "from": 400.13,
+  "to": 405.5,
+  "sid": 181,
+  "location": 2,
+  "content": "就是这个样子往里钻再点烟",
+  "music": 0.0
+ },
+ {
+  "from": 406.04,
+  "to": 406.96,
+  "sid": 182,
+  "location": 2,
+  "content": "找人自爆",
+  "music": 0.0
+ },
+ {
+  "from": 408.1,
+  "to": 409.83,
+  "sid": 183,
+  "location": 2,
+  "content": "基本上就是这个样子了",
+  "music": 0.0
+ },
+ {
+  "from": 409.83,
+  "to": 412.11,
+  "sid": 184,
+  "location": 2,
+  "content": "那么来到莲花古城的C点",
+  "music": 0.0
+ },
+ {
+  "from": 412.11,
+  "to": 414.27,
+  "sid": 185,
+  "location": 2,
+  "content": "除了大家最常见的对方",
+  "music": 0.0
+ },
+ {
+  "from": 414.27,
+  "to": 416.79,
+  "sid": 186,
+  "location": 2,
+  "content": "往这个箱子点根烟飞过来啊",
+  "music": 0.0
+ },
+ {
+  "from": 416.79,
+  "to": 419.65,
+  "sid": 187,
+  "location": 2,
+  "content": "我这个其实飞的还不是特别完美以外",
+  "music": 0.0
+ },
+ {
+  "from": 419.65,
+  "to": 422.43,
+  "sid": 188,
+  "location": 2,
+  "content": "我推荐大家这样飞啊",
+  "music": 0.0
+ },
+ {
+  "from": 422.43,
+  "to": 423.24,
+  "sid": 189,
+  "location": 2,
+  "content": "开除风",
+  "music": 0.0
+ },
+ {
+  "from": 423.24,
+  "to": 425.58,
+  "sid": 190,
+  "location": 2,
+  "content": "我们把烟点到这个位置一样",
+  "music": 0.0
+ },
+ {
+  "from": 425.58,
+  "to": 427.17,
+  "sid": 191,
+  "location": 2,
+  "content": "Q起来控一下高度",
+  "music": 0.0
+ },
+ {
+  "from": 427.17,
+  "to": 427.92,
+  "sid": 192,
+  "location": 2,
+  "content": "往里钻",
+  "music": 0.0
+ },
+ {
+  "from": 427.92,
+  "to": 430.14,
+  "sid": 193,
+  "location": 2,
+  "content": "钻完之后往进点再点一颗烟",
+  "music": 0.0
+ },
+ {
+  "from": 430.14,
+  "to": 434.55,
+  "sid": 194,
+  "location": 2,
+  "content": "然后出烟去搜水下的这个位置呃",
+  "music": 0.0
+ },
+ {
+  "from": 434.55,
+  "to": 436.87,
+  "sid": 195,
+  "location": 2,
+  "content": "是我比较推荐的一种非法吧",
+  "music": 0.0
+ },
+ {
+  "from": 436.87,
+  "to": 438.79,
+  "sid": 196,
+  "location": 2,
+  "content": "那么莲花古城的CA点呢",
+  "music": 0.0
+ },
+ {
+  "from": 438.79,
+  "to": 443.07,
+  "sid": 197,
+  "location": 2,
+  "content": "我再给大家推荐一个就是很帅的一个非法非法",
+  "music": 0.0
+ },
+ {
+  "from": 443.07,
+  "to": 446.87,
+  "sid": 198,
+  "location": 2,
+  "content": "首先一点在这个位置就是回防的哎",
+  "music": 0.0
+ },
+ {
+  "from": 446.87,
+  "to": 449.27,
+  "sid": 199,
+  "location": 2,
+  "content": "我们开除风烟点在这里QE技能",
+  "music": 0.0
+ },
+ {
+  "from": 449.27,
+  "to": 452.57,
+  "sid": 200,
+  "location": 2,
+  "content": "然后飞到一半一个E哇哦这视角直接拉到水下",
+  "music": 0.0
+ },
+ {
+  "from": 452.57,
+  "to": 457.89,
+  "sid": 201,
+  "location": 2,
+  "content": "连拉过来就有一种QQ飞车超级飘的感觉",
+  "music": 0.0
+ },
+ {
+  "from": 457.89,
+  "to": 458.74,
+  "sid": 202,
+  "location": 2,
+  "content": "好帅",
+  "music": 0.0
+ },
+ {
+  "from": 458.74,
+  "to": 460.03,
+  "sid": 203,
+  "location": 2,
+  "content": "深海遗珠",
+  "music": 0.0
+ },
+ {
+  "from": 460.03,
+  "to": 461.2,
+  "sid": 204,
+  "location": 2,
+  "content": "深海遗珠的A点",
+  "music": 0.0
+ },
+ {
+  "from": 461.2,
+  "to": 463.18,
+  "sid": 205,
+  "location": 2,
+  "content": "先给大家介绍一下常规非法",
+  "music": 0.0
+ },
+ {
+  "from": 463.18,
+  "to": 464.77,
+  "sid": 206,
+  "location": 2,
+  "content": "应该是每个人都会的",
+  "music": 0.0
+ },
+ {
+  "from": 464.77,
+  "to": 466.51,
+  "sid": 207,
+  "location": 2,
+  "content": "就是往这边点一颗烟",
+  "music": 0.0
+ },
+ {
+  "from": 466.51,
+  "to": 468.34,
+  "sid": 208,
+  "location": 2,
+  "content": "飞的过程中诶拉头",
+  "music": 0.0
+ },
+ {
+  "from": 468.34,
+  "to": 469.51,
+  "sid": 209,
+  "location": 2,
+  "content": "然后往眼里一蹲",
+  "music": 0.0
+ },
+ {
+  "from": 469.51,
+  "to": 470.8,
+  "sid": 210,
+  "location": 2,
+  "content": "灯闪光闪光一爆",
+  "music": 0.0
+ },
+ {
+  "from": 470.8,
+  "to": 472.96,
+  "sid": 211,
+  "location": 2,
+  "content": "OK出来找人完事",
+  "music": 0.0
+ },
+ {
+  "from": 472.96,
+  "to": 475.48,
+  "sid": 212,
+  "location": 2,
+  "content": "或者往左边一点飞也行",
+  "music": 0.0
+ },
+ {
+  "from": 475.48,
+  "to": 477.04,
+  "sid": 213,
+  "location": 2,
+  "content": "往中间飞也行",
+  "music": 0.0
+ },
+ {
+  "from": 477.04,
+  "to": 478.06,
+  "sid": 214,
+  "location": 2,
+  "content": "随便你怎么飞",
+  "music": 0.0
+ },
+ {
+  "from": 478.06,
+  "to": 480.55,
+  "sid": 215,
+  "location": 2,
+  "content": "但反正飞过去的时候都不是特别安全",
+  "music": 0.0
+ },
+ {
+  "from": 480.55,
+  "to": 481.57,
+  "sid": 216,
+  "location": 2,
+  "content": "就很容易死",
+  "music": 0.0
+ },
+ {
+  "from": 481.57,
+  "to": 483.57,
+  "sid": 217,
+  "location": 2,
+  "content": "如果凯周提前铺好技能的话",
+  "music": 0.0
+ },
+ {
+  "from": 483.57,
+  "to": 486.0,
+  "sid": 218,
+  "location": 2,
+  "content": "飞进去就是你死亡的开始",
+  "music": 0.0
+ },
+ {
+  "from": 486.0,
+  "to": 487.38,
+  "sid": 219,
+  "location": 2,
+  "content": "我死过很多回",
+  "music": 0.0
+ },
+ {
+  "from": 487.38,
+  "to": 489.75,
+  "sid": 220,
+  "location": 2,
+  "content": "然后给大家介绍一下深海遗珠",
+  "music": 0.0
+ },
+ {
+  "from": 489.75,
+  "to": 492.85,
+  "sid": 221,
+  "location": 2,
+  "content": "这个A点的一个非常规的非法呃",
+  "music": 0.0
+ },
+ {
+  "from": 492.85,
+  "to": 495.91,
+  "sid": 222,
+  "location": 2,
+  "content": "那个这种非法呢需要你的队友烟点的比较深",
+  "music": 0.0
+ },
+ {
+  "from": 495.91,
+  "to": 497.53,
+  "sid": 223,
+  "location": 2,
+  "content": "大概点在这个位置",
+  "music": 0.0
+ },
+ {
+  "from": 497.53,
+  "to": 500.62,
+  "sid": 224,
+  "location": 2,
+  "content": "然后会会点在这里会点的很深",
+  "music": 0.0
+ },
+ {
+  "from": 500.62,
+  "to": 502.27,
+  "sid": 225,
+  "location": 2,
+  "content": "然后呢我们怎么飞",
+  "music": 0.0
+ },
+ {
+  "from": 502.27,
+  "to": 503.929,
+  "sid": 226,
+  "location": 2,
+  "content": "我们看这里有台阶",
+  "music": 0.0
+ },
+ {
+  "from": 503.929,
+  "to": 505.729,
+  "sid": 227,
+  "location": 2,
+  "content": "我们数到第二个台阶",
+  "music": 0.0
+ },
+ {
+  "from": 505.729,
+  "to": 507.709,
+  "sid": 228,
+  "location": 2,
+  "content": "我们助跑跑到第二个台阶的时候",
+  "music": 0.0
+ },
+ {
+  "from": 507.709,
+  "to": 508.609,
+  "sid": 229,
+  "location": 2,
+  "content": "长按空格",
+  "music": 0.0
+ },
+ {
+  "from": 508.609,
+  "to": 509.96,
+  "sid": 230,
+  "location": 2,
+  "content": "然后按E技能",
+  "music": 0.0
+ },
+ {
+  "from": 509.96,
+  "to": 512.289,
+  "sid": 231,
+  "location": 2,
+  "content": "然后往这个方向去滑",
+  "music": 0.0
+ },
+ {
+  "from": 512.289,
+  "to": 514.569,
+  "sid": 232,
+  "location": 2,
+  "content": "按空格全程不松",
+  "music": 0.0
+ },
+ {
+  "from": 514.569,
+  "to": 516.939,
+  "sid": 233,
+  "location": 2,
+  "content": "摁E摁完之后再带一个蹲",
+  "music": 0.0
+ },
+ {
+  "from": 516.939,
+  "to": 518.979,
+  "sid": 234,
+  "location": 2,
+  "content": "我们就可以滑到这个墙上",
+  "music": 0.0
+ },
+ {
+  "from": 518.979,
+  "to": 523.359,
+  "sid": 235,
+  "location": 2,
+  "content": "看好大概就是这个第二个台阶是这个位置",
+  "music": 0.0
+ },
+ {
+  "from": 525.16,
+  "to": 526.83,
+  "sid": 236,
+  "location": 2,
+  "content": "你看你不就上来了吗",
+  "music": 0.0
+ },
+ {
+  "from": 526.83,
+  "to": 529.08,
+  "sid": 237,
+  "location": 2,
+  "content": "这个可以去抓保安位的人",
+  "music": 0.0
+ },
+ {
+  "from": 529.08,
+  "to": 530.1,
+  "sid": 238,
+  "location": 2,
+  "content": "就这种非法",
+  "music": 0.0
+ },
+ {
+  "from": 530.1,
+  "to": 531.96,
+  "sid": 239,
+  "location": 2,
+  "content": "但其实也不是特别安全",
+  "music": 0.0
+ },
+ {
+  "from": 531.96,
+  "to": 533.1,
+  "sid": 240,
+  "location": 2,
+  "content": "他需要两颗烟",
+  "music": 0.0
+ },
+ {
+  "from": 533.1,
+  "to": 533.94,
+  "sid": 241,
+  "location": 2,
+  "content": "一颗烟的小道",
+  "music": 0.0
+ },
+ {
+  "from": 533.94,
+  "to": 536.04,
+  "sid": 242,
+  "location": 2,
+  "content": "一个烟在大概这个位置",
+  "music": 0.0
+ },
+ {
+  "from": 536.04,
+  "to": 537.76,
+  "sid": 243,
+  "location": 2,
+  "content": "在这个位置",
+  "music": 0.0
+ },
+ {
+  "from": 537.76,
+  "to": 542.05,
+  "sid": 244,
+  "location": 2,
+  "content": "那如果说我实在是想保证一下我的安全",
+  "music": 0.0
+ },
+ {
+  "from": 542.05,
+  "to": 543.85,
+  "sid": 245,
+  "location": 2,
+  "content": "说我就是要飞的安全",
+  "music": 0.0
+ },
+ {
+  "from": 543.85,
+  "to": 548.25,
+  "sid": 246,
+  "location": 2,
+  "content": "OK你飞之前往这里点颗烟不就安全了吗",
+  "music": 0.0
+ },
+ {
+  "from": 548.25,
+  "to": 552.0,
+  "sid": 247,
+  "location": 2,
+  "content": "哈你飞之前把烟点在这里",
+  "music": 0.0
+ },
+ {
+  "from": 552.0,
+  "to": 552.81,
+  "sid": 248,
+  "location": 2,
+  "content": "那就安全了",
+  "music": 0.0
+ },
+ {
+  "from": 552.81,
+  "to": 555.099,
+  "sid": 249,
+  "location": 2,
+  "content": "能够稍微帮你遮一点",
+  "music": 0.0
+ },
+ {
+  "from": 555.94,
+  "to": 559.19,
+  "sid": 250,
+  "location": 2,
+  "content": "但是这个位置经常飞过来的话不太好使",
+  "music": 0.0
+ },
+ {
+  "from": 559.19,
+  "to": 561.11,
+  "sid": 251,
+  "location": 2,
+  "content": "因为你进点不可能那么干嘛",
+  "music": 0.0
+ },
+ {
+  "from": 561.11,
+  "to": 562.52,
+  "sid": 252,
+  "location": 2,
+  "content": "肯定会有道具的辅助了",
+  "music": 0.0
+ },
+ {
+  "from": 562.52,
+  "to": 565.7,
+  "sid": 253,
+  "location": 2,
+  "content": "深海遗珠的B点给大家推荐第一种非法",
+  "music": 0.0
+ },
+ {
+  "from": 565.7,
+  "to": 567.59,
+  "sid": 254,
+  "location": 2,
+  "content": "就是把烟点在这个高台上",
+  "music": 0.0
+ },
+ {
+  "from": 567.59,
+  "to": 569.19,
+  "sid": 255,
+  "location": 2,
+  "content": "然后飞过来同时看一眼",
+  "music": 0.0
+ },
+ {
+  "from": 569.19,
+  "to": 571.89,
+  "sid": 256,
+  "location": 2,
+  "content": "然后在眼里卡着卡着卡一小会儿",
+  "music": 0.0
+ },
+ {
+  "from": 571.89,
+  "to": 574.11,
+  "sid": 257,
+  "location": 2,
+  "content": "等这个烟散之前的进点再补一颗烟",
+  "music": 0.0
+ },
+ {
+  "from": 574.11,
+  "to": 575.34,
+  "sid": 258,
+  "location": 2,
+  "content": "然后我们依赖这个烟",
+  "music": 0.0
+ },
+ {
+  "from": 575.34,
+  "to": 578.06,
+  "sid": 259,
+  "location": 2,
+  "content": "对方去把这个厚点比较难清的",
+  "music": 0.0
+ },
+ {
+  "from": 578.06,
+  "to": 579.41,
+  "sid": 260,
+  "location": 2,
+  "content": "这个四点给他清了",
+  "music": 0.0
+ },
+ {
+  "from": 579.41,
+  "to": 582.94,
+  "sid": 261,
+  "location": 2,
+  "content": "然后在下一次深海遗珠的这个地图改版更过后",
+  "music": 0.0
+ },
+ {
+  "from": 582.94,
+  "to": 585.16,
+  "sid": 262,
+  "location": 2,
+  "content": "这个位置可能还会更好用一点",
+  "music": 0.0
+ },
+ {
+  "from": 585.16,
+  "to": 587.94,
+  "sid": 263,
+  "location": 2,
+  "content": "因为这个台阶可能站人会",
+  "music": 0.0
+ },
+ {
+  "from": 587.94,
+  "to": 589.26,
+  "sid": 264,
+  "location": 2,
+  "content": "这里会出现一个台阶嘛",
+  "music": 0.0
+ },
+ {
+  "from": 589.26,
+  "to": 591.6,
+  "sid": 265,
+  "location": 2,
+  "content": "然后站人的概率还会更大一点",
+  "music": 0.0
+ },
+ {
+  "from": 591.6,
+  "to": 594.36,
+  "sid": 266,
+  "location": 2,
+  "content": "这是第一种非法深海遗珠必点的",
+  "music": 0.0
+ },
+ {
+  "from": 594.36,
+  "to": 597.6,
+  "sid": 267,
+  "location": 2,
+  "content": "第二种非法呢我比较推荐你拿喷子",
+  "music": 0.0
+ },
+ {
+  "from": 597.6,
+  "to": 599.49,
+  "sid": 268,
+  "location": 2,
+  "content": "拿连喷啊或者单喷去飞",
+  "music": 0.0
+ },
+ {
+  "from": 599.49,
+  "to": 602.31,
+  "sid": 269,
+  "location": 2,
+  "content": "这个飞法呢是需要一定的脚程的",
+  "music": 0.0
+ },
+ {
+  "from": 602.31,
+  "to": 604.68,
+  "sid": 270,
+  "location": 2,
+  "content": "我们需要往前走的稍微近一点再飞",
+  "music": 0.0
+ },
+ {
+  "from": 604.68,
+  "to": 607.68,
+  "sid": 271,
+  "location": 2,
+  "content": "所以说你要确保让队友帮你探一下",
+  "music": 0.0
+ },
+ {
+  "from": 607.68,
+  "to": 609.21,
+  "sid": 272,
+  "location": 2,
+  "content": "就是这个进点比较安全",
+  "music": 0.0
+ },
+ {
+  "from": 609.21,
+  "to": 611.19,
+  "sid": 273,
+  "location": 2,
+  "content": "然后呢我们把烟往这里一点放",
+  "music": 0.0
+ },
+ {
+  "from": 611.19,
+  "to": 611.97,
+  "sid": 274,
+  "location": 2,
+  "content": "看看左边",
+  "music": 0.0
+ },
+ {
+  "from": 611.97,
+  "to": 613.319,
+  "sid": 275,
+  "location": 2,
+  "content": "然后点第二颗烟",
+  "music": 0.0
+ },
+ {
+  "from": 613.319,
+  "to": 615.8,
+  "sid": 276,
+  "location": 2,
+  "content": "然后喷子来喷人",
+  "music": 0.0
+ },
+ {
+  "from": 615.8,
+  "to": 621.38,
+  "sid": 277,
+  "location": 2,
+  "content": "OK深海遗珠必点的第三种非法呢烟有两种点法",
+  "music": 0.0
+ },
+ {
+  "from": 621.38,
+  "to": 624.39,
+  "sid": 278,
+  "location": 2,
+  "content": "就如果说对方在那个6号里面",
+  "music": 0.0
+ },
+ {
+  "from": 624.39,
+  "to": 626.31,
+  "sid": 279,
+  "location": 2,
+  "content": "给你们的任务压力实在太大了",
+  "music": 0.0
+ },
+ {
+  "from": 626.31,
+  "to": 628.319,
+  "sid": 280,
+  "location": 2,
+  "content": "你可以把第一颗烟往这里点",
+  "music": 0.0
+ },
+ {
+  "from": 628.319,
+  "to": 630.539,
+  "sid": 281,
+  "location": 2,
+  "content": "我们在无视野的情况下就能点这颗烟",
+  "music": 0.0
+ },
+ {
+  "from": 630.539,
+  "to": 632.069,
+  "sid": 282,
+  "location": 2,
+  "content": "你看我们卡在墙的后面",
+  "music": 0.0
+ },
+ {
+  "from": 632.069,
+  "to": 633.76,
+  "sid": 283,
+  "location": 2,
+  "content": "让烟拐弯哎",
+  "music": 0.0
+ },
+ {
+  "from": 633.76,
+  "to": 634.57,
+  "sid": 284,
+  "location": 2,
+  "content": "往这一封",
+  "music": 0.0
+ },
+ {
+  "from": 634.57,
+  "to": 636.34,
+  "sid": 285,
+  "location": 2,
+  "content": "我们开个毒蜂跳起来",
+  "music": 0.0
+ },
+ {
+  "from": 636.34,
+  "to": 638.32,
+  "sid": 286,
+  "location": 2,
+  "content": "飞到这个山上去",
+  "music": 0.0
+ },
+ {
+  "from": 638.32,
+  "to": 639.67,
+  "sid": 287,
+  "location": 2,
+  "content": "二楼里面喷人",
+  "music": 0.0
+ },
+ {
+  "from": 639.67,
+  "to": 641.2,
+  "sid": 288,
+  "location": 2,
+  "content": "或者说跟对面自爆",
+  "music": 0.0
+ },
+ {
+  "from": 641.2,
+  "to": 642.4,
+  "sid": 289,
+  "location": 2,
+  "content": "就这样爆了",
+  "music": 0.0
+ },
+ {
+  "from": 642.4,
+  "to": 644.03,
+  "sid": 290,
+  "location": 2,
+  "content": "就OK了",
+  "music": 0.0
+ },
+ {
+  "from": 644.03,
+  "to": 645.62,
+  "sid": 291,
+  "location": 2,
+  "content": "这是第三种配方",
+  "music": 0.0
+ },
+ {
+  "from": 645.62,
+  "to": 647.81,
+  "sid": 292,
+  "location": 2,
+  "content": "也是算是非常规的一种",
+  "music": 0.0
+ },
+ {
+  "from": 647.81,
+  "to": 650.9,
+  "sid": 293,
+  "location": 2,
+  "content": "那么我们再给大家介绍第四种非法",
+  "music": 0.0
+ },
+ {
+  "from": 650.9,
+  "to": 654.36,
+  "sid": 294,
+  "location": 2,
+  "content": "如果说第三种非法是自爆卡车的话",
+  "music": 0.0
+ },
+ {
+  "from": 654.36,
+  "to": 656.73,
+  "sid": 295,
+  "location": 2,
+  "content": "那这个第四种就更是重量级",
+  "music": 0.0
+ },
+ {
+  "from": 656.73,
+  "to": 659.04,
+  "sid": 296,
+  "location": 2,
+  "content": "你需要承担很大的风险",
+  "music": 0.0
+ },
+ {
+  "from": 659.04,
+  "to": 661.14,
+  "sid": 297,
+  "location": 2,
+  "content": "你可能的进点飞之前就被逮捕了",
+  "music": 0.0
+ },
+ {
+  "from": 661.14,
+  "to": 662.069,
+  "sid": 298,
+  "location": 2,
+  "content": "不过不重要",
+  "music": 0.0
+ },
+ {
+  "from": 662.069,
+  "to": 664.019,
+  "sid": 299,
+  "location": 2,
+  "content": "我们就看一下怎么飞的",
+  "music": 0.0
+ },
+ {
+  "from": 664.019,
+  "to": 665.849,
+  "sid": 300,
+  "location": 2,
+  "content": "我们就直接把这个烟往这里一点",
+  "music": 0.0
+ },
+ {
+  "from": 665.849,
+  "to": 668.669,
+  "sid": 301,
+  "location": 2,
+  "content": "飞的时候看右边在中转点一颗烟",
+  "music": 0.0
+ },
+ {
+  "from": 668.669,
+  "to": 671.27,
+  "sid": 302,
+  "location": 2,
+  "content": "然后往右边墙贴这个B脸",
+  "music": 0.0
+ },
+ {
+  "from": 671.27,
+  "to": 672.839,
+  "sid": 303,
+  "location": 2,
+  "content": "拿个喷子去喷子",
+  "music": 0.0
+ },
+ {
+  "from": 673.16,
+  "to": 677.99,
+  "sid": 304,
+  "location": 2,
+  "content": "就是比刚刚那种自爆非法还要再自爆A点",
+  "music": 0.0
+ },
+ {
+  "from": 677.99,
+  "to": 682.5,
+  "sid": 305,
+  "location": 2,
+  "content": "终极自爆卡车非法双塔迷城啊",
+  "music": 0.0
+ },
+ {
+  "from": 682.5,
+  "to": 683.13,
+  "sid": 306,
+  "location": 2,
+  "content": "在A点",
+  "music": 0.0
+ },
+ {
+  "from": 683.13,
+  "to": 684.99,
+  "sid": 307,
+  "location": 2,
+  "content": "如果你队友是个欧盟啊",
+  "music": 0.0
+ },
+ {
+  "from": 684.99,
+  "to": 685.89,
+  "sid": 308,
+  "location": 2,
+  "content": "是个叛徒啊",
+  "music": 0.0
+ },
+ {
+  "from": 685.89,
+  "to": 687.75,
+  "sid": 309,
+  "location": 2,
+  "content": "等到下水道给你推黑的话",
+  "music": 0.0
+ },
+ {
+  "from": 687.75,
+  "to": 689.43,
+  "sid": 310,
+  "location": 2,
+  "content": "在他们技能出手的那地图",
+  "music": 0.0
+ },
+ {
+  "from": 689.43,
+  "to": 691.77,
+  "sid": 311,
+  "location": 2,
+  "content": "同时你就往这个铁板上了",
+  "music": 0.0
+ },
+ {
+  "from": 691.77,
+  "to": 693.48,
+  "sid": 312,
+  "location": 2,
+  "content": "飞来找人就可以了",
+  "music": 0.0
+ },
+ {
+  "from": 693.48,
+  "to": 698.57,
+  "sid": 313,
+  "location": 2,
+  "content": "这是跟队友配合的最简单的一种",
+  "music": 0.0
+ },
+ {
+  "from": 698.57,
+  "to": 699.71,
+  "sid": 314,
+  "location": 2,
+  "content": "双塔还没成A点",
+  "music": 0.0
+ },
+ {
+  "from": 699.71,
+  "to": 702.2,
+  "sid": 315,
+  "location": 2,
+  "content": "第一个点位我们把烟点在这个位置",
+  "music": 0.0
+ },
+ {
+  "from": 702.2,
+  "to": 703.4,
+  "sid": 316,
+  "location": 2,
+  "content": "然后跳的时候",
+  "music": 0.0
+ },
+ {
+  "from": 703.4,
+  "to": 705.63,
+  "sid": 317,
+  "location": 2,
+  "content": "就是我们飞起来的时候就不用空格了",
+  "music": 0.0
+ },
+ {
+  "from": 705.63,
+  "to": 709.0,
+  "sid": 318,
+  "location": 2,
+  "content": "然后同样的我们飞起来之后看一下两边进点",
+  "music": 0.0
+ },
+ {
+  "from": 710.32,
+  "to": 711.42,
+  "sid": 319,
+  "location": 2,
+  "content": "不按空格啊",
+  "music": 0.0
+ },
+ {
+  "from": 711.42,
+  "to": 713.26,
+  "sid": 320,
+  "location": 2,
+  "content": "控一下自己的空中的高度",
+  "music": 0.0
+ },
+ {
+  "from": 714.46,
+  "to": 720.06,
+  "sid": 321,
+  "location": 2,
+  "content": "这样然后我们可以在进点点科研",
+  "music": 0.0
+ },
+ {
+  "from": 720.26,
+  "to": 722.42,
+  "sid": 322,
+  "location": 2,
+  "content": "去隔掉这队友ow的抢线",
+  "music": 0.0
+ },
+ {
+  "from": 722.42,
+  "to": 723.59,
+  "sid": 323,
+  "location": 2,
+  "content": "直接往二楼走",
+  "music": 0.0
+ },
+ {
+  "from": 723.59,
+  "to": 724.7,
+  "sid": 324,
+  "location": 2,
+  "content": "我们也可以诶",
+  "music": 0.0
+ },
+ {
+  "from": 724.7,
+  "to": 725.36,
+  "sid": 325,
+  "location": 2,
+  "content": "看到不进点",
+  "music": 0.0
+ },
+ {
+  "from": 725.36,
+  "to": 726.05,
+  "sid": 326,
+  "location": 2,
+  "content": "没有人了吗",
+  "music": 0.0
+ },
+ {
+  "from": 726.05,
+  "to": 729.27,
+  "sid": 327,
+  "location": 2,
+  "content": "我们跳下来就等于说骗人",
+  "music": 0.0
+ },
+ {
+  "from": 729.27,
+  "to": 730.35,
+  "sid": 328,
+  "location": 2,
+  "content": "虚晃一枪",
+  "music": 0.0
+ },
+ {
+  "from": 730.35,
+  "to": 732.24,
+  "sid": 329,
+  "location": 2,
+  "content": "骗对手一下啊",
+  "music": 0.0
+ },
+ {
+  "from": 732.24,
+  "to": 735.46,
+  "sid": 330,
+  "location": 2,
+  "content": "如果说你想打的稍微激进一点啊",
+  "music": 0.0
+ },
+ {
+  "from": 735.46,
+  "to": 736.78,
+  "sid": 331,
+  "location": 2,
+  "content": "我刚看了眼包点",
+  "music": 0.0
+ },
+ {
+  "from": 736.78,
+  "to": 738.28,
+  "sid": 332,
+  "location": 2,
+  "content": "我觉得包点没多少人了",
+  "music": 0.0
+ },
+ {
+  "from": 738.28,
+  "to": 739.81,
+  "sid": 333,
+  "location": 2,
+  "content": "你可以往A点颗烟",
+  "music": 0.0
+ },
+ {
+  "from": 739.81,
+  "to": 742.52,
+  "sid": 334,
+  "location": 2,
+  "content": "这样下来不让UO来抓你",
+  "music": 0.0
+ },
+ {
+  "from": 743.2,
+  "to": 746.01,
+  "sid": 335,
+  "location": 2,
+  "content": "你回过头来和队友一起来签约吧",
+  "music": 0.0
+ },
+ {
+  "from": 746.01,
+  "to": 747.36,
+  "sid": 336,
+  "location": 2,
+  "content": "这个也是可以的",
+  "music": 0.0
+ },
+ {
+  "from": 747.36,
+  "to": 749.94,
+  "sid": 337,
+  "location": 2,
+  "content": "然后我们A点的第二个非法也比较常规",
+  "music": 0.0
+ },
+ {
+  "from": 749.94,
+  "to": 752.479,
+  "sid": 338,
+  "location": 2,
+  "content": "也是要让你来看两边有没有人的",
+  "music": 0.0
+ },
+ {
+  "from": 754.12,
+  "to": 755.39,
+  "sid": 339,
+  "location": 2,
+  "content": "Lucky st",
+  "music": 0.0
+ },
+ {
+  "from": 755.39,
+  "to": 757.55,
+  "sid": 340,
+  "location": 2,
+  "content": "再点一颗烟做隔断诶",
+  "music": 0.0
+ },
+ {
+  "from": 757.55,
+  "to": 760.76,
+  "sid": 341,
+  "location": 2,
+  "content": "我们可以记住这颗烟来把包点后把宝清掉",
+  "music": 0.0
+ },
+ {
+  "from": 760.76,
+  "to": 764.04,
+  "sid": 342,
+  "location": 2,
+  "content": "但是前提是这颗烟的话想点这里飞",
+  "music": 0.0
+ },
+ {
+  "from": 764.04,
+  "to": 764.73,
+  "sid": 343,
+  "location": 2,
+  "content": "在这里",
+  "music": 0.0
+ },
+ {
+  "from": 764.73,
+  "to": 766.95,
+  "sid": 344,
+  "location": 2,
+  "content": "你最好要把进点给清掉",
+  "music": 0.0
+ },
+ {
+  "from": 766.95,
+  "to": 768.63,
+  "sid": 345,
+  "location": 2,
+  "content": "如果进点没有清的话",
+  "music": 0.0
+ },
+ {
+  "from": 768.63,
+  "to": 771.93,
+  "sid": 346,
+  "location": 2,
+  "content": "你人的这个教程和这个包的",
+  "music": 0.0
+ },
+ {
+  "from": 771.93,
+  "to": 776.4,
+  "sid": 347,
+  "location": 2,
+  "content": "这个和我们这个烟的这个距离啊是不够的",
+  "music": 0.0
+ },
+ {
+  "from": 776.4,
+  "to": 778.8,
+  "sid": 348,
+  "location": 2,
+  "content": "我们如果在这里直接飞飞过去",
+  "music": 0.0
+ },
+ {
+  "from": 778.8,
+  "to": 781.069,
+  "sid": 349,
+  "location": 2,
+  "content": "你会发现短了那么一小截",
+  "music": 0.0
+ },
+ {
+  "from": 781.069,
+  "to": 782.869,
+  "sid": 350,
+  "location": 2,
+  "content": "所以最好要把进点清掉",
+  "music": 0.0
+ },
+ {
+  "from": 782.869,
+  "to": 784.05,
+  "sid": 351,
+  "location": 2,
+  "content": "再往这个位置飞",
+  "music": 0.0
+ },
+ {
+  "from": 784.05,
+  "to": 785.49,
+  "sid": 352,
+  "location": 2,
+  "content": "这个位置会有什么好处呢",
+  "music": 0.0
+ },
+ {
+  "from": 785.49,
+  "to": 786.81,
+  "sid": 353,
+  "location": 2,
+  "content": "我们都把死点清了",
+  "music": 0.0
+ },
+ {
+  "from": 786.81,
+  "to": 789.99,
+  "sid": 354,
+  "location": 2,
+  "content": "而我们还能顺带看一眼这个两个词典",
+  "music": 0.0
+ },
+ {
+  "from": 789.99,
+  "to": 792.12,
+  "sid": 355,
+  "location": 2,
+  "content": "你一个人同时清清完之后",
+  "music": 0.0
+ },
+ {
+  "from": 792.12,
+  "to": 792.36,
+  "sid": 356,
+  "location": 2,
+  "content": "诶",
+  "music": 0.0
+ },
+ {
+  "from": 792.36,
+  "to": 793.5,
+  "sid": 357,
+  "location": 2,
+  "content": "你还有隔断烟",
+  "music": 0.0
+ },
+ {
+  "from": 793.5,
+  "to": 794.34,
+  "sid": 358,
+  "location": 2,
+  "content": "有隔断烟",
+  "music": 0.0
+ },
+ {
+  "from": 794.34,
+  "to": 795.65,
+  "sid": 359,
+  "location": 2,
+  "content": "你还能再进点也要保",
+  "music": 0.0
+ },
+ {
+  "from": 795.65,
+  "to": 799.39,
+  "sid": 360,
+  "location": 2,
+  "content": "但是你需要担心一下来自二楼的火力",
+  "music": 0.0
+ },
+ {
+  "from": 799.39,
+  "to": 802.0,
+  "sid": 361,
+  "location": 2,
+  "content": "要不基本不会拉到马路上来偷你的",
+  "music": 0.0
+ },
+ {
+  "from": 802.0,
+  "to": 802.84,
+  "sid": 362,
+  "location": 2,
+  "content": "你要担心一下",
+  "music": 0.0
+ },
+ {
+  "from": 802.84,
+  "to": 805.02,
+  "sid": 363,
+  "location": 2,
+  "content": "二楼让队友帮你多注意点就可以",
+  "music": 0.0
+ },
+ {
+  "from": 805.02,
+  "to": 806.22,
+  "sid": 364,
+  "location": 2,
+  "content": "然后这个A点啊",
+  "music": 0.0
+ },
+ {
+  "from": 806.22,
+  "to": 809.01,
+  "sid": 365,
+  "location": 2,
+  "content": "我再给大家推荐一个比较非常规的非法",
+  "music": 0.0
+ },
+ {
+  "from": 809.01,
+  "to": 810.81,
+  "sid": 366,
+  "location": 2,
+  "content": "就是我们开珠峰",
+  "music": 0.0
+ },
+ {
+  "from": 810.81,
+  "to": 814.35,
+  "sid": 367,
+  "location": 2,
+  "content": "拿着一个喷子烟点到这个位置飞一下",
+  "music": 0.0
+ },
+ {
+  "from": 814.35,
+  "to": 815.07,
+  "sid": 368,
+  "location": 2,
+  "content": "控制高度",
+  "music": 0.0
+ },
+ {
+  "from": 815.07,
+  "to": 815.85,
+  "sid": 369,
+  "location": 2,
+  "content": "飞到烟里",
+  "music": 0.0
+ },
+ {
+  "from": 815.85,
+  "to": 818.01,
+  "sid": 370,
+  "location": 2,
+  "content": "然后再往屏幕上点一颗烟",
+  "music": 0.0
+ },
+ {
+  "from": 818.01,
+  "to": 819.36,
+  "sid": 371,
+  "location": 2,
+  "content": "好我们飞到屏幕里",
+  "music": 0.0
+ },
+ {
+  "from": 819.36,
+  "to": 822.98,
+  "sid": 372,
+  "location": 2,
+  "content": "我们往下跳去喷屏幕周围",
+  "music": 0.0
+ },
+ {
+  "from": 822.98,
+  "to": 825.71,
+  "sid": 373,
+  "location": 2,
+  "content": "或者说啊我们不是藏在这个烟里的吗是吧",
+  "music": 0.0
+ },
+ {
+  "from": 825.71,
+  "to": 827.57,
+  "sid": 374,
+  "location": 2,
+  "content": "我们往脚下再点Q烟",
+  "music": 0.0
+ },
+ {
+  "from": 827.57,
+  "to": 831.19,
+  "sid": 375,
+  "location": 2,
+  "content": "跳到脚下跳起来给牛宝",
+  "music": 0.0
+ },
+ {
+  "from": 831.19,
+  "to": 835.28,
+  "sid": 376,
+  "location": 2,
+  "content": "这是一个非常规的可以玩喷子的一个非法",
+  "music": 0.0
+ },
+ {
+  "from": 835.28,
+  "to": 837.44,
+  "sid": 377,
+  "location": 2,
+  "content": "就是你突然冷不丁的给他来一下",
+  "music": 0.0
+ },
+ {
+  "from": 837.44,
+  "to": 838.04,
+  "sid": 378,
+  "location": 2,
+  "content": "飞到这里",
+  "music": 0.0
+ },
+ {
+  "from": 838.04,
+  "to": 839.3,
+  "sid": 379,
+  "location": 2,
+  "content": "对方往脚下点一颗烟",
+  "music": 0.0
+ },
+ {
+  "from": 839.3,
+  "to": 840.89,
+  "sid": 380,
+  "location": 2,
+  "content": "直接去硬抓一波人",
+  "music": 0.0
+ },
+ {
+  "from": 840.89,
+  "to": 842.3,
+  "sid": 381,
+  "location": 2,
+  "content": "他绝对反应不过来",
+  "music": 0.0
+ },
+ {
+  "from": 842.3,
+  "to": 843.23,
+  "sid": 382,
+  "location": 2,
+  "content": "会被你吃掉",
+  "music": 0.0
+ },
+ {
+  "from": 843.23,
+  "to": 845.82,
+  "sid": 383,
+  "location": 2,
+  "content": "双塔B点一个常规非法",
+  "music": 0.0
+ },
+ {
+  "from": 845.82,
+  "to": 847.68,
+  "sid": 384,
+  "location": 2,
+  "content": "就是往这个进点点烟了",
+  "music": 0.0
+ },
+ {
+  "from": 847.68,
+  "to": 849.45,
+  "sid": 385,
+  "location": 2,
+  "content": "点完之后就看左边有没有人",
+  "music": 0.0
+ },
+ {
+  "from": 849.45,
+  "to": 850.65,
+  "sid": 386,
+  "location": 2,
+  "content": "OK没有人对吧",
+  "music": 0.0
+ },
+ {
+  "from": 850.65,
+  "to": 851.64,
+  "sid": 387,
+  "location": 2,
+  "content": "再补一颗烟",
+  "music": 0.0
+ },
+ {
+  "from": 851.64,
+  "to": 853.43,
+  "sid": 388,
+  "location": 2,
+  "content": "往烟后面退瞄一下",
+  "music": 0.0
+ },
+ {
+  "from": 853.43,
+  "to": 855.59,
+  "sid": 389,
+  "location": 2,
+  "content": "二楼用烟雾做掩体",
+  "music": 0.0
+ },
+ {
+  "from": 855.59,
+  "to": 857.06,
+  "sid": 390,
+  "location": 2,
+  "content": "再瞄一下侧面",
+  "music": 0.0
+ },
+ {
+  "from": 857.06,
+  "to": 858.81,
+  "sid": 391,
+  "location": 2,
+  "content": "最后再来四点找人",
+  "music": 0.0
+ },
+ {
+  "from": 858.81,
+  "to": 860.52,
+  "sid": 392,
+  "location": 2,
+  "content": "但是你需要注意的是",
+  "music": 0.0
+ },
+ {
+  "from": 860.52,
+  "to": 863.88,
+  "sid": 393,
+  "location": 2,
+  "content": "这个非法呢你得看看这个词典啊",
+  "music": 0.0
+ },
+ {
+  "from": 863.88,
+  "to": 865.05,
+  "sid": 394,
+  "location": 2,
+  "content": "凹槽有没有站人",
+  "music": 0.0
+ },
+ {
+  "from": 865.05,
+  "to": 867.36,
+  "sid": 395,
+  "location": 2,
+  "content": "不然可能在我们拉到烟进点的时候",
+  "music": 0.0
+ },
+ {
+  "from": 867.36,
+  "to": 869.79,
+  "sid": 396,
+  "location": 2,
+  "content": "就一不小心就被人给偷了",
+  "music": 0.0
+ },
+ {
+  "from": 869.79,
+  "to": 871.74,
+  "sid": 397,
+  "location": 2,
+  "content": "你看队友能不能帮你帮上忙",
+  "music": 0.0
+ },
+ {
+  "from": 871.74,
+  "to": 874.03,
+  "sid": 398,
+  "location": 2,
+  "content": "有没有奶妈起个冰墙之类的东西",
+  "music": 0.0
+ },
+ {
+  "from": 874.51,
+  "to": 875.71,
+  "sid": 399,
+  "location": 2,
+  "content": "有这种东西的话",
+  "music": 0.0
+ },
+ {
+  "from": 875.71,
+  "to": 876.579,
+  "sid": 400,
+  "location": 2,
+  "content": "再这样飞",
+  "music": 0.0
+ },
+ {
+  "from": 876.579,
+  "to": 878.259,
+  "sid": 401,
+  "location": 2,
+  "content": "双塔迷城的第二种非法",
+  "music": 0.0
+ },
+ {
+  "from": 878.259,
+  "to": 880.479,
+  "sid": 402,
+  "location": 2,
+  "content": "由于我们这个脑袋上是个门框呢",
+  "music": 0.0
+ },
+ {
+  "from": 880.479,
+  "to": 881.9,
+  "sid": 403,
+  "location": 2,
+  "content": "这个门框是有高度的",
+  "music": 0.0
+ },
+ {
+  "from": 881.9,
+  "to": 882.86,
+  "sid": 404,
+  "location": 2,
+  "content": "我们直接飞",
+  "music": 0.0
+ },
+ {
+  "from": 882.86,
+  "to": 884.99,
+  "sid": 405,
+  "location": 2,
+  "content": "我们直接飞起来会撞墙",
+  "music": 0.0
+ },
+ {
+  "from": 884.99,
+  "to": 887.28,
+  "sid": 406,
+  "location": 2,
+  "content": "那如果我们往前走一步再飞的话",
+  "music": 0.0
+ },
+ {
+  "from": 887.28,
+  "to": 889.38,
+  "sid": 407,
+  "location": 2,
+  "content": "就有一点点危险了",
+  "music": 0.0
+ },
+ {
+  "from": 889.38,
+  "to": 892.05,
+  "sid": 408,
+  "location": 2,
+  "content": "因为对方烟可能点在比较偏里面那点位置",
+  "music": 0.0
+ },
+ {
+  "from": 892.05,
+  "to": 894.99,
+  "sid": 409,
+  "location": 2,
+  "content": "所以在这个位置呢我们往这里点烟EQ",
+  "music": 0.0
+ },
+ {
+  "from": 894.99,
+  "to": 896.55,
+  "sid": 410,
+  "location": 2,
+  "content": "在过程中看一眼",
+  "music": 0.0
+ },
+ {
+  "from": 896.55,
+  "to": 899.4,
+  "sid": 411,
+  "location": 2,
+  "content": "然后我们现在藏在烟里了",
+  "music": 0.0
+ },
+ {
+  "from": 899.4,
+  "to": 900.57,
+  "sid": 412,
+  "location": 2,
+  "content": "有两种玩法",
+  "music": 0.0
+ },
+ {
+  "from": 900.57,
+  "to": 903.63,
+  "sid": 413,
+  "location": 2,
+  "content": "第一种玩法就是直接借这个烟的掩护去搜脚下",
+  "music": 0.0
+ },
+ {
+  "from": 903.63,
+  "to": 905.15,
+  "sid": 414,
+  "location": 2,
+  "content": "但是你可能会搜的不全",
+  "music": 0.0
+ },
+ {
+  "from": 905.15,
+  "to": 909.15,
+  "sid": 415,
+  "location": 2,
+  "content": "所以你可以往这个台阶的边边再点一颗烟",
+  "music": 0.0
+ },
+ {
+  "from": 909.15,
+  "to": 910.71,
+  "sid": 416,
+  "location": 2,
+  "content": "然后记住这个烟味掩体",
+  "music": 0.0
+ },
+ {
+  "from": 910.71,
+  "to": 913.38,
+  "sid": 417,
+  "location": 2,
+  "content": "对方把脚下这这块给收了",
+  "music": 0.0
+ },
+ {
+  "from": 913.38,
+  "to": 915.18,
+  "sid": 418,
+  "location": 2,
+  "content": "搜完之后再跟正面",
+  "music": 0.0
+ },
+ {
+  "from": 915.18,
+  "to": 915.84,
+  "sid": 419,
+  "location": 2,
+  "content": "比如二楼啊",
+  "music": 0.0
+ },
+ {
+  "from": 915.84,
+  "to": 917.28,
+  "sid": 420,
+  "location": 2,
+  "content": "一楼啊做对枪",
+  "music": 0.0
+ },
+ {
+  "from": 918.6,
+  "to": 921.98,
+  "sid": 421,
+  "location": 2,
+  "content": "那么或者说我们进入第一颗烟雾弹的掩护",
+  "music": 0.0
+ },
+ {
+  "from": 921.98,
+  "to": 923.39,
+  "sid": 422,
+  "location": 2,
+  "content": "直接把这个脚下给搜了",
+  "music": 0.0
+ },
+ {
+  "from": 923.39,
+  "to": 924.08,
+  "sid": 423,
+  "location": 2,
+  "content": "搜完之后",
+  "music": 0.0
+ },
+ {
+  "from": 924.08,
+  "to": 926.11,
+  "sid": 424,
+  "location": 2,
+  "content": "我们的脚下就点一颗烟飞进来",
+  "music": 0.0
+ },
+ {
+  "from": 926.11,
+  "to": 927.43,
+  "sid": 425,
+  "location": 2,
+  "content": "用这个烟做掩体",
+  "music": 0.0
+ },
+ {
+  "from": 927.43,
+  "to": 928.6,
+  "sid": 426,
+  "location": 2,
+  "content": "再去做架枪",
+  "music": 0.0
+ },
+ {
+  "from": 928.6,
+  "to": 931.03,
+  "sid": 427,
+  "location": 2,
+  "content": "做对枪也是可以的",
+  "music": 0.0
+ },
+ {
+  "from": 931.03,
+  "to": 933.44,
+  "sid": 428,
+  "location": 2,
+  "content": "就看你操作的速度快不快",
+  "music": 0.0
+ },
+ {
+  "from": 933.44,
+  "to": 934.88,
+  "sid": 429,
+  "location": 2,
+  "content": "流不流畅吧",
+  "music": 0.0
+ },
+ {
+  "from": 934.88,
+  "to": 938.79,
+  "sid": 430,
+  "location": 2,
+  "content": "呃飞这个飞这个高台呢是有一定的危险性的",
+  "music": 0.0
+ },
+ {
+  "from": 938.79,
+  "to": 941.37,
+  "sid": 431,
+  "location": 2,
+  "content": "因为说因为我们低科研点完之后",
+  "music": 0.0
+ },
+ {
+  "from": 941.37,
+  "to": 943.86,
+  "sid": 432,
+  "location": 2,
+  "content": "就算我们脚下这赛季科研我们跳下来",
+  "music": 0.0
+ },
+ {
+  "from": 943.86,
+  "to": 947.1,
+  "sid": 433,
+  "location": 2,
+  "content": "一样会被二楼的人看到一点点声音",
+  "music": 0.0
+ },
+ {
+  "from": 947.1,
+  "to": 949.53,
+  "sid": 434,
+  "location": 2,
+  "content": "是有被混死的这个风险的",
+  "music": 0.0
+ },
+ {
+  "from": 949.53,
+  "to": 951.18,
+  "sid": 435,
+  "location": 2,
+  "content": "只不过你决斗者突破吗",
+  "music": 0.0
+ },
+ {
+  "from": 951.18,
+  "to": 952.43,
+  "sid": 436,
+  "location": 2,
+  "content": "哪有不危险的吗",
+  "music": 0.0
+ },
+ {
+  "from": 952.43,
+  "to": 953.72,
+  "sid": 437,
+  "location": 2,
+  "content": "天漠之峡",
+  "music": 0.0
+ },
+ {
+  "from": 953.72,
+  "to": 957.17,
+  "sid": 438,
+  "location": 2,
+  "content": "由于天莫之阳之匣这张地图呢比较特殊",
+  "music": 0.0
+ },
+ {
+  "from": 957.17,
+  "to": 960.47,
+  "sid": 439,
+  "location": 2,
+  "content": "可供我们去飞行选择点位不是很多",
+  "music": 0.0
+ },
+ {
+  "from": 960.47,
+  "to": 965.65,
+  "sid": 440,
+  "location": 2,
+  "content": "那么我就教大家一点像RADA一样聪明的非法吧",
+  "music": 0.0
+ },
+ {
+  "from": 965.65,
+  "to": 967.57,
+  "sid": 441,
+  "location": 2,
+  "content": "首先A点一个很聪明的非法",
+  "music": 0.0
+ },
+ {
+  "from": 967.57,
+  "to": 968.37,
+  "sid": 442,
+  "location": 2,
+  "content": "是啊",
+  "music": 0.0
+ },
+ {
+  "from": 968.37,
+  "to": 970.41,
+  "sid": 443,
+  "location": 2,
+  "content": "我打开主播往这里点烟",
+  "music": 0.0
+ },
+ {
+  "from": 970.41,
+  "to": 971.55,
+  "sid": 444,
+  "location": 2,
+  "content": "往前走一个分",
+  "music": 0.0
+ },
+ {
+  "from": 971.55,
+  "to": 976.24,
+  "sid": 445,
+  "location": 2,
+  "content": "咦啊非常的聪明",
+  "music": 0.0
+ },
+ {
+  "from": 976.46,
+  "to": 978.26,
+  "sid": 446,
+  "location": 2,
+  "content": "这是第一种飞法",
+  "music": 0.0
+ },
+ {
+  "from": 978.26,
+  "to": 979.61,
+  "sid": 447,
+  "location": 2,
+  "content": "太聪明了实在",
+  "music": 0.0
+ },
+ {
+  "from": 979.61,
+  "to": 981.44,
+  "sid": 448,
+  "location": 2,
+  "content": "然后搞完脑袋之后啊",
+  "music": 0.0
+ },
+ {
+  "from": 981.44,
+  "to": 984.699,
+  "sid": 449,
+  "location": 2,
+  "content": "我们A点的第二种非法呢是在高低差呃",
+  "music": 0.0
+ },
+ {
+  "from": 984.699,
+  "to": 986.409,
+  "sid": 450,
+  "location": 2,
+  "content": "同样的和第一种配法一样",
+  "music": 0.0
+ },
+ {
+  "from": 986.409,
+  "to": 988.989,
+  "sid": 451,
+  "location": 2,
+  "content": "我们需要队友A点烟雾弹",
+  "music": 0.0
+ },
+ {
+  "from": 988.989,
+  "to": 990.999,
+  "sid": 452,
+  "location": 2,
+  "content": "或者说隔断型技能的掩护",
+  "music": 0.0
+ },
+ {
+  "from": 990.999,
+  "to": 995.55,
+  "sid": 453,
+  "location": 2,
+  "content": "我们就在高低差打开主播跳空格往点里飞",
+  "music": 0.0
+ },
+ {
+  "from": 996.69,
+  "to": 998.12,
+  "sid": 454,
+  "location": 2,
+  "content": "这样就完事了",
+  "music": 0.0
+ },
+ {
+  "from": 998.38,
+  "to": 1000.12,
+  "sid": 455,
+  "location": 2,
+  "content": "就这样飞就可以了",
+  "music": 0.0
+ },
+ {
+  "from": 1000.12,
+  "to": 1002.31,
+  "sid": 456,
+  "location": 2,
+  "content": "因为毕竟这张地图比较特殊嘛",
+  "music": 0.0
+ },
+ {
+  "from": 1002.31,
+  "to": 1006.02,
+  "sid": 457,
+  "location": 2,
+  "content": "可供我们飞行选择的这个地方确实不是很多",
+  "music": 0.0
+ },
+ {
+  "from": 1006.66,
+  "to": 1007.94,
+  "sid": 458,
+  "location": 2,
+  "content": "这是A点",
+  "music": 0.0
+ },
+ {
+  "from": 1007.94,
+  "to": 1009.77,
+  "sid": 459,
+  "location": 2,
+  "content": "第二个比较推荐的非法",
+  "music": 0.0
+ },
+ {
+  "from": 1009.77,
+  "to": 1012.05,
+  "sid": 460,
+  "location": 2,
+  "content": "但是要队友的技能帮帮你啊",
+  "music": 0.0
+ },
+ {
+  "from": 1012.05,
+  "to": 1013.28,
+  "sid": 461,
+  "location": 2,
+  "content": "你不要浪费啊",
+  "music": 0.0
+ },
+ {
+  "from": 1013.28,
+  "to": 1016.43,
+  "sid": 462,
+  "location": 2,
+  "content": "我知道大家肯定会很关心说啊",
+  "music": 0.0
+ },
+ {
+  "from": 1016.43,
+  "to": 1018.4,
+  "sid": 463,
+  "location": 2,
+  "content": "那个那个沙地怎么飞呢",
+  "music": 0.0
+ },
+ {
+  "from": 1018.4,
+  "to": 1021.34,
+  "sid": 464,
+  "location": 2,
+  "content": "首先我是极力不推荐大家往二楼飞的",
+  "music": 0.0
+ },
+ {
+  "from": 1021.34,
+  "to": 1024.599,
+  "sid": 465,
+  "location": 2,
+  "content": "首先你这个二楼你队友会给上烟雾弹",
+  "music": 0.0
+ },
+ {
+  "from": 1024.599,
+  "to": 1026.999,
+  "sid": 466,
+  "location": 2,
+  "content": "然后你飞二楼飞的角度又不是特别好",
+  "music": 0.0
+ },
+ {
+  "from": 1026.999,
+  "to": 1028.369,
+  "sid": 467,
+  "location": 2,
+  "content": "枪位又不是特别多",
+  "music": 0.0
+ },
+ {
+  "from": 1028.369,
+  "to": 1029.629,
+  "sid": 468,
+  "location": 2,
+  "content": "很容易死的",
+  "music": 0.0
+ },
+ {
+  "from": 1029.629,
+  "to": 1031.18,
+  "sid": 469,
+  "location": 2,
+  "content": "如果眼里贴个人",
+  "music": 0.0
+ },
+ {
+  "from": 1031.18,
+  "to": 1033.13,
+  "sid": 470,
+  "location": 2,
+  "content": "或者说刚好有人在支架",
+  "music": 0.0
+ },
+ {
+  "from": 1033.13,
+  "to": 1034.78,
+  "sid": 471,
+  "location": 2,
+  "content": "你拉到二楼这个边边",
+  "music": 0.0
+ },
+ {
+  "from": 1034.78,
+  "to": 1036.1,
+  "sid": 472,
+  "location": 2,
+  "content": "其实就很容易死",
+  "music": 0.0
+ },
+ {
+  "from": 1036.1,
+  "to": 1036.88,
+  "sid": 473,
+  "location": 2,
+  "content": "你也要飞",
+  "music": 0.0
+ },
+ {
+  "from": 1036.88,
+  "to": 1037.66,
+  "sid": 474,
+  "location": 2,
+  "content": "那怎么飞呢",
+  "music": 0.0
+ },
+ {
+  "from": 1037.66,
+  "to": 1039.42,
+  "sid": 475,
+  "location": 2,
+  "content": "那还是给大家教一个",
+  "music": 0.0
+ },
+ {
+  "from": 1039.42,
+  "to": 1042.9,
+  "sid": 476,
+  "location": 2,
+  "content": "我们可以开出风来到这个位置起飞",
+  "music": 0.0
+ },
+ {
+  "from": 1042.9,
+  "to": 1043.65,
+  "sid": 477,
+  "location": 2,
+  "content": "飞进来",
+  "music": 0.0
+ },
+ {
+  "from": 1043.65,
+  "to": 1045.3,
+  "sid": 478,
+  "location": 2,
+  "content": "往脚下再点颗烟",
+  "music": 0.0
+ },
+ {
+  "from": 1045.3,
+  "to": 1048.359,
+  "sid": 479,
+  "location": 2,
+  "content": "跳进ct跟对方自爆",
+  "music": 0.0
+ },
+ {
+  "from": 1048.44,
+  "to": 1050.57,
+  "sid": 480,
+  "location": 2,
+  "content": "我屡屡试不爽",
+  "music": 0.0
+ },
+ {
+  "from": 1050.57,
+  "to": 1053.51,
+  "sid": 481,
+  "location": 2,
+  "content": "每次几乎每次都能够抱到人",
+  "music": 0.0
+ },
+ {
+  "from": 1053.51,
+  "to": 1056.3,
+  "sid": 482,
+  "location": 2,
+  "content": "那如果说我想往包点里打的话",
+  "music": 0.0
+ },
+ {
+  "from": 1056.3,
+  "to": 1059.12,
+  "sid": 483,
+  "location": 2,
+  "content": "嗯不是很好打",
+  "music": 0.0
+ },
+ {
+  "from": 1059.8,
+  "to": 1061.44,
+  "sid": 484,
+  "location": 2,
+  "content": "一般来讲你往这烟里一蹲",
+  "music": 0.0
+ },
+ {
+  "from": 1061.44,
+  "to": 1063.72,
+  "sid": 485,
+  "location": 2,
+  "content": "你也就再往脚下再塞一颗烟",
+  "music": 0.0
+ },
+ {
+  "from": 1063.72,
+  "to": 1066.48,
+  "sid": 486,
+  "location": 2,
+  "content": "然后对方来一个梯次进攻",
+  "music": 0.0
+ },
+ {
+  "from": 1066.52,
+  "to": 1068.83,
+  "sid": 487,
+  "location": 2,
+  "content": "这样慢慢的走过来了",
+  "music": 0.0
+ },
+ {
+  "from": 1068.83,
+  "to": 1071.8,
+  "sid": 488,
+  "location": 2,
+  "content": "也没有特别多的一个进点的手段",
+  "music": 0.0
+ },
+ {
+  "from": 1071.8,
+  "to": 1072.85,
+  "sid": 489,
+  "location": 2,
+  "content": "还是高低差",
+  "music": 0.0
+ },
+ {
+  "from": 1072.85,
+  "to": 1075.27,
+  "sid": 490,
+  "location": 2,
+  "content": "从高低差或者说从正门飞",
+  "music": 0.0
+ },
+ {
+  "from": 1075.27,
+  "to": 1078.06,
+  "sid": 491,
+  "location": 2,
+  "content": "会相对来说安全一点点吧",
+  "music": 0.0
+ },
+ {
+  "from": 1078.06,
+  "to": 1080.22,
+  "sid": 492,
+  "location": 2,
+  "content": "然后呢就是天魔之前的B点",
+  "music": 0.0
+ },
+ {
+  "from": 1080.24,
+  "to": 1082.879,
+  "sid": 493,
+  "location": 2,
+  "content": "这个B点说句良心话",
+  "music": 0.0
+ },
+ {
+  "from": 1083.74,
+  "to": 1086.86,
+  "sid": 494,
+  "location": 2,
+  "content": "不咋不咋好飞就不好飞",
+  "music": 0.0
+ },
+ {
+  "from": 1087.08,
+  "to": 1088.22,
+  "sid": 495,
+  "location": 2,
+  "content": "很难飞",
+  "music": 0.0
+ },
+ {
+  "from": 1088.22,
+  "to": 1089.78,
+  "sid": 496,
+  "location": 2,
+  "content": "不太适合杰特",
+  "music": 0.0
+ },
+ {
+  "from": 1089.78,
+  "to": 1094.51,
+  "sid": 497,
+  "location": 2,
+  "content": "除非说你要去RK这队友给你技能",
+  "music": 0.0
+ },
+ {
+  "from": 1094.51,
+  "to": 1096.64,
+  "sid": 498,
+  "location": 2,
+  "content": "然后你在这个你在这",
+  "music": 0.0
+ },
+ {
+  "from": 1096.64,
+  "to": 1098.62,
+  "sid": 499,
+  "location": 2,
+  "content": "你在这个沙地是吧",
+  "music": 0.0
+ },
+ {
+  "from": 1098.62,
+  "to": 1102.829,
+  "sid": 500,
+  "location": 2,
+  "content": "然后你往这边来一颗烟就跳起来",
+  "music": 0.0
+ },
+ {
+  "from": 1102.829,
+  "to": 1103.999,
+  "sid": 501,
+  "location": 2,
+  "content": "往二楼里面飞",
+  "music": 0.0
+ },
+ {
+  "from": 1103.999,
+  "to": 1105.379,
+  "sid": 502,
+  "location": 2,
+  "content": "这个这个是可以的",
+  "music": 0.0
+ },
+ {
+  "from": 1105.379,
+  "to": 1107.089,
+  "sid": 503,
+  "location": 2,
+  "content": "但是你一定要队友的技能啊",
+  "music": 0.0
+ },
+ {
+  "from": 1107.089,
+  "to": 1108.649,
+  "sid": 504,
+  "location": 2,
+  "content": "要点什么盘棋的阵啊",
+  "music": 0.0
+ },
+ {
+  "from": 1108.649,
+  "to": 1110.53,
+  "sid": 505,
+  "location": 2,
+  "content": "或者闪光弹这种东西",
+  "music": 0.0
+ },
+ {
+  "from": 1110.53,
+  "to": 1113.92,
+  "sid": 506,
+  "location": 2,
+  "content": "本来这张地图不太适合JETT打突破",
+  "music": 0.0
+ },
+ {
+  "from": 1113.92,
+  "to": 1115.6,
+  "sid": 507,
+  "location": 2,
+  "content": "如果这张地图带JETT的话",
+  "music": 0.0
+ },
+ {
+  "from": 1115.6,
+  "to": 1117.31,
+  "sid": 508,
+  "location": 2,
+  "content": "很有可能是双决斗",
+  "music": 0.0
+ },
+ {
+  "from": 1117.31,
+  "to": 1118.51,
+  "sid": 509,
+  "location": 2,
+  "content": "再带一个炸弹妹",
+  "music": 0.0
+ },
+ {
+  "from": 1118.51,
+  "to": 1120.37,
+  "sid": 510,
+  "location": 2,
+  "content": "然后捷提在这张地图上",
+  "music": 0.0
+ },
+ {
+  "from": 1120.37,
+  "to": 1123.58,
+  "sid": 511,
+  "location": 2,
+  "content": "更多的去承担一个狙击手的作用吧",
+  "music": 0.0
+ },
+ {
+  "from": 1123.58,
+  "to": 1124.679,
+  "sid": 512,
+  "location": 2,
+  "content": "不太好飞",
+  "music": 0.0
+ },
+ {
+  "from": 1124.679,
+  "to": 1126.029,
+  "sid": 513,
+  "location": 2,
+  "content": "那这就是天魔之匣",
+  "music": 0.0
+ },
+ {
+  "from": 1126.029,
+  "to": 1127.739,
+  "sid": 514,
+  "location": 2,
+  "content": "一落境地A点",
+  "music": 0.0
+ },
+ {
+  "from": 1127.739,
+  "to": 1128.88,
+  "sid": 515,
+  "location": 2,
+  "content": "第一个点位",
+  "music": 0.0
+ },
+ {
+  "from": 1128.88,
+  "to": 1130.74,
+  "sid": 516,
+  "location": 2,
+  "content": "这个烟有一点点讲究啊",
+  "music": 0.0
+ },
+ {
+  "from": 1130.74,
+  "to": 1134.28,
+  "sid": 517,
+  "location": 2,
+  "content": "我看到很多兄弟在实战的时候烟点的太近了",
+  "music": 0.0
+ },
+ {
+  "from": 1134.28,
+  "to": 1136.09,
+  "sid": 518,
+  "location": 2,
+  "content": "然后直接往烟外去拉",
+  "music": 0.0
+ },
+ {
+  "from": 1136.09,
+  "to": 1137.53,
+  "sid": 519,
+  "location": 2,
+  "content": "这样会有一个坏处",
+  "music": 0.0
+ },
+ {
+  "from": 1137.53,
+  "to": 1138.79,
+  "sid": 520,
+  "location": 2,
+  "content": "就是说你蓝烟之后",
+  "music": 0.0
+ },
+ {
+  "from": 1138.79,
+  "to": 1142.399,
+  "sid": 521,
+  "location": 2,
+  "content": "你可能会面临很多个点位的抢线",
+  "music": 0.0
+ },
+ {
+  "from": 1144.6,
+  "to": 1147.879,
+  "sid": 522,
+  "location": 2,
+  "content": "那么我们把烟点的稍微深一点点",
+  "music": 0.0
+ },
+ {
+  "from": 1148.8,
+  "to": 1149.54,
+  "sid": 523,
+  "location": 2,
+  "content": "看一下",
+  "music": 0.0
+ },
+ {
+  "from": 1149.54,
+  "to": 1150.56,
+  "sid": 524,
+  "location": 2,
+  "content": "看一下周围",
+  "music": 0.0
+ },
+ {
+  "from": 1150.56,
+  "to": 1152.24,
+  "sid": 525,
+  "location": 2,
+  "content": "这样烟稍微深一点",
+  "music": 0.0
+ },
+ {
+  "from": 1152.24,
+  "to": 1154.07,
+  "sid": 526,
+  "location": 2,
+  "content": "你可以一个点位一个点位的去清",
+  "music": 0.0
+ },
+ {
+  "from": 1154.07,
+  "to": 1156.909,
+  "sid": 527,
+  "location": 2,
+  "content": "会清的比较有条理嗯",
+  "music": 0.0
+ },
+ {
+  "from": 1156.909,
+  "to": 1159.579,
+  "sid": 528,
+  "location": 2,
+  "content": "有秩序一点会更加安全",
+  "music": 0.0
+ },
+ {
+  "from": 1159.579,
+  "to": 1160.989,
+  "sid": 529,
+  "location": 2,
+  "content": "那么一落进点A点的",
+  "music": 0.0
+ },
+ {
+  "from": 1160.989,
+  "to": 1163.029,
+  "sid": 530,
+  "location": 2,
+  "content": "第二个非法就难度比较高了",
+  "music": 0.0
+ },
+ {
+  "from": 1163.029,
+  "to": 1165.159,
+  "sid": 531,
+  "location": 2,
+  "content": "首先你要确保你右边没有人",
+  "music": 0.0
+ },
+ {
+  "from": 1165.159,
+  "to": 1167.21,
+  "sid": 532,
+  "location": 2,
+  "content": "这里是不能蹲一个老六的",
+  "music": 0.0
+ },
+ {
+  "from": 1167.21,
+  "to": 1169.43,
+  "sid": 533,
+  "location": 2,
+  "content": "然后呢看正面的压力",
+  "music": 0.0
+ },
+ {
+  "from": 1169.43,
+  "to": 1171.38,
+  "sid": 534,
+  "location": 2,
+  "content": "如果正面给你的压力比较小",
+  "music": 0.0
+ },
+ {
+  "from": 1171.38,
+  "to": 1173.42,
+  "sid": 535,
+  "location": 2,
+  "content": "你能够听到这个词典的话",
+  "music": 0.0
+ },
+ {
+  "from": 1173.42,
+  "to": 1175.79,
+  "sid": 536,
+  "location": 2,
+  "content": "我就直接点烟往台上飞",
+  "music": 0.0
+ },
+ {
+  "from": 1175.79,
+  "to": 1177.05,
+  "sid": 537,
+  "location": 2,
+  "content": "来小道找人",
+  "music": 0.0
+ },
+ {
+  "from": 1177.05,
+  "to": 1180.0,
+  "sid": 538,
+  "location": 2,
+  "content": "那如果说由于正面压力比较大",
+  "music": 0.0
+ },
+ {
+  "from": 1180.0,
+  "to": 1182.25,
+  "sid": 539,
+  "location": 2,
+  "content": "这个死点或者说这个正面的枪位啊",
+  "music": 0.0
+ },
+ {
+  "from": 1182.25,
+  "to": 1183.75,
+  "sid": 540,
+  "location": 2,
+  "content": "我很难清理它",
+  "music": 0.0
+ },
+ {
+  "from": 1183.75,
+  "to": 1185.88,
+  "sid": 541,
+  "location": 2,
+  "content": "我只能亲到我脸上这一块的",
+  "music": 0.0
+ },
+ {
+  "from": 1185.88,
+  "to": 1188.71,
+  "sid": 542,
+  "location": 2,
+  "content": "那么我们把烟直接点在这里飞起来",
+  "music": 0.0
+ },
+ {
+  "from": 1188.71,
+  "to": 1189.85,
+  "sid": 543,
+  "location": 2,
+  "content": "看到有浪哎呦",
+  "music": 0.0
+ },
+ {
+  "from": 1189.85,
+  "to": 1191.71,
+  "sid": 544,
+  "location": 2,
+  "content": "就直接飞进烟雾弹藏着",
+  "music": 0.0
+ },
+ {
+  "from": 1191.71,
+  "to": 1194.11,
+  "sid": 545,
+  "location": 2,
+  "content": "当乌龟等队友帮你啊",
+  "music": 0.0
+ },
+ {
+  "from": 1194.11,
+  "to": 1196.13,
+  "sid": 546,
+  "location": 2,
+  "content": "如果说我们没有看到人",
+  "music": 0.0
+ },
+ {
+  "from": 1196.13,
+  "to": 1197.84,
+  "sid": 547,
+  "location": 2,
+  "content": "那么在这个烟雾弹的掩护下",
+  "music": 0.0
+ },
+ {
+  "from": 1197.84,
+  "to": 1199.58,
+  "sid": 548,
+  "location": 2,
+  "content": "哎我们还可以把小道清掉",
+  "music": 0.0
+ },
+ {
+  "from": 1199.58,
+  "to": 1201.62,
+  "sid": 549,
+  "location": 2,
+  "content": "然后再再来看这个正面啊",
+  "music": 0.0
+ },
+ {
+  "from": 1201.62,
+  "to": 1202.64,
+  "sid": 550,
+  "location": 2,
+  "content": "如果觉得危险的话",
+  "music": 0.0
+ },
+ {
+  "from": 1202.64,
+  "to": 1203.99,
+  "sid": 551,
+  "location": 2,
+  "content": "再划走就OK了",
+  "music": 0.0
+ },
+ {
+  "from": 1203.99,
+  "to": 1205.13,
+  "sid": 552,
+  "location": 2,
+  "content": "一路进点的B点",
+  "music": 0.0
+ },
+ {
+  "from": 1205.13,
+  "to": 1207.35,
+  "sid": 553,
+  "location": 2,
+  "content": "一般来讲队友会在这里帮我们点一颗烟",
+  "music": 0.0
+ },
+ {
+  "from": 1207.35,
+  "to": 1209.63,
+  "sid": 554,
+  "location": 2,
+  "content": "然后我们这个进点之后就直接飞就行了",
+  "music": 0.0
+ },
+ {
+  "from": 1209.63,
+  "to": 1211.13,
+  "sid": 555,
+  "location": 2,
+  "content": "这颗烟雾弹会比较宽",
+  "music": 0.0
+ },
+ {
+  "from": 1211.13,
+  "to": 1211.79,
+  "sid": 556,
+  "location": 2,
+  "content": "可能是欧盟的",
+  "music": 0.0
+ },
+ {
+  "from": 1211.79,
+  "to": 1212.86,
+  "sid": 557,
+  "location": 2,
+  "content": "也可能是嘉心卓的",
+  "music": 0.0
+ },
+ {
+  "from": 1212.86,
+  "to": 1215.53,
+  "sid": 558,
+  "location": 2,
+  "content": "帮我们遮盖住ab连这方面的视野",
+  "music": 0.0
+ },
+ {
+  "from": 1215.53,
+  "to": 1218.5,
+  "sid": 559,
+  "location": 2,
+  "content": "那如果说没有没有人帮我们点烟",
+  "music": 0.0
+ },
+ {
+  "from": 1218.5,
+  "to": 1220.75,
+  "sid": 560,
+  "location": 2,
+  "content": "我们自己想飞怎么办呢",
+  "music": 0.0
+ },
+ {
+  "from": 1220.75,
+  "to": 1223.48,
+  "sid": 561,
+  "location": 2,
+  "content": "OK我们把烟给到这个位置",
+  "music": 0.0
+ },
+ {
+  "from": 1223.48,
+  "to": 1225.22,
+  "sid": 562,
+  "location": 2,
+  "content": "OK进点之后直接飞",
+  "music": 0.0
+ },
+ {
+  "from": 1225.22,
+  "to": 1226.06,
+  "sid": 563,
+  "location": 2,
+  "content": "你看很安全",
+  "music": 0.0
+ },
+ {
+  "from": 1226.06,
+  "to": 1230.65,
+  "sid": 564,
+  "location": 2,
+  "content": "这颗烟就可以把这个敌人的抢线全部给他扯掉",
+  "music": 0.0
+ },
+ {
+  "from": 1230.65,
+  "to": 1233.28,
+  "sid": 565,
+  "location": 2,
+  "content": "然后后续你想去哪玩都可以",
+  "music": 0.0
+ },
+ {
+  "from": 1233.34,
+  "to": 1235.59,
+  "sid": 566,
+  "location": 2,
+  "content": "那你们家总不能一根烟都没有吧",
+  "music": 0.0
+ },
+ {
+  "from": 1235.59,
+  "to": 1238.41,
+  "sid": 567,
+  "location": 2,
+  "content": "就是你这里的烟没有ab莲子有烟吧",
+  "music": 0.0
+ },
+ {
+  "from": 1238.41,
+  "to": 1239.4,
+  "sid": 568,
+  "location": 2,
+  "content": "ab连没烟",
+  "music": 0.0
+ },
+ {
+  "from": 1239.4,
+  "to": 1241.14,
+  "sid": 569,
+  "location": 2,
+  "content": "这BC莲子总得有烟吧",
+  "music": 0.0
+ },
+ {
+  "from": 1241.14,
+  "to": 1242.17,
+  "sid": 570,
+  "location": 2,
+  "content": "那哪都没烟",
+  "music": 0.0
+ },
+ {
+  "from": 1242.17,
+  "to": 1245.41,
+  "sid": 571,
+  "location": 2,
+  "content": "那就只能说随便飞飞",
+  "music": 0.0
+ },
+ {
+  "from": 1245.41,
+  "to": 1246.31,
+  "sid": 572,
+  "location": 2,
+  "content": "你看啊",
+  "music": 0.0
+ },
+ {
+  "from": 1246.31,
+  "to": 1247.24,
+  "sid": 573,
+  "location": 2,
+  "content": "这个进点一清",
+  "music": 0.0
+ },
+ {
+  "from": 1247.24,
+  "to": 1249.22,
+  "sid": 574,
+  "location": 2,
+  "content": "没有人看我这个点烟",
+  "music": 0.0
+ },
+ {
+  "from": 1249.22,
+  "to": 1250.15,
+  "sid": 575,
+  "location": 2,
+  "content": "这样飞过来",
+  "music": 0.0
+ },
+ {
+  "from": 1250.15,
+  "to": 1250.75,
+  "sid": 576,
+  "location": 2,
+  "content": "我看到人了",
+  "music": 0.0
+ },
+ {
+  "from": 1250.75,
+  "to": 1251.68,
+  "sid": 577,
+  "location": 2,
+  "content": "我再划走呗",
+  "music": 0.0
+ },
+ {
+  "from": 1251.68,
+  "to": 1252.82,
+  "sid": 578,
+  "location": 2,
+  "content": "那怎么办呢",
+  "music": 0.0
+ },
+ {
+  "from": 1252.82,
+  "to": 1254.58,
+  "sid": 579,
+  "location": 2,
+  "content": "没有烟是吧",
+  "music": 0.0
+ },
+ {
+  "from": 1254.74,
+  "to": 1256.12,
+  "sid": 580,
+  "location": 2,
+  "content": "这是特殊情况",
+  "music": 0.0
+ },
+ {
+  "from": 1256.12,
+  "to": 1259.33,
+  "sid": 581,
+  "location": 2,
+  "content": "然后A点如果队友没有办法帮你清",
+  "music": 0.0
+ },
+ {
+  "from": 1259.33,
+  "to": 1262.99,
+  "sid": 582,
+  "location": 2,
+  "content": "像这种死角位是种非常难缠的位置的话",
+  "music": 0.0
+ },
+ {
+  "from": 1262.99,
+  "to": 1264.19,
+  "sid": 583,
+  "location": 2,
+  "content": "你又需要进点",
+  "music": 0.0
+ },
+ {
+  "from": 1264.19,
+  "to": 1265.21,
+  "sid": 584,
+  "location": 2,
+  "content": "我们怎么飞呢",
+  "music": 0.0
+ },
+ {
+  "from": 1265.21,
+  "to": 1267.34,
+  "sid": 585,
+  "location": 2,
+  "content": "我们会在这里点位推烟",
+  "music": 0.0
+ },
+ {
+  "from": 1267.34,
+  "to": 1268.93,
+  "sid": 586,
+  "location": 2,
+  "content": "然后左边右边看满",
+  "music": 0.0
+ },
+ {
+  "from": 1268.93,
+  "to": 1271.67,
+  "sid": 587,
+  "location": 2,
+  "content": "OK在包点进点",
+  "music": 0.0
+ },
+ {
+  "from": 1271.67,
+  "to": 1272.81,
+  "sid": 588,
+  "location": 2,
+  "content": "等一下队友",
+  "music": 0.0
+ },
+ {
+  "from": 1272.81,
+  "to": 1274.58,
+  "sid": 589,
+  "location": 2,
+  "content": "因为我们的这个前提",
+  "music": 0.0
+ },
+ {
+  "from": 1274.58,
+  "to": 1277.17,
+  "sid": 590,
+  "location": 2,
+  "content": "假设是队友没法帮你清一些点",
+  "music": 0.0
+ },
+ {
+  "from": 1277.17,
+  "to": 1279.18,
+  "sid": 591,
+  "location": 2,
+  "content": "所以你需要在包点里等一等他们",
+  "music": 0.0
+ },
+ {
+  "from": 1279.18,
+  "to": 1281.649,
+  "sid": 592,
+  "location": 2,
+  "content": "对方你要保证自己的存活",
+  "music": 0.0
+ },
+ {
+  "from": 1281.649,
+  "to": 1282.729,
+  "sid": 593,
+  "location": 2,
+  "content": "在这种情况下",
+  "music": 0.0
+ },
+ {
+  "from": 1282.729,
+  "to": 1285.399,
+  "sid": 594,
+  "location": 2,
+  "content": "你可以酌情的去教你的第二颗烟雾弹",
+  "music": 0.0
+ },
+ {
+  "from": 1285.399,
+  "to": 1287.229,
+  "sid": 595,
+  "location": 2,
+  "content": "你就觉得啊这个压力太大了",
+  "music": 0.0
+ },
+ {
+  "from": 1287.229,
+  "to": 1288.6,
+  "sid": 596,
+  "location": 2,
+  "content": "我给到这里也行",
+  "music": 0.0
+ },
+ {
+  "from": 1288.6,
+  "to": 1290.81,
+  "sid": 597,
+  "location": 2,
+  "content": "或者压力确实太大了",
+  "music": 0.0
+ },
+ {
+  "from": 1290.81,
+  "to": 1294.02,
+  "sid": 598,
+  "location": 2,
+  "content": "那我往这个位置一点也可以",
+  "music": 0.0
+ },
+ {
+  "from": 1294.02,
+  "to": 1296.389,
+  "sid": 599,
+  "location": 2,
+  "content": "就是看你自己你个人了",
+  "music": 0.0
+ },
+ {
+  "from": 1296.389,
+  "to": 1297.56,
+  "sid": 600,
+  "location": 2,
+  "content": "保证自己安全",
+  "music": 0.0
+ },
+ {
+  "from": 1297.56,
+  "to": 1300.98,
+  "sid": 601,
+  "location": 2,
+  "content": "那么当队友可以帮我们去清一些死角的时候",
+  "music": 0.0
+ },
+ {
+  "from": 1300.98,
+  "to": 1302.66,
+  "sid": 602,
+  "location": 2,
+  "content": "那我们的工作就变简单了",
+  "music": 0.0
+ },
+ {
+  "from": 1302.66,
+  "to": 1303.62,
+  "sid": 603,
+  "location": 2,
+  "content": "那那这样的话",
+  "music": 0.0
+ },
+ {
+  "from": 1303.62,
+  "to": 1306.42,
+  "sid": 604,
+  "location": 2,
+  "content": "我们进点可能还会有一些闪光弹啊",
+  "music": 0.0
+ },
+ {
+  "from": 1306.42,
+  "to": 1307.86,
+  "sid": 605,
+  "location": 2,
+  "content": "弹刀剑的一些技能覆盖",
+  "music": 0.0
+ },
+ {
+  "from": 1307.86,
+  "to": 1309.51,
+  "sid": 606,
+  "location": 2,
+  "content": "那我们就往这个位置飞",
+  "music": 0.0
+ },
+ {
+  "from": 1309.51,
+  "to": 1311.77,
+  "sid": 607,
+  "location": 2,
+  "content": "然后呢手法是这样的",
+  "music": 0.0
+ },
+ {
+  "from": 1311.77,
+  "to": 1312.85,
+  "sid": 608,
+  "location": 2,
+  "content": "空格Q同时按",
+  "music": 0.0
+ },
+ {
+  "from": 1312.85,
+  "to": 1317.96,
+  "sid": 609,
+  "location": 2,
+  "content": "但是空格长按开技能往前飞不就完事了吗",
+  "music": 0.0
+ },
+ {
+  "from": 1319.18,
+  "to": 1320.55,
+  "sid": 610,
+  "location": 2,
+  "content": "这样就进来了",
+  "music": 0.0
+ },
+ {
+  "from": 1320.55,
+  "to": 1323.88,
+  "sid": 611,
+  "location": 2,
+  "content": "然后后续我可以再把自己藏在烟雾弹里",
+  "music": 0.0
+ },
+ {
+  "from": 1323.88,
+  "to": 1328.04,
+  "sid": 612,
+  "location": 2,
+  "content": "对方我可以这两天换位置都是可以的",
+  "music": 0.0
+ },
+ {
+  "from": 1328.04,
+  "to": 1329.03,
+  "sid": 613,
+  "location": 2,
+  "content": "都是没有问题的",
+  "music": 0.0
+ },
+ {
+  "from": 1329.03,
+  "to": 1329.99,
+  "sid": 614,
+  "location": 2,
+  "content": "怎么打都行",
+  "music": 0.0
+ },
+ {
+  "from": 1329.99,
+  "to": 1335.01,
+  "sid": 615,
+  "location": 2,
+  "content": "那么当队友可以给我们提供很多帮助的时候",
+  "music": 0.0
+ },
+ {
+  "from": 1335.01,
+  "to": 1337.8,
+  "sid": 616,
+  "location": 2,
+  "content": "我们就可以玩一些不太一样的东西了",
+  "music": 0.0
+ },
+ {
+  "from": 1337.8,
+  "to": 1339.45,
+  "sid": 617,
+  "location": 2,
+  "content": "就比如说烟都给了",
+  "music": 0.0
+ },
+ {
+  "from": 1339.45,
+  "to": 1340.969,
+  "sid": 618,
+  "location": 2,
+  "content": "然后啥技能都到位",
+  "music": 0.0
+ },
+ {
+  "from": 1340.969,
+  "to": 1345.169,
+  "sid": 619,
+  "location": 2,
+  "content": "我们可以往包点这个角点一颗烟",
+  "music": 0.0
+ },
+ {
+  "from": 1345.169,
+  "to": 1346.449,
+  "sid": 620,
+  "location": 2,
+  "content": "直接按Q起飞",
+  "music": 0.0
+ },
+ {
+  "from": 1346.449,
+  "to": 1348.069,
+  "sid": 621,
+  "location": 2,
+  "content": "我们就可以看到一个位置啊",
+  "music": 0.0
+ },
+ {
+  "from": 1348.069,
+  "to": 1350.739,
+  "sid": 622,
+  "location": 2,
+  "content": "去看左边这个位置能看到死点",
+  "music": 0.0
+ },
+ {
+  "from": 1350.739,
+  "to": 1352.389,
+  "sid": 623,
+  "location": 2,
+  "content": "然后刚刚烟不是还在这里吗",
+  "music": 0.0
+ },
+ {
+  "from": 1352.389,
+  "to": 1354.98,
+  "sid": 624,
+  "location": 2,
+  "content": "我们想飞还是能飞到这个台阶上的",
+  "music": 0.0
+ },
+ {
+  "from": 1355.82,
+  "to": 1359.64,
+  "sid": 625,
+  "location": 2,
+  "content": "这是这是飞高枪的一个变种",
+  "music": 0.0
+ },
+ {
+  "from": 1359.64,
+  "to": 1361.11,
+  "sid": 626,
+  "location": 2,
+  "content": "就是往这个位置点烟",
+  "music": 0.0
+ },
+ {
+  "from": 1361.11,
+  "to": 1362.88,
+  "sid": 627,
+  "location": 2,
+  "content": "然后直接起飞去看词典",
+  "music": 0.0
+ },
+ {
+  "from": 1362.88,
+  "to": 1363.12,
+  "sid": 628,
+  "location": 2,
+  "content": "诶",
+  "music": 0.0
+ },
+ {
+  "from": 1363.12,
+  "to": 1363.54,
+  "sid": 629,
+  "location": 2,
+  "content": "没有人",
+  "music": 0.0
+ },
+ {
+  "from": 1363.54,
+  "to": 1364.44,
+  "sid": 630,
+  "location": 2,
+  "content": "我往前飞",
+  "music": 0.0
+ },
+ {
+  "from": 1364.44,
+  "to": 1368.91,
+  "sid": 631,
+  "location": 2,
+  "content": "OK那么在视频的最后教大家劫境之地怎么飞",
+  "music": 0.0
+ },
+ {
+  "from": 1368.91,
+  "to": 1372.02,
+  "sid": 632,
+  "location": 2,
+  "content": "首先呢我们需要来到英雄选择界面",
+  "music": 0.0
+ },
+ {
+  "from": 1372.02,
+  "to": 1374.3,
+  "sid": 633,
+  "location": 2,
+  "content": "然后呢我们不要去选择阶梯",
+  "music": 0.0
+ },
+ {
+  "from": 1374.3,
+  "to": 1375.86,
+  "sid": 634,
+  "location": 2,
+  "content": "我们就选择炸弹妹",
+  "music": 0.0
+ },
+ {
+  "from": 1375.92,
+  "to": 1380.26,
+  "sid": 635,
+  "location": 2,
+  "content": "然后大家去搜一下炸弹妹教程好吧",
+  "music": 0.0
+ },
+ {
+  "from": 1380.76,
+  "to": 1383.52,
+  "sid": 636,
+  "location": 2,
+  "content": "这就是我们的杰特劫境之地",
+  "music": 0.0
+ },
+ {
+  "from": 1383.52,
+  "to": 1389.98,
+  "sid": 637,
+  "location": 2,
+  "content": "非法本个系列视频到这边就全部结束了",
+  "music": 0.0
+ },
+ {
+  "from": 1389.98,
+  "to": 1390.82,
+  "sid": 638,
+  "location": 2,
+  "content": "拜拜",
+  "music": 0.0
+ }
+]

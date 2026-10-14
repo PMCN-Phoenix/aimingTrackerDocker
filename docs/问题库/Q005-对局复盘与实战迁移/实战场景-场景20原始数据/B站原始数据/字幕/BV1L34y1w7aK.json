@@ -1,0 +1,442 @@
+[
+ {
+  "from": 0.12,
+  "to": 1.14,
+  "sid": 1,
+  "location": 2,
+  "content": "学会这个思路",
+  "music": 0.0
+ },
+ {
+  "from": 1.14,
+  "to": 3.14,
+  "sid": 2,
+  "location": 2,
+  "content": "绝对能大幅提升你捷风的胜率",
+  "music": 0.0
+ },
+ {
+  "from": 3.14,
+  "to": 5.9,
+  "sid": 3,
+  "location": 2,
+  "content": "最近我发现很多捷风玩家在dash进点的时候",
+  "music": 0.0
+ },
+ {
+  "from": 5.9,
+  "to": 7.37,
+  "sid": 4,
+  "location": 2,
+  "content": "都存在一个明显的误区",
+  "music": 0.0
+ },
+ {
+  "from": 7.37,
+  "to": 8.72,
+  "sid": 5,
+  "location": 2,
+  "content": "大家都喜欢丢完烟",
+  "music": 0.0
+ },
+ {
+  "from": 8.72,
+  "to": 11.66,
+  "sid": 6,
+  "location": 2,
+  "content": "dash进去之后直接拉出来和点点的敌人对枪",
+  "music": 0.0
+ },
+ {
+  "from": 11.66,
+  "to": 14.09,
+  "sid": 7,
+  "location": 2,
+  "content": "但此时你的队友都在后面躲着不进点",
+  "music": 0.0
+ },
+ {
+  "from": 14.09,
+  "to": 15.24,
+  "sid": 8,
+  "location": 2,
+  "content": "然后你就暴毙了",
+  "music": 0.0
+ },
+ {
+  "from": 15.24,
+  "to": 16.32,
+  "sid": 9,
+  "location": 2,
+  "content": "我相信点开视频",
+  "music": 0.0
+ },
+ {
+  "from": 16.32,
+  "to": 18.36,
+  "sid": 10,
+  "location": 2,
+  "content": "大家都遇到过这种血压飙升的情况",
+  "music": 0.0
+ },
+ {
+  "from": 18.36,
+  "to": 20.64,
+  "sid": 11,
+  "location": 2,
+  "content": "捷风11突需要进点创造枪线",
+  "music": 0.0
+ },
+ {
+  "from": 20.64,
+  "to": 21.63,
+  "sid": 12,
+  "location": 2,
+  "content": "然后拿手刹",
+  "music": 0.0
+ },
+ {
+  "from": 21.63,
+  "to": 22.86,
+  "sid": 13,
+  "location": 2,
+  "content": "这个意识没错",
+  "music": 0.0
+ },
+ {
+  "from": 22.86,
+  "to": 25.35,
+  "sid": 14,
+  "location": 2,
+  "content": "但当你dash禁烟创造了枪线的时候",
+  "music": 0.0
+ },
+ {
+  "from": 25.35,
+  "to": 27.66,
+  "sid": 15,
+  "location": 2,
+  "content": "你的队友往往没有那么快能够跟上你",
+  "music": 0.0
+ },
+ {
+  "from": 27.66,
+  "to": 29.67,
+  "sid": 16,
+  "location": 2,
+  "content": "他们会受到敌人大量的技能限制",
+  "music": 0.0
+ },
+ {
+  "from": 29.67,
+  "to": 31.32,
+  "sid": 17,
+  "location": 2,
+  "content": "例如烟雾弹伤害技能",
+  "music": 0.0
+ },
+ {
+  "from": 31.32,
+  "to": 32.56,
+  "sid": 18,
+  "location": 2,
+  "content": "还有控制技能等等",
+  "music": 0.0
+ },
+ {
+  "from": 32.56,
+  "to": 34.99,
+  "sid": 19,
+  "location": 2,
+  "content": "所以就算你带时间去创造了一条枪线",
+  "music": 0.0
+ },
+ {
+  "from": 34.99,
+  "to": 37.42,
+  "sid": 20,
+  "location": 2,
+  "content": "但你的队友没有办法拉出来对枪",
+  "music": 0.0
+ },
+ {
+  "from": 37.42,
+  "to": 40.42,
+  "sid": 21,
+  "location": 2,
+  "content": "这时其实正面战场还是只存在一个枪位",
+  "music": 0.0
+ },
+ {
+  "from": 40.42,
+  "to": 42.35,
+  "sid": 22,
+  "location": 2,
+  "content": "无法形成多条枪线的夹击",
+  "music": 0.0
+ },
+ {
+  "from": 42.35,
+  "to": 43.31,
+  "sid": 23,
+  "location": 2,
+  "content": "用通俗的话来说",
+  "music": 0.0
+ },
+ {
+  "from": 43.31,
+  "to": 44.93,
+  "sid": 24,
+  "location": 2,
+  "content": "就是你这样从烟里拉出来",
+  "music": 0.0
+ },
+ {
+  "from": 44.93,
+  "to": 45.65,
+  "sid": 25,
+  "location": 2,
+  "content": "对枪的时候",
+  "music": 0.0
+ },
+ {
+  "from": 45.65,
+  "to": 46.74,
+  "sid": 26,
+  "location": 2,
+  "content": "很容易被队友卖掉",
+  "music": 0.0
+ },
+ {
+  "from": 46.74,
+  "to": 49.29,
+  "sid": 27,
+  "location": 2,
+  "content": "所以正确的思路应该是在dash进去之后",
+  "music": 0.0
+ },
+ {
+  "from": 49.29,
+  "to": 50.52,
+  "sid": 28,
+  "location": 2,
+  "content": "先躲在自己的烟里",
+  "music": 0.0
+ },
+ {
+  "from": 50.52,
+  "to": 51.62,
+  "sid": 29,
+  "location": 2,
+  "content": "保证自己的生存",
+  "music": 0.0
+ },
+ {
+  "from": 51.62,
+  "to": 52.82,
+  "sid": 30,
+  "location": 2,
+  "content": "如果烟雾时间到了",
+  "music": 0.0
+ },
+ {
+  "from": 52.82,
+  "to": 54.3,
+  "sid": 31,
+  "location": 2,
+  "content": "就再给自己续一颗烟",
+  "music": 0.0
+ },
+ {
+  "from": 54.3,
+  "to": 56.49,
+  "sid": 32,
+  "location": 2,
+  "content": "这时队友看你半天不从烟里出来",
+  "music": 0.0
+ },
+ {
+  "from": 56.49,
+  "to": 57.6,
+  "sid": 33,
+  "location": 2,
+  "content": "注意力就会分散",
+  "music": 0.0
+ },
+ {
+  "from": 57.6,
+  "to": 58.98,
+  "sid": 34,
+  "location": 2,
+  "content": "等你的队友也冲进来",
+  "music": 0.0
+ },
+ {
+  "from": 58.98,
+  "to": 60.87,
+  "sid": 35,
+  "location": 2,
+  "content": "或者有给到你一些技能辅助的时候",
+  "music": 0.0
+ },
+ {
+  "from": 60.87,
+  "to": 62.18,
+  "sid": 36,
+  "location": 2,
+  "content": "你再从烟里拉出来",
+  "music": 0.0
+ },
+ {
+  "from": 62.18,
+  "to": 64.28,
+  "sid": 37,
+  "location": 2,
+  "content": "就可以更加轻松地完成手刹了",
+  "music": 0.0
+ },
+ {
+  "from": 64.28,
+  "to": 65.66,
+  "sid": 38,
+  "location": 2,
+  "content": "如果对手直接混烟",
+  "music": 0.0
+ },
+ {
+  "from": 65.66,
+  "to": 67.58,
+  "sid": 39,
+  "location": 2,
+  "content": "你这时候就可以拉出去抓他timing",
+  "music": 0.0
+ },
+ {
+  "from": 67.58,
+  "to": 69.32,
+  "sid": 40,
+  "location": 2,
+  "content": "所以说捷风带着进去之后",
+  "music": 0.0
+ },
+ {
+  "from": 69.32,
+  "to": 71.21,
+  "sid": 41,
+  "location": 2,
+  "content": "首要任务是保住自己的性命",
+  "music": 0.0
+ },
+ {
+  "from": 71.21,
+  "to": 72.56,
+  "sid": 42,
+  "location": 2,
+  "content": "如果你死的太快了",
+  "music": 0.0
+ },
+ {
+  "from": 72.56,
+  "to": 74.58,
+  "sid": 43,
+  "location": 2,
+  "content": "你创造的第二条枪线也就不存在了",
+  "music": 0.0
+ },
+ {
+  "from": 74.58,
+  "to": 76.02,
+  "sid": 44,
+  "location": 2,
+  "content": "捷风只要躲在烟里",
+  "music": 0.0
+ },
+ {
+  "from": 76.02,
+  "to": 77.94,
+  "sid": 45,
+  "location": 2,
+  "content": "就会给点内的敌人造成巨大的压力",
+  "music": 0.0
+ },
+ {
+  "from": 77.94,
+  "to": 79.08,
+  "sid": 46,
+  "location": 2,
+  "content": "平时大家玩捷风的时候",
+  "music": 0.0
+ },
+ {
+  "from": 79.08,
+  "to": 80.34,
+  "sid": 47,
+  "location": 2,
+  "content": "也要和队友对家交流",
+  "music": 0.0
+ },
+ {
+  "from": 80.34,
+  "to": 81.0,
+  "sid": 48,
+  "location": 2,
+  "content": "不要一个人忙",
+  "music": 0.0
+ },
+ {
+  "from": 81.0,
+  "to": 81.78,
+  "sid": 49,
+  "location": 2,
+  "content": "不能先冲",
+  "music": 0.0
+ },
+ {
+  "from": 81.78,
+  "to": 84.18,
+  "sid": 50,
+  "location": 2,
+  "content": "要学会去靠队友的闪光控制技能",
+  "music": 0.0
+ },
+ {
+  "from": 84.18,
+  "to": 85.53,
+  "sid": 51,
+  "location": 2,
+  "content": "和适当的在眼里保命",
+  "music": 0.0
+ },
+ {
+  "from": 85.53,
+  "to": 87.3,
+  "sid": 52,
+  "location": 2,
+  "content": "帮助自己去创造对枪优势",
+  "music": 0.0
+ },
+ {
+  "from": 87.3,
+  "to": 87.9,
+  "sid": 53,
+  "location": 2,
+  "content": "我是银河",
+  "music": 0.0
+ },
+ {
+  "from": 87.9,
+  "to": 88.38,
+  "sid": 54,
+  "location": 2,
+  "content": "关注我",
+  "music": 0.0
+ },
+ {
+  "from": 88.38,
+  "to": 90.76,
+  "sid": 55,
+  "location": 2,
+  "content": "为大家带来更多的无畏契约硬核教学",
+  "music": 0.0
+ }
+]

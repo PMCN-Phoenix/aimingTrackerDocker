@@ -1,0 +1,2426 @@
+[
+ {
+  "from": 0.24,
+  "to": 0.9,
+  "sid": 1,
+  "location": 2,
+  "content": "各位观众朋友们",
+  "music": 0.0
+ },
+ {
+  "from": 0.9,
+  "to": 1.14,
+  "sid": 2,
+  "location": 2,
+  "content": "大家好",
+  "music": 0.0
+ },
+ {
+  "from": 1.14,
+  "to": 1.86,
+  "sid": 3,
+  "location": 2,
+  "content": "我是东彦",
+  "music": 0.0
+ },
+ {
+  "from": 1.86,
+  "to": 4.38,
+  "sid": 4,
+  "location": 2,
+  "content": "那么今天给大家带来瓦兰特系列教学第四篇",
+  "music": 0.0
+ },
+ {
+  "from": 4.38,
+  "to": 6.54,
+  "sid": 5,
+  "location": 2,
+  "content": "也就是瓦兰特全英雄教程中的突破",
+  "music": 0.0
+ },
+ {
+  "from": 6.54,
+  "to": 7.74,
+  "sid": 6,
+  "location": 2,
+  "content": "一部分的教学视频",
+  "music": 0.0
+ },
+ {
+  "from": 7.74,
+  "to": 10.56,
+  "sid": 7,
+  "location": 2,
+  "content": "但英雄教学呢每期视频会讲解1~3位特工",
+  "music": 0.0
+ },
+ {
+  "from": 10.56,
+  "to": 12.559,
+  "sid": 8,
+  "location": 2,
+  "content": "而本期视频我们讲的是JETT",
+  "music": 0.0
+ },
+ {
+  "from": 12.559,
+  "to": 14.959,
+  "sid": 9,
+  "location": 2,
+  "content": "那JETT是瓦罗兰特中非常有代表性的",
+  "music": 0.0
+ },
+ {
+  "from": 14.959,
+  "to": 16.129,
+  "sid": 10,
+  "location": 2,
+  "content": "一号突破位英雄",
+  "music": 0.0
+ },
+ {
+  "from": 16.129,
+  "to": 18.079,
+  "sid": 11,
+  "location": 2,
+  "content": "目前可以说T0级别的强度",
+  "music": 0.0
+ },
+ {
+  "from": 18.079,
+  "to": 20.44,
+  "sid": 12,
+  "location": 2,
+  "content": "那么在职业比赛选取率也非常高",
+  "music": 0.0
+ },
+ {
+  "from": 20.62,
+  "to": 23.2,
+  "sid": 13,
+  "location": 2,
+  "content": "那我们先讲JETT最基本的四个技能",
+  "music": 0.0
+ },
+ {
+  "from": 23.2,
+  "to": 24.76,
+  "sid": 14,
+  "location": 2,
+  "content": "JETT的C级能穿一冲刺",
+  "music": 0.0
+ },
+ {
+  "from": 24.76,
+  "to": 26.66,
+  "sid": 15,
+  "location": 2,
+  "content": "是一个持续四秒走的烟雾弹",
+  "music": 0.0
+ },
+ {
+  "from": 26.66,
+  "to": 28.52,
+  "sid": 16,
+  "location": 2,
+  "content": "长按C机能同时移动鼠标",
+  "music": 0.0
+ },
+ {
+  "from": 28.52,
+  "to": 29.87,
+  "sid": 17,
+  "location": 2,
+  "content": "可以控制捷风弹道落点",
+  "music": 0.0
+ },
+ {
+  "from": 29.87,
+  "to": 33.14,
+  "sid": 18,
+  "location": 2,
+  "content": "那么价格呢是200块钱一个最多可以购买两个",
+  "music": 0.0
+ },
+ {
+  "from": 33.14,
+  "to": 35.93,
+  "sid": 19,
+  "location": 2,
+  "content": "那么开赋能成功飞跃是一个向上垂直位移技能",
+  "music": 0.0
+ },
+ {
+  "from": 35.93,
+  "to": 37.37,
+  "sid": 20,
+  "location": 2,
+  "content": "我们价格是150块钱一个",
+  "music": 0.0
+ },
+ {
+  "from": 37.37,
+  "to": 39.12,
+  "sid": 21,
+  "location": 2,
+  "content": "最多可以购买一两个",
+  "music": 0.0
+ },
+ {
+  "from": 39.12,
+  "to": 41.13,
+  "sid": 22,
+  "location": 2,
+  "content": "而一技能顺风呢是平面的位移技能",
+  "music": 0.0
+ },
+ {
+  "from": 41.13,
+  "to": 42.78,
+  "sid": 23,
+  "location": 2,
+  "content": "按住特定发挥下同时来释放",
+  "music": 0.0
+ },
+ {
+  "from": 42.78,
+  "to": 44.56,
+  "sid": 24,
+  "location": 2,
+  "content": "技能呢可以指定方向进行位移",
+  "music": 0.0
+ },
+ {
+  "from": 44.56,
+  "to": 46.24,
+  "sid": 25,
+  "location": 2,
+  "content": "那么该技能呢是不需要进行购买",
+  "music": 0.0
+ },
+ {
+  "from": 46.24,
+  "to": 46.96,
+  "sid": 26,
+  "location": 2,
+  "content": "每击杀两个人",
+  "music": 0.0
+ },
+ {
+  "from": 46.96,
+  "to": 48.7,
+  "sid": 27,
+  "location": 2,
+  "content": "刷新一次两个位移技能",
+  "music": 0.0
+ },
+ {
+  "from": 48.7,
+  "to": 51.18,
+  "sid": 28,
+  "location": 2,
+  "content": "队友英雄的后摇位移过程中不能开枪",
+  "music": 0.0
+ },
+ {
+  "from": 51.18,
+  "to": 52.44,
+  "sid": 29,
+  "location": 2,
+  "content": "用S技能大招",
+  "music": 0.0
+ },
+ {
+  "from": 52.44,
+  "to": 54.6,
+  "sid": 30,
+  "location": 2,
+  "content": "这个暴风旋刃呢是一个五发飞镖",
+  "music": 0.0
+ },
+ {
+  "from": 54.6,
+  "to": 56.43,
+  "sid": 31,
+  "location": 2,
+  "content": "每组件一次即可射出一发飞镖",
+  "music": 0.0
+ },
+ {
+  "from": 56.43,
+  "to": 57.82,
+  "sid": 32,
+  "location": 2,
+  "content": "一镖的伤害为50",
+  "music": 0.0
+ },
+ {
+  "from": 57.82,
+  "to": 59.98,
+  "sid": 33,
+  "location": 2,
+  "content": "爆头可以一刀死雷击杀一名敌人",
+  "music": 0.0
+ },
+ {
+  "from": 59.98,
+  "to": 61.58,
+  "sid": 34,
+  "location": 2,
+  "content": "都会刷新飞镖的数量",
+  "music": 0.0
+ },
+ {
+  "from": 61.58,
+  "to": 63.92,
+  "sid": 35,
+  "location": 2,
+  "content": "那右键的攻击则是以类似霰弹枪的方式",
+  "music": 0.0
+ },
+ {
+  "from": 63.92,
+  "to": 65.18,
+  "sid": 36,
+  "location": 2,
+  "content": "一次性射出五发飞镖",
+  "music": 0.0
+ },
+ {
+  "from": 65.18,
+  "to": 66.02,
+  "sid": 37,
+  "location": 2,
+  "content": "版本更新后",
+  "music": 0.0
+ },
+ {
+  "from": 66.02,
+  "to": 67.4,
+  "sid": 38,
+  "location": 2,
+  "content": "右键击杀敌人则不再刷新",
+  "music": 0.0
+ },
+ {
+  "from": 67.4,
+  "to": 68.22,
+  "sid": 39,
+  "location": 2,
+  "content": "这个飞镖",
+  "music": 0.0
+ },
+ {
+  "from": 68.22,
+  "to": 69.9,
+  "sid": 40,
+  "location": 2,
+  "content": "飞镖呢是及时命中的设定",
+  "music": 0.0
+ },
+ {
+  "from": 69.9,
+  "to": 70.98,
+  "sid": 41,
+  "location": 2,
+  "content": "没有弹速和下坠",
+  "music": 0.0
+ },
+ {
+  "from": 70.98,
+  "to": 73.84,
+  "sid": 42,
+  "location": 2,
+  "content": "且在任何形式的移动中都可以保持最高精度",
+  "music": 0.0
+ },
+ {
+  "from": 73.84,
+  "to": 76.3,
+  "sid": 43,
+  "location": 2,
+  "content": "那么基础的技能其实没什么好讲的",
+  "music": 0.0
+ },
+ {
+  "from": 76.3,
+  "to": 78.64,
+  "sid": 44,
+  "location": 2,
+  "content": "大家自己在靶场视野里都能搞明白",
+  "music": 0.0
+ },
+ {
+  "from": 78.64,
+  "to": 79.3,
+  "sid": 45,
+  "location": 2,
+  "content": "更重要的是",
+  "music": 0.0
+ },
+ {
+  "from": 79.3,
+  "to": 80.44,
+  "sid": 46,
+  "location": 2,
+  "content": "大家对于JETT这个英雄",
+  "music": 0.0
+ },
+ {
+  "from": 80.44,
+  "to": 82.16,
+  "sid": 47,
+  "location": 2,
+  "content": "一定要产生一个正确的理解",
+  "music": 0.0
+ },
+ {
+  "from": 82.16,
+  "to": 84.56,
+  "sid": 48,
+  "location": 2,
+  "content": "那这样这个英雄最核心的技能就是E技能",
+  "music": 0.0
+ },
+ {
+  "from": 84.56,
+  "to": 85.18,
+  "sid": 49,
+  "location": 2,
+  "content": "顺风",
+  "music": 0.0
+ },
+ {
+  "from": 85.18,
+  "to": 86.44,
+  "sid": 50,
+  "location": 2,
+  "content": "从警方的角度来讲",
+  "music": 0.0
+ },
+ {
+  "from": 86.44,
+  "to": 88.42,
+  "sid": 51,
+  "location": 2,
+  "content": "这赛顺风可以创造出更多精英角度",
+  "music": 0.0
+ },
+ {
+  "from": 88.42,
+  "to": 89.5,
+  "sid": 52,
+  "location": 2,
+  "content": "而对于防守方来说",
+  "music": 0.0
+ },
+ {
+  "from": 89.5,
+  "to": 91.0,
+  "sid": 53,
+  "location": 2,
+  "content": "这下的顺风可以让他拿下首杀",
+  "music": 0.0
+ },
+ {
+  "from": 91.0,
+  "to": 92.76,
+  "sid": 54,
+  "location": 2,
+  "content": "同时来从容撤退",
+  "music": 0.0
+ },
+ {
+  "from": 93.94,
+  "to": 96.3,
+  "sid": 55,
+  "location": 2,
+  "content": "那什么叫拉扯出更大进攻角度呢",
+  "music": 0.0
+ },
+ {
+  "from": 96.3,
+  "to": 97.41,
+  "sid": 56,
+  "location": 2,
+  "content": "举个非常经典的例子",
+  "music": 0.0
+ },
+ {
+  "from": 97.41,
+  "to": 98.82,
+  "sid": 57,
+  "location": 2,
+  "content": "在双塔迷城A点加油",
+  "music": 0.0
+ },
+ {
+  "from": 98.82,
+  "to": 99.96,
+  "sid": 58,
+  "location": 2,
+  "content": "你主页的防守方队员",
+  "music": 0.0
+ },
+ {
+  "from": 99.96,
+  "to": 101.4,
+  "sid": 59,
+  "location": 2,
+  "content": "敌人没有威尔的空权前提下",
+  "music": 0.0
+ },
+ {
+  "from": 101.4,
+  "to": 103.64,
+  "sid": 60,
+  "location": 2,
+  "content": "就只能从唯一这个狭窄的通道进入宝典",
+  "music": 0.0
+ },
+ {
+  "from": 103.64,
+  "to": 105.14,
+  "sid": 61,
+  "location": 2,
+  "content": "那凤凰配合这些道具打出",
+  "music": 0.0
+ },
+ {
+  "from": 105.14,
+  "to": 106.84,
+  "sid": 62,
+  "location": 2,
+  "content": "有很多的连杀是完全有可能的",
+  "music": 0.0
+ },
+ {
+  "from": 106.84,
+  "to": 109.84,
+  "sid": 63,
+  "location": 2,
+  "content": "那假如对方有一个这个JETT先扔锤和烟雾弹",
+  "music": 0.0
+ },
+ {
+  "from": 109.84,
+  "to": 110.32,
+  "sid": 64,
+  "location": 2,
+  "content": "再用力",
+  "music": 0.0
+ },
+ {
+  "from": 110.32,
+  "to": 111.82,
+  "sid": 65,
+  "location": 2,
+  "content": "这个顺风顺塞在烟雾弹里面",
+  "music": 0.0
+ },
+ {
+  "from": 111.82,
+  "to": 113.92,
+  "sid": 66,
+  "location": 2,
+  "content": "那进攻方就瞬间产生了两个进攻角度",
+  "music": 0.0
+ },
+ {
+  "from": 113.92,
+  "to": 115.3,
+  "sid": 67,
+  "location": 2,
+  "content": "那防守方这种潜三连杀",
+  "music": 0.0
+ },
+ {
+  "from": 115.3,
+  "to": 117.31,
+  "sid": 68,
+  "location": 2,
+  "content": "机会就被这两家成功的破坏了",
+  "music": 0.0
+ },
+ {
+  "from": 117.31,
+  "to": 120.04,
+  "sid": 69,
+  "location": 2,
+  "content": "那是因为如果主为防守方直接混烟打cheat",
+  "music": 0.0
+ },
+ {
+  "from": 120.04,
+  "to": 122.4,
+  "sid": 70,
+  "location": 2,
+  "content": "那自己的这个位置就暴露了",
+  "music": 0.0
+ },
+ {
+  "from": 122.4,
+  "to": 124.92,
+  "sid": 71,
+  "location": 2,
+  "content": "这次可以顺势再放一块钱来扩大活动空间",
+  "music": 0.0
+ },
+ {
+  "from": 124.92,
+  "to": 125.7,
+  "sid": 72,
+  "location": 2,
+  "content": "来保持生存",
+  "music": 0.0
+ },
+ {
+  "from": 125.7,
+  "to": 127.26,
+  "sid": 73,
+  "location": 2,
+  "content": "然后让后续补上的队友补枪",
+  "music": 0.0
+ },
+ {
+  "from": 127.26,
+  "to": 128.8,
+  "sid": 74,
+  "location": 2,
+  "content": "从而打成零换一",
+  "music": 0.0
+ },
+ {
+  "from": 128.8,
+  "to": 130.48,
+  "sid": 75,
+  "location": 2,
+  "content": "那么如果放上队友不打JETT",
+  "music": 0.0
+ },
+ {
+  "from": 130.48,
+  "to": 131.8,
+  "sid": 76,
+  "location": 2,
+  "content": "选择打后续跟上队友的话",
+  "music": 0.0
+ },
+ {
+  "from": 131.8,
+  "to": 134.2,
+  "sid": 77,
+  "location": 2,
+  "content": "那JETT那就可以混烟而出来往上补枪",
+  "music": 0.0
+ },
+ {
+  "from": 134.2,
+  "to": 136.06,
+  "sid": 78,
+  "location": 2,
+  "content": "大家可以发现这是位移技能",
+  "music": 0.0
+ },
+ {
+  "from": 136.06,
+  "to": 136.84,
+  "sid": 79,
+  "location": 2,
+  "content": "配合上烟雾弹",
+  "music": 0.0
+ },
+ {
+  "from": 136.84,
+  "to": 139.18,
+  "sid": 80,
+  "location": 2,
+  "content": "一个人就可以独立创造出全新的进攻角度",
+  "music": 0.0
+ },
+ {
+  "from": 139.18,
+  "to": 142.0,
+  "sid": 81,
+  "location": 2,
+  "content": "从而最大程度降低凤凰王打出猎杀可能性",
+  "music": 0.0
+ },
+ {
+  "from": 142.0,
+  "to": 143.68,
+  "sid": 82,
+  "location": 2,
+  "content": "那一技能顺风给予了战斗",
+  "music": 0.0
+ },
+ {
+  "from": 143.68,
+  "to": 146.98,
+  "sid": 83,
+  "location": 2,
+  "content": "无视道具单人撕开敌人防线的独立突击能力",
+  "music": 0.0
+ },
+ {
+  "from": 146.98,
+  "to": 147.88,
+  "sid": 84,
+  "location": 2,
+  "content": "C技能的烟雾弹",
+  "music": 0.0
+ },
+ {
+  "from": 147.88,
+  "to": 150.76,
+  "sid": 85,
+  "location": 2,
+  "content": "还给予了这单人突进点内后的一些生存能力",
+  "music": 0.0
+ },
+ {
+  "from": 150.76,
+  "to": 152.56,
+  "sid": 86,
+  "location": 2,
+  "content": "两者互相结合实现的呢",
+  "music": 0.0
+ },
+ {
+  "from": 152.56,
+  "to": 155.3,
+  "sid": 87,
+  "location": 2,
+  "content": "可以从另外一个维度来配合队友发起进攻",
+  "music": 0.0
+ },
+ {
+  "from": 155.3,
+  "to": 157.1,
+  "sid": 88,
+  "location": 2,
+  "content": "那么这也就是在成为瓦罗兰特中",
+  "music": 0.0
+ },
+ {
+  "from": 157.1,
+  "to": 159.04,
+  "sid": 89,
+  "location": 2,
+  "content": "T0英雄的最重要原因所在了",
+  "music": 0.0
+ },
+ {
+  "from": 159.04,
+  "to": 160.18,
+  "sid": 90,
+  "location": 2,
+  "content": "那么除此之外呢",
+  "music": 0.0
+ },
+ {
+  "from": 160.18,
+  "to": 162.46,
+  "sid": 91,
+  "location": 2,
+  "content": "这次顺风也使得他成为最好的狙击手",
+  "music": 0.0
+ },
+ {
+  "from": 162.46,
+  "to": 164.9,
+  "sid": 92,
+  "location": 2,
+  "content": "因为顺风呢赋予了他非常大的容错率",
+  "music": 0.0
+ },
+ {
+  "from": 164.9,
+  "to": 167.12,
+  "sid": 93,
+  "location": 2,
+  "content": "所以防守放到首杀能力就很好理解了",
+  "music": 0.0
+ },
+ {
+  "from": 167.12,
+  "to": 170.0,
+  "sid": 94,
+  "location": 2,
+  "content": "不管是大狙直架头首杀还是步枪前顶分",
+  "music": 0.0
+ },
+ {
+  "from": 170.0,
+  "to": 170.93,
+  "sid": 95,
+  "location": 2,
+  "content": "有为拿首杀",
+  "music": 0.0
+ },
+ {
+  "from": 170.93,
+  "to": 173.09,
+  "sid": 96,
+  "location": 2,
+  "content": "但我在此前的架枪教学中都讲到过",
+  "music": 0.0
+ },
+ {
+  "from": 173.09,
+  "to": 174.42,
+  "sid": 97,
+  "location": 2,
+  "content": "大家可以自行查看",
+  "music": 0.0
+ },
+ {
+  "from": 174.42,
+  "to": 175.62,
+  "sid": 98,
+  "location": 2,
+  "content": "总而言之",
+  "music": 0.0
+ },
+ {
+  "from": 175.62,
+  "to": 176.79,
+  "sid": 99,
+  "location": 2,
+  "content": "这套打法有两种",
+  "music": 0.0
+ },
+ {
+  "from": 176.79,
+  "to": 178.38,
+  "sid": 100,
+  "location": 2,
+  "content": "一种是扛步枪充当一号位",
+  "music": 0.0
+ },
+ {
+  "from": 178.38,
+  "to": 180.5,
+  "sid": 101,
+  "location": 2,
+  "content": "瞬间点位来直接撕开一点的防线",
+  "music": 0.0
+ },
+ {
+  "from": 180.5,
+  "to": 182.75,
+  "sid": 102,
+  "location": 2,
+  "content": "那么另一种呢则是扛起车来偷人",
+  "music": 0.0
+ },
+ {
+  "from": 182.75,
+  "to": 185.0,
+  "sid": 103,
+  "location": 2,
+  "content": "高机动高生存能力所带来的高容错率",
+  "music": 0.0
+ },
+ {
+  "from": 185.0,
+  "to": 186.98,
+  "sid": 104,
+  "location": 2,
+  "content": "使得这才成为最好首杀英雄",
+  "music": 0.0
+ },
+ {
+  "from": 186.98,
+  "to": 190.4,
+  "sid": 105,
+  "location": 2,
+  "content": "因此相比于简单做到的KD那个评判JETT好坏的",
+  "music": 0.0
+ },
+ {
+  "from": 190.4,
+  "to": 191.94,
+  "sid": 106,
+  "location": 2,
+  "content": "更好的数据则是首杀数",
+  "music": 0.0
+ },
+ {
+  "from": 191.94,
+  "to": 194.22,
+  "sid": 107,
+  "location": 2,
+  "content": "天梯中单局首杀少于三个的寨子",
+  "music": 0.0
+ },
+ {
+  "from": 194.22,
+  "to": 196.97,
+  "sid": 108,
+  "location": 2,
+  "content": "我们一般都可以归类为毒瘤战斗",
+  "music": 0.0
+ },
+ {
+  "from": 196.97,
+  "to": 199.85,
+  "sid": 109,
+  "location": 2,
+  "content": "我们从比较宏观的角度讲了第二条大的作用",
+  "music": 0.0
+ },
+ {
+  "from": 199.85,
+  "to": 200.93,
+  "sid": 110,
+  "location": 2,
+  "content": "那我们接下来再讲一下",
+  "music": 0.0
+ },
+ {
+  "from": 200.93,
+  "to": 202.88,
+  "sid": 111,
+  "location": 2,
+  "content": "每个技能的具体进阶使用技巧",
+  "music": 0.0
+ },
+ {
+  "from": 203.119,
+  "to": 204.679,
+  "sid": 112,
+  "location": 2,
+  "content": "那么这次C技能烟雾弹",
+  "music": 0.0
+ },
+ {
+  "from": 204.679,
+  "to": 206.719,
+  "sid": 113,
+  "location": 2,
+  "content": "最简单的使用方式就是随手封颗烟",
+  "music": 0.0
+ },
+ {
+  "from": 206.719,
+  "to": 207.529,
+  "sid": 114,
+  "location": 2,
+  "content": "然后架枪了",
+  "music": 0.0
+ },
+ {
+  "from": 207.529,
+  "to": 209.179,
+  "sid": 115,
+  "location": 2,
+  "content": "而且这颗烟完全是可以自己封",
+  "music": 0.0
+ },
+ {
+  "from": 209.179,
+  "to": 210.049,
+  "sid": 116,
+  "location": 2,
+  "content": "自己混的",
+  "music": 0.0
+ },
+ {
+  "from": 210.049,
+  "to": 211.48,
+  "sid": 117,
+  "location": 2,
+  "content": "大家需要明白的一点是",
+  "music": 0.0
+ },
+ {
+  "from": 211.48,
+  "to": 213.67,
+  "sid": 118,
+  "location": 2,
+  "content": "瓦尔特烟雾弹是和CSGO不同的",
+  "music": 0.0
+ },
+ {
+  "from": 213.67,
+  "to": 214.42,
+  "sid": 119,
+  "location": 2,
+  "content": "一般来讲",
+  "music": 0.0
+ },
+ {
+  "from": 214.42,
+  "to": 216.54,
+  "sid": 120,
+  "location": 2,
+  "content": "我们在CSGO里说的混音的风险在于",
+  "music": 0.0
+ },
+ {
+  "from": 216.54,
+  "to": 218.1,
+  "sid": 121,
+  "location": 2,
+  "content": "人物和摄像头的位于头部",
+  "music": 0.0
+ },
+ {
+  "from": 218.1,
+  "to": 219.18,
+  "sid": 122,
+  "location": 2,
+  "content": "而后烟出去的话",
+  "music": 0.0
+ },
+ {
+  "from": 219.18,
+  "to": 222.06,
+  "sid": 123,
+  "location": 2,
+  "content": "这个肢体部位会先于头部被敌人看到",
+  "music": 0.0
+ },
+ {
+  "from": 222.06,
+  "to": 224.28,
+  "sid": 124,
+  "location": 2,
+  "content": "但是在瓦罗兰特里侧面大佬抽烟",
+  "music": 0.0
+ },
+ {
+  "from": 224.28,
+  "to": 225.6,
+  "sid": 125,
+  "location": 2,
+  "content": "因为瓦达烟雾弹是球形的",
+  "music": 0.0
+ },
+ {
+  "from": 225.6,
+  "to": 227.79,
+  "sid": 126,
+  "location": 2,
+  "content": "头和肢体部位几乎是同时出现的",
+  "music": 0.0
+ },
+ {
+  "from": 227.79,
+  "to": 230.54,
+  "sid": 127,
+  "location": 2,
+  "content": "所以会员的风险是比CSGO里小很多的",
+  "music": 0.0
+ },
+ {
+  "from": 230.54,
+  "to": 232.16,
+  "sid": 128,
+  "location": 2,
+  "content": "特别是在遗落境内的双扇门",
+  "music": 0.0
+ },
+ {
+  "from": 232.16,
+  "to": 235.28,
+  "sid": 129,
+  "location": 2,
+  "content": "这种极端裂式近角枪位自己封颗烟混烟而出",
+  "music": 0.0
+ },
+ {
+  "from": 235.28,
+  "to": 237.04,
+  "sid": 130,
+  "location": 2,
+  "content": "甚至要好一部分烟大佬",
+  "music": 0.0
+ },
+ {
+  "from": 237.04,
+  "to": 240.1,
+  "sid": 131,
+  "location": 2,
+  "content": "所以这次的烟雾弹是可以自己封自己混的",
+  "music": 0.0
+ },
+ {
+  "from": 240.1,
+  "to": 240.82,
+  "sid": 132,
+  "location": 2,
+  "content": "进阶一点",
+  "music": 0.0
+ },
+ {
+  "from": 240.82,
+  "to": 243.13,
+  "sid": 133,
+  "location": 2,
+  "content": "这次的烟雾弹是非常容易创造出单向烟的",
+  "music": 0.0
+ },
+ {
+  "from": 243.13,
+  "to": 245.149,
+  "sid": 134,
+  "location": 2,
+  "content": "比如说这遗落境地的进攻方",
+  "music": 0.0
+ },
+ {
+  "from": 245.149,
+  "to": 246.649,
+  "sid": 135,
+  "location": 2,
+  "content": "还是双扇门的位置开局",
+  "music": 0.0
+ },
+ {
+  "from": 246.649,
+  "to": 247.729,
+  "sid": 136,
+  "location": 2,
+  "content": "如果你想防止敌人",
+  "music": 0.0
+ },
+ {
+  "from": 247.729,
+  "to": 248.329,
+  "sid": 137,
+  "location": 2,
+  "content": "前一套人",
+  "music": 0.0
+ },
+ {
+  "from": 248.329,
+  "to": 250.06,
+  "sid": 138,
+  "location": 2,
+  "content": "可以直接往门上塞颗烟雾弹",
+  "music": 0.0
+ },
+ {
+  "from": 250.06,
+  "to": 251.38,
+  "sid": 139,
+  "location": 2,
+  "content": "敌人就算想前顶",
+  "music": 0.0
+ },
+ {
+  "from": 251.38,
+  "to": 253.0,
+  "sid": 140,
+  "location": 2,
+  "content": "一般看到这痕也不敢了",
+  "music": 0.0
+ },
+ {
+  "from": 253.0,
+  "to": 254.08,
+  "sid": 141,
+  "location": 2,
+  "content": "更新一点",
+  "music": 0.0
+ },
+ {
+  "from": 254.08,
+  "to": 255.46,
+  "sid": 142,
+  "location": 2,
+  "content": "这次的烟雾弹控制好了",
+  "music": 0.0
+ },
+ {
+  "from": 255.46,
+  "to": 257.32,
+  "sid": 143,
+  "location": 2,
+  "content": "配合地形还能做出一些奇怪的头皮位",
+  "music": 0.0
+ },
+ {
+  "from": 257.32,
+  "to": 258.549,
+  "sid": 144,
+  "location": 2,
+  "content": "从而获得对枪优势",
+  "music": 0.0
+ },
+ {
+  "from": 258.549,
+  "to": 260.229,
+  "sid": 145,
+  "location": 2,
+  "content": "比如说在节点之间的B大位置",
+  "music": 0.0
+ },
+ {
+  "from": 260.229,
+  "to": 262.74,
+  "sid": 146,
+  "location": 2,
+  "content": "高守方狙击手经常会在这里继续偷首杀",
+  "music": 0.0
+ },
+ {
+  "from": 262.74,
+  "to": 264.54,
+  "sid": 147,
+  "location": 2,
+  "content": "那么在没有丝袜帮忙的情况下",
+  "music": 0.0
+ },
+ {
+  "from": 264.54,
+  "to": 265.5,
+  "sid": 148,
+  "location": 2,
+  "content": "往必达这里塞颗烟",
+  "music": 0.0
+ },
+ {
+  "from": 265.5,
+  "to": 267.15,
+  "sid": 149,
+  "location": 2,
+  "content": "那就可以创造出一个头皮位",
+  "music": 0.0
+ },
+ {
+  "from": 267.15,
+  "to": 270.08,
+  "sid": 150,
+  "location": 2,
+  "content": "最大程度减小步枪和狙击枪战的对枪劣势",
+  "music": 0.0
+ },
+ {
+  "from": 270.08,
+  "to": 272.06,
+  "sid": 151,
+  "location": 2,
+  "content": "再加上很大狙击手第一次看到这个黑岩",
+  "music": 0.0
+ },
+ {
+  "from": 272.06,
+  "to": 273.08,
+  "sid": 152,
+  "location": 2,
+  "content": "不理解是什么意思",
+  "music": 0.0
+ },
+ {
+  "from": 273.08,
+  "to": 274.91,
+  "sid": 153,
+  "location": 2,
+  "content": "那么这玩意就属于有心算无心",
+  "music": 0.0
+ },
+ {
+  "from": 274.91,
+  "to": 277.3,
+  "sid": 154,
+  "location": 2,
+  "content": "所以我在B站这个位置死过很多次大狙",
+  "music": 0.0
+ },
+ {
+  "from": 277.3,
+  "to": 279.76,
+  "sid": 155,
+  "location": 2,
+  "content": "那么JETT的Q技能成功飞跃就很简单了",
+  "music": 0.0
+ },
+ {
+  "from": 279.76,
+  "to": 280.84,
+  "sid": 156,
+  "location": 2,
+  "content": "除了大家都能想到",
+  "music": 0.0
+ },
+ {
+  "from": 280.84,
+  "to": 283.12,
+  "sid": 157,
+  "location": 2,
+  "content": "通过Q技能到达一些其他角色难以到达的高点",
+  "music": 0.0
+ },
+ {
+  "from": 283.12,
+  "to": 283.96,
+  "sid": 158,
+  "location": 2,
+  "content": "飞秒E之外",
+  "music": 0.0
+ },
+ {
+  "from": 283.96,
+  "to": 287.24,
+  "sid": 159,
+  "location": 2,
+  "content": "这次呢也很适合通过Q技能旋转跳来拿信息",
+  "music": 0.0
+ },
+ {
+  "from": 287.24,
+  "to": 289.28,
+  "sid": 160,
+  "location": 2,
+  "content": "他凭借旋转跳当然也可以",
+  "music": 0.0
+ },
+ {
+  "from": 289.28,
+  "to": 290.6,
+  "sid": 161,
+  "location": 2,
+  "content": "但如果是狙击枪支架的话",
+  "music": 0.0
+ },
+ {
+  "from": 290.6,
+  "to": 291.74,
+  "sid": 162,
+  "location": 2,
+  "content": "还是有距离被命中",
+  "music": 0.0
+ },
+ {
+  "from": 291.74,
+  "to": 295.16,
+  "sid": 163,
+  "location": 2,
+  "content": "所以配合Q技能旋转跳能降低你被命中的概率",
+  "music": 0.0
+ },
+ {
+  "from": 295.16,
+  "to": 297.74,
+  "sid": 164,
+  "location": 2,
+  "content": "其次就是你在和敌人同一个高度上去按跳",
+  "music": 0.0
+ },
+ {
+  "from": 297.74,
+  "to": 299.48,
+  "sid": 165,
+  "location": 2,
+  "content": "这个容易妨碍到队友大佬",
+  "music": 0.0
+ },
+ {
+  "from": 299.48,
+  "to": 300.02,
+  "sid": 166,
+  "location": 2,
+  "content": "举个例子",
+  "music": 0.0
+ },
+ {
+  "from": 300.02,
+  "to": 301.7,
+  "sid": 167,
+  "location": 2,
+  "content": "在A进化的雷达和B仓位置",
+  "music": 0.0
+ },
+ {
+  "from": 301.7,
+  "to": 303.5,
+  "sid": 168,
+  "location": 2,
+  "content": "敌人如果开局前点右边贴墙",
+  "music": 0.0
+ },
+ {
+  "from": 303.5,
+  "to": 305.42,
+  "sid": 169,
+  "location": 2,
+  "content": "那么这里呢既是一个极大远小优势角度",
+  "music": 0.0
+ },
+ {
+  "from": 305.42,
+  "to": 306.46,
+  "sid": 170,
+  "location": 2,
+  "content": "还是一个分秒位",
+  "music": 0.0
+ },
+ {
+  "from": 306.46,
+  "to": 308.92,
+  "sid": 171,
+  "location": 2,
+  "content": "那么进攻方直接大佬呢很容易被牵引的敌方",
+  "music": 0.0
+ },
+ {
+  "from": 308.92,
+  "to": 311.159,
+  "sid": 172,
+  "location": 2,
+  "content": "这托蕾娜等英雄偷到人头再位移走",
+  "music": 0.0
+ },
+ {
+  "from": 311.159,
+  "to": 313.229,
+  "sid": 173,
+  "location": 2,
+  "content": "所以这些位置一定是需要针对的",
+  "music": 0.0
+ },
+ {
+  "from": 313.229,
+  "to": 314.459,
+  "sid": 174,
+  "location": 2,
+  "content": "那这种道具清这个点呢",
+  "music": 0.0
+ },
+ {
+  "from": 314.459,
+  "to": 316.14,
+  "sid": 175,
+  "location": 2,
+  "content": "有的时候会显得有点浪费用",
+  "music": 0.0
+ },
+ {
+  "from": 316.14,
+  "to": 317.22,
+  "sid": 176,
+  "location": 2,
+  "content": "这次的一个乘龙飞跃",
+  "music": 0.0
+ },
+ {
+  "from": 317.22,
+  "to": 317.82,
+  "sid": 177,
+  "location": 2,
+  "content": "永远跳大狙",
+  "music": 0.0
+ },
+ {
+  "from": 317.82,
+  "to": 319.44,
+  "sid": 178,
+  "location": 2,
+  "content": "信息无疑是最优解",
+  "music": 0.0
+ },
+ {
+  "from": 319.44,
+  "to": 320.94,
+  "sid": 179,
+  "location": 2,
+  "content": "这次的异形顺风",
+  "music": 0.0
+ },
+ {
+  "from": 320.94,
+  "to": 323.16,
+  "sid": 180,
+  "location": 2,
+  "content": "大部分手都是和其他技能一起来配合使用的",
+  "music": 0.0
+ },
+ {
+  "from": 323.16,
+  "to": 324.0,
+  "sid": 181,
+  "location": 2,
+  "content": "比如说进攻方",
+  "music": 0.0
+ },
+ {
+  "from": 324.0,
+  "to": 325.56,
+  "sid": 182,
+  "location": 2,
+  "content": "你要顺包点那里肯定要封烟",
+  "music": 0.0
+ },
+ {
+  "from": 325.56,
+  "to": 327.63,
+  "sid": 183,
+  "location": 2,
+  "content": "再顺其自然也用弹力来提高生存率",
+  "music": 0.0
+ },
+ {
+  "from": 327.63,
+  "to": 330.06,
+  "sid": 184,
+  "location": 2,
+  "content": "那顺风的位移距离还是需要大家熟练的",
+  "music": 0.0
+ },
+ {
+  "from": 330.06,
+  "to": 331.46,
+  "sid": 185,
+  "location": 2,
+  "content": "但还需要注意的一点是",
+  "music": 0.0
+ },
+ {
+  "from": 331.46,
+  "to": 332.54,
+  "sid": 186,
+  "location": 2,
+  "content": "这放的过程中",
+  "music": 0.0
+ },
+ {
+  "from": 332.54,
+  "to": 333.68,
+  "sid": 187,
+  "location": 2,
+  "content": "你是可以左右看的",
+  "music": 0.0
+ },
+ {
+  "from": 333.68,
+  "to": 334.46,
+  "sid": 188,
+  "location": 2,
+  "content": "你在训练过程中",
+  "music": 0.0
+ },
+ {
+  "from": 334.46,
+  "to": 335.96,
+  "sid": 189,
+  "location": 2,
+  "content": "你可以看一下左侧或右侧视频",
+  "music": 0.0
+ },
+ {
+  "from": 335.96,
+  "to": 337.0,
+  "sid": 190,
+  "location": 2,
+  "content": "帮队友其他点",
+  "music": 0.0
+ },
+ {
+  "from": 337.0,
+  "to": 338.62,
+  "sid": 191,
+  "location": 2,
+  "content": "同时大家需要明白的一点",
+  "music": 0.0
+ },
+ {
+  "from": 338.62,
+  "to": 340.18,
+  "sid": 192,
+  "location": 2,
+  "content": "是不是你瞬间就完事了",
+  "music": 0.0
+ },
+ {
+  "from": 340.18,
+  "to": 341.26,
+  "sid": 193,
+  "location": 2,
+  "content": "你需要保持存活",
+  "music": 0.0
+ },
+ {
+  "from": 341.26,
+  "to": 341.62,
+  "sid": 194,
+  "location": 2,
+  "content": "存能量",
+  "music": 0.0
+ },
+ {
+  "from": 341.62,
+  "to": 343.5,
+  "sid": 195,
+  "location": 2,
+  "content": "给这个防守方带来足够多的压力",
+  "music": 0.0
+ },
+ {
+  "from": 343.5,
+  "to": 344.76,
+  "sid": 196,
+  "location": 2,
+  "content": "去双击宝典之后",
+  "music": 0.0
+ },
+ {
+  "from": 344.76,
+  "to": 346.38,
+  "sid": 197,
+  "location": 2,
+  "content": "可以再放一颗烟来扩大红发",
+  "music": 0.0
+ },
+ {
+  "from": 346.38,
+  "to": 347.56,
+  "sid": 198,
+  "location": 2,
+  "content": "为了保持生存",
+  "music": 0.0
+ },
+ {
+  "from": 347.56,
+  "to": 349.48,
+  "sid": 199,
+  "location": 2,
+  "content": "那除了最常规的平均顺风之外",
+  "music": 0.0
+ },
+ {
+  "from": 349.48,
+  "to": 350.44,
+  "sid": 200,
+  "location": 2,
+  "content": "我们在一些高于差表",
+  "music": 0.0
+ },
+ {
+  "from": 350.44,
+  "to": 352.3,
+  "sid": 201,
+  "location": 2,
+  "content": "明显地图也经常会配合Q技能",
+  "music": 0.0
+ },
+ {
+  "from": 352.3,
+  "to": 353.6,
+  "sid": 202,
+  "location": 2,
+  "content": "成飞也各来一些高点",
+  "music": 0.0
+ },
+ {
+  "from": 353.6,
+  "to": 356.0,
+  "sid": 203,
+  "location": 2,
+  "content": "一般是先把烟放在据点内的高处",
+  "music": 0.0
+ },
+ {
+  "from": 356.0,
+  "to": 357.47,
+  "sid": 204,
+  "location": 2,
+  "content": "进行一个Q1的一个连招",
+  "music": 0.0
+ },
+ {
+  "from": 357.47,
+  "to": 359.12,
+  "sid": 205,
+  "location": 2,
+  "content": "直接瞬间爆点高点",
+  "music": 0.0
+ },
+ {
+  "from": 359.12,
+  "to": 360.38,
+  "sid": 206,
+  "location": 2,
+  "content": "那大家用顺风技能",
+  "music": 0.0
+ },
+ {
+  "from": 360.38,
+  "to": 362.06,
+  "sid": 207,
+  "location": 2,
+  "content": "一定不要一直同时瞬E1个位置",
+  "music": 0.0
+ },
+ {
+  "from": 362.06,
+  "to": 362.84,
+  "sid": 208,
+  "location": 2,
+  "content": "不然顺多了",
+  "music": 0.0
+ },
+ {
+  "from": 362.84,
+  "to": 365.09,
+  "sid": 209,
+  "location": 2,
+  "content": "很有可能几个人拿着喷子直接来找你了",
+  "music": 0.0
+ },
+ {
+  "from": 365.09,
+  "to": 367.25,
+  "sid": 210,
+  "location": 2,
+  "content": "那另外就是大家不要局限于进攻方",
+  "music": 0.0
+ },
+ {
+  "from": 367.25,
+  "to": 367.55,
+  "sid": 211,
+  "location": 2,
+  "content": "顺风",
+  "music": 0.0
+ },
+ {
+  "from": 367.55,
+  "to": 368.15,
+  "sid": 212,
+  "location": 2,
+  "content": "防守方会方",
+  "music": 0.0
+ },
+ {
+  "from": 368.15,
+  "to": 368.69,
+  "sid": 213,
+  "location": 2,
+  "content": "而是同理",
+  "music": 0.0
+ },
+ {
+  "from": 368.69,
+  "to": 371.68,
+  "sid": 214,
+  "location": 2,
+  "content": "至于防守方拿首杀在顺子这操作就太基础了",
+  "music": 0.0
+ },
+ {
+  "from": 371.68,
+  "to": 373.06,
+  "sid": 215,
+  "location": 2,
+  "content": "大家只要熟悉下监狱就可以",
+  "music": 0.0
+ },
+ {
+  "from": 373.06,
+  "to": 373.84,
+  "sid": 216,
+  "location": 2,
+  "content": "免得按错了",
+  "music": 0.0
+ },
+ {
+  "from": 373.84,
+  "to": 374.26,
+  "sid": 217,
+  "location": 2,
+  "content": "杀了一个人",
+  "music": 0.0
+ },
+ {
+  "from": 374.26,
+  "to": 375.46,
+  "sid": 218,
+  "location": 2,
+  "content": "直接顺敌人脸上来啊",
+  "music": 0.0
+ },
+ {
+  "from": 375.46,
+  "to": 377.38,
+  "sid": 219,
+  "location": 2,
+  "content": "那太小丑了",
+  "music": 0.0
+ },
+ {
+  "from": 377.66,
+  "to": 379.48,
+  "sid": 220,
+  "location": 2,
+  "content": "那这次大招就很简单了",
+  "music": 0.0
+ },
+ {
+  "from": 379.48,
+  "to": 380.5,
+  "sid": 221,
+  "location": 2,
+  "content": "只要够准够快",
+  "music": 0.0
+ },
+ {
+  "from": 380.5,
+  "to": 382.88,
+  "sid": 222,
+  "location": 2,
+  "content": "就能配合他的QE高性能力杀完",
+  "music": 0.0
+ },
+ {
+  "from": 382.88,
+  "to": 384.32,
+  "sid": 223,
+  "location": 2,
+  "content": "而且因为飞镖可以跑的",
+  "music": 0.0
+ },
+ {
+  "from": 384.32,
+  "to": 386.06,
+  "sid": 224,
+  "location": 2,
+  "content": "所以你可以直接飞起来隔墙杀人",
+  "music": 0.0
+ },
+ {
+  "from": 386.06,
+  "to": 388.52,
+  "sid": 225,
+  "location": 2,
+  "content": "比如说一技空岛这几个点",
+  "music": 0.0
+ },
+ {
+  "from": 389.0,
+  "to": 390.46,
+  "sid": 226,
+  "location": 2,
+  "content": "An enemy remaining",
+  "music": 0.0
+ },
+ {
+  "from": 390.46,
+  "to": 393.94,
+  "sid": 227,
+  "location": 2,
+  "content": "Nu enemy remaining",
+  "music": 0.0
+ },
+ {
+  "from": 393.94,
+  "to": 394.99,
+  "sid": 228,
+  "location": 2,
+  "content": "暴风旋刃",
+  "music": 0.0
+ },
+ {
+  "from": 394.99,
+  "to": 396.25,
+  "sid": 229,
+  "location": 2,
+  "content": "总共需要七个大佬点数",
+  "music": 0.0
+ },
+ {
+  "from": 396.25,
+  "to": 397.93,
+  "sid": 230,
+  "location": 2,
+  "content": "一般3~4个回合就给开大了",
+  "music": 0.0
+ },
+ {
+  "from": 397.93,
+  "to": 399.6,
+  "sid": 231,
+  "location": 2,
+  "content": "因为他可以用飞镖来代替起枪",
+  "music": 0.0
+ },
+ {
+  "from": 399.6,
+  "to": 402.46,
+  "sid": 232,
+  "location": 2,
+  "content": "所以这个建设的攒钱载具呢也比他英雄更容易",
+  "music": 0.0
+ },
+ {
+  "from": 402.46,
+  "to": 403.84,
+  "sid": 233,
+  "location": 2,
+  "content": "那就注意的一点是",
+  "music": 0.0
+ },
+ {
+  "from": 403.84,
+  "to": 406.36,
+  "sid": 234,
+  "location": 2,
+  "content": "这是他飞镖强度在以前是远强于步枪的",
+  "music": 0.0
+ },
+ {
+  "from": 406.36,
+  "to": 408.28,
+  "sid": 235,
+  "location": 2,
+  "content": "现在因为右键杀人不能刷新飞镖了",
+  "music": 0.0
+ },
+ {
+  "from": 408.28,
+  "to": 409.58,
+  "sid": 236,
+  "location": 2,
+  "content": "就没有那么稳定了",
+  "music": 0.0
+ },
+ {
+  "from": 409.58,
+  "to": 411.38,
+  "sid": 237,
+  "location": 2,
+  "content": "所以如果是长枪狙以不带枪的话",
+  "music": 0.0
+ },
+ {
+  "from": 411.38,
+  "to": 412.82,
+  "sid": 238,
+  "location": 2,
+  "content": "那么找机会直接位移贴脸",
+  "music": 0.0
+ },
+ {
+  "from": 412.82,
+  "to": 413.72,
+  "sid": 239,
+  "location": 2,
+  "content": "右键位杀一个",
+  "music": 0.0
+ },
+ {
+  "from": 413.72,
+  "to": 414.74,
+  "sid": 240,
+  "location": 2,
+  "content": "再捡长枪接着打",
+  "music": 0.0
+ },
+ {
+  "from": 414.74,
+  "to": 415.9,
+  "sid": 241,
+  "location": 2,
+  "content": "无疑是更稳妥的",
+  "music": 0.0
+ },
+ {
+  "from": 416.14,
+  "to": 418.7,
+  "sid": 242,
+  "location": 2,
+  "content": "那么这套教学内容我基本上讲完了",
+  "music": 0.0
+ },
+ {
+  "from": 418.7,
+  "to": 419.6,
+  "sid": 243,
+  "location": 2,
+  "content": "最后再来讲一讲",
+  "music": 0.0
+ },
+ {
+  "from": 419.6,
+  "to": 422.0,
+  "sid": 244,
+  "location": 2,
+  "content": "我个人呢对于这台车英雄的一个心得体会",
+  "music": 0.0
+ },
+ {
+  "from": 422.0,
+  "to": 424.7,
+  "sid": 245,
+  "location": 2,
+  "content": "这下这个英雄在天梯这个鱼龙混杂的环境中",
+  "music": 0.19696968950871802
+ },
+ {
+  "from": 424.7,
+  "to": 425.6,
+  "sid": 246,
+  "location": 2,
+  "content": "为什么那么好玩",
+  "music": 0.0
+ },
+ {
+  "from": 425.6,
+  "to": 427.28,
+  "sid": 247,
+  "location": 2,
+  "content": "因为他真的就是只要你够强",
+  "music": 0.0
+ },
+ {
+  "from": 427.28,
+  "to": 428.3,
+  "sid": 248,
+  "location": 2,
+  "content": "就能完全无视队友",
+  "music": 0.0
+ },
+ {
+  "from": 428.3,
+  "to": 429.51,
+  "sid": 249,
+  "location": 2,
+  "content": "自己一个人杀人的英雄",
+  "music": 0.0
+ },
+ {
+  "from": 429.51,
+  "to": 431.46,
+  "sid": 250,
+  "location": 2,
+  "content": "是个人英雄主义的极致表现",
+  "music": 0.0
+ },
+ {
+  "from": 431.46,
+  "to": 433.71,
+  "sid": 251,
+  "location": 2,
+  "content": "那么其余所有英雄都不能像这次一样",
+  "music": 0.0
+ },
+ {
+  "from": 433.71,
+  "to": 436.41,
+  "sid": 252,
+  "location": 2,
+  "content": "监狱这个墙壁技能来完成突破的同时",
+  "music": 0.0
+ },
+ {
+  "from": 436.41,
+  "to": 437.19,
+  "sid": 253,
+  "location": 2,
+  "content": "还能用烟雾弹了",
+  "music": 0.0
+ },
+ {
+  "from": 437.19,
+  "to": 438.26,
+  "sid": 254,
+  "location": 2,
+  "content": "这一类技能来自爆",
+  "music": 0.0
+ },
+ {
+  "from": 438.26,
+  "to": 439.4,
+  "sid": 255,
+  "location": 2,
+  "content": "比如说其他决斗者",
+  "music": 0.0
+ },
+ {
+  "from": 439.4,
+  "to": 440.54,
+  "sid": 256,
+  "location": 2,
+  "content": "如果没有队友技能配合",
+  "music": 0.0
+ },
+ {
+  "from": 440.54,
+  "to": 441.5,
+  "sid": 257,
+  "location": 2,
+  "content": "在威武的情况下",
+  "music": 0.0
+ },
+ {
+  "from": 441.5,
+  "to": 442.52,
+  "sid": 258,
+  "location": 2,
+  "content": "自己一个人强行进点",
+  "music": 0.0
+ },
+ {
+  "from": 442.52,
+  "to": 443.78,
+  "sid": 259,
+  "location": 2,
+  "content": "那个就会被瞬间融化",
+  "music": 0.0
+ },
+ {
+  "from": 443.78,
+  "to": 444.98,
+  "sid": 260,
+  "location": 2,
+  "content": "那这就不一样了",
+  "music": 0.0
+ },
+ {
+  "from": 444.98,
+  "to": 446.58,
+  "sid": 261,
+  "location": 2,
+  "content": "还有一个人进点还能苟活一会",
+  "music": 0.0
+ },
+ {
+  "from": 446.58,
+  "to": 449.07,
+  "sid": 262,
+  "location": 2,
+  "content": "所以JETT真的是一个能一锤定音的角色",
+  "music": 0.0
+ },
+ {
+  "from": 449.07,
+  "to": 449.82,
+  "sid": 263,
+  "location": 2,
+  "content": "举个例子",
+  "music": 0.0
+ },
+ {
+  "from": 449.82,
+  "to": 451.62,
+  "sid": 264,
+  "location": 2,
+  "content": "上个赛季的战场的KD是1.4",
+  "music": 0.0
+ },
+ {
+  "from": 451.62,
+  "to": 452.88,
+  "sid": 265,
+  "location": 2,
+  "content": "蕾娜KD1.43",
+  "music": 0.0
+ },
+ {
+  "from": 452.88,
+  "to": 455.46,
+  "sid": 266,
+  "location": 2,
+  "content": "但我选择在胜率远高于这个蕾娜啊",
+  "music": 0.0
+ },
+ {
+  "from": 455.46,
+  "to": 457.12,
+  "sid": 267,
+  "location": 2,
+  "content": "也将近期75%",
+  "music": 0.0
+ },
+ {
+  "from": 457.12,
+  "to": 459.88,
+  "sid": 268,
+  "location": 2,
+  "content": "那么在天梯里队友有一个能拉枪线",
+  "music": 0.0
+ },
+ {
+  "from": 459.88,
+  "to": 460.54,
+  "sid": 269,
+  "location": 2,
+  "content": "还能杀起来",
+  "music": 0.0
+ },
+ {
+  "from": 460.54,
+  "to": 462.34,
+  "sid": 270,
+  "location": 2,
+  "content": "这次游戏体验真的是非常不一样的",
+  "music": 0.0
+ },
+ {
+  "from": 462.34,
+  "to": 463.18,
+  "sid": 271,
+  "location": 2,
+  "content": "如果一盘游戏里",
+  "music": 0.0
+ },
+ {
+  "from": 463.18,
+  "to": 464.68,
+  "sid": 272,
+  "location": 2,
+  "content": "我们这个阵容里没有JETT",
+  "music": 0.0
+ },
+ {
+  "from": 464.68,
+  "to": 466.24,
+  "sid": 273,
+  "location": 2,
+  "content": "那就说明我们要配合各种技能",
+  "music": 0.0
+ },
+ {
+  "from": 466.24,
+  "to": 467.38,
+  "sid": 274,
+  "location": 2,
+  "content": "一个角度一个角度轻点",
+  "music": 0.0
+ },
+ {
+  "from": 467.38,
+  "to": 468.04,
+  "sid": 275,
+  "location": 2,
+  "content": "在服役比较好",
+  "music": 0.0
+ },
+ {
+  "from": 468.04,
+  "to": 470.06,
+  "sid": 276,
+  "location": 2,
+  "content": "加点分配才能打出比较完美的进攻",
+  "music": 0.23157893518005762
+ },
+ {
+  "from": 470.06,
+  "to": 471.92,
+  "sid": 277,
+  "location": 2,
+  "content": "这天梯里是很难做到的",
+  "music": 0.0
+ },
+ {
+  "from": 471.92,
+  "to": 473.12,
+  "sid": 278,
+  "location": 2,
+  "content": "但扭了这下就不一样了",
+  "music": 0.0
+ },
+ {
+  "from": 473.12,
+  "to": 473.96,
+  "sid": 279,
+  "location": 2,
+  "content": "它可以单人突点",
+  "music": 0.0
+ },
+ {
+  "from": 473.96,
+  "to": 474.68,
+  "sid": 280,
+  "location": 2,
+  "content": "拉开空键位",
+  "music": 0.0
+ },
+ {
+  "from": 474.68,
+  "to": 476.0,
+  "sid": 281,
+  "location": 2,
+  "content": "队友打开突破口",
+  "music": 0.0
+ },
+ {
+  "from": 476.0,
+  "to": 477.2,
+  "sid": 282,
+  "location": 2,
+  "content": "那么作为JETT呢",
+  "music": 0.0
+ },
+ {
+  "from": 477.2,
+  "to": 478.16,
+  "sid": 283,
+  "location": 2,
+  "content": "必须要把握好度",
+  "music": 0.0
+ },
+ {
+  "from": 478.16,
+  "to": 478.82,
+  "sid": 284,
+  "location": 2,
+  "content": "如果冲太快",
+  "music": 0.0
+ },
+ {
+  "from": 478.82,
+  "to": 479.3,
+  "sid": 285,
+  "location": 2,
+  "content": "速太快了",
+  "music": 0.0
+ },
+ {
+  "from": 479.3,
+  "to": 479.96,
+  "sid": 286,
+  "location": 2,
+  "content": "队友补不上枪",
+  "music": 0.0
+ },
+ {
+  "from": 479.96,
+  "to": 481.24,
+  "sid": 287,
+  "location": 2,
+  "content": "那就顺风就毫无意义",
+  "music": 0.0
+ },
+ {
+  "from": 481.24,
+  "to": 482.14,
+  "sid": 288,
+  "location": 2,
+  "content": "我一直不顺风",
+  "music": 0.0
+ },
+ {
+  "from": 482.14,
+  "to": 483.1,
+  "sid": 289,
+  "location": 2,
+  "content": "帮助队友打开局面",
+  "music": 0.0
+ },
+ {
+  "from": 483.1,
+  "to": 484.12,
+  "sid": 290,
+  "location": 2,
+  "content": "而且你就是刘子",
+  "music": 0.0
+ },
+ {
+  "from": 484.12,
+  "to": 484.78,
+  "sid": 291,
+  "location": 2,
+  "content": "简而言之",
+  "music": 0.0
+ },
+ {
+  "from": 484.78,
+  "to": 486.9,
+  "sid": 292,
+  "location": 2,
+  "content": "JETT就是悄然上分的首选英雄",
+  "music": 0.0
+ },
+ {
+  "from": 486.9,
+  "to": 488.22,
+  "sid": 293,
+  "location": 2,
+  "content": "那么今天视频就给带到这里",
+  "music": 0.0
+ },
+ {
+  "from": 488.22,
+  "to": 490.44,
+  "sid": 294,
+  "location": 2,
+  "content": "我会持续更新关于瓦伦特系列教学",
+  "music": 0.0
+ },
+ {
+  "from": 490.44,
+  "to": 491.4,
+  "sid": 295,
+  "location": 2,
+  "content": "那么我的目标是",
+  "music": 0.0
+ },
+ {
+  "from": 491.4,
+  "to": 493.2,
+  "sid": 296,
+  "location": 2,
+  "content": "让所有玩家在到达池化战队之前",
+  "music": 0.0
+ },
+ {
+  "from": 493.2,
+  "to": 495.12,
+  "sid": 297,
+  "location": 2,
+  "content": "都不会碰上任何认知上的瓶颈",
+  "music": 0.0
+ },
+ {
+  "from": 495.12,
+  "to": 496.5,
+  "sid": 298,
+  "location": 2,
+  "content": "如果你想提高自己",
+  "music": 0.0
+ },
+ {
+  "from": 496.5,
+  "to": 497.76,
+  "sid": 299,
+  "location": 2,
+  "content": "在包括完了他在内的",
+  "music": 0.0
+ },
+ {
+  "from": 497.76,
+  "to": 499.23,
+  "sid": 300,
+  "location": 2,
+  "content": "所有设计为上面的一个水平",
+  "music": 0.0
+ },
+ {
+  "from": 499.23,
+  "to": 500.46,
+  "sid": 301,
+  "location": 2,
+  "content": "那不妨点个关注",
+  "music": 0.19417473842963115
+ },
+ {
+  "from": 500.46,
+  "to": 501.6,
+  "sid": 302,
+  "location": 2,
+  "content": "今天视频就到这里了",
+  "music": 0.0
+ },
+ {
+  "from": 501.6,
+  "to": 502.42,
+  "sid": 303,
+  "location": 2,
+  "content": "我们下期视频再见",
+  "music": 0.0
+ }
+]

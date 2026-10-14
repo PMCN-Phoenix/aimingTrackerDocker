@@ -1,0 +1,330 @@
+[
+ {
+  "from": 0.54,
+  "to": 1.44,
+  "sid": 1,
+  "location": 2,
+  "content": "封锁视野",
+  "music": 0.0
+ },
+ {
+  "from": 4.74,
+  "to": 6.88,
+  "sid": 2,
+  "location": 2,
+  "content": "下一名敌人",
+  "music": 0.0
+ },
+ {
+  "from": 18.0,
+  "to": 19.28,
+  "sid": 3,
+  "location": 2,
+  "content": "别退了",
+  "music": 0.0
+ },
+ {
+  "from": 19.28,
+  "to": 22.1,
+  "sid": 4,
+  "location": 2,
+  "content": "还剩一名敌人",
+  "music": 0.0
+ },
+ {
+  "from": 24.52,
+  "to": 25.68,
+  "sid": 5,
+  "location": 2,
+  "content": "呃呃",
+  "music": 0.0
+ },
+ {
+  "from": 28.02,
+  "to": 29.8,
+  "sid": 6,
+  "location": 2,
+  "content": "搜索视野",
+  "music": 0.9999998387097035
+ },
+ {
+  "from": 31.3,
+  "to": 31.8,
+  "sid": 7,
+  "location": 2,
+  "content": "好",
+  "music": 0.0
+ },
+ {
+  "from": 34.5,
+  "to": 35.91,
+  "sid": 8,
+  "location": 2,
+  "content": "东西还给我",
+  "music": 0.0
+ },
+ {
+  "from": 35.91,
+  "to": 38.42,
+  "sid": 9,
+  "location": 2,
+  "content": "还剩一名敌人",
+  "music": 0.0
+ },
+ {
+  "from": 40.36,
+  "to": 42.7,
+  "sid": 10,
+  "location": 2,
+  "content": "我们站在这个箱子上",
+  "music": 0.0
+ },
+ {
+  "from": 42.7,
+  "to": 43.84,
+  "sid": 11,
+  "location": 2,
+  "content": "低头对准这儿",
+  "music": 0.0
+ },
+ {
+  "from": 43.84,
+  "to": 45.39,
+  "sid": 12,
+  "location": 2,
+  "content": "抬头瞄准这里点烟",
+  "music": 0.0
+ },
+ {
+  "from": 45.39,
+  "to": 46.47,
+  "sid": 13,
+  "location": 2,
+  "content": "然后走到边缘",
+  "music": 0.0
+ },
+ {
+  "from": 46.47,
+  "to": 47.01,
+  "sid": 14,
+  "location": 2,
+  "content": "按住跳",
+  "music": 0.0
+ },
+ {
+  "from": 47.01,
+  "to": 48.18,
+  "sid": 15,
+  "location": 2,
+  "content": "滑翔到箱子上",
+  "music": 0.0
+ },
+ {
+  "from": 48.18,
+  "to": 50.43,
+  "sid": 16,
+  "location": 2,
+  "content": "这颗烟一片一个准烟一散",
+  "music": 0.0
+ },
+ {
+  "from": 50.43,
+  "to": 51.09,
+  "sid": 17,
+  "location": 2,
+  "content": "你不杀人",
+  "music": 0.0
+ },
+ {
+  "from": 51.09,
+  "to": 51.85,
+  "sid": 18,
+  "location": 2,
+  "content": "来骂我",
+  "music": 0.0
+ },
+ {
+  "from": 51.85,
+  "to": 53.47,
+  "sid": 19,
+  "location": 2,
+  "content": "A点前压开局出来",
+  "music": 0.0
+ },
+ {
+  "from": 53.47,
+  "to": 54.82,
+  "sid": 20,
+  "location": 2,
+  "content": "马上往这里点颗烟",
+  "music": 0.0
+ },
+ {
+  "from": 54.82,
+  "to": 56.53,
+  "sid": 21,
+  "location": 2,
+  "content": "然后滑翔到前方平台",
+  "music": 0.0
+ },
+ {
+  "from": 56.53,
+  "to": 57.13,
+  "sid": 22,
+  "location": 2,
+  "content": "烟一上",
+  "music": 0.0
+ },
+ {
+  "from": 57.13,
+  "to": 58.84,
+  "sid": 23,
+  "location": 2,
+  "content": "你就会看到几个懵逼仔",
+  "music": 0.0
+ },
+ {
+  "from": 58.84,
+  "to": 59.47,
+  "sid": 24,
+  "location": 2,
+  "content": "干掉他",
+  "music": 0.0
+ },
+ {
+  "from": 59.47,
+  "to": 60.66,
+  "sid": 25,
+  "location": 2,
+  "content": "直接潇洒开溜",
+  "music": 0.0
+ },
+ {
+  "from": 60.66,
+  "to": 62.31,
+  "sid": 26,
+  "location": 2,
+  "content": "然后是今天的重头戏",
+  "music": 0.0
+ },
+ {
+  "from": 62.31,
+  "to": 63.48,
+  "sid": 27,
+  "location": 2,
+  "content": "疾风二段E",
+  "music": 0.0
+ },
+ {
+  "from": 63.48,
+  "to": 66.22,
+  "sid": 28,
+  "location": 2,
+  "content": "我们需要利用管道底部的夹角蹲进去",
+  "music": 0.0
+ },
+ {
+  "from": 66.22,
+  "to": 67.84,
+  "sid": 29,
+  "location": 2,
+  "content": "然后DQ同时按",
+  "music": 0.0
+ },
+ {
+  "from": 67.84,
+  "to": 69.52,
+  "sid": 30,
+  "location": 2,
+  "content": "你就能直接弹射起步",
+  "music": 0.0
+ },
+ {
+  "from": 69.52,
+  "to": 72.35,
+  "sid": 31,
+  "location": 2,
+  "content": "注意我们飞到这里只消耗了一个Q",
+  "music": 0.0
+ },
+ {
+  "from": 72.35,
+  "to": 74.21,
+  "sid": 32,
+  "location": 2,
+  "content": "此时我们可以再接上一技能",
+  "music": 0.0
+ },
+ {
+  "from": 74.21,
+  "to": 75.55,
+  "sid": 33,
+  "location": 2,
+  "content": "直接两秒偷家",
+  "music": 0.0
+ },
+ {
+  "from": 75.55,
+  "to": 77.17,
+  "sid": 34,
+  "location": 2,
+  "content": "对面根本反应不过来",
+  "music": 0.0
+ },
+ {
+  "from": 77.17,
+  "to": 77.89,
+  "sid": 35,
+  "location": 2,
+  "content": "帅爆队友",
+  "music": 0.0
+ },
+ {
+  "from": 77.89,
+  "to": 78.67,
+  "sid": 36,
+  "location": 2,
+  "content": "吓死对面",
+  "music": 0.0
+ },
+ {
+  "from": 78.67,
+  "to": 79.51,
+  "sid": 37,
+  "location": 2,
+  "content": "研究制作不易",
+  "music": 0.0
+ },
+ {
+  "from": 79.51,
+  "to": 80.11,
+  "sid": 38,
+  "location": 2,
+  "content": "还望三连",
+  "music": 0.0
+ },
+ {
+  "from": 80.11,
+  "to": 81.31,
+  "sid": 39,
+  "location": 2,
+  "content": "如果你需要更多教学",
+  "music": 0.0
+ },
+ {
+  "from": 81.31,
+  "to": 82.57,
+  "sid": 40,
+  "location": 2,
+  "content": "欢迎来逛逛我的主页",
+  "music": 0.0
+ },
+ {
+  "from": 82.57,
+  "to": 84.64,
+  "sid": 41,
+  "location": 2,
+  "content": "快一点的好队友一起来学习吧",
+  "music": 0.0
+ }
+]

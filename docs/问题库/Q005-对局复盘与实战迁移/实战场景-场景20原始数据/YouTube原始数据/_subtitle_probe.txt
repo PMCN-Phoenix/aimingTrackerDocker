@@ -1,0 +1,19 @@
+﻿[youtube] Extracting URL: https://www.youtube.com/watch?v=Rc0FDgiUEcw
+[youtube] Rc0FDgiUEcw: Downloading webpage
+python.exe : WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use
+ another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has
+ been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on insta
+lling one
+所在位置 行:1 字符: 112
++ ... uTube原始数据"; & "D:\6_code\13_python\1_python3.11.0\python.exe" -m yt_d ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (WARNING: [youtu... installing one:String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+[youtube] Rc0FDgiUEcw: Downloading visionos player API JSON
+WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also
+ be missing
+ERROR: [youtube] Rc0FDgiUEcw: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the auth
+entication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass co
+okies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively ex
+porting YouTube cookies

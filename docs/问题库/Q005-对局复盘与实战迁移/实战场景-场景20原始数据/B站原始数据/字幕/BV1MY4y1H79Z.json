@@ -1,0 +1,1050 @@
+[
+ {
+  "from": 0.12,
+  "to": 0.9,
+  "sid": 1,
+  "location": 2,
+  "content": "各位观众朋友大家好",
+  "music": 0.0
+ },
+ {
+  "from": 0.9,
+  "to": 1.5,
+  "sid": 2,
+  "location": 2,
+  "content": "我是东岳",
+  "music": 0.0
+ },
+ {
+  "from": 1.5,
+  "to": 3.78,
+  "sid": 3,
+  "location": 2,
+  "content": "那么今天也要带来了瓦兰特的一个急停教学",
+  "music": 0.0
+ },
+ {
+  "from": 3.78,
+  "to": 5.58,
+  "sid": 4,
+  "location": 2,
+  "content": "那这部分其实是非常基础的内容",
+  "music": 0.0
+ },
+ {
+  "from": 5.58,
+  "to": 6.84,
+  "sid": 5,
+  "location": 2,
+  "content": "但架不住问的人太多",
+  "music": 0.0
+ },
+ {
+  "from": 6.84,
+  "to": 8.92,
+  "sid": 6,
+  "location": 2,
+  "content": "所以大多出一些视频来给大家讲一下",
+  "music": 0.0
+ },
+ {
+  "from": 8.979,
+  "to": 11.499,
+  "sid": 7,
+  "location": 2,
+  "content": "瓦洛兰特的急停和CSGO是有点不同的",
+  "music": 0.0
+ },
+ {
+  "from": 11.499,
+  "to": 12.159,
+  "sid": 8,
+  "location": 2,
+  "content": "关于这个问题",
+  "music": 0.0
+ },
+ {
+  "from": 12.159,
+  "to": 13.82,
+  "sid": 9,
+  "location": 2,
+  "content": "我S视频中也是讲到过",
+  "music": 0.0
+ },
+ {
+  "from": 13.82,
+  "to": 14.72,
+  "sid": 10,
+  "location": 2,
+  "content": "那么在CSGO里",
+  "music": 0.0
+ },
+ {
+  "from": 14.72,
+  "to": 16.04,
+  "sid": 11,
+  "location": 2,
+  "content": "因为人物惯性是比较大的",
+  "music": 0.0
+ },
+ {
+  "from": 16.04,
+  "to": 18.76,
+  "sid": 12,
+  "location": 2,
+  "content": "那么单纯松开方向键并不能让速度马上归零",
+  "music": 0.0
+ },
+ {
+  "from": 18.76,
+  "to": 20.26,
+  "sid": 13,
+  "location": 2,
+  "content": "所以如果要在cf里急停",
+  "music": 0.0
+ },
+ {
+  "from": 20.26,
+  "to": 22.18,
+  "sid": 14,
+  "location": 2,
+  "content": "是需要在松开当前所在的方向键",
+  "music": 0.0
+ },
+ {
+  "from": 22.18,
+  "to": 24.22,
+  "sid": 15,
+  "location": 2,
+  "content": "同时来清除方向键才能停下来",
+  "music": 0.0
+ },
+ {
+  "from": 24.22,
+  "to": 25.3,
+  "sid": 16,
+  "location": 2,
+  "content": "但是在瓦洛兰特里",
+  "music": 0.0
+ },
+ {
+  "from": 25.3,
+  "to": 26.62,
+  "sid": 17,
+  "location": 2,
+  "content": "因为人物惯性相对较小",
+  "music": 0.0
+ },
+ {
+  "from": 26.62,
+  "to": 27.94,
+  "sid": 18,
+  "location": 2,
+  "content": "只从而当前所的方向键",
+  "music": 0.0
+ },
+ {
+  "from": 27.94,
+  "to": 30.39,
+  "sid": 19,
+  "location": 2,
+  "content": "而不按反方向键急停也是完全可行的",
+  "music": 0.0
+ },
+ {
+  "from": 30.39,
+  "to": 31.59,
+  "sid": 20,
+  "location": 2,
+  "content": "在60帧的视频下",
+  "music": 0.0
+ },
+ {
+  "from": 31.59,
+  "to": 32.67,
+  "sid": 21,
+  "location": 2,
+  "content": "不论按不反方向键",
+  "music": 0.0
+ },
+ {
+  "from": 32.67,
+  "to": 34.83,
+  "sid": 22,
+  "location": 2,
+  "content": "瓦洛兰特的急停呢周只需要八帧的时间",
+  "music": 0.0
+ },
+ {
+  "from": 34.83,
+  "to": 35.9,
+  "sid": 23,
+  "location": 2,
+  "content": "基本上可以认为",
+  "music": 0.0
+ },
+ {
+  "from": 35.9,
+  "to": 37.34,
+  "sid": 24,
+  "location": 2,
+  "content": "不按反方向键和暗反方向键",
+  "music": 0.0
+ },
+ {
+  "from": 37.34,
+  "to": 40.16,
+  "sid": 25,
+  "location": 2,
+  "content": "所造成的这个呃急停差异是不存在的",
+  "music": 0.0
+ },
+ {
+  "from": 40.16,
+  "to": 43.76,
+  "sid": 26,
+  "location": 2,
+  "content": "而在国外上的一项用红来进行精密测试帖子里",
+  "music": 0.0
+ },
+ {
+  "from": 43.76,
+  "to": 44.54,
+  "sid": 27,
+  "location": 2,
+  "content": "我们可以发现",
+  "music": 0.0
+ },
+ {
+  "from": 44.54,
+  "to": 47.48,
+  "sid": 28,
+  "location": 2,
+  "content": "不按反方向键比不按反方向键急停要快10ms",
+  "music": 0.0
+ },
+ {
+  "from": 47.48,
+  "to": 49.08,
+  "sid": 29,
+  "location": 2,
+  "content": "也就是0.01mm的差距",
+  "music": 0.0
+ },
+ {
+  "from": 49.08,
+  "to": 51.24,
+  "sid": 30,
+  "location": 2,
+  "content": "基本上是提杆无法感受到一个差别",
+  "music": 0.0
+ },
+ {
+  "from": 51.24,
+  "to": 52.44,
+  "sid": 31,
+  "location": 2,
+  "content": "所以我们基本可以认为",
+  "music": 0.0
+ },
+ {
+  "from": 52.44,
+  "to": 55.02,
+  "sid": 32,
+  "location": 2,
+  "content": "阿拉斯急停呢并不需要按反方向键来进行",
+  "music": 0.0
+ },
+ {
+  "from": 55.02,
+  "to": 56.76,
+  "sid": 33,
+  "location": 2,
+  "content": "但如果你是从CSGO转过来",
+  "music": 0.0
+ },
+ {
+  "from": 56.76,
+  "to": 59.26,
+  "sid": 34,
+  "location": 2,
+  "content": "那么接着以CSGO的方式急停也是没有问题的",
+  "music": 0.0
+ },
+ {
+  "from": 59.26,
+  "to": 60.52,
+  "sid": 35,
+  "location": 2,
+  "content": "还需要注意的一点是",
+  "music": 0.0
+ },
+ {
+  "from": 60.52,
+  "to": 61.66,
+  "sid": 36,
+  "location": 2,
+  "content": "按反方向键来急停呢",
+  "music": 0.0
+ },
+ {
+  "from": 61.66,
+  "to": 63.34,
+  "sid": 37,
+  "location": 2,
+  "content": "有利于加强急停的确认感",
+  "music": 0.0
+ },
+ {
+  "from": 63.34,
+  "to": 64.72,
+  "sid": 38,
+  "location": 2,
+  "content": "从而提高顺位控制能力",
+  "music": 0.0
+ },
+ {
+  "from": 64.72,
+  "to": 67.3,
+  "sid": 39,
+  "location": 2,
+  "content": "所以我推荐大家在对常规疫苗以及pk的时候",
+  "music": 0.0
+ },
+ {
+  "from": 67.3,
+  "to": 68.8,
+  "sid": 40,
+  "location": 2,
+  "content": "适当的使用反方向键",
+  "music": 0.0
+ },
+ {
+  "from": 68.8,
+  "to": 69.7,
+  "sid": 41,
+  "location": 2,
+  "content": "瓦洛兰特急停",
+  "music": 0.0
+ },
+ {
+  "from": 69.7,
+  "to": 71.14,
+  "sid": 42,
+  "location": 2,
+  "content": "因为不需要按反方向键学习",
+  "music": 0.0
+ },
+ {
+  "from": 71.14,
+  "to": 72.76,
+  "sid": 43,
+  "location": 2,
+  "content": "成本相比于CSGO低一些",
+  "music": 0.0
+ },
+ {
+  "from": 72.76,
+  "to": 75.13,
+  "sid": 44,
+  "location": 2,
+  "content": "基本上大家在靶场练一会儿就能完全适应",
+  "music": 0.0
+ },
+ {
+  "from": 75.13,
+  "to": 77.41,
+  "sid": 45,
+  "location": 2,
+  "content": "所以大部分玩家在瓦洛兰特遇到的问题",
+  "music": 0.0
+ },
+ {
+  "from": 77.41,
+  "to": 78.13,
+  "sid": 46,
+  "location": 2,
+  "content": "并不是急停",
+  "music": 0.0
+ },
+ {
+  "from": 78.13,
+  "to": 78.97,
+  "sid": 47,
+  "location": 2,
+  "content": "其基础应用",
+  "music": 0.0
+ },
+ {
+  "from": 78.97,
+  "to": 81.17,
+  "sid": 48,
+  "location": 2,
+  "content": "而是更多出现在一些进阶的问题上",
+  "music": 0.0
+ },
+ {
+  "from": 81.17,
+  "to": 83.03,
+  "sid": 49,
+  "location": 2,
+  "content": "那么第一个比较常见的问题就是",
+  "music": 0.0
+ },
+ {
+  "from": 83.03,
+  "to": 84.71,
+  "sid": 50,
+  "location": 2,
+  "content": "新手很容易为了急停而急停",
+  "music": 0.0
+ },
+ {
+  "from": 84.71,
+  "to": 85.55,
+  "sid": 51,
+  "location": 2,
+  "content": "过于执着于急停",
+  "music": 0.0
+ },
+ {
+  "from": 85.55,
+  "to": 86.69,
+  "sid": 52,
+  "location": 2,
+  "content": "其本身却忘记了",
+  "music": 0.0
+ },
+ {
+  "from": 86.69,
+  "to": 88.76,
+  "sid": 53,
+  "location": 2,
+  "content": "急停是为了更好的击杀敌人而富的",
+  "music": 0.0
+ },
+ {
+  "from": 88.76,
+  "to": 89.66,
+  "sid": 54,
+  "location": 2,
+  "content": "举个例子",
+  "music": 0.0
+ },
+ {
+  "from": 89.66,
+  "to": 91.82,
+  "sid": 55,
+  "location": 2,
+  "content": "当我们看到的目标A击杀它的正确步骤是",
+  "music": 0.0
+ },
+ {
+  "from": 91.82,
+  "to": 93.08,
+  "sid": 56,
+  "location": 2,
+  "content": "我在保持移动的同时",
+  "music": 0.0
+ },
+ {
+  "from": 93.08,
+  "to": 94.48,
+  "sid": 57,
+  "location": 2,
+  "content": "移动准星至他头上",
+  "music": 0.0
+ },
+ {
+  "from": 94.48,
+  "to": 95.74,
+  "sid": 58,
+  "location": 2,
+  "content": "然后在我瞄准好了",
+  "music": 0.0
+ },
+ {
+  "from": 95.74,
+  "to": 97.0,
+  "sid": 59,
+  "location": 2,
+  "content": "准备开枪那一瞬间",
+  "music": 0.0
+ },
+ {
+  "from": 97.0,
+  "to": 98.53,
+  "sid": 60,
+  "location": 2,
+  "content": "急停再射出一颗子弹",
+  "music": 0.22388058030741667
+ },
+ {
+  "from": 98.53,
+  "to": 100.34,
+  "sid": 61,
+  "location": 2,
+  "content": "而很多新手容易犯的错误是",
+  "music": 0.0
+ },
+ {
+  "from": 100.34,
+  "to": 102.56,
+  "sid": 62,
+  "location": 2,
+  "content": "你看到目标那一瞬间就已经停止移动了",
+  "music": 0.0
+ },
+ {
+  "from": 102.56,
+  "to": 104.9,
+  "sid": 63,
+  "location": 2,
+  "content": "然后在这种完全静止状态下再开始瞄准",
+  "music": 0.0
+ },
+ {
+  "from": 104.9,
+  "to": 105.98,
+  "sid": 64,
+  "location": 2,
+  "content": "然后再射击",
+  "music": 0.0
+ },
+ {
+  "from": 105.98,
+  "to": 106.64,
+  "sid": 65,
+  "location": 2,
+  "content": "这样做",
+  "music": 0.0
+ },
+ {
+  "from": 106.64,
+  "to": 108.44,
+  "sid": 66,
+  "location": 2,
+  "content": "首先你要在完全静止的状态下瞄准",
+  "music": 0.0
+ },
+ {
+  "from": 108.44,
+  "to": 110.21,
+  "sid": 67,
+  "location": 2,
+  "content": "敌人很容易击杀你这样的固定法",
+  "music": 0.0
+ },
+ {
+  "from": 110.21,
+  "to": 112.46,
+  "sid": 68,
+  "location": 2,
+  "content": "其次你的移动瞄准完全割裂了你法",
+  "music": 0.0
+ },
+ {
+  "from": 112.46,
+  "to": 113.98,
+  "sid": 69,
+  "location": 2,
+  "content": "用自己的移动来补偿瞄准",
+  "music": 0.0
+ },
+ {
+  "from": 113.98,
+  "to": 115.42,
+  "sid": 70,
+  "location": 2,
+  "content": "这就是更新的内容了",
+  "music": 0.0
+ },
+ {
+  "from": 115.42,
+  "to": 116.38,
+  "sid": 71,
+  "location": 2,
+  "content": "关于这部分内容呢",
+  "music": 0.0
+ },
+ {
+  "from": 116.38,
+  "to": 117.34,
+  "sid": 72,
+  "location": 2,
+  "content": "我之前也讲过",
+  "music": 0.0
+ },
+ {
+  "from": 117.34,
+  "to": 119.48,
+  "sid": 73,
+  "location": 2,
+  "content": "这个击杀就是一个很好的例子",
+  "music": 0.0
+ },
+ {
+  "from": 119.48,
+  "to": 121.7,
+  "sid": 74,
+  "location": 2,
+  "content": "因为我多走一步来规避枪线",
+  "music": 0.0
+ },
+ {
+  "from": 121.7,
+  "to": 123.98,
+  "sid": 75,
+  "location": 2,
+  "content": "所以我的像素定位是给我的移动流的提前量",
+  "music": 0.0
+ },
+ {
+  "from": 123.98,
+  "to": 126.44,
+  "sid": 76,
+  "location": 2,
+  "content": "我的移动与瞄准是紧密结合的关系",
+  "music": 0.0
+ },
+ {
+  "from": 126.44,
+  "to": 127.46,
+  "sid": 77,
+  "location": 2,
+  "content": "移动可以补偿瞄准",
+  "music": 0.0
+ },
+ {
+  "from": 127.46,
+  "to": 129.18,
+  "sid": 78,
+  "location": 2,
+  "content": "瞄准反过来也能补偿移动",
+  "music": 0.0
+ },
+ {
+  "from": 129.18,
+  "to": 131.46,
+  "sid": 79,
+  "location": 2,
+  "content": "关于如何练习这种走射起跳能力如何来了",
+  "music": 0.0
+ },
+ {
+  "from": 131.46,
+  "to": 132.84,
+  "sid": 80,
+  "location": 2,
+  "content": "急停和瞄准中一体正常",
+  "music": 0.0
+ },
+ {
+  "from": 132.84,
+  "to": 134.04,
+  "sid": 81,
+  "location": 2,
+  "content": "我此前途大过的一样",
+  "music": 0.0
+ },
+ {
+  "from": 134.04,
+  "to": 136.2,
+  "sid": 82,
+  "location": 2,
+  "content": "大家坚持在死斗与天梯中使用一段时间",
+  "music": 0.0
+ },
+ {
+  "from": 136.2,
+  "to": 138.3,
+  "sid": 83,
+  "location": 2,
+  "content": "捍卫者将极大的改善这一点",
+  "music": 0.0
+ },
+ {
+  "from": 138.3,
+  "to": 140.34,
+  "sid": 84,
+  "location": 2,
+  "content": "那么第二个比较常见的问题就是",
+  "music": 0.0
+ },
+ {
+  "from": 140.34,
+  "to": 141.78,
+  "sid": 85,
+  "location": 2,
+  "content": "新手对于蹲进的一个滥用",
+  "music": 0.0
+ },
+ {
+  "from": 141.78,
+  "to": 144.8,
+  "sid": 86,
+  "location": 2,
+  "content": "那么在瓦罗兰特里蹲剑并不能代替急停的作用",
+  "music": 0.0
+ },
+ {
+  "from": 144.8,
+  "to": 146.54,
+  "sid": 87,
+  "location": 2,
+  "content": "所以如果你要在瓦特里蹲下",
+  "music": 0.0
+ },
+ {
+  "from": 146.54,
+  "to": 148.49,
+  "sid": 88,
+  "location": 2,
+  "content": "那一定是先松开方向键再蹲下的",
+  "music": 0.0
+ },
+ {
+  "from": 148.49,
+  "to": 150.56,
+  "sid": 89,
+  "location": 2,
+  "content": "那么再者瓦兰特人物的AD变向速度",
+  "music": 0.0
+ },
+ {
+  "from": 150.56,
+  "to": 151.76,
+  "sid": 90,
+  "location": 2,
+  "content": "惩罚是比CSGO小的",
+  "music": 0.0
+ },
+ {
+  "from": 151.76,
+  "to": 153.78,
+  "sid": 91,
+  "location": 2,
+  "content": "而且模型也比CSGO小很多",
+  "music": 0.0
+ },
+ {
+  "from": 153.78,
+  "to": 155.16,
+  "sid": 92,
+  "location": 2,
+  "content": "那么在中远距离对枪中",
+  "music": 0.0
+ },
+ {
+  "from": 155.16,
+  "to": 157.32,
+  "sid": 93,
+  "location": 2,
+  "content": "保持AD移动是非常重要的",
+  "music": 0.0
+ },
+ {
+  "from": 157.32,
+  "to": 159.84,
+  "sid": 94,
+  "location": 2,
+  "content": "因此我只推荐大家在处于空枪的需求",
+  "music": 0.0
+ },
+ {
+  "from": 159.84,
+  "to": 162.42,
+  "sid": 95,
+  "location": 2,
+  "content": "近距离泼水或者蹲pk来规避头线的情况下",
+  "music": 0.0
+ },
+ {
+  "from": 162.42,
+  "to": 163.31,
+  "sid": 96,
+  "location": 2,
+  "content": "适当的下蹲",
+  "music": 0.0
+ },
+ {
+  "from": 163.31,
+  "to": 164.63,
+  "sid": 97,
+  "location": 2,
+  "content": "在中远距离对枪中",
+  "music": 0.0
+ },
+ {
+  "from": 164.63,
+  "to": 167.33,
+  "sid": 98,
+  "location": 2,
+  "content": "我更推荐大家在AD变向移动中穿插射击",
+  "music": 0.0
+ },
+ {
+  "from": 167.33,
+  "to": 168.95,
+  "sid": 99,
+  "location": 2,
+  "content": "在中远距离每移动一次",
+  "music": 0.0
+ },
+ {
+  "from": 168.95,
+  "to": 169.91,
+  "sid": 100,
+  "location": 2,
+  "content": "短点射一轮",
+  "music": 0.0
+ },
+ {
+  "from": 169.91,
+  "to": 172.7,
+  "sid": 101,
+  "location": 2,
+  "content": "那么这样的效率远比蹲下来泼水来的高",
+  "music": 0.0
+ },
+ {
+  "from": 172.7,
+  "to": 176.02,
+  "sid": 102,
+  "location": 2,
+  "content": "那最后一个要讲的急停的进阶使用就是提前枪",
+  "music": 0.0
+ },
+ {
+  "from": 176.02,
+  "to": 178.18,
+  "sid": 103,
+  "location": 2,
+  "content": "这段来自nrg android的这个素材",
+  "music": 0.0
+ },
+ {
+  "from": 178.18,
+  "to": 181.0,
+  "sid": 104,
+  "location": 2,
+  "content": "能很好的演示这种提前枪",
+  "music": 0.0
+ },
+ {
+  "from": 184.839,
+  "to": 187.799,
+  "sid": 105,
+  "location": 2,
+  "content": "大家可以看到他是在这个拉出掩体开枪射击",
+  "music": 0.0
+ },
+ {
+  "from": 187.799,
+  "to": 189.119,
+  "sid": 106,
+  "location": 2,
+  "content": "同时就按下反方向键",
+  "music": 0.0
+ },
+ {
+  "from": 189.119,
+  "to": 190.1,
+  "sid": 107,
+  "location": 2,
+  "content": "又跑回了掩体",
+  "music": 0.0
+ },
+ {
+  "from": 190.1,
+  "to": 192.2,
+  "sid": 108,
+  "location": 2,
+  "content": "这严格意义上其实算是好打",
+  "music": 0.0
+ },
+ {
+  "from": 192.2,
+  "to": 194.12,
+  "sid": 109,
+  "location": 2,
+  "content": "但是因为变相会有一定速度惩罚",
+  "music": 0.0
+ },
+ {
+  "from": 194.12,
+  "to": 194.78,
+  "sid": 110,
+  "location": 2,
+  "content": "如果你开枪",
+  "music": 0.0
+ },
+ {
+  "from": 194.78,
+  "to": 196.94,
+  "sid": 111,
+  "location": 2,
+  "content": "正好卡在了速度下降的那个时间点上",
+  "music": 0.0
+ },
+ {
+  "from": 196.94,
+  "to": 198.26,
+  "sid": 112,
+  "location": 2,
+  "content": "那你射出了这几颗子弹",
+  "music": 0.0
+ },
+ {
+  "from": 198.26,
+  "to": 200.26,
+  "sid": 113,
+  "location": 2,
+  "content": "也就能保持较为可观的精度",
+  "music": 0.0
+ },
+ {
+  "from": 200.26,
+  "to": 202.36,
+  "sid": 114,
+  "location": 2,
+  "content": "当你处在极为劣势对枪位的时候",
+  "music": 0.0
+ },
+ {
+  "from": 202.36,
+  "to": 204.19,
+  "sid": 115,
+  "location": 2,
+  "content": "可以试试用提前枪来创造奇迹",
+  "music": 0.0
+ },
+ {
+  "from": 204.19,
+  "to": 206.579,
+  "sid": 116,
+  "location": 2,
+  "content": "我们熟知的新浪哥呢就是此中高手",
+  "music": 0.0
+ },
+ {
+  "from": 206.579,
+  "to": 208.919,
+  "sid": 117,
+  "location": 2,
+  "content": "但是这种提前枪呢是有一来了这个运气成分的",
+  "music": 0.0
+ },
+ {
+  "from": 208.919,
+  "to": 210.34,
+  "sid": 118,
+  "location": 2,
+  "content": "所以不推荐大家滥用",
+  "music": 0.0
+ },
+ {
+  "from": 210.34,
+  "to": 211.84,
+  "sid": 119,
+  "location": 2,
+  "content": "今天视频就给大家带到这里",
+  "music": 0.0
+ },
+ {
+  "from": 211.84,
+  "to": 213.28,
+  "sid": 120,
+  "location": 2,
+  "content": "正如我此前所说的啊",
+  "music": 0.0
+ },
+ {
+  "from": 213.28,
+  "to": 214.72,
+  "sid": 121,
+  "location": 2,
+  "content": "让移动与瞄准紧密结合",
+  "music": 0.0
+ },
+ {
+  "from": 214.72,
+  "to": 216.28,
+  "sid": 122,
+  "location": 2,
+  "content": "才能真正的提高实战枪法",
+  "music": 0.0
+ },
+ {
+  "from": 216.28,
+  "to": 217.84,
+  "sid": 123,
+  "location": 2,
+  "content": "我在接下来会持续更新",
+  "music": 0.0
+ },
+ {
+  "from": 217.84,
+  "to": 220.03,
+  "sid": 124,
+  "location": 2,
+  "content": "包括瓦兰特在内的全FPS s系列教学",
+  "music": 0.0
+ },
+ {
+  "from": 220.03,
+  "to": 221.74,
+  "sid": 125,
+  "location": 2,
+  "content": "在瓦兰特这一个具体游戏领域内",
+  "music": 0.0
+ },
+ {
+  "from": 221.74,
+  "to": 223.94,
+  "sid": 126,
+  "location": 2,
+  "content": "我的目标是让所有玩家在到达神话专辑之前",
+  "music": 0.0
+ },
+ {
+  "from": 223.94,
+  "to": 225.71,
+  "sid": 127,
+  "location": 2,
+  "content": "都不会碰上这些认知上的瓶颈",
+  "music": 0.0
+ },
+ {
+  "from": 225.71,
+  "to": 227.6,
+  "sid": 128,
+  "location": 2,
+  "content": "如果你想提高自己在瓦兰特的水平",
+  "music": 0.0
+ },
+ {
+  "from": 227.6,
+  "to": 228.56,
+  "sid": 129,
+  "location": 2,
+  "content": "那不妨点个关注",
+  "music": 0.0
+ },
+ {
+  "from": 228.56,
+  "to": 229.64,
+  "sid": 130,
+  "location": 2,
+  "content": "那么今天视频就到这里",
+  "music": 0.0
+ },
+ {
+  "from": 229.64,
+  "to": 230.5,
+  "sid": 131,
+  "location": 2,
+  "content": "我们下期视频再见",
+  "music": 0.0
+ }
+]

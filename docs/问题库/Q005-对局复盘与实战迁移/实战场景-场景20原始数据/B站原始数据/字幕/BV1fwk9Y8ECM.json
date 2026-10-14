@@ -1,0 +1,1858 @@
+[
+ {
+  "from": 0.0,
+  "to": 0.28,
+  "sid": 1,
+  "location": 2,
+  "content": "哈喽啊",
+  "music": 0.0
+ },
+ {
+  "from": 0.28,
+  "to": 1.64,
+  "sid": 2,
+  "location": 2,
+  "content": "这里是JOJO的游戏分身",
+  "music": 0.0
+ },
+ {
+  "from": 1.64,
+  "to": 2.36,
+  "sid": 3,
+  "location": 2,
+  "content": "上次英雄杂谈",
+  "music": 0.0
+ },
+ {
+  "from": 2.36,
+  "to": 4.12,
+  "sid": 4,
+  "location": 2,
+  "content": "我们讲了人人喊打的钱包思路打法",
+  "music": 0.0
+ },
+ {
+  "from": 4.12,
+  "to": 4.84,
+  "sid": 5,
+  "location": 2,
+  "content": "这一次我们就讲一下",
+  "music": 0.0
+ },
+ {
+  "from": 4.84,
+  "to": 6.4,
+  "sid": 6,
+  "location": 2,
+  "content": "整个游戏最具有代表性的特工",
+  "music": 0.0
+ },
+ {
+  "from": 6.4,
+  "to": 6.93,
+  "sid": 7,
+  "location": 2,
+  "content": "杰风",
+  "music": 0.0
+ },
+ {
+  "from": 6.93,
+  "to": 8.21,
+  "sid": 8,
+  "location": 2,
+  "content": "在雷子和霓虹都被削弱",
+  "music": 0.0
+ },
+ {
+  "from": 8.21,
+  "to": 10.37,
+  "sid": 9,
+  "location": 2,
+  "content": "后来解封又重新回到了依图首选的位置",
+  "music": 0.0
+ },
+ {
+  "from": 10.37,
+  "to": 11.85,
+  "sid": 10,
+  "location": 2,
+  "content": "而不同于大部分人对于钱报的错误",
+  "music": 0.0
+ },
+ {
+  "from": 11.85,
+  "to": 12.85,
+  "sid": 11,
+  "location": 2,
+  "content": "解读和思路僵化",
+  "music": 0.0
+ },
+ {
+  "from": 12.85,
+  "to": 14.98,
+  "sid": 12,
+  "location": 2,
+  "content": "杰风的打法开发可以说是相当完全了",
+  "music": 0.0
+ },
+ {
+  "from": 14.98,
+  "to": 16.02,
+  "sid": 13,
+  "location": 2,
+  "content": "防守时候的免费枪",
+  "music": 0.0
+ },
+ {
+  "from": 16.02,
+  "to": 17.869,
+  "sid": 14,
+  "location": 2,
+  "content": "使用进攻方的烟球带去拉枪线",
+  "music": 0.0
+ },
+ {
+  "from": 17.869,
+  "to": 19.629,
+  "sid": 15,
+  "location": 2,
+  "content": "这点呢我也在之前讲E兔的视频里面",
+  "music": 0.0
+ },
+ {
+  "from": 19.629,
+  "to": 20.269,
+  "sid": 16,
+  "location": 2,
+  "content": "都提到过了",
+  "music": 0.0
+ },
+ {
+  "from": 20.269,
+  "to": 22.029,
+  "sid": 17,
+  "location": 2,
+  "content": "所以我们就这一期不讲基础打法",
+  "music": 0.0
+ },
+ {
+  "from": 22.029,
+  "to": 22.829,
+  "sid": 18,
+  "location": 2,
+  "content": "而是列举出来一些",
+  "music": 0.0
+ },
+ {
+  "from": 22.829,
+  "to": 24.84,
+  "sid": 19,
+  "location": 2,
+  "content": "能够提升你解风水平上限的技巧",
+  "music": 0.0
+ },
+ {
+  "from": 24.84,
+  "to": 27.48,
+  "sid": 20,
+  "location": 2,
+  "content": "首先向大家推荐八七件性价比之王机甲风",
+  "music": 0.0
+ },
+ {
+  "from": 27.48,
+  "to": 29.56,
+  "sid": 21,
+  "location": 2,
+  "content": "高颜值的英菲克K87机械键盘",
+  "music": 0.0
+ },
+ {
+  "from": 29.56,
+  "to": 32.04,
+  "sid": 22,
+  "location": 2,
+  "content": "无论是政客双月鎏金还是侧客银灰梦境",
+  "music": 0.0
+ },
+ {
+  "from": 32.04,
+  "to": 34.02,
+  "sid": 23,
+  "location": 2,
+  "content": "都采用了PPT双色注塑键帽",
+  "music": 0.0
+ },
+ {
+  "from": 34.02,
+  "to": 34.7,
+  "sid": 24,
+  "location": 2,
+  "content": "有机甲轴",
+  "music": 0.0
+ },
+ {
+  "from": 34.7,
+  "to": 35.62,
+  "sid": 25,
+  "location": 2,
+  "content": "黑金轴两种轴体",
+  "music": 0.0
+ },
+ {
+  "from": 35.62,
+  "to": 38.44,
+  "sid": 26,
+  "location": 2,
+  "content": "选择不同轴体适合不同程度的办公和游戏使用",
+  "music": 0.0
+ },
+ {
+  "from": 38.44,
+  "to": 40.34,
+  "sid": 27,
+  "location": 2,
+  "content": "而全系价格都不超过199",
+  "music": 0.0
+ },
+ {
+  "from": 40.34,
+  "to": 42.32,
+  "sid": 28,
+  "location": 2,
+  "content": "可以说是学生党和刚参加工作的朋友",
+  "music": 0.0
+ },
+ {
+  "from": 42.32,
+  "to": 43.68,
+  "sid": 29,
+  "location": 2,
+  "content": "最友好合适的价位了",
+  "music": 0.0
+ },
+ {
+  "from": 43.68,
+  "to": 46.2,
+  "sid": 30,
+  "location": 2,
+  "content": "五层GSK结构搭配1600万次灯光调节",
+  "music": 0.0
+ },
+ {
+  "from": 46.2,
+  "to": 48.78,
+  "sid": 31,
+  "location": 2,
+  "content": "以及三模连接方式下的8000ma电池容量",
+  "music": 0.0
+ },
+ {
+  "from": 48.78,
+  "to": 50.81,
+  "sid": 32,
+  "location": 2,
+  "content": "性能外观手感都不含糊",
+  "music": 0.0
+ },
+ {
+  "from": 50.81,
+  "to": 51.89,
+  "sid": 33,
+  "location": 2,
+  "content": "临近圣诞元旦了",
+  "music": 0.0
+ },
+ {
+  "from": 51.89,
+  "to": 53.85,
+  "sid": 34,
+  "location": 2,
+  "content": "送给兄弟女友一把这样的键盘游戏里面压力",
+  "music": 0.0
+ },
+ {
+  "from": 53.85,
+  "to": 55.13,
+  "sid": 35,
+  "location": 2,
+  "content": "他们他们都不好意思还嘴了",
+  "music": 0.0
+ },
+ {
+  "from": 55.13,
+  "to": 57.37,
+  "sid": 36,
+  "location": 2,
+  "content": "我也打算搞丢两把给一直支持我的水友们",
+  "music": 0.0
+ },
+ {
+  "from": 57.37,
+  "to": 58.63,
+  "sid": 37,
+  "location": 2,
+  "content": "就看兄弟们给不给面子了",
+  "music": 0.0
+ },
+ {
+  "from": 58.63,
+  "to": 60.23,
+  "sid": 38,
+  "location": 2,
+  "content": "感兴趣的朋友可以在下方评论区",
+  "music": 0.0
+ },
+ {
+  "from": 60.23,
+  "to": 62.29,
+  "sid": 39,
+  "location": 2,
+  "content": "了解更多产品详细信息",
+  "music": 0.0
+ },
+ {
+  "from": 62.29,
+  "to": 64.01,
+  "sid": 40,
+  "location": 2,
+  "content": "OK我们就先从这个地方举个例子吧",
+  "music": 0.0
+ },
+ {
+  "from": 64.01,
+  "to": 65.29,
+  "sid": 41,
+  "location": 2,
+  "content": "这个地图还是比较经典的",
+  "music": 0.0
+ },
+ {
+  "from": 65.29,
+  "to": 66.69,
+  "sid": 42,
+  "location": 2,
+  "content": "就是你看他这个前点啊",
+  "music": 0.0
+ },
+ {
+  "from": 66.69,
+  "to": 68.03,
+  "sid": 43,
+  "location": 2,
+  "content": "无论是A点还是B点",
+  "music": 0.0
+ },
+ {
+  "from": 68.03,
+  "to": 69.75,
+  "sid": 44,
+  "location": 2,
+  "content": "他都有这种狭长的地方",
+  "music": 0.0
+ },
+ {
+  "from": 69.75,
+  "to": 70.59,
+  "sid": 45,
+  "location": 2,
+  "content": "这个地方其实是",
+  "music": 0.0
+ },
+ {
+  "from": 70.59,
+  "to": 72.47,
+  "sid": 46,
+  "location": 2,
+  "content": "你不需要一速的拉枪线就可以完成的",
+  "music": 0.0
+ },
+ {
+  "from": 72.47,
+  "to": 74.32,
+  "sid": 47,
+  "location": 2,
+  "content": "所以在这个时候你需要保证自己的安全",
+  "music": 0.0
+ },
+ {
+  "from": 74.32,
+  "to": 75.56,
+  "sid": 48,
+  "location": 2,
+  "content": "很多人一听到戒指是一突",
+  "music": 0.0
+ },
+ {
+  "from": 75.56,
+  "to": 77.28,
+  "sid": 49,
+  "location": 2,
+  "content": "就觉得一突就是随时走第一个",
+  "music": 0.0
+ },
+ {
+  "from": 77.28,
+  "to": 80.099,
+  "sid": 50,
+  "location": 2,
+  "content": "但是其实在你最后到达这个准备好",
+  "music": 0.0
+ },
+ {
+  "from": 80.099,
+  "to": 81.099,
+  "sid": 51,
+  "location": 2,
+  "content": "弹射出去的位置之前",
+  "music": 0.0
+ },
+ {
+  "from": 81.099,
+  "to": 82.699,
+  "sid": 52,
+  "location": 2,
+  "content": "你一定要保证自己的血量和技能",
+  "music": 0.0
+ },
+ {
+  "from": 82.699,
+  "to": 84.0,
+  "sid": 53,
+  "location": 2,
+  "content": "尽量的健康和饱满",
+  "music": 0.0
+ },
+ {
+  "from": 84.0,
+  "to": 86.52,
+  "sid": 54,
+  "location": 2,
+  "content": "所以说你需要在这个位置找到你的队友",
+  "music": 0.0
+ },
+ {
+  "from": 86.52,
+  "to": 88.76,
+  "sid": 55,
+  "location": 2,
+  "content": "找他要一个眼镜或者要搜瓦的无人机",
+  "music": 0.0
+ },
+ {
+  "from": 88.76,
+  "to": 91.48,
+  "sid": 56,
+  "location": 2,
+  "content": "而不是一来就直接就这么大大咧咧的出去",
+  "music": 0.0
+ },
+ {
+  "from": 91.48,
+  "to": 92.32,
+  "sid": 57,
+  "location": 2,
+  "content": "我说我是突破手",
+  "music": 0.0
+ },
+ {
+  "from": 92.32,
+  "to": 93.58,
+  "sid": 58,
+  "location": 2,
+  "content": "所以我就这么冲出去了",
+  "music": 0.0
+ },
+ {
+  "from": 93.58,
+  "to": 96.32,
+  "sid": 59,
+  "location": 2,
+  "content": "然后对面拿手刹的人直接给你摘了",
+  "music": 0.0
+ },
+ {
+  "from": 96.32,
+  "to": 97.74,
+  "sid": 60,
+  "location": 2,
+  "content": "或者是有一些什么反清道具",
+  "music": 0.0
+ },
+ {
+  "from": 97.74,
+  "to": 98.62,
+  "sid": 61,
+  "location": 2,
+  "content": "第一个倒霉的就是你",
+  "music": 0.0
+ },
+ {
+  "from": 98.62,
+  "to": 99.7,
+  "sid": 62,
+  "location": 2,
+  "content": "而没有了E兔的队伍",
+  "music": 0.0
+ },
+ {
+  "from": 99.7,
+  "to": 101.66,
+  "sid": 63,
+  "location": 2,
+  "content": "在进攻的时候会变得非常的疲软",
+  "music": 0.0
+ },
+ {
+  "from": 101.66,
+  "to": 103.919,
+  "sid": 64,
+  "location": 2,
+  "content": "所以一定要确保自己安全的到前点",
+  "music": 0.0
+ },
+ {
+  "from": 103.919,
+  "to": 105.799,
+  "sid": 65,
+  "location": 2,
+  "content": "OK那我们已经到了这个前点了以后呢",
+  "music": 0.0
+ },
+ {
+  "from": 105.799,
+  "to": 107.319,
+  "sid": 66,
+  "location": 2,
+  "content": "我们是什么时候上来一盘",
+  "music": 0.0
+ },
+ {
+  "from": 107.319,
+  "to": 107.879,
+  "sid": 67,
+  "location": 2,
+  "content": "这有个烟",
+  "music": 0.0
+ },
+ {
+  "from": 107.879,
+  "to": 108.479,
+  "sid": 68,
+  "location": 2,
+  "content": "对不对",
+  "music": 0.0
+ },
+ {
+  "from": 108.479,
+  "to": 110.159,
+  "sid": 69,
+  "location": 2,
+  "content": "这个时候最好就是你扣道具",
+  "music": 0.0
+ },
+ {
+  "from": 110.159,
+  "to": 111.499,
+  "sid": 70,
+  "location": 2,
+  "content": "或者是你等队友的道具",
+  "music": 0.0
+ },
+ {
+  "from": 111.499,
+  "to": 113.159,
+  "sid": 71,
+  "location": 2,
+  "content": "或者有可能其实你还没有到前点的时候",
+  "music": 0.0
+ },
+ {
+  "from": 113.159,
+  "to": 114.639,
+  "sid": 72,
+  "location": 2,
+  "content": "你已经看到队友的道具在这飞了",
+  "music": 0.0
+ },
+ {
+  "from": 114.639,
+  "to": 116.75,
+  "sid": 73,
+  "location": 2,
+  "content": "比如所有的箭塔已经在这样这样过来了",
+  "music": 0.0
+ },
+ {
+  "from": 116.75,
+  "to": 118.63,
+  "sid": 74,
+  "location": 2,
+  "content": "那你就不能够再等了",
+  "music": 0.0
+ },
+ {
+  "from": 118.63,
+  "to": 119.99,
+  "sid": 75,
+  "location": 2,
+  "content": "当道具出现的一瞬间",
+  "music": 0.0
+ },
+ {
+  "from": 119.99,
+  "to": 121.43,
+  "sid": 76,
+  "location": 2,
+  "content": "比如说这个剑栽在墙上啊",
+  "music": 0.0
+ },
+ {
+  "from": 121.43,
+  "to": 122.43,
+  "sid": 77,
+  "location": 2,
+  "content": "比如说弟弟丢出去啊",
+  "music": 0.0
+ },
+ {
+  "from": 122.43,
+  "to": 123.67,
+  "sid": 78,
+  "location": 2,
+  "content": "比如说让你眼睛丢出去啊",
+  "music": 0.0
+ },
+ {
+  "from": 123.67,
+  "to": 125.92,
+  "sid": 79,
+  "location": 2,
+  "content": "你就跟这个东西一起弹射出去就可以了",
+  "music": 0.0
+ },
+ {
+  "from": 125.92,
+  "to": 127.2,
+  "sid": 80,
+  "location": 2,
+  "content": "守在包点的对手",
+  "music": 0.0
+ },
+ {
+  "from": 127.2,
+  "to": 128.8,
+  "sid": 81,
+  "location": 2,
+  "content": "他是会陷入一个两难的境地",
+  "music": 0.0
+ },
+ {
+  "from": 128.8,
+  "to": 130.34,
+  "sid": 82,
+  "location": 2,
+  "content": "他是打辅助你的道具",
+  "music": 0.0
+ },
+ {
+  "from": 130.34,
+  "to": 132.04,
+  "sid": 83,
+  "location": 2,
+  "content": "还是打还没掏枪的你",
+  "music": 0.0
+ },
+ {
+  "from": 132.04,
+  "to": 134.64,
+  "sid": 84,
+  "location": 2,
+  "content": "所以说你们两个同时出现效果是最好的",
+  "music": 0.0
+ },
+ {
+  "from": 134.64,
+  "to": 135.68,
+  "sid": 85,
+  "location": 2,
+  "content": "OK那近点怎么新呢",
+  "music": 0.0
+ },
+ {
+  "from": 135.68,
+  "to": 138.5,
+  "sid": 86,
+  "location": 2,
+  "content": "其实大家应该都知道这个流程就是给个烟",
+  "music": 0.0
+ },
+ {
+  "from": 138.5,
+  "to": 139.72,
+  "sid": 87,
+  "location": 2,
+  "content": "然后往那个烟里钻",
+  "music": 0.0
+ },
+ {
+  "from": 139.72,
+  "to": 141.16,
+  "sid": 88,
+  "location": 2,
+  "content": "但是呢在氮气的过程当中",
+  "music": 0.0
+ },
+ {
+  "from": 141.16,
+  "to": 142.58,
+  "sid": 89,
+  "location": 2,
+  "content": "你不要忘了一定要看一遍",
+  "music": 0.0
+ },
+ {
+  "from": 142.58,
+  "to": 144.04,
+  "sid": 90,
+  "location": 2,
+  "content": "可以清理掉一个角落",
+  "music": 0.0
+ },
+ {
+  "from": 144.04,
+  "to": 147.08,
+  "sid": 91,
+  "location": 2,
+  "content": "比如说这样对不对",
+  "music": 0.0
+ },
+ {
+  "from": 147.08,
+  "to": 148.38,
+  "sid": 92,
+  "location": 2,
+  "content": "甚至手速允许的朋友",
+  "music": 0.0
+ },
+ {
+  "from": 148.38,
+  "to": 151.58,
+  "sid": 93,
+  "location": 2,
+  "content": "你可以选择看两边很多朋友他就直勾勾的",
+  "music": 0.0
+ },
+ {
+  "from": 151.58,
+  "to": 152.3,
+  "sid": 94,
+  "location": 2,
+  "content": "这么就进去了",
+  "music": 0.0
+ },
+ {
+  "from": 152.3,
+  "to": 153.88,
+  "sid": 95,
+  "location": 2,
+  "content": "进去了以后他自己也是懵的",
+  "music": 0.0
+ },
+ {
+  "from": 153.88,
+  "to": 156.0,
+  "sid": 96,
+  "location": 2,
+  "content": "但是别人很清楚他在哪对吧",
+  "music": 0.0
+ },
+ {
+  "from": 156.0,
+  "to": 157.78,
+  "sid": 97,
+  "location": 2,
+  "content": "你这个对枪就完全没有任何优势",
+  "music": 0.0
+ },
+ {
+  "from": 157.78,
+  "to": 160.2,
+  "sid": 98,
+  "location": 2,
+  "content": "所以说呢咱们接着进攻流程当中的封烟",
+  "music": 0.0
+ },
+ {
+  "from": 160.2,
+  "to": 161.43,
+  "sid": 99,
+  "location": 2,
+  "content": "在禁烟这个动作",
+  "music": 0.0
+ },
+ {
+  "from": 161.43,
+  "to": 163.59,
+  "sid": 100,
+  "location": 2,
+  "content": "它不仅仅是给队伍创造第二枪线的动作",
+  "music": 0.0
+ },
+ {
+  "from": 163.59,
+  "to": 165.83,
+  "sid": 101,
+  "location": 2,
+  "content": "他还是一个索敌的过程",
+  "music": 0.0
+ },
+ {
+  "from": 166.22,
+  "to": 168.14,
+  "sid": 102,
+  "location": 2,
+  "content": "你看到的人是一种锁敌方式",
+  "music": 0.0
+ },
+ {
+  "from": 168.14,
+  "to": 170.16,
+  "sid": 103,
+  "location": 2,
+  "content": "并且在你进入了烟雾弹里面以后",
+  "music": 0.0
+ },
+ {
+  "from": 170.16,
+  "to": 171.46,
+  "sid": 104,
+  "location": 2,
+  "content": "因为你是相对安全的",
+  "music": 0.0
+ },
+ {
+  "from": 171.46,
+  "to": 174.66,
+  "sid": 105,
+  "location": 2,
+  "content": "那个时候你是可以第一时间看小地图的",
+  "music": 0.0
+ },
+ {
+  "from": 174.66,
+  "to": 175.86,
+  "sid": 106,
+  "location": 2,
+  "content": "第一时间一定要看小地图",
+  "music": 0.0
+ },
+ {
+  "from": 175.86,
+  "to": 177.1,
+  "sid": 107,
+  "location": 2,
+  "content": "因为你的队友识相的话",
+  "music": 0.0
+ },
+ {
+  "from": 177.1,
+  "to": 178.04,
+  "sid": 108,
+  "location": 2,
+  "content": "他会直接出来",
+  "music": 0.0
+ },
+ {
+  "from": 178.04,
+  "to": 179.8,
+  "sid": 109,
+  "location": 2,
+  "content": "这个时候有人会打你队友或者打你",
+  "music": 0.0
+ },
+ {
+  "from": 179.8,
+  "to": 181.02,
+  "sid": 110,
+  "location": 2,
+  "content": "你都可以在小地图上看到他",
+  "music": 0.0
+ },
+ {
+  "from": 181.02,
+  "to": 182.4,
+  "sid": 111,
+  "location": 2,
+  "content": "那么你在烟雾消散的时候",
+  "music": 0.0
+ },
+ {
+  "from": 182.4,
+  "to": 184.04,
+  "sid": 112,
+  "location": 2,
+  "content": "你就大概知道你可以面向哪",
+  "music": 0.0
+ },
+ {
+  "from": 184.04,
+  "to": 186.68,
+  "sid": 113,
+  "location": 2,
+  "content": "你就可以打出一个相对优势的对枪",
+  "music": 0.0
+ },
+ {
+  "from": 186.68,
+  "to": 188.08,
+  "sid": 114,
+  "location": 2,
+  "content": "OK在我们待世近点的时候来",
+  "music": 0.0
+ },
+ {
+  "from": 188.08,
+  "to": 190.12,
+  "sid": 115,
+  "location": 2,
+  "content": "你要自己判断是不是要不要续烟",
+  "music": 0.0
+ },
+ {
+  "from": 190.12,
+  "to": 192.8,
+  "sid": 116,
+  "location": 2,
+  "content": "比如说你如果发现对手已经跟你的队友",
+  "music": 0.0
+ },
+ {
+  "from": 192.8,
+  "to": 193.28,
+  "sid": 117,
+  "location": 2,
+  "content": "干起来了",
+  "music": 0.0
+ },
+ {
+  "from": 193.28,
+  "to": 194.52,
+  "sid": 118,
+  "location": 2,
+  "content": "你就可以直接从烟里拉出来",
+  "music": 0.0
+ },
+ {
+  "from": 194.52,
+  "to": 196.04,
+  "sid": 119,
+  "location": 2,
+  "content": "但如果你发现对手还在集火",
+  "music": 0.0
+ },
+ {
+  "from": 196.04,
+  "to": 198.2,
+  "sid": 120,
+  "location": 2,
+  "content": "你或者说队友根本就没有创造出足够的压力",
+  "music": 0.0
+ },
+ {
+  "from": 198.2,
+  "to": 200.23,
+  "sid": 121,
+  "location": 2,
+  "content": "那你就可以选择再续一颗烟",
+  "music": 0.0
+ },
+ {
+  "from": 200.23,
+  "to": 201.99,
+  "sid": 122,
+  "location": 2,
+  "content": "所以这个就是你需要掌握的",
+  "music": 0.0
+ },
+ {
+  "from": 201.99,
+  "to": 203.45,
+  "sid": 123,
+  "location": 2,
+  "content": "这种对形势的判断啊",
+  "music": 0.0
+ },
+ {
+  "from": 203.45,
+  "to": 204.73,
+  "sid": 124,
+  "location": 2,
+  "content": "OK那这里可能会有朋友问",
+  "music": 0.0
+ },
+ {
+  "from": 204.73,
+  "to": 206.39,
+  "sid": 125,
+  "location": 2,
+  "content": "如果我按照你的这个流程来了",
+  "music": 0.0
+ },
+ {
+  "from": 206.39,
+  "to": 207.07,
+  "sid": 126,
+  "location": 2,
+  "content": "然后我禁言了",
+  "music": 0.0
+ },
+ {
+  "from": 207.07,
+  "to": 208.5,
+  "sid": 127,
+  "location": 2,
+  "content": "我还是被混死了怎么办",
+  "music": 0.0
+ },
+ {
+  "from": 208.5,
+  "to": 210.58,
+  "sid": 128,
+  "location": 2,
+  "content": "首先啊你被混死了是很正常的事情",
+  "music": 0.0
+ },
+ {
+  "from": 210.58,
+  "to": 212.06,
+  "sid": 129,
+  "location": 2,
+  "content": "因为你不是没有混死过别人",
+  "music": 0.0
+ },
+ {
+  "from": 212.06,
+  "to": 213.42,
+  "sid": 130,
+  "location": 2,
+  "content": "所以你被混死你就认了就好了",
+  "music": 0.0
+ },
+ {
+  "from": 213.42,
+  "to": 215.34,
+  "sid": 131,
+  "location": 2,
+  "content": "没有什么哭哭啼啼的必要",
+  "music": 0.0
+ },
+ {
+  "from": 215.34,
+  "to": 216.3,
+  "sid": 132,
+  "location": 2,
+  "content": "第二点就是",
+  "music": 0.0
+ },
+ {
+  "from": 216.3,
+  "to": 219.74,
+  "sid": 133,
+  "location": 2,
+  "content": "你要想减少你被混死或者被针对的可能",
+  "music": 0.0
+ },
+ {
+  "from": 219.74,
+  "to": 221.88,
+  "sid": 134,
+  "location": 2,
+  "content": "那么你就要多有几个带血的连招",
+  "music": 0.0
+ },
+ {
+  "from": 221.88,
+  "to": 223.36,
+  "sid": 135,
+  "location": 2,
+  "content": "比如说刚才我讲这些的时候",
+  "music": 0.0
+ },
+ {
+  "from": 223.36,
+  "to": 224.84,
+  "sid": 136,
+  "location": 2,
+  "content": "我一直在朝这个地方带血",
+  "music": 0.0
+ },
+ {
+  "from": 224.84,
+  "to": 226.32,
+  "sid": 137,
+  "location": 2,
+  "content": "那我没有必要一直这么带血",
+  "music": 0.0
+ },
+ {
+  "from": 226.32,
+  "to": 227.12,
+  "sid": 138,
+  "location": 2,
+  "content": "对我上一次这么带",
+  "music": 0.0
+ },
+ {
+  "from": 227.12,
+  "to": 227.6,
+  "sid": 139,
+  "location": 2,
+  "content": "洗完了以后",
+  "music": 0.0
+ },
+ {
+  "from": 227.6,
+  "to": 230.5,
+  "sid": 140,
+  "location": 2,
+  "content": "我下次可以这么带血对吧",
+  "music": 0.0
+ },
+ {
+  "from": 230.5,
+  "to": 233.14,
+  "sid": 141,
+  "location": 2,
+  "content": "然后我还可以选择飞电箱",
+  "music": 0.0
+ },
+ {
+  "from": 233.46,
+  "to": 234.34,
+  "sid": 142,
+  "location": 2,
+  "content": "飞电枪的时候",
+  "music": 0.0
+ },
+ {
+  "from": 234.34,
+  "to": 235.46,
+  "sid": 143,
+  "location": 2,
+  "content": "大家要注意要收一下脚",
+  "music": 0.0
+ },
+ {
+  "from": 235.46,
+  "to": 236.3,
+  "sid": 144,
+  "location": 2,
+  "content": "就是你飞上去的时候",
+  "music": 0.0
+ },
+ {
+  "from": 236.3,
+  "to": 237.42,
+  "sid": 145,
+  "location": 2,
+  "content": "你要蹲一下",
+  "music": 0.0
+ },
+ {
+  "from": 237.42,
+  "to": 239.2,
+  "sid": 146,
+  "location": 2,
+  "content": "不然你可能会磕到这个膝盖",
+  "music": 0.0
+ },
+ {
+  "from": 239.2,
+  "to": 240.7,
+  "sid": 147,
+  "location": 2,
+  "content": "还有一个稍微进阶一点的技巧啊",
+  "music": 0.0
+ },
+ {
+  "from": 240.7,
+  "to": 241.78,
+  "sid": 148,
+  "location": 2,
+  "content": "之前PLX的something",
+  "music": 0.0
+ },
+ {
+  "from": 241.78,
+  "to": 243.38,
+  "sid": 149,
+  "location": 2,
+  "content": "他们打这张图的进攻的时候",
+  "music": 0.0
+ },
+ {
+  "from": 243.38,
+  "to": 245.48,
+  "sid": 150,
+  "location": 2,
+  "content": "他先给了一个这方的烟",
+  "music": 0.0
+ },
+ {
+  "from": 245.48,
+  "to": 247.96,
+  "sid": 151,
+  "location": 2,
+  "content": "然后再给个地方岩浆带起近点",
+  "music": 0.0
+ },
+ {
+  "from": 247.96,
+  "to": 249.64,
+  "sid": 152,
+  "location": 2,
+  "content": "那为什么要给这个烟呢",
+  "music": 0.0
+ },
+ {
+  "from": 249.64,
+  "to": 251.4,
+  "sid": 153,
+  "location": 2,
+  "content": "因为大家都知道这个守二楼的人",
+  "music": 0.0
+ },
+ {
+  "from": 251.4,
+  "to": 252.44,
+  "sid": 154,
+  "location": 2,
+  "content": "他一看到这个烟",
+  "music": 0.0
+ },
+ {
+  "from": 252.44,
+  "to": 254.8,
+  "sid": 155,
+  "location": 2,
+  "content": "就感觉这个箭头要EQ上来喷他了",
+  "music": 0.0
+ },
+ {
+  "from": 254.8,
+  "to": 255.78,
+  "sid": 156,
+  "location": 2,
+  "content": "所以他就往后退",
+  "music": 0.0
+ },
+ {
+  "from": 255.78,
+  "to": 258.53,
+  "sid": 157,
+  "location": 2,
+  "content": "这个时候something再从这个地方进来的时候",
+  "music": 0.0
+ },
+ {
+  "from": 258.53,
+  "to": 260.45,
+  "sid": 158,
+  "location": 2,
+  "content": "他就可以直接跟包点的人激情solo了",
+  "music": 0.0
+ },
+ {
+  "from": 260.45,
+  "to": 261.73,
+  "sid": 159,
+  "location": 2,
+  "content": "那这种骗这种博弈",
+  "music": 0.0
+ },
+ {
+  "from": 261.73,
+  "to": 264.59,
+  "sid": 160,
+  "location": 2,
+  "content": "大家也可以发挥自己的创造力去打一下试试看",
+  "music": 0.0
+ },
+ {
+  "from": 264.59,
+  "to": 265.79,
+  "sid": 161,
+  "location": 2,
+  "content": "那这里讲完了进攻的思路",
+  "music": 0.0
+ },
+ {
+  "from": 265.79,
+  "to": 267.93,
+  "sid": 162,
+  "location": 2,
+  "content": "我们再列举出一些每个技能的使用细节吧",
+  "music": 0.0
+ },
+ {
+  "from": 267.93,
+  "to": 270.14,
+  "sid": 163,
+  "location": 2,
+  "content": "第一就是解封的Q技能的高度",
+  "music": 0.0
+ },
+ {
+  "from": 270.14,
+  "to": 271.98,
+  "sid": 164,
+  "location": 2,
+  "content": "和一些地图的高点设计是有关系的",
+  "music": 0.0
+ },
+ {
+  "from": 271.98,
+  "to": 274.7,
+  "sid": 165,
+  "location": 2,
+  "content": "所以可以通过蹲Q或者跳Q找到匹配掩体高度",
+  "music": 0.0
+ },
+ {
+  "from": 274.7,
+  "to": 276.26,
+  "sid": 166,
+  "location": 2,
+  "content": "瞬间踩稳开枪的打法",
+  "music": 0.0
+ },
+ {
+  "from": 276.26,
+  "to": 277.66,
+  "sid": 167,
+  "location": 2,
+  "content": "其次就是疾风的一技能",
+  "music": 0.0
+ },
+ {
+  "from": 277.66,
+  "to": 279.44,
+  "sid": 168,
+  "location": 2,
+  "content": "可以通过跳E来延长逐风距离",
+  "music": 0.0
+ },
+ {
+  "from": 279.44,
+  "to": 281.1,
+  "sid": 169,
+  "location": 2,
+  "content": "而E和Q这两个技能的使用",
+  "music": 0.0
+ },
+ {
+  "from": 281.1,
+  "to": 282.7,
+  "sid": 170,
+  "location": 2,
+  "content": "先后可以创造不同的近点弧线",
+  "music": 0.0
+ },
+ {
+  "from": 282.7,
+  "to": 284.32,
+  "sid": 171,
+  "location": 2,
+  "content": "可以反制规避对手的道具",
+  "music": 0.0
+ },
+ {
+  "from": 284.32,
+  "to": 286.94,
+  "sid": 172,
+  "location": 2,
+  "content": "第四点就是在截风近点给烟球的时候",
+  "music": 0.0
+ },
+ {
+  "from": 286.94,
+  "to": 288.58,
+  "sid": 173,
+  "location": 2,
+  "content": "优先推荐把球砸在墙上",
+  "music": 0.0
+ },
+ {
+  "from": 288.58,
+  "to": 289.36,
+  "sid": 174,
+  "location": 2,
+  "content": "而不是地上",
+  "music": 0.0
+ },
+ {
+  "from": 289.36,
+  "to": 291.72,
+  "sid": 175,
+  "location": 2,
+  "content": "这样可以更好控制烟球炸开的位置",
+  "music": 0.0
+ },
+ {
+  "from": 291.72,
+  "to": 293.04,
+  "sid": 176,
+  "location": 2,
+  "content": "减少失误的可能",
+  "music": 0.0
+ },
+ {
+  "from": 293.04,
+  "to": 294.48,
+  "sid": 177,
+  "location": 2,
+  "content": "第五点就是疾风的大招",
+  "music": 0.0
+ },
+ {
+  "from": 294.48,
+  "to": 297.34,
+  "sid": 178,
+  "location": 2,
+  "content": "飞镖的使用诀窍在于准星和目标重合时的确认",
+  "music": 0.0
+ },
+ {
+  "from": 297.34,
+  "to": 299.85,
+  "sid": 179,
+  "location": 2,
+  "content": "大家可以常驻这个靶场练习来找感觉",
+  "music": 0.0
+ },
+ {
+  "from": 299.85,
+  "to": 300.81,
+  "sid": 180,
+  "location": 2,
+  "content": "OK那在最后呢",
+  "music": 0.0
+ },
+ {
+  "from": 300.81,
+  "to": 303.41,
+  "sid": 181,
+  "location": 2,
+  "content": "我们再补充一下截风作为决斗者的激进手段",
+  "music": 0.0
+ },
+ {
+  "from": 303.41,
+  "to": 306.39,
+  "sid": 182,
+  "location": 2,
+  "content": "第一就是截风与短喷的适配性是非常高的",
+  "music": 0.0
+ },
+ {
+  "from": 306.39,
+  "to": 308.11,
+  "sid": 183,
+  "location": 2,
+  "content": "因为作为第一接触的枪位防守时",
+  "music": 0.0
+ },
+ {
+  "from": 308.11,
+  "to": 310.46,
+  "sid": 184,
+  "location": 2,
+  "content": "我们经常会遇到对手针对性的道具覆盖和提速",
+  "music": 0.0
+ },
+ {
+  "from": 310.46,
+  "to": 312.1,
+  "sid": 185,
+  "location": 2,
+  "content": "所以在被控制或者被压制的时候",
+  "music": 0.0
+ },
+ {
+  "from": 312.1,
+  "to": 313.14,
+  "sid": 186,
+  "location": 2,
+  "content": "这两颗烟球切短喷",
+  "music": 0.0
+ },
+ {
+  "from": 313.14,
+  "to": 315.78,
+  "sid": 187,
+  "location": 2,
+  "content": "可以强行把劣势对枪扭转成拼刺刀的状态",
+  "music": 0.0
+ },
+ {
+  "from": 315.78,
+  "to": 317.74,
+  "sid": 188,
+  "location": 2,
+  "content": "可以死前拉对手一两个人下水",
+  "music": 0.0
+ },
+ {
+  "from": 317.74,
+  "to": 319.159,
+  "sid": 189,
+  "location": 2,
+  "content": "甚至创造游龙的可能",
+  "music": 0.0
+ },
+ {
+  "from": 319.159,
+  "to": 320.199,
+  "sid": 190,
+  "location": 2,
+  "content": "让我们提到游龙了",
+  "music": 0.0
+ },
+ {
+  "from": 320.199,
+  "to": 322.179,
+  "sid": 191,
+  "location": 2,
+  "content": "就不得不提到对E技能的反直觉利用",
+  "music": 0.0
+ },
+ {
+  "from": 322.179,
+  "to": 322.879,
+  "sid": 192,
+  "location": 2,
+  "content": "大家都知道",
+  "music": 0.0
+ },
+ {
+  "from": 322.879,
+  "to": 324.039,
+  "sid": 193,
+  "location": 2,
+  "content": "杰风这个英雄的逐风",
+  "music": 0.0
+ },
+ {
+  "from": 324.039,
+  "to": 325.639,
+  "sid": 194,
+  "location": 2,
+  "content": "在结束后会有一个抬枪的僵直",
+  "music": 0.0
+ },
+ {
+  "from": 325.639,
+  "to": 327.6,
+  "sid": 195,
+  "location": 2,
+  "content": "但是大家看高水平的疾风玩家玩的时候",
+  "music": 0.0
+ },
+ {
+  "from": 327.6,
+  "to": 329.72,
+  "sid": 196,
+  "location": 2,
+  "content": "经常会有朝别人脸上带血的情况",
+  "music": 0.0
+ },
+ {
+  "from": 329.72,
+  "to": 331.42,
+  "sid": 197,
+  "location": 2,
+  "content": "有时甚至会利用Q技能一起",
+  "music": 0.0
+ },
+ {
+  "from": 331.42,
+  "to": 332.76,
+  "sid": 198,
+  "location": 2,
+  "content": "有些新手朋友可能会说",
+  "music": 0.0
+ },
+ {
+  "from": 332.76,
+  "to": 333.88,
+  "sid": 199,
+  "location": 2,
+  "content": "这个动作从逻辑上来看",
+  "music": 0.0
+ },
+ {
+  "from": 333.88,
+  "to": 335.08,
+  "sid": 200,
+  "location": 2,
+  "content": "就是把自己送到别人面前",
+  "music": 0.0
+ },
+ {
+  "from": 335.08,
+  "to": 336.14,
+  "sid": 201,
+  "location": 2,
+  "content": "并且硬控自己啊",
+  "music": 0.0
+ },
+ {
+  "from": 336.14,
+  "to": 338.86,
+  "sid": 202,
+  "location": 2,
+  "content": "但其实我们在讲反直觉意图以及注意力分配的",
+  "music": 0.0
+ },
+ {
+  "from": 338.86,
+  "to": 340.08,
+  "sid": 203,
+  "location": 2,
+  "content": "杂谈教学里面都提到过",
+  "music": 0.0
+ },
+ {
+  "from": 340.08,
+  "to": 341.18,
+  "sid": 204,
+  "location": 2,
+  "content": "当你通过反常举动",
+  "music": 0.0
+ },
+ {
+  "from": 341.18,
+  "to": 342.7,
+  "sid": 205,
+  "location": 2,
+  "content": "抓到对手注意力松懈的气口时",
+  "music": 0.0
+ },
+ {
+  "from": 342.7,
+  "to": 345.36,
+  "sid": 206,
+  "location": 2,
+  "content": "对手晃神的窗口甚至会大于你抬枪的窗口",
+  "music": 0.0
+ },
+ {
+  "from": 345.36,
+  "to": 347.44,
+  "sid": 207,
+  "location": 2,
+  "content": "或者说当你获得了击杀刷新一技能后",
+  "music": 0.0
+ },
+ {
+  "from": 347.44,
+  "to": 349.46,
+  "sid": 208,
+  "location": 2,
+  "content": "第一时间朝对手的防守进行深处带时",
+  "music": 0.0
+ },
+ {
+  "from": 349.46,
+  "to": 351.54,
+  "sid": 209,
+  "location": 2,
+  "content": "也常常能够抓到还在掏刀支援的对手",
+  "music": 0.0
+ },
+ {
+  "from": 351.54,
+  "to": 352.66,
+  "sid": 210,
+  "location": 2,
+  "content": "哪怕他还端着枪",
+  "music": 0.0
+ },
+ {
+  "from": 352.66,
+  "to": 353.919,
+  "sid": 211,
+  "location": 2,
+  "content": "他也未必反应的过来",
+  "music": 0.0
+ },
+ {
+  "from": 353.919,
+  "to": 355.599,
+  "sid": 212,
+  "location": 2,
+  "content": "第三点就是关于免费枪的利用",
+  "music": 0.0
+ },
+ {
+  "from": 355.599,
+  "to": 358.4,
+  "sid": 213,
+  "location": 2,
+  "content": "不同于钱包随时可以使用的TP解封的代写",
+  "music": 0.0
+ },
+ {
+  "from": 358.4,
+  "to": 359.32,
+  "sid": 214,
+  "location": 2,
+  "content": "需要提前启动",
+  "music": 0.0
+ },
+ {
+  "from": 359.32,
+  "to": 360.26,
+  "sid": 215,
+  "location": 2,
+  "content": "并且有一个倒计时",
+  "music": 0.0
+ },
+ {
+  "from": 360.26,
+  "to": 360.88,
+  "sid": 216,
+  "location": 2,
+  "content": "所以这意味着",
+  "music": 0.0
+ },
+ {
+  "from": 360.88,
+  "to": 363.909,
+  "sid": 217,
+  "location": 2,
+  "content": "你需要对即将到来的对象有提前的阅读和预判",
+  "music": 0.0
+ },
+ {
+  "from": 363.909,
+  "to": 364.549,
+  "sid": 218,
+  "location": 2,
+  "content": "不仅如此",
+  "music": 0.0
+ },
+ {
+  "from": 364.549,
+  "to": 365.469,
+  "sid": 219,
+  "location": 2,
+  "content": "在没有在洗的时候",
+  "music": 0.0
+ },
+ {
+  "from": 365.469,
+  "to": 367.109,
+  "sid": 220,
+  "location": 2,
+  "content": "其实也可以通过临阵起手的烟雾啊",
+  "music": 0.0
+ },
+ {
+  "from": 367.109,
+  "to": 369.74,
+  "sid": 221,
+  "location": 2,
+  "content": "以及Q技能来作为自己控枪以后逃跑的手段",
+  "music": 0.0
+ },
+ {
+  "from": 369.74,
+  "to": 370.58,
+  "sid": 222,
+  "location": 2,
+  "content": "总的来说呢",
+  "music": 0.0
+ },
+ {
+  "from": 370.58,
+  "to": 371.18,
+  "sid": 223,
+  "location": 2,
+  "content": "攻守兼备",
+  "music": 0.0
+ },
+ {
+  "from": 371.18,
+  "to": 372.66,
+  "sid": 224,
+  "location": 2,
+  "content": "以适应不同对局情况的技能组",
+  "music": 0.0
+ },
+ {
+  "from": 372.66,
+  "to": 374.42,
+  "sid": 225,
+  "location": 2,
+  "content": "使得杰风这个英雄的登场率",
+  "music": 0.0
+ },
+ {
+  "from": 374.42,
+  "to": 376.669,
+  "sid": 226,
+  "location": 2,
+  "content": "不论是在赛场还是天梯中都是常年登顶的",
+  "music": 0.0
+ },
+ {
+  "from": 376.669,
+  "to": 377.889,
+  "sid": 227,
+  "location": 2,
+  "content": "而这样的机制强",
+  "music": 0.0
+ },
+ {
+  "from": 377.889,
+  "to": 378.709,
+  "sid": 228,
+  "location": 2,
+  "content": "数值差的特工",
+  "music": 0.0
+ },
+ {
+  "from": 378.709,
+  "to": 381.13,
+  "sid": 229,
+  "location": 2,
+  "content": "就更需要在技能使用上做到优雅而精准",
+  "music": 0.0
+ },
+ {
+  "from": 381.13,
+  "to": 383.25,
+  "sid": 230,
+  "location": 2,
+  "content": "所以希望大家看完这个视频以后能够有所收获",
+  "music": 0.0
+ },
+ {
+  "from": 383.25,
+  "to": 385.15,
+  "sid": 231,
+  "location": 2,
+  "content": "让自己的解封的打法变得更加的油腻",
+  "music": 0.0
+ },
+ {
+  "from": 385.15,
+  "to": 386.36,
+  "sid": 232,
+  "location": 2,
+  "content": "感谢你们看到这里",
+  "music": 0.0
+ }
+]

@@ -1,0 +1,2066 @@
+[
+ {
+  "from": 0.24,
+  "to": 1.02,
+  "sid": 1,
+  "location": 2,
+  "content": "各位朋友大家好",
+  "music": 0.0
+ },
+ {
+  "from": 1.02,
+  "to": 1.92,
+  "sid": 2,
+  "location": 2,
+  "content": "我是东彦亲家",
+  "music": 0.0
+ },
+ {
+  "from": 1.92,
+  "to": 3.08,
+  "sid": 3,
+  "location": 2,
+  "content": "带来全英雄教学",
+  "music": 0.0
+ },
+ {
+  "from": 3.08,
+  "to": 4.85,
+  "sid": 4,
+  "location": 2,
+  "content": "那些使用我们的主角呢是捷风",
+  "music": 0.0
+ },
+ {
+  "from": 4.85,
+  "to": 6.42,
+  "sid": 5,
+  "location": 2,
+  "content": "很多玩家也想叫他风女",
+  "music": 0.0
+ },
+ {
+  "from": 6.42,
+  "to": 8.1,
+  "sid": 6,
+  "location": 2,
+  "content": "那捷风按照职责划分",
+  "music": 0.0
+ },
+ {
+  "from": 8.1,
+  "to": 11.01,
+  "sid": 7,
+  "location": 2,
+  "content": "应当属于我们之前在群英雄盖伦中讲到一突",
+  "music": 0.0
+ },
+ {
+  "from": 11.01,
+  "to": 12.84,
+  "sid": 8,
+  "location": 2,
+  "content": "也就是和雷兹霓虹一样",
+  "music": 0.0
+ },
+ {
+  "from": 12.84,
+  "to": 14.87,
+  "sid": 9,
+  "location": 2,
+  "content": "是利用强薇技能进行突破的职责",
+  "music": 0.0
+ },
+ {
+  "from": 14.87,
+  "to": 16.61,
+  "sid": 10,
+  "location": 2,
+  "content": "通俗来讲就是第一个冲进去",
+  "music": 0.0
+ },
+ {
+  "from": 16.61,
+  "to": 19.18,
+  "sid": 11,
+  "location": 2,
+  "content": "用自己的位移技能给团队拉开空间的角色",
+  "music": 0.0
+ },
+ {
+  "from": 19.18,
+  "to": 22.0,
+  "sid": 12,
+  "location": 2,
+  "content": "那捷风呢是瓦伦特中非常具有代表性的",
+  "music": 0.0
+ },
+ {
+  "from": 22.0,
+  "to": 23.08,
+  "sid": 13,
+  "location": 2,
+  "content": "一号突破英雄",
+  "music": 0.0
+ },
+ {
+  "from": 23.08,
+  "to": 24.76,
+  "sid": 14,
+  "location": 2,
+  "content": "从20年游戏初期至今",
+  "music": 0.0
+ },
+ {
+  "from": 24.76,
+  "to": 26.74,
+  "sid": 15,
+  "location": 2,
+  "content": "一直可以说是稳定T级的强度",
+  "music": 0.0
+ },
+ {
+  "from": 26.74,
+  "to": 28.75,
+  "sid": 16,
+  "location": 2,
+  "content": "在职业比赛选取率也非常高",
+  "music": 0.0
+ },
+ {
+  "from": 28.75,
+  "to": 31.12,
+  "sid": 17,
+  "location": 2,
+  "content": "首先我们先讲捷风的大致使用思路",
+  "music": 0.0
+ },
+ {
+  "from": 31.12,
+  "to": 32.26,
+  "sid": 18,
+  "location": 2,
+  "content": "在进攻场景下",
+  "music": 0.0
+ },
+ {
+  "from": 32.26,
+  "to": 33.4,
+  "sid": 19,
+  "location": 2,
+  "content": "捷风的强力之处在于",
+  "music": 0.0
+ },
+ {
+  "from": 33.4,
+  "to": 35.68,
+  "sid": 20,
+  "location": 2,
+  "content": "他的强尾技能和烟雾弹类型的自爆技能",
+  "music": 0.0
+ },
+ {
+  "from": 35.68,
+  "to": 36.82,
+  "sid": 21,
+  "location": 2,
+  "content": "形成了自循环",
+  "music": 0.0
+ },
+ {
+  "from": 36.82,
+  "to": 37.6,
+  "sid": 22,
+  "location": 2,
+  "content": "自己封个烟",
+  "music": 0.0
+ },
+ {
+  "from": 37.6,
+  "to": 39.52,
+  "sid": 23,
+  "location": 2,
+  "content": "然后顺道烟里既可以保持存活",
+  "music": 0.0
+ },
+ {
+  "from": 39.52,
+  "to": 41.66,
+  "sid": 24,
+  "location": 2,
+  "content": "还可以为团队冲撞出新的进攻角度",
+  "music": 0.0
+ },
+ {
+  "from": 41.66,
+  "to": 43.37,
+  "sid": 25,
+  "location": 2,
+  "content": "瞬间撕开点个防线",
+  "music": 0.0
+ },
+ {
+  "from": 43.37,
+  "to": 44.3,
+  "sid": 26,
+  "location": 2,
+  "content": "在中低分段",
+  "music": 0.0
+ },
+ {
+  "from": 44.3,
+  "to": 46.4,
+  "sid": 27,
+  "location": 2,
+  "content": "捷风甚至可以一个人就能完成突破",
+  "music": 0.0
+ },
+ {
+  "from": 46.4,
+  "to": 47.3,
+  "sid": 28,
+  "location": 2,
+  "content": "而在防守方",
+  "music": 0.0
+ },
+ {
+  "from": 47.3,
+  "to": 48.38,
+  "sid": 29,
+  "location": 2,
+  "content": "捷风也只能逐风",
+  "music": 0.0
+ },
+ {
+  "from": 48.38,
+  "to": 50.99,
+  "sid": 30,
+  "location": 2,
+  "content": "使得他拥有了毋庸置疑的最强首杀能力",
+  "music": 0.0
+ },
+ {
+  "from": 50.99,
+  "to": 53.18,
+  "sid": 31,
+  "location": 2,
+  "content": "他可以站在防守阵线的最前端",
+  "music": 0.0
+ },
+ {
+  "from": 53.18,
+  "to": 54.24,
+  "sid": 32,
+  "location": 2,
+  "content": "杀一个立马顺走",
+  "music": 0.0
+ },
+ {
+  "from": 54.24,
+  "to": 55.32,
+  "sid": 33,
+  "location": 2,
+  "content": "体验人数再多",
+  "music": 0.0
+ },
+ {
+  "from": 55.32,
+  "to": 56.4,
+  "sid": 34,
+  "location": 2,
+  "content": "很多时候也补不到枪",
+  "music": 0.0
+ },
+ {
+  "from": 56.4,
+  "to": 58.41,
+  "sid": 35,
+  "location": 2,
+  "content": "零换多毒是完全可以实现的",
+  "music": 0.0
+ },
+ {
+  "from": 58.41,
+  "to": 60.0,
+  "sid": 36,
+  "location": 2,
+  "content": "可以说捷风就是无畏契约",
+  "music": 0.0
+ },
+ {
+  "from": 60.0,
+  "to": 61.6,
+  "sid": 37,
+  "location": 2,
+  "content": "个人英雄主义的极致表现",
+  "music": 0.0
+ },
+ {
+  "from": 61.6,
+  "to": 64.81,
+  "sid": 38,
+  "location": 2,
+  "content": "接下来我们讲捷风的基础技能与进阶使用技巧",
+  "music": 0.0
+ },
+ {
+  "from": 64.81,
+  "to": 67.12,
+  "sid": 39,
+  "location": 2,
+  "content": "捷风C技能瞬移呢是一颗持续存在sir",
+  "music": 0.0
+ },
+ {
+  "from": 67.12,
+  "to": 67.96,
+  "sid": 40,
+  "location": 2,
+  "content": "我们的烟雾弹",
+  "music": 0.0
+ },
+ {
+  "from": 67.96,
+  "to": 69.94,
+  "sid": 41,
+  "location": 2,
+  "content": "长按C技能同时移动鼠标",
+  "music": 0.0
+ },
+ {
+  "from": 69.94,
+  "to": 71.26,
+  "sid": 42,
+  "location": 2,
+  "content": "可以控制烟弹的落点",
+  "music": 0.0
+ },
+ {
+  "from": 71.26,
+  "to": 72.58,
+  "sid": 43,
+  "location": 2,
+  "content": "触碰任何障碍物后",
+  "music": 0.0
+ },
+ {
+  "from": 72.58,
+  "to": 74.669,
+  "sid": 44,
+  "location": 2,
+  "content": "顺云会扩散成球形的烟雾",
+  "music": 0.0
+ },
+ {
+  "from": 74.669,
+  "to": 76.349,
+  "sid": 45,
+  "location": 2,
+  "content": "那顺丰的价格是200元",
+  "music": 0.0
+ },
+ {
+  "from": 76.349,
+  "to": 78.58,
+  "sid": 46,
+  "location": 2,
+  "content": "最多可以购买两个捷风的C技能",
+  "music": 0.0
+ },
+ {
+  "from": 78.58,
+  "to": 78.94,
+  "sid": 47,
+  "location": 2,
+  "content": "烟雾弹",
+  "music": 0.0
+ },
+ {
+  "from": 78.94,
+  "to": 81.52,
+  "sid": 48,
+  "location": 2,
+  "content": "最简单的使用方式就是随手封颗烟架枪了",
+  "music": 0.0
+ },
+ {
+  "from": 81.52,
+  "to": 82.96,
+  "sid": 49,
+  "location": 2,
+  "content": "那另外捷风的烟雾弹",
+  "music": 0.0
+ },
+ {
+  "from": 82.96,
+  "to": 84.62,
+  "sid": 50,
+  "location": 2,
+  "content": "是非常容易创造出单向烟的",
+  "music": 0.0
+ },
+ {
+  "from": 84.62,
+  "to": 86.06,
+  "sid": 51,
+  "location": 2,
+  "content": "比如说一诺经济的进攻方",
+  "music": 0.0
+ },
+ {
+  "from": 86.06,
+  "to": 87.38,
+  "sid": 52,
+  "location": 2,
+  "content": "在双射门位置开局",
+  "music": 0.0
+ },
+ {
+  "from": 87.38,
+  "to": 89.27,
+  "sid": 53,
+  "location": 2,
+  "content": "如果你想防止敌人前进偷人",
+  "music": 0.0
+ },
+ {
+  "from": 89.27,
+  "to": 90.94,
+  "sid": 54,
+  "location": 2,
+  "content": "直接我们上塞颗单向烟",
+  "music": 0.0
+ },
+ {
+  "from": 90.94,
+  "to": 91.96,
+  "sid": 55,
+  "location": 2,
+  "content": "别人就想浅点",
+  "music": 0.0
+ },
+ {
+  "from": 91.96,
+  "to": 93.64,
+  "sid": 56,
+  "location": 2,
+  "content": "一般看到这颗烟也不干了",
+  "music": 0.0
+ },
+ {
+  "from": 93.64,
+  "to": 95.54,
+  "sid": 57,
+  "location": 2,
+  "content": "那更接近一点捷风的烟控制好",
+  "music": 0.0
+ },
+ {
+  "from": 95.54,
+  "to": 96.26,
+  "sid": 58,
+  "location": 2,
+  "content": "而配合地形",
+  "music": 0.0
+ },
+ {
+  "from": 96.26,
+  "to": 97.88,
+  "sid": 59,
+  "location": 2,
+  "content": "还能做出一些奇怪的头皮位",
+  "music": 0.0
+ },
+ {
+  "from": 97.88,
+  "to": 99.2,
+  "sid": 60,
+  "location": 2,
+  "content": "从而获得对枪优势",
+  "music": 0.0
+ },
+ {
+  "from": 99.2,
+  "to": 101.3,
+  "sid": 61,
+  "location": 2,
+  "content": "比如说在源工重镇的臂长位置",
+  "music": 0.0
+ },
+ {
+  "from": 101.3,
+  "to": 104.0,
+  "sid": 62,
+  "location": 2,
+  "content": "防守方狙击手经常会在这里起去偷首杀",
+  "music": 0.0
+ },
+ {
+  "from": 104.0,
+  "to": 105.32,
+  "sid": 63,
+  "location": 2,
+  "content": "如果你要单走必长",
+  "music": 0.0
+ },
+ {
+  "from": 105.32,
+  "to": 106.46,
+  "sid": 64,
+  "location": 2,
+  "content": "开局往这里塞颗烟",
+  "music": 0.0
+ },
+ {
+  "from": 106.46,
+  "to": 107.74,
+  "sid": 65,
+  "location": 2,
+  "content": "就可以创造出一个头皮位",
+  "music": 0.0
+ },
+ {
+  "from": 107.74,
+  "to": 110.71,
+  "sid": 66,
+  "location": 2,
+  "content": "最大程度的减少步枪和狙击枪之间对枪劣势",
+  "music": 0.0
+ },
+ {
+  "from": 110.71,
+  "to": 112.48,
+  "sid": 67,
+  "location": 2,
+  "content": "首次大狙是不在话下的",
+  "music": 0.0
+ },
+ {
+  "from": 112.48,
+  "to": 115.14,
+  "sid": 68,
+  "location": 2,
+  "content": "同理在亚哈悬城进攻方占领了A包点之后",
+  "music": 0.0
+ },
+ {
+  "from": 115.14,
+  "to": 117.09,
+  "sid": 69,
+  "location": 2,
+  "content": "如果直接跳上二楼将是白给",
+  "music": 0.0
+ },
+ {
+  "from": 117.09,
+  "to": 119.04,
+  "sid": 70,
+  "location": 2,
+  "content": "但如果我们在二楼下这样封一颗烟",
+  "music": 0.0
+ },
+ {
+  "from": 119.04,
+  "to": 120.3,
+  "sid": 71,
+  "location": 2,
+  "content": "跳上二楼台阶站起来",
+  "music": 0.0
+ },
+ {
+  "from": 120.3,
+  "to": 122.46,
+  "sid": 72,
+  "location": 2,
+  "content": "那就是给我们创造了一个单向头皮位",
+  "music": 0.0
+ },
+ {
+  "from": 122.46,
+  "to": 124.02,
+  "sid": 73,
+  "location": 2,
+  "content": "另外捷风的烟雾弹",
+  "music": 0.0
+ },
+ {
+  "from": 124.02,
+  "to": 127.58,
+  "sid": 74,
+  "location": 2,
+  "content": "还可以盖住闪光以及探测键等技能",
+  "music": 0.0
+ },
+ {
+  "from": 127.62,
+  "to": 128.54,
+  "sid": 75,
+  "location": 2,
+  "content": "捷风的E技能",
+  "music": 0.0
+ },
+ {
+  "from": 128.54,
+  "to": 130.01,
+  "sid": 76,
+  "location": 2,
+  "content": "逐风是他最核心的技能",
+  "music": 0.0
+ },
+ {
+  "from": 130.01,
+  "to": 132.78,
+  "sid": 77,
+  "location": 2,
+  "content": "按第一次E在经过半秒钟的短暂前摇之后",
+  "music": 0.0
+ },
+ {
+  "from": 132.78,
+  "to": 134.52,
+  "sid": 78,
+  "location": 2,
+  "content": "会激活顺风准备阶段",
+  "music": 0.0
+ },
+ {
+  "from": 134.52,
+  "to": 136.2,
+  "sid": 79,
+  "location": 2,
+  "content": "准备阶段将持续12秒",
+  "music": 0.0
+ },
+ {
+  "from": 136.2,
+  "to": 137.16,
+  "sid": 80,
+  "location": 2,
+  "content": "进入准备阶段后",
+  "music": 0.0
+ },
+ {
+  "from": 137.16,
+  "to": 139.54,
+  "sid": 81,
+  "location": 2,
+  "content": "再按一次E将进行一次瞬间的位移",
+  "music": 0.0
+ },
+ {
+  "from": 139.54,
+  "to": 140.8,
+  "sid": 82,
+  "location": 2,
+  "content": "若使用逐风的过程中",
+  "music": 0.0
+ },
+ {
+  "from": 140.8,
+  "to": 141.88,
+  "sid": 83,
+  "location": 2,
+  "content": "未按下任何方向键",
+  "music": 0.0
+ },
+ {
+  "from": 141.88,
+  "to": 143.46,
+  "sid": 84,
+  "location": 2,
+  "content": "默认是向前进位移的",
+  "music": 0.0
+ },
+ {
+  "from": 143.46,
+  "to": 144.6,
+  "sid": 85,
+  "location": 2,
+  "content": "按住任何方向键",
+  "music": 0.0
+ },
+ {
+  "from": 144.6,
+  "to": 146.46,
+  "sid": 86,
+  "location": 2,
+  "content": "将会对指定方向进行位移",
+  "music": 0.0
+ },
+ {
+  "from": 146.46,
+  "to": 148.68,
+  "sid": 87,
+  "location": 2,
+  "content": "例如说在按住SA键的同时",
+  "music": 0.0
+ },
+ {
+  "from": 148.68,
+  "to": 150.84,
+  "sid": 88,
+  "location": 2,
+  "content": "使用逐风3号位移至左后方",
+  "music": 0.0
+ },
+ {
+  "from": 150.84,
+  "to": 152.28,
+  "sid": 89,
+  "location": 2,
+  "content": "按空格跳起来",
+  "music": 0.0
+ },
+ {
+  "from": 152.28,
+  "to": 154.22,
+  "sid": 90,
+  "location": 2,
+  "content": "同时使用逐风会位移的更远",
+  "music": 0.0
+ },
+ {
+  "from": 154.22,
+  "to": 156.56,
+  "sid": 91,
+  "location": 2,
+  "content": "捷风E技能是每次重生自带的技能",
+  "music": 0.0
+ },
+ {
+  "from": 156.56,
+  "to": 157.28,
+  "sid": 92,
+  "location": 2,
+  "content": "无需购买",
+  "music": 0.0
+ },
+ {
+  "from": 157.28,
+  "to": 159.2,
+  "sid": 93,
+  "location": 2,
+  "content": "第一次按E激活逐风后被击杀",
+  "music": 0.0
+ },
+ {
+  "from": 159.2,
+  "to": 160.44,
+  "sid": 94,
+  "location": 2,
+  "content": "两个人刷新一次",
+  "music": 0.0
+ },
+ {
+  "from": 160.44,
+  "to": 161.46,
+  "sid": 95,
+  "location": 2,
+  "content": "一般来讲",
+  "music": 0.0
+ },
+ {
+  "from": 161.46,
+  "to": 162.48,
+  "sid": 96,
+  "location": 2,
+  "content": "我们的进攻场景下",
+  "music": 0.0
+ },
+ {
+  "from": 162.48,
+  "to": 164.58,
+  "sid": 97,
+  "location": 2,
+  "content": "都是配合C技能顺利进行逐风的",
+  "music": 0.0
+ },
+ {
+  "from": 164.58,
+  "to": 165.97,
+  "sid": 98,
+  "location": 2,
+  "content": "这也是他强度保证",
+  "music": 0.0
+ },
+ {
+  "from": 165.97,
+  "to": 166.69,
+  "sid": 99,
+  "location": 2,
+  "content": "举个例子",
+  "music": 0.0
+ },
+ {
+  "from": 166.69,
+  "to": 167.71,
+  "sid": 100,
+  "location": 2,
+  "content": "在霓虹军的A点",
+  "music": 0.0
+ },
+ {
+  "from": 167.71,
+  "to": 169.51,
+  "sid": 101,
+  "location": 2,
+  "content": "假如你是主A的防守方队友",
+  "music": 0.0
+ },
+ {
+  "from": 169.51,
+  "to": 171.31,
+  "sid": 102,
+  "location": 2,
+  "content": "敌人没有A2的控制权前提下",
+  "music": 0.0
+ },
+ {
+  "from": 171.31,
+  "to": 173.93,
+  "sid": 103,
+  "location": 2,
+  "content": "就只能从A1这个狭窄的通道进入包点",
+  "music": 0.0
+ },
+ {
+  "from": 173.93,
+  "to": 175.43,
+  "sid": 104,
+  "location": 2,
+  "content": "防守方配合自己的道具",
+  "music": 0.0
+ },
+ {
+  "from": 175.43,
+  "to": 177.61,
+  "sid": 105,
+  "location": 2,
+  "content": "打出1万多的连杀是完全有可能的",
+  "music": 0.0
+ },
+ {
+  "from": 177.61,
+  "to": 179.23,
+  "sid": 106,
+  "location": 2,
+  "content": "但假如敌人有一个捷风",
+  "music": 0.0
+ },
+ {
+  "from": 179.23,
+  "to": 180.43,
+  "sid": 107,
+  "location": 2,
+  "content": "先扔出一颗烟雾弹",
+  "music": 0.0
+ },
+ {
+  "from": 180.43,
+  "to": 181.81,
+  "sid": 108,
+  "location": 2,
+  "content": "再用一技能顺风瞬间自走",
+  "music": 0.0
+ },
+ {
+  "from": 181.81,
+  "to": 182.5,
+  "sid": 109,
+  "location": 2,
+  "content": "烟雾弹里",
+  "music": 0.0
+ },
+ {
+  "from": 182.5,
+  "to": 184.94,
+  "sid": 110,
+  "location": 2,
+  "content": "那进攻方瞬间就产生了两个进攻角度",
+  "music": 0.0
+ },
+ {
+  "from": 184.94,
+  "to": 186.92,
+  "sid": 111,
+  "location": 2,
+  "content": "那防守方这种潜在连杀机会",
+  "music": 0.0
+ },
+ {
+  "from": 186.92,
+  "to": 188.92,
+  "sid": 112,
+  "location": 2,
+  "content": "就被捷风自大虫的破坏了",
+  "music": 0.0
+ },
+ {
+  "from": 188.92,
+  "to": 191.02,
+  "sid": 113,
+  "location": 2,
+  "content": "如果主位防守方直接混烟打捷风",
+  "music": 0.0
+ },
+ {
+  "from": 191.02,
+  "to": 192.28,
+  "sid": 114,
+  "location": 2,
+  "content": "那自己的位置就暴露了",
+  "music": 0.0
+ },
+ {
+  "from": 192.28,
+  "to": 193.96,
+  "sid": 115,
+  "location": 2,
+  "content": "捷风可以顺势再封一颗烟来",
+  "music": 0.0
+ },
+ {
+  "from": 193.96,
+  "to": 195.69,
+  "sid": 116,
+  "location": 2,
+  "content": "或大河的空间来保持生存",
+  "music": 0.0
+ },
+ {
+  "from": 195.69,
+  "to": 197.43,
+  "sid": 117,
+  "location": 2,
+  "content": "然后让后续补上队友补枪",
+  "music": 0.0
+ },
+ {
+  "from": 197.43,
+  "to": 198.66,
+  "sid": 118,
+  "location": 2,
+  "content": "从而打成零换一",
+  "music": 0.0
+ },
+ {
+  "from": 198.66,
+  "to": 200.37,
+  "sid": 119,
+  "location": 2,
+  "content": "如果防守方队友不打捷风",
+  "music": 0.0
+ },
+ {
+  "from": 200.37,
+  "to": 202.11,
+  "sid": 120,
+  "location": 2,
+  "content": "选择打后续跟上队友的话",
+  "music": 0.0
+ },
+ {
+  "from": 202.11,
+  "to": 203.55,
+  "sid": 121,
+  "location": 2,
+  "content": "那捷风就可以混烟而出",
+  "music": 0.0
+ },
+ {
+  "from": 203.55,
+  "to": 204.48,
+  "sid": 122,
+  "location": 2,
+  "content": "完成补枪",
+  "music": 0.0
+ },
+ {
+  "from": 204.48,
+  "to": 206.28,
+  "sid": 123,
+  "location": 2,
+  "content": "捷风的位移技能配合上C技能",
+  "music": 0.0
+ },
+ {
+  "from": 206.28,
+  "to": 208.62,
+  "sid": 124,
+  "location": 2,
+  "content": "一个人就可以独立创造出全新的这种角度",
+  "music": 0.0
+ },
+ {
+  "from": 208.62,
+  "to": 211.88,
+  "sid": 125,
+  "location": 2,
+  "content": "从而最大程度的降低防守方打出连杀可能性",
+  "music": 0.0
+ },
+ {
+  "from": 211.88,
+  "to": 213.8,
+  "sid": 126,
+  "location": 2,
+  "content": "另外使用逐风的过程中",
+  "music": 0.0
+ },
+ {
+  "from": 213.8,
+  "to": 215.72,
+  "sid": 127,
+  "location": 2,
+  "content": "捷风是可以移动鼠标左右看的",
+  "music": 0.0
+ },
+ {
+  "from": 215.72,
+  "to": 217.94,
+  "sid": 128,
+  "location": 2,
+  "content": "进来的时候还能顺便帮队友清一下点",
+  "music": 0.0
+ },
+ {
+  "from": 217.94,
+  "to": 219.38,
+  "sid": 129,
+  "location": 2,
+  "content": "同时大家需要明白的一点",
+  "music": 0.0
+ },
+ {
+  "from": 219.38,
+  "to": 221.02,
+  "sid": 130,
+  "location": 2,
+  "content": "是不是你顺序去完事儿了",
+  "music": 0.0
+ },
+ {
+  "from": 221.02,
+  "to": 222.22,
+  "sid": 131,
+  "location": 2,
+  "content": "你需要保持存活",
+  "music": 0.0
+ },
+ {
+  "from": 222.22,
+  "to": 224.2,
+  "sid": 132,
+  "location": 2,
+  "content": "才能给防守方带来足够多的压力",
+  "music": 0.0
+ },
+ {
+  "from": 224.2,
+  "to": 225.52,
+  "sid": 133,
+  "location": 2,
+  "content": "所以顺进包点之后",
+  "music": 0.0
+ },
+ {
+  "from": 225.52,
+  "to": 227.68,
+  "sid": 134,
+  "location": 2,
+  "content": "还可以再放一颗烟来扩大活动空间",
+  "music": 0.0
+ },
+ {
+  "from": 227.68,
+  "to": 228.82,
+  "sid": 135,
+  "location": 2,
+  "content": "大家用逐风技能",
+  "music": 0.0
+ },
+ {
+  "from": 228.82,
+  "to": 231.08,
+  "sid": 136,
+  "location": 2,
+  "content": "一定不要多个回合顺到同一个位置",
+  "music": 0.0
+ },
+ {
+  "from": 231.08,
+  "to": 231.8,
+  "sid": 137,
+  "location": 2,
+  "content": "不然顺多了",
+  "music": 0.0
+ },
+ {
+  "from": 231.8,
+  "to": 234.2,
+  "sid": 138,
+  "location": 2,
+  "content": "很有可能几个人拿着喷子直接来接你了",
+  "music": 0.0
+ },
+ {
+  "from": 234.2,
+  "to": 236.12,
+  "sid": 139,
+  "location": 2,
+  "content": "另外就是大家不要局限于进攻方",
+  "music": 0.0
+ },
+ {
+  "from": 236.12,
+  "to": 236.72,
+  "sid": 140,
+  "location": 2,
+  "content": "顺风防守",
+  "music": 0.0
+ },
+ {
+  "from": 236.72,
+  "to": 237.96,
+  "sid": 141,
+  "location": 2,
+  "content": "防守回防守也是同理",
+  "music": 0.0
+ },
+ {
+  "from": 237.96,
+  "to": 239.22,
+  "sid": 142,
+  "location": 2,
+  "content": "而在防守场景下",
+  "music": 0.0
+ },
+ {
+  "from": 239.22,
+  "to": 241.88,
+  "sid": 143,
+  "location": 2,
+  "content": "捷风的顺风就是用来在激进位置拿首杀的",
+  "music": 0.0
+ },
+ {
+  "from": 241.88,
+  "to": 242.6,
+  "sid": 144,
+  "location": 2,
+  "content": "无畏契约者",
+  "music": 0.0
+ },
+ {
+  "from": 242.6,
+  "to": 244.16,
+  "sid": 145,
+  "location": 2,
+  "content": "有很多比较激进的飞鱼鸟",
+  "music": 0.0
+ },
+ {
+  "from": 244.16,
+  "to": 244.85,
+  "sid": 146,
+  "location": 2,
+  "content": "都是枪位",
+  "music": 0.0
+ },
+ {
+  "from": 244.85,
+  "to": 247.28,
+  "sid": 147,
+  "location": 2,
+  "content": "这些位置在1V1单挑场景下是很优势的",
+  "music": 0.0
+ },
+ {
+  "from": 247.28,
+  "to": 248.12,
+  "sid": 148,
+  "location": 2,
+  "content": "加强角度",
+  "music": 0.0
+ },
+ {
+  "from": 248.12,
+  "to": 249.56,
+  "sid": 149,
+  "location": 2,
+  "content": "但换做其他英雄",
+  "music": 0.0
+ },
+ {
+  "from": 249.56,
+  "to": 251.33,
+  "sid": 150,
+  "location": 2,
+  "content": "在敌人抱团进攻方场景下",
+  "music": 0.0
+ },
+ {
+  "from": 251.33,
+  "to": 253.22,
+  "sid": 151,
+  "location": 2,
+  "content": "即使靠角度优势打死了一个",
+  "music": 0.0
+ },
+ {
+  "from": 253.22,
+  "to": 254.54,
+  "sid": 152,
+  "location": 2,
+  "content": "也会马上被毒死",
+  "music": 0.0
+ },
+ {
+  "from": 254.54,
+  "to": 256.48,
+  "sid": 153,
+  "location": 2,
+  "content": "那防守方一换一是很亏的",
+  "music": 0.0
+ },
+ {
+  "from": 256.48,
+  "to": 259.42,
+  "sid": 154,
+  "location": 2,
+  "content": "但捷风在这种位置打掉一个就可以立马顺走",
+  "music": 0.0
+ },
+ {
+  "from": 259.42,
+  "to": 260.909,
+  "sid": 155,
+  "location": 2,
+  "content": "甚至可以实现一个零换多",
+  "music": 0.0
+ },
+ {
+  "from": 260.909,
+  "to": 262.139,
+  "sid": 156,
+  "location": 2,
+  "content": "在版本更新后",
+  "music": 0.0
+ },
+ {
+  "from": 262.139,
+  "to": 264.82,
+  "sid": 157,
+  "location": 2,
+  "content": "因为它逐风需要在使用之前提前激活",
+  "music": 0.0
+ },
+ {
+  "from": 264.82,
+  "to": 266.32,
+  "sid": 158,
+  "location": 2,
+  "content": "如果激活之后敌人没来",
+  "music": 0.0
+ },
+ {
+  "from": 266.32,
+  "to": 267.64,
+  "sid": 159,
+  "location": 2,
+  "content": "那逐风也就浪费了",
+  "music": 0.0
+ },
+ {
+  "from": 267.64,
+  "to": 269.38,
+  "sid": 160,
+  "location": 2,
+  "content": "所以一个好的捷风玩家",
+  "music": 0.0
+ },
+ {
+  "from": 269.38,
+  "to": 270.82,
+  "sid": 161,
+  "location": 2,
+  "content": "一定要学会扣住一技能",
+  "music": 0.0
+ },
+ {
+  "from": 270.82,
+  "to": 272.08,
+  "sid": 162,
+  "location": 2,
+  "content": "不到万不得已的时候",
+  "music": 0.0
+ },
+ {
+  "from": 272.08,
+  "to": 275.1,
+  "sid": 163,
+  "location": 2,
+  "content": "就不要激活逐风捷风的Q技能",
+  "music": 0.0
+ },
+ {
+  "from": 275.1,
+  "to": 276.9,
+  "sid": 164,
+  "location": 2,
+  "content": "凌空呢是一个垂直的位移技能",
+  "music": 0.0
+ },
+ {
+  "from": 276.9,
+  "to": 279.27,
+  "sid": 165,
+  "location": 2,
+  "content": "使用后会进行一个垂直方向上的位移",
+  "music": 0.0
+ },
+ {
+  "from": 279.27,
+  "to": 280.98,
+  "sid": 166,
+  "location": 2,
+  "content": "哪个Q技能价值150元",
+  "music": 0.0
+ },
+ {
+  "from": 280.98,
+  "to": 282.28,
+  "sid": 167,
+  "location": 2,
+  "content": "最多可以购买两个",
+  "music": 0.0
+ },
+ {
+  "from": 282.28,
+  "to": 284.47,
+  "sid": 168,
+  "location": 2,
+  "content": "那第一种灵魂的用法大家都能想到",
+  "music": 0.0
+ },
+ {
+  "from": 284.47,
+  "to": 286.3,
+  "sid": 169,
+  "location": 2,
+  "content": "就是通过他跳到一些其他角色",
+  "music": 0.0
+ },
+ {
+  "from": 286.3,
+  "to": 288.1,
+  "sid": 170,
+  "location": 2,
+  "content": "难以到达一些高点飞行员位",
+  "music": 0.0
+ },
+ {
+  "from": 288.1,
+  "to": 291.28,
+  "sid": 171,
+  "location": 2,
+  "content": "同时捷风也很适合通过Q技能旋转跳来拿信息",
+  "music": 0.0
+ },
+ {
+  "from": 291.28,
+  "to": 292.84,
+  "sid": 172,
+  "location": 2,
+  "content": "朋克旋转跳当然也可以",
+  "music": 0.0
+ },
+ {
+  "from": 292.84,
+  "to": 293.98,
+  "sid": 173,
+  "location": 2,
+  "content": "但如果狙击枪直架的话",
+  "music": 0.0
+ },
+ {
+  "from": 293.98,
+  "to": 295.74,
+  "sid": 174,
+  "location": 2,
+  "content": "还是有很大概率被命中的",
+  "music": 0.0
+ },
+ {
+  "from": 295.74,
+  "to": 298.6,
+  "sid": 175,
+  "location": 2,
+  "content": "所以配合Q技能旋转跳能降低你被命中的概率",
+  "music": 0.0
+ },
+ {
+  "from": 298.6,
+  "to": 300.46,
+  "sid": 176,
+  "location": 2,
+  "content": "那再者捷风那边空",
+  "music": 0.0
+ },
+ {
+  "from": 300.46,
+  "to": 302.89,
+  "sid": 177,
+  "location": 2,
+  "content": "很适合配合这个捷风的顺风来使用",
+  "music": 0.0
+ },
+ {
+  "from": 302.89,
+  "to": 306.24,
+  "sid": 178,
+  "location": 2,
+  "content": "同时按QE的抬枪后摇是小于单独使用一技能的",
+  "music": 0.0
+ },
+ {
+  "from": 306.24,
+  "to": 307.74,
+  "sid": 179,
+  "location": 2,
+  "content": "那QE连招的移动距离",
+  "music": 0.0
+ },
+ {
+  "from": 307.74,
+  "to": 310.06,
+  "sid": 180,
+  "location": 2,
+  "content": "也比单独使用E技能要远接近一倍",
+  "music": 0.0
+ },
+ {
+  "from": 310.06,
+  "to": 311.62,
+  "sid": 181,
+  "location": 2,
+  "content": "另外我们在讲一技能的时候",
+  "music": 0.0
+ },
+ {
+  "from": 311.62,
+  "to": 313.44,
+  "sid": 182,
+  "location": 2,
+  "content": "说过进攻场景下的CE连招",
+  "music": 0.0
+ },
+ {
+  "from": 313.44,
+  "to": 315.96,
+  "sid": 183,
+  "location": 2,
+  "content": "同样的CD连招还可以再搭配上一个连空",
+  "music": 0.0
+ },
+ {
+  "from": 315.96,
+  "to": 317.4,
+  "sid": 184,
+  "location": 2,
+  "content": "我们能到达一些点内的高点",
+  "music": 0.0
+ },
+ {
+  "from": 317.4,
+  "to": 319.12,
+  "sid": 185,
+  "location": 2,
+  "content": "打出更有侵略性的突破",
+  "music": 0.0
+ },
+ {
+  "from": 319.12,
+  "to": 321.73,
+  "sid": 186,
+  "location": 2,
+  "content": "那捷风的大招巨刃就很简单了",
+  "music": 0.0
+ },
+ {
+  "from": 321.73,
+  "to": 323.32,
+  "sid": 187,
+  "location": 2,
+  "content": "按X装备五把飞刀",
+  "music": 0.0
+ },
+ {
+  "from": 323.32,
+  "to": 325.32,
+  "sid": 188,
+  "location": 2,
+  "content": "每按一次鼠标左键掷出一把飞刀",
+  "music": 0.0
+ },
+ {
+  "from": 325.32,
+  "to": 327.06,
+  "sid": 189,
+  "location": 2,
+  "content": "击中躯干部位的伤害为50",
+  "music": 0.0
+ },
+ {
+  "from": 327.06,
+  "to": 328.29,
+  "sid": 190,
+  "location": 2,
+  "content": "爆头可以一镖死",
+  "music": 0.0
+ },
+ {
+  "from": 328.29,
+  "to": 330.7,
+  "sid": 191,
+  "location": 2,
+  "content": "每击杀一名敌人都可以刷新飞镖数量",
+  "music": 0.0
+ },
+ {
+  "from": 330.7,
+  "to": 333.49,
+  "sid": 192,
+  "location": 2,
+  "content": "按鼠标右键将会以霰弹模式指出所有飞刀",
+  "music": 0.0
+ },
+ {
+  "from": 333.49,
+  "to": 334.42,
+  "sid": 193,
+  "location": 2,
+  "content": "右键击杀敌人",
+  "music": 0.0
+ },
+ {
+  "from": 334.42,
+  "to": 335.68,
+  "sid": 194,
+  "location": 2,
+  "content": "飞镖不会再刷新",
+  "music": 0.0
+ },
+ {
+  "from": 335.68,
+  "to": 337.48,
+  "sid": 195,
+  "location": 2,
+  "content": "那飞镖呢是极神明重要设定",
+  "music": 0.0
+ },
+ {
+  "from": 337.48,
+  "to": 338.56,
+  "sid": 196,
+  "location": 2,
+  "content": "没有弹速下坠",
+  "music": 0.0
+ },
+ {
+  "from": 338.56,
+  "to": 341.46,
+  "sid": 197,
+  "location": 2,
+  "content": "且在任何形式的移动中都可以保持最高精度",
+  "music": 0.154411759028987
+ },
+ {
+  "from": 341.46,
+  "to": 342.96,
+  "sid": 198,
+  "location": 2,
+  "content": "那捷风只要够准够快",
+  "music": 0.0
+ },
+ {
+  "from": 342.96,
+  "to": 344.88,
+  "sid": 199,
+  "location": 2,
+  "content": "就能配合他的高速能力杀完",
+  "music": 0.0
+ },
+ {
+  "from": 344.88,
+  "to": 346.32,
+  "sid": 200,
+  "location": 2,
+  "content": "而且因为飞镖可以跑打",
+  "music": 0.0
+ },
+ {
+  "from": 346.32,
+  "to": 348.24,
+  "sid": 201,
+  "location": 2,
+  "content": "所以你可以直接飞起来隔墙杀人",
+  "music": 0.0
+ },
+ {
+  "from": 348.24,
+  "to": 350.16,
+  "sid": 202,
+  "location": 2,
+  "content": "那剧院总共需要七个大招点数",
+  "music": 0.0
+ },
+ {
+  "from": 350.16,
+  "to": 352.2,
+  "sid": 203,
+  "location": 2,
+  "content": "一般3~4个回合就可以开大了",
+  "music": 0.0
+ },
+ {
+  "from": 352.2,
+  "to": 354.24,
+  "sid": 204,
+  "location": 2,
+  "content": "而且他可以用飞镖代替起枪",
+  "music": 0.0
+ },
+ {
+  "from": 354.24,
+  "to": 356.73,
+  "sid": 205,
+  "location": 2,
+  "content": "所以捷风攒钱攒狙也比其他英雄更容易",
+  "music": 0.0
+ },
+ {
+  "from": 356.73,
+  "to": 358.05,
+  "sid": 206,
+  "location": 2,
+  "content": "但需要注意的一点是",
+  "music": 0.0
+ },
+ {
+  "from": 358.05,
+  "to": 360.66,
+  "sid": 207,
+  "location": 2,
+  "content": "捷风的飞镖强度在以前是远强于步枪的",
+  "music": 0.0
+ },
+ {
+  "from": 360.66,
+  "to": 362.91,
+  "sid": 208,
+  "location": 2,
+  "content": "但现在因为右键杀人不能刷新飞镖了",
+  "music": 0.0
+ },
+ {
+  "from": 362.91,
+  "to": 364.32,
+  "sid": 209,
+  "location": 2,
+  "content": "所以就没有那么稳定了",
+  "music": 0.0
+ },
+ {
+  "from": 364.32,
+  "to": 365.28,
+  "sid": 210,
+  "location": 2,
+  "content": "如果是长枪局",
+  "music": 0.0
+ },
+ {
+  "from": 365.28,
+  "to": 366.12,
+  "sid": 211,
+  "location": 2,
+  "content": "一刀带枪的话",
+  "music": 0.0
+ },
+ {
+  "from": 366.12,
+  "to": 367.38,
+  "sid": 212,
+  "location": 2,
+  "content": "找机会直接位移贴脸",
+  "music": 0.0
+ },
+ {
+  "from": 367.38,
+  "to": 367.92,
+  "sid": 213,
+  "location": 2,
+  "content": "又见恶灵",
+  "music": 0.0
+ },
+ {
+  "from": 367.92,
+  "to": 369.42,
+  "sid": 214,
+  "location": 2,
+  "content": "杀一个再减长枪接着打",
+  "music": 0.0
+ },
+ {
+  "from": 369.42,
+  "to": 371.02,
+  "sid": 215,
+  "location": 2,
+  "content": "无疑是最稳妥的打法",
+  "music": 0.0
+ },
+ {
+  "from": 371.48,
+  "to": 373.9,
+  "sid": 216,
+  "location": 2,
+  "content": "最后捷风还有被动的漂浮技能",
+  "music": 0.0
+ },
+ {
+  "from": 373.9,
+  "to": 375.34,
+  "sid": 217,
+  "location": 2,
+  "content": "在空中按住空格键",
+  "music": 0.0
+ },
+ {
+  "from": 375.34,
+  "to": 377.06,
+  "sid": 218,
+  "location": 2,
+  "content": "可以在空中漂浮至空",
+  "music": 0.0
+ },
+ {
+  "from": 377.06,
+  "to": 377.24,
+  "sid": 219,
+  "location": 2,
+  "content": "滞",
+  "music": 0.0
+ },
+ {
+  "from": 377.24,
+  "to": 378.62,
+  "sid": 220,
+  "location": 2,
+  "content": "空呢会带来较大的声音",
+  "music": 0.0
+ },
+ {
+  "from": 378.62,
+  "to": 379.7,
+  "sid": 221,
+  "location": 2,
+  "content": "能被敌人捕捉到",
+  "music": 0.0
+ },
+ {
+  "from": 379.7,
+  "to": 380.48,
+  "sid": 222,
+  "location": 2,
+  "content": "所以更多时候",
+  "music": 0.0
+ },
+ {
+  "from": 380.48,
+  "to": 383.12,
+  "sid": 223,
+  "location": 2,
+  "content": "该被动技能只是用来在从高空下落的时候",
+  "music": 0.0
+ },
+ {
+  "from": 383.12,
+  "to": 384.19,
+  "sid": 224,
+  "location": 2,
+  "content": "减免坠落伤害",
+  "music": 0.0
+ },
+ {
+  "from": 384.19,
+  "to": 385.09,
+  "sid": 225,
+  "location": 2,
+  "content": "在一些地图中",
+  "music": 0.0
+ },
+ {
+  "from": 385.09,
+  "to": 387.37,
+  "sid": 226,
+  "location": 2,
+  "content": "我们也可以利用被动的技能节省一个Q技能",
+  "music": 0.0
+ },
+ {
+  "from": 387.37,
+  "to": 390.26,
+  "sid": 227,
+  "location": 2,
+  "content": "凌空利用高低差到达一些非预瞄高点",
+  "music": 0.0
+ },
+ {
+  "from": 391.68,
+  "to": 393.44,
+  "sid": 228,
+  "location": 2,
+  "content": "本期视频讲到这里也到了尾声",
+  "music": 0.0
+ },
+ {
+  "from": 393.44,
+  "to": 395.54,
+  "sid": 229,
+  "location": 2,
+  "content": "捷风是无畏契约中的代表上的英雄",
+  "music": 0.0
+ },
+ {
+  "from": 395.54,
+  "to": 398.039,
+  "sid": 230,
+  "location": 2,
+  "content": "也是天梯里最容易打出突破小的角色",
+  "music": 0.0
+ },
+ {
+  "from": 398.039,
+  "to": 401.3,
+  "sid": 231,
+  "location": 2,
+  "content": "捷风在游戏里也是唯二擅长使用机枪的角色",
+  "music": 0.0
+ },
+ {
+  "from": 401.3,
+  "to": 403.97,
+  "sid": 232,
+  "location": 2,
+  "content": "笨重的名句在他手里也能灵动起来",
+  "music": 0.0
+ },
+ {
+  "from": 403.97,
+  "to": 404.96,
+  "sid": 233,
+  "location": 2,
+  "content": "在所有地图中",
+  "music": 0.0
+ },
+ {
+  "from": 404.96,
+  "to": 406.7,
+  "sid": 234,
+  "location": 2,
+  "content": "捷风的强度都在80分以上",
+  "music": 0.0
+ },
+ {
+  "from": 406.7,
+  "to": 408.32,
+  "sid": 235,
+  "location": 2,
+  "content": "在微风岛屿和亚索选项中",
+  "music": 0.0
+ },
+ {
+  "from": 408.32,
+  "to": 410.28,
+  "sid": 236,
+  "location": 2,
+  "content": "捷风更是一号突破位的唯一选择",
+  "music": 0.0
+ },
+ {
+  "from": 410.28,
+  "to": 411.84,
+  "sid": 237,
+  "location": 2,
+  "content": "作为合格的捷风使用者",
+  "music": 0.0
+ },
+ {
+  "from": 411.84,
+  "to": 412.92,
+  "sid": 238,
+  "location": 2,
+  "content": "必须要把握好度",
+  "music": 0.0
+ },
+ {
+  "from": 412.92,
+  "to": 414.0,
+  "sid": 239,
+  "location": 2,
+  "content": "如果你冲的太快",
+  "music": 0.0
+ },
+ {
+  "from": 414.0,
+  "to": 414.54,
+  "sid": 240,
+  "location": 2,
+  "content": "死太快了",
+  "music": 0.0
+ },
+ {
+  "from": 414.54,
+  "to": 415.38,
+  "sid": 241,
+  "location": 2,
+  "content": "队友补不上枪",
+  "music": 0.0
+ },
+ {
+  "from": 415.38,
+  "to": 416.96,
+  "sid": 242,
+  "location": 2,
+  "content": "卖的逐风也就毫无意义了",
+  "music": 0.0
+ },
+ {
+  "from": 416.96,
+  "to": 418.04,
+  "sid": 243,
+  "location": 2,
+  "content": "如果一直不逐风",
+  "music": 0.0
+ },
+ {
+  "from": 418.04,
+  "to": 419.12,
+  "sid": 244,
+  "location": 2,
+  "content": "帮助队友打开局面",
+  "music": 0.0
+ },
+ {
+  "from": 419.12,
+  "to": 420.32,
+  "sid": 245,
+  "location": 2,
+  "content": "那也就是团队价值为零",
+  "music": 0.0
+ },
+ {
+  "from": 420.32,
+  "to": 422.64,
+  "sid": 246,
+  "location": 2,
+  "content": "而且战瘤子今天视频就到这里",
+  "music": 0.0
+ },
+ {
+  "from": 422.64,
+  "to": 423.66,
+  "sid": 247,
+  "location": 2,
+  "content": "我是一名FPS游戏",
+  "music": 0.0
+ },
+ {
+  "from": 423.66,
+  "to": 425.84,
+  "sid": 248,
+  "location": 2,
+  "content": "up主们现在重点关注啊这款游戏",
+  "music": 0.0
+ },
+ {
+  "from": 425.84,
+  "to": 428.36,
+  "sid": 249,
+  "location": 2,
+  "content": "但此后也会持续更吸引玩瓦兰特的中文互联网",
+  "music": 0.0
+ },
+ {
+  "from": 428.36,
+  "to": 429.2,
+  "sid": 250,
+  "location": 2,
+  "content": "最底下教学",
+  "music": 0.0
+ },
+ {
+  "from": 429.2,
+  "to": 432.14,
+  "sid": 251,
+  "location": 2,
+  "content": "最重的是让所有观众的水之前都不要这样平静",
+  "music": 0.0
+ },
+ {
+  "from": 432.14,
+  "to": 433.64,
+  "sid": 252,
+  "location": 2,
+  "content": "如果你除了这些基础新手知识",
+  "music": 0.0
+ },
+ {
+  "from": 433.64,
+  "to": 435.02,
+  "sid": 253,
+  "location": 2,
+  "content": "还想进一步了解更多内容",
+  "music": 0.0
+ },
+ {
+  "from": 435.02,
+  "to": 436.94,
+  "sid": 254,
+  "location": 2,
+  "content": "还可以去本视频的简介和这个评论处",
+  "music": 0.0
+ },
+ {
+  "from": 436.94,
+  "to": 438.0,
+  "sid": 255,
+  "location": 2,
+  "content": "找几个简教学",
+  "music": 0.0
+ },
+ {
+  "from": 438.0,
+  "to": 440.04,
+  "sid": 256,
+  "location": 2,
+  "content": "如果你想提高自己在网上特级水平",
+  "music": 0.0
+ },
+ {
+  "from": 440.04,
+  "to": 441.12,
+  "sid": 257,
+  "location": 2,
+  "content": "那不妨点个关注",
+  "music": 0.0
+ },
+ {
+  "from": 441.12,
+  "to": 442.28,
+  "sid": 258,
+  "location": 2,
+  "content": "我们下期视频再见",
+  "music": 0.0
+ }
+]
