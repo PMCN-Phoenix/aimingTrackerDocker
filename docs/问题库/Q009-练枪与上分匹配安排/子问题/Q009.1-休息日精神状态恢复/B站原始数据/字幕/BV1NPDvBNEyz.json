@@ -1,0 +1,4850 @@
+{
+ "bvid": "BV1NPDvBNEyz",
+ "title": "神经疲劳修复：深度休息的5个科学方法！",
+ "owner": "认知深潜DeepInsight",
+ "aid": 116362760423035,
+ "cid": 37999216705,
+ "duration": 951,
+ "body": [
+  {
+   "from": 0.04,
+   "to": 0.98,
+   "sid": 1,
+   "location": 2,
+   "content": "做个小实验",
+   "music": 0.0
+  },
+  {
+   "from": 0.98,
+   "to": 2.58,
+   "sid": 2,
+   "location": 2,
+   "content": "现在立刻放下手机",
+   "music": 0.0
+  },
+  {
+   "from": 2.58,
+   "to": 3.42,
+   "sid": 3,
+   "location": 2,
+   "content": "闭上眼睛",
+   "music": 0.0
+  },
+  {
+   "from": 3.42,
+   "to": 4.22,
+   "sid": 4,
+   "location": 2,
+   "content": "什么都不想",
+   "music": 0.0
+  },
+  {
+   "from": 4.22,
+   "to": 6.02,
+   "sid": 5,
+   "location": 2,
+   "content": "坚持30秒能做到吗",
+   "music": 0.0
+  },
+  {
+   "from": 6.02,
+   "to": 6.92,
+   "sid": 6,
+   "location": 2,
+   "content": "做不到对吧",
+   "music": 0.0
+  },
+  {
+   "from": 6.92,
+   "to": 9.28,
+   "sid": 7,
+   "location": 2,
+   "content": "你的脑子里是不是立刻冒出一堆念头",
+   "music": 0.0
+  },
+  {
+   "from": 9.28,
+   "to": 10.08,
+   "sid": 8,
+   "location": 2,
+   "content": "工作的事",
+   "music": 0.0
+  },
+  {
+   "from": 10.08,
+   "to": 11.0,
+   "sid": 9,
+   "location": 2,
+   "content": "明天的会议",
+   "music": 0.0
+  },
+  {
+   "from": 11.0,
+   "to": 11.92,
+   "sid": 10,
+   "location": 2,
+   "content": "未读的消息",
+   "music": 0.0
+  },
+  {
+   "from": 11.92,
+   "to": 12.88,
+   "sid": 11,
+   "location": 2,
+   "content": "要做的事情",
+   "music": 0.0
+  },
+  {
+   "from": 12.88,
+   "to": 14.2,
+   "sid": 12,
+   "location": 2,
+   "content": "甚至你根本没有闭眼",
+   "music": 0.0
+  },
+  {
+   "from": 14.2,
+   "to": 15.4,
+   "sid": 13,
+   "location": 2,
+   "content": "因为你停不下来",
+   "music": 0.0
+  },
+  {
+   "from": 15.4,
+   "to": 17.06,
+   "sid": 14,
+   "location": 2,
+   "content": "再问你一个更扎心的问题",
+   "music": 0.0
+  },
+  {
+   "from": 17.06,
+   "to": 19.38,
+   "sid": 15,
+   "location": 2,
+   "content": "你上一次感到真正放松是什么时候",
+   "music": 0.0
+  },
+  {
+   "from": 19.38,
+   "to": 21.0,
+   "sid": 16,
+   "location": 2,
+   "content": "不是躺在沙发上刷手机",
+   "music": 0.0
+  },
+  {
+   "from": 21.0,
+   "to": 22.32,
+   "sid": 17,
+   "location": 2,
+   "content": "不是周末睡到中午",
+   "music": 0.0
+  },
+  {
+   "from": 22.32,
+   "to": 24.02,
+   "sid": 18,
+   "location": 2,
+   "content": "而是那种身心彻底放空",
+   "music": 0.0
+  },
+  {
+   "from": 24.02,
+   "to": 25.58,
+   "sid": 19,
+   "location": 2,
+   "content": "醒来神清气爽的感觉",
+   "music": 0.0
+  },
+  {
+   "from": 25.58,
+   "to": 26.3,
+   "sid": 20,
+   "location": 2,
+   "content": "一个月前",
+   "music": 0.0
+  },
+  {
+   "from": 26.3,
+   "to": 28.64,
+   "sid": 21,
+   "location": 2,
+   "content": "半年前还是已经完全想不起来了",
+   "music": 0.0
+  },
+  {
+   "from": 28.64,
+   "to": 30.14,
+   "sid": 22,
+   "location": 2,
+   "content": "如果你的答案是想不起来",
+   "music": 0.0
+  },
+  {
+   "from": 30.14,
+   "to": 32.479,
+   "sid": 23,
+   "location": 2,
+   "content": "我要告诉你一个好消息和一个坏消息",
+   "music": 0.0
+  },
+  {
+   "from": 32.479,
+   "to": 34.219,
+   "sid": 24,
+   "location": 2,
+   "content": "好消息是你不是抑郁症",
+   "music": 0.0
+  },
+  {
+   "from": 34.219,
+   "to": 35.059,
+   "sid": 25,
+   "location": 2,
+   "content": "不是焦虑症",
+   "music": 0.0
+  },
+  {
+   "from": 35.059,
+   "to": 36.319,
+   "sid": 26,
+   "location": 2,
+   "content": "你只是神经疲劳",
+   "music": 0.0
+  },
+  {
+   "from": 36.319,
+   "to": 38.879,
+   "sid": 27,
+   "location": 2,
+   "content": "坏消息是你以为在休息的那些行为",
+   "music": 0.0
+  },
+  {
+   "from": 38.879,
+   "to": 39.58,
+   "sid": 28,
+   "location": 2,
+   "content": "睡懒觉",
+   "music": 0.0
+  },
+  {
+   "from": 39.58,
+   "to": 40.28,
+   "sid": 29,
+   "location": 2,
+   "content": "刷手机",
+   "music": 0.0
+  },
+  {
+   "from": 40.28,
+   "to": 41.46,
+   "sid": 30,
+   "location": 2,
+   "content": "看剧打游戏",
+   "music": 0.0
+  },
+  {
+   "from": 41.46,
+   "to": 42.74,
+   "sid": 31,
+   "location": 2,
+   "content": "不仅没有让你恢复",
+   "music": 0.0
+  },
+  {
+   "from": 42.74,
+   "to": 44.18,
+   "sid": 32,
+   "location": 2,
+   "content": "反而在加重你的疲劳",
+   "music": 0.0
+  },
+  {
+   "from": 44.18,
+   "to": 45.1,
+   "sid": 33,
+   "location": 2,
+   "content": "更可怕的是",
+   "music": 0.0
+  },
+  {
+   "from": 45.1,
+   "to": 46.26,
+   "sid": 34,
+   "location": 2,
+   "content": "99%的人",
+   "music": 0.0
+  },
+  {
+   "from": 46.26,
+   "to": 48.16,
+   "sid": 35,
+   "location": 2,
+   "content": "根本不知道什么是真正的休息",
+   "music": 0.0
+  },
+  {
+   "from": 48.16,
+   "to": 49.34,
+   "sid": 36,
+   "location": 2,
+   "content": "他们累了就躺着",
+   "music": 0.0
+  },
+  {
+   "from": 49.34,
+   "to": 50.42,
+   "sid": 37,
+   "location": 2,
+   "content": "躺着就刷手机",
+   "music": 0.0
+  },
+  {
+   "from": 50.42,
+   "to": 51.26,
+   "sid": 38,
+   "location": 2,
+   "content": "刷完更累",
+   "music": 0.0
+  },
+  {
+   "from": 51.26,
+   "to": 52.12,
+   "sid": 39,
+   "location": 2,
+   "content": "然后继续躺",
+   "music": 0.0
+  },
+  {
+   "from": 52.12,
+   "to": 54.2,
+   "sid": 40,
+   "location": 2,
+   "content": "进入一个永远走不出的疲劳循环",
+   "music": 0.0
+  },
+  {
+   "from": 54.2,
+   "to": 56.48,
+   "sid": 41,
+   "location": 2,
+   "content": "但那1%懂得深度休息的人呢",
+   "music": 0.0
+  },
+  {
+   "from": 56.48,
+   "to": 57.96,
+   "sid": 42,
+   "location": 2,
+   "content": "他们工作强度比你大",
+   "music": 0.0
+  },
+  {
+   "from": 57.96,
+   "to": 59.14,
+   "sid": 43,
+   "location": 2,
+   "content": "睡眠时间比你少",
+   "music": 0.0
+  },
+  {
+   "from": 59.14,
+   "to": 60.36,
+   "sid": 44,
+   "location": 2,
+   "content": "却总是精力充沛",
+   "music": 0.0
+  },
+  {
+   "from": 60.36,
+   "to": 61.18,
+   "sid": 45,
+   "location": 2,
+   "content": "情绪稳定",
+   "music": 0.0
+  },
+  {
+   "from": 61.18,
+   "to": 62.14,
+   "sid": 46,
+   "location": 2,
+   "content": "创造力爆棚",
+   "music": 0.0
+  },
+  {
+   "from": 62.14,
+   "to": 63.68,
+   "sid": 47,
+   "location": 2,
+   "content": "差距就是这么拉开的",
+   "music": 0.0
+  },
+  {
+   "from": 63.68,
+   "to": 64.86,
+   "sid": 48,
+   "location": 2,
+   "content": "接下来我要说的",
+   "music": 0.0
+  },
+  {
+   "from": 64.86,
+   "to": 67.08,
+   "sid": 49,
+   "location": 2,
+   "content": "会彻底推翻你对休息的所有认知",
+   "music": 0.0
+  },
+  {
+   "from": 67.08,
+   "to": 68.56,
+   "sid": 50,
+   "location": 2,
+   "content": "如果你看完还是觉得累",
+   "music": 0.0
+  },
+  {
+   "from": 68.56,
+   "to": 69.66,
+   "sid": 51,
+   "location": 2,
+   "content": "那不是你的问题",
+   "music": 0.0
+  },
+  {
+   "from": 69.66,
+   "to": 70.98,
+   "sid": 52,
+   "location": 2,
+   "content": "是这篇文章的问题",
+   "music": 0.0
+  },
+  {
+   "from": 70.98,
+   "to": 73.0,
+   "sid": 53,
+   "location": 2,
+   "content": "先说一个你绝对想不到的真相",
+   "music": 0.0
+  },
+  {
+   "from": 73.0,
+   "to": 75.76,
+   "sid": 54,
+   "location": 2,
+   "content": "35岁的张伟互联网公司产品经理",
+   "music": 0.0
+  },
+  {
+   "from": 75.76,
+   "to": 78.1,
+   "sid": 55,
+   "location": 2,
+   "content": "三个月前开始出现一个诡异的症状",
+   "music": 0.0
+  },
+  {
+   "from": 78.1,
+   "to": 79.54,
+   "sid": 56,
+   "location": 2,
+   "content": "每天工作到下午三点",
+   "music": 0.0
+  },
+  {
+   "from": 79.54,
+   "to": 80.92,
+   "sid": 57,
+   "location": 2,
+   "content": "大脑就像死机了一样",
+   "music": 0.0
+  },
+  {
+   "from": 80.92,
+   "to": 82.7,
+   "sid": 58,
+   "location": 2,
+   "content": "看着电脑屏幕上的需求文档",
+   "music": 0.0
+  },
+  {
+   "from": 82.7,
+   "to": 83.96,
+   "sid": 59,
+   "location": 2,
+   "content": "一个字都看不进去",
+   "music": 0.0
+  },
+  {
+   "from": 83.96,
+   "to": 85.56,
+   "sid": 60,
+   "location": 2,
+   "content": "她以为是工作压力太大",
+   "music": 0.0
+  },
+  {
+   "from": 85.56,
+   "to": 86.6,
+   "sid": 61,
+   "location": 2,
+   "content": "申请了一周年假",
+   "music": 0.0
+  },
+  {
+   "from": 86.6,
+   "to": 87.68,
+   "sid": 62,
+   "location": 2,
+   "content": "打算好好休息",
+   "music": 0.0
+  },
+  {
+   "from": 87.68,
+   "to": 89.04,
+   "sid": 63,
+   "location": 2,
+   "content": "这一周他什么都没做",
+   "music": 0.0
+  },
+  {
+   "from": 89.04,
+   "to": 90.24,
+   "sid": 64,
+   "location": 2,
+   "content": "每天睡到自然醒",
+   "music": 0.0
+  },
+  {
+   "from": 90.24,
+   "to": 91.6,
+   "sid": 65,
+   "location": 2,
+   "content": "躺在床上刷短视频",
+   "music": 0.0
+  },
+  {
+   "from": 91.6,
+   "to": 92.8,
+   "sid": 66,
+   "location": 2,
+   "content": "打游戏看剧",
+   "music": 0.0
+  },
+  {
+   "from": 92.8,
+   "to": 93.76,
+   "sid": 67,
+   "location": 2,
+   "content": "但奇怪的是",
+   "music": 0.0
+  },
+  {
+   "from": 93.76,
+   "to": 94.44,
+   "sid": 68,
+   "location": 2,
+   "content": "休息了一周",
+   "music": 0.0
+  },
+  {
+   "from": 94.44,
+   "to": 95.14,
+   "sid": 69,
+   "location": 2,
+   "content": "回到公司",
+   "music": 0.0
+  },
+  {
+   "from": 95.14,
+   "to": 96.64,
+   "sid": 70,
+   "location": 2,
+   "content": "她的状态不仅没好转",
+   "music": 0.0
+  },
+  {
+   "from": 96.64,
+   "to": 97.52,
+   "sid": 71,
+   "location": 2,
+   "content": "反而更差了",
+   "music": 0.0
+  },
+  {
+   "from": 97.52,
+   "to": 98.68,
+   "sid": 72,
+   "location": 2,
+   "content": "注意力更难集中",
+   "music": 0.0
+  },
+  {
+   "from": 98.68,
+   "to": 99.94,
+   "sid": 73,
+   "location": 2,
+   "content": "情绪更容易烦躁",
+   "music": 0.0
+  },
+  {
+   "from": 99.94,
+   "to": 101.04,
+   "sid": 74,
+   "location": 2,
+   "content": "甚至开始失眠",
+   "music": 0.0
+  },
+  {
+   "from": 101.04,
+   "to": 101.88,
+   "sid": 75,
+   "location": 2,
+   "content": "她崩溃了",
+   "music": 0.0
+  },
+  {
+   "from": 101.88,
+   "to": 103.32,
+   "sid": 76,
+   "location": 2,
+   "content": "去医院做了全身检查",
+   "music": 0.0
+  },
+  {
+   "from": 103.32,
+   "to": 104.44,
+   "sid": 77,
+   "location": 2,
+   "content": "结果一切正常",
+   "music": 0.0
+  },
+  {
+   "from": 104.44,
+   "to": 105.96,
+   "sid": 78,
+   "location": 2,
+   "content": "医生看着他的检查报告",
+   "music": 0.0
+  },
+  {
+   "from": 105.96,
+   "to": 107.42,
+   "sid": 79,
+   "location": 2,
+   "content": "说了一句让他震惊的话",
+   "music": 0.0
+  },
+  {
+   "from": 107.42,
+   "to": 108.6,
+   "sid": 80,
+   "location": 2,
+   "content": "你这不是身体病",
+   "music": 0.0
+  },
+  {
+   "from": 108.6,
+   "to": 110.84,
+   "sid": 81,
+   "location": 2,
+   "content": "是大脑过度使用导致的功能性障碍",
+   "music": 0.0
+  },
+  {
+   "from": 110.84,
+   "to": 111.58,
+   "sid": 82,
+   "location": 2,
+   "content": "什么意思",
+   "music": 0.0
+  },
+  {
+   "from": 111.58,
+   "to": 113.88,
+   "sid": 83,
+   "location": 2,
+   "content": "医生给他推荐了一位神经康复专家",
+   "music": 0.0
+  },
+  {
+   "from": 113.88,
+   "to": 115.58,
+   "sid": 84,
+   "location": 2,
+   "content": "专家看了他的作息记录后",
+   "music": 0.0
+  },
+  {
+   "from": 115.58,
+   "to": 117.46,
+   "sid": 85,
+   "location": 2,
+   "content": "说出了那句改变张伟人生的话",
+   "music": 0.0
+  },
+  {
+   "from": 117.46,
+   "to": 120.14,
+   "sid": 86,
+   "location": 2,
+   "content": "你这一周的休息恰恰是在加重神经疲劳",
+   "music": 0.0
+  },
+  {
+   "from": 120.14,
+   "to": 121.3,
+   "sid": 87,
+   "location": 2,
+   "content": "专家停顿了一下",
+   "music": 0.0
+  },
+  {
+   "from": 121.3,
+   "to": 122.24,
+   "sid": 88,
+   "location": 2,
+   "content": "看着张伟说",
+   "music": 0.0
+  },
+  {
+   "from": 122.24,
+   "to": 123.06,
+   "sid": 89,
+   "location": 2,
+   "content": "刷短视频",
+   "music": 0.0
+  },
+  {
+   "from": 123.06,
+   "to": 123.7,
+   "sid": 90,
+   "location": 2,
+   "content": "打游戏",
+   "music": 0.0
+  },
+  {
+   "from": 123.7,
+   "to": 124.24,
+   "sid": 91,
+   "location": 2,
+   "content": "看剧",
+   "music": 0.0
+  },
+  {
+   "from": 124.24,
+   "to": 125.64,
+   "sid": 92,
+   "location": 2,
+   "content": "这些行为看似放松",
+   "music": 0.0
+  },
+  {
+   "from": 125.64,
+   "to": 128.02,
+   "sid": 93,
+   "location": 2,
+   "content": "实际上是在持续刺激你的多巴胺系统",
+   "music": 0.0
+  },
+  {
+   "from": 128.02,
+   "to": 130.16,
+   "sid": 94,
+   "location": 2,
+   "content": "让你的大脑一直处于高唤醒状态",
+   "music": 0.0
+  },
+  {
+   "from": 130.16,
+   "to": 131.48,
+   "sid": 95,
+   "location": 2,
+   "content": "根本没有真正休息",
+   "music": 0.0
+  },
+  {
+   "from": 131.48,
+   "to": 134.04,
+   "sid": 96,
+   "location": 2,
+   "content": "专家给他设计了一套听起来很佛系的方案",
+   "music": 0.0
+  },
+  {
+   "from": 134.04,
+   "to": 136.04,
+   "sid": 97,
+   "location": 2,
+   "content": "每天早上20分钟正念呼吸",
+   "music": 0.0
+  },
+  {
+   "from": 136.04,
+   "to": 137.86,
+   "sid": 98,
+   "location": 2,
+   "content": "中午30分钟无目的散步",
+   "music": 0.0
+  },
+  {
+   "from": 137.86,
+   "to": 139.46,
+   "sid": 99,
+   "location": 2,
+   "content": "晚上10分钟感官隔离",
+   "music": 0.0
+  },
+  {
+   "from": 139.46,
+   "to": 141.02,
+   "sid": 100,
+   "location": 2,
+   "content": "张伟觉得这简直是胡扯",
+   "music": 0.0
+  },
+  {
+   "from": 141.02,
+   "to": 142.6,
+   "sid": 101,
+   "location": 2,
+   "content": "但他已经走投无路了",
+   "music": 0.0
+  },
+  {
+   "from": 142.6,
+   "to": 143.3,
+   "sid": 102,
+   "location": 2,
+   "content": "两周后",
+   "music": 0.0
+  },
+  {
+   "from": 143.3,
+   "to": 144.24,
+   "sid": 103,
+   "location": 2,
+   "content": "奇迹发生了",
+   "music": 0.0
+  },
+  {
+   "from": 144.24,
+   "to": 146.26,
+   "sid": 104,
+   "location": 2,
+   "content": "下午三点的死机现象消失了",
+   "music": 0.0
+  },
+  {
+   "from": 146.26,
+   "to": 147.34,
+   "sid": 105,
+   "location": 2,
+   "content": "注意力恢复了",
+   "music": 0.0
+  },
+  {
+   "from": 147.34,
+   "to": 148.3,
+   "sid": 106,
+   "location": 2,
+   "content": "情绪稳定了",
+   "music": 0.0
+  },
+  {
+   "from": 148.3,
+   "to": 149.76,
+   "sid": 107,
+   "location": 2,
+   "content": "连多年的失眠都好了",
+   "music": 0.0
+  },
+  {
+   "from": 149.76,
+   "to": 151.1,
+   "sid": 108,
+   "location": 2,
+   "content": "张伟后来说了一句话",
+   "music": 0.0
+  },
+  {
+   "from": 151.1,
+   "to": 152.26,
+   "sid": 109,
+   "location": 2,
+   "content": "我希望你记下来",
+   "music": 0.0
+  },
+  {
+   "from": 152.26,
+   "to": 154.22,
+   "sid": 110,
+   "location": 2,
+   "content": "我以前以为休息就是什么都不做",
+   "music": 0.0
+  },
+  {
+   "from": 154.22,
+   "to": 155.12,
+   "sid": 111,
+   "location": 2,
+   "content": "后来才明白",
+   "music": 0.0
+  },
+  {
+   "from": 155.12,
+   "to": 157.44,
+   "sid": 112,
+   "location": 2,
+   "content": "真正的休息是让大脑进入维护模式",
+   "music": 0.0
+  },
+  {
+   "from": 157.44,
+   "to": 158.6,
+   "sid": 113,
+   "location": 2,
+   "content": "而不是待机模式",
+   "music": 0.0
+  },
+  {
+   "from": 158.6,
+   "to": 159.68,
+   "sid": 114,
+   "location": 2,
+   "content": "但故事还没完",
+   "music": 0.0
+  },
+  {
+   "from": 159.68,
+   "to": 160.96,
+   "sid": 115,
+   "location": 2,
+   "content": "更诡异的在后面",
+   "music": 0.0
+  },
+  {
+   "from": 160.96,
+   "to": 162.1,
+   "sid": 116,
+   "location": 2,
+   "content": "32岁的刘敏",
+   "music": 0.0
+  },
+  {
+   "from": 162.1,
+   "to": 164.02,
+   "sid": 117,
+   "location": 2,
+   "content": "高中老师每天上六节课",
+   "music": 0.0
+  },
+  {
+   "from": 164.02,
+   "to": 165.26,
+   "sid": 118,
+   "location": 2,
+   "content": "批改上百份作业",
+   "music": 0.0
+  },
+  {
+   "from": 165.26,
+   "to": 165.9,
+   "sid": 119,
+   "location": 2,
+   "content": "半年前",
+   "music": 0.0
+  },
+  {
+   "from": 165.9,
+   "to": 167.74,
+   "sid": 120,
+   "location": 2,
+   "content": "他开始出现严重的情绪问题",
+   "music": 0.0
+  },
+  {
+   "from": 167.74,
+   "to": 169.24,
+   "sid": 121,
+   "location": 2,
+   "content": "对学生越来越没耐心",
+   "music": 0.0
+  },
+  {
+   "from": 169.24,
+   "to": 170.6,
+   "sid": 122,
+   "location": 2,
+   "content": "经常因为小事发火",
+   "music": 0.0
+  },
+  {
+   "from": 170.6,
+   "to": 171.5,
+   "sid": 123,
+   "location": 2,
+   "content": "回家就想哭",
+   "music": 0.0
+  },
+  {
+   "from": 171.5,
+   "to": 172.48,
+   "sid": 124,
+   "location": 2,
+   "content": "但又哭不出来",
+   "music": 0.0
+  },
+  {
+   "from": 172.48,
+   "to": 174.0,
+   "sid": 125,
+   "location": 2,
+   "content": "整个人像被抽空了一样",
+   "music": 0.0
+  },
+  {
+   "from": 174.0,
+   "to": 175.48,
+   "sid": 126,
+   "location": 2,
+   "content": "她以为自己得了抑郁症",
+   "music": 0.0
+  },
+  {
+   "from": 175.48,
+   "to": 177.44,
+   "sid": 127,
+   "location": 2,
+   "content": "心理医生给他做了一系列测试",
+   "music": 0.0
+  },
+  {
+   "from": 177.44,
+   "to": 178.46,
+   "sid": 128,
+   "location": 2,
+   "content": "结论让他意外",
+   "music": 0.0
+  },
+  {
+   "from": 178.46,
+   "to": 179.36,
+   "sid": 129,
+   "location": 2,
+   "content": "你不是抑郁症",
+   "music": 0.0
+  },
+  {
+   "from": 179.36,
+   "to": 180.86,
+   "sid": 130,
+   "location": 2,
+   "content": "你是典型的情绪耗竭",
+   "music": 0.0
+  },
+  {
+   "from": 180.86,
+   "to": 182.54,
+   "sid": 131,
+   "location": 2,
+   "content": "这是神经疲劳的一种表现",
+   "music": 0.0
+  },
+  {
+   "from": 182.54,
+   "to": 184.58,
+   "sid": 132,
+   "location": 2,
+   "content": "你的大脑前额叶皮层过度使用",
+   "music": 0.0
+  },
+  {
+   "from": 184.58,
+   "to": 186.26,
+   "sid": 133,
+   "location": 2,
+   "content": "导致情绪调节功能失调",
+   "music": 0.0
+  },
+  {
+   "from": 186.26,
+   "to": 188.38,
+   "sid": 134,
+   "location": 2,
+   "content": "医生建议他尝试主动恢复训练",
+   "music": 0.0
+  },
+  {
+   "from": 188.38,
+   "to": 190.12,
+   "sid": 135,
+   "location": 2,
+   "content": "具体方法听起来很简单",
+   "music": 0.0
+  },
+  {
+   "from": 190.12,
+   "to": 192.06,
+   "sid": 136,
+   "location": 2,
+   "content": "每天下班后不要立即回家",
+   "music": 0.0
+  },
+  {
+   "from": 192.06,
+   "to": 192.9,
+   "sid": 137,
+   "location": 2,
+   "content": "去附近公园",
+   "music": 0.0
+  },
+  {
+   "from": 192.9,
+   "to": 194.26,
+   "sid": 138,
+   "location": 2,
+   "content": "找个安静地方坐下来",
+   "music": 0.0
+  },
+  {
+   "from": 194.26,
+   "to": 195.1,
+   "sid": 139,
+   "location": 2,
+   "content": "什么都不想",
+   "music": 0.0
+  },
+  {
+   "from": 195.1,
+   "to": 196.42,
+   "sid": 140,
+   "location": 2,
+   "content": "只是观察周围环境",
+   "music": 0.0
+  },
+  {
+   "from": 196.42,
+   "to": 197.62,
+   "sid": 141,
+   "location": 2,
+   "content": "看树叶怎么摇动",
+   "music": 0.0
+  },
+  {
+   "from": 197.62,
+   "to": 199.02,
+   "sid": 142,
+   "location": 2,
+   "content": "听鸟叫声怎么变化",
+   "music": 0.0
+  },
+  {
+   "from": 199.02,
+   "to": 200.68,
+   "sid": 143,
+   "location": 2,
+   "content": "感受风吹在脸上的感觉",
+   "music": 0.0
+  },
+  {
+   "from": 200.68,
+   "to": 201.82,
+   "sid": 144,
+   "location": 2,
+   "content": "一开始他坐不住",
+   "music": 0.0
+  },
+  {
+   "from": 201.82,
+   "to": 202.88,
+   "sid": 145,
+   "location": 2,
+   "content": "5分钟就想走",
+   "music": 0.0
+  },
+  {
+   "from": 202.88,
+   "to": 204.42,
+   "sid": 146,
+   "location": 2,
+   "content": "但医生说这很正常",
+   "music": 0.0
+  },
+  {
+   "from": 204.42,
+   "to": 206.36,
+   "sid": 147,
+   "location": 2,
+   "content": "你的大脑已经习惯了高速运转",
+   "music": 0.0
+  },
+  {
+   "from": 206.36,
+   "to": 208.24,
+   "sid": 148,
+   "location": 2,
+   "content": "现在要训练它学会慢下来",
+   "music": 0.0
+  },
+  {
+   "from": 208.24,
+   "to": 209.32,
+   "sid": 149,
+   "location": 2,
+   "content": "他坚持了一个月",
+   "music": 0.0
+  },
+  {
+   "from": 209.32,
+   "to": 211.44,
+   "sid": 150,
+   "location": 2,
+   "content": "从5分钟慢慢延长到30分钟",
+   "music": 0.0
+  },
+  {
+   "from": 211.44,
+   "to": 213.44,
+   "sid": 151,
+   "location": 2,
+   "content": "一个月后他发现情绪稳定多了",
+   "music": 0.0
+  },
+  {
+   "from": 213.44,
+   "to": 214.56,
+   "sid": 152,
+   "location": 2,
+   "content": "不再动不动发火",
+   "music": 0.0
+  },
+  {
+   "from": 214.56,
+   "to": 215.8,
+   "sid": 153,
+   "location": 2,
+   "content": "对学生也有耐心了",
+   "music": 0.0
+  },
+  {
+   "from": 215.8,
+   "to": 216.68,
+   "sid": 154,
+   "location": 2,
+   "content": "更神奇的是",
+   "music": 0.0
+  },
+  {
+   "from": 216.68,
+   "to": 218.16,
+   "sid": 155,
+   "location": 2,
+   "content": "工作效率反而提高了",
+   "music": 0.0
+  },
+  {
+   "from": 218.16,
+   "to": 220.16,
+   "sid": 156,
+   "location": 2,
+   "content": "以前批改一份作业需要5分钟",
+   "music": 0.0
+  },
+  {
+   "from": 220.16,
+   "to": 221.44,
+   "sid": 157,
+   "location": 2,
+   "content": "现在只需要3分钟",
+   "music": 0.0
+  },
+  {
+   "from": 221.44,
+   "to": 222.78,
+   "sid": 158,
+   "location": 2,
+   "content": "因为注意力更集中了",
+   "music": 0.0
+  },
+  {
+   "from": 222.78,
+   "to": 223.56,
+   "sid": 159,
+   "location": 2,
+   "content": "你发现没有",
+   "music": 0.0
+  },
+  {
+   "from": 223.56,
+   "to": 225.14,
+   "sid": 160,
+   "location": 2,
+   "content": "这两个故事有一个共同点",
+   "music": 0.0
+  },
+  {
+   "from": 225.14,
+   "to": 227.32,
+   "sid": 161,
+   "location": 2,
+   "content": "而这个共同点恰恰是神经科学家",
+   "music": 0.0
+  },
+  {
+   "from": 227.32,
+   "to": 228.84,
+   "sid": 162,
+   "location": 2,
+   "content": "最近10年才发现的秘密",
+   "music": 0.0
+  },
+  {
+   "from": 228.84,
+   "to": 231.66,
+   "sid": 163,
+   "location": 2,
+   "content": "现在我要告诉你三个会颠覆你认知的真相",
+   "music": 0.0
+  },
+  {
+   "from": 231.66,
+   "to": 232.5,
+   "sid": 164,
+   "location": 2,
+   "content": "第一个真相",
+   "music": 0.0
+  },
+  {
+   "from": 232.5,
+   "to": 234.46,
+   "sid": 165,
+   "location": 2,
+   "content": "你以为累了睡觉就好错了",
+   "music": 0.0
+  },
+  {
+   "from": 234.46,
+   "to": 236.7,
+   "sid": 166,
+   "location": 2,
+   "content": "哈佛医学院的神经科学家马修沃克",
+   "music": 0.0
+  },
+  {
+   "from": 236.7,
+   "to": 238.56,
+   "sid": 167,
+   "location": 2,
+   "content": "研究了睡眠对大脑的修复作用",
+   "music": 0.0
+  },
+  {
+   "from": 238.56,
+   "to": 239.96,
+   "sid": 168,
+   "location": 2,
+   "content": "发现一个惊人的事实",
+   "music": 0.0
+  },
+  {
+   "from": 239.96,
+   "to": 241.88,
+   "sid": 169,
+   "location": 2,
+   "content": "普通睡眠只能修复物理疲劳",
+   "music": 0.0
+  },
+  {
+   "from": 241.88,
+   "to": 243.46,
+   "sid": 170,
+   "location": 2,
+   "content": "也就是神经递质的消耗",
+   "music": 0.0
+  },
+  {
+   "from": 243.46,
+   "to": 244.98,
+   "sid": 171,
+   "location": 2,
+   "content": "但无法修复神经疲劳",
+   "music": 0.0
+  },
+  {
+   "from": 244.98,
+   "to": 246.54,
+   "sid": 172,
+   "location": 2,
+   "content": "也就是神经网络的损伤",
+   "music": 0.0
+  },
+  {
+   "from": 246.54,
+   "to": 248.2,
+   "sid": 173,
+   "location": 2,
+   "content": "真正能修复神经疲劳的",
+   "music": 0.0
+  },
+  {
+   "from": 248.2,
+   "to": 250.2,
+   "sid": 174,
+   "location": 2,
+   "content": "是一种叫慢波睡眠的深度睡眠",
+   "music": 0.0
+  },
+  {
+   "from": 250.2,
+   "to": 251.56,
+   "sid": 175,
+   "location": 2,
+   "content": "但现代人由于压力",
+   "music": 0.0
+  },
+  {
+   "from": 251.56,
+   "to": 253.12,
+   "sid": 176,
+   "location": 2,
+   "content": "蓝光咖啡因等因素",
+   "music": 0.0
+  },
+  {
+   "from": 253.12,
+   "to": 254.88,
+   "sid": 177,
+   "location": 2,
+   "content": "慢波睡眠的比例越来越低",
+   "music": 0.0
+  },
+  {
+   "from": 254.88,
+   "to": 255.72,
+   "sid": 178,
+   "location": 2,
+   "content": "研究发现",
+   "music": 0.0
+  },
+  {
+   "from": 255.72,
+   "to": 257.42,
+   "sid": 179,
+   "location": 2,
+   "content": "一个正常成年人的慢波睡眠",
+   "music": 0.0
+  },
+  {
+   "from": 257.42,
+   "to": 259.38,
+   "sid": 180,
+   "location": 2,
+   "content": "应该占总睡眠时间的20%",
+   "music": 0.0
+  },
+  {
+   "from": 259.38,
+   "to": 260.339,
+   "sid": 181,
+   "location": 2,
+   "content": "到25%",
+   "music": 0.0
+  },
+  {
+   "from": 260.339,
+   "to": 261.939,
+   "sid": 182,
+   "location": 2,
+   "content": "但现在都市人的平均比例",
+   "music": 0.0
+  },
+  {
+   "from": 261.939,
+   "to": 263.579,
+   "sid": 183,
+   "location": 2,
+   "content": "只有10%到15%",
+   "music": 0.0
+  },
+  {
+   "from": 263.579,
+   "to": 266.099,
+   "sid": 184,
+   "location": 2,
+   "content": "这就是为什么你睡了十个小时还是觉得累",
+   "music": 0.0
+  },
+  {
+   "from": 266.099,
+   "to": 268.46,
+   "sid": 185,
+   "location": 2,
+   "content": "你的大脑根本没有进入深度维护模式",
+   "music": 0.0
+  },
+  {
+   "from": 268.46,
+   "to": 271.42,
+   "sid": 186,
+   "location": 2,
+   "content": "斯坦福大学的神经科学家安德鲁胡伯曼发现",
+   "music": 0.0
+  },
+  {
+   "from": 271.42,
+   "to": 273.18,
+   "sid": 187,
+   "location": 2,
+   "content": "人类大脑有两种工作模式",
+   "music": 0.0
+  },
+  {
+   "from": 273.18,
+   "to": 274.14,
+   "sid": 188,
+   "location": 2,
+   "content": "一种是任务证",
+   "music": 0.0
+  },
+  {
+   "from": 274.14,
+   "to": 275.9,
+   "sid": 189,
+   "location": 2,
+   "content": "网络负责执行具体任务",
+   "music": 0.0
+  },
+  {
+   "from": 275.9,
+   "to": 277.24,
+   "sid": 190,
+   "location": 2,
+   "content": "比如工作学习",
+   "music": 0.0
+  },
+  {
+   "from": 277.24,
+   "to": 278.18,
+   "sid": 191,
+   "location": 2,
+   "content": "解决问题",
+   "music": 0.0
+  },
+  {
+   "from": 278.18,
+   "to": 279.64,
+   "sid": 192,
+   "location": 2,
+   "content": "另一种是默认模式",
+   "music": 0.0
+  },
+  {
+   "from": 279.64,
+   "to": 280.94,
+   "sid": 193,
+   "location": 2,
+   "content": "网络负责整合信息",
+   "music": 0.0
+  },
+  {
+   "from": 280.94,
+   "to": 281.74,
+   "sid": 194,
+   "location": 2,
+   "content": "巩固记忆",
+   "music": 0.0
+  },
+  {
+   "from": 281.74,
+   "to": 282.6,
+   "sid": 195,
+   "location": 2,
+   "content": "产生创意",
+   "music": 0.0
+  },
+  {
+   "from": 282.6,
+   "to": 283.78,
+   "sid": 196,
+   "location": 2,
+   "content": "现代人的问题是",
+   "music": 0.0
+  },
+  {
+   "from": 283.78,
+   "to": 285.46,
+   "sid": 197,
+   "location": 2,
+   "content": "任务证网络过度激活",
+   "music": 0.0
+  },
+  {
+   "from": 285.46,
+   "to": 287.14,
+   "sid": 198,
+   "location": 2,
+   "content": "默认模式网络严重不足",
+   "music": 0.0
+  },
+  {
+   "from": 287.14,
+   "to": 289.54,
+   "sid": 199,
+   "location": 2,
+   "content": "而真正的深度休息就是让默认模式",
+   "music": 0.0
+  },
+  {
+   "from": 289.54,
+   "to": 290.64,
+   "sid": 200,
+   "location": 2,
+   "content": "网络重新激活",
+   "music": 0.0
+  },
+  {
+   "from": 290.64,
+   "to": 291.52,
+   "sid": 201,
+   "location": 2,
+   "content": "但问题来了",
+   "music": 0.0
+  },
+  {
+   "from": 291.52,
+   "to": 293.32,
+   "sid": 202,
+   "location": 2,
+   "content": "为什么有些人工作强度很大",
+   "music": 0.0
+  },
+  {
+   "from": 293.32,
+   "to": 294.54,
+   "sid": 203,
+   "location": 2,
+   "content": "却依然精力充沛",
+   "music": 0.0
+  },
+  {
+   "from": 294.54,
+   "to": 295.94,
+   "sid": 204,
+   "location": 2,
+   "content": "有些人工作强度不大",
+   "music": 0.0
+  },
+  {
+   "from": 295.94,
+   "to": 297.1,
+   "sid": 205,
+   "location": 2,
+   "content": "却总是感觉疲惫",
+   "music": 0.0
+  },
+  {
+   "from": 297.1,
+   "to": 299.96,
+   "sid": 206,
+   "location": 2,
+   "content": "难道深度休息是一种只有少数人掌握的秘密",
+   "music": 0.0
+  },
+  {
+   "from": 299.96,
+   "to": 301.58,
+   "sid": 207,
+   "location": 2,
+   "content": "答案藏在第二个真相里",
+   "music": 0.0
+  },
+  {
+   "from": 301.58,
+   "to": 302.42,
+   "sid": 208,
+   "location": 2,
+   "content": "第二个真相",
+   "music": 0.0
+  },
+  {
+   "from": 302.42,
+   "to": 304.72,
+   "sid": 209,
+   "location": 2,
+   "content": "你以为刷手机看剧是放松错了",
+   "music": 0.0
+  },
+  {
+   "from": 304.72,
+   "to": 306.18,
+   "sid": 210,
+   "location": 2,
+   "content": "这恰恰是在加重疲劳",
+   "music": 0.0
+  },
+  {
+   "from": 306.18,
+   "to": 307.48,
+   "sid": 211,
+   "location": 2,
+   "content": "神经科学研究发现",
+   "music": 0.0
+  },
+  {
+   "from": 307.48,
+   "to": 308.3,
+   "sid": 212,
+   "location": 2,
+   "content": "刷短视频",
+   "music": 0.0
+  },
+  {
+   "from": 308.3,
+   "to": 309.34,
+   "sid": 213,
+   "location": 2,
+   "content": "打游戏看剧",
+   "music": 0.0
+  },
+  {
+   "from": 309.34,
+   "to": 311.44,
+   "sid": 214,
+   "location": 2,
+   "content": "这些活动不仅无法让大脑休息",
+   "music": 0.0
+  },
+  {
+   "from": 311.44,
+   "to": 312.86,
+   "sid": 215,
+   "location": 2,
+   "content": "反而会加重神经疲劳",
+   "music": 0.0
+  },
+  {
+   "from": 312.86,
+   "to": 313.62,
+   "sid": 216,
+   "location": 2,
+   "content": "原因在于",
+   "music": 0.0
+  },
+  {
+   "from": 313.62,
+   "to": 316.06,
+   "sid": 217,
+   "location": 2,
+   "content": "这些活动会持续刺激大脑的奖励回路",
+   "music": 0.0
+  },
+  {
+   "from": 316.06,
+   "to": 318.18,
+   "sid": 218,
+   "location": 2,
+   "content": "让多巴胺系统一直处于激活状态",
+   "music": 0.0
+  },
+  {
+   "from": 318.18,
+   "to": 319.74,
+   "sid": 219,
+   "location": 2,
+   "content": "多巴胺是一种神经递质",
+   "music": 0.0
+  },
+  {
+   "from": 319.74,
+   "to": 321.86,
+   "sid": 220,
+   "location": 2,
+   "content": "它的作用是让你产生想要的感觉",
+   "music": 0.0
+  },
+  {
+   "from": 321.86,
+   "to": 323.06,
+   "sid": 221,
+   "location": 2,
+   "content": "当你刷短视频时",
+   "music": 0.0
+  },
+  {
+   "from": 323.06,
+   "to": 324.56,
+   "sid": 222,
+   "location": 2,
+   "content": "每刷到一个有趣的视频",
+   "music": 0.0
+  },
+  {
+   "from": 324.56,
+   "to": 326.22,
+   "sid": 223,
+   "location": 2,
+   "content": "大脑就会释放一次多巴胺",
+   "music": 0.0
+  },
+  {
+   "from": 326.22,
+   "to": 327.58,
+   "sid": 224,
+   "location": 2,
+   "content": "让你想继续刷下去",
+   "music": 0.0
+  },
+  {
+   "from": 327.58,
+   "to": 329.02,
+   "sid": 225,
+   "location": 2,
+   "content": "这个过程看似放松",
+   "music": 0.0
+  },
+  {
+   "from": 329.02,
+   "to": 331.1,
+   "sid": 226,
+   "location": 2,
+   "content": "实际上是在让你的大脑持续工作",
+   "music": 0.0
+  },
+  {
+   "from": 331.1,
+   "to": 333.42,
+   "sid": 227,
+   "location": 2,
+   "content": "而且是以一种高频切换的方式工作",
+   "music": 0.0
+  },
+  {
+   "from": 333.42,
+   "to": 335.28,
+   "sid": 228,
+   "location": 2,
+   "content": "这比专注工作更消耗大脑",
+   "music": 0.0
+  },
+  {
+   "from": 335.28,
+   "to": 336.18,
+   "sid": 229,
+   "location": 2,
+   "content": "更可怕的是",
+   "music": 0.0
+  },
+  {
+   "from": 336.18,
+   "to": 337.64,
+   "sid": 230,
+   "location": 2,
+   "content": "长期刺激多巴胺系统",
+   "music": 0.0
+  },
+  {
+   "from": 337.64,
+   "to": 339.26,
+   "sid": 231,
+   "location": 2,
+   "content": "会导致多巴胺受体脱敏",
+   "music": 0.0
+  },
+  {
+   "from": 339.26,
+   "to": 340.7,
+   "sid": 232,
+   "location": 2,
+   "content": "你需要越来越强的刺激",
+   "music": 0.0
+  },
+  {
+   "from": 340.7,
+   "to": 342.02,
+   "sid": 233,
+   "location": 2,
+   "content": "才能获得同样的快感",
+   "music": 0.0
+  },
+  {
+   "from": 342.02,
+   "to": 344.42,
+   "sid": 234,
+   "location": 2,
+   "content": "这就是为什么很多人刷手机刷到凌晨",
+   "music": 0.0
+  },
+  {
+   "from": 344.42,
+   "to": 345.4,
+   "sid": 235,
+   "location": 2,
+   "content": "不是因为有趣",
+   "music": 0.0
+  },
+  {
+   "from": 345.4,
+   "to": 346.78,
+   "sid": 236,
+   "location": 2,
+   "content": "而是因为停不下来",
+   "music": 0.0
+  },
+  {
+   "from": 346.78,
+   "to": 349.64,
+   "sid": 237,
+   "location": 2,
+   "content": "这种状态神经科学家称之为多巴胺成瘾",
+   "music": 0.0
+  },
+  {
+   "from": 349.64,
+   "to": 351.94,
+   "sid": 238,
+   "location": 2,
+   "content": "它会严重损害大脑的自我修复能力",
+   "music": 0.0
+  },
+  {
+   "from": 351.94,
+   "to": 353.74,
+   "sid": 239,
+   "location": 2,
+   "content": "但最颠覆的是第三个真相",
+   "music": 0.0
+  },
+  {
+   "from": 353.74,
+   "to": 354.64,
+   "sid": 240,
+   "location": 2,
+   "content": "第三个真相",
+   "music": 0.0
+  },
+  {
+   "from": 354.64,
+   "to": 356.64,
+   "sid": 241,
+   "location": 2,
+   "content": "你以为劳逸结合就够了错了",
+   "music": 0.0
+  },
+  {
+   "from": 356.64,
+   "to": 358.28,
+   "sid": 242,
+   "location": 2,
+   "content": "这是最低效的休息方式",
+   "music": 0.0
+  },
+  {
+   "from": 358.28,
+   "to": 359.96,
+   "sid": 243,
+   "location": 2,
+   "content": "那些时间管理大师告诉你",
+   "music": 0.0
+  },
+  {
+   "from": 359.96,
+   "to": 361.56,
+   "sid": 244,
+   "location": 2,
+   "content": "工作一小时休息10分钟",
+   "music": 0.0
+  },
+  {
+   "from": 361.56,
+   "to": 362.86,
+   "sid": 245,
+   "location": 2,
+   "content": "但如果你真的试过",
+   "music": 0.0
+  },
+  {
+   "from": 362.86,
+   "to": 365.6,
+   "sid": 246,
+   "location": 2,
+   "content": "你会发现这种方法对神经疲劳根本不管用",
+   "music": 0.0
+  },
+  {
+   "from": 365.6,
+   "to": 367.7,
+   "sid": 247,
+   "location": 2,
+   "content": "你休息了10分钟回来继续工作",
+   "music": 0.0
+  },
+  {
+   "from": 367.7,
+   "to": 368.78,
+   "sid": 248,
+   "location": 2,
+   "content": "大脑还是很累",
+   "music": 0.0
+  },
+  {
+   "from": 368.78,
+   "to": 370.28,
+   "sid": 249,
+   "location": 2,
+   "content": "甚至更难集中注意力",
+   "music": 0.0
+  },
+  {
+   "from": 370.28,
+   "to": 373.02,
+   "sid": 250,
+   "location": 2,
+   "content": "原因在于神经疲劳的修复不是线性的",
+   "music": 0.0
+  },
+  {
+   "from": 373.02,
+   "to": 374.04,
+   "sid": 251,
+   "location": 2,
+   "content": "而是预制式的",
+   "music": 0.0
+  },
+  {
+   "from": 374.04,
+   "to": 374.82,
+   "sid": 252,
+   "location": 2,
+   "content": "具体来说",
+   "music": 0.0
+  },
+  {
+   "from": 374.82,
+   "to": 375.96,
+   "sid": 253,
+   "location": 2,
+   "content": "大脑的清洁系统",
+   "music": 0.0
+  },
+  {
+   "from": 375.96,
+   "to": 377.98,
+   "sid": 254,
+   "location": 2,
+   "content": "也就是清除代谢废物的淋巴系统",
+   "music": 0.0
+  },
+  {
+   "from": 377.98,
+   "to": 379.82,
+   "sid": 255,
+   "location": 2,
+   "content": "只有在你进入深度放松状态",
+   "music": 0.0
+  },
+  {
+   "from": 379.82,
+   "to": 381.64,
+   "sid": 256,
+   "location": 2,
+   "content": "超过20分钟后才会启动",
+   "music": 0.0
+  },
+  {
+   "from": 381.64,
+   "to": 383.12,
+   "sid": 257,
+   "location": 2,
+   "content": "如果你只休息10分钟",
+   "music": 0.0
+  },
+  {
+   "from": 383.12,
+   "to": 385.2,
+   "sid": 258,
+   "location": 2,
+   "content": "大脑的清洁系统还没来得及启动",
+   "music": 0.0
+  },
+  {
+   "from": 385.2,
+   "to": 386.48,
+   "sid": 259,
+   "location": 2,
+   "content": "你就又开始工作了",
+   "music": 0.0
+  },
+  {
+   "from": 386.48,
+   "to": 389.54,
+   "sid": 260,
+   "location": 2,
+   "content": "那这10分钟的休息只是让你的注意力暂时转移",
+   "music": 0.0
+  },
+  {
+   "from": 389.54,
+   "to": 391.32,
+   "sid": 261,
+   "location": 2,
+   "content": "并没有真正修复神经疲劳",
+   "music": 0.0
+  },
+  {
+   "from": 391.32,
+   "to": 392.16,
+   "sid": 262,
+   "location": 2,
+   "content": "更关键的是",
+   "music": 0.0
+  },
+  {
+   "from": 392.16,
+   "to": 393.92,
+   "sid": 263,
+   "location": 2,
+   "content": "大脑的修复需要模式切换",
+   "music": 0.0
+  },
+  {
+   "from": 393.92,
+   "to": 396.32,
+   "sid": 264,
+   "location": 2,
+   "content": "当你从工作状态切换到休息状态时",
+   "music": 0.0
+  },
+  {
+   "from": 396.32,
+   "to": 397.74,
+   "sid": 265,
+   "location": 2,
+   "content": "大脑需要一个过渡期",
+   "music": 0.0
+  },
+  {
+   "from": 397.74,
+   "to": 400.0,
+   "sid": 266,
+   "location": 2,
+   "content": "这个过渡期大约需要五到10分钟",
+   "music": 0.0
+  },
+  {
+   "from": 400.0,
+   "to": 401.34,
+   "sid": 267,
+   "location": 2,
+   "content": "如果你休息时间太短",
+   "music": 0.0
+  },
+  {
+   "from": 401.34,
+   "to": 402.84,
+   "sid": 268,
+   "location": 2,
+   "content": "大脑还没完成模式切换",
+   "music": 0.0
+  },
+  {
+   "from": 402.84,
+   "to": 404.14,
+   "sid": 269,
+   "location": 2,
+   "content": "你就又开始工作了",
+   "music": 0.0
+  },
+  {
+   "from": 404.14,
+   "to": 406.88,
+   "sid": 270,
+   "location": 2,
+   "content": "那你的大脑会一直卡在半工作半休息的状态",
+   "music": 0.0
+  },
+  {
+   "from": 406.88,
+   "to": 408.46,
+   "sid": 271,
+   "location": 2,
+   "content": "这种状态最消耗能量",
+   "music": 0.0
+  },
+  {
+   "from": 408.46,
+   "to": 409.54,
+   "sid": 272,
+   "location": 2,
+   "content": "现在你明白了吧",
+   "music": 0.0
+  },
+  {
+   "from": 409.54,
+   "to": 410.72,
+   "sid": 273,
+   "location": 2,
+   "content": "不是你休息的不够",
+   "music": 0.0
+  },
+  {
+   "from": 410.72,
+   "to": 412.14,
+   "sid": 274,
+   "location": 2,
+   "content": "是你休息的方式错了",
+   "music": 0.0
+  },
+  {
+   "from": 412.14,
+   "to": 413.4,
+   "sid": 275,
+   "location": 2,
+   "content": "但这还不是最关键的",
+   "music": 0.0
+  },
+  {
+   "from": 413.4,
+   "to": 414.36,
+   "sid": 276,
+   "location": 2,
+   "content": "最关键的是",
+   "music": 0.0
+  },
+  {
+   "from": 414.36,
+   "to": 416.54,
+   "sid": 277,
+   "location": 2,
+   "content": "为什么现代人普遍感到神经疲劳",
+   "music": 0.0
+  },
+  {
+   "from": 416.54,
+   "to": 419.16,
+   "sid": 278,
+   "location": 2,
+   "content": "答案藏在大脑进化和现代生活的错配里",
+   "music": 0.0
+  },
+  {
+   "from": 419.16,
+   "to": 422.14,
+   "sid": 279,
+   "location": 2,
+   "content": "人类的大脑是在几10万年进化过程中形成的",
+   "music": 0.0
+  },
+  {
+   "from": 422.14,
+   "to": 424.98,
+   "sid": 280,
+   "location": 2,
+   "content": "它的设计逻辑是应对短期的高强度压力",
+   "music": 0.0
+  },
+  {
+   "from": 424.98,
+   "to": 427.34,
+   "sid": 281,
+   "location": 2,
+   "content": "比如遇到猛兽打猎部落冲突",
+   "music": 0.0
+  },
+  {
+   "from": 427.34,
+   "to": 428.44,
+   "sid": 282,
+   "location": 2,
+   "content": "在这些场景中",
+   "music": 0.0
+  },
+  {
+   "from": 428.44,
+   "to": 430.44,
+   "sid": 283,
+   "location": 2,
+   "content": "大脑会进入战斗或逃跑模式",
+   "music": 0.0
+  },
+  {
+   "from": 430.44,
+   "to": 431.3,
+   "sid": 284,
+   "location": 2,
+   "content": "全力激活",
+   "music": 0.0
+  },
+  {
+   "from": 431.3,
+   "to": 434.3,
+   "sid": 285,
+   "location": 2,
+   "content": "但这种激活只持续几分钟到几小时之后",
+   "music": 0.0
+  },
+  {
+   "from": 434.3,
+   "to": 437.58,
+   "sid": 286,
+   "location": 2,
+   "content": "大脑会进入休息和消化模式进行修复和恢复",
+   "music": 0.0
+  },
+  {
+   "from": 437.58,
+   "to": 439.16,
+   "sid": 287,
+   "location": 2,
+   "content": "但现代生活完全不同",
+   "music": 0.0
+  },
+  {
+   "from": 439.16,
+   "to": 441.3,
+   "sid": 288,
+   "location": 2,
+   "content": "你面对的不是短期的高强度压力",
+   "music": 0.0
+  },
+  {
+   "from": 441.3,
+   "to": 443.1,
+   "sid": 289,
+   "location": 2,
+   "content": "而是长期的中等强度压力",
+   "music": 0.0
+  },
+  {
+   "from": 443.1,
+   "to": 444.14,
+   "sid": 290,
+   "location": 2,
+   "content": "工作的deadline",
+   "music": 0.0
+  },
+  {
+   "from": 444.14,
+   "to": 445.14,
+   "sid": 291,
+   "location": 2,
+   "content": "老板的要求",
+   "music": 0.0
+  },
+  {
+   "from": 445.14,
+   "to": 446.08,
+   "sid": 292,
+   "location": 2,
+   "content": "客户的投诉",
+   "music": 0.0
+  },
+  {
+   "from": 446.08,
+   "to": 447.02,
+   "sid": 293,
+   "location": 2,
+   "content": "房贷的压力",
+   "music": 0.0
+  },
+  {
+   "from": 447.02,
+   "to": 447.94,
+   "sid": 294,
+   "location": 2,
+   "content": "孩子的教育",
+   "music": 0.0
+  },
+  {
+   "from": 447.94,
+   "to": 450.88,
+   "sid": 295,
+   "location": 2,
+   "content": "这些压力不会让你的大脑进入战斗或逃跑模式",
+   "music": 0.0
+  },
+  {
+   "from": 450.88,
+   "to": 453.18,
+   "sid": 296,
+   "location": 2,
+   "content": "但会让你的大脑一直处于警觉状态",
+   "music": 0.0
+  },
+  {
+   "from": 453.18,
+   "to": 454.32,
+   "sid": 297,
+   "location": 2,
+   "content": "无法真正放松",
+   "music": 0.0
+  },
+  {
+   "from": 454.32,
+   "to": 456.9,
+   "sid": 298,
+   "location": 2,
+   "content": "神经科学家把这种状态称为慢性应激",
+   "music": 0.0
+  },
+  {
+   "from": 456.9,
+   "to": 458.28,
+   "sid": 299,
+   "location": 2,
+   "content": "慢性应激的特点是",
+   "music": 0.0
+  },
+  {
+   "from": 458.28,
+   "to": 461.06,
+   "sid": 300,
+   "location": 2,
+   "content": "你的交感神经系统一直处于轻度激活状态",
+   "music": 0.0
+  },
+  {
+   "from": 461.06,
+   "to": 463.56,
+   "sid": 301,
+   "location": 2,
+   "content": "你的皮质醇水平一直处于中等水平",
+   "music": 0.0
+  },
+  {
+   "from": 463.56,
+   "to": 464.96,
+   "sid": 302,
+   "location": 2,
+   "content": "你的大脑一直在待命",
+   "music": 0.0
+  },
+  {
+   "from": 464.96,
+   "to": 466.14,
+   "sid": 303,
+   "location": 2,
+   "content": "等待下一个任务",
+   "music": 0.0
+  },
+  {
+   "from": 466.14,
+   "to": 467.16,
+   "sid": 304,
+   "location": 2,
+   "content": "下一条消息",
+   "music": 0.0
+  },
+  {
+   "from": 467.16,
+   "to": 468.02,
+   "sid": 305,
+   "location": 2,
+   "content": "下一个问题",
+   "music": 0.0
+  },
+  {
+   "from": 468.02,
+   "to": 469.9,
+   "sid": 306,
+   "location": 2,
+   "content": "这种状态持续几天没问题",
+   "music": 0.0
+  },
+  {
+   "from": 469.9,
+   "to": 472.92,
+   "sid": 307,
+   "location": 2,
+   "content": "但持续几个月甚至几年就会导致神经疲劳",
+   "music": 0.0
+  },
+  {
+   "from": 472.92,
+   "to": 475.36,
+   "sid": 308,
+   "location": 2,
+   "content": "你的大脑没有机会进入深度休息模式",
+   "music": 0.0
+  },
+  {
+   "from": 475.36,
+   "to": 476.6,
+   "sid": 309,
+   "location": 2,
+   "content": "进行彻底的修复",
+   "music": 0.0
+  },
+  {
+   "from": 476.6,
+   "to": 477.52,
+   "sid": 310,
+   "location": 2,
+   "content": "更可怕的是",
+   "music": 0.0
+  },
+  {
+   "from": 477.52,
+   "to": 479.24,
+   "sid": 311,
+   "location": 2,
+   "content": "现代科技加剧了这个问题",
+   "music": 0.0
+  },
+  {
+   "from": 479.24,
+   "to": 480.94,
+   "sid": 312,
+   "location": 2,
+   "content": "你的手机24小时开机",
+   "music": 0.0
+  },
+  {
+   "from": 480.94,
+   "to": 482.98,
+   "sid": 313,
+   "location": 2,
+   "content": "你的邮箱随时可能收到新消息",
+   "music": 0.0
+  },
+  {
+   "from": 482.98,
+   "to": 485.0,
+   "sid": 314,
+   "location": 2,
+   "content": "你的微信群随时可能有人艾特你",
+   "music": 0.0
+  },
+  {
+   "from": 485.0,
+   "to": 487.6,
+   "sid": 315,
+   "location": 2,
+   "content": "这意味着你的大脑永远无法真正下班",
+   "music": 0.0
+  },
+  {
+   "from": 487.6,
+   "to": 488.82,
+   "sid": 316,
+   "location": 2,
+   "content": "即使你躺在床上",
+   "music": 0.0
+  },
+  {
+   "from": 488.82,
+   "to": 491.38,
+   "sid": 317,
+   "location": 2,
+   "content": "你的大脑还在潜意识里等待下一个通知",
+   "music": 0.0
+  },
+  {
+   "from": 491.38,
+   "to": 494.74,
+   "sid": 318,
+   "location": 2,
+   "content": "这种永远在线的状态是神经疲劳的最大元凶",
+   "music": 0.0
+  },
+  {
+   "from": 494.74,
+   "to": 496.14,
+   "sid": 319,
+   "location": 2,
+   "content": "从神经化学角度看",
+   "music": 0.0
+  },
+  {
+   "from": 496.14,
+   "to": 498.54,
+   "sid": 320,
+   "location": 2,
+   "content": "神经疲劳的本质是神经递质失衡",
+   "music": 0.0
+  },
+  {
+   "from": 498.54,
+   "to": 500.4,
+   "sid": 321,
+   "location": 2,
+   "content": "大脑有几种关键的神经递质",
+   "music": 0.0
+  },
+  {
+   "from": 500.4,
+   "to": 502.08,
+   "sid": 322,
+   "location": 2,
+   "content": "多巴胺负责动机和奖励",
+   "music": 0.0
+  },
+  {
+   "from": 502.08,
+   "to": 503.96,
+   "sid": 323,
+   "location": 2,
+   "content": "血清素负责情绪和满足感",
+   "music": 0.0
+  },
+  {
+   "from": 503.96,
+   "to": 506.34,
+   "sid": 324,
+   "location": 2,
+   "content": "去甲肾上腺素负责警觉和注意力",
+   "music": 0.0
+  },
+  {
+   "from": 506.34,
+   "to": 507.9,
+   "sid": 325,
+   "location": 2,
+   "content": "盖板负责放松和抑制",
+   "music": 0.0
+  },
+  {
+   "from": 507.9,
+   "to": 508.84,
+   "sid": 326,
+   "location": 2,
+   "content": "正常情况下",
+   "music": 0.0
+  },
+  {
+   "from": 508.84,
+   "to": 511.04,
+   "sid": 327,
+   "location": 2,
+   "content": "这些神经递质处于动态平衡状态",
+   "music": 0.0
+  },
+  {
+   "from": 511.04,
+   "to": 513.0,
+   "sid": 328,
+   "location": 2,
+   "content": "但现代生活会打破这个平衡",
+   "music": 0.0
+  },
+  {
+   "from": 513.0,
+   "to": 514.08,
+   "sid": 329,
+   "location": 2,
+   "content": "长期的工作压力",
+   "music": 0.0
+  },
+  {
+   "from": 514.08,
+   "to": 516.34,
+   "sid": 330,
+   "location": 2,
+   "content": "会过度消耗多巴胺和去甲肾上腺素",
+   "music": 0.0
+  },
+  {
+   "from": 516.34,
+   "to": 518.5,
+   "sid": 331,
+   "location": 2,
+   "content": "导致你感到没动力和注意力涣散",
+   "music": 0.0
+  },
+  {
+   "from": 518.5,
+   "to": 520.84,
+   "sid": 332,
+   "location": 2,
+   "content": "长期的焦虑会抑制血清素的分泌",
+   "music": 0.0
+  },
+  {
+   "from": 520.84,
+   "to": 522.64,
+   "sid": 333,
+   "location": 2,
+   "content": "导致你感到不开心和易怒",
+   "music": 0.0
+  },
+  {
+   "from": 522.64,
+   "to": 525.3,
+   "sid": 334,
+   "location": 2,
+   "content": "长期的高唤醒状态会抑制该巴的分泌",
+   "music": 0.0
+  },
+  {
+   "from": 525.3,
+   "to": 527.04,
+   "sid": 335,
+   "location": 2,
+   "content": "导致你无法放松和失眠",
+   "music": 0.0
+  },
+  {
+   "from": 527.04,
+   "to": 529.7,
+   "sid": 336,
+   "location": 2,
+   "content": "真正的深度休息不是简单的什么都不做",
+   "music": 0.0
+  },
+  {
+   "from": 529.7,
+   "to": 531.06,
+   "sid": 337,
+   "location": 2,
+   "content": "而是通过特定的活动",
+   "music": 0.0
+  },
+  {
+   "from": 531.06,
+   "to": 533.16,
+   "sid": 338,
+   "location": 2,
+   "content": "帮助大脑重建神经递质的平衡",
+   "music": 0.0
+  },
+  {
+   "from": 533.16,
+   "to": 534.22,
+   "sid": 339,
+   "location": 2,
+   "content": "现在问题来了",
+   "music": 0.0
+  },
+  {
+   "from": 534.22,
+   "to": 535.92,
+   "sid": 340,
+   "location": 2,
+   "content": "如果你已经陷入神经疲劳",
+   "music": 0.0
+  },
+  {
+   "from": 535.92,
+   "to": 537.3,
+   "sid": 341,
+   "location": 2,
+   "content": "每天都感觉累的不行",
+   "music": 0.0
+  },
+  {
+   "from": 537.3,
+   "to": 538.1,
+   "sid": 342,
+   "location": 2,
+   "content": "你该怎么办",
+   "music": 0.0
+  },
+  {
+   "from": 538.1,
+   "to": 539.66,
+   "sid": 343,
+   "location": 2,
+   "content": "我要给你五个具体的方法",
+   "music": 0.0
+  },
+  {
+   "from": 539.66,
+   "to": 540.88,
+   "sid": 344,
+   "location": 2,
+   "content": "但在说方法之前",
+   "music": 0.0
+  },
+  {
+   "from": 540.88,
+   "to": 542.18,
+   "sid": 345,
+   "location": 2,
+   "content": "我先问你一个问题",
+   "music": 0.0
+  },
+  {
+   "from": 542.18,
+   "to": 544.24,
+   "sid": 346,
+   "location": 2,
+   "content": "你觉得休息的最大障碍是什么",
+   "music": 0.0
+  },
+  {
+   "from": 544.24,
+   "to": 545.1,
+   "sid": 347,
+   "location": 2,
+   "content": "时间不够",
+   "music": 0.0
+  },
+  {
+   "from": 545.1,
+   "to": 545.9,
+   "sid": 348,
+   "location": 2,
+   "content": "工作太忙",
+   "music": 0.0
+  },
+  {
+   "from": 545.9,
+   "to": 548.22,
+   "sid": 349,
+   "location": 2,
+   "content": "家庭要照顾都不是最大的障碍",
+   "music": 0.0
+  },
+  {
+   "from": 548.22,
+   "to": 550.54,
+   "sid": 350,
+   "location": 2,
+   "content": "是你的大脑已经忘记了怎么休息",
+   "music": 0.0
+  },
+  {
+   "from": 550.54,
+   "to": 552.36,
+   "sid": 351,
+   "location": 2,
+   "content": "第一个方法叫感官隔离",
+   "music": 0.0
+  },
+  {
+   "from": 552.36,
+   "to": 553.3,
+   "sid": 352,
+   "location": 2,
+   "content": "听起来很玄",
+   "music": 0.0
+  },
+  {
+   "from": 553.3,
+   "to": 554.42,
+   "sid": 353,
+   "location": 2,
+   "content": "但原理很简单",
+   "music": 0.0
+  },
+  {
+   "from": 554.42,
+   "to": 557.22,
+   "sid": 354,
+   "location": 2,
+   "content": "现代人的大脑每天要处理海量的感官信息",
+   "music": 0.0
+  },
+  {
+   "from": 557.22,
+   "to": 558.38,
+   "sid": 355,
+   "location": 2,
+   "content": "视觉听觉",
+   "music": 0.0
+  },
+  {
+   "from": 558.38,
+   "to": 558.92,
+   "sid": 356,
+   "location": 2,
+   "content": "触觉",
+   "music": 0.0
+  },
+  {
+   "from": 558.92,
+   "to": 561.7,
+   "sid": 357,
+   "location": 2,
+   "content": "嗅觉这些信息的处理需要消耗大量能量",
+   "music": 0.0
+  },
+  {
+   "from": 561.7,
+   "to": 564.0,
+   "sid": 358,
+   "location": 2,
+   "content": "而且会让你的大脑一直处于输入模式",
+   "music": 0.0
+  },
+  {
+   "from": 564.0,
+   "to": 565.42,
+   "sid": 359,
+   "location": 2,
+   "content": "无法进入整合模式",
+   "music": 0.0
+  },
+  {
+   "from": 565.42,
+   "to": 568.56,
+   "sid": 360,
+   "location": 2,
+   "content": "感官隔离的目的就是暂时切断外界的感官输入",
+   "music": 0.0
+  },
+  {
+   "from": 568.56,
+   "to": 570.78,
+   "sid": 361,
+   "location": 2,
+   "content": "让大脑有机会处理已经输入的信息",
+   "music": 0.0
+  },
+  {
+   "from": 570.78,
+   "to": 571.6,
+   "sid": 362,
+   "location": 2,
+   "content": "具体怎么做",
+   "music": 0.0
+  },
+  {
+   "from": 571.6,
+   "to": 573.02,
+   "sid": 363,
+   "location": 2,
+   "content": "每天找一个安静的地方",
+   "music": 0.0
+  },
+  {
+   "from": 573.02,
+   "to": 574.24,
+   "sid": 364,
+   "location": 2,
+   "content": "关掉所有电子设备",
+   "music": 0.0
+  },
+  {
+   "from": 574.24,
+   "to": 574.92,
+   "sid": 365,
+   "location": 2,
+   "content": "闭上眼睛",
+   "music": 0.0
+  },
+  {
+   "from": 574.92,
+   "to": 576.72,
+   "sid": 366,
+   "location": 2,
+   "content": "带上耳塞或者播放白噪音",
+   "music": 0.0
+  },
+  {
+   "from": 576.72,
+   "to": 579.62,
+   "sid": 367,
+   "location": 2,
+   "content": "让自己处于一个尽可能少的感官刺激的环境中",
+   "music": 0.0
+  },
+  {
+   "from": 579.62,
+   "to": 581.36,
+   "sid": 368,
+   "location": 2,
+   "content": "一开始你可能会感到不适",
+   "music": 0.0
+  },
+  {
+   "from": 581.36,
+   "to": 583.98,
+   "sid": 369,
+   "location": 2,
+   "content": "因为你的大脑已经习惯了持续的感官刺激",
+   "music": 0.0
+  },
+  {
+   "from": 583.98,
+   "to": 585.66,
+   "sid": 370,
+   "location": 2,
+   "content": "但坚持十到15分钟后",
+   "music": 0.0
+  },
+  {
+   "from": 585.66,
+   "to": 587.34,
+   "sid": 371,
+   "location": 2,
+   "content": "你会感到一种深度的放松",
+   "music": 0.0
+  },
+  {
+   "from": 587.34,
+   "to": 588.18,
+   "sid": 372,
+   "location": 2,
+   "content": "这是你的大脑",
+   "music": 0.0
+  },
+  {
+   "from": 588.18,
+   "to": 590.5,
+   "sid": 373,
+   "location": 2,
+   "content": "终于有机会消化白天输入的信息了",
+   "music": 0.0
+  },
+  {
+   "from": 590.5,
+   "to": 591.28,
+   "sid": 374,
+   "location": 2,
+   "content": "研究发现",
+   "music": 0.0
+  },
+  {
+   "from": 591.28,
+   "to": 593.22,
+   "sid": 375,
+   "location": 2,
+   "content": "每天进行15分钟的感官隔离",
+   "music": 0.0
+  },
+  {
+   "from": 593.22,
+   "to": 594.06,
+   "sid": 376,
+   "location": 2,
+   "content": "持续两周",
+   "music": 0.0
+  },
+  {
+   "from": 594.06,
+   "to": 595.92,
+   "sid": 377,
+   "location": 2,
+   "content": "可以显著降低皮质醇水平",
+   "music": 0.0
+  },
+  {
+   "from": 595.92,
+   "to": 596.98,
+   "sid": 378,
+   "location": 2,
+   "content": "改善睡眠质量",
+   "music": 0.0
+  },
+  {
+   "from": 596.98,
+   "to": 597.92,
+   "sid": 379,
+   "location": 2,
+   "content": "提升专注力",
+   "music": 0.0
+  },
+  {
+   "from": 597.92,
+   "to": 599.58,
+   "sid": 380,
+   "location": 2,
+   "content": "进阶的方法是漂浮疗法",
+   "music": 0.0
+  },
+  {
+   "from": 599.58,
+   "to": 602.56,
+   "sid": 381,
+   "location": 2,
+   "content": "也就是在一个完全黑暗隔音恒温的漂浮舱里",
+   "music": 0.0
+  },
+  {
+   "from": 602.56,
+   "to": 603.98,
+   "sid": 382,
+   "location": 2,
+   "content": "漂浮60到90分钟",
+   "music": 0.0
+  },
+  {
+   "from": 603.98,
+   "to": 607.02,
+   "sid": 383,
+   "location": 2,
+   "content": "但如果没有条件在家里进行简单的感官隔离",
+   "music": 0.0
+  },
+  {
+   "from": 607.02,
+   "to": 608.32,
+   "sid": 384,
+   "location": 2,
+   "content": "也能达到类似效果",
+   "music": 0.0
+  },
+  {
+   "from": 608.32,
+   "to": 609.92,
+   "sid": 385,
+   "location": 2,
+   "content": "但光有感官隔离还不够",
+   "music": 0.0
+  },
+  {
+   "from": 609.92,
+   "to": 611.24,
+   "sid": 386,
+   "location": 2,
+   "content": "你还需要第二个方法",
+   "music": 0.0
+  },
+  {
+   "from": 611.24,
+   "to": 612.08,
+   "sid": 387,
+   "location": 2,
+   "content": "正念呼吸",
+   "music": 0.0
+  },
+  {
+   "from": 612.08,
+   "to": 613.84,
+   "sid": 388,
+   "location": 2,
+   "content": "大多数人的呼吸是浅快的",
+   "music": 0.0
+  },
+  {
+   "from": 613.84,
+   "to": 615.18,
+   "sid": 389,
+   "location": 2,
+   "content": "也就是用胸腔呼吸",
+   "music": 0.0
+  },
+  {
+   "from": 615.18,
+   "to": 616.94,
+   "sid": 390,
+   "location": 2,
+   "content": "每分钟呼吸15~20次",
+   "music": 0.0
+  },
+  {
+   "from": 616.94,
+   "to": 619.34,
+   "sid": 391,
+   "location": 2,
+   "content": "这种呼吸方式会激活交感神经系统",
+   "music": 0.0
+  },
+  {
+   "from": 619.34,
+   "to": 621.06,
+   "sid": 392,
+   "location": 2,
+   "content": "让你的大脑处于警觉状态",
+   "music": 0.0
+  },
+  {
+   "from": 621.06,
+   "to": 623.9,
+   "sid": 393,
+   "location": 2,
+   "content": "而正念呼吸的目的是通过改变呼吸模式",
+   "music": 0.0
+  },
+  {
+   "from": 623.9,
+   "to": 625.38,
+   "sid": 394,
+   "location": 2,
+   "content": "激活副交感神经系统",
+   "music": 0.0
+  },
+  {
+   "from": 625.38,
+   "to": 626.92,
+   "sid": 395,
+   "location": 2,
+   "content": "让大脑进入放松状态",
+   "music": 0.0
+  },
+  {
+   "from": 626.92,
+   "to": 629.0,
+   "sid": 396,
+   "location": 2,
+   "content": "具体方法是找一个舒适的姿势",
+   "music": 0.0
+  },
+  {
+   "from": 629.0,
+   "to": 629.92,
+   "sid": 397,
+   "location": 2,
+   "content": "坐下或躺下",
+   "music": 0.0
+  },
+  {
+   "from": 629.92,
+   "to": 631.56,
+   "sid": 398,
+   "location": 2,
+   "content": "把注意力集中在呼吸上",
+   "music": 0.0
+  },
+  {
+   "from": 631.56,
+   "to": 632.92,
+   "sid": 399,
+   "location": 2,
+   "content": "用鼻子深吸一口气",
+   "music": 0.0
+  },
+  {
+   "from": 632.92,
+   "to": 634.24,
+   "sid": 400,
+   "location": 2,
+   "content": "让气息充满腹部",
+   "music": 0.0
+  },
+  {
+   "from": 634.24,
+   "to": 635.08,
+   "sid": 401,
+   "location": 2,
+   "content": "保持四秒",
+   "music": 0.0
+  },
+  {
+   "from": 635.08,
+   "to": 636.48,
+   "sid": 402,
+   "location": 2,
+   "content": "然后用嘴慢慢呼出",
+   "music": 0.0
+  },
+  {
+   "from": 636.48,
+   "to": 637.26,
+   "sid": 403,
+   "location": 2,
+   "content": "保持六秒",
+   "music": 0.0
+  },
+  {
+   "from": 637.26,
+   "to": 639.16,
+   "sid": 404,
+   "location": 2,
+   "content": "重复这个过程十到20分钟",
+   "music": 0.0
+  },
+  {
+   "from": 639.16,
+   "to": 641.84,
+   "sid": 405,
+   "location": 2,
+   "content": "关键是呼气的时间要比吸气的时间长",
+   "music": 0.0
+  },
+  {
+   "from": 641.84,
+   "to": 643.86,
+   "sid": 406,
+   "location": 2,
+   "content": "因为长呼气会激活迷走神经",
+   "music": 0.0
+  },
+  {
+   "from": 643.86,
+   "to": 645.0,
+   "sid": 407,
+   "location": 2,
+   "content": "触发放松反应",
+   "music": 0.0
+  },
+  {
+   "from": 645.0,
+   "to": 645.66,
+   "sid": 408,
+   "location": 2,
+   "content": "研究发现",
+   "music": 0.0
+  },
+  {
+   "from": 645.66,
+   "to": 647.6,
+   "sid": 409,
+   "location": 2,
+   "content": "每天进行20分钟的正念呼吸",
+   "music": 0.0
+  },
+  {
+   "from": 647.6,
+   "to": 648.36,
+   "sid": 410,
+   "location": 2,
+   "content": "持续八周",
+   "music": 0.0
+  },
+  {
+   "from": 648.36,
+   "to": 650.92,
+   "sid": 411,
+   "location": 2,
+   "content": "可以显著增加大脑前额叶皮层的灰质密度",
+   "music": 0.0
+  },
+  {
+   "from": 650.92,
+   "to": 652.32,
+   "sid": 412,
+   "location": 2,
+   "content": "改善情绪调节能力",
+   "music": 0.0
+  },
+  {
+   "from": 652.32,
+   "to": 653.8,
+   "sid": 413,
+   "location": 2,
+   "content": "降低焦虑和抑郁水平",
+   "music": 0.0
+  },
+  {
+   "from": 653.8,
+   "to": 654.64,
+   "sid": 414,
+   "location": 2,
+   "content": "更重要的是",
+   "music": 0.0
+  },
+  {
+   "from": 654.64,
+   "to": 656.44,
+   "sid": 415,
+   "location": 2,
+   "content": "正念呼吸可以训练你的大脑",
+   "music": 0.0
+  },
+  {
+   "from": 656.44,
+   "to": 658.64,
+   "sid": 416,
+   "location": 2,
+   "content": "从自动驾驶模式切换到觉察模式",
+   "music": 0.0
+  },
+  {
+   "from": 658.64,
+   "to": 660.76,
+   "sid": 417,
+   "location": 2,
+   "content": "这种能力会帮助你在日常生活中",
+   "music": 0.0
+  },
+  {
+   "from": 660.76,
+   "to": 662.7,
+   "sid": 418,
+   "location": 2,
+   "content": "更快的识别和应对神经疲劳",
+   "music": 0.0
+  },
+  {
+   "from": 662.7,
+   "to": 664.46,
+   "sid": 419,
+   "location": 2,
+   "content": "但最关键的是第三个方法",
+   "music": 0.0
+  },
+  {
+   "from": 664.46,
+   "to": 665.38,
+   "sid": 420,
+   "location": 2,
+   "content": "无目的运动",
+   "music": 0.0
+  },
+  {
+   "from": 665.38,
+   "to": 667.16,
+   "sid": 421,
+   "location": 2,
+   "content": "大多数人的运动是有目的的",
+   "music": 0.0
+  },
+  {
+   "from": 667.16,
+   "to": 668.32,
+   "sid": 422,
+   "location": 2,
+   "content": "跑步是为了减肥",
+   "music": 0.0
+  },
+  {
+   "from": 668.32,
+   "to": 669.5,
+   "sid": 423,
+   "location": 2,
+   "content": "健身是为了增肌",
+   "music": 0.0
+  },
+  {
+   "from": 669.5,
+   "to": 670.52,
+   "sid": 424,
+   "location": 2,
+   "content": "打球是为了赢",
+   "music": 0.0
+  },
+  {
+   "from": 670.52,
+   "to": 672.88,
+   "sid": 425,
+   "location": 2,
+   "content": "这种有目的的运动虽然对身体有益",
+   "music": 0.0
+  },
+  {
+   "from": 672.88,
+   "to": 674.56,
+   "sid": 426,
+   "location": 2,
+   "content": "但对大脑的修复效果有限",
+   "music": 0.0
+  },
+  {
+   "from": 674.56,
+   "to": 676.54,
+   "sid": 427,
+   "location": 2,
+   "content": "因为你的任务正网络还在激活",
+   "music": 0.0
+  },
+  {
+   "from": 676.54,
+   "to": 678.08,
+   "sid": 428,
+   "location": 2,
+   "content": "你的大脑还在执行任务",
+   "music": 0.0
+  },
+  {
+   "from": 678.08,
+   "to": 681.1,
+   "sid": 429,
+   "location": 2,
+   "content": "而无目的运动的特点是你不追求任何目标",
+   "music": 0.0
+  },
+  {
+   "from": 681.1,
+   "to": 682.66,
+   "sid": 430,
+   "location": 2,
+   "content": "只是让身体自然的移动",
+   "music": 0.0
+  },
+  {
+   "from": 682.66,
+   "to": 684.02,
+   "sid": 431,
+   "location": 2,
+   "content": "让大脑进入默认模式",
+   "music": 0.0
+  },
+  {
+   "from": 684.02,
+   "to": 684.38,
+   "sid": 432,
+   "location": 2,
+   "content": "网络",
+   "music": 0.0
+  },
+  {
+   "from": 684.38,
+   "to": 687.4,
+   "sid": 433,
+   "location": 2,
+   "content": "具体方法是每天进行30到60分钟的散步",
+   "music": 0.0
+  },
+  {
+   "from": 687.4,
+   "to": 688.38,
+   "sid": 434,
+   "location": 2,
+   "content": "但不要听音乐",
+   "music": 0.0
+  },
+  {
+   "from": 688.38,
+   "to": 689.3,
+   "sid": 435,
+   "location": 2,
+   "content": "不要听播客",
+   "music": 0.0
+  },
+  {
+   "from": 689.3,
+   "to": 690.52,
+   "sid": 436,
+   "location": 2,
+   "content": "不要想工作的事情",
+   "music": 0.0
+  },
+  {
+   "from": 690.52,
+   "to": 691.22,
+   "sid": 437,
+   "location": 2,
+   "content": "只是走路",
+   "music": 0.0
+  },
+  {
+   "from": 691.22,
+   "to": 692.38,
+   "sid": 438,
+   "location": 2,
+   "content": "观察周围的环境",
+   "music": 0.0
+  },
+  {
+   "from": 692.38,
+   "to": 693.58,
+   "sid": 439,
+   "location": 2,
+   "content": "感受身体的感觉",
+   "music": 0.0
+  },
+  {
+   "from": 693.58,
+   "to": 695.14,
+   "sid": 440,
+   "location": 2,
+   "content": "一开始你可能会觉得无聊",
+   "music": 0.0
+  },
+  {
+   "from": 695.14,
+   "to": 696.46,
+   "sid": 441,
+   "location": 2,
+   "content": "但坚持一段时间后",
+   "music": 0.0
+  },
+  {
+   "from": 696.46,
+   "to": 697.2,
+   "sid": 442,
+   "location": 2,
+   "content": "你会发现",
+   "music": 0.0
+  },
+  {
+   "from": 697.2,
+   "to": 699.98,
+   "sid": 443,
+   "location": 2,
+   "content": "这种无聊恰恰是大脑进入深度休息的标志",
+   "music": 0.0
+  },
+  {
+   "from": 699.98,
+   "to": 700.78,
+   "sid": 444,
+   "location": 2,
+   "content": "研究发现",
+   "music": 0.0
+  },
+  {
+   "from": 700.78,
+   "to": 703.72,
+   "sid": 445,
+   "location": 2,
+   "content": "在自然环境中进行无目的运动效果更好",
+   "music": 0.0
+  },
+  {
+   "from": 703.72,
+   "to": 705.82,
+   "sid": 446,
+   "location": 2,
+   "content": "因为自然环境中的刺激是柔和的",
+   "music": 0.0
+  },
+  {
+   "from": 705.82,
+   "to": 706.62,
+   "sid": 447,
+   "location": 2,
+   "content": "树叶的摇动",
+   "music": 0.0
+  },
+  {
+   "from": 706.62,
+   "to": 707.26,
+   "sid": 448,
+   "location": 2,
+   "content": "鸟叫声",
+   "music": 0.0
+  },
+  {
+   "from": 707.26,
+   "to": 707.98,
+   "sid": 449,
+   "location": 2,
+   "content": "风的声音",
+   "music": 0.0
+  },
+  {
+   "from": 707.98,
+   "to": 710.3,
+   "sid": 450,
+   "location": 2,
+   "content": "这些刺激不会让你的注意力高度集中",
+   "music": 0.0
+  },
+  {
+   "from": 710.3,
+   "to": 711.76,
+   "sid": 451,
+   "location": 2,
+   "content": "而是让你的注意力分散",
+   "music": 0.0
+  },
+  {
+   "from": 711.76,
+   "to": 713.26,
+   "sid": 452,
+   "location": 2,
+   "content": "这种分散的注意力状态",
+   "music": 0.0
+  },
+  {
+   "from": 713.26,
+   "to": 715.76,
+   "sid": 453,
+   "location": 2,
+   "content": "恰恰是默认模式网络激活的最佳状态",
+   "music": 0.0
+  },
+  {
+   "from": 715.76,
+   "to": 716.8,
+   "sid": 454,
+   "location": 2,
+   "content": "但你可能会说",
+   "music": 0.0
+  },
+  {
+   "from": 716.8,
+   "to": 717.82,
+   "sid": 455,
+   "location": 2,
+   "content": "我工作这么忙",
+   "music": 0.0
+  },
+  {
+   "from": 717.82,
+   "to": 719.4,
+   "sid": 456,
+   "location": 2,
+   "content": "哪有时间散步30分钟",
+   "music": 0.0
+  },
+  {
+   "from": 719.4,
+   "to": 720.94,
+   "sid": 457,
+   "location": 2,
+   "content": "这就引出了第四个方法",
+   "music": 0.0
+  },
+  {
+   "from": 720.94,
+   "to": 722.82,
+   "sid": 458,
+   "location": 2,
+   "content": "第四个方法叫主动社交",
+   "music": 0.0
+  },
+  {
+   "from": 722.82,
+   "to": 724.4,
+   "sid": 459,
+   "location": 2,
+   "content": "听起来和休息没关系",
+   "music": 0.0
+  },
+  {
+   "from": 724.4,
+   "to": 726.04,
+   "sid": 460,
+   "location": 2,
+   "content": "但神经科学研究发现",
+   "music": 0.0
+  },
+  {
+   "from": 726.04,
+   "to": 727.24,
+   "sid": 461,
+   "location": 2,
+   "content": "适当的社交互动",
+   "music": 0.0
+  },
+  {
+   "from": 727.24,
+   "to": 730.1,
+   "sid": 462,
+   "location": 2,
+   "content": "尤其是深度社交可以有效修复神经疲劳",
+   "music": 0.0
+  },
+  {
+   "from": 730.1,
+   "to": 731.0,
+   "sid": 463,
+   "location": 2,
+   "content": "原因在于",
+   "music": 0.0
+  },
+  {
+   "from": 731.0,
+   "to": 732.84,
+   "sid": 464,
+   "location": 2,
+   "content": "深度社交会释放催产素",
+   "music": 0.0
+  },
+  {
+   "from": 732.84,
+   "to": 734.22,
+   "sid": 465,
+   "location": 2,
+   "content": "这是一种抗压激素",
+   "music": 0.0
+  },
+  {
+   "from": 734.22,
+   "to": 735.78,
+   "sid": 466,
+   "location": 2,
+   "content": "可以降低皮质醇水平",
+   "music": 0.0
+  },
+  {
+   "from": 735.78,
+   "to": 736.76,
+   "sid": 467,
+   "location": 2,
+   "content": "提升幸福感",
+   "music": 0.0
+  },
+  {
+   "from": 736.76,
+   "to": 737.819,
+   "sid": 468,
+   "location": 2,
+   "content": "增强免疫力",
+   "music": 0.0
+  },
+  {
+   "from": 737.819,
+   "to": 740.599,
+   "sid": 469,
+   "location": 2,
+   "content": "关键是这里说的社交不是应酬式社交",
+   "music": 0.0
+  },
+  {
+   "from": 740.599,
+   "to": 742.059,
+   "sid": 470,
+   "location": 2,
+   "content": "不是在饭局上谈工作",
+   "music": 0.0
+  },
+  {
+   "from": 742.059,
+   "to": 743.58,
+   "sid": 471,
+   "location": 2,
+   "content": "不是在微信群里聊天",
+   "music": 0.0
+  },
+  {
+   "from": 743.58,
+   "to": 744.6,
+   "sid": 472,
+   "location": 2,
+   "content": "而是深度连接",
+   "music": 0.0
+  },
+  {
+   "from": 744.6,
+   "to": 747.72,
+   "sid": 473,
+   "location": 2,
+   "content": "和你信任的人面对面地聊一些真实的感受",
+   "music": 0.0
+  },
+  {
+   "from": 747.72,
+   "to": 748.9,
+   "sid": 474,
+   "location": 2,
+   "content": "困惑想法",
+   "music": 0.0
+  },
+  {
+   "from": 748.9,
+   "to": 749.72,
+   "sid": 475,
+   "location": 2,
+   "content": "研究发现",
+   "music": 0.0
+  },
+  {
+   "from": 749.72,
+   "to": 751.4,
+   "sid": 476,
+   "location": 2,
+   "content": "一次30分钟的深度对话",
+   "music": 0.0
+  },
+  {
+   "from": 751.4,
+   "to": 754.48,
+   "sid": 477,
+   "location": 2,
+   "content": "对大脑的修复效果相当于两小时的浅层娱乐",
+   "music": 0.0
+  },
+  {
+   "from": 754.48,
+   "to": 755.46,
+   "sid": 478,
+   "location": 2,
+   "content": "具体方法是",
+   "music": 0.0
+  },
+  {
+   "from": 755.46,
+   "to": 758.38,
+   "sid": 479,
+   "location": 2,
+   "content": "每周至少安排一次和朋友或家人的深度对话",
+   "music": 0.0
+  },
+  {
+   "from": 758.38,
+   "to": 759.24,
+   "sid": 480,
+   "location": 2,
+   "content": "关掉手机",
+   "music": 0.0
+  },
+  {
+   "from": 759.24,
+   "to": 761.92,
+   "sid": 481,
+   "location": 2,
+   "content": "面对面坐下来聊一些真正重要的事情",
+   "music": 0.0
+  },
+  {
+   "from": 761.92,
+   "to": 762.64,
+   "sid": 482,
+   "location": 2,
+   "content": "不是工作",
+   "music": 0.0
+  },
+  {
+   "from": 762.64,
+   "to": 763.38,
+   "sid": 483,
+   "location": 2,
+   "content": "不是八卦",
+   "music": 0.0
+  },
+  {
+   "from": 763.38,
+   "to": 764.62,
+   "sid": 484,
+   "location": 2,
+   "content": "而是你最近的感受",
+   "music": 0.0
+  },
+  {
+   "from": 764.62,
+   "to": 765.38,
+   "sid": 485,
+   "location": 2,
+   "content": "你的困惑",
+   "music": 0.0
+  },
+  {
+   "from": 765.38,
+   "to": 766.14,
+   "sid": 486,
+   "location": 2,
+   "content": "你的想法",
+   "music": 0.0
+  },
+  {
+   "from": 766.14,
+   "to": 768.38,
+   "sid": 487,
+   "location": 2,
+   "content": "这种对话的关键是真实和倾听",
+   "music": 0.0
+  },
+  {
+   "from": 768.38,
+   "to": 769.38,
+   "sid": 488,
+   "location": 2,
+   "content": "不需要给建议",
+   "music": 0.0
+  },
+  {
+   "from": 769.38,
+   "to": 770.5,
+   "sid": 489,
+   "location": 2,
+   "content": "不需要解决问题",
+   "music": 0.0
+  },
+  {
+   "from": 770.5,
+   "to": 771.86,
+   "sid": 490,
+   "location": 2,
+   "content": "只需要表达和倾听",
+   "music": 0.0
+  },
+  {
+   "from": 771.86,
+   "to": 772.98,
+   "sid": 491,
+   "location": 2,
+   "content": "但你可能又会说",
+   "music": 0.0
+  },
+  {
+   "from": 772.98,
+   "to": 775.34,
+   "sid": 492,
+   "location": 2,
+   "content": "我做了这些晚上还是睡不好怎么办",
+   "music": 0.0
+  },
+  {
+   "from": 775.34,
+   "to": 776.64,
+   "sid": 493,
+   "location": 2,
+   "content": "这就是第五个方法",
+   "music": 0.0
+  },
+  {
+   "from": 776.64,
+   "to": 778.56,
+   "sid": 494,
+   "location": 2,
+   "content": "第五个方法叫睡眠优化",
+   "music": 0.0
+  },
+  {
+   "from": 778.56,
+   "to": 779.32,
+   "sid": 495,
+   "location": 2,
+   "content": "前面说过",
+   "music": 0.0
+  },
+  {
+   "from": 779.32,
+   "to": 781.56,
+   "sid": 496,
+   "location": 2,
+   "content": "普通睡眠无法完全修复神经疲劳",
+   "music": 0.0
+  },
+  {
+   "from": 781.56,
+   "to": 783.2,
+   "sid": 497,
+   "location": 2,
+   "content": "真正有效的是慢波睡眠",
+   "music": 0.0
+  },
+  {
+   "from": 783.2,
+   "to": 786.04,
+   "sid": 498,
+   "location": 2,
+   "content": "而提升慢波睡眠比例的方法不是睡得更久",
+   "music": 0.0
+  },
+  {
+   "from": 786.04,
+   "to": 787.28,
+   "sid": 499,
+   "location": 2,
+   "content": "而是优化睡眠质量",
+   "music": 0.0
+  },
+  {
+   "from": 787.28,
+   "to": 790.44,
+   "sid": 500,
+   "location": 2,
+   "content": "具体方法包括睡前两小时停止使用电子设备",
+   "music": 0.0
+  },
+  {
+   "from": 790.44,
+   "to": 792.36,
+   "sid": 501,
+   "location": 2,
+   "content": "因为蓝光会抑制褪黑素的分泌",
+   "music": 0.0
+  },
+  {
+   "from": 792.36,
+   "to": 793.8,
+   "sid": 502,
+   "location": 2,
+   "content": "降低慢波睡眠比例",
+   "music": 0.0
+  },
+  {
+   "from": 793.8,
+   "to": 796.78,
+   "sid": 503,
+   "location": 2,
+   "content": "睡前一小时降低室内温度到18到20℃",
+   "music": 0.0
+  },
+  {
+   "from": 796.78,
+   "to": 798.72,
+   "sid": 504,
+   "location": 2,
+   "content": "因为低温有助于进入深度睡眠",
+   "music": 0.0
+  },
+  {
+   "from": 798.72,
+   "to": 801.08,
+   "sid": 505,
+   "location": 2,
+   "content": "睡前进行10分钟的渐进式肌肉放松",
+   "music": 0.0
+  },
+  {
+   "from": 801.08,
+   "to": 802.8,
+   "sid": 506,
+   "location": 2,
+   "content": "从脚趾开始逐步放松",
+   "music": 0.0
+  },
+  {
+   "from": 802.8,
+   "to": 803.58,
+   "sid": 507,
+   "location": 2,
+   "content": "全身的肌肉",
+   "music": 0.0
+  },
+  {
+   "from": 803.58,
+   "to": 806.72,
+   "sid": 508,
+   "location": 2,
+   "content": "就会帮助你的大脑从警觉模式切换到睡眠模式",
+   "music": 0.0
+  },
+  {
+   "from": 806.72,
+   "to": 808.88,
+   "sid": 509,
+   "location": 2,
+   "content": "更进阶的方法是睡眠周期管理",
+   "music": 0.0
+  },
+  {
+   "from": 808.88,
+   "to": 810.72,
+   "sid": 510,
+   "location": 2,
+   "content": "也就是按照90分钟的睡眠周期",
+   "music": 0.0
+  },
+  {
+   "from": 810.72,
+   "to": 811.94,
+   "sid": 511,
+   "location": 2,
+   "content": "来安排睡眠时间",
+   "music": 0.0
+  },
+  {
+   "from": 811.94,
+   "to": 814.44,
+   "sid": 512,
+   "location": 2,
+   "content": "人类的睡眠是以90分钟为一个周期的",
+   "music": 0.0
+  },
+  {
+   "from": 814.44,
+   "to": 816.02,
+   "sid": 513,
+   "location": 2,
+   "content": "每个周期包括浅睡眠",
+   "music": 0.0
+  },
+  {
+   "from": 816.02,
+   "to": 816.86,
+   "sid": 514,
+   "location": 2,
+   "content": "慢波睡眠",
+   "music": 0.0
+  },
+  {
+   "from": 816.86,
+   "to": 817.96,
+   "sid": 515,
+   "location": 2,
+   "content": "深度慢波睡眠",
+   "music": 0.0
+  },
+  {
+   "from": 817.96,
+   "to": 819.1,
+   "sid": 516,
+   "location": 2,
+   "content": "快速眼动睡眠",
+   "music": 0.0
+  },
+  {
+   "from": 819.1,
+   "to": 820.86,
+   "sid": 517,
+   "location": 2,
+   "content": "如果你在一个周期的中间醒来",
+   "music": 0.0
+  },
+  {
+   "from": 820.86,
+   "to": 821.82,
+   "sid": 518,
+   "location": 2,
+   "content": "你会感到很累",
+   "music": 0.0
+  },
+  {
+   "from": 821.82,
+   "to": 823.66,
+   "sid": 519,
+   "location": 2,
+   "content": "如果你在一个周期结束时醒来",
+   "music": 0.0
+  },
+  {
+   "from": 823.66,
+   "to": 824.98,
+   "sid": 520,
+   "location": 2,
+   "content": "你会感到神清气爽",
+   "music": 0.0
+  },
+  {
+   "from": 824.98,
+   "to": 826.46,
+   "sid": 521,
+   "location": 2,
+   "content": "所以与其睡八小时",
+   "music": 0.0
+  },
+  {
+   "from": 826.46,
+   "to": 827.6,
+   "sid": 522,
+   "location": 2,
+   "content": "在周期中间醒来",
+   "music": 0.0
+  },
+  {
+   "from": 827.6,
+   "to": 828.78,
+   "sid": 523,
+   "location": 2,
+   "content": "不如睡7.5小时",
+   "music": 0.0
+  },
+  {
+   "from": 828.78,
+   "to": 830.18,
+   "sid": 524,
+   "location": 2,
+   "content": "在周期结束时醒来",
+   "music": 0.0
+  },
+  {
+   "from": 830.18,
+   "to": 832.06,
+   "sid": 525,
+   "location": 2,
+   "content": "现在回到最开始那个实验",
+   "music": 0.0
+  },
+  {
+   "from": 832.06,
+   "to": 832.92,
+   "sid": 526,
+   "location": 2,
+   "content": "闭上眼睛",
+   "music": 0.0
+  },
+  {
+   "from": 832.92,
+   "to": 833.76,
+   "sid": 527,
+   "location": 2,
+   "content": "什么都不想",
+   "music": 0.0
+  },
+  {
+   "from": 833.76,
+   "to": 834.74,
+   "sid": 528,
+   "location": 2,
+   "content": "坚持30秒",
+   "music": 0.0
+  },
+  {
+   "from": 834.74,
+   "to": 836.14,
+   "sid": 529,
+   "location": 2,
+   "content": "如果你现在再试一次",
+   "music": 0.0
+  },
+  {
+   "from": 836.14,
+   "to": 837.18,
+   "sid": 530,
+   "location": 2,
+   "content": "可能还是做不到",
+   "music": 0.0
+  },
+  {
+   "from": 837.18,
+   "to": 837.96,
+   "sid": 531,
+   "location": 2,
+   "content": "但没关系",
+   "music": 0.0
+  },
+  {
+   "from": 837.96,
+   "to": 839.14,
+   "sid": 532,
+   "location": 2,
+   "content": "因为从今天开始",
+   "music": 0.0
+  },
+  {
+   "from": 839.14,
+   "to": 840.1,
+   "sid": 533,
+   "location": 2,
+   "content": "你知道了一个秘密",
+   "music": 0.0
+  },
+  {
+   "from": 840.1,
+   "to": 841.24,
+   "sid": 534,
+   "location": 2,
+   "content": "你不是身体累",
+   "music": 0.0
+  },
+  {
+   "from": 841.24,
+   "to": 842.14,
+   "sid": 535,
+   "location": 2,
+   "content": "你是大脑累",
+   "music": 0.0
+  },
+  {
+   "from": 842.14,
+   "to": 843.88,
+   "sid": 536,
+   "location": 2,
+   "content": "那些你以为在休息的行为",
+   "music": 0.0
+  },
+  {
+   "from": 843.88,
+   "to": 845.16,
+   "sid": 537,
+   "location": 2,
+   "content": "刷手机看剧",
+   "music": 0.0
+  },
+  {
+   "from": 845.16,
+   "to": 845.84,
+   "sid": 538,
+   "location": 2,
+   "content": "打游戏",
+   "music": 0.0
+  },
+  {
+   "from": 845.84,
+   "to": 847.7,
+   "sid": 539,
+   "location": 2,
+   "content": "恰恰是在继续消耗你的大脑",
+   "music": 0.0
+  },
+  {
+   "from": 847.7,
+   "to": 848.96,
+   "sid": 540,
+   "location": 2,
+   "content": "让神经疲劳加重",
+   "music": 0.0
+  },
+  {
+   "from": 848.96,
+   "to": 851.14,
+   "sid": 541,
+   "location": 2,
+   "content": "真正的深度休息不是什么都不做",
+   "music": 0.0
+  },
+  {
+   "from": 851.14,
+   "to": 852.12,
+   "sid": 542,
+   "location": 2,
+   "content": "而是做对的事",
+   "music": 0.0
+  },
+  {
+   "from": 852.12,
+   "to": 853.88,
+   "sid": 543,
+   "location": 2,
+   "content": "你需要每天进行感官隔离",
+   "music": 0.0
+  },
+  {
+   "from": 853.88,
+   "to": 855.7,
+   "sid": 544,
+   "location": 2,
+   "content": "给大脑一个消化信息的机会",
+   "music": 0.0
+  },
+  {
+   "from": 855.7,
+   "to": 857.84,
+   "sid": 545,
+   "location": 2,
+   "content": "你需要每天进行正念呼吸训练",
+   "music": 0.0
+  },
+  {
+   "from": 857.84,
+   "to": 860.06,
+   "sid": 546,
+   "location": 2,
+   "content": "大脑从警觉模式切换到放松模式",
+   "music": 0.0
+  },
+  {
+   "from": 860.06,
+   "to": 861.88,
+   "sid": 547,
+   "location": 2,
+   "content": "你需要每天进行无目的运动",
+   "music": 0.0
+  },
+  {
+   "from": 861.88,
+   "to": 863.18,
+   "sid": 548,
+   "location": 2,
+   "content": "激活默认模式网络",
+   "music": 0.0
+  },
+  {
+   "from": 863.18,
+   "to": 864.8,
+   "sid": 549,
+   "location": 2,
+   "content": "让大脑进行深度整合",
+   "music": 0.0
+  },
+  {
+   "from": 864.8,
+   "to": 866.6,
+   "sid": 550,
+   "location": 2,
+   "content": "你需要每周进行深度社交",
+   "music": 0.0
+  },
+  {
+   "from": 866.6,
+   "to": 867.66,
+   "sid": 551,
+   "location": 2,
+   "content": "释放催产素",
+   "music": 0.0
+  },
+  {
+   "from": 867.66,
+   "to": 868.78,
+   "sid": 552,
+   "location": 2,
+   "content": "降低压力激素",
+   "music": 0.0
+  },
+  {
+   "from": 868.78,
+   "to": 870.22,
+   "sid": 553,
+   "location": 2,
+   "content": "你需要优化睡眠质量",
+   "music": 0.0
+  },
+  {
+   "from": 870.22,
+   "to": 871.66,
+   "sid": 554,
+   "location": 2,
+   "content": "提升慢波睡眠比例",
+   "music": 0.0
+  },
+  {
+   "from": 871.66,
+   "to": 873.42,
+   "sid": 555,
+   "location": 2,
+   "content": "让大脑进行彻底的修复",
+   "music": 0.0
+  },
+  {
+   "from": 873.42,
+   "to": 874.54,
+   "sid": 556,
+   "location": 2,
+   "content": "记住三个关键",
+   "music": 0.0
+  },
+  {
+   "from": 874.54,
+   "to": 876.509,
+   "sid": 557,
+   "location": 2,
+   "content": "第一休息不是停止工作",
+   "music": 0.0
+  },
+  {
+   "from": 876.509,
+   "to": 877.569,
+   "sid": 558,
+   "location": 2,
+   "content": "而是切换模式",
+   "music": 0.0
+  },
+  {
+   "from": 877.569,
+   "to": 880.0,
+   "sid": 559,
+   "location": 2,
+   "content": "从任务正网络切换到默认模式网络",
+   "music": 0.0
+  },
+  {
+   "from": 880.0,
+   "to": 881.74,
+   "sid": 560,
+   "location": 2,
+   "content": "第二修复不是被动等待",
+   "music": 0.0
+  },
+  {
+   "from": 881.74,
+   "to": 882.76,
+   "sid": 561,
+   "location": 2,
+   "content": "而是主动干预",
+   "music": 0.0
+  },
+  {
+   "from": 882.76,
+   "to": 885.06,
+   "sid": 562,
+   "location": 2,
+   "content": "通过特定的活动帮助大脑重建平衡",
+   "music": 0.0
+  },
+  {
+   "from": 885.06,
+   "to": 886.74,
+   "sid": 563,
+   "location": 2,
+   "content": "第三恢复不是一次性",
+   "music": 0.0
+  },
+  {
+   "from": 886.74,
+   "to": 887.62,
+   "sid": 564,
+   "location": 2,
+   "content": "而是持续性",
+   "music": 0.0
+  },
+  {
+   "from": 887.62,
+   "to": 889.58,
+   "sid": 565,
+   "location": 2,
+   "content": "需要把这些方法融入日常生活",
+   "music": 0.0
+  },
+  {
+   "from": 889.58,
+   "to": 891.0,
+   "sid": 566,
+   "location": 2,
+   "content": "形成新的休息习惯",
+   "music": 0.0
+  },
+  {
+   "from": 891.0,
+   "to": 892.74,
+   "sid": 567,
+   "location": 2,
+   "content": "下次当你感到神经疲劳时",
+   "music": 0.0
+  },
+  {
+   "from": 892.74,
+   "to": 894.52,
+   "sid": 568,
+   "location": 2,
+   "content": "不要在瘫在沙发上刷手机",
+   "music": 0.0
+  },
+  {
+   "from": 894.52,
+   "to": 896.7,
+   "sid": 569,
+   "location": 2,
+   "content": "而是站起来关掉所有电子设备",
+   "music": 0.0
+  },
+  {
+   "from": 896.7,
+   "to": 899.22,
+   "sid": 570,
+   "location": 2,
+   "content": "进行10分钟的感官隔离或正念呼吸",
+   "music": 0.0
+  },
+  {
+   "from": 899.22,
+   "to": 900.02,
+   "sid": 571,
+   "location": 2,
+   "content": "你会发现",
+   "music": 0.0
+  },
+  {
+   "from": 900.02,
+   "to": 903.18,
+   "sid": 572,
+   "location": 2,
+   "content": "10分钟的深度休息比两小时的浅层娱乐更有效",
+   "music": 0.0
+  },
+  {
+   "from": 903.18,
+   "to": 904.84,
+   "sid": 573,
+   "location": 2,
+   "content": "但我要提醒你最后一件事",
+   "music": 0.0
+  },
+  {
+   "from": 904.84,
+   "to": 906.48,
+   "sid": 574,
+   "location": 2,
+   "content": "神经疲劳是可以累积的",
+   "music": 0.0
+  },
+  {
+   "from": 906.48,
+   "to": 907.98,
+   "sid": 575,
+   "location": 2,
+   "content": "如果你今天不开始改变",
+   "music": 0.0
+  },
+  {
+   "from": 907.98,
+   "to": 908.94,
+   "sid": 576,
+   "location": 2,
+   "content": "明天会更累",
+   "music": 0.0
+  },
+  {
+   "from": 908.94,
+   "to": 910.5,
+   "sid": 577,
+   "location": 2,
+   "content": "如果你这周不开始改变",
+   "music": 0.0
+  },
+  {
+   "from": 910.5,
+   "to": 911.74,
+   "sid": 578,
+   "location": 2,
+   "content": "下周会更难恢复",
+   "music": 0.0
+  },
+  {
+   "from": 911.74,
+   "to": 913.28,
+   "sid": 579,
+   "location": 2,
+   "content": "如果你今年不开始改变",
+   "music": 0.0
+  },
+  {
+   "from": 913.28,
+   "to": 915.58,
+   "sid": 580,
+   "location": 2,
+   "content": "明年可能需要更长的时间才能修复",
+   "music": 0.0
+  },
+  {
+   "from": 915.58,
+   "to": 916.94,
+   "sid": 581,
+   "location": 2,
+   "content": "那些总是精力充沛",
+   "music": 0.0
+  },
+  {
+   "from": 916.94,
+   "to": 917.78,
+   "sid": 582,
+   "location": 2,
+   "content": "情绪稳定",
+   "music": 0.0
+  },
+  {
+   "from": 917.78,
+   "to": 918.8,
+   "sid": 583,
+   "location": 2,
+   "content": "创造力强的人",
+   "music": 0.0
+  },
+  {
+   "from": 918.8,
+   "to": 919.96,
+   "sid": 584,
+   "location": 2,
+   "content": "不是天生体质好",
+   "music": 0.0
+  },
+  {
+   "from": 919.96,
+   "to": 921.86,
+   "sid": 585,
+   "location": 2,
+   "content": "而是懂得如何修复神经疲劳",
+   "music": 0.0
+  },
+  {
+   "from": 921.86,
+   "to": 923.22,
+   "sid": 586,
+   "location": 2,
+   "content": "他们不是休息的更多",
+   "music": 0.0
+  },
+  {
+   "from": 923.22,
+   "to": 924.38,
+   "sid": 587,
+   "location": 2,
+   "content": "而是休息的更深",
+   "music": 0.0
+  },
+  {
+   "from": 924.38,
+   "to": 925.68,
+   "sid": 588,
+   "location": 2,
+   "content": "他们不是压力更小",
+   "music": 0.0
+  },
+  {
+   "from": 925.68,
+   "to": 926.98,
+   "sid": 589,
+   "location": 2,
+   "content": "而是恢复能力更强",
+   "music": 0.0
+  },
+  {
+   "from": 926.98,
+   "to": 928.7,
+   "sid": 590,
+   "location": 2,
+   "content": "而你也可以成为这样的人",
+   "music": 0.0
+  },
+  {
+   "from": 928.7,
+   "to": 929.64,
+   "sid": 591,
+   "location": 2,
+   "content": "从今天开始",
+   "music": 0.0
+  },
+  {
+   "from": 929.64,
+   "to": 930.64,
+   "sid": 592,
+   "location": 2,
+   "content": "从现在开始",
+   "music": 0.0
+  },
+  {
+   "from": 930.64,
+   "to": 931.74,
+   "sid": 593,
+   "location": 2,
+   "content": "因为每多累一天",
+   "music": 0.0
+  },
+  {
+   "from": 931.74,
+   "to": 933.12,
+   "sid": 594,
+   "location": 2,
+   "content": "修复的成本就高一点",
+   "music": 0.0
+  },
+  {
+   "from": 933.12,
+   "to": 935.22,
+   "sid": 595,
+   "location": 2,
+   "content": "而当你的大脑彻底过劳的那一天",
+   "music": 0.0
+  },
+  {
+   "from": 935.22,
+   "to": 936.0,
+   "sid": 596,
+   "location": 2,
+   "content": "你会后悔",
+   "music": 0.0
+  },
+  {
+   "from": 936.0,
+   "to": 937.92,
+   "sid": 597,
+   "location": 2,
+   "content": "为什么没有早点看到这篇文章",
+   "music": 0.0
+  },
+  {
+   "from": 937.92,
+   "to": 940.76,
+   "sid": 598,
+   "location": 2,
+   "content": "如果这篇文章让你重新思考了休息和恢复",
+   "music": 0.0
+  },
+  {
+   "from": 940.76,
+   "to": 942.16,
+   "sid": 599,
+   "location": 2,
+   "content": "转发给那个总是喊累",
+   "music": 0.0
+  },
+  {
+   "from": 942.16,
+   "to": 943.68,
+   "sid": 600,
+   "location": 2,
+   "content": "却不知道怎么休息的朋友",
+   "music": 0.0
+  },
+  {
+   "from": 943.68,
+   "to": 946.0,
+   "sid": 601,
+   "location": 2,
+   "content": "因为真正的精力管理不是拼命工作",
+   "music": 0.0
+  },
+  {
+   "from": 946.0,
+   "to": 946.7,
+   "sid": 602,
+   "location": 2,
+   "content": "然后崩溃",
+   "music": 0.0
+  },
+  {
+   "from": 946.7,
+   "to": 947.74,
+   "sid": 603,
+   "location": 2,
+   "content": "而是科学工作",
+   "music": 0.0
+  },
+  {
+   "from": 947.74,
+   "to": 948.42,
+   "sid": 604,
+   "location": 2,
+   "content": "科学休息",
+   "music": 0.0
+  },
+  {
+   "from": 948.42,
+   "to": 950.32,
+   "sid": 605,
+   "location": 2,
+   "content": "让大脑始终保持在最佳状态",
+   "music": 0.0
+  }
+ ]
+}

@@ -1,0 +1,3946 @@
+{
+ "bvid": "BV1ZRtt6jEUU",
+ "title": "大脑疲劳的科学机制：如何保持动力不燃尽？",
+ "owner": "硬派心学",
+ "aid": 117188534997374,
+ "cid": 41445490839,
+ "duration": 1521,
+ "body": [
+  {
+   "content": "当我们感到不堪重负时",
+   "from": 0.0,
+   "location": 2,
+   "music": 0.0,
+   "sid": 1,
+   "to": 1.08
+  },
+  {
+   "content": "大脑仿佛停止运转",
+   "from": 1.08,
+   "location": 2,
+   "music": 0.0,
+   "sid": 2,
+   "to": 3.4
+  },
+  {
+   "content": "疲惫感逐渐袭来",
+   "from": 3.4,
+   "location": 2,
+   "music": 0.0,
+   "sid": 3,
+   "to": 4.76
+  },
+  {
+   "content": "而倦怠感正悄然逼近以重燃我们的动力",
+   "from": 4.76,
+   "location": 2,
+   "music": 0.0,
+   "sid": 4,
+   "to": 8.5
+  },
+  {
+   "content": "我们需要理解导致大脑疲劳的原因",
+   "from": 8.5,
+   "location": 2,
+   "music": 0.0,
+   "sid": 5,
+   "to": 11.68
+  },
+  {
+   "content": "首先",
+   "from": 11.68,
+   "location": 2,
+   "music": 0.0,
+   "sid": 6,
+   "to": 12.7
+  },
+  {
+   "content": "假设你在备考考试",
+   "from": 12.7,
+   "location": 2,
+   "music": 0.0,
+   "sid": 7,
+   "to": 14.64
+  },
+  {
+   "content": "清晨开始学习",
+   "from": 14.64,
+   "location": 2,
+   "music": 0.0,
+   "sid": 8,
+   "to": 16.46
+  },
+  {
+   "content": "头脑清醒时",
+   "from": 16.46,
+   "location": 2,
+   "music": 0.0,
+   "sid": 9,
+   "to": 17.85
+  },
+  {
+   "content": "制作闪卡",
+   "from": 17.85,
+   "location": 2,
+   "music": 0.0,
+   "sid": 10,
+   "to": 19.23
+  },
+  {
+   "content": "试图记忆内容",
+   "from": 19.23,
+   "location": 2,
+   "music": 0.0,
+   "sid": 11,
+   "to": 20.63
+  },
+  {
+   "content": "但到了两小时后",
+   "from": 20.63,
+   "location": 2,
+   "music": 0.0,
+   "sid": 12,
+   "to": 22.21
+  },
+  {
+   "content": "越来越难集中注意力",
+   "from": 22.21,
+   "location": 2,
+   "music": 0.0,
+   "sid": 13,
+   "to": 24.72
+  },
+  {
+   "content": "从大脑提取信息就像拔牙",
+   "from": 24.72,
+   "location": 2,
+   "music": 0.0,
+   "sid": 14,
+   "to": 28.68
+  },
+  {
+   "content": "三个小时后",
+   "from": 28.68,
+   "location": 2,
+   "music": 0.0,
+   "sid": 15,
+   "to": 29.7
+  },
+  {
+   "content": "时间仿佛蜗牛般缓慢流逝",
+   "from": 29.7,
+   "location": 2,
+   "music": 0.0,
+   "sid": 16,
+   "to": 33.17
+  },
+  {
+   "content": "继续学习的动力很低",
+   "from": 33.17,
+   "location": 2,
+   "music": 0.0,
+   "sid": 17,
+   "to": 35.99
+  },
+  {
+   "content": "伴随着注意力难以维持和动力不足",
+   "from": 35.99,
+   "location": 2,
+   "music": 0.0,
+   "sid": 18,
+   "to": 39.68
+  },
+  {
+   "content": "身体感到疲倦",
+   "from": 39.68,
+   "location": 2,
+   "music": 0.0,
+   "sid": 19,
+   "to": 41.56
+  },
+  {
+   "content": "眼睛开始下垂",
+   "from": 41.56,
+   "location": 2,
+   "music": 0.0,
+   "sid": 20,
+   "to": 42.6
+  },
+  {
+   "content": "姿势非常糟糕",
+   "from": 42.6,
+   "location": 2,
+   "music": 0.0,
+   "sid": 21,
+   "to": 43.84
+  },
+  {
+   "content": "而胃部开始",
+   "from": 43.84,
+   "location": 2,
+   "music": 0.0,
+   "sid": 22,
+   "to": 45.49
+  },
+  {
+   "content": "这就是精神疲劳",
+   "from": 45.49,
+   "location": 2,
+   "music": 0.0,
+   "sid": 23,
+   "to": 47.01
+  },
+  {
+   "content": "我们都有过这种体验",
+   "from": 47.01,
+   "location": 2,
+   "music": 0.0,
+   "sid": 24,
+   "to": 48.73
+  },
+  {
+   "content": "但大脑究竟发生了什么",
+   "from": 48.73,
+   "location": 2,
+   "music": 0.0,
+   "sid": 25,
+   "to": 50.41
+  },
+  {
+   "content": "此刻究竟发生了什么",
+   "from": 50.41,
+   "location": 2,
+   "music": 0.0,
+   "sid": 26,
+   "to": 52.17
+  },
+  {
+   "content": "你的大脑是一个广阔的",
+   "from": 52.17,
+   "location": 2,
+   "music": 0.0,
+   "sid": 27,
+   "to": 53.95
+  },
+  {
+   "content": "高度互联的",
+   "from": 53.95,
+   "location": 2,
+   "music": 0.0,
+   "sid": 28,
+   "to": 55.29
+  },
+  {
+   "content": "复杂网络",
+   "from": 55.29,
+   "location": 2,
+   "music": 0.0,
+   "sid": 29,
+   "to": 56.57
+  },
+  {
+   "content": "约有860亿个神经元和更多非神经元细胞",
+   "from": 56.57,
+   "location": 2,
+   "music": 0.0,
+   "sid": 30,
+   "to": 62.099
+  },
+  {
+   "content": "这些细胞以复杂的模式相互连接，不同脑区差异显著",
+   "from": 62.099,
+   "location": 2,
+   "music": 0.0,
+   "sid": 31,
+   "to": 68.17
+  },
+  {
+   "content": "相应地",
+   "from": 68.17,
+   "location": 2,
+   "music": 0.0,
+   "sid": 32,
+   "to": 69.27
+  },
+  {
+   "content": "大脑不同区域功能各异",
+   "from": 69.27,
+   "location": 2,
+   "music": 0.0,
+   "sid": 33,
+   "to": 72.65
+  },
+  {
+   "content": "例如",
+   "from": 72.65,
+   "location": 2,
+   "music": 0.0,
+   "sid": 34,
+   "to": 73.43
+  },
+  {
+   "content": "背外侧前额叶皮层负责精细推理和规划",
+   "from": 73.43,
+   "location": 2,
+   "music": 0.0,
+   "sid": 35,
+   "to": 79.0
+  },
+  {
+   "content": "而腹侧内侧和眶额皮层则负责评估选项",
+   "from": 79.0,
+   "location": 2,
+   "music": 0.0,
+   "sid": 36,
+   "to": 84.4
+  },
+  {
+   "content": "以及体验和调节情绪",
+   "from": 84.4,
+   "location": 2,
+   "music": 0.0,
+   "sid": 37,
+   "to": 87.4
+  },
+  {
+   "content": "现在你会发现我使用像'脑区X参与'",
+   "from": 87.4,
+   "location": 2,
+   "music": 0.0,
+   "sid": 38,
+   "to": 92.45
+  },
+  {
+   "content": "或'脑区X对功能Y重要'这类表述",
+   "from": 92.45,
+   "location": 2,
+   "music": 0.0,
+   "sid": 39,
+   "to": 94.71
+  },
+  {
+   "content": "而非说'脑区X导致功能Y'",
+   "from": 94.71,
+   "location": 2,
+   "music": 0.0,
+   "sid": 40,
+   "to": 98.61
+  },
+  {
+   "content": "这是因为规划和推理时大脑区域从不单独运作",
+   "from": 98.61,
+   "location": 2,
+   "music": 0.0,
+   "sid": 41,
+   "to": 103.36
+  },
+  {
+   "content": "背外侧前额叶皮层与深部脑区协作",
+   "from": 103.36,
+   "location": 2,
+   "music": 0.0,
+   "sid": 42,
+   "to": 107.64
+  },
+  {
+   "content": "如前扣带回",
+   "from": 107.64,
+   "location": 2,
+   "music": 0.0,
+   "sid": 43,
+   "to": 109.74
+  },
+  {
+   "content": "纹状体和海马体",
+   "from": 109.74,
+   "location": 2,
+   "music": 0.0,
+   "sid": 44,
+   "to": 111.66
+  },
+  {
+   "content": "以及顶叶皮层等其他皮层区域",
+   "from": 111.66,
+   "location": 2,
+   "music": 0.0,
+   "sid": 45,
+   "to": 115.16
+  },
+  {
+   "content": "这意味着大脑执行任何任务时",
+   "from": 115.16,
+   "location": 2,
+   "music": 0.0,
+   "sid": 46,
+   "to": 117.61
+  },
+  {
+   "content": "必须确保各区域高效沟通",
+   "from": 117.61,
+   "location": 2,
+   "music": 0.0,
+   "sid": 47,
+   "to": 122.03
+  },
+  {
+   "content": "想象大脑如同一支庞大乐队",
+   "from": 122.03,
+   "location": 2,
+   "music": 0.0,
+   "sid": 48,
+   "to": 124.23
+  },
+  {
+   "content": "脑区如同独立乐手",
+   "from": 124.23,
+   "location": 2,
+   "music": 0.0,
+   "sid": 49,
+   "to": 126.69
+  },
+  {
+   "content": "而心理功能则是乐队演奏的乐章",
+   "from": 126.69,
+   "location": 2,
+   "music": 0.0,
+   "sid": 50,
+   "to": 130.16
+  },
+  {
+   "content": "如果乐队成员没有按自己的部分演奏",
+   "from": 130.16,
+   "location": 2,
+   "music": 0.0,
+   "sid": 51,
+   "to": 132.82
+  },
+  {
+   "content": "如果他延迟得太快",
+   "from": 132.82,
+   "location": 2,
+   "music": 0.0,
+   "sid": 52,
+   "to": 134.48
+  },
+  {
+   "content": "或者完全演奏不同的旋律",
+   "from": 134.48,
+   "location": 2,
+   "music": 0.0,
+   "sid": 53,
+   "to": 136.7
+  },
+  {
+   "content": "这首歌听起来就不会好听",
+   "from": 136.7,
+   "location": 2,
+   "music": 0.0,
+   "sid": 54,
+   "to": 139.39
+  },
+  {
+   "content": "如果所有乐队成员节奏不同",
+   "from": 139.39,
+   "location": 2,
+   "music": 0.0,
+   "sid": 55,
+   "to": 142.43
+  },
+  {
+   "content": "或者有些人休息而其他人仍在演奏",
+   "from": 142.43,
+   "location": 2,
+   "music": 0.0,
+   "sid": 56,
+   "to": 146.07
+  },
+  {
+   "content": "几乎不成一首完整的歌",
+   "from": 146.07,
+   "location": 2,
+   "music": 0.0,
+   "sid": 57,
+   "to": 148.81
+  },
+  {
+   "content": "同样地",
+   "from": 148.81,
+   "location": 2,
+   "music": 0.0,
+   "sid": 58,
+   "to": 149.71
+  },
+  {
+   "content": "如果大脑负责特定心理功能的区域不同步",
+   "from": 149.71,
+   "location": 2,
+   "music": 0.0,
+   "sid": 59,
+   "to": 153.959
+  },
+  {
+   "content": "大脑执行该功能会更困难",
+   "from": 153.959,
+   "location": 2,
+   "music": 0.0,
+   "sid": 60,
+   "to": 157.259
+  },
+  {
+   "content": "现在",
+   "from": 157.259,
+   "location": 2,
+   "music": 0.0,
+   "sid": 61,
+   "to": 157.639
+  },
+  {
+   "content": "神经科学关于心理疲劳的最有趣发现之一是",
+   "from": 157.639,
+   "location": 2,
+   "music": 0.0,
+   "sid": 62,
+   "to": 162.18
+  },
+  {
+   "content": "当我们长时间专注于一项任务时",
+   "from": 162.18,
+   "location": 2,
+   "music": 0.0,
+   "sid": 63,
+   "to": 165.46
+  },
+  {
+   "content": "这种同步开始逐渐瓦解",
+   "from": 165.46,
+   "location": 2,
+   "music": 0.0,
+   "sid": 64,
+   "to": 169.0
+  },
+  {
+   "content": "例如",
+   "from": 169.0,
+   "location": 2,
+   "music": 0.0,
+   "sid": 65,
+   "to": 169.74
+  },
+  {
+   "content": "fMRI扫描显示心理疲劳与全局连接性降低相关",
+   "from": 169.74,
+   "location": 2,
+   "music": 0.0,
+   "sid": 66,
+   "to": 175.87
+  },
+  {
+   "content": "路径长度增加且小世界性减少",
+   "from": 175.87,
+   "location": 2,
+   "music": 0.0,
+   "sid": 67,
+   "to": 179.01
+  },
+  {
+   "content": "换句话说",
+   "from": 179.01,
+   "location": 2,
+   "music": 0.0,
+   "sid": 68,
+   "to": 179.95
+  },
+  {
+   "content": "大脑区域间所需的连接对我们",
+   "from": 179.95,
+   "location": 2,
+   "music": 0.0,
+   "sid": 69,
+   "to": 182.91
+  },
+  {
+   "content": "执行任何认知任务都会衰退",
+   "from": 182.91,
+   "location": 2,
+   "music": 0.0,
+   "sid": 70,
+   "to": 187.06
+  },
+  {
+   "content": "大脑区域间通信效率下降",
+   "from": 187.06,
+   "location": 2,
+   "music": 0.0,
+   "sid": 71,
+   "to": 190.47
+  },
+  {
+   "content": "通常高度连接的脑区反而减少交流",
+   "from": 190.47,
+   "location": 2,
+   "music": 0.0,
+   "sid": 72,
+   "to": 197.02
+  },
+  {
+   "content": "所以快速总结我之前讨论的内容",
+   "from": 197.02,
+   "location": 2,
+   "music": 0.0,
+   "sid": 73,
+   "to": 200.209
+  },
+  {
+   "content": "脑区高效通信是认知功能优化的关键",
+   "from": 200.209,
+   "location": 2,
+   "music": 0.0,
+   "sid": 74,
+   "to": 205.92
+  },
+  {
+   "content": "心理疲劳与此类通信效率降低相关",
+   "from": 205.92,
+   "location": 2,
+   "music": 0.0,
+   "sid": 75,
+   "to": 212.51
+  },
+  {
+   "content": "正如我们稍后将看到",
+   "from": 212.51,
+   "location": 2,
+   "music": 0.0,
+   "sid": 76,
+   "to": 213.97
+  },
+  {
+   "content": "理解这些机制有助于制定对抗疲劳和增强认知韧性的策略",
+   "from": 213.97,
+   "location": 2,
+   "music": 0.0,
+   "sid": 77,
+   "to": 220.66
+  },
+  {
+   "content": "但这一切仍未解释大脑为何呈现此模式",
+   "from": 220.66,
+   "location": 2,
+   "music": 0.0,
+   "sid": 78,
+   "to": 224.1
+  },
+  {
+   "content": "为回答这一持续努力",
+   "from": 224.1,
+   "location": 2,
+   "music": 0.0,
+   "sid": 79,
+   "to": 227.37
+  },
+  {
+   "content": "我们必须思考为何会感到精神耗竭",
+   "from": 227.37,
+   "location": 2,
+   "music": 0.0,
+   "sid": 80,
+   "to": 230.29
+  },
+  {
+   "content": "作为快速补充",
+   "from": 230.29,
+   "location": 2,
+   "music": 0.0,
+   "sid": 81,
+   "to": 231.33
+  },
+  {
+   "content": "虽然我在视频描述中有完整参考文献列表",
+   "from": 231.33,
+   "location": 2,
+   "music": 0.0,
+   "sid": 82,
+   "to": 234.72
+  },
+  {
+   "content": "我想强调",
+   "from": 234.72,
+   "location": 2,
+   "music": 0.0,
+   "sid": 83,
+   "to": 236.08
+  },
+  {
+   "content": "我主要依赖阿尔伯特·科克2022年的综述",
+   "from": 236.08,
+   "location": 2,
+   "music": 0.0,
+   "sid": 84,
+   "to": 240.96
+  },
+  {
+   "content": "发表于《脑与认知》期刊",
+   "from": 240.96,
+   "location": 2,
+   "music": 0.0,
+   "sid": 85,
+   "to": 243.66
+  },
+  {
+   "content": "好的",
+   "from": 243.66,
+   "location": 2,
+   "music": 0.0,
+   "sid": 86,
+   "to": 244.08
+  },
+  {
+   "content": "现在回到我们最初为何感到精神疲劳",
+   "from": 244.08,
+   "location": 2,
+   "music": 0.0,
+   "sid": 87,
+   "to": 247.59
+  },
+  {
+   "content": "正如之前学习的例子所示",
+   "from": 247.59,
+   "location": 2,
+   "music": 0.0,
+   "sid": 88,
+   "to": 249.93
+  },
+  {
+   "content": "随着我们在认知任务上投入更多时间",
+   "from": 249.93,
+   "location": 2,
+   "music": 0.0,
+   "sid": 89,
+   "to": 253.17
+  },
+  {
+   "content": "疲劳加剧且注意力下降",
+   "from": 253.17,
+   "location": 2,
+   "music": 0.0,
+   "sid": 90,
+   "to": 257.43
+  },
+  {
+   "content": "但仔细想想",
+   "from": 257.43,
+   "location": 2,
+   "music": 0.0,
+   "sid": 91,
+   "to": 259.11
+  },
+  {
+   "content": "这似乎有点奇怪",
+   "from": 259.11,
+   "location": 2,
+   "music": 0.0,
+   "sid": 92,
+   "to": 260.25
+  },
+  {
+   "content": "难道不会预期",
+   "from": 260.25,
+   "location": 2,
+   "music": 0.0,
+   "sid": 93,
+   "to": 261.59
+  },
+  {
+   "content": "如果大脑长时间执行同一任务",
+   "from": 261.59,
+   "location": 2,
+   "music": 0.0,
+   "sid": 94,
+   "to": 265.84
+  },
+  {
+   "content": "任务会变得更容易",
+   "from": 265.84,
+   "location": 2,
+   "music": 0.0,
+   "sid": 95,
+   "to": 267.64
+  },
+  {
+   "content": "而非更难",
+   "from": 267.64,
+   "location": 2,
+   "music": 0.0,
+   "sid": 96,
+   "to": 268.4
+  },
+  {
+   "content": "毕竟神经元不断形成新连接",
+   "from": 268.4,
+   "location": 2,
+   "music": 0.0,
+   "sid": 97,
+   "to": 271.1
+  },
+  {
+   "content": "相关神经通路是否随时间更高效",
+   "from": 271.1,
+   "location": 2,
+   "music": 0.0,
+   "sid": 98,
+   "to": 275.819
+  },
+  {
+   "content": "事实上经过数日周的刻意练习确实如此",
+   "from": 275.819,
+   "location": 2,
+   "music": 0.0,
+   "sid": 99,
+   "to": 280.41
+  },
+  {
+   "content": "但为何数小时连续练习不发生",
+   "from": 280.41,
+   "location": 2,
+   "music": 0.0,
+   "sid": 100,
+   "to": 285.13
+  },
+  {
+   "content": "肌肉为回答这个问题提供了一个有益的类比",
+   "from": 285.13,
+   "location": 2,
+   "music": 0.0,
+   "sid": 101,
+   "to": 288.39
+  },
+  {
+   "content": "你无法长时间跑步或举重，否则肌肉会严重疲劳",
+   "from": 288.39,
+   "location": 2,
+   "music": 0.0,
+   "sid": 102,
+   "to": 293.73
+  },
+  {
+   "content": "最终它们会完全失去功能",
+   "from": 293.73,
+   "location": 2,
+   "music": 0.0,
+   "sid": 103,
+   "to": 296.11
+  },
+  {
+   "content": "这是由于能量储备的耗竭",
+   "from": 296.11,
+   "location": 2,
+   "music": 0.0,
+   "sid": 104,
+   "to": 298.47
+  },
+  {
+   "content": "代谢产物的积累",
+   "from": 298.47,
+   "location": 2,
+   "music": 0.0,
+   "sid": 105,
+   "to": 301.08
+  },
+  {
+   "content": "以及肌肉纤维无法维持持续收缩和表现",
+   "from": 301.08,
+   "location": 2,
+   "music": 0.0,
+   "sid": 106,
+   "to": 306.74
+  },
+  {
+   "content": "但让肌肉休息几天",
+   "from": 306.74,
+   "location": 2,
+   "music": 0.0,
+   "sid": 107,
+   "to": 309.06
+  },
+  {
+   "content": "它们不仅在恢复",
+   "from": 309.06,
+   "location": 2,
+   "music": 0.0,
+   "sid": 108,
+   "to": 311.18
+  },
+  {
+   "content": "反而变得更加强壮",
+   "from": 311.18,
+   "location": 2,
+   "music": 0.0,
+   "sid": 109,
+   "to": 312.82
+  },
+  {
+   "content": "因此",
+   "from": 312.82,
+   "location": 2,
+   "music": 0.0,
+   "sid": 110,
+   "to": 314.25
+  },
+  {
+   "content": "在脑力活动中也会发生类似现象",
+   "from": 314.61,
+   "location": 2,
+   "music": 0.0,
+   "sid": 111,
+   "to": 319.04
+  },
+  {
+   "content": "并非脑细胞完全像肌肉细胞那样分解",
+   "from": 319.04,
+   "location": 2,
+   "music": 0.0,
+   "sid": 112,
+   "to": 323.51
+  },
+  {
+   "content": "但",
+   "from": 323.51,
+   "location": 2,
+   "music": 0.0,
+   "sid": 113,
+   "to": 323.91
+  },
+  {
+   "content": "似乎",
+   "from": 323.91,
+   "location": 2,
+   "music": 0.0,
+   "sid": 114,
+   "to": 324.87
+  },
+  {
+   "content": "精神疲劳的重要因素之一是关键神经递质的耗竭",
+   "from": 324.87,
+   "location": 2,
+   "music": 0.0,
+   "sid": 115,
+   "to": 330.51
+  },
+  {
+   "content": "分子",
+   "from": 330.51,
+   "location": 2,
+   "music": 0.0,
+   "sid": 116,
+   "to": 331.289
+  },
+  {
+   "content": "最佳多巴胺水平已被证明能提升认知表现",
+   "from": 332.61,
+   "location": 2,
+   "music": 0.0,
+   "sid": 117,
+   "to": 337.03
+  },
+  {
+   "content": "并增强高水平的动机",
+   "from": 337.03,
+   "location": 2,
+   "music": 0.0,
+   "sid": 118,
+   "to": 340.37
+  },
+  {
+   "content": "多巴胺会让我们感到愉悦",
+   "from": 340.37,
+   "location": 2,
+   "music": 0.0,
+   "sid": 119,
+   "to": 342.71
+  },
+  {
+   "content": "但其直接作用是激活大脑区域",
+   "from": 342.71,
+   "location": 2,
+   "music": 0.0,
+   "sid": 120,
+   "to": 346.17
+  },
+  {
+   "content": "如纹状体和前额叶皮层",
+   "from": 346.17,
+   "location": 2,
+   "music": 0.0,
+   "sid": 121,
+   "to": 348.909
+  },
+  {
+   "content": "并协调它们的功能",
+   "from": 348.909,
+   "location": 2,
+   "music": 0.0,
+   "sid": 122,
+   "to": 350.969
+  },
+  {
+   "content": "这些脑区对工作记忆至关重要",
+   "from": 350.969,
+   "location": 2,
+   "music": 0.0,
+   "sid": 123,
+   "to": 355.309
+  },
+  {
+   "content": "我们用来保持信息在意识前沿的记忆类型",
+   "from": 355.309,
+   "location": 2,
+   "music": 0.0,
+   "sid": 124,
+   "to": 359.76
+  },
+  {
+   "content": "现在",
+   "from": 359.76,
+   "location": 2,
+   "music": 0.0,
+   "sid": 125,
+   "to": 360.12
+  },
+  {
+   "content": "纹状体和皮层似乎协同工作",
+   "from": 360.12,
+   "location": 2,
+   "music": 0.0,
+   "sid": 126,
+   "to": 362.88
+  },
+  {
+   "content": "将信息存入和取出工作记忆",
+   "from": 362.88,
+   "location": 2,
+   "music": 0.0,
+   "sid": 127,
+   "to": 366.18
+  },
+  {
+   "content": "当多巴胺水平过低时",
+   "from": 366.18,
+   "location": 2,
+   "music": 0.0,
+   "sid": 128,
+   "to": 368.539
+  },
+  {
+   "content": "负责工作记忆的皮质-纹状体通路效率下降",
+   "from": 368.539,
+   "location": 2,
+   "music": 0.0,
+   "sid": 129,
+   "to": 375.18
+  },
+  {
+   "content": "但多巴胺也参与学习过程",
+   "from": 375.18,
+   "location": 2,
+   "music": 0.0,
+   "sid": 130,
+   "to": 378.28
+  },
+  {
+   "content": "尤其是从正负反馈中学习",
+   "from": 378.28,
+   "location": 2,
+   "music": 0.0,
+   "sid": 131,
+   "to": 381.539
+  },
+  {
+   "content": "因此如果多巴胺水平过低",
+   "from": 381.539,
+   "location": 2,
+   "music": 0.0,
+   "sid": 132,
+   "to": 383.879
+  },
+  {
+   "content": "我们从反馈中学习的能力也会减弱",
+   "from": 383.879,
+   "location": 2,
+   "music": 0.0,
+   "sid": 133,
+   "to": 386.679
+  },
+  {
+   "content": "有趣的是",
+   "from": 386.679,
+   "location": 2,
+   "music": 0.0,
+   "sid": 134,
+   "to": 387.299
+  },
+  {
+   "content": "研究显示过多的多巴胺对认知也有类似影响",
+   "from": 387.299,
+   "location": 2,
+   "music": 0.0,
+   "sid": 135,
+   "to": 392.33
+  },
+  {
+   "content": "表明存在多巴胺的最佳水平范围",
+   "from": 392.33,
+   "location": 2,
+   "music": 0.0,
+   "sid": 136,
+   "to": 396.32
+  },
+  {
+   "content": "超出此范围认知控制和动机开始衰退",
+   "from": 396.32,
+   "location": 2,
+   "music": 0.0,
+   "sid": 137,
+   "to": 400.97
+  },
+  {
+   "content": "现在多巴胺",
+   "from": 400.97,
+   "location": 2,
+   "music": 0.0,
+   "sid": 138,
+   "to": 402.01
+  },
+  {
+   "content": "像所有神经递质一样",
+   "from": 402.01,
+   "location": 2,
+   "music": 0.0,
+   "sid": 139,
+   "to": 403.59
+  },
+  {
+   "content": "需要重新合成",
+   "from": 403.59,
+   "location": 2,
+   "music": 0.0,
+   "sid": 140,
+   "to": 405.49
+  },
+  {
+   "content": "换句话说",
+   "from": 405.49,
+   "location": 2,
+   "music": 0.0,
+   "sid": 141,
+   "to": 406.37
+  },
+  {
+   "content": "我们任何时候都不会有无限多的多巴胺储备",
+   "from": 406.37,
+   "location": 2,
+   "music": 0.0,
+   "sid": 142,
+   "to": 409.74
+  },
+  {
+   "content": "大脑需将氨基酸左旋酪氨酸转化为多巴胺",
+   "from": 409.74,
+   "location": 2,
+   "music": 0.0,
+   "sid": 143,
+   "to": 413.96
+  },
+  {
+   "content": "以补充储备",
+   "from": 413.96,
+   "location": 2,
+   "music": 0.0,
+   "sid": 144,
+   "to": 415.49
+  },
+  {
+   "content": "此外",
+   "from": 415.49,
+   "location": 2,
+   "music": 0.0,
+   "sid": 145,
+   "to": 416.17
+  },
+  {
+   "content": "多巴胺水平通常在睡眠中恢复",
+   "from": 416.17,
+   "location": 2,
+   "music": 0.0,
+   "sid": 146,
+   "to": 420.73
+  },
+  {
+   "content": "因此暂停认知活动",
+   "from": 420.73,
+   "location": 2,
+   "music": 0.0,
+   "sid": 147,
+   "to": 425.15
+  },
+  {
+   "content": "尤其是休息时睡眠有助于减轻精神疲劳并部分恢复动力",
+   "from": 425.15,
+   "location": 2,
+   "music": 0.0,
+   "sid": 148,
+   "to": 432.039
+  },
+  {
+   "content": "现在",
+   "from": 432.039,
+   "location": 2,
+   "music": 0.0,
+   "sid": 149,
+   "to": 432.479
+  },
+  {
+   "content": "一个有趣且相关的假说尚未在人类中得到充分证实",
+   "from": 432.479,
+   "location": 2,
+   "music": 0.0,
+   "sid": 150,
+   "to": 437.65
+  },
+  {
+   "content": "血清素也可能在精神疲劳中起作用",
+   "from": 437.65,
+   "location": 2,
+   "music": 0.0,
+   "sid": 151,
+   "to": 441.61
+  },
+  {
+   "content": "动物研究表明，当血清素水平远高于多巴胺水平时",
+   "from": 441.61,
+   "location": 2,
+   "music": 0.0,
+   "sid": 152,
+   "to": 447.4
+  },
+  {
+   "content": "动物会变得昏昏欲睡且任务表现明显下降",
+   "from": 447.72,
+   "location": 2,
+   "music": 0.0,
+   "sid": 153,
+   "to": 451.49
+  },
+  {
+   "content": "因此",
+   "from": 451.49,
+   "location": 2,
+   "music": 0.0,
+   "sid": 154,
+   "to": 451.85
+  },
+  {
+   "content": "可能",
+   "from": 451.85,
+   "location": 2,
+   "music": 0.0,
+   "sid": 155,
+   "to": 452.41
+  },
+  {
+   "content": "多巴胺和血清素的平衡更为重要",
+   "from": 452.41,
+   "location": 2,
+   "music": 0.0,
+   "sid": 156,
+   "to": 455.89
+  },
+  {
+   "content": "而非单一物质的绝对水平",
+   "from": 455.89,
+   "location": 2,
+   "music": 0.0,
+   "sid": 157,
+   "to": 458.72
+  },
+  {
+   "content": "现在",
+   "from": 458.72,
+   "location": 2,
+   "music": 0.0,
+   "sid": 158,
+   "to": 459.2
+  },
+  {
+   "content": "一个有趣的补充是，多巴胺实际上是另一种神经递质的化学前体",
+   "from": 459.2,
+   "location": 2,
+   "music": 0.0,
+   "sid": 159,
+   "to": 464.47
+  },
+  {
+   "content": "去甲肾上腺素",
+   "from": 464.47,
+   "location": 2,
+   "music": 0.0,
+   "sid": 160,
+   "to": 465.63
+  },
+  {
+   "content": "去甲肾上腺素直接维持大脑皮层的活跃与清醒",
+   "from": 465.63,
+   "location": 2,
+   "music": 0.0,
+   "sid": 161,
+   "to": 470.32
+  },
+  {
+   "content": "但另一方面",
+   "from": 470.32,
+   "location": 2,
+   "music": 0.0,
+   "sid": 162,
+   "to": 471.52
+  },
+  {
+   "content": "血清素是褪黑素这种激素的化学前体",
+   "from": 471.52,
+   "location": 2,
+   "music": 0.0,
+   "sid": 163,
+   "to": 475.69
+  },
+  {
+   "content": "你可能知道褪黑素在大脑昼夜节律中起关键作用",
+   "from": 475.69,
+   "location": 2,
+   "music": 0.0,
+   "sid": 164,
+   "to": 480.21
+  },
+  {
+   "content": "褪黑素水平升高会让人感到困倦和乏力",
+   "from": 480.21,
+   "location": 2,
+   "music": 0.0,
+   "sid": 165,
+   "to": 483.88
+  },
+  {
+   "content": "随着多巴胺水平上升",
+   "from": 483.88,
+   "location": 2,
+   "music": 0.0,
+   "sid": 166,
+   "to": 485.9
+  },
+  {
+   "content": "去甲肾上腺素水平也会相应升高",
+   "from": 485.9,
+   "location": 2,
+   "music": 0.0,
+   "sid": 167,
+   "to": 490.22
+  },
+  {
+   "content": "反之，血清素水平升高时",
+   "from": 490.58,
+   "location": 2,
+   "music": 0.0,
+   "sid": 168,
+   "to": 492.84
+  },
+  {
+   "content": "褪黑素水平也会随之上升",
+   "from": 492.84,
+   "location": 2,
+   "music": 0.0,
+   "sid": 169,
+   "to": 496.159
+  },
+  {
+   "content": "尽管这一假说颇具吸引力",
+   "from": 496.159,
+   "location": 2,
+   "music": 0.0,
+   "sid": 170,
+   "to": 498.459
+  },
+  {
+   "content": "我想强调这仍是一个假说",
+   "from": 498.459,
+   "location": 2,
+   "music": 0.0,
+   "sid": 171,
+   "to": 501.039
+  },
+  {
+   "content": "甚至在更基础的人类层面尚未得到证实",
+   "from": 501.039,
+   "location": 2,
+   "music": 0.0,
+   "sid": 172,
+   "to": 504.869
+  },
+  {
+   "content": "精神疲劳和身体疲劳也可能源于低血糖",
+   "from": 504.869,
+   "location": 2,
+   "music": 0.0,
+   "sid": 173,
+   "to": 509.86
+  },
+  {
+   "content": "如果你能量耗尽",
+   "from": 509.86,
+   "location": 2,
+   "music": 0.0,
+   "sid": 174,
+   "to": 512.02
+  },
+  {
+   "content": "身体细胞",
+   "from": 512.02,
+   "location": 2,
+   "music": 0.0,
+   "sid": 175,
+   "to": 513.56
+  },
+  {
+   "content": "包括神经元",
+   "from": 513.56,
+   "location": 2,
+   "music": 0.0,
+   "sid": 176,
+   "to": 514.799
+  },
+  {
+   "content": "无法正常运作",
+   "from": 514.799,
+   "location": 2,
+   "music": 0.0,
+   "sid": 177,
+   "to": 516.579
+  },
+  {
+   "content": "你会开始感到虚弱和疲倦",
+   "from": 516.579,
+   "location": 2,
+   "music": 0.0,
+   "sid": 178,
+   "to": 519.27
+  },
+  {
+   "content": "此外饥饿感也会让人分心对吧",
+   "from": 519.59,
+   "location": 2,
+   "music": 0.0,
+   "sid": 179,
+   "to": 522.55
+  },
+  {
+   "content": "甚至可能带来疼痛",
+   "from": 522.55,
+   "location": 2,
+   "music": 0.0,
+   "sid": 180,
+   "to": 523.81
+  },
+  {
+   "content": "进化使我们产生了对饥饿的厌恶",
+   "from": 523.81,
+   "location": 2,
+   "music": 0.0,
+   "sid": 181,
+   "to": 527.349
+  },
+  {
+   "content": "以避免饿死或昏厥被狮子捕食",
+   "from": 527.349,
+   "location": 2,
+   "music": 0.0,
+   "sid": 182,
+   "to": 531.4
+  },
+  {
+   "content": "这就是为什么在学习期间你可能感觉格外糟糕",
+   "from": 531.64,
+   "location": 2,
+   "music": 0.0,
+   "sid": 183,
+   "to": 535.92
+  },
+  {
+   "content": "如果一整天没吃东西",
+   "from": 535.92,
+   "location": 2,
+   "music": 0.0,
+   "sid": 184,
+   "to": 538.12
+  },
+  {
+   "content": "大脑正在做成本效益分析",
+   "from": 538.4,
+   "location": 2,
+   "music": 0.0,
+   "sid": 185,
+   "to": 540.98
+  },
+  {
+   "content": "继续进行高强度脑力活动所需的努力成本",
+   "from": 540.98,
+   "location": 2,
+   "music": 0.0,
+   "sid": 186,
+   "to": 546.29
+  },
+  {
+   "content": "高于获得好成绩的预期收益",
+   "from": 546.29,
+   "location": 2,
+   "music": 0.0,
+   "sid": 187,
+   "to": 550.55
+  },
+  {
+   "content": "更准确地说，由于大脑多巴胺和葡萄糖水平低下",
+   "from": 550.55,
+   "location": 2,
+   "music": 0.0,
+   "sid": 188,
+   "to": 555.07
+  },
+  {
+   "content": "当前成本高于预期收益",
+   "from": 555.07,
+   "location": 2,
+   "music": 0.0,
+   "sid": 189,
+   "to": 558.51
+  },
+  {
+   "content": "换句话说",
+   "from": 558.51,
+   "location": 2,
+   "music": 0.0,
+   "sid": 190,
+   "to": 559.55
+  },
+  {
+   "content": "现在继续学习的价值是负数",
+   "from": 559.55,
+   "location": 2,
+   "music": 0.0,
+   "sid": 191,
+   "to": 563.59
+  },
+  {
+   "content": "因为预期奖励低于当前成本",
+   "from": 563.59,
+   "location": 2,
+   "music": 0.0,
+   "sid": 192,
+   "to": 567.09
+  },
+  {
+   "content": "如果休息一下",
+   "from": 567.09,
+   "location": 2,
+   "music": 0.0,
+   "sid": 193,
+   "to": 568.27
+  },
+  {
+   "content": "晒晒太阳",
+   "from": 568.27,
+   "location": 2,
+   "music": 0.0,
+   "sid": 194,
+   "to": 569.21
+  },
+  {
+   "content": "吃点零食并提醒自己只剩几天学习时间",
+   "from": 569.21,
+   "location": 2,
+   "music": 0.0,
+   "sid": 195,
+   "to": 573.56
+  },
+  {
+   "content": "甚至小睡片刻",
+   "from": 573.56,
+   "location": 2,
+   "music": 0.0,
+   "sid": 196,
+   "to": 575.38
+  },
+  {
+   "content": "或许这种成本效益分析会改变",
+   "from": 575.38,
+   "location": 2,
+   "music": 0.0,
+   "sid": 197,
+   "to": 577.98
+  },
+  {
+   "content": "学习的价值会提升",
+   "from": 577.98,
+   "location": 2,
+   "music": 0.0,
+   "sid": 198,
+   "to": 580.29
+  },
+  {
+   "content": "这表明大脑具备此类计算机制",
+   "from": 580.29,
+   "location": 2,
+   "music": 0.0,
+   "sid": 199,
+   "to": 585.42
+  },
+  {
+   "content": "但具体是什么机制呢",
+   "from": 585.42,
+   "location": 2,
+   "music": 0.0,
+   "sid": 200,
+   "to": 588.02
+  },
+  {
+   "content": "好的",
+   "from": 588.02,
+   "location": 2,
+   "music": 0.0,
+   "sid": 201,
+   "to": 588.54
+  },
+  {
+   "content": "在我们深入之前",
+   "from": 588.54,
+   "location": 2,
+   "music": 0.0,
+   "sid": 202,
+   "to": 589.32
+  },
+  {
+   "content": "这信息量很大",
+   "from": 589.32,
+   "location": 2,
+   "music": 0.0,
+   "sid": 203,
+   "to": 590.54
+  },
+  {
+   "content": "所以在回答那个问题前我们先快速总结一下",
+   "from": 590.54,
+   "location": 2,
+   "music": 0.0,
+   "sid": 204,
+   "to": 594.42
+  },
+  {
+   "content": "好的",
+   "from": 594.42,
+   "location": 2,
+   "music": 0.0,
+   "sid": 205,
+   "to": 595.08
+  },
+  {
+   "content": "精神疲劳与多巴胺",
+   "from": 595.08,
+   "location": 2,
+   "music": 0.0,
+   "sid": 206,
+   "to": 596.76
+  },
+  {
+   "content": "长时间脑力任务",
+   "from": 596.76,
+   "location": 2,
+   "music": 0.0,
+   "sid": 207,
+   "to": 598.44
+  },
+  {
+   "content": "会消耗多巴胺",
+   "from": 598.44,
+   "location": 2,
+   "music": 0.0,
+   "sid": 208,
+   "to": 599.819
+  },
+  {
+   "content": "从而降低动机和认知效率",
+   "from": 599.819,
+   "location": 2,
+   "music": 0.0,
+   "sid": 209,
+   "to": 603.099
+  },
+  {
+   "content": "多巴胺水平过高或过低都会损害认知控制",
+   "from": 603.099,
+   "location": 2,
+   "music": 0.0,
+   "sid": 210,
+   "to": 607.83
+  },
+  {
+   "content": "血清素",
+   "from": 607.83,
+   "location": 2,
+   "music": 0.0,
+   "sid": 211,
+   "to": 609.09
+  },
+  {
+   "content": "血清素相对多巴胺过高会导致倦怠",
+   "from": 609.09,
+   "location": 2,
+   "music": 0.0,
+   "sid": 212,
+   "to": 612.95
+  },
+  {
+   "content": "这两种神经递质的平衡对维持精力和警觉至关重要",
+   "from": 612.95,
+   "location": 2,
+   "music": 0.0,
+   "sid": 213,
+   "to": 618.44
+  },
+  {
+   "content": "我们之前讨论过饥饿问题",
+   "from": 618.44,
+   "location": 2,
+   "music": 0.0,
+   "sid": 214,
+   "to": 619.8
+  },
+  {
+   "content": "对的",
+   "from": 619.8,
+   "location": 2,
+   "music": 0.0,
+   "sid": 215,
+   "to": 620.04
+  },
+  {
+   "content": "低",
+   "from": 620.04,
+   "location": 2,
+   "music": 0.0,
+   "sid": 216,
+   "to": 620.32
+  },
+  {
+   "content": "血糖和饥饿会分散并削弱认知表现",
+   "from": 620.32,
+   "location": 2,
+   "music": 0.0,
+   "sid": 217,
+   "to": 624.08
+  },
+  {
+   "content": "这凸显了充足营养的必要性",
+   "from": 624.08,
+   "location": 2,
+   "music": 0.0,
+   "sid": 218,
+   "to": 626.84
+  },
+  {
+   "content": "当你进行这类脑力任务时",
+   "from": 626.84,
+   "location": 2,
+   "music": 0.0,
+   "sid": 219,
+   "to": 629.55
+  },
+  {
+   "content": "好的",
+   "from": 629.55,
+   "location": 2,
+   "music": 0.0,
+   "sid": 220,
+   "to": 630.23
+  },
+  {
+   "content": "现在回到大脑的成本效益分析",
+   "from": 630.23,
+   "location": 2,
+   "music": 0.0,
+   "sid": 221,
+   "to": 632.95
+  },
+  {
+   "content": "四个脑区对此尤为重要",
+   "from": 632.95,
+   "location": 2,
+   "music": 0.0,
+   "sid": 222,
+   "to": 636.599
+  },
+  {
+   "content": "腹内侧前额叶皮层或vmPFC",
+   "from": 636.599,
+   "location": 2,
+   "music": 0.0,
+   "sid": 223,
+   "to": 640.13
+  },
+  {
+   "content": "腹侧纹状体",
+   "from": 640.13,
+   "location": 2,
+   "music": 0.0,
+   "sid": 224,
+   "to": 641.95
+  },
+  {
+   "content": "前岛叶和背侧前扣带皮层",
+   "from": 641.95,
+   "location": 2,
+   "music": 0.0,
+   "sid": 225,
+   "to": 646.349
+  },
+  {
+   "content": "我们逐一来看这些区域",
+   "from": 646.349,
+   "location": 2,
+   "music": 0.0,
+   "sid": 226,
+   "to": 648.429
+  },
+  {
+   "content": "在决策神经科学中",
+   "from": 648.429,
+   "location": 2,
+   "music": 0.0,
+   "sid": 227,
+   "to": 650.569
+  },
+  {
+   "content": "vmPFC和腹侧纹状体最受关注",
+   "from": 650.569,
+   "location": 2,
+   "music": 0.0,
+   "sid": 228,
+   "to": 654.81
+  },
+  {
+   "content": "如果我给你展示一个苹果和香蕉",
+   "from": 654.81,
+   "location": 2,
+   "music": 0.0,
+   "sid": 229,
+   "to": 657.45
+  },
+  {
+   "content": "你会选择哪个",
+   "from": 657.45,
+   "location": 2,
+   "music": 0.0,
+   "sid": 230,
+   "to": 659.29
+  },
+  {
+   "content": "假设你选了苹果",
+   "from": 659.61,
+   "location": 2,
+   "music": 0.0,
+   "sid": 231,
+   "to": 660.99
+  },
+  {
+   "content": "如果我在你做决定时扫描你的大脑",
+   "from": 660.99,
+   "location": 2,
+   "music": 0.0,
+   "sid": 232,
+   "to": 664.29
+  },
+  {
+   "content": "我能以高于随机水平预测你的选择",
+   "from": 664.29,
+   "location": 2,
+   "music": 0.0,
+   "sid": 233,
+   "to": 668.0
+  },
+  {
+   "content": "基于vmPFC和腹侧纹状体的活动",
+   "from": 668.0,
+   "location": 2,
+   "music": 0.0,
+   "sid": 234,
+   "to": 674.98
+  },
+  {
+   "content": "换句话说",
+   "from": 675.3,
+   "location": 2,
+   "music": 0.0,
+   "sid": 235,
+   "to": 677.46
+  },
+  {
+   "content": "这些区域在最终选择的选项上激活更强烈",
+   "from": 677.46,
+   "location": 2,
+   "music": 0.0,
+   "sid": 236,
+   "to": 682.91
+  },
+  {
+   "content": "一般来说",
+   "from": 682.91,
+   "location": 2,
+   "music": 0.0,
+   "sid": 237,
+   "to": 683.71
+  },
+  {
+   "content": "这两个区域在思考我们重视的事物时会被激活",
+   "from": 683.71,
+   "location": 2,
+   "music": 0.0,
+   "sid": 238,
+   "to": 689.11
+  },
+  {
+   "content": "它们也对愉悦体验至关重要",
+   "from": 689.11,
+   "location": 2,
+   "music": 0.0,
+   "sid": 239,
+   "to": 693.6
+  },
+  {
+   "content": "以及从积极经历中学习的能力",
+   "from": 693.6,
+   "location": 2,
+   "music": 0.0,
+   "sid": 240,
+   "to": 697.3
+  },
+  {
+   "content": "或许并不意外",
+   "from": 697.61,
+   "location": 2,
+   "music": 0.0,
+   "sid": 241,
+   "to": 699.41
+  },
+  {
+   "content": "这些区域依赖多巴胺正常运作",
+   "from": 699.41,
+   "location": 2,
+   "music": 0.0,
+   "sid": 242,
+   "to": 703.76
+  },
+  {
+   "content": "当你考虑是否继续学习还是休息时",
+   "from": 703.76,
+   "location": 2,
+   "music": 0.0,
+   "sid": 243,
+   "to": 709.78
+  },
+  {
+   "content": "vm",
+   "from": 709.78,
+   "location": 2,
+   "music": 0.0,
+   "sid": 244,
+   "to": 710.62
+  },
+  {
+   "content": "PFC",
+   "from": 710.62,
+   "location": 2,
+   "music": 0.0,
+   "sid": 245,
+   "to": 711.18
+  },
+  {
+   "content": "和腹侧纹状体将评估每个选项的价值",
+   "from": 711.18,
+   "location": 2,
+   "music": 0.0,
+   "sid": 246,
+   "to": 715.18
+  },
+  {
+   "content": "通过考虑选项时的激活程度",
+   "from": 715.18,
+   "location": 2,
+   "music": 0.0,
+   "sid": 247,
+   "to": 718.6
+  },
+  {
+   "content": "如果这些区域代表选项的奖励价值",
+   "from": 718.6,
+   "location": 2,
+   "music": 0.0,
+   "sid": 248,
+   "to": 722.819
+  },
+  {
+   "content": "哪个区域代表潜在成本",
+   "from": 722.819,
+   "location": 2,
+   "music": 0.0,
+   "sid": 249,
+   "to": 725.419
+  },
+  {
+   "content": "这个问题的答案似乎指向前岛叶",
+   "from": 725.419,
+   "location": 2,
+   "music": 0.0,
+   "sid": 250,
+   "to": 729.759
+  },
+  {
+   "content": "但这背后还有更多内容",
+   "from": 729.759,
+   "location": 2,
+   "music": 0.0,
+   "sid": 251,
+   "to": 732.21
+  },
+  {
+   "content": "前岛叶皮质参与处理厌恶刺激",
+   "from": 732.21,
+   "location": 2,
+   "music": 0.0,
+   "sid": 252,
+   "to": 736.63
+  },
+  {
+   "content": "它对决策的潜在负面结果敏感",
+   "from": 736.63,
+   "location": 2,
+   "music": 0.0,
+   "sid": 253,
+   "to": 741.01
+  },
+  {
+   "content": "当我们考虑风险时会被激活",
+   "from": 741.18,
+   "location": 2,
+   "music": 0.0,
+   "sid": 254,
+   "to": 743.88
+  },
+  {
+   "content": "与选择相关的损失或其他成本",
+   "from": 743.88,
+   "location": 2,
+   "music": 0.0,
+   "sid": 255,
+   "to": 747.319
+  },
+  {
+   "content": "一般来说",
+   "from": 747.319,
+   "location": 2,
+   "music": 0.0,
+   "sid": 256,
+   "to": 748.019
+  },
+  {
+   "content": "尽管这一区域似乎对内感受至关重要",
+   "from": 748.019,
+   "location": 2,
+   "music": 0.0,
+   "sid": 257,
+   "to": 751.879
+  },
+  {
+   "content": "我们身体内部感觉的体验",
+   "from": 751.879,
+   "location": 2,
+   "music": 0.0,
+   "sid": 258,
+   "to": 755.89
+  },
+  {
+   "content": "以及情绪的情感成分",
+   "from": 755.89,
+   "location": 2,
+   "music": 0.0,
+   "sid": 259,
+   "to": 759.09
+  },
+  {
+   "content": "现在来看前岛叶皮质",
+   "from": 759.33,
+   "location": 2,
+   "music": 0.0,
+   "sid": 260,
+   "to": 760.81
+  },
+  {
+   "content": "换句话说",
+   "from": 760.81,
+   "location": 2,
+   "music": 0.0,
+   "sid": 261,
+   "to": 761.63
+  },
+  {
+   "content": "让我们感受到欲望与恐惧相关的情感",
+   "from": 761.63,
+   "location": 2,
+   "music": 0.0,
+   "sid": 262,
+   "to": 765.829
+  },
+  {
+   "content": "愉悦与痛苦",
+   "from": 765.829,
+   "location": 2,
+   "music": 0.0,
+   "sid": 263,
+   "to": 767.089
+  },
+  {
+   "content": "动机与疲劳",
+   "from": 767.089,
+   "location": 2,
+   "music": 0.0,
+   "sid": 264,
+   "to": 769.43
+  },
+  {
+   "content": "岛叶至少通过两个脑区获取行为潜在成本的信息",
+   "from": 769.43,
+   "location": 2,
+   "music": 0.0,
+   "sid": 265,
+   "to": 775.94
+  },
+  {
+   "content": "首先",
+   "from": 775.94,
+   "location": 2,
+   "music": 0.0,
+   "sid": 266,
+   "to": 776.56
+  },
+  {
+   "content": "杏仁核向岛叶投射神经通路",
+   "from": 776.56,
+   "location": 2,
+   "music": 0.0,
+   "sid": 267,
+   "to": 779.48
+  },
+  {
+   "content": "这一连接对整合显著感官信息至关重要",
+   "from": 779.48,
+   "location": 2,
+   "music": 0.0,
+   "sid": 268,
+   "to": 783.8
+  },
+  {
+   "content": "尤其是威胁或负面信息",
+   "from": 783.8,
+   "location": 2,
+   "music": 0.0,
+   "sid": 269,
+   "to": 786.97
+  },
+  {
+   "content": "杏仁核处理重要感官刺激的作用",
+   "from": 786.97,
+   "location": 2,
+   "music": 0.0,
+   "sid": 270,
+   "to": 790.61
+  },
+  {
+   "content": "使其能将刺激的情感意义传递给岛叶",
+   "from": 790.61,
+   "location": 2,
+   "music": 0.0,
+   "sid": 271,
+   "to": 795.53
+  },
+  {
+   "content": "岛叶随后将其整合为情绪和身体状态的意识体验",
+   "from": 795.53,
+   "location": 2,
+   "music": 0.0,
+   "sid": 272,
+   "to": 801.5
+  },
+  {
+   "content": "接下来是导水管周围灰质",
+   "from": 801.5,
+   "location": 2,
+   "music": 0.0,
+   "sid": 273,
+   "to": 803.68
+  },
+  {
+   "content": "该区域参与疼痛调节",
+   "from": 803.68,
+   "location": 2,
+   "music": 0.0,
+   "sid": 274,
+   "to": 805.58
+  },
+  {
+   "content": "以及自动防御行为如逃离捕食者",
+   "from": 805.58,
+   "location": 2,
+   "music": 0.0,
+   "sid": 275,
+   "to": 810.1
+  },
+  {
+   "content": "但它也向岛叶投射神经通路",
+   "from": 810.1,
+   "location": 2,
+   "music": 0.0,
+   "sid": 276,
+   "to": 812.569
+  },
+  {
+   "content": "这一连接帮助岛叶接收潜在威胁信息",
+   "from": 812.569,
+   "location": 2,
+   "music": 0.0,
+   "sid": 277,
+   "to": 817.17
+  },
+  {
+   "content": "疼痛与身体不适",
+   "from": 817.17,
+   "location": 2,
+   "music": 0.0,
+   "sid": 278,
+   "to": 818.95
+  },
+  {
+   "content": "因此岛叶从杏仁核和导水管周围灰质接收信号",
+   "from": 818.95,
+   "location": 2,
+   "music": 0.0,
+   "sid": 279,
+   "to": 823.76
+  },
+  {
+   "content": "使其能表征特定行为选项的成本",
+   "from": 823.76,
+   "location": 2,
+   "music": 0.0,
+   "sid": 280,
+   "to": 828.72
+  },
+  {
+   "content": "当我们做出决策时",
+   "from": 828.72,
+   "location": 2,
+   "music": 0.0,
+   "sid": 281,
+   "to": 830.4
+  },
+  {
+   "content": "另一方面",
+   "from": 830.4,
+   "location": 2,
+   "music": 0.0,
+   "sid": 282,
+   "to": 831.26
+  },
+  {
+   "content": "背侧前扣带皮层",
+   "from": 831.26,
+   "location": 2,
+   "music": 0.0,
+   "sid": 283,
+   "to": 833.52
+  },
+  {
+   "content": "或DC并非直接表征选项的原始价值或成本",
+   "from": 833.52,
+   "location": 2,
+   "music": 0.0,
+   "sid": 284,
+   "to": 839.61
+  },
+  {
+   "content": "而是发挥整合功能",
+   "from": 839.61,
+   "location": 2,
+   "music": 0.0,
+   "sid": 285,
+   "to": 842.67
+  },
+  {
+   "content": "因此回到是否继续学习的问题",
+   "from": 842.67,
+   "location": 2,
+   "music": 0.0,
+   "sid": 286,
+   "to": 845.88
+  },
+  {
+   "content": "你的大脑正在无意识处理选项",
+   "from": 845.88,
+   "location": 2,
+   "music": 0.0,
+   "sid": 287,
+   "to": 849.2
+  },
+  {
+   "content": "在此过程中",
+   "from": 849.2,
+   "location": 2,
+   "music": 0.0,
+   "sid": 288,
+   "to": 850.32
+  },
+  {
+   "content": "需要预测奖励的强度和概率",
+   "from": 850.32,
+   "location": 2,
+   "music": 0.0,
+   "sid": 289,
+   "to": 855.1
+  },
+  {
+   "content": "例如你可能提高的成绩程度",
+   "from": 855.1,
+   "location": 2,
+   "music": 0.0,
+   "sid": 290,
+   "to": 857.76
+  },
+  {
+   "content": "如果继续学习的话",
+   "from": 857.76,
+   "location": 2,
+   "music": 0.0,
+   "sid": 291,
+   "to": 860.06
+  },
+  {
+   "content": "同时也需评估风险的强度和概率",
+   "from": 860.06,
+   "location": 2,
+   "music": 0.0,
+   "sid": 292,
+   "to": 863.79
+  },
+  {
+   "content": "例如可能错过派对的可能性",
+   "from": 863.79,
+   "location": 2,
+   "music": 0.0,
+   "sid": 293,
+   "to": 867.07
+  },
+  {
+   "content": "因为你被困在图书馆",
+   "from": 867.07,
+   "location": 2,
+   "music": 0.0,
+   "sid": 294,
+   "to": 869.13
+  },
+  {
+   "content": "ACC似乎包含计算这些变量的神经元群",
+   "from": 869.13,
+   "location": 2,
+   "music": 0.0,
+   "sid": 295,
+   "to": 874.56
+  },
+  {
+   "content": "并帮助决定选择哪个选项",
+   "from": 874.56,
+   "location": 2,
+   "music": 0.0,
+   "sid": 296,
+   "to": 878.79
+  },
+  {
+   "content": "主要基于猴类研究",
+   "from": 878.79,
+   "location": 2,
+   "music": 0.0,
+   "sid": 297,
+   "to": 880.69
+  },
+  {
+   "content": "ACC中某些神经元群体的活动会增强或减弱",
+   "from": 880.69,
+   "location": 2,
+   "music": 0.0,
+   "sid": 298,
+   "to": 886.58
+  },
+  {
+   "content": "与奖励的强度相关",
+   "from": 886.58,
+   "location": 2,
+   "music": 0.0,
+   "sid": 299,
+   "to": 889.26
+  },
+  {
+   "content": "或奖励的可能性",
+   "from": 889.26,
+   "location": 2,
+   "music": 0.0,
+   "sid": 300,
+   "to": 891.06
+  },
+  {
+   "content": "惩罚的严重程度或惩罚的可能性",
+   "from": 891.06,
+   "location": 2,
+   "music": 0.0,
+   "sid": 301,
+   "to": 894.22
+  },
+  {
+   "content": "换句话说",
+   "from": 894.22,
+   "location": 2,
+   "music": 0.0,
+   "sid": 302,
+   "to": 895.89
+  },
+  {
+   "content": "一组神经元正在计算你可能提升梯度的程度",
+   "from": 895.89,
+   "location": 2,
+   "music": 0.0,
+   "sid": 303,
+   "to": 901.09
+  },
+  {
+   "content": "另一组神经元在计算你实际提升的可能性",
+   "from": 901.09,
+   "location": 2,
+   "music": 0.0,
+   "sid": 304,
+   "to": 906.55
+  },
+  {
+   "content": "第三组在评估错过派对的严重后果",
+   "from": 906.79,
+   "location": 2,
+   "music": 0.0,
+   "sid": 305,
+   "to": 911.599
+  },
+  {
+   "content": "第四组则计算你错过派对的可能性",
+   "from": 911.599,
+   "location": 2,
+   "music": 0.0,
+   "sid": 306,
+   "to": 916.799
+  },
+  {
+   "content": "前部",
+   "from": 916.799,
+   "location": 2,
+   "music": 0.0,
+   "sid": 307,
+   "to": 917.379
+  },
+  {
+   "content": "扣带回的大部分区域",
+   "from": 917.379,
+   "location": 2,
+   "music": 0.0,
+   "sid": 308,
+   "to": 918.739
+  },
+  {
+   "content": "被称为前扣带回，这些单独的计算在此汇聚成最终评估",
+   "from": 918.739,
+   "location": 2,
+   "music": 0.0,
+   "sid": 309,
+   "to": 925.91
+  },
+  {
+   "content": "这一整体评估就是你的决策",
+   "from": 925.91,
+   "location": 2,
+   "music": 0.0,
+   "sid": 310,
+   "to": 929.98
+  },
+  {
+   "content": "前扣带回使我们能够计算复杂且情境化的选择的整体价值",
+   "from": 929.98,
+   "location": 2,
+   "music": 0.0,
+   "sid": 311,
+   "to": 936.08
+  },
+  {
+   "content": "充满情境的抉择",
+   "from": 936.08,
+   "location": 2,
+   "music": 0.0,
+   "sid": 312,
+   "to": 937.45
+  },
+  {
+   "content": "有趣的是",
+   "from": 937.45,
+   "location": 2,
+   "music": 0.0,
+   "sid": 313,
+   "to": 938.41
+  },
+  {
+   "content": "前扣带回紧邻背外侧前额叶皮层",
+   "from": 938.41,
+   "location": 2,
+   "music": 0.0,
+   "sid": 314,
+   "to": 942.18
+  },
+  {
+   "content": "一些科学家因功能和位置相似而将这两结构归为一类",
+   "from": 942.18,
+   "location": 2,
+   "music": 0.0,
+   "sid": 315,
+   "to": 947.44
+  },
+  {
+   "content": "现在需要指出的是，这种价值计算",
+   "from": 947.44,
+   "location": 2,
+   "music": 0.0,
+   "sid": 316,
+   "to": 951.07
+  },
+  {
+   "content": "考虑了风险与收益的可能性和程度",
+   "from": 951.07,
+   "location": 2,
+   "music": 0.0,
+   "sid": 317,
+   "to": 957.37
+  },
+  {
+   "content": "对动机至关重要",
+   "from": 957.37,
+   "location": 2,
+   "music": 0.0,
+   "sid": 318,
+   "to": 959.47
+  },
+  {
+   "content": "研究表明，扣带回损伤常导致动机缺陷",
+   "from": 959.47,
+   "location": 2,
+   "music": 0.0,
+   "sid": 319,
+   "to": 964.63
+  },
+  {
+   "content": "损伤程度不同，影响可能轻微或严重",
+   "from": 964.63,
+   "location": 2,
+   "music": 0.0,
+   "sid": 320,
+   "to": 969.0
+  },
+  {
+   "content": "在轻度病例中，人可能较少执行有动机的行为",
+   "from": 969.0,
+   "location": 2,
+   "music": 0.0,
+   "sid": 321,
+   "to": 974.91
+  },
+  {
+   "content": "或感觉完全丧失行动能力",
+   "from": 974.91,
+   "location": 2,
+   "music": 0.0,
+   "sid": 322,
+   "to": 979.29
+  },
+  {
+   "content": "但在最严重损伤中可能威胁生存",
+   "from": 979.29,
+   "location": 2,
+   "music": 0.0,
+   "sid": 323,
+   "to": 984.13
+  },
+  {
+   "content": "因此你今早起床的决定也部分依赖扣带回",
+   "from": 984.13,
+   "location": 2,
+   "music": 0.0,
+   "sid": 324,
+   "to": 989.529
+  },
+  {
+   "content": "现在",
+   "from": 989.529,
+   "location": 2,
+   "music": 0.0,
+   "sid": 325,
+   "to": 989.969
+  },
+  {
+   "content": "或许",
+   "from": 989.969,
+   "location": 2,
+   "music": 0.0,
+   "sid": 326,
+   "to": 990.189
+  },
+  {
+   "content": "关于扣带回最有趣的是",
+   "from": 990.189,
+   "location": 2,
+   "music": 0.0,
+   "sid": 327,
+   "to": 993.269
+  },
+  {
+   "content": "它似乎是大脑皮层与皮下区域的接口",
+   "from": 993.269,
+   "location": 2,
+   "music": 0.0,
+   "sid": 328,
+   "to": 998.65
+  },
+  {
+   "content": "毕竟扣带回本身无法直接引发身体行动",
+   "from": 998.65,
+   "location": 2,
+   "music": 0.0,
+   "sid": 329,
+   "to": 1004.39
+  },
+  {
+   "content": "这引发了一个问题",
+   "from": 1004.39,
+   "location": 2,
+   "music": 0.0,
+   "sid": 330,
+   "to": 1006.09
+  },
+  {
+   "content": "这种成本效益分析如何转化为实际行为",
+   "from": 1006.09,
+   "location": 2,
+   "music": 0.0,
+   "sid": 331,
+   "to": 1011.17
+  },
+  {
+   "content": "似乎扣带回与背外侧前额叶皮层沟通",
+   "from": 1011.17,
+   "location": 2,
+   "music": 0.0,
+   "sid": 332,
+   "to": 1016.65
+  },
+  {
+   "content": "使大脑制定行为计划",
+   "from": 1016.65,
+   "location": 2,
+   "music": 0.0,
+   "sid": 333,
+   "to": 1021.22
+  },
+  {
+   "content": "随后前额叶皮层将信号传递至其后方的运动区域",
+   "from": 1021.22,
+   "location": 2,
+   "music": 0.0,
+   "sid": 334,
+   "to": 1027.98
+  },
+  {
+   "content": "将抽象计划转化为身体可执行的动作模式",
+   "from": 1027.98,
+   "location": 2,
+   "music": 0.0,
+   "sid": 335,
+   "to": 1034.54
+  },
+  {
+   "content": "为实现目标",
+   "from": 1034.54,
+   "location": 2,
+   "music": 0.0,
+   "sid": 336,
+   "to": 1036.78
+  },
+  {
+   "content": "最终由运动皮层和基底神经节协同作用",
+   "from": 1036.78,
+   "location": 2,
+   "music": 0.0,
+   "sid": 337,
+   "to": 1040.76
+  },
+  {
+   "content": "促使我们采取行动",
+   "from": 1040.76,
+   "location": 2,
+   "music": 0.0,
+   "sid": 338,
+   "to": 1043.36
+  },
+  {
+   "content": "很好",
+   "from": 1043.36,
+   "location": 2,
+   "music": 0.0,
+   "sid": 339,
+   "to": 1044.14
+  },
+  {
+   "content": "但当涉及精神疲劳时，这一切如何整合",
+   "from": 1044.14,
+   "location": 2,
+   "music": 0.0,
+   "sid": 340,
+   "to": 1048.72
+  },
+  {
+   "content": "这一切都归结于成本效益分析",
+   "from": 1048.72,
+   "location": 2,
+   "music": 0.0,
+   "sid": 341,
+   "to": 1051.94
+  },
+  {
+   "content": "若继续学习的收益高于成本",
+   "from": 1051.94,
+   "location": 2,
+   "music": 0.0,
+   "sid": 342,
+   "to": 1057.38
+  },
+  {
+   "content": "你会感到有动力继续",
+   "from": 1057.38,
+   "location": 2,
+   "music": 0.0,
+   "sid": 343,
+   "to": 1060.159
+  },
+  {
+   "content": "若成本超过收益",
+   "from": 1060.159,
+   "location": 2,
+   "music": 0.0,
+   "sid": 344,
+   "to": 1062.339
+  },
+  {
+   "content": "你会感到精神疲劳并想立即停止",
+   "from": 1062.339,
+   "location": 2,
+   "music": 0.0,
+   "sid": 345,
+   "to": 1065.599
+  },
+  {
+   "content": "需记住收益不仅限于更好的成绩",
+   "from": 1065.599,
+   "location": 2,
+   "music": 0.0,
+   "sid": 346,
+   "to": 1070.6
+  },
+  {
+   "content": "或其他外在奖励如",
+   "from": 1070.6,
+   "location": 2,
+   "music": 0.0,
+   "sid": 347,
+   "to": 1073.38
+  },
+  {
+   "content": "让老师留下好印象",
+   "from": 1073.38,
+   "location": 2,
+   "music": 0.0,
+   "sid": 348,
+   "to": 1074.9
+  },
+  {
+   "content": "相反",
+   "from": 1075.3,
+   "location": 2,
+   "music": 0.0,
+   "sid": 349,
+   "to": 1075.82
+  },
+  {
+   "content": "收益也可能包括内在奖励",
+   "from": 1075.82,
+   "location": 2,
+   "music": 0.0,
+   "sid": 350,
+   "to": 1079.0
+  },
+  {
+   "content": "就像从纯粹学习这个学科本身获得的乐趣",
+   "from": 1079.0,
+   "location": 2,
+   "music": 0.0,
+   "sid": 351,
+   "to": 1084.5
+  },
+  {
+   "content": "同样地",
+   "from": 1084.5,
+   "location": 2,
+   "music": 0.0,
+   "sid": 352,
+   "to": 1085.16
+  },
+  {
+   "content": "如果你真的不关心这个主题",
+   "from": 1085.16,
+   "location": 2,
+   "music": 0.0,
+   "sid": 353,
+   "to": 1086.96
+  },
+  {
+   "content": "好处会显得更低",
+   "from": 1086.96,
+   "location": 2,
+   "music": 0.0,
+   "sid": 354,
+   "to": 1088.72
+  },
+  {
+   "content": "你会更快感到精神疲惫",
+   "from": 1088.72,
+   "location": 2,
+   "music": 0.0,
+   "sid": 355,
+   "to": 1091.34
+  },
+  {
+   "content": "精神疲劳是一种情感状态",
+   "from": 1091.34,
+   "location": 2,
+   "music": 0.0,
+   "sid": 356,
+   "to": 1095.11
+  },
+  {
+   "content": "当某种行为的成本似乎超过收益时",
+   "from": 1095.11,
+   "location": 2,
+   "music": 0.0,
+   "sid": 357,
+   "to": 1100.13
+  },
+  {
+   "content": "所有这些计算都汇聚在杏仁核",
+   "from": 1100.37,
+   "location": 2,
+   "music": 0.0,
+   "sid": 358,
+   "to": 1103.51
+  },
+  {
+   "content": "然后将决策输入前额叶皮层",
+   "from": 1103.51,
+   "location": 2,
+   "music": 0.0,
+   "sid": 359,
+   "to": 1108.179
+  },
+  {
+   "content": "你会在身体中感受到疲劳",
+   "from": 1108.179,
+   "location": 2,
+   "music": 0.0,
+   "sid": 360,
+   "to": 1110.459
+  },
+  {
+   "content": "多亏岛叶皮层对这种状态的表征",
+   "from": 1110.459,
+   "location": 2,
+   "music": 0.0,
+   "sid": 361,
+   "to": 1115.929
+  },
+  {
+   "content": "好的",
+   "from": 1116.369,
+   "location": 2,
+   "music": 0.0,
+   "sid": 362,
+   "to": 1116.769
+  },
+  {
+   "content": "在视频开头",
+   "from": 1116.769,
+   "location": 2,
+   "music": 0.0,
+   "sid": 363,
+   "to": 1117.969
+  },
+  {
+   "content": "我说通过理解疲劳的神经科学",
+   "from": 1117.969,
+   "location": 2,
+   "music": 0.0,
+   "sid": 364,
+   "to": 1121.48
+  },
+  {
+   "content": "你可以重燃动力",
+   "from": 1121.48,
+   "location": 2,
+   "music": 0.0,
+   "sid": 365,
+   "to": 1123.88
+  },
+  {
+   "content": "减少精神疲劳最终避免 burnout",
+   "from": 1123.88,
+   "location": 2,
+   "music": 0.0,
+   "sid": 366,
+   "to": 1127.59
+  },
+  {
+   "content": "现在让我们看看如何利用本视频的发现",
+   "from": 1127.59,
+   "location": 2,
+   "music": 0.0,
+   "sid": 367,
+   "to": 1132.89
+  },
+  {
+   "content": "首先早期保持充足饮食和休息",
+   "from": 1132.89,
+   "location": 2,
+   "music": 0.0,
+   "sid": 368,
+   "to": 1136.78
+  },
+  {
+   "content": "我们看到能量水平与精神疲劳密切相关",
+   "from": 1136.78,
+   "location": 2,
+   "music": 0.0,
+   "sid": 369,
+   "to": 1140.7
+  },
+  {
+   "content": "低血糖意味着神经元得不到足够能量",
+   "from": 1140.7,
+   "location": 2,
+   "music": 0.0,
+   "sid": 370,
+   "to": 1144.6
+  },
+  {
+   "content": "会让你更易分心",
+   "from": 1144.6,
+   "location": 2,
+   "music": 0.0,
+   "sid": 371,
+   "to": 1147.19
+  },
+  {
+   "content": "避免不必要的精神疲劳第一步是摄入足够热量",
+   "from": 1147.19,
+   "location": 2,
+   "music": 0.0,
+   "sid": 372,
+   "to": 1152.35
+  },
+  {
+   "content": "针对所参与的活动",
+   "from": 1152.35,
+   "location": 2,
+   "music": 0.0,
+   "sid": 373,
+   "to": 1154.11
+  },
+  {
+   "content": "确定所需热量和食物类型",
+   "from": 1154.11,
+   "location": 2,
+   "music": 0.0,
+   "sid": 374,
+   "to": 1158.8
+  },
+  {
+   "content": "以及每日进食频率",
+   "from": 1158.8,
+   "location": 2,
+   "music": 0.0,
+   "sid": 375,
+   "to": 1161.52
+  },
+  {
+   "content": "没错",
+   "from": 1161.52,
+   "location": 2,
+   "music": 0.0,
+   "sid": 376,
+   "to": 1162.0
+  },
+  {
+   "content": "这些将由你的生活方式和运动量决定",
+   "from": 1162.0,
+   "location": 2,
+   "music": 0.0,
+   "sid": 377,
+   "to": 1168.51
+  },
+  {
+   "content": "甚至你的生物学特性",
+   "from": 1168.51,
+   "location": 2,
+   "music": 0.0,
+   "sid": 378,
+   "to": 1170.639
+  },
+  {
+   "content": "但一般避免高糖垃圾食品",
+   "from": 1170.639,
+   "location": 2,
+   "music": 0.0,
+   "sid": 379,
+   "to": 1173.339
+  },
+  {
+   "content": "否则摄入空热量是明智的",
+   "from": 1173.339,
+   "location": 2,
+   "music": 0.0,
+   "sid": 380,
+   "to": 1177.17
+  },
+  {
+   "content": "对我来说",
+   "from": 1177.17,
+   "location": 2,
+   "music": 0.0,
+   "sid": 381,
+   "to": 1177.97
+  },
+  {
+   "content": "我在办公桌上放着花生包",
+   "from": 1177.97,
+   "location": 2,
+   "music": 0.0,
+   "sid": 382,
+   "to": 1180.89
+  },
+  {
+   "content": "随时能获取蛋白质",
+   "from": 1180.89,
+   "location": 2,
+   "music": 0.0,
+   "sid": 383,
+   "to": 1183.19
+  },
+  {
+   "content": "高密度",
+   "from": 1183.19,
+   "location": 2,
+   "music": 0.0,
+   "sid": 384,
+   "to": 1183.67
+  },
+  {
+   "content": "低糖零食当我开始疲倦或分心时",
+   "from": 1183.67,
+   "location": 2,
+   "music": 0.0,
+   "sid": 385,
+   "to": 1186.89
+  },
+  {
+   "content": "但补水同样至关重要",
+   "from": 1186.89,
+   "location": 2,
+   "music": 0.0,
+   "sid": 386,
+   "to": 1190.32
+  },
+  {
+   "content": "我早上七小时内喝两升水",
+   "from": 1190.32,
+   "location": 2,
+   "music": 0.0,
+   "sid": 387,
+   "to": 1194.16
+  },
+  {
+   "content": "这让我感觉更精力充沛",
+   "from": 1194.16,
+   "location": 2,
+   "music": 0.0,
+   "sid": 388,
+   "to": 1197.57
+  },
+  {
+   "content": "好的",
+   "from": 1197.57,
+   "location": 2,
+   "music": 0.0,
+   "sid": 389,
+   "to": 1198.05
+  },
+  {
+   "content": "但不仅仅是热量和水",
+   "from": 1198.05,
+   "location": 2,
+   "music": 0.0,
+   "sid": 390,
+   "to": 1199.93
+  },
+  {
+   "content": "因为睡眠是重大动力提升因素",
+   "from": 1199.93,
+   "location": 2,
+   "music": 0.0,
+   "sid": 391,
+   "to": 1202.89
+  },
+  {
+   "content": "并帮助防止不必要的精神疲劳",
+   "from": 1202.89,
+   "location": 2,
+   "music": 0.0,
+   "sid": 392,
+   "to": 1206.0
+  },
+  {
+   "content": "睡眠不足与更高精神疲劳相关",
+   "from": 1206.0,
+   "location": 2,
+   "music": 0.0,
+   "sid": 393,
+   "to": 1210.74
+  },
+  {
+   "content": "睡眠对已讨论的脑过程至关重要",
+   "from": 1210.74,
+   "location": 2,
+   "music": 0.0,
+   "sid": 394,
+   "to": 1216.52
+  },
+  {
+   "content": "例如",
+   "from": 1216.52,
+   "location": 2,
+   "music": 0.0,
+   "sid": 395,
+   "to": 1217.32
+  },
+  {
+   "content": "充足睡眠帮助脑网络高效运作",
+   "from": 1217.32,
+   "location": 2,
+   "music": 0.0,
+   "sid": 396,
+   "to": 1221.36
+  },
+  {
+   "content": "部分通过清除非REM睡眠中的代谢废物",
+   "from": 1221.36,
+   "location": 2,
+   "music": 0.0,
+   "sid": 397,
+   "to": 1226.67
+  },
+  {
+   "content": "并在REM睡眠中巩固相关通路的神经可塑性",
+   "from": 1226.67,
+   "location": 2,
+   "music": 0.0,
+   "sid": 398,
+   "to": 1233.27
+  },
+  {
+   "content": "此外睡眠似乎对恢复神经递质水平很重要",
+   "from": 1233.27,
+   "location": 2,
+   "music": 0.0,
+   "sid": 399,
+   "to": 1238.729
+  },
+  {
+   "content": "比如多巴胺",
+   "from": 1238.729,
+   "location": 2,
+   "music": 0.0,
+   "sid": 400,
+   "to": 1240.209
+  },
+  {
+   "content": "这些往往在一天中逐渐耗尽",
+   "from": 1240.209,
+   "location": 2,
+   "music": 0.0,
+   "sid": 401,
+   "to": 1242.77
+  },
+  {
+   "content": "正如我们所见",
+   "from": 1242.77,
+   "location": 2,
+   "music": 0.0,
+   "sid": 402,
+   "to": 1243.99
+  },
+  {
+   "content": "多巴胺对涉及动机的神经回路至关重要",
+   "from": 1243.99,
+   "location": 2,
+   "music": 0.0,
+   "sid": 403,
+   "to": 1247.71
+  },
+  {
+   "content": "并防止精神疲劳感",
+   "from": 1247.71,
+   "location": 2,
+   "music": 0.0,
+   "sid": 404,
+   "to": 1250.61
+  },
+  {
+   "content": "好的",
+   "from": 1250.93,
+   "location": 2,
+   "music": 0.0,
+   "sid": 405,
+   "to": 1251.33
+  },
+  {
+   "content": "所以第二点",
+   "from": 1251.33,
+   "location": 2,
+   "music": 0.0,
+   "sid": 406,
+   "to": 1252.03
+  },
+  {
+   "content": "定期休息",
+   "from": 1252.03,
+   "location": 2,
+   "music": 0.0,
+   "sid": 407,
+   "to": 1253.35
+  },
+  {
+   "content": "我在大学时用番茄工作法来休息",
+   "from": 1253.35,
+   "location": 2,
+   "music": 0.0,
+   "sid": 408,
+   "to": 1258.199
+  },
+  {
+   "content": "那就是两分钟专注工作",
+   "from": 1258.199,
+   "location": 2,
+   "music": 0.0,
+   "sid": 409,
+   "to": 1260.619
+  },
+  {
+   "content": "随后休息五分钟",
+   "from": 1260.619,
+   "location": 2,
+   "music": 0.0,
+   "sid": 410,
+   "to": 1262.299
+  },
+  {
+   "content": "或者之后可以休息更久",
+   "from": 1262.299,
+   "location": 2,
+   "music": 0.0,
+   "sid": 411,
+   "to": 1264.419
+  },
+  {
+   "content": "比如",
+   "from": 1264.419,
+   "location": 2,
+   "music": 0.0,
+   "sid": 412,
+   "to": 1264.799
+  },
+  {
+   "content": "你知道连续工作九十分钟",
+   "from": 1264.799,
+   "location": 2,
+   "music": 0.0,
+   "sid": 413,
+   "to": 1266.639
+  },
+  {
+   "content": "在这些休息期间不要做需要高度专注的事",
+   "from": 1266.639,
+   "location": 2,
+   "music": 0.0,
+   "sid": 414,
+   "to": 1271.57
+  },
+  {
+   "content": "而不是像在手机上看视频",
+   "from": 1271.57,
+   "location": 2,
+   "music": 0.0,
+   "sid": 415,
+   "to": 1273.95
+  },
+  {
+   "content": "可以尝试散步或冥想",
+   "from": 1273.95,
+   "location": 2,
+   "music": 0.0,
+   "sid": 416,
+   "to": 1276.31
+  },
+  {
+   "content": "好的第三点",
+   "from": 1276.31,
+   "location": 2,
+   "music": 0.0,
+   "sid": 417,
+   "to": 1277.35
+  },
+  {
+   "content": "仔细权衡所有成本和收益",
+   "from": 1277.35,
+   "location": 2,
+   "music": 0.0,
+   "sid": 418,
+   "to": 1280.5
+  },
+  {
+   "content": "正如我们看到的",
+   "from": 1280.5,
+   "location": 2,
+   "music": 0.0,
+   "sid": 419,
+   "to": 1281.32
+  },
+  {
+   "content": "我们的大脑几乎持续评估和分析",
+   "from": 1281.32,
+   "location": 2,
+   "music": 0.0,
+   "sid": 420,
+   "to": 1284.5
+  },
+  {
+   "content": "某个行为的潜在成本和收益",
+   "from": 1284.5,
+   "location": 2,
+   "music": 0.0,
+   "sid": 421,
+   "to": 1287.32
+  },
+  {
+   "content": "如果成本看起来高于收益",
+   "from": 1287.32,
+   "location": 2,
+   "music": 0.0,
+   "sid": 422,
+   "to": 1290.12
+  },
+  {
+   "content": "我们可能会暂时停止当前行为",
+   "from": 1290.12,
+   "location": 2,
+   "music": 0.0,
+   "sid": 423,
+   "to": 1294.11
+  },
+  {
+   "content": "这或许能解释为何记住目标会有所帮助",
+   "from": 1294.11,
+   "location": 2,
+   "music": 0.0,
+   "sid": 424,
+   "to": 1297.13
+  },
+  {
+   "content": "你的为什么",
+   "from": 1297.13,
+   "location": 2,
+   "music": 0.0,
+   "sid": 425,
+   "to": 1298.05
+  },
+  {
+   "content": "你为何在做这件事",
+   "from": 1298.05,
+   "location": 2,
+   "music": 0.0,
+   "sid": 426,
+   "to": 1299.13
+  },
+  {
+   "content": "你在做的事",
+   "from": 1299.13,
+   "location": 2,
+   "music": 0.0,
+   "sid": 427,
+   "to": 1299.85
+  },
+  {
+   "content": "你行为的最终驱动目的是什么",
+   "from": 1299.85,
+   "location": 2,
+   "music": 0.0,
+   "sid": 428,
+   "to": 1304.06
+  },
+  {
+   "content": "你在追求哪些目标",
+   "from": 1304.06,
+   "location": 2,
+   "music": 0.0,
+   "sid": 429,
+   "to": 1305.98
+  },
+  {
+   "content": "这一行为如何助力这些目标",
+   "from": 1305.98,
+   "location": 2,
+   "music": 0.0,
+   "sid": 430,
+   "to": 1309.1
+  },
+  {
+   "content": "参与此行为会放弃什么",
+   "from": 1309.1,
+   "location": 2,
+   "music": 0.0,
+   "sid": 431,
+   "to": 1312.75
+  },
+  {
+   "content": "现在放弃是否值得",
+   "from": 1312.75,
+   "location": 2,
+   "music": 0.0,
+   "sid": 432,
+   "to": 1315.27
+  },
+  {
+   "content": "这里",
+   "from": 1315.27,
+   "location": 2,
+   "music": 0.0,
+   "sid": 433,
+   "to": 1315.43
+  },
+  {
+   "content": "要着眼长远",
+   "from": 1315.43,
+   "location": 2,
+   "music": 0.0,
+   "sid": 434,
+   "to": 1317.51
+  },
+  {
+   "content": "同时也要善待自己",
+   "from": 1317.51,
+   "location": 2,
+   "music": 0.0,
+   "sid": 435,
+   "to": 1320.4
+  },
+  {
+   "content": "有时最重要的不是强迫自己继续工作",
+   "from": 1320.4,
+   "location": 2,
+   "music": 0.0,
+   "sid": 436,
+   "to": 1326.219
+  },
+  {
+   "content": "而是花时间恢复精力",
+   "from": 1326.219,
+   "location": 2,
+   "music": 0.0,
+   "sid": 437,
+   "to": 1329.619
+  },
+  {
+   "content": "享受生活其他方面",
+   "from": 1329.619,
+   "location": 2,
+   "music": 0.0,
+   "sid": 438,
+   "to": 1331.419
+  },
+  {
+   "content": "然后以全新状态回归",
+   "from": 1331.419,
+   "location": 2,
+   "music": 0.0,
+   "sid": 439,
+   "to": 1334.26
+  },
+  {
+   "content": "有时则需要坚持以放弃其他潜在机会",
+   "from": 1334.26,
+   "location": 2,
+   "music": 0.0,
+   "sid": 440,
+   "to": 1340.34
+  },
+  {
+   "content": "并记住终会给自己留出喘息空间",
+   "from": 1340.34,
+   "location": 2,
+   "music": 0.0,
+   "sid": 441,
+   "to": 1344.74
+  },
+  {
+   "content": "通过主动权衡所有成本和收益",
+   "from": 1344.74,
+   "location": 2,
+   "music": 0.0,
+   "sid": 442,
+   "to": 1348.12
+  },
+  {
+   "content": "能给大脑更好的理性决策机会",
+   "from": 1348.12,
+   "location": 2,
+   "music": 0.0,
+   "sid": 443,
+   "to": 1353.56
+  },
+  {
+   "content": "而非仅凭当下的即时感受",
+   "from": 1353.56,
+   "location": 2,
+   "music": 0.0,
+   "sid": 444,
+   "to": 1357.74
+  },
+  {
+   "content": "好的第四点",
+   "from": 1358.86,
+   "location": 2,
+   "music": 0.0,
+   "sid": 445,
+   "to": 1359.719
+  },
+  {
+   "content": "减少不必要的压力",
+   "from": 1359.719,
+   "location": 2,
+   "music": 0.0,
+   "sid": 446,
+   "to": 1361.799
+  },
+  {
+   "content": "不要超出必要范围增加负担",
+   "from": 1361.799,
+   "location": 2,
+   "music": 0.0,
+   "sid": 447,
+   "to": 1365.659
+  },
+  {
+   "content": "认知任务的疲劳是自然结果",
+   "from": 1365.659,
+   "location": 2,
+   "music": 0.0,
+   "sid": 448,
+   "to": 1369.939
+  },
+  {
+   "content": "长时间进行时",
+   "from": 1369.939,
+   "location": 2,
+   "music": 0.0,
+   "sid": 449,
+   "to": 1371.539
+  },
+  {
+   "content": "但压力会缩短疲劳出现的时间",
+   "from": 1371.539,
+   "location": 2,
+   "music": 0.0,
+   "sid": 450,
+   "to": 1375.969
+  },
+  {
+   "content": "当然你不可能完全避免压力",
+   "from": 1375.969,
+   "location": 2,
+   "music": 0.0,
+   "sid": 451,
+   "to": 1378.75
+  },
+  {
+   "content": "但有时我们通过不进行健康实践反而与自己作对",
+   "from": 1378.75,
+   "location": 2,
+   "music": 0.0,
+   "sid": 452,
+   "to": 1383.45
+  },
+  {
+   "content": "这会降低我们的基线水平",
+   "from": 1383.45,
+   "location": 2,
+   "music": 0.0,
+   "sid": 453,
+   "to": 1386.09
+  },
+  {
+   "content": "压力水平锻炼是一个很好的例子",
+   "from": 1386.09,
+   "location": 2,
+   "music": 0.0,
+   "sid": 454,
+   "to": 1388.77
+  },
+  {
+   "content": "没错 人们通常认为锻炼是为了长期健康甚至美容",
+   "from": 1388.77,
+   "location": 2,
+   "music": 0.0,
+   "sid": 455,
+   "to": 1394.58
+  },
+  {
+   "content": "但事实是规律锻炼已被证明能减轻压力并改善情绪",
+   "from": 1394.58,
+   "location": 2,
+   "music": 0.0,
+   "sid": 456,
+   "to": 1400.49
+  },
+  {
+   "content": "这在一定程度上通过优化多巴胺系统功能实现",
+   "from": 1400.49,
+   "location": 2,
+   "music": 0.0,
+   "sid": 457,
+   "to": 1405.7
+  },
+  {
+   "content": "以及其他神经递质系统",
+   "from": 1405.7,
+   "location": 2,
+   "music": 0.0,
+   "sid": 458,
+   "to": 1408.06
+  },
+  {
+   "content": "它还能自然降低压力",
+   "from": 1408.06,
+   "location": 2,
+   "music": 0.0,
+   "sid": 459,
+   "to": 1410.6
+  },
+  {
+   "content": "因为它为肌肉中积聚的能量提供了释放出口",
+   "from": 1410.6,
+   "location": 2,
+   "music": 0.0,
+   "sid": 460,
+   "to": 1415.66
+  },
+  {
+   "content": "通过肾上腺素和压力激素皮质醇",
+   "from": 1415.66,
+   "location": 2,
+   "music": 0.0,
+   "sid": 461,
+   "to": 1419.06
+  },
+  {
+   "content": "另一个例子是冥想",
+   "from": 1419.06,
+   "location": 2,
+   "music": 0.0,
+   "sid": 462,
+   "to": 1420.98
+  },
+  {
+   "content": "冥想常被忽视因为它显得无聊或无意义或玄学",
+   "from": 1420.98,
+   "location": 2,
+   "music": 0.0,
+   "sid": 463,
+   "to": 1426.38
+  },
+  {
+   "content": "你知道的",
+   "from": 1426.38,
+   "location": 2,
+   "music": 0.0,
+   "sid": 464,
+   "to": 1426.94
+  },
+  {
+   "content": "但冥想能为日常生活中的压力提供宁静的避风港",
+   "from": 1426.94,
+   "location": 2,
+   "music": 0.0,
+   "sid": 465,
+   "to": 1432.05
+  },
+  {
+   "content": "每日练习时",
+   "from": 1432.05,
+   "location": 2,
+   "music": 0.0,
+   "sid": 466,
+   "to": 1434.15
+  },
+  {
+   "content": "冥想已被证明能改善情绪调节并减轻压力",
+   "from": 1434.15,
+   "location": 2,
+   "music": 0.0,
+   "sid": 467,
+   "to": 1439.76
+  },
+  {
+   "content": "这是我们一天中专门用来专注的时间",
+   "from": 1439.76,
+   "location": 2,
+   "music": 0.0,
+   "sid": 468,
+   "to": 1444.61
+  },
+  {
+   "content": "毫无错误",
+   "from": 1444.61,
+   "location": 2,
+   "music": 0.0,
+   "sid": 469,
+   "to": 1445.87
+  },
+  {
+   "content": "就像长跑后需要休息肌肉一样重要",
+   "from": 1445.87,
+   "location": 2,
+   "music": 0.0,
+   "sid": 470,
+   "to": 1449.32
+  },
+  {
+   "content": "定期放下所有担忧是有益的",
+   "from": 1449.32,
+   "location": 2,
+   "music": 0.0,
+   "sid": 471,
+   "to": 1453.74
+  },
+  {
+   "content": "以便后续更高效地处理",
+   "from": 1453.74,
+   "location": 2,
+   "music": 0.0,
+   "sid": 472,
+   "to": 1456.8
+  },
+  {
+   "content": "好的",
+   "from": 1456.8,
+   "location": 2,
+   "music": 0.0,
+   "sid": 473,
+   "to": 1457.42
+  },
+  {
+   "content": "但我要告诉你",
+   "from": 1457.42,
+   "location": 2,
+   "music": 0.0,
+   "sid": 474,
+   "to": 1459.17
+  },
+  {
+   "content": "即使你做到这些 精神疲劳仍很可能",
+   "from": 1459.17,
+   "location": 2,
+   "music": 0.0,
+   "sid": 475,
+   "to": 1463.07
+  },
+  {
+   "content": "它是必然的",
+   "from": 1463.07,
+   "location": 2,
+   "music": 0.0,
+   "sid": 476,
+   "to": 1464.61
+  },
+  {
+   "content": "如果你长期努力做某事 最终会感到疲惫",
+   "from": 1464.61,
+   "location": 2,
+   "music": 0.0,
+   "sid": 477,
+   "to": 1469.61
+  },
+  {
+   "content": "这些策略能帮助的是",
+   "from": 1469.61,
+   "location": 2,
+   "music": 0.0,
+   "sid": 478,
+   "to": 1472.989
+  },
+  {
+   "content": "避免演变为倦怠的极端疲劳",
+   "from": 1472.989,
+   "location": 2,
+   "music": 0.0,
+   "sid": 479,
+   "to": 1478.16
+  },
+  {
+   "content": "现在倦怠是一种慢性身心疲惫状态",
+   "from": 1478.16,
+   "location": 2,
+   "music": 0.0,
+   "sid": 480,
+   "to": 1482.18
+  },
+  {
+   "content": "常伴随愤世嫉俗感",
+   "from": 1482.18,
+   "location": 2,
+   "music": 0.0,
+   "sid": 481,
+   "to": 1485.69
+  },
+  {
+   "content": "情感疏离",
+   "from": 1485.69,
+   "location": 2,
+   "music": 0.0,
+   "sid": 482,
+   "to": 1486.55
+  },
+  {
+   "content": "和无力感",
+   "from": 1486.55,
+   "location": 2,
+   "music": 0.0,
+   "sid": 483,
+   "to": 1488.23
+  },
+  {
+   "content": "或缺乏成就感",
+   "from": 1488.23,
+   "location": 2,
+   "music": 0.0,
+   "sid": 484,
+   "to": 1490.55
+  },
+  {
+   "content": "通常源于长期压力或过度劳累",
+   "from": 1490.55,
+   "location": 2,
+   "music": 0.0,
+   "sid": 485,
+   "to": 1494.13
+  },
+  {
+   "content": "尤其是在高压环境",
+   "from": 1494.13,
+   "location": 2,
+   "music": 0.0,
+   "sid": 486,
+   "to": 1496.24
+  },
+  {
+   "content": "可能显著影响你的身心健康",
+   "from": 1496.24,
+   "location": 2,
+   "music": 0.0,
+   "sid": 487,
+   "to": 1500.4
+  },
+  {
+   "content": "如果你真的陷入倦怠会怎样",
+   "from": 1500.4,
+   "location": 2,
+   "music": 0.0,
+   "sid": 488,
+   "to": 1502.889
+  },
+  {
+   "content": "如果你已经倦怠了",
+   "from": 1502.889,
+   "location": 2,
+   "music": 0.0,
+   "sid": 489,
+   "to": 1505.069
+  },
+  {
+   "content": "也许你经历了近期的挫折或重大失败甚至损失",
+   "from": 1505.069,
+   "location": 2,
+   "music": 0.0,
+   "sid": 490,
+   "to": 1510.139
+  },
+  {
+   "content": "那该怎么办 当一切看似无望时如何恢复",
+   "from": 1510.139,
+   "location": 2,
+   "music": 0.0,
+   "sid": 491,
+   "to": 1515.209
+  },
+  {
+   "content": "我强烈推荐观看我的《抗逆力神经科学》视频",
+   "from": 1515.209,
+   "location": 2,
+   "music": 0.0,
+   "sid": 492,
+   "to": 1520.0
+  }
+ ]
+}

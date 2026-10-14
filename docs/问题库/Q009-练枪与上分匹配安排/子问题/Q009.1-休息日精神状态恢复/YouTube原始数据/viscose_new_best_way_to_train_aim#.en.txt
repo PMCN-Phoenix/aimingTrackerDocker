@@ -1,0 +1,115 @@
+[00:00] If you've been active in the aimtraining community&nbsp; at any point over the past... 4 years or so,&nbsp;&nbsp;
+[00:05] something like this should be pretty familiar to&nbsp; you. These are the voltaic benchmarks and going&nbsp;&nbsp;
+[00:10] back as far as I can remember these have been&nbsp; considered the default way to test your skill&nbsp;&nbsp;
+[00:15] when training. Over time they have taken&nbsp; on a bit of a different role though, with&nbsp;&nbsp;
+[00:19] the benchmarks themselves becoming the training&nbsp; tool, not just something to test your skill with.
+[00:25] I imagine a lot of you are probably expecting me&nbsp; to say something about how awful that is and how&nbsp;&nbsp;
+[00:29] grinding the benchmarks is bad for improvement&nbsp; and, it certainly can be, but I don't think it&nbsp;&nbsp;
+[00:34] has to be. The voltaic benchmarks have continued&nbsp; to be iterated upon over the years but there&nbsp;&nbsp;
+[00:41] never was any question about what they were being&nbsp; designed to do. They were to test aiming skill&nbsp;&nbsp;
+[00:46] in a way that paints the most complete picture&nbsp; possible, something they have become very good at.&nbsp;&nbsp;
+[00:52] Other benchmarks have been made over the&nbsp; years too but in my experience, most of them&nbsp;&nbsp;
+[00:56] are either structurally identical to the voltaic&nbsp; benchmarks or hyperfocused on a specific category,&nbsp;&nbsp;
+[01:02] and that's not to say that all of these are bad&nbsp; but I wanted to try something a little different.
+[01:08] These are the viscose benchmarks and the idea&nbsp; they started from was "what if a benchmark was&nbsp;&nbsp;
+[01:13] designed to be a training tool". My goal was to&nbsp; essentially trick people into playing scenarios&nbsp;&nbsp;
+[01:19] that are good for practice, instead of just&nbsp; good for evaluating your own skill level.&nbsp;&nbsp;
+[01:24] What this means is that they might not be&nbsp; as consistent as voltaic's benchmarks or&nbsp;&nbsp;
+[01:28] cover as many areas of aim, but instead they&nbsp; focus on the scenarios and categories that I&nbsp;&nbsp;
+[01:33] have found most useful to my own personal&nbsp; aim development no matter what game I'm&nbsp;&nbsp;
+[01:37] playing. The score targets are slapped on as&nbsp; a motivator but they aren't really the point.&nbsp;&nbsp;
+[01:42] The goal here instead is to develop&nbsp; strong fundamentals and good technique,&nbsp;&nbsp;
+[01:46] which will transfer over to any game. You can&nbsp; play other game specific training methods on top&nbsp;&nbsp;
+[01:52] of using these to benchmark if you'd like to as&nbsp; well, but I have tried to cover everything here.
+[01:58] If you just want to give them a try now theres&nbsp; a link to the spreadsheet in the description,&nbsp;&nbsp;
+[02:02] go onto file, make a copy and your good to go! But&nbsp; I want to address how these actually differ from&nbsp;&nbsp;
+[02:08] voltaics benchmarks and how do those differences&nbsp; better facilitate improving your technique?
+[02:14] I think the biggest factor is the categorisation&nbsp; of scenarios. Here are voltaic's, focusing&nbsp;&nbsp;
+[02:19] primarily on the type of aim involved with even&nbsp; numbers of scenarios for each type. The thing is,&nbsp;&nbsp;
+[02:26] the main three types of aim are not&nbsp; equally important for in game translation,&nbsp;&nbsp;
+[02:30] and some very important scenario types&nbsp; like pokeball are absent here since&nbsp;&nbsp;
+[02:35] they don't really fit into any of these&nbsp; categories, plus in my opinion target&nbsp;&nbsp;
+[02:41] switching is fairly overrepresented.&nbsp; What unique skill does driftts train?
+[02:44] What I've done instead is distribute&nbsp; the scenarios unevenly based on what&nbsp;&nbsp;
+[02:48] I personally have found the most useful for in&nbsp; game translation and split those scenarios into&nbsp;&nbsp;
+[02:54] more technique focused categories. So instead&nbsp; of categorising tasks based on what they are,&nbsp;&nbsp;
+[03:00] I group them based on what they do. There&nbsp; is no "target switching" category anymore,&nbsp;&nbsp;
+[03:06] those scenarios all fall under "flicking&nbsp; technique" and are subdivided into which&nbsp;&nbsp;
+[03:10] area of your flicks they focus on. Same with&nbsp; control tracking being split into which muscle&nbsp;&nbsp;
+[03:15] group the scenario targets. This both gives&nbsp; you an idea of how to approach each scenario&nbsp;&nbsp;
+[03:21] as well as what area your weak at if you are&nbsp; struggling with specific ones. For example,&nbsp;&nbsp;
+[03:26] a lower relative score on the fingertip&nbsp; subcategory in control tracking doesn't just&nbsp;&nbsp;
+[03:31] tell you general info like "work on tracking", it&nbsp; is very specifically a weakness with fine control&nbsp;&nbsp;
+[03:37] over small movements, either with your fingertips&nbsp; or wrist depending on grip and playstyle.
+[03:43] And while I have designed the benchmarks in a&nbsp; way where grinding the scenarios you are weak&nbsp;&nbsp;
+[03:47] at will help address those weaknesses, if you&nbsp; want to vary your practice more you can pick&nbsp;&nbsp;
+[03:52] out extra scenarios to help isolate the issue.&nbsp; How I like to do this is just searching for the&nbsp;&nbsp;
+[03:57] name of the base scenario to find variants.&nbsp; For example cloverrawcontrol, typing that in&nbsp;&nbsp;
+[04:03] brings up heaps of versions of the scenarios with&nbsp; slight variations like slower, faster, larger,&nbsp;&nbsp;
+[04:08] adding blinks and each change will help work on&nbsp; different things. You can also check out other&nbsp;&nbsp;
+[04:13] benchmarks on this website that have more narrow&nbsp; focuses or look through playlists or voltaics&nbsp;&nbsp;
+[04:18] recommended scenario list for tasks that will&nbsp; help you improve at areas you are weak in.
+[04:25] About playlists though, I've heard that a lot&nbsp; of people play these benchmarks as if they&nbsp;&nbsp;
+[04:30] were one and this isn't something I recommend&nbsp; personally. You can if you'd like and I'm sure&nbsp;&nbsp;
+[04:35] it's still beneficial but in my opinion the&nbsp; value in benchmarks is that they make it easy&nbsp;&nbsp;
+[04:40] for you to motivate yourself to push yourself to&nbsp; improve category by category. How I approach every&nbsp;&nbsp;
+[04:47] task is a test of optimisation, what am I doing&nbsp; wrong from a technique perspective that this task&nbsp;&nbsp;
+[04:52] is forcing me to improve on. The most recent&nbsp; example for me was pasu, I wasn't leading my&nbsp;&nbsp;
+[04:58] shots properly and trying to push my score&nbsp; further forced me to improve my technique.
+[05:04] This is, to me, what makes benchmarks better than&nbsp; playlists and why I chose to make this list of&nbsp;&nbsp;
+[05:09] scenarios into one instead of just posting it as&nbsp; a playlist. By encouraging you to look at your&nbsp;&nbsp;
+[05:14] score on each scenario, set a goal and figure&nbsp; out what is preventing you, technique wise,&nbsp;&nbsp;
+[05:20] from reaching it is why I think benchmarks have&nbsp; become such a good tool to improve and, until now,&nbsp;&nbsp;
+[05:24] have only been held back by being created to be&nbsp; benchmarks. It prevents you from autopiloting&nbsp;&nbsp;
+[05:26] and forces you to actively analyse your own&nbsp; improvement which is exactly what I wanted&nbsp;&nbsp;
+[05:31] when making these and dictated every decision&nbsp; from subcategory names to rank difficulty.
+[05:37] On that note, the most common question I've been&nbsp; asked about this benchmark is why x rank is so&nbsp;&nbsp;
+[05:43] hard if it is on the easier benchmarks. A lot of&nbsp; people have told me that fuchsia is way way harder&nbsp;&nbsp;
+[05:49] than wool, even though fuchsia is classified&nbsp; as medium and wool is hard and they are right!&nbsp;&nbsp;
+[05:55] This is an intentional design change from voltaic&nbsp; and actually something I suggested to them during&nbsp;&nbsp;
+[06:00] the development of season 5. I think the best&nbsp; way to think of it is that these terms, easier,&nbsp;&nbsp;
+[06:05] medium and hard, represent the difficulty of&nbsp; the scenarios included in these benchmarks,&nbsp;&nbsp;
+[06:11] NOT the skill required for any given&nbsp; rank on those benchmarks. There will&nbsp;&nbsp;
+[06:15] be players who I would consider advanced&nbsp; who can't get the top rank on the medium&nbsp;&nbsp;
+[06:19] scenarios here and that isn't just to make&nbsp; these benchmarks really hard for no reason.
+[06:24] The voltaic benchmarks have a bit of a problem&nbsp; where the jumps between difficulties is so&nbsp;&nbsp;
+[06:29] drastic that it feels completely impossible to&nbsp; broach for a lot of people. When trying to go&nbsp;&nbsp;
+[06:34] from master to grandmaster you need to not&nbsp; only get a better score but get that score&nbsp;&nbsp;
+[06:38] on a significantly harder scenario. I think&nbsp; this is why master became cited as the cutoff&nbsp;&nbsp;
+[06:43] point for when aimtrainers lose their value&nbsp; even though this isn't true in my opinion,&nbsp;&nbsp;
+[06:47] it's just that the time investment required&nbsp; per rank grows so much after this point,&nbsp;&nbsp;
+[06:52] partially because you have to get those scores&nbsp; on incredibly difficult scenarios. What I've&nbsp;&nbsp;
+[06:57] done to try and alleviate this issue is to have&nbsp; roughly 2 ranks of overlap for each difficulty.&nbsp;&nbsp;
+[07:02] So ordering the ranks in terms of how hard they&nbsp; are supposed to be would look something like this.&nbsp;&nbsp;
+[07:07] This means that while someone is climbing to&nbsp; the higher ranks on the medium scenarios for&nbsp;&nbsp;
+[07:11] example they can try out the harder ones&nbsp; and still have scores to shoot for there.
+[07:15] In my opinion less challenging scenarios always&nbsp; have their place when aimtraining no matter how&nbsp;&nbsp;
+[07:20] good you get. I think of easier scenarios&nbsp; as refinement of your technique and harder&nbsp;&nbsp;
+[07:25] scenarios as a stress test of that technique,&nbsp; you really should be playing both and this isn't&nbsp;&nbsp;
+[07:31] something conventional benchmarks encourage.&nbsp; Once you are done with intermediate on voltaic,&nbsp;&nbsp;
+[07:36] you move on to advanced. Whereas here it's&nbsp; highly encouraged to keep playing the set&nbsp;&nbsp;
+[07:40] of benchmarks below the highest set you can get&nbsp; scores on. I'm not too far off silk complete on&nbsp;&nbsp;
+[07:45] these and I still get a lot of value from&nbsp; playing the medium difficulty scenarios.
+[07:50] This is also a part of the reason why there are so&nbsp; many ranks here, but not the only reason. Another&nbsp;&nbsp;
+[07:55] goal I had with these was to make starting out&nbsp; on them more approachable than voltaic, I want&nbsp;&nbsp;
+[08:00] most people who are brand new to aimtraining to&nbsp; be able to get a rank in a couple of tries. This&nbsp;&nbsp;
+[08:05] means that there are a lot more ranks for&nbsp; the easier scenarios than voltaic has, and&nbsp;&nbsp;
+[08:09] since medium overlaps with the easier and harder&nbsp; scenarios there is a bunch of ranks there too.
+[08:14] As for the ranks themselves, I've strayed away&nbsp; from voltaic's contemporary energy system and&nbsp;&nbsp;
+[08:18] went back to their old system of requiring&nbsp; one score per subcategory to get a rank. My&nbsp;&nbsp;
+[08:23] reasoning for this is twofold: making people&nbsp; play a wider range of scenarios will naturally&nbsp;&nbsp;
+[08:28] lead to them become more well rounded and it also&nbsp; allows the individual score targets to be lower&nbsp;&nbsp;
+[08:33] for each. Since you can get a rank in voltaic&nbsp; with only 3-4 scores at that rank in total,&nbsp;&nbsp;
+[08:38] the individual scores are going to be a grind.&nbsp; Whereas here, you need AT LEAST 14 scores at a&nbsp;&nbsp;
+[08:44] certain rank to achieve that rank, meaning even&nbsp; if I want fuchsia to be equal to voltaic nova as&nbsp;&nbsp;
+[08:48] a rank, the fuchsia score targets can be much more&nbsp; reachable which I personally find more motivating.
+[08:54] I think that's everything I have to say about&nbsp; the benchmarks themselves, but if you'd like&nbsp;&nbsp;
+[08:58] to know more about how to play each scenario&nbsp; specifically I'm working on adding these little&nbsp;&nbsp;
+[09:02] notes to each scenario when you click it with&nbsp; a link to a vod as well as a small writeup,&nbsp;&nbsp;
+[09:06] and if you want more information I should&nbsp; have a video up on my second channel by the&nbsp;&nbsp;
+[09:10] time this goes live talking through similar&nbsp; things with my own and mattys gameplay to&nbsp;&nbsp;
+[09:14] demonstrate what proper technique looks like&nbsp; for each. Also, thank you so much to pinguefy&nbsp;&nbsp;
+[09:19] for making the spreadsheet for this. A lot of&nbsp; my stupid ideas like bringing back volts or&nbsp;&nbsp;
+[09:24] having seemingly random numbers of scenarios per&nbsp; subcategory would not have worked at all using&nbsp;&nbsp;
+[09:29] a benchmark template and I love the rank names&nbsp; and colour scheme which are all pingus doing,&nbsp;&nbsp;
+[09:34] please show them your support in the&nbsp; comments and thanks for watching.

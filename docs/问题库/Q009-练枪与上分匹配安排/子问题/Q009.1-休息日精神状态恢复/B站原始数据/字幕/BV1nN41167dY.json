@@ -1,0 +1,4658 @@
+{
+ "bvid": "BV1nN41167dY",
+ "title": "每天啥也不干还很累？10个方法快速缓解大脑疲劳、身心耗竭 （B站最全干货！进来自救）【T酱说心理】",
+ "owner": "爱你的T酱",
+ "aid": 489940303,
+ "cid": 1239527414,
+ "duration": 971,
+ "body": [
+  {
+   "from": 0.12,
+   "to": 1.26,
+   "sid": 1,
+   "location": 2,
+   "content": "世界和我爱着你",
+   "music": 0.0
+  },
+  {
+   "from": 1.26,
+   "to": 1.98,
+   "sid": 2,
+   "location": 2,
+   "content": "我是T酱",
+   "music": 0.0
+  },
+  {
+   "from": 1.98,
+   "to": 5.04,
+   "sid": 3,
+   "location": 2,
+   "content": "你有没有在生命的某个阶段发现什么都没做",
+   "music": 0.0
+  },
+  {
+   "from": 5.04,
+   "to": 8.48,
+   "sid": 4,
+   "location": 2,
+   "content": "还总觉得会不会突然觉得干啥事都没有热情",
+   "music": 0.0
+  },
+  {
+   "from": 8.48,
+   "to": 9.8,
+   "sid": 5,
+   "location": 2,
+   "content": "上学上班如上坟",
+   "music": 0.0
+  },
+  {
+   "from": 9.8,
+   "to": 11.24,
+   "sid": 6,
+   "location": 2,
+   "content": "一回到家想躺尸",
+   "music": 0.0
+  },
+  {
+   "from": 11.24,
+   "to": 11.9,
+   "sid": 7,
+   "location": 2,
+   "content": "T酱",
+   "music": 0.0
+  },
+  {
+   "from": 11.9,
+   "to": 12.86,
+   "sid": 8,
+   "location": 2,
+   "content": "拆迁空板",
+   "music": 0.0
+  },
+  {
+   "from": 12.86,
+   "to": 13.76,
+   "sid": 9,
+   "location": 2,
+   "content": "其实你不是懒",
+   "music": 0.0
+  },
+  {
+   "from": 13.76,
+   "to": 14.66,
+   "sid": 10,
+   "location": 2,
+   "content": "而是倦怠了",
+   "music": 0.0
+  },
+  {
+   "from": 14.66,
+   "to": 15.5,
+   "sid": 11,
+   "location": 2,
+   "content": "看过上期的朋友们",
+   "music": 0.0
+  },
+  {
+   "from": 15.5,
+   "to": 16.94,
+   "sid": 12,
+   "location": 2,
+   "content": "可以直接空降方法论",
+   "music": 0.0
+  },
+  {
+   "from": 16.94,
+   "to": 18.02,
+   "sid": 13,
+   "location": 2,
+   "content": "很多人会误解",
+   "music": 0.0
+  },
+  {
+   "from": 18.02,
+   "to": 19.2,
+   "sid": 14,
+   "location": 2,
+   "content": "认为知识自己太懒了",
+   "music": 0.0
+  },
+  {
+   "from": 19.2,
+   "to": 20.34,
+   "sid": 15,
+   "location": 2,
+   "content": "自责自己不努力",
+   "music": 0.0
+  },
+  {
+   "from": 20.34,
+   "to": 21.0,
+   "sid": 16,
+   "location": 2,
+   "content": "不上进",
+   "music": 0.0
+  },
+  {
+   "from": 21.0,
+   "to": 23.42,
+   "sid": 17,
+   "location": 2,
+   "content": "但很多时候这根本不是本质原因",
+   "music": 0.0
+  },
+  {
+   "from": 23.42,
+   "to": 25.73,
+   "sid": 18,
+   "location": 2,
+   "content": "还记得物理课上的胡克弹性定律吗",
+   "music": 0.0
+  },
+  {
+   "from": 25.73,
+   "to": 27.42,
+   "sid": 19,
+   "location": 2,
+   "content": "弹力除以弹性系数",
+   "music": 0.0
+  },
+  {
+   "from": 27.42,
+   "to": 30.3,
+   "sid": 20,
+   "location": 2,
+   "content": "这个常数等于伸缩或者拉伸的长度",
+   "music": 0.0
+  },
+  {
+   "from": 30.3,
+   "to": 33.24,
+   "sid": 21,
+   "location": 2,
+   "content": "如果把你的身体和大脑状态比作一根弹簧",
+   "music": 0.0
+  },
+  {
+   "from": 33.24,
+   "to": 36.18,
+   "sid": 22,
+   "location": 2,
+   "content": "当这个蛋疼的世界施加的压力持续过大",
+   "music": 0.0
+  },
+  {
+   "from": 36.18,
+   "to": 37.74,
+   "sid": 23,
+   "location": 2,
+   "content": "就会超过你的弹性极限",
+   "music": 0.0
+  },
+  {
+   "from": 37.74,
+   "to": 38.44,
+   "sid": 24,
+   "location": 2,
+   "content": "交作业了",
+   "music": 0.0
+  },
+  {
+   "from": 38.44,
+   "to": 39.4,
+   "sid": 25,
+   "location": 2,
+   "content": "再练十套题",
+   "music": 0.0
+  },
+  {
+   "from": 39.4,
+   "to": 40.39,
+   "sid": 26,
+   "location": 2,
+   "content": "这次要改一下",
+   "music": 0.0
+  },
+  {
+   "from": 40.39,
+   "to": 42.1,
+   "sid": 27,
+   "location": 2,
+   "content": "晚上加个班方案重做",
+   "music": 0.0
+  },
+  {
+   "from": 42.1,
+   "to": 44.05,
+   "sid": 28,
+   "location": 2,
+   "content": "他朋友说你坏话",
+   "music": 0.0
+  },
+  {
+   "from": 44.05,
+   "to": 46.57,
+   "sid": 29,
+   "location": 2,
+   "content": "一个人身心崩坏之后",
+   "music": 0.0
+  },
+  {
+   "from": 46.57,
+   "to": 47.83,
+   "sid": 30,
+   "location": 2,
+   "content": "结果会有多可怕呢",
+   "music": 0.0
+  },
+  {
+   "from": 47.83,
+   "to": 50.92,
+   "sid": 31,
+   "location": 2,
+   "content": "阶段一首先发生的是HPA压力调解系统故障",
+   "music": 0.0
+  },
+  {
+   "from": 50.92,
+   "to": 52.18,
+   "sid": 32,
+   "location": 2,
+   "content": "导致你精疲力尽",
+   "music": 0.0
+  },
+  {
+   "from": 52.18,
+   "to": 53.26,
+   "sid": 33,
+   "location": 2,
+   "content": "失眠睡不好",
+   "music": 0.0
+  },
+  {
+   "from": 53.26,
+   "to": 54.64,
+   "sid": 34,
+   "location": 2,
+   "content": "疲劳恢复得非常缓慢",
+   "music": 0.0
+  },
+  {
+   "from": 54.64,
+   "to": 55.3,
+   "sid": 35,
+   "location": 2,
+   "content": "阶段二",
+   "music": 0.0
+  },
+  {
+   "from": 55.3,
+   "to": 56.92,
+   "sid": 36,
+   "location": 2,
+   "content": "信任和恐惧系统增强",
+   "music": 0.0
+  },
+  {
+   "from": 56.92,
+   "to": 58.18,
+   "sid": 37,
+   "location": 2,
+   "content": "导致你愤世嫉俗",
+   "music": 0.0
+  },
+  {
+   "from": 58.18,
+   "to": 59.92,
+   "sid": 38,
+   "location": 2,
+   "content": "一方面失去学习工作的热情",
+   "music": 0.0
+  },
+  {
+   "from": 59.92,
+   "to": 61.8,
+   "sid": 39,
+   "location": 2,
+   "content": "另一方面容易产生负面联想",
+   "music": 0.0
+  },
+  {
+   "from": 61.8,
+   "to": 63.84,
+   "sid": 40,
+   "location": 2,
+   "content": "情绪很容易受到刺激而崩溃",
+   "music": 0.0
+  },
+  {
+   "from": 63.84,
+   "to": 64.44,
+   "sid": 41,
+   "location": 2,
+   "content": "阶段三",
+   "music": 0.0
+  },
+  {
+   "from": 64.44,
+   "to": 67.32,
+   "sid": 42,
+   "location": 2,
+   "content": "负责认知和行为决策的前额叶皮质受到抑制",
+   "music": 0.0
+  },
+  {
+   "from": 67.32,
+   "to": 68.54,
+   "sid": 43,
+   "location": 2,
+   "content": "导致你丧失功效",
+   "music": 0.0
+  },
+  {
+   "from": 68.54,
+   "to": 69.32,
+   "sid": 44,
+   "location": 2,
+   "content": "不但记忆力",
+   "music": 0.0
+  },
+  {
+   "from": 69.32,
+   "to": 70.88,
+   "sid": 45,
+   "location": 2,
+   "content": "注意力等认知能力下降",
+   "music": 0.0
+  },
+  {
+   "from": 70.88,
+   "to": 73.54,
+   "sid": 46,
+   "location": 2,
+   "content": "还对自己做的事情失去了价值感和掌控感",
+   "music": 0.0
+  },
+  {
+   "from": 73.54,
+   "to": 75.16,
+   "sid": 47,
+   "location": 2,
+   "content": "长期有这三个迹象的话",
+   "music": 0.0
+  },
+  {
+   "from": 75.16,
+   "to": 77.62,
+   "sid": 48,
+   "location": 2,
+   "content": "表明你进入了心理学上的一个生存危机",
+   "music": 0.0
+  },
+  {
+   "from": 77.62,
+   "to": 78.74,
+   "sid": 49,
+   "location": 2,
+   "content": "倦怠综合征",
+   "music": 0.0
+  },
+  {
+   "from": 78.74,
+   "to": 80.39,
+   "sid": 50,
+   "location": 2,
+   "content": "T酱救救孩子吧",
+   "music": 0.0
+  },
+  {
+   "from": 80.39,
+   "to": 82.88,
+   "sid": 51,
+   "location": 2,
+   "content": "好先简单看一下方法论有效率的排名表",
+   "music": 0.0
+  },
+  {
+   "from": 82.88,
+   "to": 85.76,
+   "sid": 52,
+   "location": 2,
+   "content": "数据来自新南威尔士大学歌登帕克教授的研究",
+   "music": 0.0
+  },
+  {
+   "from": 85.76,
+   "to": 87.2,
+   "sid": 53,
+   "location": 2,
+   "content": "这些方法我都理解",
+   "music": 0.0
+  },
+  {
+   "from": 87.2,
+   "to": 88.85,
+   "sid": 54,
+   "location": 2,
+   "content": "但连常识的动力都没有",
+   "music": 0.0
+  },
+  {
+   "from": 88.85,
+   "to": 89.72,
+   "sid": 55,
+   "location": 2,
+   "content": "你说的没错",
+   "music": 0.0
+  },
+  {
+   "from": 89.72,
+   "to": 91.22,
+   "sid": 56,
+   "location": 2,
+   "content": "这些方法大多是道理",
+   "music": 0.0
+  },
+  {
+   "from": 91.22,
+   "to": 91.76,
+   "sid": 57,
+   "location": 2,
+   "content": "你都懂",
+   "music": 0.0
+  },
+  {
+   "from": 91.76,
+   "to": 92.8,
+   "sid": 58,
+   "location": 2,
+   "content": "但就是做不到",
+   "music": 0.0
+  },
+  {
+   "from": 92.8,
+   "to": 94.66,
+   "sid": 59,
+   "location": 2,
+   "content": "事实上倦怠并不是绝症",
+   "music": 0.0
+  },
+  {
+   "from": 94.66,
+   "to": 96.28,
+   "sid": 60,
+   "location": 2,
+   "content": "要想真正有所缓解",
+   "music": 0.0
+  },
+  {
+   "from": 96.28,
+   "to": 97.92,
+   "sid": 61,
+   "location": 2,
+   "content": "仅仅知道方法是不够的",
+   "music": 0.0
+  },
+  {
+   "from": 97.92,
+   "to": 99.36,
+   "sid": 62,
+   "location": 2,
+   "content": "是否能科学地做到",
+   "music": 0.0
+  },
+  {
+   "from": 99.36,
+   "to": 100.62,
+   "sid": 63,
+   "location": 2,
+   "content": "才是那个关键点",
+   "music": 0.0
+  },
+  {
+   "from": 100.62,
+   "to": 101.64,
+   "sid": 64,
+   "location": 2,
+   "content": "本期视频就聊聊",
+   "music": 0.0
+  },
+  {
+   "from": 101.64,
+   "to": 104.22,
+   "sid": 65,
+   "location": 2,
+   "content": "十个帮助气象走出职业倦怠低谷的方法",
+   "music": 0.0
+  },
+  {
+   "from": 104.22,
+   "to": 105.12,
+   "sid": 66,
+   "location": 2,
+   "content": "既简单又有效",
+   "music": 0.0
+  },
+  {
+   "from": 105.12,
+   "to": 105.66,
+   "sid": 67,
+   "location": 2,
+   "content": "话不多说",
+   "music": 0.0
+  },
+  {
+   "from": 105.66,
+   "to": 106.48,
+   "sid": 68,
+   "location": 2,
+   "content": "上干货",
+   "music": 0.0
+  },
+  {
+   "from": 106.48,
+   "to": 109.78,
+   "sid": 69,
+   "location": 2,
+   "content": "首先是针对阶段一精疲力尽的三大疲惫",
+   "music": 0.0
+  },
+  {
+   "from": 109.78,
+   "to": 110.56,
+   "sid": 70,
+   "location": 2,
+   "content": "调整计划",
+   "music": 0.0
+  },
+  {
+   "from": 110.56,
+   "to": 114.14,
+   "sid": 71,
+   "location": 2,
+   "content": "方法一改善睡眠有效率69%确实有效",
+   "music": 0.0
+  },
+  {
+   "from": 114.14,
+   "to": 116.0,
+   "sid": 72,
+   "location": 2,
+   "content": "我直到25岁以后才发现",
+   "music": 0.0
+  },
+  {
+   "from": 116.0,
+   "to": 117.2,
+   "sid": 73,
+   "location": 2,
+   "content": "世界上本就有路",
+   "music": 0.0
+  },
+  {
+   "from": 117.2,
+   "to": 119.98,
+   "sid": 74,
+   "location": 2,
+   "content": "你睡得少了便没了路似乎是老生常谈了",
+   "music": 0.0
+  },
+  {
+   "from": 119.98,
+   "to": 121.96,
+   "sid": 75,
+   "location": 2,
+   "content": "但究竟怎么才能做到不熬夜呢",
+   "music": 0.0
+  },
+  {
+   "from": 121.96,
+   "to": 124.78,
+   "sid": 76,
+   "location": 2,
+   "content": "T酱强烈推荐睡眠负面因子排查法",
+   "music": 0.0
+  },
+  {
+   "from": 124.78,
+   "to": 125.38,
+   "sid": 77,
+   "location": 2,
+   "content": "非常简单",
+   "music": 0.0
+  },
+  {
+   "from": 125.38,
+   "to": 126.8,
+   "sid": 78,
+   "location": 2,
+   "content": "但需要一点点耐心",
+   "music": 0.0
+  },
+  {
+   "from": 126.8,
+   "to": 128.06,
+   "sid": 79,
+   "location": 2,
+   "content": "早上起床后问自己",
+   "music": 0.0
+  },
+  {
+   "from": 128.06,
+   "to": 129.38,
+   "sid": 80,
+   "location": 2,
+   "content": "你昨晚为什么没睡好",
+   "music": 0.0
+  },
+  {
+   "from": 129.38,
+   "to": 131.92,
+   "sid": 81,
+   "location": 2,
+   "content": "先列出可能会影响你个人睡眠的所有因素",
+   "music": 0.0
+  },
+  {
+   "from": 131.92,
+   "to": 133.24,
+   "sid": 82,
+   "location": 2,
+   "content": "我可不可以控制变量",
+   "music": 0.0
+  },
+  {
+   "from": 133.24,
+   "to": 135.34,
+   "sid": 83,
+   "location": 2,
+   "content": "明天早上勾选出其中的罪魁祸首",
+   "music": 0.0
+  },
+  {
+   "from": 135.34,
+   "to": 136.74,
+   "sid": 84,
+   "location": 2,
+   "content": "让他今天不再发生",
+   "music": 0.0
+  },
+  {
+   "from": 136.74,
+   "to": 137.76,
+   "sid": 85,
+   "location": 2,
+   "content": "你又没睡好",
+   "music": 0.0
+  },
+  {
+   "from": 137.76,
+   "to": 140.28,
+   "sid": 86,
+   "location": 2,
+   "content": "再循环筛选出影响你前一晚睡眠的因素",
+   "music": 0.0
+  },
+  {
+   "from": 140.28,
+   "to": 143.7,
+   "sid": 87,
+   "location": 2,
+   "content": "直到你找到那几个最显著的负面因子并消灭它",
+   "music": 0.0
+  },
+  {
+   "from": 143.7,
+   "to": 144.66,
+   "sid": 88,
+   "location": 2,
+   "content": "比如对于我来说",
+   "music": 0.0
+  },
+  {
+   "from": 144.66,
+   "to": 147.3,
+   "sid": 89,
+   "location": 2,
+   "content": "大概三四天就发现并排除了自己的睡眠",
+   "music": 0.0
+  },
+  {
+   "from": 147.3,
+   "to": 147.96,
+   "sid": 90,
+   "location": 2,
+   "content": "负面因子",
+   "music": 0.0
+  },
+  {
+   "from": 147.96,
+   "to": 149.16,
+   "sid": 91,
+   "location": 2,
+   "content": "回复了良好的睡眠",
+   "music": 0.0
+  },
+  {
+   "from": 149.16,
+   "to": 151.44,
+   "sid": 92,
+   "location": 2,
+   "content": "一是晚上九点以后不跟任何人",
+   "music": 0.0
+  },
+  {
+   "from": 151.44,
+   "to": 152.64,
+   "sid": 93,
+   "location": 2,
+   "content": "包括我自己讨论",
+   "music": 0.0
+  },
+  {
+   "from": 152.64,
+   "to": 154.66,
+   "sid": 94,
+   "location": 2,
+   "content": "任何可能能导致情绪内耗的问题",
+   "music": 0.0
+  },
+  {
+   "from": 154.66,
+   "to": 155.5,
+   "sid": 95,
+   "location": 2,
+   "content": "有什么矛盾",
+   "music": 0.0
+  },
+  {
+   "from": 155.5,
+   "to": 156.49,
+   "sid": 96,
+   "location": 2,
+   "content": "睡好了再说",
+   "music": 0.0
+  },
+  {
+   "from": 156.49,
+   "to": 159.2,
+   "sid": 97,
+   "location": 2,
+   "content": "二是睡前45分钟不使用智能手机",
+   "music": 0.0
+  },
+  {
+   "from": 159.2,
+   "to": 161.42,
+   "sid": 98,
+   "location": 2,
+   "content": "而是进行不费脑的阅读或者冥想",
+   "music": 0.0
+  },
+  {
+   "from": 161.42,
+   "to": 164.18,
+   "sid": 99,
+   "location": 2,
+   "content": "因为手机产生的光线会抑制褪黑素的分泌",
+   "music": 0.0
+  },
+  {
+   "from": 164.18,
+   "to": 165.92,
+   "sid": 100,
+   "location": 2,
+   "content": "直接导致糟糕的睡眠",
+   "music": 0.0
+  },
+  {
+   "from": 165.92,
+   "to": 167.96,
+   "sid": 101,
+   "location": 2,
+   "content": "三是在防噪耳塞租的房间",
+   "music": 0.0
+  },
+  {
+   "from": 167.96,
+   "to": 169.4,
+   "sid": 102,
+   "location": 2,
+   "content": "临街经常会有汽车",
+   "music": 0.0
+  },
+  {
+   "from": 169.4,
+   "to": 170.12,
+   "sid": 103,
+   "location": 2,
+   "content": "职场的声音",
+   "music": 0.0
+  },
+  {
+   "from": 170.12,
+   "to": 171.74,
+   "sid": 104,
+   "location": 2,
+   "content": "会严重损害睡眠质量",
+   "music": 0.0
+  },
+  {
+   "from": 171.74,
+   "to": 173.6,
+   "sid": 105,
+   "location": 2,
+   "content": "所以截图保存这张音速图",
+   "music": 0.0
+  },
+  {
+   "from": 173.6,
+   "to": 174.98,
+   "sid": 106,
+   "location": 2,
+   "content": "如果你下次还是睡不好",
+   "music": 0.0
+  },
+  {
+   "from": 174.98,
+   "to": 177.32,
+   "sid": 107,
+   "location": 2,
+   "content": "那排查法肯定能让你对症下药",
+   "music": 0.0
+  },
+  {
+   "from": 180.02,
+   "to": 180.74,
+   "sid": 108,
+   "location": 2,
+   "content": "亲测有效",
+   "music": 0.0
+  },
+  {
+   "from": 181.94,
+   "to": 183.98,
+   "sid": 109,
+   "location": 2,
+   "content": "可以通过启动副交感神经系统",
+   "music": 0.0
+  },
+  {
+   "from": 183.98,
+   "to": 185.04,
+   "sid": 110,
+   "location": 2,
+   "content": "就像切换一个电台",
+   "music": 0.0
+  },
+  {
+   "from": 185.04,
+   "to": 186.96,
+   "sid": 111,
+   "location": 2,
+   "content": "帮助你疗愈疲惫的身心",
+   "music": 0.0
+  },
+  {
+   "from": 186.96,
+   "to": 187.5,
+   "sid": 112,
+   "location": 2,
+   "content": "除此之外",
+   "music": 0.0
+  },
+  {
+   "from": 187.5,
+   "to": 188.88,
+   "sid": 113,
+   "location": 2,
+   "content": "还能增强负责记忆力",
+   "music": 0.0
+  },
+  {
+   "from": 188.88,
+   "to": 189.24,
+   "sid": 114,
+   "location": 2,
+   "content": "注意力",
+   "music": 0.0
+  },
+  {
+   "from": 189.24,
+   "to": 191.74,
+   "sid": 115,
+   "location": 2,
+   "content": "学习力量和情绪调解的前额叶皮质脑区",
+   "music": 0.0
+  },
+  {
+   "from": 191.74,
+   "to": 194.38,
+   "sid": 116,
+   "location": 2,
+   "content": "唯一的问题是有些练习需要30来分钟",
+   "music": 0.0
+  },
+  {
+   "from": 194.38,
+   "to": 195.34,
+   "sid": 117,
+   "location": 2,
+   "content": "不容易坚持",
+   "music": 0.0
+  },
+  {
+   "from": 195.34,
+   "to": 197.4,
+   "sid": 118,
+   "location": 2,
+   "content": "所以我建议你可以找一个饭友一起",
+   "music": 0.0
+  },
+  {
+   "from": 197.4,
+   "to": 198.54,
+   "sid": 119,
+   "location": 2,
+   "content": "像T酱和T君一样",
+   "music": 0.0
+  },
+  {
+   "from": 198.54,
+   "to": 201.36,
+   "sid": 120,
+   "location": 2,
+   "content": "从每餐饭后做5分钟的呼吸小练习开始",
+   "music": 0.0
+  },
+  {
+   "from": 201.36,
+   "to": 203.4,
+   "sid": 121,
+   "location": 2,
+   "content": "有一到2分钟观察自己的念头",
+   "music": 0.0
+  },
+  {
+   "from": 203.4,
+   "to": 204.28,
+   "sid": 122,
+   "location": 2,
+   "content": "给他们命名",
+   "music": 0.0
+  },
+  {
+   "from": 204.28,
+   "to": 206.08,
+   "sid": 123,
+   "location": 2,
+   "content": "一到2分钟进行深呼吸",
+   "music": 0.0
+  },
+  {
+   "from": 206.08,
+   "to": 207.64,
+   "sid": 124,
+   "location": 2,
+   "content": "观察呼吸进入身体",
+   "music": 0.0
+  },
+  {
+   "from": 207.64,
+   "to": 210.3,
+   "sid": 125,
+   "location": 2,
+   "content": "从鼻腔到小腹的微观细节",
+   "music": 0.0
+  },
+  {
+   "from": 210.3,
+   "to": 213.84,
+   "sid": 126,
+   "location": 2,
+   "content": "再用一到2分钟观察身体有明显不适感的部位",
+   "music": 0.0
+  },
+  {
+   "from": 213.84,
+   "to": 215.58,
+   "sid": 127,
+   "location": 2,
+   "content": "看到并放下这种不适",
+   "music": 0.0
+  },
+  {
+   "from": 215.58,
+   "to": 216.84,
+   "sid": 128,
+   "location": 2,
+   "content": "就在这样的过程中",
+   "music": 0.0
+  },
+  {
+   "from": 216.84,
+   "to": 219.38,
+   "sid": 129,
+   "location": 2,
+   "content": "学着把疲惫和负面想法放到一边",
+   "music": 0.0
+  },
+  {
+   "from": 219.38,
+   "to": 220.22,
+   "sid": 130,
+   "location": 2,
+   "content": "虽察觉到",
+   "music": 0.0
+  },
+  {
+   "from": 220.22,
+   "to": 221.6,
+   "sid": 131,
+   "location": 2,
+   "content": "但不担心不卷入",
+   "music": 0.0
+  },
+  {
+   "from": 221.6,
+   "to": 223.82,
+   "sid": 132,
+   "location": 2,
+   "content": "只是专注在呼吸和身体体验上",
+   "music": 0.0
+  },
+  {
+   "from": 223.82,
+   "to": 224.92,
+   "sid": 133,
+   "location": 2,
+   "content": "随着练习的深入",
+   "music": 0.0
+  },
+  {
+   "from": 224.92,
+   "to": 226.6,
+   "sid": 134,
+   "location": 2,
+   "content": "逐渐升级到更有趣的升级",
+   "music": 0.0
+  },
+  {
+   "from": 226.6,
+   "to": 227.98,
+   "sid": 135,
+   "location": 2,
+   "content": "扫描静坐练习等等",
+   "music": 0.0
+  },
+  {
+   "from": 227.98,
+   "to": 229.78,
+   "sid": 136,
+   "location": 2,
+   "content": "提琴和T酱练习了一个月之后",
+   "music": 0.0
+  },
+  {
+   "from": 229.78,
+   "to": 232.32,
+   "sid": 137,
+   "location": 2,
+   "content": "每天疲劳的身心都能及时沉静下来",
+   "music": 0.0
+  },
+  {
+   "from": 232.32,
+   "to": 235.2,
+   "sid": 138,
+   "location": 2,
+   "content": "而且充满了对情绪的掌控和对生活的悦纳",
+   "music": 0.0
+  },
+  {
+   "from": 235.2,
+   "to": 235.89,
+   "sid": 139,
+   "location": 2,
+   "content": "方法三",
+   "music": 0.0
+  },
+  {
+   "from": 235.89,
+   "to": 237.36,
+   "sid": 140,
+   "location": 2,
+   "content": "每天锻炼20分钟以上",
+   "music": 0.0
+  },
+  {
+   "from": 237.36,
+   "to": 239.78,
+   "sid": 141,
+   "location": 2,
+   "content": "有效率82%确实有效",
+   "music": 0.0
+  },
+  {
+   "from": 239.78,
+   "to": 241.7,
+   "sid": 142,
+   "location": 2,
+   "content": "作为一个手无缚鸡之力的宅人",
+   "music": 0.0
+  },
+  {
+   "from": 241.7,
+   "to": 244.64,
+   "sid": 143,
+   "location": 2,
+   "content": "我也曾逼迫自己打羽毛球跳操跳绳",
+   "music": 0.0
+  },
+  {
+   "from": 244.64,
+   "to": 245.6,
+   "sid": 144,
+   "location": 2,
+   "content": "但是太累了",
+   "music": 0.0
+  },
+  {
+   "from": 245.6,
+   "to": 246.08,
+   "sid": 145,
+   "location": 2,
+   "content": "三天后",
+   "music": 0.0
+  },
+  {
+   "from": 246.08,
+   "to": 246.83,
+   "sid": 146,
+   "location": 2,
+   "content": "我骂自己",
+   "music": 0.0
+  },
+  {
+   "from": 246.83,
+   "to": 248.06,
+   "sid": 147,
+   "location": 2,
+   "content": "神子就在你旁边",
+   "music": 0.0
+  },
+  {
+   "from": 248.06,
+   "to": 249.32,
+   "sid": 148,
+   "location": 2,
+   "content": "你怎么就够不着呢",
+   "music": 0.0
+  },
+  {
+   "from": 249.32,
+   "to": 250.94,
+   "sid": 149,
+   "location": 2,
+   "content": "每次想要重振雄风",
+   "music": 0.0
+  },
+  {
+   "from": 250.94,
+   "to": 252.44,
+   "sid": 150,
+   "location": 2,
+   "content": "迎来的却是新一轮触底",
+   "music": 0.0
+  },
+  {
+   "from": 252.44,
+   "to": 253.28,
+   "sid": 151,
+   "location": 2,
+   "content": "而不是反弹",
+   "music": 0.0
+  },
+  {
+   "from": 253.28,
+   "to": 254.24,
+   "sid": 152,
+   "location": 2,
+   "content": "后来我才明白",
+   "music": 0.0
+  },
+  {
+   "from": 254.24,
+   "to": 255.02,
+   "sid": 153,
+   "location": 2,
+   "content": "像我这样的人",
+   "music": 0.0
+  },
+  {
+   "from": 255.02,
+   "to": 257.9,
+   "sid": 154,
+   "location": 2,
+   "content": "坚持运动的最好方式是降低运动难度",
+   "music": 0.0
+  },
+  {
+   "from": 257.9,
+   "to": 259.16,
+   "sid": 155,
+   "location": 2,
+   "content": "加绑定附加价值",
+   "music": 0.0
+  },
+  {
+   "from": 259.16,
+   "to": 260.66,
+   "sid": 156,
+   "location": 2,
+   "content": "于是我怒投300大洋",
+   "music": 0.0
+  },
+  {
+   "from": 260.66,
+   "to": 261.579,
+   "sid": 157,
+   "location": 2,
+   "content": "整了个二手椭圆",
+   "music": 0.0
+  },
+  {
+   "from": 261.579,
+   "to": 262.599,
+   "sid": 158,
+   "location": 2,
+   "content": "我告诉自己",
+   "music": 0.0
+  },
+  {
+   "from": 262.599,
+   "to": 264.86,
+   "sid": 159,
+   "location": 2,
+   "content": "每天只有踩椭圆机的时候才能追番",
+   "music": 0.0
+  },
+  {
+   "from": 264.86,
+   "to": 267.8,
+   "sid": 160,
+   "location": 2,
+   "content": "而且特别适合追强风吹拂这种体育番",
+   "music": 0.0
+  },
+  {
+   "from": 267.8,
+   "to": 268.94,
+   "sid": 161,
+   "location": 2,
+   "content": "等我回过神来的时候",
+   "music": 0.0
+  },
+  {
+   "from": 268.94,
+   "to": 271.08,
+   "sid": 162,
+   "location": 2,
+   "content": "发现自己已经快乐的连看两集了",
+   "music": 0.0
+  },
+  {
+   "from": 271.08,
+   "to": 273.0,
+   "sid": 163,
+   "location": 2,
+   "content": "哦不已经踩了半小时了",
+   "music": 0.0
+  },
+  {
+   "from": 273.0,
+   "to": 274.14,
+   "sid": 164,
+   "location": 2,
+   "content": "所以我真的建议你",
+   "music": 0.0
+  },
+  {
+   "from": 274.14,
+   "to": 276.48,
+   "sid": 165,
+   "location": 2,
+   "content": "不要逼迫自己去做那些你讨厌的运动",
+   "music": 0.0
+  },
+  {
+   "from": 276.48,
+   "to": 277.92,
+   "sid": 166,
+   "location": 2,
+   "content": "去感受踩单车的自由",
+   "music": 0.0
+  },
+  {
+   "from": 277.92,
+   "to": 280.14,
+   "sid": 167,
+   "location": 2,
+   "content": "打篮球的热血舞蹈释放出的热烈",
+   "music": 0.0
+  },
+  {
+   "from": 280.14,
+   "to": 281.36,
+   "sid": 168,
+   "location": 2,
+   "content": "漫步森林的自然吧",
+   "music": 0.0
+  },
+  {
+   "from": 281.36,
+   "to": 282.74,
+   "sid": 169,
+   "location": 2,
+   "content": "附加价值因人而异",
+   "music": 0.0
+  },
+  {
+   "from": 282.74,
+   "to": 284.9,
+   "sid": 170,
+   "location": 2,
+   "content": "但一定要找到可以坚持下去的运动",
+   "music": 0.0
+  },
+  {
+   "from": 284.9,
+   "to": 286.64,
+   "sid": 171,
+   "location": 2,
+   "content": "相信我只要运动20分钟以上",
+   "music": 0.0
+  },
+  {
+   "from": 286.64,
+   "to": 287.78,
+   "sid": 172,
+   "location": 2,
+   "content": "释放一小撮内啡肽",
+   "music": 0.0
+  },
+  {
+   "from": 287.78,
+   "to": 288.5,
+   "sid": 173,
+   "location": 2,
+   "content": "就可以帮助你",
+   "music": 0.0
+  },
+  {
+   "from": 288.5,
+   "to": 290.84,
+   "sid": 174,
+   "location": 2,
+   "content": "降低皮质醇和肾上腺激素的应激水平",
+   "music": 0.0
+  },
+  {
+   "from": 290.84,
+   "to": 292.82,
+   "sid": 175,
+   "location": 2,
+   "content": "从而抵消HPA故障导致的疲惫感",
+   "music": 0.0
+  },
+  {
+   "from": 292.82,
+   "to": 295.04,
+   "sid": 176,
+   "location": 2,
+   "content": "快乐的像小青蛙一样获得经历之后",
+   "music": 0.0
+  },
+  {
+   "from": 295.04,
+   "to": 296.63,
+   "sid": 177,
+   "location": 2,
+   "content": "接下来是针对阶段二",
+   "music": 0.0
+  },
+  {
+   "from": 296.63,
+   "to": 299.21,
+   "sid": 178,
+   "location": 2,
+   "content": "愤世嫉俗的三大情绪调解计划",
+   "music": 0.0
+  },
+  {
+   "from": 299.21,
+   "to": 301.22,
+   "sid": 179,
+   "location": 2,
+   "content": "方法四寻求心理支持",
+   "music": 0.0
+  },
+  {
+   "from": 301.22,
+   "to": 302.6,
+   "sid": 180,
+   "location": 2,
+   "content": "有效率75%",
+   "music": 0.0
+  },
+  {
+   "from": 302.6,
+   "to": 303.32,
+   "sid": 181,
+   "location": 2,
+   "content": "真的有效",
+   "music": 0.0
+  },
+  {
+   "from": 303.32,
+   "to": 306.14,
+   "sid": 182,
+   "location": 2,
+   "content": "心理咨询师的专业知识固然能让你走出心累",
+   "music": 0.0
+  },
+  {
+   "from": 306.14,
+   "to": 308.7,
+   "sid": 183,
+   "location": 2,
+   "content": "问题是定期咨询确实需要经济实力",
+   "music": 0.0
+  },
+  {
+   "from": 308.7,
+   "to": 309.9,
+   "sid": 184,
+   "location": 2,
+   "content": "所以如果预算有限",
+   "music": 0.0
+  },
+  {
+   "from": 309.9,
+   "to": 312.36,
+   "sid": 185,
+   "location": 2,
+   "content": "T酱强烈推荐你进行间歇性心理咨询",
+   "music": 0.0
+  },
+  {
+   "from": 312.36,
+   "to": 314.16,
+   "sid": 186,
+   "location": 2,
+   "content": "价常规性寻求同伴支持",
+   "music": 0.0
+  },
+  {
+   "from": 314.16,
+   "to": 317.46,
+   "sid": 187,
+   "location": 2,
+   "content": "比如邀请一个人和你一起进行每周安慰对话",
+   "music": 0.0
+  },
+  {
+   "from": 317.46,
+   "to": 318.36,
+   "sid": 188,
+   "location": 2,
+   "content": "可以是你的宝",
+   "music": 0.0
+  },
+  {
+   "from": 318.36,
+   "to": 318.84,
+   "sid": 189,
+   "location": 2,
+   "content": "你的闺蜜",
+   "music": 0.0
+  },
+  {
+   "from": 318.84,
+   "to": 319.38,
+   "sid": 190,
+   "location": 2,
+   "content": "你的兄弟",
+   "music": 0.0
+  },
+  {
+   "from": 319.38,
+   "to": 320.88,
+   "sid": 191,
+   "location": 2,
+   "content": "你信任的朋友或是其他",
+   "music": 0.0
+  },
+  {
+   "from": 320.88,
+   "to": 322.5,
+   "sid": 192,
+   "location": 2,
+   "content": "你想要建立亲密关系的人",
+   "music": 0.0
+  },
+  {
+   "from": 322.5,
+   "to": 323.8,
+   "sid": 193,
+   "location": 2,
+   "content": "操作起来非常简单",
+   "music": 0.0
+  },
+  {
+   "from": 323.8,
+   "to": 325.24,
+   "sid": 194,
+   "location": 2,
+   "content": "每次对话分两轮进行",
+   "music": 0.0
+  },
+  {
+   "from": 325.24,
+   "to": 326.08,
+   "sid": 195,
+   "location": 2,
+   "content": "每轮15分钟",
+   "music": 0.0
+  },
+  {
+   "from": 326.08,
+   "to": 327.46,
+   "sid": 196,
+   "location": 2,
+   "content": "第一轮对方是讲述者",
+   "music": 0.0
+  },
+  {
+   "from": 327.46,
+   "to": 328.6,
+   "sid": 197,
+   "location": 2,
+   "content": "你负责表达支持",
+   "music": 0.0
+  },
+  {
+   "from": 328.6,
+   "to": 329.74,
+   "sid": 198,
+   "location": 2,
+   "content": "专注倾听温暖的朋友",
+   "music": 0.0
+  },
+  {
+   "from": 329.74,
+   "to": 330.7,
+   "sid": 199,
+   "location": 2,
+   "content": "15分钟后",
+   "music": 0.0
+  },
+  {
+   "from": 330.7,
+   "to": 331.66,
+   "sid": 200,
+   "location": 2,
+   "content": "两人角色对调",
+   "music": 0.0
+  },
+  {
+   "from": 331.66,
+   "to": 333.52,
+   "sid": 201,
+   "location": 2,
+   "content": "你负责讲述自己小说的任何话题",
+   "music": 0.0
+  },
+  {
+   "from": 333.52,
+   "to": 334.24,
+   "sid": 202,
+   "location": 2,
+   "content": "故事和情绪",
+   "music": 0.0
+  },
+  {
+   "from": 334.24,
+   "to": 335.56,
+   "sid": 203,
+   "location": 2,
+   "content": "而对方是那个倾听者",
+   "music": 0.0
+  },
+  {
+   "from": 335.56,
+   "to": 336.22,
+   "sid": 204,
+   "location": 2,
+   "content": "亲测下来",
+   "music": 0.0
+  },
+  {
+   "from": 336.22,
+   "to": 337.18,
+   "sid": 205,
+   "location": 2,
+   "content": "发现结束后",
+   "music": 0.0
+  },
+  {
+   "from": 337.18,
+   "to": 338.56,
+   "sid": 206,
+   "location": 2,
+   "content": "双方都会充满力量",
+   "music": 0.0
+  },
+  {
+   "from": 338.56,
+   "to": 340.68,
+   "sid": 207,
+   "location": 2,
+   "content": "又可以微笑地迎接生活的小拳头了",
+   "music": 0.0
+  },
+  {
+   "from": 340.68,
+   "to": 342.9,
+   "sid": 208,
+   "location": 2,
+   "content": "方法五利他行为亲测有效",
+   "music": 0.0
+  },
+  {
+   "from": 342.9,
+   "to": 343.68,
+   "sid": 209,
+   "location": 2,
+   "content": "非常神奇",
+   "music": 0.0
+  },
+  {
+   "from": 343.68,
+   "to": 345.36,
+   "sid": 210,
+   "location": 2,
+   "content": "在内心极度疲惫的时刻",
+   "music": 0.0
+  },
+  {
+   "from": 345.36,
+   "to": 348.42,
+   "sid": 211,
+   "location": 2,
+   "content": "人类依然渴望着与他人生命链接的微妙共感",
+   "music": 0.0
+  },
+  {
+   "from": 348.42,
+   "to": 350.52,
+   "sid": 212,
+   "location": 2,
+   "content": "比如帮助地铁或者火车站的陌生人",
+   "music": 0.0
+  },
+  {
+   "from": 350.52,
+   "to": 351.63,
+   "sid": 213,
+   "location": 2,
+   "content": "拿行李箱上楼梯",
+   "music": 0.0
+  },
+  {
+   "from": 351.63,
+   "to": 352.5,
+   "sid": 214,
+   "location": 2,
+   "content": "给街边的流量",
+   "music": 0.0
+  },
+  {
+   "from": 352.5,
+   "to": 354.0,
+   "sid": 215,
+   "location": 2,
+   "content": "让狗流浪猫送一口吃的",
+   "music": 0.0
+  },
+  {
+   "from": 354.0,
+   "to": 355.32,
+   "sid": 216,
+   "location": 2,
+   "content": "逗笑身边的一个朋友",
+   "music": 0.0
+  },
+  {
+   "from": 355.32,
+   "to": 356.88,
+   "sid": 217,
+   "location": 2,
+   "content": "赞美和关心你在乎的人",
+   "music": 0.0
+  },
+  {
+   "from": 356.88,
+   "to": 358.18,
+   "sid": 218,
+   "location": 2,
+   "content": "关键是不求回报",
+   "music": 0.0
+  },
+  {
+   "from": 358.18,
+   "to": 361.06,
+   "sid": 219,
+   "location": 2,
+   "content": "你可以观察一下它带来的那种价值感与归属感",
+   "music": 0.0
+  },
+  {
+   "from": 361.06,
+   "to": 361.7,
+   "sid": 220,
+   "location": 2,
+   "content": "T酱",
+   "music": 0.0
+  },
+  {
+   "from": 361.7,
+   "to": 363.95,
+   "sid": 221,
+   "location": 2,
+   "content": "我倦怠的时候就不想社交怎么办",
+   "music": 0.0
+  },
+  {
+   "from": 363.95,
+   "to": 364.88,
+   "sid": 222,
+   "location": 2,
+   "content": "这就是难点",
+   "music": 0.0
+  },
+  {
+   "from": 364.88,
+   "to": 367.25,
+   "sid": 223,
+   "location": 2,
+   "content": "大脑杏仁核会让你变得愤世嫉俗",
+   "music": 0.0
+  },
+  {
+   "from": 367.25,
+   "to": 367.94,
+   "sid": 224,
+   "location": 2,
+   "content": "情绪易激",
+   "music": 0.0
+  },
+  {
+   "from": 367.94,
+   "to": 368.18,
+   "sid": 225,
+   "location": 2,
+   "content": "惹",
+   "music": 0.0
+  },
+  {
+   "from": 368.18,
+   "to": 369.68,
+   "sid": 226,
+   "location": 2,
+   "content": "会很想把自己孤立起来",
+   "music": 0.0
+  },
+  {
+   "from": 369.68,
+   "to": 370.82,
+   "sid": 227,
+   "location": 2,
+   "content": "理解这一点之后",
+   "music": 0.0
+  },
+  {
+   "from": 370.82,
+   "to": 372.44,
+   "sid": 228,
+   "location": 2,
+   "content": "我们一定不能屈服于大脑",
+   "music": 0.0
+  },
+  {
+   "from": 372.44,
+   "to": 373.68,
+   "sid": 229,
+   "location": 2,
+   "content": "比如我会对自己说",
+   "music": 0.0
+  },
+  {
+   "from": 373.68,
+   "to": 374.28,
+   "sid": 230,
+   "location": 2,
+   "content": "谢谢你",
+   "music": 0.0
+  },
+  {
+   "from": 374.28,
+   "to": 374.76,
+   "sid": 231,
+   "location": 2,
+   "content": "杏仁核",
+   "music": 0.0
+  },
+  {
+   "from": 374.76,
+   "to": 375.84,
+   "sid": 232,
+   "location": 2,
+   "content": "我知道你想保护我",
+   "music": 0.0
+  },
+  {
+   "from": 375.84,
+   "to": 376.62,
+   "sid": 233,
+   "location": 2,
+   "content": "远离压力源",
+   "music": 0.0
+  },
+  {
+   "from": 376.62,
+   "to": 378.54,
+   "sid": 234,
+   "location": 2,
+   "content": "但是我知道什么是对我好的",
+   "music": 0.0
+  },
+  {
+   "from": 378.54,
+   "to": 380.56,
+   "sid": 235,
+   "location": 2,
+   "content": "我想重新找到人际关系中的链接",
+   "music": 0.0
+  },
+  {
+   "from": 380.56,
+   "to": 383.08,
+   "sid": 236,
+   "location": 2,
+   "content": "这时负责决策的前额叶皮质会抑制",
+   "music": 0.0
+  },
+  {
+   "from": 383.08,
+   "to": 385.6,
+   "sid": 237,
+   "location": 2,
+   "content": "让你恐惧社交的杏仁核而利他的行为",
+   "music": 0.0
+  },
+  {
+   "from": 385.6,
+   "to": 386.44,
+   "sid": 238,
+   "location": 2,
+   "content": "一旦做出",
+   "music": 0.0
+  },
+  {
+   "from": 386.44,
+   "to": 389.54,
+   "sid": 239,
+   "location": 2,
+   "content": "你的嘴角会不自觉地浮起姨母姨父般的微笑",
+   "music": 0.0
+  },
+  {
+   "from": 389.54,
+   "to": 392.09,
+   "sid": 240,
+   "location": 2,
+   "content": "方法六情绪书写练习真的有效",
+   "music": 0.0
+  },
+  {
+   "from": 392.09,
+   "to": 393.8,
+   "sid": 241,
+   "location": 2,
+   "content": "人哪会自然地产生各种",
+   "music": 0.0
+  },
+  {
+   "from": 393.8,
+   "to": 395.54,
+   "sid": 242,
+   "location": 2,
+   "content": "各自己精疲力竭的负面想法",
+   "music": 0.0
+  },
+  {
+   "from": 395.54,
+   "to": 397.16,
+   "sid": 243,
+   "location": 2,
+   "content": "那你要是打不过这些思想",
+   "music": 0.0
+  },
+  {
+   "from": 397.16,
+   "to": 398.6,
+   "sid": 244,
+   "location": 2,
+   "content": "就不如化敌为友",
+   "music": 0.0
+  },
+  {
+   "from": 398.6,
+   "to": 400.04,
+   "sid": 245,
+   "location": 2,
+   "content": "每天主动留出10分钟",
+   "music": 0.0
+  },
+  {
+   "from": 400.04,
+   "to": 401.84,
+   "sid": 246,
+   "location": 2,
+   "content": "专门把负面想法沉淀下来",
+   "music": 0.0
+  },
+  {
+   "from": 401.84,
+   "to": 402.68,
+   "sid": 247,
+   "location": 2,
+   "content": "具体怎么做呢",
+   "music": 0.0
+  },
+  {
+   "from": 402.68,
+   "to": 403.52,
+   "sid": 248,
+   "location": 2,
+   "content": "准备一打纸",
+   "music": 0.0
+  },
+  {
+   "from": 403.52,
+   "to": 404.96,
+   "sid": 249,
+   "location": 2,
+   "content": "想一个正在困扰你的主题",
+   "music": 0.0
+  },
+  {
+   "from": 404.96,
+   "to": 406.66,
+   "sid": 250,
+   "location": 2,
+   "content": "比如我害怕做作业做不完",
+   "music": 0.0
+  },
+  {
+   "from": 406.66,
+   "to": 407.44,
+   "sid": 251,
+   "location": 2,
+   "content": "但又不想做",
+   "music": 0.0
+  },
+  {
+   "from": 407.44,
+   "to": 408.82,
+   "sid": 252,
+   "location": 2,
+   "content": "我担心工作会犯错误",
+   "music": 0.0
+  },
+  {
+   "from": 408.82,
+   "to": 409.94,
+   "sid": 253,
+   "location": 2,
+   "content": "他的话让我很难受",
+   "music": 0.0
+  },
+  {
+   "from": 409.94,
+   "to": 411.47,
+   "sid": 254,
+   "location": 2,
+   "content": "然后定时一分钟",
+   "music": 0.0
+  },
+  {
+   "from": 411.47,
+   "to": 413.66,
+   "sid": 255,
+   "location": 2,
+   "content": "不带思考的写下你的想法和情绪",
+   "music": 0.0
+  },
+  {
+   "from": 413.66,
+   "to": 415.82,
+   "sid": 256,
+   "location": 2,
+   "content": "一张纸大概写4~6行字",
+   "music": 0.0
+  },
+  {
+   "from": 415.82,
+   "to": 417.36,
+   "sid": 257,
+   "location": 2,
+   "content": "闹钟响起后就翻一页",
+   "music": 0.0
+  },
+  {
+   "from": 417.36,
+   "to": 418.35,
+   "sid": 258,
+   "location": 2,
+   "content": "再定个一分钟",
+   "music": 0.0
+  },
+  {
+   "from": 418.35,
+   "to": 421.83,
+   "sid": 259,
+   "location": 2,
+   "content": "在时限内快速写完第二页再翻页定闹钟",
+   "music": 0.0
+  },
+  {
+   "from": 421.83,
+   "to": 423.0,
+   "sid": 260,
+   "location": 2,
+   "content": "以此类推",
+   "music": 0.0
+  },
+  {
+   "from": 423.0,
+   "to": 424.86,
+   "sid": 261,
+   "location": 2,
+   "content": "一共定十个一分钟的闹钟",
+   "music": 0.0
+  },
+  {
+   "from": 424.86,
+   "to": 426.82,
+   "sid": 262,
+   "location": 2,
+   "content": "写十页纸不多也不少",
+   "music": 0.0
+  },
+  {
+   "from": 426.82,
+   "to": 428.02,
+   "sid": 263,
+   "location": 2,
+   "content": "我和细菌测试下来",
+   "music": 0.0
+  },
+  {
+   "from": 428.02,
+   "to": 429.28,
+   "sid": 264,
+   "location": 2,
+   "content": "发现持续几天后",
+   "music": 0.0
+  },
+  {
+   "from": 429.28,
+   "to": 432.34,
+   "sid": 265,
+   "location": 2,
+   "content": "自己内心的压力不安和恐惧都有所减轻",
+   "music": 0.0
+  },
+  {
+   "from": 432.34,
+   "to": 434.98,
+   "sid": 266,
+   "location": 2,
+   "content": "甚至还常常不小心写出问题的解决方案",
+   "music": 0.0
+  },
+  {
+   "from": 434.98,
+   "to": 435.64,
+   "sid": 267,
+   "location": 2,
+   "content": "情绪稳固",
+   "music": 0.0
+  },
+  {
+   "from": 435.64,
+   "to": 439.06,
+   "sid": 268,
+   "location": 2,
+   "content": "后来到针对阶段三丧失效能的三大动力",
+   "music": 0.0
+  },
+  {
+   "from": 439.06,
+   "to": 439.72,
+   "sid": 269,
+   "location": 2,
+   "content": "重启计划",
+   "music": 0.0
+  },
+  {
+   "from": 439.72,
+   "to": 441.42,
+   "sid": 270,
+   "location": 2,
+   "content": "分外感恩练习",
+   "music": 0.0
+  },
+  {
+   "from": 441.42,
+   "to": 443.04,
+   "sid": 271,
+   "location": 2,
+   "content": "把你的右手大拇指伸出来",
+   "music": 0.0
+  },
+  {
+   "from": 443.04,
+   "to": 446.6,
+   "sid": 272,
+   "location": 2,
+   "content": "用左手轻轻环抱输出你今天感恩的第一件事",
+   "music": 0.0
+  },
+  {
+   "from": 446.6,
+   "to": 447.08,
+   "sid": 273,
+   "location": 2,
+   "content": "食指",
+   "music": 0.0
+  },
+  {
+   "from": 447.08,
+   "to": 448.34,
+   "sid": 274,
+   "location": 2,
+   "content": "你感恩的第二件事",
+   "music": 0.0
+  },
+  {
+   "from": 448.34,
+   "to": 449.15,
+   "sid": 275,
+   "location": 2,
+   "content": "以此类推",
+   "music": 0.0
+  },
+  {
+   "from": 449.15,
+   "to": 450.62,
+   "sid": 276,
+   "location": 2,
+   "content": "说完十件事为止",
+   "music": 0.0
+  },
+  {
+   "from": 450.62,
+   "to": 452.78,
+   "sid": 277,
+   "location": 2,
+   "content": "你感恩的可以是任何一个人做的一件事",
+   "music": 0.0
+  },
+  {
+   "from": 452.78,
+   "to": 453.44,
+   "sid": 278,
+   "location": 2,
+   "content": "一个物品",
+   "music": 0.0
+  },
+  {
+   "from": 453.44,
+   "to": 454.22,
+   "sid": 279,
+   "location": 2,
+   "content": "一次经历",
+   "music": 0.0
+  },
+  {
+   "from": 454.22,
+   "to": 456.86,
+   "sid": 280,
+   "location": 2,
+   "content": "你的一个身体部位或是大自然中的元素",
+   "music": 0.0
+  },
+  {
+   "from": 456.86,
+   "to": 458.06,
+   "sid": 281,
+   "location": 2,
+   "content": "任何存在都可以",
+   "music": 0.0
+  },
+  {
+   "from": 458.06,
+   "to": 460.36,
+   "sid": 282,
+   "location": 2,
+   "content": "T酱在每天感恩完十个对象后",
+   "music": 0.0
+  },
+  {
+   "from": 460.36,
+   "to": 462.4,
+   "sid": 283,
+   "location": 2,
+   "content": "嘴角会不自然地浮出一抹微笑",
+   "music": 0.0
+  },
+  {
+   "from": 462.4,
+   "to": 464.86,
+   "sid": 284,
+   "location": 2,
+   "content": "对生活回复了一小撮热情的火苗",
+   "music": 0.0
+  },
+  {
+   "from": 464.86,
+   "to": 465.44,
+   "sid": 285,
+   "location": 2,
+   "content": "方法吧",
+   "music": 0.0
+  },
+  {
+   "from": 465.44,
+   "to": 467.3,
+   "sid": 286,
+   "location": 2,
+   "content": "动力日程法亲测有效",
+   "music": 0.0
+  },
+  {
+   "from": 467.3,
+   "to": 469.16,
+   "sid": 287,
+   "location": 2,
+   "content": "为什么你感受不到自己的渴望",
+   "music": 0.0
+  },
+  {
+   "from": 469.16,
+   "to": 471.02,
+   "sid": 288,
+   "location": 2,
+   "content": "许多心理学家都认同同一个观点",
+   "music": 0.0
+  },
+  {
+   "from": 471.02,
+   "to": 473.96,
+   "sid": 289,
+   "location": 2,
+   "content": "一个人如果做了太多自己必须做应该做的事情",
+   "music": 0.0
+  },
+  {
+   "from": 473.96,
+   "to": 476.06,
+   "sid": 290,
+   "location": 2,
+   "content": "而忽略了太多想要做的事情",
+   "music": 0.0
+  },
+  {
+   "from": 476.06,
+   "to": 478.1,
+   "sid": 291,
+   "location": 2,
+   "content": "就会失去自我价值和掌控感",
+   "music": 0.0
+  },
+  {
+   "from": 478.1,
+   "to": 480.41,
+   "sid": 292,
+   "location": 2,
+   "content": "所以我推荐你使用恢复动力日程法",
+   "music": 0.0
+  },
+  {
+   "from": 480.41,
+   "to": 482.36,
+   "sid": 293,
+   "location": 2,
+   "content": "重新找回被剥夺的渴望",
+   "music": 0.0
+  },
+  {
+   "from": 482.36,
+   "to": 484.44,
+   "sid": 294,
+   "location": 2,
+   "content": "首先创建一个你每天的任务清单",
+   "music": 0.0
+  },
+  {
+   "from": 484.44,
+   "to": 486.78,
+   "sid": 295,
+   "location": 2,
+   "content": "再创建一个你每天想做的欲望清单",
+   "music": 0.0
+  },
+  {
+   "from": 486.78,
+   "to": 489.82,
+   "sid": 296,
+   "location": 2,
+   "content": "直到他和你每项不得不做的任务数量大致相同",
+   "music": 0.0
+  },
+  {
+   "from": 489.82,
+   "to": 492.76,
+   "sid": 297,
+   "location": 2,
+   "content": "接着你只需要将两个清单中相同优先级的任务",
+   "music": 0.0
+  },
+  {
+   "from": 492.76,
+   "to": 494.1,
+   "sid": 298,
+   "location": 2,
+   "content": "相互交替进行",
+   "music": 0.0
+  },
+  {
+   "from": 494.1,
+   "to": 495.6,
+   "sid": 299,
+   "location": 2,
+   "content": "所有你必须做的事情",
+   "music": 0.0
+  },
+  {
+   "from": 495.6,
+   "to": 497.4,
+   "sid": 300,
+   "location": 2,
+   "content": "后面都跟着一个你想做的事情",
+   "music": 0.0
+  },
+  {
+   "from": 497.4,
+   "to": 499.78,
+   "sid": 301,
+   "location": 2,
+   "content": "这时你就能够获得强烈的内在认同",
+   "music": 0.0
+  },
+  {
+   "from": 499.78,
+   "to": 500.92,
+   "sid": 302,
+   "location": 2,
+   "content": "真的因为你做到了",
+   "music": 0.0
+  },
+  {
+   "from": 500.92,
+   "to": 503.32,
+   "sid": 303,
+   "location": 2,
+   "content": "在不错过自己热爱的事情的基础上",
+   "music": 0.0
+  },
+  {
+   "from": 503.32,
+   "to": 505.74,
+   "sid": 304,
+   "location": 2,
+   "content": "自由的旅与行李的责任详细操作",
+   "music": 0.0
+  },
+  {
+   "from": 505.74,
+   "to": 506.46,
+   "sid": 305,
+   "location": 2,
+   "content": "我在拖延",
+   "music": 0.0
+  },
+  {
+   "from": 506.46,
+   "to": 507.3,
+   "sid": 306,
+   "location": 2,
+   "content": "这期讲过了",
+   "music": 0.0
+  },
+  {
+   "from": 507.3,
+   "to": 508.8,
+   "sid": 307,
+   "location": 2,
+   "content": "如果你没有太多闲暇时间",
+   "music": 0.0
+  },
+  {
+   "from": 508.8,
+   "to": 510.42,
+   "sid": 308,
+   "location": 2,
+   "content": "做这么多自己喜欢的事情",
+   "music": 0.0
+  },
+  {
+   "from": 510.42,
+   "to": 511.26,
+   "sid": 309,
+   "location": 2,
+   "content": "不妨问自己",
+   "music": 0.0
+  },
+  {
+   "from": 511.26,
+   "to": 514.02,
+   "sid": 310,
+   "location": 2,
+   "content": "对你而言绝对不愿意错过的事情是什么呢",
+   "music": 0.0
+  },
+  {
+   "from": 514.02,
+   "to": 514.62,
+   "sid": 311,
+   "location": 2,
+   "content": "比如T酱",
+   "music": 0.0
+  },
+  {
+   "from": 514.62,
+   "to": 515.74,
+   "sid": 312,
+   "location": 2,
+   "content": "明天和先吃饭",
+   "music": 0.0
+  },
+  {
+   "from": 515.74,
+   "to": 516.7,
+   "sid": 313,
+   "location": 2,
+   "content": "谈天阅读",
+   "music": 0.0
+  },
+  {
+   "from": 516.7,
+   "to": 520.0,
+   "sid": 314,
+   "location": 2,
+   "content": "正念周末的电影院都是打死不愿意错过的事情",
+   "music": 0.0
+  },
+  {
+   "from": 520.0,
+   "to": 521.38,
+   "sid": 315,
+   "location": 2,
+   "content": "有领导微信NO NO NO",
+   "music": 0.0
+  },
+  {
+   "from": 521.38,
+   "to": 522.22,
+   "sid": 316,
+   "location": 2,
+   "content": "先享受吃饭",
+   "music": 0.0
+  },
+  {
+   "from": 522.22,
+   "to": 523.36,
+   "sid": 317,
+   "location": 2,
+   "content": "哪怕只有一件事",
+   "music": 0.0
+  },
+  {
+   "from": 523.36,
+   "to": 524.56,
+   "sid": 318,
+   "location": 2,
+   "content": "一个人一顿饭",
+   "music": 0.0
+  },
+  {
+   "from": 524.56,
+   "to": 525.76,
+   "sid": 319,
+   "location": 2,
+   "content": "一刻钟的时间",
+   "music": 0.0
+  },
+  {
+   "from": 525.76,
+   "to": 527.38,
+   "sid": 320,
+   "location": 2,
+   "content": "把它变成你生活的锚点",
+   "music": 0.0
+  },
+  {
+   "from": 527.38,
+   "to": 528.28,
+   "sid": 321,
+   "location": 2,
+   "content": "绝对不要错过",
+   "music": 0.0
+  },
+  {
+   "from": 528.28,
+   "to": 530.12,
+   "sid": 322,
+   "location": 2,
+   "content": "对你来说真正重要的事情",
+   "music": 0.0
+  },
+  {
+   "from": 530.12,
+   "to": 532.52,
+   "sid": 323,
+   "location": 2,
+   "content": "方法九认知重构法亲测有效",
+   "music": 0.0
+  },
+  {
+   "from": 532.52,
+   "to": 535.46,
+   "sid": 324,
+   "location": 2,
+   "content": "这个方法是帮助我走出倦怠期的关键转折点",
+   "music": 0.0
+  },
+  {
+   "from": 535.46,
+   "to": 537.88,
+   "sid": 325,
+   "location": 2,
+   "content": "具体呢就是把所有的我不想变成",
+   "music": 0.0
+  },
+  {
+   "from": 537.88,
+   "to": 542.08,
+   "sid": 326,
+   "location": 2,
+   "content": "我想要把所有的我不得不变成我想做道理想",
+   "music": 0.0
+  },
+  {
+   "from": 542.08,
+   "to": 542.92,
+   "sid": 327,
+   "location": 2,
+   "content": "怎么理解呢",
+   "music": 0.0
+  },
+  {
+   "from": 542.92,
+   "to": 545.699,
+   "sid": 328,
+   "location": 2,
+   "content": "嗯人有两套单独进化的大脑动力系统",
+   "music": 0.0
+  },
+  {
+   "from": 545.699,
+   "to": 546.779,
+   "sid": 329,
+   "location": 2,
+   "content": "面对同样一件事",
+   "music": 0.0
+  },
+  {
+   "from": 546.779,
+   "to": 547.919,
+   "sid": 330,
+   "location": 2,
+   "content": "比如新的挑战啊",
+   "music": 0.0
+  },
+  {
+   "from": 547.919,
+   "to": 548.459,
+   "sid": 331,
+   "location": 2,
+   "content": "面试啊",
+   "music": 0.0
+  },
+  {
+   "from": 548.459,
+   "to": 548.88,
+   "sid": 332,
+   "location": 2,
+   "content": "比赛啊",
+   "music": 0.0
+  },
+  {
+   "from": 548.88,
+   "to": 551.82,
+   "sid": 333,
+   "location": 2,
+   "content": "系统一会激活你对威胁失败的警惕性",
+   "music": 0.0
+  },
+  {
+   "from": 551.82,
+   "to": 552.9,
+   "sid": 334,
+   "location": 2,
+   "content": "让你担心的说",
+   "music": 0.0
+  },
+  {
+   "from": 552.9,
+   "to": 553.68,
+   "sid": 335,
+   "location": 2,
+   "content": "别过来啊",
+   "music": 0.0
+  },
+  {
+   "from": 553.68,
+   "to": 555.03,
+   "sid": 336,
+   "location": 2,
+   "content": "我害怕系统二",
+   "music": 0.0
+  },
+  {
+   "from": 555.03,
+   "to": 557.88,
+   "sid": 337,
+   "location": 2,
+   "content": "相反会激活你对幸福和奖励的敏感性",
+   "music": 0.0
+  },
+  {
+   "from": 557.88,
+   "to": 558.42,
+   "sid": 338,
+   "location": 2,
+   "content": "告诉你",
+   "music": 0.0
+  },
+  {
+   "from": 558.42,
+   "to": 559.46,
+   "sid": 339,
+   "location": 2,
+   "content": "I want more",
+   "music": 0.0
+  },
+  {
+   "from": 559.46,
+   "to": 561.05,
+   "sid": 340,
+   "location": 2,
+   "content": "Give me more",
+   "music": 0.7391303544424549
+  },
+  {
+   "from": 561.05,
+   "to": 562.76,
+   "sid": 341,
+   "location": 2,
+   "content": "前者帮助你远离危险",
+   "music": 0.0
+  },
+  {
+   "from": 562.76,
+   "to": 564.14,
+   "sid": 342,
+   "location": 2,
+   "content": "或者帮助你投入战斗",
+   "music": 0.0
+  },
+  {
+   "from": 564.14,
+   "to": 564.68,
+   "sid": 343,
+   "location": 2,
+   "content": "倦怠时",
+   "music": 0.0
+  },
+  {
+   "from": 564.68,
+   "to": 566.66,
+   "sid": 344,
+   "location": 2,
+   "content": "你之所以对很多事情提不起热情",
+   "music": 0.0
+  },
+  {
+   "from": 566.66,
+   "to": 568.9,
+   "sid": 345,
+   "location": 2,
+   "content": "都是因为你激活了自己的苦手机系统",
+   "music": 0.0
+  },
+  {
+   "from": 568.9,
+   "to": 570.58,
+   "sid": 346,
+   "location": 2,
+   "content": "它把压力当作巨大的威胁",
+   "music": 0.0
+  },
+  {
+   "from": 570.58,
+   "to": 571.9,
+   "sid": 347,
+   "location": 2,
+   "content": "保护你远离危险",
+   "music": 0.0
+  },
+  {
+   "from": 571.9,
+   "to": 573.1,
+   "sid": 348,
+   "location": 2,
+   "content": "那么想要重燃动力",
+   "music": 0.0
+  },
+  {
+   "from": 573.1,
+   "to": 575.48,
+   "sid": 349,
+   "location": 2,
+   "content": "你可以试着下意识的激活渴望系统",
+   "music": 0.0
+  },
+  {
+   "from": 575.48,
+   "to": 577.1,
+   "sid": 350,
+   "location": 2,
+   "content": "比如每当T酱写作压力过大",
+   "music": 0.0
+  },
+  {
+   "from": 577.1,
+   "to": 578.18,
+   "sid": 351,
+   "location": 2,
+   "content": "会下意识告诉自己",
+   "music": 0.0
+  },
+  {
+   "from": 578.18,
+   "to": 578.66,
+   "sid": 352,
+   "location": 2,
+   "content": "完蛋了",
+   "music": 0.0
+  },
+  {
+   "from": 578.66,
+   "to": 579.44,
+   "sid": 353,
+   "location": 2,
+   "content": "我要窒息了",
+   "music": 0.0
+  },
+  {
+   "from": 579.44,
+   "to": 581.3,
+   "sid": 354,
+   "location": 2,
+   "content": "我绝对不可能按时完成工作",
+   "music": 0.0
+  },
+  {
+   "from": 581.3,
+   "to": 583.4,
+   "sid": 355,
+   "location": 2,
+   "content": "那么大脑中的恐惧系统会被激活",
+   "music": 0.0
+  },
+  {
+   "from": 583.4,
+   "to": 587.02,
+   "sid": 356,
+   "location": 2,
+   "content": "然后用拖延摆低效来帮助我们逃避这项任务",
+   "music": 0.07182320243582054
+  },
+  {
+   "from": 587.02,
+   "to": 589.36,
+   "sid": 357,
+   "location": 2,
+   "content": "此时不妨优雅的换一个说法告诉自己",
+   "music": 0.0
+  },
+  {
+   "from": 589.36,
+   "to": 590.2,
+   "sid": 358,
+   "location": 2,
+   "content": "我热爱写作",
+   "music": 0.0
+  },
+  {
+   "from": 590.2,
+   "to": 591.98,
+   "sid": 359,
+   "location": 2,
+   "content": "我特别希望帮到有类似问题的",
+   "music": 0.0
+  },
+  {
+   "from": 591.98,
+   "to": 593.78,
+   "sid": 360,
+   "location": 2,
+   "content": "而且我会挑战高效产出",
+   "music": 0.0
+  },
+  {
+   "from": 593.78,
+   "to": 595.66,
+   "sid": 361,
+   "location": 2,
+   "content": "努力在今后兼顾事业与生活",
+   "music": 0.0
+  },
+  {
+   "from": 595.66,
+   "to": 598.66,
+   "sid": 362,
+   "location": 2,
+   "content": "把所有被动的我要避免A变成我主动",
+   "music": 0.0
+  },
+  {
+   "from": 598.66,
+   "to": 601.63,
+   "sid": 363,
+   "location": 2,
+   "content": "愿意努力做到B整个人的状态就会焕然身心",
+   "music": 0.0
+  },
+  {
+   "from": 601.63,
+   "to": 603.58,
+   "sid": 364,
+   "location": 2,
+   "content": "再比如我受够了这个地方了",
+   "music": 0.0
+  },
+  {
+   "from": 603.58,
+   "to": 605.44,
+   "sid": 365,
+   "location": 2,
+   "content": "老年我再也不想上班了不",
+   "music": 0.0
+  },
+  {
+   "from": 605.44,
+   "to": 606.52,
+   "sid": 366,
+   "location": 2,
+   "content": "我要骑驴找马",
+   "music": 0.0
+  },
+  {
+   "from": 606.52,
+   "to": 608.1,
+   "sid": 367,
+   "location": 2,
+   "content": "找到更适合我的工作",
+   "music": 0.0
+  },
+  {
+   "from": 608.1,
+   "to": 609.54,
+   "sid": 368,
+   "location": 2,
+   "content": "这时你可能会发现",
+   "music": 0.0
+  },
+  {
+   "from": 609.54,
+   "to": 612.0,
+   "sid": 369,
+   "location": 2,
+   "content": "自己内心突然升起了一小撮动力的火苗",
+   "music": 0.0
+  },
+  {
+   "from": 612.0,
+   "to": 613.74,
+   "sid": 370,
+   "location": 2,
+   "content": "我试过确实非常神奇",
+   "music": 0.0
+  },
+  {
+   "from": 613.74,
+   "to": 614.64,
+   "sid": 371,
+   "location": 2,
+   "content": "科学解释是",
+   "music": 0.0
+  },
+  {
+   "from": 614.64,
+   "to": 615.54,
+   "sid": 372,
+   "location": 2,
+   "content": "只要你来主导",
+   "music": 0.0
+  },
+  {
+   "from": 615.54,
+   "to": 616.94,
+   "sid": 373,
+   "location": 2,
+   "content": "让大脑配合你预言",
+   "music": 0.0
+  },
+  {
+   "from": 616.94,
+   "to": 620.18,
+   "sid": 374,
+   "location": 2,
+   "content": "连重构的意愿就会重启大脑中的行为激活系统",
+   "music": 0.0
+  },
+  {
+   "from": 620.18,
+   "to": 621.14,
+   "sid": 375,
+   "location": 2,
+   "content": "让你动力满满",
+   "music": 0.0
+  },
+  {
+   "from": 621.14,
+   "to": 623.12,
+   "sid": 376,
+   "location": 2,
+   "content": "那如果你的负面信念根深蒂固",
+   "music": 0.0
+  },
+  {
+   "from": 623.12,
+   "to": 624.96,
+   "sid": 377,
+   "location": 2,
+   "content": "就尝试去找一个心理咨询师",
+   "music": 0.0
+  },
+  {
+   "from": 624.96,
+   "to": 627.24,
+   "sid": 378,
+   "location": 2,
+   "content": "深入的调整自己的认知和想法吧",
+   "music": 0.0
+  },
+  {
+   "from": 627.24,
+   "to": 630.8,
+   "sid": 379,
+   "location": 2,
+   "content": "最后啊是终极计划方法时离开倦怠环境",
+   "music": 0.0
+  },
+  {
+   "from": 630.8,
+   "to": 632.3,
+   "sid": 380,
+   "location": 2,
+   "content": "人变倦怠是因为情境",
+   "music": 0.0
+  },
+  {
+   "from": 632.3,
+   "to": 634.82,
+   "sid": 381,
+   "location": 2,
+   "content": "还是因为你自己离开这个情境就知道了",
+   "music": 0.0
+  },
+  {
+   "from": 634.82,
+   "to": 636.26,
+   "sid": 382,
+   "location": 2,
+   "content": "比如啊对于T君来说",
+   "music": 0.0
+  },
+  {
+   "from": 636.26,
+   "to": 638.12,
+   "sid": 383,
+   "location": 2,
+   "content": "工作的价值感是非常重要的",
+   "music": 0.0
+  },
+  {
+   "from": 638.12,
+   "to": 640.78,
+   "sid": 384,
+   "location": 2,
+   "content": "可之前在大厂策划不断的被推翻",
+   "music": 0.0
+  },
+  {
+   "from": 640.78,
+   "to": 641.86,
+   "sid": 385,
+   "location": 2,
+   "content": "努力的无意义",
+   "music": 0.0
+  },
+  {
+   "from": 641.86,
+   "to": 643.3,
+   "sid": 386,
+   "location": 2,
+   "content": "让他差点就要崩溃了",
+   "music": 0.0
+  },
+  {
+   "from": 643.3,
+   "to": 645.58,
+   "sid": 387,
+   "location": 2,
+   "content": "这是走还是不走就是一个问题",
+   "music": 0.0
+  },
+  {
+   "from": 645.58,
+   "to": 647.14,
+   "sid": 388,
+   "location": 2,
+   "content": "T酱建议决策要离开之前",
+   "music": 0.0
+  },
+  {
+   "from": 647.14,
+   "to": 647.86,
+   "sid": 389,
+   "location": 2,
+   "content": "先问自己",
+   "music": 0.0
+  },
+  {
+   "from": 647.86,
+   "to": 650.2,
+   "sid": 390,
+   "location": 2,
+   "content": "你是否已经尽全力正面刚了一波",
+   "music": 0.0
+  },
+  {
+   "from": 650.2,
+   "to": 651.98,
+   "sid": 391,
+   "location": 2,
+   "content": "关键是你要无愧于心",
+   "music": 0.0
+  },
+  {
+   "from": 651.98,
+   "to": 654.2,
+   "sid": 392,
+   "location": 2,
+   "content": "验证过自己确实无法改变现状",
+   "music": 0.0
+  },
+  {
+   "from": 654.2,
+   "to": 655.94,
+   "sid": 393,
+   "location": 2,
+   "content": "这时候目标就变得很清晰了",
+   "music": 0.0
+  },
+  {
+   "from": 655.94,
+   "to": 657.53,
+   "sid": 394,
+   "location": 2,
+   "content": "给自己找好下家出路",
+   "music": 0.0
+  },
+  {
+   "from": 657.53,
+   "to": 658.49,
+   "sid": 395,
+   "location": 2,
+   "content": "然后辞职",
+   "music": 0.0
+  },
+  {
+   "from": 658.49,
+   "to": 660.68,
+   "sid": 396,
+   "location": 2,
+   "content": "比如T酱和T君现在是全职up主了",
+   "music": 0.0
+  },
+  {
+   "from": 660.68,
+   "to": 663.48,
+   "sid": 397,
+   "location": 2,
+   "content": "但是当且仅当有了足够生活的积蓄",
+   "music": 0.0
+  },
+  {
+   "from": 663.48,
+   "to": 666.54,
+   "sid": 398,
+   "location": 2,
+   "content": "且视频平均播放量达到了可以接广告的水平",
+   "music": 0.0
+  },
+  {
+   "from": 666.54,
+   "to": 668.46,
+   "sid": 399,
+   "location": 2,
+   "content": "我们俩才敢双双辞职",
+   "music": 0.0
+  },
+  {
+   "from": 668.46,
+   "to": 670.44,
+   "sid": 400,
+   "location": 2,
+   "content": "那如果找下家的过程很难熬",
+   "music": 0.0
+  },
+  {
+   "from": 670.44,
+   "to": 671.0,
+   "sid": 401,
+   "location": 2,
+   "content": "怎么办",
+   "music": 0.0
+  },
+  {
+   "from": 671.0,
+   "to": 672.56,
+   "sid": 402,
+   "location": 2,
+   "content": "3B去用你的病假",
+   "music": 0.0
+  },
+  {
+   "from": 672.56,
+   "to": 673.4,
+   "sid": 403,
+   "location": 2,
+   "content": "用你的年假",
+   "music": 0.0
+  },
+  {
+   "from": 673.4,
+   "to": 674.36,
+   "sid": 404,
+   "location": 2,
+   "content": "假期都用完了",
+   "music": 0.0
+  },
+  {
+   "from": 674.36,
+   "to": 676.34,
+   "sid": 405,
+   "location": 2,
+   "content": "就编一个朋友张三结婚的理由",
+   "music": 0.0
+  },
+  {
+   "from": 676.34,
+   "to": 677.68,
+   "sid": 406,
+   "location": 2,
+   "content": "去做你喜欢做的事",
+   "music": 0.0
+  },
+  {
+   "from": 677.68,
+   "to": 678.64,
+   "sid": 407,
+   "location": 2,
+   "content": "去躺平式度假",
+   "music": 0.0
+  },
+  {
+   "from": 678.64,
+   "to": 679.84,
+   "sid": 408,
+   "location": 2,
+   "content": "去特种兵式旅行",
+   "music": 0.0
+  },
+  {
+   "from": 679.84,
+   "to": 680.44,
+   "sid": 409,
+   "location": 2,
+   "content": "去听音乐",
+   "music": 0.0
+  },
+  {
+   "from": 680.44,
+   "to": 680.96,
+   "sid": 410,
+   "location": 2,
+   "content": "去看书",
+   "music": 0.0
+  },
+  {
+   "from": 680.96,
+   "to": 681.44,
+   "sid": 411,
+   "location": 2,
+   "content": "去观影",
+   "music": 0.0
+  },
+  {
+   "from": 681.44,
+   "to": 682.34,
+   "sid": 412,
+   "location": 2,
+   "content": "去接触大自然",
+   "music": 0.0
+  },
+  {
+   "from": 682.34,
+   "to": 685.04,
+   "sid": 413,
+   "location": 2,
+   "content": "任何能让你的心情小于赚钱的事情都好",
+   "music": 0.0
+  },
+  {
+   "from": 685.04,
+   "to": 686.6,
+   "sid": 414,
+   "location": 2,
+   "content": "你已经人在曹营",
+   "music": 0.0
+  },
+  {
+   "from": 686.6,
+   "to": 687.32,
+   "sid": 415,
+   "location": 2,
+   "content": "心在汉了",
+   "music": 0.0
+  },
+  {
+   "from": 687.32,
+   "to": 688.55,
+   "sid": 416,
+   "location": 2,
+   "content": "还怕什么请假",
+   "music": 0.0
+  },
+  {
+   "from": 688.55,
+   "to": 691.339,
+   "sid": 417,
+   "location": 2,
+   "content": "T酱这么多方法我不想做了怎么办",
+   "music": 0.0
+  },
+  {
+   "from": 691.339,
+   "to": 692.959,
+   "sid": 418,
+   "location": 2,
+   "content": "开始总是很困难的",
+   "music": 0.0
+  },
+  {
+   "from": 692.959,
+   "to": 694.549,
+   "sid": 419,
+   "location": 2,
+   "content": "但过了手忙脚乱的阶段",
+   "music": 0.0
+  },
+  {
+   "from": 694.549,
+   "to": 695.299,
+   "sid": 420,
+   "location": 2,
+   "content": "见效之后",
+   "music": 0.0
+  },
+  {
+   "from": 695.299,
+   "to": 697.279,
+   "sid": 421,
+   "location": 2,
+   "content": "你就会感到其乐无穷了",
+   "music": 0.0
+  },
+  {
+   "from": 697.279,
+   "to": 699.74,
+   "sid": 422,
+   "location": 2,
+   "content": "先试着从你最喜欢的两到三个方法开始",
+   "music": 0.0
+  },
+  {
+   "from": 699.74,
+   "to": 700.94,
+   "sid": 423,
+   "location": 2,
+   "content": "如果三种症状都有",
+   "music": 0.0
+  },
+  {
+   "from": 700.94,
+   "to": 701.54,
+   "sid": 424,
+   "location": 2,
+   "content": "怎么选呢",
+   "music": 0.0
+  },
+  {
+   "from": 701.54,
+   "to": 703.26,
+   "sid": 425,
+   "location": 2,
+   "content": "那T酱私人强烈建议你",
+   "music": 0.0
+  },
+  {
+   "from": 703.26,
+   "to": 706.08,
+   "sid": 426,
+   "location": 2,
+   "content": "一定要把睡觉和运动作为尝试的首发阵容",
+   "music": 0.0
+  },
+  {
+   "from": 706.08,
+   "to": 708.76,
+   "sid": 427,
+   "location": 2,
+   "content": "他们是恢复大脑活力的基础中的基础",
+   "music": 0.0
+  },
+  {
+   "from": 708.76,
+   "to": 711.94,
+   "sid": 428,
+   "location": 2,
+   "content": "接下来的关键是绝对不要强迫自己去坚持",
+   "music": 0.0
+  },
+  {
+   "from": 711.94,
+   "to": 713.68,
+   "sid": 429,
+   "location": 2,
+   "content": "因为你总是会遇到要生病",
+   "music": 0.0
+  },
+  {
+   "from": 713.68,
+   "to": 714.7,
+   "sid": 430,
+   "location": 2,
+   "content": "外出崩溃",
+   "music": 0.0
+  },
+  {
+   "from": 714.7,
+   "to": 716.8,
+   "sid": 431,
+   "location": 2,
+   "content": "游戏打过头了等等不确定性",
+   "music": 0.0
+  },
+  {
+   "from": 716.8,
+   "to": 718.3,
+   "sid": 432,
+   "location": 2,
+   "content": "如果哪一天过得不太好",
+   "music": 0.0
+  },
+  {
+   "from": 718.3,
+   "to": 720.46,
+   "sid": 433,
+   "location": 2,
+   "content": "更好的做法是让自己弹性的面对",
+   "music": 0.0
+  },
+  {
+   "from": 720.46,
+   "to": 721.36,
+   "sid": 434,
+   "location": 2,
+   "content": "真是的生活",
+   "music": 0.0
+  },
+  {
+   "from": 721.36,
+   "to": 722.5,
+   "sid": 435,
+   "location": 2,
+   "content": "说一句我好累",
+   "music": 0.0
+  },
+  {
+   "from": 722.5,
+   "to": 723.34,
+   "sid": 436,
+   "location": 2,
+   "content": "但是我能活过",
+   "music": 0.0
+  },
+  {
+   "from": 723.34,
+   "to": 724.72,
+   "sid": 437,
+   "location": 2,
+   "content": "今天真的辛苦了",
+   "music": 0.0
+  },
+  {
+   "from": 724.72,
+   "to": 726.22,
+   "sid": 438,
+   "location": 2,
+   "content": "点燃一份自我认可",
+   "music": 0.0
+  },
+  {
+   "from": 726.22,
+   "to": 728.36,
+   "sid": 439,
+   "location": 2,
+   "content": "而不是批判自己好差劲",
+   "music": 0.0
+  },
+  {
+   "from": 728.36,
+   "to": 730.1,
+   "sid": 440,
+   "location": 2,
+   "content": "然后第二天在愉悦的开始",
+   "music": 0.0
+  },
+  {
+   "from": 730.1,
+   "to": 732.08,
+   "sid": 441,
+   "location": 2,
+   "content": "就会大大增强你的成功概率",
+   "music": 0.0
+  },
+  {
+   "from": 732.08,
+   "to": 733.76,
+   "sid": 442,
+   "location": 2,
+   "content": "三个习惯融入生活了",
+   "music": 0.0
+  },
+  {
+   "from": 733.76,
+   "to": 736.6,
+   "sid": 443,
+   "location": 2,
+   "content": "好可以在网上新增一到两个新习惯",
+   "music": 0.0
+  },
+  {
+   "from": 736.6,
+   "to": 739.0,
+   "sid": 444,
+   "location": 2,
+   "content": "就这样一点点形成强大的雪球效应",
+   "music": 0.0
+  },
+  {
+   "from": 739.0,
+   "to": 740.52,
+   "sid": 445,
+   "location": 2,
+   "content": "T酱在倦怠的不要不要的收获",
+   "music": 0.0
+  },
+  {
+   "from": 740.52,
+   "to": 743.04,
+   "sid": 446,
+   "location": 2,
+   "content": "我甚至会综合使用其中的7~8个方法",
+   "music": 0.0
+  },
+  {
+   "from": 743.04,
+   "to": 746.04,
+   "sid": 447,
+   "location": 2,
+   "content": "这样才能活出人类基因原本设计的样子",
+   "music": 0.0
+  },
+  {
+   "from": 746.04,
+   "to": 748.93,
+   "sid": 448,
+   "location": 2,
+   "content": "T酱基金社会计和倦怠有啥关系",
+   "music": 0.0
+  },
+  {
+   "from": 748.93,
+   "to": 750.91,
+   "sid": 449,
+   "location": 2,
+   "content": "我们的世界在近200年",
+   "music": 0.0
+  },
+  {
+   "from": 750.91,
+   "to": 752.53,
+   "sid": 450,
+   "location": 2,
+   "content": "工业革命以来发生了巨变",
+   "music": 0.0
+  },
+  {
+   "from": 752.53,
+   "to": 754.75,
+   "sid": 451,
+   "location": 2,
+   "content": "但是人类基因组却基本维持不变",
+   "music": 0.0
+  },
+  {
+   "from": 754.75,
+   "to": 757.08,
+   "sid": 452,
+   "location": 2,
+   "content": "在这种基因大脑需要大量运动",
+   "music": 0.0
+  },
+  {
+   "from": 757.08,
+   "to": 757.68,
+   "sid": 453,
+   "location": 2,
+   "content": "社交",
+   "music": 0.0
+  },
+  {
+   "from": 757.68,
+   "to": 760.56,
+   "sid": 454,
+   "location": 2,
+   "content": "需要长时间的睡眠才能维持正常的运转",
+   "music": 0.0
+  },
+  {
+   "from": 760.56,
+   "to": 763.0,
+   "sid": 455,
+   "location": 2,
+   "content": "这就是原始人有而我们没有的东西",
+   "music": 0.0
+  },
+  {
+   "from": 763.0,
+   "to": 763.96,
+   "sid": 456,
+   "location": 2,
+   "content": "所以我想说",
+   "music": 0.0
+  },
+  {
+   "from": 763.96,
+   "to": 765.7,
+   "sid": 457,
+   "location": 2,
+   "content": "当今人类大脑变得倦怠",
+   "music": 0.0
+  },
+  {
+   "from": 765.7,
+   "to": 766.6,
+   "sid": 458,
+   "location": 2,
+   "content": "抑郁和麻木",
+   "music": 0.0
+  },
+  {
+   "from": 766.6,
+   "to": 768.52,
+   "sid": 459,
+   "location": 2,
+   "content": "不是因为我们的心灵太脆弱了",
+   "music": 0.0
+  },
+  {
+   "from": 768.52,
+   "to": 770.84,
+   "sid": 460,
+   "location": 2,
+   "content": "而是我们的基因还是石器时代的基因",
+   "music": 0.0
+  },
+  {
+   "from": 770.84,
+   "to": 772.94,
+   "sid": 461,
+   "location": 2,
+   "content": "他很难适应现在这种久坐不动",
+   "music": 0.0
+  },
+  {
+   "from": 772.94,
+   "to": 773.84,
+   "sid": 462,
+   "location": 2,
+   "content": "社交孤独",
+   "music": 0.0
+  },
+  {
+   "from": 773.84,
+   "to": 774.8,
+   "sid": 463,
+   "location": 2,
+   "content": "睡眠紧缺",
+   "music": 0.0
+  },
+  {
+   "from": 774.8,
+   "to": 776.12,
+   "sid": 464,
+   "location": 2,
+   "content": "压力爆棚的生活",
+   "music": 0.0
+  },
+  {
+   "from": 776.12,
+   "to": 778.94,
+   "sid": 465,
+   "location": 2,
+   "content": "我其实不能告诉你怎么去改变这样的生活环境",
+   "music": 0.0
+  },
+  {
+   "from": 778.94,
+   "to": 780.44,
+   "sid": 466,
+   "location": 2,
+   "content": "很多时候也改变不了",
+   "music": 0.0
+  },
+  {
+   "from": 780.44,
+   "to": 784.0,
+   "sid": 467,
+   "location": 2,
+   "content": "但我们永远有选择改变自我状态的权利",
+   "music": 0.0
+  },
+  {
+   "from": 784.0,
+   "to": 786.04,
+   "sid": 468,
+   "location": 2,
+   "content": "推荐一个科学走出倦怠的方式",
+   "music": 0.0
+  },
+  {
+   "from": 786.04,
+   "to": 787.96,
+   "sid": 469,
+   "location": 2,
+   "content": "他就是情绪BP练习计划",
+   "music": 0.0
+  },
+  {
+   "from": 787.96,
+   "to": 789.1,
+   "sid": 470,
+   "location": 2,
+   "content": "也是T酱的老朋友了",
+   "music": 0.0
+  },
+  {
+   "from": 789.1,
+   "to": 790.0,
+   "sid": 471,
+   "location": 2,
+   "content": "我之前推荐过",
+   "music": 0.0
+  },
+  {
+   "from": 790.0,
+   "to": 791.26,
+   "sid": 472,
+   "location": 2,
+   "content": "这里再隆重推荐一次",
+   "music": 0.0
+  },
+  {
+   "from": 791.26,
+   "to": 791.98,
+   "sid": 473,
+   "location": 2,
+   "content": "一句话总结",
+   "music": 0.0
+  },
+  {
+   "from": 791.98,
+   "to": 794.2,
+   "sid": 474,
+   "location": 2,
+   "content": "这是一个由科班心理学硕博团队研发",
+   "music": 0.0
+  },
+  {
+   "from": 794.2,
+   "to": 797.08,
+   "sid": 475,
+   "location": 2,
+   "content": "结合了正念冥想加情绪书写练习加认知重建",
+   "music": 0.0
+  },
+  {
+   "from": 797.08,
+   "to": 797.8,
+   "sid": 476,
+   "location": 2,
+   "content": "加动力激活",
+   "music": 0.0
+  },
+  {
+   "from": 797.8,
+   "to": 799.3,
+   "sid": 477,
+   "location": 2,
+   "content": "配合资深心理学研究员",
+   "music": 0.0
+  },
+  {
+   "from": 799.3,
+   "to": 800.2,
+   "sid": 478,
+   "location": 2,
+   "content": "专业真人知识",
+   "music": 0.0
+  },
+  {
+   "from": 800.2,
+   "to": 801.66,
+   "sid": 479,
+   "location": 2,
+   "content": "融会五大心理学流派",
+   "music": 0.0
+  },
+  {
+   "from": 801.66,
+   "to": 804.02,
+   "sid": 480,
+   "location": 2,
+   "content": "干预手段的25天线上心理训练计划",
+   "music": 0.0
+  },
+  {
+   "from": 804.02,
+   "to": 806.6,
+   "sid": 481,
+   "location": 2,
+   "content": "我个人训练完的体验是从一个愤世嫉俗",
+   "music": 0.0
+  },
+  {
+   "from": 806.6,
+   "to": 809.88,
+   "sid": 482,
+   "location": 2,
+   "content": "死气沉沉的状态转变为充沛的工作生活状态",
+   "music": 0.0
+  },
+  {
+   "from": 809.88,
+   "to": 810.9,
+   "sid": 483,
+   "location": 2,
+   "content": "睡眠也变得更好了",
+   "music": 0.0
+  },
+  {
+   "from": 810.9,
+   "to": 812.16,
+   "sid": 484,
+   "location": 2,
+   "content": "但一个人的说服力有限",
+   "music": 0.0
+  },
+  {
+   "from": 812.16,
+   "to": 815.199,
+   "sid": 485,
+   "location": 2,
+   "content": "好在有超过7万人参与了这个心理训练计划",
+   "music": 0.0
+  },
+  {
+   "from": 815.199,
+   "to": 816.339,
+   "sid": 486,
+   "location": 2,
+   "content": "T酱也拿到了大数据",
+   "music": 0.0
+  },
+  {
+   "from": 816.339,
+   "to": 818.019,
+   "sid": 487,
+   "location": 2,
+   "content": "情绪中度和重度困扰以上的人",
+   "music": 0.0
+  },
+  {
+   "from": 818.019,
+   "to": 819.46,
+   "sid": 488,
+   "location": 2,
+   "content": "在做完25天的训练后",
+   "music": 0.0
+  },
+  {
+   "from": 819.46,
+   "to": 821.68,
+   "sid": 489,
+   "location": 2,
+   "content": "焦虑抑郁水平下降了41.9%",
+   "music": 0.0
+  },
+  {
+   "from": 821.68,
+   "to": 822.46,
+   "sid": 490,
+   "location": 2,
+   "content": "非常厉害",
+   "music": 0.0
+  },
+  {
+   "from": 822.46,
+   "to": 824.44,
+   "sid": 491,
+   "location": 2,
+   "content": "接下来是参与练习的人在自主感",
+   "music": 0.0
+  },
+  {
+   "from": 824.44,
+   "to": 824.8,
+   "sid": 492,
+   "location": 2,
+   "content": "胜任感",
+   "music": 0.0
+  },
+  {
+   "from": 824.8,
+   "to": 827.29,
+   "sid": 493,
+   "location": 2,
+   "content": "意义感和生命力这四个指标上的提升",
+   "music": 0.0
+  },
+  {
+   "from": 827.29,
+   "to": 828.52,
+   "sid": 494,
+   "location": 2,
+   "content": "还有在注意力涣散",
+   "music": 0.0
+  },
+  {
+   "from": 828.52,
+   "to": 829.24,
+   "sid": 495,
+   "location": 2,
+   "content": "回避社交",
+   "music": 0.0
+  },
+  {
+   "from": 829.24,
+   "to": 829.96,
+   "sid": 496,
+   "location": 2,
+   "content": "思考速度",
+   "music": 0.0
+  },
+  {
+   "from": 829.96,
+   "to": 832.26,
+   "sid": 497,
+   "location": 2,
+   "content": "优柔寡断等认知决策能力上的改善",
+   "music": 0.0
+  },
+  {
+   "from": 832.26,
+   "to": 834.72,
+   "sid": 498,
+   "location": 2,
+   "content": "甚至在人际关系和老大男的睡眠问题上",
+   "music": 0.0
+  },
+  {
+   "from": 834.72,
+   "to": 835.74,
+   "sid": 499,
+   "location": 2,
+   "content": "都有很大的提升",
+   "music": 0.0
+  },
+  {
+   "from": 835.74,
+   "to": 836.52,
+   "sid": 500,
+   "location": 2,
+   "content": "也就是说",
+   "music": 0.0
+  },
+  {
+   "from": 836.52,
+   "to": 839.58,
+   "sid": 501,
+   "location": 2,
+   "content": "BP训练计划能有效改善倦怠的三大迹象",
+   "music": 0.0
+  },
+  {
+   "from": 839.58,
+   "to": 840.3,
+   "sid": 502,
+   "location": 2,
+   "content": "精疲力竭",
+   "music": 0.0
+  },
+  {
+   "from": 840.3,
+   "to": 841.76,
+   "sid": 503,
+   "location": 2,
+   "content": "愤世嫉俗和丧失功效",
+   "music": 0.0
+  },
+  {
+   "from": 841.76,
+   "to": 844.43,
+   "sid": 504,
+   "location": 2,
+   "content": "其实啊心理训练和减肥运动特别像",
+   "music": 0.0
+  },
+  {
+   "from": 844.43,
+   "to": 845.42,
+   "sid": 505,
+   "location": 2,
+   "content": "想见过太多人",
+   "music": 0.0
+  },
+  {
+   "from": 845.42,
+   "to": 847.58,
+   "sid": 506,
+   "location": 2,
+   "content": "尝试零散的做一些正念和书写练习",
+   "music": 0.0
+  },
+  {
+   "from": 847.58,
+   "to": 849.32,
+   "sid": 507,
+   "location": 2,
+   "content": "但是三天打鱼两天晒网",
+   "music": 0.0
+  },
+  {
+   "from": 849.32,
+   "to": 849.98,
+   "sid": 508,
+   "location": 2,
+   "content": "没等起效",
+   "music": 0.0
+  },
+  {
+   "from": 849.98,
+   "to": 851.66,
+   "sid": 509,
+   "location": 2,
+   "content": "就因为枯燥而坚持不下去了",
+   "music": 0.0
+  },
+  {
+   "from": 851.66,
+   "to": 853.24,
+   "sid": 510,
+   "location": 2,
+   "content": "还有许多人只是浅浅感受了",
+   "music": 0.0
+  },
+  {
+   "from": 853.24,
+   "to": 855.16,
+   "sid": 511,
+   "location": 2,
+   "content": "但没有形成新的认知方式",
+   "music": 0.0
+  },
+  {
+   "from": 855.16,
+   "to": 856.36,
+   "sid": 512,
+   "location": 2,
+   "content": "于是焦虑内耗",
+   "music": 0.0
+  },
+  {
+   "from": 856.36,
+   "to": 857.14,
+   "sid": 513,
+   "location": 2,
+   "content": "倦怠或抑郁",
+   "music": 0.0
+  },
+  {
+   "from": 857.14,
+   "to": 858.22,
+   "sid": 514,
+   "location": 2,
+   "content": "情绪不断的反弹",
+   "music": 0.0
+  },
+  {
+   "from": 858.22,
+   "to": 859.81,
+   "sid": 515,
+   "location": 2,
+   "content": "其实他们忽略了三大问题",
+   "music": 0.0
+  },
+  {
+   "from": 859.81,
+   "to": 861.2,
+   "sid": 516,
+   "location": 2,
+   "content": "其一你都已经倦怠了",
+   "music": 0.0
+  },
+  {
+   "from": 861.2,
+   "to": 862.76,
+   "sid": 517,
+   "location": 2,
+   "content": "大脑的结构已经被改变了",
+   "music": 0.0
+  },
+  {
+   "from": 862.76,
+   "to": 863.6,
+   "sid": 518,
+   "location": 2,
+   "content": "这时候东一下",
+   "music": 0.0
+  },
+  {
+   "from": 863.6,
+   "to": 866.3,
+   "sid": 519,
+   "location": 2,
+   "content": "西一下的练习是无法真正的重塑大脑神经的",
+   "music": 0.0
+  },
+  {
+   "from": 866.3,
+   "to": 867.86,
+   "sid": 520,
+   "location": 2,
+   "content": "这得靠日复一日的积累",
+   "music": 0.0
+  },
+  {
+   "from": 867.86,
+   "to": 869.72,
+   "sid": 521,
+   "location": 2,
+   "content": "其二你都已经压力爆棚了",
+   "music": 0.0
+  },
+  {
+   "from": 869.72,
+   "to": 872.0,
+   "sid": 522,
+   "location": 2,
+   "content": "很难去设计和坚持系统科学的练习",
+   "music": 0.0
+  },
+  {
+   "from": 872.0,
+   "to": 874.52,
+   "sid": 523,
+   "location": 2,
+   "content": "而有一个计划帮你把打卡社群支持呀",
+   "music": 0.0
+  },
+  {
+   "from": 874.52,
+   "to": 875.42,
+   "sid": 524,
+   "location": 2,
+   "content": "循序渐进呀",
+   "music": 0.0
+  },
+  {
+   "from": 875.42,
+   "to": 876.02,
+   "sid": 525,
+   "location": 2,
+   "content": "反向激励",
+   "music": 0.0
+  },
+  {
+   "from": 876.02,
+   "to": 877.7,
+   "sid": 526,
+   "location": 2,
+   "content": "这些复杂的准备工作都做了",
+   "music": 0.0
+  },
+  {
+   "from": 877.7,
+   "to": 879.9,
+   "sid": 527,
+   "location": 2,
+   "content": "你只要每天留出20到30分钟",
+   "music": 0.0
+  },
+  {
+   "from": 879.9,
+   "to": 882.03,
+   "sid": 528,
+   "location": 2,
+   "content": "随时随地就可以进入系统训练",
+   "music": 0.0
+  },
+  {
+   "from": 882.03,
+   "to": 883.38,
+   "sid": 529,
+   "location": 2,
+   "content": "成功率会大大提升",
+   "music": 0.0
+  },
+  {
+   "from": 883.38,
+   "to": 886.3,
+   "sid": 530,
+   "location": 2,
+   "content": "他们的数据是平均每个参与者练习了46天",
+   "music": 0.0
+  },
+  {
+   "from": 886.3,
+   "to": 888.4,
+   "sid": 531,
+   "location": 2,
+   "content": "其三网络心理资源鱼龙混杂",
+   "music": 0.0
+  },
+  {
+   "from": 888.4,
+   "to": 889.6,
+   "sid": 532,
+   "location": 2,
+   "content": "筛选成本太高了",
+   "music": 0.0
+  },
+  {
+   "from": 889.6,
+   "to": 891.7,
+   "sid": 533,
+   "location": 2,
+   "content": "情绪BP的研发团队科研背景很强",
+   "music": 0.0
+  },
+  {
+   "from": 891.7,
+   "to": 893.62,
+   "sid": 534,
+   "location": 2,
+   "content": "他们设计的产品不但科学顺畅",
+   "music": 0.0
+  },
+  {
+   "from": 893.62,
+   "to": 895.0,
+   "sid": 535,
+   "location": 2,
+   "content": "还有问卷和数据系统",
+   "music": 0.0
+  },
+  {
+   "from": 895.0,
+   "to": 896.74,
+   "sid": 536,
+   "location": 2,
+   "content": "长期追踪你的心理成长轨迹",
+   "music": 0.0
+  },
+  {
+   "from": 896.74,
+   "to": 898.76,
+   "sid": 537,
+   "location": 2,
+   "content": "这期间你有任何疑问都可以提出来",
+   "music": 0.0
+  },
+  {
+   "from": 898.76,
+   "to": 901.58,
+   "sid": 538,
+   "location": 2,
+   "content": "会有临床心理学硕博助教为你深度答疑",
+   "music": 0.0
+  },
+  {
+   "from": 901.58,
+   "to": 904.58,
+   "sid": 539,
+   "location": 2,
+   "content": "这也是我要为你推荐情绪BP计划的三大理由",
+   "music": 0.0
+  },
+  {
+   "from": 904.58,
+   "to": 906.99,
+   "sid": 540,
+   "location": 2,
+   "content": "不过说实话一开始也觉得有点小贵",
+   "music": 0.0
+  },
+  {
+   "from": 906.99,
+   "to": 908.16,
+   "sid": 541,
+   "location": 2,
+   "content": "直到主创们告诉我",
+   "music": 0.0
+  },
+  {
+   "from": 908.16,
+   "to": 909.84,
+   "sid": 542,
+   "location": 2,
+   "content": "这是一个无数次的训练计划",
+   "music": 0.0
+  },
+  {
+   "from": 909.84,
+   "to": 911.28,
+   "sid": 543,
+   "location": 2,
+   "content": "而且对轻度困扰的人",
+   "music": 0.0
+  },
+  {
+   "from": 911.28,
+   "to": 914.2,
+   "sid": 544,
+   "location": 2,
+   "content": "如果不需要专业真人知识答疑服务还会更便宜",
+   "music": 0.0
+  },
+  {
+   "from": 914.2,
+   "to": 917.2,
+   "sid": 545,
+   "location": 2,
+   "content": "我体验之后还是觉得尽可能选真人知识的版本",
+   "music": 0.0
+  },
+  {
+   "from": 917.2,
+   "to": 918.4,
+   "sid": 546,
+   "location": 2,
+   "content": "有问必答很超值",
+   "music": 0.0
+  },
+  {
+   "from": 918.4,
+   "to": 919.48,
+   "sid": 547,
+   "location": 2,
+   "content": "一次购买参加后",
+   "music": 0.0
+  },
+  {
+   "from": 919.48,
+   "to": 921.52,
+   "sid": 548,
+   "location": 2,
+   "content": "所有的练习计划都将永远属于你",
+   "music": 0.0
+  },
+  {
+   "from": 921.52,
+   "to": 922.319,
+   "sid": 549,
+   "location": 2,
+   "content": "什么意思呢",
+   "music": 0.0
+  },
+  {
+   "from": 922.319,
+   "to": 923.639,
+   "sid": 550,
+   "location": 2,
+   "content": "这个计划会不断迭代",
+   "music": 0.0
+  },
+  {
+   "from": 923.639,
+   "to": 925.019,
+   "sid": 551,
+   "location": 2,
+   "content": "新版本不用再次购买",
+   "music": 0.0
+  },
+  {
+   "from": 925.019,
+   "to": 926.319,
+   "sid": 552,
+   "location": 2,
+   "content": "你可以一直练下去",
+   "music": 0.0
+  },
+  {
+   "from": 926.319,
+   "to": 927.819,
+   "sid": 553,
+   "location": 2,
+   "content": "参加他无限次复训",
+   "music": 0.0
+  },
+  {
+   "from": 927.819,
+   "to": 929.199,
+   "sid": 554,
+   "location": 2,
+   "content": "我自己就复训过四次了",
+   "music": 0.0
+  },
+  {
+   "from": 929.199,
+   "to": 931.88,
+   "sid": 555,
+   "location": 2,
+   "content": "就相当于是拥有了一个口袋版的心理健身房",
+   "music": 0.0
+  },
+  {
+   "from": 931.88,
+   "to": 934.16,
+   "sid": 556,
+   "location": 2,
+   "content": "如果明年或者3年甚至5年内",
+   "music": 0.0
+  },
+  {
+   "from": 934.16,
+   "to": 935.42,
+   "sid": 557,
+   "location": 2,
+   "content": "当你遇到情绪困扰",
+   "music": 0.0
+  },
+  {
+   "from": 935.42,
+   "to": 936.08,
+   "sid": 558,
+   "location": 2,
+   "content": "睡眠困扰",
+   "music": 0.0
+  },
+  {
+   "from": 936.08,
+   "to": 936.8,
+   "sid": 559,
+   "location": 2,
+   "content": "经历困扰",
+   "music": 0.0
+  },
+  {
+   "from": 936.8,
+   "to": 938.62,
+   "sid": 560,
+   "location": 2,
+   "content": "动力困扰或是人际困扰时",
+   "music": 0.0
+  },
+  {
+   "from": 938.62,
+   "to": 940.06,
+   "sid": 561,
+   "location": 2,
+   "content": "都可以把它拿出来复训",
+   "music": 0.0
+  },
+  {
+   "from": 940.06,
+   "to": 942.64,
+   "sid": 562,
+   "location": 2,
+   "content": "甚至还可以把手机借给身边的人一起进行训练",
+   "music": 0.0
+  },
+  {
+   "from": 942.64,
+   "to": 943.12,
+   "sid": 563,
+   "location": 2,
+   "content": "想一想",
+   "music": 0.0
+  },
+  {
+   "from": 943.12,
+   "to": 944.08,
+   "sid": 564,
+   "location": 2,
+   "content": "何乐而不为呢",
+   "music": 0.0
+  },
+  {
+   "from": 944.08,
+   "to": 946.24,
+   "sid": 565,
+   "location": 2,
+   "content": "微信公众号搜索关注暂停实验室",
+   "music": 0.0
+  },
+  {
+   "from": 946.24,
+   "to": 948.52,
+   "sid": 566,
+   "location": 2,
+   "content": "回复T酱就能找到更详细的介绍",
+   "music": 0.0
+  },
+  {
+   "from": 948.52,
+   "to": 949.68,
+   "sid": 567,
+   "location": 2,
+   "content": "这一次不仅优惠50元",
+   "music": 0.0
+  },
+  {
+   "from": 949.68,
+   "to": 950.52,
+   "sid": 568,
+   "location": 2,
+   "content": "全部完成",
+   "music": 0.0
+  },
+  {
+   "from": 950.52,
+   "to": 951.66,
+   "sid": 569,
+   "location": 2,
+   "content": "再获得100元奖励",
+   "music": 0.0
+  },
+  {
+   "from": 951.66,
+   "to": 952.5,
+   "sid": 570,
+   "location": 2,
+   "content": "每月仅一期",
+   "music": 0.0
+  },
+  {
+   "from": 952.5,
+   "to": 953.88,
+   "sid": 571,
+   "location": 2,
+   "content": "报名时间放在评论区了",
+   "music": 0.0
+  },
+  {
+   "from": 953.88,
+   "to": 954.54,
+   "sid": 572,
+   "location": 2,
+   "content": "不管怎样",
+   "music": 0.0
+  },
+  {
+   "from": 954.54,
+   "to": 957.6,
+   "sid": 573,
+   "location": 2,
+   "content": "至少可以关注和免费测试一下自己当前的状态",
+   "music": 0.0
+  },
+  {
+   "from": 957.6,
+   "to": 958.46,
+   "sid": 574,
+   "location": 2,
+   "content": "到了什么程度",
+   "music": 0.0
+  },
+  {
+   "from": 958.46,
+   "to": 960.02,
+   "sid": 575,
+   "location": 2,
+   "content": "行动是改变发生的前提",
+   "music": 0.0
+  },
+  {
+   "from": 960.02,
+   "to": 961.64,
+   "sid": 576,
+   "location": 2,
+   "content": "不管最后你采用了什么办法",
+   "music": 0.0
+  },
+  {
+   "from": 961.64,
+   "to": 964.36,
+   "sid": 577,
+   "location": 2,
+   "content": "自己都希望你能够去拿回属于自己的东西",
+   "music": 0.0
+  },
+  {
+   "from": 964.36,
+   "to": 965.38,
+   "sid": 578,
+   "location": 2,
+   "content": "起内心的火焰",
+   "music": 0.0
+  },
+  {
+   "from": 965.38,
+   "to": 967.72,
+   "sid": 579,
+   "location": 2,
+   "content": "学会在蛋疼的世界里重启倦怠的自己",
+   "music": 0.0
+  },
+  {
+   "from": 967.72,
+   "to": 968.92,
+   "sid": 580,
+   "location": 2,
+   "content": "世界和我爱着你",
+   "music": 0.0
+  },
+  {
+   "from": 968.92,
+   "to": 969.68,
+   "sid": 581,
+   "location": 2,
+   "content": "留言区见哦",
+   "music": 0.0
+  }
+ ]
+}
