@@ -1,0 +1,2843 @@
+{
+  "bvid": "BV16exyeUEEy",
+  "title": "【登神瓦课】#4 为什么你拉出去就被秒？该如何正确的peek？",
+  "author": "好家伙不演了",
+  "aid": 113221562337048,
+  "cid": 26064981582,
+  "duration": 767,
+  "lan": "ai-zh",
+  "body": [
+    {
+      "from": 0.4,
+      "to": 1.14,
+      "sid": 1,
+      "location": 2,
+      "content": "大家好啊",
+      "music": 0.0
+    },
+    {
+      "from": 1.14,
+      "to": 1.78,
+      "sid": 2,
+      "location": 2,
+      "content": "我是up",
+      "music": 0.0
+    },
+    {
+      "from": 1.78,
+      "to": 3.5,
+      "sid": 3,
+      "location": 2,
+      "content": "好久不演了啊",
+      "music": 0.0
+    },
+    {
+      "from": 3.5,
+      "to": 7.28,
+      "sid": 4,
+      "location": 2,
+      "content": "今天来给大家做一期这个peek的教学吧",
+      "music": 0.0
+    },
+    {
+      "from": 7.28,
+      "to": 12.93,
+      "sid": 5,
+      "location": 2,
+      "content": "这个peek之前是想就是跟那个呃",
+      "music": 0.0
+    },
+    {
+      "from": 12.93,
+      "to": 14.73,
+      "sid": 6,
+      "location": 2,
+      "content": "育苗教学一块出的",
+      "music": 0.0
+    },
+    {
+      "from": 14.73,
+      "to": 19.3,
+      "sid": 7,
+      "location": 2,
+      "content": "但发现就是peek其实讲的话也有很多要讲的呃",
+      "music": 0.0
+    },
+    {
+      "from": 19.3,
+      "to": 22.12,
+      "sid": 8,
+      "location": 2,
+      "content": "就单独做了做了一期视频啊",
+      "music": 0.0
+    },
+    {
+      "from": 22.12,
+      "to": 24.11,
+      "sid": 9,
+      "location": 2,
+      "content": "然后这个peek呢",
+      "music": 0.0
+    },
+    {
+      "from": 24.11,
+      "to": 28.47,
+      "sid": 10,
+      "location": 2,
+      "content": "他就是很多新手转过来可能会好奇啊",
+      "music": 0.0
+    },
+    {
+      "from": 28.47,
+      "to": 31.6,
+      "sid": 11,
+      "location": 2,
+      "content": "这个就是近大远小是个什么意思呢",
+      "music": 0.0
+    },
+    {
+      "from": 31.6,
+      "to": 34.06,
+      "sid": 12,
+      "location": 2,
+      "content": "就说很多人说什么近大远小啊",
+      "music": 0.0
+    },
+    {
+      "from": 34.06,
+      "to": 35.02,
+      "sid": 13,
+      "location": 2,
+      "content": "或者优势枪位",
+      "music": 0.0
+    },
+    {
+      "from": 35.02,
+      "to": 37.1,
+      "sid": 14,
+      "location": 2,
+      "content": "劣势枪位是什么意思呢",
+      "music": 0.0
+    },
+    {
+      "from": 37.43,
+      "to": 40.41,
+      "sid": 15,
+      "location": 2,
+      "content": "就比方说我们现在嗯",
+      "music": 0.0
+    },
+    {
+      "from": 40.41,
+      "to": 43.43,
+      "sid": 16,
+      "location": 2,
+      "content": "上面那个人和下面那个人啊",
+      "music": 0.0
+    },
+    {
+      "from": 43.43,
+      "to": 44.77,
+      "sid": 17,
+      "location": 2,
+      "content": "现在正在对枪啊",
+      "music": 0.0
+    },
+    {
+      "from": 44.77,
+      "to": 46.91,
+      "sid": 18,
+      "location": 2,
+      "content": "他们之间唯一的掩体",
+      "music": 0.0
+    },
+    {
+      "from": 46.91,
+      "to": 50.51,
+      "sid": 19,
+      "location": 2,
+      "content": "就是这个上面这个人面前的这个墙角对吧",
+      "music": 0.0
+    },
+    {
+      "from": 50.51,
+      "to": 55.42,
+      "sid": 20,
+      "location": 2,
+      "content": "这个墙角离上面那个人特别近啊",
+      "music": 0.0
+    },
+    {
+      "from": 55.42,
+      "to": 56.48,
+      "sid": 21,
+      "location": 2,
+      "content": "就造成什么呢",
+      "music": 0.0
+    },
+    {
+      "from": 56.48,
+      "to": 57.26,
+      "sid": 22,
+      "location": 2,
+      "content": "造成什么呢",
+      "music": 0.0
+    },
+    {
+      "from": 57.26,
+      "to": 59.16,
+      "sid": 23,
+      "location": 2,
+      "content": "造成那个这个墙角",
+      "music": 0.0
+    },
+    {
+      "from": 59.16,
+      "to": 62.08,
+      "sid": 24,
+      "location": 2,
+      "content": "只挡住了那个上面那个人的一半儿的身子啊",
+      "music": 0.0
+    },
+    {
+      "from": 62.08,
+      "to": 63.88,
+      "sid": 25,
+      "location": 2,
+      "content": "他的头还在墙里边儿",
+      "music": 0.0
+    },
+    {
+      "from": 63.88,
+      "to": 64.8,
+      "sid": 26,
+      "location": 2,
+      "content": "所以他看不到",
+      "music": 0.0
+    },
+    {
+      "from": 64.8,
+      "to": 66.89,
+      "sid": 27,
+      "location": 2,
+      "content": "就是他对面的那个人",
+      "music": 0.0
+    },
+    {
+      "from": 66.89,
+      "to": 67.99,
+      "sid": 28,
+      "location": 2,
+      "content": "但是对面那个人呢",
+      "music": 0.0
+    },
+    {
+      "from": 67.99,
+      "to": 70.17,
+      "sid": 29,
+      "location": 2,
+      "content": "已经能看到他的胳膊和腿了啊",
+      "music": 0.0
+    },
+    {
+      "from": 70.17,
+      "to": 72.4,
+      "sid": 30,
+      "location": 2,
+      "content": "这个就是近大远小啊",
+      "music": 0.0
+    },
+    {
+      "from": 72.4,
+      "to": 74.62,
+      "sid": 31,
+      "location": 2,
+      "content": "就是上面那个人离掩体很近啊",
+      "music": 0.0
+    },
+    {
+      "from": 74.62,
+      "to": 77.76,
+      "sid": 32,
+      "location": 2,
+      "content": "然后他就身体会露出一部分来",
+      "music": 0.0
+    },
+    {
+      "from": 77.76,
+      "to": 79.85,
+      "sid": 33,
+      "location": 2,
+      "content": "先让下面的人看到啊",
+      "music": 0.0
+    },
+    {
+      "from": 79.85,
+      "to": 82.53,
+      "sid": 34,
+      "location": 2,
+      "content": "就是离原体越近啊",
+      "music": 0.0
+    },
+    {
+      "from": 82.53,
+      "to": 85.29,
+      "sid": 35,
+      "location": 2,
+      "content": "我们就枪位就越劣势啊",
+      "music": 0.0
+    },
+    {
+      "from": 85.29,
+      "to": 86.53,
+      "sid": 36,
+      "location": 2,
+      "content": "如果你离掩体越远",
+      "music": 0.0
+    },
+    {
+      "from": 86.53,
+      "to": 88.35,
+      "sid": 37,
+      "location": 2,
+      "content": "你就像下面那个人一样啊",
+      "music": 0.0
+    },
+    {
+      "from": 88.35,
+      "to": 89.81,
+      "sid": 38,
+      "location": 2,
+      "content": "他你就你就可以架枪啊",
+      "music": 0.0
+    },
+    {
+      "from": 89.81,
+      "to": 92.58,
+      "sid": 39,
+      "location": 2,
+      "content": "因为对面如果想要呃打你的话",
+      "music": 0.0
+    },
+    {
+      "from": 92.58,
+      "to": 94.64,
+      "sid": 40,
+      "location": 2,
+      "content": "他需要他会先露半个身子出来",
+      "music": 0.0
+    },
+    {
+      "from": 94.64,
+      "to": 96.18,
+      "sid": 41,
+      "location": 2,
+      "content": "我们就有更长的反应时间",
+      "music": 0.0
+    },
+    {
+      "from": 96.18,
+      "to": 98.78,
+      "sid": 42,
+      "location": 2,
+      "content": "来来来打他啊",
+      "music": 0.0
+    },
+    {
+      "from": 98.78,
+      "to": 100.94,
+      "sid": 43,
+      "location": 2,
+      "content": "这个就是我们平常说的优劣势",
+      "music": 0.0
+    },
+    {
+      "from": 100.94,
+      "to": 104.3,
+      "sid": 44,
+      "location": 2,
+      "content": "枪位和那个近近大远小",
+      "music": 0.0
+    },
+    {
+      "from": 105.43,
+      "to": 111.62,
+      "sid": 45,
+      "location": 2,
+      "content": "好然后我们来讲一下第二点就是pk的基础啊",
+      "music": 0.0
+    },
+    {
+      "from": 111.62,
+      "to": 114.56,
+      "sid": 46,
+      "location": 2,
+      "content": "就是几个pk需要注意的点啊",
+      "music": 0.0
+    },
+    {
+      "from": 114.56,
+      "to": 115.38,
+      "sid": 47,
+      "location": 2,
+      "content": "很基础的点",
+      "music": 0.0
+    },
+    {
+      "from": 115.38,
+      "to": 119.16,
+      "sid": 48,
+      "location": 2,
+      "content": "就是第一点就是我们不要静步peek啊",
+      "music": 0.0
+    },
+    {
+      "from": 119.16,
+      "to": 120.1,
+      "sid": 49,
+      "location": 2,
+      "content": "不要静步pk",
+      "music": 0.0
+    },
+    {
+      "from": 120.1,
+      "to": 121.62,
+      "sid": 50,
+      "location": 2,
+      "content": "静步PEK出去啊",
+      "music": 0.0
+    },
+    {
+      "from": 121.62,
+      "to": 122.5,
+      "sid": 51,
+      "location": 2,
+      "content": "虽然没有声音",
+      "music": 0.0
+    },
+    {
+      "from": 122.5,
+      "to": 123.26,
+      "sid": 52,
+      "location": 2,
+      "content": "没有脚步声",
+      "music": 0.0
+    },
+    {
+      "from": 123.26,
+      "to": 125.359,
+      "sid": 53,
+      "location": 2,
+      "content": "但是他是很慢很慢的啊",
+      "music": 0.0
+    },
+    {
+      "from": 125.359,
+      "to": 126.559,
+      "sid": 54,
+      "location": 2,
+      "content": "你出去太慢了",
+      "music": 0.0
+    },
+    {
+      "from": 126.559,
+      "to": 129.499,
+      "sid": 55,
+      "location": 2,
+      "content": "别人视角里就像乌龟爬一样啊",
+      "music": 0.0
+    },
+    {
+      "from": 129.499,
+      "to": 131.999,
+      "sid": 56,
+      "location": 2,
+      "content": "你就慢慢一点一点的蹭出来啊",
+      "music": 0.0
+    },
+    {
+      "from": 131.999,
+      "to": 134.549,
+      "sid": 57,
+      "location": 2,
+      "content": "你肯定肯定把你给架住了啊",
+      "music": 0.0
+    },
+    {
+      "from": 134.549,
+      "to": 135.789,
+      "sid": 58,
+      "location": 2,
+      "content": "第二点就是开镜",
+      "music": 0.0
+    },
+    {
+      "from": 135.789,
+      "to": 136.989,
+      "sid": 59,
+      "location": 2,
+      "content": "不要开镜pk啊",
+      "music": 0.0
+    },
+    {
+      "from": 136.989,
+      "to": 139.56,
+      "sid": 60,
+      "location": 2,
+      "content": "开镜跟那个静步是一样的",
+      "music": 0.0
+    },
+    {
+      "from": 139.56,
+      "to": 141.66,
+      "sid": 61,
+      "location": 2,
+      "content": "他都是会减移动速度的啊",
+      "music": 0.0
+    },
+    {
+      "from": 141.66,
+      "to": 143.52,
+      "sid": 62,
+      "location": 2,
+      "content": "所以说也不要开镜peek",
+      "music": 0.0
+    },
+    {
+      "from": 143.52,
+      "to": 145.56,
+      "sid": 63,
+      "location": 2,
+      "content": "然后第三个就是小步peg",
+      "music": 0.0
+    },
+    {
+      "from": 145.56,
+      "to": 148.95,
+      "sid": 64,
+      "location": 2,
+      "content": "小步peg就是呃我们走的第一步",
+      "music": 0.0
+    },
+    {
+      "from": 148.95,
+      "to": 150.23,
+      "sid": 65,
+      "location": 2,
+      "content": "他是不会漏声音的",
+      "music": 0.0
+    },
+    {
+      "from": 150.23,
+      "to": 151.21,
+      "sid": 66,
+      "location": 2,
+      "content": "不会漏脚步的",
+      "music": 0.0
+    },
+    {
+      "from": 151.21,
+      "to": 152.99,
+      "sid": 67,
+      "location": 2,
+      "content": "就是你自己听不到自己的脚步",
+      "music": 0.0
+    },
+    {
+      "from": 152.99,
+      "to": 154.35,
+      "sid": 68,
+      "location": 2,
+      "content": "他就不会漏啊",
+      "music": 0.0
+    },
+    {
+      "from": 154.35,
+      "to": 156.95,
+      "sid": 69,
+      "location": 2,
+      "content": "听到了吗对吧",
+      "music": 0.0
+    },
+    {
+      "from": 156.95,
+      "to": 158.91,
+      "sid": 70,
+      "location": 2,
+      "content": "这一这一步他是不会漏声音的",
+      "music": 0.0
+    },
+    {
+      "from": 158.91,
+      "to": 160.45,
+      "sid": 71,
+      "location": 2,
+      "content": "差不多就这么个距离",
+      "music": 0.0
+    },
+    {
+      "from": 160.45,
+      "to": 162.269,
+      "sid": 72,
+      "location": 2,
+      "content": "它不会漏声音啊",
+      "music": 0.0
+    },
+    {
+      "from": 162.269,
+      "to": 164.589,
+      "sid": 73,
+      "location": 2,
+      "content": "我们就用这个这个距离来pk啊",
+      "music": 0.0
+    },
+    {
+      "from": 164.589,
+      "to": 167.96,
+      "sid": 74,
+      "location": 2,
+      "content": "就可以做到不漏声音的pk啊",
+      "music": 0.0
+    },
+    {
+      "from": 167.96,
+      "to": 172.14,
+      "sid": 75,
+      "location": 2,
+      "content": "当然不是所有的这种pk都需要补漏声音啊",
+      "music": 0.0
+    },
+    {
+      "from": 172.14,
+      "to": 175.04,
+      "sid": 76,
+      "location": 2,
+      "content": "然后我们就来讲一下第三点啊",
+      "music": 0.0
+    },
+    {
+      "from": 175.04,
+      "to": 177.64,
+      "sid": 77,
+      "location": 2,
+      "content": "就是不同情况我们该怎么pk啊",
+      "music": 0.0
+    },
+    {
+      "from": 177.64,
+      "to": 180.62,
+      "sid": 78,
+      "location": 2,
+      "content": "一共有这个peek可以分分成两个大类啊",
+      "music": 0.0
+    },
+    {
+      "from": 180.62,
+      "to": 183.94,
+      "sid": 79,
+      "location": 2,
+      "content": "就是第一种就是拿信息的peek啊",
+      "music": 0.0
+    },
+    {
+      "from": 183.94,
+      "to": 187.16,
+      "sid": 80,
+      "location": 2,
+      "content": "比如说晃身peek和跳pick啊",
+      "music": 0.0
+    },
+    {
+      "from": 187.16,
+      "to": 189.64,
+      "sid": 81,
+      "location": 2,
+      "content": "然后第二种就是做击杀的皮克啊",
+      "music": 0.0
+    },
+    {
+      "from": 189.64,
+      "to": 192.25,
+      "sid": 82,
+      "location": 2,
+      "content": "就是啊这两种peek好",
+      "music": 0.0
+    },
+    {
+      "from": 192.25,
+      "to": 193.19,
+      "sid": 83,
+      "location": 2,
+      "content": "先讲第一种啊",
+      "music": 0.0
+    },
+    {
+      "from": 193.19,
+      "to": 194.23,
+      "sid": 84,
+      "location": 2,
+      "content": "就是晃身peek",
+      "music": 0.0
+    },
+    {
+      "from": 194.23,
+      "to": 195.68,
+      "sid": 85,
+      "location": 2,
+      "content": "我们就拿信息的",
+      "music": 0.0
+    },
+    {
+      "from": 195.68,
+      "to": 198.92,
+      "sid": 86,
+      "location": 2,
+      "content": "就是比如说啊对面啊",
+      "music": 0.0
+    },
+    {
+      "from": 198.92,
+      "to": 199.94,
+      "sid": 87,
+      "location": 2,
+      "content": "我们把包下了",
+      "music": 0.0
+    },
+    {
+      "from": 199.94,
+      "to": 202.22,
+      "sid": 88,
+      "location": 2,
+      "content": "然后对面就是包在这儿嘛",
+      "music": 0.0
+    },
+    {
+      "from": 202.22,
+      "to": 204.64,
+      "sid": 89,
+      "location": 2,
+      "content": "然后我们对面正在拆包啊",
+      "music": 0.0
+    },
+    {
+      "from": 204.64,
+      "to": 205.78,
+      "sid": 90,
+      "location": 2,
+      "content": "听到对面地包了",
+      "music": 0.0
+    },
+    {
+      "from": 205.78,
+      "to": 207.14,
+      "sid": 91,
+      "location": 2,
+      "content": "我们这时候该怎么办呢",
+      "music": 0.0
+    },
+    {
+      "from": 207.14,
+      "to": 208.52,
+      "sid": 92,
+      "location": 2,
+      "content": "我们这时候肯定不能拉出去",
+      "music": 0.0
+    },
+    {
+      "from": 208.52,
+      "to": 209.6,
+      "sid": 93,
+      "location": 2,
+      "content": "直接跟他打啊",
+      "music": 0.0
+    },
+    {
+      "from": 209.6,
+      "to": 211.0,
+      "sid": 94,
+      "location": 2,
+      "content": "万一他是假拆呢对吧",
+      "music": 0.0
+    },
+    {
+      "from": 211.0,
+      "to": 212.77,
+      "sid": 95,
+      "location": 2,
+      "content": "我们就需要拿信息啊",
+      "music": 0.0
+    },
+    {
+      "from": 212.77,
+      "to": 215.57,
+      "sid": 96,
+      "location": 2,
+      "content": "拿信息的peek基本上一般是有两种啊",
+      "music": 0.0
+    },
+    {
+      "from": 215.57,
+      "to": 219.34,
+      "sid": 97,
+      "location": 2,
+      "content": "就是一种就是你拿着刀贴到这个墙近点啊",
+      "music": 0.0
+    },
+    {
+      "from": 219.34,
+      "to": 220.18,
+      "sid": 98,
+      "location": 2,
+      "content": "我们之前说过了",
+      "music": 0.0
+    },
+    {
+      "from": 220.18,
+      "to": 221.16,
+      "sid": 99,
+      "location": 2,
+      "content": "近快远慢嘛",
+      "music": 0.0
+    },
+    {
+      "from": 221.16,
+      "to": 224.87,
+      "sid": 100,
+      "location": 2,
+      "content": "就是说我们在近点蹭一步出去再回来",
+      "music": 0.0
+    },
+    {
+      "from": 224.87,
+      "to": 226.05,
+      "sid": 101,
+      "location": 2,
+      "content": "速度是很快的啊",
+      "music": 0.0
+    },
+    {
+      "from": 226.05,
+      "to": 227.73,
+      "sid": 102,
+      "location": 2,
+      "content": "对面一般是反应不过来的",
+      "music": 0.0
+    },
+    {
+      "from": 227.73,
+      "to": 229.7,
+      "sid": 103,
+      "location": 2,
+      "content": "我们就可以这样蹭一下啊",
+      "music": 0.0
+    },
+    {
+      "from": 229.7,
+      "to": 230.4,
+      "sid": 104,
+      "location": 2,
+      "content": "看一眼啊",
+      "music": 0.0
+    },
+    {
+      "from": 230.4,
+      "to": 231.8,
+      "sid": 105,
+      "location": 2,
+      "content": "对面到底有没有在拆",
+      "music": 0.0
+    },
+    {
+      "from": 231.8,
+      "to": 233.5,
+      "sid": 106,
+      "location": 2,
+      "content": "看一眼接着回来啊",
+      "music": 0.0
+    },
+    {
+      "from": 233.5,
+      "to": 235.42,
+      "sid": 107,
+      "location": 2,
+      "content": "拿刀速度会更快一些",
+      "music": 0.0
+    },
+    {
+      "from": 235.42,
+      "to": 236.82,
+      "sid": 108,
+      "location": 2,
+      "content": "看一眼啊",
+      "music": 0.0
+    },
+    {
+      "from": 236.82,
+      "to": 240.01,
+      "sid": 109,
+      "location": 2,
+      "content": "然后第二种就是跳pk跳pick",
+      "music": 0.0
+    },
+    {
+      "from": 240.01,
+      "to": 241.51,
+      "sid": 110,
+      "location": 2,
+      "content": "我们在按住W的同时",
+      "music": 0.0
+    },
+    {
+      "from": 241.51,
+      "to": 244.97,
+      "sid": 111,
+      "location": 2,
+      "content": "就是往前就是这是那堵墙",
+      "music": 0.0
+    },
+    {
+      "from": 244.97,
+      "to": 247.12,
+      "sid": 112,
+      "location": 2,
+      "content": "我们呈45度角啊",
+      "music": 0.0
+    },
+    {
+      "from": 247.12,
+      "to": 249.3,
+      "sid": 113,
+      "location": 2,
+      "content": "朝朝前方朝前面跳",
+      "music": 0.0
+    },
+    {
+      "from": 249.3,
+      "to": 249.94,
+      "sid": 114,
+      "location": 2,
+      "content": "跳起来",
+      "music": 0.0
+    },
+    {
+      "from": 249.94,
+      "to": 254.34,
+      "sid": 115,
+      "location": 2,
+      "content": "在空中松开W按D和S就回来了",
+      "music": 0.0
+    },
+    {
+      "from": 255.53,
+      "to": 260.17,
+      "sid": 116,
+      "location": 2,
+      "content": "啊跳起来在空中松开W按D和S就回来了",
+      "music": 0.0
+    },
+    {
+      "from": 260.17,
+      "to": 263.25,
+      "sid": 117,
+      "location": 2,
+      "content": "啊看就回来了",
+      "music": 0.0
+    },
+    {
+      "from": 264.28,
+      "to": 266.6,
+      "sid": 118,
+      "location": 2,
+      "content": "然后还有不同的方向啊",
+      "music": 0.0
+    },
+    {
+      "from": 266.6,
+      "to": 270.22,
+      "sid": 119,
+      "location": 2,
+      "content": "这边就是跳起来松开W按A和S啊",
+      "music": 0.0
+    },
+    {
+      "from": 270.22,
+      "to": 274.68,
+      "sid": 120,
+      "location": 2,
+      "content": "就是看你的方向懂吧啊",
+      "music": 0.0
+    },
+    {
+      "from": 274.68,
+      "to": 275.86,
+      "sid": 121,
+      "location": 2,
+      "content": "这就是跳pk",
+      "music": 0.0
+    },
+    {
+      "from": 275.86,
+      "to": 277.16,
+      "sid": 122,
+      "location": 2,
+      "content": "不过跳pick",
+      "music": 0.0
+    },
+    {
+      "from": 277.16,
+      "to": 281.62,
+      "sid": 123,
+      "location": 2,
+      "content": "其实有时候啊新手刚刚学可能会掌握不好",
+      "music": 0.0
+    },
+    {
+      "from": 281.62,
+      "to": 284.41,
+      "sid": 124,
+      "location": 2,
+      "content": "就是他那个跳的跳的跳的多大",
+      "music": 0.0
+    },
+    {
+      "from": 284.41,
+      "to": 289.28,
+      "sid": 125,
+      "location": 2,
+      "content": "就是他跳你要只只露出一点出去看嘛对吧",
+      "music": 0.0
+    },
+    {
+      "from": 289.28,
+      "to": 291.18,
+      "sid": 126,
+      "location": 2,
+      "content": "那可能你可能控制不住啊",
+      "music": 0.0
+    },
+    {
+      "from": 291.18,
+      "to": 292.77,
+      "sid": 127,
+      "location": 2,
+      "content": "一跳哎跳到外面去了",
+      "music": 0.0
+    },
+    {
+      "from": 292.77,
+      "to": 294.81,
+      "sid": 128,
+      "location": 2,
+      "content": "尬住了就坏了对吧",
+      "music": 0.0
+    },
+    {
+      "from": 294.81,
+      "to": 296.17,
+      "sid": 129,
+      "location": 2,
+      "content": "所以说这个要多练练啊",
+      "music": 0.0
+    },
+    {
+      "from": 296.17,
+      "to": 298.03,
+      "sid": 130,
+      "location": 2,
+      "content": "多练练多练练再用啊",
+      "music": 0.0
+    },
+    {
+      "from": 298.03,
+      "to": 301.69,
+      "sid": 131,
+      "location": 2,
+      "content": "嘶啊就其其实高分段都有时候会控制",
+      "music": 0.0
+    },
+    {
+      "from": 301.69,
+      "to": 304.09,
+      "sid": 132,
+      "location": 2,
+      "content": "就是自己的这个调皮控制出问题啊",
+      "music": 0.0
+    },
+    {
+      "from": 304.09,
+      "to": 305.71,
+      "sid": 133,
+      "location": 2,
+      "content": "有时候有时候跳大了",
+      "music": 0.0
+    },
+    {
+      "from": 305.71,
+      "to": 307.26,
+      "sid": 134,
+      "location": 2,
+      "content": "然后就回不来了",
+      "music": 0.0
+    },
+    {
+      "from": 307.26,
+      "to": 308.12,
+      "sid": 135,
+      "location": 2,
+      "content": "是这样的",
+      "music": 0.0
+    },
+    {
+      "from": 308.12,
+      "to": 311.17,
+      "sid": 136,
+      "location": 2,
+      "content": "所以说其实很多时候晃身peek还是很好用的",
+      "music": 0.0
+    },
+    {
+      "from": 311.17,
+      "to": 312.21,
+      "sid": 137,
+      "location": 2,
+      "content": "晃身也要注意",
+      "music": 0.0
+    },
+    {
+      "from": 312.21,
+      "to": 313.11,
+      "sid": 138,
+      "location": 2,
+      "content": "你不要漏太大",
+      "music": 0.0
+    },
+    {
+      "from": 313.11,
+      "to": 313.85,
+      "sid": 139,
+      "location": 2,
+      "content": "你不要",
+      "music": 0.0
+    },
+    {
+      "from": 313.85,
+      "to": 317.09,
+      "sid": 140,
+      "location": 2,
+      "content": "而且你不要在晃身之前就把胳膊胳膊露出去啊",
+      "music": 0.0
+    },
+    {
+      "from": 317.09,
+      "to": 319.49,
+      "sid": 141,
+      "location": 2,
+      "content": "啊黄身PIK跳pk",
+      "music": 0.0
+    },
+    {
+      "from": 319.49,
+      "to": 321.6,
+      "sid": 142,
+      "location": 2,
+      "content": "这就是两种拿信息的pk",
+      "music": 0.0
+    },
+    {
+      "from": 321.6,
+      "to": 324.84,
+      "sid": 143,
+      "location": 2,
+      "content": "玩无畏区低价区域推荐大家使用迅游加速器",
+      "music": 0.0
+    },
+    {
+      "from": 324.84,
+      "to": 326.48,
+      "sid": 144,
+      "location": 2,
+      "content": "支持所有低价区加速支持",
+      "music": 0.0
+    },
+    {
+      "from": 326.48,
+      "to": 330.19,
+      "sid": 145,
+      "location": 2,
+      "content": "方便玩家游玩迅游口令兑换处输入不演了",
+      "music": 0.0
+    },
+    {
+      "from": 330.19,
+      "to": 331.21,
+      "sid": 146,
+      "location": 2,
+      "content": "领取三天卡",
+      "music": 0.0
+    },
+    {
+      "from": 331.21,
+      "to": 334.33,
+      "sid": 147,
+      "location": 2,
+      "content": "方便我们游玩瓦罗兰特迅游老品牌加速稳定",
+      "music": 0.0
+    },
+    {
+      "from": 334.33,
+      "to": 336.45,
+      "sid": 148,
+      "location": 2,
+      "content": "玩五一区地下去就用迅游加速",
+      "music": 0.0
+    },
+    {
+      "from": 336.45,
+      "to": 339.69,
+      "sid": 149,
+      "location": 2,
+      "content": "然后就是做击杀的皮克啊",
+      "music": 0.0
+    },
+    {
+      "from": 339.69,
+      "to": 341.39,
+      "sid": 150,
+      "location": 2,
+      "content": "我们做击杀呃",
+      "music": 0.0
+    },
+    {
+      "from": 341.39,
+      "to": 342.47,
+      "sid": 151,
+      "location": 2,
+      "content": "分为就是三种",
+      "music": 0.0
+    },
+    {
+      "from": 342.47,
+      "to": 345.09,
+      "sid": 152,
+      "location": 2,
+      "content": "我们刚才说的那三种就是劣势枪位",
+      "music": 0.0
+    },
+    {
+      "from": 345.09,
+      "to": 347.58,
+      "sid": 153,
+      "location": 2,
+      "content": "军事枪位还有优势枪位啊",
+      "music": 0.0
+    },
+    {
+      "from": 347.58,
+      "to": 350.0,
+      "sid": 154,
+      "location": 2,
+      "content": "这三种枪位我们分别该怎么pk的",
+      "music": 0.0
+    },
+    {
+      "from": 350.0,
+      "to": 353.63,
+      "sid": 155,
+      "location": 2,
+      "content": "先说一个就是最难受的劣势枪位pk吧",
+      "music": 0.0
+    },
+    {
+      "from": 353.63,
+      "to": 355.07,
+      "sid": 156,
+      "location": 2,
+      "content": "就比如说我们在这个地方",
+      "music": 0.0
+    },
+    {
+      "from": 355.07,
+      "to": 356.71,
+      "sid": 157,
+      "location": 2,
+      "content": "这里这个地方有人架我们啊",
+      "music": 0.0
+    },
+    {
+      "from": 356.71,
+      "to": 358.68,
+      "sid": 158,
+      "location": 2,
+      "content": "我们该怎么peek他呢",
+      "music": 0.0
+    },
+    {
+      "from": 359.12,
+      "to": 363.04,
+      "sid": 159,
+      "location": 2,
+      "content": "首先就是我们拿刀可以可以先拿刀看信息",
+      "music": 0.0
+    },
+    {
+      "from": 363.04,
+      "to": 364.049,
+      "sid": 160,
+      "location": 2,
+      "content": "就是蹭他",
+      "music": 0.0
+    },
+    {
+      "from": 364.049,
+      "to": 366.209,
+      "sid": 161,
+      "location": 2,
+      "content": "因为他们会先看到我们的胳膊肘嘛",
+      "music": 0.0
+    },
+    {
+      "from": 366.209,
+      "to": 368.549,
+      "sid": 162,
+      "location": 2,
+      "content": "所以说我们把胳膊肘故意露给他啊",
+      "music": 0.0
+    },
+    {
+      "from": 368.549,
+      "to": 370.51,
+      "sid": 163,
+      "location": 2,
+      "content": "他他就会开枪啊",
+      "music": 0.0
+    },
+    {
+      "from": 370.51,
+      "to": 373.79,
+      "sid": 164,
+      "location": 2,
+      "content": "他可能第一次第一次第二次啊",
+      "music": 0.0
+    },
+    {
+      "from": 373.79,
+      "to": 374.87,
+      "sid": 165,
+      "location": 2,
+      "content": "他会看看",
+      "music": 0.0
+    },
+    {
+      "from": 374.87,
+      "to": 376.01,
+      "sid": 166,
+      "location": 2,
+      "content": "你看你出来跑啊",
+      "music": 0.0
+    },
+    {
+      "from": 376.01,
+      "to": 377.79,
+      "sid": 167,
+      "location": 2,
+      "content": "哦他们你没出来啊",
+      "music": 0.0
+    },
+    {
+      "from": 377.79,
+      "to": 378.77,
+      "sid": 168,
+      "location": 2,
+      "content": "又又打两枪啊",
+      "music": 0.0
+    },
+    {
+      "from": 378.77,
+      "to": 379.53,
+      "sid": 169,
+      "location": 2,
+      "content": "你又没出来",
+      "music": 0.0
+    },
+    {
+      "from": 379.53,
+      "to": 381.29,
+      "sid": 170,
+      "location": 2,
+      "content": "然后他就开始架这个墙边了啊",
+      "music": 0.0
+    },
+    {
+      "from": 381.29,
+      "to": 382.13,
+      "sid": 171,
+      "location": 2,
+      "content": "你下次再漏啊",
+      "music": 0.0
+    },
+    {
+      "from": 382.13,
+      "to": 385.42,
+      "sid": 172,
+      "location": 2,
+      "content": "我就打你这个这个这个这个这个这个地方了啊",
+      "music": 0.0
+    },
+    {
+      "from": 385.42,
+      "to": 387.9,
+      "sid": 173,
+      "location": 2,
+      "content": "然后然后你就你就蹭他两下",
+      "music": 0.0
+    },
+    {
+      "from": 387.9,
+      "to": 390.269,
+      "sid": 174,
+      "location": 2,
+      "content": "然后就一个大拉出去啊",
+      "music": 0.0
+    },
+    {
+      "from": 390.269,
+      "to": 391.309,
+      "sid": 175,
+      "location": 2,
+      "content": "注意一定要大拉啊",
+      "music": 0.0
+    },
+    {
+      "from": 391.309,
+      "to": 393.029,
+      "sid": 176,
+      "location": 2,
+      "content": "一定要大拉就蹭他两下",
+      "music": 0.0
+    },
+    {
+      "from": 393.029,
+      "to": 393.669,
+      "sid": 177,
+      "location": 2,
+      "content": "晃他两下",
+      "music": 0.0
+    },
+    {
+      "from": 393.669,
+      "to": 396.35,
+      "sid": 178,
+      "location": 2,
+      "content": "然后一个大拉出去一定要大拉啊",
+      "music": 0.0
+    },
+    {
+      "from": 396.35,
+      "to": 397.61,
+      "sid": 179,
+      "location": 2,
+      "content": "对面是架不住你的",
+      "music": 0.0
+    },
+    {
+      "from": 397.61,
+      "to": 400.72,
+      "sid": 180,
+      "location": 2,
+      "content": "因为对面这个时候准星他已经没有提前亮了",
+      "music": 0.0
+    },
+    {
+      "from": 400.72,
+      "to": 403.84,
+      "sid": 181,
+      "location": 2,
+      "content": "就是一般人架枪他都会咱们都会离墙远一点吧",
+      "music": 0.0
+    },
+    {
+      "from": 403.84,
+      "to": 405.58,
+      "sid": 182,
+      "location": 2,
+      "content": "稍微不不要紧贴着墙",
+      "music": 0.0
+    },
+    {
+      "from": 405.58,
+      "to": 406.64,
+      "sid": 183,
+      "location": 2,
+      "content": "离墙远一点",
+      "music": 0.0
+    },
+    {
+      "from": 406.64,
+      "to": 408.55,
+      "sid": 184,
+      "location": 2,
+      "content": "给自己一个缓冲的时间啊",
+      "music": 0.0
+    },
+    {
+      "from": 408.55,
+      "to": 410.53,
+      "sid": 185,
+      "location": 2,
+      "content": "然后他可能看你一直在蹭",
+      "music": 0.0
+    },
+    {
+      "from": 410.53,
+      "to": 411.69,
+      "sid": 186,
+      "location": 2,
+      "content": "他就直接贴着墙了",
+      "music": 0.0
+    },
+    {
+      "from": 411.69,
+      "to": 412.41,
+      "sid": 187,
+      "location": 2,
+      "content": "准星贴着墙了",
+      "music": 0.0
+    },
+    {
+      "from": 412.41,
+      "to": 414.53,
+      "sid": 188,
+      "location": 2,
+      "content": "然后你再一个大拉出出来啊",
+      "music": 0.0
+    },
+    {
+      "from": 414.53,
+      "to": 417.35,
+      "sid": 189,
+      "location": 2,
+      "content": "他他他一般是架不住的好吧",
+      "music": 0.0
+    },
+    {
+      "from": 417.35,
+      "to": 422.91,
+      "sid": 190,
+      "location": 2,
+      "content": "然后就是啊那个军事枪位啊",
+      "music": 0.0
+    },
+    {
+      "from": 422.91,
+      "to": 423.91,
+      "sid": 191,
+      "location": 2,
+      "content": "军事枪位",
+      "music": 0.0
+    },
+    {
+      "from": 423.91,
+      "to": 427.33,
+      "sid": 192,
+      "location": 2,
+      "content": "军事枪位的pk呢怎么说呢",
+      "music": 0.0
+    },
+    {
+      "from": 427.69,
+      "to": 431.51,
+      "sid": 193,
+      "location": 2,
+      "content": "呃我们只需要保证自己第一",
+      "music": 0.0
+    },
+    {
+      "from": 431.51,
+      "to": 434.31,
+      "sid": 194,
+      "location": 2,
+      "content": "就是第一发精准度就可以了",
+      "music": 0.0
+    },
+    {
+      "from": 434.31,
+      "to": 435.83,
+      "sid": 195,
+      "location": 2,
+      "content": "不要着急停啊",
+      "music": 0.0
+    },
+    {
+      "from": 435.83,
+      "to": 437.86,
+      "sid": 196,
+      "location": 2,
+      "content": "不要着急停啊",
+      "music": 0.0
+    },
+    {
+      "from": 437.86,
+      "to": 439.92,
+      "sid": 197,
+      "location": 2,
+      "content": "因为对面基本上你在移动的时候",
+      "music": 0.0
+    },
+    {
+      "from": 439.92,
+      "to": 441.8,
+      "sid": 198,
+      "location": 2,
+      "content": "对面是秒不了你的啊",
+      "music": 0.0
+    },
+    {
+      "from": 441.8,
+      "to": 444.91,
+      "sid": 199,
+      "location": 2,
+      "content": "就是嗯所以你不要着急",
+      "music": 0.0
+    },
+    {
+      "from": 444.91,
+      "to": 445.9,
+      "sid": 200,
+      "location": 2,
+      "content": "不要慌啊",
+      "music": 0.0
+    },
+    {
+      "from": 445.9,
+      "to": 448.98,
+      "sid": 201,
+      "location": 2,
+      "content": "基本上你peek出去被反杀的时候",
+      "music": 0.0
+    },
+    {
+      "from": 448.98,
+      "to": 451.3,
+      "sid": 202,
+      "location": 2,
+      "content": "大多数时候都是你马了啊",
+      "music": 0.0
+    },
+    {
+      "from": 451.3,
+      "to": 452.86,
+      "sid": 203,
+      "location": 2,
+      "content": "你前两枪空了",
+      "music": 0.0
+    },
+    {
+      "from": 452.86,
+      "to": 454.82,
+      "sid": 204,
+      "location": 2,
+      "content": "然后你又在开始摆设啊",
+      "music": 0.0
+    },
+    {
+      "from": 454.82,
+      "to": 459.96,
+      "sid": 205,
+      "location": 2,
+      "content": "这样基本上就是就是自己码了啊",
+      "music": 0.0
+    },
+    {
+      "from": 459.96,
+      "to": 464.08,
+      "sid": 206,
+      "location": 2,
+      "content": "就是说如果双方啊都是有信息的啊",
+      "music": 0.0
+    },
+    {
+      "from": 464.08,
+      "to": 465.32,
+      "sid": 207,
+      "location": 2,
+      "content": "你在这个二楼吧",
+      "music": 0.0
+    },
+    {
+      "from": 465.32,
+      "to": 466.909,
+      "sid": 208,
+      "location": 2,
+      "content": "你比如说你在二楼架我",
+      "music": 0.0
+    },
+    {
+      "from": 466.909,
+      "to": 469.78,
+      "sid": 209,
+      "location": 2,
+      "content": "然后我在我在一楼拉出去跟你对啊",
+      "music": 0.0
+    },
+    {
+      "from": 469.78,
+      "to": 472.4,
+      "sid": 210,
+      "location": 2,
+      "content": "就是双方都知道对方在哪的这种情况下",
+      "music": 0.0
+    },
+    {
+      "from": 472.4,
+      "to": 476.04,
+      "sid": 211,
+      "location": 2,
+      "content": "pk是绝对就是优于支架的啊",
+      "music": 0.0
+    },
+    {
+      "from": 476.04,
+      "to": 476.72,
+      "sid": 212,
+      "location": 2,
+      "content": "支架的人",
+      "music": 0.0
+    },
+    {
+      "from": 476.72,
+      "to": 477.92,
+      "sid": 213,
+      "location": 2,
+      "content": "因为他是怎么说呢",
+      "music": 0.0
+    },
+    {
+      "from": 477.92,
+      "to": 480.3,
+      "sid": 214,
+      "location": 2,
+      "content": "这算是个就是有心算无心吧",
+      "music": 0.0
+    },
+    {
+      "from": 480.3,
+      "to": 483.47,
+      "sid": 215,
+      "location": 2,
+      "content": "啊因为你在你在上面架加个五秒",
+      "music": 0.0
+    },
+    {
+      "from": 483.47,
+      "to": 484.83,
+      "sid": 216,
+      "location": 2,
+      "content": "你可能很专注啊",
+      "music": 0.0
+    },
+    {
+      "from": 484.83,
+      "to": 486.47,
+      "sid": 217,
+      "location": 2,
+      "content": "一一来人我就能给他秒掉",
+      "music": 0.0
+    },
+    {
+      "from": 486.47,
+      "to": 487.93,
+      "sid": 218,
+      "location": 2,
+      "content": "但是你架个十秒呢",
+      "music": 0.0
+    },
+    {
+      "from": 487.93,
+      "to": 488.95,
+      "sid": 219,
+      "location": 2,
+      "content": "加个加个十秒",
+      "music": 0.0
+    },
+    {
+      "from": 488.95,
+      "to": 489.51,
+      "sid": 220,
+      "location": 2,
+      "content": "15秒呢",
+      "music": 0.0
+    },
+    {
+      "from": 489.51,
+      "to": 492.27,
+      "sid": 221,
+      "location": 2,
+      "content": "你就基本上就开始要不看一眼小地图",
+      "music": 0.0
+    },
+    {
+      "from": 492.27,
+      "to": 493.95,
+      "sid": 222,
+      "location": 2,
+      "content": "或者说反正怎么样都会走神",
+      "music": 0.0
+    },
+    {
+      "from": 493.95,
+      "to": 496.51,
+      "sid": 223,
+      "location": 2,
+      "content": "就是注意力绝对不会那么专注了",
+      "music": 0.0
+    },
+    {
+      "from": 496.51,
+      "to": 498.97,
+      "sid": 224,
+      "location": 2,
+      "content": "然后但是你pick出去啊",
+      "music": 0.0
+    },
+    {
+      "from": 498.97,
+      "to": 500.51,
+      "sid": 225,
+      "location": 2,
+      "content": "你拉出去打他",
+      "music": 0.0
+    },
+    {
+      "from": 500.51,
+      "to": 502.43,
+      "sid": 226,
+      "location": 2,
+      "content": "你的这个时候是绝对专注的",
+      "music": 0.0
+    },
+    {
+      "from": 502.43,
+      "to": 504.43,
+      "sid": 227,
+      "location": 2,
+      "content": "你只需要保证自己准就可以了",
+      "music": 0.0
+    },
+    {
+      "from": 504.43,
+      "to": 505.13,
+      "sid": 228,
+      "location": 2,
+      "content": "好吧",
+      "music": 0.0
+    },
+    {
+      "from": 505.13,
+      "to": 508.21,
+      "sid": 229,
+      "location": 2,
+      "content": "就是pick你千万不要着急开枪啊",
+      "music": 0.0
+    },
+    {
+      "from": 508.21,
+      "to": 509.69,
+      "sid": 230,
+      "location": 2,
+      "content": "你确定对面信息的情况下",
+      "music": 0.0
+    },
+    {
+      "from": 509.69,
+      "to": 512.08,
+      "sid": 231,
+      "location": 2,
+      "content": "pick千万不要着急开枪好吧",
+      "music": 0.0
+    },
+    {
+      "from": 512.08,
+      "to": 516.939,
+      "sid": 232,
+      "location": 2,
+      "content": "这就是也是就是这个游戏预瞄它重要的原因吧",
+      "music": 0.0
+    },
+    {
+      "from": 516.939,
+      "to": 521.109,
+      "sid": 233,
+      "location": 2,
+      "content": "就是说假如说你看这个这个绿箱右边有个人",
+      "music": 0.0
+    },
+    {
+      "from": 521.109,
+      "to": 522.549,
+      "sid": 234,
+      "location": 2,
+      "content": "我们预瞄出去啊",
+      "music": 0.0
+    },
+    {
+      "from": 522.549,
+      "to": 524.029,
+      "sid": 235,
+      "location": 2,
+      "content": "我们就是预瞄啊",
+      "music": 0.0
+    },
+    {
+      "from": 524.029,
+      "to": 525.209,
+      "sid": 236,
+      "location": 2,
+      "content": "我们不知道这有个人",
+      "music": 0.0
+    },
+    {
+      "from": 525.209,
+      "to": 527.469,
+      "sid": 237,
+      "location": 2,
+      "content": "但是他就站在这个常规位了啊",
+      "music": 0.0
+    },
+    {
+      "from": 527.469,
+      "to": 529.67,
+      "sid": 238,
+      "location": 2,
+      "content": "我们预瞄这拉出去啊",
+      "music": 0.0
+    },
+    {
+      "from": 529.67,
+      "to": 530.53,
+      "sid": 239,
+      "location": 2,
+      "content": "就给他磕了",
+      "music": 0.0
+    },
+    {
+      "from": 530.53,
+      "to": 533.0,
+      "sid": 240,
+      "location": 2,
+      "content": "然后在对面的视角里就很夸张很夸张",
+      "music": 0.0
+    },
+    {
+      "from": 533.0,
+      "to": 535.6,
+      "sid": 241,
+      "location": 2,
+      "content": "他就是因为这个游戏的服务器啊",
+      "music": 0.0
+    },
+    {
+      "from": 535.6,
+      "to": 536.64,
+      "sid": 242,
+      "location": 2,
+      "content": "反正各种游戏什么的",
+      "music": 0.0
+    },
+    {
+      "from": 536.64,
+      "to": 537.68,
+      "sid": 243,
+      "location": 2,
+      "content": "他都会有延迟",
+      "music": 0.0
+    },
+    {
+      "from": 537.68,
+      "to": 540.44,
+      "sid": 244,
+      "location": 2,
+      "content": "而且人的反应他也是有极限的对吧",
+      "music": 0.0
+    },
+    {
+      "from": 540.44,
+      "to": 541.78,
+      "sid": 245,
+      "location": 2,
+      "content": "在对面的眼里",
+      "music": 0.0
+    },
+    {
+      "from": 541.78,
+      "to": 543.18,
+      "sid": 246,
+      "location": 2,
+      "content": "你出来连急停都没停",
+      "music": 0.0
+    },
+    {
+      "from": 543.18,
+      "to": 543.96,
+      "sid": 247,
+      "location": 2,
+      "content": "就把他秒了",
+      "music": 0.0
+    },
+    {
+      "from": 543.96,
+      "to": 545.98,
+      "sid": 248,
+      "location": 2,
+      "content": "就你刚露出来一点身子",
+      "music": 0.0
+    },
+    {
+      "from": 545.98,
+      "to": 547.6,
+      "sid": 249,
+      "location": 2,
+      "content": "他他就已经死了啊",
+      "music": 0.0
+    },
+    {
+      "from": 547.6,
+      "to": 549.4,
+      "sid": 250,
+      "location": 2,
+      "content": "就因为就是延迟啊",
+      "music": 0.0
+    },
+    {
+      "from": 549.4,
+      "to": 550.8,
+      "sid": 251,
+      "location": 2,
+      "content": "或者说服务器的各种问题",
+      "music": 0.0
+    },
+    {
+      "from": 550.8,
+      "to": 552.959,
+      "sid": 252,
+      "location": 2,
+      "content": "反正就是看起来就非常的夸张",
+      "music": 0.0
+    },
+    {
+      "from": 552.959,
+      "to": 555.419,
+      "sid": 253,
+      "location": 2,
+      "content": "就是不管在什么射击游戏里都是这样的",
+      "music": 0.0
+    },
+    {
+      "from": 555.419,
+      "to": 559.38,
+      "sid": 254,
+      "location": 2,
+      "content": "就是peek出去的一方永远都是有优势的好吧",
+      "music": 0.0
+    },
+    {
+      "from": 559.38,
+      "to": 561.73,
+      "sid": 255,
+      "location": 2,
+      "content": "所以说我们要多主动pk别人啊",
+      "music": 0.0
+    },
+    {
+      "from": 561.73,
+      "to": 563.29,
+      "sid": 256,
+      "location": 2,
+      "content": "然后这就是军事枪位的pk",
+      "music": 0.0
+    },
+    {
+      "from": 563.29,
+      "to": 564.53,
+      "sid": 257,
+      "location": 2,
+      "content": "然后就优势枪位了",
+      "music": 0.0
+    },
+    {
+      "from": 564.53,
+      "to": 565.73,
+      "sid": 258,
+      "location": 2,
+      "content": "优势枪位怎么办呢",
+      "music": 0.0
+    },
+    {
+      "from": 565.73,
+      "to": 566.99,
+      "sid": 259,
+      "location": 2,
+      "content": "就比如说这里有个人吧",
+      "music": 0.0
+    },
+    {
+      "from": 566.99,
+      "to": 568.57,
+      "sid": 260,
+      "location": 2,
+      "content": "我这我们知道这里有个人",
+      "music": 0.0
+    },
+    {
+      "from": 568.57,
+      "to": 570.439,
+      "sid": 261,
+      "location": 2,
+      "content": "我们要往前蹭他啊",
+      "music": 0.0
+    },
+    {
+      "from": 570.439,
+      "to": 572.92,
+      "sid": 262,
+      "location": 2,
+      "content": "就一点一点的蹭就可以了啊",
+      "music": 0.0
+    },
+    {
+      "from": 572.92,
+      "to": 575.44,
+      "sid": 263,
+      "location": 2,
+      "content": "不要那个什么就就不要不要",
+      "music": 0.0
+    },
+    {
+      "from": 575.44,
+      "to": 576.93,
+      "sid": 264,
+      "location": 2,
+      "content": "就是一个大步过去找他",
+      "music": 0.0
+    },
+    {
+      "from": 576.93,
+      "to": 578.79,
+      "sid": 265,
+      "location": 2,
+      "content": "说不定他就把你给架住了对吧",
+      "music": 0.0
+    },
+    {
+      "from": 578.79,
+      "to": 580.09,
+      "sid": 266,
+      "location": 2,
+      "content": "他听到你大脚步",
+      "music": 0.0
+    },
+    {
+      "from": 580.09,
+      "to": 581.37,
+      "sid": 267,
+      "location": 2,
+      "content": "我们就一点一点蹭他",
+      "music": 0.0
+    },
+    {
+      "from": 581.37,
+      "to": 583.61,
+      "sid": 268,
+      "location": 2,
+      "content": "因为这个时候我们是是是先能看到他的肩膀的",
+      "music": 0.0
+    },
+    {
+      "from": 583.61,
+      "to": 583.85,
+      "sid": 269,
+      "location": 2,
+      "content": "对吧",
+      "music": 0.0
+    },
+    {
+      "from": 583.85,
+      "to": 584.839,
+      "sid": 270,
+      "location": 2,
+      "content": "他是烈士桥位",
+      "music": 0.0
+    },
+    {
+      "from": 584.839,
+      "to": 586.979,
+      "sid": 271,
+      "location": 2,
+      "content": "我们就可以这样一点点蹭他啊",
+      "music": 0.0
+    },
+    {
+      "from": 586.979,
+      "to": 588.439,
+      "sid": 272,
+      "location": 2,
+      "content": "比如说这个地方啊",
+      "music": 0.0
+    },
+    {
+      "from": 588.439,
+      "to": 589.9,
+      "sid": 273,
+      "location": 2,
+      "content": "点点蹭他啊",
+      "music": 0.0
+    },
+    {
+      "from": 589.9,
+      "to": 591.14,
+      "sid": 274,
+      "location": 2,
+      "content": "看到他的身子了",
+      "music": 0.0
+    },
+    {
+      "from": 591.14,
+      "to": 592.14,
+      "sid": 275,
+      "location": 2,
+      "content": "或者看到他的身子了",
+      "music": 0.0
+    },
+    {
+      "from": 592.14,
+      "to": 593.76,
+      "sid": 276,
+      "location": 2,
+      "content": "你可以直接穿他的头啊",
+      "music": 0.0
+    },
+    {
+      "from": 593.76,
+      "to": 595.34,
+      "sid": 277,
+      "location": 2,
+      "content": "或者说你看到他的身子了",
+      "music": 0.0
+    },
+    {
+      "from": 595.34,
+      "to": 598.59,
+      "sid": 278,
+      "location": 2,
+      "content": "然后打拉过来把他秒了啊",
+      "music": 0.0
+    },
+    {
+      "from": 598.59,
+      "to": 603.35,
+      "sid": 279,
+      "location": 2,
+      "content": "这样都是可以的嘶然后就结合我们以上说的",
+      "music": 0.0
+    },
+    {
+      "from": 603.35,
+      "to": 604.43,
+      "sid": 280,
+      "location": 2,
+      "content": "我们模拟一下",
+      "music": 0.0
+    },
+    {
+      "from": 604.43,
+      "to": 605.39,
+      "sid": 281,
+      "location": 2,
+      "content": "就是A区前压",
+      "music": 0.0
+    },
+    {
+      "from": 605.39,
+      "to": 606.67,
+      "sid": 282,
+      "location": 2,
+      "content": "我们该该该怎么",
+      "music": 0.0
+    },
+    {
+      "from": 606.67,
+      "to": 608.83,
+      "sid": 283,
+      "location": 2,
+      "content": "就是那个进行pk吧",
+      "music": 0.0
+    },
+    {
+      "from": 608.83,
+      "to": 611.16,
+      "sid": 284,
+      "location": 2,
+      "content": "首先就是啊",
+      "music": 0.0
+    },
+    {
+      "from": 611.16,
+      "to": 614.08,
+      "sid": 285,
+      "location": 2,
+      "content": "最开始我们要知道这个地方有没有架",
+      "music": 0.0
+    },
+    {
+      "from": 614.08,
+      "to": 617.18,
+      "sid": 286,
+      "location": 2,
+      "content": "我们啊我们可以晃身看一眼啊",
+      "music": 0.0
+    },
+    {
+      "from": 617.18,
+      "to": 619.01,
+      "sid": 287,
+      "location": 2,
+      "content": "不漏信息啊",
+      "music": 0.0
+    },
+    {
+      "from": 619.01,
+      "to": 620.85,
+      "sid": 288,
+      "location": 2,
+      "content": "晃身看一眼没有人",
+      "music": 0.0
+    },
+    {
+      "from": 620.85,
+      "to": 622.09,
+      "sid": 289,
+      "location": 2,
+      "content": "或者说如果有人有",
+      "music": 0.0
+    },
+    {
+      "from": 622.09,
+      "to": 623.03,
+      "sid": 290,
+      "location": 2,
+      "content": "如果有人的话",
+      "music": 0.0
+    },
+    {
+      "from": 623.03,
+      "to": 624.43,
+      "sid": 291,
+      "location": 2,
+      "content": "我们可以开提前枪",
+      "music": 0.0
+    },
+    {
+      "from": 624.43,
+      "to": 626.37,
+      "sid": 292,
+      "location": 2,
+      "content": "然后再一个大拉出去打他",
+      "music": 0.0
+    },
+    {
+      "from": 626.37,
+      "to": 627.93,
+      "sid": 293,
+      "location": 2,
+      "content": "对吧啊",
+      "music": 0.0
+    },
+    {
+      "from": 627.93,
+      "to": 628.69,
+      "sid": 294,
+      "location": 2,
+      "content": "如果没有人的话",
+      "music": 0.0
+    },
+    {
+      "from": 628.69,
+      "to": 630.83,
+      "sid": 295,
+      "location": 2,
+      "content": "我们就出去预瞄一下",
+      "music": 0.0
+    },
+    {
+      "from": 630.83,
+      "to": 633.86,
+      "sid": 296,
+      "location": 2,
+      "content": "然后预瞄左边一点点蹭",
+      "music": 0.0
+    },
+    {
+      "from": 633.86,
+      "to": 635.22,
+      "sid": 297,
+      "location": 2,
+      "content": "小步小步蹭",
+      "music": 0.0
+    },
+    {
+      "from": 635.22,
+      "to": 636.26,
+      "sid": 298,
+      "location": 2,
+      "content": "没有人",
+      "music": 0.0
+    },
+    {
+      "from": 636.26,
+      "to": 636.8,
+      "sid": 299,
+      "location": 2,
+      "content": "没有人",
+      "music": 0.0
+    },
+    {
+      "from": 636.8,
+      "to": 638.14,
+      "sid": 300,
+      "location": 2,
+      "content": "这个时候该怎么办呢",
+      "music": 0.0
+    },
+    {
+      "from": 638.14,
+      "to": 641.98,
+      "sid": 301,
+      "location": 2,
+      "content": "晃身可以晃身pk一下A大啊",
+      "music": 0.0
+    },
+    {
+      "from": 642.22,
+      "to": 645.02,
+      "sid": 302,
+      "location": 2,
+      "content": "就是我们要就是怎么说呢",
+      "music": 0.0
+    },
+    {
+      "from": 645.02,
+      "to": 647.56,
+      "sid": 303,
+      "location": 2,
+      "content": "我们我们我们pick这面墙的时候",
+      "music": 0.0
+    },
+    {
+      "from": 647.56,
+      "to": 653.089,
+      "sid": 304,
+      "location": 2,
+      "content": "我们可以就是贴着右边这面墙来搜左边啊",
+      "music": 0.0
+    },
+    {
+      "from": 653.089,
+      "to": 656.449,
+      "sid": 305,
+      "location": 2,
+      "content": "左边这个过道就是A大这个过道啊",
+      "music": 0.0
+    },
+    {
+      "from": 656.449,
+      "to": 657.809,
+      "sid": 306,
+      "location": 2,
+      "content": "我们搜右边这个墙的时候",
+      "music": 0.0
+    },
+    {
+      "from": 657.809,
+      "to": 660.25,
+      "sid": 307,
+      "location": 2,
+      "content": "我们就贴着这个墙啊",
+      "music": 0.0
+    },
+    {
+      "from": 660.25,
+      "to": 662.93,
+      "sid": 308,
+      "location": 2,
+      "content": "呃搜右面这右边这个死角啊",
+      "music": 0.0
+    },
+    {
+      "from": 662.93,
+      "to": 663.85,
+      "sid": 309,
+      "location": 2,
+      "content": "搜完右边这个死角",
+      "music": 0.0
+    },
+    {
+      "from": 663.85,
+      "to": 665.53,
+      "sid": 310,
+      "location": 2,
+      "content": "我们可以再贴着啊",
+      "music": 0.0
+    },
+    {
+      "from": 665.53,
+      "to": 666.29,
+      "sid": 311,
+      "location": 2,
+      "content": "搜这边",
+      "music": 0.0
+    },
+    {
+      "from": 666.29,
+      "to": 668.85,
+      "sid": 312,
+      "location": 2,
+      "content": "但是这这里实际上也是一个劣势枪位啊",
+      "music": 0.0
+    },
+    {
+      "from": 668.85,
+      "to": 671.37,
+      "sid": 313,
+      "location": 2,
+      "content": "因为如果对面在这个地方架你的话啊",
+      "music": 0.0
+    },
+    {
+      "from": 671.37,
+      "to": 672.92,
+      "sid": 314,
+      "location": 2,
+      "content": "如果在这个地方架你的话",
+      "music": 0.0
+    },
+    {
+      "from": 672.92,
+      "to": 674.4,
+      "sid": 315,
+      "location": 2,
+      "content": "这个地方也是个劣势枪位",
+      "music": 0.0
+    },
+    {
+      "from": 674.4,
+      "to": 676.84,
+      "sid": 316,
+      "location": 2,
+      "content": "因为我们说嘛这个就这个墙对吧",
+      "music": 0.0
+    },
+    {
+      "from": 676.84,
+      "to": 677.96,
+      "sid": 317,
+      "location": 2,
+      "content": "这个墙是离你近的",
+      "music": 0.0
+    },
+    {
+      "from": 677.96,
+      "to": 680.06,
+      "sid": 318,
+      "location": 2,
+      "content": "所以说这个对你来说也是个劣势枪位",
+      "music": 0.0
+    },
+    {
+      "from": 680.06,
+      "to": 682.3,
+      "sid": 319,
+      "location": 2,
+      "content": "我们可以这样peek出去啊",
+      "music": 0.0
+    },
+    {
+      "from": 682.3,
+      "to": 684.62,
+      "sid": 320,
+      "location": 2,
+      "content": "也可以就是我们刚才说的嘛",
+      "music": 0.0
+    },
+    {
+      "from": 684.62,
+      "to": 686.02,
+      "sid": 321,
+      "location": 2,
+      "content": "牵连晃身拿信息",
+      "music": 0.0
+    },
+    {
+      "from": 686.02,
+      "to": 688.7,
+      "sid": 322,
+      "location": 2,
+      "content": "然后再大拉出去对吧",
+      "music": 0.0
+    },
+    {
+      "from": 690.3,
+      "to": 695.19,
+      "sid": 323,
+      "location": 2,
+      "content": "嗯只能说这个游戏信息是很有很很重要的",
+      "music": 0.0
+    },
+    {
+      "from": 695.19,
+      "to": 698.05,
+      "sid": 324,
+      "location": 2,
+      "content": "我们尽量少打这种没有信息的枪啊",
+      "music": 0.0
+    },
+    {
+      "from": 698.05,
+      "to": 702.38,
+      "sid": 325,
+      "location": 2,
+      "content": "就是除非我们在就是干摸啊",
+      "music": 0.0
+    },
+    {
+      "from": 702.38,
+      "to": 704.61,
+      "sid": 326,
+      "location": 2,
+      "content": "就是干摸的时候",
+      "music": 0.0
+    },
+    {
+      "from": 704.61,
+      "to": 708.49,
+      "sid": 327,
+      "location": 2,
+      "content": "我们才要就是这样一点点的清晰的",
+      "music": 0.0
+    },
+    {
+      "from": 708.49,
+      "to": 710.53,
+      "sid": 328,
+      "location": 2,
+      "content": "就是预瞄的拉出去啊",
+      "music": 0.0
+    },
+    {
+      "from": 711.109,
+      "to": 714.809,
+      "sid": 329,
+      "location": 2,
+      "content": "就是平常的时候我们尽量先拿到信息",
+      "music": 0.0
+    },
+    {
+      "from": 714.809,
+      "to": 717.189,
+      "sid": 330,
+      "location": 2,
+      "content": "我们再拉出去好吧",
+      "music": 0.0
+    },
+    {
+      "from": 717.87,
+      "to": 719.13,
+      "sid": 331,
+      "location": 2,
+      "content": "因为这个游戏信息",
+      "music": 0.0
+    },
+    {
+      "from": 719.13,
+      "to": 721.75,
+      "sid": 332,
+      "location": 2,
+      "content": "你确如果确定了对面的人的位置啊",
+      "music": 0.0
+    },
+    {
+      "from": 721.75,
+      "to": 723.71,
+      "sid": 333,
+      "location": 2,
+      "content": "那你拉出去基本上是必秒他的",
+      "music": 0.0
+    },
+    {
+      "from": 723.71,
+      "to": 725.7,
+      "sid": 334,
+      "location": 2,
+      "content": "如果那个人不走的话好吧",
+      "music": 0.0
+    },
+    {
+      "from": 725.7,
+      "to": 729.14,
+      "sid": 335,
+      "location": 2,
+      "content": "我们一定要多用这种拿西西的peek方法啊",
+      "music": 0.0
+    },
+    {
+      "from": 729.14,
+      "to": 730.56,
+      "sid": 336,
+      "location": 2,
+      "content": "如果你不不想漏声音",
+      "music": 0.0
+    },
+    {
+      "from": 730.56,
+      "to": 733.2,
+      "sid": 337,
+      "location": 2,
+      "content": "你就小步的就是晃身peek",
+      "music": 0.0
+    },
+    {
+      "from": 733.2,
+      "to": 734.68,
+      "sid": 338,
+      "location": 2,
+      "content": "如果你可以漏声音",
+      "music": 0.0
+    },
+    {
+      "from": 734.68,
+      "to": 737.9,
+      "sid": 339,
+      "location": 2,
+      "content": "我们就大步的旋转跳pick",
+      "music": 0.0
+    },
+    {
+      "from": 737.9,
+      "to": 740.1,
+      "sid": 340,
+      "location": 2,
+      "content": "好吧啊",
+      "music": 0.0
+    },
+    {
+      "from": 740.1,
+      "to": 743.74,
+      "sid": 341,
+      "location": 2,
+      "content": "这就是pk的基本要领啊",
+      "music": 0.0
+    },
+    {
+      "from": 744.5,
+      "to": 747.6,
+      "sid": 342,
+      "location": 2,
+      "content": "还有一点就是我们pick不要按W啊",
+      "music": 0.0
+    },
+    {
+      "from": 747.6,
+      "to": 749.55,
+      "sid": 343,
+      "location": 2,
+      "content": "就你不要斜着走啊",
+      "music": 0.0
+    },
+    {
+      "from": 749.55,
+      "to": 750.71,
+      "sid": 344,
+      "location": 2,
+      "content": "我们要pick这个地方",
+      "music": 0.0
+    },
+    {
+      "from": 750.71,
+      "to": 751.91,
+      "sid": 345,
+      "location": 2,
+      "content": "你不要这样斜着出去啊",
+      "music": 0.0
+    },
+    {
+      "from": 751.91,
+      "to": 753.31,
+      "sid": 346,
+      "location": 2,
+      "content": "这样斜着出去很呆的很慢",
+      "music": 0.0
+    },
+    {
+      "from": 753.31,
+      "to": 753.95,
+      "sid": 347,
+      "location": 2,
+      "content": "走的很慢",
+      "music": 0.0
+    },
+    {
+      "from": 753.95,
+      "to": 756.35,
+      "sid": 348,
+      "location": 2,
+      "content": "在对面视角里我们就用A和D啊",
+      "music": 0.0
+    },
+    {
+      "from": 756.35,
+      "to": 758.45,
+      "sid": 349,
+      "location": 2,
+      "content": "pk一定要只用A和D好吧",
+      "music": 0.0
+    },
+    {
+      "from": 758.45,
+      "to": 759.97,
+      "sid": 350,
+      "location": 2,
+      "content": "只用A和D啊",
+      "music": 0.0
+    },
+    {
+      "from": 759.97,
+      "to": 761.75,
+      "sid": 351,
+      "location": 2,
+      "content": "只用这两个键啊",
+      "music": 0.0
+    },
+    {
+      "from": 761.75,
+      "to": 763.49,
+      "sid": 352,
+      "location": 2,
+      "content": "如果你要pk拉出去的话啊",
+      "music": 0.0
+    },
+    {
+      "from": 763.49,
+      "to": 765.17,
+      "sid": 353,
+      "location": 2,
+      "content": "我们只用这两个键好吧",
+      "music": 0.0
+    },
+    {
+      "from": 765.17,
+      "to": 766.34,
+      "sid": 354,
+      "location": 2,
+      "content": "就这样",
+      "music": 0.0
+    }
+  ]
+}

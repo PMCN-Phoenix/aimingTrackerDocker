@@ -1,0 +1,21 @@
+{
+  "topic": "VALORANT 拉出去打不到人（peek/swing 拉出瞬间瞄准落空）",
+  "fetch_date": "2026-10-14",
+  "note": "已有/新抓标记：已有=字幕在历史语料中（复用未重抓）；新抓=本次抓取。评论未抓取（本任务聚焦字幕结论）。",
+  "picks": [
+    {"bvid": "BV1EthLzMEKw", "title": "【大东彦】到底怎么大拉怎么peek？预瞄要学会回拉留递速空间！怎么选择枪位？", "author": "anno大笨蛋（大东彦录播切片）", "duration": "20:06", "play": 156338, "relevance": 10, "source": "已有", "local_path": "实战场景-B站原始数据/字幕/BV1EthLzMEKw.txt"},
+    {"bvid": "BV1P73G6zE1E", "title": "我架好头线了，为什么对面拉出来还是把我秒了？一个细节，让你的对枪胜率翻倍。", "author": "o丶b", "duration": "16:47", "play": 4703, "relevance": 10, "source": "已有", "local_path": "实战场景-B站原始数据/字幕/BV1P73G6zE1E.txt"},
+    {"bvid": "BV1fd4y1R7kd", "title": "无畏契约所有Peek方式汇总，学会因地制宜的使用Peek！", "author": "大东彦", "duration": "5:58", "play": 429542, "relevance": 9, "source": "已有", "local_path": "瓦洛兰特技术进阶-B站原始数据/字幕/BV1fd4y1R7kd.json"},
+    {"bvid": "BV1RezPYCESM", "title": "最细节的身位控制教学，什么是贴墙大拉？近大远小和高打低并不绝对！", "author": "大东彦", "duration": "6:50", "play": 453993, "relevance": 9, "source": "已有", "local_path": "实战场景-B站原始数据/字幕/BV1RezPYCESM.txt"},
+    {"bvid": "BV1SW4y1d7PP", "title": "上分必看 无声Peek 大拉小拉 旋转跳 急停 近大远小 爆头线 进阶攻略1", "author": "404就是小刘", "duration": "4:21", "play": 124398, "relevance": 8, "source": "已有", "local_path": "实战场景-B站原始数据/字幕/BV1SW4y1d7PP.txt"},
+    {"bvid": "BV1BSh5zPE2d", "title": "【大东彦】peek完要回缩一下，保证满地速拉出，晃到对面位置贴墙大拉", "author": "不会枪的lansir", "duration": "8:10", "play": 72510, "relevance": 8, "source": "已有", "local_path": "实战场景-B站原始数据/字幕/BV1BSh5zPE2d.txt（与BV1EthLzMEKw同源录播切片，内容重叠）"},
+    {"bvid": "BV1Chjb6aEt6", "title": "基于身法运用的掩体后劣势对枪优化设计与应用", "author": "春意挽", "duration": "3:37", "play": 53216, "relevance": 7, "source": "已有", "local_path": "实战场景-B站原始数据/字幕/BV1Chjb6aEt6.txt"},
+    {"bvid": "BV12DevesEtF", "title": "《又学到了！》大拉就是拉出去对枪吗？到底怎么出掩体才不会被秒呢？", "author": "斯米马赛z", "duration": "2:15", "play": 125738, "relevance": 10, "source": "新抓", "local_path": "字幕/BV12DevesEtF.txt（69段，覆盖99%）"},
+    {"bvid": "BV16exyeUEEy", "title": "【登神瓦课】#4 为什么你拉出去就被秒？该如何正确的peek？", "author": "好家伙不演了", "duration": "12:47", "play": 31374, "relevance": 10, "source": "新抓", "local_path": "字幕/BV16exyeUEEy.txt（354段，覆盖100%）"},
+    {"bvid": "BV14SkuYSELX", "title": "黄金和下三段玩家最常出现的对枪问题-瞄准和移动的关系-无畏契约小贴士#5", "author": "暗辰の薄明", "duration": "3:12", "play": 503614, "relevance": 9, "source": "新抓", "local_path": "字幕/BV14SkuYSELX.txt（81段，覆盖100%）"},
+    {"bvid": "BV1Q6PmeREP6", "title": "FPS游戏最容易陷入的瞄准误区！先瞄\"准\"再开枪与\"冷静\"瞄准", "author": "电坤小子嘿嘿", "duration": "12:39", "play": 570856, "relevance": 9, "source": "新抓", "local_path": "字幕/BV1Q6PmeREP6.txt（325段，覆盖100%）"},
+    {"bvid": "BV1eehiz9EEc", "title": "目标一动就马枪？一个视频让你真正学会动态定位！【瓦瞄准修炼秘籍4】", "author": "晨曜cheyo", "duration": "4:38", "play": 473157, "relevance": 8, "source": "新抓", "local_path": "字幕/BV1eehiz9EEc.txt（134段，覆盖99%）"},
+    {"bvid": "BV1tq4y1A7yA", "title": "5分钟化身预瞄之神，全网最实用的预瞄教学！全FPS通用！", "author": "大东彦", "duration": "8:40", "play": 463907, "relevance": 7, "source": "新抓", "local_path": "字幕/BV1tq4y1A7yA.txt（272段，覆盖99%）"},
+    {"bvid": "BV1f84y127xk", "title": "【无畏契约】一个视频学会急停！练枪教学03", "author": "约德尔大人", "duration": "4:54", "play": 718423, "relevance": 6, "source": "已有", "local_path": "瓦洛兰特技术进阶-B站原始数据/字幕/BV1f84y127xk.json"}
+  ]
+}

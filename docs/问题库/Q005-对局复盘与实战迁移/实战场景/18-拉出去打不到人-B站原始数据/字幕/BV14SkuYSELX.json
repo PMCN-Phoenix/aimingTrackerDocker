@@ -1,0 +1,659 @@
+{
+  "bvid": "BV14SkuYSELX",
+  "title": "黄金和下三段玩家最常出现的对枪问题-瞄准和移动的关系-无畏契约小贴士#5",
+  "author": "暗辰の薄明",
+  "aid": 113678858982522,
+  "cid": 27420331167,
+  "duration": 192,
+  "lan": "ai-zh",
+  "body": [
+    {
+      "from": 0.26,
+      "to": 3.54,
+      "sid": 1,
+      "location": 2,
+      "content": "网上充斥着的各种有关对枪的概念",
+      "music": 0.0
+    },
+    {
+      "from": 3.54,
+      "to": 4.48,
+      "sid": 2,
+      "location": 2,
+      "content": "随机弹道",
+      "music": 0.0
+    },
+    {
+      "from": 4.48,
+      "to": 5.5,
+      "sid": 3,
+      "location": 2,
+      "content": "冷静瞄准",
+      "music": 0.0
+    },
+    {
+      "from": 5.5,
+      "to": 6.9,
+      "sid": 4,
+      "location": 2,
+      "content": "急停摆设",
+      "music": 0.0
+    },
+    {
+      "from": 6.9,
+      "to": 7.42,
+      "sid": 5,
+      "location": 2,
+      "content": "Poppin",
+      "music": 0.0
+    },
+    {
+      "from": 7.42,
+      "to": 8.68,
+      "sid": 6,
+      "location": 2,
+      "content": "Swing dead son",
+      "music": 0.0
+    },
+    {
+      "from": 8.68,
+      "to": 11.62,
+      "sid": 7,
+      "location": 2,
+      "content": "新手朋友在学习和理解这个游戏时",
+      "music": 0.0
+    },
+    {
+      "from": 11.62,
+      "to": 14.37,
+      "sid": 8,
+      "location": 2,
+      "content": "很容易被这些概念弄昏头脑",
+      "music": 0.0
+    },
+    {
+      "from": 14.37,
+      "to": 15.23,
+      "sid": 9,
+      "location": 2,
+      "content": "事实上",
+      "music": 0.0
+    },
+    {
+      "from": 15.23,
+      "to": 18.43,
+      "sid": 10,
+      "location": 2,
+      "content": "如果大家不参透这个游戏的对枪核心机制",
+      "music": 0.0
+    },
+    {
+      "from": 18.43,
+      "to": 20.59,
+      "sid": 11,
+      "location": 2,
+      "content": "刻意的学习使用这些技巧",
+      "music": 0.0
+    },
+    {
+      "from": 20.59,
+      "to": 22.21,
+      "sid": 12,
+      "location": 2,
+      "content": "就像是邯郸学步",
+      "music": 0.0
+    },
+    {
+      "from": 22.21,
+      "to": 24.77,
+      "sid": 13,
+      "location": 2,
+      "content": "但大家只需要搞清楚这个游戏",
+      "music": 0.0
+    },
+    {
+      "from": 24.77,
+      "to": 26.67,
+      "sid": 14,
+      "location": 2,
+      "content": "干play的两个核心机制",
+      "music": 0.0
+    },
+    {
+      "from": 26.67,
+      "to": 30.38,
+      "sid": 15,
+      "location": 2,
+      "content": "就能顺藤摸瓜的理解掌握那些对枪技巧",
+      "music": 0.0
+    },
+    {
+      "from": 30.38,
+      "to": 32.5,
+      "sid": 16,
+      "location": 2,
+      "content": "这个游戏的两个核心特性",
+      "music": 0.0
+    },
+    {
+      "from": 32.5,
+      "to": 35.92,
+      "sid": 17,
+      "location": 2,
+      "content": "分别是第一个静态目标很容易被命中",
+      "music": 0.0
+    },
+    {
+      "from": 35.92,
+      "to": 39.65,
+      "sid": 18,
+      "location": 2,
+      "content": "第二个追求精准度的开枪带来的收益高",
+      "music": 0.0
+    },
+    {
+      "from": 39.65,
+      "to": 43.02,
+      "sid": 19,
+      "location": 2,
+      "content": "基于精准度的开枪带来的高收益的机制",
+      "music": 0.0
+    },
+    {
+      "from": 43.02,
+      "to": 44.54,
+      "sid": 20,
+      "location": 2,
+      "content": "可能很多人都知道",
+      "music": 0.0
+    },
+    {
+      "from": 44.54,
+      "to": 45.04,
+      "sid": 21,
+      "location": 2,
+      "content": "这一点",
+      "music": 0.0
+    },
+    {
+      "from": 45.04,
+      "to": 48.48,
+      "sid": 22,
+      "location": 2,
+      "content": "也就是所谓的先瞄准再开枪的冷静瞄准",
+      "music": 0.0
+    },
+    {
+      "from": 48.48,
+      "to": 51.06,
+      "sid": 23,
+      "location": 2,
+      "content": "我知道很多朋友都可以做到这一点",
+      "music": 0.0
+    },
+    {
+      "from": 51.06,
+      "to": 53.1,
+      "sid": 24,
+      "location": 2,
+      "content": "但是在我给一些水友复盘时",
+      "music": 0.0
+    },
+    {
+      "from": 53.1,
+      "to": 55.1,
+      "sid": 25,
+      "location": 2,
+      "content": "又发现了另外的一些情况",
+      "music": 0.0
+    },
+    {
+      "from": 55.1,
+      "to": 56.44,
+      "sid": 26,
+      "location": 2,
+      "content": "他确实是知道了",
+      "music": 0.0
+    },
+    {
+      "from": 56.44,
+      "to": 58.22,
+      "sid": 27,
+      "location": 2,
+      "content": "先去瞄准再开火的",
+      "music": 0.0
+    },
+    {
+      "from": 58.22,
+      "to": 60.04,
+      "sid": 28,
+      "location": 2,
+      "content": "但如果第一枪没有打中",
+      "music": 0.0
+    },
+    {
+      "from": 60.04,
+      "to": 62.24,
+      "sid": 29,
+      "location": 2,
+      "content": "很多朋友就会变得束手无策",
+      "music": 0.0
+    },
+    {
+      "from": 62.24,
+      "to": 63.86,
+      "sid": 30,
+      "location": 2,
+      "content": "甚至会蹲下泼水",
+      "music": 0.0
+    },
+    {
+      "from": 63.86,
+      "to": 64.62,
+      "sid": 31,
+      "location": 2,
+      "content": "这些玩家",
+      "music": 0.0
+    },
+    {
+      "from": 64.62,
+      "to": 68.06,
+      "sid": 32,
+      "location": 2,
+      "content": "再加上听说过网络上各种各样的对枪的技巧",
+      "music": 0.0
+    },
+    {
+      "from": 68.06,
+      "to": 70.72,
+      "sid": 33,
+      "location": 2,
+      "content": "就开始变得更加迷茫和蹩脚",
+      "music": 0.0
+    },
+    {
+      "from": 70.72,
+      "to": 73.32,
+      "sid": 34,
+      "location": 2,
+      "content": "所以我们要基于上面的这两个特性",
+      "music": 0.0
+    },
+    {
+      "from": 73.32,
+      "to": 75.97,
+      "sid": 35,
+      "location": 2,
+      "content": "在第一次瞄准中没有成功命中时",
+      "music": 0.0
+    },
+    {
+      "from": 75.97,
+      "to": 77.59,
+      "sid": 36,
+      "location": 2,
+      "content": "我们不要蹲下泼水",
+      "music": 0.0
+    },
+    {
+      "from": 77.59,
+      "to": 80.88,
+      "sid": 37,
+      "location": 2,
+      "content": "也不能着急的凭感觉和本能去抖枪",
+      "music": 0.0
+    },
+    {
+      "from": 80.88,
+      "to": 83.44,
+      "sid": 38,
+      "location": 2,
+      "content": "而是要去阅读对面头部和自己",
+      "music": 0.0
+    },
+    {
+      "from": 83.44,
+      "to": 85.38,
+      "sid": 39,
+      "location": 2,
+      "content": "准星的相对速度和位置",
+      "music": 0.0
+    },
+    {
+      "from": 85.38,
+      "to": 88.94,
+      "sid": 40,
+      "location": 2,
+      "content": "再去进行一次冷静的先瞄准再开枪的过程",
+      "music": 0.0
+    },
+    {
+      "from": 88.94,
+      "to": 89.85,
+      "sid": 41,
+      "location": 2,
+      "content": "也就是说",
+      "music": 0.0
+    },
+    {
+      "from": 89.85,
+      "to": 92.29,
+      "sid": 42,
+      "location": 2,
+      "content": "当你在第一枪没能命中情况下",
+      "music": 0.0
+    },
+    {
+      "from": 92.29,
+      "to": 94.67,
+      "sid": 43,
+      "location": 2,
+      "content": "不是要去做开枪节奏的改变",
+      "music": 0.0
+    },
+    {
+      "from": 94.67,
+      "to": 98.36,
+      "sid": 44,
+      "location": 2,
+      "content": "而是重复去做你第一次开枪的那个瞄准过程",
+      "music": 0.0
+    },
+    {
+      "from": 98.36,
+      "to": 100.04,
+      "sid": 45,
+      "location": 2,
+      "content": "在这个瞄准过程中",
+      "music": 0.0
+    },
+    {
+      "from": 100.04,
+      "to": 103.7,
+      "sid": 46,
+      "location": 2,
+      "content": "由于静止的目标很容易被命中这个特性",
+      "music": 0.0
+    },
+    {
+      "from": 103.7,
+      "to": 106.1,
+      "sid": 47,
+      "location": 2,
+      "content": "所以我们为了保证自身的存活率",
+      "music": 0.0
+    },
+    {
+      "from": 106.1,
+      "to": 108.14,
+      "sid": 48,
+      "location": 2,
+      "content": "要在第一次开火没命中时",
+      "music": 0.0
+    },
+    {
+      "from": 108.14,
+      "to": 109.54,
+      "sid": 49,
+      "location": 2,
+      "content": "要避免站定不动",
+      "music": 0.0
+    },
+    {
+      "from": 109.54,
+      "to": 112.98,
+      "sid": 50,
+      "location": 2,
+      "content": "必须在第二次开始瞄准的同时开始横向移动",
+      "music": 0.0
+    },
+    {
+      "from": 112.98,
+      "to": 115.82,
+      "sid": 51,
+      "location": 2,
+      "content": "而大多数玩家的疑惑正是这一点",
+      "music": 0.0
+    },
+    {
+      "from": 115.82,
+      "to": 119.91,
+      "sid": 52,
+      "location": 2,
+      "content": "我在第二次瞄准的移动到底要移动多远的距离",
+      "music": 0.0
+    },
+    {
+      "from": 119.91,
+      "to": 122.03,
+      "sid": 53,
+      "location": 2,
+      "content": "是像摆设那样去小碎步",
+      "music": 0.0
+    },
+    {
+      "from": 122.03,
+      "to": 125.35,
+      "sid": 54,
+      "location": 2,
+      "content": "还是像popping swing那样去拉更远的距离",
+      "music": 0.0
+    },
+    {
+      "from": 125.35,
+      "to": 128.48,
+      "sid": 55,
+      "location": 2,
+      "content": "答案是为了保持高效的击杀效率",
+      "music": 0.0
+    },
+    {
+      "from": 128.48,
+      "to": 132.06,
+      "sid": 56,
+      "location": 2,
+      "content": "你移动的距离长度应当取决于你瞄准的时间",
+      "music": 0.0
+    },
+    {
+      "from": 132.06,
+      "to": 134.28,
+      "sid": 57,
+      "location": 2,
+      "content": "你停止移动站定的那一刻",
+      "music": 0.0
+    },
+    {
+      "from": 134.28,
+      "to": 137.64,
+      "sid": 58,
+      "location": 2,
+      "content": "应当是你感受到自己已经完成二次瞄准",
+      "music": 0.0
+    },
+    {
+      "from": 137.64,
+      "to": 139.42,
+      "sid": 59,
+      "location": 2,
+      "content": "准备开火的那一刻",
+      "music": 0.0
+    },
+    {
+      "from": 139.42,
+      "to": 140.38,
+      "sid": 60,
+      "location": 2,
+      "content": "也就是说",
+      "music": 0.0
+    },
+    {
+      "from": 140.38,
+      "to": 143.62,
+      "sid": 61,
+      "location": 2,
+      "content": "你第二次调整开火时所移动的这个距离",
+      "music": 0.0
+    },
+    {
+      "from": 143.62,
+      "to": 146.96,
+      "sid": 62,
+      "location": 2,
+      "content": "是取决于你能多快的去做第二次瞄准的",
+      "music": 0.0
+    },
+    {
+      "from": 146.96,
+      "to": 148.78,
+      "sid": 63,
+      "location": 2,
+      "content": "你瞄的越快越准",
+      "music": 0.0
+    },
+    {
+      "from": 148.78,
+      "to": 150.649,
+      "sid": 64,
+      "location": 2,
+      "content": "走位的距离就可以越短",
+      "music": 0.0
+    },
+    {
+      "from": 150.649,
+      "to": 152.269,
+      "sid": 65,
+      "location": 2,
+      "content": "如果瞄准的能力不够",
+      "music": 0.0
+    },
+    {
+      "from": 152.269,
+      "to": 154.589,
+      "sid": 66,
+      "location": 2,
+      "content": "就需要去走更长一些的距离",
+      "music": 0.0
+    },
+    {
+      "from": 154.589,
+      "to": 157.06,
+      "sid": 67,
+      "location": 2,
+      "content": "为你的瞄准提供更多的时间",
+      "music": 0.0
+    },
+    {
+      "from": 157.06,
+      "to": 160.5,
+      "sid": 68,
+      "location": 2,
+      "content": "我们的目的就是保证自己一旦站定就要开枪",
+      "music": 0.0
+    },
+    {
+      "from": 160.5,
+      "to": 162.72,
+      "sid": 69,
+      "location": 2,
+      "content": "一旦开枪就能打出击杀",
+      "music": 0.0
+    },
+    {
+      "from": 162.72,
+      "to": 165.73,
+      "sid": 70,
+      "location": 2,
+      "content": "为什么也很多人不建议随意学习摆设",
+      "music": 0.0
+    },
+    {
+      "from": 165.73,
+      "to": 167.95,
+      "sid": 71,
+      "location": 2,
+      "content": "因为实战力刻意的使用摆设",
+      "music": 0.0
+    },
+    {
+      "from": 167.95,
+      "to": 170.31,
+      "sid": 72,
+      "location": 2,
+      "content": "实际上是拉长了你们的对枪时间",
+      "music": 0.0
+    },
+    {
+      "from": 170.31,
+      "to": 172.05,
+      "sid": 73,
+      "location": 2,
+      "content": "是影响击杀效率的",
+      "music": 0.0
+    },
+    {
+      "from": 172.05,
+      "to": 176.02,
+      "sid": 74,
+      "location": 2,
+      "content": "实际上摆设就是来回的反复调整移动和瞄准",
+      "music": 0.0
+    },
+    {
+      "from": 176.02,
+      "to": 179.78,
+      "sid": 75,
+      "location": 2,
+      "content": "而真正的高效率枪是指调整一次移动和瞄准",
+      "music": 0.0
+    },
+    {
+      "from": 179.78,
+      "to": 180.98,
+      "sid": 76,
+      "location": 2,
+      "content": "就能达到击杀",
+      "music": 0.0
+    },
+    {
+      "from": 180.98,
+      "to": 183.48,
+      "sid": 77,
+      "location": 2,
+      "content": "所以在大家学习各种技巧之前",
+      "music": 0.0
+    },
+    {
+      "from": 183.48,
+      "to": 186.02,
+      "sid": 78,
+      "location": 2,
+      "content": "一定要先了解瞄准和移动的关系",
+      "music": 0.0
+    },
+    {
+      "from": 186.02,
+      "to": 187.42,
+      "sid": 79,
+      "location": 2,
+      "content": "避免邯郸学步",
+      "music": 0.0
+    },
+    {
+      "from": 187.42,
+      "to": 190.06,
+      "sid": 80,
+      "location": 2,
+      "content": "我之后会分享更多的游戏心得",
+      "music": 0.0
+    },
+    {
+      "from": 190.06,
+      "to": 191.3,
+      "sid": 81,
+      "location": 2,
+      "content": "下期再见",
+      "music": 0.0
+    }
+  ]
+}
