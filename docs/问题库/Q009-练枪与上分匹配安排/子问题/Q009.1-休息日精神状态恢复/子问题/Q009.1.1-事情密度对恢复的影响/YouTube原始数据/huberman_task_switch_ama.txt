@@ -1,0 +1,839 @@
+[00:00] ANDREW HUBERMAN: Welcome to the Huberman Lab podcast,
+[00:02] where we discuss science and science-based tools
+[00:04] for everyday life.
+[00:05] [MUSIC PLAYING]
+[00:09] I'm Andrew Huberman.
+[00:10] I'm a Professor of Neurobiology and Ophthalmology
+[00:13] at Stanford School of Medicine.
+[00:15] Today is an Ask Me Anything episode, or AMA.
+[00:19] This is part of our premium subscriber channel.
+[00:21] Our premium subscriber channel was started in order
+[00:24] to provide support for the standard Huberman Lab
+[00:27] podcast, which comes out every Monday
+[00:29] and is available at zero cost to everybody
+[00:31] on all standard feeds--
+[00:32] YouTube, Apple, Spotify and elsewhere.
+[00:34] We also started the premium channel as a way
+[00:36] to generate support for exciting research being done at Stanford
+[00:39] and elsewhere, research on human beings that
+[00:42] leads to important discoveries that
+[00:44] assist mental health, physical health, and performance.
+[00:47] I'm also pleased to inform you that for every dollar
+[00:49] the Huberman Lab Premium channel generates for research studies,
+[00:52] the Tiny Foundation has agreed to match that amount.
+[00:55] Now, we are able to double the total amount of funding
+[00:58] given to studies of mental health, physical health,
+[01:01] and human performance.
+[01:02] If you'd like to subscribe to the Huberman Lab podcast
+[01:05] Premium channel, please go to hubermanlab.com/premium.
+[01:09] It is $10 a month to subscribe, or you can pay $100 all at once
+[01:14] to get an entire 12-month subscription for a year.
+[01:17] We also have a lifetime subscription model
+[01:19] that is a one-time payment.
+[01:21] Again, you can find that option at hubermanlab.com/premium.
+[01:24] For those of you that are already subscribers
+[01:26] to the premium channel, please go to hubermanlab.com/premium
+[01:30] and download the premium subscription feed.
+[01:32] For those of you that are not Huberman Lab podcast Premium
+[01:35] subscribers, you can still hear the first 20 minutes
+[01:37] of today's episode and determine whether or not
+[01:39] becoming a premium subscriber is for you.
+[01:42] Without further ado, let's get to answering your questions.
+[01:46] The first question is about task switching.
+[01:49] The specific question is, is there
+[01:52] a way to get better at task switching?
+[01:55] Task switching is an incredibly interesting topic.
+[01:58] It's something that plagues many people.
+[02:01] That is, a lot of people have challenges with task switching.
+[02:04] It's also a topic that people will often confuse
+[02:07] with cognitive flexibility.
+[02:10] All of us, unless it's been removed,
+[02:13] have an area of our brain called the prefrontal cortex.
+[02:16] The words prefrontal cortex actually
+[02:18] refers to a fairly varied real estate within the human brain.
+[02:22] It's not one area of the human brain.
+[02:24] Prefrontal cortex actually includes a lot
+[02:26] of different subdivisions that do different things
+[02:28] in the context of cognition and directing action,
+[02:32] withholding action, these kinds of things.
+[02:34] One of the main functions of the prefrontal cortex
+[02:36] is that when it's working well, it
+[02:39] allows us to direct our focus and our cognition,
+[02:42] our thinking, in a context-dependent way.
+[02:47] One of the simplest ways to describe this
+[02:49] is that when you took math in high school
+[02:52] or if you're still taking math, your brain
+[02:53] had to carry out certain types of cognitive operations
+[02:56] that were very different than the types
+[02:57] of cognitive operations that you need
+[02:59] to carry out in your history class or your social studies
+[03:02] class.
+[03:03] There were some features of all three
+[03:05] of those classes that were the same,
+[03:08] in the sense that presumably, you
+[03:10] had to sit in a chair for all of those classes.
+[03:12] You followed a certain set of rules
+[03:13] that pertained to all three of those different classes,
+[03:16] even though there are different subjects.
+[03:17] But then, there were certain rules that pertained just
+[03:19] to mathematics, certain rules that you followed
+[03:22] because a particular teacher was strict-- not because
+[03:24] of the topic they were covering--
+[03:26] as well as certain rules that maybe you did not pay attention
+[03:28] to because a different teacher was a little more lax.
+[03:31] For instance, maybe there was a teacher
+[03:32] that let you put your feet up on the chair in front of you.
+[03:34] Maybe, another teacher forbid that at all costs.
+[03:37] The point being that your prefrontal cortex
+[03:39] is the area of your brain that, along with other areas
+[03:42] of your brain, ensures that you engage
+[03:44] in context-specific behavior, context-specific thinking
+[03:48] and context-specific understanding about what
+[03:53] you should and should not do.
+[03:54] Now, cognitive flexibility is similar,
+[03:57] in the sense that it describes your ability to switch
+[04:01] the types of cognitive operations--
+[04:03] as the name suggests--
+[04:04] depending on what sorts of things
+[04:06] you're trying to learn or understand.
+[04:08] It's a lot more extensive than that.
+[04:09] In fact, we will probably do an entire episode
+[04:11] all about both cognitive flexibility and perhaps,
+[04:14] even a separate episode on task switching.
+[04:16] Task switching is somewhat distinct
+[04:18] from cognitive flexibility.
+[04:19] First of all task, switching requires cognitive flexibility,
+[04:23] but they are not the same thing.
+[04:25] Now, when we talk about task switching-- or rather,
+[04:27] when you see task switching in the scientific literature--
+[04:30] most often, it has to do with people
+[04:33] performing one particular type of mental or physical
+[04:37] operation.
+[04:38] Say, they're maneuvering things with their hands
+[04:41] or other parts of their body, or they
+[04:44] are required to carry out one specific type
+[04:46] of mental process.
+[04:48] And then, they are required, either at random intervals
+[04:52] or at specific intervals-- maybe every 10 minutes
+[04:54] or so-- to switch their attention
+[04:57] and to do a different task entirely.
+[04:59] In the laboratory experiment situation,
+[05:02] this has most typically been carried out the following way.
+[05:04] People are going to do one cognitive task, maybe
+[05:08] mathematics, or they're going to count, for instance, from 1
+[05:13] up to infinity, as high as they can
+[05:16] go in a given amount of time, in increments of say,
+[05:19] 7 or increments of 7 plus 1 then 7 minus 1.
+[05:24] These can be made increasingly difficult. You get the idea.
+[05:27] And then perhaps, a tone is played
+[05:29] or they'll get a signal from the experimenter.
+[05:31] They need to switch their task to doing something quite
+[05:34] different, but also cognitive.
+[05:35] That's the most typical arrangement.
+[05:38] Another typical arrangement in a task switching experiment
+[05:41] is that the person in the task switching experiment
+[05:43] will be asked to do some sort of physical manipulation
+[05:47] of objects, maybe placement of puzzle pieces
+[05:49] into the correct configuration.
+[05:51] Then at some designated interval or intervals,
+[05:55] they will have to switch to a different manual task.
+[05:59] Fewer-- not zero, but fewer-- experiments
+[06:02] have examined task switching between
+[06:04] physical and cognitive tasks.
+[06:08] There are these kind of outrageous examples
+[06:10] that you can find on the internet.
+[06:11] By the way, I don't suggest that anyone
+[06:13] go engage in these examples in real life of extreme task
+[06:17] switching.
+[06:17] One of the most notable ones would be chess boxing.
+[06:20] Believe it or not, this exists, where
+[06:22] two people will enter a ring.
+[06:23] They will sit down at a table.
+[06:26] They will play chess for a given period of time.
+[06:30] They're entirely focused on playing chess.
+[06:32] Then a buzzer will go off.
+[06:33] The chess table will be cleared.
+[06:35] The chairs will be cleared.
+[06:36] They will be expected to box, literally
+[06:38] fight, for a round of a minute to three minutes,
+[06:42] and then, go back to chess, then to boxing, so-called chess
+[06:45] boxing.
+[06:46] Again, I'm not suggesting people chess box.
+[06:48] But I know that many people have challenges with task switching.
+[06:53] Here, I can raise my hand and say that I am one such person.
+[06:56] I've always had a pretty good ability to drop into deep focus
+[07:01] after a period of time.
+[07:02] I, like everybody else, take a little bit of time
+[07:04] to get into a book chapter or to get
+[07:07] into a mode of physical exercise.
+[07:09] But once I'm doing something, I tend
+[07:11] to be very focused on that.
+[07:12] I have a much greater challenge in switching out
+[07:15] of that focused mode to doing the next thing, which
+[07:17] is one of the reasons why oftentimes, I run tardy,
+[07:20] because I'm still mentally thinking about or physically
+[07:23] engaged in the thing that I was doing before.
+[07:26] This is something I'm constantly working on.
+[07:27] As a consequence, I've had to seek out and implement
+[07:30] certain tools to improve my ability to task switch.
+[07:32] I'm going to share a few of those tools with you
+[07:34] now, because I know a number of people
+[07:36] probably struggle with the same thing.
+[07:39] As I mentioned earlier, I'm also going
+[07:41] to do a full-length episode about task switching,
+[07:43] both the underlying mechanisms of task switching as well
+[07:46] as a more extensive list of tools related
+[07:48] to task switching, as a full-length Huberman Lab
+[07:50] podcast episode.
+[07:52] How can we get better at task switching?
+[07:54] Short of having somebody scruff you by the neck
+[07:56] and force you to stop whatever activity you're doing
+[07:58] and engage in the next activity that you're doing,
+[08:01] one of the best things that we can
+[08:02] do to support our ability to task switch-- that's nicely
+[08:06] supported both at the mechanistic level
+[08:08] and at the practical level within the published
+[08:11] literature-- is to introduce short transition
+[08:14] gaps between the activities that we're trying to switch between.
+[08:18] This is something that, in my opinion,
+[08:20] has not been discussed enough.
+[08:21] In fact, when was the last time you heard about the requirement
+[08:24] for introducing gaps between tasks
+[08:27] if you want to switch between them more efficiently?
+[08:29] And yet, as a consequence of this
+[08:30] not being discussed very often, I think a lot of people
+[08:33] have placed an undue burden on themselves.
+[08:36] For instance, a lot of people think that when
+[08:38] you sit down with a book and you're going to read,
+[08:40] that you should be able to immediately focus
+[08:44] on the material that you're reading
+[08:45] and not have your mind flitting about.
+[08:47] During the first five, maybe even 10 minutes
+[08:50] of reading a book chapter, unless you are absolutely
+[08:54] enthralled from the first word, or you
+[08:57] are intensely curious what the material in that book chapter
+[09:02] is--
+[09:03] maybe that book chapter is about you
+[09:04] and what's going to happen to you next in your life.
+[09:06] Maybe the news article is about something
+[09:08] that you care oh so much about.
+[09:09] But unless it's one of those specific instances,
+[09:13] it's going to be about five or 10
+[09:15] minutes before the neural circuits
+[09:16] in your brain that are required to understand
+[09:19] and digest and commit that material to memory
+[09:22] are going to come online at the levels of activity that
+[09:25] are going to be required for you to experience
+[09:28] that as intense focus, or even as mild focus.
+[09:32] The activity of the brain is always
+[09:34] going to be in a push-pull.
+[09:35] This is extremely important for understanding task switching.
+[09:38] When you go from one task--
+[09:40] and maybe the task was simply to walk over
+[09:42] to where the book is located--
+[09:43] to focusing on the material within that book,
+[09:47] you have to both engage activity within certain neural circuits
+[09:51] and you need to disengage the activity
+[09:54] of other neural circuits.
+[09:55] Sometimes, this is referred to as inhibition
+[09:58] of certain neural circuits.
+[09:59] Other times, it's just going to be a dissipation of activity
+[10:01] of those neural circuits.
+[10:02] They're just going to quiet down,
+[10:04] like a dimming of the lights in a particular room,
+[10:06] while the activity of other neural circuits increases.
+[10:10] The first thing that you really need to understand,
+[10:12] if you want to get better at task switching,
+[10:14] is that you cannot and you should not expect yourself
+[10:16] to immediately drop into a narrow trench of focus,
+[10:20] or a narrow trench of ability, for anything that you're not
+[10:23] already extremely skilled at or extremely interested
+[10:28] in knowing.
+[10:29] One of the reasons why this is often overlooked
+[10:31] is that, for instance, if we receive a text
+[10:35] message from somebody and we are very interested in what's
+[10:38] contained in that text message, maybe even eagerly anticipating
+[10:41] the dot, dot, dot in that little window
+[10:44] where the text message is going to arrive-- like here it comes.
+[10:46] Here it comes.
+[10:47] It's an example of where you are able to immediately pay
+[10:51] attention and absorb information.
+[10:53] For instance, if you're trying to meet somebody in a big city,
+[10:56] and you need to know exactly where to meet them,
+[10:57] and you've arrived at the place where
+[10:59] you thought you need to be and then, you can't find them.
+[11:01] You're waiting.
+[11:01] Where are you?
+[11:03] You're going to commit that information to memory
+[11:04] and you're going to act on it.
+[11:06] But when you sit down to read a book of unknown content,
+[11:08] or where you have just a general sense of what the content is,
+[11:11] or when you sit down to do something like work
+[11:13] on a spreadsheet or your taxes, or engage
+[11:16] in a conversation with somebody, expect a five to 10 minute
+[11:19] transition period.
+[11:20] I can't emphasize this enough, because I think a lot of people
+[11:23] mistakenly think that they have issues with attention.
+[11:27] Perhaps indeed, they have clinically diagnosable
+[11:29] attention deficit hyperactivity disorder
+[11:32] or some other form of attention deficit disorder.
+[11:35] I certainly can't rule that out based on this conversation
+[11:38] alone.
+[11:38] But a lot of people place this unfair burden on themselves
+[11:43] to immediately be able to focus on a given task.
+[11:46] This is also true for physical tasks.
+[11:48] If you go to the gym to work out or you're heading out
+[11:52] on a run or a cycling expedition,
+[11:55] the idea that you would immediately be able to cycle
+[11:59] at your peak performance, or that you could perform sets
+[12:02] and reps in the gym as best as you possibly
+[12:04] could without any warm-up, without any transition period,
+[12:07] that you could forget about the difficult or maybe even great
+[12:10] conversation that you were having on the way in,
+[12:12] or that you could forget about other activities
+[12:14] that you need to do in the rest of your day,
+[12:16] that's just completely unfair.
+[12:18] It doesn't match at all the way that your neural circuits work.
+[12:22] You really need to match your expectation of your ability
+[12:26] to focus on and perform a given task,
+[12:28] whether or not it's cognitive or physical, to
+[12:30] the actual underlying biology.
+[12:32] That's the first point.
+[12:33] The second point is that we know that if you want to switch from
+[12:38] one task to another task, that you are making it more
+[12:43] difficult to drop into full-task engagement-- or rather,
+[12:48] engagement with task B following task A,
+[12:52] if you try and go immediately from task A to task B--
+[12:55] that even the introduction--
+[12:57] I find this so cool-- even the introduction
+[12:59] of an arbitrary but very short transition period of say,
+[13:04] 15 seconds, where you know that you're introducing
+[13:07] 15 seconds of transition and you designate it as transition,
+[13:11] will allow you to engage in a more efficient and more
+[13:13] complete level of task execution on task B
+[13:18] if you introduce even a brief transition period.
+[13:22] This I find fascinating, because what this means
+[13:25] is that there are top down influences.
+[13:28] There are literally things that we can tell ourselves,
+[13:30] based on an understanding of the underlying mechanisms, that
+[13:33] allow us to task switch better.
+[13:35] This certainly doesn't involve taking any kind of prescription
+[13:38] drug or supplement or doing anything differently,
+[13:40] except as you go from task A to task B,
+[13:44] knowing and designating that a transition period, even a very
+[13:49] brief one where you are not trying to perform task B
+[13:53] and that you've designated this as a transition period.
+[13:55] I'm not trying to focus on the next thing that I need to do.
+[13:59] I might focus on it inadvertently,
+[14:01] but I'm not deliberately trying to focus on it.
+[14:05] Rather, I'm going to think about what I just did
+[14:07] and the fact that I'm no longer doing that, kind of leaving it
+[14:10] like a fog behind.
+[14:12] You're trying to move from this deep trench of attention,
+[14:15] hopefully on task A-- or maybe, you
+[14:16] didn't achieve a deep trench of attention--
+[14:18] and you're now done with task A. You're not
+[14:22] placing this unfair expectation on your neural circuits
+[14:25] to just flip to task B. You're also acknowledging
+[14:29] that task B is going to take five to 10 minutes to drop
+[14:32] into fully.
+[14:32] We already talked about that.
+[14:34] But you're going to shorten that five to 10 minutes
+[14:36] by deliberately introducing a transition period.
+[14:40] What comes in that transition period and its duration
+[14:43] is important.
+[14:44] First, let's deal with the duration.
+[14:46] How long should the transition period be?
+[14:49] That is going to scale directly with how long you
+[14:53] are in a deep trench of focus for task A. Let's
+[14:55] assume task A was something that was kind of light for you.
+[14:58] Maybe, you're just handling some email.
+[14:59] Maybe, you're talking to a coworker.
+[15:01] Maybe, you were at a board meeting
+[15:03] and it was kind of light.
+[15:04] The stuff was just OK.
+[15:06] You're used to this stuff.
+[15:07] This is stuff that you do all the time.
+[15:08] Now, you're headed back to your desk
+[15:10] or you're headed to your next class.
+[15:11] Or perhaps, you did a workout that morning
+[15:14] and now, you're going to head to your place of work.
+[15:17] Or maybe, you're leaving work and you're
+[15:18] going to engage with family.
+[15:21] You know need to switch all these cognitive operations.
+[15:24] You need to dump the stuff that you were just
+[15:26] doing cognitively, and you now need
+[15:28] to do a bunch of other things.
+[15:29] Context is switching.
+[15:31] Task is switching.
+[15:33] Just ask yourself, how deeply was I
+[15:36] entrenched in that other activity?
+[15:37] Was my mind flitting to other things?
+[15:40] If I was in a deep trench of attention for that given thing,
+[15:44] then you should give yourself slightly longer
+[15:47] for this transition period, maybe five or even 10 minutes
+[15:50] if you have that time.
+[15:52] Even if you give yourself as short as 60 to 90 seconds
+[15:55] of transition and you just designate it as transition,
+[15:58] you're going to benefit in terms of your ability
+[16:00] to do the next task.
+[16:02] To be very clear, if you were in kind of a light task
+[16:04] or something that didn't have much cognitive demand,
+[16:07] then the transition period can be fairly short.
+[16:09] It can be just a couple of minutes.
+[16:12] Rather, if you were in a deep trench of attention,
+[16:14] you really engaged in that first task,
+[16:17] I suggest giving yourself a couple
+[16:18] of minutes or more, maybe as much as five to 10 minutes.
+[16:21] But you might not have that much time.
+[16:23] In which case, give yourself any kind of transition,
+[16:25] even if it's 10 seconds.
+[16:27] I certainly have had times in my life,
+[16:29] in particular when I was a new assistant professor before I
+[16:32] got tenure, where I remember sitting down
+[16:34] to work on a grant.
+[16:35] I'd get two lines out.
+[16:36] Someone would knock on the door.
+[16:37] Hey, where are the whatever, the 30 mil syringes?
+[16:40] Where do we keep the buffers?
+[16:42] Did we get this thing in?
+[16:44] And then, I'd have to shift my attention
+[16:46] and go back to writing.
+[16:47] I'd be distracted by something else again.
+[16:49] Which is not to say that people were distracting me unfairly.
+[16:51] It was simply the case that, at that time,
+[16:54] my life required being involved in a lot more things
+[16:57] than it did as my career progressed,
+[16:59] at least in the short term.
+[17:02] The point being that if you are deeply engaged in an activity,
+[17:04] give yourself a little bit longer in the transition period
+[17:07] between them.
+[17:07] If you are sort of superficially involved in an activity,
+[17:11] you need less of a transition period.
+[17:13] But you need a transition period.
+[17:14] What should come during that transition period?
+[17:17] The most important thing to arrive in that transition
+[17:19] period is a relative lack of attention to anything new.
+[17:24] This is what's so destructive about the phone.
+[17:26] Keep in mind, I am not one of these people that thinks
+[17:29] that smartphones are terrible.
+[17:30] In fact, I use mine plural, very often, all day, often.
+[17:36] Not necessarily during deep cognitive
+[17:38] focus, but in between those bouts of focus,
+[17:40] I have to text message people.
+[17:42] I do work on there.
+[17:43] I'm on social media, so certainly
+[17:45] not demonizing the smartphone.
+[17:47] However, if you finish a given activity--
+[17:50] whether or not it's cognitive or physical activity--
+[17:52] and you are headed to something else that requires you do a new
+[17:57] task, and that task requires significant amounts
+[18:00] of attention and focus, then you would do very well to allow
+[18:04] yourself a period of anywhere from two minutes to maybe,
+[18:07] as long as 10 minutes--
+[18:08] I know this is going to be very hard for people--
+[18:10] but two minutes to as long as 10 minutes
+[18:12] where you are not looking at your phone.
+[18:14] You're not texting.
+[18:16] You're not on social media.
+[18:17] You're not foraging for anything.
+[18:19] In fact, you're trying to limit the total amount of information
+[18:22] that you're bringing into your nervous system.
+[18:23] Now, you don't have to walk around with eyes closed
+[18:25] and try and not hear and not see.
+[18:27] Let's be practical, folks.
+[18:28] That's impossible to do anyway.
+[18:29] You can't shut down your brain while awake.
+[18:32] You can go into states of deeper relaxation.
+[18:35] There's a non-sleep deep rest, which we'll
+[18:37] talk about in a little bit.
+[18:38] But you can't shut off your brain deliberately,
+[18:41] not in any healthy way that is.
+[18:43] But by introducing these transition zones, or transition
+[18:47] periods as we'll call them, of two to 10 minutes
+[18:50] between different tasks, and making sure
+[18:52] that within those transition periods,
+[18:53] you are not bringing in new information-- again,
+[18:57] another context and what are you really doing?
+[18:59] You're ensuring that you're not going from task A to task B
+[19:02] to task C.
+[19:04] What we're talking about here is trying
+[19:06] to limit your task switching between task A and task B
+[19:10] and not introducing another task in between.
+[19:12] You might think that looking at your phone is not a task.
+[19:16] It's so easy.
+[19:17] It's so reflexive.
+[19:18] But it is.
+[19:19] It's bringing in a lot of new context,
+[19:22] in particular pictures and movies which
+[19:24] are tremendous stimulus for the nervous system
+[19:26] and anchoring your attention.
+[19:27] It's bringing in new ideas, new thoughts
+[19:29] that no matter how hard you try, are
+[19:31] going to intrude into your ability to perform task B. When
+[19:36] people say, how do I get better at task switching,
+[19:39] I immediately want to say, please
+[19:41] don't introduce yet more tasks.
+[19:43] Switching from one task to another is hard enough already.
+[19:46] Don't introduce another task in between.
+[19:48] Some of you might take this to mean
+[19:50] that you shouldn't have a conversation
+[19:52] with a coworker after a meeting while walking down the hall.
+[19:54] I'm not saying that.
+[19:55] I still encourage people to be social.
+[19:58] I encourage people to engage in workplace environments.
+[20:00] However, I will say, after many years
+[20:03] of working in laboratories that at times were quite
+[20:05] large, if you walk into the lab and there
+[20:07] are a lot of different things going on,
+[20:09] one of the things that you learn how to do,
+[20:10] if you're going to get good at your craft,
+[20:12] is to not pay attention to what's
+[20:15] going on with everyone crowded around a computer looking
+[20:17] at who's winning at the World Cup.
+[20:19] I'm not trying to insult soccer players here.
+[20:21] I enjoy soccer, both playing it and observing it.
+[20:23] But one has to scruff themselves a little bit in trying
+[20:28] to limit their attention to a number of different things
+[20:31] in the environment, and really go from task A
+[20:33] to task B in a really dedicated way.
+[20:36] Short lists benefit certain people.
+[20:38] I know a lot of people are list makers out there.
+[20:40] They like to put two or three things, or maybe 20 things
+[20:43] that they're going to accomplish each day.
+[20:45] One of the best tools that I ever
+[20:47] learned, both for the sake of task switching
+[20:49] but also for sake of just getting things
+[20:51] done on a consistent basis--
+[20:52] I picked up while I was a master's student
+[20:54] at Berkeley-- a very accomplished professor
+[20:57] at that time told me that he writes down every day three
+[21:00] things that he's going to accomplish
+[21:01] and only three things, never more than three.
+[21:05] He also included other activities.
+[21:06] In fact, he was quite active in his physical life.
+[21:10] He rode his bike to campus.
+[21:11] He also was a runner.
+[21:13] He also went to the gym.
+[21:14] He did not include those on his list of three things.
+[21:16] He would write down no more than three critical things
+[21:19] to do each day.
+[21:20] He had three critical tasks.
+[21:23] I've employed that method as well.
+[21:25] I'll write down one, sometimes two, most often three,
+[21:28] but if I can, just one or two tasks that I
+[21:31] need to complete each day.
+[21:32] Everything else is considered part of the,
+[21:34] let's just say, automaticity function
+[21:37] of my day, things that I already know how to do.
+[21:39] They don't require a ton of cognitive focus.
+[21:41] But I limit the things that require
+[21:42] a lot of cognitive focus to three things per day.
+[21:45] However, those three things per day
+[21:46] can take up many, many hours each
+[21:48] and certainly, on the whole.
+[21:50] There are additional things that one
+[21:51] can do to improve your ability to task switch.
+[21:53] One of the things that I found particularly beneficial
+[21:56] is not a meditation, but rather, is a perceptual exercise.
+[22:00] This is a perceptual exercise that I
+[22:02] learned about when I was a graduate student,
+[22:04] but in a totally different context.
+[22:05] It has to do with the way that your visual system
+[22:08] and the parts of your brain that parse time
+[22:12] are related to one another and influence one another.
+[22:14] The reason this tool makes sense for improving your ability
+[22:17] to task switch is because it turns out
+[22:20] that where you focus your visual attention strongly
+[22:22] influences the way that your brain parses time.
+[22:27] I'll describe the tool first.
+[22:28] And then, I'll get a little bit into the underlying mechanisms.
+[22:31] Again, I'll get deep into the underlying mechanisms, as well
+[22:34] as the tool, as well as additional tools,
+[22:36] in a future episode about task switching on the Huberman Lab
+[22:38] podcast.
+[22:41] If you were to, for instance, close your eyes
+[22:45] and not look at anything in your external environment
+[22:48] and just concentrate, for instance,
+[22:50] on your breathing or the feeling on the surface of your skin--
+[22:53] I know this is starting to sound like meditation, but trust me,
+[22:55] it's not meditation--
+[22:57] your perception of time, that is, how finely you
+[23:00] are slicing time, would be distinctly different
+[23:04] than if you were to open your eyes
+[23:06] and focus on a faraway location, say way off in the horizon,
+[23:11] and not focus on your bodily sensations.
+[23:15] Similarly, if you were to focus your attention
+[23:17] on some intermediate location, maybe,
+[23:20] let's say, 20 feet away and simultaneously,
+[23:24] focus on your internal bodily sensations
+[23:27] or the surface of your skin, your perception of time how
+[23:31] quickly time was passing would also
+[23:34] be different than if you closed your eyes
+[23:36] or if you were looking at some distant location.
+[23:39] The perceptual tool for task switching is a very simple one.
+[23:42] It's one that frankly, I do every morning
+[23:44] and have for many years now and at least, for me, has really
+[23:47] enhanced my ability to task switch.
+[23:50] That is, just take a couple of minutes.
+[23:52] This really only takes about two or three minutes.
+[23:54] Typically, what I will do is, I'll start by closing my eyes.
+[23:58] I should mention, I typically do this
+[23:59] in an environment where ideally, I
+[24:01] can see off into the distance, perhaps from a balcony
+[24:04] if I'm in an apartment or a house, ideally outdoors.
+[24:08] But if I'm indoors, I'll still do this.
+[24:09] I'll just look as far off into the distance
+[24:12] as I can when that step is required.
+[24:15] I start off by closing my eyes and essentially not looking
+[24:18] at anything, but directing my brain's focus
+[24:20] to either the surface of my body,
+[24:22] just what it feels like, what it's in contact with or not
+[24:24] in contact with, maybe my breathing.
+[24:26] Then, I'll open my eyes and I will
+[24:28] focus on some location on my body but my bodily surface,
+[24:31] like my hand at some distance.
+[24:34] I'll focus my attention there maybe
+[24:36] for just five to 15 seconds.
+[24:38] I should mention that the first station,
+[24:40] as I call them, where my eyes were closed
+[24:42] and I was focusing on my bodily sensations,
+[24:44] I also just do that for about five to 15 seconds.
+[24:46] I don't count specifically, just roughly five to 15 seconds.
+[24:52] Second station, you're looking at the surface of your hand.
+[24:55] If you like, you can also concentrate on your breathing.
+[24:58] But typically, people will just focus on some specific location
+[25:01] on their hand.
+[25:02] Then, I'll typically lower my hand.
+[25:04] Then, I'll look off into the distance, maybe
+[25:05] five to 10 feet.
+[25:06] It doesn't really matter.
+[25:07] Focus my visual attention there.
+[25:09] Try and hold that focus for five to 15 seconds.
+[25:11] Then, I'll look further off in the distance, maybe, further
+[25:15] still off into the distance.
+[25:17] Ultimately, what I try and do is look at a location
+[25:19] as far off into the distance as I possibly can.
+[25:25] I'm also trying to pay attention to my breathing
+[25:27] at the same time, just as a way of calibrating
+[25:29] my location to the location that I'm looking at
+[25:33] and how great that is.
+[25:34] Then typically, I'll close my eyes
+[25:36] and return my attention to my immediate environment
+[25:38] and my breathing just in the location I'm in.
+[25:41] The entire thing only takes about two minutes.
+[25:44] Again, starting with eyes closed, focusing on self five
+[25:47] to 15 seconds.
+[25:48] Then, eyes open, focusing on surface of one's body, that is,
+[25:52] focusing one's visual attention five to 15 seconds maybe
+[25:54] 10 feet away, then maybe, 50 feet away.
+[25:58] If you're in the metric system, meters works just as well.
+[26:01] These distances do not have to be precise.
+[26:04] And then, off to the horizon and then,
+[26:07] back to one's immediate location by closing one's eyes.
+[26:10] What is happening when one does this perceptual exercise?
+[26:14] Again, it's a perceptual exercise.
+[26:15] It's a visual perceptual exercise.
+[26:18] What's happening is, you are shifting
+[26:20] your visual focus, obviously.
+[26:23] But you're also shifting the way in which you
+[26:26] fine slice or thick slice time.
+[26:29] Your ability to recognize, consciously, whether or not
+[26:32] your thin slicing or thick slicing time is much harder
+[26:36] to get a grasp of than it is to get a grasp of whether
+[26:39] or not you're looking at your hand or off in the distance.
+[26:41] That's kind of obvious.
+[26:42] But what we know for sure is that as you
+[26:44] shift your attention from your immediate environment
+[26:46] out to different designated locations in your environment,
+[26:49] and your time perception shifts accordingly,
+[26:52] you're essentially training your brain
+[26:54] to shift visual focus and the way in which you
+[26:56] process in the time domain.
+[26:59] This is important in the context of task switching,
+[27:01] because so much of task switching
+[27:03] is not just to understand OK, I'm
+[27:07] going from reading to running or from running to reading
+[27:11] and the different types of operations that are required
+[27:13] in one case versus the other, but also,
+[27:16] a shift in the neural circuits that underlie
+[27:20] your perception of time.
+[27:22] Again, this is a topic that deserves a much more
+[27:24] elaborate discussion.
+[27:26] So much of our ability to execute a task
+[27:30] with high proficiency has to do with getting
+[27:33] our thinking and our actions into the correct time domain.
+[27:37] When I say time domain, I know a number of people
+[27:39] can get confused because time is time.
+[27:42] People think, what do you mean by time domain?
+[27:44] Space domain makes sense.
+[27:46] Here, I'm not talking about outer space,
+[27:47] whether or not you're looking in one location or another close
+[27:51] to your body or far away from your body
+[27:52] are different domains of space.
+[27:55] But the time domain is a little trickier for most people
+[27:58] to understand.
+[27:58] Just think of it this way.
+[28:00] When you see a slow motion movie, what you're seeing
+[28:03] is a movie that was shot at a high frame
+[28:05] rate, many frames per second.
+[28:08] The typical smartphone shoots movies
+[28:09] at about 60 frames per second, some older ones,
+[28:12] 30 frames per second.
+[28:13] The slow-mo function on your smartphone
+[28:17] is actually a high frame rate function.
+[28:20] You took the same movie, but you took it at a higher frame rate.
+[28:24] You've got a lot more images.
+[28:26] Therefore, you can generate slow motion.
+[28:28] With your visual system, when you
+[28:29] focus very close in to your body or you're
+[28:32] focused on bodily sensations in your immediate environment,
+[28:36] you are fine slicing in the time domain
+[28:39] more so than when you are looking
+[28:42] further off in the distance.
+[28:44] Similarly, when you engage in one type of task,
+[28:46] like a board meeting or a Zoom meeting
+[28:48] or a conversation with friends, you
+[28:50] are in a very different set of neural circuit functions
+[28:54] than when you sit down to read or learn math or lift weights
+[28:58] or go to therapy or go for a walk with your dog,
+[29:02] for instance.
+[29:03] Now, it should be clear why when you move from task to task
+[29:06] you want to A, introduce a transition period.
+[29:11] It can be very brief.
+[29:11] Maybe, you don't even have time for the two minute transition
+[29:14] period.
+[29:14] You just say, OK.
+[29:15] I'm in a transition period between task A and task
+[29:17] B. I'm moving from this thing to that thing.
+[29:19] I just need like 10 seconds.
+[29:21] I'm going to recognize.
+[29:22] I'm going to count down 10 to one or one up to 10.
+[29:25] It doesn't matter.
+[29:26] This is transition time.
+[29:27] But this is not a time to look at my phone
+[29:31] or to be in lots of different time domains.
+[29:33] You might say, well, does that mean
+[29:36] I shouldn't look at the horizon while I'm
+[29:38] walking from my meeting back to my desk?
+[29:40] No.
+[29:41] That's not the way that your brain works.
+[29:42] It doesn't anchor to things that just happen
+[29:44] to be in your environment unless they're of particular interest.
+[29:47] What I'm saying is, set a transition period between tasks
+[29:50] ideally, two maybe as long as 10 minutes.
+[29:54] I'm also saying that when you switch between tasks,
+[29:58] or when you initiate your first major task of the day,
+[30:00] please expect--
+[30:02] do expect-- a period in which it's
+[30:05] hard to get into the groove, so to speak.
+[30:09] In addition to that, I recommend having some of practice.
+[30:12] I described the practice that I've
+[30:14] used for some period of time now, at least for me
+[30:16] to great success, where you are deliberately
+[30:19] shifting your visual attention between different locations
+[30:22] close to you and far away.
+[30:24] You're doing that as a perceptual practice.
+[30:26] Again, the whole thing only takes about two minutes,
+[30:29] maybe three minutes.
+[30:30] You don't even need to do it every day.
+[30:31] I happen to do it every day, but I miss the occasional day
+[30:34] here and there.
+[30:34] Even if you were to do this perceptual practice once a week
+[30:39] or three times a week, I'm certain that you'll benefit.
+[30:41] Because in doing that perceptual practice,
+[30:43] there's also an immediate recognition
+[30:46] of the sorts of shifts that your brain is required
+[30:48] to engage in any time you move from task A to task B
+[30:51] or from task B to task C. You start
+[30:53] to see and feel, literally see and feel,
+[30:58] the way that transition occurs.
+[31:00] It takes a little bit of time.
+[31:02] But you can accelerate that transition
+[31:04] if you understand that oh, when I'm looking here and engaging
+[31:07] in this type of behavior or sets of tasks
+[31:10] and then, I'm now going to be expected
+[31:12] to do another task in a completely
+[31:14] different type of environment, the brain is going
+[31:18] to be required to shift over the neural circuits that
+[31:20] are active and less active in order to do that.
+[31:23] You can accelerate that process by practicing
+[31:25] it using that perceptual tool that I described.
+[31:28] There, I covered some specific tools
+[31:30] that one can use to enhance one's ability to task switch,
+[31:33] touching on a bit of the underlying neurobiology
+[31:35] and why transition periods are useful, if not required.
+[31:39] If you think about there's always a transition period when
+[31:42] task switching, but here, you're taking conscious control
+[31:44] over that transition period.
+[31:45] There are additional tools for enhancing one's ability
+[31:48] to task switch.
+[31:49] They tend to be somewhat specific for the certain kinds
+[31:53] of cognitive or physical tasks that one needs to do.
+[31:56] The example of chess boxing that I gave earlier,
+[31:59] a great example of task switching
+[32:00] at its extreme, terrible example of a practice
+[32:03] space-time bridging.
+[32:04] Very safe, I can't think of any way in which it
+[32:06] might be dangerous, although please don't do it
+[32:08] while driving or while operating any other machinery.
+[32:12] By all accounts, very safe, zero cost.
+[32:13] We talked about some of the other tools
+[32:15] for task switching as well.
+[32:17] Thank you for joining for the beginning
+[32:18] of this Ask Me Anything episode.
+[32:20] To hear the full episode and to hear future episodes of these
+[32:24] Ask Me Anything sessions, plus to receive transcripts of them
+[32:28] and transcripts of the Huberman Lab podcast standard channel
+[32:31] and premium tools not released anywhere else,
+[32:34] please go to hubermanlab.com/premium.
+[32:37] Just to remind you why we launched the Huberman Lab
+[32:39] podcast Premium channel, it's really twofold.
+[32:41] First of all, it's to raise support
+[32:43] for the standard Huberman Lab podcast channel, which
+[32:46] of course, will still be continued to be released
+[32:49] every Monday in full length.
+[32:50] We are not going to change the format or anything
+[32:53] about the standard Huberman Lab podcast, and to fund research,
+[32:57] in particular, research done on human beings.
+[32:59] Not animal models, but on human beings,
+[33:01] which I think we all agree, is a species
+[33:03] that we are most interested in.
+[33:05] We are going to specifically fund
+[33:07] research that is aimed toward developing
+[33:10] further protocols for mental health, physical health,
+[33:12] and performance.
+[33:13] Those protocols will be distributed
+[33:15] through all channels, not just the premium channel,
+[33:17] but through all channels, Huberman Lab podcast
+[33:19] and other media channels.
+[33:20] The idea here is to give you information to your burning
+[33:23] questions, in depth, and allow you the opportunity
+[33:26] to support the kind of research that
+[33:28] provides those kinds of answers in the first place.
+[33:30] Now, an especially exciting feature of the premium channel
+[33:33] is that the Tiny Foundation has generously
+[33:35] offered to do a dollar-for-dollar match
+[33:38] on all funds raised for research through the premium channel.
+[33:41] This is a terrific way that they're
+[33:43] going to amplify whatever funds come in through the premium
+[33:45] channel, to further support research for science
+[33:48] and science-related tools for mental health, physical health,
+[33:50] and performance.
+[33:51] If you'd like to sign up for the Huberman Lab Premium channel,
+[33:54] again, there's a cost of $10 per month.
+[33:56] Or you can pay $100 up front for the entire year.
+[33:59] That will give you access to all the AMAs.
+[34:01] You can ask questions and get answers to your questions.
+[34:04] You'll of course get answers to all the questions
+[34:06] that other people ask as well.
+[34:08] There will also be some premium content, such as transcripts
+[34:11] of the AMAs and various transcripts and protocols
+[34:13] of Huberman Lab Podcast episodes not found elsewhere.
+[34:17] Again, you'll be supporting research
+[34:19] for mental health, physical health, and performance.
+[34:21] You can sign up for the premium channel by going
+[34:23] to hubermanlab.com/premium.
+[34:25] Again, that's hubermanlab.com/premium.
+[34:29] As always, thank you for your interest in science.
+[34:31] [MUSIC PLAYING]

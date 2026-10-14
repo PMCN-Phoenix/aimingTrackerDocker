@@ -1,0 +1,6082 @@
+{
+ "bvid": "BV1KpMn6tEi9",
+ "title": "过程极其无聊，却能让你一劳永逸地戒掉“过度思考”（双语配音-Daniel）",
+ "owner": "高维实验室",
+ "aid": 116890286557769,
+ "cid": 39795560354,
+ "duration": 1881,
+ "body": [
+  {
+   "content": "好的",
+   "from": 0.92,
+   "location": 2,
+   "music": 0.0,
+   "sid": 1,
+   "to": 1.42
+  },
+  {
+   "content": "大家好，欢迎来到这次培训",
+   "from": 1.42,
+   "location": 2,
+   "music": 0.0,
+   "sid": 2,
+   "to": 3.42
+  },
+  {
+   "content": "正如标题所示",
+   "from": 3.42,
+   "location": 2,
+   "music": 0.0,
+   "sid": 3,
+   "to": 4.7
+  },
+  {
+   "content": "我们将要讨论的内容",
+   "from": 4.7,
+   "location": 2,
+   "music": 0.0,
+   "sid": 4,
+   "to": 5.6
+  },
+  {
+   "content": "是如何停止过度思考",
+   "from": 5.6,
+   "location": 2,
+   "music": 0.0,
+   "sid": 5,
+   "to": 7.34
+  },
+  {
+   "content": "正如概述所示",
+   "from": 7.34,
+   "location": 2,
+   "music": 0.0,
+   "sid": 6,
+   "to": 9.12
+  },
+  {
+   "content": "我们将更具体地探讨",
+   "from": 9.12,
+   "location": 2,
+   "music": 0.0,
+   "sid": 7,
+   "to": 10.98
+  },
+  {
+   "content": "首先是概述本身",
+   "from": 10.98,
+   "location": 2,
+   "music": 0.0,
+   "sid": 8,
+   "to": 12.76
+  },
+  {
+   "content": "思维的幻觉",
+   "from": 12.76,
+   "location": 2,
+   "music": 0.0,
+   "sid": 9,
+   "to": 14.399
+  },
+  {
+   "content": "对控制的执念与努力的尽头",
+   "from": 14.399,
+   "location": 2,
+   "music": 0.0,
+   "sid": 10,
+   "to": 16.779
+  },
+  {
+   "content": "目标的力量",
+   "from": 16.779,
+   "location": 2,
+   "music": 0.0,
+   "sid": 11,
+   "to": 18.119
+  },
+  {
+   "content": "过度思考的自然终结",
+   "from": 18.119,
+   "location": 2,
+   "music": 0.0,
+   "sid": 12,
+   "to": 20.56
+  },
+  {
+   "content": "回顾与您当天或未来几天的行动项",
+   "from": 20.56,
+   "location": 2,
+   "music": 0.0,
+   "sid": 13,
+   "to": 23.86
+  },
+  {
+   "content": "让我们开始讨论思维的幻觉",
+   "from": 23.86,
+   "location": 2,
+   "music": 0.0,
+   "sid": 14,
+   "to": 27.65
+  },
+  {
+   "content": "好的",
+   "from": 27.65,
+   "location": 2,
+   "music": 0.0,
+   "sid": 15,
+   "to": 28.33
+  },
+  {
+   "content": "如果你正在观看",
+   "from": 28.33,
+   "location": 2,
+   "music": 0.0,
+   "sid": 16,
+   "to": 29.43
+  },
+  {
+   "content": "观看或收听这段内容",
+   "from": 29.43,
+   "location": 2,
+   "music": 0.0,
+   "sid": 17,
+   "to": 31.07
+  },
+  {
+   "content": "那你可能已经知道被困在自己头脑中的感觉",
+   "from": 31.07,
+   "location": 2,
+   "music": 0.0,
+   "sid": 18,
+   "to": 35.07
+  },
+  {
+   "content": "你可能正在夜晚躺在床上",
+   "from": 35.07,
+   "location": 2,
+   "music": 0.0,
+   "sid": 19,
+   "to": 38.37
+  },
+  {
+   "content": "反复回放三天前或三年前的对话",
+   "from": 38.37,
+   "location": 2,
+   "music": 0.0,
+   "sid": 20,
+   "to": 42.09
+  },
+  {
+   "content": "换言之",
+   "from": 42.09,
+   "location": 2,
+   "music": 0.0,
+   "sid": 21,
+   "to": 42.92
+  },
+  {
+   "content": "或者你坐在办公桌前",
+   "from": 42.92,
+   "location": 2,
+   "music": 0.0,
+   "sid": 22,
+   "to": 44.28
+  },
+  {
+   "content": "看似在工作",
+   "from": 44.28,
+   "location": 2,
+   "music": 0.0,
+   "sid": 23,
+   "to": 45.12
+  },
+  {
+   "content": "但脑海中不断设想各种可能",
+   "from": 45.12,
+   "location": 2,
+   "music": 0.0,
+   "sid": 24,
+   "to": 48.0
+  },
+  {
+   "content": "未来某件事可能出现的错误",
+   "from": 48.0,
+   "location": 2,
+   "music": 0.0,
+   "sid": 25,
+   "to": 50.12
+  },
+  {
+   "content": "你发现自己陷入循环",
+   "from": 50.12,
+   "location": 2,
+   "music": 0.0,
+   "sid": 26,
+   "to": 51.74
+  },
+  {
+   "content": "你告诉自己要停止",
+   "from": 51.74,
+   "location": 2,
+   "music": 0.0,
+   "sid": 27,
+   "to": 53.32
+  },
+  {
+   "content": "五分钟后又回到了原点",
+   "from": 53.32,
+   "location": 2,
+   "music": 0.0,
+   "sid": 28,
+   "to": 56.09
+  },
+  {
+   "content": "那个令人疲惫的无法停止的循环",
+   "from": 56.09,
+   "location": 2,
+   "music": 0.0,
+   "sid": 29,
+   "to": 59.37
+  },
+  {
+   "content": "我经历过",
+   "from": 60.45,
+   "location": 2,
+   "music": 0.0,
+   "sid": 30,
+   "to": 61.34
+  },
+  {
+   "content": "大多数人都是如此",
+   "from": 61.34,
+   "location": 2,
+   "music": 0.0,
+   "sid": 31,
+   "to": 62.56
+  },
+  {
+   "content": "但我要让你明白",
+   "from": 62.56,
+   "location": 2,
+   "music": 0.0,
+   "sid": 32,
+   "to": 64.38
+  },
+  {
+   "content": "你正在应对的其实是非常具体的事物",
+   "from": 64.38,
+   "location": 2,
+   "music": 0.0,
+   "sid": 33,
+   "to": 68.21
+  },
+  {
+   "content": "几乎像一个在后台运行的程序",
+   "from": 68.21,
+   "location": 2,
+   "music": 0.0,
+   "sid": 34,
+   "to": 71.33
+  },
+  {
+   "content": "你未安装也未同意的",
+   "from": 71.33,
+   "location": 2,
+   "music": 0.0,
+   "sid": 35,
+   "to": 73.85
+  },
+  {
+   "content": "一旦看清它的运作方式",
+   "from": 73.85,
+   "location": 2,
+   "music": 0.0,
+   "sid": 36,
+   "to": 75.8
+  },
+  {
+   "content": "你就能关闭它",
+   "from": 75.8,
+   "location": 2,
+   "music": 0.0,
+   "sid": 37,
+   "to": 77.36
+  },
+  {
+   "content": "这就是这次培训的核心",
+   "from": 77.36,
+   "location": 2,
+   "music": 0.0,
+   "sid": 38,
+   "to": 79.4
+  },
+  {
+   "content": "我们将详细解析",
+   "from": 79.4,
+   "location": 2,
+   "music": 0.0,
+   "sid": 39,
+   "to": 81.86
+  },
+  {
+   "content": "当你的大脑无法停止时发生的事",
+   "from": 81.86,
+   "location": 2,
+   "music": 0.0,
+   "sid": 40,
+   "to": 83.86
+  },
+  {
+   "content": "为何难以逃脱",
+   "from": 83.86,
+   "location": 2,
+   "music": 0.0,
+   "sid": 41,
+   "to": 85.98
+  },
+  {
+   "content": "然后我将展示如何真正获得自由",
+   "from": 85.98,
+   "location": 2,
+   "music": 0.0,
+   "sid": 42,
+   "to": 88.85
+  },
+  {
+   "content": "无需多年冥想、治疗或意志力",
+   "from": 88.85,
+   "location": 2,
+   "music": 0.0,
+   "sid": 43,
+   "to": 91.85
+  },
+  {
+   "content": "只需看清从未见过的真相",
+   "from": 91.85,
+   "location": 2,
+   "music": 0.0,
+   "sid": 44,
+   "to": 95.52
+  },
+  {
+   "content": "现在首先需要你理解的是",
+   "from": 95.52,
+   "location": 2,
+   "music": 0.0,
+   "sid": 45,
+   "to": 99.04
+  },
+  {
+   "content": "你所谓的大部分‘思考’",
+   "from": 99.04,
+   "location": 2,
+   "music": 0.0,
+   "sid": 46,
+   "to": 101.039
+  },
+  {
+   "content": "其实并非真正的思考",
+   "from": 101.039,
+   "location": 2,
+   "music": 0.0,
+   "sid": 47,
+   "to": 102.479
+  },
+  {
+   "content": "只是心理杂音",
+   "from": 102.479,
+   "location": 2,
+   "music": 0.0,
+   "sid": 48,
+   "to": 104.599
+  },
+  {
+   "content": "真正的思考其实非常罕见",
+   "from": 104.599,
+   "location": 2,
+   "music": 0.0,
+   "sid": 49,
+   "to": 105.259
+  },
+  {
+   "content": "它专注且有目的",
+   "from": 105.259,
+   "location": 2,
+   "music": 0.0,
+   "sid": 50,
+   "to": 106.279
+  },
+  {
+   "content": "它有一个目的",
+   "from": 106.279,
+   "location": 2,
+   "music": 0.0,
+   "sid": 51,
+   "to": 107.119
+  },
+  {
+   "content": "最终会产出有用的东西",
+   "from": 107.119,
+   "location": 2,
+   "music": 0.0,
+   "sid": 52,
+   "to": 109.57
+  },
+  {
+   "content": "大多数人陷入困境时会做的事",
+   "from": 109.57,
+   "location": 2,
+   "music": 0.0,
+   "sid": 53,
+   "to": 111.73
+  },
+  {
+   "content": "大概你凌晨两点也在做这个",
+   "from": 111.73,
+   "location": 2,
+   "music": 0.0,
+   "sid": 54,
+   "to": 114.29
+  },
+  {
+   "content": "当你无法入睡时只是反复",
+   "from": 114.29,
+   "location": 2,
+   "music": 0.0,
+   "sid": 55,
+   "to": 116.27
+  },
+  {
+   "content": "不断重复同样的恐惧和疑虑",
+   "from": 116.27,
+   "location": 2,
+   "music": 0.0,
+   "sid": 56,
+   "to": 120.859
+  },
+  {
+   "content": "感觉像是在处理重要事务",
+   "from": 120.859,
+   "location": 2,
+   "music": 0.0,
+   "sid": 57,
+   "to": 122.959
+  },
+  {
+   "content": "其实只是原地打转",
+   "from": 122.959,
+   "location": 2,
+   "music": 0.0,
+   "sid": 58,
+   "to": 125.099
+  },
+  {
+   "content": "没错 这是你自以为在负责任或谨慎",
+   "from": 125.099,
+   "location": 2,
+   "music": 0.0,
+   "sid": 59,
+   "to": 130.35
+  },
+  {
+   "content": "认为自己在深思熟虑",
+   "from": 130.35,
+   "location": 2,
+   "music": 0.0,
+   "sid": 60,
+   "to": 132.14
+  },
+  {
+   "content": "实际上只是在运行相同的错误循环",
+   "from": 132.14,
+   "location": 2,
+   "music": 0.0,
+   "sid": 61,
+   "to": 135.149
+  },
+  {
+   "content": "真正思考和我们所说的过度思考",
+   "from": 135.149,
+   "location": 2,
+   "music": 0.0,
+   "sid": 62,
+   "to": 138.069
+  },
+  {
+   "content": "之间有巨大区别对吧",
+   "from": 138.069,
+   "location": 2,
+   "music": 0.0,
+   "sid": 63,
+   "to": 140.009
+  },
+  {
+   "content": "真正的思考有明确方向",
+   "from": 140.009,
+   "location": 2,
+   "music": 0.0,
+   "sid": 64,
+   "to": 142.01
+  },
+  {
+   "content": "你坐下后",
+   "from": 142.01,
+   "location": 2,
+   "music": 0.0,
+   "sid": 65,
+   "to": 142.81
+  },
+  {
+   "content": "逐步解决一个问题",
+   "from": 142.81,
+   "location": 2,
+   "music": 0.0,
+   "sid": 66,
+   "to": 143.95
+  },
+  {
+   "content": "得出某个结论",
+   "from": 143.95,
+   "location": 2,
+   "music": 0.0,
+   "sid": 67,
+   "to": 145.57
+  },
+  {
+   "content": "然后就完成了 过度思考没有方向",
+   "from": 145.57,
+   "location": 2,
+   "music": 0.0,
+   "sid": 68,
+   "to": 148.95
+  },
+  {
+   "content": "陷入循环",
+   "from": 148.95,
+   "location": 2,
+   "music": 0.0,
+   "sid": 69,
+   "to": 150.03
+  },
+  {
+   "content": "在相同领域兜圈子",
+   "from": 150.03,
+   "location": 2,
+   "music": 0.0,
+   "sid": 70,
+   "to": 152.72
+  },
+  {
+   "content": "从未真正落地",
+   "from": 152.72,
+   "location": 2,
+   "music": 0.0,
+   "sid": 71,
+   "to": 154.6
+  },
+  {
+   "content": "一小时后反而更困惑",
+   "from": 154.6,
+   "location": 2,
+   "music": 0.0,
+   "sid": 72,
+   "to": 159.58
+  },
+  {
+   "content": "让你",
+   "from": 159.58,
+   "location": 2,
+   "music": 0.0,
+   "sid": 73,
+   "to": 160.64
+  },
+  {
+   "content": "感到更清晰",
+   "from": 160.64,
+   "location": 2,
+   "music": 0.0,
+   "sid": 74,
+   "to": 162.46
+  },
+  {
+   "content": "过度思考让你疲惫焦虑",
+   "from": 162.46,
+   "location": 2,
+   "music": 0.0,
+   "sid": 75,
+   "to": 165.97
+  },
+  {
+   "content": "真正的思考是主动选择的",
+   "from": 165.97,
+   "location": 2,
+   "music": 0.0,
+   "sid": 76,
+   "to": 168.45
+  },
+  {
+   "content": "过度思考其实是发生在你身上",
+   "from": 168.45,
+   "location": 2,
+   "music": 0.0,
+   "sid": 77,
+   "to": 174.54
+  },
+  {
+   "content": "这里有个简单测试",
+   "from": 175.44,
+   "location": 2,
+   "music": 0.0,
+   "sid": 78,
+   "to": 176.54
+  },
+  {
+   "content": "如果你",
+   "from": 176.54,
+   "location": 2,
+   "music": 0.0,
+   "sid": 79,
+   "to": 176.96
+  },
+  {
+   "content": "如果几天几周或几个月都在想同一件事",
+   "from": 176.96,
+   "location": 2,
+   "music": 0.0,
+   "sid": 80,
+   "to": 180.88
+  },
+  {
+   "content": "却离解决毫无进展",
+   "from": 180.88,
+   "location": 2,
+   "music": 0.0,
+   "sid": 81,
+   "to": 183.92
+  },
+  {
+   "content": "这就不叫思考",
+   "from": 184.04,
+   "location": 2,
+   "music": 0.0,
+   "sid": 82,
+   "to": 185.72
+  },
+  {
+   "content": "这是反复思量",
+   "from": 185.72,
+   "location": 2,
+   "music": 0.0,
+   "sid": 83,
+   "to": 186.82
+  },
+  {
+   "content": "是自动运行的思维习惯",
+   "from": 186.82,
+   "location": 2,
+   "music": 0.0,
+   "sid": 84,
+   "to": 190.14
+  },
+  {
+   "content": "真正的思考不需要这么久",
+   "from": 190.14,
+   "location": 2,
+   "music": 0.0,
+   "sid": 85,
+   "to": 192.64
+  },
+  {
+   "content": "除非解决重大学术问题",
+   "from": 192.64,
+   "location": 2,
+   "music": 0.0,
+   "sid": 86,
+   "to": 195.48
+  },
+  {
+   "content": "因为真正的思考会导向结果",
+   "from": 195.48,
+   "location": 2,
+   "music": 0.0,
+   "sid": 87,
+   "to": 199.69
+  },
+  {
+   "content": "难点在于大脑故意混淆两者",
+   "from": 199.69,
+   "location": 2,
+   "music": 0.0,
+   "sid": 88,
+   "to": 203.45
+  },
+  {
+   "content": "只要相信过度思考有用",
+   "from": 203.45,
+   "location": 2,
+   "music": 0.0,
+   "sid": 89,
+   "to": 206.56
+  },
+  {
+   "content": "就会不断喂养它",
+   "from": 206.56,
+   "location": 2,
+   "music": 0.0,
+   "sid": 90,
+   "to": 207.9
+  },
+  {
+   "content": "一旦发现毫无用处",
+   "from": 207.9,
+   "location": 2,
+   "music": 0.0,
+   "sid": 91,
+   "to": 209.86
+  },
+  {
+   "content": "甚至从未有用",
+   "from": 209.86,
+   "location": 2,
+   "music": 0.0,
+   "sid": 92,
+   "to": 211.1
+  },
+  {
+   "content": "整个过程开始崩塌",
+   "from": 211.1,
+   "location": 2,
+   "music": 0.0,
+   "sid": 93,
+   "to": 214.01
+  },
+  {
+   "content": "大脑让你误以为这些思维活动在保护你",
+   "from": 214.769,
+   "location": 2,
+   "music": 0.0,
+   "sid": 94,
+   "to": 218.969
+  },
+  {
+   "content": "如果停止分析",
+   "from": 218.969,
+   "location": 2,
+   "music": 0.0,
+   "sid": 95,
+   "to": 221.089
+  },
+  {
+   "content": "就会错过重要事情或犯大错",
+   "from": 221.089,
+   "location": 2,
+   "music": 0.0,
+   "sid": 96,
+   "to": 224.32
+  },
+  {
+   "content": "但诚实地想想",
+   "from": 224.32,
+   "location": 2,
+   "music": 0.0,
+   "sid": 97,
+   "to": 226.73
+  },
+  {
+   "content": "那些无尽的内心演练真正帮过你几次",
+   "from": 226.73,
+   "location": 2,
+   "music": 0.0,
+   "sid": 98,
+   "to": 230.98
+  },
+  {
+   "content": "那些担忧真正为你做好准备几次",
+   "from": 230.98,
+   "location": 2,
+   "music": 0.0,
+   "sid": 99,
+   "to": 235.52
+  },
+  {
+   "content": "几乎从不发生 过度思考制造焦虑后承诺解决",
+   "from": 235.52,
+   "location": 2,
+   "music": 0.0,
+   "sid": 100,
+   "to": 241.639
+  },
+  {
+   "content": "这就是为什么问题永无止境每个解决方案",
+   "from": 241.639,
+   "location": 2,
+   "music": 0.0,
+   "sid": 101,
+   "to": 244.75
+  },
+  {
+   "content": "你的思维只会产生更多需要解决的问题",
+   "from": 244.75,
+   "location": 2,
+   "music": 0.0,
+   "sid": 102,
+   "to": 248.17
+  },
+  {
+   "content": "你困在看似必要的工作中无法脱身",
+   "from": 248.17,
+   "location": 2,
+   "music": 0.0,
+   "sid": 103,
+   "to": 251.579
+  },
+  {
+   "content": "但这其实只是习惯不断自我强化的过程",
+   "from": 251.579,
+   "location": 2,
+   "music": 0.0,
+   "sid": 104,
+   "to": 256.379
+  },
+  {
+   "content": "永无止境",
+   "from": 256.379,
+   "location": 2,
+   "music": 0.0,
+   "sid": 105,
+   "to": 257.25
+  },
+  {
+   "content": "这个机制运作起来非常可预测",
+   "from": 257.25,
+   "location": 2,
+   "music": 0.0,
+   "sid": 106,
+   "to": 259.73
+  },
+  {
+   "content": "一旦看清楚本质",
+   "from": 259.73,
+   "location": 2,
+   "music": 0.0,
+   "sid": 107,
+   "to": 260.91
+  },
+  {
+   "content": "你会对某件事感到不确定",
+   "from": 260.91,
+   "location": 2,
+   "music": 0.0,
+   "sid": 108,
+   "to": 262.71
+  },
+  {
+   "content": "于是开始思考这个问题",
+   "from": 262.71,
+   "location": 2,
+   "music": 0.0,
+   "sid": 109,
+   "to": 264.45
+  },
+  {
+   "content": "短暂感觉思考有效果",
+   "from": 264.45,
+   "location": 2,
+   "music": 0.0,
+   "sid": 110,
+   "to": 267.17
+  },
+  {
+   "content": "仿佛在做负责任的事",
+   "from": 267.17,
+   "location": 2,
+   "music": 0.0,
+   "sid": 111,
+   "to": 269.37
+  },
+  {
+   "content": "但问题并未真正解决",
+   "from": 269.37,
+   "location": 2,
+   "music": 0.0,
+   "sid": 112,
+   "to": 271.31
+  },
+  {
+   "content": "因为根本无需解决",
+   "from": 271.31,
+   "location": 2,
+   "music": 0.0,
+   "sid": 113,
+   "to": 273.55
+  },
+  {
+   "content": "因为未来不可预测过去无法改变",
+   "from": 273.55,
+   "location": 2,
+   "music": 0.0,
+   "sid": 114,
+   "to": 277.67
+  },
+  {
+   "content": "反而更加不确定",
+   "from": 277.67,
+   "location": 2,
+   "music": 0.0,
+   "sid": 115,
+   "to": 280.25
+  },
+  {
+   "content": "触发更多思考",
+   "from": 280.25,
+   "location": 2,
+   "music": 0.0,
+   "sid": 116,
+   "to": 281.67
+  },
+  {
+   "content": "引发更多焦虑",
+   "from": 281.67,
+   "location": 2,
+   "music": 0.0,
+   "sid": 117,
+   "to": 283.39
+  },
+  {
+   "content": "需要更多思考",
+   "from": 283.39,
+   "location": 2,
+   "music": 0.0,
+   "sid": 118,
+   "to": 285.22
+  },
+  {
+   "content": "如此循环往复",
+   "from": 285.22,
+   "location": 2,
+   "music": 0.0,
+   "sid": 119,
+   "to": 287.8
+  },
+  {
+   "content": "在这番精神消耗之后",
+   "from": 287.8,
+   "location": 2,
+   "music": 0.0,
+   "sid": 120,
+   "to": 290.64
+  },
+  {
+   "content": "你反而一无所获",
+   "from": 290.64,
+   "location": 2,
+   "music": 0.0,
+   "sid": 121,
+   "to": 292.669
+  },
+  {
+   "content": "没有清晰",
+   "from": 292.669,
+   "location": 2,
+   "music": 0.0,
+   "sid": 122,
+   "to": 293.849
+  },
+  {
+   "content": "没有平静",
+   "from": 293.849,
+   "location": 2,
+   "music": 0.0,
+   "sid": 123,
+   "to": 294.82
+  },
+  {
+   "content": "没有实际解决",
+   "from": 294.82,
+   "location": 2,
+   "music": 0.0,
+   "sid": 124,
+   "to": 296.36
+  },
+  {
+   "content": "只剩疲惫",
+   "from": 296.36,
+   "location": 2,
+   "music": 0.0,
+   "sid": 125,
+   "to": 297.52
+  },
+  {
+   "content": "还有种模糊感觉明天该继续思考",
+   "from": 297.52,
+   "location": 2,
+   "music": 0.0,
+   "sid": 126,
+   "to": 301.82
+  },
+  {
+   "content": "没错",
+   "from": 301.82,
+   "location": 2,
+   "music": 0.0,
+   "sid": 127,
+   "to": 302.4
+  },
+  {
+   "content": "这就是成瘾的标志",
+   "from": 302.4,
+   "location": 2,
+   "music": 0.0,
+   "sid": 128,
+   "to": 303.94
+  },
+  {
+   "content": "而非真正的思考",
+   "from": 303.94,
+   "location": 2,
+   "music": 0.0,
+   "sid": 129,
+   "to": 305.48
+  },
+  {
+   "content": "真正的思考会带来成果",
+   "from": 305.48,
+   "location": 2,
+   "music": 0.0,
+   "sid": 130,
+   "to": 307.48
+  },
+  {
+   "content": "这只会自我复制",
+   "from": 307.48,
+   "location": 2,
+   "music": 0.0,
+   "sid": 131,
+   "to": 309.95
+  },
+  {
+   "content": "我们已被灌输",
+   "from": 309.95,
+   "location": 2,
+   "music": 0.0,
+   "sid": 132,
+   "to": 310.79
+  },
+  {
+   "content": "这个观念",
+   "from": 310.79,
+   "location": 2,
+   "music": 0.0,
+   "sid": 133,
+   "to": 311.27
+  },
+  {
+   "content": "贯穿整个人生",
+   "from": 311.27,
+   "location": 2,
+   "music": 0.0,
+   "sid": 134,
+   "to": 311.97
+  },
+  {
+   "content": "认为精神消耗等于智慧",
+   "from": 311.97,
+   "location": 2,
+   "music": 0.0,
+   "sid": 135,
+   "to": 315.38
+  },
+  {
+   "content": "担忧",
+   "from": 315.38,
+   "location": 2,
+   "music": 0.0,
+   "sid": 136,
+   "to": 316.5
+  },
+  {
+   "content": "代表你在意",
+   "from": 316.5,
+   "location": 2,
+   "music": 0.0,
+   "sid": 137,
+   "to": 317.36
+  },
+  {
+   "content": "持续分析是聪明人的表现",
+   "from": 317.36,
+   "location": 2,
+   "music": 0.0,
+   "sid": 138,
+   "to": 321.38
+  },
+  {
+   "content": "并非如此",
+   "from": 321.74,
+   "location": 2,
+   "music": 0.0,
+   "sid": 139,
+   "to": 323.24
+  },
+  {
+   "content": "真正清醒高效的人",
+   "from": 323.24,
+   "location": 2,
+   "music": 0.0,
+   "sid": 140,
+   "to": 325.66
+  },
+  {
+   "content": "那些临危不乱的人",
+   "from": 325.66,
+   "location": 2,
+   "music": 0.0,
+   "sid": 141,
+   "to": 328.04
+  },
+  {
+   "content": "并非时时困在思维中",
+   "from": 328.04,
+   "location": 2,
+   "music": 0.0,
+   "sid": 142,
+   "to": 331.4
+  },
+  {
+   "content": "该思考时才思考",
+   "from": 331.57,
+   "location": 2,
+   "music": 0.0,
+   "sid": 143,
+   "to": 334.29
+  },
+  {
+   "content": "其余时间保持当下",
+   "from": 334.29,
+   "location": 2,
+   "music": 0.0,
+   "sid": 144,
+   "to": 337.17
+  },
+  {
+   "content": "专注做事",
+   "from": 337.17,
+   "location": 2,
+   "music": 0.0,
+   "sid": 145,
+   "to": 339.97
+  },
+  {
+   "content": "活在当下",
+   "from": 339.97,
+   "location": 2,
+   "music": 0.0,
+   "sid": 146,
+   "to": 340.59
+  },
+  {
+   "content": "解决问题",
+   "from": 340.59,
+   "location": 2,
+   "music": 0.0,
+   "sid": 147,
+   "to": 341.53
+  },
+  {
+   "content": "需要时才行动",
+   "from": 341.53,
+   "location": 2,
+   "music": 0.0,
+   "sid": 148,
+   "to": 342.65
+  },
+  {
+   "content": "这就是自然状态",
+   "from": 342.65,
+   "location": 2,
+   "music": 0.0,
+   "sid": 149,
+   "to": 345.659
+  },
+  {
+   "content": "最重要的是理解过度思考会",
+   "from": 345.659,
+   "location": 2,
+   "music": 0.0,
+   "sid": 150,
+   "to": 349.879
+  },
+  {
+   "content": "它声称要解决的问题",
+   "from": 349.879,
+   "location": 2,
+   "music": 0.0,
+   "sid": 151,
+   "to": 352.23
+  },
+  {
+   "content": "你感到焦虑",
+   "from": 352.23,
+   "location": 2,
+   "music": 0.0,
+   "sid": 152,
+   "to": 353.21
+  },
+  {
+   "content": "于是你开始思考",
+   "from": 353.21,
+   "location": 2,
+   "music": 0.0,
+   "sid": 153,
+   "to": 354.15
+  },
+  {
+   "content": "是什么让你感到焦虑",
+   "from": 354.15,
+   "location": 2,
+   "music": 0.0,
+   "sid": 154,
+   "to": 355.679
+  },
+  {
+   "content": "而思考反而让你更加焦虑",
+   "from": 355.679,
+   "location": 2,
+   "music": 0.0,
+   "sid": 155,
+   "to": 357.499
+  },
+  {
+   "content": "于是你更加用力思考",
+   "from": 357.499,
+   "location": 2,
+   "music": 0.0,
+   "sid": 156,
+   "to": 358.559
+  },
+  {
+   "content": "这让你的焦虑更甚",
+   "from": 358.559,
+   "location": 2,
+   "music": 0.0,
+   "sid": 157,
+   "to": 360.379
+  },
+  {
+   "content": "从分析中获得的缓解是虚假的",
+   "from": 360.379,
+   "location": 2,
+   "music": 0.0,
+   "sid": 158,
+   "to": 363.829
+  },
+  {
+   "content": "这只是分析本身制造的紧张感的短暂暂停",
+   "from": 363.829,
+   "location": 2,
+   "music": 0.0,
+   "sid": 159,
+   "to": 369.0
+  },
+  {
+   "content": "就像酒精一样",
+   "from": 369.0,
+   "location": 2,
+   "music": 0.0,
+   "sid": 160,
+   "to": 371.08
+  },
+  {
+   "content": "酒精如何缓解",
+   "from": 371.08,
+   "location": 2,
+   "music": 0.0,
+   "sid": 161,
+   "to": 372.96
+  },
+  {
+   "content": "它最初带来的压力",
+   "from": 372.96,
+   "location": 2,
+   "music": 0.0,
+   "sid": 162,
+   "to": 376.61
+  },
+  {
+   "content": "你以为在帮助你的其实是问题的根源，一旦真正看清这一点",
+   "from": 377.01,
+   "location": 2,
+   "music": 0.0,
+   "sid": 163,
+   "to": 383.41
+  },
+  {
+   "content": "你会意识到过度思考毫无收获",
+   "from": 383.41,
+   "location": 2,
+   "music": 0.0,
+   "sid": 164,
+   "to": 386.55
+  },
+  {
+   "content": "毫无真实价值",
+   "from": 386.55,
+   "location": 2,
+   "music": 0.0,
+   "sid": 165,
+   "to": 387.47
+  },
+  {
+   "content": "毫无实际用途",
+   "from": 387.47,
+   "location": 2,
+   "music": 0.0,
+   "sid": 166,
+   "to": 388.23
+  },
+  {
+   "content": "没有任何益处",
+   "from": 388.23,
+   "location": 2,
+   "music": 0.0,
+   "sid": 167,
+   "to": 389.97
+  },
+  {
+   "content": "却在消耗你的平静",
+   "from": 389.97,
+   "location": 2,
+   "music": 0.0,
+   "sid": 168,
+   "to": 391.83
+  },
+  {
+   "content": "你的睡眠",
+   "from": 391.83,
+   "location": 2,
+   "music": 0.0,
+   "sid": 169,
+   "to": 392.65
+  },
+  {
+   "content": "你的精力",
+   "from": 392.65,
+   "location": 2,
+   "music": 0.0,
+   "sid": 170,
+   "to": 393.61
+  },
+  {
+   "content": "你的当下存在",
+   "from": 393.61,
+   "location": 2,
+   "music": 0.0,
+   "sid": 171,
+   "to": 395.15
+  },
+  {
+   "content": "这种交易完全单方面",
+   "from": 395.15,
+   "location": 2,
+   "music": 0.0,
+   "sid": 172,
+   "to": 397.03
+  },
+  {
+   "content": "多年来你一直在做这笔糟糕的交易却未察觉",
+   "from": 397.03,
+   "location": 2,
+   "music": 0.0,
+   "sid": 173,
+   "to": 402.62
+  },
+  {
+   "content": "问题从来不是你思考太多",
+   "from": 402.62,
+   "location": 2,
+   "music": 0.0,
+   "sid": 174,
+   "to": 404.92
+  },
+  {
+   "content": "问题在于你误将过度思考当作真实思考",
+   "from": 404.92,
+   "location": 2,
+   "music": 0.0,
+   "sid": 175,
+   "to": 409.52
+  },
+  {
+   "content": "于是不断喂养从未真正为你服务的东西",
+   "from": 409.72,
+   "location": 2,
+   "music": 0.0,
+   "sid": 176,
+   "to": 413.38
+  },
+  {
+   "content": "这应该带来巨大 relief",
+   "from": 413.38,
+   "location": 2,
+   "music": 0.0,
+   "sid": 177,
+   "to": 415.24
+  },
+  {
+   "content": "因为如果过度思考",
+   "from": 415.24,
+   "location": 2,
+   "music": 0.0,
+   "sid": 178,
+   "to": 416.28
+  },
+  {
+   "content": "实际上你在真正陷入麻烦",
+   "from": 416.28,
+   "location": 2,
+   "music": 0.0,
+   "sid": 179,
+   "to": 419.37
+  },
+  {
+   "content": "没错",
+   "from": 419.37,
+   "location": 2,
+   "music": 0.0,
+   "sid": 180,
+   "to": 419.87
+  },
+  {
+   "content": "需要停止自己的智力运转",
+   "from": 419.87,
+   "location": 2,
+   "music": 0.0,
+   "sid": 181,
+   "to": 423.19
+  },
+  {
+   "content": "这根本不可能",
+   "from": 423.19,
+   "location": 2,
+   "music": 0.0,
+   "sid": 182,
+   "to": 425.25
+  },
+  {
+   "content": "但这里并非如此",
+   "from": 425.42,
+   "location": 2,
+   "music": 0.0,
+   "sid": 183,
+   "to": 427.1
+  },
+  {
+   "content": "没错",
+   "from": 427.1,
+   "location": 2,
+   "music": 0.0,
+   "sid": 184,
+   "to": 427.52
+  },
+  {
+   "content": "你只是陷入了一个与真实能力无关的思维习惯",
+   "from": 427.52,
+   "location": 2,
+   "music": 0.0,
+   "sid": 185,
+   "to": 431.72
+  },
+  {
+   "content": "去推理、解决问题或做决定",
+   "from": 431.72,
+   "location": 2,
+   "music": 0.0,
+   "sid": 186,
+   "to": 435.13
+  },
+  {
+   "content": "真正的你",
+   "from": 435.13,
+   "location": 2,
+   "music": 0.0,
+   "sid": 187,
+   "to": 435.93
+  },
+  {
+   "content": "那个真正需要时能清晰思考、果断行动的人",
+   "from": 435.93,
+   "location": 2,
+   "music": 0.0,
+   "sid": 188,
+   "to": 440.43
+  },
+  {
+   "content": "依然存在于所有杂音之下",
+   "from": 440.43,
+   "location": 2,
+   "music": 0.0,
+   "sid": 189,
+   "to": 443.12
+  },
+  {
+   "content": "你无需成为完全不同的人或掌握新技能",
+   "from": 443.12,
+   "location": 2,
+   "music": 0.0,
+   "sid": 190,
+   "to": 446.88
+  },
+  {
+   "content": "我们只需停止滋养这个习惯",
+   "from": 446.88,
+   "location": 2,
+   "music": 0.0,
+   "sid": 191,
+   "to": 448.94
+  },
+  {
+   "content": "那个真正能解决问题的你",
+   "from": 448.94,
+   "location": 2,
+   "music": 0.0,
+   "sid": 192,
+   "to": 452.24
+  },
+  {
+   "content": "需要时才能思考",
+   "from": 452.24,
+   "location": 2,
+   "music": 0.0,
+   "sid": 193,
+   "to": 453.66
+  },
+  {
+   "content": "就能重新归来",
+   "from": 453.66,
+   "location": 2,
+   "music": 0.0,
+   "sid": 194,
+   "to": 455.35
+  },
+  {
+   "content": "现在谈谈对控制的瘾",
+   "from": 455.51,
+   "location": 2,
+   "music": 0.0,
+   "sid": 195,
+   "to": 458.74
+  },
+  {
+   "content": "既然已明确过度思考并非真实思考",
+   "from": 459.06,
+   "location": 2,
+   "music": 0.0,
+   "sid": 196,
+   "to": 463.94
+  },
+  {
+   "content": "接下来探讨为何仍持续这样做",
+   "from": 463.94,
+   "location": 2,
+   "music": 0.0,
+   "sid": 197,
+   "to": 466.38
+  },
+  {
+   "content": "因为知道某事无用",
+   "from": 466.38,
+   "location": 2,
+   "music": 0.0,
+   "sid": 198,
+   "to": 467.94
+  },
+  {
+   "content": "并不会自动停止",
+   "from": 467.94,
+   "location": 2,
+   "music": 0.0,
+   "sid": 199,
+   "to": 470.81
+  },
+  {
+   "content": "显然有更深层的原因",
+   "from": 470.81,
+   "location": 2,
+   "music": 0.0,
+   "sid": 200,
+   "to": 473.39
+  },
+  {
+   "content": "你的思维不断回到相同的模式，背后有某种原因",
+   "from": 473.39,
+   "location": 2,
+   "music": 0.0,
+   "sid": 201,
+   "to": 476.09
+  },
+  {
+   "content": "即使它们显然行不通",
+   "from": 476.09,
+   "location": 2,
+   "music": 0.0,
+   "sid": 202,
+   "to": 478.26
+  },
+  {
+   "content": "而当你仔细审视时，真正的根源是这种对控制的深层渴望",
+   "from": 478.26,
+   "location": 2,
+   "music": 0.0,
+   "sid": 203,
+   "to": 483.33
+  },
+  {
+   "content": "你过度思考的原因在于，某个阶段你学到思考等于安全",
+   "from": 483.33,
+   "location": 2,
+   "music": 0.0,
+   "sid": 204,
+   "to": 489.29
+  },
+  {
+   "content": "如果你能提前想清楚一切",
+   "from": 489.29,
+   "location": 2,
+   "music": 0.0,
+   "sid": 205,
+   "to": 492.27
+  },
+  {
+   "content": "就能避免糟糕的结果",
+   "from": 492.27,
+   "location": 2,
+   "music": 0.0,
+   "sid": 206,
+   "to": 494.97
+  },
+  {
+   "content": "这就是所有问题的核心信念",
+   "from": 494.97,
+   "location": 2,
+   "music": 0.0,
+   "sid": 207,
+   "to": 497.57
+  },
+  {
+   "content": "你的大脑真正相信通过分析所有可能性",
+   "from": 497.57,
+   "location": 2,
+   "music": 0.0,
+   "sid": 208,
+   "to": 501.37
+  },
+  {
+   "content": "预演每种场景",
+   "from": 501.37,
+   "location": 2,
+   "music": 0.0,
+   "sid": 209,
+   "to": 503.21
+  },
+  {
+   "content": "担忧每个潜在问题",
+   "from": 503.21,
+   "location": 2,
+   "music": 0.0,
+   "sid": 210,
+   "to": 505.43
+  },
+  {
+   "content": "这能保护你免受伤害",
+   "from": 505.43,
+   "location": 2,
+   "music": 0.0,
+   "sid": 211,
+   "to": 507.84
+  },
+  {
+   "content": "而这种信念显得如此真实",
+   "from": 507.84,
+   "location": 2,
+   "music": 0.0,
+   "sid": 212,
+   "to": 509.98
+  },
+  {
+   "content": "显然正确到从未被质疑过",
+   "from": 509.98,
+   "location": 2,
+   "music": 0.0,
+   "sid": 213,
+   "to": 513.45
+  },
+  {
+   "content": "但问题是这完全错误",
+   "from": 513.45,
+   "location": 2,
+   "music": 0.0,
+   "sid": 214,
+   "to": 516.31
+  },
+  {
+   "content": "思考问题并不能真正阻止它们",
+   "from": 516.31,
+   "location": 2,
+   "music": 0.0,
+   "sid": 215,
+   "to": 519.869
+  },
+  {
+   "content": "想想看",
+   "from": 519.869,
+   "location": 2,
+   "music": 0.0,
+   "sid": 216,
+   "to": 520.969
+  },
+  {
+   "content": "担忧未来并不能真正做好准备",
+   "from": 520.969,
+   "location": 2,
+   "music": 0.0,
+   "sid": 217,
+   "to": 524.289
+  },
+  {
+   "content": "回顾过去也无法改变现实",
+   "from": 524.289,
+   "location": 2,
+   "music": 0.0,
+   "sid": 218,
+   "to": 527.849
+  },
+  {
+   "content": "心理预演实际上无法提升表现",
+   "from": 528.329,
+   "location": 2,
+   "music": 0.0,
+   "sid": 219,
+   "to": 531.549
+  },
+  {
+   "content": "很多时候",
+   "from": 531.549,
+   "location": 2,
+   "music": 0.0,
+   "sid": 220,
+   "to": 531.989
+  },
+  {
+   "content": "反而会让你表现更差",
+   "from": 531.989,
+   "location": 2,
+   "music": 0.0,
+   "sid": 221,
+   "to": 533.629
+  },
+  {
+   "content": "因为你会感到紧张",
+   "from": 533.629,
+   "location": 2,
+   "music": 0.0,
+   "sid": 222,
+   "to": 534.769
+  },
+  {
+   "content": "而这一切的前提在大脑中完全是谎言",
+   "from": 534.769,
+   "location": 2,
+   "music": 0.0,
+   "sid": 223,
+   "to": 539.13
+  },
+  {
+   "content": "这种信念通常始于你首次发现提前思考能帮助避免麻烦",
+   "from": 539.43,
+   "location": 2,
+   "music": 0.0,
+   "sid": 224,
+   "to": 545.44
+  },
+  {
+   "content": "或取悦他人、提高成绩",
+   "from": 545.44,
+   "location": 2,
+   "music": 0.0,
+   "sid": 225,
+   "to": 547.6
+  },
+  {
+   "content": "随后多年",
+   "from": 547.6,
+   "location": 2,
+   "music": 0.0,
+   "sid": 226,
+   "to": 548.72
+  },
+  {
+   "content": "让你觉得必须时刻思考一切",
+   "from": 553.22,
+   "location": 2,
+   "music": 0.0,
+   "sid": 227,
+   "to": 556.54
+  },
+  {
+   "content": "否则会有坏事发生",
+   "from": 556.54,
+   "location": 2,
+   "music": 0.0,
+   "sid": 228,
+   "to": 558.32
+  },
+  {
+   "content": "最初的观念并不错误",
+   "from": 558.32,
+   "location": 2,
+   "music": 0.0,
+   "sid": 229,
+   "to": 561.31
+  },
+  {
+   "content": "完全正确",
+   "from": 561.31,
+   "location": 2,
+   "music": 0.0,
+   "sid": 230,
+   "to": 562.29
+  },
+  {
+   "content": "有时计划确实有用",
+   "from": 562.29,
+   "location": 2,
+   "music": 0.0,
+   "sid": 231,
+   "to": 564.73
+  },
+  {
+   "content": "但被扭曲成病态行为",
+   "from": 564.73,
+   "location": 2,
+   "music": 0.0,
+   "sid": 232,
+   "to": 567.65
+  },
+  {
+   "content": "即使明知伤害自己也无法停止",
+   "from": 567.65,
+   "location": 2,
+   "music": 0.0,
+   "sid": 233,
+   "to": 572.04
+  },
+  {
+   "content": "对控制的渴望背后其实是恐惧",
+   "from": 572.04,
+   "location": 2,
+   "music": 0.0,
+   "sid": 234,
+   "to": 575.58
+  },
+  {
+   "content": "对不确定性的恐惧",
+   "from": 575.58,
+   "location": 2,
+   "music": 0.0,
+   "sid": 235,
+   "to": 577.26
+  },
+  {
+   "content": "害怕犯错",
+   "from": 577.26,
+   "location": 2,
+   "music": 0.0,
+   "sid": 236,
+   "to": 579.31
+  },
+  {
+   "content": "害怕坏事发生",
+   "from": 579.31,
+   "location": 2,
+   "music": 0.0,
+   "sid": 237,
+   "to": 581.37
+  },
+  {
+   "content": "那些未曾预见的",
+   "from": 581.37,
+   "location": 2,
+   "music": 0.0,
+   "sid": 238,
+   "to": 583.47
+  },
+  {
+   "content": "如果你没能预见",
+   "from": 583.83,
+   "location": 2,
+   "music": 0.0,
+   "sid": 239,
+   "to": 586.67
+  },
+  {
+   "content": "可能意味着你并非想象中那么完美",
+   "from": 586.67,
+   "location": 2,
+   "music": 0.0,
+   "sid": 240,
+   "to": 591.38
+  },
+  {
+   "content": "过度思考本质上是试图通过思考获得安全感来管理恐惧",
+   "from": 591.7,
+   "location": 2,
+   "music": 0.0,
+   "sid": 241,
+   "to": 597.36
+  },
+  {
+   "content": "当然无法奏效",
+   "from": 597.36,
+   "location": 2,
+   "music": 0.0,
+   "sid": 242,
+   "to": 598.8
+  },
+  {
+   "content": "因为恐惧本身不理性",
+   "from": 598.8,
+   "location": 2,
+   "music": 0.0,
+   "sid": 243,
+   "to": 600.44
+  },
+  {
+   "content": "从一开始",
+   "from": 600.44,
+   "location": 2,
+   "music": 0.0,
+   "sid": 244,
+   "to": 601.609
+  },
+  {
+   "content": "无法用思考摆脱焦虑",
+   "from": 601.609,
+   "location": 2,
+   "music": 0.0,
+   "sid": 245,
+   "to": 604.129
+  },
+  {
+   "content": "只能接受生活充满不确定性",
+   "from": 604.129,
+   "location": 2,
+   "music": 0.0,
+   "sid": 246,
+   "to": 607.089
+  },
+  {
+   "content": "并学会接受这一点",
+   "from": 607.089,
+   "location": 2,
+   "music": 0.0,
+   "sid": 247,
+   "to": 609.25
+  },
+  {
+   "content": "并学会接受",
+   "from": 609.25,
+   "location": 2,
+   "music": 0.0,
+   "sid": 248,
+   "to": 610.41
+  },
+  {
+   "content": "无法预见所有未来之事的事实",
+   "from": 610.41,
+   "location": 2,
+   "music": 0.0,
+   "sid": 249,
+   "to": 614.15
+  },
+  {
+   "content": "而这并不意味着我的意思",
+   "from": 614.15,
+   "location": 2,
+   "music": 0.0,
+   "sid": 250,
+   "to": 617.19
+  },
+  {
+   "content": "这确实意味着你并不完美对吧",
+   "from": 617.19,
+   "location": 2,
+   "music": 0.0,
+   "sid": 251,
+   "to": 619.59
+  },
+  {
+   "content": "这没什么问题",
+   "from": 619.59,
+   "location": 2,
+   "music": 0.0,
+   "sid": 252,
+   "to": 621.17
+  },
+  {
+   "content": "你从所有这些心理活动中获得的控制感完全是虚幻的",
+   "from": 621.17,
+   "location": 2,
+   "music": 0.0,
+   "sid": 253,
+   "to": 626.38
+  },
+  {
+   "content": "你感觉在做有意义的事",
+   "from": 626.38,
+   "location": 2,
+   "music": 0.0,
+   "sid": 254,
+   "to": 628.28
+  },
+  {
+   "content": "觉得自己掌控全局",
+   "from": 628.28,
+   "location": 2,
+   "music": 0.0,
+   "sid": 255,
+   "to": 630.2
+  },
+  {
+   "content": "但现实中一切都没变",
+   "from": 630.2,
+   "location": 2,
+   "music": 0.0,
+   "sid": 256,
+   "to": 633.52
+  },
+  {
+   "content": "未来依然不可预测",
+   "from": 633.68,
+   "location": 2,
+   "music": 0.0,
+   "sid": 257,
+   "to": 635.52
+  },
+  {
+   "content": "它依然客观发生",
+   "from": 635.52,
+   "location": 2,
+   "music": 0.0,
+   "sid": 258,
+   "to": 638.16
+  },
+  {
+   "content": "你仍不知道会发生什么",
+   "from": 638.16,
+   "location": 2,
+   "music": 0.0,
+   "sid": 259,
+   "to": 640.72
+  },
+  {
+   "content": "你只是耗尽自己并提升了焦虑基线",
+   "from": 640.72,
+   "location": 2,
+   "music": 0.0,
+   "sid": 260,
+   "to": 644.58
+  },
+  {
+   "content": "这种控制是假的",
+   "from": 644.58,
+   "location": 2,
+   "music": 0.0,
+   "sid": 261,
+   "to": 646.52
+  },
+  {
+   "content": "那里根本没有控制",
+   "from": 646.52,
+   "location": 2,
+   "music": 0.0,
+   "sid": 262,
+   "to": 648.63
+  },
+  {
+   "content": "所以这个陷阱的实际运作方式是：你感到焦虑或不确定",
+   "from": 648.63,
+   "location": 2,
+   "music": 0.0,
+   "sid": 263,
+   "to": 654.56
+  },
+  {
+   "content": "然后你的大脑将这种感觉解读为信号",
+   "from": 654.56,
+   "location": 2,
+   "music": 0.0,
+   "sid": 264,
+   "to": 657.1
+  },
+  {
+   "content": "你需要去思考它",
+   "from": 657.1,
+   "location": 2,
+   "music": 0.0,
+   "sid": 265,
+   "to": 658.7
+  },
+  {
+   "content": "这和上一节讨论的内容一样",
+   "from": 658.7,
+   "location": 2,
+   "music": 0.0,
+   "sid": 266,
+   "to": 661.74
+  },
+  {
+   "content": "对吧",
+   "from": 661.74,
+   "location": 2,
+   "music": 0.0,
+   "sid": 267,
+   "to": 662.22
+  },
+  {
+   "content": "于是开始分析",
+   "from": 662.22,
+   "location": 2,
+   "music": 0.0,
+   "sid": 268,
+   "to": 663.46
+  },
+  {
+   "content": "分析暂时缓解了焦虑",
+   "from": 663.46,
+   "location": 2,
+   "music": 0.0,
+   "sid": 269,
+   "to": 666.78
+  },
+  {
+   "content": "因为你觉得自己在行动",
+   "from": 666.78,
+   "location": 2,
+   "music": 0.0,
+   "sid": 270,
+   "to": 669.13
+  },
+  {
+   "content": "但随后焦虑更强烈",
+   "from": 669.13,
+   "location": 2,
+   "music": 0.0,
+   "sid": 271,
+   "to": 670.65
+  },
+  {
+   "content": "因为你仍未解决任何问题",
+   "from": 670.65,
+   "location": 2,
+   "music": 0.0,
+   "sid": 272,
+   "to": 672.57
+  },
+  {
+   "content": "因为根本没有问题需要解决",
+   "from": 672.57,
+   "location": 2,
+   "music": 0.0,
+   "sid": 273,
+   "to": 674.339
+  },
+  {
+   "content": "现在你更坚信必须继续思考",
+   "from": 674.339,
+   "location": 2,
+   "music": 0.0,
+   "sid": 274,
+   "to": 678.369
+  },
+  {
+   "content": "这就是成瘾循环",
+   "from": 678.369,
+   "location": 2,
+   "music": 0.0,
+   "sid": 275,
+   "to": 680.409
+  },
+  {
+   "content": "过度思考带来的缓解是",
+   "from": 680.409,
+   "location": 2,
+   "music": 0.0,
+   "sid": 276,
+   "to": 682.769
+  },
+  {
+   "content": "只是暂时摆脱了自身制造的焦虑",
+   "from": 682.769,
+   "location": 2,
+   "music": 0.0,
+   "sid": 277,
+   "to": 688.42
+  },
+  {
+   "content": "你并未解决问题",
+   "from": 688.42,
+   "location": 2,
+   "music": 0.0,
+   "sid": 278,
+   "to": 690.14
+  },
+  {
+   "content": "只是在维持现状",
+   "from": 690.14,
+   "location": 2,
+   "music": 0.0,
+   "sid": 279,
+   "to": 691.64
+  },
+  {
+   "content": "当你试图停止时",
+   "from": 691.64,
+   "location": 2,
+   "music": 0.0,
+   "sid": 280,
+   "to": 693.06
+  },
+  {
+   "content": "当你告诉自己",
+   "from": 693.06,
+   "location": 2,
+   "music": 0.0,
+   "sid": 281,
+   "to": 693.96
+  },
+  {
+   "content": "好",
+   "from": 693.96,
+   "location": 2,
+   "music": 0.0,
+   "sid": 282,
+   "to": 694.28
+  },
+  {
+   "content": "我干脆停止思考这件事",
+   "from": 694.28,
+   "location": 2,
+   "music": 0.0,
+   "sid": 283,
+   "to": 696.45
+  },
+  {
+   "content": "你会感到不适",
+   "from": 696.45,
+   "location": 2,
+   "music": 0.0,
+   "sid": 284,
+   "to": 697.89
+  },
+  {
+   "content": "焦躁不安",
+   "from": 697.89,
+   "location": 2,
+   "music": 0.0,
+   "sid": 285,
+   "to": 698.53
+  },
+  {
+   "content": "焦虑的感觉",
+   "from": 698.53,
+   "location": 2,
+   "music": 0.0,
+   "sid": 286,
+   "to": 699.31
+  },
+  {
+   "content": "这让你想再次开始思考",
+   "from": 699.31,
+   "location": 2,
+   "music": 0.0,
+   "sid": 287,
+   "to": 701.95
+  },
+  {
+   "content": "这种感觉就是戒断反应",
+   "from": 701.95,
+   "location": 2,
+   "music": 0.0,
+   "sid": 288,
+   "to": 704.81
+  },
+  {
+   "content": "就像吸烟者戒烟时的感受",
+   "from": 704.81,
+   "location": 2,
+   "music": 0.0,
+   "sid": 289,
+   "to": 708.71
+  },
+  {
+   "content": "或酗酒者",
+   "from": 708.71,
+   "location": 2,
+   "music": 0.0,
+   "sid": 290,
+   "to": 710.03
+  },
+  {
+   "content": "戒酒时的体验",
+   "from": 710.03,
+   "location": 2,
+   "music": 0.0,
+   "sid": 291,
+   "to": 711.71
+  },
+  {
+   "content": "或任何药物成瘾者戒断时的状态",
+   "from": 711.71,
+   "location": 2,
+   "music": 0.0,
+   "sid": 292,
+   "to": 716.71
+  },
+  {
+   "content": "大脑已依赖心理活动",
+   "from": 717.47,
+   "location": 2,
+   "music": 0.0,
+   "sid": 293,
+   "to": 720.75
+  },
+  {
+   "content": "当你停止时",
+   "from": 720.75,
+   "location": 2,
+   "music": 0.0,
+   "sid": 294,
+   "to": 722.09
+  },
+  {
+   "content": "哪怕短暂",
+   "from": 722.09,
+   "location": 2,
+   "music": 0.0,
+   "sid": 295,
+   "to": 723.09
+  },
+  {
+   "content": "它会恐慌",
+   "from": 723.09,
+   "location": 2,
+   "music": 0.0,
+   "sid": 296,
+   "to": 724.29
+  },
+  {
+   "content": "大多数人会将这种恐慌解读为必须继续思考的证据",
+   "from": 724.29,
+   "location": 2,
+   "music": 0.0,
+   "sid": 297,
+   "to": 728.77
+  },
+  {
+   "content": "这完全相反",
+   "from": 729.93,
+   "location": 2,
+   "music": 0.0,
+   "sid": 298,
+   "to": 731.869
+  },
+  {
+   "content": "不适感恰恰证明你已成瘾",
+   "from": 732.029,
+   "location": 2,
+   "music": 0.0,
+   "sid": 299,
+   "to": 735.729
+  },
+  {
+   "content": "唯一的出路就是让不适感自然消散而不去强化",
+   "from": 735.729,
+   "location": 2,
+   "music": 0.0,
+   "sid": 300,
+   "to": 740.75
+  },
+  {
+   "content": "这个习惯",
+   "from": 740.75,
+   "location": 2,
+   "music": 0.0,
+   "sid": 301,
+   "to": 742.01
+  },
+  {
+   "content": "现在每个人犯的错误是以为",
+   "from": 742.25,
+   "location": 2,
+   "music": 0.0,
+   "sid": 302,
+   "to": 744.51
+  },
+  {
+   "content": "停止过度思考的方法是通过思考来摆脱它",
+   "from": 744.51,
+   "location": 2,
+   "music": 0.0,
+   "sid": 303,
+   "to": 747.77
+  },
+  {
+   "content": "要弄清楚为什么会这样做",
+   "from": 747.77,
+   "location": 2,
+   "music": 0.0,
+   "sid": 304,
+   "to": 749.74
+  },
+  {
+   "content": "分析其中的模式",
+   "from": 749.74,
+   "location": 2,
+   "music": 0.0,
+   "sid": 305,
+   "to": 751.0
+  },
+  {
+   "content": "理解心理机制",
+   "from": 751.0,
+   "location": 2,
+   "music": 0.0,
+   "sid": 306,
+   "to": 753.24
+  },
+  {
+   "content": "但这只是更多的思考对吧",
+   "from": 753.24,
+   "location": 2,
+   "music": 0.0,
+   "sid": 307,
+   "to": 755.46
+  },
+  {
+   "content": "这就是成瘾",
+   "from": 755.46,
+   "location": 2,
+   "music": 0.0,
+   "sid": 308,
+   "to": 756.7
+  },
+  {
+   "content": "找到一条新的途径",
+   "from": 756.7,
+   "location": 2,
+   "music": 0.0,
+   "sid": 309,
+   "to": 759.28
+  },
+  {
+   "content": "本质上在自我合理化",
+   "from": 759.28,
+   "location": 2,
+   "music": 0.0,
+   "sid": 310,
+   "to": 761.03
+  },
+  {
+   "content": "我现在不再过度思考了",
+   "from": 761.03,
+   "location": 2,
+   "music": 0.0,
+   "sid": 311,
+   "to": 762.79
+  },
+  {
+   "content": "我只是在有效思考我的过度思考问题",
+   "from": 762.79,
+   "location": 2,
+   "music": 0.0,
+   "sid": 312,
+   "to": 766.59
+  },
+  {
+   "content": "你听这听起来怎么样",
+   "from": 766.74,
+   "location": 2,
+   "music": 0.0,
+   "sid": 313,
+   "to": 768.1
+  },
+  {
+   "content": "唯一的出路真的要通过不适感",
+   "from": 768.1,
+   "location": 2,
+   "music": 0.0,
+   "sid": 314,
+   "to": 771.6
+  },
+  {
+   "content": "不参与其中",
+   "from": 771.6,
+   "location": 2,
+   "music": 0.0,
+   "sid": 315,
+   "to": 773.04
+  },
+  {
+   "content": "你必须愿意感受不思考的焦虑并任其存在",
+   "from": 773.04,
+   "location": 2,
+   "music": 0.0,
+   "sid": 316,
+   "to": 778.44
+  },
+  {
+   "content": "所有这一切只需让它自然存在",
+   "from": 778.44,
+   "location": 2,
+   "music": 0.0,
+   "sid": 317,
+   "to": 780.36
+  },
+  {
+   "content": "它会过去",
+   "from": 780.36,
+   "location": 2,
+   "music": 0.0,
+   "sid": 318,
+   "to": 781.14
+  },
+  {
+   "content": "它总会过去",
+   "from": 781.14,
+   "location": 2,
+   "music": 0.0,
+   "sid": 319,
+   "to": 782.16
+  },
+  {
+   "content": "每次你这样做时",
+   "from": 782.16,
+   "location": 2,
+   "music": 0.0,
+   "sid": 320,
+   "to": 783.38
+  },
+  {
+   "content": "每次拒绝喂养循环",
+   "from": 783.38,
+   "location": 2,
+   "music": 0.0,
+   "sid": 321,
+   "to": 785.64
+  },
+  {
+   "content": "它会变弱",
+   "from": 785.64,
+   "location": 2,
+   "music": 0.0,
+   "sid": 322,
+   "to": 786.98
+  },
+  {
+   "content": "渴望感逐渐减少",
+   "from": 786.98,
+   "location": 2,
+   "music": 0.0,
+   "sid": 323,
+   "to": 788.96
+  },
+  {
+   "content": "焦虑基线下降",
+   "from": 788.96,
+   "location": 2,
+   "music": 0.0,
+   "sid": 324,
+   "to": 791.36
+  },
+  {
+   "content": "最终你会发现其实不需要思考大多数事情",
+   "from": 791.36,
+   "location": 2,
+   "music": 0.0,
+   "sid": 325,
+   "to": 796.18
+  },
+  {
+   "content": "生活自然运转得很好",
+   "from": 796.54,
+   "location": 2,
+   "music": 0.0,
+   "sid": 326,
+   "to": 798.74
+  },
+  {
+   "content": "往往没有这些心理杂音更好",
+   "from": 800.06,
+   "location": 2,
+   "music": 0.0,
+   "sid": 327,
+   "to": 802.12
+  },
+  {
+   "content": "没错 过度思考毫无意义",
+   "from": 802.12,
+   "location": 2,
+   "music": 0.0,
+   "sid": 328,
+   "to": 805.569
+  },
+  {
+   "content": "它并不能保护你",
+   "from": 805.569,
+   "location": 2,
+   "music": 0.0,
+   "sid": 329,
+   "to": 806.849
+  },
+  {
+   "content": "它无法准备你",
+   "from": 806.849,
+   "location": 2,
+   "music": 0.0,
+   "sid": 330,
+   "to": 807.849
+  },
+  {
+   "content": "它不会让你更聪明或更谨慎或更负责",
+   "from": 807.849,
+   "location": 2,
+   "music": 0.0,
+   "sid": 331,
+   "to": 811.65
+  },
+  {
+   "content": "它只会索取",
+   "from": 811.65,
+   "location": 2,
+   "music": 0.0,
+   "sid": 332,
+   "to": 812.77
+  },
+  {
+   "content": "它夺走你的部分",
+   "from": 812.77,
+   "location": 2,
+   "music": 0.0,
+   "sid": 333,
+   "to": 813.57
+  },
+  {
+   "content": "它消耗你的精力",
+   "from": 813.57,
+   "location": 2,
+   "music": 0.0,
+   "sid": 334,
+   "to": 814.61
+  },
+  {
+   "content": "它夺走你的存在感",
+   "from": 814.61,
+   "location": 2,
+   "music": 0.0,
+   "sid": 335,
+   "to": 815.81
+  },
+  {
+   "content": "它剥夺你的睡眠",
+   "from": 815.81,
+   "location": 2,
+   "music": 0.0,
+   "sid": 336,
+   "to": 816.83
+  },
+  {
+   "content": "还破坏你的关系",
+   "from": 816.83,
+   "location": 2,
+   "music": 0.0,
+   "sid": 337,
+   "to": 818.59
+  },
+  {
+   "content": "因为你从未真正到场",
+   "from": 818.59,
+   "location": 2,
+   "music": 0.0,
+   "sid": 338,
+   "to": 819.79
+  },
+  {
+   "content": "当你陷入思维漩涡时",
+   "from": 819.79,
+   "location": 2,
+   "music": 0.0,
+   "sid": 339,
+   "to": 821.46
+  },
+  {
+   "content": "这场交易完全单方面",
+   "from": 821.46,
+   "location": 2,
+   "music": 0.0,
+   "sid": 340,
+   "to": 825.14
+  },
+  {
+   "content": "你用真实的一切换取完全虚幻的东西",
+   "from": 825.14,
+   "location": 2,
+   "music": 0.0,
+   "sid": 341,
+   "to": 830.2
+  },
+  {
+   "content": "一旦真正看清这一点",
+   "from": 830.2,
+   "location": 2,
+   "music": 0.0,
+   "sid": 342,
+   "to": 831.62
+  },
+  {
+   "content": "一旦彻底明白",
+   "from": 831.62,
+   "location": 2,
+   "music": 0.0,
+   "sid": 343,
+   "to": 833.24
+  },
+  {
+   "content": "你会疑惑为何曾助长这个习惯",
+   "from": 833.24,
+   "location": 2,
+   "music": 0.0,
+   "sid": 344,
+   "to": 836.49
+  },
+  {
+   "content": "但有好消息",
+   "from": 836.49,
+   "location": 2,
+   "music": 0.0,
+   "sid": 345,
+   "to": 837.67
+  },
+  {
+   "content": "你无需培养特殊技能来停止",
+   "from": 837.67,
+   "location": 2,
+   "music": 0.0,
+   "sid": 346,
+   "to": 840.23
+  },
+  {
+   "content": "无需多年冥想修行或心理治疗或自我提升",
+   "from": 840.23,
+   "location": 2,
+   "music": 0.0,
+   "sid": 347,
+   "to": 845.49
+  },
+  {
+   "content": "只需清晰看到陷阱从而失去参与欲望",
+   "from": 845.49,
+   "location": 2,
+   "music": 0.0,
+   "sid": 348,
+   "to": 850.349
+  },
+  {
+   "content": "这就是整个方法",
+   "from": 850.349,
+   "location": 2,
+   "music": 0.0,
+   "sid": 349,
+   "to": 851.549
+  },
+  {
+   "content": "当你真正明白过度思考毫无所得且消耗一切时，你就会停止",
+   "from": 851.549,
+   "location": 2,
+   "music": 0.0,
+   "sid": 350,
+   "to": 855.889
+  },
+  {
+   "content": "想要去做它",
+   "from": 855.889,
+   "location": 2,
+   "music": 0.0,
+   "sid": 351,
+   "to": 856.749
+  },
+  {
+   "content": "渴望随之消退",
+   "from": 856.749,
+   "location": 2,
+   "music": 0.0,
+   "sid": 352,
+   "to": 857.889
+  },
+  {
+   "content": "你只需立即停止",
+   "from": 857.889,
+   "location": 2,
+   "music": 0.0,
+   "sid": 353,
+   "to": 860.02
+  },
+  {
+   "content": "所以让我们谈谈停止努力",
+   "from": 860.02,
+   "location": 2,
+   "music": 0.0,
+   "sid": 354,
+   "to": 862.6
+  },
+  {
+   "content": "这可能是整个训练中最反直觉的部分",
+   "from": 862.82,
+   "location": 2,
+   "music": 0.0,
+   "sid": 355,
+   "to": 867.18
+  },
+  {
+   "content": "同时也是最重要的部分",
+   "from": 867.18,
+   "location": 2,
+   "music": 0.0,
+   "sid": 356,
+   "to": 870.33
+  },
+  {
+   "content": "那就是停止过度思考不需要努力",
+   "from": 870.33,
+   "location": 2,
+   "music": 0.0,
+   "sid": 357,
+   "to": 874.829
+  },
+  {
+   "content": "完全不需要",
+   "from": 874.829,
+   "location": 2,
+   "music": 0.0,
+   "sid": 358,
+   "to": 875.709
+  },
+  {
+   "content": "事实上努力才是问题所在",
+   "from": 875.709,
+   "location": 2,
+   "music": 0.0,
+   "sid": 359,
+   "to": 877.74
+  },
+  {
+   "content": "那种我要拼命尝试停止",
+   "from": 877.74,
+   "location": 2,
+   "music": 0.0,
+   "sid": 360,
+   "to": 880.16
+  },
+  {
+   "content": "思考",
+   "from": 880.16,
+   "location": 2,
+   "music": 0.0,
+   "sid": 361,
+   "to": 880.5
+  },
+  {
+   "content": "的方法从一开始就注定失败",
+   "from": 880.5,
+   "location": 2,
+   "music": 0.0,
+   "sid": 362,
+   "to": 882.58
+  },
+  {
+   "content": "我想解释原因",
+   "from": 882.58,
+   "location": 2,
+   "music": 0.0,
+   "sid": 363,
+   "to": 883.82
+  },
+  {
+   "content": "这样你就不会浪费时间做错",
+   "from": 883.82,
+   "location": 2,
+   "music": 0.0,
+   "sid": 364,
+   "to": 887.39
+  },
+  {
+   "content": "现在大多数人完全搞反了方向",
+   "from": 887.39,
+   "location": 2,
+   "music": 0.0,
+   "sid": 365,
+   "to": 889.85
+  },
+  {
+   "content": "因为他们把过度思考当作一种行为",
+   "from": 889.85,
+   "location": 2,
+   "music": 0.0,
+   "sid": 366,
+   "to": 892.17
+  },
+  {
+   "content": "需要压制",
+   "from": 892.17,
+   "location": 2,
+   "music": 0.0,
+   "sid": 367,
+   "to": 893.64
+  },
+  {
+   "content": "就像在吃垃圾食品",
+   "from": 893.64,
+   "location": 2,
+   "music": 0.0,
+   "sid": 368,
+   "to": 895.5
+  },
+  {
+   "content": "只需通过意志力抵抗冲动",
+   "from": 895.5,
+   "location": 2,
+   "music": 0.0,
+   "sid": 369,
+   "to": 898.62
+  },
+  {
+   "content": "但过度思考根本不是这样运作的",
+   "from": 898.62,
+   "location": 2,
+   "music": 0.0,
+   "sid": 370,
+   "to": 901.76
+  },
+  {
+   "content": "原因在于当你试图停止思考",
+   "from": 901.76,
+   "location": 2,
+   "music": 0.0,
+   "sid": 371,
+   "to": 904.7
+  },
+  {
+   "content": "你正在制造阻力",
+   "from": 904.7,
+   "location": 2,
+   "music": 0.0,
+   "sid": 372,
+   "to": 906.62
+  },
+  {
+   "content": "而阻力只是更多心理活动",
+   "from": 906.62,
+   "location": 2,
+   "music": 0.0,
+   "sid": 373,
+   "to": 909.52
+  },
+  {
+   "content": "这意味着你实际上在滋养自己试图停止的东西，努力本身",
+   "from": 909.52,
+   "location": 2,
+   "music": 0.0,
+   "sid": 374,
+   "to": 914.53
+  },
+  {
+   "content": "会引发混乱",
+   "from": 914.53,
+   "location": 2,
+   "music": 0.0,
+   "sid": 375,
+   "to": 916.25
+  },
+  {
+   "content": "老子曾精辟指出",
+   "from": 916.25,
+   "location": 2,
+   "music": 0.0,
+   "sid": 376,
+   "to": 919.01
+  },
+  {
+   "content": "我在此转述：你越是试图控制事物",
+   "from": 919.01,
+   "location": 2,
+   "music": 0.0,
+   "sid": 377,
+   "to": 922.07
+  },
+  {
+   "content": "它们就越控制你",
+   "from": 922.07,
+   "location": 2,
+   "music": 0.0,
+   "sid": 378,
+   "to": 924.19
+  },
+  {
+   "content": "同样适用于此，当你逼迫自己停止过度思考",
+   "from": 924.19,
+   "location": 2,
+   "music": 0.0,
+   "sid": 379,
+   "to": 928.68
+  },
+  {
+   "content": "你正在叠加更多的心理噪音",
+   "from": 928.68,
+   "location": 2,
+   "music": 0.0,
+   "sid": 380,
+   "to": 933.19
+  },
+  {
+   "content": "因为现在你在思考不思考的过程",
+   "from": 933.19,
+   "location": 2,
+   "music": 0.0,
+   "sid": 381,
+   "to": 935.89
+  },
+  {
+   "content": "是否在思考",
+   "from": 935.89,
+   "location": 2,
+   "music": 0.0,
+   "sid": 382,
+   "to": 936.73
+  },
+  {
+   "content": "自我评判",
+   "from": 936.73,
+   "location": 2,
+   "music": 0.0,
+   "sid": 383,
+   "to": 937.55
+  },
+  {
+   "content": "或策划如何减少思考",
+   "from": 937.55,
+   "location": 2,
+   "music": 0.0,
+   "sid": 384,
+   "to": 940.51
+  },
+  {
+   "content": "所有这些仍是更多思考",
+   "from": 940.51,
+   "location": 2,
+   "music": 0.0,
+   "sid": 385,
+   "to": 943.59
+  },
+  {
+   "content": "你并未真正解脱",
+   "from": 943.59,
+   "location": 2,
+   "music": 0.0,
+   "sid": 386,
+   "to": 945.23
+  },
+  {
+   "content": "只是为习惯提供了新形态",
+   "from": 945.23,
+   "location": 2,
+   "music": 0.0,
+   "sid": 387,
+   "to": 948.079
+  },
+  {
+   "content": "你越努力",
+   "from": 948.079,
+   "location": 2,
+   "music": 0.0,
+   "sid": 388,
+   "to": 949.559
+  },
+  {
+   "content": "情况越糟因为更努力意味着更多心理活动",
+   "from": 949.559,
+   "location": 2,
+   "music": 0.0,
+   "sid": 389,
+   "to": 953.179
+  },
+  {
+   "content": "更多注意力",
+   "from": 953.179,
+   "location": 2,
+   "music": 0.0,
+   "sid": 390,
+   "to": 953.859
+  },
+  {
+   "content": "更多压力",
+   "from": 953.859,
+   "location": 2,
+   "music": 0.0,
+   "sid": 391,
+   "to": 954.539
+  },
+  {
+   "content": "更多自我监控",
+   "from": 954.539,
+   "location": 2,
+   "music": 0.0,
+   "sid": 392,
+   "to": 955.89
+  },
+  {
+   "content": "这一切都在维持循环",
+   "from": 955.89,
+   "location": 2,
+   "music": 0.0,
+   "sid": 393,
+   "to": 957.29
+  },
+  {
+   "content": "这就是为什么人们多年致力于焦虑问题",
+   "from": 957.29,
+   "location": 2,
+   "music": 0.0,
+   "sid": 394,
+   "to": 961.15
+  },
+  {
+   "content": "却始终无法真正好转",
+   "from": 961.15,
+   "location": 2,
+   "music": 0.0,
+   "sid": 395,
+   "to": 962.89
+  },
+  {
+   "content": "因为努力本身维持了问题",
+   "from": 962.89,
+   "location": 2,
+   "music": 0.0,
+   "sid": 396,
+   "to": 966.14
+  },
+  {
+   "content": "没错",
+   "from": 966.14,
+   "location": 2,
+   "music": 0.0,
+   "sid": 397,
+   "to": 966.7
+  },
+  {
+   "content": "意志力完全不适合解决这个问题",
+   "from": 966.7,
+   "location": 2,
+   "music": 0.0,
+   "sid": 398,
+   "to": 969.98
+  },
+  {
+   "content": "意志力在初次尝试做难事时有效",
+   "from": 969.98,
+   "location": 2,
+   "music": 0.0,
+   "sid": 399,
+   "to": 974.86
+  },
+  {
+   "content": "这不管用",
+   "from": 974.86,
+   "location": 2,
+   "music": 0.0,
+   "sid": 400,
+   "to": 975.78
+  },
+  {
+   "content": "当你试图停止由无意识渴望驱动的行为时",
+   "from": 975.78,
+   "location": 2,
+   "music": 0.0,
+   "sid": 401,
+   "to": 980.14
+  },
+  {
+   "content": "因为渴望只需等待你的意志力耗尽",
+   "from": 980.14,
+   "location": 2,
+   "music": 0.0,
+   "sid": 402,
+   "to": 984.37
+  },
+  {
+   "content": "而这总是会发生",
+   "from": 984.37,
+   "location": 2,
+   "music": 0.0,
+   "sid": 403,
+   "to": 986.19
+  },
+  {
+   "content": "尤其是在一天结束时",
+   "from": 986.19,
+   "location": 2,
+   "music": 0.0,
+   "sid": 404,
+   "to": 987.69
+  },
+  {
+   "content": "对吧，然后它立刻把你拉回原点",
+   "from": 987.69,
+   "location": 2,
+   "music": 0.0,
+   "sid": 405,
+   "to": 991.04
+  },
+  {
+   "content": "真正的解决方案，就像我们一直努力的方向",
+   "from": 991.04,
+   "location": 2,
+   "music": 0.0,
+   "sid": 406,
+   "to": 993.9
+  },
+  {
+   "content": "是看清陷阱如此明显，参与的欲望会自行消失",
+   "from": 993.9,
+   "location": 2,
+   "music": 0.0,
+   "sid": 407,
+   "to": 999.18
+  },
+  {
+   "content": "你不必强迫自己停止想要某物",
+   "from": 999.18,
+   "location": 2,
+   "music": 0.0,
+   "sid": 408,
+   "to": 1001.84
+  },
+  {
+   "content": "当你真正看清它的本质时",
+   "from": 1001.84,
+   "location": 2,
+   "music": 0.0,
+   "sid": 409,
+   "to": 1005.4
+  },
+  {
+   "content": "当你看清它毫无价值且有害时",
+   "from": 1005.4,
+   "location": 2,
+   "music": 0.0,
+   "sid": 410,
+   "to": 1008.329
+  },
+  {
+   "content": "换个角度想",
+   "from": 1008.329,
+   "location": 2,
+   "music": 0.0,
+   "sid": 411,
+   "to": 1009.449
+  },
+  {
+   "content": "你不必用意志力停止吃毒食",
+   "from": 1009.449,
+   "location": 2,
+   "music": 0.0,
+   "sid": 412,
+   "to": 1012.189
+  },
+  {
+   "content": "你知道是毒的对吧",
+   "from": 1012.189,
+   "location": 2,
+   "music": 0.0,
+   "sid": 413,
+   "to": 1014.12
+  },
+  {
+   "content": "因为一旦看清它是毒的",
+   "from": 1014.12,
+   "location": 2,
+   "music": 0.0,
+   "sid": 414,
+   "to": 1015.76
+  },
+  {
+   "content": "你就不再想要了",
+   "from": 1015.76,
+   "location": 2,
+   "music": 0.0,
+   "sid": 415,
+   "to": 1017.34
+  },
+  {
+   "content": "觉察本身就是答案",
+   "from": 1017.34,
+   "location": 2,
+   "music": 0.0,
+   "sid": 416,
+   "to": 1019.8
+  },
+  {
+   "content": "当你真正理解过度思考毫无所得且代价高昂",
+   "from": 1019.96,
+   "location": 2,
+   "music": 0.0,
+   "sid": 417,
+   "to": 1024.8
+  },
+  {
+   "content": "你就不再想去做",
+   "from": 1024.8,
+   "location": 2,
+   "music": 0.0,
+   "sid": 418,
+   "to": 1026.66
+  },
+  {
+   "content": "渴望就此消亡",
+   "from": 1026.66,
+   "location": 2,
+   "music": 0.0,
+   "sid": 419,
+   "to": 1027.68
+  },
+  {
+   "content": "你完全失去对整个游戏的兴趣",
+   "from": 1027.68,
+   "location": 2,
+   "music": 0.0,
+   "sid": 420,
+   "to": 1029.42
+  },
+  {
+   "content": "它变得明显毫无意义且无意义",
+   "from": 1029.42,
+   "location": 2,
+   "music": 0.0,
+   "sid": 421,
+   "to": 1031.82
+  },
+  {
+   "content": "停止行为变得轻而易举",
+   "from": 1031.82,
+   "location": 2,
+   "music": 0.0,
+   "sid": 422,
+   "to": 1033.54
+  },
+  {
+   "content": "而这正是所有真实改变的本质",
+   "from": 1033.54,
+   "location": 2,
+   "music": 0.0,
+   "sid": 423,
+   "to": 1036.44
+  },
+  {
+   "content": "你不必强迫自己停止做事",
+   "from": 1036.44,
+   "location": 2,
+   "music": 0.0,
+   "sid": 424,
+   "to": 1039.44
+  },
+  {
+   "content": "你真正不想去做",
+   "from": 1039.44,
+   "location": 2,
+   "music": 0.0,
+   "sid": 425,
+   "to": 1041.24
+  },
+  {
+   "content": "挣扎只存在于你仍相信习惯有价值的部分",
+   "from": 1041.24,
+   "location": 2,
+   "music": 0.0,
+   "sid": 426,
+   "to": 1045.94
+  },
+  {
+   "content": "一旦那个信念消失",
+   "from": 1045.94,
+   "location": 2,
+   "music": 0.0,
+   "sid": 427,
+   "to": 1047.38
+  },
+  {
+   "content": "一旦看破幻象",
+   "from": 1047.38,
+   "location": 2,
+   "music": 0.0,
+   "sid": 428,
+   "to": 1049.639
+  },
+  {
+   "content": "因为它本身就是幻象",
+   "from": 1049.639,
+   "location": 2,
+   "music": 0.0,
+   "sid": 429,
+   "to": 1051.039
+  },
+  {
+   "content": "一旦完全看破",
+   "from": 1051.039,
+   "location": 2,
+   "music": 0.0,
+   "sid": 430,
+   "to": 1053.119
+  },
+  {
+   "content": "行为会自然消退无需任何努力",
+   "from": 1053.119,
+   "location": 2,
+   "music": 0.0,
+   "sid": 431,
+   "to": 1057.26
+  },
+  {
+   "content": "此刻你大部分时间其实没有在思考",
+   "from": 1057.26,
+   "location": 2,
+   "music": 0.0,
+   "sid": 432,
+   "to": 1061.16
+  },
+  {
+   "content": "当你在观看或聆听这段内容时",
+   "from": 1061.16,
+   "location": 2,
+   "music": 0.0,
+   "sid": 433,
+   "to": 1063.16
+  },
+  {
+   "content": "或者如果你在阅读它",
+   "from": 1063.16,
+   "location": 2,
+   "music": 0.0,
+   "sid": 434,
+   "to": 1064.4
+  },
+  {
+   "content": "你其实没有过度思考",
+   "from": 1064.4,
+   "location": 2,
+   "music": 0.0,
+   "sid": 435,
+   "to": 1066.76
+  },
+  {
+   "content": "你的思维专注于内容并保持当下",
+   "from": 1066.76,
+   "location": 2,
+   "music": 0.0,
+   "sid": 436,
+   "to": 1071.429
+  },
+  {
+   "content": "自然状态已是相对平静的思维",
+   "from": 1071.429,
+   "location": 2,
+   "music": 0.0,
+   "sid": 437,
+   "to": 1075.249
+  },
+  {
+   "content": "对吧",
+   "from": 1075.249,
+   "location": 2,
+   "music": 0.0,
+   "sid": 438,
+   "to": 1075.729
+  },
+  {
+   "content": "过度思考是这种状态的干扰",
+   "from": 1075.729,
+   "location": 2,
+   "music": 0.0,
+   "sid": 439,
+   "to": 1078.969
+  },
+  {
+   "content": "而非默认状态",
+   "from": 1078.969,
+   "location": 2,
+   "music": 0.0,
+   "sid": 440,
+   "to": 1080.21
+  },
+  {
+   "content": "对吧",
+   "from": 1080.21,
+   "location": 2,
+   "music": 0.0,
+   "sid": 441,
+   "to": 1080.67
+  },
+  {
+   "content": "我们并非创造新事物或追求高级心流",
+   "from": 1080.67,
+   "location": 2,
+   "music": 0.0,
+   "sid": 442,
+   "to": 1085.15
+  },
+  {
+   "content": "只是停止干扰已存在的平静",
+   "from": 1085.47,
+   "location": 2,
+   "music": 0.0,
+   "sid": 443,
+   "to": 1089.71
+  },
+  {
+   "content": "在噪音之下",
+   "from": 1089.71,
+   "location": 2,
+   "music": 0.0,
+   "sid": 444,
+   "to": 1090.45
+  },
+  {
+   "content": "我们只需回归自然状态",
+   "from": 1090.45,
+   "location": 2,
+   "music": 0.0,
+   "sid": 445,
+   "to": 1094.63
+  },
+  {
+   "content": "当你停止滋养过度思考的习惯时",
+   "from": 1094.63,
+   "location": 2,
+   "music": 0.0,
+   "sid": 446,
+   "to": 1096.91
+  },
+  {
+   "content": "无需用其他东西替代",
+   "from": 1096.91,
+   "location": 2,
+   "music": 0.0,
+   "sid": 447,
+   "to": 1098.77
+  },
+  {
+   "content": "或培养新技能、建立新习惯",
+   "from": 1098.77,
+   "location": 2,
+   "music": 0.0,
+   "sid": 448,
+   "to": 1102.05
+  },
+  {
+   "content": "你只需回归原本存在的状态",
+   "from": 1102.05,
+   "location": 2,
+   "music": 0.0,
+   "sid": 449,
+   "to": 1104.23
+  },
+  {
+   "content": "在习惯掌控平静之前",
+   "from": 1104.23,
+   "location": 2,
+   "music": 0.0,
+   "sid": 450,
+   "to": 1106.33
+  },
+  {
+   "content": "这不是你精心构建的东西吗",
+   "from": 1106.33,
+   "location": 2,
+   "music": 0.0,
+   "sid": 451,
+   "to": 1108.319
+  },
+  {
+   "content": "当你停止制造焦虑时剩下的就是平静",
+   "from": 1108.319,
+   "location": 2,
+   "music": 0.0,
+   "sid": 452,
+   "to": 1110.719
+  },
+  {
+   "content": "当没有混乱存在时",
+   "from": 1110.719,
+   "location": 2,
+   "music": 0.0,
+   "sid": 453,
+   "to": 1111.979
+  },
+  {
+   "content": "那就是真正的平静啊",
+   "from": 1111.979,
+   "location": 2,
+   "music": 0.0,
+   "sid": 454,
+   "to": 1113.64
+  },
+  {
+   "content": "所以这里的指导不是更努力地停止思考",
+   "from": 1113.64,
+   "location": 2,
+   "music": 0.0,
+   "sid": 455,
+   "to": 1117.06
+  },
+  {
+   "content": "更像这样的指导",
+   "from": 1117.06,
+   "location": 2,
+   "music": 0.0,
+   "sid": 456,
+   "to": 1118.64
+  },
+  {
+   "content": "允许自己停下来",
+   "from": 1118.64,
+   "location": 2,
+   "music": 0.0,
+   "sid": 457,
+   "to": 1121.35
+  },
+  {
+   "content": "给自己不参与的许可",
+   "from": 1121.35,
+   "location": 2,
+   "music": 0.0,
+   "sid": 458,
+   "to": 1124.139
+  },
+  {
+   "content": "停止将每个担忧的念头",
+   "from": 1124.139,
+   "location": 2,
+   "music": 0.0,
+   "sid": 459,
+   "to": 1125.939
+  },
+  {
+   "content": "当作值得关注的对象",
+   "from": 1125.939,
+   "location": 2,
+   "music": 0.0,
+   "sid": 460,
+   "to": 1127.559
+  },
+  {
+   "content": "因为它们并不值得",
+   "from": 1127.559,
+   "location": 2,
+   "music": 0.0,
+   "sid": 461,
+   "to": 1128.459
+  },
+  {
+   "content": "这只是些念头而已",
+   "from": 1128.459,
+   "location": 2,
+   "music": 0.0,
+   "sid": 462,
+   "to": 1130.66
+  },
+  {
+   "content": "每天有成千上万的念头存在",
+   "from": 1130.66,
+   "location": 2,
+   "music": 0.0,
+   "sid": 463,
+   "to": 1135.02
+  },
+  {
+   "content": "你无法逐一关注每个念头并相信一切安好",
+   "from": 1135.02,
+   "location": 2,
+   "music": 0.0,
+   "sid": 464,
+   "to": 1140.84
+  },
+  {
+   "content": "你不需要所有这些思维活动来运转",
+   "from": 1140.84,
+   "location": 2,
+   "music": 0.0,
+   "sid": 465,
+   "to": 1143.58
+  },
+  {
+   "content": "或保持安全或做出正确决定",
+   "from": 1143.58,
+   "location": 2,
+   "music": 0.0,
+   "sid": 466,
+   "to": 1146.21
+  },
+  {
+   "content": "你已被误导",
+   "from": 1146.21,
+   "location": 2,
+   "music": 0.0,
+   "sid": 467,
+   "to": 1146.97
+  },
+  {
+   "content": "需要持续不断思考的想法",
+   "from": 1146.97,
+   "location": 2,
+   "music": 0.0,
+   "sid": 468,
+   "to": 1150.31
+  },
+  {
+   "content": "但其实大部分生活本就运转良好",
+   "from": 1150.31,
+   "location": 2,
+   "music": 0.0,
+   "sid": 469,
+   "to": 1154.1
+  },
+  {
+   "content": "对吧",
+   "from": 1154.1,
+   "location": 2,
+   "music": 0.0,
+   "sid": 470,
+   "to": 1154.62
+  },
+  {
+   "content": "很多时候无需提前想透所有问题",
+   "from": 1154.62,
+   "location": 2,
+   "music": 0.0,
+   "sid": 471,
+   "to": 1159.18
+  },
+  {
+   "content": "所以说到这里",
+   "from": 1159.54,
+   "location": 2,
+   "music": 0.0,
+   "sid": 472,
+   "to": 1161.54
+  },
+  {
+   "content": "让我们谈谈目标的力量",
+   "from": 1161.54,
+   "location": 2,
+   "music": 0.0,
+   "sid": 473,
+   "to": 1163.68
+  },
+  {
+   "content": "结束过度思考最有效的方法",
+   "from": 1163.68,
+   "location": 2,
+   "music": 0.0,
+   "sid": 474,
+   "to": 1167.34
+  },
+  {
+   "content": "就是拥有真正要做的事",
+   "from": 1167.34,
+   "location": 2,
+   "music": 0.0,
+   "sid": 475,
+   "to": 1171.04
+  },
+  {
+   "content": "比如实际的目标",
+   "from": 1171.04,
+   "location": 2,
+   "music": 0.0,
+   "sid": 476,
+   "to": 1172.06
+  },
+  {
+   "content": "一个目标",
+   "from": 1172.06,
+   "location": 2,
+   "music": 0.0,
+   "sid": 477,
+   "to": 1172.72
+  },
+  {
+   "content": "你正在积极追求的事物",
+   "from": 1172.72,
+   "location": 2,
+   "music": 0.0,
+   "sid": 478,
+   "to": 1174.86
+  },
+  {
+   "content": "需要专注和精力的明确目标",
+   "from": 1174.86,
+   "location": 2,
+   "music": 0.0,
+   "sid": 479,
+   "to": 1178.54
+  },
+  {
+   "content": "甚至更好",
+   "from": 1178.54,
+   "location": 2,
+   "music": 0.0,
+   "sid": 480,
+   "to": 1179.32
+  },
+  {
+   "content": "不是脑海中反复思考的目标",
+   "from": 1179.32,
+   "location": 2,
+   "music": 0.0,
+   "sid": 481,
+   "to": 1182.48
+  },
+  {
+   "content": "因为过度思考不会凭空发生",
+   "from": 1182.48,
+   "location": 2,
+   "music": 0.0,
+   "sid": 482,
+   "to": 1185.2
+  },
+  {
+   "content": "当大脑无事可做时才会出现",
+   "from": 1185.2,
+   "location": 2,
+   "music": 0.0,
+   "sid": 483,
+   "to": 1188.28
+  },
+  {
+   "content": "这也是为什么你会注意到",
+   "from": 1188.28,
+   "location": 2,
+   "music": 0.0,
+   "sid": 484,
+   "to": 1190.71
+  },
+  {
+   "content": "在空闲、无聊或迷茫时",
+   "from": 1190.71,
+   "location": 2,
+   "music": 0.0,
+   "sid": 485,
+   "to": 1193.56
+  },
+  {
+   "content": "自然厌恶真空状态",
+   "from": 1193.56,
+   "location": 2,
+   "music": 0.0,
+   "sid": 486,
+   "to": 1196.66
+  },
+  {
+   "content": "目的性才是对抗过度思考的关键",
+   "from": 1196.66,
+   "location": 2,
+   "music": 0.0,
+   "sid": 487,
+   "to": 1201.2
+  },
+  {
+   "content": "大脑始终在寻找要做的事、要处理的事",
+   "from": 1202.05,
+   "location": 2,
+   "music": 0.0,
+   "sid": 488,
+   "to": 1207.36
+  },
+  {
+   "content": "如果你不提供有意义的真实事物让其投入",
+   "from": 1207.36,
+   "location": 2,
+   "music": 0.0,
+   "sid": 489,
+   "to": 1210.8
+  },
+  {
+   "content": "它会自行制造问题来解决",
+   "from": 1210.8,
+   "location": 2,
+   "music": 0.0,
+   "sid": 490,
+   "to": 1213.44
+  },
+  {
+   "content": "而这正是过度思考的本质",
+   "from": 1213.44,
+   "location": 2,
+   "music": 0.0,
+   "sid": 491,
+   "to": 1215.409
+  },
+  {
+   "content": "焦虑的过度思考填补了本该由目标占据的空间",
+   "from": 1215.409,
+   "location": 2,
+   "music": 0.0,
+   "sid": 492,
+   "to": 1220.0
+  },
+  {
+   "content": "所以说",
+   "from": 1220.0,
+   "location": 2,
+   "music": 0.0,
+   "sid": 493,
+   "to": 1221.04
+  },
+  {
+   "content": "问题其实不是如何",
+   "from": 1221.04,
+   "location": 2,
+   "music": 0.0,
+   "sid": 494,
+   "to": 1222.56
+  },
+  {
+   "content": "我该如何停止过度思考",
+   "from": 1222.56,
+   "location": 2,
+   "music": 0.0,
+   "sid": 495,
+   "to": 1224.54
+  },
+  {
+   "content": "而是我该做些什么替代",
+   "from": 1224.54,
+   "location": 2,
+   "music": 0.0,
+   "sid": 496,
+   "to": 1226.99
+  },
+  {
+   "content": "一旦你清楚回答了第二个问题",
+   "from": 1226.99,
+   "location": 2,
+   "music": 0.0,
+   "sid": 497,
+   "to": 1229.91
+  },
+  {
+   "content": "第一个问题往往自行解决",
+   "from": 1229.91,
+   "location": 2,
+   "music": 0.0,
+   "sid": 498,
+   "to": 1232.65
+  },
+  {
+   "content": "所以无处可去的停滞思维最终演变为过度思考",
+   "from": 1232.65,
+   "location": 2,
+   "music": 0.0,
+   "sid": 499,
+   "to": 1237.41
+  },
+  {
+   "content": "但当你有明确的目标",
+   "from": 1237.41,
+   "location": 2,
+   "music": 0.0,
+   "sid": 500,
+   "to": 1238.95
+  },
+  {
+   "content": "你正在积极构建或追求的事物",
+   "from": 1238.95,
+   "location": 2,
+   "music": 0.0,
+   "sid": 501,
+   "to": 1241.83
+  },
+  {
+   "content": "这种能量会自然转化为实际的 productive 思考和行动",
+   "from": 1241.83,
+   "location": 2,
+   "music": 0.0,
+   "sid": 502,
+   "to": 1247.18
+  },
+  {
+   "content": "因此浪费在循环思维上的精力会更少",
+   "from": 1247.18,
+   "location": 2,
+   "music": 0.0,
+   "sid": 503,
+   "to": 1250.64
+  },
+  {
+   "content": "实际上能量也会减少",
+   "from": 1250.64,
+   "location": 2,
+   "music": 0.0,
+   "sid": 504,
+   "to": 1252.55
+  },
+  {
+   "content": "这就是为什么写下明确目标的人往往过度思考较少",
+   "from": 1252.55,
+   "location": 2,
+   "music": 0.0,
+   "sid": 505,
+   "to": 1257.67
+  },
+  {
+   "content": "并非因为他们更擅长管理思维",
+   "from": 1257.67,
+   "location": 2,
+   "music": 0.0,
+   "sid": 506,
+   "to": 1260.03
+  },
+  {
+   "content": "而是因为他们的思维真正专注于实际任务",
+   "from": 1260.03,
+   "location": 2,
+   "music": 0.0,
+   "sid": 507,
+   "to": 1263.39
+  },
+  {
+   "content": "还有其他需要担忧的事吗",
+   "from": 1263.39,
+   "location": 2,
+   "music": 0.0,
+   "sid": 508,
+   "to": 1265.639
+  },
+  {
+   "content": "没有多余精力进行无尽的反复思考",
+   "from": 1265.639,
+   "location": 2,
+   "music": 0.0,
+   "sid": 509,
+   "to": 1269.49
+  },
+  {
+   "content": "工作吸收了本会转化为焦虑的能量",
+   "from": 1269.49,
+   "location": 2,
+   "music": 0.0,
+   "sid": 510,
+   "to": 1273.67
+  },
+  {
+   "content": "这也是为什么过度思考会加剧",
+   "from": 1273.67,
+   "location": 2,
+   "music": 0.0,
+   "sid": 511,
+   "to": 1277.24
+  },
+  {
+   "content": "当你有太多空闲时间时",
+   "from": 1277.24,
+   "location": 2,
+   "music": 0.0,
+   "sid": 512,
+   "to": 1278.76
+  },
+  {
+   "content": "或处于项目之间时",
+   "from": 1278.76,
+   "location": 2,
+   "music": 0.0,
+   "sid": 513,
+   "to": 1280.46
+  },
+  {
+   "content": "或对人生方向感到迷茫时",
+   "from": 1280.46,
+   "location": 2,
+   "music": 0.0,
+   "sid": 514,
+   "to": 1283.59
+  },
+  {
+   "content": "或处于职业过渡期时",
+   "from": 1283.59,
+   "location": 2,
+   "music": 0.0,
+   "sid": 515,
+   "to": 1285.389
+  },
+  {
+   "content": "思维厌恶真空状态",
+   "from": 1285.389,
+   "location": 2,
+   "music": 0.0,
+   "sid": 516,
+   "to": 1287.589
+  },
+  {
+   "content": "若无实质内容可处理",
+   "from": 1287.589,
+   "location": 2,
+   "music": 0.0,
+   "sid": 517,
+   "to": 1289.449
+  },
+  {
+   "content": "便会自行制造问题",
+   "from": 1289.449,
+   "location": 2,
+   "music": 0.0,
+   "sid": 518,
+   "to": 1291.94
+  },
+  {
+   "content": "因此明确的人生方向",
+   "from": 1291.94,
+   "location": 2,
+   "music": 0.0,
+   "sid": 519,
+   "to": 1294.02
+  },
+  {
+   "content": "你正在实际推进的目标",
+   "from": 1294.02,
+   "location": 2,
+   "music": 0.0,
+   "sid": 520,
+   "to": 1295.85
+  },
+  {
+   "content": "能为思维提供自然的组织原则",
+   "from": 1295.85,
+   "location": 2,
+   "music": 0.0,
+   "sid": 521,
+   "to": 1298.15
+  },
+  {
+   "content": "让过度思考变得无关紧要",
+   "from": 1298.15,
+   "location": 2,
+   "music": 0.0,
+   "sid": 522,
+   "to": 1300.47
+  },
+  {
+   "content": "当你清楚自己的目标",
+   "from": 1300.47,
+   "location": 2,
+   "music": 0.0,
+   "sid": 523,
+   "to": 1302.09
+  },
+  {
+   "content": "当你拥有实际目标时",
+   "from": 1302.09,
+   "location": 2,
+   "music": 0.0,
+   "sid": 524,
+   "to": 1303.37
+  },
+  {
+   "content": "原本担忧的事大多不再重要",
+   "from": 1303.37,
+   "location": 2,
+   "music": 0.0,
+   "sid": 525,
+   "to": 1306.32
+  },
+  {
+   "content": "因为你可以评估一切",
+   "from": 1306.32,
+   "location": 2,
+   "music": 0.0,
+   "sid": 526,
+   "to": 1307.32
+  },
+  {
+   "content": "是否有助于达成目标",
+   "from": 1307.32,
+   "location": 2,
+   "music": 0.0,
+   "sid": 527,
+   "to": 1310.18
+  },
+  {
+   "content": "这是否有助于我实现目标",
+   "from": 1310.18,
+   "location": 2,
+   "music": 0.0,
+   "sid": 528,
+   "to": 1312.65
+  },
+  {
+   "content": "如果无助于你",
+   "from": 1312.65,
+   "location": 2,
+   "music": 0.0,
+   "sid": 529,
+   "to": 1314.09
+  },
+  {
+   "content": "无需再思考",
+   "from": 1314.09,
+   "location": 2,
+   "music": 0.0,
+   "sid": 530,
+   "to": 1315.41
+  },
+  {
+   "content": "这种目标创造生活过滤器",
+   "from": 1315.41,
+   "location": 2,
+   "music": 0.0,
+   "sid": 531,
+   "to": 1318.89
+  },
+  {
+   "content": "当你清楚自己想要什么时",
+   "from": 1318.89,
+   "location": 2,
+   "music": 0.0,
+   "sid": 532,
+   "to": 1321.33
+  },
+  {
+   "content": "并积极追求它时",
+   "from": 1321.33,
+   "location": 2,
+   "music": 0.0,
+   "sid": 533,
+   "to": 1323.349
+  },
+  {
+   "content": "那些无尽的",
+   "from": 1323.349,
+   "location": 2,
+   "music": 0.0,
+   "sid": 534,
+   "to": 1323.929
+  },
+  {
+   "content": "我该如何度过人生",
+   "from": 1323.929,
+   "location": 2,
+   "music": 0.0,
+   "sid": 535,
+   "to": 1325.369
+  },
+  {
+   "content": "我是否在做正确选择",
+   "from": 1325.369,
+   "location": 2,
+   "music": 0.0,
+   "sid": 536,
+   "to": 1327.309
+  },
+  {
+   "content": "类型的过度思考自然消失",
+   "from": 1327.309,
+   "location": 2,
+   "music": 0.0,
+   "sid": 537,
+   "to": 1329.719
+  },
+  {
+   "content": "因为你已回答了问题",
+   "from": 1329.719,
+   "location": 2,
+   "music": 0.0,
+   "sid": 538,
+   "to": 1331.559
+  },
+  {
+   "content": "你正在行动",
+   "from": 1331.559,
+   "location": 2,
+   "music": 0.0,
+   "sid": 539,
+   "to": 1333.36
+  },
+  {
+   "content": "现在",
+   "from": 1333.36,
+   "location": 2,
+   "music": 0.0,
+   "sid": 540,
+   "to": 1333.8
+  },
+  {
+   "content": "维克多·弗兰克尔在《活出生命的意义》中指出",
+   "from": 1333.8,
+   "location": 2,
+   "music": 0.0,
+   "sid": 541,
+   "to": 1336.02
+  },
+  {
+   "content": "有强烈目标感的人心理痛苦较少",
+   "from": 1336.02,
+   "location": 2,
+   "music": 0.0,
+   "sid": 542,
+   "to": 1340.8
+  },
+  {
+   "content": "即使客观处境糟糕",
+   "from": 1340.8,
+   "location": 2,
+   "music": 0.0,
+   "sid": 543,
+   "to": 1343.02
+  },
+  {
+   "content": "因为意义赋予他们超越即时不适的方向",
+   "from": 1343.02,
+   "location": 2,
+   "music": 0.0,
+   "sid": 544,
+   "to": 1346.29
+  },
+  {
+   "content": "同样的原则适用于此",
+   "from": 1346.29,
+   "location": 2,
+   "music": 0.0,
+   "sid": 545,
+   "to": 1348.37
+  },
+  {
+   "content": "这就是关键所在",
+   "from": 1349.53,
+   "location": 2,
+   "music": 0.0,
+   "sid": 546,
+   "to": 1351.15
+  },
+  {
+   "content": "所以如果你在观看这个",
+   "from": 1351.15,
+   "location": 2,
+   "music": 0.0,
+   "sid": 547,
+   "to": 1352.85
+  },
+  {
+   "content": "对人生方向或今年目标感到迷茫",
+   "from": 1352.85,
+   "location": 2,
+   "music": 0.0,
+   "sid": 548,
+   "to": 1356.41
+  },
+  {
+   "content": "或对今年计划不清楚",
+   "from": 1356.41,
+   "location": 2,
+   "music": 0.0,
+   "sid": 549,
+   "to": 1357.81
+  },
+  {
+   "content": "或者即使在这个星期",
+   "from": 1357.81,
+   "location": 2,
+   "music": 0.0,
+   "sid": 550,
+   "to": 1359.35
+  },
+  {
+   "content": "这可能比过度思考本身更需要解决的重要问题",
+   "from": 1359.35,
+   "location": 2,
+   "music": 0.0,
+   "sid": 551,
+   "to": 1363.49
+  },
+  {
+   "content": "因为当你明确想要什么并开始行动时",
+   "from": 1363.49,
+   "location": 2,
+   "music": 0.0,
+   "sid": 552,
+   "to": 1367.199
+  },
+  {
+   "content": "过度思考往往自行消失",
+   "from": 1367.199,
+   "location": 2,
+   "music": 0.0,
+   "sid": 553,
+   "to": 1369.639
+  },
+  {
+   "content": "你的大脑有真实的工作要做",
+   "from": 1369.639,
+   "location": 2,
+   "music": 0.0,
+   "sid": 554,
+   "to": 1371.679
+  },
+  {
+   "content": "不再需要制造虚假任务",
+   "from": 1371.679,
+   "location": 2,
+   "music": 0.0,
+   "sid": 555,
+   "to": 1374.25
+  },
+  {
+   "content": "反复思辨失去了作用",
+   "from": 1374.25,
+   "location": 2,
+   "music": 0.0,
+   "sid": 556,
+   "to": 1376.09
+  },
+  {
+   "content": "这不必是宏大的人生目标",
+   "from": 1377.17,
+   "location": 2,
+   "music": 0.0,
+   "sid": 557,
+   "to": 1379.55
+  },
+  {
+   "content": "没错",
+   "from": 1379.55,
+   "location": 2,
+   "music": 0.0,
+   "sid": 558,
+   "to": 1380.01
+  },
+  {
+   "content": "这可以随时间变化",
+   "from": 1380.01,
+   "location": 2,
+   "music": 0.0,
+   "sid": 559,
+   "to": 1381.49
+  },
+  {
+   "content": "总之",
+   "from": 1381.49,
+   "location": 2,
+   "music": 0.0,
+   "sid": 560,
+   "to": 1382.12
+  },
+  {
+   "content": "可以是简单的小事",
+   "from": 1382.12,
+   "location": 2,
+   "music": 0.0,
+   "sid": 561,
+   "to": 1383.9
+  },
+  {
+   "content": "你想开始的项目或技能",
+   "from": 1383.9,
+   "location": 2,
+   "music": 0.0,
+   "sid": 562,
+   "to": 1385.68
+  },
+  {
+   "content": "你想培养的兴趣爱好",
+   "from": 1385.68,
+   "location": 2,
+   "music": 0.0,
+   "sid": 563,
+   "to": 1387.76
+  },
+  {
+   "content": "你知道的",
+   "from": 1387.76,
+   "location": 2,
+   "music": 0.0,
+   "sid": 564,
+   "to": 1388.36
+  },
+  {
+   "content": "开始阅读大量书籍",
+   "from": 1388.36,
+   "location": 2,
+   "music": 0.0,
+   "sid": 565,
+   "to": 1389.78
+  },
+  {
+   "content": "你想解决的问题",
+   "from": 1389.78,
+   "location": 2,
+   "music": 0.0,
+   "sid": 566,
+   "to": 1391.34
+  },
+  {
+   "content": "你想解决真正感兴趣的事",
+   "from": 1391.34,
+   "location": 2,
+   "music": 0.0,
+   "sid": 567,
+   "to": 1393.88
+  },
+  {
+   "content": "并将注意力拉向行动",
+   "from": 1393.88,
+   "location": 2,
+   "music": 0.0,
+   "sid": 568,
+   "to": 1396.38
+  },
+  {
+   "content": "而非倒退到担忧",
+   "from": 1396.38,
+   "location": 2,
+   "music": 0.0,
+   "sid": 569,
+   "to": 1398.409
+  },
+  {
+   "content": "具体目标不如拥有一个更重要",
+   "from": 1398.409,
+   "location": 2,
+   "music": 0.0,
+   "sid": 570,
+   "to": 1401.449
+  },
+  {
+   "content": "并将它写下来",
+   "from": 1401.449,
+   "location": 2,
+   "music": 0.0,
+   "sid": 571,
+   "to": 1403.44
+  },
+  {
+   "content": "关键是让思维投入现实",
+   "from": 1403.44,
+   "location": 2,
+   "music": 0.0,
+   "sid": 572,
+   "to": 1406.28
+  },
+  {
+   "content": "面对眼前的现实世界",
+   "from": 1406.28,
+   "location": 2,
+   "music": 0.0,
+   "sid": 573,
+   "to": 1408.52
+  },
+  {
+   "content": "目标将你从头脑中拉出，投入实际行动",
+   "from": 1408.52,
+   "location": 2,
+   "music": 0.0,
+   "sid": 574,
+   "to": 1412.26
+  },
+  {
+   "content": "即使尚未完全理清",
+   "from": 1412.26,
+   "location": 2,
+   "music": 0.0,
+   "sid": 575,
+   "to": 1414.7
+  },
+  {
+   "content": "你最好的选择就是做点什么",
+   "from": 1414.7,
+   "location": 2,
+   "music": 0.0,
+   "sid": 576,
+   "to": 1417.68
+  },
+  {
+   "content": "任何事情打扫房间",
+   "from": 1417.68,
+   "location": 2,
+   "music": 0.0,
+   "sid": 577,
+   "to": 1419.45
+  },
+  {
+   "content": "去散步",
+   "from": 1419.45,
+   "location": 2,
+   "music": 0.0,
+   "sid": 578,
+   "to": 1420.25
+  },
+  {
+   "content": "开始拖延的任务",
+   "from": 1420.25,
+   "location": 2,
+   "music": 0.0,
+   "sid": 579,
+   "to": 1421.79
+  },
+  {
+   "content": "有一句老话",
+   "from": 1421.79,
+   "location": 2,
+   "music": 0.0,
+   "sid": 580,
+   "to": 1424.39
+  },
+  {
+   "content": "如果你想见魔鬼",
+   "from": 1424.39,
+   "location": 2,
+   "music": 0.0,
+   "sid": 581,
+   "to": 1425.13
+  },
+  {
+   "content": "只需无所事事",
+   "from": 1425.13,
+   "location": 2,
+   "music": 0.0,
+   "sid": 582,
+   "to": 1427.21
+  },
+  {
+   "content": "懒散正是过度思考的温床",
+   "from": 1427.21,
+   "location": 2,
+   "music": 0.0,
+   "sid": 583,
+   "to": 1429.39
+  },
+  {
+   "content": "行动才是它的终结",
+   "from": 1429.39,
+   "location": 2,
+   "music": 0.0,
+   "sid": 584,
+   "to": 1432.53
+  },
+  {
+   "content": "美妙之处在于当你真正投入有意义的工作时",
+   "from": 1432.53,
+   "location": 2,
+   "music": 0.0,
+   "sid": 585,
+   "to": 1437.25
+  },
+  {
+   "content": "通过努力想要达到的心理状态自然显现",
+   "from": 1437.25,
+   "location": 2,
+   "music": 0.0,
+   "sid": 586,
+   "to": 1441.77
+  },
+  {
+   "content": "专注的当下",
+   "from": 1441.77,
+   "location": 2,
+   "music": 0.0,
+   "sid": 587,
+   "to": 1442.63
+  },
+  {
+   "content": "心流状态",
+   "from": 1442.63,
+   "location": 2,
+   "music": 0.0,
+   "sid": 588,
+   "to": 1443.17
+  },
+  {
+   "content": "平静的思维",
+   "from": 1443.17,
+   "location": 2,
+   "music": 0.0,
+   "sid": 589,
+   "to": 1444.09
+  },
+  {
+   "content": "这些无需刻意制造",
+   "from": 1444.09,
+   "location": 2,
+   "music": 0.0,
+   "sid": 590,
+   "to": 1447.32
+  },
+  {
+   "content": "是沉浸于重要事物的自然产物",
+   "from": 1447.32,
+   "location": 2,
+   "music": 0.0,
+   "sid": 591,
+   "to": 1451.86
+  },
+  {
+   "content": "是目标的自然馈赠",
+   "from": 1451.86,
+   "location": 2,
+   "music": 0.0,
+   "sid": 592,
+   "to": 1454.28
+  },
+  {
+   "content": "它们自然显现",
+   "from": 1454.28,
+   "location": 2,
+   "music": 0.0,
+   "sid": 593,
+   "to": 1456.2
+  },
+  {
+   "content": "本就蕴含其中",
+   "from": 1456.2,
+   "location": 2,
+   "music": 0.0,
+   "sid": 594,
+   "to": 1457.54
+  },
+  {
+   "content": "现在谈谈过度思考的自然终结",
+   "from": 1457.54,
+   "location": 2,
+   "music": 0.0,
+   "sid": 595,
+   "to": 1463.27
+  },
+  {
+   "content": "如果你一直在跟进",
+   "from": 1463.63,
+   "location": 2,
+   "music": 0.0,
+   "sid": 596,
+   "to": 1465.41
+  },
+  {
+   "content": "现在应该逐渐看清其中道理",
+   "from": 1465.41,
+   "location": 2,
+   "music": 0.0,
+   "sid": 597,
+   "to": 1468.19
+  },
+  {
+   "content": "嗯",
+   "from": 1468.19,
+   "location": 2,
+   "music": 0.0,
+   "sid": 598,
+   "to": 1468.71
+  },
+  {
+   "content": "那就是过度思考其实并非真正存在",
+   "from": 1468.71,
+   "location": 2,
+   "music": 0.0,
+   "sid": 599,
+   "to": 1471.56
+  },
+  {
+   "content": "你需要通过努力去战斗、修复或克服",
+   "from": 1471.56,
+   "location": 2,
+   "music": 0.0,
+   "sid": 600,
+   "to": 1475.46
+  },
+  {
+   "content": "这会自然结束",
+   "from": 1475.46,
+   "location": 2,
+   "music": 0.0,
+   "sid": 601,
+   "to": 1477.32
+  },
+  {
+   "content": "一旦你停止喂养它",
+   "from": 1477.32,
+   "location": 2,
+   "music": 0.0,
+   "sid": 602,
+   "to": 1478.88
+  },
+  {
+   "content": "当你看清它的真实面目时",
+   "from": 1478.88,
+   "location": 2,
+   "music": 0.0,
+   "sid": 603,
+   "to": 1482.09
+  },
+  {
+   "content": "通常会有那么一刻，可能就在你看这段视频时",
+   "from": 1482.69,
+   "location": 2,
+   "music": 0.0,
+   "sid": 604,
+   "to": 1485.73
+  },
+  {
+   "content": "或者可能在你日常忙碌时发生",
+   "from": 1485.73,
+   "location": 2,
+   "music": 0.0,
+   "sid": 605,
+   "to": 1489.12
+  },
+  {
+   "content": "某个瞬间突然通透",
+   "from": 1489.12,
+   "location": 2,
+   "music": 0.0,
+   "sid": 606,
+   "to": 1490.44
+  },
+  {
+   "content": "你会意识到自己多年来做了完全无意义的事",
+   "from": 1490.44,
+   "location": 2,
+   "music": 0.0,
+   "sid": 607,
+   "to": 1494.16
+  },
+  {
+   "content": "也许几十年",
+   "from": 1494.16,
+   "location": 2,
+   "music": 0.0,
+   "sid": 608,
+   "to": 1495.26
+  },
+  {
+   "content": "你突然明白不再需要继续",
+   "from": 1495.26,
+   "location": 2,
+   "music": 0.0,
+   "sid": 609,
+   "to": 1497.86
+  },
+  {
+   "content": "因为其中对你毫无益处",
+   "from": 1497.86,
+   "location": 2,
+   "music": 0.0,
+   "sid": 610,
+   "to": 1500.56
+  },
+  {
+   "content": "那一刻就是终结的开始",
+   "from": 1500.56,
+   "location": 2,
+   "music": 0.0,
+   "sid": 611,
+   "to": 1503.11
+  },
+  {
+   "content": "当你真正看清过度思考毫无所得",
+   "from": 1503.11,
+   "location": 2,
+   "music": 0.0,
+   "sid": 612,
+   "to": 1506.87
+  },
+  {
+   "content": "那所谓的控制是假象",
+   "from": 1506.87,
+   "location": 2,
+   "music": 0.0,
+   "sid": 613,
+   "to": 1508.53
+  },
+  {
+   "content": "准备过程其实没真正准备",
+   "from": 1508.53,
+   "location": 2,
+   "music": 0.0,
+   "sid": 614,
+   "to": 1511.36
+  },
+  {
+   "content": "整个事情只是种瘾症",
+   "from": 1511.36,
+   "location": 2,
+   "music": 0.0,
+   "sid": 615,
+   "to": 1514.12
+  },
+  {
+   "content": "伪装成责任感",
+   "from": 1514.12,
+   "location": 2,
+   "music": 0.0,
+   "sid": 616,
+   "to": 1515.4
+  },
+  {
+   "content": "一旦看清楚就无法忽视",
+   "from": 1516.44,
+   "location": 2,
+   "music": 0.0,
+   "sid": 617,
+   "to": 1517.889
+  },
+  {
+   "content": "当那份渴望消失后",
+   "from": 1517.889,
+   "location": 2,
+   "music": 0.0,
+   "sid": 618,
+   "to": 1520.129
+  },
+  {
+   "content": "你无需特别行动维持自由",
+   "from": 1520.129,
+   "location": 2,
+   "music": 0.0,
+   "sid": 619,
+   "to": 1523.38
+  },
+  {
+   "content": "不再持续对抗冲动",
+   "from": 1523.38,
+   "location": 2,
+   "music": 0.0,
+   "sid": 620,
+   "to": 1525.28
+  },
+  {
+   "content": "或用技巧保持当下、提醒自己别多想",
+   "from": 1525.28,
+   "location": 2,
+   "music": 0.0,
+   "sid": 621,
+   "to": 1529.96
+  },
+  {
+   "content": "你就是自由的",
+   "from": 1529.96,
+   "location": 2,
+   "music": 0.0,
+   "sid": 622,
+   "to": 1531.62
+  },
+  {
+   "content": "这与意志力完全不同",
+   "from": 1531.62,
+   "location": 2,
+   "music": 0.0,
+   "sid": 623,
+   "to": 1535.56
+  },
+  {
+   "content": "你不断困惑自己的思维",
+   "from": 1535.56,
+   "location": 2,
+   "music": 0.0,
+   "sid": 624,
+   "to": 1538.07
+  },
+  {
+   "content": "最好的结果只是短暂胜利，直到下次过度思考",
+   "from": 1538.07,
+   "location": 2,
+   "music": 0.0,
+   "sid": 625,
+   "to": 1543.81
+  },
+  {
+   "content": "这是永久性的",
+   "from": 1543.81,
+   "location": 2,
+   "music": 0.0,
+   "sid": 626,
+   "to": 1544.85
+  },
+  {
+   "content": "因为无需压抑任何东西",
+   "from": 1544.85,
+   "location": 2,
+   "music": 0.0,
+   "sid": 627,
+   "to": 1547.45
+  },
+  {
+   "content": "你只是失去了兴趣",
+   "from": 1547.45,
+   "location": 2,
+   "music": 0.0,
+   "sid": 628,
+   "to": 1549.1
+  },
+  {
+   "content": "关键点在于你需要真正摆脱",
+   "from": 1549.1,
+   "location": 2,
+   "music": 0.0,
+   "sid": 629,
+   "to": 1551.78
+  },
+  {
+   "content": "这是一种瘾症",
+   "from": 1551.78,
+   "location": 2,
+   "music": 0.0,
+   "sid": 630,
+   "to": 1553.16
+  },
+  {
+   "content": "如同任何瘾症",
+   "from": 1553.16,
+   "location": 2,
+   "music": 0.0,
+   "sid": 631,
+   "to": 1554.54
+  },
+  {
+   "content": "形成自我维持的恶性循环",
+   "from": 1554.54,
+   "location": 2,
+   "music": 0.0,
+   "sid": 632,
+   "to": 1557.909
+  },
+  {
+   "content": "过度思考带来的缓解只减轻了最初制造的焦虑",
+   "from": 1557.909,
+   "location": 2,
+   "music": 0.0,
+   "sid": 633,
+   "to": 1561.549
+  },
+  {
+   "content": "而过度思考本身正是焦虑的根源",
+   "from": 1561.549,
+   "location": 2,
+   "music": 0.0,
+   "sid": 634,
+   "to": 1565.54
+  },
+  {
+   "content": "完全循环往复",
+   "from": 1565.9,
+   "location": 2,
+   "music": 0.0,
+   "sid": 635,
+   "to": 1567.5
+  },
+  {
+   "content": "自我滋养",
+   "from": 1568.62,
+   "location": 2,
+   "music": 0.0,
+   "sid": 636,
+   "to": 1569.64
+  },
+  {
+   "content": "一旦启动这个循环",
+   "from": 1569.64,
+   "location": 2,
+   "music": 0.0,
+   "sid": 637,
+   "to": 1571.02
+  },
+  {
+   "content": "不会自行终止",
+   "from": 1571.02,
+   "location": 2,
+   "music": 0.0,
+   "sid": 638,
+   "to": 1573.199
+  },
+  {
+   "content": "只会持续到你筋疲力尽",
+   "from": 1573.199,
+   "location": 2,
+   "music": 0.0,
+   "sid": 639,
+   "to": 1575.799
+  },
+  {
+   "content": "直到夜幕耗尽燃料",
+   "from": 1575.799,
+   "location": 2,
+   "music": 0.0,
+   "sid": 640,
+   "to": 1577.839
+  },
+  {
+   "content": "次日又重新开始",
+   "from": 1577.839,
+   "location": 2,
+   "music": 0.0,
+   "sid": 641,
+   "to": 1580.04
+  },
+  {
+   "content": "唯一停止的方法是坚定决定",
+   "from": 1580.04,
+   "location": 2,
+   "music": 0.0,
+   "sid": 642,
+   "to": 1583.34
+  },
+  {
+   "content": "不再参与这个循环",
+   "from": 1583.34,
+   "location": 2,
+   "music": 0.0,
+   "sid": 643,
+   "to": 1585.48
+  },
+  {
+   "content": "绝不让它再次启动",
+   "from": 1585.48,
+   "location": 2,
+   "music": 0.0,
+   "sid": 644,
+   "to": 1588.11
+  },
+  {
+   "content": "我试着减少思考 不要",
+   "from": 1588.11,
+   "location": 2,
+   "music": 0.0,
+   "sid": 645,
+   "to": 1590.27
+  },
+  {
+   "content": "或者你知道",
+   "from": 1590.27,
+   "location": 2,
+   "music": 0.0,
+   "sid": 646,
+   "to": 1591.67
+  },
+  {
+   "content": "我会察觉过度思考时立刻停止 不对吧",
+   "from": 1591.67,
+   "location": 2,
+   "music": 0.0,
+   "sid": 647,
+   "to": 1595.93
+  },
+  {
+   "content": "决定是我不再启动",
+   "from": 1595.93,
+   "location": 2,
+   "music": 0.0,
+   "sid": 648,
+   "to": 1598.13
+  },
+  {
+   "content": "这就是决定阶段",
+   "from": 1598.13,
+   "location": 2,
+   "music": 0.0,
+   "sid": 649,
+   "to": 1599.71
+  },
+  {
+   "content": "因为一旦你开始",
+   "from": 1599.71,
+   "location": 2,
+   "music": 0.0,
+   "sid": 650,
+   "to": 1600.93
+  },
+  {
+   "content": "你已经进入循环，而这个循环是自我维持的",
+   "from": 1600.93,
+   "location": 2,
+   "music": 0.0,
+   "sid": 651,
+   "to": 1605.52
+  },
+  {
+   "content": "它会自我延续",
+   "from": 1605.52,
+   "location": 2,
+   "music": 0.0,
+   "sid": 652,
+   "to": 1607.2
+  },
+  {
+   "content": "如果你启动它",
+   "from": 1607.2,
+   "location": 2,
+   "music": 0.0,
+   "sid": 653,
+   "to": 1608.34
+  },
+  {
+   "content": "它就会持续下去",
+   "from": 1608.34,
+   "location": 2,
+   "music": 0.0,
+   "sid": 654,
+   "to": 1609.79
+  },
+  {
+   "content": "你的目标不是停止过度思考",
+   "from": 1609.79,
+   "location": 2,
+   "music": 0.0,
+   "sid": 655,
+   "to": 1611.97
+  },
+  {
+   "content": "一旦发生时",
+   "from": 1611.97,
+   "location": 2,
+   "music": 0.0,
+   "sid": 656,
+   "to": 1612.93
+  },
+  {
+   "content": "你的目标是察觉循环试图开始并阻止它",
+   "from": 1612.93,
+   "location": 2,
+   "music": 0.0,
+   "sid": 657,
+   "to": 1617.57
+  },
+  {
+   "content": "只需不参与即可",
+   "from": 1617.73,
+   "location": 2,
+   "music": 0.0,
+   "sid": 658,
+   "to": 1620.49
+  },
+  {
+   "content": "那么生活实际是什么样子的",
+   "from": 1620.49,
+   "location": 2,
+   "music": 0.0,
+   "sid": 659,
+   "to": 1622.85
+  },
+  {
+   "content": "在这一切之后",
+   "from": 1622.85,
+   "location": 2,
+   "music": 0.0,
+   "sid": 660,
+   "to": 1624.61
+  },
+  {
+   "content": "其实描述起来有点无聊",
+   "from": 1624.91,
+   "location": 2,
+   "music": 0.0,
+   "sid": 661,
+   "to": 1627.17
+  },
+  {
+   "content": "你只是生活",
+   "from": 1627.17,
+   "location": 2,
+   "music": 0.0,
+   "sid": 662,
+   "to": 1628.159
+  },
+  {
+   "content": "顺其自然处理事情",
+   "from": 1628.159,
+   "location": 2,
+   "music": 0.0,
+   "sid": 663,
+   "to": 1629.919
+  },
+  {
+   "content": "你思考时何时真正有用",
+   "from": 1629.919,
+   "location": 2,
+   "music": 0.0,
+   "sid": 664,
+   "to": 1632.219
+  },
+  {
+   "content": "比如解决实际问题或规划具体事务时",
+   "from": 1632.219,
+   "location": 2,
+   "music": 0.0,
+   "sid": 665,
+   "to": 1635.81
+  },
+  {
+   "content": "其余时间你只是专注当下",
+   "from": 1635.81,
+   "location": 2,
+   "music": 0.0,
+   "sid": 666,
+   "to": 1637.95
+  },
+  {
+   "content": "投入眼前的事物",
+   "from": 1637.95,
+   "location": 2,
+   "music": 0.0,
+   "sid": 667,
+   "to": 1639.89
+  },
+  {
+   "content": "不会陷入尚未存在的未来幻想",
+   "from": 1639.89,
+   "location": 2,
+   "music": 0.0,
+   "sid": 668,
+   "to": 1644.24
+  },
+  {
+   "content": "或已逝去无法改变的过去",
+   "from": 1644.24,
+   "location": 2,
+   "music": 0.0,
+   "sid": 669,
+   "to": 1647.36
+  },
+  {
+   "content": "奇怪的是你反而生活得更好",
+   "from": 1647.36,
+   "location": 2,
+   "music": 0.0,
+   "sid": 670,
+   "to": 1650.32
+  },
+  {
+   "content": "停止过度思考时",
+   "from": 1650.32,
+   "location": 2,
+   "music": 0.0,
+   "sid": 671,
+   "to": 1652.639
+  },
+  {
+   "content": "决策更清晰因为不来自焦虑",
+   "from": 1652.639,
+   "location": 2,
+   "music": 0.0,
+   "sid": 672,
+   "to": 1656.239
+  },
+  {
+   "content": "人际关系更好因为你真正存在",
+   "from": 1656.239,
+   "location": 2,
+   "music": 0.0,
+   "sid": 673,
+   "to": 1659.3
+  },
+  {
+   "content": "工作更出色",
+   "from": 1659.3,
+   "location": 2,
+   "music": 0.0,
+   "sid": 674,
+   "to": 1660.44
+  },
+  {
+   "content": "因为你能专注专注你曾害怕失去的优势",
+   "from": 1660.44,
+   "location": 2,
+   "music": 0.0,
+   "sid": 675,
+   "to": 1664.58
+  },
+  {
+   "content": "你认为过度思考赋予你的从未真实存在",
+   "from": 1664.58,
+   "location": 2,
+   "music": 0.0,
+   "sid": 676,
+   "to": 1669.33
+  },
+  {
+   "content": "你开始信任自己能应对当下发生的事",
+   "from": 1669.33,
+   "location": 2,
+   "music": 0.0,
+   "sid": 677,
+   "to": 1673.45
+  },
+  {
+   "content": "无需提前演练",
+   "from": 1673.45,
+   "location": 2,
+   "music": 0.0,
+   "sid": 678,
+   "to": 1675.09
+  },
+  {
+   "content": "提前准备",
+   "from": 1675.09,
+   "location": 2,
+   "music": 0.0,
+   "sid": 679,
+   "to": 1675.94
+  },
+  {
+   "content": "生活变得更为流畅且充满生机",
+   "from": 1675.94,
+   "location": 2,
+   "music": 0.0,
+   "sid": 680,
+   "to": 1679.34
+  },
+  {
+   "content": "持续准备、分析和提前解决问题的冲动",
+   "from": 1679.34,
+   "location": 2,
+   "music": 0.0,
+   "sid": 681,
+   "to": 1683.38
+  },
+  {
+   "content": "自然消散",
+   "from": 1683.38,
+   "location": 2,
+   "music": 0.0,
+   "sid": 682,
+   "to": 1684.71
+  },
+  {
+   "content": "你成为能回应当下生活而非困在头脑中的人",
+   "from": 1684.71,
+   "location": 2,
+   "music": 0.0,
+   "sid": 683,
+   "to": 1690.61
+  },
+  {
+   "content": "这才是生活美好之处有起有落",
+   "from": 1690.61,
+   "location": 2,
+   "music": 0.0,
+   "sid": 684,
+   "to": 1694.19
+  },
+  {
+   "content": "对吧",
+   "from": 1694.19,
+   "location": 2,
+   "music": 0.0,
+   "sid": 685,
+   "to": 1695.429
+  },
+  {
+   "content": "所以这就是真相过度思考其实是一种幻觉",
+   "from": 1695.949,
+   "location": 2,
+   "music": 0.0,
+   "sid": 686,
+   "to": 1698.669
+  },
+  {
+   "content": "伪装成思考却一无所有、付出一切",
+   "from": 1698.669,
+   "location": 2,
+   "music": 0.0,
+   "sid": 687,
+   "to": 1702.4
+  },
+  {
+   "content": "你并非通过努力停止它",
+   "from": 1702.4,
+   "location": 2,
+   "music": 0.0,
+   "sid": 688,
+   "to": 1704.04
+  },
+  {
+   "content": "而是看清它本质后失去继续的欲望",
+   "from": 1704.04,
+   "location": 2,
+   "music": 0.0,
+   "sid": 689,
+   "to": 1709.12
+  },
+  {
+   "content": "当你有真实目标可追求时",
+   "from": 1709.12,
+   "location": 2,
+   "music": 0.0,
+   "sid": 690,
+   "to": 1711.73
+  },
+  {
+   "content": "有能调动心智与能量的有意义方向",
+   "from": 1711.73,
+   "location": 2,
+   "music": 0.0,
+   "sid": 691,
+   "to": 1715.25
+  },
+  {
+   "content": "过度思考完全失去作用自行消亡",
+   "from": 1715.25,
+   "location": 2,
+   "music": 0.0,
+   "sid": 692,
+   "to": 1719.29
+  },
+  {
+   "content": "这就是方法全部内容",
+   "from": 1719.29,
+   "location": 2,
+   "music": 0.0,
+   "sid": 693,
+   "to": 1721.73
+  },
+  {
+   "content": "如果你一直在注意",
+   "from": 1721.73,
+   "location": 2,
+   "music": 0.0,
+   "sid": 694,
+   "to": 1723.29
+  },
+  {
+   "content": "真正专注",
+   "from": 1723.29,
+   "location": 2,
+   "music": 0.0,
+   "sid": 695,
+   "to": 1725.05
+  },
+  {
+   "content": "你可能已在那里了",
+   "from": 1725.21,
+   "location": 2,
+   "music": 0.0,
+   "sid": 696,
+   "to": 1727.13
+  },
+  {
+   "content": "你可能已感受到变化",
+   "from": 1727.13,
+   "location": 2,
+   "music": 0.0,
+   "sid": 697,
+   "to": 1729.939
+  },
+  {
+   "content": "你可能有了顿悟时刻",
+   "from": 1729.939,
+   "location": 2,
+   "music": 0.0,
+   "sid": 698,
+   "to": 1732.259
+  },
+  {
+   "content": "在这训练过程中",
+   "from": 1732.259,
+   "location": 2,
+   "music": 0.0,
+   "sid": 699,
+   "to": 1733.319
+  },
+  {
+   "content": "那种感觉",
+   "from": 1733.319,
+   "location": 2,
+   "music": 0.0,
+   "sid": 700,
+   "to": 1734.299
+  },
+  {
+   "content": "啊",
+   "from": 1734.299,
+   "location": 2,
+   "music": 0.0,
+   "sid": 701,
+   "to": 1734.619
+  },
+  {
+   "content": "我其实不再需要这样做了",
+   "from": 1734.619,
+   "location": 2,
+   "music": 0.0,
+   "sid": 702,
+   "to": 1737.179
+  },
+  {
+   "content": "其实就这么简单",
+   "from": 1737.179,
+   "location": 2,
+   "music": 0.0,
+   "sid": 703,
+   "to": 1739.119
+  },
+  {
+   "content": "我们总是复杂化问题",
+   "from": 1739.119,
+   "location": 2,
+   "music": 0.0,
+   "sid": 704,
+   "to": 1740.499
+  },
+  {
+   "content": "因为我们认为事情应该困难",
+   "from": 1740.499,
+   "location": 2,
+   "music": 0.0,
+   "sid": 705,
+   "to": 1742.559
+  },
+  {
+   "content": "有些确实如此",
+   "from": 1742.559,
+   "location": 2,
+   "music": 0.0,
+   "sid": 706,
+   "to": 1743.679
+  },
+  {
+   "content": "有些本就不对",
+   "from": 1743.679,
+   "location": 2,
+   "music": 0.0,
+   "sid": 707,
+   "to": 1745.54
+  },
+  {
+   "content": "认为需要多年努力和挣扎",
+   "from": 1745.54,
+   "location": 2,
+   "music": 0.0,
+   "sid": 708,
+   "to": 1749.38
+  },
+  {
+   "content": "有些事情如此 有些则不然",
+   "from": 1749.38,
+   "location": 2,
+   "music": 0.0,
+   "sid": 709,
+   "to": 1751.4
+  },
+  {
+   "content": "但有时最深刻的改变真的能瞬间发生",
+   "from": 1751.4,
+   "location": 2,
+   "music": 0.0,
+   "sid": 710,
+   "to": 1755.57
+  },
+  {
+   "content": "当你突然看清之前被隐藏的事物",
+   "from": 1755.57,
+   "location": 2,
+   "music": 0.0,
+   "sid": 711,
+   "to": 1759.13
+  },
+  {
+   "content": "一旦看清",
+   "from": 1759.13,
+   "location": 2,
+   "music": 0.0,
+   "sid": 712,
+   "to": 1760.51
+  },
+  {
+   "content": "你就基本完成了",
+   "from": 1760.51,
+   "location": 2,
+   "music": 0.0,
+   "sid": 713,
+   "to": 1761.79
+  },
+  {
+   "content": "剩下的只是不要回头",
+   "from": 1761.79,
+   "location": 2,
+   "music": 0.0,
+   "sid": 714,
+   "to": 1765.17
+  },
+  {
+   "content": "你不会想回去",
+   "from": 1765.17,
+   "location": 2,
+   "music": 0.0,
+   "sid": 715,
+   "to": 1766.71
+  },
+  {
+   "content": "因为",
+   "from": 1766.71,
+   "location": 2,
+   "music": 0.0,
+   "sid": 716,
+   "to": 1767.05
+  },
+  {
+   "content": "为何要回到毫无所得的事物",
+   "from": 1767.05,
+   "location": 2,
+   "music": 0.0,
+   "sid": 717,
+   "to": 1769.93
+  },
+  {
+   "content": "说到这里",
+   "from": 1771.09,
+   "location": 2,
+   "music": 0.0,
+   "sid": 718,
+   "to": 1772.43
+  },
+  {
+   "content": "我们回顾一下要点",
+   "from": 1772.43,
+   "location": 2,
+   "music": 0.0,
+   "sid": 719,
+   "to": 1773.35
+  },
+  {
+   "content": "我们讨论了思维的幻觉",
+   "from": 1773.35,
+   "location": 2,
+   "music": 0.0,
+   "sid": 720,
+   "to": 1775.25
+  },
+  {
+   "content": "对控制的沉迷",
+   "from": 1775.25,
+   "location": 2,
+   "music": 0.0,
+   "sid": 721,
+   "to": 1776.69
+  },
+  {
+   "content": "努力的终结",
+   "from": 1776.69,
+   "location": 2,
+   "music": 0.0,
+   "sid": 722,
+   "to": 1777.61
+  },
+  {
+   "content": "目标的力量",
+   "from": 1777.61,
+   "location": 2,
+   "music": 0.0,
+   "sid": 723,
+   "to": 1779.09
+  },
+  {
+   "content": "停止过度思考的自然终点",
+   "from": 1779.09,
+   "location": 2,
+   "music": 0.0,
+   "sid": 724,
+   "to": 1782.15
+  },
+  {
+   "content": "以及你今日或接下来几天的行动项",
+   "from": 1782.15,
+   "location": 2,
+   "music": 0.0,
+   "sid": 725,
+   "to": 1785.13
+  },
+  {
+   "content": "首先认识到你一直称为",
+   "from": 1785.13,
+   "location": 2,
+   "music": 0.0,
+   "sid": 726,
+   "to": 1788.57
+  },
+  {
+   "content": "思考的其实只是心理杂音",
+   "from": 1788.57,
+   "location": 2,
+   "music": 0.0,
+   "sid": 727,
+   "to": 1790.76
+  },
+  {
+   "content": "伪装成高效",
+   "from": 1790.76,
+   "location": 2,
+   "music": 0.0,
+   "sid": 728,
+   "to": 1792.92
+  },
+  {
+   "content": "真正的思考有方向",
+   "from": 1792.92,
+   "location": 2,
+   "music": 0.0,
+   "sid": 729,
+   "to": 1794.52
+  },
+  {
+   "content": "并产生结果",
+   "from": 1794.52,
+   "location": 2,
+   "music": 0.0,
+   "sid": 730,
+   "to": 1796.29
+  },
+  {
+   "content": "过度思考是循环的",
+   "from": 1796.29,
+   "location": 2,
+   "music": 0.0,
+   "sid": 731,
+   "to": 1797.95
+  },
+  {
+   "content": "毫无所得",
+   "from": 1797.95,
+   "location": 2,
+   "music": 0.0,
+   "sid": 732,
+   "to": 1798.85
+  },
+  {
+   "content": "却消耗一切",
+   "from": 1798.85,
+   "location": 2,
+   "music": 0.0,
+   "sid": 733,
+   "to": 1800.56
+  },
+  {
+   "content": "控制是虚假的",
+   "from": 1800.56,
+   "location": 2,
+   "music": 0.0,
+   "sid": 734,
+   "to": 1801.94
+  },
+  {
+   "content": "准备并未真正准备",
+   "from": 1801.94,
+   "location": 2,
+   "music": 0.0,
+   "sid": 735,
+   "to": 1804.22
+  },
+  {
+   "content": "当你能分辨清楚时",
+   "from": 1804.22,
+   "location": 2,
+   "music": 0.0,
+   "sid": 736,
+   "to": 1805.8
+  },
+  {
+   "content": "你已开始获得自由",
+   "from": 1805.8,
+   "location": 2,
+   "music": 0.0,
+   "sid": 737,
+   "to": 1809.06
+  },
+  {
+   "content": "不要试图用意志力对抗或压制过度思考",
+   "from": 1809.06,
+   "location": 2,
+   "music": 0.0,
+   "sid": 738,
+   "to": 1812.95
+  },
+  {
+   "content": "这只会叠加更多心理活动",
+   "from": 1812.95,
+   "location": 2,
+   "music": 0.0,
+   "sid": 739,
+   "to": 1817.77
+  },
+  {
+   "content": "只是增加思考的负担",
+   "from": 1817.77,
+   "location": 2,
+   "music": 0.0,
+   "sid": 740,
+   "to": 1819.97
+  },
+  {
+   "content": "相反通过看破幻象让渴望消退",
+   "from": 1819.97,
+   "location": 2,
+   "music": 0.0,
+   "sid": 741,
+   "to": 1823.52
+  },
+  {
+   "content": "彻底到当旧思维模式出现时不再参与",
+   "from": 1823.52,
+   "location": 2,
+   "music": 0.0,
+   "sid": 742,
+   "to": 1830.07
+  },
+  {
+   "content": "只需识别其本质是噪音",
+   "from": 1830.07,
+   "location": 2,
+   "music": 0.0,
+   "sid": 743,
+   "to": 1832.51
+  },
+  {
+   "content": "伪装成有用",
+   "from": 1832.51,
+   "location": 2,
+   "music": 0.0,
+   "sid": 744,
+   "to": 1834.39
+  },
+  {
+   "content": "并任其自然消散",
+   "from": 1834.39,
+   "location": 2,
+   "music": 0.0,
+   "sid": 745,
+   "to": 1836.955
+  },
+  {
+   "content": "最后明确你真正想在生活中实现什么",
+   "from": 1837.49,
+   "location": 2,
+   "music": 0.0,
+   "sid": 746,
+   "to": 1841.01
+  },
+  {
+   "content": "或今年甚至本周甚至今天",
+   "from": 1841.01,
+   "location": 2,
+   "music": 0.0,
+   "sid": 747,
+   "to": 1844.71
+  },
+  {
+   "content": "拥有值得追求的真实目标",
+   "from": 1844.71,
+   "location": 2,
+   "music": 0.0,
+   "sid": 748,
+   "to": 1846.91
+  },
+  {
+   "content": "需求你的专注与精力 目标填补过度思考留下的空虚",
+   "from": 1846.91,
+   "location": 2,
+   "music": 0.0,
+   "sid": 749,
+   "to": 1852.8
+  },
+  {
+   "content": "它能让你的思维有有意义的内容可以专注",
+   "from": 1852.8,
+   "location": 2,
+   "music": 0.0,
+   "sid": 750,
+   "to": 1855.5
+  },
+  {
+   "content": "因此无需制造虚假问题来解决",
+   "from": 1855.5,
+   "location": 2,
+   "music": 0.0,
+   "sid": 751,
+   "to": 1858.85
+  },
+  {
+   "content": "如果深夜时分你反复思虑",
+   "from": 1858.85,
+   "location": 2,
+   "music": 0.0,
+   "sid": 752,
+   "to": 1861.57
+  },
+  {
+   "content": "那就确保为第二天设定了目标",
+   "from": 1861.57,
+   "location": 2,
+   "music": 0.0,
+   "sid": 753,
+   "to": 1865.17
+  },
+  {
+   "content": "这样你完全可以专注处理它们",
+   "from": 1865.17,
+   "location": 2,
+   "music": 0.0,
+   "sid": 754,
+   "to": 1869.04
+  },
+  {
+   "content": "专注于入睡",
+   "from": 1869.04,
+   "location": 2,
+   "music": 0.0,
+   "sid": 755,
+   "to": 1870.8
+  },
+  {
+   "content": "以便第二天全力实现目标",
+   "from": 1870.8,
+   "location": 2,
+   "music": 0.0,
+   "sid": 756,
+   "to": 1872.84
+  },
+  {
+   "content": "这就是你需要做的全部",
+   "from": 1872.84,
+   "location": 2,
+   "music": 0.0,
+   "sid": 757,
+   "to": 1874.14
+  },
+  {
+   "content": "说完这些，不要与过度思虑纠缠",
+   "from": 1874.14,
+   "location": 2,
+   "music": 0.0,
+   "sid": 758,
+   "to": 1877.94
+  },
+  {
+   "content": "希望你喜欢这次训练",
+   "from": 1878.26,
+   "location": 2,
+   "music": 0.0,
+   "sid": 759,
+   "to": 1879.98
+  }
+ ]
+}

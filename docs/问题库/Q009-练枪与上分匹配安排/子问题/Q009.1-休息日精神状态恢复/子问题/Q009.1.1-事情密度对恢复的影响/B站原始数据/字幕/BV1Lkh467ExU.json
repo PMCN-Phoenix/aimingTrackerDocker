@@ -1,0 +1,3386 @@
+{
+ "bvid": "BV1Lkh467ExU",
+ "title": "人为什么一定需要意义？从心理学三大维度拆解：连贯感、目的感与重要感",
+ "owner": "明犀Mynsyn",
+ "aid": 117320202589366,
+ "cid": 42137946996,
+ "duration": 939,
+ "body": [
+  {
+   "from": 0.04,
+   "to": 1.85,
+   "sid": 1,
+   "location": 2,
+   "content": "人为什么一定需要意义",
+   "music": 0.0
+  },
+  {
+   "from": 1.85,
+   "to": 5.09,
+   "sid": 2,
+   "location": 2,
+   "content": "想象一种很多人曾经非常向往的生活",
+   "music": 0.0
+  },
+  {
+   "from": 5.09,
+   "to": 6.27,
+   "sid": 3,
+   "location": 2,
+   "content": "钱够花",
+   "music": 0.0
+  },
+  {
+   "from": 6.27,
+   "to": 7.49,
+   "sid": 4,
+   "location": 2,
+   "content": "身体健康",
+   "music": 0.0
+  },
+  {
+   "from": 7.49,
+   "to": 8.85,
+   "sid": 5,
+   "location": 2,
+   "content": "不用打卡",
+   "music": 0.0
+  },
+  {
+   "from": 8.85,
+   "to": 10.33,
+   "sid": 6,
+   "location": 2,
+   "content": "房贷已经还完",
+   "music": 0.0
+  },
+  {
+   "from": 10.33,
+   "to": 11.75,
+   "sid": 7,
+   "location": 2,
+   "content": "没有人逼你结婚",
+   "music": 0.0
+  },
+  {
+   "from": 11.75,
+   "to": 13.55,
+   "sid": 8,
+   "location": 2,
+   "content": "也没有老板催你交方案",
+   "music": 0.0
+  },
+  {
+   "from": 13.55,
+   "to": 16.13,
+   "sid": 9,
+   "location": 2,
+   "content": "AI替你处理绝大多数麻烦事",
+   "music": 0.0
+  },
+  {
+   "from": 16.13,
+   "to": 18.13,
+   "sid": 10,
+   "location": 2,
+   "content": "想睡几点睡几点",
+   "music": 0.0
+  },
+  {
+   "from": 18.13,
+   "to": 19.97,
+   "sid": 11,
+   "location": 2,
+   "content": "想吃什么吃什么",
+   "music": 0.0
+  },
+  {
+   "from": 19.97,
+   "to": 22.27,
+   "sid": 12,
+   "location": 2,
+   "content": "想去哪里旅行就去哪里",
+   "music": 0.0
+  },
+  {
+   "from": 22.27,
+   "to": 25.38,
+   "sid": 13,
+   "location": 2,
+   "content": "第一周你可能觉得这才叫人生",
+   "music": 0.0
+  },
+  {
+   "from": 25.38,
+   "to": 27.95,
+   "sid": 14,
+   "location": 2,
+   "content": "一个月以后也许仍然不错",
+   "music": 0.0
+  },
+  {
+   "from": 27.95,
+   "to": 32.07,
+   "sid": 15,
+   "location": 2,
+   "content": "可是如果这种生活持续一年5年十年呢",
+   "music": 0.0
+  },
+  {
+   "from": 32.07,
+   "to": 34.41,
+   "sid": 16,
+   "location": 2,
+   "content": "有一天早上你睡到自然醒",
+   "music": 0.0
+  },
+  {
+   "from": 34.41,
+   "to": 36.03,
+   "sid": 17,
+   "location": 2,
+   "content": "窗外阳光很好",
+   "music": 0.0
+  },
+  {
+   "from": 36.03,
+   "to": 37.51,
+   "sid": 18,
+   "location": 2,
+   "content": "冰箱里什么都有",
+   "music": 0.0
+  },
+  {
+   "from": 37.51,
+   "to": 39.93,
+   "sid": 19,
+   "location": 2,
+   "content": "今天没有任何事情必须完成",
+   "music": 0.0
+  },
+  {
+   "from": 39.93,
+   "to": 42.85,
+   "sid": 20,
+   "location": 2,
+   "content": "然后一个很轻的问题突然冒出来",
+   "music": 0.0
+  },
+  {
+   "from": 42.85,
+   "to": 43.81,
+   "sid": 21,
+   "location": 2,
+   "content": "然后呢",
+   "music": 0.0
+  },
+  {
+   "from": 43.81,
+   "to": 45.37,
+   "sid": 22,
+   "location": 2,
+   "content": "不是今天去哪玩",
+   "music": 0.0
+  },
+  {
+   "from": 45.37,
+   "to": 47.959,
+   "sid": 23,
+   "location": 2,
+   "content": "而是我为什么还要重复明天",
+   "music": 0.0
+  },
+  {
+   "from": 47.959,
+   "to": 49.679,
+   "sid": 24,
+   "location": 2,
+   "content": "这大概是意义问题",
+   "music": 0.0
+  },
+  {
+   "from": 49.679,
+   "to": 51.099,
+   "sid": 25,
+   "location": 2,
+   "content": "真正出现的地方",
+   "music": 0.0
+  },
+  {
+   "from": 51.099,
+   "to": 53.139,
+   "sid": 26,
+   "location": 2,
+   "content": "人可以忍受很多辛苦",
+   "music": 0.0
+  },
+  {
+   "from": 53.139,
+   "to": 55.71,
+   "sid": 27,
+   "location": 2,
+   "content": "却很难长久忍受一种感觉",
+   "music": 0.0
+  },
+  {
+   "from": 55.71,
+   "to": 59.31,
+   "sid": 28,
+   "location": 2,
+   "content": "这一切做了和没做好像都没什么区别",
+   "music": 0.0
+  },
+  {
+   "from": 59.31,
+   "to": 61.79,
+   "sid": 29,
+   "location": 2,
+   "content": "所以我们首先要纠正一个误解",
+   "music": 0.0
+  },
+  {
+   "from": 61.79,
+   "to": 63.43,
+   "sid": 30,
+   "location": 2,
+   "content": "所谓人生需要意义",
+   "music": 0.0
+  },
+  {
+   "from": 63.43,
+   "to": 66.87,
+   "sid": 31,
+   "location": 2,
+   "content": "并不意味着每个人都必须找到一个宏大的使命",
+   "music": 0.0
+  },
+  {
+   "from": 66.87,
+   "to": 68.13,
+   "sid": 32,
+   "location": 2,
+   "content": "拯救世界",
+   "music": 0.0
+  },
+  {
+   "from": 68.13,
+   "to": 69.95,
+   "sid": 33,
+   "location": 2,
+   "content": "留下传世作品",
+   "music": 0.0
+  },
+  {
+   "from": 69.95,
+   "to": 72.05,
+   "sid": 34,
+   "location": 2,
+   "content": "创办一家伟大公司",
+   "music": 0.0
+  },
+  {
+   "from": 72.05,
+   "to": 74.15,
+   "sid": 35,
+   "location": 2,
+   "content": "成为某种历史人物",
+   "music": 0.0
+  },
+  {
+   "from": 74.15,
+   "to": 77.35,
+   "sid": 36,
+   "location": 2,
+   "content": "绝大多数人的意义可能非常普通",
+   "music": 0.0
+  },
+  {
+   "from": 77.35,
+   "to": 78.93,
+   "sid": 37,
+   "location": 2,
+   "content": "把一个孩子养大",
+   "music": 0.0
+  },
+  {
+   "from": 78.93,
+   "to": 80.21,
+   "sid": 38,
+   "location": 2,
+   "content": "照顾家人",
+   "music": 0.0
+  },
+  {
+   "from": 80.21,
+   "to": 81.83,
+   "sid": 39,
+   "location": 2,
+   "content": "把一门手艺做好",
+   "music": 0.0
+  },
+  {
+   "from": 81.83,
+   "to": 83.61,
+   "sid": 40,
+   "location": 2,
+   "content": "认真研究一个问题",
+   "music": 0.0
+  },
+  {
+   "from": 83.61,
+   "to": 85.19,
+   "sid": 41,
+   "location": 2,
+   "content": "经营一家小店",
+   "music": 0.0
+  },
+  {
+   "from": 85.19,
+   "to": 87.81,
+   "sid": 42,
+   "location": 2,
+   "content": "和几个真正喜欢的人一起生活",
+   "music": 0.0
+  },
+  {
+   "from": 87.81,
+   "to": 89.39,
+   "sid": 43,
+   "location": 2,
+   "content": "把身体照顾好",
+   "music": 0.0
+  },
+  {
+   "from": 89.39,
+   "to": 91.77,
+   "sid": 44,
+   "location": 2,
+   "content": "看一些自己还没看过的地方",
+   "music": 0.0
+  },
+  {
+   "from": 91.77,
+   "to": 93.67,
+   "sid": 45,
+   "location": 2,
+   "content": "这些事情并不宏大",
+   "music": 0.0
+  },
+  {
+   "from": 93.67,
+   "to": 96.17,
+   "sid": 46,
+   "location": 2,
+   "content": "可他们能回答一个更基本的问题",
+   "music": 0.0
+  },
+  {
+   "from": 96.17,
+   "to": 98.44,
+   "sid": 47,
+   "location": 2,
+   "content": "为什么今天值得起床",
+   "music": 0.0
+  },
+  {
+   "from": 98.44,
+   "to": 101.39,
+   "sid": 48,
+   "location": 2,
+   "content": "这就已经进入了意义心理学",
+   "music": 0.0
+  },
+  {
+   "from": 101.39,
+   "to": 103.75,
+   "sid": 49,
+   "location": 2,
+   "content": "过去几十年对生命意义的研究",
+   "music": 0.0
+  },
+  {
+   "from": 103.75,
+   "to": 106.47,
+   "sid": 50,
+   "location": 2,
+   "content": "越来越不把它当成一个神秘的哲学",
+   "music": 0.0
+  },
+  {
+   "from": 106.47,
+   "to": 108.86,
+   "sid": 51,
+   "location": 2,
+   "content": "整体一个影响很大的划分",
+   "music": 0.0
+  },
+  {
+   "from": 108.86,
+   "to": 110.92,
+   "sid": 52,
+   "location": 2,
+   "content": "把生命意义拆成三个部分",
+   "music": 0.0
+  },
+  {
+   "from": 110.92,
+   "to": 112.59,
+   "sid": 53,
+   "location": 2,
+   "content": "第一连贯感",
+   "music": 0.0
+  },
+  {
+   "from": 112.59,
+   "to": 114.85,
+   "sid": 54,
+   "location": 2,
+   "content": "我的生活大致是能够理解的",
+   "music": 0.0
+  },
+  {
+   "from": 114.85,
+   "to": 116.92,
+   "sid": 55,
+   "location": 2,
+   "content": "我知道这些事情为什么发生",
+   "music": 0.0
+  },
+  {
+   "from": 116.92,
+   "to": 119.44,
+   "sid": 56,
+   "location": 2,
+   "content": "知道过去和现在之间有什么关系",
+   "music": 0.0
+  },
+  {
+   "from": 119.44,
+   "to": 120.84,
+   "sid": 57,
+   "location": 2,
+   "content": "第二目的感",
+   "music": 0.0
+  },
+  {
+   "from": 120.84,
+   "to": 122.98,
+   "sid": 58,
+   "location": 2,
+   "content": "我的生命有某种方向",
+   "music": 0.0
+  },
+  {
+   "from": 122.98,
+   "to": 125.13,
+   "sid": 59,
+   "location": 2,
+   "content": "未来有值得朝向的东西",
+   "music": 0.0
+  },
+  {
+   "from": 125.13,
+   "to": 126.67,
+   "sid": 60,
+   "location": 2,
+   "content": "第三重要感",
+   "music": 0.0
+  },
+  {
+   "from": 126.67,
+   "to": 129.949,
+   "sid": 61,
+   "location": 2,
+   "content": "我觉得自己的存在并非完全无关紧要",
+   "music": 0.0
+  },
+  {
+   "from": 129.949,
+   "to": 131.689,
+   "sid": 62,
+   "location": 2,
+   "content": "我的生命是有价值的",
+   "music": 0.0
+  },
+  {
+   "from": 131.689,
+   "to": 135.48,
+   "sid": 63,
+   "location": 2,
+   "content": "我的存在对某些人某些事情有所影响",
+   "music": 0.0
+  },
+  {
+   "from": 135.48,
+   "to": 139.0,
+   "sid": 64,
+   "location": 2,
+   "content": "这三个维度通常被概括为c o a trance",
+   "music": 0.0
+  },
+  {
+   "from": 139.0,
+   "to": 141.7,
+   "sid": 65,
+   "location": 2,
+   "content": "purpose和mattering significance",
+   "music": 0.0
+  },
+  {
+   "from": 141.7,
+   "to": 144.0,
+   "sid": 66,
+   "location": 2,
+   "content": "它们并不是完全相同的东西",
+   "music": 0.0
+  },
+  {
+   "from": 144.0,
+   "to": 146.3,
+   "sid": 67,
+   "location": 2,
+   "content": "但共同构成了现代心理学",
+   "music": 0.0
+  },
+  {
+   "from": 146.3,
+   "to": 149.68,
+   "sid": 68,
+   "location": 2,
+   "content": "讨论生命有意义时很重要的一套框架",
+   "music": 0.0
+  },
+  {
+   "from": 149.68,
+   "to": 151.36,
+   "sid": 69,
+   "location": 2,
+   "content": "仔细看这三个东西",
+   "music": 0.0
+  },
+  {
+   "from": 151.36,
+   "to": 153.7,
+   "sid": 70,
+   "location": 2,
+   "content": "其实对应了人非常深的三个问题",
+   "music": 0.0
+  },
+  {
+   "from": 153.7,
+   "to": 155.9,
+   "sid": 71,
+   "location": 2,
+   "content": "我理解自己正在经历什么吗",
+   "music": 0.0
+  },
+  {
+   "from": 155.9,
+   "to": 157.97,
+   "sid": 72,
+   "location": 2,
+   "content": "我知道自己要往哪里去吗",
+   "music": 0.0
+  },
+  {
+   "from": 157.97,
+   "to": 159.99,
+   "sid": 73,
+   "location": 2,
+   "content": "这一切与我有关吗",
+   "music": 0.0
+  },
+  {
+   "from": 159.99,
+   "to": 162.89,
+   "sid": 74,
+   "location": 2,
+   "content": "一个人如果三个问题同时失去答案",
+   "music": 0.0
+  },
+  {
+   "from": 162.89,
+   "to": 164.67,
+   "sid": 75,
+   "location": 2,
+   "content": "生活就会开始散掉",
+   "music": 0.0
+  },
+  {
+   "from": 164.67,
+   "to": 165.99,
+   "sid": 76,
+   "location": 2,
+   "content": "先看第一层",
+   "music": 0.0
+  },
+  {
+   "from": 165.99,
+   "to": 167.89,
+   "sid": 77,
+   "location": 2,
+   "content": "人为什么需要说得通",
+   "music": 0.0
+  },
+  {
+   "from": 167.89,
+   "to": 169.49,
+   "sid": 78,
+   "location": 2,
+   "content": "比如你突然被裁员",
+   "music": 0.0
+  },
+  {
+   "from": 169.49,
+   "to": 171.31,
+   "sid": 79,
+   "location": 2,
+   "content": "失去工作当然痛苦",
+   "music": 0.0
+  },
+  {
+   "from": 171.31,
+   "to": 174.23,
+   "sid": 80,
+   "location": 2,
+   "content": "可如果你能够理解行业正在收缩",
+   "music": 0.0
+  },
+  {
+   "from": 174.23,
+   "to": 175.63,
+   "sid": 81,
+   "location": 2,
+   "content": "公司发生了什么",
+   "music": 0.0
+  },
+  {
+   "from": 175.63,
+   "to": 177.99,
+   "sid": 82,
+   "location": 2,
+   "content": "我过去哪些能力需要迁移",
+   "music": 0.0
+  },
+  {
+   "from": 177.99,
+   "to": 179.59,
+   "sid": 83,
+   "location": 2,
+   "content": "下一步可能去哪里",
+   "music": 0.0
+  },
+  {
+   "from": 179.59,
+   "to": 181.25,
+   "sid": 84,
+   "location": 2,
+   "content": "这件事虽然难受",
+   "music": 0.0
+  },
+  {
+   "from": 181.25,
+   "to": 183.07,
+   "sid": 85,
+   "location": 2,
+   "content": "至少还能进入一个故事",
+   "music": 0.0
+  },
+  {
+   "from": 183.07,
+   "to": 186.23,
+   "sid": 86,
+   "location": 2,
+   "content": "可如果完全无法理解为什么是我",
+   "music": 0.0
+  },
+  {
+   "from": 186.23,
+   "to": 187.69,
+   "sid": 87,
+   "location": 2,
+   "content": "是不是我特别差",
+   "music": 0.0
+  },
+  {
+   "from": 187.69,
+   "to": 189.85,
+   "sid": 88,
+   "location": 2,
+   "content": "我过去10年到底算什么",
+   "music": 0.0
+  },
+  {
+   "from": 189.85,
+   "to": 191.57,
+   "sid": 89,
+   "location": 2,
+   "content": "以后还会不会再发生",
+   "music": 0.0
+  },
+  {
+   "from": 191.57,
+   "to": 193.68,
+   "sid": 90,
+   "location": 2,
+   "content": "人的痛苦就会迅速扩大",
+   "music": 0.0
+  },
+  {
+   "from": 193.68,
+   "to": 195.26,
+   "sid": 91,
+   "location": 2,
+   "content": "发生的事情没有变",
+   "music": 0.0
+  },
+  {
+   "from": 195.26,
+   "to": 198.22,
+   "sid": 92,
+   "location": 2,
+   "content": "但你无法把它放进一个可以理解的世界",
+   "music": 0.0
+  },
+  {
+   "from": 198.22,
+   "to": 200.62,
+   "sid": 93,
+   "location": 2,
+   "content": "这就是为什么人在遭遇重大疾病",
+   "music": 0.0
+  },
+  {
+   "from": 200.62,
+   "to": 202.84,
+   "sid": 94,
+   "location": 2,
+   "content": "丧失失败灾难以后",
+   "music": 0.0
+  },
+  {
+   "from": 202.84,
+   "to": 204.18,
+   "sid": 95,
+   "location": 2,
+   "content": "会反复追问",
+   "music": 0.0
+  },
+  {
+   "from": 204.18,
+   "to": 205.11,
+   "sid": 96,
+   "location": 2,
+   "content": "为什么",
+   "music": 0.0
+  },
+  {
+   "from": 205.11,
+   "to": 208.87,
+   "sid": 97,
+   "location": 2,
+   "content": "有时候那个为什么并不是在寻找宇宙终极真理",
+   "music": 0.0
+  },
+  {
+   "from": 208.87,
+   "to": 212.69,
+   "sid": 98,
+   "location": 2,
+   "content": "他是在尝试重新把一个被打碎的世界拼起来",
+   "music": 0.0
+  },
+  {
+   "from": 212.69,
+   "to": 213.93,
+   "sid": 99,
+   "location": 2,
+   "content": "创伤与丧失",
+   "music": 0.0
+  },
+  {
+   "from": 213.93,
+   "to": 214.63,
+   "sid": 100,
+   "location": 2,
+   "content": "研究中",
+   "music": 0.0
+  },
+  {
+   "from": 214.63,
+   "to": 217.37,
+   "sid": 101,
+   "location": 2,
+   "content": "意义建构长期是一个重要主题",
+   "music": 0.0
+  },
+  {
+   "from": 217.37,
+   "to": 220.67,
+   "sid": 102,
+   "location": 2,
+   "content": "重大事件会破坏人原有的世界假设",
+   "music": 0.0
+  },
+  {
+   "from": 220.67,
+   "to": 223.79,
+   "sid": 103,
+   "location": 2,
+   "content": "而人常常需要重新理解发生了什么",
+   "music": 0.0
+  },
+  {
+   "from": 223.79,
+   "to": 226.579,
+   "sid": 104,
+   "location": 2,
+   "content": "以及他与自己的人生怎样连接",
+   "music": 0.0
+  },
+  {
+   "from": 226.579,
+   "to": 229.819,
+   "sid": 105,
+   "location": 2,
+   "content": "所以意义的第一项功能可能非常朴素",
+   "music": 0.0
+  },
+  {
+   "from": 229.819,
+   "to": 232.09,
+   "sid": 106,
+   "location": 2,
+   "content": "让生活重新能够被理解",
+   "music": 0.0
+  },
+  {
+   "from": 232.09,
+   "to": 233.69,
+   "sid": 107,
+   "location": 2,
+   "content": "第二层更加现实",
+   "music": 0.0
+  },
+  {
+   "from": 233.69,
+   "to": 234.87,
+   "sid": 108,
+   "location": 2,
+   "content": "人需要方向",
+   "music": 0.0
+  },
+  {
+   "from": 234.87,
+   "to": 236.45,
+   "sid": 109,
+   "location": 2,
+   "content": "你可以问自己一个问题",
+   "music": 0.0
+  },
+  {
+   "from": 236.45,
+   "to": 237.75,
+   "sid": 110,
+   "location": 2,
+   "content": "如果从今天开始",
+   "music": 0.0
+  },
+  {
+   "from": 237.75,
+   "to": 240.28,
+   "sid": 111,
+   "location": 2,
+   "content": "你做任何事情都不会影响明天",
+   "music": 0.0
+  },
+  {
+   "from": 240.28,
+   "to": 241.62,
+   "sid": 112,
+   "location": 2,
+   "content": "你还会努力吗",
+   "music": 0.0
+  },
+  {
+   "from": 241.62,
+   "to": 243.12,
+   "sid": 113,
+   "location": 2,
+   "content": "今天读一本书",
+   "music": 0.0
+  },
+  {
+   "from": 243.12,
+   "to": 244.74,
+   "sid": 114,
+   "location": 2,
+   "content": "明天全部忘掉",
+   "music": 0.0
+  },
+  {
+   "from": 244.74,
+   "to": 247.5,
+   "sid": 115,
+   "location": 2,
+   "content": "今天锻炼身体不会因此改变",
+   "music": 0.0
+  },
+  {
+   "from": 247.5,
+   "to": 248.7,
+   "sid": 116,
+   "location": 2,
+   "content": "今天存钱",
+   "music": 0.0
+  },
+  {
+   "from": 248.7,
+   "to": 251.08,
+   "sid": 117,
+   "location": 2,
+   "content": "未来和今天完全没有关系",
+   "music": 0.0
+  },
+  {
+   "from": 251.08,
+   "to": 253.04,
+   "sid": 118,
+   "location": 2,
+   "content": "今天和一个人建立关系",
+   "music": 0.0
+  },
+  {
+   "from": 253.04,
+   "to": 255.14,
+   "sid": 119,
+   "location": 2,
+   "content": "明天一切重新开始",
+   "music": 0.0
+  },
+  {
+   "from": 255.14,
+   "to": 257.18,
+   "sid": 120,
+   "location": 2,
+   "content": "这种生活会发生什么",
+   "music": 0.0
+  },
+  {
+   "from": 257.18,
+   "to": 259.329,
+   "sid": 121,
+   "location": 2,
+   "content": "行动会迅速失去动力",
+   "music": 0.0
+  },
+  {
+   "from": 259.329,
+   "to": 261.209,
+   "sid": 122,
+   "location": 2,
+   "content": "因为人能够长期行动",
+   "music": 0.0
+  },
+  {
+   "from": 261.209,
+   "to": 262.649,
+   "sid": 123,
+   "location": 2,
+   "content": "一个非常重要的前提",
+   "music": 0.0
+  },
+  {
+   "from": 262.649,
+   "to": 265.8,
+   "sid": 124,
+   "location": 2,
+   "content": "就是现在和未来之间存在联系",
+   "music": 0.0
+  },
+  {
+   "from": 265.8,
+   "to": 269.06,
+   "sid": 125,
+   "location": 2,
+   "content": "我今天做A是为了未来可能出现B",
+   "music": 0.0
+  },
+  {
+   "from": 269.06,
+   "to": 270.42,
+   "sid": 126,
+   "location": 2,
+   "content": "这就是目的感",
+   "music": 0.0
+  },
+  {
+   "from": 270.42,
+   "to": 273.76,
+   "sid": 127,
+   "location": 2,
+   "content": "他把此刻的成本和未来的可能连接起来",
+   "music": 0.0
+  },
+  {
+   "from": 273.76,
+   "to": 277.42,
+   "sid": 128,
+   "location": 2,
+   "content": "所以人能够做一件动物生命中极其特殊的事情",
+   "music": 0.0
+  },
+  {
+   "from": 277.42,
+   "to": 282.0,
+   "sid": 129,
+   "location": 2,
+   "content": "为了一个还不存在的未来牺牲眼前学习几年",
+   "music": 0.0
+  },
+  {
+   "from": 282.0,
+   "to": 283.26,
+   "sid": 130,
+   "location": 2,
+   "content": "训练10年",
+   "music": 0.0
+  },
+  {
+   "from": 283.26,
+   "to": 284.44,
+   "sid": 131,
+   "location": 2,
+   "content": "养育一个孩子",
+   "music": 0.0
+  },
+  {
+   "from": 284.44,
+   "to": 285.39,
+   "sid": 132,
+   "location": 2,
+   "content": "20年",
+   "music": 0.0
+  },
+  {
+   "from": 285.39,
+   "to": 287.39,
+   "sid": 133,
+   "location": 2,
+   "content": "做一项可能失败的研究",
+   "music": 0.0
+  },
+  {
+   "from": 287.39,
+   "to": 290.36,
+   "sid": 134,
+   "location": 2,
+   "content": "为了某种事业承受暂时的不确定",
+   "music": 0.0
+  },
+  {
+   "from": 290.36,
+   "to": 292.96,
+   "sid": 135,
+   "location": 2,
+   "content": "如果未来没有任何值得抵达的东西",
+   "music": 0.0
+  },
+  {
+   "from": 292.96,
+   "to": 293.8,
+   "sid": 136,
+   "location": 2,
+   "content": "为什么要付出",
+   "music": 0.0
+  },
+  {
+   "from": 293.8,
+   "to": 297.84,
+   "sid": 137,
+   "location": 2,
+   "content": "现在于是翼翼在这里承担了一种很现实的功能",
+   "music": 0.0
+  },
+  {
+   "from": 297.84,
+   "to": 299.64,
+   "sid": 138,
+   "location": 2,
+   "content": "他把今天组织起来",
+   "music": 0.0
+  },
+  {
+   "from": 299.64,
+   "to": 301.28,
+   "sid": 139,
+   "location": 2,
+   "content": "第三层可能更深",
+   "music": 0.0
+  },
+  {
+   "from": 301.28,
+   "to": 303.35,
+   "sid": 140,
+   "location": 2,
+   "content": "人需要觉得自己有所谓",
+   "music": 0.0
+  },
+  {
+   "from": 303.35,
+   "to": 305.41,
+   "sid": 141,
+   "location": 2,
+   "content": "这不等于每个人都想出名",
+   "music": 0.0
+  },
+  {
+   "from": 305.41,
+   "to": 306.69,
+   "sid": 142,
+   "location": 2,
+   "content": "恰恰相反",
+   "music": 0.0
+  },
+  {
+   "from": 306.69,
+   "to": 308.81,
+   "sid": 143,
+   "location": 2,
+   "content": "一个人可能一辈子没人认识",
+   "music": 0.0
+  },
+  {
+   "from": 308.81,
+   "to": 313.29,
+   "sid": 144,
+   "location": 2,
+   "content": "但他知道孩子需要我这个家有我和没我不一样",
+   "music": 0.0
+  },
+  {
+   "from": 313.29,
+   "to": 315.79,
+   "sid": 145,
+   "location": 2,
+   "content": "我做的工作确实帮助了某些人",
+   "music": 0.0
+  },
+  {
+   "from": 315.79,
+   "to": 318.69,
+   "sid": 146,
+   "location": 2,
+   "content": "我写的东西至少把一个问题说清楚了一点",
+   "music": 0.0
+  },
+  {
+   "from": 318.69,
+   "to": 321.27,
+   "sid": 147,
+   "location": 2,
+   "content": "我在某些人的生命里留下过东西",
+   "music": 0.0
+  },
+  {
+   "from": 321.27,
+   "to": 323.79,
+   "sid": 148,
+   "location": 2,
+   "content": "这种感觉就是我的存在",
+   "music": 0.0
+  },
+  {
+   "from": 323.79,
+   "to": 327.05,
+   "sid": 149,
+   "location": 2,
+   "content": "不是完全可以随意替换的一串时间研究",
+   "music": 0.0
+  },
+  {
+   "from": 327.05,
+   "to": 328.93,
+   "sid": 150,
+   "location": 2,
+   "content": "甚至发现在连贯感",
+   "music": 0.0
+  },
+  {
+   "from": 328.93,
+   "to": 329.65,
+   "sid": 151,
+   "location": 2,
+   "content": "目的感",
+   "music": 0.0
+  },
+  {
+   "from": 329.65,
+   "to": 331.11,
+   "sid": 152,
+   "location": 2,
+   "content": "重要感三个维度中",
+   "music": 0.0
+  },
+  {
+   "from": 331.11,
+   "to": 332.77,
+   "sid": 153,
+   "location": 2,
+   "content": "Existential mattery",
+   "music": 0.0
+  },
+  {
+   "from": 332.77,
+   "to": 336.21,
+   "sid": 154,
+   "location": 2,
+   "content": "一个人是否觉得自己的存在具有价值和重要性",
+   "music": 0.0
+  },
+  {
+   "from": 336.21,
+   "to": 340.169,
+   "sid": 155,
+   "location": 2,
+   "content": "与总体生命意义判断之间存在尤其稳定的关系",
+   "music": 0.0
+  },
+  {
+   "from": 340.169,
+   "to": 341.289,
+   "sid": 156,
+   "location": 2,
+   "content": "这可能解释了",
+   "music": 0.0
+  },
+  {
+   "from": 341.289,
+   "to": 343.849,
+   "sid": 157,
+   "location": 2,
+   "content": "为什么一个人会害怕一种特殊的生活",
+   "music": 0.0
+  },
+  {
+   "from": 343.849,
+   "to": 344.989,
+   "sid": 158,
+   "location": 2,
+   "content": "不是痛苦",
+   "music": 0.0
+  },
+  {
+   "from": 344.989,
+   "to": 347.029,
+   "sid": 159,
+   "location": 2,
+   "content": "而是可有可无",
+   "music": 0.0
+  },
+  {
+   "from": 347.029,
+   "to": 348.87,
+   "sid": 160,
+   "location": 2,
+   "content": "做什么都没人需要",
+   "music": 0.0
+  },
+  {
+   "from": 348.87,
+   "to": 350.19,
+   "sid": 161,
+   "location": 2,
+   "content": "来不来都一样",
+   "music": 0.0
+  },
+  {
+   "from": 350.19,
+   "to": 351.35,
+   "sid": 162,
+   "location": 2,
+   "content": "今天消失",
+   "music": 0.0
+  },
+  {
+   "from": 351.35,
+   "to": 353.27,
+   "sid": 163,
+   "location": 2,
+   "content": "世界明天毫无变化",
+   "music": 0.0
+  },
+  {
+   "from": 353.27,
+   "to": 356.44,
+   "sid": 164,
+   "location": 2,
+   "content": "这种感觉有时候比累更难忍受",
+   "music": 0.0
+  },
+  {
+   "from": 356.44,
+   "to": 359.48,
+   "sid": 165,
+   "location": 2,
+   "content": "这也解释了一个看起来非常奇怪的现象",
+   "music": 0.0
+  },
+  {
+   "from": 359.48,
+   "to": 361.94,
+   "sid": 166,
+   "location": 2,
+   "content": "有意义的人生不一定舒服",
+   "music": 0.0
+  },
+  {
+   "from": 361.94,
+   "to": 363.78,
+   "sid": 167,
+   "location": 2,
+   "content": "有时候甚至恰恰相反",
+   "music": 0.0
+  },
+  {
+   "from": 363.78,
+   "to": 365.28,
+   "sid": 168,
+   "location": 2,
+   "content": "养孩子很累",
+   "music": 0.0
+  },
+  {
+   "from": 365.28,
+   "to": 367.32,
+   "sid": 169,
+   "location": 2,
+   "content": "照顾一个重病家人很累",
+   "music": 0.0
+  },
+  {
+   "from": 367.32,
+   "to": 368.51,
+   "sid": 170,
+   "location": 2,
+   "content": "创业很累",
+   "music": 0.0
+  },
+  {
+   "from": 368.51,
+   "to": 370.91,
+   "sid": 171,
+   "location": 2,
+   "content": "长期研究一个问题也很累",
+   "music": 0.0
+  },
+  {
+   "from": 370.91,
+   "to": 373.7,
+   "sid": 172,
+   "location": 2,
+   "content": "可人有时会主动选择这些辛苦",
+   "music": 0.0
+  },
+  {
+   "from": 373.7,
+   "to": 374.62,
+   "sid": 173,
+   "location": 2,
+   "content": "为什么",
+   "music": 0.0
+  },
+  {
+   "from": 374.62,
+   "to": 376.92,
+   "sid": 174,
+   "location": 2,
+   "content": "因为快乐和意义不是一回事儿",
+   "music": 0.0
+  },
+  {
+   "from": 376.92,
+   "to": 379.51,
+   "sid": 175,
+   "location": 2,
+   "content": "快乐更多在问此刻感觉怎么样",
+   "music": 0.0
+  },
+  {
+   "from": 379.51,
+   "to": 382.23,
+   "sid": 176,
+   "location": 2,
+   "content": "翼翼则会问这件事值不值得",
+   "music": 0.0
+  },
+  {
+   "from": 382.23,
+   "to": 384.05,
+   "sid": 177,
+   "location": 2,
+   "content": "两者当然可以重合",
+   "music": 0.0
+  },
+  {
+   "from": 384.05,
+   "to": 385.74,
+   "sid": 178,
+   "location": 2,
+   "content": "但也经常冲突",
+   "music": 0.0
+  },
+  {
+   "from": 385.74,
+   "to": 388.54,
+   "sid": 179,
+   "location": 2,
+   "content": "今天躺在沙发上刷六小时短视频",
+   "music": 0.0
+  },
+  {
+   "from": 388.54,
+   "to": 390.06,
+   "sid": 180,
+   "location": 2,
+   "content": "可能比学习舒服",
+   "music": 0.0
+  },
+  {
+   "from": 390.06,
+   "to": 391.56,
+   "sid": 181,
+   "location": 2,
+   "content": "可是晚上回头看",
+   "music": 0.0
+  },
+  {
+   "from": 391.56,
+   "to": 393.26,
+   "sid": 182,
+   "location": 2,
+   "content": "你未必觉得这六个小时",
+   "music": 0.0
+  },
+  {
+   "from": 393.26,
+   "to": 395.69,
+   "sid": 183,
+   "location": 2,
+   "content": "比完成一项困难工作更有意义",
+   "music": 0.0
+  },
+  {
+   "from": 395.69,
+   "to": 397.97,
+   "sid": 184,
+   "location": 2,
+   "content": "因为人不仅拥有感受系统",
+   "music": 0.0
+  },
+  {
+   "from": 397.97,
+   "to": 401.59,
+   "sid": 185,
+   "location": 2,
+   "content": "还拥有一个会跨越时间评价自己生命的系统",
+   "music": 0.0
+  },
+  {
+   "from": 401.59,
+   "to": 405.33,
+   "sid": 186,
+   "location": 2,
+   "content": "我们会回头问我把这几年花在哪里了",
+   "music": 0.0
+  },
+  {
+   "from": 405.33,
+   "to": 406.81,
+   "sid": 187,
+   "location": 2,
+   "content": "这一问一出现",
+   "music": 0.0
+  },
+  {
+   "from": 406.81,
+   "to": 408.22,
+   "sid": 188,
+   "location": 2,
+   "content": "意义就来了",
+   "music": 0.0
+  },
+  {
+   "from": 408.22,
+   "to": 412.12,
+   "sid": 189,
+   "location": 2,
+   "content": "甚至可以说意义是人对时间的一种组织方式",
+   "music": 0.0
+  },
+  {
+   "from": 412.12,
+   "to": 413.88,
+   "sid": 190,
+   "location": 2,
+   "content": "动物当然也有记忆",
+   "music": 0.0
+  },
+  {
+   "from": 413.88,
+   "to": 415.37,
+   "sid": 191,
+   "location": 2,
+   "content": "也会预期未来",
+   "music": 0.0
+  },
+  {
+   "from": 415.37,
+   "to": 417.77,
+   "sid": 192,
+   "location": 2,
+   "content": "但人类拥有极其复杂的自传性",
+   "music": 0.0
+  },
+  {
+   "from": 417.77,
+   "to": 420.1,
+   "sid": 193,
+   "location": 2,
+   "content": "记忆语言和长期规划能力",
+   "music": 0.0
+  },
+  {
+   "from": 420.1,
+   "to": 421.96,
+   "sid": 194,
+   "location": 2,
+   "content": "我们会把10年前的自己",
+   "music": 0.0
+  },
+  {
+   "from": 421.96,
+   "to": 424.14,
+   "sid": 195,
+   "location": 2,
+   "content": "今天的自己和20年后的自己",
+   "music": 0.0
+  },
+  {
+   "from": 424.14,
+   "to": 425.97,
+   "sid": 196,
+   "location": 2,
+   "content": "放进同一条生命里",
+   "music": 0.0
+  },
+  {
+   "from": 425.97,
+   "to": 429.05,
+   "sid": 197,
+   "location": 2,
+   "content": "于是今天一个决定不再只是今天的事儿",
+   "music": 0.0
+  },
+  {
+   "from": 429.05,
+   "to": 432.09,
+   "sid": 198,
+   "location": 2,
+   "content": "他会变成我正在成为怎样的人",
+   "music": 0.0
+  },
+  {
+   "from": 432.09,
+   "to": 433.57,
+   "sid": 199,
+   "location": 2,
+   "content": "你选择一份工作",
+   "music": 0.0
+  },
+  {
+   "from": 433.57,
+   "to": 436.89,
+   "sid": 200,
+   "location": 2,
+   "content": "其实也选择未来几年把注意力放在哪里",
+   "music": 0.0
+  },
+  {
+   "from": 436.89,
+   "to": 438.29,
+   "sid": 201,
+   "location": 2,
+   "content": "你和一个人结婚",
+   "music": 0.0
+  },
+  {
+   "from": 438.29,
+   "to": 439.09,
+   "sid": 202,
+   "location": 2,
+   "content": "也意味着",
+   "music": 0.0
+  },
+  {
+   "from": 439.09,
+   "to": 442.35,
+   "sid": 203,
+   "location": 2,
+   "content": "接受一条可能持续几十年的共同时间线",
+   "music": 0.0
+  },
+  {
+   "from": 442.35,
+   "to": 444.09,
+   "sid": 204,
+   "location": 2,
+   "content": "你决定坚持一个方向",
+   "music": 0.0
+  },
+  {
+   "from": 444.09,
+   "to": 447.69,
+   "sid": 205,
+   "location": 2,
+   "content": "某种意义上是把自己的有限生命兑换成它",
+   "music": 0.0
+  },
+  {
+   "from": 447.69,
+   "to": 449.64,
+   "sid": 206,
+   "location": 2,
+   "content": "所以人为什么需要意义",
+   "music": 0.0
+  },
+  {
+   "from": 449.64,
+   "to": 452.2,
+   "sid": 207,
+   "location": 2,
+   "content": "因为一个知道自己时间有限的生命",
+   "music": 0.0
+  },
+  {
+   "from": 452.2,
+   "to": 454.26,
+   "sid": 208,
+   "location": 2,
+   "content": "迟早会遇到一个残酷的问题",
+   "music": 0.0
+  },
+  {
+   "from": 454.26,
+   "to": 456.08,
+   "sid": 209,
+   "location": 2,
+   "content": "既然不可能什么都活",
+   "music": 0.0
+  },
+  {
+   "from": 456.08,
+   "to": 458.84,
+   "sid": 210,
+   "location": 2,
+   "content": "那我到底把这一生给什么",
+   "music": 0.0
+  },
+  {
+   "from": 458.84,
+   "to": 460.78,
+   "sid": 211,
+   "location": 2,
+   "content": "死亡在这里非常重要",
+   "music": 0.0
+  },
+  {
+   "from": 460.78,
+   "to": 462.64,
+   "sid": 212,
+   "location": 2,
+   "content": "如果一个人永远不死",
+   "music": 0.0
+  },
+  {
+   "from": 462.64,
+   "to": 464.16,
+   "sid": 213,
+   "location": 2,
+   "content": "很多事情其实不用",
+   "music": 0.0
+  },
+  {
+   "from": 464.16,
+   "to": 466.2,
+   "sid": 214,
+   "location": 2,
+   "content": "现在决定想学钢琴",
+   "music": 0.0
+  },
+  {
+   "from": 466.2,
+   "to": 467.56,
+   "sid": 215,
+   "location": 2,
+   "content": "1000年以后再说",
+   "music": 0.0
+  },
+  {
+   "from": 467.56,
+   "to": 468.68,
+   "sid": 216,
+   "location": 2,
+   "content": "想去南极",
+   "music": 0.0
+  },
+  {
+   "from": 468.68,
+   "to": 470.5,
+   "sid": 217,
+   "location": 2,
+   "content": "3万年以后也来得及",
+   "music": 0.0
+  },
+  {
+   "from": 470.5,
+   "to": 473.26,
+   "sid": 218,
+   "location": 2,
+   "content": "这个人爱不爱可以观察200年",
+   "music": 0.0
+  },
+  {
+   "from": 473.26,
+   "to": 475.46,
+   "sid": 219,
+   "location": 2,
+   "content": "可真实人生不是这样",
+   "music": 0.0
+  },
+  {
+   "from": 475.46,
+   "to": 477.08,
+   "sid": 220,
+   "location": 2,
+   "content": "时间不断消失",
+   "music": 0.0
+  },
+  {
+   "from": 477.08,
+   "to": 481.05,
+   "sid": 221,
+   "location": 2,
+   "content": "一条路走下去意味着另一条路逐渐关闭",
+   "music": 0.0
+  },
+  {
+   "from": 481.05,
+   "to": 483.95,
+   "sid": 222,
+   "location": 2,
+   "content": "所以意义和有限性之间有很深的关系",
+   "music": 0.0
+  },
+  {
+   "from": 483.95,
+   "to": 485.45,
+   "sid": 223,
+   "location": 2,
+   "content": "因为死亡告诉人",
+   "music": 0.0
+  },
+  {
+   "from": 485.45,
+   "to": 490.07,
+   "sid": 224,
+   "location": 2,
+   "content": "你必须排序什么值得今天做什么值得人",
+   "music": 0.0
+  },
+  {
+   "from": 490.07,
+   "to": 491.63,
+   "sid": 225,
+   "location": 2,
+   "content": "什么值得拒绝",
+   "music": 0.0
+  },
+  {
+   "from": 491.63,
+   "to": 493.81,
+   "sid": 226,
+   "location": 2,
+   "content": "什么值得花10年",
+   "music": 0.0
+  },
+  {
+   "from": 493.81,
+   "to": 496.63,
+   "sid": 227,
+   "location": 2,
+   "content": "什么东西根本不值得再浪费一年",
+   "music": 0.0
+  },
+  {
+   "from": 496.63,
+   "to": 498.09,
+   "sid": 228,
+   "location": 2,
+   "content": "一旦生命有限",
+   "music": 0.0
+  },
+  {
+   "from": 498.09,
+   "to": 500.05,
+   "sid": 229,
+   "location": 2,
+   "content": "价值排序就无法逃避",
+   "music": 0.0
+  },
+  {
+   "from": 500.05,
+   "to": 503.77,
+   "sid": 230,
+   "location": 2,
+   "content": "而当价值排序开始组织一生意义出现了",
+   "music": 0.0
+  },
+  {
+   "from": 503.77,
+   "to": 507.55,
+   "sid": 231,
+   "location": 2,
+   "content": "所以我们甚至可以把意义理解成一个有限生命",
+   "music": 0.0
+  },
+  {
+   "from": 507.55,
+   "to": 510.77,
+   "sid": 232,
+   "location": 2,
+   "content": "对自己为什么把时间花在这些事情上的回答",
+   "music": 0.0
+  },
+  {
+   "from": 510.77,
+   "to": 512.53,
+   "sid": 233,
+   "location": 2,
+   "content": "这个定义没有那么浪漫",
+   "music": 0.0
+  },
+  {
+   "from": 512.53,
+   "to": 513.67,
+   "sid": 234,
+   "location": 2,
+   "content": "却很现实",
+   "music": 0.0
+  },
+  {
+   "from": 513.67,
+   "to": 515.55,
+   "sid": 235,
+   "location": 2,
+   "content": "你嘴上说家庭最重要",
+   "music": 0.0
+  },
+  {
+   "from": 515.55,
+   "to": 518.49,
+   "sid": 236,
+   "location": 2,
+   "content": "可10年里绝大部分时间都给了工作",
+   "music": 0.0
+  },
+  {
+   "from": 518.49,
+   "to": 522.25,
+   "sid": 237,
+   "location": 2,
+   "content": "那么你的实际生活正在回答另一个意义结构",
+   "music": 0.0
+  },
+  {
+   "from": 522.25,
+   "to": 523.85,
+   "sid": 238,
+   "location": 2,
+   "content": "你说健康重要",
+   "music": 0.0
+  },
+  {
+   "from": 523.85,
+   "to": 526.09,
+   "sid": 239,
+   "location": 2,
+   "content": "却不断拿身体交换收入",
+   "music": 0.0
+  },
+  {
+   "from": 526.09,
+   "to": 528.01,
+   "sid": 240,
+   "location": 2,
+   "content": "你说创造最重要",
+   "music": 0.0
+  },
+  {
+   "from": 528.01,
+   "to": 531.26,
+   "sid": 241,
+   "location": 2,
+   "content": "每天最完整的注意力却全部交给手机",
+   "music": 0.0
+  },
+  {
+   "from": 531.26,
+   "to": 534.74,
+   "sid": 242,
+   "location": 2,
+   "content": "这就是为什么异议不能只靠思想解决异议",
+   "music": 0.0
+  },
+  {
+   "from": 534.74,
+   "to": 537.61,
+   "sid": 243,
+   "location": 2,
+   "content": "最终必须进入时间和资源配置",
+   "music": 0.0
+  },
+  {
+   "from": 537.61,
+   "to": 539.57,
+   "sid": 244,
+   "location": 2,
+   "content": "你把生命持续给了什么",
+   "music": 0.0
+  },
+  {
+   "from": 539.57,
+   "to": 543.18,
+   "sid": 245,
+   "location": 2,
+   "content": "那件东西就在事实上获得了某种价值地位",
+   "music": 0.0
+  },
+  {
+   "from": 543.18,
+   "to": 546.68,
+   "sid": 246,
+   "location": 2,
+   "content": "可是这里会出现一个非常重要的反对意见",
+   "music": 0.0
+  },
+  {
+   "from": 546.68,
+   "to": 548.18,
+   "sid": 247,
+   "location": 2,
+   "content": "既然意义这么重要",
+   "music": 0.0
+  },
+  {
+   "from": 548.18,
+   "to": 550.54,
+   "sid": 248,
+   "location": 2,
+   "content": "是不是人必须拥有一个终极意义",
+   "music": 0.0
+  },
+  {
+   "from": 550.54,
+   "to": 554.38,
+   "sid": 249,
+   "location": 2,
+   "content": "未必我们完全可以不知道宇宙为什么存在",
+   "music": 0.0
+  },
+  {
+   "from": 554.38,
+   "to": 556.59,
+   "sid": 250,
+   "location": 2,
+   "content": "人类是不是有什么终极目的",
+   "music": 0.0
+  },
+  {
+   "from": 556.59,
+   "to": 558.21,
+   "sid": 251,
+   "location": 2,
+   "content": "死亡以后发生什么",
+   "music": 0.0
+  },
+  {
+   "from": 558.21,
+   "to": 560.99,
+   "sid": 252,
+   "location": 2,
+   "content": "却仍然过一种非常有意义的生活",
+   "music": 0.0
+  },
+  {
+   "from": 560.99,
+   "to": 562.41,
+   "sid": 253,
+   "location": 2,
+   "content": "这要区分两个问题",
+   "music": 0.0
+  },
+  {
+   "from": 562.41,
+   "to": 563.95,
+   "sid": 254,
+   "location": 2,
+   "content": "人生的意义是什么",
+   "music": 0.0
+  },
+  {
+   "from": 563.95,
+   "to": 566.63,
+   "sid": 255,
+   "location": 2,
+   "content": "和我的生命有没有意义感",
+   "music": 0.0
+  },
+  {
+   "from": 566.63,
+   "to": 570.57,
+   "sid": 256,
+   "location": 2,
+   "content": "前者可能是哲学和宗教意义上的终极追问",
+   "music": 0.0
+  },
+  {
+   "from": 570.57,
+   "to": 576.46,
+   "sid": 257,
+   "location": 2,
+   "content": "后者却可以来自非常现实的东西关系创造责任",
+   "music": 0.0
+  },
+  {
+   "from": 576.46,
+   "to": 580.28,
+   "sid": 258,
+   "location": 2,
+   "content": "成长理解服务共同体",
+   "music": 0.0
+  },
+  {
+   "from": 580.28,
+   "to": 582.12,
+   "sid": 259,
+   "location": 2,
+   "content": "自然研究",
+   "music": 0.0
+  },
+  {
+   "from": 582.12,
+   "to": 584.7,
+   "sid": 260,
+   "location": 2,
+   "content": "一项值得持续投入的工作",
+   "music": 0.0
+  },
+  {
+   "from": 584.7,
+   "to": 587.58,
+   "sid": 261,
+   "location": 2,
+   "content": "心理学研究讨论的通常也是后者",
+   "music": 0.0
+  },
+  {
+   "from": 587.58,
+   "to": 591.21,
+   "sid": 262,
+   "location": 2,
+   "content": "而不是宣称科学已经找到人生终极意义",
+   "music": 0.0
+  },
+  {
+   "from": 591.21,
+   "to": 592.11,
+   "sid": 263,
+   "location": 2,
+   "content": "事实上",
+   "music": 0.0
+  },
+  {
+   "from": 592.11,
+   "to": 593.89,
+   "sid": 264,
+   "location": 2,
+   "content": "生命意义在经验研究中",
+   "music": 0.0
+  },
+  {
+   "from": 593.89,
+   "to": 596.51,
+   "sid": 265,
+   "location": 2,
+   "content": "往往是一种相当普遍的主观体验",
+   "music": 0.0
+  },
+  {
+   "from": 596.51,
+   "to": 600.13,
+   "sid": 266,
+   "location": 2,
+   "content": "而不只是少数圣人或哲学家的特殊状态",
+   "music": 0.0
+  },
+  {
+   "from": 600.13,
+   "to": 602.01,
+   "sid": 267,
+   "location": 2,
+   "content": "所以一个人没有宇宙答案",
+   "music": 0.0
+  },
+  {
+   "from": 602.01,
+   "to": 603.83,
+   "sid": 268,
+   "location": 2,
+   "content": "并不等于活的没有意义",
+   "music": 0.0
+  },
+  {
+   "from": 603.83,
+   "to": 605.67,
+   "sid": 269,
+   "location": 2,
+   "content": "反过来还有一种误区",
+   "music": 0.0
+  },
+  {
+   "from": 605.67,
+   "to": 607.63,
+   "sid": 270,
+   "location": 2,
+   "content": "既然意义是人赋予的",
+   "music": 0.0
+  },
+  {
+   "from": 607.63,
+   "to": 609.62,
+   "sid": 271,
+   "location": 2,
+   "content": "那我随便编一个不就行了",
+   "music": 0.0
+  },
+  {
+   "from": 609.62,
+   "to": 610.94,
+   "sid": 272,
+   "location": 2,
+   "content": "也没有那么容易",
+   "music": 0.0
+  },
+  {
+   "from": 610.94,
+   "to": 612.54,
+   "sid": 273,
+   "location": 2,
+   "content": "一个人可以告诉自己",
+   "music": 0.0
+  },
+  {
+   "from": 612.54,
+   "to": 615.49,
+   "sid": 274,
+   "location": 2,
+   "content": "我的人生意义就是成为世界首富",
+   "music": 0.0
+  },
+  {
+   "from": 615.49,
+   "to": 619.51,
+   "sid": 275,
+   "location": 2,
+   "content": "可如果这个目标让他长期摧毁身体关系诚信",
+   "music": 0.0
+  },
+  {
+   "from": 619.51,
+   "to": 621.97,
+   "sid": 276,
+   "location": 2,
+   "content": "最后自己也不再认同这套意义",
+   "music": 0.0
+  },
+  {
+   "from": 621.97,
+   "to": 622.99,
+   "sid": 277,
+   "location": 2,
+   "content": "结构就会崩",
+   "music": 0.0
+  },
+  {
+   "from": 622.99,
+   "to": 624.87,
+   "sid": 278,
+   "location": 2,
+   "content": "意义虽然需要主体参与",
+   "music": 0.0
+  },
+  {
+   "from": 624.87,
+   "to": 627.61,
+   "sid": 279,
+   "location": 2,
+   "content": "却不是随便写一个故事就能稳定成立",
+   "music": 0.0
+  },
+  {
+   "from": 627.61,
+   "to": 629.59,
+   "sid": 280,
+   "location": 2,
+   "content": "它同样需要现实核验",
+   "music": 0.0
+  },
+  {
+   "from": 629.59,
+   "to": 631.77,
+   "sid": 281,
+   "location": 2,
+   "content": "我相信这件事值得现实",
+   "music": 0.0
+  },
+  {
+   "from": 631.77,
+   "to": 632.61,
+   "sid": 282,
+   "location": 2,
+   "content": "结果怎样",
+   "music": 0.0
+  },
+  {
+   "from": 632.61,
+   "to": 635.38,
+   "sid": 283,
+   "location": 2,
+   "content": "他有没有真正让生命更完整",
+   "music": 0.0
+  },
+  {
+   "from": 635.38,
+   "to": 637.1,
+   "sid": 284,
+   "location": 2,
+   "content": "有没有严重伤害别人",
+   "music": 0.0
+  },
+  {
+   "from": 637.1,
+   "to": 640.58,
+   "sid": 285,
+   "location": 2,
+   "content": "10年以后我还认不认当代关于生命意义的研究",
+   "music": 0.0
+  },
+  {
+   "from": 640.58,
+   "to": 642.86,
+   "sid": 286,
+   "location": 2,
+   "content": "也发现意义与幸福感",
+   "music": 0.0
+  },
+  {
+   "from": 642.86,
+   "to": 645.42,
+   "sid": 287,
+   "location": 2,
+   "content": "适应身体健康等存在关联",
+   "music": 0.0
+  },
+  {
+   "from": 645.42,
+   "to": 648.34,
+   "sid": 288,
+   "location": 2,
+   "content": "不过这些结果大多不能简单理解为",
+   "music": 0.0
+  },
+  {
+   "from": 648.34,
+   "to": 649.65,
+   "sid": 289,
+   "location": 2,
+   "content": "只要找到意义",
+   "music": 0.0
+  },
+  {
+   "from": 649.65,
+   "to": 651.27,
+   "sid": 290,
+   "location": 2,
+   "content": "就一定健康幸福",
+   "music": 0.0
+  },
+  {
+   "from": 651.27,
+   "to": 655.91,
+   "sid": 291,
+   "location": 2,
+   "content": "其中存在测量因果方向和其他变量等复杂问题",
+   "music": 0.0
+  },
+  {
+   "from": 655.91,
+   "to": 657.85,
+   "sid": 292,
+   "location": 2,
+   "content": "一个涵盖66项研究",
+   "music": 0.0
+  },
+  {
+   "from": 657.85,
+   "to": 660.87,
+   "sid": 293,
+   "location": 2,
+   "content": "逾7万人的系统综述语言分析",
+   "music": 0.0
+  },
+  {
+   "from": 660.87,
+   "to": 663.92,
+   "sid": 294,
+   "location": 2,
+   "content": "发现生命意义与身体健康之间",
+   "music": 0.0
+  },
+  {
+   "from": 663.92,
+   "to": 666.95,
+   "sid": 295,
+   "location": 2,
+   "content": "总体呈弱到中等程度的关联",
+   "music": 0.0
+  },
+  {
+   "from": 666.95,
+   "to": 668.01,
+   "sid": 296,
+   "location": 2,
+   "content": "换句话说",
+   "music": 0.0
+  },
+  {
+   "from": 668.01,
+   "to": 669.25,
+   "sid": 297,
+   "location": 2,
+   "content": "异已不是魔法",
+   "music": 0.0
+  },
+  {
+   "from": 669.25,
+   "to": 671.8,
+   "sid": 298,
+   "location": 2,
+   "content": "但它显然不是无关紧要的装饰",
+   "music": 0.0
+  },
+  {
+   "from": 671.8,
+   "to": 674.36,
+   "sid": 299,
+   "location": 2,
+   "content": "这时候一个更深的问题出现了",
+   "music": 0.0
+  },
+  {
+   "from": 674.36,
+   "to": 677.76,
+   "sid": 300,
+   "location": 2,
+   "content": "为什么现代人似乎特别容易遭遇意义危机",
+   "music": 0.0
+  },
+  {
+   "from": 677.76,
+   "to": 679.74,
+   "sid": 301,
+   "location": 2,
+   "content": "其中一个原因可能恰恰是",
+   "music": 0.0
+  },
+  {
+   "from": 679.74,
+   "to": 681.82,
+   "sid": 302,
+   "location": 2,
+   "content": "我们获得了越来越多选择",
+   "music": 0.0
+  },
+  {
+   "from": 681.82,
+   "to": 684.76,
+   "sid": 303,
+   "location": 2,
+   "content": "却越来越少有人替我们决定这些选择",
+   "music": 0.0
+  },
+  {
+   "from": 684.76,
+   "to": 685.78,
+   "sid": 304,
+   "location": 2,
+   "content": "为什么值得",
+   "music": 0.0
+  },
+  {
+   "from": 685.78,
+   "to": 689.3,
+   "sid": 305,
+   "location": 2,
+   "content": "传统社会通常已经给了一个人大量现成答案",
+   "music": 0.0
+  },
+  {
+   "from": 689.3,
+   "to": 690.64,
+   "sid": 306,
+   "location": 2,
+   "content": "出生在哪里",
+   "music": 0.0
+  },
+  {
+   "from": 690.64,
+   "to": 691.62,
+   "sid": 307,
+   "location": 2,
+   "content": "姓什么",
+   "music": 0.0
+  },
+  {
+   "from": 691.62,
+   "to": 693.02,
+   "sid": 308,
+   "location": 2,
+   "content": "做什么职业",
+   "music": 0.0
+  },
+  {
+   "from": 693.02,
+   "to": 694.42,
+   "sid": 309,
+   "location": 2,
+   "content": "什么时候结婚",
+   "music": 0.0
+  },
+  {
+   "from": 694.42,
+   "to": 696.2,
+   "sid": 310,
+   "location": 2,
+   "content": "怎样成为一个好人",
+   "music": 0.0
+  },
+  {
+   "from": 696.2,
+   "to": 697.56,
+   "sid": 311,
+   "location": 2,
+   "content": "你未必自由",
+   "music": 0.0
+  },
+  {
+   "from": 697.56,
+   "to": 700.16,
+   "sid": 312,
+   "location": 2,
+   "content": "但意义结构通常比较稳定",
+   "music": 0.0
+  },
+  {
+   "from": 700.16,
+   "to": 702.7,
+   "sid": 313,
+   "location": 2,
+   "content": "现代社会做了一件极其重要的事情",
+   "music": 0.0
+  },
+  {
+   "from": 702.7,
+   "to": 705.24,
+   "sid": 314,
+   "location": 2,
+   "content": "他不断把选择权还给个人",
+   "music": 0.0
+  },
+  {
+   "from": 705.24,
+   "to": 707.64,
+   "sid": 315,
+   "location": 2,
+   "content": "你可以不结婚换职业",
+   "music": 0.0
+  },
+  {
+   "from": 707.64,
+   "to": 709.04,
+   "sid": 316,
+   "location": 2,
+   "content": "离开家乡",
+   "music": 0.0
+  },
+  {
+   "from": 709.04,
+   "to": 710.32,
+   "sid": 317,
+   "location": 2,
+   "content": "改变信仰",
+   "music": 0.0
+  },
+  {
+   "from": 710.32,
+   "to": 712.0,
+   "sid": 318,
+   "location": 2,
+   "content": "重新定义关系",
+   "music": 0.0
+  },
+  {
+   "from": 712.0,
+   "to": 714.14,
+   "sid": 319,
+   "location": 2,
+   "content": "甚至不断重塑自己的身份",
+   "music": 0.0
+  },
+  {
+   "from": 714.14,
+   "to": 715.829,
+   "sid": 320,
+   "location": 2,
+   "content": "这是巨大的进步",
+   "music": 0.0
+  },
+  {
+   "from": 715.829,
+   "to": 717.369,
+   "sid": 321,
+   "location": 2,
+   "content": "可自由有一个成本",
+   "music": 0.0
+  },
+  {
+   "from": 717.369,
+   "to": 718.889,
+   "sid": 322,
+   "location": 2,
+   "content": "别人不替你决定以后",
+   "music": 0.0
+  },
+  {
+   "from": 718.889,
+   "to": 720.709,
+   "sid": 323,
+   "location": 2,
+   "content": "你就必须越来越自己回答",
+   "music": 0.0
+  },
+  {
+   "from": 720.709,
+   "to": 721.429,
+   "sid": 324,
+   "location": 2,
+   "content": "为什么",
+   "music": 0.0
+  },
+  {
+   "from": 721.429,
+   "to": 723.129,
+   "sid": 325,
+   "location": 2,
+   "content": "于是自由越大",
+   "music": 0.0
+  },
+  {
+   "from": 723.129,
+   "to": 724.96,
+   "sid": 326,
+   "location": 2,
+   "content": "主体问题越重要",
+   "music": 0.0
+  },
+  {
+   "from": 724.96,
+   "to": 728.06,
+   "sid": 327,
+   "location": 2,
+   "content": "这也是主体性和意义真正相遇的地方",
+   "music": 0.0
+  },
+  {
+   "from": 728.06,
+   "to": 730.56,
+   "sid": 328,
+   "location": 2,
+   "content": "没有主体的人也可能拥有意义",
+   "music": 0.0
+  },
+  {
+   "from": 730.56,
+   "to": 731.84,
+   "sid": 329,
+   "location": 2,
+   "content": "父母告诉他",
+   "music": 0.0
+  },
+  {
+   "from": 731.84,
+   "to": 733.78,
+   "sid": 330,
+   "location": 2,
+   "content": "你的人生就是考好大学",
+   "music": 0.0
+  },
+  {
+   "from": 733.78,
+   "to": 734.96,
+   "sid": 331,
+   "location": 2,
+   "content": "公司告诉他",
+   "music": 0.0
+  },
+  {
+   "from": 734.96,
+   "to": 736.95,
+   "sid": 332,
+   "location": 2,
+   "content": "你的人生就是升职",
+   "music": 0.0
+  },
+  {
+   "from": 736.95,
+   "to": 738.25,
+   "sid": 333,
+   "location": 2,
+   "content": "社会告诉他",
+   "music": 0.0
+  },
+  {
+   "from": 738.25,
+   "to": 742.09,
+   "sid": 334,
+   "location": 2,
+   "content": "买房结婚生孩子就算成功",
+   "music": 0.0
+  },
+  {
+   "from": 742.09,
+   "to": 744.53,
+   "sid": 335,
+   "location": 2,
+   "content": "他可以沿着这些答案活很多年",
+   "music": 0.0
+  },
+  {
+   "from": 744.53,
+   "to": 747.07,
+   "sid": 336,
+   "location": 2,
+   "content": "真正的危机往往发生在某一天",
+   "music": 0.0
+  },
+  {
+   "from": 747.07,
+   "to": 748.64,
+   "sid": 337,
+   "location": 2,
+   "content": "那个答案失效了",
+   "music": 0.0
+  },
+  {
+   "from": 748.64,
+   "to": 749.88,
+   "sid": 338,
+   "location": 2,
+   "content": "考上大学以后呢",
+   "music": 0.0
+  },
+  {
+   "from": 749.88,
+   "to": 751.4,
+   "sid": 339,
+   "location": 2,
+   "content": "升到总监以后呢",
+   "music": 0.0
+  },
+  {
+   "from": 751.4,
+   "to": 752.92,
+   "sid": 340,
+   "location": 2,
+   "content": "孩子长大以后呢",
+   "music": 0.0
+  },
+  {
+   "from": 752.92,
+   "to": 754.21,
+   "sid": 341,
+   "location": 2,
+   "content": "退休以后呢",
+   "music": 0.0
+  },
+  {
+   "from": 754.21,
+   "to": 755.99,
+   "sid": 342,
+   "location": 2,
+   "content": "钱终于够了以后呢",
+   "music": 0.0
+  },
+  {
+   "from": 755.99,
+   "to": 758.97,
+   "sid": 343,
+   "location": 2,
+   "content": "如果一个人的意义始终完全来自外部",
+   "music": 0.0
+  },
+  {
+   "from": 758.97,
+   "to": 760.53,
+   "sid": 344,
+   "location": 2,
+   "content": "一旦外部结构改变",
+   "music": 0.0
+  },
+  {
+   "from": 760.53,
+   "to": 762.61,
+   "sid": 345,
+   "location": 2,
+   "content": "内部就可能突然塌掉",
+   "music": 0.0
+  },
+  {
+   "from": 762.61,
+   "to": 765.47,
+   "sid": 346,
+   "location": 2,
+   "content": "所以成熟的主体不是没有外部价值",
+   "music": 0.0
+  },
+  {
+   "from": 765.47,
+   "to": 767.71,
+   "sid": 347,
+   "location": 2,
+   "content": "而是开始自己参与这场判断",
+   "music": 0.0
+  },
+  {
+   "from": 767.71,
+   "to": 769.41,
+   "sid": 348,
+   "location": 2,
+   "content": "哪些意义我要继承",
+   "music": 0.0
+  },
+  {
+   "from": 769.41,
+   "to": 773.11,
+   "sid": 349,
+   "location": 2,
+   "content": "哪些要修改哪些其实从来不是我的",
+   "music": 0.0
+  },
+  {
+   "from": 773.11,
+   "to": 775.07,
+   "sid": 350,
+   "location": 2,
+   "content": "这时候意义就不再是",
+   "music": 0.0
+  },
+  {
+   "from": 775.07,
+   "to": 777.56,
+   "sid": 351,
+   "location": 2,
+   "content": "找到一句惊天动地的人生格言",
+   "music": 0.0
+  },
+  {
+   "from": 777.56,
+   "to": 779.76,
+   "sid": 352,
+   "location": 2,
+   "content": "它更接近一个持续过程",
+   "music": 0.0
+  },
+  {
+   "from": 779.76,
+   "to": 781.18,
+   "sid": 353,
+   "location": 2,
+   "content": "我看见现实",
+   "music": 0.0
+  },
+  {
+   "from": 781.18,
+   "to": 782.68,
+   "sid": 354,
+   "location": 2,
+   "content": "知道自己有限",
+   "music": 0.0
+  },
+  {
+   "from": 782.68,
+   "to": 786.2,
+   "sid": 355,
+   "location": 2,
+   "content": "分辨什么值得决定把时间投在哪里",
+   "music": 0.0
+  },
+  {
+   "from": 786.2,
+   "to": 787.36,
+   "sid": 356,
+   "location": 2,
+   "content": "进入行动",
+   "music": 0.0
+  },
+  {
+   "from": 787.36,
+   "to": 790.76,
+   "sid": 357,
+   "location": 2,
+   "content": "然后根据生活的反馈不断重新校准",
+   "music": 0.0
+  },
+  {
+   "from": 790.76,
+   "to": 793.3,
+   "sid": 358,
+   "location": 2,
+   "content": "这也是为什么同一个人的意义会变化",
+   "music": 0.0
+  },
+  {
+   "from": 793.3,
+   "to": 796.23,
+   "sid": 359,
+   "location": 2,
+   "content": "20岁时你可能需要证明自己",
+   "music": 0.0
+  },
+  {
+   "from": 796.23,
+   "to": 798.93,
+   "sid": 360,
+   "location": 2,
+   "content": "40岁时开始在意创造什么",
+   "music": 0.0
+  },
+  {
+   "from": 798.93,
+   "to": 802.349,
+   "sid": 361,
+   "location": 2,
+   "content": "60岁时更关心留下什么传给谁",
+   "music": 0.0
+  },
+  {
+   "from": 802.349,
+   "to": 805.069,
+   "sid": 362,
+   "location": 2,
+   "content": "这不意味着以前的人生都是假的",
+   "music": 0.0
+  },
+  {
+   "from": 805.069,
+   "to": 806.749,
+   "sid": 363,
+   "location": 2,
+   "content": "而是生命在变化",
+   "music": 0.0
+  },
+  {
+   "from": 806.749,
+   "to": 808.94,
+   "sid": 364,
+   "location": 2,
+   "content": "价值排序也在变化",
+   "music": 0.0
+  },
+  {
+   "from": 808.94,
+   "to": 812.12,
+   "sid": 365,
+   "location": 2,
+   "content": "意义不是一次找到终身锁死的答案",
+   "music": 0.0
+  },
+  {
+   "from": 812.12,
+   "to": 814.78,
+   "sid": 366,
+   "location": 2,
+   "content": "它本来就可能是一种持续生成",
+   "music": 0.0
+  },
+  {
+   "from": 814.78,
+   "to": 816.98,
+   "sid": 367,
+   "location": 2,
+   "content": "所以人为什么需要意义",
+   "music": 0.0
+  },
+  {
+   "from": 816.98,
+   "to": 820.6,
+   "sid": 368,
+   "location": 2,
+   "content": "也许不是因为宇宙规定人必须有使命",
+   "music": 0.0
+  },
+  {
+   "from": 820.6,
+   "to": 824.5,
+   "sid": 369,
+   "location": 2,
+   "content": "而是因为人类这种生命具有一种很特殊的处境",
+   "music": 0.0
+  },
+  {
+   "from": 824.5,
+   "to": 826.8,
+   "sid": 370,
+   "location": 2,
+   "content": "我们知道过去能够想象",
+   "music": 0.0
+  },
+  {
+   "from": 826.8,
+   "to": 829.139,
+   "sid": 371,
+   "location": 2,
+   "content": "未来知道自己会死",
+   "music": 0.0
+  },
+  {
+   "from": 829.139,
+   "to": 833.479,
+   "sid": 372,
+   "location": 2,
+   "content": "拥有大量可能又不可能把所有可能都活一遍",
+   "music": 0.0
+  },
+  {
+   "from": 833.479,
+   "to": 834.76,
+   "sid": 373,
+   "location": 2,
+   "content": "我们会痛苦",
+   "music": 0.0
+  },
+  {
+   "from": 834.76,
+   "to": 835.64,
+   "sid": 374,
+   "location": 2,
+   "content": "会爱",
+   "music": 0.0
+  },
+  {
+   "from": 835.64,
+   "to": 836.92,
+   "sid": 375,
+   "location": 2,
+   "content": "会承担责任",
+   "music": 0.0
+  },
+  {
+   "from": 836.92,
+   "to": 838.72,
+   "sid": 376,
+   "location": 2,
+   "content": "还能站在自己的人生外面",
+   "music": 0.0
+  },
+  {
+   "from": 838.72,
+   "to": 840.96,
+   "sid": 377,
+   "location": 2,
+   "content": "回头问这一切值得吗",
+   "music": 0.0
+  },
+  {
+   "from": 840.96,
+   "to": 842.58,
+   "sid": 378,
+   "location": 2,
+   "content": "于是我们需要某种东西",
+   "music": 0.0
+  },
+  {
+   "from": 842.58,
+   "to": 843.94,
+   "sid": 379,
+   "location": 2,
+   "content": "把精力组织起来",
+   "music": 0.0
+  },
+  {
+   "from": 843.94,
+   "to": 845.6,
+   "sid": 380,
+   "location": 2,
+   "content": "把今天连接到明天",
+   "music": 0.0
+  },
+  {
+   "from": 845.6,
+   "to": 847.5,
+   "sid": 381,
+   "location": 2,
+   "content": "把牺牲解释成值得",
+   "music": 0.0
+  },
+  {
+   "from": 847.5,
+   "to": 849.76,
+   "sid": 382,
+   "location": 2,
+   "content": "把无数可能压缩成方向",
+   "music": 0.0
+  },
+  {
+   "from": 849.76,
+   "to": 851.52,
+   "sid": 383,
+   "location": 2,
+   "content": "并让一个生命能够说",
+   "music": 0.0
+  },
+  {
+   "from": 851.52,
+   "to": 853.86,
+   "sid": 384,
+   "location": 2,
+   "content": "我知道自己为什么还要继续",
+   "music": 0.0
+  },
+  {
+   "from": 853.86,
+   "to": 855.39,
+   "sid": 385,
+   "location": 2,
+   "content": "这就是意义",
+   "music": 0.0
+  },
+  {
+   "from": 855.39,
+   "to": 858.85,
+   "sid": 386,
+   "location": 2,
+   "content": "所以真正可怕的从来不只是生活辛苦",
+   "music": 0.0
+  },
+  {
+   "from": 858.85,
+   "to": 861.09,
+   "sid": 387,
+   "location": 2,
+   "content": "人有时能承受惊人的辛苦",
+   "music": 0.0
+  },
+  {
+   "from": 861.09,
+   "to": 862.95,
+   "sid": 388,
+   "location": 2,
+   "content": "真正危险的是辛苦",
+   "music": 0.0
+  },
+  {
+   "from": 862.95,
+   "to": 865.17,
+   "sid": 389,
+   "location": 2,
+   "content": "失去了为什么工作很累",
+   "music": 0.0
+  },
+  {
+   "from": 865.17,
+   "to": 868.0,
+   "sid": 390,
+   "location": 2,
+   "content": "但不知道为什么做关系在维持",
+   "music": 0.0
+  },
+  {
+   "from": 868.0,
+   "to": 870.079,
+   "sid": 391,
+   "location": 2,
+   "content": "但不知道为什么还在一起",
+   "music": 0.0
+  },
+  {
+   "from": 870.079,
+   "to": 871.219,
+   "sid": 392,
+   "location": 2,
+   "content": "每天很忙",
+   "music": 0.0
+  },
+  {
+   "from": 871.219,
+   "to": 873.899,
+   "sid": 393,
+   "location": 2,
+   "content": "却不知道这些事情最后通向哪里",
+   "music": 0.0
+  },
+  {
+   "from": 873.899,
+   "to": 875.319,
+   "sid": 394,
+   "location": 2,
+   "content": "拥有越来越多",
+   "music": 0.0
+  },
+  {
+   "from": 875.319,
+   "to": 877.92,
+   "sid": 395,
+   "location": 2,
+   "content": "却不知道拥有它们究竟为了什么",
+   "music": 0.0
+  },
+  {
+   "from": 877.92,
+   "to": 880.54,
+   "sid": 396,
+   "location": 2,
+   "content": "这时候人感受到的并不只是疲惫",
+   "music": 0.0
+  },
+  {
+   "from": 880.54,
+   "to": 882.319,
+   "sid": 397,
+   "location": 2,
+   "content": "而是一种更深的东西",
+   "music": 0.0
+  },
+  {
+   "from": 882.319,
+   "to": 884.219,
+   "sid": 398,
+   "location": 2,
+   "content": "生命的各个部分还在运转",
+   "music": 0.0
+  },
+  {
+   "from": 884.219,
+   "to": 886.56,
+   "sid": 399,
+   "location": 2,
+   "content": "可它们已经不再构成一个整体",
+   "music": 0.0
+  },
+  {
+   "from": 886.56,
+   "to": 889.26,
+   "sid": 400,
+   "location": 2,
+   "content": "也许这就是意义最底层的功能",
+   "music": 0.0
+  },
+  {
+   "from": 889.26,
+   "to": 892.12,
+   "sid": 401,
+   "location": 2,
+   "content": "它不是给生命增加一层漂亮包装",
+   "music": 0.0
+  },
+  {
+   "from": 892.12,
+   "to": 893.94,
+   "sid": 402,
+   "location": 2,
+   "content": "他在做更基础的事情",
+   "music": 0.0
+  },
+  {
+   "from": 893.94,
+   "to": 897.37,
+   "sid": 403,
+   "location": 2,
+   "content": "把一堆正在发生的日子组织成一生",
+   "music": 0.0
+  },
+  {
+   "from": 897.37,
+   "to": 899.07,
+   "sid": 404,
+   "location": 2,
+   "content": "而真正成熟的意义",
+   "music": 0.0
+  },
+  {
+   "from": 899.07,
+   "to": 900.45,
+   "sid": 405,
+   "location": 2,
+   "content": "也许最终不是",
+   "music": 0.0
+  },
+  {
+   "from": 900.45,
+   "to": 903.069,
+   "sid": 406,
+   "location": 2,
+   "content": "找到一个别人无法反驳的宇宙答案",
+   "music": 0.0
+  },
+  {
+   "from": 903.069,
+   "to": 906.73,
+   "sid": 407,
+   "location": 2,
+   "content": "而是在知道世界不会自动告诉你怎样活之后",
+   "music": 0.0
+  },
+  {
+   "from": 906.73,
+   "to": 909.79,
+   "sid": 408,
+   "location": 2,
+   "content": "仍然能够根据现实价值和责任",
+   "music": 0.0
+  },
+  {
+   "from": 909.79,
+   "to": 912.85,
+   "sid": 409,
+   "location": 2,
+   "content": "1.1点形成一个自己愿意认领的方向",
+   "music": 0.0
+  },
+  {
+   "from": 912.85,
+   "to": 914.55,
+   "sid": 410,
+   "location": 2,
+   "content": "然后有一天回头看",
+   "music": 0.0
+  },
+  {
+   "from": 914.55,
+   "to": 918.52,
+   "sid": 411,
+   "location": 2,
+   "content": "你未必能够证明这是宇宙唯一正确的人生",
+   "music": 0.0
+  },
+  {
+   "from": 918.52,
+   "to": 919.88,
+   "sid": 412,
+   "location": 2,
+   "content": "但你至少能够说",
+   "music": 0.0
+  },
+  {
+   "from": 919.88,
+   "to": 920.8,
+   "sid": 413,
+   "location": 2,
+   "content": "我知道自己",
+   "music": 0.0
+  },
+  {
+   "from": 920.8,
+   "to": 923.78,
+   "sid": 414,
+   "location": 2,
+   "content": "为什么把这段有限的生命交给了这些人",
+   "music": 0.0
+  },
+  {
+   "from": 923.78,
+   "to": 924.52,
+   "sid": 415,
+   "location": 2,
+   "content": "这些事儿",
+   "music": 0.0
+  },
+  {
+   "from": 924.52,
+   "to": 925.53,
+   "sid": 416,
+   "location": 2,
+   "content": "这些问题",
+   "music": 0.0
+  },
+  {
+   "from": 925.53,
+   "to": 928.25,
+   "sid": 417,
+   "location": 2,
+   "content": "这可能已经是意义非常深的一种形式",
+   "music": 0.0
+  },
+  {
+   "from": 928.25,
+   "to": 929.75,
+   "sid": 418,
+   "location": 2,
+   "content": "因为人真正需要的",
+   "music": 0.0
+  },
+  {
+   "from": 929.75,
+   "to": 932.15,
+   "sid": 419,
+   "location": 2,
+   "content": "也许从来不是一个宏大的答案",
+   "music": 0.0
+  },
+  {
+   "from": 932.15,
+   "to": 934.41,
+   "sid": 420,
+   "location": 2,
+   "content": "而是当生命不断消耗的时候",
+   "music": 0.0
+  },
+  {
+   "from": 934.41,
+   "to": 937.23,
+   "sid": 421,
+   "location": 2,
+   "content": "仍然有一些东西让你愿意回答",
+   "music": 0.0
+  },
+  {
+   "from": 937.23,
+   "to": 938.38,
+   "sid": 422,
+   "location": 2,
+   "content": "值得",
+   "music": 0.0
+  }
+ ]
+}

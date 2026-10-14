@@ -1,0 +1,2978 @@
+{
+ "bvid": "BV1J3tz6jEP3",
+ "title": "完成一个任务后，不应该安排休息，应该在任务中间安排休息；最有效的休息模式是：提前休息，高频休息，短时休息，大脑放空休息；玩手机不是休息【高频问题004】",
+ "owner": "奥德修斯的绳索",
+ "aid": 117211922504212,
+ "cid": 41576040361,
+ "duration": 846,
+ "body": [
+  {
+   "from": 0.2,
+   "to": 0.64,
+   "sid": 1,
+   "location": 2,
+   "content": "大家好",
+   "music": 0.0
+  },
+  {
+   "from": 0.64,
+   "to": 2.52,
+   "sid": 2,
+   "location": 2,
+   "content": "在咨询的时候遇到这样一个经典问题",
+   "music": 0.0
+  },
+  {
+   "from": 2.52,
+   "to": 5.26,
+   "sid": 3,
+   "location": 2,
+   "content": "就是有很多朋友在完成一个任务之后",
+   "music": 0.0
+  },
+  {
+   "from": 5.26,
+   "to": 6.3,
+   "sid": 4,
+   "location": 2,
+   "content": "就进行休息",
+   "music": 0.0
+  },
+  {
+   "from": 6.3,
+   "to": 8.5,
+   "sid": 5,
+   "location": 2,
+   "content": "但是休息的时候就一直想休息",
+   "music": 0.0
+  },
+  {
+   "from": 8.5,
+   "to": 10.129,
+   "sid": 6,
+   "location": 2,
+   "content": "不想再继续做任务了",
+   "music": 0.0
+  },
+  {
+   "from": 10.129,
+   "to": 13.169,
+   "sid": 7,
+   "location": 2,
+   "content": "尤其是休息的时候还很容易直接进行娱乐",
+   "music": 0.0
+  },
+  {
+   "from": 13.169,
+   "to": 14.249,
+   "sid": 8,
+   "location": 2,
+   "content": "比如说玩手机",
+   "music": 0.0
+  },
+  {
+   "from": 14.249,
+   "to": 16.329,
+   "sid": 9,
+   "location": 2,
+   "content": "这样就更愿意一直休息",
+   "music": 0.0
+  },
+  {
+   "from": 16.329,
+   "to": 17.409,
+   "sid": 10,
+   "location": 2,
+   "content": "不想再继续",
+   "music": 0.0
+  },
+  {
+   "from": 17.409,
+   "to": 18.85,
+   "sid": 11,
+   "location": 2,
+   "content": "那么针对这个问题",
+   "music": 0.0
+  },
+  {
+   "from": 18.85,
+   "to": 20.31,
+   "sid": 12,
+   "location": 2,
+   "content": "直接说结论",
+   "music": 0.0
+  },
+  {
+   "from": 20.31,
+   "to": 21.53,
+   "sid": 13,
+   "location": 2,
+   "content": "第一个结论就是说",
+   "music": 0.0
+  },
+  {
+   "from": 21.53,
+   "to": 25.23,
+   "sid": 14,
+   "location": 2,
+   "content": "人其实不应该在两个任务中间去安排休息",
+   "music": 0.0
+  },
+  {
+   "from": 25.23,
+   "to": 25.65,
+   "sid": 15,
+   "location": 2,
+   "content": "也就是说",
+   "music": 0.0
+  },
+  {
+   "from": 25.65,
+   "to": 29.63,
+   "sid": 16,
+   "location": 2,
+   "content": "人不应该在完成一个任务之后去安排休息",
+   "music": 0.0
+  },
+  {
+   "from": 29.63,
+   "to": 32.49,
+   "sid": 17,
+   "location": 2,
+   "content": "人应该是在完成一个任务之后",
+   "music": 0.0
+  },
+  {
+   "from": 32.49,
+   "to": 33.93,
+   "sid": 18,
+   "location": 2,
+   "content": "直接就无缝切换",
+   "music": 0.0
+  },
+  {
+   "from": 33.93,
+   "to": 35.879,
+   "sid": 19,
+   "location": 2,
+   "content": "直接切换到第二个任务",
+   "music": 0.0
+  },
+  {
+   "from": 35.879,
+   "to": 38.159,
+   "sid": 20,
+   "location": 2,
+   "content": "那么人应该在什么时候安排休息",
+   "music": 0.0
+  },
+  {
+   "from": 38.159,
+   "to": 40.619,
+   "sid": 21,
+   "location": 2,
+   "content": "人应该在一个任务进行当中",
+   "music": 0.0
+  },
+  {
+   "from": 40.619,
+   "to": 43.72,
+   "sid": 22,
+   "location": 2,
+   "content": "没完成的时候来去中断这个任务",
+   "music": 0.0
+  },
+  {
+   "from": 43.72,
+   "to": 46.0,
+   "sid": 23,
+   "location": 2,
+   "content": "暂停这个任务进行休息",
+   "music": 0.0
+  },
+  {
+   "from": 46.0,
+   "to": 47.3,
+   "sid": 24,
+   "location": 2,
+   "content": "这是第一个结论",
+   "music": 0.0
+  },
+  {
+   "from": 47.3,
+   "to": 48.59,
+   "sid": 25,
+   "location": 2,
+   "content": "第二个结论是",
+   "music": 0.0
+  },
+  {
+   "from": 48.59,
+   "to": 52.69,
+   "sid": 26,
+   "location": 2,
+   "content": "玩手机等高强度用脑的活动不是休息",
+   "music": 0.0
+  },
+  {
+   "from": 52.69,
+   "to": 55.41,
+   "sid": 27,
+   "location": 2,
+   "content": "最有效的休息模式是提前休息",
+   "music": 0.0
+  },
+  {
+   "from": 55.41,
+   "to": 56.17,
+   "sid": 28,
+   "location": 2,
+   "content": "高频休息",
+   "music": 0.0
+  },
+  {
+   "from": 56.17,
+   "to": 57.26,
+   "sid": 29,
+   "location": 2,
+   "content": "短时休息",
+   "music": 0.0
+  },
+  {
+   "from": 57.26,
+   "to": 59.12,
+   "sid": 30,
+   "location": 2,
+   "content": "让大脑放空的休息",
+   "music": 0.0
+  },
+  {
+   "from": 59.12,
+   "to": 62.52,
+   "sid": 31,
+   "location": 2,
+   "content": "这期视频会详细地解释结论一",
+   "music": 0.0
+  },
+  {
+   "from": 62.52,
+   "to": 65.009,
+   "sid": 32,
+   "location": 2,
+   "content": "简单的带过结论二",
+   "music": 0.0
+  },
+  {
+   "from": 65.009,
+   "to": 68.869,
+   "sid": 33,
+   "location": 2,
+   "content": "那现在就来看一下这两个结论的论证和原理",
+   "music": 0.0
+  },
+  {
+   "from": 68.869,
+   "to": 71.369,
+   "sid": 34,
+   "location": 2,
+   "content": "原理我一再强调是非常重要的",
+   "music": 0.0
+  },
+  {
+   "from": 71.369,
+   "to": 73.3,
+   "sid": 35,
+   "location": 2,
+   "content": "因为只有我们认识的原理",
+   "music": 0.0
+  },
+  {
+   "from": 73.3,
+   "to": 75.86,
+   "sid": 36,
+   "location": 2,
+   "content": "我们才能够对各种事情有系统的认识",
+   "music": 0.0
+  },
+  {
+   "from": 75.86,
+   "to": 76.58,
+   "sid": 37,
+   "location": 2,
+   "content": "认识了原理",
+   "music": 0.0
+  },
+  {
+   "from": 76.58,
+   "to": 78.38,
+   "sid": 38,
+   "location": 2,
+   "content": "我们才能对方法增加信心",
+   "music": 0.0
+  },
+  {
+   "from": 78.38,
+   "to": 80.4,
+   "sid": 39,
+   "location": 2,
+   "content": "才能明确方法的应用情景",
+   "music": 0.0
+  },
+  {
+   "from": 80.4,
+   "to": 83.48,
+   "sid": 40,
+   "location": 2,
+   "content": "才能在方法失败的时候进行诊断",
+   "music": 0.0
+  },
+  {
+   "from": 83.48,
+   "to": 85.37,
+   "sid": 41,
+   "location": 2,
+   "content": "能了解失败的原因",
+   "music": 0.0
+  },
+  {
+   "from": 85.37,
+   "to": 86.65,
+   "sid": 42,
+   "location": 2,
+   "content": "并且做出改进",
+   "music": 0.0
+  },
+  {
+   "from": 86.65,
+   "to": 88.81,
+   "sid": 43,
+   "location": 2,
+   "content": "以及我们才能够灵活的应用",
+   "music": 0.0
+  },
+  {
+   "from": 88.81,
+   "to": 89.77,
+   "sid": 44,
+   "location": 2,
+   "content": "比如举一反三",
+   "music": 0.0
+  },
+  {
+   "from": 89.77,
+   "to": 92.33,
+   "sid": 45,
+   "location": 2,
+   "content": "或者说在同一个事上进行更好效果",
+   "music": 0.0
+  },
+  {
+   "from": 92.33,
+   "to": 93.37,
+   "sid": 46,
+   "location": 2,
+   "content": "更个性化的应用",
+   "music": 0.0
+  },
+  {
+   "from": 93.37,
+   "to": 95.29,
+   "sid": 47,
+   "location": 2,
+   "content": "这个是原理的作用",
+   "music": 0.0
+  },
+  {
+   "from": 95.29,
+   "to": 98.359,
+   "sid": 48,
+   "location": 2,
+   "content": "那现在就来看一下休息的时机",
+   "music": 0.0
+  },
+  {
+   "from": 98.359,
+   "to": 101.799,
+   "sid": 49,
+   "location": 2,
+   "content": "为什么不应该安排在两个任务之间",
+   "music": 0.0
+  },
+  {
+   "from": 101.799,
+   "to": 105.45,
+   "sid": 50,
+   "location": 2,
+   "content": "就为什么任务切换最应该是直接切换",
+   "music": 0.0
+  },
+  {
+   "from": 105.45,
+   "to": 106.59,
+   "sid": 51,
+   "location": 2,
+   "content": "有三个原理",
+   "music": 0.0
+  },
+  {
+   "from": 106.59,
+   "to": 108.41,
+   "sid": 52,
+   "location": 2,
+   "content": "第一个原理是行为惯性",
+   "music": 0.0
+  },
+  {
+   "from": 108.41,
+   "to": 109.91,
+   "sid": 53,
+   "location": 2,
+   "content": "行为是有惯性的",
+   "music": 0.0
+  },
+  {
+   "from": 109.91,
+   "to": 112.03,
+   "sid": 54,
+   "location": 2,
+   "content": "因为人的各种状态",
+   "music": 0.0
+  },
+  {
+   "from": 112.03,
+   "to": 113.09,
+   "sid": 55,
+   "location": 2,
+   "content": "比如说动力状态",
+   "music": 0.0
+  },
+  {
+   "from": 113.09,
+   "to": 113.77,
+   "sid": 56,
+   "location": 2,
+   "content": "认知模式",
+   "music": 0.0
+  },
+  {
+   "from": 113.77,
+   "to": 116.58,
+   "sid": 57,
+   "location": 2,
+   "content": "唤醒水平等各种这些属性状态",
+   "music": 0.0
+  },
+  {
+   "from": 116.58,
+   "to": 120.18,
+   "sid": 58,
+   "location": 2,
+   "content": "全都是倾向于在一段时间之内去保持连续",
+   "music": 0.0
+  },
+  {
+   "from": 120.18,
+   "to": 121.32,
+   "sid": 59,
+   "location": 2,
+   "content": "保持相同的",
+   "music": 0.0
+  },
+  {
+   "from": 121.32,
+   "to": 122.66,
+   "sid": 60,
+   "location": 2,
+   "content": "就是不愿意变化",
+   "music": 0.0
+  },
+  {
+   "from": 122.66,
+   "to": 123.4,
+   "sid": 61,
+   "location": 2,
+   "content": "愿意相同",
+   "music": 0.0
+  },
+  {
+   "from": 123.4,
+   "to": 124.44,
+   "sid": 62,
+   "location": 2,
+   "content": "愿意连续",
+   "music": 0.0
+  },
+  {
+   "from": 124.44,
+   "to": 128.14,
+   "sid": 63,
+   "location": 2,
+   "content": "那么如果在前一个任务的结尾的时候",
+   "music": 0.0
+  },
+  {
+   "from": 128.14,
+   "to": 131.3,
+   "sid": 64,
+   "location": 2,
+   "content": "直接去接上下一个任务的开始",
+   "music": 0.0
+  },
+  {
+   "from": 131.3,
+   "to": 133.78,
+   "sid": 65,
+   "location": 2,
+   "content": "这个时候就相当于人保持了一种惯性",
+   "music": 0.0
+  },
+  {
+   "from": 133.78,
+   "to": 134.94,
+   "sid": 66,
+   "location": 2,
+   "content": "保持着行为的惯性",
+   "music": 0.0
+  },
+  {
+   "from": 134.94,
+   "to": 137.33,
+   "sid": 67,
+   "location": 2,
+   "content": "这些属性全都能保证连续",
+   "music": 0.0
+  },
+  {
+   "from": 137.33,
+   "to": 140.83,
+   "sid": 68,
+   "location": 2,
+   "content": "但是如果说人完成一个任务去进入休息",
+   "music": 0.0
+  },
+  {
+   "from": 140.83,
+   "to": 142.35,
+   "sid": 69,
+   "location": 2,
+   "content": "那么在休息结束的时候",
+   "music": 0.0
+  },
+  {
+   "from": 142.35,
+   "to": 144.11,
+   "sid": 70,
+   "location": 2,
+   "content": "人想去做下一个任务的时候",
+   "music": 0.0
+  },
+  {
+   "from": 144.11,
+   "to": 146.21,
+   "sid": 71,
+   "location": 2,
+   "content": "人还需要重新去制造状态",
+   "music": 0.0
+  },
+  {
+   "from": 146.21,
+   "to": 148.73,
+   "sid": 72,
+   "location": 2,
+   "content": "重新去制造一个做事的状态",
+   "music": 0.0
+  },
+  {
+   "from": 148.73,
+   "to": 151.57,
+   "sid": 73,
+   "location": 2,
+   "content": "因为前一个任务的结束也是做事状态",
+   "music": 0.0
+  },
+  {
+   "from": 151.57,
+   "to": 153.94,
+   "sid": 74,
+   "location": 2,
+   "content": "下一个任务的开始也是做事状态",
+   "music": 0.0
+  },
+  {
+   "from": 153.94,
+   "to": 155.66,
+   "sid": 75,
+   "location": 2,
+   "content": "两个状态有很多共性",
+   "music": 0.0
+  },
+  {
+   "from": 155.66,
+   "to": 157.49,
+   "sid": 76,
+   "location": 2,
+   "content": "更容易去改变",
+   "music": 0.0
+  },
+  {
+   "from": 157.49,
+   "to": 160.61,
+   "sid": 77,
+   "location": 2,
+   "content": "但是做事状态和休息状态区别就很大",
+   "music": 0.0
+  },
+  {
+   "from": 160.61,
+   "to": 162.31,
+   "sid": 78,
+   "location": 2,
+   "content": "更不容易去改变",
+   "music": 0.0
+  },
+  {
+   "from": 162.31,
+   "to": 163.43,
+   "sid": 79,
+   "location": 2,
+   "content": "更不容易去制造",
+   "music": 0.0
+  },
+  {
+   "from": 163.43,
+   "to": 164.61,
+   "sid": 80,
+   "location": 2,
+   "content": "就制造会更困难",
+   "music": 0.0
+  },
+  {
+   "from": 164.61,
+   "to": 166.08,
+   "sid": 81,
+   "location": 2,
+   "content": "有可能制造不出来",
+   "music": 0.0
+  },
+  {
+   "from": 166.08,
+   "to": 168.02,
+   "sid": 82,
+   "location": 2,
+   "content": "所以这个就是很可能休息的时候",
+   "music": 0.0
+  },
+  {
+   "from": 168.02,
+   "to": 171.06,
+   "sid": 83,
+   "location": 2,
+   "content": "如果说没有一些方法能够制造出做事状态",
+   "music": 0.0
+  },
+  {
+   "from": 171.06,
+   "to": 173.34,
+   "sid": 84,
+   "location": 2,
+   "content": "那人就会倾向于一直休息",
+   "music": 0.0
+  },
+  {
+   "from": 173.34,
+   "to": 175.78,
+   "sid": 85,
+   "location": 2,
+   "content": "所以说如果利用人的行为惯性",
+   "music": 0.0
+  },
+  {
+   "from": 175.78,
+   "to": 179.13,
+   "sid": 86,
+   "location": 2,
+   "content": "那就是人应该在前一个任务没结束的时候",
+   "music": 0.0
+  },
+  {
+   "from": 179.13,
+   "to": 182.0,
+   "sid": 87,
+   "location": 2,
+   "content": "直接连上下一个任务",
+   "music": 0.0
+  },
+  {
+   "from": 182.0,
+   "to": 184.88,
+   "sid": 88,
+   "location": 2,
+   "content": "或者说就是结束之后直接连上下一个任务",
+   "music": 0.0
+  },
+  {
+   "from": 184.88,
+   "to": 186.62,
+   "sid": 89,
+   "location": 2,
+   "content": "这是第一个原理",
+   "music": 0.0
+  },
+  {
+   "from": 186.62,
+   "to": 189.14,
+   "sid": 90,
+   "location": 2,
+   "content": "第二个原理是人在休息的时候",
+   "music": 0.0
+  },
+  {
+   "from": 189.14,
+   "to": 190.78,
+   "sid": 91,
+   "location": 2,
+   "content": "因为有时间思考",
+   "music": 0.0
+  },
+  {
+   "from": 190.78,
+   "to": 192.46,
+   "sid": 92,
+   "location": 2,
+   "content": "就会想到各种信息",
+   "music": 0.0
+  },
+  {
+   "from": 192.46,
+   "to": 194.06,
+   "sid": 93,
+   "location": 2,
+   "content": "就可能会动摇",
+   "music": 0.0
+  },
+  {
+   "from": 194.06,
+   "to": 196.75,
+   "sid": 94,
+   "location": 2,
+   "content": "人已经做出的决策是什么",
+   "music": 0.0
+  },
+  {
+   "from": 196.75,
+   "to": 199.93,
+   "sid": 95,
+   "location": 2,
+   "content": "决策就是关于下一个任务做什么",
+   "music": 0.0
+  },
+  {
+   "from": 199.93,
+   "to": 202.55,
+   "sid": 96,
+   "location": 2,
+   "content": "下一个任务什么时候做的这个决策",
+   "music": 0.0
+  },
+  {
+   "from": 202.55,
+   "to": 203.81,
+   "sid": 97,
+   "location": 2,
+   "content": "但是反过来",
+   "music": 0.0
+  },
+  {
+   "from": 203.81,
+   "to": 206.17,
+   "sid": 98,
+   "location": 2,
+   "content": "如果说人直接进行任务切换",
+   "music": 0.0
+  },
+  {
+   "from": 206.17,
+   "to": 207.97,
+   "sid": 99,
+   "location": 2,
+   "content": "那这个时候直接就是执行",
+   "music": 0.0
+  },
+  {
+   "from": 207.97,
+   "to": 209.61,
+   "sid": 100,
+   "location": 2,
+   "content": "直接一瞬间就是执行",
+   "music": 0.0
+  },
+  {
+   "from": 209.61,
+   "to": 211.73,
+   "sid": 101,
+   "location": 2,
+   "content": "没有给人反思的空间",
+   "music": 0.0
+  },
+  {
+   "from": 211.73,
+   "to": 214.17,
+   "sid": 102,
+   "location": 2,
+   "content": "人就会按照提前定好的计划",
+   "music": 0.0
+  },
+  {
+   "from": 214.17,
+   "to": 216.25,
+   "sid": 103,
+   "location": 2,
+   "content": "直接去执行前一个任务结束了",
+   "music": 0.0
+  },
+  {
+   "from": 216.25,
+   "to": 217.32,
+   "sid": 104,
+   "location": 2,
+   "content": "这个时候人意识到",
+   "music": 0.0
+  },
+  {
+   "from": 217.32,
+   "to": 219.52,
+   "sid": 105,
+   "location": 2,
+   "content": "那直接就要执行下一个任务",
+   "music": 0.0
+  },
+  {
+   "from": 219.52,
+   "to": 222.84,
+   "sid": 106,
+   "location": 2,
+   "content": "那这个时候就是等于直接执行前边定好的角色",
+   "music": 0.0
+  },
+  {
+   "from": 222.84,
+   "to": 224.49,
+   "sid": 107,
+   "location": 2,
+   "content": "或者说前边定好的计划",
+   "music": 0.0
+  },
+  {
+   "from": 224.49,
+   "to": 226.92,
+   "sid": 108,
+   "location": 2,
+   "content": "就是人前边需要提前规定好",
+   "music": 0.0
+  },
+  {
+   "from": 226.92,
+   "to": 228.68,
+   "sid": 109,
+   "location": 2,
+   "content": "下一个任务要做什么",
+   "music": 0.0
+  },
+  {
+   "from": 228.68,
+   "to": 230.4,
+   "sid": 110,
+   "location": 2,
+   "content": "那什么时候做也规定好了",
+   "music": 0.0
+  },
+  {
+   "from": 230.4,
+   "to": 233.38,
+   "sid": 111,
+   "location": 2,
+   "content": "就是在前一个任务结束之后就立刻开始做",
+   "music": 0.0
+  },
+  {
+   "from": 233.38,
+   "to": 236.37,
+   "sid": 112,
+   "location": 2,
+   "content": "那这个时候就没有给人思考的空间",
+   "music": 0.0
+  },
+  {
+   "from": 236.37,
+   "to": 238.39,
+   "sid": 113,
+   "location": 2,
+   "content": "给人思考的空间会怎么样",
+   "music": 0.0
+  },
+  {
+   "from": 238.39,
+   "to": 241.45,
+   "sid": 114,
+   "location": 2,
+   "content": "人在休息状态时候会受到各种感性影响",
+   "music": 0.0
+  },
+  {
+   "from": 241.45,
+   "to": 243.7,
+   "sid": 115,
+   "location": 2,
+   "content": "就是人的思考会受人的感性影响",
+   "music": 0.0
+  },
+  {
+   "from": 243.7,
+   "to": 247.5,
+   "sid": 116,
+   "location": 2,
+   "content": "人的感性的倾向就会调取支持人",
+   "music": 0.0
+  },
+  {
+   "from": 247.5,
+   "to": 249.7,
+   "sid": 117,
+   "location": 2,
+   "content": "感性的这个倾向相关的信息",
+   "music": 0.0
+  },
+  {
+   "from": 249.7,
+   "to": 252.74,
+   "sid": 118,
+   "location": 2,
+   "content": "也就是人要是想休息或者说想娱乐",
+   "music": 0.0
+  },
+  {
+   "from": 252.74,
+   "to": 255.62,
+   "sid": 119,
+   "location": 2,
+   "content": "人就会更容易找到一些休息和娱乐",
+   "music": 0.0
+  },
+  {
+   "from": 255.62,
+   "to": 256.76,
+   "sid": 120,
+   "location": 2,
+   "content": "更合理的信息",
+   "music": 0.0
+  },
+  {
+   "from": 256.76,
+   "to": 258.78,
+   "sid": 121,
+   "location": 2,
+   "content": "那这个时候人就会动摇",
+   "music": 0.0
+  },
+  {
+   "from": 258.78,
+   "to": 261.909,
+   "sid": 122,
+   "location": 2,
+   "content": "提前做出的真正理性的计划",
+   "music": 0.0
+  },
+  {
+   "from": 261.909,
+   "to": 265.87,
+   "sid": 123,
+   "location": 2,
+   "content": "那就是在休息之后要进行下一个任务",
+   "music": 0.0
+  },
+  {
+   "from": 265.87,
+   "to": 270.23,
+   "sid": 124,
+   "location": 2,
+   "content": "所以说为了避免人的这种犹豫踌躇反悔",
+   "music": 0.0
+  },
+  {
+   "from": 270.23,
+   "to": 272.45,
+   "sid": 125,
+   "location": 2,
+   "content": "人就需要直接去",
+   "music": 0.0
+  },
+  {
+   "from": 272.45,
+   "to": 274.43,
+   "sid": 126,
+   "location": 2,
+   "content": "不给人有思考的时间",
+   "music": 0.0
+  },
+  {
+   "from": 274.43,
+   "to": 278.63,
+   "sid": 127,
+   "location": 2,
+   "content": "直接把提前定好的自己真正认可的计划",
+   "music": 0.0
+  },
+  {
+   "from": 278.63,
+   "to": 280.35,
+   "sid": 128,
+   "location": 2,
+   "content": "不给反思的空间",
+   "music": 0.0
+  },
+  {
+   "from": 280.35,
+   "to": 283.85,
+   "sid": 129,
+   "location": 2,
+   "content": "直接前一个任务结束就切换下一个任务",
+   "music": 0.0
+  },
+  {
+   "from": 283.85,
+   "to": 285.49,
+   "sid": 130,
+   "location": 2,
+   "content": "这是第二个原理",
+   "music": 0.0
+  },
+  {
+   "from": 285.49,
+   "to": 287.45,
+   "sid": 131,
+   "location": 2,
+   "content": "第三个原理是完成奖励",
+   "music": 0.0
+  },
+  {
+   "from": 287.45,
+   "to": 290.23,
+   "sid": 132,
+   "location": 2,
+   "content": "就是人完成一个任务会产生满足感",
+   "music": 0.0
+  },
+  {
+   "from": 290.23,
+   "to": 293.35,
+   "sid": 133,
+   "location": 2,
+   "content": "满足感就会让人倾向于奖励自己",
+   "music": 0.0
+  },
+  {
+   "from": 293.35,
+   "to": 297.63,
+   "sid": 134,
+   "location": 2,
+   "content": "也就是延长休息或者说做一些娱乐的事儿",
+   "music": 0.0
+  },
+  {
+   "from": 297.63,
+   "to": 299.85,
+   "sid": 135,
+   "location": 2,
+   "content": "那么这个时候完成了一个任务",
+   "music": 0.0
+  },
+  {
+   "from": 299.85,
+   "to": 301.99,
+   "sid": 136,
+   "location": 2,
+   "content": "直接连接下一个任务的开始",
+   "music": 0.0
+  },
+  {
+   "from": 301.99,
+   "to": 305.44,
+   "sid": 137,
+   "location": 2,
+   "content": "就把这种完成感让它变得很短",
+   "music": 0.0
+  },
+  {
+   "from": 305.44,
+   "to": 307.36,
+   "sid": 138,
+   "location": 2,
+   "content": "因为直接就进入下一个任务",
+   "music": 0.0
+  },
+  {
+   "from": 307.36,
+   "to": 308.56,
+   "sid": 139,
+   "location": 2,
+   "content": "就有了未完成感",
+   "music": 0.0
+  },
+  {
+   "from": 308.56,
+   "to": 310.76,
+   "sid": 140,
+   "location": 2,
+   "content": "相当于消除了奖励的真空",
+   "music": 0.0
+  },
+  {
+   "from": 310.76,
+   "to": 314.12,
+   "sid": 141,
+   "location": 2,
+   "content": "也就不会出现休息时间过长的现象",
+   "music": 0.0
+  },
+  {
+   "from": 314.12,
+   "to": 315.54,
+   "sid": 142,
+   "location": 2,
+   "content": "这就是为什么",
+   "music": 0.0
+  },
+  {
+   "from": 315.54,
+   "to": 319.03,
+   "sid": 143,
+   "location": 2,
+   "content": "休息的时机不应该安排在两个任务之间",
+   "music": 0.0
+  },
+  {
+   "from": 319.03,
+   "to": 321.47,
+   "sid": 144,
+   "location": 2,
+   "content": "不应该安排在一个任务结束之后",
+   "music": 0.0
+  },
+  {
+   "from": 321.47,
+   "to": 322.97,
+   "sid": 145,
+   "location": 2,
+   "content": "下一个任务开始之前",
+   "music": 0.0
+  },
+  {
+   "from": 322.97,
+   "to": 324.82,
+   "sid": 146,
+   "location": 2,
+   "content": "这是为什么不应该安排",
+   "music": 0.0
+  },
+  {
+   "from": 324.82,
+   "to": 329.6,
+   "sid": 147,
+   "location": 2,
+   "content": "那么为什么应该安排的在任务之内进行休息呢",
+   "music": 0.0
+  },
+  {
+   "from": 329.6,
+   "to": 332.1,
+   "sid": 148,
+   "location": 2,
+   "content": "因为这样的休息更不容易超时",
+   "music": 0.0
+  },
+  {
+   "from": 332.1,
+   "to": 334.97,
+   "sid": 149,
+   "location": 2,
+   "content": "更容易让人按照计划去继续",
+   "music": 0.0
+  },
+  {
+   "from": 334.97,
+   "to": 335.95,
+   "sid": 150,
+   "location": 2,
+   "content": "那为什么",
+   "music": 0.0
+  },
+  {
+   "from": 335.95,
+   "to": 340.07,
+   "sid": 151,
+   "location": 2,
+   "content": "因为这个时候行动出现的条件比较好",
+   "music": 0.0
+  },
+  {
+   "from": 340.07,
+   "to": 344.13,
+   "sid": 152,
+   "location": 2,
+   "content": "也就是人的任何行动出现都需要三个条件",
+   "music": 0.0
+  },
+  {
+   "from": 344.13,
+   "to": 345.71,
+   "sid": 153,
+   "location": 2,
+   "content": "这三个条件越具备",
+   "music": 0.0
+  },
+  {
+   "from": 345.71,
+   "to": 347.29,
+   "sid": 154,
+   "location": 2,
+   "content": "行动就越会出现",
+   "music": 0.0
+  },
+  {
+   "from": 347.29,
+   "to": 351.6,
+   "sid": 155,
+   "location": 2,
+   "content": "而在任务当中就是在任务中间去进行休息",
+   "music": 0.0
+  },
+  {
+   "from": 351.6,
+   "to": 353.06,
+   "sid": 156,
+   "location": 2,
+   "content": "行动的三个条件",
+   "music": 0.0
+  },
+  {
+   "from": 353.06,
+   "to": 356.67,
+   "sid": 157,
+   "location": 2,
+   "content": "也就是什么行动是继续这个任务的行动",
+   "music": 0.0
+  },
+  {
+   "from": 356.67,
+   "to": 358.71,
+   "sid": 158,
+   "location": 2,
+   "content": "也就是休息结束就是继续",
+   "music": 0.0
+  },
+  {
+   "from": 358.71,
+   "to": 362.29,
+   "sid": 159,
+   "location": 2,
+   "content": "实际上是继续的这个行动去中断了休息",
+   "music": 0.0
+  },
+  {
+   "from": 362.29,
+   "to": 365.76,
+   "sid": 160,
+   "location": 2,
+   "content": "也就是继续做任务的这个行动",
+   "music": 0.0
+  },
+  {
+   "from": 365.76,
+   "to": 367.82,
+   "sid": 161,
+   "location": 2,
+   "content": "出现的条件比较具备",
+   "music": 0.0
+  },
+  {
+   "from": 367.82,
+   "to": 371.5,
+   "sid": 162,
+   "location": 2,
+   "content": "所以这个时候就能让休息是按计划进行休息",
+   "music": 0.0
+  },
+  {
+   "from": 371.5,
+   "to": 373.169,
+   "sid": 163,
+   "location": 2,
+   "content": "不会无限进行休息",
+   "music": 0.0
+  },
+  {
+   "from": 373.169,
+   "to": 374.409,
+   "sid": 164,
+   "location": 2,
+   "content": "那具体来看一下",
+   "music": 0.0
+  },
+  {
+   "from": 374.409,
+   "to": 377.32,
+   "sid": 165,
+   "location": 2,
+   "content": "为什么这三个条件都比较具备",
+   "music": 0.0
+  },
+  {
+   "from": 377.32,
+   "to": 381.08,
+   "sid": 166,
+   "location": 2,
+   "content": "第一个条件是在情景要能想起来这个行动",
+   "music": 0.0
+  },
+  {
+   "from": 381.08,
+   "to": 382.99,
+   "sid": 167,
+   "location": 2,
+   "content": "要想起来要做这个行动",
+   "music": 0.0
+  },
+  {
+   "from": 382.99,
+   "to": 386.69,
+   "sid": 168,
+   "location": 2,
+   "content": "而未完成的任务更容易被人想起来",
+   "music": 0.0
+  },
+  {
+   "from": 386.69,
+   "to": 388.51,
+   "sid": 169,
+   "location": 2,
+   "content": "有两个分原理",
+   "music": 0.0
+  },
+  {
+   "from": 388.51,
+   "to": 390.59,
+   "sid": 170,
+   "location": 2,
+   "content": "第一个就是未完成的任务",
+   "music": 0.0
+  },
+  {
+   "from": 390.59,
+   "to": 393.98,
+   "sid": 171,
+   "location": 2,
+   "content": "会持续的占据人的工作记忆和注意力资源",
+   "music": 0.0
+  },
+  {
+   "from": 393.98,
+   "to": 395.94,
+   "sid": 172,
+   "location": 2,
+   "content": "就像程序在后台跑一样",
+   "music": 0.0
+  },
+  {
+   "from": 395.94,
+   "to": 398.24,
+   "sid": 173,
+   "location": 2,
+   "content": "人可能前台表意识并没有响",
+   "music": 0.0
+  },
+  {
+   "from": 398.24,
+   "to": 401.42,
+   "sid": 174,
+   "location": 2,
+   "content": "但其实他是持续的占着这些资源",
+   "music": 0.0
+  },
+  {
+   "from": 401.42,
+   "to": 405.15,
+   "sid": 175,
+   "location": 2,
+   "content": "持续的是被人潜在的关注着",
+   "music": 0.0
+  },
+  {
+   "from": 405.15,
+   "to": 406.97,
+   "sid": 176,
+   "location": 2,
+   "content": "这就让人更容易想起来",
+   "music": 0.0
+  },
+  {
+   "from": 406.97,
+   "to": 407.69,
+   "sid": 177,
+   "location": 2,
+   "content": "这是第一个原因",
+   "music": 0.0
+  },
+  {
+   "from": 407.69,
+   "to": 409.9,
+   "sid": 178,
+   "location": 2,
+   "content": "第二个原因是未完成任务",
+   "music": 0.0
+  },
+  {
+   "from": 409.9,
+   "to": 411.76,
+   "sid": 179,
+   "location": 2,
+   "content": "关于这个任务相关的信息",
+   "music": 0.0
+  },
+  {
+   "from": 411.76,
+   "to": 413.2,
+   "sid": 180,
+   "location": 2,
+   "content": "激活水平也更高",
+   "music": 0.0
+  },
+  {
+   "from": 413.2,
+   "to": 416.75,
+   "sid": 181,
+   "location": 2,
+   "content": "激活水平高就更容易被提取提取",
+   "music": 0.0
+  },
+  {
+   "from": 416.75,
+   "to": 420.35,
+   "sid": 182,
+   "location": 2,
+   "content": "甚至是这些信息直接会自发性的提取",
+   "music": 0.0
+  },
+  {
+   "from": 420.35,
+   "to": 421.99,
+   "sid": 183,
+   "location": 2,
+   "content": "也就是它自动就会响起来",
+   "music": 0.0
+  },
+  {
+   "from": 421.99,
+   "to": 423.2,
+   "sid": 184,
+   "location": 2,
+   "content": "人休息着休息着",
+   "music": 0.0
+  },
+  {
+   "from": 423.2,
+   "to": 424.94,
+   "sid": 185,
+   "location": 2,
+   "content": "头脑里自动就会想起来",
+   "music": 0.0
+  },
+  {
+   "from": 424.94,
+   "to": 427.56,
+   "sid": 186,
+   "location": 2,
+   "content": "这个未完成任务相关的信息",
+   "music": 0.0
+  },
+  {
+   "from": 427.56,
+   "to": 430.3,
+   "sid": 187,
+   "location": 2,
+   "content": "也就是基于这两个部分原理",
+   "music": 0.0
+  },
+  {
+   "from": 430.3,
+   "to": 434.809,
+   "sid": 188,
+   "location": 2,
+   "content": "就会让未完成的任务更容易被人想起来",
+   "music": 0.0
+  },
+  {
+   "from": 434.809,
+   "to": 436.249,
+   "sid": 189,
+   "location": 2,
+   "content": "就让人行动",
+   "music": 0.0
+  },
+  {
+   "from": 436.249,
+   "to": 438.449,
+   "sid": 190,
+   "location": 2,
+   "content": "第一个条件就是情景能够想起来",
+   "music": 0.0
+  },
+  {
+   "from": 438.449,
+   "to": 442.37,
+   "sid": 191,
+   "location": 2,
+   "content": "这个行动就这个条件更具备",
+   "music": 0.0
+  },
+  {
+   "from": 442.37,
+   "to": 444.51,
+   "sid": 192,
+   "location": 2,
+   "content": "第二个条件是知道怎么做",
+   "music": 0.0
+  },
+  {
+   "from": 444.51,
+   "to": 446.35,
+   "sid": 193,
+   "location": 2,
+   "content": "人只有知道一个行动怎么做",
+   "music": 0.0
+  },
+  {
+   "from": 446.35,
+   "to": 447.41,
+   "sid": 194,
+   "location": 2,
+   "content": "人才愿意去做",
+   "music": 0.0
+  },
+  {
+   "from": 447.41,
+   "to": 452.01,
+   "sid": 195,
+   "location": 2,
+   "content": "而且人越清晰的越确定的知道一个行动怎么做",
+   "music": 0.0
+  },
+  {
+   "from": 452.01,
+   "to": 453.47,
+   "sid": 196,
+   "location": 2,
+   "content": "人就更愿意去做",
+   "music": 0.0
+  },
+  {
+   "from": 453.47,
+   "to": 455.95,
+   "sid": 197,
+   "location": 2,
+   "content": "而未完成的任务是做到一半的",
+   "music": 0.0
+  },
+  {
+   "from": 455.95,
+   "to": 456.31,
+   "sid": 198,
+   "location": 2,
+   "content": "人",
+   "music": 0.0
+  },
+  {
+   "from": 456.31,
+   "to": 458.06,
+   "sid": 199,
+   "location": 2,
+   "content": "对于怎么继续去做",
+   "music": 0.0
+  },
+  {
+   "from": 458.06,
+   "to": 462.39,
+   "sid": 200,
+   "location": 2,
+   "content": "是能很清晰很具体的知道接下来应该怎么做的",
+   "music": 0.0
+  },
+  {
+   "from": 462.39,
+   "to": 463.91,
+   "sid": 201,
+   "location": 2,
+   "content": "如果是做新任务",
+   "music": 0.0
+  },
+  {
+   "from": 463.91,
+   "to": 466.75,
+   "sid": 202,
+   "location": 2,
+   "content": "人就没办法这么清晰具体的去知道怎么做",
+   "music": 0.0
+  },
+  {
+   "from": 466.75,
+   "to": 468.52,
+   "sid": 203,
+   "location": 2,
+   "content": "因为面对一个新任务",
+   "music": 0.0
+  },
+  {
+   "from": 468.52,
+   "to": 471.16,
+   "sid": 204,
+   "location": 2,
+   "content": "人看到的都是这个新任务的名字",
+   "music": 0.0
+  },
+  {
+   "from": 471.16,
+   "to": 472.92,
+   "sid": 205,
+   "location": 2,
+   "content": "人需要去在做的过程中",
+   "music": 0.0
+  },
+  {
+   "from": 472.92,
+   "to": 476.59,
+   "sid": 206,
+   "location": 2,
+   "content": "一点点的去想具体应该怎么做",
+   "music": 0.0
+  },
+  {
+   "from": 476.59,
+   "to": 478.87,
+   "sid": 207,
+   "location": 2,
+   "content": "但是人做这个旧任务做到一半",
+   "music": 0.0
+  },
+  {
+   "from": 478.87,
+   "to": 482.45,
+   "sid": 208,
+   "location": 2,
+   "content": "人是已经想清楚这个旧任务应该清晰",
+   "music": 0.0
+  },
+  {
+   "from": 482.45,
+   "to": 483.45,
+   "sid": 209,
+   "location": 2,
+   "content": "具体的怎么去做",
+   "music": 0.0
+  },
+  {
+   "from": 483.45,
+   "to": 485.79,
+   "sid": 210,
+   "location": 2,
+   "content": "所以说在知道怎么做这一点",
+   "music": 0.0
+  },
+  {
+   "from": 485.79,
+   "to": 489.21,
+   "sid": 211,
+   "location": 2,
+   "content": "未完成的任务也是更具备条件",
+   "music": 0.0
+  },
+  {
+   "from": 489.21,
+   "to": 493.61,
+   "sid": 212,
+   "location": 2,
+   "content": "行动出现必须具备的第三个条件就是动力态势",
+   "music": 0.0
+  },
+  {
+   "from": 493.61,
+   "to": 496.45,
+   "sid": 213,
+   "location": 2,
+   "content": "动力态势简单来说就是当时那个情景",
+   "music": 0.0
+  },
+  {
+   "from": 496.45,
+   "to": 497.419,
+   "sid": 214,
+   "location": 2,
+   "content": "那个时间点",
+   "music": 0.0
+  },
+  {
+   "from": 497.419,
+   "to": 500.47,
+   "sid": 215,
+   "location": 2,
+   "content": "人的整个所有动力指向",
+   "music": 0.0
+  },
+  {
+   "from": 500.47,
+   "to": 503.93,
+   "sid": 216,
+   "location": 2,
+   "content": "要做这个行动的动力是综合最强的人",
+   "music": 0.0
+  },
+  {
+   "from": 503.93,
+   "to": 505.659,
+   "sid": 217,
+   "location": 2,
+   "content": "才能做出这个行动",
+   "music": 0.0
+  },
+  {
+   "from": 505.659,
+   "to": 507.399,
+   "sid": 218,
+   "location": 2,
+   "content": "那为什么未完成的行动",
+   "music": 0.0
+  },
+  {
+   "from": 507.399,
+   "to": 509.359,
+   "sid": 219,
+   "location": 2,
+   "content": "他的动力态势是比较强的",
+   "music": 0.0
+  },
+  {
+   "from": 509.359,
+   "to": 510.65,
+   "sid": 220,
+   "location": 2,
+   "content": "有两个原因",
+   "music": 0.0
+  },
+  {
+   "from": 510.65,
+   "to": 512.61,
+   "sid": 221,
+   "location": 2,
+   "content": "第一个是未完成感",
+   "music": 0.0
+  },
+  {
+   "from": 512.61,
+   "to": 513.89,
+   "sid": 222,
+   "location": 2,
+   "content": "就会给人一个动力",
+   "music": 0.0
+  },
+  {
+   "from": 513.89,
+   "to": 516.73,
+   "sid": 223,
+   "location": 2,
+   "content": "让人去倾向于直接去重新继续",
+   "music": 0.0
+  },
+  {
+   "from": 516.73,
+   "to": 518.33,
+   "sid": 224,
+   "location": 2,
+   "content": "那个之前被打断的任务",
+   "music": 0.0
+  },
+  {
+   "from": 518.33,
+   "to": 519.35,
+   "sid": 225,
+   "location": 2,
+   "content": "也就是未完成",
+   "music": 0.0
+  },
+  {
+   "from": 519.35,
+   "to": 521.539,
+   "sid": 226,
+   "location": 2,
+   "content": "直接人就有动力去继续做",
+   "music": 0.0
+  },
+  {
+   "from": 521.539,
+   "to": 525.299,
+   "sid": 227,
+   "location": 2,
+   "content": "这就构成了去结束休息",
+   "music": 0.0
+  },
+  {
+   "from": 525.299,
+   "to": 527.77,
+   "sid": 228,
+   "location": 2,
+   "content": "然后继续的这个动力",
+   "music": 0.0
+  },
+  {
+   "from": 527.77,
+   "to": 529.07,
+   "sid": 229,
+   "location": 2,
+   "content": "这是第一个原因",
+   "music": 0.0
+  },
+  {
+   "from": 529.07,
+   "to": 530.43,
+   "sid": 230,
+   "location": 2,
+   "content": "第二个原因是",
+   "music": 0.0
+  },
+  {
+   "from": 530.43,
+   "to": 533.53,
+   "sid": 231,
+   "location": 2,
+   "content": "前一个任务能够持续成功的做下来",
+   "music": 0.0
+  },
+  {
+   "from": 533.53,
+   "to": 535.82,
+   "sid": 232,
+   "location": 2,
+   "content": "就证明当前的这个任务",
+   "music": 0.0
+  },
+  {
+   "from": 535.82,
+   "to": 537.96,
+   "sid": 233,
+   "location": 2,
+   "content": "也就是被我们中断的这个任务",
+   "music": 0.0
+  },
+  {
+   "from": 537.96,
+   "to": 539.16,
+   "sid": 234,
+   "location": 2,
+   "content": "未完成的这个任务",
+   "music": 0.0
+  },
+  {
+   "from": 539.16,
+   "to": 542.6,
+   "sid": 235,
+   "location": 2,
+   "content": "这个活动这个任务的过程的低级动力是充足的",
+   "music": 0.0
+  },
+  {
+   "from": 542.6,
+   "to": 544.28,
+   "sid": 236,
+   "location": 2,
+   "content": "低级动力就是过程当中",
+   "music": 0.0
+  },
+  {
+   "from": 544.28,
+   "to": 546.2,
+   "sid": 237,
+   "location": 2,
+   "content": "简单来说就是乐苦体验",
+   "music": 0.0
+  },
+  {
+   "from": 546.2,
+   "to": 548.4,
+   "sid": 238,
+   "location": 2,
+   "content": "也就是过程当中痛苦是不多的",
+   "music": 0.0
+  },
+  {
+   "from": 548.4,
+   "to": 550.01,
+   "sid": 239,
+   "location": 2,
+   "content": "乐趣是足够的",
+   "music": 0.0
+  },
+  {
+   "from": 550.01,
+   "to": 551.93,
+   "sid": 240,
+   "location": 2,
+   "content": "这就提供了一个基础",
+   "music": 0.0
+  },
+  {
+   "from": 551.93,
+   "to": 556.109,
+   "sid": 241,
+   "location": 2,
+   "content": "让我们能够在休息之后愿意去重新继续",
+   "music": 0.0
+  },
+  {
+   "from": 556.109,
+   "to": 558.629,
+   "sid": 242,
+   "location": 2,
+   "content": "其实也相当于就是启动了每一个继续",
+   "music": 0.0
+  },
+  {
+   "from": 558.629,
+   "to": 559.589,
+   "sid": 243,
+   "location": 2,
+   "content": "其实都是启动",
+   "music": 0.0
+  },
+  {
+   "from": 559.589,
+   "to": 563.1,
+   "sid": 244,
+   "location": 2,
+   "content": "就是愿意去启动这个未完成的任务",
+   "music": 0.0
+  },
+  {
+   "from": 563.1,
+   "to": 563.9,
+   "sid": 245,
+   "location": 2,
+   "content": "继续去做",
+   "music": 0.0
+  },
+  {
+   "from": 563.9,
+   "to": 566.96,
+   "sid": 246,
+   "location": 2,
+   "content": "这个是动力态势上的两个优势",
+   "music": 0.0
+  },
+  {
+   "from": 566.96,
+   "to": 570.32,
+   "sid": 247,
+   "location": 2,
+   "content": "所以行动出现的三个条件各自都有优势",
+   "music": 0.0
+  },
+  {
+   "from": 570.32,
+   "to": 572.56,
+   "sid": 248,
+   "location": 2,
+   "content": "就让这个行动更容易出现",
+   "music": 0.0
+  },
+  {
+   "from": 572.56,
+   "to": 575.12,
+   "sid": 249,
+   "location": 2,
+   "content": "也就是在任务之内休息",
+   "music": 0.0
+  },
+  {
+   "from": 575.12,
+   "to": 576.28,
+   "sid": 250,
+   "location": 2,
+   "content": "人更不容易休息",
+   "music": 0.0
+  },
+  {
+   "from": 576.28,
+   "to": 580.03,
+   "sid": 251,
+   "location": 2,
+   "content": "过度人更愿意去继续做这个任务",
+   "music": 0.0
+  },
+  {
+   "from": 580.03,
+   "to": 582.59,
+   "sid": 252,
+   "location": 2,
+   "content": "那么至于这些原理为什么是这样",
+   "music": 0.0
+  },
+  {
+   "from": 582.59,
+   "to": 584.21,
+   "sid": 253,
+   "location": 2,
+   "content": "人的大脑为什么是这样",
+   "music": 0.0
+  },
+  {
+   "from": 584.21,
+   "to": 587.98,
+   "sid": 254,
+   "location": 2,
+   "content": "这些原理是来自于实验",
+   "music": 0.0
+  },
+  {
+   "from": 587.98,
+   "to": 590.36,
+   "sid": 255,
+   "location": 2,
+   "content": "就是来自于学术的科学实验",
+   "music": 0.0
+  },
+  {
+   "from": 590.36,
+   "to": 592.14,
+   "sid": 256,
+   "location": 2,
+   "content": "但是它具体为什么是这样",
+   "music": 0.0
+  },
+  {
+   "from": 592.14,
+   "to": 595.53,
+   "sid": 257,
+   "location": 2,
+   "content": "我当然是认为它是来自于人的演化",
+   "music": 0.0
+  },
+  {
+   "from": 595.53,
+   "to": 596.87,
+   "sid": 258,
+   "location": 2,
+   "content": "就是在演化当中",
+   "music": 0.0
+  },
+  {
+   "from": 596.87,
+   "to": 602.18,
+   "sid": 259,
+   "location": 2,
+   "content": "人对于未完成任务的这种关注和动力",
+   "music": 0.0
+  },
+  {
+   "from": 602.18,
+   "to": 605.34,
+   "sid": 260,
+   "location": 2,
+   "content": "是有一定的演化收益有作用",
+   "music": 0.0
+  },
+  {
+   "from": 605.34,
+   "to": 607.05,
+   "sid": 261,
+   "location": 2,
+   "content": "所以说就保留到了现在",
+   "music": 0.0
+  },
+  {
+   "from": 607.05,
+   "to": 608.33,
+   "sid": 262,
+   "location": 2,
+   "content": "那还有一些原理呢",
+   "music": 0.0
+  },
+  {
+   "from": 608.33,
+   "to": 611.47,
+   "sid": 263,
+   "location": 2,
+   "content": "是一般原理在这个特殊领域的应用",
+   "music": 0.0
+  },
+  {
+   "from": 611.47,
+   "to": 614.42,
+   "sid": 264,
+   "location": 2,
+   "content": "比如说人清晰具体的知道该怎么做",
+   "music": 0.0
+  },
+  {
+   "from": 614.42,
+   "to": 616.26,
+   "sid": 265,
+   "location": 2,
+   "content": "就是一个一般原理",
+   "music": 0.0
+  },
+  {
+   "from": 616.26,
+   "to": 619.54,
+   "sid": 266,
+   "location": 2,
+   "content": "但是人一个任务未完成的任务做到一半",
+   "music": 0.0
+  },
+  {
+   "from": 619.54,
+   "to": 622.46,
+   "sid": 267,
+   "location": 2,
+   "content": "那就是清晰具体的能知道怎么做",
+   "music": 0.0
+  },
+  {
+   "from": 622.46,
+   "to": 625.26,
+   "sid": 268,
+   "location": 2,
+   "content": "相当于是一般原理在这个情景的应用",
+   "music": 0.0
+  },
+  {
+   "from": 625.26,
+   "to": 627.47,
+   "sid": 269,
+   "location": 2,
+   "content": "主要是这两种方式",
+   "music": 0.0
+  },
+  {
+   "from": 627.47,
+   "to": 631.15,
+   "sid": 270,
+   "location": 2,
+   "content": "一种就是直接的学术的科学实验",
+   "music": 0.0
+  },
+  {
+   "from": 631.15,
+   "to": 634.83,
+   "sid": 271,
+   "location": 2,
+   "content": "另一种就是一般原理的适用条件",
+   "music": 0.0
+  },
+  {
+   "from": 634.83,
+   "to": 638.54,
+   "sid": 272,
+   "location": 2,
+   "content": "正好符合这个情景进行了一个推理",
+   "music": 0.0
+  },
+  {
+   "from": 638.9,
+   "to": 641.58,
+   "sid": 273,
+   "location": 2,
+   "content": "所以整体行动的三个条件更强",
+   "music": 0.0
+  },
+  {
+   "from": 641.58,
+   "to": 645.03,
+   "sid": 274,
+   "location": 2,
+   "content": "人在任务内休息就更不容易",
+   "music": 0.0
+  },
+  {
+   "from": 645.03,
+   "to": 648.07,
+   "sid": 275,
+   "location": 2,
+   "content": "时间过渡以及在任务内安排休息",
+   "music": 0.0
+  },
+  {
+   "from": 648.07,
+   "to": 649.51,
+   "sid": 276,
+   "location": 2,
+   "content": "其实还是有一个前提",
+   "music": 0.0
+  },
+  {
+   "from": 649.51,
+   "to": 651.07,
+   "sid": 277,
+   "location": 2,
+   "content": "这个前提的逻辑就很简单",
+   "music": 0.0
+  },
+  {
+   "from": 651.07,
+   "to": 653.99,
+   "sid": 278,
+   "location": 2,
+   "content": "就是人都不在任务间休息了",
+   "music": 0.0
+  },
+  {
+   "from": 653.99,
+   "to": 656.31,
+   "sid": 279,
+   "location": 2,
+   "content": "但是人总需要有时间休息",
+   "music": 0.0
+  },
+  {
+   "from": 656.31,
+   "to": 660.54,
+   "sid": 280,
+   "location": 2,
+   "content": "所以说呢自然呢人也就应该在任务内进行休息",
+   "music": 0.0
+  },
+  {
+   "from": 660.54,
+   "to": 662.5,
+   "sid": 281,
+   "location": 2,
+   "content": "但是光有这个逻辑是不够的",
+   "music": 0.0
+  },
+  {
+   "from": 662.5,
+   "to": 664.86,
+   "sid": 282,
+   "location": 2,
+   "content": "如果说人在任务间休息",
+   "music": 0.0
+  },
+  {
+   "from": 664.86,
+   "to": 666.56,
+   "sid": 283,
+   "location": 2,
+   "content": "咱们确实知道有害处",
+   "music": 0.0
+  },
+  {
+   "from": 666.56,
+   "to": 668.84,
+   "sid": 284,
+   "location": 2,
+   "content": "但如果说在任务内休息的害处更高",
+   "music": 0.0
+  },
+  {
+   "from": 668.84,
+   "to": 670.88,
+   "sid": 285,
+   "location": 2,
+   "content": "那咱们也不应该在任务内休息",
+   "music": 0.0
+  },
+  {
+   "from": 670.88,
+   "to": 672.84,
+   "sid": 286,
+   "location": 2,
+   "content": "只是咱们现在明白了",
+   "music": 0.0
+  },
+  {
+   "from": 672.84,
+   "to": 674.72,
+   "sid": 287,
+   "location": 2,
+   "content": "在任务内休息不仅没有害处",
+   "music": 0.0
+  },
+  {
+   "from": 674.72,
+   "to": 675.74,
+   "sid": 288,
+   "location": 2,
+   "content": "还有很大的好处",
+   "music": 0.0
+  },
+  {
+   "from": 675.74,
+   "to": 679.4,
+   "sid": 289,
+   "location": 2,
+   "content": "所以说休息时间可以挪在任务内",
+   "music": 0.0
+  },
+  {
+   "from": 679.4,
+   "to": 680.839,
+   "sid": 290,
+   "location": 2,
+   "content": "是这么一个逻辑",
+   "music": 0.0
+  },
+  {
+   "from": 680.839,
+   "to": 683.639,
+   "sid": 291,
+   "location": 2,
+   "content": "但这个时候很多朋友可能会有顾虑",
+   "music": 0.0
+  },
+  {
+   "from": 683.639,
+   "to": 684.999,
+   "sid": 292,
+   "location": 2,
+   "content": "那在任务内休息",
+   "music": 0.0
+  },
+  {
+   "from": 684.999,
+   "to": 687.1,
+   "sid": 293,
+   "location": 2,
+   "content": "这不是会打断心流吗",
+   "music": 0.0
+  },
+  {
+   "from": 687.1,
+   "to": 689.94,
+   "sid": 294,
+   "location": 2,
+   "content": "那不是会打打破人的专注状态吗",
+   "music": 0.0
+  },
+  {
+   "from": 689.94,
+   "to": 691.26,
+   "sid": 295,
+   "location": 2,
+   "content": "这应该怎么办",
+   "music": 0.0
+  },
+  {
+   "from": 691.26,
+   "to": 693.96,
+   "sid": 296,
+   "location": 2,
+   "content": "这期视频先做一个简单的解答",
+   "music": 0.0
+  },
+  {
+   "from": 693.96,
+   "to": 695.24,
+   "sid": 297,
+   "location": 2,
+   "content": "简单的解答就是",
+   "music": 0.0
+  },
+  {
+   "from": 695.24,
+   "to": 698.92,
+   "sid": 298,
+   "location": 2,
+   "content": "这种休息模式反而会让人做事效率更高",
+   "music": 0.0
+  },
+  {
+   "from": 698.92,
+   "to": 700.579,
+   "sid": 299,
+   "location": 2,
+   "content": "因为所谓心流和专注",
+   "music": 0.0
+  },
+  {
+   "from": 700.579,
+   "to": 702.659,
+   "sid": 300,
+   "location": 2,
+   "content": "终究是为了让人做事效率更高",
+   "music": 0.0
+  },
+  {
+   "from": 702.659,
+   "to": 705.759,
+   "sid": 301,
+   "location": 2,
+   "content": "但是这种休息模式在任务内的休息模式",
+   "music": 0.0
+  },
+  {
+   "from": 705.759,
+   "to": 708.6,
+   "sid": 302,
+   "location": 2,
+   "content": "反而会让人做事的效率更高",
+   "music": 0.0
+  },
+  {
+   "from": 708.6,
+   "to": 709.46,
+   "sid": 303,
+   "location": 2,
+   "content": "为什么",
+   "music": 0.0
+  },
+  {
+   "from": 709.46,
+   "to": 712.34,
+   "sid": 304,
+   "location": 2,
+   "content": "最简单的一个点就是人在这样休息的时候",
+   "music": 0.0
+  },
+  {
+   "from": 712.34,
+   "to": 714.48,
+   "sid": 305,
+   "location": 2,
+   "content": "默认模式网络就会激活",
+   "music": 0.0
+  },
+  {
+   "from": 714.48,
+   "to": 718.34,
+   "sid": 306,
+   "location": 2,
+   "content": "就会进行巩固记忆和发散思维的活动",
+   "music": 0.0
+  },
+  {
+   "from": 718.34,
+   "to": 721.97,
+   "sid": 307,
+   "location": 2,
+   "content": "也就是人在任务当中休息的时候",
+   "music": 0.0
+  },
+  {
+   "from": 721.97,
+   "to": 723.01,
+   "sid": 308,
+   "location": 2,
+   "content": "大脑没在休息",
+   "music": 0.0
+  },
+  {
+   "from": 723.01,
+   "to": 723.97,
+   "sid": 309,
+   "location": 2,
+   "content": "后台没在休息",
+   "music": 0.0
+  },
+  {
+   "from": 723.97,
+   "to": 726.15,
+   "sid": 310,
+   "location": 2,
+   "content": "后台还在跑这个程序",
+   "music": 0.0
+  },
+  {
+   "from": 726.15,
+   "to": 728.57,
+   "sid": 311,
+   "location": 2,
+   "content": "还在处理这个任务内的活动",
+   "music": 0.0
+  },
+  {
+   "from": 728.57,
+   "to": 731.38,
+   "sid": 312,
+   "location": 2,
+   "content": "如果说是学习大脑就是在理解",
+   "music": 0.0
+  },
+  {
+   "from": 731.38,
+   "to": 732.46,
+   "sid": 313,
+   "location": 2,
+   "content": "如果说是做事",
+   "music": 0.0
+  },
+  {
+   "from": 732.46,
+   "to": 734.02,
+   "sid": 314,
+   "location": 2,
+   "content": "大脑就是在思考",
+   "music": 0.0
+  },
+  {
+   "from": 734.02,
+   "to": 735.97,
+   "sid": 315,
+   "location": 2,
+   "content": "就是还是在处理",
+   "music": 0.0
+  },
+  {
+   "from": 735.97,
+   "to": 736.91,
+   "sid": 316,
+   "location": 2,
+   "content": "这是一点",
+   "music": 0.0
+  },
+  {
+   "from": 736.91,
+   "to": 740.09,
+   "sid": 317,
+   "location": 2,
+   "content": "但是这只不过是人的一个很好的",
+   "music": 0.0
+  },
+  {
+   "from": 740.09,
+   "to": 743.73,
+   "sid": 318,
+   "location": 2,
+   "content": "或者说更好的最好的休息模式当中的一点",
+   "music": 0.0
+  },
+  {
+   "from": 743.73,
+   "to": 744.93,
+   "sid": 319,
+   "location": 2,
+   "content": "当然不能说是最好的",
+   "music": 0.0
+  },
+  {
+   "from": 744.93,
+   "to": 746.01,
+   "sid": 320,
+   "location": 2,
+   "content": "因为要看具体情况",
+   "music": 0.0
+  },
+  {
+   "from": 746.01,
+   "to": 747.69,
+   "sid": 321,
+   "location": 2,
+   "content": "但是人大多数情况下",
+   "music": 0.0
+  },
+  {
+   "from": 747.69,
+   "to": 749.55,
+   "sid": 322,
+   "location": 2,
+   "content": "更好的一个休息模式是什么",
+   "music": 0.0
+  },
+  {
+   "from": 749.55,
+   "to": 751.42,
+   "sid": 323,
+   "location": 2,
+   "content": "是提前休息",
+   "music": 0.0
+  },
+  {
+   "from": 751.42,
+   "to": 753.58,
+   "sid": 324,
+   "location": 2,
+   "content": "在疲劳之前就进行休息",
+   "music": 0.0
+  },
+  {
+   "from": 753.58,
+   "to": 754.64,
+   "sid": 325,
+   "location": 2,
+   "content": "高频休息",
+   "music": 0.0
+  },
+  {
+   "from": 754.64,
+   "to": 756.18,
+   "sid": 326,
+   "location": 2,
+   "content": "把休息的次数拉多",
+   "music": 0.0
+  },
+  {
+   "from": 756.18,
+   "to": 759.709,
+   "sid": 327,
+   "location": 2,
+   "content": "不要进行这个比较长时间的",
+   "music": 0.0
+  },
+  {
+   "from": 759.709,
+   "to": 762.349,
+   "sid": 328,
+   "location": 2,
+   "content": "比较少的休息以及短时休息",
+   "music": 0.0
+  },
+  {
+   "from": 762.349,
+   "to": 763.869,
+   "sid": 329,
+   "location": 2,
+   "content": "那为什么短短时休息",
+   "music": 0.0
+  },
+  {
+   "from": 763.869,
+   "to": 766.359,
+   "sid": 330,
+   "location": 2,
+   "content": "因为一个约束原因就是高频了",
+   "music": 0.0
+  },
+  {
+   "from": 766.359,
+   "to": 767.319,
+   "sid": 331,
+   "location": 2,
+   "content": "因为高频了",
+   "music": 0.0
+  },
+  {
+   "from": 767.319,
+   "to": 768.479,
+   "sid": 332,
+   "location": 2,
+   "content": "所以说那必须得短时",
+   "music": 0.0
+  },
+  {
+   "from": 768.479,
+   "to": 769.839,
+   "sid": 333,
+   "location": 2,
+   "content": "如果说高频还长时",
+   "music": 0.0
+  },
+  {
+   "from": 769.839,
+   "to": 771.51,
+   "sid": 334,
+   "location": 2,
+   "content": "那就全都是休息了",
+   "music": 0.0
+  },
+  {
+   "from": 771.51,
+   "to": 773.83,
+   "sid": 335,
+   "location": 2,
+   "content": "或者说这个结论就是高频",
+   "music": 0.0
+  },
+  {
+   "from": 773.83,
+   "to": 777.8,
+   "sid": 336,
+   "location": 2,
+   "content": "而短时的休息要强于低频",
+   "music": 0.0
+  },
+  {
+   "from": 777.8,
+   "to": 779.12,
+   "sid": 337,
+   "location": 2,
+   "content": "而长时的休息",
+   "music": 0.0
+  },
+  {
+   "from": 779.12,
+   "to": 780.98,
+   "sid": 338,
+   "location": 2,
+   "content": "即使是同样的休息时间",
+   "music": 0.0
+  },
+  {
+   "from": 780.98,
+   "to": 782.5,
+   "sid": 339,
+   "location": 2,
+   "content": "或者说同样的休息时间",
+   "music": 0.0
+  },
+  {
+   "from": 782.5,
+   "to": 785.75,
+   "sid": 340,
+   "location": 2,
+   "content": "高频而短时的休息效果就要强于低频",
+   "music": 0.0
+  },
+  {
+   "from": 785.75,
+   "to": 787.03,
+   "sid": 341,
+   "location": 2,
+   "content": "而长时的休息效果",
+   "music": 0.0
+  },
+  {
+   "from": 787.03,
+   "to": 788.59,
+   "sid": 342,
+   "location": 2,
+   "content": "而同样的休息效果",
+   "music": 0.0
+  },
+  {
+   "from": 788.59,
+   "to": 790.83,
+   "sid": 343,
+   "location": 2,
+   "content": "高频的休息就能够更短时",
+   "music": 0.0
+  },
+  {
+   "from": 790.83,
+   "to": 794.68,
+   "sid": 344,
+   "location": 2,
+   "content": "也就这其实里边就是一个投入产出比的问题",
+   "music": 0.0
+  },
+  {
+   "from": 794.68,
+   "to": 797.68,
+   "sid": 345,
+   "location": 2,
+   "content": "最后一点更好消息模式是放空",
+   "music": 0.0
+  },
+  {
+   "from": 797.68,
+   "to": 799.89,
+   "sid": 346,
+   "location": 2,
+   "content": "那这点就是结合前面说的",
+   "music": 0.0
+  },
+  {
+   "from": 799.89,
+   "to": 802.13,
+   "sid": 347,
+   "location": 2,
+   "content": "如果说休息的时候去娱乐了",
+   "music": 0.0
+  },
+  {
+   "from": 802.13,
+   "to": 802.81,
+   "sid": 348,
+   "location": 2,
+   "content": "去玩游戏",
+   "music": 0.0
+  },
+  {
+   "from": 802.81,
+   "to": 803.37,
+   "sid": 349,
+   "location": 2,
+   "content": "玩手机了",
+   "music": 0.0
+  },
+  {
+   "from": 803.37,
+   "to": 804.85,
+   "sid": 350,
+   "location": 2,
+   "content": "那这个时候其实不是休息",
+   "music": 0.0
+  },
+  {
+   "from": 804.85,
+   "to": 807.2,
+   "sid": 351,
+   "location": 2,
+   "content": "这点也是相当于现在来看",
+   "music": 0.0
+  },
+  {
+   "from": 807.2,
+   "to": 809.3,
+   "sid": 352,
+   "location": 2,
+   "content": "应该都是比较常识性的一点了",
+   "music": 0.0
+  },
+  {
+   "from": 809.3,
+   "to": 812.5,
+   "sid": 353,
+   "location": 2,
+   "content": "就是人高强度用脑的活动全都不是休息",
+   "music": 0.0
+  },
+  {
+   "from": 812.5,
+   "to": 813.64,
+   "sid": 354,
+   "location": 2,
+   "content": "最好的休息是什么",
+   "music": 0.0
+  },
+  {
+   "from": 813.64,
+   "to": 815.2,
+   "sid": 355,
+   "location": 2,
+   "content": "那就是放空",
+   "music": 0.0
+  },
+  {
+   "from": 815.2,
+   "to": 816.42,
+   "sid": 356,
+   "location": 2,
+   "content": "就是闭眼",
+   "music": 0.0
+  },
+  {
+   "from": 816.42,
+   "to": 818.06,
+   "sid": 357,
+   "location": 2,
+   "content": "什么都不想",
+   "music": 0.0
+  },
+  {
+   "from": 818.06,
+   "to": 819.94,
+   "sid": 358,
+   "location": 2,
+   "content": "差不多可以接受的",
+   "music": 0.0
+  },
+  {
+   "from": 819.94,
+   "to": 823.07,
+   "sid": 359,
+   "location": 2,
+   "content": "也可以是比如说喝水",
+   "music": 0.0
+  },
+  {
+   "from": 823.07,
+   "to": 825.11,
+   "sid": 360,
+   "location": 2,
+   "content": "或者说是轻度运动",
+   "music": 0.0
+  },
+  {
+   "from": 825.11,
+   "to": 825.71,
+   "sid": 361,
+   "location": 2,
+   "content": "这个也可以",
+   "music": 0.0
+  },
+  {
+   "from": 825.71,
+   "to": 830.66,
+   "sid": 362,
+   "location": 2,
+   "content": "但是最好最好的一定是就是身体肌肉也放松",
+   "music": 0.0
+  },
+  {
+   "from": 830.66,
+   "to": 832.1,
+   "sid": 363,
+   "location": 2,
+   "content": "大脑也什么都不想",
+   "music": 0.0
+  },
+  {
+   "from": 832.1,
+   "to": 834.09,
+   "sid": 364,
+   "location": 2,
+   "content": "这个是最好的休息",
+   "music": 0.0
+  },
+  {
+   "from": 834.09,
+   "to": 836.39,
+   "sid": 365,
+   "location": 2,
+   "content": "但是至于这个最好的休息模式",
+   "music": 0.0
+  },
+  {
+   "from": 836.39,
+   "to": 837.37,
+   "sid": 366,
+   "location": 2,
+   "content": "为什么是这样",
+   "music": 0.0
+  },
+  {
+   "from": 837.37,
+   "to": 838.41,
+   "sid": 367,
+   "location": 2,
+   "content": "背后的原理是什么",
+   "music": 0.0
+  },
+  {
+   "from": 838.41,
+   "to": 840.29,
+   "sid": 368,
+   "location": 2,
+   "content": "以及执行的细节是什么",
+   "music": 0.0
+  },
+  {
+   "from": 840.29,
+   "to": 842.57,
+   "sid": 369,
+   "location": 2,
+   "content": "这个后续就单独出视频了",
+   "music": 0.0
+  },
+  {
+   "from": 842.57,
+   "to": 844.49,
+   "sid": 370,
+   "location": 2,
+   "content": "好的那这期视频就是这样",
+   "music": 0.0
+  },
+  {
+   "from": 844.49,
+   "to": 845.74,
+   "sid": 371,
+   "location": 2,
+   "content": "谢谢大家再见",
+   "music": 0.0
+  }
+ ]
+}

@@ -1,0 +1,986 @@
+{
+ "bvid": "BV1zr4y1w7yS",
+ "title": "【Multitask】多任务工作真的效率高吗？",
+ "owner": "Rebecca面面观",
+ "aid": 755143597,
+ "cid": 253540337,
+ "duration": 235,
+ "body": [
+  {
+   "from": 4.5,
+   "to": 7.42,
+   "sid": 1,
+   "location": 2,
+   "content": "今天主题是多任务工作到底效率高吗",
+   "music": 0.0
+  },
+  {
+   "from": 7.42,
+   "to": 9.28,
+   "sid": 2,
+   "location": 2,
+   "content": "英文里叫mt task",
+   "music": 0.0
+  },
+  {
+   "from": 9.28,
+   "to": 11.33,
+   "sid": 3,
+   "location": 2,
+   "content": "也就是说我们手上同时做几件事",
+   "music": 0.0
+  },
+  {
+   "from": 11.33,
+   "to": 13.32,
+   "sid": 4,
+   "location": 2,
+   "content": "然后这样的话效率到底高不高呢",
+   "music": 0.0
+  },
+  {
+   "from": 13.32,
+   "to": 16.26,
+   "sid": 5,
+   "location": 2,
+   "content": "因为现在我们的生活工作节奏都非常快",
+   "music": 0.0
+  },
+  {
+   "from": 16.26,
+   "to": 18.0,
+   "sid": 6,
+   "location": 2,
+   "content": "大家就恨不得把24小时",
+   "music": 0.0
+  },
+  {
+   "from": 18.0,
+   "to": 19.44,
+   "sid": 7,
+   "location": 2,
+   "content": "掰成48小时来用",
+   "music": 0.0
+  },
+  {
+   "from": 19.44,
+   "to": 20.16,
+   "sid": 8,
+   "location": 2,
+   "content": "可以想一想啊",
+   "music": 0.0
+  },
+  {
+   "from": 20.16,
+   "to": 20.94,
+   "sid": 9,
+   "location": 2,
+   "content": "有时候工作的时候",
+   "music": 0.0
+  },
+  {
+   "from": 20.94,
+   "to": 22.84,
+   "sid": 10,
+   "location": 2,
+   "content": "你是不是一边在那发邮件",
+   "music": 0.0
+  },
+  {
+   "from": 22.84,
+   "to": 24.67,
+   "sid": 11,
+   "location": 2,
+   "content": "然后呢一边还在那讲电话",
+   "music": 0.0
+  },
+  {
+   "from": 24.67,
+   "to": 26.89,
+   "sid": 12,
+   "location": 2,
+   "content": "或者说是不是开会的时候",
+   "music": 0.0
+  },
+  {
+   "from": 26.89,
+   "to": 28.98,
+   "sid": 13,
+   "location": 2,
+   "content": "手上还在做几个PPT",
+   "music": 0.0
+  },
+  {
+   "from": 28.98,
+   "to": 31.29,
+   "sid": 14,
+   "location": 2,
+   "content": "要不就是跟同事在聊事的时候呢",
+   "music": 0.0
+  },
+  {
+   "from": 31.29,
+   "to": 33.0,
+   "sid": 15,
+   "location": 2,
+   "content": "唉手上还在翻一些报表",
+   "music": 0.0
+  },
+  {
+   "from": 33.0,
+   "to": 34.73,
+   "sid": 16,
+   "location": 2,
+   "content": "看看诶进度怎么样了",
+   "music": 0.0
+  },
+  {
+   "from": 34.73,
+   "to": 37.73,
+   "sid": 17,
+   "location": 2,
+   "content": "这些都是说我们在工作的时候一心二用",
+   "music": 0.0
+  },
+  {
+   "from": 37.73,
+   "to": 39.35,
+   "sid": 18,
+   "location": 2,
+   "content": "或者甚至是一心多用",
+   "music": 0.0
+  },
+  {
+   "from": 39.35,
+   "to": 41.99,
+   "sid": 19,
+   "location": 2,
+   "content": "无形中让自己变成一个职场钢铁侠",
+   "music": 0.0
+  },
+  {
+   "from": 41.99,
+   "to": 42.8,
+   "sid": 20,
+   "location": 2,
+   "content": "但是最后啊",
+   "music": 0.0
+  },
+  {
+   "from": 42.8,
+   "to": 45.5,
+   "sid": 21,
+   "location": 2,
+   "content": "你是不是有一种诶一整天忙下来之后",
+   "music": 0.0
+  },
+  {
+   "from": 45.5,
+   "to": 47.33,
+   "sid": 22,
+   "location": 2,
+   "content": "发现自己开了好多事的头",
+   "music": 0.0
+  },
+  {
+   "from": 47.33,
+   "to": 50.29,
+   "sid": 23,
+   "location": 2,
+   "content": "但是呢你真正做完的好像没几件事",
+   "music": 0.0
+  },
+  {
+   "from": 50.29,
+   "to": 51.67,
+   "sid": 24,
+   "location": 2,
+   "content": "我自己的回想了一下",
+   "music": 0.0
+  },
+  {
+   "from": 51.67,
+   "to": 53.89,
+   "sid": 25,
+   "location": 2,
+   "content": "我自己的那个整个的工作流程啊",
+   "music": 0.0
+  },
+  {
+   "from": 53.89,
+   "to": 55.88,
+   "sid": 26,
+   "location": 2,
+   "content": "我就会发现我有的时候真的是一天",
+   "music": 0.0
+  },
+  {
+   "from": 55.88,
+   "to": 58.25,
+   "sid": 27,
+   "location": 2,
+   "content": "你开电脑的时候就会发现网页",
+   "music": 0.0
+  },
+  {
+   "from": 58.25,
+   "to": 60.62,
+   "sid": 28,
+   "location": 2,
+   "content": "就是这个网页页面上开了好多那个页面",
+   "music": 0.0
+  },
+  {
+   "from": 60.62,
+   "to": 62.66,
+   "sid": 29,
+   "location": 2,
+   "content": "然后邮件也是开了好几个对话框",
+   "music": 0.0
+  },
+  {
+   "from": 62.66,
+   "to": 63.92,
+   "sid": 30,
+   "location": 2,
+   "content": "就是等一下回邮件",
+   "music": 0.0
+  },
+  {
+   "from": 63.92,
+   "to": 67.209,
+   "sid": 31,
+   "location": 2,
+   "content": "然后同时呢我又在好几个任务之间来回的切换",
+   "music": 0.0
+  },
+  {
+   "from": 67.209,
+   "to": 69.189,
+   "sid": 32,
+   "location": 2,
+   "content": "就是好像说哪个任务追的急了",
+   "music": 0.0
+  },
+  {
+   "from": 69.189,
+   "to": 70.83,
+   "sid": 33,
+   "location": 2,
+   "content": "然后马上就回复一下",
+   "music": 0.0
+  },
+  {
+   "from": 70.83,
+   "to": 74.22,
+   "sid": 34,
+   "location": 2,
+   "content": "就好像有些同事他随便就是路过的时候呢",
+   "music": 0.0
+  },
+  {
+   "from": 74.22,
+   "to": 75.09,
+   "sid": 35,
+   "location": 2,
+   "content": "呃到你座位上",
+   "music": 0.0
+  },
+  {
+   "from": 75.09,
+   "to": 77.46,
+   "sid": 36,
+   "location": 2,
+   "content": "然后他又说哎那个那个事处理的怎么样了",
+   "music": 0.0
+  },
+  {
+   "from": 77.46,
+   "to": 79.26,
+   "sid": 37,
+   "location": 2,
+   "content": "然后就马上把这个对话框打开",
+   "music": 0.0
+  },
+  {
+   "from": 79.26,
+   "to": 79.92,
+   "sid": 38,
+   "location": 2,
+   "content": "就让他看啊",
+   "music": 0.0
+  },
+  {
+   "from": 79.92,
+   "to": 81.79,
+   "sid": 39,
+   "location": 2,
+   "content": "你看我现在正在处理这个事儿呢",
+   "music": 0.0
+  },
+  {
+   "from": 81.79,
+   "to": 83.41,
+   "sid": 40,
+   "location": 2,
+   "content": "然后那个同事觉得很安心",
+   "music": 0.0
+  },
+  {
+   "from": 83.41,
+   "to": 84.07,
+   "sid": 41,
+   "location": 2,
+   "content": "然后走开了",
+   "music": 0.0
+  },
+  {
+   "from": 84.07,
+   "to": 85.93,
+   "sid": 42,
+   "location": 2,
+   "content": "但其实你你等那同事走了之后",
+   "music": 0.0
+  },
+  {
+   "from": 85.93,
+   "to": 87.85,
+   "sid": 43,
+   "location": 2,
+   "content": "你会发现其实这件事还不是特别忙活",
+   "music": 0.0
+  },
+  {
+   "from": 87.85,
+   "to": 89.88,
+   "sid": 44,
+   "location": 2,
+   "content": "那个旁边那件事更忙",
+   "music": 0.0
+  },
+  {
+   "from": 89.88,
+   "to": 91.2,
+   "sid": 45,
+   "location": 2,
+   "content": "然后就把这对话框先关了",
+   "music": 0.0
+  },
+  {
+   "from": 91.2,
+   "to": 92.7,
+   "sid": 46,
+   "location": 2,
+   "content": "然后再做另外一件事",
+   "music": 0.0
+  },
+  {
+   "from": 92.7,
+   "to": 94.02,
+   "sid": 47,
+   "location": 2,
+   "content": "所以这样就来回切换",
+   "music": 0.0
+  },
+  {
+   "from": 94.02,
+   "to": 94.74,
+   "sid": 48,
+   "location": 2,
+   "content": "来回切换",
+   "music": 0.0
+  },
+  {
+   "from": 94.74,
+   "to": 95.76,
+   "sid": 49,
+   "location": 2,
+   "content": "可是每次切换呢",
+   "music": 0.0
+  },
+  {
+   "from": 95.76,
+   "to": 99.29,
+   "sid": 50,
+   "location": 2,
+   "content": "我就会发现这个刚才那个邮件写到哪了",
+   "music": 0.0
+  },
+  {
+   "from": 99.29,
+   "to": 100.85,
+   "sid": 51,
+   "location": 2,
+   "content": "我得把上下文再读一读",
+   "music": 0.0
+  },
+  {
+   "from": 100.85,
+   "to": 102.29,
+   "sid": 52,
+   "location": 2,
+   "content": "然后才能接着再写",
+   "music": 0.0
+  },
+  {
+   "from": 102.29,
+   "to": 105.12,
+   "sid": 53,
+   "location": 2,
+   "content": "而且写的过程中也不是说马上就能下笔",
+   "music": 0.0
+  },
+  {
+   "from": 105.12,
+   "to": 105.66,
+   "sid": 54,
+   "location": 2,
+   "content": "如有神",
+   "music": 0.0
+  },
+  {
+   "from": 105.66,
+   "to": 107.22,
+   "sid": 55,
+   "location": 2,
+   "content": "然后就能就能很快恢复完",
+   "music": 0.0
+  },
+  {
+   "from": 107.22,
+   "to": 109.5,
+   "sid": 56,
+   "location": 2,
+   "content": "你还得再想想这话怎么跟人家说",
+   "music": 0.0
+  },
+  {
+   "from": 109.5,
+   "to": 111.18,
+   "sid": 57,
+   "location": 2,
+   "content": "怎么能够写得好一点",
+   "music": 0.0
+  },
+  {
+   "from": 111.18,
+   "to": 112.2,
+   "sid": 58,
+   "location": 2,
+   "content": "能把事说清楚",
+   "music": 0.0
+  },
+  {
+   "from": 112.2,
+   "to": 113.82,
+   "sid": 59,
+   "location": 2,
+   "content": "别出现什么低级错误",
+   "music": 0.0
+  },
+  {
+   "from": 113.82,
+   "to": 116.46,
+   "sid": 60,
+   "location": 2,
+   "content": "而是大女正准备要去做这件事的时候呢",
+   "music": 0.0
+  },
+  {
+   "from": 116.46,
+   "to": 118.71,
+   "sid": 61,
+   "location": 2,
+   "content": "哎可能有另外一个同事又来了",
+   "music": 0.0
+  },
+  {
+   "from": 118.71,
+   "to": 120.45,
+   "sid": 62,
+   "location": 2,
+   "content": "就要再询问一下呃",
+   "music": 0.0
+  },
+  {
+   "from": 120.45,
+   "to": 121.23,
+   "sid": 63,
+   "location": 2,
+   "content": "我是想问问你啊",
+   "music": 0.0
+  },
+  {
+   "from": 121.23,
+   "to": 122.34,
+   "sid": 64,
+   "location": 2,
+   "content": "这个事怎么怎么样",
+   "music": 0.0
+  },
+  {
+   "from": 122.34,
+   "to": 124.05,
+   "sid": 65,
+   "location": 2,
+   "content": "然后又耽误一会儿时间",
+   "music": 0.0
+  },
+  {
+   "from": 124.05,
+   "to": 125.97,
+   "sid": 66,
+   "location": 2,
+   "content": "接下来你也不好说诶",
+   "music": 0.0
+  },
+  {
+   "from": 125.97,
+   "to": 127.26,
+   "sid": 67,
+   "location": 2,
+   "content": "我就不跟人家说了",
+   "music": 0.0
+  },
+  {
+   "from": 127.26,
+   "to": 128.13,
+   "sid": 68,
+   "location": 2,
+   "content": "说我现在正在",
+   "music": 0.0
+  },
+  {
+   "from": 128.13,
+   "to": 129.57,
+   "sid": 69,
+   "location": 2,
+   "content": "我正在写邮件啊什么的",
+   "music": 0.0
+  },
+  {
+   "from": 129.57,
+   "to": 130.47,
+   "sid": 70,
+   "location": 2,
+   "content": "因为他也看到了",
+   "music": 0.0
+  },
+  {
+   "from": 130.47,
+   "to": 131.43,
+   "sid": 71,
+   "location": 2,
+   "content": "你没有跟别人说话呀",
+   "music": 0.0
+  },
+  {
+   "from": 131.43,
+   "to": 132.93,
+   "sid": 72,
+   "location": 2,
+   "content": "所以跟我先聊聊吧",
+   "music": 0.0
+  },
+  {
+   "from": 132.93,
+   "to": 135.0,
+   "sid": 73,
+   "location": 2,
+   "content": "所以这样的话就又切换了一下",
+   "music": 0.0
+  },
+  {
+   "from": 135.0,
+   "to": 138.22,
+   "sid": 74,
+   "location": 2,
+   "content": "那这样的画风就导致我诶切换了A切换了B",
+   "music": 0.0
+  },
+  {
+   "from": 138.22,
+   "to": 140.02,
+   "sid": 75,
+   "location": 2,
+   "content": "然后又切换了A这样来回切换",
+   "music": 0.0
+  },
+  {
+   "from": 140.02,
+   "to": 142.4,
+   "sid": 76,
+   "location": 2,
+   "content": "哎呀我就突然间就觉得自己大脑有点凌乱了",
+   "music": 0.0
+  },
+  {
+   "from": 142.4,
+   "to": 145.22,
+   "sid": 77,
+   "location": 2,
+   "content": "计算运转这个问题呢还在想着另外一个问题",
+   "music": 0.0
+  },
+  {
+   "from": 145.22,
+   "to": 146.42,
+   "sid": 78,
+   "location": 2,
+   "content": "最近看了一篇文章",
+   "music": 0.0
+  },
+  {
+   "from": 146.42,
+   "to": 149.0,
+   "sid": 79,
+   "location": 2,
+   "content": "他提到这个概念叫注意力残留",
+   "music": 0.0
+  },
+  {
+   "from": 149.0,
+   "to": 152.24,
+   "sid": 80,
+   "location": 2,
+   "content": "其实这个现象就特别直接的解释了我刚才说的",
+   "music": 0.0
+  },
+  {
+   "from": 152.24,
+   "to": 154.01,
+   "sid": 81,
+   "location": 2,
+   "content": "从任务A转化到任务B",
+   "music": 0.0
+  },
+  {
+   "from": 154.01,
+   "to": 155.8,
+   "sid": 82,
+   "location": 2,
+   "content": "但当你转换完了之后呢",
+   "music": 0.0
+  },
+  {
+   "from": 155.8,
+   "to": 158.89,
+   "sid": 83,
+   "location": 2,
+   "content": "你那个任务A的这个事印象还留在脑子里",
+   "music": 0.0
+  },
+  {
+   "from": 158.89,
+   "to": 160.87,
+   "sid": 84,
+   "location": 2,
+   "content": "你其实在跟B在聊这个事",
+   "music": 0.0
+  },
+  {
+   "from": 160.87,
+   "to": 162.61,
+   "sid": 85,
+   "location": 2,
+   "content": "但是你任务的A还在脑子里在想",
+   "music": 0.0
+  },
+  {
+   "from": 162.61,
+   "to": 164.11,
+   "sid": 86,
+   "location": 2,
+   "content": "你在想怎么样来回复A",
+   "music": 0.0
+  },
+  {
+   "from": 164.11,
+   "to": 166.4,
+   "sid": 87,
+   "location": 2,
+   "content": "所以呢就有一位残留的印象在那",
+   "music": 0.0
+  },
+  {
+   "from": 166.4,
+   "to": 168.73,
+   "sid": 88,
+   "location": 2,
+   "content": "始终就不能集中精力在跟B说话",
+   "music": 0.0
+  },
+  {
+   "from": 168.73,
+   "to": 170.47,
+   "sid": 89,
+   "location": 2,
+   "content": "那这样的话不能集中精力",
+   "music": 0.0
+  },
+  {
+   "from": 170.47,
+   "to": 173.17,
+   "sid": 90,
+   "location": 2,
+   "content": "相应的就是肯定就是要做事就会很散",
+   "music": 0.0
+  },
+  {
+   "from": 173.17,
+   "to": 176.36,
+   "sid": 91,
+   "location": 2,
+   "content": "然后就就就等于是降低了那个效率啊",
+   "music": 0.0
+  },
+  {
+   "from": 176.36,
+   "to": 178.61,
+   "sid": 92,
+   "location": 2,
+   "content": "而且在降低效率的同时呢",
+   "music": 0.0
+  },
+  {
+   "from": 178.61,
+   "to": 180.29,
+   "sid": 93,
+   "location": 2,
+   "content": "还有可能会出现一些错误",
+   "music": 0.0
+  },
+  {
+   "from": 180.29,
+   "to": 182.51,
+   "sid": 94,
+   "location": 2,
+   "content": "当然那些错误有的时候可以改变",
+   "music": 0.0
+  },
+  {
+   "from": 182.51,
+   "to": 184.91,
+   "sid": 95,
+   "location": 2,
+   "content": "但有些时候这个错误啊一旦发出去",
+   "music": 0.0
+  },
+  {
+   "from": 184.91,
+   "to": 187.0,
+   "sid": 96,
+   "location": 2,
+   "content": "尤其尤其是一些给客户的邮件",
+   "music": 0.0
+  },
+  {
+   "from": 187.0,
+   "to": 189.22,
+   "sid": 97,
+   "location": 2,
+   "content": "或者说是向老板做汇报的这些数字",
+   "music": 0.0
+  },
+  {
+   "from": 189.22,
+   "to": 190.9,
+   "sid": 98,
+   "location": 2,
+   "content": "如果你的老板刚好也是很急的",
+   "music": 0.0
+  },
+  {
+   "from": 190.9,
+   "to": 192.28,
+   "sid": 99,
+   "location": 2,
+   "content": "就把你的报告直接发上去哇",
+   "music": 0.0
+  },
+  {
+   "from": 192.28,
+   "to": 193.44,
+   "sid": 100,
+   "location": 2,
+   "content": "那个错误可就大了",
+   "music": 0.0
+  },
+  {
+   "from": 193.44,
+   "to": 195.06,
+   "sid": 101,
+   "location": 2,
+   "content": "有的时候会影响一个公司",
+   "music": 0.0
+  },
+  {
+   "from": 195.06,
+   "to": 196.62,
+   "sid": 102,
+   "location": 2,
+   "content": "一个项目整个的进展",
+   "music": 0.0
+  },
+  {
+   "from": 196.62,
+   "to": 199.28,
+   "sid": 103,
+   "location": 2,
+   "content": "有的时候真的是要亏很多的钱",
+   "music": 0.0
+  },
+  {
+   "from": 199.28,
+   "to": 202.82,
+   "sid": 104,
+   "location": 2,
+   "content": "那你自己的话就会怀疑自己的工作能力啊",
+   "music": 0.0
+  },
+  {
+   "from": 202.82,
+   "to": 204.14,
+   "sid": 105,
+   "location": 2,
+   "content": "而且多工作的时候",
+   "music": 0.0
+  },
+  {
+   "from": 204.14,
+   "to": 205.88,
+   "sid": 106,
+   "location": 2,
+   "content": "他除了会让你出错误以外",
+   "music": 0.0
+  },
+  {
+   "from": 205.88,
+   "to": 206.48,
+   "sid": 107,
+   "location": 2,
+   "content": "更重要一点",
+   "music": 0.0
+  },
+  {
+   "from": 206.48,
+   "to": 207.92,
+   "sid": 108,
+   "location": 2,
+   "content": "他就会让你智商下降",
+   "music": 0.0
+  },
+  {
+   "from": 207.92,
+   "to": 209.3,
+   "sid": 109,
+   "location": 2,
+   "content": "我看到这个文章里",
+   "music": 0.0
+  },
+  {
+   "from": 209.3,
+   "to": 211.76,
+   "sid": 110,
+   "location": 2,
+   "content": "他就提到多任务并行的时候",
+   "music": 0.0
+  },
+  {
+   "from": 211.76,
+   "to": 215.86,
+   "sid": 111,
+   "location": 2,
+   "content": "你的智商下降的程度跟一夜没睡觉的感觉相当",
+   "music": 0.0
+  },
+  {
+   "from": 215.86,
+   "to": 217.3,
+   "sid": 112,
+   "location": 2,
+   "content": "大家其实可以脑补一下",
+   "music": 0.0
+  },
+  {
+   "from": 217.3,
+   "to": 218.44,
+   "sid": 113,
+   "location": 2,
+   "content": "如果你一晚上不睡觉",
+   "music": 0.0
+  },
+  {
+   "from": 218.44,
+   "to": 219.34,
+   "sid": 114,
+   "location": 2,
+   "content": "神清气爽的",
+   "music": 0.0
+  },
+  {
+   "from": 219.34,
+   "to": 220.9,
+   "sid": 115,
+   "location": 2,
+   "content": "还是说自己睡眼迷离",
+   "music": 0.0
+  },
+  {
+   "from": 220.9,
+   "to": 223.19,
+   "sid": 116,
+   "location": 2,
+   "content": "然后整个的眼神都很呆滞呢",
+   "music": 0.0
+  },
+  {
+   "from": 223.19,
+   "to": 224.09,
+   "sid": 117,
+   "location": 2,
+   "content": "我自己本身啊",
+   "music": 0.0
+  },
+  {
+   "from": 224.09,
+   "to": 226.49,
+   "sid": 118,
+   "location": 2,
+   "content": "我觉得看似效率高",
+   "music": 0.0
+  },
+  {
+   "from": 226.49,
+   "to": 228.019,
+   "sid": 119,
+   "location": 2,
+   "content": "实则效率不高",
+   "music": 0.0
+  },
+  {
+   "from": 228.019,
+   "to": 230.239,
+   "sid": 120,
+   "location": 2,
+   "content": "那那我们想怎么样做呢",
+   "music": 0.0
+  },
+  {
+   "from": 230.239,
+   "to": 232.759,
+   "sid": 121,
+   "location": 2,
+   "content": "那我们下期内容再聊好",
+   "music": 0.15492956994027987
+  },
+  {
+   "from": 232.759,
+   "to": 234.84,
+   "sid": 122,
+   "location": 2,
+   "content": "今天就到这里拜拜",
+   "music": 0.0487658007967713
+  }
+ ]
+}
