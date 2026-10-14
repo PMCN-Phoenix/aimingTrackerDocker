@@ -1,0 +1,508 @@
+{
+ "font_size": 0.4,
+ "font_color": "#FFFFFF",
+ "background_alpha": 0.5,
+ "background_color": "#9C27B0",
+ "Stroke": "none",
+ "type": "AIsubtitle",
+ "lang": "zh",
+ "version": "v1.7.0.4",
+ "body": [
+  {
+   "from": 0.04,
+   "to": 3.12,
+   "sid": 1,
+   "location": 2,
+   "content": "这是你看到过最高效科学细致的FPS s热身",
+   "music": 0.0
+  },
+  {
+   "from": 3.12,
+   "to": 4.4,
+   "sid": 2,
+   "location": 2,
+   "content": "不论你是玩什么射击游戏",
+   "music": 0.0
+  },
+  {
+   "from": 4.4,
+   "to": 6.15,
+   "sid": 3,
+   "location": 2,
+   "content": "都能帮你找到最佳竞技状态",
+   "music": 0.0
+  },
+  {
+   "from": 6.15,
+   "to": 7.89,
+   "sid": 4,
+   "location": 2,
+   "content": "首先是最重要的眼部激活",
+   "music": 0.0
+  },
+  {
+   "from": 7.89,
+   "to": 9.7,
+   "sid": 5,
+   "location": 2,
+   "content": "瞄准是一个手眼写好的过程",
+   "music": 0.0
+  },
+  {
+   "from": 9.7,
+   "to": 11.96,
+   "sid": 6,
+   "location": 2,
+   "content": "大家长时间都在练习自己的手部肌肉",
+   "music": 0.0
+  },
+  {
+   "from": 11.96,
+   "to": 14.26,
+   "sid": 7,
+   "location": 2,
+   "content": "而忽视的眼睛也是瞄准的重要一部分",
+   "music": 0.0
+  },
+  {
+   "from": 14.26,
+   "to": 16.65,
+   "sid": 8,
+   "location": 2,
+   "content": "大家也可以把这个当成练习眼睛的项目",
+   "music": 0.0
+  },
+  {
+   "from": 16.65,
+   "to": 17.73,
+   "sid": 9,
+   "location": 2,
+   "content": "然后多做几组",
+   "music": 0.0
+  },
+  {
+   "from": 17.73,
+   "to": 18.51,
+   "sid": 10,
+   "location": 2,
+   "content": "这里是热身",
+   "music": 0.0
+  },
+  {
+   "from": 18.51,
+   "to": 19.95,
+   "sid": 11,
+   "location": 2,
+   "content": "只需要做一组就OK",
+   "music": 0.0
+  },
+  {
+   "from": 19.95,
+   "to": 23.17,
+   "sid": 12,
+   "location": 2,
+   "content": "保持着打游戏时你的眼睛与屏幕的距离",
+   "music": 0.0
+  },
+  {
+   "from": 23.17,
+   "to": 25.37,
+   "sid": 13,
+   "location": 2,
+   "content": "然后持续捕捉小球的运动轨迹",
+   "music": 0.0
+  },
+  {
+   "from": 25.37,
+   "to": 26.33,
+   "sid": 14,
+   "location": 2,
+   "content": "看完一个片段",
+   "music": 0.0
+  },
+  {
+   "from": 26.33,
+   "to": 27.59,
+   "sid": 15,
+   "location": 2,
+   "content": "休息10~15秒",
+   "music": 0.0
+  },
+  {
+   "from": 27.59,
+   "to": 30.51,
+   "sid": 16,
+   "location": 2,
+   "content": "眼睛向远处眺望或者闭上眼都可以",
+   "music": 0.0
+  },
+  {
+   "from": 30.51,
+   "to": 31.58,
+   "sid": 17,
+   "location": 2,
+   "content": "坚持几天",
+   "music": 0.0
+  },
+  {
+   "from": 31.58,
+   "to": 35.26,
+   "sid": 18,
+   "location": 2,
+   "content": "你会发现这个练习眼镜项目给你瞄准上的提升",
+   "music": 0.0
+  },
+  {
+   "from": 265.26,
+   "to": 267.14,
+   "sid": 19,
+   "location": 2,
+   "content": "至于首播的声音为是别人的视频",
+   "music": 0.0
+  },
+  {
+   "from": 267.14,
+   "to": 268.94,
+   "sid": 20,
+   "location": 2,
+   "content": "我会把传送门放在粉丝群",
+   "music": 0.0
+  },
+  {
+   "from": 268.94,
+   "to": 269.78,
+   "sid": 21,
+   "location": 2,
+   "content": "大家可以进群",
+   "music": 0.0
+  },
+  {
+   "from": 269.78,
+   "to": 271.1,
+   "sid": 22,
+   "location": 2,
+   "content": "问主我要",
+   "music": 0.0
+  },
+  {
+   "from": 272.94,
+   "to": 275.0,
+   "sid": 23,
+   "location": 2,
+   "content": "来到练习专注力的项目",
+   "music": 0.0
+  },
+  {
+   "from": 275.0,
+   "to": 277.659,
+   "sid": 24,
+   "location": 2,
+   "content": "去应用商店找到一个免费的舒尔特方格",
+   "music": 0.0
+  },
+  {
+   "from": 277.659,
+   "to": 278.899,
+   "sid": 25,
+   "location": 2,
+   "content": "然后训练五组",
+   "music": 0.0
+  },
+  {
+   "from": 278.899,
+   "to": 280.179,
+   "sid": 26,
+   "location": 2,
+   "content": "每组休息十秒",
+   "music": 0.0
+  },
+  {
+   "from": 280.179,
+   "to": 281.839,
+   "sid": 27,
+   "location": 2,
+   "content": "这个一定不要超过很多组",
+   "music": 0.0
+  },
+  {
+   "from": 281.839,
+   "to": 283.739,
+   "sid": 28,
+   "location": 2,
+   "content": "不然会影响你待会的排位",
+   "music": 0.0
+  },
+  {
+   "from": 283.739,
+   "to": 285.039,
+   "sid": 29,
+   "location": 2,
+   "content": "竞技状态",
+   "music": 0.0
+  },
+  {
+   "from": 285.199,
+   "to": 286.599,
+   "sid": 30,
+   "location": 2,
+   "content": "来到游戏内",
+   "music": 0.0
+  },
+  {
+   "from": 286.599,
+   "to": 288.079,
+   "sid": 31,
+   "location": 2,
+   "content": "找到一个把跟枪",
+   "music": 0.0
+  },
+  {
+   "from": 288.079,
+   "to": 290.62,
+   "sid": 32,
+   "location": 2,
+   "content": "一分钟可以近距离",
+   "music": 0.0
+  },
+  {
+   "from": 290.62,
+   "to": 292.96,
+   "sid": 33,
+   "location": 2,
+   "content": "中距离远距离都去跟一跟",
+   "music": 0.0
+  },
+  {
+   "from": 292.96,
+   "to": 296.72,
+   "sid": 34,
+   "location": 2,
+   "content": "坚持一分钟做一组就OK",
+   "music": 0.0
+  },
+  {
+   "from": 303.0,
+   "to": 304.86,
+   "sid": 35,
+   "location": 2,
+   "content": "然后去训练场找到这个板",
+   "music": 0.0
+  },
+  {
+   "from": 304.86,
+   "to": 307.28,
+   "sid": 36,
+   "location": 2,
+   "content": "开10米去进行一个压枪",
+   "music": 0.0
+  },
+  {
+   "from": 307.28,
+   "to": 311.44,
+   "sid": 37,
+   "location": 2,
+   "content": "也是压一分钟做一组就OK了",
+   "music": 0.0
+  },
+  {
+   "from": 314.1,
+   "to": 315.66,
+   "sid": 38,
+   "location": 2,
+   "content": "接着找4~5个靶",
+   "music": 0.0
+  },
+  {
+   "from": 315.66,
+   "to": 316.7,
+   "sid": 39,
+   "location": 2,
+   "content": "然后进行扫转",
+   "music": 0.0
+  },
+  {
+   "from": 316.7,
+   "to": 318.48,
+   "sid": 40,
+   "location": 2,
+   "content": "空枪也是一分钟",
+   "music": 0.0
+  },
+  {
+   "from": 318.48,
+   "to": 319.0,
+   "sid": 41,
+   "location": 2,
+   "content": "记得啊",
+   "music": 0.0
+  },
+  {
+   "from": 319.0,
+   "to": 319.66,
+   "sid": 42,
+   "location": 2,
+   "content": "这是热身",
+   "music": 0.0
+  },
+  {
+   "from": 319.66,
+   "to": 320.34,
+   "sid": 43,
+   "location": 2,
+   "content": "不是练枪",
+   "music": 0.0
+  },
+  {
+   "from": 320.34,
+   "to": 321.66,
+   "sid": 44,
+   "location": 2,
+   "content": "不需要你做那么多组数",
+   "music": 0.0
+  },
+  {
+   "from": 321.66,
+   "to": 323.44,
+   "sid": 45,
+   "location": 2,
+   "content": "只需要你找到那种感觉就可以",
+   "music": 0.0
+  },
+  {
+   "from": 323.44,
+   "to": 325.71,
+   "sid": 46,
+   "location": 2,
+   "content": "做太多组就变成练枪了",
+   "music": 0.0
+  },
+  {
+   "from": 325.71,
+   "to": 329.78,
+   "sid": 47,
+   "location": 2,
+   "content": "反而会影响你之后排位的竞技状态嗯",
+   "music": 0.0
+  },
+  {
+   "from": 335.24,
+   "to": 336.8,
+   "sid": 48,
+   "location": 2,
+   "content": "最后5分钟的日式团竞",
+   "music": 0.0
+  },
+  {
+   "from": 336.8,
+   "to": 338.82,
+   "sid": 49,
+   "location": 2,
+   "content": "你可以用你排位最常用的武器",
+   "music": 0.0
+  },
+  {
+   "from": 338.82,
+   "to": 339.96,
+   "sid": 50,
+   "location": 2,
+   "content": "每把武器练一分钟",
+   "music": 0.0
+  },
+  {
+   "from": 339.96,
+   "to": 340.4,
+   "sid": 51,
+   "location": 2,
+   "content": "2分钟",
+   "music": 0.0
+  },
+  {
+   "from": 340.4,
+   "to": 341.52,
+   "sid": 52,
+   "location": 2,
+   "content": "找到那种感觉就可以",
+   "music": 0.0
+  },
+  {
+   "from": 341.52,
+   "to": 342.7,
+   "sid": 53,
+   "location": 2,
+   "content": "为什么不是乱斗",
+   "music": 0.0
+  },
+  {
+   "from": 342.7,
+   "to": 344.56,
+   "sid": 54,
+   "location": 2,
+   "content": "因为热身团竞更贴合排位",
+   "music": 0.0
+  },
+  {
+   "from": 344.56,
+   "to": 346.32,
+   "sid": 55,
+   "location": 2,
+   "content": "对面会有补枪的意识",
+   "music": 0.0
+  },
+  {
+   "from": 346.32,
+   "to": 348.46,
+   "sid": 56,
+   "location": 2,
+   "content": "这样也可以练习到你的一些身位控制",
+   "music": 0.0
+  },
+  {
+   "from": 348.46,
+   "to": 349.18,
+   "sid": 57,
+   "location": 2,
+   "content": "再强调一遍",
+   "music": 0.0
+  },
+  {
+   "from": 349.18,
+   "to": 350.82,
+   "sid": 58,
+   "location": 2,
+   "content": "热身只需要激活你的肌肉",
+   "music": 0.0
+  },
+  {
+   "from": 350.82,
+   "to": 352.4,
+   "sid": 59,
+   "location": 2,
+   "content": "不需要过分的一个练习",
+   "music": 0.0
+  },
+  {
+   "from": 352.4,
+   "to": 355.12,
+   "sid": 60,
+   "location": 2,
+   "content": "下一期我们讲怎么系统科学的练枪",
+   "music": 0.0
+  },
+  {
+   "from": 355.12,
+   "to": 356.7,
+   "sid": 61,
+   "location": 2,
+   "content": "点赞和收藏一起破3000",
+   "music": 0.0
+  },
+  {
+   "from": 356.7,
+   "to": 357.44,
+   "sid": 62,
+   "location": 2,
+   "content": "立马发",
+   "music": 0.0
+  }
+ ]
+}

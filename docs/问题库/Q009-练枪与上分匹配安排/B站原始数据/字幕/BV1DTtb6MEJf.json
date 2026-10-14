@@ -1,0 +1,2068 @@
+{
+ "font_size": 0.4,
+ "font_color": "#FFFFFF",
+ "background_alpha": 0.5,
+ "background_color": "#9C27B0",
+ "Stroke": "none",
+ "type": "AIsubtitle",
+ "lang": "zh",
+ "version": "v1.7.0.4",
+ "body": [
+  {
+   "from": 0.04,
+   "to": 1.6,
+   "sid": 1,
+   "location": 2,
+   "content": "不知道大家有没有在排位里面",
+   "music": 0.0
+  },
+  {
+   "from": 1.6,
+   "to": 3.84,
+   "sid": 2,
+   "location": 2,
+   "content": "经常出现神一把鬼一把的情况",
+   "music": 0.0
+  },
+  {
+   "from": 3.84,
+   "to": 5.02,
+   "sid": 3,
+   "location": 2,
+   "content": "可能上次打的很好",
+   "music": 0.0
+  },
+  {
+   "from": 5.02,
+   "to": 7.28,
+   "sid": 4,
+   "location": 2,
+   "content": "然后突然有一天上线枪马的没道理",
+   "music": 0.0
+  },
+  {
+   "from": 7.28,
+   "to": 8.52,
+   "sid": 5,
+   "location": 2,
+   "content": "连自己都不敢相信",
+   "music": 0.0
+  },
+  {
+   "from": 8.52,
+   "to": 10.19,
+   "sid": 6,
+   "location": 2,
+   "content": "那你可能需要来看这期视频",
+   "music": 0.0
+  },
+  {
+   "from": 10.19,
+   "to": 12.83,
+   "sid": 7,
+   "location": 2,
+   "content": "这期视频我会分享赛前热身和赛后练枪",
+   "music": 0.0
+  },
+  {
+   "from": 12.83,
+   "to": 14.29,
+   "sid": 8,
+   "location": 2,
+   "content": "比较科学的训练方法",
+   "music": 0.0
+  },
+  {
+   "from": 14.29,
+   "to": 16.61,
+   "sid": 9,
+   "location": 2,
+   "content": "让你稳定发挥出你的个人水准",
+   "music": 0.0
+  },
+  {
+   "from": 16.61,
+   "to": 17.6,
+   "sid": 10,
+   "location": 2,
+   "content": "我们直接开始",
+   "music": 0.0
+  },
+  {
+   "from": 17.6,
+   "to": 19.44,
+   "sid": 11,
+   "location": 2,
+   "content": "我们进入到这个游戏的靶场里面",
+   "music": 0.0
+  },
+  {
+   "from": 19.44,
+   "to": 20.68,
+   "sid": 12,
+   "location": 2,
+   "content": "刚进入游戏的时候呢",
+   "music": 0.0
+  },
+  {
+   "from": 20.68,
+   "to": 22.76,
+   "sid": 13,
+   "location": 2,
+   "content": "我们需要做一些简单的手部热身啊",
+   "music": 0.0
+  },
+  {
+   "from": 22.76,
+   "to": 23.76,
+   "sid": 14,
+   "location": 2,
+   "content": "左上角我开了个摄像头",
+   "music": 0.0
+  },
+  {
+   "from": 23.76,
+   "to": 25.29,
+   "sid": 15,
+   "location": 2,
+   "content": "给大家做了一个简单的示范",
+   "music": 0.0
+  },
+  {
+   "from": 25.29,
+   "to": 27.71,
+   "sid": 16,
+   "location": 2,
+   "content": "我会像这样简单的拉伸一下手腕",
+   "music": 0.0
+  },
+  {
+   "from": 27.71,
+   "to": 29.31,
+   "sid": 17,
+   "location": 2,
+   "content": "握拳转圈",
+   "music": 0.0
+  },
+  {
+   "from": 29.31,
+   "to": 30.75,
+   "sid": 18,
+   "location": 2,
+   "content": "拉伸一下这个手部",
+   "music": 0.0
+  },
+  {
+   "from": 30.75,
+   "to": 33.43,
+   "sid": 19,
+   "location": 2,
+   "content": "这样的话能够帮助你促进血液循环",
+   "music": 0.0
+  },
+  {
+   "from": 33.43,
+   "to": 35.54,
+   "sid": 20,
+   "location": 2,
+   "content": "简单的激活一下你的手部",
+   "music": 0.0
+  },
+  {
+   "from": 35.54,
+   "to": 38.26,
+   "sid": 21,
+   "location": 2,
+   "content": "当然你可以直接按跑步前的热身运动啊",
+   "music": 0.0
+  },
+  {
+   "from": 38.26,
+   "to": 40.739,
+   "sid": 22,
+   "location": 2,
+   "content": "也可以深蹲小跳什么的都行",
+   "music": 0.0
+  },
+  {
+   "from": 40.739,
+   "to": 42.579,
+   "sid": 23,
+   "location": 2,
+   "content": "主要就是让你的身体暖起来",
+   "music": 0.0
+  },
+  {
+   "from": 42.579,
+   "to": 43.459,
+   "sid": 24,
+   "location": 2,
+   "content": "血液流动起来",
+   "music": 0.0
+  },
+  {
+   "from": 43.459,
+   "to": 45.059,
+   "sid": 25,
+   "location": 2,
+   "content": "这个对我们长时间打游戏的朋友们",
+   "music": 0.0
+  },
+  {
+   "from": 45.059,
+   "to": 46.769,
+   "sid": 26,
+   "location": 2,
+   "content": "也是很重要的一个热身训练",
+   "music": 0.0
+  },
+  {
+   "from": 46.769,
+   "to": 49.129,
+   "sid": 27,
+   "location": 2,
+   "content": "包括主播本人呢就是一个不怎么爱运动的人",
+   "music": 0.0
+  },
+  {
+   "from": 49.129,
+   "to": 51.149,
+   "sid": 28,
+   "location": 2,
+   "content": "但是每天为了保持手感稳定",
+   "music": 0.0
+  },
+  {
+   "from": 51.149,
+   "to": 53.429,
+   "sid": 29,
+   "location": 2,
+   "content": "都会做一做赛前的热身运动",
+   "music": 0.0
+  },
+  {
+   "from": 53.429,
+   "to": 54.48,
+   "sid": 30,
+   "location": 2,
+   "content": "激活一下身体",
+   "music": 0.0
+  },
+  {
+   "from": 54.48,
+   "to": 56.98,
+   "sid": 31,
+   "location": 2,
+   "content": "也希望各位玩家们呢能够多注意身体健康",
+   "music": 0.0
+  },
+  {
+   "from": 56.98,
+   "to": 59.81,
+   "sid": 32,
+   "location": 2,
+   "content": "这样的话对你游戏的水平也是有提升的",
+   "music": 0.0
+  },
+  {
+   "from": 59.81,
+   "to": 61.75,
+   "sid": 33,
+   "location": 2,
+   "content": "OK做完简单的拉伸之后呢",
+   "music": 0.0
+  },
+  {
+   "from": 61.75,
+   "to": 65.01,
+   "sid": 34,
+   "location": 2,
+   "content": "游戏里面呢可以做一些简单的跑动跳跃",
+   "music": 0.0
+  },
+  {
+   "from": 65.01,
+   "to": 66.5,
+   "sid": 35,
+   "location": 2,
+   "content": "熟悉一下这个视角",
+   "music": 0.0
+  },
+  {
+   "from": 66.5,
+   "to": 68.6,
+   "sid": 36,
+   "location": 2,
+   "content": "我们可以选一把移速较快的武器",
+   "music": 0.0
+  },
+  {
+   "from": 68.6,
+   "to": 70.78,
+   "sid": 37,
+   "location": 2,
+   "content": "直接来到这个机器人里面游龙啊",
+   "music": 0.0
+  },
+  {
+   "from": 70.78,
+   "to": 71.38,
+   "sid": 38,
+   "location": 2,
+   "content": "像我这样",
+   "music": 0.0
+  },
+  {
+   "from": 71.38,
+   "to": 73.86,
+   "sid": 39,
+   "location": 2,
+   "content": "这一步呢是为了让你感觉到你自己的眼球",
+   "music": 0.0
+  },
+  {
+   "from": 73.86,
+   "to": 77.04,
+   "sid": 40,
+   "location": 2,
+   "content": "开始适应无畏契约这个快速运动视角的变化",
+   "music": 0.0
+  },
+  {
+   "from": 77.04,
+   "to": 79.28,
+   "sid": 41,
+   "location": 2,
+   "content": "同时让你的手部得到一些放松",
+   "music": 0.0
+  },
+  {
+   "from": 79.28,
+   "to": 82.12,
+   "sid": 42,
+   "location": 2,
+   "content": "我们也可以来到靶场后面的这个身法练习场景",
+   "music": 0.0
+  },
+  {
+   "from": 82.12,
+   "to": 83.72,
+   "sid": 43,
+   "location": 2,
+   "content": "在这个身法训练项目里面",
+   "music": 0.0
+  },
+  {
+   "from": 83.72,
+   "to": 85.36,
+   "sid": 44,
+   "location": 2,
+   "content": "同样也能放松手部",
+   "music": 0.0
+  },
+  {
+   "from": 85.36,
+   "to": 88.04,
+   "sid": 45,
+   "location": 2,
+   "content": "也能让你的眼睛快速适应你的运动视角",
+   "music": 0.0
+  },
+  {
+   "from": 88.04,
+   "to": 90.24,
+   "sid": 46,
+   "location": 2,
+   "content": "这个呢是我看很多CSGO的职业选手",
+   "music": 0.0
+  },
+  {
+   "from": 90.24,
+   "to": 92.59,
+   "sid": 47,
+   "location": 2,
+   "content": "在比赛前经常会有的热身训练",
+   "music": 0.0
+  },
+  {
+   "from": 92.59,
+   "to": 94.91,
+   "sid": 48,
+   "location": 2,
+   "content": "然后我个人呢也很喜欢这个训练项目",
+   "music": 0.0
+  },
+  {
+   "from": 94.91,
+   "to": 97.39,
+   "sid": 49,
+   "location": 2,
+   "content": "让我很快的感受到我的手眼协调能力",
+   "music": 0.0
+  },
+  {
+   "from": 97.39,
+   "to": 98.63,
+   "sid": 50,
+   "location": 2,
+   "content": "专注到游戏里面了",
+   "music": 0.0
+  },
+  {
+   "from": 98.63,
+   "to": 100.07,
+   "sid": 51,
+   "location": 2,
+   "content": "当然这个当成赛后的训练",
+   "music": 0.0
+  },
+  {
+   "from": 100.07,
+   "to": 102.229,
+   "sid": 52,
+   "location": 2,
+   "content": "也是一个不错的训练项目",
+   "music": 0.0
+  },
+  {
+   "from": 102.229,
+   "to": 105.63,
+   "sid": 53,
+   "location": 2,
+   "content": "接下来是针对高敏玩家的爆发瞄准热身",
+   "music": 0.0
+  },
+  {
+   "from": 105.63,
+   "to": 108.83,
+   "sid": 54,
+   "location": 2,
+   "content": "这个热身方式是我看职业选手net直播的时候",
+   "music": 0.0
+  },
+  {
+   "from": 108.83,
+   "to": 110.39,
+   "sid": 55,
+   "location": 2,
+   "content": "经常会做的热身方式",
+   "music": 0.0
+  },
+  {
+   "from": 110.39,
+   "to": 112.68,
+   "sid": 56,
+   "location": 2,
+   "content": "也是我认为非常科学的热身项目",
+   "music": 0.0
+  },
+  {
+   "from": 112.68,
+   "to": 113.92,
+   "sid": 57,
+   "location": 2,
+   "content": "我们打这个困难吧",
+   "music": 0.0
+  },
+  {
+   "from": 113.92,
+   "to": 116.04,
+   "sid": 58,
+   "location": 2,
+   "content": "然后每一次我们的瞄准复位之后",
+   "music": 0.0
+  },
+  {
+   "from": 116.04,
+   "to": 117.96,
+   "sid": 59,
+   "location": 2,
+   "content": "鼠标都保持静止状态",
+   "music": 0.0
+  },
+  {
+   "from": 117.96,
+   "to": 119.96,
+   "sid": 60,
+   "location": 2,
+   "content": "在下一个机器人刷出来之后",
+   "music": 0.0
+  },
+  {
+   "from": 119.96,
+   "to": 121.99,
+   "sid": 61,
+   "location": 2,
+   "content": "我们只做爆发式的一次瞄准",
+   "music": 0.0
+  },
+  {
+   "from": 121.99,
+   "to": 124.13,
+   "sid": 62,
+   "location": 2,
+   "content": "这个时候我们的握手力度会比较紧绷",
+   "music": 0.0
+  },
+  {
+   "from": 124.13,
+   "to": 125.51,
+   "sid": 63,
+   "location": 2,
+   "content": "但这是非常正常的",
+   "music": 0.0
+  },
+  {
+   "from": 125.51,
+   "to": 127.7,
+   "sid": 64,
+   "location": 2,
+   "content": "我们不需要刻意的维持准度",
+   "music": 0.0
+  },
+  {
+   "from": 127.7,
+   "to": 130.54,
+   "sid": 65,
+   "location": 2,
+   "content": "主要是模拟你自己在极限情况下能做到的",
+   "music": 0.0
+  },
+  {
+   "from": 130.54,
+   "to": 132.1,
+   "sid": 66,
+   "location": 2,
+   "content": "最快速度的瞄准",
+   "music": 0.0
+  },
+  {
+   "from": 132.1,
+   "to": 132.94,
+   "sid": 67,
+   "location": 2,
+   "content": "在实战里面",
+   "music": 0.0
+  },
+  {
+   "from": 132.94,
+   "to": 136.34,
+   "sid": 68,
+   "location": 2,
+   "content": "经常需要做到一些架枪切换和转火的瞄准技巧",
+   "music": 0.0
+  },
+  {
+   "from": 136.34,
+   "to": 138.02,
+   "sid": 69,
+   "location": 2,
+   "content": "我们高敏玩家在架枪的时候",
+   "music": 0.0
+  },
+  {
+   "from": 138.02,
+   "to": 139.96,
+   "sid": 70,
+   "location": 2,
+   "content": "手部肌肉肯定是比较紧张的",
+   "music": 0.0
+  },
+  {
+   "from": 139.96,
+   "to": 142.12,
+   "sid": 71,
+   "location": 2,
+   "content": "用这样的方式打一组困难靶下来之后",
+   "music": 0.0
+  },
+  {
+   "from": 142.12,
+   "to": 145.23,
+   "sid": 72,
+   "location": 2,
+   "content": "我们的手腕会感到有些酸痛酸胀的感觉",
+   "music": 0.0
+  },
+  {
+   "from": 145.23,
+   "to": 147.459,
+   "sid": 73,
+   "location": 2,
+   "content": "接下来我们打开这个常规的100把",
+   "music": 0.0
+  },
+  {
+   "from": 147.459,
+   "to": 150.359,
+   "sid": 74,
+   "location": 2,
+   "content": "这一次让我们的手腕完全放松下来",
+   "music": 0.0
+  },
+  {
+   "from": 150.359,
+   "to": 151.879,
+   "sid": 75,
+   "location": 2,
+   "content": "不需要追求击杀效率",
+   "music": 0.0
+  },
+  {
+   "from": 151.879,
+   "to": 154.579,
+   "sid": 76,
+   "location": 2,
+   "content": "只需要结合平常会使用到的一些移动技巧",
+   "music": 0.0
+  },
+  {
+   "from": 154.579,
+   "to": 155.9,
+   "sid": 77,
+   "location": 2,
+   "content": "专注于命中率",
+   "music": 0.0
+  },
+  {
+   "from": 155.9,
+   "to": 158.66,
+   "sid": 78,
+   "location": 2,
+   "content": "确保我们每一次开火都能精准命中头部",
+   "music": 0.0
+  },
+  {
+   "from": 158.66,
+   "to": 161.579,
+   "sid": 79,
+   "location": 2,
+   "content": "这里可以用你喜欢的武器或者不擅长的武器",
+   "music": 0.0
+  },
+  {
+   "from": 161.579,
+   "to": 163.139,
+   "sid": 80,
+   "location": 2,
+   "content": "打20个到30个差不多",
+   "music": 0.0
+  },
+  {
+   "from": 163.139,
+   "to": 164.66,
+   "sid": 81,
+   "location": 2,
+   "content": "反正不要让自己打得太累",
+   "music": 0.0
+  },
+  {
+   "from": 164.66,
+   "to": 166.32,
+   "sid": 82,
+   "location": 2,
+   "content": "接下来我们就可以退出靶场",
+   "music": 0.0
+  },
+  {
+   "from": 166.32,
+   "to": 168.94,
+   "sid": 83,
+   "location": 2,
+   "content": "进行一两把死斗模式来验证你的状态",
+   "music": 0.0
+  },
+  {
+   "from": 168.94,
+   "to": 171.02,
+   "sid": 84,
+   "location": 2,
+   "content": "或者我们可以直接开始排位模式了",
+   "music": 0.0
+  },
+  {
+   "from": 171.02,
+   "to": 173.76,
+   "sid": 85,
+   "location": 2,
+   "content": "这也是我借鉴的职业选手nice的热身方式了",
+   "music": 0.0
+  },
+  {
+   "from": 173.76,
+   "to": 175.62,
+   "sid": 86,
+   "location": 2,
+   "content": "个人非常喜欢这套训练模式",
+   "music": 0.0
+  },
+  {
+   "from": 175.62,
+   "to": 177.829,
+   "sid": 87,
+   "location": 2,
+   "content": "推荐给中高敏的玩家们",
+   "music": 0.0
+  },
+  {
+   "from": 177.829,
+   "to": 180.829,
+   "sid": 88,
+   "location": 2,
+   "content": "接下来是我第一名时期非常喜欢的热身方法",
+   "music": 0.0
+  },
+  {
+   "from": 180.829,
+   "to": 182.3,
+   "sid": 89,
+   "location": 2,
+   "content": "跟踪目标练习",
+   "music": 0.0
+  },
+  {
+   "from": 182.3,
+   "to": 184.26,
+   "sid": 90,
+   "location": 2,
+   "content": "参考G2的职业选手VOLAN",
+   "music": 0.0
+  },
+  {
+   "from": 184.26,
+   "to": 185.84,
+   "sid": 91,
+   "location": 2,
+   "content": "在很早以前分享过的方法",
+   "music": 0.0
+  },
+  {
+   "from": 185.84,
+   "to": 187.98,
+   "sid": 92,
+   "location": 2,
+   "content": "我们在这个中间随便找一个机器人",
+   "music": 0.0
+  },
+  {
+   "from": 187.98,
+   "to": 190.32,
+   "sid": 93,
+   "location": 2,
+   "content": "可以看到他的头部中间有一个小圆",
+   "music": 0.0
+  },
+  {
+   "from": 190.32,
+   "to": 192.72,
+   "sid": 94,
+   "location": 2,
+   "content": "尝试用我们的准心去跟踪这个机器人",
+   "music": 0.0
+  },
+  {
+   "from": 192.72,
+   "to": 194.45,
+   "sid": 95,
+   "location": 2,
+   "content": "头部正中间这个小圆点",
+   "music": 0.0
+  },
+  {
+   "from": 194.45,
+   "to": 196.53,
+   "sid": 96,
+   "location": 2,
+   "content": "可以使用不同的武器来做这个动作",
+   "music": 0.0
+  },
+  {
+   "from": 196.53,
+   "to": 197.47,
+   "sid": 97,
+   "location": 2,
+   "content": "因为移速不同",
+   "music": 0.0
+  },
+  {
+   "from": 197.47,
+   "to": 199.13,
+   "sid": 98,
+   "location": 2,
+   "content": "跟踪练习的难度不同",
+   "music": 0.0
+  },
+  {
+   "from": 199.13,
+   "to": 201.23,
+   "sid": 99,
+   "location": 2,
+   "content": "尽可能的保持准星的锁定感",
+   "music": 0.0
+  },
+  {
+   "from": 201.23,
+   "to": 203.37,
+   "sid": 100,
+   "location": 2,
+   "content": "这个练习场景模拟的是我们实战里面",
+   "music": 0.0
+  },
+  {
+   "from": 203.37,
+   "to": 207.0,
+   "sid": 101,
+   "location": 2,
+   "content": "经常会有的追踪敌人和快速补枪动作的场景",
+   "music": 0.0
+  },
+  {
+   "from": 207.0,
+   "to": 209.709,
+   "sid": 102,
+   "location": 2,
+   "content": "我这里演示的是我以前低敏时期的视频",
+   "music": 0.0
+  },
+  {
+   "from": 209.709,
+   "to": 210.349,
+   "sid": 103,
+   "location": 2,
+   "content": "可以看到",
+   "music": 0.0
+  },
+  {
+   "from": 210.349,
+   "to": 213.529,
+   "sid": 104,
+   "location": 2,
+   "content": "我的准心是紧贴敌人可能出现的这个墙壁边缘",
+   "music": 0.0
+  },
+  {
+   "from": 213.529,
+   "to": 215.88,
+   "sid": 105,
+   "location": 2,
+   "content": "做类似画圆的一个预瞄方式",
+   "music": 0.0
+  },
+  {
+   "from": 215.88,
+   "to": 217.64,
+   "sid": 106,
+   "location": 2,
+   "content": "做这套练习大概一分钟左右",
+   "music": 0.0
+  },
+  {
+   "from": 217.64,
+   "to": 219.96,
+   "sid": 107,
+   "location": 2,
+   "content": "你会感觉到你的手腕开始进入状态了",
+   "music": 0.0
+  },
+  {
+   "from": 219.96,
+   "to": 222.7,
+   "sid": 108,
+   "location": 2,
+   "content": "低敏玩家也能练到瞄准微调的感觉",
+   "music": 0.0
+  },
+  {
+   "from": 222.7,
+   "to": 225.58,
+   "sid": 109,
+   "location": 2,
+   "content": "接下来我会分享在死斗模式训练的几种方法",
+   "music": 0.0
+  },
+  {
+   "from": 225.58,
+   "to": 226.98,
+   "sid": 110,
+   "location": 2,
+   "content": "在进行下一部分之前",
+   "music": 0.0
+  },
+  {
+   "from": 226.98,
+   "to": 227.3,
+   "sid": 111,
+   "location": 2,
+   "content": "哎",
+   "music": 0.0
+  },
+  {
+   "from": 227.3,
+   "to": 229.87,
+   "sid": 112,
+   "location": 2,
+   "content": "先给大家推荐一下我最近的上分神器",
+   "music": 0.0
+  },
+  {
+   "from": 229.87,
+   "to": 231.27,
+   "sid": 113,
+   "location": 2,
+   "content": "最近换上了游戏声卡",
+   "music": 0.0
+  },
+  {
+   "from": 231.27,
+   "to": 232.39,
+   "sid": 114,
+   "location": 2,
+   "content": "也是有一段时间了",
+   "music": 0.0
+  },
+  {
+   "from": 232.39,
+   "to": 234.87,
+   "sid": 115,
+   "location": 2,
+   "content": "好的操作呢搭配上一款不错的桌面声卡",
+   "music": 0.0
+  },
+  {
+   "from": 234.87,
+   "to": 237.16,
+   "sid": 116,
+   "location": 2,
+   "content": "听声辨位能力就像是搭载了物理外挂",
+   "music": 0.0
+  },
+  {
+   "from": 237.16,
+   "to": 239.32,
+   "sid": 117,
+   "location": 2,
+   "content": "我手中的这款猎鹰AI游戏声卡",
+   "music": 0.0
+  },
+  {
+   "from": 239.32,
+   "to": 242.22,
+   "sid": 118,
+   "location": 2,
+   "content": "它内置了一个专门为FPS训练的AI模型",
+   "music": 0.0
+  },
+  {
+   "from": 242.22,
+   "to": 244.86,
+   "sid": 119,
+   "location": 2,
+   "content": "对比传统声卡调整的特定EQ频段",
+   "music": 0.0
+  },
+  {
+   "from": 244.86,
+   "to": 246.5,
+   "sid": 120,
+   "location": 2,
+   "content": "就像是把整个声音抬起来",
+   "music": 0.0
+  },
+  {
+   "from": 246.5,
+   "to": 247.9,
+   "sid": 121,
+   "location": 2,
+   "content": "AI增强脚步声的方案",
+   "music": 0.0
+  },
+  {
+   "from": 247.9,
+   "to": 250.58,
+   "sid": 122,
+   "location": 2,
+   "content": "就是把声音里面有用的信息给提取出来",
+   "music": 0.0
+  },
+  {
+   "from": 250.58,
+   "to": 253.54,
+   "sid": 123,
+   "location": 2,
+   "content": "给大家展示一下开关增强的效果",
+   "music": 0.0
+  },
+  {
+   "from": 262.219,
+   "to": 263.379,
+   "sid": 124,
+   "location": 2,
+   "content": "Three kills",
+   "music": 0.0
+  },
+  {
+   "from": 263.379,
+   "to": 266.88,
+   "sid": 125,
+   "location": 2,
+   "content": "Four kills",
+   "music": 0.2399999760000115
+  },
+  {
+   "from": 274.64,
+   "to": 276.04,
+   "sid": 126,
+   "location": 2,
+   "content": "我的路",
+   "music": 0.0
+  },
+  {
+   "from": 279.8,
+   "to": 281.4,
+   "sid": 127,
+   "location": 2,
+   "content": "别挡我的路",
+   "music": 0.0
+  },
+  {
+   "from": 284.18,
+   "to": 286.8,
+   "sid": 128,
+   "location": 2,
+   "content": "通过演示呢可以很直观的感受到区别",
+   "music": 0.0
+  },
+  {
+   "from": 286.8,
+   "to": 288.24,
+   "sid": 129,
+   "location": 2,
+   "content": "枪声呢还是那个枪声",
+   "music": 0.0
+  },
+  {
+   "from": 288.24,
+   "to": 289.18,
+   "sid": 130,
+   "location": 2,
+   "content": "不会感觉炸耳",
+   "music": 0.0
+  },
+  {
+   "from": 289.18,
+   "to": 291.8,
+   "sid": 131,
+   "location": 2,
+   "content": "但脚步声的定位感知能让你感觉更加通透了",
+   "music": 0.0
+  },
+  {
+   "from": 291.8,
+   "to": 293.54,
+   "sid": 132,
+   "location": 2,
+   "content": "就他不只是声音大了",
+   "music": 0.0
+  },
+  {
+   "from": 293.54,
+   "to": 296.69,
+   "sid": 133,
+   "location": 2,
+   "content": "我们能感受到的一些场景细节效果也会更多",
+   "music": 0.0
+  },
+  {
+   "from": 296.69,
+   "to": 299.81,
+   "sid": 134,
+   "location": 2,
+   "content": "这些听感提升都归功于AI算法带来的优势",
+   "music": 0.0
+  },
+  {
+   "from": 299.81,
+   "to": 302.69,
+   "sid": 135,
+   "location": 2,
+   "content": "猎鹰AI游戏声卡通过针对各类FPS游戏",
+   "music": 0.0
+  },
+  {
+   "from": 302.69,
+   "to": 304.84,
+   "sid": 136,
+   "location": 2,
+   "content": "累计训练时间约1.2万小时",
+   "music": 0.0
+  },
+  {
+   "from": 304.84,
+   "to": 306.82,
+   "sid": 137,
+   "location": 2,
+   "content": "高达250万条训练样本",
+   "music": 0.0
+  },
+  {
+   "from": 306.82,
+   "to": 308.72,
+   "sid": 138,
+   "location": 2,
+   "content": "辅助强化你对脚步声的感知",
+   "music": 0.0
+  },
+  {
+   "from": 308.72,
+   "to": 309.64,
+   "sid": 139,
+   "location": 2,
+   "content": "它是市面唯一",
+   "music": 0.0
+  },
+  {
+   "from": 312.86,
+   "to": 314.54,
+   "sid": 140,
+   "location": 2,
+   "content": "作为FPS游戏的发烧友",
+   "music": 0.0
+  },
+  {
+   "from": 314.54,
+   "to": 315.88,
+   "sid": 141,
+   "location": 2,
+   "content": "我们经常会面临的枪声",
+   "music": 0.0
+  },
+  {
+   "from": 315.88,
+   "to": 316.42,
+   "sid": 142,
+   "location": 2,
+   "content": "爆炸声",
+   "music": 0.0
+  },
+  {
+   "from": 316.42,
+   "to": 317.2,
+   "sid": 143,
+   "location": 2,
+   "content": "刺耳的干扰",
+   "music": 0.0
+  },
+  {
+   "from": 317.2,
+   "to": 317.84,
+   "sid": 144,
+   "location": 2,
+   "content": "听不清",
+   "music": 0.0
+  },
+  {
+   "from": 317.84,
+   "to": 318.88,
+   "sid": 145,
+   "location": 2,
+   "content": "听不准的问题",
+   "music": 0.0
+  },
+  {
+   "from": 318.88,
+   "to": 320.22,
+   "sid": 146,
+   "location": 2,
+   "content": "我们可以来到网页驱动",
+   "music": 0.0
+  },
+  {
+   "from": 320.22,
+   "to": 323.24,
+   "sid": 147,
+   "location": 2,
+   "content": "在这里开启针对各类FPS游戏的预设脚步声",
+   "music": 0.0
+  },
+  {
+   "from": 323.24,
+   "to": 324.2,
+   "sid": 148,
+   "location": 2,
+   "content": "受到干扰等问题",
+   "music": 0.0
+  },
+  {
+   "from": 324.2,
+   "to": 325.4,
+   "sid": 149,
+   "location": 2,
+   "content": "可以得到一键改善",
+   "music": 0.0
+  },
+  {
+   "from": 325.4,
+   "to": 327.23,
+   "sid": 150,
+   "location": 2,
+   "content": "我这里选择的是无畏契约",
+   "music": 0.0
+  },
+  {
+   "from": 327.23,
+   "to": 329.95,
+   "sid": 151,
+   "location": 2,
+   "content": "我们还能在这个网页端这里自行调节EQ",
+   "music": 0.0
+  },
+  {
+   "from": 329.95,
+   "to": 332.61,
+   "sid": 152,
+   "location": 2,
+   "content": "它有多种预设方案适配你的听觉习惯",
+   "music": 0.0
+  },
+  {
+   "from": 332.61,
+   "to": 335.0,
+   "sid": 153,
+   "location": 2,
+   "content": "因为不同的耳机带来的听感体验各不相同",
+   "music": 0.0
+  },
+  {
+   "from": 335.0,
+   "to": 336.52,
+   "sid": 154,
+   "location": 2,
+   "content": "如果需要提高脚步声听力",
+   "music": 0.0
+  },
+  {
+   "from": 336.52,
+   "to": 339.62,
+   "sid": 155,
+   "location": 2,
+   "content": "我们可以拉高二百五一K2K这三个频段",
+   "music": 0.0
+  },
+  {
+   "from": 339.62,
+   "to": 341.44,
+   "sid": 156,
+   "location": 2,
+   "content": "如果是感觉部分场景比较刺耳",
+   "music": 0.0
+  },
+  {
+   "from": 341.44,
+   "to": 344.1,
+   "sid": 157,
+   "location": 2,
+   "content": "我们可以稍微拉低1.6K到8K的频段",
+   "music": 0.0
+  },
+  {
+   "from": 344.1,
+   "to": 345.76,
+   "sid": 158,
+   "location": 2,
+   "content": "如果是声音感觉不够通透的话",
+   "music": 0.0
+  },
+  {
+   "from": 345.76,
+   "to": 348.6,
+   "sid": 159,
+   "location": 2,
+   "content": "可以适当拉高468K3个频段",
+   "music": 0.0
+  },
+  {
+   "from": 348.6,
+   "to": 350.74,
+   "sid": 160,
+   "location": 2,
+   "content": "我们可以根据自身听感来微调EQ",
+   "music": 0.0
+  },
+  {
+   "from": 350.74,
+   "to": 352.88,
+   "sid": 161,
+   "location": 2,
+   "content": "兼顾日常听歌和游戏体验",
+   "music": 0.0
+  },
+  {
+   "from": 352.88,
+   "to": 354.78,
+   "sid": 162,
+   "location": 2,
+   "content": "非常简单方便",
+   "music": 0.0
+  },
+  {
+   "from": 355.27,
+   "to": 356.63,
+   "sid": 163,
+   "location": 2,
+   "content": "我们进入死斗后呢",
+   "music": 0.0
+  },
+  {
+   "from": 356.63,
+   "to": 359.35,
+   "sid": 164,
+   "location": 2,
+   "content": "同样可以像在靶场那样随意走动一下",
+   "music": 0.0
+  },
+  {
+   "from": 359.35,
+   "to": 361.13,
+   "sid": 165,
+   "location": 2,
+   "content": "找一找预瞄点位的感觉",
+   "music": 0.0
+  },
+  {
+   "from": 361.13,
+   "to": 362.67,
+   "sid": 166,
+   "location": 2,
+   "content": "做一下爆头线的练习",
+   "music": 0.0
+  },
+  {
+   "from": 362.67,
+   "to": 364.63,
+   "sid": 167,
+   "location": 2,
+   "content": "那么经常会有人来问主播",
+   "music": 0.0
+  },
+  {
+   "from": 364.63,
+   "to": 367.31,
+   "sid": 168,
+   "location": 2,
+   "content": "死斗里面到底要不要关声音来练",
+   "music": 0.0
+  },
+  {
+   "from": 367.31,
+   "to": 369.69,
+   "sid": 169,
+   "location": 2,
+   "content": "有些人说无声死斗很好练习",
+   "music": 0.0
+  },
+  {
+   "from": 369.69,
+   "to": 371.22,
+   "sid": 170,
+   "location": 2,
+   "content": "其实这些都可以",
+   "music": 0.0
+  },
+  {
+   "from": 371.22,
+   "to": 373.48,
+   "sid": 171,
+   "location": 2,
+   "content": "但我们今天主要讲的是赛前的热身",
+   "music": 0.0
+  },
+  {
+   "from": 373.48,
+   "to": 376.28,
+   "sid": 172,
+   "location": 2,
+   "content": "我们并不能指望通过赛前的一两把死斗练习",
+   "music": 0.0
+  },
+  {
+   "from": 376.28,
+   "to": 377.56,
+   "sid": 173,
+   "location": 2,
+   "content": "就让你的预瞄能力",
+   "music": 0.0
+  },
+  {
+   "from": 377.56,
+   "to": 379.31,
+   "sid": 174,
+   "location": 2,
+   "content": "瞄准能力得到质的飞跃",
+   "music": 0.0
+  },
+  {
+   "from": 379.31,
+   "to": 380.59,
+   "sid": 175,
+   "location": 2,
+   "content": "但是做好热身",
+   "music": 0.0
+  },
+  {
+   "from": 380.59,
+   "to": 382.41,
+   "sid": 176,
+   "location": 2,
+   "content": "我们在接下来的排位模式中",
+   "music": 0.0
+  },
+  {
+   "from": 382.41,
+   "to": 384.08,
+   "sid": 177,
+   "location": 2,
+   "content": "状态至少能够稳定下来",
+   "music": 0.0
+  },
+  {
+   "from": 384.08,
+   "to": 386.0,
+   "sid": 178,
+   "location": 2,
+   "content": "然后我个人比较推荐在死斗里面",
+   "music": 0.0
+  },
+  {
+   "from": 386.0,
+   "to": 389.16,
+   "sid": 179,
+   "location": 2,
+   "content": "我们去找一些平常实战里的劣势对枪场景",
+   "music": 0.0
+  },
+  {
+   "from": 389.16,
+   "to": 391.32,
+   "sid": 180,
+   "location": 2,
+   "content": "比如说我现在在这个B点的一个世界位",
+   "music": 0.0
+  },
+  {
+   "from": 391.32,
+   "to": 392.33,
+   "sid": 181,
+   "location": 2,
+   "content": "我就到处预瞄",
+   "music": 0.0
+  },
+  {
+   "from": 392.33,
+   "to": 394.47,
+   "sid": 182,
+   "location": 2,
+   "content": "这里四面八方都可能会来人",
+   "music": 0.0
+  },
+  {
+   "from": 394.47,
+   "to": 397.09,
+   "sid": 183,
+   "location": 2,
+   "content": "像这样可以在死斗里面零成本的练习",
+   "music": 0.0
+  },
+  {
+   "from": 397.09,
+   "to": 398.45,
+   "sid": 184,
+   "location": 2,
+   "content": "多种架枪场景",
+   "music": 0.0
+  },
+  {
+   "from": 398.45,
+   "to": 400.39,
+   "sid": 185,
+   "location": 2,
+   "content": "比如说还有亚海悬城的这个A2楼",
+   "music": 0.0
+  },
+  {
+   "from": 400.39,
+   "to": 402.39,
+   "sid": 186,
+   "location": 2,
+   "content": "你看我就这样架着A1出来的人",
+   "music": 0.0
+  },
+  {
+   "from": 402.39,
+   "to": 404.03,
+   "sid": 187,
+   "location": 2,
+   "content": "多选择一些架枪角度",
+   "music": 0.0
+  },
+  {
+   "from": 404.03,
+   "to": 405.97,
+   "sid": 188,
+   "location": 2,
+   "content": "而不是选择占一些常规点位",
+   "music": 0.0
+  },
+  {
+   "from": 405.97,
+   "to": 407.59,
+   "sid": 189,
+   "location": 2,
+   "content": "我们多找一些架枪的角度",
+   "music": 0.0
+  },
+  {
+   "from": 407.59,
+   "to": 409.98,
+   "sid": 190,
+   "location": 2,
+   "content": "能够增加你对对枪肌肉记忆的样本",
+   "music": 0.0
+  },
+  {
+   "from": 409.98,
+   "to": 412.7,
+   "sid": 191,
+   "location": 2,
+   "content": "架枪是无畏七游里面非常常见的对枪场景",
+   "music": 0.0
+  },
+  {
+   "from": 412.7,
+   "to": 414.26,
+   "sid": 192,
+   "location": 2,
+   "content": "这个也是很有必要去练习的",
+   "music": 0.0
+  },
+  {
+   "from": 414.26,
+   "to": 415.98,
+   "sid": 193,
+   "location": 2,
+   "content": "多去找一些这种劣势枪位",
+   "music": 0.0
+  },
+  {
+   "from": 415.98,
+   "to": 417.42,
+   "sid": 194,
+   "location": 2,
+   "content": "世界位练习架枪",
+   "music": 0.0
+  },
+  {
+   "from": 417.42,
+   "to": 418.74,
+   "sid": 195,
+   "location": 2,
+   "content": "我知道在死斗模式里面",
+   "music": 0.0
+  },
+  {
+   "from": 418.74,
+   "to": 421.2,
+   "sid": 196,
+   "location": 2,
+   "content": "同样会有很多架枪不主动寻找对枪的人",
+   "music": 0.0
+  },
+  {
+   "from": 421.2,
+   "to": 422.7,
+   "sid": 197,
+   "location": 2,
+   "content": "这种情况是很正常的",
+   "music": 0.0
+  },
+  {
+   "from": 422.7,
+   "to": 423.92,
+   "sid": 198,
+   "location": 2,
+   "content": "我的游戏经验告诉我",
+   "music": 0.0
+  },
+  {
+   "from": 423.92,
+   "to": 426.5,
+   "sid": 199,
+   "location": 2,
+   "content": "其实这个游戏是一个鼓励主动对枪的游戏",
+   "music": 0.0
+  },
+  {
+   "from": 426.5,
+   "to": 428.18,
+   "sid": 200,
+   "location": 2,
+   "content": "你并不能百分之百确保",
+   "music": 0.0
+  },
+  {
+   "from": 428.18,
+   "to": 430.3,
+   "sid": 201,
+   "location": 2,
+   "content": "你能在优势枪位架住你的对手",
+   "music": 0.0
+  },
+  {
+   "from": 430.3,
+   "to": 433.24,
+   "sid": 202,
+   "location": 2,
+   "content": "反之你的对手也不一定架得住你的peek",
+   "music": 0.0
+  },
+  {
+   "from": 433.24,
+   "to": 435.12,
+   "sid": 203,
+   "location": 2,
+   "content": "所以呢在store里面做热身训练",
+   "music": 0.0
+  },
+  {
+   "from": 435.12,
+   "to": 436.64,
+   "sid": 204,
+   "location": 2,
+   "content": "我们不光要调整好自己的育苗",
+   "music": 0.0
+  },
+  {
+   "from": 436.64,
+   "to": 439.0,
+   "sid": 205,
+   "location": 2,
+   "content": "也要调整好我们自己的注意力分配",
+   "music": 0.0
+  },
+  {
+   "from": 439.0,
+   "to": 441.38,
+   "sid": 206,
+   "location": 2,
+   "content": "不需要在每一个场景保持专注力",
+   "music": 0.0
+  },
+  {
+   "from": 441.38,
+   "to": 442.5,
+   "sid": 207,
+   "location": 2,
+   "content": "做好对枪准备",
+   "music": 0.0
+  },
+  {
+   "from": 442.5,
+   "to": 445.06,
+   "sid": 208,
+   "location": 2,
+   "content": "我们只需要让自己尽可能的放松下来",
+   "music": 0.0
+  },
+  {
+   "from": 445.06,
+   "to": 447.78,
+   "sid": 209,
+   "location": 2,
+   "content": "然后呢架住自己本应该对过的枪",
+   "music": 0.0
+  },
+  {
+   "from": 447.78,
+   "to": 448.78,
+   "sid": 210,
+   "location": 2,
+   "content": "你也没有必要",
+   "music": 0.0
+  },
+  {
+   "from": 448.78,
+   "to": 451.1,
+   "sid": 211,
+   "location": 2,
+   "content": "因为你在死斗里面显得像个老六阴人",
+   "music": 0.0
+  },
+  {
+   "from": 451.1,
+   "to": 452.23,
+   "sid": 212,
+   "location": 2,
+   "content": "而感到羞耻",
+   "music": 0.0
+  },
+  {
+   "from": 452.23,
+   "to": 453.67,
+   "sid": 213,
+   "location": 2,
+   "content": "你只不过是在找到",
+   "music": 0.0
+  },
+  {
+   "from": 453.67,
+   "to": 455.67,
+   "sid": 214,
+   "location": 2,
+   "content": "接下来要开启排位模式的动力",
+   "music": 0.0
+  },
+  {
+   "from": 455.67,
+   "to": 457.22,
+   "sid": 215,
+   "location": 2,
+   "content": "一个愉悦的心情",
+   "music": 0.0
+  },
+  {
+   "from": 457.22,
+   "to": 458.76,
+   "sid": 216,
+   "location": 2,
+   "content": "如果有人因此攻击你",
+   "music": 0.0
+  },
+  {
+   "from": 458.76,
+   "to": 460.49,
+   "sid": 217,
+   "location": 2,
+   "content": "你也没有必要给任何的反应",
+   "music": 0.0
+  },
+  {
+   "from": 460.49,
+   "to": 461.29,
+   "sid": 218,
+   "location": 2,
+   "content": "反过来呢",
+   "music": 0.0
+  },
+  {
+   "from": 461.29,
+   "to": 463.97,
+   "sid": 219,
+   "location": 2,
+   "content": "如果你因为一把死斗模式毁掉了自己的心情",
+   "music": 0.0
+  },
+  {
+   "from": 463.97,
+   "to": 465.37,
+   "sid": 220,
+   "location": 2,
+   "content": "让自己变得抓狂了",
+   "music": 0.0
+  },
+  {
+   "from": 465.37,
+   "to": 466.85,
+   "sid": 221,
+   "location": 2,
+   "content": "那么你需要及时调整",
+   "music": 0.0
+  },
+  {
+   "from": 466.85,
+   "to": 468.81,
+   "sid": 222,
+   "location": 2,
+   "content": "因为这只是在浪费自己的能量",
+   "music": 0.0
+  },
+  {
+   "from": 468.81,
+   "to": 471.01,
+   "sid": 223,
+   "location": 2,
+   "content": "总之注意力分配这点很重要",
+   "music": 0.0
+  },
+  {
+   "from": 471.01,
+   "to": 472.29,
+   "sid": 224,
+   "location": 2,
+   "content": "保持一个好心情",
+   "music": 0.0
+  },
+  {
+   "from": 472.29,
+   "to": 473.47,
+   "sid": 225,
+   "location": 2,
+   "content": "更换一下准星",
+   "music": 0.0
+  },
+  {
+   "from": 473.47,
+   "to": 474.38,
+   "sid": 226,
+   "location": 2,
+   "content": "准星颜色",
+   "music": 0.0
+  },
+  {
+   "from": 474.38,
+   "to": 477.08,
+   "sid": 227,
+   "location": 2,
+   "content": "让自己对无畏契约重新充满新鲜感",
+   "music": 0.0
+  },
+  {
+   "from": 477.08,
+   "to": 479.19,
+   "sid": 228,
+   "location": 2,
+   "content": "也能提高你接下来的游戏状态",
+   "music": 0.0
+  },
+  {
+   "from": 479.19,
+   "to": 481.99,
+   "sid": 229,
+   "location": 2,
+   "content": "前面靶场练习部分里面讲的爆发式瞄准",
+   "music": 0.0
+  },
+  {
+   "from": 481.99,
+   "to": 483.83,
+   "sid": 230,
+   "location": 2,
+   "content": "扫射或者跟枪练习",
+   "music": 0.0
+  },
+  {
+   "from": 483.83,
+   "to": 487.21,
+   "sid": 231,
+   "location": 2,
+   "content": "你都可以在死斗模式里面去验证你的热身成果",
+   "music": 0.0
+  },
+  {
+   "from": 487.21,
+   "to": 488.01,
+   "sid": 232,
+   "location": 2,
+   "content": "除了这些",
+   "music": 0.0
+  },
+  {
+   "from": 488.01,
+   "to": 490.929,
+   "sid": 233,
+   "location": 2,
+   "content": "我们也可以在store里面模拟多种实战场景",
+   "music": 0.0
+  },
+  {
+   "from": 490.929,
+   "to": 491.869,
+   "sid": 234,
+   "location": 2,
+   "content": "来演示一下",
+   "music": 0.0
+  },
+  {
+   "from": 491.869,
+   "to": 493.169,
+   "sid": 235,
+   "location": 2,
+   "content": "比如说我现在复活到了一个",
+   "music": 0.0
+  },
+  {
+   "from": 493.169,
+   "to": 494.509,
+   "sid": 236,
+   "location": 2,
+   "content": "我不是很喜欢的一个地方",
+   "music": 0.0
+  },
+  {
+   "from": 494.509,
+   "to": 496.089,
+   "sid": 237,
+   "location": 2,
+   "content": "我就会直接切到快速前往",
+   "music": 0.0
+  },
+  {
+   "from": 496.089,
+   "to": 497.98,
+   "sid": 238,
+   "location": 2,
+   "content": "我想要练习的对枪场景",
+   "music": 0.0
+  },
+  {
+   "from": 497.98,
+   "to": 500.64,
+   "sid": 239,
+   "location": 2,
+   "content": "唉比如说我这个地方能模拟一下A区的进攻",
+   "music": 0.0
+  },
+  {
+   "from": 500.64,
+   "to": 501.96,
+   "sid": 240,
+   "location": 2,
+   "content": "做一下预瞄练习",
+   "music": 0.0
+  },
+  {
+   "from": 501.96,
+   "to": 503.86,
+   "sid": 241,
+   "location": 2,
+   "content": "找人对一下枪对吧",
+   "music": 0.0
+  },
+  {
+   "from": 503.86,
+   "to": 507.1,
+   "sid": 242,
+   "location": 2,
+   "content": "这个地方很显然就是一个很热门的对枪场景",
+   "music": 0.0
+  },
+  {
+   "from": 507.1,
+   "to": 509.22,
+   "sid": 243,
+   "location": 2,
+   "content": "多通过这样的方式进行死斗练习",
+   "music": 0.0
+  },
+  {
+   "from": 509.22,
+   "to": 511.5,
+   "sid": 244,
+   "location": 2,
+   "content": "就是非常有效的预瞄练枪的方法",
+   "music": 0.0
+  },
+  {
+   "from": 511.5,
+   "to": 513.14,
+   "sid": 245,
+   "location": 2,
+   "content": "有很多人不知道死斗怎么练",
+   "music": 0.0
+  },
+  {
+   "from": 513.14,
+   "to": 515.95,
+   "sid": 246,
+   "location": 2,
+   "content": "就是不知道怎么找热门的对枪点位去练习",
+   "music": 0.0
+  },
+  {
+   "from": 515.95,
+   "to": 517.51,
+   "sid": 247,
+   "location": 2,
+   "content": "这个方法适合赛前热身",
+   "music": 0.0
+  },
+  {
+   "from": 517.51,
+   "to": 519.36,
+   "sid": 248,
+   "location": 2,
+   "content": "同样也适合赛后的练枪",
+   "music": 0.0
+  },
+  {
+   "from": 519.36,
+   "to": 521.92,
+   "sid": 249,
+   "location": 2,
+   "content": "那么也是希望这期视频内容呢能够帮助到你",
+   "music": 0.0
+  },
+  {
+   "from": 521.92,
+   "to": 522.9,
+   "sid": 250,
+   "location": 2,
+   "content": "找到竞技状态",
+   "music": 0.0
+  },
+  {
+   "from": 522.9,
+   "to": 524.44,
+   "sid": 251,
+   "location": 2,
+   "content": "如果这期视频对你有帮助呢",
+   "music": 0.0
+  },
+  {
+   "from": 524.44,
+   "to": 526.4,
+   "sid": 252,
+   "location": 2,
+   "content": "希望大家不要吝啬自己的一键三连",
+   "music": 0.0
+  },
+  {
+   "from": 526.4,
+   "to": 527.52,
+   "sid": 253,
+   "location": 2,
+   "content": "做教学视频不易",
+   "music": 0.0
+  },
+  {
+   "from": 527.52,
+   "to": 529.1,
+   "sid": 254,
+   "location": 2,
+   "content": "非常需要大家的数据支持",
+   "music": 0.0
+  },
+  {
+   "from": 529.1,
+   "to": 530.6,
+   "sid": 255,
+   "location": 2,
+   "content": "有关于其他练枪的问题",
+   "music": 0.0
+  },
+  {
+   "from": 530.6,
+   "to": 531.76,
+   "sid": 256,
+   "location": 2,
+   "content": "也可以在评论区留言",
+   "music": 0.0
+  },
+  {
+   "from": 531.76,
+   "to": 533.14,
+   "sid": 257,
+   "location": 2,
+   "content": "主播会尽量回复",
+   "music": 0.0
+  }
+ ]
+}

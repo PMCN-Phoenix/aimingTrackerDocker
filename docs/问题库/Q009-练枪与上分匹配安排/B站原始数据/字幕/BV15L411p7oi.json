@@ -1,0 +1,1548 @@
+{
+ "font_size": 0.4,
+ "font_color": "#FFFFFF",
+ "background_alpha": 0.5,
+ "background_color": "#9C27B0",
+ "Stroke": "none",
+ "type": "AIsubtitle",
+ "lang": "zh",
+ "version": "1.5.0",
+ "body": [
+  {
+   "from": 6.32,
+   "to": 7.24,
+   "sid": 1,
+   "location": 2,
+   "content": "各位朋友大家好",
+   "music": 0.0
+  },
+  {
+   "from": 7.24,
+   "to": 7.84,
+   "sid": 2,
+   "location": 2,
+   "content": "我是东彦",
+   "music": 0.0
+  },
+  {
+   "from": 7.84,
+   "to": 10.15,
+   "sid": 3,
+   "location": 2,
+   "content": "我今天带来这个瞄准系列教学第五期",
+   "music": 0.0
+  },
+  {
+   "from": 10.15,
+   "to": 12.7,
+   "sid": 4,
+   "location": 2,
+   "content": "我们在前面几期教学中阐述了瞄准的精髓",
+   "music": 0.0
+  },
+  {
+   "from": 12.7,
+   "to": 13.54,
+   "sid": 5,
+   "location": 2,
+   "content": "也是手眼协调",
+   "music": 0.0
+  },
+  {
+   "from": 13.54,
+   "to": 14.52,
+   "sid": 6,
+   "location": 2,
+   "content": "而不是肌肉记忆",
+   "music": 0.0
+  },
+  {
+   "from": 14.52,
+   "to": 16.5,
+   "sid": 7,
+   "location": 2,
+   "content": "又分别讲清楚了手部控制能力",
+   "music": 0.0
+  },
+  {
+   "from": 16.5,
+   "to": 18.21,
+   "sid": 8,
+   "location": 2,
+   "content": "和眼镜阅读的练习方法",
+   "music": 0.0
+  },
+  {
+   "from": 18.21,
+   "to": 19.44,
+   "sid": 9,
+   "location": 2,
+   "content": "同时还教会了大家",
+   "music": 0.0
+  },
+  {
+   "from": 19.44,
+   "to": 21.39,
+   "sid": 10,
+   "location": 2,
+   "content": "如何优化自己的握法和发力方式",
+   "music": 0.0
+  },
+  {
+   "from": 21.39,
+   "to": 23.67,
+   "sid": 11,
+   "location": 2,
+   "content": "嗯但根据很多观众朋友的反馈",
+   "music": 0.0
+  },
+  {
+   "from": 23.67,
+   "to": 25.95,
+   "sid": 12,
+   "location": 2,
+   "content": "我发现还是有蛮多朋友在使用练枪软件",
+   "music": 0.0
+  },
+  {
+   "from": 25.95,
+   "to": 27.33,
+   "sid": 13,
+   "location": 2,
+   "content": "来提升自身瞄准能力的时候",
+   "music": 0.0
+  },
+  {
+   "from": 27.33,
+   "to": 28.29,
+   "sid": 14,
+   "location": 2,
+   "content": "存在一些误区",
+   "music": 0.0
+  },
+  {
+   "from": 28.29,
+   "to": 30.67,
+   "sid": 15,
+   "location": 2,
+   "content": "跟枪猎人猎人实战反而越拉胯了",
+   "music": 0.0
+  },
+  {
+   "from": 30.67,
+   "to": 33.25,
+   "sid": 16,
+   "location": 2,
+   "content": "所以今天我来教大家如何更有效的练枪",
+   "music": 0.0
+  },
+  {
+   "from": 33.25,
+   "to": 34.27,
+   "sid": 17,
+   "location": 2,
+   "content": "同时再让大家知道",
+   "music": 0.0
+  },
+  {
+   "from": 34.27,
+   "to": 36.07,
+   "sid": 18,
+   "location": 2,
+   "content": "练枪对于实战到底有什么作用",
+   "music": 0.0
+  },
+  {
+   "from": 36.07,
+   "to": 39.08,
+   "sid": 19,
+   "location": 2,
+   "content": "练枪软件的局限性到底在哪里嗯",
+   "music": 0.0
+  },
+  {
+   "from": 39.08,
+   "to": 41.54,
+   "sid": 20,
+   "location": 2,
+   "content": "练枪软件相比于实战最有用的地方就在于",
+   "music": 0.0
+  },
+  {
+   "from": 41.54,
+   "to": 44.63,
+   "sid": 21,
+   "location": 2,
+   "content": "练枪软件对于瞄准水平提升更加直接和有效",
+   "music": 0.0
+  },
+  {
+   "from": 44.63,
+   "to": 47.819,
+   "sid": 22,
+   "location": 2,
+   "content": "你打一局CSGO瞄准定位的次数可能也就数十次",
+   "music": 0.0
+  },
+  {
+   "from": 47.819,
+   "to": 50.909,
+   "sid": 23,
+   "location": 2,
+   "content": "但打练枪软件一分钟可能就定位300多次",
+   "music": 0.0
+  },
+  {
+   "from": 50.909,
+   "to": 52.919,
+   "sid": 24,
+   "location": 2,
+   "content": "如此集中并针对性的练习",
+   "music": 0.0
+  },
+  {
+   "from": 52.919,
+   "to": 55.36,
+   "sid": 25,
+   "location": 2,
+   "content": "对于瞄准水平提高是有着显著作用的",
+   "music": 0.0
+  },
+  {
+   "from": 55.36,
+   "to": 57.46,
+   "sid": 26,
+   "location": 2,
+   "content": "同时练枪软件还以分数的形式",
+   "music": 0.0
+  },
+  {
+   "from": 57.46,
+   "to": 59.14,
+   "sid": 27,
+   "location": 2,
+   "content": "时刻对你自身的瞄准能力",
+   "music": 0.0
+  },
+  {
+   "from": 59.14,
+   "to": 61.5,
+   "sid": 28,
+   "location": 2,
+   "content": "提供了一个可量化的一个反馈呃",
+   "music": 0.0
+  },
+  {
+   "from": 61.5,
+   "to": 63.06,
+   "sid": 29,
+   "location": 2,
+   "content": "如果你的分数得以快速提高",
+   "music": 0.0
+  },
+  {
+   "from": 63.06,
+   "to": 65.04,
+   "sid": 30,
+   "location": 2,
+   "content": "这种可量化的正反馈带来的快感",
+   "music": 0.0
+  },
+  {
+   "from": 65.04,
+   "to": 67.23,
+   "sid": 31,
+   "location": 2,
+   "content": "甚至不亚于直接玩游戏并获胜",
+   "music": 0.0
+  },
+  {
+   "from": 67.23,
+   "to": 68.86,
+   "sid": 32,
+   "location": 2,
+   "content": "所能带来的快乐的",
+   "music": 0.0
+  },
+  {
+   "from": 68.86,
+   "to": 71.44,
+   "sid": 33,
+   "location": 2,
+   "content": "更别说还有多项目对比式的一个练习",
+   "music": 0.0
+  },
+  {
+   "from": 71.44,
+   "to": 73.539,
+   "sid": 34,
+   "location": 2,
+   "content": "对于自身瞄准缺陷的一个发掘作用了",
+   "music": 0.0
+  },
+  {
+   "from": 73.539,
+   "to": 75.519,
+   "sid": 35,
+   "location": 2,
+   "content": "因为磁力成长机最大的用处",
+   "music": 0.0
+  },
+  {
+   "from": 75.519,
+   "to": 78.16,
+   "sid": 36,
+   "location": 2,
+   "content": "就是短时间内快速提高自身瞄准水平",
+   "music": 0.0
+  },
+  {
+   "from": 78.16,
+   "to": 80.14,
+   "sid": 37,
+   "location": 2,
+   "content": "对于那些基础比较差的模型来说",
+   "music": 0.0
+  },
+  {
+   "from": 80.14,
+   "to": 82.18,
+   "sid": 38,
+   "location": 2,
+   "content": "练枪软件就是他们提高文章水平的",
+   "music": 0.0
+  },
+  {
+   "from": 82.18,
+   "to": 83.42,
+   "sid": 39,
+   "location": 2,
+   "content": "最有效的一个手段",
+   "music": 0.0
+  },
+  {
+   "from": 83.42,
+   "to": 86.42,
+   "sid": 40,
+   "location": 2,
+   "content": "那么练枪软件对于瞄准能力的提高如此显著",
+   "music": 0.0
+  },
+  {
+   "from": 86.42,
+   "to": 88.16,
+   "sid": 41,
+   "location": 2,
+   "content": "为什么会出现一片枪声数越高",
+   "music": 0.0
+  },
+  {
+   "from": 88.16,
+   "to": 89.8,
+   "sid": 42,
+   "location": 2,
+   "content": "实战越拉胯这种情况呢",
+   "music": 0.0
+  },
+  {
+   "from": 89.8,
+   "to": 91.06,
+   "sid": 43,
+   "location": 2,
+   "content": "呃那在很多情况下",
+   "music": 0.0
+  },
+  {
+   "from": 91.06,
+   "to": 93.1,
+   "sid": 44,
+   "location": 2,
+   "content": "都是因为你对于这个练枪软件的一个练习",
+   "music": 0.0
+  },
+  {
+   "from": 93.1,
+   "to": 94.6,
+   "sid": 45,
+   "location": 2,
+   "content": "时间安排出现了问题",
+   "music": 0.0
+  },
+  {
+   "from": 94.6,
+   "to": 96.94,
+   "sid": 46,
+   "location": 2,
+   "content": "那么练枪软件练习实战一样",
+   "music": 0.0
+  },
+  {
+   "from": 96.94,
+   "to": 98.34,
+   "sid": 47,
+   "location": 2,
+   "content": "都是需要全力以赴的",
+   "music": 0.0
+  },
+  {
+   "from": 98.34,
+   "to": 101.04,
+   "sid": 48,
+   "location": 2,
+   "content": "那么对于自身精力消耗也是不容小觑的",
+   "music": 0.0
+  },
+  {
+   "from": 101.04,
+   "to": 102.48,
+   "sid": 49,
+   "location": 2,
+   "content": "诶今天练枪两小时",
+   "music": 0.0
+  },
+  {
+   "from": 102.48,
+   "to": 104.78,
+   "sid": 50,
+   "location": 2,
+   "content": "可能瞄准水平从一提升到了一点一",
+   "music": 0.0
+  },
+  {
+   "from": 104.78,
+   "to": 106.94,
+   "sid": 51,
+   "location": 2,
+   "content": "但精力也可能从满状态的100%",
+   "music": 0.0
+  },
+  {
+   "from": 106.94,
+   "to": 108.2,
+   "sid": 52,
+   "location": 2,
+   "content": "消耗到90%",
+   "music": 0.0
+  },
+  {
+   "from": 108.2,
+   "to": 109.64,
+   "sid": 53,
+   "location": 2,
+   "content": "那么一乘以100%",
+   "music": 0.0
+  },
+  {
+   "from": 109.64,
+   "to": 111.56,
+   "sid": 54,
+   "location": 2,
+   "content": "大于一点一乘以90%",
+   "music": 0.0
+  },
+  {
+   "from": 111.56,
+   "to": 113.48,
+   "sid": 55,
+   "location": 2,
+   "content": "如果你练枪练了很长时间",
+   "music": 0.0
+  },
+  {
+   "from": 113.48,
+   "to": 116.4,
+   "sid": 56,
+   "location": 2,
+   "content": "然后在这种精力消耗有任何情况下要去打天梯",
+   "music": 0.0
+  },
+  {
+   "from": 116.4,
+   "to": 119.04,
+   "sid": 57,
+   "location": 2,
+   "content": "那你这个练枪分数即使练的再高",
+   "music": 0.0
+  },
+  {
+   "from": 119.04,
+   "to": 120.42,
+   "sid": 58,
+   "location": 2,
+   "content": "因为你精力消耗太严重了",
+   "music": 0.0
+  },
+  {
+   "from": 120.42,
+   "to": 122.7,
+   "sid": 59,
+   "location": 2,
+   "content": "所以实战反而会显得非常拉胯",
+   "music": 0.0
+  },
+  {
+   "from": 122.98,
+   "to": 125.1,
+   "sid": 60,
+   "location": 2,
+   "content": "因此在达到你满意的瞄准水平之前",
+   "music": 0.0
+  },
+  {
+   "from": 125.1,
+   "to": 126.36,
+   "sid": 61,
+   "location": 2,
+   "content": "更合理的时间安排的是",
+   "music": 0.0
+  },
+  {
+   "from": 126.36,
+   "to": 129.03,
+   "sid": 62,
+   "location": 2,
+   "content": "练枪与实战的一个交替式的集中训练",
+   "music": 0.0
+  },
+  {
+   "from": 129.03,
+   "to": 131.3,
+   "sid": 63,
+   "location": 2,
+   "content": "就比如说你这个周啊就啥都不干",
+   "music": 0.0
+  },
+  {
+   "from": 131.3,
+   "to": 132.29,
+   "sid": 64,
+   "location": 2,
+   "content": "就集中练枪",
+   "music": 0.0
+  },
+  {
+   "from": 132.29,
+   "to": 134.78,
+   "sid": 65,
+   "location": 2,
+   "content": "每天把游戏实战的大部分都分给这个练枪",
+   "music": 0.0
+  },
+  {
+   "from": 134.78,
+   "to": 136.2,
+   "sid": 66,
+   "location": 2,
+   "content": "那实战就少打打",
+   "music": 0.0
+  },
+  {
+   "from": 136.2,
+   "to": 138.6,
+   "sid": 67,
+   "location": 2,
+   "content": "也就打打匹配休闲的5万减的模型",
+   "music": 0.0
+  },
+  {
+   "from": 138.6,
+   "to": 139.8,
+   "sid": 68,
+   "location": 2,
+   "content": "那么在到了下个周",
+   "music": 0.0
+  },
+  {
+   "from": 139.8,
+   "to": 142.23,
+   "sid": 69,
+   "location": 2,
+   "content": "你再去这个集中注意力去打实战",
+   "music": 0.0
+  },
+  {
+   "from": 142.23,
+   "to": 144.03,
+   "sid": 70,
+   "location": 2,
+   "content": "那么在实战开始前20分钟",
+   "music": 0.0
+  },
+  {
+   "from": 144.03,
+   "to": 145.17,
+   "sid": 71,
+   "location": 2,
+   "content": "这个去练练枪啊",
+   "music": 0.0
+  },
+  {
+   "from": 145.17,
+   "to": 145.71,
+   "sid": 72,
+   "location": 2,
+   "content": "热身啊",
+   "music": 0.0
+  },
+  {
+   "from": 145.71,
+   "to": 147.09,
+   "sid": 73,
+   "location": 2,
+   "content": "去维持一下瞄准水平就可以了",
+   "music": 0.0
+  },
+  {
+   "from": 147.09,
+   "to": 149.2,
+   "sid": 74,
+   "location": 2,
+   "content": "就不需要花太多精力在练枪上了",
+   "music": 0.0
+  },
+  {
+   "from": 149.2,
+   "to": 150.58,
+   "sid": 75,
+   "location": 2,
+   "content": "然后再到下周的时候",
+   "music": 0.0
+  },
+  {
+   "from": 150.58,
+   "to": 152.98,
+   "sid": 76,
+   "location": 2,
+   "content": "你再把这个精力就集中在练枪里啊",
+   "music": 0.0
+  },
+  {
+   "from": 152.98,
+   "to": 155.75,
+   "sid": 77,
+   "location": 2,
+   "content": "就这样子这个交替循环的一个安排训练",
+   "music": 0.0
+  },
+  {
+   "from": 155.75,
+   "to": 157.43,
+   "sid": 78,
+   "location": 2,
+   "content": "那么只有同种方式练枪",
+   "music": 0.0
+  },
+  {
+   "from": 157.43,
+   "to": 158.87,
+   "sid": 79,
+   "location": 2,
+   "content": "对于你实战的提升在于小",
+   "music": 0.0
+  },
+  {
+   "from": 158.87,
+   "to": 160.41,
+   "sid": 80,
+   "location": 2,
+   "content": "这个比较明显啊",
+   "music": 0.0
+  },
+  {
+   "from": 160.41,
+   "to": 161.46,
+   "sid": 81,
+   "location": 2,
+   "content": "不然你就会发现啊",
+   "music": 0.0
+  },
+  {
+   "from": 161.46,
+   "to": 162.81,
+   "sid": 82,
+   "location": 2,
+   "content": "哦我练枪练了好久",
+   "music": 0.0
+  },
+  {
+   "from": 162.81,
+   "to": 164.19,
+   "sid": 83,
+   "location": 2,
+   "content": "我感觉这个瞄准水平提高了",
+   "music": 0.0
+  },
+  {
+   "from": 164.19,
+   "to": 165.56,
+   "sid": 84,
+   "location": 2,
+   "content": "但为什么到了实战",
+   "music": 0.0
+  },
+  {
+   "from": 165.56,
+   "to": 167.06,
+   "sid": 85,
+   "location": 2,
+   "content": "你们感觉自己很拉胯",
+   "music": 0.0
+  },
+  {
+   "from": 167.06,
+   "to": 168.32,
+   "sid": 86,
+   "location": 2,
+   "content": "感觉我练了个寂寞啊",
+   "music": 0.0
+  },
+  {
+   "from": 168.32,
+   "to": 169.46,
+   "sid": 87,
+   "location": 2,
+   "content": "这种情况啊",
+   "music": 0.0
+  },
+  {
+   "from": 169.46,
+   "to": 171.47,
+   "sid": 88,
+   "location": 2,
+   "content": "我发现是很多朋友都会遇到的",
+   "music": 0.0
+  },
+  {
+   "from": 171.47,
+   "to": 174.34,
+   "sid": 89,
+   "location": 2,
+   "content": "很多小孩都是因为你在这打实战之前",
+   "music": 0.0
+  },
+  {
+   "from": 174.34,
+   "to": 175.84,
+   "sid": 90,
+   "location": 2,
+   "content": "花费太多精力在练枪上",
+   "music": 0.0
+  },
+  {
+   "from": 175.84,
+   "to": 176.8,
+   "sid": 91,
+   "location": 2,
+   "content": "然后到实战的时候",
+   "music": 0.0
+  },
+  {
+   "from": 176.8,
+   "to": 179.62,
+   "sid": 92,
+   "location": 2,
+   "content": "你反而就没有精力去好好瞄准了",
+   "music": 0.0
+  },
+  {
+   "from": 180.24,
+   "to": 181.88,
+   "sid": 93,
+   "location": 2,
+   "content": "嗯但是要注意的一点是",
+   "music": 0.0
+  },
+  {
+   "from": 181.88,
+   "to": 184.52,
+   "sid": 94,
+   "location": 2,
+   "content": "假如说你的这个瞄准能力提升到了优秀水平",
+   "music": 0.0
+  },
+  {
+   "from": 184.52,
+   "to": 186.72,
+   "sid": 95,
+   "location": 2,
+   "content": "也就是我以前提到过的一个cs项目",
+   "music": 0.0
+  },
+  {
+   "from": 186.72,
+   "to": 189.0,
+   "sid": 96,
+   "location": 2,
+   "content": "我也是mi6标项目的12万分导师",
+   "music": 0.0
+  },
+  {
+   "from": 189.0,
+   "to": 190.26,
+   "sid": 97,
+   "location": 2,
+   "content": "3万分左右水平",
+   "music": 0.0
+  },
+  {
+   "from": 190.26,
+   "to": 191.64,
+   "sid": 98,
+   "location": 2,
+   "content": "那么在这个阶段下",
+   "music": 0.0
+  },
+  {
+   "from": 191.64,
+   "to": 192.54,
+   "sid": 99,
+   "location": 2,
+   "content": "瞄准能够提高",
+   "music": 0.0
+  },
+  {
+   "from": 192.54,
+   "to": 195.1,
+   "sid": 100,
+   "location": 2,
+   "content": "对于实战的边际效用就趋近于零了",
+   "music": 0.0
+  },
+  {
+   "from": 195.1,
+   "to": 195.88,
+   "sid": 101,
+   "location": 2,
+   "content": "也就是说",
+   "music": 0.0
+  },
+  {
+   "from": 195.88,
+   "to": 198.4,
+   "sid": 102,
+   "location": 2,
+   "content": "假如有一天你的瞄准水平达到了所谓的六水平",
+   "music": 0.0
+  },
+  {
+   "from": 198.4,
+   "to": 200.89,
+   "sid": 103,
+   "location": 2,
+   "content": "你的瞄准能力在此基础上再怎么提升",
+   "music": 0.0
+  },
+  {
+   "from": 200.89,
+   "to": 203.44,
+   "sid": 104,
+   "location": 2,
+   "content": "那么对你的实战中的影响也不会很大",
+   "music": 0.0
+  },
+  {
+   "from": 203.44,
+   "to": 205.3,
+   "sid": 105,
+   "location": 2,
+   "content": "因此对于这类人来讲",
+   "music": 0.0
+  },
+  {
+   "from": 205.3,
+   "to": 206.98,
+   "sid": 106,
+   "location": 2,
+   "content": "除非追求瞄准的那个极速突破",
+   "music": 0.0
+  },
+  {
+   "from": 206.98,
+   "to": 209.06,
+   "sid": 107,
+   "location": 2,
+   "content": "或者是追求什么世界纪录啊这些",
+   "music": 0.0
+  },
+  {
+   "from": 209.06,
+   "to": 211.4,
+   "sid": 108,
+   "location": 2,
+   "content": "否则就没有必要再去集中注意力",
+   "music": 0.0
+  },
+  {
+   "from": 211.4,
+   "to": 212.84,
+   "sid": 109,
+   "location": 2,
+   "content": "进行一个练枪了啊",
+   "music": 0.0
+  },
+  {
+   "from": 212.84,
+   "to": 214.58,
+   "sid": 110,
+   "location": 2,
+   "content": "这个实战之前随便练一下",
+   "music": 0.0
+  },
+  {
+   "from": 214.58,
+   "to": 216.28,
+   "sid": 111,
+   "location": 2,
+   "content": "然后用着手感就可以了",
+   "music": 0.0
+  },
+  {
+   "from": 216.28,
+   "to": 219.04,
+   "sid": 112,
+   "location": 2,
+   "content": "那么这也是多职业选手在其他职业水平之后",
+   "music": 0.0
+  },
+  {
+   "from": 219.04,
+   "to": 219.76,
+   "sid": 113,
+   "location": 2,
+   "content": "就不会再练枪",
+   "music": 0.0
+  },
+  {
+   "from": 219.76,
+   "to": 220.72,
+   "sid": 114,
+   "location": 2,
+   "content": "这一方面消耗过多",
+   "music": 0.0
+  },
+  {
+   "from": 220.72,
+   "to": 221.7,
+   "sid": 115,
+   "location": 2,
+   "content": "进步一个原因",
+   "music": 0.0
+  },
+  {
+   "from": 223.54,
+   "to": 226.38,
+   "sid": 116,
+   "location": 2,
+   "content": "那为什么瞄准水平在达到这个游戏水平之后",
+   "music": 0.0
+  },
+  {
+   "from": 226.38,
+   "to": 227.16,
+   "sid": 117,
+   "location": 2,
+   "content": "瞄准能力的提高",
+   "music": 0.0
+  },
+  {
+   "from": 227.16,
+   "to": 229.28,
+   "sid": 118,
+   "location": 2,
+   "content": "对于实战的边际效应就趋近于零了呢",
+   "music": 0.0
+  },
+  {
+   "from": 229.28,
+   "to": 230.9,
+   "sid": 119,
+   "location": 2,
+   "content": "这是因为在射击游戏里面",
+   "music": 0.0
+  },
+  {
+   "from": 230.9,
+   "to": 233.2,
+   "sid": 120,
+   "location": 2,
+   "content": "瞄准只是最表面最浅层的一个东西",
+   "music": 0.0
+  },
+  {
+   "from": 233.2,
+   "to": 235.0,
+   "sid": 121,
+   "location": 2,
+   "content": "影响你发挥的除了瞄准水平",
+   "music": 0.0
+  },
+  {
+   "from": 235.0,
+   "to": 235.75,
+   "sid": 122,
+   "location": 2,
+   "content": "还有很多",
+   "music": 0.0
+  },
+  {
+   "from": 235.75,
+   "to": 237.7,
+   "sid": 123,
+   "location": 2,
+   "content": "特别是在竞技游戏的顶分局中",
+   "music": 0.0
+  },
+  {
+   "from": 237.7,
+   "to": 239.22,
+   "sid": 124,
+   "location": 2,
+   "content": "这一点显得尤其明显",
+   "music": 0.0
+  },
+  {
+   "from": 239.22,
+   "to": 240.84,
+   "sid": 125,
+   "location": 2,
+   "content": "呃即使不是在实战里",
+   "music": 0.0
+  },
+  {
+   "from": 240.84,
+   "to": 243.579,
+   "sid": 126,
+   "location": 2,
+   "content": "而在看似纯拼双方个人能力1V1单挑中",
+   "music": 0.0
+  },
+  {
+   "from": 243.579,
+   "to": 246.159,
+   "sid": 127,
+   "location": 2,
+   "content": "单纯的瞄准能力也不一定能决定胜负",
+   "music": 0.0
+  },
+  {
+   "from": 246.159,
+   "to": 247.659,
+   "sid": 128,
+   "location": 2,
+   "content": "那么现在视频中的画面",
+   "music": 0.0
+  },
+  {
+   "from": 247.659,
+   "to": 248.799,
+   "sid": 129,
+   "location": 2,
+   "content": "平时我和我的朋友",
+   "music": 0.0
+  },
+  {
+   "from": 248.799,
+   "to": 250.76,
+   "sid": 130,
+   "location": 2,
+   "content": "Q9的CSGO的一个单独的录像",
+   "music": 0.0
+  },
+  {
+   "from": 250.76,
+   "to": 252.14,
+   "sid": 131,
+   "location": 2,
+   "content": "Q9是我的一个朋友啊",
+   "music": 0.0
+  },
+  {
+   "from": 252.14,
+   "to": 254.34,
+   "sid": 132,
+   "location": 2,
+   "content": "但他这个瞄准能力呢和我差不多",
+   "music": 0.0
+  },
+  {
+   "from": 254.34,
+   "to": 256.56,
+   "sid": 133,
+   "location": 2,
+   "content": "但是他基本上不怎么玩cs各种游戏",
+   "music": 0.0
+  },
+  {
+   "from": 256.56,
+   "to": 258.7,
+   "sid": 134,
+   "location": 2,
+   "content": "然后但我是这个阿拉斯的前世界",
+   "music": 0.0
+  },
+  {
+   "from": 258.7,
+   "to": 261.13,
+   "sid": 135,
+   "location": 2,
+   "content": "对于准心类竞技游戏的理解要比他深厚",
+   "music": 0.0
+  },
+  {
+   "from": 261.13,
+   "to": 263.59,
+   "sid": 136,
+   "location": 2,
+   "content": "所以即使我们俩这个瞄准能力相反",
+   "music": 0.0
+  },
+  {
+   "from": 263.59,
+   "to": 266.35,
+   "sid": 137,
+   "location": 2,
+   "content": "因为我的预瞄也在身位控制比他好太多了",
+   "music": 0.0
+  },
+  {
+   "from": 266.35,
+   "to": 269.23,
+   "sid": 138,
+   "location": 2,
+   "content": "在单挑中就是基本上一个一边倒的碾压",
+   "music": 0.0
+  },
+  {
+   "from": 269.23,
+   "to": 271.78,
+   "sid": 139,
+   "location": 2,
+   "content": "那么这也是练枪压力的局限性所在",
+   "music": 0.0
+  },
+  {
+   "from": 271.78,
+   "to": 273.7,
+   "sid": 140,
+   "location": 2,
+   "content": "影响实战的变量太多",
+   "music": 0.0
+  },
+  {
+   "from": 273.7,
+   "to": 275.86,
+   "sid": 141,
+   "location": 2,
+   "content": "虽然瞄准能力一直是射击游戏里",
+   "music": 0.0
+  },
+  {
+   "from": 275.86,
+   "to": 277.38,
+   "sid": 142,
+   "location": 2,
+   "content": "各种角色最直观体现",
+   "music": 0.0
+  },
+  {
+   "from": 277.38,
+   "to": 279.06,
+   "sid": 143,
+   "location": 2,
+   "content": "但随着你天机分数的提高",
+   "music": 0.0
+  },
+  {
+   "from": 279.06,
+   "to": 280.8,
+   "sid": 144,
+   "location": 2,
+   "content": "其他变量就会显得越来越重要",
+   "music": 0.0
+  },
+  {
+   "from": 280.8,
+   "to": 282.84,
+   "sid": 145,
+   "location": 2,
+   "content": "而单纯的瞄准能力对于实战的重要性",
+   "music": 0.0
+  },
+  {
+   "from": 282.84,
+   "to": 284.46,
+   "sid": 146,
+   "location": 2,
+   "content": "就会逐渐下降",
+   "music": 0.0
+  },
+  {
+   "from": 284.46,
+   "to": 286.41,
+   "sid": 147,
+   "location": 2,
+   "content": "那么更直观的用图像来看",
+   "music": 0.0
+  },
+  {
+   "from": 286.41,
+   "to": 287.94,
+   "sid": 148,
+   "location": 2,
+   "content": "我们设瞄准水平为自变量",
+   "music": 0.0
+  },
+  {
+   "from": 287.94,
+   "to": 291.4,
+   "sid": 149,
+   "location": 2,
+   "content": "实战表现为因变量两人水平与实战能力的关系",
+   "music": 0.0
+  },
+  {
+   "from": 291.4,
+   "to": 292.33,
+   "sid": 150,
+   "location": 2,
+   "content": "如图所示",
+   "music": 0.0
+  },
+  {
+   "from": 292.33,
+   "to": 294.52,
+   "sid": 151,
+   "location": 2,
+   "content": "那么虽然这个图像一直是单增的",
+   "music": 0.0
+  },
+  {
+   "from": 294.52,
+   "to": 296.14,
+   "sid": 152,
+   "location": 2,
+   "content": "但是还有导函数是先单增",
+   "music": 0.0
+  },
+  {
+   "from": 296.14,
+   "to": 297.08,
+   "sid": 153,
+   "location": 2,
+   "content": "会单减的",
+   "music": 0.0
+  },
+  {
+   "from": 297.08,
+   "to": 298.82,
+   "sid": 154,
+   "location": 2,
+   "content": "因此我们很容易连败啊",
+   "music": 0.0
+  },
+  {
+   "from": 298.82,
+   "to": 301.82,
+   "sid": 155,
+   "location": 2,
+   "content": "对于sex shot就是ml6秒项目分数低于8万的",
+   "music": 0.0
+  },
+  {
+   "from": 301.82,
+   "to": 302.72,
+   "sid": 156,
+   "location": 2,
+   "content": "也就是我一直说的",
+   "music": 0.0
+  },
+  {
+   "from": 302.72,
+   "to": 304.71,
+   "sid": 157,
+   "location": 2,
+   "content": "这个瞄准能力不及格的模型来讲",
+   "music": 0.0
+  },
+  {
+   "from": 304.71,
+   "to": 306.63,
+   "sid": 158,
+   "location": 2,
+   "content": "我甚至鼓励你完全脱离实战",
+   "music": 0.0
+  },
+  {
+   "from": 306.63,
+   "to": 307.41,
+   "sid": 159,
+   "location": 2,
+   "content": "只专门练枪",
+   "music": 0.0
+  },
+  {
+   "from": 307.41,
+   "to": 308.68,
+   "sid": 160,
+   "location": 2,
+   "content": "先把基本功拉上来",
+   "music": 0.0
+  },
+  {
+   "from": 308.68,
+   "to": 311.44,
+   "sid": 161,
+   "location": 2,
+   "content": "因为对于这部分基本功不到位的玩家来讲",
+   "music": 0.0
+  },
+  {
+   "from": 311.44,
+   "to": 312.64,
+   "sid": 162,
+   "location": 2,
+   "content": "只提高瞄准水平",
+   "music": 0.0
+  },
+  {
+   "from": 312.64,
+   "to": 315.98,
+   "sid": 163,
+   "location": 2,
+   "content": "就能极大的改善他在这个深入的一个表现",
+   "music": 0.0
+  },
+  {
+   "from": 316.02,
+   "to": 318.54,
+   "sid": 164,
+   "location": 2,
+   "content": "然后对于8万到13万分的一个",
+   "music": 0.0
+  },
+  {
+   "from": 318.54,
+   "to": 319.86,
+   "sid": 165,
+   "location": 2,
+   "content": "及格线以上的软件来讲",
+   "music": 0.0
+  },
+  {
+   "from": 319.86,
+   "to": 322.32,
+   "sid": 166,
+   "location": 2,
+   "content": "我推荐你按照这个上文所提的练枪",
+   "music": 0.0
+  },
+  {
+   "from": 322.32,
+   "to": 324.96,
+   "sid": 167,
+   "location": 2,
+   "content": "实战交替安排的这种方法进行练习",
+   "music": 0.0
+  },
+  {
+   "from": 325.3,
+   "to": 326.98,
+   "sid": 168,
+   "location": 2,
+   "content": "然后对于这个13万分",
+   "music": 0.0
+  },
+  {
+   "from": 326.98,
+   "to": 328.72,
+   "sid": 169,
+   "location": 2,
+   "content": "也就是这个优优线以上的玩家",
+   "music": 0.0
+  },
+  {
+   "from": 328.72,
+   "to": 330.46,
+   "sid": 170,
+   "location": 2,
+   "content": "那就可以土耳连练枪软件",
+   "music": 0.0
+  },
+  {
+   "from": 330.46,
+   "to": 332.29,
+   "sid": 171,
+   "location": 2,
+   "content": "将跟枪软件完全属于热身工具",
+   "music": 0.0
+  },
+  {
+   "from": 332.29,
+   "to": 334.04,
+   "sid": 172,
+   "location": 2,
+   "content": "集中实战进行游玩了",
+   "music": 0.0
+  },
+  {
+   "from": 334.04,
+   "to": 336.44,
+   "sid": 173,
+   "location": 2,
+   "content": "本期视频到这里就快到尾声了",
+   "music": 0.0
+  },
+  {
+   "from": 336.44,
+   "to": 337.82,
+   "sid": 174,
+   "location": 2,
+   "content": "如果大家有帮助的话",
+   "music": 0.0
+  },
+  {
+   "from": 337.82,
+   "to": 339.94,
+   "sid": 175,
+   "location": 2,
+   "content": "希望大家能三连转发加关注",
+   "music": 0.0
+  },
+  {
+   "from": 339.94,
+   "to": 341.98,
+   "sid": 176,
+   "location": 2,
+   "content": "那么其实瞄准教学更新到这里",
+   "music": 0.0
+  },
+  {
+   "from": 341.98,
+   "to": 344.26,
+   "sid": 177,
+   "location": 2,
+   "content": "提升了的一个主要内容就基本上分享完了",
+   "music": 0.0
+  },
+  {
+   "from": 344.26,
+   "to": 345.51,
+   "sid": 178,
+   "location": 2,
+   "content": "正如上文所说",
+   "music": 0.0
+  },
+  {
+   "from": 345.51,
+   "to": 347.37,
+   "sid": 179,
+   "location": 2,
+   "content": "在FPS游戏的高分局里",
+   "music": 0.0
+  },
+  {
+   "from": 347.37,
+   "to": 350.12,
+   "sid": 180,
+   "location": 2,
+   "content": "游戏理解会显得比瞄准能力更加重要",
+   "music": 0.0
+  },
+  {
+   "from": 350.12,
+   "to": 352.94,
+   "sid": 181,
+   "location": 2,
+   "content": "因此我会将你教学中心转移到一个游戏里的",
+   "music": 0.0
+  },
+  {
+   "from": 352.94,
+   "to": 354.52,
+   "sid": 182,
+   "location": 2,
+   "content": "相关的教学当中去",
+   "music": 0.0
+  },
+  {
+   "from": 354.52,
+   "to": 356.32,
+   "sid": 183,
+   "location": 2,
+   "content": "那么这个系列已经更新了一期",
+   "music": 0.0
+  },
+  {
+   "from": 356.32,
+   "to": 358.03,
+   "sid": 184,
+   "location": 2,
+   "content": "有关于选美和加仓的视频",
+   "music": 0.0
+  },
+  {
+   "from": 358.03,
+   "to": 359.56,
+   "sid": 185,
+   "location": 2,
+   "content": "那么下一期更新的教学",
+   "music": 0.0
+  },
+  {
+   "from": 359.56,
+   "to": 361.98,
+   "sid": 186,
+   "location": 2,
+   "content": "就应该是中期决策有关的教学了",
+   "music": 0.0
+  },
+  {
+   "from": 361.98,
+   "to": 364.26,
+   "sid": 187,
+   "location": 2,
+   "content": "反而会以平均两周一更的频率",
+   "music": 0.0
+  },
+  {
+   "from": 364.26,
+   "to": 366.38,
+   "sid": 188,
+   "location": 2,
+   "content": "来可能吸引FPS有关的相关教学",
+   "music": 0.0
+  },
+  {
+   "from": 366.38,
+   "to": 369.11,
+   "sid": 189,
+   "location": 2,
+   "content": "平常要更新一些集锦或者游戏相关的视频",
+   "music": 0.0
+  },
+  {
+   "from": 369.11,
+   "to": 371.45,
+   "sid": 190,
+   "location": 2,
+   "content": "嗯如果你想提高自己FPS水平",
+   "music": 0.0
+  },
+  {
+   "from": 371.45,
+   "to": 374.25,
+   "sid": 191,
+   "location": 2,
+   "content": "不妨点关注本视频就给大家带到这里",
+   "music": 0.0
+  },
+  {
+   "from": 374.25,
+   "to": 375.08,
+   "sid": 192,
+   "location": 2,
+   "content": "那我们下期再见",
+   "music": 0.0
+  }
+ ]
+}

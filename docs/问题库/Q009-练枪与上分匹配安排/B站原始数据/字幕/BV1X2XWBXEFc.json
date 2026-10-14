@@ -1,0 +1,660 @@
+{
+ "font_size": 0.4,
+ "font_color": "#FFFFFF",
+ "background_alpha": 0.5,
+ "background_color": "#9C27B0",
+ "Stroke": "none",
+ "type": "AIsubtitle",
+ "lang": "zh",
+ "version": "sync-v1.7.0.4",
+ "body": [
+  {
+   "from": 0.0,
+   "to": 2.62,
+   "sid": 1,
+   "location": 2,
+   "content": "当你在em live coak中投入大量时间",
+   "music": 0.0
+  },
+  {
+   "from": 2.62,
+   "to": 5.58,
+   "sid": 2,
+   "location": 2,
+   "content": "到头来却发现自己的瞄准提升微乎其微",
+   "music": 0.0
+  },
+  {
+   "from": 5.58,
+   "to": 8.5,
+   "sid": 3,
+   "location": 2,
+   "content": "你不禁怀疑自己所做的一切还是否正确",
+   "music": 0.0
+  },
+  {
+   "from": 8.5,
+   "to": 10.34,
+   "sid": 4,
+   "location": 2,
+   "content": "甚至产生了退游的想法",
+   "music": 0.0
+  },
+  {
+   "from": 10.34,
+   "to": 13.38,
+   "sid": 5,
+   "location": 2,
+   "content": "屏幕前的你是否经历一段严重的瞄准焦虑时期",
+   "music": 0.0
+  },
+  {
+   "from": 13.38,
+   "to": 15.34,
+   "sid": 6,
+   "location": 2,
+   "content": "或者说你正在经历这段时期",
+   "music": 0.0
+  },
+  {
+   "from": 15.34,
+   "to": 18.98,
+   "sid": 7,
+   "location": 2,
+   "content": "今天就让我这位有着10年FPS经验的老年职业选手",
+   "music": 0.0
+  },
+  {
+   "from": 18.98,
+   "to": 22.38,
+   "sid": 8,
+   "location": 2,
+   "content": "带你剖析练枪软件与实战枪法之间的利害关系",
+   "music": 0.0
+  },
+  {
+   "from": 22.38,
+   "to": 23.1,
+   "sid": 9,
+   "location": 2,
+   "content": "首先声明",
+   "music": 0.0
+  },
+  {
+   "from": 23.1,
+   "to": 27.9,
+   "sid": 10,
+   "location": 2,
+   "content": "练枪软件的时长与FPS s实战技术之间从来都不是简单的时间越长",
+   "music": 0.0
+  },
+  {
+   "from": 27.9,
+   "to": 29.18,
+   "sid": 11,
+   "location": 2,
+   "content": "实力越强的关系",
+   "music": 0.0
+  },
+  {
+   "from": 29.18,
+   "to": 30.2,
+   "sid": 12,
+   "location": 2,
+   "content": "而是深度关联",
+   "music": 0.0
+  },
+  {
+   "from": 30.2,
+   "to": 32.4,
+   "sid": 13,
+   "location": 2,
+   "content": "却又存在转化壁垒的复杂逻辑",
+   "music": 0.0
+  },
+  {
+   "from": 32.4,
+   "to": 34.82,
+   "sid": 14,
+   "location": 2,
+   "content": "练枪软件是提升瞄准能力的基础",
+   "music": 0.0
+  },
+  {
+   "from": 34.82,
+   "to": 36.92,
+   "sid": 15,
+   "location": 2,
+   "content": "却并不能决定你的实战水平",
+   "music": 0.0
+  },
+  {
+   "from": 36.92,
+   "to": 38.6,
+   "sid": 16,
+   "location": 2,
+   "content": "这两者之间的利害关系",
+   "music": 0.0
+  },
+  {
+   "from": 38.6,
+   "to": 40.62,
+   "sid": 17,
+   "location": 2,
+   "content": "直接决定了你的训练是否有效",
+   "music": 0.0
+  },
+  {
+   "from": 40.62,
+   "to": 42.0,
+   "sid": 18,
+   "location": 2,
+   "content": "对绝大多数玩家而言",
+   "music": 0.0
+  },
+  {
+   "from": 42.0,
+   "to": 44.44,
+   "sid": 19,
+   "location": 2,
+   "content": "初期的练枪都有着一段蜜月期",
+   "music": 0.0
+  },
+  {
+   "from": 44.44,
+   "to": 45.44,
+   "sid": 20,
+   "location": 2,
+   "content": "在这段时间里",
+   "music": 0.0
+  },
+  {
+   "from": 45.44,
+   "to": 46.3,
+   "sid": 21,
+   "location": 2,
+   "content": "你的专注度",
+   "music": 0.0
+  },
+  {
+   "from": 46.3,
+   "to": 50.12,
+   "sid": 22,
+   "location": 2,
+   "content": "反应跟枪等基础能力进步速度是肉眼可见的",
+   "music": 0.0
+  },
+  {
+   "from": 50.12,
+   "to": 52.58,
+   "sid": 23,
+   "location": 2,
+   "content": "准星控制目标捕捉效率会大幅提升",
+   "music": 0.0
+  },
+  {
+   "from": 52.58,
+   "to": 55.62,
+   "sid": 24,
+   "location": 2,
+   "content": "他们直接反映在了你的实战对枪命中率中",
+   "music": 0.0
+  },
+  {
+   "from": 55.62,
+   "to": 59.06,
+   "sid": 25,
+   "location": 2,
+   "content": "当你满心欢喜的觉得自己的瞄准能力将会日益增长时",
+   "music": 0.0
+  },
+  {
+   "from": 59.06,
+   "to": 61.6,
+   "sid": 26,
+   "location": 2,
+   "content": "并且投入更多的时间在练枪软件上时",
+   "music": 0.0
+  },
+  {
+   "from": 61.6,
+   "to": 63.4,
+   "sid": 27,
+   "location": 2,
+   "content": "现实就会给予你当头一棒",
+   "music": 0.0
+  },
+  {
+   "from": 63.4,
+   "to": 66.58,
+   "sid": 28,
+   "location": 2,
+   "content": "你会发现软件内你的分数与成绩都在稳步上升",
+   "music": 0.0
+  },
+  {
+   "from": 66.58,
+   "to": 68.92,
+   "sid": 29,
+   "location": 2,
+   "content": "但在实战里却频频空枪对枪",
+   "music": 0.0
+  },
+  {
+   "from": 68.92,
+   "to": 69.64,
+   "sid": 30,
+   "location": 2,
+   "content": "失误率增加",
+   "music": 0.0
+  },
+  {
+   "from": 69.64,
+   "to": 71.44,
+   "sid": 31,
+   "location": 2,
+   "content": "实战的失误与软件的提升",
+   "music": 0.0
+  },
+  {
+   "from": 71.44,
+   "to": 74.0,
+   "sid": 32,
+   "location": 2,
+   "content": "让你产生了是自己练的不够多的想法",
+   "music": 0.0
+  },
+  {
+   "from": 74.0,
+   "to": 75.5,
+   "sid": 33,
+   "location": 2,
+   "content": "从而陷入了一个死循环",
+   "music": 0.0
+  },
+  {
+   "from": 75.5,
+   "to": 76.2,
+   "sid": 34,
+   "location": 2,
+   "content": "究其根本",
+   "music": 0.0
+  },
+  {
+   "from": 76.2,
+   "to": 78.76,
+   "sid": 35,
+   "location": 2,
+   "content": "练枪软件的目标轨迹固定行为可预测",
+   "music": 0.0
+  },
+  {
+   "from": 78.76,
+   "to": 79.62,
+   "sid": 36,
+   "location": 2,
+   "content": "无对抗压力",
+   "music": 0.0
+  },
+  {
+   "from": 79.62,
+   "to": 80.46,
+   "sid": 37,
+   "location": 2,
+   "content": "无决策成本",
+   "music": 0.0
+  },
+  {
+   "from": 80.46,
+   "to": 82.12,
+   "sid": 38,
+   "location": 2,
+   "content": "只考验单纯的瞄准反应",
+   "music": 0.0
+  },
+  {
+   "from": 82.12,
+   "to": 84.16,
+   "sid": 39,
+   "location": 2,
+   "content": "而实战中的身法急停闪身",
+   "music": 0.0
+  },
+  {
+   "from": 84.16,
+   "to": 84.88,
+   "sid": 40,
+   "location": 2,
+   "content": "预瞄地形",
+   "music": 0.0
+  },
+  {
+   "from": 84.88,
+   "to": 85.96,
+   "sid": 41,
+   "location": 2,
+   "content": "利用听声辨位",
+   "music": 0.0
+  },
+  {
+   "from": 85.96,
+   "to": 86.84,
+   "sid": 42,
+   "location": 2,
+   "content": "心理博弈",
+   "music": 0.0
+  },
+  {
+   "from": 86.84,
+   "to": 88.52,
+   "sid": 43,
+   "location": 2,
+   "content": "多目标处理等复杂因素",
+   "music": 0.0
+  },
+  {
+   "from": 88.52,
+   "to": 90.44,
+   "sid": 44,
+   "location": 2,
+   "content": "这些都是练枪软件无法模拟的",
+   "music": 0.0
+  },
+  {
+   "from": 90.44,
+   "to": 91.72,
+   "sid": 45,
+   "location": 2,
+   "content": "一旦缺少实战转化",
+   "music": 0.0
+  },
+  {
+   "from": 91.72,
+   "to": 93.88,
+   "sid": 46,
+   "location": 2,
+   "content": "练枪成果就会被牢牢的锁在软件里",
+   "music": 0.0
+  },
+  {
+   "from": 93.88,
+   "to": 94.56,
+   "sid": 47,
+   "location": 2,
+   "content": "无法落地",
+   "music": 0.0
+  },
+  {
+   "from": 94.56,
+   "to": 99.66,
+   "sid": 48,
+   "location": 2,
+   "content": "而真正能把练枪时长转化为实战战力的核心在于训练质量与结构搭配",
+   "music": 0.0
+  },
+  {
+   "from": 99.66,
+   "to": 101.78,
+   "sid": 49,
+   "location": 2,
+   "content": "30%的精准针对性练枪",
+   "music": 0.0
+  },
+  {
+   "from": 101.78,
+   "to": 105.52,
+   "sid": 50,
+   "location": 2,
+   "content": "加50%的高质量实战对局加20%的赛后复盘总结",
+   "music": 0.0
+  },
+  {
+   "from": 105.52,
+   "to": 106.48,
+   "sid": 51,
+   "location": 2,
+   "content": "三者缺一不可",
+   "music": 0.0
+  },
+  {
+   "from": 106.48,
+   "to": 109.5,
+   "sid": 52,
+   "location": 2,
+   "content": "但我并不是说在练枪软件上投入时间是无用功",
+   "music": 0.0
+  },
+  {
+   "from": 109.5,
+   "to": 111.6,
+   "sid": 53,
+   "location": 2,
+   "content": "这两者大的利害关系十分明确",
+   "music": 0.0
+  },
+  {
+   "from": 111.6,
+   "to": 112.5,
+   "sid": 54,
+   "location": 2,
+   "content": "完全不练枪",
+   "music": 0.0
+  },
+  {
+   "from": 112.5,
+   "to": 113.28,
+   "sid": 55,
+   "location": 2,
+   "content": "基本功薄弱",
+   "music": 0.0
+  },
+  {
+   "from": 113.28,
+   "to": 114.58,
+   "sid": 56,
+   "location": 2,
+   "content": "实战再久也难以突破",
+   "music": 0.0
+  },
+  {
+   "from": 114.58,
+   "to": 115.9,
+   "sid": 57,
+   "location": 2,
+   "content": "对枪永远处于劣势",
+   "music": 0.0
+  },
+  {
+   "from": 115.9,
+   "to": 118.84,
+   "sid": 58,
+   "location": 2,
+   "content": "我们线上训练营中曾经有一名学员直接打出了FPS",
+   "music": 0.0
+  },
+  {
+   "from": 118.84,
+   "to": 120.32,
+   "sid": 59,
+   "location": 2,
+   "content": "最可怕的视窗效应",
+   "music": 0.0
+  },
+  {
+   "from": 120.32,
+   "to": 122.66,
+   "sid": 60,
+   "location": 2,
+   "content": "也就是几乎没有余光观察和思维能力",
+   "music": 0.0
+  },
+  {
+   "from": 122.66,
+   "to": 124.46,
+   "sid": 61,
+   "location": 2,
+   "content": "后来教练指导后才改正过来",
+   "music": 0.0
+  },
+  {
+   "from": 124.46,
+   "to": 125.7,
+   "sid": 62,
+   "location": 2,
+   "content": "盲目对时常不专注",
+   "music": 0.0
+  },
+  {
+   "from": 125.7,
+   "to": 126.54,
+   "sid": 63,
+   "location": 2,
+   "content": "不贴合实战",
+   "music": 0.0
+  },
+  {
+   "from": 126.54,
+   "to": 127.44,
+   "sid": 64,
+   "location": 2,
+   "content": "只会自我感动",
+   "music": 0.0
+  },
+  {
+   "from": 127.44,
+   "to": 129.28,
+   "sid": 65,
+   "location": 2,
+   "content": "分数再高也无法转换为胜率",
+   "music": 0.0
+  },
+  {
+   "from": 129.28,
+   "to": 131.26,
+   "sid": 66,
+   "location": 2,
+   "content": "而短时长高效率贴合实战",
+   "music": 0.0
+  },
+  {
+   "from": 131.26,
+   "to": 132.34,
+   "sid": 67,
+   "location": 2,
+   "content": "配合复盘的训练",
+   "music": 0.0
+  },
+  {
+   "from": 132.34,
+   "to": 134.92,
+   "sid": 68,
+   "location": 2,
+   "content": "才能让每一分钟练枪都成为实战的加分项",
+   "music": 0.0
+  },
+  {
+   "from": 134.92,
+   "to": 137.0,
+   "sid": 69,
+   "location": 2,
+   "content": "每天保持30分钟高度专注的练枪",
+   "music": 0.0
+  },
+  {
+   "from": 137.0,
+   "to": 138.56,
+   "sid": 70,
+   "location": 2,
+   "content": "再通过对局检验成果",
+   "music": 0.0
+  },
+  {
+   "from": 138.56,
+   "to": 139.6,
+   "sid": 71,
+   "location": 2,
+   "content": "复盘修正问题",
+   "music": 0.0
+  },
+  {
+   "from": 139.6,
+   "to": 141.6,
+   "sid": 72,
+   "location": 2,
+   "content": "才能彻底打通练枪与实战的壁垒",
+   "music": 0.0
+  },
+  {
+   "from": 141.6,
+   "to": 143.98,
+   "sid": 73,
+   "location": 2,
+   "content": "让训练时长真正等价与技术提升",
+   "music": 0.0
+  },
+  {
+   "from": 143.98,
+   "to": 145.02,
+   "sid": 74,
+   "location": 2,
+   "content": "实现稳定上分",
+   "music": 0.0
+  },
+  {
+   "from": 145.02,
+   "to": 149.48,
+   "sid": 75,
+   "location": 2,
+   "content": "后面我会根据目前市面上主流的FPS游戏推出练枪软件上的针对项",
+   "music": 0.0
+  },
+  {
+   "from": 149.48,
+   "to": 150.84,
+   "sid": 76,
+   "location": 2,
+   "content": "如CSR无畏契约",
+   "music": 0.0
+  },
+  {
+   "from": 150.84,
+   "to": 151.9,
+   "sid": 77,
+   "location": 2,
+   "content": "PUPG3角洲等",
+   "music": 0.0
+  },
+  {
+   "from": 151.9,
+   "to": 154.22,
+   "sid": 78,
+   "location": 2,
+   "content": "关注我保证第一时间观看到相关视频",
+   "music": 0.0
+  },
+  {
+   "from": 154.22,
+   "to": 154.84,
+   "sid": 79,
+   "location": 2,
+   "content": "我是小易",
+   "music": 0.0
+  },
+  {
+   "from": 154.84,
+   "to": 157.24,
+   "sid": 80,
+   "location": 2,
+   "content": "一个专注FPS线上辅导的职业选手",
+   "music": 0.0
+  },
+  {
+   "from": 157.24,
+   "to": 157.78,
+   "sid": 81,
+   "location": 2,
+   "content": "再见",
+   "music": 0.0
+  }
+ ]
+}

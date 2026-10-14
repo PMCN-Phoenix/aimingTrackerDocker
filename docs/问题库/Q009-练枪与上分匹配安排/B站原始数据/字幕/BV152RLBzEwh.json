@@ -1,0 +1,1116 @@
+{
+ "font_size": 0.4,
+ "font_color": "#FFFFFF",
+ "background_alpha": 0.5,
+ "background_color": "#9C27B0",
+ "Stroke": "none",
+ "type": "AIsubtitle",
+ "lang": "zh",
+ "version": "eng-1.2.0-Index-johns-pen-lite",
+ "body": [
+  {
+   "content": "你之前每场排位赛都一直在打训练模式",
+   "from": 0.12,
+   "location": 2,
+   "music": 0.0,
+   "sid": 1,
+   "to": 3.86
+  },
+  {
+   "content": "有时候不是排位赛的时候",
+   "from": 3.86,
+   "location": 2,
+   "music": 0.0,
+   "sid": 2,
+   "to": 5.109
+  },
+  {
+   "content": "但一切都没有改变",
+   "from": 5.109,
+   "location": 2,
+   "music": 0.0,
+   "sid": 3,
+   "to": 6.169
+  },
+  {
+   "content": "你的准星感觉没变好",
+   "from": 6.169,
+   "location": 2,
+   "music": 0.0,
+   "sid": 4,
+   "to": 7.509
+  },
+  {
+   "content": "段位依然没提升",
+   "from": 7.509,
+   "location": 2,
+   "music": 0.0,
+   "sid": 5,
+   "to": 8.669
+  },
+  {
+   "content": "而你脑海中某个角落开始疑惑",
+   "from": 8.669,
+   "location": 2,
+   "music": 0.0,
+   "sid": 6,
+   "to": 11.289
+  },
+  {
+   "content": "自己这样做是否有效",
+   "from": 11.289,
+   "location": 2,
+   "music": 0.0,
+   "sid": 7,
+   "to": 13.129
+  },
+  {
+   "content": "可能根本没用",
+   "from": 13.129,
+   "location": 2,
+   "music": 0.0,
+   "sid": 8,
+   "to": 14.269
+  },
+  {
+   "content": "这就是你听过反方论点的原因",
+   "from": 14.269,
+   "location": 2,
+   "music": 0.0,
+   "sid": 9,
+   "to": 17.32
+  },
+  {
+   "content": "职业选手",
+   "from": 17.32,
+   "location": 2,
+   "music": 0.0,
+   "sid": 10,
+   "to": 17.76
+  },
+  {
+   "content": "不打训练模式",
+   "from": 17.76,
+   "location": 2,
+   "music": 0.0,
+   "sid": 11,
+   "to": 18.46
+  },
+  {
+   "content": "他们只打排位赛苦练数小时确实很多都是这样",
+   "from": 18.46,
+   "location": 2,
+   "music": 0.0,
+   "sid": 12,
+   "to": 21.86
+  },
+  {
+   "content": "有些人几乎不练准星",
+   "from": 21.86,
+   "location": 2,
+   "music": 0.0,
+   "sid": 13,
+   "to": 22.96
+  },
+  {
+   "content": "教练",
+   "from": 22.96,
+   "location": 2,
+   "music": 0.0,
+   "sid": 14,
+   "to": 23.44
+  },
+  {
+   "content": "有些人几乎不打训练模式只玩游戏",
+   "from": 23.44,
+   "location": 2,
+   "music": 0.0,
+   "sid": 15,
+   "to": 25.41
+  },
+  {
+   "content": "但时间久了所有都会提升",
+   "from": 25.41,
+   "location": 2,
+   "music": 0.0,
+   "sid": 16,
+   "to": 27.43
+  },
+  {
+   "content": "但这里被忽略了这些玩家靠大量练习达成",
+   "from": 27.43,
+   "location": 2,
+   "music": 0.0,
+   "sid": 17,
+   "to": 31.06
+  },
+  {
+   "content": "从早期开始跨游戏累积数千小时",
+   "from": 31.06,
+   "location": 2,
+   "music": 0.0,
+   "sid": 18,
+   "to": 33.8
+  },
+  {
+   "content": "在高压环境中",
+   "from": 33.8,
+   "location": 2,
+   "music": 0.0,
+   "sid": 19,
+   "to": 35.24
+  },
+  {
+   "content": "不同机制多年协同发展无需刻意隔离需要时间",
+   "from": 35.24,
+   "location": 2,
+   "music": 0.0,
+   "sid": 20,
+   "to": 41.19
+  },
+  {
+   "content": "大多数玩家没有",
+   "from": 41.19,
+   "location": 2,
+   "music": 0.0,
+   "sid": 21,
+   "to": 42.41
+  },
+  {
+   "content": "如果你现在真正想提升机制",
+   "from": 42.41,
+   "location": 2,
+   "music": 0.0,
+   "sid": 22,
+   "to": 45.13
+  },
+  {
+   "content": "不能照搬别人维持现状的方法",
+   "from": 45.13,
+   "location": 2,
+   "music": 0.0,
+   "sid": 23,
+   "to": 48.01
+  },
+  {
+   "content": "这是不同问题",
+   "from": 48.01,
+   "location": 2,
+   "music": 0.0,
+   "sid": 24,
+   "to": 49.25
+  },
+  {
+   "content": "为何苦练训练模式开始感觉无效",
+   "from": 49.25,
+   "location": 2,
+   "music": 0.0,
+   "sid": 25,
+   "to": 52.9
+  },
+  {
+   "content": "这就是训练模式对dm的真实优势",
+   "from": 52.9,
+   "location": 2,
+   "music": 0.0,
+   "sid": 26,
+   "to": 55.96
+  },
+  {
+   "content": "选择单一准星机制直接训练点击追踪微调",
+   "from": 55.96,
+   "location": 2,
+   "music": 0.0,
+   "sid": 27,
+   "to": 60.88
+  },
+  {
+   "content": "针对实际薄弱环节",
+   "from": 60.88,
+   "location": 2,
+   "music": 0.0,
+   "sid": 28,
+   "to": 62.4
+  },
+  {
+   "content": "不会同时分散注意力",
+   "from": 62.4,
+   "location": 2,
+   "music": 0.0,
+   "sid": 29,
+   "to": 65.02
+  },
+  {
+   "content": "专注一件事直到见效",
+   "from": 65.02,
+   "location": 2,
+   "music": 0.0,
+   "sid": 30,
+   "to": 67.5
+  },
+  {
+   "content": "但大多数人搞错了",
+   "from": 67.5,
+   "location": 2,
+   "music": 0.0,
+   "sid": 31,
+   "to": 69.6
+  },
+  {
+   "content": "即使有训练模式",
+   "from": 69.6,
+   "location": 2,
+   "music": 0.0,
+   "sid": 32,
+   "to": 70.8
+  },
+  {
+   "content": "仍切换回dm",
+   "from": 70.8,
+   "location": 2,
+   "music": 0.0,
+   "sid": 33,
+   "to": 72.04
+  },
+  {
+   "content": "却随机训练",
+   "from": 72.04,
+   "location": 2,
+   "music": 0.0,
+   "sid": 34,
+   "to": 73.56
+  },
+  {
+   "content": "选择任务",
+   "from": 73.56,
+   "location": 2,
+   "music": 0.0,
+   "sid": 35,
+   "to": 74.31
+  },
+  {
+   "content": "追逐分数",
+   "from": 74.31,
+   "location": 2,
+   "music": 0.0,
+   "sid": 36,
+   "to": 75.13
+  },
+  {
+   "content": "希望自然提升",
+   "from": 75.13,
+   "location": 2,
+   "music": 0.0,
+   "sid": 37,
+   "to": 76.99
+  },
+  {
+   "content": "有了更好工具但问题依旧",
+   "from": 76.99,
+   "location": 2,
+   "music": 0.0,
+   "sid": 38,
+   "to": 79.15
+  },
+  {
+   "content": "毫无头绪",
+   "from": 79.15,
+   "location": 2,
+   "music": 0.0,
+   "sid": 39,
+   "to": 79.85
+  },
+  {
+   "content": "到底哪里卡住了",
+   "from": 79.85,
+   "location": 2,
+   "music": 0.0,
+   "sid": 40,
+   "to": 81.24
+  },
+  {
+   "content": "需要明确隔离问题",
+   "from": 81.24,
+   "location": 2,
+   "music": 0.0,
+   "sid": 41,
+   "to": 82.88
+  },
+  {
+   "content": "否则训练无效",
+   "from": 82.88,
+   "location": 2,
+   "music": 0.0,
+   "sid": 42,
+   "to": 84.28
+  },
+  {
+   "content": "这就是基准测试的作用",
+   "from": 84.28,
+   "location": 2,
+   "music": 0.0,
+   "sid": 43,
+   "to": 85.66
+  },
+  {
+   "content": "它用于诊断",
+   "from": 85.66,
+   "location": 2,
+   "music": 0.0,
+   "sid": 44,
+   "to": 86.74
+  },
+  {
+   "content": "测试你的点击反应",
+   "from": 86.74,
+   "location": 2,
+   "music": 0.0,
+   "sid": 45,
+   "to": 87.76
+  },
+  {
+   "content": "准星追踪",
+   "from": 87.76,
+   "location": 2,
+   "music": 0.0,
+   "sid": 46,
+   "to": 88.75
+  },
+  {
+   "content": "切换核心分类",
+   "from": 88.75,
+   "location": 2,
+   "music": 0.0,
+   "sid": 47,
+   "to": 90.49
+  },
+  {
+   "content": "精准显示你与水平的差距",
+   "from": 90.49,
+   "location": 2,
+   "music": 0.0,
+   "sid": 48,
+   "to": 94.14
+  },
+  {
+   "content": "一旦明确就不会盲目猜测",
+   "from": 94.14,
+   "location": 2,
+   "music": 0.0,
+   "sid": 49,
+   "to": 96.26
+  },
+  {
+   "content": "我们已在完整教程中详细讲解链接见描述",
+   "from": 96.26,
+   "location": 2,
+   "music": 0.0,
+   "sid": 50,
+   "to": 99.34
+  },
+  {
+   "content": "但简而言之，先运行一下",
+   "from": 99.34,
+   "location": 2,
+   "music": 0.0,
+   "sid": 51,
+   "to": 102.43
+  },
+  {
+   "content": "重复同样的事情",
+   "from": 102.43,
+   "location": 2,
+   "music": 0.0,
+   "sid": 52,
+   "to": 103.77
+  },
+  {
+   "content": "不再推动进步",
+   "from": 103.77,
+   "location": 2,
+   "music": 0.0,
+   "sid": 53,
+   "to": 104.99
+  },
+  {
+   "content": "如果你长时间用同样的方式训练",
+   "from": 104.99,
+   "location": 2,
+   "music": 0.0,
+   "sid": 54,
+   "to": 107.31
+  },
+  {
+   "content": "而一切都没有改变",
+   "from": 107.31,
+   "location": 2,
+   "music": 0.0,
+   "sid": 55,
+   "to": 108.73
+  },
+  {
+   "content": "游戏不是解决办法",
+   "from": 108.73,
+   "location": 2,
+   "music": 0.0,
+   "sid": 56,
+   "to": 109.84
+  },
+  {
+   "content": "你只是重复导致停滞的模式",
+   "from": 109.84,
+   "location": 2,
+   "music": 0.0,
+   "sid": 57,
+   "to": 112.82
+  },
+  {
+   "content": "重复错误动作并非练习",
+   "from": 112.82,
+   "location": 2,
+   "music": 0.0,
+   "sid": 58,
+   "to": 114.58
+  },
+  {
+   "content": "这只是习惯强化",
+   "from": 114.58,
+   "location": 2,
+   "music": 0.0,
+   "sid": 59,
+   "to": 116.32
+  },
+  {
+   "content": "如果你的操作是真正的瓶颈",
+   "from": 116.32,
+   "location": 2,
+   "music": 0.0,
+   "sid": 60,
+   "to": 118.57
+  },
+  {
+   "content": "如果你在对决中失利",
+   "from": 118.57,
+   "location": 2,
+   "music": 0.0,
+   "sid": 61,
+   "to": 119.79
+  },
+  {
+   "content": "因为你的准星不够准",
+   "from": 119.79,
+   "location": 2,
+   "music": 0.0,
+   "sid": 62,
+   "to": 121.03
+  },
+  {
+   "content": "这才是需要改进的地方",
+   "from": 121.03,
+   "location": 2,
+   "music": 0.0,
+   "sid": 63,
+   "to": 122.59
+  },
+  {
+   "content": "逐一练习单个机制并形成反馈循环",
+   "from": 122.59,
+   "location": 2,
+   "music": 0.0,
+   "sid": 64,
+   "to": 126.41
+  },
+  {
+   "content": "这才是刻意练习的真正含义",
+   "from": 126.41,
+   "location": 2,
+   "music": 0.0,
+   "sid": 65,
+   "to": 128.61
+  },
+  {
+   "content": "这不是反对",
+   "from": 128.61,
+   "location": 2,
+   "music": 0.0,
+   "sid": 66,
+   "to": 129.91
+  },
+  {
+   "content": "死亡竞赛视频",
+   "from": 129.91,
+   "location": 2,
+   "music": 0.0,
+   "sid": 67,
+   "to": 130.73
+  },
+  {
+   "content": "死亡竞赛很扎实",
+   "from": 130.73,
+   "location": 2,
+   "music": 0.0,
+   "sid": 68,
+   "to": 131.95
+  },
+  {
+   "content": "你获得真实的枪战体验",
+   "from": 131.95,
+   "location": 2,
+   "music": 0.0,
+   "sid": 69,
+   "to": 133.43
+  },
+  {
+   "content": "真实的移动",
+   "from": 133.43,
+   "location": 2,
+   "music": 0.0,
+   "sid": 70,
+   "to": 134.27
+  },
+  {
+   "content": "真实的后坐力",
+   "from": 134.27,
+   "location": 2,
+   "music": 0.0,
+   "sid": 71,
+   "to": 135.45
+  },
+  {
+   "content": "真实的压力",
+   "from": 135.45,
+   "location": 2,
+   "music": 0.0,
+   "sid": 72,
+   "to": 136.25
+  },
+  {
+   "content": "保持手感",
+   "from": 136.25,
+   "location": 2,
+   "music": 0.0,
+   "sid": 73,
+   "to": 137.72
+  },
+  {
+   "content": "并培养真实的枪战应对本能",
+   "from": 137.72,
+   "location": 2,
+   "music": 0.0,
+   "sid": 74,
+   "to": 141.56
+  },
+  {
+   "content": "各种距离",
+   "from": 141.56,
+   "location": 2,
+   "music": 0.0,
+   "sid": 75,
+   "to": 142.34
+  },
+  {
+   "content": "人们的移动方式",
+   "from": 142.34,
+   "location": 2,
+   "music": 0.0,
+   "sid": 76,
+   "to": 143.24
+  },
+  {
+   "content": "如果你玩Valorant对枪",
+   "from": 143.24,
+   "location": 2,
+   "music": 0.0,
+   "sid": 77,
+   "to": 144.76
+  },
+  {
+   "content": "第二击",
+   "from": 144.76,
+   "location": 2,
+   "music": 0.0,
+   "sid": 78,
+   "to": 145.32
+  },
+  {
+   "content": "任何有死亡竞赛模式的射击游戏",
+   "from": 145.32,
+   "location": 2,
+   "music": 0.0,
+   "sid": 79,
+   "to": 147.06
+  },
+  {
+   "content": "将其作为热身很合理",
+   "from": 147.06,
+   "location": 2,
+   "music": 0.0,
+   "sid": 80,
+   "to": 148.98
+  },
+  {
+   "content": "玩家多年使用有原因",
+   "from": 148.98,
+   "location": 2,
+   "music": 0.0,
+   "sid": 81,
+   "to": 151.14
+  },
+  {
+   "content": "问题不在于死亡竞赛",
+   "from": 151.14,
+   "location": 2,
+   "music": 0.0,
+   "sid": 82,
+   "to": 152.68
+  },
+  {
+   "content": "而是试图用它做其他事",
+   "from": 152.68,
+   "location": 2,
+   "music": 0.0,
+   "sid": 83,
+   "to": 154.12
+  },
+  {
+   "content": "它并不适合",
+   "from": 154.12,
+   "location": 2,
+   "music": 0.0,
+   "sid": 84,
+   "to": 155.14
+  },
+  {
+   "content": "死亡竞赛仍有其位置",
+   "from": 155.14,
+   "location": 2,
+   "music": 0.0,
+   "sid": 85,
+   "to": 156.74
+  },
+  {
+   "content": "用它来热身",
+   "from": 156.74,
+   "location": 2,
+   "music": 0.0,
+   "sid": 86,
+   "to": 157.96
+  },
+  {
+   "content": "保持敏锐",
+   "from": 157.96,
+   "location": 2,
+   "music": 0.0,
+   "sid": 87,
+   "to": 158.66
+  },
+  {
+   "content": "让双手随时准备",
+   "from": 158.66,
+   "location": 2,
+   "music": 0.0,
+   "sid": 88,
+   "to": 159.66
+  },
+  {
+   "content": "这是有效工具",
+   "from": 159.66,
+   "location": 2,
+   "music": 0.0,
+   "sid": 89,
+   "to": 160.84
+  },
+  {
+   "content": "但如果你一直在训练",
+   "from": 160.84,
+   "location": 2,
+   "music": 0.0,
+   "sid": 90,
+   "to": 162.12
+  },
+  {
+   "content": "试图突破瓶颈",
+   "from": 162.12,
+   "location": 2,
+   "music": 0.0,
+   "sid": 91,
+   "to": 163.43
+  },
+  {
+   "content": "这不是解决办法",
+   "from": 163.43,
+   "location": 2,
+   "music": 0.0,
+   "sid": 92,
+   "to": 164.57
+  },
+  {
+   "content": "你只是重复导致停滞的模式",
+   "from": 164.57,
+   "location": 2,
+   "music": 0.0,
+   "sid": 93,
+   "to": 167.09
+  },
+  {
+   "content": "找出",
+   "from": 167.09,
+   "location": 2,
+   "music": 0.0,
+   "sid": 94,
+   "to": 167.67
+  },
+  {
+   "content": "哪里薄弱",
+   "from": 167.67,
+   "location": 2,
+   "music": 0.0,
+   "sid": 95,
+   "to": 168.33
+  },
+  {
+   "content": "针对性训练",
+   "from": 168.33,
+   "location": 2,
+   "music": 0.0,
+   "sid": 96,
+   "to": 169.43
+  },
+  {
+   "content": "就是这样",
+   "from": 169.43,
+   "location": 2,
+   "music": 0.0,
+   "sid": 97,
+   "to": 170.27
+  },
+  {
+   "content": "死亡竞赛是混乱",
+   "from": 170.27,
+   "location": 2,
+   "music": 0.0,
+   "sid": 98,
+   "to": 171.53
+  },
+  {
+   "content": "正是如此",
+   "from": 171.53,
+   "location": 2,
+   "music": 0.0,
+   "sid": 99,
+   "to": 172.51
+  },
+  {
+   "content": "但它也是局限",
+   "from": 172.51,
+   "location": 2,
+   "music": 0.0,
+   "sid": 100,
+   "to": 173.95
+  },
+  {
+   "content": "你总是不断反应",
+   "from": 173.95,
+   "location": 2,
+   "music": 0.0,
+   "sid": 101,
+   "to": 175.33
+  },
+  {
+   "content": "目标从不同角度和距离出现",
+   "from": 175.33,
+   "location": 2,
+   "music": 0.0,
+   "sid": 102,
+   "to": 178.32
+  },
+  {
+   "content": "移动毫无规律",
+   "from": 178.32,
+   "location": 2,
+   "music": 0.0,
+   "sid": 103,
+   "to": 179.52
+  },
+  {
+   "content": "你的大脑只能在那种环境中勉强跟上",
+   "from": 179.52,
+   "location": 2,
+   "music": 0.0,
+   "sid": 104,
+   "to": 182.0
+  },
+  {
+   "content": "你无法构建特定机制",
+   "from": 182.0,
+   "location": 2,
+   "music": 0.0,
+   "sid": 105,
+   "to": 183.88
+  },
+  {
+   "content": "如果你的甩枪能力不足",
+   "from": 183.88,
+   "location": 2,
+   "music": 0.0,
+   "sid": 106,
+   "to": 185.17
+  },
+  {
+   "content": "Dm不会单独识别并修复",
+   "from": 185.17,
+   "location": 2,
+   "music": 0.0,
+   "sid": 107,
+   "to": 187.05
+  },
+  {
+   "content": "你会继续用同样的方式甩枪",
+   "from": 187.05,
+   "location": 2,
+   "music": 0.0,
+   "sid": 108,
+   "to": 188.33
+  },
+  {
+   "content": "你已经重复相同模式",
+   "from": 188.33,
+   "location": 2,
+   "music": 0.0,
+   "sid": 109,
+   "to": 190.08
+  },
+  {
+   "content": "只是更多重复",
+   "from": 190.08,
+   "location": 2,
+   "music": 0.0,
+   "sid": 110,
+   "to": 191.08
+  },
+  {
+   "content": "你并未改善它",
+   "from": 191.08,
+   "location": 2,
+   "music": 0.0,
+   "sid": 111,
+   "to": 192.28
+  },
+  {
+   "content": "你仍在重复",
+   "from": 192.28,
+   "location": 2,
+   "music": 0.0,
+   "sid": 112,
+   "to": 193.24
+  },
+  {
+   "content": "还有一个更少被讨论的第二个问题",
+   "from": 193.24,
+   "location": 2,
+   "music": 0.0,
+   "sid": 113,
+   "to": 196.14
+  },
+  {
+   "content": "Dm让你处于现实中几乎不会遇到的位置",
+   "from": 196.14,
+   "location": 2,
+   "music": 0.0,
+   "sid": 114,
+   "to": 199.88
+  },
+  {
+   "content": "想想Dm实际是怎么玩的",
+   "from": 199.88,
+   "location": 2,
+   "music": 0.0,
+   "sid": 115,
+   "to": 201.75
+  },
+  {
+   "content": "人们占据被动角度",
+   "from": 201.75,
+   "location": 2,
+   "music": 0.0,
+   "sid": 116,
+   "to": 203.49
+  },
+  {
+   "content": "不存在于排位赛的蹲守点",
+   "from": 203.49,
+   "location": 2,
+   "music": 0.0,
+   "sid": 117,
+   "to": 205.49
+  },
+  {
+   "content": "从毫无意义的位置摆荡",
+   "from": 205.49,
+   "location": 2,
+   "music": 0.0,
+   "sid": 118,
+   "to": 207.47
+  },
+  {
+   "content": "在真实回合中",
+   "from": 207.47,
+   "location": 2,
+   "music": 0.0,
+   "sid": 119,
+   "to": 208.38
+  },
+  {
+   "content": "你最终在训练瞄准和准星放置围绕这些模式",
+   "from": 208.38,
+   "location": 2,
+   "music": 0.0,
+   "sid": 120,
+   "to": 211.52
+  },
+  {
+   "content": "即使你在积累训练量",
+   "from": 211.52,
+   "location": 2,
+   "music": 0.0,
+   "sid": 121,
+   "to": 213.14
+  },
+  {
+   "content": "它们无法完全迁移",
+   "from": 213.14,
+   "location": 2,
+   "music": 0.0,
+   "sid": 122,
+   "to": 214.4
+  },
+  {
+   "content": "你是在练习一个不真实的版本",
+   "from": 214.4,
+   "location": 2,
+   "music": 0.0,
+   "sid": 123,
+   "to": 217.42
+  },
+  {
+   "content": "两个问题叠加",
+   "from": 217.42,
+   "location": 2,
+   "music": 0.0,
+   "sid": 124,
+   "to": 218.6
+  },
+  {
+   "content": "无法隔离",
+   "from": 218.6,
+   "location": 2,
+   "music": 0.0,
+   "sid": 125,
+   "to": 219.62
+  },
+  {
+   "content": "哪里薄弱",
+   "from": 219.62,
+   "location": 2,
+   "music": 0.0,
+   "sid": 126,
+   "to": 220.2
+  },
+  {
+   "content": "而训练本身也不够现实",
+   "from": 220.2,
+   "location": 2,
+   "music": 0.0,
+   "sid": 127,
+   "to": 223.04
+  },
+  {
+   "content": "Dm只是带来更多重复",
+   "from": 223.04,
+   "location": 2,
+   "music": 0.0,
+   "sid": 128,
+   "to": 224.58
+  },
+  {
+   "content": "如果你还没跑过基准测试",
+   "from": 224.58,
+   "location": 2,
+   "music": 0.0,
+   "sid": 129,
+   "to": 226.28
+  },
+  {
+   "content": "这就是起点",
+   "from": 226.28,
+   "location": 2,
+   "music": 0.0,
+   "sid": 130,
+   "to": 227.4
+  },
+  {
+   "content": "会分解",
+   "from": 227.4,
+   "location": 2,
+   "music": 0.0,
+   "sid": 131,
+   "to": 228.2
+  },
+  {
+   "content": "哪些机制才是真正的薄弱点",
+   "from": 228.2,
+   "location": 2,
+   "music": 0.0,
+   "sid": 132,
+   "to": 229.82
+  },
+  {
+   "content": "然后瞄准训练地图针对这些具体缺口",
+   "from": 229.82,
+   "location": 2,
+   "music": 0.0,
+   "sid": 133,
+   "to": 233.88
+  },
+  {
+   "content": "不是随机任务列表",
+   "from": 233.88,
+   "location": 2,
+   "music": 0.0,
+   "sid": 134,
+   "to": 235.34
+  },
+  {
+   "content": "真正针对薄弱环节的",
+   "from": 235.34,
+   "location": 2,
+   "music": 0.0,
+   "sid": 135,
+   "to": 237.3
+  },
+  {
+   "content": "先诊断",
+   "from": 237.3,
+   "location": 2,
+   "music": 0.0,
+   "sid": 136,
+   "to": 238.44
+  },
+  {
+   "content": "再训练",
+   "from": 238.44,
+   "location": 2,
+   "music": 0.0,
+   "sid": 137,
+   "to": 239.28
+  },
+  {
+   "content": "这就是苦练与真正提升的区别",
+   "from": 239.28,
+   "location": 2,
+   "music": 0.0,
+   "sid": 138,
+   "to": 242.48
+  }
+ ]
+}

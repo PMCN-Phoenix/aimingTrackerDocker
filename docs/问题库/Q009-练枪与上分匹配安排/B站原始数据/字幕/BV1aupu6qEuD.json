@@ -1,0 +1,1444 @@
+{
+ "font_size": 0.4,
+ "font_color": "#FFFFFF",
+ "background_alpha": 0.5,
+ "background_color": "#9C27B0",
+ "Stroke": "none",
+ "type": "AIsubtitle",
+ "lang": "zh",
+ "version": "v1.7.0.4",
+ "body": [
+  {
+   "from": 18.9,
+   "to": 20.62,
+   "sid": 1,
+   "location": 2,
+   "content": "Boss himself",
+   "music": 0.0
+  },
+  {
+   "from": 30.14,
+   "to": 31.84,
+   "sid": 2,
+   "location": 2,
+   "content": "你好呀",
+   "music": 0.0
+  },
+  {
+   "from": 31.84,
+   "to": 33.24,
+   "sid": 3,
+   "location": 2,
+   "content": "我是腐烂的豌豆",
+   "music": 0.0
+  },
+  {
+   "from": 33.24,
+   "to": 35.02,
+   "sid": 4,
+   "location": 2,
+   "content": "一个从白银开始钻进雷兹",
+   "music": 0.0
+  },
+  {
+   "from": 35.02,
+   "to": 36.14,
+   "sid": 5,
+   "location": 2,
+   "content": "上到神话的玩家",
+   "music": 0.0
+  },
+  {
+   "from": 36.14,
+   "to": 37.14,
+   "sid": 6,
+   "location": 2,
+   "content": "开头的小剧场",
+   "music": 0.0
+  },
+  {
+   "from": 37.14,
+   "to": 38.34,
+   "sid": 7,
+   "location": 2,
+   "content": "你有没有遇到过呢",
+   "music": 0.0
+  },
+  {
+   "from": 38.34,
+   "to": 41.06,
+   "sid": 8,
+   "location": 2,
+   "content": "这是瓦娱乐玩家走向竞技冲锋时",
+   "music": 0.0
+  },
+  {
+   "from": 41.06,
+   "to": 42.78,
+   "sid": 9,
+   "location": 2,
+   "content": "或多或少会遇到的一个场景吧",
+   "music": 0.0
+  },
+  {
+   "from": 42.78,
+   "to": 44.68,
+   "sid": 10,
+   "location": 2,
+   "content": "随着瓦的时间和段位的提高",
+   "music": 0.0
+  },
+  {
+   "from": 44.68,
+   "to": 46.56,
+   "sid": 11,
+   "location": 2,
+   "content": "身边一起挖过的朋友逐渐退坑",
+   "music": 0.0
+  },
+  {
+   "from": 46.56,
+   "to": 49.8,
+   "sid": 12,
+   "location": 2,
+   "content": "这也是我一边做视频一边挖的过程中所经历的",
+   "music": 0.0
+  },
+  {
+   "from": 49.8,
+   "to": 51.38,
+   "sid": 13,
+   "location": 2,
+   "content": "而最近我上到了神话",
+   "music": 0.0
+  },
+  {
+   "from": 51.38,
+   "to": 53.2,
+   "sid": 14,
+   "location": 2,
+   "content": "这是我过去不敢想的事情",
+   "music": 0.0
+  },
+  {
+   "from": 53.2,
+   "to": 55.22,
+   "sid": 15,
+   "location": 2,
+   "content": "所以这次来做一期纪念杂谈视频",
+   "music": 0.0
+  },
+  {
+   "from": 55.22,
+   "to": 57.4,
+   "sid": 16,
+   "location": 2,
+   "content": "分享下我上神话的经验和看法",
+   "music": 0.0
+  },
+  {
+   "from": 57.4,
+   "to": 59.2,
+   "sid": 17,
+   "location": 2,
+   "content": "首先肯定会有一些观众好奇",
+   "music": 0.0
+  },
+  {
+   "from": 59.2,
+   "to": 61.38,
+   "sid": 18,
+   "location": 2,
+   "content": "主播是怎么在E图这么牢的环境下",
+   "music": 0.0
+  },
+  {
+   "from": 61.38,
+   "to": 63.04,
+   "sid": 19,
+   "location": 2,
+   "content": "玩原始人雷子上分的",
+   "music": 0.0
+  },
+  {
+   "from": 63.04,
+   "to": 64.84,
+   "sid": 20,
+   "location": 2,
+   "content": "首先要有良好的游戏意识",
+   "music": 0.0
+  },
+  {
+   "from": 64.84,
+   "to": 66.2,
+   "sid": 21,
+   "location": 2,
+   "content": "并且敢于遥控指挥",
+   "music": 0.0
+  },
+  {
+   "from": 66.2,
+   "to": 67.48,
+   "sid": 22,
+   "location": 2,
+   "content": "玩一度想要舒服",
+   "music": 0.0
+  },
+  {
+   "from": 67.48,
+   "to": 69.08,
+   "sid": 23,
+   "location": 2,
+   "content": "就要懂得利用团队资源",
+   "music": 0.0
+  },
+  {
+   "from": 69.08,
+   "to": 71.07,
+   "sid": 24,
+   "location": 2,
+   "content": "也就是遥控队友的道具",
+   "music": 0.0
+  },
+  {
+   "from": 71.07,
+   "to": 72.77,
+   "sid": 25,
+   "location": 2,
+   "content": "就比如这把超凡排位",
+   "music": 0.0
+  },
+  {
+   "from": 72.77,
+   "to": 73.43,
+   "sid": 26,
+   "location": 2,
+   "content": "我们哪边",
+   "music": 0.0
+  },
+  {
+   "from": 73.43,
+   "to": 74.79,
+   "sid": 27,
+   "location": 2,
+   "content": "我们手枪局打C吧",
+   "music": 0.0
+  },
+  {
+   "from": 74.79,
+   "to": 77.6,
+   "sid": 28,
+   "location": 2,
+   "content": "沈阳局打C前点给个闪伯乐呃",
+   "music": 0.0
+  },
+  {
+   "from": 77.6,
+   "to": 78.48,
+   "sid": 29,
+   "location": 2,
+   "content": "呃这样一卷",
+   "music": 0.0
+  },
+  {
+   "from": 78.48,
+   "to": 80.88,
+   "sid": 30,
+   "location": 2,
+   "content": "你这里往绿色这位置推一伤才能给闪",
+   "music": 0.0
+  },
+  {
+   "from": 80.88,
+   "to": 83.29,
+   "sid": 31,
+   "location": 2,
+   "content": "到时候你站到红色这个位置绕后",
+   "music": 0.0
+  },
+  {
+   "from": 83.29,
+   "to": 84.82,
+   "sid": 32,
+   "location": 2,
+   "content": "给柱子后一个站铁壁",
+   "music": 0.0
+  },
+  {
+   "from": 84.82,
+   "to": 87.46,
+   "sid": 33,
+   "location": 2,
+   "content": "这只是一个简单的莲华手枪局",
+   "music": 0.0
+  },
+  {
+   "from": 87.46,
+   "to": 89.62,
+   "sid": 34,
+   "location": 2,
+   "content": "针对前压型少尉的简单预设部署",
+   "music": 0.0
+  },
+  {
+   "from": 89.62,
+   "to": 91.1,
+   "sid": 35,
+   "location": 2,
+   "content": "这个预设也仅仅只要十秒",
+   "music": 0.0
+  },
+  {
+   "from": 91.1,
+   "to": 93.789,
+   "sid": 36,
+   "location": 2,
+   "content": "手雷加闪光炸死毒点的i so",
+   "music": 0.0
+  },
+  {
+   "from": 93.789,
+   "to": 95.229,
+   "sid": 37,
+   "location": 2,
+   "content": "渐渐渐接近结局了",
+   "music": 0.0
+  },
+  {
+   "from": 95.229,
+   "to": 96.849,
+   "sid": 38,
+   "location": 2,
+   "content": "易伤的伯乐没法TP",
+   "music": 0.0
+  },
+  {
+   "from": 96.849,
+   "to": 97.789,
+   "sid": 39,
+   "location": 2,
+   "content": "加上吃了闪黄",
+   "music": 0.0
+  },
+  {
+   "from": 97.789,
+   "to": 99.409,
+   "sid": 40,
+   "location": 2,
+   "content": "连一换一的机会都没有",
+   "music": 0.0
+  },
+  {
+   "from": 99.409,
+   "to": 100.909,
+   "sid": 41,
+   "location": 2,
+   "content": "我用不了",
+   "music": 0.0
+  },
+  {
+   "from": 101.59,
+   "to": 103.27,
+   "sid": 42,
+   "location": 2,
+   "content": "如果队友做针对性预设",
+   "music": 0.0
+  },
+  {
+   "from": 103.27,
+   "to": 105.47,
+   "sid": 43,
+   "location": 2,
+   "content": "远比无脑Rush一个爆点更有优势",
+   "music": 0.0
+  },
+  {
+   "from": 105.47,
+   "to": 107.47,
+   "sid": 44,
+   "location": 2,
+   "content": "所以想靠一度上更高的段位",
+   "music": 0.0
+  },
+  {
+   "from": 107.47,
+   "to": 109.01,
+   "sid": 45,
+   "location": 2,
+   "content": "需要良好的游戏意识",
+   "music": 0.0
+  },
+  {
+   "from": 109.01,
+   "to": 110.935,
+   "sid": 46,
+   "location": 2,
+   "content": "并且敢于指挥和沟通",
+   "music": 0.0
+  },
+  {
+   "from": 110.94,
+   "to": 112.38,
+   "sid": 47,
+   "location": 2,
+   "content": "这时候肯定有人会问了",
+   "music": 0.0
+  },
+  {
+   "from": 112.38,
+   "to": 112.56,
+   "sid": 48,
+   "location": 2,
+   "content": "诶",
+   "music": 0.0
+  },
+  {
+   "from": 112.56,
+   "to": 115.14,
+   "sid": 49,
+   "location": 2,
+   "content": "豌豆豌豆上神话还要有枪法吧",
+   "music": 0.0
+  },
+  {
+   "from": 115.14,
+   "to": 116.87,
+   "sid": 50,
+   "location": 2,
+   "content": "你枪法一定很厉害吧",
+   "music": 0.0
+  },
+  {
+   "from": 116.87,
+   "to": 118.45,
+   "sid": 51,
+   "location": 2,
+   "content": "平时都怎么练枪的",
+   "music": 0.0
+  },
+  {
+   "from": 118.45,
+   "to": 120.4,
+   "sid": 52,
+   "location": 2,
+   "content": "其实我感觉我的枪法水平",
+   "music": 0.0
+  },
+  {
+   "from": 120.4,
+   "to": 122.52,
+   "sid": 53,
+   "location": 2,
+   "content": "远低于大部分玩枪男角色",
+   "music": 0.0
+  },
+  {
+   "from": 122.52,
+   "to": 123.7,
+   "sid": 54,
+   "location": 2,
+   "content": "上到高段位的玩家",
+   "music": 0.0
+  },
+  {
+   "from": 123.7,
+   "to": 124.7,
+   "sid": 55,
+   "location": 2,
+   "content": "打上主玩一突",
+   "music": 0.0
+  },
+  {
+   "from": 124.7,
+   "to": 126.16,
+   "sid": 56,
+   "location": 2,
+   "content": "在合理道具的配合下",
+   "music": 0.0
+  },
+  {
+   "from": 126.16,
+   "to": 128.35,
+   "sid": 57,
+   "location": 2,
+   "content": "击杀对手的难度会降低很多",
+   "music": 0.0
+  },
+  {
+   "from": 128.35,
+   "to": 130.89,
+   "sid": 58,
+   "location": 2,
+   "content": "但是依图的对象场景和其他位置不同",
+   "music": 0.0
+  },
+  {
+   "from": 130.89,
+   "to": 132.39,
+   "sid": 59,
+   "location": 2,
+   "content": "我也会去针对性的练习",
+   "music": 0.0
+  },
+  {
+   "from": 132.39,
+   "to": 134.62,
+   "sid": 60,
+   "location": 2,
+   "content": "以下是我一些排位前的热身项目",
+   "music": 0.0
+  },
+  {
+   "from": 134.62,
+   "to": 135.22,
+   "sid": 61,
+   "location": 2,
+   "content": "给玩意图",
+   "music": 0.0
+  },
+  {
+   "from": 135.22,
+   "to": 137.54,
+   "sid": 62,
+   "location": 2,
+   "content": "不知道怎么针对性练习的玩家提供一些参考",
+   "music": 0.0
+  },
+  {
+   "from": 137.54,
+   "to": 139.04,
+   "sid": 63,
+   "location": 2,
+   "content": "首先是标配练习",
+   "music": 0.0
+  },
+  {
+   "from": 139.04,
+   "to": 142.209,
+   "sid": 64,
+   "location": 2,
+   "content": "通过打bot的方式去习惯标配点点爆头的节奏",
+   "music": 0.0
+  },
+  {
+   "from": 142.209,
+   "to": 145.089,
+   "sid": 65,
+   "location": 2,
+   "content": "第二个就是平地跳加标配模拟雷子手",
+   "music": 0.0
+  },
+  {
+   "from": 145.089,
+   "to": 147.649,
+   "sid": 66,
+   "location": 2,
+   "content": "枪局近点时的对向前进",
+   "music": 0.0
+  },
+  {
+   "from": 148.25,
+   "to": 149.93,
+   "sid": 67,
+   "location": 2,
+   "content": "第三个就是练习微调",
+   "music": 0.0
+  },
+  {
+   "from": 149.93,
+   "to": 151.49,
+   "sid": 68,
+   "location": 2,
+   "content": "由于我的灵敏度比较高",
+   "music": 0.0
+  },
+  {
+   "from": 151.49,
+   "to": 153.62,
+   "sid": 69,
+   "location": 2,
+   "content": "我会更习惯去用移动补偿",
+   "music": 0.0
+  },
+  {
+   "from": 153.62,
+   "to": 155.54,
+   "sid": 70,
+   "location": 2,
+   "content": "但是移动补偿也是需要微调的",
+   "music": 0.0
+  },
+  {
+   "from": 155.54,
+   "to": 158.02,
+   "sid": 71,
+   "location": 2,
+   "content": "所以我们在面板这里去移动加定位",
+   "music": 0.0
+  },
+  {
+   "from": 158.02,
+   "to": 159.58,
+   "sid": 72,
+   "location": 2,
+   "content": "瞄准bot但不开枪",
+   "music": 0.0
+  },
+  {
+   "from": 159.58,
+   "to": 162.1,
+   "sid": 73,
+   "location": 2,
+   "content": "当我们移动补偿准确要拉过bolt的时候",
+   "music": 0.0
+  },
+  {
+   "from": 162.1,
+   "to": 164.32,
+   "sid": 74,
+   "location": 2,
+   "content": "去做整形的微调或者急停后微调",
+   "music": 0.0
+  },
+  {
+   "from": 164.32,
+   "to": 166.5,
+   "sid": 75,
+   "location": 2,
+   "content": "同时要去练习左手在移动中停下来",
+   "music": 0.0
+  },
+  {
+   "from": 166.5,
+   "to": 168.2,
+   "sid": 76,
+   "location": 2,
+   "content": "整形就在bot头上的动作",
+   "music": 0.0
+  },
+  {
+   "from": 168.2,
+   "to": 170.26,
+   "sid": 77,
+   "location": 2,
+   "content": "因为我比较习惯移动补偿的瞄准方式",
+   "music": 0.0
+  },
+  {
+   "from": 170.26,
+   "to": 172.28,
+   "sid": 78,
+   "location": 2,
+   "content": "如果你不是这类风格瞄准的玩家",
+   "music": 0.0
+  },
+  {
+   "from": 172.28,
+   "to": 174.26,
+   "sid": 79,
+   "location": 2,
+   "content": "练习时可以不参考这个项目",
+   "music": 0.0
+  },
+  {
+   "from": 174.26,
+   "to": 175.93,
+   "sid": 80,
+   "location": 2,
+   "content": "然后就是一次定位练习",
+   "music": 0.0
+  },
+  {
+   "from": 175.93,
+   "to": 177.53,
+   "sid": 81,
+   "location": 2,
+   "content": "只用右手去瞄准定位",
+   "music": 0.0
+  },
+  {
+   "from": 178.61,
+   "to": 181.41,
+   "sid": 82,
+   "location": 2,
+   "content": "接着就是压枪和扫射转移练习",
+   "music": 0.0
+  },
+  {
+   "from": 184.94,
+   "to": 186.54,
+   "sid": 83,
+   "location": 2,
+   "content": "一跳加长枪练习",
+   "music": 0.0
+  },
+  {
+   "from": 188.54,
+   "to": 190.46,
+   "sid": 84,
+   "location": 2,
+   "content": "但炸药包大拉",
+   "music": 0.0
+  },
+  {
+   "from": 191.25,
+   "to": 194.89,
+   "sid": 85,
+   "location": 2,
+   "content": "炸药包最后就是死斗",
+   "music": 0.0
+  },
+  {
+   "from": 194.89,
+   "to": 197.209,
+   "sid": 86,
+   "location": 2,
+   "content": "在死斗里去做准星摆放和预瞄",
+   "music": 0.0
+  },
+  {
+   "from": 197.209,
+   "to": 199.209,
+   "sid": 87,
+   "location": 2,
+   "content": "我们在移动的时候去做假想",
+   "music": 0.0
+  },
+  {
+   "from": 199.209,
+   "to": 200.569,
+   "sid": 88,
+   "location": 2,
+   "content": "假想掩体后面有人",
+   "music": 0.0
+  },
+  {
+   "from": 200.569,
+   "to": 201.529,
+   "sid": 89,
+   "location": 2,
+   "content": "然后进行预瞄",
+   "music": 0.0
+  },
+  {
+   "from": 201.529,
+   "to": 203.29,
+   "sid": 90,
+   "location": 2,
+   "content": "亦或是加强练习",
+   "music": 0.0
+  },
+  {
+   "from": 203.29,
+   "to": 207.13,
+   "sid": 91,
+   "location": 2,
+   "content": "当然我们不用去特别规定一把里面只能练一种",
+   "music": 0.0
+  },
+  {
+   "from": 210.0,
+   "to": 212.079,
+   "sid": 92,
+   "location": 2,
+   "content": "干掉四个",
+   "music": 0.0
+  },
+  {
+   "from": 212.639,
+   "to": 214.939,
+   "sid": 93,
+   "location": 2,
+   "content": "你习惯哪一种瞄准和开枪方式",
+   "music": 0.0
+  },
+  {
+   "from": 214.939,
+   "to": 216.979,
+   "sid": 94,
+   "location": 2,
+   "content": "我们就在乱斗对枪里去践行",
+   "music": 0.0
+  },
+  {
+   "from": 216.979,
+   "to": 218.239,
+   "sid": 95,
+   "location": 2,
+   "content": "如果是热身死斗",
+   "music": 0.0
+  },
+  {
+   "from": 218.239,
+   "to": 219.739,
+   "sid": 96,
+   "location": 2,
+   "content": "我最多可能只打两把",
+   "music": 0.0
+  },
+  {
+   "from": 219.739,
+   "to": 221.45,
+   "sid": 97,
+   "location": 2,
+   "content": "撂倒三",
+   "music": 0.0
+  },
+  {
+   "from": 222.47,
+   "to": 223.45,
+   "sid": 98,
+   "location": 2,
+   "content": "除此之外",
+   "music": 0.0
+  },
+  {
+   "from": 223.45,
+   "to": 225.84,
+   "sid": 99,
+   "location": 2,
+   "content": "我们可以去创造特定的对枪环境",
+   "music": 0.0
+  },
+  {
+   "from": 225.84,
+   "to": 228.54,
+   "sid": 100,
+   "location": 2,
+   "content": "比如在空岛中路站一个面临多条枪线的位置",
+   "music": 0.0
+  },
+  {
+   "from": 228.54,
+   "to": 230.48,
+   "sid": 101,
+   "location": 2,
+   "content": "必须利用少的掩体做身位控制",
+   "music": 0.0
+  },
+  {
+   "from": 230.48,
+   "to": 231.58,
+   "sid": 102,
+   "location": 2,
+   "content": "模拟一打多的场景",
+   "music": 0.0
+  },
+  {
+   "from": 231.58,
+   "to": 233.51,
+   "sid": 103,
+   "location": 2,
+   "content": "其实就是转陀螺",
+   "music": 0.0
+  },
+  {
+   "from": 233.71,
+   "to": 235.55,
+   "sid": 104,
+   "location": 2,
+   "content": "第四个",
+   "music": 0.9999998437500245
+  },
+  {
+   "from": 236.8,
+   "to": 238.8,
+   "sid": 105,
+   "location": 2,
+   "content": "分享完学浅的上分经验",
+   "music": 0.0
+  },
+  {
+   "from": 238.8,
+   "to": 240.72,
+   "sid": 106,
+   "location": 2,
+   "content": "我来讲讲我对娃的感受",
+   "music": 0.0
+  },
+  {
+   "from": 240.72,
+   "to": 241.76,
+   "sid": 107,
+   "location": 2,
+   "content": "一款以前好玩",
+   "music": 0.0
+  },
+  {
+   "from": 241.76,
+   "to": 244.3,
+   "sid": 108,
+   "location": 2,
+   "content": "且无时无刻不在榨干你专注度的游戏",
+   "music": 0.0
+  },
+  {
+   "from": 244.3,
+   "to": 247.5,
+   "sid": 109,
+   "location": 2,
+   "content": "瓦短TTK的底层逻辑让瓦注定是一个爆头",
+   "music": 0.0
+  },
+  {
+   "from": 247.5,
+   "to": 249.52,
+   "sid": 110,
+   "location": 2,
+   "content": "游戏分布就在毫秒之间",
+   "music": 0.0
+  },
+  {
+   "from": 249.52,
+   "to": 251.04,
+   "sid": 111,
+   "location": 2,
+   "content": "场上风云变化的瞬间",
+   "music": 0.0
+  },
+  {
+   "from": 251.04,
+   "to": 252.26,
+   "sid": 112,
+   "location": 2,
+   "content": "让人心跳加速",
+   "music": 0.0
+  },
+  {
+   "from": 252.26,
+   "to": 253.86,
+   "sid": 113,
+   "location": 2,
+   "content": "瞬间的爆头让人愉悦",
+   "music": 0.0
+  },
+  {
+   "from": 253.86,
+   "to": 255.54,
+   "sid": 114,
+   "location": 2,
+   "content": "代价就是更强的挫败感",
+   "music": 0.0
+  },
+  {
+   "from": 255.54,
+   "to": 258.3,
+   "sid": 115,
+   "location": 2,
+   "content": "最初达瓦的情绪仿佛在坐过山车上",
+   "music": 0.0
+  },
+  {
+   "from": 258.3,
+   "to": 260.6,
+   "sid": 116,
+   "location": 2,
+   "content": "一场因爆种乱杀状态好而兴奋",
+   "music": 0.0
+  },
+  {
+   "from": 260.6,
+   "to": 262.34,
+   "sid": 117,
+   "location": 2,
+   "content": "下一场就会被匹配机制",
+   "music": 0.0
+  },
+  {
+   "from": 262.34,
+   "to": 264.5,
+   "sid": 118,
+   "location": 2,
+   "content": "负面情绪反对矛盾一扫而空",
+   "music": 0.0
+  },
+  {
+   "from": 264.5,
+   "to": 266.5,
+   "sid": 119,
+   "location": 2,
+   "content": "做好听点叫锻炼的心态",
+   "music": 0.0
+  },
+  {
+   "from": 266.5,
+   "to": 267.26,
+   "sid": 120,
+   "location": 2,
+   "content": "不以物喜",
+   "music": 0.0
+  },
+  {
+   "from": 267.26,
+   "to": 267.94,
+   "sid": 121,
+   "location": 2,
+   "content": "不以己悲",
+   "music": 0.0
+  },
+  {
+   "from": 267.94,
+   "to": 270.2,
+   "sid": 122,
+   "location": 2,
+   "content": "说难听点就是和娃玩艾斯艾姆",
+   "music": 0.0
+  },
+  {
+   "from": 270.2,
+   "to": 272.539,
+   "sid": 123,
+   "location": 2,
+   "content": "只不过玩家是那个艾姆罢了",
+   "music": 0.0
+  },
+  {
+   "from": 272.539,
+   "to": 275.639,
+   "sid": 124,
+   "location": 2,
+   "content": "其游戏环境更是被外人形容成锁妖塔上三",
+   "music": 0.0
+  },
+  {
+   "from": 275.639,
+   "to": 277.72,
+   "sid": 125,
+   "location": 2,
+   "content": "外挂多动三戾气重",
+   "music": 0.0
+  },
+  {
+   "from": 277.72,
+   "to": 278.9,
+   "sid": 126,
+   "location": 2,
+   "content": "下山炸鱼多",
+   "music": 0.0
+  },
+  {
+   "from": 278.9,
+   "to": 281.06,
+   "sid": 127,
+   "location": 2,
+   "content": "可以说每个分段都有自己的特色",
+   "music": 0.0
+  },
+  {
+   "from": 281.06,
+   "to": 283.6,
+   "sid": 128,
+   "location": 2,
+   "content": "同时不同需求的玩家都没有合适的归处",
+   "music": 0.0
+  },
+  {
+   "from": 283.6,
+   "to": 286.32,
+   "sid": 129,
+   "location": 2,
+   "content": "追求公平竞技的玩家去和外挂玩狼人杀",
+   "music": 0.0
+  },
+  {
+   "from": 286.32,
+   "to": 288.56,
+   "sid": 130,
+   "location": 2,
+   "content": "与外挂炸鱼匹配机制斗智斗勇",
+   "music": 0.0
+  },
+  {
+   "from": 288.56,
+   "to": 290.08,
+   "sid": 131,
+   "location": 2,
+   "content": "而享受轻度游戏的娱乐",
+   "music": 0.0
+  },
+  {
+   "from": 290.08,
+   "to": 292.12,
+   "sid": 132,
+   "location": 2,
+   "content": "玩家选择更是少之又少",
+   "music": 0.0
+  },
+  {
+   "from": 292.12,
+   "to": 293.68,
+   "sid": 133,
+   "location": 2,
+   "content": "每一个游戏模式都离不开",
+   "music": 0.0
+  },
+  {
+   "from": 293.68,
+   "to": 295.76,
+   "sid": 134,
+   "location": 2,
+   "content": "那让人挫败感大增的底层逻辑",
+   "music": 0.0
+  },
+  {
+   "from": 295.76,
+   "to": 298.32,
+   "sid": 135,
+   "location": 2,
+   "content": "而游戏成功做到了不讨好任何一个群体",
+   "music": 0.0
+  },
+  {
+   "from": 298.32,
+   "to": 300.2,
+   "sid": 136,
+   "location": 2,
+   "content": "所以当我上到神话的第一反应",
+   "music": 0.0
+  },
+  {
+   "from": 300.2,
+   "to": 301.8,
+   "sid": 137,
+   "location": 2,
+   "content": "不是想上更高的段位",
+   "music": 0.0
+  },
+  {
+   "from": 301.8,
+   "to": 303.12,
+   "sid": 138,
+   "location": 2,
+   "content": "更多的是一种解脱",
+   "music": 0.0
+  },
+  {
+   "from": 303.12,
+   "to": 305.86,
+   "sid": 139,
+   "location": 2,
+   "content": "这让我可以短暂的不去品尝挖这个大粪",
+   "music": 0.0
+  },
+  {
+   "from": 305.86,
+   "to": 308.42,
+   "sid": 140,
+   "location": 2,
+   "content": "我深知自己在FPS上是没有天赋的",
+   "music": 0.0
+  },
+  {
+   "from": 308.42,
+   "to": 308.9,
+   "sid": 141,
+   "location": 2,
+   "content": "普通人",
+   "music": 0.0
+  },
+  {
+   "from": 308.9,
+   "to": 310.92,
+   "sid": 142,
+   "location": 2,
+   "content": "我没有那种天才的傲骨与亲戚",
+   "music": 0.0
+  },
+  {
+   "from": 310.92,
+   "to": 313.16,
+   "sid": 143,
+   "location": 2,
+   "content": "我只有每个竞技玩家都有的努力",
+   "music": 0.0
+  },
+  {
+   "from": 313.16,
+   "to": 315.3,
+   "sid": 144,
+   "location": 2,
+   "content": "但在天才遍地的VC电线里",
+   "music": 0.0
+  },
+  {
+   "from": 315.3,
+   "to": 317.429,
+   "sid": 145,
+   "location": 2,
+   "content": "努力是最不值得一提的东西",
+   "music": 0.0
+  },
+  {
+   "from": 317.429,
+   "to": 318.869,
+   "sid": 146,
+   "location": 2,
+   "content": "由于做瓦的视频",
+   "music": 0.0
+  },
+  {
+   "from": 318.869,
+   "to": 319.949,
+   "sid": 147,
+   "location": 2,
+   "content": "有时还会做教学",
+   "music": 0.0
+  },
+  {
+   "from": 319.949,
+   "to": 321.669,
+   "sid": 148,
+   "location": 2,
+   "content": "所以我把神话当做一个目标",
+   "music": 0.0
+  },
+  {
+   "from": 321.669,
+   "to": 323.04,
+   "sid": 149,
+   "location": 2,
+   "content": "一个教师资格证",
+   "music": 0.0
+  },
+  {
+   "from": 323.04,
+   "to": 325.02,
+   "sid": 150,
+   "location": 2,
+   "content": "让自己的教学和经验更有时间意义",
+   "music": 0.0
+  },
+  {
+   "from": 325.02,
+   "to": 327.98,
+   "sid": 151,
+   "location": 2,
+   "content": "我打排位的时候更愿意去做指挥的那个角色",
+   "music": 0.0
+  },
+  {
+   "from": 327.98,
+   "to": 330.1,
+   "sid": 152,
+   "location": 2,
+   "content": "是因为我享受和素不相识的队友磨合",
+   "music": 0.0
+  },
+  {
+   "from": 330.1,
+   "to": 332.16,
+   "sid": 153,
+   "location": 2,
+   "content": "并产生奇妙化学反应的那个体验",
+   "music": 0.0
+  },
+  {
+   "from": 332.16,
+   "to": 333.62,
+   "sid": 154,
+   "location": 2,
+   "content": "享受努力交流沟通",
+   "music": 0.0
+  },
+  {
+   "from": 333.62,
+   "to": 334.34,
+   "sid": 155,
+   "location": 2,
+   "content": "共同思考",
+   "music": 0.0
+  },
+  {
+   "from": 334.34,
+   "to": 336.4,
+   "sid": 156,
+   "location": 2,
+   "content": "解决比赛遇到困难的过程",
+   "music": 0.0
+  },
+  {
+   "from": 336.4,
+   "to": 338.04,
+   "sid": 157,
+   "location": 2,
+   "content": "但是排位能带来的副作用",
+   "music": 0.0
+  },
+  {
+   "from": 338.04,
+   "to": 339.6,
+   "sid": 158,
+   "location": 2,
+   "content": "远比我喜欢的体验要大",
+   "music": 0.0
+  },
+  {
+   "from": 339.6,
+   "to": 342.24,
+   "sid": 159,
+   "location": 2,
+   "content": "短时间不会有继续冲更高段位的想法",
+   "music": 0.0
+  },
+  {
+   "from": 342.24,
+   "to": 344.92,
+   "sid": 160,
+   "location": 2,
+   "content": "我可能会花更多时间去提高视频质量",
+   "music": 0.0
+  },
+  {
+   "from": 344.92,
+   "to": 347.32,
+   "sid": 161,
+   "location": 2,
+   "content": "我想多尝试去做多样的内容",
+   "music": 0.0
+  },
+  {
+   "from": 349.6,
+   "to": 350.68,
+   "sid": 162,
+   "location": 2,
+   "content": "只要是我想的内容",
+   "music": 0.0
+  },
+  {
+   "from": 350.68,
+   "to": 351.46,
+   "sid": 163,
+   "location": 2,
+   "content": "我就去做",
+   "music": 0.0
+  },
+  {
+   "from": 351.46,
+   "to": 353.94,
+   "sid": 164,
+   "location": 2,
+   "content": "谢谢你们能一直信任并支持我",
+   "music": 0.117117111841569
+  },
+  {
+   "from": 357.1,
+   "to": 358.7,
+   "sid": 165,
+   "location": 2,
+   "content": "了的day",
+   "music": 0.9999998214286034
+  },
+  {
+   "from": 358.98,
+   "to": 359.86,
+   "sid": 166,
+   "location": 2,
+   "content": "You're saying",
+   "music": 0.9999997727273243
+  },
+  {
+   "from": 359.86,
+   "to": 360.48,
+   "sid": 167,
+   "location": 2,
+   "content": "I'm the one",
+   "music": 0.9999998387097035
+  },
+  {
+   "from": 360.48,
+   "to": 362.4,
+   "sid": 168,
+   "location": 2,
+   "content": "But it's your actions",
+   "music": 0.9999999375000038
+  },
+  {
+   "from": 362.4,
+   "to": 365.27,
+   "sid": 169,
+   "location": 2,
+   "content": "Let's be clouded",
+   "music": 0.9999999342105306
+  },
+  {
+   "from": 365.35,
+   "to": 366.33,
+   "sid": 170,
+   "location": 2,
+   "content": "Give me",
+   "music": 0.9999998360656007
+  },
+  {
+   "from": 366.33,
+   "to": 367.35,
+   "sid": 171,
+   "location": 2,
+   "content": "Loving you",
+   "music": 0.9999999019607939
+  },
+  {
+   "from": 367.35,
+   "to": 370.74,
+   "sid": 172,
+   "location": 2,
+   "content": "Walk down and need another",
+   "music": 0.9999999441340813
+  },
+  {
+   "from": 371.3,
+   "to": 372.84,
+   "sid": 173,
+   "location": 2,
+   "content": "I've gotta get away",
+   "music": 0.9999999193548451
+  },
+  {
+   "from": 372.84,
+   "to": 374.4,
+   "sid": 174,
+   "location": 2,
+   "content": "And let you go",
+   "music": 0.9999999000000099
+  },
+  {
+   "from": 374.4,
+   "to": 377.18,
+   "sid": 175,
+   "location": 2,
+   "content": "I've gotta get over",
+   "music": 0.99999993589744
+  },
+  {
+   "from": 377.54,
+   "to": 379.74,
+   "sid": 176,
+   "location": 2,
+   "content": "But i love you",
+   "music": 0.9999999305555604
+  },
+  {
+   "from": 379.74,
+   "to": 380.52,
+   "sid": 177,
+   "location": 2,
+   "content": "So",
+   "music": 0.0
+  },
+  {
+   "from": 383.96,
+   "to": 387.32,
+   "sid": 178,
+   "location": 2,
+   "content": "I love you love",
+   "music": 0.9999998958333443
+  },
+  {
+   "from": 390.18,
+   "to": 392.6,
+   "sid": 179,
+   "location": 2,
+   "content": "爱了你is3",
+   "music": 0.99999986842107
+  }
+ ]
+}

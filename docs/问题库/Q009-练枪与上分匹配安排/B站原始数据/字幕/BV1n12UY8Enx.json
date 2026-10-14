@@ -1,0 +1,1132 @@
+{
+ "font_size": 0.4,
+ "font_color": "#FFFFFF",
+ "background_alpha": 0.5,
+ "background_color": "#9C27B0",
+ "Stroke": "none",
+ "type": "AIsubtitle",
+ "lang": "zh",
+ "version": "v1.7.0.4",
+ "body": [
+  {
+   "from": 0.04,
+   "to": 1.38,
+   "sid": 1,
+   "location": 2,
+   "content": "明明每天都在练枪",
+   "music": 0.0
+  },
+  {
+   "from": 1.38,
+   "to": 3.5,
+   "sid": 2,
+   "location": 2,
+   "content": "结果一到实战就是打不出来",
+   "music": 0.0
+  },
+  {
+   "from": 3.5,
+   "to": 4.16,
+   "sid": 3,
+   "location": 2,
+   "content": "怎么回事",
+   "music": 0.0
+  },
+  {
+   "from": 4.16,
+   "to": 6.12,
+   "sid": 4,
+   "location": 2,
+   "content": "这个视频直接让你醍醐灌顶",
+   "music": 0.0
+  },
+  {
+   "from": 6.12,
+   "to": 8.04,
+   "sid": 5,
+   "location": 2,
+   "content": "练枪就是搭一座金字塔",
+   "music": 0.31249998372395915
+  },
+  {
+   "from": 8.04,
+   "to": 10.7,
+   "sid": 6,
+   "location": 2,
+   "content": "你如果第一层第二层的基础没有打好",
+   "music": 0.0
+  },
+  {
+   "from": 10.7,
+   "to": 11.9,
+   "sid": 7,
+   "location": 2,
+   "content": "上来就练第三层",
+   "music": 0.0
+  },
+  {
+   "from": 11.9,
+   "to": 12.88,
+   "sid": 8,
+   "location": 2,
+   "content": "第五层的东西",
+   "music": 0.0
+  },
+  {
+   "from": 12.88,
+   "to": 14.82,
+   "sid": 9,
+   "location": 2,
+   "content": "这座金字塔肯定是不稳固的",
+   "music": 0.0
+  },
+  {
+   "from": 14.82,
+   "to": 16.66,
+   "sid": 10,
+   "location": 2,
+   "content": "你的枪法也肯定很难发挥出来",
+   "music": 0.0
+  },
+  {
+   "from": 16.66,
+   "to": 18.66,
+   "sid": 11,
+   "location": 2,
+   "content": "这里就教给大家金字塔练枪法",
+   "music": 0.419999979000001
+  },
+  {
+   "from": 18.66,
+   "to": 20.3,
+   "sid": 12,
+   "location": 2,
+   "content": "金字塔第一层预瞄",
+   "music": 0.0
+  },
+  {
+   "from": 20.3,
+   "to": 22.94,
+   "sid": 13,
+   "location": 2,
+   "content": "我不止一次在直播或者视频里说过",
+   "music": 0.0
+  },
+  {
+   "from": 22.94,
+   "to": 24.1,
+   "sid": 14,
+   "location": 2,
+   "content": "枪法最基础",
+   "music": 0.0
+  },
+  {
+   "from": 24.1,
+   "to": 26.14,
+   "sid": 15,
+   "location": 2,
+   "content": "最下面这一层一定是预瞄",
+   "music": 0.0
+  },
+  {
+   "from": 26.14,
+   "to": 27.58,
+   "sid": 16,
+   "location": 2,
+   "content": "你预瞄练得越好",
+   "music": 0.0
+  },
+  {
+   "from": 27.58,
+   "to": 29.06,
+   "sid": 17,
+   "location": 2,
+   "content": "你的瞄准会越轻松",
+   "music": 0.0
+  },
+  {
+   "from": 29.06,
+   "to": 30.52,
+   "sid": 18,
+   "location": 2,
+   "content": "钻石分段以下",
+   "music": 0.0
+  },
+  {
+   "from": 30.52,
+   "to": 31.52,
+   "sid": 19,
+   "location": 2,
+   "content": "练好预瞄",
+   "music": 0.0
+  },
+  {
+   "from": 31.52,
+   "to": 34.4,
+   "sid": 20,
+   "location": 2,
+   "content": "就足以应付90%以上的对枪环境了",
+   "music": 0.0
+  },
+  {
+   "from": 34.4,
+   "to": 35.82,
+   "sid": 21,
+   "location": 2,
+   "content": "那怎么练习预瞄呢",
+   "music": 0.0
+  },
+  {
+   "from": 35.82,
+   "to": 37.96,
+   "sid": 22,
+   "location": 2,
+   "content": "第一个练习鼠标掌控力",
+   "music": 0.0
+  },
+  {
+   "from": 37.96,
+   "to": 39.36,
+   "sid": 23,
+   "location": 2,
+   "content": "练习的方法也很简单",
+   "music": 0.0
+  },
+  {
+   "from": 39.36,
+   "to": 41.96,
+   "sid": 24,
+   "location": 2,
+   "content": "要么你来到训练场里选择100个机器人",
+   "music": 0.0
+  },
+  {
+   "from": 41.96,
+   "to": 44.18,
+   "sid": 25,
+   "location": 2,
+   "content": "然后准心瞄准机器人的头",
+   "music": 0.0
+  },
+  {
+   "from": 44.18,
+   "to": 45.36,
+   "sid": 26,
+   "location": 2,
+   "content": "到处乱走",
+   "music": 0.0
+  },
+  {
+   "from": 45.36,
+   "to": 47.08,
+   "sid": 27,
+   "location": 2,
+   "content": "走的时候保持准心",
+   "music": 0.0
+  },
+  {
+   "from": 47.08,
+   "to": 48.18,
+   "sid": 28,
+   "location": 2,
+   "content": "锁住敌人的脑袋",
+   "music": 0.0
+  },
+  {
+   "from": 48.18,
+   "to": 50.12,
+   "sid": 29,
+   "location": 2,
+   "content": "要么你就去练枪软件里面",
+   "music": 0.0
+  },
+  {
+   "from": 50.12,
+   "to": 52.04,
+   "sid": 30,
+   "location": 2,
+   "content": "打这种移动跟枪的项目",
+   "music": 0.0
+  },
+  {
+   "from": 52.04,
+   "to": 52.76,
+   "sid": 31,
+   "location": 2,
+   "content": "练多了",
+   "music": 0.0
+  },
+  {
+   "from": 52.76,
+   "to": 54.18,
+   "sid": 32,
+   "location": 2,
+   "content": "你会发现你的手很稳",
+   "music": 0.0
+  },
+  {
+   "from": 54.18,
+   "to": 55.66,
+   "sid": 33,
+   "location": 2,
+   "content": "对鼠标的掌控力很强",
+   "music": 0.0
+  },
+  {
+   "from": 55.66,
+   "to": 57.04,
+   "sid": 34,
+   "location": 2,
+   "content": "你在平时移动的时候",
+   "music": 0.0
+  },
+  {
+   "from": 57.04,
+   "to": 59.96,
+   "sid": 35,
+   "location": 2,
+   "content": "准星也可以稳定的瞄准到你想要瞄准的位置",
+   "music": 0.0
+  },
+  {
+   "from": 59.96,
+   "to": 62.14,
+   "sid": 36,
+   "location": 2,
+   "content": "那么说回练习育苗的第二个项目",
+   "music": 0.0
+  },
+  {
+   "from": 62.14,
+   "to": 62.94,
+   "sid": 37,
+   "location": 2,
+   "content": "无声死斗",
+   "music": 0.0
+  },
+  {
+   "from": 62.94,
+   "to": 65.98,
+   "sid": 38,
+   "location": 2,
+   "content": "练习育苗真的找不到比无声死斗更好的方法了",
+   "music": 0.0
+  },
+  {
+   "from": 65.98,
+   "to": 69.4,
+   "sid": 39,
+   "location": 2,
+   "content": "并且无声死斗也是最接近实战的一种练习方式",
+   "music": 0.023391812181529605
+  },
+  {
+   "from": 69.4,
+   "to": 72.12,
+   "sid": 40,
+   "location": 2,
+   "content": "不过建议新手先去看我爆头线那一期视频",
+   "music": 0.10294117268598676
+  },
+  {
+   "from": 72.12,
+   "to": 74.68,
+   "sid": 41,
+   "location": 2,
+   "content": "可以先在自定义里面练习预瞄金字塔",
+   "music": 0.09374999633788869
+  },
+  {
+   "from": 74.68,
+   "to": 75.82,
+   "sid": 42,
+   "location": 2,
+   "content": "第二层急停",
+   "music": 0.0
+  },
+  {
+   "from": 75.82,
+   "to": 77.68,
+   "sid": 43,
+   "location": 2,
+   "content": "急停的原理听起来很简单",
+   "music": 0.0
+  },
+  {
+   "from": 77.68,
+   "to": 80.32,
+   "sid": 44,
+   "location": 2,
+   "content": "但是急停是摇摆射击的基础",
+   "music": 0.0
+  },
+  {
+   "from": 80.32,
+   "to": 81.98,
+   "sid": 45,
+   "location": 2,
+   "content": "不管你是松手急停也好",
+   "music": 0.0
+  },
+  {
+   "from": 81.98,
+   "to": 82.96,
+   "sid": 46,
+   "location": 2,
+   "content": "双键急停也好",
+   "music": 0.0
+  },
+  {
+   "from": 82.96,
+   "to": 83.88,
+   "sid": 47,
+   "location": 2,
+   "content": "反向急停也好",
+   "music": 0.0
+  },
+  {
+   "from": 83.88,
+   "to": 86.38,
+   "sid": 48,
+   "location": 2,
+   "content": "你都要练到这种在左右移动的近练习中",
+   "music": 0.0
+  },
+  {
+   "from": 86.38,
+   "to": 87.06,
+   "sid": 49,
+   "location": 2,
+   "content": "穿插射击",
+   "music": 0.0
+  },
+  {
+   "from": 87.06,
+   "to": 89.7,
+   "sid": 50,
+   "location": 2,
+   "content": "并且右上角的射击误差是没有蓝条的",
+   "music": 0.0
+  },
+  {
+   "from": 89.7,
+   "to": 90.26,
+   "sid": 51,
+   "location": 2,
+   "content": "金字塔的",
+   "music": 0.0
+  },
+  {
+   "from": 90.26,
+   "to": 91.82,
+   "sid": 52,
+   "location": 2,
+   "content": "第三层动态瞄准",
+   "music": 0.0
+  },
+  {
+   "from": 91.82,
+   "to": 93.62,
+   "sid": 53,
+   "location": 2,
+   "content": "先解释一下什么叫静态瞄准",
+   "music": 0.0
+  },
+  {
+   "from": 93.62,
+   "to": 94.58,
+   "sid": 54,
+   "location": 2,
+   "content": "什么叫动态瞄准",
+   "music": 0.0
+  },
+  {
+   "from": 94.58,
+   "to": 97.28,
+   "sid": 55,
+   "location": 2,
+   "content": "静态瞄准就是我们在自己不动的情况下",
+   "music": 0.0
+  },
+  {
+   "from": 97.28,
+   "to": 98.74,
+   "sid": 56,
+   "location": 2,
+   "content": "瞄准一个不动的敌人",
+   "music": 0.0
+  },
+  {
+   "from": 98.74,
+   "to": 101.02,
+   "sid": 57,
+   "location": 2,
+   "content": "最常见的就是练枪软件中打六目标",
+   "music": 0.0
+  },
+  {
+   "from": 101.02,
+   "to": 103.24,
+   "sid": 58,
+   "location": 2,
+   "content": "或者我们在训练场里面站着不动",
+   "music": 0.0
+  },
+  {
+   "from": 103.24,
+   "to": 104.02,
+   "sid": 59,
+   "location": 2,
+   "content": "打机器人",
+   "music": 0.0
+  },
+  {
+   "from": 104.02,
+   "to": 107.2,
+   "sid": 60,
+   "location": 2,
+   "content": "动态瞄准呢就是我们在移动的过程中进行瞄准",
+   "music": 0.0
+  },
+  {
+   "from": 107.2,
+   "to": 109.1,
+   "sid": 61,
+   "location": 2,
+   "content": "又或者是瞄准一个移动的敌人",
+   "music": 0.0
+  },
+  {
+   "from": 109.1,
+   "to": 111.16,
+   "sid": 62,
+   "location": 2,
+   "content": "我统计了十场职业选手的POV",
+   "music": 0.0
+  },
+  {
+   "from": 111.16,
+   "to": 112.92,
+   "sid": 63,
+   "location": 2,
+   "content": "还有我自己的十场国服对局",
+   "music": 0.0
+  },
+  {
+   "from": 112.92,
+   "to": 115.12,
+   "sid": 64,
+   "location": 2,
+   "content": "发现起码有60%以上的击杀",
+   "music": 0.0
+  },
+  {
+   "from": 115.12,
+   "to": 116.96,
+   "sid": 65,
+   "location": 2,
+   "content": "是预瞄加微调完成的",
+   "music": 0.0
+  },
+  {
+   "from": 116.96,
+   "to": 118.92,
+   "sid": 66,
+   "location": 2,
+   "content": "大约35%是动态瞄准",
+   "music": 0.0
+  },
+  {
+   "from": 118.92,
+   "to": 121.32,
+   "sid": 67,
+   "location": 2,
+   "content": "可能只有5%才是静态瞄准",
+   "music": 0.0
+  },
+  {
+   "from": 121.32,
+   "to": 124.52,
+   "sid": 68,
+   "location": 2,
+   "content": "这就是为什么很多人练枪每天拼命打六目标",
+   "music": 0.0
+  },
+  {
+   "from": 124.52,
+   "to": 126.56,
+   "sid": 69,
+   "location": 2,
+   "content": "打困难模式都能打20多个了",
+   "music": 0.0
+  },
+  {
+   "from": 126.56,
+   "to": 128.16,
+   "sid": 70,
+   "location": 2,
+   "content": "结果一到实战里就歇菜",
+   "music": 0.0
+  },
+  {
+   "from": 128.16,
+   "to": 130.76,
+   "sid": 71,
+   "location": 2,
+   "content": "因为你练的东西在占里只占5%",
+   "music": 0.0
+  },
+  {
+   "from": 130.76,
+   "to": 131.68,
+   "sid": 72,
+   "location": 2,
+   "content": "甚至根本用不到",
+   "music": 0.0
+  },
+  {
+   "from": 131.68,
+   "to": 134.66,
+   "sid": 73,
+   "location": 2,
+   "content": "你把你拿来打六目标的时间拿来练育苗",
+   "music": 0.0
+  },
+  {
+   "from": 134.66,
+   "to": 135.8,
+   "sid": 74,
+   "location": 2,
+   "content": "练动态瞄准",
+   "music": 0.0
+  },
+  {
+   "from": 135.8,
+   "to": 137.02,
+   "sid": 75,
+   "location": 2,
+   "content": "枪法早就上去了",
+   "music": 0.0
+  },
+  {
+   "from": 137.02,
+   "to": 138.74,
+   "sid": 76,
+   "location": 2,
+   "content": "那么动态瞄准应该怎么练呢",
+   "music": 0.0
+  },
+  {
+   "from": 138.74,
+   "to": 140.98,
+   "sid": 77,
+   "location": 2,
+   "content": "第一个我动别人不动训练场",
+   "music": 0.0
+  },
+  {
+   "from": 140.98,
+   "to": 142.1,
+   "sid": 78,
+   "location": 2,
+   "content": "打开100个机器人",
+   "music": 0.0
+  },
+  {
+   "from": 142.1,
+   "to": 142.9,
+   "sid": 79,
+   "location": 2,
+   "content": "来到侧面",
+   "music": 0.0
+  },
+  {
+   "from": 142.9,
+   "to": 144.66,
+   "sid": 80,
+   "location": 2,
+   "content": "在移动中瞄准敌人后",
+   "music": 0.0
+  },
+  {
+   "from": 144.66,
+   "to": 145.44,
+   "sid": 81,
+   "location": 2,
+   "content": "停下来开枪",
+   "music": 0.0
+  },
+  {
+   "from": 145.44,
+   "to": 146.32,
+   "sid": 82,
+   "location": 2,
+   "content": "打掉敌人后",
+   "music": 0.0
+  },
+  {
+   "from": 146.32,
+   "to": 147.5,
+   "sid": 83,
+   "location": 2,
+   "content": "立刻继续移动",
+   "music": 0.0
+  },
+  {
+   "from": 147.5,
+   "to": 149.46,
+   "sid": 84,
+   "location": 2,
+   "content": "在移动中瞄准下一个敌人",
+   "music": 0.0
+  },
+  {
+   "from": 149.46,
+   "to": 151.24,
+   "sid": 85,
+   "location": 2,
+   "content": "第二个是我不动敌人",
+   "music": 0.0
+  },
+  {
+   "from": 151.24,
+   "to": 153.58,
+   "sid": 86,
+   "location": 2,
+   "content": "动这个项目我是在KWAK里面练习的",
+   "music": 0.0
+  },
+  {
+   "from": 153.58,
+   "to": 155.56,
+   "sid": 87,
+   "location": 2,
+   "content": "名字是叫这个time speed two bs",
+   "music": 0.0
+  },
+  {
+   "from": 155.56,
+   "to": 156.82,
+   "sid": 88,
+   "location": 2,
+   "content": "有很多类似的项目",
+   "music": 0.0
+  },
+  {
+   "from": 156.82,
+   "to": 159.42,
+   "sid": 89,
+   "location": 2,
+   "content": "或者你也可以直接在训练场里面打开100目标",
+   "music": 0.0
+  },
+  {
+   "from": 159.42,
+   "to": 161.0,
+   "sid": 90,
+   "location": 2,
+   "content": "然后打开机器人的移动",
+   "music": 0.0
+  },
+  {
+   "from": 161.0,
+   "to": 162.2,
+   "sid": 91,
+   "location": 2,
+   "content": "然后你站着不动打",
+   "music": 0.0
+  },
+  {
+   "from": 162.2,
+   "to": 165.0,
+   "sid": 92,
+   "location": 2,
+   "content": "注意打的时候不要去预判敌人的走位",
+   "music": 0.0
+  },
+  {
+   "from": 165.0,
+   "to": 166.12,
+   "sid": 93,
+   "location": 2,
+   "content": "感觉更像是追追踪",
+   "music": 0.0
+  },
+  {
+   "from": 166.12,
+   "to": 168.6,
+   "sid": 94,
+   "location": 2,
+   "content": "然后在准星和敌人重合的时候开枪",
+   "music": 0.0
+  },
+  {
+   "from": 168.6,
+   "to": 169.34,
+   "sid": 95,
+   "location": 2,
+   "content": "第三个",
+   "music": 0.0
+  },
+  {
+   "from": 169.34,
+   "to": 170.78,
+   "sid": 96,
+   "location": 2,
+   "content": "我动敌人也动",
+   "music": 0.0
+  },
+  {
+   "from": 170.78,
+   "to": 171.3,
+   "sid": 97,
+   "location": 2,
+   "content": "训练场",
+   "music": 0.0
+  },
+  {
+   "from": 171.3,
+   "to": 172.5,
+   "sid": 98,
+   "location": 2,
+   "content": "打开100个机器人",
+   "music": 0.0
+  },
+  {
+   "from": 172.5,
+   "to": 173.54,
+   "sid": 99,
+   "location": 2,
+   "content": "然后打开移动",
+   "music": 0.0
+  },
+  {
+   "from": 173.54,
+   "to": 174.54,
+   "sid": 100,
+   "location": 2,
+   "content": "就站在正面",
+   "music": 0.0
+  },
+  {
+   "from": 174.54,
+   "to": 176.72,
+   "sid": 101,
+   "location": 2,
+   "content": "保持我们自自己左右移动的过程中",
+   "music": 0.0
+  },
+  {
+   "from": 176.72,
+   "to": 177.96,
+   "sid": 102,
+   "location": 2,
+   "content": "去瞄准移动的敌人",
+   "music": 0.0
+  },
+  {
+   "from": 177.96,
+   "to": 180.28,
+   "sid": 103,
+   "location": 2,
+   "content": "或者是在练好预瞄和急停的基础上",
+   "music": 0.0
+  },
+  {
+   "from": 180.28,
+   "to": 181.2,
+   "sid": 104,
+   "location": 2,
+   "content": "大量的打死斗",
+   "music": 0.0
+  },
+  {
+   "from": 181.2,
+   "to": 185.18,
+   "sid": 105,
+   "location": 2,
+   "content": "就练好金字塔的前三层预瞄加急停加动态瞄准",
+   "music": 0.0
+  },
+  {
+   "from": 185.18,
+   "to": 188.66,
+   "sid": 106,
+   "location": 2,
+   "content": "你的枪法起码在钻石超凡局里面不会落下风",
+   "music": 0.0
+  },
+  {
+   "from": 188.66,
+   "to": 190.7,
+   "sid": 107,
+   "location": 2,
+   "content": "第四层静态瞄准没错",
+   "music": 0.0
+  },
+  {
+   "from": 190.7,
+   "to": 194.1,
+   "sid": 108,
+   "location": 2,
+   "content": "我认为应该把预瞄急停动态瞄准练好之后",
+   "music": 0.0
+  },
+  {
+   "from": 194.1,
+   "to": 195.58,
+   "sid": 109,
+   "location": 2,
+   "content": "再回来练静态瞄准",
+   "music": 0.0
+  },
+  {
+   "from": 195.58,
+   "to": 196.82,
+   "sid": 110,
+   "location": 2,
+   "content": "练拉枪速度",
+   "music": 0.0
+  },
+  {
+   "from": 196.82,
+   "to": 198.32,
+   "sid": 111,
+   "location": 2,
+   "content": "定位精准度和微调",
+   "music": 0.0
+  },
+  {
+   "from": 198.32,
+   "to": 200.24,
+   "sid": 112,
+   "location": 2,
+   "content": "那静态瞄准的项目就太多了",
+   "music": 0.0
+  },
+  {
+   "from": 200.24,
+   "to": 202.22,
+   "sid": 113,
+   "location": 2,
+   "content": "我之前这集教学视频里面就有说过",
+   "music": 0.0
+  },
+  {
+   "from": 202.22,
+   "to": 205.2,
+   "sid": 114,
+   "location": 2,
+   "content": "金字塔第五层枪杆也叫屏幕中心感",
+   "music": 0.0
+  },
+  {
+   "from": 205.2,
+   "to": 206.8,
+   "sid": 115,
+   "location": 2,
+   "content": "这个东西说起来有点玄乎",
+   "music": 0.0
+  },
+  {
+   "from": 206.8,
+   "to": 209.26,
+   "sid": 116,
+   "location": 2,
+   "content": "但是你来到训练场选择困难模式",
+   "music": 0.0
+  },
+  {
+   "from": 209.26,
+   "to": 212.5,
+   "sid": 117,
+   "location": 2,
+   "content": "然后在设置里把你的鼠标准星给关掉",
+   "music": 0.0
+  },
+  {
+   "from": 212.5,
+   "to": 213.16,
+   "sid": 118,
+   "location": 2,
+   "content": "打打试试",
+   "music": 0.0
+  },
+  {
+   "from": 213.16,
+   "to": 215.12,
+   "sid": 119,
+   "location": 2,
+   "content": "你大概就能隐隐抓到那种感觉",
+   "music": 0.0
+  },
+  {
+   "from": 215.12,
+   "to": 216.5,
+   "sid": 120,
+   "location": 2,
+   "content": "所以看完今天这个视频",
+   "music": 0.0
+  },
+  {
+   "from": 216.5,
+   "to": 217.8,
+   "sid": 121,
+   "location": 2,
+   "content": "如果你想要提升枪法",
+   "music": 0.0
+  },
+  {
+   "from": 217.8,
+   "to": 219.64,
+   "sid": 122,
+   "location": 2,
+   "content": "最好是一步一个脚印的来",
+   "music": 0.0
+  },
+  {
+   "from": 219.64,
+   "to": 221.46,
+   "sid": 123,
+   "location": 2,
+   "content": "不用再一上来就练什么静态瞄准",
+   "music": 0.0
+  },
+  {
+   "from": 221.46,
+   "to": 224.06,
+   "sid": 124,
+   "location": 2,
+   "content": "从预瞄到急停到动态瞄准",
+   "music": 0.0
+  },
+  {
+   "from": 224.06,
+   "to": 225.22,
+   "sid": 125,
+   "location": 2,
+   "content": "每天就练这三项",
+   "music": 0.0
+  },
+  {
+   "from": 225.22,
+   "to": 226.34,
+   "sid": 126,
+   "location": 2,
+   "content": "进步真的飞快",
+   "music": 0.0
+  },
+  {
+   "from": 226.34,
+   "to": 227.42,
+   "sid": 127,
+   "location": 2,
+   "content": "我自己深有体会",
+   "music": 0.0
+  },
+  {
+   "from": 227.42,
+   "to": 228.94,
+   "sid": 128,
+   "location": 2,
+   "content": "另外还有一件很重要的事",
+   "music": 0.0
+  },
+  {
+   "from": 228.94,
+   "to": 230.28,
+   "sid": 129,
+   "location": 2,
+   "content": "那就是大家练枪的时候",
+   "music": 0.0
+  },
+  {
+   "from": 230.28,
+   "to": 231.8,
+   "sid": 130,
+   "location": 2,
+   "content": "最好不要很用力",
+   "music": 0.0
+  },
+  {
+   "from": 231.8,
+   "to": 233.1,
+   "sid": 131,
+   "location": 2,
+   "content": "很僵硬的握着鼠标",
+   "music": 0.0
+  },
+  {
+   "from": 233.1,
+   "to": 233.88,
+   "sid": 132,
+   "location": 2,
+   "content": "那样很累",
+   "music": 0.0
+  },
+  {
+   "from": 233.88,
+   "to": 235.34,
+   "sid": 133,
+   "location": 2,
+   "content": "而且对手的伤害很很大",
+   "music": 0.0
+  },
+  {
+   "from": 235.34,
+   "to": 237.78,
+   "sid": 134,
+   "location": 2,
+   "content": "你可以把手里的鼠标想象成一颗鸡蛋",
+   "music": 0.0
+  },
+  {
+   "from": 237.78,
+   "to": 239.98,
+   "sid": 135,
+   "location": 2,
+   "content": "或者想象成用食指和大拇指",
+   "music": 0.0
+  },
+  {
+   "from": 239.98,
+   "to": 241.76,
+   "sid": 136,
+   "location": 2,
+   "content": "夹着鼠标发力的那种感觉",
+   "music": 0.0
+  },
+  {
+   "from": 241.76,
+   "to": 242.32,
+   "sid": 137,
+   "location": 2,
+   "content": "想变强",
+   "music": 0.0
+  },
+  {
+   "from": 242.32,
+   "to": 242.96,
+   "sid": 138,
+   "location": 2,
+   "content": "记得关注我",
+   "music": 0.0
+  },
+  {
+   "from": 242.96,
+   "to": 243.44,
+   "sid": 139,
+   "location": 2,
+   "content": "我是约德尔",
+   "music": 0.0
+  },
+  {
+   "from": 243.44,
+   "to": 244.98,
+   "sid": 140,
+   "location": 2,
+   "content": "我们下期视频很快再见",
+   "music": 0.0
+  }
+ ]
+}
