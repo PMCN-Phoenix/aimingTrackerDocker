@@ -1,0 +1,2484 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "1.5.0",
+  "body": [
+    {
+      "from": 7.44,
+      "to": 9.6,
+      "sid": 1,
+      "location": 2,
+      "content": "不知道大家今天看了大破解",
+      "music": 0.0
+    },
+    {
+      "from": 9.6,
+      "to": 11.46,
+      "sid": 2,
+      "location": 2,
+      "content": "东京马拉松的表现没有呢",
+      "music": 0.0
+    },
+    {
+      "from": 11.46,
+      "to": 14.82,
+      "sid": 3,
+      "location": 2,
+      "content": "整个赛事的进行还是非常的精彩的",
+      "music": 0.0
+    },
+    {
+      "from": 14.82,
+      "to": 16.67,
+      "sid": 4,
+      "location": 2,
+      "content": "而且是有一些跌宕起伏的",
+      "music": 0.0
+    },
+    {
+      "from": 16.67,
+      "to": 18.71,
+      "sid": 5,
+      "location": 2,
+      "content": "前面前半程看那个配速",
+      "music": 0.0
+    },
+    {
+      "from": 18.71,
+      "to": 21.05,
+      "sid": 6,
+      "location": 2,
+      "content": "以为大破杰可以打破日本的国家纪录的",
+      "music": 0.0
+    },
+    {
+      "from": 21.05,
+      "to": 23.39,
+      "sid": 7,
+      "location": 2,
+      "content": "可惜就是后面出现了两次的岔气情况",
+      "music": 0.0
+    },
+    {
+      "from": 23.39,
+      "to": 24.59,
+      "sid": 8,
+      "location": 2,
+      "content": "不过我相信大破杰",
+      "music": 0.0
+    },
+    {
+      "from": 24.59,
+      "to": 28.17,
+      "sid": 9,
+      "location": 2,
+      "content": "应该还没有调整到他个人的最佳的动态吧",
+      "music": 0.0
+    },
+    {
+      "from": 28.17,
+      "to": 29.19,
+      "sid": 10,
+      "location": 2,
+      "content": "后面到后期的备好线",
+      "music": 0.0
+    },
+    {
+      "from": 29.19,
+      "to": 30.03,
+      "sid": 11,
+      "location": 2,
+      "content": "我们拭目以待",
+      "music": 0.0
+    },
+    {
+      "from": 30.03,
+      "to": 31.83,
+      "sid": 12,
+      "location": 2,
+      "content": "那今天来给大家分享一下",
+      "music": 0.0
+    },
+    {
+      "from": 31.83,
+      "to": 34.23,
+      "sid": 13,
+      "location": 2,
+      "content": "我第四期准备的中长跑训练的干货内容",
+      "music": 0.0
+    },
+    {
+      "from": 34.23,
+      "to": 36.28,
+      "sid": 14,
+      "location": 2,
+      "content": "首先来回顾一下前三期的内容吧",
+      "music": 0.0
+    },
+    {
+      "from": 36.28,
+      "to": 37.48,
+      "sid": 15,
+      "location": 2,
+      "content": "首先第一期的话",
+      "music": 0.0
+    },
+    {
+      "from": 37.48,
+      "to": 39.36,
+      "sid": 16,
+      "location": 2,
+      "content": "我对李黎教练",
+      "music": 0.0
+    },
+    {
+      "from": 39.36,
+      "to": 42.24,
+      "sid": 17,
+      "location": 2,
+      "content": "就是现任的中国中长跑国家队的教练",
+      "music": 0.0
+    },
+    {
+      "from": 42.24,
+      "to": 44.569,
+      "sid": 18,
+      "location": 2,
+      "content": "的训练理念进行了一个分析",
+      "music": 0.0
+    },
+    {
+      "from": 44.569,
+      "to": 46.789,
+      "sid": 19,
+      "location": 2,
+      "content": "也总结了1700字的文案笔记",
+      "music": 0.0
+    },
+    {
+      "from": 46.789,
+      "to": 48.269,
+      "sid": 20,
+      "location": 2,
+      "content": "还有一个干货视频",
+      "music": 0.0
+    },
+    {
+      "from": 48.269,
+      "to": 52.079,
+      "sid": 21,
+      "location": 2,
+      "content": "那这个视频呢主要是李丽对跑量的理解",
+      "music": 0.0
+    },
+    {
+      "from": 52.079,
+      "to": 53.309,
+      "sid": 22,
+      "location": 2,
+      "content": "还有他的训练理念",
+      "music": 0.0
+    },
+    {
+      "from": 53.309,
+      "to": 54.53,
+      "sid": 23,
+      "location": 2,
+      "content": "无伤加持续",
+      "music": 0.0
+    },
+    {
+      "from": 54.53,
+      "to": 56.75,
+      "sid": 24,
+      "location": 2,
+      "content": "这两点是非常关键的",
+      "music": 0.0
+    },
+    {
+      "from": 56.75,
+      "to": 58.61,
+      "sid": 25,
+      "location": 2,
+      "content": "无论是职业跑者还是业余跑者",
+      "music": 0.0
+    },
+    {
+      "from": 58.61,
+      "to": 60.17,
+      "sid": 26,
+      "location": 2,
+      "content": "这个训练理念层面上的东西",
+      "music": 0.0
+    },
+    {
+      "from": 60.17,
+      "to": 62.46,
+      "sid": 27,
+      "location": 2,
+      "content": "其实都是比训练方法还要高一个层级的",
+      "music": 0.0
+    },
+    {
+      "from": 62.46,
+      "to": 64.38,
+      "sid": 28,
+      "location": 2,
+      "content": "所以这个视频如果你看懂了",
+      "music": 0.0
+    },
+    {
+      "from": 64.38,
+      "to": 66.99,
+      "sid": 29,
+      "location": 2,
+      "content": "应该也会有可能影响你整一个跑步生涯",
+      "music": 0.0
+    },
+    {
+      "from": 66.99,
+      "to": 68.34,
+      "sid": 30,
+      "location": 2,
+      "content": "这里就不再赘述",
+      "music": 0.0
+    },
+    {
+      "from": 68.34,
+      "to": 71.49,
+      "sid": 31,
+      "location": 2,
+      "content": "第二期就普通人5千米怎么跑进20分钟",
+      "music": 0.0
+    },
+    {
+      "from": 71.49,
+      "to": 73.87,
+      "sid": 32,
+      "location": 2,
+      "content": "以5km跑进20分钟为例",
+      "music": 0.0
+    },
+    {
+      "from": 73.87,
+      "to": 75.91,
+      "sid": 33,
+      "location": 2,
+      "content": "分析了5km的训练方法",
+      "music": 0.0
+    },
+    {
+      "from": 75.91,
+      "to": 78.13,
+      "sid": 34,
+      "location": 2,
+      "content": "学生党没有跑步应该怎么训练",
+      "music": 0.0
+    },
+    {
+      "from": 78.13,
+      "to": 78.67,
+      "sid": 35,
+      "location": 2,
+      "content": "怎么操作",
+      "music": 0.0
+    },
+    {
+      "from": 78.67,
+      "to": 80.71,
+      "sid": 36,
+      "location": 2,
+      "content": "还有5km训练的底层逻辑",
+      "music": 0.0
+    },
+    {
+      "from": 80.71,
+      "to": 82.19,
+      "sid": 37,
+      "location": 2,
+      "content": "它到底练的是一个什么",
+      "music": 0.0
+    },
+    {
+      "from": 82.19,
+      "to": 84.8,
+      "sid": 38,
+      "location": 2,
+      "content": "第二期做了一个详细的分析和介绍",
+      "music": 0.0
+    },
+    {
+      "from": 84.8,
+      "to": 86.259,
+      "sid": 39,
+      "location": 2,
+      "content": "大家可以去看一下那一期",
+      "music": 0.0
+    },
+    {
+      "from": 86.259,
+      "to": 88.959,
+      "sid": 40,
+      "location": 2,
+      "content": "第三期就介绍了颠覆认知的亚索800",
+      "music": 0.0
+    },
+    {
+      "from": 88.959,
+      "to": 90.999,
+      "sid": 41,
+      "location": 2,
+      "content": "可以通过亚索800JC跑训练法",
+      "music": 0.0
+    },
+    {
+      "from": 90.999,
+      "to": 92.499,
+      "sid": 42,
+      "location": 2,
+      "content": "预测你当前的跑力水平",
+      "music": 0.0
+    },
+    {
+      "from": 92.499,
+      "to": 93.789,
+      "sid": 43,
+      "location": 2,
+      "content": "还有你的全马成绩",
+      "music": 0.0
+    },
+    {
+      "from": 93.789,
+      "to": 96.06,
+      "sid": 44,
+      "location": 2,
+      "content": "具体的原理也讲的非常清楚了",
+      "music": 0.0
+    },
+    {
+      "from": 96.06,
+      "to": 97.38,
+      "sid": 45,
+      "location": 2,
+      "content": "大家也可以翻看了期视频",
+      "music": 0.0
+    },
+    {
+      "from": 97.38,
+      "to": 100.529,
+      "sid": 46,
+      "location": 2,
+      "content": "那今天给大家分享一下第四季神机妙算",
+      "music": 0.0
+    },
+    {
+      "from": 100.529,
+      "to": 101.669,
+      "sid": 47,
+      "location": 2,
+      "content": "v dot等效",
+      "music": 0.0
+    },
+    {
+      "from": 101.669,
+      "to": 104.849,
+      "sid": 48,
+      "location": 2,
+      "content": "首先v dots人们常说的VTOT是什么呢",
+      "music": 0.0
+    },
+    {
+      "from": 104.849,
+      "to": 108.64,
+      "sid": 49,
+      "location": 2,
+      "content": "它是著名跑步教练丹尼尔斯找计算机工程师",
+      "music": 0.0
+    },
+    {
+      "from": 108.64,
+      "to": 110.17,
+      "sid": 50,
+      "location": 2,
+      "content": "收集了大量的跑者数据",
+      "music": 0.0
+    },
+    {
+      "from": 110.17,
+      "to": 112.12,
+      "sid": 51,
+      "location": 2,
+      "content": "算出来的一张跑力值的表格",
+      "music": 0.0
+    },
+    {
+      "from": 112.12,
+      "to": 113.74,
+      "sid": 52,
+      "location": 2,
+      "content": "称作v dots表",
+      "music": 0.0
+    },
+    {
+      "from": 113.74,
+      "to": 115.61,
+      "sid": 53,
+      "location": 2,
+      "content": "那这张表有什么用呢",
+      "music": 0.0
+    },
+    {
+      "from": 115.61,
+      "to": 116.81,
+      "sid": 54,
+      "location": 2,
+      "content": "这张跑力值表",
+      "music": 0.0
+    },
+    {
+      "from": 116.81,
+      "to": 119.75,
+      "sid": 55,
+      "location": 2,
+      "content": "就可以通过你当前不同的PB去查这张表",
+      "music": 0.0
+    },
+    {
+      "from": 119.75,
+      "to": 121.31,
+      "sid": 56,
+      "location": 2,
+      "content": "给出一个对应的跑力值",
+      "music": 0.0
+    },
+    {
+      "from": 121.31,
+      "to": 122.09,
+      "sid": 57,
+      "location": 2,
+      "content": "就是这本书",
+      "music": 0.0
+    },
+    {
+      "from": 122.09,
+      "to": 125.05,
+      "sid": 58,
+      "location": 2,
+      "content": "丹尼尔斯经典跑步训练法中里面的一张表格",
+      "music": 0.0
+    },
+    {
+      "from": 125.05,
+      "to": 127.28,
+      "sid": 59,
+      "location": 2,
+      "content": "我也会把这张表格发在视频",
+      "music": 0.0
+    },
+    {
+      "from": 127.28,
+      "to": 128.24,
+      "sid": 60,
+      "location": 2,
+      "content": "还有动态里面",
+      "music": 0.0
+    },
+    {
+      "from": 128.24,
+      "to": 129.83,
+      "sid": 61,
+      "location": 2,
+      "content": "大家可以自取啊",
+      "music": 0.0
+    },
+    {
+      "from": 129.83,
+      "to": 133.88,
+      "sid": 62,
+      "location": 2,
+      "content": "这张表格比如说你的一个PB成绩是10km",
+      "music": 0.0
+    },
+    {
+      "from": 133.88,
+      "to": 135.62,
+      "sid": 63,
+      "location": 2,
+      "content": "39分59秒",
+      "music": 0.0
+    },
+    {
+      "from": 135.62,
+      "to": 137.36,
+      "sid": 64,
+      "location": 2,
+      "content": "你查询这个表之后呢",
+      "music": 0.0
+    },
+    {
+      "from": 137.36,
+      "to": 139.28,
+      "sid": 65,
+      "location": 2,
+      "content": "就可以得到一个52的跑力值",
+      "music": 0.0
+    },
+    {
+      "from": 139.28,
+      "to": 140.96,
+      "sid": 66,
+      "location": 2,
+      "content": "这个VDOT跑力值52",
+      "music": 0.0
+    },
+    {
+      "from": 140.96,
+      "to": 143.71,
+      "sid": 67,
+      "location": 2,
+      "content": "就对应了你其他项目所在",
+      "music": 0.0
+    },
+    {
+      "from": 143.71,
+      "to": 145.75,
+      "sid": 68,
+      "location": 2,
+      "content": "这个跑力值所应该跑出来的成绩",
+      "music": 0.0
+    },
+    {
+      "from": 145.75,
+      "to": 148.13,
+      "sid": 69,
+      "location": 2,
+      "content": "比如说1500米是五分13",
+      "music": 0.0
+    },
+    {
+      "from": 148.13,
+      "to": 148.79,
+      "sid": 70,
+      "location": 2,
+      "content": "5千米",
+      "music": 0.0
+    },
+    {
+      "from": 148.79,
+      "to": 149.93,
+      "sid": 71,
+      "location": 2,
+      "content": "49分17",
+      "music": 0.0
+    },
+    {
+      "from": 149.93,
+      "to": 152.57,
+      "sid": 72,
+      "location": 2,
+      "content": "这样子就是可以通过一个PB的成绩",
+      "music": 0.0
+    },
+    {
+      "from": 152.57,
+      "to": 153.53,
+      "sid": 73,
+      "location": 2,
+      "content": "查到对应的跑力值",
+      "music": 0.0
+    },
+    {
+      "from": 153.53,
+      "to": 154.49,
+      "sid": 74,
+      "location": 2,
+      "content": "查到跑力值之后",
+      "music": 0.0
+    },
+    {
+      "from": 154.49,
+      "to": 157.04,
+      "sid": 75,
+      "location": 2,
+      "content": "对应你不同成绩的预测",
+      "music": 0.0
+    },
+    {
+      "from": 157.04,
+      "to": 157.88,
+      "sid": 76,
+      "location": 2,
+      "content": "第二个点的话",
+      "music": 0.0
+    },
+    {
+      "from": 157.88,
+      "to": 160.91,
+      "sid": 77,
+      "location": 2,
+      "content": "就是确定跑者当前最佳的训练配速的区间",
+      "music": 0.0
+    },
+    {
+      "from": 160.91,
+      "to": 161.66,
+      "sid": 78,
+      "location": 2,
+      "content": "这是什么意思",
+      "music": 0.0
+    },
+    {
+      "from": 161.66,
+      "to": 163.28,
+      "sid": 79,
+      "location": 2,
+      "content": "你有一个对应的这个跑力值之后",
+      "music": 0.0
+    },
+    {
+      "from": 163.28,
+      "to": 164.97,
+      "sid": 80,
+      "location": 2,
+      "content": "后面他还会有一张表格",
+      "music": 0.0
+    },
+    {
+      "from": 164.97,
+      "to": 167.52,
+      "sid": 81,
+      "location": 2,
+      "content": "比如说刚刚查到的这个52的表格",
+      "music": 0.0
+    },
+    {
+      "from": 167.52,
+      "to": 170.37,
+      "sid": 82,
+      "location": 2,
+      "content": "那他就可以对应查到你的EMTIR",
+      "music": 0.0
+    },
+    {
+      "from": 170.37,
+      "to": 173.539,
+      "sid": 83,
+      "location": 2,
+      "content": "五个训练的配速区间到底是多少",
+      "music": 0.0
+    },
+    {
+      "from": 173.539,
+      "to": 176.35,
+      "sid": 84,
+      "location": 2,
+      "content": "就是每个人不同的水平所对应的配速区间",
+      "music": 0.0
+    },
+    {
+      "from": 176.35,
+      "to": 178.69,
+      "sid": 85,
+      "location": 2,
+      "content": "一轻松跑马拉松配速T乳酸阈值",
+      "music": 0.0
+    },
+    {
+      "from": 178.69,
+      "to": 180.19,
+      "sid": 86,
+      "location": 2,
+      "content": "配速I最大摄氧量",
+      "music": 0.0
+    },
+    {
+      "from": 180.19,
+      "to": 180.91,
+      "sid": 87,
+      "location": 2,
+      "content": "间歇跑配速",
+      "music": 0.0
+    },
+    {
+      "from": 180.91,
+      "to": 182.59,
+      "sid": 88,
+      "location": 2,
+      "content": "还有r repetition重复跑配速",
+      "music": 0.0
+    },
+    {
+      "from": 182.59,
+      "to": 185.54,
+      "sid": 89,
+      "location": 2,
+      "content": "还有一个是FR就是快速重复跑配速",
+      "music": 0.0
+    },
+    {
+      "from": 185.54,
+      "to": 189.09,
+      "sid": 90,
+      "location": 2,
+      "content": "但是这个快速重复跑配速呢是中跑者选手",
+      "music": 0.0
+    },
+    {
+      "from": 189.09,
+      "to": 190.72,
+      "sid": 91,
+      "location": 2,
+      "content": "运动员会比较注重的",
+      "music": 0.0
+    },
+    {
+      "from": 190.72,
+      "to": 192.73,
+      "sid": 92,
+      "location": 2,
+      "content": "八百一千五五的选手比较注重",
+      "music": 0.0
+    },
+    {
+      "from": 192.73,
+      "to": 194.14,
+      "sid": 93,
+      "location": 2,
+      "content": "从5千米到马拉松选手的",
+      "music": 0.0
+    },
+    {
+      "from": 194.14,
+      "to": 195.28,
+      "sid": 94,
+      "location": 2,
+      "content": "基本是EMTIR",
+      "music": 0.0
+    },
+    {
+      "from": 195.28,
+      "to": 196.48,
+      "sid": 95,
+      "location": 2,
+      "content": "这几个五个区间",
+      "music": 0.0
+    },
+    {
+      "from": 196.48,
+      "to": 199.899,
+      "sid": 96,
+      "location": 2,
+      "content": "就足以覆盖所有训练的配速区间了",
+      "music": 0.0
+    },
+    {
+      "from": 199.899,
+      "to": 200.619,
+      "sid": 97,
+      "location": 2,
+      "content": "第三点",
+      "music": 0.0
+    },
+    {
+      "from": 200.619,
+      "to": 202.719,
+      "sid": 98,
+      "location": 2,
+      "content": "授人以渔不如授人以渔对吧",
+      "music": 0.0
+    },
+    {
+      "from": 202.719,
+      "to": 205.539,
+      "sid": 99,
+      "location": 2,
+      "content": "接下来就跟大家说一下应该怎么算跑力值呢",
+      "music": 0.0
+    },
+    {
+      "from": 205.539,
+      "to": 207.039,
+      "sid": 100,
+      "location": 2,
+      "content": "第一就是通过这本书",
+      "music": 0.0
+    },
+    {
+      "from": 207.039,
+      "to": 209.84,
+      "sid": 101,
+      "location": 2,
+      "content": "丹尼尔斯这本书查表对应图对应表",
+      "music": 0.0
+    },
+    {
+      "from": 209.84,
+      "to": 211.47,
+      "sid": 102,
+      "location": 2,
+      "content": "用你的PB来查到成绩",
+      "music": 0.0
+    },
+    {
+      "from": 211.47,
+      "to": 215.25,
+      "sid": 103,
+      "location": 2,
+      "content": "第二种方法就是你是IOS的移动设备的用户的",
+      "music": 0.0
+    },
+    {
+      "from": 215.25,
+      "to": 218.09,
+      "sid": 104,
+      "location": 2,
+      "content": "你就可以通过v dot g a l c",
+      "music": 0.0
+    },
+    {
+      "from": 218.09,
+      "to": 220.25,
+      "sid": 105,
+      "location": 2,
+      "content": "这个软件来查你的跑力值",
+      "music": 0.0
+    },
+    {
+      "from": 220.25,
+      "to": 222.419,
+      "sid": 106,
+      "location": 2,
+      "content": "就是v dots calculator",
+      "music": 0.0
+    },
+    {
+      "from": 222.419,
+      "to": 223.619,
+      "sid": 107,
+      "location": 2,
+      "content": "就计算器吧",
+      "music": 0.0
+    },
+    {
+      "from": 223.619,
+      "to": 225.66,
+      "sid": 108,
+      "location": 2,
+      "content": "就计算器这个软件来查",
+      "music": 0.0
+    },
+    {
+      "from": 225.66,
+      "to": 228.42,
+      "sid": 109,
+      "location": 2,
+      "content": "比如说你查自己的全马PB是三个小时",
+      "music": 0.0
+    },
+    {
+      "from": 228.42,
+      "to": 230.31,
+      "sid": 110,
+      "location": 2,
+      "content": "然后你输入进去之后点一个计算",
+      "music": 0.0
+    },
+    {
+      "from": 230.31,
+      "to": 233.25,
+      "sid": 111,
+      "location": 2,
+      "content": "它就会得出你当前的跑力值是53.5",
+      "music": 0.0
+    },
+    {
+      "from": 233.25,
+      "to": 236.099,
+      "sid": 112,
+      "location": 2,
+      "content": "然后下面这个第三个页面等效",
+      "music": 0.0
+    },
+    {
+      "from": 236.099,
+      "to": 239.519,
+      "sid": 113,
+      "location": 2,
+      "content": "这里会写着你的从你的1500米到马拉松的",
+      "music": 0.0
+    },
+    {
+      "from": 239.519,
+      "to": 240.659,
+      "sid": 114,
+      "location": 2,
+      "content": "在53.5",
+      "music": 0.0
+    },
+    {
+      "from": 240.659,
+      "to": 241.979,
+      "sid": 115,
+      "location": 2,
+      "content": "这个跑力值所对应的",
+      "music": 0.0
+    },
+    {
+      "from": 241.979,
+      "to": 244.739,
+      "sid": 116,
+      "location": 2,
+      "content": "全部的不同项目的完赛时间都可以直接看到",
+      "music": 0.0
+    },
+    {
+      "from": 244.739,
+      "to": 246.989,
+      "sid": 117,
+      "location": 2,
+      "content": "还有完赛的配速也可以直接看到",
+      "music": 0.0
+    },
+    {
+      "from": 246.989,
+      "to": 248.8,
+      "sid": 118,
+      "location": 2,
+      "content": "第二个呢就是训练点",
+      "music": 0.0
+    },
+    {
+      "from": 248.8,
+      "to": 250.36,
+      "sid": 119,
+      "location": 2,
+      "content": "这个第二个页面就点训练",
+      "music": 0.0
+    },
+    {
+      "from": 250.36,
+      "to": 252.16,
+      "sid": 120,
+      "location": 2,
+      "content": "就可以知道你当前这个跑力值",
+      "music": 0.0
+    },
+    {
+      "from": 252.16,
+      "to": 254.29,
+      "sid": 121,
+      "location": 2,
+      "content": "在EMPR这五个区间",
+      "music": 0.0
+    },
+    {
+      "from": 254.29,
+      "to": 256.27,
+      "sid": 122,
+      "location": 2,
+      "content": "你应该跑什么配速",
+      "music": 0.0
+    },
+    {
+      "from": 256.27,
+      "to": 259.33,
+      "sid": 123,
+      "location": 2,
+      "content": "会使你当前的训练得到最大化的效益",
+      "music": 0.0
+    },
+    {
+      "from": 259.33,
+      "to": 260.61,
+      "sid": 124,
+      "location": 2,
+      "content": "就是跑对配速吗",
+      "music": 0.0
+    },
+    {
+      "from": 260.61,
+      "to": 262.35,
+      "sid": 125,
+      "location": 2,
+      "content": "第三就是安卓的用户的话",
+      "music": 0.0
+    },
+    {
+      "from": 262.35,
+      "to": 264.93,
+      "sid": 126,
+      "location": 2,
+      "content": "就可以用微信的小程序跑步助手跑力值计算",
+      "music": 0.0
+    },
+    {
+      "from": 264.93,
+      "to": 267.32,
+      "sid": 127,
+      "location": 2,
+      "content": "这个小程序一样可以查得到",
+      "music": 0.0
+    },
+    {
+      "from": 267.32,
+      "to": 268.22,
+      "sid": 128,
+      "location": 2,
+      "content": "第四点",
+      "music": 0.0
+    },
+    {
+      "from": 268.22,
+      "to": 271.1,
+      "sid": 129,
+      "location": 2,
+      "content": "没有跑步的学生党应该怎么利用v dot等效呢",
+      "music": 0.0
+    },
+    {
+      "from": 271.1,
+      "to": 272.12,
+      "sid": 130,
+      "location": 2,
+      "content": "那就也很简单",
+      "music": 0.0
+    },
+    {
+      "from": 272.12,
+      "to": 274.59,
+      "sid": 131,
+      "location": 2,
+      "content": "就是找200米和400米的田径场",
+      "music": 0.0
+    },
+    {
+      "from": 274.59,
+      "to": 277.32,
+      "sid": 132,
+      "location": 2,
+      "content": "自行用计时的工具手表或者手机啊",
+      "music": 0.0
+    },
+    {
+      "from": 277.32,
+      "to": 278.79,
+      "sid": 133,
+      "location": 2,
+      "content": "只要能计时秒表啊",
+      "music": 0.0
+    },
+    {
+      "from": 278.79,
+      "to": 279.64,
+      "sid": 134,
+      "location": 2,
+      "content": "进行掐圈",
+      "music": 0.0
+    },
+    {
+      "from": 279.64,
+      "to": 281.74,
+      "sid": 135,
+      "location": 2,
+      "content": "因为你的跑步的距离是确定的",
+      "music": 0.0
+    },
+    {
+      "from": 281.74,
+      "to": 283.0,
+      "sid": 136,
+      "location": 2,
+      "content": "跑步的时间也是确定的",
+      "music": 0.0
+    },
+    {
+      "from": 283.0,
+      "to": 285.2,
+      "sid": 137,
+      "location": 2,
+      "content": "那你就可以进行你的训练配速的确定",
+      "music": 0.0
+    },
+    {
+      "from": 285.2,
+      "to": 286.91,
+      "sid": 138,
+      "location": 2,
+      "content": "第五点要说一下",
+      "music": 0.0
+    },
+    {
+      "from": 286.91,
+      "to": 290.15,
+      "sid": 139,
+      "location": 2,
+      "content": "很多人对v dots的一个跑力值表格",
+      "music": 0.0
+    },
+    {
+      "from": 290.15,
+      "to": 291.11,
+      "sid": 140,
+      "location": 2,
+      "content": "的一个认知误区",
+      "music": 0.0
+    },
+    {
+      "from": 291.11,
+      "to": 294.14,
+      "sid": 141,
+      "location": 2,
+      "content": "你的训练专项决定了你当前跑者长板",
+      "music": 0.0
+    },
+    {
+      "from": 294.14,
+      "to": 296.96,
+      "sid": 142,
+      "location": 2,
+      "content": "我们可以用一个项目成绩来查询跑力值",
+      "music": 0.0
+    },
+    {
+      "from": 296.96,
+      "to": 298.82,
+      "sid": 143,
+      "location": 2,
+      "content": "然后进行不同项目的成绩预测",
+      "music": 0.0
+    },
+    {
+      "from": 298.82,
+      "to": 300.5,
+      "sid": 144,
+      "location": 2,
+      "content": "但不代表你所在的那个跑力值",
+      "music": 0.0
+    },
+    {
+      "from": 300.5,
+      "to": 303.14,
+      "sid": 145,
+      "location": 2,
+      "content": "你现在就可以跑出刚才跑力值所对应的",
+      "music": 0.0
+    },
+    {
+      "from": 303.14,
+      "to": 304.33,
+      "sid": 146,
+      "location": 2,
+      "content": "所有距离的成绩",
+      "music": 0.0
+    },
+    {
+      "from": 304.33,
+      "to": 306.61,
+      "sid": 147,
+      "location": 2,
+      "content": "只是可能通过规律的训练",
+      "music": 0.0
+    },
+    {
+      "from": 306.61,
+      "to": 309.95,
+      "sid": 148,
+      "location": 2,
+      "content": "达成那个跑力值所对应的相应的成绩目标而已",
+      "music": 0.0
+    },
+    {
+      "from": 309.95,
+      "to": 312.83,
+      "sid": 149,
+      "location": 2,
+      "content": "例子A组的课表是1500米的专项课表",
+      "music": 0.0
+    },
+    {
+      "from": 312.83,
+      "to": 314.81,
+      "sid": 150,
+      "location": 2,
+      "content": "它可以用5分钟跑完1500米",
+      "music": 0.0
+    },
+    {
+      "from": 314.81,
+      "to": 316.43,
+      "sid": 151,
+      "location": 2,
+      "content": "这个成绩就v dots等效",
+      "music": 0.0
+    },
+    {
+      "from": 316.43,
+      "to": 318.14,
+      "sid": 152,
+      "location": 2,
+      "content": "对应的是全马破三的成绩",
+      "music": 0.0
+    },
+    {
+      "from": 318.14,
+      "to": 320.72,
+      "sid": 153,
+      "location": 2,
+      "content": "但是这个A呢他月跑量只有80",
+      "music": 0.0
+    },
+    {
+      "from": 320.72,
+      "to": 322.43,
+      "sid": 154,
+      "location": 2,
+      "content": "那证明他全马一定可以破三吗",
+      "music": 0.0
+    },
+    {
+      "from": 322.43,
+      "to": 324.409,
+      "sid": 155,
+      "location": 2,
+      "content": "这大概率是破不了三的",
+      "music": 0.0
+    },
+    {
+      "from": 324.409,
+      "to": 325.669,
+      "sid": 156,
+      "location": 2,
+      "content": "因为更短距离的项目",
+      "music": 0.0
+    },
+    {
+      "from": 325.669,
+      "to": 327.409,
+      "sid": 157,
+      "location": 2,
+      "content": "发生意外的情况是相对更少",
+      "music": 0.0
+    },
+    {
+      "from": 327.409,
+      "to": 329.539,
+      "sid": 158,
+      "location": 2,
+      "content": "而且相对更容易自测的",
+      "music": 0.0
+    },
+    {
+      "from": 329.539,
+      "to": 331.39,
+      "sid": 159,
+      "location": 2,
+      "content": "但是一个全程马拉松",
+      "music": 0.0
+    },
+    {
+      "from": 331.39,
+      "to": 333.43,
+      "sid": 160,
+      "location": 2,
+      "content": "他的成绩是由诸多因素决定的",
+      "music": 0.0
+    },
+    {
+      "from": 333.43,
+      "to": 335.05,
+      "sid": 161,
+      "location": 2,
+      "content": "跑一次全马相当费劲",
+      "music": 0.0
+    },
+    {
+      "from": 335.05,
+      "to": 336.73,
+      "sid": 162,
+      "location": 2,
+      "content": "而且对身体甚至是一种伤害",
+      "music": 0.0
+    },
+    {
+      "from": 336.73,
+      "to": 337.87,
+      "sid": 163,
+      "location": 2,
+      "content": "只要你全力去跑",
+      "music": 0.0
+    },
+    {
+      "from": 337.87,
+      "to": 339.25,
+      "sid": 164,
+      "location": 2,
+      "content": "影响全马的变量",
+      "music": 0.0
+    },
+    {
+      "from": 339.25,
+      "to": 340.09,
+      "sid": 165,
+      "location": 2,
+      "content": "实在是太多了",
+      "music": 0.0
+    },
+    {
+      "from": 340.09,
+      "to": 342.85,
+      "sid": 166,
+      "location": 2,
+      "content": "用条件接近完美的一场中跑距离的比赛区",
+      "music": 0.0
+    },
+    {
+      "from": 342.85,
+      "to": 343.09,
+      "sid": 167,
+      "location": 2,
+      "content": "预测",
+      "music": 0.0
+    },
+    {
+      "from": 343.09,
+      "to": 345.57,
+      "sid": 168,
+      "location": 2,
+      "content": "一场充满未知的超长距离的全马比赛",
+      "music": 0.0
+    },
+    {
+      "from": 345.57,
+      "to": 347.85,
+      "sid": 169,
+      "location": 2,
+      "content": "的完赛时间显然是不合理的",
+      "music": 0.0
+    },
+    {
+      "from": 347.85,
+      "to": 350.07,
+      "sid": 170,
+      "location": 2,
+      "content": "而且1500米和全马练的跑步专项",
+      "music": 0.0
+    },
+    {
+      "from": 350.07,
+      "to": 351.659,
+      "sid": 171,
+      "location": 2,
+      "content": "完全不是一个东西",
+      "music": 0.0
+    },
+    {
+      "from": 351.659,
+      "to": 353.399,
+      "sid": 172,
+      "location": 2,
+      "content": "训练强度还有课表的差异",
+      "music": 0.0
+    },
+    {
+      "from": 353.399,
+      "to": 354.55,
+      "sid": 173,
+      "location": 2,
+      "content": "实在是太远了",
+      "music": 0.0
+    },
+    {
+      "from": 354.55,
+      "to": 357.13,
+      "sid": 174,
+      "location": 2,
+      "content": "反过来全马破三的人跑的是马拉松的课表",
+      "music": 0.0
+    },
+    {
+      "from": 357.13,
+      "to": 358.11,
+      "sid": 175,
+      "location": 2,
+      "content": "马拉松的周期",
+      "music": 0.0
+    },
+    {
+      "from": 358.11,
+      "to": 359.13,
+      "sid": 176,
+      "location": 2,
+      "content": "那他的1500米",
+      "music": 0.0
+    },
+    {
+      "from": 359.13,
+      "to": 360.99,
+      "sid": 177,
+      "location": 2,
+      "content": "很有可能也是跑步进5分钟的",
+      "music": 0.0
+    },
+    {
+      "from": 360.99,
+      "to": 362.73,
+      "sid": 178,
+      "location": 2,
+      "content": "因为他走的是马拉松的周期嘛",
+      "music": 0.0
+    },
+    {
+      "from": 362.73,
+      "to": 364.5,
+      "sid": 179,
+      "location": 2,
+      "content": "他的能力的最长板是马拉松",
+      "music": 0.0
+    },
+    {
+      "from": 364.5,
+      "to": 366.02,
+      "sid": 180,
+      "location": 2,
+      "content": "而不是1500米",
+      "music": 0.0
+    },
+    {
+      "from": 366.039,
+      "to": 368.559,
+      "sid": 181,
+      "location": 2,
+      "content": "再来说案例B就是真实案例啊",
+      "music": 0.0
+    },
+    {
+      "from": 368.559,
+      "to": 369.099,
+      "sid": 182,
+      "location": 2,
+      "content": "有一个朋友",
+      "music": 0.0
+    },
+    {
+      "from": 369.099,
+      "to": 371.379,
+      "sid": 183,
+      "location": 2,
+      "content": "他的1500米可以跑到4分30秒",
+      "music": 0.0
+    },
+    {
+      "from": 371.379,
+      "to": 372.549,
+      "sid": 184,
+      "location": 2,
+      "content": "就是三分的配速",
+      "music": 0.0
+    },
+    {
+      "from": 372.549,
+      "to": 374.919,
+      "sid": 185,
+      "location": 2,
+      "content": "可以跑完1500米是相当恐怖了",
+      "music": 0.0
+    },
+    {
+      "from": 374.919,
+      "to": 377.069,
+      "sid": 186,
+      "location": 2,
+      "content": "这在业余选手里面来说",
+      "music": 0.0
+    },
+    {
+      "from": 377.069,
+      "to": 379.319,
+      "sid": 187,
+      "location": 2,
+      "content": "但是这个按windows等效来说",
+      "music": 0.0
+    },
+    {
+      "from": 379.319,
+      "to": 380.939,
+      "sid": 188,
+      "location": 2,
+      "content": "拉回去跑全马是肯定破三了吧",
+      "music": 0.0
+    },
+    {
+      "from": 380.939,
+      "to": 384.4,
+      "sid": 189,
+      "location": 2,
+      "content": "因为windows等效对应的是全马是两小时42分钟",
+      "music": 0.0
+    },
+    {
+      "from": 384.4,
+      "to": 385.71,
+      "sid": 190,
+      "location": 2,
+      "content": "跑力值60.4",
+      "music": 0.0
+    },
+    {
+      "from": 385.71,
+      "to": 387.87,
+      "sid": 191,
+      "location": 2,
+      "content": "那事实上他可以全马破三吗",
+      "music": 0.0
+    },
+    {
+      "from": 387.87,
+      "to": 389.31,
+      "sid": 192,
+      "location": 2,
+      "content": "他完全破不了事实",
+      "music": 0.0
+    },
+    {
+      "from": 389.31,
+      "to": 392.23,
+      "sid": 193,
+      "location": 2,
+      "content": "他的10KMPB只能跑39分430秒",
+      "music": 0.0
+    },
+    {
+      "from": 392.23,
+      "to": 393.67,
+      "sid": 194,
+      "location": 2,
+      "content": "更不要说全马破三了",
+      "music": 0.0
+    },
+    {
+      "from": 393.67,
+      "to": 395.539,
+      "sid": 195,
+      "location": 2,
+      "content": "那为何速度长板如此离谱",
+      "music": 0.0
+    },
+    {
+      "from": 395.539,
+      "to": 397.039,
+      "sid": 196,
+      "location": 2,
+      "content": "跟他的交流之后",
+      "music": 0.0
+    },
+    {
+      "from": 397.039,
+      "to": 399.679,
+      "sid": 197,
+      "location": 2,
+      "content": "得知他的训练内容是大量的400米R重复跑",
+      "music": 0.0
+    },
+    {
+      "from": 399.679,
+      "to": 401.82,
+      "sid": 198,
+      "location": 2,
+      "content": "LFR快速快速重复跑",
+      "music": 0.0
+    },
+    {
+      "from": 401.82,
+      "to": 405.37,
+      "sid": 199,
+      "location": 2,
+      "content": "就是跑了大量的高强度的训练",
+      "music": 0.0
+    },
+    {
+      "from": 405.37,
+      "to": 408.64,
+      "sid": 200,
+      "location": 2,
+      "content": "这课表根本没有针对更长距离做相应的训练",
+      "music": 0.0
+    },
+    {
+      "from": 408.64,
+      "to": 409.53,
+      "sid": 201,
+      "location": 2,
+      "content": "相应的调整",
+      "music": 0.0
+    },
+    {
+      "from": 409.53,
+      "to": 411.27,
+      "sid": 202,
+      "location": 2,
+      "content": "不要说全马破30km",
+      "music": 0.0
+    },
+    {
+      "from": 411.27,
+      "to": 413.34,
+      "sid": 203,
+      "location": 2,
+      "content": "跑步进39分也是非常正常的",
+      "music": 0.0
+    },
+    {
+      "from": 413.34,
+      "to": 415.32,
+      "sid": 204,
+      "location": 2,
+      "content": "不过他有这个速度的底子的话",
+      "music": 0.0
+    },
+    {
+      "from": 415.32,
+      "to": 417.45,
+      "sid": 205,
+      "location": 2,
+      "content": "路过把课表转成马拉松专项",
+      "music": 0.0
+    },
+    {
+      "from": 417.45,
+      "to": 418.2,
+      "sid": 206,
+      "location": 2,
+      "content": "12周左右",
+      "music": 0.0
+    },
+    {
+      "from": 418.2,
+      "to": 420.53,
+      "sid": 207,
+      "location": 2,
+      "content": "全马破三应该还是可以轻松拿捏的",
+      "music": 0.0
+    },
+    {
+      "from": 420.53,
+      "to": 421.85,
+      "sid": 208,
+      "location": 2,
+      "content": "案例C",
+      "music": 0.0
+    },
+    {
+      "from": 421.85,
+      "to": 425.36,
+      "sid": 209,
+      "location": 2,
+      "content": "同样是10km可以跑到38分半的跑者",
+      "music": 0.0
+    },
+    {
+      "from": 425.36,
+      "to": 427.56,
+      "sid": 210,
+      "location": 2,
+      "content": "长板可能区别也非常大",
+      "music": 0.0
+    },
+    {
+      "from": 427.599,
+      "to": 429.399,
+      "sid": 211,
+      "location": 2,
+      "content": "年轻跑量累计不足的人",
+      "music": 0.0
+    },
+    {
+      "from": 429.399,
+      "to": 431.649,
+      "sid": 212,
+      "location": 2,
+      "content": "10km可以跑到38分30秒",
+      "music": 0.0
+    },
+    {
+      "from": 431.649,
+      "to": 434.87,
+      "sid": 213,
+      "location": 2,
+      "content": "但全马依然破不了三也原因其实有可能很多",
+      "music": 0.0
+    },
+    {
+      "from": 434.87,
+      "to": 437.9,
+      "sid": 214,
+      "location": 2,
+      "content": "第一就是他走的不是马拉松周期的课表",
+      "music": 0.0
+    },
+    {
+      "from": 437.9,
+      "to": 439.46,
+      "sid": 215,
+      "location": 2,
+      "content": "练的可能是5000万米的课表",
+      "music": 0.0
+    },
+    {
+      "from": 439.46,
+      "to": 441.26,
+      "sid": 216,
+      "location": 2,
+      "content": "或者说他根本不知道自己练的是什么",
+      "music": 0.0
+    },
+    {
+      "from": 441.26,
+      "to": 444.17,
+      "sid": 217,
+      "location": 2,
+      "content": "或者训练的强度分配比重是啥",
+      "music": 0.0
+    },
+    {
+      "from": 444.17,
+      "to": 444.83,
+      "sid": 218,
+      "location": 2,
+      "content": "他也不清楚",
+      "music": 0.0
+    },
+    {
+      "from": 444.83,
+      "to": 446.81,
+      "sid": 219,
+      "location": 2,
+      "content": "只是当前他的跑路可以跑到10km",
+      "music": 0.0
+    },
+    {
+      "from": 446.81,
+      "to": 448.85,
+      "sid": 220,
+      "location": 2,
+      "content": "38分30秒",
+      "music": 0.0
+    },
+    {
+      "from": 448.85,
+      "to": 450.53,
+      "sid": 221,
+      "location": 2,
+      "content": "第二就是它的有氧耐力",
+      "music": 0.0
+    },
+    {
+      "from": 450.53,
+      "to": 451.99,
+      "sid": 222,
+      "location": 2,
+      "content": "跑量积累可能不足",
+      "music": 0.0
+    },
+    {
+      "from": 451.99,
+      "to": 455.35,
+      "sid": 223,
+      "location": 2,
+      "content": "全马更专注的是LSD长距离和一个更高的LTP",
+      "music": 0.0
+    },
+    {
+      "from": 455.35,
+      "to": 457.5,
+      "sid": 224,
+      "location": 2,
+      "content": "就是一个更快的乳酸阈值配速",
+      "music": 0.0
+    },
+    {
+      "from": 457.5,
+      "to": 460.44,
+      "sid": 225,
+      "location": 2,
+      "content": "而5千米专项链的是view two max简写",
+      "music": 0.0
+    },
+    {
+      "from": 460.44,
+      "to": 461.94,
+      "sid": 226,
+      "location": 2,
+      "content": "跑步就是最大摄氧量",
+      "music": 0.0
+    },
+    {
+      "from": 461.94,
+      "to": 463.99,
+      "sid": 227,
+      "location": 2,
+      "content": "是决定5千米最关键的因素",
+      "music": 0.0
+    },
+    {
+      "from": 463.99,
+      "to": 466.21,
+      "sid": 228,
+      "location": 2,
+      "content": "以上两点呢说明了不同距离跑步",
+      "music": 0.0
+    },
+    {
+      "from": 466.21,
+      "to": 467.9,
+      "sid": 229,
+      "location": 2,
+      "content": "专项训练对成绩的影响",
+      "music": 0.0
+    },
+    {
+      "from": 467.9,
+      "to": 468.62,
+      "sid": 230,
+      "location": 2,
+      "content": "简单来说",
+      "music": 0.0
+    },
+    {
+      "from": 468.62,
+      "to": 470.69,
+      "sid": 231,
+      "location": 2,
+      "content": "通过不同专项不同训练强度",
+      "music": 0.0
+    },
+    {
+      "from": 470.69,
+      "to": 472.88,
+      "sid": 232,
+      "location": 2,
+      "content": "10km同样都可以跑出38分",
+      "music": 0.0
+    },
+    {
+      "from": 472.88,
+      "to": 474.08,
+      "sid": 233,
+      "location": 2,
+      "content": "30秒的两名跑者",
+      "music": 0.0
+    },
+    {
+      "from": 474.08,
+      "to": 476.27,
+      "sid": 234,
+      "location": 2,
+      "content": "全马的成绩可能存在巨大的差异",
+      "music": 0.0
+    },
+    {
+      "from": 476.27,
+      "to": 478.31,
+      "sid": 235,
+      "location": 2,
+      "content": "全马过程中突发状况的影响",
+      "music": 0.0
+    },
+    {
+      "from": 478.31,
+      "to": 479.09,
+      "sid": 236,
+      "location": 2,
+      "content": "v DOS模型",
+      "music": 0.0
+    },
+    {
+      "from": 479.09,
+      "to": 482.799,
+      "sid": 237,
+      "location": 2,
+      "content": "它只是两项成绩均在最佳条件下的数据",
+      "music": 0.0
+    },
+    {
+      "from": 482.799,
+      "to": 483.759,
+      "sid": 238,
+      "location": 2,
+      "content": "才具有运算的意义",
+      "music": 0.0
+    },
+    {
+      "from": 483.759,
+      "to": 484.539,
+      "sid": 239,
+      "location": 2,
+      "content": "这点很好理解",
+      "music": 0.0
+    },
+    {
+      "from": 484.539,
+      "to": 486.03,
+      "sid": 240,
+      "location": 2,
+      "content": "就不做赘述了",
+      "music": 0.0
+    },
+    {
+      "from": 486.03,
+      "to": 487.89,
+      "sid": 241,
+      "location": 2,
+      "content": "例子D它的跑龄长",
+      "music": 0.0
+    },
+    {
+      "from": 487.89,
+      "to": 489.33,
+      "sid": 242,
+      "location": 2,
+      "content": "耐力特别好的跑者",
+      "music": 0.0
+    },
+    {
+      "from": 489.33,
+      "to": 493.019,
+      "sid": 243,
+      "location": 2,
+      "content": "10km他可以跑到39分到40分",
+      "music": 0.0
+    },
+    {
+      "from": 493.019,
+      "to": 496.139,
+      "sid": 244,
+      "location": 2,
+      "content": "即便他是没有达到VDOT所需的10km成绩",
+      "music": 0.0
+    },
+    {
+      "from": 496.139,
+      "to": 497.84,
+      "sid": 245,
+      "location": 2,
+      "content": "38分9秒",
+      "music": 0.0
+    },
+    {
+      "from": 497.84,
+      "to": 500.42,
+      "sid": 246,
+      "location": 2,
+      "content": "就是即便他没有达到PBOT全马破三",
+      "music": 0.0
+    },
+    {
+      "from": 500.42,
+      "to": 502.79,
+      "sid": 247,
+      "location": 2,
+      "content": "所需要的10km成绩38分59秒",
+      "music": 0.0
+    },
+    {
+      "from": 502.79,
+      "to": 504.82,
+      "sid": 248,
+      "location": 2,
+      "content": "但是他依旧可以全马破三",
+      "music": 0.0
+    },
+    {
+      "from": 504.82,
+      "to": 508.36,
+      "sid": 249,
+      "location": 2,
+      "content": "所以说啊全马v DOS模型只是进行计算的话",
+      "music": 0.0
+    },
+    {
+      "from": 508.36,
+      "to": 510.47,
+      "sid": 250,
+      "location": 2,
+      "content": "它是适用于绝大多数的跑者",
+      "music": 0.0
+    },
+    {
+      "from": 510.47,
+      "to": 513.44,
+      "sid": 251,
+      "location": 2,
+      "content": "但是他不可能做到百分百覆盖到每一个人",
+      "music": 0.0
+    },
+    {
+      "from": 513.44,
+      "to": 514.58,
+      "sid": 252,
+      "location": 2,
+      "content": "特例总是有的嘛",
+      "music": 0.0
+    },
+    {
+      "from": 514.58,
+      "to": 518.54,
+      "sid": 253,
+      "location": 2,
+      "content": "仙女跑者可能她10km接近40分左右的水平",
+      "music": 0.0
+    },
+    {
+      "from": 518.54,
+      "to": 519.56,
+      "sid": 254,
+      "location": 2,
+      "content": "他全马也可以破三",
+      "music": 0.0
+    },
+    {
+      "from": 519.56,
+      "to": 521.18,
+      "sid": 255,
+      "location": 2,
+      "content": "但是大部分男跑者",
+      "music": 0.0
+    },
+    {
+      "from": 521.18,
+      "to": 523.1,
+      "sid": 256,
+      "location": 2,
+      "content": "如果10km只有40分的水平",
+      "music": 0.0
+    },
+    {
+      "from": 523.1,
+      "to": 524.12,
+      "sid": 257,
+      "location": 2,
+      "content": "全马是很难破三的",
+      "music": 0.0
+    },
+    {
+      "from": 524.12,
+      "to": 525.63,
+      "sid": 258,
+      "location": 2,
+      "content": "因为在耐力方面",
+      "music": 0.0
+    },
+    {
+      "from": 525.63,
+      "to": 528.56,
+      "sid": 259,
+      "location": 2,
+      "content": "女性一般是比男性要稍微强一点的",
+      "music": 0.0
+    },
+    {
+      "from": 528.68,
+      "to": 529.46,
+      "sid": 260,
+      "location": 2,
+      "content": "第六点",
+      "music": 0.0
+    },
+    {
+      "from": 529.46,
+      "to": 531.56,
+      "sid": 261,
+      "location": 2,
+      "content": "怎么合理的预测全马成绩呢",
+      "music": 0.0
+    },
+    {
+      "from": 531.56,
+      "to": 533.12,
+      "sid": 262,
+      "location": 2,
+      "content": "对于想练马拉松的跑者而言",
+      "music": 0.0
+    },
+    {
+      "from": 533.12,
+      "to": 535.91,
+      "sid": 263,
+      "location": 2,
+      "content": "我建议是至少用15km或以上的PB",
+      "music": 0.0
+    },
+    {
+      "from": 535.91,
+      "to": 538.28,
+      "sid": 264,
+      "location": 2,
+      "content": "就是个人最佳成绩去查v dots等效",
+      "music": 0.0
+    },
+    {
+      "from": 538.28,
+      "to": 539.579,
+      "sid": 265,
+      "location": 2,
+      "content": "来进行全马预测",
+      "music": 0.0
+    },
+    {
+      "from": 539.58,
+      "to": 541.95,
+      "sid": 266,
+      "location": 2,
+      "content": "距离全马是越近",
+      "music": 0.0
+    },
+    {
+      "from": 541.95,
+      "to": 543.84,
+      "sid": 267,
+      "location": 2,
+      "content": "越靠近的一个PB成绩",
+      "music": 0.0
+    },
+    {
+      "from": 543.84,
+      "to": 545.82,
+      "sid": 268,
+      "location": 2,
+      "content": "对全马预测就越准确",
+      "music": 0.0
+    },
+    {
+      "from": 545.82,
+      "to": 546.36,
+      "sid": 269,
+      "location": 2,
+      "content": "显而易见",
+      "music": 0.0
+    },
+    {
+      "from": 546.36,
+      "to": 548.3,
+      "sid": 270,
+      "location": 2,
+      "content": "两个距离越近的项目",
+      "music": 0.0
+    },
+    {
+      "from": 548.64,
+      "to": 551.12,
+      "sid": 271,
+      "location": 2,
+      "content": "相互预测的结果是越准确的吗",
+      "music": 0.0
+    },
+    {
+      "from": 551.28,
+      "to": 553.68,
+      "sid": 272,
+      "location": 2,
+      "content": "第七点就是说我们利用工具的话",
+      "music": 0.0
+    },
+    {
+      "from": 553.68,
+      "to": 555.24,
+      "sid": 273,
+      "location": 2,
+      "content": "要具体情况具体分析",
+      "music": 0.0
+    },
+    {
+      "from": 555.24,
+      "to": 558.04,
+      "sid": 274,
+      "location": 2,
+      "content": "无论是v dot计算器还是亚索800",
+      "music": 0.0
+    },
+    {
+      "from": 558.1,
+      "to": 560.02,
+      "sid": 275,
+      "location": 2,
+      "content": "都是我们跑者利用的工具吗",
+      "music": 0.0
+    },
+    {
+      "from": 560.02,
+      "to": 560.68,
+      "sid": 276,
+      "location": 2,
+      "content": "工具是死的",
+      "music": 0.0
+    },
+    {
+      "from": 560.68,
+      "to": 561.34,
+      "sid": 277,
+      "location": 2,
+      "content": "人是活的",
+      "music": 0.0
+    },
+    {
+      "from": 561.34,
+      "to": 562.84,
+      "sid": 278,
+      "location": 2,
+      "content": "怎么把工具灵活应用",
+      "music": 0.0
+    },
+    {
+      "from": 562.84,
+      "to": 563.74,
+      "sid": 279,
+      "location": 2,
+      "content": "提升自身的力",
+      "music": 0.0
+    },
+    {
+      "from": 563.74,
+      "to": 565.78,
+      "sid": 280,
+      "location": 2,
+      "content": "成绩才是我们更应该关注的点",
+      "music": 0.0
+    },
+    {
+      "from": 565.78,
+      "to": 567.7,
+      "sid": 281,
+      "location": 2,
+      "content": "而不是上来就抬杠开喷",
+      "music": 0.0
+    },
+    {
+      "from": 567.7,
+      "to": 569.2,
+      "sid": 282,
+      "location": 2,
+      "content": "工具不行不准我",
+      "music": 0.0
+    },
+    {
+      "from": 569.2,
+      "to": 569.74,
+      "sid": 283,
+      "location": 2,
+      "content": "我二舅",
+      "music": 0.0
+    },
+    {
+      "from": 569.74,
+      "to": 571.79,
+      "sid": 284,
+      "location": 2,
+      "content": "我朋友10km38分",
+      "music": 0.0
+    },
+    {
+      "from": 571.79,
+      "to": 573.68,
+      "sid": 285,
+      "location": 2,
+      "content": "但是怎么全马也破不了三呢",
+      "music": 0.0
+    },
+    {
+      "from": 573.68,
+      "to": 575.58,
+      "sid": 286,
+      "location": 2,
+      "content": "丹尼尔斯6v DOS不行啊",
+      "music": 0.0
+    },
+    {
+      "from": 575.58,
+      "to": 577.08,
+      "sid": 287,
+      "location": 2,
+      "content": "我们可以先问问自己",
+      "music": 0.0
+    },
+    {
+      "from": 577.08,
+      "to": 578.22,
+      "sid": 288,
+      "location": 2,
+      "content": "工具真的用对了吗",
+      "music": 0.0
+    },
+    {
+      "from": 578.22,
+      "to": 579.75,
+      "sid": 289,
+      "location": 2,
+      "content": "真的理解了其中的原理了吗",
+      "music": 0.0
+    },
+    {
+      "from": 579.75,
+      "to": 581.97,
+      "sid": 290,
+      "location": 2,
+      "content": "训练强度分配真的没有问题吗",
+      "music": 0.0
+    },
+    {
+      "from": 581.97,
+      "to": 583.29,
+      "sid": 291,
+      "location": 2,
+      "content": "想要提升全马的成绩",
+      "music": 0.0
+    },
+    {
+      "from": 583.29,
+      "to": 586.17,
+      "sid": 292,
+      "location": 2,
+      "content": "自己跑的课表会练的东西真的是马拉松专项吗",
+      "music": 0.0
+    },
+    {
+      "from": 586.17,
+      "to": 588.21,
+      "sid": 293,
+      "location": 2,
+      "content": "全马备赛到比赛的过程中",
+      "music": 0.0
+    },
+    {
+      "from": 588.21,
+      "to": 590.839,
+      "sid": 294,
+      "location": 2,
+      "content": "到底有没有出现差错或者做到最好了呢",
+      "music": 0.0
+    },
+    {
+      "from": 590.839,
+      "to": 593.24,
+      "sid": 295,
+      "location": 2,
+      "content": "最后祝你也可以跑者愉快",
+      "music": 0.0
+    },
+    {
+      "from": 593.24,
+      "to": 596.0,
+      "sid": 296,
+      "location": 2,
+      "content": "本期为中长跑训练解析的第四期啊",
+      "music": 0.0
+    },
+    {
+      "from": 596.0,
+      "to": 597.5,
+      "sid": 297,
+      "location": 2,
+      "content": "如果你对跑步成绩有追求",
+      "music": 0.0
+    },
+    {
+      "from": 597.5,
+      "to": 598.86,
+      "sid": 298,
+      "location": 2,
+      "content": "可以看看我的频道",
+      "music": 0.0
+    },
+    {
+      "from": 598.86,
+      "to": 600.96,
+      "sid": 299,
+      "location": 2,
+      "content": "容易PB的频道里有我呕心沥血",
+      "music": 0.0
+    },
+    {
+      "from": 600.96,
+      "to": 601.8,
+      "sid": 300,
+      "location": 2,
+      "content": "花了十几个小时",
+      "music": 0.0
+    },
+    {
+      "from": 601.8,
+      "to": 604.62,
+      "sid": 301,
+      "location": 2,
+      "content": "浓缩成几分钟的前三期跑步训练干货",
+      "music": 0.0
+    },
+    {
+      "from": 604.62,
+      "to": 607.079,
+      "sid": 302,
+      "location": 2,
+      "content": "相信也一定对你有帮助",
+      "music": 0.0
+    },
+    {
+      "from": 607.079,
+      "to": 608.039,
+      "sid": 303,
+      "location": 2,
+      "content": "唯快不破",
+      "music": 0.0
+    },
+    {
+      "from": 608.039,
+      "to": 608.639,
+      "sid": 304,
+      "location": 2,
+      "content": "自强不息",
+      "music": 0.0
+    },
+    {
+      "from": 608.639,
+      "to": 610.679,
+      "sid": 305,
+      "location": 2,
+      "content": "以人为本乐跑人生无好用",
+      "music": 0.0
+    },
+    {
+      "from": 610.679,
+      "to": 611.219,
+      "sid": 306,
+      "location": 2,
+      "content": "容易光学",
+      "music": 0.0
+    },
+    {
+      "from": 611.219,
+      "to": 612.119,
+      "sid": 307,
+      "location": 2,
+      "content": "容易得容易PB",
+      "music": 0.0
+    },
+    {
+      "from": 612.119,
+      "to": 612.959,
+      "sid": 308,
+      "location": 2,
+      "content": "我得hokey",
+      "music": 0.0
+    },
+    {
+      "from": 612.959,
+      "to": 613.46,
+      "sid": 309,
+      "location": 2,
+      "content": "Joking",
+      "music": 0.0
+    }
+  ]
+}

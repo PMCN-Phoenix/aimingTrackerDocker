@@ -1,0 +1,604 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "v1.7.0.4",
+  "body": [
+    {
+      "from": 0.42,
+      "to": 3.6,
+      "sid": 1,
+      "location": 2,
+      "content": "同样的配速跑着跑着心率越来越高",
+      "music": 0.0
+    },
+    {
+      "from": 3.6,
+      "to": 5.16,
+      "sid": 2,
+      "location": 2,
+      "content": "不是你状态差了",
+      "music": 0.0
+    },
+    {
+      "from": 5.16,
+      "to": 7.81,
+      "sid": 3,
+      "location": 2,
+      "content": "这个现象叫心率漂移",
+      "music": 0.0
+    },
+    {
+      "from": 7.81,
+      "to": 9.33,
+      "sid": 4,
+      "location": 2,
+      "content": "这条视频讲三件事",
+      "music": 0.0
+    },
+    {
+      "from": 9.33,
+      "to": 10.11,
+      "sid": 5,
+      "location": 2,
+      "content": "它是什么",
+      "music": 0.0
+    },
+    {
+      "from": 10.11,
+      "to": 11.15,
+      "sid": 6,
+      "location": 2,
+      "content": "为什么会发生",
+      "music": 0.0
+    },
+    {
+      "from": 11.15,
+      "to": 13.13,
+      "sid": 7,
+      "location": 2,
+      "content": "还有跑步的时候怎么应对",
+      "music": 0.0
+    },
+    {
+      "from": 13.13,
+      "to": 14.47,
+      "sid": 8,
+      "location": 2,
+      "content": "长时间匀速跑",
+      "music": 0.0
+    },
+    {
+      "from": 14.47,
+      "to": 15.5,
+      "sid": 9,
+      "location": 2,
+      "content": "强度没变",
+      "music": 0.0
+    },
+    {
+      "from": 15.5,
+      "to": 17.65,
+      "sid": 10,
+      "location": 2,
+      "content": "心率却一点一点往上爬",
+      "music": 0.0
+    },
+    {
+      "from": 17.65,
+      "to": 18.65,
+      "sid": 11,
+      "location": 2,
+      "content": "与此同时",
+      "music": 0.0
+    },
+    {
+      "from": 18.65,
+      "to": 19.89,
+      "sid": 12,
+      "location": 2,
+      "content": "心脏每跳一下",
+      "music": 0.0
+    },
+    {
+      "from": 19.89,
+      "to": 22.37,
+      "sid": 13,
+      "location": 2,
+      "content": "蹦出去的血在慢慢变少",
+      "music": 0.0
+    },
+    {
+      "from": 22.37,
+      "to": 25.08,
+      "sid": 14,
+      "location": 2,
+      "content": "研究里管这个叫心血管漂移",
+      "music": 0.0
+    },
+    {
+      "from": 25.08,
+      "to": 26.84,
+      "sid": 15,
+      "location": 2,
+      "content": "心脏每一下蹦的少了",
+      "music": 0.0
+    },
+    {
+      "from": 26.84,
+      "to": 28.64,
+      "sid": 16,
+      "location": 2,
+      "content": "就只能靠多跳几下来补",
+      "music": 0.0
+    },
+    {
+      "from": 28.64,
+      "to": 29.7,
+      "sid": 17,
+      "location": 2,
+      "content": "为什么会这样",
+      "music": 0.0
+    },
+    {
+      "from": 29.7,
+      "to": 32.17,
+      "sid": 18,
+      "location": 2,
+      "content": "目前比较公认的推手有两个",
+      "music": 0.0
+    },
+    {
+      "from": 32.17,
+      "to": 34.91,
+      "sid": 19,
+      "location": 2,
+      "content": "体温升高和出汗带来的脱水",
+      "music": 0.0
+    },
+    {
+      "from": 34.91,
+      "to": 36.33,
+      "sid": 20,
+      "location": 2,
+      "content": "不过它的完整机制",
+      "music": 0.0
+    },
+    {
+      "from": 36.33,
+      "to": 37.96,
+      "sid": 21,
+      "location": 2,
+      "content": "学界还没有完全说清",
+      "music": 0.0
+    },
+    {
+      "from": 37.96,
+      "to": 39.3,
+      "sid": 22,
+      "location": 2,
+      "content": "体温升高的时候",
+      "music": 0.0
+    },
+    {
+      "from": 39.3,
+      "to": 41.8,
+      "sid": 23,
+      "location": 2,
+      "content": "更多的血要流到皮肤去散热",
+      "music": 0.0
+    },
+    {
+      "from": 41.8,
+      "to": 42.88,
+      "sid": 24,
+      "location": 2,
+      "content": "出汗多了",
+      "music": 0.0
+    },
+    {
+      "from": 42.88,
+      "to": 44.6,
+      "sid": 25,
+      "location": 2,
+      "content": "鞋里的水分又在变少",
+      "music": 0.0
+    },
+    {
+      "from": 44.6,
+      "to": 46.06,
+      "sid": 26,
+      "location": 2,
+      "content": "脱水影响有多大",
+      "music": 0.0
+    },
+    {
+      "from": 46.06,
+      "to": 47.76,
+      "sid": 27,
+      "location": 2,
+      "content": "有一项研究做过比较",
+      "music": 0.0
+    },
+    {
+      "from": 47.76,
+      "to": 50.32,
+      "sid": 28,
+      "location": 2,
+      "content": "跟水分充足的时候比体重",
+      "music": 0.0
+    },
+    {
+      "from": 50.32,
+      "to": 52.44,
+      "sid": 29,
+      "location": 2,
+      "content": "因为脱水掉了不到1%",
+      "music": 0.0
+    },
+    {
+      "from": 52.44,
+      "to": 54.45,
+      "sid": 30,
+      "location": 2,
+      "content": "心率高了大约十下",
+      "music": 0.0
+    },
+    {
+      "from": 54.45,
+      "to": 55.97,
+      "sid": 31,
+      "location": 2,
+      "content": "掉了接近3%",
+      "music": 0.0
+    },
+    {
+      "from": 55.97,
+      "to": 57.67,
+      "sid": 32,
+      "location": 2,
+      "content": "心率高了大约18下",
+      "music": 0.0
+    },
+    {
+      "from": 57.67,
+      "to": 58.93,
+      "sid": 33,
+      "location": 2,
+      "content": "同类研究还发现",
+      "music": 0.0
+    },
+    {
+      "from": 58.93,
+      "to": 60.51,
+      "sid": 34,
+      "location": 2,
+      "content": "运动中及时补水",
+      "music": 0.0
+    },
+    {
+      "from": 60.51,
+      "to": 63.62,
+      "sid": 35,
+      "location": 2,
+      "content": "可以防止心脏每一下泵血量的下降",
+      "music": 0.0
+    },
+    {
+      "from": 63.62,
+      "to": 66.32,
+      "sid": 36,
+      "location": 2,
+      "content": "所以心率漂移的告诉你两件事",
+      "music": 0.0
+    },
+    {
+      "from": 66.32,
+      "to": 68.14,
+      "sid": 37,
+      "location": 2,
+      "content": "第一天热出汗",
+      "music": 0.0
+    },
+    {
+      "from": 68.14,
+      "to": 69.14,
+      "sid": 38,
+      "location": 2,
+      "content": "多喝水少",
+      "music": 0.0
+    },
+    {
+      "from": 69.14,
+      "to": 70.62,
+      "sid": 39,
+      "location": 2,
+      "content": "心脏的负担会更大",
+      "music": 0.0
+    },
+    {
+      "from": 70.62,
+      "to": 74.2,
+      "sid": 40,
+      "location": 2,
+      "content": "第二长距离按心率跑后半程配速会掉",
+      "music": 0.0
+    },
+    {
+      "from": 74.2,
+      "to": 76.59,
+      "sid": 41,
+      "location": 2,
+      "content": "按配速跑后半程心率会涨",
+      "music": 0.0
+    },
+    {
+      "from": 76.59,
+      "to": 77.77,
+      "sid": 42,
+      "location": 2,
+      "content": "这都是正常的",
+      "music": 0.0
+    },
+    {
+      "from": 77.77,
+      "to": 78.67,
+      "sid": 43,
+      "location": 2,
+      "content": "举个例子",
+      "music": 0.0
+    },
+    {
+      "from": 78.67,
+      "to": 82.14,
+      "sid": 44,
+      "location": 2,
+      "content": "同样每公里6分钟前20分钟心率140",
+      "music": 0.0
+    },
+    {
+      "from": 82.14,
+      "to": 85.02,
+      "sid": 45,
+      "location": 2,
+      "content": "跑到一个半小时可能就到了150多",
+      "music": 0.0
+    },
+    {
+      "from": 85.02,
+      "to": 86.99,
+      "sid": 46,
+      "location": 2,
+      "content": "数字是示意每个人不一样",
+      "music": 0.0
+    },
+    {
+      "from": 86.99,
+      "to": 90.69,
+      "sid": 47,
+      "location": 2,
+      "content": "这也是为什么不少训练计划里的长距离慢跑",
+      "music": 0.0
+    },
+    {
+      "from": 90.69,
+      "to": 92.31,
+      "sid": 48,
+      "location": 2,
+      "content": "给的是一个心率上限",
+      "music": 0.0
+    },
+    {
+      "from": 92.31,
+      "to": 93.73,
+      "sid": 49,
+      "location": 2,
+      "content": "而不是一个死配速",
+      "music": 0.0
+    },
+    {
+      "from": 93.73,
+      "to": 95.66,
+      "sid": 50,
+      "location": 2,
+      "content": "那怎么应对三点",
+      "music": 0.0
+    },
+    {
+      "from": 95.66,
+      "to": 98.41,
+      "sid": 51,
+      "location": 2,
+      "content": "第一长距离用心率控强度的话",
+      "music": 0.0
+    },
+    {
+      "from": 98.41,
+      "to": 100.59,
+      "sid": 52,
+      "location": 2,
+      "content": "后半程允许心率稍微上浮",
+      "music": 0.0
+    },
+    {
+      "from": 100.59,
+      "to": 102.65,
+      "sid": 53,
+      "location": 2,
+      "content": "或者主动把配速放慢一点",
+      "music": 0.0
+    },
+    {
+      "from": 102.65,
+      "to": 104.52,
+      "sid": 54,
+      "location": 2,
+      "content": "第二按时补水",
+      "music": 0.0
+    },
+    {
+      "from": 104.52,
+      "to": 106.46,
+      "sid": 55,
+      "location": 2,
+      "content": "天热的时候提前喝",
+      "music": 0.0
+    },
+    {
+      "from": 106.46,
+      "to": 107.5,
+      "sid": 56,
+      "location": 2,
+      "content": "分几次喝",
+      "music": 0.0
+    },
+    {
+      "from": 107.5,
+      "to": 108.94,
+      "sid": 57,
+      "location": 2,
+      "content": "别等口渴了才喝",
+      "music": 0.0
+    },
+    {
+      "from": 108.94,
+      "to": 110.28,
+      "sid": 58,
+      "location": 2,
+      "content": "也别一次灌太多",
+      "music": 0.0
+    },
+    {
+      "from": 110.28,
+      "to": 112.36,
+      "sid": 59,
+      "location": 2,
+      "content": "第三天热就降配速",
+      "music": 0.0
+    },
+    {
+      "from": 112.36,
+      "to": 113.48,
+      "sid": 60,
+      "location": 2,
+      "content": "同样的心率",
+      "music": 0.0
+    },
+    {
+      "from": 113.48,
+      "to": 116.34,
+      "sid": 61,
+      "location": 2,
+      "content": "夏天跑出来的配速比冬天慢很正常",
+      "music": 0.0
+    },
+    {
+      "from": 116.34,
+      "to": 117.94,
+      "sid": 62,
+      "location": 2,
+      "content": "对比训练数据的时候",
+      "music": 0.0
+    },
+    {
+      "from": 117.94,
+      "to": 119.16,
+      "sid": 63,
+      "location": 2,
+      "content": "记得看看天气",
+      "music": 0.0
+    },
+    {
+      "from": 119.16,
+      "to": 120.6,
+      "sid": 64,
+      "location": 2,
+      "content": "冬天也会有漂移",
+      "music": 0.0
+    },
+    {
+      "from": 120.6,
+      "to": 122.12,
+      "sid": 65,
+      "location": 2,
+      "content": "只是通常没那么明显",
+      "music": 0.0
+    },
+    {
+      "from": 122.12,
+      "to": 123.86,
+      "sid": 66,
+      "location": 2,
+      "content": "如果心率异常飙升",
+      "music": 0.0
+    },
+    {
+      "from": 123.86,
+      "to": 125.62,
+      "sid": 67,
+      "location": 2,
+      "content": "还伴随胸闷头晕",
+      "music": 0.0
+    },
+    {
+      "from": 125.62,
+      "to": 126.76,
+      "sid": 68,
+      "location": 2,
+      "content": "马上停下来",
+      "music": 0.0
+    },
+    {
+      "from": 126.76,
+      "to": 128.259,
+      "sid": 69,
+      "location": 2,
+      "content": "必要时及时就医",
+      "music": 0.0
+    },
+    {
+      "from": 128.259,
+      "to": 130.499,
+      "sid": 70,
+      "location": 2,
+      "content": "心率漂移不是你变弱了",
+      "music": 0.0
+    },
+    {
+      "from": 130.499,
+      "to": 134.42,
+      "sid": 71,
+      "location": 2,
+      "content": "是身体在热和脱水面前正常的反应",
+      "music": 0.0
+    },
+    {
+      "from": 134.42,
+      "to": 137.02,
+      "sid": 72,
+      "location": 2,
+      "content": "比夏天跑步心率会比冬天高多少",
+      "music": 0.0
+    },
+    {
+      "from": 137.02,
+      "to": 139.46,
+      "sid": 73,
+      "location": 2,
+      "content": "评论区说说更多跑步里的数字",
+      "music": 0.0
+    },
+    {
+      "from": 139.46,
+      "to": 140.98,
+      "sid": 74,
+      "location": 2,
+      "content": "我们下期接着拆",
+      "music": 0.0
+    }
+  ]
+}

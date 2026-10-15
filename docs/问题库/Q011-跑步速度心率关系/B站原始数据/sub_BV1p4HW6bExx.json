@@ -1,0 +1,1308 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "v1.7.0.4",
+  "body": [
+    {
+      "from": 0.04,
+      "to": 1.22,
+      "sid": 1,
+      "location": 2,
+      "content": "乳酸阈值T跑",
+      "music": 0.0
+    },
+    {
+      "from": 1.22,
+      "to": 4.16,
+      "sid": 2,
+      "location": 2,
+      "content": "凭什么被称作马拉松跑者的强度克之王",
+      "music": 0.0
+    },
+    {
+      "from": 4.16,
+      "to": 7.06,
+      "sid": 3,
+      "location": 2,
+      "content": "多少跑友还在每周雷打不动的咬牙顶",
+      "music": 0.0
+    },
+    {
+      "from": 7.06,
+      "to": 8.5,
+      "sid": 4,
+      "location": 2,
+      "content": "四百八百米的间歇跑",
+      "music": 0.0
+    },
+    {
+      "from": 8.5,
+      "to": 11.4,
+      "sid": 5,
+      "location": 2,
+      "content": "只为把最大摄氧量v o two max刷高几个点",
+      "music": 0.0
+    },
+    {
+      "from": 11.4,
+      "to": 13.48,
+      "sid": 6,
+      "location": 2,
+      "content": "如果你是半马马拉松的跑者",
+      "music": 0.0
+    },
+    {
+      "from": 13.48,
+      "to": 16.049,
+      "sid": 7,
+      "location": 2,
+      "content": "你可能正在做一件性价比极低的事",
+      "music": 0.0
+    },
+    {
+      "from": 16.049,
+      "to": 17.029,
+      "sid": 8,
+      "location": 2,
+      "content": "坚持不懈",
+      "music": 0.0
+    },
+    {
+      "from": 17.029,
+      "to": 18.289,
+      "sid": 9,
+      "location": 2,
+      "content": "苦哈哈的顶强度",
+      "music": 0.0
+    },
+    {
+      "from": 18.289,
+      "to": 21.14,
+      "sid": 10,
+      "location": 2,
+      "content": "成绩却很快卡在某个地方停滞不前",
+      "music": 0.0
+    },
+    {
+      "from": 21.14,
+      "to": 22.06,
+      "sid": 11,
+      "location": 2,
+      "content": "感动了上天",
+      "music": 0.0
+    },
+    {
+      "from": 22.06,
+      "to": 23.42,
+      "sid": 12,
+      "location": 2,
+      "content": "辜负了自己运动",
+      "music": 0.0
+    },
+    {
+      "from": 23.42,
+      "to": 24.68,
+      "sid": 13,
+      "location": 2,
+      "content": "科学界早有共识",
+      "music": 0.0
+    },
+    {
+      "from": 24.68,
+      "to": 27.85,
+      "sid": 14,
+      "location": 2,
+      "content": "最大摄氧量很大程度上由基因遗传决定",
+      "music": 0.0
+    },
+    {
+      "from": 27.85,
+      "to": 28.73,
+      "sid": 15,
+      "location": 2,
+      "content": "研究显示",
+      "music": 0.0
+    },
+    {
+      "from": 28.73,
+      "to": 31.17,
+      "sid": 16,
+      "location": 2,
+      "content": "最大摄氧量与马拉松成绩的相关性",
+      "music": 0.0
+    },
+    {
+      "from": 31.17,
+      "to": 32.659,
+      "sid": 17,
+      "location": 2,
+      "content": "仅为0.63",
+      "music": 0.0
+    },
+    {
+      "from": 32.659,
+      "to": 35.659,
+      "sid": 18,
+      "location": 2,
+      "content": "而乳酸阈值配速与马拉松成绩的相关性",
+      "music": 0.0
+    },
+    {
+      "from": 35.659,
+      "to": 38.32,
+      "sid": 19,
+      "location": 2,
+      "content": "高达0.91运动生理学家直言",
+      "music": 0.0
+    },
+    {
+      "from": 38.32,
+      "to": 40.62,
+      "sid": 20,
+      "location": 2,
+      "content": "最大摄氧量只是设定了你的潜力",
+      "music": 0.0
+    },
+    {
+      "from": 40.62,
+      "to": 41.92,
+      "sid": 21,
+      "location": 2,
+      "content": "而乳酸阈值配速",
+      "music": 0.0
+    },
+    {
+      "from": 41.92,
+      "to": 44.68,
+      "sid": 22,
+      "location": 2,
+      "content": "真正决定了你在比赛中实际能跑多快",
+      "music": 0.0
+    },
+    {
+      "from": 44.68,
+      "to": 46.0,
+      "sid": 23,
+      "location": 2,
+      "content": "针对T跑的训练",
+      "music": 0.0
+    },
+    {
+      "from": 46.0,
+      "to": 47.94,
+      "sid": 24,
+      "location": 2,
+      "content": "能够促进跑者持续进步",
+      "music": 0.0
+    },
+    {
+      "from": 47.94,
+      "to": 50.739,
+      "sid": 25,
+      "location": 2,
+      "content": "不断提升自己的跑步成绩与耐力水平",
+      "music": 0.0
+    },
+    {
+      "from": 50.739,
+      "to": 53.579,
+      "sid": 26,
+      "location": 2,
+      "content": "著名的跑步书籍丹尼尔斯经典跑步训练法",
+      "music": 0.0
+    },
+    {
+      "from": 53.579,
+      "to": 57.709,
+      "sid": 27,
+      "location": 2,
+      "content": "是国内外非常多跑步教练跑者们的启蒙训练书",
+      "music": 0.0
+    },
+    {
+      "from": 57.709,
+      "to": 60.649,
+      "sid": 28,
+      "location": 2,
+      "content": "它的封面就印着耐力训练的版本答案",
+      "music": 0.0
+    },
+    {
+      "from": 60.649,
+      "to": 61.669,
+      "sid": 29,
+      "location": 2,
+      "content": "乳酸门槛跑",
+      "music": 0.0
+    },
+    {
+      "from": 61.669,
+      "to": 64.18,
+      "sid": 30,
+      "location": 2,
+      "content": "也就是我们所说的T乳酸阈值",
+      "music": 0.0
+    },
+    {
+      "from": 64.18,
+      "to": 65.02,
+      "sid": 31,
+      "location": 2,
+      "content": "我是李荣毅",
+      "music": 0.0
+    },
+    {
+      "from": 65.02,
+      "to": 66.44,
+      "sid": 32,
+      "location": 2,
+      "content": "专注分享深度思考",
+      "music": 0.0
+    },
+    {
+      "from": 66.44,
+      "to": 67.94,
+      "sid": 33,
+      "location": 2,
+      "content": "行之有效的跑步干货",
+      "music": 0.0
+    },
+    {
+      "from": 67.94,
+      "to": 68.78,
+      "sid": 34,
+      "location": 2,
+      "content": "今天讲解",
+      "music": 0.0
+    },
+    {
+      "from": 68.78,
+      "to": 71.46,
+      "sid": 35,
+      "location": 2,
+      "content": "乳酸阈值为何是马拉松耐力训练的重点",
+      "music": 0.0
+    },
+    {
+      "from": 71.46,
+      "to": 74.18,
+      "sid": 36,
+      "location": 2,
+      "content": "视频结尾分享几种常见的T跑课表",
+      "music": 0.0
+    },
+    {
+      "from": 74.18,
+      "to": 75.74,
+      "sid": 37,
+      "location": 2,
+      "content": "帮助跑友们增强耐力",
+      "music": 0.0
+    },
+    {
+      "from": 75.74,
+      "to": 77.87,
+      "sid": 38,
+      "location": 2,
+      "content": "像雅各布一样耐酸更耐跑",
+      "music": 0.0
+    },
+    {
+      "from": 77.87,
+      "to": 81.21,
+      "sid": 39,
+      "location": 2,
+      "content": "如果想科学高效的提升3km到马拉松的成绩",
+      "music": 0.0
+    },
+    {
+      "from": 81.21,
+      "to": 83.55,
+      "sid": 40,
+      "location": 2,
+      "content": "欢迎私信定制一对一的训练计划",
+      "music": 0.0
+    },
+    {
+      "from": 83.55,
+      "to": 84.69,
+      "sid": 41,
+      "location": 2,
+      "content": "祝你节省时间",
+      "music": 0.0
+    },
+    {
+      "from": 84.69,
+      "to": 85.63,
+      "sid": 42,
+      "location": 2,
+      "content": "无伤PB",
+      "music": 0.0
+    },
+    {
+      "from": 85.63,
+      "to": 87.67,
+      "sid": 43,
+      "location": 2,
+      "content": "如果你是半马全马的跑者",
+      "music": 0.0
+    },
+    {
+      "from": 87.67,
+      "to": 91.06,
+      "sid": 44,
+      "location": 2,
+      "content": "为什么v o two max间歇跑不值得常年坚持呢",
+      "music": 0.0
+    },
+    {
+      "from": 91.06,
+      "to": 92.14,
+      "sid": 45,
+      "location": 2,
+      "content": "首先will to max",
+      "music": 0.0
+    },
+    {
+      "from": 92.14,
+      "to": 95.43,
+      "sid": 46,
+      "location": 2,
+      "content": "间歇跑通常需要跑到三到5km的比赛配速",
+      "music": 0.0
+    },
+    {
+      "from": 95.43,
+      "to": 97.57,
+      "sid": 47,
+      "location": 2,
+      "content": "受伤风险与恢复成本过高",
+      "music": 0.0
+    },
+    {
+      "from": 97.57,
+      "to": 99.43,
+      "sid": 48,
+      "location": 2,
+      "content": "心率飙升至95%",
+      "music": 0.0
+    },
+    {
+      "from": 99.43,
+      "to": 101.18,
+      "sid": 49,
+      "location": 2,
+      "content": "到100%的最大心率",
+      "music": 0.0
+    },
+    {
+      "from": 101.18,
+      "to": 104.46,
+      "sid": 50,
+      "location": 2,
+      "content": "每次训练后都需要额外一到两天的恢复时间",
+      "music": 0.0
+    },
+    {
+      "from": 104.46,
+      "to": 107.0,
+      "sid": 51,
+      "location": 2,
+      "content": "对于月跑量200到300km的业余跑者",
+      "music": 0.0
+    },
+    {
+      "from": 107.0,
+      "to": 108.36,
+      "sid": 52,
+      "location": 2,
+      "content": "这种高消耗的训练",
+      "music": 0.0
+    },
+    {
+      "from": 108.36,
+      "to": 110.74,
+      "sid": 53,
+      "location": 2,
+      "content": "会严重挤压有氧基础训练的空间",
+      "music": 0.0
+    },
+    {
+      "from": 110.74,
+      "to": 113.14,
+      "sid": 54,
+      "location": 2,
+      "content": "其次之前分享过耐力运动表现",
+      "music": 0.0
+    },
+    {
+      "from": 113.14,
+      "to": 116.28,
+      "sid": 55,
+      "location": 2,
+      "content": "是由中央心肺与外周因素共同决定的",
+      "music": 0.0
+    },
+    {
+      "from": 116.28,
+      "to": 118.02,
+      "sid": 56,
+      "location": 2,
+      "content": "外周适应来得太快",
+      "music": 0.0
+    },
+    {
+      "from": 118.02,
+      "to": 119.16,
+      "sid": 57,
+      "location": 2,
+      "content": "毛细血管密度",
+      "music": 0.0
+    },
+    {
+      "from": 119.16,
+      "to": 121.14,
+      "sid": 58,
+      "location": 2,
+      "content": "线粒体酶活性等外周因素",
+      "music": 0.0
+    },
+    {
+      "from": 121.14,
+      "to": 122.98,
+      "sid": 59,
+      "location": 2,
+      "content": "通过4~6周的will to mass",
+      "music": 0.0
+    },
+    {
+      "from": 122.98,
+      "to": 125.12,
+      "sid": 60,
+      "location": 2,
+      "content": "专项刺激即可接近峰值",
+      "music": 0.0
+    },
+    {
+      "from": 125.12,
+      "to": 127.94,
+      "sid": 61,
+      "location": 2,
+      "content": "通常只需要在赛前临时抱佛脚时",
+      "music": 0.0
+    },
+    {
+      "from": 127.94,
+      "to": 131.15,
+      "sid": 62,
+      "location": 2,
+      "content": "适当使用view to mats间歇跑即可投入",
+      "music": 0.0
+    },
+    {
+      "from": 131.15,
+      "to": 132.31,
+      "sid": 63,
+      "location": 2,
+      "content": "产出比极低",
+      "music": 0.0
+    },
+    {
+      "from": 132.31,
+      "to": 133.81,
+      "sid": 64,
+      "location": 2,
+      "content": "与v o two max不同",
+      "music": 0.0
+    },
+    {
+      "from": 133.81,
+      "to": 136.329,
+      "sid": 65,
+      "location": 2,
+      "content": "乳酸阈值具有极强的可持续性",
+      "music": 0.0
+    },
+    {
+      "from": 136.329,
+      "to": 139.309,
+      "sid": 66,
+      "location": 2,
+      "content": "且能够持续提升数年甚至数10年",
+      "music": 0.0
+    },
+    {
+      "from": 139.309,
+      "to": 143.03,
+      "sid": 67,
+      "location": 2,
+      "content": "马拉松半马本质上是一场与乳酸赛跑的游戏",
+      "music": 0.0
+    },
+    {
+      "from": 143.03,
+      "to": 146.37,
+      "sid": 68,
+      "location": 2,
+      "content": "T配速是你能维持大约一个小时的舒适的",
+      "music": 0.0
+    },
+    {
+      "from": 146.37,
+      "to": 147.39,
+      "sid": 69,
+      "location": 2,
+      "content": "艰苦的强度",
+      "music": 0.0
+    },
+    {
+      "from": 147.39,
+      "to": 150.06,
+      "sid": 70,
+      "location": 2,
+      "content": "通常介于10km到半马配速之间",
+      "music": 0.0
+    },
+    {
+      "from": 150.06,
+      "to": 152.1,
+      "sid": 71,
+      "location": 2,
+      "content": "根据跑者的水平略有差异",
+      "music": 0.0
+    },
+    {
+      "from": 152.1,
+      "to": 152.96,
+      "sid": 72,
+      "location": 2,
+      "content": "提升阈值",
+      "music": 0.0
+    },
+    {
+      "from": 152.96,
+      "to": 154.62,
+      "sid": 73,
+      "location": 2,
+      "content": "意味着你能以更快的配速",
+      "music": 0.0
+    },
+    {
+      "from": 154.62,
+      "to": 157.34,
+      "sid": 74,
+      "location": 2,
+      "content": "不撞墙的完成全程或半程马拉松",
+      "music": 0.0
+    },
+    {
+      "from": 157.34,
+      "to": 159.78,
+      "sid": 75,
+      "location": 2,
+      "content": "T配速与马配有极强的相关性",
+      "music": 0.0
+    },
+    {
+      "from": 159.78,
+      "to": 160.92,
+      "sid": 76,
+      "location": 2,
+      "content": "阈值配速提高",
+      "music": 0.0
+    },
+    {
+      "from": 160.92,
+      "to": 162.93,
+      "sid": 77,
+      "location": 2,
+      "content": "马配自然就水涨船高",
+      "music": 0.0
+    },
+    {
+      "from": 162.93,
+      "to": 163.65,
+      "sid": 78,
+      "location": 2,
+      "content": "所以为什么",
+      "music": 0.0
+    },
+    {
+      "from": 163.65,
+      "to": 167.21,
+      "sid": 79,
+      "location": 2,
+      "content": "提高T配速成了国内外许多教练关注的重点",
+      "music": 0.0
+    },
+    {
+      "from": 167.21,
+      "to": 170.079,
+      "sid": 80,
+      "location": 2,
+      "content": "下面分享五种常见的T跑训练方法",
+      "music": 0.0
+    },
+    {
+      "from": 170.079,
+      "to": 172.209,
+      "sid": 81,
+      "location": 2,
+      "content": "需要的朋友请自行截图",
+      "music": 0.0
+    },
+    {
+      "from": 172.209,
+      "to": 175.029,
+      "sid": 82,
+      "location": 2,
+      "content": "第一种就是耳熟能详的节奏跑",
+      "music": 0.0
+    },
+    {
+      "from": 175.029,
+      "to": 178.009,
+      "sid": 83,
+      "location": 2,
+      "content": "以阈值配速或略低于阈值配速进行",
+      "music": 0.0
+    },
+    {
+      "from": 178.009,
+      "to": 179.81,
+      "sid": 84,
+      "location": 2,
+      "content": "持续跑20到60分钟",
+      "music": 0.0
+    },
+    {
+      "from": 179.81,
+      "to": 181.99,
+      "sid": 85,
+      "location": 2,
+      "content": "强度控制在能说短句",
+      "music": 0.0
+    },
+    {
+      "from": 181.99,
+      "to": 185.17,
+      "sid": 86,
+      "location": 2,
+      "content": "但没有办法长句交谈的一个强度即可",
+      "music": 0.0
+    },
+    {
+      "from": 185.17,
+      "to": 188.66,
+      "sid": 87,
+      "location": 2,
+      "content": "初期可以从20分钟开始逐步延长时长",
+      "music": 0.0
+    },
+    {
+      "from": 188.66,
+      "to": 189.46,
+      "sid": 88,
+      "location": 2,
+      "content": "核心锻炼",
+      "music": 0.0
+    },
+    {
+      "from": 189.46,
+      "to": 193.17,
+      "sid": 89,
+      "location": 2,
+      "content": "跑者的乳酸清除效率与身心对高强度的耐受度",
+      "music": 0.0
+    },
+    {
+      "from": 193.17,
+      "to": 195.39,
+      "sid": 90,
+      "location": 2,
+      "content": "第二种就是阈值的间歇跑",
+      "music": 0.0
+    },
+    {
+      "from": 195.39,
+      "to": 198.5,
+      "sid": 91,
+      "location": 2,
+      "content": "以阈值强度跑八到20分钟为一组",
+      "music": 0.0
+    },
+    {
+      "from": 198.5,
+      "to": 201.06,
+      "sid": 92,
+      "location": 2,
+      "content": "组间进行一到3分钟的轻松慢跑",
+      "music": 0.0
+    },
+    {
+      "from": 201.06,
+      "to": 203.38,
+      "sid": 93,
+      "location": 2,
+      "content": "恢复累计阈值强度的运动时间",
+      "music": 0.0
+    },
+    {
+      "from": 203.38,
+      "to": 205.1,
+      "sid": 94,
+      "location": 2,
+      "content": "相比连续的节奏跑",
+      "music": 0.0
+    },
+    {
+      "from": 205.1,
+      "to": 206.44,
+      "sid": 95,
+      "location": 2,
+      "content": "心理负担更低",
+      "music": 0.0
+    },
+    {
+      "from": 206.44,
+      "to": 209.04,
+      "sid": 96,
+      "location": 2,
+      "content": "且恢复阶段乳酸未完全清除",
+      "music": 0.0
+    },
+    {
+      "from": 209.04,
+      "to": 210.0,
+      "sid": 97,
+      "location": 2,
+      "content": "能训练身体",
+      "music": 0.0
+    },
+    {
+      "from": 210.0,
+      "to": 212.66,
+      "sid": 98,
+      "location": 2,
+      "content": "在代谢压力下恢复高强度运动的能力",
+      "music": 0.0
+    },
+    {
+      "from": 212.66,
+      "to": 214.16,
+      "sid": 99,
+      "location": 2,
+      "content": "常见是4~8组",
+      "music": 0.0
+    },
+    {
+      "from": 214.16,
+      "to": 215.38,
+      "sid": 100,
+      "location": 2,
+      "content": "五到6分钟的踢跑",
+      "music": 0.0
+    },
+    {
+      "from": 215.38,
+      "to": 218.1,
+      "sid": 101,
+      "location": 2,
+      "content": "然后间歇200到400米间歇等等",
+      "music": 0.0
+    },
+    {
+      "from": 218.1,
+      "to": 219.34,
+      "sid": 102,
+      "location": 2,
+      "content": "大家可以自行截图",
+      "music": 0.0
+    },
+    {
+      "from": 219.34,
+      "to": 221.829,
+      "sid": 103,
+      "location": 2,
+      "content": "第三种就是渐进式的阈值训练",
+      "music": 0.0
+    },
+    {
+      "from": 221.829,
+      "to": 224.269,
+      "sid": 104,
+      "location": 2,
+      "content": "比稳态的节奏跑效果会更好",
+      "music": 0.0
+    },
+    {
+      "from": 224.269,
+      "to": 226.529,
+      "sid": 105,
+      "location": 2,
+      "content": "是因为乳酸累积更加频繁",
+      "music": 0.0
+    },
+    {
+      "from": 226.529,
+      "to": 227.749,
+      "sid": 106,
+      "location": 2,
+      "content": "很多没有经验的跑者",
+      "music": 0.0
+    },
+    {
+      "from": 227.749,
+      "to": 229.88,
+      "sid": 107,
+      "location": 2,
+      "content": "会一开始就把乳酸堆的爆掉",
+      "music": 0.0
+    },
+    {
+      "from": 229.88,
+      "to": 233.08,
+      "sid": 108,
+      "location": 2,
+      "content": "这种训练更加接近马拉松后半程的生理压力",
+      "music": 0.0
+    },
+    {
+      "from": 233.08,
+      "to": 234.52,
+      "sid": 109,
+      "location": 2,
+      "content": "乳酸清除能力提升",
+      "music": 0.0
+    },
+    {
+      "from": 234.52,
+      "to": 236.96,
+      "sid": 110,
+      "location": 2,
+      "content": "比单纯的T配速匀速跑会更加明显",
+      "music": 0.0
+    },
+    {
+      "from": 236.96,
+      "to": 238.51,
+      "sid": 111,
+      "location": 2,
+      "content": "常见的课表如下",
+      "music": 0.0
+    },
+    {
+      "from": 238.51,
+      "to": 242.47,
+      "sid": 112,
+      "location": 2,
+      "content": "前10分钟用比T跑慢5~10秒的配速进行训练",
+      "music": 0.0
+    },
+    {
+      "from": 242.47,
+      "to": 244.57,
+      "sid": 113,
+      "location": 2,
+      "content": "中间10分钟用阈值配速训练",
+      "music": 0.0
+    },
+    {
+      "from": 244.57,
+      "to": 245.41,
+      "sid": 114,
+      "location": 2,
+      "content": "最后10分钟",
+      "music": 0.0
+    },
+    {
+      "from": 245.41,
+      "to": 248.71,
+      "sid": 115,
+      "location": 2,
+      "content": "用比阈值略快5~10秒的一个强度进行训练",
+      "music": 0.0
+    },
+    {
+      "from": 248.71,
+      "to": 252.09,
+      "sid": 116,
+      "location": 2,
+      "content": "体感的变化从轻松偏难到有些吃力",
+      "music": 0.0
+    },
+    {
+      "from": 252.09,
+      "to": 253.25,
+      "sid": 117,
+      "location": 2,
+      "content": "再到明显吃力",
+      "music": 0.0
+    },
+    {
+      "from": 253.25,
+      "to": 256.8,
+      "sid": 118,
+      "location": 2,
+      "content": "但可以坚持第四中高强度的间歇训练",
+      "music": 0.0
+    },
+    {
+      "from": 256.8,
+      "to": 258.04,
+      "sid": 119,
+      "location": 2,
+      "content": "以相对短时间",
+      "music": 0.0
+    },
+    {
+      "from": 258.04,
+      "to": 260.62,
+      "sid": 120,
+      "location": 2,
+      "content": "略快于T配速的强度进行间歇训练",
+      "music": 0.0
+    },
+    {
+      "from": 260.62,
+      "to": 263.58,
+      "sid": 121,
+      "location": 2,
+      "content": "长期可提升身体缓冲与清除乳酸的能力",
+      "music": 0.0
+    },
+    {
+      "from": 263.58,
+      "to": 264.86,
+      "sid": 122,
+      "location": 2,
+      "content": "间接降低阈值",
+      "music": 0.0
+    },
+    {
+      "from": 264.86,
+      "to": 267.92,
+      "sid": 123,
+      "location": 2,
+      "content": "配速的运动感知难度常见是是2~6组",
+      "music": 0.0
+    },
+    {
+      "from": 267.92,
+      "to": 269.24,
+      "sid": 124,
+      "location": 2,
+      "content": "1.2km到2km",
+      "music": 0.0
+    },
+    {
+      "from": 269.24,
+      "to": 271.48,
+      "sid": 125,
+      "location": 2,
+      "content": "约为你的10km比赛配速的训练",
+      "music": 0.0
+    },
+    {
+      "from": 271.48,
+      "to": 273.88,
+      "sid": 126,
+      "location": 2,
+      "content": "第五种就是稳态的长距离跑",
+      "music": 0.0
+    },
+    {
+      "from": 273.88,
+      "to": 277.28,
+      "sid": 127,
+      "location": 2,
+      "content": "以LT1就是有氧阈值或者略高的配速",
+      "music": 0.0
+    },
+    {
+      "from": 277.28,
+      "to": 278.22,
+      "sid": 128,
+      "location": 2,
+      "content": "接近你的马配",
+      "music": 0.0
+    },
+    {
+      "from": 278.22,
+      "to": 281.08,
+      "sid": 129,
+      "location": 2,
+      "content": "或者比马配稍快的配速进行长距离跑",
+      "music": 0.0
+    },
+    {
+      "from": 281.08,
+      "to": 282.52,
+      "sid": 130,
+      "location": 2,
+      "content": "重点提升氧气利用率",
+      "music": 0.0
+    },
+    {
+      "from": 282.52,
+      "to": 284.56,
+      "sid": 131,
+      "location": 2,
+      "content": "是马拉松专项训练的核心内容",
+      "music": 0.0
+    },
+    {
+      "from": 284.56,
+      "to": 285.96,
+      "sid": 132,
+      "location": 2,
+      "content": "能让身体适应目标",
+      "music": 0.0
+    },
+    {
+      "from": 285.96,
+      "to": 288.52,
+      "sid": 133,
+      "location": 2,
+      "content": "比赛配速下的燃料消耗与代谢压力",
+      "music": 0.0
+    },
+    {
+      "from": 288.52,
+      "to": 290.11,
+      "sid": 134,
+      "location": 2,
+      "content": "打造你的有氧韧性",
+      "music": 0.0
+    },
+    {
+      "from": 290.11,
+      "to": 292.79,
+      "sid": 135,
+      "location": 2,
+      "content": "常见的课表为60到150分钟的",
+      "music": 0.0
+    },
+    {
+      "from": 292.79,
+      "to": 294.46,
+      "sid": 136,
+      "location": 2,
+      "content": "LT1的配速跑训练",
+      "music": 0.0
+    },
+    {
+      "from": 294.46,
+      "to": 297.18,
+      "sid": 137,
+      "location": 2,
+      "content": "至于有氧育LT1与无氧育LT2",
+      "music": 0.0
+    },
+    {
+      "from": 297.18,
+      "to": 298.7,
+      "sid": 138,
+      "location": 2,
+      "content": "之前有出过相关的视频",
+      "music": 0.0
+    },
+    {
+      "from": 298.7,
+      "to": 300.039,
+      "sid": 139,
+      "location": 2,
+      "content": "大家可以进行翻看",
+      "music": 0.0
+    },
+    {
+      "from": 300.039,
+      "to": 303.079,
+      "sid": 140,
+      "location": 2,
+      "content": "马拉松比的并不是谁的心肺上限更高",
+      "music": 0.0
+    },
+    {
+      "from": 303.079,
+      "to": 305.279,
+      "sid": 141,
+      "location": 2,
+      "content": "而是谁能在42.5km中",
+      "music": 0.0
+    },
+    {
+      "from": 305.279,
+      "to": 307.039,
+      "sid": 142,
+      "location": 2,
+      "content": "更高效地利用有氧系统",
+      "music": 0.0
+    },
+    {
+      "from": 307.039,
+      "to": 309.559,
+      "sid": 143,
+      "location": 2,
+      "content": "与其常年和基因硬碰硬的死磕",
+      "music": 0.0
+    },
+    {
+      "from": 309.559,
+      "to": 311.659,
+      "sid": 144,
+      "location": 2,
+      "content": "v o two max最大摄氧量的间歇跑",
+      "music": 0.0
+    },
+    {
+      "from": 311.659,
+      "to": 314.0,
+      "sid": 145,
+      "location": 2,
+      "content": "不如把乳酸阈值练成你的秘密武器",
+      "music": 0.0
+    },
+    {
+      "from": 314.0,
+      "to": 316.32,
+      "sid": 146,
+      "location": 2,
+      "content": "这才是业余跑者最聪明的投资",
+      "music": 0.0
+    },
+    {
+      "from": 316.32,
+      "to": 320.03,
+      "sid": 147,
+      "location": 2,
+      "content": "当然成绩的提升离不开科学的周期化系统训练",
+      "music": 0.0
+    },
+    {
+      "from": 320.03,
+      "to": 322.29,
+      "sid": 148,
+      "location": 2,
+      "content": "T跑I跑在训练的不同阶段",
+      "music": 0.0
+    },
+    {
+      "from": 322.29,
+      "to": 324.06,
+      "sid": 149,
+      "location": 2,
+      "content": "都发挥着关键的作用",
+      "music": 0.0
+    },
+    {
+      "from": 324.06,
+      "to": 325.3,
+      "sid": 150,
+      "location": 2,
+      "content": "太过单一的训练",
+      "music": 0.0
+    },
+    {
+      "from": 325.3,
+      "to": 327.46,
+      "sid": 151,
+      "location": 2,
+      "content": "无法发挥出最佳的马拉松表现",
+      "music": 0.0
+    },
+    {
+      "from": 327.46,
+      "to": 328.9,
+      "sid": 152,
+      "location": 2,
+      "content": "如果你想提升体考",
+      "music": 0.0
+    },
+    {
+      "from": 328.9,
+      "to": 331.289,
+      "sid": 153,
+      "location": 2,
+      "content": "体测3km到全马的跑步成绩",
+      "music": 0.0
+    },
+    {
+      "from": 331.289,
+      "to": 333.629,
+      "sid": 154,
+      "location": 2,
+      "content": "欢迎私信定制一对一的训练计划",
+      "music": 0.0
+    },
+    {
+      "from": 333.629,
+      "to": 335.289,
+      "sid": 155,
+      "location": 2,
+      "content": "科学训练帮你省时省力",
+      "music": 0.0
+    },
+    {
+      "from": 335.289,
+      "to": 336.009,
+      "sid": 156,
+      "location": 2,
+      "content": "无双PB",
+      "music": 0.0
+    },
+    {
+      "from": 336.009,
+      "to": 336.849,
+      "sid": 157,
+      "location": 2,
+      "content": "我是李荣毅",
+      "music": 0.0
+    },
+    {
+      "from": 336.849,
+      "to": 338.95,
+      "sid": 158,
+      "location": 2,
+      "content": "下期讲解跑者专项力量训练",
+      "music": 0.0
+    },
+    {
+      "from": 338.95,
+      "to": 340.31,
+      "sid": 159,
+      "location": 2,
+      "content": "祝你跑姿更帅",
+      "music": 0.0
+    },
+    {
+      "from": 340.31,
+      "to": 341.25,
+      "sid": 160,
+      "location": 2,
+      "content": "步幅更大",
+      "music": 0.0
+    },
+    {
+      "from": 341.25,
+      "to": 342.21,
+      "sid": 161,
+      "location": 2,
+      "content": "无伤进步",
+      "music": 0.0
+    },
+    {
+      "from": 342.21,
+      "to": 343.6,
+      "sid": 162,
+      "location": 2,
+      "content": "下期再见",
+      "music": 0.0
+    }
+  ]
+}

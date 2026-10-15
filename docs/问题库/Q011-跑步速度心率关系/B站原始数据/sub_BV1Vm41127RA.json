@@ -1,0 +1,4868 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "v1.6.0.4",
+  "body": [
+    {
+      "from": 0.0,
+      "to": 1.68,
+      "sid": 1,
+      "location": 2,
+      "content": "2023年桂林马拉松",
+      "music": 0.0
+    },
+    {
+      "from": 1.68,
+      "to": 4.71,
+      "sid": 2,
+      "location": 2,
+      "content": "一名69岁的跑者在比赛中心脏骤停",
+      "music": 0.0
+    },
+    {
+      "from": 4.71,
+      "to": 5.52,
+      "sid": 3,
+      "location": 2,
+      "content": "不幸离世",
+      "music": 0.0
+    },
+    {
+      "from": 5.52,
+      "to": 6.24,
+      "sid": 4,
+      "location": 2,
+      "content": "2022年",
+      "music": 0.0
+    },
+    {
+      "from": 6.24,
+      "to": 7.34,
+      "sid": 5,
+      "location": 2,
+      "content": "华为高管丁云",
+      "music": 0.0
+    },
+    {
+      "from": 7.34,
+      "to": 9.8,
+      "sid": 6,
+      "location": 2,
+      "content": "在和朋友完成28km的跑步训练后",
+      "music": 0.0
+    },
+    {
+      "from": 9.8,
+      "to": 11.48,
+      "sid": 7,
+      "location": 2,
+      "content": "因心脏问题不幸离世",
+      "music": 0.0
+    },
+    {
+      "from": 11.48,
+      "to": 12.32,
+      "sid": 8,
+      "location": 2,
+      "content": "2020年",
+      "music": 0.0
+    },
+    {
+      "from": 12.32,
+      "to": 14.48,
+      "sid": 9,
+      "location": 2,
+      "content": "知名马拉松赛道摄影师一米阳光",
+      "music": 0.0
+    },
+    {
+      "from": 14.48,
+      "to": 17.08,
+      "sid": 10,
+      "location": 2,
+      "content": "在晨跑时突发心梗不幸离世",
+      "music": 0.0
+    },
+    {
+      "from": 17.08,
+      "to": 18.49,
+      "sid": 11,
+      "location": 2,
+      "content": "其实除了跑步以外",
+      "music": 0.0
+    },
+    {
+      "from": 18.49,
+      "to": 20.26,
+      "sid": 12,
+      "location": 2,
+      "content": "因其他运动项目所引发",
+      "music": 0.0
+    },
+    {
+      "from": 20.26,
+      "to": 22.3,
+      "sid": 13,
+      "location": 2,
+      "content": "心脏问题的案例也有很多",
+      "music": 0.0
+    },
+    {
+      "from": 22.3,
+      "to": 24.1,
+      "sid": 14,
+      "location": 2,
+      "content": "比如詹姆斯的大儿子布朗尼",
+      "music": 0.0
+    },
+    {
+      "from": 24.1,
+      "to": 25.84,
+      "sid": 15,
+      "location": 2,
+      "content": "在球场训练时突然倒地",
+      "music": 0.0
+    },
+    {
+      "from": 25.84,
+      "to": 26.58,
+      "sid": 16,
+      "location": 2,
+      "content": "心脏骤停",
+      "music": 0.0
+    },
+    {
+      "from": 26.58,
+      "to": 28.98,
+      "sid": 17,
+      "location": 2,
+      "content": "但好在经过医护人员的及时救治",
+      "music": 0.0
+    },
+    {
+      "from": 28.98,
+      "to": 30.54,
+      "sid": 18,
+      "location": 2,
+      "content": "他脱离了生命危险",
+      "music": 0.0
+    },
+    {
+      "from": 30.54,
+      "to": 33.7,
+      "sid": 19,
+      "location": 2,
+      "content": "如今布朗尼也要把他的天赋带到NBA了",
+      "music": 0.0
+    },
+    {
+      "from": 33.7,
+      "to": 34.48,
+      "sid": 20,
+      "location": 2,
+      "content": "在运动时",
+      "music": 0.0
+    },
+    {
+      "from": 34.48,
+      "to": 36.82,
+      "sid": 21,
+      "location": 2,
+      "content": "我们的心脏究竟是如何工作的",
+      "music": 0.0
+    },
+    {
+      "from": 36.82,
+      "to": 38.98,
+      "sid": 22,
+      "location": 2,
+      "content": "我们常讲的心率代表的是什么",
+      "music": 0.0
+    },
+    {
+      "from": 38.98,
+      "to": 42.02,
+      "sid": 23,
+      "location": 2,
+      "content": "我们又该如何利用心理来指导我们的运动呢",
+      "music": 0.0
+    },
+    {
+      "from": 42.02,
+      "to": 43.46,
+      "sid": 24,
+      "location": 2,
+      "content": "各位这里是奇葩说",
+      "music": 0.0
+    },
+    {
+      "from": 43.46,
+      "to": 45.11,
+      "sid": 25,
+      "location": 2,
+      "content": "我是不懂心率的房老板",
+      "music": 0.0
+    },
+    {
+      "from": 45.11,
+      "to": 45.74,
+      "sid": 26,
+      "location": 2,
+      "content": "本期视频",
+      "music": 0.0
+    },
+    {
+      "from": 45.74,
+      "to": 49.8,
+      "sid": 27,
+      "location": 2,
+      "content": "我们就一起来聊聊关于运动心率的那点事儿",
+      "music": 0.0
+    },
+    {
+      "from": 50.96,
+      "to": 53.62,
+      "sid": 28,
+      "location": 2,
+      "content": "心脏我们人体中最重要的器官之一",
+      "music": 0.0
+    },
+    {
+      "from": 53.62,
+      "to": 57.04,
+      "sid": 29,
+      "location": 2,
+      "content": "它是由左右心房和左右心室所共同组成的",
+      "music": 0.0
+    },
+    {
+      "from": 57.04,
+      "to": 58.9,
+      "sid": 30,
+      "location": 2,
+      "content": "当然关于这些房啊和市啊",
+      "music": 0.0
+    },
+    {
+      "from": 58.9,
+      "to": 59.98,
+      "sid": 31,
+      "location": 2,
+      "content": "具体是如何工作的",
+      "music": 0.0
+    },
+    {
+      "from": 59.98,
+      "to": 62.92,
+      "sid": 32,
+      "location": 2,
+      "content": "它背后其实是有一套非常复杂的流程和原理啊",
+      "music": 0.0
+    },
+    {
+      "from": 62.92,
+      "to": 64.81,
+      "sid": 33,
+      "location": 2,
+      "content": "这不是我们本期视频的重点",
+      "music": 0.0
+    },
+    {
+      "from": 64.81,
+      "to": 67.06,
+      "sid": 34,
+      "location": 2,
+      "content": "我们其实只要知道心脏的作用即可",
+      "music": 0.0
+    },
+    {
+      "from": 67.06,
+      "to": 67.72,
+      "sid": 35,
+      "location": 2,
+      "content": "心脏的作用啊",
+      "music": 0.0
+    },
+    {
+      "from": 67.72,
+      "to": 69.68,
+      "sid": 36,
+      "location": 2,
+      "content": "简单来说它就好像水泵一样",
+      "music": 0.0
+    },
+    {
+      "from": 69.68,
+      "to": 71.78,
+      "sid": 37,
+      "location": 2,
+      "content": "是为血液流动提供动力的",
+      "music": 0.0
+    },
+    {
+      "from": 71.78,
+      "to": 74.52,
+      "sid": 38,
+      "location": 2,
+      "content": "可以将血液输送到身体的各个组织与器官",
+      "music": 0.0
+    },
+    {
+      "from": 74.52,
+      "to": 77.52,
+      "sid": 39,
+      "location": 2,
+      "content": "为我们的组织和器官提供氧气及其他营养物质",
+      "music": 0.0
+    },
+    {
+      "from": 77.52,
+      "to": 78.9,
+      "sid": 40,
+      "location": 2,
+      "content": "来维持我们的生命",
+      "music": 0.0
+    },
+    {
+      "from": 78.9,
+      "to": 80.5,
+      "sid": 41,
+      "location": 2,
+      "content": "那它是如何做到的呢",
+      "music": 0.0
+    },
+    {
+      "from": 80.5,
+      "to": 83.41,
+      "sid": 42,
+      "location": 2,
+      "content": "其实啊就是靠着有规律的收缩与舒张",
+      "music": 0.0
+    },
+    {
+      "from": 83.41,
+      "to": 85.53,
+      "sid": 43,
+      "location": 2,
+      "content": "也就是我们所谓的心跳啊",
+      "music": 0.0
+    },
+    {
+      "from": 85.53,
+      "to": 88.53,
+      "sid": 44,
+      "location": 2,
+      "content": "心脏每跳动一次就会蹦出一定量的血液",
+      "music": 0.0
+    },
+    {
+      "from": 88.53,
+      "to": 90.33,
+      "sid": 45,
+      "location": 2,
+      "content": "所以心脏一旦不跳动了",
+      "music": 0.0
+    },
+    {
+      "from": 90.33,
+      "to": 91.84,
+      "sid": 46,
+      "location": 2,
+      "content": "那血液也就不会流动了",
+      "music": 0.0
+    },
+    {
+      "from": 91.84,
+      "to": 93.94,
+      "sid": 47,
+      "location": 2,
+      "content": "虽然我们的生命就要走向终点了",
+      "music": 0.0
+    },
+    {
+      "from": 93.94,
+      "to": 98.259,
+      "sid": 48,
+      "location": 2,
+      "content": "而心脏在一分钟内所跳动的次数就叫做心率",
+      "music": 0.0
+    },
+    {
+      "from": 98.259,
+      "to": 100.239,
+      "sid": 49,
+      "location": 2,
+      "content": "同时根据医学研究表明啊",
+      "music": 0.0
+    },
+    {
+      "from": 100.239,
+      "to": 102.939,
+      "sid": 50,
+      "location": 2,
+      "content": "我们正常人的心率范围在60~100次",
+      "music": 0.0
+    },
+    {
+      "from": 102.939,
+      "to": 103.58,
+      "sid": 51,
+      "location": 2,
+      "content": "每分钟啊",
+      "music": 0.0
+    },
+    {
+      "from": 103.58,
+      "to": 104.06,
+      "sid": 52,
+      "location": 2,
+      "content": "过高",
+      "music": 0.0
+    },
+    {
+      "from": 104.06,
+      "to": 106.46,
+      "sid": 53,
+      "location": 2,
+      "content": "比如说160次每分钟或者过低",
+      "music": 0.0
+    },
+    {
+      "from": 106.46,
+      "to": 108.08,
+      "sid": 54,
+      "location": 2,
+      "content": "比如45次每分钟啊",
+      "music": 0.0
+    },
+    {
+      "from": 108.08,
+      "to": 110.92,
+      "sid": 55,
+      "location": 2,
+      "content": "就代表着我们的心脏可能出现了问题",
+      "music": 0.0
+    },
+    {
+      "from": 110.92,
+      "to": 113.32,
+      "sid": 56,
+      "location": 2,
+      "content": "不过在这里呢各位要注意两点",
+      "music": 0.0
+    },
+    {
+      "from": 113.32,
+      "to": 113.65,
+      "sid": 57,
+      "location": 2,
+      "content": "一",
+      "music": 0.0
+    },
+    {
+      "from": 113.65,
+      "to": 116.36,
+      "sid": 58,
+      "location": 2,
+      "content": "上面所说的心率呢指的是我们我们的安静心率",
+      "music": 0.0
+    },
+    {
+      "from": 116.36,
+      "to": 117.62,
+      "sid": 59,
+      "location": 2,
+      "content": "或者叫做静息心率",
+      "music": 0.0
+    },
+    {
+      "from": 117.62,
+      "to": 119.24,
+      "sid": 60,
+      "location": 2,
+      "content": "也就是当下你什么都不做",
+      "music": 0.0
+    },
+    {
+      "from": 119.24,
+      "to": 120.38,
+      "sid": 61,
+      "location": 2,
+      "content": "在安静状态下",
+      "music": 0.0
+    },
+    {
+      "from": 120.38,
+      "to": 122.6,
+      "sid": 62,
+      "location": 2,
+      "content": "甚至是在早晨刚刚起床的情况下",
+      "music": 0.0
+    },
+    {
+      "from": 122.6,
+      "to": 124.32,
+      "sid": 63,
+      "location": 2,
+      "content": "所测量的心率二",
+      "music": 0.0
+    },
+    {
+      "from": 124.32,
+      "to": 126.99,
+      "sid": 64,
+      "location": 2,
+      "content": "这个60~140每分钟的心率范围很大",
+      "music": 0.0
+    },
+    {
+      "from": 126.99,
+      "to": 128.61,
+      "sid": 65,
+      "location": 2,
+      "content": "所以我们必须要考虑到个体差异",
+      "music": 0.0
+    },
+    {
+      "from": 128.61,
+      "to": 129.99,
+      "sid": 66,
+      "location": 2,
+      "content": "比如经常运动的人",
+      "music": 0.0
+    },
+    {
+      "from": 129.99,
+      "to": 131.58,
+      "sid": 67,
+      "location": 2,
+      "content": "心率普遍就会很低啊",
+      "music": 0.0
+    },
+    {
+      "from": 131.58,
+      "to": 133.62,
+      "sid": 68,
+      "location": 2,
+      "content": "可能在五十四十甚至更低",
+      "music": 0.0
+    },
+    {
+      "from": 133.62,
+      "to": 135.12,
+      "sid": 69,
+      "location": 2,
+      "content": "这并不代表心脏有问题啊",
+      "music": 0.0
+    },
+    {
+      "from": 135.12,
+      "to": 137.1,
+      "sid": 70,
+      "location": 2,
+      "content": "反而代表的是心肺功能更强大",
+      "music": 0.0
+    },
+    {
+      "from": 137.1,
+      "to": 138.48,
+      "sid": 71,
+      "location": 2,
+      "content": "你的心脏在单位时间内",
+      "music": 0.0
+    },
+    {
+      "from": 138.48,
+      "to": 140.81,
+      "sid": 72,
+      "location": 2,
+      "content": "的泵血量会比普通人更多",
+      "music": 0.0
+    },
+    {
+      "from": 140.81,
+      "to": 142.61,
+      "sid": 73,
+      "location": 2,
+      "content": "那么在我们参与运动时呢",
+      "music": 0.0
+    },
+    {
+      "from": 142.61,
+      "to": 144.11,
+      "sid": 74,
+      "location": 2,
+      "content": "随着运动负荷的加剧啊",
+      "music": 0.0
+    },
+    {
+      "from": 144.11,
+      "to": 147.04,
+      "sid": 75,
+      "location": 2,
+      "content": "我们的体感上最直观的感受就是呼吸会加快",
+      "music": 0.0
+    },
+    {
+      "from": 147.04,
+      "to": 149.92,
+      "sid": 76,
+      "location": 2,
+      "content": "我们需要更多的氧气来维持我们的运动了",
+      "music": 0.0
+    },
+    {
+      "from": 149.92,
+      "to": 152.32,
+      "sid": 77,
+      "location": 2,
+      "content": "也就是说我们的身体需要更多的血液了",
+      "music": 0.0
+    },
+    {
+      "from": 152.32,
+      "to": 154.24,
+      "sid": 78,
+      "location": 2,
+      "content": "而作为我们身体的泵血机器啊",
+      "music": 0.0
+    },
+    {
+      "from": 154.24,
+      "to": 155.92,
+      "sid": 79,
+      "location": 2,
+      "content": "心脏这个时候呢就接收到了",
+      "music": 0.0
+    },
+    {
+      "from": 155.92,
+      "to": 157.15,
+      "sid": 80,
+      "location": 2,
+      "content": "需要更多血液的指令",
+      "music": 0.0
+    },
+    {
+      "from": 157.15,
+      "to": 159.7,
+      "sid": 81,
+      "location": 2,
+      "content": "所以呢他就会加速收缩与舒张",
+      "music": 0.0
+    },
+    {
+      "from": 159.7,
+      "to": 161.14,
+      "sid": 82,
+      "location": 2,
+      "content": "从而就可以在单位时间内",
+      "music": 0.0
+    },
+    {
+      "from": 161.14,
+      "to": 163.18,
+      "sid": 83,
+      "location": 2,
+      "content": "为我们输送更多的血液与氧气",
+      "music": 0.0
+    },
+    {
+      "from": 163.18,
+      "to": 164.2,
+      "sid": 84,
+      "location": 2,
+      "content": "来维持我们的运动",
+      "music": 0.0
+    },
+    {
+      "from": 164.2,
+      "to": 166.96,
+      "sid": 85,
+      "location": 2,
+      "content": "这就是为什么我们在运动时心跳会加快",
+      "music": 0.0
+    },
+    {
+      "from": 166.96,
+      "to": 169.72,
+      "sid": 86,
+      "location": 2,
+      "content": "心率会上升的原因",
+      "music": 0.0
+    },
+    {
+      "from": 171.86,
+      "to": 174.58,
+      "sid": 87,
+      "location": 2,
+      "content": "静息心率呢就是人在安静状态下的心率",
+      "music": 0.0
+    },
+    {
+      "from": 174.58,
+      "to": 176.66,
+      "sid": 88,
+      "location": 2,
+      "content": "测量方法呢就是早晨起床后啊",
+      "music": 0.0
+    },
+    {
+      "from": 176.66,
+      "to": 177.56,
+      "sid": 89,
+      "location": 2,
+      "content": "不要躺着",
+      "music": 0.0
+    },
+    {
+      "from": 177.56,
+      "to": 179.3,
+      "sid": 90,
+      "location": 2,
+      "content": "最好是坐着或者站着的状态下",
+      "music": 0.0
+    },
+    {
+      "from": 179.3,
+      "to": 180.5,
+      "sid": 91,
+      "location": 2,
+      "content": "测量的心率数值啊",
+      "music": 0.0
+    },
+    {
+      "from": 180.5,
+      "to": 182.51,
+      "sid": 92,
+      "location": 2,
+      "content": "就是我们的静息心率",
+      "music": 0.0
+    },
+    {
+      "from": 182.51,
+      "to": 184.16,
+      "sid": 93,
+      "location": 2,
+      "content": "如果你想保险起见",
+      "music": 0.0
+    },
+    {
+      "from": 184.16,
+      "to": 185.33,
+      "sid": 94,
+      "location": 2,
+      "content": "可以多测量几日啊",
+      "music": 0.0
+    },
+    {
+      "from": 185.33,
+      "to": 186.65,
+      "sid": 95,
+      "location": 2,
+      "content": "最后再一平均就行",
+      "music": 0.0
+    },
+    {
+      "from": 186.65,
+      "to": 187.94,
+      "sid": 96,
+      "location": 2,
+      "content": "毕竟我们的静心心率",
+      "music": 0.0
+    },
+    {
+      "from": 187.94,
+      "to": 189.59,
+      "sid": 97,
+      "location": 2,
+      "content": "也是会受到我们的身体状态",
+      "music": 0.0
+    },
+    {
+      "from": 189.59,
+      "to": 190.97,
+      "sid": 98,
+      "location": 2,
+      "content": "或者外在环境的影响",
+      "music": 0.0
+    },
+    {
+      "from": 190.97,
+      "to": 192.4,
+      "sid": 99,
+      "location": 2,
+      "content": "比如说算你失眠了",
+      "music": 0.0
+    },
+    {
+      "from": 192.4,
+      "to": 192.94,
+      "sid": 100,
+      "location": 2,
+      "content": "熬夜了",
+      "music": 0.0
+    },
+    {
+      "from": 192.94,
+      "to": 193.54,
+      "sid": 101,
+      "location": 2,
+      "content": "生病了",
+      "music": 0.0
+    },
+    {
+      "from": 193.54,
+      "to": 195.04,
+      "sid": 102,
+      "location": 2,
+      "content": "那么第二天你测量的心率啊",
+      "music": 0.0
+    },
+    {
+      "from": 195.04,
+      "to": 197.42,
+      "sid": 103,
+      "location": 2,
+      "content": "肯定是不能真实反映你的静息心率的",
+      "music": 0.0
+    },
+    {
+      "from": 197.42,
+      "to": 199.22,
+      "sid": 104,
+      "location": 2,
+      "content": "那么我们普通人的健身训练呢",
+      "music": 0.0
+    },
+    {
+      "from": 199.22,
+      "to": 201.47,
+      "sid": 105,
+      "location": 2,
+      "content": "就是刚才讲到的60~100次每分钟",
+      "music": 0.0
+    },
+    {
+      "from": 201.47,
+      "to": 202.82,
+      "sid": 106,
+      "location": 2,
+      "content": "但是常年运动",
+      "music": 0.0
+    },
+    {
+      "from": 202.82,
+      "to": 205.44,
+      "sid": 107,
+      "location": 2,
+      "content": "尤其是专业运动员的精心率普遍会很低啊",
+      "music": 0.0
+    },
+    {
+      "from": 205.44,
+      "to": 208.38,
+      "sid": 108,
+      "location": 2,
+      "content": "比如曾经就有媒体报道过越野赛场的K天王",
+      "music": 0.0
+    },
+    {
+      "from": 208.38,
+      "to": 210.87,
+      "sid": 109,
+      "location": 2,
+      "content": "他的静心心率是34次每分钟",
+      "music": 0.0
+    },
+    {
+      "from": 210.87,
+      "to": 212.1,
+      "sid": 110,
+      "location": 2,
+      "content": "那这个心肺功能",
+      "music": 0.0
+    },
+    {
+      "from": 212.1,
+      "to": 214.04,
+      "sid": 111,
+      "location": 2,
+      "content": "确实不是我们一般人可以企及的",
+      "music": 0.0
+    },
+    {
+      "from": 214.04,
+      "to": 214.88,
+      "sid": 112,
+      "location": 2,
+      "content": "那讲到这儿",
+      "music": 0.0
+    },
+    {
+      "from": 214.88,
+      "to": 216.32,
+      "sid": 113,
+      "location": 2,
+      "content": "我们先荡开一笔啊",
+      "music": 0.0
+    },
+    {
+      "from": 216.32,
+      "to": 218.58,
+      "sid": 114,
+      "location": 2,
+      "content": "我估计啊这个时候呢肯定会有人要问了",
+      "music": 0.0
+    },
+    {
+      "from": 218.58,
+      "to": 219.18,
+      "sid": 115,
+      "location": 2,
+      "content": "哎房老板",
+      "music": 0.0
+    },
+    {
+      "from": 219.18,
+      "to": 221.82,
+      "sid": 116,
+      "location": 2,
+      "content": "我要用什么工具去测量我的心率呢",
+      "music": 0.0
+    },
+    {
+      "from": 221.82,
+      "to": 222.78,
+      "sid": 117,
+      "location": 2,
+      "content": "那讲到这个问题呢",
+      "music": 0.0
+    },
+    {
+      "from": 222.78,
+      "to": 223.94,
+      "sid": 118,
+      "location": 2,
+      "content": "那我个人都会觉得",
+      "music": 0.0
+    },
+    {
+      "from": 223.94,
+      "to": 225.38,
+      "sid": 119,
+      "location": 2,
+      "content": "如果你有运动的习惯",
+      "music": 0.0
+    },
+    {
+      "from": 225.38,
+      "to": 227.6,
+      "sid": 120,
+      "location": 2,
+      "content": "或者说你想要去实时监测自己的训练",
+      "music": 0.0
+    },
+    {
+      "from": 227.6,
+      "to": 229.46,
+      "sid": 121,
+      "location": 2,
+      "content": "你最好可以有一块运动手表",
+      "music": 0.0
+    },
+    {
+      "from": 229.46,
+      "to": 231.68,
+      "sid": 122,
+      "location": 2,
+      "content": "或者说是带有心率监测功能的手表",
+      "music": 0.0
+    },
+    {
+      "from": 231.68,
+      "to": 233.5,
+      "sid": 123,
+      "location": 2,
+      "content": "手环及其他可穿戴设备",
+      "music": 0.0
+    },
+    {
+      "from": 233.5,
+      "to": 233.8,
+      "sid": 124,
+      "location": 2,
+      "content": "注意啊",
+      "music": 0.0
+    },
+    {
+      "from": 233.8,
+      "to": 235.42,
+      "sid": 125,
+      "location": 2,
+      "content": "各位我这里不是要猝不及防",
+      "music": 0.0
+    },
+    {
+      "from": 235.42,
+      "to": 236.5,
+      "sid": 126,
+      "location": 2,
+      "content": "或者说图穷匕现的",
+      "music": 0.0
+    },
+    {
+      "from": 236.5,
+      "to": 237.07,
+      "sid": 127,
+      "location": 2,
+      "content": "不是的",
+      "music": 0.0
+    },
+    {
+      "from": 237.07,
+      "to": 239.66,
+      "sid": 128,
+      "location": 2,
+      "content": "其实可以满足我们上面所说的手表有很多",
+      "music": 0.0
+    },
+    {
+      "from": 239.66,
+      "to": 240.92,
+      "sid": 129,
+      "location": 2,
+      "content": "比如说传统的那种手表",
+      "music": 0.0
+    },
+    {
+      "from": 240.92,
+      "to": 241.7,
+      "sid": 130,
+      "location": 2,
+      "content": "佳明松拓",
+      "music": 0.0
+    },
+    {
+      "from": 241.7,
+      "to": 244.04,
+      "sid": 131,
+      "location": 2,
+      "content": "或者我们国产的高驰以及遥领先",
+      "music": 0.0
+    },
+    {
+      "from": 244.04,
+      "to": 244.94,
+      "sid": 132,
+      "location": 2,
+      "content": "包括苹果",
+      "music": 0.0
+    },
+    {
+      "from": 244.94,
+      "to": 247.52,
+      "sid": 133,
+      "location": 2,
+      "content": "小米这种可能并不是强运动属性的手表",
+      "music": 0.0
+    },
+    {
+      "from": 247.52,
+      "to": 249.709,
+      "sid": 134,
+      "location": 2,
+      "content": "也都可以监测我们的大致心率",
+      "music": 0.0
+    },
+    {
+      "from": 249.709,
+      "to": 250.549,
+      "sid": 135,
+      "location": 2,
+      "content": "大致心率",
+      "music": 0.0
+    },
+    {
+      "from": 250.549,
+      "to": 252.529,
+      "sid": 136,
+      "location": 2,
+      "content": "大家可以看到这里所使用的词汇啊",
+      "music": 0.0
+    },
+    {
+      "from": 252.529,
+      "to": 253.6,
+      "sid": 137,
+      "location": 2,
+      "content": "并不是准确虚拟",
+      "music": 0.0
+    },
+    {
+      "from": 253.6,
+      "to": 257.08,
+      "sid": 138,
+      "location": 2,
+      "content": "是因为啊这类手表采用的都是光电投射法",
+      "music": 0.0
+    },
+    {
+      "from": 257.08,
+      "to": 258.31,
+      "sid": 139,
+      "location": 2,
+      "content": "来去检测我们的心率",
+      "music": 0.0
+    },
+    {
+      "from": 258.31,
+      "to": 260.24,
+      "sid": 140,
+      "location": 2,
+      "content": "就是后面发出这个小绿光啊",
+      "music": 0.0
+    },
+    {
+      "from": 260.24,
+      "to": 262.34,
+      "sid": 141,
+      "location": 2,
+      "content": "当这个绿光投射到我们的皮肤后",
+      "music": 0.0
+    },
+    {
+      "from": 262.34,
+      "to": 265.4,
+      "sid": 142,
+      "location": 2,
+      "content": "经过反射光又会回到手表的光明接收器",
+      "music": 0.0
+    },
+    {
+      "from": 265.4,
+      "to": 267.56,
+      "sid": 143,
+      "location": 2,
+      "content": "同时又因为我们的血液中的血红蛋白",
+      "music": 0.0
+    },
+    {
+      "from": 267.56,
+      "to": 268.7,
+      "sid": 144,
+      "location": 2,
+      "content": "是有吸光性的",
+      "music": 0.0
+    },
+    {
+      "from": 268.7,
+      "to": 269.72,
+      "sid": 145,
+      "location": 2,
+      "content": "所以手表的检测器",
+      "music": 0.0
+    },
+    {
+      "from": 269.72,
+      "to": 270.89,
+      "sid": 146,
+      "location": 2,
+      "content": "这个时候就可以检测出",
+      "music": 0.0
+    },
+    {
+      "from": 270.89,
+      "to": 273.58,
+      "sid": 147,
+      "location": 2,
+      "content": "它发出的光和接收的光不一样了",
+      "music": 0.0
+    },
+    {
+      "from": 273.58,
+      "to": 274.63,
+      "sid": 148,
+      "location": 2,
+      "content": "而当我们运动时",
+      "music": 0.0
+    },
+    {
+      "from": 274.63,
+      "to": 276.94,
+      "sid": 149,
+      "location": 2,
+      "content": "身体需要更多的氧气和血液啊",
+      "music": 0.0
+    },
+    {
+      "from": 276.94,
+      "to": 278.62,
+      "sid": 150,
+      "location": 2,
+      "content": "心脏就会加快运动",
+      "music": 0.0
+    },
+    {
+      "from": 278.62,
+      "to": 279.42,
+      "sid": 151,
+      "location": 2,
+      "content": "蹦出更多的",
+      "music": 0.0
+    },
+    {
+      "from": 279.42,
+      "to": 281.52,
+      "sid": 152,
+      "location": 2,
+      "content": "而这个时候血液所吸收的手表",
+      "music": 0.0
+    },
+    {
+      "from": 281.52,
+      "to": 284.34,
+      "sid": 153,
+      "location": 2,
+      "content": "发出来的光也会成一个波动性的变化",
+      "music": 0.0
+    },
+    {
+      "from": 284.34,
+      "to": 286.14,
+      "sid": 154,
+      "location": 2,
+      "content": "而这个变化经过一定的计算",
+      "music": 0.0
+    },
+    {
+      "from": 286.14,
+      "to": 288.5,
+      "sid": 155,
+      "location": 2,
+      "content": "就可以转化成心率啊",
+      "music": 0.0
+    },
+    {
+      "from": 288.5,
+      "to": 289.4,
+      "sid": 156,
+      "location": 2,
+      "content": "或许你没有听懂啊",
+      "music": 0.0
+    },
+    {
+      "from": 289.4,
+      "to": 290.45,
+      "sid": 157,
+      "location": 2,
+      "content": "但这不重要啊",
+      "music": 0.0
+    },
+    {
+      "from": 290.45,
+      "to": 292.64,
+      "sid": 158,
+      "location": 2,
+      "content": "因为通过刚才所讲的光电心率的原理",
+      "music": 0.0
+    },
+    {
+      "from": 292.64,
+      "to": 293.6,
+      "sid": 159,
+      "location": 2,
+      "content": "我们也能发现",
+      "music": 0.0
+    },
+    {
+      "from": 293.6,
+      "to": 296.54,
+      "sid": 160,
+      "location": 2,
+      "content": "这种测量方式是会受到一些外在因素的影响",
+      "music": 0.0
+    },
+    {
+      "from": 296.54,
+      "to": 297.92,
+      "sid": 161,
+      "location": 2,
+      "content": "比如说你手上的汗水",
+      "music": 0.0
+    },
+    {
+      "from": 297.92,
+      "to": 298.82,
+      "sid": 162,
+      "location": 2,
+      "content": "周围的光线",
+      "music": 0.0
+    },
+    {
+      "from": 298.82,
+      "to": 301.07,
+      "sid": 163,
+      "location": 2,
+      "content": "包括你佩戴的位置和松紧等等",
+      "music": 0.0
+    },
+    {
+      "from": 301.07,
+      "to": 302.74,
+      "sid": 164,
+      "location": 2,
+      "content": "都会影响我们测量的数据",
+      "music": 0.0
+    },
+    {
+      "from": 302.74,
+      "to": 306.04,
+      "sid": 165,
+      "location": 2,
+      "content": "所以啊他与我们真实的心率多少会有些误差",
+      "music": 0.0
+    },
+    {
+      "from": 306.04,
+      "to": 307.18,
+      "sid": 166,
+      "location": 2,
+      "content": "不过话说回来",
+      "music": 0.0
+    },
+    {
+      "from": 307.18,
+      "to": 307.72,
+      "sid": 167,
+      "location": 2,
+      "content": "现如今呢",
+      "music": 0.0
+    },
+    {
+      "from": 307.72,
+      "to": 310.0,
+      "sid": 168,
+      "location": 2,
+      "content": "这些我们所熟知的大品牌的运动手表啊",
+      "music": 0.0
+    },
+    {
+      "from": 310.0,
+      "to": 310.9,
+      "sid": 169,
+      "location": 2,
+      "content": "假名松拓高驰",
+      "music": 0.0
+    },
+    {
+      "from": 310.9,
+      "to": 312.62,
+      "sid": 170,
+      "location": 2,
+      "content": "包括苹果我都有用过",
+      "music": 0.0
+    },
+    {
+      "from": 312.62,
+      "to": 314.66,
+      "sid": 171,
+      "location": 2,
+      "content": "他们呢对于我们的心率的测量",
+      "music": 0.0
+    },
+    {
+      "from": 314.66,
+      "to": 315.74,
+      "sid": 172,
+      "location": 2,
+      "content": "基本上问题都不大",
+      "music": 0.0
+    },
+    {
+      "from": 315.74,
+      "to": 318.74,
+      "sid": 173,
+      "location": 2,
+      "content": "包括我也和这条polar心率带做过对比啊",
+      "music": 0.0
+    },
+    {
+      "from": 318.74,
+      "to": 320.9,
+      "sid": 174,
+      "location": 2,
+      "content": "无论是在绝对数值还是在运动时",
+      "music": 0.0
+    },
+    {
+      "from": 320.9,
+      "to": 324.34,
+      "sid": 175,
+      "location": 2,
+      "content": "整个心率的变化幅度上基本上都是大差不差的",
+      "music": 0.0
+    },
+    {
+      "from": 324.34,
+      "to": 326.44,
+      "sid": 176,
+      "location": 2,
+      "content": "所以啊选择以上我提到这些品牌",
+      "music": 0.0
+    },
+    {
+      "from": 326.44,
+      "to": 327.34,
+      "sid": 177,
+      "location": 2,
+      "content": "都没有什么问题",
+      "music": 0.0
+    },
+    {
+      "from": 327.34,
+      "to": 328.96,
+      "sid": 178,
+      "location": 2,
+      "content": "那么测量心率的第二种工具呢",
+      "music": 0.0
+    },
+    {
+      "from": 328.96,
+      "to": 330.61,
+      "sid": 179,
+      "location": 2,
+      "content": "就是我刚才提到的心率带",
+      "music": 0.0
+    },
+    {
+      "from": 330.61,
+      "to": 332.02,
+      "sid": 180,
+      "location": 2,
+      "content": "心率带呢是大家公认的",
+      "music": 0.0
+    },
+    {
+      "from": 332.02,
+      "to": 334.74,
+      "sid": 181,
+      "location": 2,
+      "content": "在运动时对我们心率检测较为准确的装备啊",
+      "music": 0.0
+    },
+    {
+      "from": 334.74,
+      "to": 337.77,
+      "sid": 182,
+      "location": 2,
+      "content": "他的心率检测方法呢就是心电信号测量法",
+      "music": 0.0
+    },
+    {
+      "from": 337.77,
+      "to": 339.54,
+      "sid": 183,
+      "location": 2,
+      "content": "通过上面的电极片来测量",
+      "music": 0.0
+    },
+    {
+      "from": 339.54,
+      "to": 342.12,
+      "sid": 184,
+      "location": 2,
+      "content": "其实呢有些类似于我们医学上做心电图的那种",
+      "music": 0.0
+    },
+    {
+      "from": 342.12,
+      "to": 342.96,
+      "sid": 185,
+      "location": 2,
+      "content": "测量方法了",
+      "music": 0.0
+    },
+    {
+      "from": 342.96,
+      "to": 345.54,
+      "sid": 186,
+      "location": 2,
+      "content": "所以我们可以看到很多专业运动员在训练时",
+      "music": 0.0
+    },
+    {
+      "from": 345.54,
+      "to": 347.76,
+      "sid": 187,
+      "location": 2,
+      "content": "都会使用心率带来收集自己的心率啊",
+      "music": 0.0
+    },
+    {
+      "from": 347.76,
+      "to": 349.37,
+      "sid": 188,
+      "location": 2,
+      "content": "从而指导自己的训练",
+      "music": 0.0
+    },
+    {
+      "from": 349.37,
+      "to": 353.06,
+      "sid": 189,
+      "location": 2,
+      "content": "不过对于大众跑者以及大众运动爱好者来说",
+      "music": 0.0
+    },
+    {
+      "from": 353.06,
+      "to": 356.15,
+      "sid": 190,
+      "location": 2,
+      "content": "我个人是不太建议大家去买这种行李带的",
+      "music": 0.0
+    },
+    {
+      "from": 356.15,
+      "to": 358.64,
+      "sid": 191,
+      "location": 2,
+      "content": "一方面使用的舒适性是真的不高",
+      "music": 0.0
+    },
+    {
+      "from": 358.64,
+      "to": 361.16,
+      "sid": 192,
+      "location": 2,
+      "content": "那另一方面就是我刚才讲到的现金",
+      "music": 0.0
+    },
+    {
+      "from": 361.16,
+      "to": 363.5,
+      "sid": 193,
+      "location": 2,
+      "content": "很多运动手表都可以满足我们的需求",
+      "music": 0.0
+    },
+    {
+      "from": 363.5,
+      "to": 364.73,
+      "sid": 194,
+      "location": 2,
+      "content": "使用场景也会更广",
+      "music": 0.0
+    },
+    {
+      "from": 364.73,
+      "to": 366.64,
+      "sid": 195,
+      "location": 2,
+      "content": "最起码你还能看个时间啥的",
+      "music": 0.0
+    },
+    {
+      "from": 366.64,
+      "to": 367.66,
+      "sid": 196,
+      "location": 2,
+      "content": "这条带子啊",
+      "music": 0.0
+    },
+    {
+      "from": 367.66,
+      "to": 368.32,
+      "sid": 197,
+      "location": 2,
+      "content": "小1000元",
+      "music": 0.0
+    },
+    {
+      "from": 368.32,
+      "to": 369.4,
+      "sid": 198,
+      "location": 2,
+      "content": "你就只能测个心率",
+      "music": 0.0
+    },
+    {
+      "from": 369.4,
+      "to": 370.6,
+      "sid": 199,
+      "location": 2,
+      "content": "你又不是专业运动员",
+      "music": 0.0
+    },
+    {
+      "from": 370.6,
+      "to": 371.8,
+      "sid": 200,
+      "location": 2,
+      "content": "大可不必花这个钱",
+      "music": 0.0
+    },
+    {
+      "from": 371.8,
+      "to": 373.96,
+      "sid": 201,
+      "location": 2,
+      "content": "当然除了以上两种方法外呢",
+      "music": 0.0
+    },
+    {
+      "from": 373.96,
+      "to": 376.78,
+      "sid": 202,
+      "location": 2,
+      "content": "我们也可以使用最传统的方法把脉",
+      "music": 0.0
+    },
+    {
+      "from": 376.78,
+      "to": 378.52,
+      "sid": 203,
+      "location": 2,
+      "content": "那脖颈或者手腕都可以啊",
+      "music": 0.0
+    },
+    {
+      "from": 378.52,
+      "to": 381.1,
+      "sid": 204,
+      "location": 2,
+      "content": "不过呢我看到有些人说把脉脖颈会更准确",
+      "music": 0.0
+    },
+    {
+      "from": 381.1,
+      "to": 382.3,
+      "sid": 205,
+      "location": 2,
+      "content": "那这个我就不太清楚了",
+      "music": 0.0
+    },
+    {
+      "from": 382.3,
+      "to": 383.62,
+      "sid": 206,
+      "location": 2,
+      "content": "大家自行选择吧",
+      "music": 0.0
+    },
+    {
+      "from": 383.62,
+      "to": 385.33,
+      "sid": 207,
+      "location": 2,
+      "content": "OK再接回我刚才的话题",
+      "music": 0.0
+    },
+    {
+      "from": 385.33,
+      "to": 386.38,
+      "sid": 208,
+      "location": 2,
+      "content": "聊完了静心心理",
+      "music": 0.0
+    },
+    {
+      "from": 386.38,
+      "to": 388.15,
+      "sid": 209,
+      "location": 2,
+      "content": "接下来我们来看",
+      "music": 0.0
+    },
+    {
+      "from": 389.32,
+      "to": 391.74,
+      "sid": 210,
+      "location": 2,
+      "content": "最大心率呢就是在你进行高负荷运动",
+      "music": 0.0
+    },
+    {
+      "from": 391.74,
+      "to": 393.18,
+      "sid": 211,
+      "location": 2,
+      "content": "直到你完全力竭后",
+      "music": 0.0
+    },
+    {
+      "from": 393.18,
+      "to": 394.38,
+      "sid": 212,
+      "location": 2,
+      "content": "在整个运动过程中",
+      "music": 0.0
+    },
+    {
+      "from": 394.38,
+      "to": 397.15,
+      "sid": 213,
+      "location": 2,
+      "content": "你的心率出现的最大值",
+      "music": 0.0
+    },
+    {
+      "from": 397.61,
+      "to": 400.57,
+      "sid": 214,
+      "location": 2,
+      "content": "而这个最大心率只有我们来说是非常重要的",
+      "music": 0.0
+    },
+    {
+      "from": 400.57,
+      "to": 402.49,
+      "sid": 215,
+      "location": 2,
+      "content": "因为最大心率代表的就是我们的心脏",
+      "music": 0.0
+    },
+    {
+      "from": 402.49,
+      "to": 404.36,
+      "sid": 216,
+      "location": 2,
+      "content": "可能已经开始超负荷工作了",
+      "music": 0.0
+    },
+    {
+      "from": 404.36,
+      "to": 406.7,
+      "sid": 217,
+      "location": 2,
+      "content": "一旦你长时间把心率维持在最大心率",
+      "music": 0.0
+    },
+    {
+      "from": 406.7,
+      "to": 408.71,
+      "sid": 218,
+      "location": 2,
+      "content": "那或许心脏就会不堪重负",
+      "music": 0.0
+    },
+    {
+      "from": 408.71,
+      "to": 410.3,
+      "sid": 219,
+      "location": 2,
+      "content": "最严重的后果就是罢工",
+      "music": 0.0
+    },
+    {
+      "from": 410.3,
+      "to": 412.0,
+      "sid": 220,
+      "location": 2,
+      "content": "那这个最大心率要如何测量呢",
+      "music": 0.0
+    },
+    {
+      "from": 412.0,
+      "to": 413.38,
+      "sid": 221,
+      "location": 2,
+      "content": "可能大家都听到过一个方法",
+      "music": 0.0
+    },
+    {
+      "from": 413.38,
+      "to": 414.82,
+      "sid": 222,
+      "location": 2,
+      "content": "就是220减年龄啊",
+      "music": 0.0
+    },
+    {
+      "from": 414.82,
+      "to": 415.96,
+      "sid": 223,
+      "location": 2,
+      "content": "就是你的最大心率",
+      "music": 0.0
+    },
+    {
+      "from": 415.96,
+      "to": 417.16,
+      "sid": 224,
+      "location": 2,
+      "content": "比如说我今年35岁啊",
+      "music": 0.0
+    },
+    {
+      "from": 417.16,
+      "to": 419.98,
+      "sid": 225,
+      "location": 2,
+      "content": "那我的最大心率就是185次每分钟啊",
+      "music": 0.0
+    },
+    {
+      "from": 419.98,
+      "to": 422.26,
+      "sid": 226,
+      "location": 2,
+      "content": "那这个方法准确嘛肯定是不准确的",
+      "music": 0.0
+    },
+    {
+      "from": 422.26,
+      "to": 423.58,
+      "sid": 227,
+      "location": 2,
+      "content": "它只是一个大概值",
+      "music": 0.0
+    },
+    {
+      "from": 423.58,
+      "to": 424.86,
+      "sid": 228,
+      "location": 2,
+      "content": "完全没有考虑到个体差异",
+      "music": 0.0
+    },
+    {
+      "from": 424.86,
+      "to": 427.02,
+      "sid": 229,
+      "location": 2,
+      "content": "但是我看到很多人在说到这个方法时",
+      "music": 0.0
+    },
+    {
+      "from": 427.02,
+      "to": 427.92,
+      "sid": 230,
+      "location": 2,
+      "content": "都会嗤之以鼻",
+      "music": 0.0
+    },
+    {
+      "from": 427.92,
+      "to": 428.94,
+      "sid": 231,
+      "location": 2,
+      "content": "觉得在瞎胡闹",
+      "music": 0.0
+    },
+    {
+      "from": 428.94,
+      "to": 429.84,
+      "sid": 232,
+      "location": 2,
+      "content": "那恰恰相反",
+      "music": 0.0
+    },
+    {
+      "from": 429.84,
+      "to": 430.44,
+      "sid": 233,
+      "location": 2,
+      "content": "我个人呢",
+      "music": 0.0
+    },
+    {
+      "from": 430.44,
+      "to": 432.62,
+      "sid": 234,
+      "location": 2,
+      "content": "虽说也知道这个数值并非是完全准确的",
+      "music": 0.0
+    },
+    {
+      "from": 432.62,
+      "to": 434.6,
+      "sid": 235,
+      "location": 2,
+      "content": "但是对于广大的大众跑者啊",
+      "music": 0.0
+    },
+    {
+      "from": 434.6,
+      "to": 435.2,
+      "sid": 236,
+      "location": 2,
+      "content": "各位注意啊",
+      "music": 0.0
+    },
+    {
+      "from": 435.2,
+      "to": 436.86,
+      "sid": 237,
+      "location": 2,
+      "content": "我的限定词别上来就喷我啊",
+      "music": 0.0
+    },
+    {
+      "from": 436.86,
+      "to": 439.32,
+      "sid": 238,
+      "location": 2,
+      "content": "就是只把跑步或者运动当做休闲",
+      "music": 0.0
+    },
+    {
+      "from": 439.32,
+      "to": 440.58,
+      "sid": 239,
+      "location": 2,
+      "content": "而不是专业的朋友们",
+      "music": 0.0
+    },
+    {
+      "from": 440.58,
+      "to": 443.7,
+      "sid": 240,
+      "location": 2,
+      "content": "其实你们按照这个方法来测量最大心率就可以",
+      "music": 0.0
+    },
+    {
+      "from": 443.7,
+      "to": 444.3,
+      "sid": 241,
+      "location": 2,
+      "content": "为什么呢",
+      "music": 0.0
+    },
+    {
+      "from": 444.3,
+      "to": 445.61,
+      "sid": 242,
+      "location": 2,
+      "content": "一我们常讲啊",
+      "music": 0.0
+    },
+    {
+      "from": 445.61,
+      "to": 447.05,
+      "sid": 243,
+      "location": 2,
+      "content": "用心理来指导我们的运动",
+      "music": 0.0
+    },
+    {
+      "from": 447.05,
+      "to": 448.25,
+      "sid": 244,
+      "location": 2,
+      "content": "这里我们所要的心理呢",
+      "music": 0.0
+    },
+    {
+      "from": 448.25,
+      "to": 449.93,
+      "sid": 245,
+      "location": 2,
+      "content": "其实并不是一个绝对数值啊",
+      "music": 0.0
+    },
+    {
+      "from": 449.93,
+      "to": 451.14,
+      "sid": 246,
+      "location": 2,
+      "content": "它更多是一个区间",
+      "music": 0.0
+    },
+    {
+      "from": 451.14,
+      "to": 453.12,
+      "sid": 247,
+      "location": 2,
+      "content": "所以220减年龄得来的这个数字呢",
+      "music": 0.0
+    },
+    {
+      "from": 453.12,
+      "to": 455.67,
+      "sid": 248,
+      "location": 2,
+      "content": "也并不是说我们在运动时就要严格去遵守啊",
+      "music": 0.0
+    },
+    {
+      "from": 455.67,
+      "to": 456.72,
+      "sid": 249,
+      "location": 2,
+      "content": "其实参考个人状态",
+      "music": 0.0
+    },
+    {
+      "from": 456.72,
+      "to": 458.82,
+      "sid": 250,
+      "location": 2,
+      "content": "你上下浮动个10~20都没有问题",
+      "music": 0.0
+    },
+    {
+      "from": 458.82,
+      "to": 461.24,
+      "sid": 251,
+      "location": 2,
+      "content": "二去测量准确的最大心率的方法",
+      "music": 0.0
+    },
+    {
+      "from": 461.24,
+      "to": 463.37,
+      "sid": 252,
+      "location": 2,
+      "content": "并不适用于广大的大众运动爱好者",
+      "music": 0.0
+    },
+    {
+      "from": 463.37,
+      "to": 465.17,
+      "sid": 253,
+      "location": 2,
+      "content": "很多朋友所熟知的徐国峰教练",
+      "music": 0.0
+    },
+    {
+      "from": 465.17,
+      "to": 466.4,
+      "sid": 254,
+      "location": 2,
+      "content": "测最大心率的方法",
+      "music": 0.0
+    },
+    {
+      "from": 466.4,
+      "to": 467.09,
+      "sid": 255,
+      "location": 2,
+      "content": "跑陡坡",
+      "music": 0.0
+    },
+    {
+      "from": 467.09,
+      "to": 468.14,
+      "sid": 256,
+      "location": 2,
+      "content": "跑步机操场",
+      "music": 0.0
+    },
+    {
+      "from": 468.14,
+      "to": 470.12,
+      "sid": 257,
+      "location": 2,
+      "content": "包括他给出了具体要跑的项目啊",
+      "music": 0.0
+    },
+    {
+      "from": 470.12,
+      "to": 471.5,
+      "sid": 258,
+      "location": 2,
+      "content": "什么跑八组800米",
+      "music": 0.0
+    },
+    {
+      "from": 471.5,
+      "to": 473.36,
+      "sid": 259,
+      "location": 2,
+      "content": "还要用不同的配速之类的啊",
+      "music": 0.0
+    },
+    {
+      "from": 473.36,
+      "to": 474.92,
+      "sid": 260,
+      "location": 2,
+      "content": "要我说都不用这么麻烦",
+      "music": 0.0
+    },
+    {
+      "from": 474.92,
+      "to": 477.44,
+      "sid": 261,
+      "location": 2,
+      "content": "在跑步机上逼出自己的跑步极限和最大心率",
+      "music": 0.0
+    },
+    {
+      "from": 477.44,
+      "to": 478.4,
+      "sid": 262,
+      "location": 2,
+      "content": "还是有些危险的",
+      "music": 0.0
+    },
+    {
+      "from": 478.4,
+      "to": 479.68,
+      "sid": 263,
+      "location": 2,
+      "content": "我个人呢是不建议",
+      "music": 0.0
+    },
+    {
+      "from": 479.68,
+      "to": 481.72,
+      "sid": 264,
+      "location": 2,
+      "content": "那如果你真想去测量最大心率",
+      "music": 0.0
+    },
+    {
+      "from": 481.72,
+      "to": 483.37,
+      "sid": 265,
+      "location": 2,
+      "content": "最好找个操场400米",
+      "music": 0.0
+    },
+    {
+      "from": 483.37,
+      "to": 484.48,
+      "sid": 266,
+      "location": 2,
+      "content": "你就去全力冲刺",
+      "music": 0.0
+    },
+    {
+      "from": 484.48,
+      "to": 485.32,
+      "sid": 267,
+      "location": 2,
+      "content": "跑个两三组",
+      "music": 0.0
+    },
+    {
+      "from": 485.32,
+      "to": 486.22,
+      "sid": 268,
+      "location": 2,
+      "content": "一定要全力啊",
+      "music": 0.0
+    },
+    {
+      "from": 486.22,
+      "to": 488.24,
+      "sid": 269,
+      "location": 2,
+      "content": "基本上你的最大心率就会出现了",
+      "music": 0.0
+    },
+    {
+      "from": 488.24,
+      "to": 489.32,
+      "sid": 270,
+      "location": 2,
+      "content": "但我不建议这么做的",
+      "music": 0.0
+    },
+    {
+      "from": 489.32,
+      "to": 491.06,
+      "sid": 271,
+      "location": 2,
+      "content": "原因是因为对于很多大众跑者",
+      "music": 0.0
+    },
+    {
+      "from": 491.06,
+      "to": 492.26,
+      "sid": 272,
+      "location": 2,
+      "content": "尤其是初跑者来说",
+      "music": 0.0
+    },
+    {
+      "from": 492.26,
+      "to": 494.4,
+      "sid": 273,
+      "location": 2,
+      "content": "你要用这种方法去测最大心率",
+      "music": 0.0
+    },
+    {
+      "from": 494.4,
+      "to": 496.5,
+      "sid": 274,
+      "location": 2,
+      "content": "很可能你的最大心率还没有测出来",
+      "music": 0.0
+    },
+    {
+      "from": 496.5,
+      "to": 498.18,
+      "sid": 275,
+      "location": 2,
+      "content": "全村人就得给你开席了",
+      "music": 0.0
+    },
+    {
+      "from": 498.18,
+      "to": 500.04,
+      "sid": 276,
+      "location": 2,
+      "content": "得不偿失",
+      "music": 0.0
+    },
+    {
+      "from": 502.64,
+      "to": 505.42,
+      "sid": 277,
+      "location": 2,
+      "content": "储备心率是最大心率和静息心率之差",
+      "music": 0.0
+    },
+    {
+      "from": 505.42,
+      "to": 506.62,
+      "sid": 278,
+      "location": 2,
+      "content": "也就是代表你的心率",
+      "music": 0.0
+    },
+    {
+      "from": 506.62,
+      "to": 509.69,
+      "sid": 279,
+      "location": 2,
+      "content": "在运动时可以上升的空间和范围",
+      "music": 0.0
+    },
+    {
+      "from": 509.69,
+      "to": 512.36,
+      "sid": 280,
+      "location": 2,
+      "content": "比如说你的最大心率是190次每分钟",
+      "music": 0.0
+    },
+    {
+      "from": 512.36,
+      "to": 514.25,
+      "sid": 281,
+      "location": 2,
+      "content": "静息心率是70次每分钟啊",
+      "music": 0.0
+    },
+    {
+      "from": 514.25,
+      "to": 516.299,
+      "sid": 282,
+      "location": 2,
+      "content": "那么你的储备心率就是120次每分钟",
+      "music": 0.0
+    },
+    {
+      "from": 516.299,
+      "to": 517.619,
+      "sid": 283,
+      "location": 2,
+      "content": "也就是说在运动时",
+      "music": 0.0
+    },
+    {
+      "from": 517.619,
+      "to": 521.059,
+      "sid": 284,
+      "location": 2,
+      "content": "你的心率浮动范围就在120上下",
+      "music": 0.0
+    },
+    {
+      "from": 521.819,
+      "to": 524.539,
+      "sid": 285,
+      "location": 2,
+      "content": "最大摄氧量呢也被称为最大耗氧量",
+      "music": 0.0
+    },
+    {
+      "from": 524.539,
+      "to": 526.759,
+      "sid": 286,
+      "location": 2,
+      "content": "是指我们在最大强度运动下的",
+      "music": 0.0
+    },
+    {
+      "from": 526.759,
+      "to": 528.83,
+      "sid": 287,
+      "location": 2,
+      "content": "身体每分钟的最大氧气吸收量",
+      "music": 0.0
+    },
+    {
+      "from": 528.83,
+      "to": 531.62,
+      "sid": 288,
+      "location": 2,
+      "content": "那这个数字是直接反映一个人心肺功能",
+      "music": 0.0
+    },
+    {
+      "from": 531.62,
+      "to": 532.34,
+      "sid": 289,
+      "location": 2,
+      "content": "有氧能力",
+      "music": 0.0
+    },
+    {
+      "from": 532.34,
+      "to": 533.42,
+      "sid": 290,
+      "location": 2,
+      "content": "运动好坏的啊",
+      "music": 0.0
+    },
+    {
+      "from": 533.42,
+      "to": 535.7,
+      "sid": 291,
+      "location": 2,
+      "content": "很多跑步的朋友应该对于这个词不陌生啊",
+      "music": 0.0
+    },
+    {
+      "from": 535.7,
+      "to": 537.62,
+      "sid": 292,
+      "location": 2,
+      "content": "尤其是使用佳明手表的朋友啊",
+      "music": 0.0
+    },
+    {
+      "from": 537.62,
+      "to": 540.91,
+      "sid": 293,
+      "location": 2,
+      "content": "因为佳明手表是可以估算我们的最大摄氧量啊",
+      "music": 0.0
+    },
+    {
+      "from": 540.91,
+      "to": 543.67,
+      "sid": 294,
+      "location": 2,
+      "content": "那正常人的最大摄氧量在35~40",
+      "music": 0.0
+    },
+    {
+      "from": 543.67,
+      "to": 544.54,
+      "sid": 295,
+      "location": 2,
+      "content": "那经常运动啊",
+      "music": 0.0
+    },
+    {
+      "from": 544.54,
+      "to": 545.14,
+      "sid": 296,
+      "location": 2,
+      "content": "跑步",
+      "music": 0.0
+    },
+    {
+      "from": 545.14,
+      "to": 545.62,
+      "sid": 297,
+      "location": 2,
+      "content": "这种耐力",
+      "music": 0.0
+    },
+    {
+      "from": 545.62,
+      "to": 548.5,
+      "sid": 298,
+      "location": 2,
+      "content": "运动员的最大摄氧量都是在50~70啊",
+      "music": 0.0
+    },
+    {
+      "from": 548.5,
+      "to": 550.06,
+      "sid": 299,
+      "location": 2,
+      "content": "我们前面提到的K天王",
+      "music": 0.0
+    },
+    {
+      "from": 550.06,
+      "to": 552.13,
+      "sid": 300,
+      "location": 2,
+      "content": "他的最大摄氧量是90",
+      "music": 0.0
+    },
+    {
+      "from": 552.13,
+      "to": 554.77,
+      "sid": 301,
+      "location": 2,
+      "content": "那想要准确测量最大摄影量就比较麻烦了啊",
+      "music": 0.0
+    },
+    {
+      "from": 554.77,
+      "to": 556.39,
+      "sid": 302,
+      "location": 2,
+      "content": "但这个是需要专业的仪器的",
+      "music": 0.0
+    },
+    {
+      "from": 556.39,
+      "to": 558.19,
+      "sid": 303,
+      "location": 2,
+      "content": "有的时候我们看到很多专业运动员",
+      "music": 0.0
+    },
+    {
+      "from": 558.19,
+      "to": 559.39,
+      "sid": 304,
+      "location": 2,
+      "content": "身上挂满各种线",
+      "music": 0.0
+    },
+    {
+      "from": 559.39,
+      "to": 561.24,
+      "sid": 305,
+      "location": 2,
+      "content": "甚至还戴着面罩在跑步上跑步",
+      "music": 0.0
+    },
+    {
+      "from": 561.24,
+      "to": 563.46,
+      "sid": 306,
+      "location": 2,
+      "content": "这个就是在测最大摄氧量啊",
+      "music": 0.0
+    },
+    {
+      "from": 563.46,
+      "to": 564.42,
+      "sid": 307,
+      "location": 2,
+      "content": "不过现在很多手表",
+      "music": 0.0
+    },
+    {
+      "from": 564.42,
+      "to": 567.24,
+      "sid": 308,
+      "location": 2,
+      "content": "比如佳明都是可以大致估算我们的最大摄氧量",
+      "music": 0.0
+    },
+    {
+      "from": 567.24,
+      "to": 570.46,
+      "sid": 309,
+      "location": 2,
+      "content": "从而也可以给我们一个运动的参考",
+      "music": 0.0
+    },
+    {
+      "from": 571.32,
+      "to": 574.4,
+      "sid": 310,
+      "location": 2,
+      "content": "很多人可能都会读成乳酸阀值心率啊",
+      "music": 0.0
+    },
+    {
+      "from": 574.4,
+      "to": 576.12,
+      "sid": 311,
+      "location": 2,
+      "content": "那这个词可能就有些专业了",
+      "music": 0.0
+    },
+    {
+      "from": 576.12,
+      "to": 579.54,
+      "sid": 312,
+      "location": 2,
+      "content": "也是很多专业以及进阶跑者在训练时会用到的",
+      "music": 0.0
+    },
+    {
+      "from": 579.54,
+      "to": 580.2,
+      "sid": 313,
+      "location": 2,
+      "content": "那简单来说呢",
+      "music": 0.0
+    },
+    {
+      "from": 580.2,
+      "to": 582.56,
+      "sid": 314,
+      "location": 2,
+      "content": "就是我们在运动时身体会产生乳酸",
+      "music": 0.0
+    },
+    {
+      "from": 582.56,
+      "to": 584.93,
+      "sid": 315,
+      "location": 2,
+      "content": "同时我们的身体也会分解乳酸",
+      "music": 0.0
+    },
+    {
+      "from": 584.93,
+      "to": 586.64,
+      "sid": 316,
+      "location": 2,
+      "content": "但如果产生的乳酸过多",
+      "music": 0.0
+    },
+    {
+      "from": 586.64,
+      "to": 588.08,
+      "sid": 317,
+      "location": 2,
+      "content": "多到身体无法分解了",
+      "music": 0.0
+    },
+    {
+      "from": 588.08,
+      "to": 590.89,
+      "sid": 318,
+      "location": 2,
+      "content": "那这个临界值就是乳酸阈值啊",
+      "music": 0.0
+    },
+    {
+      "from": 590.89,
+      "to": 592.45,
+      "sid": 319,
+      "location": 2,
+      "content": "那过了这个乳酸阈值呢",
+      "music": 0.0
+    },
+    {
+      "from": 592.45,
+      "to": 594.91,
+      "sid": 320,
+      "location": 2,
+      "content": "我们的身体可能就会开始酸痛与疲劳",
+      "music": 0.0
+    },
+    {
+      "from": 594.91,
+      "to": 597.94,
+      "sid": 321,
+      "location": 2,
+      "content": "也就是说难以再维持一个比较好的运动状态了",
+      "music": 0.0
+    },
+    {
+      "from": 597.94,
+      "to": 599.92,
+      "sid": 322,
+      "location": 2,
+      "content": "所以达到乳酸阈值时的心率啊",
+      "music": 0.0
+    },
+    {
+      "from": 599.92,
+      "to": 602.08,
+      "sid": 323,
+      "location": 2,
+      "content": "就是我们的乳酸阈值心率啊",
+      "music": 0.0
+    },
+    {
+      "from": 602.08,
+      "to": 603.52,
+      "sid": 324,
+      "location": 2,
+      "content": "那对于专业运动员来说呢",
+      "music": 0.0
+    },
+    {
+      "from": 603.52,
+      "to": 604.42,
+      "sid": 325,
+      "location": 2,
+      "content": "他们的乳酸阈值",
+      "music": 0.0
+    },
+    {
+      "from": 604.42,
+      "to": 606.72,
+      "sid": 326,
+      "location": 2,
+      "content": "心率往往都是最大心率的90%啊",
+      "music": 0.0
+    },
+    {
+      "from": 606.72,
+      "to": 608.28,
+      "sid": 327,
+      "location": 2,
+      "content": "但是我们一般普通人啊",
+      "music": 0.0
+    },
+    {
+      "from": 608.28,
+      "to": 609.24,
+      "sid": 328,
+      "location": 2,
+      "content": "乳酸阈值心率",
+      "music": 0.0
+    },
+    {
+      "from": 609.24,
+      "to": 612.84,
+      "sid": 329,
+      "location": 2,
+      "content": "可能也就是最大心率的80%左右",
+      "music": 0.0
+    },
+    {
+      "from": 614.46,
+      "to": 617.54,
+      "sid": 330,
+      "location": 2,
+      "content": "既然我们知道了心脏工作的原理和作用",
+      "music": 0.0
+    },
+    {
+      "from": 617.54,
+      "to": 619.54,
+      "sid": 331,
+      "location": 2,
+      "content": "以及各种不同的心理代表的是什么",
+      "music": 0.0
+    },
+    {
+      "from": 619.54,
+      "to": 622.66,
+      "sid": 332,
+      "location": 2,
+      "content": "那我们该如何利用心率来指导我们的运动呢",
+      "music": 0.0
+    },
+    {
+      "from": 622.66,
+      "to": 624.34,
+      "sid": 333,
+      "location": 2,
+      "content": "第一种方法也是最常见的",
+      "music": 0.0
+    },
+    {
+      "from": 624.34,
+      "to": 626.08,
+      "sid": 334,
+      "location": 2,
+      "content": "就是利用最大心率的百分比",
+      "music": 0.0
+    },
+    {
+      "from": 626.08,
+      "to": 627.98,
+      "sid": 335,
+      "location": 2,
+      "content": "来划分我们的运动强度区间",
+      "music": 0.0
+    },
+    {
+      "from": 627.98,
+      "to": 631.04,
+      "sid": 336,
+      "location": 2,
+      "content": "而这个百分比的数据的数字呢就是五十六十",
+      "music": 0.0
+    },
+    {
+      "from": 631.04,
+      "to": 632.12,
+      "sid": 337,
+      "location": 2,
+      "content": "七十八十九十",
+      "music": 0.0
+    },
+    {
+      "from": 632.12,
+      "to": 632.72,
+      "sid": 338,
+      "location": 2,
+      "content": "什么意思呢",
+      "music": 0.0
+    },
+    {
+      "from": 632.72,
+      "to": 633.68,
+      "sid": 339,
+      "location": 2,
+      "content": "给大家做一张表格",
+      "music": 0.0
+    },
+    {
+      "from": 633.68,
+      "to": 634.2,
+      "sid": 340,
+      "location": 2,
+      "content": "一目了然",
+      "music": 0.0
+    },
+    {
+      "from": 634.2,
+      "to": 636.12,
+      "sid": 341,
+      "location": 2,
+      "content": "最大心率的50%到60",
+      "music": 0.0
+    },
+    {
+      "from": 636.12,
+      "to": 637.62,
+      "sid": 342,
+      "location": 2,
+      "content": "是我们的热身区间啊",
+      "music": 0.0
+    },
+    {
+      "from": 637.62,
+      "to": 638.22,
+      "sid": 343,
+      "location": 2,
+      "content": "举例来说",
+      "music": 0.0
+    },
+    {
+      "from": 638.22,
+      "to": 640.26,
+      "sid": 344,
+      "location": 2,
+      "content": "比如你的最大心率是190次每分钟",
+      "music": 0.0
+    },
+    {
+      "from": 640.26,
+      "to": 642.04,
+      "sid": 345,
+      "location": 2,
+      "content": "那么当你处在热身时",
+      "music": 0.0
+    },
+    {
+      "from": 642.04,
+      "to": 644.38,
+      "sid": 346,
+      "location": 2,
+      "content": "你就需要让自己的心率维持在95次",
+      "music": 0.0
+    },
+    {
+      "from": 644.38,
+      "to": 646.0,
+      "sid": 347,
+      "location": 2,
+      "content": "每分钟到114次",
+      "music": 0.0
+    },
+    {
+      "from": 646.0,
+      "to": 648.22,
+      "sid": 348,
+      "location": 2,
+      "content": "每分钟最大心率的61%到70",
+      "music": 0.0
+    },
+    {
+      "from": 648.22,
+      "to": 649.54,
+      "sid": 349,
+      "location": 2,
+      "content": "是我们的运动燃脂区间",
+      "music": 0.0
+    },
+    {
+      "from": 649.54,
+      "to": 651.82,
+      "sid": 350,
+      "location": 2,
+      "content": "如果你的最大心率是190次每分钟",
+      "music": 0.0
+    },
+    {
+      "from": 651.82,
+      "to": 654.7,
+      "sid": 351,
+      "location": 2,
+      "content": "那你如果想要达到最好的燃脂效果啊",
+      "music": 0.0
+    },
+    {
+      "from": 654.7,
+      "to": 656.86,
+      "sid": 352,
+      "location": 2,
+      "content": "你就得让自己的心率保持在116次",
+      "music": 0.0
+    },
+    {
+      "from": 656.86,
+      "to": 658.64,
+      "sid": 353,
+      "location": 2,
+      "content": "每分钟到133次",
+      "music": 0.0
+    },
+    {
+      "from": 658.64,
+      "to": 659.36,
+      "sid": 354,
+      "location": 2,
+      "content": "以此类推",
+      "music": 0.0
+    },
+    {
+      "from": 659.36,
+      "to": 661.58,
+      "sid": 355,
+      "location": 2,
+      "content": "最大心率的70%到80%",
+      "music": 0.0
+    },
+    {
+      "from": 661.58,
+      "to": 663.17,
+      "sid": 356,
+      "location": 2,
+      "content": "是我们的有氧运动区间",
+      "music": 0.0
+    },
+    {
+      "from": 663.17,
+      "to": 665.18,
+      "sid": 357,
+      "location": 2,
+      "content": "最大心率的80%到90%",
+      "music": 0.0
+    },
+    {
+      "from": 665.18,
+      "to": 666.82,
+      "sid": 358,
+      "location": 2,
+      "content": "是我们的乳酸阈值区间",
+      "music": 0.0
+    },
+    {
+      "from": 666.82,
+      "to": 668.74,
+      "sid": 359,
+      "location": 2,
+      "content": "而大于最大心率的90%",
+      "music": 0.0
+    },
+    {
+      "from": 668.74,
+      "to": 670.3,
+      "sid": 360,
+      "location": 2,
+      "content": "就是我们的无氧运动区间",
+      "music": 0.0
+    },
+    {
+      "from": 670.3,
+      "to": 671.86,
+      "sid": 361,
+      "location": 2,
+      "content": "那这种方法是非常简单",
+      "music": 0.0
+    },
+    {
+      "from": 671.86,
+      "to": 672.82,
+      "sid": 362,
+      "location": 2,
+      "content": "但大家还是要注意啊",
+      "music": 0.0
+    },
+    {
+      "from": 672.82,
+      "to": 673.96,
+      "sid": 363,
+      "location": 2,
+      "content": "它只是一个大概值",
+      "music": 0.0
+    },
+    {
+      "from": 673.96,
+      "to": 674.84,
+      "sid": 364,
+      "location": 2,
+      "content": "并非固定值啊",
+      "music": 0.0
+    },
+    {
+      "from": 674.84,
+      "to": 677.48,
+      "sid": 365,
+      "location": 2,
+      "content": "包括这五个强度区间的名字可能也不统一啊",
+      "music": 0.0
+    },
+    {
+      "from": 677.48,
+      "to": 680.6,
+      "sid": 366,
+      "location": 2,
+      "content": "比如有些是把燃脂区间和有氧区间放在一起的",
+      "music": 0.0
+    },
+    {
+      "from": 680.6,
+      "to": 683.66,
+      "sid": 367,
+      "location": 2,
+      "content": "有些呢把乳酸阈值区间也叫做混养区间呢",
+      "music": 0.0
+    },
+    {
+      "from": 683.66,
+      "to": 686.2,
+      "sid": 368,
+      "location": 2,
+      "content": "就是一种介于又有氧有无氧的运动强度区间",
+      "music": 0.0
+    },
+    {
+      "from": 686.2,
+      "to": 687.91,
+      "sid": 369,
+      "location": 2,
+      "content": "所以这种方法更多只是一个参考",
+      "music": 0.0
+    },
+    {
+      "from": 687.91,
+      "to": 689.02,
+      "sid": 370,
+      "location": 2,
+      "content": "但不管叫什么",
+      "music": 0.0
+    },
+    {
+      "from": 689.02,
+      "to": 690.34,
+      "sid": 371,
+      "location": 2,
+      "content": "如果你想让自己的运动",
+      "music": 0.0
+    },
+    {
+      "from": 690.34,
+      "to": 691.88,
+      "sid": 372,
+      "location": 2,
+      "content": "更多是保持一种有氧状态",
+      "music": 0.0
+    },
+    {
+      "from": 691.88,
+      "to": 694.91,
+      "sid": 373,
+      "location": 2,
+      "content": "希望可以通过运动来提高自己的心肺功能",
+      "music": 0.0
+    },
+    {
+      "from": 694.91,
+      "to": 697.78,
+      "sid": 374,
+      "location": 2,
+      "content": "那你最好就把心率保持在1~3的强度区间",
+      "music": 0.0
+    },
+    {
+      "from": 697.78,
+      "to": 699.82,
+      "sid": 375,
+      "location": 2,
+      "content": "如果你想提高自己的速度啊",
+      "music": 0.0
+    },
+    {
+      "from": 699.82,
+      "to": 700.84,
+      "sid": 376,
+      "location": 2,
+      "content": "那一类无氧能力",
+      "music": 0.0
+    },
+    {
+      "from": 700.84,
+      "to": 701.86,
+      "sid": 377,
+      "location": 2,
+      "content": "包括跑马成立的",
+      "music": 0.0
+    },
+    {
+      "from": 701.86,
+      "to": 704.62,
+      "sid": 378,
+      "location": 2,
+      "content": "那么你就要注重4~5强度区间的训练",
+      "music": 0.0
+    },
+    {
+      "from": 704.62,
+      "to": 706.54,
+      "sid": 379,
+      "location": 2,
+      "content": "那除了这种心率区分方法以外",
+      "music": 0.0
+    },
+    {
+      "from": 706.54,
+      "to": 708.64,
+      "sid": 380,
+      "location": 2,
+      "content": "还有一种方法也是鼎鼎大名啊",
+      "music": 0.0
+    },
+    {
+      "from": 708.64,
+      "to": 709.96,
+      "sid": 381,
+      "location": 2,
+      "content": "就是很多人都听说过了",
+      "music": 0.0
+    },
+    {
+      "from": 709.96,
+      "to": 711.94,
+      "sid": 382,
+      "location": 2,
+      "content": "丹尼尔斯博士的跑步训练法",
+      "music": 0.0
+    },
+    {
+      "from": 711.94,
+      "to": 714.58,
+      "sid": 383,
+      "location": 2,
+      "content": "在其经典的丹尼尔斯跑步训练法的那本书中",
+      "music": 0.0
+    },
+    {
+      "from": 714.58,
+      "to": 716.68,
+      "sid": 384,
+      "location": 2,
+      "content": "他就依据最大摄氧量的这个概念",
+      "music": 0.0
+    },
+    {
+      "from": 716.68,
+      "to": 718.37,
+      "sid": 385,
+      "location": 2,
+      "content": "创造VDOT这个词",
+      "music": 0.0
+    },
+    {
+      "from": 718.37,
+      "to": 720.59,
+      "sid": 386,
+      "location": 2,
+      "content": "并把跑步训练强度分为五个区",
+      "music": 0.0
+    },
+    {
+      "from": 720.59,
+      "to": 722.18,
+      "sid": 387,
+      "location": 2,
+      "content": "那这五个区域的划分依据呢",
+      "music": 0.0
+    },
+    {
+      "from": 722.18,
+      "to": 723.9,
+      "sid": 388,
+      "location": 2,
+      "content": "就是最大摄氧量和最大",
+      "music": 0.0
+    },
+    {
+      "from": 723.9,
+      "to": 728.64,
+      "sid": 389,
+      "location": 2,
+      "content": "那这五个区分别是一区E或者L27M37T",
+      "music": 0.0
+    },
+    {
+      "from": 728.64,
+      "to": 730.43,
+      "sid": 390,
+      "location": 2,
+      "content": "四驱I57R",
+      "music": 0.0
+    },
+    {
+      "from": 730.43,
+      "to": 732.2,
+      "sid": 391,
+      "location": 2,
+      "content": "那这五区分别代表的是什么",
+      "music": 0.0
+    },
+    {
+      "from": 732.2,
+      "to": 733.42,
+      "sid": 392,
+      "location": 2,
+      "content": "以及对应的情侣区间",
+      "music": 0.0
+    },
+    {
+      "from": 733.42,
+      "to": 734.86,
+      "sid": 393,
+      "location": 2,
+      "content": "我就不展开具体说了啊",
+      "music": 0.0
+    },
+    {
+      "from": 734.86,
+      "to": 736.18,
+      "sid": 394,
+      "location": 2,
+      "content": "大家可以看下这张表格",
+      "music": 0.0
+    },
+    {
+      "from": 736.18,
+      "to": 739.77,
+      "sid": 395,
+      "location": 2,
+      "content": "去找到适合自己的跑步训练的心率区间",
+      "music": 0.0
+    },
+    {
+      "from": 740.05,
+      "to": 741.27,
+      "sid": 396,
+      "location": 2,
+      "content": "那提到丹尼尔斯呢",
+      "music": 0.0
+    },
+    {
+      "from": 741.27,
+      "to": 742.65,
+      "sid": 397,
+      "location": 2,
+      "content": "我就得再多说一句啊",
+      "music": 0.0
+    },
+    {
+      "from": 742.65,
+      "to": 745.17,
+      "sid": 398,
+      "location": 2,
+      "content": "我是没有看过丹尼尔斯跑步训练法那本书啊",
+      "music": 0.0
+    },
+    {
+      "from": 745.17,
+      "to": 746.73,
+      "sid": 399,
+      "location": 2,
+      "content": "所以我在网上查了很多资料",
+      "music": 0.0
+    },
+    {
+      "from": 746.73,
+      "to": 748.86,
+      "sid": 400,
+      "location": 2,
+      "content": "不过我发现在国内的网络平台上",
+      "music": 0.0
+    },
+    {
+      "from": 748.86,
+      "to": 750.96,
+      "sid": 401,
+      "location": 2,
+      "content": "很多人在介绍丹尼尔斯训练法的时候",
+      "music": 0.0
+    },
+    {
+      "from": 750.96,
+      "to": 753.12,
+      "sid": 402,
+      "location": 2,
+      "content": "提到的关键词是储备心率",
+      "music": 0.0
+    },
+    {
+      "from": 753.12,
+      "to": 754.74,
+      "sid": 403,
+      "location": 2,
+      "content": "包括说它是根据储备心率",
+      "music": 0.0
+    },
+    {
+      "from": 754.74,
+      "to": 756.38,
+      "sid": 404,
+      "location": 2,
+      "content": "把运动强度分为六个区间",
+      "music": 0.0
+    },
+    {
+      "from": 756.38,
+      "to": 758.45,
+      "sid": 405,
+      "location": 2,
+      "content": "而并不是刚才我提到了五个区间",
+      "music": 0.0
+    },
+    {
+      "from": 758.45,
+      "to": 760.28,
+      "sid": 406,
+      "location": 2,
+      "content": "其中还不乏一些专业的媒体",
+      "music": 0.0
+    },
+    {
+      "from": 760.28,
+      "to": 761.48,
+      "sid": 407,
+      "location": 2,
+      "content": "那属于我的朋友都知道",
+      "music": 0.0
+    },
+    {
+      "from": 761.48,
+      "to": 763.8,
+      "sid": 408,
+      "location": 2,
+      "content": "我做内容呢最喜欢的就是追本溯源啊",
+      "music": 0.0
+    },
+    {
+      "from": 763.8,
+      "to": 766.26,
+      "sid": 409,
+      "location": 2,
+      "content": "所以呢我就去外网求证搜索相关的内容",
+      "music": 0.0
+    },
+    {
+      "from": 766.26,
+      "to": 766.8,
+      "sid": 410,
+      "location": 2,
+      "content": "结果呢",
+      "music": 0.0
+    },
+    {
+      "from": 766.8,
+      "to": 767.82,
+      "sid": 411,
+      "location": 2,
+      "content": "我并没有发现",
+      "music": 0.0
+    },
+    {
+      "from": 767.82,
+      "to": 770.24,
+      "sid": 412,
+      "location": 2,
+      "content": "丹尼尔斯与储备心率之间有什么必然的联系",
+      "music": 0.0
+    },
+    {
+      "from": 770.24,
+      "to": 771.5,
+      "sid": 413,
+      "location": 2,
+      "content": "当然也许是我错了",
+      "music": 0.0
+    },
+    {
+      "from": 771.5,
+      "to": 772.64,
+      "sid": 414,
+      "location": 2,
+      "content": "欢迎各位帮我指正",
+      "music": 0.0
+    },
+    {
+      "from": 772.64,
+      "to": 774.92,
+      "sid": 415,
+      "location": 2,
+      "content": "但这完全矛盾的信息我必须要查明啊",
+      "music": 0.0
+    },
+    {
+      "from": 774.92,
+      "to": 775.82,
+      "sid": 416,
+      "location": 2,
+      "content": "最终我发现啊",
+      "music": 0.0
+    },
+    {
+      "from": 775.82,
+      "to": 778.14,
+      "sid": 417,
+      "location": 2,
+      "content": "这大概率可能是一个乌龙事件",
+      "music": 0.0
+    },
+    {
+      "from": 778.14,
+      "to": 780.12,
+      "sid": 418,
+      "location": 2,
+      "content": "因为储备心率啊是我们刚才讲到的",
+      "music": 0.0
+    },
+    {
+      "from": 780.12,
+      "to": 781.26,
+      "sid": 419,
+      "location": 2,
+      "content": "徐国峰教练提出来的",
+      "music": 0.0
+    },
+    {
+      "from": 781.26,
+      "to": 782.76,
+      "sid": 420,
+      "location": 2,
+      "content": "而并不是丹尼尔斯啊",
+      "music": 0.0
+    },
+    {
+      "from": 782.76,
+      "to": 784.02,
+      "sid": 421,
+      "location": 2,
+      "content": "但之所以很多人说",
+      "music": 0.0
+    },
+    {
+      "from": 784.02,
+      "to": 785.82,
+      "sid": 422,
+      "location": 2,
+      "content": "丹尼尔斯储备心率跑法的原因",
+      "music": 0.0
+    },
+    {
+      "from": 785.82,
+      "to": 786.0,
+      "sid": 423,
+      "location": 2,
+      "content": "是",
+      "music": 0.0
+    },
+    {
+      "from": 786.0,
+      "to": 787.83,
+      "sid": 424,
+      "location": 2,
+      "content": "因为徐国峰教练的跑步训练法",
+      "music": 0.0
+    },
+    {
+      "from": 787.83,
+      "to": 791.49,
+      "sid": 425,
+      "location": 2,
+      "content": "确实是从丹尼尔斯的跑步训练法中演化而来的",
+      "music": 0.0
+    },
+    {
+      "from": 791.49,
+      "to": 794.92,
+      "sid": 426,
+      "location": 2,
+      "content": "包括也是在丹尼尔斯所划分的五个强度基础上",
+      "music": 0.0
+    },
+    {
+      "from": 794.92,
+      "to": 796.06,
+      "sid": 427,
+      "location": 2,
+      "content": "延伸到了六个",
+      "music": 0.0
+    },
+    {
+      "from": 796.06,
+      "to": 797.38,
+      "sid": 428,
+      "location": 2,
+      "content": "所以导致很多人会以为",
+      "music": 0.0
+    },
+    {
+      "from": 797.38,
+      "to": 799.54,
+      "sid": 429,
+      "location": 2,
+      "content": "储备心率法是来自于丹尼尔斯啊",
+      "music": 0.0
+    },
+    {
+      "from": 799.54,
+      "to": 801.22,
+      "sid": 430,
+      "location": 2,
+      "content": "那这种事实层面的信息呢",
+      "music": 0.0
+    },
+    {
+      "from": 801.22,
+      "to": 802.73,
+      "sid": 431,
+      "location": 2,
+      "content": "我们还是要理清",
+      "music": 0.0
+    },
+    {
+      "from": 802.73,
+      "to": 805.55,
+      "sid": 432,
+      "location": 2,
+      "content": "OK那关于徐国峰储备心力训练法",
+      "music": 0.0
+    },
+    {
+      "from": 805.55,
+      "to": 806.45,
+      "sid": 433,
+      "location": 2,
+      "content": "我就不展开说了",
+      "music": 0.0
+    },
+    {
+      "from": 806.45,
+      "to": 808.79,
+      "sid": 434,
+      "location": 2,
+      "content": "他的基础就是我们刚才所讲到的",
+      "music": 0.0
+    },
+    {
+      "from": 808.79,
+      "to": 809.76,
+      "sid": 435,
+      "location": 2,
+      "content": "丹尼尔斯训练法",
+      "music": 0.0
+    },
+    {
+      "from": 809.76,
+      "to": 811.5,
+      "sid": 436,
+      "location": 2,
+      "content": "不过确实会更详细准确啊",
+      "music": 0.0
+    },
+    {
+      "from": 811.5,
+      "to": 812.46,
+      "sid": 437,
+      "location": 2,
+      "content": "也会更适合专业",
+      "music": 0.0
+    },
+    {
+      "from": 812.46,
+      "to": 815.77,
+      "sid": 438,
+      "location": 2,
+      "content": "今天跑车选择感兴趣的朋友可以自行去查看",
+      "music": 0.0
+    },
+    {
+      "from": 815.77,
+      "to": 817.99,
+      "sid": 439,
+      "location": 2,
+      "content": "那么最后呢再给大家说一个训练方法",
+      "music": 0.0
+    },
+    {
+      "from": 817.99,
+      "to": 819.04,
+      "sid": 440,
+      "location": 2,
+      "content": "这个方法很简单",
+      "music": 0.0
+    },
+    {
+      "from": 819.04,
+      "to": 822.55,
+      "sid": 441,
+      "location": 2,
+      "content": "最重要的是会更适合很多初跑者和大众跑者",
+      "music": 0.0
+    },
+    {
+      "from": 822.55,
+      "to": 823.88,
+      "sid": 442,
+      "location": 2,
+      "content": "叫做MAF",
+      "music": 0.0
+    },
+    {
+      "from": 823.88,
+      "to": 824.36,
+      "sid": 443,
+      "location": 2,
+      "content": "180",
+      "music": 0.0
+    },
+    {
+      "from": 824.36,
+      "to": 827.54,
+      "sid": 444,
+      "location": 2,
+      "content": "MAF呢是maximum aerobic function的缩写",
+      "music": 0.0
+    },
+    {
+      "from": 827.54,
+      "to": 830.18,
+      "sid": 445,
+      "location": 2,
+      "content": "也就是最大有氧心率训练法",
+      "music": 0.0
+    },
+    {
+      "from": 830.18,
+      "to": 830.84,
+      "sid": 446,
+      "location": 2,
+      "content": "什么意思呢",
+      "music": 0.0
+    },
+    {
+      "from": 830.84,
+      "to": 832.4,
+      "sid": 447,
+      "location": 2,
+      "content": "就是用180减年龄啊",
+      "music": 0.0
+    },
+    {
+      "from": 832.4,
+      "to": 834.98,
+      "sid": 448,
+      "location": 2,
+      "content": "然后根据不同的条件在上下浮动5~10",
+      "music": 0.0
+    },
+    {
+      "from": 834.98,
+      "to": 836.9,
+      "sid": 449,
+      "location": 2,
+      "content": "就可以得出你的最大有氧心率",
+      "music": 0.0
+    },
+    {
+      "from": 836.9,
+      "to": 838.44,
+      "sid": 450,
+      "location": 2,
+      "content": "然后呢在你跑步的时候",
+      "music": 0.0
+    },
+    {
+      "from": 838.44,
+      "to": 841.2,
+      "sid": 451,
+      "location": 2,
+      "content": "你就尽可能压着这个心率去跑步就行啊",
+      "music": 0.0
+    },
+    {
+      "from": 841.2,
+      "to": 842.22,
+      "sid": 452,
+      "location": 2,
+      "content": "比如说我35岁了",
+      "music": 0.0
+    },
+    {
+      "from": 842.22,
+      "to": 844.34,
+      "sid": 453,
+      "location": 2,
+      "content": "那我们的最大有氧心率就是145",
+      "music": 0.0
+    },
+    {
+      "from": 844.34,
+      "to": 846.26,
+      "sid": 454,
+      "location": 2,
+      "content": "那因为呢我是长期保持跑步",
+      "music": 0.0
+    },
+    {
+      "from": 846.26,
+      "to": 847.4,
+      "sid": 455,
+      "location": 2,
+      "content": "或者有运动基础的人啊",
+      "music": 0.0
+    },
+    {
+      "from": 847.4,
+      "to": 849.48,
+      "sid": 456,
+      "location": 2,
+      "content": "我就可以在此基础之上再加上十",
+      "music": 0.0
+    },
+    {
+      "from": 849.48,
+      "to": 852.18,
+      "sid": 457,
+      "location": 2,
+      "content": "那155呢就是我的最大有氧心率啊",
+      "music": 0.0
+    },
+    {
+      "from": 852.18,
+      "to": 854.34,
+      "sid": 458,
+      "location": 2,
+      "content": "那如果哪天我刚从感冒中恢复过来",
+      "music": 0.0
+    },
+    {
+      "from": 854.34,
+      "to": 856.9,
+      "sid": 459,
+      "location": 2,
+      "content": "那我可能需要180减电灯后再减去十",
+      "music": 0.0
+    },
+    {
+      "from": 856.9,
+      "to": 858.34,
+      "sid": 460,
+      "location": 2,
+      "content": "才是我的最大有氧心率",
+      "music": 0.0
+    },
+    {
+      "from": 858.34,
+      "to": 859.78,
+      "sid": 461,
+      "location": 2,
+      "content": "总之这种训练方法的核心",
+      "music": 0.0
+    },
+    {
+      "from": 859.78,
+      "to": 861.46,
+      "sid": 462,
+      "location": 2,
+      "content": "就是要压着有氧心率去跑",
+      "music": 0.0
+    },
+    {
+      "from": 861.46,
+      "to": 862.26,
+      "sid": 463,
+      "location": 2,
+      "content": "不要管配速啊",
+      "music": 0.0
+    },
+    {
+      "from": 862.26,
+      "to": 865.71,
+      "sid": 464,
+      "location": 2,
+      "content": "也不要去挑战你的阈值心率或者说无氧心率啊",
+      "music": 0.0
+    },
+    {
+      "from": 865.71,
+      "to": 867.36,
+      "sid": 465,
+      "location": 2,
+      "content": "如果你可以长期坚持下来",
+      "music": 0.0
+    },
+    {
+      "from": 867.36,
+      "to": 870.26,
+      "sid": 466,
+      "location": 2,
+      "content": "那你的有氧能力以及心肺能量就会逐渐提高啊",
+      "music": 0.0
+    },
+    {
+      "from": 870.26,
+      "to": 871.52,
+      "sid": 467,
+      "location": 2,
+      "content": "如果以上种种的方法",
+      "music": 0.0
+    },
+    {
+      "from": 871.52,
+      "to": 872.54,
+      "sid": 468,
+      "location": 2,
+      "content": "你都会觉得麻烦",
+      "music": 0.0
+    },
+    {
+      "from": 872.54,
+      "to": 873.5,
+      "sid": 469,
+      "location": 2,
+      "content": "哎我数学不好",
+      "music": 0.0
+    },
+    {
+      "from": 873.5,
+      "to": 874.64,
+      "sid": 470,
+      "location": 2,
+      "content": "不想算来算去的",
+      "music": 0.0
+    },
+    {
+      "from": 874.64,
+      "to": 876.5,
+      "sid": 471,
+      "location": 2,
+      "content": "那你只要记住这种数字就好",
+      "music": 0.0
+    },
+    {
+      "from": 876.5,
+      "to": 877.9,
+      "sid": 472,
+      "location": 2,
+      "content": "130~150",
+      "music": 0.0
+    },
+    {
+      "from": 877.9,
+      "to": 880.42,
+      "sid": 473,
+      "location": 2,
+      "content": "你跑步的时候就尽可能在这个心理区间就行",
+      "music": 0.0
+    },
+    {
+      "from": 880.42,
+      "to": 880.96,
+      "sid": 474,
+      "location": 2,
+      "content": "别太低",
+      "music": 0.0
+    },
+    {
+      "from": 880.96,
+      "to": 882.52,
+      "sid": 475,
+      "location": 2,
+      "content": "否则你可能连汗都出不了啊",
+      "music": 0.0
+    },
+    {
+      "from": 882.52,
+      "to": 884.56,
+      "sid": 476,
+      "location": 2,
+      "content": "那你也起不到什么太多的锻炼效果",
+      "music": 0.0
+    },
+    {
+      "from": 884.56,
+      "to": 885.46,
+      "sid": 477,
+      "location": 2,
+      "content": "也不要太高啊",
+      "music": 0.0
+    },
+    {
+      "from": 885.46,
+      "to": 887.08,
+      "sid": 478,
+      "location": 2,
+      "content": "否则你的心脏可能就会hold不住",
+      "music": 0.0
+    },
+    {
+      "from": 887.08,
+      "to": 887.62,
+      "sid": 479,
+      "location": 2,
+      "content": "注意各位",
+      "music": 0.0
+    },
+    {
+      "from": 887.62,
+      "to": 889.12,
+      "sid": 480,
+      "location": 2,
+      "content": "我知道可能很多人会说啊",
+      "music": 0.0
+    },
+    {
+      "from": 889.12,
+      "to": 890.32,
+      "sid": 481,
+      "location": 2,
+      "content": "这个个体差异太大",
+      "music": 0.0
+    },
+    {
+      "from": 890.32,
+      "to": 891.52,
+      "sid": 482,
+      "location": 2,
+      "content": "你这个数字不准确之类的",
+      "music": 0.0
+    },
+    {
+      "from": 891.52,
+      "to": 892.45,
+      "sid": 483,
+      "location": 2,
+      "content": "我知道啊",
+      "music": 0.0
+    },
+    {
+      "from": 892.45,
+      "to": 895.12,
+      "sid": 484,
+      "location": 2,
+      "content": "如果你已经对于各种心率强度区间非常了解了",
+      "music": 0.0
+    },
+    {
+      "from": 895.12,
+      "to": 896.68,
+      "sid": 485,
+      "location": 2,
+      "content": "也能找到适合自己的训练方法",
+      "music": 0.0
+    },
+    {
+      "from": 896.68,
+      "to": 898.6,
+      "sid": 486,
+      "location": 2,
+      "content": "那么你大可以按照你的训练方法来",
+      "music": 0.0
+    },
+    {
+      "from": 898.6,
+      "to": 899.62,
+      "sid": 487,
+      "location": 2,
+      "content": "但如果你和我一样",
+      "music": 0.0
+    },
+    {
+      "from": 899.62,
+      "to": 900.9,
+      "sid": 488,
+      "location": 2,
+      "content": "把跑步和运动",
+      "music": 0.0
+    },
+    {
+      "from": 900.9,
+      "to": 903.3,
+      "sid": 489,
+      "location": 2,
+      "content": "更多的只是当做一种休闲和生活方式",
+      "music": 0.0
+    },
+    {
+      "from": 903.3,
+      "to": 904.62,
+      "sid": 490,
+      "location": 2,
+      "content": "那你就在跑步的时候",
+      "music": 0.0
+    },
+    {
+      "from": 904.62,
+      "to": 905.82,
+      "sid": 491,
+      "location": 2,
+      "content": "也大可以按照我说的",
+      "music": 0.0
+    },
+    {
+      "from": 905.82,
+      "to": 909.16,
+      "sid": 492,
+      "location": 2,
+      "content": "130~150的心理区间来锻炼就好",
+      "music": 0.0
+    },
+    {
+      "from": 909.16,
+      "to": 911.08,
+      "sid": 493,
+      "location": 2,
+      "content": "OK以上呢就是我给大家分享的",
+      "music": 0.0
+    },
+    {
+      "from": 911.08,
+      "to": 912.46,
+      "sid": 494,
+      "location": 2,
+      "content": "关于运动心率那点事",
+      "music": 0.0
+    },
+    {
+      "from": 912.46,
+      "to": 913.48,
+      "sid": 495,
+      "location": 2,
+      "content": "不知道视频看完后",
+      "music": 0.0
+    },
+    {
+      "from": 913.48,
+      "to": 914.98,
+      "sid": 496,
+      "location": 2,
+      "content": "各位是否能有所收获呢",
+      "music": 0.0
+    },
+    {
+      "from": 914.98,
+      "to": 916.06,
+      "sid": 497,
+      "location": 2,
+      "content": "那么在视频的最后呢",
+      "music": 0.0
+    },
+    {
+      "from": 916.06,
+      "to": 918.32,
+      "sid": 498,
+      "location": 2,
+      "content": "我还想再和大家分享两点",
+      "music": 0.0
+    },
+    {
+      "from": 918.32,
+      "to": 920.96,
+      "sid": 499,
+      "location": 2,
+      "content": "第一用心率指导我们的运动是非常重要的",
+      "music": 0.0
+    },
+    {
+      "from": 920.96,
+      "to": 923.66,
+      "sid": 500,
+      "location": 2,
+      "content": "但是相较于记住那些枯燥的心率数字来说",
+      "music": 0.0
+    },
+    {
+      "from": 923.66,
+      "to": 926.38,
+      "sid": 501,
+      "location": 2,
+      "content": "我们更重要的是要学会听懂我们自己身体的语",
+      "music": 0.0
+    },
+    {
+      "from": 926.38,
+      "to": 928.84,
+      "sid": 502,
+      "location": 2,
+      "content": "无论是在跑步或者在做其他运动时",
+      "music": 0.0
+    },
+    {
+      "from": 928.84,
+      "to": 929.98,
+      "sid": 503,
+      "location": 2,
+      "content": "如果我们可以保持",
+      "music": 0.0
+    },
+    {
+      "from": 929.98,
+      "to": 932.0,
+      "sid": 504,
+      "location": 2,
+      "content": "非常顺畅的呼吸和自如的说话",
+      "music": 0.0
+    },
+    {
+      "from": 932.0,
+      "to": 933.32,
+      "sid": 505,
+      "location": 2,
+      "content": "那就说明我们的心率",
+      "music": 0.0
+    },
+    {
+      "from": 933.32,
+      "to": 935.72,
+      "sid": 506,
+      "location": 2,
+      "content": "应该是处在一个有氧区间范围内啊",
+      "music": 0.0
+    },
+    {
+      "from": 935.72,
+      "to": 937.66,
+      "sid": 507,
+      "location": 2,
+      "content": "也是一个对于我们大多数人来说",
+      "music": 0.0
+    },
+    {
+      "from": 937.66,
+      "to": 938.98,
+      "sid": 508,
+      "location": 2,
+      "content": "比较健康的心理区间",
+      "music": 0.0
+    },
+    {
+      "from": 938.98,
+      "to": 940.66,
+      "sid": 509,
+      "location": 2,
+      "content": "当然不同的运动项目",
+      "music": 0.0
+    },
+    {
+      "from": 940.66,
+      "to": 942.46,
+      "sid": 510,
+      "location": 2,
+      "content": "所对应的心理负荷也不一样",
+      "music": 0.0
+    },
+    {
+      "from": 942.46,
+      "to": 944.84,
+      "sid": 511,
+      "location": 2,
+      "content": "比如说我每周会保持固定的搏击训练",
+      "music": 0.0
+    },
+    {
+      "from": 944.84,
+      "to": 947.0,
+      "sid": 512,
+      "location": 2,
+      "content": "那在训练的时候必然是无氧的心率啊",
+      "music": 0.0
+    },
+    {
+      "from": 947.0,
+      "to": 948.92,
+      "sid": 513,
+      "location": 2,
+      "content": "那这个时候我就不可能再要求自己",
+      "music": 0.0
+    },
+    {
+      "from": 948.92,
+      "to": 949.82,
+      "sid": 514,
+      "location": 2,
+      "content": "保持顺畅的呼吸",
+      "music": 0.0
+    },
+    {
+      "from": 949.82,
+      "to": 950.3,
+      "sid": 515,
+      "location": 2,
+      "content": "自如说话",
+      "music": 0.0
+    },
+    {
+      "from": 950.3,
+      "to": 951.8,
+      "sid": 516,
+      "location": 2,
+      "content": "那这个训练就白练了",
+      "music": 0.0
+    },
+    {
+      "from": 951.8,
+      "to": 954.22,
+      "sid": 517,
+      "location": 2,
+      "content": "但是如果你在做无氧运动的时候啊",
+      "music": 0.0
+    },
+    {
+      "from": 954.22,
+      "to": 956.32,
+      "sid": 518,
+      "location": 2,
+      "content": "已经出现了明显呼吸不畅",
+      "music": 0.0
+    },
+    {
+      "from": 956.32,
+      "to": 957.1,
+      "sid": 519,
+      "location": 2,
+      "content": "步伐不稳",
+      "music": 0.0
+    },
+    {
+      "from": 957.1,
+      "to": 958.51,
+      "sid": 520,
+      "location": 2,
+      "content": "甚至脑袋发晕的情况",
+      "music": 0.0
+    },
+    {
+      "from": 958.51,
+      "to": 960.94,
+      "sid": 521,
+      "location": 2,
+      "content": "切记一定要让自己及时的慢下来",
+      "music": 0.0
+    },
+    {
+      "from": 960.94,
+      "to": 961.46,
+      "sid": 522,
+      "location": 2,
+      "content": "停下来",
+      "music": 0.0
+    },
+    {
+      "from": 961.46,
+      "to": 964.37,
+      "sid": 523,
+      "location": 2,
+      "content": "别再因为所谓的课表啊和运动精神去坚持",
+      "music": 0.0
+    },
+    {
+      "from": 964.37,
+      "to": 966.08,
+      "sid": 524,
+      "location": 2,
+      "content": "因为那个时候说明你的心脏",
+      "music": 0.0
+    },
+    {
+      "from": 966.08,
+      "to": 968.32,
+      "sid": 525,
+      "location": 2,
+      "content": "或许已经无法承受你的运动负荷了",
+      "music": 0.0
+    },
+    {
+      "from": 968.32,
+      "to": 970.42,
+      "sid": 526,
+      "location": 2,
+      "content": "他已经在通过这些症状来告诉你",
+      "music": 0.0
+    },
+    {
+      "from": 970.42,
+      "to": 971.26,
+      "sid": 527,
+      "location": 2,
+      "content": "快停下来吧",
+      "music": 0.0
+    },
+    {
+      "from": 971.26,
+      "to": 972.46,
+      "sid": 528,
+      "location": 2,
+      "content": "让我赶快休息吧",
+      "music": 0.0
+    },
+    {
+      "from": 972.46,
+      "to": 974.78,
+      "sid": 529,
+      "location": 2,
+      "content": "所以各位听懂自己的身体语言",
+      "music": 0.0
+    },
+    {
+      "from": 974.78,
+      "to": 977.66,
+      "sid": 530,
+      "location": 2,
+      "content": "要比记住我上面所说的那些数字更为重要",
+      "music": 0.0
+    },
+    {
+      "from": 977.66,
+      "to": 979.769,
+      "sid": 531,
+      "location": 2,
+      "content": "第二我之所以希望大家在运动",
+      "music": 0.0
+    },
+    {
+      "from": 979.769,
+      "to": 980.489,
+      "sid": 532,
+      "location": 2,
+      "content": "尤其是跑步时",
+      "music": 0.0
+    },
+    {
+      "from": 980.489,
+      "to": 982.649,
+      "sid": 533,
+      "location": 2,
+      "content": "要尽可能保持在有氧心率区间",
+      "music": 0.0
+    },
+    {
+      "from": 982.649,
+      "to": 983.609,
+      "sid": 534,
+      "location": 2,
+      "content": "就是想告诉各位",
+      "music": 0.0
+    },
+    {
+      "from": 983.609,
+      "to": 986.04,
+      "sid": 535,
+      "location": 2,
+      "content": "我们千万不要忘了我们为什么跑步",
+      "music": 0.0
+    },
+    {
+      "from": 986.04,
+      "to": 987.0,
+      "sid": 536,
+      "location": 2,
+      "content": "为什么运动啊",
+      "music": 0.0
+    },
+    {
+      "from": 987.0,
+      "to": 988.32,
+      "sid": 537,
+      "location": 2,
+      "content": "我们跑步和运动的目的",
+      "music": 0.0
+    },
+    {
+      "from": 988.32,
+      "to": 990.24,
+      "sid": 538,
+      "location": 2,
+      "content": "是为了让我们有一个更好的身体",
+      "music": 0.0
+    },
+    {
+      "from": 990.24,
+      "to": 991.14,
+      "sid": 539,
+      "location": 2,
+      "content": "那这个好的身体啊",
+      "music": 0.0
+    },
+    {
+      "from": 991.14,
+      "to": 992.28,
+      "sid": 540,
+      "location": 2,
+      "content": "既包括生理上的",
+      "music": 0.0
+    },
+    {
+      "from": 992.28,
+      "to": 993.44,
+      "sid": 541,
+      "location": 2,
+      "content": "也包括心理上的",
+      "music": 0.0
+    },
+    {
+      "from": 993.44,
+      "to": 995.3,
+      "sid": 542,
+      "location": 2,
+      "content": "大家千万不要本末倒置了",
+      "music": 0.0
+    },
+    {
+      "from": 995.3,
+      "to": 996.92,
+      "sid": 543,
+      "location": 2,
+      "content": "为了所谓的配速和跑量",
+      "music": 0.0
+    },
+    {
+      "from": 996.92,
+      "to": 998.42,
+      "sid": 544,
+      "location": 2,
+      "content": "去过多的消耗我们的身体",
+      "music": 0.0
+    },
+    {
+      "from": 998.42,
+      "to": 999.28,
+      "sid": 545,
+      "location": 2,
+      "content": "因为有时候我会",
+      "music": 0.0
+    },
+    {
+      "from": 999.28,
+      "to": 999.7,
+      "sid": 546,
+      "location": 2,
+      "content": "现",
+      "music": 0.0
+    },
+    {
+      "from": 999.7,
+      "to": 1001.2,
+      "sid": 547,
+      "location": 2,
+      "content": "如今我们的大众运动",
+      "music": 0.0
+    },
+    {
+      "from": 1001.2,
+      "to": 1003.54,
+      "sid": 548,
+      "location": 2,
+      "content": "真的是太过于竞技化和功利化了",
+      "music": 0.0
+    },
+    {
+      "from": 1003.54,
+      "to": 1006.18,
+      "sid": 549,
+      "location": 2,
+      "content": "竞技体育啊其实仅仅只是体育很小的一个分支",
+      "music": 0.0
+    },
+    {
+      "from": 1006.18,
+      "to": 1008.58,
+      "sid": 550,
+      "location": 2,
+      "content": "是那些专业运动员用来养家糊口的工具",
+      "music": 0.0
+    },
+    {
+      "from": 1008.58,
+      "to": 1009.9,
+      "sid": 551,
+      "location": 2,
+      "content": "而他们为了竞技啊",
+      "music": 0.0
+    },
+    {
+      "from": 1009.9,
+      "to": 1012.42,
+      "sid": 552,
+      "location": 2,
+      "content": "往往牺牲的恰恰是自己的身体健康",
+      "music": 0.0
+    },
+    {
+      "from": 1012.42,
+      "to": 1014.52,
+      "sid": 553,
+      "location": 2,
+      "content": "你去看看那些专业运动员一路走来",
+      "music": 0.0
+    },
+    {
+      "from": 1014.52,
+      "to": 1015.62,
+      "sid": 554,
+      "location": 2,
+      "content": "身上有多少的伤病",
+      "music": 0.0
+    },
+    {
+      "from": 1015.62,
+      "to": 1018.74,
+      "sid": 555,
+      "location": 2,
+      "content": "但是其实和大众体育的愿景是背道而驰的",
+      "music": 0.0
+    },
+    {
+      "from": 1018.74,
+      "to": 1021.32,
+      "sid": 556,
+      "location": 2,
+      "content": "甚至如今我们的竞技体育早已经变了味道了",
+      "music": 0.0
+    },
+    {
+      "from": 1021.32,
+      "to": 1023.48,
+      "sid": 557,
+      "location": 2,
+      "content": "今天呢我可以让车拦住你的去路啊",
+      "music": 0.0
+    },
+    {
+      "from": 1023.48,
+      "to": 1026.079,
+      "sid": 558,
+      "location": 2,
+      "content": "明天我就可以让黑人小哥来给你指路",
+      "music": 0.0
+    },
+    {
+      "from": 1026.079,
+      "to": 1027.939,
+      "sid": 559,
+      "location": 2,
+      "content": "这他妈是什么竞技体育啊",
+      "music": 0.0
+    },
+    {
+      "from": 1027.939,
+      "to": 1029.559,
+      "sid": 560,
+      "location": 2,
+      "content": "那我们如今的大众体育呢",
+      "music": 0.0
+    },
+    {
+      "from": 1029.559,
+      "to": 1031.12,
+      "sid": 561,
+      "location": 2,
+      "content": "跑步呢是热了",
+      "music": 0.0
+    },
+    {
+      "from": 1031.12,
+      "to": 1032.92,
+      "sid": 562,
+      "location": 2,
+      "content": "各种的跑团也是层出不穷",
+      "music": 0.0
+    },
+    {
+      "from": 1032.92,
+      "to": 1034.42,
+      "sid": 563,
+      "location": 2,
+      "content": "进了跑团啥都还没干",
+      "music": 0.0
+    },
+    {
+      "from": 1034.42,
+      "to": 1036.4,
+      "sid": 564,
+      "location": 2,
+      "content": "专业的装备和看似专业的训练课表",
+      "music": 0.0
+    },
+    {
+      "from": 1036.4,
+      "to": 1037.44,
+      "sid": 565,
+      "location": 2,
+      "content": "先给他安排上啊",
+      "music": 0.0
+    },
+    {
+      "from": 1037.44,
+      "to": 1038.7,
+      "sid": 566,
+      "location": 2,
+      "content": "你在群里打卡10km",
+      "music": 0.0
+    },
+    {
+      "from": 1038.7,
+      "to": 1040.02,
+      "sid": 567,
+      "location": 2,
+      "content": "而我就必须要打卡11km",
+      "music": 0.0
+    },
+    {
+      "from": 1040.02,
+      "to": 1040.98,
+      "sid": 568,
+      "location": 2,
+      "content": "你能跑四分配",
+      "music": 0.0
+    },
+    {
+      "from": 1040.98,
+      "to": 1041.16,
+      "sid": 569,
+      "location": 2,
+      "content": "哎",
+      "music": 0.0
+    },
+    {
+      "from": 1041.16,
+      "to": 1042.69,
+      "sid": 570,
+      "location": 2,
+      "content": "我就必须要冲进三分配",
+      "music": 0.0
+    },
+    {
+      "from": 1042.69,
+      "to": 1044.34,
+      "sid": 571,
+      "location": 2,
+      "content": "然后呢在自己的社交媒体上",
+      "music": 0.0
+    },
+    {
+      "from": 1044.34,
+      "to": 1045.0,
+      "sid": 572,
+      "location": 2,
+      "content": "平台一发",
+      "music": 0.0
+    },
+    {
+      "from": 1045.0,
+      "to": 1047.4,
+      "sid": 573,
+      "location": 2,
+      "content": "引来一群盲目慕强粉丝的点赞和追捧",
+      "music": 0.0
+    },
+    {
+      "from": 1047.4,
+      "to": 1049.68,
+      "sid": 574,
+      "location": 2,
+      "content": "自己的内心的虚荣得到强烈的满足",
+      "music": 0.0
+    },
+    {
+      "from": 1049.68,
+      "to": 1051.18,
+      "sid": 575,
+      "location": 2,
+      "content": "但是我们的满足与快乐",
+      "music": 0.0
+    },
+    {
+      "from": 1051.18,
+      "to": 1053.17,
+      "sid": 576,
+      "location": 2,
+      "content": "早已经不是来源于快乐本身了",
+      "music": 0.0
+    },
+    {
+      "from": 1053.17,
+      "to": 1054.52,
+      "sid": 577,
+      "location": 2,
+      "content": "而是来源于比较",
+      "music": 0.0
+    },
+    {
+      "from": 1054.52,
+      "to": 1056.2,
+      "sid": 578,
+      "location": 2,
+      "content": "也就是在盲目的比较的过程里",
+      "music": 0.0
+    },
+    {
+      "from": 1058.18,
+      "to": 1060.1,
+      "sid": 579,
+      "location": 2,
+      "content": "大众体育的本质精神",
+      "music": 0.0
+    },
+    {
+      "from": 1060.1,
+      "to": 1061.78,
+      "sid": 580,
+      "location": 2,
+      "content": "体育拥有改变世界的力量",
+      "music": 0.0
+    },
+    {
+      "from": 1061.78,
+      "to": 1063.22,
+      "sid": 581,
+      "location": 2,
+      "content": "曼德拉之所以说出这句话",
+      "music": 0.0
+    },
+    {
+      "from": 1063.22,
+      "to": 1065.08,
+      "sid": 582,
+      "location": 2,
+      "content": "就是因为即使我们的国家不同",
+      "music": 0.0
+    },
+    {
+      "from": 1065.08,
+      "to": 1065.8,
+      "sid": 583,
+      "location": 2,
+      "content": "语言不同",
+      "music": 0.0
+    },
+    {
+      "from": 1065.8,
+      "to": 1066.58,
+      "sid": 584,
+      "location": 2,
+      "content": "肤色不同",
+      "music": 0.0
+    },
+    {
+      "from": 1066.58,
+      "to": 1068.83,
+      "sid": 585,
+      "location": 2,
+      "content": "但通过体育我们就可以相通",
+      "music": 0.0
+    },
+    {
+      "from": 1068.83,
+      "to": 1071.38,
+      "sid": 586,
+      "location": 2,
+      "content": "在沟通交流理解融合面前",
+      "music": 0.0
+    },
+    {
+      "from": 1071.38,
+      "to": 1072.82,
+      "sid": 587,
+      "location": 2,
+      "content": "成绩是真的不重要",
+      "music": 0.0
+    },
+    {
+      "from": 1072.82,
+      "to": 1074.8,
+      "sid": 588,
+      "location": 2,
+      "content": "记得之前一个运动品牌的产品经理",
+      "music": 0.0
+    },
+    {
+      "from": 1074.8,
+      "to": 1075.64,
+      "sid": 589,
+      "location": 2,
+      "content": "曾经和我聊过",
+      "music": 0.0
+    },
+    {
+      "from": 1075.64,
+      "to": 1076.54,
+      "sid": 590,
+      "location": 2,
+      "content": "因为工作原因",
+      "music": 0.0
+    },
+    {
+      "from": 1076.54,
+      "to": 1078.72,
+      "sid": 591,
+      "location": 2,
+      "content": "他可以去世界各地跑马拉松",
+      "music": 0.0
+    },
+    {
+      "from": 1078.72,
+      "to": 1080.46,
+      "sid": 592,
+      "location": 2,
+      "content": "他就发现一个很有意思的现象",
+      "music": 0.0
+    },
+    {
+      "from": 1080.46,
+      "to": 1082.5,
+      "sid": 593,
+      "location": 2,
+      "content": "就是国外很多人跑马拉松时",
+      "music": 0.0
+    },
+    {
+      "from": 1082.5,
+      "to": 1084.44,
+      "sid": 594,
+      "location": 2,
+      "content": "经常会穿缓震系的慢跑鞋",
+      "music": 0.0
+    },
+    {
+      "from": 1084.44,
+      "to": 1086.72,
+      "sid": 595,
+      "location": 2,
+      "content": "跑马对于他们来说就是享受过程",
+      "music": 0.0
+    },
+    {
+      "from": 1086.72,
+      "to": 1088.56,
+      "sid": 596,
+      "location": 2,
+      "content": "而在国内跑马不说全部吧",
+      "music": 0.0
+    },
+    {
+      "from": 1088.56,
+      "to": 1090.42,
+      "sid": 597,
+      "location": 2,
+      "content": "但基本上八九十%的人都是",
+      "music": 0.0
+    },
+    {
+      "from": 1090.42,
+      "to": 1091.5,
+      "sid": 598,
+      "location": 2,
+      "content": "清一色的碳板跑鞋",
+      "music": 0.0
+    },
+    {
+      "from": 1091.5,
+      "to": 1094.76,
+      "sid": 599,
+      "location": 2,
+      "content": "每个人脸上都写满了疲惫以及对于成绩的执念",
+      "music": 0.0
+    },
+    {
+      "from": 1094.76,
+      "to": 1095.66,
+      "sid": 600,
+      "location": 2,
+      "content": "唉何必呢",
+      "music": 0.0
+    },
+    {
+      "from": 1095.66,
+      "to": 1096.74,
+      "sid": 601,
+      "location": 2,
+      "content": "各位慢下来吧",
+      "music": 0.0
+    },
+    {
+      "from": 1096.74,
+      "to": 1098.75,
+      "sid": 602,
+      "location": 2,
+      "content": "无论是竞技体育还是大众体育",
+      "music": 0.0
+    },
+    {
+      "from": 1098.75,
+      "to": 1101.72,
+      "sid": 603,
+      "location": 2,
+      "content": "我们是时候应该放下对于所谓成绩的执念了",
+      "music": 0.0
+    },
+    {
+      "from": 1101.72,
+      "to": 1102.88,
+      "sid": 604,
+      "location": 2,
+      "content": "不要再那么功利了",
+      "music": 0.0
+    },
+    {
+      "from": 1102.88,
+      "to": 1103.78,
+      "sid": 605,
+      "location": 2,
+      "content": "拔苗助长",
+      "music": 0.0
+    },
+    {
+      "from": 1103.78,
+      "to": 1106.27,
+      "sid": 606,
+      "location": 2,
+      "content": "真的不如去提供土壤和环境",
+      "music": 0.0
+    },
+    {
+      "from": 1106.27,
+      "to": 1107.8,
+      "sid": 607,
+      "location": 2,
+      "content": "去静待花开",
+      "music": 0.0
+    }
+  ]
+}

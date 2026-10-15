@@ -1,0 +1,1215 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "stroke": "none",
+  "body": [
+    {
+      "from": 1.3,
+      "to": 2.32,
+      "location": 2,
+      "content": "大家好啊"
+    },
+    {
+      "from": 2.32,
+      "to": 8.13,
+      "location": 2,
+      "content": "今天介绍一个手动用计算器计算"
+    },
+    {
+      "from": 8.13,
+      "to": 10.37,
+      "location": 2,
+      "content": "储备心率区间的方法"
+    },
+    {
+      "from": 10.37,
+      "to": 12.15,
+      "location": 2,
+      "content": "我认为比较简单的一个方法"
+    },
+    {
+      "from": 13.27,
+      "to": 14.55,
+      "location": 2,
+      "content": "为什么要介绍这个呢"
+    },
+    {
+      "from": 14.55,
+      "to": 19.33,
+      "location": 2,
+      "content": "我们知道心率期间在我们科学训练中很重要"
+    },
+    {
+      "from": 19.33,
+      "to": 26.04,
+      "location": 2,
+      "content": "因为它是衡量我们训练强度的一个"
+    },
+    {
+      "from": 26.04,
+      "to": 27.72,
+      "location": 2,
+      "content": "重要的指标"
+    },
+    {
+      "from": 28.2,
+      "to": 32.4,
+      "location": 2,
+      "content": "以后有机会咱们可以深入探讨一下"
+    },
+    {
+      "from": 32.98,
+      "to": 37.26,
+      "location": 2,
+      "content": "而且我上次讲佳明的某些问题的时候"
+    },
+    {
+      "from": 37.26,
+      "to": 41.69,
+      "location": 2,
+      "content": "其中一个就是佳明的心率区间设置"
+    },
+    {
+      "from": 41.69,
+      "to": 43.27,
+      "location": 2,
+      "content": "非常的繁琐"
+    },
+    {
+      "from": 44.95,
+      "to": 48.789,
+      "location": 2,
+      "content": "很多时候需要手动去输入心率区间"
+    },
+    {
+      "from": 48.789,
+      "to": 51.409,
+      "location": 2,
+      "content": "这个时候如果我们能快速的计算"
+    },
+    {
+      "from": 51.409,
+      "to": 53.469,
+      "location": 2,
+      "content": "自己的心率区间"
+    },
+    {
+      "from": 53.469,
+      "to": 56.91,
+      "location": 2,
+      "content": "五个区的上限下限各自是多少"
+    },
+    {
+      "from": 56.91,
+      "to": 59.58,
+      "location": 2,
+      "content": "那么就会非常的方便了"
+    },
+    {
+      "from": 59.78,
+      "to": 63.1,
+      "location": 2,
+      "content": "当然我们有一些网上的计算器"
+    },
+    {
+      "from": 63.1,
+      "to": 64.94,
+      "location": 2,
+      "content": "你可以输入自己的最大心率"
+    },
+    {
+      "from": 64.94,
+      "to": 65.86,
+      "location": 2,
+      "content": "静息心率"
+    },
+    {
+      "from": 65.86,
+      "to": 69.37,
+      "location": 2,
+      "content": "来计算储备心率的区间"
+    },
+    {
+      "from": 69.37,
+      "to": 72.43,
+      "location": 2,
+      "content": "但是都不是特别方便"
+    },
+    {
+      "from": 72.71,
+      "to": 76.61,
+      "location": 2,
+      "content": "而且心率区间的计算呢有很多种方法"
+    },
+    {
+      "from": 76.61,
+      "to": 78.87,
+      "location": 2,
+      "content": "比如说基于最大心率的"
+    },
+    {
+      "from": 78.87,
+      "to": 81.48,
+      "location": 2,
+      "content": "基于乳酸阈值的"
+    },
+    {
+      "from": 81.96,
+      "to": 83.4,
+      "location": 2,
+      "content": "我个人还是比较喜欢"
+    },
+    {
+      "from": 83.4,
+      "to": 86.6,
+      "location": 2,
+      "content": "用储备心率去计算心率区间"
+    },
+    {
+      "from": 86.6,
+      "to": 89.14,
+      "location": 2,
+      "content": "一区到五区"
+    },
+    {
+      "from": 89.14,
+      "to": 94.539,
+      "location": 2,
+      "content": "原因是我个人觉得储备心率区间更准确一点"
+    },
+    {
+      "from": 94.539,
+      "to": 97.379,
+      "location": 2,
+      "content": "比如说如果两个人最大心率相同"
+    },
+    {
+      "from": 97.379,
+      "to": 99.579,
+      "location": 2,
+      "content": "但是一个人的静息心率是50"
+    },
+    {
+      "from": 99.579,
+      "to": 100.93,
+      "location": 2,
+      "content": "一个人是80"
+    },
+    {
+      "from": 100.93,
+      "to": 104.27,
+      "location": 2,
+      "content": "那么用最大心率这个方法"
+    },
+    {
+      "from": 104.27,
+      "to": 105.81,
+      "location": 2,
+      "content": "单纯用最大心率"
+    },
+    {
+      "from": 105.81,
+      "to": 107.86,
+      "location": 2,
+      "content": "这个方法去计算区间的话"
+    },
+    {
+      "from": 107.86,
+      "to": 109.9,
+      "location": 2,
+      "content": "那两个人的心率区间完全一模一样"
+    },
+    {
+      "from": 109.9,
+      "to": 111.06,
+      "location": 2,
+      "content": "这是不合理的对吧"
+    },
+    {
+      "from": 111.06,
+      "to": 113.78,
+      "location": 2,
+      "content": "因为一个人坐着不动心率到80"
+    },
+    {
+      "from": 113.78,
+      "to": 117.2,
+      "location": 2,
+      "content": "另外一个人坐着不动心率到"
+    },
+    {
+      "from": 117.2,
+      "to": 119.48,
+      "location": 2,
+      "content": "他两个的心率区间完全相同"
+    },
+    {
+      "from": 119.48,
+      "to": 120.42,
+      "location": 2,
+      "content": "这是不合理的"
+    },
+    {
+      "from": 120.42,
+      "to": 124.84,
+      "location": 2,
+      "content": "所以我个人更倾向于用储备心率区间"
+    },
+    {
+      "from": 124.84,
+      "to": 130.18,
+      "location": 2,
+      "content": "他的计算呢稍微啊要做点加法加减乘除"
+    },
+    {
+      "from": 130.18,
+      "to": 134.65,
+      "location": 2,
+      "content": "所以这里咱们来讨论一"
+    },
+    {
+      "from": 134.65,
+      "to": 139.119,
+      "location": 2,
+      "content": "能不能用计算器快速的得到这几个区间"
+    },
+    {
+      "from": 139.119,
+      "to": 140.359,
+      "location": 2,
+      "content": "一区到五区"
+    },
+    {
+      "from": 140.359,
+      "to": 145.97,
+      "location": 2,
+      "content": "那么计算储备心率区间的时候呢"
+    },
+    {
+      "from": 145.97,
+      "to": 148.13,
+      "location": 2,
+      "content": "我们首先要明白两个数值"
+    },
+    {
+      "from": 148.13,
+      "to": 150.52,
+      "location": 2,
+      "content": "一个是最大心率"
+    },
+    {
+      "from": 150.52,
+      "to": 152.32,
+      "location": 2,
+      "content": "你可以去测试得到"
+    },
+    {
+      "from": 152.32,
+      "to": 155.92,
+      "location": 2,
+      "content": "也可以简单的用220减去自己的年龄"
+    },
+    {
+      "from": 155.92,
+      "to": 157.38,
+      "location": 2,
+      "content": "得到最大心率"
+    },
+    {
+      "from": 157.38,
+      "to": 159.32,
+      "location": 2,
+      "content": "比如说一个人是50岁"
+    },
+    {
+      "from": 159.32,
+      "to": 162.08,
+      "location": 2,
+      "content": "那么他220-50就170"
+    },
+    {
+      "from": 162.08,
+      "to": 163.54,
+      "location": 2,
+      "content": "就是他的最大心率"
+    },
+    {
+      "from": 163.54,
+      "to": 167.409,
+      "location": 2,
+      "content": "我们可以做用这种方法去估算。另外一个值呢"
+    },
+    {
+      "from": 167.409,
+      "to": 168.789,
+      "location": 2,
+      "content": "就是静息心率"
+    },
+    {
+      "from": 168.789,
+      "to": 171.229,
+      "location": 2,
+      "content": "静息心率呢就是一个人啊"
+    },
+    {
+      "from": 171.229,
+      "to": 173.28,
+      "location": 2,
+      "content": "比如说早上刚起床"
+    },
+    {
+      "from": 173.28,
+      "to": 175.68,
+      "location": 2,
+      "content": "躺在那里测一下自己的心率啊"
+    },
+    {
+      "from": 175.68,
+      "to": 178.08,
+      "location": 2,
+      "content": "这个时候是比较准一点的啊"
+    },
+    {
+      "from": 178.08,
+      "to": 181.64,
+      "location": 2,
+      "content": "静息心率就是安静休息的时候的心率了"
+    },
+    {
+      "from": 182.84,
+      "to": 186.24,
+      "location": 2,
+      "content": "那么假设这个人的静息心率是50"
+    },
+    {
+      "from": 186.24,
+      "to": 189.2,
+      "location": 2,
+      "content": "那么50~170"
+    },
+    {
+      "from": 189.2,
+      "to": 190.34,
+      "location": 2,
+      "content": "它的最大心率"
+    },
+    {
+      "from": 190.34,
+      "to": 194.14,
+      "location": 2,
+      "content": "170之间的这个跨度就叫做心率储备哈"
+    },
+    {
+      "from": 194.14,
+      "to": 195.9,
+      "location": 2,
+      "content": "储备心率区间啊"
+    },
+    {
+      "from": 195.9,
+      "to": 196.94,
+      "location": 2,
+      "content": "心率储备啊"
+    },
+    {
+      "from": 196.94,
+      "to": 200.28,
+      "location": 2,
+      "content": "也就是说170-50"
+    },
+    {
+      "from": 200.28,
+      "to": 203.72,
+      "location": 2,
+      "content": "170-50"
+    },
+    {
+      "from": 203.72,
+      "to": 207.56,
+      "location": 2,
+      "content": "120。这120就是他的心率区间的范围"
+    },
+    {
+      "from": 207.56,
+      "to": 209.54,
+      "location": 2,
+      "content": "我们称为心率储备"
+    },
+    {
+      "from": 209.86,
+      "to": 213.18,
+      "location": 2,
+      "content": "那么我们所谓跑步的时候"
+    },
+    {
+      "from": 213.18,
+      "to": 214.78,
+      "location": 2,
+      "content": "五个心率区间呢"
+    },
+    {
+      "from": 214.78,
+      "to": 219.76,
+      "location": 2,
+      "content": "实际上就是50%到100%"
+    },
+    {
+      "from": 219.76,
+      "to": 221.97,
+      "location": 2,
+      "content": "这个范围"
+    },
+    {
+      "from": 221.97,
+      "to": 225.41,
+      "location": 2,
+      "content": "也就是说如果把心率储备这120的跨度"
+    },
+    {
+      "from": 225.41,
+      "to": 226.53,
+      "location": 2,
+      "content": "从50~170"
+    },
+    {
+      "from": 226.53,
+      "to": 229.269,
+      "location": 2,
+      "content": "这120的跨度分为十份的话"
+    },
+    {
+      "from": 229.269,
+      "to": 231.089,
+      "location": 2,
+      "content": "我们前五份是不用的"
+    },
+    {
+      "from": 231.089,
+      "to": 232.909,
+      "location": 2,
+      "content": "我们从第六份开始"
+    },
+    {
+      "from": 232.909,
+      "to": 236.14,
+      "location": 2,
+      "content": "就是一区、二区、三区、四区、五"
+    },
+    {
+      "from": 236.14,
+      "to": 239.36,
+      "location": 2,
+      "content": "直到最大心率170"
+    },
+    {
+      "from": 239.36,
+      "to": 241.51,
+      "location": 2,
+      "content": "那么计算的时候呢"
+    },
+    {
+      "from": 241.51,
+      "to": 246.09,
+      "location": 2,
+      "content": "所以我们得到心率储备120÷2啊"
+    },
+    {
+      "from": 246.09,
+      "to": 248.73,
+      "location": 2,
+      "content": "这也就是它的一半就是60"
+    },
+    {
+      "from": 248.73,
+      "to": 250.81,
+      "location": 2,
+      "content": "既然我们前一半不要"
+    },
+    {
+      "from": 250.81,
+      "to": 252.07,
+      "location": 2,
+      "content": "我们就加回"
+    },
+    {
+      "from": 252.07,
+      "to": 255.519,
+      "location": 2,
+      "content": "加上他的静息心率50（=）110"
+    },
+    {
+      "from": 255.519,
+      "to": 259.539,
+      "location": 2,
+      "content": "也就是说一区的下限就是从110开始"
+    },
+    {
+      "from": 259.539,
+      "to": 262.45,
+      "location": 2,
+      "content": "这是一区额"
+    },
+    {
+      "from": 262.45,
+      "to": 266.21,
+      "location": 2,
+      "content": "那么我们计算二区的下限的时候啊"
+    },
+    {
+      "from": 266.21,
+      "to": 268.77,
+      "location": 2,
+      "content": "一区的上限和二区下限是重合的了"
+    },
+    {
+      "from": 268.77,
+      "to": 271.93,
+      "location": 2,
+      "content": "我们就在110这个一区下限的基础上"
+    },
+    {
+      "from": 271.93,
+      "to": 275.42,
+      "location": 2,
+      "content": "加上心率储备120的10%"
+    },
+    {
+      "from": 275.42,
+      "to": 276.5,
+      "location": 2,
+      "content": "也就是12"
+    },
+    {
+      "from": 276.5,
+      "to": 278.73,
+      "location": 2,
+      "content": "我们加上12"
+    },
+    {
+      "from": 279.37,
+      "to": 283.289,
+      "location": 2,
+      "content": "那么就是二区的下限122"
+    },
+    {
+      "from": 283.609,
+      "to": 285.549,
+      "location": 2,
+      "content": "那么我们以此类推"
+    },
+    {
+      "from": 285.549,
+      "to": 289.029,
+      "location": 2,
+      "content": "我们就知道三区的下限是134"
+    },
+    {
+      "from": 289.029,
+      "to": 292.22,
+      "location": 2,
+      "content": "四区的下限是146"
+    },
+    {
+      "from": 292.54,
+      "to": 295.5,
+      "location": 2,
+      "content": "那么五区的下限是158"
+    },
+    {
+      "from": 295.989,
+      "to": 299.069,
+      "location": 2,
+      "content": "那么当然五区的上限就是最大心率"
+    },
+    {
+      "from": 299.069,
+      "to": 300.489,
+      "location": 2,
+      "content": "170了"
+    },
+    {
+      "from": 300.489,
+      "to": 303.46,
+      "location": 2,
+      "content": "我们就不断的按等号"
+    },
+    {
+      "from": 303.66,
+      "to": 309.74,
+      "location": 2,
+      "content": "就可以得出这五个区间的值，下限和上限"
+    },
+    {
+      "from": 310.79,
+      "to": 314.21,
+      "location": 2,
+      "content": "那么这是我个人用的一套方法"
+    },
+    {
+      "from": 314.21,
+      "to": 317.59,
+      "location": 2,
+      "content": "我觉得相比对于最大心率"
+    },
+    {
+      "from": 317.59,
+      "to": 319.99,
+      "location": 2,
+      "content": "用最大心率进行心率区间的计算"
+    },
+    {
+      "from": 319.99,
+      "to": 321.01,
+      "location": 2,
+      "content": "这个比较好记"
+    },
+    {
+      "from": 321.01,
+      "to": 323.45,
+      "location": 2,
+      "content": "就50%到60%就是一区"
+    },
+    {
+      "from": 323.45,
+      "to": 326.19,
+      "location": 2,
+      "content": "60%到70%就是二区"
+    },
+    {
+      "from": 326.19,
+      "to": 327.31,
+      "location": 2,
+      "content": "以此类推啊"
+    },
+    {
+      "from": 327.31,
+      "to": 329.2,
+      "location": 2,
+      "content": "他每个区间就是10%"
+    },
+    {
+      "from": 329.2,
+      "to": 331.46,
+      "location": 2,
+      "content": "因为用最大心率计算的时候呢"
+    },
+    {
+      "from": 331.46,
+      "to": 336.01,
+      "location": 2,
+      "content": "可能会需要啊65%到80%啊"
+    },
+    {
+      "from": 337.2,
+      "to": 339.44,
+      "location": 2,
+      "content": "88%到92%啊"
+    },
+    {
+      "from": 339.44,
+      "to": 341.9,
+      "location": 2,
+      "content": "如果按照丹尼尔斯的"
+    },
+    {
+      "from": 341.9,
+      "to": 343.64,
+      "location": 2,
+      "content": "乳酸阈值计算区间的话"
+    },
+    {
+      "from": 343.64,
+      "to": 346.02,
+      "location": 2,
+      "content": "他这个不太好记"
+    },
+    {
+      "from": 346.02,
+      "to": 347.3,
+      "location": 2,
+      "content": "而且有些区间大"
+    },
+    {
+      "from": 347.3,
+      "to": 348.24,
+      "location": 2,
+      "content": "有些区间小"
+    },
+    {
+      "from": 348.24,
+      "to": 352.09,
+      "location": 2,
+      "content": "我个人不是很喜欢的那种划分"
+    },
+    {
+      "from": 352.09,
+      "to": 353.77,
+      "location": 2,
+      "content": "所以我就非常简单"
+    },
+    {
+      "from": 353.77,
+      "to": 356.85,
+      "location": 2,
+      "content": "就是50%到60%一区"
+    },
+    {
+      "from": 356.85,
+      "to": 358.23,
+      "location": 2,
+      "content": "60%~70%"
+    },
+    {
+      "from": 358.23,
+      "to": 361.65,
+      "location": 2,
+      "content": "二区等等"
+    },
+    {
+      "from": 361.65,
+      "to": 363.65,
+      "location": 2,
+      "content": "那么计算的方法就是这个"
+    },
+    {
+      "from": 363.65,
+      "to": 365.51,
+      "location": 2,
+      "content": "具体的区间怎么用呢"
+    },
+    {
+      "from": 365.51,
+      "to": 368.23,
+      "location": 2,
+      "content": "我个人的用法"
+    },
+    {
+      "from": 368.23,
+      "to": 369.17,
+      "location": 2,
+      "content": "一区啊"
+    },
+    {
+      "from": 369.17,
+      "to": 373.49,
+      "location": 2,
+      "content": "比如说我们换回去"
+    },
+    {
+      "from": 373.49,
+      "to": 375.07,
+      "location": 2,
+      "content": "每次减12"
+    },
+    {
+      "from": 375.07,
+      "to": 377.419,
+      "location": 2,
+      "content": "这是五区"
+    },
+    {
+      "from": 377.419,
+      "to": 380.699,
+      "location": 2,
+      "content": "四区、三区、二区、一区"
+    },
+    {
+      "from": 381.19,
+      "to": 385.61,
+      "location": 2,
+      "content": "那么一区我一般就用作恢复跑"
+    },
+    {
+      "from": 385.61,
+      "to": 387.33,
+      "location": 2,
+      "content": "二区轻松跑"
+    },
+    {
+      "from": 387.33,
+      "to": 392.36,
+      "location": 2,
+      "content": "三区马拉松配速跑"
+    },
+    {
+      "from": 392.36,
+      "to": 394.95,
+      "location": 2,
+      "content": "四驱阈值"
+    },
+    {
+      "from": 394.95,
+      "to": 397.01,
+      "location": 2,
+      "content": "五驱就是间歇跑"
+    },
+    {
+      "from": 397.21,
+      "to": 399.21,
+      "location": 2,
+      "content": "实际上我个人不跑一区"
+    },
+    {
+      "from": 399.21,
+      "to": 400.93,
+      "location": 2,
+      "content": "因为我觉得如果你跑一区的话"
+    },
+    {
+      "from": 400.93,
+      "to": 402.25,
+      "location": 2,
+      "content": "说明非常的累啊"
+    },
+    {
+      "from": 402.25,
+      "to": 403.45,
+      "location": 2,
+      "content": "你都跑不动了"
+    },
+    {
+      "from": 403.45,
+      "to": 405.79,
+      "location": 2,
+      "content": "那么躺着休息比较好"
+    },
+    {
+      "from": 405.79,
+      "to": 408.23,
+      "location": 2,
+      "content": "那天就跑休就好了"
+    },
+    {
+      "from": 408.23,
+      "to": 410.1,
+      "location": 2,
+      "content": "我个人不太喜欢一区"
+    },
+    {
+      "from": 410.1,
+      "to": 413.38,
+      "location": 2,
+      "content": "那么二期轻松跑需要大量的练习"
+    },
+    {
+      "from": 413.38,
+      "to": 416.33,
+      "location": 2,
+      "content": "基本上大多数的理论认为"
+    },
+    {
+      "from": 416.33,
+      "to": 417.81,
+      "location": 2,
+      "content": "二区需要"
+    },
+    {
+      "from": 417.81,
+      "to": 418.97,
+      "location": 2,
+      "content": "需要经常的练啊"
+    },
+    {
+      "from": 418.97,
+      "to": 419.45,
+      "location": 2,
+      "content": "轻松跑"
+    },
+    {
+      "from": 419.45,
+      "to": 420.59,
+      "location": 2,
+      "content": "经常的练"
+    },
+    {
+      "from": 420.59,
+      "to": 423.29,
+      "location": 2,
+      "content": "而且跑长距离就尽量也要用"
+    },
+    {
+      "from": 423.29,
+      "to": 425.32,
+      "location": 2,
+      "content": "轻松跑的心率"
+    },
+    {
+      "from": 425.32,
+      "to": 426.54,
+      "location": 2,
+      "content": "除非你是"
+    },
+    {
+      "from": 426.54,
+      "to": 428.7,
+      "location": 2,
+      "content": "除非你是要自测"
+    },
+    {
+      "from": 428.7,
+      "to": 429.84,
+      "location": 2,
+      "content": "赛前要自测"
+    },
+    {
+      "from": 429.84,
+      "to": 431.83,
+      "location": 2,
+      "content": "你用目标配速去跑"
+    },
+    {
+      "from": 431.83,
+      "to": 435.35,
+      "location": 2,
+      "content": "那么三区马拉松配速呢一般不推荐"
+    },
+    {
+      "from": 435.35,
+      "to": 439.43,
+      "location": 2,
+      "content": "因为这个好处有限，对身体的负担也比较大"
+    },
+    {
+      "from": 439.43,
+      "to": 442.61,
+      "location": 2,
+      "content": "所以一般也不用三区进行训练"
+    },
+    {
+      "from": 442.61,
+      "to": 444.93,
+      "location": 2,
+      "content": "那么四区阈值"
+    },
+    {
+      "from": 444.93,
+      "to": 447.49,
+      "location": 2,
+      "content": "实际上这跟与乳酸阈值有一定的偏差"
+    },
+    {
+      "from": 447.49,
+      "to": 450.789,
+      "location": 2,
+      "content": "我们可以认为是四区"
+    },
+    {
+      "from": 451.149,
+      "to": 454.909,
+      "location": 2,
+      "content": "比如说这里一区、二区"
+    },
+    {
+      "from": 454.909,
+      "to": 456.79,
+      "location": 2,
+      "content": "三区、四区"
+    },
+    {
+      "from": 456.79,
+      "to": 460.15,
+      "location": 2,
+      "content": "那么四区啊往上"
+    },
+    {
+      "from": 461.27,
+      "to": 464.87,
+      "location": 2,
+      "content": "四区往上，四区的高5%啊"
+    },
+    {
+      "from": 464.87,
+      "to": 468.17,
+      "location": 2,
+      "content": "基本上就接近于乳酸阈值那个区域"
+    },
+    {
+      "from": 468.17,
+      "to": 469.17,
+      "location": 2,
+      "content": "它的低5%"
+    },
+    {
+      "from": 469.17,
+      "to": 470.23,
+      "location": 2,
+      "content": "146"
+    },
+    {
+      "from": 470.23,
+      "to": 471.669,
+      "location": 2,
+      "content": "到152"
+    },
+    {
+      "from": 471.669,
+      "to": 475.809,
+      "location": 2,
+      "content": "大概就是半马或者是"
+    },
+    {
+      "from": 475.809,
+      "to": 479.37,
+      "location": 2,
+      "content": "马拉松配速高一点的心率区间"
+    },
+    {
+      "from": 479.37,
+      "to": 481.73,
+      "location": 2,
+      "content": "相对于我们假定最大心率170"
+    },
+    {
+      "from": 481.73,
+      "to": 483.929,
+      "location": 2,
+      "content": "静息心率50的这个情况下"
+    },
+    {
+      "from": 483.929,
+      "to": 485.969,
+      "location": 2,
+      "content": "我大概是这么用的啊"
+    },
+    {
+      "from": 485.969,
+      "to": 487.769,
+      "location": 2,
+      "content": "那么是不是很准确呢"
+    },
+    {
+      "from": 487.769,
+      "to": 490.469,
+      "location": 2,
+      "content": "也要根据个人的使用情况"
+    },
+    {
+      "from": 490.469,
+      "to": 494.26,
+      "location": 2,
+      "content": "但是好处就是这个心率的划分比较整齐"
+    },
+    {
+      "from": 494.26,
+      "to": 495.78,
+      "location": 2,
+      "content": "每个区间10%啊"
+    },
+    {
+      "from": 495.78,
+      "to": 500.37,
+      "location": 2,
+      "content": "另外一区到五区的具大概的用法"
+    },
+    {
+      "from": 500.37,
+      "to": 501.25,
+      "location": 2,
+      "content": "我也提到了啊"
+    },
+    {
+      "from": 501.25,
+      "to": 502.5,
+      "location": 2,
+      "content": "恢复跑"
+    },
+    {
+      "from": 502.5,
+      "to": 503.42,
+      "location": 2,
+      "content": "轻松跑"
+    },
+    {
+      "from": 503.42,
+      "to": 504.46,
+      "location": 2,
+      "content": "马拉松配速跑"
+    },
+    {
+      "from": 504.46,
+      "to": 505.4,
+      "location": 2,
+      "content": "阈值跑"
+    },
+    {
+      "from": 505.4,
+      "to": 508.409,
+      "location": 2,
+      "content": "一以及间歇跑"
+    },
+    {
+      "from": 508.729,
+      "to": 514.23,
+      "location": 2,
+      "content": "那么以上就是我个人的心率期间划分"
+    },
+    {
+      "from": 514.23,
+      "to": 516.95,
+      "location": 2,
+      "content": "我在自己的视频里也经常会提到"
+    },
+    {
+      "from": 516.95,
+      "to": 521.05,
+      "location": 2,
+      "content": "我以哪个区间进行训目标的"
+    },
+    {
+      "from": 521.05,
+      "to": 521.75,
+      "location": 2,
+      "content": "训练"
+    },
+    {
+      "from": 521.75,
+      "to": 522.85,
+      "location": 2,
+      "content": "训练目标"
+    },
+    {
+      "from": 522.85,
+      "to": 524.39,
+      "location": 2,
+      "content": "所以啊"
+    },
+    {
+      "from": 524.39,
+      "to": 527.91,
+      "location": 2,
+      "content": "这里集中的讲一下我个人的心率划分"
+    },
+    {
+      "from": 527.91,
+      "to": 528.97,
+      "location": 2,
+      "content": "希望对大家有用"
+    },
+    {
+      "from": 528.97,
+      "to": 529.89,
+      "location": 2,
+      "content": "如果有问题呢"
+    },
+    {
+      "from": 529.89,
+      "to": 531.07,
+      "location": 2,
+      "content": "欢迎留言"
+    },
+    {
+      "from": 531.07,
+      "to": 532.73,
+      "location": 2,
+      "content": "讨论"
+    },
+    {
+      "from": 532.73,
+      "to": 533.92,
+      "location": 2,
+      "content": "好今天就这样"
+    }
+  ]
+}

@@ -1,0 +1,1268 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "v1.7.0.4",
+  "body": [
+    {
+      "from": 0.04,
+      "to": 2.08,
+      "sid": 1,
+      "location": 2,
+      "content": "有氧心率必须在100次以内",
+      "music": 0.0
+    },
+    {
+      "from": 2.08,
+      "to": 3.82,
+      "sid": 2,
+      "location": 2,
+      "content": "一直慢跑就能降心率",
+      "music": 0.0
+    },
+    {
+      "from": 3.82,
+      "to": 7.039,
+      "sid": 3,
+      "location": 2,
+      "content": "这些关于跑步降心率的谣言你都相信过哪几个",
+      "music": 0.0
+    },
+    {
+      "from": 7.039,
+      "to": 7.399,
+      "sid": 4,
+      "location": 2,
+      "content": "大家好",
+      "music": 0.0
+    },
+    {
+      "from": 7.399,
+      "to": 7.999,
+      "sid": 5,
+      "location": 2,
+      "content": "我是卡哥",
+      "music": 0.0
+    },
+    {
+      "from": 7.999,
+      "to": 9.699,
+      "sid": 6,
+      "location": 2,
+      "content": "今天这个视频呢想跟大家聊一聊",
+      "music": 0.0
+    },
+    {
+      "from": 9.699,
+      "to": 13.489,
+      "sid": 7,
+      "location": 2,
+      "content": "那些故意让你很焦虑的跑步降心率的谣言",
+      "music": 0.0
+    },
+    {
+      "from": 13.489,
+      "to": 15.309,
+      "sid": 8,
+      "location": 2,
+      "content": "这话大家应该都听过哈",
+      "music": 0.0
+    },
+    {
+      "from": 15.309,
+      "to": 17.969,
+      "sid": 9,
+      "location": 2,
+      "content": "有氧慢跑心率必须在140以内",
+      "music": 0.0
+    },
+    {
+      "from": 17.969,
+      "to": 19.569,
+      "sid": 10,
+      "location": 2,
+      "content": "一抬脚心率就180",
+      "music": 0.0
+    },
+    {
+      "from": 19.569,
+      "to": 21.27,
+      "sid": 11,
+      "location": 2,
+      "content": "说明你根本不适合跑步",
+      "music": 0.0
+    },
+    {
+      "from": 21.27,
+      "to": 22.67,
+      "sid": 12,
+      "location": 2,
+      "content": "只要你一直慢跑",
+      "music": 0.0
+    },
+    {
+      "from": 22.67,
+      "to": 24.619,
+      "sid": 13,
+      "location": 2,
+      "content": "心率自然就能降下来",
+      "music": 0.0
+    },
+    {
+      "from": 24.619,
+      "to": 25.879,
+      "sid": 14,
+      "location": 2,
+      "content": "220减年龄",
+      "music": 0.0
+    },
+    {
+      "from": 25.879,
+      "to": 26.719,
+      "sid": 15,
+      "location": 2,
+      "content": "掐指一算",
+      "music": 0.0
+    },
+    {
+      "from": 26.719,
+      "to": 28.519,
+      "sid": 16,
+      "location": 2,
+      "content": "你的最大心率就算出来了",
+      "music": 0.0
+    },
+    {
+      "from": 28.519,
+      "to": 29.879,
+      "sid": 17,
+      "location": 2,
+      "content": "听起来都挺专业",
+      "music": 0.0
+    },
+    {
+      "from": 29.879,
+      "to": 31.08,
+      "sid": 18,
+      "location": 2,
+      "content": "其实都在误导你",
+      "music": 0.0
+    },
+    {
+      "from": 31.08,
+      "to": 34.06,
+      "sid": 19,
+      "location": 2,
+      "content": "今天呢把这些谣言挨个跟大家猜清楚",
+      "music": 0.0
+    },
+    {
+      "from": 34.06,
+      "to": 35.08,
+      "sid": 20,
+      "location": 2,
+      "content": "第一个",
+      "music": 0.0
+    },
+    {
+      "from": 35.08,
+      "to": 36.78,
+      "sid": 21,
+      "location": 2,
+      "content": "只要你一直慢跑",
+      "music": 0.0
+    },
+    {
+      "from": 36.78,
+      "to": 38.8,
+      "sid": 22,
+      "location": 2,
+      "content": "心率自然而然就降下来",
+      "music": 0.0
+    },
+    {
+      "from": 38.8,
+      "to": 40.4,
+      "sid": 23,
+      "location": 2,
+      "content": "这是个妥妥的误区哈",
+      "music": 0.0
+    },
+    {
+      "from": 40.4,
+      "to": 42.58,
+      "sid": 24,
+      "location": 2,
+      "content": "除了新手前几个月之外",
+      "music": 0.0
+    },
+    {
+      "from": 42.58,
+      "to": 44.44,
+      "sid": 25,
+      "location": 2,
+      "content": "纯慢跑这件事情做久了",
+      "music": 0.0
+    },
+    {
+      "from": 44.44,
+      "to": 45.74,
+      "sid": 26,
+      "location": 2,
+      "content": "除了越跑越慢",
+      "music": 0.0
+    },
+    {
+      "from": 45.74,
+      "to": 48.19,
+      "sid": 27,
+      "location": 2,
+      "content": "对你控心率不会有什么很大的收益",
+      "music": 0.0
+    },
+    {
+      "from": 48.19,
+      "to": 49.47,
+      "sid": 28,
+      "location": 2,
+      "content": "我们说要堆跑量",
+      "music": 0.0
+    },
+    {
+      "from": 49.47,
+      "to": 50.89,
+      "sid": 29,
+      "location": 2,
+      "content": "但不能只堆跑量",
+      "music": 0.0
+    },
+    {
+      "from": 50.89,
+      "to": 52.23,
+      "sid": 30,
+      "location": 2,
+      "content": "如果说你完全慢跑",
+      "music": 0.0
+    },
+    {
+      "from": 52.23,
+      "to": 53.86,
+      "sid": 31,
+      "location": 2,
+      "content": "不接触一丢丢的快",
+      "music": 0.0
+    },
+    {
+      "from": 53.86,
+      "to": 55.44,
+      "sid": 32,
+      "location": 2,
+      "content": "不去摸摸上限哈",
+      "music": 0.0
+    },
+    {
+      "from": 55.44,
+      "to": 57.52,
+      "sid": 33,
+      "location": 2,
+      "content": "你都没有在五分配难受过",
+      "music": 0.0
+    },
+    {
+      "from": 57.52,
+      "to": 60.3,
+      "sid": 34,
+      "location": 2,
+      "content": "怎么可能把六分配跑成轻松跑呢",
+      "music": 0.0
+    },
+    {
+      "from": 60.3,
+      "to": 61.66,
+      "sid": 35,
+      "location": 2,
+      "content": "我之前跟大家讲过了",
+      "music": 0.0
+    },
+    {
+      "from": 61.66,
+      "to": 64.099,
+      "sid": 36,
+      "location": 2,
+      "content": "所谓降心率分成三个阶段",
+      "music": 0.0
+    },
+    {
+      "from": 64.099,
+      "to": 66.619,
+      "sid": 37,
+      "location": 2,
+      "content": "首先第一个阶段新手期前几个月啊",
+      "music": 0.0
+    },
+    {
+      "from": 66.619,
+      "to": 67.459,
+      "sid": 38,
+      "location": 2,
+      "content": "你只要慢跑",
+      "music": 0.0
+    },
+    {
+      "from": 67.459,
+      "to": 68.599,
+      "sid": 39,
+      "location": 2,
+      "content": "养成跑步习惯",
+      "music": 0.0
+    },
+    {
+      "from": 68.599,
+      "to": 70.059,
+      "sid": 40,
+      "location": 2,
+      "content": "心率就可以稳下来",
+      "music": 0.0
+    },
+    {
+      "from": 70.059,
+      "to": 71.719,
+      "sid": 41,
+      "location": 2,
+      "content": "这个阶段慢跑没有问题",
+      "music": 0.0
+    },
+    {
+      "from": 71.719,
+      "to": 73.819,
+      "sid": 42,
+      "location": 2,
+      "content": "但是到第二个阶段",
+      "music": 0.0
+    },
+    {
+      "from": 73.819,
+      "to": 74.639,
+      "sid": 43,
+      "location": 2,
+      "content": "新手期过了",
+      "music": 0.0
+    },
+    {
+      "from": 74.639,
+      "to": 76.699,
+      "sid": 44,
+      "location": 2,
+      "content": "你卡住瓶颈降不了的时候",
+      "music": 0.0
+    },
+    {
+      "from": 76.699,
+      "to": 79.02,
+      "sid": 45,
+      "location": 2,
+      "content": "就要开始接触一点点快",
+      "music": 0.0
+    },
+    {
+      "from": 79.02,
+      "to": 80.22,
+      "sid": 46,
+      "location": 2,
+      "content": "最简单的办法就是",
+      "music": 0.0
+    },
+    {
+      "from": 80.22,
+      "to": 82.38,
+      "sid": 47,
+      "location": 2,
+      "content": "在每次有氧慢跑的最后一公里",
+      "music": 0.0
+    },
+    {
+      "from": 82.38,
+      "to": 84.02,
+      "sid": 48,
+      "location": 2,
+      "content": "加速30~60秒",
+      "music": 0.0
+    },
+    {
+      "from": 84.02,
+      "to": 86.0,
+      "sid": 49,
+      "location": 2,
+      "content": "完成做一点点的快慢结合",
+      "music": 0.0
+    },
+    {
+      "from": 86.0,
+      "to": 89.02,
+      "sid": 50,
+      "location": 2,
+      "content": "那你就可以突破你第一次降心率的瓶颈",
+      "music": 0.0
+    },
+    {
+      "from": 89.02,
+      "to": 90.91,
+      "sid": 51,
+      "location": 2,
+      "content": "然后第三个阶段对吧",
+      "music": 0.0
+    },
+    {
+      "from": 90.91,
+      "to": 93.13,
+      "sid": 52,
+      "location": 2,
+      "content": "你又会碰到新的降心率的瓶颈",
+      "music": 0.0
+    },
+    {
+      "from": 93.13,
+      "to": 96.39,
+      "sid": 53,
+      "location": 2,
+      "content": "这个时候就每一周单独哪一次训练出来",
+      "music": 0.0
+    },
+    {
+      "from": 96.39,
+      "to": 97.27,
+      "sid": 54,
+      "location": 2,
+      "content": "上强度啊",
+      "music": 0.0
+    },
+    {
+      "from": 97.27,
+      "to": 98.23,
+      "sid": 55,
+      "location": 2,
+      "content": "稍微跑得快一点",
+      "music": 0.0
+    },
+    {
+      "from": 98.23,
+      "to": 100.98,
+      "sid": 56,
+      "location": 2,
+      "content": "又可以达到新的稳心率的效果",
+      "music": 0.0
+    },
+    {
+      "from": 100.98,
+      "to": 103.46,
+      "sid": 57,
+      "location": 2,
+      "content": "所以说问题不是在慢跑本身啊",
+      "music": 0.0
+    },
+    {
+      "from": 103.46,
+      "to": 106.66,
+      "sid": 58,
+      "location": 2,
+      "content": "而是说你不能纯慢跑去空心率啊",
+      "music": 0.0
+    },
+    {
+      "from": 106.66,
+      "to": 107.92,
+      "sid": 59,
+      "location": 2,
+      "content": "这是第一个谣言",
+      "music": 0.0
+    },
+    {
+      "from": 107.92,
+      "to": 111.52,
+      "sid": 60,
+      "location": 2,
+      "content": "那第二个的话就是有氧心率必须在100次以内",
+      "music": 0.0
+    },
+    {
+      "from": 111.52,
+      "to": 112.72,
+      "sid": 61,
+      "location": 2,
+      "content": "抬脚心率180",
+      "music": 0.0
+    },
+    {
+      "from": 112.72,
+      "to": 114.41,
+      "sid": 62,
+      "location": 2,
+      "content": "那你就不适合跑步",
+      "music": 0.0
+    },
+    {
+      "from": 114.41,
+      "to": 115.01,
+      "sid": 63,
+      "location": 2,
+      "content": "这种话",
+      "music": 0.0
+    },
+    {
+      "from": 115.01,
+      "to": 117.25,
+      "sid": 64,
+      "location": 2,
+      "content": "下次再听到你直接把他拉黑就可以了",
+      "music": 0.0
+    },
+    {
+      "from": 117.25,
+      "to": 119.09,
+      "sid": 65,
+      "location": 2,
+      "content": "就人和人是不一样的",
+      "music": 0.0
+    },
+    {
+      "from": 119.09,
+      "to": 120.21,
+      "sid": 66,
+      "location": 2,
+      "content": "这是基本的常识",
+      "music": 0.0
+    },
+    {
+      "from": 120.21,
+      "to": 124.18,
+      "sid": 67,
+      "location": 2,
+      "content": "就是每一个人他的有氧心率区间本来就不一样",
+      "music": 0.0
+    },
+    {
+      "from": 124.18,
+      "to": 126.06,
+      "sid": 68,
+      "location": 2,
+      "content": "它跟你的最大心率有关",
+      "music": 0.0
+    },
+    {
+      "from": 126.06,
+      "to": 127.46,
+      "sid": 69,
+      "location": 2,
+      "content": "跟你的静息心率有关",
+      "music": 0.0
+    },
+    {
+      "from": 127.46,
+      "to": 129.11,
+      "sid": 70,
+      "location": 2,
+      "content": "也跟你的基础能力有关",
+      "music": 0.0
+    },
+    {
+      "from": 129.11,
+      "to": 131.49,
+      "sid": 71,
+      "location": 2,
+      "content": "更重要是跟你的运动天赋有关",
+      "music": 0.0
+    },
+    {
+      "from": 131.49,
+      "to": 133.35,
+      "sid": 72,
+      "location": 2,
+      "content": "有些人跑跑跑步的时候",
+      "music": 0.0
+    },
+    {
+      "from": 133.35,
+      "to": 134.87,
+      "sid": 73,
+      "location": 2,
+      "content": "心率150就已经很惨了",
+      "music": 0.0
+    },
+    {
+      "from": 134.87,
+      "to": 137.01,
+      "sid": 74,
+      "location": 2,
+      "content": "有些人170还能正常聊天",
+      "music": 0.0
+    },
+    {
+      "from": 137.01,
+      "to": 139.75,
+      "sid": 75,
+      "location": 2,
+      "content": "这个就是人和人之间的个体差异",
+      "music": 0.0
+    },
+    {
+      "from": 139.75,
+      "to": 142.039,
+      "sid": 76,
+      "location": 2,
+      "content": "而且新手刚开始跑步",
+      "music": 0.0
+    },
+    {
+      "from": 142.039,
+      "to": 143.319,
+      "sid": 77,
+      "location": 2,
+      "content": "一抬脚心率160",
+      "music": 0.0
+    },
+    {
+      "from": 143.319,
+      "to": 143.839,
+      "sid": 78,
+      "location": 2,
+      "content": "170",
+      "music": 0.0
+    },
+    {
+      "from": 143.839,
+      "to": 144.599,
+      "sid": 79,
+      "location": 2,
+      "content": "非常正常",
+      "music": 0.0
+    },
+    {
+      "from": 144.599,
+      "to": 146.279,
+      "sid": 80,
+      "location": 2,
+      "content": "因为你没有运动基础啊",
+      "music": 0.0
+    },
+    {
+      "from": 146.279,
+      "to": 149.51,
+      "sid": 81,
+      "location": 2,
+      "content": "心肺系统一开始上来承受的压力本来就很大",
+      "music": 0.0
+    },
+    {
+      "from": 149.51,
+      "to": 152.75,
+      "sid": 82,
+      "location": 2,
+      "content": "所以说心率数字本身没有那么重要",
+      "music": 0.0
+    },
+    {
+      "from": 152.75,
+      "to": 154.79,
+      "sid": 83,
+      "location": 2,
+      "content": "就过了新手阶段之后",
+      "music": 0.0
+    },
+    {
+      "from": 154.79,
+      "to": 159.01,
+      "sid": 84,
+      "location": 2,
+      "content": "你只要跑前关注你的hr v够不够稳定看看",
+      "music": 0.0
+    },
+    {
+      "from": 159.01,
+      "to": 161.61,
+      "sid": 85,
+      "location": 2,
+      "content": "然后跑中看看你的心率漂移大不大",
+      "music": 0.0
+    },
+    {
+      "from": 161.61,
+      "to": 162.69,
+      "sid": 86,
+      "location": 2,
+      "content": "跑完之后60秒",
+      "music": 0.0
+    },
+    {
+      "from": 162.69,
+      "to": 165.04,
+      "sid": 87,
+      "location": 2,
+      "content": "看你的心率恢复的快不快",
+      "music": 0.0
+    },
+    {
+      "from": 165.04,
+      "to": 168.5,
+      "sid": 88,
+      "location": 2,
+      "content": "这些指标决定了你的有氧运动系统的能力",
+      "music": 0.0
+    },
+    {
+      "from": 168.5,
+      "to": 170.48,
+      "sid": 89,
+      "location": 2,
+      "content": "比你盯着心率那个数字看啊",
+      "music": 0.0
+    },
+    {
+      "from": 170.48,
+      "to": 171.57,
+      "sid": 90,
+      "location": 2,
+      "content": "有意义得多",
+      "music": 0.0
+    },
+    {
+      "from": 171.57,
+      "to": 172.77,
+      "sid": 91,
+      "location": 2,
+      "content": "这是第二个谣言",
+      "music": 0.0
+    },
+    {
+      "from": 172.77,
+      "to": 175.35,
+      "sid": 92,
+      "location": 2,
+      "content": "那第三个谣言呢就是经典的哈",
+      "music": 0.0
+    },
+    {
+      "from": 175.35,
+      "to": 178.01,
+      "sid": 93,
+      "location": 2,
+      "content": "年龄220减年龄算最大心率",
+      "music": 0.0
+    },
+    {
+      "from": 178.01,
+      "to": 179.93,
+      "sid": 94,
+      "location": 2,
+      "content": "180减年龄算有氧心率哈",
+      "music": 0.0
+    },
+    {
+      "from": 179.93,
+      "to": 181.579,
+      "sid": 95,
+      "location": 2,
+      "content": "这个道理很简单",
+      "music": 0.0
+    },
+    {
+      "from": 181.579,
+      "to": 183.299,
+      "sid": 96,
+      "location": 2,
+      "content": "假如这个公式成立的话",
+      "music": 0.0
+    },
+    {
+      "from": 183.299,
+      "to": 185.319,
+      "sid": 97,
+      "location": 2,
+      "content": "那所有年龄一样的人",
+      "music": 0.0
+    },
+    {
+      "from": 185.319,
+      "to": 187.399,
+      "sid": 98,
+      "location": 2,
+      "content": "心率水平是不是该一模一样",
+      "music": 0.0
+    },
+    {
+      "from": 187.399,
+      "to": 188.9,
+      "sid": 99,
+      "location": 2,
+      "content": "那你看我们一样吗",
+      "music": 0.0
+    },
+    {
+      "from": 188.9,
+      "to": 191.42,
+      "sid": 100,
+      "location": 2,
+      "content": "卡哥的有氧心率在一百二一百三",
+      "music": 0.0
+    },
+    {
+      "from": 191.42,
+      "to": 194.56,
+      "sid": 101,
+      "location": 2,
+      "content": "我的队友心率在有氧心率在一百五一百六",
+      "music": 0.0
+    },
+    {
+      "from": 194.56,
+      "to": 196.86,
+      "sid": 102,
+      "location": 2,
+      "content": "那你的跟我的又不一样",
+      "music": 0.0
+    },
+    {
+      "from": 196.86,
+      "to": 199.98,
+      "sid": 103,
+      "location": 2,
+      "content": "因为这个公式本质上它就是一个算平均数的",
+      "music": 0.0
+    },
+    {
+      "from": 199.98,
+      "to": 201.28,
+      "sid": 104,
+      "location": 2,
+      "content": "很粗略的公式哈",
+      "music": 0.0
+    },
+    {
+      "from": 201.28,
+      "to": 204.24,
+      "sid": 105,
+      "location": 2,
+      "content": "跟你这个具体的人没有直接的关系",
+      "music": 0.0
+    },
+    {
+      "from": 204.24,
+      "to": 205.35,
+      "sid": 106,
+      "location": 2,
+      "content": "打个比方",
+      "music": 0.0
+    },
+    {
+      "from": 205.35,
+      "to": 209.59,
+      "sid": 107,
+      "location": 2,
+      "content": "你跟马斯克财富一平均人均4000亿美元",
+      "music": 0.0
+    },
+    {
+      "from": 209.59,
+      "to": 211.69,
+      "sid": 108,
+      "location": 2,
+      "content": "那请问你真的有4000亿吗",
+      "music": 0.0
+    },
+    {
+      "from": 211.69,
+      "to": 212.97,
+      "sid": 109,
+      "location": 2,
+      "content": "没有吧",
+      "music": 0.0
+    },
+    {
+      "from": 212.97,
+      "to": 215.55,
+      "sid": 110,
+      "location": 2,
+      "content": "所以真正靠谱的算法是怎么算",
+      "music": 0.0
+    },
+    {
+      "from": 215.55,
+      "to": 216.9,
+      "sid": 111,
+      "location": 2,
+      "content": "不是用年龄去算",
+      "music": 0.0
+    },
+    {
+      "from": 216.9,
+      "to": 218.76,
+      "sid": 112,
+      "location": 2,
+      "content": "而是我之前跟大家讲了",
+      "music": 0.0
+    },
+    {
+      "from": 218.76,
+      "to": 222.76,
+      "sid": 113,
+      "location": 2,
+      "content": "你要基于实际的测试去做你的阈值分区",
+      "music": 0.0
+    },
+    {
+      "from": 222.76,
+      "to": 224.76,
+      "sid": 114,
+      "location": 2,
+      "content": "或者是储备心率分区",
+      "music": 0.0
+    },
+    {
+      "from": 224.76,
+      "to": 226.4,
+      "sid": 115,
+      "location": 2,
+      "content": "但这里面还有一个前提",
+      "music": 0.0
+    },
+    {
+      "from": 226.4,
+      "to": 228.04,
+      "sid": 116,
+      "location": 2,
+      "content": "就是你的最大心率要测准",
+      "music": 0.0
+    },
+    {
+      "from": 228.04,
+      "to": 229.98,
+      "sid": 117,
+      "location": 2,
+      "content": "然后你的阈值心率也要测得准",
+      "music": 0.0
+    },
+    {
+      "from": 229.98,
+      "to": 232.44,
+      "sid": 118,
+      "location": 2,
+      "content": "然后你我们所谓的阈值分区法",
+      "music": 0.0
+    },
+    {
+      "from": 232.44,
+      "to": 233.64,
+      "sid": 119,
+      "location": 2,
+      "content": "储备心率分区法",
+      "music": 0.0
+    },
+    {
+      "from": 233.64,
+      "to": 236.66,
+      "sid": 120,
+      "location": 2,
+      "content": "才能够算出你的所谓的各个心率分区的",
+      "music": 0.0
+    },
+    {
+      "from": 236.66,
+      "to": 238.57,
+      "sid": 121,
+      "location": 2,
+      "content": "一个区间好",
+      "music": 0.0
+    },
+    {
+      "from": 238.57,
+      "to": 240.01,
+      "sid": 122,
+      "location": 2,
+      "content": "然后第四个谣言哈",
+      "music": 0.0
+    },
+    {
+      "from": 240.01,
+      "to": 243.89,
+      "sid": 123,
+      "location": 2,
+      "content": "就是降心率本身它也是一个伪命题",
+      "music": 0.0
+    },
+    {
+      "from": 243.89,
+      "to": 245.65,
+      "sid": 124,
+      "location": 2,
+      "content": "大家要先有个基本常识",
+      "music": 0.0
+    },
+    {
+      "from": 245.65,
+      "to": 247.47,
+      "sid": 125,
+      "location": 2,
+      "content": "就是你的最大心率",
+      "music": 0.0
+    },
+    {
+      "from": 247.47,
+      "to": 248.53,
+      "sid": 126,
+      "location": 2,
+      "content": "你的静息心率",
+      "music": 0.0
+    },
+    {
+      "from": 248.53,
+      "to": 250.12,
+      "sid": 127,
+      "location": 2,
+      "content": "你的有氧心率区间",
+      "music": 0.0
+    },
+    {
+      "from": 250.12,
+      "to": 253.04,
+      "sid": 128,
+      "location": 2,
+      "content": "这些数字在相当长的一个周期里面",
+      "music": 0.0
+    },
+    {
+      "from": 253.04,
+      "to": 255.06,
+      "sid": 129,
+      "location": 2,
+      "content": "通常不会有什么变化",
+      "music": 0.0
+    },
+    {
+      "from": 255.06,
+      "to": 257.66,
+      "sid": 130,
+      "location": 2,
+      "content": "所以说你跑步并不是把自己的有氧心率",
+      "music": 0.0
+    },
+    {
+      "from": 257.66,
+      "to": 259.28,
+      "sid": 131,
+      "location": 2,
+      "content": "从180跑到130",
+      "music": 0.0
+    },
+    {
+      "from": 259.28,
+      "to": 262.25,
+      "sid": 132,
+      "location": 2,
+      "content": "真正变化的是你的配速能力",
+      "music": 0.0
+    },
+    {
+      "from": 262.25,
+      "to": 265.15,
+      "sid": 133,
+      "location": 2,
+      "content": "以前你心率150只能跑十分配",
+      "music": 0.0
+    },
+    {
+      "from": 265.15,
+      "to": 268.01,
+      "sid": 134,
+      "location": 2,
+      "content": "后面你心率150可以跑到五分配",
+      "music": 0.0
+    },
+    {
+      "from": 268.01,
+      "to": 269.23,
+      "sid": 135,
+      "location": 2,
+      "content": "这个才叫进步",
+      "music": 0.0
+    },
+    {
+      "from": 269.23,
+      "to": 271.71,
+      "sid": 136,
+      "location": 2,
+      "content": "那为什么很多人觉得自己降心率了",
+      "music": 0.0
+    },
+    {
+      "from": 271.71,
+      "to": 275.319,
+      "sid": 137,
+      "location": 2,
+      "content": "因为你再回去跑十分配的时候",
+      "music": 0.0
+    },
+    {
+      "from": 275.319,
+      "to": 277.319,
+      "sid": 138,
+      "location": 2,
+      "content": "你会发现心率只有一百二一百三",
+      "music": 0.0
+    },
+    {
+      "from": 277.319,
+      "to": 279.159,
+      "sid": 139,
+      "location": 2,
+      "content": "你会说啊我的心率降下来了",
+      "music": 0.0
+    },
+    {
+      "from": 279.159,
+      "to": 281.86,
+      "sid": 140,
+      "location": 2,
+      "content": "其实是你的有氧配速能力提上来了",
+      "music": 0.0
+    },
+    {
+      "from": 281.86,
+      "to": 283.58,
+      "sid": 141,
+      "location": 2,
+      "content": "所以我很早就讲过这句话啊",
+      "music": 0.0
+    },
+    {
+      "from": 283.58,
+      "to": 287.14,
+      "sid": 142,
+      "location": 2,
+      "content": "就所有拼命追求跑步降心率的人",
+      "music": 0.0
+    },
+    {
+      "from": 287.14,
+      "to": 289.36,
+      "sid": 143,
+      "location": 2,
+      "content": "最后都会回到速度训练上面",
+      "music": 0.0
+    },
+    {
+      "from": 289.36,
+      "to": 292.99,
+      "sid": 144,
+      "location": 2,
+      "content": "因为只有有氧基础加上速度能力",
+      "music": 0.0
+    },
+    {
+      "from": 292.99,
+      "to": 294.63,
+      "sid": 145,
+      "location": 2,
+      "content": "加上合理的强度安排",
+      "music": 0.0
+    },
+    {
+      "from": 294.63,
+      "to": 299.28,
+      "sid": 146,
+      "location": 2,
+      "content": "你的有氧配速效率才会真正的往上走好",
+      "music": 0.0
+    },
+    {
+      "from": 299.28,
+      "to": 302.56,
+      "sid": 147,
+      "location": 2,
+      "content": "以上的话就是今天想跟大家去梳理的四个哈",
+      "music": 0.0
+    },
+    {
+      "from": 302.56,
+      "to": 303.76,
+      "sid": 148,
+      "location": 2,
+      "content": "大家问的很多的",
+      "music": 0.0
+    },
+    {
+      "from": 303.76,
+      "to": 307.23,
+      "sid": 149,
+      "location": 2,
+      "content": "最经典的跑步匠心的一些谣言和误区吧",
+      "music": 0.0
+    },
+    {
+      "from": 307.23,
+      "to": 310.27,
+      "sid": 150,
+      "location": 2,
+      "content": "那以后就不要被这些话搞得很焦虑啊",
+      "music": 0.0
+    },
+    {
+      "from": 310.27,
+      "to": 313.57,
+      "sid": 151,
+      "location": 2,
+      "content": "你真正应该关注的不是什么固定的一些数字",
+      "music": 0.0
+    },
+    {
+      "from": 313.57,
+      "to": 317.289,
+      "sid": 152,
+      "location": 2,
+      "content": "你要关注的是你的体感能力的恢复",
+      "music": 0.0
+    },
+    {
+      "from": 317.289,
+      "to": 320.109,
+      "sid": 153,
+      "location": 2,
+      "content": "还有你长期的一些数字变化的趋势",
+      "music": 0.0
+    },
+    {
+      "from": 320.109,
+      "to": 321.44,
+      "sid": 154,
+      "location": 2,
+      "content": "这些它更有意义",
+      "music": 0.0
+    },
+    {
+      "from": 321.44,
+      "to": 322.72,
+      "sid": 155,
+      "location": 2,
+      "content": "好我是卡哥",
+      "music": 0.0
+    },
+    {
+      "from": 322.72,
+      "to": 324.34,
+      "sid": 156,
+      "location": 2,
+      "content": "我们明天再见",
+      "music": 0.0
+    },
+    {
+      "from": 324.34,
+      "to": 325.08,
+      "sid": 157,
+      "location": 2,
+      "content": "拜拜",
+      "music": 0.0
+    }
+  ]
+}

@@ -1,0 +1,476 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "sync-v1.7.0.4",
+  "body": [
+    {
+      "from": 3.04,
+      "to": 4.92,
+      "sid": 1,
+      "location": 2,
+      "content": "哈喽各位跑步的小伙伴们",
+      "music": 0.0
+    },
+    {
+      "from": 4.92,
+      "to": 5.84,
+      "sid": 2,
+      "location": 2,
+      "content": "大家好啊",
+      "music": 0.0
+    },
+    {
+      "from": 5.84,
+      "to": 10.2,
+      "sid": 3,
+      "location": 2,
+      "content": "我看到很多购买了佳明手表的小伙伴们不会设置心率",
+      "music": 0.0
+    },
+    {
+      "from": 10.2,
+      "to": 13.2,
+      "sid": 4,
+      "location": 2,
+      "content": "佳明手表心率区间设置方法呢一共有三种",
+      "music": 0.0
+    },
+    {
+      "from": 13.2,
+      "to": 15.12,
+      "sid": 5,
+      "location": 2,
+      "content": "分别是最大心率百分比",
+      "music": 0.0
+    },
+    {
+      "from": 15.12,
+      "to": 17.939,
+      "sid": 6,
+      "location": 2,
+      "content": "乳酸阈值百分比以及储备心率百分比",
+      "music": 0.0
+    },
+    {
+      "from": 17.939,
+      "to": 23.039,
+      "sid": 7,
+      "location": 2,
+      "content": "今天我教大家如何用储备心率百分比对您的手表进行设置",
+      "music": 0.0
+    },
+    {
+      "from": 23.039,
+      "to": 26.44,
+      "sid": 8,
+      "location": 2,
+      "content": "让它更好地指导我们运动和跑步好",
+      "music": 0.0
+    },
+    {
+      "from": 26.44,
+      "to": 33.8,
+      "sid": 9,
+      "location": 2,
+      "content": "那么接下来我们通过connect这个app来进行对于储备心率法的设置",
+      "music": 0.0
+    },
+    {
+      "from": 33.8,
+      "to": 36.19,
+      "sid": 10,
+      "location": 2,
+      "content": "首先我们打开这个app",
+      "music": 0.0
+    },
+    {
+      "from": 36.19,
+      "to": 42.99,
+      "sid": 11,
+      "location": 2,
+      "content": "点击最上面一排手表的图案下翻找到用户信息",
+      "music": 0.0
+    },
+    {
+      "from": 42.99,
+      "to": 43.75,
+      "sid": 12,
+      "location": 2,
+      "content": "点击进去",
+      "music": 0.0
+    },
+    {
+      "from": 44.79,
+      "to": 46.77,
+      "sid": 13,
+      "location": 2,
+      "content": "打到心率和功率区间",
+      "music": 0.0
+    },
+    {
+      "from": 46.77,
+      "to": 49.605,
+      "sid": 14,
+      "location": 2,
+      "content": "点击进去点击心率",
+      "music": 0.0
+    },
+    {
+      "from": 50.13,
+      "to": 52.65,
+      "sid": 15,
+      "location": 2,
+      "content": "这时候我们看到有几项数据",
+      "music": 0.0
+    },
+    {
+      "from": 52.65,
+      "to": 54.51,
+      "sid": 16,
+      "location": 2,
+      "content": "第一是最大心率",
+      "music": 0.0
+    },
+    {
+      "from": 54.51,
+      "to": 56.63,
+      "sid": 17,
+      "location": 2,
+      "content": "第三是静止心率",
+      "music": 0.0
+    },
+    {
+      "from": 56.63,
+      "to": 59.37,
+      "sid": 18,
+      "location": 2,
+      "content": "这两个数据需要我们自行填入",
+      "music": 0.0
+    },
+    {
+      "from": 59.37,
+      "to": 62.47,
+      "sid": 19,
+      "location": 2,
+      "content": "关于怎么测量最大心率和静止心率",
+      "music": 0.0
+    },
+    {
+      "from": 62.47,
+      "to": 65.41,
+      "sid": 20,
+      "location": 2,
+      "content": "我会在评论区把这两种方法贴出来",
+      "music": 0.0
+    },
+    {
+      "from": 65.41,
+      "to": 68.699,
+      "sid": 21,
+      "location": 2,
+      "content": "大家请自行测试以后填入",
+      "music": 0.0
+    },
+    {
+      "from": 68.979,
+      "to": 71.259,
+      "sid": 22,
+      "location": 2,
+      "content": "在填入最大心率以及静息心率以后",
+      "music": 0.0
+    },
+    {
+      "from": 71.259,
+      "to": 73.419,
+      "sid": 23,
+      "location": 2,
+      "content": "我们点击区间",
+      "music": 0.0
+    },
+    {
+      "from": 74.509,
+      "to": 77.109,
+      "sid": 24,
+      "location": 2,
+      "content": "选择基于储备心率百分比",
+      "music": 0.0
+    },
+    {
+      "from": 78.149,
+      "to": 80.389,
+      "sid": 25,
+      "location": 2,
+      "content": "然后由下至上",
+      "music": 0.0
+    },
+    {
+      "from": 81.42,
+      "to": 82.62,
+      "sid": 26,
+      "location": 2,
+      "content": "Z1到Z5",
+      "music": 0.0
+    },
+    {
+      "from": 84.66,
+      "to": 86.59,
+      "sid": 27,
+      "location": 2,
+      "content": "按照59%",
+      "music": 0.0
+    },
+    {
+      "from": 86.59,
+      "to": 88.35,
+      "sid": 28,
+      "location": 2,
+      "content": "74%",
+      "music": 0.0
+    },
+    {
+      "from": 88.35,
+      "to": 89.77,
+      "sid": 29,
+      "location": 2,
+      "content": "84%",
+      "music": 0.0
+    },
+    {
+      "from": 89.77,
+      "to": 90.93,
+      "sid": 30,
+      "location": 2,
+      "content": "88%",
+      "music": 0.0
+    },
+    {
+      "from": 90.93,
+      "to": 93.91,
+      "sid": 31,
+      "location": 2,
+      "content": "以及95%填入",
+      "music": 0.0
+    },
+    {
+      "from": 95.5,
+      "to": 96.94,
+      "sid": 32,
+      "location": 2,
+      "content": "点击返回",
+      "music": 0.0
+    },
+    {
+      "from": 96.94,
+      "to": 98.96,
+      "sid": 33,
+      "location": 2,
+      "content": "下面有一个印度新例",
+      "music": 0.0
+    },
+    {
+      "from": 98.96,
+      "to": 102.59,
+      "sid": 34,
+      "location": 2,
+      "content": "点击进去选择跑步",
+      "music": 0.0
+    },
+    {
+      "from": 103.33,
+      "to": 106.73,
+      "sid": 35,
+      "location": 2,
+      "content": "然后将刚才一模一样的最大心率以及静止心率",
+      "music": 0.0
+    },
+    {
+      "from": 106.73,
+      "to": 112.83,
+      "sid": 36,
+      "location": 2,
+      "content": "以及区间区间内的各种数据完全照搬刚才的数据填入",
+      "music": 0.0
+    },
+    {
+      "from": 112.83,
+      "to": 114.699,
+      "sid": 37,
+      "location": 2,
+      "content": "然后进行返回",
+      "music": 0.0
+    },
+    {
+      "from": 114.699,
+      "to": 118.339,
+      "sid": 38,
+      "location": 2,
+      "content": "这样我们的储备心率设置已经设置完毕",
+      "music": 0.0
+    },
+    {
+      "from": 119.07,
+      "to": 120.23,
+      "sid": 39,
+      "location": 2,
+      "content": "设置完毕之后",
+      "music": 0.0
+    },
+    {
+      "from": 120.23,
+      "to": 121.91,
+      "sid": 40,
+      "location": 2,
+      "content": "我们再进行跑步运动",
+      "music": 0.0
+    },
+    {
+      "from": 121.91,
+      "to": 124.95,
+      "sid": 41,
+      "location": 2,
+      "content": "然后打开跑步这项活动",
+      "music": 0.0
+    },
+    {
+      "from": 126.62,
+      "to": 129.68,
+      "sid": 42,
+      "location": 2,
+      "content": "点击图标向上拖到最下面",
+      "music": 0.0
+    },
+    {
+      "from": 129.68,
+      "to": 136.28,
+      "sid": 43,
+      "location": 2,
+      "content": "你看到各个青绿区间用时有区间一到区间五",
+      "music": 0.0
+    },
+    {
+      "from": 136.28,
+      "to": 139.32,
+      "sid": 44,
+      "location": 2,
+      "content": "这边的区间一一百三十四到154",
+      "music": 0.0
+    },
+    {
+      "from": 139.32,
+      "to": 142.39,
+      "sid": 45,
+      "location": 2,
+      "content": "其实就是我们平常在说的二区心率",
+      "music": 0.0
+    },
+    {
+      "from": 142.39,
+      "to": 143.91,
+      "sid": 46,
+      "location": 2,
+      "content": "下面还有一个一区心率",
+      "music": 0.0
+    },
+    {
+      "from": 143.91,
+      "to": 146.87,
+      "sid": 47,
+      "location": 2,
+      "content": "就是小于134的这个心率",
+      "music": 0.0
+    },
+    {
+      "from": 146.87,
+      "to": 151.57,
+      "sid": 48,
+      "location": 2,
+      "content": "一般我们用作强度课或者比赛之后恢复跑的心率区间啊",
+      "music": 0.0
+    },
+    {
+      "from": 151.57,
+      "to": 155.19,
+      "sid": 49,
+      "location": 2,
+      "content": "155~168是我们全马比赛的心率",
+      "music": 0.0
+    },
+    {
+      "from": 155.19,
+      "to": 159.43,
+      "sid": 50,
+      "location": 2,
+      "content": "也就是如果您的全马比赛平均心率如果超过168",
+      "music": 0.0
+    },
+    {
+      "from": 159.43,
+      "to": 162.81,
+      "sid": 51,
+      "location": 2,
+      "content": "那这场比赛您就有可能会跑崩去街",
+      "music": 0.0
+    },
+    {
+      "from": 162.81,
+      "to": 166.93,
+      "sid": 52,
+      "location": 2,
+      "content": "3169~174是我们的半马比赛心旅",
+      "music": 0.0
+    },
+    {
+      "from": 166.93,
+      "to": 170.99,
+      "sid": 53,
+      "location": 2,
+      "content": "如果您的半马比赛中平均心率超过174",
+      "music": 0.0
+    },
+    {
+      "from": 170.99,
+      "to": 173.89,
+      "sid": 54,
+      "location": 2,
+      "content": "也就意味着这场比赛您有可能会跑崩",
+      "music": 0.0
+    },
+    {
+      "from": 173.89,
+      "to": 176.57,
+      "sid": 55,
+      "location": 2,
+      "content": "那么区间四一百七十五到183",
+      "music": 0.0
+    },
+    {
+      "from": 176.57,
+      "to": 179.23,
+      "sid": 56,
+      "location": 2,
+      "content": "这是我们五到10km比赛的心率区间",
+      "music": 0.0
+    },
+    {
+      "from": 179.23,
+      "to": 180.33,
+      "sid": 57,
+      "location": 2,
+      "content": "五大于183",
+      "music": 0.0
+    },
+    {
+      "from": 180.33,
+      "to": 183.78,
+      "sid": 58,
+      "location": 2,
+      "content": "至我们1500米比赛或者说间歇跑的心率",
+      "music": 0.0
+    }
+  ]
+}

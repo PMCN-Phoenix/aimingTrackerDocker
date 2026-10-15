@@ -1,0 +1,57 @@
+﻿[login] bili_10794259649 isLogin=True
+
+[1/18] BV1Lo4y1G7dD - 初跑者纠结的问题|心率区间与配速区间匹配不上|心率设备是否准确|是什么
+  no AI subtitle (checked 3x)
+
+[2/18] BV1Vm41127RA - 【鞋吧说】一个视频讲清楚关于运动心率的那点事儿
+  OK: 607 segs, cover 18:27/1110
+
+[3/18] BV1zo4y1m7uN - 【如何正确使用心率】燃脂更高效，提升成绩更快｜跑步心率区间怎么用，最大
+  OK: 159 segs, cover 05:10/313
+
+[4/18] BV1PZ421K7BL - 不同心率下身体会发生什么？
+  no AI subtitle (checked 3x)
+
+[5/18] BV1J2eY6SEtn - 如何打造怪兽级有氧系统
+  no AI subtitle (checked 3x)
+
+[6/18] BV1qh7b6xEDv - Zone 3（第三心率区间）训练的价值与误解
+  no AI subtitle (checked 3x)
+
+[7/18] BV1QgPDzpE7x - 从无效有氧到自杀式无氧 | 心率区间
+  OK: 185 segs, cover 06:17/378
+
+[8/18] BV1iJp96BE1u - 同样配速，心率越跑越高？这叫心率漂移
+  OK: 74 segs, cover 02:20/143
+
+[9/18] BV1iT411h7R6 - 速度耐力怎么练？乳酸阈值跑是什么？3*20min@344|马拉松速度耐
+  no AI subtitle (checked 3x)
+
+[10/18] BV1p4HW6bExx - t阈值跑:长跑训练的版本答案❓乳酸阈值入门指南❗马拉松跑者的强度课之王
+  OK: 162 segs, cover 05:43/347
+
+[11/18] BV1RbfnBFEim - 8个2000m间歇训练间歇是唯一能提高“乳酸阈值”的训练阈值越高，同样
+  OK: 45 segs, cover 01:11/72
+
+[12/18] BV1UTp8zzEFW - 新手跑马备战日记！丹尼尔斯 VDOT 训练法实测 + 3KM 轻松跑 
+  no AI subtitle (checked 3x)
+
+[13/18] BV18M41147Y7 - 「长跑祖师爷的计算器」如何一秒算出自己的跑步水平？VDOT跑力值超细解
+  OK: 309 segs, cover 10:13/619
+
+[14/18] BV1CHKP6KEZh - 马拉松精英教你设置【储备心率区间】
+  no AI subtitle (checked 3x)
+
+[15/18] BV1oLmwY4EWB - 快速计算心率区间（储备心率）
+  OK: 201 segs, cover 08:53/534
+
+[16/18] BV17DDKBgEiM - 干货！手把手教你设置佳明手表的心率区间！
+  OK: 58 segs, cover 03:03/188
+
+[17/18] BV1NkoLBFEdg - 有氧心率必须140以内？纯慢跑就降心率？你信过哪些跑圈谣言
+  OK: 157 segs, cover 05:25/326
+
+[18/18] BV1pf8q6pEcL - 【中长跑教学】最高效有氧训练｜乳酸阈值如此简单
+  OK: 126 segs, cover 03:59/241
+
+[done] 11/18 subtitles OK

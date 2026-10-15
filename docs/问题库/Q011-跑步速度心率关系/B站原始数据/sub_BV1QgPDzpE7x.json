@@ -1,0 +1,1492 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "v1.7.0.4",
+  "body": [
+    {
+      "from": 0.08,
+      "to": 2.6,
+      "sid": 1,
+      "location": 2,
+      "content": "为什么我说健身房跑步机上",
+      "music": 0.0
+    },
+    {
+      "from": 2.6,
+      "to": 4.84,
+      "sid": 2,
+      "location": 2,
+      "content": "这样的慢跑是无效有氧",
+      "music": 0.0
+    },
+    {
+      "from": 4.84,
+      "to": 7.28,
+      "sid": 3,
+      "location": 2,
+      "content": "为什么像吉天祥在大阪桥本",
+      "music": 0.0
+    },
+    {
+      "from": 7.28,
+      "to": 11.06,
+      "sid": 4,
+      "location": 2,
+      "content": "容易在东京这样的疯狂配速后面必崩",
+      "music": 0.0
+    },
+    {
+      "from": 11.06,
+      "to": 12.64,
+      "sid": 5,
+      "location": 2,
+      "content": "是自杀式跑法",
+      "music": 0.0
+    },
+    {
+      "from": 12.64,
+      "to": 14.56,
+      "sid": 6,
+      "location": 2,
+      "content": "这两个看似没有关系的事",
+      "music": 0.0
+    },
+    {
+      "from": 14.56,
+      "to": 17.009,
+      "sid": 7,
+      "location": 2,
+      "content": "其实底层逻辑是一件事",
+      "music": 0.0
+    },
+    {
+      "from": 17.009,
+      "to": 18.809,
+      "sid": 8,
+      "location": 2,
+      "content": "心率区间",
+      "music": 0.0
+    },
+    {
+      "from": 20.6,
+      "to": 23.18,
+      "sid": 9,
+      "location": 2,
+      "content": "把人的心脏比作汽车发动机",
+      "music": 0.0
+    },
+    {
+      "from": 23.18,
+      "to": 25.06,
+      "sid": 10,
+      "location": 2,
+      "content": "老司机开车看转速",
+      "music": 0.0
+    },
+    {
+      "from": 25.06,
+      "to": 26.86,
+      "sid": 11,
+      "location": 2,
+      "content": "高手跑步看心率",
+      "music": 0.0
+    },
+    {
+      "from": 26.86,
+      "to": 29.08,
+      "sid": 12,
+      "location": 2,
+      "content": "那像健身房跑步机这样晃悠",
+      "music": 0.0
+    },
+    {
+      "from": 29.08,
+      "to": 32.72,
+      "sid": 13,
+      "location": 2,
+      "content": "是的跑法我试过6km每小时配速就是十",
+      "music": 0.0
+    },
+    {
+      "from": 32.72,
+      "to": 36.06,
+      "sid": 14,
+      "location": 2,
+      "content": "我心率100相当于发动机怠速",
+      "music": 0.0
+    },
+    {
+      "from": 36.06,
+      "to": 37.6,
+      "sid": 15,
+      "location": 2,
+      "content": "典型的无效有氧",
+      "music": 0.0
+    },
+    {
+      "from": 37.6,
+      "to": 38.38,
+      "sid": 16,
+      "location": 2,
+      "content": "吭哧吭哧",
+      "music": 0.0
+    },
+    {
+      "from": 38.38,
+      "to": 39.72,
+      "sid": 17,
+      "location": 2,
+      "content": "健身房跑了半年",
+      "music": 0.0
+    },
+    {
+      "from": 39.72,
+      "to": 41.28,
+      "sid": 18,
+      "location": 2,
+      "content": "心肺能力没有强",
+      "music": 0.0
+    },
+    {
+      "from": 41.28,
+      "to": 42.46,
+      "sid": 19,
+      "location": 2,
+      "content": "体重没有降",
+      "music": 0.0
+    },
+    {
+      "from": 42.46,
+      "to": 44.24,
+      "sid": 20,
+      "location": 2,
+      "content": "反而可能胃口大涨",
+      "music": 0.0
+    },
+    {
+      "from": 44.24,
+      "to": 46.2,
+      "sid": 21,
+      "location": 2,
+      "content": "关键点就是心率太低了",
+      "music": 0.0
+    },
+    {
+      "from": 46.2,
+      "to": 49.32,
+      "sid": 22,
+      "location": 2,
+      "content": "而像东京马拉松上桥本龙一前20km",
+      "music": 0.0
+    },
+    {
+      "from": 49.32,
+      "to": 52.0,
+      "sid": 23,
+      "location": 2,
+      "content": "250以内这样的疯狂配速",
+      "music": 0.0
+    },
+    {
+      "from": 52.0,
+      "to": 54.34,
+      "sid": 24,
+      "location": 2,
+      "content": "相当于发动机踩进转速红区",
+      "music": 0.0
+    },
+    {
+      "from": 54.34,
+      "to": 55.82,
+      "sid": 25,
+      "location": 2,
+      "content": "导致水温过高",
+      "music": 0.0
+    },
+    {
+      "from": 55.82,
+      "to": 57.2,
+      "sid": 26,
+      "location": 2,
+      "content": "动力输出受限",
+      "music": 0.0
+    },
+    {
+      "from": 57.2,
+      "to": 59.24,
+      "sid": 27,
+      "location": 2,
+      "content": "那爆缸是自然而然的事",
+      "music": 0.0
+    },
+    {
+      "from": 59.24,
+      "to": 61.16,
+      "sid": 28,
+      "location": 2,
+      "content": "关键是心率太高",
+      "music": 0.0
+    },
+    {
+      "from": 61.16,
+      "to": 63.1,
+      "sid": 29,
+      "location": 2,
+      "content": "那今天一条视频讲清楚",
+      "music": 0.0
+    },
+    {
+      "from": 63.1,
+      "to": 65.879,
+      "sid": 30,
+      "location": 2,
+      "content": "跑步合适的心率和跑步五区间",
+      "music": 0.0
+    },
+    {
+      "from": 65.879,
+      "to": 67.759,
+      "sid": 31,
+      "location": 2,
+      "content": "来点个关注跟收藏",
+      "music": 0.0
+    },
+    {
+      "from": 67.759,
+      "to": 71.159,
+      "sid": 32,
+      "location": 2,
+      "content": "那各个品牌的手表划分或者叫法会有些差异啊",
+      "music": 0.0
+    },
+    {
+      "from": 71.159,
+      "to": 72.379,
+      "sid": 33,
+      "location": 2,
+      "content": "那我戴的是高驰",
+      "music": 0.0
+    },
+    {
+      "from": 72.379,
+      "to": 73.68,
+      "sid": 34,
+      "location": 2,
+      "content": "我以高驰手表为例",
+      "music": 0.0
+    },
+    {
+      "from": 73.68,
+      "to": 75.62,
+      "sid": 35,
+      "location": 2,
+      "content": "有三种不同的心率计算",
+      "music": 0.0
+    },
+    {
+      "from": 75.62,
+      "to": 76.66,
+      "sid": 36,
+      "location": 2,
+      "content": "最大心率区间",
+      "music": 0.0
+    },
+    {
+      "from": 76.66,
+      "to": 79.52,
+      "sid": 37,
+      "location": 2,
+      "content": "储备心率区间和乳酸阈心率区间",
+      "music": 0.0
+    },
+    {
+      "from": 79.52,
+      "to": 82.42,
+      "sid": 38,
+      "location": 2,
+      "content": "最大心率区间其实没有考虑到近期心率",
+      "music": 0.0
+    },
+    {
+      "from": 82.42,
+      "to": 83.56,
+      "sid": 39,
+      "location": 2,
+      "content": "这个个体的差异",
+      "music": 0.0
+    },
+    {
+      "from": 83.56,
+      "to": 86.56,
+      "sid": 40,
+      "location": 2,
+      "content": "相当于发动机没有考虑排量和涡轮增压",
+      "music": 0.0
+    },
+    {
+      "from": 86.56,
+      "to": 88.2,
+      "sid": 41,
+      "location": 2,
+      "content": "然后储备心率和乳酸",
+      "music": 0.0
+    },
+    {
+      "from": 88.2,
+      "to": 91.32,
+      "sid": 42,
+      "location": 2,
+      "content": "心率区间才是针对跑步训练比较科学",
+      "music": 0.0
+    },
+    {
+      "from": 91.32,
+      "to": 94.37,
+      "sid": 43,
+      "location": 2,
+      "content": "然后和丹尼尔斯经典跑步训练法的五区间",
+      "music": 0.0
+    },
+    {
+      "from": 94.37,
+      "to": 95.69,
+      "sid": 44,
+      "location": 2,
+      "content": "是相对应的",
+      "music": 0.0
+    },
+    {
+      "from": 95.69,
+      "to": 97.97,
+      "sid": 45,
+      "location": 2,
+      "content": "高级会多一个积极恢复区",
+      "music": 0.0
+    },
+    {
+      "from": 97.97,
+      "to": 98.97,
+      "sid": 46,
+      "location": 2,
+      "content": "恢复心率",
+      "music": 0.0
+    },
+    {
+      "from": 98.97,
+      "to": 100.13,
+      "sid": 47,
+      "location": 2,
+      "content": "就是我刚才讲的那种",
+      "music": 0.0
+    },
+    {
+      "from": 100.13,
+      "to": 102.06,
+      "sid": 48,
+      "location": 2,
+      "content": "跑步机上晃悠的那种心率啊",
+      "music": 0.0
+    },
+    {
+      "from": 102.06,
+      "to": 102.78,
+      "sid": 49,
+      "location": 2,
+      "content": "这个没用啊",
+      "music": 0.0
+    },
+    {
+      "from": 102.78,
+      "to": 106.14,
+      "sid": 50,
+      "location": 2,
+      "content": "所以剩下的五个区间分别对应有氧耐力区",
+      "music": 0.0
+    },
+    {
+      "from": 106.14,
+      "to": 107.86,
+      "sid": 51,
+      "location": 2,
+      "content": "对应的丹尼斯跑步训练法",
+      "music": 0.0
+    },
+    {
+      "from": 107.86,
+      "to": 108.98,
+      "sid": 52,
+      "location": 2,
+      "content": "就是E区啊",
+      "music": 0.0
+    },
+    {
+      "from": 108.98,
+      "to": 109.6,
+      "sid": 53,
+      "location": 2,
+      "content": "Easy run",
+      "music": 0.0
+    },
+    {
+      "from": 109.6,
+      "to": 111.86,
+      "sid": 54,
+      "location": 2,
+      "content": "或者我们通常讲一区轻松跑",
+      "music": 0.0
+    },
+    {
+      "from": 111.86,
+      "to": 114.7,
+      "sid": 55,
+      "location": 2,
+      "content": "储备心率大概是59%到74",
+      "music": 0.0
+    },
+    {
+      "from": 114.7,
+      "to": 115.92,
+      "sid": 56,
+      "location": 2,
+      "content": "储备心率计算公式",
+      "music": 0.0
+    },
+    {
+      "from": 115.92,
+      "to": 120.26,
+      "sid": 57,
+      "location": 2,
+      "content": "最大心率减去近心率乘以跑步强度的百分比",
+      "music": 0.0
+    },
+    {
+      "from": 120.26,
+      "to": 122.1,
+      "sid": 58,
+      "location": 2,
+      "content": "再加回静息心率的数值",
+      "music": 0.0
+    },
+    {
+      "from": 122.1,
+      "to": 123.5,
+      "sid": 59,
+      "location": 2,
+      "content": "那手表已经计算好",
+      "music": 0.0
+    },
+    {
+      "from": 123.5,
+      "to": 124.58,
+      "sid": 60,
+      "location": 2,
+      "content": "我们直接用就可以",
+      "music": 0.0
+    },
+    {
+      "from": 124.58,
+      "to": 126.92,
+      "sid": 61,
+      "location": 2,
+      "content": "像我是133~155",
+      "music": 0.0
+    },
+    {
+      "from": 126.92,
+      "to": 130.36,
+      "sid": 62,
+      "location": 2,
+      "content": "那这是日常有氧慢跑性价比最高的区间",
+      "music": 0.0
+    },
+    {
+      "from": 130.36,
+      "to": 132.3,
+      "sid": 63,
+      "location": 2,
+      "content": "高效燃脂训练心肺",
+      "music": 0.0
+    },
+    {
+      "from": 132.3,
+      "to": 133.82,
+      "sid": 64,
+      "location": 2,
+      "content": "easy的意思就是轻松",
+      "music": 0.0
+    },
+    {
+      "from": 133.82,
+      "to": 135.52,
+      "sid": 65,
+      "location": 2,
+      "content": "所以跑的时候不喘粗气",
+      "music": 0.0
+    },
+    {
+      "from": 135.52,
+      "to": 137.16,
+      "sid": 66,
+      "location": 2,
+      "content": "可以边跑边聊天",
+      "music": 0.0
+    },
+    {
+      "from": 137.16,
+      "to": 138.42,
+      "sid": 67,
+      "location": 2,
+      "content": "好好有训练感",
+      "music": 0.0
+    },
+    {
+      "from": 138.42,
+      "to": 140.28,
+      "sid": 68,
+      "location": 2,
+      "content": "但第二天不会太疲惫",
+      "music": 0.0
+    },
+    {
+      "from": 140.28,
+      "to": 143.28,
+      "sid": 69,
+      "location": 2,
+      "content": "那像手表上能够显示百分百的体能恢复",
+      "music": 0.0
+    },
+    {
+      "from": 143.28,
+      "to": 146.56,
+      "sid": 70,
+      "location": 2,
+      "content": "我们80%的跑量应该跑在这个区间",
+      "music": 0.0
+    },
+    {
+      "from": 146.56,
+      "to": 149.26,
+      "sid": 71,
+      "location": 2,
+      "content": "相当于发动机2000转的匀速行",
+      "music": 0.0
+    },
+    {
+      "from": 149.26,
+      "to": 150.46,
+      "sid": 72,
+      "location": 2,
+      "content": "非常的高效",
+      "music": 0.0
+    },
+    {
+      "from": 150.46,
+      "to": 153.02,
+      "sid": 73,
+      "location": 2,
+      "content": "所以我说看跑步机上那些慢速晃悠的",
+      "music": 0.0
+    },
+    {
+      "from": 153.02,
+      "to": 155.68,
+      "sid": 74,
+      "location": 2,
+      "content": "跑完是完全没有那种训练感",
+      "music": 0.0
+    },
+    {
+      "from": 155.68,
+      "to": 158.12,
+      "sid": 75,
+      "location": 2,
+      "content": "并没有进入一个有效的燃烧区间",
+      "music": 0.0
+    },
+    {
+      "from": 158.12,
+      "to": 161.76,
+      "sid": 76,
+      "location": 2,
+      "content": "所以我说就是相当于原地怠速无效有氧",
+      "music": 0.0
+    },
+    {
+      "from": 161.76,
+      "to": 163.36,
+      "sid": 77,
+      "location": 2,
+      "content": "这个其实你跑个一年两年",
+      "music": 0.0
+    },
+    {
+      "from": 163.36,
+      "to": 165.08,
+      "sid": 78,
+      "location": 2,
+      "content": "其实都不会有很大的用",
+      "music": 0.0
+    },
+    {
+      "from": 165.08,
+      "to": 167.22,
+      "sid": 79,
+      "location": 2,
+      "content": "然后是有氧动力区啊",
+      "music": 0.0
+    },
+    {
+      "from": 167.22,
+      "to": 168.94,
+      "sid": 80,
+      "location": 2,
+      "content": "叫马拉松配速区吧",
+      "music": 0.0
+    },
+    {
+      "from": 168.94,
+      "to": 170.58,
+      "sid": 81,
+      "location": 2,
+      "content": "或者我们叫二区心率储备",
+      "music": 0.0
+    },
+    {
+      "from": 170.58,
+      "to": 172.42,
+      "sid": 82,
+      "location": 2,
+      "content": "心率75%到84%",
+      "music": 0.0
+    },
+    {
+      "from": 172.42,
+      "to": 175.3,
+      "sid": 83,
+      "location": 2,
+      "content": "对我而言就是156~169的心率",
+      "music": 0.0
+    },
+    {
+      "from": 175.3,
+      "to": 176.42,
+      "sid": 84,
+      "location": 2,
+      "content": "这就不轻松了",
+      "music": 0.0
+    },
+    {
+      "from": 176.42,
+      "to": 178.96,
+      "sid": 85,
+      "location": 2,
+      "content": "对应配速406~420",
+      "music": 0.0
+    },
+    {
+      "from": 178.96,
+      "to": 181.02,
+      "sid": 86,
+      "location": 2,
+      "content": "但我觉得高级手表是高估我的啊",
+      "music": 0.0
+    },
+    {
+      "from": 181.02,
+      "to": 183.74,
+      "sid": 87,
+      "location": 2,
+      "content": "其实我跑进430配速就是这个强度",
+      "music": 0.0
+    },
+    {
+      "from": 183.74,
+      "to": 186.84,
+      "sid": 88,
+      "location": 2,
+      "content": "这也是我们全力去跑一场马拉松",
+      "music": 0.0
+    },
+    {
+      "from": 186.84,
+      "to": 189.5,
+      "sid": 89,
+      "location": 2,
+      "content": "应该全程在的心率区间",
+      "music": 0.0
+    },
+    {
+      "from": 189.5,
+      "to": 190.98,
+      "sid": 90,
+      "location": 2,
+      "content": "我上马PB310啊",
+      "music": 0.0
+    },
+    {
+      "from": 190.98,
+      "to": 192.58,
+      "sid": 91,
+      "location": 2,
+      "content": "我的平均配速是415",
+      "music": 0.0
+    },
+    {
+      "from": 192.58,
+      "to": 194.56,
+      "sid": 92,
+      "location": 2,
+      "content": "我的平均心率就是170",
+      "music": 0.0
+    },
+    {
+      "from": 194.56,
+      "to": 195.56,
+      "sid": 93,
+      "location": 2,
+      "content": "同马跑崩了啊",
+      "music": 0.0
+    },
+    {
+      "from": 195.56,
+      "to": 196.2,
+      "sid": 94,
+      "location": 2,
+      "content": "306啊",
+      "music": 0.0
+    },
+    {
+      "from": 196.2,
+      "to": 197.98,
+      "sid": 95,
+      "location": 2,
+      "content": "我的平均配速是四二",
+      "music": 0.0
+    },
+    {
+      "from": 197.98,
+      "to": 200.58,
+      "sid": 96,
+      "location": 2,
+      "content": "但其实38km以前都是415以内啊",
+      "music": 0.0
+    },
+    {
+      "from": 200.58,
+      "to": 202.38,
+      "sid": 97,
+      "location": 2,
+      "content": "我的平均心率是169",
+      "music": 0.0
+    },
+    {
+      "from": 202.38,
+      "to": 204.6,
+      "sid": 98,
+      "location": 2,
+      "content": "都跑在有氧动力的上限",
+      "music": 0.0
+    },
+    {
+      "from": 204.6,
+      "to": 205.78,
+      "sid": 99,
+      "location": 2,
+      "content": "有点注意的是",
+      "music": 0.0
+    },
+    {
+      "from": 205.78,
+      "to": 207.66,
+      "sid": 100,
+      "location": 2,
+      "content": "因为跑这个区间其实不轻松啊",
+      "music": 0.0
+    },
+    {
+      "from": 207.66,
+      "to": 209.78,
+      "sid": 101,
+      "location": 2,
+      "content": "马配如果跑15到20km的话",
+      "music": 0.0
+    },
+    {
+      "from": 209.78,
+      "to": 211.58,
+      "sid": 102,
+      "location": 2,
+      "content": "跑后是有明显疲惫感的",
+      "music": 0.0
+    },
+    {
+      "from": 211.58,
+      "to": 215.12,
+      "sid": 103,
+      "location": 2,
+      "content": "所以反而我们是不介于每天去跑这个配速",
+      "music": 0.0
+    },
+    {
+      "from": 215.12,
+      "to": 217.44,
+      "sid": 104,
+      "location": 2,
+      "content": "跟跑进这个行重点区来了啊",
+      "music": 0.0
+    },
+    {
+      "from": 217.44,
+      "to": 218.8,
+      "sid": 105,
+      "location": 2,
+      "content": "乳酸浴区啊",
+      "music": 0.0
+    },
+    {
+      "from": 218.8,
+      "to": 220.38,
+      "sid": 106,
+      "location": 2,
+      "content": "T区或者我们叫三区",
+      "music": 0.0
+    },
+    {
+      "from": 220.38,
+      "to": 222.0,
+      "sid": 107,
+      "location": 2,
+      "content": "也叫做混氧区啊",
+      "music": 0.0
+    },
+    {
+      "from": 222.0,
+      "to": 223.62,
+      "sid": 108,
+      "location": 2,
+      "content": "速度耐力节奏",
+      "music": 0.0
+    },
+    {
+      "from": 223.62,
+      "to": 224.72,
+      "sid": 109,
+      "location": 2,
+      "content": "跑配速区啊",
+      "music": 0.0
+    },
+    {
+      "from": 224.72,
+      "to": 227.94,
+      "sid": 110,
+      "location": 2,
+      "content": "储备心率的85%到88%很窄",
+      "music": 0.0
+    },
+    {
+      "from": 227.94,
+      "to": 229.78,
+      "sid": 111,
+      "location": 2,
+      "content": "所以代表就是那个临界点",
+      "music": 0.0
+    },
+    {
+      "from": 229.78,
+      "to": 231.62,
+      "sid": 112,
+      "location": 2,
+      "content": "感觉就是跑的时候会很顶",
+      "music": 0.0
+    },
+    {
+      "from": 231.62,
+      "to": 234.68,
+      "sid": 113,
+      "location": 2,
+      "content": "但是你咬咬牙呢还是能够顶下来",
+      "music": 0.0
+    },
+    {
+      "from": 234.68,
+      "to": 236.76,
+      "sid": 114,
+      "location": 2,
+      "content": "因为乳酸产生的速度",
+      "music": 0.0
+    },
+    {
+      "from": 236.76,
+      "to": 239.12,
+      "sid": 115,
+      "location": 2,
+      "content": "可能已经高出你排出的速度",
+      "music": 0.0
+    },
+    {
+      "from": 239.12,
+      "to": 240.48,
+      "sid": 116,
+      "location": 2,
+      "content": "造成乳酸堆积",
+      "music": 0.0
+    },
+    {
+      "from": 240.48,
+      "to": 242.32,
+      "sid": 117,
+      "location": 2,
+      "content": "所以一般人跑在这个心率",
+      "music": 0.0
+    },
+    {
+      "from": 242.32,
+      "to": 245.28,
+      "sid": 118,
+      "location": 2,
+      "content": "能够持续的时间就是20到40分钟",
+      "music": 0.0
+    },
+    {
+      "from": 245.28,
+      "to": 247.06,
+      "sid": 119,
+      "location": 2,
+      "content": "5km到10km是个极限",
+      "music": 0.0
+    },
+    {
+      "from": 247.06,
+      "to": 248.56,
+      "sid": 120,
+      "location": 2,
+      "content": "精英跑者很能顶的",
+      "music": 0.0
+    },
+    {
+      "from": 248.56,
+      "to": 249.44,
+      "sid": 121,
+      "location": 2,
+      "content": "把牙咬碎",
+      "music": 0.0
+    },
+    {
+      "from": 249.44,
+      "to": 250.8,
+      "sid": 122,
+      "location": 2,
+      "content": "最多能够顶个半",
+      "music": 0.0
+    },
+    {
+      "from": 250.8,
+      "to": 253.72,
+      "sid": 123,
+      "location": 2,
+      "content": "所以好的半马pp应该跑进这个配速区间",
+      "music": 0.0
+    },
+    {
+      "from": 253.72,
+      "to": 254.44,
+      "sid": 124,
+      "location": 2,
+      "content": "更新率的啊",
+      "music": 0.0
+    },
+    {
+      "from": 254.44,
+      "to": 257.16,
+      "sid": 125,
+      "location": 2,
+      "content": "那吉田想和桥本龙一这种自杀式跑法",
+      "music": 0.0
+    },
+    {
+      "from": 257.16,
+      "to": 259.48,
+      "sid": 126,
+      "location": 2,
+      "content": "就是全马上来跑进这个区间",
+      "music": 0.0
+    },
+    {
+      "from": 259.48,
+      "to": 262.3,
+      "sid": 127,
+      "location": 2,
+      "content": "20km后掉速其实是必然的",
+      "music": 0.0
+    },
+    {
+      "from": 263.82,
+      "to": 266.72,
+      "sid": 128,
+      "location": 2,
+      "content": "发动机高转速下在高速上狂奔",
+      "music": 0.0
+    },
+    {
+      "from": 266.72,
+      "to": 269.4,
+      "sid": 129,
+      "location": 2,
+      "content": "那这个速度这个心率是奔不到终点的",
+      "music": 0.0
+    },
+    {
+      "from": 269.4,
+      "to": 270.52,
+      "sid": 130,
+      "location": 2,
+      "content": "速度耐力区啊",
+      "music": 0.0
+    },
+    {
+      "from": 270.52,
+      "to": 274.32,
+      "sid": 131,
+      "location": 2,
+      "content": "I区间歇跑区间或者也叫最大摄氧量区间",
+      "music": 0.0
+    },
+    {
+      "from": 274.32,
+      "to": 276.66,
+      "sid": 132,
+      "location": 2,
+      "content": "储备心率的89%到95",
+      "music": 0.0
+    },
+    {
+      "from": 276.66,
+      "to": 278.78,
+      "sid": 133,
+      "location": 2,
+      "content": "也基本上已经达到了最大心率",
+      "music": 0.0
+    },
+    {
+      "from": 278.78,
+      "to": 281.2,
+      "sid": 134,
+      "location": 2,
+      "content": "所以如果要十测最大心率的话",
+      "music": 0.0
+    },
+    {
+      "from": 281.2,
+      "to": 282.88,
+      "sid": 135,
+      "location": 2,
+      "content": "而不是简单的220减年龄",
+      "music": 0.0
+    },
+    {
+      "from": 282.88,
+      "to": 284.4,
+      "sid": 136,
+      "location": 2,
+      "content": "这个有点不是很准",
+      "music": 0.0
+    },
+    {
+      "from": 284.4,
+      "to": 285.48,
+      "sid": 137,
+      "location": 2,
+      "content": "就可以跑几组",
+      "music": 0.0
+    },
+    {
+      "from": 285.48,
+      "to": 286.68,
+      "sid": 138,
+      "location": 2,
+      "content": "全力的间歇跑",
+      "music": 0.0
+    },
+    {
+      "from": 286.68,
+      "to": 288.04,
+      "sid": 139,
+      "location": 2,
+      "content": "基本上在第三组",
+      "music": 0.0
+    },
+    {
+      "from": 288.04,
+      "to": 291.32,
+      "sid": 140,
+      "location": 2,
+      "content": "到第四组就能够得到自己实际的最大心",
+      "music": 0.0
+    },
+    {
+      "from": 291.32,
+      "to": 292.32,
+      "sid": 141,
+      "location": 2,
+      "content": "那我是测过的",
+      "music": 0.0
+    },
+    {
+      "from": 292.32,
+      "to": 293.4,
+      "sid": 142,
+      "location": 2,
+      "content": "所以我现在192",
+      "music": 0.0
+    },
+    {
+      "from": 293.4,
+      "to": 295.08,
+      "sid": 143,
+      "location": 2,
+      "content": "最大心率就是实测而来的",
+      "music": 0.0
+    },
+    {
+      "from": 295.08,
+      "to": 297.8,
+      "sid": 144,
+      "location": 2,
+      "content": "相当于油门踩到底去测你的急速",
+      "music": 0.0
+    },
+    {
+      "from": 297.8,
+      "to": 299.88,
+      "sid": 145,
+      "location": 2,
+      "content": "所有人都没有办法持续很久",
+      "music": 0.0
+    },
+    {
+      "from": 299.88,
+      "to": 302.34,
+      "sid": 146,
+      "location": 2,
+      "content": "间歇的意思就是无法持续",
+      "music": 0.0
+    },
+    {
+      "from": 302.34,
+      "to": 305.68,
+      "sid": 147,
+      "location": 2,
+      "content": "所以中间必须要停下来去冷却休息",
+      "music": 0.0
+    },
+    {
+      "from": 305.68,
+      "to": 307.42,
+      "sid": 148,
+      "location": 2,
+      "content": "最后一个区无氧动力区",
+      "music": 0.0
+    },
+    {
+      "from": 307.42,
+      "to": 308.56,
+      "sid": 149,
+      "location": 2,
+      "content": "阿区100米",
+      "music": 0.0
+    },
+    {
+      "from": 308.56,
+      "to": 309.0,
+      "sid": 150,
+      "location": 2,
+      "content": "200米",
+      "music": 0.0
+    },
+    {
+      "from": 309.0,
+      "to": 310.24,
+      "sid": 151,
+      "location": 2,
+      "content": "这样短距离的冲刺",
+      "music": 0.0
+    },
+    {
+      "from": 310.24,
+      "to": 313.84,
+      "sid": 152,
+      "location": 2,
+      "content": "相当于地板由侧林板发动机要开启超增压模式",
+      "music": 0.0
+    },
+    {
+      "from": 313.84,
+      "to": 315.76,
+      "sid": 153,
+      "location": 2,
+      "content": "超跑的15秒真男人模式",
+      "music": 0.0
+    },
+    {
+      "from": 315.76,
+      "to": 317.98,
+      "sid": 154,
+      "location": 2,
+      "content": "那这个对于长跑来说其实没有任何意义",
+      "music": 0.0
+    },
+    {
+      "from": 317.98,
+      "to": 319.94,
+      "sid": 155,
+      "location": 2,
+      "content": "你不仅会带来心脏的伤害",
+      "music": 0.0
+    },
+    {
+      "from": 319.94,
+      "to": 320.54,
+      "sid": 156,
+      "location": 2,
+      "content": "还有身体",
+      "music": 0.0
+    },
+    {
+      "from": 320.54,
+      "to": 322.48,
+      "sid": 157,
+      "location": 2,
+      "content": "你平时用不到那些肌肉群",
+      "music": 0.0
+    },
+    {
+      "from": 322.48,
+      "to": 324.12,
+      "sid": 158,
+      "location": 2,
+      "content": "潜在的拉伤的风险",
+      "music": 0.0
+    },
+    {
+      "from": 324.12,
+      "to": 327.76,
+      "sid": 159,
+      "location": 2,
+      "content": "已经超越了我们身体设计的承受的范围",
+      "music": 0.0
+    },
+    {
+      "from": 327.76,
+      "to": 330.54,
+      "sid": 160,
+      "location": 2,
+      "content": "总结跑步心率太低就是恢复区啊",
+      "music": 0.0
+    },
+    {
+      "from": 330.54,
+      "to": 331.28,
+      "sid": 161,
+      "location": 2,
+      "content": "无效有氧",
+      "music": 0.0
+    },
+    {
+      "from": 331.28,
+      "to": 332.24,
+      "sid": 162,
+      "location": 2,
+      "content": "然后心率五区间",
+      "music": 0.0
+    },
+    {
+      "from": 332.24,
+      "to": 334.2,
+      "sid": 163,
+      "location": 2,
+      "content": "一区有氧耐力轻松高效",
+      "music": 0.0
+    },
+    {
+      "from": 334.2,
+      "to": 336.38,
+      "sid": 164,
+      "location": 2,
+      "content": "是我们应该更多跑的区间",
+      "music": 0.0
+    },
+    {
+      "from": 336.38,
+      "to": 338.7,
+      "sid": 165,
+      "location": 2,
+      "content": "二区有氧动力就全力以赴",
+      "music": 0.0
+    },
+    {
+      "from": 338.7,
+      "to": 341.1,
+      "sid": 166,
+      "location": 2,
+      "content": "我们马拉松PB高光时刻的话",
+      "music": 0.0
+    },
+    {
+      "from": 341.1,
+      "to": 343.02,
+      "sid": 167,
+      "location": 2,
+      "content": "我们要去达到那个区间",
+      "music": 0.0
+    },
+    {
+      "from": 343.02,
+      "to": 345.46,
+      "sid": 168,
+      "location": 2,
+      "content": "乳酸与跑步上限的临界点",
+      "music": 0.0
+    },
+    {
+      "from": 345.46,
+      "to": 348.72,
+      "sid": 169,
+      "location": 2,
+      "content": "节奏跑去提升我们的速度的上限",
+      "music": 0.0
+    },
+    {
+      "from": 348.72,
+      "to": 349.88,
+      "sid": 170,
+      "location": 2,
+      "content": "四驱速度耐力",
+      "music": 0.0
+    },
+    {
+      "from": 349.88,
+      "to": 351.72,
+      "sid": 171,
+      "location": 2,
+      "content": "我们间歇跑去刺激心肺",
+      "music": 0.0
+    },
+    {
+      "from": 351.72,
+      "to": 354.1,
+      "sid": 172,
+      "location": 2,
+      "content": "提升我们最大摄氧量和最大心率",
+      "music": 0.0
+    },
+    {
+      "from": 354.1,
+      "to": 356.84,
+      "sid": 173,
+      "location": 2,
+      "content": "重新设定我们身体的各种参数",
+      "music": 0.0
+    },
+    {
+      "from": 356.84,
+      "to": 357.86,
+      "sid": 174,
+      "location": 2,
+      "content": "虚无氧动力",
+      "music": 0.0
+    },
+    {
+      "from": 357.86,
+      "to": 360.06,
+      "sid": 175,
+      "location": 2,
+      "content": "普通人跑长跑的基本上跑不到",
+      "music": 0.0
+    },
+    {
+      "from": 360.06,
+      "to": 362.86,
+      "sid": 176,
+      "location": 2,
+      "content": "现在很多跑步博主讲的要跑一块",
+      "music": 0.0
+    },
+    {
+      "from": 362.86,
+      "to": 364.3,
+      "sid": 177,
+      "location": 2,
+      "content": "以慢两头快",
+      "music": 0.0
+    },
+    {
+      "from": 364.3,
+      "to": 365.7,
+      "sid": 178,
+      "location": 2,
+      "content": "要快上去慢",
+      "music": 0.0
+    },
+    {
+      "from": 365.7,
+      "to": 366.62,
+      "sid": 179,
+      "location": 2,
+      "content": "要慢下来",
+      "music": 0.0
+    },
+    {
+      "from": 366.62,
+      "to": 368.38,
+      "sid": 180,
+      "location": 2,
+      "content": "说的就是要跑一区",
+      "music": 0.0
+    },
+    {
+      "from": 368.38,
+      "to": 371.3,
+      "sid": 181,
+      "location": 2,
+      "content": "三驱跟四驱这三个心率区间啊",
+      "music": 0.0
+    },
+    {
+      "from": 371.3,
+      "to": 373.06,
+      "sid": 182,
+      "location": 2,
+      "content": "我不知道我讲清楚了没有",
+      "music": 0.0
+    },
+    {
+      "from": 373.06,
+      "to": 374.06,
+      "sid": 183,
+      "location": 2,
+      "content": "绝对讲清楚的",
+      "music": 0.0
+    },
+    {
+      "from": 374.06,
+      "to": 375.34,
+      "sid": 184,
+      "location": 2,
+      "content": "来点个关注",
+      "music": 0.0
+    },
+    {
+      "from": 375.34,
+      "to": 377.24,
+      "sid": 185,
+      "location": 2,
+      "content": "爱心和收藏",
+      "music": 0.0
+    }
+  ]
+}

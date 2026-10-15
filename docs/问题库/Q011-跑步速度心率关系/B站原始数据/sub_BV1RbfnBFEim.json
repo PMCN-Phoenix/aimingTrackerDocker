@@ -1,0 +1,372 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "v1.7.0.4",
+  "body": [
+    {
+      "from": 0.0,
+      "to": 0.44,
+      "sid": 1,
+      "location": 2,
+      "content": "Tonight",
+      "music": 0.0
+    },
+    {
+      "from": 0.44,
+      "to": 3.3,
+      "sid": 2,
+      "location": 2,
+      "content": "We're going hard hot hot ho bn",
+      "music": 0.43859645275469705
+    },
+    {
+      "from": 3.3,
+      "to": 4.88,
+      "sid": 3,
+      "location": 2,
+      "content": "Just like the holilk",
+      "music": 0.0
+    },
+    {
+      "from": 4.88,
+      "to": 9.0,
+      "sid": 4,
+      "location": 2,
+      "content": "Dark dark dk da dark cing in the dark bk bk",
+      "music": 0.1294963982195538
+    },
+    {
+      "from": 9.0,
+      "to": 10.64,
+      "sid": 5,
+      "location": 2,
+      "content": "Like a warn you",
+      "music": 0.21999997800000143
+    },
+    {
+      "from": 10.64,
+      "to": 13.42,
+      "sid": 6,
+      "location": 2,
+      "content": "The superstars we are in the old",
+      "music": 0.37804875743605115
+    },
+    {
+      "from": 18.699,
+      "to": 20.859,
+      "sid": 7,
+      "location": 2,
+      "content": "跑车大神这么有诚信的",
+      "music": 0.0
+    },
+    {
+      "from": 20.859,
+      "to": 21.699,
+      "sid": 8,
+      "location": 2,
+      "content": "一个都没有",
+      "music": 0.0
+    },
+    {
+      "from": 21.699,
+      "to": 22.219,
+      "sid": 9,
+      "location": 2,
+      "content": "说好的",
+      "music": 0.0
+    },
+    {
+      "from": 22.219,
+      "to": 23.419,
+      "sid": 10,
+      "location": 2,
+      "content": "330起步",
+      "music": 0.0
+    },
+    {
+      "from": 23.419,
+      "to": 24.499,
+      "sid": 11,
+      "location": 2,
+      "content": "第一个跑多少",
+      "music": 0.0
+    },
+    {
+      "from": 24.499,
+      "to": 25.659,
+      "sid": 12,
+      "location": 2,
+      "content": "谁带的谁带的出来",
+      "music": 0.0
+    },
+    {
+      "from": 25.659,
+      "to": 26.359,
+      "sid": 13,
+      "location": 2,
+      "content": "第一个是我",
+      "music": 0.0
+    },
+    {
+      "from": 26.359,
+      "to": 27.38,
+      "sid": 14,
+      "location": 2,
+      "content": "你坐啊",
+      "music": 0.0
+    },
+    {
+      "from": 27.38,
+      "to": 28.86,
+      "sid": 15,
+      "location": 2,
+      "content": "帝哥很诚信啊",
+      "music": 0.0
+    },
+    {
+      "from": 28.86,
+      "to": 30.1,
+      "sid": 16,
+      "location": 2,
+      "content": "帝哥还诚信",
+      "music": 0.0
+    },
+    {
+      "from": 30.1,
+      "to": 31.06,
+      "sid": 17,
+      "location": 2,
+      "content": "六分52",
+      "music": 0.0
+    },
+    {
+      "from": 31.06,
+      "to": 31.86,
+      "sid": 18,
+      "location": 2,
+      "content": "六分52",
+      "music": 0.0
+    },
+    {
+      "from": 31.86,
+      "to": 32.7,
+      "sid": 19,
+      "location": 2,
+      "content": "想着诚信啊",
+      "music": 0.0
+    },
+    {
+      "from": 32.7,
+      "to": 35.18,
+      "sid": 20,
+      "location": 2,
+      "content": "325的都二个多少",
+      "music": 0.0
+    },
+    {
+      "from": 35.18,
+      "to": 35.8,
+      "sid": 21,
+      "location": 2,
+      "content": "谁带的",
+      "music": 0.0
+    },
+    {
+      "from": 35.8,
+      "to": 37.8,
+      "sid": 22,
+      "location": 2,
+      "content": "第二个还是我",
+      "music": 0.0
+    },
+    {
+      "from": 37.8,
+      "to": 39.14,
+      "sid": 23,
+      "location": 2,
+      "content": "我们第二个也是325",
+      "music": 0.0
+    },
+    {
+      "from": 39.14,
+      "to": 40.54,
+      "sid": 24,
+      "location": 2,
+      "content": "后面就没有诚信的了",
+      "music": 0.0
+    },
+    {
+      "from": 40.54,
+      "to": 41.78,
+      "sid": 25,
+      "location": 2,
+      "content": "还是一如既往的",
+      "music": 0.0
+    },
+    {
+      "from": 41.78,
+      "to": 42.56,
+      "sid": 26,
+      "location": 2,
+      "content": "你累不累",
+      "music": 0.0
+    },
+    {
+      "from": 42.56,
+      "to": 44.65,
+      "sid": 27,
+      "location": 2,
+      "content": "我累哎呀累",
+      "music": 0.0
+    },
+    {
+      "from": 44.65,
+      "to": 45.49,
+      "sid": 28,
+      "location": 2,
+      "content": "你要拽",
+      "music": 0.0
+    },
+    {
+      "from": 45.49,
+      "to": 46.09,
+      "sid": 29,
+      "location": 2,
+      "content": "听到没",
+      "music": 0.0
+    },
+    {
+      "from": 46.09,
+      "to": 46.93,
+      "sid": 30,
+      "location": 2,
+      "content": "终于说累了",
+      "music": 0.0
+    },
+    {
+      "from": 46.93,
+      "to": 48.65,
+      "sid": 31,
+      "location": 2,
+      "content": "听你说的哈哈哈",
+      "music": 0.0
+    },
+    {
+      "from": 48.65,
+      "to": 49.57,
+      "sid": 32,
+      "location": 2,
+      "content": "前面其实还好",
+      "music": 0.0
+    },
+    {
+      "from": 49.57,
+      "to": 50.69,
+      "sid": 33,
+      "location": 2,
+      "content": "后面就不行了",
+      "music": 0.0
+    },
+    {
+      "from": 50.69,
+      "to": 52.57,
+      "sid": 34,
+      "location": 2,
+      "content": "后面发现光膀子不行了",
+      "music": 0.0
+    },
+    {
+      "from": 54.14,
+      "to": 56.06,
+      "sid": 35,
+      "location": 2,
+      "content": "累累累不累不累啊",
+      "music": 0.0
+    },
+    {
+      "from": 56.06,
+      "to": 57.5,
+      "sid": 36,
+      "location": 2,
+      "content": "这是219的大神啊",
+      "music": 0.0
+    },
+    {
+      "from": 57.5,
+      "to": 58.44,
+      "sid": 37,
+      "location": 2,
+      "content": "今天想累不累",
+      "music": 0.0
+    },
+    {
+      "from": 58.44,
+      "to": 59.82,
+      "sid": 38,
+      "location": 2,
+      "content": "相当累啊",
+      "music": 0.0
+    },
+    {
+      "from": 59.82,
+      "to": 62.64,
+      "sid": 39,
+      "location": 2,
+      "content": "下一个星期的长度是32km",
+      "music": 0.0
+    },
+    {
+      "from": 62.64,
+      "to": 64.18,
+      "sid": 40,
+      "location": 2,
+      "content": "三分45起步",
+      "music": 0.0
+    },
+    {
+      "from": 64.18,
+      "to": 65.3,
+      "sid": 41,
+      "location": 2,
+      "content": "其实说实话",
+      "music": 0.0
+    },
+    {
+      "from": 65.3,
+      "to": 67.5,
+      "sid": 42,
+      "location": 2,
+      "content": "我我真的南京待不下去了",
+      "music": 0.0
+    },
+    {
+      "from": 67.5,
+      "to": 69.51,
+      "sid": 43,
+      "location": 2,
+      "content": "肯定要是不诚信好了",
+      "music": 0.0
+    },
+    {
+      "from": 69.51,
+      "to": 70.87,
+      "sid": 44,
+      "location": 2,
+      "content": "下课拜拜",
+      "music": 0.0
+    },
+    {
+      "from": 70.87,
+      "to": 71.28,
+      "sid": 45,
+      "location": 2,
+      "content": "你搞",
+      "music": 0.0
+    }
+  ]
+}

@@ -1,0 +1,1020 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "v1.7.0.4",
+  "body": [
+    {
+      "from": 0.04,
+      "to": 3.0,
+      "sid": 1,
+      "location": 2,
+      "content": "网上有很多种关于乳酸阈值的训练计划",
+      "music": 0.0
+    },
+    {
+      "from": 3.0,
+      "to": 3.84,
+      "sid": 2,
+      "location": 2,
+      "content": "花里胡哨",
+      "music": 0.0
+    },
+    {
+      "from": 3.84,
+      "to": 4.66,
+      "sid": 3,
+      "location": 2,
+      "content": "不切实际",
+      "music": 0.0
+    },
+    {
+      "from": 4.66,
+      "to": 5.64,
+      "sid": 4,
+      "location": 2,
+      "content": "其实都是扯淡",
+      "music": 0.0
+    },
+    {
+      "from": 5.64,
+      "to": 7.06,
+      "sid": 5,
+      "location": 2,
+      "content": "只要你理解原理",
+      "music": 0.0
+    },
+    {
+      "from": 7.06,
+      "to": 8.66,
+      "sid": 6,
+      "location": 2,
+      "content": "就是简单的变着花样",
+      "music": 0.0
+    },
+    {
+      "from": 8.66,
+      "to": 11.24,
+      "sid": 7,
+      "location": 2,
+      "content": "让自己跑在这种正确的体感上面",
+      "music": 0.0
+    },
+    {
+      "from": 11.24,
+      "to": 13.02,
+      "sid": 8,
+      "location": 2,
+      "content": "这里是你们的含火劳师",
+      "music": 0.0
+    },
+    {
+      "from": 13.02,
+      "to": 15.08,
+      "sid": 9,
+      "location": 2,
+      "content": "依旧每周更新中长跑教学",
+      "music": 0.0
+    },
+    {
+      "from": 15.08,
+      "to": 15.78,
+      "sid": 10,
+      "location": 2,
+      "content": "关注我",
+      "music": 0.0
+    },
+    {
+      "from": 15.78,
+      "to": 18.009,
+      "sid": 11,
+      "location": 2,
+      "content": "免费解答中长跑和原神问题",
+      "music": 0.0
+    },
+    {
+      "from": 18.009,
+      "to": 20.689,
+      "sid": 12,
+      "location": 2,
+      "content": "今天要给大家讲的是提高有氧能力",
+      "music": 0.0
+    },
+    {
+      "from": 20.689,
+      "to": 21.849,
+      "sid": 13,
+      "location": 2,
+      "content": "最有效的训练",
+      "music": 0.0
+    },
+    {
+      "from": 21.849,
+      "to": 23.429,
+      "sid": 14,
+      "location": 2,
+      "content": "乳酸阈值训练",
+      "music": 0.11428570612244948
+    },
+    {
+      "from": 23.429,
+      "to": 25.8,
+      "sid": 15,
+      "location": 2,
+      "content": "简单科普点生理学知识",
+      "music": 0.0
+    },
+    {
+      "from": 25.8,
+      "to": 28.14,
+      "sid": 16,
+      "location": 2,
+      "content": "人在进行渐增负荷的运动时",
+      "music": 0.0
+    },
+    {
+      "from": 28.14,
+      "to": 30.18,
+      "sid": 17,
+      "location": 2,
+      "content": "从低强度到高强度变化",
+      "music": 0.0
+    },
+    {
+      "from": 30.18,
+      "to": 33.38,
+      "sid": 18,
+      "location": 2,
+      "content": "我们的供能模式会从有氧能系统为主",
+      "music": 0.0
+    },
+    {
+      "from": 33.38,
+      "to": 35.46,
+      "sid": 19,
+      "location": 2,
+      "content": "变为无氧酵解能系统为主",
+      "music": 0.0
+    },
+    {
+      "from": 35.46,
+      "to": 37.78,
+      "sid": 20,
+      "location": 2,
+      "content": "无氧系统会产生大量的乳酸",
+      "music": 0.0
+    },
+    {
+      "from": 37.78,
+      "to": 39.96,
+      "sid": 21,
+      "location": 2,
+      "content": "同时会大量水解出氢离子",
+      "music": 0.0
+    },
+    {
+      "from": 39.96,
+      "to": 42.34,
+      "sid": 22,
+      "location": 2,
+      "content": "导致体内内环境稳态遭到破坏",
+      "music": 0.0
+    },
+    {
+      "from": 42.34,
+      "to": 43.54,
+      "sid": 23,
+      "location": 2,
+      "content": "运动能力下降",
+      "music": 0.0
+    },
+    {
+      "from": 43.54,
+      "to": 46.02,
+      "sid": 24,
+      "location": 2,
+      "content": "也就是本能体感上的酸的跑不动了",
+      "music": 0.0
+    },
+    {
+      "from": 46.02,
+      "to": 46.91,
+      "sid": 25,
+      "location": 2,
+      "content": "在这期间",
+      "music": 0.0
+    },
+    {
+      "from": 46.91,
+      "to": 50.52,
+      "sid": 26,
+      "location": 2,
+      "content": "体内血乳酸浓度上升曲线不是一条直线上升的",
+      "music": 0.0
+    },
+    {
+      "from": 50.52,
+      "to": 52.52,
+      "sid": 27,
+      "location": 2,
+      "content": "而是在某一拐点急剧上升",
+      "music": 0.0
+    },
+    {
+      "from": 52.52,
+      "to": 54.26,
+      "sid": 28,
+      "location": 2,
+      "content": "这个拐点称为乳酸阈",
+      "music": 0.0
+    },
+    {
+      "from": 54.26,
+      "to": 56.6,
+      "sid": 29,
+      "location": 2,
+      "content": "而无氧功能的持续时间非常短",
+      "music": 0.0
+    },
+    {
+      "from": 56.6,
+      "to": 58.24,
+      "sid": 30,
+      "location": 2,
+      "content": "现实始终不是动漫",
+      "music": 0.0
+    },
+    {
+      "from": 58.24,
+      "to": 60.02,
+      "sid": 31,
+      "location": 2,
+      "content": "一旦到了乳酸阈值以上",
+      "music": 0.0
+    },
+    {
+      "from": 60.02,
+      "to": 61.56,
+      "sid": 32,
+      "location": 2,
+      "content": "就算你意志力比较强",
+      "music": 0.0
+    },
+    {
+      "from": 61.56,
+      "to": 64.6,
+      "sid": 33,
+      "location": 2,
+      "content": "你的生理结构也不会允许你继续运动下去",
+      "music": 0.0
+    },
+    {
+      "from": 64.6,
+      "to": 66.7,
+      "sid": 34,
+      "location": 2,
+      "content": "这是人体的自我保护机制",
+      "music": 0.0
+    },
+    {
+      "from": 66.7,
+      "to": 68.58,
+      "sid": 35,
+      "location": 2,
+      "content": "人类的能力是有极限的",
+      "music": 0.0
+    },
+    {
+      "from": 68.58,
+      "to": 70.66,
+      "sid": 36,
+      "location": 2,
+      "content": "在我短暂的人生里学到的是",
+      "music": 0.0
+    },
+    {
+      "from": 70.66,
+      "to": 71.22,
+      "sid": 37,
+      "location": 2,
+      "content": "一个人",
+      "music": 0.0
+    },
+    {
+      "from": 71.22,
+      "to": 72.66,
+      "sid": 38,
+      "location": 2,
+      "content": "越是想要快速进步",
+      "music": 0.0
+    },
+    {
+      "from": 72.66,
+      "to": 74.78,
+      "sid": 39,
+      "location": 2,
+      "content": "越是会在意料之外的事态失足",
+      "music": 0.0
+    },
+    {
+      "from": 74.78,
+      "to": 78.24,
+      "sid": 40,
+      "location": 2,
+      "content": "所以我们要做是将乳酸拐点的跑动配速",
+      "music": 0.0
+    },
+    {
+      "from": 78.24,
+      "to": 79.7,
+      "sid": 41,
+      "location": 2,
+      "content": "尽可能的往上提高",
+      "music": 0.0
+    },
+    {
+      "from": 79.7,
+      "to": 81.58,
+      "sid": 42,
+      "location": 2,
+      "content": "即乳酸阈值配速",
+      "music": 0.0
+    },
+    {
+      "from": 81.58,
+      "to": 83.62,
+      "sid": 43,
+      "location": 2,
+      "content": "这个是后天可以大幅度提高的",
+      "music": 0.0
+    },
+    {
+      "from": 83.62,
+      "to": 85.06,
+      "sid": 44,
+      "location": 2,
+      "content": "那么可以无限提高吗",
+      "music": 0.0
+    },
+    {
+      "from": 85.06,
+      "to": 86.56,
+      "sid": 45,
+      "location": 2,
+      "content": "答案是绝对不可能的",
+      "music": 0.0
+    },
+    {
+      "from": 86.56,
+      "to": 89.04,
+      "sid": 46,
+      "location": 2,
+      "content": "除非你带上石鬼面超越人类",
+      "music": 0.0
+    },
+    {
+      "from": 89.04,
+      "to": 92.18,
+      "sid": 47,
+      "location": 2,
+      "content": "又或者是和一拳超人一样解除限制器",
+      "music": 0.0
+    },
+    {
+      "from": 92.18,
+      "to": 94.34,
+      "sid": 48,
+      "location": 2,
+      "content": "我们的上限取决于最大摄氧量",
+      "music": 0.0
+    },
+    {
+      "from": 94.34,
+      "to": 96.58,
+      "sid": 49,
+      "location": 2,
+      "content": "在很大程度上都是由基因决定的",
+      "music": 0.0
+    },
+    {
+      "from": 96.58,
+      "to": 99.74,
+      "sid": 50,
+      "location": 2,
+      "content": "通过后天训练来提高我们的上限是很有限的",
+      "music": 0.0
+    },
+    {
+      "from": 99.74,
+      "to": 102.22,
+      "sid": 51,
+      "location": 2,
+      "content": "有些人就算不专门去练一项运动",
+      "music": 0.0
+    },
+    {
+      "from": 102.22,
+      "to": 103.7,
+      "sid": 52,
+      "location": 2,
+      "content": "它的最大摄氧量",
+      "music": 0.0
+    },
+    {
+      "from": 103.7,
+      "to": 105.98,
+      "sid": 53,
+      "location": 2,
+      "content": "也可能比一个系统训练的人要高",
+      "music": 0.0
+    },
+    {
+      "from": 105.98,
+      "to": 107.6,
+      "sid": 54,
+      "location": 2,
+      "content": "这方面我们不展开讲",
+      "music": 0.0
+    },
+    {
+      "from": 107.6,
+      "to": 109.66,
+      "sid": 55,
+      "location": 2,
+      "content": "我们下期有机会再讲提问",
+      "music": 0.0
+    },
+    {
+      "from": 109.66,
+      "to": 112.98,
+      "sid": 56,
+      "location": 2,
+      "content": "我们是根据乳酸阈值配速还是乳酸阈值心率",
+      "music": 0.0
+    },
+    {
+      "from": 112.98,
+      "to": 114.8,
+      "sid": 57,
+      "location": 2,
+      "content": "去安排自己的训练配速",
+      "music": 0.0
+    },
+    {
+      "from": 114.8,
+      "to": 117.13,
+      "sid": 58,
+      "location": 2,
+      "content": "给大家思考三秒钟",
+      "music": 0.09574467575826506
+    },
+    {
+      "from": 117.41,
+      "to": 119.19,
+      "sid": 59,
+      "location": 2,
+      "content": "答案是都在扯淡",
+      "music": 0.0
+    },
+    {
+      "from": 119.19,
+      "to": 119.93,
+      "sid": 60,
+      "location": 2,
+      "content": "你的配速",
+      "music": 0.0
+    },
+    {
+      "from": 119.93,
+      "to": 122.92,
+      "sid": 61,
+      "location": 2,
+      "content": "心率都会因为各种客观主观条件而浮动",
+      "music": 0.0
+    },
+    {
+      "from": 122.92,
+      "to": 124.56,
+      "sid": 62,
+      "location": 2,
+      "content": "比如今天天气热湿度大",
+      "music": 0.0
+    },
+    {
+      "from": 124.56,
+      "to": 125.36,
+      "sid": 63,
+      "location": 2,
+      "content": "昨天没睡好",
+      "music": 0.0
+    },
+    {
+      "from": 125.36,
+      "to": 126.28,
+      "sid": 64,
+      "location": 2,
+      "content": "跟女朋友分手了",
+      "music": 0.0
+    },
+    {
+      "from": 126.28,
+      "to": 127.0,
+      "sid": 65,
+      "location": 2,
+      "content": "吃坏肚子了",
+      "music": 0.0
+    },
+    {
+      "from": 127.0,
+      "to": 127.6,
+      "sid": 66,
+      "location": 2,
+      "content": "风力太大",
+      "music": 0.0
+    },
+    {
+      "from": 127.6,
+      "to": 128.55,
+      "sid": 67,
+      "location": 2,
+      "content": "状态不到位",
+      "music": 0.0
+    },
+    {
+      "from": 128.55,
+      "to": 130.11,
+      "sid": 68,
+      "location": 2,
+      "content": "所以我在这里建议大家",
+      "music": 0.0
+    },
+    {
+      "from": 130.11,
+      "to": 132.25,
+      "sid": 69,
+      "location": 2,
+      "content": "应该根据自己当天的实际体感",
+      "music": 0.0
+    },
+    {
+      "from": 132.25,
+      "to": 135.98,
+      "sid": 70,
+      "location": 2,
+      "content": "去判断自己是否处在这个乳酸阈值的区间跑动",
+      "music": 0.0
+    },
+    {
+      "from": 135.98,
+      "to": 137.86,
+      "sid": 71,
+      "location": 2,
+      "content": "那么体感应该是怎么样的呢",
+      "music": 0.0
+    },
+    {
+      "from": 137.86,
+      "to": 138.54,
+      "sid": 72,
+      "location": 2,
+      "content": "有点难受",
+      "music": 0.0
+    },
+    {
+      "from": 138.54,
+      "to": 141.1,
+      "sid": 73,
+      "location": 2,
+      "content": "但是感觉能继续一直这个速度保持跑下去",
+      "music": 0.0
+    },
+    {
+      "from": 141.1,
+      "to": 141.8,
+      "sid": 74,
+      "location": 2,
+      "content": "有点喘",
+      "music": 0.0
+    },
+    {
+      "from": 141.8,
+      "to": 143.38,
+      "sid": 75,
+      "location": 2,
+      "content": "但是还可以说一两个字",
+      "music": 0.0
+    },
+    {
+      "from": 143.38,
+      "to": 144.92,
+      "sid": 76,
+      "location": 2,
+      "content": "腿绝对不可以发酸",
+      "music": 0.0
+    },
+    {
+      "from": 144.92,
+      "to": 145.52,
+      "sid": 77,
+      "location": 2,
+      "content": "抬不动",
+      "music": 0.0
+    },
+    {
+      "from": 145.52,
+      "to": 147.24,
+      "sid": 78,
+      "location": 2,
+      "content": "如果你找不到这种感觉",
+      "music": 0.0
+    },
+    {
+      "from": 147.24,
+      "to": 150.44,
+      "sid": 79,
+      "location": 2,
+      "content": "我们学校一哥罗家强说是跑少了导致的",
+      "music": 0.0
+    },
+    {
+      "from": 150.44,
+      "to": 151.78,
+      "sid": 80,
+      "location": 2,
+      "content": "多跑跑就找到了",
+      "music": 0.0
+    },
+    {
+      "from": 151.78,
+      "to": 153.94,
+      "sid": 81,
+      "location": 2,
+      "content": "接下来我就给大家简单讲一下",
+      "music": 0.0
+    },
+    {
+      "from": 153.94,
+      "to": 156.42,
+      "sid": 82,
+      "location": 2,
+      "content": "三种比较常见的乳酸阈值训练法",
+      "music": 0.0
+    },
+    {
+      "from": 156.42,
+      "to": 160.18,
+      "sid": 83,
+      "location": 2,
+      "content": "一现在网上特别火的挪威双阈值训练法",
+      "music": 0.0
+    },
+    {
+      "from": 160.18,
+      "to": 163.22,
+      "sid": 84,
+      "location": 2,
+      "content": "二乳酸阈值的间歇跑训练法",
+      "music": 0.0
+    },
+    {
+      "from": 163.22,
+      "to": 165.799,
+      "sid": 85,
+      "location": 2,
+      "content": "三乳酸阈值的持续节奏",
+      "music": 0.0
+    },
+    {
+      "from": 165.799,
+      "to": 169.48,
+      "sid": 86,
+      "location": 2,
+      "content": "跑双阈值训练说白了就是上午跑一个乳酸阈值",
+      "music": 0.0
+    },
+    {
+      "from": 169.48,
+      "to": 170.32,
+      "sid": 87,
+      "location": 2,
+      "content": "跑慢一点",
+      "music": 0.0
+    },
+    {
+      "from": 170.32,
+      "to": 171.0,
+      "sid": 88,
+      "location": 2,
+      "content": "跑长一点",
+      "music": 0.0
+    },
+    {
+      "from": 171.0,
+      "to": 171.92,
+      "sid": 89,
+      "location": 2,
+      "content": "下午再跑一个",
+      "music": 0.0
+    },
+    {
+      "from": 171.92,
+      "to": 172.52,
+      "sid": 90,
+      "location": 2,
+      "content": "跑快一点",
+      "music": 0.0
+    },
+    {
+      "from": 172.52,
+      "to": 173.34,
+      "sid": 91,
+      "location": 2,
+      "content": "跑短一点",
+      "music": 0.0
+    },
+    {
+      "from": 173.34,
+      "to": 175.73,
+      "sid": 92,
+      "location": 2,
+      "content": "例如早上跑五个1600",
+      "music": 0.0
+    },
+    {
+      "from": 175.73,
+      "to": 177.81,
+      "sid": 93,
+      "location": 2,
+      "content": "下午跑15个400M",
+      "music": 0.0
+    },
+    {
+      "from": 177.81,
+      "to": 180.21,
+      "sid": 94,
+      "location": 2,
+      "content": "两个训练的体感都是我上面说的",
+      "music": 0.0
+    },
+    {
+      "from": 180.21,
+      "to": 181.57,
+      "sid": 95,
+      "location": 2,
+      "content": "普通人不要学",
+      "music": 0.0
+    },
+    {
+      "from": 181.57,
+      "to": 184.45,
+      "sid": 96,
+      "location": 2,
+      "content": "你没有基础跑量是吃不下来这一堂课的",
+      "music": 0.0
+    },
+    {
+      "from": 184.45,
+      "to": 187.25,
+      "sid": 97,
+      "location": 2,
+      "content": "这堂课一天的总跑量是非常大的",
+      "music": 0.0
+    },
+    {
+      "from": 187.25,
+      "to": 188.97,
+      "sid": 98,
+      "location": 2,
+      "content": "第二个间歇跑也很简单",
+      "music": 0.0
+    },
+    {
+      "from": 188.97,
+      "to": 191.69,
+      "sid": 99,
+      "location": 2,
+      "content": "就是跑上面说的双阈值的其中一个就行了",
+      "music": 0.0
+    },
+    {
+      "from": 191.69,
+      "to": 193.82,
+      "sid": 100,
+      "location": 2,
+      "content": "第三个持续节奏跑也非常简单",
+      "music": 0.0
+    },
+    {
+      "from": 193.82,
+      "to": 195.52,
+      "sid": 101,
+      "location": 2,
+      "content": "也是按照这种体感模式",
+      "music": 0.0
+    },
+    {
+      "from": 195.52,
+      "to": 198.3,
+      "sid": 102,
+      "location": 2,
+      "content": "比你跑上面的间歇配速再慢一点点",
+      "music": 0.0
+    },
+    {
+      "from": 198.3,
+      "to": 199.28,
+      "sid": 103,
+      "location": 2,
+      "content": "只跑一组",
+      "music": 0.0
+    },
+    {
+      "from": 199.28,
+      "to": 200.82,
+      "sid": 104,
+      "location": 2,
+      "content": "持续跑个20分钟",
+      "music": 0.0
+    },
+    {
+      "from": 200.82,
+      "to": 201.5,
+      "sid": 105,
+      "location": 2,
+      "content": "30分钟",
+      "music": 0.0
+    },
+    {
+      "from": 201.5,
+      "to": 203.76,
+      "sid": 106,
+      "location": 2,
+      "content": "如果你看到这里还是脑袋萌萌的",
+      "music": 0.0
+    },
+    {
+      "from": 203.76,
+      "to": 205.38,
+      "sid": 107,
+      "location": 2,
+      "content": "实在想要一个参考的话",
+      "music": 0.0
+    },
+    {
+      "from": 205.38,
+      "to": 207.63,
+      "sid": 108,
+      "location": 2,
+      "content": "那接下来就拿我自己举例给你康康",
+      "music": 0.0
+    },
+    {
+      "from": 207.63,
+      "to": 209.35,
+      "sid": 109,
+      "location": 2,
+      "content": "虽然说乳酸阈值训练",
+      "music": 0.0
+    },
+    {
+      "from": 209.35,
+      "to": 211.45,
+      "sid": 110,
+      "location": 2,
+      "content": "最有效的提高有氧能力的训练",
+      "music": 0.0
+    },
+    {
+      "from": 211.45,
+      "to": 213.91,
+      "sid": 111,
+      "location": 2,
+      "content": "但只靠这一种训练是绝对不行的",
+      "music": 0.0
+    },
+    {
+      "from": 213.91,
+      "to": 215.68,
+      "sid": 112,
+      "location": 2,
+      "content": "这只是你训练中的一环",
+      "music": 0.0
+    },
+    {
+      "from": 215.68,
+      "to": 217.2,
+      "sid": 113,
+      "location": 2,
+      "content": "想要提高自己的成绩",
+      "music": 0.0
+    },
+    {
+      "from": 217.2,
+      "to": 218.28,
+      "sid": 114,
+      "location": 2,
+      "content": "需要一环扣一环",
+      "music": 0.0
+    },
+    {
+      "from": 218.28,
+      "to": 219.22,
+      "sid": 115,
+      "location": 2,
+      "content": "非常多的环",
+      "music": 0.0
+    },
+    {
+      "from": 219.22,
+      "to": 220.84,
+      "sid": 116,
+      "location": 2,
+      "content": "其他内容我们以后再讲",
+      "music": 0.0
+    },
+    {
+      "from": 220.84,
+      "to": 222.64,
+      "sid": 117,
+      "location": 2,
+      "content": "最后喜欢的话不要忘了关注我",
+      "music": 0.0
+    },
+    {
+      "from": 222.64,
+      "to": 223.48,
+      "sid": 118,
+      "location": 2,
+      "content": "然后一键三连",
+      "music": 0.0
+    },
+    {
+      "from": 223.48,
+      "to": 224.68,
+      "sid": 119,
+      "location": 2,
+      "content": "助力我成为大网红",
+      "music": 0.0
+    },
+    {
+      "from": 224.68,
+      "to": 225.32,
+      "sid": 120,
+      "location": 2,
+      "content": "赚大钱",
+      "music": 0.0
+    },
+    {
+      "from": 225.32,
+      "to": 226.2,
+      "sid": 121,
+      "location": 2,
+      "content": "等我有钱了",
+      "music": 0.0
+    },
+    {
+      "from": 226.2,
+      "to": 227.26,
+      "sid": 122,
+      "location": 2,
+      "content": "V你50爱你",
+      "music": 0.0
+    },
+    {
+      "from": 227.26,
+      "to": 228.64,
+      "sid": 123,
+      "location": 2,
+      "content": "我们下周再见",
+      "music": 0.0
+    },
+    {
+      "from": 228.64,
+      "to": 231.34,
+      "sid": 124,
+      "location": 2,
+      "content": "baby要多爱你一遍",
+      "music": 0.9999999152542445
+    },
+    {
+      "from": 231.34,
+      "to": 236.54,
+      "sid": 125,
+      "location": 2,
+      "content": "不要Y巴拉沙巴拉沙拉沙拉沙巴拉巴拉",
+      "music": 0.9999999645390084
+    },
+    {
+      "from": 236.54,
+      "to": 239.2,
+      "sid": 126,
+      "location": 2,
+      "content": "哦呦呦呦呦啊呦呦",
+      "music": 0.9999999253731399
+    }
+  ]
+}
