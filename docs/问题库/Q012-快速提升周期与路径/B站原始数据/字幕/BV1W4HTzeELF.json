@@ -1,0 +1,3470 @@
+{
+  "bvid": "BV1W4HTzeELF",
+  "aid": 115305074461905,
+  "cid": 32797428336,
+  "meta": {
+    "title": "全网最干！枪法很好但赢不了？可能是意识出了问题！前游戏策划一个视频讲明白意识的底层逻辑【白羊说点咩#11】",
+    "pages": [
+      {
+        "cid": 32797428336,
+        "page": 1,
+        "from": "vupload",
+        "part": "全网最干！枪法很好但赢不了？可能是意识出了问题！前游戏策划一个视频讲明白意识的底层逻辑【白羊说点咩#11】",
+        "duration": 819,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i2.hdslb.com/bfs/storyff/_000010r58tkexl4du24n4k5vqdmghbb_firsti.jpg",
+        "ctime": 1759416161
+      }
+    ],
+    "desc": "第11期白羊说点咩来了~有需要复盘的同学看动态置顶哦～\n最最最干的一期来了，看懂这期视频，上神话绝对没问题，我都可以“混”上去，你凭什么不行？\n多多关注自己枪法以外的内容，很多时候你的枪法真的够用了！\n\n喜欢本期视频的可以一键三连多多支持！！！速速加入开黑交流粉丝群：772780798\n欢迎大家给视频提建议，不管是形式内容还是封面标题，可以私信的方式b站联系我\n建议采取有一杯奶茶哦~\n希望能帮助更多的想上分的同学！！！",
+    "owner": "白羊座的白羊嗷",
+    "duration": 819
+  },
+  "subtitle_info": {
+    "lan": "ai-zh",
+    "url": "https://aisubtitle.hdslb.com/bfs/ai_subtitle/prod/11530507446190532797428336540f64c642c98d2190bd5a7a8b821843?auth_key=1792037899-0d88c16d1fbe4576b326703528da92c4-0-b8f4b97c7bc92edf83b85de88e07f018",
+    "lan_doc": "中文"
+  },
+  "status": "ok",
+  "segment_count": 429,
+  "body": [
+    {
+      "from": 0.7,
+      "to": 4.42,
+      "sid": 1,
+      "location": 2,
+      "content": "你能看懂这期视频就能理解队伍所有集锦教学",
+      "music": 0.0
+    },
+    {
+      "from": 4.42,
+      "to": 5.72,
+      "sid": 2,
+      "location": 2,
+      "content": "POV冠军赛",
+      "music": 0.0
+    },
+    {
+      "from": 5.72,
+      "to": 7.04,
+      "sid": 3,
+      "location": 2,
+      "content": "甚至于其他游戏",
+      "music": 0.0
+    },
+    {
+      "from": 7.04,
+      "to": 9.94,
+      "sid": 4,
+      "location": 2,
+      "content": "这期我们来讲意识",
+      "music": 0.0
+    },
+    {
+      "from": 10.58,
+      "to": 14.1,
+      "sid": 5,
+      "location": 2,
+      "content": "你是不是经常这样死斗里枪法如神",
+      "music": 0.0
+    },
+    {
+      "from": 14.1,
+      "to": 14.98,
+      "sid": 6,
+      "location": 2,
+      "content": "见一个秒一个",
+      "music": 0.0
+    },
+    {
+      "from": 14.98,
+      "to": 18.54,
+      "sid": 7,
+      "location": 2,
+      "content": "但一旦打排位就各种白给ms ms高分靶场困难",
+      "music": 0.0
+    },
+    {
+      "from": 18.54,
+      "to": 20.1,
+      "sid": 8,
+      "location": 2,
+      "content": "把侧面把样样精通",
+      "music": 0.0
+    },
+    {
+      "from": 20.1,
+      "to": 21.98,
+      "sid": 9,
+      "location": 2,
+      "content": "却在排位中无从施展",
+      "music": 0.0
+    },
+    {
+      "from": 21.98,
+      "to": 23.6,
+      "sid": 10,
+      "location": 2,
+      "content": "练了无数个小时的枪法",
+      "music": 0.0
+    },
+    {
+      "from": 23.6,
+      "to": 25.25,
+      "sid": 11,
+      "location": 2,
+      "content": "排位却感觉毫无长进",
+      "music": 0.0
+    },
+    {
+      "from": 25.25,
+      "to": 26.89,
+      "sid": 12,
+      "location": 2,
+      "content": "为什么你枪法进步了",
+      "music": 0.0
+    },
+    {
+      "from": 26.89,
+      "to": 29.25,
+      "sid": 13,
+      "location": 2,
+      "content": "却无法转化为实际的天梯分数呢",
+      "music": 0.0
+    },
+    {
+      "from": 29.25,
+      "to": 30.41,
+      "sid": 14,
+      "location": 2,
+      "content": "先别玩你的手",
+      "music": 0.0
+    },
+    {
+      "from": 30.41,
+      "to": 32.019,
+      "sid": 15,
+      "location": 2,
+      "content": "可能是你的意识出问题了",
+      "music": 0.0
+    },
+    {
+      "from": 32.019,
+      "to": 32.499,
+      "sid": 16,
+      "location": 2,
+      "content": "大家好",
+      "music": 0.0
+    },
+    {
+      "from": 32.499,
+      "to": 33.079,
+      "sid": 17,
+      "location": 2,
+      "content": "我是老杨",
+      "music": 0.0
+    },
+    {
+      "from": 33.079,
+      "to": 36.47,
+      "sid": 18,
+      "location": 2,
+      "content": "这赛季也是靠意识73.7胜率冲上了神三",
+      "music": 0.0
+    },
+    {
+      "from": 36.47,
+      "to": 38.85,
+      "sid": 19,
+      "location": 2,
+      "content": "今天我以一个前游戏策划的角度",
+      "music": 0.0
+    },
+    {
+      "from": 38.85,
+      "to": 39.95,
+      "sid": 20,
+      "location": 2,
+      "content": "带你彻底拆解",
+      "music": 0.0
+    },
+    {
+      "from": 39.95,
+      "to": 43.2,
+      "sid": 21,
+      "location": 2,
+      "content": "无畏契约里最玄学又最重要的概念意识",
+      "music": 0.0
+    },
+    {
+      "from": 43.2,
+      "to": 44.92,
+      "sid": 22,
+      "location": 2,
+      "content": "耐心看完这期看懂比赛",
+      "music": 0.0
+    },
+    {
+      "from": 44.92,
+      "to": 46.41,
+      "sid": 23,
+      "location": 2,
+      "content": "直通神话不是问题",
+      "music": 0.0
+    },
+    {
+      "from": 46.41,
+      "to": 48.53,
+      "sid": 24,
+      "location": 2,
+      "content": "这期的文案剪辑真的磨了很久",
+      "music": 0.0
+    },
+    {
+      "from": 48.53,
+      "to": 49.77,
+      "sid": 25,
+      "location": 2,
+      "content": "就就来个三连吧",
+      "music": 0.0
+    },
+    {
+      "from": 49.77,
+      "to": 51.83,
+      "sid": 26,
+      "location": 2,
+      "content": "这期先看广告再进正片",
+      "music": 0.0
+    },
+    {
+      "from": 51.83,
+      "to": 53.63,
+      "sid": 27,
+      "location": 2,
+      "content": "达瓦长时间佩戴入耳式耳机",
+      "music": 0.0
+    },
+    {
+      "from": 53.63,
+      "to": 54.62,
+      "sid": 28,
+      "location": 2,
+      "content": "戴多了会胀痛",
+      "music": 0.0
+    },
+    {
+      "from": 54.62,
+      "to": 57.38,
+      "sid": 29,
+      "location": 2,
+      "content": "今天带来的是南卡OEMAX开放式蓝牙耳机",
+      "music": 0.0
+    },
+    {
+      "from": 57.38,
+      "to": 58.3,
+      "sid": 30,
+      "location": 2,
+      "content": "为了打瓦更厉害",
+      "music": 0.0
+    },
+    {
+      "from": 58.3,
+      "to": 59.81,
+      "sid": 31,
+      "location": 2,
+      "content": "狼贴子航炮健身房",
+      "music": 0.0
+    },
+    {
+      "from": 59.81,
+      "to": 62.17,
+      "sid": 32,
+      "location": 2,
+      "content": "这时候一副开放式耳机是运动必备的",
+      "music": 0.0
+    },
+    {
+      "from": 62.17,
+      "to": 63.87,
+      "sid": 33,
+      "location": 2,
+      "content": "当然6.7克轻量化设计",
+      "music": 0.0
+    },
+    {
+      "from": 63.87,
+      "to": 64.73,
+      "sid": 34,
+      "location": 2,
+      "content": "耳朵无负担",
+      "music": 0.0
+    },
+    {
+      "from": 64.73,
+      "to": 65.88,
+      "sid": 35,
+      "location": 2,
+      "content": "佩戴眼镜没压力",
+      "music": 0.0
+    },
+    {
+      "from": 65.88,
+      "to": 66.52,
+      "sid": 36,
+      "location": 2,
+      "content": "不入耳",
+      "music": 0.0
+    },
+    {
+      "from": 66.52,
+      "to": 67.22,
+      "sid": 37,
+      "location": 2,
+      "content": "不伤耳朵",
+      "music": 0.0
+    },
+    {
+      "from": 67.22,
+      "to": 67.96,
+      "sid": 38,
+      "location": 2,
+      "content": "Super base",
+      "music": 0.0
+    },
+    {
+      "from": 67.96,
+      "to": 70.62,
+      "sid": 39,
+      "location": 2,
+      "content": "3.0跑道型发声单元加LCP聚合物材料",
+      "music": 0.0
+    },
+    {
+      "from": 70.62,
+      "to": 71.8,
+      "sid": 40,
+      "location": 2,
+      "content": "加DSS定向音频",
+      "music": 0.0
+    },
+    {
+      "from": 71.8,
+      "to": 72.48,
+      "sid": 41,
+      "location": 2,
+      "content": "头痛技术",
+      "music": 0.0
+    },
+    {
+      "from": 72.48,
+      "to": 73.8,
+      "sid": 42,
+      "location": 2,
+      "content": "耳机配上充电仓",
+      "music": 0.0
+    },
+    {
+      "from": 73.8,
+      "to": 75.08,
+      "sid": 43,
+      "location": 2,
+      "content": "24小时总续航",
+      "music": 0.0
+    },
+    {
+      "from": 75.08,
+      "to": 76.78,
+      "sid": 44,
+      "location": 2,
+      "content": "搭配蓝牙5.4音频芯片",
+      "music": 0.0
+    },
+    {
+      "from": 76.78,
+      "to": 77.68,
+      "sid": 45,
+      "location": 2,
+      "content": "0.06秒",
+      "music": 0.0
+    },
+    {
+      "from": 77.68,
+      "to": 78.58,
+      "sid": 46,
+      "location": 2,
+      "content": "游戏低延迟",
+      "music": 0.0
+    },
+    {
+      "from": 78.58,
+      "to": 80.259,
+      "sid": 47,
+      "location": 2,
+      "content": "手游打瓦也丝毫无压力",
+      "music": 0.0
+    },
+    {
+      "from": 80.259,
+      "to": 81.779,
+      "sid": 48,
+      "location": 2,
+      "content": "近期有耳机需求的同学们",
+      "music": 0.0
+    },
+    {
+      "from": 81.779,
+      "to": 83.91,
+      "sid": 49,
+      "location": 2,
+      "content": "可以在评论区置顶链接购入哦",
+      "music": 0.0
+    },
+    {
+      "from": 83.91,
+      "to": 85.41,
+      "sid": 50,
+      "location": 2,
+      "content": "那什么是意识",
+      "music": 0.0
+    },
+    {
+      "from": 85.41,
+      "to": 86.59,
+      "sid": 51,
+      "location": 2,
+      "content": "何为意识呢",
+      "music": 0.0
+    },
+    {
+      "from": 86.59,
+      "to": 88.11,
+      "sid": 52,
+      "location": 2,
+      "content": "我看了这么久的demo啊",
+      "music": 0.0
+    },
+    {
+      "from": 88.11,
+      "to": 89.03,
+      "sid": 53,
+      "location": 2,
+      "content": "上当神话",
+      "music": 0.0
+    },
+    {
+      "from": 89.03,
+      "to": 89.67,
+      "sid": 54,
+      "location": 2,
+      "content": "下到黑铁",
+      "music": 0.0
+    },
+    {
+      "from": 89.67,
+      "to": 92.73,
+      "sid": 55,
+      "location": 2,
+      "content": "很多同学上来就问纠结自己的枪法问题",
+      "music": 0.0
+    },
+    {
+      "from": 92.73,
+      "to": 94.95,
+      "sid": 56,
+      "location": 2,
+      "content": "说自己练枪成绩多好多好",
+      "music": 0.0
+    },
+    {
+      "from": 94.95,
+      "to": 98.44,
+      "sid": 57,
+      "location": 2,
+      "content": "却无法实实在在的转化为天梯分数和段位",
+      "music": 0.0
+    },
+    {
+      "from": 98.44,
+      "to": 100.6,
+      "sid": 58,
+      "location": 2,
+      "content": "大家其实把我想的太简单了",
+      "music": 0.0
+    },
+    {
+      "from": 100.6,
+      "to": 104.63,
+      "sid": 59,
+      "location": 2,
+      "content": "这并不是一个仅仅靠枪法就能取得胜利的游戏",
+      "music": 0.0
+    },
+    {
+      "from": 104.63,
+      "to": 105.91,
+      "sid": 60,
+      "location": 2,
+      "content": "我之前视频提过",
+      "music": 0.0
+    },
+    {
+      "from": 105.91,
+      "to": 106.65,
+      "sid": 61,
+      "location": 2,
+      "content": "木桶效应",
+      "music": 0.0
+    },
+    {
+      "from": 106.65,
+      "to": 108.75,
+      "sid": 62,
+      "location": 2,
+      "content": "枪法以外的知识同等重要",
+      "music": 0.0
+    },
+    {
+      "from": 108.75,
+      "to": 110.53,
+      "sid": 63,
+      "location": 2,
+      "content": "甚至都可以归到意识里面去",
+      "music": 0.0
+    },
+    {
+      "from": 110.53,
+      "to": 112.39,
+      "sid": 64,
+      "location": 2,
+      "content": "在大部分玩家眼里",
+      "music": 0.0
+    },
+    {
+      "from": 112.39,
+      "to": 113.77,
+      "sid": 65,
+      "location": 2,
+      "content": "意识是一种感觉",
+      "music": 0.0
+    },
+    {
+      "from": 113.77,
+      "to": 114.45,
+      "sid": 66,
+      "location": 2,
+      "content": "是经验",
+      "music": 0.0
+    },
+    {
+      "from": 114.45,
+      "to": 115.63,
+      "sid": 67,
+      "location": 2,
+      "content": "但在设计者眼里",
+      "music": 0.0
+    },
+    {
+      "from": 115.63,
+      "to": 119.18,
+      "sid": 68,
+      "location": 2,
+      "content": "意识本质上是一个实时运转的信息处理系统",
+      "music": 0.0
+    },
+    {
+      "from": 119.18,
+      "to": 121.6,
+      "sid": 69,
+      "location": 2,
+      "content": "这游戏不止比谁瞄的更准",
+      "music": 0.0
+    },
+    {
+      "from": 121.6,
+      "to": 125.8,
+      "sid": 70,
+      "location": 2,
+      "content": "更是在比谁能在信息不对称中创造出timing优势",
+      "music": 0.0
+    },
+    {
+      "from": 125.8,
+      "to": 128.48,
+      "sid": 71,
+      "location": 2,
+      "content": "这个由你意识创造出来的timing",
+      "music": 0.0
+    },
+    {
+      "from": 128.48,
+      "to": 130.84,
+      "sid": 72,
+      "location": 2,
+      "content": "是你和别人拉开差距的关键",
+      "music": 0.0
+    },
+    {
+      "from": 130.84,
+      "to": 132.24,
+      "sid": 73,
+      "location": 2,
+      "content": "你枪法发挥不出来",
+      "music": 0.0
+    },
+    {
+      "from": 132.24,
+      "to": 134.36,
+      "sid": 74,
+      "location": 2,
+      "content": "根本原因不是你看到人没打过",
+      "music": 0.0
+    },
+    {
+      "from": 134.36,
+      "to": 136.0,
+      "sid": 75,
+      "location": 2,
+      "content": "而是你在错误的时间",
+      "music": 0.0
+    },
+    {
+      "from": 136.0,
+      "to": 136.68,
+      "sid": 76,
+      "location": 2,
+      "content": "错误的地点",
+      "music": 0.0
+    },
+    {
+      "from": 136.68,
+      "to": 139.78,
+      "sid": 77,
+      "location": 2,
+      "content": "用错误的方式遇到了一个你本来能打过的敌人",
+      "music": 0.0
+    },
+    {
+      "from": 139.78,
+      "to": 142.1,
+      "sid": 78,
+      "location": 2,
+      "content": "是意识或者说信息处理的失败",
+      "music": 0.0
+    },
+    {
+      "from": 142.1,
+      "to": 143.52,
+      "sid": 79,
+      "location": 2,
+      "content": "把你逼入了绝境",
+      "music": 0.0
+    },
+    {
+      "from": 143.52,
+      "to": 144.8,
+      "sid": 80,
+      "location": 2,
+      "content": "那就是看比赛时",
+      "music": 0.0
+    },
+    {
+      "from": 144.8,
+      "to": 148.28,
+      "sid": 81,
+      "location": 2,
+      "content": "解说们常提及的一个词叫受迫性失误",
+      "music": 0.0
+    },
+    {
+      "from": 148.28,
+      "to": 150.2,
+      "sid": 82,
+      "location": 2,
+      "content": "先放三段实战画面片段",
+      "music": 0.0
+    },
+    {
+      "from": 150.2,
+      "to": 153.84,
+      "sid": 83,
+      "location": 2,
+      "content": "请猜出视频中玩家所处的段位",
+      "music": 0.0
+    },
+    {
+      "from": 155.26,
+      "to": 158.9,
+      "sid": 84,
+      "location": 2,
+      "content": "呜呜66死掉一个",
+      "music": 0.2599999870000021
+    },
+    {
+      "from": 160.32,
+      "to": 163.6,
+      "sid": 85,
+      "location": 2,
+      "content": "烟里烟里烟里烟里烟里能落在A点出来",
+      "music": 0.14383561151248372
+    },
+    {
+      "from": 163.6,
+      "to": 165.2,
+      "sid": 86,
+      "location": 2,
+      "content": "我方还剩一没了",
+      "music": 0.0
+    },
+    {
+      "from": 165.2,
+      "to": 167.02,
+      "sid": 87,
+      "location": 2,
+      "content": "嘿嘿",
+      "music": 0.0
+    },
+    {
+      "from": 168.88,
+      "to": 173.8,
+      "sid": 88,
+      "location": 2,
+      "content": "两个高级敌人在A14",
+      "music": 0.0
+    },
+    {
+      "from": 180.58,
+      "to": 183.78,
+      "sid": 89,
+      "location": 2,
+      "content": "哎啊",
+      "music": 0.0
+    },
+    {
+      "from": 186.44,
+      "to": 187.48,
+      "sid": 90,
+      "location": 2,
+      "content": "还剩一名敌人",
+      "music": 0.0
+    },
+    {
+      "from": 187.48,
+      "to": 188.24,
+      "sid": 91,
+      "location": 2,
+      "content": "我方还剩一人",
+      "music": 0.0
+    },
+    {
+      "from": 188.24,
+      "to": 190.08,
+      "sid": 92,
+      "location": 2,
+      "content": "爆能器落在A区",
+      "music": 0.0
+    },
+    {
+      "from": 198.06,
+      "to": 198.9,
+      "sid": 93,
+      "location": 2,
+      "content": "能力强",
+      "music": 0.0
+    },
+    {
+      "from": 200.14,
+      "to": 201.3,
+      "sid": 94,
+      "location": 2,
+      "content": "闪光陷阱被摧毁",
+      "music": 0.0
+    },
+    {
+      "from": 202.62,
+      "to": 205.02,
+      "sid": 95,
+      "location": 2,
+      "content": "我的眼可以不用那么快打吗",
+      "music": 0.0
+    },
+    {
+      "from": 206.62,
+      "to": 208.74,
+      "sid": 96,
+      "location": 2,
+      "content": "哎我这傻纯",
+      "music": 0.0
+    },
+    {
+      "from": 208.74,
+      "to": 209.82,
+      "sid": 97,
+      "location": 2,
+      "content": "我应该往前走",
+      "music": 0.0
+    },
+    {
+      "from": 209.82,
+      "to": 212.34,
+      "sid": 98,
+      "location": 2,
+      "content": "扔下来气弹",
+      "music": 0.290322557232054
+    },
+    {
+      "from": 212.88,
+      "to": 215.04,
+      "sid": 99,
+      "location": 2,
+      "content": "你能看出来吗",
+      "music": 0.0
+    },
+    {
+      "from": 215.04,
+      "to": 218.41,
+      "sid": 100,
+      "location": 2,
+      "content": "分别是神话三钻石三铂金二",
+      "music": 0.0
+    },
+    {
+      "from": 218.41,
+      "to": 220.45,
+      "sid": 101,
+      "location": 2,
+      "content": "但其实看下来都没大区别",
+      "music": 0.0
+    },
+    {
+      "from": 220.45,
+      "to": 222.19,
+      "sid": 102,
+      "location": 2,
+      "content": "手枪局都去抢A大",
+      "music": 0.0
+    },
+    {
+      "from": 222.19,
+      "to": 223.21,
+      "sid": 103,
+      "location": 2,
+      "content": "无论输赢",
+      "music": 0.0
+    },
+    {
+      "from": 223.21,
+      "to": 224.91,
+      "sid": 104,
+      "location": 2,
+      "content": "最后打的很狼狈很悬",
+      "music": 0.0
+    },
+    {
+      "from": 224.91,
+      "to": 227.79,
+      "sid": 105,
+      "location": 2,
+      "content": "主人公或队友都因为A大的诸多道具",
+      "music": 0.0
+    },
+    {
+      "from": 227.79,
+      "to": 229.75,
+      "sid": 106,
+      "location": 2,
+      "content": "再硬的枪法也发挥不出来",
+      "music": 0.0
+    },
+    {
+      "from": 229.75,
+      "to": 231.35,
+      "sid": 107,
+      "location": 2,
+      "content": "这就是受迫性失误",
+      "music": 0.0
+    },
+    {
+      "from": 231.35,
+      "to": 232.67,
+      "sid": 108,
+      "location": 2,
+      "content": "通过以上三个例子",
+      "music": 0.0
+    },
+    {
+      "from": 232.67,
+      "to": 233.55,
+      "sid": 109,
+      "location": 2,
+      "content": "请你想想",
+      "music": 0.0
+    },
+    {
+      "from": 233.55,
+      "to": 235.99,
+      "sid": 110,
+      "location": 2,
+      "content": "为什么你的意识会主动驱使你",
+      "music": 0.0
+    },
+    {
+      "from": 235.99,
+      "to": 239.23,
+      "sid": 111,
+      "location": 2,
+      "content": "去陷入这种不利于发挥枪法的境地或窘境呢",
+      "music": 0.0
+    },
+    {
+      "from": 239.23,
+      "to": 241.68,
+      "sid": 112,
+      "location": 2,
+      "content": "说大白话就是为什么总是无脑抢A大",
+      "music": 0.0
+    },
+    {
+      "from": 241.68,
+      "to": 244.5,
+      "sid": 113,
+      "location": 2,
+      "content": "好的意识是会减少我们进入绝境的次数",
+      "music": 0.0
+    },
+    {
+      "from": 244.5,
+      "to": 248.04,
+      "sid": 114,
+      "location": 2,
+      "content": "让你每天练习的枪法得以平稳甚至超常发挥",
+      "music": 0.0
+    },
+    {
+      "from": 248.04,
+      "to": 250.08,
+      "sid": 115,
+      "location": 2,
+      "content": "那意识是由什么构成的呢",
+      "music": 0.0
+    },
+    {
+      "from": 250.08,
+      "to": 251.24,
+      "sid": 116,
+      "location": 2,
+      "content": "先把图拿出来",
+      "music": 0.0
+    },
+    {
+      "from": 251.24,
+      "to": 252.9,
+      "sid": 117,
+      "location": 2,
+      "content": "往期我也提过不止一次",
+      "music": 0.0
+    },
+    {
+      "from": 252.9,
+      "to": 256.0,
+      "sid": 118,
+      "location": 2,
+      "content": "这图放在意识篇里来解释才是最合适的",
+      "music": 0.0
+    },
+    {
+      "from": 256.0,
+      "to": 258.92,
+      "sid": 119,
+      "location": 2,
+      "content": "这个圆圈在游戏行业内叫游戏循环",
+      "music": 0.0
+    },
+    {
+      "from": 258.92,
+      "to": 261.14,
+      "sid": 120,
+      "location": 2,
+      "content": "我们玩家在游戏内的每一个动作",
+      "music": 0.0
+    },
+    {
+      "from": 261.14,
+      "to": 262.58,
+      "sid": 121,
+      "location": 2,
+      "content": "都可以视作一个循环",
+      "music": 0.0
+    },
+    {
+      "from": 262.58,
+      "to": 264.78,
+      "sid": 122,
+      "location": 2,
+      "content": "三个动作形成一个完整的闭环",
+      "music": 0.0
+    },
+    {
+      "from": 264.78,
+      "to": 267.6,
+      "sid": 123,
+      "location": 2,
+      "content": "那就是拿信息做决策再执行",
+      "music": 0.0
+    },
+    {
+      "from": 267.6,
+      "to": 269.16,
+      "sid": 124,
+      "location": 2,
+      "content": "无论玩家有意无意",
+      "music": 0.0
+    },
+    {
+      "from": 269.16,
+      "to": 270.48,
+      "sid": 125,
+      "location": 2,
+      "content": "只要玩家在做动作",
+      "music": 0.0
+    },
+    {
+      "from": 270.48,
+      "to": 271.74,
+      "sid": 126,
+      "location": 2,
+      "content": "循环就不会停止",
+      "music": 0.0
+    },
+    {
+      "from": 271.74,
+      "to": 273.69,
+      "sid": 127,
+      "location": 2,
+      "content": "一直存在于整局游戏内",
+      "music": 0.0
+    },
+    {
+      "from": 273.69,
+      "to": 275.77,
+      "sid": 128,
+      "location": 2,
+      "content": "刚刚展示强A大放技能",
+      "music": 0.0
+    },
+    {
+      "from": 275.77,
+      "to": 277.27,
+      "sid": 129,
+      "location": 2,
+      "content": "走路等各种操作",
+      "music": 0.0
+    },
+    {
+      "from": 277.27,
+      "to": 280.33,
+      "sid": 130,
+      "location": 2,
+      "content": "加上对枪都属于最后的执行阶段",
+      "music": 0.0
+    },
+    {
+      "from": 280.33,
+      "to": 283.15,
+      "sid": 131,
+      "location": 2,
+      "content": "绝大部分同学太过专注提升这个阶段",
+      "music": 0.0
+    },
+    {
+      "from": 283.15,
+      "to": 285.32,
+      "sid": 132,
+      "location": 2,
+      "content": "从而缺乏了对其他阶段的练习",
+      "music": 0.0
+    },
+    {
+      "from": 285.32,
+      "to": 287.0,
+      "sid": 133,
+      "location": 2,
+      "content": "其实对枪前还有两个阶段",
+      "music": 0.0
+    },
+    {
+      "from": 287.0,
+      "to": 288.38,
+      "sid": 134,
+      "location": 2,
+      "content": "侦查阶段拿信息",
+      "music": 0.0
+    },
+    {
+      "from": 288.38,
+      "to": 290.23,
+      "sid": 135,
+      "location": 2,
+      "content": "然后策划阶段做决策",
+      "music": 0.0
+    },
+    {
+      "from": 290.23,
+      "to": 291.71,
+      "sid": 136,
+      "location": 2,
+      "content": "拿信息做决策",
+      "music": 0.0
+    },
+    {
+      "from": 291.71,
+      "to": 293.05,
+      "sid": 137,
+      "location": 2,
+      "content": "这两个部分合起来",
+      "music": 0.0
+    },
+    {
+      "from": 293.05,
+      "to": 294.299,
+      "sid": 138,
+      "location": 2,
+      "content": "我称之为意识",
+      "music": 0.0
+    },
+    {
+      "from": 294.299,
+      "to": 296.299,
+      "sid": 139,
+      "location": 2,
+      "content": "意识能帮你更好发挥枪法",
+      "music": 0.0
+    },
+    {
+      "from": 296.299,
+      "to": 298.479,
+      "sid": 140,
+      "location": 2,
+      "content": "枪法也能反过来验证你的思路",
+      "music": 0.0
+    },
+    {
+      "from": 298.479,
+      "to": 299.42,
+      "sid": 141,
+      "location": 2,
+      "content": "相辅相成",
+      "music": 0.0
+    },
+    {
+      "from": 299.42,
+      "to": 300.24,
+      "sid": 142,
+      "location": 2,
+      "content": "缺一不可",
+      "music": 0.0
+    },
+    {
+      "from": 300.24,
+      "to": 302.78,
+      "sid": 143,
+      "location": 2,
+      "content": "回想一下你自己天梯赛前准备的30秒",
+      "music": 0.0
+    },
+    {
+      "from": 302.78,
+      "to": 304.92,
+      "sid": 144,
+      "location": 2,
+      "content": "你有没有主动抓取对面阵容信息",
+      "music": 0.0
+    },
+    {
+      "from": 304.92,
+      "to": 306.64,
+      "sid": 145,
+      "location": 2,
+      "content": "构想一下这把该怎么打",
+      "music": 0.0
+    },
+    {
+      "from": 306.64,
+      "to": 307.98,
+      "sid": 146,
+      "location": 2,
+      "content": "还是该切刀接刀",
+      "music": 0.0
+    },
+    {
+      "from": 307.98,
+      "to": 308.68,
+      "sid": 147,
+      "location": 2,
+      "content": "该刷抖音",
+      "music": 0.0
+    },
+    {
+      "from": 308.68,
+      "to": 309.12,
+      "sid": 148,
+      "location": 2,
+      "content": "刷抖音",
+      "music": 0.0
+    },
+    {
+      "from": 309.12,
+      "to": 312.03,
+      "sid": 149,
+      "location": 2,
+      "content": "最后无意识的像小学生春游一样堆在A大门口",
+      "music": 0.0
+    },
+    {
+      "from": 312.03,
+      "to": 313.17,
+      "sid": 150,
+      "location": 2,
+      "content": "上次沙盘神话",
+      "music": 0.0
+    },
+    {
+      "from": 313.17,
+      "to": 314.95,
+      "sid": 151,
+      "location": 2,
+      "content": "下次心动黑铁没有带脑子",
+      "music": 0.0
+    },
+    {
+      "from": 314.95,
+      "to": 316.11,
+      "sid": 152,
+      "location": 2,
+      "content": "没有带意识的进攻",
+      "music": 0.0
+    },
+    {
+      "from": 316.11,
+      "to": 318.419,
+      "sid": 153,
+      "location": 2,
+      "content": "最后结果就会像上面的例子一样",
+      "music": 0.0
+    },
+    {
+      "from": 318.419,
+      "to": 319.479,
+      "sid": 154,
+      "location": 2,
+      "content": "能对就进",
+      "music": 0.0
+    },
+    {
+      "from": 319.479,
+      "to": 321.719,
+      "sid": 155,
+      "location": 2,
+      "content": "对不过就转转的时候再掉一个",
+      "music": 0.0
+    },
+    {
+      "from": 321.719,
+      "to": 323.03,
+      "sid": 156,
+      "location": 2,
+      "content": "躺下睡觉",
+      "music": 0.0
+    },
+    {
+      "from": 323.03,
+      "to": 324.55,
+      "sid": 157,
+      "location": 2,
+      "content": "那么你跟神话相比",
+      "music": 0.0
+    },
+    {
+      "from": 324.55,
+      "to": 327.34,
+      "sid": 158,
+      "location": 2,
+      "content": "或者神话跟福能相比的区别在哪呢",
+      "music": 0.0
+    },
+    {
+      "from": 327.34,
+      "to": 330.1,
+      "sid": 159,
+      "location": 2,
+      "content": "区别在于这个循环做得够不够完整",
+      "music": 0.0
+    },
+    {
+      "from": 330.1,
+      "to": 331.57,
+      "sid": 160,
+      "location": 2,
+      "content": "以及够不够快",
+      "music": 0.0
+    },
+    {
+      "from": 331.57,
+      "to": 334.25,
+      "sid": 161,
+      "location": 2,
+      "content": "高水平神话赋能下意识就能拿信息",
+      "music": 0.0
+    },
+    {
+      "from": 334.25,
+      "to": 335.03,
+      "sid": 162,
+      "location": 2,
+      "content": "然后做决策",
+      "music": 0.0
+    },
+    {
+      "from": 335.03,
+      "to": 335.93,
+      "sid": 163,
+      "location": 2,
+      "content": "脑子转得快",
+      "music": 0.0
+    },
+    {
+      "from": 335.93,
+      "to": 339.199,
+      "sid": 164,
+      "location": 2,
+      "content": "循环快速完整执行前面两部分做完了",
+      "music": 0.0
+    },
+    {
+      "from": 339.199,
+      "to": 340.939,
+      "sid": 165,
+      "location": 2,
+      "content": "自然而然坚定的执行对象",
+      "music": 0.0
+    },
+    {
+      "from": 340.939,
+      "to": 341.959,
+      "sid": 166,
+      "location": 2,
+      "content": "瞄准质量高",
+      "music": 0.0
+    },
+    {
+      "from": 341.959,
+      "to": 343.699,
+      "sid": 167,
+      "location": 2,
+      "content": "随后迅速进入下一个循环",
+      "music": 0.0
+    },
+    {
+      "from": 343.699,
+      "to": 344.84,
+      "sid": 168,
+      "location": 2,
+      "content": "一环扣一环",
+      "music": 0.0
+    },
+    {
+      "from": 344.84,
+      "to": 346.26,
+      "sid": 169,
+      "location": 2,
+      "content": "动作干净利落",
+      "music": 0.0
+    },
+    {
+      "from": 346.26,
+      "to": 349.0,
+      "sid": 170,
+      "location": 2,
+      "content": "所以说为什么很多同学在大量练枪后",
+      "music": 0.0
+    },
+    {
+      "from": 349.0,
+      "to": 351.46,
+      "sid": 171,
+      "location": 2,
+      "content": "在天梯里面表现却依旧平平",
+      "music": 0.0
+    },
+    {
+      "from": 351.46,
+      "to": 353.38,
+      "sid": 172,
+      "location": 2,
+      "content": "正是因为跟别人对枪这种行为",
+      "music": 0.0
+    },
+    {
+      "from": 353.38,
+      "to": 355.54,
+      "sid": 173,
+      "location": 2,
+      "content": "其实只是属于执行这一环节",
+      "music": 0.0
+    },
+    {
+      "from": 355.54,
+      "to": 357.58,
+      "sid": 174,
+      "location": 2,
+      "content": "你过于偏重这单一方面的能力",
+      "music": 0.0
+    },
+    {
+      "from": 357.58,
+      "to": 360.44,
+      "sid": 175,
+      "location": 2,
+      "content": "从而忽略了其他同等重要环节的处理能力",
+      "music": 0.0
+    },
+    {
+      "from": 360.44,
+      "to": 362.62,
+      "sid": 176,
+      "location": 2,
+      "content": "最后导致了你难以完全发挥自己",
+      "music": 0.0
+    },
+    {
+      "from": 362.62,
+      "to": 363.72,
+      "sid": 177,
+      "location": 2,
+      "content": "应有的对象水平",
+      "music": 0.0
+    },
+    {
+      "from": 363.72,
+      "to": 364.52,
+      "sid": 178,
+      "location": 2,
+      "content": "讲了这么多",
+      "music": 0.0
+    },
+    {
+      "from": 364.52,
+      "to": 366.0,
+      "sid": 179,
+      "location": 2,
+      "content": "来点题目你就能理解了",
+      "music": 0.0
+    },
+    {
+      "from": 366.0,
+      "to": 367.5,
+      "sid": 180,
+      "location": 2,
+      "content": "赛前准备30秒",
+      "music": 0.0
+    },
+    {
+      "from": 367.5,
+      "to": 369.5,
+      "sid": 181,
+      "location": 2,
+      "content": "同样的连环古城手枪局",
+      "music": 0.0
+    },
+    {
+      "from": 369.5,
+      "to": 371.54,
+      "sid": 182,
+      "location": 2,
+      "content": "面对对面这样的落位站位",
+      "music": 0.0
+    },
+    {
+      "from": 371.54,
+      "to": 373.0,
+      "sid": 183,
+      "location": 2,
+      "content": "钱包守C烟位",
+      "music": 0.0
+    },
+    {
+      "from": 373.0,
+      "to": 375.19,
+      "sid": 184,
+      "location": 2,
+      "content": "站AB连小黑屋一突二突",
+      "music": 0.0
+    },
+    {
+      "from": 375.19,
+      "to": 376.09,
+      "sid": 185,
+      "location": 2,
+      "content": "先锋抢A大",
+      "music": 0.0
+    },
+    {
+      "from": 376.09,
+      "to": 377.85,
+      "sid": 186,
+      "location": 2,
+      "content": "你是这队的指挥IGL了",
+      "music": 0.0
+    },
+    {
+      "from": 377.85,
+      "to": 378.85,
+      "sid": 187,
+      "location": 2,
+      "content": "你会打哪个队",
+      "music": 0.0
+    },
+    {
+      "from": 378.85,
+      "to": 379.53,
+      "sid": 188,
+      "location": 2,
+      "content": "怎么打",
+      "music": 0.0
+    },
+    {
+      "from": 379.53,
+      "to": 381.26,
+      "sid": 189,
+      "location": 2,
+      "content": "为什么给你们看看",
+      "music": 0.0
+    },
+    {
+      "from": 381.26,
+      "to": 385.8,
+      "sid": 190,
+      "location": 2,
+      "content": "一年前我的选择战术一假是真的",
+      "music": 0.0
+    },
+    {
+      "from": 386.32,
+      "to": 388.7,
+      "sid": 191,
+      "location": 2,
+      "content": "那我不吃弹药包不包呗",
+      "music": 0.0
+    },
+    {
+      "from": 388.7,
+      "to": 390.0,
+      "sid": 192,
+      "location": 2,
+      "content": "呃不抢不抢",
+      "music": 0.0
+    },
+    {
+      "from": 390.0,
+      "to": 391.7,
+      "sid": 193,
+      "location": 2,
+      "content": "咱们先去CC个球",
+      "music": 0.0
+    },
+    {
+      "from": 391.7,
+      "to": 395.64,
+      "sid": 194,
+      "location": 2,
+      "content": "然后然后那个这炸弹妹去看AA厅对对",
+      "music": 0.0
+    },
+    {
+      "from": 395.64,
+      "to": 397.32,
+      "sid": 195,
+      "location": 2,
+      "content": "咱们吸完球给足动静",
+      "music": 0.0
+    },
+    {
+      "from": 397.32,
+      "to": 397.8,
+      "sid": 196,
+      "location": 2,
+      "content": "咱们再回来",
+      "music": 0.0
+    },
+    {
+      "from": 397.8,
+      "to": 398.72,
+      "sid": 197,
+      "location": 2,
+      "content": "A好吧",
+      "music": 0.0
+    },
+    {
+      "from": 398.72,
+      "to": 400.77,
+      "sid": 198,
+      "location": 2,
+      "content": "反清A大好吧",
+      "music": 0.0
+    },
+    {
+      "from": 400.89,
+      "to": 401.61,
+      "sid": 199,
+      "location": 2,
+      "content": "来来来",
+      "music": 0.0
+    },
+    {
+      "from": 401.61,
+      "to": 404.07,
+      "sid": 200,
+      "location": 2,
+      "content": "为什么我会做出假C真A的决策",
+      "music": 0.0
+    },
+    {
+      "from": 404.07,
+      "to": 405.35,
+      "sid": 201,
+      "location": 2,
+      "content": "而不是抢A大呢",
+      "music": 0.0
+    },
+    {
+      "from": 405.35,
+      "to": 406.89,
+      "sid": 202,
+      "location": 2,
+      "content": "我的信息从何而来",
+      "music": 0.0
+    },
+    {
+      "from": 406.89,
+      "to": 409.64,
+      "sid": 203,
+      "location": 2,
+      "content": "难不成我是透视侦查阶段",
+      "music": 0.0
+    },
+    {
+      "from": 409.64,
+      "to": 410.98,
+      "sid": 204,
+      "location": 2,
+      "content": "信息收集",
+      "music": 0.0
+    },
+    {
+      "from": 410.98,
+      "to": 414.86,
+      "sid": 205,
+      "location": 2,
+      "content": "最基本的信息来自于你眼前屏幕上的画面信息",
+      "music": 0.0
+    },
+    {
+      "from": 414.86,
+      "to": 416.49,
+      "sid": 206,
+      "location": 2,
+      "content": "听到的音频信息",
+      "music": 0.0
+    },
+    {
+      "from": 416.49,
+      "to": 417.65,
+      "sid": 207,
+      "location": 2,
+      "content": "头顶的hot兰",
+      "music": 0.0
+    },
+    {
+      "from": 417.65,
+      "to": 418.65,
+      "sid": 208,
+      "location": 2,
+      "content": "包括小地图",
+      "music": 0.0
+    },
+    {
+      "from": 418.65,
+      "to": 421.25,
+      "sid": 209,
+      "location": 2,
+      "content": "小地图里的道具或者技能的释放位置",
+      "music": 0.0
+    },
+    {
+      "from": 421.25,
+      "to": 422.87,
+      "sid": 210,
+      "location": 2,
+      "content": "tap里面击杀栏",
+      "music": 0.0
+    },
+    {
+      "from": 422.87,
+      "to": 423.87,
+      "sid": 211,
+      "location": 2,
+      "content": "大招点数",
+      "music": 0.0
+    },
+    {
+      "from": 423.87,
+      "to": 425.6,
+      "sid": 212,
+      "location": 2,
+      "content": "枪械资金状态",
+      "music": 0.0
+    },
+    {
+      "from": 425.6,
+      "to": 427.52,
+      "sid": 213,
+      "location": 2,
+      "content": "头顶人物存活信息等等",
+      "music": 0.0
+    },
+    {
+      "from": 427.52,
+      "to": 429.2,
+      "sid": 214,
+      "location": 2,
+      "content": "更深层次的信息",
+      "music": 0.0
+    },
+    {
+      "from": 429.2,
+      "to": 431.72,
+      "sid": 215,
+      "location": 2,
+      "content": "一地图地图构造",
+      "music": 0.0
+    },
+    {
+      "from": 431.72,
+      "to": 433.06,
+      "sid": 216,
+      "location": 2,
+      "content": "地形都是信息",
+      "music": 0.0
+    },
+    {
+      "from": 433.06,
+      "to": 433.84,
+      "sid": 217,
+      "location": 2,
+      "content": "哪边好打",
+      "music": 0.0
+    },
+    {
+      "from": 433.84,
+      "to": 434.7,
+      "sid": 218,
+      "location": 2,
+      "content": "哪边不好打",
+      "music": 0.0
+    },
+    {
+      "from": 434.7,
+      "to": 436.14,
+      "sid": 219,
+      "location": 2,
+      "content": "例如看战术版",
+      "music": 0.0
+    },
+    {
+      "from": 436.14,
+      "to": 438.04,
+      "sid": 220,
+      "location": 2,
+      "content": "你觉得对于进攻方来说",
+      "music": 0.0
+    },
+    {
+      "from": 438.04,
+      "to": 439.35,
+      "sid": 221,
+      "location": 2,
+      "content": "哪边更好出",
+      "music": 0.0
+    },
+    {
+      "from": 439.35,
+      "to": 440.95,
+      "sid": 222,
+      "location": 2,
+      "content": "更好地争夺前脸",
+      "music": 0.0
+    },
+    {
+      "from": 440.95,
+      "to": 442.37,
+      "sid": 223,
+      "location": 2,
+      "content": "首先排除A档",
+      "music": 0.0
+    },
+    {
+      "from": 442.37,
+      "to": 444.23,
+      "sid": 224,
+      "location": 2,
+      "content": "哪怕是最天梯的阵容",
+      "music": 0.0
+    },
+    {
+      "from": 444.23,
+      "to": 446.05,
+      "sid": 225,
+      "location": 2,
+      "content": "理论上防守方也是好抢",
+      "music": 0.0
+    },
+    {
+      "from": 446.05,
+      "to": 448.13,
+      "sid": 226,
+      "location": 2,
+      "content": "进攻方只有一个口子可以出去",
+      "music": 0.0
+    },
+    {
+      "from": 448.13,
+      "to": 449.65,
+      "sid": 227,
+      "location": 2,
+      "content": "所以防守方好抢一大",
+      "music": 0.0
+    },
+    {
+      "from": 449.65,
+      "to": 451.309,
+      "sid": 228,
+      "location": 2,
+      "content": "反而进攻方难出去",
+      "music": 0.0
+    },
+    {
+      "from": 451.309,
+      "to": 453.189,
+      "sid": 229,
+      "location": 2,
+      "content": "二经验玩家行为模式",
+      "music": 0.0
+    },
+    {
+      "from": 453.189,
+      "to": 454.46,
+      "sid": 230,
+      "location": 2,
+      "content": "玩家的思维惯性",
+      "music": 0.0
+    },
+    {
+      "from": 454.46,
+      "to": 457.24,
+      "sid": 231,
+      "location": 2,
+      "content": "当前分段大部分玩家会怎么做",
+      "music": 0.0
+    },
+    {
+      "from": 457.24,
+      "to": 460.38,
+      "sid": 232,
+      "location": 2,
+      "content": "可以从你以往的对局经验中总结获取",
+      "music": 0.0
+    },
+    {
+      "from": 460.38,
+      "to": 462.92,
+      "sid": 233,
+      "location": 2,
+      "content": "大部分天梯玩家的习惯是抢A大",
+      "music": 0.0
+    },
+    {
+      "from": 462.92,
+      "to": 464.74,
+      "sid": 234,
+      "location": 2,
+      "content": "当对局量积累到一定时",
+      "music": 0.0
+    },
+    {
+      "from": 464.74,
+      "to": 466.26,
+      "sid": 235,
+      "location": 2,
+      "content": "那就是没经验经验",
+      "music": 0.0
+    },
+    {
+      "from": 466.26,
+      "to": 467.6,
+      "sid": 236,
+      "location": 2,
+      "content": "说白了那就是大数据",
+      "music": 0.0
+    },
+    {
+      "from": 467.6,
+      "to": 469.26,
+      "sid": 237,
+      "location": 2,
+      "content": "我之所以不第一时间抢A大",
+      "music": 0.0
+    },
+    {
+      "from": 469.26,
+      "to": 470.7,
+      "sid": 238,
+      "location": 2,
+      "content": "是因为天梯90%",
+      "music": 0.0
+    },
+    {
+      "from": 470.7,
+      "to": 472.789,
+      "sid": 239,
+      "location": 2,
+      "content": "莲花古城的对局都是这种情况",
+      "music": 0.0
+    },
+    {
+      "from": 472.789,
+      "to": 474.129,
+      "sid": 240,
+      "location": 2,
+      "content": "双方先去A打",
+      "music": 0.0
+    },
+    {
+      "from": 474.129,
+      "to": 475.509,
+      "sid": 241,
+      "location": 2,
+      "content": "常常咸淡批评枪",
+      "music": 0.0
+    },
+    {
+      "from": 475.509,
+      "to": 476.889,
+      "sid": 242,
+      "location": 2,
+      "content": "我不想打这么无脑",
+      "music": 0.0
+    },
+    {
+      "from": 476.889,
+      "to": 478.81,
+      "sid": 243,
+      "location": 2,
+      "content": "三角色特写",
+      "music": 0.0
+    },
+    {
+      "from": 478.81,
+      "to": 479.69,
+      "sid": 244,
+      "location": 2,
+      "content": "大家的玩法",
+      "music": 0.0
+    },
+    {
+      "from": 479.69,
+      "to": 481.75,
+      "sid": 245,
+      "location": 2,
+      "content": "固定站位自然容易判断出来",
+      "music": 0.0
+    },
+    {
+      "from": 481.75,
+      "to": 483.73,
+      "sid": 246,
+      "location": 2,
+      "content": "例如说烟位大概率站ab连",
+      "music": 0.0
+    },
+    {
+      "from": 483.73,
+      "to": 485.81,
+      "sid": 247,
+      "location": 2,
+      "content": "方便封两边的烟少尉",
+      "music": 0.0
+    },
+    {
+      "from": 485.81,
+      "to": 488.01,
+      "sid": 248,
+      "location": 2,
+      "content": "C点相比于A点更适合放道具",
+      "music": 0.0
+    },
+    {
+      "from": 488.01,
+      "to": 491.14,
+      "sid": 249,
+      "location": 2,
+      "content": "单人手一突二突先锋基本绑定抢A大",
+      "music": 0.0
+    },
+    {
+      "from": 491.14,
+      "to": 493.4,
+      "sid": 250,
+      "location": 2,
+      "content": "从而在脑子里面绘制出站位",
+      "music": 0.0
+    },
+    {
+      "from": 493.4,
+      "to": 496.24,
+      "sid": 251,
+      "location": 2,
+      "content": "进而不第一时间抢A大而去选择其他对策",
+      "music": 0.0
+    },
+    {
+      "from": 496.24,
+      "to": 498.78,
+      "sid": 252,
+      "location": 2,
+      "content": "四结合上述信息来源",
+      "music": 0.0
+    },
+    {
+      "from": 498.78,
+      "to": 500.42,
+      "sid": 253,
+      "location": 2,
+      "content": "最终推断的复合信息",
+      "music": 0.0
+    },
+    {
+      "from": 500.42,
+      "to": 501.54,
+      "sid": 254,
+      "location": 2,
+      "content": "队友报的点小",
+      "music": 0.0
+    },
+    {
+      "from": 501.54,
+      "to": 504.02,
+      "sid": 255,
+      "location": 2,
+      "content": "地图中显示的角色位置和释放技能",
+      "music": 0.0
+    },
+    {
+      "from": 504.02,
+      "to": 506.22,
+      "sid": 256,
+      "location": 2,
+      "content": "推断出哪个英雄大概在哪",
+      "music": 0.0
+    },
+    {
+      "from": 506.22,
+      "to": 508.74,
+      "sid": 257,
+      "location": 2,
+      "content": "经过几个回合摸出来的敌方防守习惯",
+      "music": 0.0
+    },
+    {
+      "from": 508.74,
+      "to": 509.58,
+      "sid": 258,
+      "location": 2,
+      "content": "进攻习惯",
+      "music": 0.0
+    },
+    {
+      "from": 509.58,
+      "to": 511.42,
+      "sid": 259,
+      "location": 2,
+      "content": "例如看见杰风和猎枪",
+      "music": 0.0
+    },
+    {
+      "from": 511.42,
+      "to": 513.54,
+      "sid": 260,
+      "location": 2,
+      "content": "基本能判断大部队的主攻方向",
+      "music": 0.0
+    },
+    {
+      "from": 513.54,
+      "to": 515.049,
+      "sid": 261,
+      "location": 2,
+      "content": "以及大概的边线位置",
+      "music": 0.0
+    },
+    {
+      "from": 515.049,
+      "to": 516.669,
+      "sid": 262,
+      "location": 2,
+      "content": "反之看见保安走单边",
+      "music": 0.0
+    },
+    {
+      "from": 516.669,
+      "to": 518.99,
+      "sid": 263,
+      "location": 2,
+      "content": "也能大概判断敌方主体在哪",
+      "music": 0.0
+    },
+    {
+      "from": 518.99,
+      "to": 521.35,
+      "sid": 264,
+      "location": 2,
+      "content": "经过前几个回合站位信息的收集",
+      "music": 0.0
+    },
+    {
+      "from": 521.35,
+      "to": 522.47,
+      "sid": 265,
+      "location": 2,
+      "content": "观察对方经济",
+      "music": 0.0
+    },
+    {
+      "from": 522.47,
+      "to": 525.75,
+      "sid": 266,
+      "location": 2,
+      "content": "可能企业枪和英雄大招点数情况去想想",
+      "music": 0.0
+    },
+    {
+      "from": 525.75,
+      "to": 526.83,
+      "sid": 267,
+      "location": 2,
+      "content": "打哪更简单",
+      "music": 0.0
+    },
+    {
+      "from": 526.83,
+      "to": 528.05,
+      "sid": 268,
+      "location": 2,
+      "content": "更容易进点啊",
+      "music": 0.0
+    },
+    {
+      "from": 528.05,
+      "to": 528.75,
+      "sid": 269,
+      "location": 2,
+      "content": "我看面板",
+      "music": 0.0
+    },
+    {
+      "from": 528.75,
+      "to": 532.47,
+      "sid": 270,
+      "location": 2,
+      "content": "看见对面有个存款2800杠20的少尉软柿子",
+      "music": 0.0
+    },
+    {
+      "from": 532.47,
+      "to": 533.54,
+      "sid": 271,
+      "location": 2,
+      "content": "你捏不捏",
+      "music": 0.0
+    },
+    {
+      "from": 533.54,
+      "to": 536.28,
+      "sid": 272,
+      "location": 2,
+      "content": "从不收集信息到主动收集信息",
+      "music": 0.0
+    },
+    {
+      "from": 536.28,
+      "to": 539.829,
+      "sid": 273,
+      "location": 2,
+      "content": "恭喜你迈出了通往神话之路的第一步",
+      "music": 0.0
+    },
+    {
+      "from": 540.189,
+      "to": 542.369,
+      "sid": 274,
+      "location": 2,
+      "content": "拿到的信息就进入下一个阶段",
+      "music": 0.0
+    },
+    {
+      "from": 542.369,
+      "to": 543.269,
+      "sid": 275,
+      "location": 2,
+      "content": "决策阶段",
+      "music": 0.0
+    },
+    {
+      "from": 543.269,
+      "to": 544.669,
+      "sid": 276,
+      "location": 2,
+      "content": "既然我通过我的经验",
+      "music": 0.0
+    },
+    {
+      "from": 544.669,
+      "to": 546.809,
+      "sid": 277,
+      "location": 2,
+      "content": "拿到大多数玩家抢A大的信息",
+      "music": 0.0
+    },
+    {
+      "from": 546.809,
+      "to": 549.0,
+      "sid": 278,
+      "location": 2,
+      "content": "自然我第一时间不会去抢A大",
+      "music": 0.0
+    },
+    {
+      "from": 549.0,
+      "to": 551.82,
+      "sid": 279,
+      "location": 2,
+      "content": "我就只会对我们先抢C娜手枪局",
+      "music": 0.0
+    },
+    {
+      "from": 551.82,
+      "to": 553.9,
+      "sid": 280,
+      "location": 2,
+      "content": "大家普遍认为打的不会很复杂",
+      "music": 0.0
+    },
+    {
+      "from": 553.9,
+      "to": 554.86,
+      "sid": 281,
+      "location": 2,
+      "content": "都是打快的",
+      "music": 0.0
+    },
+    {
+      "from": 554.86,
+      "to": 557.52,
+      "sid": 282,
+      "location": 2,
+      "content": "所以很容易调动对方防守人员的站位",
+      "music": 0.0
+    },
+    {
+      "from": 557.52,
+      "to": 560.99,
+      "sid": 283,
+      "location": 2,
+      "content": "此时我们假打C真打A的决策就成功了",
+      "music": 0.0
+    },
+    {
+      "from": 560.99,
+      "to": 562.41,
+      "sid": 284,
+      "location": 2,
+      "content": "这是团队上的决策",
+      "music": 0.0
+    },
+    {
+      "from": 562.41,
+      "to": 564.05,
+      "sid": 285,
+      "location": 2,
+      "content": "那就是通过沟通指挥",
+      "music": 0.0
+    },
+    {
+      "from": 564.05,
+      "to": 566.07,
+      "sid": 286,
+      "location": 2,
+      "content": "统一一下这把打哪该怎么打",
+      "music": 0.0
+    },
+    {
+      "from": 566.07,
+      "to": 568.87,
+      "sid": 287,
+      "location": 2,
+      "content": "例如之前视频提到过的TT3板斧Rush",
+      "music": 0.0
+    },
+    {
+      "from": 568.87,
+      "to": 571.56,
+      "sid": 288,
+      "location": 2,
+      "content": "一波流炮弹打包夹fake夹打",
+      "music": 0.0
+    },
+    {
+      "from": 571.56,
+      "to": 573.38,
+      "sid": 289,
+      "location": 2,
+      "content": "因为天梯打不了其他复杂的",
+      "music": 0.0
+    },
+    {
+      "from": 573.38,
+      "to": 574.6,
+      "sid": 290,
+      "location": 2,
+      "content": "有了进攻大方向后",
+      "music": 0.0
+    },
+    {
+      "from": 574.6,
+      "to": 576.24,
+      "sid": 291,
+      "location": 2,
+      "content": "对照公式就知道每个位置",
+      "music": 0.0
+    },
+    {
+      "from": 576.24,
+      "to": 577.28,
+      "sid": 292,
+      "location": 2,
+      "content": "每个人该干什么",
+      "music": 0.0
+    },
+    {
+      "from": 577.28,
+      "to": 577.98,
+      "sid": 293,
+      "location": 2,
+      "content": "有了框架",
+      "music": 0.0
+    },
+    {
+      "from": 577.98,
+      "to": 579.42,
+      "sid": 294,
+      "location": 2,
+      "content": "那就到了个人的决策",
+      "music": 0.0
+    },
+    {
+      "from": 579.42,
+      "to": 580.22,
+      "sid": 295,
+      "location": 2,
+      "content": "然后执行了",
+      "music": 0.0
+    },
+    {
+      "from": 580.22,
+      "to": 581.22,
+      "sid": 296,
+      "location": 2,
+      "content": "就是我该怎么走路",
+      "music": 0.0
+    },
+    {
+      "from": 581.22,
+      "to": 582.41,
+      "sid": 297,
+      "location": 2,
+      "content": "我该怎么去对枪了",
+      "music": 0.0
+    },
+    {
+      "from": 582.41,
+      "to": 584.51,
+      "sid": 298,
+      "location": 2,
+      "content": "不断地拿信息做决策",
+      "music": 0.0
+    },
+    {
+      "from": 584.51,
+      "to": 585.19,
+      "sid": 299,
+      "location": 2,
+      "content": "再执行",
+      "music": 0.0
+    },
+    {
+      "from": 585.19,
+      "to": 586.41,
+      "sid": 300,
+      "location": 2,
+      "content": "循环越来越快",
+      "music": 0.0
+    },
+    {
+      "from": 586.41,
+      "to": 587.33,
+      "sid": 301,
+      "location": 2,
+      "content": "越来越完整",
+      "music": 0.0
+    },
+    {
+      "from": 587.33,
+      "to": 589.21,
+      "sid": 302,
+      "location": 2,
+      "content": "直到成为本职高手",
+      "music": 0.0
+    },
+    {
+      "from": 589.21,
+      "to": 591.65,
+      "sid": 303,
+      "location": 2,
+      "content": "所以很多时候并不是你千万有问题",
+      "music": 0.0
+    },
+    {
+      "from": 591.65,
+      "to": 593.26,
+      "sid": 304,
+      "location": 2,
+      "content": "而是意识有大问题",
+      "music": 0.0
+    },
+    {
+      "from": 593.26,
+      "to": 594.38,
+      "sid": 305,
+      "location": 2,
+      "content": "我出这期视频",
+      "music": 0.0
+    },
+    {
+      "from": 594.38,
+      "to": 596.44,
+      "sid": 306,
+      "location": 2,
+      "content": "是因为有一个粉丝给我的视频提了意见",
+      "music": 0.0
+    },
+    {
+      "from": 596.44,
+      "to": 598.26,
+      "sid": 307,
+      "location": 2,
+      "content": "以及问了个很关键的问题",
+      "music": 0.0
+    },
+    {
+      "from": 598.26,
+      "to": 600.86,
+      "sid": 308,
+      "location": 2,
+      "content": "他说下三段同学是不知道该怎么打",
+      "music": 0.0
+    },
+    {
+      "from": 600.86,
+      "to": 602.12,
+      "sid": 309,
+      "location": 2,
+      "content": "该怎么分析站位",
+      "music": 0.0
+    },
+    {
+      "from": 602.12,
+      "to": 604.23,
+      "sid": 310,
+      "location": 2,
+      "content": "每局进攻纯看心情",
+      "music": 0.0
+    },
+    {
+      "from": 604.23,
+      "to": 605.35,
+      "sid": 311,
+      "location": 2,
+      "content": "正如同学所说",
+      "music": 0.0
+    },
+    {
+      "from": 605.35,
+      "to": 606.19,
+      "sid": 312,
+      "location": 2,
+      "content": "不是做不到",
+      "music": 0.0
+    },
+    {
+      "from": 606.19,
+      "to": 607.43,
+      "sid": 313,
+      "location": 2,
+      "content": "而是根本不去做",
+      "music": 0.0
+    },
+    {
+      "from": 607.43,
+      "to": 608.43,
+      "sid": 314,
+      "location": 2,
+      "content": "没打算去做",
+      "music": 0.0
+    },
+    {
+      "from": 608.43,
+      "to": 609.57,
+      "sid": 315,
+      "location": 2,
+      "content": "更不知道咋做",
+      "music": 0.0
+    },
+    {
+      "from": 609.57,
+      "to": 612.1,
+      "sid": 316,
+      "location": 2,
+      "content": "这些内容都可以归到意识篇里去解释",
+      "music": 0.0
+    },
+    {
+      "from": 612.1,
+      "to": 613.38,
+      "sid": 317,
+      "location": 2,
+      "content": "我反手给他发了个红包",
+      "music": 0.0
+    },
+    {
+      "from": 613.38,
+      "to": 614.18,
+      "sid": 318,
+      "location": 2,
+      "content": "请他喝奶茶",
+      "music": 0.0
+    },
+    {
+      "from": 614.18,
+      "to": 615.38,
+      "sid": 319,
+      "location": 2,
+      "content": "也欢迎大家进群",
+      "music": 0.0
+    },
+    {
+      "from": 615.38,
+      "to": 615.96,
+      "sid": 320,
+      "location": 2,
+      "content": "找搭子",
+      "music": 0.0
+    },
+    {
+      "from": 615.96,
+      "to": 618.38,
+      "sid": 321,
+      "location": 2,
+      "content": "找peer的队伍约训练赛来共享文档",
+      "music": 0.0
+    },
+    {
+      "from": 618.38,
+      "to": 619.4,
+      "sid": 322,
+      "location": 2,
+      "content": "给我视频提意见",
+      "music": 0.0
+    },
+    {
+      "from": 619.4,
+      "to": 620.81,
+      "sid": 323,
+      "location": 2,
+      "content": "有奶茶喝哦",
+      "music": 0.0
+    },
+    {
+      "from": 621.17,
+      "to": 622.33,
+      "sid": 324,
+      "location": 2,
+      "content": "到了执行阶段",
+      "music": 0.0
+    },
+    {
+      "from": 622.33,
+      "to": 624.22,
+      "sid": 325,
+      "location": 2,
+      "content": "意识如何影响枪法呢",
+      "music": 0.0
+    },
+    {
+      "from": 624.22,
+      "to": 625.62,
+      "sid": 326,
+      "location": 2,
+      "content": "镜头拉回个人视角",
+      "music": 0.0
+    },
+    {
+      "from": 625.62,
+      "to": 627.54,
+      "sid": 327,
+      "location": 2,
+      "content": "我们把前面的所有信息串联起来",
+      "music": 0.0
+    },
+    {
+      "from": 627.54,
+      "to": 629.4,
+      "sid": 328,
+      "location": 2,
+      "content": "那就是我完整思路的解析",
+      "music": 0.0
+    },
+    {
+      "from": 629.4,
+      "to": 630.7,
+      "sid": 329,
+      "location": 2,
+      "content": "那就是所谓的思路解析",
+      "music": 0.0
+    },
+    {
+      "from": 630.7,
+      "to": 631.98,
+      "sid": 330,
+      "location": 2,
+      "content": "视频来看这个残局",
+      "music": 0.0
+    },
+    {
+      "from": 631.98,
+      "to": 634.58,
+      "sid": 331,
+      "location": 2,
+      "content": "开局闪传控B大前点把幻龙击杀",
+      "music": 0.0
+    },
+    {
+      "from": 634.58,
+      "to": 636.1,
+      "sid": 332,
+      "location": 2,
+      "content": "同时被黑梦照出来",
+      "music": 0.0
+    },
+    {
+      "from": 636.1,
+      "to": 637.48,
+      "sid": 333,
+      "location": 2,
+      "content": "得知黑梦大概位置",
+      "music": 0.0
+    },
+    {
+      "from": 637.48,
+      "to": 640.74,
+      "sid": 334,
+      "location": 2,
+      "content": "这把我克的战术是假B真AB大动作最大",
+      "music": 0.0
+    },
+    {
+      "from": 640.74,
+      "to": 641.48,
+      "sid": 335,
+      "location": 2,
+      "content": "A大静默",
+      "music": 0.0
+    },
+    {
+      "from": 641.48,
+      "to": 642.28,
+      "sid": 336,
+      "location": 2,
+      "content": "然后慢推",
+      "music": 0.0
+    },
+    {
+      "from": 642.28,
+      "to": 644.2,
+      "sid": 337,
+      "location": 2,
+      "content": "第二时间开大搜B包点",
+      "music": 0.0
+    },
+    {
+      "from": 644.2,
+      "to": 644.92,
+      "sid": 338,
+      "location": 2,
+      "content": "拿到B包点",
+      "music": 0.0
+    },
+    {
+      "from": 644.92,
+      "to": 645.7,
+      "sid": 339,
+      "location": 2,
+      "content": "没人的信息",
+      "music": 0.0
+    },
+    {
+      "from": 645.7,
+      "to": 646.86,
+      "sid": 340,
+      "location": 2,
+      "content": "拉扯对方阵型",
+      "music": 0.0
+    },
+    {
+      "from": 646.86,
+      "to": 650.129,
+      "sid": 341,
+      "location": 2,
+      "content": "让对面觉得我不会打B马上做出下一步决策",
+      "music": 0.0
+    },
+    {
+      "from": 650.129,
+      "to": 651.069,
+      "sid": 342,
+      "location": 2,
+      "content": "让队友推A点",
+      "music": 0.0
+    },
+    {
+      "from": 652.149,
+      "to": 653.049,
+      "sid": 343,
+      "location": 2,
+      "content": "结果没搜点",
+      "music": 0.0
+    },
+    {
+      "from": 653.049,
+      "to": 657.01,
+      "sid": 344,
+      "location": 2,
+      "content": "准备消灭了爆能气落在A区中路为四",
+      "music": 0.0
+    },
+    {
+      "from": 657.01,
+      "to": 657.79,
+      "sid": 345,
+      "location": 2,
+      "content": "被穆蝶击杀",
+      "music": 0.0
+    },
+    {
+      "from": 657.79,
+      "to": 659.01,
+      "sid": 346,
+      "location": 2,
+      "content": "拿到目的位置信息",
+      "music": 0.0
+    },
+    {
+      "from": 659.01,
+      "to": 659.93,
+      "sid": 347,
+      "location": 2,
+      "content": "趁他放松警惕",
+      "music": 0.0
+    },
+    {
+      "from": 659.93,
+      "to": 660.99,
+      "sid": 348,
+      "location": 2,
+      "content": "我做出下一步决策",
+      "music": 0.0
+    },
+    {
+      "from": 660.99,
+      "to": 661.59,
+      "sid": 349,
+      "location": 2,
+      "content": "去断他",
+      "music": 0.0
+    },
+    {
+      "from": 661.59,
+      "to": 664.1,
+      "sid": 350,
+      "location": 2,
+      "content": "敌明我暗脱水即可执行阶段完成",
+      "music": 0.0
+    },
+    {
+      "from": 664.1,
+      "to": 665.08,
+      "sid": 351,
+      "location": 2,
+      "content": "进入下一个循环",
+      "music": 0.0
+    },
+    {
+      "from": 665.08,
+      "to": 666.82,
+      "sid": 352,
+      "location": 2,
+      "content": "放出TP提供转点可能性",
+      "music": 0.0
+    },
+    {
+      "from": 666.82,
+      "to": 668.84,
+      "sid": 353,
+      "location": 2,
+      "content": "跟队友抱团推包点拖死目的",
+      "music": 0.0
+    },
+    {
+      "from": 668.84,
+      "to": 671.72,
+      "sid": 354,
+      "location": 2,
+      "content": "等一拍笑一下吧",
+      "music": 0.0
+    },
+    {
+      "from": 673.66,
+      "to": 676.3,
+      "sid": 355,
+      "location": 2,
+      "content": "黑木丢鬼眼推断出黑梦大概在A塔",
+      "music": 0.0
+    },
+    {
+      "from": 676.3,
+      "to": 679.22,
+      "sid": 356,
+      "location": 2,
+      "content": "同时敌方保安开大小地图看队友尸体位置",
+      "music": 0.0
+    },
+    {
+      "from": 679.22,
+      "to": 680.48,
+      "sid": 357,
+      "location": 2,
+      "content": "那就是保安的大概位置",
+      "music": 0.0
+    },
+    {
+      "from": 680.48,
+      "to": 681.18,
+      "sid": 358,
+      "location": 2,
+      "content": "保安在中路",
+      "music": 0.0
+    },
+    {
+      "from": 681.18,
+      "to": 681.68,
+      "sid": 359,
+      "location": 2,
+      "content": "火A大",
+      "music": 0.0
+    },
+    {
+      "from": 681.68,
+      "to": 683.6,
+      "sid": 360,
+      "location": 2,
+      "content": "此刻信心拿完做出决策",
+      "music": 0.0
+    },
+    {
+      "from": 683.6,
+      "to": 685.16,
+      "sid": 361,
+      "location": 2,
+      "content": "我的想法里面就有解释",
+      "music": 0.0
+    },
+    {
+      "from": 685.16,
+      "to": 687.96,
+      "sid": 362,
+      "location": 2,
+      "content": "KO从警家一路走到B点包给我TP后",
+      "music": 0.0
+    },
+    {
+      "from": 687.96,
+      "to": 689.46,
+      "sid": 363,
+      "location": 2,
+      "content": "我从匪家往B包点进发",
+      "music": 0.0
+    },
+    {
+      "from": 689.46,
+      "to": 691.41,
+      "sid": 364,
+      "location": 2,
+      "content": "最后汇合形成二打二的场景",
+      "music": 0.0
+    },
+    {
+      "from": 691.41,
+      "to": 693.61,
+      "sid": 365,
+      "location": 2,
+      "content": "决策做完马上执行药包TP",
+      "music": 0.0
+    },
+    {
+      "from": 693.61,
+      "to": 694.89,
+      "sid": 366,
+      "location": 2,
+      "content": "可惜KO倒下",
+      "music": 0.0
+    },
+    {
+      "from": 694.89,
+      "to": 696.64,
+      "sid": 367,
+      "location": 2,
+      "content": "再次拿信息做决策",
+      "music": 0.0
+    },
+    {
+      "from": 696.64,
+      "to": 698.5,
+      "sid": 368,
+      "location": 2,
+      "content": "这时候的信息就是结合地形",
+      "music": 0.0
+    },
+    {
+      "from": 698.5,
+      "to": 700.16,
+      "sid": 369,
+      "location": 2,
+      "content": "经验等的复合信息了",
+      "music": 0.0
+    },
+    {
+      "from": 700.16,
+      "to": 701.72,
+      "sid": 370,
+      "location": 2,
+      "content": "天梯玩家大多没耐心",
+      "music": 0.0
+    },
+    {
+      "from": 701.72,
+      "to": 703.76,
+      "sid": 371,
+      "location": 2,
+      "content": "二打一大概率抱团走最近的路",
+      "music": 0.0
+    },
+    {
+      "from": 703.76,
+      "to": 706.94,
+      "sid": 372,
+      "location": 2,
+      "content": "那就是中路从匪家和警家回防是小概率事件",
+      "music": 0.0
+    },
+    {
+      "from": 706.94,
+      "to": 708.62,
+      "sid": 373,
+      "location": 2,
+      "content": "我选择下B小包抢timing",
+      "music": 0.0
+    },
+    {
+      "from": 708.62,
+      "to": 709.84,
+      "sid": 374,
+      "location": 2,
+      "content": "架逼抢回防的角色",
+      "music": 0.0
+    },
+    {
+      "from": 709.84,
+      "to": 712.78,
+      "sid": 375,
+      "location": 2,
+      "content": "然后直接两个B小鬼",
+      "music": 0.0
+    },
+    {
+      "from": 712.78,
+      "to": 713.86,
+      "sid": 376,
+      "location": 2,
+      "content": "一个拉拉",
+      "music": 0.0
+    },
+    {
+      "from": 713.86,
+      "to": 717.14,
+      "sid": 377,
+      "location": 2,
+      "content": "两个感觉是唯一解",
+      "music": 0.0
+    },
+    {
+      "from": 718.68,
+      "to": 720.72,
+      "sid": 378,
+      "location": 2,
+      "content": "三星思路正确简单",
+      "music": 0.0
+    },
+    {
+      "from": 720.72,
+      "to": 721.58,
+      "sid": 379,
+      "location": 2,
+      "content": "架枪拿下",
+      "music": 0.0
+    },
+    {
+      "from": 721.58,
+      "to": 722.64,
+      "sid": 380,
+      "location": 2,
+      "content": "此刻没有信息",
+      "music": 0.0
+    },
+    {
+      "from": 722.64,
+      "to": 724.48,
+      "sid": 381,
+      "location": 2,
+      "content": "蛇伏等对方暴露信息",
+      "music": 0.0
+    },
+    {
+      "from": 724.48,
+      "to": 725.44,
+      "sid": 382,
+      "location": 2,
+      "content": "黑某没耐心了",
+      "music": 0.0
+    },
+    {
+      "from": 725.44,
+      "to": 726.24,
+      "sid": 383,
+      "location": 2,
+      "content": "暴露在了B小",
+      "music": 0.0
+    },
+    {
+      "from": 726.24,
+      "to": 728.12,
+      "sid": 384,
+      "location": 2,
+      "content": "我依靠地形以及脚步信息",
+      "music": 0.0
+    },
+    {
+      "from": 728.12,
+      "to": 729.56,
+      "sid": 385,
+      "location": 2,
+      "content": "做好了抓timing的决策",
+      "music": 0.0
+    },
+    {
+      "from": 729.56,
+      "to": 731.16,
+      "sid": 386,
+      "location": 2,
+      "content": "最后执行",
+      "music": 0.0
+    },
+    {
+      "from": 735.32,
+      "to": 739.96,
+      "sid": 387,
+      "location": 2,
+      "content": "都是简单枪或者测试的是谁啊",
+      "music": 0.0
+    },
+    {
+      "from": 739.96,
+      "to": 740.56,
+      "sid": 388,
+      "location": 2,
+      "content": "Let's go",
+      "music": 0.0
+    },
+    {
+      "from": 740.56,
+      "to": 740.92,
+      "sid": 389,
+      "location": 2,
+      "content": "Let's go",
+      "music": 0.0
+    },
+    {
+      "from": 740.92,
+      "to": 741.869,
+      "sid": 390,
+      "location": 2,
+      "content": "Let's go",
+      "music": 0.0
+    },
+    {
+      "from": 741.869,
+      "to": 743.209,
+      "sid": 391,
+      "location": 2,
+      "content": "当你意识拉满",
+      "music": 0.0
+    },
+    {
+      "from": 743.209,
+      "to": 745.169,
+      "sid": 392,
+      "location": 2,
+      "content": "效果就无限接近于透视",
+      "music": 0.0
+    },
+    {
+      "from": 745.169,
+      "to": 746.809,
+      "sid": 393,
+      "location": 2,
+      "content": "你知道人会从哪来",
+      "music": 0.0
+    },
+    {
+      "from": 746.809,
+      "to": 748.68,
+      "sid": 394,
+      "location": 2,
+      "content": "你的准心摆放自然正确",
+      "music": 0.0
+    },
+    {
+      "from": 748.68,
+      "to": 749.94,
+      "sid": 395,
+      "location": 2,
+      "content": "操作干净利落",
+      "music": 0.0
+    },
+    {
+      "from": 749.94,
+      "to": 752.28,
+      "sid": 396,
+      "location": 2,
+      "content": "你不再需要靠反应区一次定位",
+      "music": 0.0
+    },
+    {
+      "from": 752.28,
+      "to": 755.069,
+      "sid": 397,
+      "location": 2,
+      "content": "而是提前等待敌人撞上你的准星",
+      "music": 0.0
+    },
+    {
+      "from": 755.069,
+      "to": 756.869,
+      "sid": 398,
+      "location": 2,
+      "content": "这时候你每天练练枪法",
+      "music": 0.0
+    },
+    {
+      "from": 756.869,
+      "to": 758.4,
+      "sid": 399,
+      "location": 2,
+      "content": "才真正有了用武之地",
+      "music": 0.0
+    },
+    {
+      "from": 758.4,
+      "to": 761.38,
+      "sid": 400,
+      "location": 2,
+      "content": "所谓提升意识不是玄学的去培养一种感觉",
+      "music": 0.0
+    },
+    {
+      "from": 761.38,
+      "to": 763.48,
+      "sid": 401,
+      "location": 2,
+      "content": "而是系统的主动的去训练自己",
+      "music": 0.0
+    },
+    {
+      "from": 763.48,
+      "to": 765.36,
+      "sid": 402,
+      "location": 2,
+      "content": "收集处理和利用信息的能力",
+      "music": 0.0
+    },
+    {
+      "from": 765.36,
+      "to": 766.86,
+      "sid": 403,
+      "location": 2,
+      "content": "试着用这个框架去思考",
+      "music": 0.0
+    },
+    {
+      "from": 766.86,
+      "to": 770.14,
+      "sid": 404,
+      "location": 2,
+      "content": "你会发现整个游戏在你眼中都会变得无比通透",
+      "music": 0.0
+    },
+    {
+      "from": 770.14,
+      "to": 771.42,
+      "sid": 405,
+      "location": 2,
+      "content": "切记当无脑枪男",
+      "music": 0.0
+    },
+    {
+      "from": 771.42,
+      "to": 773.46,
+      "sid": 406,
+      "location": 2,
+      "content": "我做这期视频前看了看go娃",
+      "music": 0.0
+    },
+    {
+      "from": 773.46,
+      "to": 774.64,
+      "sid": 407,
+      "location": 2,
+      "content": "两个区的意识向视频",
+      "music": 0.0
+    },
+    {
+      "from": 774.64,
+      "to": 776.74,
+      "sid": 408,
+      "location": 2,
+      "content": "基本上没有人能把这个概念讲明白",
+      "music": 0.0
+    },
+    {
+      "from": 776.74,
+      "to": 777.88,
+      "sid": 409,
+      "location": 2,
+      "content": "且转化为实战",
+      "music": 0.0
+    },
+    {
+      "from": 777.88,
+      "to": 779.48,
+      "sid": 410,
+      "location": 2,
+      "content": "前面这么多期视频的铺垫",
+      "music": 0.0
+    },
+    {
+      "from": 779.48,
+      "to": 782.12,
+      "sid": 411,
+      "location": 2,
+      "content": "也是为了系统的告诉大家瓦该怎么玩",
+      "music": 0.0
+    },
+    {
+      "from": 782.12,
+      "to": 783.77,
+      "sid": 412,
+      "location": 2,
+      "content": "甚至不止瓦这游戏",
+      "music": 0.0
+    },
+    {
+      "from": 783.77,
+      "to": 785.81,
+      "sid": 413,
+      "location": 2,
+      "content": "这也是为什么我没靠夸张的想法",
+      "music": 0.0
+    },
+    {
+      "from": 785.81,
+      "to": 787.31,
+      "sid": 414,
+      "location": 2,
+      "content": "也能打到神话三的原因",
+      "music": 0.0
+    },
+    {
+      "from": 787.31,
+      "to": 789.23,
+      "sid": 415,
+      "location": 2,
+      "content": "希望大家有所收获",
+      "music": 0.0
+    },
+    {
+      "from": 789.23,
+      "to": 789.95,
+      "sid": 416,
+      "location": 2,
+      "content": "好的",
+      "music": 0.0
+    },
+    {
+      "from": 789.95,
+      "to": 792.67,
+      "sid": 417,
+      "location": 2,
+      "content": "以上就是本期白羊说点面意识篇的全部内容",
+      "music": 0.0
+    },
+    {
+      "from": 792.67,
+      "to": 793.95,
+      "sid": 418,
+      "location": 2,
+      "content": "如果这些视频对你有帮助",
+      "music": 0.0
+    },
+    {
+      "from": 793.95,
+      "to": 794.73,
+      "sid": 419,
+      "location": 2,
+      "content": "请务必点赞",
+      "music": 0.0
+    },
+    {
+      "from": 794.73,
+      "to": 796.31,
+      "sid": 420,
+      "location": 2,
+      "content": "投币收藏一键三连",
+      "music": 0.0
+    },
+    {
+      "from": 796.31,
+      "to": 797.66,
+      "sid": 421,
+      "location": 2,
+      "content": "这是对我最大的鼓励",
+      "music": 0.0
+    },
+    {
+      "from": 797.66,
+      "to": 799.5,
+      "sid": 422,
+      "location": 2,
+      "content": "如果你有特别坐牢的对局demo",
+      "music": 0.0
+    },
+    {
+      "from": 799.5,
+      "to": 800.62,
+      "sid": 423,
+      "location": 2,
+      "content": "也欢迎找我复盘",
+      "music": 0.0
+    },
+    {
+      "from": 800.62,
+      "to": 803.03,
+      "sid": 424,
+      "location": 2,
+      "content": "下期我将彻底拆解枪法",
+      "music": 0.0
+    },
+    {
+      "from": 803.03,
+      "to": 804.47,
+      "sid": 425,
+      "location": 2,
+      "content": "打破你的瞄准焦虑",
+      "music": 0.0
+    },
+    {
+      "from": 804.47,
+      "to": 806.8,
+      "sid": 426,
+      "location": 2,
+      "content": "枪管篇过后正式更新复盘系列",
+      "music": 0.0
+    },
+    {
+      "from": 806.8,
+      "to": 808.36,
+      "sid": 427,
+      "location": 2,
+      "content": "科学上分关注白羊",
+      "music": 0.0
+    },
+    {
+      "from": 808.36,
+      "to": 809.92,
+      "sid": 428,
+      "location": 2,
+      "content": "我们下期白羊说点面",
+      "music": 0.0
+    },
+    {
+      "from": 809.92,
+      "to": 811.32,
+      "sid": 429,
+      "location": 2,
+      "content": "香火篇再见",
+      "music": 0.0
+    }
+  ]
+}

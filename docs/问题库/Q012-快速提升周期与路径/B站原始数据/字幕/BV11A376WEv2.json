@@ -1,0 +1,4198 @@
+{
+  "bvid": "BV11A376WEv2",
+  "aid": 116984490493538,
+  "cid": 40306148851,
+  "meta": {
+    "title": "想要进步但不知道自己哪里存在问题，想要提升段位但不知道自己要提升什么，这一期从简到繁，从基础到思路，用长达4000h的游戏经验来告诉大家怎么快速提升自己水平",
+    "pages": [
+      {
+        "cid": 40306148851,
+        "page": 1,
+        "from": "vupload",
+        "part": "lv_0_20260725192427",
+        "duration": 1258,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 2304,
+          "height": 1440,
+          "rotate": 0
+        },
+        "first_frame": "http://i2.hdslb.com/bfs/storyff/_0000036h6aimobx561zrlslhjpg6xvb_firsti.jpg",
+        "ctime": 1785042029
+      }
+    ],
+    "desc": "用自己一点点积攒的游戏思路和经验分享给大家，给大家带来最简单最普通的实用的提升思路和基本功教学",
+    "owner": "平凡的一突",
+    "duration": 1258
+  },
+  "subtitle_info": {
+    "lan": "ai-zh",
+    "url": "https://aisubtitle.hdslb.com/bfs/ai_subtitle/prod/11698449049353840306148851a649556eaf53ad0a512841831951c2cd?auth_key=1792037902-b15fccecd7e0475d8b97d0873d75a645-0-57c6f04cfff8394459ab84643a4b8a94",
+    "lan_doc": "中文"
+  },
+  "status": "ok",
+  "segment_count": 520,
+  "body": [
+    {
+      "from": 0.92,
+      "to": 5.279,
+      "sid": 1,
+      "location": 2,
+      "content": "没天赋怎么快速黑铁上超凡宝宝级教学",
+      "music": 0.0
+    },
+    {
+      "from": 5.279,
+      "to": 6.339,
+      "sid": 2,
+      "location": 2,
+      "content": "从简到难",
+      "music": 0.0
+    },
+    {
+      "from": 6.339,
+      "to": 8.539,
+      "sid": 3,
+      "location": 2,
+      "content": "让你也尝试成为顿悟哥",
+      "music": 0.0
+    },
+    {
+      "from": 8.539,
+      "to": 10.119,
+      "sid": 4,
+      "location": 2,
+      "content": "这一期视频有点长",
+      "music": 0.0
+    },
+    {
+      "from": 10.119,
+      "to": 11.99,
+      "sid": 5,
+      "location": 2,
+      "content": "大家可以先收藏",
+      "music": 0.0
+    },
+    {
+      "from": 12.47,
+      "to": 13.79,
+      "sid": 6,
+      "location": 2,
+      "content": "大家听到的最多的一句话",
+      "music": 0.0
+    },
+    {
+      "from": 13.79,
+      "to": 15.49,
+      "sid": 7,
+      "location": 2,
+      "content": "是不是怎么走路",
+      "music": 0.0
+    },
+    {
+      "from": 15.49,
+      "to": 17.19,
+      "sid": 8,
+      "location": 2,
+      "content": "或者说怎么看一个人会不会玩",
+      "music": 0.0
+    },
+    {
+      "from": 17.19,
+      "to": 18.689,
+      "sid": 9,
+      "location": 2,
+      "content": "是从他走路开始",
+      "music": 0.0
+    },
+    {
+      "from": 18.689,
+      "to": 20.389,
+      "sid": 10,
+      "location": 2,
+      "content": "那怎样才算会走路呢",
+      "music": 0.0
+    },
+    {
+      "from": 20.389,
+      "to": 22.749,
+      "sid": 11,
+      "location": 2,
+      "content": "第一点就是很多新手玩家",
+      "music": 0.0
+    },
+    {
+      "from": 22.749,
+      "to": 25.349,
+      "sid": 12,
+      "location": 2,
+      "content": "甚至是很多铂金钻石玩家的一个通病",
+      "music": 0.0
+    },
+    {
+      "from": 25.349,
+      "to": 28.34,
+      "sid": 13,
+      "location": 2,
+      "content": "就是前进方向和左右移动方向",
+      "music": 0.0
+    },
+    {
+      "from": 28.34,
+      "to": 32.58,
+      "sid": 14,
+      "location": 2,
+      "content": "同时摁在进行一个对枪的行为的时候",
+      "music": 0.0
+    },
+    {
+      "from": 32.58,
+      "to": 34.86,
+      "sid": 15,
+      "location": 2,
+      "content": "比如说要面临这边对枪的时候",
+      "music": 0.0
+    },
+    {
+      "from": 34.86,
+      "to": 35.68,
+      "sid": 16,
+      "location": 2,
+      "content": "喜欢前进",
+      "music": 0.0
+    },
+    {
+      "from": 35.68,
+      "to": 39.05,
+      "sid": 17,
+      "location": 2,
+      "content": "同时按左右变成一个斜线的移动方向",
+      "music": 0.0
+    },
+    {
+      "from": 39.05,
+      "to": 40.75,
+      "sid": 18,
+      "location": 2,
+      "content": "这会导致一个什么效果呢",
+      "music": 0.0
+    },
+    {
+      "from": 40.75,
+      "to": 43.07,
+      "sid": 19,
+      "location": 2,
+      "content": "第一点就是你急停是不好进行的",
+      "music": 0.0
+    },
+    {
+      "from": 43.07,
+      "to": 44.17,
+      "sid": 20,
+      "location": 2,
+      "content": "同时按两个键",
+      "music": 0.0
+    },
+    {
+      "from": 44.17,
+      "to": 46.04,
+      "sid": 21,
+      "location": 2,
+      "content": "你急停速度是很慢的",
+      "music": 0.0
+    },
+    {
+      "from": 46.04,
+      "to": 48.34,
+      "sid": 22,
+      "location": 2,
+      "content": "你不好去进行一个反向a AD急停",
+      "music": 0.0
+    },
+    {
+      "from": 48.34,
+      "to": 50.239,
+      "sid": 23,
+      "location": 2,
+      "content": "或者说你要去急停的时候",
+      "music": 0.0
+    },
+    {
+      "from": 50.239,
+      "to": 51.699,
+      "sid": 24,
+      "location": 2,
+      "content": "不需要松开两个键",
+      "music": 0.0
+    },
+    {
+      "from": 51.699,
+      "to": 53.619,
+      "sid": 25,
+      "location": 2,
+      "content": "导致你整体的反应速度会慢",
+      "music": 0.0
+    },
+    {
+      "from": 53.619,
+      "to": 57.79,
+      "sid": 26,
+      "location": 2,
+      "content": "第二点就是整体的预瞄的移动的范围是很大的",
+      "music": 0.0
+    },
+    {
+      "from": 57.79,
+      "to": 59.61,
+      "sid": 27,
+      "location": 2,
+      "content": "因为当你要去稳定准星",
+      "music": 0.0
+    },
+    {
+      "from": 59.61,
+      "to": 62.33,
+      "sid": 28,
+      "location": 2,
+      "content": "比如说将准心放在这一块范围上的时候",
+      "music": 0.0
+    },
+    {
+      "from": 62.33,
+      "to": 65.49,
+      "sid": 29,
+      "location": 2,
+      "content": "这样子去移动去稳定",
+      "music": 0.0
+    },
+    {
+      "from": 65.49,
+      "to": 67.89,
+      "sid": 30,
+      "location": 2,
+      "content": "按一个键比按两个键同时要去稳定",
+      "music": 0.0
+    },
+    {
+      "from": 67.89,
+      "to": 69.259,
+      "sid": 31,
+      "location": 2,
+      "content": "难度要大得多",
+      "music": 0.0
+    },
+    {
+      "from": 69.259,
+      "to": 70.839,
+      "sid": 32,
+      "location": 2,
+      "content": "这样子会导致什么原因",
+      "music": 0.0
+    },
+    {
+      "from": 70.839,
+      "to": 72.359,
+      "sid": 33,
+      "location": 2,
+      "content": "你的准心会很抖",
+      "music": 0.0
+    },
+    {
+      "from": 72.359,
+      "to": 73.659,
+      "sid": 34,
+      "location": 2,
+      "content": "所以有很多新手玩家",
+      "music": 0.0
+    },
+    {
+      "from": 73.659,
+      "to": 77.05,
+      "sid": 35,
+      "location": 2,
+      "content": "他第一视角准星是这样子去来回的",
+      "music": 0.0
+    },
+    {
+      "from": 77.05,
+      "to": 78.55,
+      "sid": 36,
+      "location": 2,
+      "content": "把自己的嘴型进行一个拖拽",
+      "music": 0.0
+    },
+    {
+      "from": 78.55,
+      "to": 81.5,
+      "sid": 37,
+      "location": 2,
+      "content": "就导致整体的屏幕会有一个这样的效果",
+      "music": 0.0
+    },
+    {
+      "from": 81.82,
+      "to": 83.26,
+      "sid": 38,
+      "location": 2,
+      "content": "是不是能肉眼可见",
+      "music": 0.0
+    },
+    {
+      "from": 83.26,
+      "to": 86.54,
+      "sid": 39,
+      "location": 2,
+      "content": "感受到整体的准心十分的摇晃",
+      "music": 0.0
+    },
+    {
+      "from": 86.54,
+      "to": 88.26,
+      "sid": 40,
+      "location": 2,
+      "content": "所以我们怎么去学会走路呢",
+      "music": 0.0
+    },
+    {
+      "from": 88.26,
+      "to": 92.199,
+      "sid": 41,
+      "location": 2,
+      "content": "第一点就是将前进后退和左右分开拳",
+      "music": 0.0
+    },
+    {
+      "from": 92.199,
+      "to": 94.819,
+      "sid": 42,
+      "location": 2,
+      "content": "去保证你前进的道路的时候",
+      "music": 0.0
+    },
+    {
+      "from": 94.819,
+      "to": 96.339,
+      "sid": 43,
+      "location": 2,
+      "content": "有敌人的情况下",
+      "music": 0.0
+    },
+    {
+      "from": 96.339,
+      "to": 98.079,
+      "sid": 44,
+      "location": 2,
+      "content": "只会移动一个方向",
+      "music": 0.0
+    },
+    {
+      "from": 98.079,
+      "to": 101.49,
+      "sid": 45,
+      "location": 2,
+      "content": "让你的画面和你的瞄准更加干净",
+      "music": 0.0
+    },
+    {
+      "from": 102.04,
+      "to": 104.62,
+      "sid": 46,
+      "location": 2,
+      "content": "第二点就是近大远小",
+      "music": 0.0
+    },
+    {
+      "from": 104.62,
+      "to": 106.06,
+      "sid": 47,
+      "location": 2,
+      "content": "什么是近大远小",
+      "music": 0.0
+    },
+    {
+      "from": 106.06,
+      "to": 109.4,
+      "sid": 48,
+      "location": 2,
+      "content": "就是这面墙在我的视角里",
+      "music": 0.0
+    },
+    {
+      "from": 109.4,
+      "to": 111.0,
+      "sid": 49,
+      "location": 2,
+      "content": "是不是随着我的移动",
+      "music": 0.0
+    },
+    {
+      "from": 111.0,
+      "to": 112.46,
+      "sid": 50,
+      "location": 2,
+      "content": "它会变得越来越大",
+      "music": 0.0
+    },
+    {
+      "from": 112.46,
+      "to": 113.62,
+      "sid": 51,
+      "location": 2,
+      "content": "这是什么情况呢",
+      "music": 0.0
+    },
+    {
+      "from": 113.62,
+      "to": 116.4,
+      "sid": 52,
+      "location": 2,
+      "content": "就是我靠近这面墙的时候",
+      "music": 0.0
+    },
+    {
+      "from": 116.4,
+      "to": 120.22,
+      "sid": 53,
+      "location": 2,
+      "content": "前面这一块的范围是看不见的",
+      "music": 0.0
+    },
+    {
+      "from": 120.22,
+      "to": 123.759,
+      "sid": 54,
+      "location": 2,
+      "content": "所以因为我离他距离近了",
+      "music": 0.0
+    },
+    {
+      "from": 123.759,
+      "to": 125.299,
+      "sid": 55,
+      "location": 2,
+      "content": "他挡住了我的视角",
+      "music": 0.0
+    },
+    {
+      "from": 125.299,
+      "to": 126.459,
+      "sid": 56,
+      "location": 2,
+      "content": "所以他是大的",
+      "music": 0.0
+    },
+    {
+      "from": 126.459,
+      "to": 129.119,
+      "sid": 57,
+      "location": 2,
+      "content": "而当我们后退是不是距离变远了",
+      "music": 0.0
+    },
+    {
+      "from": 129.119,
+      "to": 133.92,
+      "sid": 58,
+      "location": 2,
+      "content": "这个时候这一面墙就我慢慢的显现出来",
+      "music": 0.0
+    },
+    {
+      "from": 133.92,
+      "to": 137.62,
+      "sid": 59,
+      "location": 2,
+      "content": "所以离我们当我们距离这个掩体远的时候",
+      "music": 0.0
+    },
+    {
+      "from": 137.62,
+      "to": 139.28,
+      "sid": 60,
+      "location": 2,
+      "content": "能看到更多的范围",
+      "music": 0.0
+    },
+    {
+      "from": 139.28,
+      "to": 141.76,
+      "sid": 61,
+      "location": 2,
+      "content": "这就是远远小",
+      "music": 0.0
+    },
+    {
+      "from": 142.04,
+      "to": 143.9,
+      "sid": 62,
+      "location": 2,
+      "content": "这个具体应用环境是什么呢",
+      "music": 0.0
+    },
+    {
+      "from": 143.9,
+      "to": 147.08,
+      "sid": 63,
+      "location": 2,
+      "content": "就是当我们看到具体的时候",
+      "music": 0.0
+    },
+    {
+      "from": 147.08,
+      "to": 148.12,
+      "sid": 64,
+      "location": 2,
+      "content": "像这一块掩体",
+      "music": 0.0
+    },
+    {
+      "from": 148.12,
+      "to": 150.04,
+      "sid": 65,
+      "location": 2,
+      "content": "我们靠近这一块的时候",
+      "music": 0.0
+    },
+    {
+      "from": 150.04,
+      "to": 153.78,
+      "sid": 66,
+      "location": 2,
+      "content": "就可以利用近大远小去慢慢的蹭出这一块",
+      "music": 0.0
+    },
+    {
+      "from": 153.78,
+      "to": 156.37,
+      "sid": 67,
+      "location": 2,
+      "content": "蹲在这一块的人可以看到一个手臂",
+      "music": 0.0
+    },
+    {
+      "from": 156.37,
+      "to": 158.35,
+      "sid": 68,
+      "location": 2,
+      "content": "而对方此时是看不到我们",
+      "music": 0.0
+    },
+    {
+      "from": 158.35,
+      "to": 160.93,
+      "sid": 69,
+      "location": 2,
+      "content": "这就是一个近大远小的姿势",
+      "music": 0.2413792964724497
+    },
+    {
+      "from": 162.11,
+      "to": 164.11,
+      "sid": 70,
+      "location": 2,
+      "content": "当我们学会了怎么去移动之后",
+      "music": 0.0
+    },
+    {
+      "from": 164.11,
+      "to": 166.29,
+      "sid": 71,
+      "location": 2,
+      "content": "我们将怎么去利用移动",
+      "music": 0.0
+    },
+    {
+      "from": 166.29,
+      "to": 169.03,
+      "sid": 72,
+      "location": 2,
+      "content": "来为我们的对局创造更好的优势",
+      "music": 0.056338025524025274
+    },
+    {
+      "from": 169.5,
+      "to": 172.18,
+      "sid": 73,
+      "location": 2,
+      "content": "这一点呢就运用到我们一个分段式育苗",
+      "music": 0.0
+    },
+    {
+      "from": 172.18,
+      "to": 173.98,
+      "sid": 74,
+      "location": 2,
+      "content": "很多人是不是能看到很多人的预苗",
+      "music": 0.0
+    },
+    {
+      "from": 173.98,
+      "to": 175.66,
+      "sid": 75,
+      "location": 2,
+      "content": "喜欢这样子",
+      "music": 0.0
+    },
+    {
+      "from": 175.71,
+      "to": 177.89,
+      "sid": 76,
+      "location": 2,
+      "content": "这样子去分段式的",
+      "music": 0.0
+    },
+    {
+      "from": 177.89,
+      "to": 180.91,
+      "sid": 77,
+      "location": 2,
+      "content": "将一步画成多段来进行一个预瞄",
+      "music": 0.0
+    },
+    {
+      "from": 180.91,
+      "to": 184.39,
+      "sid": 78,
+      "location": 2,
+      "content": "那么我们怎么去学习去使用这个育苗呢",
+      "music": 0.0
+    },
+    {
+      "from": 184.39,
+      "to": 187.15,
+      "sid": 79,
+      "location": 2,
+      "content": "这就需要一个排除复位",
+      "music": 0.0
+    },
+    {
+      "from": 187.15,
+      "to": 188.27,
+      "sid": 80,
+      "location": 2,
+      "content": "这个是什么意思呢",
+      "music": 0.0
+    },
+    {
+      "from": 188.27,
+      "to": 190.55,
+      "sid": 81,
+      "location": 2,
+      "content": "就是先将我们准星放在一个",
+      "music": 0.0
+    },
+    {
+      "from": 190.55,
+      "to": 193.25,
+      "sid": 82,
+      "location": 2,
+      "content": "对方可能出现的位置上拉出去",
+      "music": 0.0
+    },
+    {
+      "from": 193.25,
+      "to": 196.23,
+      "sid": 83,
+      "location": 2,
+      "content": "这个时候同时将准心放回去",
+      "music": 0.0
+    },
+    {
+      "from": 196.23,
+      "to": 199.05,
+      "sid": 84,
+      "location": 2,
+      "content": "再拉再放再拉",
+      "music": 0.0
+    },
+    {
+      "from": 199.05,
+      "to": 201.67,
+      "sid": 85,
+      "location": 2,
+      "content": "这样子进行一个多段式的复位",
+      "music": 0.0
+    },
+    {
+      "from": 201.67,
+      "to": 205.23,
+      "sid": 86,
+      "location": 2,
+      "content": "所以当我们去练习这一段多段式复位的时候呢",
+      "music": 0.0
+    },
+    {
+      "from": 205.23,
+      "to": 207.11,
+      "sid": 87,
+      "location": 2,
+      "content": "我们就需要去反复的练习",
+      "music": 0.0
+    },
+    {
+      "from": 207.11,
+      "to": 211.59,
+      "sid": 88,
+      "location": 2,
+      "content": "在自定义里去练习大概的预瞄点在哪",
+      "music": 0.0
+    },
+    {
+      "from": 211.59,
+      "to": 213.49,
+      "sid": 89,
+      "location": 2,
+      "content": "还有我们鼠标和左手的适配",
+      "music": 0.0
+    },
+    {
+      "from": 213.49,
+      "to": 215.97,
+      "sid": 90,
+      "location": 2,
+      "content": "需要练习我们双手协调",
+      "music": 0.0
+    },
+    {
+      "from": 217.02,
+      "to": 218.1,
+      "sid": 91,
+      "location": 2,
+      "content": "当我们熟练之后",
+      "music": 0.0
+    },
+    {
+      "from": 218.1,
+      "to": 221.36,
+      "sid": 92,
+      "location": 2,
+      "content": "就会变成一个多段式的快速五秒来",
+      "music": 0.0
+    },
+    {
+      "from": 221.36,
+      "to": 225.3,
+      "sid": 93,
+      "location": 2,
+      "content": "去分段式的去找一个我们直架位的人",
+      "music": 0.0
+    },
+    {
+      "from": 225.3,
+      "to": 227.48,
+      "sid": 94,
+      "location": 2,
+      "content": "而这个时候我们去怎么去运用呢",
+      "music": 0.0
+    },
+    {
+      "from": 227.48,
+      "to": 228.58,
+      "sid": 95,
+      "location": 2,
+      "content": "就是待会我要去降",
+      "music": 0.0
+    },
+    {
+      "from": 228.58,
+      "to": 233.87,
+      "sid": 96,
+      "location": 2,
+      "content": "你看下分段式育苗和平滑式育苗有什么区别",
+      "music": 0.0
+    },
+    {
+      "from": 233.87,
+      "to": 236.81,
+      "sid": 97,
+      "location": 2,
+      "content": "平滑式就是将自己的准心保持在一块",
+      "music": 0.0
+    },
+    {
+      "from": 236.81,
+      "to": 239.49,
+      "sid": 98,
+      "location": 2,
+      "content": "像这里我们这样子去慢慢的平滑出来",
+      "music": 0.0
+    },
+    {
+      "from": 239.49,
+      "to": 241.89,
+      "sid": 99,
+      "location": 2,
+      "content": "而分段式呢就变成这个样子",
+      "music": 0.0
+    },
+    {
+      "from": 241.89,
+      "to": 243.85,
+      "sid": 100,
+      "location": 2,
+      "content": "这样去分段分段除外",
+      "music": 0.0
+    },
+    {
+      "from": 243.85,
+      "to": 245.21,
+      "sid": 101,
+      "location": 2,
+      "content": "那该什么时候分段",
+      "music": 0.0
+    },
+    {
+      "from": 245.21,
+      "to": 246.53,
+      "sid": 102,
+      "location": 2,
+      "content": "该什么时候平滑呢",
+      "music": 0.0
+    },
+    {
+      "from": 246.53,
+      "to": 248.75,
+      "sid": 103,
+      "location": 2,
+      "content": "这就涉及到一个远近的距离",
+      "music": 0.0
+    },
+    {
+      "from": 248.75,
+      "to": 250.43,
+      "sid": 104,
+      "location": 2,
+      "content": "大家可以去思考一个问题",
+      "music": 0.0
+    },
+    {
+      "from": 250.43,
+      "to": 251.95,
+      "sid": 105,
+      "location": 2,
+      "content": "就是当我们打残局的时候",
+      "music": 0.0
+    },
+    {
+      "from": 251.95,
+      "to": 253.25,
+      "sid": 106,
+      "location": 2,
+      "content": "是不是很多人喜欢这样的狙",
+      "music": 0.0
+    },
+    {
+      "from": 253.25,
+      "to": 254.98,
+      "sid": 107,
+      "location": 2,
+      "content": "拉出去打个预做预瞄",
+      "music": 0.0
+    },
+    {
+      "from": 254.98,
+      "to": 256.3,
+      "sid": 108,
+      "location": 2,
+      "content": "这就导致什么效果",
+      "music": 0.0
+    },
+    {
+      "from": 256.3,
+      "to": 258.3,
+      "sid": 109,
+      "location": 2,
+      "content": "一旦对方贴近到这个近点",
+      "music": 0.0
+    },
+    {
+      "from": 258.3,
+      "to": 261.51,
+      "sid": 110,
+      "location": 2,
+      "content": "是不是就依靠到我们前面说的近大远小的原理",
+      "music": 0.0
+    },
+    {
+      "from": 261.51,
+      "to": 263.35,
+      "sid": 111,
+      "location": 2,
+      "content": "直接从这边抽我们的侧身",
+      "music": 0.0
+    },
+    {
+      "from": 263.35,
+      "to": 264.31,
+      "sid": 112,
+      "location": 2,
+      "content": "同时我们的准心",
+      "music": 0.0
+    },
+    {
+      "from": 264.31,
+      "to": 267.03,
+      "sid": 113,
+      "location": 2,
+      "content": "因为我们的预瞄位置不在同一条线上",
+      "music": 0.0
+    },
+    {
+      "from": 267.03,
+      "to": 268.59,
+      "sid": 114,
+      "location": 2,
+      "content": "或者说不在同一个方向上",
+      "music": 0.0
+    },
+    {
+      "from": 268.59,
+      "to": 270.27,
+      "sid": 115,
+      "location": 2,
+      "content": "我们和对方打一个侧身",
+      "music": 0.0
+    },
+    {
+      "from": 270.27,
+      "to": 273.54,
+      "sid": 116,
+      "location": 2,
+      "content": "所以这个时候就平滑式预瞄的重要性就出来了",
+      "music": 0.0
+    },
+    {
+      "from": 273.54,
+      "to": 274.94,
+      "sid": 117,
+      "location": 2,
+      "content": "所以该什么时候平滑",
+      "music": 0.0
+    },
+    {
+      "from": 274.94,
+      "to": 276.18,
+      "sid": 118,
+      "location": 2,
+      "content": "该什么时候分段式呢",
+      "music": 0.0
+    },
+    {
+      "from": 276.18,
+      "to": 278.59,
+      "sid": 119,
+      "location": 2,
+      "content": "就是依靠前后的距离",
+      "music": 0.0
+    },
+    {
+      "from": 278.59,
+      "to": 283.539,
+      "sid": 120,
+      "location": 2,
+      "content": "我将把它笼统的划分为一个距离上的限制",
+      "music": 0.0
+    },
+    {
+      "from": 283.539,
+      "to": 286.639,
+      "sid": 121,
+      "location": 2,
+      "content": "因为当你去做一个分段式预瞄的时候",
+      "music": 0.0
+    },
+    {
+      "from": 286.639,
+      "to": 289.639,
+      "sid": 122,
+      "location": 2,
+      "content": "你会因为你的准心的摆放而导致近距离",
+      "music": 0.0
+    },
+    {
+      "from": 289.639,
+      "to": 291.739,
+      "sid": 123,
+      "location": 2,
+      "content": "你没有任何的抵抗和反抗能力",
+      "music": 0.0
+    },
+    {
+      "from": 291.739,
+      "to": 294.7,
+      "sid": 124,
+      "location": 2,
+      "content": "所以你要该什么时候去分段式呢",
+      "music": 0.0
+    },
+    {
+      "from": 294.7,
+      "to": 296.159,
+      "sid": 125,
+      "location": 2,
+      "content": "像这种距离",
+      "music": 0.0
+    },
+    {
+      "from": 296.639,
+      "to": 300.199,
+      "sid": 126,
+      "location": 2,
+      "content": "这个时候对方的整体的距离因为较远",
+      "music": 0.0
+    },
+    {
+      "from": 300.199,
+      "to": 302.739,
+      "sid": 127,
+      "location": 2,
+      "content": "所以所相差的身位不会相差很多",
+      "music": 0.0
+    },
+    {
+      "from": 302.739,
+      "to": 304.919,
+      "sid": 128,
+      "location": 2,
+      "content": "你可以通过自己微调",
+      "music": 0.0
+    },
+    {
+      "from": 306.5,
+      "to": 309.18,
+      "sid": 129,
+      "location": 2,
+      "content": "去改变整体的预瞄方向",
+      "music": 0.0
+    },
+    {
+      "from": 309.18,
+      "to": 312.3,
+      "sid": 130,
+      "location": 2,
+      "content": "而近距离呢你就可以通过平滑式预瞄",
+      "music": 0.0
+    },
+    {
+      "from": 313.259,
+      "to": 314.699,
+      "sid": 131,
+      "location": 2,
+      "content": "慢慢的平滑过去",
+      "music": 0.0
+    },
+    {
+      "from": 314.699,
+      "to": 317.099,
+      "sid": 132,
+      "location": 2,
+      "content": "因为整体的距离范围是很小的",
+      "music": 0.0
+    },
+    {
+      "from": 317.099,
+      "to": 318.779,
+      "sid": 133,
+      "location": 2,
+      "content": "所以因为距离的近",
+      "music": 0.0
+    },
+    {
+      "from": 318.779,
+      "to": 320.579,
+      "sid": 134,
+      "location": 2,
+      "content": "导致整体的视觉范围内",
+      "music": 0.0
+    },
+    {
+      "from": 320.579,
+      "to": 322.42,
+      "sid": 135,
+      "location": 2,
+      "content": "两边距离相差是特别远的",
+      "music": 0.0
+    },
+    {
+      "from": 322.42,
+      "to": 324.18,
+      "sid": 136,
+      "location": 2,
+      "content": "这就可以让你的疫苗呢",
+      "music": 0.0
+    },
+    {
+      "from": 324.18,
+      "to": 326.8,
+      "sid": 137,
+      "location": 2,
+      "content": "很难去短时间内进行一个定位",
+      "music": 0.0
+    },
+    {
+      "from": 326.8,
+      "to": 328.14,
+      "sid": 138,
+      "location": 2,
+      "content": "定位到对方的头上",
+      "music": 0.0
+    },
+    {
+      "from": 328.14,
+      "to": 330.27,
+      "sid": 139,
+      "location": 2,
+      "content": "所以通过平滑区预瞄",
+      "music": 0.0
+    },
+    {
+      "from": 330.27,
+      "to": 333.59,
+      "sid": 140,
+      "location": 2,
+      "content": "来让这一块的区域通过平滑逐渐缩小",
+      "music": 0.0
+    },
+    {
+      "from": 333.59,
+      "to": 335.61,
+      "sid": 141,
+      "location": 2,
+      "content": "来方便你的定位",
+      "music": 0.0
+    },
+    {
+      "from": 336.01,
+      "to": 337.57,
+      "sid": 142,
+      "location": 2,
+      "content": "通过前面几个讲解",
+      "music": 0.0
+    },
+    {
+      "from": 337.57,
+      "to": 340.12,
+      "sid": 143,
+      "location": 2,
+      "content": "大家是否能够清晰的认识到距离",
+      "music": 0.0
+    },
+    {
+      "from": 340.12,
+      "to": 343.3,
+      "sid": 144,
+      "location": 2,
+      "content": "还有一个是左右的斜线和直线",
+      "music": 0.0
+    },
+    {
+      "from": 343.3,
+      "to": 345.44,
+      "sid": 145,
+      "location": 2,
+      "content": "甚至是会影响到我们的瞄准",
+      "music": 0.0
+    },
+    {
+      "from": 345.44,
+      "to": 347.64,
+      "sid": 146,
+      "location": 2,
+      "content": "所以当我们去指甲的时候",
+      "music": 0.0
+    },
+    {
+      "from": 347.64,
+      "to": 350.16,
+      "sid": 147,
+      "location": 2,
+      "content": "我们的准心该怎么去摆放呢",
+      "music": 0.0
+    },
+    {
+      "from": 352.16,
+      "to": 353.4,
+      "sid": 148,
+      "location": 2,
+      "content": "拿中路为例子",
+      "music": 0.0
+    },
+    {
+      "from": 353.4,
+      "to": 355.56,
+      "sid": 149,
+      "location": 2,
+      "content": "当我们去直架一个地方的时候",
+      "music": 0.0
+    },
+    {
+      "from": 355.56,
+      "to": 357.28,
+      "sid": 150,
+      "location": 2,
+      "content": "是不是很多人喜欢架这条缝",
+      "music": 0.0
+    },
+    {
+      "from": 357.28,
+      "to": 358.92,
+      "sid": 151,
+      "location": 2,
+      "content": "看到很多视频里面",
+      "music": 0.0
+    },
+    {
+      "from": 358.92,
+      "to": 359.9,
+      "sid": 152,
+      "location": 2,
+      "content": "这是为什么呢",
+      "music": 0.0
+    },
+    {
+      "from": 359.9,
+      "to": 361.88,
+      "sid": 153,
+      "location": 2,
+      "content": "第一点因为距离",
+      "music": 0.0
+    },
+    {
+      "from": 361.88,
+      "to": 365.7,
+      "sid": 154,
+      "location": 2,
+      "content": "因为我们的距离是一个中距离的长距离",
+      "music": 0.0
+    },
+    {
+      "from": 365.7,
+      "to": 367.06,
+      "sid": 155,
+      "location": 2,
+      "content": "所以这就导致什么呢",
+      "music": 0.0
+    },
+    {
+      "from": 367.06,
+      "to": 370.2,
+      "sid": 156,
+      "location": 2,
+      "content": "对方移动的人是十分小的",
+      "music": 0.0
+    },
+    {
+      "from": 370.2,
+      "to": 372.77,
+      "sid": 157,
+      "location": 2,
+      "content": "同时因为支架的空旷性",
+      "music": 0.0
+    },
+    {
+      "from": 372.77,
+      "to": 375.85,
+      "sid": 158,
+      "location": 2,
+      "content": "导致对方第一时间可能是进行一个跳pk行为",
+      "music": 0.0
+    },
+    {
+      "from": 375.85,
+      "to": 379.13,
+      "sid": 159,
+      "location": 2,
+      "content": "所以大家很多人会习惯性的将准星放置这一块",
+      "music": 0.0
+    },
+    {
+      "from": 379.13,
+      "to": 380.85,
+      "sid": 160,
+      "location": 2,
+      "content": "来进行一个预瞄",
+      "music": 0.0
+    },
+    {
+      "from": 381.93,
+      "to": 384.29,
+      "sid": 161,
+      "location": 2,
+      "content": "那么当我们去贴近的时候",
+      "music": 0.0
+    },
+    {
+      "from": 384.29,
+      "to": 387.66,
+      "sid": 162,
+      "location": 2,
+      "content": "是不是很多人第一时间就会想把字节选出来",
+      "music": 0.0
+    },
+    {
+      "from": 387.66,
+      "to": 389.04,
+      "sid": 163,
+      "location": 2,
+      "content": "放一个较宽的范围",
+      "music": 0.0
+    },
+    {
+      "from": 389.04,
+      "to": 390.31,
+      "sid": 164,
+      "location": 2,
+      "content": "这又是为什么呢",
+      "music": 0.0
+    },
+    {
+      "from": 390.31,
+      "to": 392.41,
+      "sid": 165,
+      "location": 2,
+      "content": "是因为当你距离近额时候",
+      "music": 0.0
+    },
+    {
+      "from": 392.41,
+      "to": 394.03,
+      "sid": 166,
+      "location": 2,
+      "content": "对方选择一次性大拉",
+      "music": 0.0
+    },
+    {
+      "from": 394.03,
+      "to": 396.01,
+      "sid": 167,
+      "location": 2,
+      "content": "你的反应很难去一次性跟上",
+      "music": 0.0
+    },
+    {
+      "from": 396.01,
+      "to": 398.17,
+      "sid": 168,
+      "location": 2,
+      "content": "所以这个时候大家会通常的",
+      "music": 0.0
+    },
+    {
+      "from": 398.17,
+      "to": 400.71,
+      "sid": 169,
+      "location": 2,
+      "content": "把自己的准心更加往外延伸",
+      "music": 0.0
+    },
+    {
+      "from": 400.71,
+      "to": 402.89,
+      "sid": 170,
+      "location": 2,
+      "content": "还放到自己一个可预判",
+      "music": 0.0
+    },
+    {
+      "from": 402.89,
+      "to": 405.22,
+      "sid": 171,
+      "location": 2,
+      "content": "或者说可反应的一个范围内",
+      "music": 0.0
+    },
+    {
+      "from": 405.22,
+      "to": 409.34,
+      "sid": 172,
+      "location": 2,
+      "content": "而这个范围呢通常由你贴着掩体变得越来越大",
+      "music": 0.0
+    },
+    {
+      "from": 409.34,
+      "to": 411.5,
+      "sid": 173,
+      "location": 2,
+      "content": "因为当你距离的掩体越近",
+      "music": 0.0
+    },
+    {
+      "from": 411.5,
+      "to": 413.3,
+      "sid": 174,
+      "location": 2,
+      "content": "越呈一个90度的姿态",
+      "music": 0.0
+    },
+    {
+      "from": 413.3,
+      "to": 415.12,
+      "sid": 175,
+      "location": 2,
+      "content": "对方的移动速度越快",
+      "music": 0.0
+    },
+    {
+      "from": 415.12,
+      "to": 418.06,
+      "sid": 176,
+      "location": 2,
+      "content": "所以这个时候你所需要的反应距离会变得更大",
+      "music": 0.0
+    },
+    {
+      "from": 418.06,
+      "to": 420.36,
+      "sid": 177,
+      "location": 2,
+      "content": "而当你距离掩体越远",
+      "music": 0.0
+    },
+    {
+      "from": 420.36,
+      "to": 424.61,
+      "sid": 178,
+      "location": 2,
+      "content": "你们呈现的角度呢成一个这样的角度",
+      "music": 0.0
+    },
+    {
+      "from": 424.61,
+      "to": 425.81,
+      "sid": 179,
+      "location": 2,
+      "content": "就需要贴得越近",
+      "music": 0.0
+    },
+    {
+      "from": 425.81,
+      "to": 427.33,
+      "sid": 180,
+      "location": 2,
+      "content": "因为你看到的敌人越早",
+      "music": 0.0
+    },
+    {
+      "from": 427.33,
+      "to": 430.559,
+      "sid": 181,
+      "location": 2,
+      "content": "而且对方的移动范围是呈一个一个斜线状态",
+      "music": 0.0
+    },
+    {
+      "from": 430.559,
+      "to": 432.039,
+      "sid": 182,
+      "location": 2,
+      "content": "在你的视角内",
+      "music": 0.0
+    },
+    {
+      "from": 432.039,
+      "to": 433.959,
+      "sid": 183,
+      "location": 2,
+      "content": "因为你是这样的一个直线范围",
+      "music": 0.0
+    },
+    {
+      "from": 433.959,
+      "to": 435.929,
+      "sid": 184,
+      "location": 2,
+      "content": "而对方是一个这样的合音范围",
+      "music": 0.0
+    },
+    {
+      "from": 435.929,
+      "to": 437.289,
+      "sid": 185,
+      "location": 2,
+      "content": "竟然成一个斜线",
+      "music": 0.0
+    },
+    {
+      "from": 437.289,
+      "to": 438.769,
+      "sid": 186,
+      "location": 2,
+      "content": "所以这个时候对方移动速度",
+      "music": 0.0
+    },
+    {
+      "from": 438.769,
+      "to": 440.349,
+      "sid": 187,
+      "location": 2,
+      "content": "在你脚看来会变得变慢",
+      "music": 0.0
+    },
+    {
+      "from": 440.349,
+      "to": 444.129,
+      "sid": 188,
+      "location": 2,
+      "content": "这个时候呢架小反而能更好的夹住敌人",
+      "music": 0.0
+    },
+    {
+      "from": 446.26,
+      "to": 450.76,
+      "sid": 189,
+      "location": 2,
+      "content": "然后呢选位我们之前讲过",
+      "music": 0.0
+    },
+    {
+      "from": 450.76,
+      "to": 452.56,
+      "sid": 190,
+      "location": 2,
+      "content": "分段式预瞄的处理方式",
+      "music": 0.0
+    },
+    {
+      "from": 452.56,
+      "to": 454.76,
+      "sid": 191,
+      "location": 2,
+      "content": "是不是去架住一个直架位的敌人",
+      "music": 0.0
+    },
+    {
+      "from": 454.76,
+      "to": 457.02,
+      "sid": 192,
+      "location": 2,
+      "content": "比如说当我们在这边支架的时候",
+      "music": 0.0
+    },
+    {
+      "from": 457.02,
+      "to": 460.12,
+      "sid": 193,
+      "location": 2,
+      "content": "对方是不是会从这一块拉出去进行一个预瞄",
+      "music": 0.0
+    },
+    {
+      "from": 460.12,
+      "to": 462.29,
+      "sid": 194,
+      "location": 2,
+      "content": "对我们进行一个提前枪打击",
+      "music": 0.0
+    },
+    {
+      "from": 462.29,
+      "to": 465.53,
+      "sid": 195,
+      "location": 2,
+      "content": "所以这个时候呢我们的站位方式",
+      "music": 0.0
+    },
+    {
+      "from": 465.53,
+      "to": 467.99,
+      "sid": 196,
+      "location": 2,
+      "content": "选位方式可以通过常规的直架位",
+      "music": 0.0
+    },
+    {
+      "from": 467.99,
+      "to": 470.71,
+      "sid": 197,
+      "location": 2,
+      "content": "变成一个拉出去的一个非常规",
+      "music": 0.0
+    },
+    {
+      "from": 470.71,
+      "to": 474.12,
+      "sid": 198,
+      "location": 2,
+      "content": "或者说拉出去打对方一个猝不及防",
+      "music": 0.0
+    },
+    {
+      "from": 474.12,
+      "to": 475.74,
+      "sid": 199,
+      "location": 2,
+      "content": "所以在很多情况下",
+      "music": 0.0
+    },
+    {
+      "from": 475.74,
+      "to": 477.04,
+      "sid": 200,
+      "location": 2,
+      "content": "直架并非两选",
+      "music": 0.0
+    },
+    {
+      "from": 477.04,
+      "to": 479.66,
+      "sid": 201,
+      "location": 2,
+      "content": "一旦对方选择去预瞄你这个位置的话",
+      "music": 0.0
+    },
+    {
+      "from": 479.66,
+      "to": 481.83,
+      "sid": 202,
+      "location": 2,
+      "content": "那反应速度很难去跟上对方",
+      "music": 0.0
+    },
+    {
+      "from": 481.83,
+      "to": 483.87,
+      "sid": 203,
+      "location": 2,
+      "content": "因为对方有假想敌意识",
+      "music": 0.0
+    },
+    {
+      "from": 483.87,
+      "to": 488.49,
+      "sid": 204,
+      "location": 2,
+      "content": "所以在大多数需要一个直面对方架枪的情况",
+      "music": 0.0
+    },
+    {
+      "from": 488.49,
+      "to": 490.88,
+      "sid": 205,
+      "location": 2,
+      "content": "或者说你站在一个常规位的时候",
+      "music": 0.0
+    },
+    {
+      "from": 490.88,
+      "to": 493.48,
+      "sid": 206,
+      "location": 2,
+      "content": "可以去通过一个拉出去的方式来打对方",
+      "music": 0.0
+    },
+    {
+      "from": 493.48,
+      "to": 494.4,
+      "sid": 207,
+      "location": 2,
+      "content": "一个非常规",
+      "music": 0.0
+    },
+    {
+      "from": 494.4,
+      "to": 496.32,
+      "sid": 208,
+      "location": 2,
+      "content": "比如像A大这个情况",
+      "music": 0.0
+    },
+    {
+      "from": 496.32,
+      "to": 499.64,
+      "sid": 209,
+      "location": 2,
+      "content": "对方在前点占据情况之下往前去踩",
+      "music": 0.0
+    },
+    {
+      "from": 499.64,
+      "to": 500.54,
+      "sid": 210,
+      "location": 2,
+      "content": "你玩一突",
+      "music": 0.0
+    },
+    {
+      "from": 500.54,
+      "to": 503.62,
+      "sid": 211,
+      "location": 2,
+      "content": "玩阶梯中有位的角色完全可以这样嗯",
+      "music": 0.0
+    },
+    {
+      "from": 503.65,
+      "to": 505.96,
+      "sid": 212,
+      "location": 2,
+      "content": "这样去打一个提前枪",
+      "music": 0.0
+    },
+    {
+      "from": 505.96,
+      "to": 509.049,
+      "sid": 213,
+      "location": 2,
+      "content": "来保证自己的枪位不被对方的预瞄所点上",
+      "music": 0.0
+    },
+    {
+      "from": 509.049,
+      "to": 511.789,
+      "sid": 214,
+      "location": 2,
+      "content": "这样子可以更好的帮助你去获取击杀",
+      "music": 0.0
+    },
+    {
+      "from": 511.789,
+      "to": 515.089,
+      "sid": 215,
+      "location": 2,
+      "content": "你可以帮更好帮助你在前点获取优势的位置",
+      "music": 0.0
+    },
+    {
+      "from": 515.089,
+      "to": 518.209,
+      "sid": 216,
+      "location": 2,
+      "content": "而不容易被对方直架架死",
+      "music": 0.0
+    },
+    {
+      "from": 518.84,
+      "to": 521.259,
+      "sid": 217,
+      "location": 2,
+      "content": "然后也能使用烟",
+      "music": 0.0
+    },
+    {
+      "from": 521.259,
+      "to": 524.519,
+      "sid": 218,
+      "location": 2,
+      "content": "大家平时是不是最容易诟病的一个位置",
+      "music": 0.0
+    },
+    {
+      "from": 524.519,
+      "to": 525.779,
+      "sid": 219,
+      "location": 2,
+      "content": "是不是烟给太慢",
+      "music": 0.0
+    },
+    {
+      "from": 525.779,
+      "to": 529.43,
+      "sid": 220,
+      "location": 2,
+      "content": "或者说烟不会给那烟我们该怎么去给一给",
+      "music": 0.0
+    },
+    {
+      "from": 529.43,
+      "to": 530.39,
+      "sid": 221,
+      "location": 2,
+      "content": "像这种情况",
+      "music": 0.0
+    },
+    {
+      "from": 530.39,
+      "to": 534.23,
+      "sid": 222,
+      "location": 2,
+      "content": "大家常规烟是不是都这么给多重烟幕",
+      "music": 0.0
+    },
+    {
+      "from": 535.92,
+      "to": 539.22,
+      "sid": 223,
+      "location": 2,
+      "content": "这个是一个很普遍很常规的演",
+      "music": 0.0
+    },
+    {
+      "from": 539.22,
+      "to": 541.45,
+      "sid": 224,
+      "location": 2,
+      "content": "就是为了挡住对方回防的路线",
+      "music": 0.0
+    },
+    {
+      "from": 541.65,
+      "to": 543.69,
+      "sid": 225,
+      "location": 2,
+      "content": "所以大家可能知道一个很基础的问题",
+      "music": 0.0
+    },
+    {
+      "from": 543.69,
+      "to": 546.49,
+      "sid": 226,
+      "location": 2,
+      "content": "就是烟的目的就是挡对方的一个回防路线",
+      "music": 0.0
+    },
+    {
+      "from": 546.49,
+      "to": 548.44,
+      "sid": 227,
+      "location": 2,
+      "content": "是进攻不能接来",
+      "music": 0.0
+    },
+    {
+      "from": 548.44,
+      "to": 552.329,
+      "sid": 228,
+      "location": 2,
+      "content": "为自己的队友创造一个短暂的进攻防守优势",
+      "music": 0.0
+    },
+    {
+      "from": 552.329,
+      "to": 555.409,
+      "sid": 229,
+      "location": 2,
+      "content": "那么我们的烟有时候这两个烟并非两血",
+      "music": 0.0
+    },
+    {
+      "from": 555.409,
+      "to": 556.329,
+      "sid": 230,
+      "location": 2,
+      "content": "是为什么呢",
+      "music": 0.0
+    },
+    {
+      "from": 556.329,
+      "to": 560.329,
+      "sid": 231,
+      "location": 2,
+      "content": "因为是我方第一时间从B大近点之后",
+      "music": 0.0
+    },
+    {
+      "from": 560.329,
+      "to": 562.849,
+      "sid": 232,
+      "location": 2,
+      "content": "如果说前点的进攻并非那么顺利",
+      "music": 0.0
+    },
+    {
+      "from": 562.849,
+      "to": 564.209,
+      "sid": 233,
+      "location": 2,
+      "content": "或者说并非那么通畅",
+      "music": 0.0
+    },
+    {
+      "from": 564.209,
+      "to": 567.429,
+      "sid": 234,
+      "location": 2,
+      "content": "那么这两个烟反而没有任何的威慑作用",
+      "music": 0.0
+    },
+    {
+      "from": 567.429,
+      "to": 572.36,
+      "sid": 235,
+      "location": 2,
+      "content": "因为对方第一时间知道这里和这里不可能踩人",
+      "music": 0.0
+    },
+    {
+      "from": 572.36,
+      "to": 575.65,
+      "sid": 236,
+      "location": 2,
+      "content": "所以对方回防会试这个烟",
+      "music": 0.0
+    },
+    {
+      "from": 575.65,
+      "to": 576.55,
+      "sid": 237,
+      "location": 2,
+      "content": "等于没有烟",
+      "music": 0.0
+    },
+    {
+      "from": 576.55,
+      "to": 578.38,
+      "sid": 238,
+      "location": 2,
+      "content": "他会正常的往里面踩",
+      "music": 0.0
+    },
+    {
+      "from": 578.38,
+      "to": 581.4,
+      "sid": 239,
+      "location": 2,
+      "content": "所以这个时候呢我们要烟位该做什么",
+      "music": 0.0
+    },
+    {
+      "from": 581.4,
+      "to": 582.86,
+      "sid": 240,
+      "location": 2,
+      "content": "那道具该怎么去给",
+      "music": 0.0
+    },
+    {
+      "from": 582.86,
+      "to": 586.42,
+      "sid": 241,
+      "location": 2,
+      "content": "第一点就是烟可以给这两个范围",
+      "music": 0.0
+    },
+    {
+      "from": 586.42,
+      "to": 587.89,
+      "sid": 242,
+      "location": 2,
+      "content": "多重烟幕",
+      "music": 0.0
+    },
+    {
+      "from": 588.89,
+      "to": 590.09,
+      "sid": 243,
+      "location": 2,
+      "content": "大家是不是有第一个疑惑",
+      "music": 0.0
+    },
+    {
+      "from": 590.09,
+      "to": 592.29,
+      "sid": 244,
+      "location": 2,
+      "content": "就是是不是这一块放给对面了",
+      "music": 0.0
+    },
+    {
+      "from": 592.29,
+      "to": 594.19,
+      "sid": 245,
+      "location": 2,
+      "content": "对面回防会更快了",
+      "music": 0.0
+    },
+    {
+      "from": 594.19,
+      "to": 597.79,
+      "sid": 246,
+      "location": 2,
+      "content": "但其实呢整体呢这个两个烟的目的是什么",
+      "music": 0.0
+    },
+    {
+      "from": 597.79,
+      "to": 599.41,
+      "sid": 247,
+      "location": 2,
+      "content": "和那两个烟目的就是不一样",
+      "music": 0.0
+    },
+    {
+      "from": 599.41,
+      "to": 602.109,
+      "sid": 248,
+      "location": 2,
+      "content": "这两个烟目的就是为了划分战场",
+      "music": 0.0
+    },
+    {
+      "from": 602.109,
+      "to": 606.189,
+      "sid": 249,
+      "location": 2,
+      "content": "就是说将整个包点来隔断成这一个部分",
+      "music": 0.0
+    },
+    {
+      "from": 606.189,
+      "to": 608.92,
+      "sid": 250,
+      "location": 2,
+      "content": "这一区和这一区两个部分",
+      "music": 0.0
+    },
+    {
+      "from": 608.92,
+      "to": 611.78,
+      "sid": 251,
+      "location": 2,
+      "content": "因为当我们进攻或防守的时候",
+      "music": 0.0
+    },
+    {
+      "from": 611.78,
+      "to": 614.12,
+      "sid": 252,
+      "location": 2,
+      "content": "我们第一时间的目的是不是去下包",
+      "music": 0.0
+    },
+    {
+      "from": 614.12,
+      "to": 615.38,
+      "sid": 253,
+      "location": 2,
+      "content": "不就是去杀人",
+      "music": 0.0
+    },
+    {
+      "from": 615.38,
+      "to": 618.23,
+      "sid": 254,
+      "location": 2,
+      "content": "是把这一块地图给踩住人",
+      "music": 0.0
+    },
+    {
+      "from": 618.23,
+      "to": 620.01,
+      "sid": 255,
+      "location": 2,
+      "content": "就像是如果我是一秃",
+      "music": 0.0
+    },
+    {
+      "from": 620.01,
+      "to": 621.71,
+      "sid": 256,
+      "location": 2,
+      "content": "我第一时间飞到了这里",
+      "music": 0.0
+    },
+    {
+      "from": 621.71,
+      "to": 624.809,
+      "sid": 257,
+      "location": 2,
+      "content": "在这我把这边踩住了",
+      "music": 0.0
+    },
+    {
+      "from": 624.809,
+      "to": 626.049,
+      "sid": 258,
+      "location": 2,
+      "content": "还剩什么区域没踩",
+      "music": 0.0
+    },
+    {
+      "from": 626.049,
+      "to": 628.469,
+      "sid": 259,
+      "location": 2,
+      "content": "是还剩一个包点区域没踩对",
+      "music": 0.0
+    },
+    {
+      "from": 628.469,
+      "to": 629.809,
+      "sid": 260,
+      "location": 2,
+      "content": "剩下队友的目的是什么呢",
+      "music": 0.0
+    },
+    {
+      "from": 629.809,
+      "to": 631.33,
+      "sid": 261,
+      "location": 2,
+      "content": "往这一块去踩",
+      "music": 0.0
+    },
+    {
+      "from": 631.33,
+      "to": 633.09,
+      "sid": 262,
+      "location": 2,
+      "content": "把这一块给踩住了",
+      "music": 0.0
+    },
+    {
+      "from": 633.09,
+      "to": 635.57,
+      "sid": 263,
+      "location": 2,
+      "content": "那么包点是不是我们已经占据了一半",
+      "music": 0.0
+    },
+    {
+      "from": 635.57,
+      "to": 638.359,
+      "sid": 264,
+      "location": 2,
+      "content": "那么这一块区域是不是对方的区域",
+      "music": 0.0
+    },
+    {
+      "from": 638.359,
+      "to": 639.479,
+      "sid": 265,
+      "location": 2,
+      "content": "所以这个时候呢",
+      "music": 0.0
+    },
+    {
+      "from": 639.479,
+      "to": 642.419,
+      "sid": 266,
+      "location": 2,
+      "content": "我们的目的就是为了把这块区域的敌人先杀掉",
+      "music": 0.0
+    },
+    {
+      "from": 642.419,
+      "to": 644.719,
+      "sid": 267,
+      "location": 2,
+      "content": "先清除掉一边的区域",
+      "music": 0.0
+    },
+    {
+      "from": 644.719,
+      "to": 647.36,
+      "sid": 268,
+      "location": 2,
+      "content": "来为整体的队伍打开一个包点优势",
+      "music": 0.0
+    },
+    {
+      "from": 647.36,
+      "to": 651.34,
+      "sid": 269,
+      "location": 2,
+      "content": "所以这个时候烟可以给这多重烟幕",
+      "music": 0.0
+    },
+    {
+      "from": 652.34,
+      "to": 655.22,
+      "sid": 270,
+      "location": 2,
+      "content": "一起统筹的把这块区域先给清掉之后",
+      "music": 0.0
+    },
+    {
+      "from": 655.22,
+      "to": 659.52,
+      "sid": 271,
+      "location": 2,
+      "content": "再一起为这两片区域进行做一个一起的反清",
+      "music": 0.0
+    },
+    {
+      "from": 660.9,
+      "to": 662.98,
+      "sid": 272,
+      "location": 2,
+      "content": "所以烟到底该不该去给",
+      "music": 0.0
+    },
+    {
+      "from": 662.98,
+      "to": 666.28,
+      "sid": 273,
+      "location": 2,
+      "content": "这个时候就取决于我方队伍该怎么去进攻",
+      "music": 0.0
+    },
+    {
+      "from": 666.28,
+      "to": 669.56,
+      "sid": 274,
+      "location": 2,
+      "content": "如果说整体的队伍前面进攻都变得特别的困难",
+      "music": 0.0
+    },
+    {
+      "from": 669.56,
+      "to": 671.44,
+      "sid": 275,
+      "location": 2,
+      "content": "或者说对方的回防会特别的快",
+      "music": 0.0
+    },
+    {
+      "from": 671.44,
+      "to": 672.64,
+      "sid": 276,
+      "location": 2,
+      "content": "不妨去思考一下",
+      "music": 0.0
+    },
+    {
+      "from": 672.64,
+      "to": 674.54,
+      "sid": 277,
+      "location": 2,
+      "content": "烟可以去给一些隔断的位置",
+      "music": 0.0
+    },
+    {
+      "from": 674.54,
+      "to": 677.839,
+      "sid": 278,
+      "location": 2,
+      "content": "去帮助队伍把整场的战场给划分掉",
+      "music": 0.0
+    },
+    {
+      "from": 677.839,
+      "to": 680.039,
+      "sid": 279,
+      "location": 2,
+      "content": "所以这就是为什么那么多高端局",
+      "music": 0.0
+    },
+    {
+      "from": 680.039,
+      "to": 681.259,
+      "sid": 280,
+      "location": 2,
+      "content": "可能会喜欢用海神",
+      "music": 0.0
+    },
+    {
+      "from": 681.259,
+      "to": 684.41,
+      "sid": 281,
+      "location": 2,
+      "content": "或者说用蝰蛇去划分到一半的区域",
+      "music": 0.0
+    },
+    {
+      "from": 684.41,
+      "to": 686.77,
+      "sid": 282,
+      "location": 2,
+      "content": "来为队伍打开一个半边优势",
+      "music": 0.0
+    },
+    {
+      "from": 686.77,
+      "to": 690.81,
+      "sid": 283,
+      "location": 2,
+      "content": "后面再由一个队友的统筹反清百为队伍打",
+      "music": 0.0
+    },
+    {
+      "from": 690.81,
+      "to": 693.01,
+      "sid": 284,
+      "location": 2,
+      "content": "创造出整个包点战局",
+      "music": 0.0
+    },
+    {
+      "from": 694.9,
+      "to": 697.38,
+      "sid": 285,
+      "location": 2,
+      "content": "然后在信息位道具这一块",
+      "music": 0.0
+    },
+    {
+      "from": 697.38,
+      "to": 699.48,
+      "sid": 286,
+      "location": 2,
+      "content": "我看到很多猎枪可能会喜欢这么去飞",
+      "music": 0.0
+    },
+    {
+      "from": 699.48,
+      "to": 703.49,
+      "sid": 287,
+      "location": 2,
+      "content": "这也是很多玩家通病起飞",
+      "music": 0.0
+    },
+    {
+      "from": 703.49,
+      "to": 704.77,
+      "sid": 288,
+      "location": 2,
+      "content": "当前面有烟的时候",
+      "music": 0.0
+    },
+    {
+      "from": 704.77,
+      "to": 706.85,
+      "sid": 289,
+      "location": 2,
+      "content": "有一台玩家喜欢这样把烟飞到",
+      "music": 0.0
+    },
+    {
+      "from": 706.85,
+      "to": 708.99,
+      "sid": 290,
+      "location": 2,
+      "content": "把飞机飞到高处飞过去的烟",
+      "music": 0.0
+    },
+    {
+      "from": 708.99,
+      "to": 711.77,
+      "sid": 291,
+      "location": 2,
+      "content": "这样就可这什么诟病呢",
+      "music": 0.0
+    },
+    {
+      "from": 711.77,
+      "to": 714.71,
+      "sid": 292,
+      "location": 2,
+      "content": "就是烟里如果但对方混人了怎么办",
+      "music": 0.0
+    },
+    {
+      "from": 714.71,
+      "to": 717.63,
+      "sid": 293,
+      "location": 2,
+      "content": "所以我们去玩信息位的时候",
+      "music": 0.0
+    },
+    {
+      "from": 717.63,
+      "to": 720.01,
+      "sid": 294,
+      "location": 2,
+      "content": "道具一定要去经过每个区域的时候",
+      "music": 0.0
+    },
+    {
+      "from": 720.01,
+      "to": 721.69,
+      "sid": 295,
+      "location": 2,
+      "content": "要确保那个区域不会有人",
+      "music": 0.0
+    },
+    {
+      "from": 721.69,
+      "to": 723.62,
+      "sid": 296,
+      "location": 2,
+      "content": "这就是一个道具位的责任",
+      "music": 0.0
+    },
+    {
+      "from": 723.62,
+      "to": 725.72,
+      "sid": 297,
+      "location": 2,
+      "content": "然后吊具该怎么去射",
+      "music": 0.0
+    },
+    {
+      "from": 725.72,
+      "to": 728.66,
+      "sid": 298,
+      "location": 2,
+      "content": "我看到很多人可能会喜欢D谁这样子",
+      "music": 0.0
+    },
+    {
+      "from": 728.66,
+      "to": 730.88,
+      "sid": 299,
+      "location": 2,
+      "content": "就是等一突说先射个箭",
+      "music": 0.0
+    },
+    {
+      "from": 730.88,
+      "to": 735.82,
+      "sid": 300,
+      "location": 2,
+      "content": "比个这样子扫描前方射完之后意图再进",
+      "music": 0.0
+    },
+    {
+      "from": 736.36,
+      "to": 739.8,
+      "sid": 301,
+      "location": 2,
+      "content": "其实这种情况呢大部分的道具收益都不会太好",
+      "music": 0.0
+    },
+    {
+      "from": 739.8,
+      "to": 741.64,
+      "sid": 302,
+      "location": 2,
+      "content": "因为因为你的道具已经飞进去了",
+      "music": 0.0
+    },
+    {
+      "from": 741.64,
+      "to": 743.98,
+      "sid": 303,
+      "location": 2,
+      "content": "在这然后一突再跟着进",
+      "music": 0.0
+    },
+    {
+      "from": 743.98,
+      "to": 745.5,
+      "sid": 304,
+      "location": 2,
+      "content": "这道具被打掉之后",
+      "music": 0.0
+    },
+    {
+      "from": 745.5,
+      "to": 746.68,
+      "sid": 305,
+      "location": 2,
+      "content": "地图很好的",
+      "music": 0.0
+    },
+    {
+      "from": 746.68,
+      "to": 749.28,
+      "sid": 306,
+      "location": 2,
+      "content": "很容易很难的去搜其他的点",
+      "music": 0.0
+    },
+    {
+      "from": 749.28,
+      "to": 753.29,
+      "sid": 307,
+      "location": 2,
+      "content": "比如说当我去站到这种位置",
+      "music": 0.0
+    },
+    {
+      "from": 753.29,
+      "to": 754.89,
+      "sid": 308,
+      "location": 2,
+      "content": "进行一个支架的时候",
+      "music": 0.0
+    },
+    {
+      "from": 754.89,
+      "to": 757.74,
+      "sid": 309,
+      "location": 2,
+      "content": "剑飞过来再拉回来",
+      "music": 0.0
+    },
+    {
+      "from": 757.74,
+      "to": 759.7,
+      "sid": 310,
+      "location": 2,
+      "content": "我整体的是一个舒适区",
+      "music": 0.0
+    },
+    {
+      "from": 759.7,
+      "to": 761.4,
+      "sid": 311,
+      "location": 2,
+      "content": "所以这个时候我们道具呢",
+      "music": 0.0
+    },
+    {
+      "from": 761.4,
+      "to": 764.0,
+      "sid": 312,
+      "location": 2,
+      "content": "更多的是让一突去飞一个相反的方向",
+      "music": 0.0
+    },
+    {
+      "from": 764.0,
+      "to": 767.22,
+      "sid": 313,
+      "location": 2,
+      "content": "这点就是我自己玩的时候总结一个经验",
+      "music": 0.0
+    },
+    {
+      "from": 767.22,
+      "to": 769.18,
+      "sid": 314,
+      "location": 2,
+      "content": "就是一突跟道具",
+      "music": 0.0
+    },
+    {
+      "from": 769.18,
+      "to": 771.25,
+      "sid": 315,
+      "location": 2,
+      "content": "然后道具拉枪线",
+      "music": 0.0
+    },
+    {
+      "from": 771.25,
+      "to": 774.39,
+      "sid": 316,
+      "location": 2,
+      "content": "第一时间呢道具为依托拉开枪线",
+      "music": 0.0
+    },
+    {
+      "from": 774.39,
+      "to": 778.24,
+      "sid": 317,
+      "location": 2,
+      "content": "比如说我们去打一个后防向左边的底线",
+      "music": 0.0
+    },
+    {
+      "from": 778.24,
+      "to": 781.1,
+      "sid": 318,
+      "location": 2,
+      "content": "我们跟一兔呼叫说你去飞这里",
+      "music": 0.0
+    },
+    {
+      "from": 781.1,
+      "to": 782.86,
+      "sid": 319,
+      "location": 2,
+      "content": "又说你去滑铲跳这里",
+      "music": 0.0
+    },
+    {
+      "from": 782.86,
+      "to": 784.52,
+      "sid": 320,
+      "location": 2,
+      "content": "我没这么去给道具扫描",
+      "music": 0.0
+    },
+    {
+      "from": 784.52,
+      "to": 785.64,
+      "sid": 321,
+      "location": 2,
+      "content": "前方",
+      "music": 0.0
+    },
+    {
+      "from": 786.78,
+      "to": 787.58,
+      "sid": 322,
+      "location": 2,
+      "content": "这有一个什么",
+      "music": 0.0
+    },
+    {
+      "from": 787.58,
+      "to": 788.5,
+      "sid": 323,
+      "location": 2,
+      "content": "这有什么好处呢",
+      "music": 0.0
+    },
+    {
+      "from": 788.5,
+      "to": 791.33,
+      "sid": 324,
+      "location": 2,
+      "content": "第一点依托到这个位置",
+      "music": 0.0
+    },
+    {
+      "from": 791.33,
+      "to": 792.85,
+      "sid": 325,
+      "location": 2,
+      "content": "他第一时间往这边去冲",
+      "music": 0.0
+    },
+    {
+      "from": 792.85,
+      "to": 795.78,
+      "sid": 326,
+      "location": 2,
+      "content": "那个人要面临什么抉择问题",
+      "music": 0.0
+    },
+    {
+      "from": 795.78,
+      "to": 798.42,
+      "sid": 327,
+      "location": 2,
+      "content": "T要么他180度",
+      "music": 0.0
+    },
+    {
+      "from": 798.42,
+      "to": 801.52,
+      "sid": 328,
+      "location": 2,
+      "content": "比如我在这180度去打这个镜",
+      "music": 0.0
+    },
+    {
+      "from": 801.52,
+      "to": 803.4,
+      "sid": 329,
+      "location": 2,
+      "content": "然后再回来去架这个意图",
+      "music": 0.0
+    },
+    {
+      "from": 803.4,
+      "to": 805.56,
+      "sid": 330,
+      "location": 2,
+      "content": "我鼠标复位是一个比较困难的",
+      "music": 0.0
+    },
+    {
+      "from": 805.56,
+      "to": 807.42,
+      "sid": 331,
+      "location": 2,
+      "content": "因为我要这样去嘎再去回",
+      "music": 0.0
+    },
+    {
+      "from": 807.42,
+      "to": 809.64,
+      "sid": 332,
+      "location": 2,
+      "content": "我鼠标第一时间复位不到头线",
+      "music": 0.0
+    },
+    {
+      "from": 809.64,
+      "to": 811.54,
+      "sid": 333,
+      "location": 2,
+      "content": "第二点我选择去打人",
+      "music": 0.0
+    },
+    {
+      "from": 811.54,
+      "to": 813.16,
+      "sid": 334,
+      "location": 2,
+      "content": "那么他必被照出来",
+      "music": 0.0
+    },
+    {
+      "from": 813.16,
+      "to": 814.48,
+      "sid": 335,
+      "location": 2,
+      "content": "他被照出来的呢",
+      "music": 0.0
+    },
+    {
+      "from": 814.48,
+      "to": 815.74,
+      "sid": 336,
+      "location": 2,
+      "content": "那队友第一时间冲到这里",
+      "music": 0.0
+    },
+    {
+      "from": 815.74,
+      "to": 816.98,
+      "sid": 337,
+      "location": 2,
+      "content": "隔墙去穿他",
+      "music": 0.0
+    },
+    {
+      "from": 816.98,
+      "to": 818.58,
+      "sid": 338,
+      "location": 2,
+      "content": "他这位置就很难去活",
+      "music": 0.0
+    },
+    {
+      "from": 818.58,
+      "to": 819.9,
+      "sid": 339,
+      "location": 2,
+      "content": "他要么打道具",
+      "music": 0.0
+    },
+    {
+      "from": 819.9,
+      "to": 820.98,
+      "sid": 340,
+      "location": 2,
+      "content": "要么去接人",
+      "music": 0.0
+    },
+    {
+      "from": 820.98,
+      "to": 823.069,
+      "sid": 341,
+      "location": 2,
+      "content": "他就面临着一个这样的一个选择",
+      "music": 0.0
+    },
+    {
+      "from": 823.069,
+      "to": 825.549,
+      "sid": 342,
+      "location": 2,
+      "content": "所以当你去给刀区的时候呢",
+      "music": 0.0
+    },
+    {
+      "from": 825.549,
+      "to": 828.819,
+      "sid": 343,
+      "location": 2,
+      "content": "你可以选择一个比较跑去拉枪线的位置",
+      "music": 0.0
+    },
+    {
+      "from": 828.819,
+      "to": 830.639,
+      "sid": 344,
+      "location": 2,
+      "content": "通过和E兔的沟通",
+      "music": 0.0
+    },
+    {
+      "from": 830.639,
+      "to": 833.519,
+      "sid": 345,
+      "location": 2,
+      "content": "去经过一个枪线拉枪线的选择",
+      "music": 0.0
+    },
+    {
+      "from": 833.519,
+      "to": 835.699,
+      "sid": 346,
+      "location": 2,
+      "content": "来为队伍创造优势",
+      "music": 0.0
+    },
+    {
+      "from": 839.68,
+      "to": 842.63,
+      "sid": 347,
+      "location": 2,
+      "content": "补枪选位和站位意识",
+      "music": 0.0
+    },
+    {
+      "from": 842.63,
+      "to": 844.59,
+      "sid": 348,
+      "location": 2,
+      "content": "感觉是一个特别大的一个通病",
+      "music": 0.0
+    },
+    {
+      "from": 844.59,
+      "to": 847.15,
+      "sid": 349,
+      "location": 2,
+      "content": "问题就是大家在进行游戏对决的时候",
+      "music": 0.0
+    },
+    {
+      "from": 847.15,
+      "to": 850.5,
+      "sid": 350,
+      "location": 2,
+      "content": "很难去意识到自己的位置是不是一个好位置",
+      "music": 0.0
+    },
+    {
+      "from": 850.5,
+      "to": 852.57,
+      "sid": 351,
+      "location": 2,
+      "content": "以上图为例子",
+      "music": 0.0
+    },
+    {
+      "from": 852.85,
+      "to": 854.89,
+      "sid": 352,
+      "location": 2,
+      "content": "我方两个人在碎石对面",
+      "music": 0.0
+    },
+    {
+      "from": 854.89,
+      "to": 855.75,
+      "sid": 353,
+      "location": 2,
+      "content": "两个在AB点",
+      "music": 0.0
+    },
+    {
+      "from": 855.75,
+      "to": 857.45,
+      "sid": 354,
+      "location": 2,
+      "content": "假设四个人都没道具的情况下",
+      "music": 0.0
+    },
+    {
+      "from": 857.45,
+      "to": 859.25,
+      "sid": 355,
+      "location": 2,
+      "content": "进行一个纯粹对枪",
+      "music": 0.0
+    },
+    {
+      "from": 859.25,
+      "to": 862.145,
+      "sid": 356,
+      "location": 2,
+      "content": "是不是有很多玩家喜欢第一时间从这拉出去",
+      "music": 0.0
+    },
+    {
+      "from": 863.21,
+      "to": 865.11,
+      "sid": 357,
+      "location": 2,
+      "content": "这样就进一个被抢环节",
+      "music": 0.0
+    },
+    {
+      "from": 865.11,
+      "to": 866.77,
+      "sid": 358,
+      "location": 2,
+      "content": "这个位置有什么坏处呢",
+      "music": 0.0
+    },
+    {
+      "from": 866.77,
+      "to": 870.06,
+      "sid": 359,
+      "location": 2,
+      "content": "第一时间就是这个位置一旦拉出去之后",
+      "music": 0.0
+    },
+    {
+      "from": 870.06,
+      "to": 871.26,
+      "sid": 360,
+      "location": 2,
+      "content": "就没有回头路了",
+      "music": 0.0
+    },
+    {
+      "from": 871.26,
+      "to": 873.8,
+      "sid": 361,
+      "location": 2,
+      "content": "因为这个位置拉出去就是一个被指架的位置",
+      "music": 0.0
+    },
+    {
+      "from": 873.8,
+      "to": 876.28,
+      "sid": 362,
+      "location": 2,
+      "content": "然后队友第二时间补不上枪",
+      "music": 0.0
+    },
+    {
+      "from": 876.28,
+      "to": 877.94,
+      "sid": 363,
+      "location": 2,
+      "content": "因为太窄了",
+      "music": 0.0
+    },
+    {
+      "from": 877.94,
+      "to": 881.5,
+      "sid": 364,
+      "location": 2,
+      "content": "一旦对方或者说我方队友卡在这里",
+      "music": 0.0
+    },
+    {
+      "from": 881.5,
+      "to": 882.84,
+      "sid": 365,
+      "location": 2,
+      "content": "你其身位被卡",
+      "music": 0.0
+    },
+    {
+      "from": 882.84,
+      "to": 884.28,
+      "sid": 366,
+      "location": 2,
+      "content": "队友第一时间也补不住枪",
+      "music": 0.0
+    },
+    {
+      "from": 884.28,
+      "to": 886.72,
+      "sid": 367,
+      "location": 2,
+      "content": "就被变成被对方拆开了",
+      "music": 0.0
+    },
+    {
+      "from": 886.72,
+      "to": 889.0,
+      "sid": 368,
+      "location": 2,
+      "content": "所以很多人喜欢去架那个位置",
+      "music": 0.0
+    },
+    {
+      "from": 889.0,
+      "to": 890.48,
+      "sid": 369,
+      "location": 2,
+      "content": "才不相信我",
+      "music": 0.0
+    },
+    {
+      "from": 890.48,
+      "to": 893.56,
+      "sid": 370,
+      "location": 2,
+      "content": "所以当我们去面对一个对方二人位置明牌",
+      "music": 0.0
+    },
+    {
+      "from": 893.56,
+      "to": 895.42,
+      "sid": 371,
+      "location": 2,
+      "content": "我方二人也明牌位置之后",
+      "music": 0.0
+    },
+    {
+      "from": 895.42,
+      "to": 898.2,
+      "sid": 372,
+      "location": 2,
+      "content": "更好的是像这种这种位置",
+      "music": 0.0
+    },
+    {
+      "from": 898.2,
+      "to": 899.72,
+      "sid": 373,
+      "location": 2,
+      "content": "一根卡在这一根卡",
+      "music": 0.0
+    },
+    {
+      "from": 899.72,
+      "to": 903.329,
+      "sid": 374,
+      "location": 2,
+      "content": "这去卡住一个对方的一个来回蹭枪的行为",
+      "music": 0.0
+    },
+    {
+      "from": 903.329,
+      "to": 904.929,
+      "sid": 375,
+      "location": 2,
+      "content": "来不给对方机会",
+      "music": 0.0
+    },
+    {
+      "from": 904.929,
+      "to": 907.889,
+      "sid": 376,
+      "location": 2,
+      "content": "因为一旦你从一个狭窄区去找机会的话",
+      "music": 0.0
+    },
+    {
+      "from": 907.889,
+      "to": 909.94,
+      "sid": 377,
+      "location": 2,
+      "content": "很可能会被对方拆开",
+      "music": 0.0
+    },
+    {
+      "from": 909.94,
+      "to": 911.78,
+      "sid": 378,
+      "location": 2,
+      "content": "所以我们更加倾向于补枪",
+      "music": 0.0
+    },
+    {
+      "from": 911.78,
+      "to": 912.1,
+      "sid": 379,
+      "location": 2,
+      "content": "位置",
+      "music": 0.0
+    },
+    {
+      "from": 912.1,
+      "to": 914.1,
+      "sid": 380,
+      "location": 2,
+      "content": "是造一个双方位置",
+      "music": 0.0
+    },
+    {
+      "from": 914.1,
+      "to": 917.94,
+      "sid": 381,
+      "location": 2,
+      "content": "都是呈现出一个90度或者一个斜线度的方向",
+      "music": 0.0
+    },
+    {
+      "from": 918.63,
+      "to": 920.75,
+      "sid": 382,
+      "location": 2,
+      "content": "然后我们怎么去找补枪位呢",
+      "music": 0.0
+    },
+    {
+      "from": 920.75,
+      "to": 925.58,
+      "sid": 383,
+      "location": 2,
+      "content": "像这种90度位置配上一个斜线的位置",
+      "music": 0.0
+    },
+    {
+      "from": 925.58,
+      "to": 927.2,
+      "sid": 384,
+      "location": 2,
+      "content": "也像这种一个斜线的位置",
+      "music": 0.0
+    },
+    {
+      "from": 927.2,
+      "to": 928.8,
+      "sid": 385,
+      "location": 2,
+      "content": "这是一个很好的补枪位",
+      "music": 0.0
+    },
+    {
+      "from": 928.8,
+      "to": 931.04,
+      "sid": 386,
+      "location": 2,
+      "content": "首先第一点是什么原因",
+      "music": 0.0
+    },
+    {
+      "from": 931.04,
+      "to": 934.049,
+      "sid": 387,
+      "location": 2,
+      "content": "第一点斜线一定是补枪",
+      "music": 0.0
+    },
+    {
+      "from": 934.049,
+      "to": 935.329,
+      "sid": 388,
+      "location": 2,
+      "content": "直线是直架",
+      "music": 0.0
+    },
+    {
+      "from": 935.329,
+      "to": 936.689,
+      "sid": 389,
+      "location": 2,
+      "content": "因为直线这个人",
+      "music": 0.0
+    },
+    {
+      "from": 936.689,
+      "to": 938.009,
+      "sid": 390,
+      "location": 2,
+      "content": "第一时间他要承担对方",
+      "music": 0.0
+    },
+    {
+      "from": 938.009,
+      "to": 941.35,
+      "sid": 391,
+      "location": 2,
+      "content": "大概的或者一个蹭枪的一个目标",
+      "music": 0.0
+    },
+    {
+      "from": 941.35,
+      "to": 944.89,
+      "sid": 392,
+      "location": 2,
+      "content": "然后对方一旦能看到你一个直线90度的人",
+      "music": 0.0
+    },
+    {
+      "from": 944.89,
+      "to": 947.55,
+      "sid": 393,
+      "location": 2,
+      "content": "那么他的站位一定在这一块",
+      "music": 0.0
+    },
+    {
+      "from": 947.79,
+      "to": 949.85,
+      "sid": 394,
+      "location": 2,
+      "content": "是一个拉出去的范围内",
+      "music": 0.0
+    },
+    {
+      "from": 949.85,
+      "to": 952.35,
+      "sid": 395,
+      "location": 2,
+      "content": "那么你在一个斜线位的人",
+      "music": 0.0
+    },
+    {
+      "from": 952.35,
+      "to": 955.2,
+      "sid": 396,
+      "location": 2,
+      "content": "第一时间看到队友那边漏出去之后",
+      "music": 0.0
+    },
+    {
+      "from": 955.68,
+      "to": 957.24,
+      "sid": 397,
+      "location": 2,
+      "content": "就可以拉出去补枪",
+      "music": 0.0
+    },
+    {
+      "from": 957.24,
+      "to": 959.38,
+      "sid": 398,
+      "location": 2,
+      "content": "对方是一是没掩体",
+      "music": 0.0
+    },
+    {
+      "from": 959.38,
+      "to": 961.22,
+      "sid": 399,
+      "location": 2,
+      "content": "二是他拉出现的身位已经够大了",
+      "music": 0.0
+    },
+    {
+      "from": 961.22,
+      "to": 962.829,
+      "sid": 400,
+      "location": 2,
+      "content": "足够你进行一个击杀了",
+      "music": 0.0
+    },
+    {
+      "from": 962.829,
+      "to": 966.03,
+      "sid": 401,
+      "location": 2,
+      "content": "这个时候的补枪呢是特别有效而且特别有益的",
+      "music": 0.0
+    },
+    {
+      "from": 966.03,
+      "to": 967.71,
+      "sid": 402,
+      "location": 2,
+      "content": "这样子斜线枪的人",
+      "music": 0.0
+    },
+    {
+      "from": 967.71,
+      "to": 970.05,
+      "sid": 403,
+      "location": 2,
+      "content": "当心几乎都可以白嫖到一个人头",
+      "music": 0.0
+    },
+    {
+      "from": 970.05,
+      "to": 971.47,
+      "sid": 404,
+      "location": 2,
+      "content": "然后直线架枪的人",
+      "music": 0.0
+    },
+    {
+      "from": 971.47,
+      "to": 975.32,
+      "sid": 405,
+      "location": 2,
+      "content": "可以通过直线的一个身位就走掉了",
+      "music": 0.0
+    },
+    {
+      "from": 975.32,
+      "to": 977.3,
+      "sid": 406,
+      "location": 2,
+      "content": "这样子的补枪更加的有收益",
+      "music": 0.0
+    },
+    {
+      "from": 977.3,
+      "to": 979.12,
+      "sid": 407,
+      "location": 2,
+      "content": "也更加的便捷",
+      "music": 0.0
+    },
+    {
+      "from": 981.72,
+      "to": 984.78,
+      "sid": 408,
+      "location": 2,
+      "content": "怎么带队伍更优质更好的近点",
+      "music": 0.0
+    },
+    {
+      "from": 984.78,
+      "to": 987.08,
+      "sid": 409,
+      "location": 2,
+      "content": "是不是很多依图玩家所需要面临的一个",
+      "music": 0.0
+    },
+    {
+      "from": 987.08,
+      "to": 987.84,
+      "sid": 410,
+      "location": 2,
+      "content": "责任问题",
+      "music": 0.0
+    },
+    {
+      "from": 987.84,
+      "to": 989.91,
+      "sid": 411,
+      "location": 2,
+      "content": "就是该怎么去近点",
+      "music": 0.0
+    },
+    {
+      "from": 989.91,
+      "to": 992.13,
+      "sid": 412,
+      "location": 2,
+      "content": "该怎么带好队伍去近点",
+      "music": 0.0
+    },
+    {
+      "from": 992.13,
+      "to": 993.73,
+      "sid": 413,
+      "location": 2,
+      "content": "这个时候呢",
+      "music": 0.0
+    },
+    {
+      "from": 993.73,
+      "to": 999.42,
+      "sid": 414,
+      "location": 2,
+      "content": "一突的核心目的其实不是去快速的往前点去蹭",
+      "music": 0.0
+    },
+    {
+      "from": 999.42,
+      "to": 1002.18,
+      "sid": 415,
+      "location": 2,
+      "content": "而是怎么去藏住我方的进攻意图",
+      "music": 0.0
+    },
+    {
+      "from": 1002.18,
+      "to": 1005.43,
+      "sid": 416,
+      "location": 2,
+      "content": "让对方不知道我们的进攻信息和进攻方向",
+      "music": 0.0
+    },
+    {
+      "from": 1005.43,
+      "to": 1009.61,
+      "sid": 417,
+      "location": 2,
+      "content": "因为我见过很多玩很多地图的人",
+      "music": 0.0
+    },
+    {
+      "from": 1009.61,
+      "to": 1012.03,
+      "sid": 418,
+      "location": 2,
+      "content": "都喜欢这样子大摇大摆",
+      "music": 0.0
+    },
+    {
+      "from": 1012.03,
+      "to": 1013.96,
+      "sid": 419,
+      "location": 2,
+      "content": "这样子拉出去",
+      "music": 0.0
+    },
+    {
+      "from": 1014.24,
+      "to": 1015.6,
+      "sid": 420,
+      "location": 2,
+      "content": "我可去进攻",
+      "music": 0.0
+    },
+    {
+      "from": 1015.6,
+      "to": 1017.0,
+      "sid": 421,
+      "location": 2,
+      "content": "这导致一个什么行为呢",
+      "music": 0.0
+    },
+    {
+      "from": 1017.0,
+      "to": 1019.97,
+      "sid": 422,
+      "location": 2,
+      "content": "就是这边人听到我们的进攻信息",
+      "music": 0.0
+    },
+    {
+      "from": 1019.97,
+      "to": 1021.69,
+      "sid": 423,
+      "location": 2,
+      "content": "然后提前捏好道具",
+      "music": 0.0
+    },
+    {
+      "from": 1021.69,
+      "to": 1024.37,
+      "sid": 424,
+      "location": 2,
+      "content": "然后同时中路的人回防到这A移动",
+      "music": 0.0
+    },
+    {
+      "from": 1024.37,
+      "to": 1025.369,
+      "sid": 425,
+      "location": 2,
+      "content": "一个人到中路",
+      "music": 0.0
+    },
+    {
+      "from": 1025.369,
+      "to": 1027.729,
+      "sid": 426,
+      "location": 2,
+      "content": "那么是不是B3且有道具的情况下",
+      "music": 0.0
+    },
+    {
+      "from": 1027.729,
+      "to": 1029.55,
+      "sid": 427,
+      "location": 2,
+      "content": "我们整体进攻就拖沓主了",
+      "music": 0.0
+    },
+    {
+      "from": 1029.55,
+      "to": 1031.29,
+      "sid": 428,
+      "location": 2,
+      "content": "是不是就会进攻的特别难",
+      "music": 0.0
+    },
+    {
+      "from": 1031.29,
+      "to": 1033.75,
+      "sid": 429,
+      "location": 2,
+      "content": "所以一旦我们选择去进攻一个点",
+      "music": 0.0
+    },
+    {
+      "from": 1033.75,
+      "to": 1035.21,
+      "sid": 430,
+      "location": 2,
+      "content": "或选择一个爆弹的时候",
+      "music": 0.0
+    },
+    {
+      "from": 1035.21,
+      "to": 1037.94,
+      "sid": 431,
+      "location": 2,
+      "content": "藏住前点信息是一个特别重要的行为",
+      "music": 0.0
+    },
+    {
+      "from": 1037.94,
+      "to": 1040.44,
+      "sid": 432,
+      "location": 2,
+      "content": "第一时间呢能够防止对方捏道具",
+      "music": 0.0
+    },
+    {
+      "from": 1040.44,
+      "to": 1042.74,
+      "sid": 433,
+      "location": 2,
+      "content": "第二时间呢可以防止对方的人员调动",
+      "music": 0.0
+    },
+    {
+      "from": 1042.74,
+      "to": 1046.089,
+      "sid": 434,
+      "location": 2,
+      "content": "而导致我们要在包间里面接触多人",
+      "music": 0.0
+    },
+    {
+      "from": 1046.489,
+      "to": 1048.049,
+      "sid": 435,
+      "location": 2,
+      "content": "所以这个时候呢我们可以选择前点",
+      "music": 0.0
+    },
+    {
+      "from": 1048.049,
+      "to": 1049.929,
+      "sid": 436,
+      "location": 2,
+      "content": "通过预瞄去架住前点的人",
+      "music": 0.0
+    },
+    {
+      "from": 1049.929,
+      "to": 1053.95,
+      "sid": 437,
+      "location": 2,
+      "content": "滚滚开取前点信息到这一块区域的时候呢",
+      "music": 0.0
+    },
+    {
+      "from": 1053.95,
+      "to": 1055.45,
+      "sid": 438,
+      "location": 2,
+      "content": "如果说对方是奶妈的话",
+      "music": 0.0
+    },
+    {
+      "from": 1055.45,
+      "to": 1058.55,
+      "sid": 439,
+      "location": 2,
+      "content": "就叫你四名队友一起破一块船",
+      "music": 0.0
+    },
+    {
+      "from": 1058.71,
+      "to": 1060.51,
+      "sid": 440,
+      "location": 2,
+      "content": "一块墙在这里",
+      "music": 0.0
+    },
+    {
+      "from": 1060.51,
+      "to": 1064.18,
+      "sid": 441,
+      "location": 2,
+      "content": "然后在这里有一看嗯",
+      "music": 0.0
+    },
+    {
+      "from": 1067.16,
+      "to": 1070.92,
+      "sid": 442,
+      "location": 2,
+      "content": "这样子整体的队伍进攻质量就会变高",
+      "music": 0.0
+    },
+    {
+      "from": 1070.92,
+      "to": 1073.56,
+      "sid": 443,
+      "location": 2,
+      "content": "因为一突可以通过自己视角去转动",
+      "music": 0.0
+    },
+    {
+      "from": 1073.56,
+      "to": 1073.8,
+      "sid": 444,
+      "location": 2,
+      "content": "看球",
+      "music": 0.0
+    },
+    {
+      "from": 1073.8,
+      "to": 1075.55,
+      "sid": 445,
+      "location": 2,
+      "content": "前点信息知道之后",
+      "music": 0.0
+    },
+    {
+      "from": 1075.55,
+      "to": 1077.09,
+      "sid": 446,
+      "location": 2,
+      "content": "再由队伍往这拉出去",
+      "music": 0.0
+    },
+    {
+      "from": 1077.09,
+      "to": 1080.119,
+      "sid": 447,
+      "location": 2,
+      "content": "往前拉出去打一个补枪",
+      "music": 0.0
+    },
+    {
+      "from": 1080.119,
+      "to": 1083.219,
+      "sid": 448,
+      "location": 2,
+      "content": "这样呢整体队伍进攻思路会变得更加明确",
+      "music": 0.0
+    },
+    {
+      "from": 1083.219,
+      "to": 1087.29,
+      "sid": 449,
+      "location": 2,
+      "content": "而且整体进攻的冲击感和爆破",
+      "music": 0.0
+    },
+    {
+      "from": 1087.29,
+      "to": 1090.14,
+      "sid": 450,
+      "location": 2,
+      "content": "会更加的方便防对方",
+      "music": 0.0
+    },
+    {
+      "from": 1090.14,
+      "to": 1091.46,
+      "sid": 451,
+      "location": 2,
+      "content": "如果奶妈这边扔个冰球",
+      "music": 0.0
+    },
+    {
+      "from": 1091.46,
+      "to": 1094.26,
+      "sid": 452,
+      "location": 2,
+      "content": "然后在这边又要卡个五六秒甚至十几秒",
+      "music": 0.0
+    },
+    {
+      "from": 1094.26,
+      "to": 1096.12,
+      "sid": 453,
+      "location": 2,
+      "content": "然后整体进攻会变得特别拖沓",
+      "music": 0.0
+    },
+    {
+      "from": 1096.12,
+      "to": 1098.24,
+      "sid": 454,
+      "location": 2,
+      "content": "甚至道具都没",
+      "music": 0.0
+    },
+    {
+      "from": 1100.1,
+      "to": 1102.88,
+      "sid": 455,
+      "location": 2,
+      "content": "地图理解是一个后面你要提升段位",
+      "music": 0.0
+    },
+    {
+      "from": 1102.88,
+      "to": 1104.32,
+      "sid": 456,
+      "location": 2,
+      "content": "必不可少的一个东西",
+      "music": 0.0
+    },
+    {
+      "from": 1104.32,
+      "to": 1106.65,
+      "sid": 457,
+      "location": 2,
+      "content": "那么什么是地图理解呢",
+      "music": 0.0
+    },
+    {
+      "from": 1106.89,
+      "to": 1110.75,
+      "sid": 458,
+      "location": 2,
+      "content": "一点是知道了地图里大概所有人的预瞄站位",
+      "music": 0.0
+    },
+    {
+      "from": 1110.75,
+      "to": 1113.23,
+      "sid": 459,
+      "location": 2,
+      "content": "比如说像是前点位置和常规架点位",
+      "music": 0.0
+    },
+    {
+      "from": 1113.23,
+      "to": 1116.03,
+      "sid": 460,
+      "location": 2,
+      "content": "第二点就是你可以大致的去知道",
+      "music": 0.0
+    },
+    {
+      "from": 1116.03,
+      "to": 1117.03,
+      "sid": 461,
+      "location": 2,
+      "content": "对方的整体站位",
+      "music": 0.0
+    },
+    {
+      "from": 1117.03,
+      "to": 1119.21,
+      "sid": 462,
+      "location": 2,
+      "content": "比如说像拥有这张这张图的例子",
+      "music": 0.0
+    },
+    {
+      "from": 1119.21,
+      "to": 1123.28,
+      "sid": 463,
+      "location": 2,
+      "content": "是不是市场锚点double包点",
+      "music": 0.0
+    },
+    {
+      "from": 1123.28,
+      "to": 1126.38,
+      "sid": 464,
+      "location": 2,
+      "content": "然后中路可能会占一个左或一个右的位置",
+      "music": 0.0
+    },
+    {
+      "from": 1126.38,
+      "to": 1130.32,
+      "sid": 465,
+      "location": 2,
+      "content": "那么我们是不是很清晰的能感受到对方的弱势",
+      "music": 0.0
+    },
+    {
+      "from": 1130.32,
+      "to": 1130.6,
+      "sid": 466,
+      "location": 2,
+      "content": "测试",
+      "music": 0.0
+    },
+    {
+      "from": 1130.6,
+      "to": 1132.72,
+      "sid": 467,
+      "location": 2,
+      "content": "哪里既不是A也不是B",
+      "music": 0.0
+    },
+    {
+      "from": 1132.72,
+      "to": 1133.54,
+      "sid": 468,
+      "location": 2,
+      "content": "而是中B",
+      "music": 0.0
+    },
+    {
+      "from": 1133.54,
+      "to": 1135.22,
+      "sid": 469,
+      "location": 2,
+      "content": "因为中路只有一个人",
+      "music": 0.0
+    },
+    {
+      "from": 1135.22,
+      "to": 1137.38,
+      "sid": 470,
+      "location": 2,
+      "content": "所以这个时候呢我们就可以呼叫队友",
+      "music": 0.0
+    },
+    {
+      "from": 1137.38,
+      "to": 1138.75,
+      "sid": 471,
+      "location": 2,
+      "content": "不破市场的门",
+      "music": 0.0
+    },
+    {
+      "from": 1138.75,
+      "to": 1142.27,
+      "sid": 472,
+      "location": 2,
+      "content": "然后我们通过扩展自己的进攻的空间",
+      "music": 0.0
+    },
+    {
+      "from": 1142.27,
+      "to": 1144.75,
+      "sid": 473,
+      "location": 2,
+      "content": "把中部整体站在自己的身上",
+      "music": 0.0
+    },
+    {
+      "from": 1144.75,
+      "to": 1149.619,
+      "sid": 474,
+      "location": 2,
+      "content": "然后通过这一条路径由队友进行一个多打少",
+      "music": 0.0
+    },
+    {
+      "from": 1149.619,
+      "to": 1151.819,
+      "sid": 475,
+      "location": 2,
+      "content": "而把对方的整体的生存空间",
+      "music": 0.0
+    },
+    {
+      "from": 1151.819,
+      "to": 1154.62,
+      "sid": 476,
+      "location": 2,
+      "content": "压缩到B和A这两个点",
+      "music": 0.0
+    },
+    {
+      "from": 1154.62,
+      "to": 1156.83,
+      "sid": 477,
+      "location": 2,
+      "content": "那么是不是我们选择方向就多了",
+      "music": 0.0
+    },
+    {
+      "from": 1156.83,
+      "to": 1158.71,
+      "sid": 478,
+      "location": 2,
+      "content": "因为我们进攻方向变多了",
+      "music": 0.0
+    },
+    {
+      "from": 1158.71,
+      "to": 1162.35,
+      "sid": 479,
+      "location": 2,
+      "content": "原本只有仅仅枯燥的一个B大市场",
+      "music": 0.0
+    },
+    {
+      "from": 1162.35,
+      "to": 1164.33,
+      "sid": 480,
+      "location": 2,
+      "content": "或者说一个A大两侧",
+      "music": 0.0
+    },
+    {
+      "from": 1164.33,
+      "to": 1168.539,
+      "sid": 481,
+      "location": 2,
+      "content": "多一条或者多两条范围可以进攻方向",
+      "music": 0.0
+    },
+    {
+      "from": 1168.539,
+      "to": 1171.339,
+      "sid": 482,
+      "location": 2,
+      "content": "这个时候呢我们整体的进攻就会变得更加犀利",
+      "music": 0.0
+    },
+    {
+      "from": 1171.339,
+      "to": 1173.61,
+      "sid": 483,
+      "location": 2,
+      "content": "可以让对方更难的难以招架",
+      "music": 0.0
+    },
+    {
+      "from": 1173.61,
+      "to": 1176.35,
+      "sid": 484,
+      "location": 2,
+      "content": "所以我们该怎么去提升自己的地图理解",
+      "music": 0.0
+    },
+    {
+      "from": 1176.35,
+      "to": 1179.02,
+      "sid": 485,
+      "location": 2,
+      "content": "就要去摸索对方中部的人员站位",
+      "music": 0.0
+    },
+    {
+      "from": 1179.02,
+      "to": 1181.26,
+      "sid": 486,
+      "location": 2,
+      "content": "去更好的扩展自己的生存空间",
+      "music": 0.0
+    },
+    {
+      "from": 1181.26,
+      "to": 1183.58,
+      "sid": 487,
+      "location": 2,
+      "content": "和压缩对方的回防路线",
+      "music": 0.0
+    },
+    {
+      "from": 1185.24,
+      "to": 1190.34,
+      "sid": 488,
+      "location": 2,
+      "content": "然后玩一突其实可以不仅仅的只局限于包点",
+      "music": 0.0
+    },
+    {
+      "from": 1190.34,
+      "to": 1192.22,
+      "sid": 489,
+      "location": 2,
+      "content": "可以选择去抢占位置",
+      "music": 0.0
+    },
+    {
+      "from": 1192.22,
+      "to": 1194.52,
+      "sid": 490,
+      "location": 2,
+      "content": "像是这张图为例子",
+      "music": 0.0
+    },
+    {
+      "from": 1194.52,
+      "to": 1196.52,
+      "sid": 491,
+      "location": 2,
+      "content": "我们仍旧是去控中路",
+      "music": 0.0
+    },
+    {
+      "from": 1196.52,
+      "to": 1197.42,
+      "sid": 492,
+      "location": 2,
+      "content": "但我不走中路",
+      "music": 0.0
+    },
+    {
+      "from": 1197.42,
+      "to": 1198.44,
+      "sid": 493,
+      "location": 2,
+      "content": "那么可以这么做",
+      "music": 0.0
+    },
+    {
+      "from": 1198.44,
+      "to": 1201.58,
+      "sid": 494,
+      "location": 2,
+      "content": "会让队友帮忙去控住A大的这一侧",
+      "music": 0.0
+    },
+    {
+      "from": 1202.079,
+      "to": 1202.999,
+      "sid": 495,
+      "location": 2,
+      "content": "然后这个时候呢",
+      "music": 0.0
+    },
+    {
+      "from": 1202.999,
+      "to": 1205.559,
+      "sid": 496,
+      "location": 2,
+      "content": "我们玩意图就可以完全可以站上去做",
+      "music": 0.0
+    },
+    {
+      "from": 1209.2,
+      "to": 1210.51,
+      "sid": 497,
+      "location": 2,
+      "content": "到底抢了",
+      "music": 0.0
+    },
+    {
+      "from": 1210.51,
+      "to": 1213.67,
+      "sid": 498,
+      "location": 2,
+      "content": "然后同时让队友把是中路控住",
+      "music": 0.0
+    },
+    {
+      "from": 1213.67,
+      "to": 1214.91,
+      "sid": 499,
+      "location": 2,
+      "content": "市场门住",
+      "music": 0.0
+    },
+    {
+      "from": 1214.91,
+      "to": 1216.91,
+      "sid": 500,
+      "location": 2,
+      "content": "我们通过红砖往中路去踩",
+      "music": 0.0
+    },
+    {
+      "from": 1216.91,
+      "to": 1218.33,
+      "sid": 501,
+      "location": 2,
+      "content": "这个时候我们是不是",
+      "music": 0.0
+    },
+    {
+      "from": 1218.33,
+      "to": 1222.24,
+      "sid": 502,
+      "location": 2,
+      "content": "这里就把中路整整歪歪七七给架住",
+      "music": 0.0
+    },
+    {
+      "from": 1222.24,
+      "to": 1223.48,
+      "sid": 503,
+      "location": 2,
+      "content": "然后因为A包点",
+      "music": 0.0
+    },
+    {
+      "from": 1223.48,
+      "to": 1225.56,
+      "sid": 504,
+      "location": 2,
+      "content": "因为我们整体进攻A包点的人",
+      "music": 0.0
+    },
+    {
+      "from": 1225.56,
+      "to": 1226.76,
+      "sid": 505,
+      "location": 2,
+      "content": "第一时间不会去移动",
+      "music": 0.0
+    },
+    {
+      "from": 1226.76,
+      "to": 1227.89,
+      "sid": 506,
+      "location": 2,
+      "content": "就选择去架点",
+      "music": 0.0
+    },
+    {
+      "from": 1227.89,
+      "to": 1229.27,
+      "sid": 507,
+      "location": 2,
+      "content": "说下ab和包点",
+      "music": 0.0
+    },
+    {
+      "from": 1229.27,
+      "to": 1230.73,
+      "sid": 508,
+      "location": 2,
+      "content": "他第一时间会选择去架点",
+      "music": 0.0
+    },
+    {
+      "from": 1230.73,
+      "to": 1232.71,
+      "sid": 509,
+      "location": 2,
+      "content": "来防止我们队友打A",
+      "music": 0.0
+    },
+    {
+      "from": 1232.71,
+      "to": 1233.57,
+      "sid": 510,
+      "location": 2,
+      "content": "然后这个时候呢",
+      "music": 0.0
+    },
+    {
+      "from": 1233.57,
+      "to": 1235.949,
+      "sid": 511,
+      "location": 2,
+      "content": "我们就完全从这一块往前面去踩",
+      "music": 0.0
+    },
+    {
+      "from": 1235.949,
+      "to": 1237.769,
+      "sid": 512,
+      "location": 2,
+      "content": "因为B的阵型已经完全就乱",
+      "music": 0.0
+    },
+    {
+      "from": 1237.769,
+      "to": 1238.829,
+      "sid": 513,
+      "location": 2,
+      "content": "完全乱掉了",
+      "music": 0.0
+    },
+    {
+      "from": 1238.829,
+      "to": 1242.109,
+      "sid": 514,
+      "location": 2,
+      "content": "他知道我们进攻了A那B这一块就会有人回防",
+      "music": 0.0
+    },
+    {
+      "from": 1242.109,
+      "to": 1244.78,
+      "sid": 515,
+      "location": 2,
+      "content": "那么我们整体队友一起往前去踩",
+      "music": 0.0
+    },
+    {
+      "from": 1245.06,
+      "to": 1246.83,
+      "sid": 516,
+      "location": 2,
+      "content": "是不是可以去打拼",
+      "music": 0.0
+    },
+    {
+      "from": 1247.07,
+      "to": 1249.81,
+      "sid": 517,
+      "location": 2,
+      "content": "这样就是一个整体的一个进攻的思路",
+      "music": 0.0
+    },
+    {
+      "from": 1249.81,
+      "to": 1251.47,
+      "sid": 518,
+      "location": 2,
+      "content": "我们可以通过不断的拆分",
+      "music": 0.0
+    },
+    {
+      "from": 1251.47,
+      "to": 1253.09,
+      "sid": 519,
+      "location": 2,
+      "content": "对方的中路的一个范围",
+      "music": 0.0
+    },
+    {
+      "from": 1253.09,
+      "to": 1254.92,
+      "sid": 520,
+      "location": 2,
+      "content": "来为自己打开进攻路线",
+      "music": 0.0
+    }
+  ]
+}

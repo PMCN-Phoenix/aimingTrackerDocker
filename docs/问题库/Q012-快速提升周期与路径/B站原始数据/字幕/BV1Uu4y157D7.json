@@ -1,0 +1,2022 @@
+{
+  "bvid": "BV1Uu4y157D7",
+  "aid": 918968124,
+  "cid": 1344818023,
+  "meta": {
+    "title": "【无畏契约】最卷复盘流程，8分钟拯救游戏意识，基于自我复盘的提升路径",
+    "pages": [
+      {
+        "cid": 1344818023,
+        "page": 1,
+        "from": "vupload",
+        "part": "【无畏契约】最卷复盘流程，8分钟拯救游戏意识，基于自我复盘的提升路径",
+        "duration": 513,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i0.hdslb.com/bfs/storyff/n231126sa2iwczqxd5lttd3h70upctia_firsti.jpg",
+        "ctime": 1700989163
+      }
+    ],
+    "desc": "可算是完成了本月的月更目标\n希望自己以后一直都不会水视频\n视频中用到的地图工具为：valoplant.gg",
+    "owner": "法拉拉Astral",
+    "duration": 513
+  },
+  "subtitle_info": {
+    "lan": "ai-zh",
+    "url": "https://aisubtitle.hdslb.com/bfs/ai_subtitle/prod/91896812413448180232abcd2426cd91855d2db336c583e6e26?auth_key=1792037911-6498fd2d9ff94b7b8aab6658dc42a316-0-3b2ff6f4fed7dacb8ef8bf35f3408b3c",
+    "lan_doc": "中文"
+  },
+  "status": "ok",
+  "segment_count": 248,
+  "body": [
+    {
+      "from": 0.06,
+      "to": 0.72,
+      "sid": 1,
+      "location": 2,
+      "content": "大家好啊",
+      "music": 0.0
+    },
+    {
+      "from": 0.72,
+      "to": 1.32,
+      "sid": 2,
+      "location": 2,
+      "content": "我是法兰",
+      "music": 0.0
+    },
+    {
+      "from": 1.32,
+      "to": 3.78,
+      "sid": 3,
+      "location": 2,
+      "content": "本期视频是我对瓦洛兰特自我复盘的",
+      "music": 0.0
+    },
+    {
+      "from": 3.78,
+      "to": 5.26,
+      "sid": 4,
+      "location": 2,
+      "content": "注意事项的分类",
+      "music": 0.0
+    },
+    {
+      "from": 5.26,
+      "to": 8.23,
+      "sid": 5,
+      "location": 2,
+      "content": "复盘一直都是提高游戏理解的一个捷径",
+      "music": 0.0
+    },
+    {
+      "from": 8.23,
+      "to": 10.3,
+      "sid": 6,
+      "location": 2,
+      "content": "新手和高手之间的区别",
+      "music": 0.0
+    },
+    {
+      "from": 10.3,
+      "to": 12.69,
+      "sid": 7,
+      "location": 2,
+      "content": "很大程度上在于心理表征的多少",
+      "music": 0.0
+    },
+    {
+      "from": 12.69,
+      "to": 14.31,
+      "sid": 8,
+      "location": 2,
+      "content": "即遇到同一种问题时",
+      "music": 0.0
+    },
+    {
+      "from": 14.31,
+      "to": 17.61,
+      "sid": 9,
+      "location": 2,
+      "content": "脑袋里存在多少种不同的思考方式和对策打法",
+      "music": 0.0
+    },
+    {
+      "from": 17.61,
+      "to": 19.05,
+      "sid": 10,
+      "location": 2,
+      "content": "在开始复盘流程之前呢",
+      "music": 0.0
+    },
+    {
+      "from": 19.05,
+      "to": 21.91,
+      "sid": 11,
+      "location": 2,
+      "content": "我先统一下复盘使用的工具录制",
+      "music": 0.0
+    },
+    {
+      "from": 21.91,
+      "to": 23.86,
+      "sid": 12,
+      "location": 2,
+      "content": "统一推荐VIDIAGEFORCE",
+      "music": 0.0
+    },
+    {
+      "from": 23.86,
+      "to": 25.21,
+      "sid": 13,
+      "location": 2,
+      "content": "录制质量比较好",
+      "music": 0.0
+    },
+    {
+      "from": 25.21,
+      "to": 26.64,
+      "sid": 14,
+      "location": 2,
+      "content": "而且不影响帧数",
+      "music": 0.0
+    },
+    {
+      "from": 26.64,
+      "to": 28.32,
+      "sid": 15,
+      "location": 2,
+      "content": "用其他软件录制的话",
+      "music": 0.0
+    },
+    {
+      "from": 28.32,
+      "to": 30.0,
+      "sid": 16,
+      "location": 2,
+      "content": "推荐把编码调成显卡编码",
+      "music": 0.0
+    },
+    {
+      "from": 30.0,
+      "to": 33.22,
+      "sid": 17,
+      "location": 2,
+      "content": "这样的话可以尽量保证在游玩的过程中是流畅",
+      "music": 0.0
+    },
+    {
+      "from": 33.22,
+      "to": 36.25,
+      "sid": 18,
+      "location": 2,
+      "content": "复盘时思考的第一个阶段是游戏基础",
+      "music": 0.0
+    },
+    {
+      "from": 36.25,
+      "to": 37.78,
+      "sid": 19,
+      "location": 2,
+      "content": "即在不同的时间里",
+      "music": 0.0
+    },
+    {
+      "from": 37.78,
+      "to": 39.37,
+      "sid": 20,
+      "location": 2,
+      "content": "你需要做哪些事",
+      "music": 0.0
+    },
+    {
+      "from": 39.37,
+      "to": 40.75,
+      "sid": 21,
+      "location": 2,
+      "content": "一局排位的思考",
+      "music": 0.0
+    },
+    {
+      "from": 40.75,
+      "to": 43.72,
+      "sid": 22,
+      "location": 2,
+      "content": "往往从选完人加载地图的时候就已经开始了",
+      "music": 0.0
+    },
+    {
+      "from": 43.72,
+      "to": 45.25,
+      "sid": 23,
+      "location": 2,
+      "content": "第一个点就是团队阵容",
+      "music": 0.0
+    },
+    {
+      "from": 45.25,
+      "to": 46.21,
+      "sid": 24,
+      "location": 2,
+      "content": "我们需要考虑",
+      "music": 0.0
+    },
+    {
+      "from": 46.21,
+      "to": 49.0,
+      "sid": 25,
+      "location": 2,
+      "content": "在本张地图是否有比较强势的阵容",
+      "music": 0.0
+    },
+    {
+      "from": 49.0,
+      "to": 50.38,
+      "sid": 26,
+      "location": 2,
+      "content": "或者说你选的位置",
+      "music": 0.0
+    },
+    {
+      "from": 50.38,
+      "to": 52.66,
+      "sid": 27,
+      "location": 2,
+      "content": "在本张地图有没有比较强势的角色",
+      "music": 0.0
+    },
+    {
+      "from": 52.66,
+      "to": 55.48,
+      "sid": 28,
+      "location": 2,
+      "content": "第二点就是你需要理解他为什么强势",
+      "music": 0.0
+    },
+    {
+      "from": 55.48,
+      "to": 58.29,
+      "sid": 29,
+      "location": 2,
+      "content": "你所在的分段能否发挥其强势的点",
+      "music": 0.0
+    },
+    {
+      "from": 58.29,
+      "to": 61.09,
+      "sid": 30,
+      "location": 2,
+      "content": "就比如员工重镇里这张地图里",
+      "music": 0.0
+    },
+    {
+      "from": 61.09,
+      "to": 63.52,
+      "sid": 31,
+      "location": 2,
+      "content": "斯凯和雷兹在比赛和天梯里都是登",
+      "music": 0.0
+    },
+    {
+      "from": 63.52,
+      "to": 64.81,
+      "sid": 32,
+      "location": 2,
+      "content": "登场率超高的角色",
+      "music": 0.0
+    },
+    {
+      "from": 64.81,
+      "to": 66.01,
+      "sid": 33,
+      "location": 2,
+      "content": "你可以在弹幕里打一下",
+      "music": 0.0
+    },
+    {
+      "from": 66.01,
+      "to": 67.49,
+      "sid": 34,
+      "location": 2,
+      "content": "你觉得他强在哪里",
+      "music": 0.0
+    },
+    {
+      "from": 67.49,
+      "to": 70.67,
+      "sid": 35,
+      "location": 2,
+      "content": "自己又是否能抢打出其强势的点",
+      "music": 0.0
+    },
+    {
+      "from": 70.67,
+      "to": 73.01,
+      "sid": 36,
+      "location": 2,
+      "content": "而不能说是我看大家都在选雷兹",
+      "music": 0.0
+    },
+    {
+      "from": 73.01,
+      "to": 74.14,
+      "sid": 37,
+      "location": 2,
+      "content": "那我也选雷兹",
+      "music": 0.0
+    },
+    {
+      "from": 74.14,
+      "to": 76.78,
+      "sid": 38,
+      "location": 2,
+      "content": "又比如在亚海悬城里KO这个这个角色",
+      "music": 0.0
+    },
+    {
+      "from": 76.78,
+      "to": 78.88,
+      "sid": 39,
+      "location": 2,
+      "content": "在职业比赛里的登场率是非常高的",
+      "music": 0.0
+    },
+    {
+      "from": 78.88,
+      "to": 80.35,
+      "sid": 40,
+      "location": 2,
+      "content": "但天梯里没那么高",
+      "music": 0.0
+    },
+    {
+      "from": 80.35,
+      "to": 82.45,
+      "sid": 41,
+      "location": 2,
+      "content": "这是因为KO的瞄点学习成本较高",
+      "music": 0.0
+    },
+    {
+      "from": 82.45,
+      "to": 85.09,
+      "sid": 42,
+      "location": 2,
+      "content": "而且比较吃配合强势的点位",
+      "music": 0.0
+    },
+    {
+      "from": 85.09,
+      "to": 89.27,
+      "sid": 43,
+      "location": 2,
+      "content": "大部分人都很难在天梯路人局的环境中打出来",
+      "music": 0.0
+    },
+    {
+      "from": 89.27,
+      "to": 90.2,
+      "sid": 44,
+      "location": 2,
+      "content": "除此以外的话",
+      "music": 0.0
+    },
+    {
+      "from": 90.2,
+      "to": 91.52,
+      "sid": 45,
+      "location": 2,
+      "content": "强势角色还有另一个好处",
+      "music": 0.0
+    },
+    {
+      "from": 91.52,
+      "to": 94.82,
+      "sid": 46,
+      "location": 2,
+      "content": "就是强势角色在该地图会有非常多的默认思路",
+      "music": 0.0
+    },
+    {
+      "from": 94.82,
+      "to": 96.7,
+      "sid": 47,
+      "location": 2,
+      "content": "和POV可以研究和学习",
+      "music": 0.0
+    },
+    {
+      "from": 96.7,
+      "to": 99.16,
+      "sid": 48,
+      "location": 2,
+      "content": "你通过学习可以优化自己打法的速度",
+      "music": 0.0
+    },
+    {
+      "from": 99.16,
+      "to": 100.3,
+      "sid": 49,
+      "location": 2,
+      "content": "会快上很多",
+      "music": 0.0
+    },
+    {
+      "from": 100.3,
+      "to": 103.75,
+      "sid": 50,
+      "location": 2,
+      "content": "接着要考虑的就是是否存在盾阵容短板",
+      "music": 0.0
+    },
+    {
+      "from": 103.75,
+      "to": 106.63,
+      "sid": 51,
+      "location": 2,
+      "content": "比如路人局中很常见的无一突无断后",
+      "music": 0.0
+    },
+    {
+      "from": 106.63,
+      "to": 107.86,
+      "sid": 52,
+      "location": 2,
+      "content": "或者是五闪阵容",
+      "music": 0.0
+    },
+    {
+      "from": 107.86,
+      "to": 109.6,
+      "sid": 53,
+      "location": 2,
+      "content": "在一个没一突的阵容里",
+      "music": 0.0
+    },
+    {
+      "from": 109.6,
+      "to": 111.7,
+      "sid": 54,
+      "location": 2,
+      "content": "作为一个蕾娜就需要承担起突破之的",
+      "music": 0.0
+    },
+    {
+      "from": 111.7,
+      "to": 113.52,
+      "sid": 55,
+      "location": 2,
+      "content": "需要打的比平时激进很多",
+      "music": 0.0
+    },
+    {
+      "from": 113.52,
+      "to": 115.56,
+      "sid": 56,
+      "location": 2,
+      "content": "当然更好的方式就是在选人的时候",
+      "music": 0.0
+    },
+    {
+      "from": 115.56,
+      "to": 117.09,
+      "sid": 57,
+      "location": 2,
+      "content": "尽量避免明显的短板",
+      "music": 0.0
+    },
+    {
+      "from": 117.09,
+      "to": 118.84,
+      "sid": 58,
+      "location": 2,
+      "content": "思考这个阵容是否合理",
+      "music": 0.0
+    },
+    {
+      "from": 118.84,
+      "to": 121.66,
+      "sid": 59,
+      "location": 2,
+      "content": "思考这个阵容合理的角色分工应该是什么样的",
+      "music": 0.0
+    },
+    {
+      "from": 121.66,
+      "to": 124.42,
+      "sid": 60,
+      "location": 2,
+      "content": "有哪些工作是必须有理由你来完成的",
+      "music": 0.0
+    },
+    {
+      "from": 124.42,
+      "to": 126.99,
+      "sid": 61,
+      "location": 2,
+      "content": "哪些工作是需要交给队友来做的",
+      "music": 0.0
+    },
+    {
+      "from": 126.99,
+      "to": 128.85,
+      "sid": 62,
+      "location": 2,
+      "content": "比如员工重镇这张地图中",
+      "music": 0.0
+    },
+    {
+      "from": 128.85,
+      "to": 132.35,
+      "sid": 63,
+      "location": 2,
+      "content": "我方阵容为雷兹一觉斯凯炼狱和保安",
+      "music": 0.0
+    },
+    {
+      "from": 132.35,
+      "to": 134.27,
+      "sid": 64,
+      "location": 2,
+      "content": "那么唯一的闪光角色斯凯",
+      "music": 0.0
+    },
+    {
+      "from": 134.27,
+      "to": 136.26,
+      "sid": 65,
+      "location": 2,
+      "content": "基本就和B超防守绑定了",
+      "music": 0.0
+    },
+    {
+      "from": 136.26,
+      "to": 138.48,
+      "sid": 66,
+      "location": 2,
+      "content": "雷兹作为这个阵容中唯一的意图",
+      "music": 0.0
+    },
+    {
+      "from": 138.48,
+      "to": 140.64,
+      "sid": 67,
+      "location": 2,
+      "content": "基本是必须跟着大部队来做依托的",
+      "music": 0.0
+    },
+    {
+      "from": 140.64,
+      "to": 143.92,
+      "sid": 68,
+      "location": 2,
+      "content": "是需要承担起抢夺地图重要点位的职责的",
+      "music": 0.0
+    },
+    {
+      "from": 143.92,
+      "to": 146.2,
+      "sid": 69,
+      "location": 2,
+      "content": "而不应该开局就断后或者单摸",
+      "music": 0.0
+    },
+    {
+      "from": 146.2,
+      "to": 148.57,
+      "sid": 70,
+      "location": 2,
+      "content": "再者队伍里由于一节可以推易伤",
+      "music": 0.0
+    },
+    {
+      "from": 148.57,
+      "to": 150.7,
+      "sid": 71,
+      "location": 2,
+      "content": "所以作为一个雷兹手雷就可以不用交的",
+      "music": 0.0
+    },
+    {
+      "from": 150.7,
+      "to": 151.579,
+      "sid": 72,
+      "location": 2,
+      "content": "那么随意",
+      "music": 0.0
+    },
+    {
+      "from": 151.579,
+      "to": 154.009,
+      "sid": 73,
+      "location": 2,
+      "content": "可以考虑商量跟一绝打配合",
+      "music": 0.0
+    },
+    {
+      "from": 154.009,
+      "to": 156.139,
+      "sid": 74,
+      "location": 2,
+      "content": "当然你对其他位置的理解越深",
+      "music": 0.0
+    },
+    {
+      "from": 156.139,
+      "to": 157.829,
+      "sid": 75,
+      "location": 2,
+      "content": "你对队友的打法越了解",
+      "music": 0.0
+    },
+    {
+      "from": 157.829,
+      "to": 160.259,
+      "sid": 76,
+      "location": 2,
+      "content": "你自己的决策思路也就会越清晰",
+      "music": 0.0
+    },
+    {
+      "from": 160.259,
+      "to": 162.329,
+      "sid": 77,
+      "location": 2,
+      "content": "比如影视搜索搜索这张图",
+      "music": 0.0
+    },
+    {
+      "from": 162.329,
+      "to": 163.979,
+      "sid": 78,
+      "location": 2,
+      "content": "假设你是一图解封",
+      "music": 0.0
+    },
+    {
+      "from": 163.979,
+      "to": 166.229,
+      "sid": 79,
+      "location": 2,
+      "content": "如果你有了解过猎枭侦察舰的点位",
+      "music": 0.0
+    },
+    {
+      "from": 166.229,
+      "to": 167.43,
+      "sid": 80,
+      "location": 2,
+      "content": "能照到哪些区域",
+      "music": 0.0
+    },
+    {
+      "from": 167.43,
+      "to": 169.17,
+      "sid": 81,
+      "location": 2,
+      "content": "那么在突破前询问一下队友",
+      "music": 0.0
+    },
+    {
+      "from": 169.17,
+      "to": 170.73,
+      "sid": 82,
+      "location": 2,
+      "content": "打算设什么位置的侦察箭",
+      "music": 0.0
+    },
+    {
+      "from": 170.73,
+      "to": 173.29,
+      "sid": 83,
+      "location": 2,
+      "content": "那你就可以更好的优化自己的搜点顺序",
+      "music": 0.0
+    },
+    {
+      "from": 173.29,
+      "to": 176.11,
+      "sid": 84,
+      "location": 2,
+      "content": "从而不搜一些可以被侦察舰容易清理的点",
+      "music": 0.0
+    },
+    {
+      "from": 176.11,
+      "to": 177.85,
+      "sid": 85,
+      "location": 2,
+      "content": "又比如说你是一个幽影",
+      "music": 0.0
+    },
+    {
+      "from": 177.85,
+      "to": 180.78,
+      "sid": 86,
+      "location": 2,
+      "content": "你清楚队友解封很可能的几个带着点位",
+      "music": 0.0
+    },
+    {
+      "from": 180.78,
+      "to": 183.519,
+      "sid": 87,
+      "location": 2,
+      "content": "他在世以后会优先和哪些位置的人对枪",
+      "music": 0.0
+    },
+    {
+      "from": 183.519,
+      "to": 185.259,
+      "sid": 88,
+      "location": 2,
+      "content": "你可以按照这个逻辑来调整",
+      "music": 0.0
+    },
+    {
+      "from": 185.259,
+      "to": 186.759,
+      "sid": 89,
+      "location": 2,
+      "content": "封烟和给道具的顺序",
+      "music": 0.0
+    },
+    {
+      "from": 186.759,
+      "to": 188.859,
+      "sid": 90,
+      "location": 2,
+      "content": "再者就是控图思考本分段",
+      "music": 0.0
+    },
+    {
+      "from": 188.859,
+      "to": 191.48,
+      "sid": 91,
+      "location": 2,
+      "content": "每张本张地图哪些区域是关键点位",
+      "music": 0.0
+    },
+    {
+      "from": 191.48,
+      "to": 193.85,
+      "sid": 92,
+      "location": 2,
+      "content": "是值得花大量资源去抢夺的",
+      "music": 0.0
+    },
+    {
+      "from": 193.85,
+      "to": 196.64,
+      "sid": 93,
+      "location": 2,
+      "content": "在员工中间的臂长就是一个很重要的区域",
+      "music": 0.0
+    },
+    {
+      "from": 196.64,
+      "to": 197.42,
+      "sid": 94,
+      "location": 2,
+      "content": "举个例子",
+      "music": 0.0
+    },
+    {
+      "from": 197.42,
+      "to": 199.34,
+      "sid": 95,
+      "location": 2,
+      "content": "假设进攻方四人集结在B大",
+      "music": 0.0
+    },
+    {
+      "from": 199.34,
+      "to": 202.22,
+      "sid": 96,
+      "location": 2,
+      "content": "并成功地取得了B长的控制权",
+      "music": 0.0
+    },
+    {
+      "from": 202.22,
+      "to": 203.67,
+      "sid": 97,
+      "location": 2,
+      "content": "还有一个人在单摸",
+      "music": 0.0
+    },
+    {
+      "from": 203.67,
+      "to": 205.47,
+      "sid": 98,
+      "location": 2,
+      "content": "那么防守方应该如何分配",
+      "music": 0.0
+    },
+    {
+      "from": 205.47,
+      "to": 208.35,
+      "sid": 99,
+      "location": 2,
+      "content": "合理的分配每个点的防守人数呢",
+      "music": 0.0
+    },
+    {
+      "from": 208.35,
+      "to": 209.79,
+      "sid": 100,
+      "location": 2,
+      "content": "如果防守3B2A",
+      "music": 0.0
+    },
+    {
+      "from": 211.89,
+      "to": 213.81,
+      "sid": 101,
+      "location": 2,
+      "content": "那进攻方马上就会做传送门",
+      "music": 0.0
+    },
+    {
+      "from": 213.81,
+      "to": 215.0,
+      "sid": 102,
+      "location": 2,
+      "content": "改打人少的A点",
+      "music": 0.0
+    },
+    {
+      "from": 215.0,
+      "to": 217.04,
+      "sid": 103,
+      "location": 2,
+      "content": "如果继续保持三A2B按兵不动",
+      "music": 0.0
+    },
+    {
+      "from": 217.04,
+      "to": 219.38,
+      "sid": 104,
+      "location": 2,
+      "content": "那么已经集结到B大的进攻方",
+      "music": 0.0
+    },
+    {
+      "from": 219.38,
+      "to": 222.32,
+      "sid": 105,
+      "location": 2,
+      "content": "想要进攻到包点内也只是一瞬一瞬间的事",
+      "music": 0.0
+    },
+    {
+      "from": 222.32,
+      "to": 224.33,
+      "sid": 106,
+      "location": 2,
+      "content": "A点是肯定来不及补防的",
+      "music": 0.0
+    },
+    {
+      "from": 224.33,
+      "to": 227.48,
+      "sid": 107,
+      "location": 2,
+      "content": "B点沦陷以后就会留下一个非常难回防的残局",
+      "music": 0.0
+    },
+    {
+      "from": 227.48,
+      "to": 230.85,
+      "sid": 108,
+      "location": 2,
+      "content": "其次就是对双方关键技能的判断了",
+      "music": 0.0
+    },
+    {
+      "from": 230.85,
+      "to": 232.23,
+      "sid": 109,
+      "location": 2,
+      "content": "比如作为防守方",
+      "music": 0.0
+    },
+    {
+      "from": 232.23,
+      "to": 234.86,
+      "sid": 110,
+      "location": 2,
+      "content": "你知道进攻方的雷兹和火男是有大招的",
+      "music": 0.0
+    },
+    {
+      "from": 234.86,
+      "to": 236.3,
+      "sid": 111,
+      "location": 2,
+      "content": "考虑到这两个因素的话",
+      "music": 0.0
+    },
+    {
+      "from": 236.3,
+      "to": 239.3,
+      "sid": 112,
+      "location": 2,
+      "content": "就需要考虑少占一些近点或者容易被炸的地方",
+      "music": 0.0
+    },
+    {
+      "from": 239.3,
+      "to": 241.1,
+      "sid": 113,
+      "location": 2,
+      "content": "再比如在员工政治这张地图中",
+      "music": 0.0
+    },
+    {
+      "from": 241.1,
+      "to": 242.47,
+      "sid": 114,
+      "location": 2,
+      "content": "作为进攻方的意图",
+      "music": 0.0
+    },
+    {
+      "from": 242.47,
+      "to": 245.35,
+      "sid": 115,
+      "location": 2,
+      "content": "已知对手前不玩有大招啊",
+      "music": 0.0
+    },
+    {
+      "from": 245.35,
+      "to": 246.25,
+      "sid": 116,
+      "location": 2,
+      "content": "那么在进攻时",
+      "music": 0.0
+    },
+    {
+      "from": 246.25,
+      "to": 248.97,
+      "sid": 117,
+      "location": 2,
+      "content": "A点就需要预瞄好车上和柱子上呃",
+      "music": 0.0
+    },
+    {
+      "from": 248.97,
+      "to": 249.99,
+      "sid": 118,
+      "location": 2,
+      "content": "如果你是带包的人",
+      "music": 0.0
+    },
+    {
+      "from": 249.99,
+      "to": 251.58,
+      "sid": 119,
+      "location": 2,
+      "content": "看到对手有夜枭和炼狱",
+      "music": 0.0
+    },
+    {
+      "from": 251.58,
+      "to": 252.57,
+      "sid": 120,
+      "location": 2,
+      "content": "炼狱的大招",
+      "music": 0.0
+    },
+    {
+      "from": 252.57,
+      "to": 255.62,
+      "sid": 121,
+      "location": 2,
+      "content": "那下包时就应该先假定一下包骗技能起舞",
+      "music": 0.0
+    },
+    {
+      "from": 255.62,
+      "to": 257.06,
+      "sid": 122,
+      "location": 2,
+      "content": "就是对目前局势的判断",
+      "music": 0.0
+    },
+    {
+      "from": 257.06,
+      "to": 259.82,
+      "sid": 123,
+      "location": 2,
+      "content": "比如防守时B小的队友已经快前进到A点了",
+      "music": 0.0
+    },
+    {
+      "from": 259.82,
+      "to": 261.6,
+      "sid": 124,
+      "location": 2,
+      "content": "都没有听到B动静",
+      "music": 0.0
+    },
+    {
+      "from": 261.6,
+      "to": 264.3,
+      "sid": 125,
+      "location": 2,
+      "content": "那么就没有继续固守在包点内的必要了",
+      "music": 0.0
+    },
+    {
+      "from": 264.3,
+      "to": 266.34,
+      "sid": 126,
+      "location": 2,
+      "content": "更应该选择是跟队友一起潜艇",
+      "music": 0.0
+    },
+    {
+      "from": 266.34,
+      "to": 267.5,
+      "sid": 127,
+      "location": 2,
+      "content": "或者是提前回防",
+      "music": 0.0
+    },
+    {
+      "from": 267.5,
+      "to": 268.94,
+      "sid": 128,
+      "location": 2,
+      "content": "又或者是三打一的残局",
+      "music": 0.0
+    },
+    {
+      "from": 268.94,
+      "to": 271.22,
+      "sid": 129,
+      "location": 2,
+      "content": "三人抱团补枪基本是没有输掉的可能的",
+      "music": 0.0
+    },
+    {
+      "from": 271.22,
+      "to": 273.11,
+      "sid": 130,
+      "location": 2,
+      "content": "就不要给对手一打一的机会",
+      "music": 0.0
+    },
+    {
+      "from": 273.11,
+      "to": 274.52,
+      "sid": 131,
+      "location": 2,
+      "content": "又或者是下包了以后",
+      "music": 0.0
+    },
+    {
+      "from": 274.52,
+      "to": 276.85,
+      "sid": 132,
+      "location": 2,
+      "content": "结合下包位置和对手技能的情况",
+      "music": 0.0
+    },
+    {
+      "from": 276.85,
+      "to": 279.97,
+      "sid": 133,
+      "location": 2,
+      "content": "考虑的是退守还是爆点内打交叉和补枪",
+      "music": 0.0
+    },
+    {
+      "from": 279.97,
+      "to": 281.11,
+      "sid": 134,
+      "location": 2,
+      "content": "在考完了游戏基础",
+      "music": 0.0
+    },
+    {
+      "from": 281.11,
+      "to": 283.45,
+      "sid": 135,
+      "location": 2,
+      "content": "我们需要来到游戏意识方面的复盘",
+      "music": 0.0
+    },
+    {
+      "from": 283.45,
+      "to": 284.59,
+      "sid": 136,
+      "location": 2,
+      "content": "及对手会怎么影响",
+      "music": 0.0
+    },
+    {
+      "from": 284.59,
+      "to": 287.59,
+      "sid": 137,
+      "location": 2,
+      "content": "我第一个点就是观察击杀信息",
+      "music": 0.0
+    },
+    {
+      "from": 287.59,
+      "to": 289.99,
+      "sid": 138,
+      "location": 2,
+      "content": "思考双方已经死掉的不同关键位置",
+      "music": 0.0
+    },
+    {
+      "from": 289.99,
+      "to": 291.7,
+      "sid": 139,
+      "location": 2,
+      "content": "是否会对目前产生影响",
+      "music": 0.0
+    },
+    {
+      "from": 291.7,
+      "to": 292.99,
+      "sid": 140,
+      "location": 2,
+      "content": "比如对手的淹死了",
+      "music": 0.0
+    },
+    {
+      "from": 292.99,
+      "to": 295.24,
+      "sid": 141,
+      "location": 2,
+      "content": "那就可以站在很多容易被封烟的位置",
+      "music": 0.0
+    },
+    {
+      "from": 295.24,
+      "to": 296.62,
+      "sid": 142,
+      "location": 2,
+      "content": "对手的闪光位死了",
+      "music": 0.0
+    },
+    {
+      "from": 296.62,
+      "to": 299.02,
+      "sid": 143,
+      "location": 2,
+      "content": "那么就可以选择在防守时站在近点架烟",
+      "music": 0.0
+    },
+    {
+      "from": 299.02,
+      "to": 301.0,
+      "sid": 144,
+      "location": 2,
+      "content": "其二就是观察敌方阵容了",
+      "music": 0.0
+    },
+    {
+      "from": 301.0,
+      "to": 304.1,
+      "sid": 145,
+      "location": 2,
+      "content": "预想对手的防守流程和进攻流程",
+      "music": 0.0
+    },
+    {
+      "from": 304.1,
+      "to": 305.63,
+      "sid": 146,
+      "location": 2,
+      "content": "还是在员工重镇",
+      "music": 0.0
+    },
+    {
+      "from": 305.63,
+      "to": 306.05,
+      "sid": 147,
+      "location": 2,
+      "content": "这张图",
+      "music": 0.0
+    },
+    {
+      "from": 306.05,
+      "to": 307.55,
+      "sid": 148,
+      "location": 2,
+      "content": "假设你是进攻方",
+      "music": 0.0
+    },
+    {
+      "from": 307.55,
+      "to": 309.36,
+      "sid": 149,
+      "location": 2,
+      "content": "负责单摸B长的保安",
+      "music": 0.0
+    },
+    {
+      "from": 309.36,
+      "to": 311.58,
+      "sid": 150,
+      "location": 2,
+      "content": "在观察到敌方阵容有斯凯后",
+      "music": 0.0
+    },
+    {
+      "from": 311.58,
+      "to": 313.86,
+      "sid": 151,
+      "location": 2,
+      "content": "可以选择在开局给B小摄像头",
+      "music": 0.0
+    },
+    {
+      "from": 313.86,
+      "to": 315.14,
+      "sid": 152,
+      "location": 2,
+      "content": "在箱子里躲一会儿",
+      "music": 0.0
+    },
+    {
+      "from": 315.5,
+      "to": 317.66,
+      "sid": 153,
+      "location": 2,
+      "content": "斯凯达必大信息的闪光爆掉以后",
+      "music": 0.0
+    },
+    {
+      "from": 317.66,
+      "to": 321.19,
+      "sid": 154,
+      "location": 2,
+      "content": "再开始单摸B长会更容易抓到防守方的timing",
+      "music": 0.0
+    },
+    {
+      "from": 321.19,
+      "to": 324.39,
+      "sid": 155,
+      "location": 2,
+      "content": "其三就是潜艇回防绕后的时机是否理想",
+      "music": 0.0
+    },
+    {
+      "from": 324.39,
+      "to": 326.13,
+      "sid": 156,
+      "location": 2,
+      "content": "一个常见的回防准则",
+      "music": 0.0
+    },
+    {
+      "from": 326.13,
+      "to": 328.95,
+      "sid": 157,
+      "location": 2,
+      "content": "就是在你没有自己没有包点外围的信息时",
+      "music": 0.0
+    },
+    {
+      "from": 328.95,
+      "to": 331.2,
+      "sid": 158,
+      "location": 2,
+      "content": "不见包不回防是更合理的打法",
+      "music": 0.0
+    },
+    {
+      "from": 331.2,
+      "to": 333.06,
+      "sid": 159,
+      "location": 2,
+      "content": "但是低分段只打Rush的话",
+      "music": 0.0
+    },
+    {
+      "from": 333.06,
+      "to": 334.92,
+      "sid": 160,
+      "location": 2,
+      "content": "自己包点里没动静就直接回防",
+      "music": 0.0
+    },
+    {
+      "from": 334.92,
+      "to": 337.07,
+      "sid": 161,
+      "location": 2,
+      "content": "可能确实是低分段最好用的打法",
+      "music": 0.0
+    },
+    {
+      "from": 337.07,
+      "to": 338.57,
+      "sid": 162,
+      "location": 2,
+      "content": "其次就是算道具数量",
+      "music": 0.0
+    },
+    {
+      "from": 338.57,
+      "to": 340.67,
+      "sid": 163,
+      "location": 2,
+      "content": "就比如对手与蕾娜已经交完了两颗眼",
+      "music": 0.0
+    },
+    {
+      "from": 340.67,
+      "to": 342.35,
+      "sid": 164,
+      "location": 2,
+      "content": "那么就可以再考虑占一些近点",
+      "music": 0.0
+    },
+    {
+      "from": 342.35,
+      "to": 343.72,
+      "sid": 165,
+      "location": 2,
+      "content": "不用担心闪光的位置",
+      "music": 0.0
+    },
+    {
+      "from": 343.72,
+      "to": 345.76,
+      "sid": 166,
+      "location": 2,
+      "content": "对手三不使用三颗烟全交了",
+      "music": 0.0
+    },
+    {
+      "from": 345.76,
+      "to": 346.72,
+      "sid": 167,
+      "location": 2,
+      "content": "或者是火全用光",
+      "music": 0.0
+    },
+    {
+      "from": 346.72,
+      "to": 349.72,
+      "sid": 168,
+      "location": 2,
+      "content": "都可以根据具体情况来调整自己的策略",
+      "music": 0.0
+    },
+    {
+      "from": 349.72,
+      "to": 351.63,
+      "sid": 169,
+      "location": 2,
+      "content": "其五就是观察自己",
+      "music": 0.0
+    },
+    {
+      "from": 351.63,
+      "to": 353.97,
+      "sid": 170,
+      "location": 2,
+      "content": "是否漏掉了一些关键的声音信息",
+      "music": 0.0
+    },
+    {
+      "from": 353.97,
+      "to": 356.37,
+      "sid": 171,
+      "location": 2,
+      "content": "比如店里有三个不同位置或类型的声音",
+      "music": 0.0
+    },
+    {
+      "from": 356.37,
+      "to": 358.86,
+      "sid": 172,
+      "location": 2,
+      "content": "就可以判断出这个点是三人重防的点位",
+      "music": 0.0
+    },
+    {
+      "from": 358.86,
+      "to": 360.6,
+      "sid": 173,
+      "location": 2,
+      "content": "又或者对手幽灵使用传送",
+      "music": 0.0
+    },
+    {
+      "from": 360.6,
+      "to": 363.06,
+      "sid": 174,
+      "location": 2,
+      "content": "你可以直接预瞄一些高台去找榜首时",
+      "music": 0.0
+    },
+    {
+      "from": 363.06,
+      "to": 365.46,
+      "sid": 175,
+      "location": 2,
+      "content": "发现奇乐在周围那一个合理的推断",
+      "music": 0.0
+    },
+    {
+      "from": 365.46,
+      "to": 367.02,
+      "sid": 176,
+      "location": 2,
+      "content": "就是奇奇勒所在的点位",
+      "music": 0.0
+    },
+    {
+      "from": 367.02,
+      "to": 368.88,
+      "sid": 177,
+      "location": 2,
+      "content": "大概率不是进攻方的主攻方向",
+      "music": 0.0
+    },
+    {
+      "from": 368.88,
+      "to": 371.52,
+      "sid": 178,
+      "location": 2,
+      "content": "接着我们来可来到可优化的第三阶段",
+      "music": 0.0
+    },
+    {
+      "from": 371.52,
+      "to": 372.78,
+      "sid": 179,
+      "location": 2,
+      "content": "怎么达成需要做的事",
+      "music": 0.0
+    },
+    {
+      "from": 372.78,
+      "to": 373.88,
+      "sid": 180,
+      "location": 2,
+      "content": "队友可以怎么帮助我",
+      "music": 0.0
+    },
+    {
+      "from": 373.88,
+      "to": 375.68,
+      "sid": 181,
+      "location": 2,
+      "content": "首先就是考虑选位问题了",
+      "music": 0.0
+    },
+    {
+      "from": 375.68,
+      "to": 377.12,
+      "sid": 182,
+      "location": 2,
+      "content": "选位一个选位是否合理",
+      "music": 0.0
+    },
+    {
+      "from": 377.12,
+      "to": 378.68,
+      "sid": 183,
+      "location": 2,
+      "content": "需要思考以下这些问题",
+      "music": 0.0
+    },
+    {
+      "from": 378.68,
+      "to": 379.94,
+      "sid": 184,
+      "location": 2,
+      "content": "目前的位置安全吗",
+      "music": 0.0
+    },
+    {
+      "from": 379.94,
+      "to": 382.929,
+      "sid": 185,
+      "location": 2,
+      "content": "是否也会有被其他角度的敌人偷侧身的风险",
+      "music": 0.0
+    },
+    {
+      "from": 382.929,
+      "to": 386.019,
+      "sid": 186,
+      "location": 2,
+      "content": "目前的位置是否能很好的限制对手的选位",
+      "music": 0.0
+    },
+    {
+      "from": 386.019,
+      "to": 389.19,
+      "sid": 187,
+      "location": 2,
+      "content": "目前的位置是近大远小的优势位还是劣势位",
+      "music": 0.0
+    },
+    {
+      "from": 389.19,
+      "to": 391.32,
+      "sid": 188,
+      "location": 2,
+      "content": "还有一个影响因素就是信息差",
+      "music": 0.0
+    },
+    {
+      "from": 391.32,
+      "to": 393.06,
+      "sid": 189,
+      "location": 2,
+      "content": "对手是否会知道我的位置",
+      "music": 0.0
+    },
+    {
+      "from": 393.06,
+      "to": 394.26,
+      "sid": 190,
+      "location": 2,
+      "content": "如果你知道的比对手多",
+      "music": 0.0
+    },
+    {
+      "from": 394.26,
+      "to": 396.66,
+      "sid": 191,
+      "location": 2,
+      "content": "那你那你就会有反应速度的优势",
+      "music": 0.0
+    },
+    {
+      "from": 396.66,
+      "to": 397.98,
+      "sid": 192,
+      "location": 2,
+      "content": "再者你需要考虑对手",
+      "music": 0.0
+    },
+    {
+      "from": 397.98,
+      "to": 399.78,
+      "sid": 193,
+      "location": 2,
+      "content": "可能会以什么样的方式去pk",
+      "music": 0.0
+    },
+    {
+      "from": 399.78,
+      "to": 402.69,
+      "sid": 194,
+      "location": 2,
+      "content": "我根据不同的peek方式调整不同的预瞄距离",
+      "music": 0.0
+    },
+    {
+      "from": 402.69,
+      "to": 404.25,
+      "sid": 195,
+      "location": 2,
+      "content": "是会有不一样的效果的",
+      "music": 0.0
+    },
+    {
+      "from": 404.25,
+      "to": 405.33,
+      "sid": 196,
+      "location": 2,
+      "content": "以及目前的位置",
+      "music": 0.0
+    },
+    {
+      "from": 405.33,
+      "to": 407.9,
+      "sid": 197,
+      "location": 2,
+      "content": "方便队友方面帮队友补枪或配合吗",
+      "music": 0.0
+    },
+    {
+      "from": 407.9,
+      "to": 410.48,
+      "sid": 198,
+      "location": 2,
+      "content": "目前的位置可能会吃到对手的哪些技能",
+      "music": 0.0
+    },
+    {
+      "from": 410.48,
+      "to": 413.36,
+      "sid": 199,
+      "location": 2,
+      "content": "对手的大招情况是否会影响到自己目前的位置",
+      "music": 0.0
+    },
+    {
+      "from": 413.36,
+      "to": 414.68,
+      "sid": 200,
+      "location": 2,
+      "content": "优化完站位以后",
+      "music": 0.0
+    },
+    {
+      "from": 414.68,
+      "to": 417.13,
+      "sid": 201,
+      "location": 2,
+      "content": "还我们还需要思考的就是技能管理了",
+      "music": 0.0
+    },
+    {
+      "from": 417.13,
+      "to": 419.44,
+      "sid": 202,
+      "location": 2,
+      "content": "比如守卫和先锋类的角色",
+      "music": 0.0
+    },
+    {
+      "from": 419.44,
+      "to": 421.03,
+      "sid": 203,
+      "location": 2,
+      "content": "首先需要考虑的一个问题",
+      "music": 0.0
+    },
+    {
+      "from": 421.03,
+      "to": 422.41,
+      "sid": 204,
+      "location": 2,
+      "content": "就是我的技能",
+      "music": 0.0
+    },
+    {
+      "from": 422.41,
+      "to": 425.22,
+      "sid": 205,
+      "location": 2,
+      "content": "是否有比较常见或比较默认的打法",
+      "music": 0.0
+    },
+    {
+      "from": 425.22,
+      "to": 426.9,
+      "sid": 206,
+      "location": 2,
+      "content": "比如老奇乐和老保安",
+      "music": 0.0
+    },
+    {
+      "from": 426.9,
+      "to": 429.79,
+      "sid": 207,
+      "location": 2,
+      "content": "基本每张地图都有好几套自己的默认道具",
+      "music": 0.0
+    },
+    {
+      "from": 429.79,
+      "to": 432.25,
+      "sid": 208,
+      "location": 2,
+      "content": "这个的话就只推荐多看POV了",
+      "music": 0.0
+    },
+    {
+      "from": 432.25,
+      "to": 435.76,
+      "sid": 209,
+      "location": 2,
+      "content": "就是需要考虑自己的技能使用是否是有效率的",
+      "music": 0.0
+    },
+    {
+      "from": 435.76,
+      "to": 438.58,
+      "sid": 210,
+      "location": 2,
+      "content": "目前的技能能否有助于达成我的目标",
+      "music": 0.0
+    },
+    {
+      "from": 438.58,
+      "to": 440.17,
+      "sid": 211,
+      "location": 2,
+      "content": "就比如你作为一个奇乐",
+      "music": 0.0
+    },
+    {
+      "from": 440.17,
+      "to": 441.82,
+      "sid": 212,
+      "location": 2,
+      "content": "你能每放置每一个小",
+      "music": 0.0
+    },
+    {
+      "from": 441.82,
+      "to": 442.9,
+      "sid": 213,
+      "location": 2,
+      "content": "你需要合理的思考",
+      "music": 0.0
+    },
+    {
+      "from": 442.9,
+      "to": 446.47,
+      "sid": 214,
+      "location": 2,
+      "content": "这个小鸡是我是可以跟这个小鸡步枪打双排的",
+      "music": 0.0
+    },
+    {
+      "from": 446.47,
+      "to": 448.87,
+      "sid": 215,
+      "location": 2,
+      "content": "还是说这个小机只是单纯的收集信息",
+      "music": 0.0
+    },
+    {
+      "from": 448.87,
+      "to": 450.19,
+      "sid": 216,
+      "location": 2,
+      "content": "用的分段不一样",
+      "music": 0.0
+    },
+    {
+      "from": 450.19,
+      "to": 452.11,
+      "sid": 217,
+      "location": 2,
+      "content": "同样的默认收益也会不一样",
+      "music": 0.0
+    },
+    {
+      "from": 452.11,
+      "to": 455.23,
+      "sid": 218,
+      "location": 2,
+      "content": "就要思考能否针对对手的打法来使用技能",
+      "music": 0.0
+    },
+    {
+      "from": 455.23,
+      "to": 457.51,
+      "sid": 219,
+      "location": 2,
+      "content": "如果省下的技能会有什么改变",
+      "music": 0.0
+    },
+    {
+      "from": 457.51,
+      "to": 459.96,
+      "sid": 220,
+      "location": 2,
+      "content": "技能能否和队友产生协同",
+      "music": 0.0
+    },
+    {
+      "from": 459.96,
+      "to": 463.38,
+      "sid": 221,
+      "location": 2,
+      "content": "是否在一个必输或必赢的大残局里浪费了大招",
+      "music": 0.0
+    },
+    {
+      "from": 463.38,
+      "to": 465.37,
+      "sid": 222,
+      "location": 2,
+      "content": "使用的大招收益是怎么样的",
+      "music": 0.0
+    },
+    {
+      "from": 465.37,
+      "to": 466.57,
+      "sid": 223,
+      "location": 2,
+      "content": "如果你是对手的话",
+      "music": 0.0
+    },
+    {
+      "from": 466.57,
+      "to": 468.19,
+      "sid": 224,
+      "location": 2,
+      "content": "对手会怎么针对你的大招",
+      "music": 0.0
+    },
+    {
+      "from": 468.19,
+      "to": 468.91,
+      "sid": 225,
+      "location": 2,
+      "content": "最后一个阶段",
+      "music": 0.0
+    },
+    {
+      "from": 468.91,
+      "to": 471.52,
+      "sid": 226,
+      "location": 2,
+      "content": "我们才会放眼于实际操作上做的怎么样",
+      "music": 0.0
+    },
+    {
+      "from": 471.52,
+      "to": 472.96,
+      "sid": 227,
+      "location": 2,
+      "content": "以及育苗做的怎么样",
+      "music": 0.0
+    },
+    {
+      "from": 472.96,
+      "to": 475.94,
+      "sid": 228,
+      "location": 2,
+      "content": "就是高高度和架枪的提前量是否是合理的",
+      "music": 0.0
+    },
+    {
+      "from": 475.94,
+      "to": 477.8,
+      "sid": 229,
+      "location": 2,
+      "content": "预瞄的顺序是否是合理的",
+      "music": 0.0
+    },
+    {
+      "from": 477.8,
+      "to": 479.48,
+      "sid": 230,
+      "location": 2,
+      "content": "每次pk的时候是怎么样的",
+      "music": 0.0
+    },
+    {
+      "from": 479.48,
+      "to": 482.61,
+      "sid": 231,
+      "location": 2,
+      "content": "这个角peek角度是优势角度还是劣势角度",
+      "music": 0.0
+    },
+    {
+      "from": 482.61,
+      "to": 484.95,
+      "sid": 232,
+      "location": 2,
+      "content": "这样的pk方式是否是合理的",
+      "music": 0.0
+    },
+    {
+      "from": 484.95,
+      "to": 486.33,
+      "sid": 233,
+      "location": 2,
+      "content": "以及这个英雄的熟练度",
+      "music": 0.0
+    },
+    {
+      "from": 486.33,
+      "to": 488.02,
+      "sid": 234,
+      "location": 2,
+      "content": "我们现在用的是怎么样的",
+      "music": 0.0
+    },
+    {
+      "from": 488.02,
+      "to": 489.46,
+      "sid": 235,
+      "location": 2,
+      "content": "就比如雷兹的炸弹跳",
+      "music": 0.0
+    },
+    {
+      "from": 489.46,
+      "to": 492.22,
+      "sid": 236,
+      "location": 2,
+      "content": "或者又找一找最近有没有什么开枪的坏习惯",
+      "music": 0.0
+    },
+    {
+      "from": 492.22,
+      "to": 494.77,
+      "sid": 237,
+      "location": 2,
+      "content": "OK那就是本期视频的全部内容了",
+      "music": 0.0
+    },
+    {
+      "from": 494.77,
+      "to": 496.93,
+      "sid": 238,
+      "location": 2,
+      "content": "提升意志的本质还是多看PUA",
+      "music": 0.0
+    },
+    {
+      "from": 496.93,
+      "to": 498.25,
+      "sid": 239,
+      "location": 2,
+      "content": "学习思路和多复盘",
+      "music": 0.0
+    },
+    {
+      "from": 498.25,
+      "to": 499.57,
+      "sid": 240,
+      "location": 2,
+      "content": "减少自己的犯错",
+      "music": 0.0
+    },
+    {
+      "from": 499.57,
+      "to": 501.61,
+      "sid": 241,
+      "location": 2,
+      "content": "当你练习到选择正确的打法",
+      "music": 0.0
+    },
+    {
+      "from": 501.61,
+      "to": 503.48,
+      "sid": 242,
+      "location": 2,
+      "content": "完全不占用思考空间时",
+      "music": 0.0
+    },
+    {
+      "from": 503.48,
+      "to": 505.64,
+      "sid": 243,
+      "location": 2,
+      "content": "将很多决策变为下意识的行为",
+      "music": 0.0
+    },
+    {
+      "from": 505.64,
+      "to": 507.21,
+      "sid": 244,
+      "location": 2,
+      "content": "你的水平也会越来越高",
+      "music": 0.0
+    },
+    {
+      "from": 507.21,
+      "to": 509.25,
+      "sid": 245,
+      "location": 2,
+      "content": "如果你觉得这视频做的不错的话",
+      "music": 0.0
+    },
+    {
+      "from": 509.25,
+      "to": 509.73,
+      "sid": 246,
+      "location": 2,
+      "content": "请点一个赞",
+      "music": 0.0
+    },
+    {
+      "from": 509.73,
+      "to": 510.57,
+      "sid": 247,
+      "location": 2,
+      "content": "我们我是法拉",
+      "music": 0.0
+    },
+    {
+      "from": 510.57,
+      "to": 512.08,
+      "sid": 248,
+      "location": 2,
+      "content": "我们下期视频再见",
+      "music": 0.0
+    }
+  ]
+}
