@@ -257,7 +257,7 @@ def create_vdim_score(
 
 
 def import_vdim_scores_from_stats(cycle: int, day: str, date: str) -> Dict[str, Any]:
-    """从 Kovaak's stats 目录导入分数"""
+    """从 Kovaak's stats 目录导入分数（导入所有匹配记录，而非仅最佳分数）"""
     day_config = vdim_utils.get_day_config(day)
     if not day_config:
         return {"imported": 0, "skipped": 0, "scenarios": [], "error": "无效的训练日"}
@@ -268,8 +268,9 @@ def import_vdim_scores_from_stats(cycle: int, day: str, date: str) -> Dict[str, 
     # 获取当天的 stats 文件
     stats_files = vdim_utils.get_stats_files_for_date(date)
 
-    # 解析所有文件，按场景取最佳分数
-    scenario_scores = {}  # scenario_name -> (score, timestamp)
+    # 解析所有文件，收集所有匹配场景的记录（不再只取最佳分数）
+    scenario_all_records = {}  # scenario_name -> [(score, timestamp_iso), ...]
+    matched_files_count = 0
     for filepath in stats_files:
         parsed = vdim_utils.parse_stats_file(filepath)
         if not parsed:
@@ -280,36 +281,71 @@ def import_vdim_scores_from_stats(cycle: int, day: str, date: str) -> Dict[str, 
         if not matched:
             continue
         matched_name = matched["scenario_name"]
-        # 取最佳分数
-        if matched_name not in scenario_scores or score > scenario_scores[matched_name][0]:
-            scenario_scores[matched_name] = (score, timestamp_iso)
+        matched_files_count += 1
+        if matched_name not in scenario_all_records:
+            scenario_all_records[matched_name] = []
+        scenario_all_records[matched_name].append((score, timestamp_iso))
 
-    # 写入 InfluxDB
+    # 查询数据库中已有的记录（按 scenario + 时间戳去重）
+    existing_keys = set()
+    try:
+        flux = f'''
+from(bucket: "{db.bucket}")
+  |> range(start: -365d)
+  |> filter(fn: (r) => r._measurement == "vdim_score" and r.cycle == "{cycle}" and r.day == "{_flux_escape(day)}")
+  |> filter(fn: (r) => r._field == "score")
+  |> keep(columns: ["_time", "scenario"])
+'''
+        rows = db.query(flux)
+        for row in rows:
+            scenario = row.get('scenario', '')
+            time_str = row.get('_time', '')
+            # 转换为时间戳（秒）作为去重 key
+            try:
+                dt = datetime.fromisoformat(time_str.replace('Z', '+00:00'))
+                ts_key = int(dt.timestamp())
+                existing_keys.add(f"{scenario}_{ts_key}")
+            except Exception:
+                pass
+    except Exception as e:
+        print(f"[警告] 查询已有记录失败: {e}")
+
+    # 写入 InfluxDB（所有新记录）
     imported = []
-    for scenario_name, (score, timestamp_iso) in scenario_scores.items():
+    skipped_duplicate = 0
+    for scenario_name, records in scenario_all_records.items():
         scenario_type = vdim_utils.get_scenario_type(scenario_name, day)
-        dt = datetime.fromisoformat(timestamp_iso)
-        timestamp = int(dt.timestamp())
+        for score, timestamp_iso in records:
+            dt = datetime.fromisoformat(timestamp_iso)
+            timestamp = int(dt.timestamp())
+            # 去重检查
+            dedup_key = f"{scenario_name}_{timestamp}"
+            if dedup_key in existing_keys:
+                skipped_duplicate += 1
+                continue
 
-        tags = (
-            f"cycle={cycle},"
-            f"day={_escape_tag(day)},"
-            f"theme={_escape_tag(theme)},"
-            f"scenario={_escape_tag(scenario_name)},"
-            f"scenario_type={_escape_tag(scenario_type)},"
-            f"source=auto"
-        )
-        fields = f"score={score},date=\"{_escape_field_string(date)}\""
-        line = f"vdim_score,{tags} {fields} {timestamp * 1000000000}"
-        db.write(line)
+            tags = (
+                f"cycle={cycle},"
+                f"day={_escape_tag(day)},"
+                f"theme={_escape_tag(theme)},"
+                f"scenario={_escape_tag(scenario_name)},"
+                f"scenario_type={_escape_tag(scenario_type)},"
+                f"source=auto"
+            )
+            fields = f"score={score},date=\"{_escape_field_string(date)}\""
+            line = f"vdim_score,{tags} {fields} {timestamp * 1000000000}"
+            db.write(line)
+            existing_keys.add(dedup_key)
 
-        imported.append({"scenario": scenario_name, "score": score})
+            imported.append({"scenario": scenario_name, "score": score, "timestamp": timestamp_iso})
 
     return {
         "imported": len(imported),
-        "skipped": len(stats_files) - len(imported),
+        "skipped_duplicate": skipped_duplicate,
+        "matched_files": matched_files_count,
         "scenarios": imported,
-        "total_stats_files": len(stats_files)
+        "total_stats_files": len(stats_files),
+        "unique_scenarios": len(scenario_all_records)
     }
 
 
