@@ -1,0 +1,252 @@
+{
+  "topic": "VDIM dynamic clicking / anticipation aiming / tracking-vs-flicking / small jittery target micro-adjustment / Floating Heads Timing 400%",
+  "user_context": "VDIM Novice 6-day plan, Kovaak's, VALORANT; self-described 'tracking slow', 'currently matching target velocity before clicking'",
+  "subtitle_acquisition": {
+    "new_downloaded": 12,
+    "reused_from_prior_research": 6,
+    "failed_429_or_unavailable": 4,
+    "notes": "429 Too Many Requests on caption CDN hit 4 videos after 2 backoff rounds; per task rule these are marked metadata-only, not hard-fought."
+  },
+  "selected": [
+    {
+      "id": "DcNP0F_gpOQ",
+      "url": "https://www.youtube.com/watch?v=DcNP0F_gpOQ",
+      "title": "Dynamic Clicking: Aim Training Crash Course #3",
+      "channel": "RiddBTW",
+      "views": 114000,
+      "duration_min": 38,
+      "subtitles": "subtitles/RiddBTW_dynamic_clicking_crashcourse3.en.vtt (auto en)",
+      "core_point": "Dynamic clicking = moving targets requiring reading/selection/LEADING/pattern learning; Floating Heads Timing 400% = flick to where target WILL be + micro-adjust, never wait for target to enter crosshair."
+    },
+    {
+      "id": "QXO77LHPV5Q",
+      "url": "https://www.youtube.com/watch?v=QXO77LHPV5Q",
+      "title": "Dynamic Clicking the Squeakquel: Aim Training Crash Course #4",
+      "channel": "RiddBTW",
+      "views": 19700,
+      "duration_min": 23,
+      "subtitles": "subtitles/RiddBTW_dynamic_clicking_squeakquel4.en.vtt (auto en)",
+      "core_point": "Nuance: high-level aimers DO wait for targets — but only when map-reading tells them a target will fall into their pre-placed crosshair; novices should actively lead. Edge tracking for AD-spam bots."
+    },
+    {
+      "id": "-7n6q33We28",
+      "url": "https://www.youtube.com/watch?v=-7n6q33We28",
+      "title": "Speed Matching in Precise Tracking",
+      "channel": "MattyOW",
+      "views": 134900,
+      "duration_min": 6,
+      "subtitles": "subtitles/MattyOW_speed_matching_precise_tracking.en.vtt (auto en)",
+      "core_point": "Speed matching = sync mouse speed to target speed; the mechanism is tension: too little tension = motion lags behind target (the user's 'tracking slow'); too much = jerky overcorrection."
+    },
+    {
+      "id": "nnDHvHPlQ1Y",
+      "url": "https://www.youtube.com/watch?v=nnDHvHPlQ1Y",
+      "title": "Aim at ANY moving target like a PRO - Dynamic Aim Ep.2",
+      "channel": "Voltaic (official)",
+      "views": 112000,
+      "duration_min": 6,
+      "subtitles": "subtitles/Voltaic_dynamic_aim_ep2.en.vtt (auto en)",
+      "core_point": "OFFICIAL framework: dynamic clicking has exactly 2 approaches — hit confirmation (track briefly then click, the NOVICE approach that should shrink as you improve) and target leading (flick to a predicted point in space, the ADVANCED approach)."
+    },
+    {
+      "id": "VFjx969H-cg",
+      "url": "https://www.youtube.com/watch?v=VFjx969H-cg",
+      "title": "Reactive Tracking: Aim Training Crash Course #11",
+      "channel": "RiddBTW",
+      "views": 81800,
+      "duration_min": 30,
+      "subtitles": "subtitles/RiddBTW_reactive_tracking_crashcourse11.en.vtt (auto en)",
+      "core_point": "Reactive tracking = hardest aim mechanic, requires reading/reactivity/endurance/muscle control; frequent micro-corrections are the defining work."
+    },
+    {
+      "id": "DP954gl592E",
+      "url": "https://www.youtube.com/watch?v=DP954gl592E",
+      "title": "Why you still struggle with moving targets?",
+      "channel": "minigodcs & Lorys",
+      "views": 75000,
+      "duration_min": 7,
+      "subtitles": "subtitles/minigodcs_struggle_moving_targets.en.vtt (auto en)",
+      "core_point": "Prediction (pre-aim where target will be) vs active reading (real-time micro-adjust); over-reliance on prediction causes stiff micros on evasive targets; for jittery AD-spam targets deliberately UNDER-aim to speed-match instead of over-correcting."
+    },
+    {
+      "id": "ZBNEAgaGjdQ",
+      "url": "https://www.youtube.com/watch?v=ZBNEAgaGjdQ",
+      "title": "HOW TO: MOVING DOTS",
+      "channel": "christmasiscancelled",
+      "views": 32900,
+      "duration_min": 3,
+      "subtitles": "subtitles/christmasiscancelled_moving_dots.en.vtt (auto en)",
+      "core_point": "Core skill = decide WHEN the bot is safest to hit; hit Bounce180 bots at the apex (slowest, most predictable point), keep crosshair at apex height so only horizontal movement is needed."
+    },
+    {
+      "id": "oVOL2u2tg-0",
+      "url": "https://www.youtube.com/watch?v=oVOL2u2tg-0",
+      "title": "HOW TO: Thin Gauntlet",
+      "channel": "christmasiscancelled",
+      "views": 22500,
+      "duration_min": 3,
+      "subtitles": "subtitles/christmasiscancelled_thin_gauntlet.en.vtt (auto en)",
+      "core_point": "Isolate weak bots (Thin Gauntlet 357-357, invincible versions); external focus (target/hit-sounds) beats internal focus (wrist mechanics) — internal focus is why micro-adjustment feels awkward/stiff."
+    },
+    {
+      "id": "6pJGSYXcbCc",
+      "url": "https://www.youtube.com/watch?v=6pJGSYXcbCc",
+      "title": "How to Fix Shaky/Jittery Aim",
+      "channel": "KovaaKs (official)",
+      "views": 674000,
+      "duration_min": 3,
+      "subtitles": "subtitles/Kovaaks_fix_shaky_jittery_aim.en.vtt (auto en)",
+      "core_point": "Official short on shaky/jittery aim correction."
+    },
+    {
+      "id": "Hj8fYdea4tQ",
+      "url": "https://www.youtube.com/watch?v=Hj8fYdea4tQ",
+      "title": "Efficiently Fix Microadjusting [Permanently]",
+      "channel": "4BangerKovaaks",
+      "views": 5400,
+      "duration_min": 3,
+      "subtitles": "subtitles/4Banger_fix_microadjusting.en.vtt (auto en)",
+      "core_point": "Micro-adjustment is usually NOT a micro problem — flicks are bad at core; train speed + big targets so the flick-then-adjust chain speeds up; evasive side-to-side bots make micro-adjustment automatic."
+    },
+    {
+      "id": "XNIYrW6dTQM",
+      "url": "https://www.youtube.com/watch?v=XNIYrW6dTQM",
+      "title": "FIX Your Horrible OVERFLICKING",
+      "channel": "4BangerKovaaks",
+      "views": 55000,
+      "duration_min": 9,
+      "subtitles": "subtitles/4Banger_fix_overflicking.en.vtt (auto en)",
+      "core_point": "Over-flicking comes from over-correcting after undershooting; under-aim deliberately and micro-correct onto target."
+    },
+    {
+      "id": "feUxul6TGyQ",
+      "url": "https://www.youtube.com/watch?v=feUxul6TGyQ",
+      "title": "PERMANENTLY FIX Shaky Aim & Tracking: 7 Solutions",
+      "channel": "4BangerKovaaks",
+      "views": 120000,
+      "duration_min": 7,
+      "subtitles": "subtitles/4Banger_shaky_aim_tracking_7solutions.en.vtt (auto en)",
+      "core_point": "Shakiness = misplaced tension in shoulder/fingers/forearm; relocate tension away from the body."
+    },
+    {
+      "id": "YBbcYMk8-9o",
+      "url": "https://www.youtube.com/watch?v=YBbcYMk8-9o",
+      "title": "Pure Reactivity vs. Reactive Tracking - Unraveling the Secrets of Aim Ep. 2",
+      "channel": "MattyOW",
+      "views": 92800,
+      "duration_min": 12,
+      "subtitles": "NOT AVAILABLE — no en manual/auto captions on the video (yt-dlp: 'There are no subtitles for the requested languages'); cited from metadata + related MattyOW framework.",
+      "core_point": "Distinguishes pure reaction (single instantaneous response) from reactive tracking (sustained reading). Cited as framework reference only."
+    },
+    {
+      "id": "F7S-mafDz08",
+      "url": "https://www.youtube.com/watch?v=F7S-mafDz08",
+      "title": "Smooth Tracking: Aim Training Crash Course #7",
+      "channel": "RiddBTW",
+      "views": 299000,
+      "duration_min": 23,
+      "subtitles": "NOT OBTAINED — persistent HTTP 429 on caption CDN after 2 backoff rounds; cited from metadata + RiddBTW series context.",
+      "core_point": "Smooth tracking methodology in the Crash Course series; content inferred from sibling videos #3/#11."
+    },
+    {
+      "id": "00meppeDAC0",
+      "url": "https://www.youtube.com/watch?v=00meppeDAC0",
+      "title": "Is Reload Or Accuracy The Best Dynamic Clicking?",
+      "channel": "West Proter",
+      "views": 4000,
+      "duration_min": 5,
+      "subtitles": "NOT OBTAINED — HTTP 429 on caption CDN; cited from title/metadata only.",
+      "core_point": "Trade-off discussion: reload speed vs accuracy in dynamic clicking."
+    },
+    {
+      "id": "wBhCFYuRzk4",
+      "url": "https://www.youtube.com/watch?v=wBhCFYuRzk4",
+      "title": "The Complete KovaaK Click Timing Guide + Routine",
+      "channel": "Valkie",
+      "views": 34000,
+      "duration_min": 9,
+      "subtitles": "NOT OBTAINED — HTTP 429 on caption CDN after retry; cited from metadata.",
+      "core_point": "Click-timing methodology (relevant to Floating Heads Timing); not quotable with timestamps."
+    },
+    {
+      "id": "_5u0YN6gHbA",
+      "url": "https://www.youtube.com/watch?v=_5u0YN6gHbA",
+      "title": "Floating Heads.",
+      "channel": "Lew",
+      "views": 8300,
+      "duration_min": 8,
+      "subtitles": "NOT OBTAINED — HTTP 429 on caption CDN; cited from metadata.",
+      "core_point": "Dedicated Floating Heads breakdown; not quotable with timestamps."
+    },
+    {
+      "id": "cmQh7HKSrdA",
+      "url": "https://www.youtube.com/watch?v=cmQh7HKSrdA",
+      "title": "Why Your Tracking Aim NEEDS This Training Method",
+      "channel": "Daniel Kapadia",
+      "views": 195000,
+      "duration_min": 10,
+      "subtitles": "NOT AVAILABLE — video unavailable in current region/client; dropped.",
+      "core_point": "Dropped."
+    },
+    {
+      "id": "4952rP7VKwU",
+      "url": "https://www.youtube.com/watch?v=4952rP7VKwU",
+      "title": "Voltaic Daily Improvement Method - Update 2",
+      "channel": "Lowgravity56 (LG56)",
+      "views": null,
+      "duration_min": null,
+      "subtitles": "REUSED: Q003-VDIM进步方法论/VDIM调研-YouTube原始数据/lg56_vdim_update2.en.vtt",
+      "core_point": "VDIM playlist structure: daily focus technique + warm-up playlist + condensed fundamentals; dynamic clicking lives in the clicking focus days."
+    },
+    {
+      "id": "ZEH4CfytNyo",
+      "url": "https://www.youtube.com/watch?v=ZEH4CfytNyo",
+      "title": "The LAST AIM ROUTINE - Voltaic Daily Improvement Method",
+      "channel": "Lowgravity56 (LG56)",
+      "views": null,
+      "duration_min": null,
+      "subtitles": "REUSED: Q007-平滑后微调僵住/YouTube原始数据/ZEH4CfytNyo.en.vtt",
+      "core_point": "VDIM master routine; technique-focused daily practice structure."
+    },
+    {
+      "id": "EqeDWH4kcME",
+      "url": "https://www.youtube.com/watch?v=EqeDWH4kcME",
+      "title": "Aim Mechanics No One Else Talks About",
+      "channel": "West Proter",
+      "views": null,
+      "duration_min": null,
+      "subtitles": "REUSED: Q007-平滑后微调僵住/YouTube原始数据/EqeDWH4kcME.en.vtt",
+      "core_point": "Target reading + mechanics framing for aim improvement."
+    },
+    {
+      "id": "BpYCZ5OH7Ik",
+      "url": "https://www.youtube.com/watch?v=BpYCZ5OH7Ik",
+      "title": "The Calm Aim Scam / Dopamine and VDIM",
+      "channel": "Lowgravity56 (LG56)",
+      "views": null,
+      "duration_min": null,
+      "subtitles": "REUSED: Q003-VDIM进步方法论/VDIM调研-YouTube原始数据/lg56_calm_aim_scam_dopai.en.vtt",
+      "core_point": "Mental-state / focus framing for deliberate practice."
+    },
+    {
+      "id": "qZu8ttjyo2Y",
+      "url": "https://www.youtube.com/watch?v=qZu8ttjyo2Y",
+      "title": "Permanently Fix Your BAD Micro Adjusting",
+      "channel": "4BangerKovaaks",
+      "views": 103000,
+      "duration_min": 5,
+      "subtitles": "REUSED: Q007-平滑后微调僵住/YouTube原始数据/qZu8ttjyo2Y.en.vtt",
+      "core_point": "Micro-adjustment diagnosis (companion to Hj8fYdea4tQ)."
+    },
+    {
+      "id": "s0BuZ4sQpsU",
+      "url": "https://www.youtube.com/watch?v=s0BuZ4sQpsU",
+      "title": "Aim Guide for PERFECT Micro Corrections (Ep. 1)",
+      "channel": "Zapper",
+      "views": 75000,
+      "duration_min": 8,
+      "subtitles": "REUSED: Q007-平滑后微调僵住/YouTube原始数据/s0BuZ4sQpsU.en.vtt",
+      "core_point": "Micro-correction mechanics guide."
+    }
+  ]
+}

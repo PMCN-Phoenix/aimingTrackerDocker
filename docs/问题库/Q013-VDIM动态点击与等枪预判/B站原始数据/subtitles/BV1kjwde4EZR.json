@@ -1,0 +1,404 @@
+{
+  "bvid": "BV1kjwde4EZR",
+  "aid": 114019453175202,
+  "cid": 28441775032,
+  "meta": {
+    "title": "顿悟小片——预瞄",
+    "owner": "阿祖CS2辅导员版",
+    "duration": 102,
+    "desc": ""
+  },
+  "subtitle_info": {
+    "lan": "ai-zh",
+    "url": "https://aisubtitle.hdslb.com/bfs/ai_subtitle/prod/11401945317520228441775032324acc7b9070dcf3ecac11b22536631b?auth_key=1792040822-ae4c7bd9362043bda91ce1fef009cdea-0-f0cc0083024ea969256fa77f3023adf6",
+    "lan_doc": "中文"
+  },
+  "status": "ok",
+  "segment_count": 48,
+  "body": [
+    {
+      "from": 0.04,
+      "to": 3.16,
+      "sid": 1,
+      "location": 2,
+      "content": "哎你说这个预瞄点我怎么就是找不准呢",
+      "music": 0.0
+    },
+    {
+      "from": 3.16,
+      "to": 5.24,
+      "sid": 2,
+      "location": 2,
+      "content": "你刚刚说找什么预瞄点啊",
+      "music": 0.0
+    },
+    {
+      "from": 5.24,
+      "to": 7.92,
+      "sid": 3,
+      "location": 2,
+      "content": "如果你觉得育苗是隔着墙找的某一个点",
+      "music": 0.0
+    },
+    {
+      "from": 7.92,
+      "to": 9.72,
+      "sid": 4,
+      "location": 2,
+      "content": "那你从头开始就错了",
+      "music": 0.0
+    },
+    {
+      "from": 9.72,
+      "to": 10.78,
+      "sid": 5,
+      "location": 2,
+      "content": "那我该找什么",
+      "music": 0.0
+    },
+    {
+      "from": 10.78,
+      "to": 11.98,
+      "sid": 6,
+      "location": 2,
+      "content": "夹两条线",
+      "music": 0.0
+    },
+    {
+      "from": 11.98,
+      "to": 12.87,
+      "sid": 7,
+      "location": 2,
+      "content": "什么线",
+      "music": 0.0
+    },
+    {
+      "from": 12.87,
+      "to": 14.31,
+      "sid": 8,
+      "location": 2,
+      "content": "第一条是角度线",
+      "music": 0.0
+    },
+    {
+      "from": 14.31,
+      "to": 15.79,
+      "sid": 9,
+      "location": 2,
+      "content": "用来确定敌人位置",
+      "music": 0.15827336990838997
+    },
+    {
+      "from": 15.79,
+      "to": 17.4,
+      "sid": 10,
+      "location": 2,
+      "content": "这跟角度有啥关系",
+      "music": 0.0
+    },
+    {
+      "from": 17.4,
+      "to": 18.44,
+      "sid": 11,
+      "location": 2,
+      "content": "比如A小拐角",
+      "music": 0.0
+    },
+    {
+      "from": 18.44,
+      "to": 19.12,
+      "sid": 12,
+      "location": 2,
+      "content": "这个预瞄点",
+      "music": 0.0
+    },
+    {
+      "from": 19.12,
+      "to": 22.02,
+      "sid": 13,
+      "location": 2,
+      "content": "这条直线是你需要的正确的枪口朝向",
+      "music": 0.0
+    },
+    {
+      "from": 22.02,
+      "to": 24.64,
+      "sid": 14,
+      "location": 2,
+      "content": "这条横线则是你往外拉时的移动方向",
+      "music": 0.0
+    },
+    {
+      "from": 24.64,
+      "to": 26.34,
+      "sid": 15,
+      "location": 2,
+      "content": "那不就是一个90度角吗",
+      "music": 0.0
+    },
+    {
+      "from": 26.34,
+      "to": 28.46,
+      "sid": 16,
+      "location": 2,
+      "content": "所以你想预瞄它根本不用找点",
+      "music": 0.0
+    },
+    {
+      "from": 28.46,
+      "to": 30.68,
+      "sid": 17,
+      "location": 2,
+      "content": "只需要让枪口跟墙壁垂直",
+      "music": 0.0
+    },
+    {
+      "from": 30.68,
+      "to": 31.82,
+      "sid": 18,
+      "location": 2,
+      "content": "然后横移拉出去",
+      "music": 0.0
+    },
+    {
+      "from": 31.82,
+      "to": 34.16,
+      "sid": 19,
+      "location": 2,
+      "content": "你的准心就一定能落在敌人身上了",
+      "music": 0.0
+    },
+    {
+      "from": 34.16,
+      "to": 35.7,
+      "sid": 20,
+      "location": 2,
+      "content": "这就是组织角度线",
+      "music": 0.0
+    },
+    {
+      "from": 35.7,
+      "to": 38.34,
+      "sid": 21,
+      "location": 2,
+      "content": "那其他点位呢任何点位都一样",
+      "music": 0.0
+    },
+    {
+      "from": 38.34,
+      "to": 40.56,
+      "sid": 22,
+      "location": 2,
+      "content": "把你拉出掩体后急停下来的那个点",
+      "music": 0.0
+    },
+    {
+      "from": 40.56,
+      "to": 41.72,
+      "sid": 23,
+      "location": 2,
+      "content": "跟你的敌人相连",
+      "music": 0.0
+    },
+    {
+      "from": 41.72,
+      "to": 44.68,
+      "sid": 24,
+      "location": 2,
+      "content": "这条直线平行回来就是你的枪口朝向",
+      "music": 0.0
+    },
+    {
+      "from": 44.68,
+      "to": 45.74,
+      "sid": 25,
+      "location": 2,
+      "content": "然后横移往外拉",
+      "music": 0.0
+    },
+    {
+      "from": 45.74,
+      "to": 47.26,
+      "sid": 26,
+      "location": 2,
+      "content": "构建起这个90度角",
+      "music": 0.0
+    },
+    {
+      "from": 47.26,
+      "to": 48.52,
+      "sid": 27,
+      "location": 2,
+      "content": "你就能预瞄到敌人",
+      "music": 0.0
+    },
+    {
+      "from": 48.52,
+      "to": 50.22,
+      "sid": 28,
+      "location": 2,
+      "content": "针对那第二条线是什么",
+      "music": 0.0
+    },
+    {
+      "from": 50.22,
+      "to": 52.02,
+      "sid": 29,
+      "location": 2,
+      "content": "爆头线顶敌人高度",
+      "music": 0.0
+    },
+    {
+      "from": 52.02,
+      "to": 53.08,
+      "sid": 30,
+      "location": 2,
+      "content": "这又该怎么找",
+      "music": 0.0
+    },
+    {
+      "from": 53.08,
+      "to": 54.76,
+      "sid": 31,
+      "location": 2,
+      "content": "你的枪口和你的视角",
+      "music": 0.0
+    },
+    {
+      "from": 54.76,
+      "to": 57.54,
+      "sid": 32,
+      "location": 2,
+      "content": "其实都是从人物眼睛的高度发射出去的",
+      "music": 0.0
+    },
+    {
+      "from": 57.54,
+      "to": 59.6,
+      "sid": 33,
+      "location": 2,
+      "content": "所以我们平视时的枪口高度",
+      "music": 0.0
+    },
+    {
+      "from": 59.6,
+      "to": 61.82,
+      "sid": 34,
+      "location": 2,
+      "content": "就是平地上的人物头线高度",
+      "music": 0.0
+    },
+    {
+      "from": 61.82,
+      "to": 63.82,
+      "sid": 35,
+      "location": 2,
+      "content": "想要找到平视的感觉也很简单",
+      "music": 0.0
+    },
+    {
+      "from": 63.82,
+      "to": 65.26,
+      "sid": 36,
+      "location": 2,
+      "content": "因为透视的存在",
+      "music": 0.0
+    },
+    {
+      "from": 65.26,
+      "to": 66.98,
+      "sid": 37,
+      "location": 2,
+      "content": "你在抬头或低头时",
+      "music": 0.0
+    },
+    {
+      "from": 66.98,
+      "to": 70.8,
+      "sid": 38,
+      "location": 2,
+      "content": "身边本该垂直于地面的这些墙壁都会发生倾斜",
+      "music": 0.0
+    },
+    {
+      "from": 70.8,
+      "to": 71.62,
+      "sid": 39,
+      "location": 2,
+      "content": "那也就是说",
+      "music": 0.0
+    },
+    {
+      "from": 71.62,
+      "to": 73.12,
+      "sid": 40,
+      "location": 2,
+      "content": "当你发现周围的墙壁",
+      "music": 0.0
+    },
+    {
+      "from": 73.12,
+      "to": 76.44,
+      "sid": 41,
+      "location": 2,
+      "content": "跟你的屏幕上下边缘是垂直关系的时候",
+      "music": 0.0
+    },
+    {
+      "from": 76.44,
+      "to": 79.46,
+      "sid": 42,
+      "location": 2,
+      "content": "你就是平视头线也处在正确高度",
+      "music": 0.0
+    },
+    {
+      "from": 79.46,
+      "to": 80.16,
+      "sid": 43,
+      "location": 2,
+      "content": "我知道了",
+      "music": 0.0
+    },
+    {
+      "from": 80.16,
+      "to": 81.76,
+      "sid": 44,
+      "location": 2,
+      "content": "直接找点是找不到的",
+      "music": 0.0
+    },
+    {
+      "from": 81.76,
+      "to": 84.12,
+      "sid": 45,
+      "location": 2,
+      "content": "我们找的其实是横竖向的两条线",
+      "music": 0.0
+    },
+    {
+      "from": 84.12,
+      "to": 86.99,
+      "sid": 46,
+      "location": 2,
+      "content": "然后他们的焦点自然就是我们要的预瞄点",
+      "music": 0.0
+    },
+    {
+      "from": 86.99,
+      "to": 89.01,
+      "sid": 47,
+      "location": 2,
+      "content": "没错哦",
+      "music": 0.0
+    },
+    {
+      "from": 89.01,
+      "to": 90.86,
+      "sid": 48,
+      "location": 2,
+      "content": "还得是你呀",
+      "music": 0.0
+    }
+  ]
+}

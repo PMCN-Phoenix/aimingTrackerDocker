@@ -1,0 +1,372 @@
+[00:06] Hello everyone, it's VT Maddie. In this
+[00:06] Hello everyone, it's VT Maddie. In this video, we're going to discuss the
+[00:07] video, we're going to discuss the
+[00:07] video, we're going to discuss the concept of stabilization in aim training
+[00:09] concept of stabilization in aim training
+[00:10] concept of stabilization in aim training and I'm going to explain how to resolve
+[00:11] and I'm going to explain how to resolve
+[00:11] and I'm going to explain how to resolve a very common issue that is observed in
+[00:13] a very common issue that is observed in
+[00:13] a very common issue that is observed in many of the smooth tracking VODs that I
+[00:15] many of the smooth tracking VODs that I
+[00:15] many of the smooth tracking VODs that I review on
+[00:17] review on
+[00:17] review on stream. To start us off, take a quick
+[00:20] stream. To start us off, take a quick
+[00:20] stream. To start us off, take a quick look at some of these Smoothbot VODs.
+[00:22] look at some of these Smoothbot VODs.
+[00:22] look at some of these Smoothbot VODs. What do they all have in common? Some
+[00:24] What do they all have in common? Some
+[00:24] What do they all have in common? Some might be quick to say that the gameplay
+[00:26] might be quick to say that the gameplay
+[00:26] might be quick to say that the gameplay isn't smooth or that the players might
+[00:28] isn't smooth or that the players might
+[00:28] isn't smooth or that the players might be using excess tension. Well, in half
+[00:30] be using excess tension. Well, in half
+[00:30] be using excess tension. Well, in half of these cases, you're correct if you
+[00:32] of these cases, you're correct if you
+[00:32] of these cases, you're correct if you think that too much tension can
+[00:34] think that too much tension can
+[00:34] think that too much tension can definitely be the cause of extra
+[00:35] definitely be the cause of extra
+[00:35] definitely be the cause of extra shakiness or the extra exaggeration of
+[00:38] shakiness or the extra exaggeration of
+[00:38] shakiness or the extra exaggeration of jitters. But there's also a problem if
+[00:40] jitters. But there's also a problem if
+[00:40] jitters. But there's also a problem if you're using too little tension. Tension
+[00:43] you're using too little tension. Tension
+[00:43] you're using too little tension. Tension is a balance and using none of it can be
+[00:46] is a balance and using none of it can be
+[00:46] is a balance and using none of it can be just as bad as using too much of it.
+[00:48] just as bad as using too much of it.
+[00:48] just as bad as using too much of it. Basically, you need to maintain
+[00:50] Basically, you need to maintain
+[00:50] Basically, you need to maintain continuity in tracking. This is the
+[00:52] continuity in tracking. This is the
+[00:52] continuity in tracking. This is the quality of your motion that the term
+[00:53] quality of your motion that the term
+[00:53] quality of your motion that the term smoothness is really describing. How
+[00:56] smoothness is really describing. How
+[00:56] smoothness is really describing. How continuous is your motion? Can you
+[00:58] continuous is your motion? Can you
+[00:58] continuous is your motion? Can you visually make out the segmentation of a
+[01:00] visually make out the segmentation of a
+[01:00] visually make out the segmentation of a sweeping track? Does it appear as one
+[01:02] sweeping track? Does it appear as one
+[01:02] sweeping track? Does it appear as one singular motion or is it broken up into
+[01:04] singular motion or is it broken up into
+[01:04] singular motion or is it broken up into several individual pieces strung
+[01:07] several individual pieces strung
+[01:07] several individual pieces strung together? This is the thought process
+[01:09] together? This is the thought process
+[01:09] together? This is the thought process behind speed matching or maintaining
+[01:11] behind speed matching or maintaining
+[01:11] behind speed matching or maintaining synchronization in speed between the
+[01:12] synchronization in speed between the
+[01:12] synchronization in speed between the targets movement on screen and your own
+[01:14] targets movement on screen and your own
+[01:14] targets movement on screen and your own mouse motion which results in a clean
+[01:16] mouse motion which results in a clean
+[01:16] mouse motion which results in a clean singular tracking motion. and tension
+[01:18] singular tracking motion. and tension
+[01:18] singular tracking motion. and tension management is at the center of how to do
+[01:20] management is at the center of how to do
+[01:20] management is at the center of how to do this properly. First off, how do you
+[01:23] this properly. First off, how do you
+[01:23] this properly. First off, how do you stabilize using the tension in your
+[01:25] stabilize using the tension in your
+[01:25] stabilize using the tension in your hand? The initial component is being
+[01:28] hand? The initial component is being
+[01:28] hand? The initial component is being able to acclimate yourself to target
+[01:29] able to acclimate yourself to target
+[01:29] able to acclimate yourself to target speeds, which you must visually decipher
+[01:31] speeds, which you must visually decipher
+[01:31] speeds, which you must visually decipher on the fly by reading changes in strafe
+[01:34] on the fly by reading changes in strafe
+[01:34] on the fly by reading changes in strafe acceleration. In most games, these speed
+[01:36] acceleration. In most games, these speed
+[01:36] acceleration. In most games, these speed changes are rather hard-coded. You can
+[01:38] changes are rather hard-coded. You can
+[01:38] changes are rather hard-coded. You can learn how fast all of the characters
+[01:40] learn how fast all of the characters
+[01:40] learn how fast all of the characters move in a game like Overwatch and even
+[01:41] move in a game like Overwatch and even
+[01:41] move in a game like Overwatch and even memorize the patterns of movement
+[01:43] memorize the patterns of movement
+[01:43] memorize the patterns of movement abilities for which you can apply the
+[01:45] abilities for which you can apply the
+[01:45] abilities for which you can apply the exact same mouse motions in response.
+[01:48] exact same mouse motions in response.
+[01:48] exact same mouse motions in response. In aim trainers, we can separate
+[01:50] In aim trainers, we can separate
+[01:50] In aim trainers, we can separate differing speeds across scenarios.
+[01:52] differing speeds across scenarios.
+[01:52] differing speeds across scenarios. Obviously, the first step of figuring
+[01:53] Obviously, the first step of figuring
+[01:53] Obviously, the first step of figuring out how fast a target is moving visually
+[01:55] out how fast a target is moving visually
+[01:55] out how fast a target is moving visually is relatively simple. The next step,
+[01:57] is relatively simple. The next step,
+[01:58] is relatively simple. The next step, which we will consider the hardest part,
+[01:59] which we will consider the hardest part,
+[01:59] which we will consider the hardest part, is working out the tension
+[02:02] is working out the tension
+[02:02] is working out the tension balancing. I first want to demonstrate
+[02:04] balancing. I first want to demonstrate
+[02:04] balancing. I first want to demonstrate what it looks like when you're using too
+[02:06] what it looks like when you're using too
+[02:06] what it looks like when you're using too much overall tension. This essentially
+[02:08] much overall tension. This essentially
+[02:08] much overall tension. This essentially means you're gripping the mouse very
+[02:10] means you're gripping the mouse very
+[02:10] means you're gripping the mouse very tightly in order to maintain continuity
+[02:12] tightly in order to maintain continuity
+[02:12] tightly in order to maintain continuity in your tracking. This tightness causes
+[02:15] in your tracking. This tightness causes
+[02:15] in your tracking. This tightness causes your movements to aggressively skip
+[02:16] your movements to aggressively skip
+[02:16] your movements to aggressively skip forwards ahead of the target or even
+[02:18] forwards ahead of the target or even
+[02:18] forwards ahead of the target or even travel off course. The jitters in your
+[02:21] travel off course. The jitters in your
+[02:21] travel off course. The jitters in your hand are directed forwards. This is what
+[02:24] hand are directed forwards. This is what
+[02:24] hand are directed forwards. This is what most players suffer
+[02:26] most players suffer
+[02:26] most players suffer from. Now, I need to show you what it
+[02:28] from. Now, I need to show you what it
+[02:28] from. Now, I need to show you what it looks like when you're using too little
+[02:30] looks like when you're using too little
+[02:30] looks like when you're using too little tension. We often talk about tension
+[02:32] tension. We often talk about tension
+[02:32] tension. We often talk about tension management in a way that makes it seem
+[02:34] management in a way that makes it seem
+[02:34] management in a way that makes it seem like we shouldn't be using any tension
+[02:36] like we shouldn't be using any tension
+[02:36] like we shouldn't be using any tension at all. But I want to emphasize here
+[02:38] at all. But I want to emphasize here
+[02:38] at all. But I want to emphasize here with this video that to remain stable on
+[02:41] with this video that to remain stable on
+[02:41] with this video that to remain stable on target, you always need to utilize some
+[02:43] target, you always need to utilize some
+[02:43] target, you always need to utilize some amount of tension, supplying a firm grip
+[02:46] amount of tension, supplying a firm grip
+[02:46] amount of tension, supplying a firm grip on the mouse. If you use too little or
+[02:48] on the mouse. If you use too little or
+[02:48] on the mouse. If you use too little or almost no tension at all, we get stops
+[02:50] almost no tension at all, we get stops
+[02:50] almost no tension at all, we get stops or breaks instead of aggressive forward
+[02:52] or breaks instead of aggressive forward
+[02:52] or breaks instead of aggressive forward skips. Instead of shaking ahead of the
+[02:55] skips. Instead of shaking ahead of the
+[02:55] skips. Instead of shaking ahead of the target or off course, our motion just
+[02:57] target or off course, our motion just
+[02:57] target or off course, our motion just seems to lag behind.
+[03:01] seems to lag behind.
+[03:01] seems to lag behind. So, a grip that is too tight causes
+[03:03] So, a grip that is too tight causes
+[03:03] So, a grip that is too tight causes visually sharper, jerky motions with a
+[03:05] visually sharper, jerky motions with a
+[03:05] visually sharper, jerky motions with a lot more overcorrection. And a grip that
+[03:07] lot more overcorrection. And a grip that
+[03:07] lot more overcorrection. And a grip that is too loose causes motion that appears
+[03:09] is too loose causes motion that appears
+[03:09] is too loose causes motion that appears sluggish or lagged. This demonstration
+[03:12] sluggish or lagged. This demonstration
+[03:12] sluggish or lagged. This demonstration is to emphasize that you definitely need
+[03:14] is to emphasize that you definitely need
+[03:14] is to emphasize that you definitely need to be using some tension in aiming and
+[03:16] to be using some tension in aiming and
+[03:16] to be using some tension in aiming and to help you diagnose whether you're
+[03:18] to help you diagnose whether you're
+[03:18] to help you diagnose whether you're using too little or too much of
+[03:20] using too little or too much of
+[03:20] using too little or too much of it. The right balance is actually going
+[03:22] it. The right balance is actually going
+[03:22] it. The right balance is actually going to vary and feel person by person. So,
+[03:25] to vary and feel person by person. So,
+[03:25] to vary and feel person by person. So, it is up to you to experiment on many
+[03:26] it is up to you to experiment on many
+[03:26] it is up to you to experiment on many scenarios and eventually find what works
+[03:28] scenarios and eventually find what works
+[03:28] scenarios and eventually find what works best for you. In scenarios that have
+[03:31] best for you. In scenarios that have
+[03:31] best for you. In scenarios that have very wide sweeping motions like
+[03:32] very wide sweeping motions like
+[03:32] very wide sweeping motions like centering or raw smoothness variants,
+[03:34] centering or raw smoothness variants,
+[03:34] centering or raw smoothness variants, smoothbot variants, or PGTI, another
+[03:37] smoothbot variants, or PGTI, another
+[03:37] smoothbot variants, or PGTI, another important thing to consider in
+[03:38] important thing to consider in
+[03:38] important thing to consider in stabilizing yourself, is to minimize the
+[03:40] stabilizing yourself, is to minimize the
+[03:40] stabilizing yourself, is to minimize the changes in your tension during long
+[03:42] changes in your tension during long
+[03:42] changes in your tension during long strafes or critical tracking motions.
+[03:45] strafes or critical tracking motions.
+[03:45] strafes or critical tracking motions. Changes in tension, whether it be how
+[03:47] Changes in tension, whether it be how
+[03:47] Changes in tension, whether it be how much you're using or where you're using
+[03:48] much you're using or where you're using
+[03:48] much you're using or where you're using it, will coincide with changes in your
+[03:51] it, will coincide with changes in your
+[03:51] it, will coincide with changes in your smoothness and continuity.
+[03:53] smoothness and continuity.
+[03:53] smoothness and continuity. The way you want to think of it is how
+[03:55] The way you want to think of it is how
+[03:55] The way you want to think of it is how can I effectively balance out tension
+[03:57] can I effectively balance out tension
+[03:57] can I effectively balance out tension between my fingertip, wrist, and forearm
+[03:59] between my fingertip, wrist, and forearm
+[03:59] between my fingertip, wrist, and forearm without disrupting my current tracking
+[04:01] without disrupting my current tracking
+[04:01] without disrupting my current tracking motion. Let's study this old spherical
+[04:03] motion. Let's study this old spherical
+[04:03] motion. Let's study this old spherical centering VAD from Skooki. Look at his
+[04:05] centering VAD from Skooki. Look at his
+[04:05] centering VAD from Skooki. Look at his hand cam in between the strafs. Notice
+[04:08] hand cam in between the strafs. Notice
+[04:08] hand cam in between the strafs. Notice how precise he becomes when his wrist
+[04:10] how precise he becomes when his wrist
+[04:10] how precise he becomes when his wrist bends it back over his pivot point in
+[04:12] bends it back over his pivot point in
+[04:12] bends it back over his pivot point in the middle of the track. Why is this the
+[04:14] the middle of the track. Why is this the
+[04:14] the middle of the track. Why is this the smoothest point in his aim? Because he
+[04:16] smoothest point in his aim? Because he
+[04:16] smoothest point in his aim? Because he doesn't need to make any changes in
+[04:18] doesn't need to make any changes in
+[04:18] doesn't need to make any changes in tension here. his motion is stable
+[04:20] tension here. his motion is stable
+[04:20] tension here. his motion is stable whereas the bounds of his motion or when
+[04:22] whereas the bounds of his motion or when
+[04:22] whereas the bounds of his motion or when the target changes direction he needs to
+[04:23] the target changes direction he needs to
+[04:23] the target changes direction he needs to transfer tension into his wrist to make
+[04:25] transfer tension into his wrist to make
+[04:25] transfer tension into his wrist to make up for a fast microcorrection and then
+[04:28] up for a fast microcorrection and then
+[04:28] up for a fast microcorrection and then restabilize. Therefore, it is important
+[04:30] restabilize. Therefore, it is important
+[04:30] restabilize. Therefore, it is important that you keep in mind that when a target
+[04:32] that you keep in mind that when a target
+[04:32] that you keep in mind that when a target gives you a long strafe or an
+[04:33] gives you a long strafe or an
+[04:33] gives you a long strafe or an opportunity to get a lot of time on
+[04:35] opportunity to get a lot of time on
+[04:35] opportunity to get a lot of time on target, you keep your tension constant
+[04:37] target, you keep your tension constant
+[04:37] target, you keep your tension constant so as to not introduce
+[04:39] so as to not introduce
+[04:39] so as to not introduce jitters. Lastly, I want to mention that
+[04:42] jitters. Lastly, I want to mention that
+[04:42] jitters. Lastly, I want to mention that the direction of the tension force also
+[04:44] the direction of the tension force also
+[04:44] the direction of the tension force also matters in aiming. Lots of players
+[04:46] matters in aiming. Lots of players
+[04:46] matters in aiming. Lots of players decide to push downwards with their
+[04:47] decide to push downwards with their
+[04:47] decide to push downwards with their mouse into the mouse pad, effectively
+[04:49] mouse into the mouse pad, effectively
+[04:49] mouse into the mouse pad, effectively applying the force vertically. In this
+[04:51] applying the force vertically. In this
+[04:52] applying the force vertically. In this sense, these players are using the
+[04:53] sense, these players are using the
+[04:53] sense, these players are using the friction between the mouse gates and the
+[04:55] friction between the mouse gates and the
+[04:55] friction between the mouse gates and the mouse pad to help them stabilize. This
+[04:57] mouse pad to help them stabilize. This
+[04:58] mouse pad to help them stabilize. This is not how you want to be doing this.
+[05:00] is not how you want to be doing this.
+[05:00] is not how you want to be doing this. Relying on the mouse pad friction to
+[05:01] Relying on the mouse pad friction to
+[05:01] Relying on the mouse pad friction to stabilize your motion will cause your
+[05:03] stabilize your motion will cause your
+[05:03] stabilize your motion will cause your tracking to become sticky. While this
+[05:05] tracking to become sticky. While this
+[05:05] tracking to become sticky. While this depends on the speed of the pad itself,
+[05:07] depends on the speed of the pad itself,
+[05:07] depends on the speed of the pad itself, it makes it more difficult to glide with
+[05:09] it makes it more difficult to glide with
+[05:09] it makes it more difficult to glide with targets or dynamically remove yourself
+[05:11] targets or dynamically remove yourself
+[05:11] targets or dynamically remove yourself from the tracking motion, such as when
+[05:12] from the tracking motion, such as when
+[05:12] from the tracking motion, such as when you need to react to a change in the
+[05:14] you need to react to a change in the
+[05:14] you need to react to a change in the target's direction or even switch to a
+[05:15] target's direction or even switch to a
+[05:15] target's direction or even switch to a new target, like an evasive switching.
+[05:18] new target, like an evasive switching.
+[05:18] new target, like an evasive switching. Lateral pressure, or squeezing into the
+[05:20] Lateral pressure, or squeezing into the
+[05:20] Lateral pressure, or squeezing into the mouse, allows you to rely more on your
+[05:22] mouse, allows you to rely more on your
+[05:22] mouse, allows you to rely more on your own ability to stabilize and allows you
+[05:24] own ability to stabilize and allows you
+[05:24] own ability to stabilize and allows you to be more fluid across aiming
+[05:26] to be more fluid across aiming
+[05:26] to be more fluid across aiming situation. In real games, it can be a
+[05:28] situation. In real games, it can be a
+[05:28] situation. In real games, it can be a lot harder to get a clean speed match on
+[05:30] lot harder to get a clean speed match on
+[05:30] lot harder to get a clean speed match on targets. Most often, it will depend on
+[05:31] targets. Most often, it will depend on
+[05:32] targets. Most often, it will depend on the way that you acquire the target
+[05:33] the way that you acquire the target
+[05:33] the way that you acquire the target first, way more than the mechanics of
+[05:35] first, way more than the mechanics of
+[05:35] first, way more than the mechanics of the actual track. Being able to speed
+[05:37] the actual track. Being able to speed
+[05:38] the actual track. Being able to speed match cleanly will rely on your ability
+[05:39] match cleanly will rely on your ability
+[05:39] match cleanly will rely on your ability to ascertain the target's movement
+[05:41] to ascertain the target's movement
+[05:41] to ascertain the target's movement direction and acceleration, which can be
+[05:43] direction and acceleration, which can be
+[05:43] direction and acceleration, which can be given away by animation cues or movement
+[05:45] given away by animation cues or movement
+[05:45] given away by animation cues or movement abilities, and smoothly acquiring the
+[05:47] abilities, and smoothly acquiring the
+[05:47] abilities, and smoothly acquiring the target, easing in to the tracking
+[05:50] target, easing in to the tracking
+[05:50] target, easing in to the tracking motion. This is why it feels so jarring
+[05:52] motion. This is why it feels so jarring
+[05:52] motion. This is why it feels so jarring to have to smoothly track a target when
+[05:54] to have to smoothly track a target when
+[05:54] to have to smoothly track a target when you flick very quickly to one. Remember
+[05:56] you flick very quickly to one. Remember
+[05:56] you flick very quickly to one. Remember that you need to keep your tension
+[05:57] that you need to keep your tension
+[05:57] that you need to keep your tension relatively low and smoothly adjust onto
+[05:59] relatively low and smoothly adjust onto
+[05:59] relatively low and smoothly adjust onto the target instead of abruptly flicking.
+[06:01] the target instead of abruptly flicking.
+[06:02] the target instead of abruptly flicking. Doing this properly gets you really
+[06:03] Doing this properly gets you really
+[06:03] Doing this properly gets you really clean
+[06:04] clean
+[06:04] clean sequences. And that's it for today's
+[06:06] sequences. And that's it for today's
+[06:06] sequences. And that's it for today's video. I hope you guys enjoyed and
+[06:08] video. I hope you guys enjoyed and
+[06:08] video. I hope you guys enjoyed and hopefully learned something new about
+[06:09] hopefully learned something new about
+[06:09] hopefully learned something new about smooth tracking. Use this advice to get
+[06:11] smooth tracking. Use this advice to get
+[06:11] smooth tracking. Use this advice to get better scores in aim trainers and
+[06:13] better scores in aim trainers and
+[06:13] better scores in aim trainers and satisfying tracking moments in FPS
+[06:15] satisfying tracking moments in FPS
+[06:15] satisfying tracking moments in FPS games. Follow my Twitch at
+[06:18] games. Follow my Twitch at
+[06:18] games. Follow my Twitch at twitch.tv/matty_w for more aim training
+[06:20] twitch.tv/matty_w for more aim training
+[06:20] twitch.tv/matty_w for more aim training streams and VOD reviews featuring this
+[06:22] streams and VOD reviews featuring this
+[06:22] streams and VOD reviews featuring this kind of information. And as always,
+[06:24] kind of information. And as always,
+[06:24] kind of information. And as always, happy dot clicking.
+[06:27] happy dot clicking.
+[06:27] happy dot clicking. [Music]

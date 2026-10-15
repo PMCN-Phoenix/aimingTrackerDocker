@@ -1,0 +1,92 @@
+{
+  "bvid": "BV1Ny4y157dd",
+  "aid": 804961725,
+  "cid": 391866300,
+  "meta": {
+    "title": "【aim lab】floating heads timing 400% 世界第一 954",
+    "owner": "-克礼无明-",
+    "duration": 73,
+    "desc": "一坨屎 但是还是不要脸地说自己是第一"
+  },
+  "subtitle_info": {
+    "lan": "ai-zh",
+    "url": "https://aisubtitle.hdslb.com/bfs/ai_subtitle/prod/8049617253918663005e512481f11504a2a058343d58d78729?auth_key=1792040949-e2ada6f9ca9f48a9a986ff6fc94887e7-0-14058b9b93bfd95f93a56d8ac27d1afb",
+    "lan_doc": "中文"
+  },
+  "status": "ok",
+  "segment_count": 9,
+  "body": [
+    {
+      "from": 0.12,
+      "to": 4.56,
+      "sid": 1,
+      "location": 2,
+      "content": "♪ 不听老师教你上台介绍自己 ♪",
+      "music": 0.9999999668874183
+    },
+    {
+      "from": 4.56,
+      "to": 8.42,
+      "sid": 2,
+      "location": 2,
+      "content": "♪ 也没见你那么充满自信 ♪",
+      "music": 0.8048780160618693
+    },
+    {
+      "from": 8.42,
+      "to": 10.49,
+      "sid": 3,
+      "location": 2,
+      "content": "♪ 是什么样的勇气 ♪",
+      "music": 0.9999999342105306
+    },
+    {
+      "from": 10.49,
+      "to": 12.5,
+      "sid": 4,
+      "location": 2,
+      "content": "♪ 什么样的勇气 ♪",
+      "music": 0.99999993589744
+    },
+    {
+      "from": 12.5,
+      "to": 14.86,
+      "sid": 5,
+      "location": 2,
+      "content": "♪ 我想这就是爱情 ♪",
+      "music": 0.9999999397590398
+    },
+    {
+      "from": 26.98,
+      "to": 29.08,
+      "sid": 6,
+      "location": 2,
+      "content": "♪ 我想这就是爱情 ♪",
+      "music": 0.999999932432437
+    },
+    {
+      "from": 34.08,
+      "to": 36.24,
+      "sid": 7,
+      "location": 2,
+      "content": "我想这就是爱情",
+      "music": 0.6206896195005949
+    },
+    {
+      "from": 43.04,
+      "to": 45.86,
+      "sid": 8,
+      "location": 2,
+      "content": "♪ 我想这就是爱情 ♪",
+      "music": 0.9999999431818214
+    },
+    {
+      "from": 64.22,
+      "to": 65.92,
+      "sid": 9,
+      "location": 2,
+      "content": "第一了",
+      "music": 0.0
+    }
+  ]
+}
