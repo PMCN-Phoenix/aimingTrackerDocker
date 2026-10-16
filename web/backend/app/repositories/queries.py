@@ -4,10 +4,99 @@ from typing import List, Dict, Any, Optional
 from .influx_client import db
 
 
+# ==================== 成绩表迁移期兼容（2026-10-16 修订） ====================
+# 背景：权威成绩表已迁移到 kovaak_score（含 hits/misses），旧表 aim_scenario
+# 的 740 个成绩点经实测已 100% 并入新表（见 docs/接手报告-20261016.md P0-1）。
+# 迁移期查询规则——严禁两表计数相加（旧表数据已包含在新表内，相加会双算）：
+#   计数类（轮数）：以新表为准，新表无数据时才按场景粒度回退旧表；
+#   极值类（最佳分）：两表取 max（幂等不会双算，且能兜底旧表独有的点）；
+#   趋势类（历史）：以新表为准，新表无数据才整体回退旧表（避免同一点重复出现）。
+NEW_SCORE_MEASUREMENT = "kovaak_score"
+OLD_SCORE_MEASUREMENT = "aim_scenario"
+
+
+def _flux_count_rounds(measurement: str, scenario: str, start_str: str, end_str: str, list_name: str) -> str:
+    """生成「单表单场景轮数计数」的 Flux"""
+    return f'''
+from(bucket: "{db.bucket}")
+  |> range(start: {start_str}, stop: {end_str})
+  |> filter(fn: (r) => r._measurement == "{measurement}" and r.scenario == "{scenario}" and r.list == "{list_name}")
+  |> filter(fn: (r) => r._field == "score")
+  |> group(columns: ["scenario"])
+  |> count()
+'''
+
+
+def _flux_count_all(measurement: str, start_str: str, end_str: str, list_name: str) -> str:
+    """生成「单表全场景轮数计数」的 Flux"""
+    return f'''
+from(bucket: "{db.bucket}")
+  |> range(start: {start_str}, stop: {end_str})
+  |> filter(fn: (r) => r._measurement == "{measurement}" and r.list == "{list_name}")
+  |> filter(fn: (r) => r._field == "score")
+  |> group(columns: ["scenario"])
+  |> count()
+'''
+
+
+def _flux_history(measurement: str, scenario: str, days: int, list_name: str) -> str:
+    """生成「单表历史成绩」的 Flux"""
+    return f'''
+from(bucket: "{db.bucket}")
+  |> range(start: -{days}d)
+  |> filter(fn: (r) -> r._measurement == "{measurement}" and r.scenario == "{scenario}" and r.list == "{list_name}")
+  |> filter(fn: (r) -> r._field == "score")
+  |> keep(columns: ["_time", "_value", "scenario"])
+'''
+
+
+def _query_count(flux: str, measurement: str) -> int:
+    """执行计数查询，失败返回 0"""
+    try:
+        rows = db.query(flux)
+        if rows:
+            return int(float(rows[0].get("_value", 0)))
+    except Exception as e:
+        print(f"查询 {measurement} 失败: {e}")
+    return 0
+
+
+def _query_count_map(flux: str, measurement: str) -> Dict[str, int]:
+    """执行全场景计数查询，返回 {scenario: count}，失败返回 {}"""
+    result: Dict[str, int] = {}
+    try:
+        rows = db.query(flux)
+        for row in rows:
+            scenario = row.get("scenario")
+            if scenario:
+                result[scenario] = int(float(row.get("_value", 0)))
+    except Exception as e:
+        print(f"查询 {measurement} 失败: {e}")
+    return result
+
+
+def _count_rounds_new_first(scenario: str, start_str: str, end_str: str, list_name: str) -> int:
+    """单场景轮数：新表优先，新表无数据才回退旧表（防止双表双算）"""
+    total = _query_count(
+        _flux_count_rounds(NEW_SCORE_MEASUREMENT, scenario, start_str, end_str, list_name),
+        NEW_SCORE_MEASUREMENT,
+    )
+    if total > 0:
+        return total
+    return _query_count(
+        _flux_count_rounds(OLD_SCORE_MEASUREMENT, scenario, start_str, end_str, list_name),
+        OLD_SCORE_MEASUREMENT,
+    )
+
+
 # ==================== aim_scenario 查询 ====================
 
 def get_scenario_best(scenario: str, start_ts: int, end_ts: int, list_name: str = "viscose-s2-easier") -> Dict[str, Any]:
-    """查某个场景在某段时间内的最佳成绩（score / accuracy），同时查询 aim_scenario 和 kovaak_score"""
+    """查某个场景在某段时间内的最佳成绩（score / accuracy）。
+
+    同时查询 aim_scenario 和 kovaak_score 取 max：max 幂等，
+    旧表数据即使已含在新表内也不会双算，还能兜底旧表独有的点。
+    """
     from datetime import datetime
     
     start_str = datetime.utcfromtimestamp(start_ts).strftime('%Y-%m-%dT%H:%M:%SZ')
@@ -45,91 +134,54 @@ from(bucket: "{db.bucket}")
 
 
 def get_scenario_rounds(scenario: str, start_ts: int, end_ts: int, list_name: str = "viscose-s2-easier") -> int:
-    """查某个场景在某段时间内打了多少轮，同时查询 aim_scenario 和 kovaak_score"""
+    """查某个场景在某段时间内打了多少轮（新表 kovaak_score 优先，旧表 aim_scenario 仅作兜底，不相加）"""
     from datetime import datetime
-    
+
     start_str = datetime.utcfromtimestamp(start_ts).strftime('%Y-%m-%dT%H:%M:%SZ')
     end_str = datetime.utcfromtimestamp(end_ts).strftime('%Y-%m-%dT%H:%M:%SZ')
-    
-    total = 0
-    for measurement in ["aim_scenario", "kovaak_score"]:
-        flux = f'''
-from(bucket: "{db.bucket}")
-  |> range(start: {start_str}, stop: {end_str})
-  |> filter(fn: (r) => r._measurement == "{measurement}" and r.scenario == "{scenario}" and r.list == "{list_name}")
-  |> filter(fn: (r) => r._field == "score")
-  |> group(columns: ["scenario"])
-  |> count()
-'''
-        try:
-            rows = db.query(flux)
-            if rows:
-                total += int(float(rows[0].get("_value", 0)))
-        except Exception as e:
-            print(f"查询 {measurement} 失败: {e}")
-    
-    return total
+
+    return _count_rounds_new_first(scenario, start_str, end_str, list_name)
 
 
 def get_all_scenarios_rounds(start_ts: int, end_ts: int, list_name: str = "viscose-s2-easier") -> Dict[str, int]:
-    """查某段时间内所有场景的打靶轮数（同时查询 aim_scenario 和 kovaak_score）"""
+    """查某段时间内所有场景的打靶轮数。
+
+    新表 kovaak_score 优先；新表整体无数据时整体回退旧表 aim_scenario；
+    新表有数据时，仅对「新表计数为 0」的场景按粒度用旧表兜底。严禁两表相加（会双算）。
+    """
     from datetime import datetime
-    
+
     start_str = datetime.utcfromtimestamp(start_ts).strftime('%Y-%m-%dT%H:%M:%SZ')
     end_str = datetime.utcfromtimestamp(end_ts).strftime('%Y-%m-%dT%H:%M:%SZ')
-    
-    result = {}
-    
-    # 1. 查询 aim_scenario（旧数据格式）
-    flux1 = f'''
-from(bucket: "{db.bucket}")
-  |> range(start: {start_str}, stop: {end_str})
-  |> filter(fn: (r) => r._measurement == "aim_scenario" and r.list == "{list_name}")
-  |> filter(fn: (r) => r._field == "score")
-  |> group(columns: ["scenario"])
-  |> count()
-'''
-    try:
-        rows1 = db.query(flux1)
-        for row in rows1:
-            scenario = row.get("scenario")
-            count = int(float(row.get("_value", 0)))
-            result[scenario] = result.get(scenario, 0) + count
-    except Exception as e:
-        print(f"查询 aim_scenario 失败: {e}")
-    
-    # 2. 查询 kovaak_score（新数据格式）
-    flux2 = f'''
-from(bucket: "{db.bucket}")
-  |> range(start: {start_str}, stop: {end_str})
-  |> filter(fn: (r) => r._measurement == "kovaak_score" and r.list == "{list_name}")
-  |> filter(fn: (r) => r._field == "score")
-  |> group(columns: ["scenario"])
-  |> count()
-'''
-    try:
-        rows2 = db.query(flux2)
-        for row in rows2:
-            scenario = row.get("scenario")
-            count = int(float(row.get("_value", 0)))
-            result[scenario] = result.get(scenario, 0) + count
-    except Exception as e:
-        print(f"查询 kovaak_score 失败: {e}")
-    
+
+    # 1. 新表全量计数
+    result = _query_count_map(
+        _flux_count_all(NEW_SCORE_MEASUREMENT, start_str, end_str, list_name),
+        NEW_SCORE_MEASUREMENT,
+    )
+    if not result:
+        # 2. 新表完全无数据 → 整体回退旧表
+        return _query_count_map(
+            _flux_count_all(OLD_SCORE_MEASUREMENT, start_str, end_str, list_name),
+            OLD_SCORE_MEASUREMENT,
+        )
+
+    # 3. 新表有数据：仅对新表缺失（计数为 0）的场景用旧表兜底，已双算的场景不重复计
+    old_counts = _query_count_map(
+        _flux_count_all(OLD_SCORE_MEASUREMENT, start_str, end_str, list_name),
+        OLD_SCORE_MEASUREMENT,
+    )
+    for scenario, count in old_counts.items():
+        if result.get(scenario, 0) == 0:
+            result[scenario] = count
     return result
 
 
 def get_scenario_history(scenario: str, days: int = 30, list_name: str = "viscose-s2-easier") -> List[Dict[str, Any]]:
-    """查某个场景的历史成绩趋势，同时查询 aim_scenario 和 kovaak_score"""
+    """查某个场景的历史成绩趋势（新表 kovaak_score 优先，旧表仅作兜底，避免同一点在两表重复出现）"""
     result = []
-    for measurement in ["aim_scenario", "kovaak_score"]:
-        flux = f'''
-from(bucket: "{db.bucket}")
-  |> range(start: -{days}d)
-  |> filter(fn: (r) => r._measurement == "{measurement}" and r.scenario == "{scenario}" and r.list == "{list_name}")
-  |> filter(fn: (r) => r._field == "score")
-  |> keep(columns: ["_time", "_value", "scenario"])
-'''
+    for measurement in [NEW_SCORE_MEASUREMENT, OLD_SCORE_MEASUREMENT]:
+        flux = _flux_history(measurement, scenario, days, list_name)
         try:
             rows = db.query(flux)
             for row in rows:
@@ -140,7 +192,9 @@ from(bucket: "{db.bucket}")
                 })
         except Exception as e:
             print(f"查询 {measurement} 失败: {e}")
-    
+        if result:
+            break  # 新表已查到数据，不再查旧表（旧表数据已含在新表内，避免趋势点重复）
+
     # 按时间排序
     result.sort(key=lambda x: x.get("time", ""))
     return result
@@ -380,7 +434,7 @@ def get_extra_scenario_rounds(
     created_at: int,
     list_name: str = "viscose-s2-easier"
 ) -> int:
-    """查加练清单中某个场景的轮数（只统计 created_at 之后的）"""
+    """查加练清单中某个场景的轮数（只统计 created_at 之后的；新表 kovaak_score 优先，旧表仅作兜底，不相加）"""
     from datetime import datetime, timedelta
 
     # 加练清单的开始时间是 created_at
@@ -396,24 +450,7 @@ def get_extra_scenario_rounds(
     # 转义场景名里的引号
     scenario_escaped = scenario.replace('"', '\\"')
 
-    total = 0
-    for measurement in ["aim_scenario", "kovaak_score"]:
-        flux = f'''
-from(bucket: "{db.bucket}")
-  |> range(start: {start_str}, stop: {end_str})
-  |> filter(fn: (r) => r._measurement == "{measurement}" and r.scenario == "{scenario_escaped}" and r.list == "{list_name}")
-  |> filter(fn: (r) => r._field == "score")
-  |> group(columns: ["scenario"])
-  |> count()
-'''
-        try:
-            rows = db.query(flux)
-            if rows:
-                total += int(float(rows[0].get("_value", 0)))
-        except Exception as e:
-            print(f"查询 {measurement} 失败: {e}")
-    
-    return total
+    return _count_rounds_new_first(scenario_escaped, start_str, end_str, list_name)
 
 
 def create_extra_daylist(

@@ -4,7 +4,7 @@
 练枪看板 · 一键更新脚本
 ========================
 按依赖顺序执行完整更新链路：
-  0. 数据导入        Kovaak's stats → /import-aim；Aim Lab → aimlab_import.py；节拍 → tempo_sync.py
+  0. 数据导入        Kovaak's stats → import_all_stats.py（权威表 kovaak_score）；Aim Lab → aimlab_import.py；节拍 → tempo_sync.py
   1. sync_lists.py --build   生成/更新 scenario_lists.json（唯一事实来源）
   2. sync_lists.py            按清单更新 Node-RED flows.json（需先停 aim-nodered）
   3. bench_rows.py            物化 aim_bench_row + aim_bench_meta（最佳分口径 + 实时子类档位）
@@ -43,26 +43,14 @@ def run(script, *args, desc=""):
         print(f"  ✗ 异常: {e}")
         return False
 
-def http_post(path, timeout=300):
-    """调用 Node-RED HTTP 接口（数据导入 / 分析）"""
-    import urllib.request, urllib.error
-    url = "http://127.0.0.1:1881" + path
-    print(f"\n{'='*60}")
-    print(f"  POST {url}")
-    print(f"{'='*60}")
-    try:
-        req = urllib.request.Request(url, data=b"", method="POST")
-        body = urllib.request.urlopen(req, timeout=timeout).read().decode("utf-8", "replace")
-        print("  " + body[:600])
-        return True
-    except Exception as e:
-        print(f"  ✗ 失败: {e}（Node-RED 未启动？先跑 docker compose up -d）")
-        return False
-
-
 def import_data():
-    """步骤 0：把新数据拉进库（Kovaak's → Aim Lab → 节拍）"""
-    ok_a = http_post("/import-aim")
+    """步骤 0：把新数据拉进库（Kovaak's → Aim Lab → 节拍）
+
+    2026-10-16 起：Kovaak's 成绩导入从 Node-RED POST /import-aim（写旧表 aim_scenario）
+    改为 Python import_all_stats.py（写权威表 kovaak_score，自带去重）。
+    旧 /import-aim 链路已废弃——继续写旧表会和新表双表并存、互相污染。
+    """
+    ok_a = run("import_all_stats.py", desc="步骤 0a/6: 导入 Kovaak's stats → kovaak_score")
     ok_b = run("aimlab_import.py", desc="步骤 0b/6: 导入 Aim Lab Replay")
     ok_c = run("tempo_sync.py", desc="步骤 0c/6: 同步节拍 BPM")
     return ok_a and ok_b and ok_c
