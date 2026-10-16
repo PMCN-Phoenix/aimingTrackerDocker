@@ -1,0 +1,367 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>VDIM 训练记录 - Demo</title>
+<script src="https://cdn.tailwindcss.com"></script>
+<style>
+  body { background: #0f172a; color: #e2e8f0; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; }
+  .rank-lemming { background: #78716c; color: #fff; }
+  .rank-hare { background: #f97316; color: #fff; }
+  .rank-ermine { background: #eab308; color: #000; }
+  .rank-penguin { background: #3b82f6; color: #fff; }
+  .rank-fox { background: #a855f7; color: #fff; }
+  .tab-active { background: #1e40af; color: #fff; border-color: #3b82f6; }
+  .tab-done { border-color: #22c55e; }
+  .tab-rest { opacity: 0.5; }
+  .card-hover:hover { background: #1e293b; transition: all 0.2s; }
+</style>
+</head>
+<body class="min-h-screen">
+
+<!-- 顶部导航栏 -->
+<nav class="bg-slate-900 border-b border-slate-700 px-6 py-3 flex items-center gap-6 sticky top-0 z-50">
+  <div class="text-lg font-bold text-white">🎯 Aim Tracker</div>
+  <div class="flex gap-1">
+    <a href="#" class="px-4 py-2 rounded text-slate-300 hover:bg-slate-800">首页</a>
+    <a href="#" class="px-4 py-2 rounded text-slate-300 hover:bg-slate-800">Viscose清单</a>
+    <a href="#" class="px-4 py-2 rounded bg-blue-600 text-white font-medium">🔥 VDIM训练</a>
+    <a href="#" class="px-4 py-2 rounded text-slate-300 hover:bg-slate-800">基准总览</a>
+    <a href="#" class="px-4 py-2 rounded text-slate-300 hover:bg-slate-800">感悟</a>
+  </div>
+  <div class="ml-auto text-sm text-slate-400">2026-10-09 周五 · Day1</div>
+</nav>
+
+<div class="max-w-7xl mx-auto px-6 py-6">
+
+  <!-- 页面标题 -->
+  <div class="mb-6">
+    <h1 class="text-2xl font-bold text-white">VDIM 训练记录</h1>
+    <p class="text-slate-400 text-sm mt-1">Voltaic Daily Improvement Method · Novice 级别 · 从 2026-10-09 开始</p>
+  </div>
+
+  <!-- 顶部概览卡片 -->
+  <div class="grid grid-cols-4 gap-4 mb-6">
+    <!-- 今天练什么 -->
+    <div class="bg-slate-800 rounded-lg p-4 border border-slate-700">
+      <div class="text-xs text-slate-400 mb-1">今天练什么</div>
+      <div class="text-lg font-bold text-white">Day1 · 平滑跟枪</div>
+      <div class="text-xs text-slate-400 mt-1">Smooth Tracking</div>
+      <div class="mt-2 flex items-center gap-2">
+        <code class="text-xs bg-slate-700 px-2 py-1 rounded text-green-400">KovaaKsStrikingAfkBm</code>
+        <button class="text-xs text-blue-400 hover:text-blue-300">复制</button>
+      </div>
+    </div>
+    <!-- 连续打卡 -->
+    <div class="bg-slate-800 rounded-lg p-4 border border-slate-700">
+      <div class="text-xs text-slate-400 mb-1">连续打卡</div>
+      <div class="text-3xl font-bold text-orange-400">🔥 0</div>
+      <div class="text-xs text-slate-400 mt-1">天 · 今天还没练</div>
+      <div class="mt-2 h-1.5 bg-slate-700 rounded-full overflow-hidden">
+        <div class="h-full bg-orange-500 rounded-full" style="width: 0%"></div>
+      </div>
+    </div>
+    <!-- 本周完成率 -->
+    <div class="bg-slate-800 rounded-lg p-4 border border-slate-700">
+      <div class="text-xs text-slate-400 mb-1">本周完成率</div>
+      <div class="text-3xl font-bold text-blue-400">0/6</div>
+      <div class="text-xs text-slate-400 mt-1">0% · 第1周</div>
+      <div class="mt-2 h-1.5 bg-slate-700 rounded-full overflow-hidden">
+        <div class="h-full bg-blue-500 rounded-full" style="width: 0%"></div>
+      </div>
+    </div>
+    <!-- Gold 进度 -->
+    <div class="bg-slate-800 rounded-lg p-4 border border-slate-700">
+      <div class="text-xs text-slate-400 mb-1">Gold Complete 进度</div>
+      <div class="text-3xl font-bold text-yellow-400">10/12</div>
+      <div class="text-xs text-slate-400 mt-1">83% · 差 Wrist, Reading</div>
+      <div class="mt-2 h-1.5 bg-slate-700 rounded-full overflow-hidden">
+        <div class="h-full bg-yellow-500 rounded-full" style="width: 83%"></div>
+      </div>
+    </div>
+  </div>
+
+  <!-- 训练日切换 Tab -->
+  <div class="flex gap-2 mb-6 overflow-x-auto pb-2">
+    <button class="tab-active px-4 py-2 rounded-lg border text-sm font-medium whitespace-nowrap">
+      Day1 · 平滑跟枪
+    </button>
+    <button class="px-4 py-2 rounded-lg border border-slate-700 text-slate-400 text-sm hover:bg-slate-800 whitespace-nowrap">
+      Day2 · 反应跟枪
+    </button>
+    <button class="px-4 py-2 rounded-lg border border-slate-700 text-slate-400 text-sm hover:bg-slate-800 whitespace-nowrap">
+      Day3 · 速度转火
+    </button>
+    <button class="px-4 py-2 rounded-lg border border-slate-700 text-slate-400 text-sm hover:bg-slate-800 whitespace-nowrap">
+      Day4 · 移动瞄准
+    </button>
+    <button class="px-4 py-2 rounded-lg border border-slate-700 text-slate-400 text-sm hover:bg-slate-800 whitespace-nowrap">
+      Day5 · 动态点击
+    </button>
+    <button class="px-4 py-2 rounded-lg border border-slate-700 text-slate-400 text-sm hover:bg-slate-800 whitespace-nowrap">
+      Day6 · 静态点击
+    </button>
+    <button class="tab-rest px-4 py-2 rounded-lg border border-slate-700 text-slate-500 text-sm whitespace-nowrap">
+      😴 Day7 · 休息
+    </button>
+  </div>
+
+  <!-- 当前训练日详情 -->
+  <div class="bg-slate-800 rounded-lg p-5 border border-slate-700 mb-6">
+    <div class="flex items-start justify-between">
+      <div>
+        <h2 class="text-xl font-bold text-white">🎯 Day1：平滑跟枪 (Smooth Tracking)</h2>
+        <p class="text-slate-400 text-sm mt-1">你的最弱主题，Wrist 子类整体 Hare，Whisphere 是唯一的 Lemming</p>
+      </div>
+      <div class="text-right text-xs text-slate-400">
+        <div>推荐 FOV：<span class="text-white">103</span></div>
+        <div>推荐灵敏度：<span class="text-white">20 - 50cm/360</span></div>
+        <div>场景数：<span class="text-white">16 个</span></div>
+      </div>
+    </div>
+    <div class="mt-3 flex items-center gap-3">
+      <span class="text-xs text-slate-400">分享码：</span>
+      <code class="text-sm bg-slate-700 px-3 py-1.5 rounded text-green-400 font-mono">KovaaKsStrikingAfkBm</code>
+      <button class="text-xs bg-blue-600 hover:bg-blue-500 text-white px-3 py-1.5 rounded">复制分享码</button>
+      <button class="text-xs bg-slate-700 hover:bg-slate-600 text-white px-3 py-1.5 rounded">在 Kovaak's 中打开</button>
+    </div>
+  </div>
+
+  <!-- 基准场景（有档位对比） -->
+  <div class="mb-6">
+    <h3 class="text-lg font-bold text-white mb-3 flex items-center gap-2">
+      <span class="w-1 h-5 bg-yellow-500 rounded"></span>
+      基准场景（有档位对比）
+      <span class="text-xs font-normal text-slate-400">· 2 个 · 和 Viscose 基准共用档位线</span>
+    </h3>
+    <div class="bg-slate-800 rounded-lg border border-slate-700 overflow-hidden">
+      <!-- 表头 -->
+      <div class="grid grid-cols-12 gap-4 px-4 py-3 bg-slate-900 text-xs text-slate-400 font-medium">
+        <div class="col-span-4">场景名</div>
+        <div class="col-span-2 text-center">最新分数</div>
+        <div class="col-span-1 text-center">档位</div>
+        <div class="col-span-2 text-center">下一档位</div>
+        <div class="col-span-1 text-center">差距</div>
+        <div class="col-span-2 text-center">操作</div>
+      </div>
+      <!-- 场景行 1 -->
+      <div class="grid grid-cols-12 gap-4 px-4 py-3 border-t border-slate-700 items-center card-hover">
+        <div class="col-span-4">
+          <div class="text-white text-sm font-medium">Controlsphere</div>
+          <div class="text-xs text-slate-500">Control Tracking · Wrist</div>
+        </div>
+        <div class="col-span-2 text-center">
+          <div class="text-white text-lg font-bold">—</div>
+          <div class="text-xs text-slate-500">还没练</div>
+        </div>
+        <div class="col-span-1 text-center">
+          <span class="rank-hare text-xs px-2 py-1 rounded font-medium">Hare</span>
+        </div>
+        <div class="col-span-2 text-center text-sm text-slate-300">Ermine</div>
+        <div class="col-span-1 text-center text-sm text-orange-400">+461</div>
+        <div class="col-span-2 text-center">
+          <button class="text-xs text-blue-400 hover:text-blue-300 mr-2">详情</button>
+          <button class="text-xs text-slate-400 hover:text-white">补录</button>
+        </div>
+      </div>
+      <!-- 场景行 2 -->
+      <div class="grid grid-cols-12 gap-4 px-4 py-3 border-t border-slate-700 items-center card-hover">
+        <div class="col-span-4">
+          <div class="text-white text-sm font-medium">Smoothsphere</div>
+          <div class="text-xs text-slate-500">Control Tracking · Arm</div>
+        </div>
+        <div class="col-span-2 text-center">
+          <div class="text-white text-lg font-bold">9372</div>
+          <div class="text-xs text-green-400">↑ 历史最高</div>
+        </div>
+        <div class="col-span-1 text-center">
+          <span class="rank-penguin text-xs px-2 py-1 rounded font-medium">Penguin</span>
+        </div>
+        <div class="col-span-2 text-center text-sm text-slate-300">Fox</div>
+        <div class="col-span-1 text-center text-sm text-orange-400">+628</div>
+        <div class="col-span-2 text-center">
+          <button class="text-xs text-blue-400 hover:text-blue-300 mr-2">详情</button>
+          <button class="text-xs text-slate-400 hover:text-white">补录</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- 训练场景（只有分数） -->
+  <div class="mb-6">
+    <h3 class="text-lg font-bold text-white mb-3 flex items-center gap-2">
+      <span class="w-1 h-5 bg-blue-500 rounded"></span>
+      训练场景（只有分数，无档位）
+      <span class="text-xs font-normal text-slate-400">· 14 个 · 纯练动作，不对比档位</span>
+    </h3>
+    <div class="bg-slate-800 rounded-lg border border-slate-700 overflow-hidden">
+      <div class="grid grid-cols-12 gap-4 px-4 py-3 bg-slate-900 text-xs text-slate-400 font-medium">
+        <div class="col-span-5">场景名</div>
+        <div class="col-span-2 text-center">最新分数</div>
+        <div class="col-span-2 text-center">历史最高</div>
+        <div class="col-span-1 text-center">训练次数</div>
+        <div class="col-span-2 text-center">操作</div>
+      </div>
+      <!-- 训练场景行（示例前5个） -->
+      <div class="grid grid-cols-12 gap-4 px-4 py-3 border-t border-slate-700 items-center card-hover">
+        <div class="col-span-5">
+          <div class="text-white text-sm">Revolving Tracking Slow</div>
+          <div class="text-xs text-slate-500">热身 · 手臂大范围跟枪</div>
+        </div>
+        <div class="col-span-2 text-center text-slate-400">—</div>
+        <div class="col-span-2 text-center text-slate-400">—</div>
+        <div class="col-span-1 text-center text-slate-400">0</div>
+        <div class="col-span-2 text-center">
+          <button class="text-xs text-blue-400 hover:text-blue-300 mr-2">详情</button>
+          <button class="text-xs text-slate-400 hover:text-white">补录</button>
+        </div>
+      </div>
+      <div class="grid grid-cols-12 gap-4 px-4 py-3 border-t border-slate-700 items-center card-hover">
+        <div class="col-span-5">
+          <div class="text-white text-sm">Centering II 180 no strafes easier</div>
+          <div class="text-xs text-slate-500">中心定位 · 180度转身</div>
+        </div>
+        <div class="col-span-2 text-center text-slate-400">—</div>
+        <div class="col-span-2 text-center text-slate-400">—</div>
+        <div class="col-span-1 text-center text-slate-400">0</div>
+        <div class="col-span-2 text-center">
+          <button class="text-xs text-blue-400 hover:text-blue-300 mr-2">详情</button>
+          <button class="text-xs text-slate-400 hover:text-white">补录</button>
+        </div>
+      </div>
+      <div class="grid grid-cols-12 gap-4 px-4 py-3 border-t border-slate-700 items-center card-hover">
+        <div class="col-span-5">
+          <div class="text-white text-sm">tamTargetSwitch Control</div>
+          <div class="text-xs text-slate-500">目标切换 · 控制型</div>
+        </div>
+        <div class="col-span-2 text-center text-slate-400">—</div>
+        <div class="col-span-2 text-center text-slate-400">—</div>
+        <div class="col-span-1 text-center text-slate-400">0</div>
+        <div class="col-span-2 text-center">
+          <button class="text-xs text-blue-400 hover:text-blue-300 mr-2">详情</button>
+          <button class="text-xs text-slate-400 hover:text-white">补录</button>
+        </div>
+      </div>
+      <div class="grid grid-cols-12 gap-4 px-4 py-3 border-t border-slate-700 items-center card-hover">
+        <div class="col-span-5">
+          <div class="text-white text-sm">VT Smoothbot Novice</div>
+          <div class="text-xs text-slate-500">平滑跟枪 · 新手版</div>
+        </div>
+        <div class="col-span-2 text-center text-slate-400">—</div>
+        <div class="col-span-2 text-center text-slate-400">—</div>
+        <div class="col-span-1 text-center text-slate-400">0</div>
+        <div class="col-span-2 text-center">
+          <button class="text-xs text-blue-400 hover:text-blue-300 mr-2">详情</button>
+          <button class="text-xs text-slate-400 hover:text-white">补录</button>
+        </div>
+      </div>
+      <div class="grid grid-cols-12 gap-4 px-4 py-3 border-t border-slate-700 items-center card-hover">
+        <div class="col-span-5">
+          <div class="text-white text-sm">VT PreciseOrb Novice</div>
+          <div class="text-xs text-slate-500">精准轨道 · 新手版</div>
+        </div>
+        <div class="col-span-2 text-center text-slate-400">—</div>
+        <div class="col-span-2 text-center text-slate-400">—</div>
+        <div class="col-span-1 text-center text-slate-400">0</div>
+        <div class="col-span-2 text-center">
+          <button class="text-xs text-blue-400 hover:text-blue-300 mr-2">详情</button>
+          <button class="text-xs text-slate-400 hover:text-white">补录</button>
+        </div>
+      </div>
+      <!-- 更多场景提示 -->
+      <div class="px-4 py-3 border-t border-slate-700 text-center text-xs text-slate-500">
+        ... 还有 9 个训练场景，点击展开查看全部 14 个
+      </div>
+    </div>
+  </div>
+
+  <!-- 打卡操作栏 -->
+  <div class="bg-slate-800 rounded-lg p-5 border border-slate-700 mb-6">
+    <h3 class="text-lg font-bold text-white mb-4">✅ 训练打卡 & 操作</h3>
+    <div class="flex gap-3 flex-wrap">
+      <button class="bg-green-600 hover:bg-green-500 text-white px-5 py-2.5 rounded-lg font-medium text-sm flex items-center gap-2">
+        ✅ 今天练了！打卡
+      </button>
+      <button class="bg-blue-600 hover:bg-blue-500 text-white px-5 py-2.5 rounded-lg font-medium text-sm flex items-center gap-2">
+        📥 从 stats 导入分数
+      </button>
+      <button class="bg-slate-700 hover:bg-slate-600 text-white px-5 py-2.5 rounded-lg font-medium text-sm flex items-center gap-2">
+        ✏️ 手动补录分数
+      </button>
+      <button class="bg-slate-700 hover:bg-slate-600 text-white px-5 py-2.5 rounded-lg font-medium text-sm flex items-center gap-2">
+        📝 写训练感悟
+      </button>
+    </div>
+    <div class="mt-4 text-xs text-slate-500">
+      💡 提示：练完后点击"从 stats 导入分数"自动识别今天的训练记录；如果某天没练，后面可以用"手动补录分数"补录，按训练日 Day 归类。
+    </div>
+  </div>
+
+  <!-- 和 Viscose 页面的对比说明 -->
+  <div class="bg-slate-800 rounded-lg p-5 border border-slate-700 mb-6">
+    <h3 class="text-lg font-bold text-white mb-4">🔗 和 Viscose 清单页面的关系</h3>
+    <div class="grid grid-cols-2 gap-6">
+      <div>
+        <h4 class="text-sm font-bold text-blue-400 mb-2">Viscose 清单页面（现有）</h4>
+        <ul class="text-xs text-slate-400 space-y-1.5">
+          <li>• 按 Day1-Day8 组织，每天是定制的弱项攻坚清单</li>
+          <li>• 场景都是 Viscose S2 Easier 基准场景</li>
+          <li>• 每个场景都有档位线对比（Lemming→Fox）</li>
+          <li>• 目标：冲档位、过 Gold Complete</li>
+          <li>• 数据存在 kovaak_score measurement</li>
+        </ul>
+      </div>
+      <div>
+        <h4 class="text-sm font-bold text-orange-400 mb-2">VDIM 训练页面（新增）</h4>
+        <ul class="text-xs text-slate-400 space-y-1.5">
+          <li>• 按 Day1-Day6 循环，每天是固定主题的系统训练</li>
+          <li>• 场景分两组：基准场景（有档位）+ 训练场景（只有分数）</li>
+          <li>• 基准场景和 Viscose 共用档位线，训练场景无档位</li>
+          <li>• 目标：系统提升基础能力，6 大主题均衡发展</li>
+          <li>• 数据存在 vdim_score measurement（独立存储）</li>
+        </ul>
+      </div>
+    </div>
+    <div class="mt-4 pt-4 border-t border-slate-700">
+      <h4 class="text-sm font-bold text-white mb-2">共用的部分</h4>
+      <div class="flex gap-4 flex-wrap text-xs">
+        <span class="bg-slate-700 px-3 py-1.5 rounded text-slate-300">📝 感悟系统（aim_reflection，加 type=vdim 区分）</span>
+        <span class="bg-slate-700 px-3 py-1.5 rounded text-slate-300">📊 基准档位线（S2-官方分类诊断.json）</span>
+        <span class="bg-slate-700 px-3 py-1.5 rounded text-slate-300">🏆 Gold Complete 进度（从基准数据计算）</span>
+        <span class="bg-slate-700 px-3 py-1.5 rounded text-slate-300">🎨 深色主题 + Ant Design 组件</span>
+      </div>
+    </div>
+  </div>
+
+  <!-- 第二版预留（灰色占位） -->
+  <div class="bg-slate-800/50 rounded-lg p-5 border border-dashed border-slate-600 mb-6">
+    <h3 class="text-lg font-bold text-slate-400 mb-3">📈 进度追踪区（第二版）</h3>
+    <p class="text-xs text-slate-500 mb-4">以下功能在第二版实现，MVP 先不做：</p>
+    <div class="grid grid-cols-3 gap-4">
+      <div class="bg-slate-900/50 rounded-lg p-4 text-center">
+        <div class="text-2xl mb-2">📈</div>
+        <div class="text-sm text-slate-400 font-medium">6 大主题进步曲线</div>
+        <div class="text-xs text-slate-600 mt-1">每个主题的分数随时间变化</div>
+      </div>
+      <div class="bg-slate-900/50 rounded-lg p-4 text-center">
+        <div class="text-2xl mb-2">🏆</div>
+        <div class="text-sm text-slate-400 font-medium">Gold Complete 可视化</div>
+        <div class="text-xs text-slate-600 mt-1">12 子类进度环形图</div>
+      </div>
+      <div class="bg-slate-900/50 rounded-lg p-4 text-center">
+        <div class="text-2xl mb-2">📊</div>
+        <div class="text-sm text-slate-400 font-medium">基准测试对比</div>
+        <div class="text-xs text-slate-600 mt-1">起点 vs 第2次 vs 第4次</div>
+      </div>
+    </div>
+  </div>
+
+  <div class="text-center text-xs text-slate-600 py-4">
+    VDIM 训练记录页面 Demo · 静态预览版 · 数据为模拟数据
+  </div>
+
+</div>
+
+</body>
+</html>

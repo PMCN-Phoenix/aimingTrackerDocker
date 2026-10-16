@@ -1,0 +1,321 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>VDIM 训练记录 - Demo (Ant Design 风格)</title>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/antd/5.12.0/reset.min.css">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/react/18.2.0/umd/react.production.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/react-dom/18.2.0/umd/react-dom.production.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/dayjs/1.11.10/dayjs.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/antd/5.12.0/antd.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/@ant-design/icons/5.2.6/index.umd.min.js"></script>
+<style>
+  body { margin: 0; background: #f5f5f5; }
+  .demo-header { background: #001529; padding: 0 24px; display: flex; align-items: center; height: 64px; }
+  .demo-logo { color: #fff; font-size: 18px; font-weight: bold; margin-right: 48px; }
+  .demo-menu { flex: 1; }
+  .demo-content { padding: 24px; max-width: 1400px; margin: 0 auto; }
+  .filter-bar { margin-bottom: 24px; display: flex; gap: 16px; align-items: center; flex-wrap: wrap; }
+  .stat-card { background: #fff; border-radius: 8px; padding: 20px; box-shadow: 0 1px 2px rgba(0,0,0,0.06); }
+  .stat-label { color: rgba(0,0,0,0.45); font-size: 14px; margin-bottom: 8px; }
+  .stat-value { font-size: 24px; font-weight: 600; color: rgba(0,0,0,0.88); }
+  .stat-extra { font-size: 12px; color: rgba(0,0,0,0.45); margin-top: 4px; }
+  .section-title { font-size: 16px; font-weight: 600; margin: 24px 0 16px; color: rgba(0,0,0,0.88); }
+  .info-card { background: #fff; border-radius: 8px; padding: 20px; margin-bottom: 16px; box-shadow: 0 1px 2px rgba(0,0,0,0.06); }
+  .action-bar { background: #fff; border-radius: 8px; padding: 20px; margin: 16px 0; box-shadow: 0 1px 2px rgba(0,0,0,0.06); display: flex; gap: 12px; flex-wrap: wrap; align-items: center; }
+  .link-section { background: #fff; border-radius: 8px; padding: 20px; margin: 16px 0; box-shadow: 0 1px 2px rgba(0,0,0,0.06); }
+  .cycle-tag { margin-left: 8px; }
+</style>
+</head>
+<body>
+<div id="root"></div>
+
+<script>
+const { useState } = React;
+const { Layout, Menu, Select, Button, DatePicker, Table, Tag, Progress, Card, Statistic, Row, Col, Modal, Form, Input, InputNumber, message, Tabs, Tooltip, Divider } = antd;
+const { Header, Content } = Layout;
+const { ReloadOutlined, PlusOutlined, CheckCircleOutlined, ImportOutlined, EditOutlined, FileTextOutlined, LinkOutlined, FireOutlined, TrophyOutlined, CalendarOutlined } = icons;
+const { RangePicker } = DatePicker;
+
+// 模拟数据
+const benchmarkScenarios = [
+  { key: '1', order: 1, scenario: 'Controlsphere', category: 'Control Tracking', sub: 'Wrist', score: null, rank: 'Hare', nextRank: 'Ermine', gap: 461, trend: null, status: '未开始' },
+  { key: '2', order: 2, scenario: 'Smoothsphere', category: 'Control Tracking', sub: 'Arm', score: 9372, rank: 'Penguin', nextRank: 'Fox', gap: 628, trend: 'up', status: '已完成' },
+];
+
+const trainingScenarios = [
+  { key: '1', order: 1, scenario: 'Revolving Tracking Slow', score: null, best: null, count: 0, status: '未开始' },
+  { key: '2', order: 2, scenario: 'Centering II 180 no strafes easier', score: null, best: null, count: 0, status: '未开始' },
+  { key: '3', order: 3, scenario: 'Smooth Thin Strafes Raspberry Easy', score: null, best: null, count: 0, status: '未开始' },
+  { key: '4', order: 4, scenario: 'tamTargetSwitch Control', score: null, best: null, count: 0, status: '未开始' },
+  { key: '5', order: 5, scenario: 'tamTargetSwitch Smooth', score: null, best: null, count: 0, status: '未开始' },
+  { key: '6', order: 6, scenario: 'VT Smoothbot Novice', score: null, best: null, count: 0, status: '未开始' },
+  { key: '7', order: 7, scenario: 'e1se Glider 30s Normal', score: null, best: null, count: 0, status: '未开始' },
+  { key: '8', order: 8, scenario: 'B360TI Sparky', score: null, best: null, count: 0, status: '未开始' },
+  { key: '9', order: 9, scenario: 'vertical smoothness training popcorn', score: null, best: null, count: 0, status: '未开始' },
+  { key: '10', order: 10, scenario: 'PGTI Voltaic Easy 100% Bigger', score: null, best: null, count: 0, status: '未开始' },
+  { key: '11', order: 11, scenario: 'VT PreciseOrb Intermediate 20% Slower', score: null, best: null, count: 0, status: '未开始' },
+  { key: '12', order: 12, scenario: 'PGTI Voltaic Easy UFO', score: null, best: null, count: 0, status: '未开始' },
+  { key: '13', order: 13, scenario: 'VT PreciseOrb Intermediate Small', score: null, best: null, count: 0, status: '未开始' },
+  { key: '14', order: 14, scenario: 'VT PreciseOrb Novice', score: null, best: null, count: 0, status: '未开始' },
+];
+
+// 周期选项
+const cycleOptions = [
+  { value: 1, label: '第1周 (10/09 - 10/15)' },
+  { value: 2, label: '第2周 (10/16 - 10/22)' },
+  { value: 3, label: '第3周 (10/23 - 10/29)' },
+  { value: 4, label: '第4周 (10/30 - 11/05)' },
+];
+
+// 训练日选项
+const dayOptions = [
+  { value: 'Day1', label: 'Day1 · 平滑跟枪' },
+  { value: 'Day2', label: 'Day2 · 反应跟枪' },
+  { value: 'Day3', label: 'Day3 · 速度转火' },
+  { value: 'Day4', label: 'Day4 · 移动瞄准' },
+  { value: 'Day5', label: 'Day5 · 动态点击' },
+  { value: 'Day6', label: 'Day6 · 静态点击' },
+  { value: 'Day7', label: 'Day7 · 休息' },
+];
+
+// 档位颜色
+const rankColors = {
+  'Lemming': 'default',
+  'Hare': 'orange',
+  'Ermine': 'gold',
+  'Penguin': 'blue',
+  'Fox': 'purple',
+};
+
+function App() {
+  const [selectedCycle, setSelectedCycle] = useState(1);
+  const [selectedDay, setSelectedDay] = useState('Day1');
+  const [dateRange, setDateRange] = useState([dayjs(), dayjs()]);
+
+  // 基准场景表格列
+  const benchmarkColumns = [
+    { title: '顺序', dataIndex: 'order', key: 'order', width: 60 },
+    { title: '场景名', dataIndex: 'scenario', key: 'scenario', render: (text) => <a>{text}</a> },
+    { title: '分类', dataIndex: 'category', key: 'category', width: 140 },
+    { title: '子类', dataIndex: 'sub', key: 'sub', width: 100 },
+    { title: '最新分数', dataIndex: 'score', key: 'score', width: 100, render: (v) => v || <span style={{color: '#bfbfbf'}}>—</span> },
+    { title: '档位', dataIndex: 'rank', key: 'rank', width: 80, render: (v) => <Tag color={rankColors[v]}>{v}</Tag> },
+    { title: '下一档位', dataIndex: 'nextRank', key: 'nextRank', width: 80 },
+    { title: '差距', dataIndex: 'gap', key: 'gap', width: 80, render: (v) => <span style={{color: '#fa8c16'}}>+{v}</span> },
+    { title: '状态', dataIndex: 'status', key: 'status', width: 80, render: (v) => <Tag color={v === '已完成' ? 'green' : 'default'}>{v}</Tag> },
+  ];
+
+  // 训练场景表格列
+  const trainingColumns = [
+    { title: '顺序', dataIndex: 'order', key: 'order', width: 60 },
+    { title: '场景名', dataIndex: 'scenario', key: 'scenario', render: (text) => <a>{text}</a> },
+    { title: '最新分数', dataIndex: 'score', key: 'score', width: 100, render: (v) => v || <span style={{color: '#bfbfbf'}}>—</span> },
+    { title: '历史最高', dataIndex: 'best', key: 'best', width: 100, render: (v) => v || <span style={{color: '#bfbfbf'}}>—</span> },
+    { title: '训练次数', dataIndex: 'count', key: 'count', width: 80 },
+    { title: '状态', dataIndex: 'status', key: 'status', width: 80, render: (v) => <Tag color={v === '已完成' ? 'green' : 'default'}>{v}</Tag> },
+  ];
+
+  return (
+    <Layout style={{ minHeight: '100vh' }}>
+      {/* 顶部导航栏 - 和现有一致 */}
+      <Header style={{ display: 'flex', alignItems: 'center', padding: '0 24px' }}>
+        <div style={{ color: 'white', fontSize: '18px', fontWeight: 'bold', marginRight: '48px' }}>
+          🎯 练枪看板
+        </div>
+        <Menu theme="dark" mode="horizontal" selectedKeys={['vdim']} style={{ flex: 1 }}
+          items={[
+            { key: 'daylist', label: <a href="#">今日清单</a> },
+            { key: 'vdim', label: <a href="#">VDIM训练</a> },
+            { key: 'benchmark', label: <a href="#">基准总览</a> },
+            { key: 'aimlab', label: <a href="#">Aim Lab</a> },
+            { key: 'reflection', label: <a href="#">游戏感悟</a> },
+          ]}
+        />
+      </Header>
+
+      <Content style={{ padding: '24px', maxWidth: '1400px', width: '100%', margin: '0 auto' }}>
+        {/* 过滤器栏 - 和现有 Daylist 页面一致 */}
+        <div className="filter-bar">
+          <Select
+            value={selectedCycle}
+            onChange={setSelectedCycle}
+            style={{ width: 220 }}
+            options={cycleOptions}
+            suffixIcon={<CalendarOutlined />}
+          />
+          <Select
+            value={selectedDay}
+            onChange={setSelectedDay}
+            style={{ width: 200 }}
+            options={dayOptions}
+          />
+          <RangePicker value={dateRange} onChange={setDateRange} />
+          <Button type="primary" icon={<ReloadOutlined />}>刷新</Button>
+          <div style={{ marginLeft: 'auto', color: 'rgba(0,0,0,0.45)', fontSize: '13px' }}>
+            当前：第{selectedCycle}周 · {selectedDay} · 平滑跟枪
+          </div>
+        </div>
+
+        {/* 概览统计卡片 - 4个 */}
+        <Row gutter={16} style={{ marginBottom: '16px' }}>
+          <Col span={6}>
+            <div className="stat-card">
+              <div className="stat-label"><FireOutlined style={{marginRight: 4}} /> 今天练什么</div>
+              <div className="stat-value">Day1 · 平滑跟枪</div>
+              <div className="stat-extra">
+                分享码：<code style={{background: '#f5f5f5', padding: '2px 6px', borderRadius: 4, fontSize: 11}}>KovaaKsStrikingAfkBm</code>
+                <Button type="link" size="small" style={{padding: '0 4px', fontSize: 12}}>复制</Button>
+              </div>
+            </div>
+          </Col>
+          <Col span={6}>
+            <div className="stat-card">
+              <div className="stat-label">连续打卡</div>
+              <div className="stat-value" style={{color: '#fa8c16'}}>🔥 0 天</div>
+              <div className="stat-extra">今天还没练 · 第1周</div>
+              <Progress percent={0} size="small" style={{marginTop: 8}} />
+            </div>
+          </Col>
+          <Col span={6}>
+            <div className="stat-card">
+              <div className="stat-label">本周完成率</div>
+              <div className="stat-value" style={{color: '#1677ff'}}>0/6</div>
+              <div className="stat-extra">0% · 6 天训练 + 1 天休息</div>
+              <Progress percent={0} size="small" style={{marginTop: 8}} />
+            </div>
+          </Col>
+          <Col span={6}>
+            <div className="stat-card">
+              <div className="stat-label"><TrophyOutlined style={{marginRight: 4}} /> Gold Complete</div>
+              <div className="stat-value" style={{color: '#d4b106'}}>10/12</div>
+              <div className="stat-extra">83% · 差 Wrist, Reading</div>
+              <Progress percent={83} size="small" strokeColor="#d4b106" style={{marginTop: 8}} />
+            </div>
+          </Col>
+        </Row>
+
+        {/* 训练日详情卡片 */}
+        <div className="info-card">
+          <Row justify="space-between" align="top">
+            <Col>
+              <h2 style={{margin: '0 0 8px', fontSize: 20}}>🎯 Day1：平滑跟枪 (Smooth Tracking)</h2>
+              <p style={{margin: 0, color: 'rgba(0,0,0,0.65)', fontSize: 14}}>
+                你的最弱主题，Wrist 子类整体 Hare，Whisphere 是唯一的 Lemming。重点提升手腕控制和平滑跟枪能力。
+              </p>
+            </Col>
+            <Col style={{textAlign: 'right', fontSize: 13, color: 'rgba(0,0,0,0.45)'}}>
+              <div>推荐 FOV：<span style={{color: 'rgba(0,0,0,0.88)'}}>103</span></div>
+              <div>推荐灵敏度：<span style={{color: 'rgba(0,0,0,0.88)'}}>20 - 50cm/360</span></div>
+              <div>场景数：<span style={{color: 'rgba(0,0,0,0.88)'}}>16 个（2基准 + 14训练）</span></div>
+            </Col>
+          </Row>
+          <Divider style={{margin: '16px 0'}} />
+          <div style={{display: 'flex', gap: 12, alignItems: 'center', flexWrap: 'wrap'}}>
+            <span style={{fontSize: 13, color: 'rgba(0,0,0,0.45)'}}>分享码：</span>
+            <code style={{background: '#f5f5f5', padding: '4px 12px', borderRadius: 6, fontSize: 13, color: '#52c41a'}}>KovaaKsStrikingAfkBm</code>
+            <Button type="primary" size="small">复制分享码</Button>
+            <Button size="small">在 Kovaak's 中打开</Button>
+            <Tag color="blue">Novice 级别</Tag>
+            <Tag color="purple">LG56 版</Tag>
+          </div>
+        </div>
+
+        {/* 操作栏 */}
+        <div className="action-bar">
+          <Button type="primary" icon={<CheckCircleOutlined />} size="large">今天练了！打卡</Button>
+          <Button icon={<ImportOutlined />} size="large">从 stats 导入分数</Button>
+          <Button icon={<EditOutlined />} size="large">手动补录分数</Button>
+          <Button icon={<FileTextOutlined />} size="large">写训练感悟</Button>
+          <div style={{marginLeft: 'auto', fontSize: 12, color: 'rgba(0,0,0,0.45)'}}>
+            💡 练完后点"从 stats 导入"自动识别；补录按训练日 Day 归类，不按实际日期
+          </div>
+        </div>
+
+        {/* 基准场景表格 */}
+        <div className="section-title">
+          <span style={{display: 'inline-block', width: 3, height: 16, background: '#d4b106', marginRight: 8, borderRadius: 2, verticalAlign: 'middle'}}></span>
+          基准场景（有档位对比）
+          <Tag color="default" style={{marginLeft: 8}}>2 个</Tag>
+          <span style={{fontSize: 12, color: 'rgba(0,0,0,0.45)', fontWeight: 'normal', marginLeft: 8}}>和 Viscose 基准共用档位线，点击场景名查看详情</span>
+        </div>
+        <Table columns={benchmarkColumns} dataSource={benchmarkScenarios} pagination={false} size="middle" />
+
+        {/* 训练场景表格 */}
+        <div className="section-title" style={{marginTop: 24}}>
+          <span style={{display: 'inline-block', width: 3, height: 16, background: '#1677ff', marginRight: 8, borderRadius: 2, verticalAlign: 'middle'}}></span>
+          训练场景（只有分数，无档位）
+          <Tag color="default" style={{marginLeft: 8}}>14 个</Tag>
+          <span style={{fontSize: 12, color: 'rgba(0,0,0,0.45)', fontWeight: 'normal', marginLeft: 8}}>纯练动作的基础场景，不对比档位，只记录分数和进步</span>
+        </div>
+        <Table columns={trainingColumns} dataSource={trainingScenarios} pagination={false} size="middle" />
+
+        {/* 和现有页面的链接 */}
+        <div className="link-section" style={{marginTop: 24}}>
+          <div className="section-title" style={{marginTop: 0}}>
+            <LinkOutlined style={{marginRight: 8}} />
+            相关页面跳转
+          </div>
+          <Row gutter={16}>
+            <Col span={8}>
+              <Card size="small" hoverable>
+                <div style={{fontWeight: 600, marginBottom: 4}}>📊 Viscose 基准总览</div>
+                <div style={{fontSize: 12, color: 'rgba(0,0,0,0.45)'}}>查看完整基准测试结果、档位分布、12子类进度</div>
+                <Button type="link" style={{padding: '4px 0', fontSize: 12}}>前往基准总览 →</Button>
+              </Card>
+            </Col>
+            <Col span={8}>
+              <Card size="small" hoverable>
+                <div style={{fontWeight: 600, marginBottom: 4}}>📝 游戏感悟</div>
+                <div style={{fontSize: 12, color: 'rgba(0,0,0,0.45)'}}>查看所有训练感悟（VDIM + Viscose + 游戏），按场景和日期筛选</div>
+                <Button type="link" style={{padding: '4px 0', fontSize: 12}}>前往感悟页面 →</Button>
+              </Card>
+            </Col>
+            <Col span={8}>
+              <Card size="small" hoverable>
+                <div style={{fontWeight: 600, marginBottom: 4}}>📋 Viscose 今日清单</div>
+                <div style={{fontSize: 12, color: 'rgba(0,0,0,0.45)'}}>查看定制的弱项攻坚清单，和 VDIM 系统训练互补</div>
+                <Button type="link" style={{padding: '4px 0', fontSize: 12}}>前往今日清单 →</Button>
+              </Card>
+            </Col>
+          </Row>
+        </div>
+
+        {/* 第二版预留 */}
+        <div style={{marginTop: 24, padding: 20, background: '#fafafa', borderRadius: 8, border: '1px dashed #d9d9d9'}}>
+          <div style={{fontWeight: 600, color: 'rgba(0,0,0,0.45)', marginBottom: 12}}>📈 进度追踪区（第二版实现）</div>
+          <Row gutter={16}>
+            <Col span={8}>
+              <div style={{textAlign: 'center', padding: 16, background: '#fff', borderRadius: 6}}>
+                <div style={{fontSize: 24, marginBottom: 8}}>📈</div>
+                <div style={{fontSize: 13, color: 'rgba(0,0,0,0.45)'}}>6 大主题进步曲线</div>
+              </div>
+            </Col>
+            <Col span={8}>
+              <div style={{textAlign: 'center', padding: 16, background: '#fff', borderRadius: 6}}>
+                <div style={{fontSize: 24, marginBottom: 8}}>🏆</div>
+                <div style={{fontSize: 13, color: 'rgba(0,0,0,0.45)'}}>Gold Complete 可视化</div>
+              </div>
+            </Col>
+            <Col span={8}>
+              <div style={{textAlign: 'center', padding: 16, background: '#fff', borderRadius: 6}}>
+                <div style={{fontSize: 24, marginBottom: 8}}>📊</div>
+                <div style={{fontSize: 13, color: 'rgba(0,0,0,0.45)'}}>基准测试对比（起点→第2次→第4次）</div>
+              </div>
+            </Col>
+          </Row>
+        </div>
+
+        <div style={{textAlign: 'center', color: 'rgba(0,0,0,0.25)', fontSize: 12, padding: '24px 0'}}>
+          VDIM 训练记录页面 Demo · Ant Design 风格 · 数据为模拟数据
+        </div>
+      </Content>
+    </Layout>
+  );
+}
+
+ReactDOM.createRoot(document.getElementById('root')).render(<App />);
+</script>
+</body>
+</html>

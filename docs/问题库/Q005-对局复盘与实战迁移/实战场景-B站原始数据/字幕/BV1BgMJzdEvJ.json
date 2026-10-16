@@ -1,0 +1,1924 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "v1.7.0.4",
+  "body": [
+    {
+      "from": 0.08,
+      "to": 2.04,
+      "sid": 1,
+      "location": 2,
+      "content": "你是否经常单挑死斗乱杀",
+      "music": 0.0
+    },
+    {
+      "from": 2.04,
+      "to": 3.52,
+      "sid": 2,
+      "location": 2,
+      "content": "但是排位中却经常垫底",
+      "music": 0.0
+    },
+    {
+      "from": 3.52,
+      "to": 4.52,
+      "sid": 3,
+      "location": 2,
+      "content": "或者神一把鬼一把",
+      "music": 0.0
+    },
+    {
+      "from": 4.52,
+      "to": 5.64,
+      "sid": 4,
+      "location": 2,
+      "content": "状态极其不稳定",
+      "music": 0.0
+    },
+    {
+      "from": 5.64,
+      "to": 8.2,
+      "sid": 5,
+      "location": 2,
+      "content": "如果我说有一种方法能在一对一对枪中",
+      "music": 0.0
+    },
+    {
+      "from": 8.2,
+      "to": 9.2,
+      "sid": 6,
+      "location": 2,
+      "content": "大大提高你的胜率",
+      "music": 0.0
+    },
+    {
+      "from": 9.2,
+      "to": 10.38,
+      "sid": 7,
+      "location": 2,
+      "content": "你学还是不学",
+      "music": 0.0
+    },
+    {
+      "from": 10.38,
+      "to": 12.34,
+      "sid": 8,
+      "location": 2,
+      "content": "在开始教学前先给自己打个广告",
+      "music": 0.0
+    },
+    {
+      "from": 12.34,
+      "to": 13.98,
+      "sid": 9,
+      "location": 2,
+      "content": "主播马上要作为东区冠军",
+      "music": 0.0
+    },
+    {
+      "from": 13.98,
+      "to": 15.86,
+      "sid": 10,
+      "location": 2,
+      "content": "参加今年的全国大赛线上突围赛",
+      "music": 0.0
+    },
+    {
+      "from": 15.86,
+      "to": 19.559,
+      "sid": 11,
+      "location": 2,
+      "content": "届时次轮会遇上航行所带领的航team比赛",
+      "music": 0.0
+    },
+    {
+      "from": 19.559,
+      "to": 20.579,
+      "sid": 12,
+      "location": 2,
+      "content": "全程官方直播",
+      "music": 0.0
+    },
+    {
+      "from": 20.579,
+      "to": 21.379,
+      "sid": 13,
+      "location": 2,
+      "content": "欢迎大家捧场",
+      "music": 0.0
+    },
+    {
+      "from": 22.499,
+      "to": 23.619,
+      "sid": 14,
+      "location": 2,
+      "content": "OK那现在开始教学",
+      "music": 0.0
+    },
+    {
+      "from": 23.619,
+      "to": 25.84,
+      "sid": 15,
+      "location": 2,
+      "content": "请大家先试想一下这样一个场景",
+      "music": 0.0
+    },
+    {
+      "from": 25.84,
+      "to": 27.6,
+      "sid": 16,
+      "location": 2,
+      "content": "我现在在我现在所在的位置",
+      "music": 0.0
+    },
+    {
+      "from": 27.6,
+      "to": 30.079,
+      "sid": 17,
+      "location": 2,
+      "content": "然后我的对手差不多在掩体后面",
+      "music": 0.0
+    },
+    {
+      "from": 30.079,
+      "to": 31.639,
+      "sid": 18,
+      "location": 2,
+      "content": "就是我正对着我的这个地方",
+      "music": 0.0
+    },
+    {
+      "from": 31.639,
+      "to": 33.239,
+      "sid": 19,
+      "location": 2,
+      "content": "然后这个时候我需要跟他",
+      "music": 0.0
+    },
+    {
+      "from": 33.239,
+      "to": 36.53,
+      "sid": 20,
+      "location": 2,
+      "content": "在短时间内去分出一个胜负啊",
+      "music": 0.0
+    },
+    {
+      "from": 36.53,
+      "to": 38.93,
+      "sid": 21,
+      "location": 2,
+      "content": "此时没有没有身边没有队友的辅助",
+      "music": 0.0
+    },
+    {
+      "from": 38.93,
+      "to": 41.25,
+      "sid": 22,
+      "location": 2,
+      "content": "然后也没有说就是道具的辅助",
+      "music": 0.0
+    },
+    {
+      "from": 41.25,
+      "to": 44.379,
+      "sid": 23,
+      "location": 2,
+      "content": "我们就是仅限于就是一对一的对枪",
+      "music": 0.0
+    },
+    {
+      "from": 44.379,
+      "to": 45.499,
+      "sid": 24,
+      "location": 2,
+      "content": "那我先来说一下",
+      "music": 0.0
+    },
+    {
+      "from": 45.499,
+      "to": 47.239,
+      "sid": 25,
+      "location": 2,
+      "content": "就是该如何操作",
+      "music": 0.0
+    },
+    {
+      "from": 47.239,
+      "to": 49.279,
+      "sid": 26,
+      "location": 2,
+      "content": "以这个绿色箱子为掩体呃",
+      "music": 0.0
+    },
+    {
+      "from": 49.279,
+      "to": 51.059,
+      "sid": 27,
+      "location": 2,
+      "content": "用分段式预瞄的方式",
+      "music": 0.0
+    },
+    {
+      "from": 51.059,
+      "to": 52.739,
+      "sid": 28,
+      "location": 2,
+      "content": "每两次往外拉",
+      "music": 0.0
+    },
+    {
+      "from": 52.739,
+      "to": 55.29,
+      "sid": 29,
+      "location": 2,
+      "content": "然后再每一次往里拉",
+      "music": 0.0
+    },
+    {
+      "from": 55.29,
+      "to": 56.89,
+      "sid": 30,
+      "location": 2,
+      "content": "就是两步往外拉",
+      "music": 0.0
+    },
+    {
+      "from": 56.89,
+      "to": 57.73,
+      "sid": 31,
+      "location": 2,
+      "content": "一步往里拉",
+      "music": 0.0
+    },
+    {
+      "from": 57.73,
+      "to": 60.24,
+      "sid": 32,
+      "location": 2,
+      "content": "然后这个为一组动作呃",
+      "music": 0.0
+    },
+    {
+      "from": 60.24,
+      "to": 62.4,
+      "sid": 33,
+      "location": 2,
+      "content": "我可以给大家解释一下具体的细节",
+      "music": 0.0
+    },
+    {
+      "from": 62.4,
+      "to": 64.38,
+      "sid": 34,
+      "location": 2,
+      "content": "假设我现在出生在这个位置",
+      "music": 0.0
+    },
+    {
+      "from": 64.38,
+      "to": 67.28,
+      "sid": 35,
+      "location": 2,
+      "content": "然后我的面前这个箱子后面肯定有个敌人",
+      "music": 0.0
+    },
+    {
+      "from": 67.28,
+      "to": 68.08,
+      "sid": 36,
+      "location": 2,
+      "content": "对不对",
+      "music": 0.0
+    },
+    {
+      "from": 68.08,
+      "to": 69.52,
+      "sid": 37,
+      "location": 2,
+      "content": "我没我第一步",
+      "music": 0.0
+    },
+    {
+      "from": 69.52,
+      "to": 70.52,
+      "sid": 38,
+      "location": 2,
+      "content": "然后我走第二步",
+      "music": 0.0
+    },
+    {
+      "from": 70.52,
+      "to": 73.34,
+      "sid": 39,
+      "location": 2,
+      "content": "我的第三步是走回到我的第一步所站的位置的",
+      "music": 0.0
+    },
+    {
+      "from": 73.34,
+      "to": 75.0,
+      "sid": 40,
+      "location": 2,
+      "content": "然后我一次往复",
+      "music": 0.0
+    },
+    {
+      "from": 75.0,
+      "to": 76.76,
+      "sid": 41,
+      "location": 2,
+      "content": "然后不停的去做这个动作",
+      "music": 0.0
+    },
+    {
+      "from": 76.76,
+      "to": 78.32,
+      "sid": 42,
+      "location": 2,
+      "content": "不停的去做这个动作",
+      "music": 0.0
+    },
+    {
+      "from": 78.32,
+      "to": 80.92,
+      "sid": 43,
+      "location": 2,
+      "content": "然后终有一次我会在",
+      "music": 0.0
+    },
+    {
+      "from": 81.48,
+      "to": 86.02,
+      "sid": 44,
+      "location": 2,
+      "content": "我会在做出我的踩出我的第二步的时候",
+      "music": 0.0
+    },
+    {
+      "from": 86.02,
+      "to": 88.42,
+      "sid": 45,
+      "location": 2,
+      "content": "因为因为我的第三步是回到我第一步",
+      "music": 0.0
+    },
+    {
+      "from": 88.42,
+      "to": 89.14,
+      "sid": 46,
+      "location": 2,
+      "content": "所站的位置",
+      "music": 0.0
+    },
+    {
+      "from": 89.14,
+      "to": 89.78,
+      "sid": 47,
+      "location": 2,
+      "content": "其实说白了",
+      "music": 0.0
+    },
+    {
+      "from": 89.78,
+      "to": 92.06,
+      "sid": 48,
+      "location": 2,
+      "content": "也就是我以极慢的速度",
+      "music": 0.0
+    },
+    {
+      "from": 92.06,
+      "to": 94.46,
+      "sid": 49,
+      "location": 2,
+      "content": "进行了一个往外的一个搜点",
+      "music": 0.0
+    },
+    {
+      "from": 94.46,
+      "to": 96.59,
+      "sid": 50,
+      "location": 2,
+      "content": "只是我在搜点的同时",
+      "music": 0.0
+    },
+    {
+      "from": 96.59,
+      "to": 98.03,
+      "sid": 51,
+      "location": 2,
+      "content": "就是正常情况下的搜点",
+      "music": 0.0
+    },
+    {
+      "from": 98.03,
+      "to": 99.07,
+      "sid": 52,
+      "location": 2,
+      "content": "我会这样子进步",
+      "music": 0.0
+    },
+    {
+      "from": 99.07,
+      "to": 99.75,
+      "sid": 53,
+      "location": 2,
+      "content": "慢慢搜出来",
+      "music": 0.0
+    },
+    {
+      "from": 99.75,
+      "to": 101.53,
+      "sid": 54,
+      "location": 2,
+      "content": "然后也许对手能看到我的手臂",
+      "music": 0.0
+    },
+    {
+      "from": 101.53,
+      "to": 102.23,
+      "sid": 55,
+      "location": 2,
+      "content": "看到我的头",
+      "music": 0.0
+    },
+    {
+      "from": 102.23,
+      "to": 103.47,
+      "sid": 56,
+      "location": 2,
+      "content": "而此时我没有反应过来",
+      "music": 0.0
+    },
+    {
+      "from": 103.47,
+      "to": 104.77,
+      "sid": 57,
+      "location": 2,
+      "content": "我就会被他先打掉",
+      "music": 0.0
+    },
+    {
+      "from": 104.77,
+      "to": 108.13,
+      "sid": 58,
+      "location": 2,
+      "content": "那我的这个操作就是规避了我所创造出来的",
+      "music": 0.0
+    },
+    {
+      "from": 108.13,
+      "to": 109.01,
+      "sid": 59,
+      "location": 2,
+      "content": "能让他打我的",
+      "music": 0.0
+    },
+    {
+      "from": 109.01,
+      "to": 111.25,
+      "sid": 60,
+      "location": 2,
+      "content": "就抓我timing的这个时机",
+      "music": 0.0
+    },
+    {
+      "from": 112.58,
+      "to": 114.64,
+      "sid": 61,
+      "location": 2,
+      "content": "然后当我每两步",
+      "music": 0.0
+    },
+    {
+      "from": 114.64,
+      "to": 119.23,
+      "sid": 62,
+      "location": 2,
+      "content": "我的第二步一定是比我原先所站的位置要远的",
+      "music": 0.0
+    },
+    {
+      "from": 119.23,
+      "to": 121.71,
+      "sid": 63,
+      "location": 2,
+      "content": "这个大家可以可以理解吧",
+      "music": 0.0
+    },
+    {
+      "from": 121.71,
+      "to": 123.15,
+      "sid": 64,
+      "location": 2,
+      "content": "所以说我的第二部",
+      "music": 0.0
+    },
+    {
+      "from": 123.15,
+      "to": 127.02,
+      "sid": 65,
+      "location": 2,
+      "content": "他是一定就是有几率会看到我的对手的",
+      "music": 0.0
+    },
+    {
+      "from": 127.02,
+      "to": 129.22,
+      "sid": 66,
+      "location": 2,
+      "content": "同时我我的对手也会看到我吧",
+      "music": 0.0
+    },
+    {
+      "from": 129.22,
+      "to": 133.22,
+      "sid": 67,
+      "location": 2,
+      "content": "啊那就是当我就是真的有一步我走出来",
+      "music": 0.0
+    },
+    {
+      "from": 133.22,
+      "to": 134.24,
+      "sid": 68,
+      "location": 2,
+      "content": "我看到他了",
+      "music": 0.0
+    },
+    {
+      "from": 134.24,
+      "to": 136.78,
+      "sid": 69,
+      "location": 2,
+      "content": "而此时我还在下意识的去做这个动作",
+      "music": 0.0
+    },
+    {
+      "from": 136.78,
+      "to": 138.61,
+      "sid": 70,
+      "location": 2,
+      "content": "也就是两步出一步回",
+      "music": 0.0
+    },
+    {
+      "from": 138.61,
+      "to": 139.81,
+      "sid": 71,
+      "location": 2,
+      "content": "当我看到他的时候",
+      "music": 0.0
+    },
+    {
+      "from": 139.81,
+      "to": 141.899,
+      "sid": 72,
+      "location": 2,
+      "content": "我是不是正好下意识地回来了",
+      "music": 0.0
+    },
+    {
+      "from": 141.899,
+      "to": 143.099,
+      "sid": 73,
+      "location": 2,
+      "content": "这是不是就规避了",
+      "music": 0.0
+    },
+    {
+      "from": 143.099,
+      "to": 145.019,
+      "sid": 74,
+      "location": 2,
+      "content": "就是我可能出来之后",
+      "music": 0.0
+    },
+    {
+      "from": 145.019,
+      "to": 146.459,
+      "sid": 75,
+      "location": 2,
+      "content": "然后我没有及时回去",
+      "music": 0.0
+    },
+    {
+      "from": 146.459,
+      "to": 149.26,
+      "sid": 76,
+      "location": 2,
+      "content": "然后就被对手给打头的一个timing",
+      "music": 0.0
+    },
+    {
+      "from": 149.62,
+      "to": 151.92,
+      "sid": 77,
+      "location": 2,
+      "content": "那在对面的视角里是什么样子",
+      "music": 0.0
+    },
+    {
+      "from": 151.92,
+      "to": 153.5,
+      "sid": 78,
+      "location": 2,
+      "content": "就是我走出来",
+      "music": 0.0
+    },
+    {
+      "from": 153.5,
+      "to": 154.72,
+      "sid": 79,
+      "location": 2,
+      "content": "我且露出了一个手臂",
+      "music": 0.0
+    },
+    {
+      "from": 154.72,
+      "to": 156.2,
+      "sid": 80,
+      "location": 2,
+      "content": "然后他马上就要打中",
+      "music": 0.0
+    },
+    {
+      "from": 156.2,
+      "to": 157.76,
+      "sid": 81,
+      "location": 2,
+      "content": "我将要打中我的这一瞬间",
+      "music": 0.0
+    },
+    {
+      "from": 157.76,
+      "to": 158.85,
+      "sid": 82,
+      "location": 2,
+      "content": "我立马回去了",
+      "music": 0.0
+    },
+    {
+      "from": 158.85,
+      "to": 161.21,
+      "sid": 83,
+      "location": 2,
+      "content": "而他肯定会就是因为看到我的手臂嘛",
+      "music": 0.0
+    },
+    {
+      "from": 161.21,
+      "to": 162.43,
+      "sid": 84,
+      "location": 2,
+      "content": "他肯定会开枪啊",
+      "music": 0.0
+    },
+    {
+      "from": 162.43,
+      "to": 163.09,
+      "sid": 85,
+      "location": 2,
+      "content": "开枪",
+      "music": 0.0
+    },
+    {
+      "from": 163.09,
+      "to": 166.66,
+      "sid": 86,
+      "location": 2,
+      "content": "当他看到我的手臂开枪这一瞬间他会怎么做",
+      "music": 0.0
+    },
+    {
+      "from": 166.66,
+      "to": 169.2,
+      "sid": 87,
+      "location": 2,
+      "content": "他会急于就是教我一举拿下",
+      "music": 0.0
+    },
+    {
+      "from": 169.2,
+      "to": 172.18,
+      "sid": 88,
+      "location": 2,
+      "content": "然后他会做一个拉拉出的一个动作啊",
+      "music": 0.0
+    },
+    {
+      "from": 172.18,
+      "to": 174.16,
+      "sid": 89,
+      "location": 2,
+      "content": "我给大家就是展示一下",
+      "music": 0.0
+    },
+    {
+      "from": 174.16,
+      "to": 175.3,
+      "sid": 90,
+      "location": 2,
+      "content": "看到我的手臂",
+      "music": 0.0
+    },
+    {
+      "from": 175.3,
+      "to": 175.96,
+      "sid": 91,
+      "location": 2,
+      "content": "OK开枪",
+      "music": 0.0
+    },
+    {
+      "from": 175.96,
+      "to": 177.4,
+      "sid": 92,
+      "location": 2,
+      "content": "然后看到我缩回去了",
+      "music": 0.0
+    },
+    {
+      "from": 177.4,
+      "to": 178.4,
+      "sid": 93,
+      "location": 2,
+      "content": "立马追出来",
+      "music": 0.0
+    },
+    {
+      "from": 178.4,
+      "to": 180.98,
+      "sid": 94,
+      "location": 2,
+      "content": "然后开枪呃",
+      "music": 0.0
+    },
+    {
+      "from": 180.98,
+      "to": 182.22,
+      "sid": 95,
+      "location": 2,
+      "content": "那大家是知道的",
+      "music": 0.0
+    },
+    {
+      "from": 182.22,
+      "to": 184.64,
+      "sid": 96,
+      "location": 2,
+      "content": "这个游戏它的对枪机制",
+      "music": 0.0
+    },
+    {
+      "from": 184.64,
+      "to": 186.42,
+      "sid": 97,
+      "location": 2,
+      "content": "也就是对枪的底层逻辑",
+      "music": 0.0
+    },
+    {
+      "from": 186.42,
+      "to": 190.9,
+      "sid": 98,
+      "location": 2,
+      "content": "一定是架枪的人优势大于拉枪的人",
+      "music": 0.0
+    },
+    {
+      "from": 191.26,
+      "to": 192.18,
+      "sid": 99,
+      "location": 2,
+      "content": "什么意思呢",
+      "music": 0.0
+    },
+    {
+      "from": 192.18,
+      "to": 194.46,
+      "sid": 100,
+      "location": 2,
+      "content": "就是大家最希望看到的一个结果",
+      "music": 0.0
+    },
+    {
+      "from": 194.46,
+      "to": 196.12,
+      "sid": 101,
+      "location": 2,
+      "content": "就是我现在站在这个位置",
+      "music": 0.0
+    },
+    {
+      "from": 196.12,
+      "to": 198.2,
+      "sid": 102,
+      "location": 2,
+      "content": "而我的敌人傻乎乎的走出来",
+      "music": 0.0
+    },
+    {
+      "from": 198.2,
+      "to": 199.38,
+      "sid": 103,
+      "location": 2,
+      "content": "走到我的准星里面",
+      "music": 0.0
+    },
+    {
+      "from": 199.38,
+      "to": 200.77,
+      "sid": 104,
+      "location": 2,
+      "content": "哎被我一颗头带走",
+      "music": 0.0
+    },
+    {
+      "from": 200.81,
+      "to": 202.17,
+      "sid": 105,
+      "location": 2,
+      "content": "对不对",
+      "music": 0.0
+    },
+    {
+      "from": 202.99,
+      "to": 204.59,
+      "sid": 106,
+      "location": 2,
+      "content": "而你的对手也是一样的",
+      "music": 0.0
+    },
+    {
+      "from": 204.59,
+      "to": 206.33,
+      "sid": 107,
+      "location": 2,
+      "content": "他最希望看到的是什么",
+      "music": 0.0
+    },
+    {
+      "from": 206.33,
+      "to": 208.91,
+      "sid": 108,
+      "location": 2,
+      "content": "我的敌人优先被我看到",
+      "music": 0.0
+    },
+    {
+      "from": 208.91,
+      "to": 211.48,
+      "sid": 109,
+      "location": 2,
+      "content": "我是最优先开枪的那一个",
+      "music": 0.0
+    },
+    {
+      "from": 211.48,
+      "to": 213.68,
+      "sid": 110,
+      "location": 2,
+      "content": "然后我的敌人走到我的准心里",
+      "music": 0.0
+    },
+    {
+      "from": 213.68,
+      "to": 214.74,
+      "sid": 111,
+      "location": 2,
+      "content": "被我一颗带走",
+      "music": 0.0
+    },
+    {
+      "from": 214.74,
+      "to": 216.08,
+      "sid": 112,
+      "location": 2,
+      "content": "我就可以近点了",
+      "music": 0.0
+    },
+    {
+      "from": 216.08,
+      "to": 217.829,
+      "sid": 113,
+      "location": 2,
+      "content": "是这个道理吧",
+      "music": 0.0
+    },
+    {
+      "from": 218.189,
+      "to": 221.629,
+      "sid": 114,
+      "location": 2,
+      "content": "正是利用了对方的这个急于杀你",
+      "music": 0.0
+    },
+    {
+      "from": 221.629,
+      "to": 225.45,
+      "sid": 115,
+      "location": 2,
+      "content": "当你两步拉出来一步回去的时候",
+      "music": 0.0
+    },
+    {
+      "from": 225.45,
+      "to": 228.32,
+      "sid": 116,
+      "location": 2,
+      "content": "你的对手会被你所勾出来",
+      "music": 0.0
+    },
+    {
+      "from": 228.68,
+      "to": 230.28,
+      "sid": 117,
+      "location": 2,
+      "content": "看他看到你了",
+      "music": 0.0
+    },
+    {
+      "from": 230.28,
+      "to": 232.08,
+      "sid": 118,
+      "location": 2,
+      "content": "然后他立马会拉出来追着你",
+      "music": 0.0
+    },
+    {
+      "from": 233.08,
+      "to": 234.36,
+      "sid": 119,
+      "location": 2,
+      "content": "而此时你就变",
+      "music": 0.0
+    },
+    {
+      "from": 234.36,
+      "to": 239.02,
+      "sid": 120,
+      "location": 2,
+      "content": "你就变成了从一个啊被动挨枪子",
+      "music": 0.0
+    },
+    {
+      "from": 239.02,
+      "to": 241.0,
+      "sid": 121,
+      "location": 2,
+      "content": "被动去拉他的一个人",
+      "music": 0.0
+    },
+    {
+      "from": 241.0,
+      "to": 242.3,
+      "sid": 122,
+      "location": 2,
+      "content": "变成了缩回来之后",
+      "music": 0.0
+    },
+    {
+      "from": 242.3,
+      "to": 244.06,
+      "sid": 123,
+      "location": 2,
+      "content": "把你准星立马放到墙后面",
+      "music": 0.0
+    },
+    {
+      "from": 244.06,
+      "to": 247.15,
+      "sid": 124,
+      "location": 2,
+      "content": "变成了一个呃你去架他的一个状态",
+      "music": 0.0
+    },
+    {
+      "from": 247.15,
+      "to": 249.49,
+      "sid": 125,
+      "location": 2,
+      "content": "也就是说你从一个劣势对枪",
+      "music": 0.0
+    },
+    {
+      "from": 249.49,
+      "to": 252.19,
+      "sid": 126,
+      "location": 2,
+      "content": "变成了一个呃优势对枪",
+      "music": 0.0
+    },
+    {
+      "from": 252.19,
+      "to": 256.709,
+      "sid": 127,
+      "location": 2,
+      "content": "而此时你的对手他不仅仅是拉枪这么简单",
+      "music": 0.0
+    },
+    {
+      "from": 256.709,
+      "to": 258.309,
+      "sid": 128,
+      "location": 2,
+      "content": "他会因为优先开枪",
+      "music": 0.0
+    },
+    {
+      "from": 258.309,
+      "to": 260.129,
+      "sid": 129,
+      "location": 2,
+      "content": "并在行进中无法开枪",
+      "music": 0.0
+    },
+    {
+      "from": 260.129,
+      "to": 263.5,
+      "sid": 130,
+      "location": 2,
+      "content": "也就是枪口不准而被你瞬间给击杀掉",
+      "music": 0.0
+    },
+    {
+      "from": 263.5,
+      "to": 264.9,
+      "sid": 131,
+      "location": 2,
+      "content": "因为在他的视角里面",
+      "music": 0.0
+    },
+    {
+      "from": 264.9,
+      "to": 266.78,
+      "sid": 132,
+      "location": 2,
+      "content": "你只是拉回去了",
+      "music": 0.0
+    },
+    {
+      "from": 266.78,
+      "to": 268.95,
+      "sid": 133,
+      "location": 2,
+      "content": "而他不知道你拉回去了多少",
+      "music": 0.0
+    },
+    {
+      "from": 268.95,
+      "to": 270.79,
+      "sid": 134,
+      "location": 2,
+      "content": "他只知道你拉回去",
+      "music": 0.0
+    },
+    {
+      "from": 270.79,
+      "to": 271.83,
+      "sid": 135,
+      "location": 2,
+      "content": "但是他并不知道",
+      "music": 0.0
+    },
+    {
+      "from": 271.83,
+      "to": 273.63,
+      "sid": 136,
+      "location": 2,
+      "content": "就是当他追出来这一瞬间",
+      "music": 0.0
+    },
+    {
+      "from": 273.63,
+      "to": 275.31,
+      "sid": 137,
+      "location": 2,
+      "content": "你早就已经架住他了",
+      "music": 0.0
+    },
+    {
+      "from": 275.31,
+      "to": 278.99,
+      "sid": 138,
+      "location": 2,
+      "content": "这也就是这个这就是这个技巧的巧妙之处",
+      "music": 0.0
+    },
+    {
+      "from": 278.99,
+      "to": 281.61,
+      "sid": 139,
+      "location": 2,
+      "content": "大家看很多高手的视角其实都是这个样子",
+      "music": 0.0
+    },
+    {
+      "from": 281.61,
+      "to": 283.99,
+      "sid": 140,
+      "location": 2,
+      "content": "今天我就把这个理论分享给你们",
+      "music": 0.0
+    },
+    {
+      "from": 283.99,
+      "to": 287.03,
+      "sid": 141,
+      "location": 2,
+      "content": "然后这时候就有人会问了啊兄弟",
+      "music": 0.0
+    },
+    {
+      "from": 287.03,
+      "to": 291.32,
+      "sid": 142,
+      "location": 2,
+      "content": "那如果说那如果说就是我的对手跟我一样",
+      "music": 0.0
+    },
+    {
+      "from": 291.32,
+      "to": 292.24,
+      "sid": 143,
+      "location": 2,
+      "content": "也知道这个套路",
+      "music": 0.0
+    },
+    {
+      "from": 292.24,
+      "to": 293.36,
+      "sid": 144,
+      "location": 2,
+      "content": "然后他也在跟我",
+      "music": 0.0
+    },
+    {
+      "from": 293.36,
+      "to": 295.0,
+      "sid": 145,
+      "location": 2,
+      "content": "就是两步一步两步一步",
+      "music": 0.0
+    },
+    {
+      "from": 295.0,
+      "to": 295.94,
+      "sid": 146,
+      "location": 2,
+      "content": "那怎么操作",
+      "music": 0.0
+    },
+    {
+      "from": 295.94,
+      "to": 297.81,
+      "sid": 147,
+      "location": 2,
+      "content": "那我的建议是",
+      "music": 0.0
+    },
+    {
+      "from": 298.42,
+      "to": 300.1,
+      "sid": 148,
+      "location": 2,
+      "content": "当你两步一步两步一步",
+      "music": 0.0
+    },
+    {
+      "from": 300.1,
+      "to": 301.9,
+      "sid": 149,
+      "location": 2,
+      "content": "看到他也在做同样的动作的时候",
+      "music": 0.0
+    },
+    {
+      "from": 301.9,
+      "to": 304.38,
+      "sid": 150,
+      "location": 2,
+      "content": "立马去贴墙进行一个大拉",
+      "music": 0.0
+    },
+    {
+      "from": 304.69,
+      "to": 307.07,
+      "sid": 151,
+      "location": 2,
+      "content": "这样他是不太好处理你的",
+      "music": 0.0
+    },
+    {
+      "from": 307.07,
+      "to": 308.81,
+      "sid": 152,
+      "location": 2,
+      "content": "我刚刚有个细节",
+      "music": 0.0
+    },
+    {
+      "from": 308.81,
+      "to": 310.09,
+      "sid": 153,
+      "location": 2,
+      "content": "不知道大家有没有注意",
+      "music": 0.0
+    },
+    {
+      "from": 310.09,
+      "to": 312.17,
+      "sid": 154,
+      "location": 2,
+      "content": "两步一步往里走",
+      "music": 0.0
+    },
+    {
+      "from": 312.17,
+      "to": 314.29,
+      "sid": 155,
+      "location": 2,
+      "content": "然后这时候我是贴住左边的掩体",
+      "music": 0.0
+    },
+    {
+      "from": 314.29,
+      "to": 316.81,
+      "sid": 156,
+      "location": 2,
+      "content": "然后贴住墙之后进行了一个大拉",
+      "music": 0.0
+    },
+    {
+      "from": 316.81,
+      "to": 318.85,
+      "sid": 157,
+      "location": 2,
+      "content": "这个动作其实要不了你多少时间",
+      "music": 0.0
+    },
+    {
+      "from": 318.85,
+      "to": 320.37,
+      "sid": 158,
+      "location": 2,
+      "content": "而在你的对手心里",
+      "music": 0.0
+    },
+    {
+      "from": 320.37,
+      "to": 322.98,
+      "sid": 159,
+      "location": 2,
+      "content": "他就是觉得你也再去勾他",
+      "music": 0.0
+    },
+    {
+      "from": 322.98,
+      "to": 324.64,
+      "sid": 160,
+      "location": 2,
+      "content": "他不会轻易去上你的当",
+      "music": 0.0
+    },
+    {
+      "from": 324.64,
+      "to": 327.38,
+      "sid": 161,
+      "location": 2,
+      "content": "但是他一定会把准星向下调",
+      "music": 0.0
+    },
+    {
+      "from": 327.38,
+      "to": 329.48,
+      "sid": 162,
+      "location": 2,
+      "content": "他一定会把准星向上调",
+      "music": 0.0
+    },
+    {
+      "from": 329.48,
+      "to": 330.94,
+      "sid": 163,
+      "location": 2,
+      "content": "因为他肯定是不会想到",
+      "music": 0.0
+    },
+    {
+      "from": 330.94,
+      "to": 332.94,
+      "sid": 164,
+      "location": 2,
+      "content": "就是你会进行一个贴墙的大拉的",
+      "music": 0.0
+    },
+    {
+      "from": 332.94,
+      "to": 333.86,
+      "sid": 165,
+      "location": 2,
+      "content": "在他视角里面",
+      "music": 0.0
+    },
+    {
+      "from": 333.86,
+      "to": 334.74,
+      "sid": 166,
+      "location": 2,
+      "content": "就是你也在勾他",
+      "music": 0.0
+    },
+    {
+      "from": 334.74,
+      "to": 335.34,
+      "sid": 167,
+      "location": 2,
+      "content": "他也在勾你",
+      "music": 0.0
+    },
+    {
+      "from": 335.34,
+      "to": 337.06,
+      "sid": 168,
+      "location": 2,
+      "content": "你们两个要看谁更耐心",
+      "music": 0.0
+    },
+    {
+      "from": 337.06,
+      "to": 337.7,
+      "sid": 169,
+      "location": 2,
+      "content": "谁更耐心",
+      "music": 0.0
+    },
+    {
+      "from": 337.7,
+      "to": 338.54,
+      "sid": 170,
+      "location": 2,
+      "content": "谁就赢对吧",
+      "music": 0.0
+    },
+    {
+      "from": 338.54,
+      "to": 341.49,
+      "sid": 171,
+      "location": 2,
+      "content": "但这个时候瞬间那个莽撞也许就能化解",
+      "music": 0.0
+    },
+    {
+      "from": 341.49,
+      "to": 343.93,
+      "sid": 172,
+      "location": 2,
+      "content": "就是这次比较尴尬的一次对峙",
+      "music": 0.0
+    },
+    {
+      "from": 343.93,
+      "to": 345.01,
+      "sid": 173,
+      "location": 2,
+      "content": "在进行大拉的时候",
+      "music": 0.0
+    },
+    {
+      "from": 345.01,
+      "to": 346.25,
+      "sid": 174,
+      "location": 2,
+      "content": "我再教大家一个东西",
+      "music": 0.0
+    },
+    {
+      "from": 346.25,
+      "to": 347.87,
+      "sid": 175,
+      "location": 2,
+      "content": "就很多时候大家会反对",
+      "music": 0.0
+    },
+    {
+      "from": 347.87,
+      "to": 349.51,
+      "sid": 176,
+      "location": 2,
+      "content": "就是见人就蹲",
+      "music": 0.0
+    },
+    {
+      "from": 349.51,
+      "to": 351.83,
+      "sid": 177,
+      "location": 2,
+      "content": "然后一定要进行一些走位的摆设",
+      "music": 0.0
+    },
+    {
+      "from": 351.83,
+      "to": 352.35,
+      "sid": 178,
+      "location": 2,
+      "content": "对不对",
+      "music": 0.0
+    },
+    {
+      "from": 352.35,
+      "to": 353.83,
+      "sid": 179,
+      "location": 2,
+      "content": "那其实并不是这个样子的",
+      "music": 0.0
+    },
+    {
+      "from": 353.83,
+      "to": 356.17,
+      "sid": 180,
+      "location": 2,
+      "content": "我本人在实战中很喜欢去蹲额",
+      "music": 0.0
+    },
+    {
+      "from": 356.17,
+      "to": 358.18,
+      "sid": 181,
+      "location": 2,
+      "content": "那蹲他也是有蹲的技巧的",
+      "music": 0.0
+    },
+    {
+      "from": 358.18,
+      "to": 359.94,
+      "sid": 182,
+      "location": 2,
+      "content": "呃正常情况下",
+      "music": 0.0
+    },
+    {
+      "from": 359.94,
+      "to": 361.22,
+      "sid": 183,
+      "location": 2,
+      "content": "大家所说的见人就蹲",
+      "music": 0.0
+    },
+    {
+      "from": 361.22,
+      "to": 364.919,
+      "sid": 184,
+      "location": 2,
+      "content": "指的是走出掩体后立马蹲下来",
+      "music": 0.0
+    },
+    {
+      "from": 365.079,
+      "to": 366.879,
+      "sid": 185,
+      "location": 2,
+      "content": "这种情况下你就是一个活靶子",
+      "music": 0.0
+    },
+    {
+      "from": 366.879,
+      "to": 368.479,
+      "sid": 186,
+      "location": 2,
+      "content": "如果你没有瞬间将对面秒掉",
+      "music": 0.0
+    },
+    {
+      "from": 368.479,
+      "to": 369.999,
+      "sid": 187,
+      "location": 2,
+      "content": "那你基本就是死路一条",
+      "music": 0.0
+    },
+    {
+      "from": 369.999,
+      "to": 371.98,
+      "sid": 188,
+      "location": 2,
+      "content": "而且你也没法去调整你的身位",
+      "music": 0.0
+    },
+    {
+      "from": 371.98,
+      "to": 374.18,
+      "sid": 189,
+      "location": 2,
+      "content": "但是我现在要教大家的一个见人就蹲",
+      "music": 0.0
+    },
+    {
+      "from": 374.18,
+      "to": 375.38,
+      "sid": 190,
+      "location": 2,
+      "content": "我可以给大家分开来",
+      "music": 0.0
+    },
+    {
+      "from": 375.38,
+      "to": 376.44,
+      "sid": 191,
+      "location": 2,
+      "content": "分段做一下",
+      "music": 0.0
+    },
+    {
+      "from": 376.44,
+      "to": 379.08,
+      "sid": 192,
+      "location": 2,
+      "content": "首先拿着枪",
+      "music": 0.0
+    },
+    {
+      "from": 379.08,
+      "to": 381.12,
+      "sid": 193,
+      "location": 2,
+      "content": "假设这个敌人在这儿吧",
+      "music": 0.0
+    },
+    {
+      "from": 381.12,
+      "to": 384.76,
+      "sid": 194,
+      "location": 2,
+      "content": "然后我拉出来的这一瞬间",
+      "music": 0.0
+    },
+    {
+      "from": 384.76,
+      "to": 385.84,
+      "sid": 195,
+      "location": 2,
+      "content": "我拉出来的这一瞬间",
+      "music": 0.0
+    },
+    {
+      "from": 386.88,
+      "to": 388.23,
+      "sid": 196,
+      "location": 2,
+      "content": "我拉到这的时候",
+      "music": 0.0
+    },
+    {
+      "from": 388.23,
+      "to": 390.31,
+      "sid": 197,
+      "location": 2,
+      "content": "这个时候我没有看到敌人对吧",
+      "music": 0.0
+    },
+    {
+      "from": 390.31,
+      "to": 390.95,
+      "sid": 198,
+      "location": 2,
+      "content": "这个敌人在这",
+      "music": 0.0
+    },
+    {
+      "from": 390.95,
+      "to": 391.79,
+      "sid": 199,
+      "location": 2,
+      "content": "我在这个位置",
+      "music": 0.0
+    },
+    {
+      "from": 391.79,
+      "to": 393.43,
+      "sid": 200,
+      "location": 2,
+      "content": "而敌人已经看到了我的肩膀",
+      "music": 0.0
+    },
+    {
+      "from": 393.43,
+      "to": 393.85,
+      "sid": 201,
+      "location": 2,
+      "content": "对不对",
+      "music": 0.0
+    },
+    {
+      "from": 393.85,
+      "to": 395.07,
+      "sid": 202,
+      "location": 2,
+      "content": "因为近大远小",
+      "music": 0.0
+    },
+    {
+      "from": 395.07,
+      "to": 397.2,
+      "sid": 203,
+      "location": 2,
+      "content": "那敌人看到我的肩膀的时候",
+      "music": 0.0
+    },
+    {
+      "from": 397.2,
+      "to": 399.48,
+      "sid": 204,
+      "location": 2,
+      "content": "就即使他这个时候要预瞄我的大拉",
+      "music": 0.0
+    },
+    {
+      "from": 399.48,
+      "to": 400.12,
+      "sid": 205,
+      "location": 2,
+      "content": "他看我的肩膀",
+      "music": 0.0
+    },
+    {
+      "from": 400.12,
+      "to": 401.96,
+      "sid": 206,
+      "location": 2,
+      "content": "他也一定会把他准心缩回来",
+      "music": 0.0
+    },
+    {
+      "from": 401.96,
+      "to": 402.84,
+      "sid": 207,
+      "location": 2,
+      "content": "然后缩回来",
+      "music": 0.0
+    },
+    {
+      "from": 402.84,
+      "to": 404.12,
+      "sid": 208,
+      "location": 2,
+      "content": "同时他会把准心上调",
+      "music": 0.0
+    },
+    {
+      "from": 404.12,
+      "to": 405.42,
+      "sid": 209,
+      "location": 2,
+      "content": "因为他看到我的肩膀了",
+      "music": 0.0
+    },
+    {
+      "from": 405.42,
+      "to": 409.12,
+      "sid": 210,
+      "location": 2,
+      "content": "他知道我是一个就是直的站着的一个大拉",
+      "music": 0.0
+    },
+    {
+      "from": 409.12,
+      "to": 413.429,
+      "sid": 211,
+      "location": 2,
+      "content": "而并非一个就是蹲一个大拉加蹲下",
+      "music": 0.0
+    },
+    {
+      "from": 413.669,
+      "to": 415.109,
+      "sid": 212,
+      "location": 2,
+      "content": "这点没问题吧",
+      "music": 0.0
+    },
+    {
+      "from": 415.109,
+      "to": 418.0,
+      "sid": 213,
+      "location": 2,
+      "content": "然后当我做到这个第一阶段的时候",
+      "music": 0.0
+    },
+    {
+      "from": 418.2,
+      "to": 419.34,
+      "sid": 214,
+      "location": 2,
+      "content": "我是站着的",
+      "music": 0.0
+    },
+    {
+      "from": 419.34,
+      "to": 422.02,
+      "sid": 215,
+      "location": 2,
+      "content": "然后当我头伸出掩体的这一瞬间",
+      "music": 0.0
+    },
+    {
+      "from": 422.02,
+      "to": 424.36,
+      "sid": 216,
+      "location": 2,
+      "content": "我会把我的身子蹲下来",
+      "music": 0.0
+    },
+    {
+      "from": 424.36,
+      "to": 427.18,
+      "sid": 217,
+      "location": 2,
+      "content": "就相当于做了一个正常情况下是这样子蹲拉",
+      "music": 0.0
+    },
+    {
+      "from": 427.18,
+      "to": 428.94,
+      "sid": 218,
+      "location": 2,
+      "content": "而我的大拉是差不多这个样子的",
+      "music": 0.0
+    },
+    {
+      "from": 428.94,
+      "to": 430.56,
+      "sid": 219,
+      "location": 2,
+      "content": "我会憋我比正常的大拉",
+      "music": 0.0
+    },
+    {
+      "from": 430.56,
+      "to": 433.69,
+      "sid": 220,
+      "location": 2,
+      "content": "在你和掩体之间多出一个身位的空隙",
+      "music": 0.0
+    },
+    {
+      "from": 433.69,
+      "to": 436.81,
+      "sid": 221,
+      "location": 2,
+      "content": "而这个空隙就会就会误导对面",
+      "music": 0.0
+    },
+    {
+      "from": 436.81,
+      "to": 438.93,
+      "sid": 222,
+      "location": 2,
+      "content": "让对面以为我是一个站着的大佬",
+      "music": 0.0
+    },
+    {
+      "from": 438.93,
+      "to": 442.35,
+      "sid": 223,
+      "location": 2,
+      "content": "但是同时我进行了一个大的一个下蹲",
+      "music": 0.0
+    },
+    {
+      "from": 442.35,
+      "to": 443.01,
+      "sid": 224,
+      "location": 2,
+      "content": "的一个大拉",
+      "music": 0.0
+    },
+    {
+      "from": 443.01,
+      "to": 445.65,
+      "sid": 225,
+      "location": 2,
+      "content": "那这个时候我的对抗胜率就会瞬间变高很多",
+      "music": 0.0
+    },
+    {
+      "from": 445.65,
+      "to": 448.68,
+      "sid": 226,
+      "location": 2,
+      "content": "当然这个这个这样子的大拉",
+      "music": 0.0
+    },
+    {
+      "from": 448.68,
+      "to": 450.75,
+      "sid": 227,
+      "location": 2,
+      "content": "他一定就是在一打一的情况下",
+      "music": 0.0
+    },
+    {
+      "from": 450.75,
+      "to": 451.79,
+      "sid": 228,
+      "location": 2,
+      "content": "因为无论怎么说",
+      "music": 0.0
+    },
+    {
+      "from": 451.79,
+      "to": 452.47,
+      "sid": 229,
+      "location": 2,
+      "content": "你只要蹲下来",
+      "music": 0.0
+    },
+    {
+      "from": 452.47,
+      "to": 453.35,
+      "sid": 230,
+      "location": 2,
+      "content": "你就是个活靶子",
+      "music": 0.0
+    },
+    {
+      "from": 453.35,
+      "to": 454.87,
+      "sid": 231,
+      "location": 2,
+      "content": "如果说有两个人在架着你",
+      "music": 0.0
+    },
+    {
+      "from": 454.87,
+      "to": 455.51,
+      "sid": 232,
+      "location": 2,
+      "content": "杀完第一个人",
+      "music": 0.0
+    },
+    {
+      "from": 455.51,
+      "to": 457.419,
+      "sid": 233,
+      "location": 2,
+      "content": "你一定会被第二个人补掉",
+      "music": 0.0
+    },
+    {
+      "from": 457.419,
+      "to": 459.059,
+      "sid": 234,
+      "location": 2,
+      "content": "那么本期教学到此为止",
+      "music": 0.0
+    },
+    {
+      "from": 459.059,
+      "to": 461.619,
+      "sid": 235,
+      "location": 2,
+      "content": "等主播打完比赛会更新更加细致的选位",
+      "music": 0.0
+    },
+    {
+      "from": 461.619,
+      "to": 463.559,
+      "sid": 236,
+      "location": 2,
+      "content": "和人为创造对枪他命的教学",
+      "music": 0.0
+    },
+    {
+      "from": 463.559,
+      "to": 464.179,
+      "sid": 237,
+      "location": 2,
+      "content": "我是zero",
+      "music": 0.0
+    },
+    {
+      "from": 464.179,
+      "to": 465.019,
+      "sid": 238,
+      "location": 2,
+      "content": "让我们下期再见",
+      "music": 0.0
+    },
+    {
+      "from": 465.019,
+      "to": 465.66,
+      "sid": 239,
+      "location": 2,
+      "content": "拜拜",
+      "music": 0.0
+    }
+  ]
+}

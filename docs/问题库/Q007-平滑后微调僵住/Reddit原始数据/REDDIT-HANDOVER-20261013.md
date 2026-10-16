@@ -140,3 +140,69 @@ Devvit API 可能支持 `reddit.getPostComments` 或类似方法，需查 Devvit
 ---
 
 *文档生成：2026-10-13；基于 v0.0.1.16（热重载中）*
+
+---
+
+## 5. 状态更新（2026-10-13 第二轮接手，问题已解决）
+
+### 5.1 结论：热重载卡住 ≠ 代码问题
+
+排查确认：**「热重载卡住」的真实原因是 playtest 进程早已停止**（接手方停掉后未重启），日志停留在最后一次构建状态，并非 rebuild 死锁。重启后一切正常。
+
+### 5.2 本轮修复与验证
+
+| 项 | 结果 |
+|---|---|
+| 重启 playtest | ✅ 干净重启，新版本 **v0.0.1.26** 部署成功，无错误 |
+| 新格式 `[SEARCH-START]/[SEARCH-POST]/[SEARCH-END]` | ✅ **验证生效**：11 任务 × 25 = **275 条原始**，每帖一行不截断 |
+| 100% 提取 | ✅ 去重后 **201 条高价值帖子**（对比旧格式仅 11 条） |
+| HTTP 路由注册 | ✅ 实际**已注册**（`index.ts`：`import { search }` + `app.route('/api/search', search)`），接手文档此前记录「未注册」已过时 |
+| 日志备份 | `devvit-dev.log` → `.bak`（历史保留），新日志从零开始 |
+
+### 5.3 新增归档（Q007/Reddit原始数据/）
+
+| 文件 | 说明 |
+|---|---|
+| `all_posts_v2_20261013.json` | **201 条去重帖子**完整数据（id/title/author/score/comments/permalink/url/createdAt/body 前 500 字） |
+| `devvit-search-raw.log` | 新格式搜索原始日志（可重新解析） |
+| `fetch_stats.txt` | 提取统计（11 任务 / 275 原始 / 201 去重） |
+
+### 5.4 后续注意
+
+- playtest 若再次「无响应」：先查进程（`Get-CimInstance Win32_Process | Where CommandLine -match devvit`），进程没了就是没在跑，按原文档 3.1 重启即可
+- 刷新页面即触发一轮 12 任务搜索（实测首轮完成 11 个任务，第 12 个可能因页面连接建立时序被跳过；数据量已足够）
+- 201 帖中 Q007 高价值帖（316dez 张力管理、rainsyy 1000h 反思、低敏微调等）均已包含，可直接供报告引用
+
+## 6. 全自动评论抓取（v3，2026-10-13 晚）
+
+### 6.1 目标与方案
+主旨：**全自动、高留存**——抓帖子时自动附带评论、可一键深抓，结果持久化归档供 Codex 交接直接使用。
+
+技术选型（绕开 WebView 通道）：**Devvit 原生 Menu Action**（devvit.json 菜单项 + `/internal/menu/q007-fetch` handler）。
+- 页面刷新触发不了搜索（WebView 通道在热更新后不稳定，v0.0.1.30 后多次刷新无输出）
+- curl 直连不可行（playtest 的 `createServer` 只放行 WebSocket 升级，普通 HTTP 一律 426）
+- **菜单点击可靠触发**：子版块页面菜单 → Devvit 平台经隧道调用本地 server → 12 任务搜索 + 每帖 top5 评论 → 全部 console.log 落日志
+
+### 6.2 代码变更
+| 文件 | 变更 |
+|---|---|
+| `src/server/routes/menu.ts` | 新增 `/q007-fetch` handler：12 任务搜索 + 每帖 top5 评论（CHUNK=5 并发 + 8s 超时保护，防限流/防挂起）+ `[SEARCH-START]/[SEARCH-POST]/[COMMENT-POST]/[SEARCH-END]` 日志 |
+| `devvit.json` | 菜单新增「🔍 批量抓取 Q007 数据」（location: subreddit, forUserType: moderator, endpoint: /internal/menu/q007-fetch） |
+| `src/server/routes/search.ts` | 升级为与 trpc.ts 一致的新逻辑（body 2500 + 自动评论 + 超时保护）——注：**HTTP 路由在 playtest 下不可达（426）**，仅作代码一致性保留 |
+| `src/server/trpc.ts` | 评论抓取加 8s 超时保护（`withTimeout`），前端搜索加 45s 超时兜底 |
+
+### 6.3 结果与归档（Q007/Reddit原始数据/）
+| 文件 | 说明 |
+|---|---|
+| `posts_with_comments_20261013.json` | **125 条去重帖子 + 576 条评论**（嵌套结构：post.comments[]）；帖子 body 2500 字截断、评论 body 300 字预览；字段 id/title/author/score/comments/permalink/url/createdAt/body |
+| `fetch_stats_v3.txt` | 提取统计（125 帖 / 576 评论 / 125 帖带评论 / 每帖均 4.61 条） |
+
+数据链路：菜单点击（触发 2 次）→ 275 条 SEARCH-POST 原始 → 去重 125 帖；1301 条 COMMENT-POST 原始 → 去重 576 条。
+
+### 6.4 已知限制（留给下一交接方）
+- 评论仅 top5（300 字预览）——「深抓全部评论（100条/帖）」按钮在前端已就绪，但 WebView 通道不稳定未验证；**如需要深抓，改从菜单 handler 加参数**（menu.ts 的 q007-fetch 可扩展 limit）
+- 无分页：每任务仅 top25，after 游标未实现
+- 排序固定 top/all：接口已支持参数，改 menu.ts/search.ts 可换 sort/timeframe
+- 关键词硬编码 12 任务：换主题需改 menu.ts 的 Q007_TASKS 数组
+- 菜单 handler 被触发 2 次导致重复数据：脚本已按 id 去重，无影响
+- playtest 稳定性：vite watch 曾崩溃导致进程死亡（stderr `scripts.dev exited with 19960116`），重启后需确认进程存活（`Get-CimInstance Win32_Process | Where CommandLine -match devvit`）

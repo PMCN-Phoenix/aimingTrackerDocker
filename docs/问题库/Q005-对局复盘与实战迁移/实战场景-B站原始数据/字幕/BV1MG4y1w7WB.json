@@ -1,0 +1,1108 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "1.5.0",
+  "body": [
+    {
+      "from": 0.12,
+      "to": 0.6,
+      "sid": 1,
+      "location": 2,
+      "content": "各位观众朋友们",
+      "music": 0.0
+    },
+    {
+      "from": 0.6,
+      "to": 0.78,
+      "sid": 2,
+      "location": 2,
+      "content": "大家好",
+      "music": 0.0
+    },
+    {
+      "from": 0.78,
+      "to": 1.62,
+      "sid": 3,
+      "location": 2,
+      "content": "我是东野",
+      "music": 0.0
+    },
+    {
+      "from": 1.62,
+      "to": 3.63,
+      "sid": 4,
+      "location": 2,
+      "content": "建议带来一个瓦兰特新教学系列",
+      "music": 0.0
+    },
+    {
+      "from": 3.63,
+      "to": 4.68,
+      "sid": 5,
+      "location": 2,
+      "content": "在本期的教学里面",
+      "music": 0.0
+    },
+    {
+      "from": 4.68,
+      "to": 6.12,
+      "sid": 6,
+      "location": 2,
+      "content": "我们会分析一些残局片段",
+      "music": 0.0
+    },
+    {
+      "from": 6.12,
+      "to": 7.54,
+      "sid": 7,
+      "location": 2,
+      "content": "教大家如何处理残局",
+      "music": 0.0
+    },
+    {
+      "from": 7.54,
+      "to": 9.58,
+      "sid": 8,
+      "location": 2,
+      "content": "那我们先把原声无等级片段放出来",
+      "music": 0.0
+    },
+    {
+      "from": 9.58,
+      "to": 10.18,
+      "sid": 9,
+      "location": 2,
+      "content": "大家看一遍",
+      "music": 0.0
+    },
+    {
+      "from": 10.18,
+      "to": 11.2,
+      "sid": 10,
+      "location": 2,
+      "content": "如果想直接看分析的",
+      "music": 0.0
+    },
+    {
+      "from": 11.2,
+      "to": 12.22,
+      "sid": 11,
+      "location": 2,
+      "content": "可以跳到视频的后边",
+      "music": 0.0
+    },
+    {
+      "from": 13.6,
+      "to": 19.5,
+      "sid": 12,
+      "location": 2,
+      "content": "欧门的主播spike down beat last player TP",
+      "music": 0.14814814471879306
+    },
+    {
+      "from": 21.02,
+      "to": 21.94,
+      "sid": 13,
+      "location": 2,
+      "content": "可以学",
+      "music": 0.0
+    },
+    {
+      "from": 21.94,
+      "to": 24.46,
+      "sid": 14,
+      "location": 2,
+      "content": "两个人都在游荡",
+      "music": 0.0
+    },
+    {
+      "from": 26.76,
+      "to": 28.32,
+      "sid": 15,
+      "location": 2,
+      "content": "Cover going out",
+      "music": 0.0
+    },
+    {
+      "from": 31.0,
+      "to": 32.4,
+      "sid": 16,
+      "location": 2,
+      "content": "Watch them up",
+      "music": 0.0
+    },
+    {
+      "from": 33.6,
+      "to": 34.599,
+      "sid": 17,
+      "location": 2,
+      "content": "I have sped",
+      "music": 0.0
+    },
+    {
+      "from": 49.28,
+      "to": 51.09,
+      "sid": 18,
+      "location": 2,
+      "content": "One enemy remaining",
+      "music": 0.0
+    },
+    {
+      "from": 54.07,
+      "to": 56.55,
+      "sid": 19,
+      "location": 2,
+      "content": "Cover going out",
+      "music": 0.0
+    },
+    {
+      "from": 70.48,
+      "to": 72.54,
+      "sid": 20,
+      "location": 2,
+      "content": "右边右边",
+      "music": 0.0
+    },
+    {
+      "from": 75.88,
+      "to": 77.28,
+      "sid": 21,
+      "location": 2,
+      "content": "他不切得断你",
+      "music": 0.0
+    },
+    {
+      "from": 79.62,
+      "to": 80.759,
+      "sid": 22,
+      "location": 2,
+      "content": "再下去感觉",
+      "music": 0.0
+    },
+    {
+      "from": 86.04,
+      "to": 87.5,
+      "sid": 23,
+      "location": 2,
+      "content": "那我们先说第一个知识点",
+      "music": 0.0
+    },
+    {
+      "from": 87.5,
+      "to": 89.88,
+      "sid": 24,
+      "location": 2,
+      "content": "也就是我使用欧门的时候推的这颗致盲",
+      "music": 0.0
+    },
+    {
+      "from": 89.88,
+      "to": 91.38,
+      "sid": 25,
+      "location": 2,
+      "content": "那么在双塔迷城这张图中",
+      "music": 0.0
+    },
+    {
+      "from": 91.38,
+      "to": 92.1,
+      "sid": 26,
+      "location": 2,
+      "content": "欧门有两颗",
+      "music": 0.0
+    },
+    {
+      "from": 92.1,
+      "to": 94.84,
+      "sid": 27,
+      "location": 2,
+      "content": "大家在进攻方必须要会的这个智能释放方式",
+      "music": 0.0
+    },
+    {
+      "from": 94.84,
+      "to": 97.06,
+      "sid": 28,
+      "location": 2,
+      "content": "第一颗呢就是在拉面馆推的B2楼致盲",
+      "music": 0.0
+    },
+    {
+      "from": 97.06,
+      "to": 99.32,
+      "sid": 29,
+      "location": 2,
+      "content": "能将B2楼一条线的防守方全部致盲",
+      "music": 0.0
+    },
+    {
+      "from": 99.32,
+      "to": 101.42,
+      "sid": 30,
+      "location": 2,
+      "content": "那第二颗呢是在下水道推的这个A2楼",
+      "music": 0.0
+    },
+    {
+      "from": 101.42,
+      "to": 102.08,
+      "sid": 31,
+      "location": 2,
+      "content": "铁板之盲",
+      "music": 0.0
+    },
+    {
+      "from": 102.08,
+      "to": 104.52,
+      "sid": 32,
+      "location": 2,
+      "content": "能把喜欢开局顶到铁板的防守方直接致盲",
+      "music": 0.0
+    },
+    {
+      "from": 104.52,
+      "to": 106.62,
+      "sid": 33,
+      "location": 2,
+      "content": "配合上杰风或者是瑞兹位移技能",
+      "music": 0.0
+    },
+    {
+      "from": 106.62,
+      "to": 108.44,
+      "sid": 34,
+      "location": 2,
+      "content": "开局能直接将他免费抓死",
+      "music": 0.0
+    },
+    {
+      "from": 108.44,
+      "to": 109.7,
+      "sid": 35,
+      "location": 2,
+      "content": "那回到正题",
+      "music": 0.0
+    },
+    {
+      "from": 109.7,
+      "to": 111.44,
+      "sid": 36,
+      "location": 2,
+      "content": "在我把致盲推向了这个贝尔多之后",
+      "music": 0.0
+    },
+    {
+      "from": 111.44,
+      "to": 114.3,
+      "sid": 37,
+      "location": 2,
+      "content": "我方杰风顺势使用位移技能抓死了敌方圣骑",
+      "music": 0.0
+    },
+    {
+      "from": 114.3,
+      "to": 116.28,
+      "sid": 38,
+      "location": 2,
+      "content": "此时我们B仓的队友也发起了进攻",
+      "music": 0.0
+    },
+    {
+      "from": 116.28,
+      "to": 118.58,
+      "sid": 39,
+      "location": 2,
+      "content": "但这次夹B进攻呢并没有预期那么顺利",
+      "music": 0.0
+    },
+    {
+      "from": 118.58,
+      "to": 121.28,
+      "sid": 40,
+      "location": 2,
+      "content": "在我仍在断这个浅字的绳索房回防片刻",
+      "music": 0.0
+    },
+    {
+      "from": 121.28,
+      "to": 122.96,
+      "sid": 41,
+      "location": 2,
+      "content": "正面队友都悉数阵亡了",
+      "music": 0.0
+    },
+    {
+      "from": 122.96,
+      "to": 124.8,
+      "sid": 42,
+      "location": 2,
+      "content": "此时我面对这个1V3的残局",
+      "music": 0.0
+    },
+    {
+      "from": 124.8,
+      "to": 126.48,
+      "sid": 43,
+      "location": 2,
+      "content": "那我们此时来简单清点一下",
+      "music": 0.0
+    },
+    {
+      "from": 126.48,
+      "to": 127.77,
+      "sid": 44,
+      "location": 2,
+      "content": "我所拥有的残局优势",
+      "music": 0.0
+    },
+    {
+      "from": 127.77,
+      "to": 129.48,
+      "sid": 45,
+      "location": 2,
+      "content": "首先呢我之前是没有露过面的",
+      "music": 0.0
+    },
+    {
+      "from": 129.48,
+      "to": 130.74,
+      "sid": 46,
+      "location": 2,
+      "content": "现在位置是究极暗面",
+      "music": 0.0
+    },
+    {
+      "from": 130.74,
+      "to": 132.5,
+      "sid": 47,
+      "location": 2,
+      "content": "有很大可能可以偷到敌人侧身",
+      "music": 0.0
+    },
+    {
+      "from": 132.5,
+      "to": 134.06,
+      "sid": 48,
+      "location": 2,
+      "content": "其次我实力有欧门大招",
+      "music": 0.0
+    },
+    {
+      "from": 134.06,
+      "to": 135.44,
+      "sid": 49,
+      "location": 2,
+      "content": "可以使用大招来捡包",
+      "music": 0.0
+    },
+    {
+      "from": 135.44,
+      "to": 137.3,
+      "sid": 50,
+      "location": 2,
+      "content": "这意味着我可以直接跑到A点",
+      "music": 0.0
+    },
+    {
+      "from": 137.3,
+      "to": 138.38,
+      "sid": 51,
+      "location": 2,
+      "content": "用大招把包捡回来",
+      "music": 0.0
+    },
+    {
+      "from": 138.38,
+      "to": 139.36,
+      "sid": 52,
+      "location": 2,
+      "content": "免费下包",
+      "music": 0.0
+    },
+    {
+      "from": 139.36,
+      "to": 140.92,
+      "sid": 53,
+      "location": 2,
+      "content": "所以呢对于大部分玩家来说",
+      "music": 0.0
+    },
+    {
+      "from": 140.92,
+      "to": 143.08,
+      "sid": 54,
+      "location": 2,
+      "content": "最简单的残局思路可能就是直接跑到A点",
+      "music": 0.0
+    },
+    {
+      "from": 143.08,
+      "to": 143.74,
+      "sid": 55,
+      "location": 2,
+      "content": "用大招捡包",
+      "music": 0.0
+    },
+    {
+      "from": 143.74,
+      "to": 144.79,
+      "sid": 56,
+      "location": 2,
+      "content": "然后下包守包了",
+      "music": 0.0
+    },
+    {
+      "from": 144.79,
+      "to": 146.44,
+      "sid": 57,
+      "location": 2,
+      "content": "但这种做法并不是最优解",
+      "music": 0.0
+    },
+    {
+      "from": 146.44,
+      "to": 148.42,
+      "sid": 58,
+      "location": 2,
+      "content": "这个时候就要引入第二个知识点了",
+      "music": 0.0
+    },
+    {
+      "from": 148.42,
+      "to": 150.82,
+      "sid": 59,
+      "location": 2,
+      "content": "也就是当这个双方面都差距大于20",
+      "music": 0.0
+    },
+    {
+      "from": 150.82,
+      "to": 151.78,
+      "sid": 60,
+      "location": 2,
+      "content": "先杀人再下包",
+      "music": 0.0
+    },
+    {
+      "from": 151.78,
+      "to": 153.22,
+      "sid": 61,
+      "location": 2,
+      "content": "往往是更正确的做法",
+      "music": 0.0
+    },
+    {
+      "from": 153.22,
+      "to": 154.6,
+      "sid": 62,
+      "location": 2,
+      "content": "当人数差距过大的时候",
+      "music": 0.0
+    },
+    {
+      "from": 154.6,
+      "to": 155.56,
+      "sid": 63,
+      "location": 2,
+      "content": "如果你直接去下包",
+      "music": 0.0
+    },
+    {
+      "from": 155.56,
+      "to": 158.84,
+      "sid": 64,
+      "location": 2,
+      "content": "那双方的胜负条件就会被简化为拆包或者手包",
+      "music": 0.0
+    },
+    {
+      "from": 158.84,
+      "to": 159.98,
+      "sid": 65,
+      "location": 2,
+      "content": "作为人数劣势方",
+      "music": 0.0
+    },
+    {
+      "from": 159.98,
+      "to": 161.3,
+      "sid": 66,
+      "location": 2,
+      "content": "你的这个操作空间会变小",
+      "music": 0.0
+    },
+    {
+      "from": 161.3,
+      "to": 162.83,
+      "sid": 67,
+      "location": 2,
+      "content": "反而不利于残局翻盘",
+      "music": 0.0
+    },
+    {
+      "from": 162.83,
+      "to": 164.42,
+      "sid": 68,
+      "location": 2,
+      "content": "因此我在此次残局中",
+      "music": 0.0
+    },
+    {
+      "from": 164.42,
+      "to": 166.52,
+      "sid": 69,
+      "location": 2,
+      "content": "先利用了此前没有露过面的信息优势",
+      "music": 0.0
+    },
+    {
+      "from": 166.52,
+      "to": 168.14,
+      "sid": 70,
+      "location": 2,
+      "content": "把敌方欧门免费击杀了",
+      "music": 0.0
+    },
+    {
+      "from": 168.14,
+      "to": 169.88,
+      "sid": 71,
+      "location": 2,
+      "content": "将人头劣势扳回了一个之后",
+      "music": 0.0
+    },
+    {
+      "from": 169.88,
+      "to": 170.81,
+      "sid": 72,
+      "location": 2,
+      "content": "再转向了一点",
+      "music": 0.0
+    },
+    {
+      "from": 170.81,
+      "to": 172.22,
+      "sid": 73,
+      "location": 2,
+      "content": "我们还可以关注到一个小细节",
+      "music": 0.0
+    },
+    {
+      "from": 172.22,
+      "to": 173.3,
+      "sid": 74,
+      "location": 2,
+      "content": "在跳下A2楼之前",
+      "music": 0.0
+    },
+    {
+      "from": 173.3,
+      "to": 174.2,
+      "sid": 75,
+      "location": 2,
+      "content": "我封了一个二楼烟",
+      "music": 0.0
+    },
+    {
+      "from": 174.2,
+      "to": 176.0,
+      "sid": 76,
+      "location": 2,
+      "content": "这是因为我在大招捡包之后",
+      "music": 0.0
+    },
+    {
+      "from": 176.0,
+      "to": 177.35,
+      "sid": 77,
+      "location": 2,
+      "content": "确定是要下二楼包的",
+      "music": 0.0
+    },
+    {
+      "from": 177.35,
+      "to": 179.48,
+      "sid": 78,
+      "location": 2,
+      "content": "如果敌方有聪明的人意识到我要大招转点",
+      "music": 0.0
+    },
+    {
+      "from": 179.48,
+      "to": 180.26,
+      "sid": 79,
+      "location": 2,
+      "content": "回防的比较快",
+      "music": 0.0
+    },
+    {
+      "from": 180.26,
+      "to": 181.28,
+      "sid": 80,
+      "location": 2,
+      "content": "那可能我下包的时候",
+      "music": 0.0
+    },
+    {
+      "from": 181.28,
+      "to": 182.79,
+      "sid": 81,
+      "location": 2,
+      "content": "他就能在二楼打到我了",
+      "music": 0.0
+    },
+    {
+      "from": 182.79,
+      "to": 184.32,
+      "sid": 82,
+      "location": 2,
+      "content": "那至于为什么要下二楼包",
+      "music": 0.0
+    },
+    {
+      "from": 184.32,
+      "to": 186.26,
+      "sid": 83,
+      "location": 2,
+      "content": "这是因为二楼包守起来非常灵活",
+      "music": 0.0
+    },
+    {
+      "from": 186.26,
+      "to": 187.94,
+      "sid": 84,
+      "location": 2,
+      "content": "有多个角度能打到拆包者",
+      "music": 0.0
+    },
+    {
+      "from": 187.94,
+      "to": 189.56,
+      "sid": 85,
+      "location": 2,
+      "content": "在双塔迷城1V1残局中",
+      "music": 0.0
+    },
+    {
+      "from": 189.56,
+      "to": 191.18,
+      "sid": 86,
+      "location": 2,
+      "content": "如果你下了二楼包和对面绕着走",
+      "music": 0.0
+    },
+    {
+      "from": 191.18,
+      "to": 191.72,
+      "sid": 87,
+      "location": 2,
+      "content": "错开timing",
+      "music": 0.0
+    },
+    {
+      "from": 191.72,
+      "to": 192.5,
+      "sid": 88,
+      "location": 2,
+      "content": "再去二楼守包",
+      "music": 0.0
+    },
+    {
+      "from": 192.5,
+      "to": 194.46,
+      "sid": 89,
+      "location": 2,
+      "content": "那这个残局就已经赢了大半了",
+      "music": 0.0
+    },
+    {
+      "from": 194.46,
+      "to": 196.98,
+      "sid": 90,
+      "location": 2,
+      "content": "那么在使用大招TP到包上捡包时",
+      "music": 0.0
+    },
+    {
+      "from": 196.98,
+      "to": 197.94,
+      "sid": 91,
+      "location": 2,
+      "content": "我听到两个脚步",
+      "music": 0.0
+    },
+    {
+      "from": 197.94,
+      "to": 200.4,
+      "sid": 92,
+      "location": 2,
+      "content": "这说明敌方剩下两个人的回防都是比较慢的",
+      "music": 0.0
+    },
+    {
+      "from": 200.4,
+      "to": 202.27,
+      "sid": 93,
+      "location": 2,
+      "content": "这也决定了我的下一步残局决策",
+      "music": 0.0
+    },
+    {
+      "from": 202.27,
+      "to": 203.47,
+      "sid": 94,
+      "location": 2,
+      "content": "因为敌方回防慢",
+      "music": 0.0
+    },
+    {
+      "from": 203.47,
+      "to": 204.31,
+      "sid": 95,
+      "location": 2,
+      "content": "我有充值时间",
+      "music": 0.0
+    },
+    {
+      "from": 204.31,
+      "to": 206.38,
+      "sid": 96,
+      "location": 2,
+      "content": "在下包之后去警家断敌人回防",
+      "music": 0.0
+    },
+    {
+      "from": 206.38,
+      "to": 207.31,
+      "sid": 97,
+      "location": 2,
+      "content": "那么下包之后呢",
+      "music": 0.0
+    },
+    {
+      "from": 207.31,
+      "to": 208.39,
+      "sid": 98,
+      "location": 2,
+      "content": "我直接传送到了二楼",
+      "music": 0.0
+    },
+    {
+      "from": 208.39,
+      "to": 209.92,
+      "sid": 99,
+      "location": 2,
+      "content": "在算好敌人回防时间之后",
+      "music": 0.0
+    },
+    {
+      "from": 209.92,
+      "to": 212.08,
+      "sid": 100,
+      "location": 2,
+      "content": "一个大浪又收下了这个从警家回防",
+      "music": 0.0
+    },
+    {
+      "from": 212.08,
+      "to": 213.07,
+      "sid": 101,
+      "location": 2,
+      "content": "没有提防瑞兹",
+      "music": 0.0
+    },
+    {
+      "from": 213.07,
+      "to": 215.08,
+      "sid": 102,
+      "location": 2,
+      "content": "这个时候就又要引入第三个知识点了",
+      "music": 0.0
+    },
+    {
+      "from": 215.08,
+      "to": 217.06,
+      "sid": 103,
+      "location": 2,
+      "content": "在人数优势多打一残局中",
+      "music": 0.0
+    },
+    {
+      "from": 217.06,
+      "to": 218.26,
+      "sid": 104,
+      "location": 2,
+      "content": "优势方报团回防",
+      "music": 0.0
+    },
+    {
+      "from": 218.26,
+      "to": 220.15,
+      "sid": 105,
+      "location": 2,
+      "content": "保证补枪或者最稳妥的选择",
+      "music": 0.0
+    },
+    {
+      "from": 220.15,
+      "to": 222.52,
+      "sid": 106,
+      "location": 2,
+      "content": "那后续的残局处理就没有什么好说的了",
+      "music": 0.0
+    },
+    {
+      "from": 222.52,
+      "to": 223.3,
+      "sid": 107,
+      "location": 2,
+      "content": "我下了二楼包",
+      "music": 0.0
+    },
+    {
+      "from": 223.3,
+      "to": 224.3,
+      "sid": 108,
+      "location": 2,
+      "content": "还在二楼杀了人",
+      "music": 0.0
+    },
+    {
+      "from": 224.3,
+      "to": 226.88,
+      "sid": 109,
+      "location": 2,
+      "content": "对方的前锋要先把二楼清空再来包点的话",
+      "music": 0.0
+    },
+    {
+      "from": 226.88,
+      "to": 228.44,
+      "sid": 110,
+      "location": 2,
+      "content": "时间也会变得所剩无几",
+      "music": 0.0
+    },
+    {
+      "from": 228.44,
+      "to": 229.46,
+      "sid": 111,
+      "location": 2,
+      "content": "我去包点呆着",
+      "music": 0.0
+    },
+    {
+      "from": 229.46,
+      "to": 230.18,
+      "sid": 112,
+      "location": 2,
+      "content": "稍微游一下",
+      "music": 0.0
+    },
+    {
+      "from": 230.18,
+      "to": 231.08,
+      "sid": 113,
+      "location": 2,
+      "content": "时间就脱足了",
+      "music": 0.0
+    },
+    {
+      "from": 231.08,
+      "to": 232.61,
+      "sid": 114,
+      "location": 2,
+      "content": "这个残局也就稳赢了",
+      "music": 0.0
+    },
+    {
+      "from": 232.61,
+      "to": 233.81,
+      "sid": 115,
+      "location": 2,
+      "content": "那么今天视频带到这里",
+      "music": 0.0
+    },
+    {
+      "from": 233.81,
+      "to": 234.41,
+      "sid": 116,
+      "location": 2,
+      "content": "到了尾声",
+      "music": 0.0
+    },
+    {
+      "from": 234.41,
+      "to": 235.97,
+      "sid": 117,
+      "location": 2,
+      "content": "如果你想提高自己的残局能力",
+      "music": 0.0
+    },
+    {
+      "from": 235.97,
+      "to": 238.25,
+      "sid": 118,
+      "location": 2,
+      "content": "除了可以持续关注我的残局系列教学之外",
+      "music": 0.0
+    },
+    {
+      "from": 238.25,
+      "to": 240.47,
+      "sid": 119,
+      "location": 2,
+      "content": "平时也可以保持这个多复盘的习惯",
+      "music": 0.0
+    },
+    {
+      "from": 240.47,
+      "to": 242.62,
+      "sid": 120,
+      "location": 2,
+      "content": "最重要的还是多打这些视频的残局",
+      "music": 0.0
+    },
+    {
+      "from": 242.62,
+      "to": 244.0,
+      "sid": 121,
+      "location": 2,
+      "content": "其实是非常公式化处理",
+      "music": 0.0
+    },
+    {
+      "from": 244.0,
+      "to": 245.56,
+      "sid": 122,
+      "location": 2,
+      "content": "在我20年还在打折的时候",
+      "music": 0.0
+    },
+    {
+      "from": 245.56,
+      "to": 246.7,
+      "sid": 123,
+      "location": 2,
+      "content": "在双塔迷城这张图里",
+      "music": 0.0
+    },
+    {
+      "from": 246.7,
+      "to": 248.39,
+      "sid": 124,
+      "location": 2,
+      "content": "类似的残局我就打过很多次了",
+      "music": 0.0
+    },
+    {
+      "from": 248.39,
+      "to": 249.89,
+      "sid": 125,
+      "location": 2,
+      "content": "所以我在处理这残局的时候",
+      "music": 0.0
+    },
+    {
+      "from": 249.89,
+      "to": 251.03,
+      "sid": 126,
+      "location": 2,
+      "content": "其实是非常按部就班的",
+      "music": 0.0
+    },
+    {
+      "from": 251.03,
+      "to": 252.14,
+      "sid": 127,
+      "location": 2,
+      "content": "就打赢了",
+      "music": 0.0
+    },
+    {
+      "from": 252.14,
+      "to": 253.49,
+      "sid": 128,
+      "location": 2,
+      "content": "那今天视频就到这里",
+      "music": 0.0
+    },
+    {
+      "from": 253.49,
+      "to": 254.99,
+      "sid": 129,
+      "location": 2,
+      "content": "我是一名FPS游戏大部主播",
+      "music": 0.0
+    },
+    {
+      "from": 254.99,
+      "to": 257.0,
+      "sid": 130,
+      "location": 2,
+      "content": "目前在重点关注我的这款游戏",
+      "music": 0.0
+    },
+    {
+      "from": 257.0,
+      "to": 259.58,
+      "sid": 131,
+      "location": 2,
+      "content": "但此后也会持续更新玩瓦兰特的中文互联网",
+      "music": 0.0
+    },
+    {
+      "from": 259.58,
+      "to": 260.6,
+      "sid": 132,
+      "location": 2,
+      "content": "所以提取了教学",
+      "music": 0.0
+    },
+    {
+      "from": 260.6,
+      "to": 262.52,
+      "sid": 133,
+      "location": 2,
+      "content": "最终目的是让所有观众和打手",
+      "music": 0.0
+    },
+    {
+      "from": 262.52,
+      "to": 264.17,
+      "sid": 134,
+      "location": 2,
+      "content": "元旦之前都不要让他平静",
+      "music": 0.0
+    },
+    {
+      "from": 264.17,
+      "to": 266.18,
+      "sid": 135,
+      "location": 2,
+      "content": "如果你想提高自己在瓦兰特游戏水平",
+      "music": 0.0
+    },
+    {
+      "from": 266.18,
+      "to": 267.2,
+      "sid": 136,
+      "location": 2,
+      "content": "那不妨点个关注",
+      "music": 0.0
+    },
+    {
+      "from": 267.2,
+      "to": 268.3,
+      "sid": 137,
+      "location": 2,
+      "content": "我们下期视频再见",
+      "music": 0.0
+    }
+  ]
+}

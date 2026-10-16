@@ -1,0 +1,484 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "v1.7.0.4",
+  "body": [
+    {
+      "from": 0.04,
+      "to": 1.44,
+      "sid": 1,
+      "location": 2,
+      "content": "残局难的不是枪法",
+      "music": 0.0
+    },
+    {
+      "from": 1.44,
+      "to": 2.4,
+      "sid": 2,
+      "location": 2,
+      "content": "而是思路",
+      "music": 0.0
+    },
+    {
+      "from": 2.4,
+      "to": 3.36,
+      "sid": 3,
+      "location": 2,
+      "content": "枪法再好",
+      "music": 0.0
+    },
+    {
+      "from": 3.36,
+      "to": 4.68,
+      "sid": 4,
+      "location": 2,
+      "content": "面对多枪械激活",
+      "music": 0.0
+    },
+    {
+      "from": 4.68,
+      "to": 6.04,
+      "sid": 5,
+      "location": 2,
+      "content": "一样会被斩于马下",
+      "music": 0.0
+    },
+    {
+      "from": 6.04,
+      "to": 8.04,
+      "sid": 6,
+      "location": 2,
+      "content": "瑞纳在B口杀人还有距离",
+      "music": 0.0
+    },
+    {
+      "from": 8.04,
+      "to": 9.38,
+      "sid": 7,
+      "location": 2,
+      "content": "那就先进车库窗口",
+      "music": 0.0
+    },
+    {
+      "from": 9.38,
+      "to": 11.2,
+      "sid": 8,
+      "location": 2,
+      "content": "A人再回来收瑞纳",
+      "music": 0.0
+    },
+    {
+      "from": 11.2,
+      "to": 12.88,
+      "sid": 9,
+      "location": 2,
+      "content": "先收单摸再回防",
+      "music": 0.0
+    },
+    {
+      "from": 12.88,
+      "to": 14.17,
+      "sid": 10,
+      "location": 2,
+      "content": "无疑是最优解",
+      "music": 0.0
+    },
+    {
+      "from": 14.17,
+      "to": 19.32,
+      "sid": 11,
+      "location": 2,
+      "content": "烟散后趁对面拍包少一人架枪武器已部署包点",
+      "music": 0.0
+    },
+    {
+      "from": 19.32,
+      "to": 20.76,
+      "sid": 12,
+      "location": 2,
+      "content": "两个人拍包的是欧盟",
+      "music": 0.0
+    },
+    {
+      "from": 20.76,
+      "to": 22.24,
+      "sid": 13,
+      "location": 2,
+      "content": "且杰夫并没有补枪",
+      "music": 0.0
+    },
+    {
+      "from": 22.24,
+      "to": 23.8,
+      "sid": 14,
+      "location": 2,
+      "content": "判断杰风并不在包点",
+      "music": 0.0
+    },
+    {
+      "from": 23.8,
+      "to": 25.88,
+      "sid": 15,
+      "location": 2,
+      "content": "直接反进车库抓单",
+      "music": 0.0
+    },
+    {
+      "from": 26.99,
+      "to": 28.35,
+      "sid": 16,
+      "location": 2,
+      "content": "对方车库掉点",
+      "music": 0.0
+    },
+    {
+      "from": 28.35,
+      "to": 29.53,
+      "sid": 17,
+      "location": 2,
+      "content": "必有人转嫁车库",
+      "music": 0.0
+    },
+    {
+      "from": 29.53,
+      "to": 30.83,
+      "sid": 18,
+      "location": 2,
+      "content": "大概率一人加进家",
+      "music": 0.0
+    },
+    {
+      "from": 30.83,
+      "to": 31.67,
+      "sid": 19,
+      "location": 2,
+      "content": "一人加车库",
+      "music": 0.0
+    },
+    {
+      "from": 31.67,
+      "to": 32.31,
+      "sid": 20,
+      "location": 2,
+      "content": "一对一",
+      "music": 0.0
+    },
+    {
+      "from": 32.31,
+      "to": 32.91,
+      "sid": 21,
+      "location": 2,
+      "content": "你打得过",
+      "music": 0.0
+    },
+    {
+      "from": 32.91,
+      "to": 33.91,
+      "sid": 22,
+      "location": 2,
+      "content": "我分段预瞄",
+      "music": 0.0
+    },
+    {
+      "from": 33.91,
+      "to": 37.32,
+      "sid": 23,
+      "location": 2,
+      "content": "在还剩一名敌人3/5",
+      "music": 0.16450215738085994
+    },
+    {
+      "from": 39.1,
+      "to": 40.08,
+      "sid": 24,
+      "location": 2,
+      "content": "A点沦陷",
+      "music": 0.0
+    },
+    {
+      "from": 40.08,
+      "to": 41.58,
+      "sid": 25,
+      "location": 2,
+      "content": "还好队友踩着台阶",
+      "music": 0.0
+    },
+    {
+      "from": 41.58,
+      "to": 43.2,
+      "sid": 26,
+      "location": 2,
+      "content": "a one钱包孤立无援",
+      "music": 0.0
+    },
+    {
+      "from": 43.2,
+      "to": 45.86,
+      "sid": 27,
+      "location": 2,
+      "content": "破门邀请他进行少尉决斗",
+      "music": 0.0
+    },
+    {
+      "from": 46.83,
+      "to": 48.31,
+      "sid": 28,
+      "location": 2,
+      "content": "干掉一两包点",
+      "music": 0.0
+    },
+    {
+      "from": 48.31,
+      "to": 51.91,
+      "sid": 29,
+      "location": 2,
+      "content": "一人在排包直接提前枪抢位隔断烟出手了",
+      "music": 0.0
+    },
+    {
+      "from": 51.91,
+      "to": 52.43,
+      "sid": 30,
+      "location": 2,
+      "content": "我不知道",
+      "music": 0.0
+    },
+    {
+      "from": 52.43,
+      "to": 55.85,
+      "sid": 31,
+      "location": 2,
+      "content": "希望到顶后一人拍包贴左青烟内架书屋",
+      "music": 0.0
+    },
+    {
+      "from": 55.85,
+      "to": 59.33,
+      "sid": 32,
+      "location": 2,
+      "content": "到箱子后借瞬晕隔断书屋P个顶后",
+      "music": 0.0
+    },
+    {
+      "from": 59.69,
+      "to": 61.53,
+      "sid": 33,
+      "location": 2,
+      "content": "隔壁到死几乎都没人补枪",
+      "music": 0.0
+    },
+    {
+      "from": 61.53,
+      "to": 65.09,
+      "sid": 34,
+      "location": 2,
+      "content": "那么瑞纳肯定不在树大招好了",
+      "music": 0.0
+    },
+    {
+      "from": 66.129,
+      "to": 68.089,
+      "sid": 35,
+      "location": 2,
+      "content": "敌方瑞娜抓E没有战斗能力",
+      "music": 0.0
+    },
+    {
+      "from": 68.089,
+      "to": 70.769,
+      "sid": 36,
+      "location": 2,
+      "content": "直接大脚步抓弥和弥河派帮",
+      "music": 0.0
+    },
+    {
+      "from": 70.769,
+      "to": 72.489,
+      "sid": 37,
+      "location": 2,
+      "content": "那就进行单挑",
+      "music": 0.0
+    },
+    {
+      "from": 73.8,
+      "to": 75.08,
+      "sid": 38,
+      "location": 2,
+      "content": "因为他刚拍下包",
+      "music": 0.0
+    },
+    {
+      "from": 75.08,
+      "to": 76.72,
+      "sid": 39,
+      "location": 2,
+      "content": "只有我在包点口才行",
+      "music": 0.0
+    },
+    {
+      "from": 76.72,
+      "to": 79.22,
+      "sid": 40,
+      "location": 2,
+      "content": "而且我在瑞娜的视野是往包点走的",
+      "music": 0.0
+    },
+    {
+      "from": 79.22,
+      "to": 82.21,
+      "sid": 41,
+      "location": 2,
+      "content": "40秒拆包时间完全够我绕二楼",
+      "music": 0.0
+    },
+    {
+      "from": 84.28,
+      "to": 87.0,
+      "sid": 42,
+      "location": 2,
+      "content": "两个点外一个书屋最难的是拆分",
+      "music": 0.0
+    },
+    {
+      "from": 87.0,
+      "to": 88.44,
+      "sid": 43,
+      "location": 2,
+      "content": "两个抱团的不给机会",
+      "music": 0.0
+    },
+    {
+      "from": 88.44,
+      "to": 89.84,
+      "sid": 44,
+      "location": 2,
+      "content": "那就只能靠分段pk了",
+      "music": 0.0
+    },
+    {
+      "from": 89.84,
+      "to": 91.59,
+      "sid": 45,
+      "location": 2,
+      "content": "幸好不是变形金刚",
+      "music": 0.0
+    },
+    {
+      "from": 91.59,
+      "to": 92.51,
+      "sid": 46,
+      "location": 2,
+      "content": "铁臂有大",
+      "music": 0.0
+    },
+    {
+      "from": 92.51,
+      "to": 93.23,
+      "sid": 47,
+      "location": 2,
+      "content": "直接抓蝴蝶",
+      "music": 0.0
+    },
+    {
+      "from": 93.23,
+      "to": 94.51,
+      "sid": 48,
+      "location": 2,
+      "content": "很有可能被大睡",
+      "music": 0.0
+    },
+    {
+      "from": 94.51,
+      "to": 95.27,
+      "sid": 49,
+      "location": 2,
+      "content": "给烟隔断",
+      "music": 0.0
+    },
+    {
+      "from": 95.27,
+      "to": 97.07,
+      "sid": 50,
+      "location": 2,
+      "content": "点外抓铁臂",
+      "music": 0.0
+    },
+    {
+      "from": 100.5,
+      "to": 103.2,
+      "sid": 51,
+      "location": 2,
+      "content": "配个铁臂的同时要提防不蝶",
+      "music": 0.0
+    },
+    {
+      "from": 103.44,
+      "to": 104.96,
+      "sid": 52,
+      "location": 2,
+      "content": "还剩一名敌人",
+      "music": 0.0
+    },
+    {
+      "from": 104.96,
+      "to": 105.86,
+      "sid": 53,
+      "location": 2,
+      "content": "3/5",
+      "music": 0.17777775802470444
+    },
+    {
+      "from": 105.86,
+      "to": 107.36,
+      "sid": 54,
+      "location": 2,
+      "content": "对面看不到包的情况下",
+      "music": 0.0
+    },
+    {
+      "from": 107.36,
+      "to": 108.08,
+      "sid": 55,
+      "location": 2,
+      "content": "连滴两下",
+      "music": 0.0
+    },
+    {
+      "from": 108.08,
+      "to": 110.08,
+      "sid": 56,
+      "location": 2,
+      "content": "直接拆有奇效",
+      "music": 0.0
+    },
+    {
+      "from": 111.18,
+      "to": 112.02,
+      "sid": 57,
+      "location": 2,
+      "content": "谢谢大家",
+      "music": 0.0
+    },
+    {
+      "from": 112.02,
+      "to": 114.46,
+      "sid": 58,
+      "location": 2,
+      "content": "我是保安王伟飞科",
+      "music": 0.0
+    },
+    {
+      "from": 114.46,
+      "to": 117.8,
+      "sid": 59,
+      "location": 2,
+      "content": "牛逼牛逼牛哇牛逼",
+      "music": 0.29838708474245373
+    }
+  ]
+}

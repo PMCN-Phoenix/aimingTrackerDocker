@@ -1,0 +1,2844 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "v1.7.0.4",
+  "body": [
+    {
+      "from": 0.04,
+      "to": 1.42,
+      "sid": 1,
+      "location": 2,
+      "content": "残局思路教学",
+      "music": 0.0
+    },
+    {
+      "from": 1.42,
+      "to": 3.42,
+      "sid": 2,
+      "location": 2,
+      "content": "如果你是新手或者低分段玩家",
+      "music": 0.0
+    },
+    {
+      "from": 3.42,
+      "to": 4.3,
+      "sid": 3,
+      "location": 2,
+      "content": "看完这个视频",
+      "music": 0.0
+    },
+    {
+      "from": 4.3,
+      "to": 6.72,
+      "sid": 4,
+      "location": 2,
+      "content": "绝对可以让你的思路意识提升一个大段",
+      "music": 0.0
+    },
+    {
+      "from": 6.72,
+      "to": 8.36,
+      "sid": 5,
+      "location": 2,
+      "content": "先来第一个",
+      "music": 0.0
+    },
+    {
+      "from": 11.34,
+      "to": 12.82,
+      "sid": 6,
+      "location": 2,
+      "content": "我方还剩一人",
+      "music": 0.0
+    },
+    {
+      "from": 15.78,
+      "to": 17.46,
+      "sid": 7,
+      "location": 2,
+      "content": "抽取视野",
+      "music": 0.0
+    },
+    {
+      "from": 21.14,
+      "to": 27.28,
+      "sid": 8,
+      "location": 2,
+      "content": "啊爆能器落在B区啊啊还剩一名敌人",
+      "music": 0.0
+    },
+    {
+      "from": 27.28,
+      "to": 28.22,
+      "sid": 9,
+      "location": 2,
+      "content": "对牛逼",
+      "music": 0.0
+    },
+    {
+      "from": 28.22,
+      "to": 29.2,
+      "sid": 10,
+      "location": 2,
+      "content": "刚刚中路的",
+      "music": 0.0
+    },
+    {
+      "from": 29.2,
+      "to": 30.67,
+      "sid": 11,
+      "location": 2,
+      "content": "刚刚在中路呃",
+      "music": 0.0
+    },
+    {
+      "from": 30.775,
+      "to": 32.51,
+      "sid": 12,
+      "location": 2,
+      "content": "牛牛逼",
+      "music": 0.0
+    },
+    {
+      "from": 32.51,
+      "to": 34.09,
+      "sid": 13,
+      "location": 2,
+      "content": "卧槽狂跳",
+      "music": 0.0
+    },
+    {
+      "from": 34.09,
+      "to": 35.01,
+      "sid": 14,
+      "location": 2,
+      "content": "从这里开始",
+      "music": 0.0
+    },
+    {
+      "from": 35.01,
+      "to": 36.19,
+      "sid": 15,
+      "location": 2,
+      "content": "我们先搜集信息",
+      "music": 0.0
+    },
+    {
+      "from": 36.19,
+      "to": 39.59,
+      "sid": 16,
+      "location": 2,
+      "content": "听到左边保安有一个放半线的声音",
+      "music": 0.0
+    },
+    {
+      "from": 39.95,
+      "to": 41.89,
+      "sid": 17,
+      "location": 2,
+      "content": "说明保安是在市场的",
+      "music": 0.0
+    },
+    {
+      "from": 41.89,
+      "to": 43.99,
+      "sid": 18,
+      "location": 2,
+      "content": "我们队友在中路被截风打掉",
+      "music": 0.0
+    },
+    {
+      "from": 43.99,
+      "to": 45.57,
+      "sid": 19,
+      "location": 2,
+      "content": "说明杰风也在中路",
+      "music": 0.0
+    },
+    {
+      "from": 45.57,
+      "to": 47.76,
+      "sid": 20,
+      "location": 2,
+      "content": "猎枭从正面放了探测箭",
+      "music": 0.0
+    },
+    {
+      "from": 47.76,
+      "to": 49.02,
+      "sid": 21,
+      "location": 2,
+      "content": "猎枭是在B大的",
+      "music": 0.0
+    },
+    {
+      "from": 49.02,
+      "to": 49.94,
+      "sid": 22,
+      "location": 2,
+      "content": "只有一个幽影",
+      "music": 0.0
+    },
+    {
+      "from": 49.94,
+      "to": 51.82,
+      "sid": 23,
+      "location": 2,
+      "content": "我们不知道位置",
+      "music": 0.0
+    },
+    {
+      "from": 52.92,
+      "to": 55.12,
+      "sid": 24,
+      "location": 2,
+      "content": "听到猎枭走进一道的脚步后",
+      "music": 0.0
+    },
+    {
+      "from": 55.12,
+      "to": 55.88,
+      "sid": 25,
+      "location": 2,
+      "content": "我们抓timing",
+      "music": 0.0
+    },
+    {
+      "from": 55.88,
+      "to": 57.02,
+      "sid": 26,
+      "location": 2,
+      "content": "打颗眼钻出去",
+      "music": 0.0
+    },
+    {
+      "from": 57.02,
+      "to": 58.72,
+      "sid": 27,
+      "location": 2,
+      "content": "注意听这里是有两个方向的",
+      "music": 0.0
+    },
+    {
+      "from": 58.72,
+      "to": 61.29,
+      "sid": 28,
+      "location": 2,
+      "content": "枪声是在打我眼睛的",
+      "music": 0.0
+    },
+    {
+      "from": 61.94,
+      "to": 64.06,
+      "sid": 29,
+      "location": 2,
+      "content": "一个在市场",
+      "music": 0.0
+    },
+    {
+      "from": 64.06,
+      "to": 64.82,
+      "sid": 30,
+      "location": 2,
+      "content": "一个在B大",
+      "music": 0.0
+    },
+    {
+      "from": 64.82,
+      "to": 66.1,
+      "sid": 31,
+      "location": 2,
+      "content": "那么B大的这个枪声",
+      "music": 0.0
+    },
+    {
+      "from": 66.1,
+      "to": 68.36,
+      "sid": 32,
+      "location": 2,
+      "content": "就只有可能是最后一个幽影了",
+      "music": 0.0
+    },
+    {
+      "from": 68.36,
+      "to": 70.76,
+      "sid": 33,
+      "location": 2,
+      "content": "所以对面四个人的位置我们全找齐了",
+      "music": 0.0
+    },
+    {
+      "from": 70.76,
+      "to": 73.56,
+      "sid": 34,
+      "location": 2,
+      "content": "但眼下要先解决掉包点那个猎枭",
+      "music": 0.0
+    },
+    {
+      "from": 75.7,
+      "to": 76.9,
+      "sid": 35,
+      "location": 2,
+      "content": "打掉猎枭之后",
+      "music": 0.0
+    },
+    {
+      "from": 76.9,
+      "to": 79.22,
+      "sid": 36,
+      "location": 2,
+      "content": "我们已知刚才市场和B大都有人",
+      "music": 0.0
+    },
+    {
+      "from": 79.22,
+      "to": 80.74,
+      "sid": 37,
+      "location": 2,
+      "content": "所以很快我们就会面临",
+      "music": 0.0
+    },
+    {
+      "from": 80.74,
+      "to": 82.56,
+      "sid": 38,
+      "location": 2,
+      "content": "一道和二道敌人的同时夹击",
+      "music": 0.0
+    },
+    {
+      "from": 82.56,
+      "to": 84.56,
+      "sid": 39,
+      "location": 2,
+      "content": "这时候就要选择一个位置",
+      "music": 0.0
+    },
+    {
+      "from": 84.56,
+      "to": 87.38,
+      "sid": 40,
+      "location": 2,
+      "content": "让我们不会同时面对两条枪线",
+      "music": 0.0
+    },
+    {
+      "from": 87.38,
+      "to": 90.64,
+      "sid": 41,
+      "location": 2,
+      "content": "简单来说就是要打一边的同时躲另一边的枪械",
+      "music": 0.0
+    },
+    {
+      "from": 90.64,
+      "to": 92.72,
+      "sid": 42,
+      "location": 2,
+      "content": "所以我直接走到这个贴墙的这个位置",
+      "music": 0.0
+    },
+    {
+      "from": 92.72,
+      "to": 96.1,
+      "sid": 43,
+      "location": 2,
+      "content": "这样一道的人想打我就必须要走到这个位置来",
+      "music": 0.0
+    },
+    {
+      "from": 96.1,
+      "to": 97.22,
+      "sid": 44,
+      "location": 2,
+      "content": "低头才能看见我",
+      "music": 0.0
+    },
+    {
+      "from": 97.22,
+      "to": 99.52,
+      "sid": 45,
+      "location": 2,
+      "content": "我们就可以多一点空间获得喘息的机会",
+      "music": 0.0
+    },
+    {
+      "from": 99.52,
+      "to": 100.6,
+      "sid": 46,
+      "location": 2,
+      "content": "先打二道",
+      "music": 0.0
+    },
+    {
+      "from": 100.6,
+      "to": 103.56,
+      "sid": 47,
+      "location": 2,
+      "content": "二道缩了再立马回头打一道再回头打二道",
+      "music": 0.0
+    },
+    {
+      "from": 103.56,
+      "to": 104.72,
+      "sid": 48,
+      "location": 2,
+      "content": "两人都打死之后",
+      "music": 0.0
+    },
+    {
+      "from": 104.72,
+      "to": 105.48,
+      "sid": 49,
+      "location": 2,
+      "content": "我们先躲起来",
+      "music": 0.0
+    },
+    {
+      "from": 105.48,
+      "to": 106.06,
+      "sid": 50,
+      "location": 2,
+      "content": "换个子弹",
+      "music": 0.241379268727714
+    },
+    {
+      "from": 106.06,
+      "to": 107.44,
+      "sid": 51,
+      "location": 2,
+      "content": "然后继续蹲下来",
+      "music": 0.028985505145972215
+    },
+    {
+      "from": 107.44,
+      "to": 108.98,
+      "sid": 52,
+      "location": 2,
+      "content": "贴着子架住二道",
+      "music": 0.0
+    },
+    {
+      "from": 108.98,
+      "to": 110.6,
+      "sid": 53,
+      "location": 2,
+      "content": "为什么要蹲下来贴着箱子呢",
+      "music": 0.0
+    },
+    {
+      "from": 110.6,
+      "to": 111.4,
+      "sid": 54,
+      "location": 2,
+      "content": "还是那个道理",
+      "music": 0.0
+    },
+    {
+      "from": 111.4,
+      "to": 112.7,
+      "sid": 55,
+      "location": 2,
+      "content": "打一边躲一边",
+      "music": 0.0
+    },
+    {
+      "from": 112.7,
+      "to": 114.2,
+      "sid": 56,
+      "location": 2,
+      "content": "如果劫风从一道走过来",
+      "music": 0.0
+    },
+    {
+      "from": 114.2,
+      "to": 116.12,
+      "sid": 57,
+      "location": 2,
+      "content": "他第一时间是看不到我们的",
+      "music": 0.0
+    },
+    {
+      "from": 116.12,
+      "to": 118.64,
+      "sid": 58,
+      "location": 2,
+      "content": "如果我家二道价值没有看到人",
+      "music": 0.0
+    },
+    {
+      "from": 118.64,
+      "to": 120.16,
+      "sid": 59,
+      "location": 2,
+      "content": "我就会蹭出来看一道了",
+      "music": 0.0
+    },
+    {
+      "from": 120.16,
+      "to": 121.82,
+      "sid": 60,
+      "location": 2,
+      "content": "最后成功架住残血先锋",
+      "music": 0.0
+    },
+    {
+      "from": 121.82,
+      "to": 122.98,
+      "sid": 61,
+      "location": 2,
+      "content": "拿下1V4残局",
+      "music": 0.0
+    },
+    {
+      "from": 122.98,
+      "to": 124.16,
+      "sid": 62,
+      "location": 2,
+      "content": "那现在设想一下",
+      "music": 0.0
+    },
+    {
+      "from": 124.16,
+      "to": 125.7,
+      "sid": 63,
+      "location": 2,
+      "content": "如果我杀掉猎枭之后",
+      "music": 0.0
+    },
+    {
+      "from": 125.7,
+      "to": 126.9,
+      "sid": 64,
+      "location": 2,
+      "content": "就留在原地",
+      "music": 0.0
+    },
+    {
+      "from": 126.9,
+      "to": 128.06,
+      "sid": 65,
+      "location": 2,
+      "content": "立马回头架保安",
+      "music": 0.0
+    },
+    {
+      "from": 128.06,
+      "to": 130.94,
+      "sid": 66,
+      "location": 2,
+      "content": "我面对一道二道这样一个前后夹击的枪械",
+      "music": 0.0
+    },
+    {
+      "from": 130.94,
+      "to": 133.06,
+      "sid": 67,
+      "location": 2,
+      "content": "我基本99%是必死的",
+      "music": 0.23584904547881813
+    },
+    {
+      "from": 133.06,
+      "to": 135.24,
+      "sid": 68,
+      "location": 2,
+      "content": "但就因为我往前走了几步",
+      "music": 0.0
+    },
+    {
+      "from": 135.24,
+      "to": 136.38,
+      "sid": 69,
+      "location": 2,
+      "content": "我不仅活了下来",
+      "music": 0.0
+    },
+    {
+      "from": 136.38,
+      "to": 137.34,
+      "sid": 70,
+      "location": 2,
+      "content": "还反杀了三人",
+      "music": 0.0
+    },
+    {
+      "from": 137.34,
+      "to": 139.48,
+      "sid": 71,
+      "location": 2,
+      "content": "这就是学会选位的魅力",
+      "music": 0.0
+    },
+    {
+      "from": 139.48,
+      "to": 141.54,
+      "sid": 72,
+      "location": 2,
+      "content": "面对多人在多个方向的枪线",
+      "music": 0.0
+    },
+    {
+      "from": 141.54,
+      "to": 143.66,
+      "sid": 73,
+      "location": 2,
+      "content": "牢记打一边躲一边",
+      "music": 0.0
+    },
+    {
+      "from": 143.66,
+      "to": 146.0,
+      "sid": 74,
+      "location": 2,
+      "content": "然后我们再来看第二个残局",
+      "music": 0.0
+    },
+    {
+      "from": 147.8,
+      "to": 149.54,
+      "sid": 75,
+      "location": 2,
+      "content": "我方还是从这里开始",
+      "music": 0.0
+    },
+    {
+      "from": 149.54,
+      "to": 152.96,
+      "sid": 76,
+      "location": 2,
+      "content": "1V2残局一人哦",
+      "music": 0.0
+    },
+    {
+      "from": 154.88,
+      "to": 156.14,
+      "sid": 77,
+      "location": 2,
+      "content": "打掉解封后",
+      "music": 0.0
+    },
+    {
+      "from": 156.14,
+      "to": 157.66,
+      "sid": 78,
+      "location": 2,
+      "content": "剩我和钢索1V1",
+      "music": 0.0
+    },
+    {
+      "from": 157.66,
+      "to": 159.2,
+      "sid": 79,
+      "location": 2,
+      "content": "还剩1米5了",
+      "music": 0.0
+    },
+    {
+      "from": 159.2,
+      "to": 160.86,
+      "sid": 80,
+      "location": 2,
+      "content": "卧槽他从哪过来的",
+      "music": 0.0
+    },
+    {
+      "from": 160.86,
+      "to": 162.4,
+      "sid": 81,
+      "location": 2,
+      "content": "这里钢索扔了一个捆",
+      "music": 0.0
+    },
+    {
+      "from": 162.4,
+      "to": 164.26,
+      "sid": 82,
+      "location": 2,
+      "content": "我们就知道他的位置就在身后",
+      "music": 0.0
+    },
+    {
+      "from": 164.26,
+      "to": 165.94,
+      "sid": 83,
+      "location": 2,
+      "content": "所以直接来到包点下包",
+      "music": 0.0
+    },
+    {
+      "from": 165.94,
+      "to": 166.98,
+      "sid": 84,
+      "location": 2,
+      "content": "下包的时候",
+      "music": 0.0
+    },
+    {
+      "from": 166.98,
+      "to": 168.98,
+      "sid": 85,
+      "location": 2,
+      "content": "我们没有听到钢索的脚步",
+      "music": 0.0
+    },
+    {
+      "from": 168.98,
+      "to": 171.96,
+      "sid": 86,
+      "location": 2,
+      "content": "说明他没有大脚步追我们位置还离得很远",
+      "music": 0.0
+    },
+    {
+      "from": 171.96,
+      "to": 173.04,
+      "sid": 87,
+      "location": 2,
+      "content": "所以下完包之后",
+      "music": 0.0
+    },
+    {
+      "from": 173.04,
+      "to": 174.16,
+      "sid": 88,
+      "location": 2,
+      "content": "我们直接上二楼",
+      "music": 0.0
+    },
+    {
+      "from": 174.16,
+      "to": 175.76,
+      "sid": 89,
+      "location": 2,
+      "content": "他是不知道我们的位置的",
+      "music": 0.0
+    },
+    {
+      "from": 175.76,
+      "to": 176.64,
+      "sid": 90,
+      "location": 2,
+      "content": "从这里开始",
+      "music": 0.0
+    },
+    {
+      "from": 176.64,
+      "to": 178.22,
+      "sid": 91,
+      "location": 2,
+      "content": "我们换位思考一个问题",
+      "music": 0.0
+    },
+    {
+      "from": 178.22,
+      "to": 179.98,
+      "sid": 92,
+      "location": 2,
+      "content": "如果我是钢索的话",
+      "music": 0.0
+    },
+    {
+      "from": 179.98,
+      "to": 181.98,
+      "sid": 93,
+      "location": 2,
+      "content": "我不知道对面太湖的位置",
+      "music": 0.0
+    },
+    {
+      "from": 181.98,
+      "to": 184.44,
+      "sid": 94,
+      "location": 2,
+      "content": "太湖手里可能还有炮可以守包",
+      "music": 0.0
+    },
+    {
+      "from": 184.44,
+      "to": 186.18,
+      "sid": 95,
+      "location": 2,
+      "content": "这种情况下我会真拆吗",
+      "music": 0.0
+    },
+    {
+      "from": 186.18,
+      "to": 187.2,
+      "sid": 96,
+      "location": 2,
+      "content": "如果我是钢索",
+      "music": 0.0
+    },
+    {
+      "from": 187.2,
+      "to": 188.72,
+      "sid": 97,
+      "location": 2,
+      "content": "我也会先E1下包",
+      "music": 0.0
+    },
+    {
+      "from": 188.72,
+      "to": 191.04,
+      "sid": 98,
+      "location": 2,
+      "content": "无论太湖是漏脚步还是放技能",
+      "music": 0.0
+    },
+    {
+      "from": 191.04,
+      "to": 192.82,
+      "sid": 99,
+      "location": 2,
+      "content": "我都可以反过来确定他的位置",
+      "music": 0.0
+    },
+    {
+      "from": 192.82,
+      "to": 195.12,
+      "sid": 100,
+      "location": 2,
+      "content": "所以我第一下一定不会是真拆的",
+      "music": 0.0
+    },
+    {
+      "from": 195.12,
+      "to": 196.08,
+      "sid": 101,
+      "location": 2,
+      "content": "想明白这一点",
+      "music": 0.0
+    },
+    {
+      "from": 196.08,
+      "to": 197.34,
+      "sid": 102,
+      "location": 2,
+      "content": "那么我作为太湖",
+      "music": 0.0
+    },
+    {
+      "from": 197.34,
+      "to": 200.08,
+      "sid": 103,
+      "location": 2,
+      "content": "在知道他第一下90%是假拆的情况下",
+      "music": 0.0
+    },
+    {
+      "from": 200.08,
+      "to": 201.68,
+      "sid": 104,
+      "location": 2,
+      "content": "我还要交这个技能吗",
+      "music": 0.0
+    },
+    {
+      "from": 201.68,
+      "to": 202.76,
+      "sid": 105,
+      "location": 2,
+      "content": "我肯定是不交的",
+      "music": 0.0
+    },
+    {
+      "from": 202.76,
+      "to": 203.6,
+      "sid": 106,
+      "location": 2,
+      "content": "等你低包滴",
+      "music": 0.0
+    },
+    {
+      "from": 203.6,
+      "to": 204.76,
+      "sid": 107,
+      "location": 2,
+      "content": "第二下我再交",
+      "music": 0.0
+    },
+    {
+      "from": 204.76,
+      "to": 206.74,
+      "sid": 108,
+      "location": 2,
+      "content": "那这时候炮又可以再拖个几秒",
+      "music": 0.0
+    },
+    {
+      "from": 206.74,
+      "to": 208.7,
+      "sid": 109,
+      "location": 2,
+      "content": "这时候哪怕你知道我位置了",
+      "music": 0.0
+    },
+    {
+      "from": 208.7,
+      "to": 209.74,
+      "sid": 110,
+      "location": 2,
+      "content": "那又怎么样呢",
+      "music": 0.0
+    },
+    {
+      "from": 209.74,
+      "to": 210.62,
+      "sid": 111,
+      "location": 2,
+      "content": "我就跟你拖",
+      "music": 0.0
+    },
+    {
+      "from": 210.62,
+      "to": 211.8,
+      "sid": 112,
+      "location": 2,
+      "content": "反正我拖的越久",
+      "music": 0.0
+    },
+    {
+      "from": 211.8,
+      "to": 212.74,
+      "sid": 113,
+      "location": 2,
+      "content": "我胜率越高",
+      "music": 0.0
+    },
+    {
+      "from": 212.74,
+      "to": 214.06,
+      "sid": 114,
+      "location": 2,
+      "content": "不是吗",
+      "music": 0.0
+    },
+    {
+      "from": 218.24,
+      "to": 220.72,
+      "sid": 115,
+      "location": 2,
+      "content": "让导弹飞一会",
+      "music": 0.0
+    },
+    {
+      "from": 221.86,
+      "to": 223.34,
+      "sid": 116,
+      "location": 2,
+      "content": "所以想要提升思路",
+      "music": 0.0
+    },
+    {
+      "from": 223.34,
+      "to": 225.06,
+      "sid": 117,
+      "location": 2,
+      "content": "可以多尝试换位思考",
+      "music": 0.0
+    },
+    {
+      "from": 225.06,
+      "to": 226.56,
+      "sid": 118,
+      "location": 2,
+      "content": "站在敌人的角度上思考",
+      "music": 0.0
+    },
+    {
+      "from": 226.56,
+      "to": 227.6,
+      "sid": 119,
+      "location": 2,
+      "content": "如果我是他",
+      "music": 0.0
+    },
+    {
+      "from": 227.6,
+      "to": 228.42,
+      "sid": 120,
+      "location": 2,
+      "content": "我会怎么办",
+      "music": 0.0
+    },
+    {
+      "from": 228.42,
+      "to": 229.58,
+      "sid": 121,
+      "location": 2,
+      "content": "看了两个思路的",
+      "music": 0.0
+    },
+    {
+      "from": 229.58,
+      "to": 231.04,
+      "sid": 122,
+      "location": 2,
+      "content": "来看一个枪法的",
+      "music": 0.0
+    },
+    {
+      "from": 236.63,
+      "to": 238.99,
+      "sid": 123,
+      "location": 2,
+      "content": "两个我方还剩一人",
+      "music": 0.0
+    },
+    {
+      "from": 238.99,
+      "to": 239.79,
+      "sid": 124,
+      "location": 2,
+      "content": "过瘾了",
+      "music": 0.0
+    },
+    {
+      "from": 239.79,
+      "to": 240.47,
+      "sid": 125,
+      "location": 2,
+      "content": "省省吧",
+      "music": 0.0
+    },
+    {
+      "from": 240.47,
+      "to": 242.06,
+      "sid": 126,
+      "location": 2,
+      "content": "轮到我了",
+      "music": 0.0
+    },
+    {
+      "from": 242.58,
+      "to": 244.38,
+      "sid": 127,
+      "location": 2,
+      "content": "还剩一名敌人三个了",
+      "music": 0.0
+    },
+    {
+      "from": 244.38,
+      "to": 246.5,
+      "sid": 128,
+      "location": 2,
+      "content": "对牛逼牛逼牛逼牛逼",
+      "music": 0.0
+    },
+    {
+      "from": 246.5,
+      "to": 247.46,
+      "sid": 129,
+      "location": 2,
+      "content": "这里队友进点了",
+      "music": 0.0
+    },
+    {
+      "from": 247.46,
+      "to": 249.08,
+      "sid": 130,
+      "location": 2,
+      "content": "可以看到我只剩40滴血",
+      "music": 0.0
+    },
+    {
+      "from": 249.08,
+      "to": 250.1,
+      "sid": 131,
+      "location": 2,
+      "content": "但队友进去了",
+      "music": 0.0
+    },
+    {
+      "from": 250.1,
+      "to": 251.46,
+      "sid": 132,
+      "location": 2,
+      "content": "我们一定不能躲",
+      "music": 0.0
+    },
+    {
+      "from": 251.46,
+      "to": 252.78,
+      "sid": 133,
+      "location": 2,
+      "content": "直接拉出来去补枪",
+      "music": 0.0
+    },
+    {
+      "from": 252.78,
+      "to": 254.12,
+      "sid": 134,
+      "location": 2,
+      "content": "这里我们先打掉一个穆蝶",
+      "music": 0.0
+    },
+    {
+      "from": 254.12,
+      "to": 256.16,
+      "sid": 135,
+      "location": 2,
+      "content": "可以看到穆蝶是单拉出来的",
+      "music": 0.0
+    },
+    {
+      "from": 256.16,
+      "to": 257.52,
+      "sid": 136,
+      "location": 2,
+      "content": "直接跑过我们的准星了",
+      "music": 0.0
+    },
+    {
+      "from": 257.52,
+      "to": 259.2,
+      "sid": 137,
+      "location": 2,
+      "content": "我这里是往外走了一步",
+      "music": 0.0
+    },
+    {
+      "from": 259.2,
+      "to": 260.44,
+      "sid": 138,
+      "location": 2,
+      "content": "然后又立马拉回来",
+      "music": 0.0
+    },
+    {
+      "from": 260.44,
+      "to": 262.119,
+      "sid": 139,
+      "location": 2,
+      "content": "是用了DAZ死去射击",
+      "music": 0.0
+    },
+    {
+      "from": 262.119,
+      "to": 262.879,
+      "sid": 140,
+      "location": 2,
+      "content": "杀掉这个穆迪",
+      "music": 0.0
+    },
+    {
+      "from": 262.879,
+      "to": 265.559,
+      "sid": 141,
+      "location": 2,
+      "content": "然后我们往右拉打掉保安的这一枪",
+      "music": 0.0
+    },
+    {
+      "from": 265.559,
+      "to": 267.039,
+      "sid": 142,
+      "location": 2,
+      "content": "真的就是有点神经枪了",
+      "music": 0.0
+    },
+    {
+      "from": 267.039,
+      "to": 272.19,
+      "sid": 143,
+      "location": 2,
+      "content": "而且是先开枪后急停的打掉这个保安之后",
+      "music": 0.0
+    },
+    {
+      "from": 272.19,
+      "to": 274.67,
+      "sid": 144,
+      "location": 2,
+      "content": "我还要面对一个复活的穆迪和一个瑞纳",
+      "music": 0.0
+    },
+    {
+      "from": 274.67,
+      "to": 276.1,
+      "sid": 145,
+      "location": 2,
+      "content": "而我此时只剩15",
+      "music": 0.5314684943029333
+    },
+    {
+      "from": 276.1,
+      "to": 277.74,
+      "sid": 146,
+      "location": 2,
+      "content": "但这个时候我很冷静",
+      "music": 0.02439024241520714
+    },
+    {
+      "from": 277.74,
+      "to": 280.44,
+      "sid": 147,
+      "location": 2,
+      "content": "复活的牧蝶一定会很着急的找人",
+      "music": 0.0
+    },
+    {
+      "from": 280.44,
+      "to": 281.62,
+      "sid": 148,
+      "location": 2,
+      "content": "所以我一边进步",
+      "music": 0.0
+    },
+    {
+      "from": 281.62,
+      "to": 282.66,
+      "sid": 149,
+      "location": 2,
+      "content": "往左边走的时候",
+      "music": 0.0
+    },
+    {
+      "from": 282.66,
+      "to": 284.38,
+      "sid": 150,
+      "location": 2,
+      "content": "一边架了一个很大的的身位",
+      "music": 0.0
+    },
+    {
+      "from": 284.38,
+      "to": 286.4,
+      "sid": 151,
+      "location": 2,
+      "content": "因为我觉得他一定是大拉出来的",
+      "music": 0.0
+    },
+    {
+      "from": 286.4,
+      "to": 288.16,
+      "sid": 152,
+      "location": 2,
+      "content": "可以看到我准星完全没动",
+      "music": 0.0
+    },
+    {
+      "from": 288.16,
+      "to": 290.26,
+      "sid": 153,
+      "location": 2,
+      "content": "就是牧蝶自己撞上了我的准星",
+      "music": 0.0
+    },
+    {
+      "from": 290.26,
+      "to": 291.28,
+      "sid": 154,
+      "location": 2,
+      "content": "打掉穆蝶之后",
+      "music": 0.0
+    },
+    {
+      "from": 291.28,
+      "to": 292.44,
+      "sid": 155,
+      "location": 2,
+      "content": "剩最后一个瑞娜",
+      "music": 0.0
+    },
+    {
+      "from": 292.44,
+      "to": 293.58,
+      "sid": 156,
+      "location": 2,
+      "content": "看到瑞娜的瞬间",
+      "music": 0.0
+    },
+    {
+      "from": 293.58,
+      "to": 295.54,
+      "sid": 157,
+      "location": 2,
+      "content": "先将准星拉到他头部附近",
+      "music": 0.0
+    },
+    {
+      "from": 295.54,
+      "to": 297.38,
+      "sid": 158,
+      "location": 2,
+      "content": "然后我往右边挪了一步",
+      "music": 0.0
+    },
+    {
+      "from": 297.38,
+      "to": 298.44,
+      "sid": 159,
+      "location": 2,
+      "content": "躲子弹的同时",
+      "music": 0.0
+    },
+    {
+      "from": 298.44,
+      "to": 300.06,
+      "sid": 160,
+      "location": 2,
+      "content": "准星微调到瑞娜头上",
+      "music": 0.0
+    },
+    {
+      "from": 300.06,
+      "to": 301.52,
+      "sid": 161,
+      "location": 2,
+      "content": "完成1V4残局",
+      "music": 0.0
+    },
+    {
+      "from": 301.52,
+      "to": 302.58,
+      "sid": 162,
+      "location": 2,
+      "content": "杀掉这四个人",
+      "music": 0.0
+    },
+    {
+      "from": 302.58,
+      "to": 304.34,
+      "sid": 163,
+      "location": 2,
+      "content": "用了四种不同的方式",
+      "music": 0.0
+    },
+    {
+      "from": 304.34,
+      "to": 306.26,
+      "sid": 164,
+      "location": 2,
+      "content": "这不仅需要平时大大量的练习",
+      "music": 0.0
+    },
+    {
+      "from": 306.26,
+      "to": 308.0,
+      "sid": 165,
+      "location": 2,
+      "content": "还需要一套好的键鼠设备",
+      "music": 0.0
+    },
+    {
+      "from": 308.0,
+      "to": 311.68,
+      "sid": 166,
+      "location": 2,
+      "content": "像我现在正在用的这一套ROG游侠2RX键盘",
+      "music": 0.0
+    },
+    {
+      "from": 311.68,
+      "to": 315.66,
+      "sid": 167,
+      "location": 2,
+      "content": "以及ROG龙鳞s m lab合作款电竞鼠标",
+      "music": 0.0
+    },
+    {
+      "from": 315.66,
+      "to": 316.84,
+      "sid": 168,
+      "location": 2,
+      "content": "我们先来说这个鼠标",
+      "music": 0.0
+    },
+    {
+      "from": 316.84,
+      "to": 318.32,
+      "sid": 169,
+      "location": 2,
+      "content": "首先这是一款大中小",
+      "music": 0.0
+    },
+    {
+      "from": 318.32,
+      "to": 321.18,
+      "sid": 170,
+      "location": 2,
+      "content": "全手型适用的对称式无线竞技鼠标",
+      "music": 0.0
+    },
+    {
+      "from": 321.18,
+      "to": 323.72,
+      "sid": 171,
+      "location": 2,
+      "content": "它采用了全新的生物基尼龙材料外壳",
+      "music": 0.0
+    },
+    {
+      "from": 323.72,
+      "to": 325.44,
+      "sid": 172,
+      "location": 2,
+      "content": "导致它非常非常的轻",
+      "music": 0.0
+    },
+    {
+      "from": 325.44,
+      "to": 327.84,
+      "sid": 173,
+      "location": 2,
+      "content": "实测重量只有54.1克",
+      "music": 0.0
+    },
+    {
+      "from": 327.84,
+      "to": 329.52,
+      "sid": 174,
+      "location": 2,
+      "content": "在这种全手型的鼠标里",
+      "music": 0.0
+    },
+    {
+      "from": 329.52,
+      "to": 330.68,
+      "sid": 175,
+      "location": 2,
+      "content": "可以说是非常的轻了",
+      "music": 0.0
+    },
+    {
+      "from": 330.68,
+      "to": 333.64,
+      "sid": 176,
+      "location": 2,
+      "content": "在使用的时候对手腕的负荷是非常小的",
+      "music": 0.04054053917092955
+    },
+    {
+      "from": 333.64,
+      "to": 335.72,
+      "sid": 177,
+      "location": 2,
+      "content": "哪怕是长时间高强度的移动",
+      "music": 0.3557692136649391
+    },
+    {
+      "from": 335.72,
+      "to": 337.08,
+      "sid": 178,
+      "location": 2,
+      "content": "也不会有丝毫的费力",
+      "music": 0.0
+    },
+    {
+      "from": 337.08,
+      "to": 339.06,
+      "sid": 179,
+      "location": 2,
+      "content": "而且这款鼠标使用的是m point",
+      "music": 0.0
+    },
+    {
+      "from": 339.06,
+      "to": 341.14,
+      "sid": 180,
+      "location": 2,
+      "content": "36K旗舰级的传感器",
+      "music": 0.0
+    },
+    {
+      "from": 341.14,
+      "to": 342.36,
+      "sid": 181,
+      "location": 2,
+      "content": "移动非常丝滑",
+      "music": 0.0
+    },
+    {
+      "from": 342.36,
+      "to": 343.46,
+      "sid": 182,
+      "location": 2,
+      "content": "定位十分精准",
+      "music": 0.0
+    },
+    {
+      "from": 343.46,
+      "to": 346.1,
+      "sid": 183,
+      "location": 2,
+      "content": "像画面里这种快速的精细微调动作",
+      "music": 0.0
+    },
+    {
+      "from": 346.1,
+      "to": 348.22,
+      "sid": 184,
+      "location": 2,
+      "content": "都可以帮你精准无误地捕捉到",
+      "music": 0.0
+    },
+    {
+      "from": 348.22,
+      "to": 350.3,
+      "sid": 185,
+      "location": 2,
+      "content": "让你指哪打哪随心而动",
+      "music": 0.0
+    },
+    {
+      "from": 350.3,
+      "to": 352.82,
+      "sid": 186,
+      "location": 2,
+      "content": "然后这款ROG龙鳞s m lab合作版",
+      "music": 0.0
+    },
+    {
+      "from": 352.82,
+      "to": 354.02,
+      "sid": 187,
+      "location": 2,
+      "content": "是可以通过2.4",
+      "music": 0.0
+    },
+    {
+      "from": 354.02,
+      "to": 357.4,
+      "sid": 188,
+      "location": 2,
+      "content": "G蓝牙以及有线三种模式是连接鼠标的",
+      "music": 0.0
+    },
+    {
+      "from": 357.4,
+      "to": 359.72,
+      "sid": 189,
+      "location": 2,
+      "content": "使用的speed NOVA无线连接技术",
+      "music": 0.0
+    },
+    {
+      "from": 359.72,
+      "to": 361.64,
+      "sid": 190,
+      "location": 2,
+      "content": "让延迟几乎接近于零",
+      "music": 0.291666651475673
+    },
+    {
+      "from": 361.64,
+      "to": 363.94,
+      "sid": 191,
+      "location": 2,
+      "content": "无限比有线的延迟还低",
+      "music": 0.0
+    },
+    {
+      "from": 363.94,
+      "to": 366.7,
+      "sid": 192,
+      "location": 2,
+      "content": "并且不会出现任何掉帧或者断触的现象",
+      "music": 0.0
+    },
+    {
+      "from": 366.7,
+      "to": 367.5,
+      "sid": 193,
+      "location": 2,
+      "content": "外观来说",
+      "music": 0.0
+    },
+    {
+      "from": 367.5,
+      "to": 370.02,
+      "sid": 194,
+      "location": 2,
+      "content": "鼠标中键可以调节出呼吸灯的光效",
+      "music": 0.0
+    },
+    {
+      "from": 370.02,
+      "to": 372.08,
+      "sid": 195,
+      "location": 2,
+      "content": "在夜晚看上去十分炫酷",
+      "music": 0.0
+    },
+    {
+      "from": 372.08,
+      "to": 375.34,
+      "sid": 196,
+      "location": 2,
+      "content": "整个鼠标表面都用了一种类似于磨砂的材质",
+      "music": 0.0
+    },
+    {
+      "from": 375.34,
+      "to": 377.24,
+      "sid": 197,
+      "location": 2,
+      "content": "握在手里感觉非常契合",
+      "music": 0.0
+    },
+    {
+      "from": 377.24,
+      "to": 378.56,
+      "sid": 198,
+      "location": 2,
+      "content": "即便夏天手出汗了",
+      "music": 0.0
+    },
+    {
+      "from": 378.56,
+      "to": 379.32,
+      "sid": 199,
+      "location": 2,
+      "content": "也不会觉得滑",
+      "music": 0.0
+    },
+    {
+      "from": 379.32,
+      "to": 381.76,
+      "sid": 200,
+      "location": 2,
+      "content": "而且这个鼠标充一次电的续航",
+      "music": 0.0
+    },
+    {
+      "from": 381.76,
+      "to": 383.3,
+      "sid": 201,
+      "location": 2,
+      "content": "长达99个小时",
+      "music": 0.0
+    },
+    {
+      "from": 383.3,
+      "to": 386.86,
+      "sid": 202,
+      "location": 2,
+      "content": "按正常常使用频率基本一个星期才充一次电",
+      "music": 0.0
+    },
+    {
+      "from": 386.86,
+      "to": 389.22,
+      "sid": 203,
+      "location": 2,
+      "content": "而且这是我们常用的猎枪软件",
+      "music": 0.0
+    },
+    {
+      "from": 389.22,
+      "to": 390.58,
+      "sid": 204,
+      "location": 2,
+      "content": "m lab合作的一款鼠标",
+      "music": 0.0
+    },
+    {
+      "from": 390.58,
+      "to": 391.5,
+      "sid": 205,
+      "location": 2,
+      "content": "你拿到手之后",
+      "music": 0.0
+    },
+    {
+      "from": 391.5,
+      "to": 392.58,
+      "sid": 206,
+      "location": 2,
+      "content": "打开m lab软件",
+      "music": 0.0
+    },
+    {
+      "from": 392.58,
+      "to": 394.56,
+      "sid": 207,
+      "location": 2,
+      "content": "可以直接通过m lab来测试出",
+      "music": 0.0
+    },
+    {
+      "from": 394.56,
+      "to": 396.18,
+      "sid": 208,
+      "location": 2,
+      "content": "最适合你的灵敏度和设置",
+      "music": 0.27160492150586685
+    },
+    {
+      "from": 396.18,
+      "to": 398.92,
+      "sid": 209,
+      "location": 2,
+      "content": "ROG龙鳞S这个系列真的非常不错",
+      "music": 0.014598539613199405
+    },
+    {
+      "from": 398.92,
+      "to": 401.64,
+      "sid": 210,
+      "location": 2,
+      "content": "像我之前一直用的也是ROG龙鳞S迷你",
+      "music": 0.0
+    },
+    {
+      "from": 401.64,
+      "to": 404.64,
+      "sid": 211,
+      "location": 2,
+      "content": "但是这是一款专门为小手玩家定制的鼠标",
+      "music": 0.0
+    },
+    {
+      "from": 404.64,
+      "to": 407.5,
+      "sid": 212,
+      "location": 2,
+      "content": "而m lab合作版可以适配于所有手型",
+      "music": 0.0
+    },
+    {
+      "from": 407.5,
+      "to": 411.16,
+      "sid": 213,
+      "location": 2,
+      "content": "接着我们再来说这款G游侠2RX键盘",
+      "music": 0.0
+    },
+    {
+      "from": 411.16,
+      "to": 414.14,
+      "sid": 214,
+      "location": 2,
+      "content": "这款键盘使用的是ROG自研的RX轴体",
+      "music": 0.0
+    },
+    {
+      "from": 414.14,
+      "to": 417.12,
+      "sid": 215,
+      "location": 2,
+      "content": "经过精心研究测试调教之后",
+      "music": 0.0
+    },
+    {
+      "from": 417.12,
+      "to": 420.06,
+      "sid": 216,
+      "location": 2,
+      "content": "研制出的更适合电竞玩家的一种新轴体",
+      "music": 0.0
+    },
+    {
+      "from": 420.06,
+      "to": 422.36,
+      "sid": 217,
+      "location": 2,
+      "content": "这种轴体是通过光源触发",
+      "music": 0.0
+    },
+    {
+      "from": 422.36,
+      "to": 425.18,
+      "sid": 218,
+      "location": 2,
+      "content": "这样就可以让按键触发的更快更精准",
+      "music": 0.04255318998038505
+    },
+    {
+      "from": 425.18,
+      "to": 427.12,
+      "sid": 219,
+      "location": 2,
+      "content": "做到那光速响应零延迟",
+      "music": 0.11340205601018818
+    },
+    {
+      "from": 427.12,
+      "to": 430.44,
+      "sid": 220,
+      "location": 2,
+      "content": "而且光源触发还可以通过防水防尘性能",
+      "music": 0.0
+    },
+    {
+      "from": 430.44,
+      "to": 432.04,
+      "sid": 221,
+      "location": 2,
+      "content": "有效地增加键盘的使用寿命",
+      "music": 0.0
+    },
+    {
+      "from": 432.04,
+      "to": 434.28,
+      "sid": 222,
+      "location": 2,
+      "content": "像我手上这一款就是RX红轴",
+      "music": 0.0
+    },
+    {
+      "from": 434.28,
+      "to": 436.94,
+      "sid": 223,
+      "location": 2,
+      "content": "拥有1.5mm的超低触发键程",
+      "music": 0.0
+    },
+    {
+      "from": 436.94,
+      "to": 438.56,
+      "sid": 224,
+      "location": 2,
+      "content": "40克的初始压力",
+      "music": 0.0
+    },
+    {
+      "from": 438.56,
+      "to": 441.54,
+      "sid": 225,
+      "location": 2,
+      "content": "按键的感觉是非常流畅自然轻巧的",
+      "music": 0.0
+    },
+    {
+      "from": 441.54,
+      "to": 443.7,
+      "sid": 226,
+      "location": 2,
+      "content": "并且触底的反馈也非常及时",
+      "music": 0.0
+    },
+    {
+      "from": 443.7,
+      "to": 446.3,
+      "sid": 227,
+      "location": 2,
+      "content": "这种轴体在打字和使用的时候",
+      "music": 0.0
+    },
+    {
+      "from": 446.3,
+      "to": 448.04,
+      "sid": 228,
+      "location": 2,
+      "content": "声音也是非常好听的",
+      "music": 0.0
+    },
+    {
+      "from": 448.04,
+      "to": 449.42,
+      "sid": 229,
+      "location": 2,
+      "content": "按键触摸的手感",
+      "music": 0.0
+    },
+    {
+      "from": 449.42,
+      "to": 451.48,
+      "sid": 230,
+      "location": 2,
+      "content": "同样采采用的是一种类磨砂的材质",
+      "music": 0.0
+    },
+    {
+      "from": 451.48,
+      "to": 453.56,
+      "sid": 231,
+      "location": 2,
+      "content": "背后的简称可以有三种档位",
+      "music": 0.0
+    },
+    {
+      "from": 453.56,
+      "to": 455.14,
+      "sid": 232,
+      "location": 2,
+      "content": "让你的手部放置更加舒服",
+      "music": 0.0
+    },
+    {
+      "from": 455.14,
+      "to": 459.24,
+      "sid": 233,
+      "location": 2,
+      "content": "同时邮箱2RX还会赠送给你一个万托手腕",
+      "music": 0.0
+    },
+    {
+      "from": 459.24,
+      "to": 459.8,
+      "sid": 234,
+      "location": 2,
+      "content": "放在上面",
+      "music": 0.0
+    },
+    {
+      "from": 459.8,
+      "to": 460.5,
+      "sid": 235,
+      "location": 2,
+      "content": "非常舒服",
+      "music": 0.0
+    },
+    {
+      "from": 460.5,
+      "to": 461.94,
+      "sid": 236,
+      "location": 2,
+      "content": "更加爱惜你的手部健康",
+      "music": 0.0
+    },
+    {
+      "from": 461.94,
+      "to": 465.22,
+      "sid": 237,
+      "location": 2,
+      "content": "有了ROG龙鳞s m lab合作款电竞鼠标",
+      "music": 0.0
+    },
+    {
+      "from": 465.22,
+      "to": 468.46,
+      "sid": 238,
+      "location": 2,
+      "content": "和ROG游侠2RX光学机械轴键盘",
+      "music": 0.0
+    },
+    {
+      "from": 468.46,
+      "to": 470.48,
+      "sid": 239,
+      "location": 2,
+      "content": "绝对可以打出比我更秀的操作",
+      "music": 0.0
+    },
+    {
+      "from": 470.48,
+      "to": 471.96,
+      "sid": 240,
+      "location": 2,
+      "content": "打赢更精彩的残局",
+      "music": 0.0
+    },
+    {
+      "from": 471.96,
+      "to": 474.2,
+      "sid": 241,
+      "location": 2,
+      "content": "那么我们直接进入第三思路残局",
+      "music": 0.0
+    },
+    {
+      "from": 474.2,
+      "to": 476.44,
+      "sid": 242,
+      "location": 2,
+      "content": "这是手枪局赢了之后的第二个回合",
+      "music": 0.0
+    },
+    {
+      "from": 476.44,
+      "to": 478.0,
+      "sid": 243,
+      "location": 2,
+      "content": "我们队友都没有起枪",
+      "music": 0.0
+    },
+    {
+      "from": 478.0,
+      "to": 479.64,
+      "sid": 244,
+      "location": 2,
+      "content": "结果上来就被人打了个一换三",
+      "music": 0.0
+    },
+    {
+      "from": 479.64,
+      "to": 481.58,
+      "sid": 245,
+      "location": 2,
+      "content": "剩下我和钱包2V4的残局",
+      "music": 0.0
+    },
+    {
+      "from": 481.58,
+      "to": 483.44,
+      "sid": 246,
+      "location": 2,
+      "content": "那么在这种人数劣势的时候",
+      "music": 0.0
+    },
+    {
+      "from": 483.44,
+      "to": 485.9,
+      "sid": 247,
+      "location": 2,
+      "content": "一定不要着急转点或者是近点",
+      "music": 0.0
+    },
+    {
+      "from": 485.9,
+      "to": 488.76,
+      "sid": 248,
+      "location": 2,
+      "content": "而是一边尝试将人数劣势打回来的同时",
+      "music": 0.0
+    },
+    {
+      "from": 488.76,
+      "to": 490.8,
+      "sid": 249,
+      "location": 2,
+      "content": "搜集更多敌人的位置信息",
+      "music": 0.0
+    },
+    {
+      "from": 490.8,
+      "to": 492.66,
+      "sid": 250,
+      "location": 2,
+      "content": "我们就从这个时候开开始搜集",
+      "music": 0.0
+    },
+    {
+      "from": 492.66,
+      "to": 495.12,
+      "sid": 251,
+      "location": 2,
+      "content": "首先这里看到黑梦的一个眼睛扔了过来",
+      "music": 0.0
+    },
+    {
+      "from": 495.12,
+      "to": 496.88,
+      "sid": 252,
+      "location": 2,
+      "content": "知道黑梦是在A包点的",
+      "music": 0.0
+    },
+    {
+      "from": 496.88,
+      "to": 500.3,
+      "sid": 253,
+      "location": 2,
+      "content": "继续等这里听到一把鬼魅手枪在近点混烟",
+      "music": 0.0
+    },
+    {
+      "from": 500.3,
+      "to": 502.02,
+      "sid": 254,
+      "location": 2,
+      "content": "这个行为就很奇怪啊",
+      "music": 0.0
+    },
+    {
+      "from": 502.02,
+      "to": 503.9,
+      "sid": 255,
+      "location": 2,
+      "content": "我们已经很久没有漏过信息了",
+      "music": 0.0
+    },
+    {
+      "from": 503.9,
+      "to": 506.24,
+      "sid": 256,
+      "location": 2,
+      "content": "为什么对面会突然莫名其妙混烟呢",
+      "music": 0.0
+    },
+    {
+      "from": 506.24,
+      "to": 507.4,
+      "sid": 257,
+      "location": 2,
+      "content": "还是换位思考",
+      "music": 0.0
+    },
+    {
+      "from": 507.4,
+      "to": 509.46,
+      "sid": 258,
+      "location": 2,
+      "content": "如果我我现在在这里拼命混烟",
+      "music": 0.0
+    },
+    {
+      "from": 509.46,
+      "to": 512.1,
+      "sid": 259,
+      "location": 2,
+      "content": "我大概率是想要吸引引敌人的注意力",
+      "music": 0.0
+    },
+    {
+      "from": 512.1,
+      "to": 513.06,
+      "sid": 260,
+      "location": 2,
+      "content": "让敌人知道啊",
+      "music": 0.0
+    },
+    {
+      "from": 513.06,
+      "to": 513.58,
+      "sid": 261,
+      "location": 2,
+      "content": "我在这里",
+      "music": 0.0
+    },
+    {
+      "from": 513.58,
+      "to": 514.18,
+      "sid": 262,
+      "location": 2,
+      "content": "我在这里",
+      "music": 0.0
+    },
+    {
+      "from": 514.18,
+      "to": 516.02,
+      "sid": 263,
+      "location": 2,
+      "content": "如果烟里真的有敌人",
+      "music": 0.0
+    },
+    {
+      "from": 516.02,
+      "to": 517.9,
+      "sid": 264,
+      "location": 2,
+      "content": "这时候很可能就忍不住拉去了",
+      "music": 0.0
+    },
+    {
+      "from": 517.9,
+      "to": 520.58,
+      "sid": 265,
+      "location": 2,
+      "content": "那么我为什么要在这里吸引敌人的注意力呢",
+      "music": 0.0
+    },
+    {
+      "from": 520.58,
+      "to": 521.46,
+      "sid": 266,
+      "location": 2,
+      "content": "我想大概率是",
+      "music": 0.0
+    },
+    {
+      "from": 521.46,
+      "to": 524.12,
+      "sid": 267,
+      "location": 2,
+      "content": "因为我要帮旁边的一名队友当诱饵",
+      "music": 0.0
+    },
+    {
+      "from": 524.12,
+      "to": 526.3,
+      "sid": 268,
+      "location": 2,
+      "content": "如果敌人这时候真的拉出来了",
+      "music": 0.0
+    },
+    {
+      "from": 526.3,
+      "to": 528.8,
+      "sid": 269,
+      "location": 2,
+      "content": "我和队友就可以交叉枪线夹着打",
+      "music": 0.0
+    },
+    {
+      "from": 528.8,
+      "to": 531.76,
+      "sid": 270,
+      "location": 2,
+      "content": "它能和这个位置形成交叉枪线的地方在哪",
+      "music": 0.0
+    },
+    {
+      "from": 531.76,
+      "to": 534.12,
+      "sid": 271,
+      "location": 2,
+      "content": "一个是台阶形成90度交叉",
+      "music": 0.0
+    },
+    {
+      "from": 534.12,
+      "to": 535.48,
+      "sid": 272,
+      "location": 2,
+      "content": "一个是这个石头后",
+      "music": 0.0
+    },
+    {
+      "from": 535.48,
+      "to": 537.76,
+      "sid": 273,
+      "location": 2,
+      "content": "直接180度的交叉枪线好",
+      "music": 0.0
+    },
+    {
+      "from": 537.76,
+      "to": 538.96,
+      "sid": 274,
+      "location": 2,
+      "content": "那么现在回到我的视角",
+      "music": 0.0
+    },
+    {
+      "from": 538.96,
+      "to": 540.08,
+      "sid": 275,
+      "location": 2,
+      "content": "那么烟散之后",
+      "music": 0.0
+    },
+    {
+      "from": 540.08,
+      "to": 541.56,
+      "sid": 276,
+      "location": 2,
+      "content": "小身位往外分段预瞄",
+      "music": 0.0
+    },
+    {
+      "from": 541.56,
+      "to": 542.28,
+      "sid": 277,
+      "location": 2,
+      "content": "看到个钱包",
+      "music": 0.0
+    },
+    {
+      "from": 542.28,
+      "to": 545.36,
+      "sid": 278,
+      "location": 2,
+      "content": "那么就能确定钱包黑梦两个人都在A包点了",
+      "music": 0.0
+    },
+    {
+      "from": 545.36,
+      "to": 547.04,
+      "sid": 279,
+      "location": 2,
+      "content": "钱包这里开一枪踢走了",
+      "music": 0.0
+    },
+    {
+      "from": 547.04,
+      "to": 548.04,
+      "sid": 280,
+      "location": 2,
+      "content": "我们就可以抓个timing",
+      "music": 0.0
+    },
+    {
+      "from": 548.04,
+      "to": 551.34,
+      "sid": 281,
+      "location": 2,
+      "content": "走出来去找那个想和和钱包打交叉枪线的人",
+      "music": 0.0
+    },
+    {
+      "from": 551.34,
+      "to": 552.16,
+      "sid": 282,
+      "location": 2,
+      "content": "先搜台阶",
+      "music": 0.0
+    },
+    {
+      "from": 552.16,
+      "to": 552.86,
+      "sid": 283,
+      "location": 2,
+      "content": "台阶没有",
+      "music": 0.0
+    },
+    {
+      "from": 552.86,
+      "to": 554.88,
+      "sid": 284,
+      "location": 2,
+      "content": "直接大脚步搜石头后面打掉",
+      "music": 0.0
+    },
+    {
+      "from": 554.88,
+      "to": 555.84,
+      "sid": 285,
+      "location": 2,
+      "content": "躲起来的铁壁",
+      "music": 0.0
+    },
+    {
+      "from": 555.84,
+      "to": 556.88,
+      "sid": 286,
+      "location": 2,
+      "content": "退回来换个子弹",
+      "music": 0.0
+    },
+    {
+      "from": 556.88,
+      "to": 559.3,
+      "sid": 287,
+      "location": 2,
+      "content": "那么现在A包点两个还有一个牧碟",
+      "music": 0.0
+    },
+    {
+      "from": 559.3,
+      "to": 561.16,
+      "sid": 288,
+      "location": 2,
+      "content": "不知道位置继续搞动静",
+      "music": 0.0
+    },
+    {
+      "from": 561.16,
+      "to": 562.52,
+      "sid": 289,
+      "location": 2,
+      "content": "想办法把找出来",
+      "music": 0.0
+    },
+    {
+      "from": 562.52,
+      "to": 564.14,
+      "sid": 290,
+      "location": 2,
+      "content": "这里我先给了A过道一颗烟",
+      "music": 0.0
+    },
+    {
+      "from": 564.14,
+      "to": 567.02,
+      "sid": 291,
+      "location": 2,
+      "content": "这颗烟就是为了挡住包点后和二楼的枪线",
+      "music": 0.0
+    },
+    {
+      "from": 567.02,
+      "to": 568.28,
+      "sid": 292,
+      "location": 2,
+      "content": "然后直接往前走",
+      "music": 0.0
+    },
+    {
+      "from": 568.28,
+      "to": 569.94,
+      "sid": 293,
+      "location": 2,
+      "content": "听到包点后的枪声",
+      "music": 0.0
+    },
+    {
+      "from": 569.94,
+      "to": 571.06,
+      "sid": 294,
+      "location": 2,
+      "content": "确定了一个人的位置",
+      "music": 0.0
+    },
+    {
+      "from": 571.06,
+      "to": 572.46,
+      "sid": 295,
+      "location": 2,
+      "content": "然后继续放脚步",
+      "music": 0.0
+    },
+    {
+      "from": 572.46,
+      "to": 573.56,
+      "sid": 296,
+      "location": 2,
+      "content": "往前走了两步",
+      "music": 0.0
+    },
+    {
+      "from": 573.56,
+      "to": 574.6,
+      "sid": 297,
+      "location": 2,
+      "content": "再立马进步",
+      "music": 0.0
+    },
+    {
+      "from": 574.6,
+      "to": 576.86,
+      "sid": 298,
+      "location": 2,
+      "content": "在敌人视野里会觉得我已经走进来了",
+      "music": 0.0
+    },
+    {
+      "from": 576.86,
+      "to": 577.78,
+      "sid": 299,
+      "location": 2,
+      "content": "才开始进步的",
+      "music": 0.0
+    },
+    {
+      "from": 577.78,
+      "to": 579.74,
+      "sid": 300,
+      "location": 2,
+      "content": "那么我再退回掩体旁边架枪",
+      "music": 0.0
+    },
+    {
+      "from": 579.74,
+      "to": 581.72,
+      "sid": 301,
+      "location": 2,
+      "content": "在这里架枪有两个好处",
+      "music": 0.0
+    },
+    {
+      "from": 581.72,
+      "to": 583.98,
+      "sid": 302,
+      "location": 2,
+      "content": "第一我可以随时躲回掩体后面",
+      "music": 0.0
+    },
+    {
+      "from": 583.98,
+      "to": 587.16,
+      "sid": 303,
+      "location": 2,
+      "content": "第二无论是包点还是过道出来的敌人",
+      "music": 0.0
+    },
+    {
+      "from": 587.16,
+      "to": 588.86,
+      "sid": 304,
+      "location": 2,
+      "content": "都是要拉出大身位",
+      "music": 0.0
+    },
+    {
+      "from": 588.86,
+      "to": 590.28,
+      "sid": 305,
+      "location": 2,
+      "content": "大角度才能打到我",
+      "music": 0.0
+    },
+    {
+      "from": 590.28,
+      "to": 593.0,
+      "sid": 306,
+      "location": 2,
+      "content": "而我只需要架住这一条线就好",
+      "music": 0.0
+    },
+    {
+      "from": 593.0,
+      "to": 595.2,
+      "sid": 307,
+      "location": 2,
+      "content": "果然书屋的钱包被我骗出来打掉",
+      "music": 0.0
+    },
+    {
+      "from": 595.2,
+      "to": 596.68,
+      "sid": 308,
+      "location": 2,
+      "content": "但是黑梦大胆钻研出来",
+      "music": 0.0
+    },
+    {
+      "from": 596.68,
+      "to": 597.56,
+      "sid": 309,
+      "location": 2,
+      "content": "要打掉我们钱包",
+      "music": 0.0
+    },
+    {
+      "from": 597.56,
+      "to": 599.32,
+      "sid": 310,
+      "location": 2,
+      "content": "这里我刚回头想去打黑梦",
+      "music": 0.0
+    },
+    {
+      "from": 599.32,
+      "to": 600.98,
+      "sid": 311,
+      "location": 2,
+      "content": "结果身后又立马传来枪声",
+      "music": 0.0
+    },
+    {
+      "from": 600.98,
+      "to": 602.5,
+      "sid": 312,
+      "location": 2,
+      "content": "好在他马枪了",
+      "music": 0.0
+    },
+    {
+      "from": 602.5,
+      "to": 603.34,
+      "sid": 313,
+      "location": 2,
+      "content": "直接跑打",
+      "music": 0.0
+    },
+    {
+      "from": 603.34,
+      "to": 604.26,
+      "sid": 314,
+      "location": 2,
+      "content": "将木蝶收掉",
+      "music": 0.0
+    },
+    {
+      "from": 604.26,
+      "to": 605.96,
+      "sid": 315,
+      "location": 2,
+      "content": "那么最后一个黑梦的位置",
+      "music": 0.0
+    },
+    {
+      "from": 605.96,
+      "to": 608.22,
+      "sid": 316,
+      "location": 2,
+      "content": "我们知道他一定是在A包点里拉出来",
+      "music": 0.0
+    },
+    {
+      "from": 608.22,
+      "to": 609.12,
+      "sid": 317,
+      "location": 2,
+      "content": "直捡包走",
+      "music": 0.0
+    },
+    {
+      "from": 609.12,
+      "to": 611.5,
+      "sid": 318,
+      "location": 2,
+      "content": "最后一秒看到黑梦还在远点的位置",
+      "music": 0.0
+    },
+    {
+      "from": 611.5,
+      "to": 612.62,
+      "sid": 319,
+      "location": 2,
+      "content": "那我们直接转B点",
+      "music": 0.0
+    },
+    {
+      "from": 612.62,
+      "to": 615.82,
+      "sid": 320,
+      "location": 2,
+      "content": "他追我们也需要时间直接来下包",
+      "music": 0.0
+    },
+    {
+      "from": 619.18,
+      "to": 623.1,
+      "sid": 321,
+      "location": 2,
+      "content": "剩余十秒下包的时候",
+      "music": 0.0
+    },
+    {
+      "from": 623.1,
+      "to": 625.26,
+      "sid": 322,
+      "location": 2,
+      "content": "听到他的脚步踩在了草地上的声音",
+      "music": 0.0
+    },
+    {
+      "from": 625.26,
+      "to": 626.82,
+      "sid": 323,
+      "location": 2,
+      "content": "我们直接放脚步跳上二楼",
+      "music": 0.0
+    },
+    {
+      "from": 626.82,
+      "to": 628.18,
+      "sid": 324,
+      "location": 2,
+      "content": "他听到也没有关系",
+      "music": 0.0
+    },
+    {
+      "from": 628.18,
+      "to": 629.18,
+      "sid": 325,
+      "location": 2,
+      "content": "下完包之后",
+      "music": 0.0
+    },
+    {
+      "from": 629.18,
+      "to": 630.84,
+      "sid": 326,
+      "location": 2,
+      "content": "主动权就在我们手里了",
+      "music": 0.0
+    },
+    {
+      "from": 630.84,
+      "to": 631.92,
+      "sid": 327,
+      "location": 2,
+      "content": "我们手里还有一颗豆豆",
+      "music": 0.0
+    },
+    {
+      "from": 631.92,
+      "to": 632.98,
+      "sid": 328,
+      "location": 2,
+      "content": "立马点在包旁边",
+      "music": 0.0
+    },
+    {
+      "from": 632.98,
+      "to": 634.32,
+      "sid": 329,
+      "location": 2,
+      "content": "然后我们直接进步",
+      "music": 0.0
+    },
+    {
+      "from": 634.32,
+      "to": 635.44,
+      "sid": 330,
+      "location": 2,
+      "content": "往A大绕过去",
+      "music": 0.0
+    },
+    {
+      "from": 635.44,
+      "to": 636.36,
+      "sid": 331,
+      "location": 2,
+      "content": "这里他拆了包",
+      "music": 0.0
+    },
+    {
+      "from": 636.36,
+      "to": 638.44,
+      "sid": 332,
+      "location": 2,
+      "content": "又立马漏了脚步声",
+      "music": 0.0
+    },
+    {
+      "from": 639.9,
+      "to": 641.26,
+      "sid": 333,
+      "location": 2,
+      "content": "所以一定是没拆的",
+      "music": 0.0
+    },
+    {
+      "from": 641.26,
+      "to": 643.84,
+      "sid": 334,
+      "location": 2,
+      "content": "然后过了一会他居然没有第二次递包",
+      "music": 0.0
+    },
+    {
+      "from": 643.84,
+      "to": 646.66,
+      "sid": 335,
+      "location": 2,
+      "content": "我就预判他大概率是主动跳上二楼",
+      "music": 0.0
+    },
+    {
+      "from": 646.66,
+      "to": 648.0,
+      "sid": 336,
+      "location": 2,
+      "content": "想要主动来亲我",
+      "music": 0.0
+    },
+    {
+      "from": 648.0,
+      "to": 650.4,
+      "sid": 337,
+      "location": 2,
+      "content": "但这时候我们已经马上要绕到小黑屋了",
+      "music": 0.0
+    },
+    {
+      "from": 650.4,
+      "to": 651.72,
+      "sid": 338,
+      "location": 2,
+      "content": "他肯定是找不到人的",
+      "music": 0.0
+    },
+    {
+      "from": 651.72,
+      "to": 653.96,
+      "sid": 339,
+      "location": 2,
+      "content": "所以这时候我们先别着急进黑屋",
+      "music": 0.0
+    },
+    {
+      "from": 653.96,
+      "to": 655.6,
+      "sid": 340,
+      "location": 2,
+      "content": "等他跳下来拆包的时候",
+      "music": 0.0
+    },
+    {
+      "from": 655.6,
+      "to": 657.24,
+      "sid": 341,
+      "location": 2,
+      "content": "我们再给他拆不了包",
+      "music": 0.0
+    },
+    {
+      "from": 657.24,
+      "to": 658.72,
+      "sid": 342,
+      "location": 2,
+      "content": "所以他往黑屋这边跳过来",
+      "music": 0.0
+    },
+    {
+      "from": 658.72,
+      "to": 659.58,
+      "sid": 343,
+      "location": 2,
+      "content": "看了一眼黑屋",
+      "music": 0.0
+    },
+    {
+      "from": 659.58,
+      "to": 661.12,
+      "sid": 344,
+      "location": 2,
+      "content": "发现黑屋也没人",
+      "music": 0.0
+    },
+    {
+      "from": 661.12,
+      "to": 662.56,
+      "sid": 345,
+      "location": 2,
+      "content": "那这个时候他就麻了",
+      "music": 0.0
+    },
+    {
+      "from": 662.56,
+      "to": 663.52,
+      "sid": 346,
+      "location": 2,
+      "content": "二楼也没有",
+      "music": 0.0
+    },
+    {
+      "from": 663.52,
+      "to": 664.36,
+      "sid": 347,
+      "location": 2,
+      "content": "黑屋也没有",
+      "music": 0.0
+    },
+    {
+      "from": 664.36,
+      "to": 666.52,
+      "sid": 348,
+      "location": 2,
+      "content": "他觉得我们就去绕CB连去了",
+      "music": 0.0
+    },
+    {
+      "from": 666.52,
+      "to": 667.94,
+      "sid": 349,
+      "location": 2,
+      "content": "等到听到他脚步不走了",
+      "music": 0.0
+    },
+    {
+      "from": 667.94,
+      "to": 669.7,
+      "sid": 350,
+      "location": 2,
+      "content": "我们再从小黑屋摸进去",
+      "music": 0.0
+    },
+    {
+      "from": 669.7,
+      "to": 670.94,
+      "sid": 351,
+      "location": 2,
+      "content": "等他拆包的时候",
+      "music": 0.0
+    },
+    {
+      "from": 670.94,
+      "to": 671.9,
+      "sid": 352,
+      "location": 2,
+      "content": "直接打背身",
+      "music": 0.5208332790799087
+    },
+    {
+      "from": 671.9,
+      "to": 674.58,
+      "sid": 353,
+      "location": 2,
+      "content": "可以看到他还让穆迪给了一个CB连的烟",
+      "music": 0.13432835319670514
+    },
+    {
+      "from": 674.58,
+      "to": 676.48,
+      "sid": 354,
+      "location": 2,
+      "content": "所以一切尽在掌握",
+      "music": 0.0
+    }
+  ]
+}

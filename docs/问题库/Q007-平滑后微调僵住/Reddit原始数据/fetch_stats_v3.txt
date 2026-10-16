@@ -1,0 +1,11 @@
+Q007 Reddit 抓取统计（v3 含评论）
+生成时间: 2026-10-13
+数据源: devvit-dev.log（菜单触发 12 任务批量搜索 + 每帖 top5 评论）
+
+去重帖子数: 125
+评论总数: 576
+带评论的帖子数: 125
+每帖平均评论(仅带评论帖): 4.61
+
+帖子字段: id/title/author/score/comments/permalink/url/createdAt/body(2500字截断)
+评论字段: postId/id/author/score/createdAt/body(300字预览)

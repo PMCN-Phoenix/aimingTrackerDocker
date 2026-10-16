@@ -1,0 +1,1036 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "v1.7.0.4",
+  "body": [
+    {
+      "from": 0.0,
+      "to": 2.68,
+      "sid": 1,
+      "location": 2,
+      "content": "就是很多人质疑说就这样放脚步大",
+      "music": 0.0
+    },
+    {
+      "from": 2.68,
+      "to": 3.9,
+      "sid": 2,
+      "location": 2,
+      "content": "然后对面很好架",
+      "music": 0.0
+    },
+    {
+      "from": 3.9,
+      "to": 4.88,
+      "sid": 3,
+      "location": 2,
+      "content": "看下他好架吗",
+      "music": 0.0
+    },
+    {
+      "from": 6.12,
+      "to": 9.08,
+      "sid": 4,
+      "location": 2,
+      "content": "我方还是不好架",
+      "music": 0.0
+    },
+    {
+      "from": 11.86,
+      "to": 12.96,
+      "sid": 5,
+      "location": 2,
+      "content": "快走吧",
+      "music": 0.0
+    },
+    {
+      "from": 12.96,
+      "to": 15.5,
+      "sid": 6,
+      "location": 2,
+      "content": "我方还剩一半",
+      "music": 0.0
+    },
+    {
+      "from": 22.08,
+      "to": 24.0,
+      "sid": 7,
+      "location": 2,
+      "content": "一名敌人干掉四个",
+      "music": 0.0
+    },
+    {
+      "from": 24.0,
+      "to": 25.53,
+      "sid": 8,
+      "location": 2,
+      "content": "我的大招好了",
+      "music": 0.0
+    },
+    {
+      "from": 25.53,
+      "to": 28.51,
+      "sid": 9,
+      "location": 2,
+      "content": "牛逼牛逼",
+      "music": 0.0
+    },
+    {
+      "from": 28.51,
+      "to": 29.55,
+      "sid": 10,
+      "location": 2,
+      "content": "这对面在干嘛",
+      "music": 0.0
+    },
+    {
+      "from": 29.55,
+      "to": 31.41,
+      "sid": 11,
+      "location": 2,
+      "content": "你要干什么",
+      "music": 0.0
+    },
+    {
+      "from": 31.41,
+      "to": 34.77,
+      "sid": 12,
+      "location": 2,
+      "content": "厉害厉害嗨",
+      "music": 0.0
+    },
+    {
+      "from": 34.77,
+      "to": 37.57,
+      "sid": 13,
+      "location": 2,
+      "content": "这段这段又要发半年了",
+      "music": 0.0
+    },
+    {
+      "from": 37.57,
+      "to": 39.15,
+      "sid": 14,
+      "location": 2,
+      "content": "额哈哈哈",
+      "music": 0.0
+    },
+    {
+      "from": 39.15,
+      "to": 39.75,
+      "sid": 15,
+      "location": 2,
+      "content": "你有点抖",
+      "music": 0.0
+    },
+    {
+      "from": 39.75,
+      "to": 41.91,
+      "sid": 16,
+      "location": 2,
+      "content": "我看一遍回放吗",
+      "music": 0.0
+    },
+    {
+      "from": 41.91,
+      "to": 44.24,
+      "sid": 17,
+      "location": 2,
+      "content": "这个五杀呃",
+      "music": 0.0
+    },
+    {
+      "from": 44.24,
+      "to": 47.41,
+      "sid": 18,
+      "location": 2,
+      "content": "哎这一波有几波操作细节啊",
+      "music": 0.0
+    },
+    {
+      "from": 47.41,
+      "to": 50.21,
+      "sid": 19,
+      "location": 2,
+      "content": "兄弟们可以给大家这个稍微讲一下",
+      "music": 0.0
+    },
+    {
+      "from": 50.21,
+      "to": 52.14,
+      "sid": 20,
+      "location": 2,
+      "content": "这波五杀给你们分析一下",
+      "music": 0.0
+    },
+    {
+      "from": 52.14,
+      "to": 53.66,
+      "sid": 21,
+      "location": 2,
+      "content": "当然肯定是对面给机会了",
+      "music": 0.0
+    },
+    {
+      "from": 53.66,
+      "to": 54.74,
+      "sid": 22,
+      "location": 2,
+      "content": "最主要是对面给机会了",
+      "music": 0.0
+    },
+    {
+      "from": 54.74,
+      "to": 57.34,
+      "sid": 23,
+      "location": 2,
+      "content": "但是这几波有几个这个对枪的小技巧",
+      "music": 0.0
+    },
+    {
+      "from": 57.34,
+      "to": 58.34,
+      "sid": 24,
+      "location": 2,
+      "content": "可以学习一下",
+      "music": 0.0
+    },
+    {
+      "from": 58.34,
+      "to": 60.38,
+      "sid": 25,
+      "location": 2,
+      "content": "你看我的第一时间预瞄点在这里",
+      "music": 0.0
+    },
+    {
+      "from": 60.38,
+      "to": 64.099,
+      "sid": 26,
+      "location": 2,
+      "content": "但是你看我立马把预瞄点调大了",
+      "music": 0.0
+    },
+    {
+      "from": 64.099,
+      "to": 64.619,
+      "sid": 27,
+      "location": 2,
+      "content": "是不是",
+      "music": 0.0
+    },
+    {
+      "from": 64.619,
+      "to": 66.279,
+      "sid": 28,
+      "location": 2,
+      "content": "因为这是个90度直角墙位",
+      "music": 0.0
+    },
+    {
+      "from": 66.279,
+      "to": 66.979,
+      "sid": 29,
+      "location": 2,
+      "content": "贴紧了",
+      "music": 0.0
+    },
+    {
+      "from": 66.979,
+      "to": 67.379,
+      "sid": 30,
+      "location": 2,
+      "content": "架不住",
+      "music": 0.0
+    },
+    {
+      "from": 67.379,
+      "to": 68.799,
+      "sid": 31,
+      "location": 2,
+      "content": "所以我把预瞄点拉大了一点",
+      "music": 0.0
+    },
+    {
+      "from": 68.799,
+      "to": 69.619,
+      "sid": 32,
+      "location": 2,
+      "content": "让他出来撞",
+      "music": 0.0
+    },
+    {
+      "from": 69.619,
+      "to": 71.15,
+      "sid": 33,
+      "location": 2,
+      "content": "我预瞄了",
+      "music": 0.0
+    },
+    {
+      "from": 71.43,
+      "to": 72.63,
+      "sid": 34,
+      "location": 2,
+      "content": "但是第二时间",
+      "music": 0.0
+    },
+    {
+      "from": 72.63,
+      "to": 74.95,
+      "sid": 35,
+      "location": 2,
+      "content": "因为他这个黑梦相当于锁我位置了",
+      "music": 0.0
+    },
+    {
+      "from": 74.95,
+      "to": 75.75,
+      "sid": 36,
+      "location": 2,
+      "content": "是不是",
+      "music": 0.0
+    },
+    {
+      "from": 75.75,
+      "to": 79.11,
+      "sid": 37,
+      "location": 2,
+      "content": "那第二时间第二个人可能是小拉的",
+      "music": 0.0
+    },
+    {
+      "from": 80.08,
+      "to": 82.72,
+      "sid": 38,
+      "location": 2,
+      "content": "所以我的预瞄量提前量就变小了",
+      "music": 0.0
+    },
+    {
+      "from": 82.72,
+      "to": 85.32,
+      "sid": 39,
+      "location": 2,
+      "content": "然后这个穆蝶正好是你看他就是半身位蹭我的",
+      "music": 0.0
+    },
+    {
+      "from": 85.32,
+      "to": 86.76,
+      "sid": 40,
+      "location": 2,
+      "content": "他是他是半步peek出来的",
+      "music": 0.0
+    },
+    {
+      "from": 86.76,
+      "to": 88.45,
+      "sid": 41,
+      "location": 2,
+      "content": "然后正好又撞我水晶好",
+      "music": 0.0
+    },
+    {
+      "from": 88.45,
+      "to": 89.17,
+      "sid": 42,
+      "location": 2,
+      "content": "第三个是准了",
+      "music": 0.0
+    },
+    {
+      "from": 89.17,
+      "to": 90.23,
+      "sid": 43,
+      "location": 2,
+      "content": "第三个没啥",
+      "music": 0.0
+    },
+    {
+      "from": 90.23,
+      "to": 93.33,
+      "sid": 44,
+      "location": 2,
+      "content": "然后这一波里面还有一个细节啊",
+      "music": 0.0
+    },
+    {
+      "from": 93.6,
+      "to": 95.44,
+      "sid": 45,
+      "location": 2,
+      "content": "还有一个细节走到这儿",
+      "music": 0.0
+    },
+    {
+      "from": 95.44,
+      "to": 97.24,
+      "sid": 46,
+      "location": 2,
+      "content": "你看听到了一个高跟鞋的声音",
+      "music": 0.0
+    },
+    {
+      "from": 97.24,
+      "to": 98.68,
+      "sid": 47,
+      "location": 2,
+      "content": "听到没",
+      "music": 0.0
+    },
+    {
+      "from": 101.24,
+      "to": 102.58,
+      "sid": 48,
+      "location": 2,
+      "content": "高跟鞋的声音",
+      "music": 0.0
+    },
+    {
+      "from": 102.58,
+      "to": 105.48,
+      "sid": 49,
+      "location": 2,
+      "content": "那我大概知道他要么在这里架第一枪位",
+      "music": 0.0
+    },
+    {
+      "from": 105.48,
+      "to": 106.78,
+      "sid": 50,
+      "location": 2,
+      "content": "要么在这里飞鸟也架",
+      "music": 0.0
+    },
+    {
+      "from": 106.78,
+      "to": 110.1,
+      "sid": 51,
+      "location": 2,
+      "content": "但这个角度如果我半睡半睡慢慢排的话啊",
+      "music": 0.0
+    },
+    {
+      "from": 110.17,
+      "to": 111.85,
+      "sid": 52,
+      "location": 2,
+      "content": "我半身为半身慢慢排",
+      "music": 0.0
+    },
+    {
+      "from": 111.85,
+      "to": 112.83,
+      "sid": 53,
+      "location": 2,
+      "content": "会有一个问题",
+      "music": 0.0
+    },
+    {
+      "from": 112.83,
+      "to": 114.39,
+      "sid": 54,
+      "location": 2,
+      "content": "就是我低速拉不起来",
+      "music": 0.0
+    },
+    {
+      "from": 114.39,
+      "to": 115.71,
+      "sid": 55,
+      "location": 2,
+      "content": "那这个时候大家可以想起来",
+      "music": 0.0
+    },
+    {
+      "from": 115.71,
+      "to": 116.99,
+      "sid": 56,
+      "location": 2,
+      "content": "就是我们之前讲过那个教学",
+      "music": 0.0
+    },
+    {
+      "from": 116.99,
+      "to": 118.07,
+      "sid": 57,
+      "location": 2,
+      "content": "一打一残局的过程中",
+      "music": 0.0
+    },
+    {
+      "from": 118.07,
+      "to": 120.28,
+      "sid": 58,
+      "location": 2,
+      "content": "或者局部一打的过程中锁定对面位置了",
+      "music": 0.0
+    },
+    {
+      "from": 120.28,
+      "to": 123.789,
+      "sid": 59,
+      "location": 2,
+      "content": "那我们就可以直接大了就可以可以",
+      "music": 0.0
+    },
+    {
+      "from": 123.789,
+      "to": 124.989,
+      "sid": 60,
+      "location": 2,
+      "content": "你看我先",
+      "music": 0.0
+    },
+    {
+      "from": 124.989,
+      "to": 126.529,
+      "sid": 61,
+      "location": 2,
+      "content": "但是不能全程打捞啊",
+      "music": 0.0
+    },
+    {
+      "from": 126.529,
+      "to": 128.449,
+      "sid": 62,
+      "location": 2,
+      "content": "所以说你看我先静步走两步",
+      "music": 0.0
+    },
+    {
+      "from": 128.449,
+      "to": 131.189,
+      "sid": 63,
+      "location": 2,
+      "content": "然后走到这个即将要掰的这个位置之后",
+      "music": 0.0
+    },
+    {
+      "from": 131.189,
+      "to": 134.39,
+      "sid": 64,
+      "location": 2,
+      "content": "然后我全程平滑的大拉过来预瞄预瞄他",
+      "music": 0.0
+    },
+    {
+      "from": 134.39,
+      "to": 135.03,
+      "sid": 65,
+      "location": 2,
+      "content": "然后给他杀了",
+      "music": 0.0
+    },
+    {
+      "from": 136.03,
+      "to": 136.67,
+      "sid": 66,
+      "location": 2,
+      "content": "杀完了之后",
+      "music": 0.0
+    },
+    {
+      "from": 136.67,
+      "to": 138.45,
+      "sid": 67,
+      "location": 2,
+      "content": "对面钱包又他妈放脚步了",
+      "music": 0.0
+    },
+    {
+      "from": 138.45,
+      "to": 139.71,
+      "sid": 68,
+      "location": 2,
+      "content": "对面失误很多",
+      "music": 0.0
+    },
+    {
+      "from": 139.71,
+      "to": 140.269,
+      "sid": 69,
+      "location": 2,
+      "content": "好吧",
+      "music": 0.0
+    },
+    {
+      "from": 140.269,
+      "to": 141.189,
+      "sid": 70,
+      "location": 2,
+      "content": "又放了他的脚步",
+      "music": 0.0
+    },
+    {
+      "from": 141.189,
+      "to": 143.149,
+      "sid": 71,
+      "location": 2,
+      "content": "又给了我一点心理预警",
+      "music": 0.0
+    },
+    {
+      "from": 143.72,
+      "to": 145.38,
+      "sid": 72,
+      "location": 2,
+      "content": "然后对面就送完了",
+      "music": 0.0
+    },
+    {
+      "from": 145.38,
+      "to": 146.16,
+      "sid": 73,
+      "location": 2,
+      "content": "懂吧",
+      "music": 0.0
+    },
+    {
+      "from": 146.16,
+      "to": 147.5,
+      "sid": 74,
+      "location": 2,
+      "content": "全都是细节啊",
+      "music": 0.0
+    },
+    {
+      "from": 147.5,
+      "to": 150.59,
+      "sid": 75,
+      "location": 2,
+      "content": "宝宝能讲讲霓虹金A点进攻思路吗",
+      "music": 0.0
+    },
+    {
+      "from": 150.87,
+      "to": 152.53,
+      "sid": 76,
+      "location": 2,
+      "content": "呃别RUA1",
+      "music": 0.0
+    },
+    {
+      "from": 152.53,
+      "to": 154.59,
+      "sid": 77,
+      "location": 2,
+      "content": "你点错的",
+      "music": 0.0
+    },
+    {
+      "from": 159.08,
+      "to": 159.64,
+      "sid": 78,
+      "location": 2,
+      "content": "看到没",
+      "music": 0.0
+    },
+    {
+      "from": 159.64,
+      "to": 160.12,
+      "sid": 79,
+      "location": 2,
+      "content": "就这个位置",
+      "music": 0.0
+    },
+    {
+      "from": 160.12,
+      "to": 161.76,
+      "sid": 80,
+      "location": 2,
+      "content": "你看我静步走这个墙后面",
+      "music": 0.0
+    },
+    {
+      "from": 161.76,
+      "to": 163.36,
+      "sid": 81,
+      "location": 2,
+      "content": "然后我后面就全程大拉了",
+      "music": 0.0
+    },
+    {
+      "from": 163.36,
+      "to": 165.94,
+      "sid": 82,
+      "location": 2,
+      "content": "因为我知道这个角度如果半步半步的peek",
+      "music": 0.0
+    },
+    {
+      "from": 165.94,
+      "to": 166.8,
+      "sid": 83,
+      "location": 2,
+      "content": "他很容易架住",
+      "music": 0.0
+    },
+    {
+      "from": 166.8,
+      "to": 169.74,
+      "sid": 84,
+      "location": 2,
+      "content": "所以你看一个大拉干掉四个",
+      "music": 0.0
+    },
+    {
+      "from": 169.74,
+      "to": 171.34,
+      "sid": 85,
+      "location": 2,
+      "content": "我懂吧",
+      "music": 0.0
+    },
+    {
+      "from": 171.9,
+      "to": 173.38,
+      "sid": 86,
+      "location": 2,
+      "content": "这些操作细节啊",
+      "music": 0.0
+    },
+    {
+      "from": 173.38,
+      "to": 175.3,
+      "sid": 87,
+      "location": 2,
+      "content": "兄弟们得学好吧",
+      "music": 0.0
+    },
+    {
+      "from": 175.3,
+      "to": 177.58,
+      "sid": 88,
+      "location": 2,
+      "content": "得学霓虹丁A点进攻啊",
+      "music": 0.0
+    },
+    {
+      "from": 177.58,
+      "to": 178.42,
+      "sid": 89,
+      "location": 2,
+      "content": "霓虹灯就别RUA",
+      "music": 0.0
+    },
+    {
+      "from": 178.42,
+      "to": 180.9,
+      "sid": 90,
+      "location": 2,
+      "content": "要打就第二时间打RUAA是错的",
+      "music": 0.0
+    },
+    {
+      "from": 180.9,
+      "to": 181.94,
+      "sid": 91,
+      "location": 2,
+      "content": "要么就上上铁板",
+      "music": 0.0
+    },
+    {
+      "from": 181.94,
+      "to": 184.36,
+      "sid": 92,
+      "location": 2,
+      "content": "然后打夹A但是直接RUA包点很难打",
+      "music": 0.0
+    },
+    {
+      "from": 184.36,
+      "to": 186.1,
+      "sid": 93,
+      "location": 2,
+      "content": "除非你有强力大招",
+      "music": 0.0
+    },
+    {
+      "from": 186.1,
+      "to": 187.58,
+      "sid": 94,
+      "location": 2,
+      "content": "我们来看一下帅尔视角",
+      "music": 0.0
+    },
+    {
+      "from": 187.58,
+      "to": 188.82,
+      "sid": 95,
+      "location": 2,
+      "content": "我们只看雷娜就够了好吧",
+      "music": 0.0
+    },
+    {
+      "from": 188.82,
+      "to": 190.9,
+      "sid": 96,
+      "location": 2,
+      "content": "我们只看雷纳就够了",
+      "music": 0.0
+    },
+    {
+      "from": 191.69,
+      "to": 195.37,
+      "sid": 97,
+      "location": 2,
+      "content": "你看下雷纳的视角绝不绝望感",
+      "music": 0.0
+    },
+    {
+      "from": 195.37,
+      "to": 198.33,
+      "sid": 98,
+      "location": 2,
+      "content": "就是很多人质疑说就这样放脚步大拉",
+      "music": 0.0
+    },
+    {
+      "from": 198.33,
+      "to": 199.19,
+      "sid": 99,
+      "location": 2,
+      "content": "对面很好架",
+      "music": 0.0
+    },
+    {
+      "from": 199.19,
+      "to": 200.834,
+      "sid": 100,
+      "location": 2,
+      "content": "你看下他好架吗",
+      "music": 0.0
+    },
+    {
+      "from": 201.25,
+      "to": 204.41,
+      "sid": 101,
+      "location": 2,
+      "content": "我方还是爆炸",
+      "music": 0.0
+    },
+    {
+      "from": 205.67,
+      "to": 207.49,
+      "sid": 102,
+      "location": 2,
+      "content": "给你们看一下这个细节",
+      "music": 0.0
+    },
+    {
+      "from": 207.49,
+      "to": 210.13,
+      "sid": 103,
+      "location": 2,
+      "content": "我的大招不好",
+      "music": 0.0
+    },
+    {
+      "from": 210.61,
+      "to": 211.45,
+      "sid": 104,
+      "location": 2,
+      "content": "我走到这儿",
+      "music": 0.0
+    },
+    {
+      "from": 211.45,
+      "to": 212.41,
+      "sid": 105,
+      "location": 2,
+      "content": "开始静步静步",
+      "music": 0.0
+    },
+    {
+      "from": 212.41,
+      "to": 213.29,
+      "sid": 106,
+      "location": 2,
+      "content": "走到静步",
+      "music": 0.0
+    },
+    {
+      "from": 213.29,
+      "to": 214.09,
+      "sid": 107,
+      "location": 2,
+      "content": "走到墙体后",
+      "music": 0.0
+    },
+    {
+      "from": 214.09,
+      "to": 214.77,
+      "sid": 108,
+      "location": 2,
+      "content": "长差不多了",
+      "music": 0.0
+    },
+    {
+      "from": 214.77,
+      "to": 216.49,
+      "sid": 109,
+      "location": 2,
+      "content": "然后开始全程放脚步往外打了",
+      "music": 0.0
+    },
+    {
+      "from": 216.49,
+      "to": 218.31,
+      "sid": 110,
+      "location": 2,
+      "content": "我方还剩一人",
+      "music": 0.0
+    },
+    {
+      "from": 218.31,
+      "to": 220.19,
+      "sid": 111,
+      "location": 2,
+      "content": "不好架吧",
+      "music": 0.0
+    },
+    {
+      "from": 222.1,
+      "to": 223.78,
+      "sid": 112,
+      "location": 2,
+      "content": "敌人我的大招好了",
+      "music": 0.0
+    },
+    {
+      "from": 224.86,
+      "to": 228.86,
+      "sid": 113,
+      "location": 2,
+      "content": "我方还剩一人爆炸的咳",
+      "music": 0.0
+    },
+    {
+      "from": 228.86,
+      "to": 230.62,
+      "sid": 114,
+      "location": 2,
+      "content": "这样爆炸的",
+      "music": 0.0
+    },
+    {
+      "from": 230.78,
+      "to": 232.3,
+      "sid": 115,
+      "location": 2,
+      "content": "所以说残局锁位置",
+      "music": 0.0
+    },
+    {
+      "from": 232.3,
+      "to": 233.62,
+      "sid": 116,
+      "location": 2,
+      "content": "局部一打一的情况下",
+      "music": 0.0
+    },
+    {
+      "from": 233.62,
+      "to": 234.54,
+      "sid": 117,
+      "location": 2,
+      "content": "他漏信息的",
+      "music": 0.0
+    },
+    {
+      "from": 234.54,
+      "to": 236.68,
+      "sid": 118,
+      "location": 2,
+      "content": "局部一大的情况下就不要半步pk了",
+      "music": 0.0
+    },
+    {
+      "from": 236.68,
+      "to": 238.26,
+      "sid": 119,
+      "location": 2,
+      "content": "该该掰就掰了好吧",
+      "music": 0.0
+    },
+    {
+      "from": 238.26,
+      "to": 239.95,
+      "sid": 120,
+      "location": 2,
+      "content": "该大拉就该大拉了",
+      "music": 0.0
+    },
+    {
+      "from": 239.95,
+      "to": 241.27,
+      "sid": 121,
+      "location": 2,
+      "content": "雷纳都没准备好",
+      "music": 0.0
+    },
+    {
+      "from": 241.27,
+      "to": 243.11,
+      "sid": 122,
+      "location": 2,
+      "content": "有没有一种可能雷纳没准备好的",
+      "music": 0.0
+    },
+    {
+      "from": 243.11,
+      "to": 245.51,
+      "sid": 123,
+      "location": 2,
+      "content": "最关键的问贵专最关键的原因是",
+      "music": 0.0
+    },
+    {
+      "from": 245.51,
+      "to": 249.07,
+      "sid": 124,
+      "location": 2,
+      "content": "因为我大狼还把他速度抢了",
+      "music": 0.0
+    },
+    {
+      "from": 249.07,
+      "to": 250.23,
+      "sid": 125,
+      "location": 2,
+      "content": "他想不到我会拉这么快",
+      "music": 0.0
+    },
+    {
+      "from": 250.23,
+      "to": 250.67,
+      "sid": 126,
+      "location": 2,
+      "content": "他还在想",
+      "music": 0.0
+    },
+    {
+      "from": 250.67,
+      "to": 254.33,
+      "sid": 127,
+      "location": 2,
+      "content": "我可能会一步一步慢慢pk前点的是不是这个理",
+      "music": 0.0
+    },
+    {
+      "from": 254.33,
+      "to": 255.74,
+      "sid": 128,
+      "location": 2,
+      "content": "我就问你",
+      "music": 0.0
+    }
+  ]
+}

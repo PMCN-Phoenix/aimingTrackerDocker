@@ -1,0 +1,644 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "v1.6.0.4",
+  "body": [
+    {
+      "from": 0.74,
+      "to": 1.52,
+      "sid": 1,
+      "location": 2,
+      "content": "哈喽大家好",
+      "music": 0.0
+    },
+    {
+      "from": 1.52,
+      "to": 2.3,
+      "sid": 2,
+      "location": 2,
+      "content": "我是瑶瑶",
+      "music": 0.0
+    },
+    {
+      "from": 2.3,
+      "to": 4.76,
+      "sid": 3,
+      "location": 2,
+      "content": "今天视频呢给大家带来港服超凡局",
+      "music": 0.0
+    },
+    {
+      "from": 4.76,
+      "to": 6.68,
+      "sid": 4,
+      "location": 2,
+      "content": "莲花古城的单曲教学",
+      "music": 0.0
+    },
+    {
+      "from": 6.68,
+      "to": 8.48,
+      "sid": 5,
+      "location": 2,
+      "content": "很多兄弟们呢都跟我说",
+      "music": 0.0
+    },
+    {
+      "from": 8.48,
+      "to": 9.87,
+      "sid": 6,
+      "location": 2,
+      "content": "残局没有什么好的思路",
+      "music": 0.0
+    },
+    {
+      "from": 9.87,
+      "to": 13.59,
+      "sid": 7,
+      "location": 2,
+      "content": "这期视频呢我会告诉大家如何去获取信息",
+      "music": 0.0
+    },
+    {
+      "from": 13.59,
+      "to": 16.28,
+      "sid": 8,
+      "location": 2,
+      "content": "分析信息以及如何处理残局的",
+      "music": 0.0
+    },
+    {
+      "from": 16.28,
+      "to": 17.84,
+      "sid": 9,
+      "location": 2,
+      "content": "也希望对你们有帮助",
+      "music": 0.0
+    },
+    {
+      "from": 17.84,
+      "to": 19.76,
+      "sid": 10,
+      "location": 2,
+      "content": "然后看完的话记得给我点个赞吧",
+      "music": 0.0
+    },
+    {
+      "from": 20.78,
+      "to": 21.2,
+      "sid": 11,
+      "location": 2,
+      "content": "好的",
+      "music": 0.0
+    },
+    {
+      "from": 21.2,
+      "to": 23.04,
+      "sid": 12,
+      "location": 2,
+      "content": "那我们就直接开始",
+      "music": 0.0
+    },
+    {
+      "from": 23.04,
+      "to": 26.88,
+      "sid": 13,
+      "location": 2,
+      "content": "因为我前几回合一直都是守C点的",
+      "music": 0.0
+    },
+    {
+      "from": 26.88,
+      "to": 30.119,
+      "sid": 14,
+      "location": 2,
+      "content": "我这里并不知道对面一个抢A大的道具习惯",
+      "music": 0.0
+    },
+    {
+      "from": 30.119,
+      "to": 31.979,
+      "sid": 15,
+      "location": 2,
+      "content": "跟队友进行简单的沟通后",
+      "music": 0.0
+    },
+    {
+      "from": 31.979,
+      "to": 34.679,
+      "sid": 16,
+      "location": 2,
+      "content": "得知对面的铁壁抢A大的时候不喜欢给震",
+      "music": 0.0
+    },
+    {
+      "from": 34.679,
+      "to": 37.199,
+      "sid": 17,
+      "location": 2,
+      "content": "我这个时候也是前压",
+      "music": 0.0
+    },
+    {
+      "from": 37.199,
+      "to": 39.739,
+      "sid": 18,
+      "location": 2,
+      "content": "看能不能啥都要过点的一个人",
+      "music": 0.0
+    },
+    {
+      "from": 39.929,
+      "to": 41.329,
+      "sid": 19,
+      "location": 2,
+      "content": "这里也是很可惜啊",
+      "music": 0.0
+    },
+    {
+      "from": 41.329,
+      "to": 42.799,
+      "sid": 20,
+      "location": 2,
+      "content": "看到两个没有击中",
+      "music": 0.0
+    },
+    {
+      "from": 42.799,
+      "to": 44.99,
+      "sid": 21,
+      "location": 2,
+      "content": "然后立马TP回来保命",
+      "music": 0.0
+    },
+    {
+      "from": 44.99,
+      "to": 48.35,
+      "sid": 22,
+      "location": 2,
+      "content": "这个时候其实你能看到A大有3~4个人了",
+      "music": 0.0
+    },
+    {
+      "from": 48.35,
+      "to": 51.23,
+      "sid": 23,
+      "location": 2,
+      "content": "并且我看到右上方铁皮他是有大的",
+      "music": 0.0
+    },
+    {
+      "from": 51.23,
+      "to": 53.15,
+      "sid": 24,
+      "location": 2,
+      "content": "所以我觉得对方大概率会打A",
+      "music": 0.0
+    },
+    {
+      "from": 53.15,
+      "to": 54.64,
+      "sid": 25,
+      "location": 2,
+      "content": "然后并且告知队友",
+      "music": 0.0
+    },
+    {
+      "from": 54.64,
+      "to": 57.06,
+      "sid": 26,
+      "location": 2,
+      "content": "这里再告诉大家一个小技巧",
+      "music": 0.0
+    },
+    {
+      "from": 57.06,
+      "to": 60.96,
+      "sid": 27,
+      "location": 2,
+      "content": "就是我们看右上角的一个英雄背景图的时候",
+      "music": 0.0
+    },
+    {
+      "from": 60.96,
+      "to": 62.58,
+      "sid": 28,
+      "location": 2,
+      "content": "如果他的背景图是黄色的",
+      "music": 0.0
+    },
+    {
+      "from": 62.58,
+      "to": 64.08,
+      "sid": 29,
+      "location": 2,
+      "content": "就代表这个英雄是有大招的",
+      "music": 0.0
+    },
+    {
+      "from": 64.08,
+      "to": 65.04,
+      "sid": 30,
+      "location": 2,
+      "content": "如果不是",
+      "music": 0.0
+    },
+    {
+      "from": 65.04,
+      "to": 66.04,
+      "sid": 31,
+      "location": 2,
+      "content": "那就没有",
+      "music": 0.0
+    },
+    {
+      "from": 66.06,
+      "to": 68.08,
+      "sid": 32,
+      "location": 2,
+      "content": "然后这个时候回去的时候",
+      "music": 0.0
+    },
+    {
+      "from": 68.08,
+      "to": 69.94,
+      "sid": 33,
+      "location": 2,
+      "content": "爆点是肯定不能占了的",
+      "music": 0.0
+    },
+    {
+      "from": 69.94,
+      "to": 73.72,
+      "sid": 34,
+      "location": 2,
+      "content": "所以我选择去一个更加安全的地方去进行加狙",
+      "music": 0.0
+    },
+    {
+      "from": 73.72,
+      "to": 76.42,
+      "sid": 35,
+      "location": 2,
+      "content": "然后因为这个欧门的烟他是只有15秒",
+      "music": 0.0
+    },
+    {
+      "from": 76.42,
+      "to": 79.09,
+      "sid": 36,
+      "location": 2,
+      "content": "然后我们就等这个烟就好了",
+      "music": 0.0
+    },
+    {
+      "from": 79.09,
+      "to": 80.86,
+      "sid": 37,
+      "location": 2,
+      "content": "然后这里铁皮开了大招",
+      "music": 0.0
+    },
+    {
+      "from": 80.86,
+      "to": 82.28,
+      "sid": 38,
+      "location": 2,
+      "content": "然后对面也进",
+      "music": 0.0
+    },
+    {
+      "from": 82.62,
+      "to": 84.44,
+      "sid": 39,
+      "location": 2,
+      "content": "然后包点基本都死的差不多了",
+      "music": 0.0
+    },
+    {
+      "from": 84.44,
+      "to": 85.28,
+      "sid": 40,
+      "location": 2,
+      "content": "欧盟的黑没有推到",
+      "music": 0.0
+    },
+    {
+      "from": 85.28,
+      "to": 87.05,
+      "sid": 41,
+      "location": 2,
+      "content": "我成功加到了过点一个",
+      "music": 0.0
+    },
+    {
+      "from": 87.05,
+      "to": 90.43,
+      "sid": 42,
+      "location": 2,
+      "content": "然后这里呢我们退回去重新看一下",
+      "music": 0.0
+    },
+    {
+      "from": 90.43,
+      "to": 91.93,
+      "sid": 43,
+      "location": 2,
+      "content": "注意我们这个小地图",
+      "music": 0.0
+    },
+    {
+      "from": 91.93,
+      "to": 93.91,
+      "sid": 44,
+      "location": 2,
+      "content": "其实在我去玩欧盟的时候",
+      "music": 0.0
+    },
+    {
+      "from": 93.91,
+      "to": 96.06,
+      "sid": 45,
+      "location": 2,
+      "content": "其实我就看到了我们的左上角",
+      "music": 0.0
+    },
+    {
+      "from": 96.06,
+      "to": 97.32,
+      "sid": 46,
+      "location": 2,
+      "content": "它是有三个问号的",
+      "music": 0.0
+    },
+    {
+      "from": 97.32,
+      "to": 99.9,
+      "sid": 47,
+      "location": 2,
+      "content": "但是唯一的一个不知不确定因素",
+      "music": 0.0
+    },
+    {
+      "from": 99.9,
+      "to": 100.98,
+      "sid": 48,
+      "location": 2,
+      "content": "就是奇乐在哪里",
+      "music": 0.0
+    },
+    {
+      "from": 100.98,
+      "to": 104.11,
+      "sid": 49,
+      "location": 2,
+      "content": "我们并不知道这里也能看到我们的欧盟",
+      "music": 0.0
+    },
+    {
+      "from": 104.11,
+      "to": 106.27,
+      "sid": 50,
+      "location": 2,
+      "content": "他在一个B区前顶的一个位置",
+      "music": 0.0
+    },
+    {
+      "from": 106.27,
+      "to": 109.87,
+      "sid": 51,
+      "location": 2,
+      "content": "所以我觉得齐乐大概的位置是在A大附近",
+      "music": 0.0
+    },
+    {
+      "from": 109.87,
+      "to": 111.509,
+      "sid": 52,
+      "location": 2,
+      "content": "以及AB连附近的",
+      "music": 0.0
+    },
+    {
+      "from": 111.509,
+      "to": 113.369,
+      "sid": 53,
+      "location": 2,
+      "content": "因为还没有确定其他的位置",
+      "music": 0.0
+    },
+    {
+      "from": 113.369,
+      "to": 114.329,
+      "sid": 54,
+      "location": 2,
+      "content": "我担心他拉烟",
+      "music": 0.0
+    },
+    {
+      "from": 114.329,
+      "to": 116.159,
+      "sid": 55,
+      "location": 2,
+      "content": "所以加了一个过点",
+      "music": 0.0
+    },
+    {
+      "from": 116.159,
+      "to": 120.17,
+      "sid": 56,
+      "location": 2,
+      "content": "但是很可惜这一期没有狙到这个捡包的人",
+      "music": 0.0
+    },
+    {
+      "from": 120.17,
+      "to": 123.59,
+      "sid": 57,
+      "location": 2,
+      "content": "不过呢我们的欧盟也是很漂亮的把齐乐打掉了",
+      "music": 0.0
+    },
+    {
+      "from": 123.59,
+      "to": 125.21,
+      "sid": 58,
+      "location": 2,
+      "content": "但是这个时候我就已经能确定",
+      "music": 0.0
+    },
+    {
+      "from": 125.21,
+      "to": 126.71,
+      "sid": 59,
+      "location": 2,
+      "content": "三个人已经全部在包点了",
+      "music": 0.0
+    },
+    {
+      "from": 126.71,
+      "to": 129.87,
+      "sid": 60,
+      "location": 2,
+      "content": "并且下包的那个人是铁臂去进行下包的",
+      "music": 0.0
+    },
+    {
+      "from": 129.87,
+      "to": 133.71,
+      "sid": 61,
+      "location": 2,
+      "content": "阿里这里欧盟这个动作其实还是非常不错的",
+      "music": 0.0
+    },
+    {
+      "from": 133.71,
+      "to": 135.33,
+      "sid": 62,
+      "location": 2,
+      "content": "只不过他拉的有点太快了",
+      "music": 0.0
+    },
+    {
+      "from": 135.33,
+      "to": 136.44,
+      "sid": 63,
+      "location": 2,
+      "content": "太着急了",
+      "music": 0.0
+    },
+    {
+      "from": 136.44,
+      "to": 140.28,
+      "sid": 64,
+      "location": 2,
+      "content": "不过这边队友其实能看到左边是有两个人的",
+      "music": 0.0
+    },
+    {
+      "from": 140.28,
+      "to": 141.45,
+      "sid": 65,
+      "location": 2,
+      "content": "然后近点有个阶梯",
+      "music": 0.0
+    },
+    {
+      "from": 141.45,
+      "to": 142.68,
+      "sid": 66,
+      "location": 2,
+      "content": "还有二楼有个瑞纳",
+      "music": 0.0
+    },
+    {
+      "from": 142.68,
+      "to": 144.68,
+      "sid": 67,
+      "location": 2,
+      "content": "但是铁臂他到从头到尾",
+      "music": 0.0
+    },
+    {
+      "from": 144.68,
+      "to": 146.18,
+      "sid": 68,
+      "location": 2,
+      "content": "一直没有给队友打过步枪",
+      "music": 0.0
+    },
+    {
+      "from": 146.18,
+      "to": 148.39,
+      "sid": 69,
+      "location": 2,
+      "content": "所以我一直很担心他突然拉出来",
+      "music": 0.0
+    },
+    {
+      "from": 148.39,
+      "to": 149.41,
+      "sid": 70,
+      "location": 2,
+      "content": "铁皮不出来",
+      "music": 0.0
+    },
+    {
+      "from": 149.41,
+      "to": 150.73,
+      "sid": 71,
+      "location": 2,
+      "content": "我们就慢慢的去批判",
+      "music": 0.0
+    },
+    {
+      "from": 150.73,
+      "to": 153.39,
+      "sid": 72,
+      "location": 2,
+      "content": "把这个二楼的指甲的瑞纳给杀掉",
+      "music": 0.0
+    },
+    {
+      "from": 153.39,
+      "to": 154.77,
+      "sid": 73,
+      "location": 2,
+      "content": "这也能退回警家",
+      "music": 0.0
+    },
+    {
+      "from": 154.77,
+      "to": 155.85,
+      "sid": 74,
+      "location": 2,
+      "content": "然后发现狙没有子弹了",
+      "music": 0.0
+    },
+    {
+      "from": 155.85,
+      "to": 156.63,
+      "sid": 75,
+      "location": 2,
+      "content": "就切回手枪",
+      "music": 0.0
+    },
+    {
+      "from": 156.63,
+      "to": 157.89,
+      "sid": 76,
+      "location": 2,
+      "content": "我等了两秒再出去",
+      "music": 0.0
+    },
+    {
+      "from": 157.89,
+      "to": 158.79,
+      "sid": 77,
+      "location": 2,
+      "content": "然后爆点的铁皮",
+      "music": 0.0
+    },
+    {
+      "from": 158.79,
+      "to": 160.44,
+      "sid": 78,
+      "location": 2,
+      "content": "他不知道我是摸狗还是摸右",
+      "music": 0.0
+    },
+    {
+      "from": 160.44,
+      "to": 162.55,
+      "sid": 79,
+      "location": 2,
+      "content": "然后最后也是成功拿下残局",
+      "music": 0.0
+    }
+  ]
+}

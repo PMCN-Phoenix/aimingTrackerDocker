@@ -1,0 +1,13 @@
+VALORANT 包点对枪调研 - Reddit 抓取统计
+生成时间: 2026-10-13
+数据源: devvit-dev.log（菜单触发 12 任务批量搜索 + 每帖 top5 评论）
+主题: 在包点门口和包点里面进行远程对枪，总是对不过怎么办
+关键词: 12 个（见 meta.keywords），覆盖 r/VALORANT / r/VALORANTCompetitive / r/AgentAcademy
+
+去重帖子数: 198
+评论总数: 963
+带评论的帖子数: 198
+每帖平均评论(仅带评论帖): 4.86
+
+帖子字段: id/title/author/score/comments/permalink/url/createdAt/body(2500字截断)
+评论字段: postId/id/author/score/createdAt/body(300字预览)
