@@ -7,12 +7,14 @@ from .influx_client import db
 # ==================== 成绩表迁移期兼容（2026-10-16 修订） ====================
 # 背景：权威成绩表已迁移到 kovaak_score（含 hits/misses），旧表 aim_scenario
 # 的 740 个成绩点经实测已 100% 并入新表（见 docs/接手报告-20261016.md P0-1）。
+# 2026-10-16 用户决策①：旧表先备份 CSV（backup_aim_scenario.py）并标记弃用，
+# 观察 2-4 周确认新表无遗漏后删除；届时本文件的旧表兜底分支可一并移除。
 # 迁移期查询规则——严禁两表计数相加（旧表数据已包含在新表内，相加会双算）：
 #   计数类（轮数）：以新表为准，新表无数据时才按场景粒度回退旧表；
 #   极值类（最佳分）：两表取 max（幂等不会双算，且能兜底旧表独有的点）；
 #   趋势类（历史）：以新表为准，新表无数据才整体回退旧表（避免同一点重复出现）。
 NEW_SCORE_MEASUREMENT = "kovaak_score"
-OLD_SCORE_MEASUREMENT = "aim_scenario"
+OLD_SCORE_MEASUREMENT = "aim_scenario"  # DEPRECATED：待观察期后删除，勿再写入
 
 
 def _flux_count_rounds(measurement: str, scenario: str, start_str: str, end_str: str, list_name: str) -> str:

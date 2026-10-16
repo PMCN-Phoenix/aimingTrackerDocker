@@ -106,8 +106,9 @@ def main():
                 where[s] = (cat, sub)
 
     # 最新成绩（一次查询全部 S2 场景）
-    # 成绩表迁移（2026-10-16）：kovaak_score（新表，权威）优先；
-    # 新表无数据时才回退 aim_scenario（旧表，其成绩点已 100% 并入新表）。
+    # 成绩表迁移（2026-10-16 用户决策①）：kovaak_score（新表，权威）优先；
+    # 新表无数据时才回退 aim_scenario（旧表，已备份 CSV 并标记 DEPRECATED，
+    # 其成绩点已 100% 并入新表，观察 2-4 周后删除）。
     # 严禁两表混用——旧表数据已含在新表内，混用会让同一次 run 的点重复出现。
     rows = flux('from(bucket: "aim") |> range(start: -30d) '
                 '|> filter(fn: (r) => r._measurement == "kovaak_score" '
