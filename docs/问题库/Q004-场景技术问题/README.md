@@ -6,7 +6,7 @@
 
 ## 当前状态
 
-- 3 个已记录问题，均在验证中或未解决
+- 4 个已记录问题，均在验证中或未解决
 - 使用索引表.csv 统一管理
 
 ## 产物索引
@@ -25,6 +25,7 @@
 | [Q004.1](子问题/Q004.1-tamTargetSwitch方向性控制不对称/) | tamTargetSwitch Smooth | 向左稳定，向右不行 | 验证中 |
 | [Q004.2](子问题/Q004.2-小目标微调不行/) | VT PreciseOrb Intermediate Small | 大范围OK，小目标微调不行 | 验证中 |
 | [Q004.3](子问题/Q004.3-高速变向反应不过来/) | Midrange Short Strafes | 高速变向反应不过来 | 未解决 |
+| [Q004.4](子问题/Q004.4-ReflexFlick定位甩不过去/) | Reflex Flick - Easy | 定位慢+甩不过去+目标刷新快没机会微调 | 未解决 |
 
 ## 新增问题流程
 
