@@ -6,3 +6,4 @@ Q004.4,2026-10-16,VDIM Day6（静态点击）,Reflex Flick - Easy,发力/静态�
 Q004.5,2026-10-17,VDIM Day6（静态点击）,VT Multiclick 120 Novice Speed Focus LG56,预判点击/目标切换/迁移,Target Switching,预判占位点击丝滑分高但感觉与静态训练无关，实战迁移需调整（防背图+复位纪律+保留纯反应）,已调研·待验证,1,子问题/Q004.5-Multiclick预判点击与实战迁移/README.md,,
 Q004.6,2026-10-17,VDIM Day6（静态点击）,VT Multiclick 120 Novice LG56,大角度修正/贴近反应,Target Switching,多目标预判打法下远距离两目标来不及修正打空+贴近目标反应不过来（弹道段泄力+两段式甩枪+钩取+停机时间）,已调研·待验证,1,子问题/Q004.6-Multiclick远距离目标连续击打与贴近反应/README.md,,
 Q004.7,2026-10-17,VDIM Day6（静态点击）,Pokeball Frenzy Auto 1w4ts,大甩/微调过度/临界点发力,Static Clicking,远距离拉不过去（腕射程耗尽结构选错）+打多了手感变差（张力累积+冲量变异性）+微调过度（修正无上限），临界点四步标准：果断80-90%出甩欠甩偏置→对称减速→腕回中立位→单次慢微调确认,已调研·待验证,1,子问题/Q004.7-PokeballFrenzy大甩与微调过度临界点/README.md,,
+Q004.8,2026-10-17,VDIM Day6（静态点击）,Pressure Aiming-5 Target,缩靶时间压力/确认时序/跑分策略,Static Clicking,缩靶机制=Fitts难度实时上升；快速涨分三层：跑分层(先打最老靶/靶大早commit/状态窗口)+技术层(预判重合提前下指令/修正≤1/准确率85-95红线)+底层(Q004.7临界点四步平移),已调研·待验证,1,子问题/Q004.8-PressureAiming五目标打法与涨分/README.md,,
