@@ -225,19 +225,35 @@ from(bucket: "{db.bucket}")
     return result
 
 
+def _escape_tag(value: str) -> str:
+    """Line Protocol tag 值转义：反斜杠、空格、逗号、等号必须转义"""
+    return (value.replace("\\", "\\\\")
+                 .replace(" ", "\\ ")
+                 .replace(",", "\\,")
+                 .replace("=", "\\="))
+
+
+def _escape_field_string(value: str) -> str:
+    """Line Protocol 字符串 field 转义：只需转义反斜杠和双引号
+
+    注意：空格和逗号在双引号内是合法字符，**不能**转义，
+    否则反斜杠会被当成内容存进库（历史 bug）。
+    """
+    return value.replace("\\", "\\\\").replace('"', '\\"')
+
+
 def create_reflection(scenario: str, note: str, daylist: str = None) -> Dict[str, Any]:
     """新增一条感悟"""
     import time
     ts = int(time.time())
-    
+
     # 构建 Line Protocol
-    tags = f"scenario={scenario}"
+    tags = f"scenario={_escape_tag(scenario)}"
     if daylist:
-        tags += f",daylist={daylist}"
-    
-    # 转义感悟里的逗号和空格
-    note_escaped = note.replace(',', '\\,').replace(' ', '\\ ')
-    
+        tags += f",daylist={_escape_tag(daylist)}"
+
+    note_escaped = _escape_field_string(note)
+
     line = f"aim_reflection,{tags} note=\"{note_escaped}\" {ts * 1000000000}"
     
     # 写入 InfluxDB
