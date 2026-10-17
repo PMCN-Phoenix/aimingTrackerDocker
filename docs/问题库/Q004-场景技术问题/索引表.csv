@@ -4,3 +4,4 @@ Q004.2,2026-10-09,VDIM W1D1（平滑跟枪）,VT PreciseOrb Intermediate Small,�
 Q004.3,2026-10-10,VDIM W1D2（反应跟枪）,Midrange Short Strafes Invincible Raspberry Easy,反应跟枪/变向,Reactive,目标高速平滑+减速转向加速时反应不过来,未解决,1,子问题/Q004.3-高速变向反应不过来/README.md,,
 Q004.4,2026-10-16,VDIM Day6（静态点击）,Reflex Flick - Easy,发力/静态点击,Static Clicking,定位慢+甩不过去+目标刷新快没机会微调（首次落点与flick速度问题）,未解决,1,子问题/Q004.4-ReflexFlick定位甩不过去/README.md,,
 Q004.5,2026-10-17,VDIM Day6（静态点击）,VT Multiclick 120 Novice Speed Focus LG56,预判点击/目标切换/迁移,Target Switching,预判占位点击丝滑分高但感觉与静态训练无关，实战迁移需调整（防背图+复位纪律+保留纯反应）,已调研·待验证,1,子问题/Q004.5-Multiclick预判点击与实战迁移/README.md,,
+Q004.6,2026-10-17,VDIM Day6（静态点击）,VT Multiclick 120 Novice LG56,大角度修正/贴近反应,Target Switching,多目标预判打法下远距离两目标来不及修正打空+贴近目标反应不过来（弹道段泄力+两段式甩枪+钩取+停机时间）,已调研·待验证,1,子问题/Q004.6-Multiclick远距离目标连续击打与贴近反应/README.md,,
