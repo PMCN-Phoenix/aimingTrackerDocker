@@ -37,27 +37,30 @@ class InfluxDBClient:
         return self._parse_csv(csv_data)
 
     def _parse_csv(self, csv_data: str) -> List[Dict[str, Any]]:
-        """解析 InfluxDB 返回的 CSV 数据（用标准 csv 模块，正确处理引号内的逗号）"""
-        # 找到第一个 header 行（以 ,result, 开头）
-        lines = csv_data.strip().split("\n")
-        header_idx = -1
-        for i, line in enumerate(lines):
-            if line.startswith(",result,"):
-                header_idx = i
-                break
+        """解析 InfluxDB 返回的 CSV 数据（用标准 csv 模块，正确处理引号内的逗号）
 
-        if header_idx == -1:
+        注意：InfluxDB 返回 CSV 时，**每个不同 schema 的 table 都会重复输出一次表头**。
+        pivot 之后如果不同记录缺失某些 field（例如有的感悟有 scenario、有的没有），
+        就会出现多段表头。只按第一段表头解析会让后续 table 的列整体错位，
+        因此这里按表头行切块，逐块解析后合并。
+        """
+        lines = csv_data.strip().split("\n")
+        header_idxs = [i for i, line in enumerate(lines) if line.startswith(",result,")]
+        if not header_idxs:
             return []
 
-        # 从 header 行开始，用 csv 模块解析
-        csv_text = "\n".join(lines[header_idx:])
-        reader = csv.DictReader(io.StringIO(csv_text))
-        results = []
-        for row in reader:
-            # 跳过空行和结果元数据行
-            if not row.get("_value") and not row.get("_time"):
+        results: List[Dict[str, Any]] = []
+        for n, header_idx in enumerate(header_idxs):
+            end = header_idxs[n + 1] if n + 1 < len(header_idxs) else len(lines)
+            chunk = [ln for ln in lines[header_idx:end] if ln.strip()]
+            if not chunk:
                 continue
-            results.append(dict(row))
+            reader = csv.DictReader(io.StringIO("\n".join(chunk)))
+            for row in reader:
+                # 跳过空行和结果元数据行
+                if not row.get("_value") and not row.get("_time"):
+                    continue
+                results.append(dict(row))
 
         return results
 
