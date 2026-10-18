@@ -1,5 +1,13 @@
 # 项目协作规则
 
+0. **【双远程备份 · 最高优先级】每次改动、每次导入新数据、每次写新文档，收尾必须同时推到两个远程，一个都不能漏：**
+   - `origin` → `git@gitee.com:PMCN-Phoenix/aim-tracker-docker.git`（主仓）
+   - `github` → `git@github.com:PMCN-Phoenix/aimingTrackerDocker.git`（异地备份）
+
+   一键执行：`bash scripts/backup_push.sh "提交说明"`（自动 add → commit → 推 origin → 推 github，并校验两边 SHA 一致）。
+   判定标准：`git rev-parse HEAD` 与 `git ls-remote origin main`、`git ls-remote github main` 三者相同才算备份完成。
+   只要有一边推送失败，任务视为未完成，必须报告失败原因，不许静默跳过。
+
 1. 每次改动后必须创建对应的 git commit。
 2. 每次改动后必须编写或更新测试，并在交付前自测。
 3. **创建每日练习清单时，必须先读 `docs/清单/viscose训练推进建议/交给其他Agent-Day4清单制作交接单.md`**，严格遵守其中的选场景规则和格式约束。
