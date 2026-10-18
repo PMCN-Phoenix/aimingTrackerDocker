@@ -31,6 +31,7 @@
 | [Q004.7](子问题/Q004.7-PokeballFrenzy大甩与微调过度临界点/) | Pokeball Frenzy | 大甩与微调过度的临界点 | 已调研·待验证 |
 | [Q004.8](子问题/Q004.8-PressureAiming五目标打法与涨分/) | Pressure Aiming 5 Target | 五目标打法与涨分（缩靶/时间压力/确认点击时序） | 已调研·待验证 |
 | [Q004.9](子问题/Q004.9-EclipseFlick热身场景涨分/) | Eclipse Flick Warmup（LG56 热身） | 老打到中间无敌球导致打不中；瓶颈是节奏不是精度 | 已调研·待验证 |
+| [Q004.10](子问题/Q004.10-CenteringII180noStrafes转向同步/) | Centering II 180 no strafes easier | 目标到最边缘时不能同步停下来；停止不是动作是"已松完"的状态 | 已调研·待验证 |
 
 ## 新增问题流程
 
