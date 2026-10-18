@@ -27,6 +27,10 @@
 | [Q004.3](子问题/Q004.3-高速变向反应不过来/) | Midrange Short Strafes | 高速变向反应不过来 | 未解决 |
 | [Q004.4](子问题/Q004.4-ReflexFlick定位甩不过去/) | Reflex Flick - Easy | 定位慢+甩不过去+目标刷新快没机会微调 | 未解决 |
 | [Q004.5](子问题/Q004.5-Multiclick预判点击与实战迁移/) | VT Multiclick 120 Novice Speed Focus LG56 | 预判点击丝滑分高但"和静态训练没关系"，实战迁移怎么调 | 已调研·待验证 |
+| [Q004.6](子问题/Q004.6-Multiclick远距离目标连续击打与贴近反应/) | VT Multiclick 远距离 | 远距离目标连续击打 + 贴近反应 | 已调研·待验证 |
+| [Q004.7](子问题/Q004.7-PokeballFrenzy大甩与微调过度临界点/) | Pokeball Frenzy | 大甩与微调过度的临界点 | 已调研·待验证 |
+| [Q004.8](子问题/Q004.8-PressureAiming五目标打法与涨分/) | Pressure Aiming 5 Target | 五目标打法与涨分（缩靶/时间压力/确认点击时序） | 已调研·待验证 |
+| [Q004.9](子问题/Q004.9-EclipseFlick热身场景涨分/) | Eclipse Flick Warmup（LG56 热身） | 老打到中间无敌球导致打不中；瓶颈是节奏不是精度 | 已调研·待验证 |
 
 ## 新增问题流程
 
