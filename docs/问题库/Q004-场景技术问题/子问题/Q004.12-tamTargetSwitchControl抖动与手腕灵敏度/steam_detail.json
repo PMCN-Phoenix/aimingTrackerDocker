@@ -1,0 +1,74 @@
+[
+  {
+    "id": "2183788318",
+    "title": "tamTargetSwitch Control",
+    "subs": 26,
+    "desc": "Small regenerating dots wiggle back and forth around you, 0.5s ttk, up to 1s to regen to full, starts regening 0.3s after going off target"
+  },
+  {
+    "id": "2193101371",
+    "title": "tamTargetSwitch Control Hard",
+    "subs": 40,
+    "desc": "Small regenerating dots wiggle back and forth around you while also bouncing slowly, 0.5s ttk, up to 1s to regen to full, starts regening 0.3s after going off target"
+  },
+  {
+    "id": "2522496909",
+    "title": "TamTargetSwitch Control Easy",
+    "subs": 0,
+    "desc": "Small regenerating dots wiggle back and forth around you, 0.5s ttk, up to 1s to regen to full, starts regening 0.3s after going off target"
+  },
+  {
+    "id": "2855599533",
+    "title": "tamTargetSwitch Control Initiate",
+    "subs": 2,
+    "desc": "Small regenerating dots wiggle back and forth around you, 0.5s ttk, up to 1s to regen to full, starts regening 0.3s after going off target\r\n\r\n50% bigger"
+  },
+  {
+    "id": "3412764985",
+    "title": "tamTargetSwitch Control Intermediate",
+    "subs": 5,
+    "desc": "Slightly modified version of the scenario with larger, faster bots that have a significantly lower ttk\r\n\r\nSmall regenerating dots wiggle back and forth around you while also bouncing slowly, 0.25s ttk, up to 0.5s to regen to full, starts regening 0.3s after going off target"
+  },
+  {
+    "id": "3412765199",
+    "title": "tamTargetSwitch Control Advanced",
+    "subs": 1,
+    "desc": "Slightly modified version of the scenario with larger, faster bots that have a significantly lower ttk\r\n\r\nSmall regenerating dots wiggle back and forth around you while also bouncing slowly, 0.25s ttk, up to 0.5s to regen to full, starts regening 0.3s after going off target"
+  },
+  {
+    "id": "2193872594",
+    "title": "tamTargetSwitch Control Small",
+    "subs": 24,
+    "desc": "Small regenerating dots wiggle back and forth around you, 0.5s ttk, up to 1s to regen to full, starts regening 0.3s after going off target, ~50% less 2d surface area"
+  },
+  {
+    "id": "2392789238",
+    "title": "tamTargetSwitch Control Smaller Longer Strafes",
+    "subs": 1,
+    "desc": "Small regenerating dots wiggle back and forth around you, 0.5s ttk, up to 1s to regen to full, starts regening 0.3s after going off target"
+  },
+  {
+    "id": "3564757731",
+    "title": "tamTargetSwitch Smooth Wrist",
+    "subs": 0,
+    "desc": "Small regenerating dots circle around you, 0.5s ttk, 0.5s max to regen to full, starts regening Immediatey if you go off target."
+  },
+  {
+    "id": "3567511123",
+    "title": "tamTargetSwitch Smooth WRIST V2",
+    "subs": 1,
+    "desc": "Small regenerating dots circle around you, 0.5s ttk, 0.5s max to regen to full, starts regening Immediatey if you go off target."
+  },
+  {
+    "id": "2183788413",
+    "title": "tamTargetSwitch Smooth",
+    "subs": 296,
+    "desc": "Small regenerating dots circle around you, 0.5s ttk, 0.5s max to regen to full, starts regening Immediatey if you go off target."
+  },
+  {
+    "id": "3422247586",
+    "title": "tamTargetSwitch Smooth Intermediate",
+    "subs": 6,
+    "desc": "Small regenerating dots circle around you while bouncing slowly, 0.5s ttk, 0.5s max to regen to full, starts regening Immediatey if you go off target"
+  }
+]

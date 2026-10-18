@@ -1,0 +1,422 @@
+[
+  {
+    "id": "2183788413",
+    "title": "tamTargetSwitch Smooth",
+    "time_created": 1596242746,
+    "subs": 296,
+    "desc": "Small regenerating dots circle around you, 0.5s ttk, 0.5s max to regen to full, starts regening Immediatey if you go off target."
+  },
+  {
+    "id": "2859362361",
+    "title": "tamTargetSwitch Smooth Easy",
+    "time_created": 1662436162,
+    "subs": 129,
+    "desc": "Small regenerating dots circle around you, 0.5s ttk, 0.5s max to regen to full, starts regening Immediatey if you go off target. slower than original"
+  },
+  {
+    "id": "2193101371",
+    "title": "tamTargetSwitch Control Hard",
+    "time_created": 1597053371,
+    "subs": 40,
+    "desc": "Small regenerating dots wiggle back and forth around you while also bouncing slowly, 0.5s ttk, up to 1s to regen to full, starts regening 0.3s after going off target"
+  },
+  {
+    "id": "2183788318",
+    "title": "tamTargetSwitch Control",
+    "time_created": 1596242737,
+    "subs": 26,
+    "desc": "Small regenerating dots wiggle back and forth around you, 0.5s ttk, up to 1s to regen to full, starts regening 0.3s after going off target"
+  },
+  {
+    "id": "2193101719",
+    "title": "tamTargetSwitch Smooth Hard",
+    "time_created": 1597053404,
+    "subs": 34,
+    "desc": "Small regenerating dots circle around you while bouncing slowly, 0.5s ttk, 0.5s max to regen to full, starts regening Immediatey if you go off target"
+  },
+  {
+    "id": "2193872594",
+    "title": "tamTargetSwitch Control Small",
+    "time_created": 1597117012,
+    "subs": 24,
+    "desc": "Small regenerating dots wiggle back and forth around you, 0.5s ttk, up to 1s to regen to full, starts regening 0.3s after going off target, ~50% less 2d surface area"
+  },
+  {
+    "id": "2827279432",
+    "title": "tamTargetSwitch Control Hard small",
+    "time_created": 1656417063,
+    "subs": 1,
+    "desc": "Small regenerating dots wiggle back and forth around you while also bouncing slowly, 0.5s ttk, up to 1s to regen to full, starts regening 0.3s after going off target"
+  },
+  {
+    "id": "2193895708",
+    "title": "tamTargetSwitch Easy",
+    "time_created": 1597119595,
+    "subs": 8,
+    "desc": "Small regenerating dots circle around you, 0.5s ttk, up to 3.33s to regen to full, starts regening 0.1s after going off target. Like LR, this version also has less regen, but the bots are also bigger, slower, and less evasive."
+  },
+  {
+    "id": "2193872756",
+    "title": "tamTargetSwitch Smooth Small",
+    "time_created": 1597117031,
+    "subs": 10,
+    "desc": "Small regenerating dots circle around you, 0.5s ttk, up to 0.5s to regen to full, starts regening Immediately if you go off target. ~50% less 2d surface area than standard version"
+  },
+  {
+    "id": "3422247586",
+    "title": "tamTargetSwitch Smooth Intermediate",
+    "time_created": 1738861335,
+    "subs": 6,
+    "desc": "Small regenerating dots circle around you while bouncing slowly, 0.5s ttk, 0.5s max to regen to full, starts regening Immediatey if you go off target"
+  },
+  {
+    "id": "2522496909",
+    "title": "TamTargetSwitch Control Easy",
+    "time_created": 1624216735,
+    "subs": 0,
+    "desc": "Small regenerating dots wiggle back and forth around you, 0.5s ttk, up to 1s to regen to full, starts regening 0.3s after going off target"
+  },
+  {
+    "id": "2855604517",
+    "title": "tamTargetSwitch Smooth Initiate",
+    "time_created": 1661729086,
+    "subs": 3,
+    "desc": "Small regenerating dots circle around you, 0.5s ttk, 0.5s max to regen to full, starts regening Immediatey if you go off target.\r\n\r\n50% bigger"
+  },
+  {
+    "id": "2829568201",
+    "title": "tamTargetSwitch Smooth Hard LG56",
+    "time_created": 1656804762,
+    "subs": 1,
+    "desc": "Small regenerating dots circle around you while bouncing slowly, 0.5s ttk, 0.5s max to regen to full, starts regening Immediatey if you go off target.\r\n\r\nLG56: 35% smaller and 10% faster. Challenge fov min 103.\r\nMade for the Advanced Playlists."
+  },
+  {
+    "id": "2734347220",
+    "title": "TamTargetSwitch Smooth OW",
+    "time_created": 1643388619,
+    "subs": 2,
+    "desc": "Small regenerating dots circle around you, 0.5s ttk, 0.5s max to regen to full, starts regening Immediatey if you go off target. The bots now have Overwatch-based movement acceleration (no movement acceleration.)"
+  },
+  {
+    "id": "3292156283",
+    "title": "tamTargetSwitch Smooth Hard 30% Larger",
+    "time_created": 1721347652,
+    "subs": 1,
+    "desc": "scenario"
+  },
+  {
+    "id": "3292156340",
+    "title": "tamTargetSwitch Control Hard 30% Larger",
+    "time_created": 1721347655,
+    "subs": 0,
+    "desc": "Small regenerating dots wiggle back and forth around you while also bouncing slowly, 0.5s ttk, up to 1s to regen to full, starts regening 0.3s after going off target"
+  },
+  {
+    "id": "3412764985",
+    "title": "tamTargetSwitch Control Intermediate",
+    "time_created": 1737607809,
+    "subs": 5,
+    "desc": "Slightly modified version of the scenario with larger, faster bots that have a significantly lower ttk\r\n\r\nSmall regenerating dots wiggle back and forth around you while also bouncing slowly, 0.25s ttk, up to 0.5s to regen to full, starts regening 0.3s after going off target"
+  },
+  {
+    "id": "3397351897",
+    "title": "tamTargetSwitch Control Hard Auto-Strafe",
+    "time_created": 1735684439,
+    "subs": 0,
+    "desc": "Small regenerating dots wiggle back and forth around you while also bouncing slowly, 0.5s ttk, up to 1s to regen to full, starts regening 0.3s after going off target"
+  },
+  {
+    "id": "3140079473",
+    "title": "tamTargetSwitch Control Easy 90%",
+    "time_created": 1705327275,
+    "subs": 14,
+    "desc": "Small regenerating dots wiggle back and forth around you, 0.5s ttk, up to 1s to regen to full, starts regening 0.3s after going off target"
+  },
+  {
+    "id": "2855599533",
+    "title": "tamTargetSwitch Control Initiate",
+    "time_created": 1661728322,
+    "subs": 2,
+    "desc": "Small regenerating dots wiggle back and forth around you, 0.5s ttk, up to 1s to regen to full, starts regening 0.3s after going off target\r\n\r\n50% bigger"
+  },
+  {
+    "id": "3368130580",
+    "title": "tamTargetSwitch Smooth Extra Hard",
+    "time_created": 1731946292,
+    "subs": 1,
+    "desc": "Small regenerating dots circle around you while bouncing slowly, 0.5s ttk, 0.5s max to regen to full, starts regening Immediatey if you go off target\r\n\r\nExtra Hard: TamTS Smooth Hard but 20% Smaller and 5% Faster\r\nChallenge FOV locked to 103"
+  },
+  {
+    "id": "2830174090",
+    "title": "TamTargetSwitch Control LowTTK LG56",
+    "time_created": 1656900548,
+    "subs": 1,
+    "desc": "Small regenerating dots wiggle back and forth around you, 0.5s ttk, up to 1s to regen to full, starts regening 0.3s after going off target.\r\n\r\nLG56: 25% less health to focus more on target switching, but target is also 15% smaller and faster.\r\nMade for the Intermediate Playlists."
+  },
+  {
+    "id": "3349888066",
+    "title": "TamTargetSwitch Smooth Adaptive",
+    "time_created": 1729108601,
+    "subs": 2,
+    "desc": "Small regenerating dots circle around you while bouncing slowly, 0.5s ttk, 0.5s max to regen to full, starts regening Immediatey if you go off target"
+  },
+  {
+    "id": "3009402359",
+    "title": "tamTargetSwitch Popcorn Medium",
+    "time_created": 1690244404,
+    "subs": 2,
+    "desc": "kill bouncing/arcing balls.  Skeet-shooting basically. Choose your poison of tracking or single point."
+  },
+  {
+    "id": "2193944402",
+    "title": "tamTargetSwitch LR",
+    "time_created": 1597125775,
+    "subs": 7,
+    "desc": "Small regenerating dots circle around you, 0.5s ttk, up to 2.5s to regen to full, starts regening 0.02s after going off target. LR = Less Regen"
+  },
+  {
+    "id": "3412765199",
+    "title": "tamTargetSwitch Control Advanced",
+    "time_created": 1737607849,
+    "subs": 1,
+    "desc": "Slightly modified version of the scenario with larger, faster bots that have a significantly lower ttk\r\n\r\nSmall regenerating dots wiggle back and forth around you while also bouncing slowly, 0.25s ttk, up to 0.5s to regen to full, starts regening 0.3s after going off target"
+  },
+  {
+    "id": "3652217091",
+    "title": "tamTargetSwitch Control 180 45s",
+    "time_created": 1769177445,
+    "subs": 1,
+    "desc": "tamTargetSwitch Control Small with front spawning targets only"
+  },
+  {
+    "id": "3556526725",
+    "title": "tamTargetSwitch Smooth Hard Smaller",
+    "time_created": 1756230202,
+    "subs": 0,
+    "desc": "Small regenerating dots circle around you while bouncing slowly, 0.5s ttk, 0.5s max to regen to full, starts regening Immediatey if you go off target"
+  },
+  {
+    "id": "2813328096",
+    "title": "tamTargetSwitch Control +4bots Easy Peasy",
+    "time_created": 1653658047,
+    "subs": 1,
+    "desc": "Small regenerating dots wiggle back and forth around you, 0.5s ttk, up to 1s to regen to full, starts regening 0.3s after going off target"
+  },
+  {
+    "id": "3593960062",
+    "title": "tamTargetSwitch Smooth Small slow",
+    "time_created": 1761483432,
+    "subs": 0,
+    "desc": "Small regenerating dots circle around you, 0.5s ttk, up to 0.5s to regen to full, starts regening Immediately if you go off target. ~50% less 2d surface area than standard version. 60% slower"
+  },
+  {
+    "id": "2855643448",
+    "title": "tamTargetSwitch Control Hard LG56 AIMGOD",
+    "time_created": 1661735809,
+    "subs": 1,
+    "desc": "Small regenerating dots wiggle back and forth around you while also bouncing slowly, 0.5s ttk, up to 1s to regen to full, starts regening 0.3s after going off target.\r\n\r\nLG56: 35% smaller and 50% faster. Challenge FOV min 103.\r\nMade for the Advanced Playlists.\r\n\r\nAIMGOD: 25% smaller."
+  },
+  {
+    "id": "2319897783",
+    "title": "tamTargetSwitch Smooth Hard faster",
+    "time_created": 1607896602,
+    "subs": 1,
+    "desc": "Small regenerating dots circle around you while bouncing slowly, 0.5s ttk, 0.5s max to regen to full, starts regening Immediatey if you go off target"
+  },
+  {
+    "id": "3374993134",
+    "title": "tamTargetSwitch Smooth Hard faster 75%",
+    "time_created": 1732996373,
+    "subs": 0,
+    "desc": "Small regenerating dots circle around you while bouncing slowly, 0.5s ttk, 0.5s max to regen to full, starts regening Immediatey if you go off target"
+  },
+  {
+    "id": "2392789238",
+    "title": "tamTargetSwitch Control Smaller Longer Strafes",
+    "time_created": 1613147930,
+    "subs": 1,
+    "desc": "Small regenerating dots wiggle back and forth around you, 0.5s ttk, up to 1s to regen to full, starts regening 0.3s after going off target"
+  },
+  {
+    "id": "2502535768",
+    "title": "tamTargetSwitch Smooth_recoil",
+    "time_created": 1622383814,
+    "subs": 0,
+    "desc": "Small regenerating dots circle around you, 0.5s ttk, 0.5s max to regen to full, starts regening Immediatey if you go off target."
+  },
+  {
+    "id": "2472718726",
+    "title": "tamTargetSwitch Smooth Hard 50% Slower",
+    "time_created": 1619827885,
+    "subs": 0,
+    "desc": "Small regenerating dots circle around you while bouncing slowly, 0.5s ttk, 0.5s max to regen to full, starts regening Immediatey if you go off target"
+  },
+  {
+    "id": "3642043176",
+    "title": "tamTargetSwitch Smooth 50% Smaller",
+    "time_created": 1767879134,
+    "subs": 0,
+    "desc": "Small regenerating dots circle around you, 0.5s ttk, 0.5s max to regen to full, starts regening Immediatey if you go off target."
+  },
+  {
+    "id": "3567511123",
+    "title": "tamTargetSwitch Smooth WRIST V2",
+    "time_created": 1757784445,
+    "subs": 1,
+    "desc": "Small regenerating dots circle around you, 0.5s ttk, 0.5s max to regen to full, starts regening Immediatey if you go off target."
+  },
+  {
+    "id": "2236627026",
+    "title": "tamTargetSwitch Popcorn",
+    "time_created": 1600856268,
+    "subs": 1,
+    "desc": "kill bouncing/arcing balls.  Skeet-shooting basically. Choose your poison of tracking or single point."
+  },
+  {
+    "id": "3422247573",
+    "title": "tamTargetSwitch Smooth Novice",
+    "time_created": 1738861322,
+    "subs": 3,
+    "desc": "Small regenerating dots circle around you while bouncing slowly, 0.5s ttk, 0.5s max to regen to full, starts regening Immediatey if you go off target"
+  },
+  {
+    "id": "2309810873",
+    "title": "tamTargetSwitch EZ ADS2",
+    "time_created": 1607186187,
+    "subs": 0,
+    "desc": "Small regenerating dots circle around you, 0.5s ttk, up to 3.33s to regen to full, starts regening 0.1s after going off target. Like LR, this version also has less regen, but the bots are also bigger, slower, and less evasive."
+  },
+  {
+    "id": "3276969050",
+    "title": "tamTargetSwitch Smooth Hard 5s no rege",
+    "time_created": 1719556557,
+    "subs": 0,
+    "desc": "Small regenerating dots circle around you while bouncing slowly, 0.5s ttk, 0.5s max to regen to full, starts regening Immediatey if you go off target"
+  },
+  {
+    "id": "3567619723",
+    "title": "tamTargetSwitch Control Hard 30s",
+    "time_created": 1757794950,
+    "subs": 0,
+    "desc": "Small regenerating dots wiggle back and forth around you while also bouncing slowly, 0.5s ttk, up to 1s to regen to full, starts regening 0.3s after going off target"
+  },
+  {
+    "id": "2813326458",
+    "title": "tamTargetSwitch Control +4bots Easy",
+    "time_created": 1653657694,
+    "subs": 0,
+    "desc": "Small regenerating dots wiggle back and forth around you, 0.5s ttk, up to 1s to regen to full, starts regening 0.3s after going off target"
+  },
+  {
+    "id": "2813320088",
+    "title": "tamTargetSwitch Control +4bots",
+    "time_created": 1653656319,
+    "subs": 0,
+    "desc": "Small regenerating dots wiggle back and forth around you, 0.5s ttk, up to 1s to regen to full, starts regening 0.3s after going off target"
+  },
+  {
+    "id": "3422247574",
+    "title": "tamTargetSwitch Smooth Entry",
+    "time_created": 1738861320,
+    "subs": 1,
+    "desc": "Small regenerating dots circle around you while bouncing slowly, 0.5s ttk, 0.5s max to regen to full, starts regening Immediatey if you go off target"
+  },
+  {
+    "id": "3564757731",
+    "title": "tamTargetSwitch Smooth Wrist",
+    "time_created": 1757360216,
+    "subs": 0,
+    "desc": "Small regenerating dots circle around you, 0.5s ttk, 0.5s max to regen to full, starts regening Immediatey if you go off target."
+  },
+  {
+    "id": "3272110611",
+    "title": "TamTargetSwitch smooth dodge hard",
+    "time_created": 1718966253,
+    "subs": 0,
+    "desc": "Small regenerating dots circle around you while bouncing slowly, 0.5s ttk, 0.5s max to regen to full, starts regening Immediatey if you go off target"
+  },
+  {
+    "id": "2314958794",
+    "title": "tamTargetSwitch Smooth Monkey",
+    "time_created": 1607590791,
+    "subs": 0,
+    "desc": "tamTargetSwitch Smooth but +20% regen and 20% smaller"
+  },
+  {
+    "id": "2859362303",
+    "title": "tamTargetSwitch ControlEasy1",
+    "time_created": 1662436147,
+    "subs": 0,
+    "desc": "Small regenerating dots wiggle back and forth around you, 0.5s ttk, up to 1s to regen to full, starts regening 0.3s after going off target"
+  },
+  {
+    "id": "3184239531",
+    "title": "tamTargetSwitch Control Small, but harder",
+    "time_created": 1710480100,
+    "subs": 1,
+    "desc": "Small regenerating dots wiggle back and forth around you, 0.5s ttk, up to 1s to regen to full, starts regening 0.3s after going off target, ~50% less 2d surface area"
+  },
+  {
+    "id": "3320326908",
+    "title": "tamTargetSwitch Smooth Adapt",
+    "time_created": 1724961588,
+    "subs": 3,
+    "desc": "Small regenerating dots circle around you, 0.5s ttk, 0.5s max to regen to full, starts regening Immediatey if you go off target.\r\nStarts at 50% larger than the original scenario, adaptive stats require at least 4 kills per 5 seconds to reduce in size, otherwise they increase."
+  },
+  {
+    "id": "3536524823",
+    "title": "tamTargetSwitch Control NO REGEN",
+    "time_created": 1753699825,
+    "subs": 0,
+    "desc": "Small regenerating dots wiggle back and forth around you, 0.5s ttk, up to 1s to regen to full, starts regening 0.3s after going off target"
+  },
+  {
+    "id": "3275545553",
+    "title": "tamTargetSwitch Control Hard 5s no rege",
+    "time_created": 1719362101,
+    "subs": 0,
+    "desc": "Small regenerating dots wiggle back and forth around you while also bouncing slowly, 0.5s ttk, up to 1s to regen to full, starts regening 0.3s after going off target"
+  },
+  {
+    "id": "2514941448",
+    "title": "tamTargetSwitch noregen",
+    "time_created": 1623518830,
+    "subs": 0,
+    "desc": "Small regenerating dots circle around you, 0.5s ttk, 0.5s max to regen to full, starts regening Immediatey if you go off target."
+  },
+  {
+    "id": "3460307062",
+    "title": "tamTargetSwitch Control Advanced 5s",
+    "time_created": 1744111191,
+    "subs": 0,
+    "desc": "Slightly modified version of the scenario with larger, faster bots that have a significantly lower ttk\r\n\r\nSmall regenerating dots wiggle back and forth around you while also bouncing slowly, 0.25s ttk, up to 0.5s to regen to full, starts regening 0.3s after going off target"
+  },
+  {
+    "id": "2914591547",
+    "title": "tamTargetSwitch Smooth Hard 15s",
+    "time_created": 1673142802,
+    "subs": 0,
+    "desc": "Small regenerating dots circle around you while bouncing slowly, 0.5s ttk, 0.5s max to regen to full, starts regening Immediatey if you go off target"
+  },
+  {
+    "id": "2961595659",
+    "title": "tamTargetSwitch Smooth LessHP",
+    "time_created": 1681348636,
+    "subs": 0,
+    "desc": "Small regenerating dots circle around you, 0.5s ttk, 0.5s max to regen to full, starts regening Immediatey if you go off target."
+  },
+  {
+    "id": "2855644057",
+    "title": "tamTargetSwitch Smooth Hard LG56 AIMGOD",
+    "time_created": 1661735920,
+    "subs": 1,
+    "desc": "Small regenerating dots circle around you while bouncing slowly, 0.5s ttk, 0.5s max to regen to full, starts regening Immediatey if you go off target.\r\n\r\nLG56: 35% smaller and 10% faster. Challenge fov min 103.\r\nMade for the Advanced Playlists.\r\n\r\nAIMGOD: 25% smaller."
+  },
+  {
+    "id": "2937039130",
+    "title": "TamTargetSwitch Control LowTTK Hard LG56 33s",
+    "time_created": 1677034541,
+    "subs": 0,
+    "desc": "Small regenerating dots wiggle back and forth around you, 0.5s ttk, up to 1s to regen to full, starts regening 0.3s after going off target.\r\n\r\nLG56: 25% less health to focus more on target switching, but target is also 25% smaller and faster.\r\nMade for the Advanced Playlists."
+  }
+]

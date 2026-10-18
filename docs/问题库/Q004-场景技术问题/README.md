@@ -33,6 +33,7 @@
 | [Q004.9](子问题/Q004.9-EclipseFlick热身场景涨分/) | Eclipse Flick Warmup（LG56 热身） | 老打到中间无敌球导致打不中；瓶颈是节奏不是精度 | 已调研·待验证 |
 | [Q004.10](子问题/Q004.10-CenteringII180noStrafes转向同步/) | Centering II 180 no strafes easier | 目标到最边缘时不能同步停下来；停止不是动作是"已松完"的状态 | 已调研·待验证 |
 | [Q004.11](子问题/Q004.11-SmoothThinStrafes变向视觉反应/) | Smooth Thin Strafes Raspberry Easy | 变向时眼睛反应不过来；目标 1.8–3.1 次/秒变向，WR 相机速度=0（不追） | 已调研·待验证 |
+| [Q004.12](子问题/Q004.12-tamTargetSwitchControl抖动与手腕灵敏度/) | tamTargetSwitch Control | 追变向目标一直抖、手腕不灵敏；回血速度=伤害一半（p<1/3 打不死），抖=1.88 Hz 跟踪残差非震颤，静摩擦 stick-slip | 已调研·待验证 |
 
 ## 新增问题流程
 
