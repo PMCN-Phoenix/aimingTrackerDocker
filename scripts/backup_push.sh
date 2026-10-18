@@ -60,7 +60,7 @@ echo "== 本地 HEAD: $LOCAL_SHA"
 
 # 3. 依次推送两个远程
 RC=0
-LOG="$(mktemp)"
+LOG="$(git rev-parse --git-dir)/push_backup.log"
 for r in "$ORIGIN_REMOTE" "$GITHUB_REMOTE"; do
   echo "-- 推送 $r ..."
   if git push "$r" "$BRANCH" >"$LOG" 2>&1; then
