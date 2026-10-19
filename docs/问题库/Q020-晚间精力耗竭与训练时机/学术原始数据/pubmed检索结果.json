@@ -1,0 +1,410 @@
+{
+  "time_of_day_motor": {
+    "query": "time of day diurnal variation motor performance fine motor",
+    "count": "6",
+    "items": [
+      {
+        "pmid": "27409075",
+        "date": "2016 Jul 6",
+        "journal": "BMC Health Serv Res",
+        "title": "Proceedings of the 3rd IPLeiria's International Health Congress : Leiria, Portugal. 6-7 May 2016."
+      },
+      {
+        "pmid": "42220415",
+        "date": "2026",
+        "journal": "J Circadian Rhythms",
+        "title": "Time-of-Day Effects on Competitive Speedcubing Performance."
+      },
+      {
+        "pmid": "8726347",
+        "date": "1996 Apr",
+        "journal": "Sports Med",
+        "title": "Circadian variation in sports performance."
+      },
+      {
+        "pmid": "25026215",
+        "date": "2014",
+        "journal": "Ergonomics",
+        "title": "The effects of shift work and time of day on fine motor control during handwriting."
+      },
+      {
+        "pmid": "34674591",
+        "date": "2022 Feb",
+        "journal": "Chronobiol Int",
+        "title": "Does chronotype explain daily timing of music behaviors?"
+      }
+    ]
+  },
+  "circadian_skill": {
+    "query": "circadian rhythm skilled performance reaction time learning",
+    "count": "16",
+    "items": [
+      {
+        "pmid": "27409075",
+        "date": "2016 Jul 6",
+        "journal": "BMC Health Serv Res",
+        "title": "Proceedings of the 3rd IPLeiria's International Health Congress : Leiria, Portugal. 6-7 May 2016."
+      },
+      {
+        "pmid": "17622650",
+        "date": "2007 Jul",
+        "journal": "Learn Mem",
+        "title": "Age-related decline of sleep-dependent consolidation."
+      },
+      {
+        "pmid": "3696924",
+        "date": "1987 Oct",
+        "journal": "Percept Mot Skills",
+        "title": "Auditory and visual reaction time in adults during long performance."
+      },
+      {
+        "pmid": "41578071",
+        "date": "2026 Mar",
+        "journal": "Sports Med",
+        "title": "Sleep Management and Performance in Offshore Sailing Regattas: A Systematic Review."
+      },
+      {
+        "pmid": "16000627",
+        "date": "2005 Jul 6",
+        "journal": "J Neurosci",
+        "title": "Off-line learning and the primary motor cortex."
+      }
+    ]
+  },
+  "mental_fatigue_endurance": {
+    "query": "mental fatigue endurance performance Marcora",
+    "count": "15",
+    "items": [
+      {
+        "pmid": "28044281",
+        "date": "2017 Aug",
+        "journal": "Sports Med",
+        "title": "The Effects of Mental Fatigue on Physical Performance: A Systematic Review."
+      },
+      {
+        "pmid": "28282326",
+        "date": "2017 Aug",
+        "journal": "Med Sci Sports Exerc",
+        "title": "Effects of Mental Fatigue on Endurance Performance in the Heat."
+      },
+      {
+        "pmid": "40350202",
+        "date": "2025 Sep 22",
+        "journal": "BMJ Mil Health",
+        "title": "Fatigue and management of warfighter mental endurance."
+      },
+      {
+        "pmid": "29623604",
+        "date": "2018 Jul",
+        "journal": "Sports Med",
+        "title": "Mental Fatigue and Soccer: Current Knowledge and Future Directions."
+      },
+      {
+        "pmid": "37751076",
+        "date": "2024 Jan",
+        "journal": "Sports Med",
+        "title": "Limits of Ultra: Towards an Interdisciplinary Understanding of Ultra-Endurance Running Performance."
+      }
+    ]
+  },
+  "mental_fatigue_sport": {
+    "query": "mental fatigue sport performance psychobiological",
+    "count": "35",
+    "items": [
+      {
+        "pmid": "19131473",
+        "date": "2009 Mar",
+        "journal": "J Appl Physiol (1985)",
+        "title": "Mental fatigue impairs physical performance in humans."
+      },
+      {
+        "pmid": "28044281",
+        "date": "2017 Aug",
+        "journal": "Sports Med",
+        "title": "The Effects of Mental Fatigue on Physical Performance: A Systematic Review."
+      },
+      {
+        "pmid": "32176398",
+        "date": "2021 Dec",
+        "journal": "Exp Physiol",
+        "title": "Endurance exercise-induced and mental fatigue and the brain."
+      },
+      {
+        "pmid": "33710524",
+        "date": "2021 Jul",
+        "journal": "Sports Med",
+        "title": "Mental Fatigue and Sport-Specific Psychomotor Performance: A Systematic Review."
+      },
+      {
+        "pmid": "29923147",
+        "date": "2018 Sep",
+        "journal": "Sports Med",
+        "title": "Mental Fatigue Impairs Endurance Performance: A Physiological Explanation."
+      }
+    ]
+  },
+  "evening_exercise_sleep": {
+    "query": "evening exercise sleep quality timing",
+    "count": "56",
+    "items": [
+      {
+        "pmid": "40234380",
+        "date": "2025 Apr 15",
+        "journal": "Nat Commun",
+        "title": "Dose-response relationship between evening exercise and sleep."
+      },
+      {
+        "pmid": "37946447",
+        "date": "2023 Sep",
+        "journal": "Phys Act Nutr",
+        "title": "Effects of exercise timing and intensity on physiological circadian rhythm and sleep quality: a systematic review."
+      },
+      {
+        "pmid": "39377163",
+        "date": "2025 Apr 11",
+        "journal": "Sleep",
+        "title": "Dose and timing effects of caffeine on subsequent sleep: a randomized clinical crossover trial."
+      },
+      {
+        "pmid": "41450833",
+        "date": "2025",
+        "journal": "Front Psychiatry",
+        "title": "ADHD as a circadian rhythm disorder: evidence and implications for chronotherapy."
+      },
+      {
+        "pmid": "40579619",
+        "date": "2025 Jul",
+        "journal": "Sports Med",
+        "title": "Caffeine and Sports Performance: The Conflict between Caffeine Intake to Enhance Performance and Avoiding Caffeine to Ensure Sleep Quality."
+      }
+    ]
+  },
+  "exercise_timing_sleep_meta": {
+    "query": "exercise performed evening effects sleep meta-analysis",
+    "count": "6",
+    "items": [
+      {
+        "pmid": "30374942",
+        "date": "2019 Feb",
+        "journal": "Sports Med",
+        "title": "Effects of Evening Exercise on Sleep in Healthy Participants: A Systematic Review and Meta-Analysis."
+      },
+      {
+        "pmid": "34416428",
+        "date": "2021 Dec",
+        "journal": "Sleep Med Rev",
+        "title": "The effects of evening high-intensity exercise on sleep in healthy adults: A systematic review and meta-analysis."
+      },
+      {
+        "pmid": "41032147",
+        "date": "2025 Oct 1",
+        "journal": "Sleep Breath",
+        "title": "Effects of evening exercise on anthropometric indices, metabolic profiles, and sleep health: a systematic review and meta-analysis."
+      },
+      {
+        "pmid": "42857179",
+        "date": "2026",
+        "journal": "Front Psychol",
+        "title": "Time-of-day effects of acute and regular exercise on sleep quality and mood: a three-level meta-analysis."
+      },
+      {
+        "pmid": "42220558",
+        "date": "2026 Jun",
+        "journal": "J Diabetes Metab Disord",
+        "title": "The effect of timing of physical exercise on glycemia: a systematic review and meta-analysis of human intervention studies."
+      }
+    ]
+  },
+  "selfcontrol_depletion": {
+    "query": "ego depletion self-control replication registered replication",
+    "count": "8",
+    "items": [
+      {
+        "pmid": "27474142",
+        "date": "2016 Jul",
+        "journal": "Perspect Psychol Sci",
+        "title": "A Multilab Preregistered Replication of the Ego-Depletion Effect."
+      },
+      {
+        "pmid": "34520296",
+        "date": "2021 Oct",
+        "journal": "Psychol Sci",
+        "title": "A Multisite Preregistered Paradigmatic Test of the Ego-Depletion Effect."
+      },
+      {
+        "pmid": "36329599",
+        "date": "2023 Apr",
+        "journal": "Br J Soc Psychol",
+        "title": "Do we fail to exert self-control because we lack resources or motivation? Competing theories to explain a debated phenomenon."
+      },
+      {
+        "pmid": "27535004",
+        "date": "2016",
+        "journal": "Front Psychol",
+        "title": "Commentary: A Multilab Preregistered Replication of the Ego-Depletion Effect."
+      },
+      {
+        "pmid": "27474141",
+        "date": "2016 Jul",
+        "journal": "Perspect Psychol Sci",
+        "title": "Introduction to a Registered Replication Report on Ego Depletion."
+      }
+    ]
+  },
+  "decision_fatigue": {
+    "query": "decision fatigue depletion choices",
+    "count": "17",
+    "items": [
+      {
+        "pmid": "41470846",
+        "date": "2025 Dec 13",
+        "journal": "Nutrients",
+        "title": "The Effect of Decision Fatigue on Food Choices: A Narrative Review."
+      },
+      {
+        "pmid": "38288179",
+        "date": "2023 Dec",
+        "journal": "Cureus",
+        "title": "Decision Fatigue in Emergency Medicine: An Exploration of Its Validity."
+      },
+      {
+        "pmid": "42440679",
+        "date": "2026 Jun",
+        "journal": "Cureus",
+        "title": "Decision Fatigue in the Attending Surgeon: The Neural Accumulation of Micro-decisions Across an Operating Day."
+      },
+      {
+        "pmid": "42634417",
+        "date": "2026",
+        "journal": "J Nurs Manag",
+        "title": "Decision Fatigue Among Chinese Nurse Managers: A Multicenter Cross-Sectional Study on Implicit Cognitive Load Determinants."
+      },
+      {
+        "pmid": "18444745",
+        "date": "2008 May",
+        "journal": "J Pers Soc Psychol",
+        "title": "Making choices impairs subsequent self-control: a limited-resource account of decision making, self-regulation, and active initiative."
+      }
+    ]
+  },
+  "vigilance_decrement": {
+    "query": "vigilance decrement sustained attention time on task",
+    "count": "167",
+    "items": [
+      {
+        "pmid": "37056308",
+        "date": "2023",
+        "journal": "Front Neurosci",
+        "title": "Vigilance decrement and mind-wandering in sustained attention tasks: Two sides of the same coin?"
+      },
+      {
+        "pmid": "36455720",
+        "date": "2023 Jan",
+        "journal": "Int J Psychophysiol",
+        "title": "Vigilance described by the time-on-task effect in EEG activity during a cued Go/NoGo task."
+      },
+      {
+        "pmid": "25001010",
+        "date": "2014",
+        "journal": "Ergonomics",
+        "title": "Vigilance on the move: video game-based measurement of sustained attention."
+      },
+      {
+        "pmid": "36576508",
+        "date": "2023 Feb",
+        "journal": "Exp Brain Res",
+        "title": "Effects of task demands on tactile vigilance."
+      },
+      {
+        "pmid": "37496464",
+        "date": "2024 Sep",
+        "journal": "Hum Factors",
+        "title": "Vigilance Decrement During On-Road Partially Automated Driving Across Four Systems."
+      }
+    ]
+  },
+  "morningness_eveningness": {
+    "query": "morningness eveningness chronotype physical performance",
+    "count": "35",
+    "items": [
+      {
+        "pmid": "33804974",
+        "date": "2021 Mar 24",
+        "journal": "Biomolecules",
+        "title": "Biological Rhythm and Chronotype: New Perspectives in Health."
+      },
+      {
+        "pmid": "28493061",
+        "date": "2017 Sep",
+        "journal": "Sports Med",
+        "title": "Chronotype, Physical Activity, and Sport Performance: A Systematic Review."
+      },
+      {
+        "pmid": "36294224",
+        "date": "2022 Oct 21",
+        "journal": "Int J Environ Res Public Health",
+        "title": "Chronotype and Social Jetlag Influence Performance and Injury during Reserve Officers' Training Corps Physical Training."
+      },
+      {
+        "pmid": "18978619",
+        "date": "2008 Nov",
+        "journal": "J Strength Cond Res",
+        "title": "Collegiate rowing crew performance varies by morningness-eveningness."
+      },
+      {
+        "pmid": "37781788",
+        "date": "2023 Sep 2",
+        "journal": "Chronobiol Int",
+        "title": "Circadian preference and physical and cognitive performance in adolescence: A scoping review."
+      }
+    ]
+  },
+  "cognitive_work_exercise": {
+    "query": "prolonged cognitive work subsequent physical exercise performance",
+    "count": "1",
+    "items": [
+      {
+        "pmid": "38213185",
+        "date": "2024 Jan 11",
+        "journal": "Eur J Transl Myol",
+        "title": "Sensorimotor and proprioceptive exercise programs to improve balance in older adults: a systematic review with meta-analysis."
+      }
+    ]
+  },
+  "training_after_work": {
+    "query": "after work exercise adherence fatigue employees",
+    "count": "6",
+    "items": [
+      {
+        "pmid": "28003034",
+        "date": "2016 Dec 22",
+        "journal": "BMC Public Health",
+        "title": "Resistance training program for fatigue management in the workplace: exercise protocol in a cluster randomized controlled trial."
+      },
+      {
+        "pmid": "22927995",
+        "date": "2012",
+        "journal": "PLoS One",
+        "title": "Effects of extreme-duration heavy load carriage on neuromuscular function and locomotion: a military-based study."
+      },
+      {
+        "pmid": "2358236",
+        "date": "1990 May 1",
+        "journal": "Harefuah",
+        "title": "[Physical activity program during working hours among industrial workers in Israel]."
+      },
+      {
+        "pmid": "36311287",
+        "date": "2022",
+        "journal": "Patient Prefer Adherence",
+        "title": "Satisfaction and Adherence of COPD Patients to a Conventional Training Associated with Functional Exercises and to a Conventional Training Isolated: A Qualiquantitative Study."
+      },
+      {
+        "pmid": "29693483",
+        "date": "2018 Jul",
+        "journal": "Stress",
+        "title": "Rehabilitation for improved cognition in patients with stress-related exhaustion disorder: RECO - a randomized clinical trial."
+      }
+    ]
+  }
+}

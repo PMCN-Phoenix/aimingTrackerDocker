@@ -1,0 +1,689 @@
+1. Sports Med. 2017 Aug;47(8):1569-1588. doi: 10.1007/s40279-016-0672-0.
+
+The Effects of Mental Fatigue on Physical Performance: A Systematic Review.
+
+Van Cutsem J(1)(2), Marcora S(2), De Pauw K(1), Bailey S(3), Meeusen R(1)(4), 
+Roelands B(5)(6).
+
+Author information:
+(1)Human Physiology Research Group, Vrije Universiteit Brussel, Pleinlaan 2, 
+1050, Brussels, Belgium.
+(2)Endurance research group, School of Sport and Exercise SciencesUniversity of 
+Kent at Medway, Chatham Maritime, Kent, ME4 4Ag, UK.
+(3)Department of Physical Therapy Education, Elon University, Elon, NC, 27244, 
+USA.
+(4)School of Public Health, Tropical Medicine and Rehabilitation Sciences, James 
+Cook University, Queensland, Australia.
+(5)Human Physiology Research Group, Vrije Universiteit Brussel, Pleinlaan 2, 
+1050, Brussels, Belgium. bart.roelands@vub.ac.be.
+(6)Fund for Scientific Research Flanders (FWO), Brussels, Belgium. 
+bart.roelands@vub.ac.be.
+
+BACKGROUND: Mental fatigue is a psychobiological state caused by prolonged 
+periods of demanding cognitive activity. It has recently been suggested that 
+mental fatigue can affect physical performance.
+OBJECTIVE: Our objective was to evaluate the literature on impairment of 
+physical performance due to mental fatigue and to create an overview of the 
+potential factors underlying this effect.
+METHODS: Two electronic databases, PubMed and Web of Science (until 28 April 
+2016), were searched for studies designed to test whether mental fatigue 
+influenced performance of a physical task or influenced physiological and/or 
+perceptual responses during the physical task. Studies using short (<30 min) 
+self-regulatory depletion tasks were excluded from the review.
+RESULTS: A total of 11 articles were included, of which six were of strong and 
+five of moderate quality. The general finding was a decline in endurance 
+performance (decreased time to exhaustion and self-selected power 
+output/velocity or increased completion time) associated with a higher than 
+normal perceived exertion. Physiological variables traditionally associated with 
+endurance performance (heart rate, blood lactate, oxygen uptake, cardiac output, 
+maximal aerobic capacity) were unaffected by mental fatigue. Maximal strength, 
+power, and anaerobic work were not affected by mental fatigue.
+CONCLUSION: The duration and intensity of the physical task appear to be 
+important factors in the decrease in physical performance due to mental fatigue. 
+The most important factor responsible for the negative impact of mental fatigue 
+on endurance performance is a higher perceived exertion.
+
+DOI: 10.1007/s40279-016-0672-0
+PMID: 28044281 [Indexed for MEDLINE]
+
+
+2. Sports Med. 2021 Jul;51(7):1527-1548. doi: 10.1007/s40279-021-01429-6. Epub
+2021  Mar 12.
+
+Mental Fatigue and Sport-Specific Psychomotor Performance: A Systematic Review.
+
+Habay J(#)(1), Van Cutsem J(#)(1)(2), Verschueren J(1), De Bock S(1), Proost 
+M(1), De Wachter J(1), Tassignon B(1), Meeusen R(1), Roelands B(3).
+
+Author information:
+(1)Human Physiology and Sports Physiotherapy Research Group, Faculty of Physical 
+Education and Physiotherapy, Vrije Universiteit Brussel, Pleinlaan 2, 1050, 
+Brussels, Belgium.
+(2)Vital signs and performance monitoring research Unit, LIFE Department, Royal 
+Military Academy, Avenue de la Renaissancelaan 30, B-1000 Brussels, Belgium.
+(3)Human Physiology and Sports Physiotherapy Research Group, Faculty of Physical 
+Education and Physiotherapy, Vrije Universiteit Brussel, Pleinlaan 2, 1050, 
+Brussels, Belgium. bart.roelands@vub.be.
+(#)Contributed equally
+
+Erratum in
+    Sports Med. 2021 Jul;51(7):1549-1559. doi: 10.1007/s40279-021-01478-x.
+
+BACKGROUND: Mental fatigue (MF) is a psychobiological state that impairs 
+endurance performance in healthy athletes. Recently, multiple studies indicated 
+that MF could also impair sport-specific psychomotor performance (SSPP). 
+Nevertheless, a systematic overview detailing the effects of MF on SSPP is 
+currently lacking.
+OBJECTIVE: The objective of this study is to collate relevant literature and 
+examine the effect of MF on SSPP. A secondary aim was to create an overview of 
+the potential subjective and physiological factors underlying this MF effect.
+METHODS: PubMed (MEDLINE), Web of Science, PsycINFO and SPORTDiscus were 
+searched (5th of November 2020). Studies were eligible when study outcomes 
+encompassed any form of SSPP skill in a sport-specific context, the intervention 
+was targeted to induce MF, and the population included healthy individuals. The 
+presence of a manipulation check, to indicate the successful induction of MF, 
+was obligatory for inclusion. Secondary outcomes were all outcomes (either 
+physiological or psychological) that could explain the underlying mechanisms of 
+the effect of MF on SSPP.
+RESULTS: In total, 21 papers were included. MF was successfully induced in all 
+but two studies, which were excluded from further analysis. MF negatively 
+impacts a myriad of SSPP outcomes, including decision-making, reaction time and 
+accuracy outcomes. No changes in physiological outcomes, that could underlie the 
+effect of MF, were reported. Subjectively, only ratings of perceived of exertion 
+increased due to MF in some studies.
+CONCLUSIONS: Overall, the selected papers indicated that MF negatively affects 
+SSPP. Research that assesses brain function, while evaluating the effect of MF 
+on SSPP is essential to create further insight.
+
+DOI: 10.1007/s40279-021-01429-6
+PMID: 33710524 [Indexed for MEDLINE]
+
+
+3. J Appl Physiol (1985). 2009 Mar;106(3):857-64. doi: 
+10.1152/japplphysiol.91324.2008. Epub 2009 Jan 8.
+
+Mental fatigue impairs physical performance in humans.
+
+Marcora SM(1), Staiano W, Manning V.
+
+Author information:
+(1)School of Sport, Health and Exercise Sciences, Bangor University, Bangor, 
+Wales, United Kingdom. s.m.marcora@bangor.ac.uk
+
+Mental fatigue is a psychobiological state caused by prolonged periods of 
+demanding cognitive activity. Although the impact of mental fatigue on cognitive 
+and skilled performance is well known, its effect on physical performance has 
+not been thoroughly investigated. In this randomized crossover study, 16 
+subjects cycled to exhaustion at 80% of their peak power output after 90 min of 
+a demanding cognitive task (mental fatigue) or 90 min of watching emotionally 
+neutral documentaries (control). After experimental treatment, a mood 
+questionnaire revealed a state of mental fatigue (P = 0.005) that significantly 
+reduced time to exhaustion (640 +/- 316 s) compared with the control condition 
+(754 +/- 339 s) (P = 0.003). This negative effect was not mediated by 
+cardiorespiratory and musculoenergetic factors as physiological responses to 
+intense exercise remained largely unaffected. Self-reported success and 
+intrinsic motivation related to the physical task were also unaffected by prior 
+cognitive activity. However, mentally fatigued subjects rated perception of 
+effort during exercise to be significantly higher compared with the control 
+condition (P = 0.007). As ratings of perceived exertion increased similarly over 
+time in both conditions (P < 0.001), mentally fatigued subjects reached their 
+maximal level of perceived exertion and disengaged from the physical task 
+earlier than in the control condition. In conclusion, our study provides 
+experimental evidence that mental fatigue limits exercise tolerance in humans 
+through higher perception of effort rather than cardiorespiratory and 
+musculoenergetic mechanisms. Future research in this area should investigate the 
+common neurocognitive resources shared by physical and mental activity.
+
+DOI: 10.1152/japplphysiol.91324.2008
+PMID: 19131473 [Indexed for MEDLINE]
+
+
+4. Sports Med. 2019 Feb;49(2):269-287. doi: 10.1007/s40279-018-1015-0.
+
+Effects of Evening Exercise on Sleep in Healthy Participants: A Systematic 
+Review and Meta-Analysis.
+
+Stutz J(1), Eiholzer R(1), Spengler CM(2).
+
+Author information:
+(1)Exercise Physiology Laboratory, Institute of Human Movement Sciences and 
+Sport, ETH Zurich, Winterthurerstrasse 190, 8057, Zurich, Switzerland.
+(2)Exercise Physiology Laboratory, Institute of Human Movement Sciences and 
+Sport, ETH Zurich, Winterthurerstrasse 190, 8057, Zurich, Switzerland. 
+christina.spengler@hest.ethz.ch.
+
+BACKGROUND: Current recommendations advise against exercising in the evening 
+because of potential adverse effects on sleep.
+OBJECTIVES: The aim of this systematic review was to investigate the extent to 
+which evening exercise affects sleep and whether variables such as exercise 
+intensity or duration modify the response.
+METHODS: A systematic search was performed in PubMed, Cochrane, EMBASE, 
+PsycINFO, and CINAHL databases. Studies evaluating sleep after a single session 
+of evening physical exercise compared to a no-exercise control in healthy adults 
+were included. All analyses are based on random effect models.
+RESULTS: The search yielded 11,717 references, of which 23 were included. 
+Compared to control, evening exercise significantly increased rapid eye movement 
+latency (+ 7.7 min; p = 0.032) and slow-wave sleep (+ 1.3 percentage points 
+[pp]; p = 0.041), while it decreased stage 1 sleep (- 0.9 pp; p = 0.001). 
+Moderator analyses revealed that a higher temperature at bedtime was associated 
+with lower sleep efficiency (SE) (b = - 11.6 pp; p = 0.020) and more wake after 
+sleep onset (WASO; b = + 37.6 min; p = 0.0495). A higher level of physical 
+stress (exercise intensity relative to baseline physical activity) was 
+associated with lower SE (- 3.2 pp; p = 0.036) and more WASO (+ 21.9 min; 
+p = 0.044). Compared to cycling, running was associated with less WASO 
+(- 12.7 min; p = 0.037). All significant moderating effects disappeared after 
+removal of one study.
+CONCLUSION: Overall, the studies reviewed here do not support the hypothesis 
+that evening exercise negatively affects sleep, in fact rather the opposite. 
+However, sleep-onset latency, total sleep time, and SE might be impaired after 
+vigorous exercise ending ≤ 1 h before bedtime.
+
+DOI: 10.1007/s40279-018-1015-0
+PMID: 30374942 [Indexed for MEDLINE]
+
+
+5. Sleep Med Rev. 2021 Dec;60:101535. doi: 10.1016/j.smrv.2021.101535. Epub 2021 
+Aug 3.
+
+The effects of evening high-intensity exercise on sleep in healthy adults: A 
+systematic review and meta-analysis.
+
+Frimpong E(1), Mograss M(2), Zvionow T(1), Dang-Vu TT(3).
+
+Author information:
+(1)Department of Health, Kinesiology & Applied Physiology, Concordia University, 
+Montreal, QC, CA, Canada; Center for Studies in Behavioral Neurobiology, 
+Concordia University, Montreal, QC, CA, Canada; PERFORM Center, Concordia 
+University, Montreal, QC, CA, Canada.
+(2)Department of Health, Kinesiology & Applied Physiology, Concordia University, 
+Montreal, QC, CA, Canada; Center for Studies in Behavioral Neurobiology, 
+Concordia University, Montreal, QC, CA, Canada; PERFORM Center, Concordia 
+University, Montreal, QC, CA, Canada; Centre de Recherche de L'Institut 
+Universitaire de Gériatrie de Montréal, CIUSSS Centre- Sud-de-l'île-de-Montréal, 
+Montreal, QC, CA, Canada.
+(3)Department of Health, Kinesiology & Applied Physiology, Concordia University, 
+Montreal, QC, CA, Canada; Center for Studies in Behavioral Neurobiology, 
+Concordia University, Montreal, QC, CA, Canada; PERFORM Center, Concordia 
+University, Montreal, QC, CA, Canada; Centre de Recherche de L'Institut 
+Universitaire de Gériatrie de Montréal, CIUSSS Centre- Sud-de-l'île-de-Montréal, 
+Montreal, QC, CA, Canada. Electronic address: tt.dangvu@concordia.ca.
+
+Comment in
+    Sleep Med Rev. 2021 Dec;60:101560. doi: 10.1016/j.smrv.2021.101560.
+
+Moderate-intensity exercise is generally recommended for improving sleep, 
+whereas, high-intensity exercise (HIE) prior to bedtime is often discouraged. We 
+conducted a systematic review and meta-analysis to determine if acute or regular 
+(chronic) HIE performed before bedtime disrupts nighttime sleep of healthy 
+adult, good sleepers compared with a no-exercise control. Six databases (PubMed, 
+EMBASE, Scopus, Web of Science, CENTRAL, and PsycINFO) were searched from 
+inception to 31st May, 2021. Studies were experimental trials published in 
+English language, objectively (polysomnography, actigraphy) and/or subjectively 
+assessed sleep after evening HIE in sedentary and physically fit, good sleepers 
+(aged 18-50 y old). The revised Cochrane risk of bias tool for randomized trials 
+was used to assess risk of bias in the included studies. The random-effects 
+model was used for the meta-analyses. We included 15 acute evening HIE studies 
+in the meta-analysis with a total of 194 participants. Acute evening HIE ending 
+0.5-4 h before bedtime decreased rapid eye movement sleep (-2.34%; p = 0.002) 
+compared with a no-exercise control. No other significant sleep changes 
+occurred. A regular evening HIE did not disrupt nighttime sleep. Overall, acute 
+evening HIE performed 2-4 h before bedtime does not disrupt nighttime sleep of 
+healthy, young and middle-aged adults. PROSPERO, protocol registration number: 
+CRD42020218299.
+
+Copyright © 2021 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.smrv.2021.101535
+PMID: 34416428 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflicts of interest The authors do not have 
+any conflicts of interest to disclose.
+
+
+6. Nat Commun. 2025 Apr 15;16(1):3297. doi: 10.1038/s41467-025-58271-x.
+
+Dose-response relationship between evening exercise and sleep.
+
+Leota J(1), Presby DM(2)(3)(4), Le F(5), Czeisler MÉ(6), Mascaro L(5), 
+Capodilupo ER(2), Wiley JF(5), Drummond SPA(5), Rajaratnam SMW(5), Facer-Childs 
+ER(7).
+
+Author information:
+(1)School of Psychological Sciences, Faculty of Medicine, Nursing and Health 
+Sciences, Monash University, 18 Innovation Walk, Clayton, 3800, Australia. 
+josh.leota@monash.edu.
+(2)Department of Data Science and Research, Whoop, Inc., Boston, MA, USA.
+(3)Swiss Institute of Bioinformatics, Lausanne, Switzerland.
+(4)Department of Computational Biology, University of Lausanne, Lausanne, 
+Switzerland.
+(5)School of Psychological Sciences, Faculty of Medicine, Nursing and Health 
+Sciences, Monash University, 18 Innovation Walk, Clayton, 3800, Australia.
+(6)Francis Weld Peabody Society, Harvard Medical School, Boston, MA, USA.
+(7)School of Psychological Sciences, Faculty of Medicine, Nursing and Health 
+Sciences, Monash University, 18 Innovation Walk, Clayton, 3800, Australia. 
+elise.facer-childs@monash.edu.
+
+Public health guidelines recommend exercise as a key lifestyle intervention for 
+promoting and maintaining healthy sleep function and reducing disease risk. 
+However, strenuous evening exercise may disrupt sleep due to heightened 
+sympathetic arousal. This study examines the association between strenuous 
+evening exercise and objective sleep, using data from 14,689 physically active 
+individuals who wore a biometric device during a one-year study interval 
+(4,084,354 person-nights). Here we show later exercise timing and higher 
+exercise strain are associated with delayed sleep onset, shorter sleep duration, 
+lower sleep quality, higher nocturnal resting heart rate, and lower nocturnal 
+heart rate variability. Regardless of strain, exercise bouts ending ≥4 hours 
+before sleep onset are not associated with changes in sleep. Our results suggest 
+evening exercise-particularly involving high exercise strain-may disrupt 
+subsequent sleep and nocturnal autonomic function. Individuals aiming to improve 
+sleep health may benefit from concluding exercise at least 4 hours before sleep 
+onset or electing lighter strain exercises within this window.
+
+© 2025. The Author(s).
+
+DOI: 10.1038/s41467-025-58271-x
+PMCID: PMC12000559
+PMID: 40234380 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing interests: The authors declare the 
+following competing interests. E.R.C. and D.M.P. are affiliated with the 
+commercial company WHOOP, Inc. which provided support in the form of salaries 
+but did not otherwise play a role in the study design, data collection or 
+analysis, decision to publish, or preparation of the manuscript. The remaining 
+authors declare no competing interests.
+
+
+7. Perspect Psychol Sci. 2016 Jul;11(4):546-73. doi: 10.1177/1745691616652873.
+
+A Multilab Preregistered Replication of the Ego-Depletion Effect.
+
+Hagger MS(1), Chatzisarantis NLD(2), Alberts H(3), Anggono CO(4), Batailler 
+C(5), Birt AR(6), Brand R(7), Brandt MJ(8), Brewer G, Bruyneel S(9), Calvillo 
+DP, Campbell WK, Cannon PR, Carlucci M, Carruth NP, Cheung T, Crowell A, De 
+Ridder DTD, Dewitte S(9), Elson M, Evans JR, Fay BA, Fennis BM, Finley A, 
+Francis Z, Heise E, Hoemann H, Inzlicht M, Koole SL, Koppel L, Kroese F, Lange 
+F, Lau K, Lynch BP, Martijn C(3), Merckelbach H(3), Mills NV, Michirev A(3), 
+Miyake A, Mosser AE, Muise M(6), Muller D(5), Muzi M(7), Nalis D, Nurwanti R(4), 
+Otgaar H(3), Philipp MC, Primoceri P(10), Rentzsch K, Ringos L, Schlinkert C, 
+Schmeichel BJ, Schoch SF(10), Schrama M, Schütz A, Stamos A(9), Tinghög G, 
+Ullrich J(10), vanDellen M, Wimbarti S(11), Wolff W(7), Yusainy C(4), Zerhouni 
+O(5), Zwienenberg M.
+
+Author information:
+(1)Curtin University, Australia martin.hagger@curtin.edu.au.
+(2)Curtin University, Australia
+(3)Maastricht University, the Netherlands
+(4)Brawijaya University, Indonesia
+(5)Université Grenoble-Alpes, France
+(6)Mount Saint Vincent University, Canada
+(7)Potsdam University, Germany
+(8)Tilburg University, the Netherlands
+(9)KU Leuven, Belgium
+(10)University of Zurich, Switzerland
+(11)Gadjah Mada University, Indonesia
+
+Comment in
+    Front Psychol. 2016 Aug 03;7:1155. doi: 10.3389/fpsyg.2016.01155.
+    Front Psychol. 2017 Feb 28;8:273. doi: 10.3389/fpsyg.2017.00273.
+
+Good self-control has been linked to adaptive outcomes such as better health, 
+cohesive personal relationships, success in the workplace and at school, and 
+less susceptibility to crime and addictions. In contrast, self-control failure 
+is linked to maladaptive outcomes. Understanding the mechanisms by which 
+self-control predicts behavior may assist in promoting better regulation and 
+outcomes. A popular approach to understanding self-control is the strength or 
+resource depletion model. Self-control is conceptualized as a limited resource 
+that becomes depleted after a period of exertion resulting in self-control 
+failure. The model has typically been tested using a sequential-task 
+experimental paradigm, in which people completing an initial self-control task 
+have reduced self-control capacity and poorer performance on a subsequent task, 
+a state known as ego depletion Although a meta-analysis of ego-depletion 
+experiments found a medium-sized effect, subsequent meta-analyses have 
+questioned the size and existence of the effect and identified instances of 
+possible bias. The analyses served as a catalyst for the current Registered 
+Replication Report of the ego-depletion effect. Multiple laboratories (k = 23, 
+total N = 2,141) conducted replications of a standardized ego-depletion protocol 
+based on a sequential-task paradigm by Sripada et al. Meta-analysis of the 
+studies revealed that the size of the ego-depletion effect was small with 95% 
+confidence intervals (CIs) that encompassed zero (d = 0.04, 95% CI [-0.07, 
+0.15]. We discuss implications of the findings for the ego-depletion effect and 
+the resource depletion model of self-control.
+
+© The Author(s) 2016.
+
+DOI: 10.1177/1745691616652873
+PMID: 27474142 [Indexed for MEDLINE]
+
+
+8. Psychol Sci. 2021 Oct;32(10):1566-1581. doi: 10.1177/0956797621989733. Epub
+2021  Sep 14.
+
+A Multisite Preregistered Paradigmatic Test of the Ego-Depletion Effect.
+
+Vohs KD(1), Schmeichel BJ(2), Lohmann S(3)(4), Gronau QF(5), Finley AJ(6), 
+Ainsworth SE(7), Alquist JL(8), Baker MD(9), Brizi A(10), Bunyi A(11), Butschek 
+GJ(12), Campbell C(8), Capaldi J(13), Cau C(14), Chambers H(2), Chatzisarantis 
+NLD(15), Christensen WJ(16), Clay SL(16), Curtis J(17), De Cristofaro V(10), Del 
+Rosario K(18), Diel K(19), Doğruol Y(20), Doi M(1), Donaldson TL(21), Eder 
+AB(22), Ersoff M(23), Eyink JR(24), Falkenstein A(25), Fennis BM(26), Findley 
+MB(27), Finkel EJ(20), Forgea V(28), Friese M(29), Fuglestad P(11), 
+Garcia-Willingham NE(30), Geraedts LF(22), Gervais WM(31), Giacomantonio M(10), 
+Gibson B(32), Gieseler K(29), Gineikiene J(33), Gloger EM(30), Gobes CM(23), 
+Grande M(34), Hagger MS(35)(36), Hartsell B(11), Hermann AD(37), Hidding JJ(26), 
+Hirt ER(24), Hodge J(38), Hofmann W(19), Howell JL(35), Hutton RD(37), Inzlicht 
+M(14), James L(39), Johnson E(17), Johnson HL(16), Joyce SM(23), Joye Y(40), 
+Kaben JH(29), Kammrath LK(41), Kelly CN(23), Kissell BL(32), Koole SL(42), 
+Krishna A(22), Lam C(25), Lee KT(37), Lee N(15), Leighton DC(43), Loschelder 
+DD(44), Maranges HM(23), Masicampo EJ(41), Mazara K Jr(27), McCarthy S(21), 
+McGregor I(45), Mead NL(46), Mendes WB(47), Meslot C(15), Michalak NM(48), 
+Milyavskaya M(13), Miyake A(49), Moeini-Jazani M(26), Muraven M(21), Nakahara 
+E(47), Patel K(14), Petrocelli JV(41), Pollak KM(44), Price MM(8), Ramsey 
+HJ(50), Rath M(44), Robertson JA(49), Rockwell R(51), Russ IF(22), Salvati 
+M(10), Saunders B(52), Scherer A(41), Schütz A(53), Schmitt KN(49), Segerstrom 
+SC(30), Serenka B(21), Sharpinskyi K(45), Shaw M(13), Sherman J(24), Song Y(41), 
+Sosa N(51), Spillane K(25), Stapels J(34), Stinnett AJ(8), Strawser HR(2), 
+Sweeny K(25), Theodore D(51), Tonnu K(8), van Oldenbeuving Y(42), vanDellen 
+MR(12), Vergara RC(23), Walker JS(9), Waugh CE(41), Weise F(42), Werner KM(13), 
+Wheeler C(45), White RA(9), Wichman AL(50), Wiggins BJ(16), Wills JA(18), Wilson 
+JH(28), Wagenmakers EJ(54), Albarracín D(4).
+
+Author information:
+(1)Department of Marketing, Carlson School of Management, University of 
+Minnesota.
+(2)Department of Psychological and Brain Sciences, Texas A&M University.
+(3)Max Planck Institute for Demographic Research, Rostock, Germany.
+(4)Department of Psychology, University of Illinois at Urbana-Champaign.
+(5)Department of Social and Behavioural Sciences, University of Amsterdam.
+(6)Center for Healthy Minds, University of Wisconsin-Madison.
+(7)Behavioral Sciences Department, Tallahassee Community College.
+(8)Department of Psychological Sciences, Texas Tech University.
+(9)Department of Psychology, East Carolina University.
+(10)Department of Psychology, Sapienza University of Rome.
+(11)Department of Psychology, University of North Florida.
+(12)Department of Psychology, University of Georgia.
+(13)Department of Psychology, Carleton University.
+(14)Department of Psychology, University of Toronto.
+(15)School of Psychology, Curtin University.
+(16)Department of Psychology, Brigham Young University-Idaho.
+(17)Department of Psychology & Counseling, Arkansas State University.
+(18)Department of Psychology, New York University.
+(19)Faculty of Psychology, Ruhr University Bochum.
+(20)Department of Psychology, Northwestern University.
+(21)Department of Psychology, University at Albany.
+(22)Department of Psychology, University of Würzburg.
+(23)Department of Psychology, Florida State University.
+(24)Department of Psychological and Brain Sciences, Indiana University.
+(25)Department of Psychology, University of California, Riverside.
+(26)Department of Marketing, University of Groningen.
+(27)Psychology Department, Austin College.
+(28)Department of Psychology, Georgia Southern University.
+(29)Department of Psychology, Saarland University.
+(30)Department of Psychology, University of Kentucky.
+(31)Centre for Culture and Evolution, Psychology, Brunel University London.
+(32)Psychology Department, Central Michigan University.
+(33)Department of Marketing, ISM University of Management and Economics.
+(34)Department of Psychology, University of Cologne.
+(35)Psychological Sciences, University of California, Merced.
+(36)Faculty of Sport and Health Sciences, University of Jyväskylä.
+(37)Psychology Department, Bradley University.
+(38)School of Psychological Sciences, University of Melbourne.
+(39)London College of Fashion, University of the Arts London.
+(40)Department of Management, ISM University of Management and Economics.
+(41)Department of Psychology, Wake Forest University.
+(42)Department of Clinical Psychology, Vrije Universiteit Amsterdam.
+(43)College of Arts, Sciences, and Education, Texas A&M University, Texarkana.
+(44)Institute of Psychology, Leuphana University Lüneburg.
+(45)Department of Psychology, University of Waterloo.
+(46)Schulich School of Business, York University.
+(47)Department of Psychiatry and Behavioral Sciences, University of California, 
+San Francisco.
+(48)Department of Psychology, University of Michigan.
+(49)Department of Psychology and Neuroscience, University of Colorado Boulder.
+(50)Department of Psychology, Western Kentucky University.
+(51)Psychology Department, Ohio University.
+(52)School of Social Sciences, University of Dundee.
+(53)Department of Psychology, University of Bamberg.
+(54)Department of Psychology, University of Amsterdam.
+
+We conducted a preregistered multilaboratory project (k = 36; N = 3,531) to 
+assess the size and robustness of ego-depletion effects using a novel 
+replication method, termed the paradigmatic replication approach. Each 
+laboratory implemented one of two procedures that was intended to manipulate 
+self-control and tested performance on a subsequent measure of self-control. 
+Confirmatory tests found a nonsignificant result (d = 0.06). Confirmatory 
+Bayesian meta-analyses using an informed-prior hypothesis (δ = 0.30, SD = 0.15) 
+found that the data were 4 times more likely under the null than the alternative 
+hypothesis. Hence, preregistered analyses did not find evidence for a depletion 
+effect. Exploratory analyses on the full sample (i.e., ignoring exclusion 
+criteria) found a statistically significant effect (d = 0.08); Bayesian analyses 
+showed that the data were about equally likely under the null and informed-prior 
+hypotheses. Exploratory moderator tests suggested that the depletion effect was 
+larger for participants who reported more fatigue but was not moderated by trait 
+self-control, willpower beliefs, or action orientation.
+
+DOI: 10.1177/0956797621989733
+PMCID: PMC12422598
+PMID: 34520296 [Indexed for MEDLINE]
+
+Conflict of interest statement: The author(s) declared that there were no 
+conflicts of interest with respect to the authorship or the publication of this 
+article.
+
+
+9. Sports Med. 2017 Sep;47(9):1859-1868. doi: 10.1007/s40279-017-0741-z.
+
+Chronotype, Physical Activity, and Sport Performance: A Systematic Review.
+
+Vitale JA(1), Weydahl A(2).
+
+Author information:
+(1)IRCCS Istituto Ortopedico Galeazzi, Via Riccardo Galeazzi 4, 20161, Milan, 
+Italy. jacopo.vitale@grupposandonato.it.
+(2)UiT-The Arctic University of Norway, Alta, Norway.
+
+BACKGROUND: Many variables related to sport have been shown to have circadian 
+rhythms. Chronotype is the expression of circadian rhythmicity in an individual, 
+and three categories of chronotype are defined: morning types (M-types), evening 
+types (E-types), and neither types (N-types). M-types show earlier peaks of 
+several psychophysiological variables during the day than E-types. The effect of 
+chronotype on athletic performance has not been extensively investigated.
+OBJECTIVE: The objective of the present review was to study the effect of 
+chronotype on athletic performance and the psychophysiological responses to 
+physical activity.
+METHODS: The present review adheres to the PRISMA (Preferred Reporting Items for 
+Systematic Reviews and Meta-Analyses) reporting guidelines. We searched PubMed, 
+Scopus, and Web of Science for scientific papers using the keywords 
+"chronotype", "circadian typology", "morningness", and "eveningness" in 
+combination with each of the words "sport", "performance", and "athletic." 
+Relevant reference lists were inspected. We limited the search results to 
+peer-reviewed papers published in English from 1985 to 2015.
+RESULTS: Ten papers met our inclusion criteria. Rating of perceived exertion and 
+fatigue scores in relation to athletic performances are influenced by 
+chronotype: M-types perceived less effort when performing a submaximal physical 
+task in the morning than did N- and E-types. In addition, M-types generally 
+showed better athletic performances, as measured by race times, in the morning 
+than did N- and E-types. Other results concerning chronotype effect on 
+physiological responses to physical activity were not always consistent: 
+heterogeneous samples and different kinds of physical activity could partially 
+explain these discrepancies.
+CONCLUSIONS: Sports trainers and coaches should take into account the influence 
+of both the time of day and chronotype effect when scheduling training sessions 
+into specific time periods.
+
+DOI: 10.1007/s40279-017-0741-z
+PMID: 28493061 [Indexed for MEDLINE]
+
+
+10. J Circadian Rhythms. 2026 May 25;24:3. doi: 10.5334/jcr.266. eCollection
+2026.
+
+Time-of-Day Effects on Competitive Speedcubing Performance.
+
+Adireddi SA(1).
+
+Author information:
+(1)Ladue Horton Watkins High School, United States.
+
+Competitive speedcubing - the timed solving of Rubik's Cube puzzles under 
+standardised World Cube Association (WCA) rules - uniquely couples rapid 
+visuospatial processing and working memory with high-speed bimanual fine motor 
+execution, making it a tractable paradigm for investigating time-of-day 
+associations in real-world expert cognitive-motor performance. We analysed 6,600 
+record-setting performances across four puzzle categories (3 × 3 × 3, 4 × 4 × 4, 
+5 × 5 × 5, 6 × 6 × 6) from WCA competitions held between 2003 and 2025 using an 
+exposure-adjusted framework in which record probability is expressed as records 
+per attempt within 15-minute local-time bins, evaluated against a 
+within-competition permutation null that preserves schedule structure. Raw 
+record counts exhibit a bimodal distribution with morning and evening peaks; 
+however, exposure adjustment demonstrates that this pattern is substantially 
+attributable to the non-uniform scheduling of competition rounds across the day. 
+After schedule correction, the 4 × 4 × 4 event shows a statistically significant 
+suppression of record probability during the 12:30-15:00 window 
+(outside-to-inside ratio: 1.14×; one-tailed permutation p = 0.020), consistent 
+in timing with the post-prandial alertness dip. This effect is not statistically 
+significant for the 3 × 3 × 3, 5 × 5 × 5, or 6 × 6 × 6 events. Sensitivity 
+analyses confirm that the 4 × 4 × 4 finding is broadly distributed across 
+regions and competitive eras and persists within early rounds alone. The 
+late-evening elevation in raw counts is explained by final-round competitor 
+selection. These results demonstrate the methodological importance of exposure 
+adjustment in ecological performance analyses and identify a residual midday 
+suppression in 4 × 4 × 4 record probability that warrants further investigation.
+
+Copyright: © 2026 The Author(s).
+
+DOI: 10.5334/jcr.266
+PMCID: PMC13220728
+PMID: 42220415
+
+Conflict of interest statement: The author has no competing interests to 
+declare.
+
+
+11. Front Psychol. 2026 Sep 25;17:1933599. doi: 10.3389/fpsyg.2026.1933599. 
+eCollection 2026.
+
+Time-of-day effects of acute and regular exercise on sleep quality and mood: a 
+three-level meta-analysis.
+
+Hu X(1), Chen P(1).
+
+Author information:
+(1)School of Sports Science and Physical Education, Nanjing Normal University, 
+Nanjing, Jiangsu, China.
+
+BACKGROUND: Evidence regarding whether exercise timing differentially affects 
+sleep quality and mood remains inconsistent. This study examined the effects of 
+acute and regular exercise performed at different times of day on sleep and 
+mood.
+METHODS: Eight English and Chinese databases were searched from inception to 
+June 2026. Parallel and crossover randomized trials were synthesized using 
+three-level meta-analysis with non-diagonal sampling variance-covariance 
+matrices. Exercise vs. Control and direct Time vs. Time comparisons were 
+analyzed separately, with CR2 cluster-robust inference used as a robustness 
+check.
+RESULTS: Thirteen studies contributed 81 effect sizes (40 sleep and 41 mood). 
+For sleep, Exercise vs. Control showed a large effect in the conventional model 
+(g = 0.86, 95% CI [0.26, 1.46], p = 0.005), but CR2 inference was 
+non-significant (p = 0.109). Direct Time vs. Time comparisons were 
+non-significant (g = 0.15, 95% CI [-0.08, 0.39], p = 0.209; CR2 p = 0.127), with 
+no stable advantage for morning, afternoon, or evening exercise. For mood, 
+Exercise vs. Control was large but non-significant (g = 0.95, p = 0.056). Time 
+vs. Time was significant conventionally (g = 0.30, p = 0.027) but not under CR2 
+inference (p = 0.097). Afternoon vs. Evening favored afternoon exercise (g = 
+0.50, p = 0.001), although based on only two studies.
+CONCLUSION: Exercise itself may be more important than its specific timing for 
+sleep, whereas mood may show timing-related signals that remain insufficiently 
+robust for definitive recommendations.
+SYSTEMATIC REVIEW REGISTRATION: https://www.crd.york.ac.uk/prospero/, identifier 
+[CRD420261431622].
+
+Copyright © 2026 Hu and Chen.
+
+DOI: 10.3389/fpsyg.2026.1933599
+PMCID: PMC13649999
+PMID: 42857179
+
+Conflict of interest statement: The author(s) declared that this work was 
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.
+
+
+12. Ergonomics. 2014;57(10):1488-98. doi: 10.1080/00140139.2014.935746. Epub 2014
+ Jul 15.
+
+The effects of shift work and time of day on fine motor control during 
+handwriting.
+
+Hölzle P(1), Hermsdörfer J, Vetter C.
+
+Author information:
+(1)a Department of Psychiatry and Psychotherapy , Technische Universität München 
+, Munich , Germany.
+
+Handwriting is an elaborate and highly automatised skill relying on fine motor 
+control. In laboratory conditions handwriting kinematics are modulated by the 
+time of day. This study investigated handwriting kinematics in a rotational 
+shift system and assessed whether similar time of day fluctuations at the work 
+place can be observed. Handwriting performance was measured in two tasks of 
+different levels of complexity in 34 shift workers across morning (6:00-14:00), 
+evening (14:00-22:00) and night shifts (22:00-6:00). Participants were tested 
+during all three shifts in 2-h intervals with mobile testing devices. We 
+calculated average velocity, script size and writing frequency to quantify 
+handwriting kinematics and fluency. Average velocity and script size were 
+significantly affected by the shift work schedule with the worst performance 
+during morning shifts and the best performance during evening shifts. Our data 
+are of high economic relevance as fine motor skills are indispensable for 
+accurate and effective production at the work place.
+PRACTITIONER SUMMARY: Handwriting is one of the most complex fine motor skills 
+in humans, which is frequently performed in daily life. In this study, we tested 
+handwriting repeatedly at the work place in a rotational shift system. We found 
+slower handwriting velocity and reduced script size during morning shifts.
+
+DOI: 10.1080/00140139.2014.935746
+PMID: 25026215 [Indexed for MEDLINE]
+
+
+13. Phys Act Nutr. 2023 Sep;27(3):52-63. doi: 10.20463/pan.2023.0029. Epub 2023
+Sep  30.
+
+Effects of exercise timing and intensity on physiological circadian rhythm and 
+sleep quality: a systematic review.
+
+Kim N(1), Ka S(1), Park J(1).
+
+Author information:
+(1)Department of Physical Education, Korea University, Seoul, Republic of Korea.
+
+PURPOSE: Humans show near-24-h physiological and behavioral rhythms, which 
+encompass the daily cycle of sleep and wakefulness. Exercise stimulates 
+circadian rhythms, including those of cortisol, melatonin, and core body 
+temperature, and affects sleep quality. We systematically reviewed studies that 
+examined the effects of exercise intensity and timing on physiological circadian 
+rhythms and sleep quality.
+METHODS: In this systematic review, we used the online databases PubMed, Science 
+Direct, Web of Science, and Embase. This review was conducted in accordance with 
+the Preferred Reporting Items for Systematic Reviews and Meta-Analyses 
+guidelines. Two independent and experienced systematic reviewers performed the 
+search and selected relevant studies. The participant, intervention, comparison, 
+and outcome characteristics were: (1) adults; (2) exercise treatment; (3) no 
+exercise treatment or different types of exercise (pre-exercise baseline); (4) 
+cortisol, melatonin, or core body temperature measurement, and subjective or 
+objective sleep quality assessments.
+RESULTS: We identified 9 relevant articles involving 201 participants (77.1% of 
+whom were male). Our review revealed that short-term evening exercise delayed 
+melatonin rhythm and increased nocturnal core body temperature; however, no 
+negative effects on non-rapid eye movement sleep and sleep efficiency were 
+observed. Moreover, no differences in sleep quality were observed between acute 
+high-intensity and moderate-intensity exercises. With long exercise durations, 
+the core body temperature tended to increase and return to baseline levels at 
+30-120 min.
+CONCLUSION: Our review showed that short-term evening exercise and 
+high-intensity exercise did not have a significant negative effect on sleep 
+quality but physiological circadian rhythm tended to alter. Longterm morning 
+exercise tended to decrease cortisol concentrations after awakening and improve 
+sleep quality. Future studies should examine the effects of long-term exercise 
+timing and intensity on circadian rhythm and sleep.
+
+DOI: 10.20463/pan.2023.0029
+PMCID: PMC10636512
+PMID: 37946447

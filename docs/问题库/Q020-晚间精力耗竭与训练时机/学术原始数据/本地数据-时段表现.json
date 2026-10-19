@@ -1,0 +1,100 @@
+{
+  "说明": "kovaak_score 按场景自身均值归一化后按本地时段(+8h)聚合；rel_mean>1 表示该时段高于个人该场景平均",
+  "数据范围": "2026-08-01 起",
+  "score条数": 1330,
+  "场景数": 154,
+  "按时段归一化分数": {
+    "清晨5-9": {
+      "n": 43,
+      "rel_mean": 0.9251,
+      "rel_median": 0.9499
+    },
+    "上午9-13": {
+      "n": 257,
+      "rel_mean": 0.9913,
+      "rel_median": 0.986
+    },
+    "午后13-17": {
+      "n": 307,
+      "rel_mean": 1.0045,
+      "rel_median": 1.0048
+    },
+    "傍晚17-21": {
+      "n": 299,
+      "rel_mean": 1.0258,
+      "rel_median": 1.0194
+    },
+    "深夜21-5": {
+      "n": 424,
+      "rel_mean": 0.9915,
+      "rel_median": 1.0
+    }
+  },
+  "按时段命中率": {
+    "上午9-13": {
+      "hits": 69817,
+      "misses": 124556,
+      "hit_rate": 0.3592
+    },
+    "深夜21-5": {
+      "hits": 32837,
+      "misses": 54465,
+      "hit_rate": 0.3761
+    },
+    "午后13-17": {
+      "hits": 53841,
+      "misses": 84245,
+      "hit_rate": 0.3899
+    }
+  },
+  "深夜段场景明细_TOP12": {
+    "Popcorn MV Easier": {
+      "n": 30,
+      "rel_mean": 1.0006
+    },
+    "1w2t TE Reload": {
+      "n": 25,
+      "rel_mean": 1.0146
+    },
+    "B90T Voltaic Easy Very Slow": {
+      "n": 25,
+      "rel_mean": 0.99
+    },
+    "Pasu Voltaic Iron": {
+      "n": 25,
+      "rel_mean": 1.0864
+    },
+    "Smoothbot Iron": {
+      "n": 25,
+      "rel_mean": 1.0091
+    },
+    "Tamspeed 2bp Iron": {
+      "n": 25,
+      "rel_mean": 1.0604
+    },
+    "Wide Wall 3 Targets TE": {
+      "n": 25,
+      "rel_mean": 1.014
+    },
+    "patTS Voltaic Iron": {
+      "n": 25,
+      "rel_mean": 0.9936
+    },
+    "Pasu Voltaic Reload Easier": {
+      "n": 17,
+      "rel_mean": 0.9872
+    },
+    "1w2ts reload smallflicks larger": {
+      "n": 13,
+      "rel_mean": 0.995
+    },
+    "Whisphere Viscose Easier": {
+      "n": 12,
+      "rel_mean": 0.975
+    },
+    "Air CELESTIAL No UFO Easier": {
+      "n": 11,
+      "rel_mean": 0.9932
+    }
+  }
+}
