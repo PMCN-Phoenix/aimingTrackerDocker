@@ -1,6 +1,20 @@
 {
   "rows": [
     {
+      "scenario": "VT psalmTS Novice",
+      "runs": 10,
+      "kills": 585,
+      "clean_pct": 93.0,
+      "regen_light_pct": 3.2,
+      "regen_heavy_pct": 3.8,
+      "mean_dmg": 1.005,
+      "mean_excess_pct": 0.5,
+      "median_ttk": 0.642,
+      "p90_ttk": 1.161,
+      "p90_over_p50": 1.81,
+      "hit_rate": 38.4
+    },
+    {
       "scenario": "psalmTS Voltaic LowTTK",
       "runs": 5,
       "kills": 327,
@@ -13,20 +27,6 @@
       "p90_ttk": 1.007,
       "p90_over_p50": 1.7,
       "hit_rate": 17.8
-    },
-    {
-      "scenario": "VT psalmTS Novice",
-      "runs": 5,
-      "kills": 273,
-      "clean_pct": 93.4,
-      "regen_light_pct": 5.1,
-      "regen_heavy_pct": 1.5,
-      "mean_dmg": 1.003,
-      "mean_excess_pct": 0.3,
-      "median_ttk": 0.694,
-      "p90_ttk": 1.337,
-      "p90_over_p50": 1.93,
-      "hit_rate": 35.1
     },
     {
       "scenario": "VT psalmTS Advanced Regen",
