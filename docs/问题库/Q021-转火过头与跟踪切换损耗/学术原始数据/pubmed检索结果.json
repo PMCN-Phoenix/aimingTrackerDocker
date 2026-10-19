@@ -1,0 +1,414 @@
+{
+  "submovement": {
+    "query": "submovement ballistic corrective aimed movement",
+    "count": "8",
+    "items": [
+      {
+        "pmid": "9588781",
+        "date": "1998 Apr",
+        "journal": "Exp Brain Res",
+        "title": "Persistence in visual feedback control by the elderly."
+      },
+      {
+        "pmid": "34323564",
+        "date": "2021 Oct",
+        "journal": "Neuropsychology",
+        "title": "Motor control and learning in individuals with early-treated phenylketonuria."
+      },
+      {
+        "pmid": "10666326",
+        "date": "2000 Mar",
+        "journal": "J Exp Child Psychol",
+        "title": "Movement substructures change as a function of practice in children and adults."
+      },
+      {
+        "pmid": "15064195",
+        "date": "1993 Dec",
+        "journal": "J Mot Behav",
+        "title": "Rapid aimed limb movements: differential effects of practice on component submovements."
+      },
+      {
+        "pmid": "26731344",
+        "date": "2016 Jul-Aug",
+        "journal": "J Mot Behav",
+        "title": "Fitts' Law With An Average of Two or Less Submoves?"
+      }
+    ]
+  },
+  "impulse_variability": {
+    "query": "impulse variability theory rapid aiming accuracy",
+    "count": "1",
+    "items": [
+      {
+        "pmid": "15138137",
+        "date": "1986 Dec",
+        "journal": "J Mot Behav",
+        "title": "Kinematics properties of rapid aimed hand movements."
+      }
+    ]
+  },
+  "speed_accuracy": {
+    "query": "speed accuracy tradeoff aiming movement endpoint error",
+    "count": "4",
+    "items": [
+      {
+        "pmid": "30405521",
+        "date": "2018",
+        "journal": "Front Neurol",
+        "title": "Movement Speed-Accuracy Trade-Off in Parkinson's Disease."
+      },
+      {
+        "pmid": "29529064",
+        "date": "2018",
+        "journal": "PLoS One",
+        "title": "Evaluation of the Leap Motion Controller during the performance of visually-guided upper limb movements."
+      },
+      {
+        "pmid": "12711584",
+        "date": "2003 Jun",
+        "journal": "J Mot Behav",
+        "title": "No evidence for accurate visuomotor memory: systematic and variable error in memory-guided reaching."
+      },
+      {
+        "pmid": "24787616",
+        "date": "2014",
+        "journal": "J Mot Behav",
+        "title": "The sine wave protocol: decrease movement time without increasing errors."
+      }
+    ]
+  },
+  "online_control": {
+    "query": "online control goal-directed aiming visual feedback",
+    "count": "14",
+    "items": [
+      {
+        "pmid": "27458399",
+        "date": "2016",
+        "journal": "Front Psychol",
+        "title": "Visual Online Control of Goal-Directed Aiming Movements in Children."
+      },
+      {
+        "pmid": "24874948",
+        "date": "2015 May",
+        "journal": "Vision Res",
+        "title": "Is visual-based, online control of manual-aiming movements disturbed when adapting to new movement dynamics?"
+      },
+      {
+        "pmid": "26902290",
+        "date": "2017 Apr",
+        "journal": "Q J Exp Psychol (Hove)",
+        "title": "Visual monitoring of goal-directed aiming movements."
+      },
+      {
+        "pmid": "35487099",
+        "date": "2022 Jun",
+        "journal": "Hum Mov Sci",
+        "title": "Interaction of hand orientations during familiarization of a goal-directed aiming task."
+      },
+      {
+        "pmid": "9450378",
+        "date": "1997 Nov",
+        "journal": "Q J Exp Psychol A",
+        "title": "Visual perception modifies goal-directed movement control: supporting evidence from a visual perturbation paradigm."
+      }
+    ]
+  },
+  "saccade_pursuit": {
+    "query": "saccade smooth pursuit interaction target change",
+    "count": "19",
+    "items": [
+      {
+        "pmid": "15322786",
+        "date": "2005 Jan",
+        "journal": "Exp Brain Res",
+        "title": "Smooth pursuit tracking of an abrupt change in target direction: vector superposition of discrete responses."
+      },
+      {
+        "pmid": "16162830",
+        "date": "2006 Jan",
+        "journal": "J Neurophysiol",
+        "title": "Evidence for synergy between saccades and smooth pursuit during transient target disappearance."
+      },
+      {
+        "pmid": "37515410",
+        "date": "2023 Dec",
+        "journal": "Psychophysiology",
+        "title": "Eye movements during motor imagery and execution reveal different visuomotor control strategies in manual interception."
+      },
+      {
+        "pmid": "3585475",
+        "date": "1987 May",
+        "journal": "J Neurophysiol",
+        "title": "Human smooth pursuit: stimulus-dependent responses."
+      },
+      {
+        "pmid": "33593731",
+        "date": "2021 Mar-Apr",
+        "journal": "eNeuro",
+        "title": "Passive Motor Learning: Oculomotor Adaptation in the Absence of Behavioral Errors."
+      }
+    ]
+  },
+  "saccade_latency": {
+    "query": "saccadic latency double step target displacement",
+    "count": "7",
+    "items": [
+      {
+        "pmid": "12693256",
+        "date": "2003",
+        "journal": "Prog Brain Res",
+        "title": "Neural activity in the primate superior colliculus and saccadic reaction times in double-step experiments."
+      },
+      {
+        "pmid": "35294273",
+        "date": "2022 Apr 1",
+        "journal": "J Neurophysiol",
+        "title": "Eye-hand coordination during online reach corrections is task dependent."
+      },
+      {
+        "pmid": "10341987",
+        "date": "1999 Feb",
+        "journal": "Vision Res",
+        "title": "Spatial attention and latencies of saccadic eye movements."
+      },
+      {
+        "pmid": "29085900",
+        "date": "2017 Sep-Oct",
+        "journal": "eNeuro",
+        "title": "Automatic Online Motor Control Is Intact in Parkinson's Disease With and Without Perceptual Awareness."
+      },
+      {
+        "pmid": "24022008",
+        "date": "2013 Oct 11",
+        "journal": "Invest Ophthalmol Vis Sci",
+        "title": "Short-term saccadic adaptation in patients with anisometropic amblyopia."
+      }
+    ]
+  },
+  "quiet_eye": {
+    "query": "quiet eye gaze fixation aiming accuracy",
+    "count": "11",
+    "items": [
+      {
+        "pmid": "37930988",
+        "date": "2023",
+        "journal": "PLoS One",
+        "title": "The functional role of visual information and fixation stillness in the quiet eye."
+      },
+      {
+        "pmid": "29185367",
+        "date": "2017 Oct 1",
+        "journal": "J Sport Exerc Psychol",
+        "title": "Aiming to Deceive: Examining the Role of the Quiet Eye During Deceptive Aiming Actions."
+      },
+      {
+        "pmid": "30392140",
+        "date": "2019 Feb",
+        "journal": "Cogn Process",
+        "title": "Why does the Quiet Eye improve aiming accuracy? Testing a motor preparation hypothesis with brain potential."
+      },
+      {
+        "pmid": "21318734",
+        "date": "2011 Aug",
+        "journal": "Cogn Process",
+        "title": "Quiet-eye training for soccer penalty kicks."
+      },
+      {
+        "pmid": "17926174",
+        "date": "2008 Jan 15",
+        "journal": "J Sports Sci",
+        "title": "State anxiety and visual attention: the role of the quiet eye period in aiming to a far target."
+      }
+    ]
+  },
+  "gaze_anchoring": {
+    "query": "gaze behaviour interceptive action accuracy",
+    "count": "6",
+    "items": [
+      {
+        "pmid": "35112083",
+        "date": "2021",
+        "journal": "Front Sports Act Living",
+        "title": "Spatial Accuracy of Predictive Saccades Determines the Performance of Continuous Visuomotor Action."
+      },
+      {
+        "pmid": "41112561",
+        "date": "2025",
+        "journal": "Front Psychol",
+        "title": "Differences in predictive and prospective control strategies by batting skill level during an interception task."
+      },
+      {
+        "pmid": "41648459",
+        "date": "2026 Jan 14",
+        "journal": "bioRxiv",
+        "title": "Motor Intention Drives Corticospinal Facilitation during Interception Planning."
+      },
+      {
+        "pmid": "42616640",
+        "date": "2026 Sep 1",
+        "journal": "J Neurophysiol",
+        "title": "Active motor preparation drives corticospinal facilitation during interception planning."
+      },
+      {
+        "pmid": "30174625",
+        "date": "2018",
+        "journal": "Front Psychol",
+        "title": "The Perception of Deceptive Information Can Be Enhanced by Training That Removes Superficial Visual Information."
+      }
+    ]
+  },
+  "task_switching_motor": {
+    "query": "task switching cost motor set reconfiguration",
+    "count": "4",
+    "items": [
+      {
+        "pmid": "41648102",
+        "date": "2026 Jan 21",
+        "journal": "bioRxiv",
+        "title": "Hierarchical Reconfiguration of Neurocognitive Task Set Representations Mediates Cognitive Flexibility."
+      },
+      {
+        "pmid": "19172908",
+        "date": "2008 Dec",
+        "journal": "Shinrigaku Kenkyu",
+        "title": "[Stimulus set and response set in task switching: a comparison using ERP]."
+      },
+      {
+        "pmid": "34843342",
+        "date": "2022 Jan",
+        "journal": "J Exp Psychol Hum Percept Perform",
+        "title": "Exploring task switch costs in a color-shape decision task via a mouse tracking paradigm."
+      },
+      {
+        "pmid": "30809706",
+        "date": "2019 May",
+        "journal": "Exp Brain Res",
+        "title": "Response suppression produces a switch-cost for spatially compatible saccades."
+      }
+    ]
+  },
+  "sequential_aiming": {
+    "query": "sequential aiming movements chunking",
+    "count": "0",
+    "items": []
+  },
+  "grip_force": {
+    "query": "grip force modulation precision aiming",
+    "count": "8",
+    "items": [
+      {
+        "pmid": "31691641",
+        "date": "2021 Jul",
+        "journal": "Disabil Rehabil",
+        "title": "Impaired force control contributes to car steering dysfunction in chronic stroke."
+      },
+      {
+        "pmid": "26223578",
+        "date": "2015 Nov",
+        "journal": "Exp Brain Res",
+        "title": "Grip forces during fast point-to-point and continuous hand movements."
+      },
+      {
+        "pmid": "39932700",
+        "date": "2025 Jun",
+        "journal": "J Hand Surg Eur Vol",
+        "title": "Cervical spinal cord stimulation for treatment of upper limb paralysis: a narrative review."
+      },
+      {
+        "pmid": "16225972",
+        "date": "2006 Feb",
+        "journal": "Clin Biomech (Bristol)",
+        "title": "Dynamic force-sharing in multi-digit task."
+      },
+      {
+        "pmid": "30597446",
+        "date": "2019 Feb",
+        "journal": "Neural Netw",
+        "title": "A hypothetical neural network model for generation of human precision grip."
+      }
+    ]
+  },
+  "visual_delay": {
+    "query": "delayed visual feedback manual aiming endpoint error",
+    "count": "0",
+    "items": []
+  },
+  "overshoot": {
+    "query": "overshoot undershoot aiming movement endpoint",
+    "count": "4",
+    "items": [
+      {
+        "pmid": "16575577",
+        "date": "2006 Sep",
+        "journal": "Exp Brain Res",
+        "title": "Optimizing rapid aiming behaviour: Movement kinematics depend on the cost of corrective modifications."
+      },
+      {
+        "pmid": "19401895",
+        "date": "2009 Apr",
+        "journal": "Ergonomics",
+        "title": "Optimising speed and energy expenditure in accurate visually directed upper limb movements."
+      },
+      {
+        "pmid": "28327058",
+        "date": "2017 Mar-Apr",
+        "journal": "J Mot Behav",
+        "title": "Extending Energy Optimization in Goal-Directed Aiming from Movement Kinematics to Joint Angles."
+      },
+      {
+        "pmid": "32077987",
+        "date": "2020 Mar",
+        "journal": "Exp Brain Res",
+        "title": "Energy minimization within target-directed aiming: the mediating influence of the number of movements and target size."
+      }
+    ]
+  },
+  "practice_variability": {
+    "query": "practice reduces endpoint variability aiming",
+    "count": "43",
+    "items": [
+      {
+        "pmid": "27178479",
+        "date": "2016 Jun 25",
+        "journal": "Lancet",
+        "title": "Platelet transfusion versus standard care after acute stroke due to spontaneous cerebral haemorrhage associated with antiplatelet therapy (PATCH): a randomised, open-label, phase 3 trial."
+      },
+      {
+        "pmid": "39493181",
+        "date": "2024 Oct",
+        "journal": "Cureus",
+        "title": "Compact Arterial Monitoring Device Use in Resuscitative Endovascular Balloon Occlusion of the Aorta (REBOA): A Simple Validation Study in Swine."
+      },
+      {
+        "pmid": "35406137",
+        "date": "2022 Apr 6",
+        "journal": "Nutrients",
+        "title": "Whey Protein, Leucine- and Vitamin-D-Enriched Oral Nutritional Supplementation for the Treatment of Sarcopenia."
+      },
+      {
+        "pmid": "41366447",
+        "date": "2025 Dec 9",
+        "journal": "J Neuroeng Rehabil",
+        "title": "The impact of bimanual reach training with augmented position sense feedback on post-stroke upper limb somatosensory and motor impairment."
+      },
+      {
+        "pmid": "41063310",
+        "date": "2025 Oct 8",
+        "journal": "Antimicrob Resist Infect Control",
+        "title": "Central venous catheter infections: building a causal model with expert domain knowledge to inform future clinical trials."
+      }
+    ]
+  },
+  "movement_time_pressure": {
+    "query": "time pressure movement planning endpoint accuracy",
+    "count": "1",
+    "items": [
+      {
+        "pmid": "16406028",
+        "date": "2006",
+        "journal": "Neuropsychologia",
+        "title": "Interaction between space and number representations during motor preparation in manual aiming."
+      }
+    ]
+  }
+}

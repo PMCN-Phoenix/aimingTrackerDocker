@@ -1,0 +1,239 @@
+YouTube, what's going on? My name is
+Corporate Surf and in today's video,
+we're bringing a first on my channel.
+I'm branching outside of tracking to
+bring you guys some resources for target
+switching. So, with that being said, I
+wanted to put out my general philosophy
+for the work that I produce, and it is
+essentially summed up in this statement.
+This is a statement I wrote about
+simplicity, and it's the foundation for
+how I view aim training and everything
+that I try to take seriously. I firmly
+believe one of the greatest vessels of
+equity is simplicity. Opportunity is
+boundless when everyone can understand.
+So the equality of opportunity lies
+within simplicity where the foundations
+to success are known to everyone and
+everyone can chase them according to
+their dreams. No manner of
+implementation is going to be perfect on
+this, but that is my approach when
+creating resources for you guys here on
+YouTube. So here we go with the
+corporate surf target switching training
+method. Emphasis on the word training
+there, but a fair warning, as I've
+hinted at earlier, I'm a tracking guy.
+As you can see on screen specifically,
+I'm most interested in precise tracking.
+In the 2,000 hours it took me to be one
+of the best at smoothness. I refined
+quite a few approaches to how I tackle
+each task and how I feel my time is best
+utilized. Through trial and error, I've
+tried to maximize my efficiency so that
+I can hit the highest scores I can on
+Kovac. Most of my YouTube resources
+revolve around helping you get better at
+the aim trainer. And that's what this
+video is about. If you're trying to get
+better at Battlefield or Call of Duty, I
+think this video can help you. But at
+the same time, keep in mind my approach
+is relative to the aim trainer itself.
+So since my model revolves exclusively
+around training methods, you should also
+be aware of foundational techniques that
+are going to help you when you play my
+playlist. The first video you should
+watch and what you should absolutely
+understand is a concept that a random
+dead dude puts together in his video,
+How to Get Astra in Under 10 Minutes for
+Psalm TS. It's a great video on the
+general philosophy for training target
+switching, specifically speed switching,
+but it covers the mindset that you
+should have when playing the task at
+hand. The next one is not completely
+perfect, but I still really like it.
+It's evasive target switching by Red. By
+the way, not every aspect of this video
+is perfect, but it will provide you with
+a foundation of how you should approach
+evasive target switching. And the last
+one is a recent video by Visos, which is
+about tension management and how you
+should budget your tension relative to
+the task you're playing. One final note,
+and I'm sorry for all these
+prerequisites. The model that I built
+this playlist for is based on
+pentabounce. In terms of the flicking
+aspect of target switching, pentabounce
+is not the best. Within my playlist, you
+will still improve at flicking for
+target switching, but when you're
+playing the benchmark itself, flicking
+is not a huge priority for this. This is
+not an issue at all. I just wanted to
+give you guys a heads up on that. The
+core of what I'm talking about can be
+applied to both pentabounce and any type
+of target switching scenario. The reason
+I chose to build this for pentabounce is
+because of a recent video where I shared
+my progression theory on how you should
+approach getting better at akim. Since
+pentabounce is the first target
+switching task I think you should play,
+I built it for pentabout. So the core of
+this method, variable isolation training
+specific to target switching. There are
+many variables that you need to consider
+when accounting for the difficulty of a
+target switching scenario. I've gone
+ahead here and narrowed them down to the
+four most universal and most important
+variables for you to account for. listed
+quickly. They are the speed or the
+movement profile of the bot, the overall
+bot count, which is how many bots are
+spawned into the map, the size of the
+bot, which is displayed on Kovac through
+its radius, and the health or the time
+to kill for the bot. All right, speed.
+No, not I show speed. The speed profile
+of the bot. For speed, obviously, we're
+going to have a top speed, but we'll
+also have the acceleration of the bot,
+and then the strafing profile for the
+bot. This is when it changes directions,
+how frequent or erratic those strafing
+mannerisms are. Next up, we have bot
+count. So, the more bots that you have
+in the scenario, the more it will call
+for you to practice your chaining. The
+less bots there are in a scenario, the
+more it will call for you to practice
+your flicking. Now, with bot size, the
+larger the bot, the more it will call
+for you to focus on your speed and
+fluidity. And then, the smaller the bot
+size, the more it will call for you to
+emphasize your precision. Finally, here
+with the bot health, a high health bot
+will call for you to be more tracking
+dominant. And then, a low health bot
+again will have you focusing on your
+flicking. So, I went ahead and built a
+chart for the flow of targeting these
+variables when training for switching.
+I'm going to zoom in here in a second,
+but it starts at speed and then we go to
+our our bot counts. And then specific to
+each bot count, we have 30% larger, same
+size, 30% smaller. And then within each
+size profile, we have a health value
+being more health, same health, less
+health. So, factoring for each of these
+variables across the board, there are 27
+unique ways to practice within a speed
+profile. So I went ahead and designed
+two playlists based on that philosophy.
+First on the left is based on pentto
+bounce novice. On the right is based on
+pinto bounce advance. You can see within
+the playlist we factor first based on
+size. Then within each size portion we
+have bot count. And then within that
+profile we factor for health or time to
+kill. Okay. So that was a ton of
+information. Why would somebody do
+something like this? Well, first of all,
+when you isolate your variables, it
+helps you identify the weak points of
+your aim. Maybe you're having a lot of
+trouble with your flicking. This
+playlist has you covered. You can play
+when there's four bots and with the bots
+on low TTK. Maybe you're having trouble
+with your tracking. You can play the
+versions where the bot has a higher
+health count. Isolating our variables
+helps us tackle our weaknesses. But
+also, playing with this model has other
+benefits, too. When there are 27
+different tasks, there are 27 different
+leaderboards. You have 27 different
+opportunities to see your personal best
+score. You play more and more and try
+and challenge yourself to beat your
+previous bests. The more time you invest
+in quality training, the better you will
+be in the long run. So, let's talk about
+what I would recommend for each of these
+playlists. Looking first at the novice
+playlist, I would recommend it for
+players gold to diamond rank. When you
+play each scenario, I think you should
+play it twice. If you play each scenario
+twice, you'll get done in less than an
+hour. There'll be lots of variety. It'll
+be a lot of fun for you. Now, going back
+to why I said you should be gold to
+diamond for this. If you are lower than
+gold, you haven't quite hit the
+fundamentals that you need for this
+playlist to be beneficial. That's just
+my personal opinion. If you're lower
+than gold, I would actually first
+recommend you check out the Voltaic
+daily improvement method. This is an aim
+routine produced by Voltaic members
+LowGravity 56 and 4RK. It starts all the
+way at the bottom with entry-le playlist
+so that new players can get familiar
+with the aim type and establish
+foundational skills that are going to
+carry you into a playlist like mine.
+Moving right along then to my
+recommendations for the advanced
+switching playlist. For this one, I
+would recommend you be between Jade and
+Grandmaster rank and that you go ahead
+and play each scenario three times.
+Playing each scenario three times in the
+playlist should have you finishing in
+around 90 minutes. I recommend Jade to
+Grandmaster for this one because if
+you're lower than Jade, like your
+diamond, it might be too difficult. But
+if you're higher than Grandmaster,
+you've already hit the fundamentals
+needed for this playlist and there are
+probably better resources for your
+further development. All that being
+said, the only thing that really matters
+is that you're having fun and playing
+and that your training is beneficial to
+you. So, if you find that you benefit
+from playing one of these playlists a
+different way, go for it. Challenge
+yourself in the ways that you think will
+benefit you the most. But all that being
+said, we've reached the end of this
+video here. I want to thank you all so
+much for watching. I'm almost at 3,000
+subscribers somehow. A couple months
+ago, I was barely at 500. The support
+you guys have been showing me is
+amazing, and I really appreciate you
+all. So, whether you care about Call of
+Duty, Kovac, or Battlefield, go out
+there and have fun and get better.
+Thanks for watching, and I'll see you
+all later. Peace.

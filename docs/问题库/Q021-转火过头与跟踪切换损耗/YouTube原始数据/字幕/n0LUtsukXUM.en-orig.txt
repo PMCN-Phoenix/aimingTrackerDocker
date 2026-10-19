@@ -1,0 +1,819 @@
+we're here though to talk about our next
+video in the series the third main topic
+of the overall aim mechanics
+which is target switching um and in this
+video we're going to be talking
+typically
+target switching is broken into two uh
+different types of target switching one
+is flick target switching and then the
+other is more evasive target switching
+uh we're going to be talking about flick
+or speed
+target switching as it's referred to
+depending on which benchmarks you're
+looking at what is target switching
+target switching is essentially
+your ability to
+move your crosshair quickly between two
+targets
+typically this is two targets that are
+on a wide angle it's usually referring
+to low ttk or time to kill basically it
+takes it doesn't take a very long time
+to eliminate the targets cod is a pretty
+common example of a type of game where
+there's a lot of target switching
+because there's so many targets on
+screen and they uh you you have a lot of
+ammo and your weapon and it doesn't take
+a lot of damage to kill people so you'll
+see it often if there's a lot of targets
+on screen that need to be eliminated
+quickly or in
+games that have higher ttk like apex
+legends
+there are multiple targets on wide
+angles
+or if there's kind of like a spray
+transfer situation where you're doing
+damage to one target and then instead of
+not shooting stopping firing your gun
+and then moving to another target you
+just quickly flick to another target to
+continue in that same clip doing damage
+to the next target and this is used for
+multiple different reasons in fps games
+one is to keep pressure on multiple
+different enemies
+it's for optimizing damage up time if
+you know you have so many bullets in
+your gun and if you run out of bullets
+you have to switch to a second gun
+normally as a backup gun
+there's a lot of time involved with that
+you know microseconds that can add up
+actually in fps games the time it takes
+for you to switch to a second gun could
+be enough time for the enemy to kill you
+there's somebody behind a door or hiding
+in a corner or you just didn't see that
+they were there you weren't aware of
+their presence
+and then if you're good at target
+switching you can quickly flick your gun
+and point your gun at them and start
+doing damage to them whereas if you
+weren't good at target switching they
+would probably be able to start shooting
+you and kill you before you kill them so
+what do speed target switching or ts
+benches test you on most people think
+that the most important skill that you
+need in target switching is
+speed your ability to
+move your mouse across the mouse pad as
+quickly as possible while that's true
+i mean it's in the name right speed ts
+uh what it's really testing you on is
+your ability to quickly acquire a target
+click to it and then stay on target
+while tracking it and using as few
+bullets as possible and so what you need
+there is flick accuracy you need
+stability
+after flicking so when you land on a
+target if you move your mouse very
+quickly often what happens is your hand
+does this little movement it's like a
+little shake right because
+you are moving at a high momentum your
+hand's moving at a high momentum and so
+when you need to stop you need stopping
+power right unless your hand is is
+stable your crosshair is gonna wiggle
+off of the target and then you're not
+doing damage to it in that time static
+has a built-in technique called micro
+adjusting to
+help you with your flick accuracy like
+basically if you're if you're not as
+good at
+landing on your targets when you flick
+to them
+you can do the micro adjustment and move
+on right um but in target switching you
+are penalized a lot heavier for your
+flick accuracy for your shakiness for
+waist and movement unclean lines over
+and under flicking a lot of what we're
+going to be talking about is actually
+improving
+that component of your aim technique and
+it's something that you should be
+consciously thinking about when you're
+training for target switching settings
+wise uh you'll be using a higher fov
+than you're used to in most of the
+target switching scenarios 115 to 125
+overwatch is usually recommended i use
+115 for pretty much everything except
+for the pat ts sends or 360 sends if
+you're doing any that have like a 360
+angle you'll actually see in the voltaic
+benches and guides they usually suggest
+using source fov and i think that's a
+little much i personally would just
+stick to 115 and 125 overwatch and the
+reason for this is because in order for
+you to be able to flick to targets uh
+you need to be able to see them and and
+know they're there so a lot of times
+you're going to
+have no targets visible to you on screen
+because of the fact that they're just
+off screen and you know they're off
+screen but you don't know exactly where
+they are so you just kind of like
+mindlessly flick and hope that you land
+near it and then you have to correct
+i just kind of want to minimize that it
+just reduces the randomness
+there's going to be plenty of
+opportunities for you to do kind of like
+a mysterious flick so don't worry you're
+going to be building that technique and
+in terms of like the targets the colors
+the walls you could just follow the
+moving dots backgrounds generally i also
+just use solid color walls you can use
+either one that the targets are going to
+be moving so having some kind of lines
+in the background like brick or concrete
+tiles can help you notice their movement
+and track their movement better and
+sensitivity wise so i actually like
+using a higher sense on uh target
+switching and it feels fine for me you
+might have some trouble with it at first
+i run at 21cm for most of the target
+switching sense i think it helps with
+developing your stability and your
+smoothness because you're basically
+raising the skill ceiling a bit and
+you'll find if you can get used to it
+you'll find it just feels better because
+of the
+often you're doing really wide flicks
+so it's just using less of your mouse
+pad to do it ultimately is what it comes
+down to if you're able to control that
+sensitivity the primary technique is
+building on what you learned in static
+except now you're holding down mouse one
+and a lot of people ask you know why do
+you hold down mouse one so we hold down
+mouse one for a couple reasons one is to
+optimize your damage up time and to
+optimize your scores obviously it's sort
+of like pokeball in that sense if you
+did a lot of pokeball training and
+static this will be very familiar to you
+it helps you
+understand the weight of the mouse under
+your hand it helps you with
+spray transferring i talked about spray
+transferring a little bit earlier in
+real games and real fights in fps a lot
+of the times when you're doing target
+switching you're doing it with the mouse
+held down you think you might be wasting
+a lot of bullets it's actually better to
+do that because once you get good at
+target stitching and you have clean
+accurate flicks you actually don't lose
+that many bullets at all along the way
+the ability for you to do damage that
+much quicker to the target because you
+don't have to wait for your gun to spin
+up especially if there's spin up
+associated with it that's time that
+you're wasting that you could actually
+be doing damage to a target like i
+mentioned you know this is going to be
+very similar to static in terms of what
+you should be prioritizing you want to
+prioritize clean lines you want to
+prioritize moving from target to target
+and understanding what your next
+target's going to be uh ahead of time so
+you have like what is referred to as
+like a kill chain you have a list of
+targets that you want to be eliminating
+moving your mouse as little as possible
+and as efficiently as possible while
+you're doing this and of course there's
+going to be the first fast flick and
+then a micro adjustment afterwards if
+you need it think about consciously
+while you're doing target switching of
+minimizing the amount of micro adjusting
+that you need to do if you watch some of
+the best target switchers out there like
+unins gourd
+you will see that they
+very rarely need to micro adjust so the
+priority of your effort to improve
+should be focused around minimizing
+waste in terms of priority order of
+what you want to be looking at when
+you're reviewing your bots or just
+paying attention to while you're
+practicing
+is your stability and your flicks your
+flick accuracy and your precision
+basically how clean your lines are when
+going from target to target your target
+selection and and choosing the right
+targets in the right order and then
+near the bottom speed last i know it
+sounds crazy because at speed i'm saying
+when you're practicing i'm not saying
+that you don't move fast you should be
+moving at a faster rate like you should
+still be doing a fast flick but don't
+think that speed is the first thing that
+you need to work on and develop unlike
+moving dots the penalties for having
+jitter are much greater here the
+difference between okay runs and great
+runs are due to how often you can land
+on the target for a flick and how stable
+you are tracking it after the flick and
+moving dots you will feel a little bit
+of like
+kind of shakiness in your hand and
+that's pretty normal because it's
+largely centered around fingertip aim
+and that's just how your hands going to
+feel especially when you're moving
+towards smaller and smaller targets
+in ts though you really need to
+especially when you get toward small
+targets
+um as you improve like that's gonna
+that's gonna penalize you greatly so you
+just need to understand that ts runs on
+very thin margins and getting higher
+scores usually involves correcting minor
+mistakes that you're making which add up
+over time you don't want to linger on
+targets and need to absolutely see it's
+dead before moving on a lot of times
+you're actually going to be moving off
+the target before it's fully dead so
+that last little bit of damage
+that you need to do to kill it happens
+as you're flicking off of it if that
+makes sense it's really about optimizing
+doing just the right amount of damage
+that you need and keeping up time on the
+targets as you're as you're moving your
+mouse across the the playing field now
+as far as target selection viability
+reading the map when we talked about
+moving dots and you might want to refer
+back to my other video if you want to
+revisit that topic in ts sends you're
+applying this same technique so and this
+is why i wanted to put ts in this order
+after moving dots because you're kind of
+building on what you're learning a big
+part of viability now includes how the
+scoring works before in static and
+moving dots you're scored on whether or
+not you just kill a target period
+there's not a certain amount of damage
+in target switching you are actually
+scored based on the amount of damage for
+almost all the scenarios that you do
+whether or not you kill a bot okay and
+that's very important to understand
+because
+a lot of times when you're deciding on
+which targets that you should be
+prioritizing you should be prioritizing
+the ones that are closer to the center
+of the map
+instead of constantly going out toward
+the edges of the map unless you have to
+and you should be prioritizing switching
+to the bots that are either currently
+the most viable because
+there are other targets near it in a
+kill chain because you're thinking of
+how you can eliminate the most amount of
+targets in the least amount of time
+or because
+it is moving in a direction that's both
+an expected direction after you switch
+to it and it's going to lead to you
+being able to kill more bots that are in
+the same area and you want to just get
+in this habit of continually accurately
+flicking to your targets and moving on
+if either you don't do enough damage to
+fully kill it because you misread the
+ttk on it or because it moves in a
+direction that you didn't expect when
+we're thinking about reading the map and
+you're thinking about viability
+those are some of the things that you
+should be putting in the forefront of
+your mind is you know not just clusters
+of bots but where are they going to move
+after you flick to them how much damage
+do you need to do to eliminate them how
+much damage do they have they already
+incurred are there other
+bots nearby that are also moving in a
+similar direction that you can read
+ahead of time in your periphery as
+you're building your tempo and also a
+willingness to move off of a bot if it
+doesn't meet your viability criteria or
+if you've already started to do damage
+to it and it's actually going to be
+faster for you to flick off of it than
+it will be to continue to try to do that
+last bit of damage to kill it because
+you're just scored on how much damage
+that you're doing to the bots overall
+and not how many you've killed so in
+along similar lines this is probably
+where i would start
+suggesting that you pay attention to bot
+patterns um i did mention pattern
+learning a little bit in moving dots and
+with target switching
+i think it's very important to
+understand the physics of how the bots
+move and it's also very important to
+understand
+how the maps are laid out and where bots
+can spawn you might be thinking well is
+this cheating or defeating the purpose
+of vain training i mean if you are
+basically
+memorizing
+where bots are and i don't think so and
+the reason why i don't think so is
+because it's playing an fps game like
+apex
+or valon ranch or overwatch it's very
+common for people to go into like firing
+range type situations to understand what
+the recoil is what the physics are like
+what the ttk is like right because
+in your head you're just kind of
+establishing
+you know what is and isn't possible and
+i think it's very important with target
+switching because there's so many
+targets that pop up on screen and
+there's a low ttk the actual like
+patterns of where you can expect things
+to happen
+starts to become a lot more relevant
+like if if you were just doing a
+tracking scenario that just had an
+invincible bot you know that that bot is
+just gonna be the only target that's
+available to you on screen but if you're
+doing
+target switching because you're killing
+so many bots and they're coming from so
+many different directions those little
+nuances add up and if you start moving
+your crosshair from like zero degrees to
+180 degrees and back to zero over and
+over and over again you're basically
+just killing your score uh because
+you're not
+paying attention
+to
+the strategy of the map and how to
+approach it so you can do this with
+trial and error you can look at vods you
+can watch aimers on youtube that are
+doing the scenarios like fox ts pat ts
+just to kind of see what's the order
+possible you can also do the static
+versions of the scenarios um if they
+exist we're going to talk about that a
+little bit in the scenario types and the
+beneficial routines what could end up
+happening if you are playing the
+scenarios incorrectly is you might be
+getting lower scores just because you're
+not solving the problem of the map
+correctly you could actually be doing
+the technique so it's very important to
+help you isolate
+what you need to improve and how to
+improve so the different scenario types
+is a lot more simplified in ts i ended
+up grouping them to two different types
+and that's the moving type of target
+switching scenarios and then the static
+ones so in the moving ones the popular
+ones are like debts zen you've got the
+tile frenzy ones kind of the old school
+ones
+uh pat ts is probably one of the most
+popular
+types out there it's been around forever
+um it's evolved over time it used to be
+like more like a human figure type bot
+with a reload and now it's just a little
+circle generally doesn't have reload and
+vox ts is another really popular one fox
+and pat are probably the two best that
+you can do i really like zen too because
+zen gives you the wide angles and there
+are static versions of these scenarios
+most of them i would say maybe even all
+of them what separates them really is
+the various viewing angles that you get
+the most common one that you're going to
+see is really like 180 type of viewing
+angle and that's why
+we always recommend to play at a higher
+fov so you can see more of the screen
+but there's also 90 degree viewing
+angles and kind of the easier ones that
+focus more on speed and then there's the
+360 degree viewing angles to help with
+those wide angle switches
+viscose is somebody who really
+values prioritizing those 360 degree
+switches
+to help get better at hitting those real
+almost guess work switches uh like one
+side of the screen to the next and then
+there's psalm ts uh i didn't really know
+where to fit this in because it does
+have some amount of evasiveness to it
+even though it's on just one plane like
+it doesn't
+move further away from you or closer to
+you like they do in the evasive
+scenarios like cs
+but it does have like a wave pattern
+that it does versus just a normal
+horizontal plane movement so it's not
+quite evasive but it doesn't really fit
+into all the other ones like zen dev
+tile pat and box for the static ones
+you've got a lot of the pokeball ones uh
+pokeball wide our aim is a popular one
+you know pat a pure
+switch benchmark has pokeball sends and
+then of course it's got the various
+angles like 90 180 360. so what's the
+difference between pokeball for static
+versus ts might be you know a question
+that you're asking yourself and for the
+most part the techniques are very
+similar um i would say they're almost
+the exact same pokeballs and static
+they're normally closer together you've
+got like hip fire ones you've got
+pokeball frenzy types once you get into
+the really wide wall type
+scenarios and it becomes much more like
+a target switching type scenario and why
+is that and i think for me it's because
+the situations that you encounter in fps
+games that do require target switching
+where it is much more of like a target
+switching type technique is when it's a
+fast kind of like wide flick that does
+require
+an amount of stability trying to think
+of it in slow motion where
+your hand goes like this and then it has
+to kind of correct itself afterwards
+right it's it has to stabilize itself
+and you don't really get that with the
+smaller
+dot clusters so what we can do now is
+kind of go through a few routines
+there's this is well tread territory so
+there's no benefit to me creating a new
+routine and speed ts sends are pretty
+straightforward um it's kind of like
+static like it's it's more about getting
+a lot of reps in than it is about
+specific routines i broke these into
+three different categories of routines
+uh that focus on different things the
+first one being speed which is uh gonna
+be what most people kind of gravitate
+toward as being their problem what speed
+routines typically feature are a
+combination of big bots so like jumbo
+versions of scenarios um like fox ts
+voltaic jumbo
+and a lot of them also include wide
+angles this one i really like this is by
+gourd it's a co you run it in total
+random focus is not just on speed but on
+speed and technique um it has all of the
+kind of primary speed tsn's that you
+would want to practice like vox and pat
+and then it has variations of them like
+the viscose varied is a really great
+scenario because it starts with big bots
+and then slowly moves towards smaller
+ones what happens if you just focus on
+jumbo sends for example like your brain
+knows that all the bots are going to be
+big so you just you could end up
+developing bad technique what you need
+to kill big bots isn't what you need to
+kill small bots very strongly suggest
+when you're running the jumbo versions
+of bots if you're doing the speed
+scenarios is not to overlook your
+technique while you're killing the bots
+it's easy to kind of like start swooping
+around and not having straight lines so
+pay attention to how you're eliminating
+the bots and still prioritize your
+technique while you're doing them and
+you might even find that your
+hand and arm is getting a little worn
+out because you're going at a high speed
+which is the point of this scenario is
+to kind of get comfortable
+with
+moving at a higher speed than you might
+normally do i really like the unans just
+move your hand faster it features a 90
+degree versions of the pat ts
+for example which
+i i like the easy and the 90 degree
+versions because it simplifies
+what it is that you're isolating the way
+our brains work
+it really helps when you're practicing
+to focus on like just one thing that you
+need to improve on if if you've got way
+too many variables that you're trying to
+do all at once like your precise flicks
+your accuracy your speed you know your
+uh your straight lines like your brain
+doesn't know what to improve on so
+keeping it simple and just focusing on
+one thing while you're training can help
+you a lot
+the next set of routines that i would
+suggest are really focused more around
+your flick accuracy and your precision
+so what helps here is uh if you look at
+krasky for example he has a lot of
+pokeball sends and
+a lot of precise pokeball sends with
+these what you want to be focusing on is
+your flick accuracy and you want to be
+focusing on clean lines between your
+targets when you're approaching the bot
+as you're trying to kill it you
+generally want to focus on under
+flicking rather than
+overflicking and then coming back
+because of the waste that's involved
+remember ts
+really prioritizes
+minor minor wasted movements adding up
+to
+big differences in scores and your
+technique not just your scores but how
+well you execute this particular
+mechanic that you're learning whether
+it's going to mean the difference
+between success and failure in an actual
+in-game scenario
+so really pay attention to how you're
+performing your flicks keep reminding
+yourself that when you're performing
+your flicks that you want to land on the
+bot
+as closely as possible like don't be
+okay with every flick being a micro
+adjustment you want to kind of punish
+yourself internally for missing the
+flick um so you can run the krasky
+static switch small you could also run
+the speed and flick accuracy from unans
+units is one of the best target
+switchers out there and another thing
+you want to be aiming for with these
+routines is as little down time as
+possible between targets like
+when you're moving from target to target
+you want to hear
+the hit sound as often as possible i
+know that sounds like obvious i mean the
+more damage you do the better you're
+doing right but if you're hearing the
+hit sounds very consistently like almost
+all the time then that means that you're
+minimizing your waist as much as
+possible and then the last specific type
+would be large angle
+type switching so viscose kind of
+touches on this in in hers
+so does uh krasky because you have the
+360 versions of the sends i also like
+zen uh target switch is right here zen
+target switch speed medium so lap lepu
+is
+a grand master with like 3 000 hours in
+kovacs uh put together some really great
+routines um i
+i like using these uh six wall 14
+targets pokeball is amazing
+you can get a lot of reps in with these
+types of scenarios which are really
+great for your improvement overall
+especially if you're just starting out
+um just notice if you're doing these
+routines there's going to be some
+evasive bots which is fine you know
+can't hurt to practice some evasive bots
+like bounce 180 tracking is more of an
+evasive send i would very strongly
+recommend doing these types of routines
+with the large angles getting
+comfortable with parts of your mouse pad
+that you aren't using and i would
+prioritize not resetting your mouse as
+often as you might think you should it
+also helps you with
+understanding how to flick when you
+can't see the bot on screen which is
+actually really beneficial in games
+especially if you're playing something
+like cod
+even great players like fiscals you see
+them like they'll do kind of like a
+ghost flick not knowing where they're
+going to need to correct after they get
+the new fov angle and being able to
+quickly adjust onto the target after
+doing that is really important it also
+helps you with most people struggle with
+even if they're good at kind of shorter
+angle flicks they struggle with large
+angle flicks and their accuracy goes way
+down so it's good to develop that and
+just some more like general routines
+you've got the pure target switching one
+by one which has uh just a variety of
+scenarios and i like these
+lapu enhanced switching beta uh large
+medium and small so it's basically the
+order of difficulty just increases the
+smaller the bots get again this has like
+dynamic scenarios but pick the one that
+is most close to where you are in your
+aim development now um and
+challenge yourself a little bit like you
+want to push yourself a little bit when
+you're
+when you're playing these routines like
+if you're getting bored you're not
+paying attention you're not engaged
+you're not focused or you're not
+frustrated then chances are you need to
+spend some time
+on smaller bots or more difficult
+scenarios than you're used to i haven't
+seen any routines that feature these but
+you can do
+smooth versions of scenarios to help you
+with understanding bot ttk and also
+keeping on the bot and not flicking off
+of it
+too soon basically ensuring that a bot's
+completely dead before moving on it
+helps you kind of push the boundaries on
+what's acceptable there
+and it helps you with your stability
+after you're flicking because basically
+the smooth versions they have health
+that regens so if you just quickly flick
+and then flick off kind of like pokeball
+but they move it will penalize you and
+the bots actually just gonna live so you
+it really forces you to have that
+accuracy and then stability and tracking
+on the bot after you flick to it so
+that's it for the routines and the
+scenarios that i suggest to approach
+this aim mechanic uh some of the common
+problems i see the first is aping uh i
+talked about this in my other videos
+it's basically focusing too much on
+speed um it's sort of like when you're
+just getting into weightlifting this is
+something new players or newcomers in
+weightlifting do all the time they just
+want to push they want to see them
+pushing heavier weights than they can
+actually handle and they're
+not developing the smaller muscle fibers
+and the right technique and you can
+actually get injured that way it's the
+same type of thing in target switching
+is people see those cool flicks so they
+think that the only thing associated
+with that is just moving your mouse fast
+and that's that's not it having the
+stability having the accuracy is more
+important
+so you need to build that first the next
+one is the poor target selection
+reducing their scores and kind of giving
+a false impression of where they're at
+in their
+technique something to pay attention to
+we talked about that in the viability
+pay attention to how you're approaching
+the scenario
+um it could be the thing that's
+preventing you from not getting the
+scores you think you should be getting
+rather than your technique alone along
+the same lines over confirming on
+targets like staying too long on the
+target instead of switching off just in
+time like just in time to kill it uh not
+switching off targets that aren't viable
+like chasing targets the same problem
+that you run into with dynamic clicking
+and over reliance on micro corrections i
+see this a lot with people that are
+really good with static they are unable
+to translate that into target switching
+because
+they've developed their micro correction
+techniques so well they absolutely need
+it in order to be good at the scenarios
+another problem is not paying attention
+to their stability after flicking and
+your flick accuracy i had this problem
+for a really long time um and i started
+emphasizing it and thinking about it as
+i'm training and my scores have improved
+drastically since then again it's these
+really small wasteful things you're
+doing that you don't even notice that
+add up that is keeping your scores low
+another problem is resetting your mouse
+too much and not becoming familiar with
+parts of your pad that you're not used
+to once you start doing those wide angle
+flicks that's really when it's gonna
+show up and then finally assuming you're
+doing everything else correctly then
+it's speed okay yeah sure you need to
+move your mouse faster in order to be
+good at target switching scenarios uh
+but you know you can get probably in the
+95 to 99 percentile without
+being like super fast like unans or
+gourd
+or viscose so don't worry about that
+first i would say worry about that near
+the bottom of your priority list in
+terms of improving so that's it for me
+even though speed ts is pretty
+straightforward i obviously had a lot to
+talk about in this particular one we're
+going to be doing
+the evasive ts next which hopefully
+should be shorter since it's only really
+changing one component of speedts once
+you have this technique down so be on
+the lookout for that uh follow my
+twitter tell your friends about my
+videos if you think that they're going
+to benefit from them and also
+feel free to join the peer g discord so
+you can talk to me on a regular basis
+and other great aimers who are actually
+way better than me blah blah blah outro
+outro see in the next video

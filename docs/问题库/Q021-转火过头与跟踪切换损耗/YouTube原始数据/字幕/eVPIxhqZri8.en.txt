@@ -1,0 +1,168 @@
+What's up, guys? Today we're talking
+about flick aim, and specifically how to
+fix that horrible shaky overshooting
+that happens to literally everybody when
+you try to snap onto a target under
+pressure. It doesn't matter what you're
+playing. It can be a tactical shooter.
+It can be a hero shooter, a battle
+royale. Flicking is universal across
+every single FPS game, but there's a
+massive difference between [music] a
+clear, controlled flick and a panic
+swipe that's going to send users
+straight back to the [music] spectator
+screen. Ask me how I know. A few months
+ago, life got pretty hard and I had to
+take a long break from [music] gaming.
+And when I finally came back, I was so
+hyped to jump back into lobbies and I
+was getting absolutely destroyed. My
+mechanics had gone to woof. It was
+terrible. My micro adjustments were
+shaking. I was getting tilted out of my
+mind because I actually used to be
+pretty good at this stuff. My immediate
+coping mechanism was just dodge my own
+bat stats, ceue up match after match
+after match and just pray that my aim
+would somehow magically fix itself. It
+didn't. So, I decided to stop raw
+dogging matches and just use Aim Labs.
+The main reason I wanted to try that out
+over things like Kovac or Aimbeaste is
+for one, it was free and I didn't even
+know if it would help, but I was pretty
+impressed with the free stuff. You don't
+need to pay to get good. Not at all. But
+when I started running flicking
+benchmarks, the AI coach told me
+something really interesting. My initial
+wide flick wasn't actually that bad, but
+my tiny my tiny little micro corrections
+were completely busted. So, look at my
+screen right here.
+This is what a broken overcorrected
+flick looks like in slow motion. When
+you panic swipe at a target, your hand
+explosive swipes over the pad. It
+overshoots the target hitbox and then
+your wrist has to perform like a really
+awkward kind of like shaky backwards
+correction to get back on target. It's
+[music] very very like a clumsy little
+wobble. You lose 200 milliseconds. And
+in [music] any competitive shooter,
+losing 200 milliseconds means you die.
+Now look at what a clean flick looks
+like. It looks fast, but when you break
+it down frame by frame, it's completely
+controlled. My hand launches towards the
+target to get it into [music] that kind
+of immediate neighbor. My wrist cuts the
+physical momentum of the mouse to hit a
+dead stop right on center mass and I
+click. It is one single straight laser
+line across the screen with [music] zero
+curved paths, zero zigzags, and zero
+shaking at the end. When I dropped 10
+bucks to test out the paid aims plus for
+a month, the data flagged something that
+was really, really interesting. And if
+you're struggling with sticky [music]
+flick aim, this is probably happening to
+you, too. So, whenever I got into a
+fight that was a little bit chaotic, I
+was death gripping my mouse. I was under
+stress. I would push down hard into my
+mouse pad, [music] which created a ton
+of physical friction between the sensor
+and the pad. That downward mouse
+pressure made my initial flick [music]
+feel really heavy, which meant that my
+micro adjustments just weren't sticking
+at all. [music] Once Aimlabs helped me
+kind of identify that problem, I found a
+10-minute flick routine to kind of
+reprogram my hand mechanics. And I want
+to walk you through what to focus on
+while you watch me run it.
+So, the first scenario here is called
+Pentaflick. This is about calibration.
+The targets here are a bit bigger.
+They're very, very predictable. My focus
+in this drill is maintaining a
+completely loose hand grip. You want to
+put your ego away when you run this. I'm
+going to move my mouse at roughly 70% of
+my maximum speed. But what that does is
+it forces my arm to draw a perfectly
+straight line without curving. Right as
+my crosshair reaches the target, I drop
+all the tension in my hand and let the
+mouse glide to an absolute stop. It's
+basically like training the air brakes
+in your wrist so you stop overshooting.
+Next up, we swap over to micro shot
+ultimate. This shifts the focus away
+from wide movement to microcorrection
+kind of calibration. Look at how tiny
+tiny these targets are. If I overshoot
+by even a millimeter here, it's it's a
+mess. My shoulder and forearm are
+completely still right [music] now. I'm
+using purely my fingers and my wrist to
+make these tiny ultra precise
+adjustments.
+Notice how I'm not clicking until my
+crosshair is completely locked on a
+[music] target. I wanted to try to
+maintain 95% accuracy on this task. And
+if it dropped below that, it meant that
+I was moving faster than my hand could
+stabilize and [music] I needed to cut
+the ego. I forced myself to slow down
+until my deceleration was smooth and
+stable. Once that straight line path is
+clean, the speed just develops
+naturally. [music]
+Finally, we finish this whole sequence
+with burst flick ultimate. This gives
+you targets that [music] spawn at these
+very different angles and varying
+distances. Kind of just like in real
+games. It forces your brain to calculate
+new movement on the fly instead of just
+relying on muscle memory like you'd find
+in the game. The focus here is that
+combining that loose wide impulse with
+the instant wrist stabilization on the
+[music] landing. And this takes about 10
+minutes all in all, but it's always
+worth taking another 60 seconds to look
+at your dashboard stats. I checked if my
+mouse trajectory was straight, if I let
+my hand tense up again, create that
+friction again. And actually taking
+these 10 minutes to isolate those
+mechanics, just shake out your wrist,
+stop panic swiping, transformed my
+consistency across every [music] single
+game that I play. You can stop guessing
+why you kind of just choked a gunfight
+and actually [music] build kind of that
+repeatable muscle memory that leads to
+getting good. Have you guys tried
+isolating your flick mechanics inside
+Aim Labs or just like grinding death
+mashes and hoping for the best? If
+you've been using this for a longer
+season grind, let me know down in the
+comments if you found it useful over a
+couple of months. I also want to know
+your best tips for keeping your hand
+relaxed when fights get chaotic, cuz I'm
+still not great at it. Drop a like on
+the video if this helped you out. Train
+smart, and I'll catch you all in the
+next one.

@@ -1,0 +1,589 @@
+okay we are now entering part 10 of our
+aim training crash course and we're
+gonna be covering evasive target
+switching which is the second to last a
+mechanic in the entire series if you're
+new here my content is known for
+concisely breaking down complex aim
+topics into digestible pieces with a
+focus on being able to immediately
+practice what we cover our goal is to
+turn you into an aim machine with your
+skill ceiling only capped by your
+willingness to put effort into the
+practice make sure to check the youtube
+description for all the scenarios and
+routines we cover and i'll have a link
+to the document version of this guide
+before we get started one comment i
+frequently get is people saying they
+feel bad not paying for my content now
+you can i have officially started
+youtube memberships which lets viewers
+pay for different tiers to get different
+perks this is completely optional but if
+you like my content enough to give me
+money i'm all for it and hopefully you
+can get something meaningful in return
+you can click the join button at the top
+right of my channel to see what
+different perks you get at each tier one
+thing i want to specifically call out is
+if you plan to join make sure you
+install discord and link your account
+with youtube that way you can get the
+full benefit from the membership so the
+primary difference between evasive and
+flick target switching is that evasive
+has a higher time to kill and often
+features enemy movement that's difficult
+to track due to you guessed it
+evasiveness the reason we're covering
+evasive ts so far out in the aiming
+crash course is because it utilizes a
+combination of aim mechanics static
+flicked target switching and smooth
+tracking you can think of the technique
+order as static which feeds flick ts
+both flick ts and smooth track feeds
+into evasive ts that's a mouthful you
+might recall back in my flick ts fed
+when i talked about the priority order
+of mechanics being flick accuracy
+stability target selection well that's
+all true here but a major departure from
+flick ts is evasive ts tests you a lot
+more reading skills so we will purposely
+be covering the various types of reading
+situations you'll encounter in aim
+trainers and fps games to prep you for
+building up those skills obviously
+you'll also be tested on how smoothly
+you track the target after acquiring it
+which we covered in detail in my smooth
+tracking video you see how all these
+techniques are starting to come together
+and if you have a hard time remembering
+or you don't know what reading means
+specifically don't worry we're going to
+cover it in a minute after how this
+applies in fps games you could consider
+this to be a more practical
+implementation of target switching
+especially in games with higher ttk
+because players don't really stand still
+and let you shoot them for free
+definitely this is the case when you're
+in high tier lobbies in competitive
+games so in lower gtk games with lots of
+enemies on screen at a time like cod
+flick ts is going to be more applicable
+but if you move into games like apex
+with higher ttk and tons of movement
+tech you're reading and tracking skills
+will be more heavily needed for success
+think of a situation where an enemy
+swung a position you weren't expecting
+and you know multiple enemies will swing
+you while you're using a tracking gun
+you'll need to eliminate each target
+quickly then be ready to immediately
+reposition your crosshair on the next
+target in the chain in general having
+the ability to quickly acquire a target
+especially if you didn't realize they
+were there and eliminate them in as few
+shots as possible is going to give you
+the edge in fps games over players who
+do not practice this skill so for
+settings check my flick ts video as
+pretty much everything will be the same
+here quick summary 115 to 125 fob
+tracking walls with lines like brick or
+wood boards in flick ts i recommend a
+higher sense than you might be used to
+for example i use around 21cm but an
+invasive ts for the more complicated
+bots with higher ttk you might find it
+difficult to be at a higher sense so
+look for a balanced sends unless you're
+specifically trying to create errors and
+improve your stability most players hold
+mouse 1 for the entirety of the scenario
+just like with flick ts and pokeball
+scenarios remember in my smooth track
+vid i mentioned rebinding mouse 1 to
+another input like spacebars so you can
+simulate what the lowest tension feels
+like this is also applicable you want to
+hold as little tension in your hand as
+you can just like with flickts in most
+scenarios you're scored on partial kills
+meaning you don't need to fully kill the
+bots at least in kovacs this can be
+useful when making decisions about which
+bots are viable or not to keep tempo in
+aim lab decimal scoring isn't supported
+so most evasive ts scenarios that only
+seemed to score you on a complete kill
+something to keep in mind between the
+two aim trainers for technique our goal
+here will be to flick as accurately as
+we can to land on the target then read
+the bot movement to understand which
+direction it's going to go then match
+the target's current velocity to track
+it just like you would in smooth
+tracking then read and react to bot
+changes in movement if it changes
+direction while tracking it that's a
+really long sentence quick refresher on
+reading this is basically your ability
+to understand how your target will move
+based on skill and intuition and not
+based on prediction one critical thing
+to keep in mind when reading about
+movement is depending on the scenario
+they can move closer and further away
+from you not just horizontally or
+vertically which affects you properly
+reading their movement as you get better
+at reading bot movement you'll learn to
+monitor future bots in your kill chain
+to see what direction they're heading
+when your crosshair is arriving to it so
+you'll be prepared once you flick to it
+one of the most important factors to
+getting high scores will be around your
+target selection which has more to do
+with strategy than your raw technique
+there's three main considerations here
+chaining tempo and spawn management
+chaining refers to having an optimal
+path in mind at all times to determine
+where you should go next based on your
+current target and you want to always be
+minimizing waste so it doesn't make
+sense to constantly move from one side
+of the screen to the next as you will be
+burning your potential score tempo is
+the idea of having a rhythm to roughly
+stick to and constantly be seeking the
+creation of new bots through elimination
+your goal is to try to have your
+crosshair doing damage to a target as
+often as possible not just moving as
+fast as you can spawn management is a
+combination of target selection
+crosshair placement and tempo since how
+the bots spawn and where they travel to
+will affect how you approach the
+scenario to maximize your score you
+generally want to attack clusters of
+bots instead of constantly chasing one
+offs and there might be times it makes
+more sense to skip a bot so that when
+you come back to that side of the screen
+it's there with some friends now so
+you're killing more bots near each other
+and minimizing total travel time in the
+entire scenario overall this is where it
+can help to do static versions of
+evasive ts scenarios if they're
+available so you can get an
+understanding of where bots spawn but
+generally staying near the middle of the
+screen is more optimal than staying
+around the edges spawn management can
+also refer to your mousepad space and
+trying to alternate moving your mouse to
+the right and left particularly in 360
+degree scenarios because if you're
+constantly moving in one direction alone
+you're gonna just have to keep resetting
+your mouse so just like with dynamic
+clicking you will notice shakiness
+particularly when dealing with smaller
+more precise bots which is something you
+improve as you build your technique
+we'll go into this more in reactive
+tracking but the cause of shakiness
+isn't always due to muscles or mechanics
+it could also be due to poor reading and
+not understanding bot movement because
+your brain is making tons of micro
+decisions on where the bot will go next
+and you could simply be overloaded with
+information making you seem shaky i
+personally think that doing scenarios
+with regen also known as smooth
+scenarios help with this because they
+force you to stand the target after
+acquiring it like with static clicking
+you generally want to prioritize under
+flicking versus overflicking because you
+can push your flick momentum into the
+target from an underflip but the
+opposite isn't true it's also far easier
+to track target movement if it moves in
+the direction you flick to versus having
+to completely shift momentum and reverse
+direction so prioritize under flicking
+and prioritize tracking bots that are
+moving in the same direction you just
+flipped as far as speed goes i recommend
+prioritizing that last once you have
+your flick accuracy and stability down
+pretty well where you're performing that
+movement correctly about 85 of the time
+at your current speed then you can start
+increasing your flick speed between bots
+to raise the ceiling on your current
+skill level an important thing to note
+when i'm talking about 85 accuracy i'm
+not talking about accuracy at the end of
+the score screen because you're holding
+down mouse one so obviously that won't
+be the case talking about you feel like
+you're performing the criterion movement
+basically the correct movement about 85
+percent of the time did research and all
+the different snares in kovacs and
+aimlab and came up with six
+subcategories track ts arcing regen pill
+patsu and highly evasive we'll now go
+through each of these categories and
+we'll give you some useful scenarios in
+both covax and aimlab if they're
+available for each subcategory i also
+made a jamboard which is kind of like a
+collection of post-it notes which i'll
+share so i'll keep that in the
+description so you can just quickly use
+that for a reference so for track ts
+this is actually what revo
+calls their evasive ts benchmark
+category and for me these are bots with
+simplified movement patterns for example
+only moving vertically or horizontally
+the fps game situation this represents
+would be something like a partially
+damaged enemy falling from height
+quickly flick to them to finish them
+then quickly to another character in
+order to continue damage in the same mag
+skeet tracking goaded in kovacs is
+probably the most well known of this
+type although there are some great
+hidden gems like kva switching and
+oblique tracking small nomag which
+feature bots with unusual movement
+patterns and perspectives a lesser known
+track ts featuring only vertical
+movement is vertical switching small lg
+which i think is useful if you want to
+isolate vertical switching alone in aim
+lab the best scenarios i found for this
+type are a head switch and vt sign ets
+ra head switch easy in particular is a
+standout because it features bots
+traveling horizontally across varying
+distances closer or further from you
+which is very important with developing
+your reading skills since objects which
+are further and closer are different
+from being smaller and larger these are
+also precise bots that will challenge
+your stability in the in-game situation
+i mentioned earlier where enemies swing
+you is extremely relevant here vtsinuts
+does not require a lot of reading and is
+borderline flick ts but i think it does
+a good job replicating the quick strafe
+patterns in fps games and it'll
+challenge the use of your wrist when
+aiming arcing is probably the most
+common and well-known bot type bounce
+180 tracking being the absolute king of
+this category you'll remember from the
+dynamic and smooth tracking videos the
+same arcing bots the difference here is
+a lower ttk which emphasizes the
+switching component of the movement
+arching bots are great not just for
+replicating the pattern enemies tend to
+do in games but for helping you build
+reading and stability across multiple
+planes of movement there are tons of
+variations in these scenarios including
+180 360 versions regen versions
+different ttks higher lower arcs and so
+on probably my favorite version in
+kovacs is fugla b180t aimlab the one
+you'll want to play is rts voltaia for
+regen i personally believe these are
+among the most useful scenarios to train
+on why because they're kind of like
+training pokeball and static in that
+they reward clean stable technique and
+punish slappiness overall so these force
+you to really stay on target after
+flicking and be stable while tracking
+the bot during elimination two most
+well-known and useful scenarios to train
+are called tan target switch control and
+tame target switch smooth these are
+basically like target switched versions
+of smooth sphere and control sphere with
+regen added meaning the bot will
+regenerate health whenever you aren't
+doing damage to it tmts smooth has a
+longer strafe pattern and uses more of
+your upper arm whereas tmts control has
+shorter strafes and uses more of your
+wrist and fingertip as with most things
+in kovacs there are tons of variation
+featuring larger or smaller bots usually
+lappy's variants are a particular note
+as they're probably my favorite versions
+to run i looked closely at all the tasks
+in aimlab and only found two snares of
+this type bt regen spheres which
+honestly doesn't feel much like tmts and
+ra tmts control heart so those will be
+your options if you don't use kovacs so
+for pill this is what i call the ts
+scenario that feature more human shape
+bots in other words not smaller more
+precise dots typically these will be
+more erratic about patterns meant to
+emulate reactive movement probably the
+most well-known is smoothbot ts i'm not
+the biggest fan of this scenario though
+because getting higher scores is more
+about playing the map correctly than it
+is about developing evasive ts technique
+so really great scenarios i like in
+kovacs include midair mix overwatch wife
+ts which is a great name by the way and
+trg switch harder probably my all-time
+favorite in this category is made by
+none other than lapu and it's called lap
+360 ts i love it because it features
+bots of varying strafe patterns across a
+complete 360 bu and also mixes in bots
+that stand still in my opinion is
+fantastic for developing your reading
+skills and minimizing prediction there's
+also a chaos version if you really want
+to challenge i couldn't find any tasks
+of this category name lab so if any
+viewers know of any please share in the
+comments pasu yes asu type bot patterns
+are making their appearance yet again
+everyone's favorite bot type except in
+the ts fashion this is when the
+scenarios get borderline into the highly
+evasive category two of my favorites in
+kovacs are passive switch pure and can
+ts asi switch pure is the most optimized
+track ts version of pasu essentially
+sort of like bounce 180 t this is good
+for training a variety of different
+angles and planes as well as working on
+your reading skills kts is essentially
+passive switch pure just with regen
+applied there are a lot of versions of
+knts and i would say be careful when
+trying some of them as they start to
+fall into smooth tracking territory when
+the ttk is much higher my two favorite
+tasks in aimlab for this category are a
+xy switch which is essentially revus x
+version of passive switch an ra micro
+switch which is a similar version but
+more difficult precise bots on the
+larger map btmp speed ts that's a
+mouthful is also worth noting it's
+basically tam speed bps tracking which i
+think is an underrated scenario and a
+great way to practice a more tempo based
+ts technique now for highly evasive this
+and pasu are the most useful categories
+in part because they are the most
+challenging types also because they
+feature multi-plane and multi-distance
+movement which will build your reading
+skills the most they are also difficult
+for newer players to immediately dive
+into so use your discretion and how
+often you play these or if you choose to
+work up to them as you improve in kovacs
+without a doubt the most well-known
+scenario is called kin ts which has been
+around for years as one of the original
+ds scenarios the bot moves in an odd
+diagonal cross pattern across multiple
+distances making it difficult for most
+players to track at first there are more
+versions of ks than there are grains of
+sand and all the beaches on the planet
+you can just find a version for
+literally any situation as always the
+smaller boss will make things more
+difficult and you can run the smooth
+version to help you with precision and
+stability while tracking i would also
+suggest running some of the static
+versions so you can get a feel for bot
+spawns since the map is kind of awkward
+my favorite version of practice on is
+cantiuspure you've also got cows or ts
+which is a little on the easier side but
+reminiscent of the tmt ascends except
+without regen it's great for introducing
+the verticality you don't really get
+from kints then you've got the
+granddaddy of them all toon csr aim
+quite a brutal scenario featuring super
+reactive ts bots almost like swarming
+flies but if you can run it it's very
+useful particularly for generating
+errors in frustration which leads to
+plasticity and ultimately motor
+improvement on the aim lab side there's
+vt mpts made by empyrion who creates
+most of the aimlab maps for voltaire
+it's basically the aimlab implementation
+of kints then there's ra 3d switch i
+love this scenario it's kind of a mix
+between tunes ts and qts rate ttk
+representative distance of bots and
+evasiveness to challenge you pretty
+thoroughly then finally you've got ra
+wave switch another fantastic scenario
+made by revosec which is essentially
+their implementation of qts but with
+more precise bots and slightly longer
+ttk so for the recommended scenarios
+this time around i'm just going to flash
+up on the screen the scenarios i
+recommend for kobach's and aimless i'm
+also going to paste these in the youtube
+description for easy reference so don't
+worry about pausing it and writing it
+down unless you really like writing
+things down so for routines like dynamic
+clicking there's not a lot of routines
+that focus exclusively on evasive target
+switching well why is that you can think
+of evasive ts as an adjacent mechanic
+meaning it is related to one or more
+foundational aim mechanics in this case
+smooth tracking and flick ts so simply
+by training either smooth tracking and
+flick ts you'll passively gain skill and
+evasive ts and there's less value and
+hard focusing on evasive ts specifically
+that said there's this great lesser
+known aimer by the name of jzk and he
+put together a phenomenal playlist for
+you kovacs players out there which
+primarily focuses on evasive switching i
+think he did an excellent job on this
+one it features a ton of scenarios at 30
+second intervals which is increasingly
+getting popular in aim community i like
+performing particularly intense
+scenarios at a lower time interval
+because it allows you to hyper focus on
+the errors you're creating and more
+intentionally think about improving them
+it also allows you to get higher density
+of reps in a shorter time frame which
+scientifically has been linked to
+optimizing motor improvement keep in
+mind this playlist has more than just
+evasive ts and i think that's really
+smart so you can work on the multiple
+components like speed ts which make up
+evasive improvement i also managed to
+find a few great evasive tia scenarios i
+overlooked like fugla xyzts so nice job
+there we'll find the share code in the
+description below and i'll have a link
+to a dedicated playlist for aimlab as
+well go back so you can just type the
+name of the share code in game to get to
+the routine game lab is a little
+trickier because you have to actually
+register the routine through steam and
+using the workshop so usually in this
+section i talk about bad habits and i'm
+just gonna call this where i see people
+lose the most points so the first one is
+flick accuracy most commonly people wait
+for the bot to enter the crosshair this
+is a big one especially on ts scenarios
+with mostly horizontal movement part of
+the reason you're practicing the
+scenario type is to work on your flick
+accuracy so you're only cheesing
+yourself by getting lazy and waiting for
+the bots also not having stability after
+flicking if your crosshair is jumping
+all over the bot it'll take forever to
+kill a bot even when it's low health as
+mentioned before this could be a result
+of poor reading skills bad muscle
+control or simply going too fast and you
+currently control or target selection
+specifically moving too much across the
+map a good rule of thumb as i said
+before is to stay near the center
+instead of constantly chasing bots can
+help you to run the static versions of a
+base of ts scenarios if they exist so
+you better understand bot spawns and
+where to generally keep your crosshair
+going too fast to maintain accuracy also
+known as aping saying in the aim
+community goes slow is smooth smooth as
+fast which basically means if you
+prioritize proper technique you're
+creating a solid foundation to build
+speed on top of that way you don't stall
+out once you start getting to the higher
+speeds as you improve one analogy that
+might help understand when to work on
+speed versus technique let's say that
+you wanted to build a car and you wanted
+that car to go 200 miles an hour if you
+build a car that is just super fast but
+you haven't built any quality into it
+and stability once it reaches those
+speeds it'll definitely get to the speed
+super fast but then it's just gonna fall
+apart conversely if you sit there and
+you invest all your time in making the
+most battle battle-hardened rock-solid
+car that anybody has ever seen tons of
+quality baked into it but you haven't
+worked on the engine or improved any of
+the features that make it go fast it's
+going to take you forever before that
+thing is finally getting up to 200 miles
+an hour if it ever does iteratively want
+to improve think of working on technique
+as building quality into your speed so
+that's it for this one make sure to post
+comments below if you want to be heard
+in the follow-up commentary like i
+always do the next mechanic we cover
+will be the final one in the series
+reactive tracking finally done well
+almost and don't forget if you want to
+support me directly you can choose a
+tier and the youtube memberships but of
+course this will never be necessary see
+you next time
