@@ -1,5 +1,6 @@
 ﻿# -*- coding: utf-8 -*-
 """数据查询函数——对应文档里定义的所有查询模式"""
+import re
 from typing import List, Dict, Any, Optional
 from .influx_client import db
 
@@ -46,8 +47,8 @@ def _flux_history(measurement: str, scenario: str, days: int, list_name: str) ->
     return f'''
 from(bucket: "{db.bucket}")
   |> range(start: -{days}d)
-  |> filter(fn: (r) -> r._measurement == "{measurement}" and r.scenario == "{scenario}" and r.list == "{list_name}")
-  |> filter(fn: (r) -> r._field == "score")
+  |> filter(fn: (r) => r._measurement == "{measurement}" and r.scenario == "{scenario}" and r.list == "{list_name}")
+  |> filter(fn: (r) => r._field == "score")
   |> keep(columns: ["_time", "_value", "scenario"])
 '''
 
@@ -317,8 +318,12 @@ from(bucket: "{db.bucket}")
             "label": row.get("label"),
             "run_date": row.get("_value")
         })
-    # 按 daylist 倒序
-    result.sort(key=lambda x: x["daylist"], reverse=True)
+    # 按清单序号倒序（Day10 必须排在 Day9 之前；按字符串排会把 Day10 排到最后）
+    def _day_num(item):
+        m = re.search(r"(\d+)", item.get("daylist") or "")
+        return int(m.group(1)) if m else -1
+
+    result.sort(key=_day_num, reverse=True)
     return result
 
 
@@ -330,11 +335,15 @@ def get_daylist_meta(daylist: str) -> Dict[str, Any]:
 from(bucket: "{db.bucket}")
   |> range(start: -1y)
   |> filter(fn: (r) => r._measurement == "aim_daylist_meta" and r.daylist == "{daylist}")
-  |> keep(columns: ["_value", "_field", "daylist"])
+  |> keep(columns: ["_value", "_field", "daylist", "label"])
 '''
     rows = db.query(flux)
     result = {"daylist": daylist}
     for row in rows:
+        # label 是 tag（不是 _field），只出现在行上，必须单独取，
+        # 否则 progress 的 label 永远是空字符串
+        if row.get("label"):
+            result["label"] = row.get("label")
         field = row.get("_field")
         value = row.get("_value")
         if field in ["start_ts", "end_ts", "items", "rounds_total", "created_at"]:
@@ -392,7 +401,11 @@ from(bucket: "{db.bucket}")
 
 
 def _get_bench_map(list_name: str = "viscose-s2-easier") -> Dict[str, Dict[str, Any]]:
-    """取基准表的下一档线映射：scenario -> {nextLine, pct, gapPct, rank, subRank}"""
+    """取基准表的下一档线映射：scenario -> {nextLine, pct, gapPct, rank, subRank, cat, sub, achIdx, targets}
+
+    `targets` 是 9 档阶梯（Lemming→…→最高档）的分值数组，`achIdx` 是当前所处档位下标。
+    前端「档位阶梯」直接用它画，不需要再单独请求 /api/bench/scenarios。
+    """
     try:
         items = get_all_bench_scenarios(list_name)
     except Exception:
@@ -407,6 +420,8 @@ def _get_bench_map(list_name: str = "viscose-s2-easier") -> Dict[str, Dict[str, 
             "subRank": it.get("subRank"),
             "cat": it.get("cat"),
             "sub": it.get("sub"),
+            "achIdx": it.get("achIdx"),
+            "targets": it.get("targets"),
         }
     return out
 

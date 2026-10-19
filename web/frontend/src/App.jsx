@@ -1,7 +1,8 @@
-import { BrowserRouter as Router, Routes, Route, Navigate, Link } from 'react-router-dom'
+import { BrowserRouter as Router, Routes, Route, Link } from 'react-router-dom'
 import { QueryClient, QueryClientProvider } from '@tanstack/react-query'
 import { ConfigProvider, Layout, Menu } from 'antd'
 import DaylistDashboard from './pages/DaylistDashboard'
+import DaylistRedirect from './pages/DaylistRedirect'
 import BenchmarkDashboard from './pages/BenchmarkDashboard'
 import AimLabDashboard from './pages/AimLabDashboard'
 import GameReflection from './pages/GameReflection'
@@ -49,7 +50,7 @@ function App() {
                 defaultSelectedKeys={['daylist']}
                 style={{ flex: 1 }}
                 items={[
-                  { key: 'daylist', label: <Link to="/daylist/Day3">今日清单</Link> },
+                  { key: 'daylist', label: <Link to="/">今日清单</Link> },
                   { key: 'vdim', label: <Link to="/vdim">VDIM训练</Link> },
                   { key: 'benchmark', label: <Link to="/benchmark">基准总览</Link> },
                   { key: 'aimlab', label: <Link to="/aimlab">Aim Lab</Link> },
@@ -60,7 +61,7 @@ function App() {
             </Header>
             <Content style={{ padding: '24px', maxWidth: '1400px', width: '100%', margin: '0 auto' }}>
               <Routes>
-                <Route path="/" element={<Navigate to="/daylist/Day3" replace />} />
+                <Route path="/" element={<DaylistRedirect />} />
                 <Route path="/daylist/:daylistId" element={<DaylistDashboard />} />
                 <Route path="/vdim" element={<VdimDashboard />} />
                 <Route path="/benchmark" element={<BenchmarkDashboard />} />

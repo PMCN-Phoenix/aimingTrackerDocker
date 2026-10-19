@@ -1,0 +1,17 @@
+{
+  "_comment": "VDIM 实际训练日映射表 —— 训练不是严格按日历走的（中间有断档/加练/换主题），以实际训练内容为准。",
+  "_how_to_use": "新增一条：把日期映射到实际练的 (cycle, day)。同一个 (cycle, day) 可以有多条日期（比如某天拆成两次练）；其中 primary=true 的那条用于反查「这天对应哪个日期」。",
+  "_fallback": "未登记的日期按「最近一次已登记日期」顺延推算；映射表之前的日期退回 vdim_playlists.json 的 start_date 日历推算。",
+  "_evidence": "每条都由当天 stats 的场景名与该 VDIM day 的场景列表求交集得出，命中数见 _evidence 字段。",
+  "days": {
+    "2026-10-09": {"cycle": 1, "day": "Day1", "primary": true, "_evidence": "平滑跟枪 16/22 命中"},
+    "2026-10-10": {"cycle": 1, "day": "Day2", "primary": true, "_evidence": "反应跟枪 15/21 命中"},
+    "2026-10-11": {"cycle": 1, "day": "Day3", "primary": true, "_evidence": "速度转火 12/12 命中"},
+    "2026-10-14": {"cycle": 1, "day": "Day4", "primary": true, "_evidence": "移动瞄准 14/14 命中（= Day9 清单）"},
+    "2026-10-15": {"cycle": 1, "day": "Day5", "primary": true, "_evidence": "动态点击 15/15 命中"},
+    "2026-10-16": {"cycle": 1, "day": "Day6", "_evidence": "静态点击 2/2 命中，仅 5 轮（短场）"},
+    "2026-10-17": {"cycle": 1, "day": "Day6", "primary": true, "_evidence": "静态点击 16/22 命中，83 轮（该训练日主场）"},
+    "2026-10-18": {"cycle": 2, "day": "Day1", "primary": true, "_evidence": "平滑跟枪 16/22 命中"},
+    "2026-10-19": {"cycle": 2, "day": "Day2", "primary": true, "_evidence": "反应跟枪 11/17 命中"}
+  }
+}
