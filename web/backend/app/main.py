@@ -14,9 +14,14 @@ from app.repositories import vdim_queries
 app = FastAPI(title="练枪看板 API", version="0.1.0")
 
 # CORS 配置：允许前端开发服务器跨域访问
+# 注意：localhost 与 127.0.0.1 是**不同 origin**，两者都要放行，
+# 否则浏览器会拦截响应（表现为页面全空 + "数据更新失败"），但后端日志仍是 200。
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["http://localhost:5173"],
+    allow_origins=[
+        "http://localhost:5173",
+        "http://127.0.0.1:5173",
+    ],
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
@@ -64,99 +69,14 @@ async def get_daylist_rows(daylist: str):
 
 @app.get("/api/daylists/{daylist}/progress", response_model=ApiResponse)
 async def get_daylist_progress(daylist: str):
-    """获取完成度面板的完整数据"""
+    """获取完成度面板的完整数据
+
+    统一走 repositories.queries.get_daylist_progress_data()——这里原本有一份
+    逐行复制的实现，导致仓库层加字段（today_score / bench）后接口拿不到，
+    前端「目标对比」表全空。保留单一实现，避免再次漂移。
+    """
     try:
-        # 1. 查清单行
-        rows = queries.get_daylist_rows(daylist)
-        if not rows:
-            return ApiResponse(code=0, data={"daylist": daylist, "rows": []})
-
-        # 2. 查元数据（获取时间范围）
-        meta = queries.get_daylist_meta(daylist)
-
-        # 自动计算时间范围：根据 exec_dates（北京时间 UTC+8）
-        exec_dates = meta.get("exec_dates", "")
-        from datetime import datetime, timedelta
-
-        # 注意：Python 进程时区已经是北京时间（UTC+8），
-        # datetime.strptime().timestamp() 返回的就是正确的 UTC 时间戳，不需要再减 8 小时
-
-        if exec_dates:
-            # 解析日期列表
-            dates = [d.strip() for d in exec_dates.split(',') if d.strip()]
-            if dates:
-                # 最早日期的 00:00:00 北京时间
-                first_date = datetime.strptime(dates[0], '%Y-%m-%d')
-                start_ts = int(first_date.timestamp())
-
-                # 最晚日期的 23:59:59 北京时间
-                last_date = datetime.strptime(dates[-1], '%Y-%m-%d')
-                last_dt = last_date + timedelta(days=1) - timedelta(seconds=1)
-                end_ts = int(last_dt.timestamp())
-            else:
-                start_ts = meta.get("start_ts", 0)
-                end_ts = meta.get("end_ts", 0)
-        else:
-            start_ts = meta.get("start_ts", 0)
-            end_ts = meta.get("end_ts", 0)
-
-        # 3. 判断是否是加练清单
-        is_extra = meta.get("type") == "extra"
-        created_at = meta.get("created_at", 0)
-
-        # 4. 查所有场景的轮数
-        if is_extra and created_at:
-            # 加练清单：只统计 created_at 之后的轮数
-            rounds_map = {}
-            for row in rows:
-                scn = row.get("scenario", "")
-                rounds_map[scn] = queries.get_extra_scenario_rounds(
-                    scn, start_ts, end_ts, created_at
-                )
-        else:
-            # 主清单：统计所有轮数
-            rounds_map = queries.get_all_scenarios_rounds(start_ts, end_ts)
-
-        # 5. 组合数据
-        result_rows = []
-        for row in rows:
-            scn = row.get("scenario", "")
-            required = row.get("rounds", 0)
-            done = rounds_map.get(scn, 0)
-
-            # 计算状态
-            if done == 0:
-                status = "未开始"
-            elif done >= required:
-                status = "已完成"
-            else:
-                status = "进行中"
-
-            result_rows.append({
-                "order": row.get("order", 0),
-                "scenario": scn,
-                "role": row.get("role", ""),
-                "required_rounds": required,
-                "done_rounds": done,
-                "status": status
-            })
-
-        data = {
-            "daylist": daylist,
-            "label": meta.get("label", ""),
-            "name": meta.get("name", ""),
-            "type": meta.get("type", "main"),
-            "parent_daylist": meta.get("parent_daylist", ""),
-            "created_at": created_at,
-            "run_date": meta.get("run_date", ""),
-            "exec_dates": exec_dates,
-            "start_ts": start_ts,
-            "end_ts": end_ts,
-            "items": meta.get("items", len(result_rows)),
-            "rounds_total": meta.get("rounds_total", 0),
-            "rows": result_rows
-        }
-        return ApiResponse(code=0, data=data)
+        return ApiResponse(code=0, data=queries.get_daylist_progress_data(daylist))
     except Exception as e:
         return ApiResponse(code=500, message=str(e))
 

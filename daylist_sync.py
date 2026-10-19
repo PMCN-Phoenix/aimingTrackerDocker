@@ -16,6 +16,7 @@
   python daylist_sync.py                 # 扫描目录下所有 Viscose基准-Day*-游玩清单.md，幂等 upsert
   python daylist_sync.py --list          # 只列出解析结果，不写库
   python daylist_sync.py --date Day1=2026-09-18   # 记录某份清单的「实际执行日」
+  python daylist_sync.py --force         # 忽略「登记了但缺源文件」的一致性报错，强制同步
 """
 import sys
 import os
@@ -93,13 +94,21 @@ def parse_file(path):
         scenario = m_sc.group(1).strip() if m_sc else cells[1].strip()
         m_r = re.search(r"(\d+)", cells[2])
         rounds = int(m_r.group(1)) if m_r else 1
-        desc = cells[3]
-
+        # 角色：从左往右找第一个含角色关键词的单元格
+        # （有的清单表是 | # | 场景 | 轮数 | 角色 | 目标要点 |，角色在 cells[3]）
         role = "其他"
-        for k in ROLE_ORDER:
-            if k in desc:
-                role = k
+        for cell in cells[3:]:
+            for k in ROLE_ORDER:
+                if k in cell:
+                    role = k
+                    break
+            if role != "其他":
                 break
+
+        # 目标 / 门槛：从 cells[3] 及其后所有列拼接的文本里找
+        # 旧实现只读 cells[3]（那一列是「角色」），导致 Day7/Day8 的「目标 **842**」
+        # 全被漏掉、target_score 恒为 null，看板「目标分」列整列显示 —。
+        desc = " ".join(c for c in cells[3:] if c)
         # 目标分：目标 **700** / 目标分 46 / 25 → **35**
         tscore = None
         m_t = re.search(r"目标\s*(?:分)?\s*\*{0,2}(\d+(?:\.\d+)?)", desc)
@@ -121,11 +130,22 @@ def parse_file(path):
             "file": name, "items": items}
 
 
-def clear_measurement(m):
-    """先清后写（幂等）—— 清单日期一变就会写出新时间戳的点，不清则新旧并存、看板行翻倍"""
+def clear_measurement(m, daylist=None):
+    """先清后写（幂等）—— 清单日期一变就会写出新时间戳的点，不清则新旧并存、看板行翻倍
+
+    `daylist` 给定时只清这一个清单的点。**必须按清单逐个清**：
+    本脚本只认识有 md 源文件的清单，整表清空会把「加练清单」（type=extra，
+    由 web 端写入、没有 md 源文件）以及任何只手工登记过的清单一起删掉。
+    2026-10-19 的 Day9 就是这么丢的——只手工写了库、没有 md，一次 update_all 就清空。
+    """
     url = "%s/api/v2/delete?org=%s&bucket=%s" % (INFLUX, ORG, BUCKET)
+    predicate = '_measurement="%s"' % m
+    if daylist:
+        # 注意：本机这版 InfluxDB 的 delete predicate 要求 **tag 值也用双引号**
+        # （单引号会 400 `bad tag value`），和官方文档写的单引号不一样。
+        predicate += ' AND daylist="%s"' % str(daylist).replace('"', '\\"')
     payload = json.dumps({"start": "1970-01-01T00:00:00Z", "stop": "2030-01-01T00:00:00Z",
-                          "predicate": '_measurement="%s"' % m}).encode("utf-8")
+                          "predicate": predicate}).encode("utf-8")
     req = urllib.request.Request(url, data=payload, method="POST")
     req.add_header("Authorization", "Token " + TOKEN)
     req.add_header("Content-Type", "application/json")
@@ -232,9 +252,30 @@ def main():
         print(json.dumps(summary, ensure_ascii=False, indent=2))
         return
 
+    # ── 一致性守卫：daylist_dates.json 里登记过、但没有 md 源文件的清单 ──
+    # 这类清单只存在于手工写库中，而本脚本只写「md 解析出来的清单」，
+    # 一旦重跑就无声消失（Day9 在 2026-10-19 就是这样丢的）。这里显式拦住。
+    parsed_days = {s["daylist"] for s in summary}
+    missing = sorted((d for d in overrides if d not in parsed_days),
+                     key=lambda x: int(re.sub(r"\D", "", x) or 0))
+    if missing:
+        print("\n" + "!" * 66)
+        print("  ✗ 一致性检查失败：以下清单在 daylist_dates.json 有登记，但没有 md 源文件")
+        for d in missing:
+            print("      %-8s 执行日 = %s" % (d, overrides[d]))
+            print("      缺：docs/清单/viscose训练提升清单日期推进/Viscose基准-%s-游玩清单.md" % d)
+        print("  继续执行 → 这些清单在 aim_daylist / aim_daylist_meta 里将不存在。")
+        print("  修法：补上 md 源文件（推荐），或从 daylist_dates.json 删掉这条登记。")
+        print("  确认跳过请加 --force。")
+        print("!" * 66 + "\n")
+        if "--force" not in sys.argv:
+            sys.exit(2)
+
     import time as _t
-    for m in ("aim_daylist", "aim_daylist_meta"):
-        clear_measurement(m)
+    # 按清单逐个清（不要整表清空：加练清单等没有 md 源文件的清单会被连带删掉）
+    for d in sorted(parsed_days, key=lambda x: int(re.sub(r"\D", "", x) or 0)):
+        for m in ("aim_daylist", "aim_daylist_meta"):
+            clear_measurement(m, d)
     _t.sleep(2)
     write_points(lines)
     print(json.dumps({"ok": True, "written": len(lines), "days": summary},

@@ -1,4 +1,4 @@
-import { useState } from 'react'
+import { useState, useEffect } from 'react'
 import { useParams, useNavigate } from 'react-router-dom'
 import { Select, Button, Spin, message, Modal, Form, Input, InputNumber } from 'antd'
 import { ReloadOutlined, PlusOutlined } from '@ant-design/icons'
@@ -28,6 +28,15 @@ export default function DaylistDashboard() {
 
   // 获取加练清单列表
   const { data: extrasData, isLoading: extrasLoading, refetch: refetchExtras } = useDaylistExtras(daylistId)
+
+  // 日期选择器跟随清单的实际执行日期（默认「今天」会让历史清单显示 No data）
+  useEffect(() => {
+    const raw = progressData?.exec_dates || progressData?.run_date
+    if (!raw) return
+    const ds = String(raw).split(',').map(s => s.trim()).filter(Boolean)
+    if (!ds.length) return
+    setDateRange([dayjs(ds[0]), dayjs(ds[ds.length - 1])])
+  }, [progressData?.exec_dates, progressData?.run_date])
 
   // 切换清单
   const handleDaylistChange = (value) => {

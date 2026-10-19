@@ -270,10 +270,14 @@ def create_reflection(scenario: str, note: str, daylist: str = None) -> Dict[str
 # ==================== aim_daylist 查询 ====================
 
 def get_daylist_rows(daylist: str) -> List[Dict[str, Any]]:
-    """查某个清单的所有行"""
+    """查某个清单的所有行
+
+    注意 range 用 -1y 而不是 -30d：清单的时间戳 = 清单执行日，
+    30 天窗口会让老清单（如 Day1/Day2）在 30 天后从下拉里凭空消失。
+    """
     flux = f'''
 from(bucket: "{db.bucket}")
-  |> range(start: -30d)
+  |> range(start: -1y)
   |> filter(fn: (r) => r._measurement == "aim_daylist" and r.daylist == "{daylist}")
   |> filter(fn: (r) => r._field == "rowJson")
   |> keep(columns: ["_value", "scenario", "role"])
@@ -293,10 +297,14 @@ from(bucket: "{db.bucket}")
 
 
 def get_all_daylists() -> List[Dict[str, Any]]:
-    """查所有清单列表"""
+    """查所有清单列表
+
+    range 用 -1y（不是 -30d）：清单时间戳 = 执行日，30 天窗口会让
+    Day1/Day2 这类老清单到期后从下拉里静默消失。
+    """
     flux = f'''
 from(bucket: "{db.bucket}")
-  |> range(start: -30d)
+  |> range(start: -1y)
   |> filter(fn: (r) => r._measurement == "aim_daylist_meta")
   |> filter(fn: (r) => r._field == "run_date")
   |> keep(columns: ["_value", "daylist", "label"])
@@ -317,10 +325,10 @@ from(bucket: "{db.bucket}")
 # ==================== aim_daylist_meta 查询 ====================
 
 def get_daylist_meta(daylist: str) -> Dict[str, Any]:
-    """查某个清单的元数据"""
+    """查某个清单的元数据（range -1y，理由同 get_all_daylists）"""
     flux = f'''
 from(bucket: "{db.bucket}")
-  |> range(start: -30d)
+  |> range(start: -1y)
   |> filter(fn: (r) => r._measurement == "aim_daylist_meta" and r.daylist == "{daylist}")
   |> keep(columns: ["_value", "_field", "daylist"])
 '''
@@ -337,6 +345,70 @@ from(bucket: "{db.bucket}")
         else:
             result[field] = value
     return result
+
+
+def _get_window_scores(start_ts: int, end_ts: int) -> Dict[str, Dict[str, Any]]:
+    """取时间窗内每个场景的最高分与命中率，供「目标对比」表使用"""
+    from datetime import datetime
+
+    if not start_ts or not end_ts:
+        return {}
+
+    start_str = datetime.utcfromtimestamp(start_ts).strftime('%Y-%m-%dT%H:%M:%SZ')
+    end_str = datetime.utcfromtimestamp(end_ts).strftime('%Y-%m-%dT%H:%M:%SZ')
+
+    flux = f'''
+from(bucket: "{db.bucket}")
+  |> range(start: {start_str}, stop: {end_str})
+  |> filter(fn: (r) => r._measurement == "kovaak_score" and (r._field == "score" or r._field == "hits" or r._field == "misses"))
+  |> keep(columns: ["_value", "_field", "scenario"])
+'''
+    acc: Dict[str, Dict[str, float]] = {}
+    for row in db.query(flux):
+        scn = row.get("scenario") or ""
+        if not scn:
+            continue
+        field = row.get("_field")
+        try:
+            val = float(row.get("_value") or 0)
+        except (TypeError, ValueError):
+            continue
+        item = acc.setdefault(scn, {"score": 0.0, "hits": 0.0, "misses": 0.0})
+        if field == "score":
+            item["score"] = max(item["score"], val)
+        elif field == "hits":
+            item["hits"] += val
+        elif field == "misses":
+            item["misses"] += val
+
+    result: Dict[str, Dict[str, Any]] = {}
+    for scn, v in acc.items():
+        total = v["hits"] + v["misses"]
+        result[scn] = {
+            "score": round(v["score"], 1) if v["score"] else None,
+            "accuracy": round(v["hits"] / total * 100, 1) if total else None,
+        }
+    return result
+
+
+def _get_bench_map(list_name: str = "viscose-s2-easier") -> Dict[str, Dict[str, Any]]:
+    """取基准表的下一档线映射：scenario -> {nextLine, pct, gapPct, rank, subRank}"""
+    try:
+        items = get_all_bench_scenarios(list_name)
+    except Exception:
+        return {}
+    out: Dict[str, Dict[str, Any]] = {}
+    for it in items:
+        out[it.get("scenario", "")] = {
+            "nextLine": it.get("nextLine"),
+            "pct": it.get("pct"),
+            "gapPct": it.get("gapPct"),
+            "rank": it.get("rank"),
+            "subRank": it.get("subRank"),
+            "cat": it.get("cat"),
+            "sub": it.get("sub"),
+        }
+    return out
 
 
 def get_daylist_progress_data(daylist: str) -> Dict[str, Any]:
@@ -381,6 +453,10 @@ def get_daylist_progress_data(daylist: str) -> Dict[str, Any]:
     else:
         rounds_map = get_all_scenarios_rounds(start_ts, end_ts)
 
+    # 5.5 批量取「当日成绩」与「基准下一档线」，供前端目标对比表使用
+    today_scores = _get_window_scores(start_ts, end_ts)      # scenario -> {score, accuracy}
+    bench_map = _get_bench_map()                              # scenario -> {nextLine, ...}
+
     # 6. 组合数据
     result_rows = []
     for row in rows:
@@ -401,7 +477,9 @@ def get_daylist_progress_data(daylist: str) -> Dict[str, Any]:
             "role": row.get("role", ""),
             "required_rounds": required,
             "done_rounds": done,
-            "status": status
+            "status": status,
+            "today_score": today_scores.get(scn),
+            "bench": bench_map.get(scn),
         })
 
     return {
@@ -422,10 +500,10 @@ def get_daylist_progress_data(daylist: str) -> Dict[str, Any]:
 
 
 def get_daylist_extras(parent_daylist: str) -> List[Dict[str, Any]]:
-    """查某个主清单的所有加练清单（包含完整进度）"""
+    """查某个主清单的所有加练清单（包含完整进度；range -1y 理由同上）"""
     flux = f'''
 from(bucket: "{db.bucket}")
-  |> range(start: -30d)
+  |> range(start: -1y)
   |> filter(fn: (r) => r._measurement == "aim_daylist_meta")
   |> filter(fn: (r) => r._field == "parent_daylist" and r._value == "{parent_daylist}")
   |> keep(columns: ["_value", "daylist"])
