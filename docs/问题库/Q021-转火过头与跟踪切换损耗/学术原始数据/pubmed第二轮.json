@@ -1,0 +1,166 @@
+{
+  "submovement_model": {
+    "query": "optimized submovement model rapid aimed movements",
+    "count": "0",
+    "items": []
+  },
+  "primary_submovement": {
+    "query": "primary submovement corrective submovement endpoint",
+    "count": "5",
+    "items": [
+      {
+        "pmid": "9588781",
+        "date": "1998 Apr",
+        "journal": "Exp Brain Res",
+        "title": "Persistence in visual feedback control by the elderly."
+      },
+      {
+        "pmid": "26731344",
+        "date": "2016 Jul-Aug",
+        "journal": "J Mot Behav",
+        "title": "Fitts' Law With An Average of Two or Less Submoves?"
+      },
+      {
+        "pmid": "25204201",
+        "date": "2014",
+        "journal": "J Mot Behav",
+        "title": "The influence of visual feedback and prior knowledge about feedback on vertical aiming strategies."
+      },
+      {
+        "pmid": "10912823",
+        "date": "2000 Jun",
+        "journal": "Exp Brain Res",
+        "title": "Kinematic properties of rapid hand movements in a knob turning task."
+      },
+      {
+        "pmid": "12541149",
+        "date": "2003 Feb",
+        "journal": "Exp Brain Res",
+        "title": "Features of motor performance that drive adaptation in rapid hand movements."
+      }
+    ]
+  },
+  "target_switching_eyhand": {
+    "query": "target switching eye hand coordination sequential targets",
+    "count": "0",
+    "items": []
+  },
+  "co_contraction_aiming": {
+    "query": "co-contraction muscle activity precision aiming",
+    "count": "3",
+    "items": [
+      {
+        "pmid": "41301100",
+        "date": "2025 Oct 23",
+        "journal": "Bioengineering (Basel)",
+        "title": "Phase-Specific Biomechanical Characterization of Upper Limb Movements in Stroke."
+      },
+      {
+        "pmid": "33793608",
+        "date": "2021",
+        "journal": "PLoS One",
+        "title": "Are neuromuscular adaptations present in people with recurrent spinal pain during a period of remission? a systematic review."
+      },
+      {
+        "pmid": "24109834",
+        "date": "2013",
+        "journal": "Annu Int Conf IEEE Eng Med Biol Soc",
+        "title": "Quantitative evaluation of cerebellar ataxia based on pathological patterns of the muscle activities."
+      }
+    ]
+  },
+  "grip_pressure_mouse": {
+    "query": "mouse grip pressure force aiming performance",
+    "count": "1",
+    "items": [
+      {
+        "pmid": "14660213",
+        "date": "2004 Feb 5",
+        "journal": "Ergonomics",
+        "title": "Effects of precision demands and mental pressure on muscle activation and hand forces in computer mouse tasks."
+      }
+    ]
+  },
+  "fitts_throughput": {
+    "query": "Fitts law throughput pointing device performance",
+    "count": "7",
+    "items": [
+      {
+        "pmid": "21096460",
+        "date": "2010",
+        "journal": "Annu Int Conf IEEE Eng Med Biol Soc",
+        "title": "Using Fitts's law for evaluating Tongue Drive System as a pointing device for computer access."
+      },
+      {
+        "pmid": "36044498",
+        "date": "2022 Nov",
+        "journal": "IEEE Trans Vis Comput Graph",
+        "title": "Effective Throughput Analysis of Different Task Execution Strategies for Mid-Air Fitts' Tasks in Virtual Reality."
+      },
+      {
+        "pmid": "42122502",
+        "date": "2026 Apr 29",
+        "journal": "Sensors (Basel)",
+        "title": "Comparison of Point-and-Click Performance Between the Brainfingers BCI and the Mouse."
+      },
+      {
+        "pmid": "19426963",
+        "date": "2010 Jan",
+        "journal": "Appl Ergon",
+        "title": "Evaluation of four cursor control devices during a target acquisition task for laparoscopic tool control."
+      },
+      {
+        "pmid": "34073142",
+        "date": "2021 May 31",
+        "journal": "Sensors (Basel)",
+        "title": "Evaluation of Child-Computer Interaction Using Fitts' Law: A Comparison between a Standard Computer Mouse and a Head Mouse."
+      }
+    ]
+  },
+  "endpoint_error_velocity": {
+    "query": "peak velocity endpoint error accuracy constraint",
+    "count": "0",
+    "items": []
+  },
+  "quiet_eye_expert": {
+    "query": "quiet eye expert novice aiming differences",
+    "count": "0",
+    "items": []
+  },
+  "anticipatory_control": {
+    "query": "anticipatory control predictive pursuit target motion",
+    "count": "32",
+    "items": [
+      {
+        "pmid": "39752177",
+        "date": "2025 Jan 2",
+        "journal": "J Vis",
+        "title": "Anticipatory smooth pursuit eye movements scale with the probability of visual motion: The role of target speed and acceleration."
+      },
+      {
+        "pmid": "2617852",
+        "date": "1989",
+        "journal": "Vision Res",
+        "title": "Cognitive expectations, not habits, control anticipatory smooth oculomotor pursuit."
+      },
+      {
+        "pmid": "9372293",
+        "date": "1997 Oct",
+        "journal": "Exp Brain Res",
+        "title": "Volitional control of anticipatory ocular smooth pursuit after viewing, but not pursuing, a moving target: evidence for a re-afferent velocity store."
+      },
+      {
+        "pmid": "41212615",
+        "date": "2025 Dec 1",
+        "journal": "J Neurophysiol",
+        "title": "Predictive fixations to target bounces in an interception task."
+      },
+      {
+        "pmid": "6719834",
+        "date": "1984",
+        "journal": "Vision Res",
+        "title": "The effect of expectations on slow oculomotor control--IV. Anticipatory smooth eye movements depend on prior target motions."
+      }
+    ]
+  }
+}

@@ -1,0 +1,467 @@
+
+===== PMID 16575577 =====
+1. Exp Brain Res. 2006 Sep;174(1):95-100. doi: 10.1007/s00221-006-0426-6. Epub
+2006  Mar 31.
+
+Optimizing rapid aiming behaviour: Movement kinematics depend on the cost of 
+corrective modifications.
+
+Lyons J(1), Hansen S, Hurding S, Elliott D.
+
+Author information:
+(1)Department of Kinesiology, McMaster University, Hamilton, ON, Canada. 
+lyonsjl@mcmaster.ca
+
+Recent studies have shown that the initial impulse associated with goal-directed 
+aiming movements typically brings the limb to a position short of the target. 
+This is because target overshooting is associated with greater temporal and 
+energy costs than target undershooting. Presumably these costs can be expected 
+to vary not only with the muscular forces required to move the limb, but also 
+the gravitational forces inherent in the aiming task. In this study we examined 
+the degree to which primary movement endpoint distributions depend on the 
+direction of the movement with respect to gravity. We hypothesized that the 
+magnitude of an undershoot bias would be greatest for downward movements because 
+target overshooting necessitates a time and energy consuming movement reversal 
+against gravity. Participants completed rapid aiming movements toward targets 
+located above and below, as well as proximal and distal to a central home 
+position. Movements were made both with and without additional mass attached to 
+the limb. Although movement time did not vary with experimental condition, 
+primary movement endpoint distributions were consistent with our predictions. 
+Specifically, both greater undershooting and greater endpoint variability was 
+associated with downward aiming movements. As well, a greater proportion of the 
+overall movement time was spent in the corrective phase of the movement. These 
+results are consistent with models of energy minimization that posit an inherent 
+efficiency of control and hold that movements are organized to minimize movement 
+time and energy expenditure and maximize mechanical advantages.
+
+DOI: 10.1007/s00221-006-0426-6
+PMID: 16575577 [Indexed for MEDLINE]
+
+
+===== PMID 19401895 =====
+1. Ergonomics. 2009 Apr;52(4):438-47. doi: 10.1080/00140130802707717.
+
+Optimising speed and energy expenditure in accurate visually directed upper limb 
+movements.
+
+Elliott D(1), Hansen S, Grierson LE.
+
+Author information:
+(1)Research Institute for Sport and Exercise Sciences, Liverpool John Moores 
+University, Liverpool, UK. D.Elliott@ljmu.ac.uk
+
+Traditional models of speed-accuracy relations and limb control are steady-state 
+models that fail to consider the learning history and strategic approach of the 
+performer. Work from this laboratory indicates that a performer adjusts his/her 
+behaviour from trial-to-trial to optimise not only the speed and accuracy of 
+performance, but also energy expenditure. Because some errors have greater 
+temporal and energy costs than others, most performers execute movements that 
+are prepared such that potential errors are of minimal expense. The trajectories 
+and subsequent endpoint distributions of rapid aiming movements depend on 
+advance knowledge about the availability of afferent information for online 
+control, as well as the costs associated with undershooting or overshooting the 
+target position with the initial impulse. With practice, a performer is able to 
+reduce the trial-to-trial variability associated with goal-directed movement 
+through more consistent movement planning processes and more rapid online 
+control. Part of the optimisation process is related to the development of an 
+internal model of performance against which early afferent feedback can be 
+evaluated. This framework for examining speed, accuracy and energy expenditure 
+in goal-directed reaching can be used to help understand the breakdown of 
+efficient limb control due to fatigue, ageing and pathology.
+
+DOI: 10.1080/00140130802707717
+PMID: 19401895 [Indexed for MEDLINE]
+
+
+===== PMID 37930988 =====
+1. PLoS One. 2023 Nov 6;18(11):e0293955. doi: 10.1371/journal.pone.0293955. 
+eCollection 2023.
+
+The functional role of visual information and fixation stillness in the quiet 
+eye.
+
+Harris DJ(1), Wilson MR(1), Vine SJ(1).
+
+Author information:
+(1)School of Sport and Health Sciences, University of Exeter, Exeter, United 
+Kingdom.
+
+The final fixation to a target in far-aiming tasks, known as the quiet eye, has 
+been consistently identified as an important perceptual-cognitive variable for 
+task execution. Yet, despite a number of proposed mechanisms it remains unclear 
+whether the fixation itself is driving performance effects or is simply an 
+emergent property of underpinning cognitions. Across two pre-registered studies, 
+novice golfers (n = 127) completed a series of golf putts in a virtual reality 
+simulation to examine the function of the quiet eye in the absence of visual 
+information. In experiment 1 participants maintained a quiet eye fixation even 
+when all visual information was occluded. Visual occlusion did significantly 
+disrupt motor skill accuracy, but the effect was relatively small (89cm vs 105cm 
+radial error, std. beta = 0.25). In experiment 2, a 'noisy eye' was induced 
+using covertly moving fixation points, which disrupted skill execution (p = .04, 
+BF = 318.07, std. beta = -0.25) even though visual input was equivalent across 
+conditions. Overall, the results showed that performers persist with a long 
+pre-shot fixation even in the absence of visual information, and that the 
+stillness of this fixation confers a functional benefit that is not merely 
+related to improved information extraction.
+
+Copyright: © 2023 Harris et al. This is an open access article distributed under 
+the terms of the Creative Commons Attribution License, which permits 
+unrestricted use, distribution, and reproduction in any medium, provided the 
+original author and source are credited.
+
+DOI: 10.1371/journal.pone.0293955
+PMCID: PMC10627465
+PMID: 37930988 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing 
+interests exist.
+
+
+===== PMID 30392140 =====
+1. Cogn Process. 2019 Feb;20(1):55-64. doi: 10.1007/s10339-018-0890-5. Epub 2018 
+Nov 3.
+
+Why does the Quiet Eye improve aiming accuracy? Testing a motor preparation 
+hypothesis with brain potential.
+
+Mizusaki Y(1), Ikudome S(2), Ishii Y(3), Unenaka S(4), Funo T(5), Takeuchi T(5), 
+Ogasa K(2), Mori S(2), Nakamoto H(2).
+
+Author information:
+(1)Faculty of Sports and Health Science, Fukuoka University, 8-19-1 Nanakuma, 
+Jyounann, Fukuoka, Japan. y.mizusaki0201@gmail.com.
+(2)Faculty of Physical Education, National Institute of Fitness and Sports in 
+Kanoya, 1, Shiromizu, Kanoya, Kagoshima, Japan.
+(3)Japan Institute of Sports Sciences, 3-15-1, Nishigaoka, Kita, Tokyo, Japan.
+(4)School of Lifelong Sports, Hokusho University, 23 Bunkyodai, Ebetsu, 
+Hokkaido, Japan.
+(5)Graduate School of Physical Education, Doctor's Course, National Institute of 
+Fitness and Sports in Kanoya, 1, Shiromizu, Kanoya, Kagoshima, Japan.
+
+The purpose of the present study was to determine whether the Quiet Eye (QE) 
+acquired over time is associated with motor preparation processes by using 
+movement-related cortical potentials (MRCPs). Eighteen male, right-handed 
+college students voluntarily participated in this study. Participants performed 
+a dart throw while wearing an eye-tracking system and electrode cap to measure 
+electroencephalogram waveforms (EEG). After performing the dart task, 
+participants were randomly assigned to a Quiet Eye training group (QET) or 
+control training group (CT). Six subjects were excluded due to incomplete 
+electroencephalography (EEG) data. MRCPs were analysed separately within 4 QE 
+categories: High performance score and Long fixation time (HL), High performance 
+score and Short fixation time (HS), Low performance score and Long fixation time 
+(LL), and Low performance score and Short fixation time (LS). Results revealed 
+that although the QET group acquired QE characteristics, MRCPs did not differ 
+between the two groups. Thus, a longer-term experimental design may be necessary 
+to observe EEG changes. Furthermore, QE durations may relate to not only motor 
+programming but also online control.
+
+DOI: 10.1007/s10339-018-0890-5
+PMID: 30392140 [Indexed for MEDLINE]
+
+
+===== PMID 35112083 =====
+1. Front Sports Act Living. 2022 Jan 17;3:775478. doi: 10.3389/fspor.2021.775478.
+ eCollection 2021.
+
+Spatial Accuracy of Predictive Saccades Determines the Performance of Continuous 
+Visuomotor Action.
+
+Aoyama C(1), Goya R(1), Suematsu N(2), Kadota K(2), Yamamoto Y(3), Shimegi 
+S(1)(2)(4).
+
+Author information:
+(1)Graduate School of Frontier Biosciences, Osaka University, Osaka, Japan.
+(2)Graduate School of Medicine, Osaka University, Osaka, Japan.
+(3)Research Center of Health, Physical Fitness, and Sports, Nagoya University, 
+Nagoya, Japan.
+(4)Center for Education in Liberal Arts and Sciences, Osaka University, Osaka, 
+Japan.
+
+In a table tennis rally, players perform interceptive actions on a moving ball 
+continuously in a short time, such that the acquisition process of visual 
+information is an important determinant of the performance of the action. 
+However, because it is technically hard to measure gaze movement in a real game, 
+little is known about how gaze behavior is conducted during the continuous 
+visuomotor actions and contributes to the performance. To examine these points, 
+we constructed a novel psychophysical experiment model enabling a continuous 
+visuomotor task without spatial movement of any body parts, including the arm 
+and head, and recorded the movement of the gaze and effector simultaneously at 
+high spatiotemporal resolution. In the task, Gabor patches (target) moved one 
+after another at a constant speed from right to left at random vertical 
+positions on an LC display. Participants hit the target with a cursor moving 
+vertically on the left side of the display by controlling their prehensile force 
+on a force sensor. Participants hit the target with the cursor using a 
+rapid-approaching movement (rapid cursor approach, RCA). Their gaze also showed 
+rapid saccadic approaching movement (saccadic eye approach, SEA), reaching the 
+predicted arrival point of the target earlier than the cursor. The RCA reached 
+in or near the Hit zone in the successful (Hit) trial, but ended up away from it 
+in the unsuccessful (Miss) trial, suggesting the spatial accuracy of the RCA 
+determines the task's success. The SEA in the Hit trial ended nearer the target 
+than the Miss trial. The spatial accuracy of the RCA diminished when the target 
+disappeared 100 ms just after the end of the SEA, suggesting that visual 
+information acquired after the saccade acted as feedback information to correct 
+the cursor movement online for the cursor to reach the target. There was a 
+target speed condition that the target disappearance did not compromise RCA's 
+spatial accuracy, implying the possible RCA correction based on the 
+post-saccadic gaze location information. These experiments clarified that gaze 
+behavior conducted during fast continuous visuomotor actions enables online 
+correction of the ongoing interceptive movement of an effector, improving 
+visuomotor performance.
+
+Copyright © 2022 Aoyama, Goya, Suematsu, Kadota, Yamamoto and Shimegi.
+
+DOI: 10.3389/fspor.2021.775478
+PMCID: PMC8801910
+PMID: 35112083
+
+Conflict of interest statement: The authors declare that the research was 
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.
+
+
+===== PMID 15322786 =====
+1. Exp Brain Res. 2005 Jan;160(2):245-58. doi: 10.1007/s00221-004-2010-2. Epub
+2004  Aug 18.
+
+Smooth pursuit tracking of an abrupt change in target direction: vector 
+superposition of discrete responses.
+
+Soechting JF(1), Mrotek LA, Flanders M.
+
+Author information:
+(1)Department of Neuroscience, University of Minnesota, 6-145 Jackson Hall, 321 
+Church St. SE, Minneapolis, MN 55455, USA. soech001@umn.edu
+
+The directional control of smooth pursuit eye movements was studied by 
+presenting human subjects with targets that moved in a straight line at a 
+constant speed and then changed direction abruptly and unpredictably. To 
+minimize the probability of saccadic responses in the interval following the 
+target's change in direction, target position was offset so as to eliminate 
+position error after the reaction time. Smooth pursuit speed declined at a 
+latency of 90 ms, whereas the direction of smooth pursuit began to change later 
+(130 ms). The amplitude of the offset in target position did not affect the 
+subsequent smooth pursuit response. In other experiments, the target's speed or 
+acceleration was changed abruptly at the time of the change in direction. Step 
+changes in speed elicited short-latency responses in smooth pursuit tracking but 
+step changes in acceleration did not. In all instances, the earliest component 
+of the response did not depend on the parameters of the stimulus. The data were 
+fit with a model in which smooth pursuit resulted from the vector addition of 
+two components, one representing a response to the arrest of the initial target 
+motion and the other the response to the onset of target motion in the new 
+direction. This model gave an excellent fit but further analysis revealed 
+nonlinear interactions between the two vector components. These interactions 
+represented directional anisotropies both in terms of the initial tracking 
+direction (which was either vertical or 45 degrees ) and in terms of the 
+cardinal directions (vertical and horizontal).
+
+DOI: 10.1007/s00221-004-2010-2
+PMID: 15322786 [Indexed for MEDLINE]
+
+
+===== PMID 30809706 =====
+1. Exp Brain Res. 2019 May;237(5):1195-1203. doi: 10.1007/s00221-019-05497-z.
+Epub  2019 Feb 26.
+
+Response suppression produces a switch-cost for spatially compatible saccades.
+
+Tari B(1), Fadel MA(1), Heath M(2).
+
+Author information:
+(1)School of Kinesiology, The University of Western Ontario, London, ON, N6A 
+3K7, Canada.
+(2)School of Kinesiology, The University of Western Ontario, London, ON, N6A 
+3K7, Canada. mheath2@uwo.ca.
+
+Executive function supports the rapid alternation between tasks for online 
+reconfiguration of attentional and motor goals. The oculomotor literature has 
+found that a prosaccade (i.e., saccade to veridical target location) preceded by 
+an antisaccade (i.e., saccade mirror symmetrical to a target) elicits an 
+increase in reaction time (RT), whereas the converse switch does not. This 
+switch-cost has been attributed to the antisaccade task's requirement of 
+inhibiting a prosaccade (i.e., response suppression) and transforming a target's 
+coordinate (i.e., vector inversion)-executive processes thought to contribute to 
+a task-set inertia that proactively interferes with the planning of a subsequent 
+prosaccade. It is, however, unclear whether response suppression and vector 
+inversion contribute to a task-set inertia or whether the phenomenon relates to 
+a unitary component (e.g., response suppression). Here, the same stimulus-driven 
+(SD) prosaccades (i.e., respond at target onset) as used in previous work were 
+used with minimally delayed (MD) prosaccades (i.e., respond at target offset) 
+and arranged in an AABB paradigm (i.e., A = SD prosaccade, B = MD prosaccade). 
+MD prosaccades provide the same response suppression as antisaccades without the 
+need for vector inversion. RTs for SD task-switch trials were longer and more 
+variable than their task-repeat counterparts, whereas values for MD task-switch 
+and task-repeat trials did not reliably differ. Moreover, SD task-repeat and 
+task-switch movement times and amplitudes did not vary and thus demonstrate that 
+a switch-cost is unrelated to a speed accuracy trade-off. Accordingly, results 
+suggest the executive demands of response suppression is sufficient to engender 
+the persistent activation of a non-standard task-set that selectively delays the 
+planning of a subsequent SD prosaccade.
+
+DOI: 10.1007/s00221-019-05497-z
+PMID: 30809706 [Indexed for MEDLINE]
+
+
+===== PMID 26223578 =====
+1. Exp Brain Res. 2015 Nov;233(11):3201-20. doi: 10.1007/s00221-015-4388-4. Epub 
+2015 Jul 31.
+
+Grip forces during fast point-to-point and continuous hand movements.
+
+Viviani P(1)(2), Lacquaniti F(3)(4)(5).
+
+Author information:
+(1)Laboratory of Neuromotor Physiology, Santa Lucia Foundation, Via Ardeatina, 
+306, 00179, Rome, Italy. paoloviv@gmail.com.
+(2)Centre of Space BioMedicine, University of Rome Tor Vergata, 00133, Rome, 
+Italy. paoloviv@gmail.com.
+(3)Laboratory of Neuromotor Physiology, Santa Lucia Foundation, Via Ardeatina, 
+306, 00179, Rome, Italy.
+(4)Centre of Space BioMedicine, University of Rome Tor Vergata, 00133, Rome, 
+Italy.
+(5)Department of Systems Medicine, University of Rome Tor Vergata, 00133, Rome, 
+Italy.
+
+Three experiments investigated the grip force exerted by the fingers on an 
+object displaced actively in the near-body space. In one condition (unimanual) 
+the object was held by one hand with the tripod grip and was moved briskly back 
+and forth along one of the three coordinate directions (up-down, left-right, 
+near-far). In the second condition (bimanual) the same point-to-point movements 
+were performed while holding the object with the index and middle fingers of 
+both hands. In the third condition (bimanual) the object was held as in the 
+second condition and moved along a circular path lying in one of the three 
+coordinate planes (horizontal, frontal, sagittal). In all conditions 
+participants were asked to exert a baseline level of grip force largely 
+exceeding the safety margin against slippage. Both grip forces and hand 
+displacements were measured with high accuracy. As reported in previous studies, 
+in the two point-to-point conditions we observed an upsurge of the grip force at 
+the onset and at the end the movements. However, the timing of the transient 
+increases of the grip force relative to hand kinematics did not confirm the 
+hypothesis set forth by several previous studies that grip modulation is a 
+pre-planned action based on an internal model of the expected effects of the 
+movement. In the third condition, the systematic modulation of the grip force 
+also for circular movements was again at variance with the internal model 
+hypothesis because it cannot be construed as a pre-planned action aiming at 
+countering large changes in dynamic load. We argue that a parsimonious account 
+of the covariations of load and grip forces can be offered by taking into 
+account the visco-elastic properties of the neuromuscular system.
+
+DOI: 10.1007/s00221-015-4388-4
+PMID: 26223578 [Indexed for MEDLINE]
+
+
+===== PMID 35294273 =====
+1. J Neurophysiol. 2022 Apr 1;127(4):885-895. doi: 10.1152/jn.00270.2021. Epub
+2022  Mar 16.
+
+Eye-hand coordination during online reach corrections is task dependent.
+
+de Brouwer AJ(1), Spering M(1)(2)(3).
+
+Author information:
+(1)Department of Ophthalmology & Visual Sciences, University of British 
+Columbia, Vancouver, British Columbia, Canada.
+(2)Institute for Computing, Information and Cognitive Systems, University of 
+British Columbia, Vancouver, British Columbia, Canada.
+(3)Djavad Mowafaghian Centre for Brain Health, University of British Columbia, 
+Vancouver, British Columbia, Canada.
+
+To produce accurate movements, the human motor system needs to deal with errors 
+that can occur due to inherent noise, changes in the body, or disturbances in 
+the environment. Here, we investigated the temporal coupling of rapid 
+corrections of the eye and hand in response to a change in visual target 
+location during the movement. In addition to a "classic" double-step task in 
+which the target stepped to a new position, participants performed a set of 
+modified double-step tasks in which the change in movement goal was indicated by 
+the appearance of an additional target, or by a spatial or symbolic cue. We 
+found that both the absolute correction latencies of the eye and hand and the 
+relative eye-hand correction latencies were dependent on the visual 
+characteristics of the target change, with increasingly longer latencies in 
+tasks that required more visual and cognitive processing. Typically, the hand 
+started correcting slightly earlier than the eye, especially when the target 
+change was indicated by a symbolic cue, and in conditions where visual feedback 
+of the hand position was provided during the reach. Our results indicate that 
+the oculomotor and limb-motor system can be differentially influenced by 
+processing requirements of the task and emphasize that temporal eye-hand 
+coupling is flexible rather than rigid.NEW & NOTEWORTHY Eye movements support 
+hand movements in many situations. Here, we used variations of a double-step 
+task to investigate temporal coupling of corrective hand and eye movements in 
+response to target displacements. Correction latency coupling depended on the 
+visual and cognitive processing demands of the task. The hand started correcting 
+before the eye, especially when the task required decoding a symbolic cue. These 
+findings highlight the flexibility and task dependency of eye-hand coordination.
+
+DOI: 10.1152/jn.00270.2021
+PMID: 35294273 [Indexed for MEDLINE]
+
+
+===== PMID 26902290 =====
+1. Q J Exp Psychol (Hove). 2017 Apr;70(4):736-749. doi: 
+10.1080/17470218.2016.1156716. Epub 2016 Mar 16.
+
+Visual monitoring of goal-directed aiming movements.
+
+Brière J(1), Proteau L(1).
+
+Author information:
+(1)a Département de kinésiologie , Université de Montréal , Montréal , Canada.
+
+Goal-directed movements are subject to intrinsic planning and execution 
+variability, which requires that the central nervous system closely monitor our 
+movements to ensure endpoint accuracy. In the present study, we sought to 
+determine how closely the visual system monitored goal-directed aiming 
+movements. We used a cursor-jump paradigm in which a cursor was unexpectedly 
+translated soon after movement initiation. Some of the trials included a second 
+cursor jump, and the cursor remained visible for different durations. The 
+results indicate that seeing the cursor for only 16 ms after the second cursor 
+jump was sufficient to influence the movement endpoint, which suggests that the 
+visual system continuously monitored goal-directed movements. The results also 
+suggest that the perceived position/trajectory of the effector was likely to 
+have been averaged over a period of approximately 70 ms.
+
+DOI: 10.1080/17470218.2016.1156716
+PMID: 26902290 [Indexed for MEDLINE]
+
+
+===== PMID 14660213 =====
+1. Ergonomics. 2004 Feb 5;47(2):202-17. doi: 10.1080/00140130310001617967.
+
+Effects of precision demands and mental pressure on muscle activation and hand 
+forces in computer mouse tasks.
+
+Visser B(1), De Looze M, De Graaff M, Van Dieën J.
+
+Author information:
+(1)Institute for Fundamental and Clinical Human Movement Sciences, Faculty of 
+Human Movement Sciences, Vrije Universiteit Amsterdam, The Netherlands. 
+b_visser@fbw.vu.nl
+
+The objective of the present study was to gain insight into the effects of 
+precision demands and mental pressure on the load of the upper extremity. Two 
+computer mouse tasks were used: an aiming and a tracking task. Upper extremity 
+loading was operationalized as the myo-electric activity of the wrist flexor and 
+extensor and of the trapezius descendens muscles and the applied grip- and 
+click-forces on the computer mouse. Performance measures, reflecting the 
+accuracy in both tasks and the clicking rate in the aiming task, indicated that 
+the levels of the independent variables resulted in distinguishable levels of 
+accuracy and work pace. Precision demands had a small effect on upper extremity 
+loading with a significant increase in the EMG-amplitudes (21%) of the wrist 
+flexors during the aiming tasks. Precision had large effects on performance. 
+Mental pressure had substantial effects on EMG-amplitudes with an increase of 
+22% in the trapezius when tracking and increases of 41% in the trapezius and 45% 
+and 140% in the wrist extensors and flexors, respectively, when aiming. During 
+aiming, grip- and click-forces increased by 51% and 40% respectively. Mental 
+pressure had small effects on accuracy but large effects on tempo during aiming. 
+Precision demands and mental pressure in aiming and tracking tasks with a 
+computer mouse were found to coincide with increased muscle activity in some 
+upper extremity muscles and increased force exertion on the computer mouse. 
+Mental pressure caused significant effects on these parameters more often than 
+precision demands. Precision and mental pressure were found to have effects on 
+performance, with precision effects being significant for all performance 
+measures studied and mental pressure effects for some of them. The results of 
+this study suggest that precision demands and mental pressure increase upper 
+extremity load, with mental pressure effects being larger than precision 
+effects. The possible role of precision demands as an indirect mental stressor 
+in working conditions is discussed.
+
+DOI: 10.1080/00140130310001617967
+PMID: 14660213 [Indexed for MEDLINE]
