@@ -6,7 +6,7 @@
 > 规模：**16 个项目 / 59 轮** ｜ 推荐 FOV 103、20–50 cm/360
 >
 > **感悟来源**（InfluxDB `aim` 桶 + 本地存档）：
-> `game_reflection` 24 条（2026-10-05 ~ 10-18）、`aim_note` 3 条（2026-08-12 ~ 08-16）、`kovaaks_reflection` 1 条，共 **28 条**；另有社区整理《Popcorn 技巧与感悟》1 份
+> `game_reflection` 25 条（2026-10-05 ~ 10-19）、`aim_note` 3 条（2026-08-12 ~ 08-16）、`kovaaks_reflection` 1 条，共 **29 条**；另有社区整理《Popcorn 技巧与感悟》1 份
 >
 > 生成时间：2026-10-18
 
@@ -26,14 +26,14 @@
 | 8 | VT Smoothbot Novice | 5 | 2826 / 3146 | ✅《VDIM》周三 = SmoothBot + Smoothsphere；《Reactivity 核心原则》方案 C：「先用 **Smoothbot**（纯平滑跟枪）打基础，反应自然会提升」 | 官方方案 |
 | 9 | e1se Glider 30s Normal | 4 | 1033 / 1041 | ✅《S&P》第 4 项 ⭐：「Glider GOATED Easy — 尽可能平滑地跟**各种更小的空中机器人**；这个直接相关于 Air CELESTIAL」 | 官方方案 |
 | 10 | B360TI Sparky | 4 | 2286 / 2826 | ✅《S&P》第 2 项：「B180TI Sparky — 在**微小弹跳**目标上，**水平和垂直**角度都要平滑」 | 官方方案 |
-| 11 | vertical smoothness training popcorn | 3 | 1982 / 1982 | ✅《S&P》第 3 项：「**纯垂直练习**：Vertical Smoothness Training Popcorn；太难就用 Vertical Smoothness 75」＋ 社区《Popcorn 技巧与感悟》324 行 | 官方＋社区 |
+| 11 | vertical smoothness training popcorn | 3 | 1982 / 1982 | ✅《S&P》第 3 项：「**纯垂直练习**：Vertical Smoothness Training Popcorn；太难就用 Vertical Smoothness 75」＋ 社区《Popcorn 技巧与感悟》324 行 ＋ **本人感悟 10-19**：上行欠瞄→确定感锁住加速匹配→下落回准星 | 官方＋社区＋本人 |
 | 12 | PGTI Voltaic Easy 100% Bigger | 2 | 2430 / 2430 | ✅《S&P》第 3 项：「PGTI Voltaic Easy — 在**微小目标**上，水平和垂直角度都要平滑」 | 官方方案 |
 | 13 | VT PreciseOrb Intermediate 20% Slower | 3 | 1089 / 1089 | ◐ aim_note 08-16：「心里默念小球的运动轨迹是**偏左还是偏右**，判断得更快、跟得更紧」 | 个人感悟 |
 | 14 | PGTI Voltaic Easy UFO | 3 | 511 / 511 | ✅《Reactivity 方案》第 4 项：「Air UFO Hard Invincible — 同时练**快速定位和反应**」 | 官方方案 |
 | 15 | VT PreciseOrb Intermediate Small | 4 | 437 / 469 | ◐ 同 #13；＋《跟枪进阶》阶段 3「垂直精准训练」 | 个人感悟 |
 | 16 | VT PreciseOrb Novice | 5 | 1568 / 1736 | ◐ 同 #13；＋《难度选择黄金原则》「难到知道错在哪，但别难到想放弃」 | 个人感悟 |
 
-> **覆盖率**：16 项里 **9 项被感悟原文直接点名**（#1 #2 #7 #8 #9 #10 #11 #12 #14）；**7 项靠同族迁移或方法层感悟**（#3 #4 #5 #6 #13 #15 #16），其中 **4 项只有通用球体感悟、没有专属条目**（#5 Controlsphere、#13 #15 #16 三个 PreciseOrb）。
+> **覆盖率**：16 项里 **9 项被感悟原文直接点名**（#1 #2 #7 #8 #9 #10 #11 #12 #14，其中 #11 已升级为**本人专属感悟** 10-19）；**7 项靠同族迁移或方法层感悟**（#3 #4 #5 #6 #13 #15 #16），其中 **4 项只有通用球体感悟、没有专属条目**（#5 Controlsphere、#13 #15 #16 三个 PreciseOrb）。
 
 ---
 
@@ -110,6 +110,7 @@
   - 眼睛：先移眼再看准星，别用余光全程带枪（👍477 / 👍280）
   - 常见错误：全程紧绷 → "手臂像齿轮卡住"
 - **注意**：VDIM 把 Popcorn 归在**周二 Dynamic Clicking**（点击用途），C 清单里它是**垂直平滑**用途 —— 同一个场景两种练法，别混
+- **✅ 本人专属感悟（2026-10-19，`ref_20261019_66d9e27a`）**：「在目标上行时候进行欠瞄，等确定感到了就锁着目标进行加速匹配，下落时候感觉差不多就把注意力放准星上等下一次上升的确定感」——上行欠瞄留余量 → 确定感到了锁住加速匹配 → 下落注意力收回准星等下一次上行。关联 Q004.7 欠甩偏置 / Q013 等确定感窗口 / Q007 僵住反面解法 / Q017 外焦点。**当晚实测生效：1,911 → 2,451 三连升（10-18）。**
 
 ### 12. PGTI Voltaic Easy 100% Bigger ×2 ｜ 2430 / 2430
 

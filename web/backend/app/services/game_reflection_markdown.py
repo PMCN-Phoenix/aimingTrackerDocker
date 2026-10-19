@@ -20,6 +20,11 @@ MARKDOWN_DIR = os.path.join(
     "docs", "记录", "游戏感悟"
 )
 
+# 手写批注块标记（如「关联问题库」）。放在 reflection_id 之后、用注释包裹，
+# 这样重新生成 Markdown 时既不会污染 content，也不会被整文件重写吞掉。
+ANNOTATION_START = "<!-- annotation:start -->"
+ANNOTATION_END = "<!-- annotation:end -->"
+
 
 def ensure_markdown_dir():
     """确保 Markdown 目录存在"""
@@ -74,6 +79,17 @@ def reflection_to_markdown(reflection: Dict[str, Any]) -> str:
     # ID（隐藏标记，用于同步）
     lines.append(f"<!-- reflection_id: {reflection.get('id', '')} -->")
     lines.append("")
+
+    # 手写批注（关联问题库等），单独标记以便重写时保留
+    annotation = (reflection.get("annotation") or "").strip()
+    if annotation:
+        lines.append(ANNOTATION_START)
+        lines.append("")
+        lines.append(annotation)
+        lines.append("")
+        lines.append(ANNOTATION_END)
+        lines.append("")
+
     lines.append("---")
     lines.append("")
 
@@ -94,6 +110,17 @@ def parse_markdown_reflections(content: str) -> List[Dict[str, Any]]:
         id_match = re.search(r'<!-- reflection_id: (.+?) -->', block)
         if id_match:
             reflection["id"] = id_match.group(1).strip()
+
+        # 提取手写批注（关联问题库等）
+        annotation_match = re.search(
+            re.escape(ANNOTATION_START) + r'(.*?)' + re.escape(ANNOTATION_END),
+            block,
+            re.DOTALL
+        )
+        if annotation_match:
+            annotation = annotation_match.group(1).strip()
+            if annotation:
+                reflection["annotation"] = annotation
 
         # 提取标题（第一行）
         first_line = block.split("\n")[0].strip()
@@ -176,10 +203,38 @@ def read_date_reflections(date: str) -> List[Dict[str, Any]]:
     return parse_markdown_reflections(content)
 
 
+def read_existing_annotations(date: str) -> Dict[str, str]:
+    """读取已有文件里的手写批注，返回 {reflection_id: annotation}
+
+    整文件重写（如 InfluxDB → Markdown 导出）时用它将批注回填，
+    避免手写的「关联问题库」等批注被生成逻辑覆盖丢失。
+    """
+    filepath = get_markdown_path(date)
+    if not os.path.exists(filepath):
+        return {}
+
+    with open(filepath, "r", encoding="utf-8") as f:
+        content = f.read()
+
+    annotations: Dict[str, str] = {}
+    for item in parse_markdown_reflections(content):
+        if item.get("id") and item.get("annotation"):
+            annotations[item["id"]] = item["annotation"]
+    return annotations
+
+
 def write_date_reflections(date: str, reflections: List[Dict[str, Any]]) -> bool:
     """写入指定日期的所有感悟到 Markdown 文件"""
     ensure_markdown_dir()
     filepath = get_markdown_path(date)
+
+    # 回填已有手写批注（调用方通常不带 annotation 字段）
+    existing_annotations = read_existing_annotations(date)
+    if existing_annotations:
+        for reflection in reflections:
+            ref_id = reflection.get("id", "")
+            if not reflection.get("annotation") and ref_id in existing_annotations:
+                reflection["annotation"] = existing_annotations[ref_id]
 
     lines = []
     lines.append(f"# 游戏感悟 - {date}")
