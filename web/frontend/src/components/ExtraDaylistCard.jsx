@@ -1,7 +1,7 @@
 import { useState } from 'react'
-import { Card, Button, Dropdown, Menu, Tooltip } from 'antd'
+import { Card, Button, Dropdown } from 'antd'
 import { DownOutlined, UpOutlined, MoreOutlined, EditOutlined, ExportOutlined, DeleteOutlined, ClockCircleOutlined } from '@ant-design/icons'
-import ProgressTable from './ProgressTable'
+import DaylistRow from './DaylistRow'
 import dayjs from 'dayjs'
 
 export default function ExtraDaylistCard({
@@ -19,7 +19,8 @@ export default function ExtraDaylistCard({
 
   // 计算完成轮数
   const doneRounds = rows.reduce((sum, row) => sum + (row.done_rounds || 0), 0)
-  const allDone = rows.length > 0 && rows.every(row => row.done_rounds >= row.required_rounds)
+  const reqTotal = rounds_total || rows.reduce((s, r) => s + (r.required_rounds || 0), 0)
+  const allDone = rows.length > 0 && doneRounds >= reqTotal
 
   // 状态颜色
   const statusColor = allDone ? '#52c41a' : doneRounds > 0 ? '#faad14' : '#8c8c8c'
@@ -28,21 +29,13 @@ export default function ExtraDaylistCard({
   // 加练日期标签
   const extraDateLabel = parent_daylist ? `${parent_daylist} 加练` : '加练'
 
-  // 操作菜单
-  const menu = (
-    <Menu>
-      <Menu.Item key="edit" icon={<EditOutlined />} onClick={onEdit}>
-        编辑清单
-      </Menu.Item>
-      <Menu.Item key="export" icon={<ExportOutlined />} onClick={onExport}>
-        导出 Playlist
-      </Menu.Item>
-      <Menu.Divider />
-      <Menu.Item key="delete" icon={<DeleteOutlined />} danger onClick={onDelete}>
-        删除清单
-      </Menu.Item>
-    </Menu>
-  )
+  // 操作菜单 items
+  const menuItems = [
+    { key: 'edit', icon: <EditOutlined />, label: '编辑清单', onClick: onEdit },
+    { key: 'export', icon: <ExportOutlined />, label: '导出 Playlist', onClick: onExport },
+    { type: 'divider' },
+    { key: 'delete', icon: <DeleteOutlined />, label: '删除清单', danger: true, onClick: onDelete },
+  ]
 
   return (
     <Card
@@ -51,8 +44,9 @@ export default function ExtraDaylistCard({
         marginBottom: '16px',
         borderLeft: '4px solid #b388ff',
         background: '#fafafa',
+        borderRadius: '8px',
       }}
-      bodyStyle={{ padding: 0 }}
+      styles={{ body: { padding: 0 } }}
     >
       {/* 卡片头部 */}
       <div
@@ -90,11 +84,11 @@ export default function ExtraDaylistCard({
           </div>
         </div>
         <div style={{ display: 'flex', alignItems: 'center', gap: '12px' }}>
-          <span style={{ fontSize: '14px', fontWeight: 600, color: statusColor }}>
-            {doneRounds}/{rounds_total || rows.reduce((s, r) => s + r.required_rounds, 0)}
+          <span style={{ fontSize: '14px', fontWeight: 600, color: statusColor, fontFamily: 'monospace' }}>
+            {doneRounds}/{reqTotal}
             <span style={{ marginLeft: '8px', fontSize: '12px' }}>{statusText}</span>
           </span>
-          <Dropdown overlay={menu} trigger={['click']}>
+          <Dropdown menu={{ items: menuItems }} trigger={['click']}>
             <Button
               type="text"
               icon={<MoreOutlined />}
@@ -107,12 +101,15 @@ export default function ExtraDaylistCard({
 
       {/* 卡片内容 */}
       {!collapsed && (
-        <div style={{ padding: '8px 16px 16px', borderTop: '1px solid #eee' }}>
-          <ProgressTable
-            data={rows}
-            onScenarioClick={onScenarioClick}
-            compact={true}
-          />
+        <div style={{ padding: '12px 16px 8px', borderTop: '1px solid #f0f0f0', background: '#fff' }}>
+          {rows.map((row) => (
+            <DaylistRow
+              key={row.scenario}
+              row={row}
+              mode="compact"
+              onClick={onScenarioClick}
+            />
+          ))}
         </div>
       )}
     </Card>

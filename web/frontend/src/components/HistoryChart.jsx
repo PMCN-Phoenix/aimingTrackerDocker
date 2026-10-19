@@ -1,4 +1,5 @@
 import ReactECharts from 'echarts-for-react'
+import dayjs from 'dayjs'
 
 export default function HistoryChart({ data, nextLine, loading }) {
   if (loading) {
@@ -9,8 +10,8 @@ export default function HistoryChart({ data, nextLine, loading }) {
     return <div style={{ height: '200px', display: 'flex', alignItems: 'center', justifyContent: 'center', color: '#999' }}>暂无历史数据</div>
   }
 
-  // 准备图表数据
-  const dates = data.map(item => item.date)
+  // 准备图表数据（兼容 time 与 date 字段）
+  const dates = data.map(item => item.date || (item.time ? dayjs(item.time).format('MM-DD HH:mm') : ''))
   const scores = data.map(item => item.score)
 
   // ECharts 配置

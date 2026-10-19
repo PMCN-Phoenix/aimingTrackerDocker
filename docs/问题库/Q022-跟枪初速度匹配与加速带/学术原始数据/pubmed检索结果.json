@@ -1,0 +1,395 @@
+{
+  "pursuit_initiation": {
+    "query": "smooth pursuit initiation latency acceleration target velocity",
+    "count": "28",
+    "items": [
+      {
+        "pmid": "30709895",
+        "date": "2019 Apr 3",
+        "journal": "J Neurosci",
+        "title": "Eye Position Error Influence over \"Open-Loop\" Smooth Pursuit Initiation."
+      },
+      {
+        "pmid": "39584660",
+        "date": "2025 Jan 1",
+        "journal": "J Neurophysiol",
+        "title": "Latency and amplitude of catch-up saccades to accelerating targets."
+      },
+      {
+        "pmid": "11527943",
+        "date": "2001 Sep",
+        "journal": "Invest Ophthalmol Vis Sci",
+        "title": "Modification of smooth pursuit initiation by a nonvisual, afferent feedback signal."
+      },
+      {
+        "pmid": "3585475",
+        "date": "1987 May",
+        "journal": "J Neurophysiol",
+        "title": "Human smooth pursuit: stimulus-dependent responses."
+      },
+      {
+        "pmid": "33315877",
+        "date": "2020",
+        "journal": "PLoS One",
+        "title": "Properties of smooth pursuit and visual motion reaction time to second-order motion stimuli."
+      }
+    ]
+  },
+  "anticipatory_pursuit": {
+    "query": "anticipatory smooth pursuit prediction target motion",
+    "count": "60",
+    "items": [
+      {
+        "pmid": "39752177",
+        "date": "2025 Jan 2",
+        "journal": "J Vis",
+        "title": "Anticipatory smooth pursuit eye movements scale with the probability of visual motion: The role of target speed and acceleration."
+      },
+      {
+        "pmid": "31283450",
+        "date": "2019 Sep 15",
+        "journal": "Annu Rev Vis Sci",
+        "title": "Predictive Smooth Pursuit Eye Movements."
+      },
+      {
+        "pmid": "20963581",
+        "date": "2010 Dec",
+        "journal": "Exp Brain Res",
+        "title": "Influence of previous target motion on anticipatory pursuit deceleration."
+      },
+      {
+        "pmid": "29181503",
+        "date": "2017 Nov 1",
+        "journal": "J Vis",
+        "title": "Anticipatory smooth pursuit eye movements evoked by probabilistic cues."
+      },
+      {
+        "pmid": "18057926",
+        "date": "2008 Mar",
+        "journal": "Exp Brain Res",
+        "title": "Anticipatory smooth-pursuit eye movements in man and monkey."
+      }
+    ]
+  },
+  "pursuit_gain": {
+    "query": "smooth pursuit gain velocity error catch up",
+    "count": "8",
+    "items": [
+      {
+        "pmid": "36331125",
+        "date": "2023 Feb 15",
+        "journal": "Hum Brain Mapp",
+        "title": "Neural mechanisms of background and velocity effects in smooth pursuit eye movements."
+      },
+      {
+        "pmid": "1932405",
+        "date": "1991 Sep 15",
+        "journal": "Biol Psychiatry",
+        "title": "A model of smooth pursuit performance illustrates the relationship between gain, catch-up saccade rate, and catch-up saccade amplitude in normal controls and patients with schizophrenia."
+      },
+      {
+        "pmid": "1873370",
+        "date": "1991 Jun 1",
+        "journal": "Biol Psychiatry",
+        "title": "Quantitative assessment of smooth pursuit gain and catch-up saccades in schizophrenia and affective disorders."
+      },
+      {
+        "pmid": "8292251",
+        "date": "1993 Oct 21",
+        "journal": "Behav Brain Res",
+        "title": "Optokinetic and pursuit system: a case report."
+      },
+      {
+        "pmid": "1349241",
+        "date": "1992 Mar",
+        "journal": "Schizophr Res",
+        "title": "A quantitative analysis of saccades and smooth pursuit during visual pursuit tracking. A comparison of schizophrenics with normals and substance abusing controls."
+      }
+    ]
+  },
+  "pursuit_learning": {
+    "query": "smooth pursuit adaptation learning prediction",
+    "count": "19",
+    "items": [
+      {
+        "pmid": "30067122",
+        "date": "2018 Oct 1",
+        "journal": "J Neurophysiol",
+        "title": "Multiple components in direction learning in smooth pursuit eye movements of monkeys."
+      },
+      {
+        "pmid": "28592689",
+        "date": "2017 Aug 1",
+        "journal": "J Neurophysiol",
+        "title": "Control of the strength of visual-motor transmission as the mechanism of rapid adaptation of priors for Bayesian inference in smooth pursuit eye movements."
+      },
+      {
+        "pmid": "27715479",
+        "date": "2017 Mar-Apr",
+        "journal": "J Mot Behav",
+        "title": "Effects of Visual Error Timing on Smooth Pursuit Gain Adaptation in Humans."
+      },
+      {
+        "pmid": "33593731",
+        "date": "2021 Mar-Apr",
+        "journal": "eNeuro",
+        "title": "Passive Motor Learning: Oculomotor Adaptation in the Absence of Behavioral Errors."
+      },
+      {
+        "pmid": "25172627",
+        "date": "2014",
+        "journal": "Int Rev Neurobiol",
+        "title": "Cerebellar mechanisms of learning and plasticity revealed by delay eyelid conditioning."
+      }
+    ]
+  },
+  "intermittent_control": {
+    "query": "intermittent control manual tracking corrective submovements",
+    "count": "1",
+    "items": [
+      {
+        "pmid": "15668793",
+        "date": "2005 May",
+        "journal": "Exp Brain Res",
+        "title": "Effects of speeds and force fields on submovements during circular manual tracking in humans."
+      }
+    ]
+  },
+  "internal_model_tracking": {
+    "query": "internal model feedforward visuomotor tracking prediction",
+    "count": "3",
+    "items": [
+      {
+        "pmid": "41980556",
+        "date": "2026 May",
+        "journal": "Cogn Psychol",
+        "title": "Predictability of trajectory modulates manual tracking: from real-time feedback to internal-model-based control."
+      },
+      {
+        "pmid": "12450354",
+        "date": "2002 Nov",
+        "journal": "IEEE Trans Biomed Eng",
+        "title": "Simulating closed- and open-loop voluntary movement: a nonlinear control-systems approach."
+      },
+      {
+        "pmid": "3730133",
+        "date": "1986 May",
+        "journal": "Behav Brain Res",
+        "title": "Manual tracking of visual targets by trained monkeys."
+      }
+    ]
+  },
+  "interception_velocity": {
+    "query": "interception velocity matching hand movement moving target",
+    "count": "3",
+    "items": [
+      {
+        "pmid": "42516696",
+        "date": "2026",
+        "journal": "Front Neural Circuits",
+        "title": "Predictive interception across speed profiles."
+      },
+      {
+        "pmid": "7823094",
+        "date": "1994 Oct",
+        "journal": "J Neurophysiol",
+        "title": "Interactions between the eye and hand motor systems: disruptions due to cerebellar dysfunction."
+      },
+      {
+        "pmid": "21431429",
+        "date": "2011 Apr",
+        "journal": "Exp Brain Res",
+        "title": "Proprioception improves temporal accuracy in a coincidence-timing task."
+      }
+    ]
+  },
+  "pursuit_guidance": {
+    "query": "pursuit guidance law proportional navigation interception human",
+    "count": "0",
+    "items": []
+  },
+  "lead_pursuit": {
+    "query": "lead pursuit interception strategy predictive",
+    "count": "2",
+    "items": [
+      {
+        "pmid": "40701579",
+        "date": "2025 Aug 1",
+        "journal": "J Neurophysiol",
+        "title": "Aging leads to predictive gaze allocation during interception."
+      },
+      {
+        "pmid": "11497066",
+        "date": "2001 Jul",
+        "journal": "Exp Brain Res",
+        "title": "Predictive elements in ocular interception and tracking of a moving target by untrained cats."
+      }
+    ]
+  },
+  "catchup_saccade": {
+    "query": "catch-up saccade pursuit lag position error",
+    "count": "1",
+    "items": [
+      {
+        "pmid": "33356899",
+        "date": "2021 Mar 1",
+        "journal": "J Neurophysiol",
+        "title": "Confidence in predicted position error explains saccadic decisions during pursuit."
+      }
+    ]
+  },
+  "optic_flow_control": {
+    "query": "optic flow velocity estimation manual control tracking",
+    "count": "0",
+    "items": []
+  },
+  "predictive_tracking_hand": {
+    "query": "predictive tracking hand movement moving target occlusion",
+    "count": "5",
+    "items": [
+      {
+        "pmid": "28680964",
+        "date": "2017 May-Jun",
+        "journal": "eNeuro",
+        "title": "Eye Tracking of Occluded Self-Moved Targets: Role of Haptic Feedback and Hand-Target Dynamics."
+      },
+      {
+        "pmid": "11160517",
+        "date": "2001 Feb",
+        "journal": "J Neurophysiol",
+        "title": "The Duncker illusion and eye-hand coordination."
+      },
+      {
+        "pmid": "36635938",
+        "date": "2022 Sep-Oct",
+        "journal": "eNeuro",
+        "title": "Humans Can Track But Fail to Predict Accelerating Objects."
+      },
+      {
+        "pmid": "24657827",
+        "date": "2014 Jun",
+        "journal": "Acta Psychol (Amst)",
+        "title": "Manual coordination with intermittent targets: velocity information for prospective control."
+      },
+      {
+        "pmid": "42234631",
+        "date": "2026",
+        "journal": "PLoS One",
+        "title": "Task demands and visual context naturalness modulate gravitational expectation during ocular tracking of temporarily occluded ballistic trajectories."
+      }
+    ]
+  },
+  "tracking_delay": {
+    "query": "visuomotor delay prediction compensation tracking",
+    "count": "7",
+    "items": [
+      {
+        "pmid": "37279754",
+        "date": "2023 Jun 19",
+        "journal": "Curr Biol",
+        "title": "Fast prediction in marmoset reach-to-grasp movements for dynamic prey."
+      },
+      {
+        "pmid": "42516696",
+        "date": "2026",
+        "journal": "Front Neural Circuits",
+        "title": "Predictive interception across speed profiles."
+      },
+      {
+        "pmid": "42068368",
+        "date": "2026 May 2",
+        "journal": "Exp Brain Res",
+        "title": "The impact of varying cursor latency on visuomotor tracking."
+      },
+      {
+        "pmid": "24599942",
+        "date": "2014 Mar 5",
+        "journal": "J Vis",
+        "title": "Predictability is necessary for closed-loop visual feedback delay adaptation."
+      },
+      {
+        "pmid": "27845254",
+        "date": "2017 Feb 1",
+        "journal": "Neuroimage",
+        "title": "Neuronal correlates of continuous manual tracking under varying visual movement feedback in a virtual reality environment."
+      }
+    ]
+  },
+  "smooth_pursuit_hand": {
+    "query": "smooth pursuit eye hand coordination tracking gain",
+    "count": "9",
+    "items": [
+      {
+        "pmid": "26605840",
+        "date": "2015",
+        "journal": "J Vis",
+        "title": "Manual tracking enhances smooth pursuit eye movements."
+      },
+      {
+        "pmid": "27753223",
+        "date": "2018 Jan",
+        "journal": "Dev Sci",
+        "title": "Oculomotor atypicalities in Developmental Coordination Disorder."
+      },
+      {
+        "pmid": "17611282",
+        "date": "2007 Jul 4",
+        "journal": "J Neurosci",
+        "title": "Target interception: hand-eye coordination and strategies."
+      },
+      {
+        "pmid": "27628207",
+        "date": "2016 Dec 1",
+        "journal": "J Neurophysiol",
+        "title": "Role of motor execution in the ocular tracking of self-generated movements."
+      },
+      {
+        "pmid": "8871226",
+        "date": "1996 Aug",
+        "journal": "J Neurophysiol",
+        "title": "Self-moved target eye tracking in control and deafferented subjects: roles of arm motor command and proprioception in arm-eye coordination."
+      }
+    ]
+  },
+  "motor_priming_velocity": {
+    "query": "movement priming initial velocity state aiming",
+    "count": "0",
+    "items": []
+  },
+  "bimanual_tracking": {
+    "query": "continuous tracking task performance variability practice",
+    "count": "15",
+    "items": [
+      {
+        "pmid": "37905046",
+        "date": "2024 Apr 25",
+        "journal": "bioRxiv",
+        "title": "Continuous Tracking using Deep Learning-based Decoding for Non-invasive Brain-Computer Interface."
+      },
+      {
+        "pmid": "27511047",
+        "date": "2017 Jan",
+        "journal": "Neurorehabil Neural Repair",
+        "title": "Predicting Motor Sequence Learning in Individuals With Chronic Stroke."
+      },
+      {
+        "pmid": "31042157",
+        "date": "2019 May 1",
+        "journal": "J Med Internet Res",
+        "title": "Data-Driven Blood Glucose Pattern Classification and Anomalies Detection: Machine-Learning Applications in Type 1 Diabetes."
+      },
+      {
+        "pmid": "29698844",
+        "date": "2018 Jun",
+        "journal": "Gait Posture",
+        "title": "Increased practice of a standing motor sequence task in healthy young and healthy elders: Short communication."
+      },
+      {
+        "pmid": "26053288",
+        "date": "2015",
+        "journal": "PLoS One",
+        "title": "No Enhancement of 24-Hour Visuomotor Skill Retention by Post-Practice Caffeine Administration."
+      }
+    ]
+  }
+}

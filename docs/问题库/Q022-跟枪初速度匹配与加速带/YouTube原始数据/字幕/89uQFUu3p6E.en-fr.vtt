@@ -1,0 +1,967 @@
+WEBVTT
+Kind: captions
+Language: en-FR
+
+00:00:00.200 --> 00:00:04.400
+Aim tracking is particularly interesting in that it seems much
+
+00:00:04.400 --> 00:00:09.760
+more difficult to achieve than it actually is.  The average player is far more capable of
+
+00:00:09.760 --> 00:00:14.520
+excellent follow-up than he thinks.  It is simply inhibited by a few
+
+00:00:14.520 --> 00:00:18.240
+obstacles that can be overcome throughout this video.  And what's important in
+
+00:00:18.240 --> 00:00:23.200
+this observation is that I'm referring to aiming in the game, not in aiming trainers.
+
+00:00:23.200 --> 00:00:28.000
+You don't need to train like Matty to have good tracking in Overwatch,
+
+00:00:28.000 --> 00:00:31.880
+Battlefield, Apex, etc.  But do you really need to be a Matty to benefit from
+
+00:00:31.880 --> 00:00:35.960
+excellent tracking in the most challenging tracking scenarios offered by aim trainers,
+
+00:00:35.960 --> 00:00:40.880
+which place you in aiming situations far exceeding the difficulty of anything you might
+
+00:00:40.880 --> 00:00:46.280
+encounter in the game? There's a key difference here, and what we're focusing on in this video
+
+00:00:46.280 --> 00:00:52.360
+is achieving good tracking in FPS games with the least amount of time and effort invested.
+
+00:00:52.360 --> 00:00:55.560
+You can always make an extra effort later, but at the beginning,
+
+00:00:55.560 --> 00:01:00.920
+you might as well use the most important and simplest improvements to give yourself a solid foundation.
+
+00:01:00.920 --> 00:01:05.280
+And a small warning, as I mentioned, the goal of this video is to improve your
+
+00:01:05.280 --> 00:01:10.840
+tracking as quickly and efficiently as possible, so I'm going to condense all the
+
+00:01:10.840 --> 00:01:16.080
+most important and actionable information possible into one package.  I want you to be able to finish this
+
+00:01:16.080 --> 00:01:21.080
+video and know exactly what to implement in your next games to instantly have better
+
+00:01:21.080 --> 00:01:26.920
+tracking.  I can't cover everything in one video, so feel free to check out my
+
+00:01:26.920 --> 00:01:32.480
+previous videos and stay tuned for future videos that explain some of these concepts in more detail.
+
+00:01:32.480 --> 00:01:36.680
+Okay, firstly, tracking is primarily about being able to move our reticle
+
+00:01:36.680 --> 00:01:40.960
+at a constant speed.  Can we move it slowly at a speed?  Can we
+
+00:01:40.960 --> 00:01:45.960
+move it quickly at a single speed?  And so on.  This relates to gentleness,
+
+00:01:45.960 --> 00:01:51.400
+but it's not exactly the same thing, so I will avoid this terminology to prevent any confusion.
+
+00:01:51.400 --> 00:01:56.680
+As long as your reticle is above the target, if it moves at the same speed as the target,
+
+00:01:56.680 --> 00:01:59.960
+then you are tracking it perfectly.  The speed at which you perceive them to be
+
+00:01:59.960 --> 00:02:04.920
+moving depends on your distance from the target, the direction in which they are moving,
+
+00:02:04.920 --> 00:02:10.480
+whether they are announcing, crouching, etc.  All these small variables will change the
+
+00:02:10.480 --> 00:02:15.080
+speed at which you will need to move your reticle, but the good news is that each encounter will remain
+
+00:02:15.080 --> 00:02:19.560
+primarily at a single speed.  If you can reach that speed, you can keep up with them.
+
+00:02:19.560 --> 00:02:24.520
+For example, with a mouse script that moves at a uniform speed, you can see it tracking
+
+00:02:24.520 --> 00:02:30.320
+that target at medium range.  But if we get closer, it's not progressing fast enough anymore.
+
+00:02:30.320 --> 00:02:35.520
+And if we move away, it all happens too fast.  I can adjust the script speed
+
+00:02:35.520 --> 00:02:41.200
+depending on each situation, and that's essentially what we have to do ourselves.  We need to
+
+00:02:41.200 --> 00:02:46.920
+quickly determine how fast an enemy is moving and prepare to follow them at that particular speed.
+
+00:02:46.920 --> 00:02:51.800
+I should point out that there may be some variation in this perceived target speed.
+
+00:02:51.800 --> 00:02:56.440
+For example, if a target is running towards you, you hardly need to move,
+
+00:02:56.440 --> 00:03:00.160
+but when it passes you, you suddenly have to aim very quickly
+
+00:03:00.160 --> 00:03:05.200
+before you hardly need to move.  The vast majority of aiming encounters are barely
+
+00:03:05.200 --> 00:03:09.680
+affected by this speed difference, so we can mostly ignore it.
+
+00:03:09.680 --> 00:03:14.440
+This means you should approach each fight with an idea of ​​the
+
+00:03:14.440 --> 00:03:18.560
+hand and mouse movements that will be required.  If you are about to follow someone into the distance, you
+
+00:03:18.560 --> 00:03:23.840
+must be prepared to make very slow and deliberate movements.  If a target jumps in front of you,
+
+00:03:23.840 --> 00:03:27.920
+it's time to use wider movements.  By the way, this is not a license to panic and drag your
+
+00:03:27.920 --> 00:03:33.440
+mouse; larger movements still require constant speed and control.
+
+00:03:33.440 --> 00:03:37.600
+Okay, so we know it's important to move the reticle at a constant speed,
+
+00:03:37.600 --> 00:03:40.640
+but if you're not able to move it at a constant speed, it won't
+
+00:03:40.640 --> 00:03:45.200
+help you much.  So let's eliminate all obstacles before moving on.
+
+00:03:45.200 --> 00:03:49.680
+If your crosshair is constantly jumping in front of and behind your target, the main
+
+00:03:49.680 --> 00:03:55.120
+culprit is usually that the mouse sensitivity is too fast.  For most modern FPS games,
+
+00:03:55.120 --> 00:04:01.680
+a sensitivity between 25 and 50 cm per 360° is generally quite safe.  This will
+
+00:04:01.680 --> 00:04:06.400
+of course depend on the game you are playing.  In tactical shooting games like Valorant and Counter Strike, it looks more like
+
+00:04:06.400 --> 00:04:14.280
+35-80 cm.  You can use sites like Aiming.pro to check which CM/360 you are currently playing on.
+
+00:04:14.280 --> 00:04:19.720
+If you play with the default settings at something like 5cm/360, you will never have
+
+00:04:19.720 --> 00:04:23.960
+good aiming, no matter how comfortable you feel at the moment,
+
+00:04:23.960 --> 00:04:29.240
+you are at a huge mechanical disadvantage that is fundamentally impossible to overcome.
+
+00:04:29.240 --> 00:04:33.560
+The next thing you can check or correct is your friction against the mouse pad and
+
+00:04:33.560 --> 00:04:39.160
+the desk.  If you are in a humid environment and your skin sticks and rolls instead of
+
+00:04:39.160 --> 00:04:44.080
+gliding along the surface, you may experience this unstable aiming as a result.  Regularly washing
+
+00:04:44.080 --> 00:04:48.520
+your hands and any skin that comes into contact with the desk with soap and water while you play can
+
+00:04:48.520 --> 00:04:53.400
+help reset that moisture and provide better glide for a while.  Wearing a sleeve
+
+00:04:53.400 --> 00:04:57.920
+is also an excellent option, especially for those who want constant friction on a daily basis.
+
+00:04:57.920 --> 00:05:01.520
+There are many sleeve options that should do the trick if you encounter
+
+00:05:01.520 --> 00:05:07.160
+any problems.  I've already tried over 20 sleeves and I've just had my own custom sleeves designed with
+
+00:05:07.160 --> 00:05:11.760
+Scody, a premium sportswear brand here in Australia.  You can find them on
+
+00:05:11.760 --> 00:05:16.960
+Struthgaminggear.com.  I will talk more about their design and what they do in another video.
+
+00:05:16.960 --> 00:05:21.080
+What happens if we track with an incorrect reticle speed?  Well,
+
+00:05:21.080 --> 00:05:27.240
+the big thing to avoid is overly reactive aiming.  Suppose you aim too fast and move forward,
+
+00:05:27.240 --> 00:05:34.160
+suddenly you move back and aim much too slowly and you have to move forward again, and so on.  Unless you
+
+00:05:34.160 --> 00:05:40.560
+misjudge the speed catastrophically, you will only need slight adjustments.  To make this easier,
+
+00:05:40.560 --> 00:05:45.880
+really think about how your hand is moving at that moment.  Depending on whether you are too slow
+
+00:05:45.880 --> 00:05:53.120
+or too fast, gently increase or decrease the speed of this needle.  A small change can go a long way,
+
+00:05:53.120 --> 00:05:58.640
+so keep things gradual and controlled, instead of overreacting and exaggerating.
+
+00:05:58.640 --> 00:06:03.600
+The ultimate and quick solution to this nerve-wracking goal is to read the movement and avoid
+
+00:06:03.600 --> 00:06:09.640
+constantly triggering your reaction time tax.  That's its own topic, so if your nervousness has
+
+00:06:09.640 --> 00:06:14.560
+n't been corrected yet, don't worry, the next chapter will cover this topic in more detail.
+
+00:06:14.560 --> 00:06:19.360
+To connect this concept of constant speed and fluidity, it is time to delve
+
+00:06:19.360 --> 00:06:24.240
+into the most important skill required for good tracking, namely movement reading.
+
+00:06:24.240 --> 00:06:28.240
+Fortunately, despite its importance, it is also the simplest to implement
+
+00:06:28.240 --> 00:06:33.200
+in your gameplay.  No need for hundreds of hours of aiming practice or anything like that;
+
+00:06:33.200 --> 00:06:37.640
+a simple mental reminder is all you need to use it in your next game.
+
+00:06:37.640 --> 00:06:42.440
+The key here is to recognize the objectives of the player or NPC you're aiming at
+
+00:06:42.440 --> 00:06:47.560
+and the environment you're in.  It is important to remember that there is another person like
+
+00:06:47.560 --> 00:06:52.920
+you piloting this enemy on your screen, or at least some logic if it is an NPC.
+
+00:06:52.920 --> 00:06:57.760
+This means they will have goals and instincts similar to yours, which you need to be aware of.
+
+00:06:57.760 --> 00:07:02.320
+I really like this Darktide clip as an example of reading movement.  I know that this
+
+00:07:02.320 --> 00:07:08.480
+NPC in charge wants to join me or reach my team, and to do so, he will have to run up these stairs.  This
+
+00:07:08.480 --> 00:07:13.920
+means I know exactly where he's going and I can plan my tracking moves in advance.  I
+
+00:07:13.920 --> 00:07:19.360
+stalk him by running and gently follow his change of direction on the stairs.  If I did not read
+
+00:07:19.360 --> 00:07:23.840
+the movement and constraints of the environment around me (which in this case are the stairs he has to
+
+00:07:23.840 --> 00:07:28.720
+climb), then this change of direction would be a surprise and I would have to
+
+00:07:28.720 --> 00:07:35.040
+wait 200 milliseconds for my reaction time to catch up with him before adapting to the enemy.
+
+00:07:35.040 --> 00:07:39.320
+In this example, I start shooting at this Bloodhound.  From the first shots,
+
+00:07:39.320 --> 00:07:44.320
+it became clear that they were not willing to engage in this bad fight because they were not looking at me.
+
+00:07:44.320 --> 00:07:49.480
+It therefore becomes clear that this player's current objective is to reach the nearest cover here.
+
+00:07:49.480 --> 00:07:54.760
+This means I can plan a simple one-way track in advance and make easy shots.
+
+00:07:54.760 --> 00:07:59.640
+And here, this enemy in front of me jumps, and we can see his knee springing out to our left,
+
+00:07:59.640 --> 00:08:04.440
+so we know he's going to fall along a predictable arc here.  And as
+
+00:08:04.440 --> 00:08:08.800
+in our Darktide example, this player runs up the stairs to reach the roof
+
+00:08:08.800 --> 00:08:13.920
+so we can plan our tracking in advance to follow the path he is most likely to take.
+
+00:08:13.920 --> 00:08:19.440
+Knowing where an enemy is moving makes tracking much easier.  I think there is a problem.
+
+00:08:19.440 --> 00:08:25.400
+Many players struggle with tracking and aiming in general; they overestimate the elusive and
+
+00:08:25.400 --> 00:08:30.640
+random nature of enemies on their screen.  They treat these enemies as if they could move in
+
+00:08:30.640 --> 00:08:36.840
+impossible ways and consequently have excessive, nervous, and chaotic aiming.  Their brain
+
+00:08:36.840 --> 00:08:42.040
+constantly pays the reaction time tax and catches up with every little movement and action.
+
+00:08:42.040 --> 00:08:45.800
+It's a strange way to think about it, but you can essentially consider that
+
+00:08:45.800 --> 00:08:50.600
+everything you see in the game goes back approximately 200 milliseconds into the past.  When
+
+00:08:50.600 --> 00:08:55.720
+playing FPS games that inherently require precise inputs, this lag can be
+
+00:08:55.720 --> 00:09:00.360
+very frustrating if you are in a constant cycle of reacting to what is happening on the screen.
+
+00:09:00.360 --> 00:09:05.640
+That is why it is so important to anticipate movements and plan movements in advance.
+
+00:09:05.640 --> 00:09:10.960
+With proper reading, you can bypass the reaction time tax, plan aiming movements that can
+
+00:09:10.960 --> 00:09:16.520
+last a few seconds rather than a few milliseconds, and ultimately target your enemies in real time.
+
+00:09:16.520 --> 00:09:21.080
+To emphasize this point, I have two examples of aiming training that
+
+00:09:21.080 --> 00:09:25.440
+very clearly reflect this principle.  Firstly, in a KovaaK scenario like Smoothness Training 60,
+
+00:09:25.440 --> 00:09:30.320
+the target follows a predetermined path.  Knowing exactly where the target is moving
+
+00:09:30.320 --> 00:09:34.280
+means you can predict and lock your mouse movements for very easy tracking
+
+00:09:34.280 --> 00:09:38.000
+and even have perfect accuracy when changing direction.
+
+00:09:38.000 --> 00:09:40.920
+But if I jump into the invincible strafing,
+
+00:09:40.920 --> 00:09:45.600
+I can still follow it during the strafing, but every change of direction incurs a
+
+00:09:45.600 --> 00:09:51.120
+reaction time tax that I cannot avoid.  The intervals of strafing are random, so I cannot
+
+00:09:51.120 --> 00:09:56.440
+reliably predict them.  Although both examples feature easy-to-follow targets that change direction,
+
+00:09:56.440 --> 00:10:01.720
+the one with predictable movement is easier to aim at than the one with random movement.
+
+00:10:01.720 --> 00:10:07.160
+And the second example concerns scenarios like 1wall6targets TE.  To achieve a high score
+
+00:10:07.160 --> 00:10:11.360
+in these scenarios, you need to use a skill called routing.  This essentially involves
+
+00:10:11.360 --> 00:10:17.080
+planning your path and, subsequently, your mouse movements in advance.  When played poorly,
+
+00:10:17.080 --> 00:10:21.240
+the player is often in a reaction cycle after each shot.  You hit
+
+00:10:21.240 --> 00:10:25.680
+a target &gt; choose the next target &gt; shoot it &gt; choose the next target, shoot it,
+
+00:10:25.680 --> 00:10:31.400
+and so on.  But every time you choose a new target, you pay a reaction time tax.
+
+00:10:31.400 --> 00:10:35.360
+Whereas if you plan your shots in advance, you can instantly switch to something else,
+
+00:10:35.360 --> 00:10:40.520
+saving 200 milliseconds of reaction time, and even more by optimizing
+
+00:10:40.520 --> 00:10:44.720
+mouse movements instead of constantly stopping and starting.  Routing is not limited
+
+00:10:44.720 --> 00:10:48.840
+to notation, but given the principle of reading movements and the importance of
+
+00:10:48.840 --> 00:10:53.120
+planning mouse movements in advance, this was the important part to cover.
+
+00:10:53.120 --> 00:10:57.240
+Okay, so how do you actually interpret the movement?  Almost all of this skill
+
+00:10:57.240 --> 00:11:01.360
+comes immediately from focusing on your target, and not just looking at it;
+
+00:11:01.360 --> 00:11:06.240
+there is a big difference.  I have a video about this below if you're not
+
+00:11:06.240 --> 00:11:11.920
+familiar with it.  The quick version is that you can look at this fan and the blades spin blurry,
+
+00:11:11.920 --> 00:11:16.120
+but if you focus on a single blade, it becomes sharp and you can follow it as it
+
+00:11:16.120 --> 00:11:21.760
+spins.  This change of perspective makes the difference between looking and concentrating.
+
+00:11:21.760 --> 00:11:26.480
+By focusing on your target, you absorb its visual cues.  How fast they
+
+00:11:26.480 --> 00:11:29.520
+move, in what direction they move, where they look,
+
+00:11:29.520 --> 00:11:33.560
+their legs simply point in a different direction so they change direction, etc.
+
+00:11:34.320 --> 00:11:38.280
+The rest of the skill boils down to game sense and
+
+00:11:38.280 --> 00:11:43.240
+environmental awareness.  environment and enemy objectives.  If you shoot an enemy in the open,
+
+00:11:43.240 --> 00:11:48.080
+he will likely move towards the nearest cover so you can plan your aiming movements
+
+00:11:48.080 --> 00:11:52.960
+accordingly.  If you are fighting an enemy in a narrow corridor and he is firing AD,
+
+00:11:52.960 --> 00:11:58.520
+you know he cannot fire further than the wall and can predictively track him accordingly.
+
+00:11:58.520 --> 00:12:03.200
+If an enemy jumps, you know that he is mostly stuck on a certain trajectory.  If they
+
+00:12:03.200 --> 00:12:07.040
+jump from a building or use a zip line, a ramp, etc.,
+
+00:12:07.040 --> 00:12:11.840
+the same applies.  You can almost imagine this predictive line forming every time
+
+00:12:11.840 --> 00:12:16.320
+you see an enemy, and all you have to do is paint it with your mouse.
+
+00:12:16.320 --> 00:12:20.520
+This can be more difficult to learn as it is more of a conceptual understanding and does not
+
+00:12:20.520 --> 00:12:25.240
+always follow strict rules, but I honestly think the majority of players are
+
+00:12:25.240 --> 00:12:30.080
+much better at this than they think they are; they just need to remember to think about it.
+
+00:12:30.080 --> 00:12:35.320
+For me, when I am about to follow someone, I quickly assess their distance and speed,
+
+00:12:35.320 --> 00:12:39.600
+I recognize the environment and how it can influence the fight, and I prepare the right
+
+00:12:39.600 --> 00:12:44.120
+mouse movements.  This doesn't require you to stop and literally think about these
+
+00:12:44.120 --> 00:12:48.880
+steps before filming; it's simpler than it seems, so try not to overthink it.
+
+00:12:48.880 --> 00:12:52.040
+The distance to the enemy is automatic to interpret;
+
+00:12:52.040 --> 00:12:57.000
+we instinctively know if something is far away or not, it requires no effort to
+
+00:12:57.000 --> 00:13:02.320
+think about it.  Speed ​​is simple too.  Are they running, walking, or squatting?
+
+00:13:02.320 --> 00:13:07.880
+The environment may be a little more delicate but remains very manageable.  All you're looking for is
+
+00:13:07.880 --> 00:13:13.320
+what kind of cover surrounds them.  This could be a rock in a field or the walls of a building.
+
+00:13:13.320 --> 00:13:17.280
+The trick is to recognize these variables and plan accordingly,
+
+00:13:17.280 --> 00:13:20.360
+rather than piloting automatically.  And to be honest, the more you manage to aim
+
+00:13:20.360 --> 00:13:24.680
+and play FPS games in general, the more automatic it becomes.
+
+00:13:24.680 --> 00:13:30.440
+The movement is a major topic, so I will limit myself to the essentials of the follow-up.  Our own movement
+
+00:13:30.440 --> 00:13:35.480
+is almost like having another mouse plugged in with which we aim.  This is another way to move
+
+00:13:35.480 --> 00:13:41.040
+our reticle; we just need to make sure that it helps us aim and doesn't destabilize us.
+
+00:13:41.040 --> 00:13:43.800
+If you have ever played on a fast sensitivity,
+
+00:13:43.800 --> 00:13:47.680
+you may have noticed that you often use your movement to make small
+
+00:13:47.680 --> 00:13:51.480
+adjustments to the crosshair rather than the mouse.  This doesn't really mean anything,
+
+00:13:51.480 --> 00:13:56.840
+it simply shows that you essentially have two different inputs that control your reticle.
+
+00:13:56.840 --> 00:14:03.000
+For monitoring purposes, it can be considered as a sensitivity multiplier.  Using the same script as before.
+
+00:14:03.000 --> 00:14:08.120
+Aiming to the right leads here.  However, if we move to the right at the same time,
+
+00:14:08.120 --> 00:14:13.440
+we end up further away.  And if we move to the left, we fall much shorter.  This
+
+00:14:13.440 --> 00:14:18.480
+shows us that moving while aiming can attenuate or amplify the inputs from our mouse.
+
+00:14:18.480 --> 00:14:23.600
+It can be quite shocking if we change direction while following something.  A simple rule to follow
+
+00:14:23.600 --> 00:14:30.040
+in the game that works in almost all situations is to combine your changes in movement direction
+
+00:14:30.040 --> 00:14:35.800
+with the speed and/or direction of the reticle.  This falls under what is called
+
+00:14:35.800 --> 00:14:41.040
+anti-mirror bombardment.  Where if your opponent moves to the left, you move to the right, and vice versa.
+
+00:14:46.000 --> 00:14:50.400
+Because you are moving your reticle in the opposite direction to your movement, you need to
+
+00:14:50.400 --> 00:14:55.200
+aim more; this is not a bad thing, it's just something to keep in mind.  Modern games
+
+00:14:55.200 --> 00:15:00.000
+like Apex Legends and The Finals use a mechanism called recoil smoothing,
+
+00:15:00.000 --> 00:15:03.440
+in which if your crosshair moves faster than a certain threshold,
+
+00:15:03.440 --> 00:15:09.320
+your recoil is significantly reduced.  Anti-mirror firing allows this mechanism to be engaged more often,
+
+00:15:09.320 --> 00:15:13.200
+which is another good reason to use it.  Although I would like to emphasize that you do
+
+00:15:13.200 --> 00:15:18.080
+not need to restrict your movements to simply copy the enemy.  The important thing to remember
+
+00:15:18.080 --> 00:15:24.040
+is to associate your changes in movement with changes in the behavior of your reticle.
+
+00:15:24.040 --> 00:15:29.600
+The alternative is mirror strafing, where by copying the enemy's movement, you don't
+
+00:15:29.600 --> 00:15:35.080
+need to aim at all.  This technique makes aiming very easy, as you hardly need to move your mouse,
+
+00:15:35.080 --> 00:15:40.440
+or even at all.  The problem is that it can be difficult to synchronize properly, especially if the target is
+
+00:15:40.440 --> 00:15:45.040
+facing you and fighting you.  It's always worth looking for times when you can use it,
+
+00:15:45.040 --> 00:15:50.320
+as it's essentially free tracking.  This clip links the three concepts of recognizing
+
+00:15:50.320 --> 00:15:55.760
+the impact of movement on reticle speed, mirror strafing, and anti-mirror strafing.  While
+
+00:15:55.760 --> 00:16:00.040
+also demonstrating movement reading and assessment of the environment around me.
+
+00:16:00.040 --> 00:16:05.480
+I see this enemy running towards my right and he is not looking at me.  This means I can reflect machine-gun fire
+
+00:16:05.480 --> 00:16:10.520
+for free shots and I barely have to move my reticle.  The mirror strafing here
+
+00:16:10.520 --> 00:16:15.800
+also means I can leave this exposed bridge and move closer to cover.  I need to make
+
+00:16:15.800 --> 00:16:21.800
+a very slight adjustment to the reticle because I am slowed down by the ADSing, but it is barely noticeable.
+
+00:16:21.800 --> 00:16:26.440
+This Bloodhound is starting to shoot at me, so I can no longer maintain my current barrage without being
+
+00:16:26.440 --> 00:16:31.800
+teleported.  I fire in the other direction to avoid their shots, but notice that my reticle speed remains
+
+00:16:31.800 --> 00:16:37.480
+exactly the same?  It should have slowed down when I changed direction, but since I associate
+
+00:16:37.480 --> 00:16:43.240
+changes in movement with changes in crosshair speed, when I pressed A on my keyboard to move in the other direction,
+
+00:16:43.240 --> 00:16:47.520
+I knew it was time to move my mouse slightly faster to compensate.
+
+00:16:47.520 --> 00:16:50.920
+I switch to the Bloodhound and begin the anti-mirror strafing,
+
+00:16:50.920 --> 00:16:56.280
+so I move to the right and aim to the left.  Note that I am now playing under cover,
+
+00:16:56.280 --> 00:17:00.560
+which is the result of all the movements used so far to help me aim
+
+00:17:00.560 --> 00:17:04.600
+and position myself more safely than standing on this bridge.
+
+00:17:04.600 --> 00:17:09.800
+So, to summarize our movement, we can consider it as having a second mouse plugged in.  If we do not
+
+00:17:09.800 --> 00:17:15.320
+respect this, it then becomes a contradictory input that destabilizes us.  But if we acknowledge that it
+
+00:17:15.320 --> 00:17:20.120
+exists and know what impact it has on our goal, we can use it to our advantage.
+
+00:17:20.120 --> 00:17:24.000
+Targeting targets that are rapidly changing direction, known as AD strafing,
+
+00:17:24.000 --> 00:17:28.160
+is the most difficult part of tracking, but it's nothing we can't overcome.  This is
+
+00:17:28.160 --> 00:17:33.080
+a vast subject that deserves its own video, so once again I will only address the main points.
+
+00:17:33.080 --> 00:17:37.480
+On the surface, AD strafing may seem incredibly fast and unpredictable to
+
+00:17:37.480 --> 00:17:42.480
+aim, but in reality, it is much more standardized than you might think.
+
+00:17:42.480 --> 00:17:47.760
+The main problem to avoid is succumbing to this reaction time tax, where you are in this
+
+00:17:47.760 --> 00:17:52.880
+constant cycle of reacting to their change of direction, going back towards them, then they change direction
+
+00:17:52.880 --> 00:17:58.360
+again, your reaction time catches up, you go back and soon.  The result is a aiming pattern
+
+00:17:58.360 --> 00:18:02.680
+that gives the impression that you are simply going back and forth without actually following them.
+
+00:18:02.680 --> 00:18:06.960
+What we are primarily looking for is a smoother transition between
+
+00:18:06.960 --> 00:18:11.600
+directions.  You will probably still need a little nudge to get back to the target,
+
+00:18:11.600 --> 00:18:16.200
+but you want to make sure you are actively tracking in between.  Your mouse should feel like it's
+
+00:18:16.200 --> 00:18:20.200
+constantly moving, rather than stopping and starting.
+
+00:18:20.200 --> 00:18:24.680
+If you have KovaaK, you can explore this in some scenarios I imagined some time ago.
+
+00:18:24.680 --> 00:18:28.800
+These have never been published, they are not set up for rating or anything like that,
+
+00:18:28.800 --> 00:18:33.520
+I created them solely to work towards smoother AD tracking.  I just downloaded them because
+
+00:18:33.520 --> 00:18:37.600
+they are now relevant to this video, so I will create a link to the playlist in the description.
+
+00:18:37.600 --> 00:18:41.720
+Regarding AD strafing in the game, it is much less random than it
+
+00:18:41.720 --> 00:18:48.040
+seems.  Intentionally randomizing your AD bursts is actually quite difficult to do,
+
+00:18:48.040 --> 00:18:52.200
+especially in the chaos of a fight.  You can try it yourself right now,
+
+00:18:52.200 --> 00:18:57.200
+try alternating keystrokes on A and D in a strange and random sequence.  And remember that if
+
+00:18:57.200 --> 00:19:01.960
+you move too quickly between them, you'll feel like you're standing still in the game.
+
+00:19:01.960 --> 00:19:06.880
+So you should always try to maintain at least some pressure to have a usable AD burst.
+
+00:19:06.880 --> 00:19:10.840
+For this reason, almost everyone you encounter in the game will alternate according to a
+
+00:19:10.840 --> 00:19:15.840
+reliable pattern.  And probably at a rate very similar to that of your own machine-gun fire,
+
+00:19:15.840 --> 00:19:18.800
+so you can use your own model as a reference.
+
+00:19:18.800 --> 00:19:23.760
+This leaves us with the choice of reacting to the AD strafing.  Where we await
+
+00:19:23.760 --> 00:19:28.360
+visual confirmation that they have changed direction and are doing our best to get
+
+00:19:28.360 --> 00:19:33.520
+back to it quickly and move to a smooth track.  Or predict when they will change
+
+00:19:33.520 --> 00:19:39.240
+direction and smoothly change the direction of our reticle before having visual confirmation.
+
+00:19:39.240 --> 00:19:44.440
+In general, reactive aiming is safer and more consistent, so it's a good option
+
+00:19:44.440 --> 00:19:50.080
+when you're ahead in a fight and can accept a few missed shots when they change direction.
+
+00:19:50.080 --> 00:19:54.840
+Overall, predicting their shots generates the highest potential damage,
+
+00:19:54.840 --> 00:19:59.440
+but you risk missing your objective if they don't fire within that
+
+00:19:59.440 --> 00:20:05.880
+timeframe.  In my opinion, prediction is the superior option and is a skill worth learning.
+
+00:20:05.880 --> 00:20:11.040
+But overall, you will want to use both depending on the situation.
+
+00:20:11.040 --> 00:20:15.800
+To predict accurately and know when to predict, we must take into account the context
+
+00:20:15.800 --> 00:20:21.280
+and the environment.  In this example, I catch this Wattson jumping and by the time she lands,
+
+00:20:21.280 --> 00:20:26.320
+I have already inflicted a lot of damage.  This means that the player most likely thinks they need to
+
+00:20:26.320 --> 00:20:32.600
+stop taking damage as soon as possible, so there is almost no chance that this player will continue moving to my left
+
+00:20:32.600 --> 00:20:36.880
+(which is the same direction in which they have been taking damage) so that I can start moving my
+
+00:20:36.880 --> 00:20:42.320
+reticle to the right, long before my reaction time can recognize that they have changed direction.
+
+00:20:42.320 --> 00:20:47.760
+And on the other hand, my health is very weak and I am trying to heal and I see someone
+
+00:20:47.760 --> 00:20:53.400
+surpassing me, so I know I have to engage in a very disadvantageous fight.  If I have a chance of
+
+00:20:53.400 --> 00:20:59.000
+winning, I must make every possible shot, so predicting is the only way to cause
+
+00:20:59.000 --> 00:21:04.720
+enough damage to turn the tide.  Of course, they should have killed me, and if I had played purely reactively,
+
+00:21:04.720 --> 00:21:08.680
+they would almost certainly have had enough time to deliver that final blow.
+
+00:21:08.680 --> 00:21:14.480
+To summarize tracking AD strafing targets, you might think you're aiming at yourself.  Simply imagine
+
+00:21:14.480 --> 00:21:20.800
+that the player in front of you is actually you, and not some unpredictable random being.  In
+
+00:21:20.800 --> 00:21:26.520
+their situation, what would you do?  Most of the time, in this context, this will mean firing AD
+
+00:21:26.520 --> 00:21:32.480
+at a steady rate to avoid damage (since being intentionally random is difficult),
+
+00:21:32.480 --> 00:21:37.080
+and preferring to move towards cover, especially if you are taking damage.
+
+00:21:37.080 --> 00:21:42.160
+And finally, let's quickly discuss the concept of minimizing your mouse movements.  Once again
+
+00:21:42.160 --> 00:21:48.080
+, this topic deserves its own video, so I'm going to condense it into juicy and actionable elements.
+
+00:21:48.080 --> 00:21:53.680
+Your targets are bound by the rules and mechanics of this game. They won't move randomly across your
+
+00:21:53.680 --> 00:21:59.800
+screen, so your crosshair and mouse shouldn't be moving all over the place either.
+
+00:21:59.800 --> 00:22:02.520
+If you're the type of player who panics during fights and
+
+00:22:02.520 --> 00:22:06.320
+waves their reticle around, this can make a huge difference for you.
+
+00:22:06.320 --> 00:22:10.600
+The concept is very simple and it involves aiming for less.  Whether a
+
+00:22:10.600 --> 00:22:15.440
+target is far away or right in front of you, moving your reticle less will
+
+00:22:15.440 --> 00:22:20.320
+almost always be the right solution.  You'll be amazed at the number of extra clips
+
+00:22:20.320 --> 00:22:25.680
+and the heavy damage you can take simply by not aiming once you're already on target.
+
+00:22:25.680 --> 00:22:28.720
+You may have noticed it yourself if you suddenly
+
+00:22:28.720 --> 00:22:32.520
+switched to playing with very low sensitivity.  Your overall objective
+
+00:22:32.520 --> 00:22:37.720
+may be nil or seem limited, but you may notice these random clips occurring,
+
+00:22:37.720 --> 00:22:42.640
+mainly because if your crosshair is on the target, it is difficult to move it away from it.
+
+00:22:42.640 --> 00:22:46.520
+To get into the zone and reduce unnecessary reticle movement, I like to
+
+00:22:46.520 --> 00:22:51.840
+focus on reticle placement, making sure it's at chest or head height and
+
+00:22:51.840 --> 00:22:56.800
+pointing towards where enemies are most likely to be.  And also to move it smoothly,
+
+00:22:56.800 --> 00:23:01.280
+rather than passing through different points of interest.  It's not necessarily better,
+
+00:23:01.280 --> 00:23:06.160
+but it puts you in the right frame of mind to aim and slow things down smoothly.
+
+00:23:06.160 --> 00:23:10.240
+During a fight, you will always want to move towards a target if necessary.
+
+00:23:10.240 --> 00:23:15.120
+It's more about navigating the environment and preparing for controlled aiming once
+
+00:23:15.120 --> 00:23:18.960
+combat begins.  Another useful way to think about it would be to try
+
+00:23:18.960 --> 00:23:24.080
+to replicate what the controller's objective looks like.  The speed limitations of an analog stick
+
+00:23:24.080 --> 00:23:29.560
+and the rigidity of aim assist result in slow, deliberate, and effective aiming.
+
+00:23:29.560 --> 00:23:34.840
+Okay, we've covered a lot of information so far, to help you summarize things, I've added chapters
+
+00:23:34.840 --> 00:23:41.120
+to this video so you can easily jump to each topic as needed.  Now, let's quickly recap.
+
+00:23:41.120 --> 00:23:45.920
+Constant speed: if you can move your reticle at the same speed as your target,
+
+00:23:45.920 --> 00:23:51.560
+you can track it.  The perceived speed of the target will change depending on its distance
+
+00:23:52.200 --> 00:23:58.440
+and what it is doing.  Therefore, quickly assess the situation and prepare the correct mouse movements.
+
+00:23:58.440 --> 00:24:04.280
+Motion reading: Focus on your target, don't just look at it.  Absorb their visual cues
+
+00:24:04.280 --> 00:24:08.520
+and consider the enemy's objectives and motivations.  Create these
+
+00:24:08.520 --> 00:24:12.120
+predictive paths in your mind that you will paint with your reticle.
+
+00:24:12.120 --> 00:24:17.880
+Movement: your own movement is like having a second mouse plugged in, so be aware of how this
+
+00:24:17.880 --> 00:24:24.520
+will affect your aiming.  Don't forget to synchronize the movement changes with the movement changes of your mouse.
+
+00:24:24.520 --> 00:24:28.560
+AD strafing: AD strafing is very predictable and
+
+00:24:28.560 --> 00:24:33.800
+consistent.  When you know the enemy wants or needs to launch AD strafing,
+
+00:24:33.800 --> 00:24:39.200
+you can start making back-and-forth runs with smooth transitions at a steady rate.
+
+00:24:39.200 --> 00:24:46.160
+Minimize mouse movements: try to reduce unnecessary mouse movements and overly reactive aiming.  Slow
+
+00:24:46.160 --> 00:24:52.360
+things down and play more easily.  Mimicking the controller's aiming can be a useful signal to use.
+
+00:24:52.360 --> 00:24:57.000
+Monitoring is a skill that draws on almost all disciplines, skills,
+
+00:24:57.000 --> 00:25:01.840
+techniques, etc.  possibilities in terms of aiming.  Despite this, I would say that good tracking in
+
+00:25:01.840 --> 00:25:07.480
+FPS games requires very little mouse control and physical ability.  Competence
+
+00:25:07.480 --> 00:25:11.520
+actually boils down to these auxiliary concepts such as reading and adjusting movements.
+
+00:25:11.520 --> 00:25:16.600
+Tracking weapons in general are also quite forgiving.  You have large magazines,
+
+00:25:16.600 --> 00:25:19.360
+and whether you hit the edge of a target or the center doesn't
+
+00:25:19.360 --> 00:25:22.840
+really matter.  If you aim for the center and hit them directly on the edge, does it
+
+00:25:22.840 --> 00:25:27.200
+matter?  Technically, you missed your target, but you still got a sure hit.
+
+00:25:27.200 --> 00:25:32.160
+I'm not trying to minimize the skill level of tracking; the skill level is absurdly high.
+
+00:25:32.160 --> 00:25:38.440
+It's just that this level of mastery isn't really necessary to track well in popular FPS games.
+
+00:25:38.440 --> 00:25:42.320
+As an aside, I consider myself a specialist in rapid fire,
+
+00:25:42.320 --> 00:25:45.400
+and even though I haven't pushed my aiming training scores for many years, I've
+
+00:25:45.400 --> 00:25:50.840
+always been significantly better at clicking on scenarios than at following them.  However, in the game,
+
+00:25:50.840 --> 00:25:55.440
+my tracking has always been just as good, if not better, and it all comes down to
+
+00:25:55.440 --> 00:26:00.440
+other skills like reading movements.  By applying them, you can make tracking much easier for
+
+00:26:00.440 --> 00:26:05.800
+yourself.  You can go very far in terms of tracking in the game, without needing insane mouse control.
+
+00:26:05.800 --> 00:26:09.640
+You can check out the ClawMate mouse mod I designed on StruthGamingGear.com.
+
+00:26:09.640 --> 00:26:13.600
+Video explaining how it works here.  Thank you so much for watching,
+
+00:26:13.600 --> 00:26:18.040
+be sure to subscribe for more content like this, and I'll see you in the next one.
+

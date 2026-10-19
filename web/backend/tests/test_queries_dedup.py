@@ -192,5 +192,47 @@ class TestBestScoreStillMaxAcrossTables(unittest.TestCase):
         self.assertEqual(best["accuracy"], 0.25)
 
 
+class TestWindowScoresAndRoundStats(unittest.TestCase):
+    """时间窗内成绩聚合：测试 round_stats（衰减率）与 session（会话时段）"""
+
+    def setUp(self):
+        self._orig_db = queries.db
+
+    def tearDown(self):
+        queries.db = self._orig_db
+
+    def test_round_stats_and_session(self):
+        # 模拟两轮成绩：第 1 轮 100 分，第 2 轮 80 分 -> 衰减 -20%
+        # 时间 01:00:00Z (北京时间 09:00) 到 03:00:00Z (北京时间 11:00) -> 120 分钟 -> overtime
+        queries.db = FakeDB({
+            "kovaak_score": [
+                {"_field": "score", "_value": "100.0", "scenario": "S1", "_time": "2026-10-14T01:00:00Z"},
+                {"_field": "hits", "_value": "50.0", "scenario": "S1", "_time": "2026-10-14T01:00:00Z"},
+                {"_field": "misses", "_value": "50.0", "scenario": "S1", "_time": "2026-10-14T01:00:00Z"},
+                {"_field": "score", "_value": "80.0", "scenario": "S1", "_time": "2026-10-14T03:00:00Z"},
+                {"_field": "hits", "_value": "40.0", "scenario": "S1", "_time": "2026-10-14T03:00:00Z"},
+                {"_field": "misses", "_value": "60.0", "scenario": "S1", "_time": "2026-10-14T03:00:00Z"},
+            ]
+        })
+        scores, session = queries._get_window_scores(START_TS, END_TS)
+        self.assertIn("S1", scores)
+        s1 = scores["S1"]
+        self.assertEqual(s1["score"], 100.0)
+        self.assertEqual(s1["accuracy"], 45.0)
+        stats = s1["round_stats"]
+        self.assertIsNotNone(stats)
+        self.assertEqual(stats["n"], 2)
+        self.assertEqual(stats["first"], 100.0)
+        self.assertEqual(stats["last"], 80.0)
+        self.assertEqual(stats["best"], 100.0)
+        self.assertEqual(stats["drop_pct"], -20.0)
+
+        self.assertIsNotNone(session)
+        self.assertEqual(session["start"], "09:00")
+        self.assertEqual(session["end"], "11:00")
+        self.assertEqual(session["duration_min"], 120)
+        self.assertTrue(session["is_overtime"])
+
+
 if __name__ == "__main__":
     unittest.main()

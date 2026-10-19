@@ -1,0 +1,74 @@
+{
+  "rows": [
+    {
+      "scenario": "psalmTS Voltaic LowTTK",
+      "runs": 5,
+      "kills": 327,
+      "clean_pct": 95.4,
+      "regen_light_pct": 3.1,
+      "regen_heavy_pct": 1.5,
+      "mean_dmg": 1.0,
+      "mean_excess_pct": 0.0,
+      "median_ttk": 0.592,
+      "p90_ttk": 1.007,
+      "p90_over_p50": 1.7,
+      "hit_rate": 17.8
+    },
+    {
+      "scenario": "VT psalmTS Novice",
+      "runs": 5,
+      "kills": 273,
+      "clean_pct": 93.4,
+      "regen_light_pct": 5.1,
+      "regen_heavy_pct": 1.5,
+      "mean_dmg": 1.003,
+      "mean_excess_pct": 0.3,
+      "median_ttk": 0.694,
+      "p90_ttk": 1.337,
+      "p90_over_p50": 1.93,
+      "hit_rate": 35.1
+    },
+    {
+      "scenario": "VT psalmTS Advanced Regen",
+      "runs": 5,
+      "kills": 217,
+      "clean_pct": 36.4,
+      "regen_light_pct": 28.1,
+      "regen_heavy_pct": 35.5,
+      "mean_dmg": 1.594,
+      "mean_excess_pct": 59.4,
+      "median_ttk": 0.926,
+      "p90_ttk": 1.994,
+      "p90_over_p50": 2.15,
+      "hit_rate": 33.1
+    },
+    {
+      "scenario": "psalmTS Voltaic Easy",
+      "runs": 4,
+      "kills": 212,
+      "clean_pct": 91.5,
+      "regen_light_pct": 4.7,
+      "regen_heavy_pct": 3.8,
+      "mean_dmg": 1.0,
+      "mean_excess_pct": -0.0,
+      "median_ttk": 0.817,
+      "p90_ttk": 1.323,
+      "p90_over_p50": 1.62,
+      "hit_rate": 26.8
+    },
+    {
+      "scenario": "psalmTS Viscose Click Easier",
+      "runs": 3,
+      "kills": 118,
+      "clean_pct": 100.0,
+      "regen_light_pct": 0.0,
+      "regen_heavy_pct": 0.0,
+      "mean_dmg": 1.0,
+      "mean_excess_pct": 0.0,
+      "median_ttk": 0.78,
+      "p90_ttk": 2.418,
+      "p90_over_p50": 3.1,
+      "hit_rate": 64.8
+    }
+  ]
+}

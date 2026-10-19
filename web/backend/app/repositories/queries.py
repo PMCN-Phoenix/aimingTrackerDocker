@@ -1,7 +1,7 @@
-﻿# -*- coding: utf-8 -*-
+# -*- coding: utf-8 -*-
 """数据查询函数——对应文档里定义的所有查询模式"""
 import re
-from typing import List, Dict, Any, Optional
+from typing import List, Dict, Any, Optional, Tuple
 from .influx_client import db
 
 
@@ -356,48 +356,115 @@ from(bucket: "{db.bucket}")
     return result
 
 
-def _get_window_scores(start_ts: int, end_ts: int) -> Dict[str, Dict[str, Any]]:
-    """取时间窗内每个场景的最高分与命中率，供「目标对比」表使用"""
-    from datetime import datetime
+def _get_window_scores(start_ts: int, end_ts: int) -> Tuple[Dict[str, Dict[str, Any]], Optional[Dict[str, Any]]]:
+    """取时间窗内每个场景的最高分、命中率、轮次衰减统计，以及整体会话时段
+
+    返回: (scores_map, session_dict)
+      - scores_map: scenario -> {
+          "score": float,
+          "accuracy": float,
+          "round_stats": {
+              "n": int,
+              "first": float,
+              "last": float,
+              "best": float,
+              "drop_pct": float  # 负数代表末轮相比当日峰值衰减百分比，例如 -32.1
+          }
+        }
+      - session_dict: {
+          "start": "09:08",
+          "end": "11:11",
+          "duration_min": 123,
+          "is_overtime": bool  # > 90 min 为 True，呼应 Q020 疲劳预警
+        }
+    """
+    from datetime import datetime, timezone, timedelta
 
     if not start_ts or not end_ts:
-        return {}
+        return {}, None
 
-    start_str = datetime.utcfromtimestamp(start_ts).strftime('%Y-%m-%dT%H:%M:%SZ')
-    end_str = datetime.utcfromtimestamp(end_ts).strftime('%Y-%m-%dT%H:%M:%SZ')
+    start_str = datetime.fromtimestamp(start_ts, timezone.utc).strftime('%Y-%m-%dT%H:%M:%SZ')
+    end_str = datetime.fromtimestamp(end_ts, timezone.utc).strftime('%Y-%m-%dT%H:%M:%SZ')
 
     flux = f'''
 from(bucket: "{db.bucket}")
   |> range(start: {start_str}, stop: {end_str})
   |> filter(fn: (r) => r._measurement == "kovaak_score" and (r._field == "score" or r._field == "hits" or r._field == "misses"))
-  |> keep(columns: ["_value", "_field", "scenario"])
+  |> keep(columns: ["_value", "_field", "scenario", "_time"])
 '''
-    acc: Dict[str, Dict[str, float]] = {}
+    acc: Dict[str, Dict[str, Any]] = {}
+    all_timestamps = set()
+
     for row in db.query(flux):
         scn = row.get("scenario") or ""
         if not scn:
             continue
         field = row.get("_field")
+        t = row.get("_time")
         try:
             val = float(row.get("_value") or 0)
         except (TypeError, ValueError):
             continue
-        item = acc.setdefault(scn, {"score": 0.0, "hits": 0.0, "misses": 0.0})
+
+        item = acc.setdefault(scn, {"scores": {}, "hits": 0.0, "misses": 0.0})
         if field == "score":
-            item["score"] = max(item["score"], val)
+            if t:
+                item["scores"][t] = val
+                all_timestamps.add(t)
+            else:
+                idx = len(item["scores"])
+                item["scores"][f"t_{idx}"] = val
         elif field == "hits":
             item["hits"] += val
         elif field == "misses":
             item["misses"] += val
 
-    result: Dict[str, Dict[str, Any]] = {}
+    tz_bj = timezone(timedelta(hours=8))
+    scores_res: Dict[str, Dict[str, Any]] = {}
     for scn, v in acc.items():
         total = v["hits"] + v["misses"]
-        result[scn] = {
-            "score": round(v["score"], 1) if v["score"] else None,
+        run_times = sorted(v["scores"].keys())
+        n = len(run_times)
+        if n > 0:
+            first_score = v["scores"][run_times[0]]
+            last_score = v["scores"][run_times[-1]]
+            best_score = max(v["scores"].values())
+            drop_pct = round((last_score - best_score) / best_score * 100, 1) if (best_score > 0 and n > 1) else 0.0
+            round_stats = {
+                "n": n,
+                "first": round(first_score, 1),
+                "last": round(last_score, 1),
+                "best": round(best_score, 1),
+                "drop_pct": drop_pct
+            }
+            score_val = round(best_score, 1)
+        else:
+            round_stats = None
+            score_val = None
+
+        scores_res[scn] = {
+            "score": score_val,
             "accuracy": round(v["hits"] / total * 100, 1) if total else None,
+            "round_stats": round_stats
         }
-    return result
+
+    session = None
+    if all_timestamps:
+        sorted_all = sorted(all_timestamps)
+        try:
+            t_start = datetime.fromisoformat(sorted_all[0].replace('Z', '+00:00')).astimezone(tz_bj)
+            t_end = datetime.fromisoformat(sorted_all[-1].replace('Z', '+00:00')).astimezone(tz_bj)
+            dur = int((t_end - t_start).total_seconds() / 60)
+            session = {
+                "start": t_start.strftime('%H:%M'),
+                "end": t_end.strftime('%H:%M'),
+                "duration_min": dur,
+                "is_overtime": dur > 90
+            }
+        except Exception:
+            session = None
+
+    return scores_res, session
 
 
 def _get_bench_map(list_name: str = "viscose-s2-easier") -> Dict[str, Dict[str, Any]]:
@@ -468,9 +535,9 @@ def get_daylist_progress_data(daylist: str) -> Dict[str, Any]:
     else:
         rounds_map = get_all_scenarios_rounds(start_ts, end_ts)
 
-    # 5.5 批量取「当日成绩」与「基准下一档线」，供前端目标对比表使用
-    today_scores = _get_window_scores(start_ts, end_ts)      # scenario -> {score, accuracy}
-    bench_map = _get_bench_map()                              # scenario -> {nextLine, ...}
+    # 5.5 批量取「当日成绩」、「轮次衰减」与「基准下一档线」
+    today_scores, session_info = _get_window_scores(start_ts, end_ts)
+    bench_map = _get_bench_map()
 
     # 6. 组合数据
     result_rows = []
@@ -486,6 +553,14 @@ def get_daylist_progress_data(daylist: str) -> Dict[str, Any]:
         else:
             status = "进行中"
 
+        sc_info = today_scores.get(scn) or {}
+        today_score_dict = None
+        if sc_info.get("score") is not None:
+            today_score_dict = {
+                "score": sc_info.get("score"),
+                "accuracy": sc_info.get("accuracy")
+            }
+
         result_rows.append({
             "order": row.get("order", 0),
             "scenario": scn,
@@ -493,8 +568,9 @@ def get_daylist_progress_data(daylist: str) -> Dict[str, Any]:
             "required_rounds": required,
             "done_rounds": done,
             "status": status,
-            "today_score": today_scores.get(scn),
+            "today_score": today_score_dict,
             "bench": bench_map.get(scn),
+            "round_stats": sc_info.get("round_stats"),
         })
 
     return {
@@ -508,6 +584,7 @@ def get_daylist_progress_data(daylist: str) -> Dict[str, Any]:
         "exec_dates": exec_dates,
         "start_ts": start_ts,
         "end_ts": end_ts,
+        "session": session_info,
         "items": meta.get("items", len(result_rows)),
         "rounds_total": meta.get("rounds_total", 0),
         "rows": result_rows

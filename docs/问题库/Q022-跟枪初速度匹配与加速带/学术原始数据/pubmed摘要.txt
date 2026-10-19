@@ -1,0 +1,730 @@
+
+
+1. J Neurosci. 2019 Apr 3;39(14):2709-2721. doi: 10.1523/JNEUROSCI.2178-18.2019. 
+Epub 2019 Feb 1.
+
+Eye Position Error Influence over "Open-Loop" Smooth Pursuit Initiation.
+
+Buonocore A(1)(2), Skinner J(3)(2)(4), Hafed ZM(3)(2).
+
+Author information:
+(1)Werner Reichardt Centre for Integrative Neuroscience, 
+antimo.buonocore@cin.uni-tuebingen.de.
+(2)Hertie Institute for Clinical Brain Research, and.
+(3)Werner Reichardt Centre for Integrative Neuroscience.
+(4)International Max Planck Graduate School of Behavioral and Neural Sciences, 
+Tuebingen University, Tuebingen, Germany 72076.
+
+The oculomotor system integrates a variety of visual signals into appropriate 
+motor plans, but such integration can have widely varying time scales. For 
+example, smooth pursuit eye movements to follow a moving target are slower and 
+longer lasting than saccadic eye movements and it has been suggested that 
+initiating a smooth pursuit eye movement involves an obligatory "open-loop" 
+interval in which new visual motion signals presumably cannot influence the 
+ensuing motor plan for up to 100 ms after movement initiation. However, this 
+view is contrary to the idea that the oculomotor periphery has privileged access 
+to short-latency visual signals. Here, we show that smooth pursuit initiation is 
+sensitive to visual inputs, even in open-loop intervals. We instructed male 
+rhesus macaque monkeys to initiate saccade-free smooth pursuit eye movements and 
+injected a transient, instantaneous eye position error signal at different times 
+relative to movement initiation. We found robust short-latency modulations in 
+eye velocity and acceleration, starting only ∼50 ms after transient signal 
+occurrence and even during open-loop pursuit initiation. Critically, the spatial 
+direction of the injected position error signal had predictable effects on 
+smooth pursuit initiation, with forward errors increasing eye acceleration and 
+backward errors reducing it. Catch-up saccade frequencies and amplitudes were 
+also similarly altered ∼50 ms after transient signals, much like the well known 
+effects on microsaccades during fixation. Our results demonstrate that smooth 
+pursuit initiation is highly sensitive to visual signals and that catch-up 
+saccade generation is reset after a visual transient.SIGNIFICANCE STATEMENT 
+Smooth pursuit eye movements allow us to track moving objects. The first ∼100 ms 
+of smooth pursuit initiation are characterized by smooth eye acceleration and 
+are overwhelmingly described as being "open-loop"; that is, unmodifiable by new 
+visual motion signals. We found that all phases of smooth pursuit, including the 
+so-called open-loop intervals, are reliably modifiable by visual signals. We 
+injected transient flashes resulting in very brief, spatially specific position 
+error signals to smooth pursuit and observed very short-latency changes in 
+smooth eye movements to minimize such errors. Our results highlight the 
+flexibility of the oculomotor system in reacting to environmental events and 
+suggest a functional role for the pervasiveness of visual sensitivity in 
+oculomotor control brain regions.
+
+Copyright © 2019 the authors.
+
+DOI: 10.1523/JNEUROSCI.2178-18.2019
+PMCID: PMC6445996
+PMID: 30709895 [Indexed for MEDLINE]
+
+
+2. J Neurophysiol. 2025 Jan 1;133(1):3-13. doi: 10.1152/jn.00123.2024. Epub 2024 
+Nov 25.
+
+Latency and amplitude of catch-up saccades to accelerating targets.
+
+Doré S(1), Coutinho J(1), Khan AZ(2), Lefèvre P(3), Blohm G(1).
+
+Author information:
+(1)Queen's University, Kingston, Ontario, Canada.
+(2)School of Optometry, Université de Montréal, Montréal, Quebec, Canada.
+(3)ICTEAM Institute and Institute for Neuroscience (IoNS), Université catholique 
+de Louvain, Louvain-la-Neuve, Belgium.
+
+To track moving targets, humans move their eyes using both saccades and smooth 
+pursuit. If pursuit eye movements fail to accurately track the moving target, 
+catch-up saccades are initiated to rectify the tracking error. It is well known 
+that retinal position and velocity errors determine saccade latency and 
+amplitude, but the extent to which retinal acceleration error influences these 
+aspects is not well quantified. To test this, 13 adult human participants 
+performed an experiment where they pursued accelerating/decelerating targets. 
+During the ongoing pursuit, we introduced a randomly sized target step to evoke 
+a catch-up saccade and analyzed its latency and amplitude. We observed that 
+retinal acceleration error (computed over a 200 ms range centered 100 ms before 
+the saccade) was a statistically significant predictor of saccade amplitude and 
+latency. A multiple linear regression supported our hypothesis that retinal 
+acceleration errors influence saccade amplitude in addition to the influence of 
+retinal position and velocity errors. We also found that saccade latencies were 
+shorter when retinal acceleration error increased the tracking error and vice 
+versa. In summary, our findings support a model in which retinal acceleration 
+error is used to compute a predicted position error ∼100 ms into the future to 
+trigger saccades and determine saccade amplitude.NEW & NOTEWORTHY When visually 
+tracking object motion, humans combine smooth pursuit and saccadic eye movements 
+to maintain the target image on the fovea. Retinal position and velocity errors 
+are known to determine catch-up saccade amplitude and latency, however, it is 
+unknown if retinal acceleration error is also used to predict future target 
+position. This study provides evidence of a small but statistically significant 
+contribution of retinal acceleration error in determining saccade amplitude and 
+latency.
+
+Copyright © 2025 The Authors.
+
+DOI: 10.1152/jn.00123.2024
+PMID: 39584660 [Indexed for MEDLINE]
+
+
+3. Annu Rev Vis Sci. 2019 Sep 15;5:223-246. doi: 
+10.1146/annurev-vision-091718-014901. Epub 2019 Jul 5.
+
+Predictive Smooth Pursuit Eye Movements.
+
+Kowler E(1), Rubinstein JF(1), Santos EM(1)(2), Wang J(1).
+
+Author information:
+(1)Department of Psychology, Rutgers University, Piscataway, New Jersey 08854, 
+USA; email: eileen.kowler@rutgers.edu, j.rubinstein@rutgers.edu, 
+jie.zy.wang@rutgers.edu.
+(2)Current affiliation: Department of Psychology, State University of New York, 
+College at Oneonta, Oneonta, New York 13820, USA; email: 
+elio.santos@oneonta.edu.
+
+Smooth pursuit eye movements maintain the line of sight on smoothly moving 
+targets. Although often studied as a response to sensory motion, pursuit 
+anticipates changes in motion trajectories, thus reducing harmful consequences 
+due to sensorimotor processing delays. Evidence for predictive pursuit includes 
+(a) anticipatory smooth eye movements (ASEM) in the direction of expected future 
+target motion that can be evoked by perceptual cues or by memory for recent 
+motion, (b) pursuit during periods of target occlusion, and (c) improved 
+accuracy of pursuit with self-generated or biologically realistic target 
+motions. Predictive pursuit has been linked to neural activity in the frontal 
+cortex and in sensory motion areas. As behavioral and neural evidence for 
+predictive pursuit grows and statistically based models augment or replace 
+linear systems approaches, pursuit is being regarded less as a reaction to 
+immediate sensory motion and more as a predictive response, with retinal motion 
+serving as one of a number of contributing cues.
+
+DOI: 10.1146/annurev-vision-091718-014901
+PMID: 31283450 [Indexed for MEDLINE]
+
+
+4. J Vis. 2025 Jan 2;25(1):2. doi: 10.1167/jov.25.1.2.
+
+Anticipatory smooth pursuit eye movements scale with the probability of visual 
+motion: The role of target speed and acceleration.
+
+Carneiro Morita V(1)(2), Souto D(3)(4), Masson GS(1)(5), Montagnini A(1)(6).
+
+Author information:
+(1)Institut de Neurosciences de la Timone, CNRS & Aix-Marseille Université, 
+Marseille, France.
+(2)vanessa.carneiro-morita@etu.univ-amu.fr.
+(3)School of Psychology and Vision Sciences, University of Leicester, Leicester, 
+United Kingdom.
+(4)ds572@leicester.ac.uk.
+(5)guillaume.masson@univ-amu.fr.
+(6)anna.montagnini@univ-amu.fr.
+
+Sensory-motor systems can extract statistical regularities in dynamic uncertain 
+environments, enabling quicker responses and anticipatory behavior for expected 
+events. Anticipatory smooth pursuit eye movements (aSP) have been observed in 
+primates when the temporal and kinematic properties of a forthcoming visual 
+moving target are fully or partially predictable. To investigate the nature of 
+the internal model of target kinematics underlying aSP, we tested the effect of 
+varying the target kinematics and its predictability. Participants tracked a 
+small visual target in a constant direction with either constant, accelerating, 
+or decelerating speed. Across experimental blocks, we manipulated the 
+probability of each kinematic condition varying either speed or acceleration 
+across trials; with either one kinematic condition (providing certainty) or with 
+a mixture of conditions with a fixed probability within a block. We show that 
+aSP is robustly modulated by target kinematics. With constant-velocity targets, 
+aSP velocity scales linearly with target velocity in blocked sessions, and 
+matches the probability-weighted average in the mixture sessions. Predictable 
+target acceleration does also have an influence on aSP, suggesting that the 
+internal model of motion that drives anticipation contains some information 
+about the changing target kinematics, beyond the initial target speed. However, 
+there is a large variability across participants in the precision and 
+consistency with which this information is taken into account to control 
+anticipatory behavior.
+
+DOI: 10.1167/jov.25.1.2
+PMCID: PMC11702788
+PMID: 39752177 [Indexed for MEDLINE]
+
+==============================================================================
+
+1. Exp Brain Res. 2010 Dec;207(3-4):173-84. doi: 10.1007/s00221-010-2437-6. Epub 
+2010 Oct 21.
+
+Influence of previous target motion on anticipatory pursuit deceleration.
+
+de Hemptinne C(1), Barnes GR, Missal M.
+
+Author information:
+(1)Institute of Neuroscience, Université Catholique de Louvain, 
+Louvain-la-Neuve, Brussels, Belgium. coralie.dehemptinne@uclouvain.be
+
+During visual pursuit of a moving target, expected changes in its trajectory 
+often evoke anticipatory smooth pursuit responses. In the present study, we 
+investigated characteristics of anticipatory smooth pursuit decelerations before 
+a change or the end of a target trajectory. Healthy humans had to pursue with 
+the eyes a target moving along a circular path that predictably or unpredictably 
+reversed direction and then retraced its movement back to the starting position. 
+We found that anticipatory eye decelerations were often evoked in temporal 
+expectation of target reversal and of the end of the trajectory. The latency of 
+anticipatory decelerations initiated before target reversal was variable, had 
+poor temporal accuracy and depended on the history of previous trials. 
+Anticipations of the end of the trajectory were more accurate, more precise and 
+were not influenced by previous trials. In this case, subjects probably based 
+their estimate of the end of the trajectory on the duration just experienced 
+before target motion reversal. These results suggest that anticipatory eye 
+decelerations are based on the characteristics of the current or preceding 
+trials depending on the most reliable information available.
+
+DOI: 10.1007/s00221-010-2437-6
+PMID: 20963581 [Indexed for MEDLINE]
+
+
+2. Biol Psychiatry. 1991 Sep 15;30(6):537-56. doi: 10.1016/0006-3223(91)90024-g.
+
+A model of smooth pursuit performance illustrates the relationship between gain, 
+catch-up saccade rate, and catch-up saccade amplitude in normal controls and 
+patients with schizophrenia.
+
+Friedman L(1), Jesberger JA, Meltzer HY.
+
+Author information:
+(1)Laboratory of Biological Psychiatry, Case Western Reserve University, 
+University Hospitals of Cleveland, OH 44106.
+
+Smooth pursuit eye-tracking performance of 37 unmedicated patients with 
+schizophrenia and 45 normal controls was recorded with infrared oculography, and 
+digitized for off-line analysis of gain and other measures. Target velocity was 
+5 degrees/sec. Patients with schizophrenia had significantly lower gain than 
+normal controls, confirming several earlier reports. During low gain smooth 
+pursuit tracking, when eye velocity is slower than target velocity, the saccadic 
+system corrects for the accumulating position error with catch-up saccades 
+(CUS). The rate of CUS and the median CUS amplitude were compared between 
+groups. Patients had significantly more CUS than controls, but the median CUS 
+amplitudes were not significantly different. A nonlinear mathematical model of 
+the relationship between gain, CUS amplitude, and CUS rate during steady-state 
+constant velocity tracking was developed to integrate these findings. According 
+to this model, for a given gain, correction for position error can result from 
+either a few large CUS or many small CUS. The fit of the model to empirical 
+data, as assessed graphically and with linear and nonlinear regression 
+techniques, was excellent. The model fit the data for both patients and 
+controls. The psychiatric eye-tracking literature is discussed from the 
+perspective suggested by the modeled relationship.
+
+DOI: 10.1016/0006-3223(91)90024-g
+PMID: 1932405 [Indexed for MEDLINE]
+
+
+3. J Mot Behav. 2017 Mar-Apr;49(2):229-234. doi: 10.1080/00222895.2016.1169981. 
+Epub 2016 Aug 11.
+
+Effects of Visual Error Timing on Smooth Pursuit Gain Adaptation in Humans.
+
+Ono S(1), Kizuka T(1).
+
+Author information:
+(1)a Faculty of Health and Sport Sciences , University of Tsukuba , Japan.
+
+Smooth pursuit (SP) is one of the precise oculomotor behaviors when tracking a 
+moving object. Adaptation of SP is based on a visual-error driven motor learning 
+process associated with predictable changes in the visual environment. Proper 
+timing of a sensory signal is an important factor for adaptation of fine motor 
+control. In this study, we investigated whether visual error timing affects SP 
+gain adaptation. An adaptive change in SP gain is produced experimentally by 
+repeated trials of a step-ramp tracking with 2 different velocities 
+(double-velocity paradigm). The authors used the double-velocity paradigm where 
+target speed changes 400 or 800 ms after the target onset. The results show that 
+SP gain changed in a certain time window following adaptation. The authors 
+suggest that SP adaptation shown in this study is associated with timing control 
+mechanisms.
+
+DOI: 10.1080/00222895.2016.1169981
+PMID: 27715479 [Indexed for MEDLINE]
+
+
+4. J Neurophysiol. 2021 Mar 1;125(3):748-767. doi: 10.1152/jn.00492.2019. Epub
+2020  Dec 23.
+
+Confidence in predicted position error explains saccadic decisions during 
+pursuit.
+
+Coutinho JD(1), Lefèvre P(1)(2)(3), Blohm G(1).
+
+Author information:
+(1)Centre for Neuroscience Studies, Queen's University, Kingston, Ontario, 
+Canada.
+(2)Institute of Information and Communication Technologies, Electronics and 
+Applied Mathematics, Université catholique de Louvain, Louvain-la-Neuve, 
+Belgium.
+(3)Institute of Neuroscience, Université catholique de Louvain, 
+Louvain-la-Neuve, Belgium.
+
+A fundamental problem in motor control is the coordination of complementary 
+movement types to achieve a common goal. As a common example, humans view moving 
+objects through coordinated pursuit and saccadic eye movements. Pursuit is 
+initiated and continuously controlled by retinal image velocity. During pursuit, 
+eye position may lag behind the target. This can be compensated by the discrete 
+execution of a catch-up saccade. The decision to trigger a saccade is influenced 
+by both position and velocity errors, and the timing of saccades can be highly 
+variable. The observed distributions of saccade frequency and trigger time 
+remain poorly understood, and this decision process remains imprecisely 
+quantified. Here, we propose a predictive, probabilistic model explaining the 
+decision to trigger saccades during pursuit to foveate moving targets. In this 
+model, expected position error and its associated uncertainty are predicted 
+through Bayesian inference across noisy, delayed sensory observations (Kalman 
+filtering). This probabilistic prediction is used to estimate the confidence 
+that a saccade is needed (quantified through log-probability ratio), triggering 
+a saccade upon accumulating to a fixed threshold. The model qualitatively 
+explains behavioral observations on the frequency and trigger time distributions 
+of saccades during pursuit over a range of target motion trajectories. 
+Furthermore, this model makes novel predictions that saccade decisions are 
+highly sensitive to uncertainty for small predicted position errors, but this 
+influence diminishes as the magnitude of predicted position error increases. We 
+suggest that this predictive, confidence-based decision-making strategy 
+represents a fundamental principle for the probabilistic neural control of 
+coordinated movements.NEW & NOTEWORTHY This is the first stochastic dynamical 
+systems model of pursuit-saccade coordination accounting for noise and delays in 
+the sensorimotor system. The model uses Bayesian inference to predictively 
+estimate visual motion, triggering saccades when confidence in predicted 
+position error accumulates to a threshold. This model explains saccade frequency 
+and trigger time distributions across target trajectories and makes novel 
+predictions about the influence of sensory uncertainty in saccade decisions 
+during pursuit.
+
+DOI: 10.1152/jn.00492.2019
+PMID: 33356899 [Indexed for MEDLINE]
+
+==============================================================================
+
+1. Cogn Psychol. 2026 May;164:101798. doi: 10.1016/j.cogpsych.2026.101798. Epub 
+2026 Apr 13.
+
+Predictability of trajectory modulates manual tracking: from real-time feedback 
+to internal-model-based control.
+
+You Y(1), Yang P(2), Chen Z(3).
+
+Author information:
+(1)Affiliated Mental Health Center (ECNU), School of Psychology and Cognitive 
+Science, East China Normal University, Shanghai, China; Brain Health Institute, 
+National Center for Mental Disorders, Shanghai Mental Health Center, Shanghai 
+Jiao Tong University School of Medicine and School of Psychology, Shanghai, 
+China.
+(2)Affiliated Mental Health Center (ECNU), School of Psychology and Cognitive 
+Science, East China Normal University, Shanghai, China; Psychological and Brain 
+Sciences, Indiana University, United States.
+(3)Affiliated Mental Health Center (ECNU), School of Psychology and Cognitive 
+Science, East China Normal University, Shanghai, China; Shanghai Changning 
+Mental Health Center, Shanghai, China. Electronic address: 
+ztchen@psy.ecnu.edu.cn.
+
+We humans manifest a remarkable capability of adapting to varying external 
+environments. However, investigations into mechanisms that enable such 
+adaptations raise several fundamental questions in the domain of sensorimotor 
+control-most notably, whether and how we employ internal representations to 
+facilitate more efficient feedforward control. The current study addressed this 
+question by examining how trajectory predictability modulates manual tracking in 
+human participants. A somewhat surprising finding was that no significant 
+improvement was observed in tracking performance due to predictability, 
+regardless of whether people were aware of it. However, analyses using a Kalman 
+filter model revealed that participants did adapt their visuomotor processes by 
+reducing their reliance on real-time visual input when tracking more predictable 
+trajectories. These results suggest that, despite seemingly comparable tracking 
+performances, participants increasingly relied on internal control mechanisms 
+rather than real-time inputs when confronted with higher trajectory 
+predictability. This study provides new insights into human sensorimotor 
+control, highlighting adaptive use of information redundancy from the 
+environments and the balance between feedforward and feedback mechanisms of 
+human beings.
+
+Copyright © 2026 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.cogpsych.2026.101798
+PMID: 41980556 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of Competing Interest The authors 
+declare that they have no known competing financial interests or personal 
+relationships that could have appeared to influence the work reported in this 
+paper.
+
+
+2. Exp Brain Res. 2005 May;163(2):214-25. doi: 10.1007/s00221-004-2169-6. Epub
+2005  Jan 25.
+
+Effects of speeds and force fields on submovements during circular manual 
+tracking in humans.
+
+Pasalar S(1), Roitman AV, Ebner TJ.
+
+Author information:
+(1)Department of Neuroscience, University of Minnesota, Minneapolis, MN 55455, 
+USA.
+
+Complex limb movements exhibit segmentation into submovements characterized as 
+bell-shaped speed pulses. Submovements have been implicated in both feedback and 
+feedforward control, reflecting an intermittent error-correction process. This 
+study examines submovements occurring during a circular manual tracking task in 
+humans, focusing on the amplitude-duration scaling of submovements and the 
+properties of this scaling across changes in movement speed and external force 
+load. The task consisted of intercepting and tracking a circularly moving target 
+using a two-jointed, robotic arm that allowed external force fields to be 
+imposed during tracking. Different speed levels and different levels of three 
+types of force field were examined. Submovements were defined as fluctuations in 
+the speed profile. The properties of the amplitude-duration ratio of the speed 
+pulses were examined in relation to target speed and external force fields. The 
+results show that the amplitude and duration of the submovements scale linearly 
+in human manual tracking. The slope of the scaling was independently influenced 
+by both target speed and external force fields. A common element in the increase 
+in the scaling slope was increased tracking errors. Control experiments using 
+passive movements and power spectral analysis showed that the submovements were 
+not artifacts of the mechanical/acquisition system or the imposed force field. 
+These results are consistent with the concept of stereotypy in which movements 
+are constructed of scaled versions of a single prototype. Furthermore, the 
+results support the hypothesis that submovements are integral to an error 
+detection and correction control process.
+
+DOI: 10.1007/s00221-004-2169-6
+PMID: 15668793 [Indexed for MEDLINE]
+
+
+3. eNeuro. 2022 Sep 12;9(5):ENEURO.0185-22.2022. doi:
+10.1523/ENEURO.0185-22.2022.  Print 2022 Sep-Oct.
+
+Humans Can Track But Fail to Predict Accelerating Objects.
+
+Kreyenmeier P(1)(2), Kämmer L(2), Fooken J(2)(3), Spering M(4)(2)(5)(6).
+
+Author information:
+(1)Graduate Program in Neuroscience, University of British Columbia, British 
+Columbia, Canada, V6T 1Z3 philipp.kreyenmeier@alumni.ubc.ca.
+(2)Department of Ophthalmology and Visual Sciences, University of British 
+Columbia, British Columbia, Canada, V6T 1Z3.
+(3)Centre for Neuroscience Studies, Queen's University, Ontario, Canada, K7L 
+3N6.
+(4)Graduate Program in Neuroscience, University of British Columbia, British 
+Columbia, Canada, V6T 1Z3.
+(5)Djavad Mowafaghian Centre for Brain Health, University of British Columbia, 
+British Columbia, Canada, V6T 1Z3.
+(6)Institute for Computing, Information, and Cognitive Systems, University of 
+British Columbia, British Columbia, Canada, V6T 1Z4.
+
+Objects in our visual environment often move unpredictably and can suddenly 
+speed up or slow down. The ability to account for acceleration when interacting 
+with moving objects can be critical for survival. Here, we investigate how human 
+observers track an accelerating target with their eyes and predict its time of 
+reappearance after a temporal occlusion by making an interceptive hand movement. 
+Before occlusion, observers smoothly tracked the accelerating target with their 
+eyes. At the time of occlusion, observers made a predictive saccade to the 
+location where they subsequently intercepted the target with a quick pointing 
+movement. We tested how observers integrated target motion information by 
+comparing three alternative models that describe time-to-contact (TTC) based on 
+the (1) final target velocity sample before occlusion, (2) average target 
+velocity before occlusion, or (3) final target velocity and the rate of target 
+acceleration. We show that observers were able to accurately track the 
+accelerating target with visually-guided smooth pursuit eye movements. However, 
+the timing of the predictive saccade and manual interception revealed inability 
+to act on target acceleration when predicting TTC. Instead, interception timing 
+was best described by the final velocity model that relies on extrapolating the 
+last available target velocity sample before occlusion. Moreover, predictive 
+saccades and manual interception showed similar insensitivity to target 
+acceleration and were correlated on a trial-by-trial basis. These findings 
+provide compelling evidence for the failure of integrating target acceleration 
+into predictive models of target motion that drive both interceptive eye and 
+hand movements.
+
+Copyright © 2022 Kreyenmeier et al.
+
+DOI: 10.1523/ENEURO.0185-22.2022
+PMCID: PMC9469915
+PMID: 36635938 [Indexed for MEDLINE]
+
+
+4. Acta Psychol (Amst). 2014 Jun;149:24-31. doi: 10.1016/j.actpsy.2014.02.012.
+Epub  2014 Mar 19.
+
+Manual coordination with intermittent targets: velocity information for 
+prospective control.
+
+Fine JM(1), Ward KL(2), Amazeen EL(2).
+
+Author information:
+(1)Department of Psychology, Arizona State University, United States. Electronic 
+address: Justin.Fine@ASU.edu.
+(2)Department of Psychology, Arizona State University, United States.
+
+Tracking a moving target requires that information concerning the current and 
+future state of a target is available, allowing prospective control of the 
+tracking effector. Eye movement research has shown that prospective visual 
+tracking is achievable during conditions of both visible and occluded targets. 
+The ability to track visually occluded targets has been interpreted as 
+individuals integrating target velocity into eye movement motor plans. It has 
+not been fully established that velocity plays a similar role in other types of 
+tracking behavior. To examine whether target velocity is also used in manual 
+tracking, numerical predictions and a validation experiment were conducted. 
+Predictions indicated that, if individuals utilize target velocity during 
+coordination, increases in visual occlusion periods should yield increased phase 
+lag between target and hand, proportional to the occlusion period. Predictions 
+also suggest that increased occlusion yields increased coordination variability. 
+An experiment having participants coordinate with the same stimuli and occlusion 
+conditions was conducted to verify the predictions. Comparison of prediction and 
+experimental results provides strong agreement that individuals use target 
+velocity to prospectively control coordinated movements.
+
+Copyright © 2014 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.actpsy.2014.02.012
+PMID: 24657827 [Indexed for MEDLINE]
+
+==============================================================================
+
+1. J Neurosci. 2007 Jul 4;27(27):7297-309. doi: 10.1523/JNEUROSCI.2046-07.2007.
+
+Target interception: hand-eye coordination and strategies.
+
+Mrotek LA(1), Soechting JF.
+
+Author information:
+(1)Department of Kinesiology and Health, University of Wisconsin Oshkosh, 
+Oshkosh, Wisconsin 54901, USA.
+
+This study was designed to define the characteristics of eye-hand coordination 
+in a task requiring the interception of a moving target. It also assessed the 
+extent to which the motion of the target was predicted and the strategies 
+subjects used to determine when to initiate target interception. Target 
+trajectories were constructed from sums of sines in the horizontal and vertical 
+dimensions. Subjects intercepted these trajectories by moving their index finger 
+along the surface of a display monitor. They were free to initiate the 
+interception at any time, and on successful interception, the target 
+disappeared. Although they were not explicitly instructed to do so, subjects 
+tracked target motion with normal, high-gain smooth-pursuit eye movements right 
+up until the target was intercepted. However, the probability of catch-up 
+saccades was substantially depressed shortly after the onset of manual 
+interception. The initial direction of the finger movement anticipated the 
+motion of the target by approximately 150 ms. For any given trajectory, subjects 
+tended to initiate interception at predictable times that depended on the 
+characteristics of the target trajectories [i.e., when the curvature (or angular 
+velocity) of the target was small and when the target was moving toward the 
+finger]. The relative weighting of various parameters that influenced the 
+decision to initiate interception varied from subject to subject and was not 
+accounted for by a model based on the short-range predictability of target 
+motion.
+
+DOI: 10.1523/JNEUROSCI.2046-07.2007
+PMCID: PMC6794595
+PMID: 17611282 [Indexed for MEDLINE]
+
+
+2. J Vis. 2015;15(15):11. doi: 10.1167/15.15.11.
+
+Manual tracking enhances smooth pursuit eye movements.
+
+Niehorster DC, Siu WW, Li L.
+
+Previous studies have reported that concurrent manual tracking enhances smooth 
+pursuit eye movements only when tracking a self-driven or a predictable moving 
+target. Here, we used a control-theoretic approach to examine whether concurrent 
+manual tracking enhances smooth pursuit of an unpredictable moving target. In 
+the eye-hand tracking condition, participants used their eyes to track a 
+Gaussian target that moved randomly along a horizontal axis. In the meantime, 
+they used their dominant hand to move a mouse to control the horizontal movement 
+of a Gaussian cursor to vertically align it with the target. In the eye-alone 
+tracking condition, the target and cursor positions recorded in the eye-hand 
+tracking condition were replayed, and participants only performed eye tracking 
+of the target. Catch-up saccades were identified and removed from the recorded 
+eye movements, allowing for a frequency-response analysis of the smooth pursuit 
+response to unpredictable target motion. We found that the overall smooth 
+pursuit gain was higher and the number of catch-up saccades made was less when 
+eye tracking was accompanied by manual tracking than when not. We conclude that 
+concurrent manual tracking enhances smooth pursuit. This enhancement is a 
+fundamental property of eye-hand coordination that occurs regardless of the 
+predictability of the target motion.
+
+DOI: 10.1167/15.15.11
+PMCID: PMC4669211
+PMID: 26605840 [Indexed for MEDLINE]
+
+
+3. Exp Brain Res. 2026 May 2;244(6):105. doi: 10.1007/s00221-026-07291-0.
+
+The impact of varying cursor latency on visuomotor tracking.
+
+Turner LJ(1), Wiederman SD(2), O'Rielly JL(3), Ma-Wyatt A(4).
+
+Author information:
+(1)School of Psychology, Adelaide University, Adelaide, Australia. 
+lucy.turner@adelaide.edu.au.
+(2)School of Biomedicine, Adelaide University, Adelaide, Australia.
+(3)School of Psychology, Adelaide University, Adelaide, Australia.
+(4)Andy Thomas Centre for Space Resources, Adelaide University, Adelaide, 
+Australia.
+
+The visuomotor system compensates for sensory feedback delays, enabling the 
+integration of visual information with motor commands to track moving objects 
+with precision. However, when latency associated with a movement outcome becomes 
+variable or noisy, this ability to compensate is tested. We aimed to identify 
+the thresholds at which delays disrupt tracking to understand the limits of 
+visuomotor prediction and error correction. Participants performed a visually 
+guided pursuit task following a target along a curvilinear path, while eye and 
+cursor movements were recorded under various latency conditions. Cursor position 
+was recorded throughout each trial to quantify mouse-to-cursor latency, cursor 
+velocity, and cursor-target error. In the first study, latency was constant 
+within trials. Six latency magnitudes (0-300 ms) were tested and their impact on 
+tracking performance analysed. Spectral analysis of cursor velocity showed that 
+under high latency, pursuit submovements shifted to lower frequencies 
+interspersed with high frequency corrective actions, whereas under low latency 
+conditions, smoother tracking dominated. In the second study, abrupt changes in 
+cursor latency were introduced mid-trial. Step increases in latency resulted in 
+larger positional errors and increased corrective submovements, while decreases 
+in latency led to rapid error reduction and a return to smoother tracking. These 
+transitions highlight the visuomotor system's ability to recalibrate in response 
+to latency variability. Together these results show that error correction 
+mechanisms rapidly respond to changes in latency depending on its magnitude. 
+These results may inform the design of assistive display technologies that 
+maintain performance under challenging conditions and increase safety in 
+high-risk environments.
+
+© 2026. The Author(s).
+
+DOI: 10.1007/s00221-026-07291-0
+PMCID: PMC13135551
+PMID: 42068368 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declarations. Conflict of interest: The authors 
+did not receive support from any organisation for the submitted work. All 
+authors certify that they have no affiliations with or involvement in any 
+organisation or entity with financial interest or non-financial interest in the 
+subject matter or materials discussed in this manuscript. Ethical approval: This 
+study was approved by the Adelaide University Human Research Ethics Committee 
+(HREC) (approval number 23/08) and conducted in accordance with the National 
+Statement on Ethical Conduct in Human Research (2007, updated 2018) and the 
+Declaration of Helsinki (1964) and its later amendments. All participants 
+provided written informed consent prior to participation. The research involved 
+adult volunteers aged 18–43 years with normal or corrected vision, recruited 
+from the Adelaide University community. Participants were informed of their 
+right to withdraw at any time without penalty.
+
+
+4. J Vis. 2014 Mar 5;14(3):4. doi: 10.1167/14.3.4.
+
+Predictability is necessary for closed-loop visual feedback delay adaptation.
+
+Rohde M(1), van Dam LC, Ernst MO.
+
+Author information:
+(1)Department of Cognitive Neuroscience, University of Bielefeld, Bielefeld, 
+Germany.
+
+In case of delayed visual feedback during visuomotor tasks, like in some 
+sluggish computer games, humans can modulate their behavior to compensate for 
+the delay. However, opinions on the nature of this compensation diverge. Some 
+studies suggest that humans adapt to feedback delays with lasting changes in 
+motor behavior (aftereffects) and a recalibration of time perception. Other 
+studies have shown little or no evidence for such semipermanent recalibration in 
+the temporal domain. We hypothesize that predictability of the reference signal 
+(target to be tracked) is necessary for semipermanent delay adaptation. To test 
+this hypothesis, we trained participants with a 200 ms visual feedback delay in 
+a visually guided manual tracking task, varying the predictability of the 
+reference signal between conditions, but keeping reference motion and feedback 
+delay constant. In Experiment 1, we focused on motor behavior. Only training in 
+the predictable condition brings about all of the adaptive changes and 
+aftereffects expected from delay adaptation. In Experiment 2, we used a 
+synchronization task to investigate perceived simultaneity (perceptuomotor 
+learning). Supporting the hypothesis, participants recalibrated subjective 
+visuomotor simultaneity only when trained in the predictable condition. Such a 
+shift in perceived simultaneity was also observed in Experiment 3, using an 
+interval estimation task. These results show that delay adaptation in motor 
+control can modulate the perceived temporal alignment of vision and 
+kinesthetically sensed movement. The coadaptation of motor prediction and target 
+prediction (reference extrapolation) seems necessary for such genuine delay 
+adaptation. This offers an explanation for divergent results in the literature.
+
+DOI: 10.1167/14.3.4
+PMID: 24599942 [Indexed for MEDLINE]
+
+==============================================================================
+
+1. Front Neural Circuits. 2026 Jul 13;20:1848603. doi:
+10.3389/fncir.2026.1848603.  eCollection 2026.
+
+Predictive interception across speed profiles.
+
+Márquez I(1)(2)(3), Treviño M(1).
+
+Author information:
+(1)Laboratorio De Plasticidad Cortical y Aprendizaje Perceptual, Instituto De 
+Neurociencias, Universidad De Guadalajara, Jalisco, Mexico.
+(2)Departamento De Psicología, Centro Universitario De La Ciénega, Universidad 
+De GuadaLajara, Ocotlán, Mexico.
+(3)Laboratorio De Neurofisiología, Departamento De Bioingeniería Traslacional, 
+Centro Universitario De Ciencias Exactas e Ingenierías, Jalisco, Mexico.
+
+Visuomotor interception requires predicting a moving target's future state to 
+compensate for sensorimotor delays. Predictive control has been studied mainly 
+under constant-speed motion. How observers adapt when the temporal structure of 
+target speed (v T ) varies remains unclear. We examined interception across v T 
+profiles within the same individuals: constant, linear-ramp, and nonlinear 
+(sinusoidal and semicircular). Participants intercepted a moving target while 
+eye and hand movements were recorded; on a subset of trials, visual feedback was 
+removed after an observation period to force reliance on internal estimates. 
+Behavior stayed strongly dependent on v T even under transient visual loss, but 
+this dependence was constrained by how v T evolved over time. Removing feedback 
+increased spatial error and gaze-target distance, with modest effects at 
+constant and linear v T and larger errors at nonlinear v T . Speed matching 
+stayed stable, indicating that local velocity estimates are preserved but 
+insufficient to prevent cumulative spatial error under more complex dynamics. 
+Oculomotor measures were more sensitive than manual control, suggesting 
+partially dissociable effectors. A within-cycle matched-velocity test on the 
+linear-ramp data revealed acceleration-deceleration differences at every 
+velocity bin and metric; the representation is velocity-dominated but not 
+velocity-only, and it exploits higher-order kinematic information at least 
+partially. Exploratory pupillometry showed stable pupil size during full 
+visibility and a reduction late in masked trials, with outcome-dependent 
+modulation independent of gaze position at target disappearance. Predictive 
+interception thus relies on velocity-dominated representations that preserve 
+sensitivity to higher-order kinematic information, enabling robust performance 
+across simple motion profiles but imposing limits when target dynamics become 
+nonlinear.
+
+Copyright © 2026 Márquez and Treviño.
+
+DOI: 10.3389/fncir.2026.1848603
+PMCID: PMC13402429
+PMID: 42516696 [Indexed for MEDLINE]
+
+Conflict of interest statement: The author(s) declared that this work was 
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest. The author MT declared that 
+they were an editorial board member of Frontiers, at the time of submission. 
+This had no impact on the peer review process and the final decision.

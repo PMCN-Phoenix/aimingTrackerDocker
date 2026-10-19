@@ -1,0 +1,94 @@
+{
+  "VT psalmTS Advanced Regen": {
+    "carryover": {
+      "n_pairs": 212,
+      "p_heavy_after_heavy": 41.1,
+      "p_heavy_after_clean": 30.2,
+      "ratio": 1.36,
+      "n_after_heavy": 73,
+      "n_after_clean": 139
+    },
+    "within_run": {
+      "first_half_mean_dmg": 1.599,
+      "second_half_mean_dmg": 1.589,
+      "delta": -0.01
+    },
+    "misses_per_kill": {
+      "kills": 217,
+      "mean": 64.48,
+      "median": 54.0,
+      "p75": 86.0,
+      "p90": 124.0,
+      "zero_miss_pct": 0.0
+    }
+  },
+  "VT psalmTS Novice": {
+    "carryover": {
+      "n_pairs": 394,
+      "p_heavy_after_heavy": 0.0,
+      "p_heavy_after_clean": 2.3,
+      "ratio": 0.0,
+      "n_after_heavy": 9,
+      "n_after_clean": 385
+    },
+    "within_run": {
+      "first_half_mean_dmg": 1.0,
+      "second_half_mean_dmg": 1.008,
+      "delta": 0.008
+    },
+    "misses_per_kill": {
+      "kills": 401,
+      "mean": 33.73,
+      "median": 29.0,
+      "p75": 44.0,
+      "p90": 67.0,
+      "zero_miss_pct": 2.7
+    }
+  },
+  "psalmTS Voltaic LowTTK": {
+    "carryover": {
+      "n_pairs": 322,
+      "p_heavy_after_heavy": 0.0,
+      "p_heavy_after_clean": 0.9,
+      "ratio": 0.0,
+      "n_after_heavy": 3,
+      "n_after_clean": 319
+    },
+    "within_run": {
+      "first_half_mean_dmg": 1.008,
+      "second_half_mean_dmg": 0.992,
+      "delta": -0.016
+    },
+    "misses_per_kill": {
+      "kills": 327,
+      "mean": 46.1,
+      "median": 42.0,
+      "p75": 60.0,
+      "p90": 77.0,
+      "zero_miss_pct": 0.6
+    }
+  },
+  "psalmTS Voltaic Easy": {
+    "carryover": {
+      "n_pairs": 208,
+      "p_heavy_after_heavy": 0.0,
+      "p_heavy_after_clean": 3.5,
+      "ratio": 0.0,
+      "n_after_heavy": 7,
+      "n_after_clean": 201
+    },
+    "within_run": {
+      "first_half_mean_dmg": 1.003,
+      "second_half_mean_dmg": 0.997,
+      "delta": -0.007
+    },
+    "misses_per_kill": {
+      "kills": 212,
+      "mean": 54.64,
+      "median": 50.5,
+      "p75": 74.0,
+      "p90": 95.0,
+      "zero_miss_pct": 0.0
+    }
+  }
+}
