@@ -356,6 +356,55 @@ from(bucket: "{db.bucket}")
     return result
 
 
+def _get_scenarios_history_stats(scenarios: List[str], before_ts: int) -> Dict[str, Dict[str, Any]]:
+    """取场景在 before_ts 之前的历史表现统计（首次基线 baseline、历史最高 PB、总场次）"""
+    from datetime import datetime, timezone
+
+    if not scenarios or not before_ts:
+        return {}
+
+    before_str = datetime.fromtimestamp(before_ts, timezone.utc).strftime('%Y-%m-%dT%H:%M:%SZ')
+    clean_scns = [s.replace('"', '\\"') for s in scenarios if s]
+    if not clean_scns:
+        return {}
+
+    filter_expr = ' or '.join([f'r.scenario == "{s}"' for s in clean_scns])
+    flux = f'''
+from(bucket: "{db.bucket}")
+  |> range(start: -1y, stop: {before_str})
+  |> filter(fn: (r) => r._measurement == "{NEW_SCORE_MEASUREMENT}" and r._field == "score")
+  |> filter(fn: (r) => {filter_expr})
+  |> keep(columns: ["scenario", "_value", "_time"])
+  |> sort(columns: ["_time"])
+'''
+    try:
+        rows = db.query(flux)
+    except Exception as e:
+        print(f"查询历史统计失败: {e}")
+        return {}
+
+    res: Dict[str, Dict[str, Any]] = {}
+    for r in rows:
+        scn = r.get("scenario")
+        if not scn:
+            continue
+        try:
+            val = float(r.get("_value") or 0)
+        except (TypeError, ValueError):
+            continue
+        if scn not in res:
+            res[scn] = {
+                "baseline": round(val, 1),
+                "best": round(val, 1),
+                "count": 1
+            }
+        else:
+            res[scn]["best"] = max(res[scn]["best"], round(val, 1))
+            res[scn]["count"] += 1
+
+    return res
+
+
 def _get_window_scores(start_ts: int, end_ts: int) -> Tuple[Dict[str, Dict[str, Any]], Optional[Dict[str, Any]]]:
     """取时间窗内每个场景的最高分、命中率、轮次衰减统计，以及整体会话时段
 
@@ -535,9 +584,11 @@ def get_daylist_progress_data(daylist: str) -> Dict[str, Any]:
     else:
         rounds_map = get_all_scenarios_rounds(start_ts, end_ts)
 
-    # 5.5 批量取「当日成绩」、「轮次衰减」与「基准下一档线」
+    # 5.5 批量取「当日成绩」、「轮次衰减」、「基准下一档线」与「历史基线/PB」
     today_scores, session_info = _get_window_scores(start_ts, end_ts)
     bench_map = _get_bench_map()
+    scenario_list = [row.get("scenario", "") for row in rows if row.get("scenario")]
+    history_map = _get_scenarios_history_stats(scenario_list, start_ts)
 
     # 6. 组合数据
     result_rows = []
@@ -571,6 +622,7 @@ def get_daylist_progress_data(daylist: str) -> Dict[str, Any]:
             "today_score": today_score_dict,
             "bench": bench_map.get(scn),
             "round_stats": sc_info.get("round_stats"),
+            "history_stats": history_map.get(scn),
         })
 
     return {

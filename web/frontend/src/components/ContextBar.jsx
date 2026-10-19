@@ -6,6 +6,7 @@ import {
   FieldTimeOutlined,
   AppstoreOutlined,
   BarsOutlined,
+  RadarChartOutlined,
 } from '@ant-design/icons'
 
 export default function ContextBar({
@@ -16,6 +17,8 @@ export default function ContextBar({
   session,
   density = 'card',
   onDensityChange,
+  showMultiDim = true,
+  onToggleMultiDim,
   onRefresh,
   onExport,
   isRefreshing,
@@ -107,6 +110,15 @@ export default function ContextBar({
             },
           ]}
         />
+
+        <Button
+          icon={<RadarChartOutlined />}
+          type={showMultiDim ? 'primary' : 'default'}
+          ghost={showMultiDim}
+          onClick={onToggleMultiDim}
+        >
+          {showMultiDim ? '隐藏多维图' : '展开多维图'}
+        </Button>
 
         <Button
           icon={<ReloadOutlined spin={isRefreshing} />}

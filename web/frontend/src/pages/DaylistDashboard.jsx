@@ -6,6 +6,7 @@ import { useDaylists, useDaylistProgress, useDaylistExtras } from '../api/hooks'
 import { createExtraDaylist, deleteExtraDaylist, exportPlaylist } from '../api/client'
 import ContextBar from '../components/ContextBar'
 import SummaryStrip from '../components/SummaryStrip'
+import MultiDimComparisonChart from '../components/MultiDimComparisonChart'
 import DaylistRow from '../components/DaylistRow'
 import ScenarioDrawer from '../components/ScenarioDrawer'
 import ExtraDaylistCard from '../components/ExtraDaylistCard'
@@ -18,6 +19,9 @@ export default function DaylistDashboard() {
   const [density, setDensity] = useState(() => {
     return localStorage.getItem('daylistDensity') || 'card'
   })
+
+  // 多维对比图显隐状态
+  const [showMultiDim, setShowMultiDim] = useState(true)
 
   // 场景抽屉状态
   const [selectedScenario, setSelectedScenario] = useState(null)
@@ -167,6 +171,8 @@ export default function DaylistDashboard() {
         session={progressData?.session}
         density={density}
         onDensityChange={handleDensityChange}
+        showMultiDim={showMultiDim}
+        onToggleMultiDim={() => setShowMultiDim(!showMultiDim)}
         onRefresh={() => {
           refetch()
           refetchExtras()
@@ -185,6 +191,9 @@ export default function DaylistDashboard() {
         <>
           {/* ② 汇总卡条（4格） */}
           <SummaryStrip rows={rows} roundsTotal={progressData?.rounds_total} />
+
+          {/* ②.5 能力多维对比分析图（当前 vs 历史 vs 目标） */}
+          {showMultiDim && <MultiDimComparisonChart rows={rows} />}
 
           {/* ③ 清单主体 */}
           <div style={{ marginBottom: '28px' }}>
