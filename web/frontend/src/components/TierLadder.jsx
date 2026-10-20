@@ -1,9 +1,11 @@
 import React from 'react'
-import { Tooltip } from 'antd'
+import { Tooltip, theme } from 'antd'
 
 const TIER_NAMES = ['Lemming', 'Hare', 'Ermine', 'Puffin', 'Fox', 'Wolf', 'Panther', 'Cheetah', 'Lion']
 
 export default function TierLadder({ targets, achIdx, currentScore, style }) {
+  const { token } = theme.useToken()
+
   if (!targets || !Array.isArray(targets) || targets.length === 0) {
     return null
   }
@@ -26,7 +28,7 @@ export default function TierLadder({ targets, achIdx, currentScore, style }) {
       <div
         style={{
           height: '3px',
-          background: '#e8e8e8',
+          background: token.colorBorderSecondary || '#e8e8e8',
           borderRadius: '2px',
           position: 'relative',
           top: '4px',
@@ -40,15 +42,15 @@ export default function TierLadder({ targets, achIdx, currentScore, style }) {
           const isNext = achIdx !== null && idx === achIdx + 1
           const name = TIER_NAMES[idx] || `T${idx + 1}`
 
-          let dotBg = '#bfbfbf'
+          let dotBg = token.colorFillSecondary || '#bfbfbf'
           let dotBorder = 'none'
           let dotSize = 7
 
           if (isPassed) {
             dotBg = '#52c41a'
           } else if (isNext) {
-            dotBg = '#1677ff'
-            dotBorder = '2px solid #91caff'
+            dotBg = token.colorPrimary || '#1677ff'
+            dotBorder = `2px solid ${token.colorPrimaryBorder || '#91caff'}`
             dotSize = 9
           }
 
@@ -83,7 +85,7 @@ export default function TierLadder({ targets, achIdx, currentScore, style }) {
               height: 0,
               borderLeft: '4px solid transparent',
               borderRight: '4px solid transparent',
-              borderTop: '6px solid #1677ff',
+              borderTop: `6px solid ${token.colorPrimary || '#1677ff'}`,
               pointerEvents: 'auto',
               cursor: 'pointer',
             }}

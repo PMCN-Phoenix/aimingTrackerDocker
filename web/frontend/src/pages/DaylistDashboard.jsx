@@ -1,6 +1,6 @@
 import { useState } from 'react'
 import { useParams, useNavigate } from 'react-router-dom'
-import { Button, message, Modal, Form, Input, InputNumber, Skeleton, Empty, Collapse } from 'antd'
+import { Button, message, Modal, Form, Input, InputNumber, Skeleton, Empty, Collapse, theme } from 'antd'
 import { PlusOutlined, DownOutlined, UpOutlined, FireOutlined } from '@ant-design/icons'
 import { useDaylists, useDaylistProgress, useDaylistExtras } from '../api/hooks'
 import { createExtraDaylist, deleteExtraDaylist, exportPlaylist } from '../api/client'
@@ -10,8 +10,11 @@ import MultiDimComparisonChart from '../components/MultiDimComparisonChart'
 import DaylistRow from '../components/DaylistRow'
 import ScenarioDrawer from '../components/ScenarioDrawer'
 import ExtraDaylistCard from '../components/ExtraDaylistCard'
+import { useAppTheme } from '../theme/ThemeContext'
 
 export default function DaylistDashboard() {
+  const { token } = theme.useToken()
+  const { isDark } = useAppTheme()
   const { daylistId } = useParams()
   const navigate = useNavigate()
 
@@ -198,9 +201,9 @@ export default function DaylistDashboard() {
           {/* ③ 清单主体 */}
           <div style={{ marginBottom: '28px' }}>
             <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: '14px' }}>
-              <h3 style={{ margin: 0, fontSize: '16px', fontWeight: 700, color: '#1f1f1f' }}>
+              <h3 style={{ margin: 0, fontSize: '16px', fontWeight: 700, color: token.colorText }}>
                 📋 今日清单 · {progressData?.label || daylistId}
-                <span style={{ fontSize: '13px', color: '#8c8c8c', fontWeight: 500, marginLeft: '8px' }}>
+                <span style={{ fontSize: '13px', color: token.colorTextSecondary, fontWeight: 500, marginLeft: '8px' }}>
                   ({rows.length} 个训练场景)
                 </span>
               </h3>
@@ -214,12 +217,12 @@ export default function DaylistDashboard() {
                   alignItems: 'center',
                   gap: '12px',
                   padding: '8px 14px',
-                  background: '#fafafa',
+                  background: token.colorFillAlter,
                   borderRadius: '6px 6px 0 0',
-                  border: '1px solid #f0f0f0',
+                  border: `1px solid ${token.colorBorderSecondary}`,
                   borderBottom: 'none',
                   fontSize: '12px',
-                  color: '#8c8c8c',
+                  color: token.colorTextSecondary,
                   fontWeight: 600,
                 }}
               >
@@ -236,7 +239,7 @@ export default function DaylistDashboard() {
 
             {/* 场景列表渲染 */}
             {rows.length > 0 ? (
-              <div style={density === 'compact' ? { border: '1px solid #f0f0f0', borderRadius: '0 0 6px 6px', overflow: 'hidden' } : {}}>
+              <div style={density === 'compact' ? { border: `1px solid ${token.colorBorderSecondary}`, borderRadius: '0 0 6px 6px', overflow: 'hidden' } : {}}>
                 {rows.map((row) => (
                   <DaylistRow
                     key={row.scenario}
@@ -247,7 +250,7 @@ export default function DaylistDashboard() {
                 ))}
               </div>
             ) : (
-              <div style={{ background: '#fff', padding: '40px', borderRadius: '10px', textAlign: 'center' }}>
+              <div style={{ background: token.colorBgContainer, padding: '40px', borderRadius: '10px', textAlign: 'center', border: `1px solid ${token.colorBorderSecondary}` }}>
                 <Empty description="该清单尚未录入场景行，请检查 Viscose基准 游玩清单配置" />
               </div>
             )}
@@ -256,12 +259,13 @@ export default function DaylistDashboard() {
           {/* ④ 加练清单区域（移至主表后，默认折叠） */}
           <div
             style={{
-              background: '#fff',
+              background: token.colorBgContainer,
               borderRadius: '10px',
-              border: '1px solid #f0f0f0',
+              border: `1px solid ${token.colorBorderSecondary}`,
               padding: '16px 20px',
               marginBottom: '28px',
-              boxShadow: '0 1px 3px rgba(0,0,0,0.02)',
+              boxShadow: isDark ? '0 2px 8px rgba(0,0,0,0.2)' : '0 1px 3px rgba(0,0,0,0.02)',
+              transition: 'background 0.3s, border-color 0.3s',
             }}
           >
             <div
@@ -274,11 +278,11 @@ export default function DaylistDashboard() {
               onClick={() => setExtrasOpen(!extrasOpen)}
             >
               <div style={{ display: 'flex', alignItems: 'center', gap: '8px' }}>
-                <FireOutlined style={{ color: '#722ed1', fontSize: '18px' }} />
-                <span style={{ fontSize: '15px', fontWeight: 700, color: '#722ed1' }}>
+                <FireOutlined style={{ color: '#a855f7', fontSize: '18px' }} />
+                <span style={{ fontSize: '15px', fontWeight: 700, color: isDark ? '#c084fc' : '#722ed1' }}>
                   加练清单（{extrasCount} 个）
                 </span>
-                <span style={{ fontSize: '12px', color: '#8c8c8c' }}>
+                <span style={{ fontSize: '12px', color: token.colorTextSecondary }}>
                   {extrasOpen ? '点击收起' : '点击展开查看或新增加练'}
                 </span>
               </div>
@@ -296,13 +300,13 @@ export default function DaylistDashboard() {
                 >
                   新增加练
                 </Button>
-                {extrasOpen ? <UpOutlined style={{ color: '#8c8c8c' }} /> : <DownOutlined style={{ color: '#8c8c8c' }} />}
+                {extrasOpen ? <UpOutlined style={{ color: token.colorTextSecondary }} /> : <DownOutlined style={{ color: token.colorTextSecondary }} />}
               </div>
             </div>
 
             {/* 加练卡片列表 */}
             {extrasOpen && (
-              <div style={{ marginTop: '16px', paddingTop: '16px', borderTop: '1px solid #f0f0f0' }}>
+              <div style={{ marginTop: '16px', paddingTop: '16px', borderTop: `1px solid ${token.colorBorderSecondary}` }}>
                 {extrasLoading ? (
                   <Skeleton active paragraph={{ rows: 2 }} />
                 ) : extrasData && extrasData.length > 0 ? (
@@ -321,10 +325,10 @@ export default function DaylistDashboard() {
                     style={{
                       padding: '30px',
                       textAlign: 'center',
-                      background: '#fafafa',
-                      border: '1px dashed #d9d9d9',
+                      background: isDark ? 'rgba(255,255,255,0.02)' : '#fafafa',
+                      border: `1px dashed ${token.colorBorderSecondary}`,
                       borderRadius: '8px',
-                      color: '#8c8c8c',
+                      color: token.colorTextSecondary,
                       fontSize: '13px',
                     }}
                   >
@@ -336,7 +340,7 @@ export default function DaylistDashboard() {
           </div>
 
           {/* ⑤ 底部状态指示 */}
-          <div style={{ textAlign: 'center', color: '#bfbfbf', fontSize: '12px', marginTop: '16px' }}>
+          <div style={{ textAlign: 'center', color: token.colorTextSecondary, fontSize: '12px', marginTop: '16px' }}>
             数据源来自 InfluxDB · kovaak_score 权威流水 · 自动适配首末轮疲劳衰减度量
           </div>
         </>

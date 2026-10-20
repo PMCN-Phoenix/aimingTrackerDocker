@@ -1,11 +1,12 @@
 import React from 'react'
-import { Drawer, Spin, Descriptions, Tag, Divider, Empty } from 'antd'
+import { Drawer, Spin, Descriptions, Tag, Divider, Empty, theme } from 'antd'
 import { useQuery } from '@tanstack/react-query'
 import { getScenarioPopup } from '../api/client'
 import ReflectionList from './ReflectionList'
 import ReflectionForm from './ReflectionForm'
 import HistoryChart from './HistoryChart'
 import TierLadder from './TierLadder'
+import { useAppTheme } from '../theme/ThemeContext'
 
 export default function ScenarioDrawer({
   scenario,
@@ -17,6 +18,9 @@ export default function ScenarioDrawer({
   rowBench,
   roundStats,
 }) {
+  const { token } = theme.useToken()
+  const { isDark } = useAppTheme()
+
   const { data: popupData, isLoading } = useQuery({
     queryKey: ['scenarioPopup', scenario, startTs, endTs],
     queryFn: () => getScenarioPopup(scenario, startTs, endTs),
@@ -32,7 +36,7 @@ export default function ScenarioDrawer({
     <Drawer
       title={
         <div style={{ display: 'flex', alignItems: 'center', gap: '8px' }}>
-          <span style={{ fontFamily: 'monospace', fontWeight: 700, fontSize: '15px' }}>
+          <span style={{ fontFamily: 'monospace', fontWeight: 700, fontSize: '15px', color: token.colorText }}>
             {scenario}
           </span>
         </div>
@@ -51,12 +55,12 @@ export default function ScenarioDrawer({
         <div>
           {/* 1. 当天成绩 & 轮次衰减 */}
           <div style={{ marginBottom: '20px' }}>
-            <h4 style={{ margin: '0 0 12px 0', color: '#1f1f1f', fontSize: '14px', fontWeight: 600 }}>
+            <h4 style={{ margin: '0 0 12px 0', color: token.colorText, fontSize: '14px', fontWeight: 600 }}>
               🎯 当日训练表现
             </h4>
             <Descriptions size="small" bordered column={2}>
               <Descriptions.Item label="当日最佳">
-                <span style={{ fontWeight: 700, fontSize: '15px', color: '#1677ff', fontFamily: 'monospace' }}>
+                <span style={{ fontWeight: 700, fontSize: '15px', color: token.colorPrimary, fontFamily: 'monospace' }}>
                   {popupData.today_score?.score ?? '—'}
                 </span>
               </Descriptions.Item>
@@ -96,7 +100,7 @@ export default function ScenarioDrawer({
 
           {/* 2. 基准档位与阶梯 */}
           <div style={{ marginBottom: '20px' }}>
-            <h4 style={{ margin: '0 0 12px 0', color: '#1f1f1f', fontSize: '14px', fontWeight: 600 }}>
+            <h4 style={{ margin: '0 0 12px 0', color: token.colorText, fontSize: '14px', fontWeight: 600 }}>
               🏆 基准档位
             </h4>
             {benchData?.nextLine ? (
@@ -120,8 +124,15 @@ export default function ScenarioDrawer({
 
                 {/* 9 档阶梯条 */}
                 {targets && (
-                  <div style={{ background: '#fafafa', padding: '12px', borderRadius: '8px', border: '1px solid #f0f0f0' }}>
-                    <div style={{ fontSize: '12px', color: '#8c8c8c', marginBottom: '4px' }}>
+                  <div
+                    style={{
+                      background: isDark ? 'rgba(255,255,255,0.03)' : '#fafafa',
+                      padding: '12px',
+                      borderRadius: '8px',
+                      border: `1px solid ${token.colorBorderSecondary}`,
+                    }}
+                  >
+                    <div style={{ fontSize: '12px', color: token.colorTextSecondary, marginBottom: '4px' }}>
                       Viscose 阶梯进阶线
                     </div>
                     <TierLadder
@@ -134,7 +145,17 @@ export default function ScenarioDrawer({
                 )}
               </div>
             ) : (
-              <div style={{ padding: '16px', background: '#fafafa', borderRadius: '8px', color: '#8c8c8c', fontSize: '13px', textAlign: 'center' }}>
+              <div
+                style={{
+                  padding: '16px',
+                  background: isDark ? 'rgba(255,255,255,0.03)' : '#fafafa',
+                  borderRadius: '8px',
+                  border: `1px solid ${token.colorBorderSecondary}`,
+                  color: token.colorTextSecondary,
+                  fontSize: '13px',
+                  textAlign: 'center',
+                }}
+              >
                 该场景暂无 Viscose 官方基准档位数据
               </div>
             )}
@@ -144,7 +165,7 @@ export default function ScenarioDrawer({
 
           {/* 3. 历史曲线 (近 30 天) */}
           <div style={{ marginBottom: '20px' }}>
-            <h4 style={{ margin: '0 0 8px 0', color: '#1f1f1f', fontSize: '14px', fontWeight: 600 }}>
+            <h4 style={{ margin: '0 0 8px 0', color: token.colorText, fontSize: '14px', fontWeight: 600 }}>
               📈 历史成绩趋势（最近 30 天）
             </h4>
             <HistoryChart
@@ -158,7 +179,7 @@ export default function ScenarioDrawer({
 
           {/* 4. 场景历史感悟与写入 */}
           <div>
-            <h4 style={{ margin: '0 0 12px 0', color: '#1f1f1f', fontSize: '14px', fontWeight: 600 }}>
+            <h4 style={{ margin: '0 0 12px 0', color: token.colorText, fontSize: '14px', fontWeight: 600 }}>
               💡 训练感悟
             </h4>
             <ReflectionList reflections={popupData.reflections || []} />

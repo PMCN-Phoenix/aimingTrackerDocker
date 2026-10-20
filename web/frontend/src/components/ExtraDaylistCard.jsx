@@ -1,8 +1,9 @@
 import { useState } from 'react'
-import { Card, Button, Dropdown } from 'antd'
+import { Card, Button, Dropdown, theme } from 'antd'
 import { DownOutlined, UpOutlined, MoreOutlined, EditOutlined, ExportOutlined, DeleteOutlined, ClockCircleOutlined } from '@ant-design/icons'
 import DaylistRow from './DaylistRow'
 import dayjs from 'dayjs'
+import { useAppTheme } from '../theme/ThemeContext'
 
 export default function ExtraDaylistCard({
   extraData,
@@ -11,6 +12,8 @@ export default function ExtraDaylistCard({
   onExport,
   onDelete,
 }) {
+  const { token } = theme.useToken()
+  const { isDark } = useAppTheme()
   const [collapsed, setCollapsed] = useState(false)
 
   if (!extraData) return null
@@ -23,7 +26,7 @@ export default function ExtraDaylistCard({
   const allDone = rows.length > 0 && doneRounds >= reqTotal
 
   // 状态颜色
-  const statusColor = allDone ? '#52c41a' : doneRounds > 0 ? '#faad14' : '#8c8c8c'
+  const statusColor = allDone ? '#52c41a' : doneRounds > 0 ? '#faad14' : token.colorTextSecondary
   const statusText = allDone ? '已完成' : doneRounds > 0 ? '进行中' : '未开始'
 
   // 加练日期标签
@@ -43,8 +46,9 @@ export default function ExtraDaylistCard({
       style={{
         marginBottom: '16px',
         borderLeft: '4px solid #b388ff',
-        background: '#fafafa',
+        background: token.colorBgContainer,
         borderRadius: '8px',
+        borderColor: token.colorBorderSecondary,
       }}
       styles={{ body: { padding: 0 } }}
     >
@@ -65,18 +69,18 @@ export default function ExtraDaylistCard({
             <span style={{
               fontSize: '11px',
               fontWeight: 600,
-              color: '#7c3aed',
-              background: '#ede9fe',
+              color: isDark ? '#c084fc' : '#7c3aed',
+              background: isDark ? 'rgba(124, 58, 237, 0.25)' : '#ede9fe',
               padding: '2px 8px',
               borderRadius: '4px',
             }}>
               {extraDateLabel}
             </span>
-            <span style={{ fontWeight: 600, fontSize: '15px', color: '#333' }}>
+            <span style={{ fontWeight: 600, fontSize: '15px', color: token.colorText }}>
               {name || label || daylist}
             </span>
           </div>
-          <div style={{ fontSize: '12px', color: '#888', marginTop: '2px' }}>
+          <div style={{ fontSize: '12px', color: token.colorTextSecondary, marginTop: '2px' }}>
             <ClockCircleOutlined style={{ marginRight: '4px' }} />
             创建于 {created_at ? dayjs.unix(created_at).format('MM-DD HH:mm') : '未知'}
             <span style={{ margin: '0 8px' }}>·</span>
@@ -95,7 +99,7 @@ export default function ExtraDaylistCard({
               onClick={(e) => e.stopPropagation()}
             />
           </Dropdown>
-          {collapsed ? <DownOutlined style={{ color: '#888' }} /> : <UpOutlined style={{ color: '#888' }} />}
+          {collapsed ? <DownOutlined style={{ color: token.colorTextSecondary }} /> : <UpOutlined style={{ color: token.colorTextSecondary }} />}
         </div>
       </div>
 

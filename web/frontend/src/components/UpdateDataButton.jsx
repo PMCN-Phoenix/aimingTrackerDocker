@@ -1,8 +1,9 @@
 import { useState } from 'react'
-import { Button, Modal, message } from 'antd'
+import { Button, Modal, message, theme } from 'antd'
 import { ReloadOutlined } from '@ant-design/icons'
 
 export default function UpdateDataButton() {
+  const { token } = theme.useToken()
   const [loading, setLoading] = useState(false)
   const [modalVisible, setModalVisible] = useState(false)
   const [output, setOutput] = useState('')
@@ -40,7 +41,6 @@ export default function UpdateDataButton() {
         icon={<ReloadOutlined />}
         loading={loading}
         onClick={handleUpdate}
-        style={{ marginRight: '16px' }}
       >
         更新数据
       </Button>
@@ -56,9 +56,11 @@ export default function UpdateDataButton() {
           whiteSpace: 'pre-wrap', 
           maxHeight: '400px', 
           overflow: 'auto',
-          backgroundColor: '#f5f5f5',
+          backgroundColor: token.colorFillAlter,
+          color: token.colorText,
           padding: '16px',
-          borderRadius: '4px'
+          borderRadius: '6px',
+          border: `1px solid ${token.colorBorderSecondary}`,
         }}>
           {output}
         </pre>

@@ -1,5 +1,5 @@
 import React from 'react'
-import { Select, Segmented, Button, Tag, Space, Tooltip } from 'antd'
+import { Select, Segmented, Button, Tag, Space, Tooltip, theme } from 'antd'
 import {
   ReloadOutlined,
   DownloadOutlined,
@@ -24,6 +24,8 @@ export default function ContextBar({
   isRefreshing,
   isExporting,
 }) {
+  const { token } = theme.useToken()
+
   const formatDuration = (min) => {
     if (!min && min !== 0) return ''
     const h = Math.floor(min / 60)
@@ -41,11 +43,12 @@ export default function ContextBar({
         flexWrap: 'wrap',
         gap: '12px',
         padding: '12px 16px',
-        background: '#fff',
+        background: token.colorBgContainer,
         borderRadius: '10px',
-        border: '1px solid #f0f0f0',
+        border: `1px solid ${token.colorBorderSecondary}`,
         marginBottom: '20px',
-        boxShadow: '0 1px 3px rgba(0,0,0,0.02)',
+        boxShadow: '0 1px 4px rgba(0,0,0,0.03)',
+        transition: 'background 0.3s, border-color 0.3s',
       }}
     >
       {/* 左侧：清单下拉 + 执行日期与真实会话时段 */}

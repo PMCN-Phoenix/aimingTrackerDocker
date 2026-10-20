@@ -1,16 +1,19 @@
 import { useState, useMemo } from 'react'
-import { Card, Segmented, Radio, Typography, Empty, Space, Tooltip } from 'antd'
+import { Card, Segmented, Radio, Typography, Empty, Space, Tooltip, theme } from 'antd'
 import ReactECharts from 'echarts-for-react'
 import {
   RadarChartOutlined,
   BarChartOutlined,
-  AimOutlined,
   InfoCircleOutlined,
 } from '@ant-design/icons'
+import { useAppTheme } from '../theme/ThemeContext'
 
 const { Text } = Typography
 
 export default function MultiDimComparisonChart({ rows = [] }) {
+  const { token } = theme.useToken()
+  const { isDark } = useAppTheme()
+
   // 对比历史基准：'baseline' (历史初次) | 'pb' (历史最佳)
   const [historyBaselineType, setHistoryBaselineType] = useState('baseline')
   // 图表形态：'radar' (雷达图) | 'bar' (对比子弹柱状图)
@@ -63,16 +66,6 @@ export default function MultiDimComparisonChart({ rows = [] }) {
     })
   }, [rows, historyBaselineType, filterMode])
 
-  if (chartData.length < 3) {
-    return (
-      <Card style={{ marginBottom: '24px', borderRadius: '10px' }} size="small">
-        <div style={{ textAlign: 'center', padding: '30px', color: '#8c8c8c' }}>
-          <Empty description="当前清单有效场景少于 3 个，无法构成多维能力对比图" />
-        </div>
-      </Card>
-    )
-  }
-
   // ==================== 雷达图配置 ====================
   const radarOption = useMemo(() => {
     const indicators = chartData.map((d) => ({
@@ -85,16 +78,17 @@ export default function MultiDimComparisonChart({ rows = [] }) {
     const historySeriesData = chartData.map((d) => d.histPct)
 
     return {
+      backgroundColor: 'transparent',
       tooltip: {
         trigger: 'item',
         formatter: (params) => {
           return `
             <div style="font-size:12px; line-height:1.6; min-width: 200px;">
-              <b style="color: #262626;">多维能力对比剖析 (以目标能力为 100% 环)</b><br/>
-              ${chartData.map((d, i) => `
-                <div style="margin-top: 6px; padding: 4px 0; border-top: 1px solid #f0f0f0;">
+              <b>多维能力对比剖析 (以目标能力为 100% 环)</b><br/>
+              ${chartData.map((d) => `
+                <div style="margin-top: 6px; padding: 4px 0; border-top: 1px solid ${isDark ? 'rgba(255,255,255,0.1)' : '#f0f0f0'};">
                   <span style="font-weight:600;">${d.scenario}</span><br/>
-                  <span style="color: #722ed1;">🎯 想要达到的能力: ${d.targetScore ?? '无基准(自适应)'} (${d.targetPct}%)</span><br/>
+                  <span style="color: #a855f7;">🎯 想要达到的能力: ${d.targetScore ?? '无基准(自适应)'} (${d.targetPct}%)</span><br/>
                   <span style="color: #52c41a;">🟢 当前训练记录: ${d.currentScore ?? '未打'} (${d.currentPct}%)</span><br/>
                   <span style="color: #fa8c16;">🟠 历史对比记录: ${d.histScore ?? '无记录'} (${d.histPct}%)</span>
                 </div>
@@ -106,7 +100,7 @@ export default function MultiDimComparisonChart({ rows = [] }) {
       legend: {
         data: ['🎯 想要达到的能力 (目标线 100%)', '🟢 当前训练记录 (Today)', '🟠 历史上某一次记录 (History)'],
         top: 0,
-        textStyle: { fontSize: 12 },
+        textStyle: { fontSize: 12, color: token.colorTextSecondary },
       },
       radar: {
         indicator: indicators,
@@ -115,16 +109,16 @@ export default function MultiDimComparisonChart({ rows = [] }) {
         shape: 'polygon',
         splitNumber: 4,
         axisName: {
-          color: '#595959',
+          color: token.colorTextSecondary,
           fontSize: 11,
           fontFamily: 'monospace',
-          formatter: (value) => {
-            return value
-          },
+          formatter: (value) => value,
         },
         splitLine: {
           lineStyle: {
-            color: ['#e8e8e8', '#e8e8e8', '#91caff', '#e8e8e8'],
+            color: isDark
+              ? ['rgba(255,255,255,0.08)', 'rgba(255,255,255,0.08)', token.colorPrimary, 'rgba(255,255,255,0.08)']
+              : ['#e8e8e8', '#e8e8e8', '#91caff', '#e8e8e8'],
             width: 1,
             type: 'solid',
           },
@@ -132,7 +126,9 @@ export default function MultiDimComparisonChart({ rows = [] }) {
         splitArea: {
           show: true,
           areaStyle: {
-            color: ['rgba(250,250,250,0.3)', 'rgba(240,240,240,0.3)'],
+            color: isDark
+              ? ['rgba(255,255,255,0.02)', 'rgba(255,255,255,0.04)']
+              : ['rgba(250,250,250,0.3)', 'rgba(240,240,240,0.3)'],
           },
         },
       },
@@ -147,12 +143,12 @@ export default function MultiDimComparisonChart({ rows = [] }) {
               symbol: 'circle',
               symbolSize: 4,
               lineStyle: {
-                color: '#722ed1',
+                color: '#a855f7',
                 width: 2,
                 type: 'dashed',
               },
-              itemStyle: { color: '#722ed1' },
-              areaStyle: { color: 'rgba(114, 46, 209, 0.05)' },
+              itemStyle: { color: '#a855f7' },
+              areaStyle: { color: 'rgba(168, 85, 247, 0.08)' },
             },
             {
               value: historySeriesData,
@@ -182,7 +178,7 @@ export default function MultiDimComparisonChart({ rows = [] }) {
         },
       ],
     }
-  }, [chartData])
+  }, [chartData, isDark, token])
 
   // ==================== 对比条形图配置 ====================
   const barOption = useMemo(() => {
@@ -192,6 +188,7 @@ export default function MultiDimComparisonChart({ rows = [] }) {
     const histData = chartData.map((d) => d.histScore || 0)
 
     return {
+      backgroundColor: 'transparent',
       tooltip: {
         trigger: 'axis',
         axisPointer: { type: 'shadow' },
@@ -214,6 +211,7 @@ export default function MultiDimComparisonChart({ rows = [] }) {
       legend: {
         data: ['🎯 目标能力 (Target)', '🟢 当前得分 (Current)', '🟠 历史得分 (History)'],
         top: 0,
+        textStyle: { color: token.colorTextSecondary },
       },
       grid: {
         left: '3%',
@@ -225,18 +223,22 @@ export default function MultiDimComparisonChart({ rows = [] }) {
       xAxis: {
         type: 'category',
         data: categories,
-        axisLabel: { rotate: 30, fontSize: 10, interval: 0 },
+        axisLabel: { rotate: 30, fontSize: 10, interval: 0, color: token.colorTextSecondary },
+        axisLine: { lineStyle: { color: token.colorBorderSecondary } },
       },
       yAxis: {
         type: 'value',
         name: '分数',
+        nameTextStyle: { color: token.colorTextSecondary },
+        axisLabel: { color: token.colorTextSecondary },
+        splitLine: { lineStyle: { color: isDark ? 'rgba(255,255,255,0.06)' : '#f0f0f0' } },
       },
       series: [
         {
           name: '🎯 目标能力 (Target)',
           type: 'bar',
           data: targetData,
-          itemStyle: { color: '#722ed1', opacity: 0.6 },
+          itemStyle: { color: '#a855f7', opacity: 0.6 },
         },
         {
           name: '🟠 历史得分 (History)',
@@ -252,7 +254,25 @@ export default function MultiDimComparisonChart({ rows = [] }) {
         },
       ],
     }
-  }, [chartData])
+  }, [chartData, isDark, token])
+
+  if (chartData.length < 3) {
+    return (
+      <Card
+        style={{
+          marginBottom: '24px',
+          borderRadius: '10px',
+          background: token.colorBgContainer,
+          border: `1px solid ${token.colorBorderSecondary}`,
+        }}
+        size="small"
+      >
+        <div style={{ textAlign: 'center', padding: '30px', color: token.colorTextSecondary }}>
+          <Empty description="当前清单有效场景少于 3 个，无法构成多维能力对比图" />
+        </div>
+      </Card>
+    )
+  }
 
   return (
     <Card
@@ -260,8 +280,10 @@ export default function MultiDimComparisonChart({ rows = [] }) {
       style={{
         marginBottom: '24px',
         borderRadius: '10px',
-        border: '1px solid #f0f0f0',
-        boxShadow: '0 2px 6px rgba(0,0,0,0.02)',
+        border: `1px solid ${token.colorBorderSecondary}`,
+        background: token.colorBgContainer,
+        boxShadow: isDark ? '0 2px 8px rgba(0,0,0,0.2)' : '0 2px 6px rgba(0,0,0,0.02)',
+        transition: 'background 0.3s, border-color 0.3s',
       }}
       styles={{ body: { padding: '16px 20px' } }}
     >
@@ -274,17 +296,17 @@ export default function MultiDimComparisonChart({ rows = [] }) {
           flexWrap: 'wrap',
           gap: '12px',
           marginBottom: '16px',
-          borderBottom: '1px solid #f5f5f5',
+          borderBottom: `1px solid ${token.colorBorderSecondary}`,
           paddingBottom: '12px',
         }}
       >
         <div style={{ display: 'flex', alignItems: 'center', gap: '8px' }}>
-          <RadarChartOutlined style={{ color: '#1677ff', fontSize: '18px' }} />
-          <span style={{ fontSize: '15px', fontWeight: 700, color: '#1f1f1f' }}>
+          <RadarChartOutlined style={{ color: token.colorPrimary, fontSize: '18px' }} />
+          <span style={{ fontSize: '15px', fontWeight: 700, color: token.colorText }}>
             能力多维对比图
           </span>
           <Tooltip title="三层对比视角：外层虚线为目标能力（100%基准圆环），绿色为当日实测能力，橙色为历史参照点。凹陷处即为当期最需突破的能力短板。">
-            <InfoCircleOutlined style={{ color: '#8c8c8c', cursor: 'pointer' }} />
+            <InfoCircleOutlined style={{ color: token.colorTextSecondary, cursor: 'pointer' }} />
           </Tooltip>
         </div>
 
@@ -338,16 +360,17 @@ export default function MultiDimComparisonChart({ rows = [] }) {
       <div style={{ width: '100%', height: chartType === 'radar' ? '380px' : '320px' }}>
         <ReactECharts
           option={chartType === 'radar' ? radarOption : barOption}
+          theme={isDark ? 'dark' : undefined}
           style={{ width: '100%', height: '100%' }}
           notMerge={true}
         />
       </div>
 
       {/* 底部解读注脚 */}
-      <div style={{ display: 'flex', justifyContent: 'space-between', fontSize: '12px', color: '#8c8c8c', marginTop: '8px' }}>
+      <div style={{ display: 'flex', justifyContent: 'space-between', fontSize: '12px', color: token.colorTextSecondary, marginTop: '8px' }}>
         <span>🎯 紫色虚线：想要达到的能力线（以官方基准下一档为 100% 环）</span>
         <span>🟢 绿色区域：当前训练记录（凸出=超标，凹陷=短板）</span>
-        <span>🟠 橙色区域：{historyBaselineType === 'baseline' ? '历史初次训练基线' : '历史历史最高成绩(PB)'}</span>
+        <span>🟠 橙色区域：{historyBaselineType === 'baseline' ? '历史初次训练基线' : '历史最高成绩(PB)'}</span>
       </div>
     </Card>
   )
