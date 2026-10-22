@@ -1,0 +1,1014 @@
+
+
+1. Neuron. 2024 Oct 23;112(20):3424-3433.e8. doi: 10.1016/j.neuron.2024.08.012. 
+Epub 2024 Sep 12.
+
+A neural basis of choking under pressure.
+
+Smoulder AL(1), Marino PJ(2), Oby ER(2), Snyder SE(3), Miyata H(4), Pavlovsky 
+NP(5), Bishop WE(6), Yu BM(7), Chase SM(8), Batista AP(9).
+
+Author information:
+(1)Department of Biomedical Engineering, Carnegie Mellon University, Pittsburgh, 
+PA, USA; Center for the Neural Basis of Cognition, Pittsburgh, PA, USA.
+(2)Center for the Neural Basis of Cognition, Pittsburgh, PA, USA; Department of 
+Bioengineering, University of Pittsburgh, Pittsburgh, PA, USA.
+(3)Center for the Neural Basis of Cognition, Pittsburgh, PA, USA; Center for 
+Neuroscience, University of Pittsburgh, Pittsburgh, PA, USA.
+(4)Department of Biomedical Engineering, Carnegie Mellon University, Pittsburgh, 
+PA, USA.
+(5)Department of Bioengineering, University of Pittsburgh, Pittsburgh, PA, USA.
+(6)Janelia Research Campus, Howard Hughes Medical Institute, Ashburn, GA, USA.
+(7)Department of Biomedical Engineering, Carnegie Mellon University, Pittsburgh, 
+PA, USA; Center for the Neural Basis of Cognition, Pittsburgh, PA, USA; 
+Department of Electrical and Computer Engineering, Carnegie Mellon University, 
+Pittsburgh, PA, USA.
+(8)Department of Biomedical Engineering, Carnegie Mellon University, Pittsburgh, 
+PA, USA; Center for the Neural Basis of Cognition, Pittsburgh, PA, USA; 
+Neuroscience Institute, Carnegie Mellon University, Pittsburgh, PA, USA. 
+Electronic address: schase@cmu.edu.
+(9)Center for the Neural Basis of Cognition, Pittsburgh, PA, USA; Department of 
+Bioengineering, University of Pittsburgh, Pittsburgh, PA, USA. Electronic 
+address: aaron.batista@pitt.edu.
+
+Update of
+    bioRxiv. 2023 Apr 16:2023.04.16.537007. doi: 10.1101/2023.04.16.537007.
+
+Incentives tend to drive improvements in performance. But when incentives get 
+too high, we can "choke under pressure" and underperform right when it matters 
+most. What neural processes might lead to choking under pressure? We studied 
+rhesus monkeys performing a challenging reaching task in which they 
+underperformed when an unusually large "jackpot" reward was at stake, and we 
+sought a neural mechanism that might result in that underperformance. We found 
+that increases in reward drive neural activity during movement preparation into, 
+and then past, a zone of optimal performance. We conclude that neural signals of 
+reward and motor preparation interact in the motor cortex (MC) in a manner that 
+can explain why we choke under pressure.
+
+Copyright © 2024. Published by Elsevier Inc.
+
+DOI: 10.1016/j.neuron.2024.08.012
+PMCID: PMC11791831
+PMID: 39270654 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of interests The authors declare no 
+competing interests.
+
+
+2. Front Behav Neurosci. 2015 Feb 10;9:19. doi: 10.3389/fnbeh.2015.00019. 
+eCollection 2015.
+
+Choking under pressure: the neuropsychological mechanisms of incentive-induced 
+performance decrements.
+
+Yu R(1).
+
+Author information:
+(1)Department of Psychology, National University of Singapore Singapore, 
+Singapore ; Center for Life Sciences, Singapore Institute for Neurotechnology 
+(SINAPSE), National University of Singapore Singapore, Singapore.
+
+In contrast to the assumption of efficiency wage models, which state that wage 
+incentives should be positively correlated with productivity, high incentives 
+may produce performance decrements in real life scenarios. Such a "choking under 
+pressure" phenomenon exemplifies how psychological stress can profoundly shape 
+human behavior, for good or for bad. Previous theories suggest that individual 
+choking under pressure because that high pressure may distract individuals' 
+attention away from the task (the distraction account), raise the attention paid 
+to step-by-step skill processes (the explicit monitoring account), or elevate 
+the arousal in general (the over-arousal account). Recent neuroimaging studies 
+have shown that several brain regions implicated in motivation and top-down 
+control of attention also play a key role in stress-induced choking, supporting 
+for the over-arousal and distraction theories of choking. This review aims to 
+identify psychological factors that determine choking and the neural 
+underpinnings of these processes. Insights into how incentives influence 
+performance may aid engineering training regimens and interventions that equip 
+individuals to better handle high-stakes-induced psychological stress, and to 
+thrive under stress.
+
+DOI: 10.3389/fnbeh.2015.00019
+PMCID: PMC4322702
+PMID: 25713517
+
+
+3. Psychol Sport Exerc. 2026 Jul;85:103130. doi:
+10.1016/j.psychsport.2026.103130.  Epub 2026 Apr 6.
+
+Counteracting choking under pressure in sport: A meta-analysis of interventions.
+
+Zeng Z(1), Yan W(1), Mohammadi A(2), Toumi Z(3), Sun H(4), Soh KG(5).
+
+Author information:
+(1)School of Physical Education, Henan University, Kaifeng, China.
+(2)City Graduate School, City University Malaysia, Selangor, Malaysia.
+(3)School of Psychology, Northeast Normal University, Changchun, China.
+(4)School of Physical Education, Henan University, Kaifeng, China. Electronic 
+address: shpsychology@henu.edu.cn.
+(5)Department of Sport Studies, Faculty of Education Studies, Universiti, Putra 
+Malaysia, Serdang, Selangor, Malaysia.
+
+The current review synthesized the effects of counteractive interventions on 
+sport-specific performance under pressure. Based on the PRISMA guidance, 21 
+studies were included and pooled effect estimates were generated by 
+random-effects models (Hedges' g). The interventions primarily involved quiet 
+eye training, pre-performance routines, mindfulness, left-hand contraction, 
+self-talk, and rational emotive behavior therapy. Effects were tested on 
+performance domains (motor accuracy, executional success, target deviation), as 
+well as on task types (sport-specific open- and closed-skill contexts). Motor 
+accuracy (g = 0.660), executional success (g = 0.444) and target deviation 
+(g = 0.301) showed marked improvements. For closed-skill sports, the effects 
+were larger and more consistent (g = 0.455) whilst in open-skill tasks the 
+effects tended to be smaller and less robust after adjustment for publication 
+bias indicating that efficacy may vary by type of task requirement. 
+Counteractive interventions are generally effective in reducing the decline in 
+sport-specific performance under pressure, particularly in closed-skill 
+contexts. More empirical research with ecologically valid designs is required to 
+provide a better understanding of how these interventions operate in ever 
+changing competitive environments.
+
+Copyright © 2026. Published by Elsevier Ltd.
+
+DOI: 10.1016/j.psychsport.2026.103130
+PMID: 41951087 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of competing interest The authors 
+declare that they have no known competing financial interests or personal 
+relationships that could have appeared to influence the work reported in this 
+paper.
+
+
+4. J Exp Psychol Hum Percept Perform. 2024 Feb;50(2):178-192. doi: 
+10.1037/xhp0001188.
+
+Conquering pressure! The effects of mild-anxiety training on motor performance 
+under pressure during early motor learning.
+
+Cabral DAR(1), Parma JO(2), Morris DL(3), Miller MW(3).
+
+Author information:
+(1)Fralin Biomedical Research Institute at Virginia Tech Carilion Strategic 
+Partnership.
+(2)Department of Kinesiology, San Francisco State University.
+(3)School of Kinesiology, Auburn University.
+
+We conceptually replicated the one previous study (see record 2009-13549-001) 
+revealing that individuals who practice a motor skill under psychological 
+pressure (anxiety training-AT) avoid performance deterioration when exposed to 
+higher levels of pressure. We used a >3× larger sample size than the original 
+study and attempted to shed light on mechanisms whereby AT may promote 
+performance under pressure by measuring variables related to three theories of 
+choking under pressure: attentional control theory (ACT), reinvestment theory, 
+and the biopsychosocial model (BPSM) of challenge and threat. Eighty-four 
+participants practiced 300 golf putts over 2 days with mild psychological 
+pressure manipulations (AT group) or no pressure manipulations (control group). 
+On the third day, all participants completed putting posttests with no pressure 
+manipulations, mild pressure manipulations, or high-pressure manipulations. We 
+had participants report their mental effort, movement reinvestment, and 
+perceived challenge/threat after each posttest to investigate ACT, reinvestment 
+theory, and the BPSM of challenge and threat, respectively. Results showed the 
+AT group maintained their performance across posttests, whereas the control 
+group performed worse under pressure. Additionally, results indicated that AT 
+moderated changes in mental effort and movement reinvestment during pressure, 
+although neither mechanism mediated the relationship between AT and performance 
+under pressure. (PsycInfo Database Record (c) 2024 APA, all rights reserved).
+
+DOI: 10.1037/xhp0001188
+PMID: 38376935 [Indexed for MEDLINE]
+
+==============================================================================
+
+1. Psychon Bull Rev. 2019 Feb;26(1):279-290. doi: 10.3758/s13423-018-1486-x.
+
+Limiting motor skill knowledge via incidental training protects against choking 
+under pressure.
+
+Lee TG(1)(2), Acuña DE(3)(4), Kording KP(4)(5)(6), Grafton ST(7).
+
+Author information:
+(1)Department of Psychology, University of Michigan, 530 Church Street, Ann 
+Arbor, MI, 48109, USA. tarazlee@umich.edu.
+(2)Department of Psychological and Brain Sciences, University of California, 
+Santa Barbara, CA, USA. tarazlee@umich.edu.
+(3)School of Information Studies, Syracuse University, Syracuse, NY, USA.
+(4)Rehabilitation Institute of Chicago and Department of Physical Medicine and 
+Rehabilitation, Northwestern University, Evanston, IL, USA.
+(5)Department of Bioengineering, University of Pennsylvania, Philadelphia, PA, 
+USA.
+(6)Department of Neuroscience, Northwestern University, Philadelphia, PA, USA.
+(7)Department of Psychological and Brain Sciences, University of California, 
+Santa Barbara, CA, USA.
+
+The paradoxical harmful effects of motivation and incentives on skilled 
+performance ("choking under pressure") are observed in a wide variety of motor 
+tasks. Two theories of this phenomenon suggest that choking under pressure 
+occurs due to maladaptive attention and top-down control, either through 
+distraction away from the task or interference via an overreliance on controlled 
+processing of a skilled task. A third theory, overmotivation (or overarousal), 
+suggests that under pressure, "instinctive" or Pavlovian approach/withdrawal 
+responses compete with the desired response. Only the two former theories 
+predict that choking under pressure would be less likely to occur if an 
+individual is unaware of the skill over which to assert top-down control. Here 
+we show that only participants who train and perform with premovement cues that 
+allowed for preparatory movement planning choke under pressure due to large 
+monetary incentives, and that this effect is independent of the level of skill 
+attained. We provide evidence that this might be due to increased movement 
+variability under performance pressure. In contrast, participants trained 
+incidentally to reduce explicit skill knowledge do not modulate performance on 
+the basis of incentives and appear immune to choking. These results are most 
+consistent with distraction theories of choking and suggest that training 
+strategies that limit awareness may lead to skills that are more robust under 
+performance pressure.
+
+DOI: 10.3758/s13423-018-1486-x
+PMID: 29777527 [Indexed for MEDLINE]
+
+
+2. PLoS One. 2021 Jan 6;16(1):e0244082. doi: 10.1371/journal.pone.0244082. 
+eCollection 2021.
+
+Factors of choking under pressure in musicians.
+
+Furuya S(1)(2), Ishimaru R(3), Nagata N(3).
+
+Author information:
+(1)Sony Computer Science Laboratories Inc. (Sony CSL), Tokyo, Japan.
+(2)Sophia University, Tokyo, Japan.
+(3)School of Science and Technology, Kwansei Gakuin University, Sanda, Japan.
+
+Under pressure, motor actions, such as those required in public speech, surgery, 
+or musical performance, can be compromised, even when these have been 
+well-trained. The latter is often referred to as 'choking' under pressure. 
+Although multifaceted problems mediate such performance failure in anxiogenic 
+situations, such as compromised motor dexterity and cognitive disruption, the 
+fundamental set of abnormalities characterizing choking under pressure and how 
+these abnormalities are related have not been elucidated. Here, we attempted, 
+first, to classify behavioural, psychological, and physiological abnormalities 
+associated with choking under pressure in musicians and, second, to identify 
+their relationship based on datasets derived from a questionnaire with 258 
+pianist respondents. Explorative factor analysis demonstrated eight functional 
+abnormalities related to the musicians' choking, such as attention to the 
+audience, erroneous motor actions, perceptual confusion, and failure of memory 
+recall, which however did not include exaggerated attention to the performance. 
+This suggests distraction of attention away from skill execution, which may 
+underlie the spoiled performance under pressure. A structural equation analysis 
+further inferred causal relationships among them. For instance, while failure of 
+memory recall was influenced by passive behaviours manifesting under pressure, 
+erroneous motor actions during performance were influenced by feeling rushed and 
+a loss of body control. In addition, some specific personal traits, such as 
+neuroticism, public self-consciousness, and a lack of confidence, were 
+associated with the extent to which pressure brought about these abnormalities. 
+These findings suggest that distinct psycho-behavioural abnormalities and 
+personal traits underlie the detrimental effects of pressure on musical 
+performance.
+
+DOI: 10.1371/journal.pone.0244082
+PMCID: PMC7787383
+PMID: 33406149 [Indexed for MEDLINE]
+
+Conflict of interest statement: RI and NN have no conflicts of financial and/or 
+non-financial interest to declare. Sony Computer Science Laboratories Inc. 
+provided support in the form of salaries for an author (SF), but did not have 
+any additional role in the study design, data collection and analysis, decision 
+to publish, or preparation of the manuscript. This commercial affiliation does 
+not alter our adherence to all PLOS ONE policies on sharing data and materials.
+
+
+3. Front Psychol. 2018 Jan 31;9:25. doi: 10.3389/fpsyg.2018.00025. eCollection 
+2018.
+
+Taekwondo Fighting in Training Does Not Simulate the Affective and Cognitive 
+Demands of Competition: Implications for Behavior and Transfer.
+
+Maloney MA(1)(2), Renshaw I(3), Headrick J(4), Martin DT(5), Farrow D(1)(2).
+
+Author information:
+(1)Institute of Sport, Exercise and Active Living, Victoria University, 
+Melbourne, VIC, Australia.
+(2)Movement Science Department, Australian Institute of Sport, Canberra, ACT, 
+Australia.
+(3)School of Exercise and Nutrition Sciences, Queensland University of 
+Technology, Brisbane, QLD, Australia.
+(4)School of Allied Health Sciences, Griffith University, Gold Coast, QLD, 
+Australia.
+(5)Philadelphia 76ers, Philadelphia, PA, United States.
+
+Enhancing practice design is critical to facilitate transfer of learning. 
+Considerable research has focused on the role of perceptual information in 
+practice simulation, yet has neglected how affect and cognition are shaped by 
+practice environments and whether this influences the fidelity of behavior 
+(Headrick et al., 2015). This study filled this gap by examining the fidelity of 
+individual (cognition, affect, and actions) and interpersonal behavior of 10 
+highly skilled Australian Taekwondo athletes fighting in training compared to 
+competition. Interpersonal behavior was assessed by tracking location 
+coordinates to analyze distance-time coordination tendencies of the 
+fighter-fighter system. Individual actions were assessed through notational 
+analysis and approximate entropy calculations of coordinate data to quantify the 
+(un)predictability of movement displacement. Affect and cognition were assessed 
+with mixed-methods that included perceptual scales measuring anxiety, arousal, 
+and mental effort, and post-fight video-facilitated confrontational interviews 
+to explore how affect and cognitions might differ. Quantitative differences were 
+assessed with mixed models and dependent t-tests. Results reveal that individual 
+and interpersonal behavior differed between training and competition. In 
+training, individuals attacked less (d = 0.81, p < 0.05), initiated attacks from 
+further away (d = -0.20, p < 0.05) and displayed more predictable movement 
+trajectories (d = 0.84, p < 0.05). In training, fighters had lower anxiety (d = 
+-1.26, p < 0.05), arousal (d = -1.07, p < 0.05), and mental effort (d = -0.77, p 
+< 0.05). These results were accompanied by changes in interpersonal behavior, 
+with larger interpersonal distances generated by the fighter-fighter system in 
+training (d = 0.80, p < 0.05). Qualitative data revealed the emergence of 
+cognitions and affect specific to the training environment, such as reductions 
+in pressure, arousal, and mental challenge. Findings highlight the specificity 
+of performer-environment interactions. Fighting in training affords reduced 
+affective and cognitive demands and a decrease in action fidelity compared to 
+competition. In addition to sampling information, representative practice needs 
+to consider modeling the cognitions and affect of competition to enhance 
+transfer.
+
+DOI: 10.3389/fpsyg.2018.00025
+PMCID: PMC5797738
+PMID: 29445348
+
+
+4. Front Psychol. 2024 Aug 14;15:1377122. doi: 10.3389/fpsyg.2024.1377122. 
+eCollection 2024.
+
+The effect of contextual interference on transfer in motor learning - a 
+systematic review and meta-analysis.
+
+Czyż SH(1)(2)(3), Wójcik AM(1), Solarská P(2).
+
+Author information:
+(1)Faculty of Physical Education and Sports, Wroclaw University of Health and 
+Sport Sciences, Wroclaw, Poland.
+(2)Faculty of Sport Studies, Masaryk University, Brno, Czechia.
+(3)Physical Activity, Sport and Recreation (PhASRec), Faculty of Health 
+Sciences, North-West University, Potchefstroom, South Africa.
+
+Since the initial study on contextual interference (CI) in 1966, research has 
+explored how practice schedules impact retention and transfer. Apart from 
+support from scientists and practitioners, the CI effect has also faced 
+skepticism. Therefore, we aimed to review the existing literature on the CI 
+effect and determine how it affects transfer in laboratory and applied settings 
+and in different age groups. We found 1,287 articles in the following databases: 
+Scopus, EBSCO, Web of Science, ScienceDirect, supplemented by the Google Scholar 
+search engine and manual search. Of 300 fully screened articles, 42 studies were 
+included in the systematic review and 34 in the quantitative analysis 
+(meta-analysis). The overall CI effect on transfer in motor learning was medium 
+(SMD = 0.55), favoring random practice. Random practice was favored in the 
+laboratory and applied settings. However, in laboratory studies, the medium 
+effect size was statistically significant (SMD = 0.75), whereas, in applied 
+studies, the effect size was small and statistically non-significant 
+(SMD = 0.34). Age group analysis turned out to be significant only in adults and 
+older adults. In both, the random practice was favored. In adults, the effect 
+was medium (SMD = 0.54), whereas in older adults was large (SMD = 1.28). In 
+young participants, the effect size was negligible (SMD = 0.12). Systematic 
+review registration: https://clinicaltrials.gov/, identifier CRD42021228267.
+
+Copyright © 2024 Czyż, Wójcik and Solarská.
+
+DOI: 10.3389/fpsyg.2024.1377122
+PMCID: PMC11349744
+PMID: 39205981
+
+Conflict of interest statement: The authors declare that the research was 
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.
+
+==============================================================================
+
+1. Sci Rep. 2024 Jul 10;14(1):15974. doi: 10.1038/s41598-024-65753-3.
+
+High contextual interference improves retention in motor learning: systematic 
+review and meta-analysis.
+
+Czyż SH(1)(2)(3), Wójcik AM(4), Solarská P(5), Kiper P(6).
+
+Author information:
+(1)Faculty of Physical Education and Sports, Wrocław University of Health and 
+Sport Sciences, Wrocław, Poland. stachu.czyz@gmail.com.
+(2)Faculty of Sport Studies, Masaryk University, Brno, Czechia. 
+stachu.czyz@gmail.com.
+(3)Physical Activity, Sport and Recreation (PhASRec), North-West University, 
+Potchefstroom, South Africa. stachu.czyz@gmail.com.
+(4)Faculty of Physical Education and Sports, Wrocław University of Health and 
+Sport Sciences, Wrocław, Poland.
+(5)Faculty of Sport Studies, Masaryk University, Brno, Czechia.
+(6)Healthcare Innovation Technology Lab, IRCCS San Camillo Hospital, Venezia, 
+Italy.
+
+The effect of practice schedule on retention and transfer has been studied since 
+the first publication on contextual interference (CI) in 1966. However, strongly 
+advocated by scientists and practitioners, the CI effect also aroused some 
+doubts. Therefore, our objective was to review the existing literature on CI and 
+to determine how it affects retention in motor learning. We found 1255 articles 
+in the following databases: Scopus, EBSCO, Web of Science, PsycINFO, 
+ScienceDirect, supplemented by the Google Scholar search engine. We screened 
+full texts of 294 studies, of which 54 were included in the meta-analysis. In 
+the meta-analyses, two different models were applied, i.e., a three-level mixed 
+model and random-effects model with averaged effect sizes from single studies. 
+According to both analyses, high CI has a medium beneficial effect on the whole 
+population. These effects were statistically significant. We found that the 
+random practice schedule in laboratory settings effectively improved motor 
+skills retention. On the contrary, in the applied setting, the beneficial effect 
+of random practice on the retention was almost negligible. The random schedule 
+was more beneficial for retention in older adults (large effect size) and in 
+adults (medium effect size). In young participants, the pooled effect size was 
+negligible and statically insignificant.
+
+© 2024. The Author(s).
+
+DOI: 10.1038/s41598-024-65753-3
+PMCID: PMC11237090
+PMID: 38987617 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing interests.
+
+
+2. Eur J Neurosci. 2024 Jan;59(1):54-68. doi: 10.1111/ejn.16194. Epub 2023 Dec
+11.
+
+Relationship between skill training and skill transfer through the example of 
+bimanual motor learning.
+
+Schoenfeld MJ(1)(2), Thom J(3), Williams J(4), Stagg CJ(1)(2), Zich C(1)(2)(5).
+
+Author information:
+(1)Wellcome Centre for Integrative Neuroimaging, FMRIB, Nuffield Department of 
+Clinical Neurosciences, University of Oxford, UK.
+(2)Medical Research Council Brain Network Dynamics Unit, Nuffield Department of 
+Clinical Neuroscience, University of Oxford, UK.
+(3)Department of Experimental Psychology, University of Oxford, UK.
+(4)Medical School, University of Oxford, UK.
+(5)Department for Clinical and Movement Neurosciences, UCL Queen Square 
+Institute of Neurology, London, UK.
+
+Skill training aims to improve the performance of the task at hand and aims to 
+transfer the acquired skill to related tasks. Both skill training and skill 
+transfer are part of our everyday lives, and essential for survival, and their 
+importance is reflected in years of research. Despite these enormous efforts, 
+however, the complex relationship between skill training and skill transfer is 
+not yet portrayed completely. Building upon two theories, we probed this 
+relationship through the example of bimanual learning with a large 
+cross-sectional design (N = 450) using an online framework. We designed five 
+training tasks which differed in the variance of the training material (schema 
+theory) and three transfer tasks differing in their similarity to the training 
+task (identical elements theory). Theoretically, the five training tasks and the 
+three transfer tasks varied approximately linearly from each other. Empirical 
+data, however, suggested merely the presence of three statistically different 
+training tasks and two significantly different transfer tasks, indicating a 
+nonlinear relationship. Against our expectation, Bayesian statistics suggested 
+that the type of skill training was not related to the type of skill transfer. 
+However, the amount of skill training was positively related to the amount of 
+skill transfer. Together, we showed that motor learning studies can be conducted 
+online. Further, our results shed light on the complex relationship between 
+skill training and skill transfer. Understanding this relationship has 
+wide-ranging practical implications for the general population, particularly for 
+musicians, athletes and patients recovering from injury.
+
+© 2023 The Authors. European Journal of Neuroscience published by Federation of 
+European Neuroscience Societies and John Wiley & Sons Ltd.
+
+DOI: 10.1111/ejn.16194
+PMCID: PMC7615689
+PMID: 38081160 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that the research was 
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.
+
+
+3. Front Syst Neurosci. 2014 Apr 8;8:54. doi: 10.3389/fnsys.2014.00054.
+eCollection  2014.
+
+Are videogame training gains specific or general?
+
+Oei AC(1), Patterson MD(1).
+
+Author information:
+(1)Division of Psychology, School of Humanities and Social Sciences, Nanyang 
+Technological University Singapore, Singapore.
+
+Many recent studies using healthy adults document enhancements in perception and 
+cognition from playing commercial action videogames (AVGs). Playing action games 
+(e.g., Call of Duty, Medal of Honor) is associated with improved bottom-up 
+lower-level information processing skills like visual-perceptual and attentional 
+processes. One proposal states a general improvement in the ability to interpret 
+and gather statistical information to predict future actions which then leads to 
+better performance across different perceptual/attentional tasks. Another 
+proposal claims all the tasks are separately trained in the AVGs because the 
+AVGs and laboratory tasks contain similar demands. We review studies of action 
+and non-AVGs to show support for the latter proposal. To explain transfer in 
+AVGs, we argue that the perceptual and attention tasks share common demands with 
+the trained videogames (e.g., multiple object tracking (MOT), rapid attentional 
+switches, and peripheral vision). In non-AVGs, several studies also demonstrate 
+specific, limited transfer. One instance of specific transfer is the specific 
+enhancement to mental rotation after training in games with a spatial emphasis 
+(e.g., Tetris). In contrast, the evidence for transfer is equivocal where the 
+game and task do not share common demands (e.g., executive functioning). Thus, 
+the "common demands" hypothesis of transfer not only characterizes transfer 
+effects in AVGs, but also non-action games. Furthermore, such a theory provides 
+specific predictions, which can help in the selection of games to train human 
+cognition as well as in the design of videogames purposed for human cognitive 
+and perceptual enhancement. Finally this hypothesis is consistent with the 
+cognitive training literature where most post-training gains are for tasks 
+similar to the training rather than general, non-specific improvements.
+
+DOI: 10.3389/fnsys.2014.00054
+PMCID: PMC3986546
+PMID: 24782722
+
+
+4. Psychol Sport Exerc. 2025 Jan;76:102770. doi:
+10.1016/j.psychsport.2024.102770.  Epub 2024 Oct 18.
+
+No transfer of 3D-Multiple Object Tracking training on game performance in 
+soccer: A follow-up study.
+
+Romeas T(1), Goujat M(2), Faubert J(3), Labbé D(2).
+
+Author information:
+(1)École d'optométrie, Université de Montréal, Montréal, Québec, Canada; 
+Institut national du sport du Québec, Montréal, Québec, Canada. Electronic 
+address: thomas.romeas@umontreal.ca.
+(2)École de technologie supérieure, Montréal, Québec, Canada.
+(3)École d'optométrie, Université de Montréal, Montréal, Québec, Canada.
+
+The impact of domain-general cognitive 'brain' training on improving sports 
+performance is highly debated. This study sought to follow-up on research that 
+showcased the benefits of perceptual-cognitive 3D-Multiple Object Tracking 
+(3D-MOT) training in enhancing the on-field performance of soccer players. 
+Additionally, it explored the correlation between athletes' cognitive 
+performance and early career success. Sixty-two males from a professional soccer 
+academy were randomly divided into a dual-task 3D-MOT training group (n = 30) 
+and a control group (n = 32). Participants underwent a 3D-MOT test, a cognitive 
+test of attention, and small-sided games at pre- and post-training. 
+Pre-post-test performances were compared using ANCOVAs. A Chi-squared test 
+evaluated the association between the training regimen and early career success. 
+A Spearman test assessed the correlation between performance on the 3D-MOT, 
+attention test, and early career success. The dual-task 3D-MOT trained group 
+significantly improved its performance on 3D-MOT compared to the control group 
+(p < 0.001). However, no significant pre-post-test differences were observed 
+between the groups in the near-transfer cognitive test and on-field performance 
+(ps > 0.05). There were no associations between the athletes' early career 
+success and the training regimen, and no associations between cognitive test 
+performances and early career success (ps > 0.05). This follow-up study failed 
+to replicate previous findings with dual-task 3D-MOT training unable to produce 
+near or far transfer on soccer performance. In addition, cognitive performance 
+was not related to early career success in this study. The value of cognitive 
+screening and training in sport is discussed.
+
+Copyright © 2024 The Authors. Published by Elsevier Ltd.. All rights reserved.
+
+DOI: 10.1016/j.psychsport.2024.102770
+PMID: 39427852 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of competing interest The authors 
+declare the following financial interests/personal relationships which may be 
+considered as potential competing interests: Jocelyn Faubert is a co-founder of 
+CogniSens Athletics Inc. who produces the commercial version of the 3D-MOT 
+(NeuroTracker™) used in this study. In this capacity, he holds shares in the 
+company. The other authors have no potential conflicts of interest to declare.
+
+==============================================================================
+
+1. J Mot Behav. 2013;45(3):231-8. doi: 10.1080/00222895.2013.784240. Epub 2013
+Apr  23.
+
+Task difficulty and the time scales of warm-up and motor learning.
+
+Joseph ME(1), King AC, Newell KM.
+
+Author information:
+(1)Department of Kinesiology, The Pennsylvania State University, University 
+Park, PA 16802, USA.
+
+The authors investigated the influence of task difficulty on warm-up decrement 
+and learning across practice sessions. Three groups of participants practiced a 
+star-tracing task over 3 consecutive days with different levels (e.g., easy, 
+medium, hard) of task difficulty. The performance data were modeled with a 2 
+time scale function that represented the transient, fast time scale process of 
+warm-up decrement superimposed with the persistent, slow time scale process of 
+learning. Movement time decreased as a function of practice with the most 
+difficult condition exhibiting the greatest reduction though still the longest 
+movement time. The 2 time scale model provided a better fit to the data than an 
+exponential or power law function and showed that the 3 difficulty conditions 
+exhibited similar rates of change for the respective slow (i.e., learning) and 
+fast (i.e., warm-up decrement) time scale processes that varied by an order of 
+magnitude. Task difficulty was inversely related to the initial level of warm-up 
+decrement but not the rate of performance recovery early in a practice session. 
+The findings support the postulation that there is a persistent learned 
+component to the initial conditions in subsequent practice sessions but that 
+there is a common time scale of accommodating the transient process of warm-up 
+decrement.
+
+DOI: 10.1080/00222895.2013.784240
+PMID: 23611248 [Indexed for MEDLINE]
+
+
+2. J Sports Sci. 1995 Jun;13(3):247-56. doi: 10.1080/02640419508732234.
+
+Examining warm-up decrement as a function of interpolated open and closed motor 
+tasks: implications for practice strategies.
+
+Anshel MH(1).
+
+Author information:
+(1)Department of Psychology, University of Wollongong, New South Wales, 
+Australia.
+
+Warm-up decrement (WUD) is a loss in the level of physical performance following 
+rest and prior to subsequent trials. The activity-set hypothesis is one of 
+several explanations for this phenomenon. The purposes of this study were to 
+field test the efficacy of the activity-set hypothesis and explore the 
+effectiveness of performing closed and open interpolated tasks in reducing WUD. 
+The criterion task was hitting tennis ground strokes in response to a ball 
+tossing machine, an open skill. Elite players (n = 20) from a tennis club in New 
+South Wales, Australia, practised either a closed or open task, or rested, prior 
+to resuming the first post-rest trial, using a repeated-measures design. The 
+results yielded partial support of the activity-set hypothesis. Although the 
+closed interpolated task markedly reduced WUD, open skill practice solicited 
+better post-rest performance. Warm-up decrement was clearly evident under the 
+rest condition. Furthermore, post-rest scores were statistically superior for 
+the open skill condition as compared to practising a closed interpolated task, 
+at least for the first two post-rest trials (trials 21 and 22). The implications 
+for these results in reducing WUD are explored within the frameworks of task 
+classification systems and schema theory.
+
+DOI: 10.1080/02640419508732234
+PMID: 7563292 [Indexed for MEDLINE]
+
+
+3. Hum Mov Sci. 2018 Jun;59:153-169. doi: 10.1016/j.humov.2018.04.004. Epub 2018 
+Apr 21.
+
+Unifying practice schedules in the timescales of motor learning and performance.
+
+Verhoeven FM(1), Newell KM(2).
+
+Author information:
+(1)Department of Kinesiology, University of Georgia, United States. Electronic 
+address: verhoeven@uga.edu.
+(2)Department of Kinesiology, University of Georgia, United States.
+
+In this article, we elaborate from a multiple time scales model of motor 
+learning to examine the independent and integrated effects of massed and 
+distributed practice schedules within- and between-sessions on the persistent 
+(learning) and transient (warm-up, fatigue) processes of performance change. The 
+timescales framework reveals the influence of practice distribution on four 
+learning-related processes: the persistent processes of learning and forgetting, 
+and the transient processes of warm-up decrement and fatigue. The superposition 
+of the different processes of practice leads to a unified set of effects for 
+massed and distributed practice within- and between-sessions in learning motor 
+tasks. This analysis of the interaction between the duration of the interval of 
+practice trials or sessions and parameters of the introduced time scale model 
+captures the unified influence of the between trial and session scheduling of 
+practice on learning and performance. It provides a starting point for new 
+theoretically based hypotheses, and the scheduling of practice that minimizes 
+the negative effects of warm-up decrement, fatigue and forgetting while 
+exploiting the positive effects of learning and retention.
+
+Copyright © 2018 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.humov.2018.04.004
+PMID: 29684760 [Indexed for MEDLINE]
+
+
+4. J Mot Behav. 2007 Sep;39(5):381-94. doi: 10.3200/JMBR.39.5.381-394.
+
+Performing under pressure: the effects of physiological arousal, cognitive 
+anxiety, and gaze control in biathlon.
+
+Vickers JN(1), Williams AM.
+
+Author information:
+(1)Faculty of Kinesiology, University of Calgary, Canada. vickers@ucalgary.ca
+
+The authors provide evidence that choking under pressure is associated with 
+changes in visual attention. Ten elite biathlon shooters were tested under 
+separate low-pressure (LP) and high-pressure (HP) conditions after exercising on 
+a cycle ergometer at individually prescribed power output (PO) levels of 55%, 
+70%, 85%, and 100% of their maximum oxygen uptake. The authors determined 
+difference scores by subtracting each athlete's score in the LP condition from 
+his or her score in the HP condition for heart rate (d-HR), rate of perceived 
+exertion (d-RPE), cognitive anxiety (d-CA), and cognitive worry (d-CW), and 
+final fixation on the target or quiet eye gaze (d-QE). Using regression 
+analysis, the authors determined predictors of accuracy for each HP PO level. At 
+PO 55%, the authors found 3 predictors (d-HR, d-RPE, d-QE) that accounted for 
+.62 of the adjusted R2 variance. Accuracy was higher when d-QE was lower and 
+d-RPE and d-HR were higher than the values found in the LP condition. At PO 
+100%, however, an increase in d-QE and d-RPE accounted for .58 of the adjusted 
+R2 variance. Accuracy was dependent on an increase in external focus (positive 
+d-QE) independently of heart rate. At the highest PO level, directing visual 
+attention externally to critical task information appeared to insulate the 
+athletes from choking under HP.
+
+DOI: 10.3200/JMBR.39.5.381-394
+PMID: 17827115 [Indexed for MEDLINE]
+
+==============================================================================
+
+1. Hum Mov Sci. 2012 Feb;31(1):101-17. doi: 10.1016/j.humov.2011.04.004. Epub
+2011  Jul 31.
+
+Performing under pressure: gaze control, decision making and shooting 
+performance of elite and rookie police officers.
+
+Vickers JN(1), Lewinski W.
+
+Author information:
+(1)Faculty of Kinesiology, University of Calgary, Canada. vickers@ucalgary.ca
+
+Gaze of elite (E) and rookie (R) officers were analyzed as they faced a 
+potentially lethal encounter that required use of a handgun, or inhibition of 
+the shot when a cell phone was drawn. The E shot more accurately than the R (E 
+74.60%; R 53.80%) and made fewer decisions errors in the cell condition when 
+18.50% of E and 61.50% of R fired at the assailant. E and R did not differ in 
+duration of the draw/aim/fire phases, but the R's motor onsets were later, 
+during the final second compared to the E's final 2.5 s. Across the final six 
+fixations the E increased the percent of fixations on the assailant's 
+weapon/cell to 71% and to 86% on hits, compared to a high of 34% for the R. 
+Before firing, the R made a rapid saccade to their own weapon on 84% of trials 
+leading to a failure to fixate the assailant on 50% of trials as they fired. 
+Compared to the R, the E had a longer quiet eye duration on the assailant's 
+weapon/cell prior to firing. The results provide new insights into officer 
+weapon focus, firearms training and the role of optimal gaze control when under 
+extreme pressure.
+
+Copyright © 2011 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.humov.2011.04.004
+PMID: 21807433 [Indexed for MEDLINE]
+
+
+2. J Sports Sci. 2008 Jan 15;26(2):207-15. doi: 10.1080/02640410701446919.
+
+State anxiety and visual attention: the role of the quiet eye period in aiming 
+to a far target.
+
+Behan M(1), Wilson M.
+
+Author information:
+(1)Department of Exercise and Sport Science, Manchester Metropolitan University, 
+Manchester, UK.
+
+In this study, we examined how individuals controlled their gaze behaviour 
+during execution of a far aiming task and whether the functional relationship 
+between perception and action was disrupted by increased anxiety. Twenty 
+participants were trained on a simulated archery task, using a joystick to aim 
+and shoot arrows at the target, and then competed in two counterbalanced 
+experimental conditions designed to manipulate the anxiety they experienced. The 
+specific gaze behaviour measured was the duration of the quiet eye period. As 
+predicted, accuracy was affected by the duration of the quiet eye period, with 
+longer quiet eye periods being associated with better performance. The 
+manipulation of anxiety resulted in reductions in the duration of quiet eye. Our 
+results show that the quiet eye period is sensitive to increases in anxiety and 
+may be a useful index of the efficiency of visual orientation in aiming tasks.
+
+DOI: 10.1080/02640410701446919
+PMID: 17926174 [Indexed for MEDLINE]
+
+
+3. Exp Brain Res. 2009 Nov;199(2):117-26. doi: 10.1007/s00221-009-1979-y. Epub
+2009  Aug 22.
+
+Music performance anxiety in skilled pianists: effects of social-evaluative 
+performance situation on subjective, autonomic, and electromyographic reactions.
+
+Yoshie M(1), Kudo K, Murakoshi T, Ohtsuki T.
+
+Author information:
+(1)Department of Life Sciences, Graduate School of Arts and Sciences, The 
+University of Tokyo, Meguro-ku, Tokyo, 153-8902, Japan. 
+cc087717@mail.ecc.u-tokyo.ac.jp
+
+Music performance anxiety (MPA), or stage fright in music performance, is a 
+serious problem for many musicians, because performance impairment accompanied 
+by MPA can threaten their career. The present study sought to clarify on how a 
+social-evaluative performance situation affects subjective, autonomic, and motor 
+stress responses in pianists. Measurements of subjective state anxiety, heart 
+rate (HR), sweat rate (SR), and electromyographic (EMG) activity of upper 
+extremity muscles were obtained while 18 skilled pianists performed a solo piano 
+piece(s) of their choice under stressful (competition) and non-stressful 
+(rehearsal) conditions. Participants reported greater anxiety in the competition 
+condition, which confirmed the effectiveness of stress manipulation. The HR and 
+SR considerably increased from the rehearsal to competition condition reflecting 
+the activation of sympathetic division of the autonomic nervous system. 
+Furthermore, participants showed higher levels of the EMG magnitude of proximal 
+muscles (biceps brachii and upper trapezius) and the co-contraction of 
+antagonistic muscles in the forearm (extensor digitorum communis and flexor 
+digitorum superficialis) in the competition condition. Although these responses 
+can be interpreted as integral components of an adaptive biological system that 
+creates a state of motor readiness in an unstable or unpredictable environment, 
+they can adversely influence pianists by disrupting their fine motor control on 
+stage and by increasing the risk of playing-related musculoskeletal disorders.
+
+DOI: 10.1007/s00221-009-1979-y
+PMID: 19701628 [Indexed for MEDLINE]
+
+
+4. Appl Psychophysiol Biofeedback. 2002 Mar;27(1):29-44. doi: 
+10.1023/a:1014524521152.
+
+Muscle tension and physiologic hyperarousal, performance, and state affectivity: 
+assessing the independence of effects in frequent headache and depression.
+
+Hovanitz CA(1), Filippides M, Lindsay D, Scheff J.
+
+Author information:
+(1)Department of Psychology (ML #376), University of Cincinnati, Cincinnati, 
+Ohio 45221, USA. christine.hovanitz@uc.edu
+
+Anxiety, depression, and frequent headache are closely associated. The 
+comorbidity may be due to selection bias (such as inherent in treatment 
+seeking), shared environmental or genetic factors, or a common underlying 
+process. In this study, comorbidity is considered an alternative explanation for 
+correlates of frequent headache found in earlier work. This study addressed 
+whether EMG, peripheral temperature, performance measures, and measures of 
+affect were independently attributable to depression or headache proneness, 
+after control of trait anxiety. Headache state was evaluated in parallel 
+analysis. Seventy-two participants, comprising four groups, were tested: 
+depressed/headache-prone depressed/headache-resistant, not 
+depressed/headache-prone, and not depressed/headache-resistant. Participants 
+completed a performance task that allowed assessment of ambition and performance 
+accuracy while measures of affect, headache state, EMG, and peripheral 
+temperature were obtained. Headache proneness, independently of depression and 
+trait anxiety, was related to heightened EMG. Depression was related to EMG, 
+ambition, and performance accuracy independently of headache proneness and trait 
+anxiety. Headache state was associated only with negative affect, independently 
+of depression and anxiety. These results suggest that headache states during 
+assessment, as well as comorbid depression and anxiety, are not primarily 
+responsible for the heightened EMG found in headache-prone individuals. Negative 
+affect often reported in the headache prone, however, may be due to concommitant 
+anxiety. Other analyses address a variety of issues surrounding distinctions 
+among these variables raised in previous research.
+
+DOI: 10.1023/a:1014524521152
+PMID: 12001884 [Indexed for MEDLINE]
+
+==============================================================================
+
+1. Sci Rep. 2025 Nov 27;15(1):45465. doi: 10.1038/s41598-025-29230-9.
+
+The inverted-U relationship between stress and performance in elite shooting.
+
+Zhao Y(1), Zhang H(2).
+
+Author information:
+(1)School of Physical Education and Health, Wenzhou University, Wenzhou, China.
+(2)Department of Sport Science, College of Education, Zhejiang University, 866 
+Yuhangtang Road, Hangzhou, 310058, Zhejiang, China. zhang_hui@zju.edu.cn.
+
+This study presents a novel approach to understanding the impact of stress on 
+shooting performance. We utilized the unique qualifying system of shooting 
+competitions, dividing the 60 consecutive shooting results into six sets of 10 
+shots each. By comparing the differences between these sets, we could examine 
+the influence of stress on performance. Our findings reveal an inverted U-shaped 
+relationship between the athletes' different game stages and shooting 
+performance, with the best performance observed in the middle stage of the game. 
+The game's start (the second set compared to the third set) and end stages (the 
+sixth set compared to the fifth set) are associated with similar performance 
+declines. Based on the assumption that the three different psychological 
+variables stress, arousal, and somatic anxiety will increase with the number of 
+sets, we first provide a sporting example of the nonmonotonic relationship 
+between the three psychological variables mentioned above and performance. To 
+illustrate the inverted-U hypothesis, we reasonably speculate that an athlete 
+achieves optimal performance at an intermediate level of arousal or stress or 
+somatic anxiety. The low and high levels of arousal or stress or somatic anxiety 
+lead to poor performance. These results provide compelling evidence for the 
+inverted-U relationship between arousal, stress, somatic anxiety and 
+performance, underscoring the significance of the inverted-U hypothesis in 
+sports psychology.
+
+© 2025. The Author(s).
+
+DOI: 10.1038/s41598-025-29230-9
+PMCID: PMC12749011
+PMID: 41309875 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declarations. Competing interests: The authors 
+declare no competing interests.
+
+
+2. Clin Pract Epidemiol Ment Health. 2025 May 22;21:e17450179293069. doi: 
+10.2174/0117450179293069250507074009. eCollection 2025.
+
+Effects of a Playoff Match on Competitive Anxiety and Autonomic Regulation in 
+Professional esports Players.
+
+Machado S(1)(2)(3), Sant'Ana LO(4), Cid L(5)(6)(7), Teixeira DS(8)(9), Nardi 
+AE(1), Travassos B(2)(5)(10), Monteiro D(5)(7)(11).
+
+Author information:
+(1)Laboratory of Panic and Respiration, Institute of Psychiatry (IPUB), Federal 
+University of Rio de Janeiro (UFRJ), Rio de Janeiro, Brazil.
+(2)Department of Sports Science, University of Beira Interior, 6201-001 Covilhã, 
+Portugal.
+(3)Laboratory of Physical Activity Neuroscience, Neurodiversity Institute, 
+Queimados 26325-020, Brazil.
+(4)Postgraduate Program in Physical Education, Federal University of Juiz de 
+Fora, Juiz de Fora, Brazil.
+(5)Research Center in Sport, Health and Human Development (CIDESD), 5000-558 
+Vila Real, Portugal.
+(6)Sport Sciences School of Rio Maior, Polytechnic of Santarém (ESDRM-IP 
+Santarém), Santarém, Portugal.
+(7)Life Quality Research Centre (CIEQV), 2400-901 Leiria, Portugal.
+(8)Faculty of Physical Education and Sport, Lusófona University, 1749-024 
+Lisbon, Portugal.
+(9)Research Center in Sport, Physical Education, and Exercise and Health 
+(CIDEFES), (CIDEFES), 1749-024 Lisbon, Portugal.
+(10)Portugal Football School, Portuguese Football Federation, 1495-433 Cruz 
+Quebrada, Portugal.
+(11)ESECS, Polytechnic of Leiria, 2411-901 Leiria, Portugal.
+
+INTRODUCTION: A competition is considered a stressful situation since it causes 
+physiological and emotional changes in the responses of athletes and 
+consequently influences their performance. The aim of our study was to 
+investigate competitive anxiety and heart rate variability (HRV) in professional 
+eSports athletes, comparing the responses before and after matches based on 
+whether they won or lost. We hypothesized that victorious players would display 
+more favorable autonomic and anxiety-related responses after the matches 
+compared to those who were defeated.
+METHODS: We recruited fifty male esports players from 10 different Brazilian 
+teams and carried out the experiment across two sessions. Initially, 24 hours 
+before the game, players signed the informed consent form, and sample 
+characterization, along with player familiarization with anxiety and HRV, was 
+performed. Following this, the players recorded their anxiety levels and HRV at 
+rest for 10 minutes, both 60 and 30 minutes prior to the game (baseline time 
+points), as well as 10 minutes after the conclusion of the game.
+RESULTS: Regarding anxiety, our results demonstrated that the victory group (VG) 
+exhibited significantly lower scores for both cognitive and somatic anxiety in 
+the post-game time point, coupled with increased scores for self-confidence when 
+compared to the baseline (BL) and pre-game time points. In opposition, the 
+defeated group (DG) displayed significantly elevated scores for cognitive and 
+somatic anxiety during the post-game time point, accompanied by decreased 
+self-confidence scores compared to the baseline and pre-game time points. 
+Regarding heart rate variability (HRV), the victory group (VG) demonstrated a 
+significant increase in SDNN, rMSSD, and HF measures, coupled with a significant 
+decrease in the LF/HF ratio. Conversely, the defeated group (DG) exhibited a 
+significant decrease in SDNN and rMSSD, along with a significant increase in the 
+LF/HF ratio.
+DISCUSSION: Our results revealed that VG exhibited better HRV responses, 
+indicating greater parasympathetic activation. VG also showed lower levels of 
+cognitive and somatic anxiety and higher levels of self-confidence in the 
+post-game time. In contrast, DG demonstrated worse HRV responses, indicating 
+greater sympathetic activation, along with higher levels of cognitive and 
+somatic anxiety and lower levels of self-confidence in the same post-game 
+period.
+CONCLUSION: In summary, the VG exhibited superior HRV responses in conjunction 
+with lower levels of anxiety compared to the DG.
+
+© 2025 The Author(s). Published by Bentham Open.
+
+DOI: 10.2174/0117450179293069250507074009
+PMCID: PMC12481587
+PMID: 41035706
+
+Conflict of interest statement: Drs. Antonio Nardi and Sergio Machado are 
+editorial advisory board members of the journal Clinical Practice & Epidemiology 
+in Mental Health.
+
+
+3. Anxiety Stress Coping. 2025 Nov;38(6):641-657. doi: 
+10.1080/10615806.2025.2502792. Epub 2025 May 9.
+
+Enhancing pressurized esports performance: a pilot study on the combined effects 
+of transcranial direct current stimulation and arousal reappraisal.
+
+Sharpe BT(1), Sharpe A(1), Poulus D(2), Obine EAC(1), King R(1), Birch PDJ(3), 
+Gladwin TE(4).
+
+Author information:
+(1)Institute of Psychology, Business, and Human Sciences, University of 
+Chichester, Chichester, UK.
+(2)Physical Activity, Sport, and Exercise Research Theme, Faculty of Health, 
+Southern Cross University, Lismore, Australia.
+(3)Institute of Applied Sciences, University of Chichester, Chichester, UK.
+(4)Institute for Globally Distributed Open Research and Education (IGDORE), 
+London, UK.
+
+BACKGROUND AND OBJECTIVES: This pilot study explored the combined impact of 
+arousal reappraisal intervention and transcranial direct current stimulation 
+(tDCS) targeting the left dorsolateral prefrontal cortex (PFC) on state anxiety, 
+challenge and threat appraisals, and performance under high pressure in esport 
+contexts. Arousal reappraisal has previously been shown to enable individuals to 
+interpret physiological arousal more constructively, while tDCS has demonstrated 
+potential to increase the efficacy of psychological interventions.
+DESIGN: A fully repeated measures study design was employed where participants 
+experienced four different experimental interventions: tDCS with arousal 
+reappraisal, tDCS with active control, sham stimulation with arousal 
+reappraisal, and sham stimulation with active control.
+METHODS: Seventeen male Counter-Strike competitors participated in the study. 
+Each participant received all four experimental intervention conditions, with 
+measurements taken of state anxiety, challenge and threat appraisals, and esport 
+performance under pressure.
+RESULTS: The findings tentatively suggest that arousal reappraisal effectively 
+reduces cognitive anxiety, promotes favourable challenge appraisals versus 
+threat, and enhances esports performance. This effect appeared more pronounced 
+when arousal reappraisal was combined with anodal tDCS.
+CONCLUSIONS: Combining arousal reappraisal and tDCS may be a promising 
+intervention for esports competitors facing performance pressure. The 
+synergistic effects of these interventions warrant further investigation in 
+larger samples.
+
+DOI: 10.1080/10615806.2025.2502792
+PMID: 40340544 [Indexed for MEDLINE]

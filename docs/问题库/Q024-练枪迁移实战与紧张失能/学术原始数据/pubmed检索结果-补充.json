@@ -1,0 +1,321 @@
+{
+  "reinvestment_masters": {
+    "query": "reinvestment movement specific conscious processing sport",
+    "count": "26",
+    "items": [
+      {
+        "pmid": "34553678",
+        "date": "2022 Jan",
+        "journal": "J Sports Sci",
+        "title": "The Rowing-Specific Reinvestment Scale."
+      },
+      {
+        "pmid": "26265344",
+        "date": "2015 Jun",
+        "journal": "J Sport Exerc Psychol",
+        "title": "Examining Movement-Specific Reinvestment and Performance in Demanding Contexts."
+      },
+      {
+        "pmid": "34630227",
+        "date": "2021",
+        "journal": "Front Psychol",
+        "title": "Exploring the Dimensions of Movement-Specific Reinvestment From Personal Characteristics Perspectives."
+      },
+      {
+        "pmid": "34066063",
+        "date": "2021 May 12",
+        "journal": "Int J Environ Res Public Health",
+        "title": "Movement-Specific Reinvestment in Older People Explains Past Falls and Predicts Future Error-Prone Movements."
+      },
+      {
+        "pmid": "29368972",
+        "date": "2018 Dec",
+        "journal": "Physiother Theory Pract",
+        "title": "Propensity for movement specific reinvestment by physiotherapists: Implications for education."
+      },
+      {
+        "pmid": "37665924",
+        "date": "2023 Nov",
+        "journal": "Psychol Sport Exerc",
+        "title": "Reinvestment in one versus one in-field and shoot-out field hockey performance."
+      }
+    ]
+  },
+  "conscious_processing": {
+    "query": "conscious processing hypothesis skill performance",
+    "count": "25",
+    "items": [
+      {
+        "pmid": "29997061",
+        "date": "2019 Jan 1",
+        "journal": "Neurosci Lett",
+        "title": "The cerebellum and cognition."
+      },
+      {
+        "pmid": "11765737",
+        "date": "2001 Nov",
+        "journal": "Q J Exp Psychol A",
+        "title": "The automaticity of complex motor skill learning as a function of attentional focus."
+      },
+      {
+        "pmid": "30171867",
+        "date": "2018 Dec",
+        "journal": "Prog Neurobiol",
+        "title": "A natural history of skills."
+      },
+      {
+        "pmid": "11055814",
+        "date": "2000 Oct",
+        "journal": "J Sports Sci",
+        "title": "State anxiety and motor performance: testing the conscious processing hypothesis."
+      },
+      {
+        "pmid": "32909081",
+        "date": "2021 Feb",
+        "journal": "Cogn Process",
+        "title": "Internal focus instruction increases psychological stress with conscious motor processing and deteriorates motor performance in dart throwing."
+      },
+      {
+        "pmid": "35087383",
+        "date": "2021",
+        "journal": "Front Syst Neurosci",
+        "title": "Predictive Neuronal Adaptation as a Basis for Consciousness."
+      }
+    ]
+  },
+  "explicit_monitoring": {
+    "query": "explicit monitoring skilled motor performance breakdown",
+    "count": "0",
+    "items": []
+  },
+  "self_focus_choking": {
+    "query": "self-focus attention choking sport expert",
+    "count": "1",
+    "items": [
+      {
+        "pmid": "20425657",
+        "date": "2011 Jan",
+        "journal": "Anxiety Stress Coping",
+        "title": "Thoughts and attention of athletes under pressure: skill-focus or performance worries?"
+      }
+    ]
+  },
+  "specificity_learning": {
+    "query": "specificity of learning hypothesis motor transfer",
+    "count": "75",
+    "items": [
+      {
+        "pmid": "31627755",
+        "date": "2019 Oct 18",
+        "journal": "J Neuroeng Rehabil",
+        "title": "Learning and transfer of complex motor skills in virtual reality: a perspective review."
+      },
+      {
+        "pmid": "18322088",
+        "date": "2008 Mar 5",
+        "journal": "J Neurosci",
+        "title": "Specificity of speech motor learning."
+      },
+      {
+        "pmid": "19716894",
+        "date": "2010 Jan 1",
+        "journal": "Neuroimage",
+        "title": "Dynamics of motor-related functional integration during motor sequence learning."
+      },
+      {
+        "pmid": "28688905",
+        "date": "2018 Nov",
+        "journal": "Vision Res",
+        "title": "Long-term motor learning: Effects of varied and specific practice."
+      },
+      {
+        "pmid": "31438776",
+        "date": "2020 Feb",
+        "journal": "Percept Mot Skills",
+        "title": "Benefits of a Guided Motor-Mental Preperformance Routine on Learning the Basketball Free Throw."
+      },
+      {
+        "pmid": "37143922",
+        "date": "2023",
+        "journal": "Front Behav Neurosci",
+        "title": "Effect of the level of task abstraction on the transfer of knowledge from virtual environments in cognitive and motor tasks."
+      }
+    ]
+  },
+  "social_evaluation_emg": {
+    "query": "social evaluative threat muscle activity tremor performance",
+    "count": "0",
+    "items": []
+  },
+  "tremor_anxiety": {
+    "query": "physiological tremor anxiety precision aiming",
+    "count": "1",
+    "items": [
+      {
+        "pmid": "34121985",
+        "date": "2021",
+        "journal": "Front Neurosci",
+        "title": "Dl-3-n-Butylphthalide Alleviates Behavioral and Cognitive Symptoms Via Modulating Mitochondrial Dynamics in the A53T-α-Synuclein Mouse Model of Parkinson's Disease."
+      }
+    ]
+  },
+  "evaluation_apprehension": {
+    "query": "evaluation apprehension fine motor accuracy",
+    "count": "0",
+    "items": []
+  },
+  "pressure_decrement": {
+    "query": "pressure induced performance decrement incentive",
+    "count": "6",
+    "items": [
+      {
+        "pmid": "6707866",
+        "date": "1984 Mar",
+        "journal": "J Pers Soc Psychol",
+        "title": "Choking under pressure: self-consciousness and paradoxical effects of incentives on skillful performance."
+      },
+      {
+        "pmid": "25713517",
+        "date": "2015",
+        "journal": "Front Behav Neurosci",
+        "title": "Choking under pressure: the neuropsychological mechanisms of incentive-induced performance decrements."
+      },
+      {
+        "pmid": "15686575",
+        "date": "2005 Feb",
+        "journal": "Psychol Sci",
+        "title": "When high-powered people fail: working memory and \"choking under pressure\" in math."
+      },
+      {
+        "pmid": "24639634",
+        "date": "2014",
+        "journal": "Front Behav Neurosci",
+        "title": "Time-on-task decrement in vigilance is modulated by inter-individual vulnerability to homeostatic sleep pressure manipulation."
+      },
+      {
+        "pmid": "21684618",
+        "date": "2011 Dec",
+        "journal": "Hum Mov Sci",
+        "title": "The influence of monetary reward and punishment on psychological, physiological, behavioral and performance aspects of a golf putting task."
+      },
+      {
+        "pmid": "5747772",
+        "date": "1968",
+        "journal": "Psychopharmacologia",
+        "title": "Altitude acclimatization: its effects on hypoxia-induced performance decrements."
+      }
+    ]
+  },
+  "near_transfer_far": {
+    "query": "near transfer far transfer training specificity",
+    "count": "94",
+    "items": [
+      {
+        "pmid": "32062406",
+        "date": "2020 May",
+        "journal": "J Exp Child Psychol",
+        "title": "Cognitive flexibility training has direct and near transfer effects, but no far transfer effects, in preschoolers."
+      },
+      {
+        "pmid": "42612664",
+        "date": "2026 Aug 18",
+        "journal": "Lancet HIV",
+        "title": "Global, regional, and national burden of HIV/AIDS, 1990-2023, with the estimated burden attributable to intimate partner violence and forecasted impacts of funding cuts through 2030: results from the Global Burden of Disease Study 2023."
+      },
+      {
+        "pmid": "30652908",
+        "date": "2019 Feb",
+        "journal": "Psychol Bull",
+        "title": "A meta-analysis of the experimental evidence on the near- and far-transfer effects among children's executive function skills."
+      },
+      {
+        "pmid": "35846628",
+        "date": "2022",
+        "journal": "Front Psychol",
+        "title": "Music Aptitude, Training, and Cognitive Transfer: A Mini-Review."
+      },
+      {
+        "pmid": "32116972",
+        "date": "2020",
+        "journal": "Front Psychol",
+        "title": "Testing the Effects of 3D Multiple Object Tracking Training on Near, Mid and Far Transfer."
+      },
+      {
+        "pmid": "37948381",
+        "date": "2023",
+        "journal": "PLoS One",
+        "title": "Can cognitive training capitalise on near transfer effects? Limited evidence of transfer following online inhibition training in a randomised-controlled trial."
+      }
+    ]
+  },
+  "dual_task_pressure": {
+    "query": "dual task training protects choking pressure",
+    "count": "0",
+    "items": []
+  },
+  "esports_anxiety_hr": {
+    "query": "esports competitive anxiety heart rate variability",
+    "count": "2",
+    "items": [
+      {
+        "pmid": "37274860",
+        "date": "2022",
+        "journal": "Clin Pract Epidemiol Ment Health",
+        "title": "Anodal Transcranial Direct Current Stimulation Reduces Competitive Anxiety and Modulates Heart Rate Variability in an eSports Player."
+      },
+      {
+        "pmid": "41035706",
+        "date": "2025",
+        "journal": "Clin Pract Epidemiol Ment Health",
+        "title": "Effects of a Playoff Match on Competitive Anxiety and Autonomic Regulation in Professional esports Players."
+      }
+    ]
+  },
+  "grip_force_anxiety": {
+    "query": "grip force anxiety precision task",
+    "count": "0",
+    "items": []
+  },
+  "attention_narrowing": {
+    "query": "attention narrowing arousal peripheral vision",
+    "count": "9",
+    "items": [
+      {
+        "pmid": "33813067",
+        "date": "2021 Jun",
+        "journal": "Cortex",
+        "title": "The peripheral sensitivity profile at the saccade target reshapes during saccade preparation."
+      },
+      {
+        "pmid": "2271803",
+        "date": "1990 Winter",
+        "journal": "Behav Med",
+        "title": "Effects of life-event stress on anxiety and peripheral narrowing."
+      },
+      {
+        "pmid": "9138624",
+        "date": "1997 Winter",
+        "journal": "Behav Med",
+        "title": "Psychosocial influences on central and peripheral vision and reaction time during demanding tasks."
+      },
+      {
+        "pmid": "6844068",
+        "date": "1983 Feb",
+        "journal": "Percept Mot Skills",
+        "title": "Cognitive tunneling: use of visual information under stress."
+      },
+      {
+        "pmid": "26400938",
+        "date": "2015 Sep 23",
+        "journal": "J Neurosci",
+        "title": "Interareal Spike-Train Correlations of Anterior Cingulate and Dorsal Prefrontal Cortex during Attention Shifts."
+      },
+      {
+        "pmid": "26561967",
+        "date": "2015 Feb",
+        "journal": "Perception",
+        "title": "Nonuniform Changes in the Distribution of Visual Attention from Visual Complexity and Action: A Driving Simulation Study."
+      }
+    ]
+  }
+}

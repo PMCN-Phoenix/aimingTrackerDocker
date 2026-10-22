@@ -1,0 +1,593 @@
+{
+  "choking_pressure": {
+    "query": "choking under pressure motor performance",
+    "count": "42",
+    "items": [
+      {
+        "pmid": "33086989",
+        "date": "2021",
+        "journal": "J Mot Behav",
+        "title": "Providing Choice Enhances Motor Performance under Psychological Pressure."
+      },
+      {
+        "pmid": "39270654",
+        "date": "2024 Oct 23",
+        "journal": "Neuron",
+        "title": "A neural basis of choking under pressure."
+      },
+      {
+        "pmid": "37090659",
+        "date": "2023 Apr 16",
+        "journal": "bioRxiv",
+        "title": "A neural basis of choking under pressure."
+      },
+      {
+        "pmid": "33406149",
+        "date": "2021",
+        "journal": "PLoS One",
+        "title": "Factors of choking under pressure in musicians."
+      },
+      {
+        "pmid": "29777527",
+        "date": "2019 Feb",
+        "journal": "Psychon Bull Rev",
+        "title": "Limiting motor skill knowledge via incidental training protects against choking under pressure."
+      },
+      {
+        "pmid": "38376935",
+        "date": "2024 Feb",
+        "journal": "J Exp Psychol Hum Percept Perform",
+        "title": "Conquering pressure! The effects of mild-anxiety training on motor performance under pressure during early motor learning."
+      }
+    ]
+  },
+  "anxiety_fine_motor": {
+    "query": "anxiety fine motor control precision accuracy",
+    "count": "1",
+    "items": [
+      {
+        "pmid": "42192772",
+        "date": "2026 Apr 24",
+        "journal": "Brain Sci",
+        "title": "The Effects of Mental Fatigue on Psychophysiological Responses, Mood States, and Archery Shooting Performance Under a Simulated Archery Competition: A Randomized Cross-Over Study."
+      }
+    ]
+  },
+  "anxiety_emg_tension": {
+    "query": "anxiety muscle tension electromyography performance",
+    "count": "20",
+    "items": [
+      {
+        "pmid": "23324873",
+        "date": "2013 Feb",
+        "journal": "Psychosom Med",
+        "title": "Respiratory muscle tension as symptom generator in individuals with high anxiety sensitivity."
+      },
+      {
+        "pmid": "1961662",
+        "date": "1991 Jun",
+        "journal": "Percept Mot Skills",
+        "title": "Lack of correlation between frontalis electromyography and self-ratings of either frontalis tension or state anxiety."
+      },
+      {
+        "pmid": "12001884",
+        "date": "2002 Mar",
+        "journal": "Appl Psychophysiol Biofeedback",
+        "title": "Muscle tension and physiologic hyperarousal, performance, and state affectivity: assessing the independence of effects in frequent headache and depression."
+      },
+      {
+        "pmid": "22265719",
+        "date": "2012 Apr",
+        "journal": "Int J Psychophysiol",
+        "title": "The time course of autonomic parameters and muscle tension during recovery following a moderate cognitive stressor: dependency on trait anxiety level."
+      },
+      {
+        "pmid": "33500200",
+        "date": "2023 Mar",
+        "journal": "J Voice",
+        "title": "Exploring the Characteristics of Functional Dysphonia by Multimodal Methods."
+      },
+      {
+        "pmid": "19701628",
+        "date": "2009 Nov",
+        "journal": "Exp Brain Res",
+        "title": "Music performance anxiety in skilled pianists: effects of social-evaluative performance situation on subjective, autonomic, and electromyographic reactions."
+      }
+    ]
+  },
+  "reinvestment": {
+    "query": "reinvestment explicit monitoring skill breakdown",
+    "count": "0",
+    "items": []
+  },
+  "self_focus": {
+    "query": "self-focused attention motor automaticity performance",
+    "count": "0",
+    "items": []
+  },
+  "specificity_practice": {
+    "query": "specificity of practice transfer training",
+    "count": "3337",
+    "items": [
+      {
+        "pmid": "34416824",
+        "date": "2022 Feb",
+        "journal": "J Dent Res",
+        "title": "Caries Detection on Intraoral Images Using Artificial Intelligence."
+      },
+      {
+        "pmid": "40877870",
+        "date": "2025 Aug 28",
+        "journal": "BMC Med Educ",
+        "title": "The impact of clinical simulation on bridging the theory-practice gap in nursing education: a systematic review."
+      },
+      {
+        "pmid": "27532314",
+        "date": "2016 Apr",
+        "journal": "JBI Database System Rev Implement Rep",
+        "title": "Health professionals' experience of teamwork education in acute hospital settings: a systematic review of qualitative literature."
+      },
+      {
+        "pmid": "39083838",
+        "date": "2024 Jun",
+        "journal": "Invest Educ Enferm",
+        "title": "Perception of Knowledge Transfer from Clinical Simulations to the Care Practice in Nursing Students."
+      },
+      {
+        "pmid": "39522338",
+        "date": "2025 Jan",
+        "journal": "Nurse Educ Today",
+        "title": "Integrated measure for training transfer in nursing practice: Development and validation study."
+      },
+      {
+        "pmid": "26768734",
+        "date": "2016 Jan 15",
+        "journal": "BMC Med Educ",
+        "title": "A systematic review and meta-analysis of selected motor learning principles in physiotherapy and medical education."
+      }
+    ]
+  },
+  "transfer_training": {
+    "query": "transfer of training motor skill learning",
+    "count": "964",
+    "items": [
+      {
+        "pmid": "38081160",
+        "date": "2024 Jan",
+        "journal": "Eur J Neurosci",
+        "title": "Relationship between skill training and skill transfer through the example of bimanual motor learning."
+      },
+      {
+        "pmid": "31627755",
+        "date": "2019 Oct 18",
+        "journal": "J Neuroeng Rehabil",
+        "title": "Learning and transfer of complex motor skills in virtual reality: a perspective review."
+      },
+      {
+        "pmid": "39094235",
+        "date": "2024 Sep",
+        "journal": "Gait Posture",
+        "title": "Interlimb transfer of sequential motor learning between upper and lower effectors."
+      },
+      {
+        "pmid": "28482202",
+        "date": "2017 Jul",
+        "journal": "Gait Posture",
+        "title": "Interlimb transfer of motor skill learning during walking: No evidence for asymmetric transfer."
+      },
+      {
+        "pmid": "37116765",
+        "date": "2023 Jul 1",
+        "journal": "Neuroimage",
+        "title": "Coherent, time-shifted patterns of microstructural plasticity during motor-skill learning."
+      },
+      {
+        "pmid": "15686098",
+        "date": "2004",
+        "journal": "Cerebellum",
+        "title": "Possible mechanism for transfer of motor skill learning: implication of the cerebellum."
+      }
+    ]
+  },
+  "warmup_decrement": {
+    "query": "warm-up decrement motor performance",
+    "count": "20",
+    "items": [
+      {
+        "pmid": "7567381",
+        "date": "1995 Jun",
+        "journal": "Percept Mot Skills",
+        "title": "Characteristics of motor performance, learning, warm-up decrement, and reminiscence during a balancing task."
+      },
+      {
+        "pmid": "41193509",
+        "date": "2025 Nov 5",
+        "journal": "Sci Rep",
+        "title": "Self selected music during warm up improves anaerobic performance in female handball players across time of day."
+      },
+      {
+        "pmid": "23611248",
+        "date": "2013",
+        "journal": "J Mot Behav",
+        "title": "Task difficulty and the time scales of warm-up and motor learning."
+      },
+      {
+        "pmid": "7563292",
+        "date": "1995 Jun",
+        "journal": "J Sports Sci",
+        "title": "Examining warm-up decrement as a function of interpolated open and closed motor tasks: implications for practice strategies."
+      },
+      {
+        "pmid": "29684760",
+        "date": "2018 Jun",
+        "journal": "Hum Mov Sci",
+        "title": "Unifying practice schedules in the timescales of motor learning and performance."
+      },
+      {
+        "pmid": "3982937",
+        "date": "1985 Feb",
+        "journal": "Percept Mot Skills",
+        "title": "Effect of using mechanical devices for baseball batting on warm-up decrement."
+      }
+    ]
+  },
+  "contextual_interference": {
+    "query": "contextual interference practice transfer retention",
+    "count": "74",
+    "items": [
+      {
+        "pmid": "38987617",
+        "date": "2024 Jul 10",
+        "journal": "Sci Rep",
+        "title": "High contextual interference improves retention in motor learning: systematic review and meta-analysis."
+      },
+      {
+        "pmid": "39205981",
+        "date": "2024",
+        "journal": "Front Psychol",
+        "title": "The effect of contextual interference on transfer in motor learning - a systematic review and meta-analysis."
+      },
+      {
+        "pmid": "35601906",
+        "date": "2022",
+        "journal": "Front Hum Neurosci",
+        "title": "Random Practice Enhances Retention and Spatial Transfer in Force Field Adaptation."
+      },
+      {
+        "pmid": "34981234",
+        "date": "2022 Sep",
+        "journal": "Surg Endosc",
+        "title": "Contextual interference for skills development and transfer in laparoscopic surgery: a randomized controlled trial."
+      },
+      {
+        "pmid": "10483636",
+        "date": "1999 Apr",
+        "journal": "Percept Mot Skills",
+        "title": "Effects of contextual interference and age on acquisition, retention, and transfer of motor skill."
+      },
+      {
+        "pmid": "28041606",
+        "date": "2017 Feb",
+        "journal": "Am J Surg",
+        "title": "Acquisition, retention and transfer of simulated laparoscopic tasks using fNIR and a contextual interference paradigm."
+      }
+    ]
+  },
+  "variable_practice": {
+    "query": "variable practice transfer novel task",
+    "count": "47",
+    "items": [
+      {
+        "pmid": "28647814",
+        "date": "2017 Sep",
+        "journal": "Exp Brain Res",
+        "title": "The effects of variable practice on locomotor adaptation to a novel asymmetric gait."
+      },
+      {
+        "pmid": "19425459",
+        "date": "2009 Feb",
+        "journal": "Percept Mot Skills",
+        "title": "Improvement of obstacle avoidance on a compliant surface during transfer to a novel visual task after variable practice under unusual visual conditions."
+      },
+      {
+        "pmid": "24054898",
+        "date": "2013 Aug",
+        "journal": "Hum Mov Sci",
+        "title": "Gradual training reduces practice difficulty while preserving motor learning of a novel locomotor task."
+      },
+      {
+        "pmid": "29494670",
+        "date": "2018",
+        "journal": "PLoS One",
+        "title": "Dissociable effects of practice variability on learning motor and timing skills."
+      },
+      {
+        "pmid": "41264938",
+        "date": "2025 Dec 24",
+        "journal": "J Neural Eng",
+        "title": "Enhancing SSVEP-BCI performance through multi-stimulus discriminant fusion analysis."
+      },
+      {
+        "pmid": "11587905",
+        "date": "2001 Oct",
+        "journal": "Brain Res Cogn Brain Res",
+        "title": "Variable practice with lenses improves visuo-motor plasticity."
+      }
+    ]
+  },
+  "quiet_eye_pressure": {
+    "query": "quiet eye anxiety aiming accuracy",
+    "count": "3",
+    "items": [
+      {
+        "pmid": "17926174",
+        "date": "2008 Jan 15",
+        "journal": "J Sports Sci",
+        "title": "State anxiety and visual attention: the role of the quiet eye period in aiming to a far target."
+      },
+      {
+        "pmid": "21318734",
+        "date": "2011 Aug",
+        "journal": "Cogn Process",
+        "title": "Quiet-eye training for soccer penalty kicks."
+      },
+      {
+        "pmid": "33730694",
+        "date": "2021 Apr 1",
+        "journal": "J Sport Exerc Psychol",
+        "title": "Context Affects Quiet Eye Duration and Motor Performance Independent of Cognitive Effort."
+      }
+    ]
+  },
+  "gaze_control_stress": {
+    "query": "gaze control under pressure performance",
+    "count": "29",
+    "items": [
+      {
+        "pmid": "38636392",
+        "date": "2024 Jun",
+        "journal": "Hum Mov Sci",
+        "title": "Pistol shooting performance under pressure: Longitudinal changes in gaze behavior of male and female Army cadets."
+      },
+      {
+        "pmid": "21807433",
+        "date": "2012 Feb",
+        "journal": "Hum Mov Sci",
+        "title": "Performing under pressure: gaze control, decision making and shooting performance of elite and rookie police officers."
+      },
+      {
+        "pmid": "17827115",
+        "date": "2007 Sep",
+        "journal": "J Mot Behav",
+        "title": "Performing under pressure: the effects of physiological arousal, cognitive anxiety, and gaze control in biathlon."
+      },
+      {
+        "pmid": "21318734",
+        "date": "2011 Aug",
+        "journal": "Cogn Process",
+        "title": "Quiet-eye training for soccer penalty kicks."
+      },
+      {
+        "pmid": "26467525",
+        "date": "2016 Jul",
+        "journal": "Ergonomics",
+        "title": "The impact of personality traits and professional experience on police officers' shooting performance under pressure."
+      },
+      {
+        "pmid": "25996104",
+        "date": "2015 Apr",
+        "journal": "J Sport Exerc Psychol",
+        "title": "Ego depletion and attention regulation under pressure: is a temporary loss of self-control strength indeed related to impaired attention regulation?"
+      }
+    ]
+  },
+  "arousal_performance": {
+    "query": "arousal performance relationship inverted U hypothesis",
+    "count": "16",
+    "items": [
+      {
+        "pmid": "14768844",
+        "date": "2003 Dec",
+        "journal": "Res Q Exerc Sport",
+        "title": "Arousal, anxiety, and performance: a reexamination of the Inverted-U hypothesis."
+      },
+      {
+        "pmid": "41309875",
+        "date": "2025 Nov 27",
+        "journal": "Sci Rep",
+        "title": "The inverted-U relationship between stress and performance in elite shooting."
+      },
+      {
+        "pmid": "1623887",
+        "date": "1992",
+        "journal": "Exerc Sport Sci Rev",
+        "title": "Anxiety and sport performance."
+      },
+      {
+        "pmid": "35069324",
+        "date": "2021",
+        "journal": "Front Psychol",
+        "title": "The Effect of Red and Blue on Gross and Fine Motor Tasks: Confirming the Inverted-U Hypothesis."
+      },
+      {
+        "pmid": "1123805",
+        "date": "1975 Jan",
+        "journal": "J Psychol",
+        "title": "A further test of the inverted-U hypothesis relating achievement anxiety and academic test performance."
+      },
+      {
+        "pmid": "16005288",
+        "date": "2005 Jul 12",
+        "journal": "Curr Biol",
+        "title": "Dopaminergic modulation of arousal in Drosophila."
+      }
+    ]
+  },
+  "cortisol_motor": {
+    "query": "stress cortisol motor control dexterity",
+    "count": "0",
+    "items": []
+  },
+  "psychological_skills": {
+    "query": "psychological skills training performance under pressure",
+    "count": "90",
+    "items": [
+      {
+        "pmid": "29777527",
+        "date": "2019 Feb",
+        "journal": "Psychon Bull Rev",
+        "title": "Limiting motor skill knowledge via incidental training protects against choking under pressure."
+      },
+      {
+        "pmid": "27409075",
+        "date": "2016 Jul 6",
+        "journal": "BMC Health Serv Res",
+        "title": "Proceedings of the 3rd IPLeiria's International Health Congress : Leiria, Portugal. 6-7 May 2016."
+      },
+      {
+        "pmid": "25713517",
+        "date": "2015",
+        "journal": "Front Behav Neurosci",
+        "title": "Choking under pressure: the neuropsychological mechanisms of incentive-induced performance decrements."
+      },
+      {
+        "pmid": "38773362",
+        "date": "2024 May 21",
+        "journal": "Int J Emerg Med",
+        "title": "Emergency medicine residents and performance under pressure: learning from elite athletes' experience."
+      },
+      {
+        "pmid": "41951087",
+        "date": "2026 Jul",
+        "journal": "Psychol Sport Exerc",
+        "title": "Counteracting choking under pressure in sport: A meta-analysis of interventions."
+      },
+      {
+        "pmid": "41103398",
+        "date": "2025",
+        "journal": "GMS J Med Educ",
+        "title": "Enhancing emergency medical education and training: Performance under pressure."
+      }
+    ]
+  },
+  "simulation_training": {
+    "query": "simulation training representativeness transfer sport",
+    "count": "6",
+    "items": [
+      {
+        "pmid": "39102157",
+        "date": "2024 Oct",
+        "journal": "Sports Med",
+        "title": "Accelerating Visual Anticipation in Sport Through Temporal Occlusion Training: A Meta-Analysis."
+      },
+      {
+        "pmid": "42135102",
+        "date": "2026 Jun",
+        "journal": "Environ Int",
+        "title": "Positive body image is a pathway between nature contact and life satisfaction across 58 nations."
+      },
+      {
+        "pmid": "32951536",
+        "date": "2021 Feb",
+        "journal": "J Sports Sci",
+        "title": "Examining the representativeness of a virtual reality environment for simulation of tennis performance."
+      },
+      {
+        "pmid": "37666187",
+        "date": "2023 Oct",
+        "journal": "Neural Netw",
+        "title": "Hybrid learning mechanisms under a neural control network for various walking speed generation of a quadruped robot."
+      },
+      {
+        "pmid": "29445348",
+        "date": "2018",
+        "journal": "Front Psychol",
+        "title": "Taekwondo Fighting in Training Does Not Simulate the Affective and Cognitive Demands of Competition: Implications for Behavior and Transfer."
+      },
+      {
+        "pmid": "41801641",
+        "date": "2026 Mar 9",
+        "journal": "Sports Med Open",
+        "title": "Effects of Core Strength Training on Maximal Trunk Muscle Strength and Cycling Economy in Female Mountain Bikers."
+      }
+    ]
+  },
+  "perceptual_cognitive": {
+    "query": "perceptual cognitive training transfer game",
+    "count": "25",
+    "items": [
+      {
+        "pmid": "39457791",
+        "date": "2024 Oct 9",
+        "journal": "Behav Sci (Basel)",
+        "title": "Effects of Perceptual-Cognitive Training on Anticipation and Decision-Making Skills in Team Sports: A Systematic Review and Meta-Analysis."
+      },
+      {
+        "pmid": "34568741",
+        "date": "2022",
+        "journal": "J Cogn Enhanc",
+        "title": "Training with an auditory perceptual learning game transfers to speech in competition."
+      },
+      {
+        "pmid": "28701989",
+        "date": "2017",
+        "journal": "Front Psychol",
+        "title": "Supramodal Enhancement of Auditory Perceptual and Cognitive Learning by Video Game Playing."
+      },
+      {
+        "pmid": "39427852",
+        "date": "2025 Jan",
+        "journal": "Psychol Sport Exerc",
+        "title": "No transfer of 3D-Multiple Object Tracking training on game performance in soccer: A follow-up study."
+      },
+      {
+        "pmid": "24782722",
+        "date": "2014",
+        "journal": "Front Syst Neurosci",
+        "title": "Are videogame training gains specific or general?"
+      },
+      {
+        "pmid": "40880030",
+        "date": "2025 Aug 29",
+        "journal": "Sports Med Open",
+        "title": "Exploring Convergence and Divergence in Seemingly Contrasting Perspectives on Training Perceptual-Cognitive Abilities for Sports Performance Through Moderated Dialogue."
+      }
+    ]
+  },
+  "esports_performance": {
+    "query": "esports performance anxiety cognitive",
+    "count": "5",
+    "items": [
+      {
+        "pmid": "35409833",
+        "date": "2022 Mar 31",
+        "journal": "Int J Environ Res Public Health",
+        "title": "Evaluation of a Brief Sleep Intervention Designed to Improve the Sleep, Mood, and Cognitive Performance of Esports Athletes."
+      },
+      {
+        "pmid": "37274860",
+        "date": "2022",
+        "journal": "Clin Pract Epidemiol Ment Health",
+        "title": "Anodal Transcranial Direct Current Stimulation Reduces Competitive Anxiety and Modulates Heart Rate Variability in an eSports Player."
+      },
+      {
+        "pmid": "41035706",
+        "date": "2025",
+        "journal": "Clin Pract Epidemiol Ment Health",
+        "title": "Effects of a Playoff Match on Competitive Anxiety and Autonomic Regulation in Professional esports Players."
+      },
+      {
+        "pmid": "40340544",
+        "date": "2025 Nov",
+        "journal": "Anxiety Stress Coping",
+        "title": "Enhancing pressurized esports performance: a pilot study on the combined effects of transcranial direct current stimulation and arousal reappraisal."
+      },
+      {
+        "pmid": "35103121",
+        "date": "2021 Dec",
+        "journal": "Cureus",
+        "title": "A Combination of Caffeine, TeaCrine® (Theacrine), and Dynamine® (Methylliberine) Increases Cognitive Performance and Reaction Time Without Interfering With Mood in Adult Male Egamers."
+      }
+    ]
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "variance_fixed": [
+    {
+      "scenario": "Jumbo Tile Frenzy LG56 WARMUP",
+      "days": 6,
+      "within_sd": 10.533377156540803,
+      "between_sd": 0.0,
+      "ratio": 999
+    },
+    {
+      "scenario": "voxTS Voltaic LG56 WARMUP",
+      "days": 6,
+      "within_sd": 11.440681914283607,
+      "between_sd": 2.3398863746934895,
+      "ratio": 4.889417724731298
+    },
+    {
+      "scenario": "patTS Voltaic Iron",
+      "days": 12,
+      "within_sd": 4.016951167481435,
+      "between_sd": 1.4659971339761686,
+      "ratio": 2.74008118732566
+    },
+    {
+      "scenario": "1w2ts reload smallflicks larger",
+      "days": 9,
+      "within_sd": 5.743120037704162,
+      "between_sd": 3.2815413410163288,
+      "ratio": 1.7501288086547326
+    },
+    {
+      "scenario": "Eclipse Flick LG56 WARMUP",
+      "days": 6,
+      "within_sd": 16.375504156165448,
+      "between_sd": 9.944334687208041,
+      "ratio": 1.6467169168421274
+    },
+    {
+      "scenario": "Centering II 180 no strafes LG56 WARMUP",
+      "days": 6,
+      "within_sd": 7.252924594146204,
+      "between_sd": 4.939141205582015,
+      "ratio": 1.468458643366836
+    },
+    {
+      "scenario": "SmoothBot Perfected Easier",
+      "days": 5,
+      "within_sd": 7.646480081864565,
+      "between_sd": 5.276886164420446,
+      "ratio": 1.449051551163103
+    },
+    {
+      "scenario": "B360TI LG56 WARMUP",
+      "days": 6,
+      "within_sd": 4.3845532564335965,
+      "between_sd": 3.292948947735155,
+      "ratio": 1.3314974893398308
+    },
+    {
+      "scenario": "Flower Easier 50cm",
+      "days": 4,
+      "within_sd": 21.661308656172835,
+      "between_sd": 17.605487965336586,
+      "ratio": 1.2303725235461662
+    },
+    {
+      "scenario": "Air CELESTIAL No UFO Easier",
+      "days": 5,
+      "within_sd": 4.051752392401002,
+      "between_sd": 3.4402062422629465,
+      "ratio": 1.1777643859327995
+    },
+    {
+      "scenario": "Pasu Voltaic Iron",
+      "days": 12,
+      "within_sd": 11.994068629074578,
+      "between_sd": 10.451552925188444,
+      "ratio": 1.1475872260253919
+    },
+    {
+      "scenario": "Consecutive Tracking LG56 WARMUP",
+      "days": 6,
+      "within_sd": 5.318041755123852,
+      "between_sd": 5.186948336814037,
+      "ratio": 1.0252737081222474
+    },
+    {
+      "scenario": "ww5t Voltaic Slightly Larger",
+      "days": 8,
+      "within_sd": 3.889304417285934,
+      "between_sd": 3.88841295429131,
+      "ratio": 1.000229261399214
+    },
+    {
+      "scenario": "Pasu Voltaic Reload Easier",
+      "days": 8,
+      "within_sd": 10.963370864558128,
+      "between_sd": 11.001910346017203,
+      "ratio": 0.9964970191314977
+    },
+    {
+      "scenario": "Wide Wall 3 Targets TE",
+      "days": 12,
+      "within_sd": 3.3203251628672446,
+      "between_sd": 3.3353375383753057,
+      "ratio": 0.9954989936294801
+    },
+    {
+      "scenario": "Tamspeed 2bp Iron",
+      "days": 12,
+      "within_sd": 9.909869383897538,
+      "between_sd": 9.9850501737536,
+      "ratio": 0.9924706647890784
+    },
+    {
+      "scenario": "Smoothbot Iron",
+      "days": 12,
+      "within_sd": 5.591825674965692,
+      "between_sd": 6.014638980656699,
+      "ratio": 0.9297026293596691
+    },
+    {
+      "scenario": "1w2t TE Reload",
+      "days": 12,
+      "within_sd": 2.9335292447152095,
+      "between_sd": 3.497467257562447,
+      "ratio": 0.8387581723237424
+    },
+    {
+      "scenario": "Popcorn MV Easier",
+      "days": 6,
+      "within_sd": 23.029664727034476,
+      "between_sd": 27.516867275717523,
+      "ratio": 0.8369290187098146
+    },
+    {
+      "scenario": "cloverRawControl Viscose Easier 50cm",
+      "days": 5,
+      "within_sd": 12.640930303243476,
+      "between_sd": 17.14451526943174,
+      "ratio": 0.7373162848052025
+    },
+    {
+      "scenario": "B90T Voltaic Easy Very Slow",
+      "days": 12,
+      "within_sd": 3.349669920282291,
+      "between_sd": 4.991981986974875,
+      "ratio": 0.6710100174684684
+    }
+  ],
+  "warmup_curve": {
+    "1": {
+      "n": 281,
+      "pct_of_best": 87.97316972666049
+    },
+    "2": {
+      "n": 281,
+      "pct_of_best": 92.03967839541471
+    },
+    "3": {
+      "n": 281,
+      "pct_of_best": 94.38779787951742
+    },
+    "4": {
+      "n": 120,
+      "pct_of_best": 90.4401925563868
+    },
+    "5": {
+      "n": 53,
+      "pct_of_best": 89.52755477654075
+    },
+    "6": {
+      "n": 19,
+      "pct_of_best": 87.23938245250054
+    }
+  }
+}
