@@ -1,0 +1,47 @@
+{
+	"playlistName": "G1 摸底 - 4卡口",
+	"playlistId": 900127,
+	"authorSteamId": "76561199835441317",
+	"authorName": "铎克",
+	"scenarioList": [
+		{
+			"scenario_name": "Plink Palace Easy Less Blinks",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "Air Pure Easier No UFO",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "Pasu Voltaic Reload Easier",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "VT Floating Heads Viscose Easier",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "Plink Palace Easy Less Blinks",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "Air Pure Easier No UFO",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "Pasu Voltaic Reload Easier",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "VT Floating Heads Viscose Easier",
+			"play_Count": 1
+		}
+	],
+	"description": "G1 目标卡 · 阶段1 摸底（8 轮 / 约 10 分钟）。目的不是练，是测出 4 个卡口的当前真实坐标——因为其中 3 格的数据是 09-16 的、只打过 1-2 轮，『只差 6.3 分』这个数字不可信。规则：① 交替打（A-B-C-D-A-B-C-D），让每个场景都吃到一次冷启动和一次热手，避免顺序偏差；② 不看分、不重打、不换灵敏度；③ 每场景 2 轮，取较好那轮作为摸底值；④ 打完回来填目标卡第七节进度表。禁止：为了过线而重打，那样摸底就变成撞线了。",
+	"hasOfflineScenarios": false,
+	"hasEdited": true,
+	"shareCode": "",
+	"version": 1,
+	"updated": 1793241556,
+	"isPrivate": true
+}
