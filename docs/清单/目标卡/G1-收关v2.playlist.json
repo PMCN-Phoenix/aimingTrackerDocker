@@ -1,0 +1,55 @@
+{
+	"playlistName": "G1 收关v2 - 避开头尾废轮",
+	"playlistId": 900129,
+	"authorSteamId": "76561199835441317",
+	"authorName": "铎克",
+	"scenarioList": [
+		{
+			"scenario_name": "Air CELESTIAL No UFO Easier",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "Air CELESTIAL No UFO Easier",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "Pasu Voltaic Reload Easier",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "VT Floating Heads Viscose Easier",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "Plink Palace Easy Less Blinks",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "Air Pure Easier No UFO",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "VT Floating Heads Viscose Easier",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "Plink Palace Easy Less Blinks",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "Air Pure Easier No UFO",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "Pasu Voltaic Reload Easier",
+			"play_Count": 1
+		}
+	],
+	"description": "G1 收关 v2（10 轮 / 约 13 分钟）。改法来自 10-29 摸底的轮位数据：#1 冷启动吃掉了 A 的 14%、#8 末端疲劳吃掉了 D 的 20%，8 轮里只有 #3–#7 有效。所以：① 前 2 轮改用 Air CELESTIAL 当热身（G2 的 Blending 格，顺便采数据，不判定）；② A 和 D 的两轮拆开放进 #4–#8 核心区；③ B 和 C 承担窗口边缘。判定：每格同日 ≥2 轮过线才算真过，再跨天复现一次。A 2,175 ｜ B 919 ｜ C 52 ｜ D 580。规则：不重打、不换灵敏度、不打第 10 轮之后。",
+	"hasOfflineScenarios": false,
+	"hasEdited": true,
+	"shareCode": "",
+	"version": 1,
+	"updated": 1793244773,
+	"isPrivate": true
+}
