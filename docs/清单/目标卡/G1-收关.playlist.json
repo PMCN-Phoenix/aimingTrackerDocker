@@ -1,0 +1,35 @@
+{
+	"playlistName": "G1 收关 - 冲B+复现ACD",
+	"playlistId": 900128,
+	"authorSteamId": "76561199835441317",
+	"authorName": "铎克",
+	"scenarioList": [
+		{
+			"scenario_name": "Air Pure Easier No UFO",
+			"play_Count": 2
+		},
+		{
+			"scenario_name": "Plink Palace Easy Less Blinks",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "Pasu Voltaic Reload Easier",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "VT Floating Heads Viscose Easier",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "Air Pure Easier No UFO",
+			"play_Count": 4
+		}
+	],
+	"description": "G1 收关（9 轮 / 约 12 分钟）。目的：① 把 Air Pure 从 913.5 推过 919（差 5.5 分）；② 让 Plink / Pasu / Floating Heads 拿到第二个训练日的过线确认（10-29 已各过一次）。顺序设计：先 Air Pure×2 当热身，再用热手状态打 A/C/D 三格复现，最后 Air Pure×4 主攻——此时手最热。方法提示：Air Pure 是 REACTIVE 跟踪类，别追速度，贴住目标边缘（边缘跟枪），目标变向时让它自己穿过准星。规则：不重打、不换灵敏度、不看分。",
+	"hasOfflineScenarios": false,
+	"hasEdited": true,
+	"shareCode": "",
+	"version": 1,
+	"updated": 1793242800,
+	"isPrivate": true
+}
